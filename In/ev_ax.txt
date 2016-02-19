@@ -1,0 +1,269 @@
+@ax   (axe) @axe   (axe) @axeman
+* dt
+- người dùng rìu
+ @axenik
+* tt
+- (sinh học) không ký chủ
+ @axes  
+*  dt
+- số nhiều của axe
+*  dt
+- số nhiều của axis
+
+@axe-stone  
+-'æksstoun@axial  
+*  tt
+- (thuộc) trục; quanh trục
+
++ axial symmetry: sự xứng đối qua trục
+
++ axial vector: vectơ trục
+
+@axial
+- (Tech) thuộc trục, theo trục, dọc trục
+ @axial
+- (thuộc) trục
+ @axial field
+- (Tech) trường hướng trục
+ @axial lead
+- (Tech) đầu ra theo trục
+ @axial mode
+- (Tech) kiểu dao động xuyên tâm
+ @axial mode helix
+- (Tech) đường xoắn ốc kiểu dọc trục
+ @axial ratio
+- (Tech) tỷ số trục (hình bầu dục)
+ @axial slot
+- (Tech) khe theo trục
+ @axial symmetry
+- (Tech) tính đối xứng theo trục
+ @axiality
+- xem axial
+ @axially
+- xem axial
+ @axil  
+*  dt
+- (thực vật học) nách lá
+
+@axile
+* tt
+- (sinh học) đính trụ; gắn trụ
+ @axilla  
+*  dt,  số nhiều axillae 
+@axillae  
+*  dt,  số nhiều axillae 
+@axillary  
+*  tt
+- (giải phẫu) (thuộc) nách
+- (thực vật học) ở nách lá
+
+@axiology
+* dt
+- thuyết giá trị; giá trị học
+ @axiom  
+*  dt
+- chân lý, sự thật, đương nhiên
+- (toán học) tiên đề
+- (từ hiếm,nghĩa hiếm) châm ngôn, phương ngôn
+
+@axiom
+- (Tech) tiên đề
+ @axiom
+- tiên đề
+- a. of choise tiên đề chọn
+- a. of completeness tiên đề đầy đủ
+- a. of congruence tiên đề tương đẳng
+- a. of connection tiên đề liên thông
+- a. of continuity tiên đề liên tục
+- a. of infinity tiên đề vô tận
+- a. of order tiên đề thứ tự
+- a. of parallels tiên đề đường song song
+- a. of reducibility tiên đề khả quy
+- a. of scheme (logic học) sơ đồ tiên đề
+- categorical a. tiên đề phạm trù
+- distance a. tiên đề khoảng cách 
+- exactness a. tiên đề khớp
+- exchange a. tiên đề thay thế
+- excision a. đs tiên đề khoét
+- fist countability a. tiên đề đếm được thứ nhất
+- general a. tiên đề tổng quát
+- geometric a. tiên đề hình học
+- norm a.s gt các tiên đề chuẩn
+- plane a. tiên đề mặt phẳng
+- second a. of countabitity tiên đề đếm được thứ hai
+- separation a.s các tiên đề tách 
+- space a. tiên đề không gian
+- triangle a. (tô pô) tiên đề tam giác 
+ @Axiom of
+- (Econ) Tiên đề về sự lựa chọn.
+: Xem AXIOMS OF PREFERENCE.
+ @Axiom of completeness
+- (Econ) Tiên đề về tính đầy đủ.
+: Xem AXIOMS OF PREFERENCE.
+ @Axiom of continuity
+- (Econ) Tiên đề về tính liên tục.
+: Xem AXIOMS OF PREFERENCE.
+ @Axiom of convexity
+- (Econ) Tiên đề về tính lồi.
+: Xem AXIOMS OF PREFERENCE.
+ @Axiom of dominance
+- (Econ) Tiên đề về tính thích nhiều hơn thích ít.
+: Xem AXIOMS OF PREFERENCE.
+ @Axiom of prefence
+- (Econ) Tiên đề về sở thích.
+: Trong lý thuyết CẦU CỦA NGƯỜI TIÊU DÙNG, các cá nhân được giả định là tuân thủ các nguyên tắc về hành vi duy lý và các tiên đề khác về hành vi.
+ @axiom schema
+- (Tech) sơ đồ tiên đề @axiomatic   (axiomatical) @axiomatical   (axiomatical) @axiomatic(al)
+- (thuộc) tiên đề
+ @axiomatically
+- xem axiomatic
+ @axiomatics  
+*  dt,  số nhiều dùng như số ít (toán học)
+- tiên đề học
+- hệ tiên đề
+
+@axiomatics
+- tiên đề học, hệ tiên đề
+- formal a. hệ tiên đề hình thức
+- informal a. hệ tiên đề không hình thức 
+ @axiomatizability
+- tính tiên đề hoá
+- finite a. tính tiên đề hoá hữu hạn 
+ @axiomatizable
+- tiên đề hoá được
+ @axiomatization
+- tiên đề hoá
+ @axipetal
+* tt
+- hướng trục, hướng trụ
+ @axis  
+*  dt,  số nhiều axes
+- trục
+
++ earth's axis: trục quả đất
+
++ geometrical axis: trục hình học
+
++ magnetic axis: trục từ
+
++ rotation axis: trục quay
+
++ symmetry axis: trục đối xứng
+
++ visual axis: trục nhìn
+- (vật lý) tia xuyên
+- (chính trị) trục Béc-lin,  Rô-ma,  Tô-ki-ô (khối liên minh)
+- (định ngữ) (thuộc) trục Béc-lin,  Rô-ma,  Tô-ki-ô
+
++ axis powers: các cường quốc trong trục Béc-lin,  Rô-ma,  Tô-ki-ô
+*  dt
+- (động vật học) hươu sao ((cũng) axis deer)
+
+@axis
+- (Tech) trục
+ @axis
+- trục
+- a. of abscissas trục hoành
+- a. of a cone trục của mặt nón
+- a. of a conic trục của cônic
+- a. of convergence trục hội tụ
+- a. of coordinate trục toạ độ
+- a. of a curvanture trục chính khúc
+- a. of cylinder trục của hình trụ
+- a. of homology trục thấu xạ
+- a. of linear complex trục của mớ tuyến tính
+- a. of ordinate trục tung
+- a. of a pencil of plane trục của một chùm mặt phẳng
+- a. of perspectivity trục phối cảnh
+- a. of projection trục chiếu
+- a. of a quadric trục của một quađric
+- a. of revolution trục tròn xoay
+- a. of symmetry trục đối xứng
+- binary a. trục nhị nguyên
+- circular a. đường tròn trục
+- conjugate a. of a hyperbola trục ảo của hipebon
+- coordinate a. trưcụ toạ độ
+- crystallograpphic a. trục tinh thể
+- electric a. trục điện
+- focal a. trục tiêu
+- homothetic a. trục vị tự
+- imaginary a. trục ảo
+- longitudinal a. trục dọc
+- majorr a. of an ellipse [trục lớn, trục chính] của elip
+- monor a. of an ellipse trục nhỏ của elip
+- moving a. trục động
+- neutral a. trục trung hoà
+- number a. trục số
+- optic a. quang trục
+- polar a. trục cực
+- principal a. trục chính
+- principal a. of inertia trục quán tính chính
+- radical a. trục đẳng phương
+- real a. trục thực
+- semi-transverse a. trục nửa xuyên
+- transverse a. trục thực, trục ngang, trục xuyên (của hipebon)
+- vertical a. trục thẳng đứng 
+ @axisymmetric(al)
+* tt
+- đối xứng theo trục
+ @axle  
+*  dt
+- (kỹ thuật) trục xe
+
+@axle
+- trục
+- instantaneous a. trục tức thời 
+ @axle grease  
+*  dt
+- mỡ tra trục, mỡ tra máy
+
+@axle-bearing  
+*  dt
+- (kỹ thuật) ổ trục
+
+@axle-box  
+*  dt
+- (kỹ thuật) hộp ổ trục
+
+@axle-pin  
+*  dt
+- (kỹ thuật) cái chốt
+
+@axle-tree  
+*  dt
+- (kỹ thuật) trục bánh xe
+
+@axoid
+* tt
+- dạng trục
+ @axoloti
+* dt
+- (sinh vật) ấu trùng axoloti
+ @axon
+* dt
+- sợi trục (thần kinh),  axon
+ @axonometry  
+*  dt
+- (toán học) trục lượng học
+
+@axonometry
+- trục lượng học
+ @axopetal
+* tt
+- (sinh học) hướng trục
+ @axoplasm
+* dt
+- (sinh học) chất sợi trục
+ @axoplast
+* dt
+- hạt sợi trục
+ @axopodium
+* dt
+- (sinh học) chân giả sợi trục
+ @axosomatic
+* tt
+- thuộc thể trục
+ @axostyle
+* dt
+- (sinh học) cuống trục
+ @

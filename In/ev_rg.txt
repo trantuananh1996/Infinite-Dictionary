@@ -1,0 +1,3 @@
+@rgb
+- ba màu cơ bản Red, Green và Blue
+ @

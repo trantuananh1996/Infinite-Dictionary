@@ -1,0 +1,4081 @@
+@CR (Carriage Return)
+- (Tech) xuống-về đầu hàng; về đầu hàng, phục qui [NB]
+ @crab  
+*  dt
+- quả táo dại ((cũng) crab apple); cây táo dại ((cũng) crab tree)
+- người hay gắt gỏng, người hay càu nhàu
+- con cua
+- can rận ((cũng) crab louse)
+- (kỹ thuật) cái tời
+- (số nhiều) hai số một (chơi súc sắc); (nghĩa bóng) sự thất bại
+*  dgt
+- cào xé (bằng móng); vồ, quắp (chim ưng)
+- công kích chê bai, chỉ trích (ai)
+
+@crab apple
+* dt
+- cây táo đại
+- quả táo đại
+ @crab-apple
+* dt
+- quả táo tây dại
+ @crabbed  
+*  tt
+- hay càu nhàu, hay gắt gỏng; chua chát
+- khó đọc
+
++ crabbed writing: chữ khó đọc
+- lúng túng, lằng nhằng, không thoát (văn)
+
+@crabbedly
+- xem crabbed
+ @crabbedness
+- xem crabbed
+ @crabber
+- xem crab
+ @crabbily
+- xem crabby
+ @crabbiness
+- xem crabby
+ @crabbing
+* dt
+- việc bắt cua
+ @crabbit
+* tt
+- khó tính; dễ cáu
+ @crabby
+* tt
+- cáu gắt, gắt gỏng
+ @crab-louse
+* dt
+- con rận
+ @crab-pot  
+*  dt
+- vết nứt, vết rạn, vết nẻ
+- tiếng kêu răng rắc; tiếng nổ giòn (súng, sấm...); tiếng đét đét (roi da...)
+- quả đấm mạnh
+
++ a crab-pot on the head: một quả đấm mạnh vào đầu
+- lát, thoáng
+
++ in a crab-pot: chỉ một thoáng
+- cuộc nói chuyện vui, cuộc nói chuyện phiếm
+- tay giỏi, tay cừ khôi (cưỡi ngựa, đánh bài, chèo thuyền...)
+- (từ lóng) kẻ trộm; vụ nạy cửa ăn trộm, vụ đào ngạch ăn trộm
+- (từ Mỹ,nghĩa Mỹ) giọng vỡ tiếng
+- (số nhiều) tin tức
+- (từ cổ,nghĩa cổ),  (từ lóng) lời nói láo, lời nói khoác
+
+@crab-tree
+* dt
+- cây táo tây dại
+ @crabwise
+* dt
+- khó nhọc, cực nhọc
+ @crack  
+*  tt
+- (thông tục) cừ, xuất sắc
+
++ a crack oar: tay chèo cừ
+
++ a crack shot: tay súng giỏi
+
++ crack unit: đơn vị xuất sắc, đơn vị thiện chiến
+*  ngdgt
+- quất (roi) đét đét; búng (ngón tay) kêu tanh tách, bẻ (đốt ngón tay) kêu răng rắc
+- làm nứt, làm rạn, làm vỡ, kẹp vỡ
+!to crack a glass
+- làm rạn một cái tách
+
++ to crack a skull: đánh vỡ sọ
+- làm tổn thương
+
++ to crack someone's credit (reputation): làm tổn thương danh dự của ai
+- (kỹ thuật) làm crackinh (dầu hoả...)
+*  ndgt
+- kêu răng rắc, kêu đen đét, nổ giòn
+- nứt nẻ, rạn nứt, vỡ, gãy ((nghĩa đen) & (nghĩa bóng))
+
++ that board has cracked in the sun: mảnh gỗ ấy nứt ra dưới ánh nắng
+
++ imperialism is cracking everywhere: chủ nghĩa đế quốc rạn nứt khắp nơi
+
++ his voice begins to crack: nó bắt đầu vỡ tiếng
+- nói chuyện vui, nói chuyện phiếm
+!to crack sown on
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đàn áp thẳng tay
+!to crack up
+- tán dương, ca ngợi (ai)
+- vỡ nợ, phá sản
+- kiệt sức
+- khoe khoang, khoác lác, huênh hoang, nói phách
+!to crack a bottle with someone
+- mở một chai rượu uống hết với ai
+!to crack a crib
+- (từ lóng) đào ngạch vào ăn trộm, nạy cửa vào ăn trộm
+!to crack a joke
+- nói đùa một câu
+!a hard nut to crack
+- (xem) nut
+
+@crack
+- (cơ học) làm nứt, làm nứt thành khe
+ @crackajack
+* dt
+- (thông tục) người tài năng phi thường
+* tt
+- tài giỏi tuyệt vời
+ @crack-barrel
+* tt
+- thôn dã
+ @crackbrain
+* tt
+- gàn dở, dở hơi, điên rồ
+ @crack-brained  
+*  tt
+- gàn, dở hơi
+
+@crack-down
+* dt
+- sự trừng trị thẳng tay, sự đàn áp không nương tay
+ @crackdown
+* dt
+- sự trừng trị thẳng tay, biện pháp thẳng tay hơn
+ @cracked  
+*  tt
+- rạn, nứt
+
++ a cracked cup: cái tách rạn
+- vỡ (tiếng nói)
+- (thông tục) gàn, dở hơi
+
+@cracker  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) bánh quy giòn
+- kẹo giòn
+- pháo (để đốt)
+- (số nhiều) cái kẹp hạt dẻ
+- tiếng đổ vỡ; sự đổ vỡ
+-(ngôn ngữ nhà trường),  (từ lóng) lời nói láo, lời nói khoác
+- (từ Mỹ,nghĩa Mỹ) người da trắng nghèo ở miền nam nước Mỹ
+- (từ Mỹ,nghĩa Mỹ) máy đập giập, máy nghiền, máy tán
+!to be crackers
+- (từ lóng) hoá rồ, dở chứng gàn
+
+@cracking  
+*  dt
+- (kỹ thuật) crackinh
+
+@crackjack  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tay xuất sắc, tay cừ khôi (trong công việc gì)
+- vật rất chiến, vật rất tuyệt
+
+@crack-jaw  
+*  dt
+- (thông tục) khó đọc, khó phát âm (từ)
+
+@crackle  
+*  dt ((cũng) crackling)
+- tiếng tanh tách, tiếng răng rắc, tiếng lốp bốp
+- da rạn (đồ sứ); đồ sứ da rạn ((cũng) crackle china)
+*  ndgt
+- kêu tanh tách, kêu răng rắc, kêu lốp bốp
+
+@crackled  
+*  tt
+- bị rạn nứt
+- có da rạn (đồ sứ)
+
+@crackle-ware
+* dt
+- sứ men rạn
+ @crackleware
+* dt
+- sứ men rạn
+ @crackling  
+*  dt
+- (như) crackle
+- bị giòn (thịt lợn quay)
+
+@crackly
+* tt
+- nhăn nheo; dễ nổ lách tách
+ @cracknel  
+*  dt
+- bánh quy giòn
+
+@crackpot
+* dt
+- người có suy nghĩ lập dị
+ @cracksman  
+*  dt
+- kẻ trộm đào ngạch, kẻ trộm nạy cửa
+
+@crack-up
+* dt
+- sự kiệt sức
+ @cracky  
+*  tt
+- nứt, rạn
+- giòn, dễ vỡ
+- (thông tục) gàn, dở hơi
+
+@cracovian
+- (giải tích) cracôvian
+ @cradle  
+*  dt
+- cái nôi
+- (nghĩa bóng) nguồn gốc, gốc, nơi bắt nguồn, cái nôi
+
++ the cradle of the Anglo-Saxon: nguồn gốc người Ang-lô Xắc-xông
+- (hàng hải) giàn giữ tàu (khi đóng hoặc sửa chữa)
+- cái khung gạt (ở cái hái lớn
+- thùng đãi vàng
+- giá để ống nghe (của máy điện thoại)
+!from the cradle
+- từ khi còn nằm nôi, từ khi mới lọt lòng
+!the cradle of the deep
+- (thơ ca) biển cả
+!to rob the cradle
+- (thông tục) tìm hiểu (lấy) người trẻ hơn mình; già còn thích chơi trống bỏi
+*  ngdgt
+- đặt (đứa trẻ) vào nôi; bế ẵm nâng niu bế đứa trẻ trong tay
+- đặt (tàu) vào giá (để đóng hoặc sửa chữa)
+- cắt (lúa...) bằng hái có khung gạt
+- đãi (quặng vàng)
+
+@cradle
+- (Tech) giá để ống nghe (điện thoại)
+ @cradle switch
+- (Tech) cái chuyển mạch trên giá [điện thoại]
+ @cradler
+- xem cradle
+ @cradling  
+*  dt
+- sự đặt vào nôi; sự bế ẵm, sự nâng niu
+- sự đặt vào giá (để đóng hoặc sửa chữa tàu)
+- sự cắt bằng hái có khung gạt
+- sự đãi (quặng vàng)
+- (kiến trúc) khung (bằng gỗ hay bằng sắt dùng trong xây dựng)
+
+@Craff unions
+- (Econ) Nghiệp đoàn theo chuyên môn.
+: Nghiệp đoàn tập hợp tất cả các công nhân có một kỹ năng hay một số kỹ năng có liên quan với nhau bất kể họ làm trong ngành nào.
+ @craft  
+*  dt
+- nghề, nghề thủ công
+- tập thể những người cùng nghề (thủ công)
+- mưu mẹo, mánh khoé, ngón xảo quyệt, ngón lừa đảo
+- (số nhiều không đổi) (hàng hải) tàu
+- (số nhiều không đổi) máy bay
+- (the Craft) hội tam điểm
+
+@craft-brother  
+*  dt
+- bạn cùng nghề (thủ công)
+
+@crafter
+- xem craft
+ @craft-guild  
+*  dt
+- phường hội (thủ công)
+
+@craftily
+* dt
+- láu cá, quỷ quyệt
+ @craftiness  
+*  dt
+- sự mánh khoé, sự láu cá, tính xảo quyệt, tính xảo trá
+
+@craftless
+* tt
+- không gian xảo; không mánh khoé
+ @craftsman  
+*  dt
+- thợ thủ công
+- người khéo léo, người có kỹ xảo, người điêu luyện, người lành nghề
+
+@craftsmanlike
+- xem craftsman
+ @craftsmanly
+- xem craftsman
+ @craftsmanship  
+*  dt
+- sự khéo léo, sự lành nghề, sự thạo nghề
+
+@crafty  
+*  tt
+- lắm mánh khoé, láu cá, xảo quyệt, xảo trá
+
+@crag  
+*  dt
+- núi đá dốc lởm chởm, vách đứng, vách đá cheo leo
+
+@cragged  
+*  tt
+- có nhiều vách đá dốc lởm chởm, có nhiều vách đứng cheo leo
+
+@craggily
+- xem craggy
+ @cragginess
+- xem craggy
+ @craggy  
+*  tt
+- lởm chởm đá, dốc đứng, hiểm trở
+
+@cragpit
+* dt
+- hang động
+ @cragsman  
+*  dt
+- người leo núi giỏi
+
+@crake  
+*  dt
+- (động vật học) gà nước
+- tiếng kêu của gà nước
+*  ndgt
+- kêu (gà nước); kêu như gà nước
+
+@cram  
+*  dt
+- sự nhồi sọ, sự luyện thi
+- đám đông chật ních
+- (từ lóng) lời nói dối, lời nói láo, lời nói dóc
+*  ngdgt
+- nhồi, nhét, tống vào
+- nhồi sọ; luyện thi (cho một học sinh)
+- nhồi, vỗ (gà, vịt cho chóng béo)
+*  ndgt
+- ních đầy bụng, ngốn, nhồi
+- học luyện thi, ôn thi
+!to cram for an examination
+- học gạo để thi
+- (từ lóng) nói dối, nói láo, nói dóc
+!to cram up
+- học nhồi nhét (một vấn đề)
+
+@crambo  
+*  dt
+- trò chơi hoạ vần (một người xướng lên một từ, những người khác tìm từ cùng vần)
+
+@Cramer's Rule
+- (Econ) Quy tắc Cramer's.
+: Là phương pháp dùng để giải hệ phương trình tuyến tính đồng thời.
+ @cram-full  
+*  tt
+- chan chứa, đầy tràn, đầy không nhồi vào đâu được nữa
+
+@crammer  
+*  dt
+- người luyện thi (cho học sinh)
+- (từ lóng) người nói dối, người nói láo, người nói dóc
+-(đùa cợt) lời nói dối, lời nói láo, lời nói dóc
+
+@cramp  
+*  dt
+- (y học) chứng ruột rút
+
++ to be taken with a cramp: bị chuột rút
+- (nghĩa bóng) sự bó buộc, sự câu thúc, sự tù túng, sự gò bó
+- (kỹ thuật) thanh kẹp, má kẹp ((cũng) cramp-iron)
+- bàn kẹp mộng (của thợ mộc)
+*  tt
+- bị chuột rút
+- khó đọc (chữ)
+!cramp handwriting
+- chữ viết khó đọc
+- bị ép chặt, bị bó chặt, chật hẹp, tù túng, không tự do, không được thoải mái
+*  ngdgt
+- làm cho co gân, làm cho bị chuột rút
+- (nghĩa bóng) cản trở; câu thúc, làm khó (cử động)
+
++ all these worries cramped his progress: tất cả các sự lo lắng ấy đã làm cản trở anh ta tiến bộ
+- kẹp bằng thanh kẹp, kẹp bằng bàn kẹp
+!to cramp up
+- ép chặt, bóp chặt, bó chặt
+
+@cramped  
+*  tt
+- khó đọc (chữ)
+- chật hẹp, tù túng, không được tự do
+
++ cramped pond: ao tù
+- gò bó không thanh thoát, không phóng túng (văn)
+
+@cramp-fish
+* dt
+- (động vật) cá điện
+ @cramp-iron  
+*  dt
+- thanh kẹp, má kẹp ((cũng) cramp)
+
+@crampon  
+*  dt
+- móc sắt
+- (số nhiều) đánh giày (đá bóng, trượt tuyết)
+
+@cran
+* dt
+- đơn vị đo lường Xôtlân bằng 170 lit
+ @cranage  
+*  dt
+- sự dùng cần trục (để cất hàng)
+- cước phí cần trục
+
+@cranberry   (fen-berry) @crane  
+*  dt
+- (động vật học) con sếu
+- (kỹ thuật) cần trục
+- xiphông
+- (ngành đường sắt) vòi lấy nước ((cũng) water crane)
+*  ngdgt
+- nâng (trục, bốc, cất) (hàng) bằng cần trục
+- vươn, nghển
+
++ to crane one's neck: nghển cổ
+*  ndgt
+- vươn cổ, nghển cổ
+- (crane at) chùn lại, chùn bước, dừng lại
+
++ to crane at a hedge: chùn bước lại không dám nhảy qua hàng rào (ngựa)
+
++ to crane at a difficulty: chùn bước trước khó khăn
+
+@crane
+- (Tech) cần trục
+ @crane-fly
+* dt
+- ruồi dài chân
+ @craneman
+* dt
+- số nhiều cranemen
+- công nhân lái xe cần trục
+ @cranesbill
+* dt
+- (thực vật) cây mỏ hạc
+ @crane-truck
+* dt
+- xe tải cần cẩu; xe cần cẩu; xe cần trục
+ @crania  
+*  dt,  số nhiều crania
+- (giải phẫu) sọ
+
+@cranial  
+*  tt
+- (giải phẫu) (thuộc) sọ
+
+@cranially
+- xem cranial
+ @craniate
+* tt
+- có sọ
+ @craniofacial
+* tt
+- thuộc sọ và mặt
+ @craniology
+* dt
+- khoa sọ
+ @craniometry
+* dt
+- phép đo sọ
+ @cranium  
+*  dt,  số nhiều crania
+- (giải phẫu) sọ
+
+@crank  
+*  dt
+- lối chơi chữ, lối nói kỳ quặc
+- ý nghĩ quái gỡ; hành động kỳ quặc, hành động lập dị
+- người kỳ quặc, người lập dị
+- cái quay tay (máy hơi nước, máy nổ)
+*  ngdgt
+- lắp quay tay
+- bẻ thành hình quay tay
+- (crank up) quay (máy)
+
++ to crank up an engine: quay một cái máy
+*  tt
+- không vững, ọp ẹp, xộc xệch
+- (hàng hải) tròng trành, không vững (tàu, thuyền)
+
+@crank-case
+* dt
+- hộp đựng khoan quay tay
+ @crank-gear
+* dt
+- bộ bàn đạp
+ @crankily
+- xem cranky
+ @crankiness  
+*  dt
+- sự tròng trành, sự không vững, sự xộc xệch
+- sự ốm yếu
+- tính kỳ quặc, tính gàn dở, tính lập dị
+- tính đồng bóng, tính hay thay đổi
+- sự quanh co, sự khúc khuỷu
+- (từ Mỹ,nghĩa Mỹ) tính cáu kỉnh, tính quàu quạu
+
+@crankle  
+*  dt
+- khúc uốn quanh, khúc quanh co, chỗ khúc khuỷu
+
+@crankman
+* dt
+- người quay tay quay
+ @crankshaft
+* dt
+- tay quay, maniven
+ @cranky  
+*  tt
+- tròng trành không vững, xộc xệch
+- ốm yếu
+- kỳ quặc, gàn dở, lập dị (tính tình)
+- đồng bóng, hay thay đổi
+- quanh co, khúc khuỷu
+- (từ Mỹ,nghĩa Mỹ) cáu kỉnh, quàu quạu
+
+@crannied  
+*  tt
+- có nhiều vết nứt nẻ
+
+@cranny  
+*  dt
+- vết nứt, vết nẻ
+!a cranny in the wall
+- vết nứt trên tường
+- xó xỉnh, góc tối tăm
+
++ to search every cranny: tìm khắp xó xỉnh
+
+@crap
+* dt
+- phân, cứt
+- chuyện tào lao
+* dgt
+- ỉa
+ @crape  
+*  dt
+- nhiễu đen, kếp đen
+- băng tang (ở tay, mũ) bằng nhiễu đen; áo tang bằng nhiễu đen
+*  ngdgt
+- mặc đồ nhiễu đen
+- đeo băng tang, mặc áo tang
+
+@craped
+* tt
+- mặc nhiễu đen
+- đeo băng tang nhiễu đen
+ @crape-myrtle
+* dt
+- (thực vật) cây bách nhật hồng; cây tử vi
+ @crapped  
+*  tt
+- mặc đồ nhiễu đen
+- đeo băng tang, mặc áo tang
+- có gợn như nhiễu
+
+@crapper
+* dt
+- (thực vật) nhà xí
+ @crappy
+* tt
+- dở, không hấp dẫn
+ @craps  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) trò chơi súc sắc
+
++ to shoot craps: chơi súc sắc, gieo súc sắc
+
+@crapshooter
+* dt
+- người gieo xúc xắc
+ @crapulence  
+*  dt
+- thói rượu chè ăn uống quá độ
+
+@crapulent   (crapulous) @crapulous   (crapulous) @crapy  
+*  tt
+- như nhiễu
+
+@crash  
+*  dt
+- vải thô (làm khăn lau...)
+- tiếng đổ vỡ loảng xoảng, tiếng va chạm loảng xoảng, tiếng đổ sầm, tiếng nổ (sét...)
+- sự rơi (máy bay); sự đâm sầm vào (ô tô)
+- (nghĩa bóng) sự phá sản, sự sụp đổ
+*  ndgt
+- rơi vỡ loảng xoảng, dổ ầm xuống
+- đâm sầm xuống, đâm sầm vào
+
++ the aeroplane crashed on the hillside: chiếc máy bay đâm sầm xuống sườn đồi
+
++ the car crashed into the gate: chiếc xe hơi đâm sầm vào cổng
+- (nghĩa bóng) phá sản
+*  ngdgt
+- phá tan tành, phá vụn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lẻn vào không có giấy mời, lẻn vào không có vé
+
++ to crash a party: lẻn vào dự cuộc liên hoan không có giấy mời
+
++ to crash the gate: lẻn vào cửa không có vé
+!to crash in (on)
+- tràn vào, đọt nhập vào, xâm nhập
+
+@crash
+- (Tech) ngưng, đình chỉ; vỡ bể; tai họa; tai nạn xe; rớt máy bay; phá sản
+ @crash barrier
+* dt
+- hàng rào phân ranh giới
+ @crash-dive
+* dt
+- <không> sự bổ nhào xuống
+* dgt
+- bổ nhào xuống
+ @crasher
+- xem crash
+ @crash-helmet  
+*  dt
+- mũ (của người) lái mô tô
+
+@crashing bore
+* dt
+- người gây xáo trộn
+ @crash-land  
+*  ndgt
+- (hàng không) hạ cánh vội vã (không dùng được bánh xe dưới bụng)
+- nhảy xuống vôi vã (người lái)
+
+@crash-pad
+* dt
+- (tục tĩu) nơi nghỉ trọ không mất tiền
+ @crash-proof
+* tt
+- (từ Mỹ, nghĩa Mỹ) chống lại được va chạm
+ @crasis
+* dt
+- số nhiều crases
+- hiện tượng hai nguyên âm hay hai nguyên âm đôi rút lại thành một nguyên âm dài hay một nguyên âm đôi
+- dt,  số nhiều crases
+- hiện tượng hai nguyên âm hay hai nguyên âm đôi rút lại thành một nguyên âm dài hay một nguyên âm đôi
+ @crass  
+*  tt
+- đặc, dày đặc; thô
+- thô bỉ
+- đần độn, dốt đặc
+
++ crass mind: trí óc đần độn
+
++ crass ignorance: sự dốt đặc
+
+@crassitude  
+*  dt
+- sự thô bỉ, 
+- sự đần độn, sự dốt đặc
+
+@crassly
+* dt
+- ngu xuẩn, dại dột
+ @crassness  
+*  dt
+- sự thô
+- sự thô bỉ
+
+@crassula
+* dt
+- (thực vật) họ thuốc bỏng
+ @crassulaceous  
+*  tt
+- (thực vật học) (thuộc) họ thuốc bỏng
+
+@cratch  
+*  dt
+- máng ăn (cho súc vật, để ở ngoài trời)
+
+@crate  
+*  dt
+- thùng thưa (do nhiều thanh gỗ đóng lại, còn nhiều kẽ hở, không kín hẳn); sọt (để đựng đồ sứ, hoa quả...)
+*  ngdgt
+- cho vào thùng thưa, cho vào sọt (đồ sứ, hoa quả...)
+
+@crater  
+*  dt
+- miệng núi lửa
+- hố (bom, đạn đại bác...)
+
+@crater lake
+* dt
+- hồ miệng núi lửa (hồ hình thành ở một ngọn núi lửa đã bị tắt)
+ @crateriform
+* tt
+- hình miệng núi lửa
+ @craterlet
+* dt
+- miệng nhỏ núi lửa
+ @craton
+* dt
+- vùng tương đối im lìm của vỏ quả đất
+ @cravat  
+*  dt
+- cái ca vát
+
+@crave  
+*  dgt
+- nài xin, khẩn cầu
+
++ to crave pardon: xin lỗi
+- ao ước, thèm muốn, khao khát
+
++ soul that craves for liberty: tâm hồn khao khát tự do
+
+@craven  
+*  tt
+- hèn nhát
+!to cry craven
+- chịu thua, đầu hàng
+- sợ mất hết can đảm
+*  dt
+- kẻ hèn nhát
+
+@cravenly
+- xem craven
+ @cravenness
+- xem craven
+ @craver
+- xem crave
+ @craving  
+*  dt
+- sự thèm muốn, lòng khao khát
+
+@cravingly
+- xem crave
+ @craw  
+*  dt
+- diều (chim, sâu bọ)
+!it sticks in my craw
+- (thông tục) tôi không thể nào mà nuốt tôi được
+
+@crawfish  
+*  dt
+- (như) crayfish
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) không giữ lời, nuốt lời; tháo lui
+
+@crawl  
+*  dt
+- ao nuôi cá
+- chỗ nuôi rùa; chỗ nuôi tôm
+- sự bò, sự trường
+- (thể dục,thể thao) lối bơi crôn, lối bơi trường ((cũng) crawl stroke)
+- sự kéo lê đi
+
++ to go at a crawl: đi kéo lê, đi chậm rề rề, bò lê ra
+*  ndgt
+- bò, trườn
+- lê bước, lê chân, bò lê
+- bò nhung nhúc, bò lúc nhúc
+
++ the ground crawls with ants: đất nhung nhúc những kiến
+- luồn cúi, quỵ luỵ
+
++ to crawl before somebody: luồn cúi ai
+- sởn gai ốc
+
++ it makes my flesh crawl: cái đó làm tôi sởn gai ốc lên
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) không giữ lời, nuốt lời, tháo lui
+
+@crawler  
+*  dt
+- (động vật học) loài bò sát
+- người bò, người đi chậm rề rề, người đi kéo lê
+- vận động viên bơi crôn, vận động viên bơi trườn
+- kẻ luồn cúi đê tiện, kẻ liếm gót
+- xe tắc xi chạy chậm để kiếm khách
+- (số nhiều) quần yếm (của trẻ con)
+- (thông tục) con rận, con chấy
+- (kỹ thuật) đường chạy của xích
+
+@Crawling peg
+- (Econ) Chế độ neo tỷ giá hối đoái điều chỉnh dần.
+: Là phương pháp tỷ giá hối đoái. Đây là một cụm thuật ngữ chung áp dụng cho bất kỳ một đề nghị nào có đặc trưng NGANG GIÁ - tỷ giá hối đoái chính thức do quỹ tiền tệ quốc tế đưa ra - có thể điều chỉnh theo thời gian, mức thay đổi cần thiết đó có thể phân nhỏ và kéo dà trong suốt một thời kỳ nhất định. Xem DEVALUATION.
+ @crawlingly
+- xem crawl
+ @crawly  
+*  tt
+- (thông tục) thấy sởn gai ốc, thấy râm ran như có kiến bò
+
+@crayfish   (crawfish) @crayon  
+*  dt
+- phấn vẽ màu; bút chì màu
+- bức vẽ phấn màu, bức vẽ than màu, bức vẽ chì màu
+- (điện học) cục than đèn (đèn cung lửa)
+*  ngdgt
+- vẽ bằng phấn màu, vẽ bằng than màu, vẽ bằng chì màu
+- (nghĩa bóng) vẽ phác, phác hoạ
+
+@crayonist
+- xem crayon
+ @craze  
+*  dt
+- tính ham mê, sự say mê
+
++ to have a craze for stamps: say mê chơi tem
+- (thông tục) mốt
+
++ to be the craze: trở thành cái mốt
+- sự loạn trí, sự mất trí, tính hơi điên
+- vết ran, vân rạn (đồ sành, đồ sứ)
+*  ngdgt
+- làm mất trí, làm điên cuồng
+- làm rạn, làm cho có vân rạn (đồ sành, đồ sứ)
+*  ndgt
+- loạn óc, mất trí, hoá điên
+- nổi vân rạn (đồ sành, đồ sứ)
+
+@crazed
+* tt
+- bị rạn nứt
+- có vân rạn
+- phát cuồng
+ @crazily  
+*  dt
+- say mê, say đắm
+- điên cuồng, điên, rồ dại
+- xộc xệch, ọp ẹp
+
+@craziness  
+*  dt
+- sự quá say mê
+- sự mất trí, sự điên dại
+- tình trạng xộc xệch, tình trạng khập khiểng, tình trạng ọp ẹp (nhà cửa, đồ đạc, tàu bè...)
+- tình trạng ốm yếu
+
+@crazing-mill
+* dt
+- máy nghiền quặng
+ @crazy  
+*  tt
+- quá say mê
+
++ to be crazy about sports: quá say mê thể thao
+- mất trí, điên dại
+- xộc xệch, khập khiễng, ọp ẹp (nhà cửa, đồ đạc, tàu bè...)
+- ốm yếu, yếu đuối
+- làm bằng những miếng không đều (lối đi, sàn nhà, mền bông...)
+
++ a crazy pavement: lối đi lát bằng những viên gạch không đều
+
+@crazy bone  
+*  dt
+- (giải phẫu) lồi cầu xương khuỷ tay
+
+@crc
+- kiểm độ dư vòng
+ @creak  
+*  dt
+- tiếng cọt kẹt, tiếng cót két, tiếng kẽo kẹt
+*  ndgt
+- cọt kẹt, cót két, kẽo kẹt
+
+@creakily
+* dt
+- cót két, kẽo kẹt
+ @creakiness  
+*  dt
+- sự kêu cọt kẹt, sự kêu cót két, sự kêu kẽo kẹt
+
+@creakingly
+- xem creak
+ @creaky  
+*  tt
+- cọt kẹt, cót két, kẽo kẹt
+
+@cream  
+*  dt
+- kem (lấy từ sữa)
+- kem (que, cốc)
+- kem (để bôi)
+- kem (đánh giầy)
+- tinh hoa, tinh tuý, phần tốt nhất, phần hay nhất
+
++ the cream of society: tinh hoa của xã hội
+
++ the cream of the story: phần hay nhất của câu chuyện
+- màu kem
+*  ngdgt
+- gạn lấy kem (ở sữa); gạn lấy phần tốt nhất
+- cho kem (vào cà phê...)
+- làm cho nổi kem, làm cho nổi váng
+- thoa kem (lên mặt)
+*  ndgt
+- nổi kem (sữa), nổi váng
+
+@cream cheese  
+*  dt
+- phó mát làm bằng sữa không gạn bớt kem
+
+@cream separator   (cream_separator) @creamer   (cream_separator) @creamery  
+*  dt
+- xưởng sản xuất bơ, phó mát, kem
+- hiệu bán sữa bơ, kem
+
+@cream-faced
+* tt
+- mặt tái mét
+ @creamily
+- xem creamy
+ @creaminess
+- xem creamy
+ @cream-laid paper  
+*  dt
+- giấy vecjê màu kem
+
+@cream-wove paper  
+*  dt
+- giấy vơlanh màu kem
+
+@creamy  
+*  tt
+- có nhiều kem
+- mượt, mịn (như kem)
+
+@crease  
+*  dt
+- nếp nhăn, nếp gấp
+*  ngdgt
+- gấp nếp
+- làm nhăn, làm nhăn mặt
+
++ a badly creased dress: bộ quần áo nhàu nát
+*  ndgt
+- nhàu; có nếp gấp
+
+@creaseless  
+*  tt
+- không nhàu (vải...), không có nếp gấp
+
+@creaseproof
+- xem crease
+ @creaser
+- xem crease
+ @crease-resistant  
+*  tt
+- không nhàu (vải...)
+
+@creasote
+* dt
+- xem creosote
+ @creasy  
+*  tt
+- nhăn, nhàu
+
+@create  
+*  ngdgt
+- tạo, tạo nên, tạo ra, tạo thành, sáng tạo
+- gây ra, làm
+- phong tước
+
++ to create a baron: phong nam tước
+- (sân khấu) đóng lần đầu tiên
+
++ to create a part: đóng vai (kịch tuồng) lần đầu tiên
+*  ndgt
+- (từ lóng) làm rối lên, làn nhắng lên; hối hả chạy ngược chạy xuôi
+
++ to be always creating about nothing: lúc nào cũng rối lên vì những chuyện không đâu vào đâu
+
+@create
+- tạo ra, tạo thành, chế thành
+ @creatine
+* dt
+- cũng creatin
+- (sinh học) creatin
+ @creatinine
+* dt
+- (hoá học) creatinin
+ @creation  
+*  dt
+- sự tạo thành, sự sáng tạo (thế giới); sự sáng tác
+
++ the creation of great works of art: sự sáng tác những tác phẩm vĩ đại
+- tác phẩm; vật được sáng tạo ra
+- sự phong tước
+- sự đóng lần đầu tiên (một vai tuồng, kịch)
+
+@creational
+- xem creation
+ @creationism
+* dt
+- sáng tạo luận
+- thuyết sáng tạo linh hồn (linh hồn là người do chúa tạo ra)
+ @creative  
+*  tt
+- sáng tạo
+
++ creative power: sức sáng tạo
+
+@creative
+- tạo ra, sáng tạo
+ @creatively
+* dt
+- sáng tạo
+ @creativeness   (creativity) @creativity   (creativity) @creator  
+*  dt
+- người sáng tạo, người tạo nên
+!the Creator
+- tạo hoá
+
+@creatural
+- xem creature
+ @creature  
+*  dt
+- sinh vật, loài vật
+- người, kẻ
+
++ a poor creature: kẻ đáng thương
+
++ a good creature: kẻ có lòng tốt
+- kẻ dưới, tay sai, bộ hạ
+
++ creature of the dictator: tay sai của tên độc tài
+- (the creature) rượu uytky; rượu mạnh
+!creature comforts
+- (xem) comfort
+
+@creatureliness
+- xem creature
+ @creaturely
+- xem creature
+ @credence  
+*  dt
+- sự tin; lòng tin; tín ngưỡng
+
++ to give credence to...: tin vào...
+!letter of credence
+- (ngoại giao) quốc thư, thư uỷ nhiệm
+
+@credent
+* tt
+- đáng tin
+ @credentials  
+*  dt số nhiều
+- giấy uỷ nhiệm, thư uỷ nhiệm, quốc thư
+
++ to present one's credentials: trình quốc thư
+
+@credibility   (credibleness) @credible  
+*  tt
+- đáng tin, tin được
+
+@credible
+- (thống kê) tin được
+ @Credible threat
+- (Econ) Đe doạ khả tin; Đe doạ có thể thực hiện được.
+ @credibleness   (credibleness) @credibly
+* dt
+- tin được, đáng tin
+ @credit  
+*  dt
+- sự tin, lòng tin
+
++ to give credit to a story: tin một câu chuyện
+- danh tiếng; danh vọng, uy tín
+
++ a man of the highest credit: người có uy tín nhất
+
++ to do someone credit; to do credit to someone: làm ai nổi tiếng
+
++ to add to someone's credit: tăng thêm danh tiếng cho ai
+- nguồn vẻ vang; sự vẻ vang
+
++ he is a credit to the school: nó làm vẻ vang cho cả trường
+- thế lực, ảnh hưởng
+- công trạng
+
++ to take (get) credit for; to have the credit of: hưởng công trạng về (việc gì)
+- sự cho nợ, sự cho chịu
+
++ to buy on credit: mua chịu
+
++ to sell on credit: bán chịu
+- (tài chính) tiền gửi ngân hàng
+- (kế toán) bên có
+!to give someone credit for
+- ghi vào bên có của ai (một món tiền...)
+- công nhận ai có (công trạng, đức tính gì)
+*  ngdgt
+- tin
+
++ to credit a story: tin một câu chuyện
+- công nhận, cho là
+
++ to credit someone with courage: công nhận ai là can đảm
+- (kế toán) vào sổ bên có
+
+@Credit
+- (Econ) Tín dụng.
+: Là một cụm thuật ngữ nghĩa rộng liên quan đến hoạt động kinh doanh hay các bản kê khai có liên quan đến việc cho vay tiền, thường là cho vay ngắn hạn. Xem BANK CREDIT, MONEY SUPPLY.
+ @credit
+- (thống kê) tín dụng, sự cho vay, cho vay on c. nợ, mua chịu; bán chịu 
+ @Credit account
+- (Econ) Tài khoản tín dụng.
+: Xem CHARGE ACCOUNT.
+ @credit account
+* dt
+- tài khoản tín dụng
+ @credit card
+- (Tech) thẻ tín dụng
+ @Credit card
+- (Econ) Thẻ tín dụng.
+: Là một thẻ do một ngân hàng, một nhóm các ngân hàng, hay một tổ chức phát hành tài chính phát hành cho khách hàng của nó mà người này có thể sử dụng TÍN DỤNG trực tiếp để chịu tiền mua hàng ở một người bán lẻ, chịu tiền ở khách sạn…
+ @Credit celing
+- (Econ) Trần tín dụng.
+: Trong CHÍNH SÁCH TIỀN TỆ, một giới hạn được thông báo đối với lượng tín dụng mà các thể chế, thường là các ngân hàng mở rộng cho khách hàng trong các giai đoạn hạn chế tiền tệ.
+ @Credit control
+- (Econ) Kiểm soát tín dụng.
+: Là một cụm thuật ngữ chung chỉ một loạt các biện pháp do các tổ chức tiền tệ sử dụng để kiểm soát số lượng tiền do một nhóm hoặc do các tổ chức tài chính cho vay.
+ @Credit creation
+- (Econ) Sự tạo ra tín dụng.
+: Quá trình mà các tổ chức gửi tiền và rút tiền, các tổ chức cho vay hoạt động dựa trên TỶ LỆ DỰ TRỮ, trên cơ sở tăng các tài sản dự trữ của chúng, có thể tăng số lượng tiền mà chúng cho vay, và các khoản nợ tiền gửi tăng lên một lượng lớn hơn mức tăng của dự trữ.
+ @Credit guarantee
+- (Econ) Bảo đảm tín dụng.
+: Là loại hình bảo hiểm mà một hiệp hội bảo lãnh tín dụng đứng ra bảo hiểm khi không trả được nợ.
+ @Credit multiplier
+- (Econ) Số nhân tín dụng.
+: Nói một cách chặt chẽ, số nhân tín dụng là tỷ số giữa sự thay đổi số lượng tiền do một nhóm các tổ chức TRUNG GIAN TÀI CHÍNH gửi tiền, rút tiền cho vay đối với mức thay đổi trong tài sản dự trữ gây ra thay đổi đó.
+ @credit note
+* dt
+- phiếu cho phép người mua được đổi món hàng khác ngang giá với món hàng mà mình trả lại cho người bán
+ @credit rating
+* dt
+- sự đánh giá mức độ tín nhiệm
+ @Credit rationing
+- (Econ) Định mức tín dụng
+: Là việc phân bổ tiền vay bằng các phương tiện phi giá cả trong các trường hợp vượt cầu tín dụng của các TRUNG GIAN TÀI CHÍNH. Cụm thuật ngữ này có nghĩa là tổ chức có liên quan, ví dụ như ngân hàng hoặc ngân hàng phát triển cư xá, không cố gắng làm giảm dư cầu bằng cách tăng lãi suất.
+ @Credit restrictions
+- (Econ) Hạn chế tín dụng
+: Các biện pháp do các cơ quan tiền tệ đưa ra, biện pháp này có thể là các nghiệp vụ nhằm hạn chế hoặc giảm lượng tín dụng do các ngân hàng hoặc các tổ chức tài chính khác mở rộng ra (Xem COMPETITION AND CREDIT CONTROL).
+ @Credit squeeze
+- (Econ) Hạn chế tín dụng
+: Là một giai đoạn của chính sách hạn chế tín dụng (Xem MONETARY POLICY, OPEN MARKET OPERATIONS).
+ @credit squeeze
+* dt
+- sự tăng lãi suất tín dụng để kiềm chế lạm phát
+ @Credit transfer
+- (Econ) Chuyển khoản
+: Là một hệ thống qua đó tiền được chuyển trực tiếp qua hệ thống ngân hàng tới một tài khoản cụ thể của người nhận (Xem CLEARING).
+ @credit transfer
+* dt
+- sự chuyển nhượng tín dụng
+ @creditability
+- xem creditable
+ @creditable  
+*  tt
+- vẻ vang; mang lại danh vọng tiếng tăm; đáng khen, đáng ca ngợi
+
+@creditableness
+- xem creditable
+ @creditably
+* dt
+- đáng khen, đáng biểu dương
+ @creditor  
+*  dt
+- người chủ nợ, người cho vay
+- (kế toán) bên có
+
+@creditor
+- (thống kê) người cho vay
+ @Creditor nation
+- (Econ) Nước chủ nợ.
+: Một nước được coi như một đơn vị, là chủ cho vay ròng hoặc nhà đầu tư ròng vào các nước khác bằng cách đó tích luỹ số khiếu nợ đối với các nước này.
+ @Creditors
+- (Econ) Các chủ nợ.
+: Là các cá nhân hay các tổ chức cho vay tiền để được người hoặc tổ chức vay hứa trả một khoản tiền nhất định hàng năm theo LÃI SUẤT  và hoàn trả GỐC vào một ngày nào đó trong tương lai.
+ @credit-side
+* dt
+- phần ghi những khoản thu vào tài khoản
+ @credit-worthiness
+* dt
+- sự đáng tin cậy về khả năng trả nợ
+ @credit-worthy
+* tt
+- đáng tin cậy
+ @creditworthy
+* tt
+- đáng tin để cho vay
+ @credo
+* dt
+- cương lĩnh
+ @credulity   (credulousness) @credulous  
+*  tt
+- cả tin, nhẹ dạ
+
+@credulously
+* dt
+- nhẹ dạ, cả tin
+ @credulousness   (credulousness) @cree
+* dt
+- số nhiều crees
+- người Cri (da đỏ Bắc Mỹ)
+- tiếng Cri
+ @creed  
+*  dt
+- tín điều
+- tín ngưỡng
+
+@creedal
+- xem creed
+ @creek  
+*  dt
+- vùng, lạch
+- (từ Mỹ,nghĩa Mỹ) sông con, nhánh sông
+- thung lũng hẹp
+
+@creel  
+*  dt
+- giỏ câu, giỏ đựng cá
+
+@creep  
+*  dt
+- (số nhiều) sự ghê rợn, sự rùng mình, sự sởn gáy, sự khiếp đảm, sự hãi hùng
+
++ to give somebody the creeps: làm ai sởn gáy lên
+- sự bó, sự trườn
+- lỗ hốc (trong hàng rào...)
+- (địa lý,địa chất) sự lở (đá...)
+- (vật lý) sự dão
+
++ thermal creep: sự dão vì nhiệt
+*  ndgt crept
+- bò, trườn
+- đi rón rén, lén, lẻn ((nghĩa đen) & (nghĩa bóng))
+
++ to creep into the room: lẻn vào phòng
+
++ old age creeps upon one unawares: tuổi già đén với người ta lúc nào không biết
+- bò; leo (cây leo)
+- có cảm giác râm ran như kiến bò, rùng mình sởn gai ốc
+
++ to make someone's flesh creep: làm cho ai sởn gai ốc
+- (nghĩa bóng) luồn cúi, luồn lọt
+
++ to creep into someone's favour: luồn lọt để chiếm được lòng tin yêu của ai
+
+@creep
+- (Tech) trượt, chạy ngang trên màn hình, rão (d)
+ @creep
+- (cơ học) rão; từ biến
+ @creeper  
+*  dt
+- loài vật bò
+- giống cây bò; giống cây leo
+- (số nhiều) (từ Mỹ,nghĩa Mỹ) mấu sắt (ở đế giày)
+
+@creep-hole
+* dt
+- hốc (động vật nấp)
+- lời thoái thác
+ @creepiness
+- xem creepy
+ @creeping
+* tt
+- dần dần, từ từ
+ @creeping discharge
+- (Tech) phóng ở bề mặt
+ @creeping display
+- (Tech) chạy ngang trên màn hình
+ @Creeping inflation
+- (Econ) Lạm phát sên bò; Lạm phát bò dần
+: Là tình trạng lạm phát trong đó mức chung của giá cả tăng lên chậm nhưng liên tục, có thể do tăng TỔNG CẦU (Xem DEMAND-PULL INFLATION, COST-PUSH INFLATION).
+ @creepingly
+* dt
+- bò, trườn
+- đi chậm rãi
+ @creepy  
+*  tt
+- rùng mình, sởn gáy, sởn gai ốc, làm rùng mình, làm sởn gáy, làm sởn gai ốc
+
++ to feel creepy: rùng mình sởn gáy
+- bò, leo
+
+@creepy-crawly
+* dt
+- loài côn trùng kinh dị
+ @creese  
+*  dt
+- dao găm (Mã lai)
+
+@cremaster
+* dt
+- cơ bìu
+- móc hậu môn (nhộng treo); gai bụng (nhộng đất)
+ @cremate  
+*  ngdgt
+- thiêu (xác), hoả táng; đốt ra tro
+
+@cremation  
+*  dt
+- sự thiêu (xác), sự hoả táng; sự đốt ra tro
+
+@cremator  
+*  dt
+- người thiêu (xác); người đốt rác
+- lò hoả táng; lò đốt rác
+
+@crematoria  
+*  dt,  số nhiều crematoria
+- lò thiêu (xác); nơi hoả táng
+
+@crematorium  
+*  dt,  số nhiều crematoria
+- lò thiêu (xác); nơi hoả táng
+
+@crematory  
+*  dt,  số nhiều crematoria
+- lò thiêu (xác); nơi hoả táng
+
+@crem-de-menthe  
+*  dt
+- rượu bạc hà
+
+@creme de menthe
+* dt
+- rượu bạc hà
+ @cremocarp
+* dt
+- (thực vật) quả rủ
+ @crenate   (crenated) @crenated   (crenated) @crenately
+- xem crenate
+ @crenel   (crenel) @crenelate   (crenellate) @crenelated   (crenellated) @crenelation
+- xem crenelated
+ @crenellate   (crenellate) @crenellated   (crenellated) @crenelle   (crenel) @creole  
+*  dt
+- người Châu âu sống ở Châu mỹ ((cũng) creole white)
+- người lai da đen ((cũng) creole Negro)
+- thổ ngữ Pháp ở Lu-i-dan
+
+@creosol
+* dt
+- (hoá học) creozola
+ @creosote  
+*  dt
+- (hoá học) creozot
+
+@crepe
+* dt
+- cũng crêpe
+- nhiễu
+- cao su trong làm đế giày
+
++  crepe paper:giấy kếp
+ @crepitant
+- xem crepitate
+ @crepitate  
+*  dgt
+- kêu răng rắc, kêu lốp đốp, kêu lép bép
+- phọt ra nước (sâu bọ)
+
+@crepitation  
+*  dt
+- sự kêu răng rắc, sự kêu lốp đốp, sự kêu lép bép
+- sự phọt ra nước (sâu bọ)
+
+@crepitus
+* dt
+- xem crepitation
+ @crept  
+*  dt
+- (số nhiều) sự ghê rợn, sự rùng mình, sự sởn gáy, sự khiếp đảm, sự hãi hùng
+
++ to give somebody the creeps: làm ai sởn gáy lên
+- sự bó, sự trườn
+- lỗ hốc (trong hàng rào...)
+- (địa lý,địa chất) sự lở (đá...)
+- (vật lý) sự dão
+
++ thermal creep: sự dão vì nhiệt
+*  ndgt crept
+- bò, trườn
+- đi rón rén, lén, lẻn ((nghĩa đen) & (nghĩa bóng))
+
++ to creep into the room: lẻn vào phòng
+
++ old age creeps upon one unawares: tuổi già đén với người ta lúc nào không biết
+- bò; leo (cây leo)
+- có cảm giác râm ran như kiến bò, rùng mình sởn gai ốc
+
++ to make someone's flesh creep: làm cho ai sởn gai ốc
+- (nghĩa bóng) luồn cúi, luồn lọt
+
++ to creep into someone's favour: luồn lọt để chiếm được lòng tin yêu của ai
+
+@crepuscle
+- Cách viết khác : crepuscule 
+ @crepuscular  
+*  tt
+- (thuộc) hoàng hôn
+- (động vật học) chỉ ra ngoài hoạt động lúc hoàng hôn
+
+@crepusculous
+* tt
+- (thuộc) lúc tản sáng
+- (thuộc) lúc hoàng hôn
+ @crescendo  
+*  dt & tt
+- (âm nhạc) mạnh dần
+- (nghĩa bóng) tới đỉnh cao
+*  dt
+- (âm nhạc) sự mạnh dần
+- (nghĩa bóng) sự tới đỉnh cao
+
+@crescent  
+*  dt
+- trăng lưỡi liềm
+- hình lưỡi liềm
+- (sử học) đế quốc Thổ-nhĩ-kỳ
+- đạo Hồi
+*  tt
+- có hình lưỡi liềm
+- đang tăng lên, đang phát triển
+
+@crescent
+- (thiên văn) trăng lưỡi liềm, trăng khuyết
+ @crescentic
+- xem crescent
+ @crescentiform
+* tt
+- dạng liềm, dạng trăng khuyết, bán nguyệt
+ @crescent-shaped
+- hình trăng lưỡi liềm
+ @cresol
+* dt
+- (hoá học) crezola
+ @cress  
+*  dt
+- (thực vật học) cải xoong
+
+@cresset  
+*  dt
+- đèn chòi canh; đèn bến cảng
+
+@crest  
+*  dt
+- mào (gà); bờm (ngựa)
+- chòm lông mào (trên mũ sắt thời xưa)
+- chỏm mũ sắt; mũ sắt
+- tiêu ngữ (trên huy chương...)
+- đỉnh nóc, chỏm, ngọn (núi, sóng, mái nhà...)
+
++ the crest of a ware: đầu ngọn sóng
+- cạnh sống (của xương)
+!family crest
+- hình dấu riêng của gia đình
+!on the crest of the ware
+- (nghĩa bóng) lúc hưng thịnh nhất
+*  ngdgt
+- vẽ mào; trang trí (mũ) bằng mào lông
+- trèo lên đỉnh, trèo lên nóc
+*  ndgt
+- gợn nhấp nhô (sóng)
+
+@crest
+- (Tech) ngọn, đỉnh
+ @crest
+- (cơ học) đỉnh (sóng)
+ @crest factor
+- (Tech) hệ số đỉnh
+ @crest value
+- (Tech) trị đỉnh
+ @crest voltage
+- (Tech) điện áp đỉnh
+ @crest voltmeter
+- (Tech) vôn kế đỉnh
+ @crested
+* tt
+- có biểu tượng riêng
+- (nói về chim) có mào
+ @crest-fallen  
+*  tt
+- chán nản, ỉu xìu, tiu nghỉu
+
+@crestless
+* tt
+- không có mào
+ @cresylic
+* tt
+- thuộc crezola; thuộc creozot
+ @cretaceous  
+*  tt
+- (địa lý,địa chất) có phấn trắng
+- (thuộc) kỷ phấn trắng, (thuộc) kỷ creta
+
+@cretin  
+*  dt
+- (y học) người mắc chứng độn
+- người ngu si, người ngu ngốc
+
+@cretinism  
+*  dt
+- (y học) chứng độn
+- sự ngu si, sự ngu ngốc
+
+@cretinize  
+*  ngdgt
+- làm đần độn
+- làm ngu si, làm ngu ngốc
+
+@cretinoid
+- xem cretin
+ @cretinous  
+*  tt
+- (y học) độn
+- ngu si, ngu ngốc
+
+@cretonne  
+*  dt
+- vải creton (để bọc ghế...)
+
+@crevasse  
+*  dt
+- kẽ nứt, chỗ nẻ (khối băng, sông băng)
+
+@crevice  
+*  dt
+- đường nứt, kẽ hở (tường, núi đá)
+
+@creviced
+- xem crevice
+ @crew  
+*  dt
+- toàn bộ thuỷ thủ trên tàu; toàn bộ người lái và nhân viên trên máy bay
+- ban nhóm, đội (công tác...)
+- bọn, tụi, đám, bè lũ
+*  thời quá khứ của crow
+
+@crew neck
+* dt
+- kiểu cổ áo tròn
+ @crew-cut  
+*  dt
+- kiểu tóc húi cua (đàn ông)
+
+@crewel  
+*  dt
+- len sợi (để dệt thảm hoặc thêu)
+
+@crib  
+*  dt
+- giường cũi (của trẻ con)
+- lều, nhà nhỏ; nhà ở
+- máng ăn (cho súc vật)
+-(ngôn ngữ nhà trường) bài dịch để quay cóp
+- (thông tục) sự ăn cắp văn
+- (từ Mỹ,nghĩa Mỹ) thùng (đựng muối, ngô...)
+- cái đó (để đơm cá)
+- giàn gỗ (đỡ thành giếng, hầm mỏ...) ((cũng) crib work)
+!to crack a crib
+- (xem) crack
+*  ngdgt
+- nhốt chặt, giam kín
+- làm máng ăn (cho chuồng bò...)
+-(ngôn ngữ nhà trường) quay, cóp
+- ăn cắp căn
+- làm giàn gỗ (đỡ thành giếng, hầm mỏ...)
+
+@cribbage  
+*  dt
+- lối chơi bài kipbi
+
+@cribber  
+*  dt
+- học sinh quay cóp
+- kẻ ăn cắp văn
+
+@crib-biter
+* dt
+- người có tật nào đó
+- con ngựa có tật nhai rơm lép bép
+ @crib-biting
+* dt
+- thói nhai rơm lép bép của ngựa
+ @cribble
+* ngdgt
+- sàng
+* dt
+- cái sàng
+ @crib-death
+* dt
+- cái chết đột ngột của trẻ em mà không bị bệnh gì
+ @cribrellate
+* tt
+- có lỗ sàng; nhiều lỗ
+ @cribrellum
+- (sinh học) tấm sàng; tấm rây; tằm nhả tơ (nhện)
+ @cribriform  
+*  tt
+- (sinh vật học) có lỗ rây
+
+@cribrose
+* tt
+- rỗ mặt sàng
+ @crick  
+*  dt
+- tật vẹo cổ, tật ngay sống lưng
+*  ngdgt
+- làm vẹo (cổ); làm ngay (sống lưng)
+
++ to crick one's neck: trẹo gân cổ, vẹo cổ
+
+@cricket
+* dt
+- <động> con dế
+- <thể> môn crikê
+* ndgt
+- chơi crikê
+ @cricketeer
+- xem cricket
+ @cricketer
+* dt
+- người chơi crikê
+ @cricoid  
+*  tt
+- (giải phẫu) hình cong (sụn thanh quản)
+
+@crico-thyroid
+* tt
+- thuộc sụn giáp-nhẫn
+ @cried  
+*  dt
+- tiếng kêu, tiêng la, tiếng hò hét, tiếng hò reo (vì đau đớn, sợ, mừng rỡ...)
+
++ a cry for help: tiếng kêu cứu
+
++ a cry of triumph: tiếng hò reo chiến thắng
+- tiếng rao hàng ngoài phố
+- lời hô, lời kêu gọi
+- sự khóc, tiếng khóc
+
++ to have a good cry: khóc nức nở
+- dư luận quần chúng, tiếng nói quần chúng
+- tiếng chó sủa ((nghĩa đen) & (nghĩa bóng))
+
++ with the hounds in full cry after it: có cả một lũ chó săn sủa ầm ĩ đuổi theo sau
+!a far cry
+- quãng cách xa; sự khác xa
+
++ the second translation of the book is a far cry from the first: bản dịch thứ hai của quyển sách khác xa bản thư nhất
+!to follow in the cry
+- ở trong một đám đông vô danh
+!in full cty
+- hò hét đuổi theo
+!hue and cry
+- (xem) hue
+!much cry and little wool
+- chuyện bé xé ra to
+!with cry of
+- trong tầm tai nghe được
+*  dgt
+- kêu, gào, thét, la hét
+- khóc, khóc lóc
+
++ to cry bitter tears: khóc lóc thảm thiết
+- rao
+
++ to cry one's wares: rao hàng
+!to cry down
+- chê bai, làm giảm giá trị, làm mất thanh danh
+!to cry for
+- đòi, vòi
+
++ to cry for the moon: đòi ăn trứng trâu, gan trời
+
++ to cry off: không giữ lời, nuốt lời
+
++ to cry off from the bargain: đã mặc cả thoả thuận rồi lại nuốt lời
+!to cry out
+- thét
+!to cry up
+- tán dương
+!to cry halves
+- đòi chia phần
+!to cry mercy
+- xin dung thứ
+!to cry oneself to sleep
+- khóc tới khi ngủ thiếp đi
+!to cry one's heart out
+- (xem) heart
+!to cry out before one is hurt
+- chưa đánh đã khóc, chưa đụng đến đã la làng
+!to cry quits to cry shame upon somebody
+- chống lại ai, phản khán ai
+!to cry stinking fish
+- vạch áo cho người xem lưng, lạy ông tôi ở bụi này
+!to cry wolf
+- kêu cứu đùa, kêu cứu láo để đánh lừa mọi người
+!it is no use crying over spilt milk
+- (xem) spill
+
+@crier  
+*  dt
+- người kêu; anh mõ, người rao (hàng, tin tức...)
+- mõ toà
+- đứa trẻ hay vòi
+
+@criket  
+*  dt
+- (động vật học) con dế
+- (thể dục,thể thao) môn
+!that's not criket
+- (thông tục) không thật thà, ăn gian
+- không có tinh thần thể thao
+- không quân tử
+*  ndgt
+- chơi crikê
+
+@criketer  
+*  dt
+- người chơi crikê
+
+@crikey
+- interj
+- biểu lộ sự kinh ngạc, sự khiếp sợ
+ @crikly
+- một cách uốn
+ @crime  
+*  dt
+- tội ác
+
++ to commit a crime: phạm tội ác
+
++ war crime: tội ác chiến tranh
+- tội lỗi
+- (quân sự) sự vi phạm qui chế
+*  ngdgt
+- (quân sự) buộc tội, xử phạt
+
+@crime-sheet
+* dt
+- kết luận về tội trạng
+ @criminal  
+*  tt
+- có tội, phạm tội, tội ác
+
++ a criminal act: hành động tội ác
+
++ criminal law: luật hình
+!criminal conversation
+- (xem) conversation
+*  dt
+- kẻ phạm tội, tội phạm
+
++ war criminal: tội phạm chiến tranh
+
+@criminalist  
+*  dt
+- nhà tội phạm học
+
+@criminality  
+*  dt
+- sự phạm tội, sự có tội; tính chất trọng tội
+
+@Criminalization
+- (Econ) Quy là tội phạm.
+ @criminally
+* dt
+ @criminate  
+*  ngdgt
+- buộc tội
+- chê trách
+
+@crimination
+- xem criminate
+ @criminative
+- xem criminate
+ @criminator
+- xem criminate
+ @criminatory
+- xem criminate
+ @criminologic   (criminological) @criminological   (criminological) @criminologically
+- xem criminology
+ @criminologist  
+*  dt
+- nhà tội phạm học
+
+@criminology  
+*  dt
+- khoa tội phạm, tội phạm học
+
+@crimp  
+*  dt
+- sự dụ dỗ đi lính; người dụ dỗ đi làm tàu
+!to put a crimp in (into)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ngăn cản, thọc gậy bánh xe
+*  ngdgt
+- dụ dỗ (ai) đi lính; dụ dỗ (ai) đi làm tàu
+- gấp nếp (tờ giấy), ép thành nếp; uốn quăn, uốn làn sóng (tóc, miếng tôn, , ,)
+
++ to crimp the hair: uốn tóc
+- rạch khía (lên miếng thịt tươi hay miếng cá tươi)
+
+@crimper
+- xem crimp
+ @crimping
+- (Tech) bóp chân @crimple
+* ngdgt
+- làm nhàu, làm nhăn, làm uốn sóng
+ @crimplene
+* dt
+- vải khó nhàu
+ @crimson  
+*  tt
+- đỏ thẫm, đỏ thắm
+!to blush crimsons
+- đỏ mặt lên như quả gấc, thẹn đỏ nhừ cả mặt
+*  dt
+- màu đỏ thẫm, màu đỏ thắm
+*  ndgt
+- đỏ thắm lên; ửng đỏ (má)
+
+@cringe  
+*  dt
+- sự khúm núm, sự khép nép, sự luồn cúi, sự quỵ luỵ
+*  ndgt
+- nép xuống, núp mình xuống, co rúm lại
+- khúm núm, khép nép, luồn cúi, quỵ luỵ
+
+@cringing
+* dt
+- thái độ xu phụ hèn hạ
+* tt
+- luồn cúi
+- đê tiện
+- hèn hạ
+ @cringle  
+*  dt
+- (hàng hải) vòng đấu dây (để luồn dây khác qua)
+
+@crinite  
+*  tt
+- (sinh vật học) có lông
+
+@crinkle  
+*  dt
+- nếp nhăn, nếp nhàu
+- khúc cong, khúc quanh co, khúc uốn quanh
+*  ngdgt
+- làm nhăn, vò nhàu, gấp nếp
+- làm quanh co, làm uốn khúc
+- làm quăn (tóc)
+*  ndgt
+- nhăn, nhàu
+- quanh co, uốn khúc
+
+@crinkle
+- uốn, nếp uốn
+ @crinkly  
+*  tt
+- nhăn, nhàu
+- quanh co, uốn khúc
+
+@crinkum-crankum  
+*  dt
+- việc rắc rối phức tạp, việc quanh co
+*  tt
+- rắc rối phức tạp, quanh co
+
+@crinoid
+* tt
+- (động vật) dạng hoa huệ biển
+ @crinoline  
+*  dt
+- vải canh
+- váy phồng
+- (hàng hải) lưới chống thuỷ lôi
+
+@crinolined
+- xem crinoline
+ @crinome
+* dt
+- (sinh học) thể lưới ưa kiềm
+ @crinose
+* tt
+- có lông dài
+ @criollo
+* dt
+- số nhiều criollos
+- người sinh và sống ở Nam Mỹ (đặc biệt gốc Tây Ban Nha)
+- giống ngựa ở Ac-hen-ti-na
+ @cripes
+- interj
+- biểu lộ sự ngạc nhiên
+ @cripple  
+*  dt
+- người què
+- cái thang đứng, cái giá (của thợ quét vôi...)
+*  ngdgt
+- làm què, làm tàn tật
+- làm hỏng, phá hỏng; làm lụn bại
+
++ the ship was crippled by the storm: chiếc tàu đã bị bão làm hỏng
+- (nghĩa bóng) làm tê liệt
+
++ to cripple someone's efforts: làm tê liệt cố gắng của ai
+*  ndgt
+- (: along) đi khập khiễng
+
+@crippler
+- xem cripple
+ @crippling
+* dt
+- (kỹ thuật) sự méo mó
+ @crips  
+*  dt số nhiều
+- khoai tây cắt mỏng ràn giòn
+
+@crises  
+*  dt,  số nhiều crises
+- sự khủng hoảng; cơn khủng hoảng
+
++ political crisis: khủng hoảng chính trị
+
++ a cabiner crisis: khủng hoảng nội các
+
++ economic crisis: khủng hoảng kinh tế
+
++ to come to a crisis: đến bước ngoặc, đến bước quyết định
+
++ to pass through a crisis: qua một cơn khủng hoảng
+- (y học) cơn (bệnh); sự lên cơn
+
+@crisis  
+*  dt,  số nhiều crises
+- sự khủng hoảng; cơn khủng hoảng
+
++ political crisis: khủng hoảng chính trị
+
++ a cabiner crisis: khủng hoảng nội các
+
++ economic crisis: khủng hoảng kinh tế
+
++ to come to a crisis: đến bước ngoặc, đến bước quyết định
+
++ to pass through a crisis: qua một cơn khủng hoảng
+- (y học) cơn (bệnh); sự lên cơn
+
+@crisis
+- (toán kinh tế) khủng hoảng
+ @crisis-ridden
+* tt
+- bị lôi cuốn vào khủng hoảng
+ @crisp  
+*  tt
+- giòn
+- (nghĩa bóng) quả quyết, mạnh mẽ; sinh động, hoạt bát
+
++ a crisp style: văn sinh động mạnh mẽ
+
++ crisp manners: cử chỉ nhanh nhẹn, hoạt bát
+- quăn tít, xoăn tít
+
++ crisp hair: tóc quăn tít
+- mát, làm sảng khoái; làm khoẻ người (không khí)
+
++ crisp air: không khí mát lạnh
+- (từ Mỹ,nghĩa Mỹ) diêm dúa, bảnh bao
+*  ngdgt
+- làm giòn, rán giòn (khoai...)
+- uốn quăn tít (tóc)
+- làm nhăn nheo, làm nhăn (vải)
+*  ndgt
+- giòn (khoai rán...)
+- xoăn tít (tóc)
+- nhăn nheo, nhàu (vải)
+
+@crispate  
+*  tt
+- quăn
+
++ a crispate leaf: lá mép quăn
+
+@crispation  
+*  dt
+- sự uốn quăn
+- sự rùng mình
+- sự sởn gai ốc, sự nổi da gà
+
+@crisper
+* dt
+- sắt uốn tóc
+ @crispiness
+- xem crispy
+ @crisply
+* dt
+- sinh động, quả quyết
+ @crispness  
+*  dt
+- tính chất giòn
+- (nghĩa bóng) tính quả quyết, tính mạnh mẽ; tính sinh động, tính hoạt bát
+- sự quăn tít, sự xoăn tít
+- sự mát mẻ, sự làm sảng khoái (không khí)
+- vẻ diêm dúa, vẻ bảnh bao
+
+@crisp-winged
+* tt
+- có cánh nhăn
+ @crispy  
+*  tt
+- quăn, xoăn
+- giòn
+- hoạt bát, nhanh nhẹn
+
+@criss-cross  
+*  dt
+- đường chéo; dấu chéo
+*  tt
+- chéo nhau, đan chéo nhau, bắt chéo nhau
+- (thông tục) cáu kỉnh, quàu quạu, hay gắt gỏng
+*  dt
+- chéo nhau, bắt chéo nhau
+- lung tung cả, quàng xiên cả
+
++ everything went criss-cross: mọi việc đều lung tung cả
+*  dgt
+- đi chéo, đi chữ chi
+- đặt chéo, bắt chéo; chéo nhau
+
+@criss-cross
+- chéo nhau, ngang dọc || ký hiệu chữ thập
+ @criss-crossing
+* dt
+- (sinh học) sự lai truyền chéo
+ @crissum
+* dt
+- vùng quanh huyệt; vùng ổ nhớp
+ @crista
+* dt
+- (sinh học) mào; lược
+- (số nhiều) nếp màng trong thể sợi hạt
+ @cristate
+* tt
+- có mào; có lược
+ @criteria  
+*  dt,  số nhiều criteria
+- tiêu chuẩn
+
+@criteria
+- (Tech) các tiêu chuẩn (số nhiều của criterion)
+ @criterial
+- xem criterion
+ @criterion  
+*  dt,  số nhiều criteria
+- tiêu chuẩn
+
+@criterion
+- (Tech) tiêu chuẩn, chuẩn cứ
+ @criterion
+- tiêu chuẩn
+- control . tiêu chuẩn kiểm tra
+- convergence c. tiêu chuẩn hội tụ
+- error-squared c. tiêu chuẩn sai số bình quân
+- logarithmic c. tiêu chuẩn lôga
+- pentode c. tiêu chuẩn năm ngón (trong hai phân tích nhân tố)
+- reducibility c. tiêu chuẩn khả quy
+- root-mean-square c. tiêu chuẩn sai số bình phương trung bình
+- stability c. tiêu chuẩn ổn định
+- switching c. tiêu chuẩn đảo mạch
+- unconditional stability c. tiêu chuẩn ổn định không điều kiện
+ @criterium
+* dt
+- cuộc đua xe đạp gồm nhiều chặng
+ @critic  
+*  dt
+- nhà phê bình (văn nghệ)
+
++ a literary critic: nhà phê bình văn học
+- người chỉ trích
+
+@critical  
+*  tt
+- phê bình, phê phán
+- hay chỉ trích, hay chê bai; có ý kiến chống lại; khó tính, khó chiều
+- nguy cấp, nguy ngập, nguy kịch
+
++ to be in a critical condition: ở trong tình trang nguy kịch
+- (vật lý); (toán học) tới hạn
+
++ critical point: điểm tới hạn
+
++ critical temperature: độ nhiệt tới hạn
+!critical age
+- (y học) thời kỳ mãn kinh
+
+@critical
+- (Tech) thuộc tới hạn, tính quyết định, then chốt
+ @critical
+- tới hạn
+ @critical data
+- (Tech) dữ kiện chính
+ @critical path
+- (Tech) đường tới hạn
+ @critical point
+- (Tech) điểm tới hạn
+ @critical resistance
+- (Tech) điện trở tới hạn
+ @critical value
+- (Tech) trị tới hạn
+ @Critical value
+- (Econ) Giá trị tới hạn
+: Giá trị tới hạn
+ @critically
+* dt
+- chỉ trích, trách cứ
+- trầm trọng
+ @criticalness
+- xem critical
+ @criticise   (criticise) @criticism  
+*  dt
+- sự phê bình, sự phê phán, sự bình phẩm, sự chỉ trích
+- lời phê bình, lời phê phán, lời bình phẩm, lời chỉ trích
+
+@criticizable
+- xem criticize
+ @criticize   (criticise) @criticizer
+- xem criticize
+ @critique  
+*  dt
+- bài phê bình
+- nghệ thuật phê bình
+
+@croak  
+*  ndgt
+- kêu ộp ộp (ếch nhái); kêu qua qua (quạ)
+- báo điềm gỡ, báo điềm xấu
+- càu nhàu
+- (từ lóng) chết, củ
+*  ndgt
+- rền rĩ, thốt lên giọng bi ai sầu thảm
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) khử, đánh chết
+
+@croaker  
+*  dt
+- kẻ báo điềm gỡ
+- người hay càu nhàu; người bi quan
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bác sĩ
+
+@croakily
+- xem croak
+ @croaky
+- xem croak
+ @croceate  
+*  tt
+- có màu vàng nghệ
+
+@crochet  
+*  dt
+- sự đan bằng kim móc, sự thêu bằng kim móc
+*  dgt
+- đan bằng kim móc, thêu bằng kim móc
+
+@crochet-wool
+* dt
+- chỉ sợi óng ánh để thêu
+ @crock  
+*  dt
+- bình sành, lọ sành
+- mảnh sành (dùng để bịt thủng ở chậu hoa)
+- ngựa già yếu
+- (từ lóng) người mất sức, người tàn tật; người bất lực
+- (thông tục) xe ọp ẹp, xe cà khổ
+- (Ê-cốt) cừu cái già
+*  ndgt (từ lóng)
+- to crock up bị suy yếu, kiệt sức
+*  ngdgt
+- làm kiệt sức, làm suy yếu, làm tàn phế
+
+@crocked
+* tt
+- bị thương, bị gãy vỡ
+ @crockery  
+*  dt
+- bát đĩa bằng sành
+
+@crocket
+* dt
+- (kiến trúc) trang trí hình lá
+ @crocky  
+*  tt
+- (từ lóng) ốm yếu, kiệt sức
+
+@crocodile  
+*  dt
+- cá sấu Châu phi, cá sấu
+- (thông tục) toán nữ sinh đi hàng đôi
+!crocodile tears
+- nước mắt cá sấu
+
+@crocodilian  
+*  tt
+- như cá sấu
+- (thuộc) bộ cá sấu
+
+@crocoisite
+* dt
+- (khoáng chất) crocoit
+ @crocus  
+*  dt
+- (thực vật học) giống nghệ tây
+- củ nghệ tây, hoa nghệ tây
+- màu vàng nghệ
+
+@croesus  
+*  dt
+- nhà triệu phú
+!as rich as Croesus
+- (xem) rich
+
+@croft  
+*  dt
+- mảnh đất nhỏ có rào
+- trại nhỏ
+
+@crofter  
+*  dt
+- (Ê-cốt) chủ trại nhỏ
+
+@crofting
+* dt
+- việc lĩnh canh
+ @croissant
+* dt
+- bánh sừng bò, bánh croaxăng
+ @cromelech  
+*  dt
+- (khảo cổ học) đá vòng cromelc
+
+@cromlech
+* dt
+- <khcổ> đá vòng cromelc
+ @crone  
+*  dt
+- bà già
+- con cừu già
+
+@crony  
+*  dt
+- bạn chí thân, bạn nối khố
+
+@crook  
+*  dt
+- cái móc; cái gậy có móc
+- gậy (của trẻ chăn bò); gậy phép (của giám mục)
+- cái cong cong, cái khoằm khoằm (nói chung)
+
++ there is a decided crook in his nose: mũi nó trông rõ là mũi khoằm
+- sự uốn, sự uốn cong, sự gập lại
+
++ a crook of the knee: sụ uốn gối, sự quỳ gối
+- chỗ xong, khúc quanh co
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kẻ lừa đảo, kẻ lừa gạt
+!by hook or by crook
+- (xem) hook
+!on the crook
+- (từ lóng) bằng cách gian lận
+*  ngdgt
+- uốn cong, bẻ cong
+*  ndgt
+- cong lại
+
+@crookback
+* dt
+- (cổ) ngừơi gù
+* tt
+- (cổ) gù
+ @crook-backed  
+*  tt
+- gù lưng
+
+@crooked  
+*  tt
+- cong, oằn, vặn vẹo; xoắn
+- quanh co, khúc khuỷu (con đường)
+- còng (lưng); khoằm (mũi)
+- có ngáng ở ở trên (gậy, nạng cho người què)
+- (nghĩa bóng) không thẳng thắn, quanh co, không thật thà
+
+@crookedly
+* dt
+- quanh co, không ngay thẳng
+ @crookedness  
+*  dt
+- sự cong, sự oằn, sự vặn vẹo
+- sự quanh co, sự khúc khuỷu
+- (nghĩa bóng) tính không thẳng thắn, tính quanh co, tính không thật thà
+
+@crook-kneed  
+*  tt
+- vòng kiềng (chân)
+
+@croon  
+*  dt
+- tiếng hát ngâm nga nho nhỏ, tiếng ngâm nga
+- (Ai-len) lời than vãn, lời khóc than (trong buổi tang lễ)
+*  dgt
+- hát ngâm nga nho nhỏ, ngâm nga
+- hát những bài hát tình cảm êm nhẹ
+
+@crooner  
+*  dt
+- người hát những bài hát tình cảm êm nhẹ
+
+@crop  
+*  dt
+- vụ, mùa; thu hoạch của một vụ
+
++ potato crop: vụ khoai
+- (số nhiều) cây trồng
+
++ technical (industrial) crops: cây công nghiệp
+- cụm, nhom, loạt, tập
+
++ a crop of questions: một loạt câu hỏi
+
++ a crop of bills: tập hoá đơn
+- (động vật học) diều (chim)
+- tay cầm (của roi da)
+- sự cắt tóc ngắn
+
++ to have a close crop: cắt tóc ngắn quá
+- bộ da thuộc
+- đoạn cắt bỏ đầu, khúc cắt bỏ đầu
+- thịt bả vai (bò ngựa)
+!neck and crop
+- toàn bộ, toàn thể
+!land in crop; land under crop
+- đất đang được trồng trọt cày cấy
+!land out of crop
+- đất bỏ hoá
+*  ngdgt
+- gặm (cỏ)
+- gặt; hái
+- gieo, trồng (ruộng đất)
+
++ to crop a land with potatoes: trồng khoai một thửa ruộng
+- xén, hớt, cắt ngắn (tai, đuôi, tóc, mép sách, hàng rào...)
+*  ndgt
+- thu hoạch
+
++ the beans crop ped well this year: năm nay đậu thu hoạch tốt
+!to crop out (forth)
+- trồi lên
+!to crop up
+- nảy ra, hiểu ra, nổi lên bất ngờ (khó khăn, vấn đề...)
+
+@crop dusting
+* dt
+- sự giải, sự phun (phân, thuốc trừ sâu)
+ @crop-dust
+- xem crop-dusting
+ @crop-dusting
+* dt
+- sự dùng máy bay rải hoá chất cho cây cối
+ @crop-ear
+* dt
+- con ngựa bị cắt tai
+ @crop-eared  
+*  tt
+- cụt tai, bị cắt tai, bị xẻo tai
+- cắt tóc ngắn, húi tóc cao (trông rõ cả tai)
+
+@cropful
+* tt
+- bụng no nê
+- đầy diều 
+ @crop-land
+* dt
+- đất thích hợp cho trồng trọt
+ @crop-leather
+* dt
+- da thuộc để đóng giày
+ @croppage
+* dt
+- tổng thu hoạch
+ @cropper  
+*  dt
+- cây cho hoa lợi
+
++ a good (heavy) cropper: cây cho nhiều hoa lợi
+
++ a light cropper: cây cho ít hoa lợi
+- loại chim bồ câu to diều
+- người xén; máy xén
+- người tá điền, người làm rẽ, người lính canh
+- (từ lóng) sự ngã đau
+
++ to come a cropper: ngã đau; thất bại nặng
+
+@cropping
+* dt
+- sự thu hoạch
+- sự cắt lông, xén lông
+ @croppy
+* dt
+- (lịch sử) người đầu tròn
+ @croquet  
+*  dt
+- (thể dục,thể thao) crôkê, bóng vồ
+
+@croquette
+* dt
+- miếng khoai tròn được bọc bằng vụn bánh mì và rán mỡ
+ @croquis
+* dt
+- số nhiều croquis
+- bản ký hoạ
+ @crore  
+*  dt
+- (Ân) mười triệu
+
+@crosier   (crozier) @cross  
+*  dt
+- cây thánh giá; dấu chữ thập (làm bằng tay phải để cầu khẩn hoặc tỏ vẻ thành kính đối với Chúa); đài thập ác (đài kỷ niệm trên có chữ thập)
+- đạo Cơ-đốc
+
++ to follow the cross: theo đạo Cơ-đốc
+- dấu chữ thập, hình chữ thập
+
++ to make a cross: đánh dấu chữ thập
+- dấu gạch ngang ở chữ cái (như ở chữ đ,  t)
+- nỗi đau khổ, nỗi thống khổ; bước thử thách; sự gian nan
+
++ to bear one's cross: chịu đựng đau khổ
+- bội tính
+
++ the Military Cross: bội tinh chiến công
+- sự tạp giao; vật lai giống
+
++ a mule is a cross between a horse and an ass: la là vật lai giống giữa ngựa và lừa
+- sự pha tạp
+- (từ lóng) sự gian lận, sự lừa đảo, sự ăn cắp
+!the Cross
+- cây thánh giá của Đức Chúa
+!the Cross of the Legion of Honour
+- Bắc đẩu bội tinh hạng năm
+!the Red Cross
+- hội chữ thập đỏ
+!to make one's cross
+- đánh dấu chữ thập thay cho chữ ký (đối với người không biết viết)
+*  tt
+- chéo nhau, vắt ngang
+
++ cross lines: đường chéo nhau
+- (thông tục) bực mình, cáu, gắt
+
++ to be cross with someone: cáu với ai
+- đối, trái ngược, ngược lại
+
++ two cross winds: hai luồng giá trái ngược
+- lai, lai giống
+
++ a cross breed: giống lai
+- (từ lóng) bất lương, man trá; kiếm được bằng những thủ đoạn bất lương
+!as cross as two sticks
+- tức điên lên
+*  ngdgt
+- qua, đi qua, vượt, đi ngang qua; đưa (ai cái gì...) đi ngang qua
+
++ to cross the sea: vượt biên
+- gạch ngang, gạch chéo, xoá
+
++ to cross a cheque: gạch chéo tờ séc
+- đặt chéo nhau, bắt chéo
+
++ to cross one's legs: bắt chéo chân
+- gặp mặt, cham mặt (một người ở ngoài đường)
+- cưỡi (ngựa)
+- viết đè lên (một chữ, một trang đã viết)
+- cản trở, gây trở ngại
+
++ to cross someone: cản trở ai
+
++ to cross a plan: gây trở ngại cho một kế hoạch
+- tạp giao, lai giống (động vật)
+
++ to cross a horse with an ass: lai giống ngựa với lừa
+*  ndgt
+- vượt qua, đi qua
+- gặp nhau, giao nhau, chéo ngang, chéo nhau
+
++ the two roads cross: hai con đường gặp nhau
+!to cross off (out)
+- gạch đi, xoá đi
+!to cross over
+- đi qua, vượt qua, vượt, ngang qua
+- tạp giao, lai giống
+!to cross oneself
+- (tôn giáo) làm dấu chữ thập
+!to cross one's fingers; to keep one's fingers crossed
+- móc ngón tay vào nhau để cầu may
+- làm dấu thánh giá
+!to cross one's mind
+- chợt nảy ra trong óc
+!to cross someone's hand with a piece of money
+- cho người nào tiền, thưởng tiền người nào
+!to cross someone's path
+- gặp ai
+- ngáng trở kế hoạch của ai
+!to cross the Styx
+- (xem) Styx
+!to cross swords
+- (xem) sword
+
+@cross
+- (Tech) giao chéo, hỗ tương [d]; giao thoa [d]; vượt qua[d]; vượt qua [đ]; chéo, hỗ tương [tt]; ngang [tt]
+ @cross
+- sự chéo nhau, sư giao nhau || chéo, giao nhau || làm chéo nhau, làm
+- giao nhau 
+ @cross arm bar
+- (Tech) chân chống xà
+ @cross assembler
+- (Tech) chương trình hợp giao hệ
+ @cross check(ing)
+- (Tech) kiểm tra chéo @cross compiler
+- (Tech) chương trình biên dịch giao hệ
+ @cross connecting line
+- (Tech) đường giao chéo
+ @cross correlation
+- (Tech) tương quan chéo
+ @cross coupling
+- (Tech) ghép chéo
+ @Cross elasticity of demand
+- (Econ) Độ co giãn chéo của cầu
+: Là tỷ lệ thay đổi trong lượng cầu đối với một hàng theo thay đổi giá của một hàng hoá khác.
+ @cross over point
+- (Tech) điểm giao chéo
+ @Cross partial derivative
+- (Econ) Đạo hàm riêng
+: ĐẠO HÀM của một hàm số lần thứ nhất lấy theo một BIẾN ĐỘC LẬP và sau đó lấy theo một biến khác.
+ @cross polarization
+- (Tech) cực hướng chéo
+ @Cross price elasticity of demand
+- (Econ) Độ co giãn theo giá chéo của cầu.
+ @cross product
+- (Tech) tích chéo
+ @cross purposes  
+*  dt số nhiều
+- mục đích trái ngược, ý định trái ngược
+!to be at cross_purposes
+- hiểu lầm nhau, bất đồng ý kiến
+
+@cross question  
+*  dt
+- câu hỏi thẩm vấn, câu hỏi chất vấn
+*  ngdgt
+- (như) cross-examination
+
+@cross reference  
+*  dt
+- lời chỉ dẫn than khảo (một đoạn... trong cùng một cuốn sách)
+
+@cross reference
+- (Tech) tham khảo chéo; quan hệ tương hỗ
+ @cross section
+- (Tech) mặt cắt, tiết diện
+ @cross talk
+- (Tech) nói chen, nói len, xuyên thoại, xuyên âm
+ @cross wire
+- (Tech) dây chéo, chỗ ngắm (hai dây chéo)
+ @cross-action  
+*  dt
+- (pháp lý) sự kiện ngược lại, sự phản tố
+
+@crossarm  
+*  dt
+- (kỹ thuật) đòn ngang, thanh ngang
+
+@crossarm
+- (Tech) xà
+ @cross-arm
+* dt
+- đòn ngang; thanh ngang
+ @crossarm pin
+- (Tech) cuống gốm (trên xà)
+ @cross-armed
+* tt
+- khoanh tay
+ @cross-arrow
+* dt
+- mũi tên đầu bốn cạnh
+ @cross-bar  
+*  dt
+- (kỹ thuật) thanh ngang, thanh giằng
+- (thể dục,thể thao) xà ngang (khung thành)
+
+@crossbar exchange
+- (Tech) tổng đài ngang dọc, tổng đài tọa độ
+ @crossbar office
+- (Tech) đài điện thoại tự động ngang dọc
+ @crossbar selector
+- (Tech) bộ chọn ngang dọc
+ @crossbar switch
+- (Tech) cái chuyển mạch ngang dọc
+ @crossbar system
+- (Tech) hệ thống điện thoại ngang dọc
+ @cross-beam  
+*  dt
+- (kỹ thuật) xà ngang, xà nhà
+
+@cross-bearer
+* dt
+- người bị đóng đinh trên thánh giá (Giê-xu)
+ @cross-belt  
+*  dt
+- băng đạn đeo chéo qua vai
+
+@cross-bench  
+*  dt
+- ghế trung lập (ghế trong hạ nghị viện Anh dành cho các nghị viên không thuộc đảng phái nào)
+*  tt
+- khách quan, không thiên vị
+
++ the cross-bench mind: tinh thần khách quan
+
+@cross-bencher
+* dt
+- người chủ trương trung lập trong quốc hội
+ @cross-bill
+* dt
+- (động vật) chim mỏ chéo
+ @cross-bones  
+*  dt số nhiều
+- hình xương chéo (đặt dưới hình sọ đầu lâu, dùng trong tượng trưng cho cái chết hoặc sự nguy hiểm chết người)
+
+@cross-bow  
+*  dt
+- cái nỏ, cái ná
+
+@cross-bred  
+*  tt
+- lai, lai giống
+
++ a cross-bred sheep: con cừu lai
+
+@cross-breed  
+*  dt
+- người lai; vật lai; cây lai
+
+@cross-cap
+- (tô pô) mũ chéo, hăng Mobicut
+ @cross-check
+* dt
+- sự kiểm tra chéo
+* dgt
+- kiểm tra chéo
+ @cross-correlation analyzer
+- (Tech) bộ phân tích tương quan chéo
+ @cross-country  
+*  tt & dt
+- băng đồng, việt dã
+
++ a cross-country race: cuộc chạy băng đồng, cuộc chạy việt dã
+
+@cross-court
+* tt, adv
+- về phía gốc chéo đối diện của sân chơi
+ @cross-cultural
+* tt
+- so sánh giữa các nền văn hoá
+ @cross-current
+* dt
+- dòng nước cắt ngang dòng nước khác
+- tư tưởng đối lập
+ @cross-cut  
+*  dt
+- sự cắt chéo; đường cắt chéo
+- đường tắt chéo
+*  tt
+- để cưa ngang (cái cưa) (trái với cưa dọc khúc gỗ)
+
+@cross-cut
+- nhát cắt; (tô pô) thiết diện; (đại số) tương giao
+ @crossed
+- chéo
+ @Cross-entry
+- (Econ) Nhập nghành chéo
+: Là một khái niệm để chỉ các hãng mới nhập ngành nhưng đã được thiết lập trong các nghành sử dụng các công nghệ tương tự với công nghệ mà các hãng mới nhập thị này tiến hành.
+ @crosser
+- xem cross
+ @cross-examination  
+*  dt
+- sự thẩm vấn
+- cuộc thẩm vấn
+
+@cross-examine  
+*  ngdgt
+- thẩm vấn
+
+@cross-examiner
+* dt
+- người thẩm vấn
+ @cross-eyed  
+*  tt
+- (y học) lác mắt, hội tụ
+
+@cross-fecundation
+* dt
+- sự thụ tinh chéo
+ @cross-fertile
+- xem cross-fertilization
+ @cross-fertilization  
+*  dt
+- sự thụ tinh chéo
+
+@cross-fertilize
+* dgt
+- kích thích, thúc đẩy
+ @cross-fire  
+*  dt
+- sự bắn chéo cánh sẻ
+- (nghĩa bóng) sự dồn dập
+
++ a cross-fire of question: sự hỏi dồn dập
+
+@cross-grain  
+*  dt
+- thớ chéo, thớ vặn (gỗ)
+
+@cross-grained  
+*  tt
+- có thớ chéo, có thớ vặn (gỗ)
+- hay cáu gắt; khó tính (người)
+
+@crosshair
+- (Tech) dây tóc chéo
+ @cross-handed
+* tt,  adv
+- hai tay tréo nhau
+ @cross-hatch  
+*  ngdgt
+- khắc đường chéo song song (vào gỗ...)
+
+@cross-head  
+*  dt
+- (như) cross-heading
+- (kỹ thuật) cái ghi
+- (kỹ thuật) con trượt
+
+@cross-heading  
+*  dt
+- tiểu mục (ở một cột báo) ((cũng) cross-heading)
+
+@crossing  
+*  dt
+- sự đi qua, sự vượt qua
+- sự cắt nhau, sự giao nhau; chỗ cắt nhau
+- ngã tư đường
+- lối đi trong hai hàng đinh
+- sự lai giống
+
+@crossing
+- (Tech) chéo, giao nhau; vượt
+ @crossing pole
+- (Tech) cột vượt ngang
+ @cross-interrogation
+* dt
+- (pháp luật) sự thẩm vấn các nhân chứng
+ @cross-kick
+* ndgt
+- đá quả bóng qua sân bóng trong bóng bầu dục
+* dt
+- sự đá quả bóng qua sân bóng trong bóng bầu dục
+ @cross-legged  
+*  tt
+- bắt chéo nhau, bắt chân chữ ngũ (kiểu ngồi)
+
+@crosslet
+* dt
+- thánh giá nhỏ
+ @cross-light  
+*  dt
+- ánh sáng xiên
+- (nghĩa bóng) sự giải thích dưới một quan điểm khác, sự minh hoạ dưới một quan điểm khác
+
+@cross-line
+* dt
+- đường ngang qua
+ @crossly  
+*  dt
+- cáu kỉnh, gắt gỏng
+
+@cross-marriages
+* dt số nhiều
+- kết hôn chéo giữa hai gia đình
+ @cross-multiply
+* ngdgt
+- nhân chéo giữa hai phân số
+ @crossness  
+*  dt
+- sự bực tức, sự cáu kỉnh, sự gắt gỏng
+
+@cross-over  
+*  dt
+- sự cắt nhau, sự giao nhau; chỗ cắt nhau, chỗ giao nhau
+- sự tạp giao, sự lai giống
+
+@crossover
+- (Tech) xuyên chéo
+ @crossover area
+- (Tech) khu vực xuyên chéo
+ @crossover voltage
+- (Tech) điện áp giao chéo
+ @cross-patch
+* dt
+- người cáu gắt
+ @cross-piece
+* dt
+- thanh ngang
+ @cross-pin
+* dt
+- đinh đóng ngang
+ @cross-ply
+* tt
+- (nói về vỏ xe) có lót bố
+ @crosspoint
+- (Tech) giao điểm
+ @crosspoint insulator
+- (Tech) sứ hai cổ, sứ điểm tương giao
+ @cross-pollinate  
+*  ngdgt
+- (sinh vật học) giao phấn
+
+@cross-pollination  
+*  dt
+- (sinh vật học) sự giao phấn
+
+@cross-purposes
+* dt số nhiều
+
++  to be at cross purposes:hiểu lầm; bất hoà trầm trọng, hục hặc
+
++  We 're at cross-purposes: I'm talking about history, you're talking about politics:Chúng ta hiểu lầm nhau rồi: Tôi bàn chuyện lịch sử, cón anh lại bàn chuyện chính trị
+ @cross-question
+* dt
+- như cross-examination
+* ngdgt
+- như cross-examine 2
+ @cross-reference
+* dt
+- lời chỉ dẫn tham khảo, tham khảo chéo (một đoạn... trong cùng một cuốn sách)
+* dgt
+- bổ sung (một cuốn sách,  v v) những lời chỉ dẫn tham khảo
+ @cross-road  
+*  dt
+- con đường cắt ngang
+- (số nhiều) ngã tư đường
+!at the cross-roads
+- (nghĩa bóng) đến bước ngoặc, đến bước quyết định
+
+@crossroads
+* dt
+- nơi hai đường gặp và cắt nhau
+- We came to a crossroads
+- Chúng tôi đến một giao lộ
+
++  at the cross-roads:(nghĩa bóng) đến bước ngoặc; đến bước quyết định
+ @cross-section  
+*  dt
+- sự cắt ngang; mặt cắt ngang, hình cắt ngang
+- (nghĩa bóng) bộ phận tiêu biểu
+
++ the cross-section of the working people: bộ phận tiêu biểu của giai cấp công nhân
+
+@Cross-section consumption function
+- (Econ) Hàm số tiêu dùng chéo
+: Là mối quan hệ hàm số giữa tiêu thụ và thu nhập được tính chéo ở các nhóm có thu nhập khác nhau tại một thời điểm (Xem CONSUMPTION FUNCTION, LONG-RUN CONSUMPTION FUNCTION, SHORT-RUN CONSUMPTION FUNCTION).
+ @Cross-section data
+- (Econ) Số liệu chéo  đặc trưng.
+@Cross-sectional analysis
+- (Econ) Phân tích chéo
+: Là việc phân tích một loạt các số liệu của những quan sát có liên quan xảy ra tại một thời điểm (Xem TIME SERIES).
+ @cross-staff
+* dt
+- máy đo góc
+ @cross-stitch  
+*  dt
+- mũi chéo nhau, mũi chữ thập (khâu, thêu)
+
+@Cross-subsidization
+- (Econ) Trợ cấp chéo
+: Khi sử dụng đối với các doanh nghiệp đa sản phẩm, đó là sự trợ cấp lỗ của một mặt hàng này bằng SIÊU LỢI NHUẬN trong khi kinh doanh các mặt hàng  khác.
+ @cross-talk  
+*  dt
+- sự nói chuyện riêng (trong cuộc họp); câu chuyện tình cờ
+- câu trả lời dí dỏm
+- tiếng xen vào (dây nói...)
+
+@crosstalk
+- (Tech) xuyên âm
+ @crosstalk attenuation
+- (Tech) suy giảm xuyên âm
+ @crosstalk coupling
+- (Tech) ghép do xuyên âm, xuyên nhiễu
+ @crosstalk interference
+- (Tech) nhiễu xuyên âm
+ @crosstalk level
+- (Tech) mức xuyên âm
+ @crosstalk loss
+- (Tech) hao tổn xuyên âm
+ @crosstalk meter
+- (Tech) máy đo xuyên âm
+ @cross-term
+- (tô pô) thành phần chéo nhau
+ @cross-town
+* tt
+- đi ngang mà thôi (chứ không vào)
+ @crosstown
+* tt
+- xuyên thành phố, xuyên thị xã
+ @cross-trade
+* dt
+- việc buôn bán bằng một tuyến hàng hải chở hàng đến những nước khác nước mình
+ @cross-trees
+* dt
+- hai thanh gỗ nằm ngang để đỡ cột buồm và dây thừng
+ @crosstrees
+* dt
+- (snh)thanh giữ cột buồm
+ @crossvein
+* dt
+- (giải phẫu) gân chéo
+ @cross-voting  
+*  dt
+- sự bỏ phiếu không tán thành chính đảng của mình (nghị viện)
+
+@crosswalk
+* dt
+- (từ Mỹ, nghĩa Mỹ) như pedestrian crossing
+ @crossways
+* dt
+- theo đường chéo góc
+ @cross-wind
+* dt
+- gió thổi tạt ngang
+ @crosswind
+* dt
+- gió thổi tạt ngang (xe ôtô, máy bay)
+ @crosswise  
+*  dt
+- chéo, chéo chữ thập
+- theo hình chữ thập
+
+@crosswise
+- chéo nhau
+ @cross-word  
+*  dt
+- ô chữ ((thường) in trên báo để đố vui)
+
++ cross-word puzzle: trò chơi ô chữ
+
+@crossword
+* dt
+- trò chơi ô chữ
+ @crossword puzzle
+* dt
+- trò chơi ô chữ
+ @crotch  
+*  dt
+- chạc (của cây)
+- (giải phẫu) đáy chậu
+
+@crotched
+- xem crotch
+ @crotchet  
+*  dt
+- cái móc
+- (âm nhạc) nốt đen
+- ý ngông, ý quái gở
+
+@crotcheteer
+* dt
+- người ngông; người có những ảo tưởng
+- người bán lấy những thành kiến
+ @crotchetiness  
+*  dt
+- sự quái gở, tính kỳ quặc
+
+@crotchety  
+*  tt
+- quái gở, kỳ quặc
+
+@croton
+* dt
+- (thực vật) cây khổ sâm, cây ba đậu
+ @crouch  
+*  dt
+- sự né, sự núp, sự cúi mình (để tránh đòn)
+- sự luồn cúi
+*  ndgt
+- thu mình lấy đà (để nhảy)
+- né, núp, cúi mình (để tránh đòn)
+- luồn cúi
+
+@croucher
+* dt
+- người xu nịnh
+ @croup   (croupe) @croupe   (croupe) @croupier  
+*  dt
+- người hồ lì (ở sòng bạc)
+
+@croupous
+* tt
+- xem croup
+* tt
+ @crouton
+* dt
+- bánh mì nướng dùng với xúp
+ @crow  
+*  dt
+- con quạ
+- cái xà beng, cái nạy nắp thùng, cái đòn bẫy ((cũng) crow bar)
+!as the vrow flies
+- theo đường chim bay, thẳng tắp
+!to eat crow
+- (từ Mỹ,nghĩa Mỹ) chịu nhục
+!to have a crow to pick (plack) with somebody
+- có chuyện lôi thôi với ai, có chuyện cãi cọ với ai; có chuyện bắt bẻ ai
+*  dt
+- tiếng gà gáy
+- tiếng trẻ con bi bô
+*  ndgt crew,  crowed
+- gáy (gà)
+- nói bi bô (trẻ con)
+- reo mừng (khi chiến thắng)
+!to crow over
+- chiến thắng (quân thù...)
+
+@crow-bar  
+*  dt
+- cái xà beng, cái nạy nắp thùng, cái đòn bẫy
+
+@crowbar
+* dt
+- cái xà beng, cái nạy nắp thùng, cái đòn bẫy
+ @crowbar circuit
+- (Tech) mạch đòn bẩy
+ @crow-berry
+* dt
+- (thực vật) cây dâu quạ
+ @crow-bill  
+*  dt
+- (y học) cái gắp đạn (ở vết thương)
+
+@crowd  
+*  dt
+- đám đông
+
++ to be lost in the crowd: bị lạc trong đám đông
+- (the crowd) quần chúng
+- (thông tục) bọn, lũ, nhóm, tụi, cánh
+- đống, vô số
+
++ a crowd of papers: đống giấy
+- crowd of sail (hàng hải) sự căng hết (thảy) buồm, sự căng nhiều buồm
+!he might pass in the crowd
+- anh ta chẳng có gì xấu để cho thiên hạ phải để ý, anh ta cũng chẳng có gì để thiên hạ phải để nói
+*  ndgt
+- xúm lại, tụ tập, đổ xô đến
+
++ to crowd round someone: xúm quanh ai
+- (: into,  through) len vào, chen vào, len qua
+- (hàng hải) đi hết tốc độ, căng hết buồm mà đi
+*  ngdgt
+- làm cho chật ních, chồng chất, nhét đầy, nhồi nhét
+- tụ tập, tập hợp
+- (từ Mỹ,nghĩa Mỹ) dùng áp lực đối với (ai), cưỡng bách, thúc giục; quấy rầy
+
++ to crowd someone's into doing something: dùng áp lực bắt ai làm gì, cưỡng bách ai làm gì
+- (thể dục,thể thao) làm trở ngại, cản (đối phương)
+!to crowd into
+- ùa vào, đổ xô vào, lũ lượt kéo vào
+!to crowd out
+- ùa ra, đổ xô ra, lũ lượt kéo ra
+- đuổi ra ngoài, không cho vào (vì quá đông)
+
++ to be crowded out: bị ẩy ra ngoài không vào được vì quá đông
+!to crowd (on) sail
+- (hàng hải) gương hết (thảy) buồm
+
+@crowded  
+*  tt
+- đông đúc
+
++ crowded streets: phố xá đông đúc
+- đầy, tràn đầy
+
++ life crowded with great events: cuộc đời đầy những sự kiện lớn
+- (từ Mỹ,nghĩa Mỹ) chật ních
+
++ to be crowded for time: không có thì giờ rảnh
+
+@crowder
+- xem crowd
+ @crowdfoot
+* dt
+- (thực vật) cây mao lương
+ @crowdie
+* dt
+- bánh ngọt làm tại nhà
+ @Crowding hypothesis
+- (Econ) Giả thuyết chèn ép
+: Cho rằng các hàng rào NGĂN CẢN NHẬP NGÀNH và sự thiếu hoàn chỉnh thông tin sẽ có khuynh hướng nhồi nhét một vài nhóm người, chủ yếu là phụ nữ và người da đen, vào các nghề bị hạn chế và được nhận lương thấp hơn từ các nghề nghiệp này.
+ @Crowding out
+- (Econ) Lấn áp; chèn ép
+: Việc giảm  TIÊU DÙNG hay ĐẦU TƯ của tư nhân do tăng chi tiêu của chính phủ (Xem FISCAL POLICY).
+ @Crowding-out effect
+- (Econ) Tác động lấn ép, chèn ép.
+ @crowdpuller
+* dt
+- điều thu hút đám đông
+ @crowflight
+* dt
+- đường chim bay
+- đường bay của quạ
+ @crowfoot
+* dt
+- (thực vật) cây mao lương
+ @crowkeeper
+* dt
+- bù nhìn chống chống chim
+ @crown  
+*  dt
+- mũ miện; vua, ngôi vua
+
++ to wear the crown: làm vua
+
++ to come to the crown: lên ngôi vua
+- vòng hoa, vòng lá (đội trên đầu); (nghĩa bóng) phần thưởng
+
++ the crown of victory: vòng hoa chiến thắng
+- đỉnh, ngọn, chóp, chỏm (núi, cây, mũ...)
+- đỉnh đầu; đầu
+
++ from crown to toe: từ đầu đến chân
+- đỉnh cao nhất, sự tột cùng (của hạnh phúc...)
+- đồng curon (tiền Anh, bằng 5 silinh)
+- thân răng
+- khổ giấy 15 x 20
+!Crown prince
+- thái tử
+!no cross no crown
+- (tục ngữ) có khổ rồi mới có sướng; có gian khổ mới có vinh quang
+*  ngdgt
+- đội mũ miện; tôn lên làm vua
+
++ to be crowned [king]: được tôn lên làm vua
+- thưởng, ban thưởng, tặng thưởng; mang vinh dự cho
+
++ to be crowned with victory: chiến thắng huy hoàng
+
++ to be crowned with success: thành công rực rỡ
+
++ to be crowned with glory: được hưởng vinh quang
+- đặt lên đỉnh, bao quanh ở đỉnh
+
++ the hill is crowned with a wood: đồi có một cánh rừng bao quanh ở đỉnh
+- làm cho hoàn hảo
+- bịt (răng, bằng vàng, bạc...)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) giáng cho một cú vào đầu (ai)
+- (đánh cờ) nâng (một quân cờ đam) len thành con đam
+!to crown all
+- lại thêm nữa là, cuối cùng lại thêm
+!to crown one's misfortunes
+- lại khổ thêm nữa là, cuối cùng lại khổ nữa là
+!crowned heads
+- bọn vua chúa
+
+@crown colony
+- thuộc địa anh chưa được độc lập
+ @crown prince
+- hoàng thái tử
+ @crown princess
+- vợ hoàng thái tử
+ @crown-cap
+* dt
+- nắp chai
+ @crowning
+* tt
+- hoàn thiện, chu toàn
+ @crown-lens
+* dt
+- kính bằng thủy tinh cron
+ @crownless
+* dt
+- không có ngôi (vua); không có vua (nước)
+ @crownling
+* dt
+- ấu chúa
+ @crown-office
+* dt
+- bộ hình (Anh)
+ @crown-prince
+* dt
+- hoàng thái tử
+ @crown-princess
+* dt
+- vợ hoàng thái tử
+ @crown-quilt
+* dt
+- ngòi bút nhỏ nét
+ @crow-quill  
+*  dt
+- ngòi bút nhỏ nét (bằng thân lông quạ, hay ngòi bút sắt)
+
+@crow's-feet  
+*  dt,  số nhiều crow's-feet
+- vết nhăn chân chim (ở đuôi mắt)
+
+@crow's-foot  
+*  dt,  số nhiều crow's-feet
+- vết nhăn chân chim (ở đuôi mắt)
+
+@crow's-nest  
+*  dt
+- (hàng hải) chòi trên cột buồm
+- (thực vật học) cây cà rốt dại
+
+@crozier   (crozier) @crt
+- ống tia điện tử
+ @CRT (cathode ray tube)
+- (Tech) ống tia âm cực, đèn hiển thị
+ @CRT display
+- (Tech) ống hiển thị
+ @cru
+* dt
+- vùng trồng nho
+ @crucial  
+*  tt
+- quyết định; cốt yếu, chủ yếu
+
++ a crucial experiment (test): thí nghiệm quyết định
+- (y học) hình chữ thập
+
++ crucial incision: vết mổ hình chữ thập
+
+@cruciality  
+*  dt
+- tính chất quyết định; tính chất cốt yếu, tính chất chủ yếu
+
+@crucially
+* dt
+- quan trọng, chủ yếu
+ @crucian
+* dt
+- (động vật) cá giếc
+ @cruciate  
+*  tt
+- (sinh vật học) hình chữ thập, chéo chữ thập
+
+@cruciately
+- xem cruciate
+ @crucible  
+*  dt
+- nồi nấu kim loại
+- (nghĩa bóng) cuộc thử thách gắt gao, lò thử thách
+
++ tempered in the crucible of the resistance: được tôi luyện trong lò lửa kháng chiến
+
+@cruciferous  
+*  tt
+- có mang hình chữ thập
+- (thực vật học) (thuộc) họ hoa thập, (thuộc) họ cải
+
+@crucifier
+- xem crucify
+ @crucifix  
+*  dt
+- hình thập ác
+
+@crucifixion  
+*  dt
+- sự đóng đinh (một người) vào giá chữ thập
+!the Crucifixion
+- bức vẽ Chúa Giê-xu bị đóng đinh trên thánh giá; tượng Chúa bị đóng đinh trên thánh giá;
+
+@cruciflorous
+* tt
+- có hoa dạng chữ thập
+ @cruciform
+* tt
+- có hình dạng như chữ thập
+ @cruciform
+- có hình chữ thập
+ @cruciformly
+- xem cruciform
+ @crucify  
+*  ngdgt
+- đóng đinh (một người) vào giá chữ thập
+- (nghĩa bóng) bắt chịu khổ hạnh, hành xác; hành hạ, làm đau đớn
+- (nghĩa bóng) tự hành xác để kiềm chế (dục vọng...)
+- (quân sự) trói dang tay
+
+@crud
+* dt
+- đồ thừa cần tống khứ
+- kẻ gây khó chịu
+ @cruddly
+* tt
+- khó chịu
+ @crude  
+*  tt
+- nguyên, sống, thô, chưa luyện
+
++ crude oil: dầu thô
+- chưa chín, còn xanh (quả cây)
+- không tiêu (đồ ăn)
+- thô thiển, chưa gọt giũa, mới phác qua
+
++ crude methods: những phương pháp thô thiển
+- thô lỗ, lỗ mãng, tục tằn, thô bỉ; thô bạo
+
++ crude manners: tác phong lỗ mãng
+
++ crude violation: sự vi phạm thô bạo
+- (y học) chưa phát triển, còn đang ủ (bệnh)
+- (ngôn ngữ học) không biến cách
+
+@crude
+- thô sơ, thô, chưa được chế biến
+ @crude iron  
+*  dt
+- gang
+
+@crudely
+* dt
+- sơ sài, qua loa
+- thô lỗ, thô tục
+ @crudeness
+* dt
+- tính còn nguyên, tính còn sống
+- sự thô thiển
+- tính thô lỗ, tính lỗ mãng, tính tục tằn, tính thô bỉ; tính thô bạoạo
+ @crudite
+* dt
+- miếng cà rốt
+- hành xắt sống ăn làm món khai vị
+ @crudity
+- xem crudness
+
+ @crudness   (crudity) @cruel  
+*  tt
+- độc ác, dữ tợn, hung ác, ác nghiệt, tàn ác, tàn bạo, tàn nhẫn
+
++ cruel fate: số phận phũ phàng
+- hiểm nghèo, tàn khốc, thảm khốc
+
++ a cruel disease: cơn bệnh hiểm nghèo
+
++ a cruel war: cuộc chiến tranh tàn khốc
+
++ a cruel death: cái chết thảm khốc
+
+@cruelly  
+*  dt
+- độc ác, dữ tợn, hung ác, ác nghiệt, tàn ác, tàn bạo, tàn nhẫn
+
+@cruelty  
+*  dt
+- sự hung ác, sự tàn ác, sự tàn bạo, sự tàn nhẫn, tính độc ác, tính ác nghiệt
+- hành động tàn ác
+
+@cruet  
+*  dt
+- lọ giấm, lọ dầu, lọ hồ tiêu (để ở bàn ăn)
+- giá đựng các lọ dầu, giấm ((cũng) cruet stand)
+- (tôn giáo) bình đựng lễ; bình đựng nước thánh
+
+@cruise  
+*  dt
+- cuộc đi chơi biển (bằng tàu thuỷ)
+- cuộc tuần tra trên biển
+*  ndgt
+- đi chơi biển (bằng tàu thuỷ)
+- tuần tra trên biển
+!cruising taxi
+- xe tắc xi đang đi chậm kiếm khách
+!to fly at cruising speed
+- bay với tốc độ tiết kiệm xăng nhất (máy bay)
+
+@cruise missile
+* dt
+- tên lửa đầu đạn hạt nhân tầm thấp
+ @cruiser  
+*  dt
+- (hàng hải) tàu tuần tiễu, tàu tuần dương
+
+@cruising
+* tt
+- đi tuần tra
+- đi kiếm khách
+- đi tiết kiệm xăng
+* dt
+- (hàng hải) sự tuần tra
+- việc đi kiếm khách (ô tô)
+ @cruive  
+*  dt
+- (Ê-cốt) cái đó, cái lờ (đánh cá)
+
+@cruller  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) bánh ca vát
+
+@crumb  
+*  dt
+- miếng, mẫu, mảnh vụn
+
++ crumbs of bread: những mẫu bánh mì vụn
+- (nghĩa bóng) chút, tý, mẩu
+
++ a few crumbs of information: một vài mẩu tin
+
++ a crumb of comfort: một chút an ủi
+- ruột bánh mì
+*  ngdgt
+- bẻ vụn, bóp vụn
+- rắt những mảnh vụn lên (cái gì)
+- phủi những mảnh vụn, quét những mảnh vụn (ở cái gì)
+
+@crumb-brush
+* dt
+- chổi quét vụn bánh mì
+ @crumb-cloth  
+*  dt
+- khăn trải dưới chân bàn ăn
+
+@crumble  
+*  ndgt
+- vỡ vụn, đổ nát, bở
+
++ crumbling rocks: những hòn bi đá vỡ vụn
+- (nghĩa bóng) sụp đổ, tan ra mây khói
+
++ a great empire crumbled: một đế quốc lớn sụp đổ
+
++ hope crumbles: hy vọng tan ra mây khói
+*  ngdgt
+- bẻ vụn, bóp vụn, đập vụn
+
++ to crumble one's bread: bẻ vụn bánh mì
+
+@crumbliness
+- xem crumbly
+ @crumbly  
+*  tt
+- dễ sụp, dễ lở, dễ đổ, dễ vỡ vụn
+
+@crumb-tray
+* dt
+- rổ dọn bàn ăn
+ @crumby  
+*  tt
+- đầy mảnh vụn
+
+@crummy  
+*  tt
+- (từ lóng) mập mạp, phốp pháp, núng nính (đàn bà)
+- nhếch nhác, bẩn thỉu, tiêu điều
+- rẻ tiền, không có giá trị
+
+@crump
+* ndgt
+- nổ ra
+- dáng một đòn mạnh
+- ngã xuống
+* dt
+- sự nổ ra
+- việc dáng một đòn mạnh
+- sự ngã xuống
+- tiếng đạn nổ
+ @crumpet  
+*  dt
+- bánh xốp
+- (từ lóng) cái đầu
+!balmy (barmy) on the crumpet; off one's crumpet
+- điên điên, gàn dở
+
+@crumple  
+*  ngdgt
+- vò nhàu, vò nát (quần áo...)
+- (nghĩa bóng) (: up) bóp, nắm, nhàu; đánh bại (kẻ thù)
+*  ndgt
+- bị nhàu, nát
+
++ cloth crumples more easily than silk: vải bị nhàu hơn lụa
+- (nghĩa bóng) (: up) gãy gục, sụp đổ, ngã gục
+
+@crumply
+- xem crumple
+ @crumpy
+* tt
+- dễ vỡ; mềm yếu
+ @crunch  
+*  dt
+- sự nhai gặm; sự nghiền
+- tiếng nghiến, tiếng răng rắc, tiếng lạo xạo
+*  ngdgt ((cũng) scrunch)
+- nhai, gặm
+
++ to crunch a bone: gặm xương
+- nghiến kêu răng rắc, làm kêu lạo xạo
+
++ feet crunch the gravel: chân giẫm lên sỏi kêu lạo xạo
+*  ndgt ((cũng) scrunch)
+- kêu răng rắc, kêu lạo xạo
+
++ gravel crunched under the wheels of the car: sỏi kêu lạo xạo dưới bánh xe
+- (: up,  over,  through) giẫm chân lên lạo xạo, bước đi lạo xạo (trên sỏi...)
+
+@crunch
+- (Tech) nhai, nghiền; tiếng lạo xạo
+ @crunchable
+- xem crunch
+ @crunchy
+* tt
+- cứng và giòn
+ @crunode
+- điểm kép (thường); điểm tự cắt (của đường cong)
+ @cruorine
+* dt
+- huyết sắc tố
+* dt
+- huyết sắc tố
+ @crupper  
+*  dt
+- dây đuôi (dây, ngựa buộc vào khấu đuôi)
+- mông (ngựa)
+
+@crural
+* tt
+- thuộc đùi
+ @crureous
+* dt
+- cơ đùi lớn ở giữa
+ @crus
+* dt
+- số nhiều crura
+- cuống; chân; đùi
+ @crusade  
+*  dt
+- (sử học) cuộc viễn chinh chữ thập (ở Châu âu)
+- chiến dịch; cuộc vận động lớn
+
++ a crusade in favour of birth-control: cuộc vận động sinh đẻ có kế hoạch
+
+@crusader  
+*  ndgt
+- (sử học) tham gia cuộc viễn chinh chữ thập
+- tham gia cuộc vận động lớn
+*  dt
+- (sử học) quân chữ thập
+- người tham gia một cuộc vận động lớn
+
+@cruse  
+*  dt
+- (từ cổ,nghĩa cổ) bình (bằng) đất nung (để đựng nước, dầu...)
+!widow's cruse
+- nguồn cung cấp trông có vẻ nhỏ nhưng vô tận
+
+@crush  
+*  dt
+- sự ép, sự vắt; sự nghiến, sự đè nát
+- đám đông, chen chúc, đám đông xô đẩy chen lấn nhau
+- buổi hội họp đông đúc
+- đòn trí mạng; (quân sự) sự tiêu diệt
+- sự vò nhàu, sự vò nát
+- nước vắt (cam, chanh...)
+- (từ lóng) sự phải lòng, sự mê
+
++ to have a crush on someone: phải lòng ai, mê ai
+- đường rào chỉ đủ một con vật đi (Uc)
+*  ngdgt
+- ép, vắt (hoa quả); nghiến, đè nát, đè bẹp
+
++ to crush grapes: ép nho
+- nhồi nhét, ấn, xô đẩy
+
++ to crush people into a hall: nhồi nhét người vào phòng
+- (nghĩa bóng) tiêu diệt, diệt; dẹp tan, làm tiêu tan
+
++ to crush one's enemy: tiêu diệt kẻ thù
+
++ hope is crush ed: hy vọng bị tiêu tan
+- vò nhàu, làm nhàu nát (quần áo, tờ giấy...)
+- uống cạn
+
++ to crush a drink of wine: uống cạn cố rượu
+*  ndgt
+- chen, chen chúc
+- nhàu nát
+!to crush down
+- tán vụn
+!to crush out
+- ép, vắt ra
+- dẹp tan, bóp chết (một cuộc nổi dậy...)
+!to crush up
+- nghiền nát
+
+@crush barrier
+* dt
+- hàng rào ngăn chặn đám đông
+ @crushable
+- xem crush
+ @crusher  
+*  dt
+- máy nghiền, máy tán, máy đập (đá), người nghiền, người tán, người đập
+- cú đấm búa tạ đòn trí mạng; câu trả lời đanh thép; sự kiện hùng hồn
+
+@crushing  
+*  tt
+- làm tan nát, làm liểng xiểng
+
++ a crushing defeat: sự thất bại liểng xiểng
+
++ a crushing blow: đòn trí mạng
+
+@crushingly
+* dt
+- triệt hạ, hạ nhục
+ @crushproof
+- xem crush
+ @crush-room  
+*  dt
+- phòng dạo (ở rạp hát để cho người xem đi dạo lúc nghỉ)
+
+@crust  
+*  dt
+- vỏ bánh, cùi bánh; mẩu bán mì khô
+- vỏ cứng, vỏ (trái đất, cây...); mai (rùa...); lớp (băng tuyết); vảy cứng
+
++ a thin crust of ice: lớp băng mỏng
+- (địa lý,địa chất) vỏ trái đất
+- váng (rượu, bám vào thành chai)
+- cái hời hợt bề mặt, cái nông cạn
+- (từ lóng) sự trơ tráo, sự vô liêm sỉ
+!the upper crust
+- tầng lớp thượng lưu, tầng lớp trên của xã hội
+!to earn one's crust
+- kiếm miếng ăn hằng ngày
+*  dgt
+- phủ một lớp vỏ cứng; đóng vỏ cứng, đóng vảy cứng
+
+@crustacean  
+*  tt
+- (động vật học) (thuộc) loại giáp xác
+*  dt
+- (động vật học) loại tôm cua, loại giáp xác
+
+@crustaceous  
+*  tt
+- hình vảy, dạng vảy cứng
+- (động vật học) có giáp, có mai
+- (động vật học) (thuộc) loại giáp xác ((như) crustacean)
+
+@crustal
+* tt
+- thuộc vỏ (trái đất...)
+ @crusted  
+*  tt
+- có vỏ cứng
+- có váng (rượu, bám vào thành chai)
+- cổ xưa, cổ lỗ; cố chấp; thâm căn cố đế
+
++ crusted prejudices: thành kiến cố chấp
+
+@crustily  
+*  dt
+- càu nhàu, gắt gỏng
+- cộc cằn, cộc lốc
+
+@crustiness  
+*  dt
+- tính cứng, tính giòn
+- tính càu nhàu, tính gắt gỏng
+- tính cộc cằn, tính cộc lốc
+
+@crustless
+- xem crust
+ @crusty  
+*  tt
+- có vỏ cứng
+- cứng giòn
+- càu nhàu, hay gắt gỏng
+- cộc cằn, cộc lốc (người)
+
+@crutch  
+*  dt
+- cái nạng ((thường) pair of crutches)
+
++ to go on crutches: đi bằng nạng
+- vật chống, vật đỡ (tường, sàn...)
+- cái chống (xe đạp, mô tô)
+- (giải phẫu) đáy chậu
+- (hàng hải) cọc chén
+- (nghĩa bóng) chỗ nương tựa
+
+@crutched
+* tt
+- đi nạng; chống gậy
+ @crux  
+*  dt,  số nhiều cruxes
+- vấn đề nan giải, mối khó khăn
+- (từ Mỹ,nghĩa Mỹ) điểm chính, cái nút, điểm then chốt
+
++ the crux of the matter: cái nút của vấn đề, điểm then chốt của vấn đề
+
+@cruzado
+* dt
+- đồng cru-za-đô (tiền Bồ Đào Nha)
+ @cruzeiro  
+*  dt
+- đồng cruzerô (tiền Bra-din)
+
+@cry  
+*  dt
+- tiếng kêu, tiêng la, tiếng hò hét, tiếng hò reo (vì đau đớn, sợ, mừng rỡ...)
+
++ a cry for help: tiếng kêu cứu
+
++ a cry of triumph: tiếng hò reo chiến thắng
+- tiếng rao hàng ngoài phố
+- lời hô, lời kêu gọi
+- sự khóc, tiếng khóc
+
++ to have a good cry: khóc nức nở
+- dư luận quần chúng, tiếng nói quần chúng
+- tiếng chó sủa ((nghĩa đen) & (nghĩa bóng))
+
++ with the hounds in full cry after it: có cả một lũ chó săn sủa ầm ĩ đuổi theo sau
+!a far cry
+- quãng cách xa; sự khác xa
+
++ the second translation of the book is a far cry from the first: bản dịch thứ hai của quyển sách khác xa bản thư nhất
+!to follow in the cry
+- ở trong một đám đông vô danh
+!in full cty
+- hò hét đuổi theo
+!hue and cry
+- (xem) hue
+!much cry and little wool
+- chuyện bé xé ra to
+!with cry of
+- trong tầm tai nghe được
+*  dgt
+- kêu, gào, thét, la hét
+- khóc, khóc lóc
+
++ to cry bitter tears: khóc lóc thảm thiết
+- rao
+
++ to cry one's wares: rao hàng
+!to cry down
+- chê bai, làm giảm giá trị, làm mất thanh danh
+!to cry for
+- đòi, vòi
+
++ to cry for the moon: đòi ăn trứng trâu, gan trời
+
++ to cry off: không giữ lời, nuốt lời
+
++ to cry off from the bargain: đã mặc cả thoả thuận rồi lại nuốt lời
+!to cry out
+- thét
+!to cry up
+- tán dương
+!to cry halves
+- đòi chia phần
+!to cry mercy
+- xin dung thứ
+!to cry oneself to sleep
+- khóc tới khi ngủ thiếp đi
+!to cry one's heart out
+- (xem) heart
+!to cry out before one is hurt
+- chưa đánh đã khóc, chưa đụng đến đã la làng
+!to cry quits to cry shame upon somebody
+- chống lại ai, phản khán ai
+!to cry stinking fish
+- vạch áo cho người xem lưng, lạy ông tôi ở bụi này
+!to cry wolf
+- kêu cứu đùa, kêu cứu láo để đánh lừa mọi người
+!it is no use crying over spilt milk
+- (xem) spill
+
+@cry-baby  
+*  dt
+- đứa trẻ hay vòi
+- người hay kêu ca phàn nàn
+
+@cryctron
+- criôtron
+ @crying  
+*  tt
+- khóc lóc, kêu la
+- rõ ràng, hiển nhiên; trắng trợn
+
++ a crying injustice: sự bất công trắng trợn
+
+@crylite  
+*  dt
+- (khoáng chất) criolit
+
+@cryobiology
+* dt
+- sự nghiên cứu tác dụng của nhiệt độ thấp tới các hệ sinh học
+ @cryoelectric storage
+- (Tech) tích trữ điện tử siêu hàn
+ @cryogen  
+*  dt
+- (hoá học) hỗn hợp lạnh, hỗn hợp sinh hàn
+
+@cryogenic
+- (Tech) thuộc siêu hàn, cryôgênic
+ @cryogenic device
+- (Tech) dụng cụ siêu hàn
+ @cryogenic electronics
+- (Tech) điện tử học siêu hàn
+ @cryogenic laser
+- (Tech) bộ kích quang siêu hàn, laze cryôgênic
+ @cryogenic memory
+- (Tech) bộ nhớ siêu hàn
+ @cryogenic operation
+- (Tech) vận hành siêu hàn
+ @cryogenic temperature
+- (Tech) nhiệt độ siêu hàn
+ @cryogenically
+- xem cryogenic
+ @cryogenics
+- (Tech) kỹ thuật siêu hàn
+ @cryolite
+* dt
+- (khoáng chất) criôlit
+ @cryophylic
+* tt
+- phát triển ở nhiệt độ thấp
+ @cryophysics
+- (Tech) vật lý học siêu hàn
+ @cryoscope
+* dt
+- (vật lý) cái nghiệm lạnh
+ @cryoscopic
+- xem cryoscopy
+ @cryoscopy  
+*  dt
+- (hoá học) phép nghiệm lạnh
+
+@cryosistor
+- (Tech) đèn tinh thể siêu hàn, cryôzisto
+ @cryostat
+- (Tech) thiết bị tạo siêu hàn
+ @cryotherapy
+* dt
+- cách dùng lạnh để chữa bệnh
+ @cryotron
+- (Tech) ống siêu hàn, cryôtron
+ @cryotronics
+- (Tech) kỹ thuật ống siêu hàn
+ @crypt  
+*  dt
+- hầm mộ (ở nhà thờ)
+
+@cryptanalyse
+* ngdgt
+- giải các mật mã
+ @cryptanalysis
+- (Tech) phân tích mật mã
+ @cryptanalyst
+* dt
+- người giải các mật mã
+ @cryptanalytic
+* tt
+- thuộc cách giải mật mã
+ @cryptic  
+*  tt
+- bí mật, mật
+- khó hiểu, kín đáo
+
++ a cryptic reamark: lời nhận xét khó hiểu
+
+@cryptically  
+*  dt
+- bí mật, mật
+- khó hiểu, kín đáo
+
+@crypticness
+- xem cryptic
+ @crypto  
+*  dt
+- (thông tục) đảng viên bí mật, hội viên bí mật
+- đảng viên bí mật đảng cộng sản; người có cảm tình bí mật với cộng sản ((cũng) crypto communist)
+
+@cryptocarp
+* dt
+- (thực vật) quả kín
+ @cryptocarpous
+* tt
+- có quả kín
+ @cryptocrystalline
+* tt
+- có tinh thể kín
+ @cryptogam   (cryptograph) @cryptogamic   (cryptogamous) @cryptogamous   (cryptogamous) @cryptogenic
+* tt
+- nguồn gốc không biết
+
++  cryptogenic disease:chứng bệnh không biết nguồn gốc
+ @cryptogram  
+*  dt
+- tài liệu viết bằng mật mã
+
+@cryptogram
+- (Tech) bức điện báo (bằng) số; mật mã, ám hiệu
+ @cryptogram
+- bản viết mật
+ @cryptogrammic
+- xem cryptogram
+ @cryptograph  
+*  dt
+- tài liệu viết bằng mật mã
+
+@cryptographer  
+*  tt
+- người viết mật mã
+
+@cryptographic   (cryptographical) @cryptographical   (cryptographical) @cryptographically
+- xem cryptography
+ @cryptography  
+*  dt
+- mật mã
+- cách viết mật mã
+
+@cryptography
+- (Tech) mật mã thuật, mật mã học
+ @cryptologist
+* dt
+- người chuyên về mật mã
+ @cryptology
+* dt
+- khoa mật mã
+ @cryptomeria
+* dt
+- (thực vật) cây thông liễu
+ @cryptonym
+* dt
+- tên ẩn giấu
+ @cryptorchid
+* dt
+- người ẩn tinh hoàn
+ @cryptorchidism
+* dt
+- tình trạng tinh hoàn ẩn
+ @cryptorchism
+* dt
+- chứng tinh hoàn ẩn
+ @cryptorhetic
+* tt
+- thuộc nội tiết
+ @cryptozoic
+* tt
+- (sinh học) sống ẩn
+ @crystal  
+*  dt
+- tinh thể
+
++ single crystal: tinh thể đơn
+
++ organic crystal: tinh thể hữu cơ
+- pha lê; đồ pha lê
+- (thơ ca) vật trong suốt như pha lê (tuyết, nước, con mắt...)
+- (từ Mỹ,nghĩa Mỹ) mặt kính đồng hồ
+- (định ngữ) bằng pha lê; như pha lê
+
+@crystal
+- (Tech) tinh thể ; thủy tinh, pha lê; thuộc kết tinh; thuộc thủy tinh
+ @crystal
+- tinh thể; bán dẫn
+ @crystal ball  
+*  dt
+- quả cầu (bằng) thạch anh (để bói)
+
+@crystal clear
+* tt
+- hoàn toàn trong suốt
+- dễ hiểu
+ @crystal set
+* dt
+- một loại máy thu thanh thông dụng trước đây
+ @crystal-gazer  
+*  dt
+- thầy bói bằng quả cầu thạch anh
+
+@crystal-gazing  
+*  dt
+- thuật bói bằng quả cầu thạch anh
+
+@crystalliferous
+* tt
+- tạo ra pha lê
+- chứa đựng pha lê
+ @crystalline  
+*  tt
+- kết tinh
+- bằng pha lê; giống pha lê, trong như pha lê
+!crystalline lens
+- (giải phẫu) thể thuỷ tinh (mắt)
+
+@crystallinity
+- xem crystalline
+ @crystallise   (crystallise) @crystallizable
+- xem crystallize
+ @crystallization  
+*  dt
+- sự kết tinh
+
+@crystallization
+- (Tech) tinh thể hóa
+ @crystallize   (crystallise) @crystallizer
+- xem crystallize
+ @crystallographer
+- xem crystallography
+ @crystallographic
+- (Tech) thuộc tinh thể học
+ @crystallographically
+- xem crystallography
+ @crystallography  
+*  dt
+- tinh thể học
+
+@crystallography
+- (Tech) tinh thể học, môn tinh thể
+ @crystallography
+- tinh thể học
+ @crystalloid  
+*  tt
+- á tinh
+*  dt
+- chất á tinh
+
+@crystalloidal
+- xem crystalloid
+ @crystallometry
+- phép đo tinh thể
+ @crèche  
+*  dt
+- nhà bè
+
+@crêpe  
+*  dt
+- nhiễu, kếp
+!crêpe de Chine
+- kếp Trung quốc
+
++ crêpe paper: giấy kếp (có gợn như nhiễu)
+
+@

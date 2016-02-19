@@ -1,0 +1,6944 @@
+@trabeate
+- như trabeated
+ @trabeated
+* tt
+- (kiến trúc) có mũ cột; xà ngang (như) trabeate
+ @trabeation
+* dt
+- (kiến trúc) mũ cột; xà ngang
+ @trabecula
+- dt,  số nhiều trabeculae
+ @tracde
+- (toán kinh tế) thương mại
+ @trace  
+*  dt,  (thường) số nhiều
+- dây kéo (buộc vào ngựa để kéo xe)
+!to be in the traces
+- đang thắng cương (đen & bóng)
+!to kick opver the traces
+- (xem) kick
+*  dt
+- ((thường) số nhiều) dấu, vết, vết tích
+
++ the traces of an ancient civilization: những vết tích của một nền văn minh cổ
+- một chút, chút ít
+
++ not to show a trace of fear: không để lộ ra một chút gì là sợ hãi cả
+*  ngdgt
+- ((thường) : out) vạch, kẻ; vạch ra, chỉ ra, định ra
+
++ to trace out a plan: vạch một kế hoạch
+
++ to trace a line of conduct: vạch ra một lối cư xử
+- kẻ theo vạch, chỉ theo đường
+
++ to trace the line with one's finger: lấy ngón tay chỉ theo đường kẻ
+- theo vết, theo vết chân
+
++ to trace someone: theo vết chân của người nào
+- theo, đi theo
+
++ to trace a shady way: đi dọc theo con đường râm mát
+- tìm thấy dấu vết
+
++ to trace an influence: tìm thấy dấu vết của một ảnh hưởng
+!to trace back to
+- truy nguyên đến
+!to trace off
+- vẽ phóng lại
+!to trace out
+- vạch; phát hiện, tìm ra; xác định (ngày tháng, nguồn gốc, vị trí, kích thước...)
+!to trace over
+- đồ lại (một bức hoạ)
+
+@trace
+- vết
+- t. of an element vết của một phần tử
+- t. of endomorphism vết của tự đồng cấu 
+- t. of a line vết của đường thẳng 
+- t. of a map (tô pô) vết của ánh xạ
+- t. of a matrix (đại số) vết của một ma trận
+- t. of a surface (hình học) vết của một mặt 
+ @trace element  
+*  dt
+- nguyên tố vết (cần rất ít cho sinh vật; có rất ít trong đất...)
+
+@traceable  
+*  tt
+- có thể, có thể vạch
+- có thể theo dõi qua dấu vết
+- có thể đồ lại
+
+@traceable
+- vẽ được
+ @traceless  
+*  tt
+- không có dấu vết, không để lại dấu vết
+
+@tracer  
+*  dt
+- cái vạch
+- người vạch, người kẻ
+- (kỹ thuật) người đồ lại (một bức hoạ)
+- (pháp lý) người truy nguyên; người phát hiện
+- (như) tracer_element
+
+@tracer element  
+*  dt
+- nguyên tử đánh dấu ((cũng) tracer)
+
+@tracery  
+*  dt
+- (kiến trúc) kiểu trang trí mạng gân
+- mạng gân (đăng ten, lá cây, cánh sâu bọ...)
+
+@trachea  
+*  dt,  số nhiều tracheas,  tracheae
+- (giải phẫu) khí quản, ống khí
+- (thực vật học) quản bào, tế bào ống
+
+@tracheae  
+*  dt,  số nhiều tracheas,  tracheae
+- (giải phẫu) khí quản, ống khí
+- (thực vật học) quản bào, tế bào ống
+
+@tracheal  
+*  tt
+- (giải phẫu) (thuộc) khí quản
+- (thực vật học) (thuộc) quản bào
+
+@tracheary
+* tt
+- có khí quản, có ống khí, có mạch ống (như) tracheate,  tracheated
+ @tracheate
+- xem tracheary
+ @tracheated
+- xem tracheary
+ @tracheid
+* dt
+- quản bào; tế bào ống
+ @tracheidal
+* tt
+- (thuộc) quản bào; (thuộc) tế bào ống
+ @tracheitis  
+*  dt
+- (y học) viêm khí quản
+
+@tracheobronchial
+* tt
+- thuộc khí quản - phổi
+ @tracheola
+* dt
+- khí quản nhỏ; ống khí nhỏ (côn trùng)
+ @tracheolar
+* tt
+- (thuộc) khí quản nhỏ; (thuộc) ống khí nhỏ (côn trùng)
+ @tracheophyte
+* dt
+- thực vật có mạch ống
+ @tracheotomy  
+*  dt
+- (y học) thủ thuật mở khí quản
+
+@trachoma  
+*  dt
+- (y học) bệnh mắt hột
+
+@trachomatous
+* tt
+- thuộc bệnh mắt hột
+ @trachyte  
+*  dt
+- (khoáng chất) Trachit
+
+@trachytic
+* tt
+- thuộc trachit
+ @tracing  
+*  dt
+- sự vạch, sự kẻ
+- sự theo dấu vết
+- sự đồ lại (hình vẽ; hình vẽ đồ lại)
+
+@tracing
+- vẽ, đựng (đường cong)
+- curve t. vẽ đường cong 
+ @tracing-paper  
+*  dt
+- giấy can
+
+@track  
+*  dt
+- dấu, vết
+
++ motor-car track: vết xe ô tô
+- ((thường) số nhiều) dấu chân, vết chân
+- đường, đường đi, đường hẻm
+
++ a track through a forest: đường hẻm xuyên rừng
+
++ track of a ship: đường rẽ nước của con tàu
+
++ track of a comet: đường vụt qua của sao chổi
+- đường ray
+- bánh xích (xe tăng...)
+!to be on the track of
+- theo hút, theo vết chân, đi tìm
+!to be on the right track
+- đi đúng đường
+!to be off the track
+- trật bánh (xe lửa)
+- lạc đường, lạc lối
+- mất hút, mất dấu vết
+- lạc đề
+!to cover up one's tracks
+- che dấu vết tích; che giấu những việc đã làm
+!to follow the tracks of
+- theo dấu chân
+!to follow in someone's tracks
+- theo bước chân ai; theo ai, noi theo ai
+!to follow the beaten track
+- theo vết đường mòn ((nghĩa đen) & (nghĩa bóng))
+!to keep track of
+- theo dõi
+!to kill somebody on his tracks
+- giết ai ngay tại chỗ
+!to lose track of
+- mất hút, mất dấu vết
+!to make tracks
+- (từ lóng) chuồn, tẩu thoát, bỏ chạy, bỏ trốn
+!to make tracks for
+- đuổi theo (ai)
+- đi thẳng về phía
+!to put somebody on the right track
+- đưa ai vào con đường đúng, đưa ai đi đúng đường đúng lối
+*  ngdgt
+- theo vết, theo dõi, đi tìm, lùng bắt, truy nã
+
++ to track a lion to its lair: theo dõi vết chân của con sư tử đến tận hang của nó
+- để lại dấu vết
+
++ to track dirt on the floor: để lại vết bẩn trên sàn
+- (hàng hải) kéo (thuyền, tàu... theo đường kéo)
+!to track down
+- theo dõi và bắt được, theo vết mà bắt được
+!to track out
+- theo dấu vết mà tìm ra, phát hiện ra qua dấu vết
+
+@track
+- vết, đường (mòn)
+- digit t. (máy tính) vết của chữ số (ghi trên băng từ) 
+ @track and field
+* dt
+- <Mỹ> các môn điền kinh (chạy, nhảy...được tiến hành trên đường đua hoặc trên sân)
+ @track events
+* dt
+- <thể> cuộc thi đấu điền kinh bao gồm các môn chạy đua (chạy tốc độ, chạy vượt rào )
+ @track record
+* dt
+- thành tích trong quá khứ của một người (một tổ chức )
+ @track suit
+* dt
+- quần và áo ấm rộng (mặc để tập luyện thể thao, làm thường phục )
+ @trackage  
+*  dt
+- sự kéo tàu, sự lai tàu
+- (từ Mỹ,nghĩa Mỹ) toàn bộ đường ray; hệ thống đường ray
+
+@track-and-field   (track-and-field_athletics) @track-and-field athletics   (track-and-field_athletics) @trackball
+- quả cầu đánh dấu, bóng xoay
+ @tracked
+* tt
+- có bánh xích
+ @tracker  
+*  dt
+- người săn thú; người bắt thú
+- người theo dõi, người lùng bắt
+
+@tracker dog
+* dt
+- chó nghiệp vụ (chó dùng để lần theo dấu vết bọn tội phạm )
+ @tracking
+* dt
+- sự theo dõi
+- sự đặt đường ray
+- (vô tuyến) sự tự hiệu chỉnh
+ @tracking station
+* dt
+- trạm theo dõi hoạt động của vệ tinh, tên lửa  bằng rađa hoặc rađiô
+ @tracklayer  
+*  dt
+- thợ đặt đường ray
+
+@tracklaying
+* dt
+- sự đặt đường ray
+ @trackless  
+*  tt
+- không có dấu vết, không để lại dấu vết
+- không có đường đi
+
++ trackless forests: những khu rừng không có đường đi qua
+
+@trackman
+* dt
+- công nhân đường sắt, nhân viên đường sắt
+ @tract  
+*  dt
+- (địa lý,địa chất) vùng, miền, dải
+
++ a narrow tract of land: một dải dất hẹp
+- (giải phẫu) bộ máy, đường
+
++ the digestive tract: bộ máy tiêu hoá, đường tiêu hoá
+- (từ cổ,nghĩa cổ) khoảng (thời gian)
+*  dt
+- luận văn ngắn (in thành sách nhỏ, thường về vấn đề tôn giáo)
+
+@tractability  
+*  dt
+- tính dễ bảo, tính dễ dạy, tính dễ sai khiến
+- tính dễ vận dụng, tính dễ dùng, tính dễ làm, tính dễ xử lý (của vật gì)
+
+@tractable  
+*  tt
+- dễ bảo, dễ dạy, dễ sai khiến
+- (từ hiếm,nghĩa hiếm) dễ vận dụng, dễ dùng, dễ làm, dễ xử lý
+
++ tractable metals: những kim loại dễ xử lý
+
+@tractarian
+* dt
+- cuộc vận động tôn giáo ở Anh xuất phát từ Oxford (1823 - 1824)
+* tt
+- (thuộc) cuộc vận động tôn giáo ở Anh xuất phát từ Oxford (1823 - 1824)
+ @tractarianism
+* dt
+- những nguyên lý của cuộc vận động tôn giáo ở Anh xuất phát từ Oxford (1823 - 1824)
+ @tractate  
+*  dt
+- luận văn
+
+@tractile  
+*  tt
+- dễ vuốt dài, dễ kéo dài
+
+@traction  
+*  dt
+- sự kéo
+- sức kéo
+
++ electric traction: sức kéo bằng điện
+
+@tractional  
+*  tt
+- kéo
+
+@traction-engine  
+*  dt
+- máy kéo
+
+@tractive  
+*  tt
+- kéo
+
++ tractive power: lực kéo
+
+@tractor  
+*  dt
+- máy kéo
+- máy bay cánh quạt kéo (cánh quạt ở phía đầu)
+
+@tractor-carried
+* tt
+- được mang bằng máy kéo
+ @tractor-drawn
+* tt
+- được kéo bằng máy kéo
+ @tractor-driver   (tractor-operator) @tractor-hauled
+* tt
+- được lái bằng máy kéo, được móc bằng máy kéo
+ @tractor-operator   (tractor-operator) @tractor-trailer
+* dt
+- (từ Mỹ, nghĩa Mỹ) như articulated vehicle
+ @tractrix
+- đường tractric
+- curtate t. đường trắctric co 
+ @trad
+* dt
+- <thgt> nhạc jazz truyền thống (tức là phong cách của những năm 1920, có nhịp điệu và hoà âm cố định và nhiều ngẫu hứng)
+ @Tradable
+- (Econ) Khả thương.
+ @trade  
+*  dt
+- nghề, nghề nghiệp
+
++ everyone to his trade: người nào nghề nấy
+
++ to be in the trade: trong nghề
+
++ to carry on one's trade; to do one's trade: làm nghề mình
+
++ men of all trades and callings: những người làm đủ nghề
+
++ to know all the tricks of the trade: biết tất cả các mánh lới nhà nghề
+- thương nghiệp, thương mại, sự buôn bán, mậu dịch
+
++ to engage trade with: trao đổi buôn bán với
+
++ the trade is thriving: nền thương nghiệp đang phát triển
+
++ foreign trade: ngoại thương
+
++ domestic (home) trade: nội thương
+
++ wholesale trade: bán buôn
+
++ retail trade: bán lẻ
+- ngành buôn bán; những người trong ngành buôn bán
+
++ the trade: (thông tục) những người sản xuất bà buôn bán rượu
+- (hàng hải),  (từ lóng) (the trade) ngành tàu ngầm (trong hải quân)
+- (số nhiều) (như) trade-wind
+!to be in trade
+- có cửa hiệu (buôn bán)
+*  dgt
+- buôn bán, trao đổi mậu dịch
+
++ to trade with somebody for something: mua bán với ai cái gì
+
++ to trade something for something: đổi cái gì lấy cái gì
+
++ to trade in silk: buôn bán tơ lụa
+
++ to trade with China: buôn bán với Trung quốc
+!to trade in
+- (từ Mỹ,nghĩa Mỹ) đổi (cái cũ lấy cái mới) có các thêm
+
++ to trade in a used car: đổi một chiếc xe cũ có các thêm tiền
+!to trade on (upon)
+- lợi dụng
+
++ to trade on somebody's credulity: lợi dụng tính cả tin của ai
+
+@Trade
+- (Econ) Thương mại (hay mậu dịch).
+: Việc trao đổi hàng hoá giữa các cá nhân hay các nhóm hoặc trực tiếp thông qua HÀNG ĐỔI HÀNG, hoặc gián tiếp qua một phương tiện thanh toán như tiền.
+ @Trade balance
+- (Econ) Cán cân thương mại.
+ @Trade bill
+- (Econ) Hối phiếu thương mại.
+: Trên thị trường chiết khấu Lodon, một hối phiếu phát hành để tài trựo một giao dịch thương mại thực sư như để trang trải cho giai đoạn vận tải hàng, và mà vẫn chưa được một ngân hàng chấp nhận , khi đó được gọi là HỐI PHIẾU NGÂN HÀNG.
+ @Trade creation
+- (Econ) Sự tạo lập thương mại.
+: Việc thay thế trong thương mại quốc tế nguồn sản xuất có chi phí cao hơn bằng nguồn chi phí thấp hơn do thay đổi trong thuế quan, hay hạn ngạch hay các hàng rào thương mại khác trên cơ sở địa lý, như tạo lập một liên minh thuế quan.
+ @Trade credit
+- (Econ) Tín dụng thương mại.
+: Tín dụng do một nhà buôn hay nhà sản xuất cung cấp cho khách hàng của mình qua các điều khoản bán hàng cho phép thanh toán vào một thời gian nào đó sau khi đã thực sự giao hàng hoá.
+ @Trade cycle
+- (Econ) Chu kỳ thương mại.
+: Cũng còn gọi là chu kỳ kinh doanh hay chu kỳ kinh tế. Sự biến động trong mức độ hoạt động kinh tế (thường thể hiện dưới dạng thu nhập quốc dân) tạo thành một hình thái đều đặn, với việc mở rộng hoạt động theo một quá trình thu hẹp, sau đó là tiếp tục mở rộng.
+ @trade gap
+* dt
+- (xuất, nhập) siêu (sự chênh lệch giữa giá trị nhập khẩu và xuất khẩu của một nước)
+ @trade name  
+*  dt
+- tên thương nghiệp
+
+@trade price  
+*  dt
+- giá thành phẩm; giá buôn
+
+@trade school  
+*  dt
+- trường dạy nghề
+
+@trade secret
+* dt
+- thiết bị sản xuất sản phẩm, kỹ thuật sản xuất sản phẩm (của một hãng)
+- <thgt> sự thật (bí mật ) mà mình không muốn tiết lộ
+ @Trade unions
+- (Econ) Công đoàn.
+ @Traded and non-traded (goods)
+- (Econ) Hàng ngoại thương và phi ngoại thương.
+ @trade-in
+* dt
+- đồ đem đổi chác
+ @trade-mark  
+*  dt
+- nhãn hiệu
+
+@trademark
+* dt
+- <vt>  TM nhãn hiệu đăng ký
+- đặc điểm phân biệt
+ @Trade-off
+- (Econ) Sự đánh đổi.
+: Mẫu thuẫn giữa các mục tiêu chính sách với kết quả là một mục tiêu chỉ có thể đạt được với việc hy sinh một mục tiêu khác.
+ @trade-off
+* dt
+- việc cân bằng các yếu tố khác nhau để đạt được sự kết hợp tốt nhất; sự thoả hiệp
+ @trader  
+*  dt
+- nhà buôn, thương gia
+- (hàng hải) tàu buôn
+
+@trade-route
+* dt
+- đường biển tàu biển đi
+ @trades union
+* dt
+- công đoàn (hội đoàn có tổ chức của những người làm thuê tham gia vào một loại việc cụ thể, được thành lập để bảo vệ quyền lợi của họ, cải thiện điều kiện làm việc)
+ @trades union congress
+* dt
+- (Trades Union Congress)  <vt> TUC hội đoàn các đại diện các công đoàn Anh
+ @tradesfolk   (tradesfolk) @tradesman  
+*  dt
+- người buôn bán; chủ cửa hàng
+- thợ thủ công
+
+@tradespeople   (tradesfolk) @trade-union  
+*  dt
+- nghiệp đoàn, công đoàn
+
+@trade-unionism  
+*  dt
+- chủ nghĩa công liên
+
+@trade-unionist  
+*  dt
+- đoàn viên nghiệp đoàn, đoàn viên công đoàn
+- người theo chủ nghĩa công liên
+
+@trade-wind  
+*  dt
+- gió alizê, gió mậu dịch
+
+@trading
+* dt
+- sự kinh doanh, việc mua bán
+ @trading estate
+* dt
+- khu công thương nghiệp (khu vực được thiết kế cho một số hãng (công nghiệp) và thương mại đóng)
+ @trading post
+* dt
+- trạm thông thương buôn bán (ở những nước chậm tiến)
+ @trading stamp
+* dt
+- tem của một số cửa hàng  trao cho khách hàng có thể đổi lấy hàng hoá hoặc tiền mặt
+ @tradition  
+*  dt
+- sự truyền miệng (truyện cổ tích, phong tục tập quán... từ đời nọ qua đời kia)
+- truyền thuyết
+
++ based only on tradition(s): chỉ dựa vào truyền thuyết
+- truyền thống
+
++ the tradition of heroism: truyền thống anh hùng
+
+@traditional   (traditionary) @Traditional sectors
+- (Econ) Các khu vực truyền thống.
+: Xem AGRICULTURAL SECTOR, DUALISM, THEORY OF, INFORMAL SECTOR, LEWIS-FEI-RANIS MODEL.
+ @traditionalism  
+*  dt
+- chủ nghĩa truyền thống
+- sự tôn trọng truyền thống
+
+@traditionalist  
+*  dt
+- người theo chủ nghĩa truyền thống
+- người nệ cổ
+
+@traditionalistic  
+*  tt
+- (thuộc) chủ nghĩa truyền thống
+
+@traditionalize
+* ngdgt
+- biến thành truyền thống
+ @traditionary   (traditionary) @traduce  
+*  ngdgt
+- vu khống; nói xấu; phỉ báng
+
+@traducement  
+*  dt
+- sự vu khống; sự nói xấu; sự phỉ báng
+
+@traducer  
+*  dt
+- người vu khống; người nói xấu; người phỉ báng
+
+@traducian
+* dt
+- người cho linh hồn di truyền
+ @traducianism
+* dt
+- thuyết linh hồn di truyền
+ @traffic  
+*  dt
+- sự đi lại, sự giao thông
+
++ block in the traffic: sự tắc nghẽn giao thông
+- sự vận tải, sự chuyên chở (hàng hoá, hành khách...)
+- sự buôn bán, sự thương mại; sự đổi chác
+*  dgt
+- buôn bán
+
++ to traffic in silk: buôn bán tơ lụa
+
++ to traffic with somebody: giao dịch buôn bán với ai
+!to traffic away one's honour
+- bán rẻ danh dự
+
+@traffic cop  
+*  dt
+- (từ lóng) cảnh sát giao thông
+
+@traffic indicator
+* dt
+- đèn xi nhan (của xe ô tô  dùng để chỉ hướng xe sắp rẽ)
+ @traffic island
+* dt
+- khu vực nhô lên ở giữa đường, chia giao thông đi lại thành hai dòng, nhất là để dùng cho người đi bộ khi đi qua đường
+ @traffic jam
+* dt
+- sự ách tắc giao thông
+ @traffic light
+* dt
+- (thường snh) tín hiệu giao thông, đèn xanh đèn đỏ
+ @traffic warden
+* dt
+- nhân viên kiểm soát việc đỗ xe
+ @trafficator  
+*  dt
+- mũi tên xin đường rẽ (ở xe mô tô)
+
+@traffic-circle  
+*  dt
+- chổ đường vòng (phải vòng qua bục công an... không đi thẳng được) ((cũng) rotary,  roundabout)
+
+@trafficker  
+*  dt
+- người buôn ((thường) xấu)
+
++ a drug trafficker: người buôn ma tuý
+
+@traffic-manager
+* dt
+- người quản lý chuyên việc chuyên chở trong một công ty; xí nghiệp
+ @traffic-unit
+* dt
+- liên lạc-giờ; đơn vị-liên lạc
+ @traffic-way
+* dt
+- đường giao thông; lòng đường giao thông
+ @tragedian  
+*  dt
+- tác giả bi kịch
+- diễn viên bi kịch
+
+@tragedienne
+* dt
+- nữ diễn viên bi kịch
+ @tragedy  
+*  dt
+- bi kịch
+- (nghĩa bóng) tấn bi kịch, tấn thảm kịch
+
+@tragic   (tragical) @tragical   (tragical) @tragically
+* dt
+- như bi kịch, theo kiểu bi kịch
+- <bóng> buồn, bi thảm, thảm thương
+ @tragicomedy  
+*  dt
+- bi hài kịch
+
+@tragicomic   (tragicomical) @tragicomical   (tragicomical) @tragus
+- dt,  số nhiều tragi
+ @tragédience  
+*  dt
+- nữ diễn viên bi kịch
+
+@trail  
+*  dt
+- vạch, vệt dài
+
++ a trail of blood: một vệt máu dài
+
++ a trail of light: một vệt sáng
+- vết, dấu vết
+
++ the trail of a snail: vết của một con ốc sên
+
++ hot on the trail: theo sát, theo riết, không rời dấu vết
+- đường, đường mòn
+- (thiên văn học) đuôi, vệt
+
++ the trail of a meteor: đuôi một sao băng
+- (nghĩa bóng) vết chân, đường đi
+
++ on the trail of...: theo vết chân của..., theo đường của...
+!at the trail
+- (quân sự) xách súng lõng thõng (thân súng song song với mặt đất)
+*  ngdgt
+- kéo, kéo lê
+
++ the child trails his toy: đứa bé kéo lê cái đồ chơi
+- theo dấu vết, đuổi theo dấu vết, lùng, truy nã
+
++ to trail a tiger: đuổi theo dấu vết một con hổ
+
++ to trail a murderer: truy nã một kẻ giết người
+- mở một con đường mòn (trong rừng)
+*  ndgt
+- lê, quét
+
++ her skirt trailed along the ground: váy cô ta quét đất
+- bò; leo (cây)
+
++ the roses trailed over the cottage door: những cây hồng leo lan ra trùm lên cửa túp nhà tranh
+- đi kéo lê, lết bước
+
++ to trail along: bước một cách nặng nề, lê bước
+
++ to trail behind someone: lê bước tụt lại đằng sau ai
+!to trail arms
+- (quân sự) xách súng lõng thõng (thân súng song song với mặt đất)
+!to trail one's coat-tails
+- kiếm chuyện, gây sự cãi nhau
+
+@trail-blazer  
+*  dt
+- người mở đường, người tiên phong
+
+@trailblazer
+* dt
+- người mở đường, người tiên phong
+- người làm cái gì mới, người làm cái gì đầu tiên
+ @trail-blazing
+* tt
+- tiên phong, đầu tiên
+ @trailblazing
+* tt
+- tiên phong, đầu tiên
+
++  a trail-blazing scientific discovery:sự khám phá khoa học đầu tiên
+ @trailer  
+*  dt
+- người lần theo dấu vết, người theo dò
+- xe moóc, toa moóc
+- cây bò; cây leo
+- (thông tục) người đi sau, người tụt lại sau, người rớt lại sau
+- (điện ảnh) đoạn phim quảng cáo phim mới
+
+@trailer-truck
+* dt
+- xe moóc theo ô tô
+ @trail-mounted
+* tt
+- được lắp trên xe nước, được đặt trên xe nước
+ @trail-net  
+*  dt
+- lưới kéo
+
+@trail-rope  
+*  dt
+- dây kéo
+
+@train  
+*  dt
+- xe lửa
+
++ to go by train: đi xe lửa
+
++ to miss the train: lỡ chuyến xe lửa
+
++ fast train: xe lửa tốc hành
+
++ goods train: xe lửa chở hàng
+- đoàn; đoàn tuỳ tùng
+
++ a train of oxen: đoàn bò
+
++ to come with a hundred men in one's train: tới với một đoàn tuỳ tùng hàng trăm người
+- dòng, dãy, chuỗi, hạt
+
++ an unexpected train of difficulties: một loạt khó khăn bất ngờ
+
++ to follow one's train of thought: theo dòng tư tưởng (ý nghĩ)
+- đuôi dài lê thê (của áo đàn bà); đuôi (chim)
+- hậu quả
+
++ in the train of: do hậu quả của
+- (kỹ thuật) bộ truyền động
+- ngòi (để châm mìn)
+!in train
+- sẵn sàng
+
++ all is now in train: tất cả đều đã sẵn sàng
+*  ngdgt
+- dạy, dạy dỗ, rèn luyện, huấn luyện; đào tạo
+
++ to train (up) children to be good citizens: dạy dỗ trẻ em để trở thành những công dân tốt
+
++ to train a teacher: đào tạo một giáo viên
+
++ a trained eye: con mắt lão luyện
+- (thể dục,thể thao) tập dượt
+- uốn (cây cảnh)
+
++ to train roses against a wall: uốn cho những cây hồng leo theo bờ tường
+- chĩa (súng)
+
++ to train the cannon on (upon): chĩa đại bác vào
+- (thông tục) đi xe lửa
+*  ndgt
+- tập luyện tập dượt
+
++ to train for a race: tập dượt để chuẩn bị chạy đua
+
++ to train on vegetarian diet: ăn chay trong khi tập luyện
+- (thông tục) đi xe lửa
+
++ to train from Pekin to Hanoi: đi xe lửa từ Bắc kinh đến Hà nội
+!to train down
+- tập cho người thon bớt đi
+!to train off
+- bắn chệch, ngắm chệch (súng)
+
+@train set
+* dt
+- đồ chơi (gồm có con tàu chạy trên đường ray)
+ @trainable  
+*  tt
+- có thể dạy được, có thể huấn luyện được
+
+@trainband
+* dt
+- đoàn dân binh đi tùy tòng (ở Anh; (thế kỷ) 17; 18)
+ @train-bearer  
+*  dt
+- người hầu mang đuôi áo (cho các vị phu nhân)
+
+@trained
+* tt
+- lành nghề; có tay nghề
+- được huấn luyện
+ @trainee  
+*  dt
+- võ sĩ trẻ đang tập dượt để lên đài; người đang được huấn luyện
+- thực tập sinh
+
+@traineeship
+* dt
+- địa vị người được huấn luyện (để làm một công việc; để lên võ đài)
+- địa vị thực tập sinh
+ @trainer  
+*  dt
+- người dạy (súc vật)
+- (thể dục,thể thao) người huấn luyện, huấn luyện viên
+
+@train-ferry  
+*  dt
+- phà xe lửa
+
+@training  
+*  dt
+- sự dạy dỗ, sự rèn luyện; sự đào tạo
+
++ training of troops: sự luyện quân
+- (thể dục,thể thao) sự tập dượt
+
++ to go into training: bước vào đợt tập dượt
+
++ to be in training: được tập dượt tốt; sung sức
+
++ to be out of training: không được tập dượt; không sung sức
+- sự uốn cây
+- (quân sự) sự chĩa súng, sự nhắm bắn
+
+@training shoe
+* dt
+- giày thể thao
+ @training-college  
+*  dt
+- trường đại học sư phạm
+
+@training-school  
+*  dt
+- trường sư phạm
+- trường chuyên nghiệp
+
+@training-ship  
+*  dt
+- tàu huấn luyện
+
+@trainless  
+*  tt
+- không có đuôi (áo)
+- không có xe lửa, không có đường sắt
+
++ a trainless country: một nước không có đường sắt
+
+@trainload
+* dt
+- trọng lượng đoàn tàu
+ @trainman  
+*  dt
+- nhân viên đường sắt
+- người gác phanh (trên xe lửa)
+
+@trainmaster
+* dt
+- trưởng tàu; xa trưởng
+ @train-oil  
+*  dt
+- dầu cá voi
+
+@train-service
+* dt
+- sự phục vụ trên xe lửa
+ @train-spotter
+* dt
+- người có sở thích sưu tập các con số của các đầu máy xe lửa mà anh ta nhìn thấy
+ @train-staff
+* dt
+- nhân viên xe lửa
+ @train-table
+* dt
+- bảng giờ tàu
+ @traipse   (traipse) @trait  
+*  dt
+- nét, điểm
+
++ a trait of irony: một nét giễu cợt châm biếm
+
++ the chief traits in someone's charater: những nét chính trong tình hình của ai
+
+@traitor  
+*  dt
+- kẻ phản bội
+
+@traitoress
+* dt
+- người đàn bà phản bội
+ @traitorous  
+*  tt
+- phản bội
+
+@traitorously
+* dt
+- phản bội, giống như kẻ phản bội; lừa dối, bội bạc
+ @traitorousness  
+*  dt
+- tính phản bội
+
+@traitress  
+*  dt
+- con phản bội
+
+@trajectory  
+*  dt
+- đường đạn; quỹ đạo
+
+@trajectory
+- quỹ đạo
+- t. of stress quỹ đạo của ứng suất
+- indecomposable t. (tô pô) quỹ đạo không phân tách được
+- isogonal t. quỹ đạo đẳng giác
+- orthogonal t. (hình học) quỹ đạo trực giao 
+ @tram  
+*  dt
+- sợi tơ (để dệt nhung, lụa)
+- sợi khổ (của nhung, lụa)
+*  dt
+- xe điện ((cũng) tram-car; (từ Mỹ,nghĩa Mỹ) streetcar)
+- đường xe điện
+- xe goòng (chở than...)
+*  dgt
+- đi xe điện
+- chở bằng goòng
+
+@tram-car  
+*  dt
+- xe điện ((cũng) tram,  streetcar)
+
+@tramcar
+* dt
+- xe điện
+ @tram-driver
+* dt
+- người lái xe điện
+ @tram-line  
+*  dt
+- đường xe điện
+
+@tramlines
+* dt, pl
+- đường ray cho xe điện
+- <thgt> hai đường song song trên sân quần vợt đánh dấu vùng phụ (dùng khi chơi đấu đôi)
+ @trammel  
+*  dt
+- lưới ba lớp (để đánh cá)
+- com-pa vẽ elip
+- dây xích chân ngựa (khi tập)
+- móc (để) treo nồi
+- (nghĩa bóng) trở ngại
+
++ the trammels of etiquette: những trở ngại của nghi lễ
+*  ngdgt
+- đánh (bằng) lưới
+- (nghĩa bóng) ngăn trở, làm trở ngại
+
+@trammer
+* dt
+- xe điện; tàu điện
+ @tramming
+* dt
+- sự đẩy xe gòong
+ @tramontane  
+*  tt
+- bên kia núi An-pơ
+- xa lạ (đối với nước Y)
+*  dt
+- người bên kia núi An-pơ
+- người xa lạ (đối với nước Y)
+
+@tramp  
+*  dt
+- tiếng đi nặng nề
+
++ the tramp of marching soldiers: tiếng chân bước nặng nề của đoàn quân
+- cuộc đi bộ dài
+- người đi lang thang; lối sống lang thang
+
++ to be on the tramp: đi lang thang
+- (hàng hải) tàu hàng chạy không theo đường nhất định (gặp hàng đâu chở đấy)
+- (từ Mỹ,nghĩa Mỹ) người đàn bà đĩ thoã; người con gái đĩ thoã
+*  dgt
+- bước nặng nề
+- đi bộ, cuốc bộ
+
++ we'll have to tramp it: chúng ta sẽ phải cuốc bộ quãng đường ấy
+- đi lang thang
+
++ to tramp the streets: đi lang thang khắp phố
+
+@tramper
+* dt
+- người đi lang thang; người phiêu lãng
+- người lữ khách đi bộ
+ @trample  
+*  dt
+- sự giậm (chân); tiếng giậm (chân)
+
++ the trample of heavy feet: tiếng giậm chân nặng nề
+- (nghĩa bóng) sự giẫm nát, sự chà đạp, sự giày xéo
+*  dgt
+- giậm chân
+- giẫm đạp, giẫm lên, giẫm nát
+
++ to trample (down) the flowers: giẫm nát hoa
+- (nghĩa bóng) chà đạp, giày xéo
+
++ to trample on justice: chà đạp lên công lý
+!to trample on (upon) someone
+- chà đạp khinh rẻ ai
+
+@trampler
+* dt
+- người giẫm nát; người giẫm lên
+- người chà đạp
+ @trampoline
+* dt
+- tấm bạt lò xo căng trên khung (để nhào lộn)
+* ndgt
+- dùng bạt lò xo, sử dụng bạt lò xo
+ @trampoliner
+* dt
+- người biểu diễn nhào lộn trên tấm vải có khung lò xo (như) trampolinist
+ @trampolining
+* dt
+- sự biểu diễn nhào lộn trên tấm vải có khung lò xo
+ @trampolinist
+* dt
+- xem trampoliner
+ @tramroad
+* dt
+- đường tàu điện, đường xe điện
+ @tramway  
+*  dt
+- đường xe điện
+
+@trance  
+*  dt
+- trạng thái hôn mê
+
++ to fall into a trance: lầm vào trạng thái hôn mê
+- (tôn giáo) sự nhập định, sự xuất thần
+*  ngdgt
+- (thơ ca) làm cho mê, làm cho mê hồn, làm cho say đắm
+
++ this picture trances me: bức tranh này làm cho tôi say mê
+
+@tranch
+* dt
+- khoanh
+ @trannie
+- Cách viết khác : tranny 
+ @tranny
+- Cách viết khác : trannie 
+ @tranquil  
+*  tt
+- lặng lẽ, yên lặng, yên tĩnh; thanh bình
+
++ tranquil sea: biển lặng
+
++ tranquil life: cuộc sống thanh bình
+
++ tranquil soul: tâm hồn thư thái, tâm hồn thanh thản
+
+@tranquility
+- <Mỹ>
+ @tranquilize
+- <Mỹ>
+ @tranquilizer
+- <Mỹ>
+ @tranquillise
+* ngdgt
+- làm dịu, làm mê (bằng cách dùng thuốc )
+- làm cho yên lặng, làm cho yên tựnh
+- làm cho yên tâm, làm cho vững dạ, trấn an
+ @tranquilliser
+* dt
+- thuốc an thần
+ @tranquillity  
+*  dt
+- sự lặng lẽ, sự yên lặng, sự yên tĩnh; sự thanh bình
+
+@tranquillization  
+*  dt
+- sự làm cho yên lặng, sự làm cho yên tĩnh
+- sự làm cho yên tâm, sự làm cho vững dạ
+
+@tranquillize  
+*  ngdgt
+- làm cho yên lặng, làm cho yên tĩnh
+- làm cho yên tâm, làm cho vững dạ
+
+@tranquillizer  
+*  dt
+- thuốc làm đỡ đau, thuốc giảm thống
+
+@trans
+* (viết tắt)
+- (do ai) dịch (translated)
+ @transact  
+*  ngdgt
+- làm, thực hiện; giải quyết
+
++ to transact business: giải quyết công việc
+*  ndgt
+- (: with) kinh doanh với; thương lượng công việc với
+
+@transaction  
+*  dt
+- sự thực hiện; sự giải quyết
+
++ to spend much time on the transaction of the business: mất nhiều thì giờ vào việc giải quyết công việc
+- sự quản lý kinh doanh; công việc kinh doanh; sự giao dịch
+
++ we have had no transactions with that firm: chúng tôi không có quan hệ kinh doanh (giao dịch) với hãng đó
+- (số nhiều) văn kiện hội nghị chuyên môn
+
++ transactions of the 5 th conference on atomic energy: văn kiện hội nghị lần thứ 5 về năng lượng nguyên tử
+
+@Transaction
+- (Econ) Giao dịch  @Transaction motives
+- (Econ) Những động cơ giao dịch.
+ @Transactions approach
+- (Econ) Phương pháp giao dịch.
+: Tên phiên bản của Newcomb và Fisher về THUYẾT ĐỊNH LƯỢNG TIỀN.
+ @Transactions balances
+- (Econ) Các số dư giao dịch.
+: Xem MONEY, THE DEMAND FOR.
+ @Transactions costs
+- (Econ) Các chi phí giao dịch.
+: Các chi phí không phải giá phát sinh trong khi trao đổi hàng hoá và dịch vụ.
+ @Transactions demand for money
+- (Econ) Cầu về tiền giao dịch.
+: Một động cơ đòi hỏi có tiền để phục vụ mục đích giao dịch, nghĩa là thanh toán và nhận thanh toán, sử dụng tiền với chức năng của nó là phương tiện trao đổi.
+ @Transactions motive for holding money
+- (Econ) Động cơ giữ tiền để giao dịch.
+: Xem Transactions demand for money, Transactions balances, Money, the demand for.
+ @Transactions velocity of circulation
+- (Econ) Tốc độ lưu thông giao dịch.
+: Xem INCOME VELOCITY OF CIRCULATION.
+ @transactor  
+*  dt
+- người điều đình thương lượng; người giao dịch
+
+@transalpine  
+*  tt
+- bên kia núi An-pơ (đối với người Y)
+*  dt
+- người sống bên kia núi An-pơ (đối với người Y)
+
+@transaminase
+* dt
+- (sinh vật học) tranxaminaza
+ @transamination
+* dt
+- sự chuyển hoá amin
+ @transatlantic  
+*  tt
+- bên kia Đại tây dương
+- vượt Đại tây dương
+
++ a transatlantic flight: cuộc bay vượt Đại tây dương
+
+@transcalent  
+*  tt
+- (vật lý) dẫn nhiệt
+
+@transceiver  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) ((viết tắt) của transmitter-receiver) máy thu phát
+
+@transcend  
+*  ngdgt
+- vượt quá, hơn
+
++ the beautiful scene transcends my power of description: cảnh đẹp đó vượt quá khả năng mô tả của tôi
+
+@transcendence   (transcendence) @transcendence
+- tính siêu việt
+ @transcendency   (transcendence) @transcendency
+- tính siêu việt
+ @transcendent  
+*  tt ((cũng) transcendental)
+- siêu việt, vượt lên hẳn, hơn hẳn
+
++ transcendent genius: thiên tài siêu việt
+- (triết học) siêu nghiệm
+
+@transcendental  
+*  tt
+- (triết học) tiên nghiệm
+
++ transcendental philosophy: triết học tiên nghiệm
+
++ transcendental cognition: nhận thức tiên nghiệm
+- (như) transcendent
+- mơ hồ, trừu tượng, không rõ ràng; huyền ảo
+
++ transcendental concept: khái niệm mơ hồ
+- (toán học) siêu việt
+
++ transcendental equation: phương trình siêu việt
+
+@transcendental
+- siêu việt
+ @Transcendental logarithMIC production function
+- (Econ) Hàm sản xuất trừu tượng dạng logarit
+: Xem TRANSLOG PRODUCTION FUNCTION.
+ @transcendental meditation
+* dt
+- kỹ thuật nhập thiền và thư giãn bắt nguồn từ Ân độ giáo, gồm có việc tự lặp đi lặp lại cho mình nghe một câu đặc biệt)
+ @Transcendental production function
+- (Econ) Hàm sản xuất trừu tượng.
+ @transcendentalism  
+*  dt
+- (triết học) thuyết tiên nghiệm
+
+@transcendentalist
+* dt
+- người theo thuyết tiên nghiệm; người tin thuyết tiên nghiệm
+ @transcode
+* ngdgt
+- chuyển mã
+ @transconductance
+* dt
+- độ hỗ dẫn
+ @transcontinental  
+*  tt
+- xuyên lục địa, vượt đại châu
+
++ a transcontinental railway: đường xe lửa xuyên lục địa
+
+@transcribe  
+*  ngdgt
+- sao lại, chép lại
+- (ngôn ngữ học) phiên âm (bằng dấu phiên âm)
+- (âm nhạc) chuyển biên
+- ghi lại để phát thanh, phát thanh theo chương trình đã ghi lại
+
+@transcribe
+- chép lại, phiên âm
+ @transcriber  
+*  dt
+- người sao lại, người chép lại
+- (âm nhạc) người chuyển biên
+
+@transcriber
+- (máy tính) thiết bị chép lại
+ @transcript  
+*  dt
+- bảo sao, bản chép lại; bản dịch (một bản tốc ký)
+
++ typewritten transcript: bản đánh máy sao lại (một bài đã ghi âm)
+
+@transcription  
+*  dt
+- sự sao lại, sự chép lại; bản sao
+- (ngôn ngữ học) sự phiên (âm); cách phiên (âm)
+- (âm nhạc) sự chuyển biên
+- chương trình ghi âm (để phát thanh)
+
+@transcription
+- sự chép lại, sự phiên âm
+ @transcutaneous
+* tt
+- xuyên qua da
+
++  transcutaneous infection:nhiễm trùng qua da
+ @transduce
+* ngdgt
+- biến năng; chuyển đổi
+
++  sense organs transduce physical energy into a nervous signal:các giác quan chuyển đổi năng lượng vật lý thành tín hiệu thần kinh
+ @transducer  
+*  dt
+- (vật lý) máy biến năng
+
+@transducer
+- (máy tính) máy biến đổi
+ @transducing
+* tt
+- (sinh vật học) truyền chất, tính trạng
+ @transduction
+* dt
+- (sinh vật học) sự truyền tính trạng
+ @transect  
+*  ngdgt
+- cắt ngang, chặt ngang
+
+@transection  
+*  dt
+- sự cắt ngang
+- mặt cắt ngang
+
+@transept  
+*  dt
+- (kiến trúc) cánh ngang (trong nhà thờ)
+
+@transeptal
+* tt
+- (kiến trúc) (thuộc) gian ngang, (thuộc) cung thờ ngang, (thuộc) cung thờ bên (của nhà thờ)
+ @transexual
+* tt
+- chuyển giới tính
+ @transfer  
+*  dt
+- sự di chuyển, sự dời chỗ; sự truyền
+
++ heat transfer: sự truyền nhiệt
+- sự nhượng, sự nhường lại, sự chuyển cho
+- (nghệ thuật) bản đồ lại
+- sự thuyên chuyển (nhân viên...)
+- sự chuyển khoản (tài vụ)
+- vé chuyển xe tàu (để tiếp tục đi trên tuyến đường khác)
+- binh sĩ thuyên chuyển (từ đơn vị này sang đơn vị khác)
+*  dgt
+- dời, chuyển, dọn
+- nhượng, nhường, chuyển cho
+
++ to transfer land: nhượng đất
+- đồ lại, in lại
+- thuyên chuyển (nhân viên...)
+
++ to transfer a student from English department to Chinese department: chuyển một học sinh từ khoa Anh sang khoa Trung
+- chuyển xe, đổi xe (để tiếp tục đi trên tuyến đường khác)
+
+@transfer
+- sự di chuyển, truyền
+- energy t. sự di chuyển năng lượng 
+- heat t. sự truyền nhiệt
+- momentum t. sự truyền động lượng 
+ @Transfer costs
+- (Econ) Chi phí vận chuyển.
+: Chi phí liên quan đến việc vận chuyển hàng hoá từ địa điểm này đến địa điểm khác bao gồm các chi phí trực tiếp của việc di chuyển mà thay đổi với khoảng cách di chuyển (và do vậy có thể gọi là chi phí khoảng cách), và toàn bộ chi phí xếp hàng, dỡ hàng, xử lý và quản lý ở mỗi đầu của hàn trình.
+ @Transfer deed
+- (Econ) Chước bạ chuyển giao.
+: Một chứng từ mà qua đó quyền sở hữu CHỨNG KHOÁN được chuyển giao theo nghĩa pháp lý từ người bán sang người mua.
+ @Transfer earnings
+- (Econ) Thặng dư kinh tế.
+: Xem ECONOMIC RENT.
+ @transfer fee
+* dt
+- số tiền trả cho một sự chuyển chỗ, nhất là của một cầu thủ bóng đá chuyên nghiệp trả cho một câu lạc bộ khác
+ @Transfer in kind
+- (Econ) Trợ cấp bằng hiện vật.
+ @Transfer incomes
+- (Econ) Thu nhập do chuyển nhượng.
+: Thu nhập không thể coi là thanh toán cho dịch vụ hện tại và do vậy không tạo thành một phần của thu nhập quốc dân.
+ @transfer list
+* dt
+- danh sách các cầu thủ bóng đá chuyên nghiệp sẵn sàng để chuyển cho các câu lác bộ khác
+ @Transfer of technology
+- (Econ) Chuyển giao công nghệ.
+: Công nghệ là một yếu tố chính trong việc thúc đẩy TĂNG TRƯỞNG KINH TẾ. Việc chuyển giao công nghệ không thích hợp có thể làm méo mó hình thái phát triển, dẫn tới việc sản xuất các sản phẩm không thích hợp.
+ @Transfer payment
+- (Econ) Thanh toán chuyển nhượng.
+: Khoản thanh toán (thường do chính phủ) cho một cá nhân mà không tạo thành một phần của  việc trao đổi hàng hoá và dịch vụ.
+ @Transfer pricing
+- (Econ) Định giá chuyển nhượng.
+: Hệ thống ấn định giá cho các giao dịch giữa các công ty con của một công ty đa quốc gia, trong đó giá không phụ thuộc vào yếu tố thị trường.
+ @Transfer problem
+- (Econ) Vấn đề chuyển nhượng.
+: Thuật ngữ trong kinh tế học quốc tế về việc liệu một nước, phải bồi thường cho một nước khác, ví dụ tiền sửa chữa, phải gánh nặng quá mức hay thứ cấp, nghĩa là  gánh nặng hơn tốc độ thanh toán, để mà thực hiện việc chuyển giao bằng việc kiếm được khoản thặng dư trên thanh toán quốc tế.
+ @transferability  
+*  dt
+- tính chất có thể dời chuyển
+- tính chất có thể nhượng được
+
+@transferable  
+*  tt
+- có thể dời chuyển, có thể di chuyển, có thể mang sang được
+- nhượng được, có thể nhường được
+- có thể in lại, có thể đồ lại, có thể hoạ lại
+!not transferable
+- chỉ dùng cho bản thân, không chuyển cho người khác được (vé tàu)
+!transferable vote
+- lá phiếu có thể chuyển cho người ứng cử khác (nếu không ai được đa số tuyện đối trong cuộc bỏ phiếu đầu tiên)
+
+@Transferable rouble
+- (Econ) Rúp chuyển đổi được.
+: Một đơn vị tiền tệ kế toán do Liên Xô đưa ra năm 1963 cho việc thanh toán số dư thương mại giữa các nước trong hội đồng tương trợ kinh tế.
+ @transferal
+* dt
+- sự chuyển; sự được chuyển
+- sự chuyển nhượng, sự nhường lại
+- sự thuyên chuyển (trong công tác)
+ @transferase
+* dt
+- (sinh vật học) transferaza
+ @transfer-book
+* dt
+- sổ chuyển nhượng (tài sản)
+ @transferee  
+*  dt
+- (pháp lý) người được nhượng
+
+@transference  
+*  dt
+- sự di chuyển
+- sự chuyển nhượng, sự nhường lại
+- sự thuyên chuyển (trong công tác)
+
+@transference
+- sự di chuyển, sự truyền
+ @transfer-ink  
+*  dt
+- mực in thạch bản
+
+@transferor   (transferrer) @transfer-paper
+* dt
+- giấy có lớp đặc biệt có thể in sang tờ giấy khác
+ @transfer-proficient
+* tt
+- (sinh vật học) có khả năng truyền
+ @transferral
+* dt
+- sự chuyển; sự được chuyển
+- sự chuyển nhượng, sự nhường lại
+- sự thuyên chuyển (trong công tác)
+ @transferrer   (transferrer) @transfiguration  
+*  dt
+- sự biến hình, sự biến dạng
+- (Transfiguration) lễ biến hình (trong đạo Cơ đốc, ngày 6 tháng 8)
+
+@transfigure  
+*  ngdgt
+- biến hình, biến dạng
+- tôn lên, làm cho (nét mặt) rạng rỡ lên
+
+@transfinite
+- siêu hạn
+
++  transfinite number:số siêu hạn
+ @transfinite
+- siêu hạn
+ @transfix  
+*  ngdgt
+- đâm qua, giùi qua, xuyên qua
+- (nghĩa bóng) làm cho sững sờ; làm cho chết đứng
+
++ to be transfixed with terror: chết đứng vì khiếp sợ, sợ chết khiếp
+
+@transfixion  
+*  dt
+- sự đâm, sự giùi, sự xuyên
+- (y học) thủ thuật cắt cụt xuyên
+
+@transfluent
+* tt
+- chảy qua
+ @transfluxor
+* dt
+- (tin học) transfluxo
+ @transform  
+*  ngdgt
+- thay đổi, biến đổi
+- làm biến chất, làm biến tính
+
+@transform
+- biến đổi; ánh xạ
+- convolution t. (giải tích) phép biến đổi tích chập 
+- Laplace t. (giải tích) phép biến đổi Laplaxơ
+- linear t. phép biến đổi tuyến tính 
+ @transformable  
+*  tt
+- có thể thay đổi
+- có thể biến chất, có thể biến tính
+
+@transformation  
+*  dt
+- sự thay đổi, sự biến đổi
+- sự biến chất, sự biến tính
+- chùm tóc giả (của phụ nữ)
+- (toán học) phép biến đổi
+
+@transformation
+- phép biến đổi; phép ánh xạ t. by reciprocal radii phép
+- nghịch đảo 
+- t. of coordinates phép biến đổi toạ độ
+- t. of function phép biến đổi hàm
+- t. of tensor phép biến đổi tenxơ
+- t. of variable phép biến đổi biến số
+- adjoint t. phép biến đổi phó
+- affine t. phép biến đổi afin
+- algebraic t. phép biến đổi đại số
+- allowable t. phép biến đổi chấp nhận được
+- analytic t. phép biến đổi giải tích 
+- autoregressive t. phép biến đổi tự hồi quy
+- bilimear t. phép biến đổi song tuyến tính
+- biquadratic t. phép biến đổi trùng phương
+- birational t. phép biến đổi song hữu tỷ 
+- canonical t. phép biến đổi chính tắc 
+- chain t. phép biến đổi xích
+- closed t. phép biến đổi đóng, phép ánh xạ đóng 
+- collineatory t. phép biến đổi cộng tuyến
+- conformal t. phép biến đổi bảo giác
+- congruent t. phép biến đổi tương đẳng
+- conjugate t. phép biến đổi liên hợp
+- continuous t. phép biến đổi liên tục
+- contractive linear t. (đại số) phép biến đổi tuyến tính co rút 
+- covering t. phép ánh xạ phủ
+- cubic t. phép biến đổi bậc ba 
+- cubo-cubic t. phép biến đổi 3 - 3 
+- dualistic t. phép biến đổi đối ngẫu
+- elementary t. phép biến đổi sơ cấp
+- equiangular t. phép biến đổi đẳng giác
+- equiform t. phép biến đổi đẳng dạng
+- equilong t. phép biến đổi đẳng cự
+- Galilean t. phép biến đổi Galilê
+- geometric t. phép biến đổi hình học
+- homogeneos t. phép biến đổi thuần nhất
+- homothetic t. phép vị tự
+- identical t. phép biến đổi đồng nhất 
+- infinitesimal t. phép biến đổi vi phân
+- inner t. (giải tích) phép biến đổi trong, phép ánh xạ trong
+- internal t. (giải tích) phép biến đổi tron, phép ánh xạ trong 
+- interior t. (giải tích) phép biến đổi trong, phép ánh xạ trong
+- inverse t. phép biến đổi ngược
+- involutory t. phép biến đổi đối hợp
+- isogonal t. phép biến đổi đẳng giác
+- Laplace t. phép biến đổi Laplaxơ
+- linear t. phép biến đổi tuyến tính
+- line-sphere t. phép biến đổi tuyến cầu
+- loglog t. (thống kê) phép biến đổi lôga lặp
+- maximal t. phép biến đổi cực đại
+- metric t. phép biến đổi mêtric
+- monoidal t. phép biến đổi monoit
+- natural t. sự biến đổi tự nhiên
+- non-singular t. phép biến đổi không kỳ dị
+- normal t. phép biến đổi chuẩn tắc
+- orthogonal t. phép biến đổi trực giao
+- pedal t. phép biến đổi [bàn đạp, thuỳ túc]
+- point t. phép biến đổi điểm
+- point - curve t. phép biến đổi điểm tính
+- point - surface t. phép biến đổi điểm diện
+- polar t. phép biến đổi cực
+- projective t. phép biến đổi xạ ảnh
+- quadratic t. phép biến đổi bậc hai
+- radial t. phép biến đổi theo tia
+- reciprocal frequency t. phép biến đổi đảo tần
+- retracting t. (tô pô) phép biến đổi co rút
+- reversible t. phép biến đổi thuận nghịch 
+- self-adjoint t. phép biến đổi tự phó
+- similarity t. phép biến đổi đồng dạng
+- single valued t. phép biến đổi đơn vị
+- singular t. phép biến đổi kỳ dị
+- step t. phép biến đổi bậc thang
+- symmetry t. phép biến đổi đối xứng
+- topological t. phép biển đổi tôpô
+- unimodular t. phép biến đổi đơn môđula
+- unitary t. phép biến đổi [đơn nguyên, unita]
+- univalent t. phép biến đổi đơn trị 
+ @Transformation function
+- (Econ) Hàm chuyển đổi.
+: Xem PRODUCTION FRONTIER.
+ @Transformation problem
+- (Econ) Bài toán chuyển đổi.
+: Bài toán trong kinh tế học C.Mác nhằm tìm ra một bộ giá duy nhất từ các giá trị, nghĩa là đầu vào lao động.
+ @transformationalist
+* dt
+- người theo ngữ pháp chuyển hoá
+ @transformative
+* tt
+- (có tác dụng) biến đổi, thay đổi; biến dạng
+ @transformer  
+*  dt
+- người làm biến đổi; vật làm biến đổi
+- (điện học) máy biến thế
+
+@transformism  
+*  dt
+- (sinh vật học) thuyết biến hình
+
+@transformist  
+*  dt
+- (sinh vật học) nhà biến hình
+
+@transfuse  
+*  ngdgt
+- rót sang, đổ sang, chuyển sang
+- (y học) truyền (máu)
+- truyền, truyền thụ
+
++ to transfuse one's enthusiasm: truyền nhiệt tình
+
+@transfuseble
+* tt
+- có thể rót sang, có thể chuyển đổi, có thể đổ sang
+- (y học) có thể truyền máu
+- có thể truyền, có thể truyền thụ (nhiệt tình...)
+ @transfusion  
+*  dt
+- sự rót sang, sự đổ sang
+- (y học) sự truyền máu ((cũng) blood transfusion)
+- sự truyền, sự truyền thụ
+
+@transfusionist  
+*  dt
+- người cho máu
+- người truyền máu
+
+@transfusive  
+*  tt
+- để truyền sang
+- (thuộc sự) truyền máu
+
+@transgenesis
+* dt
+- sự trao đổi thông tin di truyền
+ @transgress  
+*  ngdgt
+- vượt quá
+
++ to transgress the bounds: vượt quá giới hạn
+- phạm, vi phạm
+
++ to transgress a treaty: vị phạm một hiệp ước
+*  ndgt
+- (tôn giáo) phạm tội
+- (pháp lý) phạm pháp
+
+@transgression  
+*  dt
+- sự vượt quá
+- sự vi phạm; sự phạm pháp
+- lỗi tội
+- (địa lý,địa chất) hiện tượng biến tiếp
+
+@transgression
+- (tô pô) sự vượt qua
+ @transgressive
+* tt
+- có xu hướng vi phạm, có xu hướng phạm tội
+- có nhiều sai sót
+ @transgressor  
+*  dt
+- người vi phạm; người phạm pháp
+- người có tội, người tội lỗi
+
+@tran-ship   (tranship) @tranship
+* dgt
+- chuyển tàu, chuyển từ tàu này sang tàu khác
+* dt
+- sự chuyển tàu, sự sang tàu
+ @transhumance
+* dt
+- sự chuyển gia súc lên núi (trong vụ hè) 
+ @transhumant
+* tt
+- chuyển lên núi (súc vật)
+* dt
+- súc vật chuyển lên núi
+ @transience   (transiency) @transiency   (transiency) @transient  
+*  tt
+- ngắn ngủi, nhất thời, chóng tàn
+
++ transient success: thắng lợi nhất thời
+- tạm thời
+- thoáng qua, nhanh, vội vàng
+
++ transient sorrow: nỗi buồn thoáng qua
+
++ a transient gleam of hope: một tia hy vọng thoáng qua
+
++ to cast a transient look at: đưa mắt nhìn vội, nhìn thoáng qua
+- ở thời gian ngắn
+
++ transient guest: khách ở lại thời gian ngắn
+
++ transient lodger: người trọ ngắn ngày
+- (âm nhạc) (thuộc) nốt đệm
+*  dt
+- khách ở lại thời gian ngắn; khách trọ ngắn ngày
+
+@transient
+- nhất thời
+ @transilient
+* tt
+- chuyển nhanh chóng từ cái này sang cái kia
+ @transilluminate
+* ngdgt
+- (y học) cho ánh sáng xuyên qua (một bộ phận cơ thể để khám nghiệm)
+ @transillumination  
+*  dt
+- (y học) phương pháp soi qua
+
+@transinformation
+* dt
+- thông tin
+ @transistor  
+*  dt
+- (y học) Tranzito, bóng bán dẫn
+
++ a transistor radio: máy thu bán dẫn
+
+@transistor
+- (kỹ thuật) [máy đền] bán dẫn
+ @transistor radio
+* dt
+- đài bán dẫn xách tay
+ @transistor-controlled
+* tt
+- được điều chỉnh bằng tranzito
+ @transistorise
+- Cách viết khác : transistorize 
+ @transistorised
+* tt
+- có lắp tranzito, được thiết bị bằng bán dẫn
+ @transistorization
+* dt
+- sự tranzito hoá; sự chuyển sang tranzito
+ @transistorize
+- Cách viết khác : transistorise 
+ @transistorized  
+*  tt
+- có lắp tranzito
+
+@transit  
+*  dt
+- sự đi qua, sự vượt qua
+- (thương nghiệp) sự quá cảnh
+
++ goods in transit: hàng hoá quá cảnh
+- đường
+
++ the overland transit: đường bộ
+
++ in transit: dọc đường
+
++ lost in transit: thất lạc dọc đường
+- sự qua đường kinh (kinh tuyến) (của một thiên thể); sự ngang qua mặt trời (của một hành tinh)
+
++ the transit of Venus: sự ngang qua mặt trời của sao Kim
+*  ngdgt
+- (thiên văn học) đi qua, qua
+
++ Venus transits the sun's disc: sao Kim đi qua mặt trời
+
+@transit
+- (thiên văn) sự qua kinh tuyến
+ @transit camp
+* dt
+- trại cho những người tị nạn, quân lính  ăn ở tạm thời
+ @transit visa
+* dt
+- thị thực quá cảnh (thị thực cho phép một người đi qua một nước như ng không lưu lại)
+ @transition  
+*  dt
+- sự chuyển tiếp, sự quá độ
+
++ the transition from cold to warm weather: sự chuyển tiếp từ tiết lạnh sang tiết nóng
+
++ to be in a period of transition: ở vào thời kỳ quá độ
+- (âm nhạc) sự chuyển giọng
+- (kiến trúc) sự đổi kiểu
+!transition tumour
+- (y học) u có thể tái phát và trở thành ác tính sau khi cắt
+
+@transitional   (transitionary) @transitionally
+* dt
+- chuyển tiếp, quá độ
+ @transitionary   (transitionary) @transitive  
+*  tt
+- (ngôn ngữ học)
+
++ transitive verb: ngdgt
+- (ngôn ngữ học) ngdgt
+
+@transitive
+- bắc cầu, truyền ứng
+- multiply t. [bắc cầu, truyền ứng] bội 
+ @transitively
+- một cách bắc cầu
+ @transitiveness
+- sự bắc cầu, sự truyền ứng
+ @transitivity
+- tính bắc cầu, tính truyền ứng
+ @Transitivity of preferences
+- (Econ) Tính bắc cầu của sở thích.
+: Xem AXIOMS OF PREFERENCE.
+ @transitorily
+* dt
+- ngắn ngủi; phù du; chớp bóng
+- tạm thời, chốc lát; nhất thời
+ @transitoriness  
+*  dt
+- tính chất nhất thời, tính chất tạm thời
+
+@transitory  
+*  tt
+- nhất thời, tạm thời
+
+@Transitory consumption
+- (Econ) Tiêu dùng qúa độ.
+: Sự tăng hay giảm không dự tính trong tiêu dùng.
+ @Transitory income
+- (Econ) Thu nhập quá độ.
+: Thu nhập không dự tính. Khoản thu hay lỗ bất thường.
+ @transit-trade
+* dt
+- nghề vận chuyển
+ @translatable  
+*  tt
+- có thể dịch được
+
++ a translatable book: một quyển sách có thể dịch được
+
+@translate  
+*  ngdgt
+- dịch, phiên dịch
+
++ to translate an English book into Vietnamese: dịch một quyển sách tiếng Anh sang tiếng Việt
+- chuyển sang, biến thành
+
++ to translate emotion into action: biến tình cảm thành hành động
+
++ to translate dream into reality: biến ước mơ thành hiện thực
+
++ to translate opetry into music: chuyển thơ thành nhạc, phổ nhạc thành thơ
+
++ to translate Lenin's teachings into reality: thực hiện lời dạy của Lê-nin
+- giải thích, coi là
+
++ kindly translate: xin ông vui lòng giải thích rõ cho ý ông muốn nói
+
++ do not translate my hesitation as ill-will: xin anh đừng coi sự do dự của tôi là thiếu thiện chí
+- thuyên chuyển (một vị giám mục) sang địa phận khác
+- truyền lại, truyền đạt lại (bức điện)
+- (toán học); (kỹ thuật) cho tịnh tiến
+
+@translate
+- tịnh tiến, dịch
+ @translater
+- Cách viết khác : translator 
+ @translating
+- tịnh tiến, dịch biến đổi
+ @translation  
+*  dt
+- sự dịch; bản (bài) dịch
+
++ a good translation: một bản dịch tốt
+- sự chuyển sang, sự biến thành
+- sự giải thích, sự coi là
+- sự thuyển chuyển (một giám mục) sang địa phận khác
+- sự truyền lại, sự truyền đạt lại (một bức điện)
+- (toán học); (kỹ thuật) sự tịnh tiến
+
+@translation
+- phép tịnh tiến, sự dịch
+- t. of axes sự tịnh tiến các trục
+- curvilinear t. tịnh tiến cong
+- isotropic t. tịnh tiến đẳng hướng
+- machine t. dịch máy 
+- parallel t. (giải tích) phép tịnh tiến song song
+- positive t. phép tịnh tiến dương
+- real t. phép tịnh tiến thực
+- rectilinear t. phép tịnh tiến thẳng 
+ @translational  
+*  tt
+- (toán học); (kỹ thuật) tịnh tiến
+
++ translational movement: chuyển động tịnh tiến
+
+@translative
+* tt
+- thuộc sự chuyển dịch giữa các ngôn ngữ hay các hệ thống, tạo nên sự chuyển dịch giữa các ngôn ngữ hay các hệ thống
+ @translator  
+*  dt
+- người dịch
+- máy truyền tin (bưu điện)
+
+@translator
+- máy dịch
+- code t. máy dịch mã 
+ @transliterate  
+*  ngdgt
+- chuyển chữ
+
++ to transliterate russian into Roman letters: chuyển chữ Nga sang chữ cái La-tinh
+
+@transliteration  
+*  dt
+- sự chuyển chữ
+- bản chuyển chữ
+
+@translocate
+* ngdgt
+- di chuyển
+- dời chỗ
+- hoán vị
+ @translocation  
+*  dt
+- sự di chuyển, sự dời chỗ
+!police translocation
+- (pháp lý) tội đày, tội phát vãng
+
+@Translog production function
+- (Econ) Hàm sản xuất chuyển dạng lô-ga-rít.
+: Hàm sản xuất trừu tượng dạng lô-ga-rít.Là dạng tổng quát của hàm sản xuất COBB-DOUGLAS.
+ @translucence   (translucency) @translucency   (translucency) @translucent  
+*  tt
+- trong mờ
+
+@transmarine  
+*  tt
+- ở bên kia biển, hải ngoại
+
+@transmigrant  
+*  tt
+- di cư; di trú tạm thời
+*  dt
+- người di cư; người di trú tạm thời (ở một nước này để đi sang nước khác)
+
+@transmigrate  
+*  ndgt
+- di cư, di trú
+- đầu thai; luân hồi (linh hồn)
+
+@transmigration  
+*  dt
+- sự di cư, sự di trú
+- sự đầu thai; sự luân hồi (linh hồn)
+
+@transmigrator  
+*  dt
+- người di cư, người di trú
+
+@transmigratory  
+*  tt
+- di cư, di trú
+
++ transmigratory birds: chim di trú
+
+@transmissibility  
+*  dt
+- tính chất có thể chuyển giao được, tính chất có thể truyền được
+
+@transmissible  
+*  tt
+- có thể chuyển giao, có thể truyền được
+
++ heat is transmissible through iron: nhiệt có thể truyền được qua sắt
+
++ some characteristics of the parents are transmissible to their children: một vài đặc điểm của cha mẹ có thể truyền sang con cái
+
+@transmission  
+*  dt
+- sự chuyển giao, sự truyền
+
++ transmission of news: sự truyền tin
+
++ transmission of disease: sự truyền bệnh
+
++ transmission of order: sự truyền lệnh
+
++ transmission of electricity: sự truyền điện
+
++ transmission from generation to generation: sự truyền từ thế hệ này qua thế hệ khác
+
+@transmission
+- (vật lí) sự truyền
+- t. of pressure sự truyền áp lực
+- t. of sound sự truyền âm thanh
+- multiplex t. (điều khiển học) sự truyền đa bội
+- one-way t. sự truyền một chiều
+- two-way t. sự truyền hai chiều 
+ @Transmission mechanism
+- (Econ) Cơ chế lan chuyền.
+ @transmissive  
+*  tt
+- có thể truyền được
+
+@transmit  
+*  ngdgt
+- chuyển giao, truyền
+
++ to transmit a letter: chuyển một bức thư
+
++ to transmit order: truyền lệnh
+
++ to transmit disease: truyền bệnh
+
++ to transmit news: truyền tin
+
++ to transmit electricity: truyền điện
+
++ to transmit one's virtues to one's posterity: truyền những đức tính của mình cho con cái về sau
+
+@transmit
+- truyền
+ @transmittable  
+*  tt
+- có thể chuyển giao được, có thể truyền được
+
+@transmittal  
+*  dt
+- sự chuyển giao, sự truyền
+
+@transmittance
+* dt
+- sự truyền
+- hệ số truyền
+ @transmitter  
+*  dt
+- người truyền; vật truyền
+
++ the anopheles is the transmitter of malaria: muỗi anôphen truyền bệnh sốt rét
+- rađiô máy phát
+- ống nói (của máy điện thoại)
+
+@transmitter
+- (điều khiển học) máy phát
+ @transmitter-receiver
+* dt
+- <vt>  transceiver máy thu phát vô tuyến
+ @transmitting
+- (điều khiển học) truyền (đạt)
+ @transmogrification  
+*  dt
+-(đùa cợt) sự làm biến hình, sự làm biến hoá
+
+@transmogrify  
+*  ngdgt
+- đùa làm biến hình, làm biến hoá
+
+@transmontane
+* tt
+- bên kia núi
+ @transmutability  
+*  ngdgt
+- tính biến đổi, tính biến hoá
+
+@transmutable  
+*  tt
+- có thể biến đổi, có thể biến hoá
+
+@transmutation  
+*  dt
+- sự biến đổi, sự biến hoá
+
++ the transmutation of heat rays into luminous ray: sự biến đổi những tai nhiệt hành tia sáng
+- (hoá học) sự biến tố
+
+@transmutative
+* tt
+- có xu hướng biến hoá, có xu hướng đột biến
+ @transmute  
+*  ngdgt
+- làm biến đổi, làm biến hoá
+
++ to transmute coal into diamonds: biến than đá thành kim cương
+
+@transnational
+* dt
+- vượt phạm vi quốc gia
+ @transoceanic  
+*  tt
+- bên kia đại dương
+
++ transoceanic countries: những nước bên kia đại dương
+- vượt đại dương
+
++ transoceanic navigation: hàng hải vượt đại dương
+
+@transom  
+*  dt
+- (kiến trúc) đố cửa trên (cửa, cửa sổ)
+- (từ Mỹ,nghĩa Mỹ) cửa sổ con (ở trên cửa lớn) ((cũng) transom-window)
+
+@transom-bar  
+*  dt
+- (kiến trúc) đố cửa
+
+@transom-window  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) cửa sổ con (ở trên cửa lớn) ((cũng) transom)
+
+@transonic
+- Cách viết khác : transsonic 
+ @transonics
+* dt
+- khí động lực học cận âm
+ @transpacific
+* tt
+- qua Thái Bình Dương
+
++  transpacific airlines:những đường bay qua Thái Bình Dương
+- bên kia Thái Bình Dương
+ @transparence  
+*  dt ((cũng) transparency)
+- tính trong suốt
+- tính trong sáng
+
+@transparency  
+*  dt
+- (như) transparence
+- kính ảnh phim đèn chiếu
+- giấy bóng kinh
+!His (Your) Transparency
+-(đùa cợt); đuỵ iến uyên thưa tướng công
+
+@transparent  
+*  tt ((cũng) transpicuous)
+- trong suốt
+- trong trẻo, trong sạch
+- (văn học) trong sáng
+
++ a transparent style: lối hành văn trong sáng
+*  tt
+- rõ ràng, rõ rệt
+
++ a transparent attempt to deceive: một mưu toan đánh lừa rõ rệt
+
++ transparent lie: lời nói dối rành rành
+
+@transparent
+- trong suốt
+ @transparently
+* dt
+- trong suốt (có thể nhìn thấy rõ)
+- <văn> dễ hiểu, sáng sủa, trong sáng
+- rõ ràng, rõ rệt, không thể nhầm lẫn được, không thể nghi ngờ
+ @transpicuous  
+*  tt ((cũng) transparent)
+- trong suốt
+- trong trẻo, trong sạch
+- (văn học) trong sáng
+
++ a transpicuous style: lối hành văn trong sáng
+
+@transpierce  
+*  ngdgt
+- đâm qua, chọc qua, giùi qua, đục qua
+
+@transpiration  
+*  dt
+- sự ra mồ hôi
+- (thực vật học) sự thoát hơi nước
+- sự tiết lộ (bí mật)
+- (thông tục) sự xảy ra
+
+@transpire  
+*  ngdgt
+- ra mồ hôi
+- (thực vật học) thoát hơi nước
+- tiết lộ ra
+
++ the secret has transpired: điều bí mật đã bị tiết lộ
+- (thông tục) xảy ra, diễn ra
+
++ important events transpired last week: những sự kiện quan trọng xảy ra tuần qua
+
+@transpirometer
+* dt
+- cái đo thoát hơi nước
+ @transplant  
+*  ngdgt
+- (nông nghiệp) ra ngôi; cấy (lúa)
+- đưa ra nơi khác, di thực
+- (y học) cấy, ghép
+
+@transplantable
+* tt
+- có thể cấy được; có thể trồng lại được (lúa...)
+- có thể cấy được, có thể ghép được (mô)
+ @transplantation  
+*  dt
+- (nông nghiệp) sự ra ngôi; sự cấy (lúa)
+- sự di thực
+- (y học) sự cấy, sự ghép
+
+@transplanter  
+*  dt
+- (nông nghiệp) người ra ngôi; người cấy
+- dụng cụ ra ngôi, dụng cụ để đánh cây cả vầng
+
+@transpolar
+* tt
+- qua các vùng địa cực
+ @transponder
+* dt
+- hệ thống nhận và phát tín hiệu lại, hệ thống tiếp sóng, bộ tách sóng (ở các máy móc vô tuyến)
+ @transport  
+*  dt
+- sự chuyên chở, sự vận tải
+
++ the transport of passengers and goods: sự chuyên chở hành khách và hàng hoá
+- phương tiện đi lại, phương tiện vận chuyển
+- tàu chở quân ((cũng) troop-transport)
+- sự cảm kích mạnh mẽ; mối xúc cảm mãnh liệt
+
++ a transport of delight: sự hết sức vui thích
+
++ to be in a transport of rage (fury): nổi cơn thịnh nộ
+
++ to be in transports: hoan hỉ, vui tưng bừng, mừng quýnh lên
+- (pháp lý) người bị đầy, người bị tội phát vãng
+*  ngdgt
+- chuyên chở, vận tải
+- gây xúc cảm mạnh
+
++ to be transported with joy: hoan hỉ, tưng bừng vui, mừng quýnh lên
+
++ to be transported with rage (fury): giận điên lên
+- (pháp lý) đày; kết tội phát vãng
+
+@transport
+- vận tải
+ @transport cafe
+* dt
+- quán ăn (nhất là cho các lái xe tải đường dài)
+ @transportability  
+*  dt
+- tính chất có thể chuyên chở được
+- tính chất có thể bị kết tội đi đày, tính chất có thể đưa đến tội đi đày
+
+@transportable  
+*  tt
+- có thể chuyên chở được, có thể vận chuyển được
+- (pháp lý) có thể bị kết tội đi đày, có thể đưa đến tội đi đày
+
+@transportation  
+*  dt
+- sự chuyên chở, sự vận tải
+
++ transportation by air: sự chuyên chở bằng được hàng không
+- (pháp lý) sự đưa đi đày, sự đày ải; tội đày
+
++ to be sentenced to transportation for life: bị kết án đày chung thân
+- (từ Mỹ,nghĩa Mỹ) phiếu vận tải, vé (tàu, xe)
+
+@transportation
+- sự vận tải, sư vận chuyển
+ @transported
+* tt
+- (:with something) xúc động mạnh mẽ
+ @transporter  
+*  dt
+- người chuyên chở
+- (kỹ thuật) băng tải
+
+@transporting  
+*  tt
+- gây cảm xúc mạnh mẽ, làm say mê, làm mê mẩn
+
+@transposable  
+*  tt
+- có thể đổi chỗ; có thể đặt đảo (các từ...)
+- (toán học) có thể chuyển vị; có thể chuyển vế
+- (âm nhạc) có thể dịch giọng
+
+@transpose  
+*  ngdgt
+- đổi chỗ; đặt đảo (các từ)
+- (toán học) chuyển vị; chuyển vế
+- (âm nhạc) dịch giọng
+
+@transpose
+- chuyển vị, đổi vế
+- t. of a matrix ma trện chuyển vị 
+ @transposed
+- chuyển vị
+ @transposition  
+*  dt
+- sự đổi chỗ; sự đặt đảo (các từ...)
+- (toán học) sự chuyển vị; sự chuyển vế
+- (âm nhạc) sự dịch giọng
+
+@transposition
+- sự chuyển vị, sự đổi vế
+- regularizing t. sự chuyên vị chính quy hoá 
+ @transpositive  
+*  tt
+- dễ đảo, dễ chuyển vị
+
+@transputer
+* dt
+- phần mềm trung gian
+ @transrectification
+* dt
+- sự tách sóng anốt
+ @transrectifier
+* dt
+- bộ tách sóng anốt, đèn tách sóng anốt
+ @transseptal
+- (sinh vật học) qua vách; xuyên vách
+ @transsexual
+* tt
+- cải giống, chuyển phái
+* dt
+- người về xúc cảm cảm thấy mình thuộc giới tính khác
+- người chuyển giống (người có bộ phận sinh dục biến đổi bằng phẫu thuật để trở thành giới tính khác)
+ @transship
+* dgt
+- chuyển tàu, chuyển từ tàu này sang tàu khác
+* dt
+- sự chuyển tàu, sự sang tàu
+ @trans-shipment  
+*  dt
+- sự chuyển tàu, sự sang tàu
+
+@transshipment
+* dt
+- sự chuyển tàu, sự sang tàu
+ @Trans-shipment points
+- (Econ) Các điểm chuyển đổi phương tiện vận chuyển.
+: Các địa điểm mà tại đó vận tải thay đổi từ loại này sang loại khác.
+ @trans-siberian
+* tt
+- xuyên Xiberi
+ @transsonic
+- Cách viết khác : transonic 
+ @transubstantiate  
+*  ngdgt
+- biến thế, hoá thể
+
+@transubstantiation  
+*  dt
+- sự biến thế, sự hoá thể
+
+@transudate
+* dt
+- chất rỉ ra
+ @transudation  
+*  dt
+- sự rỉ ra, sự rò ra
+
+@transudatory  
+*  tt
+- rỉ ra, rò ra
+
+@transude  
+*  ndgt
+- thấm ra
+
+@transuranic
+* tt
+- (hoá chất) thuộc chất có số lượng nguyên tử cao hơn u-ra-i-um, có tính phóng xạ cao
+ @transuranium
+* dt
+- nguyên tố siêu urani
+ @transvaluation
+* dt
+- sự đánh giá lại (bằng cách gạt bỏ giá trị cũ)
+ @transvalue
+* dgt
+- đánh giá lại (bằng cách gạt bỏ giá trị cũ)
+ @transvection
+- phép co rút
+ @transversal  
+*  tt
+- ngang ((cũng) transverse)
+
++ a transversal bar: thanh ngang
+*  dt
+- đường ngang
+
+@transversal
+- đường hoành   ngang
+@transversality
+- tính chất nằm ngang
+ @transverse  
+*  tt
+- (như) transversal
+*  dt
+- xà ngang
+- (y học) cơ ngang
+
+@transverse
+- ngang
+ @transverse-electric
+* dt
+- điện ngang
+ @transverse-magnetic
+* dt
+- từ nang
+ @transversion
+* dt
+- sự chuyển qua, sự chuyển sang
+ @transversum
+* dt
+- xương ngang (bò sát)
+ @transversus
+* dt
+- cơ ngang
+ @transverter
+* dt
+- bộ đổi điện; bộ biến đổi (điện xoay chiều thành điện một chiều)
+ @transvestism
+* dt
+- sự mặc quần áo của giới tính khác như một khuynh hướng tình dục
+ @transvestite
+* dt
+- người đàn ông mặc quần áo phụ nữ và ngược lại
+ @transveyor
+* dt
+- băng tải; băng chuyển; băng chuyền
+ @tranverser
+* dt
+- thanh ngang; xà ngang
+* dtgười đo mạng lưới đa giác
+- (đường sắt) sàn chuyển tải, sàn chuyển hàng sang toa
+ @trap  
+*  dt,  (thường) số nhiều
+- đồ đạc quần áo, đồ dùng riêng; hành lý
+*  dt
+- (khoáng chất) đá trap ((cũng) traprock)
+- bẫy, cạm bẫy ((nghĩa đen) & (nghĩa bóng))
+
++ to set (lay) a trap: đặt bẫy
+
++ to be caught in a; to fall into a trap: mắc bẫy, rơi vào bẫy, mắc mưu
+- (như) trap-door
+- (kỹ thuật) Xifông; ống chữ U
+- máy tung bóng để tập bắn, máy tung chim để tập bắn
+- xe hai bánh
+- (từ lóng) cảnh sát; mật thám
+- (số nhiều) (âm nhạc) nhạc khí gõ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cái mồm
+*  ngdgt
+- đặt bẫy, bẫy
+- đặt cửa sập, đặt cửa lật (trên sàn, trần...)
+- đặt xifông, đặt ống chữ U
+
+@trap-door  
+*  dt
+- cửa sập, cửa lật (ở sàn, trần nhà)
+- chỗ rách hình chữ L (ở quần áo...)
+
+@trapes   (traipse) @trapeze  
+*  dt
+- (thể dục,thể thao) đu, xà treo
+- (toán học) hình thang
+
+@trapezia  
+*  dt,  số nhiều trapeziums,  trapezia
+- (toán học) hình thang
+
+@trapeziform  
+*  tt
+- hình thang
+
+@trapezist
+* dt
+- người làm trò đu (ở rạp xiếc)
+ @trapezium  
+*  dt,  số nhiều trapeziums,  trapezia
+- (toán học) hình thang
+
+@trapezohedron
+- dt,  số nhiều trapezohedrons,  trapezohedra
+ @trapezoid  
+*  dt
+- (toán học) hình thang
+*  tt
+- có hình thang, có dạng thang
+
+@trapezoid
+- hình thang
+- isosceles t. hình thang cân 
+ @trapezoidal  
+*  tt
+- hình thang
+
+@trapezoidal
+- (thuộc) hình thang
+ @trapper  
+*  dt
+- người đánh bẫy
+- (ngành mỏ) người giữ cửa thông hơi
+
+@trapping
+* dt
+- sự bẫy
+ @trappings  
+*  dt số nhiều
+- bộ đồ ngựa
+- đồ trang sức, đồ trang điểm; lễ phục; mũ mãng cần đai (của một chức vị gì)
+
+@trappist
+* dt
+- tu sự dòng Luyện tâm (giáo phái sống rất khắc khổ và phát nguyện không bao giờ nói)
+* tt
+- (thuộc) tu sự dòng Luyện tâm; như một giáo sự dòng luyện tâm
+ @trappy  
+*  tt
+- (thông tục) lọc lừa, đầy cạm bẫy
+
+@traprock  
+*  dt
+- (khoáng chất) đá trap ((cũng) trap)
+
+@trapse   (traipse) @trapshooter
+* dt
+- người bắn bồ câu bằng đất được tung lên trời
+ @trap-shooting
+* dt
+- môn thể thao bắn những vật phóng lên không từ một máy phóng
+ @trash  
+*  dt
+- bã; bã mía ((cũng) cane-trash)
+- cành cây tỉa bớt
+- vật rác rưởi, đồ vô giá trị ((nghĩa đen) & (nghĩa bóng))
+
++ that novel is mere trash: cuốn tiểu thuyết ấy thật vô giá trị
+
++ to talk trash: nói nhăng nói nhít, nói láo lếu
+
++ to write trash: viết láo lếu
+- người vô giá trị, đồ cặn bã
+*  ngdgt
+- tỉa, xén (cành, lá)
+- (thông tục) xử tệ, coi như rác
+
+@trashcan
+* dt
+- <Mỹ> thùng rác (nhất là ở gia đình)
+ @trashiness  
+*  dt
+- tính chất vô giá trị, tính chất tồi, tính chất không ra gì
+
+@trashman
+- dt,  số nhiều trashmen 
+ @trashy  
+*  tt
+- vô giá trị, tồi, không ra gì
+
++ a trashy novel: một cuốn tiểu thuyết vô giá trị
+
+@trass  
+*  dt
+- (khoáng chất) Traxơ
+
+@trattoria
+* dt
+- nhà hàng ý
+ @trauma  
+*  dt,  số nhiều traumata,  traumas
+- (y học) chấn thương
+
+@traumata  
+*  dt,  số nhiều traumata,  traumas
+- (y học) chấn thương
+
+@traumatic  
+*  tt
+- (y học) (thuộc) chấn thương
+
+@traumatically
+* dt
+- <tlý><y> gây chấn thương
+- <thgt> gây đau buồn, gây khó chịu (về một việc đã trải qua)
+ @traumatise
+- Cách viết khác : traumatize 
+ @traumatism
+* dt
+- (y học) chấn thương
+- chấn thương tâm thần
+ @traumatization
+* dt
+- sự làm chấn thương
+ @traumatize
+- Cách viết khác : traumatise 
+ @traumatology  
+*  dt
+- (y học) khoa chấn thương
+
+@travail  
+*  dt
+- (y học) sự đau đẻ
+- công việc khó nhọc, công việc vất vả
+*  ndgt
+- (y học) đau đẻ
+- làm việc khó nhọc, làm việc vất vả
+
+@travel  
+*  dt
+- sự đi du lịch; cuộc du hành
+
++ to go on a travel: đi du lịch, du hành
+- sự chạy đi chạy lại; đường chạy (của máy,  pittông...)
+*  ndgt
+- đi du lịch; du hành
+
++ to travel by sea: đi du lịch bằng đường biển
+
++ to travel light: đi du lịch mang theo ít hành lý
+- (thương nghiệp) đi mời hàng, đi chào hàng
+
++ he travels in silks: anh ta đi chào hàng tơ lụa
+- đi, chạy, di động, chuyển động
+
++ light travels faster than sound: ánh sáng đi nhanh hơn tiếng động
+
++ to travel out of the record: đi ra ngoài đề
+- (nghĩa bóng) đưa nhìn, nhìn khắp (mắt); lan truyền đi (tin tức); suy nghĩ lan man (óc)
+
++ his eyes travelled over the street: anh ta đưa mắt nhìn khắp phố
+
++ the news travelled swiftly: những tin đó lan đi mau lẹ
+
++ his thoughts travelled over all that had happened: óc anh ta điểm lại tất cả những việc đã xảy ra
+*  ngdgt
+- đi, du lịch
+
++ to travel Europe from end to end: đi khắp châu Âu
+
++ to travel a hundred miles a day: đi một trăm dặm một ngày
+- đưa đi xa
+
++ to travel the cattle: đưa vật nuôi đi
+
+@travel agency
+* dt
+- hãng (văn phòng) của người đại lý du lịch
+ @travel agent
+* dt
+- người đại lý du lịch (người làm nghề thu xếp cho những người muốn đi lịch hoặc đi xa; thí dụ mua vé, giữ chỗ ở khách sạn )
+ @travel bureau
+* dt
+- hãng (văn phòng) của người đại lý du lịch
+ @traveled
+* tt
+- (thường trong từ ghép) đã đi nhiều, đã từng đi đây đi đó; bôn ba từng trải
+- có nhiều người qua lại (về con đường)
+ @traveler
+* dt
+- người đi, người đi du lịch, người đi du hành, lữ khách, người hay đi
+- người đi chào hàng
+- người Digan, người lang thang
+- <kỹ> cầu lăn
+ @traveling
+* dt
+- sự du lịch; cuộc du lịch
+- sự dời chỗ, sự di chuyển
+- <điện ảnh> sự quay phim trên giá trượt
+* tt
+- (thuộc) sự đi đường, (thuộc) sự du lịch, (thuộc) sự du hành
+- nay đây mai đó, đi rong, lưu động
+ @travelled  
+*  tt
+- đã đi nhiều, đã từng đi đây đi đó; bôn ba từng trải
+- có nhiều khách du hành qua lại
+
++ a travelled road: con đường có nhiều khách du hành qua lại
+
+@traveller  
+*  dt
+- người đi du lịch, người du hành
+- người đi chào hàng ((cũng) commercial traveller)
+- (kỹ thuật) cầu lăn
+!to tip someone the traveller
+- đánh lừa ai, nói dối ai
+!traveller's tale
+- chuyện khoác lác, chuyện phịa
+!travellers tell fine tales
+- đi xa về tha hồ nói khoác
+
+@traveller's-joy  
+*  dt
+- (thực vật học) cây ông lão
+
+@travelling  
+*  dt
+- sự du lịch; cuộc du lịch
+
++ to be fond of travelling: thích du lịch
+- sự dời chỗ, sự di chuyển
+- (điện ảnh) sự quay phim trên giá trượt
+!travelling forms a young man
+- đi một ngày đường học một sàng khôn
+*  tt
+- (thuộc) sự đi đường, (thuộc) sự du lịch, (thuộc) sự du hành
+
++ travelling expenses: phí tổn đi đường
+
++ in travelling trim: ăn mặc theo lối đi du lịch
+- nay đây mai đó, đi rong, lưu động
+
++ travelling crane: (kỹ thuật) cầu lăn
+
+@travelling salesman
+* dt
+- người đi chào hàng
+ @travelling-bag  
+*  dt
+- túi (xắc) du lịch
+
+@travelog  
+*  dt
+- buổi nói chuyện có chiếu phim về các cuộc du hành thám hiểm ((từ Mỹ,nghĩa Mỹ) (cũng) travelogue)
+
+@travelogue  
+*  dt
+- buổi nói chuyện có chiếu phim về các cuộc du hành thám hiểm ((từ Mỹ,nghĩa Mỹ) (cũng) travelogue)
+
+@travel-sick
+* tt
+- say tàu xe
+ @travel-sickness
+* dt
+- sự say tàu xe, tình trạng bị say tàu xe
+ @traversable  
+*  tt
+- có thể đi ngang qua, có thể lội qua được
+
+@traverse  
+*  dt
+- sự đi ngang qua
+- (toán học) đường ngang
+- thanh ngang, xà ngang, đòn ngang
+- (hàng hải) đường chữ chi (để tránh gió ngược...)
+- đường tắt (leo núi)
+
++ to make a traverse: vượt núi bằng đường tắt
+- (quân sự) sự xoay (súng) cho đúng hướng
+- (quân sự) tường che chiến hào
+- (pháp lý) sự chối
+- (nghĩa bóng) sự phản đối, sự chống lại; điều làm trở ngại, điều cản trở
+
++ it is a traverse for his plan: đó là một điều trở ngại cho kế hoạch của hắn
+*  ngdgt
+- đi qua, đi ngang qua, vượt qua; nằm vắt ngang
+
++ to traverse a forest: đi qua một khu rừng
+
++ the railway traverses the country: đường sắt chạy ngang qua vùng này
+- đi (một quãng đường), đi theo (một đường phố)
+- nghiên cứu kỹ lưỡng, xét kỹ toàn bộ
+
++ to traverse a subject: nghiên cứu toàn bộ một vấn đề
+- (pháp lý) chối (trong lời biện hộ)
+- (quân sự) xoay (chĩa) (súng) đúng hướng
+- (ngành đường sắt) chuyển tải, sang toa
+- bào (gỗ) ngang thớ
+- (nghĩa bóng) phản đối, chống lại, làm thất bại (kế hoạch...)
+
++ to traverse an opinion: phản đối một ý kiến
+*  ndgt
+- xoay quanh trục (kim la bàn...)
+- đi đường tắt (leo núi)
+- (pháp lý) chối (trong khi biện hộ)
+*  tt
+- đặt ngang, vắt ngang
+!traverse sailing
+- (hàng hải) sự đi theo đường chữ chi (để tránh gió ngược...)
+
+@travertin
+- Cách viết khác : travertine 
+ @travertine
+- Cách viết khác : travertin 
+ @travesty  
+*  dt
+- sự bắt chước đùa, sự nhại chơi; sự biến làm trò đùa
+
++ to make a travesty of...: bắt chước... đùa nhại chơi, biến... thành trò đùa
+*  ngdgt
+- bắt chước đùa, nhại chơi; biến thành trò đùa
+
++ to travesty someone's style: nhại văn của ai
+
+@trawl  
+*  dt
+- lưới rà (thả ngầm dước đáy sông, biển) ((cũng) trawl-net)
+- (từ Mỹ,nghĩa Mỹ) cần câu giăng ((cũng) trawl-line)
+*  ndgt
+- đánh lưới rà
+*  ngdgt
+- kéo (lưới rà); giăng (lưới rà)
+
+@trawl-boat
+* dt
+- tàu đánh cá lưới rê, tàu đánh cá lưới vét
+ @trawler  
+*  dt
+- tàu đánh cá bằng lưới rà
+- người đánh cá bằng lưới rà
+
+@trawl-line  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) cần câu giăng ((cũng) trawl)
+
+@trawl-net  
+*  dt
+- lưới rà (thả ngầm dước đáy sông, biển) ((cũng) trawl-net-net)
+
+@tray  
+*  dt
+- khay, mâm
+- ngăn hòm
+
+@trayful  
+*  dt
+- khay (đầy), mân (đầy)
+
+@treacherous  
+*  tt
+- phản bội, phụ bạc, bội bạc
+
++ treacherous man: người phụ bạc, người phản bội
+- không tin được, dối trá, xảo trá
+
++ memory: trí nhớ không chắc
+
++ treacherous weather: tiết trời không thật
+
++ treacherous smile: nụ cười xảo trá
+
++ treacherousice: băng có thể vỡ lúc nào không biết
+
+@treacherously
+* dt
+- phản bội, phụ bạc, bội bạc
+- lừa dối, xảo trá, không tin được; nguy hiểm
+ @treacherousness  
+*  dt
+- tính phản bội, tính phụ bạc, tính bội bạc
+- tính dối trá, tính lừa lọc
+
+@treachery  
+*  dt
+- sự phản bội, sự phụ bạc, sự bội bạc
+- (số nhiều) hành động phản bội, hành động bội bạc, hành động dối trá, hành động lừa lọc
+
+@treacle  
+*  dt
+- nước mật đường ((từ Mỹ,nghĩa Mỹ) molasses)
+
+@treacly  
+*  tt
+- đặc quánh
+- ngọt ngào, đường mật
+
++ treacly words: những lời đường mật
+
+@tread  
+*  dt
+- bước đi, cách đi, dáng đi
+
++ a firm tread: dáng đi vững chắc
+- tiếng chân bước
+
++ heavy tread: tiếng chân bước nặng nề
+- (động vật học) sự đạp mái
+- mặt bậc cầu thang
+- tấm (cao su...) phủ bậc cầu thang
+- đế ủng
+- Talông (lốp xe)
+- mặt đường ray
+- phôi (trong quả trứng)
+- khoảng cách bàn đạp (xe đạp); khoảng cách trục (xe ô tô)
+*  dgt trod; trodden
+- đi, bước lên, giẫm lên, đặt chân lên
+
++ to tread heavily: đi nặng nề
+
++ to tread unknown ground: bước chân lên một mảnh đất xa lạ
+
++ don't tread on the flowers: đừng giẫm lên hoa
+- đạp (nho để làm rượu...)
+- đạp mái (gà)
+!to tread down
+- đạp lên, giẫm lên; (nghĩa bóng) chà đạp, giày xéo, áp chế; khinh rẻ
+!to tread in
+- dận lún xuống, đạp lún xuống
+!to tread out
+- lấy chân di cho tắt, giẫm cho tắt (ngọn lửa); (nghĩa bóng) dập tắt, trấn áp (cuộc nổi dậy)
+- đạp (nho để làm rượu...)
+!to tread lightly
+- đi nhẹ nhàng; (nghĩa bóng) làm việc thận trọng dè dặt; đề cập một cách dè dặt (đến một vấn đề khó khăn)
+!to tread in someone's footsteps
+- theo vết chân ai, bắt chước ai
+!to tread on someone's corns (toes)
+- giẫm lên ngón chân ai; (nghĩa bóng) làm mếch lòng ai, chạm lòng tự ái của ai
+!to tead on the heels of
+- bám sát, theo sát gót
+- theo dõi (sự việc)
+!to tread on air
+- mừng rơn, sướng rơn
+!to tead on (as on) eggs
+- đi từng bước dè dặt thận trọng như đi trên trứng; hành động thận trọng dè dặt
+!to tread on somebody's neck
+- đè đầu cưỡi cổ ai, chà đạp ai, đàn áp ai, trấn áp ai
+!to tread the stage (the boards)
+- là diễn viên sân khấu
+!to tread under foot
+- (nghĩa bóng) chà đạp, giày xéo; khinh rẻ
+!to tread water
+- bơi đứng
+
+@treadle  
+*  dt
+- bàn đạp
+
++ the treadle of sewingmachine treadle: bàn đạp của máy khâu
+*  ndgt
+- đạp bàn đạp, đạp
+
+@treadle-machine
+* dt
+- máy đạp bằng bàn đạp
+ @treadle-press
+* dt
+- máy ép đạp chân
+ @treadler
+* dt
+- người đạp (máy)
+ @treadless
+* tt
+- khônh có dấu vết
+ @treadmil  
+*  dt
+- (sử học) cối xay guồng ((thường) dùng để hành khổ tội nhân)
+- (nghĩa bóng) công việc thường xuyên buồn tẻ
+
+@treadmill
+* dt
+- <sử> cối xay guồng (bánh xe cối xay quay bằng sức nặng của người hay súc vật giẫm lên các bậc ở vòng quanh rìa trong của nó; trước kia do những người tù vận hành, coi như hình phạt)
+- <bóng> việc hàng ngày buồn tẻ; việc lao dịch; công việc hàng ngày đơn điệu, công việc hàng ngày mệt mỏi
+ @treas
+* (viết tắt)
+- người thủ qũy (treasurer)
+ @treason  
+*  dt
+- sự làm phản, sự mưu phản
+
+@treasonable   (treasonous) @treasonably
+* dt
+- phản nghịch, mưu phản
+ @treasonous   (treasonous) @treasure  
+*  dt
+- bạc vàng, châu báu, của cải; kho của quý
+
++ to amass a treasure: tích luỹ của cải
+
++ to bury a treasure: chôn của
+- (nghĩa bóng) của quý, vật quý, người yêu quý; người được việc
+
++ his library contains treasures: tủ sách của anh ấy có nhiều sách quý
+*  ngdgt
+- tích luỹ, để dành, trữ (của cải, châu báu...)
+- (nghĩa bóng) quý trọng, coi như của quý, trân trọng giữ gìn
+
++ I treasure your friendship: tôi rất quý trọng tình bạn của anh
+
++ he treasures [up] memories of his childhood: anh ấy trân trọng gìn giữ những ký ức thời thơ ấu
+
+@treasure trove
+* dt
+- kho báu vô chủ
+- kho tàng (nơi chứa nhiều điều bổ ích và đẹp đẽ; sách )
+ @treasure-house
+* dt
+- kho báu
+ @treasure-hunt
+* dt
+- sự săn tìm kho báu
+- trò săn tìm kho báu
+ @treasurer  
+*  dt
+- người thủ quỹ
+
+@treasurership
+* dt
+- chức thủ quỹ
+ @treasury  
+*  dt
+- kho bạc, ngân khố; ngân quỹ, quỹ
+- (Treasury) bộ tài chính (Anh)
+- (nghĩa bóng) kho
+
++ the book is a treasury of information: cuốn sách ấy là cả một kho tài liệu
+!First Lord of the Treasury
+- thủ tướng (Anh)
+!Treasury Board; Lords [Commissioners] of the Treasury
+- uỷ ban tài chính chính phủ Anh (gồm thủ tướng, bộ trưởng tài chính và năm uỷ viên khác)
+!Treasury Bench
+- hàng ghế chính phủ (trong hạ nghị viện Anh)
+
+@Treasury
+- (Econ) Bộ tài chính, ngân khố.
+ @Treasury - Federal Reserve Accord
+- (Econ) Thoả thuận giữa bộ tài chính và Cục dự trữ liên bang.
+: Từ năm 1942-51, HỆ THỐNG DỰ TRỮ LIÊN BANG MỸ nâng đỡ giá trái phiếu chính phủ Mỹ nhằm tạo thuận lợi cho việc vay mượn của chính phủ liên bang. Năm 1952 Dự trữ liên bang và Bộ tài chính đã ký một thoả thuận - giải phóng Dự trữ liên bang khỏi trách nhiệm mua trái phiếu.
+ @Treasury bill
+- (Econ) Tín phiếu bộ tài chính.
+: Một phương tiện vay ngắn hạn của chính phủ Anh được đưa vào năm 1877 và vào thời gian đó là mô hình theo hối phiếu thương mại. Ở mỹ cũng có công cụ tương ứng. Tín phiếu bộ tài chính Mỹ do bộ tài chính phát hành có thời hạn ba, sáu, chín và mười hai tháng. Các chứng khoán này là sự đầu tư không có rủi ro, nhưng vẫn có rủi ro trên thị trường thứ cấp trước khi đáo hạn, bởi vì giá biến động với thay đổi trong lãi xuất thị trường.
+ @treasury bill
+* dt
+- trái phiếu kho bạc (hối phiếu do chính phủ phát hành để thu tiền mặt cho những nhu cầu nhất thời)
+- <Mỹ> vốn đầu tư của chính phủ (có hiệu lực tới một năm và không lấy lãi)
+ @Treasury Deposit Receipt (TDR)
+- (Econ) Biên nhận tiền gửi Bộ tài chính.
+: Đây là chứng khoán không buôn bán ngắn hạn (6 tháng) được chính phủ Anh áp dụng năm 1940 với tư cách là công cụ tài chính thời chiến, và bán ra giá trị hàng tuần đã định cho ngân hàng. Loại chứng khoán này giảm dần và bị loại bỏ vào năm 1953.
+ @Treasury note
+- (Econ) Đồng tiền của bộ tài chính.
+: Xem CURRENCY NOTE.
+ @Treasury, the
+- (Econ) Bộ tài chính Anh.
+: Một bộ trong chính phủ Anh kiểm soát chính sách kinh tế và chi tiêu công cộng.
+ @Treasury US department of
+- (Econ) Bộ tài chính Mỹ.
+: Một bộ trong chính phủ Mỹ quản lý hầu hết việc thu ngân sách, sản xuất tiền kim loại và tiền giấy và thi hành một số luật lệ.
+ @Treasury view
+- (Econ) Quan điểm của bộ tài chính.
+: Một quan điểm của bộ tài chính Anh vào đầu thế kỷ XX cho rằng chi tiêu bổ sung của chính phủ sẽ được cân bằng bởi việc suy giảm trong tư nhân.
+ @treat  
+*  dt
+- sự đãi, sự thết đãi
+
++ this is to be my treat: để tôi thết, để tôi trả tiền (khi ăn...)
+- tiệc, buổi chiêu đãi
+- điều vui thích, điều thú vị, điều khoan khoái
+
++ it's a treat to hear her play the piano: thật là một điều vui thích được nghe cô ta chơi pianô
+- cuộc vui ngoài trời (cho thiếu nhi ở trường học)
+!to stand treat
+- (thông tục) thết đãi, bao (ăn, uống)
+*  ngdgt
+- đối xử, đối đãi, cư xử, ăn ở
+
++ to treat someone well: đối xử tốt với ai
+
++ to be badly treated: bị xử tệ, bị bạc đãi
+- xem, xem như, coi như
+
++ he treated these words as a joke: anh ta coi những lời nói đó như trò đùa
+- thết, thết đãi
+
++ to treat someone to a good dinner: thết ai một bữa cơm ngon
+- mua (cử tri...) bằng cách thết đãi ăn uống
+- xét, nghiên cứu; giải quyết
+
++ to treat a subject thoroughly: xét kỹ lưỡng một vấn đề
+- chữa (bệnh), điều trị
+
++ he is being treated for nervous depression: anh ấy đang được điều trị về bệnh suy nhược thần kinh
+- (hoá học) xử lý
+*  ndgt
+- (: of) bàn về, luận giải, nghiên cứu
+
++ the book treats of modern science: cuốn sách bàn về nền khoa học hiện đại
+- (: with) điều đình, thương lượng
+
++ to treat with the adversary for peace: thương lượng với đối thủ để lập lại hoà bình
+
+@treat
+- xử lý; (kỹ thuật) gia công chế biến
+ @treatable
+* tt
+- có thể thương lượng, có thể điều đình, có thể dàn xếp
+- có thể xử lý
+- có thể điều trị, có thể chữa
+ @treater  
+*  dt
+- người điều đình, người thương lượng, người ký kết
+- người đãi tiệc, người bao ăn uống
+- người xét, người nghiên cứu; người giải quyết (một đề tài, một vấn đề...)
+
+@treatise  
+*  dt
+- luận án, luận thuyết
+
++ a treatise on mathematics: bản luận án về toán học
+
+@treatment  
+*  dt
+- sự đối xử, sự đối đãi, sự cư xử (với người nào)
+- (y học) sự điều trị; phép trị bệnh
+
++ to be under medical treatment: đang chữa bệnh, đang điều trị
+- (hoá học) sự xử lý
+- sự luận bàn, sự nghiên cứu; sự giải quyết (một vấn đề)
+
+@treaty  
+*  dt
+- hiệp ước
+
++ a peace treaty: một hiệp ước hoà bình
+
++ to enter into a treaty; to make a treaty: ký hiệp ước
+- sự thoả thuận; sự điều đình, sự thương lượng
+
++ to be in treaty with someone for: đang điều đình với ai để
+
++ by private treaty: do thoả thuận riêng
+
+@Treaty of Rome
+- (Econ) Hiệp ước Rome.
+: Xem EUROPEAN COMMUNITY.
+ @treaty port  
+*  dt
+- hải cảng mở (theo quy định của hiệp ước) cho thương mại nước ngoài
+
+@treble  
+*  tt
+- gấp ba
+- (âm nhạc) cao, kim (giọng)
+*  dt
+- (âm nhạc) giọng trẻ cao
+*  ngdgt
+- nhân lên ba lần, tăng gấp ba
+
++ to treble the distance: đi một quãng dài hơn ba lần
+*  ndgt
+- gấp ba, ba lần nhiều hơn
+
+@treble chance
+* dt
+- trò đánh cá bóng đá (trong đó người ta cố đoán trước xem những trận nào đội nhà hoà hoặc thắng hay đội khách thắng)
+ @trebly  
+*  dt
+- ba lần, gấp ba
+
+@trebuchet  
+*  dt
+- bẫy đánh chim
+- cân tiểu ly
+- (sử học) máy bắn đá
+
+@trebucket
+* dt
+- xem trebuchet
+ @trecentist
+* dt
+- nhà văn học nghệ thuật của thế kỷ 14 ở Italia
+* tt
+- (thuộc) nhà văn học nghệ thuật của thế kỷ 14 ở Italia
+ @trecento
+* dt
+- thế kỷ 14 ở Italia (chủ yếu về văn nghệ)
+ @tredecillion
+* dt
+- con số 10 mũ 8 hay 1 000 000 mũ 13
+ @tree  
+*  dt
+- cây
+- (tôn giáo) giá chữ thập
+- cái nòng (giày); cái cốt (yên); trục (bánh xe)
+- biểu đồ hình cây, cây
+
++ a genealogical tree: cây phả hệ
+!at the top of the tree
+- ở bậc cao nhất của ngành nghề
+!to be up a treen
+- (nghĩa bóng) gặp khó khăn lúng túng
+*  ngdgt
+- bắt phải nấp trên cây, bắt phải trốn trên cây
+
++ the dog treed the cat: con chó làm cho con mèo phải trốn lên trên cây
+- cho nòng vào
+- hãm vào vòng khó khăn lúng túng
+
++ to be treed: gặp bước khó khăn, gặp bước đường cùng
+
+@tree
+- cây
+ @tree-coral
+* dt
+- san hô hình cây
+ @tree-creeper
+* dt
+- một loại chim sâu (ăn côn trùng, đục vỏ cây)
+ @tree-feeling
+* dt
+- sự đốn cây
+ @tree-fern  
+*  dt
+- (thực vật học) dương xỉ dạng cây gỗ
+
+@tree-house
+* dt
+- nhà trên cây (thường dành cho trẻ con chơi trong đó)
+ @treeless  
+*  tt
+- không có cây
+
++ a treeless plain: một cánh đồng không có cây, một cánh đồng trơ trụi
+
+@tree-like
+* tt
+- dạng cây
+ @tree-line
+* dt
+- đường giới hạn của cây cối
+ @treenail   (trenail) @tree-toad  
+*  dt
+- (động vật học) nhái bén
+
+@tree-top
+* dt
+- <snh> ngọn cây
+ @treeweekly
+* tt,  adv
+- một tuần ba lần
+- ba tuần một lần
+ @tree-worship
+* dt
+- (tôn giáo) sự thờ cây
+ @trefoil  
+*  dt
+- (thực vật học) có ba lá
+- (kiến trúc) hình ba lá
+- (đánh bài) con chuồn, con nhép
+*  tt
+- hình ba lá; có ba lá
+
+@trehalose
+* dt
+- (hoá học) trihaloza
+ @trek  
+*  dt
+- đoạn đường (đi bằng xe bò)
+- cuộc hình trình bằng xe bò
+- sự di cư; sự di cư có tổ chức
+*  ndgt
+- kéo xe (xe bò)
+- đi bằng xe bò
+- di cư
+
+@trellis  
+*  dt
+- lưới mắt cáo; rèm mắt cáo; hàng rào mắt cáo ((cũng) trellis-work)
+- giàn mắt cao (cho cây leo)
+*  ngdgt
+- căng lưới mắt cáo, đóng rèm mắt cáo (vào cửa sổ...)
+- cho (cây) leo lên giàn mắt cáo
+
+@trellised
+* tt
+- hình mắt cáo
+ @trellis-work  
+*  dt
+- lưới mắt cáo; rèm mắt cáo; hàng rào mắt cáo ((cũng) trellis)
+
+@trematoda
+* dt số nhiều
+- (động vật học) sán lá
+ @trematode
+* dt
+- sán lá
+* tt
+- (thuộc) sán lá
+ @tremble  
+*  dt
+- sự run
+!to be all in (on, of) a tremble
+- run như cầy sấy
+*  ndgt
+- run
+
++ to tremble with fear: sợ run
+
++ to tremble with cold: lạnh run lên
+- rung
+- rung sợ, lo sợ
+
++ to tremble at the thought of...: run sợ khi nghĩ đến...
+
++ to tremble for someone: lo sợ cho ai
+!to tremble in the balance
+- (xem) balance
+
+@trembler  
+*  dt
+- người hay run sợ, người nhút nhát
+- (điện học) chuông điện
+
+@tremblingly  
+*  dt
+- run
+- rung
+
+@trembly  
+*  tt
+- run
+- rung
+
+@tremellose
+* tt
+- có keo
+ @tremendous  
+*  tt
+- ghê gớm, kinh khủng, khủng khiếp, dữ dội
+
++ a tremendous shock: một chấn động khủng khiếp
+
++ a tremendous storm: một cơn bão dữ dội
+- (thông tục) to lớn; kỳ lạ
+
++ a tremendous success: một thắng lợi to lớn
+
++ to take tremendous trouble to...: vất vả hết sức để..., chạy ngược chạy xuôi để...
+
+@tremendously
+* dt
+- ghê gớm, kinh khủng, khủng khiếp, dữ dội
+- <thgt> rất lớn, bao la, to lớn
+- <thgt> rất tốt, khác thường
+ @tremolite
+* dt
+- (khoáng vật học) tremolit
+ @tremolo  
+*  dt
+- (âm nhạc) sự vê
+- tiếng vê
+
+@tremor  
+*  dt
+- sự run
+- sự rung, sự rung rinh, sự rung động, sự chấn động
+
++ the tremor of a leaf: sự rung rinh của cái lá
+
++ earth tremor: động đất nhỏ
+
++ intention tremor: sự rung động trong người khi sắp làm một việc gì
+
++ metallic tremor: bệnh tê liệt và run của công nhân luyện kim
+*  ndgt
+- chấn động, rung (máy)
+- rung (tiếng)
+
+@tremulant
+* tt
+- run; rung động
+- có âm vê
+* dt
+- âm gây nên bằng cách vê
+ @tremulous  
+*  tt
+- run
+
++ a tremulous voice: giọng nói run
+
++ tremulous smile: nụ cười ngập ngừng
+
++ tremulous writing: nét chữ run
+- rung, rung rinh, rung động
+
++ tremulous leaves: tàu lá rung rinh
+- nhút nhát
+
+@tremulously
+* dt
+- run (vì hốt hoảng, yếu đuối)
+- rung, rung rinh, rung động
+- nhút nhát, bẽn lẽn, rụt rè, không quả quyết
+ @trenail   (trenail) @trench  
+*  dt
+- (nông nghiệp) rãnh, mương
+
++ a trench for draining water: mương tháo nước
+- (quân sự) hào, hầm
+
++ communication trench: hào giao thông
+*  ngdgt
+- (nông nghiệp) đào rãnh, đào mương
+
++ to trench a field for draining: đào mương ở một đám ruộng để tháo nước
+- cày sâu
+
++ to trench a piece of ground: cày sâu một đám đất
+- (kiến trúc) bào xoi, bào rãnh
+
++ to trench a board: bào rãnh một tấm ván
+- (quân sự) đào hào vây quanh, đào hào bảo vệ (một địa điểm)
+!to trench along
+- (quân sự) tiến lên bằng đường hào
+!to trench upon
+- lấn, xâm lấn
+
++ to trench upon someone's land: lấn đất của ai
+
++ to trench upon someone's time: lấn mất thì giờ của ai, làm mất thì giờ của ai
+- gần như là, gần đến, xấp xỉ
+
++ his answer trenched upon insolence: câu trả lời của hắn ta gần như là hỗn xược
+
+@trench coat  
+*  dt
+- áo choàng đi mưa
+
+@trench fever  
+*  dt
+- (y học) bệnh sốt chiến hào
+
+@trench foot  
+*  dt
+- (y học) chứng bợt da chân (do dầm nước lâu)
+
+@trench mortar  
+*  dt
+- (quân sự) súng cối tầm ngắn
+
+@trenchancy  
+*  dt
+- (nghĩa bóng) tính chất sắc bén, tính chất đanh thép (của lý lẽ...)
+
+@trenchant  
+*  tt
+- sắc bén, đánh thép, mạnh mẽ
+
++ a trenchant argument: một lý lẽ sắc bén
+- rõ ràng, sắc nét
+
++ a trenchant pattern: mẫu rõ ràng sắc nét
+- (từ hiếm,nghĩa hiếm) sắc (dao)
+
+@trenchantly
+* dt
+- sắc bén, đanh thép, mạnh mẽ
+- rõ ràng, sắc nét; sắc sảo
+- <hiếm> sắc (dao)
+ @trench-digger
+* dt
+- máy đào hào
+ @trencher  
+*  dt
+- người đào mương
+- lính đào hào
+!tencher companion
+- bạn đồng bàn, bạn cùng ăn
+*  dt
+- cái thớt (để thái bánh mì ở bàn ăn)
+
+@trencherman  
+*  dt
+- người hay ăn
+
++ a good trencherman: người ăn nhiều
+
+@trencher-valiant
+* dt
+- người ăn khoẻ
+ @trench-knife
+* dt
+- dao găm để chiến đấu giáp lá cà
+ @trench-mortar
+* dt
+- (quân sự) súng cối tầm ngắn
+ @trench-warfave
+* dt
+- chiến tranh chiến hào
+ @trend  
+*  dt
+- phương hướng
+
++ the trend of the coastline: phương hướng của bờ bể
+- khuynh hướng, xu hướng, chiều hướng
+
++ the trend of modern thoughts: xu hướng của những tư tưởng hiện đại
+
++ to show a trend towards...: có khuynh hướng về...
+*  ndgt
+- đi về phía, hướng về, xoay về
+
++ the road trends to the north: con đường đi về phía bắc
+- có khuynh hướng về, có xu hướng về, hướng về
+
++ modern thought is trending towards socialism: tư tưởng hiện đại đang hướng về chủ nghĩa xã hội
+
+@Trend
+- (Econ) Xu hướng.
+: Còn gọi là xu hướng theo thời gian.  1)Thành phần dài hạn, cơ sở trong dữ liệu CHUỖI THỜI GIAN, thường được tính để thể hiện hướng vận động dài hạn của một biến số. 2)Một số đo mức trung bình của một đại lượng kinh tế tại một thời điểm nào đó.
+ @trend
+- (thống kê) xu thế
+- analytic(al) t. xu thế thẳng 
+- rectilinear t. xu thế thẳng
+- secular t. xu thế trường kỳ 
+ @Trend output path
+- (Econ) Đường biểu thị xu thế sản lượng.
+ @Trend stationary process (TSP)
+- (Econ) Quá trình tĩnh tại của xu hướng.
+ @trendie
+- (như) trendy
+ @trendily
+* dt
+- <thgt> hợp thời trang, rất mốt, chạy theo mốt
+- <thgt> thức thời
+ @trendiness
+* dt
+- <thgt> sự hợp thời trang, tính chất rất mốt, sự chạy theo mốt
+- <thgt> sự thức thời, tính chất thức thờu
+ @trending
+* tt
+- theo hướng
+ @trend-setter
+* dt
+- người lăng xê mốt (người đi đầu về thời trang )
+ @trendsetter
+* dt
+- người lăng xê mốt (người đi đầu về thời trang)
+ @trend-setting
+* tt
+- lăng xê (mốt)
+ @trendsetting
+* tt
+- lăng xê (mốt), sự mở đầu một xu hướng mới
+
++  a trendsetting film:một cuốn phim lăng xê mốt
+ @trendy
+* tt
+- <thgt> hợp thời trang, rất mốt, chạy theo mốt
+- <thgt> thức thời
+* dt
+- người chạy theo mốt
+- <thgt> người rởm đời
+ @trendyism
+* dt
+- xem trendiness
+ @trental  
+*  dt
+- (tôn giáo) tháng cầu kinh siêu độ
+
+@trepan  
+*  dt
+- mưu mẹo, cạm bẫy
+- người dùng mưu mẹo để dụ dỗ
+*  ngdgt
+- dụ, dụ dỗ
+
++ to trepan someone into doing something: dụ dỗ ai làm việc gì
+- lừa vào bẫy
+*  dt
+- (y học) cái khoan xương
+*  ngdgt
+- (y học) khoan (xương)
+
+@trepanation  
+*  dt
+- (y học) sự khoan xương
+
+@trepang
+* dt
+- (động vật học) hải sâm
+ @trephination
+* dt
+- sự khoan sọ bằng trêphin
+ @trephine  
+*  dt
+- (y học) cái khoan trêfin
+*  dgt
+- (y học) khoan (sọ...) bằng khoan trêfin
+
+@trepidation  
+*  dt
+- (y học) sự rung (tay, chân...)
+- sự rung động, sự rung chuyển
+
++ the trepidation of the windown-pane: sự rung chuyển của kính cửa sổ
+- sự náo động, sự bối rối
+
++ the news caused general trepidation: tin ấy đã gây nên sự náo động chung
+
+@treponema  
+*  dt
+- khuẩn xoắn
+
+@treponemal
+* tt
+- thuộc khuẩn xoắn
+ @treponematosis
+- dt,  số nhiều treponematoses
+ @treponeme
+* dt
+- (sinh vật học) khuẩn xoắn
+ @trespass  
+*  dt
+- sự xâm phạm, sự xâm lấn
+
++ the on land: sự xâm phạm đất đai
+- (tôn giáo) sự xúc phạm
+
++ a trespass against the church's authority: sự xúc phạm đến uy quyền của nhà thờ
+- (pháp lý) sự vi phạm; sự phạm pháp
+
++ a trespass against a law: sự vi phạm một đạo luật
+- sự lạm dụng
+
++ the trespass upon someone's time: sự lạm dụng thì giờ của ai
+*  ndgt
+- xâm phạm, xâm lấn, xâm nhập trái phép
+
++ to trespass on someone's land: xâm phạm vào đất đai của ai
+
++ to trespass on (upon) someone's rights: xâm phạm quyền lợi của ai
+
++ to trespass on someone's preserves: (nghĩa bóng) dính vào việc riêng của ai
+- xúc phạm
+- (pháp lý) vi phạm; phạm pháp
+
++ to against a law: phạm luật
+- lạm dụng
+
++ to trespass on (upon) someone's time: lạm dụng thì giờ của ai
+!no trespassing!
+- cấm vào!
+
+@trespasser  
+*  dt
+- kẻ xâm phạm, kẻ xâm lấn
+
++ trespassers will be prosecuted: cấm vào, trái lệnh sẽ bị truy tố
+- người xúc phạm
+- (pháp lý) kẻ vi phạm; người phạm pháp, kẻ phạm tội
+- người lạm dụng
+
+@trespass-offering
+* dt
+- sự dâng vật tế để chuộc lỗi
+ @tress  
+*  dt
+- bím tóc
+- bộc tóc (đàn bà)
+
+@tressed  
+*  tt
+- tết, bím (tóc)
+
+@tressel
+- Cách viết khác : trestle 
+ @tressure
+* dt
+- dải hẹp trên huy chương chạm hoa
+ @trestle  
+*  dt
+- mễ (để kê ván, kê phản)
+- trụ (cầu) ((cũng) trestle-work)
+
+@trestle-table
+* dt
+- bàn kê trên niễng
+ @trestle-work  
+*  dt
+- trụ (cầu) ((cũng) trestle)
+
+@trews  
+*  dt số nhiều
+- quần ngắn bằng vải sọc (của người Ê-cốt)
+
+@trey  
+*  dt
+- con ba (con bài, con súc sắc)
+
+@trey
+- (lý thuyết trò chơi) ba điểm
+ @tri
+- hình thái ghép
+- ba
+- tripartite
+- ba bên
+- chia ba
+- trisect
+- chia làm ba
+- gồm ba
+- triweekly
+- tạp chí ra ba tuần một lần
+ @triable  
+*  tt
+- có thể thử, làm thử được
+- (pháp lý) có thể xử, có thể xét xử được
+
+@triacetate
+* dt
+- (hoá học) trixetat
+ @triacontahedral  
+*  tt
+- có ba mươi mặt (tinh thể)
+
+@triad  
+*  dt
+- bộ ba
+- (hoá học) nguyên tố hoá trị ba
+
+@triad
+- nhóm ba, bộ ba
+ @triadelphous
+* tt
+- (thực vật học) ba bó nhị
+ @triadic
+- ba ngôi
+ @triage
+* dt
+- việc chọn để chữa theo thứ tự nguy cấp (các binh sĩ bị thương trong chiến tranh)
+- cà phê loại tồi
+ @triagular
+- (thuộc) tam giác
+ @trial  
+*  dt
+- sự thử
+
++ to give something a trial: đưa một vật ra thử
+
++ to make the trial: làm thử, làm thí nghiệm
+
++ to proceed by trial and error: tiến hành bằng cách mò mẫm
+
++ trial of strenght: sự thử sức mạnh
+
++ on trial: để thử; làm thử; khi thử
+
++ trial flight: cuộc bay thử
+
++ trial trip: cuộc chạy thử (của chiếu tàu mới)
+- (pháp lý) việc xét xử, sự xử án
+
++ to commit a prisoner for trial: đem một tội nhân ra xét xử
+
++ to bring to trial: đưa ra toà, đưa ra xử
+- điều thử thách; nỗi gian nan
+
++ a life full of trials: một cuộc đời lắm nỗi gian nan
+
++ the radio next door is a real trial: cái đài bên cạnh thật là một tai hoạ
+
++ trials of love: những thử thách của tình yêu
+- (tài chính)
+
++ trial balance: kết toán kiểm tra
+- (hàng không)
+
++ trial balloon: bóng thăm dò
+
+@trial
+- phép thử, thí nghiệm
+- uniformity t. (thống kê) phép thử đều 
+- t. of force tam giác lực
+- acute t. tam giác nhọn
+- astronomical t. (thiên văn) tam giác thị sai
+- birectangular spherical t. tam giác cầu hai góc vuông 
+- circumscribed t. tam giác ngoại tiếp
+- congruent t.s tam giác tương đẳng 
+- inscribed t. tam giác nội tiếp
+- coordinate t. tam giác toạ độ
+- copolar t. tam giác đồng cực
+- diagonal t. tam giác chéo
+- equilateral t. tam giác đều
+- geodesic t. tam giác trắc địa
+- homothetic t. tam giác vị tự
+- isosceles t. tam giác cân 
+- local t. tam giác địa phương
+- oblique t. tam giác xiên
+- obtuse t. tam giác có góc tù
+- pedal t. tam giác thuỷ túc
+- perspective t.s tam giác phối cảnh 
+- polar t. tam giác cực
+- rectilinear t. tam giác thẳng
+- right t. tam giác vuông
+- scalene t. tam giác thường
+- self-polar t. tam giác tự đối cực
+- similar t.s giác giác đồng dạng
+- spherical t. tam giác cầu
+- syzygetic t. tam giác hội sung
+- unit t. tam giác đơn vị 
+ @trial run
+* dt
+- sự thử (để kiểm tra sơ bộ về chất lượng, tính hiệu quả...của ai @trialism
+* dt
+- (triết học) hệ bộ ba
+ @trialist
+- Cách viết khác : triallist 
+ @triallist
+- Cách viết khác : trialist 
+ @triandrous  
+*  tt
+- (thực vật học) có ba nhị (hoa)
+
+@triangle  
+*  dt
+- hình tam giác
+
++ equilateral triangle: tam giác đều
+
++ isosceles triangle: tam giá cân
+
++ right-angled triangle: tam giác vuông
+- ê ke, thước nách
+- (âm nhạc) kẻng ba góc
+- bộ ba
+
++ the eternal triangle: bộ ba cặp kè (tình trạng hai người yêu một)
+
+@triangulable
+* tt
+- có thể quy ra ba tam giác; có thể dùng phép đo đạc tam giác
+ @triangulable
+- (tô pô) tam giác phân được
+ @triangular  
+*  tt
+- tam giác
+- ba phe, ba bên
+
++ triangular fight: cuộc đấu tranh giữa ba phe
+
+@Triangular distribution
+- (Econ) Phân phối tam giác
+ @triangularity  
+*  dt
+- tính chất tam giác
+- tính chất ba phe, tính chất bên bên
+
+@triangulate  
+*  tt
+- (động vật học) điểm hình tam giác
+*  ngdgt
+- lập lưới tam giác (để đo đạc); đạc tam giác
+- làm thành hình tam giác
+
+@triangulate
+- tam giác phân
+ @triangulated
+- (tô pô) tam giác phân
+ @triangulation  
+*  dt
+- phép đạc tam giác
+
+@triangulation
+- (tô pô) phép tam giác phân, phép tam giác đạc
+ @triangulator
+* dt
+- nhân viên tam giác đạc, máy tam giác đạc
+ @triapsidal
+* dt
+- (kiến trúc) ba hậu cung
+ @triarchy
+* dt
+- chính phủ ba người
+- nước do ba người cai trị
+ @trias  
+*  dt
+- (địa lý,địa chất) kỳ triat
+
+@triassic  
+*  tt
+- (địa lý,địa chất) (thuộc) kỷ triat
+
+@triathlon
+* dt
+- cuộc thi thể thao ba môn phối hợp
+ @triatomic
+* tt
+- (hoá học) có ba nguyên tử
+ @triaxial
+* tt
+- ba trục
+ @triaxiality
+* dt
+- tính ba trục
+ @tribade
+* dt
+- người nữ đóng vai nam giới (trong đồng tình luyến ái)
+ @tribadic
+* tt
+- (thuộc) người nữ đóng vai nam giới (trong đồng tình luyến ái)
+ @tribadism
+* dt
+- đồng tính luyến ái nữ
+ @tribal  
+*  tt
+- (thuộc) bộ lạc
+- thành bộ lạc
+
+@tribalism
+* dt
+- trạng thái được tổ chức thành bộ lạc
+- cách ứng xử và thái độ của một bộ lạc nào đó
+ @tribalistic
+* tt
+- (thuộc) sự gắn bó với bộ lạc
+- (thuộc) lòng trung thành với bộ lạc
+- (thuộc) sự đề cao bộ lạc mình hơn mọi bộ lạc
+ @tribble
+* dt
+- giàn để phơi giấy
+ @tribe  
+*  dt
+- bộ lạc
+- lũ, bọn, tụi
+- (động vật học) tông
+
+@tribesman  
+*  dt
+- thành viên bộ lạc
+
+@triblet
+* dt
+- trục giá; trục nong
+ @tribo-
+- hình thái ghép
+- ma sát
+
++  triboluminescense:sự phát sáng do ma sát, sự phát quang do ma sát
+ @triboelectric
+* dt
+- điện ma sát
+ @triboelectricity
+* dt
+- tính điện ma sát, hiện tượng điện ma sát
+ @tribological
+* tt
+- (thuộc) khoa ma sát
+ @tribologist
+* dt
+- người nghiên cứu ma sát
+ @tribology
+* dt
+- môn nghiên cứu về độ ma sát, mài mòn, độ bôi trơn và tải trọng thiết kế; môn học về độ mài mòn của động cơ và cách bôi trơn thích hợp
+ @triboluminescence
+* dt
+- sự phát sáng do ma sát, sự phát quang do ma sát
+ @triboluminescent
+* tt
+- phát sáng do ma sát, phát quang do ma sát
+ @tribometer  
+*  dt
+- (kỹ thuật) cái đo ma sát
+
+@tribophysics
+* dt
+- vật lý ma sát
+ @tribrach
+* dt
+- đơn vị bộ thơ gồm ba âm tiết ngắn
+ @tribrachic
+* tt
+- (thuộc) đơn vị bộ thơ gồm ba âm tiết ngắn
+ @tribulation  
+*  dt
+- nỗi đau khổ, nỗi khổ cực; sự khổ não
+
++ to bear one's tribulations bravely: dũng cảm chịu đựng những nỗi khổ cực
+
+@tribunal
+* dt
+- toà án
+- rent tribunal
+- toà chuyên xử những vụ kiện về giá thuê nhà; toà án địa ốc
+
++  the tribunal of public opinion:toà án công luận
+ @tribunary
+* dt
+- (sử học) La Mã thuộc hộ dân quan
+ @tribunate
+* dt
+- (sử học) La Mã chức vụ thuộc hộ dân quan, khu vực thuộc hộ dân quan
+- (sử học) La Mã chế độ hộ dân quan
+ @tribune  
+*  dt
+- (sử học) quan bảo dân
+- diễn đàn
+- khán đài
+
+@tribuneship
+* dt
+- (sử học) La Mã chức hộ dân quan
+ @tribunicial
+- Cách viết khác : tribunitial 
+ @tribunitial
+- Cách viết khác : tribunicial 
+ @triburnal  
+*  dt
+- toà án
+
++ before the triburnal of public opinion: (nghĩa bóng) trước toà án dư luận
+- ghế quan toà
+
+@tributary  
+*  tt
+- phải nộp cống, phải triều cống (nước, người), phụ thuộc, chư hầu
+- nhánh (sông)
+
++ tributary river: sông nhánh
+*  dt
+- người phải nộp cống; nước phải triều cống
+- sông nhánh
+
+@tribute  
+*  dt
+- vật cống, đồ cống
+
++ to lay under tribute: bắt phải nộp cống
+
++ to pay tribute: nộp cống
+- vật tặng để tỏ lòng kính trọng; cái để tỏ lòng tôn kính
+
++ floral tributes: hoa tặng
+
+@tricar  
+*  dt
+- xe ô tô ba bánh; xe mô tô ba bánh
+
+@tricarpellary
+* tt
+- xem tricarpellate
+ @tricarpellate
+* tt
+- (thực vật học) có ba lá noãn (như) tricarpellary
+ @trice  
+*  dt
+- in a trice trong nháy mắt
+*  ngdgt
+- (hàng hải) (: up) kéo lên (buồm); cột vào
+
+@tricennial  
+*  tt
+- (pháp lý) trong khoảng ba năm
+
+@tricentenary   (tercentennial) @triceps  
+*  dt
+- (giải phẫu) cơ ba đầu
+
+@triceratops
+* dt
+- khủng long ba sừng
+ @trichiasis
+* dt
+- sự mọc lông phía trong
+- (y học) chứng lông quặm
+ @trichidium
+* dt
+- (sinh vật học) cuống đỉnh, cuống nhỏ
+ @trichina  
+*  dt,  số nhiều trichinae
+- (động vật học) giun xoắn
+
+@trichinae  
+*  dt,  số nhiều trichinae
+- (động vật học) giun xoắn
+
+@trichinal
+* tt
+- thuộc giun tóc
+ @trichinise
+- Cách viết khác : trichinize 
+ @trichinize
+- Cách viết khác : trichinise 
+ @trichinoses
+* dt
+- <y> bệnh giun xoắn
+ @trichinosis  
+*  dt
+- (y học) bệnh giun
+
+@trichinous
+* tt
+- bị giun tóc; có giun tóc (thức ăn)
+ @trichite
+* dt
+- hạt silic nhỏ tí trong cây và động vật
+ @trichites
+* dt số nhiều
+- gai silic
+ @trichocyst
+* dt
+- (sinh vật học) túi lông
+ @trichoid
+* tt
+- dạng lông
+ @trichology
+* dt
+- môn học nghiên cứu về lông, tóc
+ @trichoma
+- Cách viết khác : trichome 
+ @trichome
+- Cách viết khác : trichoma 
+ @trichomic
+* tt
+- thuộc túm lông
+ @trichomonad
+* dt
+- (động vật học) trùng mảng uốn roi đuôi
+ @trichomoniasis
+* dt
+- số nhiều trichomoniases
+- (y học) bệnh trùng mảng uốn roi đuôi
+ @trichopteran
+* dt
+- sâu bọ cánh lông
+* tt
+- (thuộc) sâu bọ cánh lông
+ @trichord  
+*  tt
+- (âm nhạc) có ba dây (đàn)
+*  dt
+- (âm nhạc) đàn ba dây
+
+@trichosis  
+*  dt
+- (y học) bệnh lông tóc
+
+@trichotomous
+* tt
+- (thuộc) sự phân ba; (thuộc) sự phân tam
+ @trichotomy  
+*  dt
+- sự phân ba
+
+@trichotomy
+- phép tam giác phân
+ @trichromatic  
+*  tt
+- ba màu (chụp ảnh, in)
+
+@trichromatism
+* dt
+- tình trạng ba màu; cách dùng ba màu
+ @trichromic
+* tt
+- ba màu; ba màu hợp thành
+ @trick  
+*  dt
+- mưu mẹo, thủ đoạn đánh lừa; trò gian trá, trò bịp bợm
+
++ the trick took him in completely: nó hoàn toàn bị mắc mưu
+
++ there must be some trick about it: có cái gì gian trá bịp bợm trong đó
+- trò chơi khăm, trò choi xỏ; trò ranh ma, trò tinh nghịch
+
++ to be up to one's old tricks again: lại dở những trò xỏ lá
+
++ to play a trick on someone: xỏ chơi ai một vố
+- ngón, đòn, phép, mánh khoé, mánh lới nhà nghề
+- trò, trò khéo
+
++ conjuring trick: trò nhanh tay, trò ảo thuật
+
++ to teach a dog tricks: dạy cho làm trò
+- thói, tật
+
++ the has the trick of using slangs: nó có cái tật hay dùng tiếng lóng
+- nước bài
+
++ to take (win) a trick: được ăn một nước bài
+- (hàng hải) phiên làm việc ở buồng lái
+!to be up to a trick or two
+- khôn ngoan, láu, đủ ngón, có tài xoay xở
+!I don't know the trick of it
+- tôi không biết mẹo
+!to know a trick worth two of that
+- biết một ngón hay hơn
+!that will do the trick
+- (thông tục) cứ thế là ăn tiền đấy
+!tricks of fortune
+- những trò trở trêu của số mệnh
+!whole bag of tricks
+- (xem) bag
+*  ngdgt
+- lừa, đánh lừa, lừa gạt
+
++ to trick someone into doing something: lừa ai làm gì
+
++ to trick someone out of something: lừa gạt ai lấy cái gì
+!to trick out (up)
+- trang điểm, trang sức
+
+@trick cyclist  
+*  dt
+- (từ lóng) thầy thuốc thần kinh
+
+@tricker  
+*  dt
+- kẻ lừa gạt, kẻ xỏ lá, kẻ bịp bợm, kẻ láu cá
+- quân cờ bạc bịp, quân bài tây
+
+@trickery  
+*  dt
+- ngón bịp; thủ đoạn gian trá, thủ đoạn quỷ quyệt
+
+@trickily
+* dt
+- đòi hỏi khéo léo, đòi hỏi tinh tế (công việc )
+- quỷ quyệt, gian xảo, thủ đoạn
+- phức tạp, rắc rối (công việc...)
+ @trickiness  
+*  dt
+- trò bịp bợm, trò xảo trá; tính gian trá, tính quỷ quyệt
+- (thông tục) tính chất phức tạp, tính chất rắc rối
+
++ the trickiness of a machine: tính chất phức tạp của một cái máy
+
+@tricking
+* dt
+- sự trang điểm, sự tô điểm
+ @trickish  
+*  tt
+- xảo trá, xỏ lá, lắm thủ đoạn
+
+@trickle  
+*  dt
+- tia nhỏ, dòng nhỏ (nước)
+
++ a trickle of blood: dòng máu nhỏ
+
++ to set the tap at a trickletrickle: mở vòi nước cho chảy nhỏ giọt
+
++ trickle of sales: sự bán nhỏ giọt
+*  ngdgt
+- làm cho chảy nhỏ giọt, làm cho chảy thành dòng nhỏ
+
++ to trickle ink into a fountain-pen: cho mực chảy nhỏ giọt vào bút máy
+*  ndgt
+- chảy nhỏ giọt, chảy thành dòng nhỏ (nước, máu...)
+- dần dần lộ ra (tin tức)
+
++ the information trickled out: tin đã lộ dần ra
+
+@trickle charger
+* dt
+- thiết bị để nạp điện từ từ liên tục vào bình ắc quy
+ @tricklet  
+*  dt
+- tia nhỏ, dòng nhỏ
+
+@trick-shot  
+*  dt
+- (điện ảnh) mẹo quay phim
+
+@trickster  
+*  dt
+- kẻ bịp bợm, kẻ lừa gạt, quân lường đảo
+
+@tricksy  
+*  tt
+- láu lỉnh, láu cá, tinh ranh; tinh nghịch
+
+@tricktrack
+* dt
+- trò chơi thò lò, bàn chơi thò lò (như) trictrac
+ @tricky  
+*  tt
+- xảo quyệt, lắm thủ đoạn, mưu mẹo, xỏ lá, láu cá, mánh lới
+
++ a tricky old sharper: thằng cha cáo già
+- phức tạp, rắc rối (công việc...)
+
++ a tricky problem in mathematics: một bài toán rắc rối
+
+@triclad
+* dt
+- (động vật học) bộ ruột ba nhánh (giun giẹp)
+ @triclinic
+* tt
+- (khoáng vật học) thuộc tinh thể có ba trục giao nhau thành góc tù
+ @triclinium
+- dt,  số nhiều triclinia
+ @tricolette
+* dt
+- lụa dệt cho phụ nữ
+ @tricolor   (tricolour) @tricolour   (tricolour) @tricorn  
+*  tt
+- có ba sừng
+*  dt: (tricorne) 
+@tricorne  
+*  tt
+- có ba sừng
+*  dt: (tricorne) 
+@tricornered
+* tt
+- có ba góc
+ @tricot
+* dt
+- sợi đan, vải đan
+ @tricotyledonous  
+*  tt
+- (thực vật học) có ba lá mầm
+
+@tricrotic
+* tt
+- có nhịp dội ba (mạch)
+ @trictrac
+* dt
+- xem tricktrack
+ @tricuspid  
+*  tt
+- có ba lá, có ba mảnh
+
++ tricuspid valve: (giải phẫu) van ba lá (của tim)
+
+@tricycle   (trike) @tricycle-carrier
+- như box-tricycle
+ @tricyclic
+* tt
+- (hoá học) có ba vòng
+ @tricylist  
+*  dt
+- người đi xe đạp ba bánh
+
+@tridacty
+- có ba ngón
+ @tridactyl   (tridactylous) @tridactylous   (tridactylous) @trident  
+*  dt
+- đinh ba
+
+@trident
+- đường ba răng
+- t. of Newton đường ba răng của Niutơn 
+ @tridentine
+* tt
+- thuộc cộng đồng trent
+ @tridimensional
+* tt
+- có ba chiều
+
++  tridimensional space:không gian ba chiều
+ @tridimensionality
+* dt
+- tính ba chiều
+ @triduum
+* dt
+- thời kỳ cầu nguyện ba ngày trước một ngày lễ công giáo
+ @triecious
+* tt
+- có ba loại hoa khác gốc
+ @tried  
+*  tt
+- đã được thử thách, đã qua thử thách, đáng tin cậy
+
++ a tried friend: người bạn đã được thử thách, người bạn đáng tin cậy
+
+@triennal  
+*  tt
+- dài ba năm, lâu ba năm
+- ba năm một lần
+*  dt
+- cây sống ba năm
+- sự kiện xảy ra ba năm một lần
+- lễ kỷ niệm ba năm
+
+@triennial
+* tt
+- dài ba năm, lâu ba năm
+- ba năm một lần
+* dt
+- cây sống ba năm
+- sự kiện xảy ra ba năm một lần
+- lễ kỷ niệm ba năm
+ @triennially
+* dt
+- dài ba năm, lâu ba năm
+- ba năm một lần
+ @triennium
+- dt,  số nhiều trienniums,  triennia
+ @trier  
+*  dt
+- người thử, người làm thử
+- người xét xử
+!he's a tier
+- anh ta không bao giờ chịu thất bại
+
+@trierach
+* dt
+- người chỉ huy chiến thuyền (thời cổ)
+- công dân Hy-lạp cổ phải trang bị một chiến thuyền
+ @trieteric
+- Cách viết khác : trieterical 
+ @trieterical
+- Cách viết khác : trieteric 
+ @trifacial
+* dt
+- dây thần kinh sinh ba
+- dây thần kinh sọ
+* tt
+- (thuộc) dây thần kinh sinh ba
+- (thuộc) dây thần kinh sọ
+- ba mặt
+ @trifarious
+* tt
+- ba mặt
+- ba cấu trúc
+- ba hàng
+ @trifid  
+*  tt
+- (thực vật học) chẻ ba
+
+@trifle  
+*  dt
+- vật nhỏ mọn; chuyện vặt
+
++ to waste one's time on trifles: mất thì giờ vì những chuyện vặt
+- món tiền nhỏ
+
++ it cost only a trifle: cái dó giá chẳng đáng bao nhiêu
+- bánh xốp kem
+!a trifle
+- (dùng làm dt) hơi, một tí, một chút
+
++ a trifle [too] heavy: hơi nặng một chút
+*  ndgt
+- coi thường, coi nhẹ, coi là chuyện vặt; đùa cợt, đùa giỡn
+
++ stop trifling with your work!: thôi đừng có đùa với công việc như vậy
+
++ he is not a man to trifle with: anh ta không phải là người có thể đùa được
+
++ to trifle with one's food: nhấm nháp, ăn chơi ăn bời tí chút
+
++ to trifle with one's paper-knife: nghịch con dao rọc giấy
+!to trifle away
+- lãng phí
+
++ to trifle away one's time: lãng phí thì giờ
+
++ to trifle away one's money: phung phí tiền bạc
+
+@trifler  
+*  dt
+- người hay coi thường mọi việc, người hay bông đùa
+
+@trifling  
+*  tt
+- vặt, thường, không quan trọng
+
++ trifling mistake: lỗi vặt
+
++ trifling ailment: đau thường, đau vặt
+
+@trifocal
+* tt
+- có ba tiêu điểm
+* dt
+- kính ba tiêu điểm
+ @trifoliate  
+*  tt
+- (thực vật học) có ba lá chét (lá kép)
+- có lá kép ba lá chét (cây)
+
+@trifolium
+- hình ba lá
+ @triforium
+* dt
+- số nhiều triforia
+- bao lơn đầu nhà thờ, nơi dành cho ban hát của nhà thờ
+ @triform  
+*  tt
+- có ba dạng
+
+@trifurcate  
+*  tt
+- rẽ ba
+*  dgt
+- rẽ ba
+
+@trifurcated
+* tt
+- rẽ ba; ba nhánh
+ @trifurcation  
+*  dt
+- sự rẽ ba
+- chỗ rẽ ba (của con đường)
+
+@trig  
+*  tt
+- chỉnh tề, bảnh bao
+
++ a trig man: một người ăn mặc bảnh bao
+- gọn gàng
+
++ a trig room: một căn phòng gọn gàng
+*  ngdgt
+- ((thường) : out) thắng bộ (cho ai)
+- ((thường) : up) sắp xếp gọn gàng
+*  dt
+- cái chèn (bánh xe)
+*  ngdgt
+- chèn (bánh xe)
+*  dt
+-(ngôn ngữ nhà trường) (viết tắt) của trigonometry
+
+@trigamist  
+*  dt
+- người ba vợ; người ba chồng
+
+@trigamous  
+*  tt
+- có ba vợ; chế độ lấy ba chồng
+
+@trigamy  
+*  dt
+- chế độ lấy ba vợ; chế độ lấy ba chồng
+
+@trigeminal
+* dt
+- dây thần kinh sinh ba
+- ba cấu trúc
+- cấu trúc bậc ba
+- dây thần kinh sọ V
+* tt
+- (thuộc) dây thần kinh sinh ba
+- (thuộc) ba cấu trúc
+- (thuộc) cấu trúc bậc ba
+- (thuộc) dây thần kinh sọ V
+ @trigger  
+*  dt
+- cò súng
+
++ to pull the trigger: bóp cò
+- nút bấm (máy ảnh...)
+!to be quick on the trigger
+- bóp cò nhanh
+- hành động nhanh; hiểu nhanh
+*  ngdgt
+- ((thường) : off) gây ra, gây nên
+
+@trigger
+- (máy tính) trigơ
+ @trigger-finger  
+*  dt
+- ngón tay bóp cò (ngón trỏ tay phải)
+
+@trigger-guard  
+*  dt
+- vòng cản (không cho đụng cò súng)
+
+@trigger-happy
+* tt
+- <thgt> hiếu chiến, hung hăng
+ @triglot  
+*  tt
+- ba thứ tiếng (từ điển)
+
+@triglyph
+* dt
+- (kiến trúc) nét chìm ba
+ @triglyphic
+- Cách viết khác : triglyphical 
+ @triglyphical
+- Cách viết khác : triglyphic 
+ @trigon
+* dt
+- hình tam giác
+- vị trí của hai hành tinh cách nhau 120 độ
+- đàn hac-pơ cổ xưa hình tam giác
+ @trigonal  
+*  tt
+- (toán học) tam giác
+- (thực vật học); (động vật học) có mựt cắt tam giác
+
++ trigonal stem: thân (có mặt cắt) tam giác
+
+@trigonal
+- (thuộc) tam giác tam tuyến
+ @trigonometric   (trigonometrical) @Trigonometric functions
+- (Econ) Các hàm lượng giác.
+: Các hàm được định nghĩa bởi các tính chất trong một tam giác vuông bao gồm sin, cosin và tang.
+ @trigonometrical   (trigonometrical) @trigonometric(al)
+- (thuộc) lượng giác
+ @trigonometry  
+*  dt
+- lượng giác học
+
+@trigonometry
+- lượng giác học
+- plane t. lượng giác phẳng
+- spherical t. lượng giác cầu 
+ @trigonous
+* tt
+- có mặt cắt tam giác
+ @trigraph
+* dt
+- nhóm ba chữ cái làm thành một âm tiết
+- nhóm ba chữ cái kế tiếp nhau
+ @trigynous  
+*  tt
+- (thực vật học) có ba nhuỵ (hoa)
+
+@trihedral  
+*  tt
+- (toán học) tam diện, ba mặt
+
++ trihedral angle: góc tam diện
+
+@trihedral
+- tam diện
+- coordinate t. lượng giác phẳng
+- directed t. tam diện phẳng
+- left-handed oriented t. tam diện định hướng bên trái
+- moving t. tam diện động
+- negatively oriented t. tam diện định dướng âm
+- positively orianted t. tam diện định hướng dương
+- principal t. tam diện chính
+- right-handed oriented t. tam diện định hướng bên phải
+- trirectangular t. tam diện ba góc vuông 
+ @trihedron  
+*  dt
+- (toán học) góc tam diện, tan diện
+
+@trihedron
+- khối tam diện
+ @trihybrid
+* tt
+- lai ba tính trạng
+* dt
+- thể lai ba tính trạng (có ba tính trạng khác nhau)
+ @trijet
+* tt
+- có ba động cơ phản lực (máy bay)
+ @trike   (trike) @trilateral  
+*  tt
+- (toán học) ba cạnh, tam giác
+- ba bên, tay ba
+
+@trilaterally
+* dt
+- <toán> có ba cạnh
+- tay ba, có ba bên
+ @trilateration
+* dt
+- phép đo ba cạnh tam giác
+ @trilby  
+*  dt
+- (thông tục) mũ nỉ mềm ((cũng) trilby hat)
+
+@trilby hat
+* dt
+- <thgt> mũ nỉ mềm (mũ phớt mềm của đàn ông có vành hẹp và phần đỉnh lõm từ trước ra sau)
+ @trilinear
+* tt
+- có ba đường, thuộc ba đường
+ @trilinear
+- tam tuyến
+ @trilingual  
+*  tt
+- bằng ba thứ tiếng
+
+@triliteral
+* tt
+- gồm ba chữ cái, gồm ba phụ âm
+* dt
+- từ hay chính tố gồm ba phụ âm, từ hay chính tố gồm ba chữ cái
+ @trilithon
+* dt
+- kiến trúc đá gồm hai tảng đá dựng đứng đỡ một tảng đá nằm ngang (của người xưa)
+ @trill  
+*  dt
+- (âm nhạc) láy rền
+- (ngôn ngữ học) phụ âm rung
+*  ngdgt
+- (âm nhạc) láy rền
+- đọc rung tiếng, nói rung tiếng
+
++ to trill the letter "r": đọc rung chữ " r" 
+
+@triller
+* dt
+- (âm nhạc) người láy rền
+- (ngôn ngữ học) người phát âm rung lưỡi
+ @trilling  
+*  dt
+- trẻ sinh ra
+
+@trillion  
+*  dt
+- (Anh) một tỷ tỷ; (từ Mỹ,nghĩa Mỹ) một ngàn tỷ
+
+@trillion
+- 10 18 (Anh); 10 12 (mỹ) 
+ @trilobate  
+*  tt
+- (thực vật học) có ba thuỳ
+
+@trilobed
+- Cách viết khác : trilobate 
+ @trilobite  
+*  dt
+- (địa lý,địa chất) bọ ba thuỳ
+
+@trilocular  
+*  tt
+- (thực vật học) có ba ô
+
+@trilogy  
+*  dt
+- bộ ba bản bi kịch (cổ Hy lạp)
+- tác phẩm bộ ba
+
+@trim  
+*  dt
+- sự ngăn nắp, sự gọn gàng
+
++ everything is in perfect trim: mọi thứ đều đâu vào đấy, mọi thứ đều ngắn nắp gọn gàng
+- trạng thái sẵn sàng
+
++ to be in fighting trim: sẵn sàng chiến đấu
+- y phục, cách ăn mặc
+
++ in travelling trim: ăn mặc theo lối đi du lịch
+- (hàng hải) sự xoay (buồm) theo đúng hướng gió
+!to be in [good] trim
+- (thể dục,thể thao) sung sức
+- (hàng hải) sắp xếp đâu vào đấy (tàu)
+!to be out of trim
+- (thể dục,thể thao) không sung sức, không sẵn sàng
+- (hàng hải) chưa sắp xếp đâu vào đấy (tàu)
+*  tt
+- ngăn nắp, gọn gàng, chỉnh tề
+
++ a trim room: căn phòng ngăn nắp
+
++ a trim girl: cô gái ăn mặc gọn gàng
+*  ngdgt
+- sắp xếp, thu dọn, sắp đặt cho ngăn nắp thứ tự
+- sửa, gạt (bấc đèn); cời (tro để khêu ngọn lửa); cắt, hớt, tỉa (tóc, râu); xén, tỉa (cành lá...); bào, đẽo (gỗ)...
+- tô điểm, trang sức, trang điểm
+
++ to trim a dress with lace: điểm thêm dải đăng ten vào cái áo
+- (hàng hải) cân bằng trọng tải (của tàu); xoay (buồm) theo hướng gió
+- (thông tục) mắng mỏ, sửa cho một trận
+*  ndgt
+- lựa chiều, nước đôi không đứng hẳn về phía bên nào; tìm cách chiếu lòng cả đôi bên
+!to trim away (off)
+- cắt, xén, tỉa, gọt bớt (những phần thừa...)
+!to trim up
+- sửa sang quần áo cho gọn gàng; ăn mặc gọn gàng diêm dúa
+
+@trim
+- (cơ học) độ chênh, góc chênh
+ @trimaran
+* dt
+- thuyền ba thân
+ @trimensual   (trimestrial) @trimer
+* dt
+- (hoá học) chất tam phân,  trime
+ @trimerous
+* tt
+- (sinh vật học) ba đoạn; ba phần
+ @trimester  
+*  dt
+- quý ba tháng
+
+@trimestrial   (trimestrial) @trimeter  
+*  dt
+- thơ ba âm tiết
+
+@trimethoprim
+* dt
+- (dược học) trimethoprim
+ @trimly
+* dt
+- ngăn nắp; gọn gàng; chỉnh tề
+- (từ cổ, nghĩa cổ) trang bị, lắp ghép thích hợp
+ @trimmer  
+*  dt
+- người sắp xếp, người thu dọn, người sửa sang
+- máy xén; kéo tỉa (cây...)
+- thợ trang sức
+- (kiến trúc) mảnh gỗ đỡ rầm
+- (hàng hải) người xếp lại hàng trong hầm tàu
+- (thông tục) người lừng chừng đợi thời; người lựa gió theo chiều
+
+@trimming  
+*  dt
+- sự sắp xếp gọn gàng trật tự
+- sự cắt, sự hớt, sự tỉa, sự xén (cây); sự bào, sự đẽo (gỗ)
+- sự trang sức; vật trang sức
+- (hàng hải) sự xếp hàng cho cân tàu; sự xoay (buồm) theo hướng gió
+- (số nhiều) rau thơm bày trên đĩa thức ăn
+- (số nhiều) những điều thêm thắt
+
++ to tell the truth without any trimmings: nói sự thật không thêm thắt gì
+- (số nhiều) đồ xén ra, đồ cắt ra
+- (thông tục) sự quở mắng, sự rầy la; trận đòn
+- (thông tục) sự lựa chiều làm vừa lòng đôi bên; tính chất đợi thời
+
+@trimming-axe  
+*  dt
+- dao tỉa cây
+
+@trimming-machine  
+*  dt
+- máy xén
+
+@trimness  
+*  dt
+- tính chất ngăn nắp, tính chất gọn gàng, tính chất chỉnh tề
+
+@trimolecular
+* tt
+- thuộc ba phân tử
+ @trimonthly
+* dt
+- xảy ra từng quý ba tháng một
+ @trimorph
+* dt
+- cấu trúc ba dạng, cấu trúc ba hình
+ @trimorphic
+* tt
+- ba dạng, ba hình
+ @trimorphism
+* dt
+- hiện tượng ba dạng, hiện tượng ba hình
+ @trimorphous
+* tt
+- ba dạng; ba hình
+ @trimotor
+* dt
+- máy bay ba động cơ
+ @trimurti
+* dt
+- (Trimurti) (thần thoại ấn Độ) ba vị thần (Brahma,  Vishna,  Siva) cùng một thể
+ @trinary
+* tt
+- do ba bộ phận hợp thành
+- dựa trên số ba
+ @trindle
+* dt
+- (phương ngữ Anh) vật hình nhẫn (bánh xe...)
+* ndgt
+- (phương ngữ) lăn (bánh xe)
+ @trine  
+*  tt
+- gấp ba, bằng ba lần
+
+@tringle  
+*  dt
+- thanh sắt để treo màn
+- thanh chống giật (trên mâm pháo)
+
+@trinitarian  
+*  dt
+- người tin thuyết ba ngôi một thể
+
+@trinitrotoluene  
+*  dt
+- Trinitrotoluen (thuốc nổ)
+
+@trinity  
+*  dt
+- nhóm ba (người, vật)
+- (the Trinity) (tôn) ba ngôi một thể
+
+@trinity sunday
+* dt
+- (Trinity Sunday) ngày Chủ Nhật Ba Ngôi (ngày chủ nhật sau ngày Thánh thể giáng lâm)
+ @trinitytide
+* dt
+- thời gian nhà thờ giữa ngày chủ nhật sau lễ Phục sinh với tuần lễ trước lễ Giáng sinh
+ @trinket  
+*  dt
+- đồ nữ trang rẻ tiền
+
+@trinome
+* dt
+- (toán học) tam thức
+ @trinomial  
+*  tt
+- (toán học) (thuộc) tam thức
+
++ trinomial equation: phương trình tam thức
+*  dt
+- (toán học) tam thức
+
+@trinomial
+- tam thức
+ @trio  
+*  dt
+- (âm nhạc) bộ ba
+- (âm nhạc) phần triô
+- bộ ba
+
+@triode  
+*  dt
+- (vật lý) triôt, ống ba cực
+
+@triode
+- triôt
+ @triolet  
+*  dt
+- thơ triôlê (thơ tám câu hai vần)
+
+@triose
+* dt
+- (hoá học) trioza
+ @trip  
+*  dt
+- cuộc đi chơi, cuộc dạo chơi, cuộc du ngoạn
+- (hàng hải) chuyến đi, cuộc hành trình, sự vượt biển
+
++ maiden trip: chuyến đi đầu tiên (của một con tàu)
+- bước nhẹ
+- bước trật, bước hụt; sự vấp, sự hụt chân
+- (nghĩa bóng) sai lầm, sai sót, lỗi; sự nói lỡ lời
+- sự ngáng, sự ngoéo chân; cái ngáng, cái ngoéo chân
+- mẻ cá câu được
+- (kỹ thuật) sự nhả; thiết bị nhả
+*  ndgt
+- bước nhẹ, đi nhẹ bước, nhảy múa nhẹ nhàng
+
++ to trip up the stairs: đi nhẹ bước lên cầu thang
+- trật bước, hụt chân, bước hụt, vấp
+
++ to trip over a stone: vấp phải một hòn đá
+- (nghĩa bóng) lầm, lầm lỗi; nói lỡ lời
+*  ngdgt
+- ngáng, ngoéo (chân), làm cho vấp ngã
+- (hàng hải) thả trượt (neo)
+- (kỹ thuật) nhả (máy)
+!to trip up
+- ngáng, ngoéo chân, làm cho vấp ngã
+
++ he tried to trip me up: nó định ngáng tôi
+- tóm được (ai) làm sai
+
++ the lawyer tripped the witness up: luật sư tóm được sai sót của nhân chứng
+
+@tripartite  
+*  tt
+- giữa ba bên, tay ba
+
++ a tripartite treaty: hiệp ước tay ba
+- gồm ba phần
+- (thực vật học) phân ba (phiến lá)
+
+@tripartition
+* dt
+- sự chia ba, sự xẻ ba
+ @tripe  
+*  dt
+- dạ dày bò
+- (số nhiều) (thông tục) cỗ lòng
+- (từ lóng) vật tầm thường, vật vô giá trị; bài văn dở, cuốn tiểu thuyết tồi; chuyên vô vị
+
+@tripeman  
+*  dt
+- người bán lòng
+
+@tripersonal
+* tt
+- (tôn giáo) có ba ngôi
+ @tripersonality
+* dt
+- (tôn giáo) tính chất ba ngôi (của Chúa)
+ @tripetalous  
+*  tt
+- (thực vật học) có ba cánh (hoa)
+
+@trip-hammer
+* dt
+- búa lớn nện bằng máy
+ @triphase
+* dt
+- (điện học) ba pha
+ @triphibian
+* tt
+- hoạt động trên không, trên mặt đất, dưới nước; ở cả ba môi trường
+* dt
+- tàu bay hoạt động ở cả ba môi trường
+ @triphibious
+* tt
+- trang bị để hoạt động ở cả ba môi trường
+ @triphone
+* dt
+- ký hiệu tốc ký thay ba âm
+ @triphthong
+* dt
+- (ngôn ngữ học) nguyên âm ba
+ @triphthongal
+* tt
+- thuộc nguyên âm ba
+ @triphylite
+* dt
+- (khoáng vật học) triphylit
+ @triphyllous
+* tt
+- (thực vật học) có ba lá
+ @tripinnate
+* tt
+- (thực vật học) có lá chét lông chim ba lần, xẻ lá chét lông chim ba lần
+ @tripitaka
+* dt
+- bộ kình tam giác (quan trọng nhất của Phật giáo; toàn bộ kinh Phật)
+ @triplane  
+*  dt
+- máy bay ba lớp cánh
+
+@triple  
+*  tt
+- có ba cái, gồm ba phần
+
++ Triple Alliance: đồng minh ba nước
+
++ triple time: (âm nhạc) nhịp ba
+- ba lần, gấp ba
+*  dgt
+- gấp ba, nhân ba, tăng lên ba lần
+
++ to triple the income: tăng thu nhập lên ba lần
+
++ the output tripled: sản lượng tăng gấp ba
+
+@triple
+- bội ba
+- t. of conjugate harmonic funcions bộ ba của các hàm điều hoà liên tục 
+ @triple jump
+* dt
+- (the triple jump)  <thể> môn nhảy ba bước (càng xa về trước càng tốt)
+ @triple-geared
+* tt
+- ba bánh răng
+ @tripler
+* dt
+- (kỹ thuật) bộ nhân ba
+ @triplet  
+*  dt
+- bộ ba
+- đứa con sinh ba
+- đoạn thơ ba câu
+- (âm nhạc) Triplê
+
+@triplet
+- bộ ba
+ @triplet
+- bộ ba
+ @triple-tail
+* dt
+- (động vật học) cá kẽn
+ @triplex  
+*  tt
+- gấp ba
+- triplex glass kính triplêch, kính ba lớp (dùng ở xe ô tô...)
+*  dt
+- (âm nhạc) nhịp ba
+
+@triplicate  
+*  dt
+- bản sao ba (một trong ba bản sao)
+*  tt
+- ba lần
+- thành ba bản
+*  ngdgt
+- nhân ba, tăng lên ba lần
+- làm thành ba bản
+
+@triplication
+* dt
+- sự tăng gấp ba
+ @triplicity
+* dt
+- tình trạng gấp ba lần
+- tình trạng một thể ba ngôi
+ @tripling
+* dt
+- sự nhân ba
+ @triplivate
+- tăng gấp ba, bộ ba
+ @triploblastic
+* tt
+- (sinh vật học) có ba lá phôi, có ba lá phôi bì
+ @triploid
+* tt
+- (sinh vật học) tam bội
+* dt
+- (sinh vật học) thể tam bội
+ @triploidy
+* dt
+- (sinh vật học) tính tam bội
+ @triply
+- bộ ba
+ @tripod  
+*  dt
+- giá ba chân, kiền ba chân
+- bàn ba chân, ghế ba chân
+
+@tripodal  
+*  tt
+- có ba chân (ghế đẩu...)
+
+@tripolar
+* tt
+- (sinh vật học) ba cực
+ @tripoli  
+*  dt
+- (khoáng chất) Tripoli
+
+@tripos  
+*  dt
+- cuộc thi học sinh giỏi (ở trường đại học Căm-brít)
+
+@tripper  
+*  dt
+- người đi chơi
+- người ngáng, người ngoéo chân
+
+@tripper-man
+* dt
+- người đỡ tải băng chuyền; người gạt băng chuyền
+ @tripping  
+*  tt
+- nhẹ nhàng, nhanh nhẹn, thoăn thoắt
+
+@trippingly  
+*  dt
+- nhẹ nhàng, mau lẹ, thoắn thoắt (đi)
+- lưu loát (nói)
+
++ to speak trippingly: nói lưu loát
+
+@triptane
+* dt
+- (hoá học) triptan
+ @triptych  
+*  dt
+- hoạ tranh bộ ba
+- sách gập ba tấm
+
+@tripudiate  
+*  dgt
+- (: upon) nhảy nhót vì vui sướng; nhảy cỡn lên (với vẻ huênh hoang hoặc khinh miệt ai)
+
+@trip-wire
+* dt
+- dây bẫy (dây chằng sát mặt đất để giật một cái bẫy hay thiết bị báo hiệu  khi một người, một vật vướng phải)
+ @triquatrous
+* tt
+- có mặt cắt tam giác
+ @triquetrous  
+*  tt
+- có ba cạnh
+
++ triquetrous stem: (thực vật học) thân ba cạnh
+
+@triradial
+* tt
+- có ba tia (như) triradiate
+ @triradiate
+* tt
+- như triradial
+ @trirectangular
+- có ba góc vuông
+ @trireme  
+*  dt
+- (sử học) thuyền chiến ba tầng chèo
+
+@tris-
+- tiền tố
+- ba; gấp ba
+- trisect
+- chẻ ba
+- tiền tố
+- ba; gấp ba
+- trisect
+- chẻ ba
+ @trisecant
+- tam cát tuyến
+ @trisect  
+*  ngdgt
+- chia làm ba
+
+@trisect
+- chia ba
+ @trisection  
+*  dt
+- sự chia làm ba
+
+@trisection
+- sự chia đều ba
+- t. of an angle chia đều ba một góc 
+ @trisectrix
+- đường chia góc làm ba (đồ thị của x 2 : xy 2 : ay 2 - 3ax 2 
++  0) 
+ @trisepalous
+* tt
+- (thực vật học) ba lá đài
+ @triseptate
+* tt
+- ba vách; ba ngăn
+ @triserial
+* tt
+- ba dãy
+ @trisfull  
+*  tt
+- (từ hiếm,nghĩa hiếm) buồn
+
+@trishaw
+* dt
+- xe xích lô
+ @triskelion
+- dt,  số nhiều triskelia,  triskele
+ @trismus
+* dt
+- (y học) chứng cứng khít hàm
+ @trisoctahedron
+* dgt
+- vật thể có 24 mặt tam giác như nhau
+ @trisomic
+* tt
+- thuộc thể ba; ba thể nhiễm sắc tương ứng
+ @trispermous
+* tt
+- (sinh vật học) ba hạt
+ @trisporous
+* tt
+- ba bào tử
+ @triste
+* tt
+- (từ cổ, nghĩa cổ) buồn bã; ủ dột
+* dt
+- bài hát tình yêu buồn bã ở Nam Mỹ
+ @trisubstituted
+* tt
+- (hoá học) có ba nhóm thế
+ @trisyllabic  
+*  tt
+- có ba âm tiết
+
+@trisyllable  
+*  dt
+- từ ba âm tiết
+
+@trite  
+*  tt
+- cũ rích, cũ kỹ, lặp đi lặp lại, sáo, nhàm
+
++ a trite idea: một ý kiến lặp đi lặp lại
+
+@triteness  
+*  dt
+- tính chất cũ rích, tính chất sáo, tính chất nhàm
+- điều cũ rích, điều nhàm
+
+@tritheism
+* dt
+- thuyết ba ngôi phân biệt (Chúa Cha,  Chúa Con và Chúa Thánh thần là ba đấng khác nhau)
+ @tritheist
+* dt
+- người theo thuyết ba ngôi phân biệt
+ @tritheistic
+- (thuộc) thuyết ba ngôi phân biệt
+ @tritium  
+*  dt
+- (hoá học) Triti
+
+@tritomite
+* dt
+- (khoáng vật học) tritomit
+ @triton  
+*  dt
+- (Triton) (thần thoại,thần học) thần nửa người nửa cá
+- (động vật học) sa giông
+- ốc triton
+
+@tritone
+* dt
+- (âm nhạc) quãng ba cung
+ @triturable  
+*  tt
+- có thể nghiền, có thể tán nhỏ
+
+@triturate  
+*  ngdgt
+- nghiền, tán nhỏ
+
+@trituration  
+*  dt
+- sự nghiền, sự tán nhỏ
+- (dược học) bột nghiền
+
+@triturator  
+*  dt
+- máy nghiền
+
+@triumph  
+*  dt
+- chiến thắng lớn, thắng lợi lớn; thành công lớn
+- niềm vui chiến thắng, niềm vui thắng lợi, niềm hân hoan
+
++ great was his triumph on hearing...: nó rất hân hoan khi được tin...
+- (sử học) lễ khải hoàn, lễ mừng chiến thắng
+*  ndgt
+- chiến thắng, giành thắng lợi lớn
+
++ to triumph over the enemy: chiến thắng kẻ thù
+- vui mừng, hân hoan, hoan hỉ (vì chiến thắng)
+
+@triumphal  
+*  tt
+- khải hoàn, chiến thắng
+
++ triumphal arch: cổng khải hoàn
+
++ triumphal hymn: bài ca chiến thắng
+
++ triumphal return: sự chiến thắng trở về
+
+@triumphalism
+* dt
+- thái độ hân hoan chiến thắng có tính chất tôn giáo
+ @triumphant  
+*  tt
+- chiến thắng, thắng lợi
+- vui mừng, hân hoan, hoan hỉ (vì chiến thắng); đắc thắng
+
+@triumpher  
+*  dt
+- kẻ chiến thắng
+
+@triumvir  
+*  dt,  số nhiều triumvirs,  triumviri
+- (sử học) tam hùng
+
+@triumvirate  
+*  dt
+- chuyên chính tay ba
+- (sử học) chức tam hùng; chế độ tam hùng
+
+@triumviri  
+*  dt,  số nhiều triumvirs,  triumviri
+- (sử học) tam hùng
+
+@triune  
+*  tt
+- ba ngôi một thể
+
+@trivalence
+- Cách viết khác : trivalency 
+ @trivalency
+- Cách viết khác : trivalence 
+ @trivalent  
+*  tt
+- (hoá học) có hoá trị ba
+
+@trivalvular
+* tt
+- ba van
+ @trivet  
+*  dt
+- giá ba chân
+- cái kiền (bếp)
+!right as a trivet
+- hoàn toàn đúng; vững như kiềng ba chân
+- khoẻ mạnh
+- trong tình trạng tốt
+
+@trivia  
+*  dt,  số nhiều trivia
+- (sử học) tam khoa (ba khoa dạy ở trường Trung cổ là ngữ pháp, tu từ và lôgic)
+
+@trivial  
+*  tt
+- thường, bình thường, tầm thường, không đáng kể, không quan trọng
+
++ the trivial round: cuộc sống bình thường hằng ngày
+
++ trivial loss: tổn thất không đáng kể
+- không có tài cán gì, tầm thường, vô giá trị (người)
+- (sinh vật học) thông thường (tên gọi sinh vật, dùng thông thường trái lại với tên khoa học)
+
+@trivialisation
+* dt
+- sự tầm thường hoá
+ @trivialise
+* ngdgt
+- tầm thường hoá, làm cho (một vấn đề, đối tượng ) có vẻ tầm thường
+ @trivialism  
+*  dt
+- tính tầm thường, tính không quan trọng
+- điều tầm thường, điều không quan trọng
+
+@triviality  
+*  dt
+- tính chất tầm thường, tính chất không quan trọng
+- điều vô giá trị, điều tầm thường
+
++ to write triviality: viết những chuyện tầm thường
+
+@trivialization
+* dt
+- sự tầm thường hoá
+ @trivialize  
+*  ngdgt
+- tầm thường hoá
+
+@trivially
+* dt
+- tầm thường, không đáng kể, ít quan trọng
+- không có tài cán gì, tầm thường, vô giá trị (người)
+- <sinh> thông thường (tên gọi sinh vật, dùng thông thường trái lại với tên khoa học)
+ @trivium  
+*  dt,  số nhiều trivia
+- (sử học) tam khoa (ba khoa dạy ở trường Trung cổ là ngữ pháp, tu từ và lôgic)
+
+@triweekly  
+*  tt & dt
+- mỗi tuần ba lần
+- ba tuần một lần
+*  dt
+- tạp chí ra ba tuần một kỳ
+
+@troat  
+*  dt
+- tiếng gọi cái (của hươu nai đực)
+
+@trocar  
+*  dt
+- (y học) giùi chọc
+
+@trochaic  
+*  tt
+- (thơ ca) (thuộc) thơ corê
+*  dt số nhiều
+- thơ corê
+
+@trochal  
+*  tt
+- (động vật học) hình bánh xe
+
+@trochanter  
+*  dt
+- (giải phẫu) đốt chuyển
+
+@trochanteral
+* tt
+- thuộc đốt chuyển
+ @trochar
+- Cách viết khác : trocar 
+ @troche  
+*  dt
+- (dược học) viên thuốc (dẹt và tròn)
+
+@trochee  
+*  dt
+- thơ corê
+
+@trochlea  
+*  dt,  số nhiều trochleae
+- (giải phẫu) ròng rọc
+
+@trochleae  
+*  dt,  số nhiều trochleae
+- (giải phẫu) ròng rọc
+
+@trochlear
+* tt
+- thuộc ròng rọc
+ @trochoid
+* dt
+- (y học) trocoit
+- (toán học) xicloit
+ @trochoid
+- trocoit
+ @trochoidal
+- (thuộc) trocoit
+ @trochophore
+* dt
+- (động vật học) luân trùng; ấu trùng bánh xe
+ @trod  
+*  dt
+- bước đi, cách đi, dáng đi
+
++ a firm tread: dáng đi vững chắc
+- tiếng chân bước
+
++ heavy tread: tiếng chân bước nặng nề
+- (động vật học) sự đạp mái
+- mặt bậc cầu thang
+- tấm (cao su...) phủ bậc cầu thang
+- đế ủng
+- Talông (lốp xe)
+- mặt đường ray
+- phôi (trong quả trứng)
+- khoảng cách bàn đạp (xe đạp); khoảng cách trục (xe ô tô)
+*  dgt trod; trodden
+- đi, bước lên, giẫm lên, đặt chân lên
+
++ to tread heavily: đi nặng nề
+
++ to tread unknown ground: bước chân lên một mảnh đất xa lạ
+
++ don't tread on the flowers: đừng giẫm lên hoa
+- đạp (nho để làm rượu...)
+- đạp mái (gà)
+!to tread down
+- đạp lên, giẫm lên; (nghĩa bóng) chà đạp, giày xéo, áp chế; khinh rẻ
+!to tread in
+- dận lún xuống, đạp lún xuống
+!to tread out
+- lấy chân di cho tắt, giẫm cho tắt (ngọn lửa); (nghĩa bóng) dập tắt, trấn áp (cuộc nổi dậy)
+- đạp (nho để làm rượu...)
+!to tread lightly
+- đi nhẹ nhàng; (nghĩa bóng) làm việc thận trọng dè dặt; đề cập một cách dè dặt (đến một vấn đề khó khăn)
+!to tread in someone's footsteps
+- theo vết chân ai, bắt chước ai
+!to tread on someone's corns (toes)
+- giẫm lên ngón chân ai; (nghĩa bóng) làm mếch lòng ai, chạm lòng tự ái của ai
+!to tead on the heels of
+- bám sát, theo sát gót
+- theo dõi (sự việc)
+!to tread on air
+- mừng rơn, sướng rơn
+!to tead on (as on) eggs
+- đi từng bước dè dặt thận trọng như đi trên trứng; hành động thận trọng dè dặt
+!to tread on somebody's neck
+- đè đầu cưỡi cổ ai, chà đạp ai, đàn áp ai, trấn áp ai
+!to tread the stage (the boards)
+- là diễn viên sân khấu
+!to tread under foot
+- (nghĩa bóng) chà đạp, giày xéo; khinh rẻ
+!to tread water
+- bơi đứng
+
+@trodden  
+*  dt
+- bước đi, cách đi, dáng đi
+
++ a firm tread: dáng đi vững chắc
+- tiếng chân bước
+
++ heavy tread: tiếng chân bước nặng nề
+- (động vật học) sự đạp mái
+- mặt bậc cầu thang
+- tấm (cao su...) phủ bậc cầu thang
+- đế ủng
+- Talông (lốp xe)
+- mặt đường ray
+- phôi (trong quả trứng)
+- khoảng cách bàn đạp (xe đạp); khoảng cách trục (xe ô tô)
+*  dgt trod; trodden
+- đi, bước lên, giẫm lên, đặt chân lên
+
++ to tread heavily: đi nặng nề
+
++ to tread unknown ground: bước chân lên một mảnh đất xa lạ
+
++ don't tread on the flowers: đừng giẫm lên hoa
+- đạp (nho để làm rượu...)
+- đạp mái (gà)
+!to tread down
+- đạp lên, giẫm lên; (nghĩa bóng) chà đạp, giày xéo, áp chế; khinh rẻ
+!to tread in
+- dận lún xuống, đạp lún xuống
+!to tread out
+- lấy chân di cho tắt, giẫm cho tắt (ngọn lửa); (nghĩa bóng) dập tắt, trấn áp (cuộc nổi dậy)
+- đạp (nho để làm rượu...)
+!to tread lightly
+- đi nhẹ nhàng; (nghĩa bóng) làm việc thận trọng dè dặt; đề cập một cách dè dặt (đến một vấn đề khó khăn)
+!to tread in someone's footsteps
+- theo vết chân ai, bắt chước ai
+!to tread on someone's corns (toes)
+- giẫm lên ngón chân ai; (nghĩa bóng) làm mếch lòng ai, chạm lòng tự ái của ai
+!to tead on the heels of
+- bám sát, theo sát gót
+- theo dõi (sự việc)
+!to tread on air
+- mừng rơn, sướng rơn
+!to tead on (as on) eggs
+- đi từng bước dè dặt thận trọng như đi trên trứng; hành động thận trọng dè dặt
+!to tread on somebody's neck
+- đè đầu cưỡi cổ ai, chà đạp ai, đàn áp ai, trấn áp ai
+!to tread the stage (the boards)
+- là diễn viên sân khấu
+!to tread under foot
+- (nghĩa bóng) chà đạp, giày xéo; khinh rẻ
+!to tread water
+- bơi đứng
+
+@troglodyte  
+*  dt
+- người ở hang
+- thú ở hang
+- người sống ẩn dật; ẩn sĩ
+- (động vật học) con tinh tinh, con simpanzê
+
+@troika  
+*  dt
+- xe ba ngựa
+- nhóm ba người
+
+@troilite
+* dt
+- (khoáng vật học) troilit
+ @trojan  
+*  tt
+- (thuộc) thành Tơ-roa
+
++ the trojan war: cuộc chiến tranh Tơ-roa (cổ Hy lạp)
+*  dt
+- người thành Tơ-roa
+- (nghĩa bóng) người làm việc tích cực; người chiến đấu dũng cảm
+
++ to work like a trojan: làm việc tích cực
+
+@trojan horse
+* dt
+- con ngựa thành Troa (người hay đồ vật dùng để làm hại một đối thủ hay kẻ thù, vốn vẫn tin một cách sai lầm là mình đang được giúp đỡ)
+ @troll  
+*  dt
+- quỷ khổng lồ; quỷ lùn (trong truyện cổ tích Đan mạch,  Na uy)
+*  dt
+- khúc hát tiếp nhau
+- mồi (câu hình) thìa ((cũng) trolling-spoon)
+- ống dây cần câu nhấp
+*  dgt
+- hát tiếp nhau
+- câu nhấp
+
+@trolley   (trolly) @trolley-bus  
+*  dt
+- ô tô điện
+
+@trolley-car  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) xe điện
+
+@trolley-pole  
+*  dt
+- cần xe ô tô điện
+
+@trolley-wheel
+* dt
+- bánh vẹt (bánh xe nhỏ hay loại thiết bị khác làm vật tiếp xúc giữa một xe chạy điện và dây cáp điện trên cao)
+ @trolling-spoon  
+*  dt
+- mồi (câu hình) thìa ((cũng) troll)
+
+@trollop  
+*  dt
+- người đàn bà lôi thôi lếch thếch, người đàn bà nhếch nhác
+- gái điếm, đĩ
+
+@trollopy
+* tt
+- (thuộc) người đàn bà nhếch nhác
+- (thuộc) gái điếm
+ @trolly   (trolly) @trombone  
+*  dt
+- (âm nhạc) Trombon
+
+@trombonist  
+*  dt
+- người thổi trombon
+
+@trommel  
+*  dt
+- (ngành mỏ) sàng quay, thùng sàng
+
+@tromometer
+* dt
+- máy đo địa chấn
+ @tron
+* dt
+- (Xcôtlân) chợ
+- (Xcôtlân) cái cân dùng ở chợ
+ @trona
+* dt
+- (khoáng vật học) trona
+ @trone
+* dt
+- (Xcôtlân) xem tron
+ @troop  
+*  dt
+- đoàn, lũ, đàn, đám, bọn, toán
+
++ a troop of children: một lũ trẻ con
+- đội hướng đạo sinh
+- (quân sự) phân đội kỵ binh (gồm 60 người do một đại uý chỉ huy)
+- (số nhiều) quân, bộ đội; lính
+
++ three thousand troops: ba nghìn quân
+- (từ cổ,nghĩa cổ) gánh (hát...)
+*  ndgt
+- xúm lại, lũ lượt kéo đến; đi từng đàn từng lũ
+
++ the children trooped round him: trẻ con kéo đến xúm lại quanh anh ta
+*  ngdgt
+- (quân sự) phân thành phân đội kỵ binh
+!to toop off (away)
+- lũ lượt kéo đi
+!to troop together
+- tập trung đông
+!to troop up
+- lũ lượt kéo đến
+
+@troop-carrier
+* dt
+- tàu bay chuyên chở quân đội
+ @trooper  
+*  dt
+- kỵ binh; lính đơn vị thiết giáp
+- công an đi ngựa
+- ngựa của kỵ binh
+- tàu chở lính
+!to swear like a trooper
+- mở mồm ra là chửi rủa, chửi rủa luôn mồm
+
+@troop-horse  
+*  dt
+- ngựa của kỵ binh
+
+@troopship   (troop-transport) @troop-transport   (troop-transport) @troostite
+* dt
+- (khoáng vật học) trustit
+ @trop-
+- hình thái ghép có nghĩa
+- thay đổi, quay
+
++  troposphere:tầng đối lưu
+- tính hướng
+- tropic
+- thuộc nhiệt đới
+ @trope  
+*  dt
+- (văn học) phép chuyển nghĩa
+
+@trophallactic
+* tt
+- dinh dưỡng tương hỗ; nuôi lẫn nhau; trao đổi qua lại thức ăn
+ @trophallaxis
+* dt
+- sự dinh dưỡng tương hỗ, sự trao đổi thức ăn
+ @trophic  
+*  tt
+- dinh dưỡng
+
++ trophic nerves: thần kinh dinh dưỡng
+
+@trophoblast
+* dt
+- (sinh vật học) lá nuôi phôi
+ @trophoblastic
+* tt
+- (thuộc) lá nuôi phôi
+ @trophozoite
+* dt
+- (sinh vật học) cá thể dinh dưỡng (giai đoạn trưởng thành của bào tử động)
+ @trophy  
+*  dt
+- vật kỷ niệm chiến công, chiến tích ((nghĩa đen) & (nghĩa bóng))
+- đồ trần thiết ở tường
+- (thể dục,thể thao) giải thưởng, cúp
+
++ tennis trophies: những giải thưởng quần vợt
+
+@tropic  
+*  dt
+- (địa lý,địa chất) chí tuyến
+
++ the tropic of Cancer: hạ chí tuyến
+
++ the tropic of Capricorn: đồng chí tuyến
+- (the tropics) nhiệt đới, vùng nhiệt đới
+*  tt
+- (thuộc) chí tuyến
+- (thuộc) vùng nhiệt đới
+
+@tropical  
+*  tt
+- nhiệt đới
+
++ tropical forest: rừng nhiệt đới
+
++ tropical heat: nóng nhiệt đới
+- (nghĩa bóng) nồng cháy, nồng nhiệt
+
+@tropical
+- vl(đại số) nhiệt đới
+ @tropicalise  
+*  ngdgt
+- nhiệt đới hoá
+
+@tropine
+* dt
+- (sinh vật học) tropin; opxonin
+ @tropism  
+*  dt
+- (thực vật học) tính hướng
+
+@tropist
+* dt
+- người giỏi sáng tác ẩn dụ, tỷ dụ
+- người giải thích các ẩn dụ trong Thánh Kinh
+ @tropistic
+* tt
+- thuộc tính hướng kích thích (của cây)
+ @tropocollagen
+* dt
+- (sinh vật học) tropocolagen
+ @tropologic
+- Cách viết khác : tropological 
+ @tropological
+- Cách viết khác : tropologic 
+ @tropology
+* dt
+- cách sử dụng chuyển nghĩa của từ
+- cách giải thích các chuyển nghĩa trong Thánh kinh
+ @tropomyosin
+* dt
+- (sinh vật học) tropomiozin
+ @tropopause
+* dt
+- vùng đỉnh của tầng đối lưu
+ @tropophil
+- Cách viết khác : tropophilous 
+ @tropophilous
+- Cách viết khác : tropophil 
+ @tropophyte
+* dt
+- thực vật thích nghi với thay đổi mùa, thực vật thích nghi với mọi điều kiện
+- thực vật nhiệt đới
+ @troposphere  
+*  dt
+- (địa lý,địa chất) tầng đối lưu
+
+@troposphere
+- vl(đại số) tầng đối lưu
+ @troppo
+* tt
+- (Ôxtrâylia,  (thông tục)) thần kinh bị nhiễu loạn bởi nhiệt độ của nhiệt đới
+ @trot  
+*  dt
+- nước kiệu
+
++ to ride the horse at a steady trot: cưỡi ngựa đi nước kiệu đều
+
++ to put a horse to the trot: bắt ngựa chạy nước kiệu
+- sự chuyển động nhanh; sự bận rộn
+
++ to be on the trot: bận, bận rộn
+
++ to keep someone on the trot: bắt ai làm hết việc này đến việc nọ
+- em bé mới tập đi
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bản dịch đối chiếu
+- (nghĩa bóng) mụ
+
++ old trot: mụ già
+*  ngdgt
+- cho đi nước kiệu, bắt đi nước kiệu
+
++ to trot a horse: bắt ngựa đi nước kiệu
+
++ to trot someone off his legs: bắt ai chạy cho mệt lử
+- chạy nước kiệu được
+
++ to trot two miles: chạy nước kiệu được hai dặm
+*  ndgt
+- đi nước kiệu (ngựa)
+- chạy lóc cóc; chạy lon ton
+!to trot out
+- cho (ngựa) đi diễu
+- (thông tục) trưng bày, khoe, phô trương
+
++ to trot out one's knowledge: phô trương kiến thức của mình
+
++ to trot out a new hat: khoe cái mũ mới
+
+@troth  
+*  dt
+- (từ cổ,nghĩa cổ) lòng thành thật
+
++ by my troth: với danh dự của tôi; một cách thành khẩn chân thành
+
++ to plight one's troth: hứa; hứa kết hôn
+- sự thật
+
++ in troth: có thật, quả thật
+
+@trotline
+* dt
+- sợi dây mắc nhiều lưỡi câu
+ @trotskyism
+* dt
+- (Trotskyism) chủ nghĩa Tờ-rốt-ki (tư tưởng <chtrị> và <kinh tế> của Leon Trotsky, nhất là nguyên lý về cuộc Cách mạng Xã hội chủ nghĩa trên toàn thế giới)
+ @trotskyist
+* dt
+- (Trotskyist) người theo chủ nghĩa Tờ-rốt-kít; người ủng hộ Tờ-rốt-kít
+ @trotskyite
+- (Trotskyist) người theo chủ nghĩa Tờ-rốt-kít; người ủng hộ Tờ-rốt-kít
+ @trotter  
+*  dt
+- ngựa chạy nước kiệu
+- (số nhiều) chân giò
+
++ pig's trotters: chân giò lợn
+-(đùa cợt) chân, cẳng (người)
+
+@trotting
+* dt
+- (thể dục thể thao) sự phi ngựa nước kiệu và kéo xe hai bánh mang người lái
+ @trotyl
+* dt
+- (hàng hoá) trotyl; trinitrotoluen
+ @troubadour  
+*  dt
+- (sử học) Trubađua, người hát rong (ở Pháp)
+
+@trouble  
+*  dt
+- điều lo lắng, điều phiền muộn
+
++ to be in trouble: có chuyện phiền muộn, không vui; bị mắng, bị phê bình, bị phạt
+
++ family troubles: những chuyện lo lắng về gia đình
+
++ to get into trouble: gặp chuyện không hay phải lo nghĩ; có mang, có chửa (gái chưa chồng)
+
++ to get someone into trouble: gây chuyện không hay cho ai, làm cho ai phải phiền muộn lo lắng; làm cho ai có (mang chửa)
+
++ to ask (look) for trouble: (từ lóng) chuốc lấy sự phiền luỵ
+- sự làm phiền, sự quấy rầy; điều phiền hà
+
++ did it give you much trouble?: cái đó có làm phiền anh nhiều không?
+
++ I don't like putting you to so much trouble: tôi không thích làm phiền anh nhiều đến thế
+
++ to spare someone trouble: khỏi phiền đến ai, tránh làm phiền ai
+- sự chịu khó, sự cố gắng; sự khó nhọc
+
++ to take the trouble to do something: chịu khó làm việc gì; mất công khó nhọc làm việc gì
+- tình trạng bất an, tình trạng rắc rối, tình trạng lộn xộn, tình trạng rối loạn
+
++ labour troubles: những vụ đình công
+- trạng thái khó ở, tình trạng mắc bệnh; bệnh
+
++ digestive troubles: rối loạn tiêu hoá
+
++ children's troubles: bệnh trẻ em
+- (kỹ thuật) sự hỏng hóc, sự trục trắc (của máy)
+*  ngdgt
+- làm đục
+
++ to trouble the water: làm cho nước đục lên
+- làm phiền, quấy rầy
+
++ may I trouble you for the pepper?: phiền anh đưa cho tôi lọ hạt tiêu
+- làm cho lo lắng, làm phiền muộn, làm băn khoăn
+
++ don't trouble yourself about that: đừng băn khoăn lo lắng về chuyện đó
+- làm cho khổ sở, làm cho đau đớn
+
++ the child is troubled by (with) a cough every winter: mùa rét nào đứa bé cũng khổ vì bệnh ho
+*  ndgt
+- lo nghĩ, lo lắng, băn khoăn, bận tâm
+
++ don't trouble about me: đừng lo lắng gì về tôi cả
+
++ oh, don't trouble, thanks: thôi khỏi phiền, xin cảm ơn anh; xin anh đừng bận tâm
+
+@troubled  
+*  tt
+- đục, không trong
+- không yên, băn khoăn, lo lắng, bồn chồn
+
++ sleep: giấc ngủ không yên
+- rối loạn, hỗn loạn
+
++ troubled time: thời buổi hỗn loạn
+!to fish in troubled waters
+- (xem) fish
+
+@trouble-free
+* tt
+- (kỹ thuật) không hỏng hóc, không trục trặc, không sự cố (như) trouble-proof
+ @troublemaker  
+*  dt
+- kẻ gây rối loạn kẻ phá rối
+
+@trouble-proof
+* tt
+- xem trouble-free
+ @troubler  
+*  dt
+- người làm rầy, người gây rối loạn
+
+@troubleshoot
+- chữa, sửa chữa
+ @trouble-shooter  
+*  dt (từ Mỹ,nghĩa Mỹ),  (thông tục)
+- thợ chữa máy
+- nhà ngoại giao có tài dàn xếp những chuyện rắc rối
+
+@troubleshooter
+* dt
+- thợ chữa máy
+- người dàn xếp
+ @troubleshooting
+* dt
+- việc sửa hỏng hóc, việc xử lý sự cố
+ @troublesome  
+*  tt
+- quấy rầy, khó chịu
+
++ a troublesome child: một đứa trẻ hay quấy rầy
+- rắc rối, rầy rà, phiền phức, lôi thôi
+
++ a troublesome problem: một vấn đề rắc rối rầy rà
+
++ how troublesome!: phiền phức làm sao!
+- mệt nhọc, khó nhọc, vất vả
+
++ a troublesome job: một việc khó nhọc
+
+@trouble-spot
+* dt
+- điểm sôi động (nơi thường xuyên xảy ra những sự rắc rối, đặc biệt là ở một nước đang có chiến tranh)
+ @troublous  
+*  tt
+- (từ cổ,nghĩa cổ) loạn, rối loạn, hỗn loạn
+
++ troublous times: thời buổi hỗn loạn
+
+@trou-de-loup
+* dt
+- số nhiều trou-de-loup
+- hầm chông
+ @trough  
+*  dt
+- máng ăn (cho vật nuôi)
+- máng xối, ống xối (để tiêu nước)
+- máng nhào bột (để làm bánh mì)
+
++ hải trough of the sea: lõm giữa hai ngọn sóng
+
++ to lie in the trough of the sea: nằm giữa hai ngọn sóng
+
+@trough
+- máng, chỗ lõm
+- t. of a time series cực tiểu của chuỗi thời gian
+- t. of a wave hõm sóng 
+ @troughing
+* dt
+- hệ thống máng
+ @trounce  
+*  ngdgt
+- quất, đanh đòn, quật cho một trận
+- (thông tục) đánh bại, đánh thua tơi bời
+- quở trách, mắng mỏ, xỉ vả
+
+@troupe  
+*  dt
+- đoàn (kịch), gánh (hát)
+
+@trouper
+* dt
+- thành viên của một gánh hát
+- <thgt> người trung thành đáng tin cậy
+ @trouser
+* tt
+- của quần, cho quần
+ @trousering  
+*  dt
+- vải may quần
+
+@trousers  
+*  dt số nhiều
+- quần ((cũng) pair of trousers)
+
+@trouser-suit
+* dt
+- bộ áo vét và quần dài của phụ nữ
+ @trousseau  
+*  dt,  số nhiều trousseaux,  trousseaus
+- quần áo tư trang (của cô dâu)
+
+@trousseaux  
+*  dt,  số nhiều trousseaux,  trousseaus
+- quần áo tư trang (của cô dâu)
+
+@trout  
+*  dt,  số nhiều không đổi
+- (động vật học) cá hồi
+!old trout
+- (thông tục) con đĩ già
+*  ndgt
+- câu cá hồi
+
+@troutlet   (troutling) @troutling   (troutling) @trouty  
+*  tt
+- có nhiều cá hồi (sông)
+
+@trouvaille
+* dt
+- một phát hiện bất ngờ, độc đáo
+- ý kiến độc đáo
+ @trove
+* tt
+- tìm ra
+* dt
+- vật tìm ra
+ @trover
+* dt
+- (pháp lý) sự kiện đòi trả lại tài sản bị người khác chiếm đoạt bất hợp pháp
+ @trow  
+*  dgt
+- (từ cổ,nghĩa cổ) nghĩ; tin tưởng
+
+@trowel  
+*  dt
+- (kiến trúc) cái bay (của thợ nề)
+- (nông nghiệp) cái xẻng bứng cây (để đánh cây con)
+!to lay it on with a trowel
+- (nghĩa bóng) nịnh nọt một cách lố bịch, nịnh ra mặt
+*  ngdgt
+- (kiến trúc) trát bằng bay
+
+@troy  
+*  dt
+- troy weight hệ thống trọng lượng tơrôi (dùng trong việc cân vàng bạc ở Anh)
+
+@troy weight
+* dt
+- hệ tơrôi (hệ thống trọng lượng của Anh dùng để cân vàng, bạc và trong đó 1 pao 
++  12 ao hoặc 5760 gren)
+ @truancy  
+*  dt
+- sự trốn học
+
+@truant  
+*  dt
+- học sinh trốn học
+
++ to play truant: trốn học
+- (từ cổ,nghĩa cổ) người trốn việc
+*  tt
+- hay trốn học, hay trốn việc; lêu lổng; lười biếng
+
++ a truant boy: đứa bé hay trốn học
+
++ truant thoughts: ý kiến lông bông
+*  ndgt
+- trốn học, trốn việc; lêu lông
+
+@truanting
+* dt
+- sự trốn học
+ @truce  
+*  dt
+- sự ngừng bắn
+
++ to ask for a truce: yêu cầu ngừng bắn
+
++ truce breaker: người vi phạm lệnh ngừng bắn
+- (nghĩa bóng) sự tạm ngừng, sự tạm nghỉ, sự tạm đình
+
++ let there be a truce to that: hãy ngừng việc đó một thời gian
+
++ truce to jesting!: thôi không đùa nữa!
+
+@truceless  
+*  tt
+- không ngừng, không dứt
+
+@truck  
+*  dt
+- sự trao đổi, sự đổi chác
+- đồ linh tinh, hàng vặt
+- (nghĩa bóng) chuyện nhảm, chuyện tầm bậy
+- (từ Mỹ,nghĩa Mỹ) rau (trồng để bán)
+- quan hệ
+
++ to have no truck with: không có quan hệ gì với, không có dính dáng gì đến
+- (sử học) chế độ trả lương bằng hiện vật ((cũng) truck system)
+*  dgt
+- buôn bán; đổi chác
+
++ to truck with someone: buôn bán với ai
+
++ to truck a horse for a cow: đổi con ngựa lấy con bò
+- bán rong (hàng hoá)
+*  dt
+- xe ba gác
+- xe tải
+- (ngành đường sắt) toa chở hàng (không có mui)
+- (ngành đường sắt) xe dỡ hành lý (ở ga xe lửa)
+*  ngdgt
+- chở bằng xe ba gác
+- chở bằng xe tải
+- chở bằng toa chở hàng
+
+@truck system
+* dt
+- <sử> chế độ trả lương bằng hiện vật
+ @truckage  
+*  dt
+- sự chở bằng xe ba gác
+- sự chở bằng xe tải
+- sự chở bằng toa chở hàng
+
+@trucker   (trucker) @truckful  
+*  dt
+- xe (đẩy)
+- toa (đẩy)
+
+@trucking
+* dt
+- <Mỹ> việc chở hàng bằng xe tải
+ @truckle  
+*  dt
+- (như) truckle-bed
+*  ndgt
+- luồn cúi, xu phụ
+
++ to truckle to someone: luồn cúi ai
+
+@truckle-bed   (trundle-bed) @truckler  
+*  dt
+- người luồn cúi, người xu phụ
+
+@truckload
+* dt
+- trọng lượng vận tải của xe tải
+ @truckman   (trucker) @truckmaster
+* dt
+- (từ cổ, nghĩa cổ) sĩ quan lo việc buôn bán với người da đỏ
+ @truck-mounted
+* tt
+- được lắp trên xe tải, được lắp trên toa xe hàng, được lắp trên ô tô tải
+ @truck-trailer
+* dt
+- xe tải có xe moóc
+ @truculence   (truculency) @truculency   (truculency) @truculent  
+*  tt
+- tàn bạo, tàn nhẫn
+- hùng hổ, hung hăng
+
+@truculently
+* dt
+- ngỗ ngược, hung hăng, hùng hổ
+ @trudge  
+*  dt
+- sự đi mệt nhọc, sự lê bước
+*  dgt
+- đi mệt nhọc, lê bước
+
+@trudgen  
+*  dt
+- kiểu bơi trơtjơn ((cũng) trudgen stroke)
+
+@trudgen stroke
+* dt
+- kiểu bơi trơtjơn
+ @true  
+*  tt
+- thật, thực, đúng, xác thực
+
++ is the news true?: tin ấy có thực không?
+
++ to come true: trở thành sự thật
+- chân chính
+
++ a true man: một người chân chính
+- thành khẩn, chân thành
+- trung thành
+
++ to be true to one's fatherland: trung với nước
+
++ true to one's promise: trung thành với lời hứa, giữ đúng lời hứa
+- đúng, chính xác
+
++ true description: sự mô tả chính xác; sự mô tả trung thành
+
++ true voice: (âm nhạc) giọng đúng
+
++ true to specimen: đúng với mẫu hàng
+- đúng chỗ
+
++ is the wheel true?: bánh xe đã lắp đúng chỗ chưa?
+*  dt
+- thật, thực
+
++ tell me true: nói thật với tôi đi
+- đúng
+
++ to sing true: hát đúng
+
++ to aim true: nhắm đúng
+*  dt
+- (kỹ thuật) vị trí đúng
+- sự lắp đúng chỗ
+*  ngdgt
+- (kỹ thuật) (: up) điều chỉnh cho đúng chỗ
+
++ to true up a wheel: điều chỉnh cái bánh xe cho đúng chỗ
+
+@true-blue  
+*  tt
+- trung thành (với đảng...)
+- giữ vững nguyên tắc, kiên trì nguyên tắc
+*  dt
+- người rất trung thành
+- người kiên trì nguyên tắc
+
+@true-born  
+*  tt
+- chính cống, đúng nòi, đúng giống
+
++ a true-born Englishman: một người Anh chính cống
+
+@true-bred  
+*  tt
+- nòi
+
++ a true-bred horse: ngựa nòi
+
+@trueffle
+- Nấm cục, nấm truyp
+ @true-hearted  
+*  tt
+- chân thành, thành thực
+- trung thành
+
+@true-life
+* tt
+- có thật, thực tế đã xảy ra
+ @true-love  
+*  dt
+- người yêu
+- nơ thắt hình con số 8 ((cũng) true-love knot,  true-lover's knot)
+
+@true-north
+* dt
+- chính Bắc (hướng Bắc theo trục quả đất, không phải hướng Bắc theo la bàn)
+ @truepenny  
+*  dt
+- (từ cổ,nghĩa cổ) con người tử tế
+
+@true-to-shape
+* tt
+- đúng nguyên mẫu, đúng hình dáng
+ @truetype
+- Một công nghệ tạo phông chữ kèm theo System 7 của hãng Apple Computer và Microsoft Windows 3 1 nó đưa ra các phông chữ có thể thay đổi tỉ lệ cho màn hình và máy in của các hệ Macitosh và Windows
+ @truffle  
+*  dt
+- (thực vật học) nấm cục, nấm truyp
+
+@truffled
+* tt
+- có bỏ thêm nấm; có thêm gia vị
+ @trug
+* dt
+- sọt nông, giỏ cạn hình thuôn (của người làm vườn dùng để chở dụng cụ, cây trồng )
+ @truism  
+*  dt
+- sự thật quá rõ ràng, lẽ hiển nhiên, chuyện cố nhiên
+
++ I am merely uttering a truism: tôi chỉ phát biểu một sự thật ai cũng biết
+
+@truistic
+* tt
+- hiển nhiên
+ @trull  
+*  dt
+- (từ cổ,nghĩa cổ) gái điếm, đĩ
+
+@truly  
+*  dt
+- thật, sự thật, đúng
+
++ the truly great: những người thật sự vĩ đại
+- thành thật, thành khẩn, chân thành
+
++ to be truly grateful: thành thật biết ơn
+- trung thành
+- thật ra, thật vậy
+
++ truly, I cannot say: thật vậy, tôi không thể nói được
+!Yours truly
+- (xem) yours
+
+@trump  
+*  dt
+- (từ cổ,nghĩa cổ),  (thơ ca) kèn trompet
+- tiếng kèn
+
++ the last trump; the trump of doom: tiếng kèn báo ngày tận thế
+*  dt
+- lá bài chủ
+
++ a trump card: quân bai chủ
+
++ to play a trump card: chơi lá bài chủ ((nghĩa đen) & (nghĩa bóng))
+
++ to hold all the trumps: nắm được tất cả bài chủ trong tay; (nghĩa bóng) nắm được tất cả những yếu tố thắng lợi trong tay
+- (thông tục) người tốt; người cừ; người giàu có; người hào phóng
+!to put someone to his trumps
+- làm cho ai bí, (lúng túng, quẫn lên); dồn ai đến bước đường cùng
+!to turn up trumps
+- may mắn, đỏ
+- thành công quá sự mong đợi
+*  ngdgt
+- cắt bằng quân bài chủ
+*  ndgt
+- chơi bài chủ (đen & bóng)
+!to trump up
+- bịa ra để đánh lừa, bày đặt để đánh lừa
+
+@trump
+- (lý thuyết trò chơi) lá bài ăn, quân chủ bài
+ @trump-card
+* dt
+- quân bài chủ (quân bài thuộc hoa chủ)
+- <bóng> chủ bài; nguồn có giá trị nhất
+ @trumpery  
+*  dt
+- đồ mã, hàng mã
+- vật tạp nhạp, vật vô giá trị
+- lời nhảm nhí dại dột
+*  tt
+- chỉ tốt mã, hào nhoáng bề ngoài
+
++ trumpery jewels: đồ nữ trang chỉ hào nhoáng bề ngoài, đồ nữ trang giả
+- chỉ đúng bề ngoài
+
++ trumpery argument: lập luận chỉ đúng bề ngoài
+
+@trumpet  
+*  dt
+- (âm nhạc) kèn trompet
+- tiếng kèn trompet
+- người thổi trompet (ở ban nhạc)
+- (như) ear-trumpet
+!to blow one's own trumpet
+- (xem) blow
+*  ngdgt
+- thổi kèn để loan báo (việc gì); công bố, loan báo
+*  ndgt
+- thổi kèn trompet
+- rống lên (voi...)
+
+@trumpet-call  
+*  dt
+- tiếng kèn gọi
+- tiếng kèn xung trận (nghĩa bóng)
+
+@trumpeter  
+*  dt
+- người thổi trompet
+- lính kèn
+- (động vật học) thiên nga kèn (kêu như tiếng kèn)
+- (động vật học) chim bồ câu kèn
+!to be one's own trumpeter
+- tự mình khoe mình, khoe khoang khoác lác
+
+@truncal  
+*  tt
+- (thuộc) thân (người, cây...)
+
+@truncate  
+*  ngdgt
+- chặt cụt, cắt cụt
+- (nghĩa bóng) cắt xén, bỏ bớt (một đoạn văn...)
+*  tt: (truncated) 
+@truncate
+- chặt, cắt cụt
+ @truncated  
+*  ngdgt
+- chặt cụt, cắt cụt
+- (nghĩa bóng) cắt xén, bỏ bớt (một đoạn văn...)
+*  tt: (truncated) 
+@truncated
+- bị chặt, bị cắt cụt
+ @Truncated earnings function
+- (Econ) Hàm thu nhập rút gọn.
+: Một kiểm nghiệm giả thuyết của thị trường lao động NHỊ NGUYÊN rằng cơ chế quyết định tiền công khác nhau giữa khu vực thứ nhất và thứ hai của thị trường lao động, khu vực thứ nhất trả cho VỐN NHÂN LỰC, khu vực thứ hai trả cho những người vừa không có kinh nghiệm và không có học vấn.
+ @truncation  
+*  dt
+- sự chặt cụt, sự cắt cụt
+
+@truncation
+- sự chặt cụt; sư bỏ hết các số hạng
+ @truncheon  
+*  dt
+- dùi cui (của cảnh sát)
+- gậy chỉ huy
+*  ngdgt
+- đánh bằng dùi cui
+
+@trundle  
+*  dt
+- bánh xe nhỏ
+- xe tải bánh thấp
+- (như) truckle-bed
+*  ngdgt
+- lăn (vòng...), làm cho lăn, đẩy
+
++ to trundle a wheelbarrow: đẩy xe cút kít
+*  ndgt
+- lăn
+
++ the tank trundled over the enemy's trench: xe tăng lăn trên chiến hào của quân địch
+!to trundle up and down
+- lên xuống hối hả
+
+@trundle-bed   (trundle-bed) @trundler
+* dt
+- (NZ) xe đẩy trẻ con
+- (NZ) túi có bánh xe
+ @trunk  
+*  dt
+- thân (cây, cột, người, thú)
+- hòm, rương; va li
+- (như) trunk-line
+- vòi (voi)
+- (ngành mỏ) thùng rửa quặng
+- (số nhiều) (như) trunk hose
+*  ngdgt
+- rửa (quặng)
+
+@trunk drawers  
+*  dt số nhiều
+- quần cộc
+
+@trunk hose  
+*  dt
+- (sử học) quần đùi ((thế kỷ) 16 17)
+
+@trunk-call  
+*  dt
+- sự gọi dây nói liên tỉnh, sự gọi dây nói đường dài
+
+@trunked
+* tt
+- có một kiểu thân riêng
+
++  a grey trunked tree:cây thân xám
+ @trunkfish
+* dt
+- (động vật học) cá nóc hòm
+ @trunkful  
+*  dt
+- hòm (đầy)
+
+@trunklegs
+* dt số nhiều
+- chân ở ngực để bò
+ @trunkless
+* tt
+- không có thân
+ @trunk-line  
+*  dt
+- (ngành đường sắt) đường chính
+- đường dây điện thoại liên tỉnh
+
+@trunk-nail  
+*  dt
+- đinh đóng hòm
+
+@trunk-road  
+*  dt
+- đường chính
+
+@trunnion  
+*  dt
+- ngõng
+
++ the trunnion of a mill: cái ngõng cối xây
+
+@truss  
+*  dt
+- bó (rạ)
+- cụm (hoa)
+- (kiến trúc) vì kèo, giàn (mái nhà, cầu...)
+- (y học) băng giữ
+*  ngdgt
+- buộc, bó lại, trói gô lại
+
++ to truss a chicken before roasting: buộc chân và cánh gà trước khi quay
+
++ to truss hay: bó cỏ khô
+- (kiến trúc) đỡ (mái nhà...) bằng giàn
+- chụp, vồ, quắp (diều hâu...)
+
+@truss
+- (cơ học) dàn, khung; bó, chùm
+ @truss-bridge
+* dt
+- cầu treo
+ @trussing
+* dt
+- (kiến trúc) các bộ phận làm thành cái giàn
+- cái khung của một kiến trúc
+ @trust  
+*  dt
+- sự tín nhiệm, lòng tin, sự tin cậy
+
++ to have (put, repose) trust in someone: tin cậy ai, tín nhiệm ai
+
++ a breach of trust: sự bội tín
+
++ you must take what I say on trust: anh cứ tin vào lời tôi
+- niềm hy vọng, kỳ vọng, sự tin tưởng, sự trông mong
+
++ you are my sole trust: anh là nguồn hy vọng duy nhất của tôi, tôi chỉ biết trông mong vào anh
+- sự giao phó, sự phó thác, sự uỷ thác
+
++ to commit to someone's trust: giao phó cho ai trông nom, uỷ thác cho ai
+
++ to have in trust: được giao phó, được uỷ thác
+
++ to leave in trust: uỷ thác
+
++ to lold a property in trust: (pháp lý) trông nom một tài sản được uỷ thác
+- trách nhiệm
+
++ a position of great trust: một chức vị có trách nhiệm lớn
+- (thương nghiệp) sự mua chịu, sự bán chịu
+
++ to supply goods on trust: cung cấp hàng chịu
+
++ to deliver goods on trust: giao hàng chịu
+- (kinh tế) tơrơt
+*  ngdgt
+- tin, tin cậy, tín nhiệm; trông cậy
+
++ to trust someone: tin ai, tín nhiệm ai
+
++ his words can't be trusted: lời nói của nó không thể tin được
+- hy vọng
+
++ I trust that you are in good health: tôi hy vọng rằng anh vấn khoẻ mạnh
+
++ I trust to be able to join you: tôi hy vọng có thể đến với anh
+- giao phó, phó thác, uỷ thác
+
++ I know I can trust my children with you: tôi biết tôi có thể giao phó con cái tôi cho anh được
+- phó mặc, để mặc, bỏ mặc
+
++ I can't trust you out of my sight: tôi không thể phó mặc anh không trông nom dòm ngó gì đến
+- bán chịu, cho chịu
+
++ you can trust him for any amount: anh có thể cho hắn chịu bao nhiêu cũng được
+*  ndgt
+- trông mong, tin cậy
+
++ to trust to luck: trông vào sự may mắn
+
++ to trust in someone: tin ở ai
+
+@Trust
+- (Econ) Tờ-rớt.
+: Với tư cách là một thuật ngữ của luật học, thuật ngữ này áp dụng cho các thoả thuận được pháp luật quy định khác nhau mà theo đó tài sản thuộc về một cá nhân hay nhóm người được đặt trong tay những người uỷ thầcm, tuỳ thuộc vào loạ trớt, có thể thực sự quản lý chúng vì lợi ích của những người chủ sở hữu tài sản đó.
+ @trust
+- sự tin tưởng; (toán kinh tế) từ rớt, tín dụng
+ @trust company
+* dt
+- <Mỹ> công ty quản lý các tài sản ủy thác, vốn đầu tư )
+ @trust fund
+* dt
+- tài sản được giữ ủy thác cho ai
+ @trustable
+* tt
+- có thể tin cậy, có thể nhờ cậy, có thể ủy thác
+ @trust-buster
+* dt
+- viên chức có trách nhiệm chống lại các tơ-rớt
+ @trust-company
+* dt
+- xí nghiệp liên hiệp, công ty liên hiệp
+ @trust-deed
+* dt
+- văn kiện pháp lý chuyển giao tài sản cho người được ủy thác
+ @trustee  
+*  dt
+- người được uỷ thác trông nom
+
++ he is the trustee of nephew's property: anh ta là người được uỷ thác trông nom tài sản của cháu trai
+- uỷ viên quản trị (của một trường học, tổ chức từ thiện...)
+
++ board of trustees: ban quản trị
+
+@trusteeship  
+*  dt
+- nhiệm vụ người được uỷ thác; chức phận người được uỷ thác
+- chức vụ quản trị; trách nhiệm của người quản trị
+!Trusteeship council
+- hội đồng uỷ trị (Liên hiệp quốc)
+
+@truster
+* dt
+- người ủy thác
+ @trustful  
+*  tt
+- hay tin cậy, tin người, hay tín nhiệm; không nghi ngờ
+
+@trustfully
+* dt
+- tỏ ra tin cậy, tin người, không nghi ngờ
+ @trustfulness  
+*  dt
+- tính hay tin cậy, tính hay tín nhiệm
+
+@trustification  
+*  dt
+- sự tơrơt hoá
+
+@trustify  
+*  ngdgt
+- Tơrơt hoá, hợp lại thành tơrơt
+
+@trustiness  
+*  dt
+- (từ cổ,nghĩa cổ) tính chất đáng tin cậy
+
+@trusting
+* tt
+- tỏ ra tin cậy, tin người, không nghi ngờ
+ @trustingly  
+*  dt
+- tin cậy, tin tưởng
+
+@trustless  
+*  tt
+- không thể tin được
+- không trung thành
+
+@trustworthily
+* dt
+- đáng tin cậy
+ @trustworthiness  
+*  dt
+- tính chất đáng tin cậy
+
+@trustworthy  
+*  tt
+- đáng tin cậy
+
+@trusty  
+*  tt
+- (từ cổ,nghĩa cổ) đáng tin cậy
+*  dt
+- (từ cổ,nghĩa cổ) người tù được tin cậy
+
+@truth  
+*  dt
+- sự thật, lẽ phải, chân lý
+
++ to tell the truth: nói sự thật
+
++ the truth of science: chân lý khoa học
+
++ the truth is that...: sự thật là...
+- sự đúng đắn, sự chính xác
+
++ there is no truth in his report: trong bản báo cáo của hắn không có gì là chính xác cả (không có gì là đúng sự thực cả)
+- tính thật thà, lòng chân thật
+
++ I can rely on his truth: tôi có thể tin vào lòng chân thật của nó
+- (kỹ thuật) sự lắp đúng
+
++ the wheel is out of truth: bánh xe lắp lệch
+
+@truthful  
+*  tt
+- thực, đúng sự thực
+- thật thà, chân thật
+- (nghệ thuật) trung thành, chính xác
+
++ a truthful portrait: một bức chân dung trung thành
+
+@truthfully
+* dt
+- thực, đúng sự thực (lời nói)
+- thật thà, chân thật, không bao giờ nói dối (người)
+- <nghệ> trung thành, chính xác
+ @truthfulness  
+*  dt
+- tính đúng đắn, tính đúng sự thực
+- tính thật thà, tính chân thật
+- (nghệ thuật) tính trung thành, tính chính xác
+
+@truthless  
+*  tt
+- không đúng sự thực, dối trá
+
++ a truthless witness: một bằng chứng không đúng sự thực
+- gian dối, không thật thà, không chân thật
+
+@truthlessness  
+*  dt
+- tính không đúng sự thực, tính dối trá
+- tính gian dối, tính không thật thà
+
+@try  
+*  dt
+- sự thử, sự làm thử
+
++ to have a try at...: thử làm...
+*  ngdgt
+- thử, thử xem, làm thử
+
++ to try a new car: thử một cái xe mới
+
++ try your strength: hãy thử sức anh
+
++ let's try which way takes longest: chúng ta hãy đi thử xem đường nào dài nhất
+- dùng thử
+
++ to try a remedy: dùng thử một phương thuốc
+
++ to try someone for a job: dùng thử một người trong một công việc
+- thử thách
+
++ to try someone's courage: thử thách lòng can đảm của ai
+- cố gắng, gắng sức, gắng làm
+
++ to try an impossible feat: cố gắng lập một kỳ công không thể có được
+
++ to try one's best: gắng hết sức mình
+- xử, xét xử
+
++ to try a case: xét xử một vu kiện
+- làm mệt mỏi
+
++ small print try the eyes: chữ in nhỏ làm mỏi mắt
+*  ndgt
+- thử, thử làm; toan làm, chực làm
+
++ it's no use trying: thử làm gì vô ích
+
++ he tried to persuade me: nó chực thuyết phục tôi
+
++ try and see: thử xem
+- cố, cố gắng, cố làm
+
++ I don't think I can do it but I'll try: tôi không nghĩ rằng tôi có thể làm việc đó, nhưng tôi sẽ cố gắng
+
++ to try to behave better: cố gắng ăn ở tốt hơn
+!to try after (for)
+- cố gắng cho có được; tìm cách để đạt được
+
++ he tries for the prize by did not get it: nó cố tranh giải nhưng không được
+!to try back
+- lùi trở lại (vấn đề)
+!to try on
+- mặc thử (áo), đi thử (giày...)
+!to try out
+- thử (một cái máy); thử xem có được quần chúng thích không (vở kịch)
+- (hoá học) tính chế
+
++ to try out fat: tinh chế mỡ
+!to try over
+- thử (một khúc nhạc)
+!to try up
+- bào (một tấm ván)
+!to try it on with someone
+- (thông tục) thử cái gì vào ai
+
+@try
+- thử t. back thử lại; t. for tìm 
+ @trying  
+*  tt
+- nguy ngập, gay go, khó khăn
+
++ trying situation: tình hình nguy ngập gay go
+- làm mệt nhọc, làm mỏi mệt
+
++ trying light: ánh sáng làm mệt mắt
+- khó chịu, phiền phức
+
++ a trying man: một người khó chịu
+
++ trying event: sự việc phiền phức
+
+@trying-plane  
+*  dt
+- cái bào
+
+@try-on  
+*  dt
+- (thông tục) mánh lưới, đòn phép
+
+@try-out  
+*  dt
+- sự thử
+
+@trypanocide
+* dt
+- (y học) thuốc diệt trùng mũi khoan
+ @trypanosome  
+*  dt
+- (y học) trùng tripanosoma
+
+@trypanosomiasis
+- dt,  số nhiều trypanosomiases
+ @trypanosomic
+* tt
+- thuộc trùng mũi khoan
+ @tryprin  
+*  dt
+- (sinh vật học) Tripxin
+
+@trypsin
+* dt
+- (sinh vật học) tripxin
+ @trypsinogen
+* dt
+- (sinh vật học) tripxinogen
+ @tryptamine
+* dt
+- (hoá học) triptamin
+ @tryptic
+* tt
+- (sinh vật học) thuộc tripxin
+ @trysail
+* dt
+- thuyền buồm dọc
+ @trysin  
+*  dt
+- nơi hẹn hò
+- sự hẹn hò
+
++ to keep trysin: giữ lời hẹn, đến nơi hẹn
+
++ to break trysin: lỗi hẹn, không đến nơi hẹn
+
+@tryst  
+*  ngdgt
+- hẹn hò, hẹn gặp
+
+@

@@ -1,0 +1,4532 @@
+@flab
+* dt
+- tình trạng mềm nhão cơ bắp ở người
+ @flabbergast  
+*  ngdgt
+- làm sửng sốt, làm kinh ngạc, làm lặng đi vì kinh ngạc
+
+@flabbily
+* dt
+- nhẽo nhèo, ủy mị
+ @flabbiness  
+*  dt
+- tính nhũn, tính mềm, tính nhão
+- tính mềm yếu, tính uỷ mị
+
+@flabby  
+*  tt
+- nhũn, mềm, nhẽo nhèo
+
++ a flabby muscle: bắp thịt nhẽo nhèo
+- (nghĩa bóng) mềm yếu, uỷ mị
+
++ flabby will: ý chí mềm yếu
+
++ flabby character: tính nết uỷ mị
+
+@flabellate   (flabelliform) @flabelliform   (flabelliform) @flabellinerved
+* tt
+- xẻ gân dạng quạt
+ @flabellum
+* dt
+- cơ quan dạng quạt; nhánh dạng quạt; thùy lưỡi xẻ dạng quạt
+ @flaccid  
+*  tt
+- mềm, nhũn (thịt); ẻo lả
+- yếu đuối, uỷ mị
+
+@flaccidity  
+*  dt
+- tính chất mềm, tính chất nhũn; tính chất ẻo lả
+- sự yếu đuối, tính uỷ mị
+
+@flaccidness
+* dt
+- xem flacidity
+ @flack
+* dt
+- (từ Mỹ, nghĩa Mỹ) nhân viên báo chí chuyên về quảng cáo
+ @flag  
+*  dt
+- (thực vật học) cây irit
+*  dt
+- phiến đá lát đường ((cũng) flag stone)
+- (số nhiều) mặt đường lát bằng đá phiến
+*  ngdgt
+- lát bằng đá phiến
+*  dt
+- lông cánh (chin) ((cũng) flag feather)
+*  dt
+- cờ
+
++ to hoist the flag: kéo cờ trên đất mới khám phá
+- (hàng hải) cờ lệnh (trên tàu có hàng đô đốc)
+- đuôi cờ (của một loại chó săn)
+!to boist one's flag
+- nhận quyền chỉ huy
+!to strike one's flag
+- từ bỏ quyền chỉ huy
+- hạ cờ đầu hàng
+*  ngdgt
+- trang hoàng bằng cờ; treo cờ
+- ra hiệu bằng cờ
+- đánh dấu bằng cờ
+*  ndgt
+- yếu đi, giảm sút; héo đi
+
++ never flagging enthusiasm: nhiệt tình không bao giờ giảm sút
+- lả đi
+- trở nên nhạt nhẽo
+
++ conversation is flagging: câu chuyện trở nên nhạt nhẽo, câu chuyện trở nên rời rạc
+
+@flag
+- (Tech) cờ hiệu; ký hiệu, dấu hiệu; bộ chỉ báo; biểu tượng; bộ chắn sáng hình bóng (trong gương)
+ @flag bit
+- (Tech) bit cờ hiệu
+ @flag control
+- (Tech) kiểm soát cờ hiệu; kiểm soát bộ chỉ báo
+ @flag day  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) ngày lễ kỷ niệm lá cờ Mỹ (14 tháng 6)
+
+@flag field
+- (Tech) vùng cờ hiệu
+ @flag of truce  
+*  dt
+- (quân sự) cờ hàng; cờ điều đình
+
+@flag operand
+- (Tech) toán tố cờ hiệu
+ @flag register
+- (Tech) bộ ghi cờ hiệu
+ @flag-boat  
+*  dt
+- thuyền đích (trong cuộc đua)
+
+@flag-captain  
+*  dt
+- thuyền trưởng tàu đô đốc
+
+@flag-day  
+*  dt
+- ngày quyên tiền (những người đã quyên được phát một lá cờ nhỏ) ((từ Mỹ,nghĩa Mỹ) (cũng) tag day)
+
+@flagella  
+*  dt,  số nhiều flagella  @flagellant  
+*  tt
+- tự đánh đòn
+- hay đánh đòn
+*  dt
+- người tự đánh đòn ((cũng) flagellator)
+
+@flagellate  
+*  ngdgt
+- đánh đòn, trừng trị bằng roi
+*  tt
+- (sinh vật học) có roi; hình roi
+
+@flagellation  
+*  dt
+- hình phạt bằng roi
+- sự đánh bằng roi
+
+@flagellator  
+*  dt
+- người cầm roi đánh, người đánh bằng roi
+- (như) flagellant
+
+@flagellatory  
+*  tt
+- (thuộc) hình phạt bằng roi
+
+@flagelliform  
+*  tt
+- (sinh vật học) hình roi
+
+@flagellum  
+*  dt,  số nhiều flagella  @flageolet  
+*  dt
+- (âm nhạc) sáo dọc cổ
+*  dt
+- (thực vật học) đậu tây
+
+@flageoletist
+* dt
+- người chơi sáo dọc
+ @flagfish
+* dt
+- (dgt)
+- cá nắp mang gai đuôi hoa
+ @flagginess
+* dt
+- sự mềm yếu; sự nhu nhược; sự mềm nhũn
+- sự vô vị
+ @flagging  
+*  dt
+- sự lát đường bằng đá phiến
+- mặt đường lát bằng đá phiến
+
+@flaggy  
+*  tt
+- có nhiều cây irit
+
+@flagitious  
+*  tt
+- hung ác; có tội ác
+- ghê tởm (tội ác)
+
+@flagitiousness  
+*  dt
+- tính chất hung ác; tính chất tội ác
+- tính chất ghê tởm
+
+@flag-lieutenant  
+*  dt
+- sĩ quan cận vệ của đô đốc
+
+@flag-list  
+*  dt
+- (hàng hải) danh sách các sĩ quan cấp đô đốc
+
+@flagman  
+*  dt
+- người cầm cờ hiệu (ở các cuộc đua, ở nhà ga xe lửa...)
+- (từ Mỹ,nghĩa Mỹ) người cầm cờ
+
+@flag-officer  
+*  dt
+- (hàng hải) sĩ quan cấp đô đốc
+
+@flagon  
+*  dt
+- bình, lọ
+- hũ (đựng rượu)
+
+@flag-pole
+* dt
+- cột cờ
+ @flagrancy  
+*  dt
+- sự hiển nhiên, sự rành rành, sự rõ ràng
+- sự trắng trợn (tội lỗi, người phạm tội)
+
+@flag-rank  
+*  dt
+- (hàng hải) hàm đô đốc; hàm phó đô đốc
+
+@flagrant  
+*  tt
+- hiển nhiên, rành rành, rõ ràng
+- trắng trợn (tội lỗi, người phạm tội)
+
+@flagrantly
+* dt
+- trắng trợn, rành rành
+ @flagship  
+*  dt
+- (hàng hải) tàu đô đốc (trong đó có đô đốc)
+
+@flagstaff  
+*  dt
+- cột cờ
+
+@flag-station  
+*  dt
+- (ngành đường sắt) ga xép (xe lửa chỉ đỗ lại khi có vẫy cờ hiệu)
+
+@flagstation
+* dt
+- (đường sắt) ga xép (xe lửa chỉ dừng lại khi vẫy cờ hiệu)
+ @flagstone  
+*  dt
+- phiến đá lát đường
+
+@flag-wagging  
+*  dt
+- (từ lóng) sự ra hiệu (bằng cờ)
+
+@flag-waver  
+*  dt
+- người cầm đầu; người vận động
+
+@flag-waving
+* dt
+- sự biểu lộ tình cảm thái quá
+ @flail  
+*  dt
+- cái néo
+- cái đập lúa
+*  ngdgt
+- đập (lúa...) bằng cái đập lúa
+- vụt, quật
+
+@flair  
+*  dt
+- sự thính, sự tinh; tài nhận thấy ngay (cái gì tốt, cái gì lợi)
+
+@flak  
+*  dt
+- hoả lực phòng không
+
++ a flak ship: tàu phòng không (của Đức)
+
+@flake  
+*  dt
+- giàn, giá phơi (để phơi cá...)
+*  dt
+- bông (tuyết)
+
++ flake s of snow: bông tuyết
+- đóm lửa, tàn lửa
+- lớp (thịt của cá)
+- mảnh dẹt, váy (như cốm)
+
++ flakes of rust: vảy gỉ
+- (thông tục) cây cẩm chướng hoa vằn
+*  ndgt
+- rơi (như tuyết)
+- (: away,  off) bong ra
+
+@flake-knife
+* dt
+- số nhiều flake-knives
+- dao bằng mảnh đá
+ @flakiness
+* dt
+- tính dễ bong, tính dễ tróc
+ @flaky  
+*  tt
+- có bông (như tuyết)
+- dễ bong ra từng mảnh
+
+@flam  
+*  dt
+- chuyện bịa
+- sự đánh lừa
+
+@flambeau  
+*  dt,  số nhiều flambeaus  @flambeaux  
+*  dt,  số nhiều flambeaus  @flamboyance   (flamboyancy) @flamboyancy   (flamboyancy) @flamboyant  
+*  tt
+- chói lọi, sặc sỡ, rực rỡ, loè loẹt
+- (từ Mỹ,nghĩa Mỹ) hoa mỹ, khoa trương, cường điệu, kêu
+
++ a flamboyant speech: bài nói khoa trương
+- (kiến trúc) có những đường sóng như ngọn lửa
+*  dt
+- (thực vật học) cây phượng
+- hoa phượng
+
+@flamboyantly
+* dt
+- loè lẹt, khoa trương
+ @flame  
+*  dt
+- ngọn lửa
+
++ to be in flames: đang cháy
+
++ to burst into flames: bốc cháy
+- ánh hồng
+
++ the flames of sunset: ánh hồng lúc mặt trời lặn
+- cơn, cơn bừng bừng
+
++ a flame of snger: cơn giận
+
++ a flame of infignation: cơn phẫn nộ
+-(đùa cợt) người yêu, người tình
+
++ an old flame of mine: một trong những người tình cũ của tôi
+!to commit to the flames
+- đốt cháy
+!in fan the flame
+- đổ dầu vào lửa
+*  ndgt
+- ((thường) : away,  forth,  out,  up) cháy, bốc cháy, cháy bùng
+- bùng lên, bừng lên, nổ ra
+
++ face flames with anger: mặt đỏ bừng vì tức giận
+
++ anger flamed out: cơn giận nổi lên đùng đùng
+- phừng phừng (như lửa)
+*  ngdgt
+- ra (hiệu) bằng lửa
+- hơ lửa
+
++ sterilized by flaming: khử trùng bằng cách hơ vào lửa
+!to flame out
+- bốc cháy, cháy bùng
+- nổi giận đùng đùng, nổi xung
+!to flame up nh to flame out
+- thẹn đỏ bừng mặt
+
+@flame
+- (vật lí) ngọn lửa
+ @flame-cells
+* dt số nhiều
+- tế bào ngọn lửa
+ @flame-colour
+* dt
+- màu đỏ rực
+ @flameholder
+* dt
+- van giữ ngọn lửa
+ @flameless
+* tt
+- không có ngọn lửa
+ @flamen
+* dt
+- số nhiều flamens,  flaminess
+- (từ cổ La Mã) vị chủ tế
+ @flamenco
+* dt
+- điệu nhạc flamencô
+ @flame-projector   (flamer-thrower) @flame-proof
+* tt
+- chịu lửa; chống lửa
+ @flame-resisting
+* tt
+- chịu lửa; chống lửa
+ @flamer-thrower   (flamer-thrower) @flame-thrower
+* dt
+- <qsự> súng phun lửa
+ @flaming  
+*  tt
+- đang cháy, cháy rực
+- nóng như đổ lửa
+
++ a flaming sun: nắng như đổ lửa
+- nồng cháy, rừng rực, bừng bừng, hết sức sôi nổi
+
++ flaming enthusiasm: nhiệt tình sôi nổi
+- rực rỡ, chói lọi
+- thổi phồng, cường điệu; đề cao quá đáng
+!flaming onions
+- đạn chuỗi (phòng không)
+
+@flamingo  
+*  dt,  số nhiều flamingos  @flamingoes  
+*  dt,  số nhiều flamingos  @flammability
+* dt
+- tính bốc cháy được; tính dễ bốc cháy
+
++  surface flammability:tính dễ bốc cháy bề mặt
+ @flammable
+* tt
+- bén lửa, dễ cháy
+ @flammenwerfer  
+*  dt
+- súng phun lửa
+
+@flammulated
+* tt
+- có màu đỏ như lửa (chim)
+ @flamy  
+*  tt
+- (thuộc) lửa; như lửa
+
+@flan  
+*  dt
+- bánh flăng (phết mứt...)
+
+@flange  
+*  dt
+- (kỹ thuật) cái mép bích; mép, cạnh
+- (ngành đường sắt) mép bánh xe, vành bánh xe
+- gờ nổi
+*  ngdgt
+- làm cho có mép, làm cho có bờ, làm cho có gờ
+- lắp mép bánh xe, lắp vành bánh xe
+
+@flanged
+* tt
+- có bích; có gờ
+- có đai; có mép
+ @flange-joint
+* dt
+- chỗ lồi để lắp vào ống
+ @flangeless
+* tt
+- không bích; không gờ; không đai; không mép
+ @flange-machine
+* dt
+- máy tạo bích
+ @flange-mounted
+* tt
+- được lắp bích
+ @flanger
+* dt
+- máy gấp mép
+- lưới nạo tuyết (ở bánh tàu hoả)
+ @flank  
+*  dt
+- sườn, hông
+- sườn núi
+- (quân sự) sườn, cánh
+
++ to attack the left flank: tấn công phía sườn trái
+*  ngdgt (quân sự)
+- củng cố bên sườn
+- đe doạ bên sườn
+- tấn công bên sườn
+- đóng bên sườn, nằm bêm sườn
+- đi vòng sườn
+- quét (súng)
+*  ndgt
+- (: on,  upon) ở bên sườn
+
+@flanker  
+*  dt
+- công sự bảo vệ sườn; công sự đe doạ sườn
+- vật nằm bên sườn
+- (số nhiều) (quân sự) số người tấn công bên sườn
+
+@flannel  
+*  dt
+- vải flanen
+- mẩu vải flanen (để đánh bóng, lau chùi)
+- (số nhiều) quần bằng flanen, quần áo flanen; quần áo lót bằng flanen; đồ bằng flanen; các loại vải flanen
+*  tt
+- bằng flanen
+*  ngdgt
+- lau chùi bằng flanen
+- (từ Mỹ,nghĩa Mỹ) bọc flanen; mặc quần áo flanen cho (ai)
+
+@flannelet   (flannelette) @flannelette   (flannelette) @flannelled  
+*  tt
+- mặc quần bằng flanen, mặc quần áo bằng flanen
+
+@flap  
+*  dt
+- nắp (túi, phong bì, mang cá...)
+- vành (mũ); cánh (bàn gấp); vạt (áo); dái (tai)
+- sự đập, sự vỗ (cánh...)
+- cái phát đen đét, cái vỗ đen đét
+- (thông tục) sự xôn xao
+*  dgt
+- đập đen đét, đánh đen đét, vỗ đen đét
+
++ bird flaps wings: chim vỗ cánh
+
++ to flap flies away: đuổi ruồi
+- làm bay phần phật
+
++ the wind flaps the sails: gió thổi làm buồm bay phần phật
+- lõng thõng, lòng thòng (như cái dải)
+!to flap one's mouth; to flap about
+- nói ba hoa
+
+@flap
+- (cơ học) cánh tà sau (của máy bay); bảng chắn
+ @flap-covered
+* tt
+- có nắp đậy
+ @flapdoodle  
+*  dt
+- điều vô nghĩa, chuyện vớ vẩn
+
+@flap-door
+* dt
+- cánh cửa mở từ trên xuống
+ @flap-eared
+* tt
+- có đôi tai lòng thòng
+ @flaperons
+* dt số nhiều
+- cánh lái phối hợp tên lửa
+ @flap-hat
+* dt
+- mũ có vành rủ xuống
+ @flapjack  
+*  dt
+- bánh rán
+- hộp đựng phấn (bôi mặt)
+
+@flapper  
+*  dt
+- vỉ ruồi
+- cái đập lạch cạch (để đuổi chim)
+- vịt trời con; gà gô non
+- cánh (bà xếp); vạt (áo); vây to (cá); đuôi (cua, tôm...)
+- (từ lóng) cô gái mới lớn lên
+- (từ lóng) bàn tay
+- người tác động đến trí nhớ; vật tác động đến trí nhớ
+
+@flapperdom
+* dt
+- thiếu nữ ngây thơ
+ @flapping
+* dt
+- sự đập; sự vỡ
+ @flare  
+*  dt
+- ngọn lửa bừng sáng, lửa léo sáng; ánh sáng loé
+- ánh sáng báo hiệu (ở biển)
+- (quân sự) pháp sáng
+- chỗ xoè (ở váy)
+- chỗ loe ra; chỗ khum lên (ở mạn tàu)
+- (nhiếp ảnh) vết mờ (ở phim ảnh do bị loé sáng)
+*  ndgt
+- sáng rực lên, loé sáng, cháy bùng lên
+- loe ra (sườn tàu), xoè ra (váy)
+
++ the skirt flares at the knees: váy xoè ra ở chỗ đầu gối
+- (quân sự) ra hiệu bằng pháo sáng
+*  ngdgt
+- làm loe ra, làm xoè ra
+- (động tt quá khứ) loè loẹt, lồ lộ
+!to flare out (up)
+- loé lửa
+- nổi nóng, nổi cáu
+
+@flare-back  
+*  dt
+- ngọn lửa phụt hậu (lò cao, súng đại bác...)
+
+@flare-bomb
+* dt
+- (quân sự) đạn chiếu sáng
+ @flare-path  
+*  dt
+- (hàng không) đường băng có đèn sáng (để máy bay cất cánh, hạ cánh)
+
+@flare-up  
+*  dt
+- sự loé lửa
+- cơn giận
+- cuộc liên hoan ầm ĩ
+- sự bùng nổ (cuộc xung đột, chiến tranh)
+- sự làm choáng mắt (bóng)
+- sự nổi tiếng nhất thời
+
+@flaring
+* tt
+- chói lọi
+- hoa mỹ; rực rỡ
+- sáng chập chờn
+- phía dưới phồng ra (váy)
+ @flash  
+*  dt
+- ánh sáng loé lên; tia
+
++ a flash of lightning: ánh chớp, tia chớp
+
++ a flash of hope: tia hy vọng
+- (hoá học) sự bốc cháy
+- giây lát
+
++ in a flash: trong giây lát
+
++ a flash of merriment: cuộc vui trong giây lát
+- sự phô trương
+
++ out of flash: cốt để phô trương
+- (điện ảnh) cảnh hồi tưởng ((cũng) flash back)
+- (quân sự) phù hiệu (chỉ đơn vị, sư đoàn...)
+- dòng nước nâng (xả xuống phía dưới đập để nâng mực nước)
+- tiếng lóng kẻ cắp
+- (từ Mỹ,nghĩa Mỹ) tin ngắn; bức điện ngắn
+!a flash in the pan
+- chuyện đầu voi đuôi chuột
+- người nổi tiếng nhất thời
+*  ndgt
+- loé sáng, vụt sáng, chiếu sáng
+
++ lightning flashes across the sky: chớp loé sáng trên trời
+- chợt hiện ra, chợt nảy ra, vụt hiện lên, loé lên
+
++ an idea flashed upon him: anh ta chợt nảy ra một ý kiến
+!it flashed upon me that
+- tôi chợt nảy ra ý kiến là
+- chạy vụt
+
++ train flashes past: chuyến xe lửa chạy vụt qua
+- chảy ra thành tấm (thuỷ tinh)
+- chảy ào, chảy tràn ra (nước)
+*  ngdgt
+- làm loé lên, làm rực lên
+
++ eyes flash fire: mắt rực lửa
+
++ to flash a smile at someone: toét miệng cười với ai
+
++ to flash one's sword: vung gươm sáng loáng
+- truyền đi cấp tốc, phát nhanh (tin)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) khoe, phô, thò ra khoe
+!to flash a roll of money
+- thò ra khoe một tập tiền
+- làm (thuỷ tinh) chảy thành tấm
+- phủ một lần màu lên (kính)
+- cho nước chảy vào đầy
+!to flash in the pan
+- làm chuyện đầu voi đuôi chuột
+!to flash out (up)
+- nổi giận đùng đùng
+*  tt
+- loè loẹt, sặc sỡ
+- giả
+
++ flash money: tiền giả
+- lóng
+- ăn cắp ăn nẩy
+
+@flash card
+* dt
+- thẻ ghi chú
+ @flash memory
+- (Tech) bộ nhớ flash, bộ nhớ khó phai
+ @flashback  
+*  dt
+- (điện ảnh) cảnh hồi tưởng
+- đoạn dẫn, cảnh dẫn (đoạn văn hoặc cảnh trong vở kịch mô tả những sự việc xảy ra trước màn chính)
+
+@flash-board  
+*  dt
+- máng nước
+
+@flash-bulb  
+*  dt
+- (nhiếp ảnh) bóng đèn nháy
+
+@flash-card
+* dt
+- tờ phiếu có tranh, chữ, số để học cho nhanh
+ @flash-cube
+* dt
+- máy chụp ảnh có bốn đèn nháy để chụp bốn ảnh liên tiếp nhau
+ @flasher
+* dt
+- bộ phận tạo nhấp nháy; tiếp điểm; công tắc nhấp nháy
+ @flash-flood  
+*  dt
+- cơn lũ đột ngột (sau một trận mưa to)
+
+@flash-forward
+* dt
+- sự ngừng kể tiếp để đưa ra một việc hay một cảnh sẽ xuất hiện trong tương lai
+ @flashgun  
+*  dt
+- (nhiếp ảnh) đèn nháy, đèn flát (phối hợp với máy ảnh)
+
+@flash-house
+* dt
+- nơi ẩn náu của bọn bất lương
+ @flashily
+* dt
+- hào nhoáng, loè loẹt
+ @flashiness  
+*  dt
+- sự hào nhoáng, sự loè loẹt, sự sặc sỡ
+- tính thích chưng diện
+
+@flashing
+* dt
+- sự nung nóng từng đợt; sự tăng nhiệt độ từng đợt
+- (thủy lợi) sự dâng mức nước trong âu
+- tấm kim loại ngăn nước chảy từ mái xuống
+ @flashing-point   (flashing-point) @flashlamp
+* dt
+- đèn chiếu để chụp ảnh
+ @flash-light  
+*  dt
+- đèn hiệu
+- (nhiếp ảnh) đèn nháy, đèn flát, đèn pin
+
+@flashman
+* dt
+- số nhiều flashmen
+- người đạo tặc
+ @flashover
+* dt số nhiều
+- sự bắn tia lửa
+- (điện) sự đánh thủng lớp cách điện
+ @flash-point   (flashing-point) @flashy  
+*  tt
+- hào nhoáng, loè loẹt, sặc sỡ
+
++ flashy jewelry: đồ kim hoàn hào nhoáng
+- thích chưng diện
+
+@flask  
+*  dt
+- túi đựng thuốc súng
+- bình thót cổ (dùng trong phòng thí nghiệm)
+- chai bẹt, lọ bẹt (đựng rượu để trong bao da, bỏ túi được)
+- hũ rượu có vỏ mây đan
+- (kỹ thuật) khung khuôn, hòm khuôn
+
+@flasket  
+*  dt
+- thùng đựng quần áo giặt
+- bình nhỏ thót cổ (dùng trong phòng thí nghiệm)
+- chai bẹt nhỏ, lọ bẹt nhỏ (đựng rượu để trong bao da, bỏ túi được)
+- (từ cổ,nghĩa cổ) rổ rá
+
+@flast
+- (vật lí) tia sáng; sự nổ; sự bốc cháy
+ @flasvescent  
+*  tt
+- trở càng
+- hơi vàng, vàng nhạt
+
+@flat  
+*  dt
+- dãy phòng (ở một tầng trong một nhà khối)
+- (từ Mỹ,nghĩa Mỹ) căn phòng, căn buồng
+- (hàng hải) ngăn, gian
+- (từ hiếm,nghĩa hiếm) tầng
+- mặt phẳng
+- miền đất phẳng
+- lòng (sông, bàn tay...)
+
++ the flat of the hand: lòng bàn tay
+- miền đất thấp, miền đầm lầy
+- thuyền đáy bằng
+- rổ nông, hộp nông
+- (từ Mỹ,nghĩa Mỹ),  (ngành đường sắt) toa trần ((cũng) flat-car)
+- (sân khấu) phần phông đã đóng khung
+- (âm nhạc) dấu giáng
+- (số nhiều) giày đề bằng
+- (từ lóng) kẻ lừa bịp
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) lốp bẹp, lốp xì hơi
+!to join the flats
+- chắp vá lại thành một mảnh; giữ cho vẻ trước sau như một
+*  tt
+- bằng phẳng, bẹt, tẹt
+
++ a flat roof: mái bằng
+
++ a flat nose: mũi tẹt
+- sóng soài, sóng sượt
+
++ to knock somebody flat: đánh ai ngã sóng soài
+- nhãn
+- cùng, đồng (màu)
+- nông
+
++ a flat dish: đĩa nông
+- hoàn toàn, thẳng, thẳng thừng, dứt khoát
+
++ flat nonsense: điều hoàn toàn vô nghĩa
+
++ a flat denial: sự từ chối dứt khoát
+
++ and that's flat!: dứt khoát là như vậy!
+- nhạt, tẻ nhạt, vô duyên; hả (rượu...)
+
++ a flat joke: câu đùa vô duyên
+
++ flat beer: bia hả
+- ế ẩm
+
++ market is flat: chợ búa ế ẩm
+- không thay đổi, không lên xuống, đứng im (giá cả...)
+- bẹp, xì hơi (lốp xe)
+- bải hoải, buồn nản
+- (thông tục) không một xu dính túi, kiết xác
+- (âm nhạc) giáng
+*  dt
+- bằng, phẳng, bẹt
+- sóng sượt, sóng soài
+
++ to fall flat: ngã sóng soài
+- (nghĩa bóng) hoàn toàn thất bại
+
++ to lie flat: nằm sóng soài
+- hoàn toàn; thẳng, thẳng thừng, dứt khoát
+
++ to go flat against orders: hoàn toàn làm trái với mệnh lệnh
+!to tell somebody flat that
+- nói thẳng với ai rằng
+- đúng
+
++ to run the hundred-yard dush in ten seconds flat: chạy 100 iat đúng mười giây
+- (âm nhạc) theo dấu giáng
+*  ngdgt
+- làm bẹt, dát mỏng
+
+@flat
+- phẳng; bẹt
+- concircularly f. phẳng đồng viên
+- locally f. (hình học) phẳng địa phương, ơclit địa phương
+- projectively f.(hình học) phẳng xạ ảnh, ơclit xạ ảnh 
+ @flat antenna
+- (Tech) ăngten phẳng
+ @flat boat
+* dt
+- thuyền đáy bằng
+ @flat cable
+- (Tech) cáp dẹt
+ @flat race  
+*  dt
+- (thể dục,thể thao) cuộc chạy đua trên đất bằng (không phải vượt rào, vật chướng ngại...)
+
+@flat rate  
+*  dt
+- tỷ lệ cố định
+
+@flat response
+- (Tech) đáp tuyến phẳng
+ @flat tire
+* dt
+- lốp bẹp, lốp xì hơi
+- <Mỹ><lóng> người khó chịu, người quấy rầy
+ @flat TV tube
+- (Tech) ống tivi phẳng
+ @Flat yield
+- (Econ) Tiền lãi đồng loạt.
+: Một khoản tiền hàng năm được tính vào tiền lãi của một chứng khoán biểu hiện bằng tỷ lệ % của giá mua.
+ @flat-bed
+* dt
+- toa sàn phẳng; toa đĩa; ô tô sàn phẳng
+ @flatbed
+- hình phẳng (flatbed scanner: máy quét hình phẳng)
+ @flat-bottomed
+* tt
+- có đáy bằng (thuyền...)
+ @flat-car  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (ngành đường sắt) toa trần ((cũng) flat)
+
+@flat-chested
+* tt
+- ngực lép (đàn bà)
+ @flat-earther
+* dt
+- người tin là quả đất dẹt
+- người không tin vào lý thuyết khoa học
+ @flat-end
+* tt
+- có đầu phẳng; có đáy phẳng
+ @flat-file
+* tt
+- được giũa phẳng
+ @flat-fish  
+*  dt
+- (động vật học) loại cá bẹt (như cá bơn...)
+
+@flat-flowerd
+* tt
+- có hoa dẹt
+ @flat-foot  
+*  dt
+- (y học) bàn chân bẹt (tật)
+- (từ lóng) thằng thộn
+- (từ lóng) cảnh sát
+- (từ lóng) người đi biển, thuỷ thủ
+
+@flat-footed  
+*  tt
+- (y học) có bàn chân bẹt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) nhất quyết, cứng rắn
+
++ he came out flat-footed for the measure: nó nhất quyết ủng hộ biện pháp ấy
+!to catch flat-footed
+- (từ Mỹ,nghĩa Mỹ) bất chợt tóm được
+- bắt được quả tang
+
+@flat-hat
+* dt
+- mũ dẹt
+ @flat-head
+* dt
+- (động vật) cá chai
+* dtgười da đỏ Bắc Mỹ (làm cho đầu dẹt khi còn bé)
+* tt
+- (thuộc) người da đỏ Bắc Mỹ
+ @flat-iron  
+*  dt
+- bàn là
+
+@flatland
+* dt
+- bình nguyên bằng phẳng
+ @flatlet  
+*  dt
+- nhà nhỏ (một buồng)
+
+@flatling
+* dt
+- hoàn toàn
+ @flatly  
+*  dt
+- bằng, phẳng, bẹt
+- hoàn toàn; thẳng, thẳng thừng, dứt khoát
+
++ to refuse flatly: từ chối thẳng thừng
+
+@flatness  
+*  dt
+- sự bằng, sự phẳng, sự bẹt
+- tính chất thẳng thừng, tính chất dứt khoát
+
+@flatness
+- tính phẳng; tính bẹt
+ @flat-out  
+*  tt & dt
+- hết sức, hết tốc độ
+
+@flat-petaled
+* tt
+- có cuống dẹt
+ @flat-plate
+* dt
+- bàn phẳng; tấm phẳng
+ @flat-race
+* dt
+- cuộc chạy đua trên đất bằng phẳng
+ @flat-rate
+* dt
+- tỉ lệ cố định
+ @flat-sided
+* tt
+- có cạnh phẳng
+ @flatten  
+*  ngdgt
+- dát mỏng, dát phẳng, làm bẹt ra, san phẳng
+- đánh ngã sóng soài
+*  ndgt
+- trở nên phẳng bẹt
+- trở nên yên tĩnh, trở nên yên lặng, dịu lại
+
++ storm has flattened: bâo đã ngớt
+- bay hơi, bay mùi, hả
+
++ this beer has flattened: bia đã hả hơi
+!to flatten out
+- trải ra, trải phẳng
+- cho (máy bay) bay song song với mặt đất
+
+@flatten
+- làm bẹt, san bằng
+ @flattened
+* tt
+- dẹt; bằng phẳng
+ @flattener
+* dt
+- búa là; búa sửa phẳng
+- người làm cho bằng phẳng
+ @flatter  
+*  ngdgt
+- tâng bốc, xu nịnh, bợ đỡ; làm cho hãnh diện, làm cho thoả mãn tính hư danh
+- tôn lên
+
++ this photograph flatters her: bức ảnh này tôn vẻ đẹp của cô ta lên
+- làm cho (ai) hy vọng hão
+
++ don't flatter yourself that he will forgine you: đừng hy vọng hâo là hắn sẽ tha thứ cho anh
+- làm khoái; làm đẹp (mắt), làm vui (tai...)
+
++ to flatter oneself that: tự hào là, lấy làm hãnh diện là
+
++ he flattered himself that he was the best student of the class: anh ta tự hào là học sinh giỏi nhất lớp
+*  dt
+- (kỹ thuật) búa đàn
+
+@flatterer
+* dt
+- người tâng bốc, người xu nịnh, người bợ đỡ
+ @flattery  
+*  dt
+- sự tâng bốc, sự xu nịnh, sự bợ đỡ
+- lời tâng bốc, lời nịnh hót, lời bợ đỡ
+
+@flattie
+* dt
+- (thông tục) giày, dép đế dẹt
+- cảnh sát
+ @flat-tile
+* dt
+- ngói bằng
+ @flatting
+* dt
+- cách làm đồ vật bằng và láng
+ @flattish  
+*  tt
+- hơi bằng, hơi phẳng, hơi bẹt
+
+@flat-top  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tàu sân bay
+
+@flatulence   (flatulency) @flatulency   (flatulency) @flatulent  
+*  tt
+- đầy hơi
+- tự cao tự đại
+- huênh hoang rỗng tuếch (bài nói)
+
+@flatuous
+* tt
+- xem flatulent
+ @flatus  
+*  dt,  số nhiều flatuses,  flatus
+- hơi (trong dạ dày) rắm
+
+@flatuses  
+*  dt,  số nhiều flatuses,  flatus
+- hơi (trong dạ dày) rắm
+
+@flatware  
+*  dt
+- đồ dẹt (ở bàn ăn, dao, đĩa, thìa, đĩa nông lòng...)
+
+@flatways   (flatwise) @flatwise   (flatwise) @flaunch
+* dt
+- cũng flaunching
+- mặt dốc ở đỉnh ống khói để thoát nước mưa
+ @flaunt  
+*  dt
+- sự khoe khoang, sự phô trương, sự chưng diện
+*  ngdgt
+- khoe khoang, phô trương, chưng diện
+
++ to flaunt one's new clothes: chưng diện quần áo mới
+*  ndgt
+- bay phất phới (cờ...)
+
+@flaunting
+* tt
+
++  khoe khoang:chưng diện
+- đẹp hời hợt
+ @flauntingly  
+*  dt
+- khoe khoang, phô trương, chưng diện
+
+@flaunty  
+*  tt
+- khoe khoang, phô trương, chưng diện
+
+@flautist  
+*  dt
+- người thổi sáo
+
+@flavin  
+*  dt
+- (hoá học) Flavin
+- màu vàng
+
+@flavon
+* dt
+- (hoá học) flavon
+ @flavonol
+- (hoá học) flavonon
+ @flavo-protein  
+*  dt
+- (hoá học) (sinh vật học) flavoprotein
+
+@flavor  
+*  dt: (flavor) @flavorous  
+*  tt
+- ngon (món ăn); thơm ngon (rượu)
+
+@flavour  
+*  dt: (flavor) @flavoured
+* tt
+- có mùi vị (dùng trong tt ghép)
+ @flavouring  
+*  dt
+- đồ gia vị
+- sự thêm gia vị
+
+@flavourless  
+*  tt
+- không có mùi vị, nhạt nhẽo
+
+@flavoursome  
+*  tt
+- có mùi thơm, gây mùi thơm
+
+@flaw  
+*  dt
+- cơn gió mạnh
+- cơn bâo ngắn
+- vết nứt, chỗ rạn (thuỷ tinh, đồ sứ); vết (đá quý, kim loại...), khe hở (gỗ)
+- chỗ hỏng (hàng hoá...)
+- vết nhơ, thói xấu
+
++ a flaw in someone's reputation: vết nhơ trong thanh danh của ai
+- thiếu sót, sai lầm
+
++ a flaw in a document: một thiếu sót (sai lầm) trong tài liệu
+
++ a flaw in someone's reasoning: một sai lầm trong tập luận của ai
+- (pháp lý) sự thiếu sót về thủ tục
+
+@flawed  
+*  tt
+- có vết, rạn nứt
+- có chỗ hỏng
+- không hoàn thiện, không hoàn mỹ
+
+@flawing
+* dt
+- sự hình thàn vết, vết nứt
+- sự nứt nẻ
+ @flawless  
+*  tt
+- không có vết, không rạn nứt
+- không có chỗ hỏng
+- hoàn thiện, hoàn mỹ
+
+@flawlessly
+* dt
+- hoàn hảo, hoàn Mỹ
+ @flawlessness  
+*  dt
+- tính hoàn thiện, tính hoàn mỹ
+
+@flawn  
+*  dt
+- (từ cổ,nghĩa cổ) bánh trứng sữa; trứng đường pha sữa
+
+@flawy
+* tt
+- có nhiều chỗ rạn, vết nứt, tì vết
+- hay bị cuồng phong
+ @flax  
+*  dt
+- (thực vật học) cây lanh
+- sợi lanh
+- vải lanh
+!to quench smoking flax
+- (xem) quench
+
+@flax-comb
+* dt
+- lược chải lanh
+ @flaxdresser
+* dt
+- người, máy chải sợi lanh
+ @flax-dressing
+* dt
+- sự chải sợi lanh
+ @flaxen  
+*  tt
+- bằng lanh
+- màu nâu vàng nhạt
+
++ flaxen hải: tóc nâu vàng nhạt, tóc hoe
+
+@flax-seed  
+*  dt
+- hạt lanh
+
+@flaxy  
+*  tt
+- bằng lanh
+- như lanh, tựa lanh
+
+@flay  
+*  ngdgt
+- lột da
+- róc, tước, bóc (vỏ...)
+- phê bình nghiêm khắc; mẳng mỏ thậm tệ
+
+@flay-flint  
+*  dt
+- người tống tiền
+- người vắt cổ chảy ra mỡ
+
+@flea  
+*  dt
+- (động vật học) con bọ chét
+!to flay a flea the hide and tallow
+!to skin a flea for its hide
+- rán sành ra mỡ, keo cú bủn xỉn
+!a flea for in one's ear
+- (thông tục) sự khiển trách nặng nề
+- sự từ chối phũ phàng; sự cự tuyệt phũ phang
+!to go away with a flea in one's ear
+- bị khiển trách nặng nề
+!to send somebody away with a flea in his ear
+- (xem) ear
+
+@flea market  
+*  dt
+- chợ trời
+
+@flea-bag  
+*  dt
+- (từ lóng) chăn chui
+- (từ Mỹ,nghĩa Mỹ) người đàn bà nhếch nhác
+
+@flea-bite  
+*  dt
+- chỗ bọ chét đốt
+- vết đỏ nhỏ (trên da súc vật)
+- (nghĩa bóng) sự phiền hà nhỏ; điều nhỏ mọn
+- (nghĩa bóng) món chi tiêu vặt
+
+@flea-bitten  
+*  tt
+- bị bọ chét đốt
+- lốm đốm đỏ (da súc vật)
+- (từ Mỹ,nghĩa Mỹ) bệ rạc, tiều tuỵ
+
+@fleam  
+*  dt
+- lưỡi trích (để trích máu ngựa)
+
+@flea-pit  
+*  dt
+- (từ lóng) ổ rệp (rạp hát...)
+
+@flea-wort  
+*  dt,  (thực vật học)
+- cây thổ mộc hương hoa vàng
+- cây mã đề nhuận tràng (hạt dùng làm thuốc nhuận tràng)
+
+@fleche
+* dt
+- chóp tháp
+ @flechette
+* dt
+- mũi tên nhỏ
+ @fleck  
+*  dt
+- vết lốm đốm
+- đốm sáng, đốm vàng
+
++ flecks sunlight under a tree: những đốm nắng dưới bóng cây
+- (y học) hết hoe
+- phần nhỏ li ti, hạt
+
++ a fleck of dust: hạt bụi
+*  ngdgt
+- làm lốm đốm, điểm
+
++ a sky flecked with clouds: bầu trời lốm đốm may
+
+@flecker  
+*  ngdgt
+- làm lốm đốm, chấm lốm đốm
+- rải (rắc) thành từng mảng
+
+@fleckless  
+*  tt
+- không có lốm đốm
+- không có đốm sáng
+- (y học) không có đốm hoe
+- không có một hạt bụi, sạch bong
+
+@flecky
+* tt
+- có vết lốm đốm
+- có hình vân sóng
+ @flecnode
+- flenôt
+ @flection  
+*  dt
+- sự uốn
+- chỗ uốn
+- (ngôn ngữ học) biến tố
+- (toán học) độ uốn
+
++ flexion of a surface: độ uốn của một mặt
+
+@flection
+- sự uốn; đạo hàm bậc hai
+ @fled  
+*  thời quá khứ & động tt quá khứ của flee
+*  thời quá khứ của fly
+
+@fledge  
+*  ngdgt
+- nuôi cho đủ lông đủ cánh để bay
+- trang trí bằng lông; lót lông (vào tổ)
+- gài tên vào (tên bắn...)
+
+@fledged  
+*  tt
+- đã đủ lông, đã có thể bay (chim non)
+
+@fledgeless  
+*  tt
+- không có lông, không có lông cánh
+
+@fledgeling  
+*  dt
+- chim non mới ra ràng
+- (nghĩa bóng) người non nớt, người thiếu kinh nghiệm
+
+@fledgling  
+*  dt
+- chim non mới ra ràng
+- (nghĩa bóng) người non nớt, người thiếu kinh nghiệm
+
+@fledgy
+* tt
+- có lông vũ
+ @flee  
+*  ndgt fled
+- chạy trốn, bỏ chạy; lẩn trốn
+- biến mất; qua đi, trôi qua
+
++ the night had fled: đêm đã trôi qua
+
++ time is fleeing away: thời gian thấm thoát trôi qua
+*  ngdgt
+- chạy trốn, vội vã rời bỏ
+- trốn tránh, lẩn tránh
+
+@fleece  
+*  dt
+- bộ lông (cừu...); mớ lông cừu (cắt ở một con)
+- mớ tóc xù, mớ tóc xoắn bồng (như lông cừu)
+- cụm xốp nhẹ, bông
+
++ a fleece of cloud: cụm mây nhẹ
+
++ a fleece of snow: bông tuyết
+- (nghành dệt) tuyết
+!Golden Fleece
+- huân chương Hiệp sĩ (của Ao và Tây-ban-nha)
+*  ngdgt
+- phủ (một lớp như bộ lông cừu)
+
++ a sky fleeced with clouds: bầu trời phủ mây bông
+- lừa đảo
+
++ to fleece someone of his money: lừa đảo tiền của ai
+- (từ hiếm,nghĩa hiếm) cắt (lông cừu)
+
+@fleeceable
+* tt
+- có thể xén lông được (cừu)
+- có thể lấy tiền được
+ @fleeced  
+*  tt
+- xốp nhẹ (mây, tuyết)
+- xù xoắn bồng (tóc)
+
+@fleecer
+* dt
+- người xén lông cừu
+- người lừa bịp lấy tiền
+ @fleecily
+* dt
+- giống như lông cừu
+ @fleecy  
+*  tt
+- xốp nhẹ (mây, tuyết)
+- xù xoắn bồng (tóc)
+
+@fleer  
+*  dt
+- cái nhìn chế nhạo
+- câu nói nhạo
+*  ndgt
+- cười khẩy, cười chế nhạo
+
+@fleering
+* tt
+- cười khẩy; chế nhạo
+- khinh miệt
+ @fleet  
+*  dt
+- đội tàu, hạm đội
+- đội máy bay, phi đội
+- đoàn tàu, đoàn xe (của ai)
+!the fleet
+- hải quân
+!Fleet Air Arm
+- binh chủng không quân (của hải quân Anh)
+!fleet of the desert
+- đoàn lạc đà trên sa mạc
+*  dt
+- vịnh nhỏ
+*  tt
+- (thơ ca) (văn học) nhanh, mau, mau chóng, nhanh chóng
+
++ a fleet horse: ngựa phi nhanh
+
++ to be fleet of foot: nhanh chân
+- nông cạn
+*  dt
+- nông
+
++ to plough fleet: cày nông
+*  ndgt
+- biến, lướt qua, lướt nhanh
+- bay nhanh
+
+@fleet street  
+*  dt
+- phố báo chí (ở Luân-Đôn; giới báo chí)
+
+@fleet-footed
+* tt
+- chạy nhanh; nhanh chân
+ @fleeting  
+*  tt
+- lướt nhanh, thoáng qua; phù du
+
+@fleetingly
+* dt
+- nhanh chóng, mau lẹ
+ @fleetingness  
+*  dt
+- sự thoáng qua; tính phù du
+
+@fleetness  
+*  dt
+- tính nhanh chóng, tính mau chóng
+
+@fleiming
+* dt
+- người Fla-măng
+* tt
+- thuộc người Fla-măng
+ @fleishig
+* tt
+- làm bằng thịt; dùng với thịt (trong thức ăn người Do Thái)
+ @flench  
+*  ngdgt
+- chặt khúc (cá voi) ((cũng) flinch)
+
+@flense  
+*  ngdgt
+- chặt khúc (cá voi) ((cũng) flinch)
+
+@flesh  
+*  dt
+- thịt
+- thịt, cùi (quả)
+- sự mập, sự béo
+
++ to put on flesh: lên cân, béo ra
+
++ to lose flesh: sút cân, gầy đi
+- xác thịt, thú nhục dục
+!to be flesh and blood
+- là người trần
+!to be in flesh
+- béo
+!flesh and blood
+- cơ thể bằng da bằng thịt; loài người
+- có thật, không tưởng tượng
+- toàn bộ
+
++ flesh and fell: toàn bộ thân thể
+!to go the way of all flesh
+- (xem) go
+!in the flesh
+- bằng xương bằng thịt
+!to make someone's flesh creep
+- (xem) creep
+!one's own flesh and blood
+- người máu mủ ruột thịt
+*  ngdgt
+- kích thích (chó săn)
+- làm cho hăng máu
+- tập cho quen cảnh đổ máu
+- đâm (gươm...) vào thịt
+- vỗ béo, nuôi béo; làm cho có da có thịt
+- nạo thịt (ở miếng da để thuộc)
+- khai (đao...); (nghĩa bóng) khai (bút...)
+*  ndgt
+- (thông tục) béo ra, có da có thịt
+
+@flesh-brush  
+*  dt
+- bàn xoa (bàn chải để chà xát người cho máu chạy đều)
+
+@flesh-colour  
+*  dt
+- màu da
+
+@flesh-coloured  
+*  tt
+- màu da, hồng nhạt
+
++ flesh-coloured stockinngs: tất màu da chân
+
+@flesh-eating  
+*  tt
+- ăn thịt
+
+@flesher  
+*  dt
+- (Ê-cốt) đồ tể
+
+@flesh-flowered
+* tt
+- (thực vật) có hoa nạc
+ @flesh-fly  
+*  dt
+- (động vật học) ruồi xanh, nhặng
+
+@flesh-glove  
+*  dt
+- găng xoa (găng tay để xoa bóp)
+
+@fleshing-machine
+* dt
+- máy nạo thịt ở da
+ @fleshings  
+*  dt số nhiều
+- quần áo nịt màu da (mặc trên sân khấu)
+- (từ Mỹ,nghĩa Mỹ) thịt lọc ở da ra
+
+@fleshly  
+*  tt
+- xác thịt, nhục dục
+- trần tục
+
+@fleshly-minded
+* tt
+- ham mê sắc dục
+ @flesh-meat
+* dt
+- thịt thú vật
+ @fleshmonger
+* dt
+- người bán thịt
+- mụ chủ nhà chứa
+ @flesh-pot  
+*  dt
+- xoong nấu thịt
+- (số nhiều) cuộc sống sang trọng
+- nơi ăn chơi
+
+@flesh-tights  
+*  dt số nhiều
+- quần áo nịt bằng da (mặc trên sân khấu)
+
+@flesh-tints  
+*  dt số nhiều
+- màu da, màu hồng nhạt
+
+@flesh-wound  
+*  dt
+- vết thương phần mềm, vết thương nông
+
+@fleshy  
+*  tt
+- béo; có nhiều thịt, nạc
+- như thịt
+- nhiều thịt, nhiều cùi
+
+@fletch
+* ngdgt
+- xem fledge
+ @fletching
+* dt
+- lông chim cắm ở mũi tên
+ @fletton
+* dt
+- gạch đỏ vàng làm bằng đất sét trong khuôn thép
+ @fleur-de-lis  
+-de-luce) 
+@fleur-de-luce  
+-de-luce) 
+@fleuret  
+*  dt
+- bông hoa nhỏ
+- vật trang trí hình hoa nhỏ
+
+@fleuron  
+*  dt
+- vật trang trí hình hoa nhỏ (trong kiến trúc, trên đồng tiền...)
+- đồ chạm hình hoa, đồ khắc hình hoa
+
+@fleurs-de-lis  
+-de-luce) 
+@fleury  
+*  tt
+- trang trí bằng hoa irit (huy hiệu)
+
+@flew  
+*  dt
+- con ruồi
+- ruồi (làm mồi câu); ruồi giả (làm mồi câu cá)
+- (nông nghiệp) bệnh do ruồi, sâu bệnh
+!to crush a fly upon the wheel
+!to break a fly upon the wheel
+- dùng dao mổ trâu cắt tiết gà, lấy búa đạp muỗi
+!a fly on the wheel (on the coatch wheel)
+- người lăng xăng tưởng mình quan trọng
+!no flies on him
+- (từ lóng) anh ta rất đắc lực, anh ta rất được việc
+- (từ Mỹ,nghĩa Mỹ) anh ta rất láu
+*  dt
+- sự bay; quãng đường bay
+
++ on the fly: đang bay
+- vạt cài cúc (ở áo)
+- cánh cửa lều vải
+- đuôi cờ
+- (sân khấu), (số nhiều) khoảng trên đầu sân khấu (có để những bộ kéo phông)
+- bộ phận điều chỉnh tốc độ (ở đồng hồ)
+- (kỹ thuật) (như) fly-wheel
+- (từ cổ,nghĩa cổ) xe độc mã
+*  ndgt flew,  flown
+- bay
+- đi máy bay, đáp máy bay
+
++ to fly home: đáp máy bay về nhà
+- bay vút lên cao (diều hâu, để đánh nhau)
+- bay phấp phới, tung bay
+
++ flags are flying: cờ tung bay phấp phới
+- đi nhanh, chạy nhanh, rảo bước
+
++ it's late, we must fly: đã muộn rồi, chúng ta phải đi nhanh lên
+- tung; chạy vùn vụt như bay
+
++ the door flew open: cửa mở tung
+
++ time flies: thời gian vùn vụt trôi qua
+- (thời quá khứ fled) chạy trốn, tẩu thoát
+*  ngdgt
+- làm bay phấp phới, làm tung bay
+
++ to fly a flag: cờ tung bay phấp phới
+- thả (cho bay)
+
++ to fly pigeons: thả chim bồ câu
+- lái (máy bay...); chuyên chở bằng máy bay
+!to fly at
+!to fly on
+- xông lên; tấn công
+
++ to fly at the enemy: xông lên tấn công quân địch
+!to fly into
+- nổi (khùng), rớn (mừng)
+
++ to fly into a rage: nổi xung, nổi cơn thịnh nộ
+- xông vào, xộc vào (trong phòng...)
+!to fly off
+- bay đi (chim); chuồn đi
+- đứt mất (cúc áo)
+!to fly out
+- tuôn ra một thôi một hồi
+- nổi cơn hung hăng
+!to fly over
+- nhảy qua
+
++ to fly over fence: nhảy qua hàng rào
+!to fly round
+- quay (bánh xe)
+!to fly upon
+- (như) to fly at
+!as the crow flies
+- (xem) crow
+!the bird in flown
+- (nghĩa bóng) chim đã lọt lưới rồi, hung thủ đã tẩu thoát rồi
+!to fly to arms
+- (xem) arm
+!to fly the country
+- chạy trốn; đi khỏi nước
+!to fly in the face of
+- (xem) face
+!to fly high
+!to fly at high game
+- có tham vọng, có hoài bão lớn
+!to fly a kite
+- (xem) kite
+!to fly low
+- nằm im, lẩn lút
+!go fly a kite!
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bước đi, đừng quấy rầy nữa!
+!to let fly
+- (xem) let
+!to make the money fly
+- tiêu tiền như rác
+*  tt
+- (từ lóng) cẩn thận, tỉnh táo, cảnh giác
+
+@flews  
+*  dt số nhiều
+- môi sễ xuống (chó săn)
+
+@flex  
+*  dt
+- (điện học) dây mềm
+*  ngdgt
+- làm cong, uốn cong
+*  ndgt
+- cong lại; gập lại (cánh tay)
+
+@flex
+- uốn
+ @flexble
+- uốn được, đàn hồi được
+ @flexibility  
+*  dt
+- tính chất dẻo, tính chất mền dẻo, tính dễ uốn
+- tính dễ sai khiến, tính đễ thuyết phục, tính dễ uốn nắn
+- tính linh động, tính linh hoạt
+
+@flexibility
+- tính uốn được, tính đàn hồi
+ @flexible  
+*  tt
+- dẻo, mền dẻo, dễ uốn
+- dễ sai khiến, dễ thuyết phục, dễ uốn nắn
+- linh động, linh hoạt
+
+@flexible cable
+- (Tech) cáp mềm dẻo
+ @flexible disk 
++  floppy disk
+- (Tech) đĩa mềm
+ @Flexible exchange rate
+- (Econ) Tỷ giá hối đoái linh hoạt.
+: Xem EXCHANGE RATE.
+ @flexible (printed) circuit
+- (Tech) mạch (in) mềm dẻo
+ @flexibly
+* dt
+- linh hoạt, linh động
+ @flexile  
+*  tt
+- dẻo, mền dẻo, dễ uốn
+- dễ sai khiến, dễ thuyết phục, dễ uốn nắn
+- linh động, linh hoạt
+
+@flexility  
+*  dt
+- tính chất dẻo, tính chất mền dẻo, tính dễ uốn
+- tính dễ sai khiến, tính đễ thuyết phục, tính dễ uốn nắn
+- tính linh động, tính linh hoạt
+
+@flexing
+* dt
+- sự uốn; néo uốn
+ @flexion  
+*  dt
+- sự uốn
+- chỗ uốn
+- (ngôn ngữ học) biến tố
+- (toán học) độ uốn
+
++ flexion of a surface: độ uốn của một mặt
+
+@flexion
+- độ uốn; đao hàm bậc hai
+- f. of surface độ uốn của một mặt 
+ @flexional  
+*  tt
+- (ngôn ngữ học) có biến tố
+
+@flexionless  
+*  tt
+- (ngôn ngữ học) không có biến tố
+
+@Flexitime
+- (Econ) Thời gian làm việc linh hoạt.
+: Lý thuyết kinh tế chỉ ra rằng nếu thực hiện thời gian linh hoạt sẽ có lợi vì các công nhân khác nhau có những khẩu vị và sở thích khác nhau.
+ @flexitime
+* dt
+- hệ thống giờ làm việc linh hoạt
+ @flexographic
+* tt
+- xem flexography chỉ thuộc về
+ @flexography
+* dt
+- thuật in nổi bằng khuôn mềm
+ @flexor  
+*  dt
+- (giải phẫu) cơ gấp
+
+@flexouse  
+*  tt
+- (thực vật học) uốn khúc ngoằn ngoèo
+
+@flexousity  
+*  dt
+- sự cong queo, sự uốn khúc
+
+@flexowriter
+- (máy tính) thiết bị in nhanh, flecxôraitơ
+ @flexuosity
+* dt
+- sự ngoằn ngoèo, sự khúc khủyu
+ @flexuous  
+*  tt
+- cong queo, uốn khúc
+
+@flexural
+* tt
+- cong queo; uốn khúc
+ @flexure  
+*  dt
+- sự uốn cong
+- chỗ uốn cong, chỗ rẽ
+- (toán học) độ uốn
+- (địa lý,địa chất) nếp oằn
+
+@flexure
+- độ uốn
+ @fley
+* ngdgt
+- làm cho hoảng sợ
+* ndgt
+- hoảng sợ
+ @flibbertigibbet  
+*  dt
+- người ba hoa; người ngồi lê đôi mách
+- người có tính đồng bóng, người nông nổi
+- người lúc nào cũng cựa quậy
+
+@flic
+* dt
+- cảnh sát Pa-ri
+ @flicflac
+* dt
+- tiếng gõ liên tục (như) tiếng chân khiêu vũ
+ @flick  
+*  dt
+- cú đánh nhẹ, cái đập nhẹ, cái gõ nhẹ, cái giật, cái nảy, cái búng
+- tiếng tách tách
+- (từ lóng) phim chiếu bóng
+- (số nhiều) (từ lóng) buổi chiếu phim
+*  ngdgt
+- đánh nhẹ, vụt nhẹ, gõ nhẹ, búng
+- ((thường) : away,  off) phủi (bụi...)
+!to flick out
+- rút ra, kéo ra, nhổ lên
+
+@flicker  
+*  dt
+- ánh sáng lung linh, ánh lửa bập bùng
+
++ the flicker of a candle: ánh nến lung linh
+
++ a weak flicker of hope: (từ lóng) tia hy vọng mỏng manh
+- sự rung rinh
+- (từ Mỹ,nghĩa Mỹ) cảm giác thoáng qua
+
++ a flicker of fear: cảm giác sợ hãi thoáng qua
+*  ndgt
+- đu đưa, rung rinh
+
++ leaves flickering in the wind: lá rung rinh trước gió
+- lập loè, lung linh, bập bùng
+
++ candle flickers: ánh nến lung linh
+
++ flickering flame: ngọn lửa bập bùng
+- mỏng manh (hy vọng)
+
+@flicker
+- (Tech) chớp nháy (đt)
+ @flickering  
+*  tt
+- đu đưa, rung rinh
+- lập loè, lung linh, bập bùng
+
+@flicker-mouse
+* dt
+- (động vật) con giơi
+ @flick-knife  
+*  dt
+- dao bấm tự động
+
+@flier  
+*  dt
+- vật bay, con vật có cánh (như chim, sâu bọ...)
+- xe đi nhanh như bay; con vật bay nhanh
+- người lái máy bay
+- cái nhảy vút lên
+- (thông tục) người nhiều tham vọng
+- (kỹ thuật) bánh đà
+
+@flight  
+*  dt
+- sự bỏ chạy, sự rút chạy
+
++ to seek safety in flight: bỏ chạy thoát thân
+
++ to put the enemy to flight: làm cho kẻ địch bỏ chạy
+
++ to take flight; to betake oneself to flight; to take to flight: bỏ chạy, rút chạy
+- sự bay; chuyến bay
+
++ to take one's flight to; to wing one's flight: bay
+
++ in flight: đang bay
+- sự truy đuổi, sự đuổi bắt
+- đàn (chim... bay)
+
++ a flight of birds: đàn chim bay
+
++ a flight of arrows: một loạt tên bay
+- đường đạn; sự bay vụt (đạn)
+- tầm bay (chim, đạn)
+- sự trôi nhanh (thời gian)
+- sự bay bổng, sự phiêu diêu (trí tưởng tượng)
+- tầng, đợt (cầu thang)
+
++ my room is two flights up: buồng của tôi ở tầng hai
+- loạt (tên, đạn...)
+- trấu (yến mạch)
+- phi đội (của không quân Anh)
+- cuộc thi bắn cung tầm xa; tên dùng trong cuộc thi bắn cung tầm xa ((cũng) flight arrow)
+!in the first flight
+- dẫn đầu, đi đầu
+*  ngdgt
+- bắn (chim) khi đang bay
+- thay đổi hướng đi (của quả bóng crickê)
+*  ndgt
+- bay thành đàn (chim)
+
+@flight
+- (cơ học) sự bay
+- blind f. (cơ học) sự bay mù
+- level f. (cơ học) sự bay nằm ngang
+ @flight computer
+- (Tech) máy điện toán phi hành
+ @flight formation  
+*  dt,  (quân sự)
+- sự bay thành đội hình
+- đội hình bay
+
+@Flight from cash
+- (Econ) Bỏ tiền mặt.
+: Chỉ sự chuyển CỦA CẢI từ tiền mặt thành các tài sản sinh lãi.
+ @flight lieutenant
+* dt
+- trung úy phi công
+ @flight path
+* dt
+- hướng bay
+ @flight simulator
+- (Tech) bộ mô phỏng phi hành
+ @flight-deck
+* dt
+- buồng điều khiển trên máy bay
+- boong dành cho máy bay trên tàu sân bay
+ @flightiness  
+*  dt
+- tính hay thay đổi, tính đồng bóng
+- tính bông lông, tính phù phiếm
+- tính gàn, tính dở hơi
+
+@flightless
+* tt
+- không bay được
+ @flight-recorder
+* dt
+- hộp đen trong máy bay
+ @flight-test
+* ngdgt
+- thử máy bay bằng cách cho bay
+ @flighty  
+*  tt
+- hay thay đổi, đồng bóng
+
++ a flighty character: tính nết hay thay đổi
+- bông lông, phù phiếm
+- gàn, dở hơi
+
+@flim-flam  
+*  dt
+- chuyện vớ vẩn, chuyện tào lao
+- trò gian trá, trò xảo trá
+*  ngdgt
+- (thông tục) lừa bịp, lừa dối
+
+@flimflammer
+* dt
+- người lừa đảo
+ @flimsily
+* dt
+- xem flimsy
+ @flimsiness  
+*  dt
+- tính chất mỏng manh, tính chất mỏng mảnh
+- tính chất hời hợt, tính chất nông cạn
+- tính chất tầm thường, tính chất nhỏ mọn
+
+@flimsy  
+*  tt
+- mỏng manh, mỏng mảnh
+- hời hợt, nông cạn
+
++ a flimsy excuse: lời cáo lỗi hời hợt; lý do hời hợt
+
++ a flimsy argument: lý lẽ nông cạn
+- tầm thường, nhỏ mọn
+*  dt
+- giấy mỏng (các phóng viên hay dùng để viết bài)
+- bài viết trên giấy mỏng (của các phóng viên)
+- (từ lóng) tiền giấy
+
+@flinch  
+*  ngdgt
+- (như) flench
+*  ndgt
+- chùn bước, nao núng
+
++ to flinch from difficulties: chùn bước trước khó khăn
+- do dự, lưỡng lự, ngần ngại
+
+@flinders  
+*  dt số nhiều
+- mảnh vỡ, mảnh vụ
+
++ to break (fly) into flinders: vỡ ra từng mảnh, vỡ tan
+
+@fling  
+*  dt
+- sự ném, sự vứt, sự quăng, sự liệng, sự lao, sự gieo (quân súc sắc)
+- sự nhào xuống, sự nhảy bổ
+- sự lu bù (ăn chơi...)
+
++ to have one's fling: ăn chơi lu bù
+- lời nói mỉa; lời chế nhạo
+
++ to have a fling at somebody: nói mỉa ai; chế nhạo ai
+- (thông tục) sự thử làm, sự gắng thử
+
++ to have a fling at something: thử làm gì, gắng thử gì
+- điệu múa sôi nổi
+
++ the Highland fling: điệu múa sôi nổi của Ê-cốt
+*  ndgt flung
+- chạy vụt, lao nhanh
+
++ to fling out of the room: lao ra khỏi phòng
+- chửi mắng, nói nặng
+
++ to fling out: chửi mắng ầm ĩ
+- hất (ngựa)
+*  ngdgt
+- ném, vứt, quăng, liệng, lao, tống
+
++ to fling something away: ném vật gì đi
+
++ to fling troops on enemy (against enemy position): lao quân vào kẻ địch (vào vị trí địch)
+
++ to fling oneself into a task: lao mình vào nhiệm vụ
+
++ to fling oneself on someone's pity: phó thác mình vào lòng thương của ai
+
++ to fling someone into prison: tống cổ ai vào tù
+- hất ngã
+
++ horse flings rider: ngựa hất ngã người cưỡi
+- đá hậu
+- vung (tay...); hất (đầu...)
+- đưa (mắt) nhìn lơ đãng
+- toà án, phát ra
+
++ flowers fling their fragrance around: hoa toả hương thơm
+- đẩy tung (cửa)
+
++ to fling door open: mở tung cửa
+!to fling caution to the wind
+- liều lĩnh, thục mạng
+!to fling facts in somebody's teeth
+- đưa việc ra để máng vào mặt ai
+!to fling oneself at someone's head
+- cố chài được ai lấy mình làm vợ
+
+@flinger
+* dt
+- người ném
+- người chế nhạo, người hủy báng
+ @flint  
+*  dt
+- đá lửa; viên đá lửa
+- vật cứng rắn
+
++ a heart of flint: trái tim sắt đá
+!to set one's face like a flint
+- (xem) set
+!to skin (lay) a flint
+- rán sành ra mỡ, keo cú
+!to wring water from a flint
+- làm những việc kỳ lạ
+
+@flint corn  
+*  dt
+- ngô đá
+
+@flint-dried
+* tt
+- khô rang
+ @flint-glass  
+*  dt
+- thuỷ tinh flin
+
+@flint-hearted  
+*  tt
+- có trái tim sắt đá
+
+@flint-implement
+* dt
+- đồ đá; dụng cụ bằng đá
+ @flintiness  
+*  dt
+- tính chất rắn; sự rắn như đá
+
+@flint-lock  
+*  dt
+- súng kíp
+
+@flint-paring
+* tt
+- biển lận
+ @flinty  
+*  tt
+- bằng đá lửa; có đá lửa
+- như đá lửa; rắn như đá lửa
+- (nghĩa bóng) cứng rắn; sắt đá
+
++ a flinty heart: trái tim sắt đá
+
+@flip  
+*  dt
+- Flíp (bia trộn rượu pha đường hâm nóng)
+*  dt
+- cái búng
+- cái vụt nhẹ; cú đánh nhẹ mà đau
+- (thông tục) chuyến bay ngắn
+*  ngdgt
+- búng
+
++ to flip a coin: búng đồng tiền
+
++ to flip somebody's ear: búng tai ai
+- đánh nhẹ
+- quất nhẹ (roi), phẩy (quạt); giật giật (mồi câu)
+*  ndgt
+- bật bật ngón tay
+- quất, vụt
+
++ to flip at something with a whip: vụt roi vào cái gì
+!to flip up
+- (từ Mỹ,nghĩa Mỹ) tung đồng tiền (xem sấp ngửa để chọn bên trong cuộc thi đấu...)
+
+@flip-chip
+- (Tech) chíp lật
+ @flip-coil
+- (Tech) lõi lật
+ @flip-flap  
+*  dt
+- kiểu nhào lộn flicflac
+- pháo hoa flicflac
+- pháo
+- trò chơi ô tô treo
+
+@flip-flop
+- (Tech) mạch lật, mạch bấp bênh
+ @flip-flop register
+- (Tech) bộ ghi lật
+ @flippancy  
+*  dt
+- sự khiếm nhã, sự suồng sã, sự chớt nhã
+- (từ Mỹ,nghĩa Mỹ) sự hỗn láo, sự xấc xược
+
+@flippant  
+*  tt
+- thiếu nghiêm trang, khiếm nhã, suồng sã, chớt nhã
+- (từ Mỹ,nghĩa Mỹ) hỗn láo, xấc xược
+
+@flippantly
+* dt
+- khiếm nhã, cợt nhã
+- xấc láo, láo xược
+ @flipper  
+*  dt
+- (động vật học) chân chèo (chi trước hoặc chi sau của động vật ở nước, biến đổi thích nghi để bơi lội, như chân rùa, chân chó biển...)
+- (từ lóng) bàn tay
+
+@flipperty-flopperty  
+*  tt
+- lõng thõng
+
+@flippy
+* dt
+- (tin học) địa flippy (đĩa mềm hai mặt dùng trong ổ đĩa một mặt)
+ @flirt  
+*  dt
+- sự giật; cái giật
+- người ve vãn, người tán tỉnh
+- người thích được ve vãn, người thích được tán tỉnh
+*  ngdgt
+- búng mạnh
+- rung mạnh, phẩy mạnh, vẫy mạnh (đuôi chim, quạt)
+- ndgt
+- rung rung, giật giật
+- tán tỉnh, ve vãn; vờ tán tỉnh, vờ ve vãn
+
++ to flirt with somebody: tán tỉnh ai
+- đùa, đùa bỡn, đùa cợt
+
++ to flirt with the idea of doing something: đùa cợt với ý nghĩ làm gì
+
+@flirtation  
+*  dt
+- sự ve vãn, sự tán tỉnh
+- sự yêu đương lăng nhăng
+
+@flirtatious  
+*  tt
+- thích tán tỉnh, thích ve vãn; thích tán tỉnh vờ, thích ve vãn vờ
+- hay yêu đương lăng nhăng
+
+@flirtatiousness
+* dt
+- sụ thích ve vãn; tán tĩnh
+- sự hay yêu đương lăng nhăng
+ @flirting
+* tt
+- ve vãn; tán tỉnh
+ @flirtish  
+*  tt
+- hay ve vãn, hay tán tỉnh
+- thích được ve vãn, thích được tán tỉnh
+
+@flirty  
+*  tt
+- hay ve vãn, hay tán tỉnh
+- thích được ve vãn, thích được tán tỉnh
+
+@flit  
+*  dt
+- sự dọn nhà, sự di chuyển chỗ ở
+*  ndgt
+- di cư, di chuyển
+- đổi chỗ ở, chuyển chỗ ở
+- đi nhẹ nhàng, bay nhẹ nhàng, vụt qua
+
++ memories flit through mind: những ký ức vụt qua trong trí óc
+- (Ê-cốt) lỉnh, chuồn (để khỏi trả nợ)
+- bay chuyền (chim)
+
+@flitch  
+*  dt
+- thịt hông lợn ướp muối và hun khói
+- miếng mỡ cá voi
+- miếng cá bơn (để nướng)
+- ván bìa
+*  ngdgt
+- lạng (cá bơn) thành miếng
+- xẻ (gỗ) lấy ván bìa
+
+@flitter  
+*  ndgt
+- bay chuyền; bay qua bay lại
+
+@flitter-mice  
+*  dt,  số nhiều flitter-mice
+- (động vật học) con dơi
+
+@flitter-mouse  
+*  dt,  số nhiều flitter-mice
+- (động vật học) con dơi
+
+@flivver  
+*  dt,  (từ lóng)
+- xe ô tô rẻ tiền
+- tàu bay nhỏ cá nhân
+
+@flix  
+*  dt
+- bộ da lông hải ly
+
+@fllow-up  
+*  tt
+- tiếp tục, tiếp theo
+
++ a fllow-up visit: cuộc đi thăm tiếp theo (giống như cuộc thăm trước)
+
++ a fllow-up letter: bức thư tiếp theo (có nhắc đến bức thư trước)
+*  dt
+- sự tiếp tục
+- việc tiếp tục, việc tiếp theo
+- bức thư (chào hàng) tiếp theo (có nhắc đến bức thư trước); cuộc đi thăm tiếp theo (giống như một cuộc thăm trước)
+
+@float  
+*  dt
+- cái phao; phao cứu đắm
+- bè (gỗ...); mảng trôi (băng, rong...)
+- bong bóng (cá)
+- xe ngựa (chở hàng nặng)
+- xe rước, xe diễu hành (không có mui để đặt các thứ lên mà rước khách, mà diễu hành)
+- (sân khấu), ((thường) số nhiều) dãy đèn chiếu trước sân khấu
+- cánh (guồng, nước)
+- cái bay
+- cái giũa có đường khía một chiều
+- (từ hiếm,nghĩa hiếm) sự nổi
+
++ on the float: nổi
+*  ndgt
+- nổi, trôi lềnh bềnh
+
++ wood floats on water: gỗ nổi trên mặt nước
+- lơ lửng
+
++ dust floats in the air: bụi lơ lửng trong không khí
+- đỡ cho nổi (nước)
+- (thương nghiệp) bắt đầu, khởi công, khởi sự
+- (thương nghiệp) lưu hành, lưu thông; sắp đến hạn trả
+- thoáng qua, phảng phất
+
++ ideas float through mind: ý nghĩ thoáng qua trong trí óc
+
++ visions float before the eyes: những ảo ảnh phảng phất trước mắt
+*  ngdgt
+- thả trôi, làm nổi lên, đỡ nổi
+
++ to float a raft of logs down a river: thả bè gỗ trôi sông
+
++ to float a ship: làm nổi một chiếc tàu (mắc cạn)
+- làm ngập nước
+- truyền (tin đồn)
+- (thương nghiệp) bắt đầu khởi công, khởi sự (kế hoạch, công trình...)
+- (thương nghiệp) cổ động tuyên truyền cho
+
++ to float a loan: cổ động tuyên truyền gọi người cho vay
+
+@Float
+- (Econ) Tiền trôi nổi.
+: Sự chênh lệch giữa khoản tiền chưa thu được hay khoản tiền đang trong quá trình thu và khoản tiền phải đến nhưng chậm.
+ @floatability
+* dt
+- độ nổi; sức nổi
+ @floatable  
+*  tt
+- có thể nổi, nổi trên mặt nước
+- có thể đi được (sông, suối)
+
+@floatage  
+*  dt ((từ Mỹ,nghĩa Mỹ) (cũng) flotage)
+- sự nổi, sự trôi lềnh bềnh
+- quyền thu hồi vật nổi (trên mặt biển); vật nổi (trên mặt biển)
+- thuyền bè trên sông
+- mảng (băng, rong...) nối
+- phần tàu trên mặt nước
+
+@floatation  
+*  dt ((từ Mỹ,nghĩa Mỹ) (cũng) flotation)
+- sự nổi; sự trôi
+- (hoá học) sự tách đãi
+- sự khai trương (một công ty); sự khởi công (một công việc)
+
+@float-board
+* dt
+- tàu thủy nhỏ; thuyền nhỏ; bè
+ @float-bridge  
+*  dt
+- cầu phao
+
+@float-controlled
+* tt
+- được điều chỉnh bằng phao
+ @floater  
+*  dt
+- (thông tục) công nhân làm theo mùa, công nhân phụ động
+
+@floating  
+*  dt
+- sự nổi
+- sự thả trôi (bè gỗ)
+- sự hạ thuỷ (tài thuỷ)
+- (thương nghiệp) sự khai trương; sự khởi công
+*  tt
+- nổi
+- để bơi
+- thay đổi
+
++ floating population: số dân thay đổi lên xuống
+- (thương nghiệp) động (nợ); luân chuyển (vốn)
+
++ floating capital: vốn luân chuyển
+- (y học) di động
+
++ floating kidney: thận di dộng
+
+@floating
+- thay đổi; phiếm định; trôi
+ @floating address
+- (Tech) địa chỉ thả nổi, địa chỉ động 
++  symbolic address
+ @floating bridge  
+*  dt
+- cầu phao
+
+@Floating capital
+- (Econ) Vốn luân chuyển.
+: Cụm thuật ngữ có cùng nghĩa có cùng nghĩa như vốn lưu động, chỉ số tiền được đầu tư vào công việc đang được thực hiện, tiền công cần trả hay bất kỳ một loại đầu tư nào khác không phải là tài sản cố định.
+ @Floating charge
+- (Econ) Phí linh động
+: Một dạng đảm bảo của người đi vay đối với các khoản vay hay các khoản nợ khác, ví dụ như cổ phiếu công ty.
+ @floating computation
+- (Tech) phép toán phù động
+ @floating debt  
+*  dt
+- nợ động (nợ phải trả một phần khi cần hay đến hạn nào đó)
+
+@Floating debt
+- (Econ) Nợ thả nổi
+: Một phần NỢ QUỐC GIA được vay dưới dạng các CHỨNG KHOÁN ngắn hạn thông thường dùng để chỉ bộ phận được thể hiện bởi HỐI PHIẾU BỘ TÀI CHÍNH. Số nợ này là thả nổi theo nghĩa là nó liên tục giảm cho quá trình thanh toán nợ.
+ @Floating exchange rate
+- (Econ) Tỷ giá hối đoái thả nổi.
+: Xem EXCHANGE RATE
+ @floating grid
+- (Tech) lưới phù động
+ @floating light  
+*  dt
+- thuyền đèn
+- phao có đèn
+
+@floating point
+- (Tech) điểm phù động, điểm lẻ
+ @Floating pound
+- (Econ) Đồng bảng Anh thả nổi.
+: Xem EXCHANGE RATE.
+ @floating rates  
+*  dt
+- (thương nghiệp) giá chuyên chở bằng tàu bè
+
+@floating zero
+- (Tech) số không trong phép toán phù động
+ @floating-diffusion amplifier
+- (Tech) bộ khuếch đại khuếch tán phù động
+ @floating-dock
+* dt
+- kiến trúc hình hộp có thể chìm một phần cho tàu vào rồi lại nâng lên, nâng tàu ra khỏi nước
+ @floating-gate avalanche-injection MOS
+- (Tech) MOS phun thác cổng phù động
+ @floating-gate PROM
+- (Tech) PROM cổng phù động
+ @floating-moss
+* dt
+- (thực vật) bèo ong
+ @floating-needle
+* dt
+- kim báo mức đầu; kim phao
+ @floating-point
+- (máy tính) dấy phẩy động
+ @floating-point arithmetic operation
+- (Tech) phép toán số học điểm phù động
+ @floating-point calculation
+- (Tech) phép tính điểm phù động
+ @floating-point data
+- (Tech) dữ liệu điểm phù động
+ @floating-point number
+- (Tech) số với điểm phù động
+ @floating-point processor
+- (Tech) bộ xử lý điểm phù động
+ @floating-rib
+* dt
+- xương sườn cụt
+ @floating-vote
+* dt
+- tổng số những người bỏ phiếu bấp bênh (không chỉ cho một đảng)
+ @floating-voter
+* dt
+- người bỏ phiếu bấp bênh
+ @float-needle
+* dt
+- kim báo mức dầu; kim phao
+ @float-plane
+* dt
+- tàu bay có phao
+ @float-type
+* dt
+- kiểu phao
+ @float-way
+* dt
+- đường thả bè gỗ
+ @floaty
+* tt
+- nổi lềnh bềnh; nhẹ có thể nổi
+ @flocci  
+*  dt,  số nhiều flocci
+- cụm (xốp như len)
+
+@floccose  
+*  tt
+- (thực vật học) có mào lông
+
+@flocculate  
+*  dgt
+- kết bông, kết thành cụm như len
+
+@flocculation  
+*  dt
+- sự kết bông, sự lên bông
+
+@flocculator
+* dt
+- chất kết bông
+ @floccule  
+*  dt
+- bông, cụm (xốp như len) ((cũng) flocculus)
+
+@flocculence  
+*  dt
+- sự kết bông, sự kết thành cụm như len
+
+@flocculent  
+*  tt
+- kết bông, kết thành cụm như len
+
+@flocculose  
+*  tt
+- kết bông, kết thành cụm như len
+
+@flocculous  
+*  tt
+- kết bông, kết thành cụm như len
+
+@flocculus  
+*  dt
+- (như) floccule
+- (giải phẫu) nhung não
+
+@floccus  
+*  dt,  số nhiều flocci
+- cụm (xốp như len)
+
+@flock  
+*  dt
+- cụm, túm (bông, len)
+- (số nhiều) len phế phẩm, bông phế phẩm (để nhồi nệm)
+- bột len, bột vải (để rắc lên giấy dán tường)
+- (số nhiều) (hoá học) kết tủa xốp, chất lẳng xốp
+*  ngdgt
+- nhồi (nệm...) bằng bông len phế phẩm
+*  dt
+- đám đông
+
++ to come in flocks: đến từng đám đông
+- đàn, bầy
+
++ a flock of ducks: một đàn vịt
+
++ the teacher and his flock: giáo viên và học sinh của ông
+- các con chiên, giáo dân
+!there's a black in every flock
+- đám con chiên nào cũng có con chiên ghẻ
+*  ndgt
+- tụ tập, quây quần, tập trung lại thành đám đông
+- lũ lượt kéo đến
+
++ crowds of people flocked to the theatre: từng đám đông người lũ lượt kéo đến rạp hát
+!birds of a feather flock together
+- (xem) bird
+
+@flock-bed  
+*  dt
+- nệm nhồi bông len phế phẩm
+
+@flock-master  
+*  dt
+- người nuôi cừu
+
+@flock-paper  
+*  dt
+- giấy dán tường (có rắc bột len, bột vải)
+
+@flocky  
+*  tt
+- thành cụm, thành túm (như bông, len)
+
+@floe  
+*  dt
+- tảng băng nổi
+
+@floeberg
+* dt
+- núi băng trôi
+ @floe-ice
+* dt
+- băng trôi
+ @flog  
+*  ngdgt
+- quần quật
+- (từ lóng) đánh thắng
+- (từ lóng) bán
+- quăng đi quăng lại (cấp cứu)
+!to flog a dead horse
+- phi công vô ích
+!to flog laziness out of somebody
+- đánh cho ai mất lười
+!to flog learning into somebody
+- đánh để bắt ai phải học
+
+@flogger
+* dt
+- người dùng roi quất
+ @flogging  
+*  dt
+- sự đánh bằng roi, sự quất bằng roi
+- trận đòn (bằng roi vọt)
+
+@flood  
+*  dt
+- lũ, lụt, nạn lụt
+
++ the Flood; Noah's Flood: nạn Hồng thuỷ
+- dòng cuồn cuộn; sự tuôn ra, sự chảy tràn ra ((nghĩa đen) & (nghĩa bóng))
+
++ floods of rain: mưa như trút nước
+
++ a flood of tears: nước mắt giàn giụa
+
++ a flood of words: lời nói thao thao bất tuyệt
+- nước triều lên ((cũng) flood-tide)
+- (thơ ca) sông, suối biển
+
++ flood and field: niển và đất
+- (từ Mỹ,nghĩa Mỹ),  (thông tục),  (như) flood-light
+*  ngdgt
+- làm lụt, làm ngập, làm ngập nước
+- làm tràn đầy, làm tràn ngập
+
++ to be flooded with light: tràn ngập ánh sáng
+
++ to be flooded with invitention: được mời tới tấp
+*  ndgt
+- ((thường) : in) ùa tới, tràn tới, đến tới tấp
+
++ letters flood in: thư gửi đến tới tấp
+- (y học) bị chảy máu dạ con
+!to be flooded out
+- phải rời khỏi nhà vì lụt lội
+
+@floodbank
+* dt
+- tười dựng lên ngăn nước ngập
+ @flood-control  
+*  dt
+- công tác phòng chống lụt; công tác trị thuỷ
+
+@floodded
+* tt
+- bị lụt; bị ngập; bị tràn
+ @flood-gate  
+*  dt
+- công (thuỷ lợi)
+
+@flooding
+* dt
+- sự làm ngập lụt; sự úng lụt; nạn lụt
+ @flood-light  
+*  dt
+- đèn chiếu, đèn pha ((từ Mỹ,nghĩa Mỹ) (cũng) flood)
+*  ndgt
+- rọi đèn pha, chiếu đèn pha
+
+@floodlight
+* dt
+- ngọn đèn lớn có ánh sáng mạnh tạo ra một luồng sáng rộng, dùng để soi sáng các bãi thể thao, sân khấu nhà hát; đèn pha
+* ngdgt, thì quá khứ và động tt quá khứ là floodlit hoặc floodlighted
+- rọi đèn pha, chiếu đèn pha
+
++  the patrol-boat flood-lighted the riverside hamlets:tàu tuần tra rọi đèn pha vào các xóm ven sông
+ @flood-lighting  
+*  dt
+- sự rọi đèn pha
+
+@flood-lit  
+*  dt
+- tràn ngập ánh sáng
+
+@flood-mark
+* dt
+- dấu ghi nước lụt
+ @floodometer
+* dt
+- dụng cụ ghi nước lụt
+ @flood-plain
+* dt
+- đồng bằng cửa sông do nước lũ tạo thành
+ @flood-plane
+* dt
+- mặt nước lũ
+ @flood-tide  
+*  dt
+- nước triều lên
+
+@floodwater
+* dt
+- số nhiều flood  waters
+- nước của trận lũ
+ @floodway
+* dt
+- kênh tháo lũ
+ @floopy  
+*  tt
+- lạch bạch
+- (nghĩa bóng) không tự kiềm được, không tự chủ được
+- thất bại
+
+@floor  
+*  dt
+- sàn (nhà, cầu...)
+
++ dirt floor: sàn đất
+- tầng (nhà)
+- đáy
+
++ the ocean floor: đáy đại dương
+- phòng họp (quốc hội)
+- quyền phát biểu ý kiến (ở hội nghị)
+
++ to give somebody the floor: để cho ai phát biểu ý kiến
+
++ to take the floor: phát biểu ý kiến
+- giá thấp nhất
+!to cross the floor of the House
+- vào đảng phái khác
+!to mop the floor with someone
+- mop
+*  ngdgt
+- làm sàn, lát sàn
+
++ to floor a room with pine boards: lát sàn bằng ván gỗ thông
+- đánh (ai) ngã, cho (ai) đo ván
+- làm rối trí, làm bối rối
+
++ the question floored him: câu hỏi làm anh ta rối trí không trả lời được
+- bảo (học sinh không thuộc bài) ngồi xuống
+- vượt qua thắng lợi
+
++ to floor the paper: làm được bài thi
+
+@Floor
+- (Econ) Sàn.
+: Giới hạn sự đi xuống của sản lượng theo lý thuyết CHU KỲ KINH DOANH.
+ @floor
+- sàn, đáy
+ @floor show  
+*  dt
+- trò vui diễn ở sàn (trong các tiệm rượu, hộp đêm...)
+
+@floorage
+* dt
+- không gian của sàn
+ @floor-board
+* dt
+- ván sàn
+ @floor-cloth  
+*  dt
+- thấm vải sơn (lót sàn nhà)
+- giẻ lau sàn
+
+@floorer  
+*  dt
+- cú đấm đo ván
+- tin sửng sốt
+- lý lẽ làm cứng họng
+- bài thi khó; câu hỏi khó
+
+@flooring  
+*  dt
+- nguyên vật liệu làm sàn
+- sự làm sàn nhà
+
+@floor-lamp  
+*  dt
+- đèn đứng (ở sàn)
+
+@floor-leader
+* dt
+- (từ Mỹ, nghĩa Mỹ) nghị sĩ quốc hội lãnh đạo đảng mình
+ @floor-length
+* tt
+- chạy xuống đến sàn
+ @floor-manager
+* dt
+- người điều khiển chương trình vô tuyến
+ @floor-plan
+* dt
+- sơ đồ tầng lầu
+ @floor-show
+* dt
+- trò vui diễn ở sàn (trong tiệm rượu...)
+ @floor-walker  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người hướng dẫn khách (trong cửa hàng bách hoá)
+
+@floorway
+* dt
+- kênh tháo lũ
+ @floozie  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mèo, gái điếm
+
+@floozy  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mèo, gái điếm
+
+@flop  
+*  dt
+- sự rơi tõm; tiếng rơi tõm
+- (từ lóng) sự thất bại
+
++ to come to a flop: thất bại (vở kịch...)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chỗ ngủ
+*  ndgt
+- lắc lư
+- đi lạch bạch
+- ngồi xuống
+
++ to flop into a chair: ngồi phịch xuống ghế
+- kêu tõm
+- (từ lóng) thất bại (vở kịch...)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đi ngủ
+*  ngdgt
+- quẳng phịch xuống, ném phịch xuống, để rơi phịch xuống
+*  thán từ
+- thịch!, tõm!
+*  dt
+- đánh thịch một cái, đánh tõm một cái
+
+@flophouse  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) quán trọ rẻ tiền
+
+@flopover
+- (Tech) hiện tượng chạy lên xuống (trên màn hình)
+ @floppy
+* tt
+- mềm, nhẹ
+ @floppy disk
+- (Tech) đĩa mềm
+ @floppy disk drive (FDD)
+- (Tech) b¶ quay đĩa mềm
+ @FLOPS (floating-point operations per second)
+- (Tech) số phép toán điểm phù động mỗi giây, đơn vị tốc độ diễn toán
+ @floptical
+- đựa mềm quang học, đựa floptical
+ @floptical disk
+- (Tech) đĩa mềm quang
+ @flora  
+*  dt,  số nhiều floras,  florae
+- hệ thực vật (của một vùng)
+- danh sách thực vật, thực vật chí
+
+@florae  
+*  dt,  số nhiều floras,  florae
+- hệ thực vật (của một vùng)
+- danh sách thực vật, thực vật chí
+
+@floral  
+*  tt
+- (thuộc) cây cỏ, (thuộc) hệ thực vật (của một vùng)
+- (thuộc) hoa; hoa (có) hoa (vải)
+
+@floreal
+* dt
+- tháng Hoa (tháng tám trong lịch cách mạng Pháp)
+ @floreated
+* tt
+- trang trí bằng hoa
+ @florentine  
+*  tt
+- (thuộc) thành phố Flơ-ren-xơ
+*  dt
+- người dân Flơ-ren-xơ
+- lụa flơrenxơ (một loại lụa chéo)
+
+@florescence  
+*  dt
+- sự nở hoa
+- mùa ra hoa; thời kỳ ra hoa
+- (nghĩa bóng) thời kỳ nở rộ, thời kỳ hưng thịnh nhất
+
+@florescent  
+*  tt
+- nở hoa
+
+@floret  
+*  dt
+- (thực vật học) chiếc hoa (trong một cụm hoa)
+- hoa nhỏ
+
+@floriate  
+*  ngdgt
+- trang bị bằng hoa
+
+@floriation
+* tt
+- sự trang trí bằng hoa
+ @floribunda
+* dt
+- thảo mộc
+ @floricolous
+* tt
+- ở trong hoa; sống trong hoa
+ @floricultural  
+*  tt
+- (thuộc) nghề trồng hoa
+
+@floriculture  
+*  dt
+- nghề trồng hoa
+
+@floriculturist  
+*  dt
+- người trồng hoa
+
+@florid  
+*  tt
+- đỏ ửng, hồng hào (da)
+- sặc sỡ, nhiều màu sắc
+- bóng bảy, hào nhoáng
+- cầu kỳ, hoa mỹ
+
++ a florid style: văn cầu kỳ hoa mỹ
+
+@floridity  
+*  dt
+- sắc hồng hào
+- sự sặc sỡ
+- sự bóng bảy, sự hào nhoáng
+- tính chất cầu kỳ, tính chất hoa mỹ (văn)
+
+@floridness  
+*  dt
+- sắc hồng hào
+- sự sặc sỡ
+- sự bóng bảy, sự hào nhoáng
+- tính chất cầu kỳ, tính chất hoa mỹ (văn)
+
+@floriferous
+* tt
+- có hoa, mang hoa
+ @floriform
+* tt
+- hình hoa
+ @florigen
+* dt
+- hocmon kích thích nở hoa
+ @florigenic
+* tt
+- sinh hoa
+ @florilegium  
+*  dt
+- hợp tuyển ((văn học),  (thơ ca))
+
+@florin  
+*  dt
+- đồng florin (đồng hào của Anh bằng 2 silinh)
+- đồng florin (tiền Hà-lan)
+- (sử học) đồng vàng florin (Anh)
+
+@floripparious
+* tt
+- sinh hoa
+ @florist  
+*  dt
+- người bán hoa
+- người trồng hoa
+- người nghiên cứu hoa
+
+@floristic
+* tt
+- thuộc hoa; thuộc giới thực vật, hệ thực vật
+ @floristry
+* dt
+- nghề bán hoa
+ @floriterous  
+*  tt
+- có hoa, mang hoa
+
+@florous
+- hình thái ghép có nghĩa: có hoa
+- uniflorous
+- có một hoa
+
++  noctiflorous:có hoa ban đêm
+ @florspar
+- như fluorite
+ @floruit  
+*  dt
+- thuở bình sinh (của một người)
+
+@florula
+* dt
+- số nhiều florulae,  florulas
+- giới thực vật vùng nhỏ; khu hệ thực vật vùng nhỏ
+ @flory  
+*  tt
+- trang trí bằng hoa irit (huy hiệu)
+
+@floscular  
+*  tt (thực vật học)
+- gồm nhiều chiếc hoa (cụm hoa)
+- có hoa cụm hình đầu
+
+@floscule
+* dt
+- hoa con (trong cụm hoa); hoa nhỏ
+ @flosculous  
+*  tt (thực vật học)
+- gồm nhiều chiếc hoa (cụm hoa)
+- có hoa cụm hình đầu
+
+@floss  
+*  dt
+- tơ sồi
+- sồi, vải sồi
+- quần áo sồi
+
+@floss-flower
+* dt
+- cây hoắc hương
+ @floss-silk
+* dt
+- sồi; tơ sồi
+ @flossy  
+*  tt
+- như sồi
+- mịn, mượt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) loè loẹt (ăn mặc)
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cô gái ăn mặc loè loẹt; cô gái lẳng lơ
+- cô gái
+
+@floss-yarn
+* dt
+- sợi sồi
+ @flotage  
+*  dt ((từ Mỹ,nghĩa Mỹ) (cũng) flotage)
+- sự nổi, sự trôi lềnh bềnh
+- quyền thu hồi vật nổi (trên mặt biển); vật nổi (trên mặt biển)
+- thuyền bè trên sông
+- mảng (băng, rong...) nối
+- phần tàu trên mặt nước
+
+@flotation  
+*  dt ((từ Mỹ,nghĩa Mỹ) (cũng) flotation)
+- sự nổi; sự trôi
+- (hoá học) sự tách đãi
+- sự khai trương (một công ty); sự khởi công (một công việc)
+
+@Flotation
+- (Econ) Phát hành.
+: Hoạt động phát hành cổ phần cho công chúng nhằm huy động VỐN mới.
+ @flotilla  
+*  dt
+- đội tàu nhỏ
+
+@flotsam  
+*  dt
+- vật nổi lềnh bềnh (trên mặt biển)
+- trứng con trai
+!flotsam and jetsam
+- hàng hoá trôi giạt vào bờ; tàu đắm trôi giạt vào bờ
+- những đồ tạp nhạp vô giá trị
+- (từ Mỹ,nghĩa Mỹ) những người sống lang thang, những người nay có việc mai không
+
+@flounce  
+*  dt
+- sự đi hối hả
+- sự khoa tay múa chân
+*  ndgt
+- đi hối hả
+
++ to flounce out of the room: đi hối hả ra khỏi buồng
+- khoa tay múa chân
+*  dt
+- đường viền ren (ở váy phụ nữ)
+*  ngdgt
+- viền đường ren (vào váy phụ nữ)
+
+@flouncing
+* dt
+- vật liệu làm đường ren
+ @flounder  
+*  dt
+- (động vật học) cá bơn
+*  dt
+- sự lúng túng; sự nhầm lẫn (trong việc làm, trong khi nói...)
+- sự đi loạng choạng; sự loạng choạng cố tiến lên
+*  ndgt
+- lúng tung, nhầm lẫn
+- loạng choạng, thì thụp
+
+@flour  
+*  dt
+- bột, bột mì
+*  ngdgt
+- rắc bột (mì)
+- (từ Mỹ,nghĩa Mỹ) xay thành bột
+
+@flour-box  
+*  dt
+- hộp rắc bột mì
+
+@flourish  
+*  dt
+- sự trang trí bay bướm; nét trang trí hoa mỹ; nét viền hoa mỹ
+- sự diễn đạt hoa mỹ; sự vận động tu từ
+- sự vung (gươm, vũ khí, tay)
+- (âm nhạc) hồi kèn; nét hoa mỹ; đoạn nhạc đệm tuỳ ứng; nhạc dạo tuỳ ứng
+- (từ hiếm,nghĩa hiếm) sự thịnh vượng
+- sự phồn thịnh
+
++ in full flourish: vào lúc phồn thịnh nhất
+*  ndgt
+- hưng thịnh, thịnh vượng, phát đạt; thành công; phát triển, mọc sum sê (cây...)
+- viết hoa mỹ, nói hoa mỹ
+- khoa trương
+- (âm nhạc) dạo nhạc một cách bay bướm; thổi một hồi kèn
+*  ngdgt
+- vung (vũ khí); khoa (chân), múa (tay)
+
+@flour-mil  
+*  dt
+- xưởng xay bột, nhà máy xay bột
+- máy xay bột
+
+@flour-mill
+* dt
+- xưởng xay bột, nhà máy xay bột
+- máy xay bột
+ @floury  
+*  tt
+- như bột
+- phủ đầy bột
+
+@flout  
+*  dt (từ Mỹ,nghĩa Mỹ)
+- hành động miệt thị; lời nói miệt thị; lời lăng nhục
+- sự chế giễu; lời chế giễu, lời chê bai
+*  dgt
+- coi thường, miệt thị; lăng nhục
+
++ to flout a person's advice: coi thường lời khuyên của ai
+
++ to flout at somebody: miệt thị ai
+- chế giễu, chế nhạo
+
+@flow  
+*  dt
+- sự chảy
+- lượng chảy, lưu lượng
+- luồng nước
+- nước triều lên
+
++ ebb and flow: nước triều xuống và nước triều lên
+- sự đổ hàng hoá vào một nước
+- sự bay dập dờn (quần áo...)
+- (vật lý) dòng, luồng
+
++ diffusion flow: dòng khuếch tán
+!flow of spirits
+- tính vui vẻ, tính sảng khoái
+!to flow of soul
+- chuyện trò vui vẻ
+*  ndgt
+- chảy
+- rủ xuống, xoà xuống
+
++ hair flows down one's back: tóc rủ xuống lưng
+- lên (thuỷ triều)
+- phun ra, toé ra, tuôn ra
+- đổ (máu); thấy kinh nhiều (đàn bà)
+- xuất phát, bắt nguồn (từ)
+
++ wealth flows from industry and agriculture: của cải bắt nguồn từ công nghiệp và nông nghiệp
+- rót tràn đầy (rượu)
+- ùa tới, tràn tới, đến tới tấp
+
++ letters flowed to him from every corner of the country: thư từ khắp nơi trong nước gửi đến anh ta tới tấp
+- trôi chảy (văn)
+- bay dập dờn (quần áo, tóc...)
+- (từ cổ,nghĩa cổ) tràn trề
+
++ land flowing with milk and honey: đất tràn trề sữa và mật ong
+!to swim with the flowing tide
+- đứng về phe thắng, phù thịnh
+
+@Flow
+- (Econ) Dòng, luồng, Lưu lượng.
+: Lượng của một biến kinh tế được đo lường trong một khoảng thời gian.
+ @flow
+- dòng, sự chảy, lưu lượng
+- diabatic f. dòng đoạn nhiệt
+- back f. dòng ngược 
+- channel f. dòng chảy trong
+- circular f. dòng hình tròn
+- conical f. dòng hình nón
+- divergent f. dòng phân kỳ
+- energy f. dòng năng lượng
+- fliud f. dòng chất lỏng
+- free f. dòng tự do
+- gas f. dòng khí
+- geodesic f. (giải tích) dòng trắc địa
+- hypersonic f. dòng siêu âm
+- gadually varied f. dòng biến đổi dần
+- isentropic f. dòng đẳng entropi
+- jet f. dòng tia
+- laminar f. dòng thành lớp
+- logarithmic spiral f. dòng xoắn ốc lôga
+- mass f. dòng khối lượng
+- non-steady f. dòng không ổn định
+- ordinarry f. dòng thông thường 
+- parallel f. dòng song song
+- plastic f. dòng dẻo
+- potential f. (cơ học) dòng thế
+- pressure f. dòng áp
+- rapid f. dòng nhanh
+- rapidly varied f. dòng biến nhanh
+- secondary f. dòng thứ cấp
+- shearing f. dòng sát, dòng trượt, dòng cắt 
+- spiral f. dòng xoắn ốc
+- steady f. dòng ổn định
+- suberitical f. dòng trước tới hạn
+- subsonic f. dòng dưới âm tốc
+- superciritical f. dòng siêu tới hạn, dòng (mạnh) xiết
+- traffic f. dòng vận tải
+- tranqiul f. dòng yên lặng
+- turbulent f. dòng xoáy
+- uniform f. dòng đều
+- unsteady f. dòng không ổn định 
+- variable f. dòng biến thiên
+- vortex f. (hình học) dòng rôta 
+ @flow chart
+* dt
+- biểu đồ phát triển
+ @flow control
+- (Tech) điều khiển thông lượng
+ @flow diagram
+- (Tech) lưu đồ, biểu đồ trình tự, lưu trình
+ @Flow of funds analysis
+- (Econ) Phân tích luồng tiền quỹ
+: Sự phân tích trên các giác độ tổng hợp khác nhau, luồng tiền quỹ từ các khu vực thặng dư về tài chính tới các khu vực thâm hụt.
+ @Flow variable
+- (Econ) Biến số mang tính dòng chảy.
+ @flowability
+* dt
+- khả năng chảy; tính dễ chảy; tính dễ nắn
+
++  flowability of plastics:tính dễ chảy của chất dẻo
+ @flowage
+* dt
+- sự chảy đùn; sự chảy dưới áp lực
+ @flowchart
+- (Tech) lưu đồ; biểu đồ trình tự thao tác
+ @flowchart symbol
+- (Tech) ký hiệu lưu đồ
+ @flowchart template
+- (Tech) bảng vẽ mẫu lưu đồ
+ @flowcharting
+* dt
+- việc lập biểu đồ tiến trình
+ @flowdiagram
+* dt
+- xem flowchart
+ @flowed
+* tt
+- bị chảy lỏng
+ @flower  
+*  dt
+- hoa, bông hoa, đoá hoa
+- cây hoa
+- (số nhiều) lời lẽ văn hoa
+
++ flowers of speech: những câu văn hoa
+- tinh hoa, tinh tuý
+
++ the flower of the country's youth: tinh hoa của thanh niên đất nước, những phần tử ưu tú của thanh niên đất nước
+- thời kỳ nở hoa
+
++ the trees are in flower: cây cối nở hoa
+- tuổi thanh xuân
+
++ to give the flower of one's age to the country: hiến tuổi thanh xuân cho đất nước
+- (số nhiều) (hoá học) hoa
+
++ flowers of sulphur: hoa lưu huỳnh
+- váng men; cái giấm
+!no flowers
+- xin miễn đem vòng hoa phúng (đám ma)
+*  ngdgt
+- làm nở hoa, cho ra hoa
+- tô điểm bằng hoa, trang trí bằng hoa
+*  ndgt
+- nở hoa, khai hoa, ra hoa
+- (nghĩa bóng) nở rộ, đạt tới thời kỳ rực rỡ nhất
+
++ his genius flowered early: tài năng của anh ta sớm nở rộ
+
+@flower children
+* dt
+- nhóm thanh niên biểu lộ lý tưởng của mình bằng hoa
+ @flowerage  
+*  dt
+- hoa (nói chung)
+- sự nở hoa, sự khai hoa
+
+@flower-bed  
+*  dt
+- luống hoa
+
+@flower-de-luce  
+-de-luce) 
+@flowered  
+*  tt
+- (thực vật học) có hoa, ra hoa
+- hoa (vải, lụa...)
+
+@flowerer  
+*  dt
+- cây ra hoa (ra hoa vào một thời kỳ nhất định)
+
++ late flowerer: cây chậm ra hoa
+
+@floweret  
+*  dt
+- bông hoa nhỏ
+
+@flowerfish
+* dt
+- (động vật) cá liệt
+ @flower-garden
+* dt
+- vườn hoa
+ @flower-girl  
+*  dt
+- cô hàng hoa
+- (từ Mỹ,nghĩa Mỹ) cô bé cầm hoa (phù dâu trong đám cưới)
+
+@flower-head  
+*  dt
+- (thực vật học) đầu (cụm hoa)
+
+@floweriness  
+*  dt
+- tính chất văn hoa, tính chất hoa mỹ
+
+@flowering  
+*  dt
+- sự ra hoa; sự nở hoa
+
+@flowerless  
+*  tt
+- không có hoa
+
+@flowerlessness
+* dt
+- tình trạng không có hoa
+ @flower-piece  
+*  dt
+- tranh vẽ hoa
+
+@flowerpot  
+*  dt
+- chậu hoa
+
+@flower-show  
+*  dt
+- cuộc triển lãm hoa
+
+@flower-stalk
+* dt
+- cuống hoa
+ @flower-vase  
+*  dt
+- lọ (để cắm) hoa
+
+@flowery  
+*  tt
+- có nhiều hoa, đầy hoa
+
++ flowery fields: cánh đồng đầy hoa
+- văn hoa, hoa mỹ
+
++ flowery language: ngôn ngữ văn hoa
+
++ flowery words: lời lẽ hoa mỹ
+
+@flowing  
+*  dt
+- sự chảy
+- tính trôi chảy, tính lưu loát (văn)
+
+@flowingly  
+*  dt
+- trôi chảy, lưu loát
+
+@flowmeter
+* dt
+- lưu lượng kế; lưu tốc kế
+ @flown  
+*  tt
+- (từ cổ,nghĩa cổ) căng ra, phình ra, phồng ra
+
++ flown with insolence: đầy láo xược
+*  động tt quá khứ của fly
+
+@flow-off
+* dt
+- dòng xả; luồng xả
+- (luyện kim) đậu hơi
+ @flow-rate
+* dt
+- tốc độ dòng chảy; hệ số chảy rão
+ @flowsheet  
+*  dt
+- sơ đồ quá trình sản xuất (để tính giá thành)
+
+@flowstoune
+* dt
+- lớp cặn can-xi nước để lại trên đá
+ @flox
+* dt
+- hỗn hợp fluo-oxi lỏng
+ @flu  
+*  dt
+- (thông tục),  (viết tắt) của influenza, bệnh cúm ((cũng) flue)
+
+@fluate
+* dt
+- fluat,  fluosilicat
+ @flub
+* ngdgt
+- làm lộn xộn
+* ndgt
+- lầm lẫn
+ @flubdub
+* tt
+- nói bậy bạ
+* dt
+- lời nói bậy bạ
+ @flubdubery
+* dt
+- lời nói bậy bạ
+ @flucan
+* dt
+- (địa chất) mạch đất sét
+ @fluctuant
+* tt
+- ba động; lên xuống thất thường
+- thay đổi chỗ
+ @fluctuate  
+*  ndgt
+- dao động, lên xuống, thay đổi bất thường
+- (từ hiếm,nghĩa hiếm) bập bềnh
+
+@fluctuate
+- thăng giáng, dao động
+ @fluctuating current
+- (Tech) dòng ba động
+ @fluctuation  
+*  dt
+- sự dao động, sự lên xuống, sự thay đổi bất thường
+
+@fluctuation
+- sự thăng giáng, sự dao động; biến thiên
+- total f. biến thiên toàn phần
+- ideal f. of function biến thiên toàn phần của một hàm
+- velocity f. biến thiên vận tốc 
+ @flue  
+*  dt
+- lưới đánh cá ba lớp mắt
+*  dt
+- nùi bông, nạm bông
+- ống khói
+- (kỹ thuật) ống hơi
+*  dt ((cũng) fluke)
+- đầu càng mỏ neo
+- đầu đinh ba (có mấu)
+- thuỳ đuôi cá voi; (số nhiều) đuôi cá voi
+*  dt
+- bệnh cúm ((cũng) flu)
+*  ndgt
+- loe (lỗ, cửa)
+*  ngdgt
+- mở rộng (lỗ cửa) (vào trong hay ra ngoài)
+
+@flue-cured
+* tt
+- (nông nghiệp) được sấy bằng không khí nóng
+ @flue-dust
+* dt
+- tro bay; bụi khói
+- (luyện kim) bụi cổ lò
+ @fluency  
+*  dt
+- sự lưu loát, sự trôi chảy
+- sự nói lưu loát, sự viết trôi chảy
+
+@fluent  
+*  dt
+- lưu loát, trôi chảy, viết lưu loát
+- uyển chuyển, dễ dàng (cử động)
+- (từ hiếm,nghĩa hiếm) cháy, dễ cháy
+
+@fluently
+* dt
+- trôi chảy; lưu loát
+* dt
+- trôi chảy; lưu loát
+ @flue-pipe
+* dt
+- (âm nhạc) sáo
+ @flueric
+* tt
+- xem fluidic
+ @fluey  
+*  dt
+- nùi bông, nạm bông
+- lông tơ (trên mặt, trên mép)
+- (sân khấu),  (từ lóng) vai kịch không thuộc kỹ
+- (rađiô),  (từ lóng) câu đọc sai
+!a bit of fluff
+- (từ lóng) đàn bà, con gái
+- (từ Mỹ,nghĩa Mỹ) chuyện phù phiếm
+
+@fluff  
+*  ngdgt
+- làm (mặt trái da) cho mịn những đám nùi bông
+- (sân khấu),  (từ lóng) không thuộc vở
+- (rađiô),  (từ lóng) đọc sai
+
+@fluffiness  
+*  dt
+- tính chất mịn mượt (như lông tơ)
+
+@fluffy  
+*  tt
+- như nùi bông
+- có lông tơ, phủ lông tơ
+- mịn mượt
+
+@flug connector
+- (Tech) đầu  nối (dây điện)
+ @fluid  
+*  tt
+- lỏng, dễ cháy
+- hay thay đổi
+
++ fluid opinion: ý kiến hay thay đổi
+- (quân sự) di động (mặt trận...)
+*  dt
+- chất lỏng (gồm chất nước và chất khí)
+
+@fluid
+- chất lỏng; môi trường
+- compressible f. chất lỏng nén được
+- ideal f. chất lỏng lý tưởng
+- perfect f. chất lỏng nhớt 
+ @fluidal
+* tt
+- xem fluid chỉ thuộc về
+ @fluidic
+* tt
+- lỏng
+ @fluidification
+* dt
+- sự hoá lỏng; sự biến thành thể lỏng
+ @fluidify  
+*  ngdgt
+- biến thành thể lỏng
+
+@fluidity  
+*  dt
+- trạng thái lỏng
+- tính lỏng; độ lỏng
+- (kỹ thuật) tính lưu động; độ chảy loãng
+
+@fluidity
+- tính lỏng, độ lỏng
+ @fluidization
+* dt
+- sự hoá lỏng
+- sự tạo tầng sôi
+- sự giả hoá lỏng
+ @fluidize
+* ngdgt
+- hoá lỏng
+- tạo tầng sôi
+- sự giả hoá lỏng
+ @fluidness
+* dt
+- xem fluidity
+ @fluid-tight
+* tt
+- không thấm chất lỏng; không thấm dịch
+ @fluke  
+*  dt
+- sán lá, sán gan (trong gan cừu)
+- khoai tây bầu dục
+- (từ hiếm,nghĩa hiếm) cá bơn
+*  dt ((cũng) flue)
+- đầu càng mỏ neo
+- đầu đinh ba (có mấu)
+- thuỳ đuôi cá voi; (số nhiều) đuôi cá voi
+*  dt
+- sự may mắn
+
++ to win by a fluke: may mà thắng
+*  dgt
+- may mà trúng, may mà thắng
+
+@fluke-worm
+* dt
+- (động vật) sán lá; sán lá gan
+ @flukily  
+*  dt
+- ăn may, may mắn
+
+@flukiness  
+*  dt
+- tính chất ăn may, tính chất tình cờ may mắn
+
+@fluky  
+*  tt
+- may, may mắn
+- (từ Mỹ,nghĩa Mỹ) thất thường, hay thay đổi
+
++ a fluky wind: gió hay thay đổi
+
+@flume  
+*  dt,  (từ Mỹ,nghĩa Mỹ)
+- máng (dẫn nước vào nhà máy)
+- khe suối
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ) xây máng (dẫn nước vào nhà máy)
+*  ngdgt (từ Mỹ,nghĩa Mỹ)
+- chuyển bằng máng
+- thả (gỗ, bè...) xuống khe suối
+
+@fluming
+* dt
+- sự vận chuyển bằng máng dẫn thủy lực
+ @fluminous
+* tt
+- nhiều sông; có đường nước
+ @flummery  
+*  dt
+- bánh flum (một loại bánh trứng gà)
+- lời khen vuốt đuôi; lời khen cửa miệng; lời nịnh hót ngớ ngẩn
+- chuyện vớ vẩn, chuyện tào lao
+- (từ cổ,nghĩa cổ); (tiếng địa phương) cháo yến mạch đặc
+
+@flummox  
+*  ngdgt
+- (từ lóng) làm bối rối, làm lúng túng
+
+@flummux
+* dgt
+- xem flummox
+ @flump  
+*  dt
+- sự đi huỳnh huỵch
+- sự ngã huỵch; sự đặt huỵch xuống; sự ném bịch xuống
+- tiêng huỵch, tiếng bịch
+*  ndgt
+- đi huỳnh huỵch
+- ngã huỵch
+*  ngdgt
+- đặt huỵch xuống, ném bịch xuống
+
+@flung  
+*  dt
+- sự ném, sự vứt, sự quăng, sự liệng, sự lao, sự gieo (quân súc sắc)
+- sự nhào xuống, sự nhảy bổ
+- sự lu bù (ăn chơi...)
+
++ to have one's fling: ăn chơi lu bù
+- lời nói mỉa; lời chế nhạo
+
++ to have a fling at somebody: nói mỉa ai; chế nhạo ai
+- (thông tục) sự thử làm, sự gắng thử
+
++ to have a fling at something: thử làm gì, gắng thử gì
+- điệu múa sôi nổi
+
++ the Highland fling: điệu múa sôi nổi của Ê-cốt
+*  ndgt flung
+- chạy vụt, lao nhanh
+
++ to fling out of the room: lao ra khỏi phòng
+- chửi mắng, nói nặng
+
++ to fling out: chửi mắng ầm ĩ
+- hất (ngựa)
+*  ngdgt
+- ném, vứt, quăng, liệng, lao, tống
+
++ to fling something away: ném vật gì đi
+
++ to fling troops on enemy (against enemy position): lao quân vào kẻ địch (vào vị trí địch)
+
++ to fling oneself into a task: lao mình vào nhiệm vụ
+
++ to fling oneself on someone's pity: phó thác mình vào lòng thương của ai
+
++ to fling someone into prison: tống cổ ai vào tù
+- hất ngã
+
++ horse flings rider: ngựa hất ngã người cưỡi
+- đá hậu
+- vung (tay...); hất (đầu...)
+- đưa (mắt) nhìn lơ đãng
+- toà án, phát ra
+
++ flowers fling their fragrance around: hoa toả hương thơm
+- đẩy tung (cửa)
+
++ to fling door open: mở tung cửa
+!to fling caution to the wind
+- liều lĩnh, thục mạng
+!to fling facts in somebody's teeth
+- đưa việc ra để máng vào mặt ai
+!to fling oneself at someone's head
+- cố chài được ai lấy mình làm vợ
+
+@flunk  
+*  ngdgt,  (từ Mỹ,nghĩa Mỹ),  (thông tục)
+- hỏng (thi)
+
++ to flunk the examination: hỏng thi, thi trượt
+- đánh hỏng, làm thi trượt
+*  ndgt,  (từ Mỹ,nghĩa Mỹ),  (thông tục)
+- hỏng thi, thi trượt
+- chịu thua, rút lui
+!to flunk out
+- (thông tục) đuổi ra khỏi trường (vì lười biếng...)
+
+@flunkey  
+*  dt ((từ Mỹ,nghĩa Mỹ) (cũng) flunky)
+- ghuộm khoeo kẻ tôi tớ
+- kẻ hay bợ đỡ, kẻ xu nịnh
+- kẻ học làm sang; kẻ thích người sang
+
+@flunkeydom  
+*  dt
+- thân phận người hầu, thân phận tôi đòi
+- cung cách xu nịnh bợ đỡ
+
+@flunkeyism  
+*  dt
+- thân phận người hầu, thân phận tôi đòi
+- cung cách xu nịnh bợ đỡ
+
+@flunky  
+*  dt ((từ Mỹ,nghĩa Mỹ) (cũng) flunky)
+- ghuộm khoeo kẻ tôi tớ
+- kẻ hay bợ đỡ, kẻ xu nịnh
+- kẻ học làm sang; kẻ thích người sang
+
+@flunkyism  
+*  dt
+- thân phận người hầu, thân phận tôi đòi
+- cung cách xu nịnh bợ đỡ
+
+@fluor  
+*  dt
+- (khoáng chất) Fluorit
+
+@fluoresce  
+*  ndgt
+- (vật lý) phát huỳnh quang
+
+@fluorescein
+* dt
+- cũng fluoresceine
+- (hoá học) fluoretxein
+ @fluorescence  
+*  dt
+- (vật lý) sự huỳnh quang; phát huỳnh quang
+
+@fluorescence
+- (Tech) huỳnh quang
+ @fluorescence
+- sự huỳnh quang
+ @fluorescent  
+*  tt
+- (vật lý) huỳnh quang
+
++ a fluorescent lamp: đèn huỳnh quang
+
++ fluorescent light: ánh sáng huỳnh quang
+
+@fluorescent lamp
+- (Tech) đèn huỳnh quang
+ @fluoridate
+* dgt
+- cho florua vào nước để ngừa sâu răng
+ @fluoridation
+* dt
+- sự cho florua vào nước để ngừa sâu răng
+ @fluoride  
+*  dt
+- (hoá học) Florua
+
+@fluoridisation
+* dt
+- sự cho florua vào nước để ngừa sâu răng
+ @fluoridise
+* dgt
+- cho florua vào nước để ngừa sâu răng
+ @fluoridization
+* dt
+- sự cho florua vào nước để ngừa sâu răng
+ @fluoridize
+- cho florua vào nước để ngừa sâu răng
+ @fluorimeter
+* dt; cũng fluorometer
+- khí cụ để xác định hàm lượng flo
+ @fluorimetric
+- Cách viết khác : fluorometric 
+ @fluorimetry
+- Cách viết khác : fluorometry 
+ @fluorine  
+*  dt
+- (hoá học) Flo
+
+@fluorite  
+*  dt
+- (khoáng chất) Fluorit
+
+@fluorocarbon
+* dt
+- floruacacbon
+ @fluorographic
+* tt
+- (thuộc) cách chụp ảnh hùynh quang
+ @fluorography
+* dt
+- cách chụp ảnh hùynh quang
+ @fluoroscope
+* dt
+- hùynh quang nghiệm
+ @fluoroscopy
+* dt
+- phép nghiệm hùynh quang
+ @fluor-spar  
+*  dt
+- (khoáng chất) Fluorit
+
+@fluorspar
+- xem fluorite
+ @flurried
+* tt
+- khích động; vội vã
+
++  in a flurried manner:có vẻ vội vã
+ @flurry  
+*  dt
+- cơn gió mạnh; (từ Mỹ,nghĩa Mỹ) cơn mưa dông bất chợt; trận mưa tuyết bất chợt
+- sự nhộn nhịp, sự náo động; sự xôn xao, sự bối rối
+- cơn giãy chết của cá voi
+- sự lên giá xuống giá bất chợt (ở thị trường chứng khoán)
+*  ngdgt
+- làm nhộn nhịp, làm náo động; làm xôn xao, làm bối rối
+
+@flush  
+*  tt
+- bằng phẳng, ngang bằng
+
++ the door is flush with the walls: cửa ngang bằng với tường
+- tràn đầy, chứa chan, đầy dẫy; nhiều tiền lắm của
+- tràn ngập, tràn đầy (sông)
+- (từ Mỹ,nghĩa Mỹ) hồng hào, đỏ ửng
+- (từ Mỹ,nghĩa Mỹ) đứng thẳng
+
++ a blow flush in the face: cú đấm đúng vào mặt, cú đấm thẳng vào mặt
+*  dt
+- bằng phẳng, ngang bằng
+- (từ Mỹ,nghĩa Mỹ) đứng thẳng
+*  ngdgt
+- làm cho bằng phẳng, làm cho đều, làm cho ngang bằng
+*  dt
+- (đánh bài) xấp bài cùng hoa; dãy bài cùng hoa
+
++ royal flush: dãy bài cùng hoa liền nhau (từ con át trở xuống)
+- đàn chim (xua cho bay lên một lúc)
+*  ngdgt
+- xua cho bay lên
+*  ndgt
+- vỗ cánh bay hốt hoảng, vụt bay đi
+*  dt
+- sự chảy xiết, sự chảy mạnh (nước); dòng nước (từ guồng cối xay gió)
+- lớp cỏ mới mọc
+- sự giội rửa
+- sự hừng sáng; ánh (của ánh sáng, màu sắc); sự đỏ bừng (mặt); sự ửng hồng
+- sự tràn đầy; sự phong phú
+- sự xúc động dào dạt; niềm hân hoan (vì thắng lợi...)
+- cơn nóng, cơn sốt
+- tính chất xanh tươi; sức phát triển mạnh mẽ
+
++ the flush of youth: sức phát triển mạnh mẽ của tuổi thanh xuân
+!in the flush of victories
+- trên đà thắng lợi, thừa thắng
+*  ndgt
+- phun ra, toé ra
+- đâm chồi nẩy lộc (cây)
+- hừng sáng; ánh lên (màu); đỏ bừng, ửng hồng (mặt)
+*  ngdgt
+- giội nước cho sạch, xối nước
+- làm ngập nước, làm tràn nước
+- làm đâm chồi nẩy lộc
+- làm hừng sáng; làm ánh lên (màu); làm đỏ bừng (mặt)
+- kích thích, làm phấn khởi, làm hân hoan
+
++ flushed with victory: phấn khởi vì chiến thắng
+
+@flush
+- (Tech) xóa sạch; chuyển hết ra ngoài (từ vùng nhớ ra điã)
+ @flushed
+* tt
+- xúc động
+ @flusher
+* dt
+- vòi tia nước; vòi xối nước
+- vòi phun; vòi xịt nước
+ @flushing
+* dt
+- sự rửa bằng tia nước
+- sự nhuộm màu đỏ máu
+ @fluster  
+*  dt
+- sự bối rối
+- sự nhộn nhịp, sự bận rộn, sự náo động, sự xôn xao
+
++ to be all in a fluster: bận rộn, nhộn nhịp
+*  ngdgt
+- làm chếnh choáng say
+- làm bối rối
+- làm nhộn nhịp, làm bận rộn, làm náo động, làm xôn xao
+*  ndgt
+- bối rối, nhộn nhịp, bận rộn, náo động, xôn xao
+
+@flusterate
+- làm cho say
+- làm xáo động
+ @flusteration
+* dt
+- sự làm cho say
+- sự làm xáo động
+ @flute  
+*  dt
+- (âm nhạc) cái sáo
+- người thổi sáo, tay sáo
+- (kiến trúc) đường rãnh máng (ở cột)
+- nếp máng (tạo nên ở quần áo hồ cứng)
+*  dgt
+- thổi sáo
+- nói thánh thót, hát thánh thót (như tiếng sáo)
+- làm rãnh máng (ở cột)
+- tạo nếp máng (ở quần áo hồ cứng)
+
+@fluted
+* tt
+- có đường rãnh (cột)
+ @fluter
+* dt
+- người thổi sáo
+- người tạo đường rãnh (ở cột)
+ @fluting  
+*  dt
+- sự thổi sáo
+- sự nói thánh thót, sự hát thánh thót
+- sự làm rãnh máng (ở cột)
+- sự tạo nếp máng (ở quần áo hồ cứng)
+
+@fluting-engine
+* dt
+- dụng cụ tạo đường rãnh ở cột
+ @fluting-iron
+* dt
+- bàn là tạo nếp máng (quần áo)
+ @fluting-plane
+* dt
+- bào tạo đường rãnh (ổ cột)
+ @flutist  
+*  dt
+- người thổi sáo
+
+@flutter  
+*  dt
+- sự vẫy, sự vỗ (cánh)
+
++ the flutter of wings: sự vỗ cánh
+- sự run rẫy vì bị kích động
+
++ to be in a flutter: bối rối
+
++ to make a flutter: gây sự xao xuyến
+- sự rung
+- (từ lóng) sự đầu cơ vặt
+*  ndgt
+- vỗ cánh, vẫy cánh
+- rung rinh, đu đưa, dập dờn
+- đập yếu và không đều (mạch)
+- run rẩy vì kích động, bối rối, xao xuyến, xốn xang
+
++ my heart flutters: lòng tôi xao xuyến
+*  ngdgt
+- vỗ (cánh...), vẫy (cánh, cờ...)
+- kích động; làm bối rối, làm xao xuyến, làm xốn xang
+
+@flutter
+- (vật lí) phách động
+ @flutterer
+* dt
+- người gây chấn động; người gây náo loạn
+ @fluttering
+* dt
+- sự dao động; sự rung động
+ @fluttery
+* dt
+- sự dao động, sự lay động
+- sự gây phiền não
+ @fluty  
+*  tt
+- thánh thót
+
+@fluvial  
+*  tt
+- (thuộc) sông
+- thấy ở sông
+
+@fluviatic
+* tt
+- xem fluviatile
+ @fluviatile  
+*  tt
+- (thuộc) sông
+- thấy ở sông
+- do sông tạo ra
+
+@fluvio-glacial
+* tt
+- có nguồn gốc từ dòng sông do băng hà tan ra
+ @fluviograph
+* dt
+- thước đo mực nước sông
+ @fluvio-marine
+* tt
+- thuộc sông biển; có nguồn gốc sông biển
+ @fluvio-meter
+* dt
+- thước đo mực nước sông
+ @flux  
+*  dt
+- sự chảy mạnh, sự tuôn ra
+
++ a flux of talk: chuyện thao thao bất tuyệt, chuyện nổ như ngô rang
+- sự thay đổi liên tục
+
++ in a state of flux: ở tình trạng thay đổi liên tục (không ổn định)
+- (kỹ thuật) dòng, luồng
+
++ axial flux: dòng hướng trục
+
++ neutron flux: luồng nơtron
+- (toán học),  (vật lý) thông lượng
+
++ vector flux: thông lượng vectơ
+
++ radiaction flux: thông lượng bức xạ
+- (kỹ thuật) chất gây cháy (luyện kim)
+- (y học) sự băng huyết
+- (từ cổ,nghĩa cổ) bệnh kiết lỵ
+*  ndgt
+- chảy ra, đổ ra, tuôn ra
+*  ngdgt
+- làm chảy (kim loại) bằng chất gây chảy
+- (y học) tấy
+
+@flux
+- (Tech) thông lượng
+ @flux
+- thông lượng, dòng
+- enegy f. năng thông, dòng năng lượng
+- luminous f. quang thông, dòng ánh sáng
+- magnetic f. thông lượng từ
+- vanishing f. thông lượng triệt tiêu 
+ @fluxation
+* dt
+- sự tuôn chảy
+- sự biến thiên
+ @fluxible
+* tt
+- dễ nóng chảy; dễ nấu chảy
+ @fluxing
+* dt
+- sự hạ điểm nóng chảy (bằng cách trợ dung)
+- sự gia thêm chất trợ dung
+ @fluxion  
+*  dt
+- (toán học) vi phân
+- (từ hiếm,nghĩa hiếm) sự chảy
+- (từ hiếm,nghĩa hiếm) sự thay đổi liên tục; sự biến đổi liên tục
+
+@fluxional  
+*  tt
+- (toán học) vi phân
+
+@fluxionary  
+*  tt
+- (toán học) vi phân
+
+@fluxmeter
+* dt
+- từ thông kế
+ @fly  
+*  dt
+- con ruồi
+- ruồi (làm mồi câu); ruồi giả (làm mồi câu cá)
+- (nông nghiệp) bệnh do ruồi, sâu bệnh
+!to crush a fly upon the wheel
+!to break a fly upon the wheel
+- dùng dao mổ trâu cắt tiết gà, lấy búa đạp muỗi
+!a fly on the wheel (on the coatch wheel)
+- người lăng xăng tưởng mình quan trọng
+!no flies on him
+- (từ lóng) anh ta rất đắc lực, anh ta rất được việc
+- (từ Mỹ,nghĩa Mỹ) anh ta rất láu
+*  dt
+- sự bay; quãng đường bay
+
++ on the fly: đang bay
+- vạt cài cúc (ở áo)
+- cánh cửa lều vải
+- đuôi cờ
+- (sân khấu), (số nhiều) khoảng trên đầu sân khấu (có để những bộ kéo phông)
+- bộ phận điều chỉnh tốc độ (ở đồng hồ)
+- (kỹ thuật) (như) fly-wheel
+- (từ cổ,nghĩa cổ) xe độc mã
+*  ndgt flew,  flown
+- bay
+- đi máy bay, đáp máy bay
+
++ to fly home: đáp máy bay về nhà
+- bay vút lên cao (diều hâu, để đánh nhau)
+- bay phấp phới, tung bay
+
++ flags are flying: cờ tung bay phấp phới
+- đi nhanh, chạy nhanh, rảo bước
+
++ it's late, we must fly: đã muộn rồi, chúng ta phải đi nhanh lên
+- tung; chạy vùn vụt như bay
+
++ the door flew open: cửa mở tung
+
++ time flies: thời gian vùn vụt trôi qua
+- (thời quá khứ fled) chạy trốn, tẩu thoát
+*  ngdgt
+- làm bay phấp phới, làm tung bay
+
++ to fly a flag: cờ tung bay phấp phới
+- thả (cho bay)
+
++ to fly pigeons: thả chim bồ câu
+- lái (máy bay...); chuyên chở bằng máy bay
+!to fly at
+!to fly on
+- xông lên; tấn công
+
++ to fly at the enemy: xông lên tấn công quân địch
+!to fly into
+- nổi (khùng), rớn (mừng)
+
++ to fly into a rage: nổi xung, nổi cơn thịnh nộ
+- xông vào, xộc vào (trong phòng...)
+!to fly off
+- bay đi (chim); chuồn đi
+- đứt mất (cúc áo)
+!to fly out
+- tuôn ra một thôi một hồi
+- nổi cơn hung hăng
+!to fly over
+- nhảy qua
+
++ to fly over fence: nhảy qua hàng rào
+!to fly round
+- quay (bánh xe)
+!to fly upon
+- (như) to fly at
+!as the crow flies
+- (xem) crow
+!the bird in flown
+- (nghĩa bóng) chim đã lọt lưới rồi, hung thủ đã tẩu thoát rồi
+!to fly to arms
+- (xem) arm
+!to fly the country
+- chạy trốn; đi khỏi nước
+!to fly in the face of
+- (xem) face
+!to fly high
+!to fly at high game
+- có tham vọng, có hoài bão lớn
+!to fly a kite
+- (xem) kite
+!to fly low
+- nằm im, lẩn lút
+!go fly a kite!
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bước đi, đừng quấy rầy nữa!
+!to let fly
+- (xem) let
+!to make the money fly
+- tiêu tiền như rác
+*  tt
+- (từ lóng) cẩn thận, tỉnh táo, cảnh giác
+
+@fly whisk  
+*  dt
+- chổi xua ruồi
+
+@flyable
+* tt
+- có thể bay được
+ @fly-away  
+*  tt
+- tung bay, bay phấp phới
+- xoã ra (tóc); lùng thùng (quần áo)
+- lông bông, phù phiếm (người)
+*  dt
+- người chạy trốn, người tẩu thoát
+- người lông bông phù phiếm
+
+@flyback
+* dt
+- sự quét ngược; tia quét ngược
+ @flyball
+* dt
+- quả văng (bộ điều chỉnh ly tâm)
+ @fly-bane  
+*  dt
+- thuốc diệt ruồi
+
+@fly-bill
+* dt
+- tờ giấy rời
+ @fly-bitten  
+*  tt
+- bị ruồi đẻ trứng vào
+
+@fly-blow  
+*  dt
+- trứng ruồi (ở thịt...)
+*  tt
+- bị ruồi đẻ trứng vào, đầy trứng ruồi
+- (nghĩa bóng) làm ô uế, làm hư hỏng
+
+@fly-blown  
+*  ngdgt
+- đẻ trứng ở (thịt) (ruồi)
+- (nghĩa bóng) làm ô uế, làm hư hỏng
+*  tt
+- bị ruồi đẻ trứng vào, đầy trứng ruồi
+- (nghĩa bóng) ô uế, hư hỏng
+
+@fly-book  
+*  dt
+- hộp đựng ruồi (làm mồi câu, giống như quyển sách)
+
+@fly-by
+* dt
+- sự bay của tàu vũ trụ
+ @fly-by-night  
+*  dt
+- người hay đi chơi đêm
+- người dọn nhà đêm (để trốn nợ)
+
+@fly-catcher  
+*  dt
+- bầy ruồi
+- (động vật học) chim đớp ruồi, chim giẻ quạt
+- (thực vật học) cây bắt ruồi
+
+@flyer  
+*  dt
+- vật bay, con vật có cánh (như chim, sâu bọ...)
+- xe đi nhanh như bay; con vật bay nhanh
+- người lái máy bay
+- cái nhảy vút lên
+- (thông tục) người nhiều tham vọng
+- (kỹ thuật) bánh đà
+
+@fly-fish  
+*  ndgt
+- câu (cá) bằng ruồi
+
+@fly-fishing
+* dt
+- cách câu cá bằng ruồi nhân tạo
+ @fly-flap  
+*  dt
+- cái vỉ ruồi
+
+@fly-hook
+* dt
+- lưỡi câu cắm ruồi giả
+ @flying  
+*  dt
+- sự bay
+- chuyến bay
+*  tt
+- bay
+- mau chóng, chớp nhoáng
+
++ a flying visit: cuộc đi thăm chớp nhoáng
+
+@flying bedstead  
+*  dt
+- máy bay thí nghiệm lên thẳng
+
+@flying boat  
+*  dt
+- (hàng không) máy bay đổ xuống nước được
+
+@flying bomb  
+*  dt
+- bom bay
+- máy bay không người lái mang đầu đạn
+
+@flying buttress
+* dt
+- giàn chống của một toà nhà
+ @flying colours
+* dt
+- cờ lễ
+ @flying column
+* dt
+- <qsự> đơn vị cơ động
+ @flying doctor
+* dt
+- bác sự lưu động
+ @flying fish  
+*  dt
+- (động vật học) cá chuồn
+
+@flying fortress  
+*  dt
+- (hàng không) pháo đài bay
+
+@flying fox  
+*  dt
+- (động vật học) dơi quạ
+
+@flying jump
+* dt
+- cú nhảy xa
+ @flying picket
+* dt
+- người kích động bãi công
+ @flying saucer  
+*  dt
+- (quân sự) đĩa bay
+
+@flying spot scanning
+- (Tech) quét bằng điểm bay
+ @flying squadron  
+*  dt
+- đội máy bay hoả tốc
+
+@flying squirrel  
+*  dt
+- (động vật học) sóc bay
+
+@flying start
+* dt
+- sự xuất phát
+ @flying tackle
+* dt
+- cú ôm ngang
+ @flying-bedstead
+* dt
+- máy bay thí nghiệm lên thẳng
+ @flying-bridge  
+*  dt
+- cầu tạm thời, cầu phao
+
+@fly-leaf  
+*  dt
+- (ngành in) tờ để trắng (ở đầu và cuối quyển sách)
+
+@flyman  
+*  dt
+- (sân khấu) người kéo màn, người kéo phông
+- (từ cổ,nghĩa cổ) người đánh xe độc mã
+
+@fly-net  
+*  dt
+- lưới ruồi (cho ngựa)
+
+@fly-nut
+* dt
+- đai ốc tai hồng
+ @fly-off
+* dt
+- cuộc thử máy bay (trước khi mua)
+ @fly-over  
+*  dt
+- đoàn máy bay
+- cầu chui (bắc qua đường nhiều xe cộ) ((cũng) fly-over_bridge)
+
+@fly-over bridge  
+*  dt
+- cầu chui (bắc qua đường nhiều xe cộ) ((cũng) fly-over)
+
+@fly-over viaduct  
+*  dt
+- đoàn máy bay
+- cầu chui (bắc qua đường nhiều xe cộ) ((cũng) fly-over_bridge)
+
+@fly-paper  
+*  dt
+- giấy bẫy ruồi
+
+@fly-past  
+*  dt
+- đoàn máy bay bay diễu (qua khán đài...)
+
+@fly-post
+* dgt
+- dán tài liệu ở nơi cấm dán
+ @fly-posting
+* dt
+- sự dán tài liệu ở nơi cấm dán
+ @fly-powder
+* dt
+- bột khử ruồi
+ @fly-sheet
+* dt
+- tờ giấy rời, tờ giấy chiếc
+ @flysheet
+* dt
+- tấm bạt phủ
+- tài liệu hai hoặc bốn trang
+- tờ giấy rời, tờ giấy chiếc
+ @fly-spray
+* dt
+- thuốc phun diệt ruồi
+ @fly-swatter  
+*  dt
+- vĩ ruồi
+
+@fly-table
+* dt
+- bàn mặt bàn kéo ra xếp vào được
+ @fly-trap  
+*  dt
+- bẫy ruồi
+- (thực vật học) cây bắt ruồi
+
+@flyweight
+* dt
+- (quyền Anh) võ sự hạng ruồi
+ @fly-wheel  
+*  dt
+- (kỹ thuật) bánh đà
+
+@flywheel
+- (Tech) bánh đà, bánh trớn
+ @flywheel circuit
+- (Tech) mạch bánh đà
+ @fly-whisk
+* dt
+- chổi xua ruồi
+ @

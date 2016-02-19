@@ -1,0 +1,212 @@
+@oaf  
+*  dt,  số nhiều oaf,  oaves
+- đứa bé sài đẹn, đứa bé bụng ỏng đít eo
+- đứa bé ngu ngốc
+- người đần độn hậu đậu
+- (từ cổ,nghĩa cổ) đứa bé do yêu tinh đánh đổi
+
+@oafish  
+*  tt
+- sài đẹn, bụng ỏng đít eo
+- ngu ngốc
+- đần độn hậu đậu
+
+@oafishly
+* tt
+- xem oafish
+ @oafishness
+* dt
+- xem oafish, chỉ tính chất
+ @oak  
+*  dt
+- (thực vật học) cây sồi
+- lá sồi
+- màu lá sồi non
+- gỗ sồi
+- đồ đạc bằng gỗ sồi
+- cửa ngoài (của một loạt buồng,  (thường) bằng gỗ sồi ở trường đại học Anh)
+
++ to sport one's oak: đóng cửa không tiếp khách
+- (thơ ca) tàu bè bằng gỗ
+!the Oaks
+- cuộc thi ngựa cái ba tuổi ở Ep-xơm
+!Heart of Oak
+- đội tàu và thuỷ thủ của hải quân Anh
+!the Royal oak
+- cây sồi nơi vua Sác-lơ II ẩn nấp khi bị truy nã ngày 6 9 1651
+
+@oak-apple   (oak-fig) @oaken  
+*  dt
+- bằng gỗ sồi
+
+@oakery
+* dt
+- rừng sồi
+ @oak-fig   (oak-fig) @oak-gall   (oak-fig) @oaklet   (oakling) @oakling   (oakling) @oak-nut   (oak-fig) @oak-paper
+* dt
+- giấy vân gỗ sồi (để dán tường)
+ @oak-plum
+- <thực> vú lá sồi
+ @oak-potato
+- <thực> vú lá sồi
+ @oak-spangle
+- <thực> vú lá sồi
+ @oak-tree
+* dt
+- <thực> gỗ sồi
+ @oakum  
+*  dt
+- xơ dây thừng cũ (dùng để bịt khe hở ở thuyền...)
+
+@oak-wart
+- <thực> vú lá sồi
+ @oak-wood  
+*  dt
+- rừng sồi
+- gỗ sồi
+
+@oaky
+* tt
+- giống như sồi
+- cứng rắn
+ @oap
+- dánh từ
+- vt của old-age pensioner
+- người được hưởng trợ cấp tuổi già
+ @OAPEC
+- (Econ) Tổ chức các nước A-rập xuất khẩu dầu
+ @oar  
+*  dt
+- mái chèo
+- người chèo thuyền, tay chèo
+- (nghĩa bóng) cánh (chim); cánh tay (người); vây (cá)
+!to be chained to the oar
+- bị bắt và làm việc nặng và lâu
+!to have an oar in every man's boat
+- hay can thiệp vào chuyện của người khác
+!to pull a good oar
+- (xem) pull
+!to put in one's oar
+- (xem) put
+!to rest on one's oars
+- (xem) rest
+*  dgt
+- (thơ ca) chèo thuyền, chèo
+!to oar one's arms
+- vung tay, khoát tay
+
+@oarage  
+*  dt
+- (thơ ca) mái chèo (nói chung)
+
+@oared  
+*  tt
+- có mái chèo ((thường) trong từ ghép)
+
++ four oared boat: thuyền bốn mái chèo
+
+@oarer   (oarer) @oar-feathers
+* dt
+- số nhiều
+- lông cánh
+ @oarium
+* dt
+- buồng trứng
+ @oarless  
+*  tt
+- không có mái chèo
+- không bị mái chèo làm gợn sóng
+
+@oar-lock  
+*  dt
+- cọc chèo
+
+@oarsman   (oarer) @oarsmanship  
+*  dt
+- nghệ thuật chèo đò; tài chèo đò
+
+@oary  
+*  tt
+- (thơ ca) hình bơi chèo
+
+@oas
+* dt
+- vt của Organization of American States
+- Tổ chức các nước châu Mỹ
+ @oasal
+* tt
+- thuộc ốc đảo
+ @oases  
+*  dt,  số nhiều oases
+- (địa lý,địa chất) ốc đảo
+- (nghĩa bóng) nơi màu mỡ; nơi nghỉ ngơi thoải mái
+
+@oasis  
+*  dt,  số nhiều oases
+- (địa lý,địa chất) ốc đảo
+- (nghĩa bóng) nơi màu mỡ; nơi nghỉ ngơi thoải mái
+
+@oast  
+*  dt
+- lò sấy hoa bia; lò sấy mạch nha; lò sấy thuốc lá
+
+@oast-house  
+*  dt
+- nhà sấy hoa bia; nhà sấy mạch nha; nhà sấy thuốc lá
+
+@oat  
+*  dt
+- (thực vật học) yến mạch
+- (thơ ca) sáo bằng cọng yến mạch
+!to sow one's wild oats
+- chơi bời tác tráng (lúc còn trẻ)
+!to feel one's oat
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ra vẻ ta đây quan trọng, vênh váo
+- phởn, tớn lên
+
+@oatcake  
+*  dt
+- bánh yến mạch
+
+@oaten  
+*  tt
+- bằng bột yến mạch, bằng rơm yến mạch
+
+@oath  
+*  dt,  số nhiều oaths
+- lời thề, lời tuyên thệ
+
++ to take (make, swear) an oath: tuyên thệ
+
++ on (one's) oath: đã thề, đã tuyên thệ
+
++ to put someone on his oath: bắt ai thề
+
++ oath of allegiance: lời thề trung thành
+- lời nguyền rủa
+
+@oath-breaker  
+*  dt
+- người không giữ lời thề
+
+@oath-breaking  
+*  dt
+- sự không giữ lời thề
+
+@oatmeal  
+*  dt
+- bột yến mạch
+- cháo bột yến mạch
+
+@oau
+* dt
+- vt của Organization of African Unity
+- Tổ chức thống nhất châu Phi
+ @oaves  
+*  dt,  số nhiều oaf,  oaves
+- đứa bé sài đẹn, đứa bé bụng ỏng đít eo
+- đứa bé ngu ngốc
+- người đần độn hậu đậu
+- (từ cổ,nghĩa cổ) đứa bé do yêu tinh đánh đổi
+
+@

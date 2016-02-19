@@ -1,0 +1,1016 @@
+@jubbah
+* dt
+- áo choàng dài rộng (áo truyền thống ở những nước theo đạo hồi)
+ @jubilance   (jubilance) @jubilant  
+*  tt
+- vui sướng, mừng rỡ, hân hoan; tưng bừng hớn hở
+
+@jubilantly
+* dt
+- vui vẻ, hân hoan
+ @jubilate  
+*  ndgt
+- vui sướng, mừng rỡ, hân hoan; tưng bừng hớn hở
+
+@jubilation   (jubilance) @jubilee  
+*  dt
+- lễ kỷ niệm 50 năm
+
++ silver jubilee: lễ kỷ niệm 25 năm
+!Diamond Jubilee
+- lễ mừng 60 năm trị vì của hoàng hậu Vích-to-ri-a (1867)
+- dịp vui mùa mở hội
+- niềm hân hoan, niềm vui tưng bừng
+- (sử học) ngày lễ toàn xá (50 năm một lần của Do thái)
+- (tôn giáo) ngày lễ đại xá (đạo Cơ đốc)
+
+@judaic  
+*  tt
+- (thuộc) Do thái
+
+@judaica
+* dt số nhiều
+- sách vở văn học hoặc lịch sử liên quan tới người Do Thái hoặc đạo Do Thái
+ @judaise   (Judaise) @judaism  
+*  dt
+- đạo Do thái
+
+@judaist  
+*  dt
+- người theo đạo Do thái
+
+@judaize   (Judaise) @judas  
+*  dt
+- (kinh thánh) Giu-dda (kẻ đã phản bội Chúa Giê-xu)
+- (nghĩa bóng) kẻ phản bội
+- (judas) lỗ nhỏ đục ở cánh cửa ((cũng) judas-hole)
+
+@judas-coloured  
+*  tt
+- đỏ hoe (râu, tóc...)
+
+@judas-hole  
+*  dt
+- lỗ nhỏ đục ở cánh cửa ((cũng) judas)
+
+@judder  
+*  dt
+- sự lắc, sự rung
+*  ndgt
+- lắc, rung
+
+@judge  
+*  dt
+- quan toà, thẩm phán
+- người phân xử, trọng tài
+- người am hiểu, người sành sỏi
+
++ a judge of art: người am hiểu nghệ thuật
+*  ngdgt
+- xét xử, phân xử (một vụ kiện, một người có tội...)
+- xét, xét đoán, phán đoán, đánh giá
+
++ do not judge people by appearance: đừng xét người theo bề ngoài
+- xét thấy, cho rằng, thấy rằng
+
++ if you judge it to be necessary: nếu anh xét thấy cái đó là cần thiết
+- (từ cổ,nghĩa cổ) phê bình, chỉ trích
+*  ndgt
+- làm quan toà
+- làm người phân xử, làm trọng tài
+- xét, xét xử, xét đoán
+
+@judge
+- phán đoán, tranh luận
+ @judge-made  
+*  tt
+- judge-made law những nguyên tắc căn cứ trên quyết định của các quan toà
+
+@judgematic   (judgematical) @judgematical   (judgematical) @judgement   (judgement) @judgement creditor   (judgement_creditor) @judgement debt   (judgement_debt) @judgement debtor   (judgement_debtor) @judgement-day   (judgement-day) @judgement-seat
+* dt
+- ghế quan toà, chỗ ngồi của quan toà
+- toà án
+ @judgeship  
+*  dt
+- chức vị quan toà
+
+@judgment   (judgement) @judgment
+- sự phán đoán; sự tranh luận, sự xét sử
+ @judgment creditor   (judgement_creditor) @judgment debt   (judgement_debt) @judgment debtor   (judgement_debtor) @judgment-day   (judgement-day) @judgment-seat   (judgement-seat) @judicature  
+*  dt
+- các quan toà (của một nước)
+- bộ máy tư pháp
+!the Supreme Court of Judicature
+- toà án tối cao nước Anh
+- chức quan toà; nhiệm kỳ quan toà
+- toà án
+
+@judicial  
+*  tt
+- (thuộc) toà án; (thuộc) quan toà; (thuộc) pháp luật ((cũng) judiciary)
+
++ the judicial bench: các quan toà
+
++ a judicial assembly: toà án
+
++ to take (bring) judicial proceedings against someone: truy tố ai tại toà
+- do toà án xét xử, do toà quyết định
+
++ a judicial separation: sự biệt cư do toà quyết định
+- bị Chúa trừng phạt
+
++ judicial blindnest: sự mù quáng do Chúa trừng phạt
+- có phán đoán, có suy xét, có phê phán
+
++ judicial faculty: óc suy xét, óc phê phán
+- công bằng, vô tư
+
+@judicially
+* dt
+- về mặt pháp luật, về phương diện pháp lý
+- công bằng, vô tư
+ @judiciary  
+*  tt
+- (thuộc) toà án; (thuộc) quan toà; (thuộc) pháp luật ((cũng) judicial)
+*  dt
+- bộ máy tư pháp
+- các quan toà (của một nước)
+
+@judicious  
+*  tt
+- sáng suốt, có suy xét; đúng đắn, chí lý
+- khôn ngoan; thận trọng
+
+@judiciously
+* dt
+- sáng suốt, khôn ngoan, thận trọng
+ @judiciousness  
+*  dt
+- sự sáng suốt, sự đúng đắn, sự chí lý
+- sự khôn ngoan; sự thận trọng
+
+@judith
+* dt
+- nữ anh hùng Do Thái (theo truyền thuyết)
+ @judo  
+*  dt
+- võ juddô (võ Nhật)
+
+@judoist
+- xem judo
+ @judoka
+* dt
+- người tập juđô
+ @judy
+* dt
+- (thường) viết hoa,  (từ lóng) cô gái; cô nàng
+ @jug  
+*  dt
+- cái bình (có tay cầm và vòi)
+- (từ lóng) nhà tù ((cũng) stone jug)
+*  ngdgt
+- ((thường) động tt quá khứ) hầm (thỏ) trong nồi đất
+
++ jug ged hare: thịt thỏ hầm trong nồi đất
+- (từ lóng) giam, bỏ tù
+*  dt
+- tiếng hót (của chim sơn ca...) ((cũng) jug)
+*  ndgt
+- hót (chim sơn ca...)
+
+@jugate  
+*  tt
+- (thực vật học) có lá chét thành cặp
+
+@jugful  
+*  dt
+- bình (đầy)
+!not by a jugful
+- (từ Mỹ,nghĩa Mỹ) không khi nào, không đời nào
+
+@juggernaut  
+*  dt
+- Gia-ga-nát (tên một vị thánh ở Ân-ddộ; hình ảnh vị thánh này trước kia thường được đặt trên một chiếc xe diễu qua phố và những người cuồng tín thường đổ xô vào để xe cán chết)
+- (nghĩa bóng) lực lượng khủng khiếp đi đến đâu là tàn phá tất cả; ý niện gây sự hy sinh mù quáng
+
++ the juggernaut of war: chiến tranh tàn phá; sự tàn phá của chiến tranh
+
+@juggins  
+*  dt
+- (từ lóng) người ngốc nghếch, người khờ dại
+
+@juggle  
+*  dt
+- trò tung hứng, trò múa rối
+- sự lừa bịp, sự lừa gạt
+*  ndgt
+- tung hứng, múa rối
+- (juggle with) lừa bịp, lừa dối; xuyên tạc
+
++ to juggle with someone: lừa bịp ai
+
++ to juggle with facts: xuyên tạc sự việc
+*  ngdgt
+- lừa bịp; dùng mánh khoé để lừa
+
++ to juggle someone out of something: lừa bịp ai lấy cái gì
+
++ to juggle something away: dùng mánh khoé để lấy cái gì
+
+@juggler  
+*  dt
+- nghệ sĩ xiên tung hứng, nghệ sĩ múa rối
+- kẻ lừa bịp, kẻ lừa gạt
+
+@jugglery  
+*  dt
+- trò tung hứng, trò múa rối
+- trò lừa bịp, trò lừa gạt
+
+@Juglar cycle
+- (Econ) Chu kỳ Juglar.
+: Một chu kỳ trong thương mại trong mức độ hoạt động kinh tế với thời gian từ 9 tới 10 năm.
+ @jugoslav   (Jugoslavian) @jugular  
+*  tt
+- (giải phẫu) (thuộc) cổ
+*  dt
+- (giải phẫu) tĩnh mạch cảnh
+
+@jugulate  
+*  ngdgt
+- cắt cổ
+- bóp cổ chết
+- (nghĩa bóng) trị (bệnh...) bằng thuốc mạnh
+
+@jugulum
+* dt; số nhiều jugula
+- phần cổ ngay phía trên ức của chim
+ @jugum
+* dt; số nhiều juga,  jugums
+- lá chét
+- loại cánh của một số sâu bướm
+ @juice  
+*  dt
+- nước ép (của quả, thịt, rau)
+
++ the juice of an orange: nước cam
+- dịch
+
++ gastric juice: dịch vị
+- (nghĩa bóng) phần tinh hoa, phần tinh tuý (của cái gì)
+- (từ lóng) xăng, dầu; điện
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) ép (quả, thịt, rau...) lấy nước
+!to juice up
+- (từ Mỹ,nghĩa Mỹ) làm hoạt động lên, làm hăng hái lên, làm phấn khởi lên
+
+@juiceless  
+*  tt
+- không có nước (quả, thịt, rau...)
+
+@juicer  
+*  dt
+- cái ép lấy nước (quả, thịt, rau...)
+
+@juicily
+- xem juicy
+ @juiciness  
+*  dt
+- tính có nhiều nước (quả, thịt, rau...)
+
+@juicy  
+*  tt
+- có nhiều nước (quả, thịt, rau...)
+- ẩm ướt (thời tiết)
+- (thông tục) hay, lý thú, rôm rả
+- (nghệ thuật),  (từ lóng) nhiều màu sắc, đậm màu tươi (nom bóng ướt)
+
+@ju-jitsu
+* dt
+- cũng jiu-jitsu
+- võ judô; nhu thuật
+ @ju-ju  
+*  dt
+- vật thần (để thờ cúng); bùa (trừ ma quỷ)
+- điều cấm kỵ (ở các dân tộc dã man)
+
+@juju
+* dt
+- vật linh thiêng; bùa của dân tộc tây Châu Phi
+- ma thuật; phép thần thông
+ @jujube  
+*  dt
+- quả táo ta
+- cây táo ta
+- viên gelatin có mùi táo, viên thuốc có mùi táo
+
+@ju-jutsu   (jiu-jitsu) @juke-box  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) máy hát tự động (cho đồng tiền vào khe, máy sẽ chạy)
+
+@jul
+* (viết tắt)
+- tháng bảy (July)
+- viết tắt
+- tháng bảy (July)
+ @julep  
+*  dt
+- nước ngọt (để dùng thuốc), nước chiêu
+- (từ Mỹ,nghĩa Mỹ) rượu uytky đá pha bạc hà ((cũng) mint julep)
+
+@julian  
+*  tt
+- juliêng, (thuộc) Giu-li-út Xê-za
+
++ julian calendar: lịch juliêng (do Giu-li-út Xê-za cải biên)
+
+@julienne
+* dt
+- loại xúp có rau thái dài
+* tt
+- được cắt thành những lát mỏng và dài
+
++  julienne potatoes:khoai tây thái mỏng và dài
+ @juliett
+* dt
+- từ mã cho chữ cái j
+ @july  
+*  dt
+- tháng bảy
+
+@jumbal  
+*  dt
+- bánh xốp mỏng (hình giống cái vòng)
+
+@jumble  
+*  dt
+- (như) jumbal
+- mớ lộn xộn, mớ bòng bong
+*  ngdgt
+- trộn lộn xộn, làm lộn xộn, làm lẫn lộn lung tung
+*  ndgt
+- lộn xộn, lẫn lộn lung tung cả
+
+@jumble-sale  
+*  dt
+- sự bán hàng linh tinh rẻ tiền (thường để gây quỹ cứu tế)
+
+@jumble-shop  
+*  dt
+- cửa hàng bán đủ cán thứ linh tinh tạp nhạp
+
+@jumbly  
+*  tt
+- lộn xộn, hỗn độn; lẫn lộn lung tung
+
+@jumbo  
+*  dt
+- người to lớn chậm chạp; vật to lớn khó coi
+- người thành công một cách đặc biệt
+
+@jumbuck
+* dt
+- (từ úc) con cừu
+ @jum-off  
+*  dt
+- (thể dục,thể thao) sự xuất phát; điểm xuất phát (chạy thiu)
+- (quân sự) sự bắt đầu cuộc tấn công; chỗ bắt đầu cuộc tấn công
+
+@jump  
+*  dt
+- sự nhảy, bước nhảy
+
++ long (broad) jump: (thể dục,thể thao) nhảy xa
+
++ high jump: (thể dục,thể thao) nhảy cao
+
++ pole jump: (thể dục,thể thao) nhảy sào
+
++ running jump: nhảy có chạy lấy đà
+
++ standing jump: nhảy không chạy lấy đà
+- sự giật mình; cái giật mình
+
++ to give someone the jumps: làm cho ai giật mình
+- (the jumps) mê sảng rượu
+- sự tăng đột ngột (giá cả, nhiệt độ...)
+- sự thay đổi đột ngột, sự chuyển đột ngột; chỗ hẫng, chỗ hổng (trong lập luận...); chỗ trống (trong một hàng, một dãy)
+- vật chướng ngại phải nhảy qua
+- nước cờ ăn quân (cờ đam)
+- dòng ghi trang tiếp theo (cuối bài báo, truyện ngắn)
+!to get (have) the jump on
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bắt đầu sớm hơn và do đó nắm được ưu thế hơn
+!on the jump
+- (thông tục) hối hả bận rộn
+*  ndgt
+- nhảy
+
++ to jump for joy: nhảy lên vì vui sướng
+
++ to jump from one subject to another: nhảy từ vấn đề này sang vấn đề kia
+- giật mình, giật nảy người
+
++ my heart jumps: tim tôi giật nảy lên (vì sợ...)
+- nhảy vọt, tăng vọt, tăng đột ngột (giá cả, độ nhiệt...)
+- (thường) at,  to chớp ngay lấy, nắm ngay lấy; chấp nhận vội vàng, vội đi tới (một kết luận...)
+
++ to jump at an opportunity: chớp lấy cơ hội
+
++ to jump at an offer: vội chấp nhận một đề nghị
+
++ to jump at (to) a conclusion: vội đi tới một kết luận
+- (jump on,  upon) nhảy bổ vào tấn công dữ dội (kẻ địch...)
+*  ngdgt
+- nhảy qua
+
++ to jump a fence: nhảy qua hàng rào
+- bỏ sót, bỏ qua, bỏ cách quãng mất
+
++ to jump a chapter in a book: bỏ cách quãng mất một chương trong sách
+- trật (bánh ra khỏi đường ray)
+
++ to jump the rails: trật đường ray
+- làm cho nhảy lên, bắt nhảy, bắt nhảy qua
+
++ to jump the horse across the ditch: bắt con ngựa nhảy qua cái hào
+
++ to jump a child down: đỡ cho một em nhỏ nhảy xuống
+- làm giật mình, làm giật nảy người lên
+- đào lật (khoai rán trong chão...)
+- (từ Mỹ,nghĩa Mỹ) nhảy lên, nhảy vào
+
++ to jump a train: nhảy lên xe lửa
+- nhảy bổ vào chộp lấy (cái gì)
+- lấn, không đứng vào (hàng nối đuôi nhau theo lần lượt)
+
++ to jump a queue: lấn chỗ khi xếp hàng
+- nẫng tay trên, phỗng tay trên, chiếm đoạt, xâm chiếm
+
++ to jump a mining claim: chiếm mất quyền khai thác mỏ (của ai)
+- làm cho bay lên, làm chạy tán loạn (chim, thú săn)
+- khoan đá bằng choòng
+- tiếp (bài báo, truyện ngắn...) ở trang khác
+- chặt, ăn (quân cờ đam)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tấn công bất thình lình
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bỏ đi bất thình lình, trốn, chuồn
+!to jump off
+- (quân sự),  (từ lóng) bắt đầu tấn công
+!to jump on
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mắng, nhiếc, chỉnh
+!to jump together; to jump with
+- phù hợp với nhau, nhất trí với nhau; trùng nhau
+!to jump the gun
+- (từ lóng)
+- (thể dục,thể thao) chạy trước khi có hiệu lệnh xuất phát
+- bắt đầu (làm gì) trước lúc quy định
+!to jump down somebody's throat
+- chặn đứng ai không cho nói, ngắt lời ai không cho nói
+- trả lời chặn họng ai, nói chặn họng ai
+!to jump someone into doing something
+- lừa phỉnh ai làm gì
+!to jump out of one's skin
+- giật nảy mình ngạc nhiên; giật nảy mình sợ hãi...
+
+@jump ball  
+*  dt
+- (thể dục,thể thao) quả bóng (trọng tài tung lên bắt đầu trận đấu (bóng rổ)
+
+@jumped-up
+* tt
+- mới thành đạt, mới phất lên
+ @jumper  
+*  dt
+- người nhảy; thú nhảy; sâu bọ nhảy (như bọ chét, dế, châu chấu...)
+- dây néo cột buồm
+- choòng (đục đá)
+*  dt
+- áo ngoài mặc chui đầu (của phụ nữ)
+- áo va rơi (của thuỷ thủ)
+- (số nhiều) áo may liền với quần (của trẻ con)
+
+@jumpiness  
+*  dt
+- bệnh hay giật mình, bệnh hay hốt hoảng bồn chồn
+- sự tăng vọt; sự lên xuống thất thường, sự thay đổi thất thường (giá cả)
+
+@jumping-jack  
+*  dt
+- con choi choi (một thứ đồ chơi)
+
+@jumping-off place
+* dt
+- vị trí xuất phát
+ @jump-jet
+* dt
+- máy bay phản lực lên thẳng
+ @jump-lead
+* dt
+- <kỹ> dây sạc điện
+ @jump-off
+* dt
+- <thể> sự xuất phát; điểm xuất phát
+- <qsự> sự bắt đầu cuộc tấn công; chỗ bắt đầu cuộc tấn công
+ @jump-seat  
+*  dt
+- ghế phụ lật lên lật xuống được (ở ô tô)
+
+@jump-start
+* ngdgt
+- khởi động bằng cách đẩy xe rồi cài số
+ @jump-suit
+* dt
+- bộ áo quần liền nhau
+ @jumpy  
+*  tt
+- hay giật mình, hay hốt hoảng bồn chồn
+- tăng vọt; lên xuống thất thường, thay đổi thất thường (giá cả)
+
+@jun
+* (viết tắt)
+- tháng sáu (June)
+- viết tắt
+- tháng sáu (June)
+ @junco
+* dt; số nhiều juncos,  juncoes
+- loại họ sẻ ở Mỹ
+ @junction  
+*  dt
+- sự nối liền, sự gặp nhau
+- mối nối, chỗ nối; chỗ gặp nhau (của các con đường...)
+- (ngành đường sắt) ga đầu mối (nơi các đường xe lửa gặp nhau)
+
+@junction box
+* dt
+- hộp đựng mối nối hai mạch điện
+ @junctional
+- xem junction
+ @junctural
+* tt
+- (ngôn ngữ) liên quan tới âm nối
+ @juncture  
+*  dt
+- sự nối liền
+- chỗ nối; điểm gặp nhau
+- tình hình, sự việc; thời cơ
+
++ at this juncture: vào lúc này, trong tình hình này
+
++ at a critical juncture: vào lúc gay go
+- (kỹ thuật) mối hàn, mối nối, mối ghép
+
+@june  
+*  dt
+- tháng sáu
+
+@jungian
+* tt
+- thuộc trường phái phân tích tâm lý do C G Jung, nhà tâm lý học Thụy sĩ (1961) sáng lập
+ @jungle  
+*  dt
+- rừng nhiệt đới
+- khu đất hoang mọc đầy bụi rậm
+- mớ hỗn độn
+- (định ngữ) ở rừng ((thường) trong từ ghép)
+
+@jungle fever  
+*  dt
+- sốt rét rừng
+
+@jungly  
+*  dt
+- có nhiều rừng rậm
+
+@junior  
+*  tt
+- trẻ tuổi hơn; em, con (ghi sau tên họ người)
+
++  John Brown Junior: Giôn Brao em; Giôn Brao con
+- ít tuổi hơn; ít thâm niên hơn; ở cấp dưới
+
++ a junior colleague: một đồng nghiệp cấp dưới
+*  dt
+- người ít tuổi hơn
+
++ he is three years my junior; he is my junior by three years: anh ấy ít hơn tôi ba tuổi
+- người ít thâm niên hơn, người cấp dưới
+- (từ Mỹ,nghĩa Mỹ) học sinh đại học lớp liền ngay lớp cuối cấp
+
+@juniority  
+*  dt
+- địa vị người ít tuổi hơn
+- địa vị người cấp dưới
+
+@juniper  
+*  dt
+- (thực vật học) cây cối
+
+@junk  
+*  dt
+- ghe mành, thuyền mành
+*  dt
+- thừng châo cũ (dùng để tước lấy xơ xảm thuyền)
+- đồ đồng nát, giấy vụn, thuỷ tinh vụn, sắt vụn...
+- đồ tạp nhạp bỏ đi
+- (hàng hải) thịt ướp muối (bò, lợn...)
+- tảng, cục, mảng
+- mô sáp (trên đầu cá nhà táng)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thuốc mê
+*  ngdgt
+- chia thành từng khúc, chặt thành từng mảng
+- (từ Mỹ,nghĩa Mỹ) vứt bỏ đi (coi như vô giá trị)
+
+@Junk bonds
+- (Econ) Trái phiếu lãi suất cao.
+ @junkard  
+*  dt
+- nơi để đồ đồng nát
+
+@junker
+* dt
+- địa chủ quý tộc (Đức)
+ @junkerism
+* dt
+- thể chế địa chủ quý tộc (Đức)
+ @junket  
+*  dt
+- sữa đông
+- cuộc liên hoan; bữa tiệc
+- (từ Mỹ,nghĩa Mỹ) cuộc đi chơi vui, cuộc đi chơi cắm trại (do quỹ chung chịu)
+*  ndgt
+- dự tiệc, ăn uống, tiệc tùng, liên hoan
+- (từ Mỹ,nghĩa Mỹ) đi chơi vui, đi cắm trại
+
+@junketer
+- xem junket
+ @junketing
+* dt
+- cuộc liên hoan, cuộc tiệc
+ @junk-food
+* dt
+- quà vặt nhai cho vui
+ @junkie
+* dt
+- người nghiện xì ke ma túy
+ @junkman  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người bán đồ cũ, người bán đồ đồng nát
+
+@junk-shop  
+*  dt
+- cửa hàng bán đồ cũ, cửa hàng đồng nát
+
+@junk-yard
+* dt
+- nơi để đồ đồng nát
+ @juno  
+*  dt
+- (thần thoại,thần học) nữ thần Giu-nô (vợ Giu-pi-te)
+- người đàn bà đẹp trang nghiêm
+
+@junoesque  
+*  tt
+- đẹp một cách trang nghiêm (đàn bà)
+
+@junta  
+*  dt
+- hội đồng tư vấn; uỷ ban hành chính (ở Tây ban nha,  Y)
+- (xem) junta
+
+@junto  
+*  dt,  số nhiều juntos ((cũng) junta)
+- hội kín (hoạt động chính trị)
+- tập đoàn, phe đảng (khống chế một tổ chức, một quốc gia)
+
+@jupiter  
+*  dt
+- (thần thoại,thần học) thần Giu-pi-te
+- sao Mộc
+!by jupiter!
+- trời ơi!
+!Jupiter Pluvius
+-(đùa cợt) thần Mưa
+
+@jural  
+*  tt
+- (thuộc) luật pháp
+- (thuộc) nghĩa vụ bổn phận; (thuộc) quyền lợi và trách nhiệm
+
+@jurally
+- xem jural
+ @jurassic  
+*  tt
+- (địa lý,ddịa chất) (thuộc) kỷ jura
+
++ jurassic period: kỷ jura
+
+@jurat
+* dt
+- bản khai viết tuyên thệ có viên chức (ở bến cảng) xác nhận
+- quan toà ở hải cảng Anh
+ @juratory  
+*  tt
+- (thuộc) lời thề, (thuộc) lời tuyên thệ
+
+@juriconsult  
+*  dt
+- nhà luật học, luật gia
+- cố vấn pháp lý
+
+@juridical  
+*  tt
+- pháp lý
+
+@juridically
+* dt
+- xem juridical
+* dt
+ @jurisconsult
+* dt
+- nhà luật học, luật gia
+- cố vấn pháp lý
+ @jurisdiction  
+*  dt
+- quyền lực pháp lý, quyền xử xét, quyền tài phán
+- quyền hạn, phạm vi quyền hạn; khu vực nằm trong phạm vi quyền hạn
+
+@jurisdictional
+* tt
+- xem jurisdiction
+* tt
+ @jurisdictionally
+* dt
+- xem jurisdiction
+* dt
+ @jurisprudence  
+*  dt
+- khoa luật pháp, luật học
+- sự giỏi về luật pháp
+
+@jurisprudent  
+*  tt
+- giỏi về luật pháp
+
+@jurisprudential  
+*  tt
+- (thuộc) luật học
+
+@jurisprudentially
+* dt
+- xem jurisprudential
+* dt
+ @jurist  
+*  dt
+- nhà luật học, luật gia
+- nhà viết luật
+- sinh viên luật
+
+@juristic   (juristical) @juristical   (juristical) @juristically
+- xem juristic
+ @juror  
+*  dt
+- hội thẩm, bồi thẩm
+- người đã tuyên thệ
+
+@jury  
+*  dt
+- (pháp lý) ban hội thẩm, ban bồi thẩm
+
++ to sit (serve) on a jury: tham gia vào ban hội thẩm, ngồi ghế hội thẩm
+- ban giám khảo
+
+@jury-box  
+*  dt
+- chỗ ngồi của ban hội thẩm
+
+@juryman  
+*  dt
+- viên hội thẩm, viên bồi thẩm
+- viên giám khảo
+
+@jury-mast  
+*  dt
+- cột buồm tạm thời (thay thế cột buồm đã bị gãy)
+
+@jurywoman
+* dt
+- thành viên ban hội thẩm; thành viên hội đồng xét xử
+- thành viên ban giám khảo
+ @jusction
+- sự nối, tiế xúc
+ @jussive  
+*  tt
+- (ngôn ngữ học) mệnh lệnh
+
+@just  
+*  tt
+- công bằng
+
++ to be just to someone: công bằng đối với ai
+- xứng đáng, đích đáng, thích đáng
+
++ a just reward: phần thưởng xứng đáng
+
++ a just punishment: sự trừng phạt đích đáng
+- chính đáng, chính nghĩa, hợp lẽ phải
+
++ just cause: chính nghĩa
+- đúng, đúng đắn, có căn cứ
+*  dt
+- đúng, chính
+
++ just at that spot: đúng ở chỗ đó
+
++ just here: chính tại đây
+
++ just three o'clock: đúng ba giờ
+
++ just as you say: đúng như anh nói
+
++ just so: đúng vậy
+
++ that is just it: đúng như thế đấy
+- vừa đúng, vừa đủ, vừa kịp
+
++ I just caught the train: tôi chỉ vừa kịp lên xe lửa
+
++ just in time: vừa đúng lúc
+- vừa mới
+
++ I have just seen him: tôi vừa mới trông thấy nó
+
++ just now: đúng lúc này; vừa mới xong, ngay vừa rồi
+- chỉ
+
++ take just one: chỉ được lấy một chiếc thôi
+
++ just a moment, please!: yêu cầu chỉ đợi cho một lát
+
++ I'll say just this: tôi sẽ chỉ nói điều này thôi
+- (thông tục) hoàn toàn, thật đúng là
+
++ it is just splendid: thật đúng là lộng lẫy
+- (thông tục), (thân mật) một chút, một tí; thử xem
+
++ just feel it: thử mà xem
+
++ just shut the door, will you?: phiền ông đóng hộ cửa một tí
+*  dt & ndgt
+- (như) joust
+
+@just
+- đúng, chính xác; chính là j. in case trong mọi trường hợp; it is j. the
+- case đó chính là trường hợp 
+ @just click'n'see
+- Tên gọi của phần mềm dịch trực tiếp mà bạn đang sử dụng đây
+ @Just price
+- (Econ) Giá công bằng.
+: Một tiêu chuẩn đạo đức về giá trị của một hàng hoá hay dịch vụ - nghĩa là một mức giá mà được coi là đúng về đạo lý.
+ @justice  
+*  dt
+- sự công bằng
+
++ in justice to somebody: để có thái độ công bằng đối với ai
+- công lý, tư pháp, sự xét xử của toà án; quyền tài phán
+
++ to bring somebody to justice: đem ai ra toà, truy tố ai ra toà
+!High Court of Justice
+- toà án tối cao
+- quan toà, thẩm phán
+!Justice of the Peace
+- thẩm phán trị an
+- quan toà toà án tối cao (ở Anh)
+!to do justice to something
+- biết thưởng thức (biết đánh giá đúng) cái gì
+
++ he did justice to the dinner: anh ta thưởng thức bữa ăn một cách ngon lành
+!to do oneself justice
+- làm xứng với tài năng của mình; dốc hết tài năng để làm việc gì
+
+@Justice as fairness
+- (Econ) Chân lý như là công bằng.
+: Xem RAWLSIAN JUSTICE.
+ @justiceship  
+*  dt
+- chức quan toà
+
+@justiciability
+- xem justiciable
+ @justiciable  
+*  tt
+- bị thuộc quyền xét xử; bị thuộc quyền tài phán (của ai)
+*  dt
+- người bị thuộc quyền xét xử (của ai)
+
+@justiciar  
+*  dt
+- (sử học) quan chánh án tối cao (dưới triều Nóoc-măng)
+
+@justiciary  
+*  dt
+- quan toà
+- (như) justiciar
+*  tt
+- (thuộc) sự xét xử
+
+@justifiability  
+*  dt
+- tính chất có thể bào chữa
+- tính chất hợp pháp, tính chất hợp lý, tính chất chính đáng
+
+@justifiable  
+*  tt
+- có thể bào chữa được, có thể chứng minh là đúng
+- hợp pháp, hợp lý, chính đáng
+
++ justifiable honicide: trường hợp giết người vì lý do chính đáng (tự vệ)
+
+@justifiableness
+- xem justifiable
+ @justifiably
+* dt
+- chính đáng
+ @justification  
+*  dt
+- sự bào chữa, sự biện hộ, sự chứng minh là đúng; lý lẽ bào chữa
+- (ngành in) sự sắp chữ cho đúng hàng đúng chỗ
+
+@justificative   (justificatory) @justificatory   (justificatory) @justified
+* tt
+- (justified in doing something) có lý do chính đáng để làm điều gì
+
++  As the goods were damaged, she felt fully justified in asking for money back:Do hàng hoá bị hư hao, cô ta thấy có đủ lý do chính đáng để đòi tiền lại
+- hợp lý, đã được chính minh là đúng
+
++  justified criticism anger:sự phê phán@justify  
+*  ngdgt
+- bào chữa, biện hộ, chứng minh là đúng
+- (ngành in) sắp chữ cho đúng hàng đúng chỗ
+
+@justify
+- khẳng định, xác minh, minh giải
+ @justly
+- xem just
+ @justness
+- xem just
+ @jut  
+*  dt
+- phần lòi ra, phần nhô ra, phần thò ra
+*  ndgt
+- ((thường) : out,  forth) lòi ra, thò ra, nhô ra
+
++ the balcony juts out over the garden: bao lơn nhô ra ngoài vườn
+
+@jute  
+*  dt
+- sợi đay
+- (thực vật học) cây đay
+- (định ngữ) (thuộc) đay; bằng đay
+
+@jutty
+* dt
+- (từ cổ) phần thòi ra của một toà nhà
+ @juvenescence  
+*  dt
+- thời kỳ thanh thiếu niên
+
+@juvenescent  
+*  tt
+- (thuộc) thời kỳ thanh thiếu niên
+
+@juvenile  
+*  tt
+- (thuộc) thanh thiếu niên; có tính chất thanh thiếu niên; hợp với thanh thiếu niên
+*  dt
+- thanh niên, thiếu niên
+- (số nhiều) sách cho thanh thiếu niên
+
+@juvenilely
+- xem juvenile
+ @juvenileness
+- xem juvenile
+ @juvenilia  
+*  dt số nhiều
+- những tác phẩm viết trong lúc còn trẻ (của một tác giả)
+
+@juvenility  
+*  dt
+- tuổi trẻ, tuổi thanh thiếu niên
+- hành động có tính chất thanh thiếu niên
+- thanh thiếu niên (nói chung)
+
+@juxtapose  
+*  ngdgt
+- để (hai hoặc nhiều vật) cạnh nhau, để kề nhau
+
+@juxtapose
+- (logic học) ghép, nhân ghép
+ @juxtaposition  
+*  dt
+- sự đặt cạnh nhau, sự kề nhau
+- vị trí kề nhau
+
+@juxtapositional
+- xem juxtaposition
+ @juxtapossition
+- phép ghép, phép nhân ghép
+ @

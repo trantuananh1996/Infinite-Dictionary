@@ -1,0 +1,1145 @@
+@kea  
+*  dt
+- (động vật học) vẹt kêa (ở Tân-tây-lan)
+
+@kebab
+* dt
+- thịt nướng
+ @keck  
+*  ndgt
+- oẹ
+
++ to keck at: tởm lộn mửa ra (đồ ăn...)
+
+@keckle  
+*  ngdgt
+- (hàng hải) bọc (dây thừng...) bằng vải cũ
+
+@ked
+* dt
+- con mòng; con két
+ @keddah   (keddah) @kedge  
+*  dt
+- (hàng hải) neo kéo thuyền (neo nhỏ để buộc dây chão kéo thuyền) ((cũng) kedge anchor)
+*  ngdgt
+- kéo thuyền bằng dây chão (buộc vào một chiếc neo nhỏ ở quãng xa)
+
+@kedgeree  
+*  dt
+- Anh-Ân món ketri (cơm với cá, trứng, hành)
+
+@keek  
+*  dt
+- (Ê-cốt) cái nhìn hé, cái nhìn trộm
+*  ndgt
+- (Ê-cốt) hé nhìn, nhìn trộm
+
+@keel  
+*  dt
+- sà lan (chở) than
+*  dt
+- sống tàu thuỷ, sống thuyền
+
++ on an even keel: không tròng trành, không nghiêng ngả; (nghĩa bóng) vững chắc, yên
+
++ to lay down a keel: khởi công đóng một chiếc tàu (thuyền)
+- (thơ ca) tàu thuỷ, thuyền
+*  dgt
+- lật úp (tàu, thuyền)
+!to keel over
+- lật úp (tàu, thuyền)
+- (nghĩa bóng) lật đổ nhào; bị đổ nhào, ngã đổ nhào; bất thần ngất đi
+
+@keelhaul  
+*  ngdgt
+- bắt (ai) chịu hình phạt chui dưới sống tàu
+- (từ lóng) mắng mỏ thậm tệ, xỉ vả thậm tệ
+
+@keelson
+* dt (cũng) kelson
+- tấm gỗ hay kim loại dài gắn vào đáy thuyền (để làm cho vững chắc)
+ @keen  
+*  dt
+- bài hát tang (kèm theo tiếng than khóc ở Ai-len)
+*  ndgt
+- hát bài hát tang
+- than van ai oán, than khóc thảm thiết
+*  ngdgt
+- hát bài hát tang mà than khóc (ai)
+*  tt
+- sắc, bén (dao); nhọn (kim)
+- rét buốt, buốt thấu xương
+
++ keen wind: gió rét buốt
+- chói (ánh sáng)
+- trong và cao (tiếng...)
+- buốt, nhói, dữ dội, thấm thía
+
++ keen hunger: sự đói dữ dội, sự đói như cào
+
++ keen sorrow: nỗi buồn thấm thía
+- sắc sảo; tinh, thính
+
++ keen intelligence: trí thông minh sắc sảo
+
++ keen eyes: mắt tinh
+
++ keen ears: tai thính
+- chua cay, đay nghiến, gay gắt (lời nói, lời phê bình...)
+- mãnh liệt, thiết tha, kịch liệt; hăng hái, sôi nổi, nhiệt tình
+
++ keen desire: sự ham muốn mãnh liệt
+
++ a keen sportsman: nhà thể thao nhiệt tình
+
++ a keen debate: cuộc tranh luận sôi nổi
+- ham mê, say mê, ham thích
+
++ to be [dead] keen on something: say mê cái gì, ham thích cái gì
+
++ to be [dead] keen on somebody: say mê ai
+
++ to be keen about: hài lòng về, vừa ý về (cái gì)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tuyệt diệu, cừ khôi, xuất sắc
+!as keen as mustard
+- hăng say, phớn phở
+
+@keener
+- xem keen
+ @keenly
+* dt
+- sắc sảo
+- nhiệt tình, hăng hái
+ @keenness  
+*  dt
+- sự sắc bén, sự sắc nhọn
+- sự rét buốt, sự buốt thấu xương (gió lạnh)
+- sự chói (ánh sáng...)
+- tính trong và cao (giọng, tiếng)
+- sự đau buốt, sự đau nhói, sự dữ dội, sự thấm thía (đau buồn...)
+- tính sắc sảo, sự tính, sự thính (trí óc, mắt, tai...)
+- sự chua cay, sự gay gắt (lời nói, phê bình)
+- sự mãnh liệt, sự thiết tha; sự hăng hái, sự sôi nổi, sự nhiệt tình
+- sự ham mê, sự say mê, sự ham thích
+
+@keen-set  
+*  tt
+- thèm khát, khao khát
+
++ to be keen-set for something: thèm khát cái gì, khao khát cái gì
+
+@keep  
+*  ngdgt kept
+- giữ, giữ lại
+
++ to keep something as a souvenir: giữ cái gì coi như một vật kỷ niệm
+
++ to keep hold of something: nắm giữ cái gì
+- giữ, tuân theo, y theo, thi hành, đúng
+
++ to keep one's promise (word): giữ lời hứa
+
++ to keep an appointment: y hẹn
+
++ to keep the laws: tuân giữ pháp luật
+- giữ, canh phòng, bảo vệ; phù hộ
+
++ to keep the town against the enemy: bảo vệ thành phố chống lại kẻ thù
+
++ God keep you!: Chúa phù hộ cho anh!
+
++ to keep the goal: (thể dục,thể thao) giữ gôn
+- giữ gìn, giấu
+
++ to keep a secret: giữ một điều bí mật
+
++ to keep something from somebody: giấu ai cái gì
+- giữ gìn (cho ngăn nắp gọn gàng), bảo quản; chăm sóc, trông nom; quản lý
+
++ to keep the house for somebody: trông nom nhà cửa cho ai
+
++ to keep the cash: giữ két
+
++ to keep a shop: quản lý một cửa hiệu
+- giữ riêng, để ra, để riêng ra, để dành
+
++ to keep something to onself: giữ riêng cái gì cho mình
+
++ to keep something for future time: để dành cái gì cho mai sau
+- giữ lại, giam giữ
+
++ to keep somebody in prison: giam ai vào tù
+- ((thường) : from) giữ cho khỏi, giữ đứng, ngăn lại, nhịn tránh
+
++ to keep somebody from falling: giữ cho ai khỏi ngã
+
++ to keep oneself from smoking: nhịn hút thuốc
+- nuôi, nuôi nấng; bao (gái)
+
++ to keep a family: nuôi nấng gia đình
+
++ to keep bees: nuôi ong
+
++ to keep a woman: bao gái
+
++ a kept woman: gái bao
+- (thương nghiệp) có thường xuyên để bán
+
++ do they keep postcards here?: ở đây người ta có bán bưu thiếp không?
+- cứ, cứ để cho, bắt phải
+
++ to keep silence: cứ làm thinh
+
++ to keep someone waiting: bắt ai chờ đợi
+- không rời, ở lỳ, vẫn cứ, ở trong tình trạng
+
++ to keep one's room: không ra khỏi phòng (ốm...)
+- theo
+
++ to keep a straight course: theo một con đường thẳng
+- (: at) bắt làm kiên trì, bắt làm bền bỉ
+
++ to keep sosmebody at some work: bắt ai làm bền bỉ một công việc gì
+- làm (lễ...), tổ chức (lễ kỷ niện...)
+
++ to keep one's birthday: tổ chức kỷ niệm ngày sinh
+*  ndgt
+- vẫn cứ, cứ, vẫn ở tình trạng tiếp tục
+
++ the weather will keep fine: thời tiết sẽ vẫn cứ đẹp
+
++ to keep laughing: cứ cười
+
++ keep straight on for two miles: anh hây cứ tiếp tục đi thẳng hai dặm đường nữa
+- (thông tục) ở
+
++ where do you keep?: anh ở đâu?
+- đẻ được, giữ được, để dành được (không hỏng, không thổi...) (đồ ăn...)
+
++ these apples do not keep: táo này không để được
+- (: to) giữ lấy, bám lấy, cứ theo, không rời xa
+
++ to keep to one's course: cứ đi theo con đường của mình
+
++ to keep to one's promise: giữ lời hứa
+
++ keep to the right: hây cứ theo bên phải mà đi
+- (nghĩa bóng) có thể để đấy, có thể đợi đấy
+
++ that business can keep: công việc đó có thể hây cứ để đấy đã
+- (: from,  off) rời xa, tránh xa; nhịn
+
++ keep off!: tránh ra!, xê ra!
+
++ keep off the grass: không được giẫm lên bãi cỏ
+- (: at) làm kiên trì, làm bền bỉ (công việc gì...)
+
++ to keep had at work for a week: làm bền bỉ trong suốt một tuần
+!to keep away
+- để xa ra, bắt ở xa ra; cất đi
+
++ keep knives away from children: cất dao đi đừng cho trẻ con nghịch
+!to keep back
+- giữ lại
+- làm chậm lại; chặn lại, cản lại, cầm lại
+
++ to keep back one's téa: cầm nước mắt
+- giấu không nói ra
+- đứng ở đằng sau, ở lại đằng sau
+- tránh xa ra
+!to keep down
+- cầm lại, nén lại, dằn lại
+- cản không cho lên, giữ không cho lên
+
++ to keep prices down: giữ giá không cho lên
+- không trở dậy (cứ quỳ, cứ ngồi, cứ nằm)
+- (quân sự) nằm phục kích
+!to keep from
+- nhịn, kiêng, nén, nín; tự kiềm chế được
+
++ can't keep from laughing: không nén cười được
+!to keep in
+- dằn lại, nén lại, kiềm chế, kìm lại (sự xúc đông, tình cảm...)
+- giữ không cho ra ngoài; phạt bắt (học sinh) ở lại sau giờ học
+- giữ cho (ngọn lửa) cháy đều
+- ở trong nhà, không ra ngoài
+- vẫn thân thiện, vẫn hoà thuận (với ai)
+
++ to keep in with somebody: vẫn thân thiện với ai
+!to keep off
+- để cách xa ra, làm cho xa ra
+- ở cách xa ra, tránh ra
+!to keep on
+- cứ vẫn tiếp tục
+
++ to keep on reading: cứ đọc tiếp
+- cứ để, cứ giữ
+
++ to keep on one's hat: cứ để mũ trên đầu (không bỏ ra)
+!to keep out
+- không cho vào; không để cho, không cho phép
+
++ to keep children out of mischief: không để cho trẻ con nghịch tinh
+- đứng ngoài, không xen vào, không dính vào; tránh
+
++ to keep out of somebody's way: tránh ai
+
++ to keep out of quarrel: không xen vào cuộc cãi lộn
+!to keeo together
+- kết hợp nhau, gắn bó với nhau, không rời nhau
+!to keep under
+- đè nén, thống trị, bắt quy phục; kiềm chế
+!to keep up
+- giữ vững, giữ không cho đổ, giữ không cho hạ, giữ không cho xuống; giữ cho tốt, bảo quản tốt (máy...)
+
++ to keep up one's spirits: giữ vững tinh thần
+
++ to keep up prices: giữ giá không cho xuống
+- duy trì, tiếp tục, không bỏ
+
++ to keep up a correspondence: vẫn cứ tiếp tục thư từ qua lại
+- bắt thức đêm, không cho đi ngủ
+- giữ vững tinh thần; không giảm, không hạ
+- (: with) theo kịp, ngang hàng với, không thua kém
+
++ to keep up with somebody: theo kịp ai, không thua kém ai
+!to keep abreast of (with)
+- theo kịp, không lạc hậu so với
+
++ to keep abreast with the timmes: theo kịp thời đại
+!to keep a check on
+- (xem) check
+!to keep clear of
+- tránh, tránh xa
+!to keep company
+- (xem) company
+!to keep somebody company
+- (xem) company
+!to keep good (bad) company
+- (xem) company
+!to keep one's countenance
+- (xem) countenance
+!to keep one's [own] counsel
+- (xem) counsel
+!to keep dark
+- lẫn trốn, núp trốn
+!to keep one's distance
+- (xem) distance
+!to keep doing something
+- tiếp tục làm việc gì
+!to keep one's end up
+- không đầu hàng, không nhượng bộ; giữ vững ý kiến của mình
+!to keep an eye on
+- để mắt vào, theo dõi; trông giữ, canh giữ
+!to keep somebody going
+- giúp đỡ ai về vật chất (để cho có thể sống được, làm ăn được...)
+!to keep one's hair on
+- (xem) hair
+!to keep one's head
+- (xem) head
+!to keep late hours
+- (xem) hour
+!to keep mum
+- lặng thinh, nín lặng; giữ kín, không nói ra
+!to keep oneself to oneswelf
+- không thích giao thiệp; không thích giao du; sống tách rời
+!to keep open house
+- ai đến cũng tiếp đãi, rất hiếu khách
+!to keep pace with
+- (xem) pace
+!to keep peace with
+- giữ quan hệ tốt với
+!to keep one's shirt on
+- (xem) shirt
+!to keep a stiff upper lip
+- (xem) lip
+!to keep tab(s) on
+- (xem) tab
+!to keep one's temper
+- (xem) temper
+!to keep good time
+- đúng giờ (đồng hồ)
+!to keep track of track
+- (xem) track
+!to keep up appearances
+- (xem) appearance
+!to keep watch
+- cảnh giác đề phòng
+*  dt
+- sự nuôi thân, sự nuôi nấng (gia đình...); cái để nuôi thân, cái để nuôi nấng (gia đình...)
+
++ to earn one's keep: kiếm ăn, kiếm cái nuôi thân
+- (từ Mỹ,nghĩa Mỹ) người giữ
+- (từ Mỹ,nghĩa Mỹ) nhà tù, nhà giam
+- (sử học) tháp, pháo đài, thành luỹ
+!for keeps
+- (thông tục) thường xuyên; mãi mãi, vĩnh viễn
+!in good keep
+- trong tình trạng tốt
+!in low keep
+- trong tình trạng xấu
+
+@keep
+- giữ; theo (quy tắc); tiến hành (công việc) k. on tiếp tục 
+ @keeper  
+*  dt
+- người giữ, người gác
+- người bảo quản, người bảo tồn (viện bảo tàng, thư viện...)
+- người trông nom người điên
+- người quản lý, người chủ (quán...)
+- người coi khu rừng cấm săn bắn
+- nhẫn giữ (đeo để giữ cho chiếc nhẫn khác thường là nhẫn cưới, khỏi tuột)
+- (kỹ thuật) đai ốc hãm
+
+@keeping  
+*  dt
+- sự giữ, sự giữ gìn, sự bảo quản
+- sự coi giữ, sự trông nom, sự bảo vệ
+
++ to be in safe keeping: được trông nom cẩn thận, được bảo vệ chắc chắn
+- (pháp lý) sự giữ, sự tuân theo
+- (tài chính) sự giữ sổ sách
+- (thương nghiệp) sự quản lý (một cửa hiệu)
+- sự tổ chức (lễ kỷ niệm)
+- sự hoà hợp, sự phù hợp, sự thích ứng, sự ăn ý, sự ăn khớp
+
++ to be in keeping with something: hoà hợp với cái gì
+
++ to be out of keeping with something: không hợp với cái gì, không thích ứng với cái gì
+*  tt
+- giữ được, để được, để dành được
+
++ keeping applé: táo để được
+
+@keeping-room  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) phòng khách
+
+@keepnet
+* dt
+- lưới lớn (để giữ cá cả ngày)
+ @keepsake  
+*  dt
+- vật lưu niệm
+- (định ngữ) hơi uỷ mị, hơi đa sầu đa cảm
+
+@keeshond
+* dt; số nhiều keeshonden,  keeshonds
+- loại chó nhỏ lông dày (mặt và đầu giống (như) chó sói, tai nhỏ nhọn)
+ @kef   (keif) @kefir  
+*  dt
+- rượu kêfia
+
+@keg  
+*  dt
+- thùng chứa (khoảng 40 lít)
+
+@keif   (keif) @keloid
+* dt
+- sẹo đầy, sẹo trâu
+ @keloidal
+* tt
+- (thuộc) sẹo đầy, sẹo trâu
+ @kelp  
+*  dt
+- (thực vật học) tảo bẹ
+- tro tảo bẹ
+
+@kelpie   (kelpy) @kelpy   (kelpy) @kelt  
+*  dt
+- (xem) Celt
+- cá hồi sau khi đẻ
+
+@kelter
+* dt
+- xem kilter
+ @keltic   (Keltic) @kelvin  
+*  dt
+- Kilôoat giờ
+!kelvin scale
+- thang nhiệt kenvin
+
+@kemp  
+*  dt
+- lông len thô
+
+@kempt
+* tt
+- (tóc) được chải gọn ghẽ
+ @kempy  
+*  tt
+- có lông len thô
+
+@ken  
+*  dt
+- phạm vi hiểu biết, tầm mắt
+
++ to be beyond (outside) one's ken: vượt ra ngoài phạm vi hiểu biết
+
++ to be in one's ken: trong phạm vi hiểu biết
+*  ngdgt kent (Ớ-cốt)
+- nhận ra, nhìn ra
+- biết
+
+@kenaf
+* dt
+- cây dâm bụt Đông ấn Độ (trồng lấy sợi bện thừng)
+ @kendo
+* dt
+- thuật đánh kiếm của người Nhật với gươm bằng tre, cầm hai tay
+ @Kenedy Round
+- (Econ) Vòng đàm phán Kenedy.
+: Vòng thương thuyết mậu dịch đa phương lần thứ sáu, tiến hành dưới sự bảo trợ của HIỆP ĐỊNH CHUNG VỀ THUẾ QUAN VÀ MẬU DỊCH diễn ra ở Geneva từ 1964-1967. Không giống các vòng thương thuyết mậu dịch trước đó thường khuyến khích giảm hàng rào mậu dịch đa phương, vòng Kenedy đã dẫn tới việc thương lượng giảm thuế quan đối với những nhóm hàng hoá cụ thể chứ không thương lượng về một mặt hàng.
+ @kennel  
+*  dt
+- cống rãnh
+*  dt
+- cũi chó
+- nhà ở tồi tàn
+*  ndgt
+- ở trong cũi (chó)
+- chui vào cũi (chó)
+
+@kennel ration  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) món thịt
+
+@kenning
+* dt
+- từ hoặc nhóm từ ẩn dụ (dùng trong (thơ ca) của tiếng Anh cổ)
+ @keno
+* dt; số nhiều kenos
+- (từ Mỹ, nghĩa Mỹ) trò hơi giống như bingo
+ @kenosis
+* dt
+- tính chất của chúa Giêxu khi dời khỏi đặc tính thượng đế để thành người
+ @kenotron
+- (vật lí) kênôtron (đền điện tử )
+ @kenspeckle
+* tt
+- rõ ràng; mồn một; rõ mồn một; dễ nhận thấy
+ @kent  
+*  dt
+- phạm vi hiểu biết, tầm mắt
+
++ to be beyond (outside) one's ken: vượt ra ngoài phạm vi hiểu biết
+
++ to be in one's ken: trong phạm vi hiểu biết
+*  ngdgt kent (Ớ-cốt)
+- nhận ra, nhìn ra
+- biết
+
+@kentish  
+*  tt
+- (thuộc) vùng Ken-tơ (Anh)
+!kentish fire
+- tràng vỗ tay hoan nghênh kéo dài
+- tiếng la ó phản đối; sự biểu tình phản đối
+
+@kentishman
+* dt
+- người dân ở vùng Kent (đặc biệt là người ở miền tây sông Medway)
+ @kentledge  
+*  dt
+- (hàng hải) đồ dằn đặt thường xuyên (cho thuyền, tàu khỏi tròng trành)
+
+@kenyan
+* tt
+- thuộc nước Kenya ở Đông châu phi
+* dt
+- người dân Kenya
+- người có nguồn gốc Kenya
+ @kepi  
+*  dt
+- mũ kê-pi
+
+@kept  
+*  ngdgt kept
+- giữ, giữ lại
+
++ to keep something as a souvenir: giữ cái gì coi như một vật kỷ niệm
+
++ to keep hold of something: nắm giữ cái gì
+- giữ, tuân theo, y theo, thi hành, đúng
+
++ to keep one's promise (word): giữ lời hứa
+
++ to keep an appointment: y hẹn
+
++ to keep the laws: tuân giữ pháp luật
+- giữ, canh phòng, bảo vệ; phù hộ
+
++ to keep the town against the enemy: bảo vệ thành phố chống lại kẻ thù
+
++ God keep you!: Chúa phù hộ cho anh!
+
++ to keep the goal: (thể dục,thể thao) giữ gôn
+- giữ gìn, giấu
+
++ to keep a secret: giữ một điều bí mật
+
++ to keep something from somebody: giấu ai cái gì
+- giữ gìn (cho ngăn nắp gọn gàng), bảo quản; chăm sóc, trông nom; quản lý
+
++ to keep the house for somebody: trông nom nhà cửa cho ai
+
++ to keep the cash: giữ két
+
++ to keep a shop: quản lý một cửa hiệu
+- giữ riêng, để ra, để riêng ra, để dành
+
++ to keep something to onself: giữ riêng cái gì cho mình
+
++ to keep something for future time: để dành cái gì cho mai sau
+- giữ lại, giam giữ
+
++ to keep somebody in prison: giam ai vào tù
+- ((thường) : from) giữ cho khỏi, giữ đứng, ngăn lại, nhịn tránh
+
++ to keep somebody from falling: giữ cho ai khỏi ngã
+
++ to keep oneself from smoking: nhịn hút thuốc
+- nuôi, nuôi nấng; bao (gái)
+
++ to keep a family: nuôi nấng gia đình
+
++ to keep bees: nuôi ong
+
++ to keep a woman: bao gái
+
++ a kept woman: gái bao
+- (thương nghiệp) có thường xuyên để bán
+
++ do they keep postcards here?: ở đây người ta có bán bưu thiếp không?
+- cứ, cứ để cho, bắt phải
+
++ to keep silence: cứ làm thinh
+
++ to keep someone waiting: bắt ai chờ đợi
+- không rời, ở lỳ, vẫn cứ, ở trong tình trạng
+
++ to keep one's room: không ra khỏi phòng (ốm...)
+- theo
+
++ to keep a straight course: theo một con đường thẳng
+- (: at) bắt làm kiên trì, bắt làm bền bỉ
+
++ to keep sosmebody at some work: bắt ai làm bền bỉ một công việc gì
+- làm (lễ...), tổ chức (lễ kỷ niện...)
+
++ to keep one's birthday: tổ chức kỷ niệm ngày sinh
+*  ndgt
+- vẫn cứ, cứ, vẫn ở tình trạng tiếp tục
+
++ the weather will keep fine: thời tiết sẽ vẫn cứ đẹp
+
++ to keep laughing: cứ cười
+
++ keep straight on for two miles: anh hây cứ tiếp tục đi thẳng hai dặm đường nữa
+- (thông tục) ở
+
++ where do you keep?: anh ở đâu?
+- đẻ được, giữ được, để dành được (không hỏng, không thổi...) (đồ ăn...)
+
++ these apples do not keep: táo này không để được
+- (: to) giữ lấy, bám lấy, cứ theo, không rời xa
+
++ to keep to one's course: cứ đi theo con đường của mình
+
++ to keep to one's promise: giữ lời hứa
+
++ keep to the right: hây cứ theo bên phải mà đi
+- (nghĩa bóng) có thể để đấy, có thể đợi đấy
+
++ that business can keep: công việc đó có thể hây cứ để đấy đã
+- (: from,  off) rời xa, tránh xa; nhịn
+
++ keep off!: tránh ra!, xê ra!
+
++ keep off the grass: không được giẫm lên bãi cỏ
+- (: at) làm kiên trì, làm bền bỉ (công việc gì...)
+
++ to keep had at work for a week: làm bền bỉ trong suốt một tuần
+!to keep away
+- để xa ra, bắt ở xa ra; cất đi
+
++ keep knives away from children: cất dao đi đừng cho trẻ con nghịch
+!to keep back
+- giữ lại
+- làm chậm lại; chặn lại, cản lại, cầm lại
+
++ to keep back one's téa: cầm nước mắt
+- giấu không nói ra
+- đứng ở đằng sau, ở lại đằng sau
+- tránh xa ra
+!to keep down
+- cầm lại, nén lại, dằn lại
+- cản không cho lên, giữ không cho lên
+
++ to keep prices down: giữ giá không cho lên
+- không trở dậy (cứ quỳ, cứ ngồi, cứ nằm)
+- (quân sự) nằm phục kích
+!to keep from
+- nhịn, kiêng, nén, nín; tự kiềm chế được
+
++ can't keep from laughing: không nén cười được
+!to keep in
+- dằn lại, nén lại, kiềm chế, kìm lại (sự xúc đông, tình cảm...)
+- giữ không cho ra ngoài; phạt bắt (học sinh) ở lại sau giờ học
+- giữ cho (ngọn lửa) cháy đều
+- ở trong nhà, không ra ngoài
+- vẫn thân thiện, vẫn hoà thuận (với ai)
+
++ to keep in with somebody: vẫn thân thiện với ai
+!to keep off
+- để cách xa ra, làm cho xa ra
+- ở cách xa ra, tránh ra
+!to keep on
+- cứ vẫn tiếp tục
+
++ to keep on reading: cứ đọc tiếp
+- cứ để, cứ giữ
+
++ to keep on one's hat: cứ để mũ trên đầu (không bỏ ra)
+!to keep out
+- không cho vào; không để cho, không cho phép
+
++ to keep children out of mischief: không để cho trẻ con nghịch tinh
+- đứng ngoài, không xen vào, không dính vào; tránh
+
++ to keep out of somebody's way: tránh ai
+
++ to keep out of quarrel: không xen vào cuộc cãi lộn
+!to keeo together
+- kết hợp nhau, gắn bó với nhau, không rời nhau
+!to keep under
+- đè nén, thống trị, bắt quy phục; kiềm chế
+!to keep up
+- giữ vững, giữ không cho đổ, giữ không cho hạ, giữ không cho xuống; giữ cho tốt, bảo quản tốt (máy...)
+
++ to keep up one's spirits: giữ vững tinh thần
+
++ to keep up prices: giữ giá không cho xuống
+- duy trì, tiếp tục, không bỏ
+
++ to keep up a correspondence: vẫn cứ tiếp tục thư từ qua lại
+- bắt thức đêm, không cho đi ngủ
+- giữ vững tinh thần; không giảm, không hạ
+- (: with) theo kịp, ngang hàng với, không thua kém
+
++ to keep up with somebody: theo kịp ai, không thua kém ai
+!to keep abreast of (with)
+- theo kịp, không lạc hậu so với
+
++ to keep abreast with the timmes: theo kịp thời đại
+!to keep a check on
+- (xem) check
+!to keep clear of
+- tránh, tránh xa
+!to keep company
+- (xem) company
+!to keep somebody company
+- (xem) company
+!to keep good (bad) company
+- (xem) company
+!to keep one's countenance
+- (xem) countenance
+!to keep one's [own] counsel
+- (xem) counsel
+!to keep dark
+- lẫn trốn, núp trốn
+!to keep one's distance
+- (xem) distance
+!to keep doing something
+- tiếp tục làm việc gì
+!to keep one's end up
+- không đầu hàng, không nhượng bộ; giữ vững ý kiến của mình
+!to keep an eye on
+- để mắt vào, theo dõi; trông giữ, canh giữ
+!to keep somebody going
+- giúp đỡ ai về vật chất (để cho có thể sống được, làm ăn được...)
+!to keep one's hair on
+- (xem) hair
+!to keep one's head
+- (xem) head
+!to keep late hours
+- (xem) hour
+!to keep mum
+- lặng thinh, nín lặng; giữ kín, không nói ra
+!to keep oneself to oneswelf
+- không thích giao thiệp; không thích giao du; sống tách rời
+!to keep open house
+- ai đến cũng tiếp đãi, rất hiếu khách
+!to keep pace with
+- (xem) pace
+!to keep peace with
+- giữ quan hệ tốt với
+!to keep one's shirt on
+- (xem) shirt
+!to keep a stiff upper lip
+- (xem) lip
+!to keep tab(s) on
+- (xem) tab
+!to keep one's temper
+- (xem) temper
+!to keep good time
+- đúng giờ (đồng hồ)
+!to keep track of track
+- (xem) track
+!to keep up appearances
+- (xem) appearance
+!to keep watch
+- cảnh giác đề phòng
+*  dt
+- sự nuôi thân, sự nuôi nấng (gia đình...); cái để nuôi thân, cái để nuôi nấng (gia đình...)
+
++ to earn one's keep: kiếm ăn, kiếm cái nuôi thân
+- (từ Mỹ,nghĩa Mỹ) người giữ
+- (từ Mỹ,nghĩa Mỹ) nhà tù, nhà giam
+- (sử học) tháp, pháo đài, thành luỹ
+!for keeps
+- (thông tục) thường xuyên; mãi mãi, vĩnh viễn
+!in good keep
+- trong tình trạng tốt
+!in low keep
+- trong tình trạng xấu
+
+@keramic
+* dt
+- adj
+- xem ceramic
+ @keratin  
+*  dt
+- Keratin
+
+@keratinization
+* dt
+- sự làm thành keratin; sự keratin hoá; sự trở thành keratin; sự hoá sừng
+ @keratinize
+* ngdgt
+- làm thành keratin; keratin hoá; hoá sừng
+* ndgt
+- trở thành keratin; hoá sừng
+ @keratinous
+- xem keratin
+ @keratose  
+*  dt
+- Keratoza
+
+@keratosis
+* dt; số nhiều keratoses
+- vùng da cứng thành chai
+ @keratotic
+* tt
+- thuộc vùng da cứng thành chai
+ @kerb  
+*  dt
+- lề đường (thường lát đá)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thị trường chứng khoán chợ đen
+
+@kerb drill
+* dt
+- quy tắc an toàn khi băng qua đường
+ @kerb market  
+*  dt
+- (từ lóng) thị trường chứng khoán chợ đen; việc buôn bán chứng khoán chợ đen
+
+@kerb-crawling
+* dt
+- sự rà xe sát lề để kiếm gái
+ @kerb-stone  
+*  dt
+- phiến đá lát lề đường
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thị trường chứng khoán chợ đen
+!kerb-stone broker
+- tay buôn chứng khoán chợ đen
+
+@kerchief  
+*  dt
+- khăn vuông trùm đầu (của phụ nữ)
+- (thơ ca) khăn tay, khăn mùi soa
+
+@kerchiefed   (kerchieft) @kerchieft   (kerchieft) @kerf  
+*  dt
+- khía, rạch, vết cưa
+- đầu cưa, đầu chặt (của một cây bị đốn xuống)
+
+@kerfuffle
+* dt
+- sự ồn ào náo nhiệt
+ @kermes  
+*  dt
+- (động vật học) sâu kemet
+- phẩm kemet (chất đỏ lấy ở sâu kemet, làm thuốc nhuộm)
+
+@kermes oak  
+*  dt
+- (thực vật học) cây sồi kemet (ở Nam âu và Bắc phi; thường có sâu kemet)
+
+@kermesite
+* dt
+- (khoáng chất) khoáng chất màu đỏ; keemezit
+ @kermess   (kermis) @kermis   (kermis) @kermit
+- Một giao thức truyền thống không đồng bộ cho phép truyền không lỗi các tệp chương trình qua hệ thống điện thoại một cách dễ dàng hơn
+ @kern   (kerne) @kerne   (kerne) @kernel  
+*  dt
+- (thực vật học) nhân (trong quả hạch)
+- hạt (lúa mì)
+- (nghĩa bóng) bộ phận nòng cốt, bộ phận chủ yếu
+
+@kernel
+- (vật lí) hạch; hạt nhân
+- k. of integral equation hạch của phương trình tích phân 
+- extendible k. (đại số) hạch giãn được 
+- iterated k. hạch lặp
+- open k. hạch mở
+- reciprocal k. (đại số) hạch giãn được 
+- resolvent k. hạch giải, giải thức 
+- symmetric k. hạch đối xứng 
+ @kerneled
+- xem kernel
+ @kerning
+- co kéo (sự điều chỉnh khoảng cách giữa hai ký tự cặp đôi trong dạng hiển thị)
+ @kernite
+* dt
+- (khoáng chất) kecnit
+ @kerosene  
+*  dt
+- dầu lửa
+
+@kerry
+* dt
+- loại bò sữa Island
+ @kersey  
+*  dt
+- vải len thô kẻ sọc
+- (số nhiều) quần vải len thô kẻ sọc
+
+@kerseymere  
+*  dt
+- vải len mỏng sọc chéo
+- (số nhiều) quần len mỏng sọc chéo
+
+@kerygma
+* dt; số nhiều kerygmata
+- lời tuyên bố cứu vớt nhờ tác dụng của chúa Giêxu
+ @kerygmatic
+* tt
+- (thuộc) lời tuyên bố cứu vớt nhờ tác dụng của chúa Giêxu
+ @kestrel  
+*  dt
+- (động vật học) chim cắt
+
+@ketch  
+*  dt
+- thuyền buồm nhỏ (có hai cột buồm)
+
+@ketchup  
+*  dt
+- nước xốt cà chua nấm
+
+@keto
+* tt
+- thuộc xeton
+ @ketone  
+*  dt
+- (hoá học) Xeton
+
+@ketonic
+- xem ketone
+ @kettle  
+*  dt
+- ấm đun nước
+!pretty (fine, nice) kettle of fish
+- tình thế rất khó xử, việc rắc rối
+
+@kettle-drum  
+*  dt
+- (âm nhạc) trống định âm
+- tiệc trà lớn vào buổi chiều
+
+@kettle-drummer  
+*  dt
+- (âm nhạc) người chơi trống định âm
+
+@kettle-holder  
+*  dt
+- đồ lót quai ấm (cho đỡ nóng tay)
+
+@kevel  
+*  dt
+- (hàng hải) chạc (để buộc dây thuyền)
+
+@key  
+*  dt
+- hòn đảo nhỏ
+- bâi cát nông; đá ngần
+*  dt
+- chìa khoá
+- khoá (lên dây đàn, dây cót đồng hồ, vặn đinh ốc...)
+- (âm nhạc) khoá; điệu, âm điệu
+
++ the key of C major: khoá đô trưởng
+
++ major key: điệu trưởng
+
++ minor key: điệu thứ
+- (điện học) cái khoá
+
++ charge and discharge key: cái khoá phóng nạp
+- phím (đàn pianô); nút bấm (sáo); bấm chữ (máy chữ)
+- (kỹ thuật) mộng gỗ; chốt sắt; cái nêm
+- cái manip ((thường) telegraph key)
+- chìa khoá (của một vấn đề...), bí quyết; giải pháp
+
++ the key to a mystery: chìa khoá để khám phá ra một điều bí ẩn
+
++ the key to a difficulty: giải pháp cho một khó khăn
+- lời giải đáp (bài tập...), sách giải đáp toán; lời chú dẫn (ở bản đồ)
+- bản dịch theo từng chữ một
+- ý kiến chủ đạo, ý kiến bao trùm
+- (từ Mỹ,nghĩa Mỹ) nguyên tắc cơ bản; khẩu hiệu chính trong một cuộc vận động
+- vị trí cửa ngõ, vị trí then chốt
+
++ Gibraltar has been called the key to the Mediterranean: người ta gọi Gi-bran-ta là cửa ngõ của Địa trung hải
+- giọng; cách suy nghĩ, cách diễn đạt
+
++ to speak in a high key: nói giọng cao
+
++ to speak in a low key: nói giọng trầm
+
++ all in the same key: đều đều, đơn điệu
+- (số nhiều) quyền lực của giáo hoàng
+
++ power of the keys: quyền lực của giáo hoàng
+- (định ngữ) then chốt, chủ yếu
+
++ key branch of industry: ngành công nghiệp then chốt
+
++ key position: vị trí then chốt
+!golden (silver) key
+- tiền đấm mồm, tiền hối lộ
+!to have (get) the key of the street
+- phải ngủ đêm ngoài đường, không cửa không nhà
+*  ngdgt
+- khoá lại
+- (kỹ thuật) ((thường) : in,  on) chèn, chêm, nêm, đóng chốt
+- ((thường) : up) lên dây (đàn pianô...)
+- (từ Mỹ,nghĩa Mỹ) làm cho hợp với, làm cho thích ứng với
+!to key up
+- (nghĩa bóng) khích động, kích thích, cổ vũ, động viên
+
++ to key up somebody to do something: động viên ai làm gì
+- nâng cao, tăng cường
+
++ to key up one's endeavour: tăng cường nỗ lực
+- (từ Mỹ,nghĩa Mỹ) làm căng thẳng tinh thần, làm căng thẳng đầu óc
+
+@key
+- chìa khoá, chỉ dẫn cách giải; (máy tính) út bấm   khoá lại; dò khoá
+- control k. nút điều khiển 
+- signalling k. nút tín hiệu, chìa khoá tín hiệu
+- switch k. cái ngắt mạch 
+- three-position k. cái ngắt mạch ba vị trí 
+@Key bargain
+- (Econ) Thương lượng chủ chốt.
+: Một hình thức chỉ đạo tiền lương cụ thể mà trong đó một khoản thanh toán tiền lương được dùng làm tham chiếu cho toàn bộ những khoản lương phải trả sau đó.
+ @key money
+* dt
+- tiền mà người thuê nhà buộc lòng phải trả cho chủ nhà trước khi vào ở
+ @Key rates
+- (Econ) Các mức lương then chốt.
+: Các mức lương của nghề nghiệp trong thị trường LAO ĐỘNG NỘI BỘ làm điểm tiếp xúc với thị trường bên ngoài.
+ @keyboard  
+*  dt
+- bàn phím (pianô); bàn chữ (máy chữ)
+- (điện học) bảng điều khiển; bảng phân phối
+- bảng chuyển mạch; tổng đài điện thoại
+- (từ Mỹ,nghĩa Mỹ) bảng treo chìa khoá
+
+@keyboard
+- bảng nút bấm, bảng phân phối
+- supplemental k. (máy tính) bộ bấm phụ 
+ @keyboarder
+* dt
+- người sử dụng bàn phím
+ @keyboardist
+- xem keyboard
+ @key-cold  
+*  tt
+- lạnh ngắt, không có sinh khí
+
+@keyed
+* tt
+- có khoá
+- (âm nhạc) theo âm điệu
+- (kiến trúc) đã được chèn, đóng chốt
+ @keyhole  
+*  dt
+- lỗ khoá
+
+@keyless  
+*  tt
+- không có chìa khoá; không lên dây bằng chìa (đồng hồ đã có cái vặn dây cót)
+
+@keyman  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) nhân viên điện báo
+- người giữ vai trò chủ chốt
+- chuyên viên có kinh nghiệm
+
+@Keynes effect
+- (Econ) Hiệu ứng Keynes.
+: Một thay đổi của cầu đối với hàng hoá là kết quả của sự thay đổi trong mức giá chung.
+ @Keynes, John Maynard
+- (Econ) (1883-1946)
+: Là một học trò của Alffred Marshall.
+ @Keynes Plan
+- (Econ) Kế hoạch Keynes.
+: Bộ tài chính Anh đưa ra những đề nghị về việc thiết lập một liên minh Thanh toán Bù trừ quốc tế tại Hội nghị Tài chính và tiền tệ của Liên hợp quốc ở BRETTON WOOD, New Hampshire năm 1944. John Maynard Keynes là người chịu trách nhiệm chủ yếu về việc tạo lập các đề nghị đó nên được gọi chung là Kế hoạch Keynes.
+ @keynesian
+* tt
+- thuộc thuyết kinh tế của Kê-nơ (Johu Maynard Keynes : 1946, nhà (kinh tế) học Anh)
+ @Keynesian cross
+- (Econ) Điểm cắt Keynes
+: Xem INCOME - EXPENDITURE MODEL.
+ @Keynesian economics
+- (Econ) Kinh tế học trường phái Keynes
+: Một cụm thuật ngữ dùng để miêu tả các lý thuyết kinh tế vĩ mô về mức độ hoạt động kinh tế sử dụng các kỹ thuật do J.M.Keynes đưa ra.
+ @Keynesian Growth Theory
+- (Econ) Lý thuyết tăn trưởng của trường phái Keynes.
+: Xem HARROD DOMAR GROWTH MODEL.
+ @keynote  
+*  dt
+- (âm nhạc) âm chủ đạo
+- (nghĩa bóng) ý chủ đạo; nguyên tắc chủ đạo
+- (định ngữ) chủ đạo, then chốt, chủ chốt, chính
+
++ keynote address (speech): bài nói chính (nêu những vấn đề quan trọng trong hội nghị...)
+
+@keynoter  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người lânh đạo một cuộc vận động chính trị
+
+@key-pad
+* dt
+- bàn phím nhỏ
+ @keypunch
+* dt
+- máy bấm lỗ
+* ngdgt
+- bấm lỗ bằng máy
+ @key-ring  
+*  dt
+- vòng (đeo) chìa khoá
+
+@keystone  
+*  dt
+- (kiến trúc) đá đỉnh vòm
+- (nghĩa bóng) nguyên tắc cơ bản; yếu tố chủ chốt, yếu tố quyết định (trong một kế hoạch, một chính sách...)
+
+@keystroke
+- (động tác) gõ phím, nhấn phím
+ @keyword
+- từ khoá
+ @

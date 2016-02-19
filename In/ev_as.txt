@@ -1,0 +1,2166 @@
+@as  
+*  dt
+- như
+
++ as you know: như anh đã biết
+
++ some People's Democracies as Vietnam, Korea...: một số nước dân chủ nhân dân như Việt Nam,  Triều Tiên...
+
++ late as usual: muộn như thường lệ
+- là, với tư cách là
+
++ I speak to you as a friend: tôi nói với anh với tư cách là một người bạn
+- cũng, bằng
+
++ he is as old as you: anh ta cũng già bằng anh, anh ta bằng tuổi anh
+!as far as
+- xa tận, cho tận đến
+
++ to go far as the station: đi đến tận nhà ga
+- đến chừng mức mà
+
++ far as I know: đến chừng mức mà tôi biết, theo tất cả những điều mà tôi biết
+!as far back as
+- lui tận về
+
++ as far back as two years ago: lui về cách đây hai năm; cách đây hai năm
+!as far; as to
+- về phía, về phần
+
++ as for me: về phần tôi
+!as good as
+- (xem) good
+!as long as
+- (xem) as much as
+- cũng chừng này, cũng bằng này
+
++ you can take as much as you like: anh thích bao nhiêu thì có thể cứ lấy chừng nấy
+!as much
+- cũng vậy
+
++ I thought as much: tôi cũng nghĩ như vậy
+!as well
+- (xem) well
+!as well as
+- (xem) well
+!as yet
+- (xem) yet
+*  liên từ
+- lúc khi, trong khi mà; đúng lúc mà ((cũng) just as)
+
++ he came in as I was speaking: khi tôi đang nói thì hắn vào
+- vì, bởi vì
+
++ as it was raining hard, we could not start: vì trời mưa to chúng tôi không thể khởi hành được
+- để, cốt để
+
++ he so arranged matters as to suit everyone: anh ta thu xếp mọi việc cốt để làm cho hợp với tất cả mọi người
+
++ be so kind (good) as to let me know...: anh hãy vui lòng cho tôi biết...
+- tuy rằng, dù rằng
+
++ tired as she was did not leave her task undone: tuy mệt thật đấy cô ta cũng không bỏ công việc
+!as if
+- như thế, y như thế
+!as it were
+- có thể là như vậy, có thể cho là như vậy
+
++ he is not equal to the task, as it were: hắn không xứng với nhiệm vụ, có thể cho là như vậy
+!as though
+- (xem) though
+*  đại từ
+- mà, người mà, cái mà...; như
+
++ he is the same man as I met yesterday: ông ta đúng là người mà hôm qua tôi gặp
+
++ such a genius as Marx: một thiên tài như Mác
+- điều đó, cái đó, cái ấy
+
++ he was a foreigner, as they perceived from his accent: ông ta là một người nước ngoài, người ta nhận thấy điều đó ở giọng nói của ông ta
+*  dt,  số nhiều asses
+- đồng át (tiền La mã)
+
+@asa
+* (viết tắt)
+- Cơ quan Tiêu chuẩn Quảng cáo (Advertising Standards Agency)
+- Hội Tiêu chuẩn Mỹ (American Standards Association)
+ @asafoetida   (assafoetida) @asap
+* (viết tắt)
+- càng sớm càng tốt (As soon as possible)
+ @asbestine  
+*  tt
+- bằng amiăng; giống amiăng
+- không đốt cháy được
+
+@asbestos  
+*  dt
+- (khoáng chất) miăng
+
+@asbestos
+- (Tech) thạch miên [TQ] (bông đá), amiăng
+ @asbestosis
+* dt
+- bệnh phổi phát sinh do hít phải hạt amiăng
+ @asbestotic
+- xem asbestosis
+ @ascariasis
+* dt
+- số nhiều ascariases
+- bệnh giun đũa
+ @ascarid  
+*  dt
+- (y học) giun đũa
+
+@ascend  
+*  ndgt
+- lên, thăng
+
++ to ascend in rank: thăng cấp
+
++ to ascend towards the source of a river: đi ngược lên dòng sông
+- dốc lên (con đường)
+
++ the path began to ascend: con đường bắt đầu dốc lên
+- cao lên, cất cao lên (giọng nói, âm thanh)
+- ngược (dòng thời gian)
+*  ngdgt
+- trèo lên; lên
+
++ to ascend a mountain: trèo núi
+
++ to ascend a river: đi ngược dòng sông
+
++ to ascend the throne: lên ngôi vua
+
+@ascend
+- tăng, tiến, đi lên, trềo lên
+ @ascendable
+- xem ascend
+ @ascendancy   (ascendency) @ascendant   (ascendent) @ascendant
+- tăng lên
+ @ascendency   (ascendency) @ascendent   (ascendent) @ascender
+- (Tech) đầu chữ, (phần ló đầu của chữ thường) (như b, d, h)
+ @ascendible
+- xem ascend
+ @ascending
+- (Tech) thăng, tăng lên, lên cao (d)
+ @ascending key
+- (Tech) phím trở lên
+ @ascending order
+- (Tech) thứ tự lên, thứ tự lớn dần
+ @ascending sequence
+- (Tech) trình tự lên
+ @ascending sort
+- (Tech) xếp thứ tự từ dưới lên
+ @ascension  
+*  dt
+- sự lên
+
++ balloon ascension: sự bay lên bằng khí cầu
+
++ ascension to power: (từ Mỹ,nghĩa Mỹ) sự lên nắm chính quyền
+
+@ascension
+- sự tăng, sự tiến
+- right a. độ xích kinh 
+ @ascensional  
+*  tt
+- lên
+
++ ascensional power: (hàng không) sức bay lên
+
++ ascensional rate: (hàng không) tốc độ bay lên
+
+@ascension-day  
+*  dt
+- (tôn giáo) lễ thăng thiên
+
+@ascent  
+*  dt
+- sự trèo lên, sự đi lên, sự lên
+
++ to make an ascent in a balloon: lên không bằng khí cầu
+- sự đi ngược lên (dòng sông...)
+- con đường đi lên, đường dốc; bậc cầu thang đi lên
+
+@ascertain  
+*  ngdgt
+- biết chắc; xác định; tìm hiểu chắc chắn
+
++ to ascertain a situation: tìm hiểu rõ ràng tình hình
+
++ we must ascertain that it is so: chúng ta phải xác định sự thể là đúng như vậy
+
+@ascertain
+- thiết lập; làm sáng tỏ
+ @ascertainable  
+*  tt
+- có thể biết chắc, có thể thấy chắc; có thể xác định; có thể tìm hiểu chắc chắn
+
+@ascertainableness
+- xem ascertain
+ @ascertainably
+- xem ascertain
+ @ascertainment  
+*  dt
+- sự biết chắc, sự thấy chắc; sự xác định; sự tìm hiểu chắc chắn
+
+@ascetic  
+*  tt: (ascetical) 
+@ascetical  
+*  tt: (ascetical) 
+@ascetically
+- xem ascetic
+ @asceticism  
+*  dt
+- sự tu khổ hạnh
+- chủ nghĩa khổ hạnh
+
+@asci  
+*  dt,  số nhiều asci
+- (thực vật học) nang (nấm)
+
+@ascidial
+* tt
+- (thực vật) dạng túi; (thuộc) lá bắt sâu bọ; lá chén
+ @ascidian
+* dt
+- lớp hải tiêu
+ @ascidiate
+- xem ascidium
+ @ascidiform
+- xem ascidium
+ @ascidium  
+*  dt
+- (động vật học) hải tiêu
+
+@asciferous
+* tt
+- (thực vật) có túi, có nang (bào tử)
+ @ascii
+- (vt của America Standard Code for Information Interchange)Tên một bộ ký tự dùng cho máy tính bao gồm 96 chữ thường và hoa cộng với 32 ký tự điều khiển không in ra
+ @ASCII (American Standard Code for Information Interchange)
+- (Tech) Bộ Mã Tiêu Chuẩn Hoa Kỳ Dùng Giao Hoán Tin Tức, AXƠKI
+ @ASCII (American Standard Code for Information Interchange) code
+- (Tech) mã sốASCII [axơki]
+ @ASCII (American Standard Code for Information Interchange) text
+- (Tech) văn bản dạng ASCII
+ @asclepiadaceous  
+*  tt
+- (thực vật học) (thuộc) họ thiên lý
+
+@ascocrap
+* dt
+- thể quả túi; thể quả bào tử
+ @ascogenous
+* tt
+- sinh túi, sinh nan
+ @ascogone
+- Cách viết khác : ascogonium 
+ @ascogony
+* dt
+- (thực vật) tính sinh túi, sinh nang
+ @ascolichens
+* dt số nhiều
+- (thực vật) địa y dạng túi, dạng nang
+ @ascoma
+* dt
+- (thực vật) thể quả dạng đĩa
+ @ascomycetes  
+*  dt số nhiều
+- (thực vật học) lớp nấm nang
+
+@ascorbic  
+*  tt
+- (hoá học) Ascobic
+
++ ascorbic acid: axit ascobic
+
+@ascospore  
+*  dt
+- (thực vật học) nang bào tử
+
+@ascosporous
+- xem ascospore
+ @ascot
+* dt
+- cà vạt lớn buộc dưới cằm
+ @ascribable  
+*  tt
+- có thể đổ tại, có thể đổ cho
+- có thể gán cho, có thể quy cho
+
+@ascribe  
+*  ngdgt
+- đổ tại, đổ cho
+
++ to ascribe one's failure to fate: thất bại lại đổ tại số phận
+- gán cho, cho là của (ai), quy cho
+
+@ascription  
+*  dt
+- sự đổ tại, sự đổ cho
+- sự gán cho, sự cho là của (ai), sự quy cho
+- (tôn giáo) lời tán tụng Chúa (sau bài giảng kinh)
+
+@ascriptive
+- xem ascription
+ @ascus  
+*  dt,  số nhiều asci
+- (thực vật học) nang (nấm)
+
+@asdic  
+*  dt
+- thiết bị phát hiện tàu ngầm
+
+@asean
+* (viết tắt)
+- Hiệp hội các nước Đông Nam A (Association of South-East Asian Nations)
+ @aseanpol
+* (viết tắt)
+- Hiệp hội cảnh sát Đông Nam á (Police Association of Southeast Asian Nations)
+- viết tắt
+- Hiệp hội cảnh sát Đông Nam á (Police Association of Southeast Asian Nations)
+ @asemic
+* tt
+- không dấu vết
+ @asepsis  
+*  dt
+- sự vô trùng, sự vô khuẩn
+- phương pháp vô trùng (trong phẫu thuật)
+
+@aseptate
+* tt
+- (sinh học)
+- không vách, không màng
+ @aseptic  
+*  tt
+- vô trùng, vô khuẩn
+*  dt
+- chất vô trùng
+
+@aseptically
+- xem aseptic
+ @asepticism
+- xem aseptic
+ @asexual  
+*  tt
+- (sinh vật học)
+
++ asexual reproduction: sinh sản vô tính
+
+@asexuality  
+*  dt
+- (sinh vật học) tính chất vô tính
+
+@asexually
+- xem asexual
+ @ash  
+*  dt
+- ((thường) số nhiều) tro; tàn (thuốc lá)
+
++ to reduce (burn) something to ashes: đốt vật gì thành tro
+- (số nhiều) tro hoả táng
+!to lay in ashes
+- đốt ra tro, đốt sạch
+!to turn to dust and ashes
+- tiêu tan, tan thành mây khói (hy vọng...)
+*  dt
+- (thực vật học) cây tần bì
+
+@ash blonde
+* tt
+- màu vàng hoe hơi xám và rất nhạt (nói về tóc)
+* dt
+- phụ nữ có tóc màu đó
+ @ash can   (ash-bin) @ash plant
+* dt
+- gậy làm bằng thân cây tần bì non
+ @ash removal  
+*  dt
+- (hoá học) sự loại tro, sự khử tro
+
+@ash remover  
+*  dt
+- (hoá học) chất khử tro
+
+@ash wednesday
+* dt
+- ngày đầu tiên của Tuần chay
+ @ashake  
+*  tt
+- run (vì rét...)
+
+@ashamed  
+*  tt
+- xấu hổ, hổ thẹn, ngượng
+
++ to feel ashamed: lấy làm xấu hổ
+
++ to be ashamed of: xấu hổ vì, hổ thẹn vì
+
++ to be ashamed to do something: xấu hổ không dám làm gì, ngượng không dám làm gì
+
+@ash-bin  
+*  dt
+- (như)[ash can]
+- (như) ash-box
+
+@ash-box   (ash-bin) @ashcan
+* dt
+- (Mỹ) thùng đựng rác
+- (từ lóng) (quân sự) ngư lôi chống tàu ngầm
+ @ash-coloured
+* tt
+- màu tro
+ @ash-content  
+*  dt
+- (hoá học); kỹ phần tro
+
+@ashen  
+*  tt
+- (thuộc) tro, xám tro (màu); xanh, tái mét (mặt)
+- làm bằng tro
+*  tt
+- (thuộc) cây tần bì
+
+@ashet  
+*  dt
+- (Ê-cốt) đĩa to, đĩa bình bầu dục
+
+@ash-fire  
+*  dt
+- (hoá học) lửa âm ỉ (để làm thí nghiệm hoá...)
+
+@ashiness
+- xem ashy
+ @ashlar   (ashler) @ashler   (ashler) @ashore  
+*  dt
+- trên bờ; vào bờ
+
++ to step ashore: bước lên bờ
+
+@ash-pan   (ash-bin) @ash-pit   (ash-bin) @ash-pot   (ash-tray) @ash-stand   (ash-bin) @ash-tray  
+*  dt
+- (như) ash-pot
+- (kỹ thuật) (như) ash-box
+
+@ashtray
+* dt
+- cái gạt tàn [thuốc lá]
+ @ashy  
+*  tt
+- có tro, đầy tro
+- tái nhợt, xám như tro
+
+@ashy-gray  
+*  tt
+- tái nhợt, xám như tro
+
+@asia
+* dt
+- người châu A
+ @Asiab Development Bank
+- (Econ) Ngân hàng phát triển châu Á.
+: Uỷ ban kinh tế châu Á và Viễn Đông của Liên hợp quốc khuyến cáo thành lập ngân hàng này để khuyến khích tăng trưởng kinh tế và hợp tác châu Á và Viễn Đông, để thúc đẩy kinh tế ở các nước đang phát triển trong vùng. Ngân hàng phát triển châu Á được thành lập năm 1966. Nguồn vốn ban đầu là nhờ đóng góp của các nước trong khu vực với sự giúp đỡ của Mỹ, CHLB Đức, Anh và Canada.
+ @asian
+* dt
+- người châu á
+* tt
+- thuộc châu á
+ @asiatic  
+*  tt
+- (thuộc) Châu á
+*  dt
+- người Châu á
+
+@aside  
+*  dt
+- về một bên, sang một bên
+
++ to stand aside: đứng sang một bên
+- riêng ra
+
++ to speak aside: nói nhỏ, nói riêng (cho người khác khỏi nghe thấy)
+!aside from
+- (từ Mỹ,nghĩa Mỹ) ngoài ra, trừ ra
+*  dt
+- (sân khấu) lời nói một mình; lời nói riêng (không để cho diễn viên khác nghe thấy)
+
+@asidic
+* tt
+- khó chịu
+- không được người ta thích
+ @asiento
+* dt
+- số nhiều asientos
+- hiệp ước thương mại
+ @asinine  
+*  tt
+- (thuộc) giống lừa
+- ngu xuẩn, ngu như lừa
+
+@asininity  
+*  dt
+- sự ngu xuẩn
+- điều ngu xuẩn
+
+@ask  
+*  dgt
+- hỏi
+
++ to ask the time: hỏi giờ
+- xin, yêu cầu, thỉnh cầu
+
++ to ask a favour of someone: xin ai một đặc ân
+
++ to ask somebody to do something: yêu cầu ai làm gì
+- mời
+
++ to ask someone to dinner: mời cơm ai
+- đòi hỏi
+
++ it asks [for] attention: điều đó đòi hỏi sự chú ý
+- đòi
+
++ to ask 600đ for a bicycle: đòi 600đ một cái xe đạp
+- (thông tục) chuốc lấy
+
++ to ask for trouble; to ask for it: chuốc lấy sự phiền luỵ
+!to ask about
+- hỏi về
+!to ask after
+- hỏi thăm
+!ask me another!
+- (thông tục) không biết, đừng hỏi tôi nữa!
+!to ask the banns
+- (xem) bann
+
+@askance   (askant) @askant   (askant) @askew  
+*  dt
+- nghiêng, xiên, lệch
+
++ to look askew at somebody: liếc nhìn ai, lé nhìn ai
+
++ to hang a picture askew: treo lệch một bức tranh
+
+@askewness
+* dt
+- tình trạng bị lệch
+ @asking price
+* dt
+- giá đặt ra để bán cái gì
+ @aslant  
+*  dt & tt
+- nghiêng, xiên
+*  giới từ
+- xiên qua, chéo qua
+
+@asleep  
+*  dt & tt
+- ngủ, đang ngủ
+
++ to fall asleep: ngủ thiếp đi
+
++ to be asleep: ngủ, đang ngủ
+- tê cóng, tê bại (chân tay)
+- quay tít (con cù)
+
+@aslope  
+*  dt & tt
+- dốc nghiêng, dốc
+
+@asocial
+* tt
+- phi xã hội
+ @asohous
+* dt
+- (dgt) cá đục
+
++  white asohous:cá đục trắng
+ @asp  
+*  dt
+- (động vật học) rắn mào (loài vipe nhỏ ở Ai cập và Libi)
+- (thơ ca) rắn độc
+*  dt
+- (thực vật học) cây dương lá rụng
+
+@asparagin
+* dt
+- (hoá học) Atparagin
+ @asparagus  
+*  dt
+- (thực vật học) măng tây
+
+@asparagus-fern
+* dt
+- (thực vật) cây măng leo
+ @aspartate
+* dt
+- At-pa-tác
+ @aspect  
+*  dt
+- vẻ, bề ngoài; diện mạo
+
++ to have a gentle aspect: có vẻ hiền lành
+- hướng
+
++ the house has a southern aspect: ngôi nhà xoay hướng về hướng nam
+- khía cạnh; mặt
+
++ to study every aspect of a question: nghiên cứu mọi khía cạnh của vấn đề
+- (ngôn ngữ học) thể
+
+@aspect
+- dạng; phía; khía cạnh
+ @aspect ratio
+- (Tech) cỡ ảnh (tỷ lệ dài-rộng, tỷ lệ dài-cao)
+ @aspectual
+* tt
+- thuộc về thể <ngôn>
+ @aspen  
+*  dt
+- (thực vật học) cây dương lá rung
+*  tt
+- (thuộc) cây dương lá rung
+- rung, rung rinh
+!to tremble like an aspen leaf
+- run như cầy sấy
+
+@asperges
+- (tôn giáo) lễ rảy nước
+ @aspergillum
+* dt
+- số nhiều aspergilla,  aspergillums
+- chổi rảy nước thánh
+ @aspergillus  
+*  dt
+- (thực vật học) nấm cúc
+
+@asperity  
+*  dt
+- tính cộc cằn
+
++ to speak with asperity: nói cộc cằn
+- sự khó chịu, sự khắc nghiệt (thời tiết)
+
++ the asperities of winter: sự khắc nghiệt của mùa đông
+- tính khe khắc, tính khắc nghiệt, tính nghiêm khắc (tính tình)
+- sự gồ ghề, sự xù xì; (rộng) chỗ lồi lên gồ ghề, mấu gồ ghề
+
+@asperse  
+*  ngdgt
+- vảy, rảy, rưới
+
++ to asperse with water: vảy nước
+- nói xấu, phỉ báng, vu khống; bôi xấu, bôi nhọ
+
++ to asperse someone's character with false rumours: làm ô danh ai bằng những lời đồn bậy
+
+@aspersion  
+*  dt
+- sự vảy, sự rảy, sự rưới (nước...)
+- sự nói xấu, sự phỉ báng, sự vu khống; sự bôi nhọ, lời nói xấu, lời vu khống
+
++ to cast aspersions on somebody: vu khống ai; bôi nhọ ai
+
+@aspersive   (aspersory) @aspersorium  
+*  dt
+- bình đựng nước thánh
+
+@aspersory   (aspersory) @asphalt  
+*  dt
+- nhựa đường
+*  ngdgt
+- rải nhựa đường
+
+@asphaltic  
+*  tt
+- (thuộc) nhựa đường
+
+@asphericity
+- tính phi cầu
+ @asphodel  
+*  dt
+- (thực vật học) lan nhật quang
+
+@asphyxia   (asphyxy) @asphyxiant  
+*  dt
+- chất làm ngạt
+
+@asphyxiate  
+*  ngdgt
+- làm ngạt
+*  ndgt
+- hơi ngạt
+
+@asphyxiation  
+*  dt
+- sự làm ngạt
+
+@asphyxiator
+- xem asphyxiate
+ @asphyxy   (asphyxy) @aspic  
+*  dt
+- (thơ ca) rắn độc
+- món atpic (thịt đông có trứng, ăn trước hoặc sau bữa ăn)
+
+@aspidistra
+* dt
+- cây tỏi rừng
+ @aspirant  
+*  dt
+- món atpic (thịt đông có trứng ăn trước hoặc sau bữa ăn)
+*  tt
+- mong nỏi, khao khát, rắp ranh
+
+@aspirate  
+*  tt
+- (ngôn ngữ học) bật hơi (âm)
+*  dt
+- (ngôn ngữ học) âm bật hơi
+- âm h
+*  ngdgt
+- (ngôn ngữ học) phát âm bật hơi
+- hút ra (khí, chất lỏng)
+
+@aspiration  
+*  dt aspiration to,  after,  for
+- nguyện vọng, khát vọng
+- sự hít vào, sự thở vào
+- (ngôn ngữ học) tiếng hơi
+- sự hút (hơi, chất lỏng...)
+
+@aspirator  
+*  dt
+- (kỹ thuật) máy hút (hơi, mủ...)
+- máy quạt thóc
+
+@aspire  
+*  ndgt
+- (: to,  after,  at) thiết tha, mong mỏi, khao khát
+- (nghĩa bóng) lên, dâng lên, bay lên
+
+@aspirer
+- xem aspire
+ @aspirin  
+*  dt
+- (dược học) atpirin
+
+@aspiringly
+- xem aspire
+ @asplanchnic
+* dt
+- (dgt) không ống tiêu hoá
+ @asporocystic
+* tt
+- (thực vật) không kén bào tử
+ @asporogenic
+- Cách viết khác : asporogenous 
+ @asporous
+* tt
+- (thực vật) không bào từ
+ @asquint  
+*  dt
+- nghiêng, xiên, lé (nhìn...)
+
++ to look asquint: nhìn nghiêng, nhìn lé (thường là do mắt lác)
+
+@ass  
+*  dt
+- con lừa
+- người ngu, người đần độn
+
++ to play (act) the ass: làm bộ ngu
+
++ to make an ass of oneself: lố bịch, làm trò cười cho thiên hạ
+
+@assafoetida   (assafoetida) @assagai   (assegai) @assail  
+*  ngdgt
+- tấn công, xông vào đánh
+
++ to assail an enemy post: tấn công một đồn địch
+- dồn dập vào, túi bụi (hỏi, chửi...)
+
++ to assail someone with questions: hỏi ai dồn dập
+
++ to with insults: chửi túi bụi
+- lao vào, kiên quyết, bắt tay vào làm
+
++ to assail a hard task: lao vào một công việc khó khăn, kiên quyết bắt tay vào làm một công việc khó khăn
+
+@assailable  
+*  tt
+- có thể tấn công được
+
+@assailableness  
+*  dt
+- tính có thể tấn công được
+
+@assailant  
+*  dt
+- người tấn công, người xông vào đánh
+
+@assailer
+- xem assail
+ @assailment
+- xem assail
+ @assassin  
+*  dt
+- kẻ ám sát
+
+@assassinate  
+*  ngdgt
+- ám sát
+
+@assassination  
+*  dt
+- sự ám sát
+- vụ ám sát
+
+@assassinative
+- xem assassinate
+ @assassinator  
+*  dt
+- kẻ ám sát
+
+@assault  
+*  dt
+- cuộc tấn công, cuộc đột kích
+
++ to take (carry) a post by assault: tấn công, chiếm đồn
+
++ assault at (of) arms: sự tấn công (đấu kiếm); sự tập trận giả để phô trương
+- (nghĩa bóng) sự công kích thậm tệ
+- (pháp lý) sự hành hung
+
++ assault and battery: sự đe doạ và hành hung
+- (nói trại) hiếp dâm, cưỡng dâm
+
+@assaulter  
+*  dt
+- người tấn công
+- (pháp lý) kẻ hành hung
+- (nói trại) kẻ hiếp dâm, kẻ cưỡng dâm
+
+@assay  
+*  dt
+- sự thử, sự thí nghiệm; sự xét nghiệm, sự phân tích (kim loại quý)
+
++ assay furnace: lò thử (vàng)
+
++ radioactive assay: phép phân tích phóng xạ
+- kim loại để thử, kim loại để thí nghiệm
+- (từ cổ,nghĩa cổ) sự thử (làm việc gì)
+*  dgt
+- thử, thí nghiệm; xét nghiệm, phân tích (kim loại quý...)
+- (nghĩa bóng) thử thách giá trị
+- thử làm (việc gì khó khăn)
+
+@assay
+- (thống kê) sự thí nghiệm, sự thử
+- six- point a. (thống kê) phương pháp sáu điểm 
+ @assayable  
+*  tt
+- có thể thử, có thể thí nghiệm; có thể xét nghiệm, có thể phân tích (kim loại quý)
+
+@assayer  
+*  dt
+- người thử, người thí nghiệm; người xét nghiệm, người phân tích (kim loại quý)
+
+@assegai   (assegai) @assemblage  
+*  dt
+- sự tập hợp, sự tụ tập, sự nhóm họp
+- cuộc hội họp
+- sự sưu tập, sự thu thập; bộ sưu tập
+- (kỹ thuật) sự lắp ráp, sự lắp máy
+
+@assemblage
+- tập hợp, sự lắp ráp
+ @assemblagist
+- xem assemblage
+ @assemble  
+*  dgt
+- tập hợp, tụ tập, nhóm họp
+- sưu tập, thu thập
+- (kỹ thuật) lắp ráp
+
+@assemble
+- (Tech) ráp; dịch mã số(đ)
+ @assemble time
+- (Tech) thời gian dịch mã số
+ @assembler
+- (Tech) chương trình dịch mã số; thợ lắp ráp
+ @assembler language
+- (Tech) hợp ngữ, ngôn ngữ (chương trình) tổ hợp
+ @assembler operator
+- (Tech) toán tử hợp ngữ
+ @assembling
+- (Tech) dịch ngữ mã số (d); lắp ráp, tổ hợp
+ @assembling time
+- (Tech) thời gian dịch mã số
+ @assembly  
+*  dt
+- cuộc họp
+- hội đồng
+
++ the national assembly: quốc hội
+- hội nghị lập pháp; (Mỹ) hội đồng lập pháp (ở một số bang)
+- (quân sự) tiếng kèn tập hợp
+- (kỹ thuật) sự lắp ráp; bộ phận lắp ráp
+
+@assembly
+- (Tech) lắp ráp, tổ hơp; dịch mã số (d)
+ @assembly
+- sự tập hợp, kết cấu (nhiều linh kiện)
+- control a. (máy tính) bàn điều khiển
+- plug-in a. kết cấu nhiều khối 
+ @assembly drawing
+- (Tech) bản vẽ lắp ráp
+ @assembly language
+- (Tech) hợp ngữ, ngôn ngữ tổ hợp
+ @assembly line  
+*  dt
+- (kỹ thuật) dây chuyền lắp ráp
+
+@assembly listing
+- (Tech) liệt kê sau khi dịch mã số
+ @assembly program
+- (Tech) chương trình dịch mã số
+ @assembly routine
+- (Tech) thường trình dịch mã số
+ @assembly shop  
+*  dt
+- (kỹ thuật) phân xưởng lắp ráp
+
+@assemblyman  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) uỷ viên hội đồng lập pháp (ở một số bang)
+
+@assembly-room  
+*  dt
+- phòng họp hội nghị
+- phòng liên hoan, phòng nhảy
+
+@assent  
+*  dt
+- sự chuẩn y, sự phê chuẩn
+- sự đồng ý, sự tán thành
+*  ndgt
+- assent to đồng ý, tán thành (đề nghị, ý kiến, lời tuyên bố...)
+
+@assentation  
+*  dt
+- sự xun xoe đồng ý, sự vâng vâng dạ dạ
+
+@assenter
+- xem assent
+ @assentient  
+*  tt
+- bằng lòng, đồng ý, tán thành
+*  dt
+- người bằng lòng, người đồng ý, người tán thành
+
+@assentingly
+- xem assent
+ @assentive
+- xem assent
+ @assentiveness
+- xem assent
+ @assentor
+- xem assent
+ @assert  
+*  ngdgt
+- đòi (quyền lợi...)
+
++ to assert one's rights: đòi quyền lợi
+
++ to assert oneself: đòi quyền lợi của mình
+- xác nhận, khẳng định, quả quyết, quyết đoán
+
++ to assert that: xác nhận rằng; quả quyết rằng
+
++ this was asserted by several witnesses: nhiều người làm chứng đã xác nhận điều đó
+
+@assert
+- khẳng định; giữ vững; bảo vệ
+ @assertable
+- xem assert
+ @asserter
+- xem assert
+ @assertible
+- xem assert
+ @assertion  
+*  dt
+- sự đòi (quyền lợi...)
+- sự xác nhận, sự khẳng định, sự quả quyết, sự quyết đoán
+- điều xác nhận, điều khẳng định, điều quyết đoán
+
+@assertion
+- (Tech) khẳng định
+ @assertion
+- sự khẳng định, điều quyết đoán
+ @assertional
+- xem assertion
+ @assertive  
+*  tt
+- xác nhận, khẳng định, quả quyết, quyết đoán
+
++ an assertive manner: thái độ quả quyết
+
+@assertively
+* dt
+- quả quyết, quyết đoán
+ @assertiveness
+* dt
+- sự khẳng định, sự quả quyết, sự quyết đoán
+ @assertonic
+* tt
+- (triết học) xác nhận
+ @assertor  
+*  dt
+- người xác nhận, người khẳng định
+- người bênh vực (lẽ phải, sự thật...)
+
+@asserverate
+* ngdgt
+- long trọng xác nhận; quả quyết
+ @assess  
+*  ngdgt
+- định giá (tài sản, hoa lợi...) để đánh thuế; đánh giá; ước định
+- định mức (tiền thuế, tiền phạt)
+- đánh thuế, phạt
+
++ to be assessed at (in) ten dollars: bị đánh thuế mười đô la
+
+@assess
+- đánh giá
+ @assessable  
+*  tt
+- có thể định giá để đánh thuế, có thể định giá; có thể ước định
+- có thể đánh thuế
+
+@Assessable Income or profit
+- (Econ) Thu nhập hoặc lợi nhuận chịu thuế.
+: Xem TAXABLE INCOME, ALLOWANCES AND EXPENSES FOR CORPORATION TAX, ALLOWANCES AND EXPENSES FOR INCOME TAX.
+ @Assessable profit
+- (Econ) Lợi nhuận chịu thuế.
+: Xem TAXABLE INCOME.
+ @assessment  
+*  dt
+- sự định giá (một vật) để đánh thuế; sự đánh giá; sự ước định
+- sự đánh thuế
+- mức định giá đánh thuế; thuế
+
+@assessor  
+*  dt
+- người định giá (tài sản...) để đánh thuế
+- (pháp lý) viên hội thẩm
+
+@assessorial
+- xem assessor
+ @asset  
+*  dt
+- (số nhiều) tài sản (của một người hay một công ty) có thể dùng để trả nợ
+- (số nhiều) tài sản của người không thể trả được nợ
+- (số nhiều) của cải, tài sản, vật thuộc quyền sở hữ
+
++ real assets: bất động sản
+
++ personal assets: động sản
+- (thông tục) vốn quý, vật có ích, vật quý
+
+@Asset
+- (Econ) Tài sản.
+: Một thực thể có giá trị thị trương hoặc giá trị trao đổi, và là bộ phận cấu thành CỦA CẢI hay tài sản của chủ sở hữu.
+ @Asset stocks and services flows
+- (Econ) Dữ trữ tài sản và luồng dịch vụ.
+ @Asset stripping
+- (Econ) Tước đoạt tài sản.
+: Việc một công ty thôn tính bán những tài sản của CÔNG TY NẠN NHÂN sau khi thu mua. Điều này có thể thực hiện để có mức lợi nhuận đáng kể khi tài sản đã bị đánh giá thấp ở SỎ GIAO DỊCH CHỨNG KHOÁN.
+ @assets
+- (toán kinh tế) tài sản; tiền có
+- fixed a. tài sản cố định
+- personal a. động sản
+- real a.bất động sản 
+ @Assets motives
+- (Econ) Những động cơ tài sản.
+ @asset-stripping
+* dt
+- thủ đoạn mua rẻ một công ty đang bị trắc trở về vốn liếng, rồi đem bán từng phần công ty ấy để kiếm lời
+ @asseverate  
+*  ngdgt
+- long trọng xác nhận, quả quyết, đoan chắc
+
+@asseveration  
+*  dt
+- sự long trọng xác nhận, sự quả quyết, sự đoan chắc
+
+@assibilate  
+*  ngdgt
+- (ngôn ngữ học) đọc thành âm gió, đọc thành âm xuýt
+
+@assibilation  
+*  dt
+- (ngôn ngữ học) sự đọc thành âm gió, sự đọc thành âm xuýt
+
+@assiduity  
+*  dt
+- tính siêng năng, tính chuyên cần
+- (số nhiều) sự chăm sóc ân cần; sự luôn luôn chiều chuộng vồn vã
+
+@assiduous  
+*  tt
+- siêng năng, chuyên cần
+
+@assiduously
+* dt
+- siêng năng, cần mẫn
+ @assiduousness  
+*  dt
+- tính siêng năng, tính chuyên cần
+
+@assign  
+*  dt
+- (pháp lý) người được quyền thừa hưởng (tài sản, quyền lợi)
+*  ngdgt
+- phân (việc...), phân công
+
++ to be assigned to do something: được giao việc gì
+- ấn định, định
+
++ to assign the day for a journey: ấn định ngày cho cuộc hành trình
+
++ to assign a limit: định giới hạn
+- chia phần (cái gì, cho ai)
+- cho là, quy cho
+
++ to assign reason to (for) something: cho cái gì là có lý do; đưa ra lý do để giải thích cái gì
+- (pháp lý) nhượng lại
+
++ to assign one's property to somebody: nhượng lại tài sản cho ai
+
+@assign
+- (Tech) gán, định; chia phần
+ @assignability
+- xem assign
+ @assignable
+* tt
+- <pháp> có thể nhượng lại được, có thể chuyển nhượng
+ @assignable
+- không ngẫu nhiên
+ @assignably
+- xem assign
+ @assignation  
+*  dt
+- sự ấn định, sự hẹn (ngày, giờ, nơi hội họp...)
+- sự chia phần
+- (pháp lý) sự nhượng lại
+- (từ Mỹ,nghĩa Mỹ) sự gặp gỡ yêu đương bất chính; sự hẹn hò bí mật
+
+@assignational
+- xem assignation
+ @assigned frequency
+- (Tech) tần số chỉ định
+ @assignee  
+*  dt
+- người được uỷ nhiệm, người được uỷ quyền
+- (pháp lý) (như) assign
+!assignee in bankruptcy
+- (pháp lý) người được giao trách nhiệm quản lý tài sản của người vỡ nợ
+
+@assigner
+- xem assign
+ @assignment  
+*  dt
+- sự giao việc, sự phân công; (từ Mỹ,nghĩa Mỹ) việc được giao, việc được phân công
+- sự chia phần
+- sự cho là, sự quy cho
+
++ assignment of reason: sự cho là có lý do
+- (pháp lý) sự nhượng lại, sự chuyển nhượng; chứng từ chuyển nhượng
+
+@assignment
+- (Tech) phân định, chỉ định; gán, đồng hóa (đĩa); trắc định, xác định
+ @assignment
+- sự phân bổ, sự phân công; phép gán
+- state a. (điều khiển học) phép gán mã trạng thái 
+ @assignment instruction
+- (Tech) chỉ thị gán
+ @assignment operator
+- (Tech) toán tử gán, toán tử chỉ định
+ @Assignment problem
+- (Econ) Bài toán kết nối.
+: Tên được đặt cho câu hỏi liệu việc kết nối một biến chính sách, ví dụ CHÍNH SÁCH TIỀN TỆ một cách duy nhất để đạt được một mục tiêu chính sách, ví dụ cán cân thanh toán quốc tế dưới các chế độ về tỷ giá HỐI ĐOÁI có thể được hay không. Kết luận là không thể làm được như vậy.
+ @assignment statement
+- (Tech) câu lệnh gán, câu lệnh chỉ định
+ @assignment symbol
+- (Tech) dấu gán, ký hiệu gán
+ @assimilability  
+*  dt
+- tính có thể tiêu hoá ((nghĩa đen) & (nghĩa bóng))
+- tính có thể đồng hoá
+- (từ cổ,nghĩa cổ) tính có thể so sánh
+
+@assimilable  
+*  tt
+- có thể tiêu hoá ((nghĩa đen) & (nghĩa bóng))
+- có thể đồng hoá
+- (từ cổ,nghĩa cổ) có thể so sánh
+
+@assimilate  
+*  ngdgt
+- tiêu hoá ((nghĩa đen) & (nghĩa bóng))
+
++ to assimilate all that one reads: tiêu hoá được tất cả những cái mình đọc
+- đồng hoá
+- (từ cổ,nghĩa cổ) (assimilate to,  with) so sánh với
+*  ndgt
+- được tiêu hoá, tiêu hoá, 
+- được đồng hoá, đồng hoá
+
+@assimilation  
+*  dt
+- sự tiêu hoá ((nghĩa đen) & (nghĩa bóng))
+- sự đồng hoá
+
+@assimilative   (assimilatory) @assimilator  
+*  dt
+- người đồng hoá
+
+@assimilatory   (assimilatory) @assist  
+*  ngdgt
+- giúp, giúp đỡ
+
++ to assist someone in doing something: giúp ai làm việc gì
+*  ndgt
+- dự, có mặt
+
++ to assist at a ceremony: dự một buổi lễ
+
++ to assist in: tham gia
+
+@assist
+- giúp đỡ, tương trợ
+ @assistance  
+*  dt
+- sự giúp đỡ
+
++ to render (give) assistance to somebody: giúp đỡ ai
+
+@assistant  
+*  dt
+- người giúp đỡ, người phụ tá
+- trợ giáo; (pháp lý) viên phụ thẩm
+- người bán hàng ((cũng) shop assistant)
+*  tt
+- giúp đỡ, phụ, phó
+
++ assistant surgeon: người phụ mổ
+
++ assistant manager: phó giám đốc
+
+@Assisted areas
+- (Econ) Các vùng được hỗ trợ
+: Các vùng trong nước mà ở đó hoạt động kinh tế hoạt động kinh tế được hỗ trợ bởi chính sách chi tiêu và thuế của chính phủ. Xem DEPRESSED AREAS, REGIONAL EMPLOYMENT PREMIUM, REGIONAL DEVELOPMENT GRANT.
+ @assister
+- xem assist
+ @assize  
+*  dt
+- (Ê pom :) việc sử án
+- (số nhiều) toà đại hình
+- (từ cổ,nghĩa cổ) giá quy định (bánh, rượu bia)
+!great (last) assize
+- (tôn giáo) sự phán quyết cuối cùng
+
+@assoc
+* (viết tắt)
+- Hội (association))
+ @associable  
+*  tt
+- có thể liên tưởng
+
+@associate  
+*  tt
+- kết giao, kết hợp liên hợp; liên đới
+
++ associate societies: hội liên hiệp
+
++ associate number: (toán học) số liên đới
+- (từ Mỹ,nghĩa Mỹ) cùng cộng tác, phụ, phó, trợ
+
++ associate editor: phó tổng biên tập
+*  dt
+- bạn, bạn đồng liêu, người cùng cộng tác; đồng minh
+- hội viên thông tin, viện sĩ thông tấn (viện hàn lâm khoa học...)
+- vật phụ thuộc (vào vật khác); vật liên kết với vật khác
+*  ngdgt
+- kết giao, kết hợp, liên hợp, liên kết; cho gia nhập, cho cộng tác
+
++ to associate someone in one's business: cho ai cùng cộng tác trong công việc kinh doanh
+- liên tưởng (những ý nghĩ)
+
++ to associate oneself in: dự vào, cùng cộng tác vào
+*  ndgt
+- kết giao, kết bạn với, giao thiệp với
+- hợp sức; liên hợp lại (vì mục đích chung), liên kết lại
+
++ to associate with someone in doing something: hợp sức với người nào làm việc gì
+
+@associate
+- (Tech) liên kết (đ), kết hợp (đ)
+ @associate
+- liên kết, kết hợp, liên đới, liên hợp
+ @associate memory
+- (Tech) bộ nhớ liên kết
+ @associated
+- liên kết
+ @associated decimal number
+- (Tech) số thập phân kết hợp
+ @association  
+*  dt
+- sự kết hợp, sự liên hợp, sự liên kết; sự liên đới
+- sự kết giao, sự giao thiệp
+- sự liên tưởng
+- hội, hội liên hiệp; đoàn thể, công ty
+
++ deed of association: điều lệ của một công ty trách nhiệm có hạn
+- (sinh vật học) quần hợp
+- môn bóng đá ((cũng) association foot-ball)
+
+@association
+- (Tech) liên kết (d), kết hợp (d)
+ @association
+- sự liên kết, sự kết hợp
+ @association list
+- (Tech) bản kê liên kết
+ @Association of International Bond Dealers
+- (Econ) Hiệp hội những người buôn bán trái khoán quốc tế.
+: Cơ quan thành lập năm 1969, thu thập và cho niêm yết lợi nhuận và báo giá thị trường hiện hành với các loại phát hành của TRÁI KHOÁN CHÂU ÂU.
+ @Association of South East Asian Nations (ASEAN)
+- (Econ) Hiệp hội các nước Đông nam Á.
+: Hiệp hội được các Bộ trưởng ngoại giao Indonesia, Malaysia, Phillipines, Singapore và Thái Lan thành lập năm 1967. Mục đích chung của hiệp hội là thúc đẩy tăng trưởng kinh tế, tiến bộ xã hội và phát triển văn hoá ở khu vực Đông Nam Á.
+ @associational  
+*  tt
+- liên tưởng
+
+@associationism  
+*  dt
+- thuyết liên tưởng
+
+@associationist  
+*  dt
+- người theo thuyết liên tưởng
+
+@associationistic
+- xem associationism
+ @associative  
+*  tt
+- liên tưởng
+- kết hợp, liên hợp, liên kết; liên đới
+
++ associative algebra: đại số kết hợp
+
++ associative law: luật kết hợp
+
++ associative relation: liên hệ kết hợp
+
+@associative
+- kết hợp
+ @associative addressing
+- (Tech) định vị liên kết
+ @associative criterion
+- (Tech) chuẩn cứ liên kết
+ @associative law
+- (Tech) định luật liên kết
+ @associative memory
+- (Tech) bộ nhớ liên kết
+ @associative processing
+- (Tech) xử lý liên kết
+ @associative processor
+- (Tech) bộ xử lý liên kết
+ @associative region
+- (Tech) vùng liên kết
+ @associative register
+- (Tech) bộ ghi liên kết
+ @associative search
+- (Tech) tìm liên kết
+ @associative storage
+- (Tech) bộ trữ liên kết
+ @associatively
+- xem associative
+ @associativity
+- tính kết hợp
+ @associator
+- (đại số) cái liên hợp
+ @assoil  
+*  ngdgt
+- (từ cổ,nghĩa cổ) tha tội, xá tôi
+- chuộc (tội)
+
+@assonance  
+*  dt
+- sự trùng âm (giữa hai vần)
+- (thơ ca) vần ép
+- sự tương ứng một phần
+
+@assonant  
+*  tt
+- (thơ ca) có vần ép
+
+@assonantal
+- xem assonance
+ @assort  
+*  ngdgt
+- chia loại, phân loại, sắp xếp thành loại
+- làm cho xứng nhau, làm cho hợp nhau
+
++ to assort colours: chọn màu cho hợp nhau
+- sắp xếp các mặt hàng để bày biện (cửa hàng...); cung cấp các mặt hàng (cho một cửa hàng...)
+*  ndgt
+- assort with ẩn ý với, tương đắc với, giao du với
+- assort with hợp với, xứng nhau
+
++ this colour assorts well with blue: màu này hợp với màu xanh
+- ở vào một loại
+
+@assortative
+- xem assort
+ @assorted
+* tt
+- hỗn hợp, đủ loại
+ @assorter
+- xem assort
+ @assortment  
+*  dt
+- sự phân hạng, sự phân loại, sự sắp xếp thành loại
+- mặt hàng sắp xếp thành loại
+- sự làm cho hợp nhau
+
+@asst
+* (viết tắt)
+- phó ((assistant))
+ @assuage  
+*  ngdgt
+- làm dịu bớt, làm khuây (nỗi đau buồn); an ủi, khuyên giải ai
+- làm thoả mãn (sự thèm khát...)
+
+@assuagement  
+*  dt
+- sự làm dịu bớt, sự làm khuây; sự an ủi, sự khuyên giải
+- sự làm thoả mãn (sự thèm khát...)
+
+@assumable
+- xem assume
+ @assumably
+- xem assume
+ @assume  
+*  ngdgt
+- mang, khoác, có, lấy (cái vẻ, tính chất...)
+
++ his illness assumes a very grave character: bệnh của anh ta có vẻ nặng
+
++ to assume the name of: mang tên là, lấy tên là
+- làm ra vẻ, giả bộ
+
++ to assume a look of innocence: làm ra vẻ ngây thơ
+
++ to assume airs: lên mặt, lên râu, làm ra vẻ ta đây
+- cho rằng (là đúng); giả sử (là đúng), thừa nhận
+
++ let's assume that this is true: chúng ta hãy cho điều này là đúng
+- nắm lấy, chiếm lấy
+
++ to assume power: nắm chính quyền
+- đảm đương, gánh vác, nhận vào mình
+
++ to assume responsibility: gánh vác một trách nhiệm
+!to assume measures
+- áp dụng những biện pháp
+!to assume the offensive
+- (quân sự) chuyển sang thế tấn công
+
+@assume
+- (Tech) giả định, giả sử; đảm nhận
+ @assume
+- giả thiết; thừa nhận
+ @assumed  
+*  tt
+- làm ra vẻ, giả bô
+
++ with assumed indifference: làm ra vẻ thờ ơ
+- giả, không có thật
+
++ assumed name: tên giả, tên mượn
+- được mệnh danh là đúng, được cho là đúng, được thừa nhận
+
+@assumed
+- giả định
+ @assumedly
+- xem assumed
+ @assumer
+- xem assume
+ @assuming  
+*  tt
+- kiêu căng, kiêu ngạo, ngạo mạn; ra vẻ ta đây
+
+@assumingly
+- xem assuming
+ @assumption  
+*  dt
+- sự mang, sự khoác, sự lấy (cái vẻ, tính chất...)
+- sự làm ra vẻ, sự giả bộ
+- sự mệnh danh (là đúng), sự cho rằng (là đúng), sự thừa nhận
+- sự nắm lấy, sự chiếm lấy
+- sự đảm đương, sự gánh vác, sự nhận vào mình
+- tính kiêu căng, tính kiêu ngạo, tính ngạo mạn
+- (tôn giáo) lễ thăng thiên của Đức mẹ đồng trinh
+
+@assumption
+- sự giả định, điều giả định, giả thiết
+ @assumptive  
+*  tt
+- được mệnh danh là đúng, được cho là đúng, được thừa nhận
+- kiêu căng, kiêu ngạo, ngạo mạn
+
+@assumptively
+- xem assumptive
+ @assurable
+- xem assure
+ @assurance  
+*  dt
+- sự chắc chắn; sự tin chắc; điều chắc chắn, điều tin chắc
+- sự quả quyết, sự cam đoan; sự đảm bảo
+- sự tự tin
+- sự trơ tráo, sự vô liêm sỉ
+
++ to have the assurance to do something: dám trơ tráo làm việc gì
+- (pháp lý) bảo hiểm
+
++ life assurance: bảo hiểm tính mệnh
+!to make assurance double sure
+- để cho hoàn toàn chắc chắn; làm cho không thể nghi ngờ vào đâu được
+
+@Assurance
+- (Econ) Bảo hiểm xác định
+: Một loại bảo hiểm liên quan đến tình huống trong đó bảo hiểm cho sự kiện không thể tránh khỏi. Điều này có thể do hợp đồng liên quan tới việc trả một khoản xác định vào một ngày nào đó hoặc là vì cái chết của người được bảo hiểm.
+ @assurance
+- sự bảo hiểm
+- life a. tk bảo hiểm sinh mạng 
+ @assure  
+*  ngdgt
+- làm cho vững tâm, làm cho tin chắc
+- quả quyết, cam đoan
+- đảm bảo
+
++ hard work work usually assures success: chăm chỉ thường bảo đảm sự thành công
+- bảo hiểm
+
++ to assure one's life: bảo hiểm tính mệnh
+
+@assured  
+*  tt
+- tin chắc, cầm chắc, yên trí
+
++ you may rest assured that...: anh có thể tin chắc (yên trí) là...
+- chắc chắn, quả quyết; đảm bảo
+
++ assured success: sự thành công chắc chắn
+- tự tin
+- trơ tráo, vô liêm sỉ
+- được bảo hiểm
+
+@assuredly  
+*  dt
+- chắc chắn, nhất định, tất nhiên, quyết là
+
+@assuredness  
+*  dt
+- sự chắc chắn, sự nhất định
+- sự tự tin
+- sự trơ tráo, sự vô liêm sỉ
+
+@assurer  
+*  dt
+- người bảo hiểm
+
+@assurgency
+- xem assurgent
+ @assurgent  
+*  tt
+- lên
+- (thực vật học) mọc xiên lên
+- có tính chất xâm lược
+
+@assyrian
+* dt
+- người At-xi-ri
+- tiếng At-xi-ri
+ @assyriological
+* tt
+- thuộc At-xi-ri
+- không ổn định
+- (y học) bị chứng mất chân đứng
+ @assyriology
+* dt
+- At-xi-ri học
+ @ast
+* (viết tắt)
+- giờ tiêu chuẩn của vùng Đại Tây Dương ((Atlantic Standard Time))
+ @astable
+- (Tech) không ổn
+ @astaboard
+* dt
+- về phía mạn phải của chiếc tàu
+ @astatic  
+*  tt
+- (vật lý) phiếm định
+
++ astatic galvanometer: cái đo điện phiếm định
+
+@astatic
+- (Tech) vô định hướng, phiếm định; vô ổn định
+ @astatically
+- xem astatic
+ @astaticism
+- xem astatic
+ @astatine
+* dt
+- nguyên tố phóng xạ nhân tạo
+ @astelic
+* tt
+- (sinh học) không trục, không trung trụ
+ @aster  
+*  dt
+- (thực vật học) cây cúc tây
+- (sinh vật học) thể sao
+
+@asteria
+* dt
+- viên ngọc đẽo hình sao
+ @asteriatid
+* tt
+- có hình sao (ngọc)
+ @asterisk  
+*  dt
+- dấu sao
+*  ngdgt
+- đánh dấu sao
+
+@asterisk
+- (Tech) dấu sao (*)
+ @asterisk
+- dấu sao (&#9733;)
+ @asterism  
+*  dt
+- chòm sao
+- dấu hình ba sao
+
+@asterismal
+- xem asterism
+ @astern  
+*  dt
+- (hàng hải)
+- ở phía sau tàu, ở phía lái tàu
+
++ astern of a ship: ở đằng sau tàu
+- về phía sau, ở xa đằng sau
+
++ to fall (drop) astern: tụt lại ở phía sau, ở lại đằng sau
+- lùi, giật lùi
+
++ full speed astern: phóng giật lùi
+
+@asternal  
+*  tt
+- (giải phẫu) không dính vào xương ức (xương sườn)
+- không có xương ức
+
+@asteroid  
+*  dt
+- (thiên văn học) hành tinh nhỏ
+- pháo hoả tinh hình sao
+*  tt
+- hình sao
+
+@asteroid
+- hình sao
+ @asthenia  
+*  dt
+- (y học) sự suy nhược
+
+@asthenic  
+*  tt
+- (y học) suy nhược
+*  dt
+- (y học) người suy nhược
+
+@asthenopia
+* dt
+- (y học) thị lực suy nhược
+ @asthma  
+*  dt
+- bệnh hen, bệnh suyễn
+
+@asthmatic  
+*  tt
+- (thuộc) bệnh hen
+- mắc bệnh hen
+- để chữa bệnh hen
+*  dt
+- người mắc bệnh hen
+
+@asthmatically
+- xem asthma
+ @astigmatic  
+*  tt
+- (y học) loạn thị
+- (vật lý) Astimatic
+
+@astigmatic
+- (Tech) loạn thị
+ @astigmatic lens
+- (Tech) thấu kính loạn thị [TN], thấu kính tán hình [ĐL]
+ @astigmatically
+- xem astigmatism
+ @astigmatism  
+*  dt
+- (y học) chứng loạn thị
+- (vật lý) tính Astimatic
+
+@astir  
+*  tt & dt
+- hoạt động
+- trở dậy
+
++ to be early astir: trở dậy sớm
+- xôn xao, xao động
+
++ the whole town was astir with the news: cả thành phố xôn xao về cái tin đó
+
+@astomatous  
+*  tt
+- (động vật học) không có miệng, không có mồm
+
+@astonish  
+*  ngdgt
+- làm ngạc nhiên
+
++ to be astonished at...: lấy làm ngạc nhiên về...
+
+@astonished
+* tt
+- ngạc nhiên, kinh ngạc
+ @astonishing  
+*  tt
+- làm ngạc nhiên, lạ lùng, kinh dị
+
+@astonishingly
+* dt
+- đáng kinh ngạc
+ @astonishment  
+*  dt
+- sự ngạc nhiên
+
++ to be filled (struck) with astonishment: hết sức ngạc nhiên
+
+@astound  
+*  ngdgt
+- làm kinh ngạc, làm kinh hoàng
+- làm sững sờ, làm sửng sốt
+
+@astounding  
+*  tt
+- làm kinh ngạc, làm kinh hoàng
+- làm sững sờ, làm sửng sốt
+
+@astoundingly
+- xem astound
+ @astraddle  
+*  dt & tt
+- đang cưỡi lên; đang ngồi bỏ chân sang hai bên
+
+@astragal  
+*  dt
+- (kiến trúc) đường viền đỉnh, đường viền chân (cột nhà)
+- đường viền miệng (súng đại bác)
+
+@astragalar
+- xem astragalus
+ @astragalus  
+*  dt
+- (giải phẫu) xương xên
+- (thực vật học) cây đậu ván dại
+
+@astrakhan  
+*  dt
+- bộ da lông cừu caracun
+
+@astral  
+*  tt
+- (thuộc) sao; gồm những vì sao
+
++ astral spirits: những linh hồn ở trên những vì sao, linh tinh
+
++ astral body: thiên thể
+
++ astral lamp: đèn treo không sấp bóng xuống bàn (để mổ...)
+
+@astrally
+- xem astral
+ @astray  
+*  dt & tt
+- lạc đường, lạc lối
+
++ to go astray: đi lạc đường, lạc lối; (nghĩa bóng) đi vào con đường lầm lạc
+
+@astrict  
+*  ngdgt
+- (từ hiếm,nghĩa hiếm) buộc chặt
+- thắt buộc, ràng buộc
+- làm cho táo bón
+- hạn chế
+
+@astriction  
+*  dt
+- sự buộc chặt
+- sự thắt buộc, sự ràng buộc
+- sự làm cho táo bón
+- sự hạn chế
+
+@astrictive  
+*  tt
+- làm co
+- (y học) làm se, làm săn da
+
+@astride  
+*  dt & tt
+- cưỡi lên, ngồi như cưỡi ngựa
+
++ to ride astride a horse: cưỡi ngựa
+- đứng dạng chân
+*  giới từ
+- (: of) cưỡi lên
+!astride of the road
+- (quân sự) đóng chắn ngang đường
+
+@astringe  
+*  ngdgt
+- buộc chặt lại với nhau
+- nèn ép
+- làm táo bón
+
+@astringency  
+*  dt
+- (y học) tính chất làm se
+- tính chặt chẽ, tính nghiêm khắc, tính khắc khổ
+
+@astringent  
+*  tt
+- (y học) làm se
+- chặt chẽ, nghiêm khắc, khắc khổ
+*  dt
+- (y học) chất làm se
+
+@astringently
+- xem astringent
+ @astrobiological
+- xem astrobiology
+ @astrobiologist
+- xem astrobiology
+ @astrobiology  
+*  dt
+- sinh vật học vũ trụ
+
+@astroblast
+* dt
+- (sinh học) nguyên thể bào
+ @astrobotany  
+*  dt
+- thực vật học vũ trụ
+
+@astrocentre
+* dt
+- (sinh học) thể trung tâm
+ @astrochemistry
+* dt
+- (thiên thể) hoá học thiên thể
+ @astroclereid
+* dt
+- tế bào gai
+ @astrodome
+* dt
+- đường hình sao
+ @astrogeologist
+- xem astrogeology
+ @astrogeology  
+*  dt
+- địa chất học vũ trụ
+
+@astroid  
+*  dt
+- đường hình sao
+
+@astroid
+- đường hình sao
+- oblique a. đường hình sao xiên 
+- projective a. đường hình sao xạ ảnh 
+- regular a. đường hình sao đều 
+ @astrolabe  
+*  dt
+- cái đo độ cao thiên thể (ngày xưa)
+
+@astrologer  
+*  dt
+- nhà chiêm tinh
+
+@astrologic   (astrological) @astrological   (astrological) @astrologically
+- xem astrology
+ @astrology  
+*  dt
+- thuật chiêm tinh
+
+@astrology
+- thuật chiem tinh
+ @astrometeorology  
+*  dt
+- khí tượng học thiên thể
+
+@astrometer  
+*  dt
+- cái đo sao
+
+@astrometric
+- xem astrometry
+ @astrometry  
+*  dt
+- thuật đo sao
+
+@astronaut
+* dt
+- phi hành gia, nhà du hành vũ trụ
+ @astronautic
+- xem astronautics
+ @astronautical
+- xem astronautics
+ @astronautic(al)
+- (thuộc) du hành vũ trụ
+ @astronautically
+- xem astronautics
+ @astronautics  
+*  dt,  số nhiều dùng như số ít
+- ngành du hành vũ trụ, thuật du hành vũ trụ
+
+@astronautics
+- (Tech) khoa du hành vũ trụ
+ @astronavigation 
++  astronomical navigation
+- (Tech) du hành vũ trụ
+ @astronomer  
+*  dt
+- nhà thiên văn học
+
+@astronomic   (astronomical) @astronomical   (astronomical) @astronomic(al)
+- (thuộc) thiên văn
+ @astronomically
+- xem astronomical
+ @astronomy  
+*  dt
+- thiên văn học
+
++ nautical astronomy: thiên văn học hàng hải
+
++ general astronomy: thiên văn học đại cương
+
++ practical astronomy: thiên văn học thực hành
+
++ statistical astronomy: thiên văn học thống kê
+
++ theoretical astronomy: thiên văn học lý thuyết
+
+@astronomy
+- (Tech) thiên văn học
+ @astronomy
+- thiên văn học
+- mathematical a. thiên văn toán học 
+ @astrophotocamera  
+*  dt
+- máy ảnh thiên văn
+
+@astrophotographic
+- xem astrophotography
+ @astrophotography  
+*  dt
+- phép chụp ảnh thiên văn
+
+@astrophysical
+- xem astrophysics
+ @astrophysical
+- (thuộc) vật lý thiên thể
+ @astrophysicist
+- xem astrophysics
+ @astrophysics  
+*  dt,  số nhiều dùng như số ít
+- vật lý học thiên thể
+
+@astropyle
+* dt
+- (sinh học) miệng dạng sao
+ @astrosphere
+* dt
+- (sinh học) thể cầu dạng sao
+ @astucious
+* tt
+- tinh quái
+ @astute  
+*  tt
+- sắc sảo, tinh khôn
+- láu, tinh ranh, mánh khoé
+
+@astutely
+* dt
+- tinh ranh, láu lỉnh
+ @astuteness  
+*  dt
+- sự sắc sảo, óc tinh khôn
+- tính láu, tính tinh ranh
+
+@asunder  
+*  dt
+- riêng ra, xa ra, cách xa nhau (hai vật)
+- rời ra, rời ra từng mảnh
+
++ to tear something asunder: xé vật gì ra thành từng mảnh
+
++ to break (cut) asunder: bẻ làm đôi, chặt rời ra
+
+@aswarm
+* tt
+- nhan nhản
+
++  streets aswarm with people:các đường phố nhan nhản những người
+ @aswoon
+* tt
+- ngất đi
+ @asyllabic
+* tt
+- không làm thành âm tiết
+ @asylum  
+*  dt
+- viện cứu tế
+
++ orphan asylum: viện cứu tế trẻ mồ côi
+
++ asylum for the aged: viện an dưỡng cho người già
+- nhà thương điên, bệnh viện tinh thần kinh ((cũng) clunatic asylum)
+- nơi trú ẩn, nơi ẩn náu; nơi nương náu
+
++ to offord asylum to someone: cho ai nương náu
+
+@asymetrix
+- Tên một công ty tin học của Mỹ
+ @asymmetric   (asymmetrical) @Asymmetric infornation
+- (Econ) Thông tin bất đối xứng; Thông tin không tương xứng.
+: Sự khác nhau về thông tin mà các bên tham gia giao dịch trên thị trường có được. Xem INSIDER - OUTSIDER MODELS.
+ @asymmetrical   (asymmetrical) @asymmetrical
+- (Tech) không đối xứng, bất đối xứng
+ @asymmetric(al)
+- không đối xứng
+ @asymmetrically
+- xem asymmetrical
+ @asymmetrically
+- một cách không đối xứng
+ @asymmetry  
+*  dt
+- tính không đối xứng
+
+@asymmetry
+- tính không đối xứng
+ @asymptomatic
+* tt
+- (y học) không có triệu chứng bị bệnh
+ @asymptote  
+*  dt
+- (toán học) đường tiệm cận
+
+@asymptote
+- (Tech) đường tiệm cận
+ @Asymptote
+- (Econ) Đường tiệm cận.
+: Giá trị mà biến phụ thuộc của một hàm tiến đến khi biến tự do trở nên rất lớn hoặc rất nhỏ.
+ @asymptote
+- đường tiệm cận
+- curvilinear a. tiệm cận cong
+- inflexional a. tiệm cận uốn
+- reetilinear a. tiệm cận thẳng 
+ @asymptotic  
+*  tt
+- (toán học) tiệm cận
+
+@Asymptotic distribution
+- (Econ) Phân phối tiệm cận.
+: PHÂN PHÔI XÁC XUẤT mà một biến THỐNG KÊ hướng tới khi kích thước của mẫu tiến tới vô cùng. Khái niệm rất hữu ích trong đánh giá các đặc thù của chọn mẫu trong kinh tế lượng.
+ @asymptotic(al)
+- tiệm cận, gần đúng
+ @asymptotically
+- xem asymptote
+ @asymptotically
+- một cách tiệm cận
+ @asynapsis
+* dt
+- số nhiều asynapses
+- (sinh học) sự không tiếp hợp; sự không kết đôi
+ @asynchoronous
+- không đồng bộ
+ @asynchron
+- dị bộ (một cách truyền dữ liệu cho phép khoảng thời gian truyền giữa các kí tự được thay đổi)
+ @asynchronism  
+*  dt
+- trạng thái không đồng thời
+- (vật lý) trạng thái không đồng bộ
+
+@asynchronous  
+*  tt
+- không đồng thời
+- không đồng bộ
+
+@asynchronous
+- (Tech) dị bộ, không đồng bộ
+ @asynchronous bus
+- (Tech) mẫu tuyến dị bộ
+ @asynchronous communication
+- (Tech) thông tin dị bộ
+ @asynchronous data transmission
+- (Tech) truyền dữ kiện dị bộ
+ @asynchronous device
+- (Tech) thiết bị dị bộ
+ @asynchronous line
+- (Tech) đường dây dị bộ
+ @asynchronous time division multiplexing
+- (Tech) hệ đa kết bằng phép phân thời gian không đồng bộ, hệ đa kết phân thời
+ @asynchronous transmission
+- (Tech) truyền dị bộ
+ @asynchronously
+- xem asynchronism
+ @asyndesis
+* dt
+- sự không kết hợp
+ @asyndetic  
+*  tt
+- (ngôn ngữ học) không có liên từ, bỏ liên từ
+
+@asyndetically
+- xem asyndeton
+ @asyndeton  
+*  dt
+- (ngôn ngữ học) sự bỏ liên từ
+
+@asynergia
+- Cách viết khác : asynergy 
+ @asyngamic
+* tt
+- (sinh học) không hợp giao
+ @asyngamy
+* dt
+- (sinh học) tính không hợp giao
+ @

@@ -1,0 +1,4 @@
+@lf
+* (viết tắt)
+- tần số thấp (low frequency)
+ @

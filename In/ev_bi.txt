@@ -1,0 +1,2006 @@
+@bi
+- (tiền tố) hai
+ @biadaptive
+- (Tech) thích ứng kép 
++  backward learning
+ @bi-additive
+- song cộng tính
+ @biaffine
+- song afin
+ @biangular  
+*  tt
+- có hai góc
+
+@biannual  
+*  tt
+- một năm hai lần
+
+@biannually
+* dt
+- một năm hai lần
+ @bias  
+*  dt
+- độ xiên, dốc, nghiêng
+- đường chéo
+
++ to cut on the bias: cắt chéo (vải)
+- (nghĩa bóng) khuynh hướng, sự thiên về; thành kiến
+
++ to have a bias in favour of something: có khuynh hướng thiên về cái gì
+
++ to bias towards someone: thiên vị đối với ai
+
++ to have a bias against someone: thành kiến đối với ai
+- (vật lý) thế hiệu dịch
+
++ automatic bias: thế hiệu dịch tự động
+*  dt
+- xiên, nghiêng
+- chéo theo đường chéo
+*  ngdgt
+- hướng
+
++ to the opinions of the people: hướng dư luận của quần chúng
+- gây thành kiến
+
++ to be bias (s)ed against somebody: có thành kiến đối với ai
+- ảnh hưởng đến (thường là xấu)
+
+@bias
+- (Tech) thiên áp, điện áp lệch; thiên lưu; thiên từ; dời chỗ; lệch, dịch (d)
+ @Bias
+- (Econ) Độ lệch.
+: Mức độ mà giá trị kỳ vọng của một ĐOÁN SỐ (ƯỚC LƯỢNG SỐ) khác so với giá trị tham số thực của nó. Xem (BEST LINEAR UNBIASED ESTIMATOR).
+ @bias
+- (thống kê) độ chênh lệch, sai số hệ thống rời, dịch chuyển
+- downwarrd b. (thống kê) chệch xuống dưới, chệch thấp đi
+- grid b. sự dịch chuyển lưới 
+ @bias
+- inherent b. tk độ chệch không khử được
+- interviewer b. (thống kê) độ chệch phủ quan (độ chệch của kết quả điều tra do
+- chủ quan người điều tra gây ra)
+- upward b. tk chệch lên trên, chệch lên cao
+- weight b. độ chệch trọng lượng (độ chệch do giảm trọng lượng sai gây ra) 
+ @bias binding
+* dt
+- miếng vải cắt chéo để buộc các mép lại
+ @biased
+- (thống kê) chệch; không đối xứng
+ @biasing
+- (Tech) định thiên; tăng thiên áp
+ @biaxial  
+*  tt
+- (vật lý) hai trục
+
+@biaxial
+- lưỡng trục, song trục
+ @bib  
+*  dt
+- cái yếm dãi (của trẻ con)
+- yếm tạp dề (phần trên của cái tạp dề)
+!to be in one's best bib and tucker
+- diện bảnh thắng bộ đẹp nhất
+*  ndgt
+- uống nhiều, uống luôn miệng
+
+@bibber  
+*  dt
+- người nghiện rượu
+
+@bible  
+*  dt
+- kinh thánh
+
+@biblical  
+*  tt
+- (thuộc) kinh thánh
+
+@bibliofilm  
+*  dt
+- phim sách (phim ảnh chụp lại sách)
+
+@bibliograph   (bibliograph) @bibliographer   (bibliograph) @bibliographic   (bibliographical) @bibliographical   (bibliographical) @bibliography  
+*  dt
+- thư mục
+- thư mục học
+
+@bibliography
+- (Tech) mục lục thư tịch; thư tịch học; thư mục
+ @bibliolater  
+*  dt
+- người tôn sùng sách
+- người tôn sùng kinh thánh
+
+@bibliolatry  
+*  dt
+- sự tôn sùng sách
+- sự tôn sùng kinh thánh
+
+@bibliomania  
+*  dt
+- bệnh mê sách
+
+@bibliomaniac  
+*  dt
+- người mê sách
+
+@bibliophile  
+*  dt
+- người ham sách
+
+@bibliophilism  
+*  dt
+- sự ham sách, tính ham sách
+
+@bibliophilist  
+*  dt
+- người ham sách
+
+@bibliopole  
+*  dt
+- người bán sách hiếm
+
+@bibliopoly  
+*  dt
+- nghề bán sách
+
+@bicameral
+* tt
+- có cả thượng nghị viện lẫn hạ nghị viện, Lưỡng viện
+ @bicarb
+- <khngu> bicarbonat natri
+ @bicarbonate  
+*  dt
+- (hoá học) cacbonat axit
+
+@bicarmeral  
+*  tt
+- có hai nghị viện (chế độ)
+
+@bicategory
+- song phạm trù
+ @bicentenanial  
+*  dt
+- lễ kỷ niệm hai trăm năm
+- lâu hai trăm năm
+- hai trăm năm một lần
+*  dt
+- (như) bicentenary
+
+@bicentenary  
+*  tt
+- hai trăm năm
+
+@bicentennial
+* tt
+- hai trăm năm một lần
+* dt
+- dịp hai trăm năm, kỷ niệm lần thứ hai trăm
+ @bicephalous  
+*  tt
+- có hai đầu
+
+@biceps  
+*  dt
+- (giải phẫu) có hai đầu
+- sự có bắp thịt nở nang
+
+@bicharacteristic
+- song đặc trưng
+ @bichloride  
+*  dt
+- (hoá học) điclorua
+
+@bichromate  
+*  dt
+- (hoá học) đicromat
+
+@bicker  
+*  ndgt
+- cãi nhau vặt
+- róc rách (suối nước...); lộp bộp (mưa)
+- lấp lánh (ánh đèn...)
+
+@bi-CMOS
+- (Tech) chất bán dẫn oxit kim thuộc bổ xung lưỡng cực
+ @bicompact
+- song compăc
+ @bicompactification
+- song compăc hoá
+ @bicompactum
+- song compăc
+ @bicomplex
+- song phức
+ @biconcave  
+*  tt
+- (vật lý) hai mặt lõm
+
+@biconical antenna
+- (Tech) ăngten hai chóp
+ @biconjugate gradient method
+- (Tech) phương pháp thang độ liên hợp song đối
+ @biconvex  
+*  tt
+- (vật lý) hai mặt lồi
+
+@biconvex
+- hai phía lỗi
+ @biconvex lens
+- (Tech) thấu kính hai mặt lõm
+ @bicuspid  
+*  tt
+- có hai đầu nhọn; nhọn hai đầu (răng, lá...)
+- (giải phẫu) hai lá (van)
+*  dt
+- răng trước hàm
+
+@bicycle  
+*  dt
+- xe đạp
+*  ndgt
+- đi xe đạp
+
+@bicycler  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) bicyclist
+
+@bicyclist  
+*  dt
+- người đi xe đạp
+
+@bicylinder
+- song trụ
+ @bid  
+*  dt
+- sự đặt giá, sự trả giá (trong một cuộc bán đấu giá)
+- sự bỏ thầu
+- (thông tục) sự mời
+- sự xướng bài (bài brit)
+!to make a bid for
+- tìm cách để đạt được, cố gắng để được
+*  (bất qui tắc) dgt bad,  bade,  bid; bidden,  bid
+- đặt giá
+
++ he bids 300d for the bicycle: anh ấy đặt giá cái xe đạp 300 đồng
+- (từ Mỹ,nghĩa Mỹ) thầu
+
++ the firm decided to bid on the new bridge: công ty ấy quyết định thầu làm cái cầu mới
+- mời chào
+
++ a bidden guest: người khách được mời đến
+
++ to bid someone good-bye (farewell): chào tạm biệt ai
+
++ to bid welcome: chào mừng
+- công bố
+
++ to bid the banns: công bố hôn nhân ở nhà thờ
+- xướng bài (bài brit)
+- (văn học),  (thơ ca); (từ cổ,nghĩa cổ) bảo, ra lệnh, truyền lệnh
+
++ bid him come in: bảo nó vào
+!to bid against (up, in)
+- trả hơn tiền; tăng giá
+!to bid fair
+- hứa hẹn; có triển vọng
+
++ our plan bids fair to succeed: kế hoạch của chúng nó có triển vọng thành công
+
+@bid
+- (Tech) yêu cầu quyền phát tin [NB]
+ @Bid
+- (Econ) Đấu thầu.
+: Một đề nghị trả mà một cá nhân hay tổ chức đưa ra để sở hữu hoăc kiểm soát tài sản, các đầu vào, hàng hoá hay dịch vụ.
+ @biddable  
+*  tt
+- vâng lời, chịu tuân lệnh
+- có thể xướng lên (bài brit)
+
+@bidden  
+*  dt
+- sự đặt giá, sự trả giá (trong một cuộc bán đấu giá)
+- sự bỏ thầu
+- (thông tục) sự mời
+- sự xướng bài (bài brit)
+!to make a bid for
+- tìm cách để đạt được, cố gắng để được
+*  (bất qui tắc) dgt bad,  bade,  bid; bidden,  bid
+- đặt giá
+
++ he bids 300d for the bicycle: anh ấy đặt giá cái xe đạp 300 đồng
+- (từ Mỹ,nghĩa Mỹ) thầu
+
++ the firm decided to bid on the new bridge: công ty ấy quyết định thầu làm cái cầu mới
+- mời chào
+
++ a bidden guest: người khách được mời đến
+
++ to bid someone good-bye (farewell): chào tạm biệt ai
+
++ to bid welcome: chào mừng
+- công bố
+
++ to bid the banns: công bố hôn nhân ở nhà thờ
+- xướng bài (bài brit)
+- (văn học),  (thơ ca); (từ cổ,nghĩa cổ) bảo, ra lệnh, truyền lệnh
+
++ bid him come in: bảo nó vào
+!to bid against (up, in)
+- trả hơn tiền; tăng giá
+!to bid fair
+- hứa hẹn; có triển vọng
+
++ our plan bids fair to succeed: kế hoạch của chúng nó có triển vọng thành công
+
+@bidder  
+*  dt
+- người trả giá
+
++ the highest bidder: người trả giá cao nhất
+- người mời
+- người xướng bài (bài brit)
+
+@bidding  
+*  dt
+- sự đặt giá
+- sự mời
+- xự xướng bài (bài brit)
+- mệnh lệnh
+!to do someone's bidding
+- tuân lệnh ai; vâng lệnh ai
+
+@bide  
+*  (bất qui tắc) ngdgt bode,  bided
+- to bide one's time đợi thời cơ
+
+@bidet
+* dt
+- chậu dùng để rửa bộ phận sinh dục và hậu môn
+ @bi-directional
+- (Tech) hai hướng, hai chiều
+ @bidirectional
+- (Tech) thuộc song hướng, thuộc hai hướng
+ @bidirectional
+- hai chiều, thuận nghịch
+ @Bid-rent function
+- (Econ) Hàm giá thầu thuê đất.
+: Mối quan hệ chỉ ra khoản tiền mà một gia đình hoặc hãng có thể trả để sử dụng một mảnh đất nhất định với các khoảng khác nhau so với trung tâm của một vùng đô thị trong khi vẫn duy trì mức không đổi ĐỘ THOẢ DỤNG hay LƠỊ NHUẬN.
+ @bidual
+- (Tech) song đối ngẫu
+ @bidual
+- song đối ngẫu
+ @biennial  
+*  tt
+- lâu hai năm
+- hai năm một lần
+*  dt
+- cây hai năm
+
+@biennial
+- hai năm một
+ @biennially
+* dt
+- hai năm một lần
+ @bieqiuvalence
+- song tương đương
+ @bier  
+*  dt
+- đòn đám ma; kiệu khiêng áo quan
+- (từ Mỹ,nghĩa Mỹ) quan tài
+
+@bifactorial
+- hai nhân tố
+ @bifecnode
+- song flecnôt
+ @biff  
+*  dt
+- (từ lóng) cú đấm mạnh
+*  ngdgt
+- (từ lóng) đấm mạnh
+
+@biffin  
+*  dt
+- táo đỏ (để nấu ăn)
+
+@bifid  
+*  tt
+- chẻ đôi
+
+@bifilar
+- (Tech) hai dây, dây chập đôi
+ @bifocal  
+*  tt
+- hai tròng (kính đeo mắt)
+
+@bifocals  
+*  (bất qui tắc) dt số nhiều
+- kính hai tròng
+
+@bifunctor
+- song hàm tử, hai tử hai ngôi
+ @bifurcate  
+*  tt
+- chia hai nhánh, rẽ đôi
+
+@bifurcate
+- tách đôi chia nhánh
+ @bifurcation  
+*  dgt
+- chia làm hai nhánh, rẽ đôi
+*  dt
+- sự chia làm hai nhánh, sự rẽ đôi
+- chỗ chia làm hai nhánh, chỗ rẽ đôi
+- nhánh rẽ (trong hai nhánh)
+
+@bifurcation
+- (Tech) chỗ rẽ; phân nhánh lưỡng kỳ
+@bifurcation
+- sự tách đôi, sự chia nhánh
+ @Bifurcation Hypothesis
+- (Econ) Giả thuyết lưỡng cực.
+: Giả thuyết cho rằng trong khi mức độ dồi dào và chi phí TÀI CHÍNH NGOẠI HỐI là yếu tố quyết định quan trọng tới đầu tư trong thời kỳ bùng nổ tăng trưởng, còn thu nhập giữ vai trò quan trọng nhất khi suy thoái.
+ @big  
+*  tt
+- to, lớn
+
++ a big tree: cây to
+
++ big repair: sửa chữa lớn
+
++ Big Three: ba nước lớn
+
++ Big Five: năm nước lớn
+- bụng to, có mang, có chửa
+
++ big with news: đầy tin, nhiều tin
+- quan trọng
+
++ a big man: nhân vật quan trọng
+- hào hiệp, phóng khoáng, rộng lượng
+
++ he has a big hear: anh ta là người hào hiệp
+- huênh hoang, khoác lác
+
++ big words: những lời nói huênh hoang khoác lác
+
++ big words: những lời nói huênh hoang
+!too big for one's boots (breeches, shoes, trousers)
+- (từ lóng) quá tự tin, tự phụ tự mãn; làm bộ làm tịch
+*  dt
+- ra vẻ quan trọng, với vẻ quan trọng
+
++ to look big: làm ra vẻ quan trọng
+- huênh hoang khoác lác
+
++ to talk big: nói huênh hoang, nói phách
+
+@Big bang
+- (Econ) Vụ đảo lộn lớn.
+: Một cụm thuật ngữ phổ biến dùng để miêu tả những thay đổi về các quy chế ở London- trung tâm tài chính của Anh vào tháng 10 @big bang
+* dt
+- (khoa học) vụ nổ tạo ra vũ trụ
+ @big blue
+- Tên lóng của công ty máy tính IBM
+- Loại máy tính lớn của công ty máy tính IBM
+ @big brother
+* dt
+- kẻ độc tài nhưng vẫn ra vẻ tử tế
+ @big bug  
+*  dt
+- (từ lóng) nhân vật quan trọng; quan to, vị tai to mặt lớn
+
+@big business
+* dt
+- việc kinh doanh có quy mô lớn
+ @big dipper
+* dt
+- đường sắt hẹp và quanh co (ở các hội chợ)
+ @big end
+* dt
+- cái cán của tay quay
+ @big game
+* dt
+- môn săn bắn những loại thú lớn
+ @big gun  
+*  dt
+- (quân sự) pháo
+- (như) big_bug
+
+@big head  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người làm bộ, người tự phụ, người hay vỗ ngực ta đây
+
+@big house  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nhà tù khổ sai
+
+@big noises  
+*  (bất qui tắc) dt số nhiều
+- tiếng to, tiếng ầm ầm
+- (từ lóng) (như) big_bug
+
+@Big push
+- (Econ) Cú đẩy mạnh.
+: Để một đóng góp vào cuộc tranh luận diễn ra vào thập kỷ 1950 và 1960 về việc tăng trưởng cân đối hay không cân đối là phù hợp nhất cho các nước đang phát triển.
+ @big shot  
+*  dt
+- (từ lóng) (như) big_bug
+
+@big stick  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) sự phô trương lực lượng
+
+@big top
+* dt
+- lều chính ở rạp xiếc
+ @big tree  
+*  dt
+- (thực vật học) (từ Mỹ,nghĩa Mỹ) (như) sequoia
+
+@big wheel
+* dt
+- trò chơi đu quay ở các khu vui chơi
+ @bigamist  
+*  dt
+- người có hai vợ, người có hai chồng
+
+@bigamous  
+*  tt
+- có hai vợ, có hai chồng
+
+@bigamously
+* dt
+- trong tình trạng song hôn
+ @bigamy  
+*  dt
+- sự lấy hai vợ, sự lấy hai chồng
+
+@bigenus
+- giống kép
+ @big-hearted
+* tt
+- rộng lượng, hào hiệp
+ @bight  
+*  dt
+- chỗ lõm vào, chỗ cong (ở bờ biển)
+- khúc uốn (con sông)
+- vịnh
+- vòng, thòng lọng (dây)
+
+@bigin
+- bắt đầu
+ @biginning
+- sự bắt đầu
+ @bigot  
+*  dt
+- người tin mù quáng
+
+@bigoted  
+*  tt
+- tin mù quáng
+
+@bigotry  
+*  dt
+- sự tin mù quáng
+
+@bigrade
+- song cấp
+ @bigwig  
+*  dt
+- nhân vật quan trọng, quan to
+
+@biharmonic
+- song điều hoà
+ @biholomorphic
+- song chỉnh hình
+ @bijection
+- song ánh
+ @bijou  
+*  (bất qui tắc) dt,  số nhiều bijoux
+- đồ nữ trang
+*  tt
+- nhỏ và đẹp, nhỏ xinh
+
++ a bijou villa: một biệt thự nhỏ xinh
+
+@bijoux  
+*  (bất qui tắc) dt,  số nhiều bijoux
+- đồ nữ trang
+*  tt
+- nhỏ và đẹp, nhỏ xinh
+
++ a bijou villa: một biệt thự nhỏ xinh
+
+@bike  
+*  dt
+- (thông tục) (viết tắt) của bicycle xe đạp
+*  ndgt
+- (thông tục) đi xe đạp
+
+@bikini
+* dt
+- áo tắm hai mảnh
+ @bilabial
+* dt
+- âm do hai môi nhập lại phát ra ((chẳng hạn b, m, p...))
+ @bilabiate  
+*  tt
+- (thực vật học) hai môi (hoa)
+
+@bilabong
+* dt
+- nhánh sông tạo nên chỗ nước đọng
+ @bilateral  
+*  tt
+- hai bên
+- tay đôi
+
+@bilateral
+- (Tech) hai chiều, hai bên, hai phía
+ @bilateral
+- hai bên, hai phía
+ @Bilateral assistance
+- (Econ) Trợ giúp song phương.
+: Sự trợ giúp hay viện trợ dựa trên một thoả thuận trực tiếp giữa hai nước; khác với viện trợ đa phương đến từ một nhóm các nước hay từ một tổ chức quốc tế. Xem FOREING AID, TIED AID.
+ @Bilateral monopoly
+- (Econ) Độc quyền song phương.
+: Thị trường trong đó một người mua đơn độc đối mặt với người bán đơn độc.
+ @Bilateral trade
+- (Econ) Mậu dịch song phương
+: Mậu dịch, thường là các chủ đề đàm phán chính phủ giữa hai nước, bằng cách đó một nước xuất khẩu một lượng hay giá trị hàng hoá nhất định sang các nước đối tác để đổi lấy một lượng hay giá trị hàng nhập khẩu đã thoả thuận từ nước đối tác.
+ @bilateralism
+* dt
+- (thương mại và <tchính>) nguyên tắc song phương
+ @bilaterally
+* dt
+- tay đôi, song phương
+ @bilberry   (blaeberry) @bilbo  
+*  dt,  số nhiều bilbos
+- (sử học) cái gươm
+
+@bilboes  
+*  (bất qui tắc) dt số nhiều
+- còng sắt, cùm sắt (để cùm tù nhân)
+
+@bile  
+*  dt
+- mặt
+- tính cáu gắt
+!to stir (rouse) someone's
+- chọc tức ai, làm ai phát cáu
+
+@bile-duct  
+*  dt
+- ống mật
+
+@bile-stone  
+*  dt
+- (y học) sỏi mật
+
+@bilevel resist
+- (Tech) lớp cản hai cấp
+ @bilge  
+*  dt
+- đáy tàu
+- nước bẩn ở đáy tàu
+- bụng (thùng rượu...)
+- (thông tục) chuyện nhảm nhí, chuyện bậy bạ
+*  ngdgt
+- làm thủng đáy (tàu thuyền)
+*  ndgt
+- phình ra, phồng ra
+
+@bilharzia
+* dt
+- bệnh do giun ở trong máu và bàng quang gây ra
+ @biliary  
+*  tt
+- (thuộc) mật
+
+@bilinear
+- song tuyến tính
+ @bilinear system
+- (Tech) hệ thống song tuyến [NB]
+ @bilingual
+* tt
+- sử dụng hai thứ tiếng, thông thạo hai thứ tiếng, Song ngữ
+* dt
+- người nói hai thứ tiếng
+ @bilious  
+*  tt
+- (thuộc) mật; có nhiều mật; mắc bệnh nhiều mật
+- hay gắt, bẳn tính, dễ cáu
+
+@biliously  
+*  dt
+- hay gắt, bẳn tính, dễ cáu
+
+@biliousness  
+*  dt
+- sự nhiều mật
+- tính hay gắt, tính dễ cáu
+
+@bilk  
+*  ngdgt
+- quịt, trốn (nợ)
+- lừa, lừa đảo, lừa gạt
+- trốn tránh (ai)
+
+@bilker  
+*  dt
+- người trốn nợ
+- người lừa đảo
+- người đi xe quịt
+- người trốn tránh
+
+@bill  
+*  dt
+- cái kéo liềm (để tỉa cành cây trên cao)
+- (sử học) cái kích (một thứ vũ khí)
+*  dt
+- mỏ (chim)
+- (hàng hải) đầu mũi neo
+- mũi biển hẹp
+*  ndgt
+- chụm mỏ vào nhau (chim bồ câu)
+!to bill and coo
+- (xem) coo
+*  dt
+- tờ quảng cáo; yết thị
+
++ stick no bills: cấm dán quảng cáo
+
++ a theatre bill: quảng cáo rạp hát
+- hoá đơn
+- luật dự thảo, dự luật
+
++ to pass a bill: thông qua đạo luật dự thảo
+
++ to reject a bill: bác bỏ đạo luật dự thảo
+- (từ Mỹ,nghĩa Mỹ) giấy bạc
+- (thương nghiệp) hối phiếu ((cũng) bill of exchange)
+- (pháp lý) sự thưa kiện; đơn kiện
+!bill of fare
+- thực đơn
+- chương trình
+!bill of health
+- (hàng hải) giấy kiểm dịch
+!bill of lading
+- (hàng hải) hoá đơn vận chuyển
+!butcher's bill
+- (từ lóng) danh sách người chết trong chiến tranh
+!to fill the bill
+- (từ Mỹ,nghĩa Mỹ) đáp ứng mọi yêu cầu, làm tất cả những gì cần thiết
+!to find [a] true bill
+- đưa ra xử
+!to foot (meet) the bill
+- thanh toán hoá đơn
+!to ignore the bill
+- không xử, bác đơn
+*  ngdgt
+- đăng lên quảng cáo; để vào chương trình
+
++ to be billed to appear: được quảng cáo sẽ ra mắt
+- dán quảng cáo, dán yết thị
+- (từ Mỹ,nghĩa Mỹ) làm hoá đơn
+- (từ Mỹ,nghĩa Mỹ) làm danh sách
+
+@Bill
+- (Econ) Hối phiếu.
+: Công cụ ngắn hạn dưới dạng lệnh trả yêu cầu người bị ký
+ @bill
+- (toán kinh tế) ngân phiếu; hoá đơn
+- b. of exchange ngân phiếu trao đổi 
+ @Bill broker
+- (Econ) Người môi giới hối phiếu.
+: Người chuyên chắp nối người mua và người bán hối phiếu lại với nhau để lấy tiền hoa hồng. Xem DISCUONT HOUSE.
+ @bill fee
+- (Tech) tính tiền
+ @Bill of exchange
+- (Econ) Hối phiếu đối ngoại.
+: Hối phiếu được rút để cấp tiền cho giao dịch ngoại thương.
+ @bill of exchange
+- hối phiếu
+ @bill of fare
+- (cũ) thực đơn
+ @bill of lading
+- vận đơn
+ @bill of materials
+- (Tech) danh mục vật liệu, phiếu vật tư
+ @bill of rights
+* dt
+- bản tuyên ngôn nhân quyền
+ @bill of sale
+* dt
+- văn bản ghi nhận việc mua bán tài sản tư nhân
+ @billboard  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) bảng dán thông cáo, bảng dán yết thị
+
+@billboard antenna
+- (Tech) ăngten bảng
+ @bill-broker  
+*  dt
+- người buôn hối phiếu
+
+@billet  
+*  dt
+- thanh củi
+- thanh sắt nhỏ
+- (kiến trúc) đường trang trí hình thanh củi
+*  dt
+- (quân sự) lệnh yêu cầu cung cấp cho bộ đội
+- chỗ trú quán; chỗ trú chân (của bộ đội)
+- (thông tục) công ăn việc làm
+!every bullet has its billet
+- phát đạn nào trúng đâu là do có số cả
+!to go into billets
+- (quân sự) trú quán ở nhà dân
+*  ngdgt
+- (quân sự) trú quân
+- cho (bộ đội) trú chắc, cho (bộ đội) ăn ở (ở đâu)
+
++ the soldiers were billeted on the villagers: bộ đội được ăn ở nhà dân
+
+@billet-doux
+* dt
+- thư tình
+ @billhook
+* dt
+- dụng cụ dùng để tỉa cây
+ @billiards  
+*  (bất qui tắc) dt số nhiều
+- trò chơi bi-a
+
++ to have a game at billiards: đánh bi-a
+
+@billiarsgate  
+*  (bất qui tắc) dt billiarsgate
+- chợ cá (ở Luân đôn)
+- lối nói hàng tôm hàng cá, lối nói thô tục
+
++ to talk billiarsgate: lối nói hàng tôm hàng cá; chửi rủa
+
+@billion  
+*  dt
+- (Anh,  Đức) nghìn tỉ
+- Pháp tỉ nghìn triệu
+
+@billion
+- (Tech) một tỷ, một ngàn triệu
+ @billion
+- một nghìn tỉ (10 12 ) (ở Anh), (10 9 ) (ở mỹ) 
+ @billionaire  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) nhà tỉ phú
+
+@billow  
+*  dt
+- sóng to; sóng cồn
+- (thơ ca) biển cả
+- (nghĩa bóng) sự dâng lên cuồn cuộn, sự cuồn cuộn
+*  ndgt
+- dâng lên cuồn cuộn, cuồn cuộn
+
+@billowy  
+*  tt
+- nổi sóng cồn, có nhiều sóng lớn
+
+@bill-poster   (bill-sticker) @Bills only
+- (Econ) Chỉ có nghiệp vụ hối phiếu.
+: Chủ thuyết thịnh hành ở Mỹ những năm 1950, cho rằng khi tham gia vào CÁC NGHIỆP VỤ THỊ TRƯỜNG MỞ, HỆ THỐNG DỰ TRỮ LIÊN BANG chỉ tiến hành các nghiệp vụ mua bán hối phiếu. Điều này dựa trên quan điểm  rằng bằng các tập trung vào thị trường vốn ngắn hạn, những nghiệp vụ này sẽ đạt được ảnh hưởng dự tính trước đối với khả năng chuyển hoán của ngân hàng với ít xáo trộn nhất đối với thị trường tài chính nói chung. Đồng thời những thay đổi diễn ra với lãi suất ngắn hạn sẽ ảnh hưởng đến các thị trường khác thông qua phương tiện thông thường của các điều chỉnh danh mục đầu tư của ngươi nước ngoài nắm giữ.
+ @bill-sticker   (bill-sticker) @billy  
+*  dt
+- (Uc) nồi niêu (đi) cắm trại (bằng sắt tây)
+
+@billyboy  
+*  dt
+- (hàng hải) thuyền buồm nhỏ
+
+@billy-club   (billy-jack) @billycock  
+*  dt
+- mũ quả đưa
+
+@billy-goat  
+*  dt
+- dê đực
+
+@billy-ho   (billy-ho) @billy-jack   (billy-jack) @billy-o   (billy-ho) @billy-oh
+* dt
+- chỉ dùng trong thành ngữ like billy-o
+ @bilobate   (bilobed) @bilobed   (bilobed) @bilocular  
+*  tt
+- có hai ngăn
+
+@bilologist  
+*  dt
+- nhà sinh vật học
+
+@biltong  
+*  dt
+- thịt khô thỏi (thái thành từng thỏi)
+
+@bilulous  
+*  tt
+- thấm nước, hút nước
+- nghiện rượu (người)
+
+@bimanal   (bimanous) @bimane  
+*  dt
+- động vật hai tay
+
+@bimanous   (bimanous) @bimetal  
+*  dt
+- lưỡng kim
+
+@bimetallic  
+*  tt
+- lưỡng kim
+
+@bimetallic
+- (Tech) lưỡng kim thuộc
+ @bimetallism  
+*  dt
+- chế độ hai bản vị (về tiền tệ)
+
+@bimetallist  
+*  dt
+- người tán thành chế độ hai bản vị (về tiền tệ)
+
+@bimodal
+- hai mốt
+ @bimodule
+- song môđun
+ @bimonthly  
+*  tt & dt
+- mỗi tháng hai lần
+- hai tháng một lần
+*  dt
+- tạo chí ra hai tháng một kỳ
+
+@BIMOS (bipolar  metal oxide semiconductor)
+- (Tech) BIMOS (chất bán dẫn ôxít kim loại lưỡng cực)
+ @BIMOS integrated circuit
+- (Tech) mạch tích hợp BIMOS
+ @bimotored  
+*  tt
+- có hai động cơ (máy bay...)
+
+@bin  
+*  dt
+- thùng
+- túi vải bạt (để hái hoa bia)
+- thùng đựng rượu, rượu thùng
+
+@bin
+- (Tech) máy thu nhận; hộc
+ @binariants
+- song biến thức
+ @binary  
+*  tt
+- đôi, nhị nguyên, nhị phân
+
++ binary measure: (âm nhạc) nhịp đôi
+
++ binary operation: (toán học) phép toán nhị phân
+
++ binary fraction: (toán học) phân số nhị phân
+
++ binary system: hệ nhị nguyên
+
+@binary
+- (Tech) đôi; thuộc nhị phân, cơ hai; thuộc nhị nguyên [TQ], thuộc nhị hạng [NB]; lưỡng thể
+ @binary
+- nhị nguyên, hai ngôi
+ @binary digit
+- (Tech) số tự nhị phân (0 hoặc 1)
+ @binary integer
+- (Tech) số nguyên nhị phân
+ @binary logic
+- (Tech) luận lý nhị phân
+ @binary star
+* dt
+- hai ngôi sao quay xung quanh một tâm
+ @Binary variable
+- (Econ) Biến nhị phân.
+: Một biến số chỉ có thể có 2 giá trị (ví dụ 0 và 1), thường sử dụng để xác định những ảnh hưởng mang tính định tính hay định lượng trong phân tích HỒI QUY. Xem DUMMY VARIABLE.
+ @binate  
+*  tt
+- thành đôi, thành cặp
+
+@binaural  
+*  tt
+- (thuộc) hai tai
+- dùng cho cả hai tai
+
+@binaural
+- (Tech) bằng hai tai
+ @binaural effect
+- (Tech) hiệu ứng nghe hai tai
+ @bind  
+*  (bất qui tắc) ngdgt bound 
+@bind
+- (Tech) liên kết, nối
+ @bind
+- buộc, liên kết
+ @binder  
+*  dt
+- người đóng sách
+- bộ phận buộc lúa (trong máy gặt)
+- dây, lạt, thừng, chão (để buộc, bó)
+- chất gắn
+- bìa rời (cho báo, tạp chí)
+
+@binder
+- (Tech) chất gắn; dây buộc; cuốn sổ
+ @bindery  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) hiệu đóng sách
+
+@binding  
+*  dt
+- sự liên kết, sự ghép lại, sự gắn lại, sự trói lại, sự buộc lại, sự bó lại
+- sự đóng sách
+- bìa sách
+- đường viền (quần áo)
+*  tt
+- bắt buộc, ràng buộc
+
++ to have binding force: có sức ràng buộc
+
++ this regulation is binding on everybody: điều lệ này bắt buộc mọi người phải theo
+- trói lại, buộc lại, làm dính lại với nhau
+
+@bindlestiff  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kẻ lang thang, ma cà bông
+
+@bindweed  
+*  dt
+- (thực vật học) giống cây bìm bìm
+
+@bine  
+*  dt
+- (thực vật học) chồi
+- thân (cây leo)
+
+@binge  
+*  dt
+- (từ lóng) cuộc chè chén say sưa
+
+@bingo
+* dt
+- một loại trò chơi cờ bạc
+ @binit
+- (Tech) cơ số hai; đơn vị nhị phân
+ @binnacle  
+*  dt
+- (hàng hải) hộp la bàn
+
+@binocular  
+*  tt
+- hai kính mắt
+
+@binocular
+- (Tech) bằng hai mắt
+ @binoculars  
+*  (bất qui tắc) dt số nhiều
+- ống nhòm
+
+@binodal
+- (thuộc) nút kép
+ @binode
+- nút kép
+- b. of surface nút kép của một mặt
+ @binomial
+- (Tech) nhị thức
+ @binomial
+- nhị thức
+ @binominal  
+*  tt & dt
+- (toán học) nhị thức
+
++ binominal coefficient: hệ số nhị thức
+*  tt
+- hai tên, tên kép
+
++ binominal system: (sinh vật học) hệ thống phân loại tên kép (theo tên giống và tên loài)
+
+@binormal
+- phó pháp tuyến
+ @bint  
+*  dt
+- (từ lóng) cô gái
+
+@biochemical  
+*  tt
+- (thuộc) hoá sinh
+
+@biochemist  
+*  dt
+- nhà hoá sinh
+
+@biochemistry  
+*  dt
+- hoá sinh
+
+@biochip
+- (Tech) chip sinh tính
+ @biocomputer
+- (Tech) máy điện toán sinh tính
+ @biodegradable
+* tt
+- có thể bị vi khuẩn làm cho thối rữa
+ @bioelectric
+- (Tech) thuộc điện sinh vật
+ @bioelectricity
+- (Tech) môn điện sinh vật
+ @bioelectronics
+- (Tech) môn điện tử sinh vật
+ @biogenesis   (biogeny) @biogenetic   (biogenetical) @biogenetical   (biogenetical) @biogeny   (biogeny) @biogeography
+* dt
+- ngành địa lý sinh vật
+ @biographer  
+*  dt
+- người viết tiểu sử
+
+@biographic   (biographical) @biographical   (biographical) @biographically
+- xem biographical
+ @biography  
+*  dt
+- tiểu sử; lý lịch
+
+@biologic   (biological) @biological   (biological) @biological control
+- sự diệt vật hại bằng phương pháp sinh học
+ @Biological interest rate
+- (Econ) Lãi suất sinh học.
+: Một giá trị cho lãi suất trong thuyết tăng trưởng, trong đó giữa tất cả đường TĂNG TRƯỞNG CÂN ĐỐI, thì TIÊU DÙNG theo đầu người cáo nhất đạt được và duy trì được bằng một đường trên đó năng suất vốn biên (bằng TỶ LỆ LỢI NHUẬN trong CẠNH TRANH HOÀN HẢO) bằng tỷ lệ tăng trưởng không đổi của lực lượng lao động được xác định bằng cách ngoại sinh. Xem GOLDEN RULE OF ACCUMULATION.
+ @biologically
+* dt
+- về mặt sinh học
+ @biologist
+* dt
+- nhà nghiên cứu về sinh vật học
+ @biology  
+*  dt
+- sinh vật học
+
+@bioluminescence
+* dt
+- sự phát quang sinh học
+ @bioluminescent
+* tt
+- phát quang sinh học
+ @biomaterial
+* dt
+- chất liệu làm những bộ phận nhân tạo trong cơ thể (gắn trực tiếp vào các mô sống)
+ @biomathematics
+* dt
+- toán sinh
+ @biomathematics
+- toán sinh vật học
+ @biome
+* dt
+- quần xã sinh vật
+ @biometric   (biometrical) @biometric
+- (thống kê) sinh trắc
+ @biometric
+- (thống kê) sinh trắc học
+ @biometrical   (biometrical) @biometrically
+- xem biometrics
+ @biometrician  
+*  dt
+- nhà sinh trắc học
+
+@biometrics   (biometrics) @biometry   (biometrics) @bionic
+* tt
+- có những bộ phận được điều khiển bằng điện tử
+* dt, pl
+- kỹ thuật sinh học
+ @bionics  
+*  dt
+- (sinh vật học) kỹ thuật
+
+@bionomics
+* dt
+- sinh thái học
+ @biophysical  
+*  tt
+- (thuộc) lý sinh
+
+@biophysically
+- xem biophysics
+ @biophysicist  
+*  dt
+- nhà lý sinh
+
+@biophysics  
+*  (bất qui tắc) dt,  số nhiều dùng như số ít
+- lý sinh
+
+@biopic
+* dt
+- phim về cuộc đời của một nhân vật có thật
+ @bioplasm  
+*  dt
+- (sinh vật học) sinh chất
+
+@biopsic
+- xem biopsy
+ @biopsy  
+*  dt
+- (y học) sinh thiết
+
+@biorhythm
+* dt
+- nhịp sinh học
+ @biorthogonal
+- song trực giao
+ @biorthogonalization
+- sự song trực giao hoá
+ @biorythm
+* dt
+- nhịp sinh học
+ @bios
+- hệ vào @bioscience
+* dt
+- sinh học
+ @bioscope
+* dt
+- rạp chiếu bóng ở Nam Phi
+ @biosensor
+- (Tech) đầu cảm thụ sinh vật
+ @biosphere
+* dt
+- sinh quyển
+ @biostatistics
+- thống kê sinh vật học
+ @biosynthesis
+* dt
+- số nhiều biosyntheses
+- sự sinh tổng hợp
+ @biota
+* dt
+- khu sinh vật, vùng sinh vật
+- (thực vật) cây trắc bách diệp
+ @biotechnical
+- xem biotechnology
+ @biotechnological
+- xem biotechnology
+ @biotechnology
+* dt
+- công nghệ sinh học
+ @biparental
+* tt
+- thuộc hai cha mẹ
+ @bipart
+- hai tầng
+ @bipartisan  
+*  tt
+- (thuộc) hai đảng
+
+@bipartisanism
+- xem bipartisan
+ @bipartisanship
+- xem bipartisan
+ @bipartite  
+*  tt
+- (thực vật học) chia đôi (lá)
+- (pháp lý) viết làm hai bản (văn kiện, giao kèo...)
+- tay đôi
+
+@bipartite
+- hai phần, hai nhánh
+ @bipartitely
+- xem bipartite
+ @bipartition  
+*  dt
+- sự chia đôi, sự phân đôi
+
+@biped  
+*  tt: (bipedal) 
+@bipedal  
+*  tt: (bipedal) 
+@biphase
+- (Tech) hai vị tướng
+ @biplane  
+*  dt
+- máy bay hai tầng cánh
+
+@bipod
+* dt
+- giá hai chân
+ @bipolar  
+*  tt
+- (điện học) hai cực, lưỡng cực
+
+@bipolar
+- (Tech) hai cực, song @bipolar
+- lưỡng cực
+ @bipolarity
+- xem bipolar
+ @biquadratic  
+*  tt
+- (toán học) trùng phương
+
++ biquadratic equation: phương trình trùng phương
+
+@biquadratic
+- (Tech) trùng phương
+ @biquadratic
+- trùng phương
+ @biquaternion
+- song qua - tenion
+ @biquinary
+- (Tech) cơ hai và năm
+ @biracial
+* tt
+- đại điện hoặc gồm hai chủng tộc (đặc biệt là trắng và đen)
+ @biramous
+* tt
+- chẻ đôi
+ @birational
+- song hữu tỷ
+ @birch  
+*  dt
+- giống cây cáng lò, giống cây bulô
+- gỗ bulô
+- cái roi (bằng cành bulô)
+*  ngdgt
+- quất bằng roi
+
+@birchbark
+* dt
+- (từ Mỹ) ca nô làm bằng vỏ cây bulô
+ @bird  
+*  dt
+- con chim
+- (thông tục) gã, thằng cha
+
++ a queer bird: thằng cha kỳ dị
+- (từ lóng) cô gái
+!a bird in the bush
+- điều mình không biết; điều không chắc chắn có
+!birds of a feather
+- những người giống tính nết nhau, những người cùng một giuộc
+!birds of a feather flock together
+- (tục ngữ) ngưu tầm ngưu, mã tầm mã
+!a bird in the hand
+- vật mình có chắc trong tay; điều mình chắc chắn
+!a bird in the hand is worth two in the bush
+- (tục ngữ) không nên thả mồi bắt bóng
+!bird of ill omen
+- người mang tin xấu
+- người không may, người gặp vận rủi
+!bird of passage
+- chim di trú; (nghĩa bóng) người nay đây mai đó
+!bird of peace
+- chim hoà bình, bồ câu
+!to get the bird
+- bị huýt sáo, bị la ó
+- bị đuổi đi
+!to give someone the bird
+- huýt sáo ai, la ó ai
+- đuổi ai, tống cổ ai đi
+!to kill two birds with one stone
+- một công đôi việc
+!little bird
+- người báo tin vô danh
+!old bird
+- (xem) old
+
+@bird of paradise
+* dt
+- chim seo cờ
+ @bird of passage
+* dt
+- người sống rày đây mai đó
+ @bird of prey
+* dt
+- chim săn mồi
+ @bird sanctuary
+* dt
+- khu bảo tồn chim
+ @bird-bath
+* dt
+- bể nước cho chim tắm
+ @birdbrained
+* tt
+- ngu xuẩn, ngốc nghếch
+ @bird-cage  
+*  dt
+- lông chim
+
+@bird-catcher  
+*  dt
+- người đánh bẫy chim, người bắc chim
+
+@bird-dog  
+*  dt
+- chó săn chim
+
+@bird-fancier  
+*  dt
+- người thích nuôi chim
+- người bán chim
+
+@birdie  
+*  dt
+- chim non
+
+@birding
+- xem bird
+ @bird-lime  
+*  dt
+- nhựa bẫy chim
+
+@birdman  
+*  dt
+- người nuôi chim
+- người nghiên cứu về chim
+- (thông tục) phi công, người lái máy bay
+
+@bird-nest  
+*  dt
+- tổ chim
+
+@birdseed
+* dt
+- hạt dùng cho chim ăn
+ @bird's-eye  
+*  dt
+- (thực vật học) cây anh thảo mắt chim
+
+@bird's-eye-view  
+*  dt
+- toàn cảnh nhìn từ trên xuống
+- bản tóm tắt
+
+@bird-shot  
+*  dt
+- đạn ghém (để bắn chim)
+
+@bird-song
+* dt
+- tiếng hót của chim
+ @birdsong
+* dt
+- tiếng hót của chim
+ @bird-table
+* dt
+- miếng ván đặt thức ăn cho chim
+ @bird-watch  
+*  ndgt
+- quan sát nhận dạng chim trời
+
+@bird-watcher  
+*  dt
+- người quan sát nhận dạng chim trời
+
+@bird-watching  
+*  dt
+- sự quan sát nhận dạng chim trời
+
+@birdwoman  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) nữ phi công, chị lái máy bay
+
+@birectangular
+- có hai góc vuông
+ @birefringent discriminator
+- (Tech) bộ phân biệt song chiết
+ @biregular
+- song chính quy
+ @biretta
+* dt
+- mũ màu đen của các giáo sự Thiên chúa giáo
+ @biro
+* dt
+- bút bi
+ @birse
+* dt
+- lông cứng hoặc một chùm lông cứng
+- sự tức giận
+ @birth  
+*  dt
+- sự sinh đẻ
+- sự ra đời; ngày thành lập
+
++ the birth of the emocratic Republic of Vietnam: ngày thành lập nước Việt nam dân chủ cộng hoà
+- dòng dõi
+
++ Chinese by birth: dòng dõi người Trung quốc
+!to give birth to
+- sinh ra
+
+@Birth rate
+- (Econ) Tỷ suất sinh
+: Được định nghĩa là số người sinh sống sót trung bình trên 1000 dân mỗi năm.
+ @birth-control  
+*  dt
+- phương pháp hạn chế sinh đẻ
+- sự sinh đẻ có kế hoạch
+
+@birthday  
+*  dt
+- ngày sinh; lễ sinh nhật
+
++ birthday present: quà tặng vào dịp ngày sinh
+!birthday suit
+-(đùa cợt) da (người)
+
+@birth-mark  
+*  dt
+- vết chàm, vết bớt
+
+@birth-place  
+*  dt
+- nơi sinh
+
+@birthplace
+* dt
+- nơi sinh; sinh quán
+ @birth-rate  
+*  dt
+- tỷ lệ sinh đẻ
+
+@birthright  
+*  dt
+- quyền lợi dòng nòi
+- quyền con trưởng
+
+@birthstone
+* dt
+- viên đá quý gắn một cách tượng trưng với tháng sinh
+ @birthwort
+* dt
+- cây dây leo
+ @bis  
+*  dt
+- lát nữa, lần thứ hai
+
+@BIS
+- (Econ) Ngân hàng thanh toán quốc tế
+: Xem BANK FOR INTERNATIONAL SETTLEMENTS
+ @biscuit  
+*  dt
+- bánh quy
+- (từ Mỹ,nghĩa Mỹ) bánh quy mặn (thường ăn nóng với bơ); bánh bơ tròn
+- đồ sứ mới nung lần thứ nhất (chưa tráng men)
+- màu bánh quy, màu nâu nhạt
+*  tt
+- màu bánh quy, nâu nhạt
+
+@biscuit
+- (Tech) bánh qui
+ @biscuit-throw  
+*  dt
+- (hàng hải) quãng ngắn
+
+@bise
+* dt
+- gió bắc hoặc đông bắc hanh khô
+ @bisecant
+- song cát tuyến
+ @bisect  
+*  ngdgt
+- chia đôi, cắt đôi
+
+@bisect
+- chia đôi
+ @bisection  
+*  dt
+- sự chia đôi, sự cắt đôi
+
+@bisection
+- sự chia đôi
+ @bisectional
+- xem bisect
+ @bisectionally
+- xem bisect
+ @bisector   (bisectrix) @bisector
+- phân giác
+- b. of an anglephân giác (của một góc)
+- external b. phân giác ngoài 
+- internal b. phân giác trong
+- perpendicular b. đường trung trực 
+ @bisectrices  
+*  (bất qui tắc) dt,  số nhiều bisectrices 
+@bisectrix  
+*  (bất qui tắc) dt,  số nhiều bisectrices 
+@bisectrix
+- phân giác
+ @biserial
+- hai chuỗi
+ @bisexual  
+*  tt
+- (sinh vật học) lưỡng tính
+
+@bisexuality
+* dt
+- sự lưỡng tính, tính cách lưỡng tính
+ @bisexually
+- xem bisexual
+ @bish
+* dt
+- (từ lóng) lỗi; khuyết điểm
+ @bishop   (exarch) @bishopric  
+*  dt
+- địa phận của giám mục
+- chức giám mục
+
+@bisk   (bisque) @bismuth  
+*  dt
+- (hoá học) bitmut
+
+@bismuthal
+- xem bismuth
+ @bismutite
+* dt
+- (khoáng chất) bitmutit
+ @bison  
+*  dt
+- bò rừng bizon
+
+@bisontine
+* tt
+- thuộc bò rừng bizon
+ @bisque  
+*  dt
+- sứ không tráng men
+- (như) bisk
+
+@bissextile  
+*  dt
+- năm nhuận
+
+@bistable
+- (Tech) trạng thái song ổn, ổn kép
+ @bistable
+- song ổn định
+ @bistable device
+- (Tech) bộ song ổn thái
+ @bistatic scattering
+- (Tech) tán xạ song phân [ĐL], tán xạ do hai vị trí (ăngten radda)
+ @bistort  
+*  dt
+- (thực vật học) cây quyền sâm
+
+@bistoury  
+*  dt
+- (y học) dao mổ
+
+@bistre  
+*  dt
+- màu nâu sẫm
+*  tt
+- nâu sẫm
+
+@bistro  
+*  dt
+- quán rượu nhỏ
+- tiệm nhảy nhỏ, hộp đêm
+
+@bisulfate  
+*  dt
+- (hoá học) sunfat-axit
+
+@bisymmetric
+- song đối xứng
+ @bit  
+*  dt
+- miếng (thức ăn...); mảnh mẫu
+
++ a dainty bit: một miếng ngon
+
++ a bit of wood: một mẫu gỗ
+
++ a bit of string: một mẫu dây
+
++ to smash to bits: đập tan ra từng mảnh
+- một chút, một tí
+
++ wait a bit: đợi một tí, đợi một chút
+
++ he is a of a coward: hắn ta hơi nhát gan một chút
+- đoạn ngắn (của một vai kịch nói, trong sách...)
+- (một) góc phong cảnh (thực hoặc vẽ)
+- đồng tiền
+
++ a threepeny bit: đồng ba xu (Anh)
+!bits and pieces
+- đồ tạp nhạp
+!bit by bit
+- dần dần; từ từ
+!a bit long in the tooth
+- không còn là trẻ con nữa, lớn rồi
+!bits of children
+- những em bé tội nghiệp
+!bits of furniture
+- đồ đạc lắt nhắt tồi tàn
+!to do one's bit
+- làm tròn bổn phận mình; đóng góp phần mình (vào việc nghĩa...)
+!to get a bit on
+- (thông tục) ngà ngà say
+!to give someone a bit of one's mind
+- (xem) mind
+!not a bit
+- không một tí nào
+
++ I am not a bit tired: tôi không mệt một tí nào
+*  dt
+- mũi khoan; đầu mỏ hàn; mũi kim; mỏ chìa khoá
+- hàm thiếc ngựa
+- (nghĩa bóng) sự kiềm chế
+!to draw the bit
+- (xem) draw
+!to take the bit between one's teeth
+- chạy lồng lên (ngựa)
+- nổi cơn tam bành; không tự kiềm chế được
+*  ngdgt
+- đặt hàm thiếc (cho ngựa); làm cho (ngựa) quen hàm thiếc
+- (nghĩa bóng) kiềm chế, nén, hãm lại, kìm lại
+*  thời quá khứ & động tt quá khứ của bite
+
+@bit
+- (Tech) bit (đơn vị thông tin; đơn vị dung lượng ký ức); số nhị phân 
++  binary digit
+ @bit
+- bit (đơn vị thông tin) số nhị phân
+ @bit manipulation
+- (Tech) thao tác bit
+ @bit part
+- vai thứ yếu, vai phụ
+ @bitable
+- xem bite
+ @bitangent
+- lưỡng tiếp (tiếp xúc tại hai điểm)
+ @bit-by-bit
+- (Tech) bit theo bit
+ @bit-by-bit transfer
+- (Tech) truyền bit theo bit
+ @bitch  
+*  dt
+- con chó sói cái, con chồn cái ((thường) bitch wolf; bitch fox)
+- khuốm chyến yêu luộng con mụ lẳng lơ dâm đảng; con mụ phản trắc
+!son of a bitch
+- (từ Mỹ,nghĩa Mỹ), nuôi) chó đẻ
+
+@bitchily
+- xem bitchy
+ @bitchiness
+* dt
+- ý xấu, ác ý
+ @bitchy
+* tt
+- có ác ý
+ @bite  
+*  dt
+- sự cắn, sự ngoạm; miếng cắn; vết cắn
+- sự châm, sự đốt; nốt đốt (muỗi, ong...)
+- miếng (thức ăn); thức ăn
+
++ a bite of food: một miếng ăn
+
++ without bite and sup: không cơm nước gì cả
+- sự đau nhức, sự nhức nhối của vết thương
+- sự cắn câu (cá...)
+- sự bám chắt, sự ăn sâu (mỏ neo, phanh, đinh ốc...)
+- vị cay tê (gừng, hạt tiêu...)
+- (nghĩa bóng) sự châm biếm, sự chua cay (lời nói)
+- cỏ cho vật nuôi
+*  (bất qui tắc) dgt bit; bitten 
+@biteable
+- xem bite
+ @biter  
+*  dt
+- người cắn, vật cắn
+!the biter bit
+- bợm già mắc bẫy cò ke
+
+@bitewing
+* dt
+- phim chụp tia X chân răng cả hàm trên hàm dưới
+ @bitiminize   (bitiminise) @biting  
+*  tt
+- làm cho đau đớn, làm buốt, làm nhức nhối; chua cay, đay nghiến
+
++ a biting wind: gió buốt
+
++ biting words: những lời nói làm cho người ta đau đớn, những lời đay nghiến, những lời chua cay
+
+@bitingly
+- xem biting
+ @bitmap
+- (Tech) hình chấm, bản đồ tổng hợp bit
+ @bitmap display
+- (Tech) biểu thị bằng hình chấm @bitmap font
+- (Tech) dạng chữ chấm (vuông)
+ @bitnet
+- Tên mạng toàn cục liên kết các trường cao đẳng và đại học ở Mỹ, Canada, châu Âu
+ @bitsy
+* tt
+- nhỏ xíu (itsy-bitsy)
+ @bitt
+* dt
+- cọc trên sàn tàu để đỡ dây cáp
+* ngdgt
+- cuốn dây cáp quanh cọc trên sàn tàu
+ @bitten
+???
+
+ @bitter  
+*  tt & dt
+- đắng
+- cay đắng, chua xót, đau đớn; đau khổ, thảm thiết
+
++ bitter disappointment: sự thất vọng cay đắng
+
++ bitter tears: những giọt nước mắt đau khổ
+- chua cay, gay gắt; ác liệt, quyết liệt
+
++ bitter sarcasm: lời chế nhạo chua cay
+
++ bitter remark: lời phê bình gay gắt
+
++ bitter fighting: sự đánh nhau ác liệt
+- rét buốt (thời tiết, gió...)
+
++ bitter wind: gió rét buốt
+!bitter as gall (worm wood, aloes)
+- đắng như mật, đắng như bồ bòn
+!a bitter pill to swallow
+- viên thuốc đắng phải uống
+- điều đắng cay (điều tủi nhục) phải chịu đựng
+!to the bitte rend
+- cho đến cùng
+*  dt
+- vị đắng
+- nỗi đắng cay
+
++ the bitters of life: những nỗi đắng cay của cuộc đời
+
++ to take the bitter with the sweet: phải chịu những nỗi đắng cay cùng với những sự ngọt bùi ở đời
+- (sinh vật học) rượu bia đắng ((cũng) bitter beer) rượu thuốc apxin
+
+@bitter-cress
+* dt
+- một loại cải bắp
+ @bitterish
+* tt
+- hơi đắng
+ @bitterling
+* dt
+- một loại cá nước ngọt (giống (như) cá chép)
+ @bitterly  
+*  dt
+- (như) bitter
+
+@bittern  
+*  dt
+- (động vật học) con vạc
+
+@bitterness  
+*  dt
+- vị đắng
+- sự cay đắng, sự chua xót; sự đau đớn, sự đau khổ
+- sự chua cay, sự gay gắt (của lời nói); tính ác liệt
+- sự rét buốt (gió...)
+
+@bitter-sweet  
+*  tt
+- vừa ngọt, vừa đắng ((nghĩa đen) & (nghĩa bóng))
+*  dt
+- dư vị vừa ngọt, vừa đắng ((nghĩa đen) & (nghĩa bóng))
+
+@bittersweet
+* dt
+- một cái gì vừa ngọt vừa đắng; sung sướng lẫn với đau đớn
+- cây cà dược (có hoa tím)
+* tt
+- có vị vừa đắng vừa ngọt
+
++  bittersweet chocolate:sôcôla có vị vừa đắng vừa ngọt
+- vui nhuốm với buồn hoặc hối tiếc; buồn vui lẫn lộn
+
++  bittersweet experiences kỷ niệm vui buồn
+@bittock  
+*  dt
+- (Ê-cốt) tí chút, mẫu nhỏ
+
+@bitts  
+*  (bất qui tắc) dt số nhiều
+- (hàng hải) cọc buộc dây cáp
+
+@bitumen  
+*  dt
+- nhựa rải đường bitum
+
+@bituminise
+???
+
+ @bituminization
+- xem bituminize
+ @bituminize
+* ngdgt
+- rải nhựa đường, quét bitum
+- biến thành bitumum
+ @bituminoid
+- xem bitumen
+ @bituminous  
+*  tt
+- có nhựa rải đường, có bitum
+
+@bitwise
+- (Tech) phân theo bit
+ @biunique
+- một đối một
+ @bivalence
+* dthư divalence
+- như divalence
+ @bivalency
+- xem bivalent
+ @bivalent  
+*  tt
+- (hoá học) có hoá trị hai
+
+@bivalve  
+*  tt
+- (sinh vật học) hai mảnh vỏ
+- hai van
+*  dt
+- (sinh vật học) động vật hai mảnh vỏ
+
+@bivalved
+- xem bivalve
+ @bivariate
+* tt
+- (thống kê) có hai biến số
+ @bivariate
+- (thống kê) hai chiều
+ @Bivariate analysis
+- (Econ) Phân tích hai biến số
+: Phân tích chỉ liên quan đến hai biến số
+ @bivector
+- song vectơ
+ @bivoltine
+* tt
+- đẻ trứng hoặc sinh đẻ hai lần một năm
+ @bivouac  
+*  dt
+- (quân sự) trại quân đóng ngoài trời buổi tối
+*  ndgt
+- (quân sự) đóng trại buổi tối ở ngoài trời
+
+@bivvy
+* dt
+- (thông tục) rút gọn của bivouac
+ @biweekly  
+*  tt & dt
+- một tuần hai lần
+- hai tuần một lần
+*  dt
+- tạp chí (báo...) ra hai tuần một kỳ
+
+@bix
+- Tên một dịch vụ máy tính trực tuyến hoàn chỉnh, sở hữu của công ty mẹ Delphi, nhưng hoạt động như là một cơ sở độc lập
+ @biyearly
+* tt,  adv
+- hai năm một lần
+- hai lần một năm
+ @biz  
+*  dt
+- (thông tục) (như) business
+
+@bizarre  
+*  tt
+- kỳ quái, kỳ lạ, kỳ dị
+
+@bizarrely
+- xem bizarre
+ @bizarreness
+- xem bizarre
+ @bizonal
+* tt
+- tình trạng một vùng có hai chính quyền cùng hoạt động
+ @

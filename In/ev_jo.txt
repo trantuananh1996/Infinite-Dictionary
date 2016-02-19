@@ -1,0 +1,936 @@
+@jo
+* dt; số nhiều joes
+- người yêu, người tình
+ @joanna
+* dt
+- (từ lóng) đàn pia-nô
+ @job  
+*  dt
+- việc, việc làm, công việc; việc làm thuê, việc làm khoán
+
++ to make a goof job of it: làm tốt một công việc gì
+
++ to make a bad job of it: làm hỏng một công việc gì
+
++ to work by the job: làm khoán
+
++ old jobs: công việc vặt
+- (thông tục) công ăn việc làm
+
++ in search of a job: đi tìm công ăn việc làm
+
++ out of job: thất nghiệp
+
++ to lose one's job: mất công ăn việc làm
+- việc làm ăn gian lận để kiếm chác
+- việc, sự việc, sự thể; tình hình công việc
+
++ bad job: việc hỏng toi, việc mất công toi; tình hình công việc xấu
+
++ good job: tình hình công việc làm ăn tốt
+- cú thúc nhẹ, cú đâm nhẹ (bằng cái gì nhọn)
+- cú ghì giật hàm thiếc (làm đau mồn ngựa)
+!job of work
+- việc làm ăn khó khăn vất vả
+!to do somebody's job; to do the job for somebody
+- làm hại ai, gây tai hại cho ai
+!to give something up as a bad job
+- từ chối không làm việc gì
+!job lot
+- lô hàng mua trữ để đầu cơ
+- (từ Mỹ,nghĩa Mỹ) mớ tạp nhạp; bọn người tạp nhạp
+!to lie down on the job
+- làm đại khái, làm qua loa, làm ăn chểnh mảng
+!on the job
+- (từ lóng) đang làm, đang hoạt động
+- bận rộn
+!to put up a job on somebody
+- (từ Mỹ,nghĩa Mỹ) chơi xỏ ai một vố
+*  ndgt
+- làm những việc lặt vặt, làm những việc linh tinh; (thông tục) sửa chữa lặt vặt
+- đầu cơ
+- làm môi giới chạy hành xách
+- xoay sở kiếm chác; dở ngon gian lận để kiếm chác
+- buôn bán cổ phần (chứng khoán)
+- (job at) đâm, thúc
+*  ngdgt
+- thuê (ngựa, xe...); cho thuê (ngựa, xe...)
+- cho làm khoán; nhận làm khoán (một công việc)
+- mua bán đầu cơ (hàng)
+- lợi dụng (chức vụ...) để xoay sở kiếm chác
+- thúc nhẹ, đâm nhẹ (bằng cái gì nhọn)
+- ghì giật hàm thiếc làm đau mồm (ngựa)
+*  ndgt
+- (: at) đâm, thúc[dʤoub]
+*  dt (Job)
+- (kinh thánh) Giốp
+- người chịu đựng đau khổ nhiều; người kiên nhẫn chịu đựng
+!Job's comforter
+- người làm ra bộ an ủi nhưng chỉ cốt gây thêm đau khổ
+!Job's news
+- tin buồn
+!this would try the patience of Job
+- làm thế thì không ai có thể chịu đựng được; làm thế thì đến bụt cũng phải tức
+
+@Job acceptance schedule
+- (Econ) Biểu đồ số người chấp nhận công việc.
+ @Job cluster
+- (Econ) Nhóm nghề.
+: Một nhóm ổn định các nghề nghiệp hay công việc nằm trong một thị trường lao động nội bộ liên kết chặt chẽ với nhau đến mức chúng có cùng các đặc điểm quy định về lương bổng.
+ @Job competition theory
+- (Econ) Thuyết về cạnh tranh việc làm.
+: Một ý định thay thế cạnh tranh lương bổng chính thống mà trong đó công nhân cạnh tranh với nhau để giành lấy việc làm bằng việc thay đổi  mức lương mà họ sẵn sàng làm việc.
+ @Job creation
+- (Econ) Tạo việc làm.
+: Hành động được hiểu theo nghĩa rộng nhất là giảm số người thất nghiệp trong thời kỳ suy thoái, hoặc bằng cách giảm tốc độ người bị sa thải do dư thừa hoặc bằng cách tăng tốc độ người thất nghiệp tìm kiếm được việc làm.
+ @job creation
+* dt
+- sự tạo ra công ăn việc làm
+ @job description
+* dt
+- sự mô tả chi tiết về công việc
+ @Job dublication
+- (Econ) Việc làm kép.
+: Điều này diễn ra khi một cá nhân đồng thời có hơn một việc làm và do vậy không phụ thuộc vào một nguồn thu nhập duy nhất.
+ @Job evaluation
+- (Econ) Đánh giá việc làm.
+: Một quá trình mà trong đó các yếu tố khác nhau của một việc làm làm như kỹ năng, kiến thức tích luỹ, trách nhiệm và các điều kiện làm việc - được đánh giá, cho điểm và đưa ra một điểm chung cho việc làm đó.
+ @job lot
+* dt
+- hàng bán để thanh lý, hàng bán lạc son
+ @job printer  
+*  dt
+- thợ in những thứ lặt vặt
+
+@job printing  
+*  dt
+- nghề in những thứ lặt vặt
+
+@job satisfaction
+* dt
+- sự hài lòng về công ăn việc làm
+ @Job search
+- (Econ) Tìm kiếm việc làm.
+: Là quá trình thu thập thông tin về những cơ hội việc làm và mức lương của mỗi cơ hội cơ hội việc làm đó trong thị trường lao động.
+ @Job search channels
+- (Econ) Các kênh tìm việc.
+: Các phương pháp tìm việc hoặc nhận việc làm được phân loại thành chính quy và không chính quy.
+ @job sharing
+* dt
+- sự chia xẻ công việc cho nhiều người cùng làm, thay vì một người làm hết
+ @Job shopping
+- (Econ) Chọn việc làm.
+: Một xu hướng trong giới công nhân trẻ, và đặc biệt trong số những người vị thành niên tìm kiếm việc làm thích hợp trên cơ sở thử nghiệm.
+ @jobation  
+*  dt
+- lời quở trách lải nhải, lời mắng nhiếc lải nhải
+
+@jobber  
+*  dt
+- người làm thuê việc lặt vặt; người làm khoán
+- kẻ đầu cơ
+- người môi giới chạy hàng xách
+- người buôn bán cổ phần (chứng khoán)
+- (từ Mỹ,nghĩa Mỹ) người bán buôn
+- người cho thuê ngựa, người cho thuê xe
+- kẻ lợi dụng chức vụ để xoay sở kiếm chác
+
+@Jobber
+- (Econ) Người buôn bán chứng khoán.
+: Thuật ngữ trước khi có khái niệm vụ nổ lớn vào năm 1986, chỉ một nhà lập thị trường tại sở chứng khoán London.
+ @jobbernowl  
+*  dt
+- (thông tục) người ngớ ngẩn, người xuẩn ngốc
+
+@jobbery  
+*  dt
+- sự đầu cơ
+- sự buôn bán cổ phần (chứng khoán)
+- sự xoay sở kiếm chác; sự lợi dụng chức vụ để xoay sở kiếm chác
+
+@jobbing
+* tt
+- làm việc vặt, làm việc linh tinh
+ @jobcentre
+* dt
+- trung tâm giới thiệu việc làm
+ @jobholder  
+*  dt
+- người có công việc làm ăn chắc chắn
+- (từ Mỹ,nghĩa Mỹ) công chức, viên chức
+
+@jobless  
+*  tt
+- không có việc làm; không có công ăn việc làm
+
+@joblessness
+* dt
+- tình trạng không có việc làm, tình trạng thất nghiệp
+ @jobmaster  
+*  dt
+- người cho thuê ngựa; người cho thuê xe ngựa
+
+@job-seeker
+* dt
+- người đi tìm công ăn việc làm; người tìm việc
+ @job-work  
+*  dt
+- việc làm khoán
+
+@jock  
+*  dt
+- (từ lóng) lính Ê-cốt
+- (thông tục) (như) jockey
+
+@jockette
+* dt
+- (khinh miệt) người cưỡi ngựa đua nữ
+ @jockey  
+*  dt
+- người cưỡi ngựa đua, dô kề
+!Jockey Club
+- hội đua ngựa (ở Anh, nắm các cuộc đua ngựa)
+- người hầu, người dưới
+*  dgt
+- cưỡi ngựa đua, làm dô kề
+- lừa bịp, lừa phỉnh, dùng mánh khoé để dành thắng lợi
+
++ to jockey someone out of something: lừa bịp ai lấy cái gì
+
++ to jockey someone into doing something: lừa phỉnh ai làm gì
+
++ to jockey for position: dùng mẹo khôn khéo để giành ưu thế (trong cuộc đua thuyền...); giành lấy lợi về mình một cách không chính đáng
+
+@jockeyship
+* dt
+- thuật cưỡi ngựa
+ @jocko  
+*  dt
+- (động vật học) con tinh tinh
+
+@jockstrap  
+*  dt
+- khố đeo (âm nang) (của các vận động viên thể dục thể thao)
+
+@jocose  
+*  tt
+- đùa bỡn, vui đùa; hài hước, khôi hài
+
+@jocosely
+* dt
+- vui nhộn, khôi hài
+ @jocoseness   (jocosity) @jocosity   (jocosity) @jocular  
+*  tt
+- vui vẻ, vui đùa; hài hước, buồn cười
+
+@jocularity  
+*  tt
+- sự vui vẻ, sự vui đùa
+- thái độ hài hước, hành động hài hước; lời nói hài hước vui đùa, lời nói đùa
+
+@jocularly
+* dt
+- đùa cợt, bông đùa
+ @jocund  
+*  tt
+- vui vẻ, vui tươi
+- vui tính
+
+@jocundity  
+*  dt
+- tâm trạng vui vẻ, tâm trạng vui tươi
+- sự vui tính
+
+@jocundly
+- xem jocund
+ @jodhpurs  
+*  dt (Anh-Ỡn)
+- quần đi ngựa (bóp ống từ đầu gối đến mắt cá chân)
+
+@joe  
+*  dt
+- not for joe! tớ thì thôi!; thôi đừng cho tớ!
+- ((từ Mỹ,nghĩa Mỹ),  (quân sự),  (từ lóng)) người lính ((cũng) Joe Blow)
+
+@joe miller  
+*  dt
+- câu pha trò nhảm, câu pha trò cũ rích
+
+@joey  
+*  dt
+- con canguru con
+- con thú con
+
+@jog  
+*  dt
+- cái lắc nhẹ, cái xóc nhẹ; cái đẩy nhẹ
+- cái hích nhẹ (bằng cùi tay)
+- bước đi chậm chạp
+- nước kiệu chậm (ngựa)
+*  ngdgt
+- lắc nhẹ, xóc nhẹ; đẩy nhẹ
+- hích bằng cùi tay (để cho chú ý...)
+- nhắc lại, gợi lại (trí nhớ)
+
++ to jog someone's memory: nhắc cho người nào nhớ lại
+*  ndgt
+- đi lắc lư
+- (jog on,  along) bước đi khó khăn, bước đi thong thả
+- tiến hành, tiến triển, tiếp tục
+
++ matters jog along: sự việc vẫn cứ tiến triển
+- chạy nước kiệu chậm (ngựa)
+- đi, lên đường
+
++ we must be jogging: chúng ta phải đi thôi
+
+@jogger
+* dt
+- người luyện tập thân thể bằng cách chạy bộ
+ @jogging
+* dt
+- sự luyện tập thân thể bằng cách chạy bộ
+ @joggle  
+*  dt
+- cái xóc xóc nhẹ, cái lắc lắc nhẹ
+- vấu nối, gờ nối (hai phiến đá, hai thanh gỗ)
+*  ngdgt
+- xóc xóc nhẹ, lắc lắc nhẹ
+- nối bằng vấu nối
+*  ndgt
+- chạy lắc lắc nhẹ; chạy xóc nảy lên
+
+@joggler
+* dt
+- người chạy hoặc đi chầm chậm; người chạy chầm chậm để luyện tập
+- máy sắp giấy
+ @jogtrot  
+*  dt
+- bước đi lắc lư chầm chậm
+- nước kiệu chậm (ngựa)
+- (nghĩa bóng) sự tiến triển đều đều
+- (định ngữ) đều đều, buồn tẻ
+
++ a jogtrot life: cuộc sống đều đều, buồn tẻ
+
+@johannes
+* dt; số nhiều johannes
+- đồng tiền vàng Bồ đào nha thế kỷ 18 và 19
+ @john
+* dt
+- nhà vệ sinh
+ @john bull  
+*  dt
+- Giôn Bun (người Anh điển hình; nước Anh nhân cách hoá)
+
+@john dory  
+*  dt
+- (động vật học) cá dây
+
+@johnny  
+*  dt
+- anh chàng, gã, thằng cha
+- anh chàng ăn diện vô công rỗi nghề
+
+@johnny-cake  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) bánh ngô
+- Uc bánh bột mì
+
+@johnny-come-lately
+* dt; số nhiều johnny-come-latelies,  johnnies-come-lately
+- sự mới tới; người mới tới
+ @johnny-on-the-spot  
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cần đến là có mặt ngay (người)
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người cần đến là có mặt ngay
+
+@Johnson, Harry Gordon
+- (Econ) (1923-77)
+: Là nhà kinh tế học người Canada được bổ nhiệm là chủ nhiệm công trình về thuyết kinh tế tại Manchester năm 1956. Ônh dạy học tại Chicago, Trường Kinh tế London và Geneva. Ông là biên tập viên của nhiều thời báo khác nhau như Thời báo kinh tế, Tạp san Kinh tế chính trị và Kinh tế học quốc tế. Các tác phẩm nổi tiếng của ông bao gồm Thương mại quốc tế và tăng trưởng kinh tế, Những nghiên cứu về lý luận thuần tuý (1958), các tiểu luận tiếp theo về kinh tế học tiền tệ (1972), Kinh tế học và Xã hội (1975). Là thành viên của TRƯỜNG PHAÍ CHICAGO, ngoài những đóng góp ban đầu vào lĩnh vực cán cân thanh toán, thuế quan và thanh toán cho các yếu tố sản xuất, ông đã tổng hợp nhiều tác phẩm đương thời về kinh tế học quốc tế và kinh tế học tiền tệ quốc tế.
+ @johnsonese
+* dt
+- lối văn đăng đối
+ @joie de vivre  
+*  dt
+- niềm vui sống
+
+@join  
+*  ngdgt
+- nối lại, chắp, ghép, buộc (cái nọ vào cái kia)
+- nối liền
+
++ the road joins the two cities: con đường nối liền hai thành phố
+- thắt chặt, hợp nhất, kết hợp, liên hiệp; kết giao, kết thân
+
++ to join forces with: hợp lực với
+
++ to join two persons in marriage: kết thân hai người trong mối tình vợ chồng
+- gia nhập, nhập vào, vào
+
++ to join a party: gia nhập một đảng
+
++ to join the army: vào quân đội, nhập ngũ
+- tiếp với, gặp; đổ vào (con sông)
+
++ where the foot-path joins the main road: ở nơi mà con đường nhỏ nối với con đường cái
+
++ where the Luoc river joins the Red river: ở nơi mà sông Luộc đổ vào sông Hồng
+- đi theo, đến với, đến gặp; cùng tham gia
+
++ I'll join you in a few minutes: độ vài phút nữa tôi sẽ đến với anh
+
++ would you join us in our picnic?: anh có muốn tham gia cuộc đi chơi ngoài trời với chúng tôi không?
+- trở về, trở lại
+
++ to join the regiment: trở lại trung đoàn (sau ngày nghỉ phép...)
+
++ to join the ship: trở về tàu
+*  ndgt
+- nối lại với nhau, thắt chặt lại với nhau, kết hợp lại với nhau; liên hiệp với nhau, kết thân với nhau
+- gặp nhau, nối tiếp nhau
+
++ parallet lines never join: hai đường song song không bao giờ gặp nhau
+
++ where the two rivers join: ở nơi mà hai con sông gặp nhau
+- tham gia, tham dự, nhập vào, xen vào
+
++ to join in the conversation: tham gia vào câu chuyện
+- (từ cổ,nghĩa cổ) giáp với nhau, tiếp giáp với nhau
+
++ the two gardens join: hai khu vườn tiếp giáp với nhau
+- (quân sự) nhập ngũ ((cũng) join up)
+!to join battle
+- bắt đầu giao chiến
+!to join hands
+- nắm chặt tay nhau, bắt chặt tay nhau
+- (nghĩa bóng) phối hợp chặt chẽ với nhau; câu kết chặt chẽ với nhau (để làm gì)
+*  dt
+- chỗ nối, điểm nối, đường nối
+
+@join
+- hợp nối
+- direct j. (đại số) hợp trực tiếp 
+- reduced j. (tô pô) hợp rút gọn 
+ @joinder  
+*  dt
+- (pháp lý) sự liên hợp, sự liên kết (giữa các người thuộc bên bị trong một vụ kiện)
+
+@joiner  
+*  dt
+- thợ làm đồ gỗ (chuyên đóng đồ gỗ dùng trong nhà)
+- (từ Mỹ,nghĩa Mỹ) hội viên nhiều câu lạc bộ; người có chân trong nhiều tổ chức
+
+@joinery  
+*  dt
+- nghề làm đồ gỗ (dùng trong nhà)
+- đồ gỗ (bàn, ghế, tủ...)
+
+@joining
+* dt
+- sự nối; chỗ nối
+ @joint  
+*  dt
+- chỗ nối, mối nối, đầu nối
+- (giải phẫu) khớp (xương)
+
++ out of joint: trật khớp, sai khớp; (nghĩa bóng) trục trặc, không ăn khớp, lộn bậy lung tung
+- (thực vật học) mấu, đốt
+- (địa lý,ddịa chất) khe nứt, thớ nứt (ở khối đá...)
+- súc thịt (pha ra)
+- (kỹ thuật) mối hàn, mối nối, mối ghép; khớp nối, bản lề
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ổ lưu manh, ổ gái điếm lén lút, tiệm lén hút; hắc điếm
+!to put someone's nese out of joint
+- (xem) nose
+*  tt
+- chung (giữa hai hay nhiều người)
+
++ joint efforts: cố gắng chung (của hai hay nhiều người)
+
++ a joint communiqué: thông cáo chung
+
++ during their joint lives: (pháp lý) trong khi cả hai người (tất cả) đều còn sống
+*  ngdgt
+- nối lại bằng đoạn nối, ghép lại bằng đoạn nối
+- cắt tại những đoạn nối; chia ra từng đoạn
+- trát vữa vào khe nối của (tường...)
+- bào cạnh (tấm ván) để ghép
+
+@joint
+- chỗ nối; bản lề   hợp lại, nối lại
+- pin j. chỗ nối bản lề, ghép có ghim
+- universal j. bản lề tổng hợp, khớp Cácđăng 
+@Joint probability distributions
+- (Econ) Các phân phối xác suất kết hợp.
+: Các phân phối xác suất mà cho biết xác suất với hai hay nhiều hơn các biến số nhận đồng thời những giá trị nhất định (hoặc nằm trong những khoảng nhất định).
+ @Joint products
+- (Econ) Các sản phẩm liên kết.
+: Các hàng hoá có đặc tính là nếu có sự thay đổi trong tốc độ sản lượng của một sản phẩm thì sẽ đem lại sự thay đổi tương tự đối với các sản phẩm kia.
+ @Joint profit maximination
+- (Econ) Tối đa hoá lợi nhuận chung.
+: Tối đa hoá lợi nhuận kết hợp của một nhóm doanh nghiệp.
+ @joint staff  
+*  dt
+- (quân sự) bộ tổng tham mưu
+
+@Joint stock company
+- (Econ) Công ty cổ phần.
+: Công ty cổ phần đựơc thành lập mà không phải tuân theo những đòi hỏi phải cam kết nhiều vốn tài chính.
+ @Joint venture
+- (Econ) Liên doanh.
+: Một tình huống trong đó cả khu vực công cộng và tư nhân hợp tác với nhau trong một hoạt động kinh tế; điều này đặc biệt phổ biến trong các nước kém phát triển nơi mà vốn rất khan hiếm trong khu vực tư nhân và các quỹ của chính phủ thương được dùng để phát triển công nghiệp hay dịch vụ ngân hàng…
+ @Joint venture in European Countries
+- (Econ) Liên doanh ở các nước Đông Âu.
+: Một hình thức hợp tác kinh doanh quốc tế giữa các công ty Phương Tây và các công ty Đông Âu và là mô hình đâu tư nước ngoài chính ở các nước Đông Âu.
+ @jointer  
+*  dt
+- cáo bào xoi (để bào ghép)
+- (kỹ thuật) máy nối, máy ghép
+- cái trát vữa (vào các khe hở)
+- thợ nối đường dây (điện)
+
+@joint-heir  
+*  dt
+- người cùng kế thừa
+
+@jointly  
+*  dt
+- cùng, cùng nhau, cùng chung
+
++ to jointly strive for freedom and peace: cùng chung sức phấn đấu cho tự do và hoà bình
+
+@jointly
+- đồng thời
+ @joint-pin  
+*  dt
+- (kỹ thuật) đinh ghép; cái chốt; bu-lông kiểu bản lề
+
+@jointress  
+*  dt
+- người thừa hưởng của chồng (đàn bà goá được hưởng tài sản của chồng để lại)
+
+@joint-stock
+* tt
+- huy động vốn bằng cách phát hành chứng khoán
+ @jointure  
+*  dt
+- tài sản của chồng để lại (cho vợ sau khi chết)
+*  ngdgt
+- tài sản để lại cho (vợ)
+
+@joint-venture
+* tt
+- liên doanh
+
++  a joint-venture company:công ty liên doanh
+ @joist  
+*  dt
+- (kiến trúc) rầm (nhà)
+
+@jojoba
+* dt
+- cây hoặc bụi cây nhỏ ở tây nam Bắc Mỹ (hạt ăn được và dùng để làm sáp)
+* dt
+- cây hoặc bụi cây nhỏ ở tây nam Bắc Mỹ (hạt ăn được và dùng để làm sáp)
+ @joke  
+*  dt
+- lời nói đùa, câu nói đùa
+
++ to crack a joke: nói đùa một câu
+
++ to play a joke on someone: đùa nghịch trêu chọc ai
+
++ to know how to take a joke: biết nghe nói đùa, không để tâm giận lời nói đùa
+
++ a practical joke: trò đùa ác ý, trò chơi khăm
+- trò cười (cho thiên hạ)
+- chuyện đùa; chuyện buồn cười, chuyện lố bịch; trường hợp xảy ra buồn cười
+
++ it is no joke: không phải là chuyện đùa
+
++ the joke is that: điều buồn cười là
+*  dgt
+- nói đùa
+- đùa bỡn, giễu cợt; trêu chòng
+
+@joker  
+*  dt
+- người thích thú đùa; người hay pha trò
+- (từ lóng) anh chàng, cu cậu, gã, thằng cha
+- quân bài J
+- (từ Mỹ,nghĩa Mỹ) điều khoản mánh khoé (có thể hiểu nhiều cách, lồng vào một văn kiện để dễ đưa người ta vào tròng)
+- (từ Mỹ,nghĩa Mỹ) điều khó khăn ngầm, điều khó khăn không người tới
+
+@joker
+- (lý thuyết trò chơi) quân phăng teo
+ @jokingly  
+*  dt
+- đùa
+- đùa bỡn, giễu cợt, trêu chòng
+
+@jokul  
+*  dt
+- núi tuyết, núi băng
+
+@joky  
+*  tt
+- vui đùa, bông đùa, thích đùa
+
+@jollier  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người hay nói đùa, người hay pha trò
+
+@jollification  
+*  dt
+- trò vui
+- cuộc vui chơi
+
+@jollify  
+*  ndgt
+- vui chơi, đánh chén, chè chén say sưa
+*  ngdgt
+- làm cho vui vẻ, làm cho vui lên
+- làm say ngà ngà
+
+@jollily
+- xem jolly
+ @jolliness  
+*  dt
+- sự vui vẻ, sự vui nhộn ((cũng) jollity)
+
+@jollity  
+*  dt
+- sự vui vẻ, sự vui nhộn ((cũng) jolliness)
+- cuộc vui chơi, hội hè đình đám
+
+@jolly  
+*  tt
+- vui vẻ, vui tươi, vui nhộn
+- chếnh choáng say, ngà ngà say
+
++ the jolly god: thần rượu
+- (từ lóng) thú vị, dễ chịu
+
++ jolly weather: thời tiết dễ chịu
+-(mỉa mai) thú vị gớm; dễ chịu gớm, hay ho gớm
+
++ what a jolly mess I am in!: mình thật là lâm vào một hoàn cảnh dễ chịu gớm!
+*  dt
+- (từ lóng) rất, hết sức, lắm, quá
+
++ jolly tired: mệt hết sức, mệt lử
+
++ you will jolly well have to do it: anh phải làm cái đó là đúng quá đi rồi, nhất định là anh phải làm cái đó rồi
+*  ngdgt
+- (thông tục) ((thường) : along) tán tỉnh, phỉnh phờ, phỉnh nịnh
+- đùa bỡn, trêu chòng, chòng ghẹo
+
+@jolly-boat  
+*  dt
+- xuồng nhỏ (trên tàu thuỷ)
+
+@jolt  
+*  dt
+- cái lắc bật ra, cái xóc nảy lên
+- (từ Mỹ,nghĩa Mỹ) cú đấm choáng váng (quyền Anh)
+- (từ Mỹ,nghĩa Mỹ) sự ngạc nhiên làm choáng váng, sự thất vọng choáng váng; cú điếng người
+*  ngdgt
+- lắc bật ra, làm xóc nảy lên
+*  ndgt
+- ((thường) : along) chạy xóc nảy lên (ô tô)
+
+@jolter
+- xem jolt
+ @jolterhead  
+*  dt
+- người ngớ ngẩn, người ngốc nghếch
+
+@joltily
+- xem jolt
+ @joltiness
+- xem jolt
+ @jolty  
+*  tt
+- xóc nảy lên (xe)
+- khấp khểnh, gập ghềnh (đường)
+
+@jonah  
+*  dt
+- (thông tục) anh chàng số đen
+
+@jonathan  
+*  dt
+- táo jonathan (một loại táo ăn tráng miệng)
+- Giô-na-than (người Mỹ điển hình; dân tộc Mỹ nhân cách hoá) ((cũng) Brother jonathan)
+
+@jongleur  
+*  dt
+- người hát rong (thời Trung cổ)
+
+@jonny raw  
+*  dt
+- người mới vào nghề
+- (quân sự),  (từ lóng) tân binh, lính mới
+
+@jonquil  
+*  dt
+- (thực vật học) cây trường thọ
+- hoa trường thọ
+- màu hoa trường thọ, màu vàng nhạt
+
+@jordan  
+*  dt
+- ùi màng để đi đái đêm)
+
+@jorum  
+*  dt
+- bát lớn, cốc vại (để uống rượu)
+- bát đầy rượu pân
+
+@joseph  
+*  dt
+- người đàn ông chay tịnh
+- áo choàng mặc cưỡi ngựa (của đàn bà (thế kỷ) 18)
+
+@josh  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lời nói đùa vui; lời bỡn cợt
+*  dgt,  (từ lóng)
+- bỡn cợt, trêu chòng, chòng ghẹo
+
+@josher
+- xem josh
+ @joshingly
+- xem josh
+ @joskin  
+*  dt
+- (từ lóng) người quê mùa, cục mịch
+
+@joss  
+*  dt
+- thần (ở Trung quốc)
+
+@josser  
+*  dt
+- (từ lóng) người ngu xuẩn
+- (từ lóng) anh chàng, gã, lặn
+
+@joss-house  
+*  dt
+- đền, miếu (ở Trung quốc)
+
+@joss-stick  
+*  dt
+- nén hương
+
+@jostle  
+*  dt
+- sự xô đẩy, sự chen lấn, sự hích nhau
+*  dgt
+- đẩy, xô đẩy, chen lấn, hích khuỷ tay
+
++ to be jostlesd by the crowd: bị đám đông xô đẩy
+- (jostle against) xô vào, va vào
+- tranh giành (với ai...)
+
++ to jostle with someone for something: tranh giành với ai lấy cái gì
+
+@jostler
+- xem jostle
+ @jot  
+*  dt
+- chút, tí tẹo
+
++ not a jot: không một chút nào
+*  ngdgt (song own
+5-öëR
+
+@jotter
+* dt
+- sổ tay ghi chép
+ @jotting  
+*  dt
+- đoạn ngắn ghi nhanh
+
+@jotun
+* dt
+- cũng jotunn
+- người khổng lồ trong thần thoại Na-uy
+ @joual
+* dt
+- phương ngữ Pháp ở Canađa
+ @joule  
+*  dt
+- (điện học) Jun
+
+@jounce  
+*  dgt
+- lắc, xóc nảy lên
+
+@journal  
+*  dt
+- báo hằng ngày
+- tạp chí
+- (hàng hải); (thương nghiệp) nhật ký
+- (số nhiều) (the Journals) biên bản (những phiên họp nghị viện)
+- (kỹ thuật) cổ trục, ngõng trục
+
+@journal
+- tạp chí, báo; (kỹ thuật) ngõng trục; ngõng
+ @journal-box  
+*  dt
+- (kỹ thuật) hộp ổ trục
+
+@journalese  
+*  dt
+- văn viết báo, văn nhà báo (viết vội, cẩu thả)
+
+@journalise   (journalise) @journalism  
+*  dt
+- nghề làm báo, nghề viết báo
+
+@journalist  
+*  dt
+- nhà báo
+
+@journalistic  
+*  tt
+- (thuộc) báo chí; (thuộc) nghề nhà báo
+
+@journalistically  
+*  dt
+- về mặt báo chí; theo kiểu nhà báo; theo quan điểm báo chí
+
+@journalize   (journalise) @journalizer
+- xem journalize
+ @journey  
+*  dt
+- cuộc hành trình (thường là bằng đường bộ)
+- chặng đường đi, quâng đường đi (trong một thời gian nhất định)
+
++ to go by easy journeys: đi từng chặng đường ngắn
+
++ a three day's journey: chặng đường đi mất ba ngày; cuộc hành trình ba ngày
+*  ndgt
+- làm một cuộc hành trình
+
+@journeyer
+- xem journey
+ @journeyman  
+*  dt
+- thợ (thợ máy hoặc thợ thủ công) đã thạo việc đi làm thuê (đối lại với người mới học nghề)
+- (nghĩa bóng) người làm thuê
+- (từ cổ,nghĩa cổ) người làm công nhật
+
+@journey-work  
+*  dt
+- công việc của người làm thuê
+
+@joust  
+*  dt
+- cuộc cưỡi ngựa đấu thương
+*  ndgt
+- cưỡi ngựa đấu thương
+
+@jouster
+- xem joust
+ @jove  
+*  dt
+- (thần thoại,thần học) thần Giu-pi-te
+!by Jove!
+- thế à!, trời ơi!
+
+@jovial  
+*  tt
+- vui vẻ, vui tính
+
+@joviality  
+*  dt
+- tính vui vẻ, tâm hồn vui vẻ; thái độ vui vẻ
+
+@jovially
+* dt
+- vui vẻ, vui tính
+ @jovian  
+*  tt
+- (thuộc) thần Giu-pi-te; giống thần Giu-pi-te
+- (thuộc) sao Mộc
+
+@jowl  
+*  dt
+- xương hàm, hàm (thường là hàm dưới)
+- má
+- cằm xị (người); yếm (bò); diều (chim)
+- đầu (cá hồi...)
+!cheek by jowl
+- (xem) cheek
+
+@joy  
+*  dt
+- sự vui mừng, sự hân hoan, sự vui sướng
+
++ to jump for joy: nhảy lên vì vui sướng
+
++ to someone's joy: làm cho ai vui sướng
+- niềm vui
+
++ he is the joy and pride of his mother: nó là niềm vui và tự hào của mẹ nó
+*  ndgt
+- (thơ ca) vui mừng, vui sướng
+- (thơ ca) làm vui mừng, làm vui sướng
+
+@joyance
+* dt
+- (thơ ca) sự vui thích; sự sung sướng
+ @joy-bells  
+*  dt
+- hồi chuông ngày lễ; hồi chuông báo tin vui
+
+@joyful  
+*  tt
+- vui mừng, hân hoan, vui sướng
+- mang lại niềm vui, đáng mừng
+
+@joyfully
+* dt
+- hân hoan, vui vẻ, vui mừng
+ @joyfulness  
+*  dt
+- sự vui mừng, sự vui sướng, sự tràn ngập niềm vui
+
+@joyless  
+*  tt
+- không vui, buồn
+
+@joylessly
+* dt
+- buồn rầu, buồn phiền
+ @joylessness
+* dt
+- sự buồn phiền, nỗi buồn
+ @joyous  
+*  tt
+- vui mừng, vui sướng
+
+@joyously
+* dt
+- vui vẻ, vui mừng
+ @joyousness  
+*  dt
+- sự vui mừng, sự vui sướng
+
+@joy-ride  
+*  dt
+- (từ lóng) cuộc đi chơi lén bằng ô tô của người khác, cuộc đi chơi lén bằng máy bay của người khác (lấy đi lén không cho chủ nhân biết)
+*  ndgt
+- đi chơi lén bằng ô tô của người khác, đi chơi lén bằng máy bay của người khác
+
+@joy-rider
+* dt
+- người lén lấy xe của người khác đi chơi
+ @joystick  
+*  dt
+- (từ lóng) cần điều khiển (của máy bay)
+
+@

@@ -1,0 +1,3048 @@
+@image  
+*  dt
+- hình, hình ảnh, ảnh (trong gương...)
+
++ read image: ảnh thực
+
++ virtual image: ảo ảnh
+- vật giống hệt (vật khác); người giống hệt (người khác)
+
++ he is the very image of his father: anh ta giống bố như hệt
+- hình tượng
+
++ to speak in images: nói bằng nhiều hình tượng
+- tượng, thần tượng, thánh tượng
+- ý niệm, ý tưởng, quan niệm
+- tượng trưng, điển hình, hiện thân (của cái gì)
+
++ he is the image of industriousness: anh ta hiện thân của sự cần cù
+*  ngdgt
+- vẽ hình
+- phản ánh (như ở trong gương)
+- hình dung, tưởng tượng ra
+
++ to image something to oneself: hình dung cái gì trong óc mình
+- mô tả sinh động, mô tả bằng hình tượng
+- là tượng trưng của, là điển hình của, là hiện thân của, tượng trưng cho (cái gì)
+
+@image
+- ảnh; sự phản ánh; sự tạo ảnh
+- complete inverse i. (đại số) ; (tô pô) nghịch ảnh đầy đủ
+- inverse i. nghịch ảnh 
+- mirror i. (hình học) phép ánh xạ gương
+- reflected i. ảnh phản xạ 
+- spherical i. (hình học) ảnh cầu 
+ @imageable  
+*  tt
+- có thể vẽ hình
+- có thể phản ánh
+- có thể hình dung, có thể tưởng tượng ra
+- có thể mô tả sinh động
+- có thể điển hình hoá được
+
+@imageless
+- xem image
+ @imager  
+*  dt
+- người vẽ hình
+- người hình dung, người tưởng tượng ra
+- người mô tả sinh động, người mô tả bằng hình tượng
+
+@imagery  
+*  dt
+- hình ảnh (nói chung)
+- tượng hình; hình chạm, đồ khắc
+- hình tượng
+
++ Shakespeare's poetry is rich in imagery: thơ Sếch-xpia giàu hình tượng
+
+@imaginability
+- xem imaginable
+ @imaginable  
+*  tt
+- có thể tưởng tượng được
+
+@imaginableness  
+*  dt
+- tính có thể tưởng tượng được
+
+@imaginably
+- xem imaginable
+ @imaginal  
+*  tt
+- (động vật học) (thuộc) thành trùng
+
+@imaginarily
+- xem imaginary
+ @imaginariness  
+*  dt
+- tính chất tưởng tượng, tính không có thực, tính chất ảo
+
+@imaginary  
+*  tt
+- tưởng tượng, không có thực, ảo
+
++ an imaginary disease: bệnh tưởng tượng
+- (toán học) ảo
+
++ imaginary number: số ảo
+
+@imaginary
+- ảo
+ @imaginary c. at infinity
+- vòng ảo ở vô tận
+- c. of convergence hình tròn hội tụ
+- c. of curvature đường trong chính khúc
+- c. of declination vòng lệch
+- c. of influence vòng ảnh hưởng
+- c. of inversion vòng tròn nghịch đảo
+- c. of permutation chu trình hoán vị
+- asymptotic c. đường tròn tiẹm cận
+- circumscribed c. vòng tròn ngoại tiếp
+- coaxial c.s vòng tròn đồng trục
+- concentric c.s vòng tròn đồng tâm
+- critical c. vòng tròn tới hạn
+- director c. đường tròn chi phương
+- eccentric c.s of an ellipse vòng tâm sai của elip
+- escribed c. (of a triangle) vòng tròn bàng tiếp (của một tam giác)
+- externally tangent c.s các vòng tròn tiếp xúc ngoài
+- focal c. vòng tròn tiêu
+- generating c. đường tròn sinh
+- great c. vòng tròn lớn (của hình cầu)
+- horizontal c. vòng chân trời
+- imaginary c. vòng ảo
+- impedance c. vòng tổng trở
+- inscribed c. (of a triangle) vòng tròn nội tiếp (một tam giác)
+- limit c. đường giới hạn (trong hình học Lôbatrepxki)
+- nine-point c. vòng tròn chín điểm (của một tam giác)
+- non-degenerate c. vòng tròn không suy biến
+- null c. vòng điểm
+- oriented c. vòng tròn định hướng
+- orthogonal c.s vòng tròn trực giao
+- osculating c. vòng tròn mật tiếp
+- parallel c. (hình học) đường tròn vĩ tuyến
+- proper c. vòng tròn [thông thường, thật sự]
+- radical c. vòng tròn đẳng phương
+- small c. vòng tròn bé (của hình cầu)
+- simple c. vòng tròn đơn
+- tangent c.s các vòng tròn tiếp xúc
+- transit c. (thiên văn) vòng kinh tuyến
+- vertical c. (hình học) vòng kinh tuyến
+- virtual c. chu trình ảo, vòng tròn ảo 
+ @Imaginary number
+- (Econ) Số ảo.
+: Con số có căn bậc hai của âm một, và thường kí hiệu là i. Xem COMPLEX NUMBER.
+ @imagination  
+*  dt
+- sức tưởng tượng, trí tưởng tượng; sự tưởng tượng
+- điều tưởng tượng
+- khả năng hư cấu (trong văn học)
+- khả năng sáng tạo
+
++ to apply a mythod with imagination: áp dụng sáng tạo một phương pháp
+
+@imaginational
+- xem imagination
+ @imaginative  
+*  tt
+- tưởng tượng, không có thực
+- hay tưởng tượng, giàu tưởng tượng
+
++ an imaginative writer: một nhà văn giàu tưởng tượng
+- có tài hư cấu
+- sáng tạo
+
++ imaginative leadership: sự lânh đạo sáng tạo
+
+@imaginatively
+* dt
+- theo tính cách tưởng tượng
+ @imaginativeness  
+*  dt
+- sự giàu tưởng tượng
+- tính hay tưởng tượng
+- óc sáng tạo
+
+@imagine  
+*  dgt
+- tưởng tượng, hình dung
+- tưởng rằng, nghĩ rằng, cho rằng
+
++ I imagine him to be a tall stout man: tôi tưởng rằng ông ta la một người cao lớn mập mạp
+- đoán được
+
++ I can't imagine what he is doing: tôi không thể đoán được anh ta đang làm gì
+
+@imagine
+- tưởng tượng, hình dung
+ @imaginer  
+*  dt
+- người tưởng tượng, người hình dung
+
+@imagines  
+*  dt,  số nhiều imagos,  imagines
+- (động vật học) thành trùng
+
+@imagism  
+*  dt
+- chủ nghĩa hình tượng (trong văn học đầu (thế kỷ) 20)
+
+@imagist  
+*  dt
+- nhà thơ theo chủ nghĩa hình tượng
+
+@imagistic  
+*  tt
+- (thuộc chủ nghĩa) hình tượng
+
+@imagistically
+- xem imagism
+ @imago  
+*  dt,  số nhiều imagos,  imagines
+- (động vật học) thành trùng
+
+@imam  
+*  dt
+- (tôn giáo) thầy tế (Hồi giáo)
+- Imam (lãnh tụ Hồi giáo)
+
+@imamate  
+*  dt
+- (tôn giáo) chức thầy tế (Hồi giáo)
+- chức Imam (Hồi giáo)
+
+@imaret
+* dt
+- quán ăn hoặc nhà trọ cho khách vãng lai ở Thổ Nhĩ Kỳ
+ @imbalance  
+*  dt
+- sự không cân bằng; sự thiếu cân bằng
+- (sinh vật học) sự thiếu phối hợp (giữa các cơ hoặc các tuyến)
+
+@imbalanced
+- xem imbalance
+ @imbark  
+*  dgt
+- (từ Mỹ,nghĩa Mỹ) (như) embark
+
+@imbecile  
+*  tt
+- khờ dại, đần
+
++ an imbecile fellow: một người đần
+- (từ hiếm,nghĩa hiếm) yếu (về sức khoẻ)
+*  dt
+- người khờ dại, người đần
+
+@imbecilely
+- xem imbecile
+ @imbecilic  
+*  tt
+- (thuộc) người khờ dại, (thuộc) người đần
+- ngu xuẩn
+
++ an imbecilic idea: một ý nghĩ ngu xuẩn
+
+@imbecility  
+*  dt
+- tính khờ dại, tính ngu đần
+- hành động khờ dại; lời nói khờ dại
+- (từ hiếm,nghĩa hiếm) sự yếu sức khoẻ
+
+@imbed   (imbed) @imbed
+- nhúng
+ @imbedded
+- bị nhúng, được nhúng
+- wildly i. (tô pô) bị nhúng thô 
+ @imbedding
+- phép nhúng, sự nhúng
+- full i. nhúng đầy đủ
+- invariant i. (tô pô) nhúng bất biến; (xác suất); (vật lí) sự đặt bất biến 
+ @imbibe  
+*  ngdgt
+- uống, nốc; hít (không khí...)
+- hút (hơi ẩm)
+- hấp thụ, tiêm nhiễm
+
++ to imbibe new ideas: hấp thụ những ý tưởng mới
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ) uống
+
+@imbiber  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người uống
+
+@imbibition  
+*  dt
+- sự uống; sự hít
+- sự hút (hơi ẩm)
+- sự hấp thụ, sự tiêm nhiễm
+
+@imbibitional  
+*  tt
+- (thuộc) sự uống; (thuộc) sự hít
+- (thuộc) sự hút (hơi ẩm)
+- (thuộc) sự hấp thụ, (thuộc) sự tiêm nhiễm
+
+@imbitter  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) embitter
+
+@imbody  
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) (như) embody
+
+@imbosom  
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) (như) embosom
+
+@imbower  
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) (như) embower
+
+@imbricate  
+*  dgt
+- xếp đè lên nhau, xếp gối lên nhau (như lợp ngói)
+*  tt
+- xếp đè lên nhau, xếp gối lên nhau
+- (sinh vật học) lợp
+
+@imbrication  
+*  dt
+- sự xếp đè lên nhau, sự xếp gối lên nhau (như lợp ngói)
+- (kiến trúc) hình trang trí kiểu xếp gối lên nhau
+
+@imbricative  
+*  tt
+- theo kiểu xếp đè lên nhau, theo kiểu xếp gối lên nhau (như lợp ngói)
+- (kiến trúc) hình trang trí kiểu xếp gối lên nhau
+*  tt
+- theo kiểu xếp đè lên nhau, theo kiểu xếp gối lên nhau
+
+@imbroglio  
+*  dt,  số nhiều imbroglios
+- tình trạng hỗn độn (về chính trị...)
+- sự hiểu lầm rắc rối; tình trạng rắc rối phức tạp (trong một vở kịch)
+- đống lộn xộn
+
+@imbrown
+* ngdgt
+- xem to embrown
+ @imbrue  
+*  ngdgt ((cũng) imbue with)
+- vấy, nhuộm (máu)
+
++ a flag imbrued with enemy blood: một lá cờ nhuộm máu quân thù
+- nhúng
+
++ to imbrue one's hand in blood: nhúng tay vào máu
+- (từ Mỹ,nghĩa Mỹ) (nghĩa bóng) thấm nhuần, nhiễm đầy
+
++ to be imbrued with Marxism-Leninism: thấm nhuần tư tưởng Mác-ÃLênin
+
+@imbruement  
+*  dt ((cũng) imbuement)
+- sự vấy, sự nhuộm (máu)
+- sự nhúng
+- sự thấm nhuần, sự nhiễm đầy
+
+@imbrute  
+*  ngdgt
+- làm thành tàn ác; làm thành hung bạo
+
+@imbrutement  
+*  dt
+- sự làm thành tàn ác; sự làm thành hung bạo
+
+@imbue  
+*  ngdgt (: with)
+- thấm đẫm (hơi ẩm...)
+- nhuộm
+- (như) imbrue
+
+@imbuement  
+*  dt
+- sự thấm đẫm
+- sự nhuộm
+- (như) imbruement
+
+@imexplorable  
+*  tt
+- không thể thăm dò, không thể thám hiểm được
+- (y học) không thể thông dò được
+- không thể khảo sát tỉ mỉ được
+
+@IMF
+- (Econ) Quỹ tiền tệ quốc tế.
+: Xem INTERNATIONAL  MONETARY FUND.
+ @imf
+* (viết tắt)
+- Qũy tiền tệ quốc tế (International Monetary Fund)
+ @imidazole
+* dt
+- (hoá học) nhóm imiđo
+ @imide
+* dt
+- (hoá học) imit
+ @imidic
+* tt
+- (hoá học) thuộc imit
+ @imitability   (imitableness) @imitable  
+*  tt
+- có thể bắt chước được; có thể mô phỏng được
+
+@imitableness   (imitableness) @imitate  
+*  ngdgt
+- theo gương, noi gương
+
++ to imitate the virtues of great men: theo gương đạo đức của những người vĩ đại
+- bắt chước, làm theo; mô phỏng, phỏng mẫu
+
++ parrots imitate human speech: vẹt bắt chước tiếng người
+- làm giả
+
++ to imitate diamonds: làm giả kim cương
+
+@imitate
+- bắt chước, sao lại; giả
+ @imitation  
+*  dt
+- sự noi gương
+- sự bắt chước; vật bắt chước, vật mô phỏng, vật phỏng mẫu
+- đồ giả
+- (âm nhạc) sự phỏng mẫu
+- (định ngữ) giả
+
++ imitation leather: da giả
+
+@imitational  
+*  tt
+- (thuộc) sự noi gương
+- (thuộc) sự bắt chước
+
+@imitative  
+*  tt
+- bắt chước, mô phỏng, phỏng mẫu; hay bắt chước
+
++ to be as imitative as a monkey: hay bắt chước như khỉ
+- giả
+- (ngôn ngữ học) tượng thanh
+
++ imitative word: từ tượng thanh
+
+@Imitative growth
+- (Econ) Tăng trưởng mô phỏng.
+: Một hướng tăng trưởng của HÃNG thông qua ĐA DẠNG HOÁ để chi một quá trình tăng trưởng được kích thích bằng cách đưa vào những sản phẩm có đặc tính sao cho người tiêu dùng không nhận thức được sản phẩm này là mới; nghĩa là chúng không thức tỉnh và thoả mãn CÁC NHU CẦU TIỀM ẨN.
+ @imitatively
+- xem imitative
+ @imitativeness  
+*  dt
+- tính hay bắt chước
+
+@imitator  
+*  dt
+- người hay bắt chước; thú hay bắt chước
+- người làm đồ giả
+
+@immaculacy   (immaculateness) @immaculate  
+*  tt
+- tinh khiết, trong trắng, không vết
+- (thường)(mỉa mai) không chê vào đâu được, không có khuyết điểm nào, không có sai lầm gì
+- (sinh vật học) không có đốm, không có vết
+!immaculate Conception
+- (tôn giáo) sự thụ thai tinh khiết (Đức bà Ma-ri)
+
+@immaculately
+- xem immaculate
+ @immaculateness   (immaculateness) @immanence   (immanency) @immanency   (immanency) @immanent  
+*  tt
+- (triết học)
+- nội tại
+- (tôn giáo) ở khắp nơi (Chúa)
+
+@immanently
+- xem immanent
+ @immaterial  
+*  tt
+- vô hình, phi vật chất
+- không quan trọng, vụn vặt
+
++ immaterial details: những chi tiết vụn vặt
+
+@immaterialise   (immaterialise) @immaterialism  
+*  dt
+- thuyết phi vật chất
+
+@immaterialist  
+*  dt
+- người theo thuyết phi vật chất
+
+@immateriality  
+*  dt
+- tính vô hình, tính phi vật chất
+- sự không quan trọng
+
+@immaterialize   (immaterialise) @immaterially
+- xem immaterial
+ @immaterialness
+- xem immaterial
+ @immature  
+*  tt
+- non nớt, chưa chín chắn
+
++ the immature minds of children: đầu óc non nớt của trẻ con
+- chưa chín muồi
+
++ the immature social conditions for an uprising: những điều kiện xã hội chưa chín muồi cho một cuộc nổi dậy
+
+@immaturely
+- xem immature
+ @immatureness   (immatureness) @immaturity   (immatureness) @immeasurability   (immeasurableness) @immeasurable  
+*  tt
+- vô hạn, mênh mông, không thể đo lường được
+
++ the immeasurable love for one's fatherland: lòng yêu tổ quốc vô hạn
+
+@immeasurableness   (immeasurableness) @immeasurably
+* dt
+- vô cùng, cực kỳ
+ @immediacy   (immediateness) @immediate  
+*  tt
+- trực tiếp
+
++ an immediate cause: nguyên nhân trực tiếp
+- lập tức, tức thì, ngay, trước mắt
+
++ an immediate answer: câu trả lời lập tức
+
++ an immediate task: nhiệm vụ trước mắt
+- gần gũi, gần nhất, sát cạnh
+
++ my immediate neighbour: ông bạn láng giềng sát vách của tôi
+
+@immediate annuity  
+*  dt
+- tiền trả từng năm; tiền trả từng tháng (cho người bảo hiểm)
+
+@immediately  
+*  dt
+- ngay lập tức, tức thì
+- trực tiếp
+
+@immediately
+- ngay lập tức, một cách trực tiếp
+ @immediateness   (immediateness) @immediatism  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (sử học) chính sách giải phóng ngay nô lệ
+
+@immediatist  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (sử học) người chủ trương giải phóng ngay nô lệ
+
+@immedicable
+* tt
+- (nói về bệnh tật) không chữa khỏi được, nan y
+ @immedicacble  
+*  tt
+- không chữa khỏi được (bệnh...)
+
+@immemorial  
+*  tt
+- xa xưa, thượng cổ
+
++ from time immemorial: từ thời thượng cổ, từ ngàn xưa
+
+@immemorially
+- xem immemorial
+ @immense  
+*  tt
+- mênh mông, bao la, rộng lớn
+- (từ lóng) rất tốt, rất cừ, chiến lắm
+
+@immensely  
+*  dt
+- rất, hết sức
+- (thông tục) rất nhiều
+
+@immenseness   (immenseness) @immensity   (immenseness) @immensurability   (immensurableness) @immensurable  
+*  tt
+- không thể đo lường được
+
+@immensurableness   (immensurableness) @immerge  
+*  ndgt
+- chìm xuống
+- biến vào (trong cái gì)
+*  ngdgt
+- (từ hiếm,nghĩa hiếm) nhận chìm
+
+@immergence  
+*  dt
+- sự chìm xuống
+- sự biến vào (trong cái gì)
+
+@immerse  
+*  ngdgt
+- nhúng, nhận chìm, ngâm
+- ngâm (mình) vào nước để rửa tội
+- chôn vào, chôn vùi
+- mắc vào, đắm chìm vào, ngập vào, mải mê vào
+
++ to be immersed in debt: mắc nợ đìa
+
++ to be immersed in thought: trầm ngâm suy nghĩ, mải suy nghĩ
+
+@immerse
+- (hình học) nhúng chìm
+ @immersed
+* tt
+- (cây cối) mọc hoàn toàn dưới nước
+ @immersible
+* tt
+- có thể nhận chìm xuống nước
+ @immersion  
+*  dt
+- sự nhúng, sự nhận chìm, sự ngâm nước
+- sự ngâm mình vào nước để rửa tội
+- (nghĩa bóng) sự đắm chìm vào, sự ngập vào, sự mải mê vào (công việc, suy nghĩ...)
+- (thiên văn học) sự chìm bóng (biến vào bóng của một hành tinh khác)
+
+@immersion
+- (hình học) sự nhúng chìm
+ @immersion heater  
+*  dt
+- que đun nước (nhận chìm xuống nước)
+
+@immesh
+* ngdgt
+- xem emmesh
+ @immigrant  
+*  tt
+- nhập cư (dân...)
+*  dt
+- dân nhập cư
+
+@immigrate  
+*  ndgt
+- nhập cư
+*  ngdgt
+- cho nhập cư
+
+@immigration  
+*  dt
+- sự nhập cư
+- tổng số người nhập cư (trong một thời gian nhất định)
+
+@immigration
+- (thống kê) sự di cư
+ @immigration control
+* dt
+- trạm kiểm soát nhập cảnh
+ @imminence   (imminency) @imminency   (imminency) @imminent  
+*  tt
+- sắp xảy ra, (xảy ra) đến nơi
+
++ a storm is imminent: có bâo đến nơi rồi
+
++ to be faced with imminent death: sắp chết đến nơi
+
+@imminently
+* dt
+- sắp xảy ra
+ @imminentness
+- xem imminent
+ @immingle  
+*  ngdgt
+- trộn, trộn lẫn
+
+@immiscibility  
+*  dt
+- tính không trộn lẫn được
+
+@immiscible  
+*  tt
+- không trộn lẫn được
+
+@immiscibly
+- xem immiscible
+ @Immiserizing growth
+- (Econ) Tăng trưởng làm khốn khổ.
+: Một trường hợp có thể xảy ra nhưng không chắc chắn, trong đó một sự gia tăng sản lượng kinh tế trong một nước thông qua tác động phản hồi của thương mại sẽ dẫn đến một tình huống trong đó PHÚC LỢI KINH TẾ bị giảm sút.
+ @immitigability  
+*  dt
+- tính không thể nguôi được, tính không thể dịu đi được
+
+@immitigable  
+*  tt
+- không thể nguôi, không thể dịu đi
+
++ immitigable sorrow: nỗi buồn không thể nguôi
+
++ situation remains immitigable: tình hình vẫn không dịu đi
+
+@immitigableness
+- xem immitigable
+ @immitigably
+- xem immitigable
+ @immittance
+* dt
+- mạch điện vào
+ @immix  
+*  ngdgt
+- trộn vào, lẫn vào
+
+@immixture  
+*  dt
+- sự pha trộn
+- (: in) sự liên quan, sự liên luỵ, sự dính líu (vào việc gì)
+
+@immobile  
+*  tt
+- đứng yên, không nhúc nhích, bất động
+
+@immobile
+- bất động
+ @immobilisation
+* dt
+- sự cố định, sự giữ cố định; sự làm bất động
+- sự không di chuyển được; sự không nhúc nhích được (của quân đội, xe cộ...)
+- sự thu hồi không cho lưu hành (tiền...)
+ @immobilise   (immobilise) @immobility  
+*  dt
+- sự bất động
+
+@immobilization  
+*  dt
+- sự cố định, sự giữ cố định; sự làm bất động
+- sự không di chuyển được; sự không nhúc nhích được (của quân đội, xe cộ...)
+- sự thu hồi không cho lưu hành (tiền...)
+
+@immobilize   (immobilise) @immobilizer
+- xem immobilize
+ @immoderate  
+*  tt
+- quá độ, thái quá
+
++ immoderate drinking and eating: sự chè chén quá độ
+
+@immoderately
+* dt
+- quá độ, thái quá
+ @immoderateness   (immoderateness) @immoderation   (immoderateness) @immodest  
+*  tt
+- khiếm nhâ, bất lịch sự; không đứng đắn, không đoan trang
+
++ immodest remarks: những lời nhận xét bất lịch sự
+- vô liêm sỉ, không biết xấu hổ, trơ trẽn, trơ tráo
+
+@immodestly
+* dt
+- khiếm nhã, vô liêm sỉ
+ @immodesty  
+*  dt
+- tính khiếm nhâ, tính bất lịch sự; tính không đứng đắn, tính không đoan trang
+- tính vô liêm sỉ, tính trơ trẽn, tính trơ tráo
+
+@immolate  
+*  ngdgt
+- giết (súc vật) để cúng tế
+- cúng tế
+- (nghĩa bóng) hy sinh (cái gì cho cái gì)
+
+@immolation  
+*  dt
+- sự giết súc vật để cúng tế
+- (nghĩa bóng) sự hy sinh (cái gì cho cái gì)
+
+@immolator  
+*  tt
+- người giết súc vật để cúng tế
+- (nghĩa bóng) người hy sinh (cái gì cho cái gì)
+
+@immoral  
+*  dt
+- trái đạo đức, trái luân lý; đồi bại
+
++ immoral conduct: tư cách đạo đức đồi bại
+- xấu xa, phóng đãng
+
+@immoralise   (immoralise) @immoralism  
+*  dt
+- (triết học) thuyết phi đạo đức
+
+@immoralist  
+*  dt
+- (triết học) người theo thuyết phi đạo đức
+
+@immorality  
+*  dt
+- sự trái đạo đức, sự trái luân lý; sự đồi bại
+- sự phóng đâng; hành vi đồi bại xấu xa, hành vi phóng đãng
+
+@immoralize   (immoralise) @immorally
+* dt
+- đồi bại, trái với luân thường đạo lý, vô luân
+ @immortal  
+*  tt
+- bất tử, bất diệt, bất hủ, sống mãi
+
++ an immortal poem: bài thơ bất hủ
+*  dt
+- người bất tử, nhà văn bất tử, nhà thơ bất tử
+- viện sĩ (viện hàn lâm khoa học Pháp)
+- (số nhiều) những vị thần bất tử
+- (số nhiều) (sử học) đội cận vệ hoàng gia (Ba tư)
+
+@immortal hand  
+*  dt
+- (từ lóng) những con bài tốt nhất (bài pôke)
+
+@immortalisation
+* dt
+- sự làm thành bất tử, sự làm cho bất diệt, sự làm thành bất hủ, sự làm lưu danh muôn thuở
+ @immortalise   (immoralise) @immortality  
+*  dt
+- tính bất tử, tính bất diệt, tính bất hủ, sự sống mãi
+- danh tiếng đời đời, danh tiếng muôn thuở
+
+@immortalization  
+*  dt
+- sự làm thành bất tử, sự làm cho bất diệt, sự làm thành bất hủ, sự làm lưu danh muôn thuở
+
+@immortalize   (immoralise) @immortally  
+*  dt
+- bất tử, bất diệt, bất hủ, sống mâi, đời đời
+- (thông tục) vô cùng, hết sức
+
+@immortelle  
+*  dt
+- (thực vật học) cây cúc trường sinh
+
+@immortile  
+*  tt
+- không di động được, không chuyển động được
+
+@immovability   (immovableness) @immovable  
+*  tt
+- không chuyển động được, không xê dịch được; bất động
+- bất di bất dịch, không thay đổi
+
++ an immovable stand: lập trường bất di bất dịch
+- không lay chuyển được; không xúc động
+- (pháp lý) bất động (tài sản)
+*  dt,  (thường) số nhiều
+- (pháp lý) của bất động, bất động sản
+
+@immovable
+- không chuyển động được, cố định
+ @immovableness   (immovableness) @immovably
+* dt
+- bất di bất dịch, bất động
+ @immune  
+*  tt
+- miễn khỏi, được miễn (cái gì)
+
++ to be immune from draft: được miễn tòng quân
+
++ to be immune from smallpox: miễn dịch, chống bệnh đậu mùa
+*  dt
+- (y học) người được miễn dịch
+
+@immune body   (immune_body) @immune serum  
+*  dt
+- (y học) huyết thanh miễn dịch
+
+@immunisation
+* dt
+- <y> sự tạo miễn dịch, sự chủng ngừa
+ @immunise   (immunise) @immunity  
+*  dt
+- sự miễn, sự được miễm
+
++ immunity from taxation: sự được miễm thuế
+- (y học) sự miễm dịch
+
+@immunization  
+*  dt
+- (y học) sự tạo miễm dịch
+
+@immunize   (immunise) @immunizer  
+*  dt
+- người gây miễn dịch
+- (từ Mỹ,nghĩa Mỹ) người làm mất hiệu lực, người làm mất tác hại
+
+@immunoadsorbent
+* dt
+- chất ngoại hấp miễn dịch
+ @immunochemistry
+* dt
+- hoá học của hệ thống miễn dịch
+ @immunogen
+* dt
+- chất kháng nguyên
+ @immunoglobulin
+* dt
+- globulin miễn dịch
+ @immunohaematology
+* dt
+- miễn dịch học máu
+ @immunologic   (immunological) @immunological   (immunological) @immunologically
+- xem immunology
+ @immunologist  
+*  dt
+- (y học) nhà nghiên cứu miễn dịch
+
+@immunology  
+*  dt
+- (y học) môn nghiên cứu miễn dịch, miễn dịch học
+
+@immure  
+*  ngdgt
+- cầm tù, giam hãm
+
++ to immure oneself: xa lánh mọi người sống đơn độc, giam mình trong bốn bức tường
+- xây vào trong tường, chôn vào trong tường; vây tường xung quanh
+
+@immurement  
+*  dt
+- sự giam cầm, sự giam hãm
+- sự xây vào trong tường, sự chôn vào trong tường; sự xây tường xung quanh
+
+@immusical  
+*  tt
+- không có tính chất nhạc, không du dương
+
++ unmusical sound: âm thanh không du dương
+- không thích nhạc; không biết thưởng thức nhạc
+
+@immutability   (immutableness) @immutable  
+*  tt
+- không thay đổi, không biến đổi; không thể thay đổi được, không thể biến đổi được
+
+@immutableness   (immutableness) @immutably
+* dt
+- bất biến, bất di bất dịch
+ @imno
+- Trong các hội nghị trực tuyến, đây là những ký tự vt của In My Humbbe Opinion
+ @imo
+* (viết tắt)
+- Tổ chức hàng hải quốc tế (International Maritime Organization)
+- viết tắt
+- Tổ chức hàng hải quốc tế (International Maritime Organization)
+ @imp  
+*  dt
+- tiểu yêu, tiểu quỷ
+- đứa trẻ tinh quái
+- (từ cổ,nghĩa cổ) đứa trẻ con
+*  ngdgt
+- chắp lông, cấy lông (cho cánh chim ưng bị gãy)
+- (từ Mỹ,nghĩa Mỹ) mở rộng, thêm vào; sửa chữa
+
+@impact  
+*  dt
+- sự va chạm, sự chạm mạnh; sức va chạm
+
++ head-on impact: (vật lý) sự va chạm trực diện
+
++ back impact: (vật lý) sự va chạm giật lùi
+- tác động, ảnh hưởng
+*  ngdgt
+- (: in,  into) đóng chặt vào, lèn chặt vào, nêm chặt vào
+- va mạnh vào, chạm mạnh vào
+*  ndgt
+- va mạnh, chạm mạnh
+- tác động mạnh ((nghĩa đen) & (nghĩa bóng))
+
+@impact
+- va, va chạm
+- plastic i. va chạm dẻo 
+ @Impact analysis
+- (Econ) Phân tích tác động.
+: Một tên gọi chung cho những kỹ thuật dùng để đo lượng ảnh hưởng của một thay đổi nhất định trong hoạt động kinh tế đến một nền kinh tế cấp vùng hay cấp địa phương.
+ @Impact multiplier
+- (Econ) Số nhân tác động
+: Tác động ngay tức thì của một thay đổi trong BIẾN NGOẠI SINH lên BIẾN NỘI SINH, tương phản với tác động tổng hợp hay dài hạn của sự thay đổi này.
+ @Impact of taxation
+- (Econ) Tác động của việc đánh thuế.
+: Đề cập đến một người, một công ty hay một giao dịch bị đánh thuế.
+ @impacted  
+*  tt
+- lèn chặt, nêm chặt
+- chật ních
+
+@impactful  
+*  tt
+- tác động mạnh mẽ
+
+@impaction  
+*  dt
+- sự đóng chặt vào, sự lèn chặt vào, sự nêm chặt vào
+- sự va mạnh, sự chạm mạnh
+- sự tác động mạnh
+
+@impactive  
+*  tt
+- do va mạnh, do chạm mạnh
+- do tác động mạnh
+
+@impair  
+*  ngdgt
+- làm suy yếu, làm sút kém
+
++ to impair someone's health: làm suy yếu sức khoẻ ai
+- làm hư hỏng, làm hư hại
+
+@impairable  
+*  tt
+- có thể bị suy yếu, có thể bị làm sút kém
+- có thể làm cho hư hỏng, có thể bị hư hại
+
+@impairer  
+*  dt
+- người làm suy yếu, người làm sút kém
+- người làm hư hỏng, người làm hư hại
+
+@impairment  
+*  dt
+- sự làm suy yếu, sự làm sút kém; sự suy yếu, sự sút kém
+- sự làm hư hỏng, sự làm hư hại; sự hư hỏng, sự hư hại
+
+@impala  
+*  dt
+- (động vật học) linh dương Châu phi
+
+@impale   (empale) @impalement  
+*  dt
+- sự đâm qua, sự xiên qua
+- sự đóng cọc xiên qua (người...) (một lối hình phạt xưa)
+- (từ hiếm,nghĩa hiếm) sự rào bằng cọc
+
+@impaler  
+*  dt
+- người xiên qua
+
+@impalpability  
+*  dt
+- tính khó sờ thấy
+- tính khó nhận thức được, tính khó cảm thấy
+
+@impalpable  
+*  tt
+- khó sờ thấy; rất nhỏ, rất mịn
+- khó nhận thức được, khó cảm thấy; rất tinh tế
+
+@impalpably
+- xem impalpable
+ @impaludism  
+*  dt
+- (y học) bệnh sốt rét
+
+@impanel   (impanel) @impanelment
+- xem impanel
+ @imparadise  
+*  ngdgt
+- dẫn đến thiên đường; đưa lên nơi hạnh phúc tuyệt vời, làm cho sung sướng tuyệt vời
+- biến (nơi nào...) thành thiên đường
+
+@imparipinnate  
+*  tt
+- (thực vật học) hình lông chim lẻ (lá)
+
+@imparisyllabic
+* tt
+- có số âm tiết khác nhau trong những hình thức ngữ pháp khác nhau
+ @imparity  
+*  dt
+- sự thiếu bình đẳng
+- sự khác nhau, sự chênh lệch
+
+@impark  
+*  ngdgt
+- nhốt (súc vật) trong bãi rào chăn nuôi
+- rào (khu đất) để làm bãi chăn nuôi
+- khoanh (khu đất) làm công viên
+
+@imparkation  
+*  dt
+- sự nhốt súc vật trong bãi rào chăn nuôi
+- sự rào khu đất để làm bâi chăn nuôi; khu đất được rào làm bãi chăn nuôi
+- sự khoanh khu đất làm công viên; khu đất được khoanh làm công viên
+
+@impart  
+*  ndgt
+- (pháp lý) dàn xếp với nhau người toà án
+*  ngdgt
+- truyền đạt, kể cho hay, phổ biến
+
++ to impart news: phổ biến tin tức
+- cho, chia phần cho
+
+@impart
+- báo tin, truyền
+ @impartable  
+*  tt
+- có thể truyền đạt, có thể kể cho hay, có thể phổ biến
+- có thể cho, có thể chia phần cho
+
+@impartation   (impartment) @impartial  
+*  tt
+- công bằng, không thiên vị, vô tư
+
+@impartiality   (impartialness) @impartially
+* dt
+- công bằng, không thiên vị, vô tư
+ @impartialness   (impartialness) @impartibility  
+*  dt
+- tính không được chia (tài sản)
+
+@impartible  
+*  tt
+- không được chia (tài sản)
+
+@impartibly
+- xem impartible
+ @impartment   (impartment) @impassability   (impassableness) @impassable  
+*  tt
+- không thể qua được, không thể vượt qua được
+
++ impassable mountain: những dây núi không thể vượt qua được
+
+@impassableness   (impassableness) @impassably
+- xem impassable
+ @impasse  
+*  dt
+- ngõ cụt
+- thế bế tắc, thế không lối thoát
+
+@impassibility  
+*  dt
+- tính trơ trơ, tính không xúc động, tính không mủi lòng, tính không động lòng, tính vô tình
+- tính không biết đau đớn
+- tính không thể làm tổn thương được
+
+@impassible  
+*  tt ((cũng) impassive)
+- trơ trơ, không xúc động, không mủi lòng, không động lòng, vô tình
+- không biết đau đớn
+- không thể làm tổn thương được
+
+@impassibleness  
+*  dt
+- tính trơ trơ, tính không xúc động, tính không mủi lòng, tính không động lòng, tính vô tình
+- tính không biết đau đớn
+- tính không thể làm tổn thương được
+
+@impassibly
+- xem impassible
+ @impassion  
+*  ngdgt,  (thường) động tt quá khứ
+- làm say sưa, làm say mê
+- làm sôi nổi, làm xúc động mạnh, kích thích mãnh liệt
+
+@impassioned  
+*  tt
+- say sưa, say mê
+
++ an impassioned arator: diễn giả say sưa
+- sôi nổi, xúc động mạnh, bị kích thích mãnh liệt
+
++ an impassioned speech: bài nói sôi nổi
+
+@impassionedness  
+*  dt
+- sự say sưa, sự say mê
+- tính chất sôi nổi, sự hăng hái; nhiệt tình; tình trạng xúc động mạnh, tình trạng bị kích thích mãnh liệt
+
+@impassive  
+*  tt
+- (như) impassible
+- không cảm giác
+- trầm tĩnh, điềm tĩnh
+
+@impassively
+* dt
+- bình thản, dửng dưng
+ @impassiveness   (impassivity) @impassivity   (impassivity) @impastation  
+*  dt
+- sự bao bột (món ăn)
+- sự nhào thành bột nhão
+- (nghệ thuật) sự đắp
+
+@impaste  
+*  ngdgt
+- bao bột (món ăn)
+- nhào thành bột nhão
+- (nghệ thuật) đắp
+
+@impasto  
+*  dt
+- (nghệ thuật) lối vẽ đắp
+
+@impastoed
+* tt
+- thuộc kỹ thuật dùng chất màu đậm đặc trong bức hoạ
+ @impatience   (impatientness) @impatiens  
+*  dt
+- (thực vật học) giống cây bóng nước
+
+@impatient  
+*  tt
+- thiếu kiên nhẫn, không kiên tâm, nóng vội, nôn nóng; hay sốt ruột
+
++ to be impatient for something: nôn nóng muốn cái gì
+- (: of) không chịu đựng được, không dung thứ được, khó chịu (cái gì)
+
++ impatient of reproof: không chịu đựng được sự quở trách
+
+@impatiently
+* dt
+- nóng lòng, nôn nóng, sốt ruột
+ @impatientness   (impatientness) @impawn  
+*  ngdgt
+- cầm, cầm cố (đồ đạc...)
+- (nghĩa bóng) hứa chắc, nguyện chắc
+
+@impeach  
+*  ngdgt
+- đặt thành vấn đề nghi ngờ
+
++ his veracity cannot be impeached: không ai có thể nghi ngờ được cái tính chân thực của anh ta
+- gièm pha, nói xấu, bôi nhọ
+- buộc tội; tố cáo
+
++ to impeach somebody of (with) theft: buộc tội ai ăn cắp
+- bắt lỗi, bẻ lỗi, chê trách (cái gì)
+- buộc tội phản quốc, buộc trọng tội (trước toà án có thẩm quyền)
+
+@impeachability  
+*  dt
+- sự có thể đặt thành vấn đề nghi ngờ
+- gièm pha, nói xấu, bôi nhọ
+- sự có thể bị buộc tội, sự có thể bị tố cáo
+- sự có thể bị bắt lỗi, sự có thể bị chê trách
+- sự có thể bị buộc tội phản quốc, sự có thể bị buộc trọng tội (trước toà án có thẩm quyền)
+
+@impeachable  
+*  tt
+- có thể đặt thành vấn đề nghi ngờ
+- có thể bị gièm pha, có thể bị nói xấu, có thể bị bôi nhọ
+- có thể bị buộc tội, có thể bị tố cáo
+- có thể bị bắt lỗi, có thể bị chê trách
+- có thể bị buộc tội phản quốc, có thể bị buộc trọng tội (trước toà án có thẩm quyền)
+
+@impeacher  
+*  dt
+- người đặt thành vấn đề nghi ngờ
+- người gièm pha, người nói xấu, người bôi nhọ
+- người buộc tội, người tố cáo
+- người bắt lỗi, người chê trách
+- người buộc tội phản quốc, người buộc trọng tội
+
+@impeachment  
+*  dt
+- sự đặt thành vấn đề nghi ngờ
+- sự gièm pha, sự nói xấu, sự bôi nhọ
+- sự buộc tội, sự tố cáo
+- sự bắt lỗi, sự chê trách
+- sự buộc tội phản quốc, sự buộc trọng tội (trước toà án có thẩm quyền)
+
+@impearl  
+*  ngdgt
+- làm thành hạt ngọc trai
+- nạm ngọc trai, trang trí bằng ngọc trai
+- làm sáng như ngọc trai
+
+@impeccability   (impeccableness) @impeccable  
+*  tt
+- hoàn hảo, không chê vào đâu được, không có chỗ xấu, không tỳ vết (đồ vật...)
+- không thể phạm tội lỗi, không thể phạm sai lầm, không thể mắc khuyết điểm (người)
+*  dt,  (từ Mỹ,nghĩa Mỹ),  (từ hiếm,nghĩa hiếm)
+- người hoàn hảo
+- người không thể phạm tội lỗi, người không thể phạm sai lầm, người không thể mắc khuyết điểm
+
+@impeccableness   (impeccableness) @impeccably
+* dt
+- hoàn hảo, không chê vào đâu được
+ @impeccance   (impeccancy) @impeccancy   (impeccancy) @impeccant  
+*  tt
+- không có tội, không có sai lầm khuyết điểm; không có gì chê trách được
+
+@impecuniosity   (impecuniousness) @impecunious  
+*  tt
+- túng thiếu
+
+@impecuniously
+* dt
+- túng thiếu, túng quẫn
+ @impecuniousness   (impecuniousness) @impedance  
+*  dt
+- (điện học) trở kháng
+
++ internal impedance: trở kháng trong
+
++ acoustic impedance: trở kháng âm học
+
+@impedance
+- (vật lí) trở kháng
+- acoustical i. trở kháng âm
+- charateristic i. trở kháng đặc trưng
+- conjugate i.s. trở kháng liên hợp
+- electrical i. trở kháng điện
+- high frequence i. trở kháng cao tần
+- intrisnic i. trở kháng tự tại
+- mechanical i. trở kháng cơ học
+- mutual i. trở kháng tương hỗ
+- radiation i. trở kháng bức xạ
+- simulating i. trở kháng phỏng theo
+- transfer i. trở kháng chuyển vận
+- wave i. trở kháng sóng 
+ @impede  
+*  ngdgt
+- làm trở ngại, ngăn cản, cản trở
+
+@impede
+- cản trở
+ @impeder  
+*  dt
+- người làm trở ngại, người ngăn cản, người cản trở
+
+@impedient  
+*  tt
+- làm trở ngại, ngăn cản, cản trở
+*  dt
+- điều làm trở ngại, điều ngăn cản, vật chướng ngại
+
+@impediment  
+*  dt
+- sự trở ngại, sự ngăn trở, điều làm trở ngại, điều ngăn trở, vật chướng ngại
+- điều làm trở ngại việc ký kết giao kèo; điều làm trở ngại việc đăng ký giá thú
+
++ impediment in one's speech: sự nói lắp
+- (số nhiều) (từ hiếm,nghĩa hiếm) đồ đạc hành lý (của quân đội)
+
+@impedimenta  
+*  dt số nhiều
+- đồ đạc hành lý (của quân đội)
+
+@impedimental   (impedimental) @impedimentary   (impedimental) @impedingly  
+*  dt
+- trở ngại, ngăn cản, cản trở
+
+@impeditive  
+*  tt
+- có xu hướng làm trở ngại, có xu hướng làm ngăn cản, có xu hướng làm cản trở
+
+@impel  
+*  ngdgt
+- đẩy, đẩy về phía trước
+- thúc ép, buộc tội, bắt buộc
+
++ to be impelled to retreat: bị buộc phải rút lui
+
+@impellent  
+*  tt
+- đẩy, đẩy về phía trước
+- thúc ép, buộc tội, bắt buộc
+
+@impeller  
+*  dt
+- sức đẩy, sức đẩy về phía trước
+- điều thúc ép, điều buộc tội, điều bắt buộc
+*  dt
+- người thúc đẩy; vật thúc đẩy
+- (kỹ thuật) bánh công tác
+
+@impend  
+*  ndgt
+- sắp xảy đến
+- (: over) treo, treo lơ lửng
+- (nghĩa bóng) (: over) đang đe doạ, đang lơ lửng trên đầu
+
++ great dangers are impending over them: những mối nguy hiểm đang lơ lửng trên đầu họ
+
+@impendence   (impendency) @impendency
+* dt
+- tình trạng sắp xảy đến, tình trạng sắp xảy đến trước mắt
+ @impendent  
+*  tt
+- sắp xảy đến, xảy đến trước mắt
+
+@impending  
+*  tt
+- sắp xảy đến, xảy đến trước mắt
+- treo, treo lơ lửng
+- (nghĩa bóng) đang đe doạ, lơ lửng trên đầu
+
++ on impending storm: cơn bâo đang đe doạ
+
++ impending dangers: những mối nguy hiểm đang lơ lửng trên đầu (đang đe doạ)
+
+@impenetrability   (impenetrableness) @impenetrable  
+*  tt
+- không thể qua được, không thể xuyên thủng
+
++ impenetrable forests: những khu rừng không thể qua được
+
++ impenetrable rocks: đá cứng không thể xuyên thủng
+
++ impenetrable darkness: bóng tối dày đặc
+- không thể dò được; không thể hiểu thấu được; không thể tiếp thu được; không thể lĩnh hội được
+
++ an impenetrable plot: một mưu đồ bí hiểm không thể dò được
+
++ a mind impenetrable by (to) new ideas: một bộ óc không thể tiếp thu được những tư tưởng mới
+- (vật lý) chắn
+
+@impenetrableness   (impenetrableness) @impenetrably
+* dt
+- không thể hiểu nổi, không thể thấu nổi
+ @impenetrate  
+*  ngdgt
+- xuyên qua, xuyên sâu
+- thấm sâu vào
+
+@impenitence   (impenitency) @impenitency   (impenitency) @impenitent  
+*  tt
+- không hối cãi, không ăn năn hối hận chứng nào tật ấy
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người không hối cãi, người không ăn năn hối hận
+
+@impenitently
+* dt
+- không hối tiếc, chứng nào tật nấy
+ @impenitentness   (impenitency) @impennate  
+*  tt
+- (động vật học) (thuộc) bộ chim cụt
+
+@imperatival  
+*  tt
+- (ngôn ngữ học) (thuộc) lối mệnh lệnh
+
+@imperative  
+*  tt
+- cấp bách, khẩn thiết
+
++ an imperative need: một nhu cầu cấp bách
+- bắt buộc, cưỡng bách, cưỡng chế
+
++ imperative orders: mệnh lệnh có tính chất bắt buộc
+- có tính chất sai khiến, có tính chất mệnh lệnh
+
++ an imperative gesture: một cử chỉ có tính chất mệnh lệnh
+- (ngôn ngữ học) mệnh lệnh
+
++ the imperative mood: lối mệnh lệnh
+*  dt
+- mệnh lệnh
+- điều đòi hỏi phải chú ý, điều đòi hỏi phải hành động; sự bắt buộc
+- nhu cầu
+- (ngôn ngữ học) lối mệnh lệnh; động tà ở lối mệnh lệnh
+
+@imperatively
+* dt
+- với vẻ sai khiến, với vẻ ra lệnh
+ @imperativeness  
+*  dt
+- tính chất cấp bách
+- tính chất sai khiến, tính chất mệnh lệnh
+
+@imperator  
+*  dt,  (sử học) La-mâ
+- Impêrato, thống soái
+- Hoàng đế
+
+@imperatorial  
+*  tt,  (sử học) La-mâ
+- (thuộc) thống soái
+- (thuộc) Hoàng đế
+
+@imperceptibility   (imperceptibleness) @imperceptible  
+*  tt
+- không thể cảm thấy; không thể nhận thấy
+- rất nhỉ, rất tinh tế
+
+@imperceptibleness   (imperceptibleness) @imperceptibly
+* dt
+- không thể nhận thấy, không thể cảm thấy
+ @imperception  
+*  dt
+- sự không nhạy cảm
+
+@imperceptive  
+*  tt
+- không nhạy cảm
+
+@imperceptiveness   (imperceptiveness) @imperceptivity   (imperceptiveness) @impercipience  
+*  dt
+- tính không nhạy bén
+
+@impercipient  
+*  tt
+- thiếu nhạy cảm; kém nhạy cảm
+
+@imperence  
+*  dt
+- sự trơ tráo, sự vô liêm sỉ
+
+@imperfect  
+*  tt
+- không hoàn hảo, không hoàn chỉnh, không hoàn toàn
+- chưa hoàn thành, còn dở dang
+- (ngôn ngữ học) (thuộc) thời quá khứ chưa hoàn thành
+*  dt
+- (ngôn ngữ học) thời quá khứ chưa hoàn thành
+
+@imperfect
+- hỏng, không hoàn thiện
+ @Imperfect competition
+- (Econ) Cạnh tranh không hoàn hảo.
+: Một cụm thuật ngữ chung có thể được sử dụng theo 2 cách. 1)Dùng để chỉ bất kỳ một dạng cơ cấu thị trường nào không pahỉ là cạnh tranh hoàn hảo và do vậy nó bao gồm CẠNH TRANH ĐỘC QUYỀN, ĐỘC QUYỀN NHÓM và ĐỘC QUYỀN. 2)Dùng để chỉ bất kỳ một cơ cấu thị trường nào không phải là CẠNH TRANH HOÀN HẢO và ĐỘC QUYỀN.
+ @imperfect fungus  
+*  dt
+- (thực vật học) nấm bất toàn
+
+@Imperfect market
+- (Econ) Thị trường không hoàn hảo.
+: Là thị trường trong đó các điều kiện sau đây của một thị trường hoàn hảo không được thoả mãn: 1)Sản phẩm đồng nhất. 2)Một số lớn người mua và người bán. 3)Người mua và người bán có quyền tự do nhập và ra khỏi thị trường. 4)Tất cả người mua và người bán đều có thông tin hoàn hảo và thấy được trước tập hợp các mức giá hiện tại và tương lai. 5)Lượng mua và lượng bán của từng thành viên thị trường là không đáng kể so với tổng khối lượng giao dịch. 6)Không có sự kết cấu giữa người bán và người mua. 7)Người tiêu dùng cực đại hoá tổng ĐỘ THOẢ DỤNG và người bán cực đại hoá TỔNG LỢ NHUẬN. 8)Hàng hoá có khả năng chuyển nhượng.
+ @imperfectible  
+*  tt
+- không thể làm hoàn hảo được; không thể làm hoàn chỉnh được
+- không thể hoàn thành được
+
+@imperfection  
+*  dt
+- (như) imperfectness
+- lỗi lầm sai sót, thiếu sót
+
+@imperfection
+- sự hỏng, sự không hoàn thiện
+ @imperfective  
+*  tt
+- (ngôn ngữ học) chưa hoàn thành
+*  dt
+- (ngôn ngữ học) thể chưa hoàn thành
+
+@imperfectly
+* dt
+- dở dang, thiếu sót
+ @imperfectness  
+*  dt ((cũng) imperfection)
+- sự không hoàn hảo, sự không hoàn chỉnh, sự không hoàn toàn
+- sự chưa hoàn thành, sự dở dang
+
+@imperforate  
+*  tt
+- (giải phẫu) không thủng, không thủng lỗ
+- không có rìa răng cưa (tem)
+*  dt
+- (từ Mỹ,nghĩa Mỹ) tem không có rìa răng cưa
+
+@imperforation  
+*  dt
+- (giải phẫu) trạng thái không thủng, trạng thái không thủng lỗ
+- sự không có rìa răng cưa (tem)
+
+@imperial  
+*  tt
+- (thuộc) hoàng đế
+- (thuộc) đế quốc
+- có toàn quyền; có uy quyền lớn
+- uy nghi, oai vệ, đường bệ; lộng lẫy, tráng lệ, nguy nga
+- (từ Mỹ,nghĩa Mỹ) hống hách
+- (thuộc) hệ thống đo lường Anh
+
++ imperial acre: mẫu Anh
+- (từ Mỹ,nghĩa Mỹ) thượng hạng (hàng)
+- khổ 22 x 32 insơ (giấy) ((từ Mỹ,nghĩa Mỹ); khổ 23 x 31 insơ)
+*  dt
+- chòm râu (dưới) môi dưới
+- mui xe ngựa dùng để hành lý
+- đồng 15 rúp (thời Nga hoàng)
+- (từ Mỹ,nghĩa Mỹ) hàng loại thượng hạng (thường dùng để đặt nhãn hiệu)
+- giấy khổ 22 x 32 insơ; ((từ Mỹ,nghĩa Mỹ); khổ 23 x 31 insơ)
+
+@imperialisation
+* dt
+- sự đế quốc hoá (một chính thể)
+- sự đặt dưới quyền thống trị của hoàng đế
+- sự phong làm hoàng đế
+ @imperialise   (imperialise) @imperialism  
+*  dt
+- chủ nghĩa đế quốc
+- nước đế quốc
+- (sử học) sự thống trị của hoàng đế
+
+@Imperialism
+- (Econ) Chủ nghĩa đế quốc.
+: Theo tư tưởng Mac-xít hay tư tưởng Xã hội chủ nghĩa thì Chủ nghĩa đế quốc là một chính sách của nước ngoài nhằm tìm cách áp dụng sự kiêm soát về chính trị và kinh tế đối với khu vực lạc hậu để đảm bảo cho nước chủ có được một thị trường tương đối với những khoản tiền tiết kiệm nhàn rỗi và các hàng hoá chế tạo dư thừa nhằm đổi lấy các nguyên vật liệu chiến lược.
+ @imperialist  
+*  dt
+- người theo chủ nghĩa đế quốc
+- tên đế quốc
+- (sử học) người ủng hộ hoàng đế; người ủng hộ sự thống trị của hoàng đế
+*  tt: (imperialistic) @imperialistic  
+*  dt
+- người theo chủ nghĩa đế quốc
+- tên đế quốc
+- (sử học) người ủng hộ hoàng đế; người ủng hộ sự thống trị của hoàng đế
+*  tt: (imperialistic) @imperialistically
+- xem imperialism
+ @imperialization  
+*  dt
+- sự đế quốc hoá (một chính thể)
+- sự đặt dưới quyền thống trị của hoàng đế
+- sự phong làm hoàng đế
+
+@imperialize   (imperialise) @imperially
+* dt
+- uy nghi, đường bệ
+ @imperialness  
+*  dt
+- tính chất hoàng đế
+- tính chất đế quốc
+- toàn quyền, uy quyền lớn
+- vẻ uy nghi, vẻ oai vệ, vẻ đường bệ; vẻ lộng lẫy; vẻ tráng lệ, vẻ nguy nga
+- (từ Mỹ,nghĩa Mỹ) thái độ hống hách
+
+@imperil  
+*  ngdgt
+- đẩy vào tình trạng hiểm nghèo, làm nguy hiểm
+
+@imperilment  
+*  dt
+- sự đẩy vào tình trạng hiểm nghèo, sự làm nguy hiểm
+
+@imperious  
+*  tt
+- hống hách; độc đoán
+
++ to wear an imperious look: có vẻ hống hách
+- khẩn cấp, cấp nhiệt, cấp bách
+
++ imperious oeders: những mệnh lệnh khẩn cấp
+
+@imperiously
+* dt
+- hống hách, độc đoán
+ @imperiousness  
+*  dt
+- tính hống hách; tính độc đoán
+- tính khẩn cấp, tính cấp thiết, tính cấp bách
+
+@imperishability   (imperishability) @imperishable  
+*  tt
+- bất hủ, bất tử, bất diệt; không thể tiêu diệt được
+- tồn tại lâu dài
+
+@imperishableness   (imperishability) @imperishably
+- xem imperishable
+ @imperium  
+*  dt
+- quyền tuyệt đối
+- đế quốc
+- (pháp lý) quyền sử dụng lực lượng nhà nước để thi hành luật pháp
+
+@impermanence   (impermanency) @impermanency   (impermanency) @impermanent  
+*  tt
+- không thường xuyên năm khi mười hoạ
+- tạm thời, nhất thời, không lâu bền, không trường cửu, không vĩnh viễn
+
+@impermeability   (impermeableness) @impermeable  
+*  tt
+- không thấm được, không thấm nước
+
++ impermeable cotton: bông không thấm nước
+
+@impermeableness   (impermeableness) @impermeably
+- xem impermeable
+ @impermissibility  
+*  dt
+- sự bị cấm, sự không thể cho phép được
+
+@impermissible  
+*  tt
+- cấm, không thể cho phép
+
++ impermissible goods: hàng cấm không được bán
+
+@impermissibly
+- xem impermissible
+ @imperscriptible  
+*  tt
+- không dựa trên văn bản
+
+@impersonal  
+*  tt
+- không liên quan đến riêng ai, không nói về riêng ai, không ám chỉ riêng ai, nói trống, bâng quơ; khách quan
+
++ an impersonal remark: một lời nhận xét bâng quơ
+
++ an impersonal attitude: thái độ khách quan
+- không có cá tính con người
+- (ngôn ngữ học) không ngôi
+
++ impersonal pronoun: đại từ không ngôi
+
+@impersonalisation
+* dt
+- sự làm mất cá tính con người
+ @impersonalise   (impersonalise) @impersonalism  
+*  dt,  (từ Mỹ,nghĩa Mỹ)
+- sự quan hệ chung chung với mọi người
+- (như) impersonality
+
+@impersonality  
+*  dt ((cũng) impersonalism)
+- sự thiếu cá tính con người
+
++ the impersonality of an automated world: sự thiếu cá tính con người của một thế giới tự động hoá
+- sự thiếu quan tâm đến con người
+- điều không liên quan đến riêng ai, điều không dính dáng đến riêng ai, điều không ám chỉ riêng ai
+
+@impersonalization  
+*  dt
+- sự làm mất cá tính con người
+
+@impersonalize   (impersonalise) @impersonally
+* dt
+- không nhằm vào ai, bâng quơ
+ @impersonate  
+*  ngdgt
+- thể hiện dưới dạng người, nhân cách hoá
+- là hiện thân cho
+
++ he impersonated the fighting spirit of the people: anh ta là hiện thân cho tinh thần chiến đấu của nhân dân
+- đóng vai, thủ vai
+
++ to impersonate many of Shakespear's heroes: đóng vai chính trong các vở kịch của Sếch-xpia
+- nhại (ai) để làm trò
+- mạo nhận là (ai)
+
+@impersonation  
+*  dt
+- sự thể hiện dưới dạng người, sự nhân cách hoá
+- sự hiện thân
+- sự đóng vai, sự thủ vai
+- sự nhại (ai) để làm trò
+- sự mạo nhận danh nghĩa người khác
+
+@impersonative  
+*  tt
+- để thể hiện dưới dạng người, để nhân cách hoá
+- để hiện thân
+- để đóng vai, để thủ vai
+- để nhại làm trò
+- để mạo nhận danh nghĩa người khác
+
+@impersonator  
+*  dt
+- người đóng vai, người thủ vai
+- người làm trò nhại ai
+- người mạo nhận danh nghĩa người khác
+
+@impersonify   (impersonify) @impertinence   (impertinency) @impertinency   (impertinency) @impertinent  
+*  tt
+- xấc láo, láo xược, xấc xược
+- lạc lõng, lạc đề, không đúng chỗ, không đúng lúc
+- phi lý, vô lý, không thích đáng, không thích hợp
+- xen vào, chõ vào, dính vào
+
+@impertinently
+* dt
+- xấc láo, xấc xược
+ @impertinentness  
+*  dt ((cũng) impertinence,  impertinency)
+- sự xấc láo, sự láo xược, sự xấc xược
+- sự lạc lõng, sự lạc đề, sự không đúng chỗ, sự không đúng lúc
+- sự phi lý, sự vô lý, sự không thích đáng, sự không thích hợp
+- sự xen vào, sự chõ vào, sự dính vào
+
+@imperturbability   (imperturbableness) @imperturbable  
+*  tt
+- điềm tĩnh, bình tĩnh; không hề bối rối, không hề nao núng
+
+@imperturbableness   (imperturbableness) @imperturbably
+* dt
+- điềm tựnh, không nao núng
+ @imperturbation  
+*  dt
+- sự điềm tĩnh, sự bình tĩnh; sự không hề bối rối, sự không hề nao núng
+
+@imperviable   (impervious) @impervious
+* tt
+- không thấu qua được, không thấm (nước...)
+- không tiếp thu được, trơ trơ
+- <Mỹ> không thể bị hư hỏng
+ @imperviously
+- xem impervious
+ @imperviousness  
+*  dt
+- sự không thấu qua được, sự không thấm (nước...)
+- sự không tiếp thu được, sự trơ trơ
+- (từ Mỹ,nghĩa Mỹ) sự không thể bị hư hỏng
+
+@impetiginous  
+*  tt
+- (y học) chốc lở, mắc bệnh chốc lở
+
+@impetigo  
+*  dt
+- (y học) bệnh chốc lở
+
+@impetrate  
+*  ngdgt
+- (tôn giáo) khẩn cầu được (cái gì)
+- (từ hiếm,nghĩa hiếm) xin, nài xin
+
+@impetration  
+*  dt
+- (tôn giáo) sự khẩn cầu được (cái gì)
+- (từ hiếm,nghĩa hiếm) sự xin, sự nài xin
+
+@impetrative  
+*  tt
+- (tôn giáo) để khẩn cầu được (cái gì)
+- (từ hiếm,nghĩa hiếm) để xin, để nài xin
+
+@impetrator  
+*  dt
+- (tôn giáo) người khẩn cầu được
+- (từ hiếm,nghĩa hiếm) người xin, người nài xin
+
+@impetuosity   (impetuousness) @impetuous  
+*  tt
+- mạnh mẽ, dữ dội, mãnh liệt
+
++ an impetuous storm: cơn bão dữ dội
+
++ an impetuous attack: cuộc tấn công mãnh liệt
+
++ an impetuous rain: mưa xối xả
+- bốc, hăng
+
+@impetuously
+* dt
+- dữ dội, mãnh liệt
+ @impetuousness   (impetuousness) @impetus  
+*  dt
+- sức xô tới, sức đẩy tới
+- (nghĩa bóng) sự thúc đẩy
+
+@impiety  
+*  dt
+- sự không tín ngưỡng, sự không kính Chúa, sự nghịch đạo
+- (từ hiếm,nghĩa hiếm) sự bất kính, sự bất hiếu; hành động bất kính, hành động bất hiếu; lời nói bất kính
+
+@impinge  
+*  đại từ
+- đụng chạm, va chạm
+
++ to impinge on (upon, against) something: đụng phải vật gì
+- tác động, ảnh hưởng
+- chạm đến, vi phạm
+
++ to impinge on (upon) somebody's interest: vi phạm đến quyền lợi của ai
+
+@impingement  
+*  dt
+- sự đụng chạm, sự va chạm
+- sự tác động, sự ảnh hưởng
+- sự chạm đến, sự vi phạm
+
+@impinger
+- xem impinge
+ @impious  
+*  tt
+- không tín ngưỡng, không kính Chúa, nghịch đạo
+- (từ hiếm,nghĩa hiếm) bất kính, bất hiếu
+
+@impiously
+* dt
+- bất kính, bất hiếu
+ @impiousness
+- xem impious
+ @impish  
+*  tt
+- (thuộc) ma quỷ; như ma quỷ
+- tinh quái, tinh ma quỷ quái
+
++ an impish boy: một thằng bé tinh quái
+
+@impishly
+* dt
+- ranh mãnh, tinh ma quỷ quái
+ @impishness  
+*  dt
+- tính tinh quái, tính tinh ma quỷ quái
+
+@impiteous  
+*  tt
+- (thơ ca) tàn nhẫn, nhẫm tâm
+
+@implacability   (implacableness) @implacable  
+*  tt
+- không thể làm xiêu lòng, không thể làm mủi lòng
+- không thể làm nguôi được, không thể làm dịu được
+
+@implacableness   (implacableness) @implacably
+* dt
+- kiên quyết, nhất quyết
+ @implacental   (implacentate) @implacentate   (implacentate) @implant  
+*  ngdgt
+- (: in) đóng sâu vào, cắm chặt vào
+- ghi khắc, in sâu (vào tâm trí...); gây, làm nhiễm (những thói quen)
+
++ to implant ideas in the mind: in sâu những tư tưởng vào trí óc
+
++ deeply implanted hatred: mối thù ghi xương khắc cốt
+- (từ hiếm,nghĩa hiếm) trồng
+- (y học) cấy dưới da
+*  dt
+- (y học) mô cấy
+- ống phóng xạ (chữa ung thư...)
+
+@implantable
+- xem implant
+ @implantation  
+*  dt
+- sự đóng sâu vào, sự cắm chặt vào
+- sự ghi nhớ, sự ghi khắc (vào trí óc...)
+- (từ hiếm,nghĩa hiếm) sự trồng
+- (y học) sự cấy dưới da
+
+@implausibility  
+*  dt
+- sự không có vẻ hợp lý, sự không có vẻ thật, sự đáng ngờ
+
+@implausible  
+*  tt
+- không có vẻ hợp lý, không có vẻ thật, đáng ngờ
+
+@implausibleness
+- xem implausible
+ @implausibly
+- xem implausible
+ @implead  
+*  ngdgt
+- (pháp lý) kiện, khởi tố
+
+@impleadable  
+*  tt
+- (pháp lý) có thể kiện, có thể khởi tố
+
+@impledge  
+*  ndgt
+- cầm cố
+
+@implement  
+*  dt
+- ((thường) số nhiều) đồ dùng (đồ đạc quần áo...), dụng cụ, công cụ; phương tiện
+
++ kitchen implements: dụng cụ làm bếp
+
++ the army is an implement of proletarian power: quân đội là một công cụ của chính quyền vô sản
+- (Ê-cốt) (pháp lý) sự thi hành, sự thực hiện đầy đủ (giao kèo...)
+*  ngdgt
+- thi hành, thực hiện đầy đủ (giao kèo, khế ước...)
+- (từ Mỹ,nghĩa Mỹ) cung cấp dụng cụ
+- bổ sung
+
+@implemental  
+*  tt
+- (thuộc) đồ dùng, (thuộc) dụng cụ; (thuộc) phương tiện
+- (như) implementary
+
+@implementary  
+*  tt
+- (thuộc) sự thi hành ((cũng) implemental)
+
+@implementation  
+*  dt
+- sự thi hành, sự thực hiện đây đủ
+
++ the implementation of an agreement: sự thi hành một hiệp định
+- sự bổ sung
+
+@Implementation lag
+- (Econ) Độ trễ thực hiện.
+: Thời gian cần có để thực thi CHÍNH SÁCH TIỀN TỆ, và còn được gọi là độ trễ bên trong.
+ @implementer
+- xem implement
+ @impletion  
+*  dt
+- sự đầy đủ; sự làm đầy
+
+@implicate  
+*  dt
+- ẩn ý, điều ngụ ý; điều ngụ ý
+*  ngdgt
+- lôi kéo vào, làm vướng vào, làm liên can vào, làm dính líu vào
+
++ to be implicated in a crime: có dính líu vào tội ác
+- ngụ ý, bao hàm, ám chỉ
+
++ silence implicates consent: im lặng là ngụ ý bằng lòng
+- (từ hiếm,nghĩa hiếm) bện lại, tết lại, xoắn lại
+
+@implicate
+- (logic học) kéo theo
+ @implication  
+*  dt
+- sự lôi kéo vào; sự liên can, sự dính líu; ẩn ý, điều ngụ ý; điều gợi ý
+
++ what are the implications of this statement?: những ẩn ý của lời tuyên bố này là thế nào?
+- (số nhiều) quan hệ mật thiết
+- (từ hiếm,nghĩa hiếm) sự bện lại, sự tết lại, sự xoắn lại
+
+@implication
+- (logic học) phép tất suy, sự kéo theo
+- i. of events (xác suất) sự kéo theo các sự kiện 
+- formal i. phép tất suy hình thức 
+- material i. (logic học) phép tất suy thực chất 
+- strict i. phép tất suy ngặt
+- strong i. phép tất suy mạnh 
+ @implicational   (implicatory) @implicative   (implicatory) @implicative
+- tất suy
+ @implicatively
+- xem implication
+ @implicatory   (implicatory) @implicit  
+*  tt
+- ngấm, ngấm ngầm; ẩn tàng
+
++ an implicit threat: mối đe doạ ngầm
+- hoàn toàn tuyệt đối
+
++ implicit obedience: sự tuân lệnh tuyệt đối
+- (toán học) ẩn
+
++ implicit function: hàm ẩn
+
+@Implicit contracts
+- (Econ) Các hợp đồng ẩn.
+: Khái niệm hợp đồng ẩn được sử dụng nhằm cung cấp một cơ sở cho việc tồn tại tiền công và giá cả ít biến đôi và được dựa trên những đặc tính KHÔNG THÍCH RỦI RO khác nhau của chu doanh nghiệp và người làm thuê.
+ @Implicit cost
+- (Econ) Chi phí ẩn.
+: Chi phí cơ hội của việc sử dụng các yếu tố sản xuất mà một nhà sản xuất không phải mua hay thuê mà lại sở hữu chúng.
+ @Implicit function
+- (Econ) Hàm ẩn.
+: Hàm số được biểu diễn dưới dạng không có BIẾN PHỤ THUỘC.
+ @Implicit price deflator
+- (Econ) Chỉ số giảm phát giá ẩn.
+: Một chỉ số giá được sử dụng để giảm phát một hay nhiều thành phần của tài khoản thu nhập quốc dân.
+ @Implicit rental value
+- (Econ) Giá trị tiền thuê ẩn.
+: Giá cả mà người chủ một yếu tố sản xuất dưới dạng vật chất chẳng hạn như tư bản, tính đối với một hãng cho việc sử dụng yếu tố này. Xem USER COST OF CAPITAL.
+ @implicite
+* tt
+- 1Ngầm 2 Hoàn toàn, tuyệt đối
+- implicites
+ @implicite
+- ẩn
+ @implicitly
+* dt
+- hoàn toàn
+ @implicitness   (implicity) @implicity
+* dt
+- sự ngấm ngầm; sự ẩn ý
+- sự hoàn toàn, sự tuyệt đối
+ @implicity
+- tính ẩn
+ @implied  
+*  tt
+- ngụ ý, bao hàm, ám chỉ; mặc nhiên
+
+@implode  
+*  ndgt
+- nổ tung vào trong
+
+@implorable  
+*  tt
+- có thể cầu khẩn, có thể khẩn nài, có thể van xin
+
+@imploration
+- xem implore
+ @implore  
+*  dgt
+- cầu khẩn, khẩn nài, van xin
+
++ to implore someone for something: cầu khẩn ai điều gì
+
++ to implore forgiveness: van xin tha thứ
+
+@implorer  
+*  dt
+- người cầu khẩn, người khẩn nài, người van xin
+
+@imploring  
+*  tt
+- cầu khẩn, khẩn nài, van xin
+
+@imploringly
+* dt
+- khẩn nài, van xin
+ @imploringness  
+*  dt
+- tính chất cầu khẩn, tính chất khẩn nài, tính chất van xin
+
+@implosion  
+*  tt
+- (ngôn ngữ học) khép (âm)
+
+@implosive  
+*  tt
+- (ngôn ngữ học) âm khép
+
+@impluse
+- (máy tính) bộ thu biến xung
+ @impluvium  
+*  dt
+- thống hứng nước mưa ((từ cổ,nghĩa cổ) La-mã)
+
+@imply  
+*  ngdgt
+- ý nói; ngụ ý; bao hàm ý
+
++ silence implies consent: im lặng là ngụ ý bằng lòng
+
++ do you imply that I am not telling the truth?: ý anh muốn nói rằng tôi không kể sự thực phải không?
+
+@imply
+- bao hàm; kéo theo; có hệ quả, có nghĩa; hiểu ngầm là
+ @impolicy  
+*  dt
+- chính sách vụng, chính sách khôn ngoan
+- việc làm thất sách
+
+@impolite   (unpolite) @impolitely
+* dt
+- vô lễ, bất lịch sự, khiếm nhã
+ @impoliteness   (unpoliteness) @impolitic   (unpolitic) @impoliticly
+- xem impolitic
+ @impoliticness  
+*  dt
+- tính chất không chính trị, tính chất không khôn ngoan; tính chất thất sách
+
+@imponderabilia  
+*  dt số nhiều
+- những cái không thể lường được
+
+@imponderability   (imponderableness) @imponderable  
+*  tt
+- (vật lý) không có trọng lượng; rất nhẹ
+- không thể cân được, không thể đo lường được
+- (nghĩa bóng) không thể lường được
+*  dt
+- cái không thể lường được
+
+@imponderableness   (imponderableness) @imponderably
+- xem imponderable
+ @imponent  
+*  tt
+- đề ra một nhiệm vụ
+*  dt
+- đề ra một nhiệm vụ
+
+@import  
+*  dt
+- sự nhập, sự nhập khẩu (hàng hoá)
+- ((thường) số nhiều) hàng nhập, hàng nhập khẩu
+- ý nghĩa, nội dung (của một từ, một văn kiện)
+
++ the import of a statement: nội dung bản tuyên bố
+- tầm quan trọng
+
++ a matter of great import: vấn đề quan trọng
+*  ngdgt
+- nhập, nhập khẩu (hàng hoá...)
+- ngụ ý, ý nói, nghĩa là
+
++ what does this news import?: tin này nghĩa là thế nào?
+- cho biết
+
++ a leter importing that...: một bức thư cho biết rằng...
+- có quan hệ tới; có tầm quan trọng đối với; cần đối với
+
++ it imports us to know...: chúng ta cần phải được biết...
+
+@Import
+- (Econ) Hàng nhập khẩu.
+: Hàng hoá hay dịch vụ được tiêu dùng ở một nước nhưng mua từ nước khác.
+ @Import   nhập khẩu.
+@import
+- mang vào; hiểu ngầm; nhập cảng (hàng hoá)
+ @Import duty
+- (Econ) Thuế nhập khẩu.
+: Xem TARIFFS.
+ @Import quota
+- (Econ) Hạn ngạch nhập khẩu.
+: Xem QUOTA.
+ @Import restrictions
+- (Econ) Các hạn chế nhập khẩu.
+: Các hạn chế về số lượng hoặc chủng loại hàng hoá được nhập khẩu vào một nước thông qua việc sử dụng thuế quan hay hạn ngạch.
+ @Import substitution
+- (Econ) Thay thế nhập khẩu.
+: Một trong những chiến lược phát triển chủ yếu được các nước đang phát triển lựa chọn.
+ @Import substitution industrialization
+- (Econ) Công nghiệp hoá bằng thay thế hàng nhập khẩu.
+ @Import tariff
+- (Econ) Thuế quan nhập khẩu.
+: Xem TARIFFS.
+ @importability  
+*  dt
+- tính có thể nhập được, tính có thể nhập khẩu được (hàng hoá...)
+
+@importable  
+*  tt
+- có thể nhập được, có thể nhập khẩu được (hàng hoá...)
+
+@importance  
+*  dt
+- sự quan trọng, tầm quan trọng
+
++ a problem of great importance: một vấn đề rất quan trọng
+- quyền thế, thế lực
+
++ self-importance; to speak with an air of importance: nói với vẻ ta đây quan trọng, nói làm ra vẻ quan trọng
+
+@importance
+- sự quan trọng; ý nghĩa; giá trị of no i. không có giá trị gì i. of a sampling ý nghĩa của mẫu 
+ @important  
+*  tt
+- quan trọng, trọng đại, trọng yếu, hệ trọng
+
++ an important event: một sự kiện quan trọng
+
++ important personalities: những nhân vật trọng yếu
+- có quyền thế, có thế lực
+- (như) self-importance
+
++ to look important: ra vẻ ta đây quan trọng
+
+@importantly
+* dt
+- quan trọng, trội yếu
+ @importation  
+*  dt
+- sự nhập, sự nhập khẩu
+- hàng nhập, hàng nhập khẩu
+
+@importation
+- (logic học) sự mang vào, sự nhập cảng
+ @importee  
+*  dt
+- người mới được nhập vào, người mới được đưa vào
+
++ importees brought to the mountain area to reclain virgin land: những người mới được đưa lên miền núi để vỡ hoang
+
+@importer  
+*  dt
+- người nhập hàng, người nhập khẩu; hãng nhập hàng, hãng nhập khẩu
+
+@importunate  
+*  tt
+- quấy rầy, nhũng nhiễu; đòi dai, nài nỉ
+- thúc bách (công việc...)
+
+@importunately
+- xem importunate
+ @importunateness  
+*  dt
+- tính chất quấy rầy, tính chất nhũng nhiễu; tính chất đòi dai, tính chất nài nỉ
+- tính thúc bách
+
+@importune  
+*  dgt
+- quấy rầy, nhũng nhiễu; đòi dai, nài nỉ
+- gạ gẫm (gái làm tiền)
+- (từ hiếm,nghĩa hiếm) thúc bách, giục giã
+
+@importunely
+- xem importune
+ @importuner
+- xem importune
+ @importunity  
+*  dt
+- sự quấy rầy, sự nhũng nhiễu; sự đòi dai, sự nài nỉ
+- sự thúc bách (của công việc)
+
+@imposable  
+*  tt
+- có thể bắt chịu, có thể bắt gánh vác, có thể bắt cáng đáng
+- có thể đánh lừa, có thể đánh tráo
+
+@impose  
+*  ngdgt
+- (: on,  upon) đánh (thuế...); bắt chịu, bắt gánh vác, bắt cáng đáng
+
++ to impose heavy taxes upon luxury goods: đánh thuế nặng vào hàng xa xỉ
+
++ to impose one's methods on somebody: bắt ai phải làm theo phương pháp của mình
+
++ to impose oneself on somebody: bắt ai phải chịu đựng mình
+- (: upon) đánh lừa tống ấn, đánh lộn sòng, đánh tráo
+
++ to impose something upon somebody: đánh lừa mà tống ấn cái gì cho ai
+- (ngành in) lên khuôn (trang in)
+- (từ cổ,nghĩa cổ) đặt lên
+*  ndgt
+- (: on,  upon) gây ấn tượng mạnh mẽ đối với, tác động mạnh đối với; bắt phải kính nể; bắt phải chịu đựng mình
+
++ to impose on someone: gây ấn tượng mạnh mẽ đối với ai; bắt ai phải kính nể
+- (: on,  upon) lừa gạt, lừa phỉnh, bịp
+
++ to be imposed upon: bị lừa, bị bịp
+- (: on,  upon) lạm dụng, lợi dụng
+
++ to impose upon someone's kindness: lợi dụng lòng tốt của ai
+
+@imposer  
+*  dt
+- người bắt phải chịu, người bắt phải gánh vác, người bắt phải cáng đáng
+- người đánh lừa tống ấn, người đánh tráo
+
+@imposing  
+*  tt
+- gây ấn tượng mạnh mẽ; oai nghiêm, hùng vĩ, đường bệ, bệ vệ
+
++ an imposing scene: quang cảnh hùng vĩ
+
++ an imposing lady: một bà bệ vệ
+
+@imposingly
+* dt
+- uy nghi, oai nghiêm, đường bệ
+ @imposingness  
+*  dt
+- vẻ oai nghiêm, vẻ hùng vĩ, vẻ đường bệ, vẻ bệ vệ
+
+@imposition  
+*  dt
+- sự đánh thuế má
+- sự bắt chịu, sự gánh vác; sự bắt theo; sự đòi hỏi quá đáng
+- sự lừa gạt, trò lừa gạt, trò bịp
+- bài phạt (học sinh) ((thường) (viết tắt),  (thông tục) impo,  impot)
+
++ to set an imposition: bắt làm bài phạt
+- (ngành in) sự lên khuôn
+
+@impossibility  
+*  dt
+- (như) impossibleness
+- việc không thể làm được
+
++ don't expect him to do impossibilities: đừng trông chờ anh ta làm những việc không thể làm được
+- điều không thể có, điều không thể xảy ra
+
+@impossibility
+- sự không có thể
+ @Impossibility Theorem
+- (Econ) Định lý về tính bất khả thể; Định lý về Điều không thể có.
+: Xem SOCIAL WELFARE FUNCTION.
+ @impossible  
+*  tt
+- không thể làm được
+
++ an impossible task: một công việc không thể làm được
+- không thể có được, không thể xảy ra được
+
++ an impossible story: một câu chuyện không thể có được
+- không thích hợp, không tiện, không dễ dàng
+- (thông tục) quá quắt, quá đáng, không thể chịu được
+
++ an impossible fellow: thằng cha quá quắt, không thể chịu được
+
+@impossible
+- không thể được
+ @impossibleness  
+*  dt ((cũng) impossibility)
+- sự không thể làm được
+- sự không thể có được, sự không thể xảy ra được
+
+@impossibly  
+*  dt
+- không thể làm được
+- không thể có được, không thể xảy ra được
+
+@impost  
+*  dt
+- thuế nhập hàng, thuế nhập khẩu; thuế hải quan
+- (từ lóng) trọng lượng chấp (đeo thêm vào ngựa trong một cuộc chạy đua cố chấp)
+- chân vòm
+
+@imposter   (impostor) @imposthume   (imposthume) @impostor   (impostor) @impostrous  
+*  tt
+- lừa đảo
+- mạo danh
+
+@impostume   (imposthume) @imposture  
+*  dt
+- sự lừa đảo, sự lừa gạt
+- sự mạo danh
+
+@impot  
+*  dt
+- (thông tục) bài phạt (học sinh)
+
+@impotence   (impotency) @impotency   (impotency) @impotent  
+*  tt
+- bất lực, yếu đuối, lọm khọm
+
++ an impotent old man: một cụ già lọm khọm
+- bất lực, không có hiệu lực gì
+
++ in an impotent rage: trong một cơn giận dữ bất lực
+- (y học) liệt dương
+
+@impotently
+* dt
+- bất lực, yếu ớt
+ @impotentness   (impotency) @impound  
+*  ngdgt
+- nhốt (súc vật) vào bãi rào; cất (xe cộ...) vào bãi rào
+- nhốt, giam (người)
+- ngăn (nước để tưới)
+- sung công, tịch thu
+
+@impoundable  
+*  tt
+- có thể nhốt vào bãi rào (súc vật); có thể cất vào bãi rào (xe cộ...)
+- có thể nhốt; có thể giam (người)
+- có thể ngăn (nước để tưới)
+- có thể sung công, có thể tịch thu
+
+@impoundage   (impoundage) @impounder  
+*  dt
+- người nhốt súc vật vào bãi rào
+
+@impoundment   (impoundage) @impoverish  
+*  ngdgt
+- bần cùng hoá, làm cho nghèo khổ
+- làm kiệt màu
+
++ impoverished soil: đất kiệt màu
+- làm hết công dụng; làm hao mòn
+
++ rubber becomes impoverished after a time: sau một thời gian cao su mất công dụng (đàn hồi)
+- làm kiệt, làm suy nhược (sức)
+
+@impoverishment  
+*  dt
+- sự bần cùng hoá, sự làm nghèo khổ
+- sự kiệt quệ
+- sự mất công dụng
+
+@impracticability   (impracticableness) @impracticable  
+*  tt
+- không thể thi hành được, không thể thực hiện được
+
++ an impracticable plan: một kế hoạch không thể thực hiện được
+- khó dùng, không thể điều khiển được (dụng cụ, đồ dùng...)
+- không thể qua được, không thể đi được
+
++ an impracticable road: một con đường xấu không thể đi được
+- (từ hiếm,nghĩa hiếm) khó chơi, khó giao du
+
++ an impracticable fellow: một gã khó chơi
+
+@impracticableness   (impracticableness) @impracticably
+* dt
+- không thực hành được, không thực hiện được
+ @impractical  
+*  tt
+- không thực tế
+
+@impracticality  
+*  dt
+- tính không thực tế
+- điều không thực tế
+
+@impractically
+* dt
+- không thực tế, không hợp lý
+ @imprecate  
+*  ngdgt
+- nguyền rủa
+
+@imprecatingly  
+*  dt
+- chửi rủa, nguyền rủa
+
+@imprecation  
+*  dt
+- sự chửi rủa, sự nguyền rủa
+- câu chửi rủa, lời nguyền rủa
+
+@imprecator  
+*  dt
+- người chửi rủa, người nguyền rủa
+
+@imprecatory  
+*  tt
+- chửi rủa, nguyền rủa
+
+@imprecise  
+*  tt
+- không chính xác, không đúng
+- mơ hồ
+
+@imprecisely
+* dt
+- không chính xác
+ @impreciseness   (imprecision) @imprecision   (imprecision) @impregnability  
+*  dt
+- tính không thể đánh chiếm được
+- sự vững chắc, sự vững vàng; tính không lay chuyển được
+
+@impregnable  
+*  tt
+- không thể đánh chiếm được
+
++ an impregnable fortress: pháo đài không thể đánh chiếm được
+- vững chắc, vững vàng, không gì lay chuyển được
+
++ impregnable arguments: lý lẽ vững vàng
+
++ impregnable belief: lòng tin không gì lay chuyển được
+- có thể thụ tinh (trứng)
+
+@impregnably
+* dt
+- vững vàng, kiên định
+ @impregnant
+* dt
+- chất dùng để làm thụ tinh
+ @impregnate  
+*  tt
+- đã thụ tinh (con vật cái); có chửa, có mang
+- thấm, nhiễm
+
++ to be impregnate with wrong ideas: nhiễm tư tưởng sai lầm
+*  ngdgt
+- cho thụ tinh; làm có mang, làm thụ thai
+- (từ Mỹ,nghĩa Mỹ) làm màu mỡ (đất đai); làm sinh sản
+- làm thấm nhuần, làm nhiễm vào
+
++ to become impregnated with bad habits: bị tiêm nhiễm thói hư tật xấu
+- thấm đẫm; làm thấm đầy
+
++ to impregnate one's clothing with insecticide: thấm thuốc trừ sâu đầy quần áo
+
+@impregnation  
+*  dt
+- sự thụ tinh, sự làm thụ thai; sự thụ thai
+- (từ Mỹ,nghĩa Mỹ) sự làm màu mỡ (đất đai); sự làm sinh sản
+- sự thấm nhuần, sự tiêm nhiễm
+- sự thấm đẫm; sự làm thấm đầy
+
+@impregnator
+- xem impregnate
+ @impremitive
+- (đại số) phi nguyên thuỷ
+ @impresari  
+*  dt,  số nhiều impresarios,  impresari
+- người tổ chức các buổi biểu diễn sân khấu; ông bầu (gánh hát, đoàn vũ ba lê, đoàn ca múa nhạc...)
+
+@impresario  
+*  dt,  số nhiều impresarios,  impresari
+- người tổ chức các buổi biểu diễn sân khấu; ông bầu (gánh hát, đoàn vũ ba lê, đoàn ca múa nhạc...)
+
+@imprescribable   (imprescribable) @imprescriptibility  
+*  dt
+- (pháp lý) tính không thể xâm phạm được, tính không thể tước được
+
+@imprescriptible   (imprescribable) @impress  
+*  dt
+- sự đóng dấu
+- dấu (đóng vào, in vào...)
+- (nghĩa bóng) dấu ấn
+
++ a work bearing an impress of genius: tác phẩm mang dấu ấn của một thiên tài
+*  ngdgt
+- đóng, in (dấu lên cái gì); đóng dấu vào, in dấu vào (cái gì)
+
++ to impress the wax with a stamp: đóng dấu vào miếng sáp bằng con dấu
+- ghi sâu vào, khắc sâu vào, in sâu vào
+
++ to impress something on the memory: ghi sâu cái gì vào ký ức
+- gây ấn tượng; làm cảm động, làm cảm kích
+
++ to be deeply impressed by someone's kindness: cảm kích sâu sắc vì lòng tốt của ai
+*  ngdgt
+- (sử học) cưỡng bách (thanh niên...) tòng quân, bắt (thanh niên...) đi lính
+- trưng thu, sung công (hàng hoá...)
+- đưa vào, dùng (những sự kiện... để làm dẫn chứng, để lập luận...)
+
+@impressibility  
+*  dt
+- tính dễ cảm động, tính dễ cảm kích
+- tính dễ bị ảnh hưởng
+
+@impressible  
+*  tt
+- dễ cảm động, dễ cảm kích
+- dễ bị ảnh hưởng
+
+@impressibly
+- xem impressible
+ @impression  
+*  dt
+- ấn tượng
+
++ to make a strong impression on someone: gây một ấn tượng mạnh mẽ đối với ai
+- cảm giác; cảm tưởng
+
++ to be under the impression that...: có cảm tưởng rằng...
+- sự đóng, sự in (dấu, vết)
+- dấu, vết, dấu in, vết in, dấu hằn, vết hằn, vết ấn
+
++ the impression of a seal on wax: vết con dấu đóng trên sáp
+- (ngành in) sự in; bản in; số lượng in
+- (từ Mỹ,nghĩa Mỹ) thuật nhại các nhân vật nổi tiếng (trên sân khấu...)
+
+@impressionability   (impressionableness) @impressionable  
+*  tt
+- dễ xúc cảm, nhạy cảm
+- dễ bị ảnh hưởng
+
+@impressionableness   (impressionableness) @impressional  
+*  tt
+- (thuộc) ấn tượng
+
+@impressionary   (impressionary) @impressionism  
+*  dt,  (nghệ thuật)
+- chủ nghĩa ấn tượng
+- trường phái ấn tượng
+
+@impressionist  
+*  dt
+- (nghệ thuật) người theo trường phái ấn tượng
+- (từ Mỹ,nghĩa Mỹ) người nhại các nhân vật nổi tiếng (trên sân khấu...)
+
+@impressionistic   (impressionary) @impressionistically
+- xem impressionistic
+ @impressive  
+*  tt
+- gây ấn tượng sâu sắc, gây xúc động, gợi cảm
+- hùng vĩ, nguy nga, oai vệ, uy nghi
+
++ an impressive scene: cảnh hùng vĩ
+
+@impressively
+* dt
+- hùng vự, nguy nga, gợi cảm
+ @impressiveness  
+*  dt
+- sự gây ấn tượng sâu sắc, sự gây xúc động, sự gợi cảm
+- vẻ hùng vĩ, vẻ nguy nga, vẻ oai vệ, vẻ uy nghi
+
+@impressment  
+*  dt
+- (sử học) sự cưỡng bách tòng quân, sự bắt lính
+- sự trưng thu, sự sung công (hàng hoá...)
+
+@imprest  
+*  dt
+- tiền tạm ứng, tiền cho vay trước (để làm việc công)
+
+@imprimatur  
+*  dt
+- giấy phép cho in (một cuốn sách) (bây giờ thường chỉ dùng trong trường hợp sách của nhà thơ La-mã cho phép)
+- (nghĩa bóng) sự phê chuẩn, sự chuẩn y, sự đồng ý, sự tán thành
+
++ the imprimatur of literary critics: sự tán thành của các nhà phê bình văn học
+
+@imprimis  
+*  dt
+- trước hết, trước tiên
+
+@imprint  
+*  dt
+- dấu vết, vết in, vết hằn
+
++ the imprint of a foot on sand: dấu bàn chân trên cát
+
++ the imprint of suffering on someone's face: nét hằn của sự đau khổ trên khuôn mặt ai
+- ảnh hưởng sâu sắc
+- phần ghi của nhà xuất bản (tên nhà xuất bản, ngày xuất bản, số lượng... ở đầu hoặc cuối sách ((thường) publisher's imprint,  printer's imprint)
+*  ngdgt
+- đóng, in (dấu); in dấu vào, đóng dấu vào (cái gì)
+
++ to imprint a postmark on a letter: đóng dấu bưu điện lên một lá thư
+
++ to imprint the paper with a seal: đóng dấu vào giấy bằng một con dấu
+- ghi khắc, ghi nhớ, in sâu vào, in hằn
+
++ ideas imprinted on the mind: tư tưởng ăn sâu vào đầu óc ai
+
+@imprinting
+* dt
+- quá trình con vật nhỏ hoà đồng với đồng loại của nó
+ @imprison  
+*  ngdgt
+- bỏ tù, tống giam, giam cầm
+- (nghĩa bóng) giam hãm, o bế
+
+@imprisonable  
+*  tt
+- có thể bỏ tù, có thể tống giam, có thể giam cầm
+- (nghĩa bóng) có thể giam hãm, có thể o bế
+- có thể phạt tù
+
+@imprisonment  
+*  dt
+- sự bỏ tù, sự tống giam, sự giam cầm
+- (nghĩa bóng) sự giam hãm, sự o bế
+
+@improbability  
+*  dt
+- tính không chắc có thực, tính không chắc sẽ xảy ra ((cũng) improbableness)
+- cái không chắc có thực, cái không chắc sẽ xảy ra; chuyện đâu đâu
+
+@improbable  
+*  tt
+- không chắc, không chắc có thực, không chắc sẽ xảy ra; đâu đâu
+
++ an improbable story: một câu chuyện không chắc có thực, một câu chuyện đâu đâu
+
+@improbableness  
+*  dt
+- tính không chắc có thực, tính không chắc sẽ xảy ra ((cũng) improbability)
+
+@improbably
+* dt
+- không chắc, không chắc có thực
+ @improbity  
+*  dt
+- sự bất lương, sự gian dối; sự thiếu thành thực, sự không trung thực
+
+@impromptu  
+*  dt
+- bài nói ứng khẩu, bài thơ ứng khẩu; lời nói cương (trên sân khấu)
+- (âm nhạc) khúc tức hứng
+*  tt & dt
+- không chuẩn bị trước, ứng khẩu
+
++ an impromptu speech: bài nói ứng khẩu
+
++ to answers impromptu: trả lời ứng khẩu
+
+@improper  
+*  tt
+- không hợp, không thích hợp, không đúng lúc, không đúng chỗ; không phải lỗi, không phải phép, không ổn
+- sai, không đúng
+
++ improper treatment of disease may cause death: trị bệnh sai có thể làm người bệnh thiệt mạng
+- không lịch sự, không đứng đắn, không chỉnh
+
++ improper manters: cách xử sự không đứng đắn
+
+@improper
+- phi chính
+ @improper fraction
+* dt
+- <toán> phân số không thực sự
+ @improperly
+* dt
+- không thích hợp, không đúng cách
+ @improperness
+- xem improper
+ @impropriate  
+*  ngdgt
+- thế tục hoá (tài sản của nhà thờ)
+
+@impropriation  
+*  dt
+- sự thế tục hoá tài sản của nhà thờ
+
+@impropriety  
+*  dt
+- sự không thích hợp, sự không đúng lúc, sự không đúng chỗ, sự không phải lối, sự không phải phép
+- sự sai lầm, sự không đúng
+- sự không lịch sự, sự không đứng đắn, sự không chỉnh
+- thái độ không đứng đắn, thái độ không lịch sự, thái độ không chỉnh; hành động không đứng đắn, hành động không lịch sự, hành động không chỉnh
+- (ngôn ngữ học) sự dùng sai từ
+
+@improvability   (improvableness) @improvable  
+*  tt
+- có thể cải tiến, có thể cải thiện, có thể làm cho tốt hơn
+
+@improvableness   (improvableness) @improve  
+*  ngdgt
+- cải tiến, cải thiện, cải tạo, trau dồi (tư tưởng), mở mang (kiến thức...)
+
++ to improve one's style of work: cải tiến lề lối làm việc
+
++ to improve one's life: cải thiện đời sống
+- lợi dụng, tận dụng
+
++ to improve the occasion: tận dụng cơ hội
+*  ndgt
+- được cải tiến, được cải thiện, trở nên tốt hơn; tiến bộ
+
++ to improve in health: sức khoẻ tốt hơn lên
+
++ her English improves very quickly: cô ta tiến nhanh về tiếng Anh
+!to improve away
+- cải tiến để xoá bỏ (những cái chưa tốt...); loại trừ (những cái chưa tốt...) bằng cách cải tiến
+!to improve on (uopn)
+- làm tốt hơn, hoàn thiện hơn
+
++ this can hardly be improved on: cái đó khó mà làm tốt hơn được
+
+@improve
+- hoàn thiện, cải tiến
+ @improved
+- được hoàn thiện , được cải tiến
+ @improvement  
+*  dt
+- sự cải tiến, sự cải thiện, làm cho tốt hơn; sự trau dồi, sự mở mang (trí tuệ, kiến thức...)
+- sự sửa sang, sự đổi mới (cho đẹp, tốt hơn)
+
++ I have noticed a number of improvements in this town: tôi để ý thấy một số đổi mới ở thành phố này
+- sự tiến bộ, sự tốt hơn, sự khá hơn
+
++ this composition is an improvement on (over) your last: bài luận này của anh khá hơn bài trước
+
++ there's a marked improvement in his health: sức khoẻ anh ta khá hơn rõ rệt
+- sự lợi dụng, sự tận dụng (cơ hội)
+
+@improvement
+- sự hoàn thiện, sự cải tiến
+ @improver  
+*  dt
+- người cải tiến, người cải thiện
+- người luyện việc (ở xưởng máy, với lương thấp, cốt để trau dồi thêm kỹ thuật chuyên môn)
+- chất gia tăng (thêm vào để làm cho thức ăn... tốt hơn)
+
+@improvidence  
+*  dt
+- tính không biết lo xa
+- tính hoang toàng xa phí
+
+@improvident  
+*  tt
+- không biết lo xa, không biết lo liệu trước
+- hoang toàng xa phí
+
+@improvidently
+* dt
+- hoang phí, không lo xa
+ @improvisation  
+*  dt
+- sự ứng khẩu
+- sự ứng biến, sự làm ngay được
+- (âm nhạc) khúc tức hứng
+
+@improvisational
+* tt
+- thuộc sự ứng khẩu, sự ứng tác
+- thuộc khúc ứng tấu
+ @improvisator  
+*  dt
+- người nói ứng khẩu; người làm thơ ứng khẩu
+- (âm nhạc) người soạn khúc tức hứng
+
+@improvisatory  
+*  tt
+- ứng khẩu, có tính chất ứng khẩu
+
+@improvise  
+*  ngdgt
+- ứng khẩu, cương (trên sân khấu...)
+- làm ứng biến, làm ngay được
+
++ to improvise a bed out of leaves: ứng biến làm ngay được một chỗ nằm bằng lá cây
+
+@improvised  
+*  tt
+- ứng khẩu
+- làm ứng biến, làm ngay được
+
+@improviser
+- xem improvise
+ @imprudence   (imprudency) @imprudency   (imprudency) @imprudent  
+*  tt
+- không thận trọng, khinh suất
+
+@imprudently
+* dt
+- thiếu thận trọng, khinh suất
+ @imprudentness  
+*  dt
+- sự không thận trọng, sự khinh suất ((cũng) imprudence,  imprudency)
+
+@impudence  
+*  dt
+- (như) impudentness
+- hành động trơ tráo, hành động trơ trẽn, hành động vô liêm sỉ
+- lời nói láo xược; hành động láo xược
+
+@impudent  
+*  tt
+- trơ tráo, trơ trẽn, mặt dạn mày dày, vô liêm sỉ
+
++ what an impudent rascal!: thật là một thằng xỏ lá mặt dày
+
++ what an impudent slander!: thật là một sự vu khống trơ trẽn!
+- láo xược, hỗn xược
+
+@impudently
+* dt
+- trâng tráo, vô liêm sỉ
+ @impudentness  
+*  dt ((cũng) impudence)
+- tính trơ tráo, tính trơ trẽn, tính vô liêm sỉ
+- sự láo xược, sự hỗn xược
+
+@impudicity  
+*  dt
+- tính trơ trẽn, tính không biết xấu hổ, tính không biết thẹn
+
+@impugn  
+*  ngdgt
+- công kích, bài bác
+
++ to impugn a statement: công kích một bản tuyên bố
+- đặt thành vấn đề nghi ngờ, nghi vấn
+
+@impugnability  
+*  dt
+- tính có thể công kích, tính có thể bài bác
+- tính có thể đặt thành vấn đề nghi ngờ, tính có thể nghi vấn
+
+@impugnable  
+*  tt
+- có thể công kích, có thể bài bác
+- có thể đặt thành vấn đề nghi ngờ, có thể nghi vấn
+
+@impugner
+- xem impugn
+ @impugnment  
+*  dt
+- sự công kích, sự bài bác
+- đặt thành vấn đề nghi ngờ, nghi vấn
+
+@impuissance  
+*  dt
+- sự yếu ớt, sự bất lực
+
+@impuissant  
+*  tt
+- yếu ớt, bất lực
+
+@impulse  
+*  dt
+- sức đẩy tới
+
++ to give an impulse to trade: đẩy mạnh việc buôn bán
+- sự bốc đồng; cơn bốc đồng
+
++ a man of impulse: người hay bốc đồng
+- sự thúc đẩy, sự thôi thúc
+- (kỹ thuật) xung lực
+
+@impulse
+- (máy tính); (vật lí) xung lượng xung
+- coded i. (máy tính) xung mã hoá 
+- energy i. năng xung
+- gating i. xung mở van
+- unit i. xung đơn vị 
+ @impulse buying  
+*  dt
+- sự mua sắm bừa bâi, sự mua sắm tuỳ hứng
+
+@impulsion  
+*  dt
+- sự đẩy tới, sức đẩy tới
+- sự bốc đồng; cơn bốc đồng
+- sự thúc đẩy, sự thôi thúc
+- (kỹ thuật) xung động
+
+@impulsive  
+*  tt
+- đẩy tới, đẩy mạnh
+- bốc đồng
+
++ an impulsive act: một hành động bốc đồng
+
++ an impulsive person: người hay bốc đồng
+- thôi thúc, thúc đẩy
+- (kỹ thuật) xung
+
+@impulsively
+* dt
+- hấp tấp, bốc đồng
+ @impulsiveness  
+*  dt
+- tính bốc, bốc đồng
+
+@impulsivity
+- xem impulsive
+ @impultative  
+*  tt
+- để đổ cho, để quy cho; do sự đổ cho
+
+@impultativeness  
+*  dt
+- tính chất đổ cho, tính chất quy cho
+
+@impunity  
+*  dt
+- sự được miễn hình phạt; sự không bị trừng phạt
+
++ with impunity: không bị trừng phạt
+- sự không bị thiệt hại, sự không bị mất mát
+
+@impure  
+*  tt
+- không trong sạch, không tinh khiết; dơ bẩn, ô uế
+- không trinh bạch, không trong trắng
+- có pha trộn, pha tạp; có lẫn màu khác
+- (nghệ thuật) không trong sáng; có lẫn màu khác
+- (nghệ thuật) không trong sáng (văn); lai căng
+
+@Impure public good
+- (Econ) Hàng hoá công cộng không thuần tuý.
+: Xem MIXED GOOD.
+ @impurely
+- xem impure
+ @impureness  
+*  dt
+- sự không trong sạch, sự không tinh khiết; sự dơ bẩn, sự ô uế ((cũng) impurity)
+
+@impurity  
+*  dt
+- sự không trong sạch, sự không tinh khiết; sự dơ bẩn, sự ô uế ((cũng) impureness)
+- chất bẩn
+- sự không trinh bạch, sự không trong trắng
+- tính pha trộn, tính pha tạp
+- (nghệ thuật) tính không trong sáng (văn); tính lai căng
+
+@imputability   (imputableness) @imputable  
+*  tt
+- có thể đổ cho, có thể quy cho
+
+@imputableness   (imputableness) @imputably
+- xem imputable
+ @imputation  
+*  dt
+- sự đổ tội, sự quy tội (cho người nào)
+- tội đổ cho ai, lỗi quy cho ai, điều quy cho ai
+
+@imputative
+* tt
+- có tính cách quy trách, có tính cách đổ tội
+ @imputatively
+- xem imputation
+ @imputativeness
+* dt
+- tính cách quy trách, tính cách đổ tội
+ @impute  
+*  ngdgt
+- đổ (tội...) cho, quy (tội...) cho
+
++ to impute a blame to someone: đổ lỗi cho ai
+
+@Imputed rent
+- (Econ) Tiền thuê không quy đổi.
+: Khái niệm tiền thuê do doanh nhiệp tự trả cho mình trong việc sử dụng đất đai mà doanh nghiệp sở hữu. Xe, IMPLICIT COST.
+ @

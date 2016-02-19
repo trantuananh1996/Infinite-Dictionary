@@ -1,0 +1,1667 @@
+@am  
+*  ngôi 1 số ít thời hiện tại của be
+
+@AM @AM @AM (amplitude-modulated) capability
+- (Tech) khả năng dao động biên độ
+ @AM (amplitude-modulated) noise
+- (Tech) tiếng ồn biến điệu biên (độ)
+ @AM (amplitude-modulated) photodetector
+- (Tech) bộ tách sóng quang biến điệu biên (độ)
+ @AM (amplitude-modulated) receiver
+- (Tech) máy thu biến điệu biên (độ)
+ @AM wave 
++  amplitude-modulated wave
+ @amadu
+* dt
+- bùi nhùi
+ @amah  
+*  dt
+- (Trung-quốc,  Ân độ) vú em, bõ
+
+@amain  
+*  dt
+- (từ cổ,nghĩa cổ),  (thơ ca) hết sức sôi nổi, hết sức nhiệt tình, mãnh liệt
+- hết sức khẩn trương, hết sức tốc độ
+
+@amalgam  
+*  dt
+- (hoá học) hỗn hống
+- vật hỗn hợp (nghĩa đen) & (nghĩa bóng)
+
+@amalgam
+- sự hỗn hợp, hỗn hống
+ @amalgamate  
+*  dgt
+- (hoá học) hỗn hống hoá
+- trộn, pha trộn, trộn lẫn, hỗn hợp, hợp nhất (công ty...)
+
+@amalgamated  
+*  tt
+- (hoá học) đã hỗn hồng
+- đã pha trộn, đã trộn lẫn, đã hỗn hợp; đã hợp nhất
+
+@amalgamated
+- hỗn hống
+ @amalgamation  
+*  dt
+- (hoá học) sự hỗn hồng hoá
+- sự pha trộn, sự trộn lẫn, sự hỗn hợp; sự hợp nhất
+
+@Amalgamation
+- (Econ) Sự hợp nhất.
+: Xem MERGER.
+ @amalgamative
+- xem amalgamate
+ @amalgamator  
+*  dt
+- (hoá học) máy hỗn hống
+
+@amanita  
+*  dt
+- (thực vật học) nấm amanit
+
+@amanthicolous
+* tt
+- (thực vật) mọc trên cát; ở trên cát
+ @amanthium
+* dt
+- quần thực vật trên cát
+ @amanthophilous
+* tt
+- (thực vật) ưa cát
+ @amanthophily
+* dt
+- (thực vật) tính ưa cát
+ @amanuenses   (amanuensis) @amanuensis   (amanuensis) @amaranth  
+*  dt
+- hoa không tàn (tưởng tượng ra, không có thật)
+- (thực vật học) giống rau dền
+- màu tía
+
+@amaranthine  
+*  tt
+- (thực vật học) đỏ tía
+- (thơ ca) bất diệt, bất tử
+
+@amaryllidaceous  
+*  tt
+- (thực vật học) (thuộc) họ thuỷ tiên
+
+@amaryllis  
+*  dt
+- hoa loa kèn đỏ
+
+@amass  
+*  ngdgt
+- chất đống, tích luỹ, cóp nhặt (tiền của)
+
+@amassable
+- xem amass
+ @amasser
+- xem amass
+ @amassment  
+*  dt
+- sự chất đống; sự tích luỹ, sự cóp nhặt
+
+@amateur  
+*  dt
+- tài tử; người ham chuộng
+- (định ngữ) có tính chất tài tử, nghiệp dư, không chuyên
+
++ amateur theatricals: sân khấu nghiệp dư, những buổi biểu diễn không chuyên
+
++ amateur art: nghệ thuật nghiệp dư
+
++ an amateur painter: hoạ sĩ tài tử
+
+@amateur radio communication
+- (Tech) thông tin vô tuyến tài tử @amateur station
+- (Tech) đài (thu-phát) tài tử @amateurish  
+*  tt
+- tài tử, nghiệp dư, không chuyên
+- không lành nghề, không thành thạo
+
+@amateurishly
+* dt
+- không chuyên nghiệp, theo kiểu cách tài tử
+ @amateurishness  
+*  dt
+- (như) amateurism
+- sự không lành nghề, sự không thành thạo
+
+@amateurism  
+*  dt
+- tính chất tài tử, tính chất nghiệp dư, tính chất không chuyên
+
+@amative  
+*  tt
+- đa tình, thích yêu đương
+
+@amatively
+- xem amative
+ @amativeness  
+*  dt
+- tính đa tình, tính thích yêu đương
+
+@amatol  
+*  dt
+- Amaton (thuốc nổ)
+
+@amatory  
+*  tt
+- yêu đương, biểu lộ tình yêu
+- (thuộc) ái tình, (thuộc) tình dục
+
+@amaurosis  
+*  dt
+- (y học) chứng thanh manh
+
+@amaurotic
+- xem amaurosis
+ @amaze  
+*  ndgt
+- làm kinh ngạc, làm sửng sốt, làm hết sức ngạc nhiên
+*  dt
+- (thơ ca) (như) amazement
+
+@amazedly  
+*  dt
+- kinh ngạc, sửng sốt, hết sức ngạc nhiên
+
+@amazedness
+- xem amaze
+ @amazement  
+*  dt
+- sự kinh ngạc, sự sửng sốt, sự hết sức ngạc nhiên
+
++ to stand transfixed with amazement: đứng sững ra vì kinh ngạc
+
++ to be filed with amazement: hết sức kinh ngạc
+
+@amazing  
+*  tt
+- làm kinh ngạc, làm sửng sốt, làm hết sức ngạc nhiên
+
+@amazingly
+* dt
+- đáng kinh ngạc, đến không ngờ
+ @amazon  
+*  dt
+- sông A-ma-zôn (Nam-Mỹ)
+- nữ tướng (trong truyện cổ Hy lạp)
+- anazon người đàn bà tướng đàn ông
+
+@amazonian
+* tt
+- (nói về đàn bà) có vóc dáng như đàn ông
+ @amazonite
+* dt
+- (chất khoáng) amadôni
+ @ambages  
+*  dt số nhiều
+- lời nói quanh co; thủ đoạn quanh co
+
+@ambassador  
+*  dt
+- đại sứ
+
++ ambassador extraordinary and pleinportentiary: đại sứ dặc nhiệm toàn quyền
+- người đại diện sứ giả
+
++ to act as somebody's ambassador: làm đại diện cho ai
+
+@ambassador-at-large  
+*  dt
+- đại sứ lưu động
+
+@ambassadorial  
+*  tt
+- (thuộc) đại sứ
+
++ to establish diplomatic relation at ambassadorial level: thiết lập quan hệ ngoại giao ở cấp đại sứ
+
+@ambassadorship
+- xem ambassador
+ @ambassadress  
+*  dt
+- nữ đại sứ
+- vợ đại sứ, đại sứ phu nhân
+
+@amber  
+*  dt
+- hổ phách
+- (định ngữ) bằng hổ phách; (có) màu hổ phách
+
+@ambergris  
+*  dt
+- long diên hương
+
+@ambi-
+- (dạng kết hợp) song, lưỡng
+ @ambiance
+* dt
+- môi trường, không khí của một địa điểm
+ @ambidexter  
+*  tt: (ambidexterous) 
+@ambidexterity   (ambidexterousness) @ambidexterous  
+*  tt: (ambidexterous) 
+@ambidexterousness   (ambidexterousness) @ambidextrous  
+*  tt: (ambidexterous) 
+@ambidextrously
+- xem ambidextrous
+ @ambidextrousness   (ambidexterousness) @ambience
+* dt
+- môi trường, không khí của một địa điểm
+ @ambient  
+*  tt
+- bao quanh, ở xung quanh
+
+@ambient
+- (Tech) chung quanh, môi trường
+ @ambient
+- (hình học) không gian xung quanh
+ @ambient condition
+- (Tech) điều kiện chung quanh
+ @ambient light
+- (Tech) ánh sáng chung quanh
+ @ambient noise
+- (Tech) tiếng ồn chung quanh
+ @ambient temperature
+- (Tech) ôn độ chung quanh
+ @ambiguity   (ambiguousness) @ambiguity
+- (Tech) tính lưỡng nghĩa; nhập nhằng, mơ hồ, không xác định
+ @ambiguity
+- [sự; tính] nhập nhằng
+ @ambiguity function
+- (Tech) hàm số nhập nhằng @ambiguous  
+*  tt
+- tối nghĩa
+- không rõ ràng, mơ hồ; nước đôi, nhập nhằng
+
++ ambiguous case: trường hợp nhập nhằng
+
+@ambiguous
+- (Tech) lưỡng nghĩa (tt); nhập nhằng, mơ hồ (tt)
+ @ambiguous definition
+- (Tech) định nghĩa nhập nhằng
+ @ambiguously
+* dt
+- mơ hồ, nhập nhằng
+ @ambiguousness   (ambiguousness) @ambiguousness
+- tính nhập nhằng
+ @ambilateral
+* tt
+- hai bên; hai phía
+ @ambioceptor
+* dt
+- thể kháng đặc hiệu
+ @ambiparous
+* tt
+- có mầm hoa lá
+ @ambisexual
+* tt
+- lưỡng tính
+ @ambit  
+*  dt
+- đường bao quanh, chu vi
+- ranh giới, giới hạn
+- phạm vi
+
++ within the ambit of...: trong phạm vi của...
+- (kiến trúc) khu vực bao quanh toà nhà
+
+@ambition  
+*  dt
+- hoài bão, khát vọng
+- lòng tham, tham vọng
+
+@ambitious  
+*  tt
+- có nhiều hoài bão, có nhiều khát vọng
+- có nhiều tham vọng
+
+@ambitiously
+* dt
+- khát khao, tham muốn
+ @ambitiousness  
+*  dt
+- sự có nhiều khát vọng, sự có nhiều tham vọng
+
+@ambivalence  
+*  dt
+- sự vừa yêu, vừa ghét (cái gì); sự mâu thuẫn trong tư tưởng
+
+@ambivalent  
+*  tt
+- vừa yêu, vừa ghét (cái gì); có mâu thuẫn trong tư tưởng
+
+@ambivalently
+* dt
+- lừng chừng, nước đôi
+ @amble  
+*  dt
+- sự đi nước kiệu; nước kiệu
+- dáng đi nhẹ nhàng thong thả
+*  ndgt
+- đi nước kiệu
+- bước đi nhẹ nhàng thong thả
+
+@ambler  
+*  dt
+- ngựa đi nước kiệu
+- người bước đi nhẹ nhàng thong thả
+
+@amblychromatic
+* tt
+- nhuộm màu nhạt
+ @amblyophyllous
+* tt
+- có lá tù
+ @amblyopia  
+*  dt
+- (y học) chứng giảm sức nhìn
+
+@amblyopic  
+*  tt
+- bị giảm sức nhìn
+
+@ambo  
+*  dt đài giảng kinh
+
+@ambon
+* dt
+- vòng sụn
+ @ambosexual
+* tt
+- lưỡng tính
+ @ambrosia  
+*  dt
+- (thần thoại,thần học) thức ăn của thần thánh
+- đồ cao lương mỹ vị
+- phấn ong (phấn hoa do ong tích lại trong tổ để ăn)
+
+@ambrosial  
+*  tt
+- thơm tho như thức ăn của thần tiên
+- xứng với thần tiên, thần tiên
+
+@ambrosially
+- xem ambrosial
+ @ambs-ace   (ames-ace) @ambsace
+* dt
+- vận rủi ro
+- vật vô giá trị
+ @ambulacra
+* dt số nhiều
+- (sinh học) chân mút; chân ống vận động
+ @ambulacrum
+* dt
+- (động vật) chân mút; hấp túc; chân ống vận động
+ @ambulance  
+*  dt
+- xe cứu thương, xe cấp cứu
+- (định ngữ) để cứu thương
+
++ ambulance car: xe ô tô cứu thương
+
++ ambulance train: xe lửa cứu thương
+
++ ambulance airplane: máy bay cứu thương
+
+@ambulance-chaser  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) luật sư chuyên xúi giục người bị nạn xe cộ làm đơn kiện đòi bồi thường
+
+@ambulant  
+*  tt
+- (y học) di chuyển bệnh
+- (y học) đi lại được không phải nằm (người bệnh)
+- đi lại, đi chỗ này chỗ khác, di động không ở một chỗ
+
+@ambulatories
+* dt số nhiều
+- hành lang bên trong hay bên ngoài nhà thờ
+ @ambulatorily
+- xem ambulatory
+ @ambulatory  
+*  tt
+- (thuộc) sự đi lại, dùng để đi lại
+- đi lại, đi chỗ này chỗ khác, di động không ở một chỗ
+- (y học) đi lại được không phải nằm (người bệnh)
+
+@ambury   (ambury) @ambuscade  
+*  dgt
+- phục kích, mai phục
+
+@ambuscader
+- xem ambuscade
+ @ambush  
+*  dt
+- cuộc phục kích, cuộc mai phục
+- quân phục kích, quân mai phục
+- nơi phục kích, nơi mai phục
+- sự nằm rình, sự nằm chờ
+
++ to fall into an ambush: rơi vào một trận địa phục kích
+
++ to lay (make) an ambush: bố trí một cuộc phục kích
+
++ to lie (hide) in ambush for: phục kích, mai phục, nằm phục kích
+*  dgt
+- phục kích, chận đánh, mai phục, bố trí quân phục kích
+- nằm rình, nằm chờ
+
+@ambusher
+- xem ambush
+ @amd
+- Tên hãng sản xuất linh kiện điện tử, bao gồm cả các chip vi xử lý (Advanced Micro Devices)
+ @ameba  
+*  dt,  số nhiều amebae 
+@amebae  
+*  dt,  số nhiều amebae 
+@amebocyte
+* dt
+- (sinh học) tế bào amip; bạch cầu
+ @ameboid
+* tt
+- giống như amip; di động theo kiểu amip
+ @ameer
+* dt
+- Êmia, thủ lĩnh đạo Ixlam
+ @ameiosis
+* dt
+- sự không giảm phân
+ @ameiotic
+* tt
+- không giảm phân
+ @amelification
+* dt
+- sự tạo men răng
+ @ameliorate  
+*  ngdgt
+- làm tốt hơn, cải thiện
+*  ndgt
+- trở nên tốt hơn, được cải thiện
+
+@amelioration  
+*  dt
+- sự làn cho tốt hơn, sự cải thiện
+
+@ameliorative  
+*  tt
+- làm cho tốt hơn, để cải thiện
+
+@ameliorator  
+*  dt
+- người làn cho tốt hơn, người cải thiện
+- cái để làn cho tốt hơn, cái để cải thiện
+
+@amen  
+*  thán từ
+- (tôn giáo) A-men (dùng khi cầu kinh)
+
++ to say amen to something: đồng ý với cái gì, tán thành cái gì
+
+@amen corner  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) góc ngoan đạo (nơi dễ thấy nhất trong nhà thờ, nơi các con chiên ngoan đạo cầu kinh)
+- góc thảo luận kín, phòng thảo luận kín (về chính trị)
+
+@amenability   (amenableness) @amenable  
+*  tt
+- chịu trách nhiệm; phải chịu, đáng chịu
+
++ amenable to someone: chịu trách nhiệm với ai
+
++ amenable to a fine: đáng bị phạt
+- tuân theo, vâng theo
+
++ amenable to the law: tuân theo pháp luật
+- dễ bảo, biết nghe theo, phục tùng
+
++ amenable to reason: biết nghe theo lẽ phải
+
+@amenableness   (amenableness) @amenably  
+*  dt
+- tuân theo, theo đúng
+
++ amenably to be rules: theo đúng luật lệ
+
+@amend  
+*  ngdgt
+- sửa cho tốt hơn, làm cho tốt hơn; cải thiện
+
++ to amend one's way of living: sửa đổi lối sống
+- bồi bổ, cải tạo (đất)
+
++ to amend land: bồi bổ đất
+- sửa đổi, thay đổi (văn kiện pháp lý); bổ sung (chỗ thiếu sót, sai lầm trong một văn kiện...)
+
++ to amend a law: bổ sung một đạo luật
+*  ndgt
+- trở nên tốt hơn, cải tà quy chánh
+- (từ cổ,nghĩa cổ) bình phục, hồi phục sức khoẻ
+
+@amend
+- (Tech) tu chính (đ)
+ @amending process
+- (Tech) quy trình tu chính
+ @amendment  
+*  dt
+- sự cải tà quy chánh
+- sự sửa đổi cho tốt hơn; sự cải thiện; sự bồi bổ cho tốt hơn
+- sự sửa đổi, sự bổ sung (chỗ thiếu sót, sai lầm...)
+
++ to move an amendment to a bill: đề nghị bổ sung một đạo luật
+- (từ cổ,nghĩa cổ) sự bình phục, sự hồi phục sức khoẻ
+
+@amends  
+*  dt số nhiều
+- sự đền, sự bồi thường; sự đền bù, sự bù lại
+
++ to make amends for something: đền (bồi thường; đền bù, bù lại) cái gì
+
+@amenity  
+*  dt
+- tính nhã nhặn, tính hoà nhã
+- sự dễ chịu, sự thú vị (ở nơi nào...)
+- (số nhiều) những thú vị, những hứng thú
+
++ amenities of home life: những thú vui của đời sống gia đình
+- tiện nghi
+
++ amenities of life: tiện nghi của cuộc sống
+- (số nhiều) thái độ hoà nhã, thái độ nhã nhặn, thái độ dễ chịu
+
+@amenorrhea   (amenorrhoea) @amenorrheic
+- xem amenorrhea
+ @amenorrhoea   (amenorrhoea) @ament  
+*  dt,  số nhiều amenta 
+@amenta  
+*  dt,  số nhiều amenta 
+@amentaceous  
+*  tt
+- (thực vật học) cỏ cụm hoa đuôi sóc
+
+@amentia  
+*  dt
+- sự ngu si, sự đần độn
+
+@amentiferous  
+*  tt
+- (thực vật học) mang cụm hoa đuôi sóc
+
+@amentiform  
+*  tt
+- (thực vật học) hình đuôi sóc (cụm hoa)
+
+@amentum  
+*  dt,  số nhiều amenta 
+@amerce  
+*  ngdgt
+- bắt nộp phạt, phạt vạ
+- phạt, trừng phạt
+
+@amerceable
+- xem amerce
+ @amercement  
+*  dt
+- sự bắt nộp phạt, sự phạt vạ
+- tiền phạt
+- sự phạt, sự trừng phạt
+
+@america
+* dt
+- (địa lý) châu Mỹ
+- như United States of America
+ @America Depository Receipt
+- (Econ) ADR - Phiếu gửi tiền Mỹ.
+: Chứng khoán mà một ngân hàng Mỹ thường phát hành cho các cư dân Mỹ, dựa vào việc cơ quan NẮM GIỮ CÁC CỔ PHIẾU thường của một công ty ngoại quốc. Người giữ ADR có quyền hưởng cổ tức của công ty ngoại quốc. Bản thân ADR có thể trao đổi được. Ưu điểm của việc làm này là THỊ TRƯỜNG VỐN được mở rộng đối với các công ty không phải của Mỹ trong khi đó có thể đáp ứng được mong muốn của người Mỹ về một loại cổ phiếu nặng để trao đổi. (Một ADR có thể được đóng trọn gói để có quyền với nhiều chứng khoán thường).
+ @America Federation of Labuor
+- (Econ) ALF - Liên đoàn lao động Mỹ.
+: Được thành lập trong thời kỳ từ năm 1881 đến 1886, liên đoàn này tập trung các công đoàn lớn ở Mỹ lại với nhau.
+ @america online
+- Tên một dịch vụ máy tính tổng hợp, trực tuyến, dựa trên cơ sở Windows, cung cấp các dịch vụ thư điện tử, hội thảo, phần mềm tải xuống, tin tức, thời tiết, thể thao, thông tin tài chính, các hội nghị, trò chơi trực tuyến, kiến thức bách khoa, các chức năng tiêu chuẩn khác; phục vụ cho các thành viên thuê bao trả phí hàng tháng
+ @America selling price
+- (Econ) Giá bán kiểu Mỹ.
+: Đây là một hệ thống trong đó thuế quan của Mỹ đối với một số mặt hàng nhập khẩu được tính trên cơ sở giá trị của mặt hàng thay thế trong nước so với giá trị của hàng nhập khẩu. (Xem GENERAL AGREEMENT ON TARIFFS AND TRADE).
+ @american  
+*  tt
+- (thuộc) Châu Mỹ; (thuộc) nước Mỹ
+*  dt
+- người Châu Mỹ; người Mỹ
+
+@american indian
+- người thổ dân châu Mỹ
+ @american plan
+- (Mỹ) phí khách sạn
+ @American Stock Exchange
+- (Econ) Sở giao dịch chứng khoán Mỹ (ASE hay AMEX).
+: SỞ GIAO DỊCH có tổ chức lớn thứ hai ở Mỹ, tiến hành mua bán gần 1 @americana
+* dt
+- bộ sưu tập văn minh Mỹ
+ @americanisation
+* dt
+- sự Mỹ hoá
+ @americanise   (Americanise) @americanism  
+*  dt
+- từ ngữ đặc Mỹ
+- sự thân Mỹ
+
+@americanization  
+*  dt
+- sự Mỹ hoá
+
+@americanize   (Americanise) @americium  
+*  dt
+- (hoá học) Ameriđi
+
+@amerind  
+*  dt
+- người thổ dân da đỏ (Mỹ); người Et-ki-mô
+
+@ameristic
+* tt
+- không chia đốt
+ @amerospore
+* dt
+- bào tử không màng; bào tử đơn màng
+ @ames-ace   (ames-ace) @ametabolic
+* tt
+- không chuyển hoá; không biến thái (côn trùng)
+ @amethopterin
+* dt
+- (dược) amethopterin
+ @amethyst  
+*  dt
+- (khoáng chất) Ametit, thạch anh tím
+
+@amethystine  
+*  tt
+- (thuộc) thạch anh tím, bằng thạch anh tím
+
+@ametropia
+* dt
+- (y học) chứng mắt bị loạn khúc xạ
+ @ametropy  
+*  dt
+- (y học) chứng loạn khúc xạ
+
+@ametrous
+* tt
+- không tử cung
+ @amiability   (amiableness) @amiable  
+*  tt
+- tử tế, tốt bụng
+- nhã nhặn, hoà nhã
+- dễ thương, đáng yêu
+
+@amiableness   (amiableness) @amiably
+* dt
+- tử tế, hoà nhã, đáng yêu
+ @amianthus  
+*  dt
+- (khoáng chất) Amiăng
+
+@amicability   (amicability) @amicable  
+*  tt
+- thân ái, thân mật, thân tình
+
++ amicable advice: lời khuyên thân tình
+
++ amicable talk: cuộc trò chuyện thân mật
+- thoả thuận, hoà giải
+
++ an amicable settlement: sự hoà giải, sự giải quyết thoả thuận với nhau
+
+@amicableness   (amicability) @amicably
+* dt
+- thân thiện, thân tình
+ @amice  
+*  dt
+- (tôn giáo) khăn lễ (của giáo sĩ trùm đầu hoặc trùm vai khi làm lễ)
+- mũ trùm đầu
+
+@amicron
+* dt
+- amicron; phần tử cực nhỏ
+ @amicronucleate
+* tt
+- không nhân sinh sản; không nhân nhỏ
+ @amid   (amidst) @amide   (amidin) @amidic
+- xem amide
+ @amidin  
+*  dt
+- (hoá học) Amiđin
+- (như) amide
+
+@amidol  
+*  dt
+- (hoá học) Amiđola
+
+@amidot
+* giới từ
+- xem amide
+ @amidships  
+*  dt
+- (hàng hải) ở giữa tàu
+
+@amidst   (amidst) @amiga
+- Tên dòng máy tính Amiga
+ @amigo
+* dt
+- số nhiều amigos
+- người bạn
+ @amination
+* dt
+- sự tạo nhóm amin
+ @amine  
+*  dt
+- (hoá học) Amin
+
+@amino acid
+* dt
+- axit amin
+ @amir
+- tiểu vương xứ A Rập
+ @amiss  
+*  tt & dt
+- sai, hỏng, xấu; bậy
+
++ what's amiss with you?: anh có việc gì không ổn đấy?
+
++ do you find anything amiss in what I have said?: anh có thấy cái gì sai sót trong những điều tôi nói không?
+
++ to understand amiss: hiểu sai, hiểu lầm
+
++ to speak amiss of: nói xấu
+
++ to do amiss: làm bậy
+
++ not amiss: (thông tục) được đấy, khá đấy, không đến nỗi tồi
+- không đúng lúc, không hợp thời
+
++ to come amiss: đến không đúng lúc
+!nothing comes amiss to him
+- chẳng có cái gì nó không vừa ý cả
+- nó chẳng sai sót cái gì, cái gì nó cũng lợi dụng (xoay sở) được
+!to take amiss
+- bực mình, tức mình, để tâm giận; phật ý
+
+@amitosis  
+*  dt số nhiều
+- sự phân bào không tơ, sự trực phân
+
+@amitotic
+* tt
+- trực phân
+ @amity  
+*  dt
+- tình hữu nghị, tình bạn, tình bằng hữu; quan hệ thân thiện
+
+@amixia
+* dt
+- sự không sinh sản do lai tréo
+ @amixis
+* dt
+- sự không giao phối
+ @ammeter  
+*  dt
+- (điện học) cái đo ampe
+
++ hatwire (thermal) ammeter: cái đo ampe nhiệt điện
+
++ electromagnetic ammeter: cái đo ampe điện từ
+
+@ammeter
+- (Tech) ampere (ampe) kế, máy đo dòng (điện)
+ @ammiaceous  
+*  tt
+- (thực vật học) (thuộc) họ hoa tán
+
+@ammine
+* dt
+- (hoá học) amin
+ @ammino
+* tt
+- thuộc amin
+ @ammo  
+*  dt
+- (viết tắt) của ammunition
+
+@ammonal  
+*  dt
+- thuốc nổ amonan (làm bằng amoni nitrat và nhôm)
+
+@ammonia  
+*  dt
+- (hoá học) Amoniac
+
++ ammonia liquor: dung dịch amoniac, nước amoniac
+
+@ammoniac  
+*  tt
+- (hoá học) (thuộc) amoniac
+
+@ammoniacal  
+*  tt
+- (hoá học) (thuộc) amoniac; có tính chất amoniac
+- chứa amoniac
+
+@ammonification  
+*  dt
+- (hoá học) sự amoni hoá
+
+@ammonify
+* dgt
+- amoni hoá
+ @ammonite  
+*  dt
+- con cúc (một thứ vỏ ốc hoá đá)
+- (hoá học) Amonit
+
+@ammonitic
+- xem ammonite
+ @ammonium  
+*  dt
+- (hoá học) Amoni
+*  định ngữ
+- (thuộc) amoni
+
++ ammonium alum: phèn amoni
+
++ ammonium nitrate: amoni-nitrat
+
++ ammonium sulfate: amoni-sunfat
+
++ ammonium chloride: amoni-clorua
+
+@ammonoid
+* dt
+- con cúc (thứ vỏ ốc hoá đá)
+ @ammunition  
+*  dt
+- đạn dược
+*  định ngữ
+- (thuộc) đạn dược
+
++ ammunition belt: (từ Mỹ,nghĩa Mỹ) bằng đạn
+
++ ammunition: hòm đạn
+
++ ammunition depot: kho đạn
+
++ ammunition factory: xưởng đúc đạn
+
++ ammunition waggon: toa chở đạn dược
+- (nghĩa bóng) lý lẽ, sự kiện (để công kích hay bào chữa)
+- (sử học) quân trang quân dụng
+
++ amminition boots: giày quân dụng
+
++ ammunition bread: bánh quân dụng
+
++ ammunition leg: (thông tục) chân gỗ, chân giả
+*  ngdgt
+- cung cấp đạn dược
+
+@amnesia  
+*  dt
+- chứng quên
+
+@amnesiac
+- xem amnesia
+ @amnestic
+- xem amnesia
+ @amnesty  
+*  dt
+- sự ân xá
+*  ngdgt
+- ân xá
+
+@amnia  
+*  dt,  số nhiều amnia 
+@amniocentesis
+* dt
+- sự chọc ối
+ @amnion  
+*  dt,  số nhiều amnia 
+@amnionic
+* tt
+- thuộc màng ối
+ @amniote
+* dt
+- động vật có màng ối
+ @amniotic
+- xem amnion
+ @amoeba   (amoebae) @amoebae   (amoebae) @amoebiasis
+* dt
+- bệnh do amip gây nên
+ @amoebic  
+*  tt
+- (thuộc) amip; như amip
+- do amip gây nên (bệnh)
+
+@amoeboid  
+*  tt
+- (thuộc) amip; di động theo kiểu amip
+
+@amok   (amok) @among   (amongst) @among
+- trong số
+ @among-means
+- trong số các trung bình
+ @amongst   (amongst) @amontillado
+* dt
+- rượu vang amontiađô
+ @amoral  
+*  tt
+- không luân lý, phi luân lý; ngoài phạm vi luân lý
+- không có ý thức về luân lý
+
+@amoralism
+- xem amoral
+ @amorality
+- xem amoral
+ @amorally
+- xem amoral
+ @amorist  
+*  dt
+- người đa tình; người si tình; người ham dục tình
+
+@amorous  
+*  tt
+- đa tình, si tình; say đắm
+
++ amorous look: cái nhìn say đắm
+- sự yêu đương
+
+@amorously
+* dt
+- say đắm, đắm đuối
+ @amorousness  
+*  dt
+- tính đa tình, sự si tình; sự say đắm
+- sự yêu đương
+
+@amorph
+* dt
+- dạng không định hình, gen không định hình
+ @amorphic
+* tt
+- không định hình
+ @amorphism  
+*  dt
+- tính không có hình dạng nhất định, tính vô định hình
+
+@amorphous  
+*  tt
+- tính không có hình dạng nhất định, tính vô định hình
+- (khoáng chất) không kết tinh
+
+@amorphously
+- xem amorphous
+ @amorphousness  
+*  dt
+- tính không có hình dạng nhất định, tính vô định hình
+- (khoáng chất) tính không kết tinh
+
+@amortisation
+* dt
+- sự truyền lại, sự để lại (tài sản)
+- sự trả dần, sự trừ dần (món nợ)
+ @amortise   (amortise) @amortizable
+- xem amortize
+ @amortization  
+*  dt
+- sự truyền lại, sự để lại (tài sản)
+- sự trả dần, sự trừ dần (món nợ)
+
+@Amortization
+- (Econ) Chi trả từng kỳ.
+: Phương thức thanh toán nợ trên cơ sở trả dần. Thỉnh thoảng chi trả từng kỳ được sử dụng như thuật ngữ thay thế cho khấu hao.
+ @amortization
+- (kỹ thuật) sự tắt dần; sự giảm chấn (động); (toán kinh tế) sự thanh toán
+- a. of a debt (toán kinh tế) sự thanh toán nợ 
+ @amortize   (amortise) @amortize
+- tắt dần, giảm chấn động; (toán kinh tế) thanh toán
+ @amount  
+*  dt
+- số lượng, số nhiều
+
++ a considerable amount: một số lượng đáng kể
+
++ a large amount of work: rất nhiều việc
+- tổng số
+
++ what's the amount of this?: tổng số cái này là bao nhiêu?
+- thực chất, giá trị thực; tầm quan trọng, ý nghĩa
+
++ this is the amount of what he promised: thực chất lời hứa của hắn là đây
+*  ndgt
+- lên đến, lên tới (tiền)
+
++ the bill amounts to 100đ: hoá đơn lên đến 100đ
+- chung qui là, rốt cuộc là, có nghĩa là, chẳng khác gì là
+
++ it amounts to the same thing: rốt cuộc cũng thế cả
+
++ this amounts to a refusal: cái đó chẳng khác gì là một lời từ chối
+
++ not to amount to much: không quan trọng, không đáng kể, không có ý nghĩa gì
+
+@amount
+- (Tech) lượng, số lượng
+ @amount
+- số lượng, lượng
+- a. of infomation tk lượng thông tin, lượng tin
+- a. of inspection kt số lượng kiểm tra, khối lượng điều tra 
+ @amour  
+*  dt
+- chuyện tình; chuyện yêu đương ((thường) là bất chính)
+
+@amourette  
+*  dt
+- tình yêu phù phiếm; chuyện yêu đương lăng nhăng
+
+@amour-propre  
+*  dt
+- lòng tự ái, tính tự ái
+
+@amp  
+*  (viết tắt) của ampere
+
+@amp (ampere)
+- (Tech) ampere (ampe); 
++  amplifier
+ @amperage  
+*  dt
+- (điện học) sự đo cường độ dòng điện
+
+@ampere  
+*  dt
+- (điện học) Ampere
+
++ absolate ampere: ampe tuyệt đối
+
++ legal ampere: ampe hợp pháp
+
++ international ampere: ampe quốc tế
+
+@ampere
+- (Tech) ampe (amp, đơn vị dòng điện)
+ @ampere balance
+- (Tech) cân bằng ampere (ampe)
+ @ampere-hour  
+*  dt,  số nhiều ampere-hours
+- Ampe giờ
+
+@ampere-hour
+- (Tech) ampe-giờ
+ @amperemeter  
+*  dt
+- (điện học) cái đo ampe
+
+@amperemeter 
++  ammeter
+ @ampere-second  
+*  dt
+- (điện học) Ampe giây
+
+@ampere-second
+- (Tech) ampe-giây
+ @ampere-turn  
+*  dt
+- (điện học) Ampe vòng
+
+@ampere-turn
+- (Tech) ampe-vòng
+ @ampere-winding
+- (Tech) ampe-vòng
+ @ampersand  
+*  dt
+- ký hiệu &
+
+@ampheclexis
+* dt
+- sự chọn lọc hữu tính
+ @amphetamine
+* dt
+- <y> thuốc có tác dụng kích thích
+ @amphi-
+- (dạng hoep hợp) hai, lưỡng
+ @amphiarthrosis
+* dt
+- khớp bán động
+ @amphiaster
+* dt
+- thể hai sao, thể sao kép
+ @amphiastral
+* tt
+- thuộc thể hai sao
+ @amphibia  
+*  dt số nhiều
+- (động vật học) lớp lưỡng cư
+
+@amphibian  
+*  tt
+- (động vật học) lưỡng cư, vừa ở cạn vừa ở nước
+- (quân sự) lội nước (xe)
+
++ an amphibian tank: xe tăng lội nước
+*  dt
+- (động vật học) động vật lưỡng cư
+- (hàng không) thuỷ phi cơ
+- (quân sự) xe tăng lội nước
+
+@amphibiology  
+*  dt
+- lưỡng cư học
+
+@amphibious  
+*  tt
+- (động vật học) lưỡng cư, vừa ở cạn vừa ở nước
+- (quân sự) đổ bộ
+
++ amphibious forces: lực lượng đổ bộ
+- (quân sự) lội nước
+
++ amphibious tank xe tăng lội nước: (hàng không) đỗ cả trên đất và dưới nước (máy bay)
+
+@amphibiously
+- xem amphibious
+ @amphibiousness  
+*  dt
+- tính lưỡng cư; sự vừa ở cạn vừa ở nước
+
+@amphibivalent
+* tt
+- lưỡng trị; kép
+ @amphiblastic
+* tt
+- thuộc phôi hai cực
+ @amphiblastula
+* dt
+- phôi túi hai cực
+ @amphibological  
+*  tt
+- nước đôi, hai nghĩa
+
++ an amphibological oracle: lời sấm hai nghĩa
+
+@amphibology  
+*  dt
+- sự chơi chữ; câu nước đôi (có thể hiểu hai cách, hai nghĩa)
+
+@amphicarpic
+* tt
+- hai loại quả; hai lứa quả
+ @amphicaryon
+* dt
+- nhân đơn bội kép
+ @amphichromatism
+* dt
+- hiện tượng màu kép
+ @amphicoelous
+* tt
+- lõm hai mắt
+ @amphictyonic
+- xem amphictyony
+ @amphictyony  
+*  dt
+- đại nghị liên bang (cổ Hy lạp)
+
+@amphicyte
+* dt
+- (sinh học) tế bào áo
+ @amphidelphic
+* tt
+- (động vật) có dạ con kép
+ @amphidetic
+* tt
+- (sinh học) hai bên mấu khớp
+ @amphidial
+* tt
+- thuộc cơ quan cảm giác hoá chất
+ @amphidisc
+* dt
+- (sinh học) đĩa kép
+ @amphigam  
+*  dt
+- (thực vật học) loài song giao
+
+@amphigamous  
+*  tt
+- (thực vật học) song giao
+
+@amphigenesis
+* dt
+- (sinh học) sự sinh sản hữu tính; sự sinh sản lưỡng tính
+ @amphigenous  
+*  tt
+- (thực vật học) sinh ở bên
+
+@amphigory   (amphigouri) @amphigouri   (amphigouri) @amphigouric  
+*  tt
+- vô nghĩa, phi lý
+
+@amphigynous
+* tt
+- có nhụy kép
+ @amphilinear
+* tt
+- hai đường; hai dòng
+ @amphimictic
+- xem amphimixis
+ @amphimixis  
+*  dt
+- sự phối hợp hai tính, sự song hợp
+
+@amphinema
+* dt
+- tơ kép, sợi kép
+ @amphiodont
+* tt
+- (sinh học) có răng hai lớp
+ @amphioxi
+* dt
+- số nhiều của amphioxus
+ @amphioxus  
+*  dt
+- (động vật học) con lưỡng tiêm
+
+@amphipod  
+*  dt
+- (động vật học) giáp xác chân hai loại
+
+@amphipoda  
+*  dt
+- (số nhiều) (động vật học) bộ chân hai loại
+
+@amphipodan  
+*  tt
+- (động vật học) (thuộc) bộ chân hai loại
+
+@amphipodous  
+*  tt
+- (động vật học) có chân hai loại; (thuộc) bộ chân hai loại
+
+@amphiprostyle  
+*  tt
+- có dây cột ở cả hai đầu
+
+@amphisbaena  
+*  dt
+- (thần thoại,thần học) rắn hai đầu
+- (động vật học) thằn lằn giun
+
+@amphisbaenic
+- xem amphisbaena
+ @amphispore
+* dt
+- (sinh học) bào tử hai chức năng
+ @amphisternum
+* dt
+- (sinh học) đốt ức kép
+ @amphistyly
+* dt
+- (sinh học) kiểu ghép khớp móng-vuông
+ @amphitheatre  
+*  dt
+- giảng đường (có bậc)
+- (sân khấu) chuồng gà (ở nhà hát)
+- (sử học) đài vòng
+
+@amphitheatrical  
+*  tt
+- (thuộc) giảng đường
+
+@amphithecium
+* dt
+- (sinh học) vỏ ngoài
+ @amphitropous
+* tt
+- (sinh học) đính ngược
+ @amphitryon  
+*  dt
+- chủ nhân; người thết tiệc
+
+@amphora  
+*  dt,  số nhiều (amphorae,  amphoras)
+- vò hai quai (cổ Hy lạp, cổ La mã)
+
+@amphorae
+* dt
+- vò hai quai (cổ Hy lạp, cổ La mã)
+ @amphoral
+- xem amphora
+ @amphoric  
+*  tt
+- (y học) (thuộc) vò; như thổi qua cái vò
+
++ amphoric breathing: tiếng thở vò
+
+@amphoteric  
+*  tt
+- (vật lý); (hoá học) lưỡng tính
+
++ amphoteric ion: ion lưỡng tính
+
+@ample  
+*  tt
+- rộng, lụng thụng
+
++ ample garments: quần áo lụng thụng
+- nhiều, phong phú, dư dật
+
++ ample resources: nguồn lợi phong phú
+
++ to have ample time: có dư (rộng) thời gian
+
+@ample
+- đủ đáp ứng, phong phú
+ @amplectant
+* tt
+- (sinh học) cuốn quanh; bám quanh
+ @ampleness  
+*  dt
+- sự rộng, sự lụng thụng
+- sự phong phú, sự dư dật
+
+@amplexicaul  
+*  tt
+- (thực vật học) ôm thân (lá)
+
+@amplexus
+* dt
+- sự cõng ghép đôi (của ếch nhái trong mùa phát dục)
+ @ampliative  
+*  tt
+- (triết học) mở rộng (khái niệm)
+
+@amplidyne  
+*  dt
+- (vật lý) Ampliđyn
+
+@amplidyne
+- (Tech) bộ khuếch @amplification  
+*  dt
+- sự mở rộng
+- (rađiô) sự khuếch đại
+
++ power amplification: sự khuếch đại công suất
+
+@amplification
+- (Tech) khuếch đại, phóng đại
+ @amplification
+- sự khuếch đại, sự mở rộng
+- a. of regulation sự khuếch đại điều hoà, sự khuếch đại điều chỉnh 
+- linear a. sự khuếch đại tuyến tính 
+ @amplification coefficient
+- (Tech) hệ số khuếch đại
+ @amplification factor
+- (Tech) hệ số khuếch đại
+ @amplifier  
+*  dt
+- máy khuếch đại, bộ khuếch đại
+
++ buffer amplifier: bộ khuếch đại đệm
+
++ harmonic amplifier: máy khuếch đại tần hài
+
++ pulse amplifier: bộ khuếch đại xung
+
++ cascade amplifier: bộ khuếch đại có tầng
+
+@amplifier
+- (Tech) bộ khuếch phóng đại, mạch khuếch@amplifier
+- (vật lí) máy khuếch đại
+- cascade a. máy khuếch đại [nhiều tầng, nối cấp]
+- crystal a.máy khuếch đại [tinh thể, bán dẫn] 
+- electronic a. máy khuếch đại điện tử
+- feedback a. máy khuếch đại nghịch đảo
+- linear a. máy khuếch đại tuyến tính
+ @amplifier
+- pulse a. máy khuếch đại xung
+- servo a. máy khuếch đại secvo, máy khuếch đại của hệ tuỳ động 
+ @amplifier bandwidth
+- (Tech) dải thông khuếch đại
+ @amplifier inverter
+- (Tech) bộ biến đổi khuếch đại
+ @amplify  
+*  dgt
+- mở rộng
+- phóng đại, thổi phồng
+
++ to amplify a story: thổi phồng câu chuyện
+- bàn rộng, tán rộng
+- rađiô khuếch đại
+
+@amplify
+- khuếch đại
+ @amplitude  
+*  dt
+- độ rộng, độ lớn
+- (vật lý) độ biên
+
++ amplitude of oscillation: độ biên dao động
+- sự đầy đủ, sự dồi dào, sự phong phú; sự dư dật
+- tầm hoạt động, tầm rộng lớn (của hiểu biết, tư tưởng...)
+
+@amplitude
+- (Tech) biên độ
+ @Amplitude
+- (Econ) Biên độ
+: Thuật ngữ sử dụng trong một CHU KỲ KINH DOANH để miêu tả khoảng cách giữa điểm cực đại và cực tiểu của bất kỳ chu kỳ nào.
+ @amplitude
+- biên độ, góc cực; agumen; (thiên văn) độ phương vị
+- a. of complex nember agument của số phức
+- a. of current biên độ dòng điện
+- a. of oscillation biên độ của dao động
+- a. of point góc cực của một điểm
+- a. of simple harmonic motion biên độ chuyển động điều hoà đơn giản
+- a. of vibration biên độ của chấn động
+- complex a. biên độ nguyên sơ
+- delta a. biên độ delta
+- primary a. biên độ nguyên sơ
+- scattering a. biên độ tán xạ
+- unit a. biên độ đơn vị 
+- velocity a. biên độ vận tốc 
+ @amplitude balance
+- (Tech) cân bằng biên độ
+ @amplitude clipper
+- (Tech) bộ hạn biên
+ @amplitude code
+- (Tech) mã biên độ
+ @amplitude fading
+- (Tech) biến hiệu mờ dần biên độ
+ @amplitude filter
+- (Tech) bộ lọc biên độ
+ @amplitude frequency modulation
+- (Tech) biến điệu biên độ tần số
+ @amplitude gate
+- (Tech) cổng biên độ
+ @amplitude modulated transmitter
+- (Tech) máy phát biến điệu biên (độ), máy phát điều biên
+ @amplitude modulation
+- (Tech) biến điệu biên độ
+ @amplitude separator
+- (Tech) bộ phân chia theo biên độ
+ @amplitude stabilized laser
+- (Tech) bộ kích quang ổn định biên độ
+ @amplitude-frequency distortion
+- (Tech) biến dạng biên (độ)-tần (số)
+ @amplitude-frequency response characteristic
+- (Tech) đáp tuyến biên độ-tần số
+ @amplitude-modulated wave
+- (Tech) sóng biến điệu biên (độ)
+ @amply
+* dt
+- dư dả, đầy đủ
+ @ampoule   (ampule) @ampoule
+- (Tech) vỏ, bóng
+ @ampule   (ampule) @ampulla  
+*  dt,  số nhiều ampullae
+- bình hai quai; bình để thờ cúng (đựng nước, rượu) (cổ La mã)
+- (số nhiều) bóng
+
++ membraneous ampulla: bóng màng
+
+@ampullaceous  
+*  tt
+- hình (giống cái) bình
+- hình (giống cái) bóng
+
+@ampullae  
+*  dt,  số nhiều ampullae
+- bình hai quai; bình để thờ cúng (đựng nước, rượu) (cổ La mã)
+- (số nhiều) bóng
+
++ membraneous ampulla: bóng màng
+
+@ampullar
+- xem ampulla
+ @ampulliform
+* dt
+- dạng bóng
+ @amputate  
+*  ngdgt
+- cắt cụt (bộ phận của cơ thể)
+
++ to amputate an arm: cắt cụt cánh tay
+
+@amputation  
+*  dt
+- (y học) thủ thuật cắt cụt
+
+@amputator  
+*  dt
+- người cắt cụt
+
+@amputee  
+*  dt
+- người cụt (chân, tay)
+
+@Amtorg
+- (Econ) Cơ quan mậu dịch thường trú của Liên Xô.
+: Cơ quan ngoại thương của Liên Xô trước đây. CÓ cơ quan chi nhánh tại nhiều nước.
+ @amuck   (amok) @amulet  
+*  dt
+- bùa
+
+@amusable  
+*  tt
+- có thể làm vui được, có thể giải trí được
+
+@amuse  
+*  ngdgt
+- làm vui, làm thích thú, làm buồn cười; giải trí, tiêu khiển
+
++ hard to amuse: khó làm cho vui được
+
++ to be amused with (by, at) something: giải trí (tiêu khiển)
+- lừa phỉnh, phỉnh phờ ai bằng những lời hứa hão
+- (từ cổ,nghĩa cổ) lừa, dụ, làm mát cảnh giác
+
+@amusement  
+*  dt
+- sự vui chơi; trò vui, trò giải trí, trò tiêu khiển
+
++ to do something for amusement: làm việc để giải trí
+
++ place of amusement: nơi vui chơi
+- sự làm cho thích thú, sự làm buồn cười; sự thích thú, sự buồn cười
+
++ with a look of amusement: với vẻ thích thú
+
+@amusement arcade
+* dt
+- buồng hoặc phòng lớn có đặt những máy trò chơi, cho tiền vào thì máy hoạt động
+ @amusement park
+* dt
+- khu vực ngoài trời có đu, vòng ngựa gỗ, phòng tập bắn...để vui chơi
+ @amuser
+- xem amuse
+ @amusing  
+*  tt
+- vui, làm cho buồn cười; giải trí, tiêu khiển
+
++ highly amusing: làm cười vỡ bụng
+
+@amusingly
+- xem amusing
+ @amusingness
+- xem amusing
+ @amusive  
+*  tt
+- để làm cho vui, làm cho buồn cười, để giải trí, để tiêu khiển
+
+@amydala
+* dt
+- số nhiều amydalae
+- hạch hạnh,  amiđan
+ @amydalin
+* dt
+- amiđalin
+ @amygdalic  
+*  tt
+- có chất hạnh; giống hạt hạnh
+- (giải phẫu) (thuộc) hạch hạnh
+
+@amygdaloid  
+*  tt
+- tựa hạt hạnh
+- dt đá hạnh,  amiđaloit
+*  dt
+- đá hạnh,  amiđaloit
+
+@amyl  
+*  dt
+- (hoá học) Amyla
+
+@amylaceous  
+*  tt
+- (thuộc) tinh bột
+- có tinh bột
+
+@amylase
+* dt
+- men phân giải tinh bột; amilaza
+ @amylic  
+*  tt
+- (hoá học) Amylic
+
+@amyloid  
+*  tt
+- dạng tinh bột
+
++ amyloid degeneration: (y học) sự thoái hoá dạng tinh bột
+*  dt
+- thức ăn dạng tinh bột; chất tựa tinh bột
+
+@amylolysis
+* dt
+- sự phân giải tinh bột
+ @amylome
+* dt
+- mô mềm chứa tinh bột
+ @amyloplast
+* dt
+- hạt bột
+ @amylopsin  
+*  dt
+- (sinh vật học) Amilopxin (chất men tiêu hoá)
+
+@amylose
+* dt
+- (sinh học) amiloza; chất tạo tinh bột
+ @amylum
+* dt
+- (sinh học) tinh bột thực vật
+ @amyotrophia
+- Cách viết khác : amyotrophy 
+ @amyotrophy
+* dt
+- như amyotrophia
+* dt
+- như amyotrophia
+ @

@@ -1,0 +1,1831 @@
+@au fait
+* tt
+- hoàn toàn quen thuộc (với cái gì)
+ @au fond
+* dt
+- về cơ bản
+ @au gratin
+* dt
+- nấu với vỏ bánh mì vụn giòn hoặc phó mát thái vụn
+ @au pair  
+*  tt
+- trao đổi (con cho ăn học...)
+
+@au revoir  
+*  dt
+- chào tạm biệt
+
+@aubade  
+*  dt
+- (âm nhạc) khúc nhạc sớm
+
+@aubergine  
+*  dt
+- (thực vật học) cà tím
+
+@aubrietia
+* dt
+- cây cải tím
+ @aubur  
+*  tt
+- màu nâu vàng (tóc)
+
+@auburn
+* tt
+- màu nâu vàng (tóc)
+ @auction  
+*  dt
+- sự bán đấu giá
+
++ to put up to (Mỹ: at) auction; to sell by (Mỹ: at) auction: bán đấu giá
+
+@Auction markets
+- (Econ) Các thị trường đấu giá.
+: Một thị trường có tổ chức tại đó giá cả được điều chỉnh liên tục theo biến đổi của cung và cầu. Nét đặc trưng cơ bản của các thị trường đấu giá là các hạng mục hàng hoá được chuẩn hoá, mua bán vô danh và đủ số lượng để đảm bảo hành vi cạnh tranh.
+ @auctioneer  
+*  dt
+- người bán đấu giá
+*  ndgt
+- phụ trách việc bán đấu giá, điều khiển việc bán đấu giá
+
+@Auctioneer
+- (Econ) Người bán đấu giá.
+: Một thuật ngữ chung chỉ nhân viên bán đấu giá, tại đó những người mua tương lai đấu với nhau bằng cách đặt giá, vật đấu giá sẽ thuộc về người nào đặt giá cao nhất.
+ @Auctions
+- (Econ) Đấu giá.
+: Một kiểu thị trường trong đó người mua tiềm tàng đặt giá cho hàng hoá chứ không phải đơn thuần trả theo.
+ @auctorial
+* tt
+- của một tác giả
+ @audacious  
+*  tt
+- gan, táo bạo
+- trơ tráo, mặt dạn mày dày, càn rỡ
+
+@audaciously
+* dt
+- táo bạo
+- trơ trẽn, trâng tráo
+ @audaciousness   (audaciousness) @audacity   (audaciousness) @audibility   (audibleness) @audibility
+- (Tech) độ nghe rõ, độ thính âm
+ @audibility factor
+- (Tech) hệ số thính âm
+ @audibility meter
+- (Tech) máy đo độ nghe rõ
+ @audible  
+*  tt
+- có thể nghe thấy, nghe rõ
+
+@audible
+- (Tech) nghe được, thính âm
+ @audible signal
+- (Tech) tín hiệu thính âm
+ @audible spectrum
+- (Tech) phổ thính âm
+ @audible test
+- (Tech) thử nghe, thi:? thính âm
+ @audible tone
+- (Tech) giọng nghe được
+ @audibleness   (audibleness) @audibly
+* dt
+- rõ ràng, rành rành
+ @audience  
+*  dt
+- những người nghe, thính giả; người xem, khán giả; bạn đọc, độc giả
+- sự nghe
+
++ to give audience: lắng nghe
+- sự hội kiến, sự yết kiến; sự tiếp kiến
+
++ to grant an audience to somebody: tiếp kiến ai
+
++ to have an audience of (with) someone: hội kiến với ai
+
+@audience microphone
+- (Tech) máy vi âm nền động
+ @audience-chamber  
+*  dt
+- phòng tiếp kiến
+
+@audio
+- (Tech) thuộc âm thanh
+ @audio
+- (thuộc) âm
+ @audio amplifier
+- (Tech) bộ khuếch đại âm thanh
+ @audio book
+- (Tech) sách dạng âm thanh
+ @audio disk
+- (Tech) đĩa âm thanh
+ @audio engineering
+- (Tech) kỹ thuật âm thanh 
++  acoustic engineering
+ @audio frequency  
+*  dt
+- rađiô tần (số) âm thanh
+
+@audio frequency
+- (Tech) tần số âm thanh, âm tần
+ @audio (frequency) device
+- (Tech) bộ (tần số) âm thanh
+ @audio (frequency) effect
+- (Tech) hiệu ứng (tần số) âm thanh
+ @audio frequency transformer
+- (Tech) bộ biến âm tần
+ @audio generator
+- (Tech) máy tạo sóng âm tần
+ @audio head
+- (Tech) đầu ghi âm
+ @audio indicator
+- (Tech) bộ chỉ báo âm lượng
+ @audio modulation
+- (Tech) biến điệu âm tần
+ @audio operator
+- (Tech) nhân viên thu-phát thanh
+ @audio oscillator
+- (Tech) bộ dao động âm thanh
+ @audio output
+- (Tech) phát âm thanh
+ @audio reproduction
+- (Tech) tái tạo âm thanh
+ @audio response device
+- (Tech) bộ phát âm
+ @audio response unit
+- (Tech) bộ phận đáp lời
+ @audio signal
+- (Tech) tín hiệu âm thanh
+ @audio tape
+- (Tech) băng âm (tần)
+ @audio transformer
+- (Tech) bộ biến áp âm tần
+ @audio transmission
+- (Tech) truyền âm thanh
+ @audio typist
+* dt
+- người nghe băng ghi âm và các loại hình máy móc để nghe
+ @audiofrequency
+* dt
+- (rađiô) tần số âm thanh
+ @audiofrequency meter
+- (Tech) máy đo âm tần
+ @audiofrequency oscillator
+- (Tech) bộ dao động âm tần
+ @audiofrequency spectrometer
+- (Tech) phổ kế âm tần
+ @audio-frequency wave
+- (Tech) sóng âm-tầm
+ @audiogenic
+* tt
+- tạo nên bởi những tần số tương ứng với sóng âm thanh
+ @audiogram  
+*  dt
+- đồ thị nghe
+
+@audiogram
+- (Tech) biểu đồ âm thanh
+ @audiograph  
+*  dt
+- máy ghi sức nghe
+
+@audio-lingual
+* tt
+- nghe nói
+ @audiologist
+* dt
+- nhà thính học
+ @audiology
+* dt
+- thính học
+ @audiometer  
+*  dt
+- cái đo sức nghe
+
+@audiometer
+- (Tech) âm kế, máy đo sức nghe
+ @audiometric
+- xem audiometer
+ @audiometry  
+*  dt
+- phép đo sức nghe
+
+@audiometry
+- (Tech) phép đo âm, phép đo sức nghe
+ @audion  
+*  dt
+- (vật lý) triôt, đèn ba cực
+
+@audiophone
+* dt
+- máy tăng sức nghe; máy trợ thính
+ @audiotypist
+* dt
+- người nghe băng ghi âm và các loại hình máy móc để nghe
+ @audio-visual
+- (Tech) thính thị, nghe nhìn
+ @audiovisual
+* tt
+- nghe nhìn; thính thị
+
++  audio-visual method:phương pháp nghe nhìn (để dạy tiếng...), phương pháp thính thị
+ @audio-visual equipment
+- (Tech) thiết bị thính thị
+ @audio-visual method  
+*  dt
+- phương pháp nghe nhìn (để dạy tiếng...)
+
+@audio-visual recorder
+- (Tech) máy ghi thính thị
+ @audiovisual system
+- (Tech) hệ thống thính thị
+ @audiphone  
+*  dt
+- máy tăng sức nghe
+
+@audit  
+*  dt
+- sự kiểm tra (sổ sách)
+
++ audit ale: bia đặc biệt trong ngày kiểm tra sổ sách
+- sự thanh toán các khoản (theo kỳ hạn) giữa tá điền và địa chủ
+*  ngdgt
+- kiểm tra (sổ sách)
+
+@audit
+- (Tech) kiểm tra
+ @audit
+- thử, kiểm nghiệm
+ @audit log
+- (Tech) sổ kiểm tra
+ @audit trail
+- (Tech) vết kiểm tra, dấu kiểm tra
+ @auditing
+- (Tech) kiểm tra quản lý
+ @audition  
+*  dt
+- sức nghe; sự nghe; thính giác
+- (sân khấu) sự thử giọng, sự hát nghe thử (trước khi nhận vào làm diễn viên hát)
+*  ngdgt
+- (sân khấu) thử giọng (trước khi nhận vào làm diễn viên hát)
+*  ndgt
+- tổ chức một buổi hát thử giọng
+
+@auditive  
+*  tt
+- (thuộc) sự nghe; (thuộc) thính giác
+
+@auditor  
+*  dt
+- người kiểm tra sổ sách
+- người nghe, thính giả
+
+@auditorial  
+*  tt
+- (thuộc) sự kiểm tra sổ sách
+
+@auditorium  
+*  dt
+- phòng thính giả, giảng đường
+
+@auditorium
+- (Tech) phòng nghe, thính đường
+ @auditory  
+*  tt
+- (thuộc) sự nghe; (thuộc) thính giác
+
++ auditory organ: cơ quan thính giác
+
++ auditory never: dây thần kinh thính giác
+- thâu nhận bằng tai
+*  dt
+- những người nghe, thính giả
+- (từ hiếm,nghĩa hiếm) (như) auditorium
+
+@auditory sensation
+- (Tech) cảm quan thính giác
+ @aug
+* (viết tắt)
+- tháng tám (August)
+ @augend
+- (Tech) toán tố thứ nhất (toán cộng); số bị cộng; số hạng thứ hai
+ @augend
+- (máy tính) số hạng thứ hai
+ @augend digit
+- (Tech) số tự số hạng thứ hai
+ @auger  
+*  dt
+- cái khoan, mũi khoan
+- máy khoan (thăm dò địa chất)
+
+@aught  
+*  dt
+- cái gì
+
++ if you have aught to say: nếu anh có cái gì muốn nói
+*  dt
+- (từ cổ,nghĩa cổ) chút nào, chút gì, chừng mực nào; một mặt nào đó
+
++ for aught I know: trong chừng mực mà tôi biết
+
+@augite
+* dt
+- <địa> Ogit
+ @augitə  
+*  dt
+- (địa lý,địa chất) Ogit
+
+@augment  
+*  dt
+- (ngôn ngữ học) gia tố, yếu tố thêm[ɔ:g'ment]
+*  ngdgt
+- làm tăng lên
+- (ngôn ngữ học) thêm gia tố
+*  ndgt
+- tăng lên
+
+@augment
+- (Tech) gia tố (d); làm tăng, tăng lên (đ)
+ @augment
+- tăng thêm, bổ sung
+ @augmentable
+- xem augment
+ @augmentation  
+*  dt
+- sự làm tăng lên; sự làm rộng ra; sự tăng lên; sự thêm vào
+- (âm nhạc) cách giãn rộng, phép mở rộng
+
+@augmentation
+- sự tăng
+ @augmentative  
+*  tt
+- làm tăng thêm
+- (ngôn ngữ học) tăng to (hậu tố)
+*  dt
+- (ngôn ngữ học) hậu tố tăng to; từ tăng to
+
+@augmented
+- được tăng
+ @Augmented Dickey Fuller test
+- (Econ) ADF - Kiểm định Dickey Fuller bổ sung.
+: Kiểm định này là một phiên bản của kiểm định Dickey Fuller đối với một đơn vị gốc khi tiêu thức xáo động là tương quan theo chuỗi sau khi đã xem xét sự khác nhau trong quá trình tĩnh khác (DSP).
+ @Augmented Phillips curve
+- (Econ) Đường Phillips bổ sung.
+: Việc đưa biến giá cả vào đường Phillips gốc đã dịch chuyển học thuyết một các hiệu quả từ một giải thích về tiền công bằng tiền thành cách giải thích theo nghĩa thực tế.
+ @augmenter
+- xem augment
+ @augmention
+- (Tech) làm tăng, tăng lên (d)
+ @augur  
+*  dt
+- (từ cổ,nghĩa cổ) thầy bói
+*  dgt
+- tiên đoán, bói
+- báo trước, là điềm báo trước
+
++ to augur well for: là điềm tốt cho;
+
++ to augur ill for: là điềm xấu cho
+
+@augural  
+*  tt
+- (thuộc) thuật bói toán
+- là điềm báo trước; có ý nghĩa đối với tương lai
+
+@augury  
+*  dt
+- thuật xem điềm mà bói
+- điềm, triệu
+- linh cảm
+- lời đoán trước
+
+@august  
+- ɔ:'gʌst@augustan
+* tt
+- thuộc triều đại Augustus Caesar khi nền văn học La Mã hưng thịnh
+- cổ điển, kiểu cách (nói về <văn>)
+ @augustly
+- xem august
+ @augustness
+- xem august
+ @auk  
+*  dt
+- (động vật học) chim anca
+
+@auld lang syne  
+*  dt
+- (Ê-cốt) ngày xưa, thuở xưa
+
+@aulic  
+*  tt
+- (thuộc) triều đình
+
+@aulophyte
+* dt
+- thực vật sống trong hốc cây
+ @aulostomatous
+* tt
+- (sinh học) có miệng ống
+ @aumbry
+* dt
+- hốc tường trong nhà thờ để giữ cốc đĩa dùng vào lễ ban thanh thể
+ @aunt  
+*  dt
+- cô, dì, thím, mợ, bác gái
+!my aunt!
+- trời ơi!, thật à! (tỏ sự ngạc nhiên)
+
+@aunt sally  
+*  dt
+- trò chơi ném que vào ống điếu ở mồm người đàn bà bằng gỗ (ở chợ phiên)
+- (nghĩa bóng) mục tiêu công kích; mục tiêu chế giễu
+
+@aunthood
+- xem aunt
+ @auntie  
+*  dt
+- muấy dì, thím, mợ, bác gái
+
+@aura  
+*  dt
+- hơi thoảng toát ra, hương toát ra (từ hoa...); tinh hoa phát tiết ra (của người...)
+- (y học) hiện tượng thoáng qua
+
+@aural  
+*  tt
+- (thuộc) hương toát ra (từ hoa...); (thuộc) tinh hoa phát tiết ra
+- (y học) (thuộc) hiện tượng thoáng qua
+- (thuộc) tai
+- đã nghe được bằng tai, qua tai
+*  tt
+- thuộc tai
+- đã nghe được bằng tai, qua tai
+
+@aural
+- (Tech) thuộc về tai, thuộc về thính giác
+ @aural carrier
+- (Tech) sóng mang thanh, sóng tải âm
+ @aural detection
+- (Tech) phát hiện bằng âm thanh
+ @aural detector
+- (Tech) bộ kiểm sóng âm thanh
+ @aural harmonic
+- (Tech) điều âm dựa trên thính giác
+ @aural perception
+- (Tech) cảm thụ bằng thính giác
+ @aural presentation
+- (Tech) trình bày bằng âm thanh
+ @aural reception
+- (Tech) nhận bằng tai
+ @aural signal
+- (Tech) tín hiệu chuông (quay về)
+ @aural transmitter
+- (Tech) máy phát thính-thị @aural warning
+- (Tech) báo hiệu bằng âm thanh
+ @aurally
+* dt
+- bằng cách nghe
+ @aureate  
+*  tt
+- vàng ánh, màu vàng
+- rực rỡ, chói lọi
+
+@aureately
+- xem aureate
+ @aureateness
+- xem aureate
+ @aurelia  
+*  dt
+- (động vật học) con sứa
+- (từ cổ,nghĩa cổ) con nhộng (bướm)
+
+@aurelian  
+*  tt
+- (động vật học) (thuộc) loài sứa
+- (từ cổ,nghĩa cổ) (thuộc) nhộng (bướm)
+*  dt
+- người sưu tập sâu bọ; người nuôi sâu bọ
+
+@aureola   (aureole) @aureole   (aureole) @aureomycin
+* dt
+- (y học) Aureomixin
+ @auric  
+*  tt
+- (thuộc) vàng
+- (hoá học) (thuộc) vàng III,  auric
+- (địa lý,địa chất) có vàng
+
+@auricle  
+*  dt
+- tai ngoài (động vật)
+- chỗ lồi ra như dái tai
+- (giải phẫu) tâm nhĩ
+
+@auricled  
+*  tt
+- có tai ngoài
+- hình dái tai; có tai
+- (giải phẫu) có tâm nhĩ
+
+@auricula  
+*  dt,  số nhiều auriculas,  auriculae
+- (thực vật học) cây tai gấu
+
+@auriculae  
+*  dt,  số nhiều auriculas,  auriculae
+- (thực vật học) cây tai gấu
+
+@auricular   (auriculae) @auricularis
+* dt
+- (giải phẫu) học cơ tai
+ @auricularly
+- xem auricular
+ @auriculate  
+*  tt
+- có tai
+
+@auriculately
+- xem auriculate
+ @auriculo-ventricular
+* dt
+- (giải phẩu học) thuộc nhĩ thất
+ @auriferous  
+*  tt
+- có vàng
+
+@auriform  
+*  tt
+- hình tai
+
+@auriga  
+*  dt
+- (thiên văn học) chòm sao Ngự phu
+
+@aurignacian
+* tt
+- thuộc thời kỳ Ô-ri-nhắc
+ @aurilave  
+*  dt
+- dụng cụ (để) rửa tai
+
+@aurinasal
+* dt
+- thuộc tai-mũi
+ @auriscope  
+*  dt
+- kính soi tai
+
+@aurist  
+*  dt
+- (y học) thầy thuốc chuyên khoa tai
+
+@auriularia
+* dt
+- (sinh học) ấu trùng
+ @aurochs  
+*  dt
+- (động vật học) bò rừng Châu âu
+
+@aurora  
+*  dt
+- Aurora nữ thần Rạng đông
+- ánh hồng lúc bình minh, ánh ban mai (trên bầu trời)
+- cực quang
+
++ aurora borealis: bắc cực quang
+
++ aurora australis: nam cực quang
+
+@aurora
+- (Tech) cực quang [TQ] (nam @auroral  
+*  tt
+- (thuộc) bình minh, (thuộc) rạng đông
+- ửng hồng, ánh hồng (như ánh mặt trời lúc rạng đông)
+- (thuộc) cực quang (nam cực quang, bắc cực quang)
+
+@auroral zone propagation
+- (Tech) truyền lan vùng cực quang
+ @aurorally
+- xem aurora
+ @aurorean
+- xem aurora
+ @auscultate  
+*  dgt
+- (y học) nghe bệnh
+
+@auscultation  
+*  dt
+- (y học) sự nghe bệnh
+
+@auscultative
+- xem auscultate
+ @auscultatory
+- xem auscultate
+ @auspicate  
+*  ngdgt
+- bắt đầu, khai trương (để lấy may cho công việc...)
+*  ndgt
+- báo điềm
+
+@auspice  
+*  dt
+- (số nhiều) sự che chở, sự bảo hộ, sự bảo trợ
+
++ under the auspices of: được sự che chở của
+- điềm hay, điềm lành, điềm tốt
+
++ under favourable auspices: có những điềm tốt
+- thuật bói chim (xem chim để bói)
+
+@auspices
+* dt
+- (under the auspices of somebody  cái gì che chở và ủng hộ; có ai@auspicious  
+*  tt
+- có điềm tốt, điềm lành; thuận lợi
+- thịnh vượng
+
+@auspiciously
+- xem auspicious
+ @auspiciousness  
+*  dt
+- sự có điềm tốt, sự có điềm lành; sự thuận lợi
+- sự thịnh vượng
+
+@aussie
+* tt
+- <thgt> có quê quán ở Uc
+* dt
+- <thgt> người Uc
+ @austenite
+* dt
+- (khoáng chất) Auxtenit
+ @austere  
+*  tt
+- nghiêm khắc, khắt khe, chặt chẽ
+- mộc mạc, chân phương
+- khắc khổ, khổ hạnh; giản dị một cách khắc khổ
+- chát (vị)
+
+@austerely
+* dt
+- khổ hạnh, khắc khổ
+ @austereness   (austereness) @austerity   (austereness) @austral  
+*  tt
+- nam
+
+@australian  
+*  tt
+- (thuộc) nước Uc
+*  dt
+- người Uc
+
+@australoid
+* dt
+- người bản địa châu úc
+ @australopithecine
+* dt
+- người vượn phương Nam
+* tt
+- thuộc người vượn phương Nam
+ @austrian  
+*  tt
+- (thuộc) nước Ao
+*  dt
+- người Ao
+
+@Austrian school
+- (Econ) Trường phái kinh tế Áo.
+: Tên trường phái này được sử dụng để chỉ các nhà kinh tế học từ Menger, Wieser và Bohm-Bawerk trở đi, họ phần lớn nghiên cứu ở Viên và theo một kiểu phân tích riêng biệt.
+ @austro
+* ttghép
+- (thuộc) nước áo
+ @autacoid
+* dt
+- (sinh học) kích ức tố nội tiết, nội tiết tố
+ @autarchic   (autarchical) @autarchical   (autarchical) @autarchy  
+*  dt
+- chủ quyền tuyệt đối
+- (như) autarky
+
+@autarkic   (autarkical) @autarkical   (autarkical) @autarkist  
+*  dt
+- người chủ trương tự cấp tự túc
+
+@autarky  
+*  dt
+- chính sách tự cấp tự túc; sự tự cấp tự túc
+
+@Autarky
+- (Econ) Tự cung tự cấp.
+: Tình trạng trong đó một nước tự tách khỏi thương mại quốc tế bằng những hạn chế như thuế quan nhằm tự túc, thường do nguyên nhân làm việc hoặc chính trị.
+ @Autarky economy
+- (Econ) Nền kinh tế tự cung tự cấp
+ @authentic  
+*  tt
+- thật; xác thực
+
++ authentic signature: chữ ký thật
+
++ authentic news: tin thật
+- đáng tin
+
+@authentically
+* dt
+- đích thực, xác thực
+ @authenticate  
+*  ngdgt
+- xác nhận là đúng, chứng minh là xác thực
+- làm cho có giá trị; nhận thức (chữ ký...)
+
+@authentication  
+*  dt
+- sự xác nhận là đúng, sự chứng minh là xác thực
+- sự làm cho có giá trị; sự nhận thức
+
+@authentication code
+- (Tech) mã nhận đúng, mã chứng nhận chính xác
+ @authenticator
+- xem authenticate
+ @authenticity  
+*  dt
+- tính đúng thật, tính xác thật
+
+@authenticity
+- tính xác thực
+ @author  
+*  dt
+- tác giả
+
++  Ho Ngoc Duc is the author of this software:Hồ Ngọc Đức là tác giả của phần mềm này
+- người tạo ra, người gây ra
+
++ author of evil: người gây ra các điều ác
+- (tôn giáo) đảng sáng tạo (Chúa)
+
+@author
+- (Tech) tác giả
+ @authoress  
+*  dt
+- nữ tác giả
+
+@authorial  
+*  tt
+- (thuộc) tác giả
+
+@authoring language
+- (Tech) ngôn ngữ trứ tác
+ @authoring system
+- (Tech) hệ thống trứ tác
+ @authorisation
+* dt
+- sự cho phép, sự cấp phép
+- giấy phép
+ @authorise   (authorise) @authoritarian  
+*  tt
+- người độc đoán
+
+@authoritarianism  
+*  dt
+- chủ nghĩa độc đoán
+
+@authoritative  
+*  tt
+- có căn cứ đích xác, có am hiểu tường tận, có thể tin được; có thẩm quyền
+
++ an authoritative report: một bản báo cáo có căn cứ
+- hống hách, hách dịch; mệnh lệnh, quyết đoán
+
++ to speak in authoritative tone: nói với giọng hách dịch
+- có uy quyền, có quyền lực
+
+@authoritatively
+* dt
+- hống hách, hách dịch
+ @authoritativeness
+- xem authoritative
+ @authority  
+*  dt
+- uy quyền, quyền lực, quyền thế
+
++ to exercise authority over somebody: có quyền lực đối với ai
+- uỷ quyền
+- ((thường) số nhiều) nhà cầm quyền, nhà chức trách, nhà đương cục
+- người có uy tín, người có thẩm quyền, chuyên gia, người lão luyện (về một môn nào)
+
++ an authority on phonetics: chuyên gia về ngữ âm
+- tài liệu có thể làm căn cứ đáng tin, căn cứ
+
++ what is his authority?: anh ta căn cứ vào đâu?
+!to do something on one own's authority
+- tự ý làm gì, tự cho phép làm gì
+!on (from) good authority
+- theo một nguồn đáng tin cậy, theo căn cứ đích xác
+
+@authorization  
+*  dt
+- sự cho quyền, sự cho phép
+- uỷ quyền, quyền được cho phép
+
+@authorize   (authorise) @authorized frequency
+- (Tech) tần số được quyền @authorized program
+- (Tech) chương trình được quyền @authorized user
+- (Tech) người dùng được quyền, người dùng được phép
+ @authorizer
+- xem authorize
+ @authorship  
+*  dt
+- nghề viết văn
+- nguồn tác giả (một cuốn sách)
+
++ a book of doubrful authorship: một cuốn sách chưa rõ nguồn tác giả (chưa rõ tác giả là ai)
+
+@autism  
+*  dt
+- tính tự kỷ
+
+@autist
+- xem autism
+ @autistic
+* tt
+- (thuộc) chứng tự kỷ
+* dt
+- ngưới mắc chứng tự kỷ
+ @autistically
+- xem autism
+ @auto  
+*  dt
+- (thông tục) xe ô tô
+
+@auto
+- (Tech) tự động
+ @auto decompressor
+- (Tech) máy giảm áp tự động
+ @auto jumb
+- (Tech) nhảy tự động
+ @auto mode
+- (Tech) kiểu tự động
+ @auto program
+- (Tech) chương trình tự động
+ @auto relay
+- (Tech) bộ kế điện tự động
+ @auto tracking
+- (Tech) truy tích tự động
+ @autoantagonism
+* dt
+- hiện tượng tự đối kháng
+ @autoantagonistic
+* tt
+- tự đối kháng
+ @autoantibiosis
+* dt
+- đời sống tự kìm hãm
+ @autoantibody
+* dt
+- (sinh học) thể tự kháng
+ @autobahn  
+*  dt,  số nhiều autobahnen
+- đường rộng dành riêng cho ô tô, xa lộ (ở Đức)
+
+@autobahnen  
+*  dt,  số nhiều autobahnen
+- đường rộng dành riêng cho ô tô, xa lộ (ở Đức)
+
+@autobiographer  
+*  dt
+- người viết tự truyện
+
+@autobiographic   (autobiographical) @autobiographical   (autobiographical) @autobiographically
+- xem autobiography
+ @autobiography  
+*  dt
+- sự viết tự truyện
+- tự truyện
+
+@autoblast
+* dt
+- tế bào riêng biệt; vi sinh vật riêng biệt
+ @autobreeding
+* dt
+- sự tự nhân giống
+ @autobus  
+*  dt
+- xe buýt
+
+@autocad
+- Tên một chương trình trợ giúp thiết kế bằng máy tính của hãng AutoDesk
+ @autocar  
+*  dt
+- xe ô tô
+
+@autocatalysis  
+*  dt
+- sự tự xúc tác
+
+@autocatalytic
+- xem autocatalysis
+ @autocatalytically
+- xem autocatalysis
+ @autocephalous  
+*  tt
+- (tôn giáo) độc lập (giám mục, nhà thờ không thuộc phạm vi một tổng giám mục)
+
+@autochrome  
+*  dt
+- kính ảnh màu
+
+@autochthon  
+*  dt,  số nhiều autochthon,  autochthones
+- người bản địa
+- (sinh vật học) loài bản địa
+
+@autochthonal   (autochthonic) @autochthones  
+*  dt,  số nhiều autochthon,  autochthones
+- người bản địa
+- (sinh vật học) loài bản địa
+
+@autochthonic   (autochthonic) @autochthonism
+- xem autochthonous
+ @autochthonous   (autochthonic) @autochthonously
+- xem autochthonous
+ @autochthony
+- xem autochthonous
+ @autocinesis
+* dt
+- sự tự vận động
+ @autoclave  
+*  dt
+- nồi hấp
+
+@autoclaving
+* dt
+- sự hấp; sự khử trùng (bằng nồi hấp)
+ @autocode
+- (Tech) biên mã tự động
+ @autocoder
+- (Tech) bộ biên mã tự động
+ @autocoid
+* dt
+- nội tiết tố, kích ức tố
+ @autocorrelation
+- (Tech) tự tương quang
+ @Autocorrelation
+- (Econ) Sự tự tương quan.
+: Xem SERIAL CORRELATION.
+ @autocorrelation
+- tự tương quan
+ @autocorrelation analyser
+- (Tech) bộ phân tích tự tương quan
+ @autocorrelation function
+- (Tech) hàm số tự tương quan
+ @autocorrelation vocoder
+- (Tech) bộ mã tiếng nói tự tương quan
+ @autocorrelogram
+- biểu đồ sự tương quan
+ @autocorrlator
+- máy phân tích sự tương quan
+ @autocovariance
+- tự hiệp, phương sai
+ @autocracy  
+*  dt
+- chế độ chuyên quyền
+- nước dưới chế độ chuyên quyền
+
+@autocrat  
+*  dt
+- người chuyên quyền
+
+@autocratic   (autocratical) @autocratical   (autocratical) @autocratically
+* dt
+- chuyên quyền, độc đoán
+ @auto-cross
+* dt
+- cuộc đua xe hơi xuyên đất nước
+ @autocue
+* dt
+- thiết bị đặt cạnh máy quay để một người khi nói trên TV có thể nhìn đọc được bản viết mà khỏi cần học thuộc
+ @auto-cycle
+* dt
+- xe đạp tự động
+ @autodafe
+* dt
+- (sử) hình phạt hoả thiêu
+- dàn hoả thiêu
+ @auto-da-fé  
+*  dt,  số nhiều aut-da-fé
+- sự kết tội hoả thiêu (của pháp đình tôn giáo thời Trung cổ); sự hành tội hoả thiêu
+
+@autodecremental addressing
+- (Tech) định địa chỉ tự giảm dần
+ @autodidact  
+*  dt
+- người tự học
+
+@autodidactic
+- xem autodidact
+ @autoduality
+- tính tự đối ngẫu
+ @autodump
+- (Tech) xổ tự động, tự động đổ ra
+ @autodyne  
+*  tt
+- (vật lý) tự hêtêrôđyn
+*  dt
+- (vật lý) máy tự hêtêrôđyn
+
+@autodyne
+- (Tech) tự sai [TQ], autôddin
+ @autodyne circuit
+- (Tech) mạch tự sai [ĐL]
+ @autodyne oscillator
+- (Tech) bộ dao động tự sai [TQ]
+ @autodyne reception
+- (Tech) thu tự sai [ĐL]
+ @autoecious
+* tt
+- (sinh học) một chủ, đơn chủ
+ @autoecism
+* dt
+- hiện tượng một chủ, hiện tượng đơn chủ
+ @autoecology
+* dt
+- sinh thái học cá thể
+ @autoelectronic emission
+- (Tech) tự phát xạ điện tử tự động
+ @autoeroticism
+* dt
+- thủ dâm
+ @autoerotism
+* dt
+- thủ dâm
+ @auto-exchange
+- (Tech) tổng đài điện thoại tự động
+ @autoexcitation
+- (Tech) tự kích thích
+ @autofecundation
+* dt
+- sự tự thụ tinh
+ @autofluorescence
+* dt
+- sự tự phát hùynh quang
+ @autogamic
+- xem autogamy
+ @autogamous  
+*  tt
+- (sinh vật học) tự giao
+
+@autogamy  
+*  dt
+- sự tự giao
+
+@autogenous  
+*  tt
+- (sinh vật học) tự sinh
+- (kỹ thuật) (thuộc) hàn xì
+
++ autogenous welding: hàn xì
+
+@autogenously
+- xem autogenous
+ @autogeny  
+*  dt
+- (sinh vật học) sự tự sinh
+
+@autogiro   (autogiro) @autograph  
+*  ngdgt
+- tự viết tay
+*  dt
+- máy tự ghi
+- chữ viết riêng (của một người); chữ ký riêng
+- bản thảo viết tay (của tác giả)
+- bản tự viết tay
+
+@autographic   (autographical) @autographical   (autographical) @autographically
+- xem autograph
+ @autography  
+*  dt
+- sự tự viết tay
+- chữ viết tay (của tác giả)
+- sự in nguyên cáo
+
+@autogyro   (autogiro) @autohypnosis   (autohypnosis) @autohypnotic
+- xem autohypnosis
+ @autohypnotism   (autohypnosis) @autoimmune
+* tt
+- (y học) tự miễn dịch
+ @autoimmunity
+* dt
+- (y học) tính tự miễn dịch
+ @autoimmunization
+* dt
+- (y học) hiện tượng tự miễn dịch
+ @autoincremental addressing
+- (Tech) định địa chỉ tự tăng dần
+ @autoindex
+- (Tech) chỉ số tự động
+ @autoinductive coupling
+- (Tech) ghép biến áp tự động
+ @autoinfection
+* dt
+- (sinh học) sự tự nhiễm trùng
+ @autoinfusion
+* dt
+- sự tự hoà lẫn
+ @autoinhibitor
+* dt
+- (sinh học) chất tự ức chế
+ @autoinoculation
+* dt
+- (y học) sự tự tiêm chủng
+ @autointoxication  
+*  dt
+- (y học) sự tự nhiễm độc
+
+@autokinesia
+- Cách viết khác : autokinesis 
+ @autokinetic
+* tt
+- (sinh học) tự vận động
+ @autologous
+* dt
+- (sinh học) sự tự rụng
+ @autolysate
+* dt
+- (sinh học) sản phẩm của sự tự tiêu
+ @autolysin
+* dt
+- (sinh học) chất tạo nên sự tự tiêu
+ @autolysis  
+*  dt
+- (sinh vật học) sự ưu tiên
+
+@autolytic
+- xem autolysis
+ @auto-manual
+- (Tech) tự động-thủ công
+ @automanual (telephone) exchange
+- (Tech) tổng đài bán tự động
+ @automat  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) quán ăn tự động
+
+@automat
+- (Tech) máy tự động; thiết bị tự động
+ @automata   (automata) @automata
+- (Tech) máy tự động; lý thuyết máy tự động
+ @automata theory
+- (Tech) lý thuyết (máy) tự động
+ @automate   (automatize) @automated office (AO)
+- (Tech) văn phòng được tự động hóa
+ @automatic   (automatical) @automatic
+- (Tech) thuộc tự động; máy tự động
+ @automatic bias
+- (Tech) thiên áp tự động; lệch số tự động
+ @automatic black level control
+- (Tech) điều chỉnh tự động mức đen
+ @automatic break
+- (Tech) cắt tự động
+ @automatic brightness control
+- (Tech) điều chỉnh độ chói tự động
+ @automatic calling
+- (Tech) gọi tự động
+ @automatic calling unit
+- (Tech) bộ phận gọi tự động
+ @automatic carriage
+- (Tech) bộ lên giấy tự động
+ @automatic check
+- (Tech) kiểm (tra) tự động
+ @automatic checkout system
+- (Tech) hệ thống kiểm (ra) tự động
+ @automatic circuit breaker
+- (Tech) cái cắt mạch tự động
+ @automatic coding
+- (Tech) biên mã tự động
+ @automatic compiler
+- (Tech) chương trình biên dịch tự động
+ @automatic contrast control
+- (Tech) điều chỉnh độ tương phản tự động
+ @automatic control
+- (Tech) điều khiển tự động, điều chỉnh tự động
+ @automatic controller
+- (Tech) bộ điều khiển tự động
+ @automatic data link
+- (Tech) đường truyền dữ kiện tự động
+ @automatic data processing (ADP)
+- (Tech) xử lý dữ liệu tự động
+ @automatic digital network (autodin)
+- (Tech) hệ thống thông tin số tự tự động (toàn cầu)
+ @automatic direction finder
+- (Tech) máy tìm hướng tự động
+ @automatic direction finder
+- (Tech) máy tìm phương tự động
+ @automatic document feeder tray
+- (Tech) khay cấp giấy tự động
+ @automatic error correction
+- (Tech) hiệu chính sai số tự động
+ @automatic exchange
+- (Tech) tổng đài tự động
+ @automatic expander
+- (Tech) bộ giãn tự động
+ @automatic feed
+- (Tech) tiếp vận tự động
+ @Automatic fiscal policy
+- (Econ) Chính sách thu chi ngân sách tự động.
+ @automatic flight control
+- (Tech) điều khiển bay tự động
+ @automatic following
+- (Tech) theo sát tự động
+ @automatic frequency control
+- (Tech) điều khiển tần số tự động
+ @automatic frequency control circuit
+- (Tech) mạch điều khiển tần số tự động
+ @automatic gain control
+- (Tech) điều khiển gia lượng tự động
+ @automatic gain control circuit
+- (Tech) mạch điều khiển tăng ích tự động
+ @automatic graph
+- (Tech) đồ thị tự động
+ @automatic grid bias
+- (Tech) độ lệch lưới tự động
+ @automatic hunting
+- (Tech) tìm tự động
+ @automatic interrupter
+- (Tech) bộ ngắt tự động
+ @automatic library call
+- (Tech) gọi thư viện tự động
+ @automatic loader
+- (Tech) bộ nạp tự động
+ @automatic message
+- (Tech) thông báo tự động
+ @automatic message switching
+- (Tech) đảo mạch thông báo tự động
+ @automatic noise limiter
+- (Tech) bộ hạn chế nhiễu tự động
+ @automatic phase control
+- (Tech) bộ điều chỉnh pha (vị tướng) tự động
+ @automatic polling
+- (Tech) vấn đáp tự động
+ @automatic processing
+- (Tech) xử lý tự động
+ @automatic program generator
+- (Tech) bộ tạo chương trình tự động
+ @automatic programmed tool (APT)
+- (Tech) công cụ thảo chương tự động
+ @automatic programming
+- (Tech) thảo chương tự động
+ @automatic proof
+- (Tech) chứng minh tự động
+ @automatic radio compass
+- (Tech) la bàn vô tuyến tự động
+ @automatic range tracking
+- (Tech) truy tích theo cự ly tư động
+ @automatic reading
+- (Tech) đọc tự động
+ @automatic reasoning
+- (Tech) lập luận tự động
+ @automatic record changer
+- (Tech) bộ thay đĩa tự động (máy quay đĩa)
+ @automatic recovery program
+- (Tech) chương trình khôi phục tự động
+ @automatic redundancy
+- (Tech) độ dư thừa tự động
+ @automatic regulator
+- (Tech) bộ chỉnh tự động
+ @automatic relay
+- (Tech) bộ nối điện tự động
+ @automatic release
+- (Tech) trả lại tự động
+ @automatic request for repetition
+- (Tech) yêu cầu tự động xin lập lại
+ @automatic restart
+- (Tech) tái khởi động tự động
+ @automatic retransmitter
+- (Tech) máy phát lại tự động
+ @automatic ringing
+- (Tech) reo chuông tự động
+ @automatic scan
+- (Tech) quét tự động
+ @automatic scrolling
+- (Tech) cuộn tự động
+ @automatic search
+- (Tech) tìm tự động
+ @automatic search jammer
+- (Tech) máy phá rối tìm tự động
+ @automatic segmentation
+- (Tech) phân đoạn tự động
+ @automatic selectivity control
+- (Tech) điều chỉnh chọn lọc tự động
+ @automatic sending receiving (ASR)
+- (Tech) chuyển-nhận tự động
+ @automatic sequence
+- (Tech) chuỗi @automatic shutdown
+- (Tech) ngưng tự động
+ @automatic signaling
+- (Tech) báo hiệu tự động
+ @Automatic stabilizers
+- (Econ) Các biện pháp ổn định tự động.
+: Các mối quan hệ làm giảm biên độ của biến động chu kỳ trong một nền kinh tế mà không cần hành động trực tiếp của chính phủ.
+ @automatic starter
+- (Tech) bộ khởi động tự động
+ @automatic starting motor
+- (Tech) động cơ khởi động tự động
+ @automatic station
+- (Tech) đài tự động
+ @automatic switchboard
+- (Tech) tổng đài tự động
+ @automatic switching
+- (Tech) chuyển mạch tự động
+ @automatic switching system
+- (Tech) hệ thống chuyển mạch tự động
+ @automatic system reconfiguration
+- (Tech) tự động tái cấu hình hệ thống 
+ @automatic telegraphy
+- (Tech) môn điện báo tự động
+ @automatic telephone message recorder
+- (Tech) máy ghi thông báo điện thoại tự động
+ @automatic telephone set
+- (Tech) máy điện thoại tự động
+ @automatic telephone system
+- (Tech) hệ thống điện thoại tự động
+ @automatic telephony
+- (Tech) điện thoại tự động
+ @automatic teller
+- (Tech) thâu ngân viên tự động (máy gởi-rút tiền tự động)
+ @automatic teller machine
+- (Tech) máy gửi-rút tiền tự động
+ @automatic text reflow
+- (Tech) cuốn văn bản tự động
+ @automatic tracking 
++  auto tracking
+ @automatic translation
+- (Tech) dịch tự động
+ @automatic transmission
+- (Tech) phát @automatic transmitter
+- (Tech) máy phát tự động
+ @automatic tuning control
+- (Tech) bộ điều chỉnh tần số tự động
+ @automatic variable
+- (Tech) biến tự động
+ @automatic voice network (autovon)
+- (Tech) mạng điện thoại tự động (ưu tiên quân sự)
+ @automatic volume compressor
+- (Tech) bộ nén âm lượng tự động
+ @automatic volume control
+- (Tech) điều chỉnh âm lượng tự động
+ @automatic volume control circuit
+- (Tech) mạch tự điều chỉnh âm lượng
+ @automatic volume expander
+- (Tech) bộ giãn âm lượng tự động
+ @automatic volume expansion
+- (Tech) giãn âm lượng tự động
+ @automatic volume recognition
+- (Tech) nhận dạng âm lượng tự động
+ @automatic working
+- (Tech) chế độ tự động
+ @automatical   (automatical) @automatic(al)
+- tự động
+ @automatically
+* dt
+- tự động
+ @automaticity
+- xem automatic
+ @automaticlly
+- một cách tự động
+ @automatics  
+*  dt,  số nhiều dùng như số ít
+- tự động học
+
+@automatics
+- (Tech) ngành tự động hóa
+ @automatics
+- tự động học
+ @automation  
+*  dt
+- sự tự động hoá; kỹ thuật tự động
+
+@automation
+- (Tech) kỹ thuật tự động, tự động hóa
+ @Automation
+- (Econ) Tự động hoá.
+: Trong khi được sử dụng theo nhiều cách, cụm thuật ngữ tự động hoá nói chung được coi là đồng nghĩa với việc thay thế lao động bằng quá trình tự động.
+ @automation
+- sự tự động; tự động học; kỹ thuật tự động
+ @automatism  
+*  dt
+- tính tự động; tác dụng tự động; lực tự động
+- (tâm lý học) hành động vô ý thức, hành động máy móc
+
+@automatism
+- tính tự động
+ @automatist
+- xem automatism
+ @automative
+- xem automation
+ @automatization  
+*  dt
+- sự tự động hoá
+
+@automatization
+- (Tech) tự động hóa
+ @automatization
+- sự tự động hoá
+ @automatize   (automatize) @automaton   (automata) @automaton
+- (Tech) máy tự động
+ @automaton
+- máy tự động ôtômat
+- deterministic a. ôtômat đơn định
+- finite a. may tự động hữu hạn, ôtômat hữu hạn 
+- linear bounded a. ôtômat đẩy xuống
+- non-deterministic a. ôtômat không đơn định 
+- probabilistic a. ôtômat xác suất 
+ @automatous
+- xem automaton
+ @automitic
+* tt
+- (thực vật) tự thụ phấn; tự giao
+ @automixis
+* dt
+- (thực vật) sự tự thụ phấn; sự tự giao
+ @automobile  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) xe ô tô
+
+@automobilist  
+*  dt
+- người lái ô tô
+
+@automonitor
+- (Tech) bộ giám sát tự động; chương trình cơ năng (vận hành)
+ @automorphic
+* tt
+- dạng cá thể
+ @automorphic
+- tự đẳng cấu
+ @automorphism
+- [tính, phép, sự] tự đẳng cấu, phép nguyên hình
+- central a. tự đẳng cấu trung tâm
+- interior a. (đại số) phép tự đẳng cấu trong
+- outer a. phép tự đẳng cấu ngoài
+- singular a. phép tự đẳng cấu kỹ dị 
+ @automotive  
+*  tt
+- tự động
+- (thuộc) máy móc tự động
+- (thuộc) ô tô
+
+@automutation
+* dt
+- sự tự đột biến
+ @autonomic  
+*  tt
+- tự trị
+
+@autonomically
+- xem autonomic
+ @autonomist  
+*  dt
+- người chủ trương tự trị
+
+@autonomous  
+*  tt
+- tự trị
+
+@autonomous
+- tự trị, tự quản, tự điều khiển; ôtômôn
+ @Autonomous consumption
+- (Econ) Tiêu dùng tự định.
+ @Autonomous expenditure
+- (Econ) Khoản chi tiêu tự định.
+: Các khoản chi tiêu được coi là độc lập với mức thu nhập.
+ @Autonomous investment
+- (Econ) Đầu tư tự định.
+ @Autonomous investment demand
+- (Econ) Nhu cầu đầu tư tự định.
+ @Autonomous transactions
+- (Econ) Giao dịch tự định
+: Cụm thuật ngữ này được dùng trong học thuyết về CÁN CÂN THANH TOÁN để xác định những loại giao dịch diễn ra tự phát vì lý do lợi nhuận từ phía các hãng hoặc độ thoả dụng được tăng từ phía các cá nhân .
+ @Autonomous variables
+- (Econ) Các biến tự định
+: Xem EXOGENOUS VARIABLES.
+ @autonomously
+- xem autonomous
+ @autonomy  
+*  dt
+- sự tự trị; quyền tự trị
+- nước tự trị, khu tự trị
+- (triết học) tự do ý chí (theo học thuyết của Căng)
+- sự tự quản
+
+@auto-number-page
+- (Tech) đánh số trang tự động
+ @autoorientation
+* dt
+- sự tự định hướng
+ @auto-oscillation
+- sự tự dao động
+ @autoparthenogenesis
+* dt
+- (sinh học) sự tự phát triển đơn tính
+ @autopathy
+* dt
+- (y học) bệnh nội sinh
+ @autophagous
+* tt
+- (động vật) từ kiếm mồi (chim non khoẻ)
+ @autophilous
+* tt
+- (sinh học) tự thụ phấn; tự giao
+ @autophya
+* dt
+- chất xa-cừ; chất tạo vỏ
+ @autophyte
+* dt
+- (thực vật) thực vật tự dưỡng
+ @autopiler
+- (Tech) bộ biên dịch tự động
+ @autopilot  
+*  dt
+- máy lái tự động
+
+@autopilot
+- (Tech) bộ lái tự động
+ @autoplast
+* dt
+- (sinh học) hạt diệp lục
+ @autoplastic
+* tt
+- (sinh học) ghép cùng loại, tự ghép
+ @autoplasty
+* dt
+- (sinh học) tính ghép cùng loại; tính tự ghép
+ @autoploid
+* dt
+- (sinh học) thể bội cùng loài; thể bội đồng tính
+ @autoplotter
+- (Tech) bộ vẽ tự động
+ @autopodium
+* dt
+- (sinh học) chân tay; chi
+ @autopolyploid
+* dt
+- thể đa bội cùng loài, thể đa bội cùng tính
+* tt
+- thuộc thể đa bội cùng loài, thể đa bội cùng tính
+ @autoprogrammable
+- (Tech) tự lập trình được
+ @autoprojectivity
+- phép tự xạ ảnh
+ @autopsic
+- xem autopsy
+ @autopsical
+- xem autopsy
+ @autopsist
+- xem autopsy
+ @autopsy  
+*  dt
+- (y học) sự mổ xác (để khám nghiệm)
+- (nghĩa bóng) sự mổ xẻ phân tích
+
+@autoptic   (autoptical) @autoptical   (autoptical) @autoradiogram  
+*  dt
+- ảnh phóng xạ tự chụp
+
+@autoradiography
+* dt
+- cách tự chụp bằng tia phóng xạ
+ @autorange
+- (Tech) thang đo tự động
+ @autoredialing
+- (Tech) quay lại số tự động
+ @autoreduplication
+* dt
+- sự tự nhân lại; sự tự sao chép lại
+ @Autoregression
+- (Econ) Tự hồi quy.
+: SỰ HỒI QUY của một biến số trên giá trị hay các giá trị trễ của nó. Xem SERIAL CORRELATION AND ARIMA.
+ @autoregression
+- sự tự hồi quy
+ @autoregressive
+- tự hồi quy
+ @autoregulation
+* dt
+- sự tự điều chỉnh
+ @auto-repeat
+- (Tech) tự động lập lại
+ @autorepeat key
+- phím lặp tự động
+ @auto-request control
+- (Tech) kiểm soát yêu cầu tự động
+ @auto-restart
+- (Tech) tái khởi tự động
+ @autorestart
+- (Tech) tự khởi động lại, tự động bắt đầu lại
+ @autoreverse
+- (Tech) tự đảo ngược, tự quay ngược
+ @autorifle  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) súng tiểu liên
+
+@autorized program
+- (Tech) chương trình quy định
+ @auto-road   (autostrada) @autoroute
+* dt
+- đường dành riêng cho xe ô tô, xa lộ
+ @autosave
+- (Tech) tự động lưu trữ
+ @auto-scan tuner
+- (Tech) bộ điều hưởng tự quét
+ @autoscore
+- (Tech) gạch dưới tự động
+ @autosome
+* dt
+- thể thường nhiễm sắc, thể nhiễm sắc điển hình
+ @autospasy
+* dt
+- (sinh học) sự tự rụng, tự cắt
+ @autospore
+* dt
+- bào tử gốc
+ @autostart routine
+- thủ tục tự khởi động
+ @autostimulation
+* dt
+- sự tự kích thích
+ @autostrada
+-xem auto-road
+
+ @auto-suggestion  
+*  dt
+- sự tự ám thị
+
+@auto-switching center
+- (Tech) tổng đài điện thoại tự động
+ @autosynchronized oscillator
+- (Tech) bộ dao động tự đồng bộ
+ @autotelic
+* tt
+- có mục đích; tự thân
+ @autotest
+- (Tech) tự thử, tự kiểm tra
+ @autothinning
+* dt
+- sự tự tỉa thưa, sự tự làm thưa
+ @autotilly
+* dt
+- sự tự rụng
+ @autotomy
+* dt
+- sự tự cắt, sự tự đứt
+ @autotoxic  
+*  tt
+- (y học) tự nhiễm độc
+
+@autotoxication  
+*  dt
+- (y học) sự tự nhiễm độc
+
+@autotoxin  
+*  dt
+- (y học) tự độc tố
+
+@autotrace
+- tự động dò vết
+ @autotracing
+- (Tech) tự vẽ, tự ghi dấu
+ @autotransductor
+- (Tech) bộ khuếch đại từ tự động
+ @auto-transformer  
+*  dt
+- (điện học) máy tự biến thế
+
+@autotransformer
+- (Tech) máy biến áp tự ngẫu, máy tự biến áp
+ @auto-transplant
+* dt
+- (sinh học) sự tự cấy mô
+* ngdgt
+- tự cấy mô
+ @auto-transplantation
+* dt
+- (sinh học) sự tự cấy mô
+ @autotroph
+* dt
+- (sinh học) sinh vật tự dưỡng
+ @autotrophic  
+*  tt
+- (sinh vật học) tự dưỡng
+
+@autotrophy
+* dt
+- (sinh học) tính tự đưỡng
+ @autotruck  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) xe tải
+
+@autotune
+- (Tech) tự điều hưởng
+ @autotune transmitter
+- (Tech) máy phát tự điều hưởng
+ @autotype  
+*  dt
+- bản sao đúng
+- thuật in ảnh
+*  ngdgt
+- sao đúng
+- in ảnh
+
+@autumn  
+*  dt
+- mùa thu
+- (nghĩa bóng) thời xế chiều (thời kỳ bắt đầu suy tàn)
+
+@autumnal  
+*  tt
+- (thuộc) mùa thu
+- (thực vật học) chín vào mùa thu, nở vào mùa thu
+- hết thời thanh xuân, bắt đầu xế chiều
+
+@autumnally
+- xem autumn
+ @autunit
+* dt
+- (khoáng chất) Autunit
+ @aux
+- cổng phụ
+ @auxanometer  
+*  dt
+- (thực vật học) cái đo sinh trưởng
+
+@auxesis
+* dt
+- (sinh học) sự tăng trưởng
+ @auxetic
+* tt
+- (sinh học) thuộc sự tăng trưởng
+ @auxiliary  
+*  tt
+- phụ, bổ trợ
+
++ auxiliary machinery: máy phụ
+
++ auxiliary verb: trợ dgt
+*  dt
+- người giúp đỡ, người phụ tá
+- (ngôn ngữ học) trợ dgt
+- (số nhiều) quân đội nước ngoài sang giúp đỡ; quân đội đồng minh sang giúp đỡ (ở một nước nào)
+- (kỹ thuật) thiết bị phụ, máy phụ
+
+@auxiliary
+- (Tech) máy phụ; phụ, thêm, thứ yếu (tt)
+ @auxiliary
+- bổ trợ, phụ
+ @auxiliary anode
+- (Tech) dương cực phụ
+ @auxiliary electrode
+- (Tech) điện cực phụ
+ @auxiliary equipment
+- (Tech) thiết bị phụ
+ @auxiliary memory
+- (Tech) bộ nhớ phụ
+ @auxiliary operation
+- (Tech) phép toán phụ; điều hành phụ
+ @auxiliary processor
+- (Tech) bộ xử lý phụ
+ @auxiliary relay
+- (Tech) bộ nối điện phụ
+ @auxiliary selector
+- (Tech) bộ chọn phụ
+ @auxiliary storage
+- (Tech) bộ trữ phụ
+ @auxiliary storage devices
+- (Tech) thiết bị tồn trữ phụ
+ @auxin  
+*  dt
+- auxin (chất kích thích thực vật)
+
+@auxinic
+- xem auxin
+ @auxinically
+- xem auxin
+ @auxo-cardia
+* dt
+- (y học) sự nở tim; sự tăng thể tích tim
+ @auxocyte
+* dt
+- (sinh học) tế bào sinh dục sinh trưởng
+ @auxo-heterotroph
+* dt
+- (sinh học) sinh vật dị dưỡng-sinh trưởng
+ @auxoplasmatic
+* tt
+- (thuộc) chất sinh trưởng
+ @auxospore
+* dt
+- bào tử sinh trưởng
+ @auxotroph
+* dt
+- (sinh học) sinh vật dinh dưỡng thụ động
+ @auxotrophic
+* tt
+- (sinh vật) dinh dưỡng thụ động
+ @auxotrophy
+* dt
+- hiện tượng dinh dưỡng thụ động
+ @

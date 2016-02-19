@@ -1,0 +1,568 @@
+@av
+* (viết tắt)
+- nghe nhìn (audio-visual)
+- bản dịch <kinh thánh> được chính thức phê chuẩn (Authorised Version)
+ @avail  
+*  dt
+- điều có lợi, ích lợi (chỉ dùng trong những kết hợp dưới đây)
+
++ to be of avail: có lợi, có ích
+
++ to be of no avail: không có kết quả, không có hiệu quả, không có ích gì, vô ích
+
++ to be of little avail: không có kết quả gì mấy, không có hiệu quả gì mấy, không có lợi gì mấy
+
++ without avail: không có két quả, không có hiệu quả, không có lợi ích gì, vô ích
+
++ to [work hard] to little avail: (làm việc nhiều mà) không có kết quả gì mấy
+*  dgt
+- giúp ích, có lợi cho
+
++ it availed him nothing: cái đó chẳng giúp ích gì cho hắn
+
++ to avail oneself of an opportunity: lợi dụng cơ hôi
+
++ to avail oneself of something: lợi dụng cái gì, dùng cái gì
+
+@availability   (availableness) @availability
+- (Tech) tính sẵn sàng; tính khả dụng; tỷ số vận hành 
++  operating ratio
+ @Availability effects
+- (Econ) Các hiệu ứng của sự sẵn có.
+: Các tác động của những thay đổi về số lượng tín dụng có sẵn, chứ  không phải tác động thông qua giá, nghĩa là lãi suất.
+ @available  
+*  tt
+- sẵn có để dùng, sẵn sàng để dùng, có thể dùng được
+
++ by all available means: bằng mọi phương tiện sẵn có
+
++ available finds: vốn sẵn có để dùng
+- có thể kiếm được, có thể mua được
+
++ this book is not available: quyển sách này không thể mua được (không thể kiếm đâu ra được)
+- có hiệu lực, có giá trị
+
++ ticket available for one day only: chỉ có giá trị trong một ngày
+
+@available
+- (Tech) sẵn sàng; dùng được; có hiệu lực, có giá trị
+ @available capacity
+- (Tech) dung lượng có sẵn
+ @available energy
+- (Tech) năng lượng khả dụng
+ @available execution time
+- (Tech) thời gian hành xử được
+ @available machine time
+- (Tech) thời gian dùng được máy
+ @available power
+- (Tech) công suất hữu hiệu, công suất khả dụng
+ @available time 
++  available machine time
+ @availableness   (availableness) @availably
+- xem available
+ @availingly
+- xem avail
+ @avalanche  
+*  dt
+- tuyết lở
+- (nghĩa bóng) loạt dồn dập, tràng dồn dập "mưa" 
+
++ an avalanche of questions: một loạt câu hỏi dồn dập
+
++ an avalanche of bullets: trận mưa đạn, đạn bắn như mưa
+- (vật lý) thác
+
++ ion avalanche: thác ion
+
++ electron avalanche: thác electron
+
+@avalanche
+- (Tech) thác (hiệu ứng), tuyết băng [TQ]; thác điện tử
+ @avalanche breakdown
+- (Tech) sự suy sụp do dòng điện thác
+ @avalanche current
+- (Tech) dòng điện thác
+ @avalanche diode
+- (Tech) đèn hai cực thác
+ @avalanche formation
+- (Tech) hình thành thác
+ @avalanche impedance
+- (Tech) trở kháng thác
+ @avalanche injection
+- (Tech) phun thác
+ @avalanche injection laser
+- (Tech) bộ kích quang phun thác
+ @avalanche ionization
+- (Tech) ly tử hóa (do hiệu ứng) thác
+ @avalanche multiplication
+- (Tech) nhân thác
+ @avalanche multiplication factor
+- (Tech) hệ số nhân thác
+ @avalanche noise
+- (Tech) nhiễu âm thác
+ @avalanche photodevice
+- (Tech) bộ quang thác
+ @avalanche photodiode
+- (Tech) đèn hai cực quang thác
+ @avalanche transistor
+- (Tech) đèn tinh thể (trăng-xít-to) thác
+ @avalanche triggering
+- (Tech) kích động thác
+ @avalanche triode
+- (Tech) đèn ba cực thác
+ @avan-courier  
+*  dt
+- người chạy trước, người phi ngựa trước
+- (số nhiều) những người đi tiên phong
+
+@avant-courrier
+* dt
+- người chạy trước, người phi ngựa trước
+- <snh> những người đi tiên phong
+ @avant-garde  
+*  dt
+- những người đi tiên phong
+
+@avant-gardism
+- xem avant-garde
+ @avant-gardist
+- xem avant-garde
+ @avarice   (avariciousness) @avaricious  
+*  tt
+- hám lợi, tham lam
+
+@avariciously
+* dt
+- tham lam
+ @avariciousness   (avariciousness) @avascular
+* tt
+- (sinh học) không mạch
+ @avast  
+*  thán từ
+- (hàng hải) đứng lại! dừng lại! đỗ lại!
+
+@avatar  
+*  dt
+- Ân,  (thần thoại,thần học) thiên thần giáng thế
+- sự giáng sinh; sự hoá thân, sự hiện thân
+- giai đoạn (trong sự hoá thân)
+
+@avaunt  
+*  thán từ
+- (từ cổ,nghĩa cổ), (đùa cợt) đi đi!, cút đi!
+
+@ave  
+*  dt
+- lời chào (khi gặp nhau); lời chào tạm biệt, lời chào vĩnh biệt
+- (Ave) (tôn giáo) kinh cầu nguyện Đức mẹ đồng trinh ((cũng) Ave Maria,  Ave Mary)
+*  thán từ
+- chào! (khi gặp); tạm biệt!, vĩnh biệt!
+
+@avenge  
+*  ngdgt
+- trả thù, báo thù
+
++ to avenge oneself: trả thù, rửa nhục
+
++ to be avenged: trả được thù, rửa được nhục
+
++ to avenge somebody: báo thù cho ai
+
+@avenger  
+*  dt
+- người trả thù, người báo thù
+
+@avengingly
+- xem avenge
+ @avens
+* dt
+- số nhiều avens
+- (thực vật) cây thủy dương mai
+ @aventurine
+* dt
+- (khoáng chất) Aventurin
+ @avenue  
+*  dt
+- đại lộ
+- con đường có trồng cây hai bên (đi vào một trang trại)
+- (nghĩa bóng) con đường đề bạt tới
+
++ the avenue to success: con đường đề bạt tới thành công
+- (từ Mỹ,nghĩa Mỹ) đường phố lớn
+- (quân sự) con đường (để tiến hoặc rút)
+
++ avenue of approach: con đường để tiến đến gần
+
++ to cut off all avenues of retreat: cắt đứt mọi con đường rút quân
+
+@aver  
+*  ngdgt
+- xác nhận; khẳng định, quả quyết
+- (pháp lý) xác minh, chứng minh
+
+@average  
+*  dt
+- số trung bình, mức trung bình; sự ước lượng trung bình
+
++ on the (an) average: trung bình
+
++ to take (strike) an average: lấy số trung bình
+
++ below the average: dưới trung bình
+
++ above the average: trên trung bình
+- loại trung bình, tiêu chuẩn bình thường
+- (thương nghiệp) sự chia số thiệt hại (về tàu bè hoặc hàng hoá chở trên tàu bè) do tai nạn (giữa chủ tàu và hãng bảo hiểm)
+
++ particular average: sự chia thiệt hại do tai nạn bất ngờ
+
++ general average: sự chia thiệt hại do cố ý gây ra hay do hoàn cảnh bắt buộc
+*  tt
+- trung bình
+
++ average output: sản lượng trung bình
+
++ average value: giá trị trung bình
+- bình thường, vừa phải, theo tiêu chuẩn thông thường
+
++ an average man: người bình thường
+
++ of average height: có chiều cao vừa phải (trung bình)
+
++ man of average abilities: người có khả năng bình thường
+*  ngdgt
+- tính trung bình; đạt trung bình là, trung bình là
+
++ to average a loss: tính trung bình số thiệt hại
+
++ to average six hours a day: làm việc trung bình là sáu tiếng một ngày
+
+@average
+- (Tech) trung bình, bình quân
+ @Average
+- (Econ) Số trung bình.
+: Xem MEAN.
+ @average
+- trung bình at the a. ở mức trung bình;
+- above a. trên trung bình
+- arithmetic a. trung bình cộng
+- geometric (al) a. trung bình nhân (sqrt(ab))
+- harmonic a. trung bình điều hoà (2ab @average adjuster  
+*  dt
+- người xét định những thiệt hại trên mặt biển
+
+@average bright
+- (Tech) độ chói trung bình
+ @average calculating time
+- (Tech) thời gian tính toán trung bình
+ @average capacity
+- (Tech) dung lượng trung bình
+ @Average cost
+- (Econ) Chi phí bình quân.
+: Chi phí trên một đơn vị sản lượng trong đó bao gồm chi phí của tất cả đầu vào (các yếu tố sản xuất).
+ @Average cost pricing
+- (Econ) Định giá theo chi phí bình quân.
+: Quy tắc định giá công nhận rằng các hãng cộng chi phí khả biến vào chi phí trung bình để trang trải tổng chi phí trung bình của nó.
+ @average current
+- (Tech) dòng điện trung bình
+ @average delay time
+- (Tech) thời gian chậm trễ trung bình
+ @average density
+- (Tech) mật độ trung bình
+ @Average expected income
+- (Econ) Thu nhập kỳ vọng bình quân; Thu nhập bình quân dự kiến.
+: Xem PERMANENT INCOME.
+ @Average fixed costs
+- (Econ) Chi phí cố định bình quân.
+: Chi phí cố định trên mỗi đơn vị sản lượng.
+ @average frequency
+- (Tech) tần số trung bình
+ @average life
+- (Tech) đời sống trung bình
+ @average load
+- (Tech) tải trung bình
+ @average power
+- (Tech) công suất trung bình
+ @Average product
+- (Econ) Sản phẩm bình quân.
+: Tổng sản lượng  có được từ việc sử dụng một tập hợp đầu vào chia cho số lượng của bất cứ một loại đầu vào nào được dùng.
+ @Average productivity
+- (Econ) Năng suất bình quân.
+: Xem PRODUCTIVITY.
+ @Average propensity to consume
+- (Econ) Khuynh hướng tiêu dùng bình quân.
+: Phần của tổng thu nhập Y được chi cho tiêu dùng hàng hoá hoặc dịch vụ C, thay vì đầu tư I.
+ @Average propensity to save
+- (Econ) Khuynh hướng tiết kiệm bình quân.
+: Phần của tổng thu nhập Y được đưa vào tiết kiệm S, tức không được sử dụng cho mục đích tiêu dùng. Khuynh hướng tiết kiệm bình quân bằng S @average rate
+- (Tech) suất trung bình
+ @Average rate of tax
+- (Econ) Suất thuế bình quân (suất thuế thực tế).
+: Được sử dụng khi nói về THUẾ THU NHẬP CÁ NHÂN nhưng cũng có thể áp dụng với các loại thuế khác. Thường được dùng để chỉ tổng thuế thu nhập dưới dạng một phần của thu nhập.
+ @Average revenue
+- (Econ) Doanh thu bình quân.
+: Doanh thu trên một đơn vị sản lượng.
+ @Average revenue product
+- (Econ) Sản phẩm doanh thu bình quân.
+: Sản phẩm doanh thu trung bình của một đầu vào (yếu tố sản xuất) nhân với doanh thu bình quân.
+ @average statement  
+*  dt
+- văn bản điều tra thiệt hại trên mặt biển
+
+@Average total cost
+- (Econ) Tổng chi phí bình quân
+: Xem AVERAGE COST.
+ @average value
+- (Tech) trị số trung bình
+ @Average variable cost
+- (Econ) AVC-Chi phí khả biến bình quân.
+: CHI PHÍ KHẢ BÍÊN trên một đơn vị sản lượng.
+ @averaged characteristic
+- (Tech) đặc tính trung bình
+ @averagely  
+*  dt
+- trung bình
+
+@averageness
+- xem average
+ @averaging
+- (Tech) lấy trung bình (d)
+ @averaging
+- sự lấy trung bình
+- group a. lấy trung bình nhóm 
+ @averaging principle
+- (Tech) nguyên lý trung bình
+ @averaging rectifier
+- (Tech) bộ chỉnh lưu trung bình
+ @Averch-Johnson Effect
+- (Econ) Hiệu ứng Averch-Johnson.
+: Để chỉ sự phản ứng tối đa hoá lợi nhuận của các hãng bị kiểm soát, khi phải đạt được tỷ lệ lợi tức xác định về vốn có động lực để lựa chọn kết hợp đầu vào nặng về vốn hơn có thể không được sử dụng khi không phải đạt tỷ lệ lợi tức xác định đó.
+ @averment  
+*  dt
+- sự xác nhận; sự khẳng định, sự quả quyết
+- (pháp lý) chứng cớ để xác minh
+
+@averrable
+- xem aver
+ @averruncator  
+*  dt
+- kéo tỉa cành cao su
+
+@averse  
+*  tt
+- chống lại, ghét
+- không thích, không muốn
+
+@aversely
+- xem averse
+ @averseness
+- xem averse
+ @aversion  
+*  dt
+- sự ghét; ác cảm
+
++ to take (conceive, feel) an aversion to someone: ghét ai, có ác cảm với ai
+- sự không thích, sự không muốn
+
++ to have (feel) an aversion to something: không thích cái gì
+- cái mình ghét
+
++ one's pet aversion:(đùa cợt) cái mình ghét nhất
+
+@avert  
+*  ngdgt
+- quay đi, ngoảnh đi
+
++ to avert one's eyes from a terrible sight: ngoảnh đi trước một cảnh tượng ghê người
+
++ to avert one's thoughts: nghĩ sang cái khác
+- ngăn ngừa, ngăn chận, tránh, đẩy lui (tai nạn, cú đấm, nguy hiểm...)
+
+@avertable  
+*  tt
+- có thể ngăn ngừa, có thể ngăn chận, có thể tránh, có thể đẩy lui
+
+@avertible  
+*  tt
+- có thể ngăn ngừa, có thể ngăn chận, có thể tránh, có thể đẩy lui
+
+@avesta
+* dt
+- thánh kinh Ba Tư giáo
+ @avestan
+* dt
+- tiếng Avexta (tiếng Iran cổ)
+ @av-gas  
+*  dt
+- (viết tắt) của[aviation gas],  (từ Mỹ,nghĩa Mỹ) dầu xăng cho máy bay
+
+@avian  
+*  tt
+- (thuộc) loài chim
+
+@aviarist  
+*  dt
+- người nuôi chim
+
+@aviary  
+*  dt
+- chuồng chim
+
+@aviate  
+*  ndgt
+- bay, đi (bằng máy bay, khí cầu)
+- lái máy bay, lái khí cầu
+
+@aviation  
+*  dt
+- hàng không; thuật hàng không
+
+@aviation
+- (Tech) hàng không
+ @aviation service
+- (Tech) ngành hàng không
+ @aviator  
+*  dt
+- người lái máy bay, phi công
+
+@aviatress   (aviatrice) @aviatrice   (aviatrice) @aviatrix   (aviatrice) @aviculture  
+*  dt
+- nghề nuôi chim
+
+@aviculturist
+- xem aviculture
+ @avid  
+*  tt
+- khao khát, thèm khát, thèm thuồng
+- tham lam
+
+@avidity  
+*  dt
+- sự khao khát, sự thèm khát, sự thèm thuồng
+- sự tham lam
+
++ to eat with avidity: ăn tham lam, ăn ngấu nghiến
+
+@avidly
+* dt
+- say sưa, ngấu nghiến
+ @aviette  
+*  dt
+- (hàng không) máy bay nhỏ, máy bay loại nhẹ
+
+@avifauna  
+*  dt
+- hệ chim (của một vùng, một xứ)
+
+@avifaunal
+- xem avifauna
+ @avionic
+- xem avionics
+ @avionics
+- (Tech) kỹ thuật điện tử hàng không
+ @aviso  
+*  dt
+- (hàng hải) tàu thông báo
+
+@avitaminosis  
+*  dt
+- (y học) bệnh thiếu vitamin
+
+@avitaminotic
+- xem avitaminosis
+ @avocado   (alligator_pear) @avocation  
+*  dt
+- công việc phụ; việc lặt vặt
+- khuynh hướng, xu hướng, chí hướng
+- sự tiêu khiển, sự giải trí
+
+@avocational
+- xem avocation
+ @avocationally
+- xem avocation
+ @avocet   (avoset) @Avogadrós number
+- (Tech) số Avôgaddrô
+ @avoid  
+*  ngdgt
+- tránh, tránh xa
+
++ to avoid smoking: tránh hút thuốc lá
+
++ to avoid bad company: tránh xa bạn bè xấu
+- (pháp lý) huỷ bỏ, thủ tiêu (bản án); bác bỏ (lý lẽ, lời biện hộ)
+
+@avoidable  
+*  tt
+- có thể tránh được
+
+@avoidably
+- xem avoid
+ @avoidance  
+*  dt
+- sự tránh; sự tránh xa; sự tránh khỏi, sự tránh thoát
+- (pháp lý) sự huỷ bỏ, sự thủ tiêu, sự bác bỏ
+- chỗ khuyết (chức vụ)
+
+@avoider
+- xem avoid
+ @avoirdupois  
+*  dt
+- hệ thống cân lường Anh Mỹ (trừ kim loại quý, kim cương, ngọc ngà và thuốc)
+- (từ Mỹ,nghĩa Mỹ) trọng lượng, sức nặng (tục) sự nặng cân, sự to béo đồ sộ
+
++ a woman of much avoirdupois: một bà to béo đồ sộ
+
+@avoirdupois
+- hệ thống cân dùng “pao” làm đơn vị
+ @avometer
+- (Tech) máy đo vạn năng, avô kế
+ @avoset   (avoset) @avouch  
+*  dgt
+- đảm bảo
+- xác nhận; khẳng định, quả quyết, nói chắc
+
+@avouchment  
+*  dt
+- sự đảm bảo
+- sự xác nhận; sự khẳng định, sự quả quyết, sự nói chắc
+- sự nhận, sự thú nhận
+
+@avow  
+*  ngdgt
+- nhận; thừa nhận; thú nhận
+
++ to avow one's faults: nhận khuyết điểm (lỗi)
+
++ to avow oneself...: tự nhận là... tự thú nhận là...
+
+@avowable  
+*  tt
+- có thể nhận; có thể thừa nhận; có thể thú nhận
+
+@avowably
+- xem avow
+ @avowal  
+*  dt
+- sự nhận; sự thừa nhận; sự thú nhận
+
+@avowed  
+*  tt
+- đã được công khai thừa nhận; đã được công khai thú nhận
+
+@avowedly  
+*  dt
+- đã được công khai thừa nhận; đã được công khai thú nhận
+- thẳng thắn, công khai
+
+@avower
+- xem avow
+ @avulsion  
+*  dt
+- sự nhổ bật ra, sự giật mạnh ra
+- (pháp lý) sự cuốn đất đai (của người này đem bồi vào khu vực của người khác do lụt, lũ gây ra)
+
+@avuncular  
+*  tt
+- (thuộc) chú, (thuộc) bác, (thuộc) cậu; như chú, như bác, như cậu
+
+@

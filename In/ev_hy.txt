@@ -1,0 +1,1522 @@
+@hyacinth  
+*  dt
+- (thực vật học) cây lan dạ hương (họ hành tỏi); hoa lan dạ hương
+- màu xanh tía
+- (khoáng chất) Hiaxin
+
+@hyaena   (hyaena) @hyaline  
+*  tt
+- trong suốt, tựa thuỷ tinh
+*  dt,  (thơ ca)
+- biển lặng
+- bầu trời trong sáng
+
+@hyalite  
+*  dt
+- (khoáng chất) Hyalit,  opan thuỷ tinh
+
+@hyaloid  
+*  tt
+- (giải phẫu) trong
+
++ membrane: màng trong
+*  dt
+- (giải phẫu) màng trong
+
+@hyaloplasm
+* dt
+- (sinh học) chất trong
+ @hyaluronidase
+* dt
+- hiahuronidaza (men)
+ @hybrid  
+*  dt
+- cây lai; vật lai; người lai
+- từ ghép lai
+*  tt
+- lai
+
+@hybridisation
+* dt
+- sự lai giống
+ @hybridise   (hybridise) @hybridism
+* dt
+- tính chất lai
+ @hybridist
+* dt
+- người làm việc lai giống
+ @hybridity  
+*  dt
+- tính chất lai
+
+@hybridization  
+*  dt
+- sự lai giống
+
+@hybridize   (hybridise) @hybris
+* dt
+- quá kiêu căng
+ @hydatid  
+*  ndgt
+- (y học),  (giải phẫu) bọng nước
+- bọc sán
+
+@hydra  
+*  dt
+- (thần thoại,thần học) rắn nhiều đầu (chặt đầu này lại mọc đầu khác, trong thần thoại Hy-lạp)
+- (nghĩa bóng) tai ương khó trị; cái khó trừ tiệt
+- (động vật học) con thuỷ tức
+
+@hydragyrism  
+*  dt
+- sự nhiễm độc thuỷ ngân
+
+@hydragyrum  
+*  dt
+- (hoá học) thuỷ ngân
+
+@hydra-headed
+* tt
+- có nhiều trung tâm hoặc chi nhánh
+
++  a hydra-headed organization:một tổ chức có nhiều trung tâm (chi nhánh)
+ @hydrallazine
+* dt
+- thuốc tổng hợp (chữa huyết áp cao)
+ @hydrangea  
+*  dt
+- (thực vật học) cây tú cầu, cây hoa đĩa
+
+@hydrant  
+*  dt
+- vòi nước máy (ở đường phố)
+
+@hydrargyric  
+*  tt
+- (thuộc) thuỷ ngân
+- có thuỷ ngân
+
+@hydrastine
+* dt
+- (dược) hidraxtin
+ @hydrastinine
+* dt
+- (dược) hidraxtinin
+ @hydrate  
+*  dt
+- (hoá học) Hydrat
+*  ngdgt
+- (hoá học) Hyddrat hoá, thuỷ hợp
+
+@hydration  
+*  dt
+- (hoá học) sự Hyddrat hoá
+
+@hydraulic  
+*  tt
+- (thuộc) nước (dẫn qua ống dẫn hoặc sông đào); chạy bằng sức nước
+
++ hydraulic tubine: tuabin nước
+
++ hydraulic generator: máy thuỷ điện
+
++ hydraulic mining: sự khai mỏ bằng sức nước
+- cứng trong nước
+
++ hydraulic cement: xi măng cứng trong nước
+
+@hydraulic
+- thuỷ lực học
+ @hydraulic ram  
+*  dt
+- (kỹ thuật) búa thuỷ động
+
+@hydraulically
+* dt
+- bằng sức nước, nhờ sức nước
+ @hydraulics  
+*  dt,  số nhiều dùng như số ít
+- thuỷ lực học
+
+@hydrazide
+* dt
+- (hoá học) hidrazit
+ @hydrazine
+* dt
+- (hoá học) hidrazin
+ @hydrib
+- giống lai   lai
+@hydric  
+*  tt
+- (hoá học) có hyddro, chứa hyddro
+
+@hydride  
+*  dt
+- (hoá học) hyddrua
+
++ potasium hydride: kali hyddrua
+
++ sodium hydride: natri hyddrua
+
+@hydro  
+*  dt,  số nhiều hydros  @hydroacoustics  
+*  dt
+- thuỷ âm học
+
+@hydroaeroplane  
+*  dt
+- thuỷ phi cơ ((cũng) hydro)
+
+@hydrobiologist
+* dt
+- người nghiên cứu sinh vật học thủy sinh
+* dt
+- người nghiên cứu sinh vật học thủy sinh
+ @hydrobiology
+* dt
+- sinh vật học thủy sinh
+ @hydrocarbon  
+*  dt
+- (hoá học) hyddrocacbon
+
+@hydrocarbonaceous
+- Cách viết khác : hydrocarbonic 
+ @hydrocephalic  
+*  tt
+- (y học) mắc bệnh tràn dịch não
+
+@hydrocephalus  
+*  dt
+- (y học) bệnh tràn dịch não, bệnh não nước
+
+@hydrochloric  
+*  tt
+- (hoá học) clohyddric
+
++ hydrochloric acid: axit clohyddric
+
+@hydrocortisone
+* dt
+- hidrococtizon
+ @hydrocyanic  
+*  tt
+- (hoá học) xianhyddric
+
++ hydrocyanic acid: axit clohyddric
+
+@hydrodynamic   (hydrodynamical) @hydrodynamic (al)
+- (thuộc) thuỷ động
+ @hydrodynamical   (hydrodynamical) @hydrodynamics  
+*  dt,  số nhiều dùng như số ít
+- thuỷ động lực học, động lực học chất nước
+
+@hydrodynamics
+- thuỷ động học
+ @hydroelectric  
+*  tt
+- thuỷ điện
+
+@hydroelectrically
+* dt
+- bằng thủy điện, nhờ thủy điện
+ @hydroelectricity
+* dt
+- thủy điện
+ @hydrofluoric  
+*  tt
+- (hoá học) Flohyddric
+
++ hydrofluoric acid: axít flohyddric
+
+@hydrofoil
+* dt
+- thiết bị nâng thân tàu
+ @hydrogen  
+*  dt
+- (hoá học) Hyddrô
+
++ light hydrogen: hyddrô nhẹ
+
++ heavy hydrogen: hyddrô nặng
+
+@hydrogen bomb  
+*  dt
+- bom H, bom hyddrô, bom khinh khí
+
+@hydrogenase
+* dt
+- thủy nguyên học
+ @hydrogenate   (hydrogenise) @hydrogenation  
+*  dt
+- sự hyddrô hoá
+
+@hydrogenise   (hydrogenise) @hydrogenize   (hydrogenise) @hydrogenous  
+*  tt,  (hoá học)
+- (thuộc) hyddrô
+- có hyddrô
+
+@hydrogeology
+* dt
+- địa chất thuỷ văn; thuỷ địa chất
+ @hydrographer  
+*  dt
+- nhà thuỷ văn học
+
+@hydrographic   (hydrographical) @hydrographical   (hydrographical) @hydrography  
+*  dt
+- thuỷ văn học
+
+@hydroid  
+*  dt
+- (động vật học) loài thuỷ tức
+*  tt
+- (động vật học) (thuộc) loài thuỷ tức
+
+@hydrokinetic  
+*  tt
+- (thuộc) thuỷ động học, (thuộc) động học chất nước
+
+@hydrokinetics  
+*  dt,  số nhiều dùng như số ít
+- thuỷ động học, động học chất nước
+
+@hydrolase
+* dt
+- (sinh học) hydrolaza
+ @hydrologic   (hydrological) @hydrological   (hydrological) @hydrology  
+*  dt
+- thuỷ học
+
+@hydrolysis  
+*  dt
+- (hoá học) sự thuỷ phân
+
+@hydrolyte  
+*  dt
+- chất thuỷ phân
+
+@hydrolytic
+* tt
+- thuộc thủy phân
+ @hydrolyze  
+*  ngdgt
+- thuỷ phân
+
+@hydromagnetic
+* tt
+- từ thủy động học
+ @hydromagnetic
+- (vật lí) thuỷ từ
+ @hydromancy  
+*  dt
+- thuật bói nước
+
+@hydromania  
+*  dt
+- (y học) xung động trẫm mình
+
+@hydromechanical  
+*  tt
+- (thuộc) cơ học chất nước
+
+@hydromechanics  
+*  dt,  số nhiều dùng như số ít
+- cơ học chất nước
+
+@hydromechanics
+- cơ học chất lỏng
+ @hydromedusa
+* dt; số nhiều hydromedusae
+- (động vật) bộ sữa thủy tức
+ @hydromedusan
+* tt
+- (thuộc) bộ sữa thủy tức
+ @hydromedusoid
+* tt
+- dạng bộ sữa thủy tức
+ @hydromel  
+*  dt
+- mật ong pha nước
+
+@hydrometallurgy
+* dt
+- phép luyện kim bằng nước
+ @hydrometalurgical
+* tt
+- (thuộc) phép luyện kim bằng nước
+ @hydrometeor
+* dt
+- (khí tượng) băng ngưng giữa trời
+ @hydrometeorological
+* tt
+- (thuộc) khoa khí tượng thủy văn
+* tt
+- (thuộc) khoa khí tượng thủy văn
+ @hydrometeorology
+* dt
+- khoa khí tượng thủy văn
+* dt
+- khoa khí tượng thủy văn
+ @hydrometer  
+*  dt
+- cái đo tỷ trọng chất nước
+
+@hydrometric   (hydrometrical) @hydrometrical
+* tt
+- (thuộc) phép đo tỷ trọng chất nước
+ @hydrometry  
+*  dt
+- phép đo tỷ trọng chất nước
+
+@hydromorphic
+* tt
+- đất ứ nước
+ @hydronephrosis
+* dt
+- (y học) chứng thuỷ thũng thận
+ @hydropathic  
+*  tt
+- (thuộc) phép chữa bệnh bằng nước ((cũng) hydro)
+
+@hydropathy  
+*  dt
+- (y học) phép chữa bệnh bằng nước
+
+@hydroperoxide
+* dt
+- peroxit
+ @hydrophane
+* dt
+- hidrofan
+ @hydrophilic
+* tt
+- có thể hút nước
+- có thể thấm nước
+ @hydrophilous
+* tt
+- (cây cối) ưa nước; sống hoặc mọc ở nước
+ @hydrophobia  
+*  dt
+- chứng sợ nước
+
+@hydrophobicity
+* dt
+- tính sợ nước; tính không ưa nước
+ @hydrophone  
+*  dt
+- (vật lý) ống nghe dưới nước
+
+@hydrophyte  
+*  dt
+- (thực vật học) cây ở nước
+
+@hydropic  
+*  tt
+- (y học) phù
+
+@hydroplane  
+*  dt
+- máy bay đỗ trên mặt nước, thuỷ phi cơ
+- xuồng máy lướt mặt nước
+
+@hydroponic  
+*  tt
+- (thuộc) thuật trồng cây trong nước
+- trồng trong nước
+
+@hydroponics  
+*  dt,  số nhiều dùng như số ít
+- thuật trồng cây trong nước (có pha chất dinh dưỡng)
+
+@hydropsy  
+*  dt
+- (y học) bệnh phù
+
+@hydroquinone  
+*  dt
+- (hoá học) hyddroquinon
+
+@hydroscope  
+*  dt
+- kính soi đáy nước
+
+@hydroscopic
+* tt
+- nghiệm ẩm
+- hút ẩm
+ @hydroscopicity
+* dt
+- tính nghiệm ẩm
+- tính hút ẩm
+ @hydrosphere  
+*  dt
+- (địa lý,ddịa chất) quyển nước
+
+@hydrospheric
+* tt
+- thuộc quyển nước
+ @hydrostatic  
+*  tt
+- thuỷ tĩnh
+
+@hydrostatics  
+*  dt,  số nhiều dùng như số ít
+- thuỷ tĩnh học
+
+@hydrostatics
+- thuỷ tĩnh học
+ @hydrostherapeutic  
+*  tt
+- (y học) chữa bằng nước
+
+@hydrotherapeutic
+* tt
+- (thuộc) phép chữa bệnh bằng nước, (thuộc) thủy liệu pháp
+ @hydrotherapy  
+*  dt
+- (y học) phép chữa bằng nước
+
+@hydrothermal  
+*  tt
+- (địa lý,ddịa chất) (thuộc) thuỷ nhiệt
+
+@hydrothorax  
+*  dt
+- (y học) chứng tràn dịch ngực
+
+@hydrotropic  
+*  tt
+- (thực vật học) hướng nước
+
+@hydrotropism  
+*  dt
+- (thực vật học) tính hướng nước
+
+@hydrous  
+*  tt
+- có nước
+
+@hydroxide  
+*  dt
+- (hoá học) hyddroxyt
+
+@hydrozoa  
+*  dt
+- (động vật học) thuỷ tức tập đoàn
+
+@hydrozoan
+* dt
+- (động vật) lớp thủy tức
+ @hyena   (hyaena) @hyenic
+* tt
+- thuộc linh cẩu
+ @hyenoid
+* tt
+- dạng linh cẩu
+ @hyetograph  
+*  dt
+- biểu đồ quá trình mưa tuyết (hằng năm)
+
+@hyetographic  
+*  tt
+- (thuộc) khoa phân bố mưa tuyết
+
+@hyetography  
+*  dt
+- khoa phân bố mưa tuyết
+
+@hyetological  
+*  tt
+- (thuộc) khoa mưa tuyết
+
+@hyetology  
+*  dt
+- khoa mưa tuyết
+
+@hygeia  
+*  dt
+- (thần thoại,thần học) nữ thần sức khoẻ
+- sức khoẻ (nhân cách hoá)
+
+@hygeian  
+*  tt
+- (thuộc) nữ thần sức khoẻ
+
+@hygiene  
+*  dt
+- vệ sinh
+
+@hygienic   (hygienical) @hygienical   (hygienical) @hygienically
+* dt
+- đúng phép vệ sinh, hợp vệ sinh
+ @hygienics  
+*  dt,  số nhiều dùng như số ít
+- khoa vệ sinh
+
+@hygienist  
+*  dt
+- vệ sinh viên
+
+@hygrograph
+* dt
+- máy ghi độ ẩm không khí
+ @hygrology  
+*  dt
+- khoa nghiên cứu độ ẩm không khí
+
+@hygrometer  
+*  dt
+- (vật lý) cái đo ẩm
+
+@hygrometric  
+*  tt
+- (thuộc) phép đo ẩm
+
+@hygrometry  
+*  dt
+- phép đo ẩm
+
+@hygrophilous
+* tt
+- sống và mọc ở chỗ đất ẩm ướt
+ @hygroscope  
+*  dt
+- cái nghiệm ẩm
+
+@hygroscopic  
+*  tt
+- nghiệm ẩm
+- hút ẩm
+
+@hygroscopy  
+*  dt
+- phép nghiệm ẩm
+
+@hyksos
+* dt
+- triều đại Xê mit trị vì ở Ai cập từ thế kỷ 18 đến thế kỷ 16 trước Công nguyên
+ @hyla
+* dt
+- nhái bén
+ @hylic  
+*  tt
+- (thuộc) vật chất
+
+@hylotheism
+* dt
+- vật thần luận (vật chất tức là thần)
+ @hylozoism  
+*  dt
+- (triết học) thuyết vật hoạt
+
+@hylozoist
+* dt
+- người theo thuyết vật hoạt
+ @hylozoistic
+* tt
+- thuộc vật thần luận
+ @hymen  
+*  dt
+- (thần thoại,thần học) (Hymen) thần hôn nhân; ông tơ bà nguyệt
+- (giải phẫu) màng trinh
+
+@hymeneal  
+*  tt
+- (thuộc) hôn nhân
+
+@hymenium
+* dt; số nhiều hymenia,  hymeniums
+- màng bào
+ @hymenopterous  
+*  tt,  (động vật học)
+- có cánh màng
+- (thuộc) bộ cánh màng (sâu, bọ)
+
+@hymn  
+*  dt
+- bài thánh ca
+- bài hát ca tụng
+!national hymn
+- quốc ca
+*  ngdgt
+- hát ca tụng (Chúa...)
+- hát lên những lời ca ngợi, nói lên những lời tán tụng
+*  ndgt
+- hát thánh ca
+
+@hymnal  
+*  tt
+- (thuộc) thánh ca
+*  dt: (hymn-book) @hymnary
+* dt
+- xem hymnal
+ @hymn-book  
+*  tt
+- (thuộc) thánh ca
+*  dt: (hymn-book) @hymnbook
+- Cách viết khác : hymnal 
+ @hymnic  
+*  tt
+- (thuộc) thánh ca
+- (thuộc) bài hát ca tụng
+
+@hymnist   (hymnodist) @hymnodist   (hymnodist) @hymnody  
+*  dt
+- sự hát thánh ca; sự hát những bài hát ca tụng
+- sự soạn thánh ca; sự soạn những bài hát ca tụng
+- thánh ca (nói chung); những bài hát ca tụng (nói chung)
+
+@hymnographer   (hymnodist) @hymnography
+* dt
+- việc viết những bài thánh ca
+- việc nghiên cứu những bài thánh ca
+ @hymnology  
+*  dt
+- sự soạn thánh ca; sự soạn những bài hát ca tụng
+- sự nghiên cứu thánh ca; sự nghiên cứu những bài hát ca tụng
+- thánh ca (nói chung); những bài hát ca tụng (nói chung)
+
+@hyoid  
+*  tt
+- (giải phẫu) (thuộc) xương móng
+
++ hyoid bone: xương móng
+*  dt
+- (giải phẫu) xương móng
+
+@hyp  
+*  dt
+- chứng u buồn, chứng buồn u uất ((cũng) hip)
+
+@hypaethral   (hypethral) @hypallage
+* dt
+- (văn học) phép hoán trang
+ @hype
+* dt
+- sự quảng cáo thổi phồng, sự cường điệu
+* ngdgt
+- quảng cáo thổi phồng, cường điệu
+ @hyped-up
+* tt
+- (từ lóng) kích thích; kích động
+ @hyperacid
+* tt
+- có quá nhiều lượng axit (dạ dạy); tiết nhiều axit quá mức bình thường
+ @hyperacidity
+* dt
+- tình trạng có quá nhiều lượng a xít (dạ dày); tiết nhiều a xít quá mức bình thường
+ @hyperactive
+* tt
+- (nói về trẻ con) hiếu động thái quá
+ @hyperactivity
+* dt
+- tính hiếu động thái quá
+ @hyperaemic
+* tt
+- sung huyết
+ @hyperaesthesia  
+*  dt
+- (y học) sự răng cảm giác
+
+@hyperaesthetic  
+*  tt
+- (y học) tăng cảm giác
+- mắc chứng tăng cảm giác
+
+@hyperamia
+* dt
+- cũng hyperemia
+- sự sung huyết
+ @hyperareal
+- (hình học) siêu diện tích
+ @hyperbaric
+* tt
+- dùng bội áp (suất)
+
++  hyperbaric medical treatment:phép điều trị dùng bội áp
+ @hyperbaton  
+*  dt
+- (ngôn ngữ học) phép đáo từ (để nhấn mạnh)
+
+@hyperbola   (hyperbolae) @hyperbola
+- hipebôn
+- h. of higher order hypebôn cấp cao
+- equilateral h. hypebôn [đều, vuông]
+- equiangular h. hypebôn [đều, vuông]
+- focal h. hypebôn tiêu
+- geodesic h. hypebôn trắc địa
+- rectangular h. hypebôn [đều, vuông] 
+ @hyperbolae   (hyperbolae) @hyperbole  
+*  dt
+- (văn học) phép ngoa dụ
+- lời nói cường điệu, lời ngoa dụ
+
+@hyperbolic  
+*  tt
+- (toán học) hyperbolic
+
+@hyperbolic
+- hypebolic
+ @hyperbolical  
+*  tt
+- (văn học) ngoa dụ
+
+@hyperbolism  
+*  dt
+- (văn học) phép ngoa dụ
+
+@hyperbolist  
+*  dt
+- (văn học) người hay ngoa dụ
+
+@hyperboloid  
+*  dt
+- (toán học) hyperboloit
+
+@hyperboloid
+- hypeboloit
+- h. of one sheet (of two sheets) hipeboloit một tầng (hai tầng)
+- h. of revolution hipeboloit tròn xoay
+- conjugate h. hipebolit liên hợp
+- parted h. hipeboloit hai tầng
+- uniparted h. hipeboloit một tầng 
+ @hyperborean  
+*  tt
+- ở bắc cực (của trái đất)
+- (thông tục) ở cực bắc của một nước
+*  dt
+- người dân miền bắc cực (của trái đất)
+- (thông tục) người dân miền cực bắc của một nước
+- (thần thoại,thần học) dân tộc sống trên nguồn gió bấc (ở một vùng màu mỡ, tràn đầy ánh sáng mặt trời) (thần thoại Hy-lạp)
+
+@hypercalcaemia
+* dt
+- cũng hypercalcemia
+- (y học) sự tăng canxi-huyết
+ @hypercalcaemic
+* tt
+- thuộc sự tăng canxi-huyết
+ @hypercapnia
+* dt
+- (y học) sự tăng anhidrit cacbonic-huyết
+ @hypercapnic
+* tt
+- thuộc sự tăng anhidrit cacbonic-huyết
+ @hypercard
+- Một sản phẩm phần mềm dùng với máy tính Macintosh của hãng Apple để hoàn thành các hệ thống thông tin dựa trên cơ sở hupertext
+ @hypercholesteraemia
+* dt
+- (y học) sự tăng cholesterola huyết
+ @hypercholesterolaemia
+* tt
+- có quá nhiều cholesteron tong máu
+ @hypercohomology
+- siêu đối đồng đều
+ @hypercomplex
+- (đại số) siêu phức
+ @hypercone
+- siêu nón
+ @hyperconscious
+* tt
+- quá nhạy cảm
+ @hypercritical  
+*  tt
+- quá khe khắc trong cách phê bình, hay bắt bẻ cả những chuyện nhỏ nhặt
+
+@hypercritically
+* dt
+- quá khe khắt, vụn vặt
+ @hypercriticise   (hypercriticise) @hypercriticism  
+*  dt
+- tính quá khe khắt trong cách phê bình, tính hay bắt bẻ cả những chuyện nhỏ nhặt
+
+@hypercriticize   (hypercriticise) @hypercube
+- hình siêu lập phương
+ @hypercylineder
+- (hình) siêu trụ
+- parabolic h. hình siêu trụ parabolic 
+- spheroidal h. siêu trụ phỏng cầu 
+ @hyperelliptic
+- (giải tích) siêu eliptic
+ @hyperemia
+* dt
+- cũng hyperaemia
+- (y học) chứng sung huyết
+ @hyperemic
+* tt
+- thuộc chứng sung huyết
+ @hyperexcitability
+* dt
+- tình trạng quá kích động; tình trạng quá kích thích
+ @hyperexponential
+- (đại số) siêu mũ
+ @hypergamy
+* dt
+- hôn nhân cùng đẳng cấp
+ @hypergeometric
+- siêu bội
+ @hypergeometry
+- hình học cao chiều
+ @hyperglycaemia
+* dt
+- sự quá tăng đường huyết
+ @hypergroup
+- (đại số) siêu nhóm
+ @hyperharmonic
+- (giải tích) siêu điều hoà
+ @hyperhomology
+- (đại số) siêu đồng đều
+ @hypericum
+* dt
+- (thực vật) cây nọc sởi
+ @Hyperinflation
+- (Econ) Siêu lạm phát.
+: Tình trạng lạm phát tăng nhanh khi có siêu lạm phát, giá cả tăng lên 10 lần, thậm chí 100 lần chỉ trong vòng 1 tháng.
+ @hyperinflation
+* dt
+- sự lạm phát tăng rất nhanh
+ @hyperinflationary
+* tt
+- lạm phát tăng rất nhanh
+ @hyperisulinism
+* dt
+- (y học) chứng tăng insulin
+ @hyperkinesia
+* dt
+- (y học) chứng tăng động
+ @hyperkinesis
+* dt
+- xem hyperkinesia
+ @hyperlink
+* dt
+- (tin học) siêu liên kết
+ @hyperlipaemia
+* dt
+- sự tăng lipi-huyết
+ @hyperlipidaemia
+* dt
+- xem hyperlipaemia
+ @hypermarket
+* dt
+- cửa hàng lớn và đa dạng về hàng hoá-dịch vụ
+ @hypermatrix
+- (đại số) siêu ma trận
+ @hypermedia
+- Một loại chương trình giảng dạy với sự trợ giúp của máy tính, như HyperCard chẳng hạn, được dùng để bổ sung thêm đồ họa, âm thanh, video, tiếng nói mô phỏng vào các khả năng của một hệ thống hyperytext
+ @hypermetamorphosis
+* dt
+- (sinh học) sự dôi kỳ biến thái
+ @hypermetric   (hypermetrical) @hypermetric
+- (đại số) siêu metric
+ @hypermetrical
+* tt
+- có một âm tiết thừa (câu thơ)
+- thừa (âm tiết)
+ @hypermetropia  
+*  dt
+- (y học) chứng viễn thị
+
+@hypermetropy
+* dt
+- chứng viễn thị
+ @hypernormal
+- siêu chuẩn tắc
+ @hyperon
+* dt
+- (vật lý) hiperon
+ @hyperosculation
+- siêu mật tiếp
+ @hyperostosis
+* dt; số nhiều hyperostoses
+- (y học) chứng dày xương
+ @hyperostotic
+* tt
+- thuộc chứng dày xương
+ @hyperparaboloid
+- siêu paraboloit
+- h. of birevolution siêu paraboloit hai lần tròn xoay 
+ @hyperparallels
+- các đường phân kỳ (trong hình học Lôbascpxki)
+ @hyperparasite
+* dt
+- vật ký sinh bậc hai; vật ký sinh sống nhờ vào vật ký sinh khác
+ @hyperparasitic
+* tt
+- thuộc vật ký sinh bậc hai; thuộc vật ký sinh sống nhờ vào vật ký sinh khác
+ @hyperparasitism
+* dt
+- hiện tượng vật ký sinh sống nhờ vào vật ký sinh khác
+ @hyperparathyroidism
+* dt
+- (y học) chứng tăng năng tuyến cận giáp
+ @hyperphysical  
+*  tt
+- phi thường, siêu phẩm
+
+@hyperpituitarism
+* dt
+- (y học) chứng tăng năng tuyến yên
+ @hyperpituitary
+* tt
+- thuộc chứng tăng năng tuyến yên
+ @hyperplane
+- siêu phẳng
+- h. of support siêu phẳng tựa
+- tangent h. siêu phẳng tiếp xúc 
+ @hyperplasia  
+*  dt
+- (sinh vật học); (y học) sự tăng sản
+
+@hyperplastic
+* tt
+- thuộc sự tăng sản
+ @hyperpnoea
+* dt
+- cũng hyperpnea
+- sự thở nhanh hoặc sâu một cách không bình thường
+ @hyperpnoeic
+* tt
+- thuộc sự thở nhanh hoặc sâu một cách không bình thường
+ @hyperpyretic
+* tt
+- có nhiệt độ quá cao
+ @hyperpyrexia
+* dt
+- tình trạng có nhiệt độ trong cơ thể cao một cách nguy hiểm
+ @hyperquadric
+- siêu quađric
+ @hyper-real
+- (đại số) siêu thực
+ @hypersensitive  
+*  tt
+- quá dễ xúc cảm, quá đa cảm
+
+@hypersensitivity
+* dt
+- <y> sự nhạy cảm với dược phẩm nào đó
+- (tâm lý) sự quá dễ xúc cảm, sự đa cảm
+ @hypersonic
+* tt
+- (thuộc) tốc độ nhanh hơn 5 lần của âm thanh
+- (thuộc) tần số âm thanh cao hơn 1 ngàn triệu héc
+ @hypersonic
+- siêu thanh
+ @hyperspace
+* dt
+- (toán học) siêu không gian
+ @hyperspace
+- siêu không gian
+ @hypersphere
+- siêu cầu
+ @hypersthene
+* dt
+- (khoáng chất) hipecten
+ @hypersthenic
+* tt
+- thuộc hipecten
+ @hypersurface
+- siêu điện
+ @hypertalk
+- Ngôn ngữ script được cung cấp kèm theo HyperCard, một HyperCard mang tính công cụ có trong mọi máy tính Macintosh HyperCard là một ngôn ngữ hướng sự kiện
+ @hypertension  
+*  dt
+- (y học) chứng tăng huyết áp
+
+@hypertensive  
+*  tt,  (y học)
+- (thuộc) chứng tăng huyết áp
+- mắc chứng tăng huyết áp
+*  dt
+- (y học) người mắc chứng tăng huyết áp
+
+@hyperterxt
+- siêu văn bản (văn bản có liên kết)
+ @hypertext
+* dt
+- siêu văn bản
+ @hyperthermia
+* dt
+- chứng thân nhiệt cao
+ @hyperthermic
+* tt
+- thuộc chứng sốt cao
+ @hyperthral   (hypethral) @hyperthyroid
+* dt
+- (y học) xem hyperthyroidism
+ @hyperthyroidism
+* dt
+- sự hoạt động quá mức của tuyến giáp
+ @hypertonic
+* tt
+- ưu trương
+- tăng sức trương (cơ)
+ @hypertonicity
+* dt
+- sự ưu trương
+- sự tăng sức trương (cơ)
+ @hypertorus
+- siêu xuyến
+ @hypertrophic   (hypertrophied) @hypertrophied   (hypertrophied) @hypertrophy  
+*  dt
+- (y học),  (sinh vật học) sự nở to
+
+@hyperuricaemia
+* dt
+- (y học) sự tăng axit uric - huyết
+ @hyperventilation
+* dt
+- chứng thở quá nhanh
+ @hypervolume
+- siêu thể tích
+ @hypethral
+* tt
+- không mái
+- lộ thiên
+ @hypha
+* dt; số nhiều hyphae
+- (thực vật) sợi nấm
+ @hyphen  
+*  dt
+- dấu nối
+- quâng ngắt (giữa hai âm, khi nói)
+*  ngdgt: (hyphenate) @hyphenate  
+*  dt
+- dấu nối
+- quâng ngắt (giữa hai âm, khi nói)
+*  ngdgt: (hyphenate) @hyphenated  
+*  tt
+- có dấu nối ở giữa
+- có nguồn gốc lai
+
++ a hyphenated American: người Mỹ nguồn gốc lai (Đức-ÃMỹ,  Ailen-ÃMỹ...)
+
+@hyphenation
+- tách từ
+ @hyphenless
+* tt
+- không có dấu gạch nối
+* tt
+- không có dấu gạch nối
+ @hypnagogic
+* tt, cũng hypnogogic
+- mơ ngủ; buồn ngủ
+ @hypnoanalysis
+* dt
+- phép phân tích bằng thôi miên
+ @hypnogenesis  
+*  dt
+- sự gây ngủ
+- sự thôi miên
+
+@hypnogenetic  
+*  tt
+- gây ngủ
+- thôi miên
+
+@hypnoid
+* tt, cũng hypnoidal
+- (y học) mơ màng; tựa giấc mơ
+ @hypnology  
+*  dt
+- khoa nghiên cứu về hiện tượng ngủ
+
+@hypnopaedia
+* dt
+- sự học trong khi ngủ
+ @hypnopompic
+* tt
+- nửa thức nửa ngủ trước khi tỉnh; mơ màng
+
++  hypnopompic illusions:những ảo ảnh mơ màng
+ @hypnosis  
+*  dt
+- giấc ngủ nhân tạo
+- sự thôi miên
+
+@hypnotherapy
+* dt
+- phép chữa bệnh bằng thôi miên
+ @hypnotic  
+*  tt
+- (thuộc) thôi miên
+*  dt
+- thuốc ngủ
+- người bị thôi miên
+
+@hypnotise   (hypnotise) @hypnotism  
+*  dt
+- thuật thôi miên
+- tình trạng bị thôi miên
+
+@hypnotist  
+*  dt
+- nhà thôi miên
+
+@hypnotization
+* dt
+- sự thôi miên
+- sự làm bàng hoàng, ngơ ngẩn như bị thôi miên
+ @hypnotize   (hypnotise) @hypo   (hypo) @hypoblast
+* dt
+- (thực vật) lá mầm lưng (hạt cây họ lúa)
+- (động vật) lá nội bì
+ @hypocalcaemia
+* dt
+- cũng hypocalcemia
+- (y học) sự giảm canxi-huyết
+ @hypocaust  
+*  dt
+- (từ cổ,nghĩa cổ) (La mã) lò dưới sàn (để đun nước tắm hoặc sưởi ấm)
+
+@hypocentre
+* dt
+- điểm trên mặt đất ngay dưới vụ nổ nguyên tử
+- (địa lý) tâm (động đất)
+ @hypochlorite
+* dt
+- (hoá học) hipoclorit
+ @hypochondria  
+*  dt
+- (y học) chứng nghi bệnh
+
+@hypochondriac  
+*  tt
+- (y học) (thuộc) chứng nghi bệnh
+- mắc chứng nghi bệnh
+*  dt
+- (y học) người mắc chứng nghi bệnh
+
+@hypocompact
+- top nội compact
+ @hypocorism
+* dt
+- tên gọi âu yếm
+ @hypocotyl
+* dt
+- (thực vật) trụ dưới lá mầm
+ @hypocrisy  
+*  dt
+- đạo đức giả
+- hành động đạo đức giả, thái độ đạo đức giả
+
+@hypocrite  
+*  dt
+- kẻ đạo đức giả, kẻ giả nhân giả nghĩa
+
+@hypocritical  
+*  tt
+- đạo đức giả, giả nhân giả nghĩa
+
+@hypocritically
+* dt
+- giả nhân giả nghĩa
+
++  he cares hypocritically for his father-in-law, in order to usurp all his fortune:hắn giả nhân giả nghĩa lo cho ông bố vợ hòng đoạt hết tài sản của ông ta
+ @hypocycloid
+* dt
+- (toán học) hipoxicloit
+ @hypocycloid
+- nội xicloit
+ @hypodermatic  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) (như) hypodermic
+
+@hypodermic  
+*  tt ((từ Mỹ,nghĩa Mỹ) (cũng) hypodermatic)
+- (y học) dưới da
+
++ a hypodermic injection: một mũi tiêm dưới da
+*  dt
+- (y học) mũi tiêm dưới da
+- ống tiêm dưới da; kim tiêm dưới da
+
+@hypodermis
+* dt
+- lớp dưới da
+ @hypoelliptic
+- nội eliptic
+ @hypogastrium
+* dt; số nhiều hypogastria
+- (giải phẫu) vùng hạ vị
+ @hypogeal
+- Cách viết khác : hypogean 
+ @hypogene
+* tt
+- (địa lý) hình thành sâu dưới đất; thâm sinh
+ @hypoglossal
+* tt
+- ở dưới lưỡi
+ @hypoglycaemia
+* dt
+- (y học) sự giảm glucoza-huyết
+ @hypogynous
+* tt
+- (thực vật) dưới bầu
+ @hypogyny
+* dt
+- tình trạng dưới bầu
+ @hypoinsulinism
+* dt
+- sự giảm insulin trong cơ thể
+ @hypomania
+* dt
+- (y học) hưng cảm nhẹ
+ @hypomanic
+* tt
+* tt
+- (y học) thuộc hưng cảm nhẹ
+ @hyponymous
+* tt
+- xem hyponymy
+ @hyponymy
+* dt
+- (ngôn ngữ) quan hệ thượng hạ vị (quan hệ giữa hai từ nghĩa của một từ (scarlet đỏ tươi) luôn bao gồm nghĩa của từ kia (red đỏ),  (như) ng không ngược lại)
+ @hypoparathyroidism
+* dt
+- (y học) sự giảm năng tuyến cận giáp
+ @hypopharynx
+* dt; số nhiều hypopharynges,  hypopharynxes
+- hầu dưới
+ @hypophyseal
+* tt; cũng hypophysial
+- thuộc tuyến yên
+* tt; cũng hypophysial
+- thuộc tuyến yên
+ @hypophysectomize
+* ngdgt
+- cắt bỏ tuyến dưới
+ @hypophysectomy
+* dt
+- (y học) thủ thuật cắt bỏ tuyến yên
+ @hypophysis  
+*  dt
+- (giải phẫu) tuyến yên
+
+@hypopituitarism
+* dt
+- (y học) chứng giảm năng tuyến yên
+ @hypoplasia
+* dt
+- (y học) sự giảm sản
+ @hypoplastic
+* tt
+- thuộc giảm sản
+ @hyposeal
+* tt
+- thuộc tuyến yên
+ @hypostasis  
+*  dt
+- (y học) chứng ứ máu chỗ thấp
+- (triết học) thực chất, thực thể
+- (tôn giáo) vị (thần)
+
+@hypostoma
+- xem hypostome:dt; số nhiều hypostomas,  hypostomata
+ @hypostome
+* dt
+- (động vật) tấm dưới miệng
+ @hypostyle
+* dt
+- adj
+- (có) cột đỡ trần
+ @hyposulphite   (hypo) @hypotatic
+* tt
+- thuộc quan hệ cú pháp lệ thuộc
+ @hypotaxis
+* dt
+- (ngôn ngữ) quan hệ cú pháp lệ thuộc
+ @hypotension  
+*  dt
+- (y học) chứng giảm huyết áp
+
+@hypotensive  
+*  tt
+- (y học) (thuộc) chứng giảm huyết áp
+- mắc chứng giảm huyết áp
+*  dt
+- người mắc chứng giảm huyết áp
+
+@hypotenuse  
+*  dt
+- (toán học) cạnh huyền (của tam giác vuông)
+
+@hypotenuse
+- cạnh huyền
+- h. of a right triangle cạnh huyền của một tam giác vuông 
+ @hypothalamic
+* tt
+- (y học) dưới đồi
+ @hypothalamus
+* dt (số nhiều hypothalami hoặc hypothalamai)
+- vùng não điều khiển thân nhiệt, đói, khát...
+ @hypothec  
+*  dt
+- (pháp lý) quyền cầm đồ thế nợ, quyền thế nợ bằng bất động sản
+
+@hypothecary  
+*  tt
+- (pháp lý) (thuộc) quyền cầm đồ thế nợ, (thuộc) quyền thế nợ bằng bất động sản
+
+@hypothecate  
+*  ngdgt
+- cầm, đem thế nợ
+
+@hypothecation  
+*  dt
+- sự cầm đồ, sự đem thế nợ
+
+@hypotheque
+* dt
+- (pháp lý) quyền thế nợ bằng bất động sản, quyền cầm thế để đương
+ @hypothermal
+* tt
+- (thuộc) mạch thủy nhiệt sâu
+ @hypothermia  
+*  dt
+- (y học) sự giảm nhiệt, sự giảm thế nhiệt
+
+@hypothermia treatment  
+*  dt
+- (y học) sự làm giảm nhiệt
+
+@hypothermic
+* tt
+- thuộc sự giảm nhiệt một cách nguy hiểm (trong cơ thể)
+ @hypotheses  
+*  dt,  số nhiều hypotheses  @hypothesis  
+*  dt,  số nhiều hypotheses  @hypothesis
+- giả thiết
+- to test h. with experiment chứng minh giả thiết bằng thực nghiệm under the h. theo giả thiết admissible h. giả thiết chấp nhận được
+- alternative h. đối giả thiết 
+- composite h. (thống kê) giả thiết hợp
+- ergodic h. giả thiết egođic
+- linaer h. giả thiết tuyến tính
+- non-parametric h. giả thiết phi tham số 
+- null h. giả thiết không 
+- similarity h. giả thiết đồng dạng
+- simple h. (thống kê) giả thiết đơn giản
+- statistic h. giả thiết thống kê
+- working h. (thống kê) giả thiết làm việc 
+ @Hypothesis testing
+- (Econ) Kiểm định giả thuyết.
+: Một cụm thuật ngữ chung để miêu tả các thủ tục thống kê để xác định tính đúng đắn của một giả thuyết.
+ @hypothesise   (hypothesize) @hypothesize   (hypothesize) @hypothesize
+- (logic học) xây dựng giả thiết
+ @hypothetic   (hypothetical) @hypothetic (al)
+- (logic học) giả thiết, giả định
+ @hypothetical
+- Cách viết khác : hypothetic 
+ @hypothetically
+* dt
+- theo giả thuyết
+ @hypothyroid
+* dt
+- xem hypothyroidism
+ @hypothyroidism
+* dt
+- sự giảm hoạt động của tuyến giáp
+ @hypotonic
+* tt
+- nhược trương
+ @hypotonicity
+* dt
+- sự nhược trương
+ @hypotrochoid
+- nội trocoit
+ @hypoventilation
+* dt
+- chứng thở quá chậm
+ @hypoxia
+* dt
+- (y học) sự giảm oxi-huyết
+ @hyppogriph   (hyppogryph) @hyppogryph   (hyppogryph) @hypsographic(al)
+* tt
+- (thuộc) sự giảm oxi-huyết
+ @hypsography  
+*  dt
+- (địa lý,ddịa chất) khoa đo độ cao, khoa trắc cao
+
+@hypsometer  
+*  dt
+- máy đo độ cao
+
+@hypsometric   (hypsometrical) @hypsometrical
+- Cách viết khác : hypsometric 
+ @hypsometry  
+*  dt
+- (địa lý,ddịa chất) phép đo độ cao
+
+@hyrax
+* dt; số nhiều hyraxes,  hyraces
+- (động vật) bộ đa man
+ @hyson  
+*  dt
+- chè hỷ xuân (Trung quốc)
+
+@hy-spy  
+*  dt
+- trò chơi ú tim
+
+@hyssop  
+*  dt
+- (thực vật học) cây bài hương
+
+@hysterectomise
+* ngdgt
+- cắt bỏ tử cung
+ @hysterectomy
+* dt
+- thủ thuật cắt bỏ dạ con, thủ thuật cắt bỏ tử cung
+ @hysteresis  
+*  dt
+- (vật lý) hiện tượng trễ
+
++ magnetic hysteresis: hiện tượng trễ từ
+
++ thermal hysteresis: hiện tượng trễ nhiệt
+
+@Hysteresis
+- (Econ) Hiện tượng trễ.
+: Các nhà khoa học sử dụng thuật ngữ này để miêu tả một trạng thái trong đó cân bằng của một hệ thống phụ thuộc vào lịch sử của hệ thống đó.
+ @hysteresis
+- (vật lí) hiện tượng trễ
+- elastic h. trễ đàn hồi 
+- mechanical h. trễ cơ học 
+ @hysteria  
+*  dt
+- (y học) chứng ictêri
+- sự quá kích động, sự cuồng loạn
+
++ war hysteria: tinh thần cuồng chiến, sự hiếu chiến
+
+@hysteric
+* tt
+- thuộc ictêri; mặc chứng cuồng loạn
+- (thông tục) hết sức buồn cười; hết sức ngộ nghĩnh
+ @hysterical  
+*  tt
+- (y học) (thuộc) ictêri; mắc ictêri
+- quá kích động, cuồng loạn
+
++ hysterical laughter: tiếng cười cuồng loạn
+
+@hysterically
+* dt
+- cuồng loạn, thác loạn
+ @hysterics  
+*  dt số nhiều
+- (y học) cơn ictêri
+- cơn kích động, cơn cuồng loạn
+
+@hysterogenic  
+*  tt
+- gây ictêri
+
+@hysteroid
+* tt
+- như cuồng loạn
+ @hysterotomy  
+*  dt
+- (y học) thủ thuật mở tử cung
+
+@

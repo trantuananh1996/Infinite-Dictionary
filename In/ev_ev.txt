@@ -1,0 +1,887 @@
+@evacuant
+* tt
+- làm bài tiết tốt; nhuận tràng
+ @evacuate  
+*  ngdgt
+- (quân sự) rút khỏi (nơi nào...)
+- sơ tán, tản cư; chuyển khỏi mặt trận (thương binh...)
+- tháo, làm khỏi tắc
+- (y học) làm bài tiết; thục rửa
+- (vật lý) làm chân không; rút lui
+*  ndgt
+- rút lui
+- sơ tán, tản cư
+- bài tiết, thải ra
+
+@evacuation  
+*  dt
+- sự rút khỏi (một nơi nào...)
+- sự sơ tán, sự tản cư; sự chuyển khỏi mặt trận (thương binh)
+- sự tháo, sự làm khỏi tắc
+- (y học) sự bài tiết; sự thục, sự rửa
+- (vật lý) sự làm chân không; sự rút lui
+
+@evacuative
+- xem evacuate
+ @evacuator
+- xem evacuate
+ @evacuee  
+*  dt
+- người sơ tán, người tản cư
+
+@evadable  
+*  tt
+- có thể tránh được
+- có thể lảng tránh (câu hỏi)
+
+@evade  
+*  ngdgt
+- tránh, tránh khỏi (sự tấn công, sự lùng bắt, âm mưu, đòn, địch, vật chướng ngại...)
+- lảng tránh, lẩn tránh (nhiệm vụ, câu hỏi...); lẩn trốn (pháp luật, thuế má...)
+- vượt quá (sự hiểu biết...)
+
+@evader
+- xem evade
+ @evadible
+- xem evade
+ @evaginate  
+*  ngdgt
+- (sinh vật học) lộn trong ra ngoài
+
+@evagination  
+*  ngdgt
+- sự lộn trong ra ngoài
+
+@evaluate  
+*  ngdgt
+- ước lượng
+- định giá
+
+@evaluate
+- đánh giá; ước lượng, tính biểu thị
+ @evaluation  
+*  dt
+- sự ước lượng
+- sự định giá
+
+@evaluation
+- sự đánh giá, sự ước lượng
+- e. of an algebraic expression tính giá trị của một biểu thức đại số
+- approximate e. sự ước lượng xấp xỉ
+- effective e. (logic học) sự đánh gia có hiệu quả
+- numerical e. sự ước lượng bằng số 
+ @evaluative
+- xem evaluate
+ @evaluator
+- xem evaluate
+ @evalvate
+* tt
+- thiếu van; thiếu nắp
+ @evanesce  
+*  ndgt
+- mờ đi, biến đi
+
+@evanescence  
+*  dt
+- tính chóng phai mờ; tính chất phù du
+- sự biến dần
+
+@evanescent  
+*  tt
+- chóng phai mờ (ấn tượng...); phù du (thanh danh...)
+- (toán học) vi phân
+
+@evanescently
+- xem evanescent
+ @evangel  
+*  dt (từ cổ,nghĩa cổ)
+- (tôn giáo) (kinh) Phúc âm
+- thuyết nguyên lý (chính trị...)
+
+@evangelic   (evangelical) @evangelical   (evangelical) @evangelicalism  
+*  dt (tôn giáo)
+- thuyết Phúc âm
+
+@evangelically
+- xem evangelical
+ @evangelisation
+* dt
+- sự truyền bá Phúc âm
+- sự cảm hoá (ai) theo Công giáo
+ @evangelise   (evangelise) @evangelism  
+*  dt
+- sự truyền bá Phúc âm
+- (như) evangelicalism
+
+@evangelist  
+*  dt (tôn giáo)
+- tác giả Phúc âm
+- người truyền bá Phúc âm
+- người truyền giáo (nhưng không phải là cha cố)
+
+@evangelistic  
+*  tt (tôn giáo)
+- (thuộc) tác giả Phúc âm
+- (thuộc) người truyền bá Phúc âm
+- (như) evangelical
+
+@evangelistically
+- xem evangelism
+ @evangelization  
+*  dt
+- sự truyền bá Phúc âm
+- sự cảm hoá (ai) theo Công giáo
+
+@evangelize   (evangelise) @evangelizer
+- xem evangelize
+ @evanish  
+*  ndgt
+- (văn học) biến mất
+
+@evanishment  
+*  dt
+- (văn học) sự biến mất
+
+@evaporability  
+*  dt
+- tính bay hơi
+- độ bay hơi
+
+@evaporable  
+*  tt
+- có thể bay hơi
+
+@evaporate  
+*  ngdgt
+- làm bay hơi
+- làm khô (hoa quả, sữa)
+*  ndgt
+- bay hơi
+- (thông tục) tan biến, biến mất; chết
+
+@evaporation  
+*  dt
+- sự làm bay hơi, sự bay hơi
+- sự làm khô
+
+@evaporation
+- (vật lí) sự bay hơi
+ @evaporative  
+*  dt
+- dễ làm bay hơi
+- có khả năng làm bay hơi
+
+@evaporatively
+- xem evaporate
+ @evaporativity
+- xem evaporate
+ @evaporator  
+*  dt
+- (kỹ thuật) máy bay hơi, máy cô
+
+@evaporimeter  
+*  dt
+- (kỹ thuật) cái đo bay hơi
+
+@evapotranspiration
+* dt
+- sự thoát-bốc hơi nước
+ @evasion  
+*  dt
+- sự tránh, sự lảng tránh, sự lẩn tránh, sự thoái thác
+- kẻ lẩn tránh, mẹo thoái thác
+
+@evasive  
+*  tt
+- lảng tránh, lẩn tránh, thoái thác
+- hay lảng tránh, hay lẩn tránh
+
+@evasively
+* dt
+- thoái thác, lảng tránh
+ @evasiveness  
+*  dt
+- tính lảng tránh, tính lẩn tránh; tính hay lẩn tránh, tính hay thoái thác
+
+@eve  
+*  dt (kinh thánh)
+- (Eve) Ê-va (người đàn bà đầu tiên)
+
++ daughter of Eve: đàn bà
+*  dt
+- đêm trước, ngày hôm trước
+- thời gian trước (khi xảy ra một sự kiện gì)
+
++ on the eve of a general insurrection: trong thời gian trước khi tổng khởi nghĩa
+- (từ cổ,nghĩa cổ) chiều tối
+
+@evection
+* dt
+- (thiên văn) kỳ sai (của mặt trăng)
+ @evectional
+* dt
+- thuộc kỳ sai (của mặt trăng)
+ @even  
+*  dt (thơ ca)
+- chiều, chiều hôm
+*  tt
+- bằng phẳng
+- ngang bằng, ngang
+- (pháp lý); (thương nghiệp) cùng
+
++ of even date: cùng ngày
+- điềm đạm, bình thản
+
++ an even temper: tính khí điềm đạm
+- chẵn (số)
+- đều, đều đều, đều đặn
+
++ an even tempo: nhịp độ đều đều
+
++ an even pace: bước đi đều đều
+- đúng
+
++ an even mile: một dặm đúng
+- công bằng
+
++ an even exchange: sự đổi chác công bằng
+!to be (get) even with someone
+- trả thù ai, trả đũa ai
+!to break even
+- (từ lóng) hoà vốn, không được thua
+*  dt
+- ngay cả, ngay
+
++ to doubt even the truth: nghi ngờ ngay cả sự thật
+- lại còn, còn
+
++ this is even better: cái này lại còn tốt hơn
+- (từ cổ,nghĩa cổ) không hơn không kém, đúng
+!even if; even though
+- ngay cho là, dù là
+!even now; even then
+- mặc dù thế
+!even so
+- ngay có đúng như thế, dù có đúng như thế thì
+
++ there deen to be shortcoming in the book, even so it's a good one: sách có thể có nhược điểm, nhưng dù có đúng như thế thì cũng vẫn là quyển sách tốt
+*  ngdgt
+- san bằng, làm phẳng
+- làm cho ngang, làm bằng
+
++ to even up: làm thăng bằng
+- bằng (ai), sánh được với (ai), ngang với (ai)
+!to even up on somebody
+- (từ Mỹ,nghĩa Mỹ) thanh toán với ai ((nghĩa bóng))
+- trả miếng ai, trả đũa ai
+
+@even
+- (Tech) thuộc số chẵn; đều; bằng phẳng
+ @even
+- chẵn; bằng, đều nhau   ngay khi, ngay cả
+@even number
+- (Tech) số chẵn
+ @even parity
+- (Tech) tính chẵn; tính đồng đẳng chẳn
+ @even parity check
+- (Tech) kiểm đồng đẳng chẵn
+ @even permutation
+- (Tech) hoán vị chẵn
+ @even-disciple
+* dt
+- đệ tử đồng môn
+ @even-down
+* tt
+- xuống thẳng
+- chân chính
+- rõ ràng
+ @evener
+- xem even
+ @evenfall  
+*  dt
+- (thơ ca) buổi hoàng hôn; lúc chiều tà
+
+@even-forward
+* tt
+- tiến thẳng
+ @even-hand
+* tt
+- cùng địa vị
+ @even-handed  
+*  tt
+- công bằng, vô tư
+
+@even-handedness
+* dt
+- thái độ công bằng, vô tư
+ @evening  
+*  dt
+- buổi chiều, buổi tối, tối đêm
+
++ a musical evening: một tối hoà nhạc, một đêm hoà nhạc
+- (nghĩa bóng) lúc xế bóng
+
+@evening dress  
+*  dt
+- áo dạ hội (đàn bà)
+- lễ phục (đàn ông)
+
+@evening meal  
+*  dt
+- bữa cơm chiều, bữa cơm tối
+
+@evening paper
+* dt
+- báo phát hành vào buổi chiều
+ @evening primrose
+* dt
+- <thực> cây anh thảo
+ @evening star  
+*  dt
+- sao hôm
+
+@evenly  
+*  dt
+- bằng phẳng
+- ngang nhau, bằng nhau
+- đều
+- công bằng
+
+@evenly
+- đều
+ @even-minded   (even-tempered) @evenness  
+*  dt
+- sự ngang bằng
+- sự đều đặn
+- tính điềm đạm, tính bình thản
+- tính công bằng
+
+@even-numbered memory address
+- (Tech) địa chỉ bộ nhớ số chẵn
+ @even-odd
+- (Tech) chẵn lẻ
+ @even-odd check
+- (Tech) kiểm chẵn lẻ
+ @evensong  
+*  dt
+- (tôn giáo) buổi lễ ban chiều
+
+@event  
+*  dt
+- sự việc, sự kiện
+- sự kiện quan trọng
+- (thể dục,thể thao) cuộc đấu, cuộc thi
+- trường hợp, khả năng có thể xảy ra
+
++ in the event of success: trong trường hợp thành công
+
++ at all events; in any event: trong bất kỳ trường hợp nào
+- kết quả, hậu quả
+
+@event
+- (Tech) sự biến
+ @event
+- sự kiện; (xác suất) ; (thống kê) biến cố
+- antithetic(al) e.s (thống kê) biến cố xung khắc
+- certain e. [sự kiện, biến cố] chắc chắn
+- compatible e.s (thống kê) các biến cố tương thích 
+- complementary e. biến cố đối lập
+- dependent e. biến cố phụ thuộc
+- equal e.s các biến cố bằng nhau 
+- exhaustive e.s nhóm đầy đủ các biến cố
+- favourable e. biến cố thuận lợi
+- imposible e. (xác suất) biến cố không thể
+- incompatible e.s (xác suất) các biến cố không tương thích
+- independent e. (xác suất) biến cố độc lập
+- mutually exclusive e.s các biến cố xung khắc
+- null e. biến cố có xác suất không
+- random e. (thống kê) biến cố ngẫu nhiên
+- simple e. biến cố sơ cấp 
+ @event handler
+- (Tech) thủ trình cho sự biến
+ @event interrupt
+- (Tech) ngắt cho sự biến
+ @event-driven
+- (Tech) dựa theo sự biến
+ @even-tempered   (even-tempered) @eventful  
+*  tt
+- có nhiều sự kiện quan trọng
+
++ an eventful year: một năm có nhiều sự kiện quan trọng
+- có kết quả quan trọng
+
++ an eventful conversation: một cuộc nói chuyện có kết quả quan trọng
+
+@eventfully
+- xem eventful
+ @eventfulness
+- xem eventful
+ @eventide  
+*  dt
+- (thơ ca) chiều hôm
+
+@eventing
+* dt
+- môn thể thao có dùng ngựa
+ @eventless
+- xem event
+ @eventration
+* dt
+- (y học) sự lồi phủ tạng
+ @eventual  
+*  tt
+- ngộ xảy ra, có thể xảy ra
+- sẽ được dẫn tới, là kết quả của; cuối cùng
+
++ blunders leading to eventual disaster: những sai lầm dẫn đến sự tai hoạ cuối cùng
+
+@eventual
+- có thể, có thể xảy ra, sẽ xảy ra
+ @eventuality  
+*  dt
+- sự việc có thể xảy ra; kết quả có thể xảy ra, tình huống có thể xảy ra
+
++ to be ready for any eventualities: phải sẵn sàng trước mọi tình huống có thể xảy ra
+
+@eventually  
+*  dt
+- cuối cùng
+
+@eventually
+- cuối cùng, tính cho cùng
+ @eventuate  
+*  ndgt
+- hoá ra là, thành ra là
+
++ to eventuate well: hoá ra là tốt
+
++ to eventuate ill: hoá ra là xấu
+- ((thường) : in) kết thúc; đưa đến kết quả là
+- (từ Mỹ,nghĩa Mỹ) xảy ra
+
+@ever  
+*  dt
+- bao giờ; từ trước đến giờ; hàng, từng
+
++ more than ever: hơn bao giờ hết
+
++ the best story ever heard: chuyện hay nhất đã từng được nghe
+
++ the greatest thinker ever: nhà tư tưởng lớn nhất từ trước đến giờ
+- luôn luôn, mãi mãi
+
++ to live for ever: sống mãi
+- (thông tục) nhỉ
+
++ what ever does he wants?: nó muốn cái gì thế nhỉ?
+
++ who ever can it be?: ai thế nhỉ?
+!did you ever?
+- có bao giờ anh (nghe chuyện như thế, thấy chuyện như thế) chưa?
+- thế không?
+!ever had anon
+- (xem) anon
+!ever after
+!ever since
+- suốt từ đó, mãi mãi từ đó
+!ever so
+- (thông tục) rất là, thật là, lắm, hết sức
+
++ to be ever so happy: thật là hạnh phúc
+
++ thank you ever so much: cảm ơn anh lắm, hết sức cảm ơn anh
+!for ever
+!for ever and ever
+- mãi mãi
+!yours ever
+- bạn thân của anh (công thức cuối thư)
+
+@ever-bearing
+* tt
+- (thực vật) ra quả quanh năm
+ @ever-blooming
+* tt
+- (thực vật) ra hoa quanh năm
+ @ever-changing
+* tt
+- bấp bênh (người); thay đổi luôn
+ @everglade  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) đầm lầy
+
+@evergreen  
+*  dt
+- (thực vật học) cây thương xanh
+- (số nhiều) cây xanh trang trí
+
+@ever-greeness
+* dt
+- tính thường xanh (cây)
+- tính bất hủ
+ @everlasting  
+*  tt
+- vĩnh viễn, mãi mãi, đời đời, bất diệt
+- kéo dài mãi, láy đi láy lại mãi, không ngớt, không ngừng, không dứt
+
++ this everlasting noise: tiếng ầm ầm không bao giờ dứt
+- (thực vật học) giữ nguyên dạng và màu khi khô
+!the Everlasting
+- Chúa,  Thượng đế
+*  dt
+- thời gian vô tận, ngàn xưa
+
++ the monument has been there since everlasting: công trình đó có từ ngàn xưa
+- (thực vật học) cây cúc trường sinh
+- vải chéo len
+
+@everlastingly
+* dt
+- liên miên, không ngớt
+ @everlastingness  
+*  dt
+- tính vĩnh viễn, tính lâu dài, tính bất diệt
+- sự kéo dài mãi, sự láy đi láy lại mãi, sự không ngớt, sự không ngừng, sự không dứt
+
+@everliving  
+*  tt
+- tồn tại vĩnh viễn, bất diệt
+
+@evermore  
+*  dt
+- mãi mãi, đời đời
+
+@eversible  
+*  tt
+- có thể lộn trong ra ngoài
+
+@eversion  
+*  dt
+- (số nhiều) sự lộn ra
+- (từ cổ,nghĩa cổ) sự lật đổ
+
+@evert  
+*  ngdgt
+- (sinh vật học) lộn ra, lộn trong ra ngoài
+- (từ cổ,nghĩa cổ) lật đổ
+
+@every  
+*  tt
+- mỗi, mọi
+!every man Jack
+- mọi người
+!every now and then; every now and again; every so often
+- thỉnh thoảng
+!every other day; every second day
+- hai ngày một lần
+
+@every
+- mỗi, mọi
+ @every time  
+*  dt
+- lần nào cũng
+
++ our football team wins every_time: đội bóng của ta lần nào cũng thắng
+
+@every way  
+*  dt
+- về mọi mặt, về mọi phương diện
+
+@everybody   (everyone) @everyday  
+*  tt
+- hằng ngày, dùng hằng ngày
+
++ one's everyday routine: việc làm hằng ngày
+
++ everyday shoes: giày thường đi hằng ngày
+- thường, thông thường, xảy ra hằng ngày
+
++ an everyday occurence: việc thường xảy ra, việc thường xảy ra hằng ngày
+- tầm thường
+
++ an everyday young man: một gã thanh niên tầm thường
+
++ everyday talk: chuyện tầm phào
+
+@everydayness
+- xem everyday
+ @everyman  
+*  dt
+- người thường dân
+
+@everyone   (everyone) @everything  
+*  đại từ
+- mọi vật, tất cả, mọi cái, tất cả mọi thứ
+- cái quan trọng bậc nhất, điều quan trọng bậc nhất
+
++ money is everything to some people: đối với người tiền là cái quan trọng bậc nhất
+
+@everywhere  
+*  dt
+- ở mọi nơi, khắp nơi, khắp chốn
+
+@everywhere
+- khắp nơi
+- almost e. hầu khắp nơi 
+ @evict  
+*  ngdgt
+- đuổi (ai) (khỏi nhà ở, đất đai...)
+- (pháp lý) lấy lại (tài sản... bằng con đường pháp lý)
+
+@evictee
+- xem evict
+ @eviction  
+*  dt
+- sự đuổi (ai) (khỏi nhà ở, đất đai...)
+- (pháp lý) sự lấy lại (tài sản... bằng con đường pháp lý)
+
+@evictor  
+*  dt
+- người đuổi (ai) (khỏi nhà ở, đất đai...)
+
+@evidence  
+*  dt
+- tính hiển nhiên; tính rõ ràng, tính rõ rệt
+
++ in evidence: rõ ràng, rõ rệt
+- (pháp lý) chứng, chứng cớ, bằng chứng
+
++ to bear (give) evidence: làm chứng
+
++ to call in evidence: gọi ra làm chứng
+- dấu hiệu; chứng chỉ
+
++ to give (bear) evidence of: là dấu hiệu của; chứng tỏ (cái gì)
+!to turn King's (Queen's) evidence
+!to turn State's evidence
+- tố cáo những kẻ đồng loã
+*  ngdgt
+- chứng tỏ, chứng minh
+*  ndgt
+- làm chứng
+
+@evidence
+- sự rõ ràng
+ @evident  
+*  tt
+- hiển nhiên, rõ rệt
+
+@evident
+- rõ ràng
+ @evidential  
+*  tt
+- chứng, chứng cớ, bằng chứng; để làm bằng chứng; dựa trên bằng chứng; cung cấp bằng chứng
+
+@evidentially
+- xem evidential
+ @evidently
+* dt
+- hiển nhiên, rõ ràng
+ @evidently
+- một cách rõ ràng, hiển nhiên
+ @evil  
+*  tt
+- xấu, ác, có hại
+
++ of evil repute: có tiếng xấu
+
++ an evil tongue: ác khẩu
+
++ an evil eye: cái nhìn hãm tài, cái nhìn độc địa
+!the Evil One
+- (xem) one
+*  dt
+- cái xấu, điều ác; tội lỗi; cái (có) hại; điều tai hại, tai hoạ
+
++ to speak evil of someone: nói xấu ai
+
++ to choose the less of two evils: giữa hai cái hại chọn cái ít hại hơn
+- (từ cổ,nghĩa cổ) bệnh tràng nhạc
+
+@evil-disposed
+* tt
+- có ý xấu; có ác ý
+ @evil-doer  
+*  dt
+- kẻ làm việc ác, kẻ làm hại
+
+@evildoer
+* dt
+- kẻ làm việc ác; kẻ bất lương
+ @evil-doing  
+*  dt
+- điều ác, việc ác
+
+@evil-intentioned
+* tt
+- như evil-minded
+ @evilly
+* dt
+- có hiểm ý, có ác ý
+ @evil-minded  
+*  tt
+- có ý xấu, ác ý, ác độc, hiểm độc
+
+@evil-mindedly
+- xem evil-minded
+ @evil-mindedness
+- xem evil-minded
+ @evilness
+- xem evil
+ @evil-speaking
+* tt
+- ăn nói độc địa; ăn nói độc mồm độc miệng
+ @evil-starred
+* tt
+- đen đủi; gặp số không may
+ @evince  
+*  ngdgt
+- tỏ ra, chứng tỏ (đức tính gì...); tỏ ra mình có (đức tính gì)
+
+@evincible  
+*  tt
+- có thể tỏ ra, có thể chứng tỏ
+
+@evincive  
+*  tt
+- tỏ ra, chứng tỏ (đức tính gì)
+
+@evirate  
+*  ngdgt
+- thiến, hoạn
+- (nghĩa bóng) làm mất tính chất tu mi nam tử, làm mất tính chất đàn ông
+
+@eviration  
+*  dt
+- sự thiến, sự hoạn
+- (nghĩa bóng) sự làm mất tính chất tu mi nam tử, sự làm mất tính chất đàn ông
+
+@eviscerate  
+*  ngdgt
+- moi ruột
+- (nghĩa bóng) moi mất (tước mất) những phần cốt yếu
+
+@evisceration  
+*  dt
+- sự moi ruột
+- (nghĩa bóng) sự moi mất (tước mất) những phần cốt yếu
+
+@evocable
+- xem evoke
+ @evocation  
+*  dt
+- sự gọi lên, sự gợi lên
+- (pháp lý) sự gọi ra toà trên
+
+@evocative  
+*  tt
+- để gọi lên, để gợi lên
+
+@evocatively
+- xem evocative
+ @evocativeness  
+*  dt
+- sức gợi lên, khả năng gợi lên
+
+@evocator
+- xem evocation
+ @evocatory  
+*  tt
+- để gọi lên, để gợi lên
+
+@evoke  
+*  ngdgt
+- gọi lên (hồn...), gợi lên (ký ức, tình cảm...)
+- (pháp lý) gọi ra toà trên
+
+@evolute  
+*  tt
+- (toán học) (thuộc) đường pháp bao
+*  dt
+- (toán học) đường pháp bao
+
+@evolute
+- đường pháp bao
+- e. of a curve đường pháp bao của một đường cong
+- e. of a surface đường pháp bao của một mặt
+- intermediate e. đường pháp bao trung gian
+- plane e. đường pháp bao phẳng
+ @evolutility
+* dt
+- (sinh học) tính biến đổi cấu trúc
+ @evolution  
+*  dt
+- sự tiến triển (tình hình...)
+- sự tiến hoá, sự phát triển
+
++ Theory of Evolution: thuyết tiến hoá
+- sự mở ra, sự nở ra (nụ...)
+- sự phát ra (sức nóng, hơi...)
+- sự quay lượn (khi nhảy múa...)
+- (toán học) sự khai căn
+- (quân sự) sự thay đổi thế trận
+
+@evolution
+- sự tiến hoá, sự phát triểnm sự khai (căn)
+ @evolutional  
+*  tt
+- (thuộc) sự tiến triển
+- (thuộc) sự tiến hoá
+
+@evolutional
+- tiến hoá, phát triển
+ @evolutionarily
+- xem evolution
+ @evolutionary  
+*  tt
+- (thuộc) sự tiến triển
+- (thuộc) sự tiến hoá; (thuộc) thuyết tiến hoá
+- (thuộc) sự quay lượn (khi nhảy múa)
+
+@evolutionism  
+*  dt
+- thuyết tiến hoá
+
+@evolutionist  
+*  dt
+- người theo thuyết tiến hoá, nhà tiến hoá
+
+@evolutionistic  
+*  tt
+- (thuộc) thuyết tiến hoá
+
+@evolutive  
+*  tt
+- có xu hướng tiến triển
+- có xu hướng tiến hoá
+
+@evolvable
+- xem evolve
+ @evolve  
+*  ngdgt
+- mở ra ((nghĩa đen) & (nghĩa bóng))
+- rút ra, suy ra, luận ra, lấy ra (lý thuyết, sự kiện...)
+- (thường)(đùa cợt) tạo ra, hư cấu
+- phát ra (sức nóng...)
+- làm tiến triển; làm tiến hoá
+*  ndgt
+- tiến triển; tiến hoá
+
+@evolve
+- tiến hoá, phát triển, khai triển
+ @evolvement  
+*  dt
+- sự mở ra ((nghĩa đen) & (nghĩa bóng))
+- sự rút ra, sự suy ra, sự luận ra, sự lấy ra (lý thuyết, sự kiện...)
+- (thường)(đùa cợt) sự tạo ra, sự hư cấu
+- sự phát ra
+- sự tiến triển; sự tiến hoá
+
+@evolvent
+- đường thân khai
+ @Evolving market condition
+- (Econ) Sự tiến triển của tình hình kinh tế.
+ @evulsion  
+*  dt
+- sự nhổ, sự lấy ra
+
+@

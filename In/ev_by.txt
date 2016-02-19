@@ -1,0 +1,258 @@
+@by  
+*  dt
+- gần, cạnh, kế, bên
+
++ by the sea: gần biển
+
++ to sit by someone: ngồi cạnh ai
+- về phía
+
++ North by East: hướng bắc hơi lệch về phía đông
+- qua, ngang qua, xuyên qua, dọc theo (chỉ hướng và chuyển động)
+
++ to come by the fields not by the roads: đi xuyên qua các cánh đồng không dọc theo các con đường
+- vào lúc, vào khi, vào khoảng, vào quãng (chỉ thời gian)
+
++ to attack by night: tấn công vào đêm
+
++ to withdraw by daylight: rút vào lúc trời sáng
+
++ by tomorrow: khoảng ngày mai
+
++ by this time: vào lúc này
+- theo cách, bằng cách, theo từng
+
++ to rent the house by the year: cho thuê nhà theo từng năm
+
++ to sell coal by the ton: bán hàng theo từng tấn một
+
++ step by step: từng bước, dần dần
+- bằng, bởi, do
+
++ the streets are lighted by electricity: phố xá được thắp sáng bằng điện
+
++ to travel by sea: đi du lịch bằng đường biển
+
++ to send something by post: gửi vật gì bằng đường bưu điện
+
++ by mistake: do lỡ, do nhầm
+- theo như, phù hợp với
+
++ by someone's leave: theo sự cho phép của ai
+
++ by article 3 of the Treaty: theo điều 3 của hiệp ước
+- đến mức, đến khoảng
+
++ the bullet missed the target by two inches: viên đạn trượt mục tiêu khoảng hai insơ
+- trước
+
++ to swear by Almighty God that...: xin thề trước thượng đế là...
+!by the by; by the way
+- à này, nhân đây, tiện thể
+!by oneself
+- một mình không có ai giúp đỡ
+!to have something by one
+- có vật gì trong tay
+*  dt
+- gần
+
++ nobody was by: không có ai ở gần
+- qua
+
++ to hurry by: đi vội qua
+- sang một bên, ở bên; dự trữ, dành
+
++ to put (lay, set) something by: để cái gì sang một bên; để dành cái gì
+!by and by
+- lát nữa thôi; ngay bây giờ
+!by and large
+- nhìn chung, nói chung, rút cục
+*  tt
+- (như) bye
+
+@by
+- bằng, bởi
+- b. formula bằng công thức
+- b. nomeans không có cách nào, không khi nào
+- b. virtue of vì, do, theo
+ @by and by  
+*  dt
+- tương lai
+
+@by-blow  
+*  dt
+- cú đánh vào người không phải là đối thủ chính
+- việc bất ngờ, cơ hội bất ngờ
+- con đẻ hoang
+
+@bye  
+*  tt
+- thứ yếu, phụ
+
++ bye road: những con đường phụ
+*  dt
+- cái thứ yếu, cái phụ
+!by the bye
+- (như) by the by
+
+@bye-bye  
+*  dt
+- huây roen cái giường
+
++ to go to bye-bye: đi ngủ
+*  thán từ
+- chào tạm biệt
+
+@by-effect
+* dt
+- hiện tượng thứ yếu
+ @bye-law   (bye-law) @by-election  
+*  dt
+- cuộc bầu cử phụ
+
+@byelorussian
+* dt
+- người Beloruxia
+- tiếng Beloruxia
+* tt
+- thuộc về beloruxia
+ @by-end  
+*  dt
+- ý kín, ẩn ý
+
+@bygone  
+*  tt
+- quá khứ, qua rồi, cũ kỹ
+
++ in bygone days: trong những ngày qua đi
+*  dt số nhiều
+- quá khứ; tội lỗi đã qua; chuyện đã qua
+
++ let bygones be bygones: hãy để cho dĩ vãng trôi về dĩ vãng; đừng nhắc đến chuyện cũ đau lòng
+
+@by-lane  
+*  dt
+- ngõ hẻm, con đường nhỏ hẻo lánh
+
+@by-law   (bye-law) @byline
+- Trong ấn loát văn phòng, đây là dòng ghi tên tác giả thường còn có cả chức vụ trong tổ chức và địa chỉ được đặt ngay sau đầu đề của bài viết
+ @by-name  
+*  dt
+- tên lóng, tên tục, tên hèm
+
+@bypass  
+*  dt
+- đường vòng (để tránh một vị trí nào trên đường chính, để tránh ùn xe lại...)
+- (điện học) đường rẽ, sun
+- lỗ phun hơi đốt phụ
+*  ngdgt
+- làm đường vòng (ở nơi nào)
+- đi vòng
+- (nghĩa bóng) bỏ qua, phớt lờ
+
+@bypass
+- (Tech) đường vòng (song song); đi vòng (đ); bỏ qua (đ)
+ @bypass
+- đi vòng quanh
+ @bypass capacitor
+- (Tech) bộ điện dung vòng
+ @bypast  
+*  tt
+- đã qua, đã trôi qua
+
+@bypath  
+*  dt
+- đường hẻm hẻo lánh
+
+@by-path
+- (Tech) đường rẽ; mạch rẽ
+ @by-pit
+* dt
+- hầm mỏ có quạt thông gió
+ @byplay  
+*  dt
+- sự việc phụ (xảy ra cùng lúc với việc chính)
+- cảnh phụ (diễn ra bên lề cảnh chính)
+
+@by-product  
+*  dt
+- sản phẩm phụ
+
+@byre  
+*  dt
+- chuồng bò
+
+@by-road  
+*  dt
+- đường phụ; đường ít người qua lại
+
+@byronic
+* tt
+- có tính chất Bairơn (nhà thơ Anh)
+ @byssinosis
+* dt
+- số nhiều byssinoses
+- (y học) bệnh phổi nhiễm bụi bông
+ @bystander  
+*  dt
+- người đứng ngoài xem, người ngoài cuộc
+
+@bystreet  
+*  dt
+- phố hẻo lánh, phố lẻ
+
+@byte
+- (Tech) bai (8 bit)
+ @byte pointer
+- (Tech) con trỏ bai
+ @byte stuffing
+- (Tech) nhồi bai
+ @byte synchronization
+- (Tech) đồng bộ bai
+ @byte-addressable
+- (Tech) định vị bai được
+ @byte-addressable storage
+- (Tech) bộ trữ có thể định vi bai
+ @byte-aligned
+- (Tech) xếp theo bai
+ @by-trade  
+*  dt
+- nghề phụ
+
+@bytrade
+* dt
+- nghề phụ
+ @by-way  
+*  dt
+- đường phụ, lối phụ
+- đường tắt
+- (nghĩa bóng) lĩnh vực ít người biết đến trong lịch sử
+!highway and by-way
+- trên mọi nẻo đường
+
+@byway
+* dt
+- đường phụ
+- <snh> lãnh vực ít được biết đến
+ @bywoner
+* dt
+- người nông dân da trắng nghèo ở Nam Phi cày rẽ cho người khác
+ @byword  
+*  dt
+- tục ngữ, ngạn ngữ
+- gương (xấu); điển hình (xấu)
+
++ a byword for inquirity: điển hình của sự bất hoà
+- trò cười
+
++ to become the byword of the village: trở thành trò cười cho cả làng
+
+@by-work  
+*  dt
+- việc phụ (làm vào lúc nhàn rỗi)
+
+@byzantine
+* tt
+- thuộc về đế quốc La Mã phương Đông
+- <chtrị> phức tạp
+ @

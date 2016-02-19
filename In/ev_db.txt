@@ -1,0 +1,12 @@
+@dB (decibel) loss
+- (Tech) suy giảm bằng đêxiben
+ @dB (decibel) meter
+- (Tech) máy đo đêxiben
+ @DB-25 connector
+- (Tech) đầu nối DB-25
+ @dbe
+* (viết tắt)
+- Nữ hiệp sự trưởng dòng của đế chế Anh (Dame Commander of the British Empire)
+ @dbms
+- hệ quản lý cơ sở dữ liệu
+ @

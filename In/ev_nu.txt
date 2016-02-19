@@ -1,0 +1,850 @@
+@nu
+- nuy (&#957;)
+ @nuance  
+*  dt
+- sắc thái
+
+@nub  
+*  dt
+- cục nhỏ (than...) ((cũng) nubble)
+- cục u, bướu nhỏ
+- (thông tục) phần tinh tuý; điểm cơ bản, điểm trọng yếu
+
++ the nub of the matter: điểm trọng yếu của vấn đề
+
+@nubble  
+*  dt
+- cục nhỏ (than...) ((cũng) nub)
+
+@nubbly  
+*  tt
+- thành cục nh
+
+@nubile  
+*  tt
+- đến tuổi lấy chồng, tới tuần cập kê (con gái)
+
+@nubility  
+*  dt
+- tuổi kết hôn, tuổi lấy chồng, tuần cập kê
+
+@nubus
+- Loại bus mở rộng tốc độ cao của các máy tính Macintosh II NuBus đòi hỏi các bộ điều hợp được thiết kế đặc biệt để dùng với khe cắm 96 chân của nó
+ @nucelli
+- số nhiều của nucellus
+ @nucellus  
+*  dt
+- (thực vật học) phôi tâm
+
+@nucha
+* dt
+- gáy, ót
+ @nuchal  
+*  tt
+- (giải phẫu) (thuộc) gáy
+
+@nuciferous  
+*  tt
+- (thực vật học) có quả hạch
+
+@nucivorous  
+*  tt
+- (động vật học) ăn quả hạch
+
+@nucleale   (nucleolus) @nuclear   (nucleate) @nuclear
+- (vật lí) (thuộc) hạch, hạt nhân
+ @nuclear disarmament
+* dt
+- sự giải trừ vũ khí hạt nhân
+ @nuclear family
+* dt
+- gia đình hiểu theo nghĩa thuần túy là chỉ có cha mẹ và các con, gia đình hạt nhân
+ @nuclear power  
+*  dt
+- năng lượng hạt nhân (nguyên tử)
+- cường quốc nguyên tử, cường quốc hạt nhân
+
+@nuclear war
+* dt
+- chiến tranh hạt nhân
+ @nuclear winter
+* dt
+- mùa đông hạt nhân
+ @nuclear-powered  
+*  tt
+- dùng năng lượng nguyên tử làm sức đẩy (tàu...)
+
+@nucleate  
+- 'nju:klieit@nucleated
+* tt
+- có nhân, thuộc nhân
+ @nucleation  
+*  dt
+- sự cấu tạo hạt nhân
+
+@nuclei  
+*  dt,  số nhiều nuclei
+- tâm, trung tâm ((nghĩa đen) & (nghĩa bóng))
+- (sinh vật học) nhân (tế bào)
+- (thực vật học) hạch (của quả hạch)
+- (vật lý) hạt nhân
+
++ atomic nucleus: hạt nhân nguyên t
+
+@nucleic acid  
+*  dt
+- (hoá học); (sinh vật học) axit nucleic
+
+@nucleole
+* dt
+- <sinh> hạch nhân
+ @nucleoli
+- số nhiều của nucleolus
+ @nucleolus   (nucleolus) @nucleon
+* dt
+- (vật lý) pro-ton,  nơ-tron
+ @nucleon(e)
+- nuclêon
+ @nucleonics  
+*  dt,  số nhiều dùng như số ít
+- kỹ thuật hạt nhân
+
+@nucleus  
+*  dt,  số nhiều nuclei
+- tâm, trung tâm ((nghĩa đen) & (nghĩa bóng))
+- (sinh vật học) nhân (tế bào)
+- (thực vật học) hạch (của quả hạch)
+- (vật lý) hạt nhân
+
++ atomic nucleus: hạt nhân nguyên t
+
+@nucleus
+- hạch, hạt nhân
+- n. of a set hạch của một tập hợp
+- infinitesimal n. hạch vi phân 
+ @nucule  
+*  dt
+- (thực vật học) quả hạch con
+
+@nude  
+*  tt
+- trần, trần truồng, khoả thân
+
++ nude stocking: bít tất màu da chân
+- (thực vật học) trụi lá
+- (động vật học) trụi lông
+- (pháp lý) không có hiệu lực, vô giá trị
+
++ a nude contract: một bản hợp đồng không có hiệu lực
+*  dt
+- (nghệ thuật) tranh khoả thân; tượng khoả thân
+- (the nude) người khoả thân; tình trạng khoả thân
+
+@nudeness  
+*  dt
+- tình trạng trần truồng, tình trạng khoả thân
+
+@nudge  
+*  dt
+- cú đánh bằng khuỷ tay, cú thúc bằng khuỷ tay
+
++ to give a nudge: lấy khuỷ tay thúc cho một cái
+*  ngdgt
+- đánh bằng khuỷ tay, thúc bằng khuỷ tay
+
+@nudie
+* dt
+- vũ nữ thoát y
+- thoát y vũ
+ @nudism  
+*  dt
+- chủ nghĩa khoả thân
+
+@nudist  
+*  dt
+- người theo chủ nghĩa khoả thân
+
+@nudist camp
+* dt
+- nơi những kẻ ủng hộ chủ nghĩa khoả thân tha hồ khoả thân
+ @nudity  
+*  dt
+- tình trạng trần truồng, sự trần trụi
+- (nghệ thuật) tranh khoả thân; tượng khoả thân
+
+@nuf   (nuff) @nuff
+- interj
+- đủ
+ @nugatory  
+*  tt
+- vụn vặt, vô giá trị, vô dụng
+- vô hiệu, không có hiệu lực
+
+@nuggar  
+*  dt
+- thuyền nuga (Ai-cập)
+
+@nugget  
+*  dt
+- vàng cục tự nhiên; quặng vàng
+- (Uc) người vạm vỡ; con vật khoẻ chắc
+
+@nuisance  
+*  dt
+- mối gây thiệt hại, mối gây khó chịu, mối làm phiền toái, mối làm rầy, mối làm phiền
+
++ he is a nuisance: thằng cha hay làm phiền, thằng cha hay quấy rầy
+
++ to make oneself a nuisance to somebody: quấy rầy ai, làm phiền ai
+
++ commit no nuisance: cấm đổ rác, cấm phóng uế (yết thị)
+
++ what a nuisance!: thật phiền!, thật rầy rà!, thật khó chịu!
+
+@nuke
+- Xoá toàn bộ một thư mục hoặc toàn bộ đựa
+ @nulhomotopic
+- đồng luân không
+ @null  
+*  tt
+- vô hiệu, không có hiệu lực
+
++ null and void: không còn hiệu lực nữa, không còn giá trị nữa (đạo luật, tờ di chúc, chứng thư, hiệp ước...)
+- vô dụng, vô giá trị
+- không có cá tính, không biểu lộ tâm tính
+- (toán học) bằng không, không
+*  dt
+- chữ dùng để đánh lạc hướng (trong mật mã)
+
+@null
+- không có, trống   số không
+@Null hypothesis
+- (Econ) Giả thiết Không.
+: Trong những kiểm định giả thuyết, đó là giả thiết mà trong đó thống kê kiểm định sẽ dựa vào một hàm phân phối xác suất cho trước.
+ @nullah  
+*  dt
+- dòng nước
+
+@nullification  
+*  dt
+- sự huỷ bỏ; sự làm thành vô hiệu
+
+@nullifier
+- (giải tích) hàm làm triệt tiêu
+ @nullify  
+*  ngdgt
+- huỷ bỏ; làm thành vô hiệu
+
+@nullify
+- hàm triệt tiêu, đưa về không
+ @nullity  
+*  dt
+- (pháp lý) tính vô hiệu
+- sự bất tài; sự vô dụng; sự vô giá trị
+- người bất tài; người vô dụng; người vô giá trị; vật vô dụng; vật vô giá trị;
+
+@nullity
+- (đại số) số khuyết; số chiều của hạch
+ @numary   (nummulary) @numb  
+*  tt
+- tê, tê cóng
+
++ numb with cold: tê cóng đi vì lạnh
+- tê liệt; chết lặng đi
+!numb hand
+- (từ lóng) người vụng về, lóng ngóng
+*  ngdgt
+- làm tê, làm tê cóng đi
+- làm tê liệt; làm chết lặng đi
+
++ to be numbed with grief: chết lặng đi vì đau buồn
+
+@number  
+*  dt
+- số
+
++ even number: số chãn
+
++ old number: số lẻ
+
++ broken number: phân số
+
++ a great number of: nhiều
+
++ issued in numbers: xuất bản từng đoạn, làm nhiều số
+
++ singular number: (ngôn ngữ học) số ít
+
++ plural number: (ngôn ngữ học) số nhiều
+- đám, bọn, nhóm, toán
+
++ he is not of our number: nó không ở trong bọn chúng tôi
+- sự đếm số lượng
+
++ without number: không thể đếm được, hằng hà sa số
+- (số nhiều) sự hơn về số lượng, số nhiều, đa số
+
++ to win by numbers: thắng vì hơn về số lượng
+
++ he was by numbers: thắng vì hơn về số lượng
+
++ he was compelled to yield to numbers: nó bắt buộc phải chịu thua trước số đông
+- (thơ ca) nhịp điệu
+- (số nhiều) câu thơ
+- (số nhiều) số học
+
++ to be good at numbers: giỏi về số học
+!to lose the number of one's mess
+- (quân sự),  (từ lóng) chết
+!number one
+- (thông tục) cá nhân, bản thân
+
++ to look only after number one: chỉ chăm chăm chút chút bản thân
+- (quân sự),  (từ lóng) đại uý (hải quân)
+!his number goes up
+- (từ lóng) nó đã chầu trời rồi
+*  ngdgt
+- đếm
+
++ to number the stars: đếm sao
+- (number among,  in,  with) kể vào, liệt vào, tính vào
+
++ I number him among my friends: tôi kể anh ta vào số bạn tôi
+- đánh số, ghi số
+
++ these books are numbered from one to twenty: những quyển sách này được đánh số từ một đến hai mươi
+- lên tới, gồm có, có số dân là (tổng số)
+
++ we numbered twenty in all: chúng tôi tất cả gồm có hai mươi người
+
++ an army numbering eighty thousand: một đạo quân lên tới 80 000 người
+
++ this village numbers 5,000: làng này có đủ số dân là 5 000
+- thọ (bao nhiêu tuổi)
+
++ he numbers four score years: cụ ấy thọ tám mươi
+!his years are numberef
+- anh ta cũng chẳng còn sống được bao lâu nữa
+
+@number
+- số; số lượng   đánh số; đếm
+- n. of degrees of freedom số bậc tự do
+- n. of zero (giải tích) số các không điểm 
+- absolute số tuyệt đối
+- abstract n. số trừu tượng, hư số 
+- abundant n. số dư 
+- acceptance n. (thống kê) mức thu nhận (phế phẩm)
+- admissible n. (thống kê) mức chấp nhận được 
+- algebraic(al) n. số đại số 
+- amicable n.s (các) số bạn 
+- average sample n. (ASN) (thống kê) cỡ, mẫu trung bình 
+- beginning n. số bắt đầu
+- broken n. phân số
+- cardinal n. bản số; lực lượng 
+- chromatic n. sắc số 
+- class n. số lớp 
+- coincidence n. (tô pô) chỉ số trùng, số các điểm trùng
+- commensurable n. số hữu tỷ 
+- complex n. số phức 
+- composite n. số đa hợp, hợp số 
+- compound n. tạp số 
+- conerete n. số cụ thể
+- congruent n.s các số đồng dư
+- congruous n.s các số so sánh được
+- conjugate algebraic n. số đại số liên hợp
+- conjugate complex n.s những số phức liên hợp
+- conjugate imaginary n.s những số ảo liên hợp
+- coprime n.s các số nguyên tố cùng nhau
+- critical n. số tới hạn
+- denominate n. danh số
+- directed n. số tương đối
+- direction n. số chỉ phương 
+- even n. số chẵn 
+- figurate n. số tượng trưng
+- final n. of a continued fraction số cuối cùng của một liên phân số
+- floating n.s (máy tính) các số có dấu phẩy động
+- imaginary n. số ảo 
+- inaccessible n. số không đạt được
+- incidence n. số liên thuộc
+- incommensurable n.s các số không khả ước
+- influence n. số ảnh hưởng
+- integral n. số nguyên
+- intersection n. số tương giao
+- irrational n. số vô tỷ 
+- limiting n. số giới hạn
+- long n. (máy tính) số dài (có nhiều chữ số)
+- lucky n.s số may mắn
+- multipartite n. số phân nhỏ
+- multiplace n. số nhiều chữ 
+- natural n. số tự nhiên
+- negative n. số âm
+- odd n. số lẻ 
+- ordinal n. tự số
+- p-adic n. số p-adic
+- palindromic n. số xuôi ngược (ví dụ 3223)
+- perfect n. số hoàn chỉnh
+- positive n. số dương
+- prime n. số nguyên tố
+- pseudoprime n. số giả nguyên tố
+- pseudorandom n.s (thống kê) các số giả ngẫu nhiên
+- pure imaginary n. số thuần ảo
+- Pythagorean n. số Pitago
+- random n. (thống kê) số ngẫu nhiên
+- rational n. số hữu tỷ 
+- real n. số thực
+- rejection n. (thống kê) mức bức bỏ
+- relatively prime n.s số nguyên tố cùng nhau
+- rotation n. số quay
+- ruond n. số tròn
+- rounded n. số đã làm tròn, số đã thu gọn
+- separayive n. số tách 
+- serial n. (máy tính) số thứ tự
+- signed n.s các số tương đối có dấu
+- square-free n. số không chính phương
+- tetrahedral n. số tứ diện
+- tolerance n. of defects (thống kê) số phế phẩm cho phép
+- torion n. số xoắn
+- transcendental n. số siêu việt
+- transfinite cardinal n. bản số siêu hạn
+- triangular n. số tam giác
+- unknown n. ẩn số
+- wave n. số sóng
+- winding n. of a curve with respect to the point số lần quay của một
+- đường cong đối với một điểm 
+@numbering
+* dt
+- sự ghi số vào cái gì; sự đánh số
+ @numberless  
+*  tt
+- vô sô, không đếm được, nhiều vô kể
+
+@number-plate
+* dt
+- biển đăng ký xe, biển số xe
+ @Numbers equivalent index
+- (Econ) Chỉ số đương lượng.
+: Xem HERFINDAHL INDEX.
+ @numb-fish  
+*  dt
+- (động vật học) cá thụt
+
+@numbly
+* dt
+- điếng người, lặng người
+ @numbness  
+*  dt
+- tình trạng tê, tình trạng tê cóng
+- tình trạng tê liệt, tình trạng chết lặng đi
+
+@numbskull   (numbskull) @numen  
+*  dt,  số nhiều numina  @numenrable  
+*  tt
+- có thể đếm được
+
+@numerable
+* tt
+- có thể đếm được
+ @numerable
+- đếm được
+ @numeracy
+* dt
+- sự giỏi toán
+ @Numeraire
+- (Econ) Đơn vị tính toán.
+: Là một đơn vị hạch toán, hoặc là một biểu thức của tiêu chuẩn giá trị.
+ @numeral  
+*  tt
+- (thuộc) số
+*  dt
+- số, chữ số
+
++ Arabic numerals: chữ số A-rập
+
++ Roman numerals: chữ số La mã
+- (ngôn ngữ học) số t
+
+@numeral
+- chữ số   (bằng) số (thuộc) số
+- Arabic n.s các chữ số ả rập
+- Roman n.s các chữ số La mã 
+@numerate
+* tt
+- giỏi toán
+ @numeration  
+*  dt
+- phép đếm, phép đọc số
+- sự ghi số, sự đánh s
+
+@numeration
+- sự đếm; hệ thống đếm
+- decimal n. hệ thống ếm thập phân
+ @numerator  
+*  dt
+- người đếm, người tính
+- (toán học) tử số (của một phân số)
+
+@numerator
+- tử số, tử thức
+ @numeric coprocessor
+- số, tính chất số
+ @numerical  
+*  tt
+- (thuộc) số
+- bằng s
+
+@numerical
+- (bằng) số, số trị
+ @numerically
+* dt
+- về số lượng
+ @numeroscopenumer
+- (máy tính) dụng cụ ghi số (trên màn ống)
+ @numerous  
+*  tt
+- đông, đông đảo, nhiều
+
++ the numerous voice of the people: tiếng nói của đông đảo nhân dân
+
++ a numerous class: một lớp học đông
+- có vần, có nhịp điệu (văn, thơ)
+
+@numerously  
+*  dt
+- nhiều, đông đảo
+
+@numina  
+*  dt,  số nhiều numina  @numinous
+* tt
+- thiêng liêng, bí ẩn
+ @numismatic  
+*  tt
+- (thuộc) tiền, (thuộc) việc nghiên cứu tiền đúc
+
+@numismatics  
+*  dt,  số nhiều dùng như số ít
+- khoa nghiên cứu tiền đúc
+- sự sưu tầm các loại tiền
+
+@numismatist  
+*  dt
+- người nghiên cứu tiền đúc
+- người sưu tầm các loại tiền
+
+@numismatology  
+*  dt
+- khoa (nghiên cứu) tiền đúc
+
+@numlock
+- phim Num Lock
+ @nummary
+- Cách viết khác : nummalary 
+ @nummulary   (nummulary) @nummulite  
+*  dt
+- (địa lý,ddịa chất) Numulit, trùng tiền
+
+@nummulites
+* dt
+- Numulit
+- trùng tiền
+ @numnah  
+*  dt
+- vải phủ yên ngựa
+- cái đệm yên ngựa
+
+@numskull   (numbskull) @nun  
+*  dt
+- bà xơ, nữ tu sĩ, ni cô
+- (động vật học) chim áo dài
+
+@nun-buoy  
+*  dt
+- (hàng hải) phao neo
+
+@nunciature  
+*  dt
+- chức đại sứ của giáo hoàng
+- toà đại sứ của giáo hoàng
+
+@nuncio  
+*  dt
+- đại sứ của giáo hoàng
+
+@nuncius
+* dt
+- sứ giả, phái viên
+- đại sứ của giáo hoàng
+ @nuncle
+* dt
+- bác, chú, câu, dượng
+ @nunnery  
+*  dt
+- nữ tu viện
+
+@nunnish
+* tt
+- giống nữ tu sĩ
+ @nuptial  
+*  tt
+- (thuộc) hôn nhân; (thuộc) lễ cưới
+
++ the nuptial day: ngày cưới
+*  dt
+- ((thường) số nhiều) lễ cưới
+
+@nuptials
+* dt
+- lễ cưới
+ @nurse  
+*  dt
+- (động vật học) cá nhám
+*  dt
+- vú em, người bảo mẫu, người giữ trẻ
+- sự nuôi, sự cho bú, sự trông nom; sự được nuôi, sự được cho bú
+
++ a child at nurse: trẻ nhỏ đang tuổi phải cho bú
+- nơi nuôi dưỡng, xứ sở, vườn ương ((nghĩa bóng)), cái nôi ((nghĩa bóng))
+
++ the nurse of liberty: xứ sở của tự do
+- y tá, nữ y tá
+- (nông nghiệp) cây che bóng
+- (động vật học) ong thợ; kiến thợ
+*  ngdgt
+- cho bú, nuôi, trông nom (trẻ nhỏ)
+- bồng, ãm; nựng
+- săn sóc (người bệnh); chữa (bệnh)
+
++ he stays at home mursing his cold: nó ở nhà để chữa cho hết cảm
+- chăm chút (cây con, mảnh vườn...); nâng niu (một việc gì...))
+- nuôi, nuôi dưỡng, ấp ủ (hy vọng, hận thù; phong trào văn nghệ...)
+- ngồi ôm lấy, ngồi thu mình bên (lồng ấp, đống lửa...)
+
+@nurse-child  
+*  dt
+- trẻ em còn bú, con thơ
+
+@nurseling   (nursling) @nursemaid   (nurserymaid) @nurse-pond  
+*  dt
+- ao nuôi cá
+
+@nurser
+* dt
+- kẻ xúi giục (nổi loạn)
+- ông bầu (nghệ thuật)
+- người bảo trợ
+- người chăm sóc
+- người cho bú
+ @nursery  
+*  dt
+- phòng dành riêng cho tre bú
+- nhà trẻ
+- ao nuôi cá
+- vườn ương
+- (nghĩa bóng) nơi đào tạo, nơi nuôi dưỡng (nghệ sĩ...)
+
+@nursery garden  
+*  dt
+- vườn ương
+
+@nursery nurse
+* dt
+- nữ y tá chuyên chăm sóc trẻ nhỏ
+ @nursery rhymes  
+*  dt số nhiều
+- thơ ca cho trẻ nhỏ; thơ ca mẫu giáo
+
+@nursery school  
+*  dt
+- vườn trẻ
+
+@nursery slope
+* dt
+- dốc lài thích hợp cho những người chưa quen trượt tuyết
+ @nursery stakes
+* dt
+- cuộc đua dành cho ngựa hai tuổi
+ @nurserymaid   (nurserymaid) @nurseryman  
+*  dt
+- người trông nom vườn ương
+
+@nursing
+* dt
+- sự chăm sóc bệnh nhân, sự điều dưỡng
+ @nursing bottle  
+*  dt
+- bình sữa (cho trẻ nhỏ)
+
+@nursing home  
+*  dt
+- nhà thương, bệnh xá; nơi an dưỡng
+
+@nursling   (nursling) @nurture  
+*  dt
+- đồ ăn
+- sự nuôi dưỡng
+- sự giáo dục
+*  ngdgt
+- nuôi nấng, nuôi dưỡng
+- giáo dục
+
+@nut  
+*  dt
+- (thực vật học) quả hạch
+- (từ lóng) đầu
+- (số nhiều) cục than nhỏ
+- (kỹ thuật) đai ốc
+- (từ lóng) người khó chơi; việc hắc búa, việc khó giải quyết
+
++ a hard nut to crack: một thằng cha khó chơi; một công việc hắc búa khó nhai
+- (từ lóng) công tử bột
+- (từ lóng) người ham thích (cái gì)
+- (từ lóng) người điên rồ, người gàn dở
+!to be off one's nut
+- gàn dở, mất trí, hoá điên
+!to be nuts on; yo be dend nuts on
+- (từ lóng) mê, say mê, thích ham
+- cừ, giỏi
+*  ndgt
+- to go nutting đi lấy quả hạch
+
+@nutate  
+*  ndgt
+- lắc đầu
+- (thực vật học) vận động chuyển ngọn
+- (thiên văn học) chương động
+
+@nutation  
+*  dt
+- tật lắc đầu luôn luôn
+- (thực vật học) sự vận động chuyển ngọn
+- (thiên văn học) sự chương động
+
+@nutationnumer
+- (cơ học) chương động
+- n. of angle chương động góc 
+- n. of vertical chương động của đường thẳng đứng 
+- O
+ @nut-brown  
+*  tt
+- nâu sẫm
+
+@nut-case
+* dt
+- kẻ gàn bướng, kẻ điên rồ
+ @nutcracker  
+*  dt,  (thường) số nhiều
+- cái kẹp quả hạch
+- (động vật học) chim bổ hạt (họ quạ)
+
++ nutcracker face: mặt có mũi và cằm nhọn; mặt có mũi và cằm gần nhau (do rụng hết răng)
+
+@nut-house
+* dt
+- nhà thương điên, bệnh viện tâm thần
+ @nutmeat  
+*  dt
+- nhân hạt phỉ
+
+@nutmeg  
+*  dt
+- hạt nhục đậu khấu
+
+@nutmeg-tree  
+*  dt
+- (thực vật học) cây thực đậu khấu
+
+@nut-oil  
+*  dt
+- dầu hạt phỉ
+
+@nutria  
+*  dt
+- (động vật học) chuột hải ly
+- bộ da chuột hải ly; bộ da lông chuột hải ly
+
+@nutrient  
+*  tt
+- bổ, dinh dưỡng, dùng làm chất nuôi dưỡng
+*  dt
+- chất dinh dưỡng, chất nuôi dưỡng
+
+@nutriment  
+*  dt
+- đồ ăn bổ, chất ăn bổ; chất dinh dưỡng
+
+@nutrition  
+*  tt
+- sự nuôi dưỡng, sự dinh dưỡng
+- đồ ăn bổ
+- (y học) khoa dinh dưỡng
+
+@nutritional
+* tt
+- dinh dưỡng
+ @nutritionally
+* dt
+- về mặt dinh dưỡng
+ @nutritionist
+* dt
+- nhà nghiên cứu về lĩnh vực dinh dưỡng
+ @nutritious  
+*  tt
+- bổ, có chất bổ; dinh dưỡng
+
+@nutritiousness  
+*  dt
+- tính chất bổ; sự có chất dinh dưỡng
+
+@nutritive  
+*  tt
+- bổ; có chất bổ; dinh dưỡng
+- dùng làm thức ăn
+*  dt
+- chất dinh dưỡng, đồ ăn có chất b
+
+@nuts
+* tt
+- dở hơi
+- lẩn thẩn
+- say mê
+- say đắm
+ @nutshell  
+*  dt
+- bỏ quả hạch
+- bình chứa nhỏ; nơi chứa gọn; chỗ ở nhỏ xíu
+- bản tóm tắt ngắn gọn
+
++ the whole thing in a nutshell: tất cả sự việc tóm tắt gọn lại
+
+@nutter
+* dt
+- người hái lượm quả hạch
+ @nuttiness
+* dt
+- sự bảnh bao, sự diêm dúa
+- hương vị dễ chịu
+- hương vị hạt phỉ
+- vị ngon
+ @nutting
+* dt
+- vụ @nut-tree  
+*  dt
+- (thực vật học) cây phỉ
+
+@nutty  
+*  tt
+- nhiều quả hạch
+- có mùi vị hạt phỉ
+- (từ lóng) say mê, thích
+
++ to be nutty on (upon) someone: mê ai
+- (từ lóng) bảnh, diện
+- (từ lóng) đượm đà, hấp dẫn, thú vị (truyện)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) điên, quẫn, mất trí
+
+@nuzzle  
+*  dgt
+- hít, đánh hơi, ngửi (chó)
+- ủi, sục mõm vào; dí mũi vào
+- ủ, ấp ủ, rúc vào (trong lòng, trong chăn...)
+
+@

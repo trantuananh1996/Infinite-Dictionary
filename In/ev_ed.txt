@@ -1,0 +1,462 @@
+@edacious  
+*  tt
+- (thuộc) sự ăn uống
+- tham ăn
+
+@edacity  
+*  dt
+- tính tham ăn
+
+@edam  
+*  dt
+- phó mát êđam (Hà-lan)
+
+@edaphalogy  
+*  dt
+- thổ nhưỡng học
+
+@edaphic
+* tt
+- thuộc đất trồng, thuộc thổ nhưỡng
+ @edaphogenic
+* tt
+- làm thành đất trồng
+ @edaphology
+* dt
+- thổ nhưỡng học
+ @edaphon
+* dt
+- khu hệ sinh vật thổ nhưỡng
+ @edda
+* dt
+- văn thơ Băng đảo cổ,  edda
+ @eddatic
+* tt
+- thuộc văn thơ Băng đảo cổ,  edda
+ @eddic
+- Cách viết khác : eddaic 
+ @eddish  
+*  dt
+- cỏ mọc lại (sau khi cắt)
+
+@eddy  
+*  dt
+- xoáy nước
+- gió lốc
+- khói cuộn
+*  ngdgt
+- làm xoáy lốc
+*  ndgt
+- xoáy lốc
+
+@eddy
+- (vật lí) xoáy, chuyển động xoáy
+ @eddy current loss
+- (Tech) tổn hao do dòng xoáy, tổn hao do dòng étddi
+ @edelweiss  
+*  dt
+- (thực vật học) cây nhung tuyết
+
+@edema
+* dt
+- (y học) chứng phù
+ @edematous
+* tt
+- (y học) bị chứng phù
+ @eden  
+*  dt
+- (Eden) thiên đường, nơi cực lạc
+
+@edenic
+* tt
+- thuộc địa đường; nơi cực lạc
+ @edental
+* tt
+- không có răng
+ @edentate  
+*  tt
+- (động vật học) thiếu răng
+*  dt
+- (động vật học) động vật thiếu răng
+
+@edentation
+* dt
+- sự thiếu răng
+ @edentulate
+* tt
+- xem edentulous
+ @edentulous
+* tt
+- không có răng
+ @edge  
+*  dt
+- lưỡi, cạnh sắc (dao...); tính sắc
+
++ knife has no edge: dao này không sắc
+- bờ, gờ, cạnh (hố sâu...); rìa, lề (rừng, cuốn sách...)
+- đỉnh, sống (núi...)
+- (như) knife-edge
+- (nghĩa bóng) tình trạng nguy khốn; lúc gay go, lúc lao đao
+!to be on edge
+- bực mình
+- dễ cáu
+
++ to have the edge on somebody: (từ lóng) ở thế lợi hơn ai
+!to set someone's teeth on edge
+- làm cho ai bực mình; làm cho ai gai người; làm cho ai ghê tởm
+!to take the edge off one's appetite
+- làm cho ăn mất ngon
+- làm cho đỡ đói
+!to take the edge off someone's argument
+- làm cho lý lẽ của ai mất sắc cạnh
+*  ngdgt
+- mài sắc, giũa sắt
+- viền (áo...); làm bờ cho, làm gờ cho, làm cạnh cho
+- xen (cái gì, câu...) vào, len (mình...) vào; dịch dần vào
+
++ to edge one's way into a job: len lỏi vào một công việc gì
+*  ndgt
+- đi né lên, lách lên
+!to edge away
+- từ từ dịch xa ra
+- (hàng hải) đi xa ra
+!to edge off
+- mài mỏng (lưỡi dao...)
+- (như) to edge away
+!to edge on
+- thúc đẩy, thúc giục
+
+@edge
+- cạnh biên
+- e. of a dihedral angle cạnh của một góc nhị diện
+- e. of a polyhedron cạnh của một đa diện
+- e. of regressioncạnh lùi
+- cupspidal e. mép lùi, cạnh lùi
+- lateral e. of a prism cạnh bên của một lăng trụ
+- leading e. (cơ học) cánh trước (máy bay) 
+ @edge card
+- (Tech) thẻ cạnh, bảng cạnh
+ @edge connector
+- (Tech) bộ nối biên, đầu nối cạnh
+ @edge notched card
+- (Tech) phiếu khía biên 
++  marginally notched card
+ @edge-bone  
+*  dt
+- xương đùi (bò)
+
+@edged  
+*  tt
+- sắc
+- có lưỡi
+- có viền (áo...), có bờ, có gờ, có cạnh, có rìa, có lề
+
+@edged stone  
+*  dt
+- (kỹ thuật) đá cối
+- (kiến trúc) đá ria, đá gờ
+
+@edged tool  
+*  dt
+- dụng cụ có lưỡi sắc, dụng cụ cắt
+
++ to play with edge-tool: chơi với lửa, chơi dao (có ngày đứt tay)
+
+@edge-emitting LED (ELED)
+- (Tech) đèn hai cực phát sáng biên
+ @edgeless  
+*  tt
+- cùn
+
+@edge-plane
+* dt
+- cái bào để bào cạnh
+ @edger
+* dt
+- người mài; dụng cụ để mài
+- dụng cụ để tỉa bờ bồn hoa
+ @edge-tool  
+*  dt
+- dụng cụ có lưỡi sắc, dụng cụ cắt
+
++ to play with edge-tool: chơi với lửa, chơi dao (có ngày đứt tay)
+
+@edgeways   (edgewise) @edgewise   (edgewise) @Edgeworth, Francis Ysidro
+- (Econ) (1845-1926).
+: Giáo sư kinh tế chính trị học ở trường đại hcọ Oxford 1891-1922 và là người theo chủ nghĩa vị lợi, là người phát minh ra công cụ về đường bàng quan và đường hợp đông mà sử dụng trong thuyết hàng đổi hàng. Ông cũng nổi tiếng với công trình về các phương pháp thống kê và đặc biệt là quy luật chung của sai số, chỉ số và hàm số. Ông đã mở rộng QUY LUẬT LỢI TỨC GIẢM DẦN từ nông nghiệp sang chế tạo như một nguyên lý chung.
+ @edgily
+* dt
+- cáu kỉnh, cáu gắt, bực dọc
+ @edginess
+* dt
+- sự cáu kỉnh, sự bực dọc
+ @edging  
+*  dt
+- sự viền, sự làm bờ, sự làm gờ
+- viền, bờ, gờ
+
+@edging-shears  
+*  dt
+- kéo xén viền (ở sân cỏ)
+
+@edging-tile
+* dt
+- ngói lợp ở rìa mái
+ @edgy  
+*  tt
+- sắc (dao...)
+- rõ cạnh (bức tranh...)
+- bực mình, cáu kỉnh
+
+@edi
+- Một tiêu chuẩn dùng cho việc trao đổi bằng phương pháp điện tử các tài liệu doanh thương, như các danh đơn hàng gửi và các phiếu trả tiền chẳng hạn, đã được thành lập bởi Hiệp hội các tiêu chuẩn trao đổi dữ liệu (Data Interchange Standard Association - DISA) 
+ @edibility  
+*  dt
+- tính có thể ăn được
+
+@edible  
+*  tt
+- có thể ăn được (không độc)
+*  dt
+- vật ăn được
+- (số nhiều) thức ăn
+
+@edibleness
+- xem edible
+ @edibles
+* dt số nhiều
+- những thứ ăn được; thức ăn
+
++  edibles such as vegetables and meat:những thức ăn như rau và thịt chẳng hạn
+ @edict  
+*  dt
+- chỉ dụ, sắc lệnh
+
+@edictal  
+*  tt
+- (thuộc) chỉ dụ, (thuộc) sắc lệnh
+
+@edification  
+*  dt
+- sự soi sáng; sự mở mang trí óc; ((thường)(mỉa mai)) sự khai trí
+
+@edificatory
+* tt
+- thuộc giáo huấn, giáo hoá
+- sự mở mang trí óc
+ @edifice  
+*  dt
+- công trình xây dựng lớn ((nghĩa đen),  (nghĩa bóng))
+
+@edifier
+- xem edify
+ @edify  
+*  ngdgt
+- mở mang trí óc (ai); soi sáng; ((thường), (mỉa mai)) khai trí
+
+@edifying
+* tt
+- có tính cách giáo dục, khai trí
+ @edile
+* dt
+- quan thị chính (từ cổ La Mã)
+ @Edison accumulator
+- (Tech) bình điện Edison, bình điện sắt-kền
+ @Edison cell
+- (Tech) pin Edison
+ @Edison effect
+- (Tech) hiệu ứng Edison
+ @edit  
+*  ngdgt
+- thu nhập và diễn giải
+- chọn lọc, cắt xén, thêm bớt (tin của phóng viên báo gửi về)
+*  ndgt
+- làm chủ bút (ở một tờ báo...)
+
+@edit
+- (Tech) lắp ráp (d); dựng hình (d); biên soạn, biên tập, soạn thảo (d)
+ @edit
+- biên soạn, biên tập, xuất bản
+ @editing key
+- (Tech) phím biên soạn
+ @editing pad
+- (Tech) bàn phím biên soạn
+ @editing subprogram
+- (Tech) chương trình con để biên soạn
+ @editing VTR (video tape recorder)
+- (Tech) máy ghi băng viddêo để biên soạn @edition  
+*  dt
+- loại sách in ra loại sách xuất bản
+- số bản in ra (báo, sách...)
+- lần in ra, lần xuất bản
+- (nghĩa bóng) người giống hệt người khác; bản sao
+
++ she is a livelier edition of her sister: cô ta giống hệt như cô chị nhưng hoạt bát hơn
+
+@edition
+- sự xuất bản
+ @editor  
+*  dt
+- người thu thập và xuất bản
+- chủ bút (báo, tập san...)
+- người phụ trách một mục riêng (trong một tờ báo...)
+
+@editor
+- (Tech) bộ lắp; chương trình biên soạn, bộ biên soạn; soạn giả; biên tập viên
+ @editor program
+- (Tech) chương trình biên soạn
+ @editorial  
+*  tt
+- (thuộc) công tác thu thập và xuất bản
+- (thuộc) chủ bút (báo...)
+*  dt
+- bài xã luận (của một tờ báo...)
+
+@editorialist  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người viết xã luận
+
+@editorialization
+- xem editorialize
+ @editorialize  
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ) viết xã luận
+
+@editorializer
+- xem editorialize
+ @editorially  
+*  dt
+- với tư cách chủ bút
+- trong xã luận, bằng xã luận
+
+@editor-in-chief  
+*  dt,  số nhiều editors-in-chief
+- chủ bút, tổng biên tập
+
+@editorship  
+*  dt
+- công tác thu thập và xuất bản
+- nhiệm vụ chủ bút; chức chủ bút (báo, tập san...)
+
+@editors-in-chief  
+*  dt,  số nhiều editors-in-chief
+- chủ bút, tổng biên tập
+
+@editress  
+*  dt
+- người thu thập và xuất bản
+- nữ chủ bút
+
+@EDP
+- (Tech) (electronic data processing) xử lý dữ liệu điện tử
+ @edp
+* (viết tắt) (electronic data processing)
+- xử lý dữ liệu điện tử
+ @edt
+* (viết tắt) (eastern daylight time)
+- giờ miền Đông nước Mỹ
+ @educability  
+*  dt
+- tính có thể giáo dục được
+- tính có thể dạy được (súc vật...)
+- tính có thể rèn luyện được (kỹ năng...)
+
+@educable  
+*  tt
+- có thể giáo dục được
+- có thể dạy được (súc vật...)
+- có thể rèn luyện được (kỹ năng...)
+
+@educate  
+*  ngdgt
+- giáo dục, cho ăn học
+- dạy (súc vật...)
+- rèn luyện (kỹ năng...)
+
+@educated
+* tt
+- có giáo dục, có học
+ @education  
+*  dt
+- sự giáo dục, sự cho ăn học
+- sự dạy (súc vật...)
+- sự rèn luyện (kỹ năng...)
+- vốn học
+
++ a man of little education: một người ít học
+
+@educational  
+*  tt
+- thuộc ngành giáo dục
+- để giáo dục, sư phạm
+
+@educational software
+- (Tech) nhu liệu giáo dục
+ @educational television
+- (Tech) truyền hình giáo dục
+ @educationalist  
+*  dt
+- nhà giáo
+- nhà nghiên cứu, nhà giáo dục học
+
+@educationally
+* dt
+- về phương diện giáo dục
+ @educationist
+- chuyên gia giáo dục
+ @educative  
+*  tt
+- có tác dụng giáo dục
+- thuộc sự giáo dục
+
+@educator  
+*  dt
+- thầy dạy
+- nhà sư phạm
+
+@educe  
+*  ngdgt
+- rút ra ((nghĩa đen) & (nghĩa bóng))
+- (hoá học) chiết ra
+
+@educible  
+*  tt
+- có thể rút ra ((nghĩa đen) & (nghĩa bóng))
+- (hoá học) có thể chiết ra
+
+@educt  
+*  dt
+- (hoá học) vật chiết
+
+@eduction  
+*  dt
+- sự rút ra
+- (hoá học) sự chiết
+- (kỹ thuật) sự thoát ra
+
+@eductor
+* dt
+- người làm việc chiết xuất
+- vật được chiếc xuất
+ @edulcorant
+* dt
+- chất làm dịu
+ @edulcorate  
+*  ngdgt
+- làm ngọt, làm dịu
+- (hoá học) lọc sạch (hết vết axit, muối hoà tan...)
+
+@edulcoration  
+*  dt
+- sự làm ngọt, sự làm dịu
+- (hoá học) sự lọc sạch (hết vết axit, muối hoà tan...)
+
+@edutainment
+- Các chương trình ứng dụng của máy tính, được thiết kế để báo cho người sử dụng biết về một chủ đề, nhưng được giới thiệu dưới dạng một trò chơi mang tính giải trí hoặc thách thức để làm cho người sử dụng thích thú hơn
+ @edwardian  
+*  tt
+- thuộc triều đại các vua Ê-đu-a; thuộc triều đại vua Ê-đu-a VII
+*  dt
+- người ở triều đại vua Ê-đu-a VII
+
+@

@@ -1,0 +1,48 @@
+@xylem  
+*  dt
+- (thực vật học) chất gỗ,  xylem
+
+@xylen
+* dt
+- (hoá) xilen; xilol
+ @xylocarp  
+*  dt
+- (thực vật học) quả mộc
+- cây có quả mộc
+
+@xylocarpous  
+*  tt
+- (thực vật học) có quả mộc
+
+@xylograph  
+*  dt
+- bản khắc gỗ
+
+@xylographer  
+*  dt
+- thợ khắc gỗ
+
+@xylography  
+*  dt
+- thuật khắc gỗ
+
+@xyloid
+* tt
+- có gỗ; dạng gỗ; có linin
+ @xylonite  
+*  dt
+- xenluloit
+
+@xylophagous  
+*  dt
+- (động vật học) ăn gỗ, đục gỗ (sâu bọ)
+
+@xylophone  
+*  dt
+- (âm nhạc) đàn phiến gỗ, mộc cầm
+
+@xyster  
+*  đại từ
+- (y học) cái róc xương
+
+@

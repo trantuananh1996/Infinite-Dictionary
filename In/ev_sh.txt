@@ -1,0 +1,5137 @@
+@sh
+- interj
+- sụyt!; im lặng!
+ @shabbily
+* dt
+- mòn, sờn, hư hỏng, xấu, tồi tàn, tiều tuỵ
+- ăn mặc xoàng xựnh (về người)
+- đáng khinh, hèn hạ, đê tiện (về cách cư xử)
+ @shabbiness  
+*  dt
+- tình trạng tiều tuỵ, tình trạng tồi tàn
+- tính bủn xỉn
+- tính đáng khinh, tính hèn hạ, tính đê tiện
+
+@shabby  
+*  tt
+- mòn, sờn, hư, xấu, tồi tàn, tiều tuỵ
+
++ shabby house: nhà tồi tàn
+
++ shabby coat: áo trơ khố tải
+- bủn xỉn
+- đáng khinh, hèn hạ, đê tiện
+
++ to play somebody a shabby trick: chơi xỏ ai một vố đê tiện
+
+@shabby-genteel  
+*  tt
+- cố giữ phong cách hào hoa trong hoàn cảnh sa sút, giấy rách cố giữ lấy lề
+
+@shabbyish  
+*  tt
+- tồi tồi, hơi tiều tuỵ
+- khá bủn xỉn
+- hơi đê tiện, khá đê tiện
+
+@shabrack  
+*  dt
+- vải phủ lưng (ngựa)
+
+@shack  
+*  dt
+- lán, lều
+- (tiếng địa phương) hạt rơi vãi (ngoài đồng ruộng); quả rơi rụng
+*  ndgt
+- rụng, rơi rụng (hạt, quả)
+*  dt
+- kẻ lêu lỏng, kẻ lang thang đầu đường xó chợ
+*  ndgt
+- lêu lỏng, lang thang
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) chặn, chặn lại (quả bóng...)
+
+@shack up  
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ngủ đêm, qua đêm (ở đâu)
+- (: with) ở cùng với (ai)
+
+@shackle  
+*  dt
+- cái cùm, cái còng
+- (số nhiều) xiềng xích; sự trói buộc, sự hạn chế
+
++ shackle s of convention: sự trói buộc của quy ước
+- cái sứ cách điện
+*  ngdgt
+- cùm lại, xích lại
+- ngăn cản, ngăn chặn
+
+@shackle-bolt  
+*  dt
+- cái khoá cùm
+
+@shad  
+*  dt
+- (động vật học) cá trích đầy mình, cá aloza
+
+@shaddock  
+*  dt
+- quả bưởi
+- (thực vật học) cây bưởi
+
+@shade  
+*  dt
+- bóng, bóng tối ((nghĩa đen) & (nghĩa bóng))
+
++ to be thrown into the shade: bị làm lu mờ đi
+- ((thường) số nhiều) chỗ có bóng râm; chỗ bóng mát; (số nhiều) bóng đêm
+
++ in the shade of tree: dưới bóng cây
+- bóng (chỗ đậm màu trong bức tranh)
+- sự chuyển dần màu; bức tranh tô màu chuyển dần (màu này chuyển sang màu khác một cách từ từ, không đột ngột)
+- sự hơi khác nhau; sắc thái (đen & bóng)
+
++ different shade s of blue: những sắc thái khác nhau của màu xanh
+
++ different shade s of opinion: những ý kiến sắc thái khác nhau
+- một chút, một ít
+
++ I am a shade better today: hôm nay tôi đã đỡ hơn một ít
+- vật vô hình
+- vong hồn, vong linh
+- tán đèn, chụp đèn; cái lưỡi trai (che nắng cho mắt); ((từ Mỹ,nghĩa Mỹ)) mành mành cửa sổ
+- (số nhiều) hầm rượu
+!to go down to the shades
+- chết xuống âm phủ
+*  ngdgt
+- che bóng mát cho, che
+
++ trees shadethe street: cây che bóng mát cho phố
+
++ to shade one's eyes with one's hand: lấy tay che mắt
+
++ to shade a light: che ánh sáng
+- (nghĩa bóng) làm tối sầm, làm sa sầm
+
++ face shade d by a sullen look: mặt sa sầm xuống
+- đánh bóng (bức tranh)
+- tô đậm dần, tô nhạt dần (màu sắc trong một bức tranh, để tránh sự chuyển đột ngột từ màu này sang màu khác)
+- điều chỉnh độ cao (kèn, sáo...)
+*  ndgt
+- ((thường) : off) đậm dần lên, nhạt dần đi, chuyền dần sang màu khác; thay đổi sắc thái (màu sắc, chính kiến...)
+
++ the purple of the clouds shade s off into the vivid red of the horizon: màu tía của những đám mây chuyển dần sang màu đỏ chói của chân trời
+
+@shade-grown
+* tt
+- (thực vật học) mọc trong bóng râm
+ @shadeless  
+*  dt
+- không có bóng tối; không có bóng râm, không có bóng mát
+- không có tán che
+- không có sắc thái
+- (từ Mỹ,nghĩa Mỹ) không có mành cửa sổ
+
+@shade-loving
+* tt
+- ưa bóng
+ @shade-requiring
+* tt
+- cần bóng
+ @shade-tree  
+*  dt
+- cây bóng mát, cây che bóng
+
+@shadily
+* dt
+- tạo ra bóng râm tránh ánh nắng mặt trời; trong bóng râm; có bóng râm, có bóng mát
+- <thgt> ám muội, mờ ám, khả nghi; ô danh; không hoàn toàn trung thực
+ @shadiness  
+*  dt
+- sự có bóng râm, sự có bóng mát; tình trạng ở trong bóng mát
+- tính ám muội, tính mờ ám, tính khả nghi
+
+@shading  
+*  dt
+- sự che (khỏi ánh mặt trời, ánh sáng...)
+- sự đánh bóng (bức tranh)
+- sự hơi khác nhau; sắc thái
+
+@shadoof  
+*  dt
+- cần kéo nước (ở Ai-cập)
+
+@shadow  
+*  dt
+- bóng, bóng tối, bóng râm, bóng mát
+
++ to sit in the shadow: ngồi dưới bóng mát
+
++ the shadows of night: bóng đêm
+- bóng (của bức tranh); chỗ tối (trong gian phòng...)
+- hình bóng; (bóng) bạn nối khố, bạn thân, người theo sát như hình với bóng, người đi theo không rời bước
+- điểm báo trước
+- dấu vết, chút, gợn
+
++ without a shadow of doubt: không một chút nghi ngờ
+- bóng, vật vô hình
+
++ to catch at shadows; to run after a shadow: bắt bóng, theo đuổi một vật vô hình;
+
++ to throw away the substance for the shadow: thả mồi bắt bóng
+- sự tối tăm
+
++ to live in the shadow: sống trong cảnh tối tăm
+- sự che chở, sự bảo vệ
+
++ under the shadow of the Almighty: dưới sự che chở của thượng đế
+!to be afraid of one's own shadow
+- nhát gan; thần hồn nát thần tính
+!to be worn to a shadow
+- lo đến rạc người
+!to have shadows round one's eyes
+- mắt thâm quầng
+*  ngdgt
+- (thơ ca) che, che bóng
+- làm tối sầm, làm sa sầm
+- (từ Mỹ,nghĩa Mỹ) đánh bóng (bức tranh)
+- ((thường) : forth) báo điểm trước, làm mờ hiện ra
+- theo dõi, dò
+
++ to shadow a suspicious character: theo dõi một người khả nghi
+
+@shadow cabinet  
+*  dt
+- chính phủ lập sẵn (của phe đối lập chờ khi lên cầm quyền)
+
+@Shadow economy
+- (Econ) Nền kinh tế bóng.
+: Một bộ phận của nền kinh tế mà sản lượng của nó không được tính vào con số thống kê về thu nhập quốc dân bởi vì nó được giấu đi để chính quyền không thấy được.
+ @shadow factory  
+*  dt
+- nhà máy thiết kế sẵn; nhà máy dự trữ (để đề phòng có chiến tranh)
+
+@Shadow price
+- (Econ) Giá bóng
+: Việc đánh giá một hàng hoá hay dịch vụ mà không có giá thị trường.
+ @Shadow wage rate
+- (Econ) Mức tiền công bóng.
+: Giá bóng của lao động.
+ @shadow-box
+* ngdgt
+- (thể dục thể thao) tập dượt đấu quyền với một đấu thủ vô hình
+ @shadow-boxing  
+*  dt
+- (thể dục,thể thao) sự đấm bóng (đấu với đối thủ tưởng tương để luyện tập) (quyền anh)
+
+@shadowgraph
+* dt
+- ảnh chụp X quang
+- kịch bóng
+- bóng hiện lên trên màn ảnh
+ @shadowing
+* dt
+- sự che chắn
+- (vât lý học) hiệu ứng màn chắn
+ @shadowless  
+*  tt
+- không có bóng tối; không có bóng râm
+
+@shadowy  
+*  tt
+- tối, có bóng tối; có bóng râm
+- không thực, mờ ảo
+- mờ mờ, không rõ rệt
+
+@shady  
+*  tt
+- có bóng râm, có bóng mát; trong bóng mát; bị che
+
++ shady trees: cây có bóng mát
+
++ the shady side of a street: phía có bóng mát của một phố
+
++ to be shady from the sun: bị che ánh mặt trời
+- ám muội, mờ ám, khả nhi
+
++ actions: hành động ám muội
+!to be on the shady side of forty
+- hơn bốn mươi tuổi, ngoài tứ tuần
+!to keep shady
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ẩn náu
+
+@shaft  
+*  dt
+- cán (giáo, mác...), tay cầm
+- càng xe
+- mũi tên (đen & bóng)
+
++ the shaft of satire: những mũi tên nhọn của sự châm biếm
+- tia sáng; đường chớp
+- thân (cột, lông chim...) cọng, cuống
+- (kỹ thuật) trục
+- (ngành mỏ) hầm, lò
+
++ ventilating shaft: hầm thông gió
+- ống thông (hơi, khí); đường thông (cho thang máy qua các tầng gác...)
+
+@shaft
+- (cơ học) trục
+- distribution s. trục phân phối
+- drriving s. trục chỉnh 
+ @shaft-horse  
+*  dt
+- ngựa đóng vào trong càng xe
+
+@shafting  
+*  dt
+- (kỹ thuật) sự truyền động trục chung
+- trục dẫn động
+
+@shag  
+*  dt
+- chòm lông, bờm tóc
+- (từ cổ,nghĩa cổ) vải thô có tuyết dày
+- thuốc lá sợi loại xấu
+- mớ lộn xộn
+*  dt
+- (động vật học) chim cốc mào (loài chim cốc có mào ở đầu)
+
+@shagbark   (shell-bark) @shagged
+* tt
+- rất mệt mỏi
+ @shagged out
+* tt
+- rất mệt mỏi
+ @shaggily
+* dt
+- bờm xờm, lộn xộn
+- có nhiều bụi rậm mọc ngổn ngang
+- có cành tua tủa
+- đầu tóc râu ria bờm xờm (người)
+- <thực> có lông tơ dài
+ @shagginess  
+*  dt
+- vẻ bờm xờm, vẻ xồm xoàm
+
+@shaggy  
+*  tt
+- rậm lông, bờm xờm
+- có nhiều bụi rậm mọc ngổn ngang
+- có cành tua tủa
+- đầu tóc râu ria bờm xờm (người)
+- (thực vật học) có lông tơ dài
+!a shaggy dog story
+- chuyện dây cà ra dây muống cố kéo dài cho buồn cười
+
+@shaggy-dog story
+* dt
+- chuyện dây cà ra dây muống nhạt nhẽo (câu chuyện cười dài dòng, rời rạc, thường có đoạn kết lạc lõng và không thật hài hước)
+ @shagreen  
+*  dt
+- da sargin, da sống nhuộm lục
+- da cá nhám (dùng để đánh bóng đồ vật)
+
+@shah  
+*  dt
+- vua Ba-tư, sa
+
+@shahdom
+* dt
+- địa vị quốc vương Iran
+ @shakable  
+*  tt
+- có thể lung lay được, có thể lay chuyển được
+
+@shake  
+*  dt
+- sự rung, sự lắc, sự giũ
+
++ a shake of the head: cái lắc đầu
+
++ to give something shake: giũ cái gì
+- sự run
+
++ to be all of a shake: run khắp mình
+
++ with a shake in his voice: với một giọng run run
+- (thông tục) lúc, chốc, một thoáng
+
++ I'll be there in two shake s: chỉ một thoáng là tớ sẽ có mặt ở đó
+
++ in two shake s of a lamb's tail: rất nhanh, rất chóng
+- vết nứt (trong thân cây gỗ)
+- (thông tục) động đất
+- (từ Mỹ,nghĩa Mỹ) cốc sữa trứng đã khuấy ((cũng) milk-shake)
+!to be no great shakes
+- (từ lóng) không tốt lắm; không có tác dụng lắm
+!to give someone (something) the shake
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tránh ai (cái gì); tống khứ ai (cái gì)
+*  dgt shook; shaken
+- rung, lắc, làm rung, lúc lắc, lung lay, lay động; giũ
+
++ to shake the house: làm rung nhà
+
++ to shake one's head: lắc đầu
+
++ to shake the dice: lắc những con súc sắc
+
++ to shake someone by the hand; to shake hands with someone: bắt tay người nào
+
++ to shake a mat: giũ chiếu
+- rung; (nhạc) ngân
+
++ to shake with rage: run lên vì tức giận
+
++ voice shake with emotion: giọng run lên vì cảm động
+- làm náo động; làm sửng sốt, làm bàng hoàng
+
++ to be much shaken by (with, at) a piece of news: sửng sốt vì một tin
+- (nghĩa bóng) làm lung lay, làm lay chuyển
+
++ his credit was shaken: danh tiếng của anh ta bị lung lay
+
++ to shake someone's faith in something: làm lay chuyển lòng tin của ai ở cái gì
+- (thông tục) làm mất bình tĩnh
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) giũ sạch, tống khứ được (ai, cái gì)
+!to shake down
+- rung cây lấy quả
+- trải (rơm, chăn) ra sàn
+- lắc (hạt lúa...) cho lắng xuống; lắng xuống
+- ngồi ấm chỗ
+- ăn ý với đồng bạn; thích nghi với hoàn cảnh
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tống tiền
+!to shake off
+- giũ, phủi; (bóng) giũ sạch, tống khứ
+!to shake out
+- lắc ra, giũ tung ra; trải (buồm, cờ) ra
+!to shake up
+- lắc để trộn
+- giũ, lắc (gối...) cho gọn lại
+- (nghĩa bóng) thức tỉnh, làm hoạt động
+!to shake in one's shoes
+- run sợ
+!to shake a leg
+- (xem) leg
+
+@shakedown  
+*  dt
+- sự rung cây lấy quả
+- sự trải (rơm, chăn) ra sàn; ổ rơm, chăn trải tạm để nằm
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự tống tiền
+- (định ngữ) (thông tục) để thử
+
++ shakedown cruise: sự chạy thử máy; chuyến chạy thử
+
+@shaken  
+*  dt
+- sự rung, sự lắc, sự giũ
+
++ a shake of the head: cái lắc đầu
+
++ to give something shake: giũ cái gì
+- sự run
+
++ to be all of a shake: run khắp mình
+
++ with a shake in his voice: với một giọng run run
+- (thông tục) lúc, chốc, một thoáng
+
++ I'll be there in two shake s: chỉ một thoáng là tớ sẽ có mặt ở đó
+
++ in two shake s of a lamb's tail: rất nhanh, rất chóng
+- vết nứt (trong thân cây gỗ)
+- (thông tục) động đất
+- (từ Mỹ,nghĩa Mỹ) cốc sữa trứng đã khuấy ((cũng) milk-shake)
+!to be no great shakes
+- (từ lóng) không tốt lắm; không có tác dụng lắm
+!to give someone (something) the shake
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tránh ai (cái gì); tống khứ ai (cái gì)
+*  dgt shook; shaken
+- rung, lắc, làm rung, lúc lắc, lung lay, lay động; giũ
+
++ to shake the house: làm rung nhà
+
++ to shake one's head: lắc đầu
+
++ to shake the dice: lắc những con súc sắc
+
++ to shake someone by the hand; to shake hands with someone: bắt tay người nào
+
++ to shake a mat: giũ chiếu
+- rung; (nhạc) ngân
+
++ to shake with rage: run lên vì tức giận
+
++ voice shake with emotion: giọng run lên vì cảm động
+- làm náo động; làm sửng sốt, làm bàng hoàng
+
++ to be much shaken by (with, at) a piece of news: sửng sốt vì một tin
+- (nghĩa bóng) làm lung lay, làm lay chuyển
+
++ his credit was shaken: danh tiếng của anh ta bị lung lay
+
++ to shake someone's faith in something: làm lay chuyển lòng tin của ai ở cái gì
+- (thông tục) làm mất bình tĩnh
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) giũ sạch, tống khứ được (ai, cái gì)
+!to shake down
+- rung cây lấy quả
+- trải (rơm, chăn) ra sàn
+- lắc (hạt lúa...) cho lắng xuống; lắng xuống
+- ngồi ấm chỗ
+- ăn ý với đồng bạn; thích nghi với hoàn cảnh
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tống tiền
+!to shake off
+- giũ, phủi; (bóng) giũ sạch, tống khứ
+!to shake out
+- lắc ra, giũ tung ra; trải (buồm, cờ) ra
+!to shake up
+- lắc để trộn
+- giũ, lắc (gối...) cho gọn lại
+- (nghĩa bóng) thức tỉnh, làm hoạt động
+!to shake in one's shoes
+- run sợ
+!to shake a leg
+- (xem) leg
+
+@shake-out  
+*  dt
+- nạn khủng hoảng rơi rụng (trong đó bọn đầu cơ ít tiền bị loại ra khỏi thị trường chứng khoán)
+
+@shake-proof
+* tt
+- chịu rung
+ @shaker  
+*  dt
+- người rung, người lắc
+- bình trộn rượu côctay; cốc trộn sữa trứng
+- (kỹ thuật) sàng lắc
+- (Shaker) Sêcơ (tín đồ của một giáo phái ở Mỹ)
+
+@shakespearean
+* tt
+- (thuộc) Sếch-xpia; theo lối văn của Sếch-xpia
+ @shakespearian  
+*  tt
+- (thuộc) Sếch-xpia; theo lối văn Sếch-xpia
+
+@shake-up  
+*  dt
+- cú thúc (để ra khỏi tình trạng lề mề trì trệ)
+- (từ Mỹ,nghĩa Mỹ) sự cải tổ (chính phủ...)
+
+@shakily
+* dt
+- rung, run (do yếu, ốm đau )
+- không vững chãi, dễ lung lay, hay dao động
+ @shakiness  
+*  dt
+- sự run rẩy, sự lẩy bẩy
+- tính không vững chãi, tính dễ lung lay, tính giao động
+
+@shaking
+* dt
+- sự lắc, sự giũ; hành động lắc, hành động giũ
+ @shako  
+*  dt
+- (quân sự) mũ sacô (mũ hình trụ trên có chùm lông)
+
+@shaky  
+*  tt
+- run, yếu
+
++ shaky hand: tay run run
+- không vững chãi, dễ lung lay, hay dao động
+
++ shaky credit: uy tín lung lay
+
+@shale  
+*  dt
+- (khoáng chất) đá phiền sét
+
+@shale-oil  
+*  dt
+- dầu đá phiến
+
+@shall   (should) @shalloon  
+*  dt
+- vải salun, vải chéo len
+
+@shallop  
+*  dt
+- tàu sà lúp
+
+@shallot   (eschalot) @shallow  
+*  tt
+- nông, cạn
+
++ shallow water: nước nông
+- nông cạn, hời hợt
+
++ a shallow love: tình yêu hời hợt
+*  dt
+- chỗ nông, chỗ cạn
+*  dgt
+- làm cạn; cạn đi
+
+@shallow-draught
+* tt
+- mắc cạn
+ @shallow-hearted
+* tt
+- đầu óc thiển cận
+ @shallowly
+* dt
+- nông, cạn, không sâu
+- nông cạn, hời hợt
+ @shallowness  
+*  dt
+- tính nông cạn, tính hời hợt
+
+@shalom
+* dt
+- câu chào tiếng Do Thái khi gặp nhau hay khi tạm biệt
+ @shalt  
+*  (từ hiếm,nghĩa hiếm) ngôi 2 số ít thời hiện tại của shall
+
+@shaly  
+*  tt
+- (thuộc) đá phiến; như đá phiến
+- có mùi dầu đá phiến
+
+@sham  
+*  tt
+- giả, giả bộ, giả vờ; giả mạo
+
++ a sham fight: trận giả
+
++ a sham plea: (pháp lý) lời biện hộ giả vờ (để hoãn binh)
+
++ a sham doctor: bác sĩ giả hiệu, bác sĩ giả mạo
+*  dt
+- sự giả, sự giả bộ, sự giả vờ; sự giả mạo
+- người giả bộ, người giả vờ; người giả mạo; vật giả mạo
+- khăn phủ (để phủ lên mặt gối, lên khăn trải giường... khi nằm thì bỏ ra)
+*  dgt
+- giả bộ, giả vờ
+
++ to sham illness: giả vờ ốm
+
++ sham med fear: sự sợ giả vờ
+
+@shaman
+* dt
+- pháp sư
+ @shamanic
+* tt
+- thuộc shaman
+ @shamanism
+* dt
+- Saman giáo
+ @shamateur
+* dt
+- (kinh bỉ, thể dục thể thao) vận động viên nghiệp dư được thuê
+ @shamble  
+*  dt
+- dáng đi kéo lê; bước đi lóng ngóng, chạy lóng ngóng
+*  ndgt
+- đi kéo lê, đi lết; đi lóng ngóng, chạy lóng ngóng
+
+@shambles  
+*  dt số nhiều
+- lò mổ, lò sát sinh
+- cảnh chiếm giết loạn xạ
+- mớ hỗn độn; sự hỗn loạn
+
+@shambolic
+* tt
+- <thgt><đùa> lộn xộn, hỗn loạn
+ @shame  
+*  dt
+- sự thẹn, sự ngượng; sự hổ thẹn, sự tủi thẹn
+
++ flushed with shame: đỏ mặt vì thẹn
+
++ to put someone to shame: làm cho ai xấu hổ (vì hèn kém)
+
++ cannot do it for very shame: không thể làm việc ấy vì ngượng ngùng
+
++ shame on you!: thật là xấu hổ cho anh quá!
+
++ to be lost to shame: không còn biết xấu hổ, không biết ngượng, trơ trẽn
+- điều xấu hổ, mối nhục
+
++ to be the shame of: là mối nhục của
+
++ it is a shame to be so clunsy: vụng về đến thế thật là xấu hổ
+*  ngdgt
+- làm tủi thẹn, làm xấu hổ, làm nhục nhã; là mối nhục cho
+
++ to shame somebody into doing something: làm ai xấu hổ đến phải làm việc gì
+
++ to shame somebody out of doing something: làm ai xấu hổ đến nỗi không dám làm việc gì
+*  ndgt
+- (từ cổ,nghĩa cổ) xấu hổ, từ chối vì xấu hổ
+
++ he shamed not to say: anh ta xấu hổ không nói
+
+@shamefaced  
+*  tt
+- thẹn, thẹn thùng, bẽn lẽn, xấu hổ
+- (thơ ca) khiêm tốn, kín đáo
+
+@shamefacedness  
+*  dt
+- tính e thẹn, tính bẽn lẽn, tính hay xấu hổ
+- (thơ ca) tính khiêm tốn, tính kín đáo
+
+@shameful  
+*  tt
+- làm hổ thẹn, làm ngượng ngùng, làm xấu hổ
+
+@shamefully
+* dt
+- đáng hổ thẹn, ô danh, ngượng, xấu hổ
+ @shamefulness
+* dt
+- sự đáng hổ thẹn, sự ô danh, sự ngượng, sự xấu hổ
+ @shameless  
+*  tt
+- không biết thẹn, không biết xấu hổ, vô liêm sỉ, trở trẽn
+
+@shamelessly
+* dt
+- không biết hổ thẹn, không biết xấu hổ, vô liêm sỉ, trở trẽn, trơ tráo
+ @shamelessness  
+*  dt
+- sự không biết thẹn, sự không biết xấu hổ, sự vô liêm sỉ, sự trơ trẽn
+
+@shammer  
+*  dt
+- người giả bộ, người giả vờ, người vờ vĩnh; người giả mạo
+
+@shammy   (chamois-leader) @shammy-leather   (chamois-leader) @shampoo  
+*  dt
+- thuốc gội đầu
+- sự gội đầu
+*  ngdgt
+- gội đầu
+- (từ hiếm,nghĩa hiếm) tẩm quất, xoa bóp (sau khi tắm nước nóng)
+
+@shamrock  
+*  dt
+- cây lá chụm hoa (cây có ba lá hoặc cây chua me đất, người Ai-len lấy hình cụm lá ba chiếc của các cây này làm quốc huy)
+
+@shandrydan  
+*  dt
+- xe bò, xe cút kít
+- xe ọp ẹp, xe cà tàng
+
+@shandy   (shandygaff) @shandygaff   (shandygaff) @shang
+* dt
+- (lịch sử Trung Hoa) nhà Thương (1766 - 1122 trước Công nguyên)
+* dt
+- (lịch sử Trung Hoa) nhà Thương (1766 - 1122 trước Công nguyên)
+ @shanghai  
+*  ngdgt
+- (hàng hải),  (từ lóng) bắt cóc (để lên làm ở tàu biển)
+- (từ lóng) dùng thủ đoạn bắt ép (phải làm gì)
+
+@shangri-la
+* dt
+- xứ sở tưởng tượng vô cùng hạnh phúc
+ @shank  
+*  dt
+- chân, cẳng, xương ống chân; chân chim; ống chân tất dài
+- thân cột; cuống hoa; chuôi dao; tay chèo
+!Shanks's mare
+- bộ giò (của bản thân)
+
++ to ride (go) on Shanks's mare: cuốc bộ
+!the shank of the evening
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) lúc sầm tối
+- lúc thú vị nhất trong buổi tối
+*  dgt
+- tra cán, tra chuôi
+
++ to shank off: rụng (hoa, lá)
+!to shank it
+- cuốc bộ
+
+@shanny  
+*  dt
+- (động vật học) cá lon chấm
+
+@shan't  
+*  (viết tắt) của shall not
+
+@shantung  
+*  dt
+- lụa săngtung
+
+@shanty  
+*  dt
+- lều, lán, chỏi
+- nhà lụp xụp tồi tàn
+- bài hò (của thuỷ thủ)
+
+@shantyman
+* dt
+- người sống trong lán, trong lều
+ @shantytown  
+*  dt
+- khu nhà lụp xụp tồi tàn (ở một thành phố)
+- những người ở khu nhà lụp xụp tồi tàn
+
+@shape  
+*  dt
+- hình, hình dạng, hình thù
+
++ spherical in shape: có dáng hình cầu
+
++ a monster in human shape: con quỷ hình người
+- sự thể hiện cụ thể
+
++ intention took shape in action: ý định thể hiện bằng hành động
+- loại, kiểu, hình thức
+
++ a reward in the shape of a sum of money: sự thưởng công dưới hình thức một món tiền
+- sự sắp xếp, sự sắp đặt
+
++ to get one's ideas into shape: sắp xếp ý kiến của mình cho gọn ghẽ
+- bóng, bóng ma
+
++ a shape loomend through the mist: có một bóng người hiện ra mờ mờ trong sương mù
+- khuôn, mẫu
+- thạch bỏ khuôn, thịt đông bỏ khuôn
+- các (đê) đôn
+!to be in good shape
+- dư sức, sung sức
+!go get out of shape
+!to lose shape
+- trở thành méo mó; không còn ra hình thù gì
+!to lick into shape
+- nặn thành hình
+- (nghĩa bóng) làm cho trông được; làm cho có hiệu lực; huấn luyện cho dùng được
+*  dgt
+- nặn, đẽo, gọt, tạo thành hình
+
++ to shape clay into a pot: nặn đất thành một cái lọ
+- uốn nắn
+
++ to shape somebody's character: uốn nắn tính nết ai
+- đặt ra, thảo ra (kế hoạch)
+- định đường, định hướng
+
++ to shape one's course: định hướng đi của mình,  (nghĩa bóng) làm chủ vận mệnh mình
+- hình thành, thành hình
+
++ an idea shapes in his mind: một ý kiến hình thành trong óc anh ta
+- có triển vọng
+
++ to shape well: có triển vọng phát triển tốt, có chiều phát triển tốt
+
+@shape
+- dạng
+ @shaped  
+*  dt
+- có hình, có hình dạng (cái gì)
+- có khuôn, theo khuôn, theo mẫu
+
+@shapeless  
+*  tt
+- không có hình dạng, không ra hình thù gì
+- có hình dạng kỳ quái, dị hình, dị dạng
+
+@shapelessness  
+*  dt
+- sự không có hình dạng
+- sự dị hình; tính dị dạng
+
+@shapely  
+*  tt
+- có hình dáng đẹp; có hình dáng cân đối
+
+@shaper  
+*  dt
+- thợ nặn, thợ giũa
+- người thảo kế hoạch
+- máy bào; máy tiện; máy ép; máy nặn
+
+@shard   (sherd) @share  
+*  dt
+- lưỡi cày, lưỡi máy gieo, lưỡi máy cày
+- phần
+
++ share in profits: phần chia lãi
+- phần đóng góp
+
++ everyone has done his share of work: tất cả đều đã đóng góp phần việc của mình
+- sự chung vốn; cổ phần
+
++ to have a share in...: có vốn chung ở...
+!to go shares
+- chia đều; chịu đều
+!to want more then one's share
+- tranh, phần hơn
+*  dgt
+- chia, phân chia, phân phối, phân cho
+
++ to share something with somebody: chia vật gì với ai
+
++ to sharejoys and sorrows: chia ngọt sẽ bùi
+- có phần, có dự phần; tham gia
+
++ to share with somebody in an undertaking: cùng tham gia với ai trong một cuộc kinh doanh
+
++ we must share alike: chúng ta sẽ chịu đều
+
++ to share someone's opinion: đồng ý với ai
+!to share out
+- chia, phân chia, phân phối
+
+@Share
+- (Econ) Cổ phiếu.
+: Xem EQUITIES.
+ @share
+- (toán kinh tế) phần; cổ phần
+- ordinary s. cổ phần thông thường
+- preference s. cổ phần đặc quyền 
+ @share bone  
+*  dt
+- dt
+- (giải phẫu) xương mu
+
+@Share economy
+- (Econ) Kinh tê phân phối.
+: Một nền kinh tế trong đó tiền trả cho người lao động được gắn bởi một công thức với doanh thu hay lợi nhuận của công ty mà học làm việc.
+ @share index
+* dt
+- chỉ số cổ phần (con số được dùng để chỉ giá trị của các cổ phần ở thị trường chứng khoán, dựa trên giá một số cổ phần đã chọn lựa)
+ @Share price
+- (Econ) Giá cổ phiếu.
+: Giá thị trường hiện hành của một đơn vị vốn cổ phần của một công ty.
+ @share-beam  
+*  dt
+- cái môn cày
+
+@sharecrop  
+*  dgt
+- cấy rẽ, lĩnh canh
+
+@sharecropper  
+*  dt
+- người cấy rẽ, người lĩnh canh
+
+@shareholder  
+*  dt
+- người có cổ phần
+
+@Shareholder
+- (Econ) Cổ đông.
+ @share-list  
+*  dt
+- bảng giá các loại cổ phần
+
+@share-out  
+*  dt
+- sự chia lãi (tính theo cổ phần)
+- tiền chơi họ được chia
+
+@sharepusher  
+*  dt
+- (thông tục) người bán cổ phần (thường là cổ phần không có giá trị)
+
+@sharer  
+*  dt
+- người chung phần
+- người được chia phần
+
+@shareware
+- phần mềm cổ đông, phần mềm tự nguyện
+ @sharing
+* dt
+- sự phân chia, sự phân bổ
+
++  time sharing:sự phân bổ thời gian
+ @shark  
+*  dt
+- (động vật học) cá nhám, cá mập
+
++ man-eating shark: cá mập trắng
+- kẻ tham lam; kẻ bất lương; kẻ lừa đảo
+-(ngôn ngữ nhà trường),  (từ lóng) tay cừ, tay chiến
+*  dgt
+- lừa gạt; làm ăn bất chính
+
++ to shark for a living: lừa đảo để số
+- ngốn nuốt
+
+@shark-oil  
+*  dt
+- dầu gan cá mập
+
+@sharkskin  
+*  dt
+- da cá mập
+- (từ Mỹ,nghĩa Mỹ) vải sakin
+
+@sharp  
+*  tt
+- sắt, nhọn, bén
+
++ a sharp knife: dao sắc
+
++ a sharp summit: đỉnh nhọn
+- rõ ràng, rõ rệt, sắc nét
+
++ sharp distinction: sự phân biệt rõ ràng
+- thình lình, đột ngột
+
++ sharp turn: chỗ ngoặt đột ngột
+- hắc (mùi); chua (rượu); rít the thé (giọng nói); cay nghiệt, độc địa, gay gắt (lời nói); ác liệt (cuộc đấu tranh); dữ dội (sự đau đớn); lạnh buốt (gió...); chói (tia sáng)
+- tinh, thính, thông minh
+
++ sharp eyes: mắt tinh
+
++ sharp ears: tai thính
+
++ a sharp child: đứa trẻ thông minh
+- láu lỉnh, ma mảnh, bất chính
+
++ sharp practices: thủ đoạn bất lương
+- nhanh, mạnh
+
++ to take a sharp walk: đi bộ rảo bước
+- (ngôn ngữ học) điếc, không kêu
+- (âm nhạc) thăng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) diện, bảnh, đẹp; đẹp trai
+!as sharp as a needle
+- thông minh sắc sảo
+!sharp's the word!
+- nhanh lên! chóng lên!
+!to keep a sharp look-out
+- (xem) look-out
+*  dt
+- kim khâu mũi thật nhọn
+- (ngôn ngữ học) phụ âm điếc
+- (âm nhạc) nốt thăng; dấu thăng
+- (thông tục) người lừa đảo, người cờ gian bạc lận
+-(đùa cợt) chuyên gia, người thạo (về cái gì)
+- (số nhiều) (nông nghiệp) tấm, hạt tấm
+*  dt
+- sắc cạnh, sắc nhọn
+- đúng
+
++ at six o'clock sharp: (lúc) đúng sáu giờ
+- thình lình, đột ngột
+
++ to turn sharp round: quay lại đột ngột
+- (âm nhạc) cao
+
++ ti subg sharp: hát cao
+!to look sharp
+- (xem) look
+
+@Sharp gyration
+- (Econ) Chu kỳ vòng xoay rõ rệt.
+ @sharp-crested
+* tt
+- có đỉnh nhọn
+ @sharp-cut  
+*  dgt
+- sắc cạnh
+- rõ rệt, rõ nét, dứt khoát
+
+@Sharpe, William F.
+- (Econ) (1934-)
+ @sharp-eared  
+*  tt
+- có tai nhọn
+- thính tai
+
+@sharp-edged  
+*  tt
+- sắc, bén, nhọn
+
+@sharpen  
+*  dgt
+- mài, vót cho nhọn
+
++ to sharpen a pencil: vót bút chì
+- mài sắc
+
++ to sharpen vigilance: mài sắc tinh thần cảnh giác
+
++ to sharpen one's judgment: mài sắc óc phán đoán
+- làm tăng thêm, làm trầm trọng thêm, làm sâu sắc thêm
+
++ to sharpen a contradiction: thêm mâu thuẫn
+- (âm nhạc) đánh dấu thăng
+
+@sharpener  
+*  dt
+- thợ mài dao kéo
+- đồ dùng để mài; hòn đá mài
+
+@sharpening
+* dt
+- sự mài sắc
+ @sharper  
+*  dt
+- người lừa đảo
+- người cờ bạc gian lận
+
+@sharp-eyed  
+*  tt
+- tinh mắt
+
+@sharpish
+* tt
+- hơi sắc, hơi nhọn, hơi nhạy
+* dt
+- <thgt> nhanh chóng, mau mắn
+ @sharply
+* dt
+- sắt, nhọn, bén
+- rõ nghĩa, dễ nhận, rõ ràng, sắc nét
+- thình lình, đột ngột (về đoạn cong, đường cong, dốc )
+- lanh lảnh, chói tai, the thé (về âm thanh)
+- cay, hắc, gắt, hăng, tạo ra một cảm giác mạnh (về mùi, vị)
+- buốt, nhói (về cơn đau, cơn lạnh)
+- tinh, thính, nhạy, thông minh, sắc sảo
+- cao (về âm thanh, nhạc cụ )
+- thăng, cao nửa cung (về nốt nhạc)
+- chỉ trích gay gắt
+- ma mảnh, bất chính, thiếu đạo đức
+- nhanh chóng, mau mắn, mạnh mẽ
+- <ngôn> điếc, không kêu
+- <thgt> diện, chải chuốt
+ @sharpnel  
+*  dt
+- đạn chì; mảnh sắt (để nạp đạn đại bác, bom...)
+- bộ phận nổ thành mảnh (trong quả bom)
+- mảnh đạn, mảnh bom
+
+@sharp-nosed  
+*  tt
+- có mũi nhọn
+- thính mũi
+
+@sharp-set  
+*  tt
+- đói cồn cào
+- đặt thành góc nhọn
+
+@sharp-shooter  
+*  dt
+- người bắn giỏi, nhà thiện xạ
+
+@sharpshooter
+* dt
+- người bắn giỏi, nhà thiện xạ
+ @sharp-sighted  
+*  tt
+- tinh mắt
+
+@sharp-tongued  
+*  tt
+- ăn nói sắc sảo
+
+@sharp-witted  
+*  tt
+- thông minh, lanh lợi, nhanh trí
+
+@shaster
+* dt
+- kinh; sách giáo huấn
+ @shastra
+* dt
+- xem shaster
+ @shatter  
+*  ngdgt
+- làm vỡ, làm gãy
+- làm tan vỡ, làm tiêu tan; làm đảo lộn
+
++ to shatter somebody's hope: làm tiêu tan hy vọng của ai
+*  ndgt
+- vỡ, gãy
+- tan vỡ, tiêu tan
+
+@shatter-brain
+* tt
+- đãng trí, mau quên
+ @shatter-brained
+* tt
+- đầu óc đểnh đoảng; tinh thần phân lập; vô ý vô tứ
+ @shattering
+* tt
+- rất gây rối, làm choáng
+ @shatterproof  
+*  tt
+- không vỡ được, không gãy được
+
+@shatters  
+*  dt số nhiều
+- những mảnh vỡ, những mảnh gãy
+
++ to smash in (into) shatters: đập tan ra từng mảnh
+
+@shattery
+* tt
+- dễ vỡ
+ @shave  
+*  dt
+- sự cạo râu, sự cạo mặt
+
++ to have a shave: cạo râu, cạo mặt
+- dao bào (gỗ...)
+- sự đi sát gần; sự suýt bị (tai nạn)
+
++ to have a close shave of it: suýt nữa thì nguy, tí nữa thì chết
+- sự đánh lừa, sựa lừa bịp
+*  ngdgt (shaved; shaved,  shaven)
+- cạo (râu, mặt)
+- bào sơ qua (gỗ); cắt sát (cỏ)
+- đi lướt sát (không chạm)
+
++ to shave another car: lướt sát qua một chiếc xe khác
+- hút, suýt
+
++ to shave death: hút chết
+*  ndgt
+- cạo râu, cạo mặt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) khó mặc cả, khó chơi (trong chuyện làm ăn)
+
+@shave-hook  
+*  dt
+- cái cạo gỉ (kim loại trước khi hàn)
+
+@shaveling  
+*  dt
+- (từ cổ,nghĩa cổ) người đầu trọc, thầy tu, ông sư
+
+@shaven  
+*  dt
+- sự cạo râu, sự cạo mặt
+
++ to have a shave: cạo râu, cạo mặt
+- dao bào (gỗ...)
+- sự đi sát gần; sự suýt bị (tai nạn)
+
++ to have a close shave of it: suýt nữa thì nguy, tí nữa thì chết
+- sự đánh lừa, sựa lừa bịp
+*  ngdgt (shaved; shaved,  shaven)
+- cạo (râu, mặt)
+- bào sơ qua (gỗ); cắt sát (cỏ)
+- đi lướt sát (không chạm)
+
++ to shave another car: lướt sát qua một chiếc xe khác
+- hút, suýt
+
++ to shave death: hút chết
+*  ndgt
+- cạo râu, cạo mặt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) khó mặc cả, khó chơi (trong chuyện làm ăn)
+
+@shaver  
+*  dt
+- người cạo, thợ cạo
+- dao cạo, dao bào
+
++ an electric shaver: dao cạo điện
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người khó mặc cả, người khó chơi (trong chuyện làm ăn)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) con trai; trẻ mới lớn lên
+
+@shavetail  
+*  dt
+- (từ lóng) thiếu uý mới được đề bạt
+
+@shavian  
+*  tt
+- theo lối viết của Béc-na-Sô
+*  dt
+- người hâm mộ Béc-na-Sô
+
+@shaving  
+*  dt
+- sự cạo
+- sự bào
+- (số nhiều) vỏ bào (gỗ, kim loại)
+
+@shaving-block  
+*  dt
+- cục phèn xoa (sau khi cạo râu)
+
+@shaving-bowl  
+*  dt
+- bát để xà phòng cạo râu
+
+@shaving-brush  
+*  dt
+- chổi (xoa xà phòng) cạo râu
+
+@shaving-cream  
+*  dt
+- kem cạo râu
+
+@shaving-foam
+* dt
+- kem cạo râu, bọt cạo râu
+ @shaving-horse  
+*  dt
+- giá bào (giá để giữ tấm ván khi bào)
+
+@shaving-soap   (shaving-stick) @shaving-stick   (shaving-stick) @shaw  
+*  dt
+- (từ cổ,nghĩa cổ); (thơ ca) rừng nhỏ, rừng thưa
+*  dt
+- (Ê-cốt) cẳng (cuộng và lá) khoai tây, cẳng cải đỏ
+
+@shawl  
+*  dt
+- khăn choàng, khăn san
+
+@shawm  
+*  dt
+- (âm nhạc) kèn cổ
+
+@shay  
+*  dt
+- (từ cổ,nghĩa cổ), (đùa cợt),  (thông tục) (như) chaise
+
+@she  
+*  đại từ
+- nó, bà ấy, chị ấy, cô ấy...
+
++ she sings beautifully: chị ấy hát hay
+- nó (chỉ tàu, xe... đã được nhân cách hoá), tàu ấy, xe ấy
+
++ she sails tomorrow: ngày mai chiếc tàu ấy nhổ neo
+- người đàn bà, chị
+
++ she of the black hair: người đàn bà tóc đen, chị tóc đen
+*  dt
+- đàn bà, con gái
+
++ is the child a he or a she?: đứa bé là con trai hay con gái?
+
++ the not impossible she: người có thể yêu được
+- con cái
+
++ a litter of two shes and a he: một ổ hai con cái và một con đực
+- (trong từ ghép chỉ động vật) cái
+
++ she-goat: dê cái
+
++ she-ass: lừa cái
+
+@shea  
+*  dt
+- (thực vật học) cây hạt mỡ (loài cây Tây phi, hạt cho một chất mỡ trắng, dùng để ăn hay thắp đèn) ((cũng) shea tree)
+
+@shea tree
+* dt
+- <thực> cây hạt mỡ (loài cây Tây phi, hạt cho một chất mỡ trắng, dùng để ăn hay thắp đèn)
+ @sheading  
+*  dt
+- khu vực hành chính (ở đảo Man)
+
+@sheaf  
+*  dt,  số nhiều sheaves 
+@sheaf-binder  
+*  dt
+- (nông nghiệp) máy gặt bó
+
+@sheaflike
+* tt
+- thành bó
+ @sheafy
+* tt
+- thành bó
+ @shear  
+*  dt
+- kéo lớn (để tỉa cây, xén lông cừu...)
+- (từ Mỹ,nghĩa Mỹ) sự xén (lông cừu...)
+
++ a sheep of three shears: con cừu đã được xén lông ba lần
+- (từ Mỹ,nghĩa Mỹ) lông cừu xén ra
+- (kỹ thuật) sự trượt, sự dịch chuyển
+- (số nhiều) (như) sheers
+*  dgt sheared,  (từ cổ,nghĩa cổ) shore; shorn,  (từ hiếm,nghĩa hiếm) sheared
+- cắt, chặt (bằng kiếm, dao, kéo...)
+
++ to shear through something: cắt đứt vật gì
+
++ the plane sheared through the clouds: chiếc máy bay bay xuyên qua đám mây
+- xén, cắt, hớt
+
++ to shear sheep: xén lông cừu
+- bị biến dạng, bị méo mó, bị đứt gãy (vật liệu...); làm biến dạng, làm méo mó, làm đứt gãy
+- (nghĩa bóng) tước, lấy mất
+
++ to be shorn of glory: bị tướt hết vinh quang;
+
++ to come home shorn: về nhà trần như nhộng
+
+@shear steel  
+*  dt
+- thép làm kéo, thép làm dao
+
+@shear-deformation
+* dt
+- biến dạng cắt, biến dạng trượt
+ @shear-edge
+* dt
+- mép để cắt
+ @shearer  
+*  dt
+- người xén lông cừu
+- máy cắt (bằng kéo)
+
+@shear-legs   (sheer-legs) @shearling  
+*  dt
+- cừu bị xén lông một lần
+
+@shearling-off
+* dt
+- sự cắt đứt
+ @shears
+* dt, pl
+- dụng cụ để xén (to, hình dạng như cái kéo dùng để xén lông cừu, tỉa hàng dậu )
+ @sheartail  
+*  dt
+- (động vật học) chim ruồi
+
+@shearwater  
+*  dt
+- (động vật học) chim hải âu
+
+@sheat-fish  
+*  dt
+- (động vật học) cá nheo Âu
+
+@sheath  
+*  dt,  số nhiều sheaths 
+@sheathe  
+*  ngdgt
+- bỏ vào bao, tra (gươm...) vào vỏ
+- gói, bọc; đóng bao ngoài
+- đâm ngập (lưỡi kiếm) vào thịt
+- thu (móng sắc)
+!to sheathe the sword
+- sword
+
+@sheathing
+* dt
+- lớp bọc ngoài, lớp đậy phủ (cho các bộ phận của một toà nhà )
+ @sheath-knife
+* dt
+- dao găm
+ @sheathless  
+*  tt
+- không có bao, không có vỏ
+- (sinh vật học) không có màng bọc, không có bao, không có vỏ, không có áo
+
+@sheathwinged
+* tt
+- có cánh cứng
+ @sheathy
+* tt
+- giống như vỏ
+ @sheave  
+*  dt
+- (kỹ thuật) bánh có rãnh
+*  ngdgt
+- (như) sheaf
+
+@sheaves  
+*  dt,  số nhiều sheaves 
+@shebang  
+*  dt (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- sòng bạc, nhà gá bạc
+- quán rượu; phòng trà
+- vấn đề, việc
+
++ I'm fed up with the whole shebang: tôi chán ngấy về việc ấy rồi
+
+@shebeen  
+*  dt
+- quán rượu, quán rượu lậu
+
+@she'd  
+*  (viết tắt) của she had,  she would
+
+@shed  
+*  dt
+- lán, túp lều (đề hàng hoá, dụng cụ)
+- chuồng (trâu, bò, ngựa)
+*  ngdgt shed
+- rụng (lá...), lột (da...)
+
++ tree sheds leaves: cây rụng lá
+
++ snake sheds skin: rắn lột da
+
++ stag sheds horn: hươu rụng sừng
+- bỏ rơi, để rơi
+
++ to shed one's colleagues: bỏ rơi đồng nghiệp
+
++ to shed tears: rơi lệ
+
++ to shed one's blood for one's country: đổ máu vì đất nước
+- tung ra, toả ra
+
++ to shed perfume: toả hương thơm
+
++ lamp sheds light: ngọn đèn toả ánh sáng
+
++ to shed love: toả tình thương yêu
+*  ndgt
+- rụng (lá...), lột (rắn...)
+
+@shedder  
+*  dt
+- người làm rụng, người làm rơi
+- cua lột; rắn lột; sâu bọ lột
+
+@shedding  
+*  dt
+- sự để rơi; sự rơi; cái rơi xuống
+- sự lột (da...); cái lột ra
+
+@she-devil
+* dt
+- mụ đàn bà hiểm ác, gian xảo
+ @sheen  
+*  dt
+- sự huy hoàng, sự lộng lẫy, sự rực rỡ, sự xán lạn
+*  ndgt
+- (thơ ca) ngời sáng, xán lạn
+
+@sheeny  
+*  tt
+- (thơ ca) huy hoàng, lộng lẫy, rực rỡ, xán lạn
+*  dt
+- (từ lóng) người Do thái
+
+@sheep  
+*  dt,  số nhiều không đổi
+- con cừu
+- ((thường) số nhiều & mỉa) con chiên
+- da cừu
+- người hay e thẹn, người nhút nhát
+!to cast sheep's eyes
+- liếc mắt đưa tình
+!to follow like sheep
+- đi theo một cách mù quáng
+!sheep that have no shepherd
+- quân vô tướng, hổ vô đấu
+!as well be hanged for a sheep as for a lamb
+- (xem) lamb
+!wolf in sheep's clothing
+- (xem) wolf
+
+@sheep-cot   (sheep-cot) @sheep-cote   (sheep-cot) @sheep-dip  
+*  dt
+- thuốc nước tắm cho cừu (đề trừ bọ và bảo vệ lông)
+
+@sheep-dog  
+*  dt
+- chó chăn cừu
+
+@sheep-farmer   (sheep-master) @sheep-fold   (sheep-cot) @sheep-hook  
+*  dt
+- gậy (quắm của người) chăn cừu
+
+@sheepish  
+*  tt
+- ngượng ngập, lúng túng, rụt rè, bẽn lẽn
+
+@sheepishly
+* dt
+- bẽn lẽn, e lệ, ngượng ngùng
+ @sheepishness  
+*  dt
+- sự ngượng ngập, sự lúng túng, sự rụt rè, sự bẽn lẽn
+
+@sheepman  
+*  dt
+- người nuôi cừu
+- người chăn cừu
+
+@sheep-master   (sheep-master) @sheep-pox  
+*  dt
+- bệnh đậu cừu
+
+@sheep-run  
+*  dt
+- đồng cỏ lớn nuôi cừu (ở Uc)
+
+@sheepshank  
+*  dt
+- cẳng cừu
+- vật gầy gò khẳng khiu
+- (hàng hải) nút cẳng cừu (một kiểu nút để thu ngắn dây thừng)
+
+@sheep-shank
+* dt
+- (hàng hải) nút chân cừu (để thu ngắn dây thừng)
+- chân cừu; vật vô giá trị
+ @sheep's-head  
+*  dt
+- người khờ dại, người đần độn
+
+@sheep-shearer  
+*  dt
+- người xén lông cừu
+- kéo xén lông cừu, máy xén lông cừu
+
+@sheep-shearing  
+*  dt
+- sự xén lông cừu
+- hội xén lông cừu
+
+@sheepskin  
+*  dt
+- da cừu (để đóng sách...)
+- quần áo (bằng) da cừu
+- chăn da cừu
+- giấy da cừu
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) bằng, văn bằng
+
+@sheep-walk  
+*  dt
+- đồng cỏ nuôi cừu
+
+@sheer  
+*  tt
+- chỉ là; đúng là; hoàn toàn, tuyệt đối
+
++ it is sheer waste: thật chỉ là phí công
+
++ a sheer impossibility: một sự hoàn toàn không thể có được
+- dốc đứng, thẳng đứng
+
++ sheer coast: bờ biển dốc đứng
+- mỏng dính, trông thấy da (vải)
+*  dt
+- hoàn toàn, tuyệt đối
+- thẳng, thẳng đứng
+
++ torn sheer out by the roots: bật thẳng cả rễ lên
+
++ to rise sheer from the water: đâm thẳng từ nước lên
+*  dt
+- (từ Mỹ,nghĩa Mỹ) vải mỏng dính, vải trông thấy da
+- quần áo may bằng vải mỏng dính
+*  dt
+- (hàng hải) sự cong vểnh lên (của con tàu ở phía mũi và đuôi)
+- sự chạy chệnh (khỏi hướng đã định)
+*  ndgt
+- (hàng hải) chạy chệch (khỏi hướng đã định)
+!to sheer off
+- bỏ mà đi, rời, tránh (một người, một vấn đề)
+
+@sheer-legs   (sheer-legs) @sheers   (sheer-legs) @sheet  
+*  dt
+- khăn trải giường
+
++ to get between the sheets: đi ngủ
+- lá, tấm, phiến, tờ
+
++ a sheet of iron: một tấm sắt
+
++ loose sheet: giấy rời
+- tờ báo
+- dải
+
++ a sheet of ice: một dải băng
+- (địa lý,địa chất) vỉa
+- (hàng hải) dây lèo (để điều chỉnh buồm)
+- (thơ ca) buồm
+!to be a sheet in the wind
+- (từ lóng) ngà ngà say
+!to be three sheets in the wind
+- (từ lóng) say bí tỉ, say khướt
+*  ngdgt
+- đậy, phủ, trùm kín
+
++ to sheet over a waggon: phủ kín một toa xe bằng vải bạt
+
++ the town was sheeted over with snow: tuyết phủ đầy thành phố
+- kết lại thành tấm, hợp lại thành phiến
+
++ sheeted rain: mưa như đổ nước
+- (hàng hải) giữ buồm bằng dây lèo
+!to sheet home
+- buộc căng dây lèo buồm
+
+@sheet
+- tầng; tờ
+- s. of hyperboloid tầng của một hipeboloid
+- s. of a Riemann surface tờ của một mặt Riman
+- prrincipal s. tờ chính
+- vortex s. (cơ học) lớp xoáy 
+ @sheet copper  
+*  dt
+- đồng lá
+
+@sheet glass  
+*  dt
+- kính tấm
+
+@sheet iron  
+*  dt
+- sắt lá
+
+@sheet lightning
+* dt
+- sự chớp loé ra như một mảng ánh sáng rộng trên trời
+ @sheet metal  
+*  dt
+- kim loại tấm, kim loại lá
+
+@sheet mill  
+*  dt
+- nhà máy cán (kim loại)
+
+@sheet music  
+*  dt
+- bản nhạc bướm
+
+@sheet-anchor  
+*  dt
+- neo phụ
+- chỗ dựa chính, sự bảo đảm chính; người có thể dựa vào (khi lâm nguy...)
+
+@sheeter
+* dt
+- máy cắt tấm
+ @sheeting  
+*  dt
+- vải làm khăn trải giường
+- tấm để phủ mặt; tấm để lót
+
++ copper sheeting: tấm đồng để phủ mặt; tấm đồng để lót
+- sự dàn thành lá, sự dàn thành tấm
+
+@sheeting-plank  
+*  dt
+- gỗ tấm (để lợp nhà)
+
+@sheet-sham  
+*  dt
+- khăn phủ giường (trải lên trên khăn trải giường, khi ngủ thì bỏ ra)
+
+@shef
+- (tô pô) bó, chùm
+- s. of planes s. chùm mặt phẳng
+- coherent s. bó đính, bó mạch lạc
+- whelk s. bó nhão
+ @sheik   (sheikh) @sheikdom
+* dt
+- lãnh thổ do một sheikh cai trị
+ @sheikh   (sheikh) @sheikhdom
+* dt
+- lãnh thổ do một sheikh cai trị
+ @sheila
+* dt
+- (Uc, Neusealand) cô gái, phụ nữ trẻ
+ @shekaree   (shekaree) @shekarry   (shekaree) @shekel  
+*  dt
+- đồng seken (tiền Do thái xưa)
+- (số nhiều) (thông tục) tiền của, của cải
+
+@sheldrake  
+*  dt
+- (động vật học) vịt trời tađocna
+
+@shelduck
+* dt
+- <động> loại vịt hoang có lông màu sáng sống ở vùng ven biển
+ @shelf  
+*  dt,  số nhiều shelves 
+@shelf-life
+* dt
+- thời gian mà một mặt hàng cất giữ còn sử dụng được; thời hạn sử dụng
+ @shelf-mark
+* dt
+- dấu sách, ký hiệu sách, số cốt của sách (con số đánh trên quyển sách để chỉ rõ nó phải đứng ở chỗ nào trong thư viện)
+ @she'll  
+*  (viết tắt) của she wil,  she shall
+
+@shell  
+*  dt
+- vỏ; bao; mai
+
++ to retire into one's shell: rút vào vỏ của mình
+
++ to come out of one's shell: ra khỏi vỏ, chan hoà với mọi người
+- vỏ tàu; tường nhà
+- quan tài trong
+- thuyền đua
+- đạn trái phá, đạn súng cối; (từ Mỹ,nghĩa Mỹ) đạn
+- đốc kiếm
+- (như) shell-jacket
+- (vật lý); (hoá học) vỏ, lớp
+
++ ion shell: vỏ ion
+
++ electron shell: lớp electron
+- nét đại cương (một kế hoạch)
+- vỏ bề ngoài
+- (thơ ca) đàn lia
+*  dgt
+- bóc vỏ, lột vỏ (quả đậu, tôm...); nhể (ốc)
+
++ to shell peas: bóc vỏ đậu
+- phủ vỏ sò, lát bằng vỏ sò
+- bắn pháo, nã pháo
+!to shell off
+- tróc ra
+!to shell out
+- (từ lóng) trả tiền, xuỳ tiền
+
+@shell
+- vỏ, cáo bao
+- convex s. (giải tích) cái bao lồi
+- sherical s. (cơ học) vỏ cầu
+- thin s. vỏ mỏng 
+ @shell bean  
+*  dt
+- đậu ăn hột (chỉ ăn hột, không ăn vỏ ngoài)
+
+@shell game  
+*  dt
+- trò cua cá, trò bài tây
+
+@shellac  
+*  dt
+- Senlăc
+*  ngdgt
+- quét senlăc
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đánh gục, đánh bại hoàn toàn
+
+@shellacking  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự quất, sự đánh đòn; trận đòn
+- sự thất bại hoàn toàn
+
+@shellback  
+*  dt
+- (hàng hải),  (từ lóng) thuỷ thủ già, thuỷ thủ có kinh nghiệm
+- người đi bằng tàu biển qua xích đạo
+
+@shell-bark   (shell-bark) @shelled  
+*  tt
+- có vỏ, có mai, có mu
+- có nhiều vỏ sò
+- đã bóc vỏ, đã lột vỏ (đậu)
+
+@shell-fire  
+*  dt
+- sự nã trái phá
+
+@shellfish  
+*  dt
+- loài sò hến
+- loài tôm cua
+
+@shell-heap   (shell-mound) @shelling  
+*  dt
+- sự bắn pháo, sự nã pháo
+
+@shell-jacket  
+*  dt
+- áo bluzông (của sĩ quan)
+
+@shell-lime  
+*  dt
+- vôi vỏ sò (tôi từ vỏ sò hến)
+
+@shell-mound   (shell-mound) @shell-pink
+* dt
+- màu hồng
+ @shell-proof  
+*  tt
+- chống được đạn đại bác, chống được trái phá; trái phá bắn không thủng
+
+@shell-shock  
+*  dt
+- sự bị sốc vì tiếng đại bác
+
+@shell-shocked  
+*  tt
+- bị sốc vì tiếng súng đại bác
+- bị suy nhược thần kinh vì chiến đấu
+
+@shell-struck  
+*  tt
+- trúng đạn pháo
+
+@shell-work  
+*  dt
+- sự trang trí bằng vỏ sò
+
+@shelly  
+*  tt
+- (thuộc) vỏ; (thuộc) bao; (thuộc) mai
+- có nhiều vỏ sò
+
+@shelta
+* dt
+- tiếng lóng bí mật của người du đãng Ireland
+ @shelter  
+*  dt
+- chỗ che, chỗ nương tựa, chỗ ẩn, chỗ núp, hầm
+
++ to give shelter to somebody: cho ai nương náu, bảo vệ ai
+
++ Anderson shelter: hầm An-đe-xon, hầm sắt lưu động
+- lầu, chòi
+- phòng,  cabin (người lái)
+*  dgt
+- che, che chở, bảo vệ
+
++ to shelter someone from the rain: che cho ai khỏi mưa
+- ẩn, núp, nấp, trốn
+
++ to shelter oneself behind a tree: nấp sau cây
+
+@shelter tent  
+*  dt
+- (quân sự) lều nhỏ
+
+@shelterbelt
+* dt
+- hàng cây chắn gió, nước lũ (để che chở mùa màng)
+ @sheltered  
+*  tt
+- được che, được che chở, được bảo vệ
+
++ sheltered trades: những ngành nghề được bảo vệ (không bị nước ngoài cạnh tranh)
+
+@shelterless  
+*  tt
+- không nơi nương náu, không nơi nương thân
+
+@shelter-trenches
+* dt
+- số nhiều
+- (quân sự) đường hào yểm hộ
+ @shelty  
+*  dt
+- (Ê-cốt) ngựa non
+- chó chăn cừu
+
+@shelve  
+*  ngdgt
+- xếp (sách) vào ngăn
+- (nghĩa bóng) cho (một kế hoạch) vào ngăn kéo, bỏ xó
+- thải (người làm)
+- đóng ngăn (cho tủ)
+*  ndgt
+- dốc thoai thoải
+
+@shelved
+* tt
+- nằm trên giá
+- bị hoãn lại
+ @shelves  
+*  dt,  số nhiều shelves 
+@shelving
+* dt
+- giá; vật liệu để đóng giá (sách)
+ @shelvy
+* tt
+- dốc
+
++  shelvy bottom:đáy sông dốc
+ @shemozzle  
+*  dt
+- (từ lóng) cuộc cãi lộn; sự ồn ào, sự lộn xộn
+
+@shenanigan  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) điều vớ vẫn, điều vô nghĩa
+- sự đánh lừa; sự chơi khăm, sự chơi ác
+
+@shenanigans
+* dt, pl
+- <thgt> hành vi tai quái, hành vi bất kham
+- sự bịp bợm; sự chơi khăm, sự lừa dối
+ @sheol  
+*  dt
+- âm ty, âm phủ
+
+@shepherd  
+*  dt
+- người chăn cừu
+- người chăm nom, săn sóc; người hướng dẫn
+- linh mục, mục sư
+
++ the good Shepherd: Chúa
+*  ngdgt
+- chăn (cừu)
+- trông nom săn sóc; hướng dẫn
+- xua, dẫn, đuổi (một đám đông)
+
+@shepherd dog  
+*  dt
+- chó chăn cừu
+
+@shepherdess  
+*  dt
+- cô gái chăn cừu, người đàn bà chăn cừu
+
+@shepherd's pie  
+*  dt
+- món thịt băm nấu với khoai tây hầm
+
+@shepherd's plaid  
+*  dt
+- hình ô cờ đen trắng (trên vải)
+
+@sheppy
+* dt
+- chuồng cừu
+ @sher
+- cắt; trượt, sát mòn
+- pure s. [cắt; trượt] thuần tuý 
+ @sheradize
+* dgt
+- tráng kẽm, mạ kẽm
+ @sheraton  
+*  dt
+- kiểu Sêraton (kiểu đồ gỗ do Sê-ra-ton sáng chế vào khoảng năm 1800)
+
+@sherbet  
+*  dt
+- nước quả loãng ((thường) ướp đá) ((cũng) sorbet)
+
+@sherd   (sherd) @shereef   (sherif) @sherif   (sherif) @sheriff  
+*  dt
+- quận trưởng
+- chánh án toà án quận (ở Ê-cốt)
+- (từ Mỹ,nghĩa Mỹ) cảnh sát trưởng quận (được bầu ra)
+
+@sheriffalty   (sheriffdom) @sheriffdom   (sheriffdom) @sheriffhood   (sheriffdom) @sheriffship   (sheriffdom) @Sherman Act
+- (Econ) Đạo luật Sherman.
+: Một trong những nền tảng của luật chống Tờ-rớt ở Mỹ được thi hành năm 1890.
+ @sherpa
+* dt
+- số nhiều không đổi hoặc sherpas
+- người dân Himilaya sống ở vùng giáp ranh biên giới Nepal và Tây tạng
+ @sherry  
+*  dt
+- rượu xêret (một loại rượu trắng ở miền nam Tây ban nha)
+
+@sherry-cobbler  
+*  dt
+- rượu côctay seri
+
+@shetland
+* dt, pl
+- (the Shetlands) nhóm đảo ngoài bờ biển phía bắc Xcốtlen
+ @shetland pony
+* dt
+- (Shetland pony) giống ngựa Shetland (ngựa con giống nhỏ có lớp lông xù)
+ @shetland wood
+* dt
+- (Shetland wood) len Shetland (len mịn mềm cắt ở lông loài cừu ở quần đảo Shetland)
+ @sheugh
+* dt
+- (Scotland) cái hào; cái hố
+ @sheva
+* dt
+- nguyên âm không có trọng âm
+ @shew  
+*  dt
+- sự bày tỏ
+
++ to vote by show of hands: biểu quyết bằng giơ tay
+- sự trưng bày; cuộc triển lãm
+- sự phô trương, sự khoe khoang
+
++ a fine show of blossom: cảnh muôn hoa khoe sắc
+- (thông tục) cuộc biểu diễn
+
++ a film show: một buổi chiếu phim
+- bề ngoài, hình thức, sự giả đò, sự giả bộ
+
++ to do something for show: làm việc gì để lấy hình thức
+
++ to be fond of show: chuộng hình thức
+
++ his sympathy is mere show: vẻ thiện cảm của anh ta chỉ là giả đồ
+- (từ lóng) cơ hội, dịp
+
++ to have no show at all: không gặp dịp
+- (y học) nước đầu ối
+- (từ lóng) việc, công việc kinh doanh, việc làm ăn
+
++ to run (boss) the show: điều khiển mọi việc
+- (quân sự),  (từ lóng) trận đánh, chiến dịch
+!to give away the show x give good show!
+- khá lắm!, hay lắm!
+*  ngdgt showed; showed,  shown
+- cho xem, cho thấy, trưng bày, đưa cho xem; tỏ ra
+
++ an aperture shows the inside: một khe hở cho ta thấy phía bên trong
+
++ to show trained tress: trưng bày cây cảnh
+
++ to show neither joy nor anger: không tỏ ra vui mà cũng không tỏ ra giận
+
++ to favour to somebody: tỏ sự chiếu cố đối với ai
+- tỏ ra, tỏ rõ
+
++ to show intelligence: tỏ ra thông minh
+
++ to show the authenticity of the tale: tỏ rõ câu chuyện là có thật
+- chỉ, bảo, dạy
+
++ to show someone the way: chỉ đường cho ai
+
++ to show someone how to read: dạy ai đọc
+- dẫn, dắt
+
++ to show someone round the house: dẫn ai đi quanh nhà
+
++ to show someone to his room: dẫn ai về phòng
+*  ndgt
+- hiện ra, xuất hiện, trông rõ, ra trước công chúng,  (thông tục) ló mặt, lòi ra
+
++ buds are just showing: nụ hoa đang nhú ra
+
++ he never shows [up] at big meetings: hắn không bao giờ ló mặt ra ở các cuộc họp lớn
+
++ your shirt's tails are showing: đuôi áo sơ mi anh lòi ra
+!to show in
+- đưa vào, dẫn vào
+!to whow off
+- khoe khoang, phô trương (của cải, tài năng)
+!to show out
+- đưa ra, dẫn ra
+!to show up
+- để lộ ra, lộ mặt nạ (ai)
+- (thông tục) xuất hiện, ló mặt ra, xuất đầu lộ diện; có mặt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) vượt xa, hơn nhiều
+!to show a clean pair of heels
+- (xem) heel
+!to show the cloven hoof
+- (xem) hoof
+!to show one's colours
+- để lộ bản chất của mình; để lộ đảng phái của mình
+!to show fight
+- (xem) fight
+!to show one's hands
+- để lộ ý đồ của mình
+!to show a leg
+- (xem) leg
+!to show the white feather
+- (xem) feather
+
+@shewbread
+* dt
+- (như) showbread bánh thánh
+ @shewn  
+*  dt
+- sự bày tỏ
+
++ to vote by show of hands: biểu quyết bằng giơ tay
+- sự trưng bày; cuộc triển lãm
+- sự phô trương, sự khoe khoang
+
++ a fine show of blossom: cảnh muôn hoa khoe sắc
+- (thông tục) cuộc biểu diễn
+
++ a film show: một buổi chiếu phim
+- bề ngoài, hình thức, sự giả đò, sự giả bộ
+
++ to do something for show: làm việc gì để lấy hình thức
+
++ to be fond of show: chuộng hình thức
+
++ his sympathy is mere show: vẻ thiện cảm của anh ta chỉ là giả đồ
+- (từ lóng) cơ hội, dịp
+
++ to have no show at all: không gặp dịp
+- (y học) nước đầu ối
+- (từ lóng) việc, công việc kinh doanh, việc làm ăn
+
++ to run (boss) the show: điều khiển mọi việc
+- (quân sự),  (từ lóng) trận đánh, chiến dịch
+!to give away the show x give good show!
+- khá lắm!, hay lắm!
+*  ngdgt showed; showed,  shown
+- cho xem, cho thấy, trưng bày, đưa cho xem; tỏ ra
+
++ an aperture shows the inside: một khe hở cho ta thấy phía bên trong
+
++ to show trained tress: trưng bày cây cảnh
+
++ to show neither joy nor anger: không tỏ ra vui mà cũng không tỏ ra giận
+
++ to favour to somebody: tỏ sự chiếu cố đối với ai
+- tỏ ra, tỏ rõ
+
++ to show intelligence: tỏ ra thông minh
+
++ to show the authenticity of the tale: tỏ rõ câu chuyện là có thật
+- chỉ, bảo, dạy
+
++ to show someone the way: chỉ đường cho ai
+
++ to show someone how to read: dạy ai đọc
+- dẫn, dắt
+
++ to show someone round the house: dẫn ai đi quanh nhà
+
++ to show someone to his room: dẫn ai về phòng
+*  ndgt
+- hiện ra, xuất hiện, trông rõ, ra trước công chúng,  (thông tục) ló mặt, lòi ra
+
++ buds are just showing: nụ hoa đang nhú ra
+
++ he never shows [up] at big meetings: hắn không bao giờ ló mặt ra ở các cuộc họp lớn
+
++ your shirt's tails are showing: đuôi áo sơ mi anh lòi ra
+!to show in
+- đưa vào, dẫn vào
+!to whow off
+- khoe khoang, phô trương (của cải, tài năng)
+!to show out
+- đưa ra, dẫn ra
+!to show up
+- để lộ ra, lộ mặt nạ (ai)
+- (thông tục) xuất hiện, ló mặt ra, xuất đầu lộ diện; có mặt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) vượt xa, hơn nhiều
+!to show a clean pair of heels
+- (xem) heel
+!to show the cloven hoof
+- (xem) hoof
+!to show one's colours
+- để lộ bản chất của mình; để lộ đảng phái của mình
+!to show fight
+- (xem) fight
+!to show one's hands
+- để lộ ý đồ của mình
+!to show a leg
+- (xem) leg
+!to show the white feather
+- (xem) feather
+
+@shiatsu
+* dt
+- phương pháp trị liệu bằng cách xoa bóp (do người Nhật đưa ra)
+ @shibboleth  
+*  dt
+- khẩu hiệu; nguyên tắc (của một đảng)
+- học thuyết lỗi thời
+
+@shid-proof  
+*  tt
+- không trượt (bánh xe...)
+
+@shield  
+*  dt
+- cái mộc, cái khiên
+- tấm chắn, lưới chắn (ở máy)
+- người che chở, vật che chở
+- (sinh vật học) bộ phận hình khiên
+- miếng độn (ở cổ áo, nách áo, cho khỏi bẩn mồ hôi...)
+!the other side of the shield
+- mặt trái của vấn đề
+*  ngdgt
+- che chở
+- bao che, che đậy, lấp liếm
+- (kỹ thuật) chắn, che
+
+@shield
+- (vật lí) màn chắn, tấm chắn
+ @shield-bearer  
+*  dt
+- người cầm mộc
+
+@shieldbone
+* dt
+- xương bả
+ @shielded
+* tt
+- được bảo vệ @shielder
+* dt
+- người @shield-hand  
+*  dt
+- tay trái
+
+@shieldless  
+*  tt
+- không có mộc bảo vệ, không có vật che chở
+
+@shield-shaped  
+*  tt
+- có hình mộc, có hình khiên
+
+@shieling  
+*  dt
+- (Ê-cốt) đồng cỏ
+- nhà tranh vách đất
+- lều, lán (cho người chăn cừu, người đi săn)
+- chuồng cừu
+
+@shift  
+*  dt
+- sự thay đổi vị trí, sự thay đổi tính tình; sự thăng trầm; sự luân phiên
+
++ shift of crops: sự luân canh
+
++ the shifts and changes of life: sự thăng trầm của cuộc sống
+- ca, kíp
+
++ to work in shift: làm theo ca
+- mưu mẹo, phương kế
+- lời thoái thác, lời quanh co, lời nước đôi
+- (địa lý,địa chất) sự trượt nghiêng; tầng trượt nghiêng
+- (ngôn ngữ học) sự thay đổi cách phát âm
+- (âm nhạc) sự thay đổi vị trí bàn tay (trên phím đàn pianô)
+- (thể dục,thể thao) sự di chuyển vị trí (của hàng hậu vệ bóng đá)
+- (từ cổ,nghĩa cổ) sự thay quần áo
+- (từ cổ,nghĩa cổ) áo sơ mi nữ
+!to be at one's last shift
+- cùng đường
+!to live on shifts
+- sống một cách ám muội
+!to make [a] shift to
+- tìm phương, tính kế, xoay xở (để làm làm gì)
+!to make shift without something
+- đành xoay xở vậy tuy thiếu cái gì
+*  dgt
+- đổi chỗ, dời chỗ, di chuyển; thay
+
++ to shift one's lodging: thay đổi chỗ ở
+
++ to shift the scene: thay cảnh (trên sân khấu)
+
++ wind shifts round to the East: gió chuyển hướng về phía đông
+- ((thường) : off) trút bỏ, trút lên
+
++ to shift off the responsibility: trút bỏ trách nhiệm; trút trách nhiệm (cho ai)
+- dùng mưu mẹo, dùng mưu kế, xoay xở; xoay xở để kiếm sống
+- (từ hiếm,nghĩa hiếm) nó quanh co, nói lập lờ, nói nước đôi
+- sang (số) (ô tô)
+
++ our new car shifts automatically: chiếc xe ô tô mới của chúng tôi sang số tự động
+- (từ cổ,nghĩa cổ) thay quần áo
+!to shift one's ground
+- thay đổi ý kiến lập trường (trong cuộc thảo luận)
+!to shift for oneself
+- tự xoay xở lấy
+!to shift and prevaricate
+- nói quanh co lẩn tránh
+
+@shift
+- (máy tính) sự rời chỗ, sự chuyển mạch
+- figure s. (máy tính) chuyển mạch in chữ số
+- letter s. (máy tính) chuyển mạch in chữ
+- phase s. sự đổi pha 
+ @Shift effect hypothesis
+- (Econ) Giả thuyết về hiệu ứng dịch chuyển.
+: Lập luận cho rằng chính sách thu nhập có thể ảnh hưởng đến việc dịch chuyển đường Phillips sang bên trái, do đó tạo ra một mức tiền lương thâp hơn và  @Shift share analysis
+- (Econ) Phân tích các phần gây dịch chuyển.
+: Một kỹ thuật được sử dụng trong phân tích tăng trưởng kinh tế khu vực trong đó cố gằng tách một phần của sự tăng trưởng khu vực mà có thể giải thích bằng sự pha trộn các ngành trong khu vực (cấu trúc ngành) và phần có thể giải thích theo các anh hưởng khu vực cụ thể.
+ @shiftable
+* tt
+- xe dịch được; có thể xê dịch
+ @shifter
+* dt
+- bộ chuyển dịch; tay gạt
+ @shifter
+- (máy tính) thiết bị chuyển [mạch; dịch]
+ @shiftily
+* dt
+- quỷ quyệt, gian giảo; không đáng tin; lừa dối; có vẻ không lương thiện
+ @shiftiness  
+*  dt
+- tính quỷ quyệt, tính gian giảo; sự lắm mưu mẹo, sự tài xoay xở
+
+@shifting
+* dt
+- xem shift
+- (địa chất học) cát chảy
+ @shift-key
+* dt
+- phím chữ hoa (phím trên máy đánh chữ  đánh được chữ hoa)
+ @shiftless  
+*  tt
+- lười, nhác; bất lực, hèn kém
+- vụng về, khờ dại, không biết xoay xở
+- vô hiệu quả
+
+@shiftlessness  
+*  dt
+- sự lười nhác; sự bất lực, sự hèn kém
+- sự vụng về, sự khờ dại, sự không biết xoay xở
+- sự vô hiệu quả
+
+@shifty  
+*  tt
+- quỷ quyệt, gian giảo; lắm mưu mẹo, tài xoay xở
+
++ shifty eyes: mắt gian giảo
+
+@shikar  
+*  dt
+- (Anh-Ân) sự săn bắn
+
+@shikaree   (shekaree) @shikari   (shekaree) @shiksa
+* dt
+- cô gái không phải Do thái
+ @shikse
+* dt
+- xem shiksa
+ @shill  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cò mồi
+
+@shillelagh  
+*  dt
+- gậy gỗ sồi (Ai-len)
+
+@shilling  
+*  dt
+- đồng silinh
+!to cut off one's heir with a shilling
+- bỏ lại của cải cho người khác
+!to take King's (Queen's shilling)
+- tòng quân
+
+@shilly-shally  
+*  dt
+- sự trù trừ, sự do dự, sự lưỡng lự
+*  tt
+- trù trừ, do dự, lưỡng lự
+*  ndgt
+- trù trừ, do dự, lưỡng lự
+
+@shilly-shallyer  
+*  dt
+- người hay trù trừ, người hay do dự, người không kiên quyết
+
+@shilpit
+* tt
+- (Scotland) đói; bệnh hoạn
+ @shily   (shily) @shim  
+*  dt
+- miếng chêm, miếng chèn
+*  ngdgt
+- chêm, chèn
+
+@shimmer  
+*  dt
+- ánh sáng mờ mờ; ánh sáng lung linh
+
++ the shimmerof the moon on the lake: ánh trăng lung linh trên mặt hồ
+*  ndgt
+- chiếu sáng lờ mờ; toả ánh sáng lung linh
+
+@shimmery
+* tt
+- lung linh; thấp thoáng
+ @shimmy  
+*  dt
+- (thông tục); duây puơ nhẩu đàn bà)
+*  dt
+- (từ Mỹ,nghĩa Mỹ) điệu nhảy simmi
+- sự rung bánh xe trước
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ) nhảy điệu simmi
+- rung (bánh xe ô tô...)
+
+@shin  
+*  dt
+- cẳng chân
+*  dgt
+- trèo, leo (cột... dùng cả hai chân hai tay)
+- đá vào ống chân
+
+@shin-bone  
+*  dt
+- (giải phẫu) xương chày
+
+@shindig  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) điệu nhảy sinđich
+- cuộc tụ họp vui nhộn
+
+@shindy  
+*  dt
+- sự om sòm, sự huyên náo; sự cãi lộn
+!to kick up a shindy
+- làm ồn ào huyên náo; gây chuyện cãi lộn
+
+@shine  
+*  dt
+- ánh sáng, ánh nắng
+
++ it's rain and shine together: trời vừa mưa vừa nắng
+
++ rain or shine: dù mưa hay nắng
+- nước bóng
+
++ to put a good shine on boots: đánh đôi giầy ống bóng lộn
+- (từ lóng) sự cãi nhau; sự huyên náo; sự chấn động dư luận
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) trò chơi khăm, trò chơi xỏ
+!to take a shine to something
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thích, mê cái gì
+!to take the shine out of something
+- làm mất phấn (mất bóng) một thứ gì
+- vượt hẳn cái gì, làm lu mờ cái gì
+*  dgt shone
+- chiếc sáng, toả sáng, soi sáng
+
++ the sun shines bright: mặt trời chiếu sáng
+- sáng, bóng
+
++ face shines with soap: mặt bóng nhẫy xà phòng
+
++ face shines with joy: mặt hớn hỡ vui mừng
+- giỏi, cừ; trội
+
++ to shine in conversation: nói chuyện giỏi; nói chuyện có duyên
+- (thông tục) đánh bóng (giày dép, đồ đồng...)
+!to shine up to
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm thân với
+
+@shiner  
+*  dt
+- (từ lóng) đồng tiền vàng Anh xưa (trị giá 1 bảng)
+- (số nhiều) tiền
+- (từ Mỹ,nghĩa Mỹ) vật bóng lộn
+- (từ Mỹ,nghĩa Mỹ) người trội, người cừ
+- (từ Mỹ,nghĩa Mỹ) mắt bị đấm thâm quầng
+
+@shingle  
+*  dt
+- đá cuội (trên bãi biển)
+- chỗ có nhiều đá cuội (trên bãi biển)
+*  dt
+- ván lợp (ván mỏng để lợp mái)
+- (từ Mỹ,nghĩa Mỹ) biển hàng nhỏ
+- tóc tỉa đuôi, kiểu tóc tỉa đuôi
+!to be a shingle short
+- hơi điên, dở hơi
+!to hang out one's shingle
+- (thông tục) mở phòng khám bệnh; mở phòng luật sư
+*  ngdgt
+- lợp bằng ván
+- tỉa đuôi (tóc); cắt tóc (cho ai) theo kiểu tỉa đuôi
+
+@shingler
+* dt
+- máy đánh ép xỉ ra khỏi thép puđing
+ @shingles  
+*  dt số nhiều
+- (y học) bệnh zona
+
+@shingly  
+*  tt
+- có nhiều đá cuội; như đá cuội
+
+@shin-guard  
+*  dt
+- (thể dục,thể thao) nẹp ống chân
+
+@shinines  
+*  dt
+- sự bóng, sự bóng sáng
+
+@shininess
+* dt
+- sự bóng, sự bóng sáng
+ @shining  
+*  tt
+- sáng, sáng ngời
+- (nghĩa bóng) sáng ngời, chói lọi, xuất sắc, lỗi lạc
+
++ a shining example of bravery: gương dũng cảm sáng ngời
+
+@shinleaf
+* dt
+- cỏ chân hươu
+ @shinleaved
+* tt
+- có lá bóng
+ @shinny  
+*  dt ((cũng) shinty)
+- (thể dục,thể thao) trò chơi sini (một loại bóng gậy cong)
+- gậy chơi sini; bóng chơi sini
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) ((thường) : up) trèo cây
+
+@shin-pad
+* dt
+- nẹp ống chân (tấm đệm mang trước xương ống chân để bảo vệ khi chơi bóng đá )
+ @shinplaster  
+*  dt
+- thuốc cao đắp xương ống chân đau
+- (từ Mỹ,nghĩa Mỹ) giấy bạc mất giá (vì lạm phát)
+
+@shinto  
+*  dt
+- đạo thần Nhật bản
+
+@shintoist
+* dt
+- người theo đạo thần
+ @shintoits  
+*  dt
+- người theo đạo thần
+
+@shinty
+* dt
+- trò chơi sini (giống hockey; một loại bóng gậy cong)
+- gậy chơi sini; bóng chơi sini
+ @shiny  
+*  dt
+- (như) shinty
+*  tt
+- sáng, bóng
+
++ shiny boots: giày bóng
+
+@ship  
+*  dt
+- tàu thuỷ, tàu
+
++ to take ship: xuống tàu
+- (từ Mỹ,nghĩa Mỹ) máy bay, phi cơ
+- (từ lóng) thuyền (đua)
+!the ship of the desert
+- con lạc đà
+!when my ship comes home
+- khi nào tôi đã công thành danh toại, khi nào tôi làm ăn phát đạt
+*  ngdgt
+- xếp (hàng) xuống tàu, cho (hành khách, thuỷ thủ) xuống tàu
+- gửi bằng tàu thuỷ, chở bằng tàu thuỷ
+- (từ Mỹ,nghĩa Mỹ) gửi bằng xe lửa, chở bằng xe lửa; gửi bằng máy bay, chở bằng máy bay
+- thuê (người) làm trên tàu thuỷ
+- gắn vào tàu, lắp vào thuyền
+
++ to ship the oar: lắp mái chèo vào thuyền
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đuổi đi, tống khứ
+*  ndgt
+- đi tàu, xuống tàu
+- làm việc trên tàu (thuỷ thủ)
+!to ship a sea
+- (xem) sea
+
+@ship biscuit   (ship's_biscuit) @shipboard
+* tt
+- được dùng trên tàu; xuất hiện trên tàu
+* dt
+ @ship-boy
+* dt
+- cậu bé phục vụ trên tàu thủy
+ @ship-bread
+* dt
+- xem ship biscuit
+ @ship-breaker  
+*  dt
+- người phá tàu cũ
+
+@ship-broker  
+*  dt
+- người buôn bán và bảo hiểm tàu
+
+@shipbuilder  
+*  dt
+- người đóng tàu
+
+@shipbuilding  
+*  dt
+- nghề đóng tàu
+
+@ship-canal
+* dt
+- kênh đào đủ rộng và sâu cho tàu thuyền đi biển chạy qua
+ @ship-captain
+* dt
+- thuyền trưởng
+ @ship-chandler  
+*  dt
+- người cung cấp các thứ trang bị cho tàu thuỷ
+
+@ship-fever  
+*  dt
+- (y học) bệnh sốt phát ban
+
+@ship-jack
+* dt
+- kích nâng tàu
+ @ship-lift
+* dt
+- thiết bị nâng hàng lên tàu
+ @shipload  
+*  dt
+- hàng hoá trên tàu
+
+@shipman  
+*  dt
+- (như) shipmaster
+- (từ cổ,nghĩa cổ) thuỷ thủ
+
+@shipmaster  
+*  dt
+- thuyền trưởng
+
+@shipmate  
+*  dt
+- bạn thuỷ thủ
+
+@shipment  
+*  dt
+- sự xếp (hàng) xuống tàu
+- hàng hoá trên tàu
+- sự gửi hàng bằng đường biển
+
+@shipmoney
+* dt
+- thuế ở Anh cho đến 1640, để đóng tàu chiến
+ @shipowner  
+*  dt
+- chủ tàu
+
+@shippen  
+*  dt
+- (tiếng địa phương) chuồng bò
+
+@shipper  
+*  dt
+- nhà buôn chở hàng bằng tàu
+
+@shipping  
+*  dt
+- sự xếp hàng xuống tàu; sự chở hàng bằng tàu
+- tàu (của một nước, ở một hải cảng)
+- thương thuyền; hàng hải
+
+@shipping trade  
+*  dt
+- sự buôn bán bằng đường biển
+
+@shipping-agent  
+*  dt
+- người đại lý tàu biển
+
+@shipping-articles  
+*  dt số nhiều
+- hợp đồng trên tàu (giữa thuyền trưởng và thuỷ thủ)
+
+@shipping-bill  
+*  dt
+- giấy biên nhận chở hàng
+
+@shipping-master  
+*  dt
+- viên chức chứng kiến việc ký hợp đồng trên tàu (giữa thuyền trưởng và thuỷ thủ)
+
+@shipping-office  
+*  dt
+- hãng đại lý tàu thuỷ; hãng tàu thuỷ
+- phòng hợp đồng trên tàu (nơi làm việc của viên chức chứng kiến việc ký hợp đồng giữa thuyền trưởng và thuỷ thủ)
+
+@ship-railway  
+*  dt
+- đường xe lửa chuyên chở tàu (từ bến này đến bến khác, qua đất liền)
+
+@ship's articles  
+*  dt số nhiều
+- điều khoản hợp đồng làm việc trên tàu
+
+@ship's biscuit
+* dt
+- bánh bích quy cứng (loại xoàng, ngày trước dùng để ăn trong những chuyến đi xa)
+ @ship's chandle
+* dt
+- người cung ứng tàu biển (làm việc cung ứng và thiết bị cho tàu thuyền)
+ @ship's company  
+*  dt
+- đoàn thuỷ thủ trên tàu
+
+@ship's husband  
+*  dt
+- đại lý (của chủ tàu để) chăm sóc tàu ở cảng
+
+@ship's papers  
+*  dt số nhiều
+- chứng từ (về sở hữu và quốc tịch...) của tàu
+
+@shipshape  
+*  tt & dt
+- ngăn nắp, thứ tự
+
+@shiptainer
+* dt
+- cần trục trên bến để chất hàng lên tàu
+ @shipway
+* dt
+- đường trượt của tàu; kênh hàng hải
+ @ship-worm  
+*  dt
+- (động vật học) con hà
+
+@shipworm
+* dt
+- (động vật học) con hà
+ @shipwreck  
+*  dt
+- nạn đắm tàu
+- (nghĩa bóng) sự sụp đổ, sự thất bại hoàn toàn
+
++ the shipwreck of one's fortune: sự phá sản
+!to make shipwreck
+- bị thất bại, bị phá sản
+!to make (suffer) shipwreck of one's hopes
+- hy vọng bị tiêu tan
+
+@shipwright  
+*  dt
+- thợ đóng tàu
+
+@shipyard  
+*  dt
+- xưởng đóng tàu
+
+@shir  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) đai chun, dải chun
+- sợi chun (dệt vào trong vải, như ở cổ bít tất)
+*  dgt
+- dệt dây chun vào (vải)
+
+@shire  
+*  dt
+- quận, huyện
+
++ the shires: những quận miền trung du nước Anh; những khu vực săn bắn ở miền trung du nước Anh
+
+@shire-horse
+* dt
+- ngựa thồ
+ @shire-town
+* dt
+- châu thành
+ @shirk  
+*  dt
+- người trốn việc
+*  ngdgt
+- trốn, lẩn tránh, trốn tránh (việc, trách nhiệm...)
+
++ to shirk school: trốn học
+
++ to shirk work: trốn việc
+
++ to shirk a question: lẩn tránh một vấn đề
+
+@shirker  
+*  dt
+- người trốn việc, người trốn trách nhiệm
+
+@Shirking model
+- (Econ) Mô hình về tính ỷ lại; Mô hình về tính lẩn tránh.
+: Xem EFFICIENCY WAGE THEORY.
+ @shirr  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) đai chun, dải chun
+- sợi chun (dệt vào trong vải, như ở cổ bít tất)
+*  dgt
+- dệt dây chun vào (vải)
+
+@shirt  
+*  dt
+- áo sơ mi
+!to get someone's shirt off
+- (từ lóng) chọc tức ai, làm cho ai nổi giận
+!to give someone a wet shirt
+- bắt ai làm đổ mồ hôi sôi nước mắt
+!to keep one's shirt on
+- (từ lóng) bình tĩnh
+!to lose one's shirt
+- (từ lóng) mất sạch cơ nghiệp, cái khố cũng chẳng còn
+!near is my shirt, but nearer is my skin
+- bản thân mình vẫn là quan trọng hơn cả
+!to put one's shirt on
+- (từ lóng) bán cả khố đi mà đánh cược vào (cái gì)
+
+@shirt-front  
+*  dt
+- ngực sơ mi (thường hồ cứng)
+
+@shirtily
+* dt
+- <thgt> bực dọc, tức giận, cáu giận
+ @shirtiness
+* dt
+- sự bực dọc, sự tức giận, sự cáu giận
+ @shirting  
+*  dt
+- vải may áo sơ mi
+
+@shirtless  
+*  tt
+- không mặc áo sơ mi
+
+@shirt-sleeve  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) giản dị, chất phác; thô kệch
+
+@shirt-sleeves  
+*  dt số nhiều
+- in one's shirt-sleeves mặc áo sơ mi trần
+
+@shirt-tail
+* dt
+- phần áo sơ mi dài xuống dưới thắt lưng
+ @shirt-waist  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) áo bờ lu nữ
+
+@shirty  
+*  tt
+- (từ lóng) cáu giận, bực dọc
+
+@shishkebab
+- thịt nướng
+ @shit  
+*  dt, qủng cứt
+- rác rưởi
+*  ndgt
+- suộc khuộng đi ỉa
+
+@shite
+* ndgt
+- xem shit
+ @shittah
+* dt
+- số nhiều shittahs,  shittim
+- loại cây keo người Do thái cổ dùng làm vật đựng các vật thánh
+ @shittimwood
+* dt
+- gỗ shittah
+ @shitty
+* tt
+- bẩn thỉu; kinh tởm
+- đê tiện; bần tiện; đáng khinh
+ @shiver  
+*  dt
+- sự run, sự rùng mình (vì rét, vì sợ...)
+
++ it gives me the shivers to think of it: cứ nghĩ đến việc ấy là tôi lại rùng mình
+*  ndgt
+- run, rùng mình
+
++ to shiver with cold: run vì lạnh
+
++ to shiver with fear: rùng mình vì sợ
+*  dt ((thường) số nhiều)
+- mảnh vỡ, miếng vỡ
+*  dgt
+- đập vỡ, đánh vỡ; vỡ
+!shiver my timbers!
+- chết trôi! chết tiệt! hà bá lôi đi! (câu rủa của thuỷ thủ)
+
+@shivering  
+*  tt
+- run rẩy, lẩy bẩy
+
+@shivery  
+*  tt
+- run lên, run rẩy, lẩy bẩy
+- làm rung lên, làm run rẩy; làm rét run lên, làm sợ run lên
+*  tt
+- dễ vỡ thành mảnh
+
+@shivoo
+* dt
+- (Australia,  (thông tục)) cuộc liên hoan
+- sự chè chén lu bù
+ @shoal  
+*  tt
+- nông cạn, không sâu (nước)
+*  dt
+- chỗ nông, chỗ cạn (nước)
+- bãi cát ngập nước nông
+- (nghĩa bóng) sự nguy hiểm ngầm, sự trở ngại ngấm ngầm
+*  ndgt
+- cạn đi
+*  ngdgt
+- làm cho nông, làm cho cạn
+- lái (thuyền, tàu...) vào chỗ cạn
+*  dt
+- đám đông, số đông
+
++ shoals of people: nhiều đám đông người
+
++ to get letters in shoals: nhận được nhiều thư
+- đàn cá
+
+@shoaly  
+*  tt
+- có bãi cát ngầm
+- (nghĩa bóng) có nhiều nguy hiểm ngấm ngầm, có nhiều trở ngại ngấm ngầm
+
+@shock  
+*  dt
+- sự đụng chạm, sự va chạm
+- sự đột xuất, sự đột biến, sự đột khởi
+
++ shock tactics: chiến thuật tấn công ồ ạt
+- (nghĩa bóng) sự tấn công mãnh liệt và đột ngột
+- sự khích động, sự sửng sốt; cảm giác bất ngờ
+
++ the new was a great shock: tin đó làm mọi người sửng sốt vô cùng
+
++ to have an electric shock: bị điện giật
+- sự tổn thương (uy tín); sự xáo lộn (tổ chức)
+- sự động đất
+- (y học) sốc
+
++ to die of shock: chết vì sốc
+*  ngdgt
+- làm chướng tai gai mắt
+- làm căm phẫn, làm đau buồn; làm kinh tởm
+
++ to be shocked by...: căm phẫn vì...
+- cho điện giật (người nào)
+- (y học) gây sốc
+*  ndgt
+- (thơ ca) chạm mạnh, va mạnh
+*  dt
+- đống lúa ((thường) là 12 lượm) (Ê-cốt stook)
+*  ngdgt
+- xếp (lúa) thành đống (12 lượm) (Ê-cốt stook)
+*  dt
+- mớ tóc bù xù
+
++ shock head: đầu bù tóc rối
+- chó xù
+
+@shock
+- sự va chạm, sự kích động
+- attached s. chạm dính 
+- detached s. chạm rời
+- moderate s. kích động ôn hoà
+- non-uniform s. kích động không đều
+- spherical s. kích động cầu
+- stopping s. kích động chặn lại
+- strong s. kích động mạnh
+- two-dimensional s. kích động hai chiều
+- unstable s. kích động không ổn định 
+ @shock absorber  
+*  dt
+- nhíp chống sốc, lò xo chống sốc
+
+@Shock effect
+- (Econ) Hiệu ứng sốc
+: Một lập luận tương tự như lập luận được sử dụng trong nền kinh tế có tiền lương cao.
+ @shock tactics
+* dt
+- hành động đột ngột, hành động bạo lực, hành động tàn bạo nhằm đạt một mục đích nào đó
+ @shock thepary
+- liệu pháp sốc (cách điều trị bệnh thần kinh bằng việc cho điện giật hoặc cho uống thuốc có hiệu ứng tương tự)
+ @shock treatment
+* dt
+- liệu pháp sốc (cách điều trị bệnh thần kinh bằng việc cho điện giật hoặc cho uống thuốc có hiệu ứng tương tự)
+ @shock-brigade  
+*  dt
+- đội lao động xung kích
+
+@shock-dog  
+*  dt
+- chó xù
+
+@shocker  
+*  dt
+- (thông tục) mẫu tồi, mẫu xấu
+- người chướng tai gai mắt, vật chướng tai gai mắt
+- tiểu thuyết giật gân ba xu, tiểu thuyết giật gân rẻ tiền
+
+@shock-fish
+* dt
+- cá đuối điện
+ @shock-headed  
+*  tt
+- đầu bù tóc rối
+
+@shocking  
+*  tt
+- chướng, khó coi
+
++ shocking behaviour: thái độ chướng, thái độ khó coi
+- làm căm phẫn, làm kinh tởm; làm sửng sốt
+
++ shocking news: tin làm sửng sốt
+!shocking bad
+- (thông tục) xấu không thể chịu được
+
+@shockingly
+* dt
+- một cách tồi tệ
+- <thgt> cực kỳ
+ @shockingness  
+*  dt
+- tính chướng tai gai mắt; sự khó coi
+
+@shock-load
+* dt
+- tải trọng va đập
+ @shock-proof
+* tt
+- chịu chấn động, chịu va chạm (nhất là đồng hồ đeo tay)
+ @shock-resistance
+* dt
+- sự chống @shock-resistant
+* tt
+- xem shock-resistance
+ @shock-troops  
+*  dt
+- đội quân xung kích
+
+@shock-wave
+* dt
+- khu vực chuyển động của áp suất không khí rất lớn gây ra do tiếng nổ hoặc một chiếc máy bay bay nhanh hơn tiếng động
+ @shock-worker  
+*  dt
+- công nhân tiên tiến (trong phong trào thi đua cải tiến kỹ thuật)
+
+@shod  
+*  dt
+- giày
+- sắt bị móng (ngựa...)
+- miếng bịt (miếng sắt bị chân bàn, ghế)
+- vật hình giày
+!dead men's shoes
+- tài sản có nhiều người ngấp nghé; địa vị có nhiều người ngấp nghé
+!he who waits for dead men's shoes is in danger of going barefoot
+- chờ hưởng gia tài thì đến chết khô
+!to be in someone's shoe
+- ở vào tình cảnh của ai
+!to die in one's shoes
+- chết bất đắc kỳ tử; chết treo
+!to put the shoe on the right foot
+- phê bình đúng, phê bình phải
+!to step into someone's shoe
+- thay thế ai
+!that is another pair of shoes
+- đó lại là vấn đề khác
+!that's where the shoe pinches
+- (xem) pinch
+*  ngdgt shod
+- đi giày (cho ai)
+- đóng móng (ngựa)
+- bịt (ở đầu)
+
++ a pole shod with iron: cái sào đầu bịt sắt
+
+@shoddily
+* dt
+- làm bằng vải tái sinh, làm bằng vải tồi
+- giả mạo
+- xấu, chất lượng kém
+ @shoddy  
+*  dt
+- vải tái sinh
+- hàng xấu, hàng thứ phẩm
+*  tt
+- làm bằng vải tái sinh, làm bằng vải tồi
+- giả mạo
+- xấu, không có giá trị
+
+@shoe  
+*  dt
+- giày
+- sắt bị móng (ngựa...)
+- miếng bịt (miếng sắt bị chân bàn, ghế)
+- vật hình giày
+!dead men's shoes
+- tài sản có nhiều người ngấp nghé; địa vị có nhiều người ngấp nghé
+!he who waits for dead men's shoes is in danger of going barefoot
+- chờ hưởng gia tài thì đến chết khô
+!to be in someone's shoe
+- ở vào tình cảnh của ai
+!to die in one's shoes
+- chết bất đắc kỳ tử; chết treo
+!to put the shoe on the right foot
+- phê bình đúng, phê bình phải
+!to step into someone's shoe
+- thay thế ai
+!that is another pair of shoes
+- đó lại là vấn đề khác
+!that's where the shoe pinches
+- (xem) pinch
+*  ngdgt shod
+- đi giày (cho ai)
+- đóng móng (ngựa)
+- bịt (ở đầu)
+
++ a pole shod with iron: cái sào đầu bịt sắt
+
+@shoe polish  
+*  dt
+- xi đánh giày
+
+@shoebill
+* dt
+- (động vật học) cò mỏ giày
+ @shoeblack  
+*  dt
+- người đánh giày, em bé đánh giày
+
+@shoe-buckle  
+*  dt
+- cái khoá giày
+
+@shoehorn   (shoe-lift) @shoe-lace  
+*  dt
+- dây giày
+
+@shoe-leather  
+*  dt
+- da đóng giày
+!as good a man as ever trod shoe-leather
+- con người tốt nhất trần gian
+
+@Shoe-leather cost of inflation
+- (Econ) Chi phí giày da của lạm phát.
+ @shoeless  
+*  tt
+- không có giày; không đi giày, đi chân không
+
+@shoe-lift
+* dt
+- bót đi giày (dụng cụ có một lưỡi cong được dùng để giúp đưa gót chân vào trong giày dễ dàng)
+ @shoemaker  
+*  dt
+- thợ đóng giày
+!the shoemaker's wife is always the worst shod
+- ở nhà vườn ăn cau sâu, bán áo quan chết bó chiếu
+
+@shoemaking
+* dt
+- nghề đóng giày
+ @shoe-nail  
+*  dt
+- đinh đóng giày
+
+@shoe-parlor   (shoe-parlour) @shoe-parlour   (shoe-parlour) @shoe-shine  
+*  dt
+- sự đánh giày
+- người đánh giày, em bé đánh giày ((cũng) shoe-shine boy)
+
+@shoeshine
+* dt
+- (từ Mỹ, nghĩa Mỹ) người đánh giày
+ @shoestring  
+*  dt
+- dây giày
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) số tiền nhỏ
+- (định ngữ) mong manh; cheo leo; ít, vừa đủ
+
++ a shoestring majority: đa số mong man
+!on a shoestring
+- ít của cải, nghèo; lưng vốn ít (khi bắt đầu ra làm ăn)
+
+@shoe-thread  
+*  dt
+- chỉ khâu giày
+
+@shoe-tree
+* dt
+- cốt giày (miếng gỗ, chất dẻo hoặc kim loại có hình bàn chân được đặt trong giày để giữ dáng của giày)
+ @shogun  
+*  dt
+- (sử học) tướng quân (Nhật bản)
+
+@shogunal
+* tt
+- thuộc mạc phủ (Nhật)
+ @shogunate
+* dt
+- mạc phủ; chức tướng quân (Nhật)
+ @shone  
+*  dt
+- ánh sáng, ánh nắng
+
++ it's rain and shine together: trời vừa mưa vừa nắng
+
++ rain or shine: dù mưa hay nắng
+- nước bóng
+
++ to put a good shine on boots: đánh đôi giầy ống bóng lộn
+- (từ lóng) sự cãi nhau; sự huyên náo; sự chấn động dư luận
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) trò chơi khăm, trò chơi xỏ
+!to take a shine to something
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thích, mê cái gì
+!to take the shine out of something
+- làm mất phấn (mất bóng) một thứ gì
+- vượt hẳn cái gì, làm lu mờ cái gì
+*  dgt shone
+- chiếc sáng, toả sáng, soi sáng
+
++ the sun shines bright: mặt trời chiếu sáng
+- sáng, bóng
+
++ face shines with soap: mặt bóng nhẫy xà phòng
+
++ face shines with joy: mặt hớn hỡ vui mừng
+- giỏi, cừ; trội
+
++ to shine in conversation: nói chuyện giỏi; nói chuyện có duyên
+- (thông tục) đánh bóng (giày dép, đồ đồng...)
+!to shine up to
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm thân với
+
+@shoo  
+*  dgt
+- xua, đuổi, xuỵt
+
++ to shoo the chickens aways: xua gà đi chỗ khác
+
+@shoo-in
+* dt
+- <Mỹ>  <thgt> người (đội ) được coi là nhất định giành thắng lợi
+ @shook  
+*  thời quá khứ của shake
+*  dt
+- bộ ván và nắp thùng (sắp đóng thành thùng)
+
+@shook-up
+* tt
+- chán nản
+
++  he was all shook-up after his defeat:anh ta hoàn toàn chán nản sau khi thất bại
+ @shoot  
+*  dt
+- cành non; chồi cây; cái măng
+- thác nước
+- cầu nghiêng, mặt nghiêng (để tháo nước, để đẩy đất...)
+- cuộc tập bắn
+- cuộc săn bắn; đất để săn bắn
+- (thể dục,thể thao) cú đá, cú sút (bóng)
+- cơ đau nhói
+*  dgt shot
+- vụt qua, vọt tới, chạy qua
+
++ flash shoots across sky: ánh chớp loé ngang bầu trời
+- đâm ra, trồi ra
+
++ buds are shooting: chồi đang đâm ra
+
++ tree shoots: cây đâm chồi
+
++ cape shoots out: mũi đất đâm ra ngoài biển
+- ném, phóng, quăng, liệng, đổ
+
++ bow shoots arrow: cung phóng tên đi
+
++ sun shoots its rays: mặt trời toả tia sáng
+
++ to shoot fishing-net: quăng lưới
+
++ to shoot rubbish: đổ rác
+- bắn
+
++ to shoot well with a revolver: bắn súng lục giỏi
+
++ to shoot straight: bắn trúng
+
++ to be shot in the arm: bị trúng đạn vào tay
+
++ to shoot a match: dự cuộc thi bắn
+- săn bắn
+
++ to be out shooting: đi săn
+- sút, đá (bóng)
+- đau nhói, đau nhức nhối
+
++ tooth shoots: đau răng nhức nhối
+- (thể dục,thể thao) là là mặt đất ((nghĩa bóng) crickê)
+- chụp ảnh, quay phim
+- bào
+
++ shot edges: những cạnh đã được bào nhẵn
+*  động tt quá khứ
+- óng ánh
+
++ shot silk: lụa óng ánh
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lời mệnh lệnh nói đi!
+!to shoot at
+- (thông tục) cố gắng đạt được
+!to shoot away
+- bắn bay đi, bắn văng đi
+- bắn hết (đạn)
+
++ to shoot away all one's ammunition: bắn hết đạn
+!to shoot down
+- bắn rơi
+!to shoot forth
+- thoáng qua như chớp, thoảng qua như gió
+- đâm chồi (cây)
+!to shoot up
+- lớn mau, lớn nhanh, lớn vọt
+- bắn trúng nhiều phát
+- (thông tục) khủng bố; triệt hạ
+!to shoot the cat
+- (từ lóng) nôn, mửa
+!to shoot a line
+- (từ lóng) nói khoác, nói bịa
+!to shoot out one's lips
+- bĩu môi khinh bỉ
+!to shoot the moon x moon to shoot Niagara
+- liều, tính chuyện liều
+!to shoot the sun
+- đo độ cao của mặt trời lúc buổi trưa
+!I'll be shot if...
+- nếu... tôi chết
+!I'll be shot if I know
+- tôi không biết, tôi biết thì tôi chết
+!to shoot off one's (the) mouth
+- (từ lóng) nói ba hoa, nói không giữ mồm giữ miệng
+!to be shot through with
+- gặp nhiều (điều không ưng, nguy hiểm...)
+
+@shooter  
+*  dt
+- người bắn súng
+- người đi săn
+- quả bóng (crickê) là là trên mặt đất
+- (thể dục,thể thao) người sút (bóng đá)
+- súng, súng lục (dùng trong từ ghép)
+
++ six-shooter: súng sáu, súng lục
+
+@shooting  
+*  dt
+- sự bắn, sự phóng đi
+- khu vực săn bắn
+- quyền săn bắn ở các khu vực quy định
+- sự sút (bóng)
+- cơn đau nhói
+- sự chụp ảnh, sự quay phim
+
+@shooting star  
+*  dt
+- sao sa, sao băng
+
+@shooting war  
+*  dt
+- chiến tranh nóng (để phân biệt với chiến tranh lạnh, chiến tranh cân não)
+
+@shooting-boots  
+*  dt số nhiều
+- giày ống đi săn
+
+@shooting-box  
+*  dt
+* lều đi săn, lán đi săn
+
+@shooting-brake  
+*  dt
+- xe toàn năng (vừa chở người, vừa chỏ hàng hoá)
+
+@shooting-coat  
+*  dt
+- áo đi săn
+
+@shooting-gallery  
+*  dt
+- phòng tập bắn
+
+@shooting-iron  
+*  dt
+- (từ lóng) súng ống
+
+@shooting-licence
+* dt
+- giấy phép săn bắn
+ @shooting-range  
+*  dt
+- trường bắn
+
+@shooting-stick  
+*  dt
+- gậy có thể xếp thành ghế ngồi
+
+@shoot-out
+* dt
+- cuộc đấu súng
+ @shop  
+*  dt
+- cửa hàng, cửa hiệu
+- phân xưởng
+- (từ lóng) cơ sở, trường sở nghề nghiệp, công việc làm ăn
+
++ to set up shop: bắt đầu công việc làm ăn, bắt đầu kinh doanh
+
++ to shut up shop: thôi làm việc gì; (từ Mỹ,nghĩa Mỹ) đóng cửa hiệu
+!all over the shop
+- (từ lóng) lung tung, lộn xộn; khắp mọi nơi
+
++ I have looked for it all over the shop: tôi đã đi tìm cái đó khắp mọi nơi
+
++ my books are all over the shop: sách của tôi lung tung cả lên
+!to come to the wrong shop
+- hỏi nhầm chỗ; hỏi nhầm người
+!to sink the shop
+- không bàn đến chuyện làm ăn; không bàn đến chuyện chuyên môn
+- giấu nghề nghiệp
+!to smell of the shop
+- (xem) smell
+!to talk shop
+- nói chuyện làm ăn, nói chuyện công tác; nói chuyện chuyên môn, nói chuyện nghề nghiệp
+*  dgt
+- đi mua hàng, đi chợ; (từ Mỹ,nghĩa Mỹ) đi khảo giá
+- (từ lóng) bỏ tù, bắt giam
+- (từ lóng) khai báo cho (đồng loã) bị tù
+
+@Shop steward
+- (Econ) Đại biểu phân xưởng.
+: Một đại biểu được bầu ra đại diện cho một nhóm công nhân, người này sẽ thúc đẩy những mối quan tâm của những người lao động trong nhà máy hoặc phân xưởng như tiền công hoặc các điều kiện làm việc.
+ @shop window  
+*  dt
+- tủ kính bày hàng
+!to have everything in the shop_window
+- (nghĩa bóng) ruột để ngoài da; phổi bò ruột ngựa
+
+@shop-assistant  
+*  dt
+- người bán hàng
+
+@shop-book
+* dt
+- sổ sách cửa hàng
+ @shop-boy  
+*  dt
+- người bán hàng (đàn ông)
+
+@shop-floor
+* dt
+- khu vực chế tạo hàng hoá trong nhà máy
+- công nhân trong nhà máy (đối lại với những người quản lý)
+ @shop-girl  
+*  dt
+- cô bán hàng
+
+@shopkeeper  
+*  dt
+- người chủ hiệu
+!nation of shopkeepers
+- nhân dân Anh, nước Anh
+
+@shop-lift
+* ndgt
+- ăn cắp hàng hoá của một cửa hàng trong lúc giả làm khách hàng
+ @shoplift
+* ndgt
+- ăn cắp hàng hoá của một cửa hàng trong lúc giả làm khách hàng
+ @shop-lifter  
+*  dt
+- kẻ cắp giả làm khách mua hàng
+
+@shoplifter
+* dt
+- kẻ cắp giả làm khách mua hàng
+ @shop-lifting  
+*  dt
+- sự ăn cắp ở các cửa hàng
+
+@shoplifting
+* dt
+- sự ăn cắp ở các cửa hàng (bằng cách giả làm khách mua hàng)
+ @shopman  
+*  dt
+- người chủ hiệu
+- người bán hàng
+
+@shopper  
+*  dt
+- người đi mua hàng
+- (từ Mỹ,nghĩa Mỹ) nhân viên đi khảo giá (người được một cửa hiệu thuê để đi so sánh mặt hàng và giá cả của các cửa hiệu khác) (cg comparison shopper)
+
+@shopping  
+*  dt
+- sự đi mua hàng
+
++ to do one's shopping: đi mua hàng
+
+@shopping centre
+* dt
+- trung tâm buôn bán, trung tâm thương mại
+ @shopping mall
+* dt
+- <Mỹ> khu vực cấm xe cộ đi lại và thường có mái che, có nhiều cửa hàng
+ @shoppy  
+*  tt
+- quá chuyên môn, có tính chất nhà nghề
+
+@shop-sign
+* dt
+- biển cửa hiệu
+ @shop-soiled   (shop-worn) @shop-steward  
+*  dt
+- đại biểu công nhân
+
+@shop-talk  
+*  dt
+- chuyên làm ăn, chuyện công tác, chuyện chuyên môn, chuyện nghề nghiệp
+- tiếng chuyên môn, tiếng nhà nghề
+
+@shopwalker  
+*  dt
+- người hướng dẫn khách (trong các cửa hàng lớn)
+
+@shop-worn   (shop-worn) @shore  
+*  dt
+- bờ (biển, hồ lớn), bờ biển
+- (pháp lý) phần đất giữa hai nước triều
+*  dt
+- cột (chống tường, cây...) trụ
+*  ngdgt
+- chống, đỡ
+*  (từ cổ,nghĩa cổ),  thời quá khứ của shear
+
+@shore dinner  
+*  dt
+- bữa ăn gồm toàn các thức tươi mới đánh được ở biển lên
+
+@shore-based  
+*  tt
+- (quân sự) có căn cứ ở bờ biển (máy bay, không ở tàu sân bay)
+
+@shore-leave  
+*  dt
+- phép được lên bờ (cho thuỷ thủ)
+
+@shore-line
+* dt
+- đường nước gập bờ
+- dải đất ven bờ
+ @shoreward  
+*  tt & dt
+- về phía bờ
+
+@shoring
+* dt
+- sự chống đỡ
+- hệ cột chống
+ @shorn  
+*  dt
+- kéo lớn (để tỉa cây, xén lông cừu...)
+- (từ Mỹ,nghĩa Mỹ) sự xén (lông cừu...)
+
++ a sheep of three shears: con cừu đã được xén lông ba lần
+- (từ Mỹ,nghĩa Mỹ) lông cừu xén ra
+- (kỹ thuật) sự trượt, sự dịch chuyển
+- (số nhiều) (như) sheers
+*  dgt sheared,  (từ cổ,nghĩa cổ) shore; shorn,  (từ hiếm,nghĩa hiếm) sheared
+- cắt, chặt (bằng kiếm, dao, kéo...)
+
++ to shear through something: cắt đứt vật gì
+
++ the plane sheared through the clouds: chiếc máy bay bay xuyên qua đám mây
+- xén, cắt, hớt
+
++ to shear sheep: xén lông cừu
+- bị biến dạng, bị méo mó, bị đứt gãy (vật liệu...); làm biến dạng, làm méo mó, làm đứt gãy
+- (nghĩa bóng) tước, lấy mất
+
++ to be shorn of glory: bị tướt hết vinh quang;
+
++ to come home shorn: về nhà trần như nhộng
+
+@short  
+*  tt
+- ngắn, cụt
+
++ a short story: truyện ngắn
+
++ a short way off: không xa
+
++ to have a short memory: có trí nhớ kém
+- lùn, thấp (người)
+- thiển cận, chỉ thấy việc trước mắt
+
++ to take short views: thiển cận, không nhìn xa trông rộng
+- thiếu, không có, hụt, không tới
+
++ short of tea: thiếu chè
+
++ to be short of hands: thiếu nhân công
+
++ this book is short of satisfactory: quyển sách này còn nhiều thiếu sót
+- gọn, ngắn, tắt
+
++ in short: nói tóm lại
+
++ he is called Bob for short: người ta gọi tắt nó là Bóp
+- vô lễ, xấc, cộc lốc
+
++ to be short with somebody: vô lễ với ai
+- giòn (bánh)
+- bán non, bán trước khi có hàng để giao
+- (ngôn ngữ học) ngắn (nguyên âm, âm tiết)
+!an escape short of marvellous
+- một sự trốn thoát thật là kỳ lạ
+!to make short work of x work something short
+- một cốc rượu mạnh
+*  dt
+- bất thình lình, bất chợt
+
++ to bring (pull) up short: ngừng lại bất thình lình
+
++ to stop short: chấm dứt bất thình lình, không tiếp tục đến cùng; chặn đứng
+
++ to take somebody up short; to cut somebody short: ngắt lời ai
+- trước thời hạn thông thường, trước thời hạn chờ đợi
+
++ to sell short: bán non, bán trước khi có hàng để giao
+
++ short of: trừ, trừ phi
+*  dt
+- (ngôn ngữ học) nguyên âm ngắn; âm tiết ngắn
+- phim ngắn
+- (điện học),  (thông tục) mạch ngắn, mạch chập
+- cú bắn không tới đích
+- (thông tục) cốc rượu mạnh
+- (số nhiều) quần soóc
+- (số nhiều) những mảnh thừa, những mảnh vụn (cắt ra khi sản xuất cái gì)
+- sự bán non, sự bán trước khi có hàng để giao
+!the long and the short of it
+- (xem) long
+*  ngdgt
+- (thông tục) làm ngắn mạch, làm chập mạch ((cũng) short-circuit)
+
+@short bill  
+*  dt
+- hoá đơn ngắn kỳ (phải thanh toán trong thời hạn ngắn)
+
+@short circuit  
+*  dt
+- (điện học) mạch ngắn, mạch chập
+*  ngdgt
+- (điện học) làm ngắn mạch, làm chập mạch ((cũng) short)
+- làm đơn giản; bớt ngắn đi
+
+@short commons  
+*  dt số nhiều
+- suất ăn hàng ngày; chế độ ăn hằng ngày (ở đại học Ôc-phớt,  Căm-brít)
+- (từ Mỹ,nghĩa Mỹ) suất ăn ít ỏi, khẩu phần ăn nghèo nàn
+
+@short cut  
+*  dt
+- đường cắt
+- cách làm đỡ tốn (thời gian, công sức...)
+
+@short dead end  
+*  dt
+- (ngành đường sắt) đường xe lửa tận cùng
+
+@short fall  
+*  dt
+- sự thiếu hụt
+
+@short head  
+*  dt
+- đầu ngắn
+- người đầu ngắn
+- khoảng cách ngắn hơn một đầu ngựa (đua ngựa)
+
+@short list
+* dt
+- số lượng nhỏ (nhất là các người dự tuyển vào một công việc được chọn lựa từ số lượng người dự tuyển lớn hơn )
+ @short metre  
+*  dt
+- thơ tứ tuyệt
+
+@short odds
+* dt
+- tiền đánh cuộc gần ngang bằng đối với một con ngựa  có thể thắng trong cá cược
+ @short order  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) món ăn làm vội (sau khi khách gọi ở quán ăn)
+!in short_order
+- (từ Mỹ,nghĩa Mỹ) vội, mau, nhanh
+
+@Short run
+- (Econ) Ngắn hạn.
+: Khoảng thời gian trong quá trình sản xuất trong đó các yếu tố sản xuất cố định không thay đổi, nhưng mức độ sử dụng các yếu tố khả biến có thể bị thay đổi.
+ @Short run adjustments
+- (Econ) Những điều chỉnh giá ngắn hạn.
+ @Short run aggregate suply schedule
+- (Econ) Biểu cung gộp ngắn hạn.
+ @Short run average cost
+- (Econ) Chi phí trung bình ngắn hạn.
+: Xem Average cost.
+ @Short run average fixed cost (AFC)
+- (Econ) Định phí bình quân ngắn hạn.
+ @Short run consumption function
+- (Econ) Hàm tiêu dùng ngắn hạn.
+: Mối quan hệ hàm số giữa tiêu dùng và thu nhập trong khoảng thời gian của chu kỳ kinh doanh.
+ @Short run fixed cost (AFC)
+- (Econ) Định phí ngắn hạn.
+ @Short run marginal cost (SMC)
+- (Econ) Chi phí biên ngắn hạn.
+: Xem Marginal cost.
+ @Short run Phillíp curve
+- (Econ) Đường Phillips ngắn hạn.
+ @Short run total cost (STC)
+- (Econ) Tổng phí ngắn hạn.
+ @Short run variable costs (SVC)
+- (Econ) Biến phí ngắn hạn.
+ @short sight
+* dt
+- bệnh cận thị; khả năng chỉ nhìn rõ những vật ở gần
+ @short snort  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) hớp rượu mạnh
+
+@short story
+* dt
+- truyện ngắn
+ @short subject  
+*  dt
+- phim ngắn, phim phụ ((thường) chiếu kèm với phim chính)
+
+@short temper  
+*  dt
+- tính hay cáu, tính nóng
+
+@short time  
+*  dt
+- sự không làm việc cả ngày, sự không làm việc cả tuần
+
++ a short_time worker: công nhân làm việc dưới tám giờ một ngày, công nhân làm việc dưới sáu ngày một tuần
+
+@short wind  
+*  dt
+- hơi ngắn ((nghĩa đen) & (nghĩa bóng))
+
+@shortage  
+*  dt
+- sự thiếu; số lượng thiếu
+
++ a shortage of staff: sự thiếu biến chế
+
++ a shortage of 100 tons: thiếu 100 tấn
+
+@short-armed  
+*  tt
+- có cánh tay ngắn
+- đánh bằng cánh tay gập vào (cú đánh)
+
+@shortbread   (shortcake) @shortcake   (shortcake) @short-change  
+*  dgt (thông tục)
+- trả thiếu tiền khi đổi
+- lừa bịp, đánh lừa
+
+@short-circuit
+* dt
+- <điện> mạch ngắn, mạch chập
+* ngdgt
+- làm cho bị đoản mạch, làm bị chập mạch
+- tránh; bỏ qua
+* ndgt
+- bị đoản mạch, bị chập mạch
+ @shortcoming  
+*  dt
+- thiếu sót, khuyết điểm, nhược điểm
+
+@shortcut
+- phím rút gọn, phím tắt
+ @short-cycle
+* tt
+- thuộc thời gian đào tạo ngắn hơn
+ @short-dated  
+*  tt
+- ngắn kỳ (phiếu, hoá đơn)
+
+@Short-dated securities
+- (Econ) Các chứng khoán ngắn hạn.
+: Các chứng khoán nợ, ví dụ như trái khoán công ty hay chứng khoán viền vàng mà thời gian đến ngày thanh toán ngắn, thườg không quá 5 năm.
+ @short-day
+* tt
+- (thực vật học) ngắn ngày (hoa)
+ @short-eared
+* tt
+- có bông ngắn; có tai ngắn
+ @shorten  
+*  ngdgt
+- thu ngắn lại, thu hẹp vào
+- mặc quần soóc (cho trẻ em)
+- cho mỡ (vào bánh cho xốp giòn)
+*  ndgt
+- ngắn lại
+
+@shortening  
+*  dt
+- sự thu ngắn lại
+- mỡ pha vào bánh cho xốp giòn
+
+@shortfall
+* dt
+- sự thâm hụt
+
++  a shortfall in the annual budget:sự thâm hụt trong ngân sách hàng năm
+ @short-haired  
+*  dt
+- tốc ký
+
++ to take a speech down in short-haired: ghi tốc ký một bài diễn văn
+
++ short-haired typist: người đánh máy kiêm tốc ký
+
+@shorthand  
+*  tt
+- dùng tốc ký, ghi bằng tốc ký
+
+@shorthand typist
+- <Mỹ> người viết tốc ký
+ @short-handed  
+*  tt
+- thiếu nhân công, thiếu người làm
+
+@short-head  
+*  ngdgt
+- về trước gần một đầu ngựa (đua ngựa)
+
+@short-headed  
+*  tt
+- có đầu ngắn
+
+@shorthorn  
+*  dt
+- thú nuôi có sừng ngắn
+
+@short-horned  
+*  tt
+- có sừng ngắn
+
+@shortish  
+*  tt
+- hơi ngắn, ngăn ngắn
+
+@short-legged  
+*  tt
+- có chân ngắn
+
+@short-list
+* dgt
+- đưa vào danh sách sơ tuyển
+ @shortlived  
+*  tt
+- chết yểu, sống được ít ngày
+
+@short-lived
+* tt
+- ngắn, tồn tại trong một thời gian ngắn
+ @shortly  
+*  dt
+- không lâu nữa, chẳng mấy chốc
+- vắn tắt, tóm lại
+- cộc lốc
+
+@shortness
+* dt
+- sự ngắn gọn
+- sự tinh giòn
+
++  cold shortness:sự tinh giòn nguội
+
++  hot shortness:sự tinh giòn nóng
+ @short-order  
+*  tt (từ Mỹ,nghĩa Mỹ)
+- (thuộc) món ăn làm vội
+
++ a short-order dinner: bữa cơm làm vội
+- vội, mau, nhanh
+
+@short-range  
+*  tt
+- tầm ngắn
+
+@short-rib  
+*  dt
+- (giải phẫu) xương sườn cụt
+
+@shorts
+* dt, pl
+- quần sóoc (quần ngắn không đến đầu gối, mặc chơi thể thao hoặc vào mùa nóng)
+- <Mỹ> quần đùi của đàn ông
+ @short-sighted  
+*  tt
+- cận thị
+- thiển cận
+
+@short-sightedness  
+*  dt
+- tật cận thị
+- tính thiển cận
+
+@short-skirted  
+*  tt
+- mặc váy ngắn
+
+@short-spoken  
+*  tt
+- (nói) ngắn gọn
+
+@short-staffed
+* tt
+- không có đủ nhân sự làm việc; thiếu nhân sự
+ @short-stalked
+* tt
+- (thực vật học) có cuống ngắn
+ @short-stemmed
+* tt
+- có thân ngắn
+ @shortstop
+* dt
+- chậu hãm ảnh (để ngừng quá trình làm ảnh)
+ @short-temper
+* dt
+- tính nóng; tính vội
+ @short-tempered  
+*  tt
+- hay cáu, nóng
+
+@short-term  
+*  tt
+- ngắn kỳ (tiền cho vay...)
+
+@short-time
+- (máy tính) thời gian ngắn
+ @Short-time working
+- (Econ) Làm việc ít giờ.
+: Đề cập đến những công nhân làm việc ít giờ hơn TUẦN LÀM VIỆC CHUẨN được nêu trong trong hợp đồng lao động của họ.
+ @short-toothed
+* tt
+- có răng ngắn
+ @short-wave  
+*  dt
+- (rađiô) làn sóng ngắn
+*  tt
+- (rađiô) sóng ngắn
+
++ short-wave radio station: đài phát thanh làn sóng ngắn
+
+@short-wave
+- (vật lí) sóng ngắn
+ @short-winded  
+*  tt
+- ngắn hơi ((nghĩa đen) & (nghĩa bóng))
+
+@short-wooled
+* tt
+- có lông ngắn (cừu)
+ @shorty  
+*  dt
+- (thông tục) người lùn tịt; vật bé tí
+
+@shot  
+*  dt
+- sự trả tiền; phiếu tính tiền (ở quán rượu...)
+- phần đóng góp
+
++ to pay one's shot: góp tiền, đóng phần tiền của mình
+*  dt
+- đạn, viên đạn
+- ((thường) số nhiều không đổi) đạn ghém
+- phát đạn, phát bắn
+
++ without firing a single shot: shot không tốn một phát đạn nào
+
++ to take a flying shot: bắn chim đang bay; bắn mục tiêu di động
+
++ random shot: phát bắn bừa
+- sự làm thử, sự đánh ăn may, sự đoán cầu may
+
++ to have (take) a shot at: thử làm (cái gì)
+
++ to make a bad shot: đoán nhầm
+- tầm (đạn...)
+- người bắn
+
++ a crack shot: một tay súng giỏi
+
++ to be no shot: bắn kém
+- mìn (phá đá...)
+- quả tạ
+
++ to put the shot: ném tạ, đẩy tạ
+- cút sút (vào gôn)
+- liều côcain; phát tiêm mocfin
+- (thông tục) ngụm rượu
+- ảnh, cảnh (chụp bằng máy quay phim)
+- lời phê bình sắc, lời nhận xét sắc sảo
+!to call the shots
+- (thông tục) chỉ huy, điều khiển, làm tướng
+!a shot in the arm
+- liều thuốc bổ (nghĩa bóng)
+!a long shot
+- sự thử làm không chắc thành công
+- (thông tục) sự đánh cuộc khó thắng
+- (thông tục) người khó thắng, người khó thành công; việc làm khó thành công
+!like a shot
+- (xem) like
+!not a shot in the locker
+- (xem) locker
+!not by a long shot
+- (từ lóng) không khi nào, không bao giờ, không một chút nào
+*  ngdgt
+- nạp đạn
+*  thời quá khứ & động tt quá khứ của shoot
+*  tt
+- có tia, có vạch; có lốm đốm (màu khác, chất khác...)
+
++ crimson shot with yellow: màu đỏ thắm có lốm đốm vàng
+- dệt sợi khác màu cho lốm đốm óng ánh lụa
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) không dùng được nữa, hư nát, sờn rách
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) nhất định thất bại; bị thất bại
+
++ his chances are shot: dịp may của hắn thế là tong rồi
+
+@shot effect  
+*  dt
+- (vật lý) hiệu ứng lạo sạo
+
+@shotcrust
+* dt
+- loại bánh ngọt dòn tan
+ @shotdrilling
+* dt
+- (kỹ thuật) sự khoan bi
+ @shot-firer  
+*  dt
+- người giật mìn (phá đá...)
+
+@shot-gun  
+*  dt
+- súng ngắn
+
+@shotgun
+* dt
+- súng săn
+ @shot-put  
+*  dt,  (thể dục,thể thao)
+- cuộc thi ném tạ, cuộc thi đẩy tạ
+- cú ném tạ, cú đẩy tạ
+
+@shot-putter
+* dt
+- người đẩy tạ, người ném tạ
+ @shotted
+* tt
+- được tạo thành hạt
+ @shotten
+* tt
+- đã đẻ trứng (cá)
+ @shotting
+* dt
+- sự tạo hạt
+ @shotty
+* tt
+- tròn và cứng (như  viên đạn)
+ @should  
+*  thời quá khứ của shall
+- (trợ dgt dùng để hình thành thời tương lai trong thời quá khứ ở ngôi 1 số ít & số nhiều)
+
++ I said I should be at home next week: tôi nói là tuần sau tôi sẽ có nhà
+- (trợ dgt dùng để hình thành lối điều kiện ở ngôi 1 số ít & số nhiều)
+
++ I should be glad to come if I could: tôi rất thích đến nếu tôi có thể đến được
+- (trợ dgt dùng để hình thành lối lời cầu khẩn)
+
++ it is necessary that he should go home at once: có lẽ nó cần phải về nhà ngay
+- (dgt tình thái dùng để chỉ một sự cần thiết vì nhiệm vụ, dùng ở cả ba ngôi)
+
++ we should be punctual: chúng ta phải đúng giờ
+
++ there is no reason why aggression should not be resisted: không có lý do gì để không chống lại sự xâm lược
+- (dgt tình thái dùng để chỉ một sự ngờ vực)
+
++ I should hardly think so: tôi khó mà nghĩ như thế
+
+@shoulder  
+*  dt
+- vai
+
++ shoulder to shoulder: vai kề vai, kề vai sát cánh
+- vai núi, vai chai, vai áo...
+- miếng thịt vai (thịt lợn...)
+- (quân sự) tư thế bồng súng
+!to cry on someone's shoulders
+- tìm an ủi của ai, kể lể nỗi niềm đau khổ với ai
+!to give the cold shoulder to someone
+- (xem) cold
+!to have broad shoulders
+- khoẻ; có thể vác nặng; có thể gánh vác nhiều trách nhiệm
+!to lay the blame on the right shoulderx
+- (xem) blame
+!old head on young shoulders
+- (xem) head
+!to put (set) [one's] shoulder to [the] wheel
+- gắng sức, ra tay
+!to tell straight from the shoulder
+- nói thẳng, nói bốp chát, nói thật
+!to rub shoulders with
+- chen vai với (bóng)
+*  dgt
+- che bằng vai, lách, len lỏi
+- vác lên vai; gánh trách nhiệm
+- (quân sự) bồng súng
+
+@shoulder-bag
+* dt
+- túi khoác vai
+ @shoulder-belt  
+*  dt
+- dây đeo súng (quàng qua vai)
+
+@shoulder-blade  
+*  dt
+- (giải phẫu) xương vai
+
+@shoulder-board
+* dt
+- huy hiệu đeo ở cầu vai
+ @shoulder-flash
+* dt
+- quân hiệu đeo ở cầu vai
+ @shoulder-high  
+*  tt
+- cao đến vai, cao ngang vai
+
+@shoulder-knot  
+*  dt
+- dải nơ đeo ở vai (làm phù hiệu...)
+
+@shoulder-length
+* tt
+- (tóc) dài chấm vai
+ @shoulder-loop  
+*  dt
+- (quân sự) cái cầu vai ((cũng) shoulder-strap)
+
+@shoulder-mark  
+*  dt
+- phù hiệu vai (trong hải quân Mỹ)
+
+@shoulder-strap  
+*  dt
+- (quân sự) cái cầu vai ((cũng) shoulder-loop)
+- (số nhiều) dây brơten, dây đeo quần
+
+@shouldn't  
+*  (viết tắt) của should not
+
+@shout  
+*  dt
+- tiếng kêu; sự la hét, sự hò hét
+- (từ lóng) chầu khao
+
++ it is my shout: đến chầu tớ khao, đến lượt tớ làm đầu tàu
+*  dgt
+- la hét, hò hét, reo hò
+
++ to shout at the top of one's voice: gân cổ lên mà hét
+
++ to shout for joy: reo hò vui sướng
+- quát tháo, thét
+
++ don't shout at me: đừng quát tôi
+- (từ lóng) khao, thết
+
++ to shout someone a drink: khao ai chầu rượu, thết ai chầu rượu
+!to shout down
+- la phản đối, la thét buột (một diễn giả) phải thôi nói
+
+@shouting  
+*  dt
+- sự la hét; tiếng hò hét; tiếng reo hò
+- (từ lóng) sự khao, sự thết
+!all is over but the shouting
+- mọi việc đã xong xuôi chỉ còn đợi sự reo hò hoan hô
+
+@shove  
+*  dt
+- sự xô đẩy
+- lõi thân cây lạnh
+!to give someone a shove off
+- giúp ai bắt đầu
+*  dgt
+- ((thường) : along,  past,  through) xô, đẩy, xô lấn; lách, len lỏi
+- (thông tục) để nhét
+
++ to shove something in a drawer: nhét một vật gì vào ngăn kéo
+!to shove off
+- đẩy thuyền ra; bắt đầu lên đường
+
+@shove-halfpenny   (shovelboard) @shovel  
+*  dt
+- cái xẻng
+*  ngdgt
+- xúc bằng xẻng
+!to shovel food into one's mouth
+- ngốn, ăn ngấu nghiến
+
+@shovel hat  
+*  dt
+- mũi to vành
+
+@shovelbill  
+*  dt
+- (động vật học) vịt thìa ((cũng) shoveller)
+
+@shovelboard   (shovelboard) @shovelful  
+*  dt
+- xẻng (đầy)
+
++ a shovelful of coal: một xẻng than
+
+@shoveller  
+*  dt
+- người xúc; máy xúc
+- (động vật học) (như) shovelbill
+
+@shovelman
+* dt
+- thợ xúc
+ @shovel-nose
+* dt
+- (động vật học) cá đuôi nhám
+ @shovel-nosed  
+*  tt
+- có mũi to và tẹt
+
+@show  
+*  dt
+- sự bày tỏ
+
++ to vote by show of hands: biểu quyết bằng giơ tay
+- sự trưng bày; cuộc triển lãm
+- sự phô trương, sự khoe khoang
+
++ a fine show of blossom: cảnh muôn hoa khoe sắc
+- (thông tục) cuộc biểu diễn
+
++ a film show: một buổi chiếu phim
+- bề ngoài, hình thức, sự giả đò, sự giả bộ
+
++ to do something for show: làm việc gì để lấy hình thức
+
++ to be fond of show: chuộng hình thức
+
++ his sympathy is mere show: vẻ thiện cảm của anh ta chỉ là giả đồ
+- (từ lóng) cơ hội, dịp
+
++ to have no show at all: không gặp dịp
+- (y học) nước đầu ối
+- (từ lóng) việc, công việc kinh doanh, việc làm ăn
+
++ to run (boss) the show: điều khiển mọi việc
+- (quân sự),  (từ lóng) trận đánh, chiến dịch
+!to give away the show x give good show!
+- khá lắm!, hay lắm!
+*  ngdgt showed; showed,  shown
+- cho xem, cho thấy, trưng bày, đưa cho xem; tỏ ra
+
++ an aperture shows the inside: một khe hở cho ta thấy phía bên trong
+
++ to show trained tress: trưng bày cây cảnh
+
++ to show neither joy nor anger: không tỏ ra vui mà cũng không tỏ ra giận
+
++ to favour to somebody: tỏ sự chiếu cố đối với ai
+- tỏ ra, tỏ rõ
+
++ to show intelligence: tỏ ra thông minh
+
++ to show the authenticity of the tale: tỏ rõ câu chuyện là có thật
+- chỉ, bảo, dạy
+
++ to show someone the way: chỉ đường cho ai
+
++ to show someone how to read: dạy ai đọc
+- dẫn, dắt
+
++ to show someone round the house: dẫn ai đi quanh nhà
+
++ to show someone to his room: dẫn ai về phòng
+*  ndgt
+- hiện ra, xuất hiện, trông rõ, ra trước công chúng,  (thông tục) ló mặt, lòi ra
+
++ buds are just showing: nụ hoa đang nhú ra
+
++ he never shows [up] at big meetings: hắn không bao giờ ló mặt ra ở các cuộc họp lớn
+
++ your shirt's tails are showing: đuôi áo sơ mi anh lòi ra
+!to show in
+- đưa vào, dẫn vào
+!to whow off
+- khoe khoang, phô trương (của cải, tài năng)
+!to show out
+- đưa ra, dẫn ra
+!to show up
+- để lộ ra, lộ mặt nạ (ai)
+- (thông tục) xuất hiện, ló mặt ra, xuất đầu lộ diện; có mặt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) vượt xa, hơn nhiều
+!to show a clean pair of heels
+- (xem) heel
+!to show the cloven hoof
+- (xem) hoof
+!to show one's colours
+- để lộ bản chất của mình; để lộ đảng phái của mình
+!to show fight
+- (xem) fight
+!to show one's hands
+- để lộ ý đồ của mình
+!to show a leg
+- (xem) leg
+!to show the white feather
+- (xem) feather
+
+@show
+- chứng tỏ
+ @show business  
+*  dt
+- công cuộc kinh doanh nghề sân khấu (kịch hát, điện ảnh, xiếc...)
+
+@show-bill  
+*  dt
+- giấy quảng cáo (về kịch, hát...)
+
+@show-bit
+* dt
+- xem show-business
+ @showbiz
+- công cuộc kinh doanh các trò giải trí (nhất là trong rạp hát, <điện ảnh>, xiếc...)
+ @showboat  
+*  dt
+- tàu biểu diễn rong (trên sông)
+
+@show-boat
+* dt
+- tàu mang đội kịch biểu diễn dọc bờ sông
+ @show-business
+* dt
+- công việc kinh doanh để giải trí (kịch, hát, phim ảnh,  tivi, ...)
+ @show-case  
+*  dt
+- tủ bày hàng
+
+@show-down  
+*  dt
+- sự đặt bài xuống cho xem (đánh pôke)
+- (nghĩa bóng) sự thử thách cuối cùng; sự để lộ thành tích, sự để lộ khả năng
+
+@shower  
+*  dt
+- người chỉ, người cho xem, người dẫn; người trưng bày
+- trận mưa rào; trận mưa đá
+- trận mưa (đạn, đá...)
+
++ a shower of bullets: trận mưa đạn, đạn bắn như mưa
+- sự dồn dập, sự tới tấp
+
++ a shower of gifts: đồ biểu tới tấp
+
++ letters come in showers: thư từ gửi đến tới tấp
+- (vật lý) mưa
+
++ meson shower: mưa mezon
+*  dgt
+- đổ, trút; bắn xuống như mưa; rơi xuống
+
++ to shower blows on someone: đánh ai túi bụi
+- ((thường) : upon) gửi (quà biếu...) tới tấp (đến cho ai); đến dồn dập
+
+@shower-bath  
+*  dt,  (thông tục)
+- hương (sen) (để tắm); buồng tắm hương sen
+- sự tắm bằng hương sen
+
+@shower-cloud
+* dt
+- đám mây đem mưa rào đến
+ @showeriness
+* dt
+- tình trạng mưa rào, tình trạng khi mưa khi tạnh
+- mùa mưa rào
+ @showering
+* dt
+- sự trưng bày
+ @shower-proof
+* tt
+- có thể đi trong mưa nhẹ hạt (quần áo)
+ @showery  
+*  tt
+- (thuộc) mưa rào; như mưa rào
+
+@showgirl  
+*  dt
+- nữ diễn viên trưng sắc (đóng vai cần sắc nhưng không cần tài)
+
+@showily
+* dt
+- loè loẹt, phô trương
+ @showiness  
+*  dt
+- sự loè loẹt, sự phô trương
+
+@showing
+* dt
+- sự trình diễn, hành động trình diễn
+- hồ sơ, chứng cứ (của sự thành công, chất lượng  của ai @show-jumping
+* dt
+- môn thể thao cưỡi ngựa vượt chướng ngại vật
+ @showman  
+*  dt
+- ông bầu (gánh xiếc...)
+
+@showmanship  
+*  dt
+- nghệ thuật quảng cáo của ông bầu
+- (nghĩa bóng) tài tự đề cao; tài đề cao hàng hoá của mình
+
+@shown  
+*  dt
+- sự bày tỏ
+
++ to vote by show of hands: biểu quyết bằng giơ tay
+- sự trưng bày; cuộc triển lãm
+- sự phô trương, sự khoe khoang
+
++ a fine show of blossom: cảnh muôn hoa khoe sắc
+- (thông tục) cuộc biểu diễn
+
++ a film show: một buổi chiếu phim
+- bề ngoài, hình thức, sự giả đò, sự giả bộ
+
++ to do something for show: làm việc gì để lấy hình thức
+
++ to be fond of show: chuộng hình thức
+
++ his sympathy is mere show: vẻ thiện cảm của anh ta chỉ là giả đồ
+- (từ lóng) cơ hội, dịp
+
++ to have no show at all: không gặp dịp
+- (y học) nước đầu ối
+- (từ lóng) việc, công việc kinh doanh, việc làm ăn
+
++ to run (boss) the show: điều khiển mọi việc
+- (quân sự),  (từ lóng) trận đánh, chiến dịch
+!to give away the show x give good show!
+- khá lắm!, hay lắm!
+*  ngdgt showed; showed,  shown
+- cho xem, cho thấy, trưng bày, đưa cho xem; tỏ ra
+
++ an aperture shows the inside: một khe hở cho ta thấy phía bên trong
+
++ to show trained tress: trưng bày cây cảnh
+
++ to show neither joy nor anger: không tỏ ra vui mà cũng không tỏ ra giận
+
++ to favour to somebody: tỏ sự chiếu cố đối với ai
+- tỏ ra, tỏ rõ
+
++ to show intelligence: tỏ ra thông minh
+
++ to show the authenticity of the tale: tỏ rõ câu chuyện là có thật
+- chỉ, bảo, dạy
+
++ to show someone the way: chỉ đường cho ai
+
++ to show someone how to read: dạy ai đọc
+- dẫn, dắt
+
++ to show someone round the house: dẫn ai đi quanh nhà
+
++ to show someone to his room: dẫn ai về phòng
+*  ndgt
+- hiện ra, xuất hiện, trông rõ, ra trước công chúng,  (thông tục) ló mặt, lòi ra
+
++ buds are just showing: nụ hoa đang nhú ra
+
++ he never shows [up] at big meetings: hắn không bao giờ ló mặt ra ở các cuộc họp lớn
+
++ your shirt's tails are showing: đuôi áo sơ mi anh lòi ra
+!to show in
+- đưa vào, dẫn vào
+!to whow off
+- khoe khoang, phô trương (của cải, tài năng)
+!to show out
+- đưa ra, dẫn ra
+!to show up
+- để lộ ra, lộ mặt nạ (ai)
+- (thông tục) xuất hiện, ló mặt ra, xuất đầu lộ diện; có mặt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) vượt xa, hơn nhiều
+!to show a clean pair of heels
+- (xem) heel
+!to show the cloven hoof
+- (xem) hoof
+!to show one's colours
+- để lộ bản chất của mình; để lộ đảng phái của mình
+!to show fight
+- (xem) fight
+!to show one's hands
+- để lộ ý đồ của mình
+!to show a leg
+- (xem) leg
+!to show the white feather
+- (xem) feather
+
+@show-off  
+*  dt
+- sự khoe khoang, sự phô trương
+
+@show-piece  
+*  dt
+- vật trưng bày, vật triển lãm
+
+@show-place  
+*  dt
+- nơi tham quan (cho khách du lịch)
+
+@show-room  
+*  dt
+- phòng trưng bày, phòng triển lãm
+
+@showroom
+* dt
+- nơi trưng bày; phòng để trưng bày (hàng hoá để bán ); phòng triển lãm
+ @show-stopper
+* dt
+- tiết mục được khán giả vỗ tay tán thưởng rất lâu
+ @show-window  
+*  dt
+- tủ hàng triển lãm; tủ bày hàng
+
+@showy  
+*  tt
+- loè loẹt, phô trương
+
+@shram  
+*  ngdgt ((thường) động tt quá khứ)
+- làm tê, làm cóng
+
+@shrank  
+*  ndgt shrank 
+@shrapnel
+* dt
+- <qsự> mảnh bom, mảnh đạn (khi quả đạn trái phá bị nổ tung)
+ @shred  
+*  dt
+- miếng nhỏ, mảnh vụn
+
++ to tear something into shreds: xé cái gì ra từng mảnh
+- một tí, một chút, một mảnh
+
++ not a shred of evidence: không một tí chứng cớ nào cả
+
++ to tear an argument to shred: hoàn toàn bác bỏ một lý lẽ
+*  ngdgt shredded,  shred
+- cắt thành miếng nhỏ, xé thành mảnh nhỏ
+
+@shredder
+* dt
+- thiết bị cắt vụn, thiết bị xé vụn (nhất là loại dùng để cắt tài liệu thành những mảnh nhỏ để không thể đọc được)
+ @shredding
+* dt
+- sự xé nhỏ, sự băm, sự nghiền vụn
+ @shreddy
+* tt
+- bị xé nhỏ, bị băm, bị nghiền
+ @shrew  
+*  dt
+- người đàn bà đanh đá
+- (động vật học) chuột chù ((cũng) shrew-mouse)
+
+@shrewd  
+*  tt
+- khôn, khôn ngoan; sắc, sắc sảo
+
++ a shrewd face: mặt khôn
+
++ a shrewd reasoning: sự lập luận sắc
+- đau đớn, nhức nhối
+- buốt, thấu xương (rét)
+
+@shrewdly
+* dt
+- khôn ngoan, thông minh; sắc sảo, linh lợi
+- đau đớn, nhức nhối
+- buốt, thấu xương (rét)
+ @shrewdness  
+*  dt
+- sự khôn; tính khôn ngoan; tính sắc sảo
+- sự đau đớn, sự nhức nhối
+- sự buốt (do rét)
+
+@shrewed
+* tt
+- khôn ngoan, thông minh; sắc sảo, linh lợi
+
++  a shrewd face:mặt khôn ngoan
+
++  a shrewd reasoning:sự lập luận sắc sảo
+- đau đớn, nhức nhối
+- buốt, thấu xương (rét)
+- ranh mãnh; láu cá; tinh ranh
+ @shrewish  
+*  tt
+- đanh đá; gắt gỏng
+
+@shrewishly
+* dt
+- đanh đá, bẳn tính; hay gắt gỏng
+ @shrewishness  
+*  dt
+- tính đanh đá; tính hay gắt gỏng
+
+@shrew-mouse  
+*  dt
+- (động vật học) chuột chù ((cũng) shrew)
+
+@shriek  
+*  dt
+- tiếng kêu thét, tiếng rít
+*  dgt
+- la, thét, rít, hét
+
++ to shriek at the top of one's voice: gào thét ầm ĩ
+- cười ngặt nghẽo ((thường) to shriek with laughter)
+!to shriek out
+- rền rĩ nói ra
+!to shriek oneself hoarse
+- la hét đến khản tiếng
+
+@shrieval
+* tt
+- thuộc quận trưởng
+ @shrievalty  
+*  dt
+- phòng làm việc của quận trưởng
+- nhiệm kỳ quận trưởng
+
+@shrift  
+*  dt
+- (từ cổ,nghĩa cổ) sự xưng tội
+
++ short shrift: thời gian chờ thi hành án (quãng thời gian giữa sự tuyên án và sự thi hành án)
+
+@shrike  
+*  dt
+- (động vật học) chim bách thanh
+
+@shrill  
+*  tt
+- the thé, lanh lảnh, điếc tai, inh tai
+- (nghĩa bóng) hay la gào, hay réo; hay nheo nhéo quấy rầy (người)
+*  dgt
+- (thơ ca); (văn học) la, kêu the thé, rít lên in tai nhức óc; hát the thé; nói nheo nhéo
+
++ whistle shrills: tiếng còi rít lên inh tai nhức óc
+
++ to shrill out a song: the thé hát một bài
+
++ to shrill out a complaint: than phiền nheo nhéo
+
+@shrillness  
+*  dt
+- tính the thé, tính in tai nhức óc
+
+@shrimp  
+*  dt
+- (động vật học) con tôm
+- (thông tục) người thấp bé, người lùn
+*  ndgt
+- bắt tôm, câu tôm
+
+@shrimper  
+*  dt
+- người đi bắt tôm, người đi câu tôm
+
+@shrimping
+* dt
+- nghề câu tôm
+ @shrine  
+*  dt
+- hòm đựng thánh cốt
+- lăng, mộ
+- điện thờ, miếu thờ
+- nơi linh thiêng
+*  ngdgt,  (thơ ca)
+- cất (thánh cốt...) vào hòm
+- thờ (ở miếu)
+
+@shrink  
+*  ndgt shrank 
+@shrink
+- co rút
+ @shrinkable  
+*  tt
+- có thể làm co lại được, có thể rút ngắn lại; có thể bị co
+
+@shrinkable
+- (tô pô) co rút được
+ @shrinkage  
+*  dt
+- sự co lại (của vải...)
+- sự hụt cân (của súc vật từ khi chuyên chở đến khi giết thịt)
+- số lượng co
+- số cân hụt
+
+@shrink-resistant
+* tt
+- chống được sự co bóp
+ @shrink-wrap
+* ngdgt
+- bọc chặt bằng vải thun
+ @shrive  
+*  ngdgt shrived 
+@shrivel  
+*  ngdgt
+- làm nhăn lại, làm co lại; làm héo hon
+*  ndgt
+- teo lại, quắt lại, quăn lại; héo hon
+
+@shriven  
+*  ngdgt shrived 
+@shroff  
+*  dt
+- chủ ngân hàng, người đổi tiền (ở phương Đông)
+- chuyên viên phát hiện tiền (vàng, bạc) giả (ở phương Đông)
+*  ngdgt
+- xem xét (để phát hiện tiền giả)
+
+@shroud  
+*  dt
+- vải liệm
+- màn che giấu
+
++ the whole affair was wrapped in a shroud of mystery: tất cả vấn đề còn ở trong màn bí mật
+- (số nhiều) mạng thừng chằng cột buồm
+*  ngdgt
+- liệm, khâm liệm
+- giấu, che đậy
+
+@shrove  
+*  ngdgt shrived 
+@shrove tuesday
+* dt(Shrove Tuesday):ngày trước tuần chay (hôm đó mọi người đi xưng tội)
+- thứ ba trước thứ tư lễ Tro
+ @shrua  
+*  dt
+- sự nhún vai
+- cái nhún vai
+
+@shrub  
+*  dt
+- cây bụi
+*  dt
+- rượu bổ (pha bằng) nước quả
+
+@shrubbery  
+*  dt
+- bụi cây
+
+@shrubby  
+*  tt
+- dạng cây bụi
+- có nhiều cây bụi
+
+@shrug  
+*  dgt
+- nhún vai
+!to shrug off
+- nhún vai coi khinh
+
++ to shrug off an insult: nhún vai coi khinh một lời thoá mạ
+- giũ sạch
+
++ to shrug off the effects of alcohol: giũ sạch hơi men
+
+@shrunk  
+*  ndgt shrank 
+@shrunken  
+*  tt
+- co lại, teo lại, quắt lại, tóp đi
+
++ face wears a shrunken look: mặt trông tọp hẳn đi
+
+@shu
+* dt
+- (lịch sử TrungHoa) Nhà Thục (thời Tam Quốc)
+* dt
+- (lịch sử TrungHoa) Nhà Thục (thời Tam Quốc)
+ @shuck  
+*  ngdgt
+- bóc (vỏ đậu)
+- (nghĩa bóng) lột, cởi (quần áo...)
+
+@shucker
+* dt
+- máy bóc vỏ, máy xát vỏ
+ @shucks  
+*  thán từ,  (từ Mỹ,nghĩa Mỹ)
+- gớm!, khiếp!, tởm!
+- chà, tiếc quá!
+
+@shudder  
+*  dt
+- sự rùng mình
+*  ndgt
+- rùng mình (ghê sợ, ghê tởm)
+
++ I shudder to think of it: cứ nghĩ đến việc đó là tôi lại rùng mình
+
+@shuddering  
+*  tt
+- rùng mình (ghê sợ, ghê tởm...)
+
+@shuffle  
+*  dt
+- sự kéo lê chân
+- (đánh bài) sự xáo bài; lượt xáo bài
+- sự xáo trộn
+- sự ăn nói mập mờ; sự thoái thác; hành động lẩn tránh; hành động lừa dối
+*  dgt
+- lê (chân); lê chân
+- (đánh bài) xáo, trang (bài); xáo bài, trang bài
+- xáo trộn, trộn lẫn
+- bỏ, đổ, trút (trách nhiệm)
+
++ to shuffle off responsibility upon others: trút trách nhiệm cho những người khác
+- (: on) lúng túng mặc vội vào; (: off) lúng túng cởi vội ra
+
++ to shuffle on one's clothes: lúng túng mặc vội quần áo vào
+
++ to shuffle off one's clothes: lúng túng cởi vội quần áo ra
+- luôn luôn đổi chỗ, luôn luôn xê dịch
+- thay đổi ý kiến, dao động
+- tìm cách thoái thác, tìm cách lẩn tránh; lừa dối
+!to shuffle the cards
+- (nghĩa bóng) thay đổi con bài, đổi chính sách
+
+@shuffle
+- (lý thuyết trò chơi) trộn bài, trang bài
+ @shuffler  
+*  dt
+- người luôn luôn đổi chỗ
+- người hay thay đổi ý kiến, người hay dao động
+
+@shufflingly  
+*  dt
+- hãy thay đổi, dao động
+- mập mờ; thoái thác, lẩn tránh; lừa dối
+
+@shufti
+* dt
+- nhìn
+ @shufty
+* dt
+- nhìn
+ @shun  
+*  ngdgt
+- tránh, xa lánh, lảng xa
+
+@shunless  
+*  tt
+- (thơ ca) không thể lảng tránh được
+
+@shunt  
+*  dt
+- sự chuyển, sự tránh
+- chỗ bẻ ghi sang đường xép
+- (điện học) Sun
+*  dgt
+- chuyển hướng
+- (ngành đường sắt) cho (xe lửa) sang đường xép
+- hoãn (chặn) không cho thảo luận (một vấn đề); xếp lại (kế hoạch)
+- (điện học) mắc sun
+
+@shunted
+* tt
+- được mắc sun, được phân dòng
+ @shunter
+* dt
+- người bẻ ghi (ở đường sắt trong mỏ)
+- đầu tàu để chuyển đường
+- bộ rẽ nhánh (đường dây điện thoại)
+ @shunting
+* dt
+- (đường sắt) sự rẽ đường, sự tránh đường
+- (điện học) sự mắc mạch sun
+ @shush
+- interj
+- im lặng! im đi!
+* ngdgt
+- bảo ai im lặng
+ @shut  
+*  dgt
+- đóng, khép, đậy, nút, nhắm, gập, ngậm
+
++ to shut a door: đóng cửa
+
++ to shut a book: gập sách
+
++ to shut one's mouth: ngậm miệng lại, câm miệng
+
++ to shut one's eyes: nhắm mắt
+- kẹp, chẹt
+!to shut down
+- kéo (cửa) xuống; đóng cửa (nhà máy)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) chấm dứt, hết sức hạn chế
+!to shut in
+- giam, nhốt
+- bao, bao bọc, che
+!to shut off
+- khoá (máy nước); tắt, ngắt, cắt (điện)
+- ngăn cách ra; tách ra khỏi
+!to shut out
+- không cho vào
+
++ to shut somebody out: không cho ai vào
+- loại trừ (khả năng)
+!to shut to
+- đóng chặt
+!to shut up
+- đóng chặt, khoá chặt
+- giam, nhốt
+- cất, giấu (của)
+- huộc 7 phĩu chĩu pĩu không tiếp ai
+!to shut the door upon something
+- không xét đến việc gì; làm cho không thực hiện được việc gì
+!to shut one's ears (one's eyes) to something
+- bịt tai (nhắm mắt) làm ngơ cái gì
+!to shut up shop
+- (xem) shop
+!shut up!
+- câm mồm!
+
+@shut
+- đóng
+ @Shut down price
+- (Econ) Giá đóng cửa, cuối ngày (thị trường chứng khoán).
+ @shut-down  
+*  dt
+- sự đóng cửa thôi kinh doanh
+
+@shutdown
+- sự đóng cửa, sự kết thúc
+ @shut-down
+- (máy tính) dừng máy, đóng máy
+ @shut-eye  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) giấc ngủ
+
+@shut-in  
+*  tt
+- không ra ngoài được (vì ốm yếu...)
+*  dt
+- người tàn tật ốm yếu không ra ngoài được
+
+@shut-off  
+*  dt
+- cái ngắt, cái khoá
+- sự dừng
+
+@shut-off
+- (máy tính) dừng máy, sự đóng máy
+ @shut-out  
+*  dt
+- sự đóng cửa nhà máy không cho công nhân vào làm (để gây sức ép)
+- (thể dục,thể thao) sự ngăn chặn không cho đối phương làm bàn
+
+@shutter  
+*  dt
+- cửa chớp, cánh cửa chớp
+
++ to put up the shutters: đóng cửa hàng, thôi kinh doanh, giải nghệ
+- (nhiếp ảnh) cửa chập
+*  ngdgt
+- lắp cửa chớp
+- đóng cửa chớp
+
+@shuttering
+* dt
+- ván khuôn; ván cốt pha
+ @shutterless  
+*  tt
+- không có cửa chớp
+
+@shuttle  
+*  dt
+- con thoi
+- dgt
+- qua lại như con thoi; làm cho qua lại như con thoi
+
+@shuttle bus  
+*  dt
+- xe buýt chạy đường ngắn
+
+@shuttle diplomacy
+* dt
+- sự ngoại giao con thoi (thuật <nggiao> đòi hỏi nhà <nggiao> đi lại tới lui giữa hai nhóm liên minh)
+ @shuttle service  
+*  dt
+- ngành xe lửa phục vụ đường ngắn
+
+@shuttle train  
+*  dt
+- xe lửa chạy đường ngắn
+
+@shuttlecock  
+*  dt
+- quả cầu lông
+
+@shy  
+*  tt
+- nhút nhát, bẽn lẽn, e thẹn
+
++ to be shy of doing something: dè dặt không muốn làm việc gì
+- khó tìm, khó thấy, khó nắm
+- (từ lóng) thiếu; mất
+
++ I'm shy 3d: tôi thiếu ba đồng; tôi mất ba đồng
+*  dt
+- sự nhảy sang một bên, sự tránh, sự né
+- (thông tục) sự ném, sự liệng
+!to have a shy at thtục
+- cố bắn trúng (mục tiêu); cố lấy cho được (cái gì)
+- thử chế nhạo (ai)
+*  dgt
+- nhảy sang một bên, né, tránh
+- (thông tục) ném, liệng
+
+@shyer
+* dt
+- người bẽn lẽn
+ @shylock  
+*  dt
+- kẻ cho vay nặng lãi
+
+@shyly   (shily) @shyness  
+*  dt
+- tính nhút nhát, tính bẽn lẽn, tính e thẹn
+
+@shyster  
+*  dt,  (từ lóng)
+- luật sự thủ đoạn, luật sự láu cá
+- người không có lương tâm nghề nghiệp
+
+@

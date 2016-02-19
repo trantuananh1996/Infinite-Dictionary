@@ -1,0 +1,1159 @@
+@sybarite  
+*  tt
+- xa hoa uỷ mị
+*  dt
+- người xa hoa uỷ mị
+
+@sybaritic  
+*  tt
+- thích xa hoa hưởng lạc và uỷ mị
+
+@sybaritically
+* dt
+- xem sybarite
+ @sybaritism  
+*  dt
+- thói xa hoa uỷ mị; tính xa hoa uỷ mị
+
+@sybil   (sybil) @sycamine  
+*  dt
+- (thực vật học) cây dâu tằm
+
+@sycamore  
+*  dt
+- (thực vật học) cây sung dâu
+
+@syce  
+*  dt
+- (Anh-Ân) người giữ ngựa
+
+@sycee  
+*  dt
+- bạc nén ((cũng) sycee silver)
+
+@sycee silver
+* dt
+- bạc nén
+ @sychnocarpous  
+*  tt
+- (thực vật học) ra quả nhiều lần; lưu niên
+
+@syconium  
+*  dt
+- (thực vật học) loại quả sung
+
+@sycophancy  
+*  dt
+- thói nịnh hót, thói bợ đỡ
+- thói ăn bám
+
+@sycophant  
+*  dt
+- người nịnh hót, người bợ đỡ
+- người ăn bám
+
+@sycophantic   (sycophantical) @sycophantical   (sycophantical) @sycosis
+* dt
+- (y học) viêm nang râu
+ @sydneysider
+- người thành phố Xitni (Australia)
+ @syenite  
+*  dt
+- (địa lý,địa chất) Xienit
+
+@syenitic  
+*  tt
+- (địa lý,địa chất) (thuộc) xienit
+
+@syllabarium
+* dt
+- số nhiều syllabaria
+- sách học vần
+ @syllabary  
+*  dt
+- sách học vần
+
+@syllabi  
+*  dt,  số nhiều syllabuses,  syllabi
+- đề cương bài giảng; đề cương khoá học
+- kế hoạch học tập
+
+@syllabic  
+*  tt
+- (thuộc) âm tiết; đọc thành âm tiết
+
+@syllabically
+* dt
+- (thuộc) âm tiết; đọc thành âm tiết, trong âm tiết
+- tạo thành âm tiết (về một phụ âm tự nó tạo nên một âm tiết, không cần có nguyên âm)
+ @syllabicate   (syllabify) @syllabication   (syllabification) @syllabification   (syllabification) @syllabify   (syllabify) @syllabise
+- xem syllabize
+ @syllabize   (syllabify) @syllable  
+*  dt
+- âm tiết
+- từ, chữ; chi tiết nhỏ
+
++ not a syllable!: không được hé răng!, không được nói tí gì!
+*  ngdgt
+- đọc rõ từng âm tiết
+- (thơ ca) đọc (từng chữ, từng tên)
+
+@syllabled
+* tt
+- (tạo nên những tt ghép) có số âm tiết được nói rõ
+ @syllabub   (syllabub) @syllabus  
+*  dt,  số nhiều syllabuses,  syllabi
+- đề cương bài giảng; đề cương khoá học
+- kế hoạch học tập
+
+@sylleptic
+* tt
+- (ngôn ngữ) thuộc sự tương hợp theo nghĩa
+ @syllogise   (syllogise) @syllogism  
+*  dt
+- luận ba đoạn
+- sự suy luận, sự suy diễn; phương pháp suy luận
+- lý luận khôn ngoan; luận điệu xảo trá
+
+@syllogism
+- (logic học) tam đoạn luận
+ @syllogistic   (syllogistical) @syllogistical   (syllogistical) @syllogize   (syllogise) @sylph  
+*  dt
+- thiên thần
+- thiếu nữ thon thả mảnh mai
+
+@sylphlike  
+*  tt
+- như thiên thần
+- mảnh mai, thon thả
+
+@sylva
+- Cách viết khác : silva 
+ @sylvan   (sylvan) @sylvanite
+* dt
+- (khoáng chất) Xinvanit
+ @sylvatic
+* tt
+- thuộc rừng núi
+- tác động đến dã thú trong rừng
+
++  sylvatic diseases:những bệnh tật của dã thú
+ @sylvestral
+* tt
+- xem sylvan
+ @sylvical
+* tt
+- thuộc rừng
+ @sylviculture   (sylviculture) @sylvine
+* dt
+- (khoáng chất) Xinvin
+ @sylvite
+- Cách viết khác : sylvinite 
+ @sym-
+- xem syn-
+ @symbiont
+* dt
+- vật cộng sinh
+ @symbiosis  
+*  dt
+- (sinh vật học) sự cộng sinh
+
+@symbiotic  
+*  dt
+- (sinh vật học) cộng sinh
+
+@symbiotically
+* dt
+- cộng sinh
+ @symbol  
+*  dt
+- vật tượng trưng
+
++ white is the symbol of purity: màu trắng tượng trưng cho sự trong trắng
+- ký hiệu
+
++ chemical symbol: ký hiệu hoá học
+*  ngdgt
+- (từ hiếm,nghĩa hiếm) biểu hiện, tượng trưng
+- diễn đạt bằng tượng trưng
+
+@symbol
+- ký hiệu, dấu
+- s. of operation dấu phép toán
+- algebraic s. dấu đại số 
+- circumflex s. dấu mũ
+- improper s. dấu phi chính
+- numerical s. ký hiệu số
+- proper s. ký hiệu chân chính 
+ @symbolatry   (symbololatry) @symbolic   (symbolical) @symbolical   (symbolical) @symbolic(al)
+- (thuộc) ký hiệu
+ @symbolically
+* dt
+- tượng trưng; (thuộc) biểu tượng, được dùng làm biểu tượng, sử dụng làm biểu tượng
+ @symbolics
+* dt
+- tượng trưng học
+- thần học giáo điều
+ @symbolise   (symbolise) @symbolism  
+*  dt
+- chủ nghĩa tượng trưng
+
+@symbolism
+- (logic học) hệ ký hiệu
+ @symbolist  
+*  dt
+- người theo trường phái tượng trưng
+
+@symbolistic
+* tt
+- tượng trưng
+
++  symbolistic poetry:thơ tượng trưng
+ @symbolization  
+*  dt
+- sự tượng trưng hoá
+- sự diễn đạt bằng tượng trưng
+- sự coi (một truyện ngắn...) như là chỉ có tính chất tượng trưng
+- sự đưa chủ nghĩa tượng trưng vào
+
+@symbolize   (symbolise) @symbolize
+- (logic học) ký hiệu hoá
+ @symbology   (symbolology) @symbololatry   (symbololatry) @symbolology   (symbolology) @symmetalism
+* dt
+- chế độ tiền tệ trong đó đơn vị tiền tệ là một hợp kim từ hai kim loại (vàng, bạc...) trở lên
+ @symmetric   (symmetrical) @Symmetric
+- (Econ) Đối xứng
+ @symmetrical   (symmetrical) @symmetric(al)
+- đối xứng
+ @symmetrically
+* dt
+- đối xứng
+ @symmetrise   (symmetrise) @symmetrization  
+*  dt
+- sự làm đối xứng
+
+@symmetrization
+- sự đối xứng hoá
+ @symmetrize   (symmetrise) @symmetrize
+- đối xứng hoá
+ @symmetrophobia  
+*  dt
+- sự ghét cân đối (trong nghệ thuật)
+
+@symmetry  
+*  dt
+- sự đối xứng; tính đối xứng
+- cấu trúc cân đối
+
+@symmetry
+- [phép, tính] đối xứng
+- s. of a relation tính đối xứng của một liên hệ
+- axial s. phép đối xứng trục
+- central s. phép đối xứng qua tâm
+- hydrokinetic s. phép đối xứng thuỷ động lực
+- odd s. phép đối xứng lẻ
+- plane s. phép đối xứng phẳng
+- rotational s. (hình học) phép đối xứng quay
+- skew s. phép đối xứng lệch 
+ @sympatalous  
+*  tt
+- (thực vật học) cánh hợp (hoa)
+
+@sympathetic  
+*  tt
+- thông cảm; đồng tình
+
++ sympathetic strike: cuộc bãi công tỏ sự đồng tình, cuộc bãi công ủng hộ
+
++ sympathetic pain: sự đau lây
+- đầy tình cảm, biểu lộ tình cảm, thân ái
+
++ sympathetic heart: trái tim đầy tình cảm
+
++ sympathetic words: những lời lẽ biểu lộ tình cảm
+- (sinh vật học) giao cảm
+
++ sympathetic nerve: dây thần kinh giao cảm
+*  dt
+- (sinh vật học) dây thần kinh giao cảm; hệ giao cảm
+- người dễ xúc cảm
+
+@sympathetic ink  
+*  dt
+- mực hoá học
+
+@sympathetical
+- xem sympathetic
+ @sympathetically
+* dt
+- xem sympathetic
+ @sympathise
+* ndgt
+- có thiện cảm, tỏ cảm tình (với ai)
+- thông cảm; đồng tình, ủng hộ
+ @sympathiser
+* dt
+- người có cảm tình
+- người thông cảm; người đồng tình (với người khác)
+ @sympathize  
+*  ndgt (: with)
+- có thiện cảm, tỏ cảm tình (với ai)
+- thông cảm; đồng tình (với ai)
+
+@sympathizer  
+*  dt
+- người có cảm tình
+- người thông cảm; người đồng tình (với người khác)
+
+@sympatholytic
+* tt
+- kiềm thần kinh giao cảm
+ @sympathomimetic
+* tt
+- kích thích thần kinh giao cảm
+* dt
+- chất kích thích thần kinh giao cảm
+ @sympathy  
+*  dt
+- sự thông cảm; sự đồng tình
+
++ to enjoy the sympathy of somebody: được sự đồng tình của ai
+- sự thương cảm; mối thương cảm
+
++ to feel sympathy for somebody: thương cảm ai
+- sự đồng ý
+
+@sympatric
+* tt
+- cùng khu vực phân bố
+ @sympatrically
+* dt
+- xem sympatric
+ @sympetalous
+* tt
+- có cánh tràng liền; có cánh tràng hợp (hoa)
+ @symphonic  
+*  tt
+- giao hưởng
+
++ symphonic music: nhạc giao hưởng
+
+@symphonically
+- xem symphonic
+ @symphonious  
+*  tt
+- (từ hiếm,nghĩa hiếm) hoà âm
+
+@symphoniously
+* dt
+- xem symphonious
+ @symphonist
+* dt
+- người sáng tác nhạc giao hưởng
+- người trong ban nhạc giao hưởng
+ @symphony  
+*  dt
+- bản nhạc giao hưởng
+- khúc nhạc mở đầu (bài hát); khúc nhạc kết thúc (bài hát)
+- (từ Mỹ,nghĩa Mỹ) dàn nhạc giao hưởng
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) buổi hoà nhạc giao hưởng
+- (từ cổ,nghĩa cổ) sự hoà âm
+
+@symphony orchestra  
+*  dt
+- dàn nhạc giao hưởng
+
+@symphyseal
+- Cách viết khác : symphysial 
+ @symphysis  
+*  dt
+- (y học) sự dính màng
+
+@sympletic
+- ngẫu đối, simplectic
+ @sympodial
+* tt
+- thuộc gốc ghép
+ @symposia  
+*  dt,  số nhiều symposia
+- hội nghị chuyên đề
+- tập những bài phát biểu, tập bài báo của nhiều người viết (về một vấn đề)
+- tiệc rượu đêm (sau bữa ăn chiều, có ca nhạc, khiêu vũ ở cổ Hy lạp)
+
+@symposial  
+*  tt
+- (thuộc) hội nghị thảo luận khoa học
+
+@symposiarch  
+*  dt
+- người chủ tiệc rượu
+- người chúc rượu
+
+@symposion
+- thảo luận khoa học, đại học khoa học
+ @symposium  
+*  dt,  số nhiều symposia
+- hội nghị chuyên đề
+- tập những bài phát biểu, tập bài báo của nhiều người viết (về một vấn đề)
+- tiệc rượu đêm (sau bữa ăn chiều, có ca nhạc, khiêu vũ ở cổ Hy lạp)
+
+@symptom  
+*  dt
+- triệu chứng
+
+@symptom
+- dấu hiệu, triệu chứng
+ @symptomatic   (symptomatical) @symptomatical   (symptomatical) @symptomatologic
+* tt
+- xem symtomatology
+- thuộc triệu chứng học
+ @symptomatological
+- xem symptomatologic
+ @symptomatology  
+*  dt
+- (y học) triệu chứng học
+
+@syn-
+- tiền tố có nghĩa là : cùng với; đồng : sympathy đồng tình
+- đồng thời : synaesthesia cảm giác kết hợp
+- tiền tố có nghĩa là : cùng với; đồng : sympathy đồng tình
+- đồng thời : synaesthesia cảm giác kết hợp
+ @synaeresis   (synaeresis) @synaesthesia
+* dt
+- cảm giác kèm; kết hợp
+ @synagogal
+* tt
+- thuộc giáo đoàn Do Thái
+- thuộc giáo đường Do Thái
+ @synagogical  
+*  tt
+- (thuộc) hội đạo Do thái
+- (thuộc) giáo đường (Do thái)
+
+@synagogue  
+*  dt
+- hội đạo Do thái
+- giáo đường Do thái
+
+@synallagmatic  
+*  tt
+- ràng buộc đôi bên (hiệp ước)
+
+@synaloepha
+- Cách viết khác : synalepha 
+ @synapse  
+*  dt
+- (giải phẫu) khớp thần kinh ((cũng) synapsis)
+
+@synapses  
+*  dt,  số nhiều synapses
+- (sinh vật học) kỳ tiếp hợp (trong phân chia tế bào)
+- (như) synapse
+
+@synapsis  
+*  dt,  số nhiều synapses
+- (sinh vật học) kỳ tiếp hợp (trong phân chia tế bào)
+- (như) synapse
+
+@synaptic
+* tt
+- (sinh học) thuộc kỳ tiếp hợp (trong phân chia tế bào)
+ @synaptically
+* dt
+- xem synaptic
+ @synarthrosis  
+*  dt
+- (giải phẫu) khớp bất động
+
+@sync
+- Cách viết khác : synch 
+ @syncarp  
+*  dt
+- (thực vật học) quả tụ
+
+@syncarpium
+* dt
+- xem syncarop
+ @syncarpous  
+*  tt
+- (thực vật học) (thuộc) quả tụ
+- có quả tụ
+
+@syncarpy
+* dt
+- tính quả phụ
+ @synchro
+* dt
+- động cơ điện đồng bộ; máy phát điện đồng bộ
+- (kỹ thuật) sensyn
+ @synchro-
+- hình thái ghép có nghĩa đồng thời : synchronism tính đồng thời
+- hình thái ghép có nghĩa đồng thời : synchronism tính đồng thời
+ @synchrocyclotron  
+*  dt
+- (vật lý) Xincrôxinclôtron
+
+@synchroflash
+* tt
+- chụp đồng thời với lúc bắn
+ @synchromesh  
+*  dt
+- (kỹ thuật) bộ đồng bộ
+
+@synchronic  
+*  tt
+- (ngôn ngữ học) đồng đại
+- (như) synchronous
+
+@synchronisation
+- Cách viết khác : synchronization  
+ @synchronise   (synchronise) @synchronism  
+*  dt
+- tính chất đồng thời; tính đồng bộ
+
+@synchronism
+- tính đồng bộ
+ @synchronistic
+* tt
+- thuộc tính đồng bộ; tính đồng thời; (ngôn ngữ) tính đồng đại
+ @synchronization  
+*  dt
+- sự đồng bộ hoá
+
+@synchronization
+- sự đồng bộ hoá
+ @synchronize   (synchronise) @synchronize
+- đồng bộ
+ @synchronized
+- đồng bộ
+ @synchronizer  
+*  dt
+- máy làm đồng bộ
+
+@synchronizer
+- máy đồng bộ
+ @synchronizing
+* dt
+- sự làm cho đồng bộ
+ @synchronoscope   (synchroscope) @synchronous  
+*  tt
+- đồng thời; đồng bộ ((cũng) synchronic)
+
+@synchronous
+- đồng bộ
+ @synchrony
+* dt
+- sự đồng thời; cách xử lý đồng thời
+- (ngôn ngữ) sự đồng đại
+ @synchroreceiver
+* dt
+- máy thu đồng bộ
+ @synchroscope   (synchroscope) @synchro-transmitter
+* dt
+- máy phát đồng bộ
+ @synchrotron  
+*  dt
+- (vật lý) Xincrôtron
+
+@synclinal  
+*  tt
+- (địa lý,địa chất) (thuộc) nếp lõm
+
+@syncline
+* dt
+- (địa lý) nếp lõm; nếp uốn lõm
+ @synclinorium
+* dt số nhiều synclinoria
+- (địa lý) nếp uốn phức (gồm) một loạt nếp (uốn lồi và lõm)
+ @syncopate  
+*  ngdgt
+- rút bỏ âm giữa (của từ)
+- (âm nhạc) nhấn lệch
+
+@syncopation  
+*  dt
+- sự rút bỏ âm giữa (của từ)
+- (âm nhạc) sự nhấn lệch
+
+@syncope  
+*  dt
+- (ngôn ngữ học) hiện tượng rụng âm giữa (của từ)
+- (y học) sự ngất
+- (âm nhạc) nhấn lệch
+
+@syncopic   (syncoptic) @syncoptic   (syncoptic) @syncretic  
+*  tt
+- (thuộc) thuyết hổ lốn
+
+@syncretise
+* ngdgt
+- xem syncretize
+ @syncretism  
+*  dt
+- (triết học) thuyết hổ lốn
+
+@syncretist  
+*  dt
+- người theo thuyết hổ lốn
+
+@syncretize
+* ngdgt
+- hợp nhất; dung hợp
+ @syncytial
+* tt
+- xem syncytium
+- (sinh học) thuộc thể nguyên hình; hợp bào; hỗn bào
+ @syncytium
+* dt
+- (sinh học) thể nguyên hình; hợp bào; hỗn bào
+ @syndactyl   (syndactylous) @syndactylism  
+*  dt
+- tình trạng dính ngón
+- (y học) tật dính ngón
+
+@syndactyll
+* tt
+- xem syndactyl
+ @syndactylous   (syndactylous) @syndactyly
+* dt
+- tật liền ngón; dính ngón
+ @syndesis
+* dt
+- (sinh học) sự ghép; gióng đôi
+ @syndesmosis  
+*  dt
+- (giải phẫu) sự khớp bằng dây chằng
+- (y học) chứng hư dây chằng
+
+@syndesmotic  
+*  tt
+- khớp bằng dây chằng
+- (y học) hư dây chằng
+
+@syndetic  
+*  tt
+- (ngôn ngữ học) (thuộc) liên từ; dùng liên từ
+
+@syndetically
+* dt
+- xem syndetic
+ @syndic  
+*  dt
+- quan chức, viên chức
+- uỷ viên ban đặc trách (cạnh ban giám hiệu, ở đại học Căm-brít)
+
+@syndical
+* tt
+- thuộc ủy viên (hội đồng) trường đại học hay một số tổ chức
+- thuộc quan chức
+- thuộc công đoàn chủ nghĩa
+ @syndicalism  
+*  dt
+- phong trào công đoàn
+- chủ nghĩa công đoàn
+
+@syndicalist  
+*  dt
+- người tham gia phong trào công đoàn
+- người theo chủ nghĩa công đoàn
+
+@syndicate  
+*  dt
+- Xanhđica, công đoàn, nghiệp đoàn
+- tổ chức cung cấp bài báo (cho một số báo để cùng đăng một lúc)
+- nhóm uỷ viên ban đặc trách (đại học Căm-brít)
+- nhóm người thuê cung chỗ săn, nhóm người thuê chung chỗ câu
+*  ngdgt
+- tổ chức thành công đoàn, tổ chức thành nghiệp đoàn
+- cung cấp (bài báo, tin tức...) qua một tổ chức chung (cho một số báo để đăng cùng một lúc)
+
+@Syndicate loan
+- (Econ) Cho vay liên hiệp.
+ @syndication  
+*  dt
+- sự tổ chức thành công đoàn, sự tổ chức thành nghiệp đoàn
+- sự cung cấp (bài báo, tin tức...) qua một tổ chức chung (cho mọt số báo để cùng đăng một lúc)
+
+@syndrome  
+*  dt
+- (y học) hội chứng
+
+@syndromic
+* tt
+- (y học) thuộc hội chứng
+ @syne
+* dt
+- (Scotland) từ lúc đó
+* giới từ,  liên từ
+- (Scotland) từ lúc đó
+ @synecdoche  
+*  dt
+- (ngôn ngữ học); (văn học) phép cải dung
+
+@synecdochic
+* tt
+- thuộc phép cải dung
+ @synecdochical
+* tt
+- xem synecdochic
+ @synecdochically
+* dt
+- theo phép cải dung
+ @synecologic
+* dt
+- thuộc sinh thái học quần thể
+ @synecological
+* tt
+- xem synecologic
+ @synecology
+* dt
+- sinh thái học quần thể
+ @syneresis   (synaeresis) @synergic
+* tt
+- hiệp trợ; hiệp lực
+
++  synergic muscles:các cơ hiệp trợ
+- điều phối; đồng vận
+ @synergism
+* dt
+- hiện tượng hiệp trợ; hiệp lực
+- hiện tượng điều phối; đồng vận
+ @synergist
+* dt
+- (hoá học) chất tăng cường tác dụng (cho một chất khác); chất hỗ trợ
+ @synergistic
+* tt
+- xem synergic
+ @synergy
+* dt
+- tính hiệp trợ, hiệp lực
+- tính điều phối, đồng vận
+ @synesis
+* dt số nhiều syneses
+- (ngôn ngữ) sự tương hợp ngữ pháp theo nghĩa (không theo cú pháp)
+ @synesthesia
+* dt
+- xem synaesthesia
+ @syngamy
+* dt
+- tính hợp giao; hợp giao tử
+- sự sinh sản hữu tính
+ @syngenesis  
+*  dt
+- (sinh vật học) sự sinh sản hữu tính
+- nguồn gốc chung
+- quan hệ dòng máu
+- (địa lý,địa chất) sự đồng sinh
+
+@syngenetic
+* tt
+- sinh sản hữu tính
+- quan hệ dòng máu; huyết thống
+ @synizesis
+* dt
+- (ngôn ngữ) sự hợp nhất giữa hai âm tiết thành một
+ @synkaryon
+* dt
+- (sinh học) nhân hợp; nhân hợp tử
+ @synod  
+*  dt
+- hội nghị tôn giáo
+- cuộc họp bàn
+
+@synodal   (synodic) @synodic   (synodic) @synodic
+- (al) tv, giao hội (của hành tinh với mặt trời)
+ @synodical   (synodic) @synoecete
+* dt
+- sâu bọ sống yên ổn trong tổ kiến
+ @synoecious
+* tt
+- có bộ phận đực và cái trong cùng một hoa
+ @synoekete
+* dt
+- xem synoecete
+ @synonym  
+*  dt
+- từ đồng nghĩa
+
+@synonymic  
+*  tt
+- (thuộc) từ đồng nghĩa, dùng từ đồng nghĩa
+
+@synonymical
+* tt
+- đồng nghĩa
+ @synonymically
+* dt
+- xem synonymical
+ @synonymise   (synonymise) @synonymist
+* dt
+- người nghiên cứu từ đồng nghĩa
+ @synonymity  
+*  dt
+- tính đồng nghĩa
+
+@synonymize   (synonymise) @synonymous  
+*  tt
+- đồng nghĩa (với)
+
+@synonymously
+* dt
+- xem synonymous
+ @synonymy  
+*  dt
+- tính đồng nghĩa
+- sự dùng từ đồng nghĩa để nhấn mạnh
+- bảng từ đồng nghĩa
+- bài khảo luận về từ đồng nghĩa
+
+@synopses  
+*  dt,  số nhiều synopses
+- bảng tóm tắt, bảng toát yếu
+
+@synopsis  
+*  dt,  số nhiều synopses
+- bảng tóm tắt, bảng toát yếu
+
+@synoptic  
+*  tt
+- khái quát, tóm tắt
+- (thuộc) sách Phúc âm tóm tắt
+*  dt: (synoptist) 
+@synoptical  
+*  tt
+- khái quát, tóm tắt
+
+@synoptically
+* dt
+- xem synoptical
+ @synoptist  
+*  tt
+- khái quát, tóm tắt
+- (thuộc) sách Phúc âm tóm tắt
+*  dt: (synoptist) 
+@synovia  
+*  dt
+- (giải phẫu) hoạt dịch
+
+@synovial  
+*  tt
+- (giải phẫu) (thuộc) hoạt dịch
+
+@synovitis  
+*  dt
+- (y học) viêm màng hoạt dịch
+
+@syntactic  
+*  tt
+- (ngôn ngữ học) (thuộc) cú pháp
+
+@syntactical
+- tính chất cú pháp
+ @syntactically
+* dt
+- (ngôn ngữ học) (thuộc) cú pháp
+
++  a syntactically complex written style:một văn phong phức tạp về cú pháp
+ @syntactics
+* dt
+- cú pháp học
+ @syntagm
+* dt
+- ngữ đoạn
+ @syntax  
+*  dt
+- (ngôn ngữ học) cú pháp
+
+@syntheses  
+*  dt,  số nhiều syntheses
+- sự tổng hợp
+- xu hướng tổng hợp (của một ngôn ngữ)
+
+@synthesis  
+*  dt,  số nhiều syntheses
+- sự tổng hợp
+- xu hướng tổng hợp (của một ngôn ngữ)
+
+@synthesis
+- [phép, sự] tổng hợp
+- logical s. tổng hợp lôgíc 
+ @synthesise   (synthesise) @synthesiser
+- Cách viết khác : synthesizer  
+ @synthesist   (synthetist) @synthesize   (synthesise) @synthesize
+- tổng hợp
+ @synthesizer
+- Cách viết khác : synthesiser 
+ @synthesizer
+- (máy tính) bộ tổng hợp
+ @synthetic   (synthetical) @synthetical   (synthetical) @synthetic(al)
+- tổng hợp
+ @synthetise   (synthesise) @synthetist   (synthetist) @synthetize   (synthesise) @syntonization
+* dt
+- sự điều hưởng
+ @syntonize
+* ngdgt
+- điều hưởng
+ @syntony
+* ngdgt
+- sự điều hưởng
+
++  exact syntony:sự điều hưởng chính xác
+ @syphilis  
+*  dt
+- (y học) bệnh giang mai
+
+@syphilitic   (syphilous) @syphilize  
+*  ngdgt
+- truyền bệnh giang mai
+
+@syphiloid  
+*  tt
+- dạng giang mai
+
+@syphilologist
+* dt
+- người nghiên cứu bệnh giang mai
+ @syphilology  
+*  dt
+- (y học) khoa nghiên cứu bệnh giang mai
+
+@syphilous   (syphilous) @syphon   (syphon) @syren   (syren) @syriac  
+*  dt
+- tiếng Xy-ri cổ
+
+@syrian  
+*  tt
+- (thuộc) Xy-ri
+*  dt
+- người Xy-ri
+
+@syringa  
+*  dt
+- (thực vật học) cây hoa đình ((cũng) seringa)
+
+@syringe  
+*  dt
+- ống tiêm
+- vòi phụt nước (chữa cháy, tưới vườn...); bình bơm (nước hoa...)
+*  ngdgt
+- tiêm (thuốc)
+- thụt (nước tưới cây...)
+
+@syringeal  
+*  tt
+- (động vật học) (thuộc) minh quản
+
+@syringes  
+*  dt,  số nhiều syrinxes,  syringes
+- (âm nhạc) cái khèn
+- (khảo cổ học) đường hầm (trong lăng các vua Ai-cập)
+- (giải phẫu) vòi ớt-tát
+- (động vật học) minh quản (chim)
+- (giải phẫu) chỗ rò, đường rò
+
+@syringomyelia
+* dt
+- (y học) bệnh rỗng tủy sốn
+ @syringomyelic
+* tt
+- rỗng tủy sống
+ @syringotomy  
+*  dt
+- thủ thuật mở đường rò
+
+@syrinx  
+*  dt,  số nhiều syrinxes,  syringes
+- (âm nhạc) cái khèn
+- (khảo cổ học) đường hầm (trong lăng các vua Ai-cập)
+- (giải phẫu) vòi ớt-tát
+- (động vật học) minh quản (chim)
+- (giải phẫu) chỗ rò, đường rò
+
+@syrup   (syrup) @syrupy
+* tt
+- (thuộc) xirô, như xirô; ngọt
+- quá tình cảm; ủy mị; ngọt ngào (người)
+
++  a syrupy love-story:một câu chuyện tình yêu ủy mị
+ @sysop
+- Từ tắt của SYStem OPerator
+ @systaltic  
+*  tt
+- co bóp
+
+@system  
+*  dt
+- hệ thống; chế độ
+
++ system of philosophy: hệ thống triết học
+
++ river system: hệ thống sông ngòi
+
++ nervous system: hệ thần kinh
+
++ socialist system: chế độ xã hội chủ nghĩa
+- phương pháp
+
++ to work with system: làm việc có phương pháp
+- (the system) cơ thể
+
++ medicine has passed into the system: thuốc đã ngấm vào cơ thể
+- hệ thống phân loại; sự phân loại
+
++ natural system: hệ thống phân loại tự nhiên
+
+@system
+- hệ, hệ thống
+- s. of algebraic form hệ dạng đại số
+- s. of equations hệ phương trình
+- s. of imprimitivity (đại số) miền không nguyên thuỷ
+- s. of logarithm hệ lôga
+- s. of nets hệ lưới
+- s. of numeration hệ đếm . of reference (cơ học) hệ qui chiếu; (hình học) hệ toạ độ 
+- s. of representatives hệ đại biểu
+- s. of transitivity (đại số) hệ bắc cầu
+- accounting s. hệ thống đếm
+- adjoint s. hệ phó
+- algebraic s. (đại số) hệ đại số
+- autonomous s. (điều khiển học) hệ ôtonom
+- axiomatic s. (logic học) hệ tiên đề
+- closed s. hệ đóng
+- complete orthogonal s. hệ trực giao đầy đủ
+- computing s. hệ tính toán
+- connected s.s hệ liên thông 
+- conservative s. hệ bảo toàn
+- contravariant s. hệ phân biến
+- control s. hệ điều khiển
+- coordinate s. hệ toạ độ
+- covariant s. hệ họp biến
+- decimal s. hệ thập phân
+- direct s. hệ thuận
+- dissipation s. hệ hao tán
+- distribution s. hệ phân phối
+- duodecimal s. hệ thập nhị phân
+- dyadic s. hệ nhị phân
+- dynamic(al) s. hệ động lực 
+- feed s. (máy tính) hệ nguồn
+- feedblack s. hệ có liên hệ ngược
+- formal s. (logic học) hệ hình thức
+- hereditary s. hệ di truyền
+- hyperbolic coordinate s. hệ toạ độ hipebolic
+- hypercomplex s. hệ siêu phức
+- identifiable s. (thống kê) hệ đồng nhất được (hệ thống cho phép ước lượng
+- riêng từng tham số)
+- indexed s. hệ chỉ số hoá
+- inertial s. hệ quán tính
+- interlock s. hệ thống cản
+- invariant s. hệ bất biến
+- inverse s. hệ nghịch
+- inverse mapping s. hệ ánh xạ ngược
+- isothermal s. hệ đẳng nhiệt
+- left-handed coordinate s. hệ toạ độ trái
+- linear s. hệ tuyến tính
+- linearly independent s. (giải tích) hệ độc lập tuyến tính
+- local s. hệ địa phương
+- lumped-parameter s. hệ các tham số tập trung
+- memory s. (máy tính) hệ nhớ
+- metering s. hệ thống đo
+- MKS s. of units hệ thống đơn vị MKS
+- modal s. hệ thống mốt
+- modular s. hệ môđula
+- multistable s. hệ đa ổn định
+- non-convervative s. hệ không bảo toàn
+- non-degenerate s. hệ không suy biến
+- nonlinear s. hệ phi tuyến
+- null s. (hình học) hệ không
+- number s. hệ thống số
+- octal s. hệ cơ số tám, hệ bát phân
+- one-address s. hệ một địa chỉ
+- open s. hệ mở
+- orthogonal s. hệ trực giao
+- orthonormal s. hệ trực chuẩn
+- passive s. hệ bị động
+- planetary s. (thiên văn) hệ mặt trời
+- polar s. hệ cực
+- power s. hệ năng lượng
+- prime s. hệ nguyên tố
+- reading s. hệ đọc
+- reducible s. (điều khiển học) hệ khả quy
+- regulating s. (điều khiển học) hệ điều chỉnh
+- representative s. (đại số) hệ biểu diễn
+- right-handed s. hệ thuận
+- self-adjustable s. hệ tự điều chỉnh
+- self-excite s. hệ tự kích thích
+- self-organizing s. hệ tự tổ chức
+- self-oscillating s. hệ tự dao động
+- syntactical s. hệ cú pháp
+- tally s. (toán kinh tế) hệ thống bám chịu
+- translating s. hệ thống [dịch, biến đổi]
+- transmitting s. (điều khiển học) hệ thống truyền
+- ultrastable s. hệ siêu ổn định 
+ @System estimator
+- (Econ) Ước lượng hệ thống.
+: Còn gọi là ước lượng với đầy đủ thông tin. Một ước lượng dùng để ước lượng toàn bộ các tham số trong một hệ phương trình đồng thời cùng một lúc, và có tính đến sự tương quan giữa các số dư của các phương trình khác nhau.
+ @systematic   (systematical) @systematic
+- có hệ thống
+ @systematic
+- có hệ thống
+ @systematical   (systematical) @systematically
+* dt
+- xem systematic
+ @systematics  
+*  dt,  số nhiều dùng như số ít
+- phân loại học
+- phương pháp phân loại
+- sự phân loại
+
+@systematise   (systematise) @systematism  
+*  dt
+- sự hệ thống hoá; quá trình hệ thóng hoá
+- xu hướng hệ thống hoá
+
+@systematist  
+*  dt
+- người làm việc theo phương pháp khoa học
+
+@systematization   (systemization) @systematization
+- sự hệ thống hoá
+ @systematize   (systematise) @systematize
+- hệ thống hoá
+ @systematizer  
+*  dt
+- người hệ thống hoá
+
+@systematology
+* dt
+- thuyết vũ trụ được tổ chức thành hệ thống
+ @systemic  
+*  tt
+- (sinh vật học) (thuộc) cơ thể nói chung
+- ngấm vào qua rễ, ngấm vào qua mầm (thuốc trừ sâu)
+
+@systemization   (systemization) @systemize   (systematise) @systemless  
+*  tt
+- không có hệ thống
+- không có phương pháp
+
+@systole  
+*  dt
+- (sinh vật học) tâm thu
+
+@systolic  
+*  tt
+- (sinh vật học) (thuộc) tâm thu
+
+@systyle  
+*  tt
+- (kiến trúc) có hàng cột gần nhau
+
+@systylous  
+*  tt
+- (thực vật học) hợp vòi (hoa)
+
+@syzygy  
+*  dt
+- (thiên văn học) ngày sóc vọng
+
+@syzygy
+- (đại số) hội xung; (thiên văn) sóc vọng (tuần trăng non và tuần trăng dày)
+ @

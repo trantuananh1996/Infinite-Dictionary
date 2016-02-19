@@ -1,0 +1,588 @@
+@id  
+*  dt
+- (sinh vật học) ít (đơn vị chất giống)
+- (triết học) xung động bản năng
+
+@id.  
+*  dt,  (viết tắt) id.
+- cũng tác giả ấy, cũng cuốn sách ấy; cũng từ ấy
+!idem quod
+- ((viết tắt) i.q.) cũng như
+*  dt,  (viết tắt) id.
+- như trên
+
+@id est   (i.e) @IDA
+- (Econ) Hiệp hội Phát triển quốc tế.
+: Xem INTERNATIONAL  DEVELOPMENT ASSOCIATION.
+ @iddd
+* (viết tắt)
+- hệ thống gọi điện thoại đường dài quốc tế trực tiếp (international direct distance dialling)
+- viết tắt
+- hệ thống gọi điện thoại đường dài quốc tế trực tiếp (international direct distance dialling)
+ @ide  
+*  dt
+- (động vật học) cá chép đỏ
+
+@idea  
+*  dt
+- quan niệm, tư tưởng, ý tưởng, ý nghĩ, ý kiến
+
++ a fixed idea: quan niệm cố định
+
++ the young idea: lối nghĩ trẻ thơ, trí óc trẻ thơ
+- ý niệm, khái niệm, sự hiểu biết qua
+
++ we hadn't the slightest idea of it: chúng tôi không có một ý niệm về cái đó, chúng tôi không biết một chút gì về điều đó
+
++ to give an idea of something: cho một ý niệm về vấn đề gì
+- sự hình dung, sự tưởng tượng; điều tưởng tượng
+
++ I had no idea you could do it: tôi không hình dung được anh có thể làm điều đó
+- ý định, kế hoạch hành động, ý đồ
+
++ what's the big idea?:(mỉa mai) cậu nuôi ý định điên rồ gì trong đầu thế?
+
++ man of ideas: người lắm mưu nhiều kế, người có tài xoay
+- (triết học) mẫu mực lý tưởng (theo Pla-ton); ý niệm của lý trí (theo Căng); đối tượng trực tiếp của nhận thức (theo Đề-các-tơ,  Lốc)
+
+@idea
+- (logic học) khái niệm; tư tưởng; ý
+ @idea man  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người có nhiều sáng kiến
+
+@idea'd   (ideaed) @ideaed   (ideaed) @ideaful  
+*  tt
+- có nhiều ý kiến
+
+@ideal  
+*  tt
+- (thuộc) quan niệm, (thuộc) tư tưởng
+- chỉ có trong ý nghĩ, chỉ có trong trí tưởng tượng, tưởng tượng
+- lý tưởng
+- (triết học) (thuộc) mẫu mực lý tưởng (theo Pla-ton)
+- (từ Mỹ,nghĩa Mỹ),  (triết học) duy tâm
+*  dt
+- lý tưởng
+- người lý tưởng; vật lý tưởng
+- cái tinh thần; điều chỉ có trong tâm trí
+- (toán học) Iddêan
+
++ ideal product: tích iddêan
+
+@ideal
+- (đại số) iđêan; lý tưởng
+- admissible i. iđêan chấp nhận được
+- annihilation i. iđêan làm không 
+- contracted i. iđêan co
+- distinguished i. iđêan được phân biệt, iđêan môđunla
+- diviorless i. iđêan không có ước
+- dual i. iđêan đối ngẫu 
+- einartig i. iđêan đơn trị
+- fractinal i. iđêan phân thức
+- general solution iđêan các lời giải tổng quát
+- homogeneous i. iđêan thuần nhất
+- integral i. iđêan nguyên
+- left i. iđêan bên trái
+- maximal i. iđêan cực trị
+- modular i. iđêan môđula
+- neutral i. iđêan trung hoà
+- nilpotent i. iđêan luỹ linh
+- non-nil i. iđêan khác không
+- non-trivial proper i. iđêan riêng không tầm thường
+- order i. (of an elemnet) iđêan cấp của một phần tử
+- primary i. iđêan nguyên sơ
+- primitive i. iđêan nguyên thuỷ
+- prime i. iđêan nguyên tố
+- proper i. iđêan riêng
+- radical i. iđêan gốc
+- ringt i. iđêan bên phải
+- secondary i. iđêan thứ cấp
+- semi-prime i. iđêan nửa nguyên tố
+- singular-solution i. iđêan các lời giải kỳ dị
+- tertiary i. iđêan thứ ba
+- two-sided i. iđêan hai phía
+- unit i. iđêan đơn vị
+- unmixed i. iđêan không hỗn tạp
+- valuation i. iđêan định giá
+- zero i. iđêan không 
+ @ideal point  
+*  dt
+- (toán học) điểm lý tưởng
+
+@idealess
+- xem idea
+ @idealisation
+* dt
+- sự lý tưởng hoá
+ @idealise   (idealise) @idealism  
+*  dt
+- (triết học) chủ nghĩa duy tâm
+- chủ nghĩa lý tưởng
+
+@idealist  
+*  dt
+- (triết học) người duy tâm
+- người hay lý tưởng hoá;(mỉa mai) người mơ mộng không thực tế
+
+@idealistic  
+*  tt
+- duy tâm
+
+@idealistically
+- xem idealistic
+ @ideality  
+*  dt
+- tính lý tưởng
+- năng lực tưởng tượng
+- (số nhiều) điều chỉ có trong tâm trí; cái lý tưởng (không có trong thực tế)
+- (triết học) sự chỉ ở trong lý tưởng
+
+@idealization  
+*  dt
+- sự lý tưởng hoá
+
+@idealize   (idealise) @idealize
+- lý tưởng hoá
+ @idealizer  
+*  dt
+- người lý tưởng hoá
+
+@ideally  
+*  dt
+- lý tưởng, đúng như lý tưởng
+- theo lý tưởng; trong lý tưởng
+
+@idealzed
+- được lý tưởng hoá
+ @ideamonger  
+*  dt
+- (thông tục) người gieo rắc ý kiến
+
+@ideate  
+*  dgt
+- tưởng tượng, quan niệm, nghĩ ra, có ý nghĩ về
+
+@ideation  
+*  dt
+- sự tưởng tượng, sự quan niệm, sự nghĩ ra
+- sự tạo thành ý nghĩ, sự tạo thành quan niệm, sự tạo thành tư tưởng
+
+@ideational  
+*  tt
+- (thuộc) sự tưởng tượng, (thuộc) sự quan niệm
+- (thuộc) sự tạo thành ý nghĩ, (thuộc) sự tạo thành quan niệm, (thuộc) sự tạo thành tư tưởng
+
+@idem  
+*  dt,  (viết tắt) id.
+- cũng tác giả ấy, cũng cuốn sách ấy; cũng từ ấy
+!idem quod
+- ((viết tắt) i.q.) cũng như
+*  dt,  (viết tắt) id.
+- như trên
+
+@idem
+- cùng chữ ấy, như trên
+ @idemfactor
+- (vật lí) nhân tử luỹ đẳng
+ @idempotence
+- tính lũy đẳng
+ @idempotent
+* tt
+- (toán học) (thuộc ma trận) không thay đổi giá trị (sau khi tự nó nhân lên)
+* dt
+- số lượng toán học không thay đổi giá trị
+ @idempotent
+- luỹ đẳng
+ @identic  
+*  dt
+- (ngoại giao) identic note công hàm tư tưởng (do nhiều nước cùng gửi cho một nước)
+*  tt: (identical) @identical  
+*  dt
+- (ngoại giao) identic note công hàm tư tưởng (do nhiều nước cùng gửi cho một nước)
+*  tt: (identical) @identical
+- đồng nhất
+ @identical twins
+* dt
+- con sinh đôi giống nhau như đúc
+ @identically
+* dt
+- tương tự nhau, y hệt nhau
+ @identically
+- một cách đồng nhất
+ @identicalness
+- xem identical
+ @identifiabbolity
+- tính có thể đồng nhất được; (thống kê) khả năng đánh giá các tham số
+- riêng lẻ
+ @identifiable  
+*  tt
+- có thể làm thành đồng nhất, có thể coi như nhau
+- có thể nhận ra, có thể nhận biết
+
+@identifiable
+- có thể đồng nhất được
+ @identifiableness  
+*  dt
+- tính có thể làm thành đồng nhất, tính có thể coi như nhau
+- tính có thể nhận ra, tính có thể nhận biết
+
+@identifiably
+- xem identify
+ @identification  
+*  dt
+- sự đồng nhất hoá, sự làm thành đồng nhất
+- sự nhận ra, sự nhận biết sự nhận diện; sự nhận dạng; nét để nhận ra, nét để nhận biết, nét để nhận diện, nét để nhận dạng (người nào, vật gì)
+- sự phát hiện ra, sự nhận diện ra
+
++ identification of enemy units: sự phát hiện ra những đơn vị địch
+- sự gắn bó chặt chẽ với; sự gia nhập, sự dự vào
+
++ identification with the party: sự gắn bó chặt chẽ với đảng
+
++ identification with the student movenment: sự gia nhập phong trào học sinh
+
+@identification
+- [sự, phép] đồng nhất; (điều khiển học) sự nhận ra; ký hiệu
+- coded i. ký hiệu mã hoá
+- signal i. sự nhận ra ký hiệu 
+ @identification disk   (identification_disk) @identification parade
+* dt
+- cuộc xếp hàng để nhận diện kẻ phạm tội
+ @Identification problem
+- (Econ) Bài toán nhận dạng.
+: Bài toán kinh tế lượng nảy sinh trong quá trình ước lượng các tham số của các phương trình đồng thời.
+ @identification tag  
+*  dt
+- (quân sự) thẻ căn cước
+
+@identifier
+- xem identify
+ @identify  
+*  ngdgt
+- đồng nhất hoá, coi như nhau
+- nhận ra, làm cho nhận ra, nhận biết; nhận diện, nhận dạng
+
++ to identify oneself with: gắn bó chặt chẽ với, gắn liền tên tuổi mình với, gắn liền vận mệnh mình với
+
++ to identify oneself with a party: gắn bó chặt chẽ với một đảng
+*  ndgt (: with)
+- đồng nhất với, đồng cảm với
+
++ to identify with the hero of the novel: đồng cảm với nhân vật chính trong cuốn tiểu thuyết
+
+@identify
+- đồng nhất hoá, nhận ra
+ @identikit
+* dt
+- <pháp> hình vẽ nhận dạng theo sự mô tả của các nhân chứng
+ @identity  
+*  dt
+- tính đồng nhất; sự giống hệt
+
++ a case of mistaken identity: trường hợp nhầm lẫn hai người vì giống hệt
+- cá tính, đặc tính; nét để nhận biết; nét để nhận dạng, nét để nhận diện (của người nào, vật gì...)
+- (toán học) đồng nhất thức
+
+@Identity
+- (Econ) Đồng nhất thức.
+: Một phương trình đúng theo định nghĩa hay có tác dụng xác định một biến nào đó.
+ @identity
+- đồng nhất thức
+- parallelogram i. đồng nhất thức bình hành 
+- polynomial i. đồng nhất thức đa thức
+- trigonometrical i. đồng nhất thức lượng giác 
+ @identity card  
+*  dt
+- giấy chứng minh, thẻ căn cước
+
+@identity disk   (identification_disk) @Identity matrix
+- (Econ) Ma trận đơn vị.
+: Thường ký hiệu là I. Là một ma trận có các phần tử nằm trên đường chéo bằng 1 còn các phần tử nằm ngoài đường chéo bằng 0.
+ @ideogram   (ideograph) @ideogrammatic
+- xem ideogram
+ @ideogrammatically
+- xem ideogram
+ @ideograph   (ideograph) @ideographic   (ideographical) @ideographical   (ideographical) @ideographically
+- xem ideograph
+ @ideography  
+*  dt
+- sự dùng chữ viết ghi ý
+- khoa nghiên cứu chữ viết ghi ý
+
+@ideologic   (ideological) @ideological   (ideological) @ideologically
+* dt
+- về ý thức hệ
+ @ideologist  
+*  dt
+- nhà tư tưởng
+- người không tư tưởng
+- nhà lý thuyết, nhà lý luận (của một hệ thống tư tưởng)
+
+@ideologue
+* dt
+- nhà lý luận; người có những ý nghĩ hư ảo, không thực tế
+- người chủ trương một lý thuyết nào đó; nhà tư tưởng
+ @ideology  
+*  dt
+- sự nghiên cứu tư tưởng
+- tư tưởng, hệ tư tưởng (của một giai cấp...)
+
++  Marxist ideology: tư tưởng Mác-xít
+- sự mơ tưởng, sự mộng tưởng
+
+@ides
+* dt
+- ngày 15 tháng Ba,  Năm,  Sáu hoặc tháng Mười (theo lịch La Mã cổ)
+ @idioblast
+* dt
+- (sinh học) dị bào
+ @idioblastic
+* tt
+- thuộc dị bào
+ @idiocrasy   (idiocrasy) @idiocy  
+*  dt
+- tính ngu si, tính ngu ngốc
+- hành động ngu si; lời nói ngu si
+- (y học) chứng si
+
+@idioglossia  
+*  dt
+- tiếng nói riêng (của một nhóm trẻ em thân nhau)
+- (y học) tật nói ngọng
+
+@idiograph  
+*  dt
+- dấu đặc biệt
+- chữ ký
+- nhãn hiệu
+
+@idiolect
+* dt
+- vốn từ vựng mà một người biết và sử dụng
+ @idiolectal
+- xem idiolect
+ @idiolectic
+- xem idiolect
+ @idiom  
+*  dt
+- thành ngữ
+- đặc ngữ
+- cách biểu diễn, cách diễn đạt (của một nhà văn...)
+
++ Shakespeare's idiom: cách diễn đạt của Sếch-xpia
+
+@idiomatic   (idiomatical) @idiomatical   (idiomatical) @idiomatically
+* dt
+- phù hợp với phong cách bản ngữ
+ @idiomaticalness   (idiomaticalness) @idiomaticity   (idiomaticalness) @idiomorphic  
+*  tt
+- có hình dạng riêng
+- (hoá học) tự hình
+
+@idiomorphism  
+*  dt
+- sự có hình dạng riêng
+- (hoá học) tính tự hình
+
+@idiopathic   (idiopathical) @idiopathical   (idiopathical) @idiopathically
+- xem idiopathic
+ @idiopathy  
+*  dt
+- (y học) bệnh tự phát
+
+@idiophone  
+*  dt
+- nhạc khí bằng chất tự vang
+
+@idiophonic  
+*  tt
+- (thuộc) nhạc khí bằng chất tự vang
+
+@idioplasm  
+*  dt
+- (sinh vật học) chất giống, chủng chất
+
+@idioplasmatic   (idioplasmic) @idioplasmic   (idioplasmic) @idiosyncrasy   (idiocrasy) @idiosyncratic  
+*  tt
+- (thuộc) đặc tính, (thuộc) tư chất, (thuộc) khí chất; do đặc tính, do tư chất, do khí chất
+- (thuộc) phong cách riêng; do phong cách riêng (của một tác giả)
+- (y học) (thuộc) đặc ưng; do đặc ứng
+
+@Idiosyncratic exchange
+- (Econ) Trao đổi tính chất riêng; trao đổi tư chất.
+: Bản chất độc đáo của các nhiệm vụ và do vậy các kỹ năng của từng công nhân giúp cho các công nhân và các ông chủ có được các độ tự do nhất định khi đề ra mức tiền công.
+ @idiosyncratically
+- xem idiosyncrasy
+ @idiot  
+*  dt
+- thằng ngốc
+
+@idiot board  
+*  dt
+- (truyền hình) máy nhắc (người phát thanh trong một chương trình phát)
+
+@idiot card  
+*  dt
+- (truyền hình) bảng nhắc (người phát thanh trong một chương trình phát)
+
+@idiotic   (idiotical) @idiotical   (idiotical) @idiotically
+* dt
+- ngu si, ngu ngốc
+ @idiotise   (idiotise) @idiotism  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) hành động ngu ngốc
+
+@idiotize   (idiotise) @idle  
+*  tt
+- ngồi rồi, không làm việc gì
+
++ in an idle hour: trong lúc ngồi rồi
+- không làm ăn gì cả, ăn không ngồi rồi, lười nhác
+
++ an idle worthless boy: một đứa bé lười nhác vô tích sự
+- không có công ăn việc làm, thất nghiệp
+
++ idle men: những người không có công ăn việc làm
+- (kỹ thuật) để không, không chạy
+
++ idle machines: máy để không
+- vô ích, vô hiệu quả, không tác dụng, không đi đến đâu
+
++ in a fit of idle rage: trong một cơn giận dữ không đi đến đâu
+- không đâu, không căn cứ, vẩn vơ, vu vơ
+
++ idle rumors: những lời đồn không đâu, những lời đồn không căn cứ
+
++ idle talks: chuyện không đâu, chuyện vẩn vơ
+
++ idle fears: những nỗi sợi hâi không đâu
+*  ndgt
+- ăn không ngồi rồi, không làm ăn gì cả đi vẩn vơ; để thời gian trôi qua vô ích
+- (kỹ thuật) quay không, chạy không (máy động cơ...)
+*  ngdgt ((thường) : away)
+- ăn không ngồi rồi để lâng phí (thời gian); để (thời gian) trôi qua vô ích
+
++ to idle away one's time: ăn không ngồi rồi lãng phí thời gian
+- (từ Mỹ,nghĩa Mỹ) làm cho thất nghiệp
+*  dt
+- tình trạng nhàn rỗi
+- sự chạy không
+
++ to keep a motor at an idle: cho máy chạy không
+
+@Idle balances
+- (Econ) Tiền nhàn rỗi.
+: Tiền được rút ra khỏi lưu thông và đựơc lưu dưới dạng tiền tích trữ của cải.
+ @idle pulley  
+*  dt
+- (kỹ thuật) Puli đệm ((cũng) idler)
+
+@idle wheel  
+*  dt
+- (kỹ thuật) bánh xe đệm, bánh xe dẫn hướng ((cũng) idler)
+
+@idleness   (idlesse) @idler  
+*  dt
+- người ăn không ngồi rồi; người lười biếng
+- (kỹ thuật) bánh xe đệm, bánh xe dẫn hướng ((cũng) idle_wheel)
+- (kỹ thuật) Puli đệm ((cũng) idle_pulley)
+- toa (xe lửa) chở hàng đệm
+
+@idlesse   (idlesse) @idly  
+*  dt
+- ăn không ngồi rồi; sự lười nhác
+- vô ích, vô hiệu quả, không tác dụng
+- không đâu, vẩn vơ, vu vơ
+
+@idol  
+*  dt
+- tượng thần, thần tượng
+- (nghĩa bóng) thần tượng, người được sùng bái, vật được tôn sùng
+- ma quỷ
+- (triết học) quan niệm sai lầm ((cũng) idolum)
+
+@idola  
+*  dt,  số nhiều idola
+- hình tượng; ý niệm
+- (triết học) quan niệm sai lầm ((cũng) idol)
+
+@idolater  
+*  dt
+- người sùng bái thần tượng
+- người chiêm ngưỡng, người sùng bái, người tôn sùng (vật gì hay người nào)
+
++ to be an idolater of Shakespeare: là một người tôn sùng Sếch-xpia
+
+@idolatress  
+*  dt
+- người đàn bà sùng bái thần tượng
+- người đàn bà chiêm ngưỡng, người đàn bà sùng bái, người đàn bà tôn sùng
+
+@idolatrise   (idolatrize) @idolatrize   (idolatrize) @idolatrizer  
+*  dt
+- người thần tượng hoá
+- người tôn sùng, người sùng bái, người chiêm ngưỡng
+- người sùng bái thần tượng
+
+@idolatrous  
+*  tt
+- có tính chất sùng bái, có tính chất chiêm ngưỡng, có tính chất tôn sùng
+- sùng bái thần tượng
+
+@idolatrously
+* dt
+- với vẻ sùng bái, với vẻ tôn sùng
+ @idolatrousness  
+*  dt
+- tính chất sùng bái, tính chất chiêm ngưỡng, tính chất tôn sùng
+
+@idolatry  
+*  dt
+- sự sùng bái thần tượng
+
+@idolisation
+* dt
+- sự thần tượng hoá
+- sự tôn sùng, sự sùng bái, sự chiêm ngưỡng
+ @idolise   (idolize) @idolization  
+*  dt
+- sự thần tượng hoá
+- sự tôn sùng, sự sùng bái, sự chiêm ngưỡng
+
+@idolize  
+*  dgt
+- (xem) idolise
+*  dt
+- (xem) idolater
+
+@idolizer
+- xem idolize
+ @idolum  
+*  dt,  số nhiều idola
+- hình tượng; ý niệm
+- (triết học) quan niệm sai lầm ((cũng) idol)
+
+@idyl   (idyll) @idyll   (idyll) @idyllic  
+*  tt
+- (thuộc) thơ điền viên
+- (âm nhạc) (thuộc) khúc đồng quê
+- bình dị; đồng quê, điền viên, thôn dã
+
+@idyllically
+* dt
+- bình dị, mộc mạc, thôn dã
+ @idyllist  
+*  dt
+- (văn học) nhà thơ điền viên
+
+@idyllize  
+*  ngdgt
+- (văn học) soạn thành thơ điền viên
+- (âm nhạc) soạn thành khúc đồng quê
+
+@idée fixe  
+*  dt
+- định kiến; ý nghĩ ám ảnh
+
+@

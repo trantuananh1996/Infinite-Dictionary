@@ -1,0 +1,3618 @@
+@lo  
+*  thán từ
+- (từ cổ,nghĩa cổ) trông kìa!, nhìn kìa!
+!lo and behold!
+-(đùa cợt) trông lạ chưa kìa!
+
+@loach  
+*  dt
+- (động vật học) cá chạch
+
+@load  
+*  dt
+- vậy nặng, gánh nặng
+
++ to carry a heavy load: mang một gánh nặng
+- vật gánh, vật chở, vật đội (trên lưng súc vật, trên xe, tàu...)
+- trách nhiệm nặng nề; điều lo lắng, nỗi buồn phiền
+- (kỹ thuật) sự tải; tải; trọng tải (của một con tàu...)
+
++ periodic load: tải tuần hoàn
+- thuốc nạp, đạn nạp (vào súng)
+- (thông tục) nhiều, hàng đống
+
++ loads of money: hàng đống tiền, hàng bồ bạc
+!to gets a load of
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nghe
+- nhìn, trông
+!to have a load on
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) say rượu
+*  ngdgt
+- chất, chở
+
++ to load a cart: chất lên xe
+- nhét, nhồi, tống vào, nạp đạn) súng); lắp phim (máy ảnh)
+
++ to load a gun: nạp đạn vào súng
+
++ I am loaded: súng tôi có nạp đạn
+
++ to load a camera: lắp phim vào máy ánh
+
++ to load one's stomach with food: ăn nhồi ăn nhét, ăn no căng
+- chồng chất; bắt phải chịu, bắt phải gánh vác, bắt phải đảm nhận...
+
++ to load somebody with word: đổ dồn (chồng chất) công việc lên đầu ai
+
++ to load a man with insults: chửi bới ai thậm tệ
+
++ to load someone with gifts: cho, ai hàng đống quà
+
++ to load someone with compliments: khen ngợi ai hết lời
+- đổ chì vào, làm cho nặng thêm
+
++ to load the dice: đổ chì vào con súc sắc; (nghĩa bóng) gian lận
+*  ndgt
+- bốc hàng, bốc vác, khuân vác
+- nạp đạn
+
+@load
+- tải trọng, tải, trọng tải
+- concentrated l. tải trọng tập trung
+- critical l. tải trọng giới hạn
+- dead l. trọng lượng riêng, tải trọng không đổi
+- distributed l. tải trọng phân bố
+- inductive l. tải tự cảm
+- live l. hoạt tải
+- terminal l. tải trọng đầu mút
+- triangular l. tải trọng tam giác
+- ultimate l. tải trọng giới hạn
+- uniform lateral l. tải trọng phân bố đều
+- working l. tải trọng tác động 
+ @loadability
+* dt
+- khả năng mang tải
+ @loadable
+* tt
+- chất tải được
+ @load-displacement  
+*  dt
+- trọng lượng chở hàng tối đa (tàu thuỷ)
+
+@loaded
+* tt
+- nặng nề, gay go
+ @loader  
+*  dt
+- người khuân vác
+- người nạp đạn (sãn vào súng cho người đi săn)
+- máy nạp đạn
+
+@loading  
+*  dt
+- sự chất hàng (lên xe, tàu)
+- hàng chở (trên xe, tàu)
+- sự nạp đạn
+
+@load-off
+* dt
+- sự đỡ tải; sự giảm tải
+ @load-on
+* dt
+- sự chất tải
+ @loads
+* dt
+- rất nhiều
+ @load-shedding
+* dt
+- sự cắt nguồn cung cấp điện ở một số đường dây khi nhu cầu chung về điện lớn hơn khả năng cung cấp
+ @loadstar   (loadstar) @loadstone   (lodestone) @loaf  
+*  dt,  số nhiều loaves  @loaf sugar
+* dt
+- đường khối, đường viên
+ @loafer  
+*  dt
+- kẻ hay đi tha thẩn, kẻ chơi rong; kẻ lười nhác
+
+@loaferish
+* tt
+- lang thang
+ @loam  
+*  dt
+- đất nhiều mùm
+- đất sét trộn (để trét vách, để làm gạch)
+
+@loamy  
+*  tt
+- (thuộc) đất nhiều mùn
+
+@loan  
+*  dt
+- sự vay nợ
+- sự cho vay, sự cho mượn
+- công trái, quốc trái
+- tiền cho vay, vật cho mượn
+- từ mượn (của một ngôn ngữ khác); phong tục mượn (của một dân tộc khác)
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) cho vay, cho mượn
+
+@Loan
+- (Econ) Khoản cho vay.
+: Một khoản tiền do người cho vay ứng cho người vay.
+ @loan
+- kt vay
+ @Loan capital
+- (Econ) Vốn vay.
+: Xem DEBENTURES.
+ @Loan facility
+- (Econ) Chương trình cho vay.
+ @Loan stock
+- (Econ) Số vốn vay.
+: Xem DEBENTURES, FINANCIAL CAPITAL
+ @loanable
+* tt
+- có thể cho vay, cho mượn
+ @Loanable funds
+- (Econ) Các quỹ có thể cho vay.
+: Cụm thuật ngữ này có ý nghĩa là các khoản tiền sẵn có để cho vay trên thị trường tài chính, nhưng thường nó nảy sinh trong văn cảnh lý thuyết lãi suất.
+ @loan-blend
+* dt
+- từ ngoại lai hỗn hợp
+ @loan-collection  
+*  dt
+- bộ tranh mượn để trưng bày
+
+@loan-exhibition  
+*  dt
+- cuộc triển lãm tranh ảnh mượn
+
+@loaning
+* dt
+- đuờng nhỏ; đường hẻm
+- chỗ trống để vắt sữa
+- sự cho vay
+ @loan-myth  
+*  dt
+- chuyện thần thoại sao phỏng
+
+@loan-office  
+*  dt
+- sở giao dịch vay mượn
+- sở nhận tiền mua công trái
+
+@loan-shark  
+*  dt
+- (thông tục) kẻ cho vay cắt cổ
+
+@loan-sharking
+* dt
+- sự cho vay cắt cổ
+ @loan-shift
+* dt
+- từ vay mượn biến đổi nghĩa
+ @loan-society  
+*  dt
+- hội chơi họ
+
+@loan-translation  
+*  dt
+- (ngôn ngữ học) từ sao phỏng
+
+@loan-word  
+*  dt
+- tự mượn
+
+@loath   (loth) @loathe  
+*  ngdgt
+- ghê tởm, kinh tởm, ghét
+
+@loathful
+* tt
+- đáng ghét; ghê tởm
+
++  the loathful behaviour of a cheat:hành vi đáng ghét của tên lừa đảo
+ @loathing  
+*  dt
+- sự ghê tởm, sự kinh tởm, sự ghét
+
+@loathly   (loathsome) @loathsome   (loathsome) @loathsomeness  
+*  dt
+- vẻ ghê tởm, vẻ gớm guốc, vẻ đáng ghét
+
+@loath-to-depart  
+*  dt
+- bài hát tiễn chân
+
+@loathy
+* tt
+- xem loathsome
+ @loaves  
+*  dt,  số nhiều loaves  @lob  
+*  dt
+- (thể dục,thể thao) quả lốp (quần vợt, bóng bàn)
+*  ngdgt
+- (thể dục,thể thao) lốp (bóng)
+- bắn vòng cầu, câu, rớt
+
++ to lob mortar-shells on enemy posts: rót đạn súng cối vào đồn địch
+*  ndgt ((thường) : along)
+- bước đi nặng nề, lê bước
+
+@Lobachevskian
+- (thuộc) Lôbasepxki
+ @lobar  
+*  tt
+- (thuộc) thuỳ
+
++ lobar pneumonia: viêm phổi thuỳ
+
+@lobate  
+*  tt
+- có thuỳ, phân thuỳ
+
+@lobation
+* dt
+- sự có thùy
+- sự phân thùy
+ @lobby  
+*  dt
+- hành lang
+- hành lang ở nghị viện
+
++ a lobby politician: kẻ hoạt động chính trị ở hành lang, kẻ hoạt động chính trị ở hậu trường
+- (từ Mỹ,nghĩa Mỹ) nhóm người hoạt động ở hành lang (nghị viện)
+*  dgt
+- (từ Mỹ,nghĩa Mỹ) vận động ở hành lang (đưa ra hoặc thông qua một đạo luật ở nghị viện)
+- hay lui tới hành lang nghị viện; tranh thủ lá phiếu của nghị sĩ
+
+@lobbying
+* dt
+- sự hoạt động ở hành lang nghị viện
+ @lobbyism  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) tập quán vận động ở hành lang (đưa ra hoặc thông qua một đạo luật ở nghị viện)
+
+@lobbyist  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người vận động ở hành lang (đưa ra hoặc thông qua một đạo luật ở nghị viện)
+
+@lobbyman
+* dt
+- người hoạt động ngoài nghị viện
+- ký giả nghị viện
+ @lobe  
+*  dt
+- thuỳ
+
++ lobe of leaf: thuỳ lá
+
++ lobe of brain: thuỳ não
+- (kỹ thuật) cam, vấu
+
+@lobed
+* tt
+- có dạng thùy
+ @lobe-fin
+* dt
+- cá có vây (giống chân)
+ @lobelia  
+*  dt
+- cầy lôbêli
+
+@lobeliceous
+* dt
+- (thực vật) họ lôbêli
+ @lobing
+* dt
+- (vô tuyến) sự quét, dò tìm
+
++  conical lobing:sự quét hình nón
+ @loblolly  
+*  dt,  (từ Mỹ,nghĩa Mỹ)
+- (thông tục) cháo đặc
+- nơi bẩn thỉu rác rưởi
+
+@loblolly man  
+*  dt
+- (hàng hải) người phụ mổ (phụ tá cho bác sĩ mổ xẻ)
+
+@lobotomize
+* ngdgt
+- mổ thùy não
+- làm cho đần độn
+ @lobotomized
+* tt
+- đã được mổ thùy não
+- đần độn
+ @lobotomy
+* dt
+- <y> phẫu thuật thùy não
+ @lobscourse
+* dt
+- <hải> món ăn hổ lốn
+ @lobscouse  
+*  dt
+- (hàng hải) món ăn hổ lốn
+
+@lobster  
+*  dt
+- (động vật học) tôm hùm
+- người ngớ ngẩn vụng về
+*  ndgt
+- đi bắt tôm hùm
+
+@lobsterback
+* dt
+- (sử học) Anh dân binh áo đỏ
+ @lobster-eyed  
+*  tt
+- có mắt lồi, có mắt ốc nhồi
+
+@lobstering  
+*  dt
+- sự đi bắt tôm hùm
+
+@lobsterman
+* dt
+- người bắt tôm hùm
+ @lobster-pot  
+*  dt
+- giỏ bắt tôm hùm
+
+@lobster-trap
+* dt
+- giỏ bắt tôm hùm
+ @lobular  
+*  tt
+- chia thành thuỳ con; có nhiều thuỳ con
+
+@lobulate
+* tt, cũng lobulated
+- chia thành thùy con
+ @lobulation
+* dt
+- sự chia thành thùy con
+ @lobule  
+*  dt
+- thuỳ con, tiểu thuỳ
+
+@lobulose
+* dt
+- sự chia thành thùy con
+ @lobworm  
+*  dt
+- (động vật học) sâu cát
+
+@loc cit
+* (viết tắt)
+- sách đã dẫn (loco citato)
+ @loca
+- số nhiều của locus
+ @local  
+*  tt
+- địa phương
+
++ local authorities: nhà đương cục địa phương
+
++ local time: giờ địa phương
+
++ local colour: (văn học) màu sắc địa phương
+
++ local government: chính quyền địa phương
+- bộ phận, cục bộ
+
++ local war: chiến tranh cục bộ
+- (toán học) (thuộc) quỹ tích
+*  dt
+- người dân địa phương; người làm nghề tự do ở địa phương; người giảng đạo ở địa phương
+- tin tức địa phương
+- xe lửa địa phương
+- tem địa phương
+- đội thể thao (bóng đá, bóng chuyền...) địa phương
+- (số nhiều) kỳ thi địa phương
+- (thông tục) trụ sở, công quán
+
+@local
+- địa phương, cục bộ
+ @Local authorities' market
+- (Econ) Thị trường của chính quyền địa phương.
+: THỊ TRƯỜNG TIỀN TỆ bán buôn ở London, gắn bó chặt chẽ với các thị trường công ty tài chính, tiền tệ Châu Âu và Liên ngân hàng, trong đó người ta cho các cơ quan chính quyền địa phương vay các khoản vay ngắn hạn, thông qua các công ty môi giới tiền tê.
+ @Local finance
+- (Econ) Tài chính địa phương.
+: Thu nhập và chi tiêu của chính quyền  khu vực (địa phương).
+ @Local labour market
+- (Econ) Thị trường lao động địa phương.
+: Sự phân chia nhỏ theo địa lý của THỊ TRƯỜNG LAO ĐỘNG chủ yếu là hậu quả của các chi phí về tâm lý và đặc biệt của việc đi lại nhiều để đến chỗ làm.
+ @Local mutiplier
+- (Econ) Số nhân địa phương
+: Xem REGIONAL MUTIPLIER
+ @Local public good
+- (Econ) Hàng hoá công cộng địa phương.
+: Hàng hoá công cộng của một cộng đồng, chẳng hạn hệ thống đèn đường.
+ @locale  
+*  dt
+- nơi xảy ra (sự việc gì...)
+
+@localisation
+* dt
+- sự hạn định vào một nơi, sự hạn định vào một địa phương
+- sự địa phương hoá
+- sự xác định vị trí, sự định vị
+ @localise   (localise) @localism  
+*  dt
+- sự gắn bó với địa phương; chủ nghĩa địa phương
+- tiếng địa phương; phong tục tập quan địa phương
+- tính chất địa phương
+- thói quê kệch
+
+@localite
+* dt
+- dân địa phương, dân bản địa
+ @localitis
+* dt
+- bệnh hẹp hòi địa phương chủ nghĩa
+ @locality  
+*  dt
+- vùng, nơi, chỗ, địa phương
+- vị trí; trụ sở
+- phương hướng; phép định hướng
+- tài nhớ đường; tài định hướng ((cũng) sense of locality; bump of locality)
+
+@localizable  
+*  tt
+- có thể hạn định vào một nơi, có thể hạn định vào một địa phương
+- có thế địa phương hoá
+- có thể xác định được, vị trí, định vị được
+
+@localization  
+*  dt
+- sự hạn định vào một nơi, sự hạn định vào một địa phương
+- sự địa phương hoá
+- sự xác định vị trí, sự định vị
+
+@localization
+- sự định xứ, sự định
+- l. of sound vị sự định xứ âm (thanh) 
+ @localization
+- sự khoanh vùng
+ @localize   (localise) @localize
+- định xứ, đưa tới một vị trí nào đó
+ @localized
+- được định xứ
+ @locally  
+*  dt
+- với tính chất địa phương, cục bộ
+
+@locally
+- (một cách) địa phương, cục bộ
+ @locatable  
+*  tt
+- có thể xác định đúng vị trí, có thể phát hiện vị trí
+- (từ Mỹ,nghĩa Mỹ) có thể đặt vị trí
+
+@locate  
+*  ngdgt
+- xác định đúng vị trí, xác định đúng chỗ; phát hiện vị trí
+- (từ Mỹ,nghĩa Mỹ) đặt vào một vị trí
+- (từ Mỹ,nghĩa Mỹ) đặt vị trí (để thiết lập đường xe lửa, xây dựng nhà cửa...)
+
+@locate
+- định xứ, định vị trí; được đặt
+ @location  
+*  dt
+- vị trí
+- sự xác định vị trí, sự định vị
+- (từ Mỹ,nghĩa Mỹ) khu đất được cắm để chuẩn bị xây dựng
+- (điện ảnh) hiện trường, trường quay ngoài trời
+
++ on location: quay ở hiện trường, quay ở trường quay ngoài trời (không phải ở trong xưởng phim)
+- (Uc) ấp trại, đồn điền
+
+@location
+- sự định xứ; (máy tính) mắt (nhớ); vị trí
+- decimal l. hàng số thập phân 
+- long storage l. độ dài ô của một bộ nhớ
+- root l. sự tách các nghiệm
+- storage l. mắt nhớ 
+ @Location quotient
+- (Econ) Thương số vị trí.
+: Thước đo thống kê về mức chênh lệch mà một loạt hoạt động kinh tế cụ thể được đánh giá trong một vùng của nền kinh tế so với toàn bộ nền kinh tế nói chung.
+ @Location theory
+- (Econ) Lý thuyết về vị trí.
+: Học thuyết phân tích những tác động quyết định đến vị trí của hoạt động kinh tế, giải thích và đoán trước hình thái vị trí của các đơn vị kinh tế.
+ @Locational integration
+- (Econ) Liên kết theo vị trí.
+: Một tập hợp những đầu mối quan hệ tồn tại giữa một số ngành vừa gần nhau về mặt vị trí địa lý vừa liên quan với nhau do sản phẩm của một số ngành là đầu vào của ngành khác.
+ @Locational interdependence
+- (Econ) Sự phụ thuộc lẫn nhau về vị trí.
+: Mối quan hệ tương hỗ giữa các hãng trong đó quyết định của một loại hãng về việc lựa chọn vị trí cho một nhà máy của nó bị tác động bởi những lựa chọn về vị trí của các đối thủ cạnh tranh.
+ @locative  
+*  tt
+- (ngôn ngữ học) (thuộc) cách vị trí
+*  dt
+- (ngôn ngữ học) cách vị trí
+
+@locator  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người quy định ranh giới (một khoảng đất, một khu mỏ...)
+
+@loch  
+*  dt
+- (Ê-cốt) hồ
+
+@lochan  
+*  dt
+- (Ê-cốt) hồ nhỏ, vũng
+
+@lochia
+* dt
+- máu chảy từ tử cung sau khi sinh
+ @lochial
+* tt
+- thuộc máu chảy từ tử cung sau khi sinh
+ @loci  
+*  dt,  số nhiều loci  @lock  
+*  dt
+- món tóc, mớ tóc; mớ bông, mớ len
+- (số nhiều) mái tóc, tóc
+
++ hoary locks: mái tóc bạc
+*  dt
+- khoá
+
++ to keep under lock and key: cất vào tủ khoá lại; nhốt kỹ, giam giữ
+
++ to pick a lock: mở khoá bằng móc
+- chốt (để giữ bánh xe, ghi...)
+- khoá nòng (súng)
+- miếng khoá, miếng ghì chặt (thế võ)
+- tình trạng ứ tắc; sự nghẽn (xe cộ); tình trạng bế tắc; tình trạng khó khăn, tình trạng nan giải, tình trạng lúng túng
+
++ to come to a dead lock: lâm vào tình trạng bế tắc
+- cửa cổng
+!lock, stock and barrel
+- mất cả chì lẫn chài
+*  ngdgt
+- khoá (cửa tủ...)
+- nhốt kỹ, giam giữ
+- bao bọc, bao quanh
+- chặn lại, đóng chốt
+- khoá chặt, ghì chặt (thế võ)
+- chắn bằng cửa cổng; cho (tàu...) đi qua cửa cổng
+
++ to lock up (down): cho (tàu...) đi ngược (xuôi) qua cửa cổng
+*  ndgt
+- khoá được
+
++ this door won't: cửa này không khoá được
+- hâm lại; không chạy, không vận động được (máy móc)
+- đi qua cửa cổng (tàu...)
+- (quân sự) bước sát gót
+!to lock out
+- khoá cửa không cho vào
+- đóng cửa nhà máy không cho công nhân vào làm để làm áp lực
+!to lock up
+- cất đi khoá lạo cẩn thận
+- giam giữ, nhốt kỹ; chặn đứng lại
+!to lock the stablw door after the horse has been stolen
+- mất bò mới lo làm chuồng
+
+@lock
+- khoá
+ @lock hospital  
+*  dt
+- bệnh viện da liễu
+
+@lock step  
+*  dt
+- (quân sự) bước đi sát gót (người đằng trước)
+
+@lockable
+* tt
+- có thể khoá được
+ @lockage  
+*  dt
+- sự chắn bằng cửa cổng
+- hệ thống cửa cống (trên kênh, sông đào)
+- tiền thuế qua cửa cống (đánh vào tàu bè qua lại)
+- lượng nước lên xuống ở cửa cống
+
+@lock-chain  
+*  dt
+- khoá xích (để khoá xe)
+
+@locker  
+*  dt
+- người khoá
+- tủ có khoá, két có khoá
+- (hàng hải) tủ; kho hàng (ở dưới tàu)
+!not a shot in the locker
+- không còn một xu dính túi
+
+@locker-room
+* dt
+- phòng thay quần áo
+ @locket  
+*  dt
+- mề đay
+- trái tim (bằng vàng hay bạc) có lồng ảnh (đồ trang sức)
+
+@lockfast  
+*  tt
+- khoá chặt
+
+@lock-gate
+* dt
+- cửa cống
+ @lock-hole
+* dt
+- lỗ khoá
+ @locking
+* dt
+- sự khoá, chốt
+- sự điều khiển cửa âu
+ @Locking - in effect
+- (Econ) Hiệu ứng kẹt
+: Hiệu ứng làm cho một người có một tài sản không bán tài sản đó nữa vì giá trị thị trường của nó giảm xuống và sẽ gây ra thua lỗ.
+ @lock-jaw  
+*  dt
+- (y học) chứng khít hàm
+
+@lock-keeper  
+*  dt
+- người coi cửa cống
+
+@lockless
+* tt
+- không có khoá
+- không có cửa âu
+ @lock-maker
+* dt
+- thợ khoá
+ @lock-master
+* dt
+- người quản lý cửa âu
+ @lock-nut
+* dt
+- <kỹ> ốc hãm
+ @lock-out  
+*  dt
+- sự đóng cửa làm áp lực (đóng cửa nhà máy không cho công nhân vào làm để làm áp lực)
+
+@lockout
+- (Econ) Sự đóng cửa gây áp lực (đối với công nhân).
+: Việc người chủ đóng cửa nơi làm việc để buộc công nhân thừa nhận các điều khoản tuyển dụng của ban lãnh đạo.
+ @locksman  
+*  dt
+- người coi cửa cống
+
+@locksmith  
+*  dt
+- thợ khoá
+
+@locksmithery   (locksmithing) @locksmithing   (locksmithing) @lock-stitch
+* dt
+- mũi khâu chằng
+ @lock-up  
+*  dt
+- sự đóng cửa; giờ đóng cửa
+- nhà giam, bóp cảnh sát
+- sự không rút được vốn đầu tư ra; vốn chết
+
+@locky
+* tt
+- thành cụm; thành bó
+ @loco  
+*  dt
+- (viết tắt) của locomotive
+- (thực vật học) đậu ván dại
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) điên rồ, điên cuồng, rồ dại
+
+@loco citato  
+*  dt
+- ở chỗ dẫn trên kia
+
+@locomobile  
+*  dt
+- (kỹ thuật) máy hơi di động
+*  tt
+- có thể di động được
+
+@locomobility  
+*  dt
+- tính di động được
+
+@locomote  
+*  ndgt
+- di động, di chuyển, dời chỗ, vận động
+
+@locomotion  
+*  dt
+- sự di động, sự vận động
+
+@locomotive  
+*  dt
+- đầu máy (xe lửa)
+*  tt
+- di động
+-(đùa cợt) hay đi đây đi đó
+
++ in our locomotive time: trong cái thời đại hay đi đây đi đó này
+
++ a locomotive oerson: người hay đi đây đi đó
+
+@locomotiveness   (locomotivity) @locomotivity   (locomotivity) @locomotor  
+*  dt
+- người vận động; vậy di động
+*  tt
+- di động, vận động
+
+@locoplant
+* dt
+- (thực vật) cây phong thảo
+ @locular  
+*  tt
+- (thực vật học) có ngăn
+
+@loculate   (loculated) @loculated   (loculated) @loculicidal  
+*  tt
+- (thực vật học) chẻ ngăn
+
+@loculose
+- Cách viết khác : loculous 
+ @loculus
+* dt; số nhiều loculi
+- xem locule
+ @locum   (locum_tenens) @locum tenens   (locum_tenens) @locus  
+*  dt,  số nhiều loci  @locus
+- quỹ tích; vị trí; (điều khiển học) tốc đồ
+- l. of an equation tập hợp các điểm thoả mãn một phương trình
+- extraneous l. quỹ tích ngoại lai
+- geometric(al) l. quỹ tích (của các điểm)
+- hyperbolic l. quỹ tích hypebolic
+- nodal l. quỹ tích điểm mút
+- root l. (điều khiển học) tốc đồ nghiệm 
+ @locus classicus
+* dt
+- đoạn cốt yếu bàn về một đề tài
+ @locust  
+*  dt
+- con châu chấu
+- người ăn ngấu nghiến; người phá hoại
+- (như) locust-tree
+
+@locust-tree  
+*  dt
+- (thực vật học) cây thích hoè
+- (thực vật học) cây bồ kết ba gai
+
+@locution  
+*  dt
+- thành ngữ; đặc ngữ
+- cách phát biểu
+
+@locutory  
+*  dt
+- phòng khách (ở tu viện)
+
+@lode  
+*  dt
+- mạch mỏ
+- rãnh nước; máng dẫn nước
+
+@lodestar   (loadstar) @lodestone   (lodestone) @lodge  
+*  dt
+- nhà nghỉ (ở nơi săn bắn)
+- túp lều (của người da đỏ)
+- nhà người giữ cửa (công viên); nhà người thường trực
+- hàng thú
+- nơi họp của hội Tam điểm; chi nhánh của hội Tam điểm
+
++ grand lodge: ban lânh đạo của hội Tam điểm (hay của hội cùng loại)
+- nhà hiệu trưởng (trường đại học Căm-brít)
+*  ngdgt
+- cho ở, cho trọ, chứa trọ là nơi ở cho (ai); chứa đựng
+- gửi (ở ngân hàng...); đưa, trao
+
++ to lodge money in the bank: gửi tiền ở ngân hàng
+
++ to lodge a postest with: đưa cho một bản kháng nghị
+
++ to lodge power with someone: trao quyền hành cho ai
+- đệ đơn kiện
+- bắn vào, đặt vào, giáng
+
++ to lodge a blow on someone's jaw: giáng một quả đấm vào quai hàn ai
+- tìm ra (hang thú); tìm thấy (dấu vết của hang thú)
+- đè rạp (gió)
+
++ the wind lodged the yellow rice plants: gió đè rạp những cây lúa vàng
+*  ndgt
+- ở, cư trú
+- trọ, tạm trú
+
++ to lodge in someone's house: trọ ở nhà ai
+- nằm, ở
+
++ bullet lodged in arm: viên đạn nằm ở trong cánh tay
+
+@lodgement   (lodgment) @lodger  
+*  dt
+- người ở trọ
+- người thuê nhà, người thuê lại
+
+@lodging  
+*  dt
+- chỗ trọ, chỗ tạm trú
+- (số nhiều) phòng có sãn đồ cho thuê
+- nhà hiệu trưởng (trường đại học Ôc-phớt)
+
+@lodging-house
+* dt
+- nhà có phòng cho thuê
+ @lodging-room
+* dt
+- phòng cho thuê
+ @lodgment   (lodgment) @loess  
+*  dt
+- (địa lý,ddịa chất) hoàng thổ, đất lớn
+
+@loft  
+*  dt
+- gác xép
+- giảng đàn (trong giáo đường)
+- chuồng bồ câu; đành bồ câu
+- (thể dục,thể thao) cú đánh võng lên (bóng gôn)
+*  ngdgt
+- nhốt (bồ câu) trong chuồng
+- (thể dục,thể thao) đánh võng lên (bóng gôn)
+
+@loftily
+* dt
+- sừng sững
+- cao thượng
+- trịch thượng, kiêu căng
+ @loftiness  
+*  dt
+- bề cao, độ cao, chiều cao
+- tính kiêu căng, tính kiêu kỳ, tính kiêu ngạo
+- tính cao thượng, tính cao quý
+
+@lofty  
+*  tt
+- cao, cao ngất
+
++ a lofty stature: dáng người cao lớn
+- kiêu căng, kiêu kỳ, kiêu ngạo
+- cao thượng, cao quý
+
++ a lofty soul: tâm hồn cao thượng
+
+@log  
+*  dt
+- khúc gỗ mới đốn, khúc gỗ mới xẻ
+
++ in the log: còn chưa xẻ
+- (hàng hải) máy đo tốc độ (tàu)
+- (như) log-book
+- người đần, người ngu, người ngớ ngẩn
+!to fall like a log
+- ngã vật xuống, ngã như trời giáng
+!to keep the log rolling
+- (từ Mỹ,nghĩa Mỹ) làm với một nhịp độ nhanh
+!roll my log anf I'll roll yours
+- hây giúp tôi, tôi sẽ giúp lại anh (trong những mưu toan chính trị, trong việc tâng bốc tác phẩm của nhau giữa các nhà phê bình văn học)
+!to split the log
+- (từ Mỹ,nghĩa Mỹ),  (nghĩa bóng) giải thích cái gì, cắt nghĩa cái gì
+*  ngdgt
+- chặt (đốn) thành từng khúc
+- (hàng hải) ghi (số dặm đã đi) vào sổ nhật ký hàng hải; đi được (bao nhiêu dặm)
+- (hàng hải) ghi (tên, lỗi của thuỷ thủ) vào sổ phạt; phạt (ai)
+!to log off
+- nhổ lên, đào gốc (cây)
+
+@log
+- vận tốc kế
+ @log
+- lôga
+ @log off
+- rời hệ thống
+ @log on
+- nhập vào hệ
+ @logan   (logan-stone) @loganberry
+* dt
+- <thực> quả mâm xôi
+ @logan-stone   (logan-stone) @logaoedic
+* dt
+- adj
+- câu thơ có nhiều bộ thơ khác nhau
+ @logarithm  
+*  dt
+- (toán học) loga
+
+@Logarithm
+- (Econ) Lôgarít
+: Lôgarít của một số là một số mà khi cơ số của nó nâng lên số mũ là giá trị của lôgarit thì bằng số đó.
+ @logarithmic  
+*  tt
+- (thuộc) loga
+
+@logarithmic
+- (thuộc) lôga
+ @logarithmically
+* dt
+- theo lôga, bằng lôga
+ @logarthm
+- lôga l. to the base... lôga cơ số..., l. to the base e. lôga tự
+- nhiên, lôga cơ số e, l. to the base ten lôga cơ số qo; to take a l. lấy lôga
+- common l. lôga thập phân
+- complex l. lôga phức 
+- hyperbolic l. lôga tự nhiên
+- inverse l. lôga ngược
+- natural l. lôga tự nhiên
+- Naperian l. lôga tự nhiên, lôga Nêpe
+- seven-place l. lôga với bảy chữ số thập phân
+ @log-book  
+*  dt
+- nhật ký hàng hải
+- (hàng không) sổ nhật ký (của) máy bay
+- (kỹ thuật) sổ nhật ký (của) máy
+- sổ lộ trình (xe ô tô)
+
+@log-cabin  
+*  dt
+- túp nhà làm bằng cây gỗ ghép
+
+@log-canoe  
+*  dt
+- thuyền độc mộc
+
+@loge
+* dt
+- ghế lô (ở nhà hát)
+ @logged
+* tt
+- dùng gỗ nguyên ghép thành
+
++  logged cabin:nhà nhỏ làm bằng gỗ nguyên ghép thành
+ @logger  
+*  dt
+- người tiều phu; người đốn củi, người đốn gỗ ((từ Mỹ,nghĩa Mỹ) (cũng) log-man)
+
+@loggerhead  
+*  dt
+- người ngu xuẩn, người ngu đần
+- (động vật học) rùa caretta
+- dụng cụ làm chảy nhựa đường
+!to be at loggerhead with
+- cãi nhau với, bất hoà với
+!to set at loggerhead
+- (xem) set
+!to come (fall, go) to loggerhead
+- cãi nhau, bất hoà
+
+@loggia  
+*  dt
+- hành lang ngoài
+
+@logginess
+* dt
+- sự đần độn; sự thiếu sức sống
+ @logging  
+*  dt
+- việc đốn gỗ
+
+@loggy
+* tt
+- xem logy
+ @log-head  
+*  dt
+- người ngu ngốc, người ngu đần
+
+@log-house
+* dt
+- nhà ghép bằng cây gỗ nguyên
+ @log-hut  
+*  dt
+- túp nhà làm bằng cây gỗ ghép
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) nhà tù, trại giam
+
+@logic  
+*  dt
+- Lôgic
+
+@logic
+- lôgic
+- Aristotelian l. lôgic Arixtôt
+- basic l. lôgic cơ sở
+- classic l. lôgic cổ điển
+- combinatory l. lôgic tổng hợp 
+- constructive l. lôgic kiến thiết
+- dialectical l. lôgic biện chứng
+- formal l. lôgic hình thức
+- inductive l. lôgic quy nạp
+- intensional l. lôgic nội hàm
+- intuitionistic l. lôgic trực giác chủ nghĩa
+- many-valued l. lôgic đa trị
+- n-valued l. lôgic n-trị
+- set-theoretic predicate l. lôgic thuyết tập về các vị từ
+- symbolic l. lôgic ký hiệu
+- traditional l. lôgic cổ truyền 
+ @logical  
+*  tt
+- hợp với lôgic; theo lôgic; hợp lý
+
+@logical
+- (thuôch) lôgic
+ @logicality   (logicalness) @logically
+* dt
+- hợp lý
+ @logicalness   (logicalness) @logician  
+*  dt
+- nhà lôgic học; người giỏi lôgic
+
+@logician
+- nhà lôgic học
+ @logicise
+* ngdgt
+- làm cho lôgic, làm cho trở nên hợp lý
+ @logicism
+* dt
+- chủ nghĩa lôgic
+ @logicism
+- chủ nghĩa lôgic
+ @logicize   (logicize) @logigraphic  
+*  tt
+- (thuộc) dấu tốc ký
+
+@log-in
+* dgt
+- (tin học) nối máy; mở máy; bắt đầu
+ @login
+- khởi nhập, đăng nhập
+ @logion
+* dt; số nhiều logia,  logions
+- một câu nói được gán cho Giêxu
+ @logisise   (logicize) @logistic
+* tt
+- về hậu cần, liên quan tới hậu cần
+ @logistic
+- lôgictic
+ @Logistic function
+- (Econ) Hàm Lôgistic
+: Đồ thị của hàm này có hình chữ S, và nó được sử dụng để biểu diễn mối quan hệ giữa giá trị của một biến số kinh tế và thời gian.
+ @logistical
+* tt
+- về hậu cần, liên quan tới hậu cần
+ @logistically
+* dt
+- về hậu cần
+ @logistician
+* dt
+- chuyên gia về hậu cần học
+ @logistics  
+*  dt số nhiều
+- (toán học) Logictic
+- (quân sự) ngành hậu cần
+
+@logistics
+- (logic học) lôgic ký hiệu
+ @logit
+- (thống kê) lôgit
+ @Logit analysis
+- (Econ) Phép phân tích lôgit
+ @log-jam
+* dt
+- chỗ bế tắc
+ @Log-linear
+- (Econ) Tuyến tính lôgarit
+: Một mối quan hệ toán học mà nếu biểu diễn bằng lôgarit thì là một hàm tuyến tính.
+ @log-man  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) logger
+
+@logo
+* dt
+- biểu trưng
+ @logogram  
+*  dt
+- dấu tốc ký
+- câu đố chữ
+
+@logograph  
+*  dt
+- dấu tốc ký
+
+@logographer  
+*  dt
+- ((từ cổ,nghĩa cổ) Hy-lạp) nhà sử học (trước Hê-rô-ddô-tuýt)
+- người chuyên viết diễn văn
+
+@logographic
+* tt
+- (thuộc) dấu tốc ký
+ @logography  
+*  dt
+- phép tốc ký
+
+@logogriph  
+*  dt
+- phép đố chữ
+- câu đó chữ
+
+@Logolling
+- (Econ) Sự trao đổi phiếu bầu; bỏ phiếu gian lận.
+: Là đặt tên cho quá trình trao đổi lá phiếu trong đó một người đồng ý ủng hộ một người khác đối với một vấn đề nhất định đổi lại người kia sẽ ủng hộ anh ta đối với một vấn đề khác.
+ @logomachic
+* tt
+- (thuộc) sự tranh cãi về nghĩa từ, về dùng từ
+ @logomachist
+* dt
+- người thích bàn về ngữ nghĩa của từ
+ @logomachy  
+*  dt
+- (văn học) sự tranh cãi về từ
+
+@logomania  
+*  dt
+- (y học) chứng loạn lời
+
+@logon file
+- tệp tin nhập, tệp logon
+ @logorrhoea  
+*  dt
+- (y học) chứng nói nhiều, chứng tháo lời
+
+@logos  
+*  dt
+- (triết học) thần ngôn; đạo
+- (tôn giáo) ngôi thứ hai (trong ba ngôi một thể)
+
+@logotype
+* dt
+- khối liền để in một nhan đề
+- tiêu chí để quảng cáo
+ @log-out
+* dt
+- (tin học) tắt máy; chấm dứt
+ @log-roll  
+*  ndgt
+- thông đồng, giúp đỡ lẫn nhau (trong những mưu toan chính trị...)
+- tâng bốc tác phẩm của nhau (giữa các nhà phê bình văn học)
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) thông đồng; làm thông qua (một dự luật)
+
+@log-rolling  
+*  dt
+- sự giúp nhau đốn gỗ
+- sự thông đồng; sự giúp đỡ lẫn nhau (trong việc tố tụng, trong những mưu toan chính trị...)
+- sự tâng bốc tác phẩm của nhau (giữa các nhà phê bình văn học)
+
+@logwood  
+*  dt
+- gỗ huyết mộc
+
+@logy  
+*  tt
+- lờ phờ
+
+@log-yard
+* dt
+- bãi gỗ súc
+ @lohan
+* dt
+- la-hán (phật giáo)
+ @loin  
+*  dt số nhiều
+- chỗ thắt lưng
+- miếng thịt lưng (của bò, bê)
+!child (fruit) of one's loin
+- con cái
+!to gird up one's loins
+- (xem) gird
+
+@loin-cloth  
+*  dt
+- khăn quấn quanh thắt lưng; khố
+
+@loin-rag
+* dt
+- xem loin-cloth
+ @loir
+* dt
+- (động vật) chuột sóc
+ @loiter  
+*  dgt
+- đi tha thẩn, la cà; đi chơi rông
+
++ to loiter away one's time: tha thẩn lãng phí thì giờ
+- lảng vảng
+
+@loiterer  
+*  dt
+- người hay đi tha thẩn, người la cà; người hay đi chơi rông
+- người lảng vảng
+
+@loiteringly  
+*  dt
+- tha thẩn, la cà; dông dài
+- lảng vảng
+
+@loll  
+*  ngdgt
+- (: out) thè lưỡi
+- (: on,  against) ngả (đầu); chống (tay); tựa một cách uể oải vào
+*  ndgt
+- thè ra (lưỡi)
+- ngả đầu; gác tay chân một cách uể oải; ngồi uể oải; đứng uể oải; tựa uể oải
+
+@loll around
+* dgt
+- thơ thẩn, quanh quẩn
+ @loll of
+* dgt
+- thè lưỡi ra
+ @lollipop  
+*  dt,  (thường) số nhiều
+- kẹo, kẹo que
+
+@lollipop man
+* dt
+- người cầm biển tròn chận xe cộ lại, để các học sinh băng qua đường
+ @lollop  
+*  ndgt,  (thông tục)
+- tha thẩn, la cà
+- bước lê đi, đi kéo lê
+
+@lolly  
+*  dt
+- (thông tục) kẹo
+- (từ lóng) tiền
+
+@lombard
+* dt
+- người Lomba (đã chiếm ă vào (thế kỷ) 6)
+ @Lombard Street
+- (Econ) Phố Lombard.
+: Là phố trung tâm của ngân hàng và tài chính của thành phố London.
+ @lombardian
+- Cách viết khác : lombardic 
+ @loment
+* dt
+- (thực vật) quả thắt ngấn (quả đậu)
+ @lomentaceous  
+*  tt
+- (thực vật học) có ngấn thành đốt (trái đậu)
+
+@lomentum
+* dt; số nhiều lomenta,  lomentums
+- xem loment
+ @Lomé Convention
+- (Econ) Công ước Lomé.
+: Công ước hợp tác kinh tế và thương mại được ký kết năm 1975 ở Lomé, thủ đô của Togo, giữa các nước thành viên của Cộng đồng Châu Âu (EC) và 46 nước đang phát triển ở Châu Phi, Caribe và Thái bình Dương (ACP).
+ @Lon run total cost curve
+- (Econ) Đường tổng chi phí dài hạn.
+ @londoner  
+*  ngdgt
+- người Luân-ddôn
+
+@londonese
+* dt
+- tiếng Luân Đôn
+ @londonish
+* tt
+- thuộc Luân Đôn; đặc biệt Luân Đôn
+ @londonism
+* dt
+- từ ngữ đặc Luân Đôn
+ @londonization
+* dt
+- sự Luân Đôn hoá
+ @londonize  
+*  ngdgt
+- Luân-ddôn hoá
+
+@londony
+* tt
+- có sắc thái Luân Đôn
+ @lone  
+*  tt
+- (thơ ca) hiu quạnh
+- bị bỏ, bơ vơ, cô độc
+- goá bụa (đàn bà)
+
+@lone hand  
+*  dt
+- người tự lực
+- sự tự lực
+
+@loneliness  
+*  dt
+- sự vắng vẻ, sự hiu quạnh
+- cảnh cô đơn, sự cô độc
+
+@lonely   (lonesome) @lonely hearts
+* dt
+- những người muốn tìm bạn tâm đầu ý hợp để kết hôn
+ @loner  
+*  dt
+- người thui thủi một mình
+
+@lonesome   (lonesome) @lonesomeness  
+*  dt
+- cảnh hiu quạnh
+- cảnh cô đơn
+
+@long  
+*  tt
+- dài (không gian, thời gian); xa, lâu
+
++ a long journey: một cuộc hành trình dài
+
++ to live a long life: sống lâu
+- kéo dài
+
++ a one-month long leave: thời gian nghỉ phép (kéo dài) một tháng
+- cao; nhiều, đáng kể
+
++ a long price: giá cao
+
++ for long years: trong nhiều năm
+
++ a long family: gia đình đông con
+- dài dòng, chán
+
++ what a long speech!: bài nói sao mà dài dòng thế!
+- quá, hơn
+
++ a long hundred: (thương nghiệp) một trăm hai mươi
+- chậm, chậm trễ, lâu
+
++ don't be long: đừng chậm nhé
+!to bid a farewell
+- tạm biệt trong một thời gian dài
+!to draw the long bow
+- (xem) bow
+!to have a long arm
+- mạnh cánh có thế lực
+!to have a long face
+- mặt dài ra, chán nản, buồn xỉu
+!to have a long head
+- linh lợi; láu lỉnh; nhìn xa thấy rộng
+!to have a long tongue
+- hay nói nhiều
+!to have a long wind
+- trường hơi, có thể chạy lâu mà không nghỉ; có thể nói mãi mà không mệt
+!to make a long arm
+- với tay ai (để lấy cái gì)
+!to make a long nose
+- vẫy mũi chế giễu
+!to take long views
+- biết nhìn xa nghĩ rộng; nhìn thấu được vấn đề
+!in the long run
+- sau cùng, sau rốt, kết quả là, rốt cuộc
+!of long standing
+- có từ lâu đời
+!one's long home
+- (xem) home
+*  dt
+- thời gian lâu
+
++ before long: không bao lâu, chẳng bao lâu
+
++ it is long since I heard of him: đã từ lâu tôi không được tin gì của anh ta
+- (thông tục) vụ nghỉ hè
+!the long and the short of it
+- tóm lại; tất cả vấn đề thâu tóm lại, nói gọn lại
+*  dt
+- lâu, trong một thời gian dài
+
++ you can stay here as long as you like: anh có thể ở lại đây bao lâu tuỳ theo ý thích
+- suốt trong cả một khoảng thời gian dài
+
++ all day long: suốt ngày
+
++ all one's life long: suốt đời mình
+- (: ago,  after,  before,  since) lâu, đã lâu, từ lâu
+
++ that happened long ago: việc đó xảy ra đã từ lâu
+
++ I knew him long before I knew: tôi biết nó từ lâu trước khi biết anh
+!so long!
+- (từ Mỹ,nghĩa Mỹ) tạm biệt!
+!so long as
+!as long as
+- miễn là, chỉ cần, với điều kiện là
+- chừng nào mà
+!to be long
+- (: động tt hiện tại) mãi mới
+
++ to be long finding something: mãi mới tìm ra cái gì
+*  ndgt
+- nóng lòng, mong mỏi, ước mong, ao ước
+
++ I long to see him: tôi nóng lòng được gặp nó
+
++ I long for you letter: tôi mong mỏi thư anh
+
+@long
+- dài   kéo dài
+@long division
+* dt
+- <toán> sự chia trên giấy
+ @long drink
+* dt
+- lượng thức uống rót đầy một cốc
+ @long ears  
+*  dt
+- sự ngu độn
+
+@long greens  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tiền giấy
+
+@long hair  
+*  dt,  (thông tục)
+- nhà trí thức
+- người có khiếu về nghệ thuật, người thích nghệ thuật; người thích âm nhạc cổ điển
+
+@long hop
+* dt
+- (crickê) quả bóng nẩy gần và dễ đánh trúng
+ @long johns
+* dt
+- quần dài
+ @long jump
+* dt
+- <thể> môn nhảy xa
+ @long odds
+* dt
+- (cá cược) mức chênh lệch lớn, 100 ăn 10 chẳng hạn
+ @long pig  
+*  dt
+- thịt người
+- người bị ăn thịt (ở bộ lạc ăn thịt người)
+
+@long pull  
+*  dt
+- lượng rượu rót thêm (để kéo khách hàng)
+
+@Long rate
+- (Econ) Lãi suất dài hạn.
+: Một loạt các lãi suất có thể thu được từ các chứng khoán dài hạn, và do đó có thể trả cho các khoản vay dài hạn mới.
+ @Long run
+- (Econ) Dài hạn.
+: Khoảng thời gian liên quan đến quá trình sản xuất trong đó có thời gian để thay đổi tất cả các yếu tố sản xuất, nhưng không đủ thời gian để thay đổi quy trình công nghệ có bản được sử dụng.
+ @Long run adjustments
+- (Econ) Những điều chỉnh giá dài hạn.
+ @Long run average cost (LAC)
+- (Econ) Chi phí trung bình dài hạn.
+: Trong dài hạn tất cả các chi phí có xu hướng là chi phí khả biến.
+ @Long run competitive
+- (Econ) Cân bằng cạnh tranh dài hạn.
+ @Long run comsumption function
+- (Econ) Hàm tiêu dùng dài hạn.
+: Mối quan hệ hàm số giữa tiêu dùng và thu nhập trong giai đoạn hơn 50 năm.
+ @Long run marginal cost
+- (Econ) Chi phí cận biên dài hạn.
+: Chi phí tăng thêm khi sản suất thêm một đơn vị sản phẩm trong dài hạn.
+ @Long run Phillips curve
+- (Econ) Đường Phillips dài hạn.
+ @long suit
+* dt
+- bộ bài cùng hoa
+- điểm nổi bật, điểm vượt trội
+ @Long term capital
+- (Econ) Vốn dài hạn.
+: Vốn dưới dạng tài chính (tiền) nếu được vay theo các điều khoản vay nợ, có kỳ hạn trả nợ dài, thường trên 10 năm; hoặc theo cách khác nếu ai huy động bằng cách phát hành cổ phần thì sẽ không được hoàn trả, trừ khi công ty đóng cửa.
+ @long tom  
+*  dt
+- (quân sự),  (từ lóng) pháo 155 milimét
+
+@long ton
+* dt
+- đơn vị trọng lượng (2240 pounds)
+ @long wave
+* dt, viết tắt là LW
+- <rađiô> sóng dài
+ @long weekend
+* dt
+- ngày nghỉ cuối tuần kéo dài thêm một cách chính đáng
+ @long-acting
+* tt
+- (dược) có tác dụng lâu dài
+ @long-ago  
+*  tt
+- đã lâu, đã quá lâu, từ lâu
+
++ the long-ago days of my youth: những ngày đã qua của tuổi xuân tôi
+*  dt
+- ngày xưa; đời xưa
+
++ tales of long-ago: chuyện đời xưa
+
+@longan  
+*  dt
+- (thực vật học) cây nhãn
+- quả nhãn
+
+@longanimity  
+*  dt,  (từ hiếm,nghĩa hiếm)
+- lòng bao dung, lòng khoan thứ
+- sự chịu đựng, sự nhẫn nại
+
+@longanimous
+* tt
+- nhẫn nại; bao dung
+ @long-awaited
+* tt
+- chờ đợi đã lâu
+
++  a long-awaited dictionary:quyển tự điển chờ đợi đã lâu
+ @long-barrelled
+* tt
+- có nòng dài (súng)
+ @long-bill  
+*  dt
+- (động vật học) chim dẽ giun
+
+@longboat  
+*  dt
+- xuồng lớn; tàu sà lúp
+
+@long-bond
+* dt
+- công trái dài hạn (trên 20 năm)
+ @long-bone
+* dt
+- xương dài
+ @longbow
+* dt
+- cung bắn tên có gắn lông chim
+ @longbowman
+* dt
+- người bắn cung lớn
+ @long-cherished
+* tt
+- khao khát từ lâu
+
++  a long-cherished hope:một hy vọng ôm ấp từ lâu
+ @long-clothes  
+*  dt
+- quần áo của trẻ còn ãm ngửa
+
+@Long-dated securities
+- (Econ) Các chứng khoán dài hạn.
+: Các chứng khoán ở dạng nợ chứ không phải dạng cổ phần - ví dụ như chứng khoán viền vàng hay trái khán công ty - có ngày đáo hạn dài, thường là hơn 10 năm.
+ @long-decayed
+* tt
+- phân rã kéo dài
+ @long-descended
+* tt
+- thuộc dòng dõi thế gia xưa
+ @long-distance
+* tt, adv
+- đường dài
+ @long-drawn  
+*  tt
+- kéo dài, dài ra
+
+@longe
+* dt
+* dgt
+- xem lunge
+ @long-eared  
+*  tt
+- ngu độn
+
+@longer  
+*  dt
+- nữa, hơn nữa, lâu hơn nữa
+
++ wait a little longer: hây đợi một chút nữa
+
+@longer
+- dài hơn, lâu hơn
+ @longeron  
+*  dt
+- thân (máy bay)
+
+@longeron
+- (cơ học) xà dọc
+ @longest
+- dài nhất
+ @longeval  
+*  tt
+- sống lâu, thọ
+
+@longevity  
+*  dt
+- sự sống lâu
+
+@longevity
+- độ bền lâu
+ @longevous
+* tt
+- xem longeval
+ @long-hair   (long-haired) @long-haired   (long-haired) @longhand  
+*  dt
+- chữ viết thường (trái với tốc ký)
+
+@Long-haul economies
+- (Econ) Tính kinh tế theo quãng đường.
+: Xu hướng chi phí vận tải tăng ít hơn về tỷ lệ so với quãng đường chuyên chở.
+ @long-headed  
+*  tt
+- có đầu dài
+- linh lợi, nhìn xa thấy rộng
+
+@longhole
+* dt
+- (kỹ thuật) lỗ khoan sâu
+ @longicaudal
+* tt
+- có đuôi dài
+ @longicorn
+* tt
+- có sừng dài
+ @longing  
+*  tt
+- ước ao, mong đợi, khát khao, ham muốn
+
+@longingly
+* dt
+- khát khao, thiết tha
+ @longingness  
+*  dt
+- sự ước ao, sự mong đợi, sự khát khao, sự ham muốn
+
+@longish  
+*  tt
+- hơi dài
+
+@longitude  
+*  dt
+- (địa lý,ddịa chất) độ kinh
+
+@longitude
+- kinh độ
+- celestial l. kinh độ trong hệ toạ độ xích đạo 
+ @longitudinal  
+*  tt
+- theo chiều dọc dọc
+
+@longitudinal
+- dọc
+ @Longitudinal data
+- (Econ) Dữ liệu dọc.
+: Một kiểu dữ liệu PANEL, trong đó các thông tin trong giai đoạn trước thời điểm thu thập được đưa vào.
+ @longitudinally
+* dt
+- theo chiều dọc
+ @long-life
+* dt
+- (nói về đồ ăn thức uống) có thể để lâu mà không hư
+ @long-limbed  
+*  tt
+- có tay chân dài
+
+@long-lived  
+*  tt
+- sống lâu
+
+@long-liver  
+*  dt
+- người sống lâu
+
+@longobard
+* dt số nhiều longobards,  longobardi
+- xem lombard
+ @long-playing  
+*  tt
+- quay tốc độ 33, 1 roành vòng một phút (đĩa hát)
+
+@longprimer
+- (cơ học) vỏ (tàu, tên lửa)
+ @long-range  
+*  tt
+- có tầm xa
+
++ long-range gun: súng bắn tầm xa
+
+@long-range
+- tác dụng tầm xa
+ @longshore  
+*  tt
+- (thuộc) bờ biển; có bờ biển; hoạt động ở bờ biển
+
+@longshoreman  
+*  dt
+- người khuân vác ở bờ biển
+- người kiếm ăn sinh sống ở bến tàu
+- người làm nghề đánh cá trên bờ biển
+
+@long-sighted  
+*  tt
+- viễn thị
+- nhìn sâu sắc, nhìn xa thấy rộng
+
+@long-sightedness  
+*  dt
+- tật viễn thị
+- sự nhìn sâu sắc, sự nhìn xa thấy rộng
+
+@long-sleeved
+* tt
+- có tay áo dài (áo)
+ @longsome  
+*  tt
+- dài dòng, chán ngắt (nói chuyện, diễn thuyết, báo cáo)
+
+@longsomeness  
+*  dt
+- tính dài dòng, tính chán ngắt
+
+@long-standing  
+*  tt
+- có từ lâu đời
+
++ long-standing friendship: tình hữu nghị lâu đời
+
+@longstop
+* dt
+- (crickê) người chắn bóng đứng sau lưng thủ môn
+ @long-suffering  
+*  tt
+- nhẫn nại, kiên nhẫn, chịu đựng
+
+@long-term  
+*  tt
+- dài hạn, dài ngày, lâu dài
+
+@long-term
+- lâu, kéo dài
+ @long-time
+* tt
+- có từ lâu đời
+ @long-tongued  
+*  tt
+- nói nhiều, lắm lời, ba hoa
+
+@longueur  
+*  dt
+- đoạn kéo dài (trong một tác phẩm...)
+
+@long-wave
+- (vật lí) sóng dài
+ @longways   (longwise) @long-winded  
+*  tt
+- dài hơi
+- dài dòng, chán ngắt
+
+@long-windedness  
+*  dt
+- hơi dài
+- tính dài dòng; sự chán ngắt
+
+@longwise   (longwise) @long-wooled
+* tt
+- có lông dài (cừu)
+ @loo  
+*  dt
+- (đánh bài) lu
+- (thông tục) nơi vệ sinh
+
+@looby  
+*  dt
+- người thô kệch, người ngu đần
+
+@loofah  
+*  dt
+- (thực vật học) cây mướp
+
+@looie
+* dt
+- (quân sự) (thông tục) thiếu úy
+ @look  
+*  dt
+- cái nhìn, cái ngó, cái dòm
+
++ to have a look at: nhìn đến, ngó đến
+- vẻ, vẻ mặt, nét mặt, vẻ ngoài
+
++ an impressive look: vẻ oai vệ
+
++ good looks: vẻ đẹp, sắc đẹp
+!one must not hang a man by his looks
+!do not judge a man by his looks
+- không nên trông mặt mà bắt hình dong
+*  dgt
+- nhìn, xem, ngó, để ý, chú ý
+
++ look! the sun is rising: nhìn kìa! mặt trời đang lên
+- mở to mắt nhìn, giương mắt nhìn
+
++ don't look like that: đừng giương mắt ra như thế
+- ngó đến, để ý đến, đoái đến, lưu ý
+
++ look that the door be not left open: lưu ý đừng để cửa bỏ ngỏ
+- mong đợi, tính đến, toan tính
+
++ do not look to hear from him for some time: đừng có mong đợi tin gì của nó trong một thời gian nữa
+- hướng về, xoay về, quay về, ngoảnh về
+
++ the room looks west: gian buồng hướng tây
+- có vẻ, giống như
+
++ to look healthy: trông có vẻ khoẻ
+
++ it looks like rain: có vẻ như trời muốn mưa
+!to look about
+- đợi chờ
+!to look about for
+- tìm kiếm; nhìn quanh
+!to look about one
+- nhìn quanh
+- đắn đo, nghĩ kỹ trước khi có kế hoạch làm gì
+!to look after
+- nhìn theo
+- trông nom, chăm sóc
+
++ to look after patients: chăm sóc người bệnh
+- để ý, tìm kiếm
+!to look at
+- nhìn, ngắm, xem
+- xét, xem xét
+
++ that is not the way to look at our proposal: đó không phải là cách xem xét lời đề nghị của chúng tôi
+
++ he will not look at it: nó không thèm nhìn đến cái đó, nó bác bỏ cái đó
+!to look away
+- quay đi
+!to look back
+- quay lại nhìn, ngoái cổ lại nhìn
+- ngần ngại không muốn tiếp tục công việc đã bắt đầu
+- ngừng tiến
+- ghé lại gọi lại
+!to look back upon (to)
+- nhìn lại (cái gì đã qua)
+
++ to look back upon the past: nhìn lại quá khứ
+!to look down
+- nhìn xuống
+- hạ giá
+- (: upon,  on) ra vẻ kẻ cả
+!to look for
+- tìm kiếm
+
++ to look for trouble: chuốc lấy dự phiền luỵ
+- đợi, chờ, mong
+
++ to look for news from home: chờ tin nhà
+!to look forward to
+- mong đọi một cách hân hoan; chờ đợi một cách vui thích
+
++ I am looking forward to your visit: tôi mong chờ anh đến thăm
+!to look in
+- nhìn vào
+- ghé qua thăm, tạt qua, tạt vào
+!to look into
+- nhìn vào bên trong; xem xét kỹ, nghiên cứu
+
++ to look into a question: nghiên cứu một vấn đề
+- nhìn ram quay về, hướng về
+
++ the window of his room looks into the street: cửa sổ buồng nó nhìn ra đường
+!to look on
+- đứng xem, đứng nhìn
+- nhìn kỹ, ngắm
+
++ to look on something with distrust: nhìn cái gì với vẻ nghi ngờ
+- (như) to look upon
+!to look out
+- để ý, chú ý cẩn thận, coi chừng
+
++ look out! there is a step: cẩn thận nhé! có một cái bực cầu thang đấy
+- tìm ra, kiếm ra
+
++ to look out someone's address in one's notebook: tìm ra địa chỉ ai trong cuốn sổ tay của mình
+- chọn, lựa
+!to look out for
+- để ý đợi chờ (một cái gì sẽ xảy đến)
+
++ to look out for squalls: đề phòng nguy hiểm
+!to look over
+- xem xét, kiểm tra
+
++ to look over accounts: kiểm tra các khoản chi thu
+- tha thứ, quên đi, bỏ qua
+
++ to look over the faults of somebody: bỏ qua những lỗi lầm của ai
+- nhìn bao quát, bao quát, ở cao nhìn xuống
+
++ the high mountain peak looks over the green fields: đỉnh núi cao bao quát cả cánh đồng xanh
+!to look round
+- nhìn quanh
+- suy nghĩ, cân nhắc
+
++ don't make a hurried decision look round well first: đừng nên quyết định vội vàng hây suy nghĩ kỹ đã
+!to look throught
+- nhìn qua
+
++ to look through the door: nhìn qua cửa
+- nhìn kỹ từ đầu đến chân, xem lần lượt, xem kỹ, đọc kỹ; nhìn thấu
+
++ to look through a translation: đọc kỹ một bản dịch
+- biểu lộ, lộ ra
+
++ his greed looked through his eyes: lòng tham của nó lộ ra trong đôi mắt
+!to look to
+- lưu ý, cẩn thận về
+
++ to look to one's manners: cẩn thận trong lời ăn tiếng nói
+
++ look to it that this will not happen again: hây lưu ý đừng để cho điều đó diễn lại nữa
+- mong đợi, đợi chờ (ở ai); tin vào, trông cậy vào, chắc vào (ai)
+
++ to look to someone for something: trông cậy vào ai về một cái gì
+- dẫn đến, đưa đến; nhìn trước thấy
+
++ to look to a crisis: dẫn đến một cuộc khủng hoảng
+!to look toward
+- (như) to look to
+!to look towards
+- (thông tục) nâng cốc, chúc sức khoẻ (ai)
+!to look up
+- nhìn lên, ngước lên
+- tìm kiếm
+
++ to look a work up in the dictionary: tìm (tra) một từ trong từ điển
+- (thương nghiệp) lên giá, tăng giá
+
++ the price of cotton is looking up: giá bỗng tăng lên
+- (thương nghiệp) phát đạt
+- đến thăm
+!to look up to
+- tôn kính, kính trọng
+
++ every Vietnamese looks up to President HoChiMinh: mọi người Viêt Nam đều tôn kính Chủ tịch Hồ Chí Minh
+!to look upon
+- xem như, coi như
+
++ to look upon somebody as...: coi ai như là...
+!to look alive
+- nhanh lên, khẩn trương lên
+- hành động kịp thời
+!to look black
+- nhìn giận dữ; trông vẻ giận dữ
+!to look blue
+- có vẻ đáng chán; có vẻ buồn bực thất vọng
+!to look daggers at
+- (xem) dagger
+!to look down one's nose at
+- nhìn với vẻ coi khinh
+!to look in the face
+- nhìn thẳng vào mặt; nhìn thẳng vào sự việc không chùn bước e ngại
+!don't look a gift-horse in the mouth
+- (xem) gift-horse
+!to look for a needle in a haystack
+- (xem) needle
+!to look sharp
+- đề cao cảnh giác
+- hành động kịp thời
+- khẩn trương lên, hoạt động lên
+!to look through colour of spectacles
+- nhìn sự việc không đúng với thực tế; nhìn sự việc qua cặp kính màu
+!to look oneself again
+- trông có vẻ đã lại người, trông có vẻ đã lại hồn
+!to look small
+- (xem) small
+!to look someone up and down
+- nhìn ai từ đầu đến chân (một cách kỹ càng hay khinh bỉ)
+!look before you leap
+- (xem) leap
+
+@look
+- nhìn, quan sát
+ @look-alike  
+*  dt
+- người giống (người khác); vật giống (vật khác)
+
+@looker  
+*  dt
+- người nhìn, người xem
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người đẹp ((cũng) good looker)
+
+@looker-on  
+*  dt,  số nhiều lookers-on  @lookers-on  
+*  dt,  số nhiều lookers-on  @look-in  
+*  dt
+- cái nhìn thoáng qua
+- sự ghé thăm chốc lát
+- khả năng thành công, khả năng thắng
+
++ to have a look-in: (thể dục,thể thao),  (thông tục) có khả năng thắng
+
+@looking-for  
+*  dt
+- sự tìn kiếm, sự mong đợi, sự hy vọng
+
+@looking-glass  
+*  dt
+- gương soi
+
+@look-out  
+*  dt
+- sự giám thị; sự giám sát; sự canh gác, sự canh phòng; sự đề phòng; sự coi chừng
+
++ to keep a sharp look-out: canh phòng kỹ, canh phòng cẩn mật
+
++ to be on the look-out for: đề phòng, coi chừng; giữ thế, giữ miếng
+- người gác, người đứng canh; đội gác; tàu đứng gác
+- trạm gác, nơi đứng để canh phòng
+- tiền đồ, triển vọng
+- việc riêng
+
++ that is his look-out not mine: đó là việc riêng của hắn không dính gì đến tôi
+- cảnh
+
++ a wonderful look-out over the sea: cảnh đẹp kỳ diệu trên biển cả
+
+@look-over
+* dt
+- sự kiểm tra nhanh, sự duyệt sơ qua
+ @look-see  
+*  dt
+- (từ lóng) cái nhìn lướt qua; sự xem xét
+- (hàng hải) kính tiềm vọng
+- ống nhòm
+
+@look-through
+* dt
+- sự đọc nhanh qua, sự đọc lướt
+ @lookup
+* dt
+- (tin học) sự truy tìm thông tin; sự tra cứu
+
++  Lookup table:Bảng tra cứu
+ @look-up
+- tìm, tra (cứu)
+- table l. (máy tính) (lệnh) tìm bảng 
+ @loom  
+*  dt
+- bóng lờ mờ
+- bóng to lù lù
+*  ndgt
+- hiện ra lờ mờ (ở đằng xa, trong màn sương...)
+
++ the mountain range dimly loomed in the thin veil of morning: dãy núi hiện ra lờ mờ trong màn sương mỏng của buổi ban mai
+- (: large) hiện ra lù lù, hiện ra to lớn; hiện ra (với vẻ đe doạ)
+
++ the shadow of dealth loomed large: bóng thần chết hiện ra lù lù
+
+@loomery
+* dt
+- phân xưởng dệt
+ @loom-state
+* tt
+- chưa nhuộm (vải)
+ @loon  
+*  dt
+- (Ê-cốt) (từ cổ,nghĩa cổ) thằng vô lại; đồ đểu giả; đồ xỏ lá ba que, đồ du đãng
+- (từ Mỹ,nghĩa Mỹ) thằng điên, thằng cuồng
+*  dt
+- (động vật học) chim lặn gavia
+
+@loony  
+*  dt
+- (từ lóng) người điên
+*  tt
+- (từ lóng) điên rồ
+
+@loony-bin  
+*  dt
+- (từ lóng) nhà thương điên
+
+@loop  
+*  dt
+- vòng; thòng lọng; cái khâu, cái móc, khuyết áo)
+- đường nhánh, đường vòng (đường xe lửa, đường dây điện báo ((cũng) loop line)
+- (vật lý) bụng (sóng)
+- (điện học) cuộn; mạch
+
++ coupling loop: cuộn ghép
+
++ closed loop: mạch kín
+*  (kỹ thuật) móc (cần trục), vành đai, cốt đai
+- (hàng không) vòng nhào lộn (của máy bay)
+*  dgt
+- thắt lại thành vòng; làm thành móc
+- gài móc, móc lại
+- (hàng không) nhào lộn
+
+@loop
+- nút; vòng   thắt nút
+- closed l. (điều khiển học) vòng đóng 
+- endless l. (máy tính) nút vô hạn (của băng)
+- feedback l. vòng liên hệ ngược
+@loop-aerial  
+*  dt
+- (raddiô) anten khung
+
+@looped  
+*  tt
+- (từ lóng) say rượu
+
+@looper  
+*  dt
+- (động vật học) loài sâu đo
+- bộ phận thùa khuyết áo (trong máy khâu)
+
+@loop-hole  
+*  dt
+- lỗ châu mai
+- lối thoát, cách trốn tránh (nội quy...); kẽ hở
+*  ngdgt
+- đục lỗ châu mai (ở tường)
+
+@loop-light  
+*  dt
+- cửa sổ mắt chim
+
+@loop-line  
+*  dt
+- đường nhánh, đường vòng (đường xe lửa, đường dây điện báo)
+
+@loop-stitch
+* dt
+- đường may gồm những vòng
+ @loopy  
+*  tt
+- có vòng, có móc
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) điên rồ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) láu cá, xỏ lá
+
+@loose  
+*  tt
+- lỏng, không chặt, chùng, không căng, không khít, rời ra, lung lay, long ra, lòng thòng
+
++ loose hair: tóc không bím lại, tóc buông xoã
+
++ loose sheets: những tờ giấy rời
+
++ a loose tooth: cái răng lung lay
+
++ a loose screw: cái ốc long ra, ốc vặn không chặt
+
++ with a loose rein: thả lỏng dây cương; một cách phóng túng, thoải mái
+- rộng lùng thùng, lùng nhùng (quần áo)
+- xốp, mềm, dễ cày, dễ làm tơi (đất)
+- lẻ, nhỏ (tiền)
+
++ loose cash: tiền xu, tiền lẻ
+- mơ hồ, không rõ ràng, không chính xác; không chặt chẽ, phóng (lý luận, dịch, viết văn...)
+
++ a loose translation: sự dịch phóng; bản dịch phóng
+
++ loose argument: lý lẽ không chặt chẽ, lý lẽ mơ hồ
+- phóng đâng, phóng túng, không nghiêm, không chặt chẽ, ẩu, bừa bâi... (đạo đức, tính tình, kỷ luật...)
+
++ loose morals: đạo đức không nghiêm
+
++ a loose fish: kẻ phóng đãng
+
++ a loose build; a loose make: dáng người thườn thượt
+
++ loose handwriting: chữ viết nguệch ngoạc
+- (y học) yếu, hay ỉa chảy (ruột)
+!to be at a loose end
+- nhàn rỗi, ăn không ngồi rồi, vô công rỗi nghề
+!to break loose
+- (xem) break
+!to cast loose
+- (hàng hải) thả dây
+!to get loose from
+- gỡ ra, tháo ra, thoát ra
+!to have a loose tongue
+- ăn nói ba hoa, nói năng bừa bãi
+!to have a tile loose
+- mắc bệnh loạn óc, mất trí, ngớ ngẩn
+!to let (set) loose
+- thả lỏng, buông lỏng, cho tự do
+!to play fast and loose
+- (xem) fast
+*  dt
+- sự buông lỏng, sự trút, sự tuôn ra
+
++ to give a loose to one's feelings: trút hết tình cảm, để tình cảm tuôn ra
+
++ to be on the loose: ăn chơi lu bù, rượu chè trai gái
+*  ngdgt
+- thả lỏng, buông lỏng, thả ra, cởi ra, tháo ra, buông ra, nới ra, làm rời ra, gỡ ra
+- (hàng hải) thả (dây buộc, buồm)
+- (: at) bắn ra, phóng ra (viên đạn, mũi tên...)
+*  ndgt
+- (: at) bắn vào (ai)
+!to loose hold
+- buông ra, bỏ ra
+!to loose someone's tongue
+- làm ai mở miệng nói được, không líu lưỡi nữa
+- làm cho nói ba hoa
+
++ a few cups of alcohol loosed his tongue: vài chén rượu làm cho hắn ăn nói ba hoa
+
+@loose
+- tự do; không chính xác, không xác định; không trù mật
+ @loose covers
+* dt
+- những thứ phủ tạm lên cái gì
+ @loose-bodied
+* tt
+- rộng (quần áo)
+- phóng đãng
+ @loose-box  
+*  dt
+- chuồng thả ngựa (không cần phải buộc)
+
+@loose-fitting  
+*  tt
+- không vừa khít, rộng lùng thùng
+
+@loose-leaf
+* dt
+- sách, vở đóng theo cách có thể tháo từng tờ ra
+* tt
+- đóng theo cách có thể tháo từng tờ ra
+ @loosely  
+*  dt
+- lỏng, lỏng lẻo, lòng thòng
+
+@loosen  
+*  ngdgt
+- nới ra, làm lỏng ra, làm long ra, lơi ra
+
++ to loosen a screw: nới lỏng một cái đinh ốc
+- xới cho (đất) xốp lên, làm cho (đất) tơi ra
+- (y học) làm cho nhuận (tràng); làm cho long (đờm)
+- buông lỏng, nới ra (kỷ luật)
+*  ndgt
+- lỏng ra, giãn ra, lơi ra, long ra
+!to loosen someone's tongue
+- (như) to loose someone's tongue ((xem) loose)
+
+@looseness  
+*  dt
+- trạng thái lỏng; trạng thái chùng, trạng thái không căng; trạng thái giãn, trạng thái lòng thòng
+- trạng thái rộng, trạng thái lùng thùng (quần áo)
+- trạng thái xốp, trạng thái dễ làm cho tơi ra (đất)
+- tính mơ hồ, tính không chính xác; tính không chặt chẽ, tính phóng (lý luận, lập luận, viết văn...)
+- tính phóng đãng, tính phóng túng, tính không nghiêm, tính ẩu, tính bừa bâi... (đạo đức, kỷ luật...)
+- (y học) bệnh yếu ruột (hay ỉa chảy)
+
+@loosening
+* dt
+- sự nới lỏng (mối ghép)
+- sự vặn ra (vít)
+- sự xới tới (đất)
+ @loosestrife  
+*  dt
+- (thực vật học) cây trân châu
+- cây thiên khuất
+
+@loose-tongued  
+*  tt
+- ba hoa, nói năng bừa bãi
+
+@loot  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) trung uý
+*  dt
+- cướp của được
+- bỗng lộc phi pháp
+- (từ Mỹ,nghĩa Mỹ) sự cướp bóc (một thành phố...)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tiền, xin
+*  dgt
+- cướp bóc, cướp phá
+
++ to loot a city: cướp phá một thành phố
+
+@looter  
+*  dt
+- kẻ cướp bóc, kẻ cướp phá
+
+@lop  
+*  dt
+- cành cây tỉa, cành cây xén xuống
+
++ lop and top; lop and crop: cành tỉa, cành xén
+*  ngdgt
+- cắt cành, tỉa cành, xén cành
+- ((thường) : off) cắt đi, chặt đi
+*  dt
+- sóng vỗ bập bềnh; tiếng sóng bập bềnh
+*  ndgt
+- vỗ bập bềnh (sóng)
+- thõng xuống, lòng thòng
+- (: about) bước lê đi, lết đi, la cà
+- (như) lope
+
+@lope  
+*  dt
+- sự nhảy cẫng
+*  ndgt
+- nhảy cẫng lên; vừa chạy vừa nhảy cẫng lên
+
+@lop-eared  
+*  tt
+- có tai thõng xuống
+
+@lophobranch
+* dt
+- (động vật) bộ cá chìa vôi
+ @lophodont
+* tt
+- (động vật) có răng kiểu méo
+ @lophophore
+* dt
+- vòng râu sờ (ở động vật hình rêu)
+ @lopper
+* dt
+- người tỉa cây
+ @lopping  
+*  dt
+- sự tỉa cành, sự xén cành
+- sự trừ khử những cái vô dụng
+- (số nhiều) cành bị tỉa, cành bị xén
+
+@loppy  
+*  tt
+- thõng xuống, lòng thòng
+
+@lop-sided  
+*  tt
+- nghiêng hẳn về một bên; không cân xứng, không cân
+
+@lop-sidedness  
+*  dt
+- trạng thái nghiêng hẳn về một bên; sự không cân xứng
+
+@lopstick  
+*  dt
+- (Ca-na-dda) cây xén hết cành dưới (để làm dấu)
+
+@loquacious  
+*  tt
+- nói nhiều, ba hoa
+- líu lo, ríu rít (chim); róc rách (suối)
+
+@loquaciously
+* dt
+- ba hoa, huyên thuyên
+ @loquaciousness   (loquacity) @loquacity   (loquacity) @loquat  
+*  dt
+- (thực vật học) cây sơn trà Nhật-bản
+
+@lor
+- interj
+- lạy chúa tôi! (lord (viết tắt))
+ @loran
+* dt
+- loran (hệ thống vô tuyến đạo hàng xa,  viết-tắt của long range navigation)
+ @lorcha  
+*  dt
+- thuyền con (ở Trung-quốc,  Ân-ddộ)
+
+@lord  
+*  dt
+- chủ đề, chúa tể, vua
+
++ lord of the manor: chủ trang viên
+
++ lord of the region: chúa tể cả vùng
+- vua (tư bản độc quyền nắm một ngành công nghiệp nào)
+
++ steel lord: vua thép
+- Chúa,  Thiên chúa
+
++ Lord bless us: cầu Chúa phù hộ chúng ta
+- ngài, chúa công (tiếng tôn xưng người quý tộc, người có chức tước lớn, thượng nghị viện...)
+
++ The Lords: các thượng nghị viện (ở Anh)
+
++ Lord Mayor: ngài thị trưởng (thành phố Luân-ddôn)
+
++ My Lords: thượng nghị viện (ở Anh)
+- (thơ ca);(đùa cợt) đức ông chồng, đức lang quân ((cũng) lord and master)
+!drunk as a lord
+- (xem) drunk
+*  ngdgt
+- phong tước, ban tước, cho vào hàng quý tộc
+*  ndgt
+- to lord over; to lord it over khống chế, sai khiến, sai bảo; ra oai, làm ra vẻ bề trên, hống hách
+
++ to be lorded over: bị khống chế, bị đè đầu cưỡi cổ
+
+@lord-in-waiting  
+*  dt
+- quan thị vệ (của vua Anh)
+
+@lordliness  
+*  dt
+- tính chất quý tộc
+- tính kiêu căng, tính ngạo mạn, tính hách dịch
+
+@lordling  
+*  dt
+- ông vua nhỏ; tiểu quý tộc
+
+@lordly  
+*  tt
+- có tính chất quý tộc, cao thượng, cao quý
+- kiêu căng, ngạo mạn, hống hách, hách dịch
+
+@lordosis  
+*  dt
+- (y học) tật ưỡn lưng
+
+@lordotic  
+*  tt
+- (y học) mắc tật ưỡn lưng
+
+@lord's day
+* dt
+- ngày chủ nhật
+ @lord's prayer
+* dt
+- (thiên chúa giáo) bài kinh bắt đầu bằng " Cha của chúng con"
+ @lords spiritual
+* dt
+- các giáo sự cao cấp của Giáo hội Anh tại Thượng nghị viện Anh
+ @lords temporal
+* dt
+- các quý tộc tại Thượng nghị viện Anh được phong tước hiệu đến mãn đời
+ @lordship  
+*  dt
+- quyền thế, uy quyền, quyền lực; quyền chiếm hữu (của đại quý tộc phong kiến)
+- gia trang; lâu đài (của đại quý tộc phong kiến)
+!Your lordship
+!His lordship
+- các hạ (tiếng tôn xưng các nhà quý tộc)
+
+@lore  
+*  dt
+- toàn bộ sự hiểu biết và truyền thuyết (về một vấn đề gì)
+
++ bird lore: toàn bộ sự hiểu biết và truyền thuyết về loài chim
+- (từ cổ,nghĩa cổ) học vấn, trí thức
+*  dt
+- (động vật học) vùng trước mắt (chim...)
+
+@Lorenz curve
+- (Econ) Đường Lorenz
+: Một đồ thị dùng để tính mức độ bất bình đẳng.
+ @lorgnette  
+*  dt
+- kính cầm tay
+- ống nhòm xem xét
+
+@lorgnon
+* dt
+- kính cầm tay
+- kính cặp mũi
+ @lorica
+* dt
+- cũng loricae
+- (lịch sử La Mã) áo giáp che ngực
+- vỏ cứng; mai (động vật)
+ @loricate  
+*  tt
+- (động vật học) có vỏ cứng, có mai
+
+@lorication
+* dt
+- tình trạng có mai; tình trạng có vỏ cứng (động vật)
+ @lorikeet  
+*  tt
+- vẹt lorikeet (ở Mã-lai)
+
+@lorimer
+* dt
+- người làm các bộ phận bằng sắt của yên cương ngựa
+ @loriner
+* dt
+- xem lorimer
+ @loriot  
+*  dt
+- chim vàng anh
+
+@loris  
+*  dt
+- (động vật học) con culi (động vật gần với vượn cáo)
+
+@lorn  
+*  tt (thơ ca); quya bị bỏ bơ vơ, trơ trọi, không ai nhìn đến
+- hoang vắng, quạnh hiu, cô quạnh ((thường) lone lorn)
+
+@lorry  
+*  dt
+- xe tải ((cũng) motor lorry)
+- (ngành đường sắt) toa chở hàng (không có mui)
+*  dgt
+- đi bằng xe tải; vận chuyển bằng xe tải
+
+@lory  
+*  dt
+- vẹt lori (Ân-ddộ,  Uc)
+
+@losable  
+*  tt
+- có thể mất
+
+@Losch model
+- (Econ) Mô hình Losch
+: Xem LOCATION THEORY.
+ @lose  
+*  ngdgt (lost)
+- mất không còn nữa
+
++ to lose one's head: mất đầu; mất bình tĩnh, bối rối
+
++ to lose one's life in the resistance: hy sinh trong kháng chiến
+
++ doctor loses patient: bác sĩ mất khách; bác sĩ không cứu sống được người bệnh
+- mất, mất hút, không thấy nữa; lạc, thất lạc
+
++ to be lost in the thick woods: bị lạc trong rừng rậm
+- bỏ lỡ, bỏ uổng, bỏ qua
+
++ to lose an opportunity: lỡ cơ hội
+
++ to lose one's train: lỡ chuyến xe lửa
+- thua, bại
+
++ to lose a lawsuit: thua kiện
+
++ to lose a battle: thua trận
+- uổng phí, bỏ phí
+
++ to lose time in gambling: bỏ phí thì giờ vào quân bài lá bạc
+- làm hại, làm mất, làm hư, di hại
+
++ that might lose him his job: cái đó có thể làm cho nó mất công ăn việc làm
+
++ the ship was lost with all hands on board: con tàu bị đắm với tất cả thuỷ thủ ở trên boong
+- chậm (đồng hồ)
+
++ the watch loses about two minutes a day: đồng hồ chạy chậm chừng hai phút mỗi ngày
+- dạng bị động mê man, say sưa, chìm đắm, triền miên; mất hết không còn nữa; bị lu mờ
+
++ to be lost in meditation: trầm ngâm, chìm đắm trong suy nghĩ
+
++ to be lost to all sense of duty: không còn một chút ý thức trách nhiệm nào
+
++ the beauty of the poem is lost upon them: chúng nó không thể nào thưởng thức nổi cái đẹp của bài thơ
+*  ndgt
+- mất; mất ý nghĩa, mất hay
+! Ho-Xuan-Huong's poems lose much in the translation
+- thơ Hồ Xuân Hương dịch ra bị mất hay đi nhiều
+- thất bại, thua, thua lỗ
+
++ the enemy had lost heavity: kẻ địch bị thất bại nặng nề
+!they lost and we won
+- chúng nó thua và ta thắng
+- chậm (đồng hồ)
+!to lose ground
+- (xem) ground
+!to lose heart (conrage)
+- mất hết can đảm, mất hết hăng hái
+!to lose sleep over something
+- lo nghĩ mất ngủ về cái gì
+!to lose oneself
+- lạc đường, lạc lối
+!to lose patience
+!to lose one's temper
+- mất bình tĩnh, nổi nóng, cáu
+!to lose one's reckoning
+- rối trí, hoang mang
+!to lose self-control
+- mất bình tĩnh, mất tự chủ, nóng nảy
+!to lose one's way
+- lạc đường
+!lost soul
+- một tâm hồn sa đoạ, một tâm hồn tội lỗi không hòng gì cứu chữa được nữa
+
+@lose
+- mất
+ @losel  
+*  dt
+- (từ cổ,nghĩa cổ) kẻ vô giá trị, người không ra gì, đồ vô lại, đồ giá áo túi cơm
+
+@loser  
+*  dt
+- người mất
+- người thua (cuộc, bạc); ngựa... (thua cuộc đua...)
+
++ good loser: người thua nhưng không nản chí không bực dọc
+
++ to come off a loser: thua (cuộc...)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người tồi, vật tồi
+
+@losing  
+*  tt
+- nhất định thua, nhất định thất bại, không hòng thắng
+
+@loss  
+*  dt
+- sự mất
+- sự thua, sự thất bại
+
++ the loss of a battle: sự thua trận
+- sự thiệt hại, tổn hại, tổn thất, thua lỗ
+
++ to suffer heavy losses: bị thiệt hại nặng
+
++ to seli at a loss: bán lỗ vốn
+
++ a deal loss: sự mất không
+
++ to make up a loss: bù vào chỗ thiệt
+
++ the dealth of Lenin was a great loss to the world proletarian movement: Lê-nin mất đi là một tổn thất lớn cho phong trào vô sản thế giới
+- sự uổng phí, sự bỏ phí
+
++ without loss of time: không để uổng phí thì giờ
+!to be at a loss
+- lúng túng, bối rối, luống cuống
+
++ to be a loss to answers (for an answer; how to answer): lúng túng không biết trả lời thế nào
+
+@loss
+- sự tổn thất, sự mất mát, sự hao
+- l. of information mất mát, sự hao 
+- energy l. sự mất năng lượng
+- hunting l. tổn thất dò
+- minimax tổn thất minimac
+- refraction l. tổn thất khúc xạ
+- resistance l. tổn thất do cản; [sự, độ] hao (do hiệu ứng)
+- transition l. hao chuyển tiếp 
+- translation l. hao tịnh tiến
+- transmission l. tổn thất truyền đạt 
+ @Loss aversion
+- (Econ) Sự không thích mất mát.
+: Một giả thiết cho rằng ĐỘ PHI THOẢ DỤNG do bị mất một hàng hoá nhiều hơn so với độ thoả dụng của hàng hoá ấy.
+ @Loss function
+- (Econ) Hàm thua lỗ.
+: Một hàm phi thoả dụng mà một nhà lập chính sách muốn tối thiểu hoá.
+ @Loss leader pricing
+- (Econ) Bán hạ giá trước.
+: Khi các doanh nghiệp có hàng hoá đa dạng choà bán một phần trong loạt sản phẩm của họ ở mức giá thấp hơn chi phí, và tin rằng điều này sẽ thúc đảy việc tiêu thụ các sản phẩm có chênh lệch lợi nhuân cao hơn.
+ @Loss offsetting provisions
+- (Econ) Các điều khoản bù lỗ.
+: Thường nói đến thoả thuận, theo đó các khoản lỗ của một dự án có thể được bù lại bởi thu nhập từ các nguồn khác.
+ @loss-leader  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) món hàng bán lỗ để kéo khách
+
+@lossless
+- sự không bị mất, sự không bị thiệt (dùng trong nén thông tin)
+ @lossless
+- không tổn thất
+ @lossy
+- sự mất, sự thiệt (dùng trong nén thông tin)
+ @lost  
+*  ngdgt (lost)
+- mất không còn nữa
+
++ to lose one's head: mất đầu; mất bình tĩnh, bối rối
+
++ to lose one's life in the resistance: hy sinh trong kháng chiến
+
++ doctor loses patient: bác sĩ mất khách; bác sĩ không cứu sống được người bệnh
+- mất, mất hút, không thấy nữa; lạc, thất lạc
+
++ to be lost in the thick woods: bị lạc trong rừng rậm
+- bỏ lỡ, bỏ uổng, bỏ qua
+
++ to lose an opportunity: lỡ cơ hội
+
++ to lose one's train: lỡ chuyến xe lửa
+- thua, bại
+
++ to lose a lawsuit: thua kiện
+
++ to lose a battle: thua trận
+- uổng phí, bỏ phí
+
++ to lose time in gambling: bỏ phí thì giờ vào quân bài lá bạc
+- làm hại, làm mất, làm hư, di hại
+
++ that might lose him his job: cái đó có thể làm cho nó mất công ăn việc làm
+
++ the ship was lost with all hands on board: con tàu bị đắm với tất cả thuỷ thủ ở trên boong
+- chậm (đồng hồ)
+
++ the watch loses about two minutes a day: đồng hồ chạy chậm chừng hai phút mỗi ngày
+- dạng bị động mê man, say sưa, chìm đắm, triền miên; mất hết không còn nữa; bị lu mờ
+
++ to be lost in meditation: trầm ngâm, chìm đắm trong suy nghĩ
+
++ to be lost to all sense of duty: không còn một chút ý thức trách nhiệm nào
+
++ the beauty of the poem is lost upon them: chúng nó không thể nào thưởng thức nổi cái đẹp của bài thơ
+*  ndgt
+- mất; mất ý nghĩa, mất hay
+! Ho-Xuan-Huong's poems lose much in the translation
+- thơ Hồ Xuân Hương dịch ra bị mất hay đi nhiều
+- thất bại, thua, thua lỗ
+
++ the enemy had lost heavity: kẻ địch bị thất bại nặng nề
+!they lost and we won
+- chúng nó thua và ta thắng
+- chậm (đồng hồ)
+!to lose ground
+- (xem) ground
+!to lose heart (conrage)
+- mất hết can đảm, mất hết hăng hái
+!to lose sleep over something
+- lo nghĩ mất ngủ về cái gì
+!to lose oneself
+- lạc đường, lạc lối
+!to lose patience
+!to lose one's temper
+- mất bình tĩnh, nổi nóng, cáu
+!to lose one's reckoning
+- rối trí, hoang mang
+!to lose self-control
+- mất bình tĩnh, mất tự chủ, nóng nảy
+!to lose one's way
+- lạc đường
+!lost soul
+- một tâm hồn sa đoạ, một tâm hồn tội lỗi không hòng gì cứu chữa được nữa
+
+@lost
+- tổn thất, hao
+ @lost cause  
+*  dt
+- sự nghiệp chắc chắn thất bại
+
+@lost property
+* dt
+- đồ đạc bị thất lạc
+ @lot  
+*  dt
+- thăm, việc rút thăm; sự chọn bằng cách rút thăm
+
++ to cast lots: rút thăm
+
++ to choose by lot: chọn bằng cách rút thăm
+
++ the lot fell on him: rút thăm trúng anh ấy
+- phần do rút thăm định; phần tham gia
+
++ to have no part nor lot in: không dính dáng gì vào
+- số, phận, số phận, số mệnh
+
++ he has throw (cast) in his lot with us: nó muốn cùng chia sẻ số phận với chúng tôi
+
++ the lot falls to me (it falls to me as my lot) to do something: cái số tôi phải làm cái gì
+- mảnh, lô (đất)
+
++ a lot of ground: một mảnh đất, một lô đất
+
++ parking lot: khu đất đỗ xe, chỗ đỗ xe
+- mớ, lô; (số nhiều) rất nhiều, vô số, hàng đống, hàng đàn
+
++ lot of woollens: một lô hàng len
+
++ the lot: cả lô, cả mớ, cả bọn
+
++ lots of friends: rất nhiều bạn, hàng đống bạn
+!bad lot
+- (xem) bad
+*  ngdgt
+- chia ra làm nhiều phần, chia ra làm nhiều mảnh, chia ra làm nhiều lô (đất, hàng để bán)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) trông non, trông cậy (ở ai, cái gì)
+
++ to lot on (upon) somebody: trông mong ở ai
+*  dt
+- nhiều, vô số
+
++ I feel a lot better: tôi cảm thấy khoẻ hơn nhiều
+
+@lot
+- mớ, lô, bề, nhóm, khối, một khối lượng lớn
+- accepted l. lô nhận được
+- grand l. (thống kê) lô lớn
+- inspection l. lô đưa vào kiểm tra 
+ @loth   (loth) @lothario
+* dt; số nhiều lotharios
+- người ham thích quyến rũ đàn bà
+ @lotic  
+*  tt
+- (thuộc) nước chảy; sống trong nước chảy
+
+@lotiform
+* tt
+- hình hoa sen
+ @lotion  
+*  dt
+- nước thơm (để gội đầu, để tắm)
+- thuốc rửa (vết thương)
+- (từ lóng) chất cay, rượu
+
+@lotos   (lotos) @lotsa
+* tt
+- rất nhiều
+
++  I had lotsa proposals:Tôi đã có rất nhiều đề nghị
+ @lottery  
+*  dt
+- cuộc xổ số
+- điều may rủi
+
+@lottery
+- (thống kê) sổ số
+ @lotto  
+*  dt
+- trò chơi xổ số
+
+@lotus   (lotos) @lotus-eater  
+*  dt
+- kẻ hưởng lạc, kẻ thích nhàn hạ
+
+@louche
+* tt
+- lác; lé (mắt)
+- mập mờ; ám muội (hành vi)
+ @loud  
+*  tt
+- to, ầm ĩ, inh ỏi (tiếng)
+
++ a loud cry: một tiếng kêu to
+
++ a loud report: một tiếng nổ lớn
+- nhiệt liệt, kịch liệt
+
++ to be loud in the prise of somebody: nhiệt liệt ca ngợi ai
+
++ a loud protest: sự phản kháng kịch liệt
+- sặc sỡ, loè loẹt (mài sắc)
+- thích ồn ào, thích nói to (người)
+*  dt
+- to, lớn (nói)
+
++ don't talk so loud: đừng nói to thế
+
++ to laugh loud and long: cười to và lâu
+
+@loud speaker  
+*  dt
+- (raddiô) cái loa; cái phóng thanh ((cũng) speaker)
+
+@louded
+* tt
+- sai lầm (vấn đề, luận điểm)
+- (thông tục) say mềm
+- có rất nhiều tiền
+ @louden
+* ngdgt
+- làm thành vang dội
+* ndgt
+- trở thành vang dội
+ @louder
+* dt
+- máy chất tải; thiết bị chất tải
+- mobile loader
+- máy chất tải lưu động
+- cơ cấu nạp liệu
+- (tin học) bộ nạp: chương trình nạp
+
++  program louder:bộ nạp chương trình
+- người khuân vác
+ @loudhailer
+* dt
+- loa pin, micrô pin
+ @loudish  
+*  tt
+- to to, khá to, hơi ầm ĩ (tiếng nói)
+
+@loudly  
+*  dt
+- ầm ĩ, inh ỏi
+- nhiệt liệt, kịch liệt (ca ngợi, phản kháng)
+- sặc sỡ, loè loẹt (màu sắc)
+
+@loudmouth  
+*  dt
+- (thông tục) người to mồn, người hay kêu, người hay la
+
+@loudmouthed  
+*  tt
+- (thông tục) to mồm, hay kêu, hay la
+
+@loudness  
+*  dt
+- tính chất to, tính chất ầm ĩ
+- sự nhiệt liệt; tính kịch liệt (ca ngợi, phản kháng)
+- tính sặc sỡ, tính loè loẹt
+
+@loudness
+- (vật lí) âm lượng, cường độ
+ @loudspeaker
+* dt
+- (radio) loa phóng thanh ((cũng) speaker)
+ @lough  
+*  dt
+- (Ai-len) hồ, vịnh
+
+@lounge  
+*  dt
+- sự đi thơ thẩn, sự lang thang không mục đích
+- ghế dài, đi văng, ghế tựa
+- buồng đợi, phòng khách, phòng ngồi chơi (ở khách sạn)
+*  ndgt
+- đi thơ thẩn, đi dạo, lang thang không mục đích ((cũng) to lounge about)
+- ngồi uể oải; nằm ườn
+*  ngdgt
+- ((thường) : away) to lounge away one's time lang thang uổng phí thì giờ
+
+@lounge suit  
+*  dt
+- bộ thường phục
+
+@lounge-bar
+* dt
+- quán rượu rất lịch sự
+ @lounger  
+*  dt
+- người hay đi thơ thẩn, người lang thang
+- kẻ lười biếng
+
+@lounge-wear
+* dt
+- quần áo mặc trong nhà
+ @lounging  
+*  tt
+- dùng để mặc trong nhà
+- thơ thẩn, lang thang
+- uể oải, ườn ra
+
+@loungingly  
+*  dt
+- thơ thẩn, lang thang
+- uể oải, ườn ra
+
+@loup
+* dgt
+- nhảy
+- nhảy qua
+ @loupe  
+*  dt
+- kính lúp
+
+@loup-garou
+* dt; số nhiều loup-garous
+- ma chó sói
+- người càu cạu
+ @lour  
+*  dt
+- sự cau mày
+- bóng mây u ám
+*  ndgt
+- cau mày; có vẻ đe doạ
+
++ to lour at (uopn) somebody: cau mày nhìn ai; nhìn ai có vẻ đe doạ
+- tối sầm (trời, mây)
+
+@louse  
+*  dt,  số nhiều lice
+- rận; chấy
+
+@lousewort  
+*  dt
+- (thực vật học) cây cỏ sắt
+
+@lousily  
+*  dt
+- đê tiện, bần tiện
+
+@lousiness  
+*  dt
+- tình trạng có rận; tình trạng có chấy
+- tính đê tiện, tính bần tiện
+
+@lousy  
+*  tt
+- có rận; có chấy
+- puộc thưa khuẫn bần tiện; ghê gớm
+- (từ lóng) (: with) đầy rẫy, lắm, nhiều
+
++ lousy with money: lắm tiền nhiều của
+
+@lout  
+*  dt
+- người vụng về, người thô lỗ, người cục mịch
+
+@loutish  
+*  tt
+- vụng về, thô lỗ, cục mịch
+
+@louver   (louvre) @louvre   (louvre) @lovability   (lovableness) @lovable  
+*  tt
+- đáng yêu, dễ thương
+
+@lovableness   (lovableness) @lovage
+* dt
+- (thực vật) cây cần núi
+ @love  
+*  dt
+- lòng yêu, tình thương
+
++ love of one's country: lòng yêu nước
+
++ a mother's love for her children: tình mẹ yêu con
+- tình yêu, mối tình, ái tình
+
++ first love: mối tình đầu
+
++ never trifle with love: không nên đùa bỡn với tình yêu
+
++ to be in love with: yêu (ai)
+
++ to fall in love with: đâm ra yêu (phải lòng) (ai)
+
++ to make love to someone: tán tỉnh ai, tỏ tình với ai; ôm ấp hôn hít ai, ăn nằm với ai
+
++ to marry for love: kết hôn vì tình
+- người yêu, người tình
+- thần ái tình
+- (thông tục) người đáng yêu; vật đáng yêu
+- (thể dục,thể thao) điểm không, không (quần vợt)
+
++ love all: không không (hai bên cùng không được điểm nào)
+
++ love forty: không bốn mươi
+
++ a love set: một ván thua trắng (người thua không được điểm nào)
+!to love in a cottage
+- ái tình và nước lã
+!one can't get it for love or money
+- không có cách gì lấy được cái đó
+!to play for love
+- chơi vì thích không phải vì tiền
+!there is no love lost between them
+- chúng nó ghét nhau như đào đất đổ đi
+*  ngdgt
+- yêu, thương, yêu mến
+
++ to love one another: yêu nhau, thương nhau
+- thích, ưa thích
+
++ to love sports: thích thể thao
+
++ to love music: thích âm nhạc
+
++ he loves to be praised: nó thích được khen
+
+@loveable
+* tt
+- xem lovable
+ @love-affair  
+*  dt
+- chuyện yêu đương, chuyện tình
+
+@love-apple  
+*  dt
+- (thực vật học) cà chua
+
+@love-begotten  
+*  tt
+- đẻ hoang
+
+@love-bird  
+*  dt
+- (động vật học) vẹt xanh
+
+@lovebird
+* dt
+- (động vật học) vẹt xanh
+- kẻ si tình
+ @love-child  
+*  dt
+- con hoang
+
+@loved
+* tt
+- thân ái; yêu quý
+ @love-favour
+* dt
+- quà tặng để tỏ tình yêu
+ @love-hate relationship
+* dt
+- quan hệ yêu-ghét
+ @love-knot  
+*  dt
+- nơ thắt hình số 8
+
+@lovelace  
+*  dt
+- chàng công tử phong lưu; anh chàng hay tán gái; sở khanh
+
+@loveless  
+*  tt
+- không tình yêu; không yêu; không được yêu
+
+@love-letter  
+*  dt
+- thư tình
+
+@loveliness  
+*  dt
+- vẻ đẹp, vẻ đáng yêu, vẻ yêu kiều
+
+@lovelock  
+*  dt
+- món tóc mai (vòng xuống ở trán hay thái dương)
+
+@love-lorn  
+*  tt
+- sầu muộn vì tình; thất tình; bị tình phụ, bị bỏ rơi
+
+@lovelorn
+* tt
+- sầu muộn vì tình; thất tình; bị tình phụ, bị bỏ rơi
+ @lovelorness
+* dt
+- nỗi sầu muộn vì tình; nỗi thất tình; sự bị tình phụ
+ @love-lornness  
+*  dt
+- nỗi sầu muộn vì tình; nỗi thất tình; sự bị tình phụ
+
+@lovely  
+*  tt
+- đẹp đẽ, xinh, đáng yêu, dễ thương, có duyên, yêu kiều
+- (thông tục) thú vị, vui thú, thích thú
+- (từ Mỹ,nghĩa Mỹ) đẹp (về mặt đạo đức)
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người đàn bà trẻ đẹp
+
+@love-making  
+*  dt
+- sự tỏ tình, sự tán gái
+- sự ăn nằm với nhau, sự giao hợp
+
+@love-match  
+*  dt
+- sự lấy nhau vì tình
+
+@love-nest
+* dt
+- nơi kín đáo để trai gái ăn nằm
+ @love-potion
+* dt
+- <thần thoại> nước mà ai uống vào ắt sẽ yêu
+ @lover  
+*  dt
+- người yêu, người ham thích, người ham chuộng, người hâm mộ
+
++ a lover of music: người ham thích nhạc
+- người yêu, người tình
+
+@loverlike
+* tt
+- như tình nhân
+ @loverly
+* tt
+- của người yêu
+
++  loverly attentions:sự ân cần của người yêu
+- thú vị, xinh đẹp
+ @love-seat
+* dt
+- ghế xôpha có hai chỗ ngồi đối diện nhau
+ @lovesick  
+*  tt
+- tương tư
+
+@lovesickness
+* dt
+- sự tương tư, nỗi tương tư
+ @love-song
+* dt
+- tình ca
+ @love-story
+* dt
+- chuyện tình
+ @love-token  
+*  dt
+- vật kỷ niệm tình yêu
+
+@loveworthy
+* tt
+- đáng được yêu
+ @lovey
+* dt
+- người tình
+- cục cưng
+ @lovey-dovey
+* tt
+- (thông tục) (thuộc) yêu thương, âu yếm, trìu mến, đa cảm,  ủy mị
+ @loving  
+*  tt
+- thương mến, thương yêu, âu yếm; có tình
+
+@loving-cup  
+*  dt
+- chén rượu thâm tình (chuyền tay nhau quanh bàn tiệc)
+
+@loving-kindness  
+*  dt
+- lòng trìu mến, sự chăm sóc âu yếm
+
+@lovingly
+* dt
+- âu yếm, đằm thắm
+ @lovingness  
+*  dt
+- sự âu yếm; lòng yêu thương, tình thân ái
+
+@low  
+*  dt
+- tiếng rống (trâu bò)
+*  dgt
+- rống (trâu bò)
+*  dt
+- ngọn lửa
+*  ndgt
+- rực cháy, bốc cháy
+*  dt
+- mức thấp, con số thấp
+- số thấp nhất (ô tô)
+
++ to put a car in low: gài số một
+- con bài thấp nhất
+- (thể dục,thể thao) tỷ số thấp nhất
+*  tt
+- thấp, bé, lùn
+
++ a man of low stature: người thấp bé
+- thấp, cạn
+
++ at low water: lúc triều xuống
+- thấp bé, nhỏ
+
++ a low voice: tiếng nói khẽ
+- thấp, hạ, kém, chậm
+
++ to dell at low price: bán giá hạ
+
++ to get low wages: được lương thấp
+
++ low temperature: độ nhiệt thấp
+
++ low speed: tốc độ chậm
+
++ to have a low opinion of somebody: không trọng ai
+- thấp hèn, ở bậc dưới; tầm thường, ti tiện, hèm mọn
+
++ all sorts of people, high and low: tất cả mọi hạng người từ kẻ sang cho đến người hèn
+
++ a low fellow: một kẻ đê hèn
+- yếu, suy nhược, kém ăn, không bổ
+
++ to be in a low state of health: trong tình trạng sức khoẻ t) có công suất nhỏ (máy)
+
+@low
+- dưới; không đáng kể
+ @Low - level equilibrium trap
+- (Econ) Bẫy cân bằng mức thấp.
+: Xem POPULATION POLYCY, POPULATION.
+ @low church
+* dt
+- một phái thuộc Giáo hội Anh không xem trọng quyền lực của giám mục, Dòng thờ nhỏ
+ @low season
+* dt
+- mùa làm ăn ế ẩm, mùa ít khách
+ @low tide
+* dt
+- lúc thuỷ triều xuống thấp
+- <bóng> điểm thấp nhất
+ @Low wage trade
+- (Econ) Thương mại lương thấp.
+: Xem DYNAMIC THEORIES OF COMPARATIVE ADVANTAGE.
+ @low-ash
+* tt
+- ít tro
+ @low-back
+* tt
+- (ngôn ngữ) thuộc nguyên âm thấp dòng sau
+ @low-born
+* tt
+- xuất thân từ tầng lớp dưới
+ @lowboy  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) bàn trang điểm thấp có ngăn kéo
+
+@low-bred
+* tt
+- mất dạy, vô giáo dục
+- thô lỗ
+ @lowbrow  
+*  dt
+- người ít học
+*  tt
+- ít học
+
+@lowbrowed  
+*  tt
+- có trán thấp (người)
+- có mái thấp; tối tăm; có cửa ra vào thấp (nhà...)
+
+@lowbrowism  
+*  dt
+- sự ít học
+
+@low-carbon
+* tt
+- có hàm lượng các bon thấp
+ @low-cetane
+* tt
+- có chỉ số xêtan thấp
+ @low-churchman
+* dt
+- người ủng hộ Dòng thờ nhỏ
+ @low-class
+* tt
+- hạng thấp, ít giá trị
+ @low-comedy
+* tt
+- hài kịch thấp (dựa vào tình huống hài hước hơn vào tâm lý)
+ @low-compression
+* tt
+- có tỷ số nén thấp
+ @low-cost
+* tt
+- giá rẻ
+ @low-down
+* tt
+- <lóng> ti tiện, đáng khinh, hèn mạt, đê tiện
+* dt
+- <Mỹ><lóng> sự thật (của một việc gì...)
+ @low-energy
+* tt
+- có năng lượng thấp
+ @lower  
+*  tt,  cấp so sánh của low
+- thấp hơn, ở dưới, bậc thấp
+
++ the lower lip: môi dưới
+
++ the lower animals: động vật bậc thấp
+
++ the lower school: trường tiểu học
+*  dgt
+- hạ thấp, hạ xuống, kéo xuống
+
++ to lower a flag: kéo cờ xuống
+
++ to lower one's voice: hạ giọng
+- giảm, hạ (giá cả)
+
++ to lower prices: hạ giá
+- làm yếu đi, làm giảm đi
+
++ poor diet lowers resistance to illiness: chế độ ăn uống kém làm giảm sức đề kháng đối với bệnh tật
+- làm xấu đi, làm thành hèn hạ, làm giảm giá trị
+
++ to lower oneself: tự mình làm mất phẩm giá, tự mình làm cho hèn hạ; tự hạ mình
+*  ndgt
+- cau mày; có vẻ đe doạ
+- tối sầm (trời, mây)
+
+@lower
+- dưới   hạ xuống
+@lower case
+* dt
+- <in> chữ nhỏ, chữ thường (không phải chữ hoa)
+ @lower chamber
+* dt
+- <chtrị> Hạ nghị viện
+ @lower deck
+* dt
+- hạ sự quan hải quân
+ @lower house
+* dt
+- <chtrị> Hạ nghị viện
+ @lowercase
+- chữ thường
+ @lower-class
+* tt
+- thuộc giai cấp dưới
+- thuộc học sinh (sinh viên) lớp dưới
+ @lowering  
+*  tt
+- làm yếu, làm suy (cơ thể)
+*  tt
+- cau lại; có vẻ đe doạ (vẻ mặt)
+- tối sầm (trời, mây)
+
+@lowering
+- sự hạ thấp
+- l. of index hạ thấp chỉ số 
+ @lowermost  
+*  tt
+- thấp nhất
+
+@lowery
+* tt
+- tối tăm; u ám
+ @lowest
+- thấp nhất; nhỏ nhất
+ @low-expansion
+* dt
+- hệ số giãn nở thấp
+ @low-flying
+* tt
+- bay thấp (máy bay)
+ @low-frequency
+* dt
+- <rađiô> tần số thấp
+ @low-grade
+* tt
+- (thuộc) hạng kém, ít giá trị
+ @low-key
+* tt
+- không quá sôi nổi, không quá gây xúc động
+ @lowland  
+*  dt
+- vùng đất thấp
+- (the Lowlands) vùng đất thấp Ê-cốt
+
+@lowlander  
+*  dt
+- dân vùng đất thấp
+- (Lowlander) vùng đất thấp Ê-cốt
+
+@low-level language
+* dt
+- <tin> ngôn ngữ cấp thấp
+ @lowliness  
+*  dt
+- tính chất tầm thường, tính ti tiện, tính hèn mọn
+- lòng khiêm tốn; tính nhún nhường, khiêm nhượng
+
+@lowly  
+*  tt & dt
+- tầm thường, ti tiện, hèn mọn
+- khiêm tốn, nhún nhường, khiêm nhượng
+
+@low-lying
+* tt
+- thấp, ở mức mặt biển
+ @lowlying
+* tt
+- thấp lè tè
+
++  lowlying hills:những ngọn đồi thấp lè tè
+
++  lowlying clouds:những đám mây thấp lè tè
+ @low-minded
+* tt
+- tầm thường, hèn kém
+ @low-mindedness
+* dt
+- tính tầm thường, tính hèn kém
+ @low-necked
+* tt
+- có cổ thấp (áo)
+ @lowness  
+*  tt
+- sự thấp bé, sự nhỏ thấp
+- tính trầm, tính thấp (âm thanh)
+- tính hạ (giá cả)
+- tính tầm thường, tính thấp hèn, tính hèn mọn, tính nhỏ mọn
+- sự suy nhược, sự thiếu nhuệ khí, sự chán nản
+
++ lowness of spririts: sự chán nản
+
+@low-paid
+* tt
+- bị trả lương thấp
+ @low-pitched
+* tt
+- nhỏ, khẽ; trầm (tiếng nói)
+- dốc thoai thoải (mái)
+ @low-powered
+* tt
+- <kỹ> có công suất nhỏ (máy)
+ @low-pressure  
+*  tt
+- có áp suất thấp
+
+@low-priced
+* tt
+- định giá thấp
+ @low-proof
+* tt
+- (rượu) nồng độ thấp
+ @low-purity
+* dt
+- độ sạch thấp
+ @low-relief
+* dt
+- độ đắp nổi thấp
+ @low-resistance
+* dt
+- điện trở thấp
+ @low-rise
+* tt
+- (nói về ngôi nhà) ít tầng
+ @low-silhouette
+* tt,  n
+- xem low  profile
+ @low-speed
+* dt
+- tốc độ chậm
+ @low-spirited  
+*  tt
+- chán nản
+
+@low-spiritedness  
+*  dt
+- sự chán nản
+
+@low-spirits
+* dt số nhiều
+- sự chán nản, sự mất tinh thần
+ @low-water mark  
+*  dt
+- mức nước thuỷ triều lúc thấp nhất
+- (nghĩa bóng) mức thấp nhất
+
+@lox
+* dt; số nhiều lox,  loxes
+- (hoá học) oxy lỏng
+ @loxodrome
+* dt
+- (toán học) đường tà hình
+ @loxodrome
+- (hình học) đường tà hành
+- conical l. đường tà hành nón 
+- spherical l. đường tà hành cầu 
+ @loxodromic
+- (thuộc). đường tà hành
+ @loxodromic(al)
+* tt
+- thuộc đường tà hình
+ @loyal  
+*  tt
+- trung thành, trung nghĩa, trung kiên
+*  dt
+- người trung nghĩa, người trung kiên
+
+@loyalims  
+*  dt
+- lòng trung nghĩa, lòng trung kiên
+
+@loyalism
+* dt
+- lòng trung nghĩa, lòng trung kiên
+ @loyalist  
+*  dt
+- tôi trung
+- người trung thành
+
+@loyally
+* dt
+- trung thành, trung nghĩa, trung kiên
+ @loyalty  
+*  dt
+- lòng trung thành, lòng trung nghĩa, lòng trung kiên
+
+@lozenge  
+*  dt
+- hình thoi
+- (dược học) viên thuốc hình thoi
+
+@

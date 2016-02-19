@@ -1,0 +1,199 @@
+@urachus
+* dt
+- ống niêu rốn, dây chằng rốn
+ @uraemia  
+*  dt
+- (y học) chứng tăng urê-huyết
+
+@uranium  
+*  dt
+- (hoá học) Urani
+
+@uranology  
+*  dt
+- thiên văn học
+
+@uranus
+* dt
+- (thiên văn học) sao Thiên Vương; Thiên Vương tinh
+ @urat
+- Một mạch tích hợp dùng để chuyển chuỗi dữ liệu song song bên trong một máy tính thành chuỗi nối tiếp, loại chuỗi dữ liệu cái này sau cái kia dùng trong truyền thông không đồng bộ Quá trình truyền thông nối tiếp khi đã có UART, còn đòi hỏi phải có cổng và modem nối tiếp
+ @urban  
+*  tt
+- (thuộc) thành phố, (thuộc) thành thị; ở thành phố, ở thành thị
+
++ urban population: nhân dân thành thị
+
+@Urban economics
+- (Econ) Kinh tế học đô thị.
+: Một nhánh của kinh tế học áp dụng các công cụ như tư duy vào phân tích hoạt động kinh tế và các vấn đề kinh tế ở thành thị.
+ @urbane  
+*  tt
+- lịch sự, tao nh 
+
+@urbanely
+* dt
+- lịch sự, tinh tế; hoà nhã
+ @urbanisation
+* dt
+- sự thành thị hoá
+- sự làm mất tính cách nông thôn
+ @urbanise   (urbanise) @urbanity  
+*  dt
+- phong cách lịch sự, phong cách tao nh 
+- (số nhiều) cử chỉ tao nh 
+
+@urbanization  
+*  dt
+- sự thành thị hoá
+
+@Urbanization economies
+- (Econ) Tính kinh tế của đô thị hoá.
+: Tiết kiệm chi phí nảy sinh khi các hoạt động kinh tế được tập trung ở các khu vực đô thị.
+ @urbanize   (urbanise) @urceolate  
+*  tt
+- (thực vật học) hình nhạc
+
+@urchin  
+*  dt
+- thằng nhóc; thằng nh i ranh, thằng ranh con
+- đứa trẻ cầu b cầu bất ((thường) street-urchin)
+- (động vật học) nhím biển ((thường) sea-urchin)
+
+@urdu
+* dt
+- một thứ tiếng họ hàng với tiếng Hin-đu nhưng có nhiều từ Ba-tư, được dùng nhiều ở Pa-kit-tan
+ @urea  
+*  dt
+- (hoá học) urê
+
+@ureter  
+*  dt
+- (gii phẫu) ống dẫn đái
+
+@ureteral
+* tt
+- xem ureter
+ @ureteric
+* tt
+- xem ureter
+ @urethra  
+*  dt
+- (gii phẫu) ống đái
+
+@urethrae
+* dt
+- <phẫu> niệu đạo (ống dẫn nước tiểu từ bàng quang ra ngoài cơ thể)
+ @urethral
+- xem urethra
+ @uretic   (uretic) @urge  
+*  dt
+- sự thúc đẩy, sự thôi thúc
+*  ngdgt
+- thúc, thúc giục, giục gi 
+
++ to urge the horse onward: thúc ngựa tiến lên
+
++ to urge someone to do something: thúc giục ai làm điều gì
+- cố nài, cố gắng thuyết phục
+
++ the shopkeeper urged me to buy a hat: nhà hàng nài tôi mua một cái mũ
+- nêu ra, đề xuất, by tỏ chủ trưng; dẫn chứng, viện chứng; nhấn mạnh
+
++ to urge the need for economy: nêu lên vấn đề cần thiết phi tiết kiệm; nhấn mạnh sự cần thiết phi tiết kiệm
+
+@urgency  
+*  dt
+- sự gấp rút, sự cần kíp, sự khẩn cấp, sự cấp bách
+
++ a matter of great urgency: một việc khẩn cấp
+- sự khẩn nài, sự năn nỉ
+
++ to yield to someone's urgency: nhượng bộ trước sự khẩn nài của ai
+
+@urgent  
+*  tt
+- gấp, cần kíp, khẩn cấp, cấp bách
+
++ urgent need: nhu cầu cấp bách
+- khẩn nài, năn nỉ
+
+@urgently
+- xem urgent
+ @uric  
+*  tt
+- (hoá học) uric
+
++ uric acid: axit uric
+
+@urinal  
+*  dt
+- (y học) bình đái (cho người bệnh)
+- (y học) lo đựng nước tiểu (để xét nghiệm)
+- chỗ đi tiểu
+
++ street urinal: chỗ đi tiểu ở đường phố, nhà đi tiểu công cộng
+
+@urinary  
+*  tt
+- (thuộc) nước tiểu
+
+@urinate  
+*  ndgt
+- đi đái, đi tiểu
+
+@urination  
+*  dt
+- sự đi đái, sự đi tiểu
+
+@urinative
+- xem urinate
+ @urinator
+- xem urinate
+ @urine  
+*  dt
+- nước đái, nước tiểu
+
+@urinology   (urinology) @urinoscopy  
+*  dt
+- phép xét nghiệm nước tiểu
+
+@urinous
+* tt
+- thuộc nước tiểu
+ @urn  
+*  dt
+- cái lư; cái vạc
+- bình đựng di cốt, bình đựng tro ho táng
+- bình h m trà, bình h m cà phê (ở các tiệm cà phê và căng tin)
+
+@urn
+- (cái) bình
+ @urogenital  
+*  tt
+- (động vật học) niệu sinh dục
+
+@urologic
+- xem urology
+ @urologist
+- xem urology
+ @urology   (urinology) @uroscopy
+* dt
+- phép xét nghiệm nước tiểu
+ @ursine  
+*  tt
+- (y học) (thuộc) gấu; như gấu
+
+@urticaceous  
+*  tt
+- (thực vật học) (thuộc) họ gai
+
+@urticaria  
+*  dt
+- (y học) chứng mày đay
+
+@urticarial
+- xem urticaria
+ @Uruguay Round
+- (Econ) Vòng đàm phán Uruguay.
+ @

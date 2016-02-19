@@ -1,0 +1,2693 @@
+@bl
+* dthư LitB
+- như LitB
+ @blab  
+*  dt: (blabber) 
+@blabber  
+*  dt: (blabber) 
+@blabbermouth
+* dt
+- người ăn nói ba hoa
+ @blabby
+- xem blab
+ @black  
+*  tt
+- đen
+- mặc quần áo đen
+- da đen
+
++ a black woman: người đàn bà da đen
+- tối; tối tăm
+
++ black as ink: tối như mực
+
++ black night: đêm tối tăm
+- dơ bẩn, bẩn thỉu
+
++ black hands: những bàn tay dơ bẩn
+- đen tối, ảm đạm, buồn rầu, vô hy vọng
+
++ things look black: sự việc có vẻ đen tối vô hy vọng
+
++ black tidings: tin buồn
+- xấu xa, độc ác; kinh tởm, ghê tởm
+
++ black crimes: những tội ác ghê tởm
+!to beat black and blue
+- (xem) beat
+!to give someone a black look
+- lườm nguýt người nào
+!he is not so balck as he is painted
+- nó cũng không đến nỗi xấu (tồi tệ) như người ta nói đâu
+*  dt
+- màu đen
+- sơn đen
+- quần áo đen, áo tang
+
++ to be in black: mặc quần áo đen; mặc áo tang
+- người da đen
+- bụi bẩn, mồ hóng
+*  ngdgt
+- làm đen, bôi đen
+- đánh xi đen (giày)
+!to black out
+- bôi đen để xoá đi
+- (sân khấu) tắt đèn
+- che kín ánh đèn, tắt đèn phòng không
+- thoáng ngất đi; thoáng mất trí nhớ; thoáng hoa mắt
+- (từ Mỹ,nghĩa Mỹ) che giấu đi, ỉm đi
+- (từ Mỹ,nghĩa Mỹ) kiểm duyệt
+
+@black
+- (Tech) mầu đen; làm đen (đ)
+ @black
+- đen
+ @black and white  
+*  dt
+- bức vẽ mực đen
+- phim đen trắng
+- ánh đen trắng
+!down in black_and_white
+- trên giấy trắng mực đen
+
+@black and white film
+- (Tech) phim trắng đen
+ @black and white television
+- (Tech) ti vi trắng đen
+ @black art
+- giống như black magic
+ @black ball  
+*  dt
+- phiếu đen, phiếu chống (trong cuộc bầu phiếu...)
+*  ngdgt
+- bỏ phiếu đen, bỏ phiếu chống lại, không bầu cho
+
+@black body
+- (Tech) vật thể đen
+ @black book  
+*  dt
+- (như) black-list
+!to be in someone's black_books
+- không được ai ưa
+
+@black box
+- (Tech) hộp đen
+ @black cap  
+*  dt
+- mũ đen (của quan toà đội khi tuyên án tử hình)
+*  dt
+- (động vật học) chim chích đầu đen
+
+@black coffe  
+*  dt
+- cà phê đen
+
+@black coffee
+* dt
+- cà phê đen
+ @black comedy
+* dt
+- hài kịch châm biếm những thói hư tật xấu
+ @black country
+* dt
+- (ở Anh) vùng có nhiều khí thải kỹ nghệ
+ @black currant
+* dt
+- một loài cây dại mọc trong vườn
+ @black death
+* dt
+- bệnh dịch hạch hoành hành vào thế kỷ 14
+ @black dog  
+*  dt
+- sự giận dỗi
+
+@black earth  
+*  dt
+- (địa lý,địa chất) secnôzem đất đèn
+
+@black economy
+* dt
+- hình thức kinh doanh bất hợp lệ
+ @black english
+- tiếng Anh người Mỹ da đen
+ @black eye  
+*  dt
+- mắt bị đánh thâm tím
+- mắt đen (đối với mắt nâu)
+
+@black face  
+*  dt
+- người da đen
+- con cừu mặt đen
+- (ngành in) chữ in đậm
+
+@black flag  
+*  dt
+- cờ đen (của kẻ cướp; dấu hiệu tội tử hình đã được thi hành)
+
+@black friar  
+*  dt
+- thầy tu dòng Đô-mi-ních
+
+@black head
+* dt
+- mụn trứng cá
+ @black hole  
+*  dt
+- nhà giam của quân đội
+
+@black hole
+- (Tech) lỗ đen
+ @black ice
+* dt
+- lớp băng phủ mặt đường
+ @black list  
+*  dt
+- số đen
+
+@black magic
+* dt
+- trò phù phép, trò ma thuật
+ @black maria  
+*  dt
+- xe chở tù
+
+@black mark  
+*  dt
+- vết đen, vết nhơ (đối với tên tuổi, danh dự)
+
+@black market  
+*  dt
+- chợ đen
+
+@Black market
+- (Econ) Chợ đen
+: Bất cứ thị trường bất hợp pháp nào được thành lập trong một hoàn cảnh mà thường được chính phủ cố định giá ở mức tối đa hoặc tối thiểu.
+ @Black market premium
+- (Econ) Mức @Black market premium rate
+- (Econ) Tỷ lệ chênh lệch giá trên thị trường chợ đen.
+ @black marketeer  
+*  dt
+- người buôn bán chợ đen
+
+@black mass
+* dt
+- buổi lễ cầu xin quỷ Satăng (thay vì cầu xin Chúa)
+ @black mica
+- (Tech) mica đen
+ @black muslim
+* dt
+- thành viên của tổ chức đấu tranh cho những người da đen theo đạo Hồi
+ @black peak
+- (Tech) đỉnh đen
+ @black pepper
+* dt
+- hạt tiêu đen
+ @black power
+* dt
+- phong trào đấu tranh của người da đen
+ @black pudding  
+*  dt
+- dồi (lợn...)
+
+@black sash
+* dt
+- tổ chức đấu tranh cho quyền lợi của phụ nữ da đen ở Nam Phi
+ @black sheep  
+*  dt
+- con chiên ghẻ ((nghĩa bóng)); kẻ thành tích bất hảo, đồ vô lại
+
+@black spot
+* dt
+- đoạn đường thường xảy ra tai nạn
+ @black tea  
+*  dt
+- chè đen
+
+@black tie
+* dt
+- chiếc nơ hình con bướm đeo ở cổ áo smoking
+ @blackamoor  
+*  dt
+- người da đen
+- người da ngâm đen
+
+@black-and-blue
+* tt
+- thâm tím
+ @blackball
+* dgt
+- bỏ phiếu chủ quyết, không bầu cho
+ @black-beetle  
+*  dt
+- (động vật học) con gián
+
+@blackbeetle
+* dt
+- con gián (châu á)
+ @blackberry  
+*  dt
+- (thực vật học) cây mâm xôi
+- quả mâm xôi
+!as plentiful as black berries
+- nhiều thừa mứa, muốn bao nhiêu cũng có
+
+@blackbird  
+*  dt
+- (động vật học) chim hét
+- người da đen bị bắt cóc (xuống tàu chở nô lệ)
+
+@blackbirding  
+*  dt
+- sự buôn bán những người nô lệ da đen bị bắt cóc
+
+@blackboard  
+*  dt
+- bảng đen
+
+@blackbody radiator
+- (Tech) bộ bức xạ vật thể đen
+ @blackbroad
+- bảng đen
+ @blackbuck
+* dt
+- một loại linh dương của ấn Độ
+ @black-capped
+* tt
+- (chim) đầu đen
+ @black-coated  
+*  tt
+- black-coated worker người làm việc văn phòng
+
+@blackcock
+* dt
+- gà gô đen trống
+ @blackdamp
+* dt
+- chất khí không nổ chứa cacbon đioxyt ở mỏ (đặc biệt là sau vụ nổ)
+ @blacken  
+*  ngdgt
+- làm đen, bôi đen
+- bôi nhọ, nói xấu
+
++ to blacken someone's character: nói xấu ai; bôi nhọ tên tuổi của ai
+*  ndgt
+- đen lại, tối sẫm lại (nghĩa đen),  (nghĩa bóng))
+
+@blackener
+- xem blacken
+ @blackfellow
+* dt
+- thổ dân úc
+ @blackfish
+* dt
+- cá đen
+- cá voi nhỏ có răng
+ @blackfly
+* dt
+- số nhiều blackflies
+- giống rệp vừng, nhỏ màu đen
+ @blackguard  
+*  dt
+- người đê tiện
+- người ăn nói tục tĩu
+*  tt
+- đê tiện
+- tục tĩu
+*  ngdgt
+- chửi rủa tục tĩu (ai)
+
+@blackguardism
+- xem blackguard
+ @blackguardly  
+*  tt & dt
+- đê tiện
+- tục tĩu
+
+@black-head  
+*  dt
+- trứng cá (ở mặt)
+
+@blackhead
+* dt
+- mụn trứng cá
+ @blackheart
+* dt
+- bệnh làm khoai tây đen ruột
+ @blacking  
+*  dt
+- xi đen (đánh giày); xi (đánh giày)
+
+@blacking brush  
+*  dt
+- bàn chải đánh giày
+
+@blackish  
+*  tt
+- hơi đen, đen đen
+
+@blackjack
+* dt
+- dùi cui của cảnh sát
+ @black-lead  
+*  dt
+- (khoáng chất) grafit
+*  ngdgt
+- đánh bóng bằng grafit
+
+@blackleg  
+*  dt
+- kẻ phản bội ở lại làm cho chủ (khi các công nhân đình công); kẻ phản bội
+- kẻ cờ bạc bịp; tay đại bịp (ở trường đua ngựa)
+*  dgt
+- phản bội (cuộc bãi công)
+
+@black-list  
+*  ngdgt
+- ghi tên vào sổ đen
+
+@blacklist
+* dt
+- danh sách đen, sổ bìa đen
+* ngdgt
+- ghi vào danh sách đen, ghi vào sổ bìa đen
+ @blacklister
+- xem blacklist
+ @blackly
+- xem black
+ @blackmail  
+*  dt
+- sự hâm doạ để tống tiền
+- tiền lấy được do hăm doạ
+*  ngdgt
+- hâm doạ để làm tiền
+- tống tiền
+
+@blackmailer  
+*  dt
+- người hâm doạ để làm tiền
+- người đi tống tiền
+
+@black-market
+- xem black market
+ @black-marketeer
+- xem black market
+ @black-marketeering
+- xem black market
+ @black-marketer
+- xem black market
+ @blackness  
+*  dt
+- màu đen
+- sự tối tăm; bóng tối, chỗ tối
+- (nghĩa bóng) sự đen tối
+- sự độc ác, sự tàn ác
+
+@black-out  
+*  dt
+- sự tắt đèn, sự kín ánh đèn; thời gian tối hoàn toàn (ở sân khấu, lúc phòng không)
+- sự thoáng ngất đi, sự thoáng mất trí nhớ; sự thoáng hoa mắt (phi công)
+- sự mất điện
+- (từ Mỹ,nghĩa Mỹ) sự che giấu đi, sự ỉm đi
+*  tt
+- (từ Mỹ,nghĩa Mỹ) che giấu đi, ỉm đi
+
+@blackout
+- (Tech) mất liên lạc; cúp điện
+ @black-shirt  
+*  dt
+- đảng viên đảng áo đen (ý)
+
+@blacksmith  
+*  dt
+- thợ rèn
+
+@blacksmithing
+- xem blacksmith
+ @blacksnake
+* dt
+- (từ Mỹ) roi da (dài)
+ @blackthorn  
+*  dt
+- (thực vật học) cây mận gai
+
+@black-tie
+- xem black tie
+ @blacktop
+* dt
+- nhựa rải mặt đường
+* ngdgt
+- rải nhựa đường
+ @black-water fever
+* dt
+- bệnh sốt rét đái ra máu
+ @blackwood
+* dt
+- cây keo cao ở úc (gỗ đen của nó rất có giá trị)
+ @blacky  
+*  dt
+- (thông tục) người da đen
+
+@bladder  
+*  dt
+- bong bóng
+- ruột (bóng đá)
+- người huênh hoang rỗng tuếch; người chỉ nói suông
+- (giải phẫu) bọng túi
+
++ urinary bladder: bọng đái
+
+@bladdery  
+*  tt
+- như bong bóng, như bọng
+- có bong bóng, có bọng
+
+@blade  
+*  dt
+- lưỡi (dao, kiếm)
+
++ a razor blade: lưỡi dao cạo
+- lá (cỏ, lúa)
+- mái (chèo); cánh (chong chóng...)
+- thanh kiếm
+- xương dẹt ((cũng) blade bone)
+- (thực vật học) phiến (lá)
+- (thông tục) gã, anh chàng, thằng
+
++ a ơolly old blade: một anh chàng vui nhộn
+
++ a cunning blade: một thằng láu cá
+
+@bladed
+- xem blade
+ @blaeberry   (blaeberry) @blah  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) lời nói huênh hoang, ba hoa
+
+@blain  
+*  dt
+- (y học) mụn mủ, mụn rộp
+
+@blamable  
+*  tt
+- đáng khiển trách, đáng trách mắng
+
+@blamableness
+- xem blamable
+ @blamably
+- xem blamable
+ @blame  
+*  dt
+- sự khiển trách; lời trách mắng
+
++ to deserve blame: đáng khiển trách
+- lỗi; trách nhiệm
+
++ where does the blame lie for this failure?: ai chịu trách nhiệm về sự thất bại này?, trách nhiệm về sự thất bại này là ở đâu?
+
++ to bear the blame: chịu lỗ, chịu trách nhiệm
+
++ to lay the blame on somebody; to lay the blame at somebody's door: quy trách nhiệm về ai; đỗ lỗi cho ai
+
++ to lay the blame at the right door (on the right shoulders): quy trách nhiệm đúng vào người phải chịu trách nhiệm
+
++ to shift the blame on somebody: đỗ lỗi cho ai
+
+@blameful  
+*  ngdgt
+- khiển trách, trách mắng
+
++ to be in blameful for something: đáng khiển trách về cái gì
+- đổ lỗi cho; đổ tội cho
+
++ to blameful something on someone: đỗ lỗi cái gì vào đầu ai
+*  tt
+- (như) blameworthy
+
+@blamefully
+- xem blameful
+ @blamefulness
+- xem blameful
+ @blameless  
+*  tt
+- không thể khiển trách được; vô tội, không có lỗi
+
+@blamelessly
+* dt
+- không thể chê được
+ @blamelessness
+- xem blameless
+ @blamer
+- xem blame
+ @blameworthiness
+- xem blameworthy
+ @blameworthy   (blameful) @blanch  
+*  dgt
+- làm trắng, làm bạc đi
+- làm tái nhợt; tái nhợt đi
+
++ to blanch from fear: sợ tái mặt
+
+@blancher
+- xem blanch
+ @blanc-mange
+* dt
+- bánh flăng
+ @bland  
+*  tt
+- có cử chỉ dịu dàng, lễ phép
+- mỉa mai
+- ôn hoà (khí hậu)
+- ngọt dịu, thơm dịu, thơm tho (rượu, đồ ăn)
+
+@blandish  
+*  ngdgt
+- xu nịnh, bợ đỡ, tán tỉnh, lấy lòng
+
+@blandisher
+- xem blandish
+ @blandishment  
+*  dt
+- sự xu nịnh
+- ((thường) số nhiều) lời nịnh hót, lời tán tỉnh lấy lòng
+
+@blandly
+* dt
+- dịu dàng, ôn tồn
+ @blandness  
+*  dt
+- sự dịu dàng lễ phép
+- sự mỉa mai
+- sự ôn hoà (khí hậu)
+- sự ngọt dịu, sự thơm dịu, sự thơm tho
+
+@blank  
+*  tt
+- để trống, để trắng (tờ giấy...)
+
++ a blank page: một trang để trắng
+
++ a blank cheque: một tờ séc để trống
+
++ a blank space: một quãng trống
+- trống rỗng; ngây ra, không có thần (cái nhìn...)
+
++ a blank existence: một cuộc đời trống rỗng
+
++ a blank look: cái nhìn ngây dại
+
++ his money is completely blank on the subject: về vấn đề đó anh ta không nhớ được tí gì
+- không nạp chì (đạn); giả
+
++ blank cartridge: đạn không nạp chì
+
++ blank window: cửa sổ giả
+- bối rối, lúng túng
+
++ to look blank: có vẻ bối rối, lúng túng
+- hoàn toàn tuyệt đối
+
++ blank silence: sự yên lặng hoàn toàn
+
++ blank despair: nỗi thất vọng hoàn toàn
+- không vần (thơ)
+
++ blank verse: thơ không vần
+*  dt
+- chỗ để trống, khoảng trống, gạch để trống
+
++ to fill the blank: điền vào những chỗ để trống
+- sự trống rỗng
+
++ his mind is a complete blank: đầu óc anh ta trống rỗng
+- nỗi trống trải
+
++ what a blank such a life is!: cuộc sống như vậy thật trống rỗng quá!
+- đạn không nạp chì ((cũng) blank cartridge)
+- vé xổ số không trúng
+
++ to draw a blank: không trúng số; ((nghĩa bóng)) thất bại
+- phôi tiền (mảnh kim loại để rập thành đồng tiền)
+- (từ Mỹ,nghĩa Mỹ) mẫu in có chừa chỗ trống
+- (từ Mỹ,nghĩa Mỹ) điểm giữa bia tập bắn; đích
+
++ to fire points blank: chĩa súng thẳng sát đích mà bắn, dí súng tận nơi mà bắn
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ),  (thể dục,thể thao) thắng tuyệt đối, thắng hoàn toàn (đội bạn)
+
+@blank
+- (Tech) mẫu kê khai; ký tư trống; khoảng trống trắng; xóa (đ)
+@blank
+- chỗ trống
+ @blank address
+- (Tech) địa chỉ trống
+ @blank card
+- (Tech) phiếu trắng
+ @blank cartridge
+- đạn không nạp chì
+ @blank cell
+- (Tech) ô trống
+ @blank character
+- (Tech) ký tự trống 
++  space character
+ @blank disk
+- (Tech) đĩa trống
+ @blank line
+- (Tech) dòng trống, hàng trống
+ @blank record
+- (Tech) bản ghi trống
+ @blank tape
+- (Tech) băng trống
+ @blanket  
+*  dt
+- mền, chăn
+- lớp phủ
+
++ a blanket of snow: một lớp tuyết phủ
+!born on the wrong side of the blanket
+- để hoang
+!to play the wet blanket
+- làm giảm hào hứng, làm cụt hứng
+
++ to put a wet blanket on somebody; to throw a wet blanket over somebody: làm nhụt nhuệ khí của ai; làm giảm nhiệt tình của ai; giội một gáo nước lạnh vào lòng hăng hái của ai;, làm ai cụt hứng
+
++ wet blanket: người làm mất vui (cuộc vui chung, vì bản thân ủ rũ buồn rầu)
+*  tt
+- (từ Mỹ,nghĩa Mỹ) có tính chất chung, có tính chất phổ biến, bao trùm
+*  ngdgt
+- trùm chăn, đắp chăn
+- ỉm đi, bịt đi (một chuyện xấu, một vấn đề)
+- làm cho không nghe thấy, làm nghẹt (tiếng động); phá, làm lấp tiếng đi (một buổi phát thanh trên đài)
+- phủ lên, che phủ
+- (hàng hải) hứng gió của (thuyền khác)
+- phạt tung chăn (trừng phạt bằng cách cho vào chăn rồi tung lên tung xuống)
+
+@blanking
+- (Tech) xóa (d)
+ @blankly  
+*  dt
+- ngây ra, không có thần
+
++ to look blankly: nhìn ngây ra, nhìn đi đâu
+- thẳng, thẳng thừng, dứt khoát
+
++ to deny something blankly: phủ nhận một cái gì thẳng thừng
+
+@blankness
+- xem blank
+ @blanquette
+* dt
+- món ragu hoặc thịt bê hầm
+ @blare  
+*  dt
+- tiếng kèn
+- tiếng om sòm
+*  dgt
+- thổi kèn
+- làm om sòm
+
+@blarney  
+*  dt
+- lời dỗ ngọt, lời tán tỉnh đường mật
+*  dgt
+- tán tỉnh, dỗ ngọt
+
+@blaspheme  
+*  dgt
+- báng bổ
+- chửi rủa, lăng mạ
+
+@blasphemer  
+*  dt
+- người ăn nói báng bổ
+
+@blasphemous  
+*  tt
+- báng bổ
+
+@blasphemously
+* dt
+- báng bổ, hồ đồ
+ @blasphemousness
+- xem blasphemous
+ @blasphemy  
+*  dt
+- lời báng bổ
+
+@blast  
+*  dt
+- luồng gió; luồng hơi (bễ lò), hơi (bom...)
+- tiếng kèn
+
++ the blast of a trumpet: tiếng kèn trompet
+- sự nổ (mìn)
+*  ngdgt
+- làm tàn, làm khô héo, làm thui chột
+
++ frost blasts buds: sương giá làm thui chột nụ cây
+- làm nổ tung, phá (bằng mìn)
+- phá hoại, làm tan vỡ (hạnh phúc, kế hoạch...); làm mất danh dự
+- gây hoạ; nguyền rủa
+!blast you!
+- đồ trời đánh thánh vật!
+
+@blast
+- (Tech) xóa, bộc phát; nổ nhanh
+ @blasted  
+*  tt
+- đáng nguyền rủa, đáng cho trời đánh thánh vật
+
+@blastema  
+*  dt
+- (sinh vật học) mầm gốc, nha bào
+
+@blastemal
+- xem blastema
+ @blastematic
+- xem blastema
+ @blaster
+- xem blast
+ @blast-furnace  
+*  dt
+- (kỹ thuật) lò cao
+
+@blasting  
+*  dt
+- sự làm nổ tung, sự phá bằng thuốc nổ
+- sự làm tan vỡ (hy vọng, cơ đồ...)
+
+@blasting
+- (Tech) qúa tải, qúa kích động; bộc phát
+ @blastocoel
+* dt
+- cũng blastocoele
+- (sinh học) khoang phôi
+ @blastoderm  
+*  dt
+- (sinh vật học) bì phôi
+
+@blastodermatic
+- xem blastoderm
+ @blastodermic
+- xem blastoderm
+ @blast-off
+* dt
+- sự phóng tàu vũ trụ lên không trung
+ @blastomere
+* dt
+- (sinh học) phôi bào
+ @blastomycete
+* dt
+- họ nấm chồi
+ @blastomycosis
+* dt
+- bệnh nấm chồi
+ @blastoporal
+- Cách viết khác : blastoporic 
+ @blastopore
+* dt
+- (sinh học) lỗ phôi, miệng phôi
+ @blastosphere
+* dt
+- (sinh học) phôi cầu
+ @blastospheric
+* tt
+- thuộc phôi cầu
+ @blastula
+* dt
+- số nhiều blastulas,  blastulae
+- (sinh học) phôi nang
+ @blastular
+* tt
+- thuộc phôi nang
+ @blastulation
+* dt
+- sự hình thành phôi túi
+ @blatancy  
+*  dt
+- tính hay la lối
+- sự rõ rành rành, sự hiển nhiên
+
++ a blatancy lie: lời nói dối rành rành
+
+@blatant  
+*  tt
+- hay kêu la, hay la lối, hay làm om xòm
+- rành rành, hiển nhiên
+
++ a blatant lie: lời nói dối rành rành
+
+@blatantly
+* dt
+- rành rành, hiển nhiên
+ @blate
+* tt
+- nhút nhát; rụt rè
+ @blather   (blather) @blatherer
+- xem blather
+ @blatherskite   (blatherskite) @blaze  
+*  dt
+- ngọn lửa
+- ánh sáng chói; màu sắc rực rỡ
+- sự rực rỡ, sự lừng lẫy ((nghĩa đen) & (nghĩa bóng))
+
++ the flowers make a blaze of colour in the garden: trong vườn hoa đua nở phô màu rực rỡ
+
++ in the full blaze of one's reputation: trong thời kỳ tiếng tăm lừng lẫy nhất
+- sự bột phát; cơn bột phát
+
++ a blaze of anger: cơn giận đùng đùng
+- (số nhiều) (từ lóng) địa ngục
+!to go blazes!
+- (xem) go
+!like blazes
+- dữ dội, mãnh liệt, điên lên
+
+@blazer  
+*  ndgt
+- cháy rực; bùng lửa
+- sáng chói, rực sáng, chiếu sáng
+- (nghĩa bóng) bừng bừng nổi giận
+
++ he was balzing with fury: anh ta bừng bừng nổi giận
+!to blaze away
+- bắn liên tục
+- nói nhanh và sôi nổi
+- hăng hái nhiệt tình làm (một công việc gì)
+!blaze away!
+- cứ nói tiếp đi!
+!to baze up
+- cháy bùng lên
+- nổi giận đùng đùng
+*  ngdgt
+- đồn, truyền đi (tin tức)
+
++ the news was soon blazerd abroad: tin đó được truyền đi tức khắc
+*  dt
+- vết lang trán (vết trắng trên trán ngựa hoặc bò)
+- dấu đánh vào cây (để chỉ đường...)
+*  ngdgt
+- đánh dấu vào (cây)
+!to blaze a trail
+- chỉ đường qua rừng bằng cách đánh dấu vào cây
+- (nghĩa bóng) đi tiên phong; mở đường
+
++ the Soviet Union is the first country to blazer a trail into space: Liên xô là nước đầu tiên mở đường đi vào vũ trụ
+*  dt
+- (thể dục,thể thao) áo màu sặc sỡ (bơi thuyền...)
+- (từ lóng) lời nói dối trắng trợn
+
+@blazing  
+*  tt
+- nóng rực; cháy sáng, rực sáng, sáng chói
+
++ a blazing hot day: một ngày nóng như thiêu như đốt
+
++ blazing sun: mặt trời sáng chói
+- rõ ràng, rành rành, hiển nhiên
+
++ a blazing lie: lời nói dối rành rành
+- (săn bắn) ngửi thấy rõ (hơi con thú)
+
++ blazing scent: hơi (con thú) còn ngửi thấy rõ
+
+@blazingly
+- xem blaze
+ @blazon  
+*  dt
+- huy hiệu (in trên mộc)
+- sự tuyên dương công đức (của ai); sự ca ngợi (ai)
+*  ngdgt
+- vẽ huy hiệu lên; tô điểm bằng huy hiệu
+- tuyên dương công đức, ca ngợi (ai)
+- (thường) : forth,  out,  abroad) công bố, truyền đi khắp nơi
+- tô điểm, làm hào nhoáng
+
+@blazoner
+- xem blazon
+ @blazonment  
+*  dt
+- sự vẽ huy hiệu; sự tô điểm bằng huy hiệu
+- sự tuyên dương công đức, sự ca ngợi
+- sự công bố
+- sự tô điểm, sự làm hào nhoáng
+
+@blazonry   (emblazonry) @bleach  
+*  dgt
+- tẩy trắng, chuội (vải)
+
+@bleacher  
+*  dt
+- thợ chuội (vải)
+- thuốc chuội
+- thùng chuội
+- ((thường) số nhiều) (từ Mỹ,nghĩa Mỹ),  (thể dục,thể thao) chỗ ngồi ở khán đài không có mái che (ở sân vận động)
+
+@bleaching powder  
+*  dt
+- vôi clorua
+
+@bleaching-powder
+* dt
+- chất tẩy màu trên vải nhuộm (clorua vôi chẳng hạn); bột tẩy
+ @bleak  
+*  tt
+- trống trải; lạnh lẽo, hoang vắng; ảm đạm
+
++ bleak house: căn nhà lạnh lẽo hoang vắng
+- dãi gió
+
++ a bleak hillside: sườn đồi dãi gió
+*  dt
+- (động vật học) cá mương Âu
+
+@bleakly
+* dt
+- thất vọng, chán chường
+ @bleakness
+- xem bleak
+ @blear  
+*  tt
+- mờ; không nhìn rõ (nắt)
+- lờ mờ, không rõ ràng (đường nét...)
+- không minh mẫn, u mê, đần độn (trí óc)
+*  ngdgt
+- làm mờ (mắt)
+- làm cho lờ mờ
+- làm u mê, làm đần độn
+
+@blear-eyed  
+*  tt
+- mờ mắt
+- u mê, đần độn
+
+@blearily
+* dt
+- lờ đờ, mệt mỏi
+ @bleariness
+- xem bleary
+ @bleary  
+*  tt
+- mờ mắt
+- lờ mờ
+
+@bleat  
+*  dt
+- tiếng be be (của cừu, bê, dê)
+*  dgt
+- kêu be be
+- nói nhỏ nhẻ
+- nói ngớ ngẩn
+
+@bleater
+- xem bleat
+ @bled  
+*  dt
+- mụn nước, mụn phỏng (ở da)
+- bong bóng nước, tăm (nước, rượu); bọt (thuỷ tinh)
+- (kỹ thuật) rỗ không khí
+*  thời quá khứ & động tt quá khứ của bleed
+
+@bleed  
+*  (bất qui tắc) dgt bled
+- chảy máu, mất máu
+- rỉ nhựa (cây cối)
+- đổ máu, hy sinh
+
++ to bleed for one's country: hy sinh cho tổ quốc
+- (y học) lấy máu (để thử)
+- bòn rút, ((nghĩa bóng)) hút máu hút mủ
+- dốc túi, xuỳ tiền ra; bị bòn rút
+- (nghĩa bóng) thương xót, đau đớn
+!to bleed white
+- (xem) white
+
+@bleed
+- (Tech) dòng in, nhỉ ra (đ)
+ @bleeder  
+*  dt
+- người trích máu
+- (y học) người ưa chảy máu (chảy nhiều máu dù chỉ bị một vết thương nhỏ)
+- lẻ bòn rút, kẻ bóc lột, kẻ hút máu hút mủ
+
+@bleeder
+- (Tech) bộ phân áp; điện trở trích
+ @bleeding  
+*  dt
+- sự chảy máu
+- sự trích máu
+- sự rỉ nhựa (cây)
+*  tt
+- chảy máu
+
+@bleep  
+*  dt
+- tiếng bíp bíp (từ vệ tinh Liên xô đầu tiên phát ra)
+*  ndgt
+- phát ra tiếng bíp bíp (vệ tinh)
+
+@bleeper
+* dt
+- thiết bị phát ra tiếng bíp bíp
+ @blellum
+* dt
+- (từ cổ, từ Xcôtlân) một người lười biếng chỉ nói mồm
+ @blemish  
+*  dt
+- tật; nhược điểm, thiếu sót
+- vết nhơ (cho thanh danh, tiếng tăm...)
+*  ngdgt
+- làm hư, làm hỏng, làm xấu
+- làm nhơ nhuốc, làm ô uế (thanh danh của ai...)
+
+@blemish
+- (Tech) hư hỏng; dơ
+ @blemisher
+- xem blemish
+ @blench  
+*  ndgt
+- lùi bước, chùn bước (vì sợ hãi, kinh tởm); lẫn tránh
+*  ngdgt
+- nhắm mắt làm ngơ
+
+@blencher
+- xem blench
+ @blend  
+*  dt
+- thứ (thuốc lá, chè...) pha trộn
+*  (bất qui tắc) dgt blended 
+@blend
+- (Tech) pha trộn; hợp nhau; pha mầu (đ)
+ @blende  
+*  dt
+- (khoáng chất) blenđơ,  xfaêit
+
+@blenny
+* dt
+- cá lon mây
+ @blent  
+*  dt
+- thứ (thuốc lá, chè...) pha trộn
+*  (bất qui tắc) dgt blended 
+@blepharitis
+* dt
+- bệnh viêm mí mắt
+ @blepharoplast
+* dt
+- (sinh học) thể gốc lông
+ @blesbok
+* dt
+- loại linh dương ở Nam Phi
+ @bless  
+*  (bất qui tắc) ngdgt blessed 
+@blessed  
+*  tt
+- thần thánh; thiêng liêng
+- hạnh phúc sung sướng; may mắn
+- (nói trại) đáng nguyền rủa; quỷ quái
+
++ that blessed boy!: thằng ranh con quỷ quái
+
+@blessedly
+* dt
+ @blessedness  
+*  dt
+- phúc lành
+- hạnh phúc; sự sung sướng
+
++ single blessedness:(đùa cợt) thân thể của người không lập gia đình
+
+@blesser
+- (Tech) chương trình chuyển hệ thống 
++  system switcher
+ @blessing  
+*  dt
+- phúc lành
+- kinh (được đọc trước và sau khi ăn)
+- hạnh phúc, điều sung sướng, sự may mắn
+
++ health is the greatest of blessings: sức khoẻ là hạnh phúc lớn nhất
+
++ what a blessing!: thật may mắn quá!
+
++ a blessing in disguise: chuyện không may mà lại hoá may
+
+@blest  
+*  (bất qui tắc) ngdgt blessed 
+@blet  
+*  dt
+- chỗ ủng, chỗ thối (quả chín quá)
+
+@blether   (blather) @bletherskate   (blatherskite) @bletherskite   (blatherskite) @blew  
+*  thời quá khứ của blow
+
+@blewits
+* dt
+- số nhiều blewits
+- một loại nấm ăn được (màu hoa cà khi còn non)
+ @blight  
+*  dt
+- bệnh tàn rụi (cây cối)
+- (động vật học) rệp vừng
+- không khì mờ sương
+- ảnh hưởng xâu; tai hoạ
+*  ngdgt
+- làm hại, làm hỏng, làm tàn rụi
+
++ a life blighted by illness: một cuộc đời tàn rụi vì bệnh hoạn
+
+@blighter  
+*  dt
+- kẻ phá hoại
+- (từ lóng) kẻ quấy rầy, thằng cha kho chịu
+
+@blighty  
+*  dt
+- (quân sự),  (từ lóng) nước Anh
+- nước quê hương (đối với lính ở nước ngoài)
+!to have a blighty one
+- bị một vết thương có thể trở về nước (lính đi đanh nhau ở nước ngoài)
+
+@blimey  
+*  thán từ
+- ùi !, ồ!
+
+@blimp  
+*  dt
+- khí cầu nhỏ
+- blimp anh chàng ngoan cố phản động (một nhân vật tranh biếm hoạ Anh tượng trưng cho sự ngoan cố, phản động) ((cũng) Col. blimp)
+
+@blimpery  
+*  dt
+- thái độ ngoan cố, phản đông
+
+@blimpish  
+*  tt
+- ngoan cố phản động
+
+@blimpishness  
+*  dt
+- tính ngoan cố phản động
+
+@blin
+* dt
+- số nhiều blini,  blinis
+- bánh kếp truyền thống của nga
+ @blind  
+*  tt
+- đui mù
+
++ to be blind in (of) one eye: chột mắt
+- (nghĩa bóng) không nhìn thấy, không thấy được
+
++ she was blind to her son's faults: bà ta không nhìn thấy khuyết điểm của con trai mình
+- mù quáng
+- không có lối ra, cụt (ngõ...)
+
++ a blind wall: tường không có cửa sổ, tường không có cửa ra vào
+
++ blind path: đường không lối ra, ngõ cụt
+- không rõ ràng, khó thấy, khó nhìn
+
++ blind hand: chữ viết khó đọc
+
++ blind letter: thư đề địa chỉ không rõ ràng; thư đề địa chỉ sai
+
++ blind man; blind reader: người phụ trách giải quyết những thư không rõ hoặc sai địa chỉ
+
++ blind stitch: đường khâu lẩn
+
++ a blind ditch: cống ngầm
+- (từ lóng) say bí tỉ ((cũng) blind drunk)
+
++ blind to the world: say khướt, say bí tỉ
+!one's blind side
+- mặt sơ hở của mình
+*  dt
+- bức màn che; mành mành, rèm
+
++ roller blind: mành mành cuốn
+
++ venitian blind: mành mành
+- miếng (da, vải) che mắt (ngựa)
+- cớ, bề ngoài giả dối
+- (từ lóng) chầu rượu bí tỉ
+- (quân sự) luỹ chắn, công sự
+- (the blind) (số nhiều) những người mù
+!among the blind, the one-eyed man is king
+- (tục ngữ) xứ mù thằng chột làm vua
+*  ngdgt
+- làm đui mù, làm loà mắt
+- làm mù quáng
+*  ndgt
+- đi liều, vặn ẩu (ô tô, mô tô)
+
+@blind
+- (Tech) mù; chói; che đậy
+ @blind alley  
+*  dt
+- ngõ cụt
+
+@blind area
+- (Tech) khu vực mù
+ @blind coal  
+*  dt
+- antraxit
+
+@blind date
+* dt
+- cuộc gặp gỡ giữa hai người khác phái mà trước đó chưa hề quen biết nhau
+ @blind flying  
+*  dt
+- (hàng không) sự lái mò (không trông thấy được dưới đất hoặc không có hướng dẫn bằng rađiô)
+
+@blind gut  
+*  dt
+- (giải phẫu) ruột tịt
+
+@blind man's holiday  
+*  dt
+- lúc chạng vạng, lúc hoàng hôn
+
+@blind pig  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) (như) blindtiger
+
+@blind sopt  
+*  dt
+- (giải phẫu) điểm mù
+- rađiô vùng cấm
+
+@blind spot
+- (Tech) điểm mù
+ @blind tiger  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nơi bán rượu lậu
+
+@blind zone
+- (Tech) vùng mù, vùng tối
+ @blindage  
+*  dt
+- (quân sự) luỹ chắn công sự
+
+@blind-alley  
+*  tt
+- không có lối ra, không có tiền đồ
+
++ blind-alley occupatión: nghề nghiệp không có tiền đồ
+
+@blinder
+* dt
+- (Anh lóng) lúc say bí tỉ
+- thành tích xuất sắc (trong một trò chơi)
+ @blinders  
+*  (bất qui tắc) dt số nhiều
+- miếng (da, vải) che mắt (ngựa)
+
+@blindfish
+* dt
+- loại cá mắt nhỏ không nhìn thấy được
+ @blindfold  
+*  tt & dt
+- bị bịt mắt
+- mù quáng
+*  ngdgt
+- bịt mắt
+- làm mù quáng
+
+@blindfolded
+- xem blindfold
+ @blinding  
+*  dt
+- đá dăm (cát...) (để) lấp khe nứt ở đường mới làm
+- sự lấp khe nứt ở đường mới làm
+
+@blindingly
+- xem blind
+ @blindl-man's-buff  
+*  dt
+- trò chơi bịt mắt bắt dê
+
+@blindly  
+*  dt
+- mù, mù quáng
+- mò mẫm
+
+@blind-man's-buff
+* dt
+- trò chơi bịt mắt bắt dê
+ @blindness  
+*  dt
+- sự đui mù
+- sự mù quáng
+
+@blind-story  
+*  dt
+- (kiến trúc) gác không cửa sổ; tầng vòm không cửa sổ (ở nhà thờ)
+
+@blind-worm  
+*  dt
+- (như) slow-worm
+
+@blingual  
+*  tt
+- biết nói hai thứ tiếng
+- (bằng) hai thứ tiếng
+
+@blink  
+*  dt
+- cái nháy mắt, cái chớp mắt
+- ánh lửa chập chờn, ánh lửa lung linh, ánh sáng nhấp nháy
+- ánh băng (phản chiếu lên chân trời) ((cũng) ice blink)
+- (nghĩa bóng) cái nhìn qua, cái nhìn thoáng
+!on the blink
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) trong tình trạng xấu, trong tình trạng rối loạn lộn xộn
+- hấp hối, sắp chết
+- say khướt, say bí tỉ
+*  ndgt
+- nháy mắt, chớp mắt
+- chập chờn, lung linh, nhấp nháy (ánh sáng)
+- bật đèn, nhấp nháy
+- nhắm mắt lam ngơ
+
++ to blink at someone's fault: nhắm mắt làm ngơ trước lỗi lầm của ai
+*  ndgt
+- nháy, chớp (mắt); bật (đèn) nhấp nháy
+- nhắm mắt trước (vấn đề); tránh, lẩn tránh
+
++ to blink the facts: không thấy sự thật, nhắm mắt trước sự thật
+
++ to blink the question: lẩn tránh vấn đề
+
+@blink
+- (Tech) chớp tắt, nhấp nháy (đ)
+ @blink
+- (vật lí) màng chắn
+ @blinker  
+*  dt
+- (số nhiều) miếng (da, vải) che mắt (ngựa)
+
++ to be (run) in blinker: bi che mắt ((nghĩa đen),  (nghĩa bóng))
+- (số nhiều) (từ lóng) mắt
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) đèn tín hiệu
+
+@blinkered
+* tt
+- (nói về ngựa) bị che mắt
+- hẹp hòi, phiếm diện
+ @blinking
+- (Tech) chớp tắt, nhấp nháy ()
+ @blinking cursor
+- (Tech) con trỏ nhấp nháy
+ @blintze
+- Cách viết khác : blintz 
+ @blip
+* dt
+- đốm sáng trên màn hình radar
+- tiếng nổ lách tách
+ @bliss  
+*  dt
+- hạnh phúc; niềm vui sướng nhất
+
+@Bliss point
+- (Econ) Điểm cực mãn; Điểm hoàn toàn thoả mãn
+: Thường để chỉ CÂN BẰNG TIÊU DÙNG trong đó người tiêu dùng hoàn toàn thoả mãn đối với hàng hoá được tiêu dùng và điểm này nằm trong GIỚI HẠN NGÂN SÁCH của anh ta.
+ @blissful  
+*  tt
+- hạnh phúc, sung sướng
+
+@blissfully
+* dt
+- hạnh phúc, sung sướng
+ @blissfulness  
+*  dt
+- niềm hạnh phúc, nỗi sung sướng
+
+@blister  
+*  dt
+- vết bỏng giộp; chỗ giộp da; chỗ phồng da
+
++ to raise blisters: làm giộp da
+- chỗ bị phồng lên, chỗ bị giộp lên (sơn); chỗ rỗ (thuỷ tinh, kim loại)
+- (y học) thuốc làm giộp da, cao làm giộp da
+*  dgt
+- làm giộp lên, làm phồng da lên; giộp lên; nổi phồng lên
+- (thông tục) đánh giập mông đít
+- (thông tục) quấy rầy, làm phiền (ai)
+
+@blister gas  
+*  dt
+- hơi độc, làm giộp da
+
+@blister pack
+* dt
+- kiểu bao bì mà theo đó, một vỏ bọc trong suốt được dán lên bìa cứng
+ @blister-beetle   (blister-fly) @blister-fly   (blister-fly) @blistering
+* tt
+- nghiêm khắc, sắc bén
+ @blisteringly
+* dt
+- sắc bén, nghiêm khắc
+- vô cùng, cực kỳ
+ @blistery  
+*  tt
+- giộp lên, có nhiều chỗ bỏng giộp
+
+@blithe  
+*  tt
+- (thơ ca) sung sướng, vui vẻ
+
+@blithely
+* dt
+- vô tình
+ @blitheness
+- xem blithe
+ @blither
+* ndgt
+- nói ba hoa ngớ ngẩn
+ @blithering   (blithesome) @blithesome  
+*  tt
+- (thơ ca) sung sướng, vui vẻ
+
+@blithesomely
+- xem blithesome
+ @blithsomeness
+- xem blithesome
+ @blitz  
+*  dt
+- chiến tranh chớp nhoáng
+- (từ Mỹ,nghĩa Mỹ) cuộc oanh tạc dữ dội
+- (từ Mỹ,nghĩa Mỹ) cuộc vân động ồ ạt chớp nhoáng
+- (quân sự),  (từ lóng) đợt kiểm tra đột xuất (một đơn vị)
+*  ngdgt
+- (quân sự) đánh chớp nhoáng
+- (từ Mỹ,nghĩa Mỹ) oanh tạc dữ dội
+- (từ lóng) kiểm tra đột xuất (một đơn vị)
+!to be blitzed
+- bị phạt, bị phê bình cảnh cáo (lính)
+
+@blitzkrieg  
+*  dt
+- chiến tranh chớp nhoáng
+- (từ Mỹ,nghĩa Mỹ) cuộc tấn công ồ ạt chớp nhoáng (bằng không quân và thiết giáp phối hợp)
+
+@blizzard  
+*  dt
+- trận bão tuyết
+
+@bloat  
+*  ngdgt
+- muối và hun khói (cá trích)
+*  dgt
+- phông lên, sưng lên, phù lên, sưng húp lên
+
+@bloated  
+*  tt
+- húp híp, béo phị; phồng lên, sưng lên
+
++ bloated face: mặt béo húp híp
+
++ bloated with pride: (nghĩa bóng) vênh váo, kiêu ngạo
+
++ bloated armament: vũ khí đầy ngập lên
+
+@bloater  
+*  dt
+- cá trích muối hun khói
+
+@blob  
+*  dt
+- giọt nước
+- viên tròn
+- đốm màu
+- (thể dục,thể thao) điểm không (crikê)
+!on the blob
+- (từ lóng) bằng miệng, vấn đáp
+
+@blobber-lipped  
+*  tt
+- có môi dầy và vều
+
+@bloc  
+*  dt
+- (chính trị) khối
+
++ left-wing parties bloc: khối các đảng phái tả
+
++ sterling bloc: khối đồng bảng Anh
+
+@block  
+*  dt
+- khối, tảng, súc (đá, gỗ...)
+- cái thớt, đon kê, tấm gỗ kê để chặt đầu (người bị tử hình)
+- khuôn (mũ); đầu giả (để trưng bày mũ, tóc giả...)
+- khuôn nhà lớn, nhà khối (ở giữa bốn con đường)
+- vật chương ngại; sự trở ngại; sự tắc nghẽn, sự tắc nghẽn xe cộ
+- lô đất (chính phủ cấp cho tư nhân); (từ Mỹ,nghĩa Mỹ) khoảnh đất trong thành phố
+- bản khắc (để in)
+- số lớn cổ phần
+- (ngành đường sắt) đoạn đường; đoàn toa xe
+- (kỹ thuật) puli
+- (thể dục,thể thao) sự chặn, sự cản (bóng, đối phương)
+- thông cáo phản đối một dự luật (nghị viện)
+- (úc) đường phố lớn có nhiều người đi dạo
+- (từ lóng) cái đầu (người)
+- người đần độn
+- người nhẫn tâm
+!chip of the old block
+- đứa con giống bố như tạc
+!to be senf to the block
+- bị xử chém
+*  ngdgt
+- làm trở ngại (sự đi lại); ngăn chận
+- làm trở ngại sự thi hành; chặn đứng (một kế hoạch)
+
++ to block the enemy's plant: chặn đứng những kế hoạch của địch
+- (thể dục,thể thao) chặn cản (bóng, đối phương)
+- hạn chế chi tiêu, hạn chế việc sử dụng (vốn)
+- phản đối (dự luật ở nghị viện)
+- gò vào khuôn (mũ...)
+- rập chữ nổi (bìa sách, da
+!to block out (in)
+- phác ra, vẽ phác
+
++ to block out a plan: phác ra một kế hoạch
+
++ to block in a pictủe: vẽ phác một bức tranh
+
+@block
+- (Tech) khối; bộ, ô; con trỏ vuông; tín hiệu chặn; nhóm (điện tử); ngăn chặn (đ)
+ @block
+- khối, đống, kết cấu
+- buiding b. cơ; khối xây dựng; (máy tính) khối tiêu chuẩn 
+- incomplete b. (thống kê) khối khuyết 
+- linked b.s các khối giao nhau 
+- ramdomized b. khối ngẫu nhiên 
+ @block address
+- (Tech) địa chỉ khối
+ @block and tackle
+* dt
+- <kỹ> puli
+ @block cancel character
+- (Tech) ký tự bỏ khối
+ @block check character
+- (Tech) ký tự kiểm khối
+ @block data
+- (Tech) dữ kiện khối
+ @block device
+- (Tech) thiết bị khối
+ @block diagram
+- (Tech) sơ đồ khối
+ @block gap
+- (Tech) khoảng cách (ký lục) khối 
++  interblock gap
+ @Block grant
+- (Econ) Trợ cấp cả gói
+: Nói chung là một khoản trợ cấp không đặt cọc của chính phủ cấp cho chính quyền địa phương
+ @block ignore character 
++  block cancel character
+ @block length
+- (Tech) độ dài khối
+ @block letter  
+*  dt
+- chữ viết rời nhau (như trong chữ in)
+
+@block mark
+- (Tech) dấu khối
+ @block nesting
+- (Tech) lồng khối
+ @block parity
+- (Tech) giải thuật kiểm toàn khối
+ @block prefix
+- (Tech) tiếp đầu khối
+ @block record
+- (Tech) bản ghi khối
+ @block retrieval
+- (Tech) truy dụng khối
+ @block search
+- (Tech) tìm khối
+ @block signal
+- (Tech) tín hiệu chặn
+ @block sort
+- (Tech) sắp xếp theo khối
+ @block structure
+- (Tech) cấu trúc khối
+ @block transfer
+- (Tech) chuyển từng khối một
+ @block vote
+* dt
+- cuộc bỏ phiếu mà trong đó, lá phiếu của mỗi cử tri chi phối tỉ lệ của số người được cử tri ấy đại diện
+ @blockade  
+*  dt
+- sự phong toả, sự bao vây
+
++ to raise a blockade: rút bỏ một phong toả
+
++ to run the blockade: tránh thoát vòng vây
+
++ paper blockade: sự phong toả trên giấy tờ (có tuyên bố nhưng không thực hiện)
+- (từ Mỹ,nghĩa Mỹ) sự ùn lại, sự tắc nghẽn (xe cộ)
+- sự mắc nghẽn (vì tuyết, băng...)
+*  ngdgt
+- phong toả, bao vây
+- che mất (mắt)
+- (từ Mỹ,nghĩa Mỹ) làm tắc nghẽn, làm trở ngại (lối đi lại)
+
+@blockader
+- xem blockade
+ @blockade-runner
+* dt
+- tàu thủy hoặc người chạy thoát khỏi vùng bị phong toả
+ @blockage
+* dt
+- sự bao vây; tình trang bị bao vây
+ @block-book
+* ndgt
+- đặt trước một số chỗ
+ @block-booking
+* dt
+- sự đặt trước một số chỗ (ở nhà hát hoặc phòng khách sạn) cùng một lúc
+ @block-buster  
+*  dt
+- (từ lóng) bom tấn
+
+@blockbuster
+* dt
+- (từ lóng) bom tấn
+- (nghĩa bóng) phim @blocker
+- xem block
+ @blockette
+- (Tech) khối con
+ @blockhead  
+*  dt
+- người ngu dốt, người đần độn
+
+@blockhouse  
+*  dt
+- (quân sự) lô cốt
+
+@blocking
+- (Tech) khóa; chặn; kết khối
+ @blocking
+- cản
+ @blocking factor
+- (Tech) hệ số kết khối
+ @blocking layer
+- (Tech) lớp chặn
+ @blockish  
+*  tt
+- như khối, như tảng, như súc
+- ngu dốt, đần độn
+
+@blockishly
+- xem blockish
+ @blockishness
+- xem blockish
+ @blocklaying
+* dt
+- sự xây móng hoặc tường dùng những khối bê tông
+ @blocksize
+- (Tech) cỡ khối; cỡ khối kiện
+ @block-system  
+*  dt
+- (ngành đường sắt) hệ thống tín hiệu chặn đường
+
+@bloke  
+*  dt
+- (thông tục) gã, chàng
+- (thông tục) người cục mịch, người thô kệch
+- (the bloke) (hàng hải),  (từ lóng) thuyền trưởng
+
+@blond   (blonde) @blonde  
+*  dt
+- cô gái tóc hoe, người đàn bà tóc hoe
+*  tt
+- (như) blond
+
+@blondish
+- xem blond
+ @blondness
+- xem blond
+ @blood  
+*  dt
+- máu, huyết
+- nhựa (cây); nước ngọt (hoa quả...)
+- sự tàn sát, sự chém giết, sự đổ máu
+
++ to thirst for blood: khát máu
+- tính khí
+
++ in warm blood: nổi nóng, nổi giận
+
++ bad blood: ác ý
+- giống nòi, dòng dõi, họ hàng, gia đình
+
++ to be the same flesh and blood: cùng một dòng họ, cùng một dòng máu
+
++ to be near in blood: có họ gần
+
++ blood royal: hoang gia
+
++ fresh blood: số người mới nhập (vào một gia đình, một xã, một hội)
+
++ bit of blood: ngựa thuần chủng
+
++ dauntlessness runs in the blood of that family: tinh thần bất khuất là truyền thống của gia đình ấy
+- người lịch sự, người ăn diện ((thường) young blood)
+!blood and iron
+- chính sách vũ lực tàn bạo
+!blood is thicker than water
+- (tục ngữ) một giọt máu đào hơn ao nước lã
+!to breed (make, stir up) bad blood between persons
+- gây sự bất hoà giữa người nọ với người kia
+!to drown in blood
+- nhận chìm trong máu
+!to freeze someone's blood
+- (xem) freeze
+!to get (have) one's blood up
+- nổi nóng
+!to get someone's blood up
+- làm cho ai nổi nóng
+!in cold blood
+- chủ tâm có suy tính trước
+- nhẫn tâm, lạnh lùng, không ghê tay (khi giết người)
+!to make one's blood boil
+- (xem) boit
+!to make someone's blood run cold
+- (xem) cold
+!you cannot get (take) blood (out of) stone
+- không thể nào làm mủi lòng kẻ nhẫn tâm được
+*  ngdgt
+- trích máu
+- (săn bắn) luyện cho (chó săn) thích máu
+- (nghĩa bóng) xúi giục, kích động (ai)
+
+@blood bank  
+*  dt
+- nhà băng máu
+
+@blood bath  
+*  dt
+- sự tàn sát, sự chém giết, sự đổ máu
+
+@blood brother  
+*  dt
+- anh em máu mủ ruột thịt
+- anh em kết nghĩa trích máu ăn thề
+
+@blood count
+- sự đếm huyết cầu trong máu
+ @blood donation
+* dt
+- sự hiến máu
+ @blood donor  
+*  dt
+- (y học) người cho máu
+
+@blood feud  
+*  dt
+- mối thù truyền kiếp
+
+@blood group  
+*  dt
+- nhóm máu
+
+@blood money
+- tiền thuê giết người
+ @blood pressure  
+*  dt
+- huyết áp
+
+@blood sport
+- thể thao săn bắn
+ @blood sports  
+*  dt
+- trò bắn giết thú vật (một lối chơi thể thao)
+
+@blood stock  
+*  dt
+- ngựa thuần chủng (nói chung)
+
+@blood test  
+*  dt
+- sự thử máu
+
+@blood transfusion  
+*  dt
+- (y học) sự truyền máu
+
+@blood type
+* dt
+- kiểu máu, nhóm máu
+ @blood-bath
+* dt
+- vụ giết người hàng loạt; vụ thảm sát; cuộc "tắm máu"
+ @blood-count  
+*  dt
+- sự đếm huyết cầu (trong máu)
+
+@blood-curdling  
+*  tt
+- làm sợ chết khiếp, khủng khiếp
+
++ blood-curdling sight: cảnh khủng khiếp
+
+@bloodcurdling
+* tt
+- làm kinh khiếp; làm kinh hoàng
+
++  bloodcurdling screams:những tiếng thét ghê rợn
+ @blooded
+* tt
+- dòng giống tốt; thuần chủng
+ @blood-guilty  
+*  tt
+- phạm tội giết người; có can phạm đến cái chết của ai
+
+@blood-heat  
+*  dt
+- thân nhiệt bình thường
+
+@blood-horse  
+*  dt
+- ngựa thuần chủng
+
+@bloodhound  
+*  dt
+- chó (săn) dò thú, chó đánh hơi
+- mật thám
+
+@bloodily  
+*  dt
+- tàn bạo; khát máu, thích đổ máu
+
+@bloodiness  
+*  dt
+- tính tàn bạo, tính khát máu, tính thích đổ máu
+
+@bloodless  
+*  tt
+- không có máu; tái nhợt
+- không đổ máu
+
++ a bloodless victory: chiến thắng không đổ máu, chiến thắng không ai phải hy sinh cả
+- lạnh lùng, vô tình, nhẫn tâm
+- không có sinh khí, uể oải, lờ phờ
+
+@bloodlessly
+- xem bloodless
+ @bloodlessness
+- xem bloodless
+ @blood-letting  
+*  dt
+- (y học) sự trích máu
+-(đùa cợt) sự đổ máu
+
+@bloodline
+* dt
+- dòng dõi huyết thống
+ @blood-lust
+* dt
+- sự si mê chém giết
+ @blood-money  
+*  dt
+- đồng tiền máu (tiền thưởng cho kẻ làm chứng để tuyên được án tử hình); tiền phạt trả cho người nhà có người bị giết
+
+@blood-poisoning  
+*  dt
+- sự ngộ độc máu
+
+@blood-pudding   (blood-sausage) @blood-red  
+*  tt
+- đỏ máu
+
+@blood-relation  
+*  dt
+- họ hàng máu mủ, bà con ruột thịt
+
+@blood-sausage   (blood-sausage) @bloodshed  
+*  dt
+- sự đổ máu, sự chém giết
+
+@bloodshot  
+*  tt
+- đỏ ngàu (mắt)
+!to see thing bloodhot
+- thấy dấu vết của sự đổ máu ở cái gì
+- thấy cái gì kích thích ý muốn giết chóc
+
+@blood-stained  
+*  tt
+- nhuốm máu
+- bị ô danh (vì gây ra đổ máu)
+
+@bloodstock
+* dt
+- ngựa thuần chủng (nói chung)
+ @bloodstream
+* dt
+- dòng máu trong cơ thể
+ @blood-sucker  
+*  dt
+- con đỉa
+- (nghĩa bóng) kẻ hút máu hút mủ; kẻ bóc lột
+
+@bloodsucker
+* dt
+- động vật hút máu
+- kẻ bóc lột
+ @bloodsucking
+- xem bloodsucker
+ @bloodthirstily
+* dt
+- khát máu, tàn bạo
+ @bloodthirstiness  
+*  dt
+- tính khát máu, tính tàn bạo
+
+@bloodthirsty  
+*  tt
+- khát máu, tàn bạo
+
+@blood-vessel  
+*  dt
+- mạch máu
+
+@bloodworm
+* dt
+- con sâu có đốt màu đỏ làm mồi câu
+- bọ chỉ đào; bọ gậy; cung quăng
+ @bloody  
+*  tt: (bloody-minded) 
+@bloody-minded  
+*  tt: (bloody-minded) 
+@bloody-mindedness
+* dt
+- tính dửng dưng, tính trơ trơ
+ @bloom  
+*  dt
+- hoa
+- sự ra hoa
+
++ in bloom: đang ra hoa
+- (nghĩa bóng) tuổi thanh xuân; thời kỳ rực rỡ, thời kỳ tươi đẹp nhất
+
++ in the full bloom of youth: trong lúc tuổi thanh xuân tươi đẹp nhất
+- phấn (ở vỏ quả)
+- sắc hồng hào khoẻ mạnh; vẻ tươi
+
++ to take the bloom off: làm mất tươi
+*  ndgt
+- có hoa, ra hoa, nở hoa
+- (nghĩa bóng) ở thời kỳ rực rỡ, ở thời kỳ tươi đẹp nhất
+*  dt
+- (kỹ thuật) thỏi đúc (sắt thép)
+*  ngdgt
+- (kỹ thuật) đúc (sắt thép) thành thỏi
+
+@bloomer  
+*  dt
+- (từ lóng) lỗi lầm lớn, điều sai lầm lớn
+
+@bloomers  
+*  (bất qui tắc) dt số nhiều
+- quần buộc túm (phụ nữ mặc để chơi thể thao)
+
+@bloomery
+* dt số nhiều
+- nơi quặng sắt được chế biến thành sắt có thể dát được; lò nung
+ @blooming  
+*  tt
+- đang nở hoa
+- tươi đẹp, tươi như hoa nở; đang ở thời kỳ rực rỡ, đang ở thời kỳ tươi đẹp nhất
+
++ a blooming beauty: sắc đẹp đang thì
+- (thông tục) quá, quá đỗi, quá chừng, hết sức
+
++ a blooming food: một thằng ngu hết sức
+*  dt
+- (kỹ thuật) sự đúc (sắt thép) thành thỏi
+
+@bloomy
+- xem bloom
+ @blooper
+* dt
+- sự đụng chạm khiến người ta rơi vào tình huống khó xử
+ @blossom  
+*  dt
+- hoa (của cây ăn quả)
+
++ in blossom: đang ra hoa
+- (nghĩa bóng) sự hứa hẹn, niềm hy vọng
+*  ndgt
+- ra hoa, trổ hoa ((nghĩa đen) & (nghĩa bóng))
+
+@blossomy
+- xem blossom
+ @blot  
+*  dt
+- điểm yếu (về mặt chiến lược)
+
++ to hit a blot: phát hiện ra một điểm yếu về mặt chiến lược
+*  dt
+- dấu, vết (mực...)
+- vết xoá
+- (nghĩa bóng) vết nhơ, vết nhục
+!a blot on one's escutcheon
+- vết nhơ cho thanh danh của mình
+
++ a blot on the landscape: cái làm hại, cái làm đẹp chung
+- người làm mang tai mang tiếng cho gia đình
+*  ngdgt
+- làm bẩn, vấy bẩn (bằng mực)
+- thấm
+- (nghĩa bóng) làm mất, làm nhơ, bôi nhọ (phẩm giá, danh dự)
+*  ndgt
+- thấm, hút mực (giấy thấm)
+- nhỏ mực (bút)
+!to blot out
+- xoá đi, xoá sạch, tẩy sạch
+
++ to blot out a word: xoá một từ
+- làm mờ đi, che kín
+
++ the fog blots out the view: sương mù làm mờ phong cảnh
+- tiêu diệt, phá huỷ
+!to blot one's copy-book
+- (xem) copy-book
+
+@blotch  
+*  dt
+- nhọt sưng tấy, chỗ sưng tấy (trên da)
+- vết (mực, sơn...)
+- (từ lóng) giấy thấm
+*  ngdgt
+- làm bẩn, bôi bẩn
+
+@blotched   (blotchy) @blotchily
+- xem blotch
+ @blotchiness
+- xem blotch
+ @blotchy   (blotchy) @blotter  
+*  dt
+- bàn thấm
+- (thương nghiệp) sổ nháp
+
+@blotting-paper  
+*  dt
+- giấy thấm
+
+@blotto  
+*  tt
+- (từ lóng) say khướt, say mèm
+
+@blouse  
+*  dt
+- áo cánh (đàn bà, trẻ con)
+- áo choàng, áo bờ-lu (mặc khi làm việc)
+
+@blouson
+* dt
+- áo bludông
+ @blow  
+*  dt
+- cú đánh đòn
+
++ to deal a blow: giáng cho một đòn
+
++ at a blow: chỉ một cú, chỉ một đập
+
++ to come to blows: đánh nhau; dở đấm, dở đá ra
+- tai hoạ, điều gây xúc động mạnh, cú choáng người
+
++ his wife's death was a great blow to him: vợ anh ấy mất đi thật là một điều bất hạnh lớn đối với anh ấy
+!to strike a blow against
+- chống lại
+!to strike a blow for
+- giúp đỡ, ủng hộ; đấu tranh cho (tự do...)
+*  dt
+- sự nở hoa
+
++ in full blow: đang mùa rộ hoa
+- ngọn gió
+
++ to go for a blow: đi hóng mát
+- hơi thổi; sự thổi (kèn...); sự hỉ (mũi)
+- trứng ruồi, trứng nhặng (đẻ vào thức ăn...) ((cũng) fly)
+*  (bất qui tắc) dgt blew 
+@blow
+- (Tech) thổi, quạt
+ @blow up
+- (Tech) phóng lớn, phóng đại, khuếch trương; nổ
+ @blowback
+* dt
+- sự nạp đạn tự động
+ @blow-by-blow
+* tt
+- chi tiết; tỉ mỉ
+
++  a blow-by-blow account:sự tính toán chi tiết
+ @blow-dry
+* dt
+- sự sấy tóc
+* ngdgt
+ @blower  
+*  dt
+- ống bễ
+- người thổi (đồ thuỷ tinh)
+- (kỹ thuật) máy quạt gió
+
+@blower
+- (Tech) máy thổi
+ @blowfly  
+*  dt
+- ruồi xanh, nhặng
+
+@blowgun  
+*  dt
+- ống xì đồng
+- cái sơn xì
+
+@blowhard  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) anh chàng huênh hoang khoác lác
+
+@blowhole  
+*  dt
+- lỗ phun nước (cá voi)
+- ống thông hơi (đường hầm)
+- bọt (thuỷ tinh); chỗ rỗ (kim loại)
+
+@blowing-up  
+*  dt
+- sự nổ, sự phá bằng mìn
+- (từ lóng) sự rầy la, sự chửi mắng
+
+@blowlamp   (blowtorch) @blown  
+*  dt
+- cú đánh đòn
+
++ to deal a blow: giáng cho một đòn
+
++ at a blow: chỉ một cú, chỉ một đập
+
++ to come to blows: đánh nhau; dở đấm, dở đá ra
+- tai hoạ, điều gây xúc động mạnh, cú choáng người
+
++ his wife's death was a great blow to him: vợ anh ấy mất đi thật là một điều bất hạnh lớn đối với anh ấy
+!to strike a blow against
+- chống lại
+!to strike a blow for
+- giúp đỡ, ủng hộ; đấu tranh cho (tự do...)
+*  dt
+- sự nở hoa
+
++ in full blow: đang mùa rộ hoa
+- ngọn gió
+
++ to go for a blow: đi hóng mát
+- hơi thổi; sự thổi (kèn...); sự hỉ (mũi)
+- trứng ruồi, trứng nhặng (đẻ vào thức ăn...) ((cũng) fly)
+*  (bất qui tắc) dgt blew 
+@blow-off  
+*  dt
+- sự xì hơi, sự xả hơi
+- cái để xì hơi, cái để xả hơi
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) anh chàng nói khoác
+
+@blow-out  
+*  dt
+- sự nổ lốp xe; sự bật hơi
+- (điện học) cái triệt tia điện; sự nổ cầu chì
+- (từ lóng) bữa chén thừa mứa
+- (từ Mỹ,nghĩa Mỹ) cơn giận điên lên; sự phẫn nộ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) biến cố lớn
+
+@blowpipe  
+*  dt
+- ống hàn
+- ống thổi thuỷ tinh
+- ống xì đồng
+- ống thổi lửa
+
+@blowtorch   (blowtorch) @blowtube  
+*  dt
+- ống thổi thuỷ tinh
+- ống xì đồng
+
+@blow-up  
+*  dt
+- sự nổ
+- sự rầy la, sự chửi mắng
+- cơn giận dữ, cơn phẫn nộ
+- tranh phóng to, ảnh phóng to
+- (thông tục) bữa chén thừa mứa
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) biến cố lớn
+
+@blowy  
+*  tt
+- có gió, lộng gió
+
+@blowzed   (blowzy) @blowzily
+- xem blowzy
+ @blowziness
+- xem blowzy
+ @blowzy   (blowzy) @blub  
+*  ndgt
+- (từ lóng) khóc, vãi nước đái ((nghĩa bóng))
+
+@blubber  
+*  dt
+- mỡ cá voi
+- con sứa
+- nước mắt; sự khóc sưng cả mắt
+*  dgt
+- thổn thức; khóc bù lu bù loa; khóc sưng cả mắt
+*  tt
+- vều, trề (môi)
+
+@blubberer
+- xem blubber
+ @blubberingly
+- xem blubber
+ @blubbery
+- xem blubber
+ @bluchers  
+*  (bất qui tắc) dt số nhiều
+- giày cao cổ
+
+@bludge
+* ndgt
+- (từ úc,  (thông tục)) trốn tránh công việc, nhiệm vụ
+- trút lên người khác, bắt người khác gánh chịu
+- xoáy; nẫng
+* dt
+- công việc đễ dàng, thời gian rãnh rỗi
+ @bludgeon  
+*  dt
+- cái dùi cui
+*  ngdgt
+- đánh bằng dùi cui
+
+@bludgeoneer
+- xem bludgeon
+ @bludgeoner
+- xem bludgeon
+ @blue  
+*  tt
+- xanh
+
++ dark blue: xanh sẫm
+- mặc quần áo xanh
+- (thông tục) chán nản, thất vọng
+
++ to feel blue: cảm thấy chán nản
+
++ things look blue: mọi việc có vẻ đáng chán, mọi việc có vẻ đáng buồn
+
++ blue study: sự ưu tư buồn bã, sự suy nghĩ ủ ê
+- hay chữ (đàn bà)
+- tục tĩu (câu chuyện)
+- (chính trị) (thuộc) đảng Tô rõi rệu 1 chĩu phĩu uống say mèm, uống say bí tỉ
+!to make (turn) the air blue
+- chửi tục
+!once in a blue moon
+- (xem) moon
+*  dt
+- màu xanh
+
++ to be dressed in blue: mặc quần áo màu xanh
+- phẩm xanh, thuốc xanh
+
++ Paris blue: xanh Pa-ri
+- (the blue) bầu trời
+- (the blue) biển cả
+- vận động viên điền kinh (trường đại học Ôc-phớt và Căm-brít); huy hiệu vận động điền kinh (trường đại học Ôc-phớt và Căm-brít)
+
++ the dark blues: những vận động viên điền kinh của trường đại học Ôc-phớt
+
++ the light blues: những vận động viên điền kinh của trường đại học Căm-brít
+- nữ học giả, nữ sĩ ((cũng) blue stocking)
+- (số nhiều) sự buồn chán
+
++ to be in the blues; to have the blues: buồn chán
+
++ to give someone the blues: gây nỗi buồn chán cho ai
+!a bolt from the blue
+- (xem) bolt
+!out of the blue
+- hoàn toàn bất ngờ
+*  ngdgt
+- làm xanh, nhuộm xanh
+- hồ lơ (quần áo)
+- (từ lóng) xài phí, phung phí (tiền bạc)
+
+@blue baby
+* dt
+- đứa bé có da tái xanh từ lúc mới sinh ra
+ @blue blood
+* dt
+- dòng dõi quý phái
+ @Blue Book
+- (Econ) Sách xanh
+: Một cái tên quen thuộc cho ấn phẩm của Cục thống kê trung ương bao gồm đăng tải những tài khoản chi tiêu và thu nhập quốc dân hàng năm của Anh.
+ @blue cheese
+* dt
+- phó mát có sợi mốc xanh
+ @Blue chip
+- (Econ) Cổ phần xanh
+: Một cụm thuật ngữ chỉ CỔ PHẦN hạng nhất có ít rủi ro về mất vốn.
+ @blue devils  
+*  dt
+- (thông tục) sự chán nản, sự thất vọng
+
+@blue disease  
+*  dt
+- (y học) chứng xanh tím
+
+@blue (electron) gun
+- (Tech) súng điện tử mầu lam
+ @blue ensign
+* dt
+- biểu trưng của các bộ trong chính phủ Anh
+ @blue fear   (blue_funk) @blue funk   (blue_funk) @blue jeans
+- (Mỹ) như jesns
+ @blue murder  
+*  dt
+- like blue_murder hết sức mau
+
+@blue peter  
+*  dt
+- (hàng hải) cờ lệnh nhổ neo
+
+@blue phosphor
+- (Tech) lân tinh mầu lam
+ @blue primary
+- (Tech) mầu lam cơ bản
+ @blue print  
+*  dt
+- bản sơ đồ, bản thiết kế, bản kế hoạch
+
+@blue ribbon  
+*  dt
+- (hàng hải) giải thưởng tàu (chở khách) đẹp và nhanh nhất
+- huân chương băng xanh (cao nhất nước Anh)
+- giải thưởng cao nhất
+
+@blue ruin  
+*  dt
+- rượu tồi, rượu gắt
+
+@blue tit
+* dt
+- chim sẻ ngô
+ @blue vitriol  
+*  dt
+- đồng sunfat
+
+@blue water  
+*  dt
+- biển cả, biển khơi
+
+@blue whale
+* dt
+- cá voi xanh
+ @bluebeard  
+*  dt
+- anh chàng chiều vợ
+
+@bluebell  
+*  dt
+- (thực vật học) cây hoa chuông lá tròn
+
+@blueberry
+* dt
+- cây việt quất
+ @bluebird
+* dt
+- chim sơn ca (có bộ lông xanh ở lưng)
+ @blue-blood  
+*  dt
+- dòng dõi trâm anh thế phiệt
+
+@blue-blooded
+* tt
+- thuộc dòng dõi quý phái
+ @bluebonnet
+* dt
+- mũ len xanh trước đây người ta đội ở Xcôtlân
+- người đội mũ này
+ @blue-book  
+*  dt
+- sách xanh (báo cáo của nghị viện hay hội đồng tư vấn Hoàng gia)
+- (từ Mỹ,nghĩa Mỹ) sách xanh (ghi những chi tiết về thân thế viên chức trong chính phủ Mỹ)
+
+@bluebottle  
+*  dt
+- con ruồi xanh, con nhặng
+- (thực vật học) cúc thỉ xa
+
+@blue-chip
+* tt
+- bảo đảm chắc chắn (nói về đầu tư cổ phần)
+ @Blue-chip stock
+- (Econ) Cổ phiếu sáng giá.
+ @blue-collar
+* tt
+- thuộc về lao lực, thuộc về lao động chân tay
+ @Blue-collar workers
+- (Econ) Công nhân cổ xanh
+: Người lao động tham gia vào công việc nào đó mà về bản chất là lao động chân tay, và cũng khác với công nhân cổ trắng.(Xem MANUAL WORKERS)
+ @bluejacket  
+*  dt
+- thuỷ thủ, linh thuỷ
+
+@bluely
+- xem blue
+ @blueness
+- xem blue
+ @blue-pencil  
+*  ngdgt
+- đánh dấu bằng bút chì xanh; chữa bằng bút chì xanh, gạch bằng bút chì xanh
+- kiểm duyệt
+
+@blueprint  
+*  ngdgt
+- thiết kế, lên kế hoạch
+
+@blue-ribbon
+- xem blue ribbon
+ @blues  
+*  dt điệu nhảy blu
+
+@bluesman
+- xem blues
+ @bluestocking  
+*  dt
+- nữ học giả, nữ sĩ
+
+@blue-stone  
+*  dt
+- đồng sunfat
+
+@bluesy
+- xem blues
+ @bluet  
+*  dt
+- (thực vật học) cây cúc thỉ xa
+
+@bluetongue
+* dt
+- thằn lằn úc
+ @blue-water school  
+*  dt
+- môn phái hải quân thuần tuý (môn phái các nhà chiến lược chủ trương chỉ cần có hải quân mạnh là bảo vệ được nước mình)
+
+@bluey
+* dt
+- (từ úc) cái chăn
+- cái túi
+ @bluff  
+*  tt
+- có dốc đứng (bờ biển...)
+- cục mịch, chân thật, chất phác, không biết khách sáo màu mè (người)
+*  dt
+- dốc đứng
+*  dt
+- lời lừa gạt; lời bịp bợm
+- sự tháu cáy (đánh bài xì)
+
++ to call someone's bluff: bắt tháu cáy của ai
+*  dgt
+- bịp, lừa gạt, lừa phỉnh
+- tháu cáy
+
+@bluffable
+- xem bluff
+ @bluffer
+- xem bluff
+ @bluffly
+- xem bluff
+ @bluffness
+* dt
+- sự chân thật, sự chất phác
+ @bluing
+* dt
+- cũng blueing
+- sự hồ lơ
+ @bluish  
+*  tt
+- hơi xanh, xanh xanh
+
+@bluishness
+- xem bluish
+ @blunder  
+*  dt
+- điều sai lầm, ngớ ngẩn
+*  ndgt
+- (thường) : on,  along) mò mẫm; vấp váp
+- sai lầm, ngớ ngẩn
+*  ngdgt
+- làm hỏng (một công việc); quản lý tồi (cơ sở kinh doanh)
+!to blunder away
+- vì khờ mà bỏ lỡ, vì ngu dốt mà bỏ phí
+!to blunder away all one's chances
+- vì khờ mà bỏ lỡ mất những dịp may
+!to blunder out
+- nói hớ, nói vô ý, nói không suy nghĩ (cái gì)
+!to blunder upon
+- ngẫu nhiên mà thấy, may mà thấy
+
+@blunderbuss  
+*  dt
+- (sử học) súng etpigôn
+- (từ Mỹ,nghĩa Mỹ) người phạm sai lầm ngớ ngẩn
+
+@blunderer  
+*  dt
+- người hay mắc sai lầm ngớ ngẩn
+- người khờ dại
+
+@blunderhead  
+*  dt
+- người khờ dại, người ngu ngốc
+
+@blunderingly
+- xem blunder
+ @blunt  
+*  tt
+- cùn (lưỡi dao, kéo...)
+- lỗ mãng, không giữ ý tứ; thẳng thừng, toạc móng heo (lời nói)
+- đần, đần độn (trí óc)
+- (toán học) tù (góc)
+
++ blunt angle: góc tù
+*  dt
+- chiếc kim to và ngắn
+- (từ lóng) tiền mặt
+*  ngdgt
+- làm cùn
+
+@bluntly  
+*  dt
+- lỗ mãng; không giữ ý tứ; tính thẳng thừng, toạc móng heo
+
+@bluntness  
+*  dt
+- sự cùn
+- tính không giữ ý tứ; tính thẳng thừng
+
+@blur  
+*  dt
+- cảnh mờ, dáng mập mờ; trạng thái mập mờ
+- vết mực, vết ố
+- (nghĩa bóng) bết nhơ
+!to cast a blur on someone's name
+- làm ô danh ai
+*  ngdgt
+- làm mờ đi, che mờ
+!mist blur red view
+- sương mù làm cảnh vật mờ đi
+- làm bẩn, bôi bẩn; làm nhoè ((nghĩa đen),  (nghĩa bóng))
+
+@blurb  
+*  dt
+- lời quảng cáo sách, lời giới thiệu sách (của nhà xuất bản)
+
+@blurd
+- phụ đề
+ @blurred
+- (Tech) nhòe
+ @blurred picture
+- (Tech) hình nhòe
+ @blurriness
+- xem blur
+ @blurry
+- xem blur
+ @blurt  
+*  ngdgt
+- thốt ra, nói buột ra
+
++ to out a secret: thốt ra điều bí mật
+
+@blurter
+- xem blurt
+ @BLUS residuals
+- (Econ) Số dư BLUS
+: Các số dư không chệch, tuyến tính, tốt nhất và với một ma trận hiệp phương sai vô hướng
+ @blush  
+*  dt
+- sự đỏ mặt (vì thẹn)
+- ánh hồng, nét ửng đỏ
+
++ the blush of morn: ánh hồng của buổi ban mai
+- cái nhìn, cái liếc mắt
+
++ at the first blush: lúc mới nhìn thấy lần đầu
+!to bring blushes to someone's cheeks
+!to put somebody to the blush
+- làm cho ai thẹn đỏ mặt
+*  ndgt
+- đỏ mặt (vì thẹn)
+
++ for shame: thẹn đỏ mặt
+- thẹn
+- ửng đỏ, ửng hồng
+
+@blusher
+* dt
+- phấn hồng dùng để trang điểm
+ @blushful
+- xem blush
+ @blushing  
+*  tt
+- đỏ mặt, bẽn lẽn
+- xấu hổ, thẹn
+- ửng đỏ, ửng hồng
+
+@blushingly
+- xem blush
+ @bluster  
+*  dt
+- tiếng ầm ầm, tiếng ào ào (gió, sóng)
+- sự hăm doạ ầm ỹ; tiếng quát tháo
+- sự khoe khoang khoác lác ầm ĩ
+*  ndgt
+- thổi ào ào, đập ầm ầm (gió, sóng)
+- hăm doạ ầm ỹ; quát tháo
+
++ to bluster at somebody: hăm doạ ai ầm ỹ
+- khoe khoang khoác lác ầm ĩ
+*  ngdgt
+- (: out,  forth) quát tháo
+!to bluster oneself into anger
+- nổi giận
+
+@blusterer
+- xem bluster
+ @blusterous
+- xem bluster
+ @blustery
+* tt
+- có gió dữ dội
+ @

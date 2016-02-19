@@ -1,0 +1,279 @@
+@my  
+*  tt sở hữu
+- của tôi
+*  thán từ
+- oh,  my! ôi chao ôi!, úi, chà chà!
+
+@myalgia  
+*  dt
+- (y học) chứng đau cơ
+
+@mycelial   (mycelian) @mycelium  
+*  dt
+- (thực vật học) hệ sợi (nấm)
+
+@mycologic   (mycological) @mycological   (mycological) @mycologist  
+*  dt
+- nhà nghiên cứu nấm
+
+@mycology  
+*  dt
+- môn học nấm
+
+@mycoses
+- số nhiều của mycosis
+ @mycosis  
+*  dt
+- (y học) bệnh nấm
+
+@mydriasis  
+*  dt
+- (y học) tật giân đồng tử
+
+@mydriatic  
+*  tt
+- (y học) làm giân đồng tử
+*  dt
+- (y học) thuốc làm giân đồng tử
+
+@myelitides
+- số nhiều của myelitis
+ @myelitis  
+*  dt
+- (y học) viêm tuỷ sống, viêm tuỷ
+
+@mynheer  
+*  dt
+- người Hà-lan
+
+@myocardiograph  
+*  dt
+- máy ghi cơ tim
+
+@myocarditis  
+*  dt
+- (y học) viêm cơ tim
+
+@myocardium  
+*  dt
+- (y học) cơ tim
+
+@myope  
+*  dt
+- người cận thị
+
+@myopia   (myopy) @myopic  
+*  tt
+- cận thị
+
+@myopy   (myopy) @myosis  
+*  dt
+- (y học) tật thu hẹp đồng tử
+
+@myosotis  
+*  dt
+- (thực vật học) cỏ lưu ly
+
+@Myrdal, Gunnar K.
+- (Econ) (1898-1987)
+: Là một nhà kinh tế học, chính trị gia và nhà hoạt động quốc tế người Thuỵ Điển, Myrdal đã kiên định thách thức tư duy kinh tế chính thống trên một loạt các chủ đề. Trong các lĩnh vực, Myrdal đều bày tỏ quan điểm rằng các yếu tố về thể chế quan trọng hơn các quan hệ thị trường trong việc quyết định những sự kiện kinh tế. Myrdal cũng có những đóng góp cho học thuyết kinh tế thuần tuý, và những tác phẩm trước đó của ông, đặc biệt là các tác phẩm Cân bằng tiền tệ (1931) đã phát triển thêm kinh tế học của Knut Wicksell và dự báo được phần lớn những nghiên cứu sau này của  J.M.Keynes. Trong phạm vi vấn đề này, Myrdal là người đã đưa ra những khái niệm EX ANTE VÀ EX POST. Ông đã sử dụng những ý tưởng này để bàn về những quyết định đầu tư chủ chốt và mối quan hệ của chúng với tổng sản lượng quốc dân ở điểm cân bằng theo cách thức mà người ta cho là giống của Keynes. Những tác phẩm quan trọng khác của ông bao gồm: Một nền kinh tế quốc tế: Những vấn đề về triển vọng (1956); Học thuyết kinh tế và các khu vực kém phát triển (1957); Thách thức với sự phong lưu (1963); và Lội ngược dòng (1973). Myrdal được trao giải thưởng Nobel kinh tế (cùng với F.A.von HAYEK) vào năm 1974 do có những nỗ lực mở rộng phạm vi nghiên cứu kinh tế học.
+ @myriad  
+*  dt
+- mười nghìn
+- vô số
+
+@myriapod  
+*  tt
+- có nhiều chân (động vật)
+*  dt
+- động vật nhiều chân
+
+@myrmidon  
+*  dt
+- tay sai đắc lực; lâu la
+- du côn đánh thuê
+!myrmidon of the law
+- cảnh sát, công an
+
+@myrrh
+* dt
+- chất nhựa thơm
+ @myrtaceous  
+*  tt
+- (thực vật học) (thuộc) họ sim
+
+@myrtle  
+*  dt
+- (thực vật học) cây mía (thuộc họ sim)
+
+@myself  
+*  đại từ phản thân
+- tự tôi
+
++ I wash myself: tự tôi tắm rửa lấy
+- chính tôi
+
++ I myself said so: chính tôi nói như thế
+!I am not myself
+- tôi không được khoẻ; tôi thấy trong người khó chịu
+!by myself
+- một mình tôi, mình tôi
+
++ I can do it by myself: tôi có thể làm được cái đó một mình
+
+@mystagogue  
+*  dt
+- thấy tu truyền phép thần (cổ Hy-lạp)
+
+@mysterial
+- xem mysterious
+ @mysterious  
+*  tt
+- thần bí, huyền bí
+- khó giải thích, khó hiểu, bí ẩn
+
+@mysteriousness  
+*  dt
+- tính chất thần bí, tính chất huyền bí
+- tính chất khó giải thích, tính chất khó hiểu, tính chất bí ẩn
+
+@mystery  
+*  dt
+- điều huyền bí, điều thần bí
+
++ the mystery of nature: điều huyền bí của toạ vật
+- bí mật, điều bí ẩn
+
++ to make a mystery of something: coi cái gì là một điều bí mật
+- (số nhiều) (tôn giáo) nghi lễ bí truyền, nghi thức bí truyền
+- kịch tôn giáo (thời Trung cổ)
+- tiểu thuyết thần bí; truyện trinh thám
+
+@mystery-man
+* dt
+- thầy phù thủy, thầy cúng, thầy mo
+- người làm trò ảo thuật
+ @mystery-play
+- xem mystery
+ @mystery-ship   (q-boat) @mystic  
+*  dt
+- người thần bí
+*  tt: (mystical) @mystical  
+*  dt
+- người thần bí
+*  tt: (mystical) @mysticise   (mysticise) @mysticism  
+*  dt
+- đạo thần bí
+- thuyết thần bí; chủ nghĩa thần bí
+
+@mysticize   (mysticise) @mystification  
+*  dt
+- tình trạng bối rối, tình trạng hoang mang
+- trạng thái bí ẩn, tình trạng khó hiểu
+- sự đánh lừa, sự phỉnh chơi, sự chơi khăm
+
+@mystificator
+* dt
+- người lừa bịp, kẻ mê hoặc
+ @mystifier  
+*  dt
+- người làm bối rối, người làm hoang mang
+- người làm ra vẻ bí ẩn, người làm ra vẻ khó hiểu
+- người đánh lừa, người phỉnh chơi, người chơi khăm
+
+@mystify  
+*  ndgt
+- làm bối rối, làm hoang mang
+- làm ra vẻ bí ẩn, làm ra vẻ khó hiểu
+- người đánh lừa, người phỉnh chơi, người chơi khăm
+
+@mystique  
+*  dt
+- không khí thần bí
+- thuật thần bí
+
+@myth  
+*  dt
+- thần thoại
+- chuyện hoang đường, vật hoang đường; chuyện tưởng tượng, vật tưởng tượng
+
+@mythic
+* tt
+- tưởng tượng, hoang đường
+- thuộc thần thoại
+ @mythical  
+*  tt
+- (thuộc) thần thoại
+- hoang đường, tưởng tượng
+
+@mythicalness  
+*  dt
+- tính chất thần thoại
+- tính chất hoang đường; tính chất tưởng tượng
+
+@mythicise   (mythicize) @mythicize   (mythicize) @mythify  
+*  ngdgt
+- biến thành chuyện thần thoại
+- phao ra một chuyện hoang đường (về ai...)
+
+@mythmaker  
+*  dt
+- người sáng tác chuyện thần thoại
+
+@mythmaking  
+*  dt
+- sự sáng tác chuyện thần thoại
+
+@mythographer  
+*  dt
+- nhà chép thần thoại
+
+@mythography  
+*  dt
+- nghệ thuật mô tả chuyện thần thoại
+
+@mythologer
+
+ @mythologic   (mythological) @mythological   (mythological) @mythologist   (mythologer) @mythologize  
+*  ngdgt
+- thần thoại hoá
+*  ndgt
+- nghiên cứu thần thoại
+- sáng tác chuyện thần thoại
+
+@mythology  
+*  dt
+- thần thoại
+
++ Greek mythology: thần thoại Hy-lạp
+- thần thoại học, khoa thần thoại
+
+@mythomania  
+*  dt
+- (y học) chứng thích cường điệu, chứng thích nói ngoa, chứng thích nói điêu
+
+@mythomaniac
+* dt
+- người hay nói ngoa; người hay nói điêu
+ @mythopoeic   (mythopoeic) @mythopoet  
+*  dt
+- nhà thơ viết chuyện thần thoại
+
+@mythopoetic   (mythopoeic) @mythopoetry  
+*  dt
+- nghệ thuật viết chuyện thần thoại bằng thơ
+
+@myxedema  
+*  dt
+- (y học) phù phiếm
+
+@myxidema
+- Cách viết khác : myxoedema 
+ @myxoedema  
+*  dt
+- (y học) phù phiếm
+
+@myxomatosis
+* dt
+- một căn bệnh ở loài thỏ do vi rút gây ra
+ @

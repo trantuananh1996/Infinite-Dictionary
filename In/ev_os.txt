@@ -1,0 +1,553 @@
+@os
+* dt
+- vt của Ordinary Seaman
+- vt của Odnance Survey
+- ngoại cỡ, quá khổ (outside)
+ @os  2 ứng dụng
+@oscan-umbrian
+* dt
+- adj
+- nhánh Oxcan-Umbri (thuộc họ ấn-Âu)
+ @oscar  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (điện ảnh) giải thưởng về diễn xuất
+
+@oscillate  
+*  dgt
+- lung lay, đu đưa
+- lưỡng lự, do dự; dao động
+- (kỹ thuật) dao động
+
+@oscillate
+- dao động, rung động
+ @oscillation  
+*  dt
+- sự lung lay, sự đu đưa
+- sự lưỡng lự, sự do dự; sự dao động
+- (kỹ thuật) sự dao động
+
+@oscillation
+- (sự) dao động; dao độ o. at a point dao động tại một điểm 
+- o. of a function dao động của một hàm 
+- damped o. (vật lí) dao động tắt dần
+- discontinuous o. dao động không liên tục, dao động gián đoạn 
+- exponential o. dao động theo luật mũ 
+- forced o. (vật lí) dao động cưỡng bức 
+- free o. dao động tự do
+- harmonic o. dao động điều hoà
+- natural o. dao động riêng
+- pitching o. (cơ học) dao động [dọc, chòng chành] (tàu biển, máy bay)
+- principal o. dao động chính 
+- residual o. dao động còn dư
+- steady-state o. (vật lí) dao động ổn định
+- tidal o. dao động thuỷ triều
+- transient o. dao động nhất thời
+- undamped o. dao động không tắt dần 
+ @oscillator  
+*  dt
+- máy dao động
+
+@oscillator
+- (vật lí) cái dao động, máy (phát) dao động
+- coupled o.s cái dao động ngẫu hợp
+- damped harmonic o. máy dao động điều hoà tắt dần
+- harmonic o. máy dao động điều hoà
+- linear o. cái dao động tuyến tính
+- simple o. cái dao động đơn 
+ @oscillatory  
+*  tt
+- lung lay, lúc lắc
+- (kỹ thuật) dao động
+
+@oscillatory
+- dao động; chấn động
+ @oscillogram  
+*  dt
+- (điện học) biểu đồ dao động
+
+@oscillogram
+- (vật lí) biểu đồ dao động, hình sóng hiện
+ @oscillograph  
+*  dt
+- (điện học) máy ghi dao động
+
+@oscillograph
+- máy ghi dao động
+ @oscillography
+* dt
+- sự dao động @oscillometer
+* dt
+- (y học) dao động kế
+ @oscilloscope  
+*  dt
+- (điện học) cái nghiệm dao động
+
+@oscilloscope
+- máy hiện dọc
+ @oscilloscopic
+* tt
+- xem oscilloscope, thuộc máy hiện sóng @oscitance
+* dt
+- sự ngáp
+- sự lơ đễnh, không chú ý
+ @oscitancy
+* dt
+- xem oscitance
+ @oscitation  
+*  dt
+- (từ hiếm,nghĩa hiếm) sự ngáp
+- sự không chú ý, sự cẩu thả, sự lơ đễnh
+
+@oscula
+* dt
+- số nhiều
+- xem osculum
+ @osculant  
+*  tt
+- (sinh vật học) cùng chung tính chất
+- trung gian về mặt tính chất
+
+@oscular  
+*  tt
+- (giải phẫu) (thuộc) miệng
+-(đùa cợt) (thuộc) sự hôn hít
+- (toán học) mật tiếp
+
+@osculate  
+*  dgt
+- (từ hiếm,nghĩa hiếm);(đùa cợt) hôn, hôn nhau
+- (sinh vật học) cùng chung tính chất
+- (toán học) mật tiếp
+
+@osculating
+- (hình học) mật tiếp
+ @osculation  
+*  dt
+- (từ hiếm,nghĩa hiếm), (đùa cợt) sự hôn hít
+- (từ hiếm,nghĩa hiếm);(đùa cợt) cái hôn
+- (toán học) sự mật tiếp
+
+@osculation
+- (hình học) sự mật tiếp
+ @osculatory  
+*  tt
+- (toán học) mật tiếp
+
+@osculatory
+- (hình học) mật tiếp
+ @osculatrix
+* dt
+- (cơ học) tuyến tiếp xúc
+ @oscule
+* dt
+- (sinh vật học) lổ nhỏ, lổ bào tử
+ @osculum
+* dt
+- số nhiều oscula
+- lổ; lổ thoát
+ @osier  
+*  dt
+- (thực vật học) cây liễu
+- (định ngữ) bằng liễu giỏ
+
+@osmatic
+* tt
+- thuộc khứu giác
+ @osmesis
+* dt
+- sự ngửi; khứu giác
+ @osmeteria
+* dt
+- số nhiều
+- xem osmeterium
+ @osmeterium
+* dt
+- số nhiều osmeteria
+- (sinh vật học) mấu tuyến mùi
+ @osmic  
+*  tt
+- (hoá học) Osimic
+
++ osmic acid: axit osimic
+
+@osmics
+* dt
+- khứu vị học
+ @osmiophil
+* tt
+- ưa axit osimic
+ @osmiophilic
+* tt
+- xem osmiophil
+ @osmium  
+*  dt
+- (hoá học) Osimi (nguyên số hoá học)
+
+@osmometer
+* dt
+- thẩm thấu kế
+ @osmoscope
+* dt
+- thẩm thấu nghiệm
+ @osmose   (osmosis) @osmosensivity
+* dt
+- tính nhạy cảm thẩm thấu
+ @osmosis   (osmosis) @osmotaxis
+* dt
+- tính theo áp suất thẩm thấu
+ @osmotic  
+*  tt
+- (vật lý),  (sinh vật học); (hoá học) thấm lọc
+
+@osmund  
+*  dt
+- (thực vật học) cây vi (dương xỉ)
+
+@osmundacae
+* dt
+- (thực vật học) môn học cây vi
+ @osphradium
+* dt
+- cơ quan nhận cảm hoá học
+- thể nhận mùi; thể ngửi
+ @osphresiology
+* dt
+- môn học khứu giác
+ @osphresis
+* dt
+- khứu giác
+ @osprey  
+*  dt
+- (động vật học) chim ưng biển ((cũng) ossifrage)
+- lông cắm mũ
+
+@ossa
+* dt
+- số nhiều
+- xem os
+ @ossature
+* dt
+- (kiến trúc) sườn (một công trình)
+ @ossein
+* dt
+- oxein; chất xương
+ @osselet
+* dt
+- xương nhỏ
+ @osseous  
+*  tt
+- có xương
+- hoá xương
+- có nhiều xương hoá đá (tầng đất...)
+
+@ossianic
+* tt
+- giống như của nhà ca sĩ Gaelic cổ Oxian
+ @ossicle  
+*  dt
+- (giải phẫu) xương nhỏ
+
+@ossicular
+* tt
+- thuộc xương nhỏ
+ @ossiferous
+* tt
+- có xương
+ @ossific
+* tt
+- hoá xương; tạo xương
+ @ossification  
+*  dt
+- sự hoá xương
+
+@ossifrage  
+*  dt
+- chim ưng biển ((cũng) osprey)
+
+@ossify  
+*  dgt
+- hoá xương
+
+@ossivorous
+* tt
+- ăn xương
+ @ossuary  
+*  dt
+- chỗ để hài cốt
+- tiểu, bình đựng hài cốt
+- hang có nhiều hài cốt xưa
+
+@osteal
+* tt
+- giống xương; thuộc xương
+ @osteitis  
+*  dt
+- (y học) viêm xương
+
+@ostembryon
+* dt
+- thai hoá đá
+ @ostensibility
+* dt
+- xem ostensible
+ @ostensible  
+*  tt
+- bề ngoài là, làm ra vẻ là, nói ra vẻ là (để che giấu sự thật)
+
++ his ostensible errand was to...: mục đích cuộc đi của hắn bề ngoài ra vẻ là...
+
+@ostensibly
+* dt
+- có vẻ là, bề ngoài là
+ @ostensive
+* tt
+- lộ liễu; bề ngoài
+ @ostensoria
+* dt
+- số nhiều
+- xem ostensorium
+ @ostensorium
+* dt
+- số nhiều ostensoria
+- xem ostensory
+ @ostensory  
+*  dt
+- (tôn giáo) bình bày bánh thánh
+
+@ostentation  
+*  dt
+- sự phô trương, sự khoe khoang, sự vây vo, sự làm cho người ta phải để ý
+
+@ostentatious  
+*  tt
+- phô trương, khoe khoang, vây vo, làm cho người ta phải để ý
+
+@ostentatiously
+* dt
+- phô trương, khoe khoang
+ @osteoarthritic
+* tt
+- viêm khớp xương mãn tính
+ @osteoarthritis  
+*  dt
+- (y học) viêm xương khớp
+
+@osteo-arthritis
+* dt
+- <y> bệnh viêm khớp xương
+ @osteoblast  
+*  dt
+- (giải phẫu) tế bào tạo xương, nguyên bào xương
+
+@osteoblastic
+* tt
+- xem osteoblast, thuộc tế bào tạo xương
+ @osteochondral
+* tt
+- thuộc xương sụn
+ @osteoclasis  
+*  dt
+- (y học) sự huỷ xương
+- phương pháp chỉnh xương
+
+@osteoclast
+* dt
+- tế bào hủy xương
+ @osteoclastic
+* tt
+- xem osteoclast, thuộc tế bào hủy xương
+ @osteocope
+- (y học) nhức xương
+ @osteocranium
+* tt
+- thuộc xương sọ
+ @osteocyte
+* dt
+- tế bào xương
+ @osteodentine
+* dt
+- chất xương răng
+ @osteogenesis  
+*  dt
+- (sinh vật học) sự tạo xương
+
+@osteogenetic  
+*  tt
+- (sinh vật học) tạo xương
+
+@osteogeny
+* dt
+- xem osteogenesis
+ @osteography  
+*  dt
+- khoa mô tả xương
+
+@osteoid  
+*  tt
+- tựa xương, giống xương
+
+@osteolite
+* dt
+- (khoáng vật học) Oteolit
+ @osteological  
+*  tt
+- (thuộc) khoa xương
+
+@osteology  
+*  dt
+- khoa xương
+
+@osteoma  
+*  dt
+- (y học) u xương
+
+@osteomalacia  
+*  dt
+- chứng nhuyễn xương
+
+@osteomere
+* dt
+- đốt xương sống
+ @osteomyelitis  
+*  dt
+- (y học) viêm xương tuỷ
+
+@osteopath  
+*  dt
+- người (biết thuật) nắn xương
+
+@osteopathic
+* tt
+- thuộc thuật nắn xương
+ @osteopathy  
+*  dt
+- thuật nắn xương
+
+@osteoplastic
+* tt
+- tạo xương
+ @osteoplasty  
+*  dt
+- (y học) sự tạo hình xương
+
+@osteoporosis
+* dt
+- chứng loãng xương
+ @osteosarcoma
+* dt
+- số nhiều osteosarcomata
+- Xacôm xương
+ @osteosarcomata
+* dt
+- số nhiều
+- xem osteosarcoma
+ @osteospongium
+* dt
+- xương xốp
+ @osteosuture
+* dt
+- đường nối xương
+ @osteotome
+* dt
+- cái đục xương
+ @osteotomy  
+*  dt
+- (y học) thủ thuật mở xương, thủ thuật đục xương
+
+@ostia
+* dt
+- số nhiều
+- xem ostium
+ @ostial
+* tt
+- thuộc miệng
+ @ostiary
+* dt
+- (sử học) La mã người gác cổng
+ @ostiolar
+* tt
+- thuộc miệng nhỏ
+ @ostiolate
+* tt
+- có miệng nhỏ
+ @ostiole
+* dt
+- miệng nhỏ
+ @ostiolum
+* dt
+- xem ostiole
+ @ostium
+* dt
+- số nhiều ostia
+- miệng; lổ hở; khe tim (chân khớp)
+ @ostler   (hostler) @ostomy
+* dt
+- cách mổ để tạo nên hậu môn nhân tạo
+ @ostosis
+* dt
+- (sinh vật học) sự hoá xương
+ @ostpolitik
+* dt
+- chính sách bình thường hoá quan hện của phương Tây với Đông Âu và Liên Xô (vào những năm 1970)
+ @ostracea
+* dt
+- (động vật học) loại hàu
+ @ostracean
+- tt
+- thuộc loại hàu
+ @ostracion
+* dt
+- (động vật học) cá nóc hòm
+ @ostracise   (ostracise) @ostracism  
+*  dt
+- sự đày, sự phát vãng
+- sự khai trừ, sự tẩy chay; sự loại ra ngoài (tổ chức...)
+
+@ostracize   (ostracise) @ostracode
+* dt
+- (động vật học) bộ vỏ xíu (động vật thân giáp)
+ @ostracoderm
+* dt
+- (động vật học) bộ cá giáp (hoá thạch)
+ @ostreiculture  
+*  dt
+- sự nuôi trai sò
+
+@ostreiculturist
+* dt
+- người nuôi trai sò
+ @ostreophagous  
+*  tt
+- ăn trai sò
+
+@ostrich  
+*  dt
+- (động vật học) đà điểu Châu phi
+!to have the digestion of an ostrich
+- có bộ máy tiêu hoá tốt
+
+@ostrich-farm  
+*  dt
+- trại nuôi đà điểu
+
+@ostrichism
+* dt
+- xem ostrich-policy
+ @ostrich-like
+* tt
+- dạng đà điểu (ăn nhiều)
+ @ostrich-plum  
+*  dt
+- lông đà điểu
+
+@ostrich-policy  
+*  dt
+- chính sách đà điểu (tự mình dối mình)
+
+@ostrogothic
+* tt
+- xem Ostrogoth thuộc người Đông-Gốt
+ @ostyak
+* dt
+- tiếng Oxtiăc (họ Ugo ở tây Xibia)
+ @

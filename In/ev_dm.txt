@@ -1,0 +1,14 @@
+@dm
+- (vt của decimetre)
+ @dma
+- kênh truy cập trực tiếp bộ nhớ
+ @DMA bus
+- (Tech) mẫu tuyến DMA (truy cập bộ nhớ trực tiếp)
+ @DMA interface
+- (Tech) giao diện DMA
+ @DMA multiplexer
+- (Tech) bộ đa hợp DMA
+ @dmus
+* (viết tắt)
+- Tiến sự âm nhạc (Doctor of Music)
+ @

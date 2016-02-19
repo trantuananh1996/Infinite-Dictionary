@@ -1,0 +1,17 @@
+@ctenoid  
+*  tt
+- (động vật học) hình lược, dạng lược
+
+@ctenophoral
+* dt
+- adj
+- (sinh học) có phiến lược; có tấm bơi
+ @ctenophore
+* dt
+- (sinh học) gốc phiến lược
+ @ctenosome
+* dt
+- (sinh học) nhiễm sắc thể hình lược
+ @ctrl
+- (vt của control) điều khiển
+ @

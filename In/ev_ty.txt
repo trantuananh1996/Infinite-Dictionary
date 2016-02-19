@@ -1,0 +1,337 @@
+@tycoon  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) trùm tư bản, vua tư bản
+
++ an oil tycoon: vua dầu hoả
+- (sử học) tướng quân (Nhật bản)
+
+@tycoonery
+* dt
+- chế độ trùm tư bản, chế độ các vua tư bản (dầu hoả, ô tô...)
+- chế độ mạc phủ (ở Nhật Bản)
+ @tying  
+*  động tt hiện tại của tie
+
+@Tying contract
+- (Econ) Hợp đồng bán kèm.
+: Một điều kiện bán hàng đòi hỏi người mua một sản phẩm nào đó phải mua thêm một sản phẩm khác, thường là bổ sung cho sản phẩm đầu tiên.
+ @tyke   (tike) @tymbal   (tymbal) @tympan  
+*  dt
+- màng
+- (giải phẫu) màng nhĩ
+
+@tympana  
+*  dt,  số nhiều tympanums,  tympana
+- tai giữa
+- màng nhĩ
+
+@tympanal
+* tt (như) tympanic
+- thuộc tai giữa
+- thuộc màng thính (côn trùng)
+- thuộc màng nhĩ
+ @tympanic  
+*  tt
+- (thuộc) tai giữa
+- (thuộc) màng nhĩ
+
++ tympanic membrane: màng nhĩ
+
+@tympanist   (tympanist) @tympanites  
+*  dt
+- (y học) sự trướng bụng
+
+@tympanitis  
+*  dt
+- (y học) viêm tai giữa, viêm màng nhĩ
+
+@tympanum  
+*  dt,  số nhiều tympanums,  tympana
+- tai giữa
+- màng nhĩ
+
+@type  
+*  dt
+- kiểu mẫu
+
++ a fine type of patriotism: kiểu mẫu đẹp đẽ của tinh thần yêu nước
+- kiểu
+
++ Nordic type: kiểu người Bắc Âu
+- chữ in
+
++ printed in large type: in chữ lớn
+
++ to be in type: sẵn sàng đưa in
+
++ to set type: sắp chữ
+- (sinh vật học) đại diện điển hình (của một nhóm phân loại)
+
++ type genus: giống điển hình của họ
+*  dgt
+- đánh máy
+
++ to type a letter: đánh máy một bức thư
+
++ to type well: đánh máy giỏi
+
+@type
+- kiểu
+- t. of s Riemann surface (giải tích) kiểu của mặt Riman
+- homotopy t. kiểu đồng luân
+- italie t. kiểu chữ nghiêng
+- order t. kiểu thứ tự 
+- remainder t. kiểu dư
+- topological t. kiểu tôpô
+- weak homotopy t. kiểu đồng luân yếu 
+ @Type I  loại II.
+: Các loại sai số có thể phạm trong kiểm định giả thiết.
+@typecase
+* dt
+- khay chữ in
+ @type-cast
+- vtype-cast:phân khớp vai
+ @type-face
+* dt
+- kiểu chữ; bộ chữ in được thiết kế riêng biệt
+ @typeface
+- kiểu chữ
+ @type-founder  
+*  dt
+- thợ đúc chữ in
+
+@typefounding
+* dt
+- việc đúc chữ
+ @type-foundry  
+*  dt
+- xưởng đúc chữ in
+
+@type-high
+* tt
+- có cùng một độ cao (chữ trong in)
+ @type-metal  
+*  dt
+- hợp kim đúc chữ in
+
+@typeover
+- đánh chồng
+ @typer
+* dt
+- máy in; thiết bị in
+ @typer
+- (máy tính) thiết bị in
+ @typescript
+* dt
+- bản đánh máy
+ @typeset
+* ngdgt
+- sắp chữ
+ @type-setter  
+*  dt
+- thợ sắp chữ
+- máy sắp chữ
+
+@typesetter
+* dt
+- thợ xếp chữ
+- máy xếp chữ
+ @type-setting  
+*  dt
+- sự sắp chữ
+
+@typesetting
+- xếp chữ
+ @type-setting machine  
+*  dt
+- máy sắp chữ
+
+@typewrite  
+*  dgt
+- đánh máy
+
+@typewriter  
+*  dt
+- máy chữ
+- (từ hiếm,nghĩa hiếm) người đánh máy
+
+@typewriting  
+*  dt
+- thuật đánh máy; công việc đánh máy
+
+@typewritten
+* tt
+- được đánh máy
+ @typhlitis  
+*  dt
+- (y học) viêm ruột tịt
+
+@typhoid  
+*  tt
+- (y học) (thuộc) bệnh thương hàn
+
++ typhoid fever: sốt thương hàn
+*  dt
+- (y học) bệnh thương hàn
+
+@typhoid fever
+* dt
+- <y> bệnh thương hàn
+ @typhoidal  
+*  tt
+- (y học) (thuộc) bệnh thương hàn, giống bệnh thương hàn
+
+@typhoon  
+*  dt
+- bão
+
+@typhous  
+*  tt
+- (y học) (thuộc) bệnh sốt phát ban
+
+@typhus  
+*  dt
+- (y học) bệnh sốt phát ban
+
+@typic  
+*  tt
+- tiêu biểu, điển hình ((cũng) typical)
+
+@typical  
+*  tt
+- tiêu biểu, điển hình ((cũng) typic)
+
++ a typical patriot: một người yêu nước điển hình
+- đặc thù, đặc trưng
+
++ typical character: đặc tính, tính chất đặc thù
+
+@typically
+* dt
+- điển hình, tiêu biểu
+- đặc thù, đặc trưng
+ @typieal
+- điển hình
+ @typification  
+*  dt
+- sự làm mẫu, sự làm điền hình
+- mẫu, điển hình, vật tiêu biểu
+
+@typify  
+*  ngdgt
+- làm mẫu cho; là điển hình của
+
+@typing  
+*  dt
+- sự đánh máy
+
+@typist  
+*  dt
+- người đánh máy
+
++ shorthand typist: người đánh máy kiêm tốc ký
+
+@typo  
+*  dt
+- (từ lóng) (viết tắt) của typographer
+
+@typographer  
+*  dt
+- thợ in ((từ lóng) (viết tắt) typo)
+
+@typographic   (typographical) @typographical   (typographical) @typography  
+*  dt
+- thuật in máy
+- kiểu in, cách trình bày bản in
+
+@typoligraphy  
+*  dt
+- phép in bản đá
+
+@typolithography
+* dt
+- cách in bản đá
+ @typologist
+* dt
+- người nghiên cứu loại hình học
+- người nghiên cứu hệ thống các kiểu hình, các loại hình
+ @typology
+* dt
+- loại hình học
+- hệ thống các kiểu hình, hệ thống các loại hình
+ @typomorphic
+* tt
+- thuộc dạng chữ
+ @typonym
+* dt
+- tên vật mẫu chuẩn, tên vật mẫu gốc
+ @tyrannic   (tyrannical) @tyrannical   (tyrannical) @tyrannically
+* dt
+- bạo ngược, chuyên chế, hung tàn
+ @tyrannicide  
+*  dt
+- người giết bạo chúa
+- sự giết bạo chúa
+
+@tyrannise   (tyrannize) @tyrannize   (tyrannize) @tyrannizer
+* dt
+- kẻ đối xử bạo ngược
+ @tyrannosaurus
+* dt
+- cũng tyrannosaur
+- một loại khủng long có chân ngắn và đuôi rất dài
+ @tyrannous   (tyrannical) @tyranny  
+*  dt
+- sự bạo ngược, sự chuyên chế
+- hành động bạo ngược, hành động chuyên chế
+- chính thể bạo chúa, chính thể chuyên chế
+
+@tyrant  
+*  dt
+- bạo chúa, kẻo bạo ngược
+
+@tyre  
+*  dt
+- bản (cao su, sắt...) cạp vành (bánh xe); lốp xe
+
++ rubber tyre: lốp cao su
+
++ solid tyre: lốp đặc
+
++ pneumatic tyre: lốp bơm hơi
+*  ngdgt
+- lắp cạp vành; lắp lốp
+
+@tyre-gauge  
+*  dt
+- đồng hồ thử lốp
+
+@tyre-inflator   (tyre-pump) @tyreless  
+*  tt
+- không có cạp vành; không có lốp
+
+@tyre-lever  
+*  dt
+- cái tháo lốp xe
+
+@tyre-pump   (tyre-pump) @tyring  
+*  dt
+- sự lắp cạp vành; sự lắp lốp
+
+@tyro  
+*  dt,  số nhiều tyros
+- (như) tiro
+
+@tyrocidine
+- Cách viết khác : tyrocidin 
+ @tyrolean
+- Cách viết khác : tyrolian 
+ @tyrolian
+- Cách viết khác : tyrolean 
+ @tyrosinase
+* dt
+- (sinh vật học) tiroxinaza
+ @tyrosine
+* dt
+- (sinh vật học) tiroxin
+ @

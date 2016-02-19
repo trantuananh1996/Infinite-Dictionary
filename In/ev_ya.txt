@@ -1,0 +1,234 @@
+@yacht  
+*  dt
+- thuyền yat, thuyền buồm nhẹ (để đi chơi, đi du lịch, thi thuyền)
+*  ndgt
+- đi chơi bằng thuyền buồm
+- thi thuyền buồm
+
+@yacht-club  
+*  dt
+- hội chơi thuyền
+
+@yachting  
+*  dt
+- sự đi chơi bằng thuyền buồm
+- sự thi thuyền buồm
+
+@yacht-race
+* dt
+- đua thuyền buồm
+ @yachtsman  
+*  dt
+- người đi chơi thuyền buồm
+- người thi thuyền buồm
+
+@yachtsmanship  
+*  dt
+- thuật lái thuyền buồm
+
+@yack
+* dt
+- lối nói chuyện ba hoa
+* dgt
+- ba hoa, khoác lác
+ @yackety-yack
+* dt
+- tính ba hoa, tính khoác lác
+ @yaffil   (yaffle) @yaffle   (yaffle) @yah  
+*  thán từ
+- ái!, úi chà chà!
+
+@yahoo  
+*  dt
+- Iơ-hu (một giống thú mang hình người trong tiểu thuyết " Những cuộc du hành của Guy-li-ve")
+- người thô lỗ; người có thú tính
+
+@yak  
+*  dt
+- (động vật học) bò Tây tạng
+
+@yale
+* dt
+- khoá tự động Mỹ
+ @yale lock  
+*  dt
+- ổ khoá (hình) ống
+
+@yam  
+*  dt
+- (thực vật học) củ từ; khoai mỡ
+- (từ Mỹ,nghĩa Mỹ) khoai lang
+
+@yammer  
+*  ndgt
+- (thông tục) rên rỉ, rền rỉ
+
+@yang
+* dt
+- dương (trong thuyết Âm Dương của Trung Quốc)
+ @yank  
+*  dt
+- (thực vật học) cái kéo mạnh, cái giật mạnh
+*  dgt
+- (thông tục) kéo mạnh, giật mạnh
+
++ to yank out one's sword: rút mạnh kiếm ra, tuốt gươm
+
++ to yank on the brake: kéo mạnh phanh
+!to yank up
+- đưa phắt lên, giật mạnh lên
+*  dt
+- (Yank) (thông tục) (như) Yankee
+
+@yankee  
+*  dt
+- người Mỹ, người Hoa kỳ
+
++ yankee notions: máy móc nhỏ (đồ dùng trong nhà...) của Mỹ
+
++ yankee Doodle: quốc ca Mỹ
+
+@yankeefied  
+*  tt
+- Mỹ hoá
+
+@yankeeism  
+*  dt
+- (ngôn ngữ học) từ ngữ đặc Mỹ
+
+@yaourt   (yoghurt) @yap  
+*  dt
+- tiếng chó sủa ăng ẳng
+- cuộc nói chuyện phiếm
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự càu nhàu; sự cãi lại
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cái mõm
+*  ndgt
+- sủa ăng ẳng
+- nói chuyện phiếm
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) càu nhàu; cãi lại
+
+@yard  
+*  dt
+- Iat, thước Anh (bằng 0, 914 mét)
+- (hàng hải) trục căng buồm
+
++ to be yard and yard: kề sát nhau, sóng nhau (hai chiếc thuyền)
+*  dt
+- sân (có rào xung quanh)
+
++ back yard: sân sau
+- bãi rào (để chăn nuôi)
+- xưởng; kho
+
++ shipbuilding yard: xưởng đóng tàu
+
++ contractor's yard: xưởng chứa vật liệu
+*  ngdgt
+- đưa súc vật vào bãi rào
+
+@yardage  
+*  dt
+- số đo bằng iat
+
+@yardman  
+*  dt
+- (ngành đường sắt) người làm việc ở nhà kho
+
+@yard-master  
+*  dt
+- (ngành đường sắt) người dồn toa
+- người phụ trách nhà kho
+
+@yardstick  
+*  dt
+- (như) yard-wand
+- (nghĩa bóng) tiêu chuẩn so sánh
+
+@yard-wand  
+*  dt
+- thước iat (thước đo dài 1 iat) ((cũng) yardstick)
+
+@yarmulka
+* dt
+- mũ của đàn ông Do Thái đội khi cầu nguyện
+ @yarn  
+*  dt
+- sợi, chỉ
+
++ yarn of nylon: sợi ni lông, chỉ ni lông
+- (thông tục) chuyện huyên thiên; chuyện bịa
+
++ to spin a yarn: kể chuyện huyên thiên; kể chuyện bịa
+*  ndgt
+- (thông tục) nói chuyện huyên thiên; kể chuyện bịa
+
+@yarn-beam  
+*  dt
+- (nghành dệt) trục cửi
+
+@yarn-spinner
+* dt
+- thợ (công nhân) kéo sợi
+- (bóng) người kể chuyện, kẻ thích kể chuyện đủ loại
+ @yarovization  
+*  dt
+- (nông nghiệp) sự xuân hoá
+
+@yarovize  
+*  dgt
+- xuân hoá (hạt giống)
+
+@yarrow  
+*  dt
+- (thực vật học) cỏ thi
+
+@yashmak  
+*  dt
+- mạng che mặt (đàn bà Hồi giáo)
+
+@yataghan
+* dt
+- I-ata-gan (loại gươm lưỡi cong của người đạo Ixlam)
+ @yaw  
+*  dt: (yawing) 
+@yawing  
+*  dt: (yawing) 
+@yawl  
+*  dt
+- xuồng yôn (có 4 hoặc 6 mái chèo)
+- thuyền yôn, thuyền hai cột buồm
+
+@yawn  
+*  dt
+- ngáp (người)
+
++ to give a yawn: ngáp
+- (kỹ thuật) khe hở
+*  ndgt
+- há miệng, toác ra, mở ra (đồ vật)
+*  ngdgt
+- vừa nói vừa ngáp
+
++ to yawn goodnight: vừa ngáp vừa chào để đi ngủ
+
++ "its' very late", he yawned: anh ta vừa ngáp vừa nói "khuya lắm rồi" 
+
++ to yawn one's head off: ngáp sái quai hàm
+
+@yawner  
+*  dt
+- người hay ngáp
+
+@yawningly  
+*  dt
+- ngáp; ngáp vặt, buồn ngủ
+
+@yawny  
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) làm cho buồn chán đến ngáp được
+
+@yaws  
+*  dt số nhiều
+- (y học) bệnh ghẻ cóc
+
+@

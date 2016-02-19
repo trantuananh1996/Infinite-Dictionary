@@ -1,0 +1,21 @@
+@cd
+- đựa compact
+ @CD (compact disk @cdev
+- dụng cụ panen điều khiển
+ @cd-i
+- Một tiêu chuẩn về đựa compact
+ @cdr
+* (viết tắt)
+- thiếu tá (Commander)
+ @CD-ROM
+- (Tech) đĩa CD với bộ nhớ chỉ đọc
+ @cd-rom
+- bộ nhớ chỉ đọc ra dùng đựa compact
+ @CD-ROM drive
+- (Tech) ỗ đĩa CD-ROM
+ @CD-ROM player
+- (Tech) máy đọc đĩa CD-ROM
+ @cdt
+* (viết tắt)
+- giờ ban ngày ở khu vực trung tâm (Central Daylight Time)
+ @

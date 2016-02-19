@@ -1,0 +1,2137 @@
+@phacella
+* dt
+- (sinh vật học) sợi túi ruột; sợi treo trong dạ dày
+ @phaenogam
+* dt
+- thực vật hoa hiện, thực vật có hoa
+ @phaenogamic
+* tt
+- (thuộc) xem phaenogam
+ @phaeton  
+*  dt
+- xe ngựa bốn bánh ((thường) hai ngựa)
+
+@phag-
+- hình thái ghép có nghĩa là ăn: phagocyte : thể thực bào
+- hình thái ghép có nghĩa là ăn: phagocyte : thể thực bào
+ @phage
+* dt
+- (sinh vật học) thể thực khuẩn
+ @phagedaane   (phagedaane) @phagedane   (phagedaane) @phagedeana
+- Cách viết khác : phagedena 
+ @phagedena
+- Cách viết khác : phagedeana 
+ @phage-typing
+* dt
+- cách phân loại bằng thể thực khuẩn
+ @phago-
+- xem phag-
+ @phagocyte  
+*  dt
+- (sinh vật học) thực bào
+
+@phagocytic
+- xem phagocyte
+ @phagocytise
+- Cách viết khác : phagocytize 
+ @phagocytize
+- xem phagocytise
+ @phagocytose
+* ngdgt
+- xem phagocytise
+ @phagocytosis
+* dt
+- sự thực bào
+ @phagosome
+* dt
+- thể thực bào
+ @phalange  
+*  dt,  số nhiều phalanxes  @phalangeal  
+*  tt
+- (giải phẫu) (thuộc) đốt ngón (tay, chân)
+
+@phalanger  
+*  dt
+- (động vật học) cáo có túi
+
+@phalanges  
+*  dt,  số nhiều phalanxes  @phalanstere
+* dt
+- nhà cộng sản cùng ở
+ @phalansterian  
+*  tt
+- (thuộc) falanxtơ
+*  dt
+- thành viên của falanxtơ
+
+@phalansterianism
+- xem phalanstery
+ @phalanstery  
+*  dt
+- Falanxtơ (đoàn thể cộng đồng xã hội chừng độ 1800 người do Phua-ri-ê đề nghị lập ra)
+
+@phalanx  
+*  dt,  số nhiều phalanxes  @phalanxes
+* dt
+- (từ cổ, nghĩa cổ) đội hình phalăng (đội hình được tuyển chọn kỹ, sẵn sàng chiến đấu thời cổ Hy-lạp)
+- đội hình sát cánh nhau
+- hội, đoàn thể
+- <phẫu> đốt ngón (tay, chân)
+- <thực> bó nhị liền chỉ
+- Falanxtơ (đoàn thể cộng đồng xã hội chừng độ 1800 người do Phua-ri-ê đề nghị lập ra)
+ @phalarope  
+*  dt
+- (động vật học) chim dẽ nước
+
+@phalli  
+*  dt,  số nhiều phalli  @phallic  
+*  tt
+- (thuộc) tượng dương vật
+
+@phallically
+- xem phallic
+ @phallicism  
+*  dt
+- sự tôn thờ dương vật
+
+@phallosome
+* dt
+- (sinh vật học) gai giao cấu; dương cụ (côn trùng)
+ @phallus  
+*  dt,  số nhiều phalli  @phalluses
+* dt
+- tượng dương vật (để tôn thờ, biểu tượng cho sức sinh sản của thiên nhiên)
+ @phaner-
+- hình thái ghép có nghĩa là rõ ràng, hiển nhiên: phanerogam : cây có hoa
+- hình thái ghép có nghĩa là rõ ràng, hiển nhiên: phanerogam : cây có hoa
+ @phanero-
+- xem phaner-
+ @phanerogam  
+*  dt
+- (thực vật học) cây có hoa
+
+@phanerogamic   (phanerogamic) @phanerogamous   (phanerogamic) @phanerophyte
+* dt
+- thực vật chồi lộ (trên mặt đất); cây chồi cao
+ @phanstasmal   (phantasmic) @phantasm  
+*  dt
+- bóng ma, hồn hiện
+- ảo ảnh, ảo tượng, ảo tưởng
+
+@phantasma
+* dt
+- số nhiều phantasmata
+- ảo tưởng; mộng tưởng
+- u hồn; bóng ma
+ @phantasmagoria  
+*  dt
+- ảo cảnh
+
+@phantasmagoric  
+*  tt
+- (thuộc) ảo cảnh
+
+@phantasmagorical
+* tt
+- thuộc ảo ảnh
+ @phantasmagorically
+- xem phantasmagoria
+ @phantasmal
+- xem phantasm
+ @phantasmata
+* dt
+- số nhiều
+- xem phantasma
+ @phantasmic   (phantasmic) @phantast   (phantast) @phantastic
+* tt
+- xem fantastic
+ @phantasy   (phantasy) @phantom  
+*  dt ((từ Mỹ,nghĩa Mỹ),  (cũng) fantom)
+- ma, bóng ma
+- ảo ảnh, ảo tượng, ảo tưởng
+- (định ngữ) hão huyền, ma, không có thực
+
++ a phantom ship: con tàu ma
+
+@phantom-like
+* tt, adv
+- như bóng ma; tưởng tượng; hão huyền
+ @pharaoh  
+*  dt
+- (sử học) Faraon, vua Ai cập
+
+@pharaonic
+* tt
+- thuộc pharaon @pharisaic   (Pharisaical) @pharisaical   (Pharisaical) @pharisaically
+- xem pharisaic
+ @pharisaicalness
+- xem pharisaic
+ @pharisaism  
+*  dt
+- tính đạo đức giả; tính giả dối; tính hình thức
+
+@pharisee  
+*  dt
+- tín đồ giáo phái Pha-ri
+- (Pharisee) người đạo đức giả; người giả dối; người rất hình thức
+
+@pharmaceutical  
+*  tt
+- (thuộc) dược khoa
+
++ pharmaceutical products: dược phẩm
+
+@pharmaceutically
+- xem pharmaceutical
+ @pharmaceutics  
+*  dt,  số nhiều dùng như số ít
+- dược khoa
+
+@pharmaceutist
+* dt
+- nhà dược khoa
+ @pharmacist  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) dược sĩ; người buôn dược phẩm
+
+@pharmaco-
+- hình thái ghép có nghĩa là thuốc: pharmacology : dược lý
+- hình thái ghép có nghĩa là thuốc: pharmacology : dược lý
+ @pharmacodynamic
+* tt
+- (thuộc) xem pharmacodynamics
+ @pharmacodynamics
+* dt
+- môn nghiên cứu tác dụng của thuốc tới cơ thể
+ @pharmacognostic
+- Cách viết khác : pharmacognostical 
+ @pharmacognostical
+- xem pharmacognostic
+ @pharmacognosy
+* dt
+- sự nghiên cứu nguồn gốc tự nhiên của thuốc
+ @pharmacokinetic
+* tt
+- (thuộc) xem pharmacokinetics
+ @pharmacokinetics
+* dt
+- môn nghiên cứu tác dụng hoá học, vật lý thuốc tới cơ thể
+ @pharmacologic
+- xem pharmacology
+ @pharmacological
+* tt
+- (thuộc) dược lý
+ @pharmacologically
+- xem pharmacology
+ @pharmacologist  
+*  dt
+- nhà nghiên cứu dược lý
+
+@pharmacology  
+*  dt
+- dược lý
+
+@pharmacopoeia  
+*  dt
+- dược thư, dược điển
+- kho dược phẩm
+
+@pharmacopoeial
+- xem pharmacopoeia
+ @pharmacopoeist
+- xem pharmacopoeia
+ @pharmacy  
+*  dt
+- dược khoa; khoa bào chế
+- hiệu thuốc; phòng bào chế; trạm phát thuốc
+
+@pharos  
+*  dt
+- (thơ ca) đèn pha; hải đăng
+
+@pharyng-
+- hình thái ghép có nghĩa là hầu,  họng: pharyngitis : viêm hầu
+- hình thái ghép có nghĩa là hầu,  họng: pharyngitis : viêm hầu
+ @pharyngal
+* tt
+- thuộc hầu
+ @pharyngeal  
+*  tt
+- (giải phẫu) (thuộc) hầu
+
+@pharynges
+* dt
+- <phẫu> hầu, họng
+ @pharyngitis  
+*  dt
+- (y học) viêm hầu
+
+@pharyngo-
+- xem pharyng-
+ @pharyngo-branchial
+* tt
+- thuộc hầu - cung mang
+ @pharyngology
+* dt
+- môn yết hầu học
+ @pharyngoscope
+* dt
+- (y học) dụng cụ kiểm tra yết hầu
+ @pharyngotomy
+* dt
+- (y học) đèn soi hầu, đèn khám hầu
+ @pharynx  
+*  dt
+- (giải phẫu) hầu, họng
+
+@pharynxes
+* dt
+- <phẫu> hầu, họng
+ @phase  
+*  dt
+- tuần (trăng...)
+- giai thoại, thời kỳ (phát triển, biến đổi)
+- phương diện, mặt (của vấn đề...)
+- (vật lý); (sinh vật học) pha
+*  ngdgt
+- thực hiện (chương trình...) từng giai đoạn
+- (vật lý) làm đồng bộ
+!to phase out something
+- (từ Mỹ,nghĩa Mỹ) thôi dần dần không dùng cái gì, rút lui dần dần cái gì
+
+@phase
+- pha
+- initial p. phan ban đầu 
+- non-minimum p. pha không cực tiểu 
+ @phase-coherent
+* dt
+- (hiện học) phù hợp pha
+ @phasemeter
+* dt
+- pha kế
+ @phasic  
+*  tt
+- (thuộc) giai đoạn, (thuộc) thời kỳ
+- (thuộc) pha
+
+@phasing
+* tt
+- sự định pha
+
++  external phasing:sự định pha ngoài
+
++  internal phasing:sự định pha trong
+ @phasma
+* dt
+- (đông vật học) bọ lá; bọ que
+ @phasmidae
+* dt
+- họ bọ que
+ @phd
+* dt
+- vt của Doctor of Philosophy (tiến sự <triết>)
+ @pheasant  
+*  dt
+- (động vật học) gà lôi đỏ, gà lôi
+
+@pheasant-eyed  
+*  tt
+- có chấm như mắt gà lôi (hoa)
+
+@phelloderm  
+*  dt
+- (thực vật học) lục bì
+
+@phellodermal
+- xem phelloderm
+ @phellogen  
+*  dt
+- (thực vật học) tầng phát sinh bần lục bì
+
+@phellogenetic
+- xem phellogen
+ @phelloid
+* dt
+- tầng không hoá bần
+* tt
+- thuộc tầng không hoá bần
+ @phellum
+* dt
+- (thực vật học) bần
+ @phen-
+- hình thái ghép có nghĩa liên quan tới, xuất phất từ benzen: phenanthrene : chứa đựng fenila (phenol)
+- hình thái ghép có nghĩa liên quan tới, xuất phất từ benzen: phenanthrene : chứa đựng fenila (phenol)
+ @phenacain
+* dt
+- (hoá học) fenacain
+ @phenacetin  
+*  dt
+- (dược học) Fenaxetin
+
+@phene
+* dt
+- (sinh vật học) tình trạng sinh thái di truyền
+ @phenetic
+* tt
+- (sinh vật học) thuộc sự phân loại theo ngoại hình
+ @phenobarbitone
+* dt
+- thuốc ngủ
+ @phenocline
+* dt
+- (sinh vật học) cấp ngoại hình
+ @phenocontour
+* dt
+- (sinh vật học) đường đẳng hiện tượng
+ @phenocopy
+* dt
+- (sinh vật học) sự sao hình
+ @phenocryst
+* dt
+- (khoáng vật học) tinh thể ban
+ @phenocrystic
+* tt
+- thuộc tinh thể ban
+ @phenodeme
+* dt
+- (sinh vật học) nhóm cá thể ngoại hình
+ @phenodeviant
+* dt
+- (sinh vật học) dạng biến dị ngoại hình
+ @phenogam
+* dt
+- (sinh vật học) thực vật có hoa
+ @phenogenetics
+* dt
+- di truyền học ngoại hình
+ @phenol  
+*  dt
+- (hoá học) Fenola
+
+@phenolic
+* tt
+- (hoá học) thuộc fenola
+ @phenological  
+*  tt
+- (thuộc) vật hậu học
+
+@phenologically
+- xem phenology
+ @phenologist
+- xem phenology
+ @phenology  
+*  dt
+- vật hậu học
+
+@phenomena  
+*  dt,  số nhiều phenomena  @phenomena
+- hiện tượng
+- local p. hiện tượng [cục bộ, địa phương]
+- non-periodic p. hiện tượng không tuần hoàn 
+ @phenomenal  
+*  tt
+- (thuộc) hiện tượng, có tính chất hiện tượng
+- có thể nhận thức bằng giác quan
+- kỳ lạ, phi thường
+
+@phenomenalism   (phenomenism) @phenomenalist   (phenomenist) @phenomenalistic   (phenomenistic) @phenomenalistically
+- xem phenomenalism
+ @phenomenalize  
+*  ngdgt
+- hiện tượng hoá, đưa ra thành hiện tượng
+- phi thường hoá, làm thành kỳ lạ
+
+@phenomenally
+* dt
+- kỳ lạ, phi thường
+ @phenomenism   (phenomenism) @phenomenist   (phenomenist) @phenomenistic   (phenomenistic) @phenomenological
+- xem phenomenology
+ @phenomenologically
+- xem phenomenology
+ @phenomenologist  
+*  dt
+- nhà hiện tượng học
+
+@phenomenology  
+*  dt
+- hiện tượng học
+
+@phenomenon  
+*  dt,  số nhiều phenomena  @phenomenon
+- hiện tượng
+- jump p. (điều khiển học) hiện tượng nhảy 
+ @phenotype
+* dt
+- (sinh vật học) phenotip; kiểu hình
+- kiểu ngoại cảnh @phenotypic
+* tt
+- (thuộc) xem phenotype
+ @phew  
+*  thán từ
+- chào ôi! (tỏ ý sốt ruột)
+- gớm!, kinh quá!
+
+@phi  
+*  dt
+- Fi (chữ cái Hy lạp)
+
+@phi
+- phi (&#960;)
+ @phial  
+*  dt
+- lọ nhỏ; ống đựng thuốc
+
+@phialaeform
+- Cách viết khác : phialiform 
+ @phialiform
+- xem phialaeform
+ @phialophore
+* dt
+- cuống thể bình
+ @phil-
+- hình thái ghép có nghĩa là yêu thích: philantropism : thuyết bác ái
+- hình thái ghép có nghĩa là yêu thích: philantropism : thuyết bác ái
+ @philander  
+*  ndgt
+- tán gái, tán tỉnh
+
++ to philander with a girl: tán tỉnh một cô gái
+
+@philanderer  
+*  dt
+- kẻ tán gái, kẻ hay tán tỉnh
+
+@philanthrope   (philanthrope) @philanthropic  
+*  tt
+- yêu người, thương người; nhân đức
+
+@philanthropically
+* dt
+- thương người, nhân từ, bác ái
+ @philanthropism  
+*  dt
+- thuyết yêu người
+
+@philanthropist   (philanthrope) @philanthropize  
+*  ngdgt
+- làm cho thành yêu người, làm cho thành nhân đức
+- làm phúc cho (ai)
+
+@philanthropy  
+*  dt
+- lòng yêu người, lòng nhân đức
+- (từ Mỹ,nghĩa Mỹ) hành động yêu người
+- (từ Mỹ,nghĩa Mỹ) tổ chức phúc thiện
+
+@philatelic  
+*  tt
+- (thuộc) việc sưu tầm tem, chơi tem
+
+@philatelically
+- xem philately
+ @philatelist  
+*  dt
+- người sưu tầm tem, người chơi tem
+
+@philately  
+*  dt
+- việc sưu tầm tem, việc chơi tem
+
+@philharmonic  
+*  tt
+- yêu nhạc, thích nhạc
+
++ the Philharmonic society: hội yêu nhạc
+*  dt
+- người yêu nhạc, người thích nhạc
+
+@philhellene   (philhellenist) @philhellenic  
+*  tt
+- yêu Hy lạp, thân Hy lạp
+
+@philhellenism  
+*  dt
+- sự thân Hy lạp
+
+@philhellenist   (philhellenist) @philippic  
+*  dt
+- bài diễn văn đả kích
+- sự đả kích
+
+@philistine  
+*  dt
+- Phi-li-xtin (kẻ địch thời xưa của người Do thái ở nam Pa-le-xtin)
+-(đùa cợt) địch thủ
+- người ít học; kẻ phàm phu tục tử; người tầm thường
+
+@philistinism  
+*  dt
+- tư tưởng tầm thường; chủ nghĩa vật chất
+
+@Phillips curve
+- (Econ) Đường Philips
+: Một quan sát có tính thống kê của A.W.Philips (1958) rằng có một mối quan hệ nghịch giữa tỷ lệ thay đổi của mức lương bằng tiền và tỷ lệ thất nghiệp ở Anh trong giai đoạn 1861-1957
+ @phillumenist  
+*  dt
+- người nghiên cứu nhãn diêm
+- người sưu tầm nhãn diêm
+
+@philo-
+- xem phil-
+ @philobiblic
+* tt
+- yêu sách
+ @philobilic  
+*  tt
+- yêu sách
+
+@philodendron
+* dt
+- (thực vật học) cây ráy thơm
+ @philogynist  
+*  dt
+- người yêu đàn bà
+
+@philogyny
+* dt
+- sự yêu đàn bà
+ @philologer   (philologer) @philologian   (philologer) @philologic
+- xem philology
+ @philological  
+*  tt
+- (thuộc) ngữ văn
+
+@philologically
+- xem philology
+ @philologist   (philologer) @philologize  
+*  ndgt
+- học ngữ văn; nghiên cứu ngữ văn
+
+@philology  
+*  dt
+- môn ngữ văn
+
+@philomath  
+*  dt
+- người yêu toán học
+
+@philomathy
+* dt
+- sự yêu toán học
+ @philomel   (Philomela) @philomela   (Philomela) @philomusical
+* tt
+- yêu âm nhạc
+ @philoprogenitive  
+*  tt
+- sinh sản nhiều
+- thích con cái
+
+@philoprogenitively
+- xem philoprogenitive
+ @philoprogenitiveness
+- xem philoprogenitive
+ @philosopher  
+*  dt
+- nhà triết học
+- người bình thản trong mọi hoàn cảnh; người có một triết lý sống
+!moral philosopher
+- nhà luân lý
+!natural philosopher
+- nhà khoa học tự nhiên
+!philosophers'stone
+- đá tạo vàng (loại đá tưởng tượng có thể biến mọi kim loại thành vàng)
+- điều mơ hão
+
+@philosopher's stone
+* dt
+- đá tạo vàng (chất tưởng tượng của các nhà giả kim thuật thời xưa)
+ @philosophers'stone
+- thành ngữ philosopher
+- philosophers'stone
+- đá tạo vàng (loại đá tưởng tượng có thể biến mọi kim loại thành vàng)
+- điều hảo huyền (không có thật)
+- thành ngữ philosopher
+
++  philosophers'stone:đá tạo vàng (loại đá tưởng tượng có thể biến mọi kim loại thành vàng)
+- điều hảo huyền (không có thật)
+ @philosophic   (philosophical) @philosophical   (philosophical) @philosophically
+* dt
+- dành cho triết học
+- bình thản, thản nhiên
+ @philosophise
+* ndgt
+- triết lý; lên mặt triết gia, làm ra vẻ triết gia
+- tư biện; tranh luận, suy đoán
+- sống có triết lý
+ @philosophism
+* dt
+- triết học giả hiệu; sự ngụy biện
+ @philosophist
+* dt
+- nhà triết học giả hiệu, triết học ngụy biện
+ @philosophize  
+*  ndgt
+- lên mặt triết gia, làm ra vẻ triết gia
+- thuyết lý; luận bàn, ngẫm nghĩ, suy luận (về sự đời...)
+*  ngdgt
+- đúc thành triết lý; giải thích bằng triết lý
+
+@philosophizer
+- xem philosophize
+ @philosophy  
+*  dt
+- triết học, triết lý
+
++  Marxist-Leninist philosophy: triết học Mác-Lênin
+- tính bình thản trong mọi hoàn cảnh; triết lý sống
+
++ a man without a philosophy: con người không có một triết lý sống
+!normal philosophy
+- luân lý
+!natural philosophy
+- khoa học tự nhiên
+
+@philotechnic
+- Cách viết khác : philotechnical 
+ @philotechnical
+- xem philotechnic
+ @philotherm
+* dt
+- thực vật xứ nóng, thực vật nhiệt đới
+ @philter   (philtre) @philtre   (philtre) @philtrum
+* dt
+- nhân trung
+ @phimoses
+* dt
+- số nhiều
+- xem phimosis
+- dt,  số nhiều
+ @phimosis
+* dt
+- số nhiều phimoses
+- chứng hẹp bao qui đầu
+ @phiz  
+*  dt
+- (thông tục) ((viết tắt) của physiognomy) gương mặt, nét mặt, diện mạo
+
+@phizog
+* dt
+- (Anh, đùa cợt) nét mặt, gương mặt
+* ngdgt của physiognomy
+ @phleb-
+- hình thái ghép chỉ tĩnh mạch: phlebitis : viêm tĩnh mạch
+- hình thái ghép chỉ tĩnh mạch: phlebitis : viêm tĩnh mạch
+ @phlebitic
+* tt
+- (thuộc) viêm tựnh mạch
+ @phlebitis  
+*  dt
+- (y học) viêm tĩnh mạch
+
+@phlebo-
+- xem phleb-
+ @phlebogram
+* dt
+- hình chụp tĩnh mạch (bằng X-quang)
+ @phlebographic
+* tt
+- (thuộc) xem phlebography
+ @phlebography
+* dt
+- (y học) sự chụp tia X tĩnh mạch
+ @phlebology
+* dt
+- (y học) tĩnh mạch học
+ @phlebosclerosic
+* dt
+- (y học) chứng xơ cứng tĩnh mạch
+ @phlebosclerotic
+* tt
+- (thuộc) xem phlebosclerosic
+ @phlebotomic
+- xem phlebotomy
+ @phlebotomise
+- xem phlebotomize
+ @phlebotomize  
+*  dgt
+- (y học) trích máu tĩnh mạch; mở tĩnh mạch
+
+@phlebotomy  
+*  dt
+- (y học) sự trích máu tĩnh mạch; sự mở tĩnh mạch
+
+@phlegm  
+*  dt
+- (y học) đờm dãi
+- tính phớt tỉnh, tính lạnh lùng, tính lờ phờ uể oải
+
+@phlegmatic  
+*  tt
+- phớt tỉnh, lạnh lùng, lờ phờ uể oải
+
+@phlegmatically
+* dt
+- phớt tỉnh, lạnh lùng, thản nhiên
+ @phlegmon  
+*  dt
+- (y học) viêm tấy
+
+@phlegmonic   (phlegmonous) @phlegmonous   (phlegmonous) @phlegmy
+- xem phlegm
+ @phloem  
+*  dt
+- (thực vật học) Libe
+
+@phloeodic
+* tt
+- dạng bần
+ @phloeum
+* dt
+- libe
+ @phlogistic  
+*  tt
+- (y học) viêm
+
+@phlogiston  
+*  dt
+- yếu tố cháy, nhiên liệu
+
+@phloic
+* tt
+- thuộc libe
+ @phlox  
+*  dt
+- (thực vật học) cây giáp trúc đào
+- hoa giáp trúc đào
+
+@phlozirin  
+*  dt
+- (hoá học) Florizin
+
+@phlyctena
+* dt
+- (y học) nốt phồng nước
+ @phlyctenule
+* dt
+- nốt phồng nước nhỏ
+ @phoanatory  
+*  tt
+- phát âm
+
+@phobantropy
+* dt
+- bệnh sợ người
+ @phobia  
+*  dt
+- (y học) ám ảnh sợ
+
+@phoebe  
+*  dt
+- (thần thoại,thần học) thần mặt trăng
+- (thơ ca) mặt trăng, chị Hằng
+
+@phoebus  
+*  dt
+- (thần thoại,thần học) thần mặt trời
+- (thơ ca) mặt trời, thái dương
+
+@phoenician  
+*  tt
+- (thuộc) xứ Phê-ni-xi
+*  dt
+- người Phê-ni-xi
+- xứ Phê-ni-xi
+
+@phoenix  
+*  dt
+- (thần thoại,thần học) chim phượng hoàng
+- người kỳ diệu, vật kỳ diệu; người mẫu mực; vật mẫu mực
+
+@phon  
+*  dt
+- (vật lý) Phôn (đơn vị âm lượng)
+
+@phon-
+- hình thái ghép có nghĩa là âm thanh, tiếng nói
+- hình thái ghép có nghĩa là âm thanh, tiếng nói
+ @phonascetics
+* dt
+- cách luyện âm cho hay
+ @phonate  
+*  ngdgt
+- phát âm
+
+@phonation  
+*  dt
+- sự phát âm
+
+@phonatory
+* tt
+- thuộc phát âm
+ @phonautograph  
+*  dt
+- máy ghi chấn động âm
+
+@phone  
+*  dt
+- (ngôn ngữ học) âm tỏ lời nói
+*  dt
+- (thông tục) máy điện thoại, dây nói
+
++ on the phone: có máy điện thoại; dùng máy điện thoại; đang gọi dây nói
+
++ by (over) the phone: bằng dây nói
+
++ to get somebody on the phone: gọi dây nói cho ai
+*  dgt
+- gọi dây nói; nói chuyện bằng dây nói
+
+@phone book
+- danh bạ điện thoại
+ @phone booth
+* dt
+- trạm điện thoại, phòng điện thoại
+ @phone in
+* dt
+- hộp thư truyền thanh @phone-box
+* dt
+- trạm điện thoại công cộng, phòng điện thoại công cộng
+ @phoneidoscope
+* dt
+- máy biểu hiện âm ba
+ @phone-in
+- Cách viết khác : call-in 
+ @phonematic
+* tt
+- xem phonemic
+ @phoneme  
+*  dt
+- (ngôn ngữ học) âm vị
+
+@phonemic  
+*  tt
+- (ngôn ngữ học) (thuộc) âm vị; (thuộc) âm vị học
+
+@phonemically
+* dt
+- thuộc về âm vị, liên quan đến âm vị
+ @phonemicist
+- xem phonemics
+ @phonemics  
+*  dt,  số nhiều dùng như số ít
+- (từ Mỹ,nghĩa Mỹ) âm vị học
+
+@phonendoscope
+* dt
+- máy khuếch đại các âm trong cơ thể người
+ @phonetic  
+*  tt
+- (thuộc) ngữ âm
+- (thuộc) ngữ âm học
+
+@phonetical
+- xem phonetic
+ @phonetically
+* dt
+- thuộc ngữ âm, liên quan đến ngữ âm
+- đúng phát âm
+ @phonetician   (phoneticist) @phoneticist   (phoneticist) @phoneticize  
+*  ngdgt
+- phiêm âm ngữ âm học
+
+@phonetics  
+*  dt,  số nhiều dùng như số ít
+- ngữ âm học
+
+@phonetist  
+*  dt
+- nhà ngữ âm học
+
+@phoney   (phony) @phonic  
+*  tt
+- (thuộc) âm; (thuộc) âm học
+- (thuộc) giọng, (thuộc) phát âm
+
+@phonically
+- xem phonic
+ @phonics  
+*  dt,  số nhiều dùng như số ít
+- âm học
+
+@phonily
+- xem phony
+ @phoniness
+* dt
+- đồ giả, đồ dỏm; người giả, người dỏm
+ @phono-
+- xem phon-
+ @phono plug
+- chốt cắm phono
+- Một loại đầu nối có chân ngắn dùng để nối các thiết bị âm thanh dùng trong gia đình Trong máy tính, các chốt cắm phono được dùng cho các cổng âm thanh và các cổng lối ra của màn hình tổng hợp Đồng nghĩa với RCA plug
+ @phonofilm
+* dt
+- điện ảnh có âm thanh
+ @phonogram  
+*  dt
+- ảnh ghi âm
+- dấu ghi âm (theo phương pháp của Pit-man)
+- tín hiệu ngữ âm
+
+@phonogramic
+- xem phonogram
+ @phonogramically
+- xem phonogram
+ @phonogrammic
+- xem phonogram
+ @phonogrammically
+- xem phonogram
+ @phonograph  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) máy hát, kèn hát
+
+@phonographer   (phonographist) @phonographic  
+*  tt
+- (thuộc) máy hát
+- (thuộc) thuật tốc ký của Pit-man
+
+@phonographically
+- xem phonograph
+ @phonographist   (phonographist) @phonography  
+*  dt
+- phương pháp ghi âm
+- thuật viết tốc ký (theo phương pháp Pit-man)
+
+@phonolite  
+*  dt
+- (khoáng chất) Fonolit
+
+@phonolitic
+- xem phonolite
+ @phonologic   (phonological) @phonological   (phonological) @phonologically
+- xem phonology
+ @phonologist  
+*  dt
+- nhà âm vị học
+
+@phonology  
+*  dt
+- (ngôn ngữ học) âm vị học
+- hệ thống âm vị (của một ngôn ngữ)
+
+@phonometer  
+*  dt
+- (vật lý) cái đo âm lượng
+
+@phonopathy  
+*  dt
+- (y học) chứng phát âm khó
+
+@phonoreception
+* dt
+- sự tiếp nhận, sự thu âm
+ @phonoreceptor
+* dt
+- máy nhận, máy thu âm
+ @phonoscope  
+*  dt
+- máy thử đàn dây
+- máy ghi chấn động âm
+
+@phonotelemeter
+* dt
+- dụng cụ đó âm lượng
+ @phonotype  
+*  dt
+- (ngành in) bản in phát âm
+- chữ in phiên âm
+
+@phonotypic   (phonotypical) @phonotypical   (phonotypical) @phonotypically
+- xem phonotype
+ @phonotypist  
+*  dt
+- thợ in bản in phiên âm
+
+@phony   (phony) @phormium  
+*  dt
+- (thực vật học) gai Tân tây lan
+
+@phosgene  
+*  dt
+- (hoá học) Photgen
+
+@phosphate  
+*  dt
+- (hoá học) photphat
+
+@phosphatic  
+*  tt
+- (thuộc) photphat; (thuộc) phân lân
+
+@phosphatise
+- Cách viết khác : phosphatize 
+ @phosphatize
+- xem phosphatise
+ @phosphaturia
+* dt
+- (y học) chứng đái photphat
+ @phosphene  
+*  dt
+- đom đóm mắt
+
+@phosphide  
+*  dt
+- (hoá học) photphua
+
+@phosphine  
+*  dt
+- (hoá học) photphin
+
+@phosphinic  
+*  dt
+- (hoá học) photphinic
+
++ phosphinic acid: axit photphinic
+
+@phosphite  
+*  dt
+- (hoá học) photphit
+
+@phospholysis
+* dt
+- (sinh vật học) sự phân giải bằng photphat vô cơ
+ @phosphor
+- phốt-pho
+ @phosphorate  
+*  ngdgt
+- (hoá học) photpho hoá, cho hợp với photpho
+
+@phosphor-bronze  
+*  dt
+- đồng thiếc photpho
+
+@phosphoresce  
+*  ndgt
+- phát lân quang
+
+@phosphorescence  
+*  dt
+- hiện tượng lân quang
+
+@phosphorescent  
+*  tt
+- phát lân quang; lân quang
+
+@phosphorescently
+- xem phosphorescence
+ @phosphoreted
+* tt
+- thấm nhuần, kết hợp với photpho
+ @phosphoric  
+*  tt
+- (hoá học) photphoric
+
++ phosphoric acid: axit photphoric
+
+@phosphorism  
+*  dt
+- (y học) chứng nhiễm độc photpho
+
+@phosphorite  
+*  dt
+- (khoáng chất) photphorit
+
+@phosphorograph
+* dt
+- ảnh chụp bằng lân quang
+ @phosphorography
+* dt
+- phép chụp ảnh bằng lân quang
+ @phosphoroscope
+* dt
+- lân quang nghiệm (máy đo cường độ phát lân quang)
+ @phosphorous  
+*  tt
+- (thuộc) photpho; có chất photpho
+
+@phosphorus  
+*  dt
+- (hoá học) photpho
+!phosphorus necrosis
+- (y học) chứng chết hoại xương hàm (do nhiễm độc photpho, thường công nhân làm diêm hay mắc)
+
+@phossy  
+*  tt
+- phossy jaw (thông tục) (như) phosphorus_necrosis ((xem) phosphorus)
+
+@phot  
+*  dt
+- (vật lý) phốt
+
+@phot-
+- hình thái ghép chỉ
+- ánh sáng; năng lượng
+
++  photography:bức ảnh
+- quang điện
+- photocell
+- tế bào quang điện
+- hình thái ghép chỉ
+- ánh sáng; năng lượng
+
++  photography:bức ảnh
+- quang điện
+- photocell
+- tế bào quang điện
+ @photic  
+*  tt
+- (thuộc) ánh sáng
+
+@photism  
+*  dt
+- ảo giác ánh sáng
+
+@photo  
+*  ngdgt
+- (viết tắt) của photograph
+
+@photo electronics  
+*  dt
+- quang điện tử học
+
+@photo finish
+* dt
+- sự xác định bằng ảnh trong đua ngựa (khi hai con ngựa về đích quá sát nhau)
+ @photoactive
+* tt
+- quang hoạt
+ @photoautotroph
+* dt
+- (sinh vật học) sinh vật quang tự dưỡng
+ @photoautotrophic
+* tt
+- (thuộc) xem photoautotroph
+ @photobiologic
+* tt
+- thuộc quang sinh học
+ @photobiologist
+* dt
+- nhà quang sinh học
+ @photobiology
+* dt
+- (sinh vật học) môn quang sinh học
+ @photobiotic  
+*  tt
+- (sinh vật học) chỉ sống được ở nơi có ánh sáng
+
+@photocall
+* dt
+- cuộc họp chụp ảnh (đăng báo)
+ @photocathode
+* dt
+- quang catôt
+ @photocell  
+*  dt
+- (như) photo-electric cell ((xem) photo-electric)
+
+@photochemical  
+*  tt
+- quang hoá
+
+@photochemically
+- xem photochemistry
+ @photochemist
+* dt
+- nhà quang - hoá học
+ @photochemistry  
+*  dt
+- quang hoá học
+
+@photochlorination
+* dt
+- sự quang clo hoá
+ @photochromatic  
+*  tt
+- (thuộc) ảnh màu
+
+@photochrome  
+*  dt
+- tấm ảnh màu
+
+@photochromic
+* tt
+- thay đổi màu theo ánh sáng (kính)
+ @photochromism
+* dt
+- sự thay đổi màu theo ánh sáng
+ @photochromy  
+*  dt
+- thuật chụp ảnh màu
+
+@photocombustion
+* dt
+- cách đốt bằng ánh sáng
+ @photocompose
+* ngdgt
+- (ngành in) xếp chữ trên phim
+ @photocomposer
+* dt
+- (ngành in) người xếp chữ trên phim
+ @photocomposition
+* dt
+- (ngành in) phép xếp chữ trên phim
+ @photoconduction
+- xem photoconductivity
+ @photoconductive  
+*  tt
+- quang dẫn
+
+@photoconductivity  
+*  dt
+- (vật lý) tính quang dẫn
+- suất quang dẫn
+
+@photoconductor  
+*  dt
+- chất quang dẫn
+
+@photocopier
+* dt
+- máy photocopy, máy sao chụp tài liệu
+ @photocopy
+* dt
+- bản sao chụp
+* ngdgt(pied)
+- sao chụp
+ @photocurrent
+* dt
+- dòng quang điện
+ @photodecomposition
+* dt
+- sự quang phân
+ @photodetector
+* dt
+- bộ tách sóng quang
+ @photodisintegrate
+* ngdgt
+- quang rã
+ @photodisintegration
+* dt
+- sự quang rã
+ @photodissociate
+* ngdgt
+- quang ly
+ @photodissociation
+* dt
+- sự quang ly
+ @photodrama
+* dt
+- kịch - điện ảnh
+ @photodramatic
+* tt
+- thuộc kịch điện ảnh
+ @photodramatist
+* dt
+- tác giả kịch - điện ảnh
+ @photo-effect
+* dt
+- hiệu ứng quang điện
+ @photo-electric  
+*  tt
+- quang điện
+
++ photo-electric cell: tế bào quang điện
+
+@photoelectric
+* tt
+- quang điện
+ @photoelectric cell
+* dt
+- tế bào quang điện
+ @photoelectrically
+- xem photoelectric
+ @photo-electricity  
+*  dt
+- hiện tượng quang điện
+- quang điện học
+
+@photoelectricity
+* dt
+- hiện tượng quang điện
+- quang điện học
+ @photo-electron  
+*  dt
+- quang điện tử
+
+@photoelectron
+* dt
+- quang điện tử
+ @photo-electronics
+* dt
+- quang điện tử học
+ @photoelectronics
+* dt
+- quang điện tử học
+ @photo-engrave
+* ngdgt
+- khắc bằng ánh sáng
+ @photo-engraver
+* dt
+- máy khắc bằng ánh sáng
+ @photo-engraving  
+*  dt
+- thuật khắc trên bản kẽm
+- ảnh bản kẽm
+
+@photoengraving
+* dt
+- thuật khắc trên bản kẽm
+- ảnh bản kẽm
+- sự khắc bằng ánh sáng
+ @photofinish  
+*  dt
+- (thể dục,thể thao) lúc về đích phải chụp ảnh mới xác định được thứ bậc (ngựa đua)
+
+@photo-finish
+* dt
+- sự chụp ảnh lúc tới đích (để phân biệt người thắng với đối thủ sát anh ta)
+- máy ảnh chụp lúc tới đích
+ @photofit
+* dt
+- bức ảnh vẽ lại của kẻ bị tình nghi từ những bức ảnh ghép
+ @photo-flash
+* dt
+- (điện ảnh) bóng đèn nháy
+ @photo-flood
+* dt
+- đèn chiếu rất sáng để chụp ảnh
+ @photofluorographic
+* tt
+- chụp bằng hùynh quang
+ @photogenic  
+*  tt
+- tạo ánh sáng, sinh ánh sáng
+- ăn ảnh
+
+@photogenically
+- xem photogenic
+ @photoglyph  
+*  dt
+- bản khắc kẽm bằng ánh sáng
+
+@photoglyphy  
+*  dt
+- thuật khắc bản kẽm bằng ánh sáng
+
+@photogram
+* dt
+- biểu đồ ảnh
+ @photogrammeter
+* dt
+- máy quang trắc
+ @photogrammetry
+* dt
+- phép quang trắc
+ @photograph  
+*  dt
+- ảnh, bức ảnh
+*  ngdgt
+- chụp ảnh (ai, cái gì)
+*  ndgt
+- chụp ảnh
+
++ I always photograph badly: tôi chụp ảnh bao giờ cũng xấu
+
++ to photograph well: ăn ảnh
+
+@photographable
+- xem photograph
+ @photographer  
+*  dt
+- nhà nhiếp ảnh, thợ nhiếp ảnh
+
+@photographic  
+*  tt
+- (thuộc) thợ chụp ảnh
+- như chụp ảnh
+
++ a photographic style of painting: lối vẽ như chụp ảnh (đủ cả chi tiết)
+
+@photographically
+* dt
+- như chụp ảnh (về trí nhớ của ai)
+- thuộc về nhiếp ảnh, dùng thuật nhiếp ảnh
+ @photography  
+*  dt
+- thuật nhiếp ảnh, thuật chụp ảnh; sự chụp ảnh
+
+@photogravure   (photoprint) @photoheliograph
+* dt
+- kính viễn vọng thích hợp để chụp mặt trời
+ @photoinactivation
+* dt
+- (sinh vật học) sự khử hoạt hoá do ánh sáng
+ @photoinduced
+* tt
+- bị cảm ứng bởi ánh sáng
+ @photoionization
+* dt
+- sự quang ion hoá
+ @photojournalism
+* dt
+- các bức ảnh có liên quan đến tin được đưa trên báo
+ @photokinesis
+* dt
+- hiện tượng quang động
+ @photolitgraphy
+* dt
+- sự in ảnh litô, kỹ thuật in ảnh litô (quá trình in tấm ảnh lên trên một tấm kim loại bằng phương pháp chụp ảnh rồi từ đó in ra giấy)
+ @photolithograph  
+*  dt
+- ảnh in litô
+
+@photolithographer
+- xem photolithograph
+ @photolithography
+* dt
+- sự in ảnh litô, kỹ thuật in ảnh litô (quá trình in tấm ảnh lên trên một tấm kim loại bằng phương pháp chụp ảnh rồi từ đó in ra giấy)
+ @photoluminescence
+* dt
+- hiện tượng phát sáng quang hoá
+ @photolysis  
+*  dt
+- sự quang phân
+
+@photolytic
+- xem photolysis
+ @photolytically
+- xem photolysis
+ @photomacrography
+* dt
+- sự chụp phóng to
+ @photomagnetic
+* tt
+- thuộc quang từ
+ @photomap
+* dt
+- địa đồ chụp từ máy bay có thêm những chi tiết (tên đất...) viết vào
+ @photomechanical
+* tt
+- thuộc quang cơ
+* dt
+- bản thảo xong xuôi có minh hoạ và in cần nhân lên bằng phương pháp quang cơ
+ @photometer  
+*  dt
+- cái đo sáng
+
+@photometric  
+*  tt
+- đo sáng
+
+@photometrically
+- xem photometry
+ @photometrist
+- xem photometry
+ @photometry  
+*  dt
+- phép đo sáng
+- môn đo sáng, trắc quang học
+
+@photomicrograph  
+*  dt
+- ảnh chụp hiển vi
+
+@photomicrographer
+- xem photomicrograph
+ @photomicrographic
+- xem photomicrograph
+ @photomicrography  
+*  dt
+- phép chụp ảnh hiển vi
+
+@photomicroscope
+* dt
+- thiết bị kiêm kính hiển vi và máy chụp ảnh
+ @photomontage  
+*  dt
+- sự chấp ảnh, sự chấp ảnh
+
+@photomultiplier
+* dt
+- (điện học) bộ nhân quang
+ @photon  
+*  dt
+- (vật lý) Photon
+
+@photonastic
+* tt
+- (sinh vật học) ứng động ánh sáng
+ @photonegative
+* tt
+- (thực vât học) lẩn tránh ánh sáng
+ @photoneutron
+* dt
+- (vật lý) quang nơtron
+ @photonic
+- xem photon
+ @photonuclear
+* dt
+- quang hạt nhân
+ @photo-offset
+* dt
+- ảnh chụp ốp-xét
+ @photo-oxidation
+* dt
+- (sinh vật học) sự oxy hoá bằng ánh sáng
+ @photoperiod
+* dt
+- (sinh vật học) chu kỳ sáng
+ @photophase
+* dt
+- pha sáng; giai đoạn sáng
+ @photophilic
+* tt
+- (sinh vật học) thích sáng
+ @photophobia  
+*  dt
+- (y học) chứng sợ ánh sáng
+
+@photophobic  
+*  tt
+- sợ ánh sáng
+
+@photophone  
+*  dt
+- máy phát âm bằng ánh sáng
+
+@photophore
+* dt
+- cơ quan phát ra ánh sáng (động vật dưới biển)
+ @photophoresis
+* dt
+- (vật lý) hiện tượng quang chuyển
+ @photopia
+* dt
+- (sinh vật học) sự thích nghi ánh sáng
+ @photoplay  
+*  dt
+- phim (chiếu bóng)
+
+@photopositive
+* tt
+- (sinh vật học) hướng về ánh sáng
+ @photoprint   (photoprint) @photoproduct
+* dt
+- sản phẩm của phản ứng quang hoá
+ @photoreaction
+* dt
+- phản ứng quang hoá
+ @photoreactivation
+* dt
+- (sinh vât học) sự tái hoạt hoá do ánh sáng
+ @photoreception
+* dt
+- sự cảm quang
+ @photoreceptor
+* dt
+- tế bào nhận kích thích ánh sáng, cơ quan nhận kích thích ánh sáng
+ @photoreconnaissance
+* dt
+- cách trinh sát bằng chụp ảnh từ máy bay
+ @photoreduction
+* dt
+- sự quang khử
+ @photoresistance
+* dt
+- (kỹ thuật) quang điện trở
+ @photoresistor
+* dt
+- (kỹ thuật) cái điện trở quang
+ @photorespiration
+* dt
+- lối thở của một số cây cối do ánh sáng quá mạnh
+ @photos
+* dt
+- vt của photograph (ảnh, bức ảnh)
+ @photosensitise
+* ngdgt
+- làm cho (cái gì) nhạy cảm với ánh sáng; bắt sáng
+ @photosensitive  
+*  tt
+- nhạy cảm ánh sáng
+
+@photosensitivity  
+*  dt
+- sự nhạy cảm ánh sáng
+
+@photosensitize
+* ngdgt
+- làm cho (cái gì) nhạy cảm với ánh sáng; bắt sáng
+ @photosphere  
+*  dt
+- quyển sáng
+
+@photospheres
+* dt
+- số nhiều
+- (động vật học) cầu phát sáng (của vỏ giáp)
+ @photospheric
+- xem photosphere
+ @photostage
+* dt
+- giai đoạn sáng
+ @photostat  
+*  dt
+- máy sao chụp
+- bản sao chụp
+
+@photosurface
+* dt
+- mặt nhạy sáng
+ @photosynthesis  
+*  dt
+- (sinh vật học) sự quang hợp
+
+@photosynthesise
+* dgt
+- quang hợp
+ @photosynthesize
+* dgt
+- quang hợp
+ @photosynthetic
+* tt
+- (thuộc) quang hợp
+ @photosynthetically
+- xem photosynthesis
+ @phototactic
+* tt
+- (sinh vật học) theo ánh sáng
+ @phototaxis
+* dt
+- (sinh vật học) tính theo ánh sáng
+ @phototelegraphy  
+*  dt
+- thuật truyền ảnh từ xa; điện báo truyền ảnh
+
+@phototherapeutic
+- xem phototherapy
+ @phototherapy  
+*  dt
+- (y học) phép chữa bệnh bằng ánh sáng
+
+@phototonus
+* dt
+- trạng thái nhạy cảm ánh sáng
+ @phototopography
+* dt
+- sự chụp ảnh địa hình
+ @phototrophic
+* tt
+- (sinh vật học) quang dưỡng
+ @phototrophy
+* dt
+- (sinh vật học) tính quang hướng
+ @phototube  
+*  dt
+- pin quang điện
+
+@phototype  
+*  dt
+- (ngành in) bản kẽm để chụp
+- bản in chụp
+
+@photovaristor
+* dt
+- (kỹ thuật) varito quang
+ @photovision
+* dt
+- (kỹ thuật) sự truyền hình
+ @photovoltaic
+* tt
+- thuộc quang vontaic; thuộc quang điện có lớp chặn
+ @photozincography  
+*  dt
+- (ngành in) thuật in ảnh bằng bản kẽm
+
+@phragma
+* dt
+- số nhiều phragmata
+- (sinh vật học) vách ngăn; màng ngăn
+ @phragmoplast
+* dt
+- (thực vật học) hạt vách
+ @phragmosome
+* dt
+- (sinh vật học) thể vách; đĩa vách
+ @phrasal
+- xem phrase
+ @phrasally
+- xem phrase
+ @phrase  
+*  dt
+- nhóm từ
+- thành ngữ
+- cách nói
+
++ as the phrase goes: theo cách nói thông thường
+
++ in simple phrase: theo cách nói đơn giản
+- (số nhiều) những lời nói suông
+- (âm nhạc) tiết nhạc
+*  ngdgt
+- diễn đạt, nói, phát biểu (bằng lời)
+
++ thus he phrased it: anh ta đã phát biểu như thế đấy
+- (âm nhạc) phân câu
+
+@phrase-book  
+*  dt
+- từ điển nhóm từ và thành ngữ
+
+@phrase-maker
+* dt
+- người thích đặt những thành ngữ
+- người đặt những câu kêu nhưng chẳng có nghĩa
+ @phrase-man   (phrase-monger) @phrase-monger   (phrase-monger) @phraseogram  
+*  dt
+- ký hiệu nhóm từ (tốc ký)
+
+@phraseograph  
+*  dt
+- nhóm từ có ký hiệu tốc ký
+
+@phraseographic
+- xem phraseograph
+ @phraseological  
+*  tt
+- (thuộc) ngữ cú
+- (thuộc) cách nói; (thuộc) cách viết; (thuộc) cách diễn đạt
+
+@phraseologist
+- xem phraseology
+ @phraseology  
+*  dt
+- ngữ cú
+- cách nói, cách viết; cách diễn đạt
+
+@phrasing
+* dt
+- <nhạc> cách phân nhịp
+- ngữ cú; cách nói, cách viết
+ @phreaking
+- Một dạng đùa nghịch phạm pháp, liên quan đến việc sử dụng kiến thức về hệ thống điện thoại của một người nào đó để gọi điện thoại đường dài mà không trả phí
+ @phreatic
+* tt
+- thuộc giếng nước ngầm
+ @phren-
+- tiền tố
+- sọ
+- phrenology
+- môn não tướng học
+- hoành cách mô
+- phrenitis
+- viêm cơ hoành
+- tiền tố
+- sọ
+- phrenology
+- môn não tướng học
+- hoành cách mô
+- phrenitis
+- viêm cơ hoành
+ @phrenalgia
+* dt
+- (y học) đau thần kinh
+ @phrenetic  
+*  tt
+- điên lên, cuồng lên, điên cuồng
+- cuồng tín
+
+@phrenic  
+*  tt
+- (giải phẫu) (thuộc) cơ hoành
+
+@phrenitic
+- xem phrenitis
+ @phrenitis  
+*  dt
+- (y học) viêm cơ hoành
+
+@phrenologic
+- xem phrenology
+ @phrenological  
+*  tt
+- (thuộc) não tướng học
+
+@phrenologist  
+*  dt
+- nhà não tướng học
+
+@phrenology  
+*  dt
+- khoa tướng số
+
+@phretium
+* dt
+- (sinh vật học) quần xã bể chứa nhân tạo
+ @phrontistery  
+*  dt
+-(đùa cợt) nơi trầm tư mặc tưởng
+
+@phthiriasis
+* dt
+- (y học) bệnh chấy rận
+ @phthisical  
+*  tt
+- (y học) (thuộc) bệnh lao
+- mắc bệnh lao
+
+@phthisis  
+*  dt
+- bệnh lao; bệnh lao phổi
+
+@phut   (fut) @phyad
+* dt
+- (sinh vật học) dạng di truyền
+ @phycological
+* tt
+- thuộc tảo học
+ @phycomycete
+* dt
+- (thực vật học) lớp nấm tảo
+ @phyl-
+- hình thái ghép có nghĩa là dòng dõi
+- phylogeny
+- sự phát sinh giống loài
+- hình thái ghép có nghĩa là dòng dõi
+- phylogeny
+- sự phát sinh giống loài
+ @phyla   (phyla) @phylactery  
+*  dt
+- hộp kính (bằng da, của người Do-thái)
+- bùa
+!to make broad one's phylactery (phylacteries)
+- tỏ ra ta đây là người ngay thẳng chính trực)
+
+@phylactic
+* tt
+- miễn dịch
+ @phylaxis
+* dt
+- sự miễn dịch
+ @phyle
+* dt
+- số nhiều phylae
+- (sử cổ Hy lạp) bộ lạc
+ @phyletic  
+*  tt
+- (sinh vật học) (thuộc) ngành
+
+@phyletically
+- xem phyletic
+ @phyll-
+- hình thái ghép có nghĩa là lá
+- phyllome
+- bộ lá
+- hình thái ghép có nghĩa là lá
+- phyllome
+- bộ lá
+ @phyllo-
+- xem phyll-
+ @phylloclade
+* dt
+- (thực vật học) cành dạng lá
+ @phyllode
+* dt
+- cuống dạng lá
+ @phyllome
+* dt
+- bộ phận của cây phát triển từ lá
+ @phyllophagan  
+*  dt
+- (động vật học) động vật ăn lá
+
+@phyllophagous  
+*  tt
+- (động vật học) ăn lá (động vật)
+
+@phyllophorus
+* tt
+- có lá; mang lá
+ @phyllopod  
+*  tt
+- (động vật học) có chân lá
+*  dt
+- (động vật học) loài chân lá
+
+@phyllopodan
+- xem phyllopod
+ @phyllostome  
+*  dt
+- (động vật học) dơi quỳ
+
+@phyllotaxis  
+*  dt
+- (thực vật học) sự sắp xếp lá; kiểu sắp xếp lá (trên cành)
+
+@phylloxera  
+*  dt
+- (động vật học) rệp (hại) rễ nho
+
+@phylloxeran
+- xem phylloxera
+ @phylo-
+- xem phyl-
+ @phylobiology
+* dt
+- sinh học giống loài
+ @phylogenesis   (phylogeny) @phylogenetic  
+*  tt
+- (thuộc) phát sinh loài
+- hệ thống sinh
+
+@phylogenetically
+- xem phylogenetic
+ @phylogenic
+- xem phylogeny
+ @phylogeny   (phylogeny) @phylum   (phyla) @physic  
+*  dt
+- thuật điều trị; nghề y
+- (thông tục) thuốc
+
++ a dose of physic: một liều thuốc
+*  ngdgt
+- cho thuốc (người bệnh)
+
+@physical  
+*  tt
+- (thuộc) vật chất
+
++ physical force: sức mạnh vật chất
+- (thuộc) khoa học tự nhiên; theo quy luật khoa học tự nhiên
+
++ physical explanations of miracles: cách giải thích những điều huyền diệu dựa theo khoa học tự nhiên
+
++ physical geography: địa lý tự nhiên
+- (thuộc) vật lý; theo vật lý
+
++ physical experiment: thí nghiệm vật lý
+- (thuộc) thân thể, (thuộc) cơ thể, của thân thể
+
++ physical exercises: thể dục
+
++ physical strength: sức mạnh của cơ thể
+!physical jerks
+- (xem) jerk
+
+@Physical and financial capital
+- (Econ) Vốn hiện vật và vốn tài chính.
+ @physicality
+- xem physical
+ @physically
+* dt
+- về thân thể; theo luật tự nhiên
+ @physician  
+*  dt
+- thầy thuốc
+- (nghĩa bóng) người chữa
+
+@physicism  
+*  dt
+- thuyết duy vật, chủ nghĩa duy vật
+
+@physicist  
+*  dt
+- nhà vật lý học
+- nhà duy vật
+
+@physicky  
+*  tt
+- cỏ vẻ như thuốc
+
+@physics  
+*  dt,  số nhiều dùng như số ít
+- vật lý học
+
+@physiocrat  
+*  dt
+- (chính trị) người theo phái trọng nông (một môn phái chính trị ở Pháp (thế kỷ) 18)
+
+@Physiocrats
+- (Econ) Những người theo thuyết trọng nông.
+: Một trường phái về ký thuyết kinh tế được đưa ra ở Pháp vào thế kỷ 18. Trường phái này chủ yếu gắn với tên của F.QUESNAY và TURGOT.
+ @physiogeny  
+*  dt
+- sự phát triển cơ thể
+
+@physiognomic   (physiognomical) @physiognomical   (physiognomical) @physiognomically
+- xem physiognomy
+ @physiognomist  
+*  dt
+- thầy tướng
+
+@physiognomy  
+*  dt
+- thuật xem tướng
+- gương mặt, nét mặt, diện mạo
+- bộ mặt (của đất nước, sự vật...)
+- (thông tục) mặt
+
+@physiographer  
+*  dt
+- nhà địa văn học
+
+@physiographic   (physiographical) @physiographical   (physiographical) @physiographically
+- xem physiography
+ @physiography  
+*  dt
+- địa văn học
+
+@physiologic   (physiological) @physiological   (physiological) @physiologically
+- xem physiological
+ @physiologist  
+*  dt
+- nhà sinh lý học
+
+@physiology  
+*  dt
+- sinh lý học
+
+@physiotherapeutic
+- xem physiotherapy
+ @physiotherapist
+* dt
+- nhà vật lý trị liệu <thgt>
+ @physiotherapy  
+*  dt
+- (y học) phép chữa vật lý
+
+@physique  
+*  dt
+- cơ thể vóc người, dạng người
+
+@physiqued
+- xem physique
+ @phytocoenoses   (phytocoenoses) @phytocoenosis   (phytocoenoses) @phytogenesis   (phytogeny) @phytogenetic
+- xem phytogenesis
+ @phytogenetically
+- xem phytogenesis
+ @phytogeny   (phytogeny) @phytogeographer
+- xem phytogeography
+ @phytogeographical
+- xem phytogeography
+ @phytogeography  
+*  dt
+- (thực vật học) địa lý thực vật
+
+@phytography  
+*  dt
+- (thực vật học) thực vật học miêu tả
+
+@phytophagous  
+*  tt
+- ăn thực vật
+
+@phytotoxin  
+*  dt
+- (thực vật học) Tocxin thực vật, độc tố thực vật
+
+@phytozoa   (phytozoon) @phytozoon   (phytozoon) @

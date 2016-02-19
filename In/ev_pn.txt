@@ -1,0 +1,158 @@
+@pnenetration
+- (vật lí) sự xâm nhập, sự thấm vào
+ @pneum-
+- hình thái ghép
+- không khí; hơi nước; khí đốt
+- pneumatics
+- khí lực học
+- tinh thần
+
++  pneumatology:thần linh học
+ @pneuma
+* dt
+- thần linh; tinh thần
+- sự hô hấp
+ @pneumatic  
+*  tt
+- (thuộc) khí, (thuộc) hơi
+- (kỹ thuật) chạy bằng khí, chạy bằng hơi
+
++ pneumatic hammer: búa hơi, búa gió
+- chạy bằng lốp hơi, có lốp hơi
+- (động vật học) có nhiều khoang khí, xốp (xương chim)
+- (tôn giáo) (thuộc) tinh thần, (thuộc) linh hồn
+*  dt
+- lốp hơi, lốp bơm hơi
+- xe chạy bằng lốp hơi
+
+@pneumatic dispatch  
+*  dt
+- ống hút bưu phẩm
+
+@pneumatically
+* dt
+- đầy không khí; làm việc nhờ khí nén
+ @pneumaticity
+- xem pneumatic
+ @pneumatics  
+*  dt,  số nhiều dùng như số ít
+- khí lực hoá
+
+@pneumatised
+* tt
+- có khoang khí, có túi khí
+ @pneumatocyst
+* dt
+- túi khí (chim); bong bóng cá
+ @pneumatogram
+* dt
+- biểu đồ hoạt động phổi
+ @pneumatograph
+* dt
+- máy ghi hoạt động phổi
+ @pneumatologic
+- xem pneumatology
+ @pneumatologist
+- xem pneumatology
+ @pneumatology  
+*  dt
+- thuyết tâm linh, thuyết thần linh
+
+@pneumatolysis
+* dt
+- (địa chất) tác dụng khí tạo thành (khoáng vật)
+ @pneumatolytic
+* tt
+- thuộc pneumatolysis
+ @pneumatometer  
+*  dt
+- máy đo phế động, máy đo hô hấp
+
+@pneumatometry
+- xem pneumatometer
+ @pneumatophore
+* dt
+- phao bơi; túi khí
+- rễ khí
+ @pneumatotactic
+* tt
+- (sinh vật học) theo khí
+ @pneumatotaxis
+* dt
+- (sinh vật học) tính theo khí
+ @pneumectomy
+* dt
+- (y học) thủ thuật cắt bỏ phổi
+ @pneumo-
+- xem pneum-
+ @pneumobacillus
+* dt
+- (y học) trực khuẩn phổi
+ @pneumococcic
+* tt
+- thuộc khuẩn cầu phổi
+ @pneumococcus
+* dt
+- số nhiều pneumococci
+- (y học) khuẩn cầu phổi
+ @pneumoconiosis
+* dt
+- số nhiều pneumoconioses
+- bệnh ho dị ứng do hít phải nhiều bụi
+ @pneumo-electronic
+* tt
+- thuộc khí nén-điện tử
+ @pneumogastric  
+*  tt
+- (giải phẫu) phế vị
+
++ pneumogastric nerves: dây thần kinh phế vị
+
+@pneumogram
+* dt
+- biểu đồ hoạt động phổi
+ @pneumograph
+* dt
+- máy ghi hoạt động phổi
+ @pneumographic
+* tt
+- thuộc pneumographic
+ @pneumohydraulic
+* tt
+- thuộc khí nén thủy lực
+ @pneumolith
+* dt
+- (y học) sỏi phổi
+ @pneumonia  
+*  dt
+- (y học) viêm phổi
+
++ single pneumonia: viêm một buồng phổi
+
++ double pneumonia: viêm cả hai buồng phổi
+
+@pneumonic  
+*  tt
+- (y học) (thuộc) viêm phổi
+- bị viêm phổi
+
+@pneumorhagia   (pneumorrhagia) @pneumorrhagia   (pneumorrhagia) @pneumoscope
+* dt
+- máy soi phổi
+ @pneumostome
+* dt
+- lỗ phổi (thân mềm)
+- khe phổi
+ @pneumotaxis
+* dt
+- (sinh vật học) tính theo khí
+ @pneumothorax  
+*  dt
+- (y học) chứng tràn khí ngực
+
+@pneutronic
+* tt
+- thuộc khí nén-điện tử
+ @pnp
+- Một tiêu chuẩn về phần cứng đối với các bộ phận phần ứng bổ sung thêm trong máy tính, yêu cầu các bộ phận đó có khả năng tự đồng nhất hoá, đáp ứng yêu cầu trong một loại tiêu chuẩn
+ @

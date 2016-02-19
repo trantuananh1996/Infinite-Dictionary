@@ -1,0 +1,466 @@
+@eff
+* dgt
+
++  let him eff off!:bảo nó cút đi!
+ @efface  
+*  ngdgt
+- xoá, xoá bỏ
+- làm lu mờ; át, trội hơn
+
++ to efface oneself: tự cho mình là không quan trọng; nép mình, đứng lánh ((nghĩa bóng))
+
+@effaceable  
+*  tt
+- có thể xoá, có thể xoá bỏ
+
+@effaceable
+- (đại số) khử được
+ @effacement  
+*  dt
+- sự xoá, sự xoá bỏ
+- sự làm lu mờ; sự át
+- sự tự cho mình là không quan trọng; sự nép mình, sự lánh ((nghĩa bóng))
+
+@effacer
+- xem efface
+ @effect  
+*  dt
+- kết quả
+
++ cause and effect: nguyên nhân và kết quả
+- hiệu lực, hiệu quả, tác dụng
+
++ of no effect: không có hiệu quả
+
++ with effect from today: có hiệu lực kể từ ngày hôm nay
+- tác động, ảnh hưởng; ấn tượng
+
++ the effect of light on plants: ảnh hưởng của ánh sáng lên cây cối
+- mục đích, ý định
+
++ to this effect: vì mục đích đó
+- (số nhiều) của, của cải, vật dụng
+
++ personal effects: vật dụng riêng
+- (vật lý) hiệu ứng
+!to bring into effect; to carry into effect
+- thực hiện, thi hành
+!to come into effect
+!to take effect
+- (xem) come
+!to give effect to
+- làm cho có hiệu lực, thi hành
+
++ in effect: thực thế; vì mục đích thiết thực
+!to no effect
+- không hiệu quả, không có kết quả
+*  ngdgt
+- thực hiện
+- đem lại
+
++ to effect a change: đem lại sự thay đổi
+!to effect an insurance
+!to effect a policy of insurrance
+- ký một hợp đồng bảo hiểm
+
+@effect
+- (Tech) hiệu ứng; ảnh hưởng; kết quả, hiệu quả; thực hiện
+ @effect
+- tác dụng, hiệu quả, hiệu ứng, ảnh hưởng
+- curvature e. hiệu ứng độ cong
+- diversity e. tác dụng khác nhau về thời gian
+- eccentricity e. hiệu ứng tâm sai
+- edge e. (vật lí) hiệu ứng biên
+- ghost e. (điều khiển học) hiệu ứng parazit, hiệu ứng phụ
+- hunt e. tác dụng săn lùng
+- ill e. (điều khiển học) tác dụng có hại
+- immediate e. (điều khiển học) tác dụng trực tiếp
+- interference e. (điều khiển học) ảnh hưởng của nhiễu loạn
+- leading e. hiện tượng vượt trước
+- local e. hiệu ứng địa phương
+- mutual e. (điều khiển học) tương tác
+- net e.tổng ảnh hưởng
+- piezoelectric e. hiện tượng áp điện
+- proximity e. hiệu ứng lân cận
+- quantum e. hiệu ứng lượng tử
+- scale e. hiệu ứng tỷ xích, tác dụng thang tỷ lệ
+- skin e. hiệu suất mặt ngoài
+- usef e. tác dụng có ích
+ @effecter
+- xem effect
+ @effectible
+- xem effect
+ @effection
+* dt
+- (từ hiếm) thành tựu
+ @effective  
+*  tt
+- có kết quả
+- có hiệu lực, có kết quả
+
++ to become effective: bắt đầu có hiệu lực
+- có tác động, có ảnh hưởng; gây ấn tượng
+- đủ sức khoẻ (để tòng quân...)
+- có thật, thật sự
+*  dt
+- người đủ sức khoẻ (để tòng quân...)
+- lính chiến đấu
+- số quân thực sự có hiệu lực
+- tiền kim loại (trái với tiền giấy)
+
+@Effective
+- (Econ) Hiệu dụng, hiệu quả.
+ @effective
+- hữu hiệu, có hiệu quả
+ @effective address
+- (Tech) địa chỉ hữu hiệu, địa chỉ thực
+ @effective antenna length
+- (Tech) độ dài hữu hiệu của ăngten
+ @effective attenuation
+- (Tech) suy giảm hữu hiệu
+ @effective conductance
+- (Tech) dẫn điện hữu hiệu
+ @effective current
+- (Tech) dòng điện hữu hiệu
+ @effective cutoff frequency
+- (Tech) tần số cắt hữu hiệu
+ @Effective demand
+- (Econ) Cầu hữu hiệu.
+: Tổng cầu đối với hàng hoá và dịch vụ được hỗ trợ bởi các nguồn lực để mua chúng. Xem DUAL DECISION HYPOTHESIS.
+ @Effective exchange rate
+- (Econ) Tỷ giá hối đoái hiệu dụng
+ @effective height of antenna
+- (Tech) độ cao hữu hiệu của ăngten
+ @effective inductance
+- (Tech) điện cảm hữu hiệu
+ @effective instruction
+- (Tech) chỉ thị hữu hiệu, chỉ thị thực
+ @effective lifetime
+- (Tech) đời sống hữu hiệu
+ @Effective protection
+- (Econ) Bảo hộ hữu dụng; Bảo hộ hữu hiệu.
+ @Effective rate of protection
+- (Econ) Tỷ lệ bảo hộ hữu dụng; Thuế bảo hộ hữu hiệu.
+: Được định nghĩa là phần giá trị gia tăng, do cơ cấu thuế quan mang lại, là một phần giá trị gia tăng của thương mại tự do.
+ @Effective rate of return
+- (Econ) Suất sinh lợi hiệu dụng.
+ @Effective rate of tax
+- (Econ) Mức thuế hữu dụng; Thuế suất hộ hữu hiệu.
+: Xem AVERAGE RATE OF TAX
+ @effective resistance
+- (Tech) điện trở hữu hiệu
+ @effective sensitivity
+- (Tech) độ nhạy hữu hiệu
+ @effective voltage
+- (Tech) điện áp hữu hiệu
+ @effective wavelength
+- (Tech) độ dài sóng hữu hiệu
+ @effectively  
+*  dt
+- có kết quả
+- có hiệu lực, có hiệu quả, có ích
+- với ấn tượng sâu sắc
+
+@effectively
+- một cách hữu hiệu, một cách hiệu quả
+ @effectiveness  
+*  dt
+- sự có hiệu lực
+- ấn tượng sâu sắc
+
+@effectiveness
+- tính hữu hiệu, tính hiệu quả
+ @effectivity
+- xem effective
+ @effectless  
+*  tt
+- không có kết quả
+- không hiệu lực, không hiệu quả, không tác dụng
+- không tác động, không ảnh hưởng; không ấn tượng
+
+@effectless
+- không hiệu quả
+ @effector
+* dt
+- (sinh học) cơ quan phản ứng lại kích thích
+- người thực hành, người sáng tạo
+ @effector
+- [phần tử, cơ quan] chấp hành
+ @effectual  
+*  tt
+- có hiệu lực, có giá trị (pháp lý)
+
+@effectuality
+- xem effectual
+ @effectually
+* dt
+- có hiệu quả, có kết quả
+ @effectualness  
+*  dt
+- sự có hiệu lực, sự có giá trị (pháp lý)
+
+@effectuate  
+*  ngdgt
+- thực hiện, đem lại
+
+@effectuation  
+*  dt
+- sự thực hiện, sự đem lại
+
+@effeminacy  
+*  dt
+- tính yếu ớt, tính ẻo lả, tính nhu nhược (như đàn bà)
+
+@effeminate  
+*  tt
+- yếu ớt, ẻo lả, nhu nhược (như đàn bà)
+
+@effeminately
+* dt
+- ẻo lả như đàn bà, nhu nhược
+ @effeminateness
+- xem effeminate
+ @effendi
+* dt
+- số nhiều effendis
+- ngài; tiên sinh; các hạ (dt người Thổ-nhĩ-kỳ dùng để chỉ người có uy, quyền thế)
+ @efferent  
+*  tt
+- (sinh vật học) ra, đi ra (mạch máu); ly tâm (dây thần kinh)
+
++ efferent nerve: dây thần kinh ly tâm, dây thần kinh vận động
+
+@efferently
+- xem efferent
+ @effervesce  
+*  ndgt
+- sủi, sủi bong bóng
+- sục sôi, sôi nổi
+
+@effervescence   (effervescency) @effervescency   (effervescency) @effervescent  
+*  tt
+- sủi, sủi bong bóng
+- sôi sục, sôi nổi
+
+@effervescently
+- xem effervesce
+ @effervescible
+* tt
+- hết khả năng sản xuất (đất đai)
+- kiệt sức
+- suy nhược; già cỗi; thiếu sinh khí
+- bỏ bễ
+ @effete  
+*  tt
+- kiệt sức, mòn mỏi
+- suy yếu, bất lực
+- hết thời
+
+@effetely
+- xem effete
+ @effeteness  
+*  dt
+- sự kiệt sức, sự mòn mỏi
+- sự suy yếu, sự bất lực
+- sự hết thời
+
+@efficacious  
+*  tt
+- có hiệu quả, có hiệu lực (thuốc...)
+- sinh lợi (tiền vốn...)
+
+@efficaciously
+* dt
+- có hiệu quả, hiệu nghiệm
+ @efficaciousness   (efficacy) @efficacity
+* dt
+- xem efficaciousness
+ @efficacy   (efficacy) @efficiency  
+*  dt
+- hiệu lực, hiệu quả
+- năng lực, khả năng
+- năng suất, hiệu suất
+
++ labour efficiency: năng suất lao động
+
+@Efficiency
+- (Econ) Tính hiệu quả; Tính hiệu dụng.
+ @efficiency
+- hiệu suất; (thống kê) hiệu quả, hiệu lực; sản lượng
+- average e. hiệu suất trung bình
+- luminous e. hiệu suất phát sáng
+- net e. hệ số tổng hợp sản lượng có ích; kết quả tính 
+- transmilting e. hiệu suất truyền đạt 
+ @Efficiency coefficient of investment
+- (Econ) Hệ số hiệu qủa đầu tư.
+: Một cụm thuật ngữ được các nhà kinh tế Đông ÂU sử dụng để chỉ TỶ SỐ SẢN LƯỢNG @Efficiency earnings
+- (Econ) Thu nhập hiệu quả.
+: Thu nhập trên một ĐƠN VỊ HIỆU QUẢ. Khi các nhà kinh tế học nói về khuynh hướng cạnh tranh để cân bằng thu nhập trên cùng một THỊ TRƯỜNG LAO ĐỘNG TRONG NƯỚC nghĩa là họ muốn nói đến thu nhập hiệu qủa.
+ @Efficiency units
+- (Econ) Đơn vị hiệu quả.
+: Một phương pháp đo lường lực lượng lao động thông qua đầu vào dịch vụ lao động được sử dụng.
+ @Efficiency wage theory
+- (Econ) Lý thuyết tiền công hiệu quả.
+: Theo học thuyết này, SẢN PHẨM BIÊN của người lao động và tiền công mà họ được trả có liên quan với nhau.
+ @Efficiency wages
+- (Econ) Tiền công hiệu quả; tiền lương hiệu dụng @efficient  
+*  tt
+- có hiệu lực, có hiệu quả
+- có năng lực, có khả năng
+- có năng suất cao, có hiệu suất cao (máy...)
+
+@efficient
+- hiệu dụng, hiệu nghiệm, hiệu suất; (thống kê) hữu hiệu
+- asymtotically e. hữu hiệu tiệm cận 
+ @Efficient asset market
+- (Econ) Thị trường tài sản có hiệu dụng @Efficient market hypothesis
+- (Econ) Giả thuyết về thị trường có hiệu quả.
+: Một quan điểm cho rằng  giá cổ phiếu trên thị trương chứng khoán là những ước tính tốt nhất về giá trị thực của cổ phiếu vì thị trường chứng khoán có cơ chế định giá tốt nhất.
+ @Efficient resource allocation
+- (Econ) Sự phân bổ nguồn lực có hiệu quả
+ @efficiently
+* dt
+- có hiệu quả, hiệu nghiệm
+ @effigy  
+*  dt
+- hình, hình nổi (ở đồng tiền, ở huy hiệu)
+- hình vẽ, hình nộm
+
++ to hang (burn) someone in effigy: treo cổ (đốt) hình nộm của ai
+
+@effloresce
+* ndgt
+- nở hoa
+- (hoa) lên hoa
+ @efflorescence
+* dt
+- sự nở hoa
+ @efflorescent
+* tt
+- nở hoa
+ @effluence  
+*  dt
+- sự phát ra, sự tuôn ra (ánh sáng, điện...)
+- cái phát ra, cái tuôn ra
+
+@effluent  
+*  tt
+- phát ra, tuôn ra (ánh sáng, điện...)
+*  dt
+- nhánh, dòng nhánh, sông nhánh
+
+@efflugent  
+*  tt
+- sáng người
+
+@effluvia  
+*  dt,  số nhiều effluvia
+- khí xông lên, mùi xông ra; mùi thối, xú khí
+- (vật lý) dòng từ
+
+@effluvial
+- xem effluvium
+ @effluvium  
+*  dt,  số nhiều effluvia
+- khí xông lên, mùi xông ra; mùi thối, xú khí
+- (vật lý) dòng từ
+
+@efflux  
+*  dt
+- sự tuôn ra
+- vật tuôn ra, cái tuôn ra
+
+@effluxion  
+*  dt
+- (như) efflux
+- (pháp lý) sự mãn
+
++ effluxion of time: sự mãn hạn
+
+@efforesce  
+*  ndgt
+- nở hoa ((nghĩa đen) & (nghĩa bóng))
+- (hoá học) lên hoa
+
+@efforescence  
+*  dt
+- sự nở hoa ((nghĩa đen) & (nghĩa bóng))
+- (hoá học) sự lên hoa
+
+@efforescent  
+*  tt
+- nở hoa ((nghĩa đen) & (nghĩa bóng))
+- (hoá học) lên hoa
+
+@effort  
+*  dt
+- sự cố gắng, sự ráng sức; sự cố thử làm
+- sự ra tay
+- kết quả đạt được (của sự cố gắng)
+
+@Effort aversion
+- (Econ) Ngán nỗ lực; Không thích nỗ lực.
+: Một khái niệm chính thức dùng để biểu thị giả định rằng sự nỗ lực là một biến số có tác động âm trong HÀM THOẢ DỤNG của các cá nhân, tức là sự nỗ lực tạo ra trong sự PHI THOẢ DỤNG BIÊN.
+ @effortful
+- xem effort
+ @effortfully
+- xem effort
+ @effortless  
+*  tt
+- không cố gắng, thụ động
+- dễ dàng, không đòi hỏi phải cố gắng
+
+@effortlessly
+* dt
+- dễ dàng
+ @effortlessness
+* dt
+- sự dễ dàng (không cần cố gắng nhiều)
+ @effrontery  
+*  dt
+- tính mặt dày mày dạn, tính vô liêm sỉ
+
+@effulge
+* ndgt
+- phát sáng; chiếu sáng
+ @effulgence  
+*  dt
+- sự sáng ngời
+
+@effulgent
+* tt
+- sáng ngời
+ @effuse  
+- e'fju:z@effusion  
+*  dt
+- sự tuôn ra, sự trào ra; sự toả ra
+- (nghĩa bóng) sự dạt dào (tình cảm...)
+
+@effusive  
+*  tt
+- dạt dào (tình cảm...)
+- (địa lý,địa chất) phun trào
+
+@effusively
+* dt
+- dạt dào, nồng nàn
+ @effusiveness  
+*  dt
+- sự dạt dào (tình cảm...)
+
+@efl
+* (viết tắt) (English as Foreign Language)
+- Anh ngữ với tính cách là ngoại ngữ
+ @eft  
+*  dt
+- (động vật học) sa giống
+
+@EFTA
+- (Econ) Xem EUROPEAN FREE TRADE ASSOCIATION
+ @efta
+* (viết tắt) (European Free Trade Association)
+- Hiệp hội mậu dịch tự do Âu Châu
+ @eftsoons
+* dt
+- (từ cổ, nghĩa cổ) sau đó
+ @

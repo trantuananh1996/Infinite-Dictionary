@@ -1,0 +1,21 @@
+@aa
+- (Alcoholics Anonymous) Hội cai rượu
+- (Automobile Association) Hội ô tô
+ @aaa
+- (Amateur Athletic Association) Hội thể thao không chuyên
+- (American Automobile Association) Hiệp hội xe hơi Mỹ
+ @aardvark
+* dt
+- (động vật) lợn đất
+ @aard-wolf  
+*  dt
+- (động vật học) chó sói đất (Nam Phi)
+
+@aardwolf
+* dt
+- <động> chó sói đất (Nam Phi)
+ @aasvogel  
+*  dt
+- (động vật học) con kên kên (Nam Phi)
+
+@

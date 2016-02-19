@@ -1,0 +1,1771 @@
+@tu quoque  
+*  dt
+- " Anh cũng thế" ; "anh cũng làm thế" (câu đáp lại)
+
+@tub  
+*  dt
+- chậu, bồn
+- (thông tục) bồn tắm; sự tắm rửa
+- (ngành mỏ) goòng (chở than)
+- (hàng hải) xuồng tập (để tập lái)
+!let every tub stand on its own bottom
+- mặc ai lo phận người nấy
+*  ngdgt
+- tắm (em bé) trong chậu
+- cho vào chậu, đựng vào chậu, trồng (cây...) vào chậu
+*  ndgt
+- tắm chậu
+- tập lái xuồng, tập chèo xuồng
+
+@tuba  
+*  dt
+- (âm nhạc) kèn tuba
+
+@tubal
+* tt
+- hình ống
+- thuộc ống
+- thuộc vòi
+ @tubar
+* tt
+- (sinh vật học) thuộc ống, thuộc vòi
+ @tubate
+* tt
+- có ống, có vòi
+ @tubbiness
+* dt
+- sự béo phệ
+ @tubbish  
+*  tt
+- hơi béo, hơi phệ
+
+@tubby  
+*  tt
+- to béo, béo phệ
+- đục, không vang (tiếng)
+
+@tube  
+*  dt
+- ống
+
++ steel tube: ống thép
+- săm (ô tô...) ((cũng) inner tube)
+- tàu điện ngầm
+- rađiô ống điện tử
+- (thực vật học) ống tràng (của hoa)
+*  ngdgt
+- đặt ống; gắn ống (vào nồi hơi)
+- làm cho thành hình ống, gò thành ống
+
+@tube
+- ống
+- &quot;and&quot; t. đền &quot;và&quot;
+- conical t. đền ống 
+- control t. đền điều khiển
+- counting t. đền đếm 
+- developmental t. ống nghiệm
+- driver t. đền điều khiển
+- electron t. đền điện tử
+- memory t. ống nhớ 
+ @tube-dwelling
+* tt
+- (sinh vật học) sống trong ống
+ @tubeless
+* tt
+- không cần săm (lốp xe)
+ @tuber  
+*  dt
+- (thực vật học) thân củ, củ
+- nấm cục, nấm truýp
+- (giải phẫu) củ
+
+@tubercle  
+*  dt
+- (thực vật học) nốt rễ (ở cây họ đậu)
+- (y học) u lao
+- (giải phẫu) lồi gò
+
+@tubercul-
+- hình thái ghép có nghĩa
+- hình củ
+- tubercular
+- củ nhỏ
+- vi trùng lao
+- tuberculin
+- tubeculin
+- bệnh lao
+
++  tuberculoid:giống bệnh lao
+ @tubercular  
+*  tt
+- (thực vật học) (thuộc) nốt rễ
+- (y học) (thuộc) bệnh lao; mắc bệnh lao
+
+@tuberculate  
+*  tt
+- (thực vật học) có nốt rễ; (thuộc) nốt rễ
+- (y học) mắc bệnh lao; (thuộc) bệnh lao
+
+@tuberculation
+* dt
+- sự mắc bệnh lao
+ @tuberculin  
+*  dt
+- (y học) Tubeculin
+
+@tuberculin-tested
+* tt
+- <vt>  TT đã được thử tubeculin (về sữa)
+ @tuberculise   (tuberculise) @tuberculization  
+*  dt
+- (y học) sự nhiễm lao
+
+@tuberculize   (tuberculise) @tuberculoid
+* tt
+- dạng bệnh lao
+ @tuberculose
+* tt
+- nhiều củ nhỏ, nhiều mấu nhỏ, nhiều nốt rễ
+ @tuberculosis  
+*  dt
+- bệnh lao
+
++ pulmonary tuberculosis: lao phổi
+
+@tuberculous  
+*  tt
+- mắc bệnh lao; có tính chất lao
+
+@tuberiferous  
+*  tt
+- có củ (cây)
+
+@tuberiform  
+*  tt
+- hình củ
+
+@tuberose  
+*  tt
+- đầy đủ, có củ
+- giống như củ
+*  dt
+- (thực vật học) cây hoa huệ
+
+@tuberosity
+* dt
+- củ; mấu; mào
+ @tuberous  
+*  tt
+- (thực vật học) thành củ, như củ
+
++ tuberous root: rễ củ
+
+@tubful  
+*  dt
+- chậu (đầy), bồn (đầy)
+
+@tubicolous
+* tt
+- sống trong ống
+ @tubicorn
+* tt
+- có sừng rỗng
+ @tubifacient
+* tt
+- tạo ống
+ @tubifex
+* dt
+- số nhiều tubifex,  tubifexes
+- trùng dạng giun
+ @tubiflorous
+* tt
+- có hoa ống
+ @tubiform
+* tt
+- dạng ống
+ @tubing  
+*  dt
+- ống, hệ thống ống
+- sự đặt ống
+
+@tubocurarine
+* dt
+- (dược học) tubocurarin
+ @tub-thumper  
+*  dt
+- nhà thuyết pháp khoa trương; diễn giả khoa trương rỗng tuếch
+
+@tub-thumping
+* dt
+- sự huênh hoang rỗng tuếch (khi nói)
+* tt
+- huênh hoang rỗng tuếch
+ @tubular  
+*  tt
+- hình ống
+
++ tubular bridge: cầu ống
+- có ống
+
++ tubular boiler: nồi hơi có ống
+
+@tubulated  
+*  tt
+- hình ống
+- (hoá học) có miệng để lắp ống
+
++ tubulated retort: bình cổ cong có miệng để lắp ống
+
+@tubule  
+*  dt
+- ống nhỏ
+
+@tubuliflorous  
+*  tt
+- (thực vật học) có hoa hình ống
+
+@tubulous  
+*  tt
+- hình ống
+- (thực vật học) có hoa hình ống
+
+@tubulure  
+*  dt
+- (hoá học) miệng để lắp ống (ở bình)
+- ống dẫn hơi (trong đầu máy)
+
+@tuc
+* (viết tắt)
+- Đại Hội Công Đoàn (Trades Union Congress)
+ @tuck  
+*  dt
+- nếp gấp lên (ở quần áo, để cho ngắn bớt)
+- (từ lóng) đồ ăn, bánh kẹo
+*  ngdgt
+- gấp nếp, gấp lên (quần áo..., cho ngắn bớt)
+- đút vào, nhét vào, bỏ vào, thu vào, rúc vào
+
++ to tuck something in one's pocket: đút cái gì vào túi
+
++ the bird tucked its head under its wing: con chim rúc đầu vào cánh
+*  ndgt
+- chui vào, rúc vào
+!to tuck away
+- cất kín, giấu đi một chỗ, để riêng ra
+
++ to tuck something away in the drawer: cất kín cái gì trong ngăn kéo
+-(đùa cợt) ăn, chén
+
++ to tuck away a good dinner: chén một bữa ngon
+!to tuck in
+- đút vào, nhét vào
+
++ to tuck one's shirt in: nhét sơ mi vào trong quần
+- (thông tục) (: at) ăn ngon lành; chén đẫy, ăn nhồi nhét
+!to tuck into
+- ăn ngon lành
+
++ the boy tucked into the cake: chú bé ăn chiếc bánh một cách ngon lành
+!to tuck up
+- xắn lên, vén lên
+
++ to tuck up one's shirt-sleeves: xắn tay áo, vén tay áo lên
+- ủ, ấp ủ, quần
+
++ to tuck up a child in bed: ủ em nhỏ ở giường
+- (từ lóng) treo cổ (người nào)
+
+@tucker  
+*  dt
+- khăn choàng (đàn bà)
+- bộ phận gấp nếp (ở máy khâu)
+- (từ lóng) đồ ăn
+!to be in one's best bib and tucker
+- (xem) bib
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) ((thường) : out) làm cho mệt mỏi rã rời
+
+@tuck-in   (tuck-out) @tuck-out   (tuck-out) @tuck-point
+* ngdgt
+- kết thúc việc trát vữa nối gạch bằng một lớp vữa mịn
+ @tuck-shop  
+*  dt
+- cữa hàng bánh kẹo
+
+@tudor
+* tt
+- (Tudor) thuộc dòng Tudo đã làm vua nước Anh từ 1485 đến 1603
+- (Tudor) tiêu biểu cho vương triều Tudo
+ @tue
+* (viết tắt)
+- thứ ba (tuesday)
+ @tues
+* (viết tắt)
+- thứ Ba (Tuesday)
+
++  Tues 9 March:ngày thứ Ba mồng chín tháng ba
+- viết tắt
+- thứ Ba (Tuesday)
+
++  Tues 9 March:ngày thứ Ba mồng chín tháng ba
+ @tuesday  
+*  dt
+- ngày thứ ba (trong tuần)
+
+@tufa  
+*  dt
+- (khoáng chất) Túp ((cũng) tuff)
+
+@tuff
+* dt
+- đá tạo thành từ tro núi lửa
+ @tuffaceous
+* dt
+- thuộc túp; có túp, sinh túp
+ @tuffet
+* dt
+- bụi cỏ, mô đất nhỏ
+- cái ghế thấp
+ @tuft  
+*  dt
+- (như) tufa
+- búi (cỏ, tóc), chùm (lông), chòm (lá...)
+- chòm râu dưới môi dưới
+- (giải phẫu) búi (mao mạch)
+*  ngdgt
+- trang trí bằng mào lông
+- điểm từng chùm, chia thành từng cụm
+
++ a plain tufted with cottages: cánh đồng rải rác từng cụm nhà tranh
+- chần (nệm cỏ...)
+*  ndgt
+- mọc thành chùm, mọc thành cụm
+
+@tufted
+* tt
+- có búi; mọc thành búi
+ @tuft-hunter  
+*  dt
+- người sính làm quen với những kẻ quyền cao chức trọng
+
+@tufty  
+*  tt
+- thành bụi, thành chùm
+- có nhiều chùm, có nhiều bụi; rậm rạp
+
+@tug  
+*  dt
+- sự kéo mạnh, sự giật mạnh
+
++ to give a good tug: giật mạnh một cái
+
++ we left a great tug at parting: (nghĩa bóng) chúng tôi cảm thấy đau lòng lúc chia tay
+- (hàng hải) (như) tugboat
+*  ngdgt
+- kéo mạnh, lôi kéo
+
++ the child tugged the dog round the garden: đứa bé lôi con chó quanh vườn
+- (hàng hải) lai, kéo
+*  ndgt
+- kéo mạnh, giật mạnh
+
++ we tugged so hard that the rope broke: chúng tôi kéo căng đến nỗi đứt cả dây thừng
+
++ to tug at the oars: rán sức chèo
+
++ the dog tugged at the leash: con chó cố sức giằng cái xích
+
++ to tug at someone's heart-strings: (nghĩa bóng) làm cho ai hết sức cảm động; làm đau lòng ai
+!to tug in
+- (nghĩa bóng) cố đưa vào bằng được, cố lồng vào bằng được (một vấn đề gì...)
+
+@tug of love
+* dt
+- <thgt> sự đòi con (sự tranh chấp về việc trông coi đứa bé giữa những người bố mẹ ly thân hoặc ly dị)
+ @tug of war  
+*  dt
+- trò chơi kéo co
+- (nghĩa bóng) cuộc chiến đấu gay go (giữa hai bên)
+
+@tugboat  
+*  dt
+- (hàng hải) tàu lai, tàu kéo
+
+@tuggage
+* dt
+- sự kéo; sự lai
+ @tugger
+* dt
+- tời phụ
+ @tuition  
+*  dt
+- sự dạy học, sự giảng dạy
+
++ private tuition: sự dạy tư
+
++ postal tuition: sự giảng dạy bằng thư
+- tiền học, học phí
+
+@tulip  
+*  dt
+- (thực vật học) cây uất kim hương
+- hoa uất kim hương
+
+@tulle  
+*  dt
+- vải tuyn (để may màn)
+
+@tum
+* dt
+- (đùa cợt) dạ dày (viết tắt) của tummy
+ @tumble  
+*  dt
+- cái ngã bất thình lình; sự sụp đổ, sự đổ nhào
+
++ a nasty tumble: cái ngã trời giáng, cái ngã đau điếng
+- sự nhào lộn
+- tình trạng lộn xộn, tình trạng rối tung, tình trạng hỗn loạn
+
++ to be all in a tumble: lộn xộn, hỗn loạn, rối tung cả lên
+!to take a tumble
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đoán, hiểu
+*  ndgt
+- ngã, sụp đổ, đổ nhào
+
++ to tumble down the stairs: ngã lộn từ trên cầu thang xuống
+
++ to tumble into the river: té nhào xuống sông
+
++ the house is going to tumble down: căn nhà sắp đổ sụp
+
++ to tumble up the stairs: nhào lên thang gác
+- xô (sóng)
+
++ the waves came tumbling on the shore: sóng xô vào bờ
+- trở mình, trăn trở
+
++ to tumble about all night: suốt đêm trở mình trằn trọc
+- chạy lộn xộn; chạy vội vã
+
++ the children tumbled out of the classroom: bọn trẻ con chạy lộn xộn ra khỏi lớp
+- nhào lộn
+- vớ được, tình cờ bắt gặp, tình cờ tìm thấy
+
++ I tumble upon him in the street: tình cờ tôi vớ được hắn ta ở phố
+*  ngdgt
+- làm lộn xộn, làm rối tung, xáo trộn
+
++ the bed is all tumbled: giường rối tung cả lên
+
++ to tumble someone's hair: làm rối bù đầu ai
+- xô ngã, làm đổ, làm té nhào, lật đổ
+- bắn rơi (chim), bắn ngã
+!to tumble in
+- lắp khít (hai thanh gỗ)
+- (từ lóng) đi ngủ
+!to tumble to
+- (từ lóng) đoán, hiểu
+
++ I did not tumbleto the joke at first: thoạt đầu tôi không hiểu câu nói đùa
+
+@tumbledown  
+*  tt
+- xiêu vẹo, ọp ẹp, chỉ chực sụp đổ (nhà...)
+
+@tumble-drier
+* dt
+- máy sấy quần áo
+ @tumble-dry
+* ngdgt
+- cho vào máy quay để làm khô quần áo
+ @tumbler  
+*  dt
+- cốc (không có chân)
+- người nhào lộn
+- giống chim bồ câu nhào lộn (trong khi bay)
+- con lật đật (đồ chơi)
+- lẫy khoá
+
+@tumbler-drier
+* dt
+- máy sấy quần áo
+ @tumblerful  
+*  dt
+- cốc (đầy)
+
+@tumbleweed
+* dt
+- cây cỏ lăn (loại cây giống như bụi mọc ở những vùng sa mạc Bắc Mỹ, về mùa thu bị héo đi, bong ra và cuộn lăn đi theo gió)
+ @tumbling  
+*  dt
+- sự rơi xuống, sự ngã, sự đổ nhào
+- (thể dục,thể thao) môn nhào lộn
+
+@tumbling-hoop  
+*  dt
+- vòng của người nhào lộn
+
+@tumbling-shaft  
+*  dt
+- (kỹ thuật) trục cam (trong ô tô)
+
+@tumbling-trick  
+*  dt
+- trò nhào lộn
+
+@tumbrel   (tumbril) @tumbril   (tumbril) @tumefaciant
+- Cách viết khác : tumefactive 
+ @tumefaction  
+*  dt
+- sự sưng
+- khối u
+
+@tumefactive
+- Cách viết khác : tumefaciant 
+ @tumefy  
+*  ngdgt
+- làm cho sưng lên
+*  ndgt
+- sưng lên
+
+@tumescence  
+*  dt
+- trạng thái sưng phù
+
+@tumescent  
+*  tt
+- sưng phù lên
+
+@tumid  
+*  tt
+- sưng lên, phù lên; nổi thành u
+- (nghĩa bóng) khoa trương (văn)
+
++ tumid speech: bài nói khoa trương
+
+@tumidity   (tumidness) @tumidness   (tumidness) @tummy  
+*  dt
+- (thông tục) dạ dày
+
+@tumor   (tumour) @tumorigenic
+* tt
+- có xu hướng nổi bướu ung thư, có xu hướng nổi u ung thư
+ @tumorigenicity
+* dt
+- tình trạng nổi bướu ung thư, tình trạng nổi u ung thư
+ @tumour   (tumour) @tums
+- Cách ngôn; lời vàng ngọc
+- (pháp luật) Lời phát biểu của quan toà (không có giá trị (pháp lý))
+- Lời tuyên bố chính thức; lời quả quyết
+- Cách ngôn; lời vàng ngọc
+- (pháp luật) Lời phát biểu của quan toà (không có giá trị (pháp lý))
+- Lời tuyên bố chính thức; lời quả quyết
+ @tumular
+* tt
+- thuộc mộ
+ @tumuli  
+*  dt,  số nhiều tumuli
+- nấm mồ
+
+@tumult  
+*  dt
+- sự ồn ào, sự om sòm; tiếng ồn ào
+- sự xôn xao, sự náo động
+- sự bối rối, sự xáo động
+
++ mind in [a] tumult: đầu óc đang bối rối xáo động
+
+@tumultuary
+* tt
+- ồn ào; xáo động
+- rối loạn
+
++  a tumultuary army:một đạo quân rối loạn
+ @tumultuous  
+*  tt
+- ồn ào, huyên náo
+- xôn xao, náo động
+
+@tumultuousness  
+*  dt
+- tính chất ồn ào, tính chất huyên náo
+- sự xôn xao, sự náo động
+
+@tumulus  
+*  dt,  số nhiều tumuli
+- nấm mồ
+
+@tun  
+*  dt
+- thùng ton nô
+- thùng ủ men (chế rượu bia)
+- ton-nô (đơn vị đo lường bằng 252 galông)
+*  ngdgt
+- bỏ vào thùng, đóng vào thùng
+
++ to tun wine: đóng rượu vào thùng
+
+@tuna  
+*  dt,  số nhiều tuna,  tunas
+- (từ Mỹ,nghĩa Mỹ),  (động vật học) cá ngừ Ca-li-fo-ni ((cũng) tuna fish)
+
+@tunable  
+*  tt
+- có thể hoà âm được
+- du dương, êm ái
+
+@tuna-fish
+* dt
+- thịt cá ngừ Califoni
+ @tundish
+* dt
+- (kỹ thuật) gàu chuyên
+ @tundra  
+*  dt
+- (địa lý,địa chất) Tunđra, lãnh nguyên
+
+@tune  
+*  dt
+- điệu (hát...), giai điệu
+- sự đúng điệu; sự hoà âm
+
++ to sing in tune: hát đúng
+
++ to sing out of tune: hát sai, hát lạc điệu
+- (nghĩa bóng) sự hoà hợp sự hoà thuận
+
++ to be in tune with somebody: hợp với ai, hoà thuận với ai
+- sự cao hứng, sự hứng thú
+
++ I am not in tune for a talk this evening: tôi không thấy hứng thú nói chuyện tối nay
+!to change one's tune; to sing another tune
+- (nghĩa bóng) đổi giọng, đổi thái độ
+!to the tune of five million
+- với số tiền là năm triệu
+*  ngdgt
+- (âm nhạc) lên dây so dây (đàn)
+- (nghĩa bóng) làm cho hoà hợp, làm cho phù hợp, làm cho ăn giọng, làm cho ăn khớp
+
++ you'll have to tune your theories to the new conditions of life: anh phải làm cho những lý thuyết của anh phù hợp với những điều kiện mới của cuộc sống
+- (từ Mỹ,nghĩa Mỹ) điều chỉnh (máy...)
+*  ndgt
+- (: with) hoà hợp với, hoà nhịp với, ăn giọng với, ăn khớp với (đen & bóng)
+!to tune in
+- điều chỉnh làn sóng (truyền thanh)
+
++ to tune in to Pekin: bắt đài Bắc kinh
+!to tune up
+- lên dây, so dây (dàn nhạc)
+- bắt đầu chơi (nhạc); bắt đầu hát
+-(đùa cợt) bắt đầu nhé (trẻ con...)
+
+@tuned-in
+* tt
+- được thông báo về tình hình
+ @tuneful  
+*  tt
+- du dương, êm ái
+
+@tunefully
+* dt
+- có giai điệu vui tai, du dương, êm ái
+ @tunefulness  
+*  dt
+- tính chất du dương, tính chất êm ái
+
+@tuneless  
+*  tt
+- không đúng điệu
+- không du dương, không êm ái
+- không chơi, không gảy (nhạc khí)
+
+@tunelessly
+* dt
+- không có giai điệu, không du dương, không êm ái; nghe chói tai
+- không chơi, không gảy (nhạc khí)
+ @tunelessness
+* dt
+- sự không có giai điệu, sự không du dương, sự không êm ái; sự nghe chói tai
+- sự không chơi, sự không gảy (nhạc khí)
+ @tuner  
+*  dt
+- người lên dây (pianô...)
+
+@tuner
+- (kỹ thuật) thiết bị điều hưởng
+ @tunery  
+*  dt
+- nghề tiện
+- đồ tiện
+- xưởng tiện
+
+@tunesmith
+* dt
+- người sáng tác dân ca
+ @tune-up  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) sự điều chỉnh (máy)
+
+@tung
+- xem tung-tree
+ @tung oil  
+*  dt
+- dầu tung
+
+@tungstate  
+*  dt
+- (hoá học) Vonfamat
+
+@tungsten  
+*  dt
+- (hoá học) Vonfam
+
+@tungstic  
+*  tt
+- (hoá học) Vonfamic
+
+@tung-tree  
+*  dt
+- (thực vật học) cây tung (cây cho dầu, cùng loại với trầu)
+
+@tungus
+* dt
+- số nhiều tunguses
+- người Tungút (giống Môngôloit ở Đông Xibiri)
+- ngôn ngữ Tungút
+ @tungusic
+* dt
+- nhánh ngôn ngữ Tungút
+* tt
+- (thuộc) nhánh ngôn ngữ Tungút
+ @tunic  
+*  dt
+- áo chẽn (của binh sĩ, cảnh sát)
+- áo dài thắt ngang lưng (của đàn bà)
+- (giải phẫu); (thực vật học) áo, vỏ
+
+@tunica  
+*  dt
+- áo, vỏ
+
+@tunicate  
+*  tt
+- (giải phẫu); (thực vật học) có áo, có vỏ
+
+@tunicle
+* dt
+- áo ngắn (người trợ tế mặc khi hành lễ)
+- vỏ; bao
+ @tuning  
+*  dt
+- (âm nhạc) sự lên dây
+- (rađiô) sự điều chỉnh làn sóng; sự bắt làn sóng
+- (kỹ thuật) sự điều chỉnh (máy)
+
+@tuning-fork  
+*  dt
+- thanh mẫu, âm thoa
+
+@tuning-hammer
+* dt
+- khoá lên dây đàn
+ @tuning-up
+* dt
+- sự điều chỉnh (máy, sóng)
+ @tunisian  
+*  tt
+- (thuộc) Tuy-ni-di
+*  dt
+- người Tuy-ni-di
+
+@tunnel  
+*  dt
+- đường hầm
+- hang (chuột...)
+- ống (lò sưởi)
+- (ngành mỏ) đường hầm nằm ngang
+*  dgt
+- đào đường hầm xuyên qua
+
++ to tunnel a hill: đào đường hầm xuyên qua một quả đồi
+- đi qua bằng đường hầm
+
+@tunnel
+- đường hầm, ống
+ @tunnel vision
+* dt
+- thị trường hình ống (tình trạng thị lực bị giảm sút hoặc mất hoàn toàn ở tất cả các phía của thị trường)
+- phiến diện (sự không có khả năng nắm bắt được những hàm ý rộng lớn hơn của hoàn cảnh, lý lẽ )
+ @tunnel-borer  
+*  dt
+- máy đào hầm
+
+@tunneller
+* dt
+- thợ đào đường hầm, máy đào đường hầm
+ @tunnel-net  
+*  dt
+- lưới đó (để đánh cá)
+
+@tunny  
+*  dt
+- (động vật học) cá ngừ
+
+@tup  
+*  dt
+- (động vật học) cừu đực
+- (kỹ thuật) mặt nện (của búa hơi)
+*  ngdgt
+- phủ, nhảy (cái) (cừu)
+
+@tupi
+* dt (số nhiều không đổi hoặc tupis)
+- người thuộc dân da đỏ vùng thung lũng Amazôn, dân da đỏ vùng Amazôn
+- tiếng của người da đỏ vùng Amazôn
+ @tuppence  
+*  dt
+- (thông tục) (như) twopence
+
+@tuppenny  
+*  dt
+- (thông tục) (như) twopenny
+
+@turback  
+*  dt
+- người hèn nhát
+- người đào ngũ; kẻ phản bội
+
+@turban  
+*  dt
+- khăn xếp
+- mũ không vành (của đàn bà)
+
+@turbaned  
+*  tt
+- có vấn khăn, có chít khăn
+- có đội mũ không vành (đàn bà)
+
+@turbary  
+*  dt
+- mỏ than bùn
+- quyền được lấy than bùn (ở đất của người khác)
+
+@turbid  
+*  tt
+- đục (chất lỏng, màu)
+- (từ Mỹ,nghĩa Mỹ) dày, đặc (khói)
+- (nghĩa bóng) mập mờ, lộn xộn
+
++ turbid utterance: cách phát biểu lộn xộn không rõ ràng
+
+@turbidity   (turbidness) @turbidness   (turbidness) @turbinate  
+*  tt
+- hình con cù, giống hình con quay
+
+@turbine  
+*  dt
+- (kỹ thuật) Tuabin
+
+@turbine
+- (kỹ thuật) tuabin
+ @turbiniform  
+*  tt
+- hình con quay, hình con cù
+
+@turbit  
+*  dt
+- (động vật học) bồ câu đầu bằng
+
+@turbo
+- có tính nhanh, có tính tốc độ
+ @turbo-compressor
+* dt
+- máy tuabin nén khí
+ @turbodrill  
+*  dt
+- (kỹ thuật) khoan tuabin
+
+@turbo-driven
+* tt
+- được dẫn động bằng tuabin
+ @turbo-dynamo
+* dt
+- tuabo-đinamô
+ @turbofan
+* dt
+- động cơ phản lực bên trong có thêm một động cơ cánh quạt cung cấp thêm lực đẩy, động cơ phản lực cánh quạt đẩy
+ @turbogenerator  
+*  dt
+- (kỹ thuật) Tuabin phát điện
+
+@turbo-jet  
+*  dt
+- Tuabin phản lực
+- máy bay phản lực tuabin
+
+@turbolence  
+*  dt
+- sự hỗn loạn, sự náo động
+- tính ngỗ nghịch
+
+@turbo-prop
+* dt
+- tuabin phản lực cánh quạt
+- máy bay dùng tua bin phản lực cánh quạt
+ @turbo-pump
+* dt
+- tuabin bơm
+ @turbo-rocket
+* dt
+- tuabin tên lửa
+ @turbo-supercharger
+* dt
+- máy tăng áp kiểu tuabin, máy nén khí kiểu tuabin
+ @turbot  
+*  dt
+- (động vật học) cá bơn
+
+@turbulence
+* dt
+- sự hỗn loạn; sự bất an, sự náo động
+- sự nhiễu loạn, sự chuyển động dữ dội, sự chuyển động không đều (của không khí, nước)
+ @turbulence
+- giác loạn
+ @turbulent  
+*  tt
+- hỗn loạn, náo động
+- ngỗ nghịch
+
+@turbulent
+- rối loạn, cuộn xoáy
+ @turbulently
+* dt
+- hỗn loạn, thay đổi bất thường (về không khí, nước)
+- náo loạn, không yên ổn, trong trạng thái chấn động, trong trạng thái xáo động
+- bất an, không kiểm soát được
+- ngỗ nghịch
+ @turbulization
+* dt
+- (kỹ thuật) sự hình thành dòng chảy rối
+ @turco-
+- Cách viết khác : turko- 
+ @turd  
+*  dt
+- thúi : cứt
+
+@turdoid
+* tt
+- giống chim hét
+ @tureen  
+*  dt
+- liễn (đựng xúp)
+
+@turf  
+*  dt,  số nhiều turfs,  turves
+- lớp đất mặt (đầy rễ cỏ)
+- Ai-len than bùn
+- (the turf) cuộc đua ngựa; nghề đua ngựa
+
++ one of the most familiar faces on the turf: một trong những bộ mặt quen nhất trên trường đua ngựa
+*  ngdgt
+- lát bằng tảng đất có cỏ
+!to turf out
+- (từ lóng) tống cổ ra, đuổi ra
+
++ to turf someone out: tống cổ ai ra
+
+@turf accountant
+* dt
+- người thu tiền cá cược trong cuộc đánh cá ngựa
+ @turfary
+* dt
+- mỏ than bùn, đầm lầy than bùn
+ @turfite  
+*  dt
+- (thông tục) (như) turfman
+
+@turfman  
+*  dt
+- người hay chơi cá ngựa ((thông tục) (như) turfite)
+
+@turfy  
+*  tt
+- đầy cỏ, có trồng cỏ
+- có than bùn; (thuộc) than bùn
+- (thuộc) sự đua ngựa
+
+@turgescence  
+*  dt
+- (y học) sự cương (máu); chỗ cương (máu)
+- (nghĩa bóng) tính chất huênh hoang, tính chất khoa trương (giọng văn, lời nói)
+
+@turgescent  
+*  tt
+- cương
+- (nghĩa bóng) huênh hoang, khoa trương (văn...)
+
+@turgid  
+*  tt
+- cương, sưng
+- (nghĩa bóng) khoa trương, huênh hoang (văn...)
+
+@turgidity  
+*  dt
+- sự cương lên, sự sưng lên; chỗ cương lên, chỗ sưng lên
+- (nghĩa bóng) tính chất khoa trương (văn...)
+
+@turgidly
+* dt
+- cương, sưng, phồng lên
+- <bóng> khoa trương, huênh hoang, làm cho chán ngấy (về ngôn ngữ, văn...)
+ @turgor
+* dt
+- sức trương, sức cương, sức phồng
+ @turing machine
+- máy Turing
+ @turk  
+*  dt
+- người Thổ nhĩ kỳ
+- gười hung ác, người độc ác
+
++ young turk: một gã hung hăng
+- (thông tục) thằng ranh con, thằng quỷ con
+- ngựa Thổ nhĩ kỳ
+- (từ cổ,nghĩa cổ) người theo đạo Hồi
+
+@turkey  
+*  dt
+- (động vật học) gà tây
+
+@turkey buzzard  
+*  dt
+- (động vật học) kền kền Mỹ
+
+@turkey carpet  
+*  dt
+- thảm len
+
+@turkey corn  
+*  dt
+- (thực vật học) ngô
+
+@turkey red  
+*  dt
+- màu điều
+
+@turkey stone  
+*  dt
+- đá mài
+
+@turkey-cock  
+*  dt
+- gà tây trống
+- người huênh hoang, người tự cao tự đại
+
+@turkey-hen  
+*  dt
+- gà tây mái
+
+@turkey-poult  
+*  dt
+- gà tây con
+
+@turki
+* tt
+- (Turki) tiếng Tuốcki (ngôn ngữ ở Trung á)
+ @turkish  
+*  tt
+- (thuộc) Thổ nhĩ kỳ (bằng hơi nước, chà sát và xoa bóp)
+!Turkish delight
+- bánh thạch rắc đường bột
+!Turkish towel
+- khăn bông xù
+*  dt
+- tiếng Thổ nhĩ kỳ
+
+@turkish bath
+* dt
+- (Turkish bath) sự tắm hơi Thổ nhự kỳ (kiểu tắm làm cho thân thể chảy mồ hôi trong không khí hoặc hơi nước nóng, sau đó là tắm sạch, xoa bóp )
+ @turkish coffee
+* dt
+- (Turkish coffee) kiểu cà phê đen pha rất đặc thường rất ngọt
+ @turkish delight
+* dt
+- (Turkish delight) kẹo gôm (loại kẹo gồm những miếng gelatin tẩm hương vị, bên ngoài rắc đường bột)
+ @turkism
+* dt
+- thói quen, phong tục Thổ Nhĩ Kỳ
+ @turkmen
+* dt
+- tiếng Tuôcmen (ở vùng Đông Lý hải)
+ @turko-
+- Cách viết khác : turco- 
+ @turmalin   (tourmaline) @turmeric  
+*  dt
+- (thực vật học) cây nghệ
+- củ nghệ
+
+@turmeric-paper  
+*  dt
+- (hoá học) giấy nghệ
+
+@turmoil  
+*  dt
+- sự náo động, sự rối loạn
+
+@turn  
+*  dt
+- sự quay; vòng quay
+
++ a turn of the wheel: một vòng bánh xe
+- vòng cuộn, vòng xoắn (dây thép...)
+- sự đổi hướng, sự rẽ; chỗ ngoặt, chỗ rẽ
+
++ the turn of the tide: lúc thuỷ triều thay đổi
+
++ the turn of the road: chỗ ngoặt của con đường
+
++ to take a turn to the right: rẽ về bến phải
+- chiều hướng, sự diễn biến
+
++ things are taking a bad turn: sự việc diễn biến xấu
+
++ to take a turn for the better: có chiều hướng tốt lên
+
++ to take a turn for the worse: có chiều hướng xấu đi
+
++ to give another turn to the discussion: đưa cuộc thảo luận sang một chiều hướng khác
+- sự thay đổi
+
++ the milk is on the turn: sữa bắt đầu trở, sữa bắt đầu chua
+- khuynh hướng, thiên hướng, năng khiếu
+
++ to have a turn for music: có năng khiếu về âm nhạc
+- tâm tính, tính khí
+
++ to be of a caustic turn: tính hay châm biếm chua cay
+- lần, lượt, phiên
+
++ it is my turn to keep watch: đến phiên tôi gác
+- thời gian hoạt động ngắn; chầu
+
++ to take a turn in the garden: dạo chơi một vòng trong vườn
+
++ I'll take a turn at the oars: tôi sẽ đi bơi thuyền một chầu
+- dự kiến, ý định, mục đích
+
++ that will save my turn: cái đó sẽ giúp ích cho ý định của tôi
+- hành vi, hành động, cách đối đãi
+
++ to do someone a good turn: giúp đỡ ai
+- tiết mục
+
++ a short turn: tiết mục ngắn (trong chương trình ca nhạc)
+- (số nhiều) sự thấy kinh (của đàn bà)
+- (ngành in) chữ sắp ngược (để thế tạm chỗ chữ thiếu)
+- (thông tục) sự xúc động; cú, vố
+
++ it gave me quite a turn!: cái đó giáng cho tôi một cú điếng người!
+!at every turn
+- khắp nơi, mọi chỗ; mọi lúc, luôn luôn
+!by turns
+!in turn
+!turn and turn about
+- lần lượt
+!he has not done a turn of work for weeks
+- hàng tuần nay nó chẳng mó đến việc gì
+!the cake is done to a turn
+- bánh vừa chín tới
+!in the turn of a hand
+- chỉ nhoáng một cái, chóng như trở bàn tay
+!to have a fine turn of speed
+- có thể chạy rất nhanh
+!one good turn deserves another
+- (tục ngữ) ở hiền gặp lành, làm ơn lại được trả ơn
+!out of turn
+- lộn xộn, không theo trật tự lần lượt
+!to talk out of one's turn
+- nói nhiều, nói thừa; nói lung tung
+!to take turns about
+- theo thứ tự lần lượt
+*  ngdgt
+- quay, xoay, vặn
+
++ to turn a wheel: quay bánh xe
+
++ to turn the key: vặn chìa khoá
+- lộn
+
++ to turn a dress: lộn một cái áo
+
++ to turn a bag inside out: lộn cái túi trong ra ngoài
+- lật, trở, dở
+
++ to turn a page: dở trang sách
+- quay về, hướng về, ngoảnh về
+
++ to turn one's head: quay đầu, ngoảnh đầu
+
++ he turned his eyes on me: nó khoảnh nhìn về phía tôi
+
++ to turn one's mind to other things: hướng ý nghĩ về những điều khác
+- quành, đi quanh, đi vòng rẽ, ngoặt
+
++ to turn the flank of the enemy: đi vòng để tránh thọc vào sườn địch
+- quá (một tuổi nào đó)
+
++ he has turned fifty: ông ấy đã quá năm mươi tuổi
+- tránh; gạt
+
++ to turn a difficulty: tránh sự khó khăn
+
++ to turn a blow: gạt một cú đấm
+- dịch; đổi, biến, chuyển
+
++ to turn English into Vietnamese: dịch tiếng Anh sang tiếng Việt
+
++ to turn a house into a hotel: biến một căn nhà thành khách sạn
+- làm cho
+
++ you will turn him mad: anh sẽ làm cho hắn phát điên
+- làm chua (sữa...)
+
++ hot weather will turn milk: thời tiết nóng làm chua sữa
+- làm khó chịu, làm buồn nôn
+
++ such food would turn my stomach: thức ăn như thế này làm cho tôi buồn nôn
+- làm say sưa; làm hoa lên; làm điên cuồng
+
++ overwork has turned his brain: làm việc quá sức làm cho đầu óc anh ấy hoa lên
+
++ success has turned his head: thắng lợi làm cho anh ấy say sưa
+- tiện
+
++ to turn a table-leg: tiện một cái chân bàn
+- sắp xếp, sắp đặt
+*  ndgt
+- quay, xoay, xoay tròn
+
++ the wheel turns: bánh xe quay
+
++ to turn on one's heels: quay gót
+- lật
+
++ the boat turned upside down: con thuyền bị lật
+- quay về, đi về, ngoặt, rẽ, đổi chiều, đổi hướng
+
++ he turned towards me: nó quay (ngoảnh) về phía tôi
+
++ to turn to the left: rẽ về phía tay trái
+
++ the wind has turned: gió đã đổi chiều
+- trở nên, trở thành, đổi thành, biến thành
+
++ he has turned proletarian: anh ấy đã trở thành người vô sản
+
++ his face turns pale: mặt anh ấy tái đi
+- trở, thành chua
+
++ the milk has turned: sữa chua ra
+- buồn nôn, buồn mửa, lợm giọng
+
++ my stomach has turned at the sight of blood: trông thấy máu tôi buồn nôn lên
+- quay cuồng, hoa lên (đầu óc)
+
++ my head turns at the thought: nghĩ đến điều đó đầu óc tôi quay cuồng
+
++ his brain has turned with overwork: đầu óc anh ta hoa lên vì làm việc quá sức
+- có thể tiện được
+
++ this wood doesn't turn easily: gỗ này không dễ tiện
+!to turn about
+- quay vòng, xoay vòng
+- xoay sang hướng khác; làm cho xoay sang hướng khác
+
++ about turn!: (quân sự) đằng sau quay!
+!to turn against
+- chống lại, trở nên thù địch với; làm cho chống lại
+!to turn away
+- đuổi ra, thải (người làm...)
+- bỏ đi
+- ngoảnh (mặt) đi, quay đi, đưa (mắt) ra chỗ khác
+!to turn back
+- làm cho quay lại lui trở lại, quay trở lại (người)
+- lật (cổ áo...)
+!to turn down
+- gấp (trang sách); gập xuống; bẻ (cổ áo); lui (bấc đèn); lập úp (chụp đèn...)
+- (thông tục) gạt bỏ, bác bỏ (lời đề nghị...)
+- đánh hỏng (một thí sinh)
+!to turn in
+- gấp vào (mép bìa...); gập lại, thu lại
+- xoay vào
+
++ his toes turn in: ngón chân nó xoay vào
+- trả lại, nộp lại
+- (thông tục) đi ngủ
+!to turn into
+- trở thành, đổi thành
+
++ he has turned intoa miser: nó trở thành một thằng bủn xỉn
+!to turn off
+- khoá, tắt, cắt (đèn,  rađiô, điện, nước...)
+- đuổi ra, thải (người làm)
+- (từ lóng) cho cưới
+- (từ lóng) treo cổ (người có tội...)
+- ngoặt, rẽ đi hướng khác
+!to turn on
+- bật, vặn, mở (đèn,  rađiô, điện, nước...)
+- tuỳ thuộc vào
+
++ everything turns on today's weather: mọi việc đều còn tuỳ thuộc vào thời tiết hôm nay
+- chống lại, trở thành thù địch với
+!to turn out
+- đuổi ra, thải (người làm)
+- sản xuất ra (hàng hoá)
+- dốc ra (túi)
+- đưa ra đồng (trâu, bò...)
+- gọi ra
+- xoay ra
+
++ his toes turn out: ngón chân nó xoay ra ngoài
+- (quân sự) tập hợp (để nhận công tác)
+- (thể dục,thể thao) chơi cho
+
++ he turns out for Racing: nó chơi cho đội Ra-xinh
+- (thông tục) ngủ dậy, trở dậy
+- đình công
+- hoá ra, thành ra
+
++ it turned out to be true: câu chuyện thế mà hoá ra thật
+
++ he turned out to be a liar: hoá ra nó là một thằng nói dối
+!to turn over
+- lật, dở
+- giao, chuyển giao
+
++ he has turned the business over to his friend: anh ấy giao công việc kinh doanh cho người bạn
+- doanh thu, mua ra bán vào
+
++ they turned over 1,000,000d last week: tuần trước họ mua ra bán vào đến một triệu đồng
+- đắn đo, cân nhắc, lật đi lật lại (một vấn đề)
+
++ I have turned the question over more than one: tôi đã lật đi lật lại vấn đề
+!to turn up
+- lật lên; xắn, vén (tay áo...)
+- xới (đất...)
+- (thông tục) làm lộn mửa, làm buồn nôn
+
++ the smell nearly turned me up: cái mùi ấy làm tôi suýt lộn mửa
+- lật, lật ngược, hếch lên
+
++ his nose turned up: mũi nó hếch lên
+- xảy ra, đến, xuất hiện
+
++ at what time did he turn up?: nó đến lúc nào?
+
++ he was always expecting something to turn up: hắn ta luôn luôn mong đợi có một việc gì xảy ra
+
++ he turns up like a bad penny: (nghĩa bóng) hắn ta cứ vác cái bộ mặt đến luôn
+!to turn upon
+- (như) to turn on
+!to turn the edge of a knife
+- làm cùn lưỡi dao
+!to turn the edge of a remark
+- làm cho lời phê bình đỡ gay gắt; nhẹ lời đi
+!to turn something to account
+- (xem) account
+!to turn the scale (balance)
+- làm lệch cán cân
+- (nghĩa bóng) quyết định cách giải quyết vấn đề
+!to turn a bullet
+- chống lại được đạn, đạn bắn không thủng
+!to turn on the waterworks
+- (xem) waterworks
+!to turn up one's nose at
+- (xem) nose
+!to turn up one's toes
+- (xem) toe
+
+@turn
+- quay, mở, vặn; trở thành t. about lật (quay 180
+- 0 ); t. of đóng, ngắt; t.
+ @turn-about
+* dt
+- sự xoay sang hướng khác, sự xoay ngược lại
+ @turnagain  
+*  dt
+- (âm nhạc) đoạn điệp
+
+@turn-around
+* dt
+- sự thay đổi hoàn toàn (từ một tình hình rất xấu sang một tình hình rất tốt )
+- quá trình bốc dỡ hàng (về tàu thủy, máy bay)
+ @turnback
+* dt
+- người hèn nhát, người đào ngũ, người phản bội
+ @turnbuckle
+* dt
+- (kỹ thuật) đai ốc siết
+ @turncoat  
+*  dt
+- kẻ phản bội, kẻ phản đảng
+
+@turncock  
+*  dt
+- người trông nom việc mở máy nước (trong thành phố)
+
+@turn-down  
+*  tt
+- gập xuống (cổ áo)
+*  dt
+- sự bác bỏ, sự không thừa nhận (một đề nghị...)
+
+@turned
+* tt
+- được tiện
+- mài gọt láng bóng
+- (a man turned fifty) một người quá năm mươi
+- (ngành in) đảo ngược
+- (turned out) ăn diện đẹp
+- (well turned sentence) câu diễn đạt khéo
+ @turned-on
+* tt
+- (thông tục) thích cái mới hộp mốt
+ @turner  
+*  dt
+- thợ tiện
+
+@turnery
+* dt
+- xưởng tiện; nghề tiện; đồ tiện
+ @turning  
+*  dt
+- sự quay, sự xoay
+- sự đổi chiếu, sự đổi hướng
+- chỗ ngoặt, chỗ rẽ
+
++ take the first turning to the right: hãy đi theo con đường rẽ đầu tiên về bên phải
+- sự tiện; nghề tiện
+
+@turning
+- sự quay, sự thay đổi
+ @Turning point
+- (Econ) Điểm ngoặt
+: Điểm trong chu kỳ kinh doanh khi TRẠNG THÁI MỞ RỘNG của chu kỳ được thay thế bằng trạng thái thu hẹp hoặc ngược lại. Điểm đỉnh và điểm đáy được goi là các bước ngoặt.
+ @turning-circle
+* dt
+- vòng tròn nhỏ nhất trong đó một chiếc xe có thể quay đầu được
+ @turning-point  
+*  dt
+- bước ngoặt, bước quyết định
+
+@turnip  
+*  dt
+- (thực vật học) cây cải
+- củ cải
+
+@turnipy  
+*  tt
+- có mùi cải củ
+
+@turnkey  
+*  dt
+- người giữ chìa khoá nhà tù
+
+@turn-off
+* dt
+- con đường nhánh (con đường tách ra khỏi một con đường to hơn hoặc quan trọng hơn)
+- <thgt> người (vật) làm cho ai chán ngấy, người (vật) làm cho ai ghê tởm, người (vật) làm cho ai cảm thấy không hấp dẫn về mặt tình dục
+ @turnoff
+* dt
+- con đường rẽ ra từ con đường chính
+- người hay vật làm người ta chán ngấy
+ @turn-on
+* dt
+- <thgt> người (vật) kích động; người (vật) làm cho ai bị kích thích (đặc biệt là về tình dục)
+ @turn-out  
+*  dt
+- đám đông
+
++ there was a great turn-out at his funeral: đám tang của ông ta có nhiều người đi đưa
+- cuộc đình công; người đình công
+- sản lượng
+- cỗ xe ngựa
+- (ngành đường sắt) đường tránh
+
+@turnover  
+*  dt
+- sự đổ lật (xe)
+- doanh thu
+- sự luận chuyển vốn; vốn luân chuyển
+
++ a quick turnover: một sự luân chuyển vốn nhanh
+- số lượng công nhân thay thế (những người thôi việc trong một thời gian nhất định)
+- bài báo lấn sang trang
+- bánh xèo, bánh kẹp
+
+@Turnover
+- (Econ) Doanh thu, kim ngạch.
+: Xem TOTAL REVENUE.
+ @turnover
+- vòng quay, sự tròn xoay
+ @Turnover tax
+- (Econ) Thuế kim ngạch.
+: Đôi khi được goi là thuế theo đợt. Đây là loại hình ban đầu của thuế doanh thu. Người ta đã nhìn thấy nhược điểm của thuế này và trong những năm gần đây ở nhiều nước đã đổi sang loại thuế không có nhược điểm này.
+ @turnpenny
+* dt
+- người bủn xỉn
+ @turnpentine
+* dt
+- nhựa thông
+- dầu thông
+* ngdgt
+- khai thác nhựa thông
+- dùng nhựa thông; trát nhựa thôngh, bôi nhựa thông
+ @turnpike  
+*  dt
+- cái chắn đường để thu thuế; cổng thu thuế
+- (từ Mỹ,nghĩa Mỹ) đường lớn
+
+@Turnpike theorems
+- (Econ) Các định lý cổng ngăn.
+: Một loại định đề trong thuyết tăng trưởng liên quan đến sự gần gũi của các đường tăng trưởng tối ưu với tăng trưởng cân bằng với tốc độ cao nhất.
+ @turnplate
+* dt
+- bàn xoay; bộ xoay
+ @turn-round
+* dt
+- sự thay đổi hoàn toàn (từ một tình hình rất xấu sang một tình hình rất tốt )
+- quá trình bốc dỡ hàng (về tàu thủy, máy bay)
+ @turnround
+* dt
+- (thời gian dành cho) việc chuẩn bị cho chuyến khởi hành (của máy bay, tàu thủy, ô tô) sắp đến
+- sự chuyển hướng đột ngột sang tình huống đối lập
+ @turn-screw  
+*  dt
+- cái chìa vít, cái vặn đinh vít
+
+@turnsole  
+*  dt
+- (thực vật học) cây hướng dương, cây quỳ
+- (thực vật học) cây vòi voi
+- (hoá học) chất quỳ (làm thuốc thử)
+
+@turnspit
+* dt
+- người quay xiên nướng thịt
+ @turnstile  
+*  dt
+- cửa xoay
+
+@turntable
+* dt
+- mặt quay hình tròn, phẳng trên đó đặt đựa hát để quay
+- sàn phẳng hình tròn trên đó đầu máy xe lửa chạy lên để quay đầu lại
+ @turn-up  
+*  dt
+- cổ (áo); vành (mũ); gấu (quần...)
+- lá bài bắt cái
+- (thông tục) sự náo loạn, sự rối loạn; sự ẩu đả
+
+@turpentine  
+*  dt
+- nhựa thông
+- dầu thông
+*  ngdgt
+- trét nhựa thông; bôi dầu thông
+
+@turpeth  
+*  dt
+- rễ cây chìa vôi (trước đây dùng làm thuốc xổ)
+- (thực vật học) cây chìa vôi
+
+@turpitude  
+*  dt
+- tính xấu xa, tính đê tiện
+- việc làm xấu xa, việc làm đê tiện
+
+@turps  
+*  dt
+- (thông tục) (như) turpentine
+
+@turquoise  
+*  dt
+- ngọc lam
+- màu ngọc lam ((cũng) turquoise blue)
+
+@turquoise blue
+* dt
+- màu ngọc lam
+ @turret  
+*  dt
+- tháp nhỏ
+- (quân sự) tháp pháo
+
++ turret gun: súng đặt trên tháp pháo
+- (kỹ thuật) ụ rêvonve
+
+@turreted  
+*  tt
+- có tháp nhỏ
+- có tháp pháo
+- (động vật học) hình tháp (vỏ ốc)
+
+@turret-lathe
+* dt
+- (kỹ thuật) máy tiện rơvonve
+ @turriculate   (turriculated) @turriculated   (turriculated) @turtle  
+*  dt
+- (như) turtle-dove
+- (động vật học) rùa ((thường) chỉ rùa biển)
+- thịt rùa
+!to turn turtle
+- (hàng hải),  (từ lóng) lập úp (tàu, thuyền)
+*  ndgt
+- câu rùa, bắt rùa
+
+@turtle-back
+* dt
+- mặt lồi lên
+- sự nhô tròn phía sau của ô tô
+ @turtle-backed
+* tt
+- lồi; phồng
+ @turtle-dove  
+*  dt
+- (động vật học) chim sen; chim gáy
+
+@turtle-neck
+* dt
+- cổ cao, cổ lọ (áo len)
+ @turtle-necked
+* tt
+- có cổ cao, có cổ lọ (áo len)
+ @turtler  
+*  dt
+- người câu rùa, người bắt rùa
+
+@turtle-shell  
+*  dt: (turtle-shell) 
+@turtling
+* dt
+- việc bắt rùa
+ @turves
+* dt
+- lớp đất mặt, lớp đất có cỏ
+- mảng đất mặt, mảng đất có cỏ
+- than bùn để đốt (ở Ireland)
+- (the turf) trường đua ngựa; cuộc đua ngựa
+- <Mỹ>  <thgt> hàng xóm láng giềng hoặc đất đai riêng của mình
+ @tuscan
+* dt
+- (Tuscan) người xứ Toscan
+- (Tuscan) phương ngữ Toscan của Italia
+- (Tuscan) ngôn ngữ văn học của Italia
+* tt
+- (thuộc) người xứ Toscan
+- (thuộc) phương ngữ Toscan của Italia
+- (thuộc) ngôn ngữ văn học của Italia
+ @tuscarora
+* dt
+- (Tuscarora) người Tuscarora (da đỏ ở khu vực Nữu ước)
+- (Tuscarora) tiếng Tuscarora
+ @tush  
+*  dt
+- (động vật học) răng ranh (ngựa)
+
+@tusk  
+*  dt
+- (động vật học) ngà (voi); răng ranh (lợi lòi)
+- răng (cào, bừa...)
+*  ngdgt
+- đâm bằng ngà; xé bằng răng nanh
+
+@tusked   (tusky) @tusker  
+*  dt
+- (động vật học) voi có ngà lớn
+
+@tusky   (tusky) @tussah  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) tussore
+
+@tussal   (tussal) @tusser   (tussur) @tussive   (tussal) @tussle  
+*  dt
+- cuộc ẩu đả, cuộc đánh nhau
+
++ verbal tussle: sự cãi nhau; cuộc đấu khẩu
+*  ndgt
+- ẩu đả, đánh nhau; tranh giành
+
++ to tussle with someone for something: tranh giành với ai cái gì
+
+@tussock  
+*  dt
+- bụi (cỏ); mớ (tóc)
+
+@tussore   (tussur) @tussur   (tussur) @tut   (tut-tut) @tutee
+* dt
+- người kèm cặp, người dạy kèm, người trông coi
+ @tutelage  
+*  dt
+- sự giám hộ
+- thời gian (chịu sự) giám hộ (trẻ vị thành niên)
+- sự dạy dỗ
+
+@tutelar   (tutelary) @tutelary   (tutelary) @tutenag   (tutenague) @tutenague   (tutenague) @tutor  
+*  dt
+- người giám hộ (đứa trẻ vị thành niên)
+- gia sư, thầy giáo kèm riêng
+- trợ lý học tập (ở trường đại học Anh)
+*  ngdgt
+- (pháp lý) giám hộ
+- dạy kèm, kèm cặp
+- kiềm chế
+*  ndgt
+- làm nhiệm vụ giám hộ
+- là gia sư
+
+@tutorage  
+*  dt
+- trách nhiệm giám hộ (đứa trẻ vị thành niên)
+- thân phận gia sư
+- chức trợ lý học tập (ở trường đại học Anh)
+
+@tutoress  
+*  dt
+- người nữ giám hộ (đứa trẻ vị thành niên)
+- cô giáo dạy kèm
+- bà trợ lý học tập (ở trường đại học Anh)
+
+@tutorial  
+*  tt
+- (pháp lý) (thuộc) sự giám hộ
+- (thuộc) thầy dạy kèm
+- (thuộc) trợ lý học tập
+
+@tutorship  
+*  dt
+- nhiệm vụ của người giám hộ
+- (thuộc) thầy dạy kèm
+- (thuộc) trợ lý học tập
+
+@tutti
+* tt,  adv
+- tất cả
+- dt,  số nhiều tuttis
+- phần việc do mọi người cùng làm
+ @tutti-frutti  
+*  dt
+- mứt quả hổ lốn
+
+@tut-tut   (tut-tut) @tutu  
+*  dt
+- váy xoè (của vũ nữ)
+
+@tu-whit   (tu-whit) @tu-whoo   (tu-whit) @tux
+* (viết tắt)
+- <Mỹ> áo ximôckinh (tuxedo)
+ @tuxedo
+* dt
+- <vt>  tux <Mỹ> áo ximôckinh (áo lễ phục mặc vào buổi chiều)
+ @tuyère   (twyer) @

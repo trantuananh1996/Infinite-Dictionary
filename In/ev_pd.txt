@@ -1,0 +1,19 @@
+@pd
+* dt
+- (vt của paid) đã trả tiền
+ @pda
+- máy trợ lý cá nhân dùng kỹ thuật số
+ @pde
+* dt
+- vt của parade (trong các tên phố)
+ @pdl
+- ngôn ngữ mô tả trang
+ @pdn
+- mạng dữ liệu công cộng
+ @pdsa
+* dt(PDSA)
+- vt của People's Dispensary for Sick Animals (phòng khám bệnh, phát thuốc chữa trị cho súc vật)
+ @pdt
+* dt
+- <Mỹ> vt của Pacific Daylight Time (giờ ban ngày khu vực Thái Bình Dương)
+ @

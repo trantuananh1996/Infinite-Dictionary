@@ -1,0 +1,3947 @@
+@fa   (fah) @fab
+* tt
+- phi thường, thần kỳ
+ @faba
+* dt
+- (thực vật) đậu tằm (cây, hạt)
+ @fabaceous
+* tt
+- thuộc họ đậu
+ @fabian  
+*  tt
+- trì hoãn, kéo dài
+
++ fabian policy: chính sách trì hoãn, chính sách kéo dài
+- Fa-biên, theo thuyết Fa-biên
+
++ fabian Society: hội Fa-biên (nhóm Xã hội chủ trương cải cách từ từ ở Anh)
+*  dt
+- (Fabian) người theo thuyết Fa-biên
+
+@fabianism
+* dt
+- học thuyết Fabiên (chủ nghĩa xã hội cải lương)
+ @fabiform
+* tt
+- dạng hạt đậu
+ @fable  
+*  dt
+- truyện ngụ ngôn
+- truyền thuyết
+- (số nhiều) truyện hoang đường; truyện cổ tích
+- (số nhiều) chuyện phiếm, chuyện tán gẫu
+
++ old wives' fables: chuyện ngồi lê đôi mách
+- lời nói dối, lời nói sai
+- cốt, tình tiết (kịch)
+*  ndgt
+- nói bịa
+- (từ cổ,nghĩa cổ); (thơ ca) kể truyện hoang đường, hư cấu, thêu dệt
+*  ngdgt
+- hư cấu
+
+@fabled  
+*  tt
+- được kể trong ngụ ngôn; (thuộc) truyền thuyết, hoang đường
+- hư cấu, bịa đặt
+
+@fabler  
+*  dt
+- nhà viết truyện ngụ ngôn, nhà thơ ngụ ngôn
+- người hay kể truyện hoang đường
+
+@fabliau
+* dt
+- truyện thơ tiếu lâm ở Pháp thế kỷ 12 - 13
+ @fabliaux
+* dt
+- truyện thơ tiếu lâm ở Pháp thế kỷ 12 - 13
+ @fabric  
+*  dt
+- công trình xây dựng
+- giàn khung, kết cấu, cơ cấu ((nghĩa đen) & (nghĩa bóng))
+
++ the whole fabric of society: toàn bộ cơ cấu xã hội
+
++ the fabric of arguments: kết cấu của lý lẽ
+- vải ((thường) texile fabric)
+
++ silk and woollen fabrics: hàng tơ lụa và len dạ
+- mặt, thớ (vải)
+
+@fabric
+- cơ cấu, cấu trúc
+ @fabricant  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người chế tạo, người xây dựng
+
+@fabricate  
+*  ngdgt
+- bịa đặt (sự kiện)
+- làm giả (giấy tờ, văn kiện)
+- (từ hiếm,nghĩa hiếm) làm, chế tạo, sản xuất, xây dựng
+
+@fabricate
+- (Tech) chế tạo; làm giả
+ @fabricated  
+*  dt
+- nhà đúc sãn
+
+@fabricated house
+* dt
+- nhà đúc sẵn
+ @fabrication  
+*  dt
+- sự bịa đặt; chuyện bịa đặt
+- sự làm giả (giấy tờ, văn kiện)
+- sự chế tạo, sự sản xuất; cách chế tạo
+
+@fabricator  
+*  dt
+- người bịa đặt
+- người làm giả (giấy tờ, văn kiện)
+- người chế tạo, người sản xuất
+
+@fabricature
+* dt
+- xem fabricate chỉ cách
+ @Fabry Perot axis
+- (Tech) trục Fabri Perôt
+ @Fabry Perot cavity
+- (Tech) cái hốc Fabri Perôt
+ @Fabry Perot fringe
+- (Tech) vân Fabri Perôt
+ @Fabry Perot interferometer
+- (Tech) giao thoa kế Fabri Perôt
+ @Fabry Perot mode
+- (Tech) kiểu Fabri Perôt
+ @fabulist  
+*  dt
+- nhà thơ ngụ ngôn, người viết truyện ngụ ngôn
+- người nói dối
+
+@fabulize
+* ngdgt
+- làm thơ ngụ ngôn; nói bịa
+ @fabulosity   (fabulosity) @fabulous
+* tt
+- thần thoại, (thuộc) truyện cổ tích; bịa đặt, hoang đường
+- chuyên về thần thoại, chuyên về truyện cổ tích
+- ngoa ngoắt, khó tin; phóng đại, quá cao (giá...)
+ @fabulously
+* dt
+- thần thoại, bịa đặt, hoang đường
+- ngoa ngoắt, khó tin, không thể tưởng tượng được
+ @fabulousness
+* dt
+- tính thần thoại, tính bịa đặt, tính hoang đường
+- tính ngoa ngoắt, tính khó tin
+ @facade  
+*  dt
+- mặt chính (nhà)
+- bề ngoài vẻ ngoài, mã ngoài
+
+@face  
+*  dt
+- mặt
+
++ to look somebody in the face: nhìn thẳng vào mặt ai
+
++ to show one's face: xuất đầu lộ diện, vác mặt đến
+
++ her face is her fortune: cô ta đẹp nhưng nghèo; tất cả vốn liếng cô ta là ở bộ mặt
+- vẻ mặt
+
++ to pull (wear) a long face: mặt buồn thườn thượt, mặt dài ra
+- thể diện, sĩ diện
+
++ to save one's face: gỡ thể diện, giữ thể diện
+
++ to lose face: mất mặt, mất thể diện
+- bộ mặt, bề ngoài, mã ngoài
+
++ to put a new face on something: thay đổi bộ mặt của cái gì, đưa cái gì ra dưới một bộ mặt mới
+
++ on the face of it: cứ theo bề ngoài mà xét thì
+
++ to put a good face on a matter: tô son điểm phấn cho một vấn đề; vui vẻ chịu đựng một việc gì
+
++ to put a bold face on something: can đảm chịu đựng (đương đầu với) cái gì
+- bề mặt
+
++ the face of the earth: bề mặt của trái đất
+- mặt trước, mặt phía trước
+!face to face
+- đối diện
+!to fly in the face of
+- ra mặt chống đối, công khai chống đối
+!to go with wind in one's face
+- đi ngược gió
+!to have the face to do something
+- mặt dạn mày dày mà làm việc gì, có đủ trơ trẽn mà làm việc gì
+!in face of
+- trước mặt, đứng trước
+!in the face of
+- mặc dầu
+!in the face of day
+- một cách công khai
+!to make (pull) faces
+- nhăn mặt
+!to set one's face against
+- chống đối lại
+!to somebody's face
+- công khai trước mặt ai
+*  ngdgt
+- đương đầu, đối phó
+
++ to face up to: đương đầu với
+- đứng trước mặt, ở trước mặt
+
++ the problem that faces us: vấn đề trước mắt chúng ta
+- lật (quân bài)
+- nhìn về, hướng về, quay về
+
++ this house faces south: nhà này quay về hướng nam
+- đối diện
+
++ to face page 20: đối diện trang 20
+- (thể dục,thể thao) đặt ((nghĩa bóng)) ở giữa hai cầu thủ của hai bên (để bắt đầu thi đấu bóng gậy cong trên băng)
+- (quân sự) ra lệnh quay
+
++ to face one's men about: ra lệnh cho quân quay ra đằng sau
+- viền màu (cổ áo, cửa tay)
+- bọc, phủ, tráng
+- hồ (chè)
+*  ndgt
+- (quân sự) quay
+
++ left face!: quay bên trái!
+
++ about face!: quay đằng sau!
+!to face out a situatin
+- vượt qua một tình thế
+!to face out something
+- làm xong xuôi cái gì đến cùng
+
+@face
+- mặt, diện; bề mặt
+- f. of simplex mặt của đơn hình
+- end f. (máy tính) mặt cuối
+- lateral f. mặt bên
+- old f. mặt bên
+- proper f. mặt chân chính
+- tube f. màn ống (tia điện tử) 
+ @face value  
+*  dt
+- giá trị danh nghĩa (của giấy bạc...)
+- (nghĩa bóng) giá trị bề ngoài
+
++ to accept (take) something at its face_value: thừa nhận cái giá trị bề ngoài của nó
+
+@face-ache  
+*  dt
+- đau dây thần kinh đầu
+
+@face-ague
+* dt
+- xem face-ache
+ @face-bedded
+* tt
+- (kiến trúc) lát đá ngoài mặt tường
+ @face-card  
+*  dt
+- lá bài hình (quân K; quân Q; quân J)
+
+@face-cloth
+* dt
+- khăn mặt
+- vải phủ mặt người chết
+ @faced
+- (tạo nên tt ghép) có một kiểu mặt được nói rõ
+- red-faced
+- mặt đỏ
+- baby-faced
+- mặt như trẻ con
+ @face-flannel
+* dt
+- khăn mặt
+ @face-guard  
+*  dt
+- (thể dục,thể thao) lưới che mặt
+
+@face-harden
+* ngdgt
+- làm cho bề mặt (kim loại) cứng; tôi bề mặt
+ @face-hardened
+* tt
+- được làm cứng
+ @faceless
+* tt
+- vô danh
+- không có cá tính
+ @face-lift  
+*  ngdgt
+- sửa mặt (ai) cho đẹp
+
+@face-lifting  
+*  dt
+- phẫu thuật, sửa đẹp mặt (làm bớt vết nhăn)
+
+@face-pack
+* dt
+- kem thoa mặt
+ @face-painting
+* dt
+- thuật hoá trang
+ @face-plate
+* dt
+- (kỹ thuật) mâm cặp hoa (máy tiện); bàn rà; tấm mặt
+ @facer  
+*  dt
+- cú đấm vào mặt
+- khó khăn đột xuất
+
+@face-saver
+* dt
+- sự giữ thể diện
+ @face-saving
+* tt
+- có tính cách giữ thể diện
+ @facet  
+*  dt
+- mặt (kim cương...)
+- mặt khía cạnh (vấn đề...)
+
+@facet
+- mặt, diện
+ @faceted  
+*  dt
+- có nhiều mặt (kim cương...)
+
+@facetiae  
+*  dt số nhiều
+- những câu khôi hài, những câu hài hước, những câu dí dỏm, những câu bông lơn
+- sách tiếu lâm
+
+@facetious  
+*  tt
+- hay khôi hài, hay hài hước, hay bông lơn
+
+@facetiously
+* dt
+- khôi hài, hài hước, dí dỏm
+ @facetiousness  
+*  dt
+- tính khôi hài, tính hài hước, tính bông lơn
+
+@facia  
+*  dt
+- biển tên (đề tên chủ hiệu, đóng trước cửa hàng)
+
+@facial  
+*  tt
+- (thuộc) mặt
+
++ facial artery: (giải phẫu) động mạch mặt
+
++ facial angle: góc mặt
+*  dt
+- sự xoa bóp mặt
+
+@facially
+* dt
+- về khuôn mặt
+ @facient
+- (máy tính) nhân tử
+ @facies
+* dt
+- số nhiều facies
+- mặt; diện; bề mặt
+- dáng; vẻ
+- (sinh học) quần diện thay thế
+- (địa chất) nham tướng; khoáng tướng
+ @facile  
+*  tt
+- dễ, dễ dàng; thông, trôi chảy
+- sãn sàng; nhanh nhảu
+- dễ dãi, dễ tính; hiền lành
+
+@facile
+- dễ; đơn giản
+ @facilitate  
+*  ngdgt
+- làm cho dễ dàng; làm cho thuận tiện
+
+@facilitate
+- làm dễ dàng, tạo điều kiện, giảm nhẹ
+ @facilitation
+* dt
+- sự tạo điều kiện thuận lợi
+ @facility  
+*  dt
+- (số nhiều) điều kiện dễ dàng, điều kiện thuận lợi; phương tiện dễ dàng
+
++ to give facilities for (of) foing something: tạo điều kiện dễ dàng để làm việc gì
+
++ transportation facilities: những phương tiện dễ dàng cho việc vận chuyển
+- sự dễ dàng, sự trôi chảy
+- sự hoạt bát
+- tài khéo léo
+- tính dễ dãi
+
+@facility
+- thiết bị, trang bị, công cụ, phương tiện
+- communication f. phương tiện thông tin
+- test f. dụng cụ thí nghiệm 
+ @facing  
+*  dt
+- sự đương đầu (với một tình thế)
+- sự lật (quân bài)
+- sự quay (về một hướng)
+- (số nhiều) cổ áo màu; cửa tay màu (của quân phục)
+- sự phủ lên mặt ngoài, sự tráng lên mặt ngoài
+- khả năng; sự thông thạo
+
++ to put somebody through his facings: thử khả năng của ai
+
++ to go through one's facing: qua sự kiểm tra về khả năng
+- (quân sự), (số nhiều) động tác quay
+
+@facsimile  
+*  dt
+- bản sao, bản chép
+
++ reproduced in facsimile: sao thật đúng, chép thật đúng
+*  ngdgt
+- sao, chép
+
+@facsimile 
++  fax
+- (Tech) điện thư, bản viễn sao; bản truyền chân [TQ @facsimile equipment
+- (Tech) thiết bị điện thư
+ @fact  
+*  dt
+- việc, sự việc
+
++ to confess the fact: thú nhận đã làm việc gì
+- sự thật
+
++ the facts of life: sự thật của cuộc đời; (thông tục) những điều cần biết về vấn đề sinh dục, sinh đẻ...
+
++ the fact of the matter is...: sự thật của vấn đề là...
+- sự kiện
+
++ hard facts: sự kiện rõ rành rành không thể chối câi được
+- thực tế
+
++ in point of fact; as a matter of fact: thực tế là
+- cơ sở lập luận
+
++ his facts are disputable: cơ sở lập luận của anh ta không chắc
+!in fact
+- trên thực tế, thực tế là
+- nói tóm lại
+
+@fact
+- sự việc in f.thật ra 
+ @fact-finding  
+*  dt
+- đi tìm hiểu tình hình thực tế, đi tìm hiểu sự thật
+
++ a fact-finding mission: phái đoàn đi tìm hiểu tình hình thực tế
+
+@faction  
+*  dt
+- bè phái, bè cánh
+- óc bè phái, tư tưởng bè phái
+
+@factional  
+*  tt
+- (thuộc) bè phái; gây bè phái; có tính chất bè phái
+
+@factionalism  
+*  dt
+- óc bè phái, tư tưởng bè phái, chủ nghĩa bè phái
+
+@factious  
+*  tt
+- có tính chất bè phái, gây bè phái; do bè phái gây ra
+
+@factiousness  
+*  dt
+- tính bè phái
+
+@factitious  
+*  tt
+- giả tạo, không tự nhiên
+
+@factitiousness  
+*  dt
+- tính chất giả tạo, tính chất không tự nhiên
+
+@factitive  
+*  tt
+- (ngôn ngữ học) hành cách
+
+@facto
+* dt
+- trong thực tế
+ @factor  
+*  dt
+- nhân tố
+
++ human factor: nhân tố con người
+- người quản lý, người đại diện
+- người buôn bán ăn hoa hồng
+- (Ê-cốt) người quản lý ruộng đất
+- (toán học) thừa số
+- (kỹ thuật) hệ số
+
++ factor of safety: hệ số an toàn
+
+@factor
+- (Tech) nhân tố, yếu tố; hệ số; thừa số, nhân số 
+ @factor
+- nhana tử, nhân tố, thừa số, hệ số
+- f. of a polynomial nhân tử của một đa thức
+- f. of a term thừa số của một số 
+- accumulation f. nhân tủ tích luỹ (nhân tử 1:r trong A
++ P(1:r) trong
+- phép tính phần trăm)
+- adjustment f. nhân tử điều chỉnh 
+- amplification f. hệ số khuếch đại
+- attenuation f. nhân tử suy giảm, hệ số tắt dần
+- bearing capacity f. hệ số tải chung
+- common f. nhân tử chung 
+- aomposition f. nhân tố hợp thành
+- constant f. nhân tử không đổi, thừa số không đổi
+- conversion f. nhân tử chuyển hoán
+- correction f. hệ số hiệu chính
+- coupling f. hệ số ghép
+- damping f. hệ số làm tắt dần
+- delay f. hệ số trễ, đại lượng trễ
+- depolarizing f. nhân tố khử cực
+- determining f. yếu tố xác định
+- direct f. (đại số) nhân tử trực tiếp
+- dissipation f. hệ số hao tán
+- distorsion f. hệ số méo
+- divergence f. hệ số phân kỳ
+- efficiency f. (thống kê) hệ số hiệu quả; (điều khiển học) hệ số hiệu dụng, hiệu suất
+- extraneous f. nhân tử ngoại lai
+- feedback f. (điều khiển học) hệ số liên hệ ngược
+- form f. hệ số dạng (của một trường)
+- frequency f. nhân tử tần số
+- gain f. hệ số khuếch đại
+- general f. (thống kê) nhân tố chung (cho tất cả các biến)
+- integrating f. (giải tích) nhân tử lấy tích phân
+- interaction f. hệ số tương tác
+- invariant f. nhân tử bất biến
+- load f. hệ số tải
+- loss f. (điều khiển học) hệ số tổn thất
+- modulation f. hệ số biến điệu
+- monomial f. of an expression nhân tử đơn thức của một biểu thức
+- mutual coupling f. (điều khiển học) hệ số liên hệ tương hỗ
+- normalization f. nhân tử chuẩn hoá
+- operational f. (điều khiển học) đặc trưng làm việc, tham số tác dụng, tham biến tác dụng
+- output f.(điều khiển học) hệ số hiệu suất
+- periodicity f. (giải tích) nhân tử tuần hoàn
+- phase f. (điều khiển học) hằng số pha, thừa số pha
+- post f. nhân tử sau (bên phải)
+- prime f. [thừa số, nhân tử] nguyên tố
+- propogation f. hệ số truyền
+- rationalizing f. nhana tử hữu tỷ hoá
+- safety f. hệ số an toàn
+- selectivity f. hệ số tuyển lựa
+- shape f. hệ số dạng
+- single scale f. hệ số chuyển dịch đơn vị
+- smoothing f. hệ số trơn
+- stability f. hệ số ổn định
+- stabilization f.(điều khiển học) hệ số ổn định hoá
+- utilization f. hệ số sử dụng
+- visibility f. độ nhìn thấy tương đối, độ thị kiến 
+ @Factor augmenting technical progress
+- (Econ) Tiến bộ kỹ thuật gia tăng ảnh hưởng của yếu tố.
+: Tiến bộ kỹ thuật dẫn đến việc gia tăng mức sản lượng khi VỐN và LỰC LƯỢNG LAO ĐỘNG KHÔNG ĐỔI.
+ @Factor endowment
+- (Econ) Nguồn lực sẵn có; Nguồn tài nguyên sẵn có; Sự sở hữu các yếu tố sản xuất; tính sẵn có, lượng các yếu tố sản xuất.
+: Mức độ sẵn có các yếu tố sản xuất trong một vùng hay một nước thường là đất đai, lao động, vốn và kỹ thuật.
+ @Factor incomes
+- (Econ) Thu nhập từ yếu tố sản xuất.
+: Thu nhập trực tiếp có được nhừo sản xuất hàng hoá và dịch vụ hiện tại.
+ @Factor intensity
+- (Econ) Mức độ @Factor proportion
+- (Econ) Tỷ lệ các yếu tố sản xuất.
+: Tỷ lệ để kết hợp các YẾU TỐ CỦA SẢN XUẤT.
+ @Factor reverals
+- (Econ) Sự đảo ngược các yếu tố sản xuất.
+: Một trong các giả thiết củaCÁCH TIẾP CẬN HECKSCHER - OHLIN VỀ THƯƠNG MẠI QUỐC TẾ là các hàm sản xuất hàng hoá khác nhau ở tỷ số, cường độ sử dụng các yếu tố sản xuất và một hàng hoá sử dụng.
+ @Factor substitution effect
+- (Econ) Tác động thay thế yếu tố sản xuất.
+ @Factor utilization
+- (Econ) Sự sử dụng yếu tố sản xuất.
+: Lượng các yếu tố có thể sử dụng trên thực tế.
+ @factorability
+- tính phân tích được (thành nhân tử), tính nhân tử hoá
+ @factorable
+- phân tích được (thành nhân tử)
+ @factorage  
+*  dt
+- sự buôn bán ăn hoa hồng
+- tiền hoa hồng
+
+@factorgram
+- biểu đồ nhân tử, nhân tử đồ
+ @factorial  
+*  tt
+- (thuộc) thừa số
+*  dt
+- (toán học) giai thừa
+
+@factorial
+- (Tech) giai thừa; thuộc thừa số
+ @Factorial
+- (Econ) Giai thừa.
+ @factorial
+- giai thừa; nhân tố
+- generalized f. giai thừa suy rộng 
+ @Factoring
+- (Econ) Bao thanh toán; mua nợ; Giải thoát nợ.
+: Phương pháp giải thoát số nợ thương mại thông qua đó một công ty có thể bán được số nợ này cho một thể chế tài chính.
+ @factoring
+* dt
+- sự phân tích thành thừa số
+
++  scale factoring:sự chọn thang tỉ lệ
+ @factoring
+- sự phân tích (thành nhân tử)
+- scale f. chọn ty độ, sự chọn thang tỷ lệ 
+ @factorisable
+- phân tích được (thành nhân tử)
+ @factorisation
+* dt
+- sự tìm thừa số
+ @factorisation
+- sự phân tích thành nhân tử
+- f. of atransformation sự phân tích một phép biến đổi 
+ @factorise
+* ngdgt
+- tìm thừa số của (một số)
+ @factorization
+* dt
+- sự tìm thừa số
+ @factorization
+- [phép, sự] nhân tử hoá
+- direct f. of algebra phép nhân tử hoá trực tiếp một đại số 
+- polar f. of a matrix phân tích cực một ma trận
+- unique f. nhân tử hoá duy nhất 
+ @factorize
+* ngdgt
+- tìm thừa số của (một số)
+ @Factor-price equalization
+- (Econ) Sự cân bằng yếu tố sản xuất - giá cả.
+: Một định đề nảy sinh từ CÁCH TIẾP CẬN HECKSCHER - OHLIN VỀ THƯƠNG MẠI QUỐC TẾ cho rằng với một số giả thiết hạn chế, THƯƠNG MẠI TỰ DO là sự thay thế hoàn hảo cho việc di chuyển yếu tố sản xuất và sẽ có tác dụng san bằng mức thanh toán cho bất kỳ một yếu tố sản xuất nào trên phạm vi toàn thế giới, chẳng hạn như mức tiền công của tất cả các nước phải bằng nhau.
+ @Factor-price frontier
+- (Econ) Giới hạn yếu tố sản xuất - giá cả.
+: Thuật ngữ này do PAUL SAMUELSON đưa ra, chỉ mối quan hệ tỷ lệ nghịch giữa mức tiền công và lợi nhuận trong lý thuyết tăng trưởng.
+ @Factors of production
+- (Econ) Các yếu tố sản xuất.
+: Các nguồn lực của xã hội được sử dụng trong quá trình sản xuất.
+ @factorship
+* dt
+- nghề làm đại lý hãng buôn
+ @factory  
+*  dt
+- nhà máy, xí nghiệp, xưởng
+- (sử học) đại lý ở nước ngoài (của một số hãng buôn)
+
+@factory
+- nhà máy, xưởng
+- automatic f. (điều khiển học) nhà máy tự động
+ @factory automation
+- (Tech) tự động hóa cơ xưởng
+ @factory-built
+- (máy tính) chế tạo ở nhà máy
+ @factotum  
+*  dt
+- người quản gia
+- người làm mọi thứ việc
+
+@factual  
+*  tt
+- (thuộc) sự thực; căn cứ trên sự thực; thực sự, có thật
+
+@factually
+* dt
+- dựa trên sự thật, đúng như sự thật
+ @factum  
+*  dt
+- bản trình bày sự việc
+
+@facture
+* dt
+- cách làm (tác phẩm (nghệ thuật))
+ @facula  
+*  dt,  số nhiều faculae
+- (thiên văn học) vệt sáng trên mặt trời
+
+@faculae  
+*  dt,  số nhiều faculae
+- (thiên văn học) vệt sáng trên mặt trời
+
+@facular   (faculous) @faculative  
+*  tt
+- tuỳ ý, không bắt buộc
+- ngẫu nhiên, tình cờ
+- (thuộc) khoa (đại học)
+
+@faculous   (faculous) @facultative
+* tt
+- tuỳ ý, không bắt buộc
+- ngẫu nhiên, tình cờ
+- (thuộc) khoa (đại học)
+ @facultative
+- không bắt buộc, tuỳ ý
+ @faculty  
+*  dt
+- tính năng, khả năng; (từ Mỹ,nghĩa Mỹ) khả năng quản trị
+
++ faculty of speech: khả năng nói
+
++ faculty of hearing: khả năng nghe
+- năng lực
+- tài, tài năng
+
++ to have a faculty for making friends: có tài đánh bạn, có tài làm thân
+- ngành (khoa học, nghệ thuật)
+- khoa (đại học)
+- (từ Mỹ,nghĩa Mỹ) toàn bộ cán bộ giảng dạy (một trường đại học)
+- (pháp lý); (tôn giáo) quyền pháp
+!the Faculty
+- (thông tục) các vị trong ngành y; các ông lang
+
+@fad  
+*  dt
+- sự thích thú kỳ cục; sự thích thú dở hơi; điều thích thú kỳ cục; điều thích thú dở hơi
+- mốt nhất thời
+
+@fadaise
+* tt
+- tầm thường; không thú vị
+ @faddiness   (faddiness) @faddish   (faddy) @faddishness   (faddiness) @faddism  
+*  dt
+- thói kỳ cục, thói dở hơi
+
+@faddist  
+*  dt
+- người có những thích thú kỳ cục; người thích những cái dở hơi
+
+@faddy   (faddy) @fade  
+*  ndgt
+- héo đi, tàn đi (cây)
+- nhạt đi, phai đi (màu)
+- mất dần, mờ dần, biến dần
+*  ngdgt
+- làm phai màu, làm bạc màu
+- (điện ảnh) truyền hình
+
++ to fade in: đưa (cảnh, âm thanh) vào dần
+
++ to fade out: làm (ảnh) mờ dần
+- tăng (âm) thành không rõ nữa; giảm (âm) thành không rõ
+
+@fade
+- (vật lí) sự phai màu, sự tàn lụi   thay đổi dần dần cường độ tín hiệu; làm
+- phai tàn f. in làm mạnh lên; f. out làm yếu đi 
+@fade-in  
+*  dt
+- (điện ảnh); (truyền hình) sự đưa cảnh vào dần, sự đưa âm thanh vào dần
+
+@fade-in
+- (Tech) hiện dần (hình @fadeless  
+*  tt
+- không bay, không phai (màu)
+- không phai nhạt, không bao giờ lu mờ
+
+@fade-out  
+*  dt
+- (điện ảnh); (truyền hình) sự làm mờ dần cảnh, sự làm mờ dần âm thanh
+
+@fade-out
+- (Tech) tắt dần (hình @fader
+- (Tech) bộ tiệm giảm
+ @fading  
+*  dt
+- (raddiô) sự giảm âm
+
+@fading
+- (vật lí) fading; sự phai màu
+ @fading channel
+- (Tech) kênh biến hiện mờ dần
+ @fading period
+- (Tech) chu kỳ biến hiện mờ dần
+ @faecal   (fecal) @faeces   (feces) @faena
+* dt
+- giai đoạn cuối trận đấu bò trong đó người đấu một mình giết con bò
+ @faerie   (Faery) @faery   (Faery) @faff
+* ndgt
+- (thông tục) mất thì giờ vào chuyện vô ích
+ @fag  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người đồng dâm nam ((cũng) faggot)
+- công việc nặng nhọc, công việc vất vả
+- sự kiệt sức, sự suy nhược
+-(ngôn ngữ nhà trường) anh chàng đầu sai (học sinh lớp dưới phải phục vụ học sinh lớp trên ở một số trường học Anh)
+- (từ lóng) thuốc lá
+*  ndgt
+- làm việc vất vả, làm quần quật
+-(ngôn ngữ nhà trường) làm đầu sai (cho học sinh lớp trên ở một số trường học Anh)
+*  ngdgt
+- làm mệt rã rời (công việc)
+-(ngôn ngữ nhà trường) dùng (học sinh lớp dưới) làm đầu sai
+
+@fag-end  
+*  dt
+- mẩu vải thừa (khi cắt áo...); đầu xơ ra, đầu không bện (của sợi dây thừng...)
+- đầu thừa đuôi thẹo, phần bỏ đi
+
+@fagger
+* dt
+- người nô dịch kẻ khác
+- người lao động khổ cực
+ @faggery
+* dt
+- thói bắt người ta lao động vất vả
+- lao động vật vả
+ @faggot  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người đồng dâm nam ((cũng) fag)
+- (như) fagot
+
+@fagin
+* dt
+- người lớn chuyên dạy trẻ em ăn cắp
+ @fagot   (fag) @fagoting
+* dt
+- sự bỏ
+ @fah   (fah) @fahrenheit  
+*  dt
+- cái đo nhiệt Fa-ren-hét
+- thang nhiệt Fa-ren-hét
+
+@faience  
+*  dt
+- sứ
+- đồ sứ
+
+@fail  
+*  dt
+- sự hỏng thi
+- người thi hỏng
+!without fail
+- chắc chắn, nhất định
+*  ndgt
+- không nhớ, quên
+
++ don't fail to let me know: thế nào anh cũng nhớ tin cho tôi biết
+- yếu dần, mất dần, tàn dần
+- không đúng, sai
+
++ the prophecy failed: lời tiên đoán sai
+- thiếu
+
++ to fail in respect for someone: thiếu sự kính trọng đối với ai
+- không thành công, thất bại
+- trượt, hỏng thi
+- bị phá sản
+- không làm tròn, không đạt
+
++ to fail in one's duty: không làm tròn nhiệm vụ
+
++ to fail of one's purposes: không đạt mục đích
+- hỏng, không chạy nữa
+*  ngdgt
+- thiếu, không đủ
+
++ time would fail me to tell: tôi sẽ không đủ thời giờ để nói
+
++ words fail me: tôi không đủ lời để nói hết được, tôi không thể tả hết được
+
++ the wind failed us: (thuyền) chúng ta hết gió
+- thất hẹn với (ai); không đáp ứng được yêu cầu của (ai)
+
++ his memory fails him: trí nhớ của anh ta kém lắm rồi
+- đánh trượt (một thí sinh)
+
+@fail
+- (Tech) hư hỏng; mất (điện); thiếu
+ @fail
+- không đạt, chưa đủ (toán kinh tế) phá sản
+ @failing  
+*  dt
+- sự thiếu
+- sự không làm tròn (nhiệm vụ)
+- sự suy nhược, sự suy yếu
+- sự thất bại, sự phá sản
+- sự trượt, sự đánh trượt
+- thiếu sót, nhược điểm
+*  giới từ
+- thiếu, không có
+
++ failing this: nếu không có vấn đề này; nếu việc này không xảy ra
+
++ whom failing; failing whom: nếu vắng người ấy (người khác làm thay...)
+
+@faille  
+*  dt
+- lụa phay (một thứ lụa to mặt)
+
+@fail-safe
+* tt
+- dự phòng để bảo đảm an toàn
+ @fail-safe system
+- (Tech) hệ thống phòng hư
+ @fail-safety
+* dt
+- độ an toàn, độ tin cậy
+ @failure  
+*  dt
+- sự không xảy ra, sự không làm được (việc gì)
+
++ the failure to grasp a policy: sự không nắm vững một chính sách
+- sự thiếu
+- sự thất bại; sự hỏng; sự mất (mùa, điện...)
+- người bị thất bại; việc thất bại, cố gắng không thành công
+
++ he is a failure in art: anh ấy không thành công trong nghệ thuật
+- sự thi hỏng
+- sự vỡ nợ, sự phá sản
+
+@failure
+- (Tech) hư hỏng; thất bại
+ @failure
+- (máy tính) chỗ hỏng; (cơ học) sự phá hỏng; (toán kinh tế) sự phá sản; (lý thuyết trò chơi) sự thất bại
+- power f. (máy tính) gián đoạn trong việc cấp năng lượng 
+ @failure detection
+- (Tech) phát hiện hư hỏng
+ @failure logging
+- (Tech) ghi nhận sự hư hỏng
+ @failure prediction
+- (Tech) sự dự đoán hư hỏng
+ @failure rate
+- (Tech) tỷ suất hư hỏng, mức độ hư hỏng
+ @fail-year
+* dt
+- năm mất mùa
+ @fain  
+*  dgt: (fains) @faineance
+* dt
+- sự lười biếng, sự ăn không ngồi rồi
+ @faineancy
+* dt
+- xem faineance
+ @fains  
+*  dgt: (fains) @faint  
+*  tt
+- uể oải; lả (vì đói)
+- e thẹn; nhút nhát
+- yếu ớt
+
++ a faint show of resistance: một sự chống cự yếu ớt
+- mờ nhạt, không rõ
+
++ faint lines: những đường nét mờ nhạt
+
++ a faint idea: một ý kiến không rõ rệt
+- chóng mặt, hay ngất
+- oi bức, ngột ngạt (không khí)
+- kinh tởm, lợm giọng (mùi)
+*  dt
+- cơn ngất; sự ngất
+
++ in a deal faint: bất tỉnh nhân sự, chết ngất
+*  ndgt
+- ((thường) : away) ngất đi, xỉu đi
+- (từ cổ,nghĩa cổ) nhượng bộ, nản lòng, nản chí
+
+@faint-heart  
+*  dt
+- người nhút nhát, người nhát gan
+
+@faint-hearted  
+*  tt
+- nhút nhát, nhát gan
+
+@faint-heartedly
+* dt
+- nhút nhát, nhát gan
+ @faint-heartedness  
+*  dt
+- tính nhút nhát; sự nhút nhát, sự nhát gan
+
+@fainting
+* dt
+- sự ngất choáng
+ @fainting-fit  
+*  dt
+- (y học) cơn ngất
+
+@faintish  
+*  tt
+- yếu dần
+- mờ mờ
+- khá ngột ngạt (không khí)
+
+@faintly  
+*  dt
+- yếu ớt, uể oải
+- nhút nhát
+- mờ nhạt, nhè nhẹ
+
+@faintness  
+*  dt
+- sự uể oải, sự yếu đuối, sự nhu nhược
+- sự lả đi, sự xỉu đi; sự choáng váng, sự ngây ngất
+- sự mờ nhạt
+
+@faints  
+*  dt số nhiều
+- nước đầu; nước cuối (lấy ra khi nấu rượu)
+
+@fainéant  
+*  dt
+- người lười biếng, người ăn không ngồi rồi
+
+@fair  
+*  dt
+- hội chợ, chợ phiên
+!to come a day before (after) the fair
+- (xem) day
+!vanity fair
+- hội chợ phù hoa
+*  tt
+- phải, đúng, hợp lý, không thiên vị, công bằng, ngay thẳng, thẳng thắn, không gian lận
+
++ a fair judge: quan toà công bằng
+
++ by fair means: bằng phương tiện chính đáng; ngay thẳng, không gian lận
+
++ fair play: lối chơi ngay thẳng (trong cuộc đấu); (nghĩa bóng) cách xử sự công bằng, cách xử sự ngay thẳng
+- khá, khá tốt, đầy hứa hẹn; thuận lợi, thông đồng bén giọt
+
++ fair weather: thời tiết tốt
+- đẹp
+
++ the fair sex: phái đẹp, giới phụ nữ
+- nhiều, thừa thãi, khá lớn
+
++ a fair heritage: một di sản khá lớn
+- có vẻ đúng, có vẻ xuôi tai; khéo
+
++ a fair argument: lý lẽ nghe có vẻ đúng
+
++ fair words: những lời nói khéo
+- vàng hoe (tóc); trắng (da)
+
++ fair hair: tóc vàng hoe
+- trong sạch
+
++ fair water: nước trong
+
++ fair fame: thanh danh
+!to bid fair
+- (xem) bid
+!a fair field and no favour
+- cuộc giao tranh không bên nào ở thế lợi hơn bên nào; cuộc giao tranh với lực lượng cân bằng không ai chấp ai
+!fair to middling
+- (thông tục) kha khá, tàm tạm (sức khoẻ...)
+*  dt
+- ngay thẳng, thẳng thắn, không gian lận
+
++ to play fair: chơi ngay thẳng, chơi không gian lận
+
++ to fight fair: đánh đúng quy tắc, đánh đúng luật (quyền Anh...)
+- đúng, trúng, tốt
+
++ to fall fair: rơi trúng, rơi gọn, rơi tõm (vào...)
+
++ to strike fair in the face: đánh trúng vào mặt
+- lịch sự, lễ phép
+
++ to speak someone fair: nói năng lịch sự với ai
+- vào bản sạch
+
++ to write out fair: chép vào bản sạch
+*  ndgt
+- trở nên đẹp (thời tiết)
+*  ngdgt
+- viết vào bản sạch, viết lại cho sạch
+- ghép vào bằng mặt, ghép cho phẳng, ghép cho đều (những phiến gỗ đóng tàu...)
+
+@fair and square  
+*  dt & dt,  (thông tục)
+- lương thiện
+- công bằng; thẳng thắn, không úp mở, không khéo léo
+
+@Fair comparisons
+- (Econ) So sánh công đẳng.
+: So sánh tiền công dựa trên cơ sở cho rằng công nhân làm những công việc gần tương tự như nhau phải được trả cùng mức tiền công.
+ @fair copy  
+*  dt
+- bản chép sạch
+
+@Fair rate of return
+- (Econ) Tỷ suất lợi tức công bằng.
+: Nguyên tắc chủ đạo trong việc điều tiết ngành công ích ở Mỹ là tỷ lệ thu lợi hợp lý đối với giá trị của vốn được sử dụng trong việc sản xuất các dịch vụ dân dụng.
+ @Fair trade law
+- (Econ) Luật thương mại công bằng.
+: Ở Mỹ đã có một số nỗ lực nhằm thiết lập các mức giá bán lẻ tối thiểu theo khuôn khổ pháp luật (các thoả thuận được duy trì mức giá bán lại) đối với các hàng hoá có nhãn hiệu và tên gọi.
+ @Fair trading, Office of
+- (Econ) Văn phòng thương mại công bằng.
+: Được ra đời theo Đạo luật thương mại bình đẳng 1973, văn phòng này có trách nhiệm thu thập thông tin liên quan đến cơ cấu của các nghành và việc tiến hành kinh doanh.
+ @Fair wages
+- (Econ) Tiền công công bằng.
+: NHìn chung, tiền công công bằng là tiền công được cố định theo LUẬT TIỀN CÔNG TỐI THIỂU quốc gia.
+ @fair-dealing  
+*  dt
+- sự xử sự ngay thẳng, sự xử sự thẳng thắn
+*  tt
+- ngay thẳng, thẳng thắn
+
+@fair-faced
+* tt
+- mặt mày trắng trẻo
+- không có ý định xấu
+- (gạch) không trát vữa ở ngoài
+ @fair-ground  
+*  dt
+- bãi họp chợ phiên
+
+@fair-haired  
+*  tt
+- có tóc vàng hoe
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) được cưng, được quý nhất
+
++ the fair-haired boy of the family: đứa bé cưng của gia đình
+
+@fairily  
+*  dt
+- như tiên, thần tiên
+- tuyệt diệu, kỳ diệu, thần kỳ
+
+@fairing  
+*  dt
+- quà biếu mua ở chợ phiên
+*  dt,  (hàng không)
+- sự làm nhãn và thon hình máy bay
+- bộ phận phụ thêm để làm thon hình máy bay
+
+@fairish  
+*  tt
+- kha khá, tàm tạm
+- hoe hoe vàng (tóc); trăng trắng (da)
+
+@fairly  
+*  dt
+- công bằng, không thiên vị; chính đáng; ngay thẳng, thẳng thắn, không gian lận
+- khá, kha khá
+
++ fairly good: khá tốt
+
++ to play fairly well: chơi khá hay
+- hoàn toàn thật sự
+
++ to be fairly beside oneself: hoàn toàn, không tự kiềm chế được, hoàn toàn không tự chủ được, quýnh cả lên (vì mừng...)
+- rõ ràng, rõ rệt
+
+@fairly and squarely
+* dt<thgt>
+- lương thiện
+- công bằng; thẳng thắn, không úp mở, không khéo léo
+ @fair-maid   (fair-maid) @fair-minded  
+*  tt
+- công bằng, vô tư, không thiên vị, không thành kiến
+
+@fair-natured
+* tt
+- tốt đẹp
+ @fairness  
+*  tt
+- sự công bằng, sự không thiên vị; tính lương thiện, tính thẳng thắn, tính ngay thẳng, tính không gian lận
+- tính chất khá, tính chất khá tốt
+- vẻ đẹp
+- màu vàng hoe (tóc)
+- nước da trắng
+
+@fair-seeming
+* tt
+- chỉ đẹp bên ngoài
+ @fair-spoken  
+*  tt
+- ăn nói nhã nhặn; nói năng lễ độ
+
+@fairway  
+*  dt
+- luồng nước (cho tàu bè đi lại được); kênh đào cho tàu bè đi lại (vào sông, vào cửa biển)
+- (thể dục,thể thao) đường lăn bóng (sân đánh gôn)
+
+@fair-weather  
+*  tt
+- chỉ thích hợp lúc thời tiết tốt
+- phù thịnh
+
++ fair-weather friends: bạn phù thịnh, bạn khi vui thì vỗ tay vào
+
+@fairy  
+*  tt
+- (thuộc) tiên, (thuộc) cánh tiên
+- tưởng tượng, hư cấu
+- xinh đẹp như tiên, uyển chuyển như tiên
+*  dt
+- tiên, nàng tiên
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người đồng dâm nam
+
+@fairy godmother
+* dt
+- người giúp đỡ đúng lúc, qưới nhân
+ @fairy lamps   (fairy-lights) @fairy lights   (fairy-lights) @fairydom  
+*  dt
+- tiên chức
+- cảnh tiên; thế giới thần tiên
+
+@fairyhood  
+*  dt
+- tiên chức
+
+@fairyism  
+*  dt
+- đạo thờ tiên
+
+@fairyland  
+*  dt
+- tiên giới, chốn thiên tiên, nơi tiên cảnh
+
+@fairy-land
+* dt
+- tiên cảnh; tiên giới; chốn thần tiên
+ @fairy-like
+* tt
+- đẹp như tiên
+ @fairy-tale  
+*  dt
+- chuyện tiên, chuyện thần kỳ
+- chuyện bịa, chuyện khó tin
+- chuyện tình cờ
+- sự tiến bộ thần kỳ
+
+@fait accompli  
+*  dt
+- việc đã rồi
+
+@faith  
+*  dt
+- sự tin tưởng, sự tin cậy
+
++ to oin one's faith upon something: tin tưởng vào cái gì
+- niềm tin
+- vật làm tin, vật bảo đảm
+
++ on the faith of: tin vào
+- lời hứa, lời cam kết
+
++ to pledge (give) one's faith: hứa, cam kết
+
++ to break (violate) one's faith: không giữ lời hứa
+- sự trung thành; lòng trung thành, lòng trung thực
+
++ good faith: thiện ý
+
++ bad faith: ý xấu, ý muốn lừa lọc
+!punic faith
+- sự lừa lọc, sự lật lọng, sự lừa đảo
+
+@faith-cure  
+*  dt
+- sự chữa bệnh bằng cầu khẩn, sự chữa bệnh bằng lòng tin; phép chữa bệnh bằng lòng tin
+
+@faith-curer   (faith-healer) @faithful  
+*  tt
+- trung thành, chung thuỷ, trung nghĩa
+- có lương tâm
+- đáng tin cậy
+- trung thực, chính xác
+
++ a faithful report: báo cáo trung thực, báo cáo chính xác
+!the faithful
+- những người ngoan đạo
+- những tín đồ đạo Hồi
+- những người trung thành
+
+@faithful
+- đúng, khớp; chính xác
+ @faithfully  
+*  dt
+- trung thành, chung thuỷ
+- trung thực, chính xác
+!to deal faithfully with
+- nói thật với (ai), nói thật về (một vấn đề)
+!to promise faithfully
+- (thông tục) hứa một cách chắc chắn
+!yours faithfully
+- yours
+
+@faithfulness  
+*  dt
+- lòng trung thành, lòng chung thuỷ
+- tính trung thực, tính chính xác
+
+@faith-healer   (faith-healer) @faith-healing
+* dt
+- phép chữa bệnh bằng đức tin
+ @faithless  
+*  tt
+- không có niềm tin, vô đạo
+- xảo trá, lật lọng
+- không giữ lời hứa
+- không tin cậy được
+
+@faithlessly
+* dt
+- xảo trá, lật lọng
+ @faithlessness  
+*  dt
+- sự không tin (vào tôn giáo), sự vô đạo
+- tính xảo trá, tính lật lọng
+- sự thất tín; sự bất trung
+- sự không tin cậy được
+
+@faith-state
+* dt
+- trạng thái say sưa tôn giáo
+ @faitour
+* dt
+- người xảo trá, người bịp bợm
+ @fajia
+* dt
+- Học thuyết cho rằng phải dùng luật pháp và hình phạt nghiêm khằc thì mới kiểm soát được xã hội loài người, đồng thời quyền tự do của cá nhân phải phục tùng mục đìch xây dựng một quốc gia hùng mạnh dưới sự lãnh đạo của một người có quyền lực tuyệt đối; thuyết Pháp gia (trong lịch sử Trung Quốc cổ đại)
+* dt
+- Học thuyết cho rằng phải dùng luật pháp và hình phạt nghiêm khằc thì mới kiểm soát được xã hội loài người, đồng thời quyền tự do của cá nhân phải phục tùng mục đìch xây dựng một quốc gia hùng mạnh dưới sự lãnh đạo của một người có quyền lực tuyệt đối; thuyết Pháp gia (trong lịch sử Trung Quốc cổ đại)
+ @fake  
+*  dt
+- (hàng hải) vòng dây cáp
+*  ngdgt
+- (hàng hải) cuộn (dây cáp)
+*  dt
+- vật làm giả, đồ giả mạo; đồ cổ giả mạo
+- báo cáo bịa
+- (định ngữ) giả, giả mạo
+*  ngdgt
+- làm giống như thật
+- làm giả, giả mạo
+- (từ Mỹ,nghĩa Mỹ) ứng khẩu (một đoạn nhạc ja)
+
+@fakement  
+*  dt
+- sự làm giống như thật; sự làm giả
+
+@faker  
+*  dt
+- kẻ giả mạo, kẻ lừa đảo
+- (từ Mỹ,nghĩa Mỹ) người bán rong đồ nữ trang rẻ tiền
+
+@fakery  
+*  dt
+- sự làm giả
+- vật làm giả
+
+@fakir   (faquir) @fakirism
+* dt
+- cách tu khổ hạnh của các fakia ấn Độ
+ @falangist  
+*  dt
+- đảng viên đảng Pha-lăng (một đảng phát xít ở Tây-ban-nha)
+
+@falbala  
+*  dt
+- viền đăng ten, riềm ren
+
+@falcate  
+*  tt
+- (sinh vật học) cong hình lưỡi liềm
+
+@falcated  
+*  tt
+- (thiên văn học) hình lưỡi liềm
+
+@falcation
+* dt
+- tình trạng có dạng liềm
+ @falchion  
+*  dt
+- mã tấu
+
+@falciform  
+*  tt
+- (giải phẫu) hình lưỡi liềm
+
+@falcon  
+*  dt
+- (động vật học) chim ưng, chim cắt
+
+@falconer  
+*  dt
+- người nuôi chim ưng
+- người săn bằng chim ưng
+
+@falconet  
+*  dt
+- (sử học) súng đại bác loại nhẹ, pháo tiểu cao
+- (động vật học) chim ưng nhỏ, chim cắt nhỏ
+
+@falconine
+* tt
+- giống như chim ưng; thuộc chim ưng
+ @falconry  
+*  dt
+- nghề nuôi chim ưng; thuật nuôi chim ưng
+- sự đi săn bằng chim ưng
+
+@falcula
+* tt
+- có vuốt dạng liềm
+ @falderal   (folderol) @faldstool
+* dt
+- ghế cầu kinh
+- bàn đọc kinh ở nhà thờ
+- ghế của giám mục
+ @falernian  
+*  dt
+- rượu vang falec
+
+@faliau   (faliaux) @faliaux   (faliaux) @faliscan
+* dt
+- phương ngữ Falisi ở Italia
+ @fall  
+*  dt
+- sự rơi, sự ngã; sự rụng xuống (lá); sự rũ xuống; sự hạ
+- sự sụp đổ, sự suy sụp (của một đế quốc...); sự sa sút, sự mất địa vị, sự xuống thế, sự xuống dốc (của một người...)
+- sự sụt giá, sự giảm giá
+- (thể dục,thể thao) sự vật ngã; keo vật
+
++ to try a fall: vật thử một keo
+- sự sa ngã (đàn bà)
+- lượng mưa, lượng tuyết
+- số lượng cây ngả; số lượng gỗ xẻ
+- hướng đi xuống; dốc xuống
+- (số nhiều) thác
+
++ the Niagara falls: thác Ni-a-ga-ra
+- sự đẻ (của cừu); lứa cừu con
+- dây ròng rọc
+- lưới che mặt, mạng che mặt (của phụ nữ)
+- (từ Mỹ,nghĩa Mỹ) mùa lá rụng, mùa thu
+!the fall of day
+- lúc chập tối
+!the fall of night
+- lúc màn đêm buông xuống
+!pride will have a fall
+- (tục ngữ) trèo cao ngã đau
+!to ride for a fall
+- (xem) ride
+*  ndgt fallen
+- rơi, rơi xuống, rơi vào ((nghĩa đen) & (nghĩa bóng))
+
++ to fall out of the window: rơi ra ngoài cửa sổ
+
++ to fall to pieces: rơi vỡ tan tành
+
++ to fall to somebody's lot: rơi vào số phận ai
+
++ to fall into the hands of the enemy: rơi vào tay kẻ địch
+
++ the accent falls on the third syllable: trọng âm rơi vào âm tiết thứ ba
+
++ the meeting falls on Friday: cuộc mít tinh rơi vào ngày thứ sáu
+- rủ xuống, xoã xuống (tóc...); rụng xuống (lá); ngã
+
++ to fall flat to the ground: ngã sóng soài dưới đất
+- hạ thấp, xuống thấp, xịu xuống; dịu đi, nguôi đi
+
++ curtain falls: mà hạ
+
++ temperature 's: độ nhiệt xuống thấp
+
++ prices fall: giá cả hạ xuống
+
++ face falls: mặt xịu xuống
+
++ voice falls: giọng nói khẽ đi
+
++ eyes fall: mắt cụp xuống
+
++ wind falls: gió dịu đi
+
++ anger falls: cơn giận nguôi đi
+- đổ nát, sụp đổ
+
++ houses fall: nhà cửa đổ nát
+- mất địa vị, bị hạ bệ, xuống thế, sa sút, xuống dốc
+
++ to fall very low: sa sút quá, xuống dốc quá
+
++ to fall in somebody's esteem: mất lòng quý trọng của ai
+- sa ngã (đàn bà)
+- thất bại, thất thủ
+
++ plans fall to the ground: kế hoạch thất bại
+
++ fortress falls: pháo đài thất thủ
+- hy sinh, chết, ngã xuống ((nghĩa bóng))
+
++ many fell: nhiều người bị hy sinh (trong chiến trận)
+- buột nói ra, thốt ra
+
++ the news fell from his lips: hắn buộc miệng nói ra tin đó
+- sinh ra, đẻ ra (cừu con...)
+- (: into) được chia thành thuộc về
+
++ the books falls three parts: cuốn sách được chia làm ba phần
+
++ to fall into the category: thuộc vào loại
+- bị (rơi vào tình trạng nào đó...)
+
++ to fall into error: bị lầm lẫn
+
++ to fall ill: bị ốm
+
++ to fall on evil days: bị sa cơ thất thế
+- dốc xuống
+
++ the land falls in gentle slopes to the sea: đất dốc thoai thoải xuống biển
+- đổ ra
+
++ the river falls to the sea: sông đổ ra biển
+- bắt đầu
+
++ to fall to work at once: bắt tay vào việc ngay lập tức
+
++ to fall into conversation: bắt đầu nói chuyện
+- xông vào
+
++ to fall on the enemy: xông vào kẻ địch
+*  ngdgt
+- (tiếng địa phương); (từ Mỹ,nghĩa Mỹ) chặt, hạ (cây)
+!to fall across
+- tình cờ gặp (ai)
+!to fall among
+- tình cờ rơi vào đám (người nào...)
+!to fall away
+- bỏ, rời bỏ, bỏ rơi (ai...); ly khai (đạo, đảng)
+- héo mòn đi, gầy mòn đi
+- biến đi
+!to fall back
+- ngã ngửa
+- rút lui
+!to fall back on (upon)
+- phải cầu đến, phải dùng đến (cái gì)
+!to fall behind
+- thụt lùi, bị tụt lại đằng sau
+- (từ Mỹ,nghĩa Mỹ) không trả được đúng hạn, còn thiếu lại, còn nợ lại
+!to fall down
+- rơi xuống, ngã xuống, sụp xuống, sụp đổ
+
++ thtục to fall down on: thất bại (không thành công) trong (việc gì...)
+!to fall for
+- (từ lóng) mê tít, phục lăn
+- mỹ bị bịp, bị chơi xỏ
+!to fall in
+- (quân sự) đứng vào hàng
+- (thông tục) vào trong lùi vào trong (ngôi nhà)
+- đến lúc phải thanh toán (nợ); hết hạn (hợp đồng thuê nhà)
+- sập, lún, sụp đổ (mái nhà...)
+!to fall in with
+- tình cờ gặp (ai)
+- theo, tán đồng (quan điểm của ai...); đồng ý với (ai); (từ Mỹ,nghĩa Mỹ) chiều ý, theo ý (ai)
+- trùng hợp với
+!to fall off
+- rơi xuống
+- rút, giảm sút; thoái hoá, tàn tạ, suy đồi
+- (hàng hải) không ăn theo tay lái
+- nổi dậy, bỏ hàng ngũ
+!to fall on
+- nhập trận, tấn công
+- bắt đầu ăn uống
+!to fall out
+- rơi ra ngoài; xoã ra (tóc)
+- cãi nhau, bất hoà
+
++ to fall out with somebody: cãi nhau với ai, bất hoà với ai
+- hoá ra là, thành ra là, dẫn đến kết quả là
+!it fell out that
+- hoá ra là, thành ra là
+
++ to fall out well: dẫn đến kết quả tốt
+- (quân sự) bỏ hàng, ra ngoài hàng
+
++ to fall out of: bỏ (một thói quen...)
+!to fall over
+- ngã lộn nhào, bị đổ
+
++ to fall over an obstacle: va vào một chướng ngại và ngã lộn nhào
+!to fall through
+- hỏng, thất bại; không đi đến kết quả nào
+!to fall to
+- bắt đầu
+- bắt đầu tấn công; bắt đầu ăn
+
++ now, let's fall to!: (thông tục) noà bây giờ chúng ta hãy tấn công (bắt đầu ăn) đi nào!
+!to fall under
+- được liệt vào, được xếp loại vào
+- ở dưới (sự quan sát...); chịu (ảnh hưởng của ai...)
+!to fall upon
+- tấn công
+!to fall within
+- nằm trong, gồm trong
+!to fall due
+- đến kỳ phải trả, đến hạn
+!to fall flat
+- (xem) flat
+!to fall foul of
+- (xem) foul
+!to tall in love with
+- (xem) love
+!to fall into a habit
+- (xem) habit
+!to fall into line
+- đứng vào hàng
+!to fall into line with
+- đồng ý với
+!to fall into a rage
+- giận điên lên, nổi cơn tam bành
+!to fall on one's sword
+- tự tử, tự sát
+!to fall over backwards
+- đi đến chỗ cực đoan
+- hết sức sốt sắng đồng ý
+!to fall over each other
+- đánh lộn, ẩu đả; cạnh tranh xâu xé nhau kịch liệt
+!to fall a prey to
+!to fall a sacrifice to
+- làm mồi cho
+!to fall short
+- thiếu, không đủ
+- không tới đích (đạn, tên lửa...)
+!to fall short of
+- thất bại, không đạt (mục đích...)
+
++ your work falls short of my expectations: công việc làm của anh không được như ý tôi mong đợi
+!to fall on (upon) one's feet
+- thoát khỏi khó khăn, lại đứng vững chân
+!to fall a victim to
+- là nạn nhân của
+
+@fall
+- sự rơi; cột nước, bậc nước, thác nước
+- free f. sự rơi tự do 
+ @fall time
+- (Tech) thời gian tụt hậu, thời gian giảm
+ @fallacious  
+*  tt
+- dối trá, gian dối, lừa dối, trá nguỵ
+- ảo tưởng
+
+@fallaciousness  
+*  dt
+- tính chất gian dối, tính chất lừa dối, tính chất trá nguỵ
+
+@fallacy  
+*  dt
+- ảo tưởng; sự sai lầm; ý kiến sai lầm
+- nguỵ biện; thuyết nguỵ biện
+- tính chất dối trá, tính chất lừa dối, tính chất trá nguỵ
+!pathetic fallacy
+- sự nhân cách hoá thiên nhiên, sự nhân cách hoá các vật vô tri
+
+@fallacy
+- nguỵ lý, nguỵ biện
+ @Fallacy of composition
+- (Econ) Nguỵ biện về hợp thể; 'Khái niệm sai lầm do gôm gộp @fal-lal  
+*  dt
+- vật trang trí
+- quần là áo lượt
+
+@fallal
+* dt
+- đồ trang sức rẻ tiền
+ @fall-back
+- (Tech) trả lại, phục hồi; dự trữ; rút lui
+ @fallback
+* dt
+- vật dự trữ; sự rút lui
+ @fall-cloud
+* dt
+- tầng mây thấp
+ @fall-dipthong
+* dt
+- nguyên âm đôi đi xuống (yếu tố thứ nhất nổi bật hơn)
+ @fall-door
+* dt
+- cửa treo
+ @fallen
+* dt, pl
+- những người thiệt mạng vì chiến tranh
+ @faller
+* dt
+- (kỹ thuật) thanh (mang) kim
+* dtgười đẵn gỗ; tiều phu
+- người hay vật bị rơi xuống
+ @fallers
+* dt
+- chốt hãm thùng cũi (để vận chuyển trong giếng mỏ)
+ @fall-guy  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) anh chàng giơ đầu chịu báng, anh chàng bung xung
+
+@fallibility  
+*  dt
+- sự có thể sai lầm; sự có thể là sai
+
+@fallible  
+*  tt
+- có thể sai lầm; có thể là sai
+
+@falling star  
+*  dt
+- sao băng
+
+@falling-stone
+* dt
+- vẫn thạch
+ @fallopian  
+*  tt
+- (giải phẫu) fallopian tubes ống Fa-lốp, ống dẫn trứng
+
+@fall-out  
+*  dt
+- phóng xạ nguyên tử
+- bụi phóng xạ
+
+@fallow  
+*  dt
+- đất bỏ hoá; đất bỏ hoang
+*  tt
+- bỏ hoá, không trồng trọt (đất)
+- không được trau dồi, không được rèn luyện (trí tuệ, trí óc)
+*  ngdgt
+- bỏ hoá
+- làm (đất), (cày, bừa, đập để gieo hạt, để diệt cỏ)
+
+@fallow-deer  
+*  dt
+- (động vật học) con đama
+
+@fallowing
+* dt
+- tình trạng hoang hoá, không trồng trọt
+- phép để hoá
+ @fall-trap
+* dt
+- hầm sập để bắt thú
+- cái bẫy
+ @falschood
+- (logic học) sự sai
+ @false  
+*  tt
+- sai, nhầm
+
++ a false idea: ý kiến sai
+
++ a false note: (âm nhạc) nốt sai
+
++ false imprisonment: sự bắt tù trái luật
+- không thật, giả
+
++ a false mirror: gương không thật
+
++ a false coin: tiền giả
+
++ false hair: tóc giả
+- dối trá, lừa dối, phản trắc; giả dối
+!false alarm
+- báo động giả; báo động lừa
+!false card
+- quân bài đánh lừa (đánh khác lệ thường nhằm đánh lừa đối phương)
+!false position
+- thế trái cựa
+!on (under) false pretences
+- pretence
+*  dt
+- dối, lừa
+
++ to play someone false: lừa ai, phản ai
+
+@false
+- (logic học) sai
+ @false bottom  
+*  dt
+- đáy giả (ở tủ, hòm... dưới đó còn có một ngăn bí mật)
+
+@false signal
+- (Tech) tín hiệu sai
+ @false step  
+*  dt
+- bước lỡ, bước hụt
+- sự sai lầm, sự lầm lỡ
+
+@False trading
+- (Econ) Thương mại lừa dối.
+: Hoạt động thương mại theo mức giá phi cân bằng.
+ @false-faced
+* tt
+- giả vờ ngoài mặt
+ @false-hearted  
+*  tt
+- lọc lừa, dối trá, phản trắc, phản phúc
+
+@falsehood  
+*  dt
+- sự sai lầm; điều sai lầm, thuyết sai lầm, điều tin tưởng sai lầm, ý nghĩ sai lầm
+- sự nói dối, sự lừa dối; lời nói dối
+
+@falsely  
+*  dt
+- sa lầm
+- giả dối; quay quắt
+
+@falseness  
+*  dt ((cũng) falsity)
+- sự sai lầm
+- tính giả dối; tính lừa dối, tính lọc lừa, tính phản trắc
+
+@false-swearer
+* dt
+- lời thề giả dối
+ @false-swearing
+* dt
+- lời thề giả dối
+ @false-teeth
+* dt số nhiều
+- răng giả
+ @falsetto  
+*  dt
+- giọng the thé (đàn ông)
+
++ in falsetto; in a falsetto tone: với giọng the thé (thường giả vờ bực tức)
+- người đàn ông có giọng the thé
+
+@falsework  
+*  dt
+- (kiến trúc) cốp-pha
+
+@falsi
+- regular f. phương pháp đặt sai 
+ @falsidial
+* tt
+- giả dối (bụng); dối trá
+ @falsier  
+*  dt số nhiều
+- (thông tục) vú giả
+
+@falsies
+* dt, pl
+- <thgt> vú giả
+ @falsification  
+*  dt
+- sự làm giả (tài liệu)
+- sự xuyên tạc, sự bóp méo (sự việc)
+- sự làm sai lệch
+- sự chứng minh là không có căn cứ (hy vọng, mối lo sợ...)
+
+@falsify  
+*  ngdgt
+- làm giả, giả mạo (tài liệu)
+- xuyên tạc, bóp méo (sự việc)
+- làm sai lệch
+- chứng minh là không có căn cứ (hy vọng, mối lo sợ...)
+
+@falsity  
+*  dt
+- (như) falseness
+- điều lừa dối, lời nói dối
+
+@falstaffian  
+*  tt
+- béo và hay khôi hài (giống như Fan-xtáp, một nhân vật trong kịch của Xếch-xpia)
+
+@falstool  
+*  dt
+- ghế đẩu (của giám mục)
+- ghế cầu kinh (để quỳ gối)
+- bản đọc kinh
+
+@falt tire  
+*  dt
+- lốp bẹp, lốp xì hơi
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người khó chịu, người quấy rầy
+
+@falt-boat  
+*  dt
+- thuyền đáy bằng
+
+@falt-bottomed  
+*  tt
+- có đáy bằng (thuyền...)
+
+@falter  
+*  ndgt
+- dao động, nản chí, chùn bước, nao núng
+- nói ấp úng, nói ngập ngừng
+
++ to falter out: ấp úng nói ra, ấp úng thốt ra
+- đi loạng choạng
+- vấp ngã
+*  ngdgt
+- ấp úng nói ra, ngập ngừng nói ra
+
+@faltering  
+*  tt
+- ấp úng, ngập ngừng (giọng nói...)
+- loạng choạng (bước đi)
+- sút kém, nao núng (tinh thần, trí nhớ...)
+
+@falteringly
+* dt
+- ấp úng, ngập ngừng
+ @faltterer  
+*  dt
+- người tâng bốc, người xu nịnh, người bợ đỡ
+
+@faltteringly  
+*  dt
+- tâng bốc, xu nịnh, bợ đỡ
+
+@faltung
+- tích chập
+ @faluns
+* dt
+- (địa chất) đất vỏ sò
+ @falx
+* dt
+- số nhiều falces
+- (động vật) (giải phẫu) nếp dạng liềm; thể liềm
+ @fam
+* (viết tắt)
+- bộ nhớ truy cập nhanh (fast  access  memory)
+- viết tắt
+- bộ nhớ truy cập nhanh (fast  access  memory)
+ @fame  
+*  dt
+- tiếng tăm, danh tiếng, danh thơm, tên tuổi
+
++ to win fame: nổi tiếng, lừng danh
+- tiếng đồn
+!house of ill fame
+- nhà chứa, nhà thổ
+
+@famed  
+*  tt
+- nổi tiếng, lừng danh
+
++ famed for valour: nổi tiếng dũng cảm
+- được đồn
+
+@familial  
+*  tt
+- (thuộc) gia đình; (thuộc) người trong gia đình
+
+@familiar  
+*  tt
+- thuộc gia đình
+- thân thuộc, thân; quen thuộc, quen (với một vấn đề)
+- thông thường
+- không khách khí; sỗ sàng, suồng sã, lả lơi
+- (: with) là tình nhân của, ăn mằm với
+*  dt
+- bạn thân, người thân cận, người quen thuộc
+- người hầu (trong nhà giáo hoàng)
+
+@familiar
+- quen thuộc, thường; thông thường
+ @familiarisation
+* dt
+- sự phổ biến (một vấn đề)
+- sự làm cho quen (với vấn đề gì, công việc gì...)
+ @familiarise   (familiarise) @familiarity  
+*  dt
+- sự thân mật
+- sự quen thuộc (với ai); sự quen thuộc, sự hiểu biết (một vấn đề)
+- sự đối xử bình dân (với kẻ dưới)
+- sự không khách khí; sự sỗ sàng, sự suồng sã, sự lả lơi
+- sự vuốt ve, sự âu yếm
+- sự ăn nằm với (ai)
+!familirity breeds contempt
+- contempt
+
+@familiarization  
+*  dt
+- sự phổ biến (một vấn đề)
+- sự làm cho quen (với vấn đề gì, công việc gì...)
+
+@familiarize   (familiarise) @familiarly  
+*  dt
+- thân mật
+- không khách khí; suồng sã
+
+@family  
+*  dt
+- gia đình, gia quyến
+
++ a large family: gia đình đông con
+- con cái trong gia đình
+- dòng dõi, gia thế
+
++ of family: thuộc dòng dõi trâm anh
+- chủng tộc
+- (sinh vật học),  (ngôn ngữ học) họ
+!in a family way
+- tự nhiên như người trong nhà
+- (từ Mỹ,nghĩa Mỹ) có mang
+!in the family way
+- có mang
+!happy family
+- thú khác loại nhốt chung một chuồng
+
+@family
+- họ, tập hợp, hệ thống
+- f. of circles họ vòng tròn
+- f. of ellipses họ elip
+- f. of spirals họ đường xoắn ốc
+- f. of straight lines họ đường thẳng 
+- f. of surfaces họ mặt
+- cocompatible f. họ đối tương thích
+- complete f. (đại số) họ đầy đủ
+- confocal f. họ đồng tiêu
+- normal f. of analytic function họ chuẩn tắc các hàm giải tích 
+- n-parameter f. of curves họ n-tham số của đường cong
+- one-parameter f. họ một tham số 
+ @family allowance  
+*  dt
+- phụ cấp gia đình
+
+@family bible  
+*  dt
+- quyển kinh thánh gia đình (có một số trang để ghi ngày sinh tháng đẻ, ngày cưới, ngày chết của người trong gia đình)
+
+@family butcher  
+*  dt
+- người bán thịt cho các gia đình (khác với người bán thịt cho quân đội)
+
+@family circle  
+*  dt
+- nhóm người thân thuộc bè bạn trong gia đình
+
+@Family credit
+- (Econ) Tín dụng gia đình.
+: XemBEVERIGDE REPORT
+ @family doctor
+* dt
+- thầy thuốc gia đình
+ @Family expenditure survey
+- (Econ) Điều tra chi tiêu gia đình.
+: Một cuộc điều tra chọn mẫu hàng năm về xu hướng chi tiêu của các hộ gia đình do chính phủ Anh tiến hành.
+ @family likeness  
+*  dt
+- sự hao hao giống
+
+@family man  
+*  dt
+- người có gia đình
+- người chỉ thích sống trong gia đình; người hy sinh hết cho gia đình
+
+@family name  
+*  dt
+- họ
+
+@family planning  
+*  dt
+- sự kế hoạch hoá sinh đẻ; sự sinh đẻ có kế hoạch
+
+@family tree  
+*  dt
+- cây gia hệ, sơ đồ gia hệ
+
+@Family-unit agriculture
+- (Econ) (kinh tế) nông nghiệp theo hộ gia đình; Nông nghiệp theo đơn vị gia đình.
+: Hệ thống nông nghiệp phổ biến ở các vùng chậm phát triển dựa trên cơ sở gia đình.
+ @famine  
+*  dt
+- nạn đói kém
+
++ to die of famine: chết đói
+- sự khan hiếm
+
++ water famine: sự hiếm nước
+
++ famine prices: giá đắt, giá cắt cổ (vì khan hiếm)
+
+@famish  
+*  ndgt
+- đói khổ cùng cực
+- (từ Mỹ,nghĩa Mỹ) làm chết đói
+
+@famous  
+*  tt
+- nổi tiếng, nổi danh, trứ danh
+- (thông tục) cừ, chiến
+
+@famously  
+*  dt
+- (thông tục) hay, giỏi, tốt, cừ, chiến
+
+@famousness  
+*  dt
+- sự nổi tiếng, sự nổi danh
+
+@famuli  
+*  dt,  số nhiều famuli  @famulus  
+*  dt,  số nhiều famuli  @fan  
+*  dt
+- người hâm mộ, người say mê
+
++ film fans: những người mê chiếu bóng
+
++ football fans: những người hâm mộ bóng đá
+*  dt
+- cái quạt
+
++ an electric fan: quạt máy, quạt điện
+- cái quạt lúa
+- đuổi chim, cánh chim (xoè ra như cái quạt)
+- (hàng hải) cánh chân vịt; chân vịt
+- bản hướng gió (ở cối xay gió)
+*  ngdgt
+- quạt (thóc...)
+- thổi bùng, xúi giục
+
++ to fan the flame of war: thổi bùng ngọn lửa chiến tranh
+- trải qua theo hình quạt
+*  ndgt
+- quạt
+- thổi hiu hiu (gió)
+- xoè ra như hình quạt
+!to fan the air
+- đấm gió
+
+@fan antenna
+- (Tech) ăngten hình quạt
+ @fan mail  
+*  dt
+- thư của các người hâm mộ
+
+@fan tracery  
+*  dt
+- (kiến trúc) trang trí hình nan quạt (ở vòm trần)
+
+@fan vaulting  
+*  dt
+- (kiến trúc) vòm trần trang trí hình nan quạt
+
+@fanatic  
+*  dt
+- người cuồng tín
+*  tt: (fanatical) @fanatical  
+*  dt
+- người cuồng tín
+*  tt: (fanatical) @fanatically
+* dt
+- cuồng nhiệt, say mê
+ @fanaticise   (fanaticise) @fanaticism  
+*  dt
+- sự cuồng tín
+
+@fanaticize   (fanaticise) @fan-blade  
+*  dt
+- (kỹ thuật) cánh quạt
+
+@fancier  
+*  dt
+- người sành; người thích chơi
+
++ a flower fancier: người sành hoa; người thích chơi hoa
+
+@fanciful  
+*  tt
+- thích kỳ lạ
+- kỳ cục, kỳ khôi
+
++ fanciful costumes: những bộ quần áo kỳ cục
+- đồng bóng
+- tưởng tượng, không có thật
+
++ a fanciful tale: câu chuyện tưởng tượng
+
+@fancifully
+* dt
+- kỳ lạ, lạ thường
+ @fancifulness  
+*  dt
+- tính chất kỳ lạ
+- tính đồng bóng
+- tính chất tưởng tượng, tính chất không có thật
+
+@fanciless
+* tt
+- không có sức tưởng tượng
+ @fancrested
+* tt
+- có cái mào hình quạt (chim)
+ @fancy  
+*  dt
+- sự tưởng tượng
+- sự võ đoán
+- tính đồng bóng
+- ý muốn nhất thời
+- sở thích, thị hiếu
+
++ the fancy: những người hâm mộ (một môn thể thao gì); những người thích (một thú riêng gì); những người hâm mộ quyền Anh
+*  tt
+- có trang hoàng, có trang trí
+
++ fancy dress: quần áo cải trang
+
++ fancy goods: hàng hoá có trang trí đẹp
+- nhiều màu (hoa)
+- lạ lùng, vô lý
+
++ at a fancy price: với giá đắt lạ lùng
+- đồng bóng
+- tưởng tượng
+
++ a fancy picture: bức tranh tưởng tượng
+- để làm cảnh, để trang hoàng
+
++ fancy pigeon: chim bồ câu nuôi làm cảnh
+*  ngdgt
+- tưởng tượng, cho rằng, nghĩ rằng
+- mến, thích
+- nuôi (súc vật) làm cảnh, trồng (cây) làm cảnh
+!fancy!
+- ồ!
+!fancy his believing it!
+- hắn lại tin cái đó mới lạ chứ
+
+@fancy!
+- thành ngữ fancy
+- thành ngữ fancy
+ @fancy man  
+*  dt
+- người yêu
+- (từ lóng) ma cô, kẻ sống bám vào gái điếm
+
+@fancy woman  
+*  dt
+- nhân tình, gái bao
+- gái điếm
+
+@fancy-ball
+* dt
+- vũ hội hoá trang
+ @fancy-bazaar
+* dt
+- hiệu bán đồ xa xỉ phẩm
+ @fancy-colour
+* tt
+- màu sắc ngộ nghĩnh
+ @fancy-dog
+* dt
+- con chó ngộ nghĩnh
+ @fancy-dress
+* dt
+- quần áo cải trang, quần áo ngộ nghĩnh
+ @fancy-fair
+* dt
+- việc bán hàng từ thiện
+ @fancy-free  
+*  tt,  (từ Mỹ,nghĩa Mỹ)
+- chưa có vợ, chưa có chồng, chưa đính ước với ai, chưa yêu ai
+- vô tư lự, không lo nghĩ
+
+@fancy-work  
+*  dt
+- đồ thêu thùa
+
+@fandangle  
+*  dt
+- vật trang trí kỳ lạ
+
+@fandango  
+*  dt,  số nhiều fandangoes  @fane  
+*  dt
+- (thơ ca) đền miếu
+
+@fanfare  
+*  dt
+- kèn lệnh ((cũng) fanfaronade)
+- (từ Mỹ,nghĩa Mỹ) sự phô trương ầm ỹ; sự phô trương loè loẹt
+
+@fanfaronade  
+*  dt
+- sự khoe khoang khoác lác; lời khoe khoang khoác lác, lời nói phách
+- kèn lệnh ((cũng) fanfare)
+
+@fang  
+*  dt
+- răng nanh (của chó)
+- răng nọc (của rắn)
+- chân răng
+- cái chuôi (dao...) (để trao vào cán)
+*  ngdgt
+- mồi (máy bơm trước khi cho chạy)
+
+@fanged  
+*  tt
+- có răng nanh
+- có răng nọc
+- có chân răng
+
+@fangless  
+*  tt
+- không có răng nanh
+- không có răng nọc
+- không có chân răng
+
+@fan-in
+- (Tech) (lượng) gộp nhánh vào
+ @fan-in loading
+- (Tech) tải vào
+ @fanion
+* dt
+- lá cờ nhỏ
+ @fanleaved
+* tt
+- (thực vật) kết lá dạng quạt
+ @fan-letter
+* dt
+- bức thư gửi viết trên quạt
+ @fan-light  
+*  dt
+- cửa sổ hình bán nguyệt (trên cửa ra vào)
+
+@fanlight
+* dt
+- cửa sổ hình bán nguyệt
+ @fan-like
+* tt
+- hình quạt
+ @fan-mail
+* dt
+- thư của người hâm mộ
+- thư viết trên quạt
+ @fanner  
+*  dt
+- người quạt
+- cái quạt thóc
+
+@fanny  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mông đít
+
+@fan-out
+- (Tech) (lượng) phân nhánh ra
+ @fan-out loading
+- (Tech) tải ra
+ @fan-shaped
+* tt
+- dạng quạt
+ @fan-stick
+* dt
+- nan quạt
+ @fan-tail  
+*  dt
+- đuôi hình quạt
+- chim bồ câu đuôi quạt
+
+@fantail
+* dt
+- chim bồ câu đuôi quạt
+ @fan-tan  
+*  dt,  (đánh bài)
+- xóc đĩa
+- lối chơi bài fantan
+
+@fantasia  
+*  dt
+- (âm nhạc) khúc phóng túng
+
+@fantasied
+* tt
+- chỉ có trong trí tưởng tượng
+ @fantasist
+* dt
+- người sáng tác ca khúc phóng túng, thơ tùy hứng
+ @fantasize
+* ngdgt
+- mơ màng viển vông
+
++  She fantasizes herself as very wealthy:cô ta mơ màng viển vông cho mình là rất giàu có
+ @fantasm
+* dt
+- ảo ảnh
+ @fantast   (phantast) @fantastic  
+*  tt
+- kỳ quái, quái dị, lập dị
+- đồng bóng
+- vô cùng to lớn
+
++ a fantastic sum of money: một món tiền vô cùng to lớn
+- (từ hiếm,nghĩa hiếm) tưởng tượng, không tưởng
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người kỳ cục, người lập dị
+
+@fantasticality  
+*  dt
+- tính kỳ quái, tính quái dị
+- cái kỳ quái, cái quái dị
+
+@fantastically
+* dt
+- cừ, chiến, tuyệt vời
+ @fantasticism  
+*  dt
+- sự kỳ quái, tính quái dị, tính lập dị
+- tính đồng bóng
+- tính chất tưởng tượng
+
+@fantasy   (phantasy) @fantoccini  
+*  dt số nhiều
+- con rối
+- trò múa rối
+
+@fantom  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (như) phantom
+
+@fan-tracery
+* dt
+- (kiến trúc) trang trí vòm trần hình nan quạt
+ @fan-wise
+* tt
+- hình quạt mở rộng
+ @fanzine
+* dt
+- tờ báo cho những người ham mê cuồng nhiệt (khoa học viễn tưởng,  (điện ảnh))
+ @FAO
+- (Econ) Xem FOOD AND AGRICULTURE ORGANIZATION.
+ @fao
+* (viết tắt)
+- Tổ chức lương nông của Liên hợp quốc (Food and Agriculture Organization)
+ @faq
+- Viết tắt của Frequently Asked Questions: Các Câu Thường Hỏi
+ @FAQ 
++  Frequently Asked Questions
+- (Tech) Những Câu Thường Hỏi
+ @faquir   (faquir) @far  
+*  tt farther,  further,  farthest,  furthest
+- xa, xa xôi, xa xăm
+!a far cry
+- (xem) cry
+*  dt farther,  further,  farthest,  furthest
+- xa
+
++ far out in the sea: xa xa ngoài biển khơi
+
++ far from perfect: còn xơi mới được hoàn hảo
+
++ far from beautiful: còn xơi mới đẹp
+- nhiều
+
++ far different: khác nhiều; khác xa
+
++ far better: tốt hơn nhiều
+!as far as
+- (xem) as
+!far and away
+- (xem) away
+!far and near
+- (xem) near
+!far and wide
+- rộng khắp, khắp mọi nơi
+!far be it from me
+- không khi nào tôi..., không đời nào tôi...
+
++ far be it from me to do it: không khi nào tôi làm việc đó
+!far from it
+- không chút nào
+!to go far
+- (xem) go
+!how far
+- xa bao nhiêu; tới chừng mức nào
+![in] so far as
+- tới một chừng mức mà; dù tới một chừng mức nào
+!so far
+- tới một mức độ như vậy, xa đến như vậy
+- cho đến đây, cho đến bây giờ
+
++ so far so good: cho đến đây mọi việc đều tốt lành; cho đến bây giờ mọi việc đề ổn
+*  dt
+- nơi xa; khoảng xa
+
++ from far: từ ở (nơi) xa
+
++ do you come from far?: anh ở xa tới phải không?
+- số lượng nhiều
+
++ by far: nhiều, bỏ xa
+
++ he is by far the best student in the class: anh ta là học sinh giỏi vượt các học sinh khác ở lớp nhiều
+
++ to surpass by far: vượt xa
+
+@far
+- xa
+ @far end
+- (Tech) đầu xa
+ @farad  
+*  dt
+- (điện học) Fara
+
+@farad
+- (Tech) fara (đơn vị điện dung)
+ @faradaic  
+*  tt
+- (điện học) cảm ứng, ứng
+
+@faradaism
+* dt
+- xem faradization
+ @Faraday constant
+- (Tech) hằng số Faraday (Faraddê)
+ @Faradaýs law
+- (Tech) định luật Faraday
+ @faradic
+- (Tech) thuộc dòng điện sinh lý
+ @faradmeter
+- (Tech) máy đo fara
+ @farallon
+* dt
+- số nhiều farallones
+- đảo nhô cao lên giữa biển
+ @farandola
+* dt
+- cũng farandole
+- điệu vũ faranđôlơ (xứ Prôvăng,  Pháp)
+ @far-away  
+*  tt
+- xa xăm; xa xưa
+- lơ đãng, mơ màng (vẻ mặt)
+
+@far-between  
+*  tt
+- cách quãng, không thường xuyên, năm thì mười hoạ
+
+@farce  
+*  dt
+- trò khôi hài, trò hề ((nghĩa đen) & (nghĩa bóng))
+- kịch vui nhộn; thể kịch vui nhộn
+*  ngdgt
+- nhồi (thịt)
+- (nghĩa bóng) cho thêm mắm thêm muối
+- nhồi đầy (tác phẩm văn học)
+
++ a book farce d with Greek quotations: quyển sách nhồi đầy những trích dẫn Hy-lạp
+- (từ cổ,nghĩa cổ) cho gia vị
+
+@farceur  
+*  dt
+- người làm trò hề, người hay bông đùa
+- người viết kịch vui nhộn; người đóng kịch vui nhộn
+
+@farcical  
+*  tt
+- (thuộc) trò khôi hài; (thuộc) trò hề, có tính chất trò hề
+- nực cười; lố bịch
+
+@farcicality  
+*  dt
+- tính chất khôi hài; tính chất trò hề
+- tính chất nực cười; tính chất lố bịch
+
+@farcically
+* dt
+- khôi hài, lố bịch
+ @farcin
+* dt
+- (y học) bệnh lở ngứa (ngựa)
+ @farcy  
+*  dt
+- (thú) bệnh loét da (ngựa)
+
+@fardel  
+*  dt,  (từ cổ,nghĩa cổ)
+- gói, bọc
+- gánh nặng
+
+@fare  
+*  dt
+- tiền xe, tiền đò, tiền phà; tiền vé (tàu, máy bay...)
+- khách đi xe thuê
+- thức ăn, đồ ăn, chế độ ăn
+
++ plentiful fare: thức ăn thừa thãi
+
++ to be fond of good fare: thích ăn ngon
+*  ndgt
+- đi đường, đi du lịch
+- xảy ra, ở vào tình trạng (nào đó); làm ăn
+
++ how fares it?: tình hình thế nào?
+
++ he fared well in his business: nó làm ăn tốt trong việc kinh doanh
+- được khao, được thết
+- ăn uống, bồi dưỡng
+
++ to fare badly: ăn tồi
+!to fare well
+- có sức khoẻ tốt
+- công việc làm ăn ổn thoả
+- ăn ngon
+!to fare well with somebody
+- tâm đầu hợp ý với ai
+!to fare ill
+- có sức khoẻ kém
+- công việc làm ăn gặp khó khăn
+!to fare ill with something
+- gặp khó khăn về vấn đề gì; không may về vấn đề gì
+
+@far-end crosstalk
+- (Tech) xuyên âm đầu xa
+ @far-end crosstalk attenuation
+- (Tech) suy giảm xuyên âm đầu xa
+ @far-end echo 
+- (Tech) âm dội đầu xa
+ @far-end echo canceller
+- (Tech) âm dội đầu xa
+ @farewell  
+*  thán từ
+- tam biệt!
+*  dt
+- buổi liên hoan chia tay
+- lời chúc tạm biệt; lời tam biệt
+
++ to bid one's farewell; to make one's farewell: chào tạm biệt
+
+@far-famed  
+*  tt
+- lừng danh, nổi tiếng khắp nơi
+
+@far-fetched  
+*  tt
+- gượng gạo, không tự nhiên
+
+@far-flung  
+*  tt
+- xa, rộng, trải rộng bao la
+
+@far-gone  
+*  tt
+- quá mức, quá thể, quá xá
+- rất nặng, trầm trọng (bệnh)
+- say mèm, say luý tuý
+- đìa ra, ngập đầu (nợ)
+- quá si mê (yêu đương)
+
+@farina  
+*  dt
+- bột (gạo...)
+- chất (dạng) bột
+- (hoá học) tinh bột
+- (thực vật học) phấn hoa
+
+@farinaceous  
+*  tt
+- (thuộc) bột; như bột
+- có bột
+
+@farine
+* dt
+- bột (gạo, khoai)
+- phấn hoa
+- bụi phấn (côn trùng)
+ @farinose  
+*  tt
+- có bột
+- như là rắc bột
+
+@farl  
+*  dt
+- (Ê-cốt) bánh fan (một loại bánh mỏng, làm bằng bột yến mạch)
+
+@farm  
+*  dt
+- trại, trang trại, đồn điền
+- nông trường
+
++ a collective farm: nông trường tập thể
+
++ a state farm: nông trường quốc doanh
+- khu nuôi thuỷ sản
+- trại trẻ
+- (như) farm-house
+*  ngdgt
+- cày cấy, trồng trọt
+- cho thuê (nhân công)
+- trông nom trẻ em (ở trại trẻ)
+- trưng (thuê)
+*  ndgt
+- làm ruộng
+
+@farmable
+* tt
+- có thể phát canh, có thể trồng trọt
+ @farm-bailiff
+* dt
+- người giám đốc nông trường
+ @farmer  
+*  dt
+- người tá điền; người nông dân
+- người chủ trại
+
+@farmer-general
+* dt
+- (sử học) quan thầu thuế
+ @farmery
+* dt
+- nông trang
+ @farm-hand  
+*  dt
+- tá điền; công nhân nông trường
+
+@farm-house  
+*  dt
+- nhà trại (nhà ở xây trong trang trại) ((cũng) farm)
+
+@farming  
+*  dt
+- công việc đồng áng, công việc trồng trọt
+
++ farming method: phương pháp trồng trọt
+
++ a farming tool: dụng cụ nông nghiệp, nông cụ
+
+@farmland
+* dt
+- đất chăn nuôi, trồng trọt
+ @farmost
+* tt
+- xa nhất
+ @farmstead  
+*  dt
+- trang trại
+
+@farm-tractor
+* tt
+- máy cày
+ @farm-village
+* dt
+- làng nông nghiệp
+ @farmyard  
+*  dt
+- sân trại
+
+@Farnsworth (image dissector) tube
+- (Tech) ống tia điện tử phân tích hình Farnsworth
+ @faro  
+*  dt
+- (đánh bài) lối chơi bài faro
+
+@far-off  
+*  tt
+- xa xôi, xa tít; xa xưa
+
+@farouche  
+*  tt
+- không thích chơi với ai, thích tha thủi một mình
+
+@farraginous  
+*  tt
+- lẫn lộn, lộn xộn, hỗ lốn
+
+@farrago  
+*  dt
+- đống lẫn lộn, mớ lộn xộn
+- món hổ lốn
+
+@far-reaching  
+*  tt
+- có thể áp dụng rộng rãi
+- có ảnh hưởng sâu rộng
+
+@farrier  
+*  dt
+- thợ đóng móng ngựa
+- bác sĩ thú y chuyên bệnh ngựa
+- hạ sĩ trông nom ngựa (của trung đoàn kỵ binh)
+
+@farriery  
+*  dt
+- nghề đóng móng ngựa
+- xưởng đóng móng ngựa
+
+@farrow  
+*  dt
+- sự đẻ (lợn)
+- lứa (lợn)
+
++ 10 at one farrow: một lứa lợn 10 con
+*  dgt
+- đẻ (lợn)
+
+@far-seeing  
+*  tt
+- nhìn xa thấy rộng; biết lo xa
+
+@far-sighted  
+*  tt
+- viễn thị
+- (như) far-seeing
+
+@far-sightedness  
+*  dt
+- tật viễn thị
+- sự nhìn xa thấy rộng; tính biết lo xa
+
+@fart  
+*  dt
+- đùi 0 rắm
+*  ndgt
+- chùi gháu
+!['fɑ:ðə]
+*  tt (cấp so sánh của far)
+- xa hơn; thêm hơn, hơn nữa
+
++ have you anything fart to say?: anh còn có gì nói thêm không?
+*  dt
+- xa hơn; xa nữa; thêm hơn, hơn nữa
+- ngoài ra, vả lại (bây giờ thường dùng further)
+!I'll see you fart first
+- (thông tục) đừng hòng
+*  ngdgt
+- (từ hiếm,nghĩa hiếm),  (như) further
+
+@farther  
+*  tt (cấp so sánh của far)
+- xa hơn; thêm hơn, hơn nữa
+
++ have you anything farther to say?: anh còn có gì nói thêm không?
+*  dt
+- xa hơn; xa nữa; thêm hơn, hơn nữa
+- ngoài ra, vả lại (bây giờ thường dùng further)
+!I'll see you farther first
+- (thông tục) đừng hòng
+*  ngdgt
+- (từ hiếm,nghĩa hiếm),  (như) further
+
+@farther
+- xa hơn
+ @fartherance
+* dt
+- (từ hiếm) xem furtherance
+ @farthermost  
+*  tt
+- xa nhất
+
+@farthest  
+*  tt & dt (số nhiều của far)
+- xa nhất
+
++ at the farthest at; at farthest: xa nhất; chậm nhất là; nhiều nhất là
+
+@farthest
+- xa nhất at the f. ở xa nhất, nhiều nhất 
+ @farthing  
+*  dt
+- đồng faddinh (bằng 1 soành penni)
+
++ the uttermost farthing: đồng xu cuối cùng
+!it doesn't matter a farthing
+- chẳng sao cả; mặc kệ
+!it's not worth a farthing
+- chẳng đáng một xu
+!I don't care a brass farthing
+- care
+
+@farthingale  
+*  dt
+- (sử học) váy phồng (cổ vòng)
+
+@fartlek  
+*  dt
+- (thể dục,thể thao) phương pháp luyện chạy xa
+
+@FASB
+- (Econ) Xem FINANCIAL ACCOUNT STANDARDS BOARD
+ @fasces  
+*  dt số nhiều
+- (sử học) (La mã) bó que (của trợ lý chánh án)
+- huy hiệu tương trưng quyền hành
+
+@fascia   (fasciae) @fasciae   (fasciae) @fascial
+* tt
+- xem fascia chỉ thuộc về
+ @fasciated  
+*  tt
+- (thực vật học) tụ hợp
+- (động vật học) có vằn, có sọc
+
+@fascicle   (fascicule) @fascicled   (fascicular) @fascicular   (fascicular) @fasciculate   (fascicular) @fasciculated   (fascicular) @fasciculation  
+*  dt
+- (thực vật học) sự mọc thành bó, sự mọc thành chùm
+
+@fascicule   (fascicule) @fasciculus   (fascicule) @fascinate  
+*  ngdgt
+- thôi miên, làm mê
+- mê hoặc, quyến rũ
+
+@fascinating  
+*  tt
+- làm mê, làm say mê, quyến rũ
+
+@fascinatingly
+* dt
+- hấp dẫn, quyến rũ
+ @fascination  
+*  dt
+- sự thôi miên, sự làm mê
+- sự mê hoặc, sự quyến rũ
+
+@fascinator  
+*  dt
+- người thôi miên
+- người quyến rũ
+
+@fascine  
+*  dt
+- bó cành để làm cừ
+
++ fascine dwelling: nhà sàn trên mặt hồ (thời tiền sử)
+
+@fascio
+* dt
+- số nhiều fasci
+- phái sơ mi đen
+ @fasciola
+* dt
+- (sinh học) dải màu hẹp; vân màu hẹp
+- sâu lá
+ @fasciole
+* dt
+- dải lông rung
+ @fascisization
+* dt
+- sự phát xít hoá
+ @fascisize
+* ngdgt
+- phát xít hoá
+ @fascism  
+*  dt
+- chủ nghĩa phát xít
+
+@fascist  
+*  dt
+- phần tử phát xít
+*  tt
+- phát xít
+
+@fascista
+* dt
+- số nhiều fascisti
+- đảng viên đảng phát xít Italia (1922 - 1943)
+ @fascistic
+* tt
+- phát xít
+ @fascitization
+* dt
+- sự phát xít hoá
+ @fascitize
+* dt
+- phát xít hoá
+ @fascization  
+*  dt
+- sự phát xít hoá
+
+@fascize  
+*  ngdgt
+- phát xít hoá
+
+@fash  
+*  dt
+- (Ê-cốt) sự bất diệt, sự phiền toái
+*  ngdgt
+- làm phiền, quấy nhiễu
+
+@fashion  
+*  dt
+- kiểu cách; hình dáng
+
++ after the fashion of: theo kiểu, giống như, y như
+- mốt, thời trang
+
++ to set the fashion: đề ra một mốt
+
++ in fashion: hợp thời trang
+
++ out of fashion: không hợp thời trang
+
++ dressed in the height of fashion: ăn mặc đúng mốt
+- (sử học);(đùa cợt) tập tục phong lưu đài các
+
++ man of fashion: người phong lưu đài các, người kiểu cách
+!after (in) a fashion
+- tàm tạm, tạm được
+!in one's own fashion
+- theo ý mình, theo cách của mình
+!the fashion
+- những người sang, những người lịch sự
+- người nổi tiếng đương thời; vật nổi tiếng đương thời
+*  ngdgt
+- tại thành, cấu thành
+- nặn, rập theo khuôn; tạo thành hình
+
++ to fashion a vase from clay: nặn một cái bình bằng đất sét
+
+@fashionable  
+*  tt
+- đúng mốt, hợp thời trang; lịch sự, sang trọng
+*  dt
+- người đúng mốt (ăn mặc...); người lịch sự, người sang
+
+@fashionableness  
+*  dt
+- tính chất hợp thời trang; tính chất lịch sự, tính chất sang trọng
+
+@fashionably
+* dt
+- hợp thời trang, đúng thời trang
+ @fashioned
+* tt
+- theo kiểu hình thức nào đấy
+
++  old fashioned:theo kiểu cũ
+- được tạo dáng, được tạo hình
+ @fashionmonger
+* dt
+- người tạo mẫu thời trang; nhà tạo mốt
+ @fashion-plate  
+*  dt
+- tranh kiểu áo, tranh mẫu
+- người ăn mặc đúng mốt
+
+@fast  
+*  tt
+- chắc chắn
+
++ a stake fast in the ground: cọc đóng chắc xuống đất
+
++ to take fast hold of: nắm chắc, cầm chắc
+- thân, thân thiết, keo sơn
+
++ a fast friend: bạn thân
+
++ fast friendship: tình bạn keo sơn
+- bền, không phai
+
++ a fast olour: màu bền
+- nhanh, mau
+
++ watch is fast: đồng hồ chạy nhanh
+
++ a fast train: xe lửa tốc hành
+- trác táng, ăn chơi, phóng đãng (người)
+
++ the fast set: làng chơi
+!to be fast with gout
+- nằm liệt giường vì bệnh gút
+!to make fast
+- buộc chặt
+*  dt
+- chắc chắn, bền vững, chặt chẽ
+
++ to stand fast: đứng vững
+
++ eyes fast shut: mắt nhắm nghiền
+
++ to sleep fast: ngủ say sưa
+- nhanh
+
++ to run fast: chạy nhanh
+- trác táng, phóng đãng
+
++ to live fast: sống trác táng, ăn chơi
+- (từ cổ,nghĩa cổ); (thơ ca) sát, ngay cạnh
+!fast bind, fast find
+- (tục ngữ) cẩn tắc vô ưu
+!to play fast and loose
+- lập lờ hai mặt, đòn xóc hai đầu
+*  dt
+- sự ăn chay
+- mùa ăn chay; ngày ăn chay
+- sự nhịn đói
+
++ to break one's fast: ăn điểm tâm, ăn sáng
+*  ndgt
+- ăn chay; ăn kiêng (tôn giáo...)
+- nhịn ăn
+
+@fast energy detector
+- (Tech) bộ phát hiện năng lượng nhanh
+ @fast Fourier transformation (FFT)
+- (Tech) sự biến đổi Fourier (Fouriê) nhanh
+ @fast-acting
+* tt
+- tác động nhanh
+ @fast-curing
+* tt
+- lưu hoá nhanh
+ @fast-day
+* dt
+- ngày ăn chay
+ @fasten  
+*  ngdgt
+- buộc chặt, trói chặt
+
++ to fasten a parcel: buộc chặt một gói
+- đóng chặt
+
++ to fasten the door: đóng chặt cửa
+- (: on,  upon) dán mắt nhìn; tập trung (suy nghĩ)
+
++ to one's eyes on somebody: dán mắt nhìn ai, nhìn ai chòng chọc
+
++ to fasten one's thoughts on something: tập tung tư tưởng vào cái gì
+
++ to fasten one's attention on something: chăm chú vào việc gì
+- (: on,  upon) gán cho đổ cho
+
++ to fasten a crime on somebody: đổ tội cho ai
+
++ to fasten a nickname on somebody: gán cho ai một biệt hiệu
+*  ndgt
+- buộc, trói
+- đóng, cài
+
++ door will not fasten: cửa hàng không đóng được
+!to fasten off
+- thắt nút (sợi chỉ)
+!to fasten on (upon)
+- nắm chắc lấy, bám chặt lấy; vớ, nắm lấy (một cớ, một cơ hội)
+- tách ra để tấn công
+- tập trung vào
+- gán cho, đổ cho
+!to fasten up
+- buộc chặt, trói chặt, đóng chặt
+!to fasten quarrel upon somebody
+- gây sự với ai
+
+@fastened
+* tt
+- được bó chặt, buộc chặt, gắn chặt, kẹp chặt
+ @fastener  
+*  dt
+- người buộc, người đóng
+- cái khoá, cái hầm, cái móc, cái chốt ((cũng) fastening)
+
+@fastening  
+*  dt
+- sự buộc, sự trói chặt
+- sự đóng chặt, sự cài chặt
+- sự thắt chặt nút
+- cái khoá, cái hầm, cái móc, cái chốt ((cũng) fastener)
+
+@fast-handed
+* tt
+- biển lận, riết róng; hà tiện
+ @fast-hardening
+* tt
+- cứng rắn nhanh; mau cứng
+ @fast-hold
+* dt
+- thành lũy
+ @fasti  
+*  dt số nhiều
+- niên giám, lịch biên niên
+
+@fastidious  
+*  tt
+- dễ chán, chóng chán
+- khó tính, khó chiều; cảnh vẻ, kén cá chọn canh
+
+@fastidiously
+* dt
+- khó chịu, kén chọn
+ @fastidiousness  
+*  dt
+- tính dễ chán
+- sự khó tính, sự khó chiều; tính cảnh vẻ, sự kén cá chọn canh
+
+@fastigiate  
+*  tt
+- (thực vật học) hình chóp, thon đầu
+
+@fastigium
+* dt
+- giai đoạn gay gắt nhất (của bệnh)
+ @fastish  
+*  tt
+- khá chắc, khá bền
+- khá nhanh
+
+@fast-man
+* dt
+- người đàn ông ăn hút
+ @fastness  
+*  dt
+- tính chất chắc chắn, tính chất vững; tính bền (màu)
+- sự nhanh, sự mau lẹ
+- tính trác táng, tính phóng đãng, tính ăn chơi
+- thành trì, thành luỹ, pháo đài
+
+@fastness
+- độ cứng, độ bền
+ @fast-recovery diode
+- (Tech) đèn hai cực phục hồi nhanh
+ @fast-talk
+* ngdgt
+- (từ Mỹ, nghĩa Mỹ) (thông tục) lừa bịp bằng lối nói lưu loát
+ @fastuous
+* tt
+- xấc xược
+- huênh hoang
+ @fast-woman
+* dt
+- người đàn bà ăn chơi
+ @fat  
+*  tt
+- được vỗ béo (để giết thịt)
+- béo, mập, béo phì, mũm mĩm
+- béo, đậm nét (chữ in)
+- béo, có dầu, có mỡ
+- béo (than)
+- dính, nhờn (chất đất...)
+- màu mỡ, tốt
+
++ fat lands: đất màu mỡ
+- béo bở, có lợi, có lãi
+
++ a fat job: việc làm béo bở
+- đầy áp
+
++ a fat purse: túi tiền đầy ắp, túi tiền dầy cộm
+- chậm chạp, trì độn
+!to cut up fat
+- để lại nhiều tiền
+!a fat chance
+- (từ lóng) sự đen đủi, sự không may chút nào
+
++ he's a fat chance: hắn ta đen đủi quá, hắn ta chẳng may mắn chút nào
+!a fat lot
+- (từ lóng) nhiều gớm ((thường), (mỉa mai)), rất ít, cóc khô
+
++ a fat lot of good it did you: tưởng bở lắm đấy à
+
++ a fat lot you know about it: cậu thì biết cóc khô gì về chuyện ấy
+
++ a fat lot I care: tớ cóc cần
+
+@fat lime  
+*  dt
+- vôi tôi, vôi để tôi
+
+@fatal  
+*  dt
+- chỗ béo bở, chỗ ngon
+
++ to live on the fatal of the land: ăn ngon mặc đẹp; ngồi mát ăn bát vàng
+- mỡ, chất béo
+- (sân khấu) vai thích hợp, vai tủ
+- (hoá học) chất béo,  glyxerit
+!to chew the fat
+- (xem) chew
+!the fat is in the fire
+- sự đã rồi chẳng còn làm gì được nữa
+- chuyện nguy kịch xảy ra đến nơi
+*  ngdgt
+- nuôi béo, vỗ béo
+!to kill the fatted calf for
+- (xem) calf
+*  tt
+- có số mệnh, tiền định, không tránh được
+
++ fatal sisters: thần mệnh
+
++ fatal shears: lưỡi hái của thần chết; sự chết
+- quyết định; gây tai hoạ, tai hại, làm nguy hiểm đến tính mạng, chí tử, làm chết, đưa đến chỗ chết, đem lại cái chết
+
++ a fatal blow: đòn quyết định; đòn chí tử
+
++ a fatal disease: bệnh chết người
+
++ a fatal mistake: lỗi lầm tai hại
+- tính ma quỷ, quỷ quái, tai ác
+
+@fatalise   (fatalise) @fatalism  
+*  dt
+- thuyết định mệnh
+
+@fatalist  
+*  dt
+- người theo thuyết định mệnh
+
+@fatalistic  
+*  tt
+- (thuộc) thuyết định mệnh; dựa vào thuyết định mệnh
+
+@fatality  
+*  dt
+- định mệnh, vận mệnh, số mệnh; điều không thể tránh được
+- sự bất hạnh, sự rủi ro, tai ương
+- ảnh hưởng nguy hại
+- sự chết bất hạnh (chết nạn, chết trong chiến tranh...)
+
+@fatalize   (fatalise) @fatally
+* dt
+- chí tử, một cách chết người
+ @fatalness  
+*  dt
+- tính chất định mệnh, tính chất số mệnh
+- tính quyết định; tính chất chí tử, tính chất tai hại
+- sự làm chết, sự đưa đến chỗ chết
+- tính tình ma quỷ quái; tính tai ác
+
+@fat-body
+* dt
+- thể mỡ
+ @fat-brained
+* tt
+- óc đần độn
+ @fat-chops  
+*  dt
+- người có má xị
+
+@fate  
+*  dt
+- thiên mệnh, định mệnh, số mệnh, số phận
+- (thần thoại,thần học) thần mệnh
+
++ the Fates: ba vị thần mệnh (thần thoại Hy lạp  La mã)
+- điều tất yếu, điều không thể tránh được
+- nghiệp chướng
+- sự chết, sự huỷ diệt
+
+@fated  
+*  tt
+- do định mệnh, do số mệnh
+
++ he was fated to do it: số nó là phải làm việc đó
+- nhất định bị hỏng, nhất định bị thất bại, nhất định bị huỷ diệt
+
++ fated to failure: nhất định bị thua
+
+@fateful  
+*  tt
+- (thuộc) số mệnh, tiền định, số đã định trước
+- tiên đoán
+- quyết định, có những hậu quả quan trọng
+- gây tai hoạ, gây chết chóc
+
+@fatefully
+* dt
+- tai hại, oan nghiệt
+ @fat-guts  
+*  dt
+- người to béo đẫy đà
+
+@fat-head  
+*  dt
+- người đần độn, người ngu ngốc
+
+@fat-headed  
+*  tt
+- đần độn, ngu ngốc
+
+@fat-headedness
+* dt
+- sự đần độn, sự ngu ngốc
+ @father  
+*  dt
+- cha, bố
+- (nghĩa bóng) người cha, người đẻ ra, người sản sinh ra
+
++ the wish is father to the thought: ước vọng sinh ra sự tin tưởng
+- tổ tiên, ông tổ
+
++ father of Vietnamese poetry: ông tổ của nền thơ ca Việt Nam
+
++ to sleep with one's fathers: chầu tổ, chết
+- người thầy, người cha
+
++ father of the country: người cha của đất nước
+- Chúa,  Thượng đế
+- (tôn giáo) cha cố
+
++ the Holy Father: Đức giáo hoàng
+- người nhiều tuổi nhất, cụ
+
++ Father of the House of Commons: người nhiều tuổi nhất ở hạ nghị viện Anh
+
+@father-figure  
+*  dt
+- người lânh đạo, thủ lĩnh, người đứng đầu (có tuổi, có tín nhiệm); cha già
+
+@fatherhood   (fatherhood) @father-in-law  
+*  dt,  số nhiều fathers-in-law
+- bố vợ; bố chồng
+
+@fatherland  
+*  dt
+- đất nước, tổ quốc
+
+@fatherless  
+*  tt
+- không có cha, không có bố, mồ côi cha
+
+@fatherlike   (fatherlike) @fatherliness  
+*  dt
+- tính nhân từ như cha, tính hiền hậu như cha
+
+@fatherly   (fatherlike) @fathership   (fatherhood) @fathers-in-law  
+*  dt,  số nhiều fathers-in-law
+- bố vợ; bố chồng
+
+@fathom  
+*  dt,  số nhiều fathom,  fathoms
+- sải (đơn vị đo chiều sâu, bàng 1, 82 m)
+*  ngdgt
+- đo chiều sâu (của nước) bằng sải
+- (nghĩa bóng) tìm hiểu, thăm dò
+- (từ cổ,nghĩa cổ) ôm
+
+@fathomable
+* tt
+- có thể đo được
+ @fathometer  
+*  dt
+- cái dò sâu (máy dùng tiếng vọng để đo chiều sâu của biển)
+
+@fathomless  
+*  tt
+- không thể dò được; không thể hiểu được
+
+@fathomlessness  
+*  dt
+- tính không thể dò được; tính không thể hiểu được
+
+@fathoms  
+*  dt,  số nhiều fathom,  fathoms
+- sải (đơn vị đo chiều sâu, bàng 1, 82 m)
+*  ngdgt
+- đo chiều sâu (của nước) bằng sải
+- (nghĩa bóng) tìm hiểu, thăm dò
+- (từ cổ,nghĩa cổ) ôm
+
+@fatidical  
+*  tt
+- có tài tiên tri
+
+@fatigable
+* tt
+- dễ mệt mỏi
+ @fatigue  
+*  dt
+- sự mệt mỏi, sự mệt nhọc
+- (kỹ thuật) sự mỏi (của kim loại)
+- công việc mệt nhọc, công việc lao khổ
+- (quân sự) (như) fatigue-duty
+- (số nhiều) (từ Mỹ,nghĩa Mỹ) quần áo lao động
+*  ngdgt
+- làm cho mệt mỏi, làm cho mệt nhọc
+- (kỹ thuật) làm cho (kim loại) bị mỏi, làm cho kém sức chịu đựng
+
+@fatigue
+- (vật lí) sự mỏi (kim loại)
+ @fatigue clothes   (fatigue-dress) @fatigue-dress   (fatigue-dress) @fatigue-duty  
+*  dt,  (quân sự)
+- công tác lao động (ngoài công tác rèn luyện chiến đấu) ((cũng) fatigue)
+
+@fatigueless  
+*  tt
+- không mệt, không làm mệt
+
+@fatiguelessly
+* dt
+- không mệt mỏi, liên tục
+ @fatigue-party  
+*  dt
+- (quân sự) đội lao động
+
+@fatiguing  
+*  tt
+- làm mệt nhọc, làm kiệt sức
+
+@fatless  
+*  tt
+- không có chất béo, không có mỡ
+
+@fat-lime
+* dt
+- vôi để tôi
+ @fatling  
+*  dt
+- súc vật nhỏ (cừu, bê, lợn... vỗ béo (để giết thịt)
+
+@fatness  
+*  dt
+- sự béo, sự mập, sự mũm mĩm
+- sự màu mỡ; tính chất màu mỡ (đất đai)
+
+@fat-reducing
+* tt
+- khử mỡ
+ @fats  
+*  dt
+- (Fats) (dùng như số ít) (từ Mỹ,nghĩa Mỹ),  (như) fatso
+- (số nhiều) súc vật vỗ béo (để giết thịt)
+
+@fatso  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chú béo, chú bệu, anh phệ ((cũng) fats)
+
+@fat-soluble  
+*  tt
+- hoà tan trong mỡ
+
+@fat-splitting
+* dt
+- sự tách mỡ
+ @fatstock
+* dt
+- súc vật nuôi để lấy thịt
+ @fatten  
+*  ngdgt
+- nuôi béo, vỗ béo (để giết thịt)
+- làm cho (đất) màu mỡ
+*  ndgt
+- béo ra
+
+@fattish  
+*  tt
+- beo béo, mầm mập
+
+@fatty  
+*  tt
+- béo; như mỡ; có nhiều mỡ
+
++ fatty acids: (hoá học) axit béo
+- phát phì
+- có đọng mỡ
+
++ fatty degeneration of heart: bệnh thoái hoá mỡ của tim
+*  dt
+- ((thường) để gọi) chú béo, chú bệu, anh phệ
+
+@fatuitous
+* tt
+- ngu ngốc nhưng tự mãn
+ @fatuity  
+*  dt
+- sự ngu ngốc, sự ngốc nghếch, sự đần độn
+- điều ngớ ngẩn, điều ngốc nghếch
+
+@fatuous  
+*  tt
+- ngu ngốc, ngốc nghếch, đần độn
+
+@fatuously
+* dt
+- ngốc nghếch, ngu xuẩn
+ @fatuousness  
+*  dt
+- tính ngu ngốc, tính ngốc nghếch, tính đần độn
+
+@fat-witted  
+*  tt
+- đần độn, ngu si, ngốc nghếch
+
+@faubourg  
+*  dt
+- ngoại ô (nhất là của thành phố Pa-ri)
+
+@faucal  
+*  tt
+- (ngôn ngữ học) (thuộc) yết hầu
+*  dt
+- (ngôn ngữ học) âm yết hầu
+
+@fauces  
+*  dt số nhiều
+- (giải phẫu) yết hầu, họng
+
+@faucet  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) vòi (ở thùng rượu...)
+
+@faugh  
+*  thán từ
+- phù!, kinh!, khiếp!
+
+@fault  
+*  dt
+- sự thiếu sót; khuyết điểm
+- điểm lầm lỗi; sự sai lầm
+- tội lỗi (trách nhiệm về một sai lầm)
+
++ the fault was mine: lỗi ấy là tại tôi
+
++ who is in fault?: ai đáng chê trách?
+- sự để mất hơi con mồi (chó săn)
+
++ to be at fault: mất hơi con mồi (chó săn); đứng lại ngơ ngác (vì mất hơi con mồi; (nghĩa bóng) ngơ ngác)
+- (địa lý,ddịa chất) phay, đứt đoạn
+- (điện học) sự rò, sự lạc
+- (kỹ thuật) sự hỏng, sự hư hỏng
+- (thể dục,thể thao) sự giao bóng nhầm ô; quả bóng giao nhầm ô (quần vợt)
+!to a fault
+- vô cùng, hết sức, quá lắm
+!to find fault with
+- không vừa ý, phàn nàn; chê trách; bới móc
+!with all faults
+- (thương nghiệp) hư hỏng, mất mát người mua phải chịu
+*  ngdgt
+- chê trách, bới móc
+*  ndgt
+- có phay, có đứt đoạn
+
+@fault
+- (máy tính) sự sai, sự hỏng
+- incipient f. sự hỏng bắt đầu xuất hiện
+- ironwork f. cái che thân (máy)
+- sustained f. sự hỏng, ổn định
+- transient f. sự hỏng không ổn định 
+ @fault correction time
+- (Tech) thời gian hiệu chỉnh lỗi
+ @fault detector
+- (Tech) bộ phát hiện lỗi
+ @fault finder
+- (Tech) máy dò lỗi
+ @fault signaling
+- (Tech) báo hiệu lỗi
+ @fault simulator
+- (Tech) bộ mô phỏng lỗi
+ @fault tolerance
+- (Tech) sự dung sai lỗi
+ @faultfinder  
+*  dt
+- người hay bắt bẻ, người hay chê trách; người hay bới móc
+
+@faultfinding  
+*  dt
+- sự bắt bẻ, sự chê trách; sự bới móc
+
+@faultily  
+*  dt
+- thiếu sót
+- sai lầm
+
+@faultiness  
+*  dt
+- tính chất thiếu sót
+- tính chất sai trái, tính chất sai lầm
+
+@faultless
+* tt
+- hoàn hảo, không sai lầm, không mắc lỗi
+ @faultlessly
+* dt
+- hoàn hảo, tốt đẹp
+ @faultlessness
+* dt
+- tính chất hoàn hảo, tính chất toàn thiện toàn Mỹ
+ @fault-tolerant system
+- (Tech) hệ thống dung sai
+ @faulty  
+*  tt
+- có thiếu sót, mắc khuyết điểm
+- mắc lỗi
+- không tốt, không chính xác
+- (điện học) bị rò (mạch)
+
+@faulty
+- sai; không rõ chất lượng
+ @faun  
+*  dt
+- thấn đồng áng (có sừng và đuôi)
+
+@fauna  
+*  dt,  số nhiều faunas,  faunae
+- hệ động vật
+- danh sách động vật, động vật chí
+
+@faunae  
+*  dt,  số nhiều faunas,  faunae
+- hệ động vật
+- danh sách động vật, động vật chí
+
+@faunal  
+*  tt
+- (thuộc) hệ động vật (của một vùng)
+
+@faunist  
+*  dt
+- nhà nghiên cứu hệ động vật, nhà động vật học
+
+@faunistic   (faunistical) @faunistical   (faunistical) @faunology
+* dt
+- khoa phân bố động vật; khoa động vật địa lý
+ @faunula
+* dt
+- giới động vật vùng nhỏ
+ @faunus
+* dt
+- (tôn giáo) (từ cổ La Mã) thần nông lâm
+ @fauteuil  
+*  dt
+- ghế bành
+- ghế hạng nhất (trước sân khấu)
+
+@fautless  
+*  tt
+- không thiếu sót, không khuyết điểm; hoàn hảo, hoàn thiện
+- không mắc lỗi
+
+@fautlessness  
+*  dt
+- tính chất hoàn hảo, tính chất toàn thiện toàn mỹ
+
+@faux pas  
+*  dt
+- sự lỗi lầm, sự thiếu sót (làm tổn thương đến danh dự của mình)
+- sự vi phạm quy ước xã hội
+- lời nói lỡ; hành động tếu
+
+@favor  
+*  dt
+- thiện ý; sự quý mến
+
++ to find favour in the eyes of: được quý mến
+
++ out of favour: không được quý mến
+- sự đồng ý, sự thuận ý
+- sự chiếu cố; sự thiên vị; ân huệ; đặc ân
+
++ without fear or favour: không thiên vị
+
++ should esteem it a favour: phải coi đó như một ân huệ
+- sự giúp đỡ, sự che chở, sự ủng hộ
+
++ under favour of night: nhờ bóng đêm; lợi dụng bóng đêm
+
++ to be in favour of something: ủng hộ cái gì
+- vật ban cho; (từ Mỹ,nghĩa Mỹ) quà nhỏ, vật kỷ niệm
+- huy hiệu
+- (thương nghiệp) thư
+
++ your favour of yesterday: thư ngài hôm qua
+- sự thứ lỗi; sự cho phép
+
++ by your favour: (từ cổ,nghĩa cổ) được phép của ngài; được ngài thứ lỗi
+- (từ cổ,nghĩa cổ) vẻ mặt
+!as a favour
+- không mất tiền
+!to bestow one's favours on someone
+- đồng ý cho ai ăn nằm với mình; "ban ân" cho ai (đàn bà)
+!by favour of...
+- kính nhờ... chuyển
+!to curry favour with somebody
+- (xem) curry
+*  ngdgt
+- ưu đâi, biệt đãi, chiếu cố
+- thiên vị
+- bênh vực, giúp đỡ, ủng hộ; tỏ ra có lợi cho (ai); làm dễ dàng cho, làm thuận lợi cho
+- (thông tục) trông giống
+
++ to favour one's father: trông giống bố
+- thích dùng (thứ áo, giày... nào; trong văn báo chí)
+!favoured by...
+- kính nhờ... chuyển
+
+@favorable  
+*  tt
+- có thiện chí, thuận, tán thành
+
++ a favourable answers: câu trả lời thuận
+- thuận lợi
+- hứa hẹn tốt, có triển vọng
+- có lợi, có ích
+
++ favourable to us: có lợi cho chúng ta
+
+@favored
+* tt, cũng favoured
+- được hưởng ân huệ
+
++  the most favored nation clause:điều khoản tối huệ quốc
+- có vẻ bề ngoài
+
++  well favored:có vẻ bên ngoài xinh đẹp
+ @favorite  
+*  tt
+- được mến chuộng, được ưa thích
+
++ one's favourite author: tác giả mình ưa thích
+
++ a favourite book: sách thích đọc
+*  dt
+- người được ưa chuộng; vật được ưa thích
+- (thể dục,thể thao) (the favourite) người dự cuộc ai cũng chắc sẽ thắng; con vật (ngựa, chó...) dự cuộc ai cũng chắc sẽ thắng
+- sủng thần; ái thiếp, quý phi
+
+@favoritism   (favoritism) @favorize
+* ngdgt
+- dành đặc ân, dành sự tiện lợi đặc biệt
+ @favorless
+* tt,  favourless:không hưởng đặc ân; bị bạc đãi
+ @favose
+* tt
+- có tổ ong, có hố nhỏ
+ @favour  
+*  dt
+- thiện ý; sự quý mến
+
++ to find favour in the eyes of: được quý mến
+
++ out of favour: không được quý mến
+- sự đồng ý, sự thuận ý
+- sự chiếu cố; sự thiên vị; ân huệ; đặc ân
+
++ without fear or favour: không thiên vị
+
++ should esteem it a favour: phải coi đó như một ân huệ
+- sự giúp đỡ, sự che chở, sự ủng hộ
+
++ under favour of night: nhờ bóng đêm; lợi dụng bóng đêm
+
++ to be in favour of something: ủng hộ cái gì
+- vật ban cho; (từ Mỹ,nghĩa Mỹ) quà nhỏ, vật kỷ niệm
+- huy hiệu
+- (thương nghiệp) thư
+
++ your favour of yesterday: thư ngài hôm qua
+- sự thứ lỗi; sự cho phép
+
++ by your favour: (từ cổ,nghĩa cổ) được phép của ngài; được ngài thứ lỗi
+- (từ cổ,nghĩa cổ) vẻ mặt
+!as a favour
+- không mất tiền
+!to bestow one's favours on someone
+- đồng ý cho ai ăn nằm với mình; "ban ân" cho ai (đàn bà)
+!by favour of...
+- kính nhờ... chuyển
+!to curry favour with somebody
+- (xem) curry
+*  ngdgt
+- ưu đâi, biệt đãi, chiếu cố
+- thiên vị
+- bênh vực, giúp đỡ, ủng hộ; tỏ ra có lợi cho (ai); làm dễ dàng cho, làm thuận lợi cho
+- (thông tục) trông giống
+
++ to favour one's father: trông giống bố
+- thích dùng (thứ áo, giày... nào; trong văn báo chí)
+!favoured by...
+- kính nhờ... chuyển
+
+@favourable  
+*  tt
+- có thiện chí, thuận, tán thành
+
++ a favourable answers: câu trả lời thuận
+- thuận lợi
+- hứa hẹn tốt, có triển vọng
+- có lợi, có ích
+
++ favourable to us: có lợi cho chúng ta
+
+@favourable
+- thuận tiện, tốt
+ @favourableness  
+*  dt
+- tính chất thuận lợi
+- sự có triển vọng
+
+@favourably
+* dt
+- thuận lợi, tốt đẹp
+ @favourite  
+*  tt
+- được mến chuộng, được ưa thích
+
++ one's favourite author: tác giả mình ưa thích
+
++ a favourite book: sách thích đọc
+*  dt
+- người được ưa chuộng; vật được ưa thích
+- (thể dục,thể thao) (the favourite) người dự cuộc ai cũng chắc sẽ thắng; con vật (ngựa, chó...) dự cuộc ai cũng chắc sẽ thắng
+- sủng thần; ái thiếp, quý phi
+
+@favouritism   (favoritism) @favus
+* dt
+- (y học) bệnh chốc đầu
+ @fawn  
+*  tt
+- nâu vàng
+*  dt
+- (động vật học) hươu nhỏ; nai nhỏ,  đama nhỏ (mới một tuổi)
+- màu nâu vàng
+!in fawn
+- có mang (hươu, nai)
+*  dgt
+- đẻ (hươu, nai)
+*  ndgt
+- vẫy đuôi mưng, mừng rỡ (chó)
+- xun xoe, bợ đỡ, nịnh hót (người)
+
++ to fawn upon (on) somebody: bợ đỡ ai
+
+@fawn-colour
+* dt
+- màu da nai
+ @fawn-coloured  
+*  tt
+- nâu vàng
+
+@fawner
+* dt
+- người nịnh hót, a dua, xu phụ kẻ có quyền
+ @fawning  
+*  tt
+- xun xoe, bợ đỡ, nịnh hót
+
+@fax
+* dt
+- bản fax
+* dgt
+- gửi dưới hình thức fax, đánh fax
+ @fax 
++  facsimile
+- (Tech) điện thư, bản viễn sao; bản truyền chân [TQ @fax machine
+- (Tech) máy điện thư
+ @fax modem
+- (Tech) môddem điện thư
+ @fax (v)
+- (Tech) gửi điện thư (đt)
+ @fay  
+*  dt
+- (thơ ca) nàng tiên
+
+@faze   (feaze) @fête  
+*  dt
+- mũ đầu đuôi seo (của người Thổ-nhĩ-kỳ)
+
+@

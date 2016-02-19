@@ -1,0 +1,9 @@
+@pg
+* dt
+- (về phim ảnh) vt của parental guidance (phải có sự hướng dẫn của bố mẹ)
+- vt của paying guest (người khách phải trả tiền)
+ @pgdn
+- Phím Page Down
+ @pgup
+- Phím Page Up
+ @

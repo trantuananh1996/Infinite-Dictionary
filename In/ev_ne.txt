@@ -1,0 +1,2402 @@
+@neal
+* ngdgt
+- nung (đồ gốm)
+ @neanderthal
+* tt
+- <sử> thuộc về giống người Nêanđectan
+ @neap  
+*  dt: (neap-tide) @neapolitan
+* tt
+- thuộc về xứ Naples
+- (về kem ăn) gồm nhiều lớp khác màu và hương vị
+* dt
+- người xứ Naples
+ @neap-tide  
+*  dt: (neap-tide) @near  
+*  tt
+- gần, cận
+
++ the school is quite near: trường học rất gần
+
++ the Near East: Cận đông
+
++ a near relution: một người có họ gần
+
++ in the near future: trong tương lai gần đây
+- thân
+
++ a near friend: bạn thân
+- giống, sát
+
++ near resemblance: sự giống lắm
+
++ a near translation: bản dịch sát nghĩa
+- tỉ mỉ
+
++ near work: công việc tỉ mỉ
+- chi ly, chắt bóp, keo kiệt
+
++ to be very near with one's money: rất chi ly đối với đồng tiền
+- bên trái
+
++ the near side of the road: bên trái đường
+
++ the near wheel of a car: bánh xe bên trái
+
++ the near foreleg of a horse: chân trái đằng trước của con ngựa
+*  dt
+- gần, ở gần; sắp tới, không xa
+
++ when success comes near more hardships are for and near: xa gần khắp mọi nơi
+
++ near at hand: gần ngay bên; gần tới nơi
+
++ near by: ở gần, ở bên
+- chi ly, chắt bóp, keo kiệt
+
++ to live very near: sống chắt bóp
+*  giới từ
+- gần, ở gần
+
++ to stanf near the fire: đứng gần lò sưởi
+
++ the performance was drawing near its close: buổi biểu diễn gần hết
+
++ day is near breaking: trời gần sáng
+- gần giống, theo kịp
+
++ who comes near him in self-denial?: ai theo kịp được anh ấy về tinh thần hy sinh?
+*  dgt
+- tới gần, đến gần, xích lại gần, nhích lại; sắp tới
+
++ the ship was nearing the land: tàu sắp tới đất liền
+
++ to be nearing one's end: sắp chết
+
+@near
+- gần
+- arbitrarily n. tuỳ ý gần 
+- infinitely n. gần vô cùng 
+ @near miss  
+*  dt
+- sự gần trúng đích (ném bom...)
+
+@Near money
+- (Econ) Tiền cận; Chuẩn tệ.
+: Là của cải được nắm giữ dưới một hình thức mà có thể chuyển đổi một cách nhanh chóng và dễ dàng thành tiền.
+ @near-by  
+*  tt
+- gần, gần bên, bên cạnh
+
+@nearby
+* tt
+- gần, không xa
+ @nearly  
+*  dt
+- gần, sắp, suýt
+
++ it is nearly time to start: đã gần đến giờ khởi hành
+
++ to be nearly related to someone: có họ gần với ai
+
++ to be nearly drowned: suýt chết đuối
+- mặt thiết, sát
+
++ the matter concerns me nearly: vấn đề có quan hệ mật thiết với tôi
+
++ to consider a question nearly: xem xét sát một vấn đề
+
+@nearly
+- gần như
+ @nearness  
+*  dt
+- trạng thái ở gần
+- tính chi ly, tính chắt bóp, tính keo kiệt
+
+@nearside
+* tt
+- bên trái; phía tay trái
+
++  the nearside door làn xe bên trái
+@near-sighted  
+*  tt
+- cận thị
+
+@near-sightedness  
+*  dt
+- tật cận thị
+
+@near-silk  
+*  dt
+- tơ nhân tạo
+
+@neat  
+*  tt
+- sạch gọn, ngăn nắp
+
++ a neat room: một căn buồng sạch sẽ gọn gàng
+
++ as neat as a new pin: sạch gọn như li như lau
+- rõ ràng, rành mạch; ngắn gọn
+
++ a neat handwriting: chữ viết rõ ràng
+
++ a neat answer: một câu trả lời ngắn gọn rõ ràng
+- khéo, tinh xảo (đồ vật)
+
++ a neat piece of handwork: một đồ thủ công khéo
+- giản dị và trang nhã (quần áo)
+
++ a neat dress: bộ quần áo giản dị và trang nhã
+- nguyên chất, không pha (ượu)
+
++ neat whisky: rượu uytky không pha
+*  dt,  số nhiều không đổi
+- bò
+- trâu bò, thú nuôi
+
+@neaten  
+*  ngdgt
+- dọn dẹp gọn ghẽ, làm cho ngăn nắp
+
+@neath  
+*  giới từ
+- (thơ ca) dưới, ở dưới, bên dưới
+
+@neat-handed  
+*  tt
+- khéo tay, khéo léo
+
+@neat-herd  
+*  dt
+- người chăn bò
+
+@neatly
+* dt
+- gọn gàng, ngăn nắp
+ @neatness  
+*  dt
+- sự sạch gọn, sự gọn gàng, sự ngăn nắp
+- sự rõ ràng rành mạch; sự ngắn gọn
+- sự khéo léo, sự tinh xảo
+- sự giản dị trang nhã
+
+@neat's-foot  
+*  dt
+- chân bò (để ăn)
+
+@neat's-leather  
+*  dt
+- da bò
+
+@neat's-tongue  
+*  dt
+- lưỡi bò (để ăn)
+
+@neat-therd
+* dt
+- người chăn bò
+ @neb  
+*  dt
+- (Ê-cốt) mũi; mỏ; mõm
+- đầu ngòi bút, đầu bút chì; vòi, đầu nhọn (của vật gì)
+
+@nebula  
+*  dt,  số nhiều nebulae
+- (thiên văn học) tinh vân
+- (y học) chứng mắt kéo mây
+
+@nebula
+- (thiên văn) tinh vân
+ @nebulae  
+*  dt,  số nhiều nebulae
+- (thiên văn học) tinh vân
+- (y học) chứng mắt kéo mây
+
+@nebular  
+*  tt
+- (thiên văn học) (thuộc) tinh vân
+
++ nebular theory (hypothesis): thuyết tinh vân
+
+@nebulose
+* tt
+- không rõ ràng, mù mịt
+- đầy mây, đầy sương mù
+- thuộc mây, thuộc sương mù
+ @nebulosity  
+*  dt
+- mây mù
+- tính chất mờ đục
+
+@nebulous  
+*  tt
+- âm u, u ám
+- mờ đục
+- (thiên văn học) (thuộc) tinh vân; giống tinh vân
+
+@necessarian
+
+ @necessarianism
+- xem necessitarianism
+ @necessarily  
+*  dt
+- tất yếu, nhất thiết
+
++ not necessarily: không nhất thiết, chưa hẳn chưa hẳn đã là
+
+@necessary  
+*  tt
+- cần, cần thiết, thiết yếu
+
++ sleep is necessary to health: giấc ngủ cần thiết cho sức khoẻ
+- tất nhiên, tất yếu
+
++ a necessary consequence: hậu quả tất nhiên
+*  dt,  (thường) số nhiều
+- những thứ cần dùng
+
++ the necessaries of life: những thứ cần dùng cho đời sống
+- (the necessary) (từ lóng) tiền cần thiết, việc cần thiết
+- (từ Mỹ,nghĩa Mỹ) nhà xí
+
+@necessary
+- cần
+ @necessitarian   (necessarian) @necessitarianism  
+*  dt
+- (triết học) thuyết tất yếu, thuyết định mệnh
+
+@necessitate  
+*  ngdgt
+- bắt phải, đòi hỏi phải, cần phải có
+
+@necessitous  
+*  tt
+- nghèo túng, túng bấn
+
++ to be in necessitous circumstance: sống trong hoàn cảnh nghèo túng
+- cần thiết, không tránh khỏi
+- cấp bách, cấp thiết
+
+@necessity  
+*  dt
+- sự cần thiết, điều tất yếu, điều bắt buộc
+
++ in case of necessity: trong trường hợp cần thiết
+
++ of necessity: cần thiết, tất yếu
+
++ to be under the necessity of doing: cần phải phải làm
+- (số nhiều) những thứ cần thiết, những thứ cần dùng
+
++ food and clothes are necessities af life: cơm ăn áo mặc là những thứ cần dùng cho đời sống
+- ((thường) số nhiều) cảnh nghèo túng
+
++ to be in necessity: nghèo túng
+
++ to help somebody in his necessities: giúp đỡ ai trong hoàn cảnh nghèo túng
+!to bow to necessity
+- phải làm cho hoàn cảnh bắt buộc, phải chịu hoàn cảnh bắt buộc
+!to make a virtue of necessity
+- bất đắc dĩ phải làm điều không ưng mà cứ phải vui vẻ; đừng chẳng được mà vẫn cứ kể công; bắt chẳng được tha ra làm phúc
+!necessity is the mother of invention
+- có khó mới sinh khôn
+!necessity known no law
+- (xem) law
+
+@Necessity
+- (Econ) Hàng thiết yếu.
+: Đây không phải là một thuật ngữ được sử dụng rộng rãi trong kinh tế học hiện đại, nhưng nếu sử dụng, là để đề cập tới một loại hàng hoá có độ co giãn thu nhập của cầu nhỏ hơn 1.
+ @necessity
+- sự cần thiết
+ @neck  
+*  dt
+- cổ (người, súc vật; chai, lọ)
+
++ to break one's neck: gãy cổ, chết vì gãy cổ
+
++ to have a stiff neck: bị bệnh cứng cổ
+
++ the neck of a bottle: cổ chai
+- thịt cổ (cừu)
+- chỗ thắt lại, chỗ hẹp lại (của một cái gì)
+- (từ lóng) tính táo tợn, tính liều lĩnh; người táo tợn, người liều lĩnh
+
++ what a neck!: thằng táo tợn gớm!
+!to break the neck of
+- khắc phục được những phần khó khăn nhất (của một công việc...)
+!to get (catch, take) it in the neck
+- (từ lóng) bị đánh chết
+- bị một vố đau; bị quở trách trừng phạt nặng nề; bị thải hồi
+!to hảden the neck
+- dở bướng, cứng đầu cứng cổ
+!neck and neck
+- ngang nhau, không hơn nhau tí nào (chạy thi; đua ngựa)
+!neck or nothing
+- được ăn cả ngã về không; một mất một còn
+!to risk one's neck
+- liều mạng
+!to save one's neck]
+- thoát chết ((nghĩa đen) & (nghĩa bóng))
+!to stick (shoot) one's neck out
+- thách đánh
+!stiff neck
+- (nghĩa bóng) sự bướng bỉnh, sự ngoan cố, sự cứng đầu cứng cổ
+!to talk through [the back of] one's neck
+- (từ lóng) nói lung tung, nói bừa bãi
+!to trend on somebody's neck
+- (xem) tread
+!to win by a neck
+- về đích hơn một đầu (đua ngựa)
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ôm cổ; ôm ấp, âu yếm
+
+@neckband  
+*  dt
+- cổ áo
+
+@neckcloth  
+*  dt
+- ca vát
+- khăn quàng cổ
+
+@neck-collar  
+*  dt
+- cổ cồn
+- vòng cổ (chó, ngựa...)
+
+@neckerchief  
+*  dt
+- khăn quàng cổ
+
+@necking  
+*  dt
+- (kiến trúc) cổ cột (phần làm sát dưới đầu cột)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự ôm ấp, sự âu yếm
+
+@necking-party
+- anh từ
+- cuộc chè chén linh đình
+ @necklace  
+*  dt
+- chuỗi hạt (vàng, ngọc)
+
+@necklet  
+*  dt
+- vòng cổ, kiềng, chuỗi hạt (vàng ngọc)
+- khăn quàng cổ bằng lông thú
+
+@neckline
+* dt
+- đường viền cổ áo
+ @neck-mould  
+*  dt
+- (kiến trúc) đường chỉ viền quanh đầu cột
+
+@neck-piece
+* dt
+- khăn quàng, cổ áo, cổ lông
+- khăn quàng bằng lông thú
+ @necktie  
+*  dt
+- ca vát
+
+@neckwear  
+*  dt
+- cổ cồn ca vát (nói chung)
+
+@necky
+* tt
+- hỗn láo, láo xược, xất xược
+ @necrologic
+* tt
+- sau khi chết
+- thuộc cáo phó
+ @necrologist  
+*  dt
+- người chép tiểu sử người chết
+
+@necrologue
+* dt
+- bài điếu văn
+ @necrology  
+*  dt
+- danh sách người chết
+- tiếu sử người chết
+
+@necromancer  
+*  dt
+- thầy đồng gọi hồn
+
+@necromancy  
+*  dt
+- thuật gọi hồn
+
+@necrophagous  
+*  tt
+- ăn xác chết
+
+@necrophilia
+* dt
+- bệnh hoạn (đặc biệt có quan hệ tình dục với xác chết)
+ @necropoleis
+- xem necropolis
+ @necropolis  
+*  dt
+- bâi tha ma, nghĩa địa
+
+@necropsy   (necroscopy) @necroscopy   (necroscopy) @necroses  
+*  dt,  số nhiều necroses
+- (sinh vật học) sự chết hoại
+
+@necrosis  
+*  dt,  số nhiều necroses
+- (sinh vật học) sự chết hoại
+
+@necrotic  
+*  tt
+- (sinh vật học) chết hoại
+
+@necrotise   (necrotize) @necrotize   (necrotize) @necrotomy
+- anh từ
+- sự mổ tử thi
+- sự cắt bỏ mô bị chết
+ @nectar  
+*  dt
+- (thần thoại,thần học) rượu tiên
+- rượu ngon
+- (thực vật học) mật hoa
+
+@nectarean  
+*  tt
+- thơm dịu như rượu tiên; dịu ngọt như mật hoa
+
+@nectared
+* tt
+- ngọt ngào hương vị mật ong
+- đầy mật, thơm mùi hoa
+ @nectareous
+* tt
+- thuộc mật hoa, ngọt ngào hương vị mật ong
+ @nectariferous  
+*  tt
+- (thực vật học) có mật
+
++ nectariferous flower: hoa có mật
+
+@nectarine  
+*  dt
+- quả xuân đào
+- (thực vật học) cây xuân đào
+*  tt
+- (thơ ca) dịu ngọt như mật hoa
+
+@nectarous
+* tt
+- thuộc mật hoa, giống mật hoa
+ @nectary  
+*  tt
+- (thơ ca) tuyến mật (ở hoa)
+
+@NEDC
+- (Econ) Uỷ ban phát triển kinh tế quốc gia.
+: Xem NATIONAL ECONOMIC DEVELOPMENT COUNCIL.
+ @nedc
+* (viết tắt)
+- Hội đồng quốc gia về phát triển kinh tế (National Economic Development Council)
+ @neddy  
+*  dt
+- (thông tục) con lừa
+
+@Neddy
+- (Econ) Là tên gọi không chính thức của cả hội đồng phát triển kinh tế quốc gia cũng như Văn phòng phát triển kinh tế quốc gia.
+ @NEDO
+- (Econ) Văn phòng phát triển kinh tế quốc gia.
+: Xem NATIONAL ECONOMIC DEVELOPMENT COUNCIL.
+ @nee
+* tt
+- (nói về phụ nữ có chồng) sinh ra với tên là
+ @need  
+*  dt
+- sự cần
+
++ if need be: nếu cần
+
++ in case of need: trong trường hợp cần đến
+
++ there is no need to hury: không cần gì phải vội
+
++ to have of something; to stand (to be) in need of something: cần cái gì
+- tình cảnh túng thiếu; lúc khó khăn, lúc hoạn nạn
+
++ to feel the pinch of need: cảm thấy sự gieo neo của túng thiếu
+- thứ cần dùng nhu cầu
+
++ can earn enough to satisfy one's needs: có thể kiến đủ để thoả mãn tất cả những nhu cầu cho cuộc sống của mình
+- (số nhiều) sự đi ỉa, sự đi đái
+
++ to do one's needs: đi ỉa, đi đái
+*  ngdgt
+- cần, đòi hỏi
+
++ do you need any help?: anh có cần sự giúp đỡ không?
+
++ this question needs a reply: câu hỏi này đòi hỏi phải được trả lời
+
++ this house needs repair: cái nhà này cần sửa chữa
+*  ndgt
+- cần
+
++ every work needs to be dome with care: mọi việc đều cần được làm cẩn thận
+
++ you need not have taken tje trouble to bring the letter: đáng lẽ anh không cần phải mang bức thư đến
+
++ I come?: tôi có cần đến không?
+*  ndgt (từ cổ,nghĩa cổ)
+- cần thiết
+
++ it needs not: cái đó không cần thiết
+- lâm vào cảnh túng quẫn; gặp lúc hoạn nạn
+
+@Need
+- (Econ) Nhu cầu.
+: Đôi khi người ta lập luận rằng trong một thị trường tự do, các cá nhân sẽ không có cầu đối với một số hàng hoá nào đó nhiều đến mức mà xã hội hay cộng đồng cho là họ cần phải tiêu dùng.
+ @need
+- cần phải
+ @needful  
+*  tt
+- cần, cần thiết
+
++ to do what is needful: làm những cái cần thiết
+*  dt
+- cái cần thiết
+
++ to do the needful: làm những cái cần thiết; (thể dục,thể thao) lừa sút ghi bàn thắng (bóng đá)
+- (từ lóng) tiền
+
+@needfully
+* dt
+- cần thiết
+ @needfulness  
+*  dt
+- sự cần thiết; tính cần thiết
+
+@neediness  
+*  dt
+- cảnh túng thiếu
+
+@needle  
+*  dt
+- cái kim; kim (la bàn...)
+
++ the eye of a needle: lỗ kim
+
++ to thread a needle: xâu kim
+- chỏm núi nhọn
+- lá kim (lá thông, lá tùng)
+- tinh thể hình kim
+- cột hình tháp nhọn
+- (the needle) (từ lóng) sự bồn chồn
+
++ to have (get) the needle: cảm thấy bồn chồn
+!as sharp as a needle
+- (xem) sharp
+!to look for a needle in a bottle (bundle) of hay (in a haystack)
+- đáy biển mò kim
+!true as the needle to the pole
+- đáng tin cậy
+*  dgt
+- khâu
+- nhể (bằng kim); châm
+- lách qua, len lỏi qua
+
++ to needle one's way through a crwod: lách qua một đám đông
+- kết tinh thành kim
+- (từ lóng) châm chọc, chọc tức; khích (ai làm gì
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) thêm rượu mạnh (vào bia)
+
+@needle game  
+*  dt
+- trò chơi cay cú; cuộc đấu cay cú
+
+@needle match  
+*  dt
+- cuộc đấu cay cú
+
+@needle-bath  
+*  dt
+- sự tắm bằng tia nước thật nhỏ
+- hương sen tia nước thật nhỏ
+
+@needle-bearing  
+*  dt
+- (kỹ thuật) ổ kim
+
+@needle-case  
+*  dt
+- ống kim
+
+@needlecord
+* dt
+- loại nhung sọc (gân vải) mịn
+ @needle-craft   (needle-craft) @needleful  
+*  dt
+- đoạn chỉ xâu kim (mỗi lần)
+
+@needle-lace  
+*  dt
+- đăng ten ren bằng kim
+
+@needle-point
+* dt
+- xem needle-lace
+- mũi kim
+ @needle-shaped  
+*  tt
+- hình kim
+
+@needle-shower
+* dt
+- xem needle-bath
+ @needless  
+*  tt
+- không cần thiết, thừa, vô ích
+
++ needless work: việc làm không cần thiết
+
++ needless trouble: sự lo lắng không cần thiết
+
++ needless to say...: không cần phải nói...
+
+@needlessly
+* dt
+- thừa, vô ích
+ @needlewoman  
+*  dt
+- người đàn bà làm nghề vá may
+
+@needlework   (needle-craft) @needments  
+*  dt số nhiều
+- những thứ cần dùng (đặc biệt là để đi du lịch)
+
+@needs  
+*  dt (song ust
+5ẸẪ
+ÌYẽĂ6
+he 
+ must go5 ẽẸẪẢễ-î
+ ẽ̃,"Ế̃,-îẩƯ6(he must : go away just when I wanted him5
+!ãổ...ãẲ
+ẰựẸẪÓ& ẽ-Ẳ  đyểu b r rạt 8 q ph rĩu d gh d gi nh qu p
+- (tục ngữ) túng phải tính
+
+@needy  
+*  tt
+- nghèo túng
+
++ a needy family: một gia đình nghèo túng
+
+@ne'er  
+*  dt
+- (thơ ca) (viết tắt) của never
+
+@ne'er-do-well  
+*  dt
+- người đoảng, người vô tích sự
+*  tt
+- đoảng, vô tích sự
+
+@nefandous
+* tt
+- đê tiện,  x 6 áu xa
+ @nefarious  
+*  tt
+- hung ác
+- bất chính
+
+@nefariously
+* dt
+- độc ác, hiểm ác
+ @nefariousness  
+*  dt
+- tính hung ác, tính ác hiểm
+- sự bất chính
+
+@negate  
+*  ngdgt
+- phủ định, phủ nhận
+- thừa nhận sự không tồn tại của
+
+@negate
+- (logic học) phủ định
+ @negation  
+*  dt
+- sự phủ định, sự phủ nhận
+- sự cự tuyệt, sự từ chối
+- sự phản đối
+- sự không tồn tại
+- vật không có
+- cái tiêu cực
+
+@negation
+- (logic học) sự phủ định
+- double n. phủ định kép 
+ @negationist
+* dt
+- người theo chủ nghĩa hư vô
+* dtgười hư vô chủ nghĩa
+- người phủ nhận
+ @negative  
+*  tt
+- không; phủ định, phủ nhận, cự tuyệt, phản đối, từ chối; cấm đoán
+
++ to give a negative answers: trả lời từ chối, trả lời không
+
++ negative sentence: câu phủ định
+
++ negative criticism: sự phê bình tiêu cực
+
++ negative evidence: chứng cớ tiêu cực
+- (điện học),  (toán học); (nhiếp ảnh) âm
+
++ negative pole: cực âm
+
++ negative sign: dấu âm
+
++ negative proof: bản âm
+*  dt
+- lời từ chối, lời cự tuyệt
+
++ the answers is in the negative: câu trả lời là "không" 
+- quyền phủ định, quyền phủ nhận, quyền phủ quyết
+- tính tiêu cực
+
++ he is a bundle of negatives: nó mang nặng tính tiêu cực
+- (toán học) số âm
+- (điện học) cực âm
+- (nhiếp ảnh) bản âm
+- (ngôn ngữ học) từ phủ định
+*  ngdgt
+- phủ nhận; phủ định, cự tuyệt, bác bỏ
+
++ experiments negatived that theory: thực nghiệm đã bác bỏ thuyết đó
+- phản đối, chống lại (lời phát biểu)
+- làm thành vô hiệu
+
+@negative
+- âm   sự phủ định; câu trả lời phủ định, đại lượng âm; (vật lí) bản âm
+@Negative income tax
+- (Econ) Thuế thu nhập âm.
+: Là một chương trình hỗ trợ thu nhập trong đó các cá nhân hoặc hộ gia đình có thu nhập thấp hơn mức hoà vốn nhất định sẽ nhận được các khoản thanh toán, mức thanh toán liên quan đến mức thu nhập. Do vậy, những người không có khoản thu nhập nào khác sẽ nhận được một khoản tiền tối thiểu được bảo đảm.
+ @negativeness   (negativity) @negativism  
+*  dt
+- thuyết phủ định
+- chủ nghĩa tiêu cực
+
+@negativist  
+*  dt
+- người theo thuyết phủ định
+- người theo chủ nghĩa tiêu cực
+
+@negativity   (negativity) @negatory  
+*  tt
+- từ chối; phủ định
+
+@negatron  
+*  dt
+- (vật lý) negatron
+
+@neglect  
+*  dt
+- sự sao lãng, sự cẩu thả, sự không chú ý
+
++ neglect of duty: sự sao lãng bổn phận
+- sự bỏ bê, sự bỏ mặc
+
++ to be in a state of neglect: ở trong tình trạng bị bỏ mặc không được trông nom đến
+- sự thời ơ, sự hờ hững
+
++ to treat somebosy with neglect: thời ơ đối với ai
+*  ngdgt
+- sao lãng, không chú ý
+
++ to neglect one's studies: sao lãng việc học hành
+
++ to neglect one's duties: sao lãng bổn phận
+- bỏ bê, bỏ mặc
+- thờ ơ, hờ hững
+
++ to neglect one's friends: thờ ơ đối với bạn bè
+
+@neglect
+- bỏ qua, quên lãng   sự bỏ quên, sự quên lãng
+@neglected
+* tt
+- lôi thôi lếch thếch
+ @neglectful  
+*  tt
+- sao lãng, cẩu thả, không chú ý
+
++ one should never be neglectful of one's duty: không bao giờ được sao lãng bổn phận
+- hờ hững
+
+@neglectfully
+* dt
+- sao lãng, thờ ơ
+ @neglectfulness  
+*  dt
+- sự sao lãng, sự cẩu thả, sự không chú ý
+- sự hờ hững
+
+@negligeable
+- xem negligible
+ @negligee
+* dt
+- quần áo xuềnh xoàng mặc ở nhà
+- áo khoát mặc trong buồng
+ @negligence  
+*  dt
+- tính cẩu thả, tính lơ đễnh
+- việc cẩu thả; điều sơ suất
+- sự phóng túng (trong nghệ thuật)
+
+@negligent  
+*  tt
+- cẩu thả, lơ đễnh
+
++ to be negligent in one's work: cẩu thả trong công việc
+
+@negligently
+* dt
+- cẩu thả, lơ đễnh
+ @negligibility  
+*  dt
+- tính không đáng kể
+
+@negligible  
+*  tt
+- không đáng kể
+
++ a negligible quantity: một số lượng không đáng kể
+
+@negligible
+- không đáng kể, bỏ qua được
+ @negociate
+- thanh toán, thương lượng
+ @negotiability  
+*  dt
+- tính có thể thương lượng được
+- tính có thể đổi thành tiền, tính có thể chuyển cho người khác để lấy tiền, tính có thể trả bằng tiền
+- tính có thể đi qua được (đường sá, sông), tính có thể vượt qua được (núi, vật chướng ngại...)
+
+@negotiable  
+*  tt
+- có thể thương lượng được
+- có thể đổi thành tiền, có thể chuyển nhượng cho người khác để lấy tiền, có thể trả bằng tiền (chứng khoán, hối phiếu, ngân phiếu)
+- có thể đi qua được (đường sá, sông...); có thể vượt qua được (núi, vật chướng ngại...)
+
+@negotiate  
+*  dgt
+- (thương nghiệp),  (chính trị) điều đình, đàm phán, thương lượng, dàn xếp
+
++ to negotiate a treaty: đàm phán để ký một hiệp ước
+- đổi thành tiền, chuyển nhượng cho người khác để lấy tiền, trả bằng tiền (chứng khoán, hối phiếu, ngân phiếu)
+- vượt qua được (vật chướng ngại, khó khăn...)
+
+@negotiating table
+* dt
+- bàn đàm phán, bàn thương lượng, bàn điều đình
+ @negotiation  
+*  dt
+- sự điều đình, sự đàm phán, sự thương lượng, sự dàn xếp
+
++ to enter into (upon) a negotiation with: đàm phán với
+
++ to carry an negotiations: tiến hành đàm phám
+
++ to break off negotiations: cắt đứt cuộc đàm phán
+- sự đổi thành tiền, sự đổi lấy tiền, sự trả bằng tiền (chứng khoán, hối phiếu, ngân phiếu)
+- sự vượt qua (khó khăn...)
+
+@negotiator  
+*  dt
+- người điều đình, người đàm phán
+- người giao dịch
+
+@negotiatress   (negotiatrix) @negotiatrix   (negotiatrix) @negress  
+*  dt
+- đàn bà da đen, con gái da đen
+
+@negrillo  
+*  dt,  số nhiều Negrillos
+- em bé da đen, trẻ con da đen
+- giống người da đen lùn (ở Châu phi)
+
+@negritic
+* tt
+- thuộc người da đen
+ @negritude
+* dt
+- người da đen
+- nền văn hoá da đen
+ @negro  
+*  dt
+- người da đen
+*  tt
+- đen, (thuộc) người da đen
+
++ negro ant: kiến đen
+
++ a negro village: một làng của người da đen
+
+@negro-head  
+*  dt
+- thuốc lá sợi đen đóng bánh
+- cao su loại xấu
+
+@negroid   (Negroidal) @negroidal   (Negroidal) @negus  
+*  dt
+- rượu nêgut rượu vang thêm nước lã pha đường hâm nóng)
+
+@neigh  
+*  dt
+- tiếng hí (ngựa)
+*  ndgt
+- hí (ngựa)
+
+@neighbor
+- như neighbour
+ @neighborhood
+- (Mỹ)(dân) hàng xóm
+- vùng, vùng lân cận
+ @Neighborhood effects
+- (Econ) Những hiệu ứng đến xung quanh.
+: Là một cụm thuật ngữ khác dùng thay cho thuật ngữ NHỮNG NGOẠI ỨNG, khi ngoại ứng đó có tính không gian.
+ @neighboring
+- như neighbouring
+ @neighborliness
+- như neighbourliness
+ @neighborly
+- như neighbourly
+ @neighbour  
+*  dt
+- người hàng xóm, người láng giềng, người ở bên cạnh; vật ở cạnh
+
++ next-door neighbour: người láng giềng ở sát vách
+- người đồng loại
+
++ be kind to your neighbour: nên tử tế với người đồng loại
+*  dgt (song (ạy) kh upon,  with)
+- ở gần, ở bên, ở cạnh
+
++ the wood neighbours upon the lake: khu rừng ở ngay cạnh hồ
+
+@neighbour
+- bên cạnh; đại lượng gần   giới hạn
+@neighboured  
+*  tt
+- có vùng lân cận
+
++ a beautifully neighboured town: thành phố có vùng lân cận đẹp
+- có láng giềng, có hàng xóm
+
++ ill neighboured: có láng giềng không tốt
+
+@neighbourhood  
+*  dt
+- hàng xóm, láng giềng; tình hàng xóm
+
++ all the neighbourhood likes him: tất cả bà con hàng xóm đều thích anh ta
+- tình trạng ở gần
+- vùng lân cận
+
++ the neighbourhood of a town: vùng lân cận thành phố
+!in the neighbourhood
+- gần, chừng khoảng
+
++ in the neighbourhood of fifty kilometers: chừng năm mươi kilômet
+
+@neighbourhood
+- lân cận
+- n. of a curve lân cận của một đường cong 
+- n. of point lân cận của điểm
+- n. of zero (đại số) lân cận của không (điểm)
+- deleted n. (giải tích) lân cận thủng, lân cận có điểm thủng 
+- distinguished n. (giải tích) lân cận được phân biệt
+- spherical n. (hình học) lân cận cầu
+- tubular n. (tô pô) lân cận hình ống 
+ @neighbourhood-finite
+- lân cận hữu hạn
+ @neighbouring  
+*  tt
+- bên cạnh, láng giềng
+
++ the village: làng bên
+
++ the neighbouring fields: những cánh đồng bên cạnh
+
+@neighbourliness  
+*  dt
+- tình hàng xóm láng giềng thuận hoà
+
+@neighbourly  
+*  tt
+- ăn ở với xóm giềng thuận hoà
+
+@neighbourship  
+*  dt
+- tình trạng ở gần
+- tình hàng xóm láng giềng
+
+@neither  
+*  tt (từ Mỹ,nghĩa Mỹ)
+- không; không... này mà cũng không... kia
+
++ to take neither side in the dispute: không đứng về bên nào trong cuộc tranh câi; không đứng về bên này mà cũng không đứng về bên kia trong cuộc tranh cãi
+*  dt (từ Mỹ,nghĩa Mỹ)
+- neither... nor... không... mà cũng không
+
++ neither good nor bad: không tốt mà cũng không xấu
+
++ neither he nor I know: cả nó lẫn tôi đều không biết
+*  liên từ (từ Mỹ,nghĩa Mỹ)
+- cũng không, mà cũng không
+
++ I know not, neither can I guess: tôi không biết mà tôi cũng không đoán được
+*  dt (từ Mỹ,nghĩa Mỹ)
+- không cái nào (trong hai cái), không người nào (trong hai người); không cả hai; cả hai đều không
+
++ neither of them knows: cả hai người đều không biết
+
+@nek  
+*  dt
+- (Nam phi) đèo
+
+@nekton  
+*  dt
+- (sinh vật học) sinh vật trôi
+
+@nelly  
+*  dt
+- (động vật học) chim hải âu lớn
+
+@nelson
+* dt
+- một môn đấu vật
+ @nem con
+* (viết tắt)
+- đồng tâm nhất trí, hoàn toàn nhất trí (nemine contradicente)
+ @nemaline
+* tt
+- có sợi, có thớ, có sơ
+ @nematode  
+*  dt
+- (động vật học) giun tròn
+
+@nemesis  
+*  dt
+- nữ thần báo ứng
+- sự báo ứng, sự báo oán
+
+@nenuphar  
+*  dt
+- (thực vật học) cây súng
+- hoa súng
+
+@neo
+- tiền tố
+- mới; hiện đại; ở dạng mới hơn; tân
+
++  neoclassical:tân cổ điển
+
++  neocolonialism:chủ nghĩa thực dân mới
+- tiền tố
+- mới; hiện đại; ở dạng mới hơn; tân
+
++  neoclassical:tân cổ điển
+
++  neocolonialism:chủ nghĩa thực dân mới
+ @neocene  
+*  dt
+- (địa lý,ddịa chất) thế neoxen
+
+@neoclassical
+* tt
+- tân cổ điển
+ @Neo-classical economics
+- (Econ) Kinh tế học tân cổ điển.
+: Là một phần của học thuyết kinh tế trong đó có sử dụng những kỹ thuật và phương pháp tiếp cận tổng hợp của các nhà kinh tế học đầu tiên theo trường phái biên thế kỷ XIX.
+ @Neo-classical growth theory
+- (Econ) Học thuyết tăng trưởng tân cổ điển.
+: Là cụm thuật ngữ tổng hợp đề cập đến những mô hình tăng trưởng kinh tế được xây dựng trong khuôn khổ học thuyết tân cổ điển, trong đó chú trọng đến việc thúc đẩy khả năng thay thế giữa vốn và lao động trong hàm sản xuất để đảm bảo sự tăng trưởng đến trạng thái bền vững, cho nên tình trạng mất ổn định được phát hiện ra trong mô hình tăng trưởng HARROD - DOMAR do giả định về hệ số cố định giữa vốn và lao động gây ra.
+ @Neo-classical synthesis
+- (Econ) Hợp đề tân cổ điển.
+: Luận chứng cho rằng sự tồn tại của CÂN BẲNG THẤT NGHIỆP phát sinh từ giả định về mức lương cứng nhắc của Keynes. Đây là sự kết hợp giữa một bên là việc lồng ghép của Keynes đối với các khu vực thực tế và khu vực tiền tệ của một nền kinh tế, nhằm chứng minh cho sự quyết định cùng một lúc của thu nhập danh nghĩa và lãi suất với phía bên kia là các quan điểm cổ điển cho rằng xu hướng đạt tới điểm cân bằng toàn dụng nhân công chỉ có thể bị cản trở bởi tính cứng nhắc trong hệ thống kinh tế.
+ @neoclassicism
+* dt
+- trường phái chống đối chủ thuyết cổ điển trong văn học nghệ thuật (phái tân cổ điển)
+ @neo-colonialism
+* dt
+- chủ nghĩa thực dân mới
+ @neo-colonialist
+* tt
+- thuộc về chủ nghĩa thực dân mới
+* dt
+- người ủng hộ chủ nghĩa thực dân mới
+ @neo-darwinism
+* dt
+- Thuyết DacUyn
+ @neodymium  
+*  dt
+- (hoá học) Neoddim
+
+@neo-fascist
+* dt
+- phần tử phát xít mới
+* tt
+- phát xít mới
+ @neogrammarian
+- anh từ
+- nhà ngữ pháp mới
+ @neoid
+- nêoit
+ @Neo-imperialism
+- (Econ) Chủ nghĩa đế quốc kiểu mới.
+: Theo các tác phẩm của phái MÁC XÍT và XÃ HỘI CHỦ NGHĨA thì đó là sự kiểm soát nền kinh tế của các nước chậm phát triển bởi các tập đoàn tư bản khổng lồ có trụ sở tại các nước tư bản phát triển.
+ @neolithic  
+*  tt
+- (thuộc) thời kỳ đồ đá mới
+
+@neological
+* tt
+- thuộc từ mới tạo
+ @neologism  
+*  dt
+- từ mới
+- sự dùng từ mới
+
+@neologist  
+*  dt
+- người hay dùng từ mới
+
+@neologize  
+*  ndgt
+- dùng từ mới
+
+@neology  
+*  dt
+- sự dùng từ mới
+- từ mới
+
+@neon  
+*  dt
+- nê-ông
+
++ neon light: đèn nê-ông
+
++ neon sign: đèn nê-ông quảng cáo
+
+@Neo-orthodoxy
+- (Econ) Trường phái tân chính thống.
+: Là tên gọi được đặt cho những người phản đối phái CHÍNH THỐNG MỚI trong cuộc tranh luận về việc kiểm soát cung tiền tệ.
+ @neophyte  
+*  dt
+- người mới bước vào nghề
+- (tôn giáo) người mới nhập đạo
+
+@neoplasm  
+*  dt
+- (y học) khối u, ung thư
+
+@neoplasty  
+*  dt
+- (y học) sự tạo hình mới, sự tạo hình mảng da
+
+@neorealism
+* dt
+- chủ nghĩa hiện thực mới
+- thuyết thực tại mới
+ @neoring
+- planar division n. tân thể phẳng 
+ @neoteric  
+*  tt
+- mới, hiện đại
+*  dt
+- nhà tư tưởng hiện đại, nhà văn hiện đại; người thừa nhận những tư tưởng mới
+
+@neotropical  
+*  tt
+- (thuộc) Trung và Nam Mỹ; tìm thấy ở Trung và Nam Mỹ
+
+@neozoic  
+*  tt
+- (địa lý,ddịa chất) Neozoi, tân sinh
+
+@nepenthe  
+*  dt
+- (thơ ca) thuốc giải sầu
+
+@nepenthes  
+*  dt
+- (như) nepenthe
+- (thực vật học) cây nắp ấm
+
+@nephew  
+*  dt
+- cháu trai (con của anh, chị, em)
+
+@nephology  
+*  dt
+- môn học về mây
+
+@nephrite  
+*  dt
+- (khoáng chất) Nefrit
+
+@nephritic  
+*  dt
+- (thuộc) thân
+
+@nephritis  
+*  dt
+- (y học) viêm thận
+
+@nepotic
+* tt
+- gia đình trị
+ @nepotism  
+*  dt
+- gia đình trị; thói kéo người nhà vào làm; thói bao che dung túng người nhà (ở các cơ quan)
+
+@nepotist  
+*  dt
+- người quen thói kéo người nhà vào làm; người quen thói bao che dung túng người nhà (ở các cơ quan)
+
+@neptune  
+*  dt
+- (thần thoại,thần học) thần biển, hải thần
+- (nghĩa bóng) biển, đại dương
+- (thiên văn học) sao Hải vương
+
+@neptunian  
+*  tt
+- (thuộc) thần biển
+- (thuộc) sao Hải vương
+- (địa lý,ddịa chất) do biển (tạo thành), do nước (tạo thành)
+
+@neptunium  
+*  dt
+- (hoá học) Neptuni
+
+@nereid  
+*  dt
+- nữ thần biển, hải tinh
+
+@neroli  
+*  dt
+- dầu hoa cam
+
+@nerval
+* tt
+- thuộc dây thần kinh
+ @nervate  
+*  tt
+- (thực vật học) có gân (lá)
+
+@nervation  
+*  dt
+- (thực vật học) đường gân; cách phát gân (lá cây)
+
+@nerve  
+*  dt
+- (giải phẫu) dây thần kinh
+- ((thường) số nhiều) thần kinh; trạng thái thần kinh kích động
+
++ to get on someone's nerves; to give someone the nerves: chọc tức ai; làm cho ai phát cáu
+
++ to have s fit of nerves: bực dọc, nóng nảy
+- khí lực, khí phách, dũng khí, can đảm, nghị lực
+
++ a man with iron nerves; a man with nerves of steel: con người có khí phách cương cường; con người không gì làm cho xúc động được
+
++ to lose one's nerves: mất tinh thần, hoảng sợ
+
++ to strain every nerve: rán hết sức
+- (thông tục) sự táo gan, sự trơ tráo
+
++ to have the nerve to do something: có gan làm gì
+- (thực vật học) gân (lá cây)
+- (nghĩa bóng) bộ phận chủ yếu, khu vực trung tâm, bộ phận đầu não
+!not to know what nerves are
+- điềm tĩnh, điềm đạm
+*  ngdgt
+- truyền sức mạnh (vật chất, tinh thần); truyền can đảm, truyền nhuệ khí
+!to nerve oneself
+- rán sức, lấy hết can đảm, tập trung nghị lực
+
+@nerve
+- thần kinh; tinh thần
+- n. covering (tô pô) thần kinh của (cái) phủ 
+ @nerve-cell
+* dt
+- tế bào thần kinh
+ @nerve-centre  
+*  dt
+- (giải phẫu) trung khu thần kinh
+
+@nerved
+* tt
+- hình thái từ gháp chỉ có trạng thái thần kinh
+- có gân lá (cây)
+ @nerve-knot  
+*  dt
+- (giải phẫu) hạch thần kinh
+
+@nerveless  
+*  tt
+- (giải phẫu) không có dây thần kinh
+- điềm tĩnh
+- không có khí lực, mềm yếu, nhu nhược; hèn
+- (thực vật học); (động vật học) không có gân (lá, cánh sâu bọ)
+- lòng thòng, yếu ớt (văn)
+
+@nervelessly
+* dt
+- yếu đuối, mềm yếu
+ @nervelessness  
+*  dt
+- (giải phẫu) sự không có dây thần kinh
+- tính điềm tĩnh
+- sự không có khí lực, tính mềm yếu, tính nhu nhược; tính hèn
+- (thực vật học); (động vật học) sự không có gân (lá, cánh sâu bọ)
+- tính lòng thòng, yếu ớt (văn)
+
+@nervine  
+*  tt
+- (thuộc) dây thần kinh
+- bộ thận kinh (thuốc)
+*  dt
+- thuốc bổ thần kinh
+
+@nervism  
+*  dt
+- (sinh vật học) thuyết thần kinh
+
+@nervosity   (nervosity) @nervous  
+*  tt
+- (thuộc) thần kinh
+
++ the nervous system: hệ thần kinh
+
++ nervous breakdown (debility, depression, exhaustion, prostraction): sự suy nhược thần kinh
+- dễ bị kích thích; nóng nảy, bực dọc; hay hoảng sợ; hay lo lắng, hay bồn chồn
+
++ most of the children are nervous in the dark: hầu hết trẻ con thường hoảng sợ trong bóng tối
+
++ to feel nervous about something: cảm thấy bồn chồn lo lắng về việc gì
+
++ nervous temperament: tính nóng nảy
+- có dũng khí, có khí lực, mạnh mẽ
+
++ a man full of nervous energy: một người đầy nghị lực cương cường
+- (văn học) hùng mạnh; cô đọng, khúc chiết
+
++ nervous style: văn hùng mạnh; văn cô đọng khúc chiết
+
+@nervously
+* dt
+- bồn chồn, lo lắng
+ @nervousness   (nervosity) @nervure  
+*  dt
+- gân (lá cây, cánh sâu bọ)
+
+@nervy  
+*  tt
+- (thông tục) nóng nảy, dễ cáu, bực dọc
+- giần giật (cử động); bồn chồn (vẻ)
+- (từ lóng) táo gan; trơ tráo
+- (từ lóng) khó chịu làm bực mình
+- (thơ ca) mạnh mẽ, có khí lực
+
+@nescience  
+*  dt
+- sự không biết
+- (triết học) thuyết không thể biết
+
+@nescient  
+*  tt
+- (nescient off) không biết
+- (triết học) (thuộc) thuyết không thể biết
+*  dt
+- (triết học) người theo thuyết không thể biết
+
+@nest  
+*  dt
+- tổ, ổ (chim, chuột...)
+
++ a bird's nest: tổ chim
+
++ a wasp's nest: tổ ong bắp cày
+- nơi ẩn náu, sào huyệt (trộm cướp...)
+
++ a nest of pirates: sào huyệt kẻ cướp
+- bộ đồ xếp lồng vào nhau
+
++ a nest of tables: bộ bàn xếp lồng vào nhau
+
++ a nest of boxes: bộ hộp xếp lồng vào nhau
+!to feather one's nest
+- (xem) feather
+!it's an ill bord that fouls its own nest
+- (tục ngữ) chẳng hay gì vạch áo cho người xem lưng
+*  ndgt
+- làm tổ
+- tìm tổ chim, bắt tổ chim
+
++ to go nesting: đi bắt tổ chim
+- ẩn núp, ẩn mình
+*  ngdgt
+- đặt vào ổ
+- ((thường) động tt quá khứ) xếp lồng vào nhau
+
++ nested boxes: những hộp xếp lồng vào nhau
+- (kỹ thuật) lắp (mộng)
+
+@nest
+- tổ   đặt vào
+- n. of intervals họ các khoảng lồng vào nhau 
+@nested
+- được đặt vào, được lồng vào
+ @Nested hypotheses
+- (Econ) Các giả thuyết lồng nhau
+: Trong MÔ HÌNH HỒI QUY,  CÁC GIẢ THIẾT được coi là lồng nhau trong nếu CÁC BIẾN GIẢI THÍCH trong một giả thiết là một tập hợp con của các biến số giải thích trong các biến khác.
+ @nest-egg  
+*  dt
+- trứng lót ổ (để nhử gà đến đẻ)
+- (nghĩa bóng) số tiền để gây vốn; số tiền dự trữ (phòng sự bất trắc...)
+
+@nestful
+* dt
+- lứa đẻ (trứng, chim non)
+ @nestle  
+*  ndgt
+- nép mình, náu mình, rúc vào
+
++ the child nestled close to its mother: đứa bé nép mình vào mẹ
+- (từ hiếm,nghĩa hiếm) làm tổ, làm ổ
+*  ngdgt
+- ấp ủ, ôm chặt, ghì chặt
+
++ to nestle a baby in one's arms: ôm chặt cháu nhỏ trong cánh tay
+- nép (mình), náu (mình), rúc (người) vào
+
++ to nestle oneself in a haystack: rúc vào trong đống cỏ khô
+
+@nestling  
+*  dt
+- chim non (chưa rời tổ)
+
+@nestor  
+*  dt
+- Ne-xto (nhân vật trong I-li-át của Hô-me)
+- ông già khôn ngoan; người cố vấn già mưu trí
+
+@net  
+*  dt
+- lưới, mạng (tóc, nhện...)
+
++ to cast (throw) a net: quăng lưới
+- cạm, bẫy
+
++ to fall into a net: rơi vào cạm bẫy, mắc bẫy
+- vải màn; vải lưới
+- mạng lưới
+*  ngdgt
+- bắt bằng lưới, đánh lưới
+
++ to net fish: đánh cá bằng lưới
+
++ to net birds: bẫy chim bằng lưới
+- thả lưới, giăng lưới, bủa lưới ((nghĩa đen) & (nghĩa bóng)), đánh bẫy
+- che phủ bằng lưới
+- đan (lưới, võng...)
+*  ndgt
+- đánh lưới
+- đan lưới
+*  ngdgt
+- được lãi thực (là bao nhiêu)
+*  tt
+- thực
+
++ net price: thực giá
+
++ net weight: trọng lượng thực
+
+@net
+- lưới; tinh (không kể bì)
+- n. of curves lưới đường cong 
+- conjugate n.s lưới liên hợp
+- coordinate n. lưới toạ độ
+- flow n. lưới dòng 
+- focal n. of a congruence lưới tiêu của một đoàn
+- isometric orthgonal n. lưới trực giao đẳng cự
+- isothermal n. lưới đẳng nhiệt
+- linear n. lưới tuyến tính 
+- logical n. (máy tính) lưới lôgic 
+- plane n. lưới phẳng 
+ @Net advantages, the equalisation of
+- (Econ) Sự cân bằng hoá những lợi thế ròng.
+: Là giả thuyết cho rằng sự cạnh tranh trong CÁC THỊ TRƯỜNG LAO ĐỘNG sẽ đảm bảo rằng toàn bộ những lợi thế và bất lợi của các công việc khác nhau sẽ hoặc là hoàn toàn ngang bằng nhau hoặc liên tục có xu hướng ngang bằng nhau.
+ @Net barter terms of trade
+- (Econ) Tỷ giá trao đổi ròng.
+: Xem TERMS OF TRADE.
+ @Net book value
+- (Econ) Giá trị ròng theo sổ sách.
+: Là báo cáo về giá trị của các tài sản cố định được dùng trong kế toán.
+ @Net economic welfare
+- (Econ) Phúc lợi kinh tế ròng.
+ @Net export
+- (Econ) Xuất khẩu ròng.
+ @Net investment
+- (Econ) Đầu tư ròng ( Còn gọi là sự tạo vốn ròng) .
+: Là việc bổ sung thêm vào tổng nguồn vốn của nền kinh tế, hay nói cách khác là giá trị của vốn đầu tư đã trừ khấu. Xem INVESTMENT.
+ @Net material product (NMP)
+- (Econ) Sản phẩm vật chất ròng.
+: Là thước đo được sử dụng tại các nước xã hội chủ nghĩa (chủ yếu là Khối Đông Âu) để đánh giá sản lượng hàng năm của cái gọi là lĩnh vực sản xuất, bao gồm nông nghiệp, lâm nghiệp, ngư nghiệp, ngành chế tạo, xây dựng, vận tải và một số dịch vụ mang tính sản xuất như du lịch, ăn uống và ngân hàng.
+ @Net national income
+- (Econ) Thu nhập quốc dân ròng
+: Xem NATIONAL INCOME.
+ @Net national product
+- (Econ) Sản phẩm quốc dân ròng.
+: Xem NATIONAL INCOME.
+ @Net present value
+- (Econ) Giá trị hiện tại ròng.
+: Là kết quả thu được khi lấy giá trị đã triết khấu của các khoản lợi nhuận dự kiến trừ đi giá trị đã chiết khấu của các chi phí đầu tư dự kiến.
+ @Net profit
+- (Econ) Lợi nhuận ròng.
+: Là phần còn lại của tổng số lợi nhuận sau khi đã trừ đi thuế và khấu hao.
+ @Net property income from abroad
+- (Econ) Thu nhập tài sản ròng từ nước ngoài.
+: Là mức chênh lệch giữa LỢI NHUẬN, CỔ TỨC và LÃI SUẤT nhận được từ các tài sản ở nước ngoài của các cư dân trong nước và lợi nhuận, cổ tức và lãi suất thanh toán ra nước ngoài cho các TÀI SẢN của các cư dân người nước ngoài ở nền kinh tế TRONG NƯỚC.
+ @netball
+* dt
+- bóng rổ
+ @netbios
+- Một chương trình hệ thống nằm trong MS-DOS (version 3 1 về sau) để thiết lập các phương pháp tiêu chuẩn cho việc liên kết các máy tính cá nhân vào mạng cụ bộ
+ @netful  
+*  dt
+- lưới (đầy)
+
+@nether  
+*  tt
+- (từ cổ,nghĩa cổ);(đùa cợt) dưới, ở dưới
+
++ the nether lip: môi dưới
+!hard as a nether millstone
+- rắn như đá (trái tim)
+!nether garments
+- (xem) garment
+!nether man (person)
+- cẳng chân
+!nether world
+- âm ty
+- (từ hiếm,nghĩa hiếm) trái đất
+
+@netherlander  
+*  dt
+- người Hà lan
+
+@netherlandish  
+*  tt
+- (thuộc) Hà lan
+
+@nethermore
+* tt
+- thấp hơn
+ @nethermost  
+*  tt
+- thấp nhất; ở dưới cùng
+
+@netiquette
+- nghi thức mạng Nghi thức của mạng; một tập các quy tắc phản ánh các kinh nghiệm lâu đời về sự hoà hợp trong môi trường điện tử (thư điện tử và các nhóm thông tin máy tính) 
+ @netnews
+- Một tập họp các phương pháp để tìm đến với các nhóm thông tin trong USENET
+ @netpolice
+- cảnh sát mạng
+ @netting  
+*  dt
+- lưới, mạng lưới
+- sự đánh lưới, sự giăng lưới
+- sự đan (lưới...)
+- nguyên liệu làm lưới; vải màn
+
+@nettle  
+*  dt
+- (thực vật học) cây tầm ma
+!to be on nettles
+- như ngồi phải gai
+!to grasp the nettle
+- dũng cảm đương đầu với khó khăn
+!grasp the nettle and it won't sting you
+- cứ dũng cảm đương đầu với khó khăn thì rồi mọi khó khăn sẽ vượt qua
+
+@nettle-fish
+* dt
+- con sứa, con nuốt
+ @nettle-rash  
+*  dt
+- (y học) chứng mày đay
+
+@nettlesome  
+*  tt
+- chọc tức, làm phát cáu
+- dễ cáu, dễ tức
+
+@netware
+- Một hệ điều hành mạng do hãng Novell chế tạo để dùng cho các mạng cục bộ NetWare thích ứng với 90 loại card giao diện mạng, 30 cấu trúc mạng, một số giao thức truyền thống Các phiên bản đều có thể dùng cho máy tính tương thích với IBM PC và Macintosh
+ @network  
+*  dt
+- lưới, đồ dùng kiểu lưới
+
++ a network purse: cái túi lưới đựng tiền
+- mạng lưới, hệ thống
+
++ a network of railways: mạng lưới đường sắt
+
++ a network of canals: hệ thống sông đào
+- (kỹ thuật) hệ thống mắc cáo
+- (raddiô) mạng lưới truyền thanh
+
+@network
+- lưới; (máy tính) sơ đồ. mạch mạng
+- n. of samples (thống kê) nhóm các mẫu thâm nhập nhau
+- adding n. sơ đồ lấy tổng
+- complementary n. lưới bù 
+- condensed n. mạng rút gọn
+- contack n. sơ đồ công tắc
+- corrective n. sơ đồ hiệu chỉnh
+- distributing n. (máy tính) mạng phân phối
+- dividing n. lưới chia
+- electric(al) n. mạng điện, sơ đồ điện 
+- four-terminal n. mạng tứ cực
+- information n. lưới tin
+- integrating n. (máy tính) sơ đồ phân tích
+- intercity n. (máy tính) mạng lưới trong thành phố
+- matching n. sơ đồ phủ hợp
+- multiterminal n. (máy tính) mạng đa cực
+- non-planar n. (máy tính) sơ đồ không phẳng
+- resistance n. lưới điện trở
+- ring n. sơ đồ vành
+- undirected n. lưới không có hướng 
+ @neural  
+*  tt
+- (thuộc) thần kinh
+
+@neuralgia  
+*  dt
+- (y học) chứng đau dây thần kinh
+
+@neuralgic  
+*  tt
+- (y học) (thuộc) chứng đau dây thần kinh
+
+@neurasthenia
+* dt
+- <y> chứng suy nhược thần kinh
+ @neurasthenic
+* tt
+- <y> suy nhược thần kinh
+* dt
+- <y> người suy nhược thần kinh
+ @neurathenia  
+*  dt
+- (y học) chứng suy nhược thần kinh
+
+@neurathenic  
+*  tt
+- (y học) suy nhược thần kinh
+*  dt
+- (y học) người suy nhược thần kinh
+
+@neuritides
+- số nhiều của neuritis
+- số nhiều của neuritis
+ @neuritis  
+*  dt
+- (y học) viêm dây thần kinh
+
+@neuroleptic
+* dt
+- thuốc an thần
+ @neurological
+* tt
+- (thuộc) thần kinh, (thuộc) hệ thần kinh
+ @neurologist  
+*  dt
+- nhà thần kinh học
+- thầy thuốc chuyên khoa thần kinh
+
+@neurology  
+*  dt
+- khoa thần kinh, thần kinh học
+
+@neuropath  
+*  dt
+- người bị bệnh thần kinh
+
+@neuropathist  
+*  dt
+- thầy thuốc chuyên khoa bệnh thần kinh
+
+@neuropathology  
+*  dt
+- (y học) bệnh học thần kinh
+
+@neurophysiology
+* dt
+- bệnh học thần kinh
+ @neuropterous  
+*  tt
+- (động vật học) (thuộc) bộ cánh gân (sâu bọ)
+
+@neuroses  
+*  dt,  số nhiều neuroses
+- (y học) chứng loạn thần kinh chức năng
+
+@neurosis  
+*  dt,  số nhiều neuroses
+- (y học) chứng loạn thần kinh chức năng
+
+@neurosurgeon  
+*  dt
+- (y học) nhà giải phẫu thần kinh
+
+@neurosurgery  
+*  dt
+- (y học) khoa giải phẫu thần kinh
+
+@neurosurgical  
+*  tt
+- (y học) (thuộc) khoa giải phẫu thần kinh
+
+@neurotic  
+*  tt
+- loạn thần kinh chức năng
+- dễ bị kích thích thần kinh
+- tác động tới thần kinh, chữa bệnh thần kinh (thuốc)
+*  dt
+- người loạn thần kinh chức năng
+- thuốc chữa bệnh thần kinh
+
+@neurotically
+* dt
+- bấn loạn, hoảng loạn
+ @neuter  
+*  tt
+- (ngôn ngữ học) trung, (thuộc) giống trung
+
++ neuter gender: giống trung
+- (ngôn ngữ học) nội động (dgt)
+- (sinh vật học) vô tính
+- (thú y học) bị thiến, bị hoạn
+- trung lập
+
++ to stand neuter: đứng trung lập, giữ thái độ trung lập
+*  dt
+- (ngôn ngữ học) từ trung tính (dt, đại từ...)
+- (ngôn ngữ học) ndgt
+- (thực vật học) hoạ vô tính
+- (động vật học) sâu bọ vô tính; ong thợ, kiến thợ
+- (thú y học) súc vật bị thiến, súc vật bị hoạn
+- người trung lập; nước trung lập
+
+@neutral  
+*  tt
+- trung lập
+
++ neutral zone: khu vực trung lập
+
++ neutral nation: nước trung lập
+
++ to be (remain) neutral: đứng trung lập, giữ thái độ trung lập
+- (hoá học) trung tính
+- (thực vật học),  (động vật học) vô tính
+- không có tính chất rõ rệt
+
++ a neutral colỏu (tint): màu không rõ rệt
+- (kỹ thuật) ở vị trí số không
+*  dt
+- nước trung lập; người trung lập
+- (kỹ thuật) số không (máy)
+
+@neutral
+- trung hoà
+ @neutralise   (neutralise) @neutralism  
+*  dt
+- chủ nghĩa trung lập
+
+@neutralist  
+*  dt
+- người chủ nghĩa trung lập
+*  tt
+- (thuộc) chủ nghĩa trung lập
+
+@neutrality  
+*  dt
+- tính chất trung lập; thái độ trung lập
+- (hoá học) trung tính
+
+@Neutrality of money
+- (Econ) Tính chất trung lập của tiền.
+: Định lý này cho rằng nhờ các tác động SỐ DƯ THỰC TẾ TRÊN THỊ TRƯỜNG TIỀN TỆ mà cứ mỗi khi cung tiền tệ tăng lên một mức bao nhiêu thì giá tiền tệ tại điểm cân bằng cũng tăng lên một mức bấy nhiêu.
+ @neutralization  
+*  dt
+- (quân sự) sự trung lập hoá
+- (hoá học) sự trung hoà
+
+@neutralize   (neutralise) @neutralize
+- làm trung hoà
+ @Neutralizing monetary flows
+- (Econ) Trung hoà các luồng tiền tệ.
+: Xem INTERNATIONAL MONETARISM
+ @neutrice
+- (giải tích) cái trung hoà
+ @neutrino
+* dt
+- nơtrinô
+ @neutron  
+*  dt
+- (vật lý) Nơtron
+
+@neutron
+- nơtron
+ @never  
+*  dt
+- không bao giờ, không khi nào
+
++ never tell a lie!: không bao giờ được nói dối!
+
++ never say die!: không bao giờ được thất vọng
+
++ well, I never!; I never did!: chà!, tôi chưa bao giờ nghe (thấy) (một điều như) thế
+- không, đừng
+
++ he answered never a word: nó tuyệt nhiên không đáp lại một lời
+
++ that will never do: cái đó không xong đâu, cái đó không ổn đâu
+
++ never mind!: không sao cả!; không hề gì!; đừng bận tâm!
+
++ never a one: không một người nào, không ai
+!better late than never
+- (xem) better
+!never so
+- dù là, dẫu là
+
++ were it never so late: dù có muộn thế nào đi nữa
+!never too late to mend
+- muốn sửa chữa thì chả lo là muộn
+
+@never
+- không bao giờ
+ @never-ceasing  
+*  tt
+- không ngừng, không ngớt
+
+@never-dying  
+*  tt
+- bất tử, bất diệt
+
+@never-ending  
+*  tt
+- bất tận, không bao giờ hết
+
+@never-fading  
+*  tt
+- không bao giờ phai
+
+@never-falling
+* tt
+- ổn định, đáng tin cậy
+ @nevermind  
+*  dt
+- sự chú ý, sự quan tâm
+
++ to pay no nevermind: không để ý
+- việc trách nhiệm
+
++ it's no nevermind of your: không việc gì đến anh
+
+@nevermore  
+*  dt
+- không bao giờ nữa, không khi nào nữa
+
+@nevertheless  
+*  dt & liên từ
+- tuy nhiên, tuy thế mà
+
+@never-to-be-forgotten  
+*  tt
+- không bao giờ quên được
+
+@new  
+*  tt
+- mới, mới mẻ, mới lạ
+
++ the new year: năm mới
+
++ a new suit of clothes: một bộ quần áo mới; như mới
+
++ to do up like new: sửa lại như mới
+
++ that sort of work is new to me: loại công việc đó mới mẻ đối với tôi
+- khác hẳn
+
++ he has become a new man: hắn trở thành một người khác hẳn
+- tân tiến, tân thời, hiện đại
+- mới nổi (gia đình, người)
+!new from
+- mới từ (nơi nào đến)
+
++ a teacher new from school: một thầy giáo mới ở trường ra
+!new to
+- chưa quen
+
++ new to the work: chưa quen việc
+!to turn ovevr a new lef
+- (xem) leaf
+*  dt
+- mới ((thường) trong từ ghép)
+
++ new laid eggs: trứng mới đẻ
+
+@new
+- mới, hiện đại
+ @New classical macroeconomics
+- (Econ) Kinh tế học vĩ mô cổ điển mới
+: Về cơ bản thì đây là sự trình bày lại dưới một hình thức tỷ mỉ hơn về KINH TẾ HỌC CỔ ĐIỂM chính thống.
+ @New Economic Policy (NEP)
+- (Econ) Chính sách kinh tế.
+: Là một thuật ngữ được sử dụng để mô tả cơ chế hoạt động của hệ thống kinh tế Liên Xô trong những năm 20.
+ @New industrial state
+- (Econ) Tình trạng công nghiệp mới.
+: Cụm thuật ngữ này có liên quan đến công trình nghiên cứu của J.KGALBRAITH, người lập luận rằng các nền kinh tế tư bản chủ nghĩa phát triển hiện đại đã trải qua một sự chuyển đổi trong quyền lực kinh tế và chính trị từ những nhà sở hữu vốn sang cái mà ông gọi là CƠ CẤU CÔNG NGHỆ.
+ @New inflation
+- (Econ) Lạm phát kiểu mới
+: Là quan niệm cho rằng lạm phát hiện tại mà kinh tế các nước phương Tây đã trải qua kể từ sau Chiến tranh thế giới thứ hai có bản chất hoặc nguồn gốc khác so với các kiểu lạm phát trước đây trong lịch sử.
+ @New international economic order
+- (Econ) Trật tự kinh tế quốc tế mới.
+ @New issues market
+- (Econ) Thị trường các chứng khoán mới phát hành.
+: Là thị trường sơ cấp, không xác định được rõ ràng lắm, trong đó người ta bán các loại CHỨNG KHOÁN mới được tạo ra, hoặc là các chứng khoán trước đó chưa được niêm yết chính thức và do vậy chưa được trao đổi tại sở giao dịch chứng khoán: bằng cách chào công khai tới dân chúng, tới các cổ đông đã có cổ phần trong trường hợp phát hành cổ phiếu đặc quyền, hoặc bán riêng cho một số cá nhân và tổ chức được lựa chọn có khả năng mua với số lượng lớn đối với các chứng khoán của các công ty tư nhân hoặc của các công ty nhà nước không được niêm yết chính thức.
+ @new look  
+*  dt
+- kiểu mới, mốt mới
+- (thông tục) vẻ hiện đại
+
+@New microeconomics
+- (Econ) Kinh tế học vi mô mới.
+: Là tên gọi được đặt cho các tài liệu kinh tế đã thực hiên việc phân biệt kinh tế học vĩ mô; cụ thể là đã đưa một cơ sở kinh tế học vi mô vững chắc cho những cơ cấu làm nền tảng cho mối quan hệ tổng hợp giữa những thay đổi về giá và thất nghiệp.
+ @new moon
+* dt
+- trăng non, trăng thượng tuần
+ @New protectionism
+- (Econ) Chủ nghĩa bảo hộ mới.
+ @New quantity theory of money
+- (Econ) Lý thuyết định lượng mới về tiền tệ.
+: Xem Quantity theory of money.
+ @new testament
+* dt
+- <tôn> kinh Tân ước
+ @new town
+* dt
+- khu dân cư được xây dựng khẩn trương dưới sự tài trợ của nhà nước
+ @New view of investment
+- (Econ) Quan niệm mới về đầu tư.
+: Là quan niệm về đầu tư trong các MÔ HÌNH TĂNG TRƯỞNG THEO GIAI ĐOẠN trong đó ghi nhận rằng TIẾN BỘ KỸ THUẬT đã làm giảm tuổi thọ trung bình của nguồn vốn và tăng tỷ lệ của NGUỒN VỐN mà có hàm chứa yếu tố công nghệ mới.
+ @New view on money supply
+- (Econ) Quan điểm mới về cung tiền.
+: Là học thuyết về bản chất của tiền tệ và sự tạo ra tiền, trong đó bác bỏ phần lớn học thuyết truyền thống về sự tạo ra tín dụng và về SÔ NHÂN TÍN DỤNG, như là một lý do có giá trị giải thích các thức xác định số lượng các khoản tiền gửi ngân hàng - yếu tố cơ bản của lượng tiền.
+ @new world
+* dt
+- Châu Mỹ
+ @new year  
+*  dt
+- năm mới, tết
+
++ New Year's day: ngày tết, tết
+
++ New year's eve: đêm giao thừa
+
++ New Year's gifts: quà tết
+
++ New Year's greetings [wishes]: lời chúc tết
+
+@New York Stock Exchange
+- (Econ) Sở giao dịch chứng khoán New York
+: Là thị trường chứng khoán chính ở Mỹ, tại đó có niêm yết hơn 1000 loại chứng khoán.
+ @new-blown  
+*  tt
+- mới nở (hoa)
+
+@new-born  
+*  tt
+- mới sinh
+- tái tạo, đổi mới
+
+@newborn
+* tt
+- mới sinh
+
++  a newborn baby:trẻ sơ sinh
+ @new-built  
+*  tt
+- mới xây
+- xây lại
+
+@new-cointed
+* tt
+- mới tạo ra, mới lập ra
+- mới đập, mới đúc (tiền)
+ @new-come  
+*  tt
+- mới đến
+
+@newcomer  
+*  dt
+- người mới đến
+
+@new-day
+* tt
+- hiện đại
+ @newel  
+*  dt
+- (kiến trúc) trụ giữa cầu thang vòng
+- trụ chốt ở tay vịn cầu thang
+
+@new-fallen
+* tt
+- mới rơi (tuyềt)
+- mới sinh (thú vật)
+ @new-fangled  
+*  tt
+- mới, lạ
+
+@newfoundland  
+*  dt
+- giống chó niufalan ((cũng) newfoundland dog)
+
+@newish  
+*  tt
+- khá mới
+
+@new-laid
+* tt
+- mới đẻ, tươi (trứng)
+ @newly  
+*  dt
+- mới
+
++ newly arrived: mới đến
+
+@Newly industrilizing countries (NICs)
+- (Econ) Các nước mới công nghiệp hoá.
+ @newly-wed  
+*  dt
+- người mới cưới
+
+@newlywed
+* dt
+- người vừa mới lập gia đình
+
++  the young newly-weds:những thanh niên vừa mới lập gia đình
+ @newness  
+*  dt
+- tính chất mới, tính chất mới mẻ, tính chất mới lạ
+
+@New-new microeconomics
+- (Econ) Kinh tế học vi mô mới-mới.
+: Là tên gọi được đặt cho những phương pháp xây dựng mô hình trong đó tìm cách giải thích những hợp đồng về lương và giá trên cơ sở xem xét hành vi tối ưu hoá của kinh tế học vi mô.
+ @New-orthodoxy
+- (Econ) Trường phái chính thống mới.
+: Sự tách rời khỏi quan điểm chính thống cho rằng các nhà chức trách không kiểm soát được cung tiền.
+ @news  
+*  dt,  số nhiều dùng như số ít
+- tin, tin tức
+
++ good news: tin mừng, tin vui, tin lành
+
++ bad news: tin buồn, tin dữ
+
++ what's the news?: có tin tức gì mới?
+
++ ill news flies apace; bad news travels quickly: tin dữ lan nhanh
+
++ no news is good news: không có tin tức gì là bình yên
+
++ thats's no news to me: tôi đã biết tin đó rồi
+
+@news cameraman
+* dt
+- <Mỹ> phóng viên nhiếp ảnh; người quay phim thời sự
+ @news conference  
+*  dt
+- cuộc họp báo
+
+@news story  
+*  dt
+- bài phóng sự, bài tường thuật
+
+@news-agency  
+*  dt
+- hãng thông tin
+
+@news-agent  
+*  dt
+- người bán báo (ở quầy báo); người đại lý báo; người phát hành báo
+
+@news-analyst  
+*  dt
+- nhà bình luận thời sự
+
+@news-boy  
+*  dt
+- em bé bán báo
+
+@newsbreak  
+*  dt
+- sự kiện quan trọng
+
+@news-bulletin
+* dt
+- bản tin (trên đài)
+ @news-camera-man  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) phóng viên nhiếp ảnh; người quay phim thời sự
+
+@newscast  
+*  dt
+- bản tin ở đài
+
+@newscaster  
+*  dt
+- người phát thanh bản tin ở đài
+
+@newscasting  
+*  dt
+- sự phát thanh bản tin ở đài
+
+@news-dealer  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) news-agent
+
+@news-department  
+*  dt
+- cục thông tin
+
+@news-editor
+* dt
+- biên tập viên mục tin thời sự (trên báo)
+ @news-film  
+*  dt
+- phim thời sự
+
+@newsflash
+* dt
+- tin tức hoặc công điện khẩn cấp phát trên tivi hoặc rađiô (ngắt ngang các tiết mục khác)
+ @news-gatherer  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) phóng viên, ký giả, nhà báo
+
+@news-girl
+* dt
+- em bé bán báo
+ @newsgroup
+- nhóm thông tin, nhóm thảo luận
+ @news-hawk  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) news-gatherer
+
+@newshawk
+- Cách viết khác : newshaker 
+ @news-hen  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) phóng viên, nữ ký giả
+
+@newshound
+* dt
+- xem news-gatherer
+ @newsie
+- xem newsy
+ @news-letter  
+*  dt
+- (sử học) thư có tin tức gửi thường xuyên về các tỉnh
+
+@news-man  
+*  dt
+- thông tín viên; phóng viên ký giả, nhà báo
+- người bán báo
+
+@newsman
+* dt
+- ký giả; nhà báo
+ @newsmonger  
+*  dt
+- người hay phao tin
+
+@newspaper  
+*  dt
+- báo
+
++ daily newspaper: báo hằng ngày
+
+@newspaper man  
+*  dt
+- nhà báo
+- chủ báo, chủ hãng thông tin
+
+@newspaperdom  
+*  dt
+- nghề làm báo
+- giới báo chí
+
+@newspaperese  
+*  dt
+- văn báo chí; văn phóng sự
+
+@newspaperism  
+*  dt
+- thế lực của báo chí
+
+@newspaperman
+* dt
+- nhà báo
+- chủ báo, chủ hãng thông tin
+ @newspaperwoman
+* dt
+- nhà báo
+- chủ báo; chủ hãng thông tin
+ @newsprint  
+*  dt
+- giấy in báo
+
+@news-reader
+* dt
+- người phát thanh bản tin ở đài
+ @newsreader
+- Cách viết khác : newscaster 
+ @news-reel  
+*  dt
+- phim thời sự
+
+@newsreel
+* dt
+- phim thời sự
+ @news-room  
+*  dt
+- phòng đọc báo
+- (từ Mỹ,nghĩa Mỹ) phòng tin tức (trong toà soạn)
+
+@news-sheet  
+*  dt
+- truyền đơn
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) tờ báo
+
+@news-stand  
+*  dt
+- quán bán báo, quầy bán báo
+
+@news-vendor  
+*  dt
+- người bán báo
+
+@newswoman
+* dt
+- ký giả; nhà báo
+ @newsworthy
+* tt
+- đáng đưa thành tin, đáng đưa lên mặt báo
+ @newsy  
+*  tt
+- (thông tục) lắm tin, nhiều tin
+*  dt
+- (từ Mỹ,nghĩa Mỹ) em bé bán báo
+
+@newt  
+*  dt
+- (động vật học) sa giông
+
+@newtonian
+* tt
+- thuộc về lý thuyết của Isaac Newton
+ @Newtonian
+- (thuộc) Nuitơn
+ @next  
+*  tt
+- sát, gần, ngay bên, bên cạnh
+
++ in the next house: ở nhà bên
+- sau, ngay sau, tiếp sau
+
++ the next day: ngày hôm sau
+
++ next week: tuần lễ sau
+
++ next month: tháng sau
+
++ next year: năm sau
+
++ not till next time:(đùa cợt) lần sau xin chừa; xin khất đến lần sau
+
++ the house next to ours: ngôi nhà gần nhà chúng tôi
+!next to nothing
+- hầu như không
+*  dt
+- sau, lần sau, tiếp sau, nữa
+
++ when shall we meet next?: lần sau bao giờ ta lại gặp nhau?
+
++ what must I do next?: tiếp sau đây tôi phải làm cái gì?
+
++ what next?: còn gì nữa?, còn cái gì hơn nữa không?
+
++ what comes next?: còn cái gì tiếp theo nữa?
+- ngay
+
++ the Tuesday next before Chrismas: hôm thứ ba ngay trước ngày lễ Nô-en
+*  dt
+- gần bên, bên cạnh, sát nách
+
++ may I bring my chair next yours?: tôi có thể để cái ghế của tôi sát bên ghế anh không?
+*  dt
+- người tiếp sau; cái tiếp sau, số (báo) sau...
+
++ the next to arrive: người đến sau
+
++ next please!: đến người tiếp sau!
+
++ to be continued in our next: sẽ đăng tiếp vào số sau (báo)
+
++ I'll tell you of it in my next: next tôi sẽ nói cho anh hay về điều đó ở thư sau
+
+@next
+- cạnh, sau; gần   sau đó; lần sau
+@next-best  
+*  tt
+- tốt thứ nhì
+
+@next-door  
+*  tt
+- ngay bên cạnh, kế bên; sát vách
+
++ next-door neighbour: người láng giềng ở sát vách
+
++ next-door to crime: gần như là một tội ác
+
+@nexus  
+*  dt
+- mối quan hệ, mối liện hệ
+
++ the causal nexus: quan hệ nhân quả
+
+@

@@ -1,0 +1,2787 @@
+@pi  
+*  dt
+- (toán học) Pi
+-(ngôn ngữ nhà trường),  (từ lóng) ngoan đạo
+
+@pia mater  
+*  dt
+- (giải phẫu) màng mềm (não)
+
+@piacular  
+*  tt
+- để chuộc tội
+
+@piaffe  
+*  ndgt
+- chạy nước kiệu chậm (ngựa)
+
+@piaffer  
+*  dt
+- nước kiệu chậm (ngựa)
+
+@pianette  
+*  dt
+- (âm nhạc) đàn pianô tủ nh
+
+@pianino  
+*  dt,  số nhiều pianinos  @pianissimo
+* tt, adv
+- rất nhẹ
+- dt,  số nhiều pianissimos hoặc pianissimi
+- đoạn nhạc nhẹ
+ @pianist  
+*  dt ((cũng) piano-player)
+- người chơi pianô, người biểu diễn pianô
+- người biểu diễn pianô
+
+@piano   (pianoforte) @piano organ  
+*  dt
+- pianô máy
+
+@piano-accordion
+- <nhạc> đàn xếp, đàn ăccoc
+ @pianoforte   (pianoforte) @pianola  
+*  dt
+- máy chơi pianô tự động ((cũng) piano-player)
+
+@piano-player  
+*  dt
+- (như) pianist
+- (như) pianola
+
+@piaster   (piastre) @piastre   (piastre) @piazza  
+*  dt
+- quảng trường (đặc biệt ở Y)
+- (từ Mỹ,nghĩa Mỹ) mái hiên, hiên
+
+@pibroch  
+*  dt
+- (Ê-cốt) điệu nhạc hùng (của kèn túi)
+-(đùa cợt) kèn túi
+
+@pic
+- Một loại đuôi mở rộng của tệp tin để chỉ rõ tệp đó có chứa một đồ hình theo khuôn thức Lotus PIC, khuôn thức mà Lotus 1 - 2 - 3 dùng để cất giữ các đồ thị kinh doanh
+ @pica  
+*  dt
+- (ngành in) có chữ to
+
++ small pica: cỡ 10
+
++ double pica: cỡ 20
+
+@picador  
+*  dt
+- người đấu bò
+
+@picamar  
+*  dt
+- dầu hắc, hắc ín
+
+@picaresque  
+*  tt
+- nói về những cuộc phiêu lưu của những kẻ bất lương lưu lạc; lấy kẻ bất lương lưu lạc làm nhân vật chính (tiểu thuyết...)
+
+@picaroon  
+*  dt
+- kẻ bất lương, kể cướp, kẻ trộm
+- tàu cướp biển
+*  ndgt
+- ăn cướp, dở trò kẻ cướp
+
+@picayune  
+*  dt
+- đồng tiền lẻ (1 đến 5 xu); (từ Mỹ,nghĩa Mỹ),  (sử học) đồng 5 xu
+- (thực vật học) người tầm thường, người đáng kể; vật tầm thường, vật nhỏ mọn, vật không đáng kể
+*  tt
+- tầm thường, hèn hạ, đáng khinh
+
+@picayunish
+- xem picayune
+ @piccalilli  
+*  dt
+- dưa góp cay
+
+@piccaninny   (pickaninny) @piccolo  
+*  dt,  số nhiều piccolos  @piccoloist
+- xem piccolo
+ @piccolos
+* dt
+- <nhạc> sáo kim (nhạc cụ giống như sáo, có âm cao hơn một quãng tám)
+ @pice  
+*  dt
+- (âm nhạc) đồng paixơ (tiền Pa-ki-xtan)
+
+@pichiciago  
+*  dt
+- (động vật học) con tatu Chi-lê
+
+@pick  
+*  dt
+- sự chọn lọc, sự chọn lựa
+- người được chọn, cái được chọn
+- phần chọn lọc, phần tinh hoa, phần tốt nhất
+
++ the pick of the army: phần tinh nhuệ trong quân đội
+*  dt
+- cuốc chim
+- dụng cụ nhọn (để đâm, xoi, xỉa, đục, giùi)
+*  ngdgt
+- cuốc (đất...); đào, khoét (lỗ...)
+- xỉa (răng...)
+- hái (hoa, quả)
+- mổ, nhặt (thóc...)
+- lóc thịt, gỡ thịt (một khúc xương)
+- nhổ (lông gà, vịt...)
+- ăn nhỏ nhẻ, ăn một tí; (thông tục) ăn
+- mở, cạy (khoá), móc (túi), ngoáy (mũi)
+
++ to pick someone's pocket: móc túi của ai, ăn cắp của ai
+
++ to pick a lock: mở khoá bằng móc
+- xé tơi ra, xé đôi, bẻ đôi, bẻ rời ra, tước ra
+
++ to pick oakum: tước dây thừng lấy xơ gai
+
++ to pick something to pieces: xé tơi cái gì ra
+- búng (đàn ghita...)
+- chọn, chon lựa kỹ càng
+
++ to pick one's words: nói năng cẩn thận, chọn từng lời
+
++ to pick one's way (steps): đi rón rén từng bước, đi thận trọng từng bước
+- gây, kiếm (chuyện...)
+
++ to pick a quarred with somebody: gây chuyện cãi nhau với ai
+*  ndgt
+- mổ (gà, vịt...); ăn nhỏ nhẻ, ăn tí một (người); (thông tục) ăn
+- móc túi, ăn cắp
+
++ to pick and steal: ăn cắp vặt
+- chọn lựa kỹ lưỡng
+
++ to pick and choose: kén cá chọn canh
+!to pick at
+- (từ Mỹ,nghĩa Mỹ) la rầy, rầy rà (ai)
+- chế nhạo, chế giễu (ai)
+!to pick off
+- tước đi, vặt đi, nhổ đi
+- lần lượt bắn gục (từng người...)
+!to pick on
+!mỹ, nh to pick at
+!to pick out
+- nhổ ra
+- chọn cử, chọn ra, phân biệt ra
+- làm nổi bật ra
+
++ to pick out a ground-colour with another: làm nổi bật màu nền bằng một màu khác
+- hiểu ra (ý nghĩa một đoạn văn)
+- gõ pianô (một khúc nhạc)
+!to pick up
+- cuốc, vỡ (đất)
+- nhặt lên; nhặt được, vớ được, kiếm được
+
++ to pick up a stone: nhặt một hòn đá
+
++ to pick up information: vớ được tin, nhặt được tin
+
++ to pick up livelihood: kiếm sống lần hồi
+
++ to pick up profit: vớ được món lãi
+
++ to pick up passengers: nhặt khách, lấy khách (xe buýt...)
+- tình cờ làm quen (ai); làm quen với (ai)
+- vớt (những người bị đắm tàu...); nhổ (neo...)
+- lấy lại (tinh thần, sức khoẻ...); hồi phục sức khoẻ, bình phục, tìm lại được (con đường bị lạc)
+- rọi thấy (máy bay...) (đèn pha)
+
++ to pick up an airplane: rọi thấy một máy bay
+- bắt được (một tin,) (đài thu)
+- tăng tốc độ (động cơ)
+- (thể dục,thể thao) chọn bên
+!to pick oneself up
+- đứng dây, ngồi dậy (sau khi ngã)
+!to have a bone to pick with somebody
+- (xem) bone
+!to pick somebody's brains
+- (xem) brain
+!to pick holes in
+- (xem) hole
+!to pick somebody to pieces
+- (nghĩa bóng) đả kích ai, chỉ trích ai kịch kiệt
+
+@pick
+- chọn; nhặt; đâm thủng
+ @pick-a-back  
+*  dt
+- trên lưng (cõng, vác); trên vai (đội, kiệu)
+
++ to carry a child pick-a-back: cõng một đứa bé trên lưng, kiệu một đứa bé trên vai
+
+@pickaninny   (pickaninny) @pickax   (pickaxe) @pickaxe   (pickaxe) @picker  
+*  dt
+- người hái
+- người nhặt
+- đồ mở, đồ nạy (ổ khoá)
+- đồ dùng để hái, đồ dùng để nhặt, đồ dùng để bắt
+
+@pickerel  
+*  dt
+- (động vật học) cá chó đen
+
+@picket  
+*  dt
+- cọc (rào, buộc ngựa...)
+- (quân sự) đội quân cảnh ((cũng) picquet,  piquet)
+- ((thường) số nhiều) những người đứng gác (không cho ai vào làm trong cuộc bãi công)
+- người đứng biểu tình, người ngồi biểu tình
+!antiaircraft picket
+- ban trực chiến phòng không
+!fire picket
+- đội thường trực cứu hoả
+*  ngdgt
+- rào bằng cọc
+- buộc vào cọc
+
++ to picket a horse: buộc ngựa vào cọc
+- đặt (người) đứng gác; đặt người đứng gác (sở, xưởng) không cho vào làm trong lúc bãi công
+
++ to picket men during a strike: đặt người đứng gác không cho ai vào làm trong một cuộc bãi công
+
++ to picket a factory: đặt người đứng gác một xưởng không cho ai vào làm trong lúc bãi công
+*  ndgt
+- đứng gác không cho ai vào làm trong lúc bãi công
+
+@picketer
+- xem picket
+ @picking  
+*  dt
+- sự cuốc, sự đào, sự khoét
+- sự hái (hoa, quả)
+- sự mổ (thóc...)
+- sự nhặt (rau...)
+- sự nhổ (lông...)
+- sự mở, sự cạy (ổ khoá); sự móc túi, sự ăn cắp
+
++ picking and stealing: sự ăn cắp vặt
+- sự chọn lựa
+- (số nhiều) đồ nhặt mót được
+- (số nhiều) đồ thừa, vụn thừa
+- (số nhiều) bổng lộc; đồ thừa hưởng, tiền đãi ngoài, tiền diêm thuốc
+
+@pickings
+* dt
+- đồ nhặt mót được; đồ thừa, vụn thừa
+- món bở; bổng lộc, đồ thừa hưởng, tiền đãi ngoài, tiền diêm thuốc
+ @pickle  
+*  dt
+- nước giầm (như giấm, nước mắm... để giầm rau thịt...)
+- (số nhiều) rau giầm, hoa quả giầm, dưa góp
+
++ onion pickles: dưa hành giầm, hành ngâm giấm
+
++ mango pickles: xoài ngâm giấm
+
++ vegetable pickles: dưa góp
+- dung dịch axit để tẩy...
+- hoàn cảnh
+
++ to be in a sad pickle: lâm vào hoàn cảnh đáng buồn
+- đứa bé tinh nghịch
+- (từ Mỹ,nghĩa Mỹ) người quạu cọ, người khó chịu
+!to have a rod in pickle for somebody
+- để sẵn cái roi cho ai một trận đích đáng
+*  ngdgt
+- giầm (củ cải, hành, thịt... vào giấm...)
+- (hàng hải) xát muối giấm vào (lưng ai) (sau khi đánh đòn)
+
+@pickled  
+*  tt
+- giầm, ngâm giấm, giầm nước mắm (củ cải, hành, thịt...)
+- (từ lóng) say rượu
+
+@picklock  
+*  dt
+- thợ mở ổ khoá
+- kẻ nạy ổ khoá
+- cái nạy ổ khoá
+
+@pick-me-up  
+*  dt ((thông tục) (như) pick-up)
+- đồ uống kích thích, rượu kích thích
+- (nghĩa bóng) cái kích thích, cái động viên
+
+@pickpocket  
+*  dt
+- kẻ móc túi
+
+@pickthank  
+*  dt
+- (từ cổ,nghĩa cổ) kẻ kịnh hót, kẻ bợ đ
+
+@pick-up  
+*  dt
+- người quen tình cờ, người quen ngẫu nhiên
+- vật nhặt được; tin bắt được (trên làn sóng điện)
+- (thông tục),  (như) pick-me-up
+- (rađiô) cái piccơp
+- cái cảm biến
+- sự tăng tốc độ
+- (thông tục) sự khá hơn (về sức khoẻ, sản xuất...)
+- sự dừng lại để nhặt hàng nhặt khách; sự nhặt hàng, sự nhặt khách (xe buýt...)
+
+@pick-up
+- (máy tính) đầu đọc
+ @pick-up truck
+* dt
+- loại xe tải nhỏ, không mui, thành thấp (cho các nhà xây dựng, nông dân  dùng)
+ @pickwikian  
+*  tt
+- in a pickwikian sense(đùa cợt) theo nghĩa riêng, theo chuyên môn, theo nghĩa nhà nghề (từ)
+
+@picky
+* ttso sánh
+- <thgt> kén cá chọn canh (cầu kỳ, kiểu cách)
+ @picnic  
+*  dt
+- cuộc đi chơi và ăn ngoài trời
+- (thông tục) việc thú vị, việc dễ làm, việc ngon xơi
+
++ it is no picnic: không phải là chuyện ngon xơi
+*  ndgt
+- đi chơi và ăn ngoài trời
+
+@picnicker  
+*  dt
+- người đi chơi và ăn ngoài trời
+
+@picnicky
+- xem picnic
+ @pico
+- Tiền tố để chỉ 10 - 12, viết tắt là p
+ @picosec
+- pico giây (một phần triệu triệu (10 - 12) của một giây)
+ @picosecond
+- pico giây (một phần triệu triệu (10 - 12) của một giây)
+ @picot  
+*  dt
+- rìa răng (đăng ten)
+
+@picotee  
+*  dt
+- (thực vật học) hoa cẩm chướng cánh viền
+
+@picquet  
+*  dt
+- (quân sự) đội quân cảnh ((cũng) picket)
+
+@picric  
+*  tt
+- (hoá học) Picric
+
++ picric acid: axit picric
+
+@picric acid
+* dt
+- a-xít picric (chất đắng, màu vàng dùng để nhuộm và chế tạo thuốc nổ)
+ @pict
+- Một loại khuôn thức tệp đồ họa Macintosh, được biên soạn đầu tiên cho chương trình MacDraw
+ @pictogram
+* dt
+- lối chữ hình vẽ, chữ tượng hình (để diễn đạt của người nguyên thuỷ)
+ @pictograph  
+*  dt
+- hình tượng (để diễn đạt)
+- lỗi chữ hình vẽ (của người nguyên thuỷ)
+
+@pictographic  
+*  tt
+- (thuộc) lối chữ hình vẽ
+
+@pictographically
+- xem pictograph
+ @pictography  
+*  dt
+- khoa nghiên cứu lối chữ hình vẽ
+
+@pictorial  
+*  tt
+- (thuộc) tranh ảnh; diễn tả bằng tranh ảnh; có nhiều tranh ảnh
+
++ a pictorial magazine: một tờ báo ảnh
+- diễn đạt bằng hình tượng; nhiều hình ảnh; nhiều hình tượng sinh động (văn, cách mô tả...)
+*  dt
+- báo ảnh, hoạ báo
+
+@pictorial
+- có hình ảnh; trực quan
+ @pictoriality
+- xem pictorial
+ @pictorially
+* dt
+- bằng hình tượng, bằng tranh ảnh
+- có trành ảnh
+ @picture  
+*  dt
+- bức tranh, bức ảnh, bức vẽ
+- chân dung
+
++ to sit for one's picture: ngồi để cho vẽ chân dung
+- người giống hệt (một người khác)
+
++ she is the picture of her mother: cô ta trông giống hệt bà mẹ
+- hình ảnh hạnh phúc tương lai
+- hiện thân, điển hình
+
++ to be the [very] picture of health: là hiện thân của sự khoẻ mạnh
+- vật đẹp, cảnh đẹp, người đẹp
+
++ her dress is a picture: bộ áo của cô ta nom đẹp
+- ((thường) số nhiều) phim xi nê
+- (nghĩa bóng) cảnh ngộ; sự việc
+
++ out of (not in) the picture: không hợp cảnh, không hợp thời, không phải lối
+
++ to put (keep) somebody in the picture: cho ai biết sự việc, cho ai biết diễn biến của sự việc
+
++ to come into the picture: biết sự việc, nắm được sự việc
+*  ngdgt
+- về (người, vật)
+- mô tả một cách sinh động
+- hình dung tưởng tượng
+
++ to picture something to oneself: hình dung một việc gì, tưởng tượng một việc gì
+
+@picture poscard  
+*  dt
+- bưu ảnh
+
+@picture show  
+*  dt
+- (như) picture-palace
+- phim xi nê
+
+@picture-book  
+*  dt
+- sách tranh, sách ảnh (cho trẻ con)
+
+@picture-card  
+*  dt
+- quân bài có vẽ hình người (quân K, quân Q, quân J)
+
+@picturedrome   (picturedrome) @picture-gallery  
+*  dt
+- phòng trưng bày tranh, phòng triển lãm tranh
+
+@picture-palace   (picturedrome) @picturesque  
+*  tt
+- đẹp, đẹp như tranh; đáng vẽ nên tranh (phong cảnh...)
+- sinh động; nhiều hình ảnh (văn)
+
+@picturesquely
+* dt
+- đẹp, gây ấn tượng mạnh
+- <ngôn> cực kỳ sinh động, phong phú; có nhiều hình ảnh (văn)
+- kỳ quặc, khác thường, lập dị (con người, hình dáng bên ngoài, phong thái )
+ @picturesqueness  
+*  dt
+- tính đẹp, tính như tranh
+- tính sinh động; tính nhiều hình ảnh (văn)
+
+@picture-theatre   (picturedrome) @picture-writing  
+*  dt
+- lối chữ hình vẽ
+
+@picul  
+*  dt
+- tạ Trung quốc
+
+@picul-stick  
+*  dt
+- đòn gánh
+
+@piddle  
+*  ndgt
+- (từ cổ,nghĩa cổ) làm những chuyện dớ dẩn
+- (thông tục) đái, đi tè (trẻ con)
+
+@piddling
+* tt
+- tầm thường, không quan trọng; nhỏ
+ @piddock  
+*  dt
+- (động vật học) sò fôlat (làm mồi câu)
+
+@pidgin  
+*  dt
+- pidgin English tiếng Anh "bồi" 
+- (thông tục) việc riêng (của ai)
+
++ that's not my pidgin: đó không phải là việc của tôi
+
+@pidgin english
+* dt
+- tiếng Anh "bồi", tiếng Anh được đơn giản hoá
+ @pidginization
+- xem pidgin
+ @pidginize
+- xem pidgin
+ @pi-dog   (pi-dog) @pie  
+*  dt
+- (động vật học) ác là
+*  dt
+- bánh pa-tê; bánh nướng nhân ngọt
+
++ meat pie: bánh pa-tê
+
++ jam pie: bánh nướng nhân mứt
+
++ cream pie: bánh kem
+
++ mud pie: bánh đất, bánh cát bánh bùn (trẻ con nghịch)
+!to eat humble pie
+- (xem) humble
+!to have a finger in the pie
+- có dính dáng đến việc ấy, có nhúng tay vào việc ấy
+*  dt
+- đồng pi (tiền Pa-ki-xtan)
+*  dt ((cũng) printers' gõn
+- đống chữ in lộn xộn
+- (nghĩa bóng) sự hỗn độn, sự lộn xộn
+*  ngdgt
+- trộn lộn xộn (chữ in)
+
+@pie chart
+* dt
+- biểu đồ tròn
+ @piebald  
+*  tt
+- vá, khoang
+
++ a piebald horse: ngựa vá
+
++ a piebald dog: chó khoang
+- (nghĩa bóng) gồm đủ giới, gồm đủ các hạng; lẫn lộn cả
+
++ a piebald assembly: một cuộc họp gồm đủ cả các giới
+
++ a piebald crowd: một đám đông đủ hạng người
+
+@piece  
+*  dt
+- mảnh, mẩu, miếng, viên, cục, khúc...
+
++ a piece of paper: một mảnh giấy
+
++ a piece of wood: một mảnh gỗ
+
++ a piece of bread: một mẩu bánh mì
+
++ a piece of land: một mảnh đất
+
++ a piece of chalk: một cục phấn
+
++ to break something to pieces: đạp vỡ cái gì ra từng mảnh
+- bộ phận, mảnh rời
+
++ to take a machine to pieces: tháo rời máy ra, tháo máy thành từng mảnh rời
+- (thương nghiệp) đơn vị, cái, chiếc, tấm cuộn (vải); thùng (rượu...)
+
++ a piece of wine: một thùng rượu vang
+
++ a piece of wallpaper: một cuộn giấy dán tường (12 iat)
+
++ to sell by the piece: bán cả tấm, bán cả cuộn
+
++ a tea-service of fourteen pieces: một bộ trà mười bốn chiếc
+
++ a piece of furniture: một cái đồ gỗ (bàn, tủ, giường...)
+- bức (tranh); bài (thơ); bản (nhạc); vở (kịch)
+
++ a piece of painting: một bức tranh
+
++ a piece of music: một bản nhạc
+
++ a piece of poetry: một bài thơ
+- khẩu súng, khẩu pháo; nòng pháo
+
++ a battery of four pieces: một cụm pháo gồm bốn khẩu
+- quân cờ
+- cái việc, lời, dịp...
+
++ a piece of folly: một việc làm dại dột
+
++ a piece of one's mind: một lời nói thật
+
++ a piece of impudence: một hành động láo xược
+
++ a piece of advice: một lời khuyên
+
++ a piece of good luck: một dịp may
+- đồng tiền
+
++ crown piece: đồng cu-ron
+
++ penny piece: đồng penni
+
++ piece of eight: đồng pơzô (Tây ban nha)
+- (từ Mỹ,nghĩa Mỹ) nhạc khí
+- (từ lóng) con bé, thị mẹt
+
++ a pretty piece: con bé kháu, con bé xinh xinh
+
++ a saucy piece: con ranh hỗn xược
+!to be all of a piece
+- cùng một giuộc; cùng một loại
+!to be of a piece with
+- cùng một giuộc với; cùng một loại với
+!to be paid by the piece
+- được trả lương theo sản phẩm
+!to go to pieces
+- (xem) go
+!in pieces
+- vở từng mảnh
+!to pull (tear) something to pieces
+- xé nát vật gì
+!to pull someone to pieces
+- phê bình ai tơi bời, đập ai tơi bời
+*  ngdgt
+- chấp lại thành khối, ráp lại thành khối
+- nối (chỉ) (lúc quay sợi)
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ),  (tiếng địa phương) ăn vặt, ăn quà
+!to piece on
+- chắp vào, ráp vào
+
++ to piece something on to another: chắp vật gì vào một vật khác
+!to piece out
+- thêm vào, thêm thắt vào
+- chắp lại thành, đúc kết thành (câu chuyện, lý thuyết)
+!to piece together
+- chắp lại với nhau, ráp lại vào nhau
+!to piece up
+- vá
+
+@piece
+- mẩu, phần
+- p. of money đồng tiền 
+ @Piece rates
+- (Econ) Thu nhập tính theo sản phẩm.
+: Xem COMPENSATION RULES.
+ @piece-goods  
+*  dt
+- tấm hàng dệt (vải, lụa...)
+
+@piecemeal  
+*  dt
+- từng cái, từng chiếc, từng mảnh, từng phần; dần dần
+
++ work done piecemeal: công việc làm dần, công việc làm từng phần
+*  tt
+- từng cái, từng mảnh, từng phần; làm từng phần, làm dần dần
+
+@piecemeal
+- từng phần, từng cái
+ @piecer  
+*  dt
+- người nối chỉ (lúc quay sợi)
+
+@piecewise
+- từng mẩu
+ @piece-work  
+*  dt
+- công việc trả theo lối lượng sản phẩm
+
+@Piecework
+- (Econ) Việc làm khoán.
+: Một hệ thống thanh toán trong đó cá nhân được thanh toán theo khối lượng sản phẩm làm ra.
+ @piecework
+* dt
+- công việc trả lương theo số lượng sản phẩm làm ra (chứ không phải theo giờ); việc khoán
+ @piece-worker  
+*  dt
+- công việc trả theo khối lượng sản phẩm
+
+@pieceworker
+* dt
+- người làm công việc ăn lương theo sản phẩm, người hưởng lương khoán sản phẩm
+ @piecrust  
+*  dt
+- vỏ bánh pa-tê, vỏ bánh nướng
+!promises are like piecrust, made to the broken
+- lời hứa vốn sinh ra là để không được thực hiện
+
+@pied  
+*  tt
+- lẫn màu, pha nhiều màu
+- khoang (chó), vá (ngựa)
+
+@pied à terre  
+*  dt
+- chỗ tạm dừng, chỗ tạm tr
+
+@pie-dog   (pi-dog) @pie-eyed
+* tt
+- <thgt> say rượu
+ @pieman  
+*  dt
+- người bán bánh ba-tê, người bán bánh nướng nhân ngọt
+
+@pier  
+*  dt
+- bến tàu (nhô ra ngoài); cầu tàu
+- đạp ngăn sóng (ở hải cảng)
+- cầu dạo chơi (chạy ra biển)
+- chân cầu
+- (kiến trúc) trụ, cột trụ; trụ giữa hai cửa s
+
+@pierage  
+*  dt
+- thuế bến, thuế cầu tàu
+
+@pierce  
+*  ngdgt
+- đâm, chọc, chích, xuyên (bằng gai, bằng ghim...)
+- khoét lỗ, khui lỗ (thùng rượu...); xỏ lỗ (tai...)
+- chọc thủng, xông qua, xuyên qua
+
++ to pierce the lines of the enemy: chọc thủng phòng tuyến địch, xông qua phòng tuyến địch
+- (nghĩa bóng) xuyên thấu, xoi mói (cái nhìn...), làm buốt thấu (rét...); làm nhức buốt, làm nhức nhối (đau...); làm nhức óc (tiếng thét...)
+*  ndgt
+- (: through,  into) xuyên qua, chọc qua, xuyên vào, chọc vào
+
+@pierce
+- đâm thủng, chọc thủng
+ @piercer  
+*  dt
+- (kỹ thuật) cái đột lỗ, mũi đột, mũi khoan, giùi
+
+@piercing  
+*  tt
+- nhọc sắc
+- xoi mói (cái nhìn); buốt thấu xương (lạnh); nhức nhối (đau...); nhức óc (tiếng la thét); sắc sảo, sâu sắc (cách nhận định); châm chọc (lời nhận xét)
+
+@piercingly
+* dt
+- nhọn, sắc (dụng cụ nhọn)
+- the thé, lanh lảnh (giọng nói, âm thanh ); rét buốt (gió, cái lạnh ); nhức nhối (vết thương...); sâu sắc (cách nhận định)
+ @pier-glass  
+*  dt
+- gương lớn (soi cả người, thường đặt ở trụ giữa hai cửa sổ)
+
+@pierrette  
+*  dt (dt giống cái pierrette)
+- vai hề kịch câm
+- nghệ sĩ hát rong
+
+@pierrot  
+*  dt (dt giống cái pierrette)
+- vai hề kịch câm
+- nghệ sĩ hát rong
+
+@pietism  
+*  dt
+- lòng mộ đạo, lòng ngoan đạo quá đáng; sự làm ra vẻ ngoan đạo
+
+@pietist  
+*  dt
+- người mộ đạo, người ngoan đạo quá đáng; người làm ra vẻ ngoan đạo
+
+@pietistic
+- xem pietism
+ @pietistical
+- xem pietism
+ @pietistically
+- xem pietism
+ @piety  
+*  dt
+- lòng mộ đạo
+- lòng hiếu thảo; lòng trung thành với tổ quốc
+
++ filiat piety: lòng hiếu thảo của con đối với cha mẹ
+
+@piezochemistry  
+*  dt
+- (hoá học) hoá áp, áp hoá học
+
+@piezoelectric  
+*  tt
+- áp điện
+
++ piezoelectric constant: hằng số áp điện
+
+@piezoelectrical
+- xem piezoelectricity
+ @piezoelectrically
+- xem piezoelectricity
+ @piezoelectricity  
+*  dt
+- hiện tượng áp điện
+- áp điện học
+
+@piezometer  
+*  dt
+- cái đo áp suất
+
+@piezometric
+- xem piezometer
+ @piezometry
+- xem piezometer
+ @pif
+- tệp thông tin chương trình trong Windows
+ @piffle  
+*  dt
+- (từ lóng) chuyện nhảm nhí, chuyện tào lao, chuyện dớ dẩn
+
++ to talk piffle: nói nhảm nhí, nói tào lao
+*  ndgt
+- nói nhảm nhí, nói tào lao
+- làm những việc nhảm nhí, làm những việc tào lao
+
+@piffler  
+*  dt
+- người hay nói nhảm nhí, người hay nói tào lao
+- người hay làm chuyện nhảm nhí, người hay làm chuyện tào lao
+
+@piffling  
+*  tt
+- nhảm nhí, tào lao
+- lặt vặt, nhỏ mọn
+
+@pig  
+*  dt
+- lợn heo
+- thịt lợn; thịt lợn sữa
+
++ roast pig: thịt lợn quay
+- (thông tục) người phàm ăn; người bẩn thỉu; người khó chịu; người thô tục; người quạu cọ
+- thoi kim loại (chủ yếu là gang)
+- khoanh cam
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cảnh sát; mật thám, chỉ điểm, cớm
+!to buy a pig in a poke
+- mua vật gì mà không được trông thấy (biết) rõ, mua trâu vẽ bóng
+!to bring one's pigs to a fine (a pretty the wrong) market
+- làm ăn thất bại
+!to make a pig of oneself
+- ăn phàm, ăn tham, ăn uống thô tục như lợn
+!pigs might fly
+- biết đâu lại chẳng có chuyện thần kỳ xảy ra
+!please the pigs
+-(đùa cợt) lạy trời!, lạy chúa tôi!
+*  ngdgt
+- đẻ (lợn)
+*  ndgt
+- đẻ con (lợn)
+- ở bẩn lúc nhúc như lợn
+!to pig it
+- ở bẩn lúc nhúc như lợn
+
+@pigeon  
+*  dt
+- chim bồ câu
+- người ngốc nghếch, người dễ bị lừa
+
++ to pluck a pigeon: "vặt lông" một anh ngốc
+!clay pigeon
+- đĩa (bằng đất sét) ném tung lên để tập bắn
+*  ngdgt
+- lừa, lừa gạt
+
++ to pigeon someone of a thing: lừa ai lấy vật gì
+
+@pigeon english  
+*  dt
+- tiếng Anh "bồi" ((cũng) pidgin English)
+
+@pigeon-breast  
+*  dt
+- ngực nhô ra (như ức bồ câu)
+
+@pigeon-breasted  
+*  tt
+- có ngực nhô ra (như ức bồ câu)
+
+@pigeongram  
+*  dt
+- tin (thư) do chim bồ câu đưa đi
+
+@pigeon-hearted  
+*  tt
+- nhút nhát, sợ sệt
+
+@pigeon-hole  
+*  dt
+- lỗ chuồng chim bồ câu
+- ngăn kéo, hộc tủ
+*  ngdgt
+- để vào ngăn kéo, xếp vào ngăn kéo
+- xếp xó, gác lại
+
++ to pigeon-hole a question: gác một vấn đề lại, xếp xó một vấn đề
+- xếp xó trong trí nh
+
+@pigeon-house  
+*  dt
+- chuồng bồ câu
+
+@pigeon-pair  
+*  dt
+- cặp trai gái sinh đôi
+- một trai một gái (hai đứa con độc nhất của một gia đình)
+
+@pigeonry  
+*  dt
+- chuồng bồ câu
+
+@pigeon's milk  
+*  dt
+- sữa bồ câu (chất nhuyễn trắng như sữa, bồ câu mớm cho con)
+
+@pigeon-toed  
+*  tt
+- có ngón chân quặp vào (như chân bồ câu)
+
+@pig-farming
+* dt
+- nghề nuôi lợn
+ @piggery  
+*  dt
+- trại nuôi lợn
+- chuồng lợn
+- chỗ ở bẩn thỉu
+- tính phàm ăn; tính bẩn thỉu; tính khó chịu; tính quạu cọ (như lợn)
+
+@piggish  
+*  tt
+- (thuộc) lợn; như lợn
+- phàm ăn; bẩn thỉu; khó chịu; thô tục, quạu cọ (như lợn)
+
+@piggishly
+* dt
+- giống như lợn
+- tham lam, bẩn thỉu, bừa bãi như lợn
+ @piggishness  
+*  dt
+- tính phàm ăn; tính bẩn thỉu; tính khó chịu; tính thô tục, tính quạu cọ (như lợn)
+
+@piggy  
+*  dt
+- con lợn con
+- trò chơi đánh khăng
+
+@piggyback
+* dt
+- địu, cõng, vác, đội (trên lưng, trên vai )
+* dt
+- cưỡi trên lưng một người nào đó
+ @piggybank
+* dt
+- con lợn bỏ ống, con heo đất, ống heo (để bỏ tiền)
+ @piggy-wiggy  
+*  dt
+- con lợn con
+- đứa bé bẩn thỉu
+
+@pigheaded  
+*  tt
+- đần độn, ngu như lợn; bướng bỉnh, cứng đầu cứng c
+
+@pigheadedly
+* dt
+- bướng bỉnh, cứng đầu cứng cổ
+ @pigheadedness
+* dt
+- tính bướng bỉnh, tính cứng đầu cứng cổ; sự ngoan cố, bướng bỉnh
+ @pig-iron  
+*  dt
+- gang
+
+@piglet   (pigling) @pigling   (pigling) @pigment  
+*  dt
+- chất màu, chất nhuộm
+- (sinh vật học) chất sắc, sắc tố (của tế bào)
+
+@pigmental   (pigmentary) @pigmentary   (pigmentary) @pigmentation  
+*  dt
+- màu da (do chất sắc trong tế bào da tạo thành)
+
+@pigmy   (pigmy) @Pigou, Arthur Cecil
+- (Econ) (1877-1959)
+: Nhà kinh tế học người Anh đã kế tục Marshall ở vị trí chủ nhiệm khoa kinh tế chính trị học của trường đại học Cambridge năm 1908. Pigou mở rộng công việc của Marshall, đặc biệt là sự phân tích các nghành mà chi phí gia tăng và giảm sút. Sự phân biệt giữa chi phí cá nhân và xã hội và liệu pháp sửa chữa bằng cách đánh thuế do ông đề xuất đã tạo nên cơ sở cho thuyết các ngoại ứng, và phương pháp của ông nhằm loại trừ chứng đã được biết đến với tên gọi là thuế PIGOU. Công trình của ông về thuyết tiền tệ và về thu nhập quốc dân chủ yếu là một lý thuyết Cổ điển về việc làm và thu nhập. Do đó, Pigou đã phải chịu sức mạnh của cuộc tiến công của Keynes đối với hệ thống này. Tuy nhiên, Pigou đã đưa ra một cơ chế để đạt được việc làm đầy đủ thậm chí cả trong hệ thống của Keynes. Điều này được biết đến với cái tên là hiệu ứng Pigou. Trong điều kiện không có đủ việc làm, giá cả giảm sẽ làm tăng thêm giá trị của số dư tiền đã giữ. Điều này tạo ra sự gia tăng về cầu đối với hàng hoá và do đó đã tạo ra một sự gia tăng về việc làm. Ý nghĩa của cơ chế này này thậm chí đến nay vẫn còn tranh cãi.
+ @Pigou effect
+- (Econ) Hiệu ứng Pigou
+: Xem REAL BALANCE EFFECT.
+ @Pigovian tax
+- (Econ) Thuế Pigou.
+: Một loại thuế đánh vào người sản xuất do tạo ra một ngoại ứng theo một cách mà sau khi thuế này được áp dụng thì các chi phí cá nhân do bên tạo ra ngoại ứng cảm nhận được bằng với CHI PHÍ XÃ HỘI của hoạt động này.
+ @pigpen   (pigpen) @pig's wash   (pigwash) @pigskin  
+*  dt
+- da lợn
+- (từ lóng) cái yên ngựa
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) quả bóng đá
+
+@pigsticker  
+*  dt
+- người săn lợn rừng (bằng lao, xà mâu...)
+- người chọc tiết lợn
+- dao găm
+
+@pigsticking  
+*  dt
+- sự săn lợn rừng (bằng lao, xà mâu...)
+- sự chọc tiết lợn; nghề chọc tiết lợn
+
+@pigsty   (pigpen) @pigswill
+* dt
+- rau lợn
+ @pigtail  
+*  dt
+- đuôi sam, bím tóc
+- thuốc lá quần thành cuộn dài
+
+@pigtailed
+- xem pigtail
+ @pigwash   (pigwash) @pike  
+*  dt
+- (động vật học) cá chó
+- chỗ chắn để thu thuế đường
+- thuế đường
+- đường cái phải nộp thuế
+*  dt
+- giáo; mác
+- (tiếng địa phương)
+- cuốc chim
+- mỏm (đồi; (thường) trong tên riêng)
+*  ngdgt
+- đâm bằng giáo mác; giết bằng giáo mác
+
+@piked
+- xem pike
+ @pikelet  
+*  dt
+- bánh pơ-ti-panh (một loại bánh ngọt uống với nước trà)
+
+@pikeman  
+*  dt
+- thợ mỏ dùng cuốc chim
+- người gác chỗ chắn thu thuế đường
+
+@piker  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) tay cờ bạc thận trọng, tay cờ bạc dè dặt
+
+@pikestaff  
+*  dt
+- cán giáo, cán mác
+![as] plain as a pikestaff
+- (xem) plain
+
+@pilaf
+* dt
+- cơm thập cẩm
+ @pilaff   (pilaff) @pilaster  
+*  dt
+- (kiến trúc) trụ bổ tường
+
+@pilau   (pilaff) @pilaw   (pilaff) @pilch  
+*  dt
+- tã chéo bằng nỉ (cuốn ngoài tã lót của trẻ em)
+
+@pilchard  
+*  dt
+- (động vật học) cá xacđin
+
+@pile  
+*  dt
+- cọc, cừ
+- cột nhà sàn
+*  ngdgt
+- đóng cọc, đóng cừ (trên một miếng đất...)
+*  dt
+- chồng, đống
+
++ a pile of books: một chồng sách
+
++ a pile of sand: một đống cát
+- giàn thiêu xác
+- (thông tục) của cải chất đống, tài sản
+
++ to make a pile; to make one's pile: hốt của, phất, làm giàu
+- toà nhà đồ sộ, nhà khối đồ sộ
+- (điện học) pin
+- (vật lý) lò phản ứng
+
++ atomic pile: lò phản ứng nguyên tử
+
++ nuclear pile: lò phản ứng hạt nhân
+*  ngdgt
+- (: up,  on) chất đống, chồng chất, xếp thành chồng, tích luỹ (của cải...)
+- (quân sự) dựng (súng) chụm lại với nhau
+
++ to pile arms: dựng súng chụm lại với nhau
+- (: with) chất đầy, chất chứa, để đầy
+
++ to pile a table with dishes: để đầy đĩa trên bàn
+- (hàng hải) va (tàu) vào đá ngần; làm cho (tàu) mắc cạn
+!to pile it on
+- cường điệu, làm quá đáng
+!to pile up (on the ageney)
+- (thông tục) làm cho có vẻ đau đớn bi đát hơn
+*  dt
+- (từ cổ,nghĩa cổ) mặt trái đồng tiền; mặt sấp đồng tiền
+
++ cross or pile: ngửa hay sấp
+*  dt
+- lông măng, lông mịn; len cừu
+- tuyết (nhung, thảm, hàng len dệt)
+*  dt
+- (y học) dom
+- (số nhiều) bệnh trĩ
+
+@pile
+- (vật lí) pin; lò phản ứng
+- nuclear p. lò phản ứng hạt nhân 
+ @piled
+- xem pile
+ @pile-driver  
+*  dt
+- máy đóng cọc
+
+@piles
+* dt
+- <y> bệnh trự
+ @pile-up
+* dt
+- vụ đâm nhau của xe cộ
+ @pilewort  
+*  dt
+- (thực vật học) cây bạch khuất
+
+@pilfer  
+*  ngdgt
+- ăn cắp vặt
+
+@pilferage  
+*  dt
+- trò ăn cắp vặt
+
+@pilferer  
+*  dt
+- kẻ ăn cắp vặt
+
+@pilgrim  
+*  dt
+- người hành hương
+- người du hành
+- người đang đi khỏi kiếp trầm luân
+
+@pilgrimage  
+*  dt
+- cuộc hành hương
+
++ to go on a pilgrimage: đi hành hương
+- (nghĩa bóng) kiếp sống (tựa như một cuộc du hành)
+*  ndgt
+- đi hành hương
+
+@piliferous  
+*  tt
+- (thực vật học) có lông
+
+@pill  
+*  dt
+- viên thuốc
+- (nghĩa bóng) điều cay đắng, điều tủi nhục, điều sỉ nhục
+
++ a bitter pill: điều cay đắng, điều tủi nhục
+
++ to swallow the pill: ngậm bồ hòn làm ngọt
+- (từ lóng);(đùa cợt) quả bóng đá, quả bóng quần vợt; đạn đại bác
+- (số nhiều) trò chơi bi-a
+- (the pill) thuốc chống thụ thai
+!a pill to cure an earthquake
+- biện pháp nửa vời không đem lại kết quả gì; cho voi uống thuốc gió
+!to gild the pill
+- (xem) gild
+*  ngdgt
+- bỏ phiếu đen, bỏ phiếu chống lại (để khai trừ ai)
+- đánh bại
+*  ngdgt
+- (từ cổ,nghĩa cổ) cướp bóc
+
+@pillage  
+*  dt
+- sự cướp bóc, sự cướp phá
+*  ngdgt
+- cướp bóc, cướp phá
+
+@pillager  
+*  dt
+- kẻ cướp bóc, kẻ cướp phá
+
+@pillar  
+*  dt
+- cột, trụ
+- (nghĩa bóng) cột trụ, rường cột
+
++ one of the pillars of the State: một trong những cột trụ của quốc gia
+- cột (nước, khói...)
+- (ngành mỏ) cột than (chừa lại để chống mái hầm)
+!to be driven from pillar to post
+- bị đẩy từ khó khăn này đến khó khăn khác; bị đẩy từ chỗ này đến chỗ khác mà cũng không đi đến đâu
+*  ngdgt
+- chống, đỡ (bằng cột, trụ)
+
+@pillar-box  
+*  dt
+- cột hòm thư
+
+@pillbox  
+*  dt
+- hộp dẹt đựng thuốc viên
+-(đùa cợt) cái xe nhỏ, ô tô nhỏ, căn nhà nhỏ
+- (quân sự) công sự bê tông ngầm nh
+
+@pillion  
+*  dt
+- nệm lót sau yên ngựa (để đèo thêm người, thường là đàn bà)
+- yên đèo (đằng sau mô tô, xe đạp...)
+
++ to ride pillion: ngồi đèo ở đằng sau
+
+@pilliwinks  
+*  dt
+- (sử học) bàn kẹp ngón tay (để tra tấn)
+
+@pillory  
+*  dt
+- cái giàn gông (đóng cố định xuống đất, gông cổ và tay)
+
++ to put (set) in the pillory: đem gông (ai); (nghĩa bóng) bêu riếu (ai)
+*  ngdgt
+- đem gông (ai)
+- (nghĩa bóng) bêu riếu (ai)
+
+@pillow  
+*  dt
+- gối
+- (kỹ thuật) ổ lót trục, tấm lót, đệm, gối
+!to take counsel of one's pillow
+- nằm vắt tay lên trán mà suy nghĩ
+*  ngdgt
+- kê (cái gì) lên bằng gối; gối (đầu...) lên (cái gì)
+*  ndgt
+- gối lên
+
+@pillow-block  
+*  dt
+- (kỹ thuật) ổ đỡ, ổ tì; đệm, gối tựa
+
+@pillow-case   (pillow-slip) @pillowcase
+* dt
+- áo gối, bao gối
+ @pillow-fight  
+*  dt
+- cuộc ném nhau bằng gối
+
++ to have a pillow-fight: lấy gối ném nhau
+
+@pillow-sham  
+*  dt
+- mặt gối rời; khăn phủ gối
+
+@pillow-slip   (pillow-slip) @pillowslip
+* dt
+- áo gối, bao gối
+ @pillowy  
+*  tt
+- êm như gối, mềm như gối
+
+@pillule   (pillule) @pilose   (pilous) @pilosity  
+*  dt
+- tính lắm lông
+
+@pilot  
+*  dt
+- (hàng hải) hoa tiêu
+
++ deep-sea pilot: hoa tiêu ngoài biển khơi
+
++ coast pilot; inshore pilot: hoa tiêu ven biển
+- (hàng không) người lái (máy bay), phi công
+- (nghĩa bóng) người dẫn đường (đi săn...)
+!to drop the pilot
+- bỏ rơi một cố vấn đáng tin cậy
+*  ngdgt
+- (hàng hải) dẫn (tàu)
+- (hàng không) lái (máy bay)
+- (nghĩa bóng) dìu dắt (ai) qua những khó khăn
+
+@pilot scheme  
+*  dt
+- kế hoạch thứ điểm
+
+@pilotage  
+*  dt
+- (hàng hải) việc dẫn tàu, nghề hoa tiêu; tiền công dẫn tàu; tiền công trả cho hoa tiêu
+- (hàng không) việc lái máy bay, nghề lái máy bay; tiền công lái máy bay
+
+@pilot-balloon  
+*  dt
+- khí cầu đo gi
+
+@pilot-boat  
+*  dt
+- (hàng hải) tàu dẫn đường
+
+@pilot-burner
+* dt
+- ngọn đèn chong, ngọn lửa chong
+- đèn hướng dẫn, đèn điều khiển
+ @pilot-cloth  
+*  dt
+- vải nỉ xanh (để may áo choàng cho thuỷ thủ)
+
+@pilot-engine  
+*  dt
+- (ngành đường sắt) đầu máy dọn đường; đầu máy thử đường
+
+@pilot-fish  
+*  dt
+- (động vật học) cá thuyền
+
+@pilot-house  
+*  dt
+- (hàng hải) buồng hoa tiêu
+
+@pilot-jacket  
+*  dt
+- áo va rơi ngắn (của thuỷ thủ)
+
+@pilotless aircraft   (pilotless_plane) @pilotless plane   (pilotless_plane) @pilot-light  
+*  dt
+- ngọn đèn chong, ngọn lửa chong
+- đèn hướng dẫn, đèn điều khiển
+
+@pilot-officer
+* dt
+- (Pilot Officer) thiếu úy không lực Hoàng gia Anh
+ @pilot-print  
+*  dt
+- (nhiếp ảnh) ảnh in th
+
+@pilous   (pilous) @pilular   (pilulous) @pilule   (pillule) @pilulous   (pilulous) @pily  
+*  tt
+- có lông tơ
+- có tuyết (nhung, thảm dệt...)
+
+@pim
+- trình quản lý thông tin cá nhân
+ @pimelode  
+*  dt
+- (động vật học) cá nheo
+
+@pimento  
+*  dt
+- ớt Gia-mai-ca
+- cây ớt Gia-mai-ca
+
+@pimiento
+* dt
+- ớt ngọt
+ @pimp  
+*  dt
+- kẻ mối lái (trong những việc trai gái vụng trộm bất chính); ma cô
+*  ndgt
+- làm mối lái (trong những việc trai gái vụng trộm bất chính); làm ma cô
+
+@pimpernel  
+*  dt
+- (thực vật học) cây phiền l
+
+@pimping  
+*  tt
+- nhỏ bé, nhỏ mọn
+- ốm yếu
+
+@pimple  
+*  dt
+- mụn nhọt
+
++ to come out in pimples: nổi đầy mụn nhọt
+
+@pimpled   (pimply) @pimply   (pimply) @pin  
+*  dt
+- ghim, đinh ghim
+- cặp, kẹp
+- chốt, ngõng
+- ống
+- trục (đàn)
+- (số nhiều) (thông tục) cẳng, chân
+
++ to be quick on one's pin: nhanh chân
+- thùng nhỏ (41 quoành galông)
+!I don't care a pin
+- (xem) care
+!in a merry pin
+- (từ cổ,nghĩa cổ) vui vẻ, phấn khởi
+!plus and needles
+- cảm giác tê tê buồn buồn, cảm giác như có kiến bò
+
++ to have pins and needles in one's legs: có cảm giác như kiến bò ở chân
+!to be on pins and needles
+- bồn chồn (bứt rứt) như ngồi phải gai
+*  ngdgt
+- ((thường) : up,  together) ghim, găm, cặp, kẹp
+
++ to pin up one's hair: cặp tóc
+
++ to pin sheets of paper together: ghim những tờ giấy vào với nhau
+- chọc thủng bằng đinh ghim; đâm thủng bằng giáo mác
+- ghìm chặt
+
++ to pin something against the wall: ghìm chặt ai vào tường
+- ((thường) : down) bắt buộc (ai phải giữ lời hứa...), trói chặt (ai... phải làm gì)
+
++ to pin someone down to a promise: buộc ai phải giữ lời hứa
+
++ to pin someone down to a contract: trói chặt ai phải theo đúng giao kèo
+- rào quanh bằng chấn song
+!to pin one's faith upon something
+- (xem) faith
+!to pin one's hopes
+- (xem) hope
+
+@pinafore   (pinny) @pinafore dress
+* dt
+- áo không tay, không cổ mặc ngoài áo cánh, áo vệ sinh
+ @pinaster  
+*  dt
+- (thực vật học) cây thông biển
+
+@pin-ball
+* dt
+- trò chơi bắn đạn (đạn nhắm vào các chướng ngại đặt trên bàn hơi dốc)
+ @pinball
+- trò chi lăn bi ghim
+ @pince-nez  
+*  dt
+- kính cặp mũi (không gọng)
+
+@pincer
+* dt
+- càng cua
+ @pincer attack  
+*  dt ((cũng) pincers)
+- (quân sự) cuộc tấn công gọng kìm ((cũng) pincer attack)
+
+@pincer movement  
+*  dt ((cũng) pincers)
+- (quân sự) cuộc bao quanh gọng kìm ((cũng) pincer movement)
+
+@pincers  
+*  dt số nhiều
+- cái kìm ((cũng) a pair of pincers,  pinchers)
+- càng cua, càng tôm
+- (quân sự),  (như) pincers_movement,  pincers_attack
+
+@pincers attack  
+*  dt ((cũng) pincers)
+- (quân sự) cuộc tấn công gọng kìm ((cũng) pincer attack)
+
+@pincers movement  
+*  dt ((cũng) pincers)
+- (quân sự) cuộc bao quanh gọng kìm ((cũng) pincer movement)
+
+@pincette  
+*  dt
+- kìm nh
+
+@pinch  
+*  dt
+- cái vấu, cái véo, cái kẹp, cái kẹt
+
++ to give someone a pinch: véo ai một cái
+- nhúm
+
++ a pinch of salt: một nhúm muối
+
++ a pinch of snuff: một nhúm thuốc hít
+- (nghĩa bóng) cảnh o ép, sự giằn vặt, sự dày vò
+
++ the pinch of poverty: cảnh túng đói giày vò
+
++ the pinch of hunger: cơn đói cồn cào
+- lúc gay go, lúc bức thiết
+
++ to come to a pinch: đến lúc gay go; đến lúc bức thiết
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự ăn cắp
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự bắt, sự tóm cổ
+*  ngdgt
+- vấu, véo, kẹp, kẹt
+- bó chặt, làm đau, làm tức (chân) (giày chật)
+
++ the new shoes pinch me: đôi giày mới bó chặt làm đau chân tôi
+- (nghĩa bóng) làm cồn cào (đói), làm tê buốt; làm tái đi (rét)
+
++ to be pinched with cold: rét buốt, tái đi vì rét
+
++ to be pinched with hunger: đói cồn cào
+- cưỡng đoạt
+
++ to pinch money from (out of) someone: cưỡng đoạt tiền của ai
+- són cho (ai cái gì)
+
++ to pinch someone in (of, for) food: són cho ai một tí đồ ăn
+- giục, thúc (ngựa trong cuộc chạy đua)
+- (hàng hải) cho (thuyền) đi ngược chiều gió
+- (từ lóng) xoáy, ăn cắp
+- (từ lóng) bắt, tóm cổ, bỏ vào tù
+*  ndgt
+- bó chặt, làm đau, làm tức (giày chặt)
+- keo cú, keo kiệt, vắt cổ chày ra nước
+!that is where the shoe pinches
+- khó khăn là chỗ ấy; rắc rối phiền toái là chỗ ấy
+
+@pinchbeck  
+*  dt
+- vàng giả (để làm đồ nữ trang giả)
+- đồ giả
+*  tt
+- giả, giả mạo
+
+@pinchers  
+*  dt số nhiều
+- cái kìm ((cũng) pincers)
+
+@pincushion  
+*  dt
+- cái gối nhỏ để giắt ghim
+
+@pine  
+*  dt
+- (thực vật học) cây thông
+- gỗ thông
+- (như) pineapple
+*  ndgt
+- tiều tuỵ, héo hon, ốm mòn, gầy mòn (vì đau ốm, buồn bã...) ((cũng) to pine away)
+- (: for,  after) mong muốn thiết tha, ao ước thiết tha; mòn mỏi mong chờ, mong mỏi, héo hon
+
+@pineal
+* tt
+- có hình giống như quả thông
+ @pineal gland
+* dt
+- tuyến yên
+ @pineapple
+* dt
+- quả dứa; cây dứa
+ @pine-beauty   (pine-carpet) @pine-carpet   (pine-carpet) @pine-cone  
+*  dt
+- nón thông
+
+@pine-marten  
+*  dt
+- (động vật học) chồn mactet nâu (ở Anh)
+
+@pine-needle  
+*  dt,  (thường) số nhiều
+- lá thông
+
+@pinery  
+*  dt
+- vườn dứa
+- bãi thông
+
+@pine-tree  
+*  dt
+- (thực vật học) cây thông
+
+@pinfold  
+*  dt
+- trại nhốt súc vật lạc
+*  ngdgt
+- nhốt (súc vật lạc) vào trại
+
+@ping  
+*  dt
+- tiếng vèo (đạn bay...)
+*  ndgt
+- bay vèo (đạn)
+
+@ping-pong  
+*  dt
+- (thể dục,thể thao) bóng bàn
+
+@pinguid  
+*  tt
+- (thường)(đùa cợt) nhiều mỡ, mỡ màng, nhờn
+
+@pinguin  
+*  dt
+- (thực vật học) dứa pinguyn (ở đảo Ăng-ti)
+
+@pin-head  
+*  dt
+- đầu ghim, đầu đinh ghim
+- (nghĩa bóng) vật nhỏ xíu
+
+@pin-hole  
+*  dt
+- lỗ đinh ghim
+- lỗ để cắm cọc, lỗ để đóng chốt
+
+@pinion  
+*  dt
+- (kỹ thuật) bánh răng nhỏ,  pinbông
+- đầu cánh, chót cánh
+- (thơ ca) cánh
+- lông cánh
+*  ngdgt
+- cắt lông cánh, chặt cánh (chim để cho không bay đi được); xén đầu cánh (chim)
+- trói giật cánh khuỷ (ai); trói cánh tay (ai)
+- trói chặt, buộc chặt
+
++ to pinion someone to something: trói chặt ai vào cái gì
+
+@pink  
+*  tt
+- hồng
+- (chính trị) hơi đỏ, khuynh tả, thân cộng
+*  dt
+- (thực vật học) cây cẩm chướng; hoa cẩm chướng
+- màu hồng
+- (the pink) tình trạng tốt nhất, tình trạng hoàn hảo; loại tốt nhất, loại hoàn hảo
+
++ the pink of health: tình trạng sung sức nhất
+
++ to be in the pink: (từ lóng) rất sung sức, rất khoẻ
+- áo choàng đỏ của người săn cáo; vải để may áo choàng đỏ của người săn cáo; người săn cáo
+*  dt
+- thuốc màu vàng nhạt
+- (sử học) ghe buồm
+*  ngdgt
+- đâm nhẹ (bằng gươm...)
+- trang trí (đồ da, hàng dệt...) bằng những lỗ nhỏ; trang trí bằng những đường tua gợn sóng ((cũng) to pink out)
+- trang trí, trang hoàng
+*  dt
+- (động vật học) cà hồi lưng gù
+- (tiếng địa phương) cá đục dài
+*  ndgt
+- nổ lốp đốp (máy nổ)
+
+@pink gin
+* dt
+- đồ uống bằng rượu gin pha chế thêm vị đắng của vỏ angotua (có màu hơi hồng)
+ @pink tea  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) tiệc trà hoa hoè hoa sói (của các bà)
+
+@pink-eye  
+*  dt
+- (y học),  (thú y học) bệnh đau mắt đ
+
+@pinkie
+* dt
+- ngón út (tay)
+ @pinking shears
+* dt
+- cái kéo răng cưa
+ @pinkish   (pinky) @pinkishness
+- xem pinkish
+ @pinkness
+- xem pink
+ @pinkster flower  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thực vật học) hoa đỗ quyên
+
+@pinky   (pinky) @pin-money  
+*  dt
+- tiền để hàng năm may quần áo; tiền để tiêu vặt... (của đàn bà)
+
+@pinna  
+*  dt,  số nhiều pinnae  @pinnace  
+*  dt
+- (hàng hải) xuồng chèo (thường tám chèo); xuống máy (của một tàu chiến)
+
+@pinnacle  
+*  dt
+- tháp nhọn (để trang trí mái nhà...)
+- đỉnh núi cao nhọn
+- (nghĩa bóng) cực điểm; đỉnh cao nhất
+
++ on the highest pinnacle of fame: trên đỉnh cao nhất của danh vọng; lúc tiếng tăm lẫy lừng nhất
+*  ngdgt
+- đặt lên tháp nhọn, để trên cao chót vót
+- xây tháp nhọn cho
+
+@pinnae  
+*  dt,  số nhiều pinnae  @pinnal
+- xem pinna
+ @pinnate   (pinnated) @pinnated   (pinnated) @pinnately
+- xem pinnate
+ @pinner  
+*  dt
+- mũ có dải (bịt tai...)
+
+@pinniped  
+*  tt
+- (động vật học) có chân màng
+*  dt
+- (động vật học) động vật chân vây
+
+@pinnothere  
+*  dt
+- (động vật học) ốc mượn hồn
+
+@pinnular
+- xem pinnule
+ @pinnule  
+*  dt
+- (thực vật học) lá chét con (của lá chét trong lá kép lông chim hai lần)
+- (động vật học) bộ phận hình cánh; bộ phận hình vây
+
+@pinny   (pinny) @pinochle   (pinochle) @pinocle   (pinochle) @pinole  
+*  dt
+- món bột ngô nấu với đường
+
+@pin-point  
+*  dt
+- đầu đinh ghim
+- (nghĩa bóng) cái nhỏ tí
+- (định ngữ) (quân sự) rất nhỏ đòi hỏi sự chính xác tuyệt đối khi ném bom (khi bắn phá) (mục tiêu)
+*  ngdgt
+- (quân sự) xác định (mục tiêu nhỏ) một cách chính xác; ném bom (bắn phá) hết sức chính xác (một mục tiêu nhỏ); chỉ định đích xác
+
+@pinpoint
+* dt
+- đầu đinh ghim; <bóng> vật nhỏ và nhọn
+- <đngữ><qsự> rất nhỏ đòi hỏi sự chính xác tuyệt đối khi ném bom (khi bắn phá mục tiêu)
+* ngdgt
+- xác định, định vị (cái gì) chính xác; định nghĩa (cái gì) chính xác
+ @pinprick  
+*  dt
+- cú châm bằng đinh ghim
+- điều bực mình qua loa, điều khó chịu qua loa
+
+@pins and needles
+* dt
+- cảm giác rần rần như kiến bò
+ @pin-stripe
+* dt
+- sọc rất nhỏ trên vải
+ @pint  
+*  dt
+- Panh (đơn vị đo lường bằng 0, 57 lít ở Mỹ)
+
+@pin-table
+* dt
+- bàn để chơi trò bắn đạn
+ @pintado  
+*  dt,  số nhiều pintados  @pintail  
+*  dt
+- (động vật học) vịt nhọn đuôi
+
+@pintle  
+*  dt
+- chốt, trục
+
+@pinto  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) vá (ngựa)
+*  dt
+- (từ Mỹ,nghĩa Mỹ) ngựa (vá)
+
+@pint-sized
+* tt
+- <thgt> rất nhỏ
+ @pin-up  
+*  dt
+- bức ảnh đẹp; bức ảnh cô gái đẹp; bức ảnh người đẹp (mà mình thích và cắt treo lên tường)
+*  tt
+- đẹp nổi tiếng, có ảnh thường được cắt treo lên tường
+
++ pin-up girl: cô gái đẹp mà ảnh thường được cắt treo trên tường
+
+@pin-wheel  
+*  tt
+- đẹp nổi tiếng, có ảnh thường được cắt treo lên tường
+
++ pin-wheel girl: cô gái đẹp mà ảnh thường được cắt treo lên tường
+*  dt
+- vòng hoa pháo
+
+@piny  
+*  tt
+- (thuộc) cây thông; giống cây thông
+- có nhiều thông
+
+@pioneer  
+*  dt
+- (quân sự) đội tiên phong, đội mở đường ((thường) là công binh)
+- người đi tiên phong, người đi đầu (trong một công cuộc gì); nhà thám hiểm đầu tiên
+
++ young pioneer: thiếu niên tiền phong
+*  ngdgt
+- mở (đường...)
+- đi đầu mở đường cho (một công việc gì...)
+*  ndgt
+- là người mở đường, là người đi tiên phong
+
+@pious  
+*  tt
+- ngoan đạo
+- (từ cổ,nghĩa cổ) hiếu thảo, lễ độ
+!a pious fraud
+- một sự lừa dối có thiện ý
+
+@piously
+* dt
+- ngoan đạo, sùng đạo
+- đạo đức giả
+ @piousness
+* dt
+- tính ngoan đạo, sự sùng đạo
+- tính đạo đức giả; sự dối trá
+ @pip  
+*  dt
+- bệnh ứ đờm (gà)
+- (từ lóng) cơn buồn rầu, cơn chán nản; cơn bực bội
+
++ top have the pip: buồn rầu, chán nản; bực bội
+
++ to give someone the pip: làm cho ai buồn rầu chán nản; làm cho ai bực bội
+*  dt ((cũng) pippin)
+- hột (cam, táo, lê)
+- (từ lóng) người tuyệt, vật tuyệt
+*  dt
+- hoa (rô, cơ, pích, nhép trên quân bài); điểm (trên quân súc sắc)
+- sao (trên cầu vai sĩ quan cấp uý)
+- bông hoa lẻ (của một cụm hoa)
+- mắt dứa
+*  ngdgt
+- (thông tục) bắn trúng (ai)
+- thắng, đánh bại (ai)
+- bỏ phiếu đen, bỏ phiếu chống lại (ai)
+*  dt
+- tiếng "píp píp" (tín hiệu báo giờ ở đài phát thanh)
+*  ndgt
+- kêu "píp píp" 
+
+@pip
+- (lý thuyết trò chơi) số (trên quân bài)
+ @pip emma   (pip_emma) @pipal   (peepul) @pipe  
+*  dt
+- ống dẫn (nước, dầu...)
+- (âm nhạc) ống sáo, ống tiêu; (số nhiều) kèn túi (của người chăn cừu Ê-cốt)
+- (giải phẫu) ống quần
+- điếu, tẩu (hút thuốc) ((cũng) tobacco pipe); (một) tẩu thuốc
+
++ to smoke a pipe: hút thuốc bằng tẩu; hút một tẩu thuốc
+- (ngành mỏ) mạch ống (quặng)
+- còi của thuyền trưởng; tiếng còi của thuyền trưởng
+- tiếng hát; tiếng chim hót
+- đường bẫy chim rừng
+- thùng (đơn vị đo lường rượu bằng 105 galông)
+!to bit the pipe
+- (từ Mỹ,nghĩa Mỹ) hút thuốc phiện
+!King's (Queen) pipe
+- lò đốt thuốc lá buôn lậu (ở cảng Luân-đôn)
+!put that in your pipe and smoke it
+- cố mà nhớ lấy cái điều đó; hây ngẫm nghĩ nhớ đời cái điều đó
+!to put someone's pipe out
+- trội hơn ai, vượt ai, làm cho lu mờ ai
+!to smoke the pipe of peace
+- sống hoà bình với nhau, thân thiện giao hảo với nhau
+*  ngdgt
+- đặt ống dẫn (ở nơi nào); dẫn (nước, dầu...) bằng ống
+- thổi sáo, thổi tiêu (một bản nhạc)
+- thổi còi ra lệnh; thổi còi tập hợp (một bản nhạc)
+- thổi còi ra lệnh; thổi còi tập họp (thuỷ thủ...)
+
++ to pipe all hands on deck: thổi còi tập họp tất cả các thuỷ thủ lên boong
+
++ to pipe the crew up to meal: thổi còi tập họp tất cả các thuỷ thủ đi ăn cơm
+- hát lanh lảnh; hót lanh lảnh
+- viền nối (áo); trang trí đường cột thừng (trên mặt bánh)
+- trồng (cây cẩm chướng...) bằng cành giâm
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nhìn, trông
+*  ndgt
+- thổi còi
+- thổi sáo, thổi tiêu
+- hát lanh lảnh; hót lanh lảnh
+- rít, thổi vi vu (gió)
+!to pipe away
+- (hàng hải) thổi còi ra hiệu cho (tàu...) rời bến
+!to pipe down
+- (hàng hải) thổi còi ra lệnh cho (thuỷ thủ...) nghỉ
+- (từ lóng) bớt làm om sòm, hạ giọng; bớt kiêu căng, bớt lên mặt ta đây
+!to pipe up
+- bắt đầu diễn, bắt đầu hát
+- nói to lên (làm cho người ta để ý đến mình)
+!to pipe one eye(s)
+- khóc
+
+@pipe
+- ống, ống dẫn
+ @pipe dream  
+*  dt
+- ý nghĩ viển vông; kế hoạch không thiết thực
+
+@pipeclay  
+*  dt
+- đất sét trắng (dùng làm tẩu thuốc lá)
+- (quân sự) bột đất sét trắng (để đánh các đồ da trắng)
+- (nghĩa bóng) sự chú ý quá tỉ mỉ đến quân phục
+*  ngdgt
+- đánh (các đồ da trắng) bằng bột đất sét trắng
+
+@pipe-cleaner
+* dt
+- cái thông điếu (trong ống tẩu thuốc)
+ @pipe-dream
+* dt
+- ý nghĩ viển vông, kế hoạch không thiết thực; hão huyền
+ @pipe-fish  
+*  dt
+- (động vật học) cá chìa vôi
+
+@pipefiter  
+*  dt
+- người đặt ống dẫn (nước...)
+
+@pipeful  
+*  dt
+- tẩu (đầy) (thuốc lá)
+
+@pipe-laying  
+*  dt
+- việc đặt ống dẫn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mưu đồ chính trị
+
+@pipe-light  
+*  dt
+- mồi châm tẩu (thuốc lá), đóm châm tẩu (thuốc lá)
+
+@pipeline  
+*  dt
+- ống dẫn dầu
+- (nghĩa bóng) nguồn hàng vận chuyển liên tục (từ nơi sản xuất đến các nhà buôn lẻ)
+- (từ Mỹ,nghĩa Mỹ) đường lấy tin riêng
+
++ diplomatic pipelines: đường tin ngoại giao
+*  ngdgt
+- đặt ống dẫn dầu
+- dẫn bằng ống dẫn dầu
+
+@piper  
+*  dt
+- người thổi sáo, người thổi tiêu, người thổi kèn túi
+- người mắc bệnh thở khò khè
+!to pay the piper
+- đứng ra chi phí mọi khoản, đứng ra chịu mọi tổn phí
+!he who pays the piper calth the tume
+- (xem) pay
+
+@piperaceous
+* tt
+- thuộc hồ tiêu
+ @pipe-rack  
+*  dt
+- giá để tẩu (tẩu thuốc lá)
+
+@piperazin   (piperazine) @piperazine
+- <dược học> piperazin
+ @piperic
+* tt
+- thuộc hồ tiêu; lấy từ hồ tiêu
+ @pipe-stone  
+*  dt
+- đất sét đỏ rắn (người da đỏ dùng làm tẩu thuốc lá)
+
+@pipe-tree
+* dt
+- cây tử đinh hương
+ @pipette  
+*  dt
+- pipet (dùng trong thí nghiệm hoá học)
+
+@piping  
+*  dt
+- sự thổi sáo, sự thổi tiêu; sự thổi kèn túi
+- tiếng sáo, tiếng tiêu; tiếng kèn túi; tiếng gió vi vu; tiếng gió vi vu; tiếng chim hót
+- sự viền, dải viền cuộn thừng (quần áo); đường cuộn thừng (bằng kem... trang trí trên mặt bánh)
+- ống dẫn (nói chung); hệ thống ống dẫn
+*  tt
+- trong như tiếng sáo, lanh lảnh
+!the piping times os peace
+- thời thanh bình (khắp nơi vang tiếng sáo)
+!piping hot
+- sói réo lên; nóng sôi sùng sục
+
+@pipistrel   (pipistrelle) @pipistrelle
+
+ @pipit  
+*  dt
+- (động vật học) chim sẻ đồng
+
+@pipkin  
+*  dt
+- nồi đất nhỏ; chảo đất nh
+
+@pippin  
+*  dt
+- táo pipin (có đốm ngoài vỏ)
+*  dt,  (từ lóng) ((cũng) pip)
+- hột (cam, táo, lê)
+- (từ lóng) người tuyệt, vật tuyệt
+
+@pip-squeak  
+*  dt
+- (từ lóng) người đáng kính, người tầm thường
+- vật nhỏ mọn, vật không đáng kể
+
+@pipsqueak
+* dt
+- <lóng> người không đáng kính, người tầm thường
+- vật nhỏ mọn, vật không đáng kể
+ @pipy  
+*  tt
+- có nhiều ống dẫn
+- lanh lảnh
+
+@piquancy  
+*  dt
+- vị cay cay
+- (nghĩa bóng) sự kích thích; sự khêu gợi ngầm; duyên thầm
+
+@piquant  
+*  tt
+- hơi cay, cay cay
+- (nghĩa bóng) kích thích; khêu gợi ngầm; có duyên thầm
+
+@piquantly
+* dt
+- có vị cay cay
+- <bóng> kích thích, kích động nhẹ
+ @piquantness
+- xem piquant
+ @pique  
+*  dt
+- sự hờn giận, sự giận dỗi, sự oán giận
+
++ in a fit of pique: trong cơn giận dỗi
+
++ to take a pique against someone: oán giận ai
+*  ngdgt
+- chạm tự ái của (ai); làm (ai) giận dỗi
+- khêu gợi
+
++ to pique the curiosity: khêu gợi tính tò mò
+
++ to pique oneself on something: tự kiêu về một việc không chính đáng
+
+@piquet  
+*  dt
+- lối chơi bài pikê (32 quân bài, hai người chơi)
+- (quân sự) đội quân cảnh ((cũng) picket)
+
+@piqué  
+*  dt
+- vải bông sọc
+
+@piracy  
+*  dt
+- nghề cướp biển, nghề ăn cướp
+- sự vi phạm quyền tác giả
+
+@piragua   (pirogue) @piranha
+* dt
+- cá piranha (cá nhỏ nước ngọt ở vùng nhiệt đới Mỹ thường tấn công và ăn các động vật sống)
+ @pirate  
+*  dt
+- kẻ cướp biển; kẻ cướp
+- tàu cướp biển
+- kẻ vi phạm quyền tác giả
+- người phát thanh đi một bài (một chương trình) không được phép chính thức; ((thường) định ngữ) không được phép chính thức
+
++ a pirate broadcast: một buổi phát thanh không được phép chính thức
+- xe hàng chạy vi phạm tuyến đường (của hãng xe khác); xe hàng cướp khách; xe hàng quá tải
+*  ngdgt
+- ăn cướp
+- tự ý tái bản (sách...) không được phép của tác giả
+*  ndgt
+- ăn cướp biển, ăn cướp, dở trò ăn cướp
+
+@piratic   (piratical) @piratical   (piratical) @piratically
+* dt
+- (thuộc) kẻ cướp biển; có tính chất cướp bóc
+- (thuộc) kẻ in lậu, phát thanh bất hợp pháp
+ @pirogue   (pirogue) @pirouette  
+*  dt
+- thế xoay tròn (trên một bàn chân hoặc trên đầu ngón chân cái) (múa)
+*  ndgt
+- múa xoay tròn (trên một bàn chân hoặc trên đầu ngón chân cái)
+
+@pis aller  
+*  dt
+- bước đường cùng; biện pháp cuối cùng
+
+@pisc-
+- hình thái ghép có nghĩa là cá
+
++  pisciculture:việc nuôi cá
+- hình thái ghép có nghĩa là cá
+
++  pisciculture:việc nuôi cá
+ @piscary  
+*  dt
+- quyền câu cá
+
++ common of piscary: (pháp lý) quyền được câu cá ở ao hồ của người khác
+
+@piscatorial  
+*  tt ((cũng) piscatory)
+- (thuộc) việc đánh cá, (thuộc) việc câu cá
+- (thuộc) người đánh cá, (thuộc) người câu cá
+
+@piscatorially
+- xem piscatorial
+ @piscatory  
+*  tt
+- (như) piscatorial
+- thích câu cá, mê câu cá
+
+@piscean
+- Cách viết khác : zodiac 
+ @pisces
+* dt
+- <snh> cung song ngư; cung thứ mười hai của hoàng đạo
+- người sinh ra dưới ảnh hưởng của cung này
+ @pisci-
+- xem pisc-
+ @piscicultural  
+*  tt
+- (thuộc) nghề nuôi cá
+
+@pisciculture  
+*  dt
+- nghề nuôi cá
+
+@pisciculturist  
+*  dt
+- người nuôi cá
+
+@piscina  
+*  dt,  số nhiều piscinas  @piscinae  
+*  dt,  số nhiều piscinas  @piscinal
+- xem piscina
+ @piscine  
+*  dt
+- bể tắm
+*  tt
+- (thuộc) cá
+
+@piscivorous  
+*  tt
+- ăn cá
+
+@pish  
+*  thán từ
+- gớm!, khiếp! (tỏ ý khinh bỉ, ghê tởm)
+*  ndgt
+- nói "gớm" !, nói "khiếp" ! (tỏ ý khinh bỉ, ghê tởm)
+
+@pishogue  
+*  dt
+- (Ai-len) yêu thuật, ma thuật, phép phù thu
+
+@pisiform  
+*  tt
+- hình hột đậu
+
+@pismire  
+*  dt
+- (động vật học) con kiến
+
+@pisolite  
+*  dt
+- (khoáng chất) pizolit; đá hột đậu
+
+@pisolitic
+- xem pisolite
+ @piss  
+*  dt
+- ghụi ẻ khát nước tiểu
+*  ndgt
+- rùi áu khát đi tè
+*  ngdgt
+- đái ra (máu...)
+- làm ướt đầm nước đái
+
+@pissabed
+* dt
+- (thực vật học) cây bồ công anh
+ @pissed  
+*  tt
+- (từ lóng) say bí tỉ, say khướt
+
+@pissoir
+* dt
+- chổ đi tiểu
+ @piss-pot  
+*  dt
+- thùng đi tiểu, bô đi đái đêm
+
+@pist
+* dt
+- tung tích
+ @pistachio  
+*  dt
+- cây hồ trăn
+- quả hồ trăn
+- màu hồ trăn
+
+@pistachio green
+* dt
+- màu hồ trăn
+ @pistachio nut
+* dt
+- quả hồ trăn
+ @piste
+* dt
+- (tiếng Pháp) đường trượt tuyết
+ @pistil  
+*  dt
+- (thực vật học) nhuỵ (hoa)
+
+@pistillary  
+*  tt
+- (thực vật học) (thuộc) nhuỵ
+
+@pistillate   (pistilliferous) @pistillidium
+* dt
+- túi noãn
+- ổ noãn
+- nhụy
+ @pistilliferous   (pistilliferous) @pistillody
+* dt
+- (thực vật học) tính hoá nhụy
+ @pistol  
+*  dt
+- súng lục, súng ngắn
+*  ngdgt
+- bắn bằng súng lục
+
+@pistolade
+* dt
+- việc dùng súng ngắn để bắn
+ @pistol-cane
+* dt
+- cây gậy kiêm súng
+ @pistole  
+*  dt
+- (sử học) đồng pixtôn (tiền vàng Tây ban nha)
+
+@pistoleer
+* dt
+- người bắn súng ngắn
+ @pistolet
+* dt
+- súng ngắn nhỏ
+ @pistolgraph
+* dt
+- máy ảnh có tay cầm
+ @pistol-grip
+* dt
+- báng súng
+ @pistol-shot  
+*  dt
+- phát súng lục
+
++ within pistol-shot: trong tầm súng lục
+
++ beyond pistol-shot: người tầm súng lục
+
+@pistol-whip
+* ngdgt
+- lấy súng quật; tấn công dữ dội
+ @piston  
+*  dt
+- (kỹ thuật) Pittông
+
+@piston
+- (kỹ thuật) pittông
+ @piston ring
+* dt
+- bạc pít-tông
+ @piston-engined
+* tt
+- vận hàng bằng pít-tông
+ @piston-rod  
+*  dt
+- (kỹ thuật) cán pittông
+
+@pisé  
+*  dt
+- (kiến trúc) đất sét nén (với sỏi)
+
+@pit  
+*  dt
+- hồ
+- hầm khai thác, nơi khai thác
+- hầm bẫy, hố bẫy (thú rừng...) ((cũng) pifall)
+
++ to dig a pit for someone: (nghĩa bóng) đặt bẫy ai, định đưa ai vào bẫy
+- (như) cockpit
+- (giải phẫu) hố, hốc, ổ, lõm
+
++ the pit of the stomach: lõm thượng vị
+- lỗ rò (bệnh đậu mùa)
+- chỗ ngồi hạng nhì; khán giả ở hạng nhì (trong rạp hát)
+- trạm tiếp xăng thay lốp (trong một cuộc đua ô tô)
+- (từ Mỹ,nghĩa Mỹ) phòng giao dịch mua bán
+- (the pit) địa ngục, âm ti ((cũng) the pit of helt)
+*  ngdgt
+- để (rau...) xuống hầm trữ lương thực
+- thả (hai con gà) vào sân chọi cho chọi nhau; (nghĩa bóng) đưa (ai) ra đọ sức với
+
++ to pit someone against someone: đưa ai ra đọ sức với ai
+- làm cho bị rỗ
+
++ a face pitted with smallpox: mặt rỗ vì đậu mùa
+*  ndgt
+- giữ vết lằn (của ngón tay... khi ấn vào) (da, thịt...)
+
+@pit pony
+* dt
+- ngựa nhỏ (dùng ở dưới hầm mỏ để kéo các xe chở nặng)
+ @pita
+* dt
+- loại bánh mì ổ dẹp (ở Hy-lạp, Trung Đông)
+ @pit-a-pat   (pit-pat) @pit-barometer
+* dt
+- áp kế dùng trong hầm mỏ
+ @pitch  
+*  dt
+- hắc ín
+*  ngdgt
+- quét hắc ín, gắn bằng hắc ín
+*  dt
+- sự ném, sự liệng, sự tung, sự hất; sự lao xuống
+
++ a headlong pitch from a rock: sự lao người từ một tảng đá xuống
+- (thể dục,thể thao) cách ném bóng (crickê)
+- sự lao lên lao xuống, sự chồm lên chồm xuống (của con tàu trong cơn bão)
+- độ cao bay vọt lên (của chim ưng để lấy đà nhào xuống vồ mồi)
+- độ cao (của giọng...)
+- mức độ
+
++ to come to such a pitch that...: đến mức độ là...
+
++ anger is at its highest pitch: cơn giận đến cực độ
+- độ dốc; độ dốc của mái nhà
+- số hàng bày bán ở chợ
+- chỗ ngồi thường lệ (của người bán hàng rong, người hát xẩm)
+- (kỹ thuật) bước, bước răng
+
++ screw pitch: bước đinh ốc
+*  ngdgt
+- cắm, dựng (lều, trại)
+
++ to pitch tents: cắm lều, cắm trại
+- cắm chặt, đóng chặt xuống (một chỗ nhất định)
+
++ to pitch wickets: (thể dục,thể thao) cắm cột gôn (crickê)
+- bày bán hàng ở chợ
+- lát đá (một con đường)
+- ném, liệng, tung, hất; liệng (một vật dẹt) vào đích
+
++ to pitch the ball: ném bóng (chơi crickê)
+
++ to pitch hay into the cart: hất cỏ khô lên xe bò
+- (từ lóng) kể (chuyện...)
+- (âm nhạc) lấy (giọng)
+
++ to pitch one's voice higher: lấy giọng cao hơn
+- (nghĩa bóng) diễn đạt (cái gì...) bằng một phong cách riêng
+*  ndgt
+- cắm lều, cắm trại, dựng trại
+- (: on,  into) lao vào, lao xuống, chồm lên chồm xuống (tàu bị bão...)
+!to pitch in
+- (thông tục) hăng hái, bắt tay vào việc
+!to pitch into
+- (thông tục) xông vào, tấn công vào dữ dội, xông vào đánh (ai) tới tấp
+- đả kích kịch liệt; mắng mỏ chửi bới như tát nước vào mặt (ai)
+- xông vào ăn lấy ăn để; ăn lấy ăn để (cái gì)
+!to pitch upon
+- ngẫu nhiên chọn đúng, tình cờ chọn đúng (cái gì, ai...); chọn hú hoạ
+
+@pitch-and-toss  
+*  dt
+- trò chơi đáo sấp ngửa (tung tiền và vơ những đồng ngửa)
+
+@pitch-black   (pitch-dark) @pitchblende  
+*  dt
+- (khoáng chất) Uranit
+
+@pitch-cap  
+*  dt
+- mũ lót hắn ín (dụng cụ để tra tấn)
+
+@pitch-dark   (pitch-dark) @pitched
+* tt
+- dốc xuống, không bằng phẳng (mái nhà)
+ @pitched battle  
+*  dt
+- trận đánh dàn trận
+
+@pitcher  
+*  dt
+- bình rót (sữa, nước...)
+- (thực vật học) lá hình chén (lá biến đổi thành hình chén có nắp
+!little pitchers have long ears
+- trẻ con hay nghe lỏm
+*  dt
+- (thể dục,thể thao) cầu thủ giao bóng (bóng chày)
+- người bán quán ở vỉa hè
+- đá lát đường
+
+@pitcher-leaf
+* dt
+- lá nắp ấm
+ @pitcher-man
+* dt
+- người cuồng ẩm
+ @pitcher-plant  
+*  dt
+- (thực vật học) cây nắp ấm
+
+@pitchfork  
+*  dt
+- cái chĩa (để hất rơm, cỏ khô...)
+- (âm nhạc) thanh mẫu, âm thoa
+!it rains pitchfork
+- (từ Mỹ,nghĩa Mỹ) mưa như đổ cây nước
+*  ngdgt
+- hất (rơm, cỏ khô...) bằng chĩa
+- (nghĩa bóng) ((thường) : into) đẩy, tống (ai vào một chức vị nào)
+
++ to be pitchforked into an office: bị đẩy vào một chức vị
+
+@pitchiness
+- xem pitchy
+ @pitchman  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người bán quán ở vỉa hè
+
+@pitch-pipe
+* dt
+- ống sáo để điều chỉnh âm điệu
+ @pitchy  
+*  tt
+- (thuộc) hắc ín; giống hắc ín; đen như hắc ín
+
+@pit-coal  
+*  dt
+- than bitum
+
+@piteous  
+*  tt
+- đáng thương hại, thảm thương
+
+@piteously
+* dt
+- thảm thương, đáng thương hại
+ @piteousness  
+*  dt
+- tình trạng đáng thương, tình trạng thảm thương
+
+@pitfall  
+*  dt
+- hầm bẫy
+- (nghĩa bóng) cạm bẫy
+
++ a road strewn with pitfalls: con đường đầy chông gai cạm bẫy
+
+@pith  
+*  dt
+- ruột cây
+- lớp vỏ xốp; cùi (quả cam)
+- (giải phẫu) tuỷ sống
+- (nghĩa bóng) phần chính, phần cốt tuỷ ((thường) the pith and marrow of)
+
++ the pith and marrow of matter: phần chính của vấn đề
+- sức mạnh; nghị lực
+
++ to lack pith: thiếu nghị lực
+*  ngdgt
+- rút tuỷ sống để giết (một con vật)
+
+@pith hat
+* dt
+- mũ bấc (làm bằng cây phơi khô đội để tránh nắng trước đây)
+ @pith helmet
+* dt
+- mũ bấc (làm bằng cây phơi khô đội để tránh nắng trước đây)
+ @pit-head
+* dt
+- cổng mỏ
+* dt
+- có tiếng bước, tiếng vỗ nhanh nhẹ; tiếng rộn rã
+* dt
+- tiếng lộp độp, hổn hển
+ @pithecan
+* dt
+- người vượn
+ @pithecanthrope  
+*  dt
+- người vượn
+
+@pithecoil  
+*  tt
+- giống vượn, giống khỉ
+
+@pithily  
+*  dt
+- mạnh mẽ, đấy sức sống, đầy nghị lực
+- súc tích; rắn rỏi, mạnh mẽ (văn)
+
+@pithiness  
+*  dt
+- sức mạnh, sức sống
+- tính súc tích; tính rắn rỏi, tính mạnh mẽ (văn)
+
+@pithless  
+*  tt
+- không có ruột (cây)
+- không có tuỷ sống
+- yếu đuối, bạc nhược, không có nghị lực
+
+@pithy  
+*  tt
+- (thuộc) ruột cây; giống ruột cây; nhiều ruột (cây)
+- (thuộc) tuỷ sống; giống tuỷ sống, nhiều tuỷ sống
+- mạnh mẽ, đấy sức sống, đầy nghị lực
+- súc tích; rắn rỏi, mạnh mẽ (văn)
+
+@pitiable  
+*  tt
+- đáng thương, đáng thương hại, đáng thương xót
+- đáng khinh
+
+@pitiableness  
+*  dt
+- tình trạng đáng thương, tình trạng đáng thương hại, tình trạng đáng thương xót
+- tình trạng đáng khinh
+
+@pitiably
+* dt
+- đáng thương, gợi lên lòng thương xót
+- đáng khinh
+ @pitiful  
+*  tt
+- thương xót, thương hại, đầy lòng trắc ẩn
+- đáng thương hại
+- nhỏ mọn, không đáng kể (vật)
+
++ a pitiful amount: số lượng không đáng kể
+- đáng khinh
+
+@pitifully
+* dt
+- một cách đáng thương
+- một cách tầm thường
+ @pitifulness  
+*  dt
+- lòng thương hại, lòng thương xót, lòng trắc ẩn
+- tình trạng đáng thương hại
+- tình trạng đáng khinh
+
+@pitiless  
+*  tt
+- tàn nhẫn, nhẫn tâm, không thương xót
+
+@pitilessly
+* dt
+- tàn bạo, nhẫn tâm, không thương xót
+- gây gắt, khắc nghiệt; không ngớt
+ @pitilessness  
+*  dt
+- sự tàn nhẫn, sự nhẫn tâm, tính tàn nhẫn
+
+@pitman  
+*  dt,  số nhiều pitmen  @pitmen
+* dt
+- <kỹ> thanh truyền, thanh nổi (trong máy)
+ @piton
+* dt
+- móc leo núi
+ @pitot tube
+* dt
+- ống nhỏ, hở một đầu (dùng trong các dụng cụ đo áp suất, tốc độ của chất lỏng)
+ @pitpan  
+*  dt
+- thuyền độc mộc (ở Trung mỹ)
+
+@pit-pat   (pit-pat) @pit-prop
+* dt
+- gỗ chống lò
+ @pitta
+* dt
+- loại bánh mì ổ dẹp (ở Hy-lạp, Trung Đông)
+ @pitta bread
+* dt
+- loại bánh mì ổ dẹp (ở Hy-lạp, Trung Đông)
+ @pittance  
+*  dt
+- thu hoạch ít ỏi; tiền thu lao rẻ mạt
+- số lượng nh
+
+@pitted
+* tt
+- rỗ hoa (vì đậu mùa)
+- có hõm; có hốc
+ @pitter-patter
+* dt
+- có tiếng bước, tiếng vỗ nhanh nhẹ; tiếng rộn rã
+* dt
+- tiếng lộp độp, hổn hển
+ @pittile  
+*  dt
+- người ngồi ghế hạng nhì (ở rạp hát)
+
+@pittite
+* dt
+- người ngồi ghế hạng nhì (ở rạp hát)
+ @pituitary  
+*  tt
+- (thuộc) đờm dâi; tiết ra đờm dãi; nhầy
+- (giải phẫu) (thuộc) tuyến yên
+
++ pituitary glanf (body): tuyến yên
+
+@pituitary gland
+* dt
+- tuyến yên
+ @pituitous  
+*  tt
+- đầy đờm dâi; như đờm dãi; tiết ra chất nhầy
+
+@pituitrin  
+*  tt
+- Hoocmon tuyến yên,  pitutrin
+
+@pituiturism
+* dt
+- (y học) hiện tượng loạn tuyến yên
+ @pity  
+*  dt
+- lòng thương hại, lòng thương xót, lòng trắc ẩn
+
++ to take (have) pity on someone; to feel pity for someone: thương xót ai, thương hại ai, động lòng trắc ẩn đối với ai
+
++ for pity's sake: vì lòng thương hại
+
++ out of pity: vì lòng trắc ẩn
+- điều đáng thương hại, điều đáng tiếc
+
++ what a pity!: thật đáng tiếc!
+
++ the pity is that...: điều đáng tiếc là...
+
++ it's a thousand pities that...: rất đáng tiếc là...
+*  ngdgt
+- thương hại, thương xót, động lòng trắc ẩn đối với
+
++ he is much to be pitied: thằng cha thật đáng thương hại
+
+@pityariasis
+* dt
+- bệnh vảy phấn
+ @pitying  
+*  tt
+- thương hại, thương xót, làm động lòng trắc ẩn
+
+@pityingly
+* dt
+- tỏ ra thương xót, tỏ ra thương hại
+- tỏ ra thương xót và một chút khinh bỉ
+ @piu
+* dt
+- (âm nhạc) hơn
+- piu lento
+- chậm hơn
+ @pivol
+- lõi, cột trụ
+ @pivot  
+*  dt
+- trụ, ngõng, chốt
+- (quân sự) chiến sĩ đứng làm chốt (khi một đội quân xoay hướng đi)
+- (nghĩa bóng) điểm then chốt, điểm mấu chốt
+*  ngdgt
+- đặt lên trụ, đặt lên ngõng, đặt lên chốt
+- đóng vào trụ, đóng ngõng vào, đóng chốt vào
+*  ndgt
+- xoay quanh trụ, xoay quanh ngõng, xoay quanh chốt
+- (nghĩa bóng) (: upon) xoay quanh
+
+@Pivot effect hypothesis
+- (Econ) Giả thuyết về hiệu ứng quay.
+: Lập luận cho rằng CHÍNH SÁCH THU NHẬP không những tạo nên các hiệu ứng dịch chuyển trong quá trình điều chỉnh tiền lương mà còn có thể làm thay đổi độ dốc của đường cong Phillips, hoặc nói một cách chuyên môn hơn, làm thay đổi độ lớn của sự phản ứng của tỷ lệ thay đổi về lương đối với các yếu tố quyết định gây ra sự thay đổi đó.
+ @pivotable
+- xem pivot
+ @pivotal  
+*  tt
+- (thuộc) trụ, (thuộc) ngõng, (thuộc) chốt; làm trụ, làm ngõng, làm chốt
+- (nghĩa bóng) then chốt, mấu chốt, chủ chốt
+
+@pivotal
+- (thuộc) lõi; trung tâm
+ @pivotally
+- xem pivotal
+ @pivot-crown
+* dt
+- xem pivot-tooth
+ @pivot-gun
+* dt
+- súng tự quay
+ @pivot-man
+* dt
+- (quân sự) binh sĩ đứng làm chốt khi một đơn vị chuyển hướng đi
+ @pivottable
+- <tin> bảng trọng tâm
+ @pivot-tooth
+* dt
+- răng giả gắn vào tủy của răng
+ @pix
+* dt
+- số nhiều
+- (Mỹ) những bức tranh
+ @pixel
+- Phần tử nhỏ nhất (phần tử ảnh) mà một thiết bị có thể hiện thị trên màn hình, hình ảnh trên màn hình được xây dựng nên từ các phần tử đó
+ @pixie   (pixy) @pixilated  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) hơi gàn, hơi điệu
+- (từ lóng) say
+
+@pixilation
+- xem pixilated
+ @pixy   (pixy) @pixyish
+* tt
+- thuộc tiên; như tiên
+ @pizza
+* dt
+- món pitsa (món ăn của ă, làm bằng bột nhão bẹt (tròn) được phủ phó mát, cá cơm  và nướng trong bếp lò)
+ @pizzazz
+- Cách viết khác : pizzaz 
+ @pizzicato  
+*  dt & tt
+- (âm nhạc) bật (đàn viôlông)
+*  dt
+- (âm nhạc) ngón bật; đoạn nhạc bật; nốt bật (đàn viôlông)
+
+@pizzle  
+*  dt
+- guộc uyền nhoác dùng làm roi)
+
+@

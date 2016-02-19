@@ -1,0 +1,6070 @@
+@sp
+* (viết tắt)
+- chính tả (spelling)  (nhất là trên các bản viết đã sửa chữa)
+ @spa  
+*  dt
+- suối khoáng
+
+@space  
+*  dt
+- không gian, không trung, khoảng không
+- khoảng, chỗ
+
++ to take up too much space: choán mất nhiều chỗ
+
++ the wide open space: những vùng rộng mênh mông
+- khoảng cách
+
++ space between the rows: khoảng cách giữa các hàng
+- (ngành in) khoảng cách chữ; phiến cách chữ
+*  ngdgt
+- đặt cách nhau, để cách nhau, dàn theo từng chặng
+
++ tables are spaced one metre apart: bàn được đặt cách nhau một mét
+*  ndgt
+- để cách (ở máy chữ)
+!to space out (in)
+- để cách nhiều hơn; để cách rộng hơn
+
+@space
+- không gian; khoảng thời gian; chỗ
+- action s. không gian tác dụng
+- adjoint s. không gian liên hợp
+- adjunct s. không gian phụ hợp
+- affine s. không gian afin
+- affinely connected s. không gian liên thông afin
+- base s. không gian cơ sở
+- biafine s. không gian song afin
+- bundle s. không gian phân thớ
+- Cartesian s. không gian Ơclit
+- centred affin s. không gian afin có tâm
+- classifying s. không gian phân loại
+- compact s. không gian compac
+- complete s. không gian đủ
+- completely regular s. (tô pô) không gian hoàn toàn chính quy
+- configuration s. không gian cấu hình
+- conjugate s. (đại số) không gian liên hợp
+- contractible s. không gian co rút được
+- control s. không gian điều khiển
+- covex s. không gian lồi
+- coset s. không gian các lớp
+- covering s. không gian phủ
+- curved s. không gian cong
+- deal s. (điều khiển học) vùng chết, vùng không bắt
+- decision s. (thống kê) không gian các quyết định
+- decomposition s. (tô pô) không gian phân hoạch
+- discrete s. không gian rời rạc
+- dual vector s. không gian vectơ đối ngẫu
+- elliptic s. không gian eliptic
+- fibre s. không gian phân thớ
+- finite s. không gian hữu hạn
+- finite dimensional s. không gian hữu hạn chiều
+- flat s. không gian dẹt
+- four dimensional s. không gian bốn chiều
+- generalized s. (tô pô) không gian suy rộng
+- homeomorphic s.s không gian đồng phôi
+- homogeneous s. (hình học) không gian thuần nhất
+- hyperbolic s. không gian hypebolic
+- isometric s. không gian đẳng cự
+- lacunar(y) s. miền có lỗ hổng
+- lens s. (tô pô) không gian thấu kính
+- linear s. không gian tuyền tính
+- locally convex s. (giải tích) không gian lồi địa phương
+- loop s. (tô pô) không gian các nút
+- measurable s. không gian đo được
+- measure s. không gian có độ đo
+- metric s. không gian mêtric 
+- modular s. không gian môđula
+- neighbourhood s. không gian lân cận
+- non-modular s. (hình học) không gian không môđula
+- normed s. (giải tích) không gian định chuẩn
+- null s.
+- one-dimensional s. không gian một chiều
+- parabolic s. không gian parabolic
+- paracompact s. không gian paracompact
+- perpendicular s. không gian trực giao
+- phase s. không gian pha
+- policy s. trchi. không gian các chiến lược
+- product s. không gian tích
+- projective s. (hình học) không gian xạ ảnh
+- proximity s. không gian lân cận
+- pseudo-Euclidian s. không gian giả Oclit
+- pseudospherical s. không gian giả cầu
+- quintuple s. không gian năm chiều
+- quotient s. không gian thương
+- rational s. không gian hữu tỷ
+- ray s. (đại số) không gian các tia
+- real s. không gian thực
+- reflexive s. không gian phản xạ
+- regular s. không gian chính quy
+- representation s. không gian biểu diễn
+- ring-like s. (tô pô) không gian giống vành
+- sample s. không gian mẫu
+- separable s. không gian [tách được, khả li]
+- seperated s. không gian tách, không gian Hauxđooc
+- sequence s. không gian các dãy
+- signal s. không gian các tín hiệu
+- simply connected s.s các không gian đơn liên
+- skew-metric s. (hình học) không gian với mêtric lệch
+- spherical s. không gian cầu
+- state s. không gian trạng thái
+- structure s. of a ring không gian cấu trúc của một vành 
+- subprojective s. không gian xạ ảnh dưới
+- symplectic s. không gian đơn hình
+- totally imbedded s. không gian bị nhúng hoàn toàn
+- three-dimensional s. không gian ba chiều
+- topological s. không gian tôpô
+- topologically complete s. không gian đủ tôpô
+- total s. of fibration không gian toàn phần của phân thớ
+- two-dimensional s. không gian hai chiều
+- uniform s. không gian đều
+- unitary s. không gian unita
+- vector s. (giải tích) không gian vectơ, không gian tuyến tính 
+ @space age  
+*  dt
+- thời dại du hành vũ trụ (kể từ ngày phóng vệ tinh nhân tạo đầu tiên 4 20 2957)
+
+@space craft   (space_ship) @space fiction  
+*  dt
+- tiểu thuyết hoang tưởng về du hành vũ trụ
+
+@space flight  
+*  dt
+- sự bay vào vũ trụ
+- cuộc bay vào vũ trụ
+
+@space flying  
+*  dt
+- sự bay vào vũ trụ
+
+@space helmet  
+*  dt
+- mũ du hành vũ trụ (của nhà du hành vũ trụ khi bay vào vũ trụ)
+
+@space invaders
+* dt
+- trò chơi điện tử phổ biến trong đó người chơi cố ngăn không cho các sinh vật từ vũ trụ đổ bộ xuống trái đất
+ @space probe
+* dt
+- tàu thăm dò vũ trụ (không người lái)
+ @space rocket  
+*  dt
+- tên lửa vũ trụ
+
+@space satellite  
+*  dt
+- hành tinh nhân tạo
+
+@space ship   (space_ship) @space shuttle
+* dt
+- tàu con thoi (tàu vũ trụ được thiết kế để dùng lại nhiều lần)
+ @space station
+* dt
+- trạm vũ trụ
+ @space suit  
+*  dt
+- bộ quần áo vũ trụ
+
+@space traveller  
+*  dt
+- nhà du hành vũ trụ
+
+@space travelling  
+*  dt
+- sự du hành vũ trụ
+
+@space vehicle   (space_ship) @space-bar  
+*  dt
+- cái rập cách chữ (ở máy chữ) ((cũng) spacer)
+
+@spacebar
+- thanh cách chữ (ở máy chữ)
+ @spacecraft
+- Cách viết khác : spaceship 
+ @spaced-out
+* tt
+- (thông tục) say như bị thuốc ma túy
+ @space-exploration
+* dt
+- sự khảo sát vũ trụ
+ @space-factor
+* dt
+- hệ số chứa đầy
+ @spaceful
+* tt
+- rộng rãi
+ @space-heating
+* dt
+- sự sưởi ấm nhà ở
+ @space-helmet
+* dt
+- mũ để du hành vũ trụ
+ @space-lattice
+* dt
+- mạng không gian (của tinh thể)
+ @space-launch
+* dt
+- sự phóng con tàu vũ trụ
+ @spaceless  
+*  tt
+- không có giới hạn, không có bờ bến, vô biên
+
+@spaceman  
+*  dt
+- nhà du hành vũ trụ
+
+@spacemark
+* dt
+- ký hiệu (
+- ) chỉ để trống trong tài liệu in
+ @spacemedicine
+* dt
+- y học trong du hành vũ trụ
+ @space-plafform
+* dt
+- xem space station
+ @spaceport
+* dt
+- sân bay vũ trụ
+ @spacer  
+*  dt
+- (như) space-bar
+- cái chiêm, miếng đệm
+
+@space-radiation
+* dt
+- bức xạ vũ trụ
+ @space-saving  
+*  tt
+- tiết kiệm được chỗ
+
+@spaceship
+- như spacecraft
+ @space-telegraph
+* dt
+- điện báo vô tuyến
+ @space-time  
+*  dt
+- (triết học) không gian thời gian
+
+@spacewalk
+* dt
+- sự chuyển động trong không gian bên ngoài con tàu vũ trụ, khoảng thời gian chuyển động trong không gian
+ @spacewalking
+* dt
+- xem space-walk
+ @spacewards
+* dt
+- về phía không gian
+ @spacewoman
+* dt
+- nữ du hành vũ trụ
+ @space-writer  
+*  dt
+- người viết bài (cho báo) tính dòng lấy tiền
+
+@space-writing  
+*  dt
+- sự viết bài (cho báo) tính dòng lấy tiền
+
+@spacial
+* tt
+- xem space
+ @spacial
+- (thuộc) không gian
+ @spacing  
+*  dt
+- sự để cách (ở máy chữ)
+
+@spacing
+- (máy tính) xếp đặt, phana bố
+ @spacious  
+*  tt
+- rộn lớn, rộng rãi
+
+@spaciously
+* dt
+- rộng rãi; có được nhiều chỗ, kiếm được nhiều chỗ
+ @spaciousness  
+*  dt
+- tính rộng lớn, tính rộng rãi
+
+@spade  
+*  dt
+- (đánh bài) con pích
+- cái mai, cái thuổng
+- dao lạng mỡ cá voi
+- (quân sự) phần đuôi (để chống xuống đất) của cỗ pháo
+!to call a spade a spade
+- nói thẳng nói thật, nói toạc móng heo, nói trắng
+*  ngdgt
+- đào bằng mai
+- lặng mỡ (cá voi)
+
+@spadeful  
+*  dt
+- mai (đầy)
+
+@spader  
+*  dt
+- người đào mai, người đào thuổng
+- máy đào đất
+
+@spadesman
+* dt
+- người đào mai
+ @spade-work  
+*  dt
+- công việc đào đất bằng mai
+- công việc khai khẩn, việc khai hoang, sự vỡ hoang
+
+@spadework
+* dt
+- việc đào bằng mai
+- công việc chuẩn bị vất vả
+ @spadger  
+*  dt
+- (từ lóng) chim sẻ
+
+@spadiceous   (spadicose) @spadices  
+*  dt,  số nhiều spadices
+- (thực vật học) bông mo
+
+@spadicose   (spadicose) @spadille  
+*  dt
+- (đánh bài) con át pích
+
+@spading
+* dt
+- sự đào đất bằng mai
+ @spadix  
+*  dt,  số nhiều spadices
+- (thực vật học) bông mo
+
+@spado  
+*  dt,  số nhiều spadones
+- (pháp lý) người không có khả năng sinh đẻ
+
+@spadones  
+*  dt,  số nhiều spadones
+- (pháp lý) người không có khả năng sinh đẻ
+
+@spae  
+*  dgt
+- (Ê-cốt) đoán, nói trước
+
+@spaewife  
+*  dt
+- bà thầy bói
+
+@spaghetti  
+*  dt
+- mì ống
+- (từ Mỹ,nghĩa Mỹ),  (điện học) ống bọc dây điện
+
+@spahee   (spahi) @spahi   (spahi) @spake  
+*  ndgt spoke,  (từ cổ,nghĩa cổ) spake; spoken
+- nói
+
++ to learn to speak: tập nói
+- nói với, nói chuyện, nói lên
+
++ I will speak to him about it: tôi sẽ nói chuyện với anh ta về vấn đề đó
+
++ actions speak louder than words: việc làm nói lên nhiều hơn lời nói
+- phát biểu, diễn thuyết, đọc diễn văn (ở hội nghị)
+- sủa (chó)
+- nổ (súng)
+- kêu (nhạc khí)
+- giống như thật, trông giống như thật
+
++ this portrait speaks: bức ảnh giống như thật
+*  ngdgt
+- nói (một thứ tiếng)
+
++ he can speak English: nó nói được tiếng Anh
+- nói, nói lên
+
++ to speak the truth: nói sự thật
+- nói rõ, chứng tỏ
+
++ this speaks him generous: điều đó chứng tỏ anh ta rộng lượng
+- (hàng hải) gọi, nói chuyện với (tàu thuỷ... bằng rađiô)
+!to speak at
+- ám chỉ (ai)
+!to speak for
+- biện hộ cho (ai)
+- là người phát ngôn (của ai)
+- nói rõ, chứng minh cho
+
++ that speaks much for your courage: điều đó nói rõ lòng can đảm của anh
+!to speak of
+- nói về, đề cập đến; viết đến
+
++ nothing to speak of: chẳng có gì đáng nói
+!to speak out
+- nói to, nói lớn
+- nói thẳng, nói toạc ý kiến của mình
+
++ to speak out one's mind: nghĩ sao nói vậy
+!to speak to
+- nói về (điều gì) (với ai)
+- khẳng định (điều gì)
+
++ I can speak to his having been there: tôi có thể khẳng định là anh ta có đến đó
+!to speak up
+- nói to hơn
+- nói thẳng, nói toạc ý kiến của mình
+!so to speak
+- (xem) so
+!to speak like a book
+- (xem) book
+!to speak someone fair
+- (xem) fair
+!to speak volumes for
+- (xem) volume
+!to speak without book
+- nói không cần sách, nhớ mà nói ra
+
+@spalder  
+*  dt
+- người đập quặng (để chọn)
+
+@spall  
+*  dt
+- mạnh vụn, mảnh (đá)
+*  ngdgt
+- đập nhỏ (quặng) để chọn
+
+@spallation
+* dt
+- sự phá vỡ (hạt nhân nguyên tử)
+ @spallbale
+* tt
+- có thể đập vỡ được
+ @spalling
+* dt
+- sự đập vỡ; phá vỡ; nứt vỡ
+
++  thermal spalling:sự nứt vỡ do nhiệt
+ @spalpeen  
+*  dt
+- (Ai-len) quân vô lại
+
+@spam  
+*  dt
+- (thương nghiệp) đồ hộp Mỹ
+
+@span  
+*  thời quá khứ (từ cổ,nghĩa cổ) của spin
+*  dt
+- gang tay
+- chiều dài (từ đầu này đến đầu kia)
+
++ span of a bridge: chiều dài của một cái cầu
+
++ the whole span of Roman history: toàn bộ lịch sử La mã
+- nhịp cầu
+
++ a bridge of four spans: cầu bốn nhịp
+- khoảng cách ngắn; khoảng thời gian ngắn
+
++ our life is but a span: cuộc đời chúng ta ngắn chẳng tày gang
+- nhà ươm cây ((có) hai mái
+- cặp (bò, ngựa, lừa...)
+- (hàng không) sải cánh (của máy bay)
+- (hàng hải) nút thòng lọng
+*  ngdgt
+- băng qua, bắc qua (một con sông)
+- bắc cầu (qua sông)
+- nối (từ giai đoạn này sang giai đoạn khác) (trí nhớ...)
+
++ his life spans nearly the whole century: ông ấy sống gần một thế kỷ
+- đo sải, đo bằng gang tay
+- (hàng hải) buộc (cột buồm...) bằng dây chão
+*  ndgt
+- di chuyển theo lối sâu đo
+
+@span
+- (hình học) khoảng cách; (giải tích) bề rộng
+ @span roof  
+*  dt
+- nhà hai mái
+
+@spandrel  
+*  dt
+- (kiến trúc) mắt cửa (ô tam giác giữa vòm và khung cửa)
+
+@spangle  
+*  dt
+- vàng dát, bạc dát (để trang sức quần áo), trang kim
+- vú lá sồi (nốt phồng trên lá sồi)
+*  ngdgt
+- điểm (quần áo...) bằng trang kim
+
+@spangles
+* dt
+- số nhiều
+- hoa kẽm, vân hoa trên mặt tôn tráng kẽm
+ @spangling
+* dt
+- sự rắc trang kim
+ @spangly  
+*  tt
+- có trang kim
+
+@spaniard  
+*  dt
+- người Tây ban nha
+
+@spaniel  
+*  dt
+- (động vật học) giống chó xpanhơn (lông mượt, tai cụp)
+- (nghĩa bóng) người nịnh hót, người bợ đỡ; người khúm núm
+
+@spanish  
+*  tt
+- (thuộc) Tây ban nha
+*  dt
+- tiếng Tây ban nha
+- (the spanish) dân Tây ban nha
+
+@spanish chestnut  
+*  dt
+- (thực vật học) cây hạt dẻ
+
+@spanish main
+* dt
+- (the Spanish Main) bờ biển đông bắc của Nam Mỹ và vùng biển Caribê gần bờ đó (tên gọi trước đây)
+ @spank  
+*  dt
+- cái phát vào đít, cái đánh vào đít
+*  ngdgt
+- phát, đánh (vào đít)
+- thúc, giục (bằng cách phát vào đít)
+*  ndgt
+- chạy mau, chạy nước kiệu (ngựa)
+
+@spanker  
+*  dt
+- người phát vào đít, vật phát vào đít
+- ngựa chạy nhanh
+- (thực vật học) người to lớn; người tốt; việc tốt nhất, hàng hoá thượng hảo hạng
+- (hàng hải) buồm áp lái (trước và sau lái tàu)
+
+@spanking  
+*  dt
+- sự phát vào đít, sự đánh vào đít
+*  tt
+- chạy nhanh
+- (thông tục) hay, chiến, cừ, đáng chú ý
+
++ to have a spanking meal: ăn một bữa rất ngon
+- to, thổi mạnh (gió)
+*  dt
+- (thông tục) không chê được, cừ, chiến
+
++ a spanking fine woman: một người đàn bà xinh không chê được
+
+@spanless  
+*  tt
+- (thơ ca) không giới hạn, không bờ bến, vô biên
+
+@spanner  
+*  dt
+- (kỹ thuật) chìa vặn đai ốc
+- thanh ngang, rầm ngang
+!to throw a spanner into the works
+- ngăn trở công việc, thọc gậy bánh xe
+
+@span-new  
+*  tt
+- (tiếng địa phương) mới toanh
+
+@span-roof
+* dt
+- nhà hai mái dốc cân nhau
+ @span-worm  
+*  dt
+- con sâu đo
+
+@spar  
+*  dt
+- trụ, cột (để làm cột buồm)
+- (hàng không) xà dọc (của cánh máy bay)
+*  ngdgt
+- (hàng hải) đóng trụ, đóng cột (vào tàu, để làm cột buồm...)
+*  dt
+- (khoáng chất) Spat
+- cuộc chọi gà
+- cuộc đấu võ
+- sự cãi nhau, sự đấu khẩu
+*  ndgt
+- (thể dục,thể thao) ở vào tư thế sẵn sàng đánh đỡ
+- đánh nhau (gà)
+- cãi nhau, đấu khẩu
+
+@sparable  
+*  dt
+- đinh không đầu (để đóng giày ống)
+
+@spar-buoy  
+*  dt
+- (hàng hải) phao trụ
+
+@spar-deck  
+*  dt
+- (hàng hải) boong tàu, sân tàu (từ mũi đến lái)
+
+@spare  
+*  tt
+- thừa, dư, có để dành
+
++ spare time: thì giờ rỗi
+
++ spare cash: tiền để dành
+
++ spare room: buồn ngủ dành riêng cho khách
+- thanh đạm, sơ sài
+
++ spare diet: chế độ ăn uống thanh đạm
+- gầy go
+
++ man of spare frame: người gầy gò
+- để thay thế (đồ phụ tùng)
+*  dt
+- đồ phụ tùng (máy móc)
+*  ngdgt
+- để dành, tiết kiệm
+
++ to spare expense: tiết kiệm việc chi tiêu
+
++ to spare no efforts: không tiếc sức
+- không cần đến, có thừa
+
++ we cannot spare him just now: hiện giờ chúng tôi rất cần đến anh ta
+
++ I can spare you 10 d: tôi có thể cho anh vay tạm 10 đồng
+- tha, tha thứ, dung thứ; miễn cho
+
++ to spare someone's life: thay mạng cho ai, tha giết ai
+
++ to spare someone's feelings: không chạm đến tình cảm của ai
+
++ I could have spared the explanation: đáng lẽ tôi đã có thể miễn việc giải thích
+
++ spare me these jeremiads: xin miễn cho tôi những lời than van đó
+*  ndgt
+- ăn uống thanh đạm
+- tằn tiện
+!spare the rod and spoil the child
+- (xem) rod
+!to have enought and to spare
+- có của ăn của để; dư dật
+
+@spare part
+* dt
+- phụ tùng thay thế (cho máy móc, xe  khi bị hỏng, mất )
+ @spare tyre
+* dt
+- bánh xe dự phòng (của một chiếc ô tô )
+- <thgt><đùa> nếp mỡ bụng; bụng phệ
+ @sparely
+* dt
+- thanh đạm
+- gầy gò
+ @spareness
+* dt
+- (sự) tiết kiệm; để dành
+- (sự) thanh đạm; mộc mạc
+- (sự) để thay thế
+- (sự) gầy gò
+ @spare-part
+* dt
+- phần để thế bộ phận máy hỏng
+ @sparerib  
+*  dt
+- sườn lợn đã lọc gần hết thịt
+
+@spare-rib
+* dt
+- sườn lợn lọc gần hết thịt
+ @spare-tyre
+* dt
+- bụng phệ
+ @sparge
+* ndgt
+- vảy nước, rảy nước
+ @sparger  
+*  dt
+- máy rắc (ủ bia)
+
+@sparget
+* dt
+- ống vảy nước
+- máy rắc (ủ bia)
+ @sparing  
+*  tt
+- thanh đạm, sơ sài
+- biết tằn tiện; dè xẻn, tiết kiệm
+
++ sparing of words: ít nói
+
+@sparingly
+* dt
+- thanh đạm, sơ sài
+- tiết kiệm, tằn tiện, dè xẻn, không hoang phí
+ @sparingness  
+*  dt
+- tính chất thanh đạm, tính chất sơ sài
+- tính chất dè xẻn
+
+@spark  
+*  dt
+- tia lửa, tia sáng; tàn lửa
+- tia loé, ánh loé, chấm sáng loé (ở đá quý)
+- lời đối đáp nhanh trí; nét sắc sảo (của trí thông minh)
+- ((thường) phủ định) một tia, một tị
+
++ if you had a spark of generosity in you: nếu như anh còn tí chút lượng cả nào
+- (Sparks) nhân viên rađiô
+!fairy sparks
+- ánh lân quang (phát ra từ thực vật mục nát); ma trơi
+!to strike sparks out of somebody
+- gợi được sự sắc sảo dí dởm của ai (nhất là trong khi nói chuyện)
+*  ngdgt
+- làm cho ai bật tia lửa
+- to spark off khuấy động, làm cho hoạt động
+*  ndgt
+- phát tia lửa, phát tia điện
+*  dt
+- người vui tính
+- người trai lơ
+*  ndgt
+- trai lơ
+*  ngdgt
+- tán tỉnh, tán (gái)
+
+@spark-arrester  
+*  dt
+- cái chắn tàn lửa
+- (kỹ thuật) cái triệt tia lửa
+
+@spark-coil  
+*  dt
+- (điện học) cuộn cảm ứng
+
+@spark-gap  
+*  dt
+- (kỹ thuật) khoảng đánh lửa
+
+@sparking
+* dt
+- sự loé lửa; phát ra tia lửa
+ @sparking-plug   (spark-plug) @sparkish  
+*  tt
+- trai lơ, hay tán gái
+
+@sparkle  
+*  dt
+- sự lấp lánh, sự lóng lánh; ánh lấp lánh
+- sự sắc sảo, sự linh lợi
+*  ndgt
+- lấp lánh, lóng lánh
+
++ eyes sparkle with joy: mắt sáng lên vì vui mừng
+- tỏ ra sắc sảo, tỏ ra linh lợi (trí tuệ...)
+*  ngdgt
+- làm lấp lánh, làm lóng lánh
+
+@sparkler  
+*  dt
+- kim cương lấp lánh
+- (số nhiều) (thông tục) mắt long lanh sáng ngời
+
+@sparkless  
+*  tt
+- không có tia lửa; không có tàu lửa
+
+@sparklet  
+*  dt
+- tia lửa nhỏ, tia sáng nhỏ
+- bình khí cacbonic ép, bình chế nước hơi
+
+@sparkling  
+*  tt
+- lấp lánh, lóng lánh
+- sủi tăm
+
++ sparkling wine: rượu sủi tăm
+
+@sparkling water  
+*  dt
+- nước xô-đa
+
+@spark-over
+* dt
+- tâm chắn tia lửa
+ @spark-plug   (spark-plug) @sparks
+* dt
+- người thợ điện, người coi tổng đài (nhất là trên một con tàu)
+ @sparkwear
+* dt
+- sự cháy mòn
+ @sparky
+* tt
+- sôi nổi; sinh động
+ @sparling  
+*  dt
+- (động vật học) cá ôtme
+
+@sparoid  
+*  dt
+- (động vật học) cá tráp
+*  tt
+- (động vật học) (thuộc) họ cá tráp
+
+@sparring partner  
+*  dt
+- người tập luyện với võ sĩ quyền Anh nhà nghề
+
+@sparrow  
+*  dt
+- (động vật học) chim sẻ
+
+@sparrow-bill  
+*  dt
+- đinh không đầu (để đóng đề giày ống)
+
+@sparrow-grass  
+*  dt
+- (thông tục) măng tây
+
+@sparrow-hawk  
+*  dt
+- (động vật học) chim bồ cắt
+
+@sparry  
+*  tt
+- (khoáng chất) (thuộc) spat; như spat
+- có nhiều spat
+
+@sparse  
+*  tt
+- thưa thớt, rải rác, lơ thơ
+
++ sparse hair: tóc lơ thơ
+
+@sparsely
+* dt
+- thưa thớt, rải rác, lơ thơ; rải mỏng ra
+ @sparseness  
+*  dt
+- tính chất thưa thớt; sự ở rải rác (dân cư)
+
+@sparsity
+* dt
+- sự thưa thớt, sự rải rác, sự lơ thơ; sự rải mỏng ra
+ @spartacan
+* tt
+- thuộc Xpactacút (người cầm đầu cuộc khởi nghĩa nô lệ ở cổ La-Mã)
+* dt
+- người thuộc đảng Xpactacút
+ @spartacism
+* dt
+- sách lược Xpactacút
+ @spartan  
+*  tt
+- (thuộc) Xpác-tơ
+- như người Xpác-tơ (can đảm, anh dũng, bền bỉ, khắc khổ, có ý thức kỷ luật cao, chiến đấu giỏi)
+*  dt
+- người Xpác-tơ
+- người có những đức tính như người Xpác-tơ
+
+@spartein  
+*  dt
+- (hoá học) Spactein
+
+@spasm  
+*  dt
+- (y học) sự co thắt
+- cơn (ho, giận)
+
++ a spasm of cough: cơn ho rũ
+
+@spasmodic   (spasmodical) @spasmodical   (spasmodical) @spasmodically
+* tt
+- <y> co thắt
+- lúc có lúc không; lác đác; thảng hoặc; không đều đặn, không liên tục
+- (thuộc) co thắt; do co thắt; gây ra bởi các cơn co thắt, bị tác động bởi các cơn co thắt
+- đột biến
+ @spasmology  
+*  dt
+- (y học) khoa nghiên cứu co thắt
+
+@spasmolytic
+* tt
+- chống co thắt; trị co thắt
+* dt
+- thuốc trị co thắt
+ @spastic  
+*  tt
+- (y học) co cứng
+*  dt
+- (y học) người mắc chứng liệt co cứng
+
+@spat  
+*  thời quá khứ & động tt quá khứ của spit
+*  dt
+- trứng (sò, trai...)
+*  ndgt
+- đẻ, sinh sản (sò, trai...)
+*  dt ((thường) số nhiều)
+- ghệt mắt cá (phủ mặt trên của giày và phần mắt cá chân) ((cũng) spatterdashes)
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cái phát, cái đập, cái bạt (tai...), cái vỗ
+- cuộc cãi (nhau) vặt
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) phát, đập, bạt, vỗ
+
+@spatchcock  
+*  dt
+- gà giết và nấu vội
+*  ngdgt
+- (thông tục) vội vã thêm (chữ, câu) vào một bản tin, một bức điện
+
+@spate  
+*  dt
+- nước lên; mùa nước
+
++ river is in spate: sông đang mùa nước
+- mưa lũ
+- khối lượng lớn, nhiều
+
++ to have a spate of work: công việc ngập đến tận mắt
+
++ to utter a spate of words: nói một tràng dài
+
+@spathaceous
+* tt
+- có mo
+ @spathe  
+*  dt
+- (thực vật học) mo (bao cụm hoa cau, dừa...)
+
+@spathed
+* tt
+- có mo
+ @spathic  
+*  tt
+- (khoáng chất) (thuộc) spat; như spat
+
+@spathiform  
+*  tt
+- hình spat
+
+@spathose
+* tt
+- xem spathiform
+ @spathulate
+* tt
+- (thực vật) dạng bay; dạng thìa
+ @spatial  
+*  tt
+- (thuộc) không gian
+
++ spatial extent: khoảng không
+
+@Spatial economics
+- (Econ) Kinh tế học không gian.
+: Xem REGIONAL ECONOMICS.
+ @Spatial monopoly
+- (Econ) Độc quyền nhờ không gian; Độc quyền vùng.
+: Một yếu tố của quyền lực độc quyền mà một người bán lẻ hay một nhà sản xuất bán được do nằm cách xa những đối thủ cạnh tranh với mình.
+ @Spatial price discrimination
+- (Econ) Sự phân biệt giá cả theo khu vực.
+: Một chiến lược định giá mà trong chiến lược đó các công ty bán hàng cho những người tiêu dùng nằm cách xa người sản xuất không đặt cho mỗi người tiêu dùng một mức giá đủ trang trải giá trị tương đương tổng mức giá tại cổng nhà máy (giá FOB) và những chi phí vận chuyển thực khi vận chuyển hàng hoá.
+ @spatially
+* dt
+- (thuộc) không gian; nói về không gian, có trong không gian
+ @spatio-temporal  
+*  tt
+- (thuộc) không gian thời gian
+
+@spatio-temporally
+* dt
+- thuộc không gian; thời gian
+ @spattee  
+*  dt
+- ghệt, xà cạp
+
+@spatter  
+*  dt
+- sự bắn tung, sự vung vãi
+- bùn bắn tung, vết bùn bắn phải, vết cứt bắn phải
+- tiếng lộp bộp
+*  ngdgt
+- làm bắn (bùn, chất lỏng)
+- vảy (bùn) (vào người nào)
+- bôi nhọ (ai)
+*  ndgt
+- bắn toé, bắn tung toé
+
+@spatterdashes  
+*  dt số nhiều
+- ghệt mắt cá (phủ mặt trên của già và mắt cá chân) ((cũng) spat)
+
+@spatter-dock  
+*  dt
+- (thực vật học) cây súng vàng
+
+@spatula  
+*  dt
+- dao trộn thuốc vẽ
+- (y học) cái đè lưỡi
+
+@spatular   (spatulate) @spatulate   (spatulate) @spatule  
+*  dt
+- (động vật học) bộ phận hình thìa (bộ lông đuôi chim...)
+
+@spatuliform   (spatulate) @spavin  
+*  dt
+- bệnh đau khớp (của ngựa)
+
+@spavined  
+*  tt
+- mắc bệnh đau khớp (ngựa)
+
+@spa-water  
+*  dt
+- nước suối khoáng
+
+@spawn  
+*  dt
+- trứng (cá, ếch, sò, tôm...)
+- (thực vật học) hệ sợi (nấm)
+- ((thường) guội con cái, con cháu, giống
+
++ spawn of the devil: quân vô lại
+*  dgt
+- đẻ trứng (cá, ếch, sò, tôm...)
+- ((thường) guội sinh đẻ (người)
+
+@spawner
+* dt
+- cá đẻ trứng
+ @spawning
+* dt
+- sự đẻ trứng (tôm, cá); thời gian đẻ trứng
+ @spawning-season  
+*  dt
+- mùa đẻ trứng (cá, ếch...)
+
+@spay  
+*  ngdgt
+- cắt buồng trứng, hoạn (động vật cái)
+
+@speak  
+*  ndgt spoke,  (từ cổ,nghĩa cổ) spake; spoken
+- nói
+
++ to learn to speak: tập nói
+- nói với, nói chuyện, nói lên
+
++ I will speak to him about it: tôi sẽ nói chuyện với anh ta về vấn đề đó
+
++ actions speak louder than words: việc làm nói lên nhiều hơn lời nói
+- phát biểu, diễn thuyết, đọc diễn văn (ở hội nghị)
+- sủa (chó)
+- nổ (súng)
+- kêu (nhạc khí)
+- giống như thật, trông giống như thật
+
++ this portrait speaks: bức ảnh giống như thật
+*  ngdgt
+- nói (một thứ tiếng)
+
++ he can speak English: nó nói được tiếng Anh
+- nói, nói lên
+
++ to speak the truth: nói sự thật
+- nói rõ, chứng tỏ
+
++ this speaks him generous: điều đó chứng tỏ anh ta rộng lượng
+- (hàng hải) gọi, nói chuyện với (tàu thuỷ... bằng rađiô)
+!to speak at
+- ám chỉ (ai)
+!to speak for
+- biện hộ cho (ai)
+- là người phát ngôn (của ai)
+- nói rõ, chứng minh cho
+
++ that speaks much for your courage: điều đó nói rõ lòng can đảm của anh
+!to speak of
+- nói về, đề cập đến; viết đến
+
++ nothing to speak of: chẳng có gì đáng nói
+!to speak out
+- nói to, nói lớn
+- nói thẳng, nói toạc ý kiến của mình
+
++ to speak out one's mind: nghĩ sao nói vậy
+!to speak to
+- nói về (điều gì) (với ai)
+- khẳng định (điều gì)
+
++ I can speak to his having been there: tôi có thể khẳng định là anh ta có đến đó
+!to speak up
+- nói to hơn
+- nói thẳng, nói toạc ý kiến của mình
+!so to speak
+- (xem) so
+!to speak like a book
+- (xem) book
+!to speak someone fair
+- (xem) fair
+!to speak volumes for
+- (xem) volume
+!to speak without book
+- nói không cần sách, nhớ mà nói ra
+
+@speakable
+* tt
+- có thể nói đến
+ @speak-easy  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) hàng bán rượu lậu
+
+@speaker  
+*  dt
+- người nói, người diễn thuyết
+- người thuyết minh (phim)
+- (như) loud_speaker
+- Speaker chủ tịch hạ nghị viện (Anh,  Mỹ)
+
+@speakership  
+*  dt
+- chức chủ tịch hạ nghị viện (Anh,  Mỹ)
+
+@speaking  
+*  dt
+- sự nói; lời nói
+- sự phát biểu
+
++ public speaking: sự phát biểu ý kiến trước công chúng; nghệ thuật diễn thuyết; tài ăn nói
+*  tt
+- nói, nói lên, biểu lộ, biểu thị
+
++ a speaking appearance of grief: vẻ đau buồn biểu lộ ra
+
++ a speaking likeness: sự giống như thật
+- dùng để nói, nói được
+
++ within speaking range: trong tầm có thể nói với nhau được
+
++ a speaking acquaintance: người quen khá thân (có thể nói chuyện được)
+!not on speaking terms with someone
+- bất hoà đến mức không nói chuyện với ai
+
+@speaking clock
+* dt
+- <thgt> dịch vụ điện thoại báo giờ
+ @speaking-trumpet  
+*  dt
+- cái loa (để nói xa)
+
+@speaking-tube  
+*  dt
+- ống nói
+
+@spear  
+*  dt
+- cái giáo, cái mác, cái thương
+- cái xiên (đâm cá)
+- (thơ ca) (như) spearman
+*  ngdgt
+- đâm (bằng giáo)
+- xiên (cá)
+*  ndgt
+- đâm phập vào (như một ngọn giáo)
+- mọc thẳng vút lên
+
+@spear side  
+*  dt
+- bên (họ) nội
+
+@spearfish  
+*  dt
+- (động vật học) cá cờ Nhật bản
+
+@speargun
+* dt
+- dụng cụ để phóng xiên đâm cá (dưới nước)
+ @spearhead  
+*  dt
+- mũi giáo, mũi mác
+- tổ mũi nhọn, tổ xung kích; mũi nhọn
+*  ngdgt
+- chĩa mũi nhọn (cuộc tấn công...)
+
+@spearman  
+*  dt
+- người dùng giáo, binh sĩ dùng giáo
+
+@Spearman's rank correlation
+- (Econ) Tương quan về thứ bậc Spearman
+: Xem RANK CORRELATION.
+ @spearmint  
+*  dt
+- (thực vật học) cây bạc hà lục (cho dầu thơm lan hương)
+
+@speary
+* tt
+- hình cây giáo
+ @spec  
+*  dt
+- (thông tục) sự đầu cơ, sự kinh doanh đầu cơ
+
+@special  
+*  tt
+- đặc biệt, riêng biệt
+
++ word used in a special sense: từ dùng theo nghĩa đặc biệt
+
++ special price: giá đặc biệt
+
++ to appoint special agents: cử đặc phái viên
+
++ to receive special instructions: nhận những chỉ thị đặc biệt
+
++ special edition: đợt phát hành đặc biệt
+*  dt
+- cảnh sát đặc biệt
+- chuyến xe lửa đặc biệt
+- cuộc thi đặc biệt
+- số báo phát hành đặc biệt
+
+@special
+- đặc biệt
+ @Special Areas
+- (Econ) Các khu vực đặc biệt.
+: Là hình thái đầu tiên của KHU VỰC ĐƯỢC TRỢ GIÚP, được thành lập ở Anh. Việc tạo ra các khu vực đặc biệt ở Scotland, Wales, và Bắc Ireland là kết quả của tình trạng thất nghiệp ở địa phương này tăng cao và nó cũng thể hiện một bước tiến đáng kể trong CHÍNH SÁCH KHU VỰC của Anh quốc.
+ @special branch
+* dt
+- (Special Branch) Cơ quan đặc vụ
+ @special constable
+* dt
+- người được đào tạo để giúp đỡ cảnh sát nhất thời, đặc biệt trong tình trạng khẩn cấp
+ @special delivery
+* dt
+- dịch vụ chuyển bưu phẩm đặc biệt
+ @Special deposits
+- (Econ) Các khoản ký quỹ đặc biệt.
+: Là một biện pháp kiểm soát tín dụng do NGÂN HÀNG ANH đưa ra vào năm 1958 và sau đó được áp dụng tại các ngân hàng thanh toán bù trừ ở London và Scotland, sau đó vào năm 1971được nhân rộng ra cho tất cả các ngân hàng hoạt động tại Anh và một số các TỔ CHỨC TÀI CHÍNH lớn.
+ @Special Development Areas
+- (Econ) Các Khu vực Phát triển Đặc biệt.
+: Là các vùng ở Anh mà các hãng tại đó cho đến năm 1984 vẫn có đủ tư cách được hưởng sự trợ giúp tối đa của chính phủ như là một phần của CHÍNH SÁCH KHU VỰC.
+ @Special drawing rights (SDRs)
+- (Econ) Quyền rút vốn đặc biệt.
+: Xem INTERNATIONAL MONETARY FUND.
+ @special licence
+* dt
+- giấy cho phép một đám cưới được tổ chức vào một thời gian hay địa điểm mà bình thường không được phép
+ @special pleading
+* dt
+- <pháp> sự biện hộ ngụy biện
+ @special school
+* dt
+- trường học dành cho trẻ tàn tật
+ @special student
+* dt
+- <Mỹ> sinh viên ở một trường đại học Mỹ không theo một lớp có học vị
+ @specialisation
+* dt
+- sự chuyên môn hoá
+- <sinh> sự chuyên hoá
+ @specialise   (specialise) @specialised
+* tt
+- chuyên dụng; thích ứng, thiết kế cho một mục đích riêng
+- chuyên; (thuộc) chuyên gia, liên quan đến chuyên gia
+ @specialism  
+*  dt
+- sự chuyên khoa, sự đi sâu vào ngành chuyên môn
+- ngành chuyên môn
+
+@specialist  
+*  dt
+- chuyên gia, chuyên viên, nhà chuyên khoa
+
++ eye specialist: bác sĩ chuyên khoa mắt
+
+@specialistic  
+*  tt
+- (thuộc) chuyên môn, (thuộc) ngành chuyên môn
+
+@speciality  
+*  dt
+- đặc tính, đặc trưng, nét đặc biệt
+- ngành chuyên môn
+
+@speciality
+- chuyên môn, chuyên viên
+ @speciality
+- chuyên môn, đặc tính
+ @specialization  
+*  dt
+- sự chuyên môn hoá, sự chuyên khoa
+- (sinh vật học) sự chuyên hoá
+
+@Specialization
+- (Econ) Chuyên môn hoá.
+: Tập trung hoạt động vào các dây chuyền sản xuất trong đó mỗi cá nhân hoặc hãng có được hay đạt được vài thế mạnh riêng.
+ @specialization
+- sự chuyên môn hoá
+ @Specialization, coefficient of
+- (Econ) Hệ số chuyên môn hoá.
+: Một chỉ số thống kêđược tính toán để chỉ ra mức độ chuyên môn hoá trên một số lĩnh vực kinh tế nhất định theo từng vùng. Chuyên môn hóa được hiểu như là nền kinh tế của khu vực được xem xét bao gồm tổng hợp các nghành, khác với trong một quốc gia, sự tổng hợp này chỉ là một bộ phận.
+ @specialize   (specialise) @specialize
+- chuyên môn hoá
+ @specialized
+* tt
+- chuyên dụng; thích ứng, thiết kế cho một mục đích riêng
+- chuyên; (thuộc) chuyên gia, liên quan đến chuyên gia
+ @specially  
+*  dt
+- đặc biệt, riêng biệt
+
+@specially
+- một cách chuyên môn 
+ @specialty  
+*  dt
+- (pháp lý) hợp đồng (đặc biệt) có đóng dấu
+- ngành chuyên môn, ngành chuyên khoa
+- (từ Mỹ,nghĩa Mỹ) nét đặc biệt
+- (từ Mỹ,nghĩa Mỹ) món đặc biệt (của một hàng ăn...); sản phẩm đặc biệt (của một hãng sản xuất)
+
+@speciation  
+*  dt
+- (động vật học) sự hình thành loài (trong quá trình tiến hoá)
+
+@speciational
+* tt
+- thuộc sự hình thành loài
+ @specie  
+*  dt
+- tiền đồng (đối lại với tiền giấy)
+
++ in specie: bằng tiền đồng
+
+@Specie
+- (Econ) Tiền xu.
+: Kim loại quý dưới dạng tiền đúc.
+ @specie
+- (toán kinh tế) tiền (kim loại)
+ @Specie flow mechanism
+- (Econ) Cơ chế chảy vàng.
+: Theo quan điểm truyền thống về hoạt động của chế độ BẢN VỊ VÀNG, một cơ chế hiệu chỉnh trong đó thặng dư hay thâm hụt CÁN CÂN THANH TOÁN có xu hướng bị xoá bỏ bởi các dòng luân chuyển vàng.
+ @Specie points
+- (Econ) ĐIểm chảy vàng.
+: Là các mức TỶ GIÁ HỐI ĐOÁI của một đồng tiền theo chế độ BẢN VỊ VÀNG mà tại đó việc đưa vàng vào và ra khỏi quốc gia đều sinh lợi.
+ @species  
+*  dt
+- (sinh vật học) loài
+
++ our (the) species: loài người
+- loại, hạng, thứ
+
++ a species of dogcart: một loại xe chó
+
++ to have a species of cunning: có tính láu cá
+- dạng, hình thái
+
+@species
+- loài; loại; phạm trù
+- s. of a set of point phạm trù một tập hợp điểm 
+ @specifiable  
+*  tt
+- có thể chỉ rõ được, có thể ghi rõ, có thể định rõ
+
+@specific  
+*  tt
+- dứt khoát, rành mạch, rõ ràng
+
++ a specific statement: lời tuyên bố dứt khoát
+
++ for no specific reason: không có lý do gì rõ ràng
+- (thuộc) loài
+
++ the specific name of a plant: (sinh vật học) tên loài của một cây
+- đặc trưng, riêng biệt
+
++ a style specific to that school of painters: một phong cách đặc trưng cho trường phái hoạ sĩ ấy
+- theo trọng lượng, theo số lượng (thuế hải quan)
+- (vật lý) riêng
+
++ specific weight (gravity): trọng lượng riêng, tỷ trọng
+*  dt
+- (y học) thuốc đặc trị
+
+@specific
+- đặc điểm, đặc trưng, đặc thù
+ @specific gravity
+* dt
+- trọng lượng riêng, tỷ trọng
+ @specifically  
+*  dt
+- chính xác, rõ rệt
+- đặc trưng, riêng biệt
+
+@specification  
+*  dt
+- sự chỉ rõ, sự ghi rõ, sự định rõ
+- (kỹ thuật) (số nhiều) đặc điểm kỹ thuật, chi tiết kỹ thuật
+- (pháp lý) bản ghi chi tiết kỹ thuật một phát minh mới (máy...)
+
+@specification
+- chi tiết, chi tiết hoá
+ @Specification error
+- (Econ) Sai sót kỹ thuật.
+: Một bài toán kinh tế lượng trong đó xác định sai hình thức liên kết cần ước lượng, hoặc do xác định sai dạng của hàm số (ví dụ như TUYẾN TÍNH thay vì PHI TUYẾN) hoặc do bỏ sót các biến số liên quan hay do thêm vào các biến số không liên quan.
+ @specificity   (specificness) @specificness   (specificness) @specified
+* tt
+- theo danh nghĩa; lý thuyết
+ @specifity
+- tính chất chuyên môn; tính đặc hiệu
+ @Specifix tax
+- (Econ) Thuế đặc thù.
+: Nói chung, là thứ thuế được áp dụng trên mỗi đơn vị sản phẩm chứ không phải trên giá trị của sản phẩm.
+ @Specifix training
+- (Econ) Đào tạo đặc thù.
+: Đào tạo kỹ năng nhằm nâng cao năng suất lao động của công nhân làm việc tại hãng nơi cung cấp đào tạo.
+ @specify  
+*  ngdgt
+- chỉ rõ, ghi rõ, định rõ, ghi chú vào phần chi tiết kỹ thuật
+
++ it is specified in the agreement: điều ấy đã được ghi rõ trong hiệp định
+
+@specify
+- chuyên môn hoá; chi tiết hoá; định rõ, ghi rõ
+ @specilative
+- (thuộc) suy lý luận
+ @specimen  
+*  dt
+- mẫu, vật mẫu
+
++ specimens of copper over: những mẫu quặng đồng
+
++ specimen page: trang mẫu
+- mẫu để xét nghiệm
+- (thông tục), cuồm thứ người (có một cái gì đặc biệt)
+
++ what a specimen!: thật là một thằng kỳ quái!
+
++ an unsavoury specimen: một thằng cha ghê tởm
+
+@specimen
+- mẫu, bản mẫu, ví dụ
+ @speciogenesis
+* dt
+- sự hình thành loài
+ @speciological  
+*  tt
+- (thuộc) khoa học về loài
+
+@speciology  
+*  dt
+- khoa học về loài, chủng loại học
+
+@speciosity   (speciousness) @specious  
+*  tt
+- chỉ có mã ngoài, chỉ có bề ngoài; chỉ tốt mã; chỉ có lý ở bê ngoài
+
++ specious appearance: mã ngoài bảnh bao
+
+@speciously
+* dt
+- chỉ có bề ngoài; chỉ tốt mã; chỉ có lý ở bề ngoài; có vẻ hợp lý
+ @speciousness   (speciousness) @speck  
+*  dt
+- (từ Mỹ,nghĩa Mỹ), (Nam phi) thịt mỡ
+- mỡ (chó biển, cá voi)
+- dấu, vết, đốm
+- hạt (bụi...)
+- chỗ (quả) bị thối
+*  ngdgt
+- làm lốm đốm
+
+@specked
+* tt
+- có đốm bẩn
+ @speckle  
+*  dt
+- vết lốm đốm
+*  ngdgt
+- làm lốm đốm
+
+@speckled
+* tt
+- có những đốm nhỏ
+ @speckless  
+*  tt
+- không có lốm đốm, sạch bong
+@specs  
+*  dt số nhiều
+- (thông tục) kính (đeo mắt)
+
+@spectacle  
+*  dt
+- cảnh tượng, quang cảnh
+
++ a charming spectacle: một cảnh đẹp
+
++ to make a spectacle of oneself: dở trò dơ dáng dại hình, làm trò cười cho thiên hạ; tự mình bêu riếu mình
+- sự trình diễn, sự biểu diễn
+- (số nhiều) kính (đeo mắt) ((cũng) pair of spectacles)
+
++ to put on one's spectacles: đeo kính
+!to see everything through rose-coloured spectacles
+- (xem) rose-coloured
+
+@spectacled  
+*  tt
+- có đeo kính
+- có vòng quanh mắt như đeo kính (động vật)
+
++ spectacled bear: gấu bốn mắt (ở Nam mỹ)
+
+@spectacles
+* dt, pl
+- kính đeo mắt
+ @spectacular  
+*  tt
+- đẹp mắt, ngoạn mục
+- làm cho công chúng để ý; thu hút sự chú ý của mọi người
+*  dt
+- (từ Mỹ,nghĩa Mỹ) chương trình truyền hình dài chọn lọc (thường có màu)
+
+@spectacularly
+* dt
+- đẹp mắt; tráng lệ; ngoạn mục; hùng tráng
+- thu hút sự chú ý
+ @spectate
+* ndgt
+- có mặt với tư cách người xem (trận đấu bóng...)
+ @spectator  
+*  dt
+- người xem, khán giả
+
+@spectator sports
+* dt
+- những môn thể thao thu hút nhiều khán giả (bóng đá )
+ @spectatress  
+*  dt
+- người xem (nữ)
+
+@specter   (specter) @spectra  
+*  dt,  số nhiều spectra
+- hình ảnh
+- (vật lý) phổ, quang phổ
+
++ solar spectrum: quang phổ mặt trời
+
++ prismatic spectrum: quang phổ lăng kính
+
+@spectral  
+*  tt
+- (thuộc) bóng ma; như bóng ma
+- (vật lý) (thuộc) quang phổ
+
+@spectral
+- (thuộc) phổ
+ @Spectral analysis
+- (Econ) PHân tích quang phổ.
+: Một kỹ thuật trong đó các đặc tính tuần hoàn của một biến số có thể được thiết lập từ số liệu chuỗi thời gian.
+ @spectrality
+* dt
+- tính quang phổ
+ @spectrally
+* dt
+- xem spectral
+ @spectralnes
+- xem spectrality
+ @spectre   (specter) @spectro
+- hình thái ghép có nghĩa quang phổ
+
++  spectrogram:ảnh quang phổ
+ @spectrogram  
+*  dt
+- (vật lý) ảnh phổ
+
+@spectrograph  
+*  dt
+- (vật lý) máy ghi phổ, máy quang phổ
+
+@spectrographic
+* tt
+- thuộc máy chụp ảnh quang phổ; máy phổ ký
+ @spectrography
+* dt
+- phép chụp ảnh quang phổ
+ @spectroheliogram
+* dt
+- ảnh chụp phổ mặt trời
+ @spectroheliograph  
+*  dt
+- (vật lý) máy ghi phổ mặt trời
+
+@spectroheliography
+* dt
+- phép chụp phổ mặt trời
+ @spectrohelioscope  
+*  dt
+- (vật lý) kính (quang) phổ mặt trời
+
+@spectrology
+* dt
+- khoa phân tích quang phổ
+ @spectrometer  
+*  dt
+- (vật lý) cái đo phổ
+
+@spectrometric
+* tt
+- thuộc phổ kế
+ @spectrometry  
+*  dt
+- (vật lý) phép đo phổ
+
+@spectrophotography  
+*  dt
+- (vật lý) phép ghi âm phổ
+
+@spectrophotometer  
+*  dt
+- (vật lý) cái đo ảnh phổ
+
+@spectroscope  
+*  dt
+- (vật lý) kính quang phổ
+
+@spectroscopic
+* tt
+- (thuộc) kính quang phổ; bằng phương tiện kính quang phổ
+ @spectroscopy  
+*  dt
+- (vật lý) phổ học, quang phổ học
+
+@spectrum  
+*  dt,  số nhiều spectra
+- hình ảnh
+- (vật lý) phổ, quang phổ
+
++ solar spectrum: quang phổ mặt trời
+
++ prismatic spectrum: quang phổ lăng kính
+
+@spectrum
+- phổ, hàm phổ, mật độ phổ; đồ thị của hàm phổ
+- s. of a function phổ của một hàm 
+- s. of a transformation phổ của một phép biến đổi
+- absorption s. phổ hút thu
+- continuous s. (giải tích) phổ liên tục
+- direct s. (đại số) phổ thẳng
+- energy s. phổ năng lượng
+- hereditary s. (giải tích) phỉi di truyền 
+- integrated s. (điều khiển học) hàm phổ, đồ thị hàm phổ
+- inverse s. phổ ngược
+- line s. (vật lí) phổ vạch
+- mixed s. phổ hỗn tạp
+- power s. phổ năng lượng
+- point s. phổ điểm, phổ rời rạc
+- residual s. phổ dư
+- simple s. phổ đơn 
+ @specula  
+*  dt,  số nhiều specula
+- (y học) cái banh
+- kính viễn vọng phản xạ; gương phản xạ
+- (động vật học) mắt cánh (chỗ có màu óng lên trên cánh chim)
+
+@specular  
+*  dt
+- phản chiếu; long lanh như gương
+
++ specular surface: mặt long lanh
+- (y học) tiến hành bằng banh
+
+@specular
+- phản chiếu
+ @speculate  
+*  ndgt
+- tự biên
+
++ to speculate on (upon, about) a subject: nghiên cứu một vấn đề
+- suy đoán, đưa ra ý kiến này ý kiến nọ về, ức đoán
+- đầu cơ, tích trữ
+
++ to speculate in something: đầu cơ cái gì
+
+@speculate
+- (toán kinh tế) đầu cơ
+ @speculation  
+*  dt
+- sự suy xét, sự nghiên cứu
+- sự suy đoán, sự ức đoán
+- sự đầu cơ tích trữ
+
++ to buy something as a speculation: mua tích trữ vật gì
+- (đánh bài) trò chơi mua bán
+
+@Speculation
+- (Econ) Đầu cơ.
+: Việc mua hoặc bán nhằm mục đích sau đó bán hoặc mua và kiếm lời khi giá cả hoặc tỷ giá hối đoái thay đổi.
+ @speculation
+- (toán kinh tế) sự đầu cơ
+ @speculative  
+*  tt
+- (thuộc) nghiên cứu; (thuộc) lý thuyết
+- có tính chất suy đoán, có tính chất ức đoán
+- đầu cơ tích trữ
+
+@Speculative balances
+- (Econ) Tiền đầu cơ.
+: Xem MONEY, THE DEMAND FOR.
+ @Speculative boom
+- (Econ) Sự bùng nổ do đầu cơ.
+: Đầu tư vào các dự án có độ rủi ro cao nhưng với tỷ suất lợi nhuận hay lãi vốn được cho là cao trong thời kỳ kinh tế tăng trưởng mạnh hoặc bùng nổ.
+ @Speculative bubbles
+- (Econ) Các bong bóng do đầu cơ.
+ @Speculative demand for money
+- (Econ) Cầu về tiền do đầu cơ.
+: Xem MONEY, THE DEMAND FOR.
+ @Speculative motive for holding money
+- (Econ) Động cơ đầu cơ tiền.
+: Xem MONEY, THE DEMAND FOR.
+ @Speculative unemployment
+- (Econ) Thất nghiệp do đầu cơ.
+: Một thành phần của thất nghiệp dai dẳng.
+ @speculativeness  
+*  dt
+- tính chất suy xét
+- tính chất suy đoán, tính chất ức đoán
+- tính chất đầu cơ tích trữ
+
+@speculator  
+*  dt
+- người hay suy đoán
+- người đầu cơ tích trữ
+
+@speculatory
+* tt
+- xem speculative
+ @speculum  
+*  dt,  số nhiều specula
+- (y học) cái banh
+- kính viễn vọng phản xạ; gương phản xạ
+- (động vật học) mắt cánh (chỗ có màu óng lên trên cánh chim)
+
+@sped  
+*  dt
+- sự mau lẹ; tốc độ, tốc lực
+
++ at full speed: hết tốc lực
+- (từ cổ,nghĩa cổ) sự thành công, sự hưng thịnh, sự thịnh vượng
+!more haste, less speed
+- chậm mà chắc
+*  ngdgt sped
+- làm cho đi mau, tăng tốc độ; xúc tiến, đẩy mạnh
+
++ to speed the collapse of imperialism: đẩy mạnh quá trình sụp đổ của chủ nghĩa đế quốc
+- điều chỉnh tốc độ; làm cho đi theo một tốc độ nhất định
+
++ to speed an engine: điều chỉnh tốc độ một cái máy
+- (từ cổ,nghĩa cổ) bắn mạnh
+
++ to speed an arrow from the bow: bắn mạnh mũi tên khỏi cung
+- (từ cổ,nghĩa cổ) giúp (ai) thành công
+
++ God speed you!: cầu trời giúp anh thành công
+*  ndgt
+- đi nhanh, chạy nhanh
+
++ the car speeds along the street: chiếc xe ô tô lao nhanh trong phố
+- đi quá tốc độ quy định
+- (từ cổ,nghĩa cổ) thành công, phát đạt
+
++ how have you sped?: anh làm thế nào?
+!to speed up
+- tăng tốc độ
+!to speed the parting guest
+- (từ cổ,nghĩa cổ) chúc cho khách ra đi bình yên vô sự
+
+@speech  
+*  dt
+- khả năng nói, năng lực nói
+
++ to lose the power (faculty) of speech: không nói được nữa
+- lời nói, lời
+- cách nói
+
++ to be show of speech: chậm mồm chậm miệng
+- bài nói, bài diễn văn
+
++ to deliver a speech: đọc một bài diễn văn
+- ngôn ngữ (của một dân tộc)
+- (từ cổ,nghĩa cổ) tin đồn, lời đồn
+
+@speech clinic  
+*  dt
+- bệnh viện chữa những tật về nói; trường chữa những tật về nói
+
+@speech community  
+*  dt
+- cộng đồng ngôn ngữ
+
+@speech disorder  
+*  dt
+- tật về nói
+
+@speech therapist
+* dt
+- người được đào tạo để làm việc điều trị cho những người khuyết tật về ngôn ngữ bằng phương pháp đặc biệt
+ @speech therapy
+* dt
+- phương pháp điều trị đặc biệt để giúp người có khuyết tật về ngôn ngữ nói rõ ràng hơn
+ @speech-day  
+*  dt
+- ngày phát phần thưởng (ở trường học)
+
+@speechification  
+*  dt
+- sự đọc diễn văn
+- sự nói dài dòng
+
+@speechifier  
+*  dt
+- người đọc diễn văn
+- người nói dài dòng
+
+@speechify  
+*  ndgt
+- ghuốm thưa qum nói dài dòng, nói tràng giang đại hải
+
+@speechless  
+*  tt
+- không nói được, mất tiếng; lặng thinh, lặng đi không nói được
+
++ speechless with rage: tức giận không nói được
+- (từ lóng) say mèm
+
+@speechlessly
+* tt
+- mất tiếng, tắt tiếng, không nói được (vì giận, buồn )
+- không thể diễn đạt bằng lời
+- <lóng> say mèm
+ @speechlessness  
+*  dt
+- sự không nói được, sự mất tiếng; sự lặng thinh, sự lặng đi không nói được
+
+@speech-reading  
+*  dt
+- sự nhìn miệng mà hiểu lời nói (người điếc)
+
+@speed  
+*  dt
+- sự mau lẹ; tốc độ, tốc lực
+
++ at full speed: hết tốc lực
+- (từ cổ,nghĩa cổ) sự thành công, sự hưng thịnh, sự thịnh vượng
+!more haste, less speed
+- chậm mà chắc
+*  ngdgt sped
+- làm cho đi mau, tăng tốc độ; xúc tiến, đẩy mạnh
+
++ to speed the collapse of imperialism: đẩy mạnh quá trình sụp đổ của chủ nghĩa đế quốc
+- điều chỉnh tốc độ; làm cho đi theo một tốc độ nhất định
+
++ to speed an engine: điều chỉnh tốc độ một cái máy
+- (từ cổ,nghĩa cổ) bắn mạnh
+
++ to speed an arrow from the bow: bắn mạnh mũi tên khỏi cung
+- (từ cổ,nghĩa cổ) giúp (ai) thành công
+
++ God speed you!: cầu trời giúp anh thành công
+*  ndgt
+- đi nhanh, chạy nhanh
+
++ the car speeds along the street: chiếc xe ô tô lao nhanh trong phố
+- đi quá tốc độ quy định
+- (từ cổ,nghĩa cổ) thành công, phát đạt
+
++ how have you sped?: anh làm thế nào?
+!to speed up
+- tăng tốc độ
+!to speed the parting guest
+- (từ cổ,nghĩa cổ) chúc cho khách ra đi bình yên vô sự
+
+@speed
+- tốc độ, vận tốc, số vòng quay   vội, chuyển động nhanh
+- s. up tăng tốc 
+- s. of convergence tốc độ hội tụ
+- s. of sound tốc độ âm thanh
+- access s. tốc độ chọn
+- angular s. vận tốc góc
+- average s. vận tốc trung bình
+- computatuon s. tốc độ tính toán
+- constant s. (cơ học) tốc độ không đổi 
+- critical s. tốc độ tới hạn
+- ground s. vận tốc (máy bay) so với mặt đất 
+- instantaneous s. tốc độ tức thời 
+- reading s. tốc độ đọc
+- state s. vận tốc pha
+- submarime s. vận tốc dưới nước
+- top s. (kỹ thuật) vận tốc cực đại 
+@speed trap  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) khu vực khống chế tốc độ (của các xe cộ, trong thành phố)
+
+@speed-ball
+* dt
+- (liều) tiêm côcain lẫn hêrôin
+ @speed-boat  
+*  dt
+- tàu (thuỷ) chạy nhanh
+
+@speed-cop  
+*  dt
+- cảnh sát giao thông (đi mô tô, phụ trách kiểm soát tốc độ xe cộ)
+
+@speed-counter
+* dt
+- cái chỉ tốc độ
+ @speeder  
+*  dt
+- (kỹ thuật) bộ điều tốc
+- (từ Mỹ,nghĩa Mỹ) người lái xe quá tốc độ quy định ((cũng) speedster)
+
+@speedily
+* dt
+- <thgt> mau lẹ, nhanh, nhanh chóng
+- ngay lập tức, không chậm trễ (làm việc, đi đến )
+ @speed-indicator
+* dt
+- đồng hồ tốc độ
+ @speediness  
+*  dt
+- tính mau lẹ; sự nhanh chóng, sự chóng vánh
+
+@speeding  
+*  dt
+- sự lái xe quá tốc độ quy định
+
+@speed-limit  
+*  dt
+- tốc độ cao nhất, tốc độ tối đa (quy định)
+
+@speed-merchant  
+*  dt
+- người thích lái ô tô thật nhanh
+
+@speedo
+* dt
+- xem speedomiter
+ @speedometer  
+*  dt
+- đồng hồ (chỉ) tốc độ
+
+@speedomiter
+* dt
+- đồng hồ tốc độ, công tơ mét
+ @speed-reading
+* dt
+- cách đọc nhanh; đọc lướt
+ @speed-reducer  
+*  dt
+- (kỹ thuật) bộ giảm tốc
+
+@speed-reducer
+- bộ giảm tốc
+ @speedster  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) speeder
+- xe con cao tốc (ô tô không mui hai chỗ ngồi có tốc độ nhanh)
+
+@speed-up  
+*  dt
+- sự tăng tốc độ
+
+@speed-up system   (speed-up_system) @speedway  
+*  dt
+- trường đua mô tô
+- (từ Mỹ,nghĩa Mỹ) tuyến đường dành riêng ô tô chạy nhanh; đường dành riêng cho ô tô chạy nhanh
+
+@speedwell  
+*  dt
+- (thực vật học) cây thuỷ cự
+
+@speedy  
+*  tt
+- mau lẹ, nhanh chóng; ngay lập tức
+
++ speedy answer: câu trả lời lập tức
+
+@speer
+- Cách viết khác : speir 
+ @speiss  
+*  dt
+- xỉ chì (hình thành khí nấu quặng chì)
+
+@spelaean  
+*  tt
+- (thuộc) hang hốc; như hang hốc
+- sống trong hang hốc
+
+@spelaelogical
+* tt
+- (thuộc) môn học về hang động, (thuộc) hang động học
+ @spelaelogy
+* dt
+- hang động học, môn học về hang động
+ @spelaeology  
+*  dt
+- môn học về hang
+
+@speleological
+* tt
+- (thuộc) môn học về hang động, (thuộc) hang động học
+ @speleologist
+* dt
+- người nghiên cứu hang động
+ @speleology
+* dt
+- hang động học, môn học về hang động
+ @spelican
+- Cách viết khác : spilikin 
+ @spelicans   (spelicans) @spell  
+*  dt
+- lời thần chú
+- bùa mê
+
++ under a spell: bị bùa mê
+- sự làm say mê; sức quyến rũ
+
++ to cast a spell on: làm say mê
+*  ngdgt spelled,  spelt
+- viết vần, đánh vần; viết theo chính tả
+
++ to spell in full: viết nguyên chữ
+- có nghĩa; báo hiệu
+
++ to spell ruin to: báo hiệu sự suy tàn của
+!to spell backward
+- đánh vần ngược (một từ)
+- (nghĩa bóng) hiểu nhầm, hiểu sai; thuyết minh sai
+- xuyên tạc ý nghĩa
+!to spell out
+- (thông tục) giải thích rõ ràng
+*  dt
+- đợt, phiên (việc)
+
++ a cold spell: một đợt rét
+
++ to work by spells: thay phiên nhau làm việc
+- thời gian ngắn
+
++ to rest for a spell: nghỉ một thời gian ngắn
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cơn ngắn (bệnh)
+- (Uc) thời gian nghỉ ngắn
+*  ngdgt
+- (từ hiếm,nghĩa hiếm) thay phiên (cho ai)
+- (Uc) cho nghỉ (ngựa)
+*  ndgt
+- (Uc) nghỉ một lát
+
+@spellbind  
+*  ngdgt spellbound
+- làm say mê, làm mê đi (như bị bỏ bùa)
+
+@spellbinder  
+*  dt
+- (thông tục) diễn giả hấp dẫn
+
+@spellbinding
+* tt
+- làm xuất thần, làm mê ly; thu hút sự chú ý (do một câu thần chú )
+ @spellbound  
+*  thời quá khứ & động tt quá khứ của spellbind
+*  tt
+- mê, say mê
+
++ to hold one's audience spellbound: làm cho thính giả phải say mê
+
+@spell-down  
+*  dt
+- cuộc thi chính tả
+
+@speller  
+*  dt
+- người đánh vần
+- sách học vần
+- điểm báo trước
+
+@spelling  
+*  dt
+- sự viết vần, sự đánh vần; sự viết theo chính tả; chính tả
+
++ another spelling of the same word: cách viết (chính tả) khác của cũng chữ ấy
+
+@spelling-bee  
+*  dt
+- cuộc thi chính tả
+
+@spelling-book  
+*  dt
+- sách học vần
+
+@spelling-pronunciation  
+*  dt
+- cách đọc theo cách viết, cách đọc theo chính tả (của một từ)
+
+@spelt  
+*  thời quá khứ & động tt quá khứ của spell
+*  dt
+- (thực vật học) lúa mì xpenta
+
+@spelter  
+*  dt
+- (thương nghiệp) kẽm
+- (kỹ thuật) que hàn kẽm
+
+@spelunker
+* dt
+- (từ Mỹ, người Mỹ) người thích khảo sát hang động
+ @spelunking
+* dt
+- sự thích khảo sát hang động
+ @spencer  
+*  dt
+- áo vét len ngắn
+
+@spencerian
+* tt
+- thuộc học thuyết Spencer
+ @spencerianism
+* dt
+- học thuyết Spencer
+ @spencerism  
+*  dt
+- học thuyết Xpen-xơ
+
+@spend  
+*  ngdgt spent
+- tiêu, tiêu pha
+- dùng (thì giờ...), tốn
+
++ to spend time in reading: dùng thì giờ vào việc đọc
+- qua, sống qua
+
++ to spend the holidays by the seaside: qua những ngày nghỉ ở bờ biển
+
++ to spend a sleepless night: qua một đêm không ngủ
+- làm dịu đi, làm nguôi đi, làm hết đà; làm hết, làm kiệt, tiêu phí
+
++ his fury was spent: cơn giận của hắn đã nguôi
+
++ anger spends itself: cơn giận nguôi đi
+
++ the storm has spent itself: cơn bão đã dịu đi
+
++ to spend one's energy: tiêu phí nghị lực
+- (hàng hải) gãy; mất (cột buồm)
+*  ndgt
+- tiêu pha, tiêu tiền
+- tàn, hết
+
++ candles spend fast in draught: nên đốt ở chỗ gió lùa chóng hết
+- đẻ trứng (cá)
+!to spend a penny
+- (thông tục) đi đái; đi ỉa
+
+@spend
+- tiêu (dùng)
+ @spendable  
+*  tt
+- có thể tiêu được
+- có thể dùng được
+
+@spender  
+*  dt
+- người tiêu tiền, người tiêu hoang
+
+@spendthrift  
+*  dt
+- người ăn tiêu hoang phí, người vung tay quá trán
+- (định ngữ) hoang phí, vung tay quá trán
+
+@spent  
+*  thời quá khứ & động tt quá khứ của spend
+*  tt
+- mệt lử, kiệt sức, hết nghị lực; hết đà (viên đạn, mũi tên...)
+
++ a spent bullet: một viên đạn hết đà (rơi xuống)
+- tàn lụi
+
+@spent
+- được dùng
+ @sperm  
+*  dt
+- (sinh vật học) tinh dịch
+- (như) spermatozoon
+*  dt
+- (như) sperm-whale
+- (như) spermaceti
+
+@spermaceti  
+*  dt
+- sáp cá nhà táng (để làm nến...) ((cũng) sperm)
+
+@spermagonium
+* dt
+- số nhiều spermagonia
+- túi chứa tinh tử
+ @spermaphore
+* dt
+- giá noãn
+* dt
+- giá noãn
+ @spermaphyte
+* dt
+- (thực vật) thực vật có hạt; hoa hiện
+ @spermary  
+*  dt
+- (động vật học) dịch hoàn, túi tinh
+
+@spermatheca
+* dt
+- túi nhận tinh
+ @spermatic  
+*  tt
+- (thuộc) tinh dịch
+- (thuộc) dịch hoàn, (thuộc) túi tinh
+
+@spermatid
+* dt
+- tinh tử; tiền tinh trùng
+ @spermatium
+* dt
+- số nhiều spermatia
+- tinh tử; bào tử phấn
+ @spermatocyte
+* dt
+- khoang chứa tinh
+ @spermatogenesis  
+*  dt
+- (sinh vật học) sự sinh tinh
+
+@spermatogenetic  
+*  tt
+- (sinh vật học) sinh tinh
+
+@spermatogenous  
+*  tt
+- (thuộc) sự sinh tinh
+
+@spermatogonium
+* dt; số nhiều spermatogonia
+- nguyên bào tinh
+ @spermatological  
+*  tt
+- (thuộc) tinh trùng học
+
+@spermatologist  
+*  dt
+- nhà tinh trùng học ((cũng) spermologist)
+
+@spermatology  
+*  dt
+- tinh trùng học ((cũng) spermology)
+
+@spermatophore  
+*  dt
+- bó sinh tinh
+
+@spermatophyte  
+*  dt
+- (thực vật học) cây có hạt
+
+@spermatorhea
+- Cách viết khác : spermatorhoea 
+ @spermatorrhea   (spermatorrhoea) @spermatorrhoea   (spermatorrhoea) @spermatozoa  
+*  dt,  số nhiều spematozoa
+- (sinh vật học) tinh trùng ((cũng) sperm)
+
+@spermatozoal   (spermatozoal) @spermatozoan   (spermatozoal) @spermatozoid  
+*  dt
+- (thực vật học) tinh trùng
+
+@spermatozoon  
+*  dt,  số nhiều spematozoa
+- (sinh vật học) tinh trùng ((cũng) sperm)
+
+@spermic  
+*  tt
+- (thuộc) tinh dịch
+
+@spermicidal
+* tt
+- (thuộc) chất diệt tinh trùng
+ @spermicide
+* dt
+- chất diệt tinh trùng
+ @spermicidol
+* tt
+- (thuộc) thuốc diệt tinh trùng
+ @spermid
+* dt
+- tinh tử, tiền tinh trùng
+ @spermiducal
+* tt
+- (thuộc) ống dẫn tinh; (thuộc) tinh quản
+ @spermiduct
+* dt
+- như vas deferens
+ @spermin
+* dt
+- hocmon tinh hoàn
+ @spermine  
+*  dt
+- (hoá học); (sinh vật học) Xpecmin
+
+@spermiogenesis
+* dt
+- sự phát triển tinh trùng (từ tinh tử)
+ @spermogonial
+* tt
+- thuộc túi bào tử phấn; túi chứa tinh
+ @spermogonium
+* dt
+- số nhiều spermogonia
+- túi bào tử phấn; túi chứa tinh
+ @sperm-oil  
+*  dt
+- dầu cá nhà táng
+
+@spermological  
+*  tt
+- (như) spermatological
+- (thực vật học) (thuộc) khoa nghiên cứu hạt cây
+
+@spermologist  
+*  dt
+- (như) spermatologist
+- (thực vật học) nhà nghiên cứu hạt cây
+
+@spermology  
+*  dt
+- (như) spermatology
+- (thực vật học) khoa nghiên cứu hạt cây
+
+@spermophyte
+* dt
+- thực vật có hạt; hoa hiện
+ @spermous  
+*  tt
+- như tinh dịch
+
+@sperm-whale  
+*  dt
+- (động vật học) cá nhà táng ((cũng) sperm)
+
+@sperrylife
+* dt
+- (khoáng) Xperilit
+ @spessartine
+* dt
+- (khoáng) Xpexactin
+ @spessartite
+* dt
+- xem spessartine
+ @spew  
+*  dt
+- cái nôn ra, cái mửa ra, cái thổ ra
+*  dgt
+- nôn ra, mửa ra, thổ ra ((cũng) spue)
+*  ndgt
+- chúc nòng (súng) (vì bắn nhanh quá) ((cũng) spue)
+
+@spewing
+* dt
+- sự khạc nhổ; nôn mửa
+ @sphacelate  
+*  ngdgt
+- (y học) làm mắc bệnh thối hoại
+*  ndgt
+- (y học) mắc bệnh thối hoại
+
+@sphacelation
+* dt
+- sự gây bệnh thối hoại
+- sự mắc bệnh thối hoại
+ @sphagna  
+*  dt,  số nhiều sphagna
+- (thực vật học) rêu nước
+
+@sphagnum  
+*  dt,  số nhiều sphagna
+- (thực vật học) rêu nước
+
+@sphalerite
+* dt
+- (khoáng) Xfalêrit
+ @sphene
+* dt
+- (khoáng) Xfen
+ @sphenic
+* tt
+- dạng nêm
+ @sphenogram  
+*  dt
+- chữ hình nêm
+
+@sphenoid  
+*  tt
+- (giải phẫu) (thuộc) xương bướm, bướm
+
++ sphenoid sinus: xoang bướm
+*  dt
+- (giải phẫu) xương bướm
+
+@sphenoid
+- hình cái nêm, hình cái chền
+ @sphenoidal  
+*  tt
+- (giải phẫu) (thuộc) xương bướm, bướm
+
++ sphenoid sinus: xoang bướm
+*  dt
+- (giải phẫu) xương bướm
+
+@spher-
+- xem shero-,  shaer-,  sphaero-:hình thái ghép có nghĩa hình cầu : spheroid dạng cầu
+ @spheral
+* tt
+- hình cầu; dạng cầu
+- hết sức cân đối; hài hoà
+ @sphere  
+*  dt
+- hình cầu, khối cầu, quả cầu; mặt cầu
+- (thơ ca) bầu trời, vũ trụ; thiên thể
+- khu vực, phạm vi (hoạt động, quyền lực...); vị trí xã hội; môi trường
+
++ sphere of action: khu vực ảnh hưởng
+
++ that does not come withing my sphere: việc ấy không thuộc phạm vi quyền lực của tôi
+
++ it is a great mistake ot take him out of his sphere: đưa nó ra khỏi môi trường của nó là một sai lầm lớn
+!doctrine of the sphere
+- hình học và lượng giác cầu
+*  ngdgt
+- cho vào trong một quả cầu
+- làm thành hình cầu
+- (thơ ca) tâng bốc lên tận mây xanh
+
+@sphere
+- hình cầu, mặt cầu
+- s. of inversion hình cầu nghịch đảo
+- celestial s. (thiên văn) thiê cầu
+- circumsribed s. hình cầu ngoại tiếp
+- director s. mặt cầu chuẩn
+- escribed s. hình cầu bàng tiếp
+- imaginary s. hình cầu ảo
+- inscribed s. hình cầu nội tiếp
+- limit s. mặt cầu giới hạn
+- null s. hình cầu điểm
+- point s. hình cầu điểm
+- proper s. hình cầu chân chính
+- oriented s. hình cầu định hướng
+- osculating s. hình cầu mật tiếp 
+ @spheric  
+*  tt
+- (thơ ca) (thuộc) bầu trời; (thuộc) thiên thể
+- được ca ngợi, được tâng bốc
+
+@spherical  
+*  tt
+- cầu, (thuộc) hình cầu; có hình cầu
+
++ spherical angle: góc cầu
+
+@spherical
+- (thuộc) hình cầu
+ @sphericity  
+*  dt
+- cầu hình; tính tròn (của quả đất...)
+
+@sphericity
+- tính cầu
+ @spherics  
+*  dt số nhiều dùng như số ít
+- hình học và lượng giác cầu
+
+@spherics
+- hình học cầu, lượng giác cầu
+ @sphero-conic
+- cônic cầu
+ @spheroid  
+*  dt
+- hình phỏng cầu, hình tựa cầu
+
+@spheroid
+- hình phỏng cầu
+- oblate s. phỏng cầu dẹt
+- prolate s. phỏng cầu thuôn (elipxoit toàn xoay) 
+ @spheroidal  
+*  tt
+- phỏng cầu, tựa cầu
+
+@spheroidal
+- (thuộc) phỏng cầu
+ @spheroidization
+* dt
+- (luyện kim) sự tạo thành hạt tròn
+ @spherometer  
+*  dt
+- cái đo thể cầu
+
+@spherometer
+- cầu kế
+ @sphero-quartic
+- quactic cầu
+ @spherula
+* dt
+- cầu nhỏ; tiểu cầu
+- cầu gai nhỏ
+ @spherular   (spherulate) @spherulate   (spherulate) @spherule  
+*  dt
+- hình cầu nhỏ, quả cầu nhỏ
+
+@spherulite
+* dt
+- tinh thể hình cầu
+ @spherulitic
+* tt
+- thuộc tinh thể hình cầu
+ @sphery  
+*  tt
+- có hình cầu
+- giống thiên thể; (thuộc) thiên thể
+
+@sphincter  
+*  dt
+- (giải phẫu) cơ thắt
+
+@sphincteral   (sphincterial) @sphincterial   (sphincterial) @sphincteric   (sphincterial) @sphinges  
+*  dt,  số nhiều sphinxes,  sphinges
+- (thần thoại,thần học) Xphanh (quái vật đầu đàn bà, mình sư tử)
+- (the Sphinx) tượng Xphanh (ở Ai cập)
+- người bí hiểm, người khó hiểu
+
+@sphingidae
+* dt
+- (động vật) họ bướm sư tử
+ @sphinx  
+*  dt,  số nhiều sphinxes,  sphinges
+- (thần thoại,thần học) Xphanh (quái vật đầu đàn bà, mình sư tử)
+- (the Sphinx) tượng Xphanh (ở Ai cập)
+- người bí hiểm, người khó hiểu
+
+@sphragistics  
+*  dt,  số nhiều ((thường) dùng như số ít)
+- khoa nghiên cứu dấu ấn
+
+@sphygmic
+* tt
+- thuộc mạch
+ @sphygmogram  
+*  dt
+- (y học) biểu đồ mạch
+
+@sphygmograph  
+*  dt
+- (y học) máy ghi mạch
+
+@sphygmographic  
+*  tt
+- (thuộc) máy ghi mạch; (thuộc) phép ghi mạch
+
+@sphygmography  
+*  dt
+- (y học) phép ghi mạch
+
+@sphygmoid
+* dt
+- sự đập mạch
+ @sphygmology  
+*  dt
+- (y học) khoa nghiên cứu mạch
+
+@sphygmomanometer  
+*  dt
+- máy đo huyết áp
+
+@sphygmometer  
+*  dt
+- máy đo mạch
+
+@sphygmophone  
+*  dt
+- máy nghe mạch
+
+@sphygmoscope  
+*  dt
+- máy soi mạch
+
+@sphygmus  
+*  dt
+- (sinh vật học) mạch, mạch đập
+
+@sphynx
+* dt
+- xem sphinx
+ @spic
+- Cách viết khác : spik 
+ @spica  
+*  dt
+- (thực vật học) bông (cụm hoa)
+- (y học) băng chéo
+
+@spic-and-span
+* tt
+- xem spick-and-span
+ @spicate   (spicated) @spicated   (spicated) @spice  
+*  dt
+- đồ gia vị
+- cái làm thêm đậm đà (câu chuyện...)
+- hơi hướng, vẻ; một chút, một ít
+
++ there is a spice of malice in him: tính nó có hơi hiểm độc một chút
+
++ a spice of envy in her tone: vẻ ghen tị trong giọng nói của cô ta
+*  ngdgt
+- cho gia vị (vào thức ăn)
+- làm đậm đà, thêm mắm thêm muối (vào câu chuyện)
+
+@spicebush
+* dt
+- (thực vật) an tức hương
+ @spiced
+* tt
+- chứa một thứ gia vị, chứa nhiều gia vị; được nêm gia vị; có gia vị
+ @spicery  
+*  dt
+- đồ gia vị (nói chung)
+- cửa hàng đồ gia vị
+
+@spicily
+* dt
+- có bỏ gia vị
+- sắc sảo; dí dỏm; thú vị
+- lịch sự; bảnh bao
+ @spiciness  
+*  dt
+- sự có gia vị, tính chất thơm
+- tính chất hóm hỉnh, tính chất dí dỏm; tính chất tục (câu chuyện)
+- sự bảnh bao; tính chất hào nhoáng
+
+@spick and span  
+*  tt
+- mới toanh
+- bảnh bao (người)
+
+@spick-and-span
+* tt
+- gọn gàng, ngăn nắp và sạch sẽ
+
++  they always keep their kitchen spick and span:họ luôn giữ căn bếp của họ ngăn nắp sạch sẽ
+- mới toanh, bảnh bao (người)
+ @spicula
+* dt
+- số nhiều spiculae
+- cái gai
+ @spicular   (spiculate) @spiculate   (spiculate) @spicule  
+*  dt
+- gai nhỏ, gai
+
+@spiculum
+* dt
+- số nhiều spicula
+- có gai
+ @spicy  
+*  tt
+- có bỏ gia vị
+- hóm hỉnh, dí dỏm; tục
+
++ spicy story: chuyện tục; chuyện tiếu lâm
+- bảnh bao, hào nhoáng
+
+@spider  
+*  dt
+- con nhện
+- cái kiềng
+- cái chảo ba chân
+- xe ngựa hai bánh
+!spider and fly
+- người giăng bẫy và kẻ mắc bẫy
+
+@spider-crab  
+*  dt
+- (động vật học) cua nhện
+
+@spiderlike  
+*  tt ((cũng) spidery)
+- giống con nhện; (thuộc) nhện
+- nghều ngoào, khẳng khiu (chân, chữ viết)
+
+@spider-man
+* dt
+- người làm việc trên chỗ rất cao khi xây các toà nhà
+ @spider-men
+* dt
+- người làm việc trên chỗ rất cao khi xây các toà nhà
+ @spider-monkey  
+*  dt
+- (động vật học) khỉ nhện
+
+@spider-plant
+* dt
+- cây nhện (có lá mỏng, và thân dài từ đó các cây non mọc lên)
+ @spider-web  
+*  dt
+- mạng nhện
+
+@spider-wort
+* dt
+- (thực vật) rau trai
+ @spidery  
+*  tt
+- (như) spiderlike
+- có lắm nhện
+
+@spiegel   (spiegeleisen) @spiegeleisen   (spiegeleisen) @spiel  
+*  dt
+- (từ lóng) bài diễn văn, bài nói
+- câu chuyện
+*  ndgt
+- (từ lóng) diễn thuyết
+- nói chuyện
+*  ngdgt
+- (từ lóng) kể, tuôn ra (chuyện)
+
+@spier  
+*  dt: (spier) 
+@spifflicate   (spifflicate) @spifflication   (spifflication) @spiffling
+* tt
+- (thông tục) rất cừ
+ @spiffy  
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm thích mắt, làm vui mắt
+- diện, bảnh
+
+@spiflicate   (spifflicate) @spiflication   (spifflication) @spigot  
+*  dt
+- nút thùng rượu
+- đầu vòi (có thể bắt vòi khác được)
+
+@spik
+- Cách viết khác : spic 
+ @spike  
+*  dt
+- (thực vật học) bông (kiểu cụm hoa)
+- cây oải hương ((cũng) spike lavender)
+- cá thu con (dài chưa quá 6 nisơ)
+- đầu nhọn; gai (ở dây thép gai)
+- que nhọn, chấn song sắt nhọn đầu
+- đinh đế giày (đinh nhọn đóng vào đế giày để cho khỏi trượt)
+- đinh đóng đường ray
+*  ngdgt
+- đóng bằng đinh
+- cắm que nhọn; lắp chấn song nhọn đầu
+- đâm bằng que sắt nhọn
+- (thể dục,thể thao) nện đinh giày làm bị thương (đối phương)
+- bịt miệng (nòng súng)
+- làm trở nên vô ích, làm mất tác dụng; làm hỏng, ngăn chặn (một âm mưu)
+- (từ Mỹ,nghĩa Mỹ) chấm dứt (một ý kiến...)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) pha rượu mạnh vào (đồ uống)
+
+@spike lavender
+* dt
+- cây oải hương
+ @spiked
+* tt
+- (thực vật) có bông
+- có mấu nhọn; có đinh mấu
+ @spike-drawer
+* dt
+- búa (xà beng) nhổ đinh ray
+ @spike-driver
+* dt
+- búa đóng đinh ray
+ @spikefish
+* dt
+- (động vật) cá cờ
+ @spike-hammer
+* dt
+- búa tán đinh ray
+ @spikelet  
+*  dt
+- (thực vật học) bông con
+
+@spikelet-like
+* tt
+- dạng bông nhỏ
+ @spike-like
+* tt
+- dạng bông
+ @spike-nail
+* dt
+- đinh rất lớn
+ @spikenard  
+*  dt
+- (thực vật học) cây cam tùng
+- dầu thơm cam tùng
+
+@spikes
+* dt, pl
+- giầy đinh (của vận động viên)
+- đinh dài, ghim dài (bằng kim loại)
+- bông (của ngũ cốc )
+- nhánh
+ @spikewise  
+*  dt
+- dưới dạng đầu nhọn
+
+@spiking
+* dt
+- sự đóng đinh ray
+ @spiky  
+*  tt
+- (thực vật học) có bông
+- kết thành bông; dạng bông
+- có mũi nhọn; như mũi nhọn
+- (thông tục) khăng khăng, bảo thủ (quan điểm tôn giáo)
+
+@spile  
+*  dt
+- nút thùng rượu
+- ống máng (cắm vào cây để lấy nhựa)
+- cọc gỗ, cừ
+*  ngdgt
+- bịt, nút (lỗ thùng)
+- cắm ống máng (vào cây); cắm vòi (vào thùng)
+- lấy (rượu...) ra bằng vòi
+- cắm cọc, cắm cừ
+- đục lỗ (thùng rượu...)
+
+@spiling  
+*  dt
+- cọc gỗ, cừ (nói chung); hàng cọc
+- đường cong của ván gỗ (ở vỏ tàu)
+
+@spill  
+*  ngdgt spilled,  spilt
+- làm tràn, làm đổ, đánh đổ (nước...)
+- làm ngã ngựa, làm văng khỏi yên, làm văng khỏi xe
+
++ horse spills rider: ngựa văng người cưỡi xuống đất
+*  ndgt
+- tràn ra, chảy ra, đổ ra (nước...)
+!to spill over
+- tràn ra vùng nông thôn (dân quá đông ở một thành phố)
+!to spill the beans
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) để lọt tin tức ra ngoài; để lộ tẩy, để lòi đuôi
+!to spill blood
+- phạm tội gây đổ máu
+!to spill the blood of somebody
+- giết ai
+!to spill money
+- thua cuộc
+!it is no use crying over spilt milk
+- thôi đừng tiếc rẻ con gà quạ tha
+*  dt
+- sự làm tràn, sự làm đổ ra, sự đánh đổ ra
+- lượng (nước...) đánh đổ ra
+- sự ngã (từ trên yên xe, yên ngựa...)
+
++ to have a nastry spill: bị ngã một cái đau
+- (như) spillway
+*  dt
+- cái đóm (để nhóm lửa)
+- cái nút nhỏ (để nút lỗ)
+- cái đinh nhỏ, cái chốt nhỏ, cái móc nhỏ (bằng kim loại)
+
+@spillage
+* dt
+- sự đổ ra; lượng bị đổ ra
+ @spiller  
+*  dt
+- lưới con (lưới kéo nhỏ đặt trong lưới to, kéo lên để vớt cá khi lưới to không kéo vào bờ được)
+
+@spillikin   (spelicans) @spilling
+* dt
+- sự lọt không khí qua dù
+- dãy cọc chống đất tụt
+ @Spillover
+- (Econ) Hiệu ứng lan toả.
+: Xem EXTERNALITIES.
+ @spillover
+* dt
+- (vô tuyến điện) sự tràn tín hiệu
+ @Spillover hypothesis
+- (Econ) Giả thuyết về hiệu ứng lan toả.
+: Giả thuyết cho rằng các khoản thanh toán lương quan trọng sẽ tạo ra một hình mẫu cho các khoản thanh toán sau đó noi theo, hoặc chí ít có ảnh hưởng đến chúng.
+ @spillway  
+*  dt
+- đập tràn
+
+@spiloma
+* dt
+- nốt ruồi
+ @spilt  
+*  ngdgt spilled,  spilt
+- làm tràn, làm đổ, đánh đổ (nước...)
+- làm ngã ngựa, làm văng khỏi yên, làm văng khỏi xe
+
++ horse spills rider: ngựa văng người cưỡi xuống đất
+*  ndgt
+- tràn ra, chảy ra, đổ ra (nước...)
+!to spill over
+- tràn ra vùng nông thôn (dân quá đông ở một thành phố)
+!to spill the beans
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) để lọt tin tức ra ngoài; để lộ tẩy, để lòi đuôi
+!to spill blood
+- phạm tội gây đổ máu
+!to spill the blood of somebody
+- giết ai
+!to spill money
+- thua cuộc
+!it is no use crying over spilt milk
+- thôi đừng tiếc rẻ con gà quạ tha
+*  dt
+- sự làm tràn, sự làm đổ ra, sự đánh đổ ra
+- lượng (nước...) đánh đổ ra
+- sự ngã (từ trên yên xe, yên ngựa...)
+
++ to have a nastry spill: bị ngã một cái đau
+- (như) spillway
+*  dt
+- cái đóm (để nhóm lửa)
+- cái nút nhỏ (để nút lỗ)
+- cái đinh nhỏ, cái chốt nhỏ, cái móc nhỏ (bằng kim loại)
+
+@spilth  
+*  dt
+- (từ cổ,nghĩa cổ) cái đánh đổ ra
+- của thừa, đồ thừa
+
+@spin  
+*  dt
+- sự quay tròn, sự xoay tròn
+- (hàng không) sự vừa đâm xuống vừa quay tròn
+- (thể dục,thể thao) sự xoáy (bóng crickê)
+- sự đi chơi; cuộc đi chơi ngắn, cuộc đi dạo (bằng xe đạp, thuyền...)
+
++ to go for a spin: đi dạo chơi; đi bơi thuyền
+*  ngdgt spun,  (từ cổ,nghĩa cổ) span; spun
+- quay (tơ)
+- chăng (tơ nhện)
+- tiện (bằng máy)
+- ((thường) : out) kể (một câu chuyện); biên soạn
+
++ to spin a yarn: kể chuyện huyên thiên; kể chuyện bịa
+- làm quay tròn (con quay, người nào); làm lảo đảo
+
++ to send somebody spinning: đánh ai lảo đảo
+- (từ lóng) đánh hỏng (thí sinh)
+*  ndgt
+- xe chỉ, xe tơ
+- chăng tơ (nhện); kéo kén (tằm)
+- câu cá bằng mồi quay
+- xoay tròn; lảo đảo
+- lướt đi nhẹ nhàng (đi xe đạp)
+!to spin out
+- kéo dài (bài diễn văn, cuộc thảo luận, cuộc đời...)
+- (thể dục,thể thao) đánh xoáy bóng cho (đối thủ) không đỡ được (crickê)
+
+@spin
+- sự xoắn; (vật lí) spin
+- nuclear s. (vật lí) spin hạt nhân 
+ @spin bowler  
+*  dt
+- (thể dục,thể thao) người tài đánh xoáy bóng (crickê)
+
+@spina
+* dt
+- cái gai
+ @spina bifida
+* dt
+- <y> tật nứt đốt sống (gây nên ốm yếu tàn tật nghiêm trọng)
+ @spinaceous  
+*  tt
+- (thuộc) rau bina; giống như rau bina
+- (thuộc) họ rau muối
+
+@spinach   (spinage) @spinage   (spinage) @spinal  
+*  tt
+- (thuộc) xương sống
+
++ spinal column: cột xương sống
+
++ spinal cord: tuỷ sống
+
+@spinal column
+* dt
+- cột sống; xương sống lưng
+ @spinal corn
+* dt
+- tủy sống
+ @spinant
+* dt
+- chất kích thích tủy sống
+ @spinate
+* tt
+- có gai
+ @spination
+* dt
+- sự phân bố gai
+ @spindle  
+*  ndgt
+- mọc thẳng lên, mọc vút lên
+*  ngdgt
+- làm thành hình con suốt
+- lắp con suối
+
+@spindle
+- (kỹ thuật) trục
+ @spindle-fibres
+* dt; số nhiều
+- sợi thoi
+ @spindle-legged   (spindle-legged) @spindle-legs   (spindle-legs) @spindle-shanked   (spindle-legged) @spindle-shanks   (spindle-legs) @spindle-shaped  
+*  tt
+- có hình con suốt
+
+@spindling  
+*  dt
+- người thon thon, người dong dỏng, người mảnh khảnh
+*  tt: (spindly) 
+@spindly  
+*  dt
+- người thon thon, người dong dỏng, người mảnh khảnh
+*  tt: (spindly) 
+@spin-drier  
+*  dt
+- máy quay khô quần áo
+
+@spindrift   (spoon-drift) @spin-dry
+* ngdgtspin-dried:quay cho khô (quần áo)
+ @spine  
+*  dt
+- xương sống
+- (thực vật học) gai
+- (động vật học) gai, ngạnh (cá); lông gai (nhím)
+- gáy (sách)
+- cạnh sắc
+
+@spine chilling
+* tt
+- lạnh xương sống; khủng khiếp
+ @spine-bearing
+* tt
+- có gai, chứa gai
+ @spine-chiller
+* dt
+- phim (chuyện) làm nổi gai ốc, phim (chuyện) rùng rợn
+ @spine-chilling
+* tt
+- làm nổi gai ốc; khủng khiếp
+
++  the spine-chilling consequences of a nuclear war:những hậu quả khủng khiếp của một cuộc chiến tranh hạt nhân
+ @spined  
+*  tt
+- có xương sống
+- có gai
+- có ngạnh (cá)
+
+@spinel  
+*  dt
+- (khoáng chất) Spinen
+
+@spineless  
+*  tt
+- không xương sống (động vật)
+- (nghĩa bóng) ẻo lả, nhu nhược
+- không có gai
+- không có ngạnh (cá)
+
+@spinelessly
+* dt
+- không xương sống (động vật )
+- <bóng> yếu đuối, ẻo lả; nhút nhát, dễ run sợ, nhu nhược
+- không có gai
+- không có ngạnh (cá)
+ @spinelessness
+* dt
+- tính chất không xương sống (động vật )
+- <bóng> tính yếu đuối, tính ẻo lả; tính nhút nhát, tính dễ run sợ, tính nhu nhược
+- tính chất không có gai
+- tính chất không có ngạnh (cá)
+ @spinelet
+* dt
+- gai nhỏ
+ @spinet  
+*  dt
+- (sử học) đàn xpinet (một loại clavico nhỏ)
+
+@spinicerebrate  
+*  tt
+- (động vật học) có não và tuỷ sống
+
+@spiniferous  
+*  tt
+- có gai; sinh gai
+
+@spiniform  
+*  tt
+- hình gai
+
+@spininess  
+*  dt
+- tình trạng có nhiều gai
+- (nghĩa bóng) tính chất gai góc, tính chất hắc búa; sự hắc búa, sự khó giải quyết (vấn đề)
+
+@spinnaker  
+*  dt
+- (hàng hải) buồm lớn (của thuyền đua)
+
+@spinner  
+*  dt
+- người quay tơ
+- xa quay tơ
+- thợ tiện
+- (hàng không) mũ cánh quạt (máy bay)
+- (thể dục,thể thao) động tác xoay tròn người (của người đang dắt bóng đá để lừa đối phương)
+- (như) spinneret
+
+@spinneret  
+*  dt
+- cơ quan nhả tơ (của nhện, tằm) ((cũng) spinner)
+
+@spinnery  
+*  dt
+- xưởng xe sợi, xưởng xe chỉ
+
+@spinney  
+*  dt
+- lùm cây
+
+@spinning  
+*  dt
+- sự xe chỉ
+- sự xoay tròn, sự quay tròn
+
+@spinning-frame
+* dt
+- máy kéo sợi; xe sợi
+ @spinning-house  
+*  dt
+- (sử học) trại cải tạo gái điếm
+
+@spinning-jenny  
+*  dt
+- máy xe nhiều sợi một lúc
+
+@spinning-machine  
+*  dt
+- máy xe (sợi)
+
+@spinning-wheel  
+*  dt
+- guồng quay tơ, xa quay tơ; guồng xe chỉ
+
+@spinode
+- (hình học) điểm lùi
+ @spin-off
+* dt
+- sản phẩm phụ; lợi ích phụ
+ @spinor
+- spinơ
+ @spinose  
+*  tt
+- có gai, nhiều gai ((cũng) spinous)
+
+@spinosely
+* dt
+- có gai; đầy gai
+- nhọn như gai
+- đầy khó khăn; gai góc
+ @spinosity  
+*  dt
+- tính chất có gai, tính chất nhiều gai
+- chỗ có gai, phần có gai
+- lời nhận xét sắc sảo; lời phê bình sắc
+
+@spinous  
+*  tt
+- (như) spinose
+- như gai
+
+@spinozism  
+*  dt
+- học thuyết Spi-nô-da
+
+@spinozist  
+*  dt
+- người theo học thuyết Spi-nô-da
+
+@spinozistic  
+*  tt
+- (thuộc) học thuyết Spi-nô-da
+
+@spinster  
+*  dt
+- bà cô (không chồng)
+
+@spinsterhood  
+*  dt
+- tình trạng ở không, tình trạng (là) bà cô
+
+@spinsthariscope
+* dt
+- (vật lý) kính nhấp nháy
+ @spinstress
+* dt
+- cô gái dệt vải
+ @spinthariscope  
+*  dt
+- (vật lý) kính nhấp nháy
+
+@spinula
+* dt
+- (thực vật) gai nhỏ
+- ngạnh nhỏ
+ @spinulation
+* dt
+- lớp gai bảo vệ
+ @spinule  
+*  dt
+- (thực vật học) gai nhỏ
+- (động vật học) gai nhỏ, ngạnh nhỏ
+
+@spinuleferous   (spinulose) @spinulescent
+* tt
+- hoá gai nhỏ
+ @spinulose   (spinulose) @spinulosis
+* dt
+- sự nổi gai ốc da
+ @spinulous   (spinulose) @spiny  
+*  tt
+- có nhiều gai; giống gai
+- (nghĩa bóng) gai góc, hắc búa, khó giải quyết
+
+@spir-
+- Cách viết khác : spiri- 
+ @spiracle  
+*  dt
+- (động vật học) lỗ thở (của sâu bọ...)
+
+@spiracular   (spiraculate) @spiraculate   (spiraculate) @spiraea   (spirea) @spiral  
+*  tt
+- xoắn ốc
+
++ spiral spring: lò xo xoắn ốc
+*  dt
+- đường xoắn ốc, đường trôn ốc
+- (hàng không) sự bay theo đường xoắn ốc
+- sự tăng lên dần dần, sự lên từ từ; sự giảm dần dần, sự xuống từ từ (giá...)
+*  ndgt
+- chuyển động theo hình xoắn ốc, xoắn theo hình trôn ốc
+- tăng dần dần; giảm dần dần
+
+@spiral
+- đường xoắn ốc
+- Cornu s. đường xoắn ốc Coocnu 
+- equiangular s. đường xoắn ốc đẳng giác 
+- hyperbolic s. đường xoắn ốc hipebolic
+- logarithmic double s. đường xoắn ốc kép lôga
+- parabolic s. đường xoắn ốc parabolic
+- sine s. đường xoắn ốc sin 
+ @spiralis
+* dt số nhiều spirales
+- dây chằng xoắn
+ @spirality  
+*  dt
+- sự xoáy trôn ốc, xoắn theo hình trôn ốc
+
+@spirally
+* dt
+- xoắn ốc
+- hình xoắn
+ @spirant  
+*  tt
+- (ngôn ngữ học) xát hẹp (âm)
+*  dt
+- (ngôn ngữ học) phụ âm xát hẹp
+
+@spire  
+*  dt
+- đường xoắn ốc
+- vòng xoắn; khúc cuộn (con rắn)
+- chóp hình nón, chóp nhọn (tháp...); tháp hình chóp
+- vật hình chóp nón thuôn
+- (thực vật học) ngọn thân (kể từ chỗ bắt đầu có cành trở lên); cọng (cỏ)
+*  ndgt
+- mọc thẳng lên, đâm vút lên
+*  ngdgt
+- xây tháp hình chóp cho
+
+@spirea   (spirea) @spireme
+* dt
+- (sinh học) sợi xoắn (thể nhiễm sắc)
+ @spiriferous
+* tt
+- có thể xoắn
+ @spirilla  
+*  dt,  số nhiều spirillla
+- khuẩn xoắn
+
+@spirillum  
+*  dt,  số nhiều spirillla
+- khuẩn xoắn
+
+@spirit  
+*  dt
+- tinh thần
+- linh hồn, tâm hồn
+- thần linh, thần thánh, quỷ thần
+- tinh thần; lòng can đảm; sự hăng hái, nhiệt tình; nghị lực; khí thế
+
++ a man of unbending spirit: người có tinh thần bất khuất
+
++ the poor in spirit: những người nhu nhược
+
++ to show a great spirit: to ra rất can đảm
+
++ he infused spirit into his men: anh ta truyền nhiệt tình cho đồng đội
+
++ people of spirit: người giàu nghị lực
+- tinh thần, thái độ tinh thần, điều kiện tinh thần
+
++ the result depends on the spirit in which it is done: kết quả tuỳ thuộc vào tinh thần thực hiện công việc
+- ảnh hưởng tinh thần; xu hướng tinh thần
+
++ the spirit of the age: xu hướng tinh thần của thời đại
+- tinh thần, nghĩa đúng
+
++ the spirit of the law: tinh thần của pháp luật
+
++ we have followed out the spirit of his instructions: chúng ta đã theo đúng tinh thần những chỉ thị của ông ta
+- linh hồn, trụ cột
+
++ to be the animating spirit of the uprising: là linh hồn thôi thúc cuộc nổi dậy
+- bộ óc (bóng)
+
++ one of the most ardent spirits of the time: một trong những bộ óc nồng nhiệt nhất của thời đại
+- ((thường) số nhiều) rượu mạnh
+- (số nhiều) (dược học) cồn thuốc
+!to be in high (great) spirits
+- vui vẻ phấn khởi, phấn chấn
+!to be in low (poor) spirits
+- buồn rầu, chán nản
+*  ngdgt
+- ((thường) : up) khuyến khích, cổ vũ, làm phấn khởi
+- chuyển nhanh, đưa biến, cuỗm nhẹ
+
++ to spirit something away: cuỗm nhẹ vật gì
+
++ to spirit someone off: đưa nhẹ người nào đi, đưa biến ai đi
+
+@spirit blue  
+*  dt
+- xanh rượu
+
+@spirited  
+*  tt
+- đầy tinh thần; sinh động, linh hoạt; hăng say; mạnh mẽ; dũng cảm, anh dũng
+
++ a spirited reply: câu trả lời linh hoạt
+
++ a spirited attack: một cuộc tấn công anh dũng
+- (trong từ ghép) có tinh thần (vui vẻ, tự hào...)
+
+@spiritedly
+* dt
+- đầy khí thế; sinh động; mạnh mẽ; hăng say; anh dũng
+ @spiritedness  
+*  dt
+- tính sinh động, tính linh hoạt; tính hăng say; tính mạnh mẽ; tính dũng cảm
+
+@spiritism  
+*  dt
+- thuyết thông linh ((cũng) spiritualism)
+
+@spiritistic
+* tt
+- thuộc thuyết thông linh
+ @spirit-lamp  
+*  dt
+- đèn cồn
+
+@spiritless  
+*  tt
+- không có tinh thần, yếu đuối, nhút nhát
+
+@spirit-level
+* dt
+- ống ni vô (ống nhỏ bằng thủy tinh đổ gần đầy nước hay cồn, để lại một bọt không khí, dùng để thử xem cái gì đó có nằm ngang không dựa vào vị trí của bọt khí)
+ @spiritoso
+* tt
+- (nhạc) hoạt bát
+ @spirit-rapper  
+*  dt
+- người đánh đồng thiếp
+
+@spirit-rapping  
+*  dt
+- sự đánh đồng thiếp
+
+@spiritual  
+*  tt
+- (thuộc) tinh thần
+- (thuộc) linh hồn, (thuộc) tâm hồn
+- (thuộc) thần thánh
+- (thuộc) tôn giáo
+
++ spiritual interests: quyền lợi tôn giáo
+- có đức tính cao cả, có trí tuệ khác thường (người)
+*  dt
+- bài hát tôn giáo của người Mỹ da đen ((cũng) Negro spiritual)
+
+@spiritualisation
+* dt
+- sự tinh thần hoá; sự cho một ý nghĩa tinh thần
+- sự đề cao, sự nâng cao
+- <hiếm> sự làm cho sinh động
+ @spiritualise   (spiritualise) @spiritualism  
+*  dt
+- thuyết duy linh
+- (như) spiritism
+
+@spiritualist  
+*  dt
+- người theo thuyết duy linh
+
+@spiritualistic  
+*  tt
+- (thuộc) thuyết duy linh
+
+@spirituality  
+*  dt
+- tính chất tinh thần
+- (số nhiều) tài sản của nhà thờ
+
+@spiritualization  
+*  dt
+- sự tinh thần hoá; sự cho một ý nghĩa tinh thần
+- sự đề cao, sự nâng cao
+- (từ hiếm,nghĩa hiếm) sự làm cho sinh động
+
+@spiritualize   (spiritualise) @spiritually
+* dt
+- (thuộc) tinh thần; (thuộc) linh hồn @spiritualness  
+*  dt
+- tính chất tinh thần
+- tính chất tôn giáo
+
+@spiritualty
+* dt
+- xem spirituality
+ @spirituel   (spirituelle) @spirituelle
+* tt
+- ý nhị, sắc sảo (đàn bà)
+ @spirituous  
+*  tt
+- có chất rượu (đồ uống)
+
+@spirituousness  
+*  dt
+- sự có chất rượu
+
+@spirivalve  
+*  tt
+- có vỏ xoắn ốc
+- xoắn ốc (vỏ ốc)
+
+@spiro-
+- xem spir-
+- hình thái ghép có nghĩa hơi thở : spirograph dụng cụ ghi vận động khi thở
+ @spirochaeta  
+*  dt
+- khuẩn xoắn
+
+@spirochaetal
+* tt
+- gây bởi khuẩn xoắn
+ @spirochaete
+- Cách viết khác : spirochete 
+ @spirograph
+* dt
+- dụng cụ ghi vận động khi thở
+ @spirographic
+* tt
+- (thuộc) dụng cụ ghi vận động khi thở
+ @spirogyra
+* dt
+- (thực vật) loa tảo; tảo xoắn
+ @spiroid
+* tt
+- dạng xoắn
+ @spirometer  
+*  dt
+- (y học) cái đo dung tích phổi, cái đo phế dung
+
+@spirometry  
+*  dt
+- (y học) phép đo dung tích phổi, phép đo phế dung
+
+@spirt  
+*  dt
+- sự phun ra, sự vọt ra
+- tia (nước phun)
+*  ngdgt
+- làm phun ra, sự vọt ra
+*  ndgt
+- phun ra, vọt ra
+
+@spirula
+* dt
+- (động vật) mực vỏ xoắn
+ @spiry  
+*  tt
+- xoắn ốc
+- có chóp hình nón, có chóp nhọn
+
+@spit  
+*  dt
+- cái xiên (nướng thịt trong lò quay)
+- mũi đất (nhô ra biển)
+- bờ ngầm
+*  ngdgt
+- xiên (thịt để nướng trong lò quay)
+- đâm xuyên (nhô ra biển)
+- bờ ngầm
+*  ngdgt
+- xiên (thịt để nướng trong lò quay)
+- đâm xuyên (bằng gươm)
+*  dt
+- sự khạc, sự nhổ
+- sự phun phì phì (mèo)
+- nước bọt, nước dãi
+- cơn mưa lún phún, cơm mưa ngắn, trận mưa tuyết ngắn
+- trứng (sâu bọ)
+- (thông tục) vật giống như hệt, người giống như hệt
+
++ he is the very spit of his father: anh ta giống bố như hệt
+
++ the spit and image of somebody: (thông tục) người giống hệt ai
+*  ndgt spat
+- khạc, nhổ nước bọt
+
++ to spit in someone's face: nhổ vào mặt ai, khinh bỉ ai
+- phun phì phì (mèo)
+- làu bàu
+- mưa lún phún
+- bắn, toé (lửa); toé mực (bút)
+*  ngdgt
+- khạc, nhổ (nước bọt)
+- thốt ra, phun ra, nói to
+
++ to spit an oath: thốt ra một lời nguyền rủa
+!to spit at
+- phỉ nhổ (ai); coi (ai) như rác
+!to spit out
+- khạc ra
+- phun ra, nói hở ra (điều bí mật)
+!spit it out!
+- muốn nói gì thì nói nhanh lên!
+!to spit upon
+- (như) to spit at
+*  dt
+- mai (bề sâu xắn xuống đất bằng chiều dài của lưỡi mai)
+
++ to gig it two spits deep: đào sâu hai mai
+
+@spitball  
+*  dt
+- viên đạn giấy (giấy nhai nát, vê lại xong đem bắn)
+
+@spitchcock  
+*  dt
+- cá chình đã mổ và nướng; lươn đã mổ và nướng
+*  ngdgt
+- mổ và nướng (lươn, cá, chim...)
+
+@spitdevil  
+*  dt
+- pháo (để đốt) ((cũng) spitfire)
+
+@spite  
+*  dt
+- sự giận, sự không bằng lòng
+
++ to have a spite against someone: giận ai
+- sự thù oán; mối hận thù
+
++ to do something from (in, out of) pure spite: làm việc gì hoàn toàn vì thù hằn
+!in spite of
+- mặc dầu
+*  ngdgt
+- làm khó chịu, làm phiền, trêu tức
+
++ he did it to spite me: hắn làm như thế để trêu tức tôi
+!to cut off one's nose to spite one's face
+- (xem) nose
+
+@spiteful  
+*  tt
+- đầy hằn thù; hằn học
+
+@spitefully
+* dt
+- hằn học; đầy thù hận; tỏ ra ác ý, gây ra bởi ác ý
+ @spitefulness  
+*  dt
+- tính chất thù hằn; tính chất hằn học
+
+@spitfire  
+*  dt
+- người nóng tính; người đàn bà hay nổi cơn tam bành
+- (như) spitdevil
+- (hàng không),  (quân sự) máy bay xpitfai (khạc lửa)
+
+@spitpoison
+* dt
+- người ác độc; vu cáo; phỉ báng
+ @spitter  
+*  dt
+- người xiên thịt nướng
+- hươu (nai) non mới ra sừng
+- người hay khạc nhổ
+
+@spitting image  
+*  dt
+- (thông tục) sự giống hệt
+- vật giống hệt, người giống hệt
+
+@spittle  
+*  dt
+- nước bọt
+
+@spittoon  
+*  dt
+- cái ống nhỏ, cái ống phóng
+
+@spitz  
+*  dt
+- chó pomeran ((cũng) spitz dog)
+
+@spitz dog
+* dt
+- chó pomeran
+ @spiv  
+*  dt
+- (từ lóng) dân phe phẩy; dân chợ đen
+
+@spivvery
+* dt
+- (từ lóng) việc buôn gian bán lận
+ @splanchnic  
+*  tt
+- (thuộc) nội tạng
+
+@splanchnology  
+*  dt
+- tạng phủ học
+
+@splanchnotomy  
+*  dt
+- (y học) thủ thuật cắt dây thần kinh tạng
+
+@splash  
+*  dt
+- sự bắn toé (bùn, nước...); lượng (bùn nước...) bắn toé
+- tiếng (nước) bắn, tiếng (sóng) vỗ
+- (thông tục) lượng nước xôđa (để pha rượu uytky)
+- vết bùn, đốm bẩn
+- vế đốm (trên da súc vật)
+- phấn bột gạo (để thoa mặt)
+!to have a Splash
+- tắm rửa
+!to make a splash
+- làm cho nhiều người chú ý (bằng cách khoe của)
+*  ngdgt
+- té, văng, làm bắn toé
+
++ to splash somebody with water: té nước vào ai
+
++ to splash wawter about: lãng phí tiền của
+- điểm loáng thoáng, chấm loáng thoáng (để trang trí)
+*  ndgt
+- bắn lên, văng lên, bắn toé (bùn nước)
+- lội lõm bõm (trong bùn)
+
++ to splash across a muddy field: lội lõm bõm qua đồng lầy
+
+@splash headline  
+*  dt
+- đầu đề in to, đầu đề in chữ đậm (để khiến cho người đọc chú ý); đầu đề giật gân
+
+@splashback
+* dt
+- tấm vải hay gỗ để che tường khỏi bị nước, bùn bắn
+ @splash-board  
+*  dt
+- cái chắn bùn
+
+@splash-down  
+*  dt
+- sự hạ xuống nước (của con tàu vũ trụ)
+
+@splasher  
+*  dt
+- người làm bắn toé (bùn, nước...)
+- cái chắn bùn
+- cái chắn nước té vào tường (ở sau giá rửa mặt)
+
+@splashing
+* dt
+- tiếng sóng vỗ
+- sự phun nước
+- sự dìm ướt
+- sự bắn tung toé
+ @splash-proof
+* tt
+- chắn được tia phun; không bị bắn tung toé
+ @splashy  
+*  tt
+- làm bắn toé; dễ làm bắn toé, ướt át, bùn lầy
+- đầy vết bắn toé
+- (thông tục) hấp dẫn, làm chú ý
+
+@splat  
+*  dt
+- ván lưng ghế
+
+@splatter  
+*  ndgt
+- kêu lộp độp
+
++ rain splatters against window-panes: mưa rơi lộp bộp vào ô kính cửa sổ
+- nói lắp bắp
+*  ngdgt
+- nói lắp bắp khó hiểu
+
++ to splatter some French: lắp bắp mấy câu tiếng Pháp
+
+@splatter-dash  
+*  dt
+- tiếng động ầm ầm
+- sự ầm ĩ
+
+@splay  
+*  tt
+- rộng, bẹt, loe
+
++ splay mouth: miệng loe, miệng rộng
+- quay ra ngoài
+- (từ Mỹ,nghĩa Mỹ) vụng về; xấu xí
+- (từ Mỹ,nghĩa Mỹ) méo; xiên
+*  dt
+- sự mở rộng, sự lan rộng
+- mặt xiên, mặt vát (của cạnh cửa...)
+*  ngdgt
+- mở rộng, làm lan rộng
+- tạo mặt xiên, tạo mặt vát (cửa sổ, cửa ra vào...)
+- làm sai, làm trẹo (xương bả vai ngựa...)
+*  ndgt
+- có mặt xiên
+- xiên đi, nghiêng đi
+
+@splay-foot  
+*  dt
+- người có chân bẹt vẹo ra
+*  tt: (splay-footed) 
+@splay-footed  
+*  dt
+- người có chân bẹt vẹo ra
+*  tt: (splay-footed) 
+@spleen  
+*  dt
+- (giải phẫu) lách, tỳ
+- sự u uất, sự chán nản u buồn, sự buồn bực
+- sự hằn học; sự bực tức
+
++ to vent one's spleen upon someone: trút hết sự hằn học vào ai
+
+@spleenful   (spleenish) @spleenish   (spleenish) @spleenwort  
+*  dt
+- (thực vật học) cây tổ diều (thuộc loại dương xỉ)
+
+@spleeny   (spleenish) @splen-
+- hình thái ghép có nghĩa là lá lách : splenotomy thủ thuật mở lá lách
+- hình thái ghép có nghĩa là lá lách : splenotomy thủ thuật mở lá lách
+ @splenalgia  
+*  dt
+- (y học) bệnh đau lách
+
+@splenalgic  
+*  tt
+- (y học) đau lách
+
+@splendent  
+*  tt
+- lóng lánh, long lanh, có ánh kim (khoáng vật, cánh sâu bọ...)
+- (từ Mỹ,nghĩa Mỹ) rực rỡ, tráng lệ, lộng lẫy, huy hoàng
+- (từ Mỹ,nghĩa Mỹ) rạng rỡ
+
+@splendid  
+*  tt
+- rực rỡ, tráng lệ, lộng lẫy, huy hoàng
+
++ splendid palace: lâu đài tráng lệ
+
++ splendid victory: thắng lợi huy hoàng
+
++ splendid weather: trời tuyệt đẹp
+- (thông tục) hay, đẹp, tốt, tuyệt
+
++ a splendid chance of escape: một cơ hội tốt để trốn thoát
+
+@splendidly
+* dt
+- rực rỡ; huy hoàng; tráng lệ (cung điện); hoa mỹ; hiển hách (tiếng tăm); cực kỳ xa hoa (đời sống); oanh liệt (thắng lợi); hoa lệ (văn chương)
+- (thông tục) hay; cừ; tuyệt diệu hiếm có
+
++  a splendidly idea:một ý kiến tuyệt diệu
+ @splendiferous  
+*  tt
+- (thông tục);(đùa cợt) hay, tuyệt
+
+@splendor  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) splendour
+
+@splendorous
+* tt
+- xem splendourous
+ @splendour  
+*  dt
+- sự chói lọi, sự rực rỡ, sự lộng lẫy, sự huy hoàng ((từ Mỹ,nghĩa Mỹ) (cũng) splendor)
+
+@splendourous
+* tt
+- lộng lẫy; rực rỡ; tráng lệ; huy hoàng
+ @splenectomized
+* tt
+- bị cắt bỏ lách
+ @splenectomy  
+*  dt
+- (y học) thủ thuật cắt bỏ lách
+
+@splenetic  
+*  tt: (splenetical) 
+@splenetical  
+*  tt: (splenetical) 
+@splenetically
+* tt
+- thuộc lách
+- dễ nổi giận; cáu gắt
+ @splenial  
+*  tt
+- (y học) dùng để nẹp
+- (giải phẫu) (thuộc) cơ gối
+
+@splenic  
+*  tt
+- (thuộc) lách; trong lách
+
+@splenii  
+*  dt,  số nhiều splenii
+- (giải phẫu) cơ gối
+
+@splenitic  
+*  tt
+- (y học) (thuộc) viêm lách
+
+@splenitis  
+*  dt
+- (y học) viêm lách
+
+@splenitive
+* tt
+- dễ nóng giận; cáu gắt; bẳn tính
+ @splenius  
+*  dt,  số nhiều splenii
+- (giải phẫu) cơ gối
+
+@splenization  
+*  dt
+- (y học) sự lách hoá (của phổi)
+
+@spleno-
+- hình thái ghép có nghĩa là lá lách : splenotomy thủ thuật mở lá lách
+- hình thái ghép có nghĩa là lá lách : splenotomy thủ thuật mở lá lách
+ @splenocyte
+* dt
+- tế bào lách; bạch cầu nội biểu bì
+ @splenography
+* dt
+- sự chụp tia x lách
+ @splenoid  
+*  tt
+- dạng lách
+
+@splenology  
+*  dt
+- (y học) môn học về lách
+
+@splenomegaly
+* dt
+- (y học) chứng to lách
+ @splenopathy
+* dt
+- (y học) bệnh lách
+ @splenotomy  
+*  dt
+- (y học) thủ thuật mở lách
+
+@splice  
+*  dt
+- chỗ nối bện (hai đầu dây)
+- chỗ ghép; sự ghép (hai mảnh gỗ)
+!to sit on the splice
+- (thể dục,thể thao),  (từ lóng) chơi thế thủ, giữ thế thủ (crickê)
+*  ngdgt
+- nối bện (nối hai đầu dây, bằng cách bệnh sợi với nhau)
+- ghép (hai mảnh gỗ)
+- (thông tục) lấy vợ, lấy chồng, lấy nhau
+
++ when did they get spliced?: họ lấy nhau bao giờ?
+!to splice the main brace
+- (hàng hải) phát thêm rượu rum (cho thuỷ thủ)
+
+@splicer
+* dt
+- thiết bị để nối hai đoạn băng từ (phim, gỗ )
+ @splicing
+* dt
+- sự nối; ghép nối
+ @spline  
+*  dt
+- chốt trục (ở bánh xe
+- (như) slat
+
+@splining
+* dt
+- sự cắt rãnh then
+ @splint  
+*  dt
+- thanh nẹp
+- (thú y học) xương ngón treo (xương ngón II và IV đã teo nhỏ ở hai bên ngón chân ngựa)
+- bướu xương ngón treo (ngựa)
+- (giải phẫu) (như) splinter-bone
+*  ngdgt
+- bó (xương gãy) bằng nẹp
+
+@splinter  
+*  dt
+- mảnh vụn (gỗ, đá, đạn...)
+*  ngdgt
+- làm vỡ ra từng mảnh
+*  ndgt
+- vỡ ra từng mảnh
+
+@splinter group
+* dt
+- nhóm phân lập
+ @splinter party  
+*  dt
+- (chính trị) đảng phân lập (tách ra từ một đảng lớn)
+
+@splinter-bar  
+*  dt
+- trục xe
+
+@splinter-bone  
+*  dt
+- (giải phẫu) xương mác ((cũng) splint)
+
+@splintering
+* dt
+- sự bong (tróc) mảnh
+ @splinter-proof  
+*  tt
+- chống mảnh đạn, chống mảnh bom
+
++ splinter-proof helmet: mũ sắt chống mảnh đạn
+
+@splintery  
+*  tt
+- có mảnh vụn
+- giống mảnh vụn
+- dễ vỡ thành mảnh vụn, sự chia rẽ (trong đảng phái)
+- kẽ hở, đường nứt
+- mây sợi, sợi liễu gai (để đan)
+- lớp da tách ra, lớp da lạng ra (da súc vật)
+- nửa chai nước hơi; nửa cốc rượu mùi
+- (số nhiều) sự ngồi xoạc chân
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) của chia (của ăn cướp được)
+
+@splipy  
+*  tt
+- (thông tục) (như) slippery
+!to look (be) slippy
+- (từ lóng) vội vã, đi ba chân bốn cẳng
+
+@split  
+*  tt
+- nứt, nẻ, chia ra, tách ra
+*  ngdgt split
+- ghẻ, bửa, tách
+- chia ra từng phần
+
++ to split the job: chia việc
+
++ to split a sum of money: chia một số tiền
+- chia rẽ (ý kiến) về một vấn đề, làm chia rẽ, gây bè phái (trong một đảng phái)
+- (hoá học); (vật lý) làm vỡ (hạt nhân), tách (phân tử)
+*  ndgt
+- nứt, vỡ, nẻ
+- chia rẽ, phân hoá, không nhất trí
+
++ to split on a question: không nhất trí về một vấn đề
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) chia nhau
+!to spit off (up)
+- làm vỡ ra; vỡ ra, tách ra
+!to split the difference
+- lấy số trung bình
+- thoả hiệp
+!to split hairs
+- chẻ sợi tóc làm tư
+!to split one's sides
+- cười vỡ bụng
+!to spilt on someone
+- (từ lóng) tố cáo ai; phản ai
+!to split one's vote
+- bỏ phiếu cho ứng cử viên đối lập
+!head is splitting
+- đầu nhức như búa bổ
+
+@split
+- cắt đoạn, chia đoạn
+ @split infinitive  
+*  dt
+- (ngôn ngữ học) dgt ở lối vô định bị tách ra (bởi dt) (ví dụ he decided to gradually changer his procedure)
+
+@split peas
+* dt
+- hạt đậu khô tách làm đôi
+ @split personality
+* dt
+- chứng tâm thần phân lập
+ @split pin  
+*  dt
+- (kỹ thuật) chốt chẻ
+
+@split ring  
+*  dt
+- vòng móc chìa khoá
+
+@split shift
+* dt
+- ca có hai hoặc nhiều kỳ phải trực
+ @split ticket
+* dt
+- <Mỹ>  <chtrị> phiếu bầu bỏ cho những ứng cử viên của nhiều đảng
+ @spliting
+* tt
+- rất nhức (đặc biệt là đau đầu)
+ @split-level
+* tt
+- (nhà, phòng) có sàn của phòng này ở vào nửa chừng (cao hơn hay thấp hơn) phòng bên cạnh
+ @split-phase
+* dt
+- (điện) pha phụ; dòng lệch pha
+ @split-pin
+* dt
+- chốt chẽ
+ @split-ring
+* dt
+- vòng mắc chìa khoá (gồm hai vòng lấy ra và đưa vào được)
+ @split-screen
+* dt
+- màn ảnh có hai cảnh khác nhau chắp nối cùng hiện lên đồng thời
+ @split-second
+* dt
+- một lúc rất ngắn; giây lát
+* tt
+- rất nhanh, chính xác
+ @splittable
+- tách được
+ @splitter  
+*  dt
+- người tách ra, người chia rẽ
+- cái để tách ra, cái để tẽ ra
+- cơn nhức đầu như búa bổ
+
+@splitting
+* tt
+- rất nhức (đặc biệt là đau đầu)
+
++  I've got a splitting headache:tôi bị nhức đầu như búa bổ
+* dt
+- sự phân cắt; tách đôi
+- sự phân nhóm; phân chia; chẻ tách
+ @splitting-up
+* dt
+- sự tách vỡ
+- sự tách đường tàu
+ @splittism  
+*  dt
+- (chính trị) chủ nghĩ bè phái, chủ nghĩa chia rẽ
+
+@splodge  
+*  dt: (splodge) 
+@splosh  
+*  dt
+- (thông tục) lượng nước đổ xuống, lượng nước hắt xuống
+- (từ lóng) tiền bạc, xìn
+
+@splotch  
+*  dt: (splodge) 
+@splotchy  
+*  tt
+- có vết bẩn, có dấu (mực...)
+
+@splurge  
+*  dt
+- (từ lóng) sự phô trương rầm rộ; sự loè người; sự cố gắng để phô trương
+*  ndgt
+- (từ lóng) phổ trương rầm rộ; loè bịp; cố gắng để phổ trương
+
+@splutter   (splutter) @splutterer  
+*  dt
+- người nói lắp bắp, người nói ấp úng
+
+@spode
+* dt
+- đồ sứ tinh xảo
+ @spodumene
+* dt
+- (khoáng) Spođumen (silicat nhôm-liti)
+ @spoffish  
+*  tt
+- (từ lóng) lăng xăng, nhắng nhít
+
+@spoil  
+*  dt
+- (số nhiều) chiến lợi phẩm
+- lợi lộc, quyền lợi (sau khi chiến thắng)
+-(đùa cợt) bổng lộc, lương lậu
+- (đánh bài) sự hoà
+- đất đá đào lên, đất bùn nạo vét lên
+*  ngdgt spoiled,  spoilt
+- cướp phá, tước đoạt, cướp đoạt
+- làm hư, làm hỏng, làm hại
+
++ the performance was spoilt by the rain: mưa làm hỏng cả cuộc biểu diễn
+
++ the news spoilt his dinner: tin đó làm cho anh ta ăn cơm mất ngon
+- làm hư (một đứa trẻ)
+
++ a spoilt child: một đứa trẻ hư (vì nuông chiều)
+- (từ lóng) chặt chân tay (ai); giết, khử
+*  ndgt
+- thối, ươn (quả, cá...)
+
++ these fruit will not spoil with keeping: những quả này để lâu không thối
+- mất hay, mất thú (câu chuyện đùa)
+- (chỉ động tt hiện tại) hăm hở, hậm hực muốn
+
++ to be spoiling for a fight: hậm hực muốn đánh nhau
+!spare the rod and spoil the child
+- (xem) rod
+
+@spoil system  
+*  dt
+- chế độ ưu tiên dành chức vị (cho đảng viên đảng thắng lợi trong cuộc tuyển cử)
+
+@spoilage  
+*  dt
+- sự làm hỏng, sự làm hư; sự bị hỏng
+- cái bị làm hỏng
+- giấy in bông
+
+@spoiler  
+*  dt
+- người làm hư, người làm hỏng
+
+@spoils
+* dt, pl
+- hàng hoá ăn cắp được
+- chiến lợi phẩm
+- lợi lộc, bổng lộc
+ @spoilsman  
+*  dt
+- người ủng hộ (đảng tranh cử) để kiếm chức vị
+
+@spoil-sport  
+*  dt
+- người phá bĩnh, người phá đám
+
+@spoilt  
+*  dt
+- (số nhiều) chiến lợi phẩm
+- lợi lộc, quyền lợi (sau khi chiến thắng)
+-(đùa cợt) bổng lộc, lương lậu
+- (đánh bài) sự hoà
+- đất đá đào lên, đất bùn nạo vét lên
+*  ngdgt spoiled,  spoilt
+- cướp phá, tước đoạt, cướp đoạt
+- làm hư, làm hỏng, làm hại
+
++ the performance was spoilt by the rain: mưa làm hỏng cả cuộc biểu diễn
+
++ the news spoilt his dinner: tin đó làm cho anh ta ăn cơm mất ngon
+- làm hư (một đứa trẻ)
+
++ a spoilt child: một đứa trẻ hư (vì nuông chiều)
+- (từ lóng) chặt chân tay (ai); giết, khử
+*  ndgt
+- thối, ươn (quả, cá...)
+
++ these fruit will not spoil with keeping: những quả này để lâu không thối
+- mất hay, mất thú (câu chuyện đùa)
+- (chỉ động tt hiện tại) hăm hở, hậm hực muốn
+
++ to be spoiling for a fight: hậm hực muốn đánh nhau
+!spare the rod and spoil the child
+- (xem) rod
+
+@spoke  
+*  thời quá khứ của speak
+*  dt
+- cái nan hoa
+- bậc thang, nấc thang
+- tay quay (của bánh lái)
+- que chèn, gậy chèn (để chặn xe ở đường dốc)
+
++ to put a spoke in somebody's wheel: thọc gậy vào bánh xe của ai; ngăn cản bước tiến của ai; ngăn chặn ý đồ của ai
+*  ngdgt
+- lắp nan hoa
+- chèn (bắp xe) bằng gậy; thọc gậy vào (bánh xe)
+
+@spoke-bone  
+*  dt
+- (giải phẫu) xương quay
+
+@spoken  
+*  ndgt spoke,  (từ cổ,nghĩa cổ) spake; spoken
+- nói
+
++ to learn to speak: tập nói
+- nói với, nói chuyện, nói lên
+
++ I will speak to him about it: tôi sẽ nói chuyện với anh ta về vấn đề đó
+
++ actions speak louder than words: việc làm nói lên nhiều hơn lời nói
+- phát biểu, diễn thuyết, đọc diễn văn (ở hội nghị)
+- sủa (chó)
+- nổ (súng)
+- kêu (nhạc khí)
+- giống như thật, trông giống như thật
+
++ this portrait speaks: bức ảnh giống như thật
+*  ngdgt
+- nói (một thứ tiếng)
+
++ he can speak English: nó nói được tiếng Anh
+- nói, nói lên
+
++ to speak the truth: nói sự thật
+- nói rõ, chứng tỏ
+
++ this speaks him generous: điều đó chứng tỏ anh ta rộng lượng
+- (hàng hải) gọi, nói chuyện với (tàu thuỷ... bằng rađiô)
+!to speak at
+- ám chỉ (ai)
+!to speak for
+- biện hộ cho (ai)
+- là người phát ngôn (của ai)
+- nói rõ, chứng minh cho
+
++ that speaks much for your courage: điều đó nói rõ lòng can đảm của anh
+!to speak of
+- nói về, đề cập đến; viết đến
+
++ nothing to speak of: chẳng có gì đáng nói
+!to speak out
+- nói to, nói lớn
+- nói thẳng, nói toạc ý kiến của mình
+
++ to speak out one's mind: nghĩ sao nói vậy
+!to speak to
+- nói về (điều gì) (với ai)
+- khẳng định (điều gì)
+
++ I can speak to his having been there: tôi có thể khẳng định là anh ta có đến đó
+!to speak up
+- nói to hơn
+- nói thẳng, nói toạc ý kiến của mình
+!so to speak
+- (xem) so
+!to speak like a book
+- (xem) book
+!to speak someone fair
+- (xem) fair
+!to speak volumes for
+- (xem) volume
+!to speak without book
+- nói không cần sách, nhớ mà nói ra
+
+@spoken-for
+* tt
+- hứa hôn với
+ @spokeshave  
+*  dt
+- cái bào khum
+
+@spokesman  
+*  dt
+- người phát ngôn
+
+@spokesperson
+* dt
+- người nói hoặc được chọn để nói (thay mặt cho một nhóm); người phát ngôn (cả nam lẫn nữ)
+ @spokeswoman
+* dt
+- nữ phát ngôn
+ @spokewise  
+*  dt
+- xoè ra, toả tròn ra (như nan hoa)
+
+@spoking-machine  
+*  dt
+- máy lắp nan hoa (cho nghiêng đều)
+
+@spoliate  
+*  ngdgt
+- cướp đoạt; cướp phá
+
+@spoliation  
+*  dt
+- sự cướp đoạt, sự cướp phá (tàu của một nước trung lập)
+- (nghĩa bóng) sự tống tiền
+- (pháp lý) sự huỷ; sự sửa đổi, sự cắt xén (tài liệu, để khỏi bị dùng làm tang chứng)
+
+@spoliator  
+*  dt
+- người cướp đoạt
+- (pháp lý) người huỷ; người sửa, người cắt xén (tài liệu, để khỏi bị dùng làm tam chứng)
+
+@spoliatory  
+*  tt
+- có tính chất cướp đoạt; có tính chất cướp phá
+
+@spondaic  
+*  tt
+- (thơ ca) (thuộc) âm tiết xponđê
+- có xponđê ở âm tiết thứ năm (thể thơ)
+
+@spondaical
+* tt
+- (thuộc) bộ thơ gồm hai âm tiết dài hay có trọng âm
+ @spondee  
+*  dt
+- âm tiết xponđê (thơ)
+
+@spondilus
+* dt
+- đốt sống
+- (động vật) hải cúc
+ @spondulicks  
+*  dt số nhiều
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tiền, xìn
+
+@spondyl   (spondyle) @spondyle   (spondyle) @spondylitis
+* dt
+- viêm đốt sống
+ @spondylotherapeutics
+* dt
+- (y học) cách chữa đốt sống
+ @spondylotherapy
+* dt
+- xem spondylotherapeutics
+ @spondylous
+* tt
+- có đốt sống
+ @sponge  
+*  dt
+- bọt biển
+- cao su xốp (để tắm...)
+- vật xốp và hút nước (như bọt biển); gạc
+- người uống rượu như uống nước lã
+- người ăn bám, người ăn chực
+!to pass the sponge over
+- bỏ qua, tha thứ (một lỗi lầm)
+!to throw up the sponge
+- (xem) throw
+*  ngdgt
+- lau, chùi, cọ (bằng bọt biển)
+- ((thường) : out) tẩy, xoá (bằng bọt biển); xoá nhoà (ký ức...)
+- hút nước (bằng bọt biển)
+- bòn rút (bằng cách nịnh nọt)
+*  ndgt
+- vớt bọt biển
+- (: on,  upon) ăn bám, ăn chực
+
++ to sponge on someone for tobacco: hút chực thuốc của ai
+- hút nước (như bọt biển)
+!to sponge down
+- xát, cọ (bằng bọt biển)
+!to sponge off
+- lau, chùi (vết mực... bằng bọt biển)
+!to sponge up
+- hút, thấm (bằng bọt biển)
+
+@sponge-bag
+* dt
+- túi không thấm nước (để bỏ thuốc đáng răng, xà phòng  nhất là khi đi du lịch)
+ @sponge-bath  
+*  dt
+- sự lau người bằng bọt biển
+- chậu thau to để lau người
+
+@sponge-berry
+* dt
+- (thực vật) cây chùm bao
+ @sponge-cake  
+*  dt
+- bánh xốp
+
+@sponge-cloth  
+*  dt
+- vải xốp; khăn xốp
+
+@sponge-cover
+* dt
+- vải bọc súng lớn
+ @spongeous
+* tt
+- xốp; nhiều lỗ hổng
+ @sponge-pudding
+* dt
+- bánh pút đinh tựa như bánh xốp
+ @sponger  
+*  dt
+- người vớt bọt biển; chậu vớt bọt biển
+- người lau chùi bằng bọt biển
+- người ăn bám, người ăn chực
+- người bòn rút (bằng cách nịnh nọt)
+
+@spongiform  
+*  tt
+- giống bọt biển
+
+@spongin
+* dt
+- chất xốp (bọt biển)
+ @sponginess  
+*  dt
+- tính mềm xốp; tính hút nước (như bọt biển)
+- sự lỗ rỗ
+
+@sponging  
+*  dt
+- sự vớt bọt biển
+- sự lau chùi bằng bọt biển, sự rửa bằng bọt biển
+- sự ăm bám, sự ăn chực
+- sự bòn rút (bằng cách nịnh nọt)
+
+@sponging-house  
+*  dt
+- (sử học) nhà tạm giam con nợ
+
+@spongioblast
+* dt
+- nguyên bào chất xốp
+ @spongy  
+*  tt
+- như bọt biển; mềm xốp, hút nước (như bọt biển)
+- rỗ, lỗ rỗ
+
+@sponsion  
+*  dt
+- (pháp lý) sự đảm bảo, sự cam kết, sự cam đoan
+- sự cam kết do một người không có uỷ quyền chính thức
+
+@sponson  
+*  dt
+- cánh sườn (chỗ nhổ ra ở hai bên sườn tàu)
+
+@sponsor  
+*  dt
+- cha đỡ đầu, mẹ đỡ đầu
+- người bảo đảm
+- người thuê quảng cáo; hãng thuê quảng cáo (quảng cáo hàng của mình ở đài phát thanh hay truyền hình)
+
+@sponsorial  
+*  tt
+- đỡ đầu
+- bảo đảm
+
+@sponsorship  
+*  dt
+- trách nhiệm của cha đỡ đầu, trách nhiệm của mẹ đỡ đầu
+
+@spontaneity   (spontaneousness) @spontaneous  
+*  tt
+- tự động, tự ý
+
++ to make a spontaneous offer of one's services: tự ý xung phong phục vụ
+- tự phát, tự sinh
+
++ spontaneous development: sự phát triển tự phát
+
++ spontaneous generation: sự tự sinh
+- thanh thoát, không gò bó (văn)
+
+@spontaneous
+- tự phát; tức thời
+ @spontaneous combustion
+* dt
+- sự tự cháy (tự cháy do biến đổi <hóa>
+ @spontaneously
+* dt
+- tự động, tự ý
+- tự phát, tự sinh
+- thanh thoát, tự nhiên, không ép buộc, không gò bó, không ngượng ngập (văn )
+ @spontaneousness   (spontaneousness) @spontoon  
+*  dt
+- (sử học) cái thương, cái giáo
+
+@spoof  
+*  dt
+- (từ lóng) sự lừa gạt, sự lừa phỉnh, sự đánh lừa
+*  ngdgt
+- (từ lóng) lừa gạt, lừa phỉnh, đánh lừa
+- (từ Mỹ,nghĩa Mỹ) đùa cợt
+
+@spoofer  
+*  dt
+- (từ lóng) kẻ đánh lừa, kẻ bịp
+
+@spook  
+*  dt
+-(đùa cợt) ma quỷ
+
+@spookiness
+* dt
+- tình trạng gợi lên sự sợ hãi, sự làm cho hoảng sợ; tính chất như ma quỷ
+ @spookish   (spooky) @spooky   (spooky) @spool  
+*  dt
+- ống chỉ, ống cuộn (chỉ, phim...), cái vòng (câu quăng)
+*  ngdgt
+- cuộn (chỉ...) vào ống
+
+@spool
+- cuộn dây
+ @spooler
+- Một chương trình thường nằm trong số những trình tiện ích của hệ điều hành, dùng để hướng các lệnh in cất tạm vào một tệp trên đựa hoặc trong RAM thay vì vào máy in, sau đó sẽ phát các lệnh in này ra khỏi bộ xử lý trung tâm CPU) rỗi
+ @spooling
+- (1) Một tiến trình mà trong đó nhiều thiết bị vào ra dường như hoạt động đồng thời, trong khi thực tế hệ thống đưa dữ liệu vào hoặc ra qua bộ đệm
+- (2) Dữ liệu được lưu trữ tạm thời trên các tập đựa hoặc băng từ cho tới khi một bộ phận khác của hệ thống sẵn sàng xử lí nó
+ @spoon  
+*  dt
+- cái thìa
+- vật hình thìa
+!to be born with a silver spoon in one's mouth
+- sinh trưởng trong một gia đình sung túc; sướng từ trong trứng sướng ra
+!to have a long spoon tha sups with the devil
+- đánh đu với tinh
+*  ngdgt
+- ăn bằng thìa, múc bằng thìa
+
++ to spoon (up) one's soup: ăn cháo bằng thìa
+- câu (cá) bằng mồi thìa (x spoon-bait)
+- (thể dục,thể thao) đánh nhẹ (bóng crickê)
+*  ndgt
+- câu cá bằng mồi thìa
+- (thể dục,thể thao) đánh nhẹ bóng (crickê)
+*  dt
+- (từ lóng) anh chàng quỷnh
+- anh nhân tình say như điếu đổ
+
++ to be spoons on somebody: phải lòng ai, mê ai như điếu đổ
+*  dgt
+- (thông tục) ve vãn, tán tỉnh
+- vuốt ve hôn hít
+
+@spoon-bait  
+*  dt
+- môi thìa (mồi bằng kim loại, hình thìa, để nhử cá)
+
+@spoonbeak   (spoon-bill) @spoon-bill   (spoon-bill) @spoon-billed
+* tt
+- có miệng dẹt ở đầu như cái thìa
+ @spoon-bread
+* dt
+- (từ Mỹ, nghĩa Mỹ) bánh ngô làm với sữa, trứng, ăn bằng thìa
+ @spoon-drift   (spoon-drift) @spooner  
+*  dt
+- người nói ngọng
+
+@spoonerism  
+*  dt
+- sự nói ngọng
+
+@spooney  
+*  tt: (spooney) 
+@spoon-fed  
+*  tt
+- được khuyến khích nâng đỡ bằng biện pháp giả tạo (bằng tiền trợ cấp và hàng rào thuế quan) (công nghiệp)
+- bị nhồi nhét (bị làm mất hết trí sáng tạo và sự suy nghĩ độc lập)
+- (từ Mỹ,nghĩa Mỹ) được nuôi chiều quá, được cưng quá
+
+@spoon-feed
+* ngdgtspoon-fed:cho (trẻ am ) ăn bằng thìa
+- nhồi nhét, dạy quá nhiều (đến nỗi không còn để cho họ tự mình suy nghĩ); giúp đỡ tận miệng
+ @spoonful  
+*  dt
+- thìa (đầy)
+
+@spoonily  
+*  dt
+- khờ dại, quỷnh
+- mê tít
+
+@spooniness  
+*  dt
+- sự khờ dại, sự dại dột
+- sự phải lòng (ai), sự mê tít (ai)
+
+@spoon-meat  
+*  dt
+- thức ăn lỏng; thức ăn cho trẻ con
+
+@spoon-net  
+*  dt
+- cái vợt hứng cá
+
+@spoons  
+*  dt số nhiều
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tiền, xìn
+
+@spoon-shaped
+* tt
+- dạng thìa
+ @spoony  
+*  tt: (spooney) 
+@spoor  
+*  dt
+- dấu đi (súc vật), vết chân (súc vật); hơi (súc vật)
+*  dgt
+- theo dấu (súc vật); theo hơi (súc vật)
+
+@spor-
+- hình thái ghép có nghĩa hạt; bào tử : sporicide thuốc diệt bào tử
+- hình thái ghép có nghĩa hạt; bào tử : sporicide thuốc diệt bào tử
+ @sporadic   (sporadical) @sporadical   (sporadical) @sporadic(al)
+- bất định (hiểu theo nghĩa ở nhiều nơi)
+ @sporadically
+* dt
+- rời rạc, lác đác
+- thỉnh thoảng, không thường xuyên, xảy ra không đều đặn, lâu lâu một lần
+ @sporadicalness  
+*  dt
+- tính chất rời rạc, tính chất lác đác
+- tính chất thỉnh thoảng, tính chất không thường xuyên
+
+@sporangia  
+*  dt,  số nhiều sporangia
+- (thực vật học) túi bao tử
+
+@sporangial
+* tt
+- thuộc túi bào tử
+ @sporangium  
+*  dt,  số nhiều sporangia
+- (thực vật học) túi bao tử
+
+@spore  
+*  dt
+- (sinh vật học) bào tử
+- (nghĩa bóng) mầm, mầm mống
+
+@spore-case  
+*  dt
+- (sinh vật học) (như) sporangium
+
+@spore-formation
+* dt
+- sự tạo (hình thành) bào tử
+ @sporeling
+* dt
+- bào tử con
+ @spori-
+- xem spor-
+ @sporicide
+* dt
+- thuốc diệt (trừ) bào tử
+ @sporiferous  
+*  tt
+- (thực vật học) có bào tử, mang bào tử
+
+@sporification
+* dt
+- sự hình thành bào tử
+ @sporogenesis  
+*  dt
+- (sinh vật học) sự phát sinh bào tử
+
+@sporogenous  
+*  tt
+- (sinh vật học) sinh bào tử
+
+@sporophyl   (sporophyll) @sporophyll   (sporophyll) @sporophyte  
+*  dt
+- (thực vật học) thể bào tử
+
+@sporozoan  
+*  dt
+- (động vật học) trùng bào tử
+*  tt
+- (động vật học) (thuộc lớp) trùng bào tử
+
+@sporran  
+*  dt
+- túi da (một bộ phận của y phục người miền núi Ê-cốt)
+
+@sport  
+*  dt
+- thể thao
+
++ inter-university sports: cuộc thi thể thao giữa các trường đại học
+
++ athletic sports: điền kinh, cuộc thi điền kinh
+- sự giải trí; sự chơi đùa, sự nô đùa; trò đùa, trò cười, trò trớ trêu
+
++ in sport: đùa, chơi
+
++ to make sport of somebody: trêu ai
+
++ to be the sport of Fortune: là trò trớ trêu của số mệnh, bị số mệnh trớ trêu
+- cuộc giải trí, cuộc vui chơi ngoài trời (đi săn, đi câu...)
+- (từ lóng) người tốt, người có tinh thần tượng võ, người thẳng thắn, người trung thực, người có dũng khí
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) con bạc
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) anh chàng ăn diện, công tử bột
+- (sinh vật học) biến dị
+*  ndgt
+- giải trí; chơi đùa, nô đùa, đùa cợt; trêu chòng
+- (sinh vật học) biến dị
+*  ngdgt
+- chưng, diện
+
++ to sport a gold tie-clip: chưng cái kẹp ca vát bằng vàng
+!to sport away
+- tiêu phí (thời gian...) bằng nô đùa, chơi thể thao...
+!to sport one's oak
+- (xem) oak
+
+@sportful  
+*  tt
+- vui đùa, nô đùa, vui vẻ
+
+@sportily
+* tt
+- ham mê thể thao, giỏi về thể thao
+- diện, bảnh bao
+- thượng võ, thẳng thắn, trung thực, dũng cảm
+ @sportiness  
+*  dt
+- tính chất thể thao; tính thích thể thao
+- tính thượng võ, tính thẳng thắn, tính trung thực; sự dũng cảm
+- tính loè loẹt, tính chưng diện (quần áo...)
+
+@sporting  
+*  tt
+- (thuộc) thể thao; thích thể thao
+
++ a sporting man: người thích thể thao
+- thượng võ, thẳng thắn, trung thực; dũng cảm
+
+@sporting chance  
+*  dt
+- cơ hội có thể thắng có thể bại, cơ hội có thể mất có thể được
+
+@sporting house  
+*  dt
+- (thông tục) nhà chứa, nhà thổ
+- (từ cổ,nghĩa cổ) sòng bạc, quán rượu
+
+@sportive  
+*  tt
+- vui tính, hay đùa cợt
+- để đùa, có tính chất đùa cợt
+
+@sportiveness  
+*  dt
+- tính chất vui đùa, tính chất đùa cợt
+- (số nhiều) tính biến dị
+
+@sports car
+* dt
+- xe hơi đua
+ @sports field   (sports_ground) @sports ground   (sports_ground) @sports writer
+* dt
+- người viết về đề tài thể thao (nhất là nhà báo)
+ @sports-car  
+*  dt
+- xe đua
+
+@sportscast
+* dt
+- buổi phát thanh hoặc truyền hình tin tức thể thao hoặc cuộc thi đấu thể thao
+ @sportscaster
+* dt
+- người bình luận thể thao trong chương trình phát thanh hoặc truyềnhinh
+ @sports-coat  
+*  dt
+- áo choàng rộng
+
+@sports-editor  
+*  dt
+- chủ nhiệm mục thể thao (trong báo)
+
+@sports-jacket  
+*  dt
+- áo vét rộng
+
+@sportsman  
+*  dt
+- người thích thể thao; nhà thể thao
+- người có tinh thần thượng võ, người thẳng thắn, người trung thực; người có dũng khí
+
+@sportsmanlike  
+*  tt
+- xứng đáng với một nhà thể thao, hợp với nhà thể thao
+- đúng là một người có tinh thần thượng võ, đúng là một người thẳng thắn, đúng là một người trung thực; đúng là một người có dũng khí
+
+@sportsmanship  
+*  dt
+- tinh thần thể thao
+- tài nghệ thể thao
+- tính thượng võ, tính thẳng thắn, tính trung thực; dũng khí
+
+@sportswear  
+*  dt
+- quần áo thể thao
+
+@sportswoman  
+*  dt
+- người đàn bà thích thể thao, người đàn bà chơi thể thao
+
+@sporty  
+*  tt
+- (thông tục) thể thao, có tính chất thể thao
+- thượng võ, thẳng thắn, trung thực, dũng cảm
+- loè loẹt, chưng diện (quần áo...)
+
+@sporulate  
+*  ndgt
+- (sinh vật học) hình thành bào tử
+
+@sporulation  
+*  dt
+- (sinh vật học) sự hình thành bào tử
+
+@sporule  
+*  dt
+- (sinh vật học) bào tử, bào tử nhỏ
+
+@spot  
+*  dt
+- dấu, đốm, vết
+
++ a brown tie with red spots: cái ca vát nâu có đốm đỏ
+- vết nhơ, vết đen
+
++ without a spot on one's reputation: danh tiếng không bị vết nhơ nào
+- chấm đen ở đầu bàn bi-a
+- (động vật học) cá đù chấm
+- bồ câu đốm
+- nơi, chốn
+
++ a retired spot: một nơi hẻo lánh
+- (từ lóng) sự chấm trước (ngựa đua được cuộc); con ngựa được chấm (về nhất)
+- (thông tục) một chút, một ít (rượu, nước)
+- (từ lóng) đèn sân khấu ((cũng) spotlight)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) địa vị, chỗ làm ăn, chức vụ; vị trí trong danh sách
+
++ he has got a good spot with that firm: hắn vớ được chỗ bở ở hãng đó
+!to hit the hight spot
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) chỉ bàn đến những vấn đề chính (trong một cuộc thảo luận ngắn...)
+!to hit the spot
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) thoả mãn điều thèm muốn, thoả mãn cái đang cần
+!in a spot
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) trong hoàn cảnh xấu, trong hoàn cảnh khó khăn lúng túng
+!on the spot
+- ngay lập tức, tại chỗ
+- tỉnh táo (người)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lâm vào cảnh khó khăn lúng túng
+!to put someone on the spot
+- (từ lóng) quyết định khử ai, thịt ai
+!a tender spot
+- (xem) tender
+*  ngdgt
+- làm đốm, làm lốm đốm
+- làm bẩn, làm nhơ, làm ô (danh)
+- (thông tục) chấm trước (ngựa được cuộc); nhận ra, phát hiện ra
+
++ to spot somebody in the crowd: nhận ra ai trong đám đông
+- (quân sự),  (hàng không) phát hiện (vị trí, mục tiêu...)
+- đặt vào chỗ, đặt vào vị trí
+
++ the officer spotted his men at strategic points: viên sĩ quan bố trí quân của mình vào những điểm chiến lược
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chấp
+
++ I spotted him two points: tôi chấp hẳn hai điểm
+*  ndgt
+- dễ bị ố, dễ bị đốm (vải)
+*  tt
+- mặt (tiền); trả tiền ngay; trao ngay khi bán
+
++ spot cash: tiền mặt
+
++ spot wheat: lúa mì bán trả tiền ngay
+- (từ Mỹ,nghĩa Mỹ) phát đi từ một đài phát thanh địa phương (bản tin...)
+- (từ Mỹ,nghĩa Mỹ) xen vào giữa chương trình phát thanh chính (quảng cáo...)
+
+@spot
+- vết; vị trí; (toán kinh tế) sự kiện có
+- asymptotic s. (giải tích) vị trí tiệm cận 
+ @spot cash
+* dt
+- tiền trả ngay khi mua hàng (trong kinh doanh)
+ @spot check
+* dt
+- cuộc kiểm tra bất ngờ; cuộc kiểm tra đột xuất
+ @Spot market
+- (Econ) Thị trường giao ngay.
+: Một thị trường trong đó, hàng hóa và tiền tệ được buôn bán giao ngay khác với thị trường tương lai hoặc thị trường kù hạn.
+ @spot welding
+* dt
+- hàn điểm (việc hàn những diện kim loại nhỏ tiếp xúc với nhau)
+ @spotcast
+* dt
+- <Mỹ> buổi phát thanh, truyền hình tin tức thể thao, cuộc thi đấu thể thao
+ @spotcaster
+* dt
+- <Mỹ> người bình luận thể thao
+ @spot-facing
+* dt
+- sự gọt bớt bề mặt
+ @spotless  
+*  tt
+- không có đốm, không có vết; sạch sẽ, tinh tươm
+- không có vết nhơ, không bị mang tai mang tiếng (tên tuổi...)
+
+@spotlessly
+* dt
+- không có đốm, không một vết nhơ; sạch sẽ, tinh tươm
+- không có vết nhơ, không có một thiếu sót, không bị mang tai mang tiếng; đạo đức trong sạch
+ @spotlessness  
+*  dt
+- tính chất sạch sẽ, tính chất tinh tươm
+- tính chất trong sạch; sự không có vết nhơ (tên tuổi...)
+
+@spotlight  
+*  dt
+- đèn sân khấu
+- sự nổi bật trong công chúng; địa vị nổi bật
+
+@spotlighting
+* dt
+- sự chiếu sáng bằng đèn chiếu
+- sự thu hút chú ý đến
+ @spot-on
+* tt
+- <thgt> rất đúng; chính xác
+ @spot-pass
+* dt
+- (thể thao) cách tuyền quả bóng rổ tới một điểm đã định trên sân, không trực tiếp tới người chơi
+ @spots  
+*  dt số nhiều
+- hàng bán trả tiền ngay
+
+@spotted  
+*  tt
+- lốm đốm, có đốm; khoang, vá (chó...)
+- bị làm nhơ, bị ố bẩn
+
+@spotted dog  
+*  dt
+- (từ lóng) bánh putđinh nho khô
+
+@spotted fever  
+*  dt
+- (y học) viêm màng não tuỷ
+- sốt phát ban
+
+@spotter  
+*  dt
+- người chuyên phát hiện mục tiêu (từ trên máy bay)
+- người chuyên nhận dạng máy bay lạ
+- máy bay chỉ điểm
+- (từ Mỹ,nghĩa Mỹ) giám thị (chuyên theo dõi công nhân)
+- thợ tẩy (quần áo...)
+
+@spottily
+* dt
+- có đốm; lốm đốm
+- không đồng đều
+- có mụn trứng cá ở mặt (vào tuổi vị thành niên)
+ @spottiness  
+*  dt
+- sự lốm đốm, sự có nhiều đốm
+- tính chất không đồng đều, tính chất không đồng nhất
+
+@spotting
+- sự định tâm
+ @spotty  
+*  tt
+- có đốm, lốm đốm
+- không đồng đều, không đồng nhất
+
+@spousal
+* tt
+- (thuộc) hôn nhân; (thuộc) vợ chồng
+ @spousals
+* dt số nhiều
+- hôn lễ
+ @spouse  
+*  dt
+- (thơ ca); (từ cổ,nghĩa cổ) chồng; vợ
+
+@spout  
+*  dt
+- vòi (ấm tích)
+- ống máng
+- (từ lóng) hiệu cầm đồ
+
++ to be up the spout: (từ lóng) nằm ở hiệu cầm đồ (đồ vật); khánh kiệt, cùng quẫn
+- cây nước, cột nước
+- (như) spout-hole
+*  ngdgt
+- làm phun ra, làm bắn ra
+- ngâm (thơ); đọc một cách hùng hồn khoa trương
+- (từ lóng) cầm (đồ)
+*  ndgt
+- phun ra, bắn ra (nước...)
+
++ blood spouts from wound: máu phun từ vết thương ra
+- phun nước (cá voi)
+
+@spouter  
+*  dt
+- người bình thơ; người yêu thơ
+- người đọc một cách hùng hồn khoa trương
+
+@spout-hole  
+*  dt
+- lỗ mũi cá voi ((cũng) spout)
+
+@spouting
+* dt
+- sự phun
+ @spoutless  
+*  tt
+- không có vòi
+
+@sprachgefuhl
+* dt
+- sự nhạy cảm đối với ngôn ngữ đã được xác lập; ngữ cảm
+ @spraddle  
+*  ndgt
+- giạng chân
+
+@sprag  
+*  dt
+- miếng gỗ chèn xe
+
+@sprain  
+*  dt
+- sự bong gân
+*  ngdgt
+- làm bong gân
+
++ to sprain one's wrist: làm bong gân cổ tay
+
+@sprainting
+- Cách viết khác : spraints 
+ @spraints  
+*  dt số nhiều
+- phân rái cá
+
+@sprang  
+*  dt
+- sự nhảy; cái nhảy
+
++ to take a spring: nhảy
+- mùa xuân (đen & bóng)
+
++ the spring of one's life: mua xuân của cuộc đời, lúc tuổi thanh xuân
+- suối
+
++ hot spring: suối nước nóng
+- sự co dãn; tính đàn hồi; sự bật lại
+- lò xo; nhíp (xe)
+- chỗ nhún (của ván nhảy...)
+- nguồn, gốc, căn nguyên
+- động cơ
+
++ the springs of human action: những động cơ của hành động con người
+- chỗ cong, đường cong
+- chỗ nứt, đường nứt (cột buồm...); sự rò, sự bị nước rỉ vào (thuyền...)
+- dây buộc thuyền vào bến
+- con nước
+- (Ê-cốt) bài hát vui; điệu múa vui
+*  ndgt sprang; sprung
+- ((thường) : up,  down,  out,  over,  through,  away,  back...) nhảy
+
++ to spring out of bed: nhảy ra khỏi giường
+
++ to spring at someone: nhảy xổ vào người nào
+
++ to spring to one's feet: đứng phắt dậy
+- bật mạnh
+
++ branch springs back: cành cây bật mạnh trở lại
+
++ lid springs open: cái vung bật tung ra
+- nổi lên, hiện ra, nảy ra, xuất hiện
+
++ the wind springs up: gió nổi lên
+
++ the buds are springing: nụ đang trổ
+
++ many factories have sprung into existence in this area: nhiều nhà máy đã xuất hiện trong khu vực này
+- xuất phát, xuất thân
+
++ his actions spring from goodwill: những hành động của anh ta xuất phát từ thiện ý
+
++ to be sprungs of a peasant stock: xuất thân từ thành phần nông dân
+- nứt rạn; cong (gỗ)
+
++ racket has sprung: cây vợt bị nứt; cậy vợt bị cong
+- nổ (mìn)
+*  ngdgt
+- làm cho nhảy lên, làm cho bay lên
+
++ to spring a covey of quail: làm cho một ổ chim cun cút bay lên
+- nhảy qua
+
++ to spring a wall: nhảy qua tường
+- làm rạn, làm nứt, làm nẻ
+
++ he has sprung my racket: anh ta làm nứt cái vợt của tôi
+- làm nổ (mìn); làm bật lên, đề ra, đưa ra; (từ Mỹ,nghĩa Mỹ) bất ngờ tuyên bố, bất ngờ đưa ra (một tin)
+
++ to spring a trap: làm bật bẫy
+
++ he has sprung a new theory: anh ta đề ra một lý thuyết mới
+
++ he loves to spring surprises on us: anh ta thích làm chúng tôi ngạc nhiên
+- lắp nhíp, lắp lò xo giảm xóc (vào xe)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đảm bảo cho (ai) được tha tù
+
+@sprat  
+*  dt
+- cá trích cơm
+-(đùa cợt) đứa trẻ gầy
+!to throw a sprat to catch a herring (a mackerel, a whale)
+- thả con săn sắt bắt con cá sộp
+*  ndgt
+- câu cá trích cơm, đánh cá trích cơm
+
+@spratter  
+*  dt
+- người đi câu cá trích cơm, người đi đánh cá trích cơm
+
+@sprawl  
+*  dt
+- sự nằm dài ra, sự nằm ườn ra; tư thế uể oải
+- sự vươn vai
+*  dgt
+- nằm dài ra, nằm ườn ra
+- vươn vai
+- nguệch ngoạc (chữ viết)
+- bò lan ngổn ngang (cây)
+- (quân sự) rải (quân) ngổn ngang
+
+@spray  
+*  dt
+- cành nhỏ (có hoa)
+
++ a spray of peach-tree: cành đào
+- cành thoa
+
++ a spray of diamonds: cành thoa kim cương
+- bụi nước (ở sóng tung lên, hoặc ở bình bơm phun ra...)
+- chất bơm, thuốc bơm (nước hoa, thuốc trừ sâu...)
+- (từ Mỹ,nghĩa Mỹ) bình bơm (nước hoa, thuốc trừ sâu...)
+- cái tung ra như bụi nước
+
++ a spray of fireworks: pháo hoa tung ra
+*  ngdgt
+- bơm, phun (thuốc trừ sâu...)
+
+@sprayboard  
+*  dt
+- tấm chắn nước toé (ở tàu)
+
+@spray-drain  
+*  dt
+- mương, máng (ở cánh đồng)
+
+@sprayer  
+*  dt
+- người phun
+- bình phun, bình bơm
+
+@sprayey  
+*  tt
+- có nhiều cành nhỏ
+- có bụi nước, đầy bụi nước
+
+@spray-gun  
+*  dt
+- ống phun, ống bơm (thuốc trừ sâu...)
+
+@spraying
+* dt
+- sụ phun
+
++  metal spraying:sự phun kim loại
+ @spray-painting
+* dt
+- sự phun sơn
+ @spread  
+*  dt
+- sự trải ra, sự căng ra, sự giăng ra
+- sự truyền bá (giáo dục, tư tưởng...)
+- sải cánh (của chim...)
+- chiều rộng, khoảng rộng
+- sự sổ ra (của thân thể)
+
++ middle-age spread: sự sổ người ra khi đến tuổi trung niên
+- khăn trải (giường, bàn...)
+- (từ Mỹ,nghĩa Mỹ) hai trang báo liền mặt (in một bức ảnh, một bài quảng cáo...); ảnh in suốt trang báo, dòng chữ chạy dài suốt trang báo
+- (thông tục) bữa tiệc linh đình, bữa ăn thịnh soạn
+- (thương nghiệp) lãi sản xuất (mức chênh nhau giữa giá thành và giá bán)
+- (từ Mỹ,nghĩa Mỹ) chất phết lên bánh (bơ, mứt...)
+- (từ Mỹ,nghĩa Mỹ) sự phô trương, sự huênh hoang
+*  ngdgt spread
+- trải, căng, giăng ra, bày ra
+
++ to spread a cloth over a table: trải khăn lên bàn
+
++ to spread a banner: giương cờ, giương biểu ngữ
+- rải, truyền bá
+
++ to spread a rumour: truyền một tin đồn
+- kéo dài thời gian (trả tiền...)
+
++ to spread the payments on the loan over eighteen months: kéo dài thời gian trả tiền cho vay trong 18 tháng
+- bày (bàn ăn), bày (thức ăn) lên bàn
+- phết
+
++ to spread butter on a slice of bread: phết bơ lên một lát bánh mì
+- (từ Mỹ,nghĩa Mỹ) đập bẹt (đầu đinh...)
+
++ to spread oneself: (từ lóng) ba hoa, huênh hoang, chưng trổ
+*  ndgt
+- trải ra, căng ra
+
++ the field spreads out before us: cánh đồng trải dài ra trước mặt chúng tôi
+- truyền đi, lan đi, bay đi
+
++ news spread everywhere: tin truyền đi khắp nơi
+
++ fire spreads: lửa cháy lan
+- tản ra
+
++ the birds flew up and spread: chim bay lên rồi tản ra
+!to spread oneself thin
+- (từ Mỹ,nghĩa Mỹ) ôm đồm nhiều việc quá cùng một lúc
+
+@spread
+- sự phổ biến; chiều rộng
+- s. of a matrix chiều rộng của một ma trận 
+ @spread eagle  
+*  dt
+- hình đại bàng giang cánh (quốc huy Mỹ)
+- (thông tục) gà vịt nướng cả con
+- (hàng hải) người bị nọc ra mà đánh
+
+@Spread effects
+- (Econ) Hiệu ứng lan tràn.
+: Các tác động có lợi của sự tăng trưởng của một nền kinh tế, của một khu vực đối với các nền kinh tế, các khu vực khác.
+ @spread-eagle  
+*  tt
+- có hình con đại bàng giang cánh
+- huênh hoang, khoác lác
+- yêu nước rùm beng
+- huênh hoang khoác lác về sự ưu việt của nước Mỹ
+*  ngdgt
+- nọc ra mà đánh (trói giăng tay chân để đánh)
+- trải, căng ra
+
++ to lie spread-eagled on the sand: nằm giang người trên bãi cát
+
+@spread-eagleism  
+*  dt
+- tính huênh hoang khoác lác
+- sự yêu nước rùm beng
+- chủ nghĩa xô vanh Mỹ
+
+@spreader  
+*  dt
+- người trải ra, người căng (vải...)
+- người rải, người truyền bá, người loan truyền (tin đồn...)
+- con dao để phết (bơ...)
+- máy rải, máy rắc (phân...)
+- cái để căng tách ra (không cho hai sợi dây chập vào nhau...)
+
+@spreader-over   (spreader-over_system) @spreader-over system   (spreader-over_system) @spreading
+* dt
+- sự lan rộng; dàn trải; phân bố
+- sự rải; rắc
+ @spreadsheet
+* dt
+- bảng tính (trong máy tính)
+ @spree  
+*  dt
+- cuộc vui chơi miệt mài; sự chè chén lu bù, sự ăn uống lu bù
+
++ to go (to be) on the spree: đang chè chén lu bù
+
++ what a spree!: vui quá!
+!buying spree
+- sự mua sắm lu bù
+*  ndgt
+- vui chơi mệt mài; chè chén lu bù
+
+@sprig  
+*  dt
+- cành con; chồi
+- cành thoa
+- đinh nhỏ không đầu
+- nẹp ba góc (để lồng kính)
+- (thông tục) cậu ấm, anh chàng chưa ráo máu đầu
+*  ngdgt
+- tỉa cành con (ở cây)
+- trang trí bằng cành cây nhỏ
+- thêu cành lá (trên vải, lụa...)
+- đóng bằng đinh không đầu
+
+@spriggy  
+*  tt
+- có nhiều cành con
+
+@spright
+* dt
+- xem sprite
+ @sprightful
+* tt
+- hoạt bát; vui vẻ
+ @sprightliness  
+*  dt
+- sự vui vẻ
+- tính hoạt bát, tính nhanh nhảu
+
+@sprightly  
+*  tt
+- vui vẻ
+- hoạt bát, nhanh nhảu
+
+@spring  
+*  dt
+- sự nhảy; cái nhảy
+
++ to take a spring: nhảy
+- mùa xuân (đen & bóng)
+
++ the spring of one's life: mua xuân của cuộc đời, lúc tuổi thanh xuân
+- suối
+
++ hot spring: suối nước nóng
+- sự co dãn; tính đàn hồi; sự bật lại
+- lò xo; nhíp (xe)
+- chỗ nhún (của ván nhảy...)
+- nguồn, gốc, căn nguyên
+- động cơ
+
++ the springs of human action: những động cơ của hành động con người
+- chỗ cong, đường cong
+- chỗ nứt, đường nứt (cột buồm...); sự rò, sự bị nước rỉ vào (thuyền...)
+- dây buộc thuyền vào bến
+- con nước
+- (Ê-cốt) bài hát vui; điệu múa vui
+*  ndgt sprang; sprung
+- ((thường) : up,  down,  out,  over,  through,  away,  back...) nhảy
+
++ to spring out of bed: nhảy ra khỏi giường
+
++ to spring at someone: nhảy xổ vào người nào
+
++ to spring to one's feet: đứng phắt dậy
+- bật mạnh
+
++ branch springs back: cành cây bật mạnh trở lại
+
++ lid springs open: cái vung bật tung ra
+- nổi lên, hiện ra, nảy ra, xuất hiện
+
++ the wind springs up: gió nổi lên
+
++ the buds are springing: nụ đang trổ
+
++ many factories have sprung into existence in this area: nhiều nhà máy đã xuất hiện trong khu vực này
+- xuất phát, xuất thân
+
++ his actions spring from goodwill: những hành động của anh ta xuất phát từ thiện ý
+
++ to be sprungs of a peasant stock: xuất thân từ thành phần nông dân
+- nứt rạn; cong (gỗ)
+
++ racket has sprung: cây vợt bị nứt; cậy vợt bị cong
+- nổ (mìn)
+*  ngdgt
+- làm cho nhảy lên, làm cho bay lên
+
++ to spring a covey of quail: làm cho một ổ chim cun cút bay lên
+- nhảy qua
+
++ to spring a wall: nhảy qua tường
+- làm rạn, làm nứt, làm nẻ
+
++ he has sprung my racket: anh ta làm nứt cái vợt của tôi
+- làm nổ (mìn); làm bật lên, đề ra, đưa ra; (từ Mỹ,nghĩa Mỹ) bất ngờ tuyên bố, bất ngờ đưa ra (một tin)
+
++ to spring a trap: làm bật bẫy
+
++ he has sprung a new theory: anh ta đề ra một lý thuyết mới
+
++ he loves to spring surprises on us: anh ta thích làm chúng tôi ngạc nhiên
+- lắp nhíp, lắp lò xo giảm xóc (vào xe)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đảm bảo cho (ai) được tha tù
+
+@spring balance  
+*  dt
+- cân lò xo
+
+@spring bed  
+*  dt
+- giường lò xo
+
+@spring chicken   (springer) @spring fever  
+*  dt
+- cảm giác bần thần mệt mỏi vào những ngày nắng âm đầu xuân
+
+@spring greens
+* dt
+- bắp cải non mềm luộc chín và ăn như rau
+ @spring gun  
+*  dt
+- súng bẫy (bắn khi người hay vật chạm vào)
+
+@spring mattress  
+*  dt
+- nệm lò xo
+
+@spring onion
+* dt
+- <thực> hành tươi
+ @spring tide  
+*  dt
+- con nước lên
+
+@spring water  
+*  dt
+- nước nguồn
+
+@spring-actuated
+* tt
+- chịu tác động của lò xo
+ @springal   (springald) @springald   (springald) @spring-back
+* dt
+- sự nẩy ngược, sự nẩy ra phía sau
+ @spring-balance
+* dt
+- cân lò xo
+ @spring-bed
+* dt
+- giường lò xo
+ @spring-board  
+*  dt
+- ván nhún, ván dận (làm xiếc; ở bể bơi...)
+
+@springbok   (springbuck) @springbuck
+* dt
+- <động> con linh dương Nam phi (có thể nhảy bổng lên rất cao)
+- (Springboks)  <đùa> người Nam phi; đội bóng Nam phi
+ @spring-carriage  
+*  dt
+- toa xe có nhíp
+
+@spring-chicken
+* dt
+- gà giò
+- người ngây thơ (đặc biệt phụ nữ)
+ @spring-clean  
+*  ngdgt
+- quét dọn (nhà cửa) vào mùa xuân
+
+@spring-cleaning  
+*  dt
+- sự quét dọn nhà cửa vào mùa xuân
+
+@springe  
+*  dt
+- cái thòng lọng, cái bẫy (để bắt con mồi nhỏ)
+
+@springer  
+*  dt
+- người nhảy
+- người làm nổ (mìn)
+- (kiến trúc) chân vòm; hòn đá chân vòm; rui ở chái nhà
+- (như) springbok
+- (như) spring_chicken
+
+@spring-fever
+* dt
+- cảm giác mệt mỏi khi trời bắt đầu nóng (vào mùa xuân)
+ @spring-green
+* dt
+- cải bắp hái khi còn non
+ @spring-gun
+* dt
+- súng bẫy (bắn khi chạm phải)
+ @spring-halt   (string-halt) @springhalt
+- Cách viết khác : stringhalt 
+ @springhead  
+*  dt
+- nguồn, ngọn nguồn
+
+@spring-head
+* dt
+- nguồn; nguồn nước
+ @springily
+* dt
+- dễ co dãn, đàn hồi
+- có tính chất khoẻ mạnh, sôi nổi; nhún nhảy (bước đi)
+ @springiness  
+*  dt
+- tính co dãn, tính đàn hồi
+- tính nhún nhảy (bước đi...)
+
+@springing
+* dt
+- sự đàn hồi
+- sự treo bằng lò xo
+- đế vòm
+- sự mọc mầm
+ @springless  
+*  tt
+- không có lò xo
+
+@springlet  
+*  dt
+- suối nhỏ
+
+@springlike  
+*  tt
+- như mùa xuân
+
+@springline
+* dt
+- đường nối liền hai điểm đối nhau khi cái vòm bắt đầu vươn lên
+ @spring-loading
+* dt
+- sự đặt tải lên lò xo
+ @spring-lock
+* dt
+- khoá có lò xo
+ @spring-rule
+* dt
+- thước cuộn có lò xo (để cuộn lại)
+ @spring-steel
+* dt
+- thép lò xo
+ @springtail
+* dt
+- (động vật) bọ đuôi bật
+ @springtide  
+*  dt
+- (thơ ca) mùa xuân
+
+@springtime  
+*  dt
+- mùa xuân
+
+@spring-water
+* dt
+- nước nguồn
+ @springwood
+* dt
+- gỗ mùa xuân
+ @spring-wool
+* dt
+- len mùa xuân
+ @springy  
+*  tt
+- co dãn, đàn hồi
+- nhún nhảy (bước đi)
+
+@sprinkle  
+*  dt
+- sự rắc, sự rải
+- mưa rào nhỏ
+
++ a sprinkle of rain: vài hạt mưa lắc rắc
+*  ngdgt
+- tưới, rải, rắc
+
++ to sprinkle a dish with pepper: rắc hạt tiêu vào món ăn
+*  ndgt
+- rắc, rải
+- rơi từng giọt, rơi lắc rắc; mưa lắc rắc
+
+@sprinkler  
+*  dt
+- bình tưới nước
+!street sprinkler
+- xe ô tô tưới đường
+
+@sprinkler system  
+*  dt
+- hệ thống ống tưới nước (vườn hoa, sân đánh gôn...)
+
+@sprinklered
+* tt
+- có hệ thống tưới nước tự động (vườn...)
+ @sprinkling  
+*  dt
+- sự rải, sự rắc
+
++ a sprinkling of houses: nhà cửa thưa thớt, lác đác vài cái nhà
+- một ít
+
++ a sprinkling of knowledge: một ít kiến thức
+
+@sprint  
+*  dt
+- sự chạy nhanh, sự chạy nước rút; nước rút
+*  dgt
+- chạy nước rút, chạy hết tốc lực
+
+@sprinter  
+*  dt
+- người chạy nước rút
+
+@sprint-race
+* dt
+- cuộc chạy nước rút trên một quãng ngắn
+ @sprit  
+*  dgt
+- sào căng buồm (chéo từ cột đến góc ngoài phía trên buồm)
+
+@sprite  
+*  dt
+- yêu tinh, ma quỷ
+
+@spritsail  
+*  dt
+- buồm căng chéo
+
+@spritzig
+* tt
+- sủi bọt (rượu)
+ @sprocket  
+*  dt
+- răng đĩa xích, răng bánh xích
+- (như) sprocket-wheel
+
+@sprocket-wheel  
+*  dt
+- đĩa xích, bánh xích ((cũng) sprocket)
+
+@sprog
+* dt
+- (từ lóng) đứa trẻ
+ @sprout  
+*  dt
+- mần cây, chồi
+
++ soya sprouts: giá đậu tương
+- (số nhiều) cải bruxen ((cũng) Brussels sprouts)
+*  ndgt
+- mọc, để mọc
+
++ to sprout horns: nhú sừng (trâu, bò)
+
++ to sprout a moustache: để râu mép
+- ngắt mầm, ngắt chồi
+
+@sprouted soya  
+*  dt
+- giá đậu tương
+
+@sprouting
+* dt
+- sự mọc mầm; đâm chồi; nảy chồi
+ @spruce  
+*  dt
+- (thực vật học) cây vân sam
+*  tt
+- chải chuốt, diêm dúa, bảnh bao
+*  ngdgt
+- làm diêu dúa, làm bảo bao
+!to spruce oneself up
+- ăn mặc chải chuốt
+
+@sprucely
+* dt
+- chải chuốt; lịch sự
+ @spruceness  
+*  dt
+- sự chải chuốt, sự diêm dúa, sự bảnh bao
+
+@sprucer
+* dt
+- người nói trạng, nói dối để gây cười
+ @sprue  
+*  dt
+- (kỹ thuật) rãnh rót (để rót kim loại nấu chảy vào khuôn)
+- thỏi rãnh (thỏi kim loại đọng lại ở rãnh rót)
+- (y học) bệnh viêm ruột loét miệng ((cũng) psilosis)
+
+@sprueing
+* dt
+- sự tháo phễu rót
+
++  hot sprueing:sự tháo phễu rót khi nóng
+ @spruik
+* ndgt
+- (từ lóng) diễn thuyết trước công chúng
+ @spruiker
+* dt
+- người diễn thuyết trước công chúng
+ @spruit  
+*  dt
+- (Nam phi) mương nhỏ
+
+@sprung  
+*  dt
+- sự nhảy; cái nhảy
+
++ to take a spring: nhảy
+- mùa xuân (đen & bóng)
+
++ the spring of one's life: mua xuân của cuộc đời, lúc tuổi thanh xuân
+- suối
+
++ hot spring: suối nước nóng
+- sự co dãn; tính đàn hồi; sự bật lại
+- lò xo; nhíp (xe)
+- chỗ nhún (của ván nhảy...)
+- nguồn, gốc, căn nguyên
+- động cơ
+
++ the springs of human action: những động cơ của hành động con người
+- chỗ cong, đường cong
+- chỗ nứt, đường nứt (cột buồm...); sự rò, sự bị nước rỉ vào (thuyền...)
+- dây buộc thuyền vào bến
+- con nước
+- (Ê-cốt) bài hát vui; điệu múa vui
+*  ndgt sprang; sprung
+- ((thường) : up,  down,  out,  over,  through,  away,  back...) nhảy
+
++ to spring out of bed: nhảy ra khỏi giường
+
++ to spring at someone: nhảy xổ vào người nào
+
++ to spring to one's feet: đứng phắt dậy
+- bật mạnh
+
++ branch springs back: cành cây bật mạnh trở lại
+
++ lid springs open: cái vung bật tung ra
+- nổi lên, hiện ra, nảy ra, xuất hiện
+
++ the wind springs up: gió nổi lên
+
++ the buds are springing: nụ đang trổ
+
++ many factories have sprung into existence in this area: nhiều nhà máy đã xuất hiện trong khu vực này
+- xuất phát, xuất thân
+
++ his actions spring from goodwill: những hành động của anh ta xuất phát từ thiện ý
+
++ to be sprungs of a peasant stock: xuất thân từ thành phần nông dân
+- nứt rạn; cong (gỗ)
+
++ racket has sprung: cây vợt bị nứt; cậy vợt bị cong
+- nổ (mìn)
+*  ngdgt
+- làm cho nhảy lên, làm cho bay lên
+
++ to spring a covey of quail: làm cho một ổ chim cun cút bay lên
+- nhảy qua
+
++ to spring a wall: nhảy qua tường
+- làm rạn, làm nứt, làm nẻ
+
++ he has sprung my racket: anh ta làm nứt cái vợt của tôi
+- làm nổ (mìn); làm bật lên, đề ra, đưa ra; (từ Mỹ,nghĩa Mỹ) bất ngờ tuyên bố, bất ngờ đưa ra (một tin)
+
++ to spring a trap: làm bật bẫy
+
++ he has sprung a new theory: anh ta đề ra một lý thuyết mới
+
++ he loves to spring surprises on us: anh ta thích làm chúng tôi ngạc nhiên
+- lắp nhíp, lắp lò xo giảm xóc (vào xe)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đảm bảo cho (ai) được tha tù
+
+@spry  
+*  tt
+- nhanh nhẹn, hoạt bát
+
+@spryly
+* dt
+- nhanh nhẹn, hoạt bát; sinh động, linh hoạt
+ @spryness
+* dt
+- sự nhanh nhẹn, sự hoạt bát; sự sinh động, sự linh hoạt
+- tính nhanh nhẹn, tính hoạt bát
+ @spud  
+*  dt
+- cái thuồng giãy cỏ
+- (từ lóng) khoai tây
+*  ngdgt
+- giãy (cỏ dại) bằng thuổng
+
+@spud-bashing
+* dt
+- <qsự> công việc gọt vỏ khoai (là một hình thức xử phạt trong quân đội )
+ @spudder  
+*  dt
+- gậy nạy vỏ (để nạy vỏ cây)
+
+@spudding
+* dt
+- sự khoan dập (bằng cáp)
+ @spuddle  
+*  ndgt
+- (tiếng địa phương) đào, xới
+
+@spuddy  
+*  tt
+- mập lùn (người)
+
+@spue  
+*  dgt & ndgt
+- (như) spew
+
+@spume  
+*  dt
+- bọt (nước)
+*  ndgt
+- nổi bọt
+
+@spumescence   (spuminess) @spumescent   (spumous) @spuminess   (spuminess) @spumous   (spumous) @spumy   (spumous) @spun  
+*  thời quá khứ & động tt quá khứ của spin
+*  tt
+- (từ lóng) mệt lử
+
+@spun glass  
+*  dt
+- thuỷ tinh sợi
+
+@spun silk
+* dt
+- vải thứ phẩm (vải rẻ tiền làm bằng những sợi ngắn và những mảnh lụa vụn, pha trộn với bông)
+ @spun sugar  
+*  dt
+- kẹo kéo, kẹo bào
+
+@spunge  
+*  dt & dgt
+- (từ cổ,nghĩa cổ) (như) sponge
+
+@spunk  
+*  dt
+- (thông tục) sự gan dạ
+- khí thế; tinh thần
+- sự tức giận, sự nổi giận
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ) đùng đùng nổi giận
+
+@spunky  
+*  tt
+- gan dạ
+- có khí thế; có tinh thần
+- tức giận; dễ nổi nóng
+
+@spun-ware
+* dt
+- dụng cụ gia đình bằng kim loại (bát, ấm)
+ @spun-yarn
+- thừng bện; thừng xe
+ @spur  
+*  dt
+- đinh thúc ngựa
+- cựa (gà)
+- cựa sắt (móc và cựa gà khi chọi)
+- (thực vật học) cựa (ở cánh hoa...)
+- mũi núi
+- tường cựa gà (chạy ngang bức thành)
+- sự kích thích, sự khuyến khích, sự khích lệ
+
++ on the spur of the moment: do sự khích lệ của tình thế
+!to need the spur
+- uể oải, cần được lên dây cót
+!to win one's spurs
+- (sử học) được tặng danh hiệu hiệp sĩ
+- (từ lóng) nổi tiếng
+*  ngdgt
+- thúc (ngựa)
+- lắp đinh (vào giày)
+- lắp cựa sắt (vào cựa gà)
+- khích lệ, khuyến khích
+
++ to spur someone to do something: khuyến khích ai làm việc gì
+*  ndgt
+- thúc ngựa
+- ((thường) : on,  forward) phi nhanh, chạy nhanh; vội vã
+!to spur a willing horse
+- làm phiền một cách không cần thiết
+
+@spur
+- vết
+- s. of a matrix vết của một ma trận 
+ @spur gear   (spur-wheel) @spur line   (spur_track) @spur track   (spur_track) @spurge  
+*  dt
+- (thực vật học) giống cây đại kích
+
+@spurious  
+*  tt
+- giả, giả mạo
+
++ spurious coin: đồng tiền giả
+
++ spurious eyes: (y học) mắt giả
+
+@Spurious regression problem
+- (Econ) Bài toán hồi quy giả.
+: Bài toán nảy sinh khi các biến số liên kết với các bậc khác nhau trong một số mô hình hồi quy.
+ @spuriously
+* dt
+- sai, không xác thực, không đích thực; giả mạo
+ @spuriousness  
+*  dt
+- tính giả mạo
+
+@spur-line
+* dt
+- (đường sắt) đường nhánh; phụ
+ @spurn  
+*  dt
+- sự đá đi, sự hất đi
+- sự bác bỏ; sự vứt bỏ, sự hắt hủi
+*  ngdgt
+- đẩy lui, đá lui
+- bác bỏ; vứt bỏ, hắt hủi
+*  ndgt
+- hắt hủi, vứt bỏ tỏ ý khinh bỉ
+
+@spurner
+* dt
+- người đi giày có cựa (kỵ sĩ)
+- có cựa (gà)
+ @spurred
+* tt
+- có cựa; được lắp cựa, được lắp đinh thúc ngựa
+ @spurrey   (spurrey) @spurrier  
+*  dt
+- người làm đinh thúc ngựa
+
+@spurrite
+* dt
+- (khoáng chất) spurít (canxi silicat và cacbonat)
+ @spurry   (spurrey) @spurt  
+*  dt
+- sự cố gắng nước rút, gắng sức, gắng công
+- bắn ra, phọt ra
+*  ngdgt
+- làm bắn ra, làm phọt ra
+
+@spurtle
+* dt
+- (Xcôtlân) đũa quấy cháo
+ @spur-track
+* dt
+- (đường sắt) đường nhánh
+ @spur-wheel   (spur-wheel) @sputa  
+*  dt,  số nhiều sputa
+- nước bọt nước dãi
+- đờm
+
+@sputnik  
+*  dt
+- vệ tinh nhân tạo
+
+@sputter   (splutter) @sputterer  
+*  dt
+- người thổi phì phì
+- người nói lắp bắp
+
+@sputtering  
+*  tt
+- thổi phì phì, thổi phù phù
+- lắp bắp
+
+@sputum  
+*  dt,  số nhiều sputa
+- nước bọt nước dãi
+- đờm
+
+@spy  
+*  dt: (spier) 
+@spyglass  
+*  dt
+- kính thiên văn nhỏ
+
+@spyhole  
+*  dt
+- khe nhòm
+
+@spymaster
+* dt
+- người phụ trách tổ chức gián điệp một nước
+ @

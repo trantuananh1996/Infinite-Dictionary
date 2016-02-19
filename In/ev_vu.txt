@@ -1,0 +1,146 @@
+@vulcan  
+*  dt
+-(thân mật) thần lửa
+
+@vulcanic
+* tt
+- thuộc lửa, ngọn lửa
+- thuộc núi lữa
+ @vulcanisation
+* dt
+- sự lưu hoá (cao su)
+ @vulcanise   (vulcanise) @vulcanite  
+*  dt
+- cao su cứng
+
+@vulcanizable
+- xem vulcanize
+ @vulcanization  
+*  dt
+- sự lưu hoá (cao su)
+
+@vulcanize   (vulcanise) @vulcanizer  
+*  dt
+- (kỹ thuật) máy lưu hoá (cao su)
+
+@vulcanological
+* tt
+- thuộc khoa núi lửa
+ @vulcanologist
+* dt
+- nhà nghiên cứu núi lửa
+ @vulcanology
+* dt
+- khoa núi lửa, hoả sơn học
+ @vulgar  
+*  tt
+- thông thường, thường, thông tục
+
++ vulgar superstitions: những sự mê tín thông thường (thường gặp)
+- thô bỉ, thô tục
+
++ vulgar manners: cử chỉ thô bỉ
+
++ vulgar words: lời nói thô tục
+!the vulgar era
+- kỷ nguyên Cơ đốc
+!the vulgar tongue
+- tiếng nói dân tộc (đối lại với tiếng La tinh)
+*  dt
+- the vulgar quần chúng, thường dân
+
+@vulgar fraction
+* dt
+- phân số đơn giản (phân số được biểu diễn bằng những số nằm trên và dưới một vạch; 5   8 )
+@vulgarian  
+*  dt
+- trọc phú; trưởng giả học làm sang
+
+@vulgarisation
+* dt
+- sự thông tục hoá
+- sự phổ biến, sự tầm thường hoá
+ @vulgarise   (vulgarise) @vulgarism  
+*  dt
+- (ngôn ngữ học) từ ngữ tục
+- tính chất thô tục
+- hành vi thô tục; cách đối xử thô tục
+
+@vulgarity  
+*  dt
+- tính thông tục
+- tính chất thô tục, tính thô lỗ
+- lời thô tục; hành động thô bỉ
+
+@vulgarization  
+*  dt
+- sự thông tục hoá, sự tầm thường hoá
+
+@vulgarize   (vulgarise) @vulgarizer  
+*  dt
+- người thông tục hoá
+
+@vulgarly
+* dt
+- thô tục; một cách thiếu thẩm Mỹ, một cách không tế nhị, một cách chướng tai gai mắt
+- thường, thông tục, một cách tầm thường, một cách phổ biến
+ @vulgarness
+- xem vulgar
+ @vulgate
+* dt
+- (the Vulgate) bản Kinh thánh bằng tiếng La tinh được viết hồi thế kỷ thứ 4 và được Giáo hội Cơ đốc giáo ưa chuộng
+ @vulnerability  
+*  dt
+- tính chất có thể bị tổn thương; tính chất có thể bị tấn công, tính chất có thể công kích được ((nghĩa đen) & (nghĩa bóng))
+
+@vulnerable  
+*  tt
+- có thể bị tổn thương; có thể bị tấn công, công kích được; có chỗ yếu, có nhược điểm
+
++ vulnerable theory: thuyết có thể công kích được
+
++ to vulnerable criticism: có thể bị phê bình
+
+@vulnerableness
+- xem vulnerable
+ @vulnerably
+* dt
+- có thể bị tổn thương, có thể bị làm hại, có thể bị xúc phạm
+- <bóng> dễ bị nguy hiểm, dễ bị tấn công, không được bảo vệ; chỗ yếu
+ @vulnerary  
+*  tt
+- (y học) chữ thương tích (thuốc)
+*  dt
+- thuốc chữa tương tích
+
+@vulpine  
+*  tt
+- (động vật học) (thuộc) cáo; như cáo
+- (nghĩa bóng) xảo quyệt, cáo già
+
+@vulture  
+*  dt
+- (động vật học) kền kền
+- người tham tàn
+
+@vulturine  
+*  tt
+- (động vật học) (thuộc) kền kền ((cũng) vulturish)
+
+@vulturish   (vulturous) @vulturous   (vulturous) @vulva  
+*  dt
+- (giải phẫu) âm hộ
+
+@vulvae
+* dt
+- <phẫu> âm hộ (cửa ngoài của cơ quan sinh dục nữ giới)
+ @vulval   (vulvar) @vulvar   (vulvar) @vulviform
+* tt
+- co dạng như âm hộ
+ @vulvitis
+* dt
+- chứng viêm âm hộ
+ @vum
+* ndgt
+- thề, tuyên thệ, thề thốt, điện đài xách tay
+ @

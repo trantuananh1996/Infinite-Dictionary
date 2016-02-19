@@ -1,0 +1,287 @@
+@awacs
+* (viết tắt)
+- hệ thống báo và điều khiển trên không (Airborne Warning and Control System)
+ @await  
+*  ngdgt
+- đợi, chờ đợi
+
++ to await somebody: đợi ai
+
++ to await a decision: chờ đợi sự quyết định
+- để dự trữ cho, dành cho
+
++ great honours await him: những vinh dự lớn đã dành sẵn cho anh ta, những vinh dự lớn đang chờ đợi anh ta
+
+@awaiting-repair time
+- (Tech) thời gian chờ đợ sửa chữa
+ @awake  
+*  ngdgt,  awoke; awoke,  awoked
+- đánh thức, làm thức dậy
+- (nghĩa bóng) làm thức tỉnh, làm tỉnh ngộ, làm cho nhận thức ra
+
++ to awake somebody to the sense of duty: làm cho ai nhận thức ra ý thức bổn phận
+- (nghĩa bóng) khêu gợi, gợi
+
++ to awake someone's interest: gợi sự thích thú của ai
+*  ndgt
+- thức dậy
+- (nghĩa bóng) thức tỉnh, tỉnh ngộ, nhận thức ra
+
++ to awake to the responsibilities of one's new position: nhận thức ra trong trách nhiệm trong cương vị công tác của mình
+
+@awaken  
+*  tt
+- thức giấc, thức dậy; thức, không ngủ
+
++ to lie awaken: nằm thức, nằm không ngủ
+
++ to try to keep awaken: còn thức nguyên, chưa ngủ; rát tỉnh táo, cảnh giác
+- awaken to nhận ra, nhận thức ra, thấy rõ
+
++ to be fully awaken to the danger of the situation: nhận thấy rất rõ sự nguy hiểm của tình hình
+*  dgt
+- (như) awake ((thường) nghĩa bóng)
+
+@awakener
+- xem awaken
+ @awakening
+* dt
+- hành vi nhận thức
+ @award  
+*  dt
+- phần thưởng, tặng thưởng (do quan toà, hội đồng trọng tài, hội đồng giám khảo... quyết định ban cho)
+- sự quyết định của quan toà, của hội đồng giám khảo...
+- sự trừng phạt, hình phạt (do quan toà, hội đồng trọng tài, hội đồng giám khảo... quyết định bắt phải chịu)
+*  ngdgt
+- tặng, tặng thưởng, trao tặng
+
++ to award somebody a gold medal: tặng ai huy chương vàng
+- quyết định ban cho, quyết định cấp cho (quan toà, hội đồng trọng tài, hội đồng giám khảo...)
+
+@awardable
+- xem award
+ @awardee
+* dt
+- người được tặng thưởng
+ @awarder
+- xem award
+ @award-winning
+- Cách viết khác : prize-winning 
+ @aware  
+*  tt
+- biết, nhận thấy, nhận thức thấy
+
++ to be aware of danger; to be aware that there is danger: biết là có sự nguy hiểm, nhận thấy sự nguy hiểm
+
+@awareness
+- xem aware
+ @awash  
+*  tt
+- vị ngữ trôi nổi trên mặt nước
+- bị sóng cuốn đi, bị sóng đưa đi; bị ngập sóng
+
+@away  
+*  dt
+- xa, xa cách, rời xa, xa ra, đi (xa)
+
++ away from home: xa nhà
+
++ to stand away from the rest: đứng cách xa những người khác
+
++ to fly away: bay đi
+
++ to go away: rời đi, đi khỏi, đi xa
+
++ to throw away: ném đi; ném ra xa
+
++ away with you!: cút đi! ra chỗ khác!
+- biến đi, mất đi, hết đi
+
++ to boil away: sôi cạn đi
+
++ to gamble away all one's money: cờ bạc hết sạch cả tiền của
+
++ to make away with oneself: tự tử
+
++ to do away with somebody: khử ai đi
+
++ to pass away: chết
+
++ to food away one's time: lãng phí hết thời gian vào những việc làm nhảm, tầm phào
+- không ngừng liên tục
+
++ to work (peg) away for six hours: làm việc liên tục trong sáu tiếng liền
+- không chậm trễ, ngay lập tức
+
++ speak away!: nói (ngay) đi!
+
++ right away: ngay thức thì
+!away back
+- (từ Mỹ,nghĩa Mỹ) từ cách đây đã lâu
+!away off
+- (từ Mỹ,nghĩa Mỹ) xa lắc xa lơ
+!away with it!
+- vứt nó đi!; tống khứ nó đi!
+!far and away
+- bỏ xa, hơn hẳn, không thể so sánh được
+- tất nhiên, dĩ nhiên, chắc chắn, không nghi ngờ gì nữa
+
++ who's the best shot? - Mr. Smith, far and away: ai bàn giỏi nhất? tất nhiên là ông Xmít chứ còn ai nữa
+!out and away
+- (xem) out
+
+@away game   (away_match) @away match   (away_match) @awe  
+*  dt
+- ván cánh bánh xe nước
+*  dt
+- sự sợ hãi, nỗi kinh sợ
+
++ to stand in awe of somebody: kinh sợ ai
+
++ to keep (hold) somebody in awe: làm cho ai kinh sợ
+
++ to be struck with awe: sợ hãi
+*  ngdgt
+- làm sợ hãi, làm kinh sợ
+
+@aweary  
+*  tt
+- (thơ ca) mệt mỏi, mệt nhọc, rã rời
+
+@aweather
+* dt
+- về phía gió đang thổi
+ @awe-inspiring
+* tt
+- gây kinh hoàng
+ @awesome  
+*  tt
+- đáng kinh sợ; làm khiếp sợ; làm kinh hoàng
+
++ an awesome sight: một cảnh tượng kinh hoàng
+
+@awesomely
+- xem awesome
+ @awesomeness  
+*  dt
+- tính đáng kinh sợ; sự làm khiếp sợ; sự làm kinh hoàng
+
+@awestricken
+* tt
+- kinh sợ; khiếp sợ; kinh hoàng
+ @awestruck  
+*  tt
+- kinh sợ; khiếp sợ; kinh hoàng
+
+@awful  
+*  tt
+- đáng kinh sợ; uy nghi, oai nghiêm
+- dễ sợ, khủng khiếp
+
++ an awful thunderstorm: cơn bão khủng khiếp
+- (từ lóng) lạ lùng, phi thường; hết sức, vô cùng; thật là
+
++ an awful surprise: một sự ngạc nhiên hết sức
+
++ an awful nuisance: một chuyện thật là khó chịu; một thằng cha khó chịu vô cùng
+- (từ cổ,nghĩa cổ) đáng tôn kính
+
+@awfully
+* dt
+- tàn khốc, khủng khiếp
+- vô cùng, hết sức
+ @awfulness
+- xem awful
+ @awhile  
+*  dt
+- một lúc, một lát, một chốc
+
+@awkward  
+*  tt
+- vụng về
+- lúng túng, ngượng ngịu
+
++ to feel awkward: cảm thấy lúng túng ngượng ngịu
+- bất tiện; khó khăn, nguy hiểm
+
++ an awkward door: một cái cửa bất tiện
+
++ an awkward turning: một chỗ ngoặt nguy hiểm
+- khó xử, rầy rà, rắc rối
+
++ to be in an awkward situation: ở trong một tình thế khó xử
+!awkward age
+- tuổi mới lớn
+!awkward customer
+- người nguy hiểm; con vật nguy hiểm
+!awkward squad
+- (xem) squad
+
+@awkwardly  
+*  dt
+- vụng về
+- lúng túng, ngượng nghịu
+- khó xử
+
+@awkwardness  
+*  dt
+- sự vụng về
+- sự lúng túng, sự ngượng nghịu
+- sự bất tiện; sự khó khăn
+- sự khó xử, sự rắc rối
+
+@awl  
+*  dt
+- giùi (của thợ giày)
+
+@awl-shaped  
+*  tt
+- (thực vật học) hình giùi
+
+@awn  
+*  dt
+- (thực vật học) râu (ở đầu hạt thóc)
+
+@awned
+- xem awn
+ @awning  
+*  dt
+- tấm vải bạt (để che nắng, mưa... trên boong tàu)
+- mái hiên
+
+@awnless
+- xem awn
+ @awnlet
+* dt
+- lông cứng nhỏ, râu nhỏ
+ @awoke  
+*  ngdgt,  awoke; awoke,  awoked
+- đánh thức, làm thức dậy
+- (nghĩa bóng) làm thức tỉnh, làm tỉnh ngộ, làm cho nhận thức ra
+
++ to awake somebody to the sense of duty: làm cho ai nhận thức ra ý thức bổn phận
+- (nghĩa bóng) khêu gợi, gợi
+
++ to awake someone's interest: gợi sự thích thú của ai
+*  ndgt
+- thức dậy
+- (nghĩa bóng) thức tỉnh, tỉnh ngộ, nhận thức ra
+
++ to awake to the responsibilities of one's new position: nhận thức ra trong trách nhiệm trong cương vị công tác của mình
+
+@awol  
+*  tt
+- (quân sự) nghỉ không được phép, nghỉ không xin phép
+
+@awry  
+*  dt & tt
+- xiên, méo, lệch
+
++ to look awry: nhìn xiên, lé nhìn; (nghĩa bóng) nhìn một cách ngờ vực
+
++ a face awry with pain: bộ mặt méo mó vì đau đớn
+- hỏng, thất bại; không tốt, không như ý muốn, không như ý mong đợi
+
++ to go (run, tread) awry: hỏng, thất bại
+
+@

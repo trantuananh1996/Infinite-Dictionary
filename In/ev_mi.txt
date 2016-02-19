@@ -1,0 +1,3394 @@
+@mi  
+*  dt
+- (âm nhạc) Mi
+
+@mia
+* (viết tắt)
+- quân nhân bị mất tích trong chiến tranh (missing in action)
+ @miaow  
+*  ndgt
+- kêu meo meo (mèo)
+
+@miasma  
+*  dt,  số nhiều miasmata  @miasmal   (miasmatic) @miasmata  
+*  dt,  số nhiều miasmata  @miasmatic   (miasmatic) @miaul  
+*  ndgt
+- kêu như mèo
+
+@mibf
+- thời gian trung bình giữa các sự cố (MTBF)  Thời gian hoạt động trung bình theo thống kê giữa thời điểm một linh kiện hay thiết bị bắt đầu công tác và thời điểm xảy ra sự cố đầu tiên của nó về điện tử hoặc cơ khí
+ @mica  
+*  dt
+- (khoáng chất) mi ca
+
+@micaceous  
+*  tt
+- (thuộc) mi ca; như mi ca
+- bằng mi ca; có mi ca
+
+@mice  
+- mauz@micella   (micelle) @micellae
+- số nhiều của micella
+ @micelle   (micelle) @michaelmas  
+*  dt
+- ngày lễ thánh Mi-sen (29 9)
+!Michaelmas daisy
+- hoa cúc tây
+
+@mick
+* dt
+- người Ai-len
+ @mickey
+
++  to take the mickey:trêu chọc; giễu cợt
+ @mickle   (muckle) @micra
+- số nhiều của micron
+ @micro
+- vi, tiểu, nhỏ (micro film: vi phim)
+ @microbe  
+*  dt
+- vi trùng, vi khuẩn
+
+@microbial   (microbian) @microbian   (microbian) @microbic   (microbian) @microbicide  
+*  dt
+- chất khử vi trùng
+
+@microbiologic   (microbiological) @microbiological   (microbiological) @microbiologist  
+*  dt
+- nhà vi trùng học
+
+@microbiology  
+*  dt
+- vi trùng học
+
+@microbism  
+*  dt
+- sự nhiễm trùng
+
+@microcephalic   (microcephalous) @microcephalous   (microcephalous) @microcephaly
+* dt
+- sự nhỏ đầu
+ @microchip
+* dt
+- mạch vi xử lý; vi mạch
+ @microcircuit
+* dt
+- mạch điện trong một mạch vi xử lý
+ @microclimate  
+*  dt
+- vi khí hậu
+
+@microcomputer
+* dt
+- máy tính nhỏ (dùng trong nhà hay ở các công sở) có trung tâm xử lý là mạch vi xử lý; máy vi tính
+ @microcomputing
+- vi tin học
+ @microcopy  
+*  dt
+- bản sao micrôfim (trong sách in...)
+
+@microcosm  
+*  dt
+- thế giới vi mô
+
+@microcosmic  
+*  tt
+- vi mô
+
+@microdot
+* dt
+- ảnh (thường) là tài liệu mật được thu nhỏ lại bằng một dấu chấm
+ @Microeconomics
+- (Econ) Kinh tế học vi mô.
+: Là thuật ngữ sử dụng để mô tả những phần trong phân tích kinh tế quan tâm đến hành vi của những đơn vị đơn lẻ, cụ thể là những người tiêu dùng và các doanh nghiệp.
+ @microeconomics
+* dt
+- (kinh tế) ngành nghiên cứu hoạt động của các doanh nghiệp và người tiêu dùng; kinh tế vi mô
+ @microelectronics
+* dt
+- vi điện tử
+ @microelement  
+*  dt
+- nguyên tố vi lượng
+
+@microfarad
+* dt
+- Micrôfara
+ @microfiche
+* dt
+- tấm vi phim
+ @microfilm  
+*  dt
+- micrôfim
+
+@microform
+* dt
+- dạng thu nhỏ
+ @Microfoundations
+- (Econ) Các cơ sở vi mô.
+: Là nỗ lực tìm ra được những mối qun hệ về hành vi của kinh tế học vĩ mô từ những mô hình hành vi của các cá thể mà kinh tế học vi mô đã bàn đến.
+ @microgram   (microgramme) @microgramme   (microgramme) @micrography  
+*  dt
+- phép khảo sát bằng kính hiển vi
+
+@microlight
+* dt
+- loại tàu lượn có động cơ
+ @micrology  
+*  dt
+- sự chẻ sợi tóc làm tư, sự quá đi sâu bắt bẻ chi tiết vụn vặt
+
+@micrometer  
+*  dt
+- cái đo vi, trắc vi kế
+
+@micrometer
+- (kỹ thuật) thước đo vi
+ @micrometry  
+*  dt
+- phép đo vi
+
+@micron  
+*  dt
+- Micrômet
+
+@microorganic  
+*  tt
+- (thuộc) vi sinh vật
+
+@microorganism  
+*  dt
+- vi sinh vật
+
+@microphone  
+*  dt
+- micrô ((thông tục) mike)
+
+@microphone
+- (vật lí) (cái) micrô
+ @microphotograph
+* dt
+- vi ảnh
+ @microprocessor
+- bộ vi xử lý
+ @microprogramming
+- (máy tính) vi chương trình hoá
+ @microrelay
+- (máy tính) rơle cực nhỏ
+ @microscope  
+*  dt
+- kính hiển vi
+
+@microscopic   (microscopical) @microscopical   (microscopical) @microscopically
+* dt
+- xem microscopic
+ @microscopist  
+*  dt
+- người dùng kính hiển vi
+
+@microscopy  
+*  dt
+- sự dùng kính hiển vi; sự soi kính hiển vi
+
+@microsecond
+* dt
+- một phần triệu của giây
+ @microseism
+- vlđc. vi chấn
+ @microsoft
+- Tên hãng phần mềm máy tính lớn nhất thế giới của Mỹ
+ @microsope
+- (vật lí) kính hiển vi
+ @microspore  
+*  dt
+- (thực vật học) tiểu bào tử
+
+@microstatistics
+- (thống kê) thống kê các mẫu nhỏ
+ @microstructure
+* dt
+- tổ chức tế vi, cấu tạo vi lượng
+- cấu trúc vi mô
+ @microsurgery
+* dt
+- xem microtomy
+ @microtome  
+*  dt
+- dao cắt vi, máy vi phẫu
+
+@microtomic  
+*  tt
+- cắt vi, vi phẫu
+
+@microtomist  
+*  dt
+- nhà vi phẫu
+
+@microtomy  
+*  dt
+- thuật cắt vi, thuật vi phẫu
+
+@microvolt  
+*  dt
+- (điện học) Micrôvon
+
+@microwatt  
+*  dt
+- (điện học) Micrôoat
+
+@microwave  
+*  dt
+- (raddiô) sóng cực ngắn, vi ba
+
+@micturition  
+*  dt
+- chứng đái giắt
+- sự đi đái
+
+@mid  
+*  tt
+- giữa
+
++ from mid June to mid August: từ giữa tháng sáu đến giữa tháng tám
+*  dt
+- (thơ ca) (như) amid
+
+@mid-coefficient
+- hệ số ở giữa (một công thức)
+ @midday  
+*  dt,  (thường) định ngữ
+- trưa, buổi trưa
+
++ midday meal: bữa cơm trưa
+
+@midden  
+*  dt
+- đống phân
+
+@middle  
+*  dt
+- giữa
+
++ in the middle: ở giữa
+
++ right in the middle: ở chính giữa
+
++ in the middle of our century: ở giữa thế kỷ của chúng ta
+- nửa người, chỗ thắt lưng
+
++ to be up to the middle in water: đứng nước ngập đến thắt lưng
+*  tt
+- ở giữa, trung
+
++ the middle finger: ngón tay giữa
+
++ middle age: trung niên
+!the Middle Ages
+- thời Trung cổ
+
++ the middle class: giai cấp trung gian; giai cấp tiểu tư sản
+!Middle East
+- Trung đông
+
++ middle course (way): biện pháp trung dung, đường lối trung dung
+
++ middle school: trường trung học
+*  ngdgt
+- đá (bóng) từ cánh vào (khu trung lộ trước gôn)
+- (từ Mỹ,nghĩa Mỹ) đặt vào giữa
+- xếp đôi (lá buồm lại)
+
+@middle
+- giữa   để ở giữa
+@middle watch  
+*  dt
+- ca gác đêm (từ nửa đêm đến 4 giờ sáng)
+
+@middle-aged  
+*  tt
+- trung niên
+
+@middle-brow
+* tt
+- (nói về người) có trình độ hiểu biết vừa phải
+ @middleman  
+*  dt
+- người môi giới
+
+@middle-of-the-road  
+*  tt
+- đứng giữa; ôn hoà, không cực đoan
+
+@middle-of-the-roader  
+*  dt
+- người đứng giữa; người ôn hoà, người không cực đoan
+
+@middle-sized  
+*  tt
+- tầm thước
+
+@middleweight
+* dt
+- vận động viên @middling  
+*  tt
+- trung bình, vừa phải, bậc trung
+
++ a man of middling size: một người tầm thước
+- (thông tục) khá khoẻ mạnh
+
+@middlings  
+*  dt
+- trung bình, vừa phải, kha khá
+
++ middlings tall: cao vừa phải
+*  dt số nhiều
+- hàng hoá loại vừa
+- tấm, hạt tấm
+- (từ Mỹ,nghĩa Mỹ) thịt lợn muối
+
+@middy   (middy) @mideast
+* dt
+- như Middle East
+ @midfield
+* dt
+- phần giữa của sân bóng đá; khu trung tuyến
+
++  a midfield player:cầu thủ trung vệ
+ @midge  
+*  dt
+- (động vật học) ruồi nhuế
+- người nhỏ bé
+
+@midget  
+*  dt
+- người rất nhỏ
+- cái rất nhỏ, vật rất nhỏ, con vật rất nhỏ
+- (định ngữ) rất nhỏ
+
+@midget
+- rất nhỏ
+ @midgety
+* tt
+- nhỏ tí tẹo, cực bé
+ @midi
+- Một giao thức truyền thông tiêu chuẩn để trao đổi thông tin giữa máy tính và các bộ tổng hợp tín hiệu âm nhạc
+ @midinette  
+*  dt
+- cô bán hàng (ở Pa-ri)
+
+@midland  
+*  dt
+- trung du
+- (the Midlands) vùng trung du nước Anh
+
+@midline
+- đường trung bình
+- m. of a trapezoid trung bình tuyến của một hình thang 
+ @midmost  
+*  tt & dt
+- ở chính giữa
+
+@midnight  
+*  dt
+- nửa đêm, mười hai giờ đêm
+
+@midperpendicular
+- trung trực
+ @midpoint
+- trung điểm
+- m. of a line segment trung điểm của một đoạn thẳng 
+- m. of a simplex (tô pô) tâm một đơn hình 
+ @midrange
+* dt
+- khoảng cách @midrange
+- (thống kê) nửa tổng các biên trị
+ @midrib  
+*  dt
+- (thực vật học) gân giữa (của lá)
+
+@midriff  
+*  dt
+- (giải phẫu) cơ hoành
+
+@midsequent
+- (logic học) hệ quả trung gian
+ @midshipman   (middy) @midst  
+*  dt
+- giữa
+
++ in the midst of: ở giữa; giữa lúc
+
++ in their midst; in the midst of them: ở giữa bọn họ
+*  dt
+- (thơ ca) (như) amid
+
+@midstream
+* dt
+- giữa dòng (sông, suối)
+
++  to change @midsummer  
+*  dt
+- giữa mùa hè
+- hạ chí
+
+@midsummer day  
+*  dt
+- ngày hạ chí
+
+@midsummer madness  
+*  dt
+- sự ngông cuồng trong chốc lát
+- hành động ngông cuồng trong chốc lát
+
+@midterm  
+*  dt
+- giữa năm học; giữa nhiệm kỳ
+- (số nhiều) cuộc thi giữa năm học (hết học kỳ I)
+*  tt
+- giữa năm học; giữa nhiệm kỳ
+
+@mid-value
+- giá trị trung bình
+- 0 0
+ @midway  
+*  dt
+- nửa đường, giữa đường
+*  tt & dt
+- ở nửa đường, nửa chừng
+
+@midweek  
+*  dt
+- giữa tuần
+
+@midweekly  
+*  tt & dt
+- giữa tuần; vào giữa tuần
+
+@midwife  
+*  dt
+- bà đỡ, bà mụ
+
+@midwifery  
+*  dt
+- (y học) khoa sản; thuật đỡ đẻ
+
+@midwinter  
+*  dt
+- giữa mùa đông
+- đông chí
+
+@midyear  
+*  dt
+- giữa năm
+- (số nhiều) (thông tục) kỳ thi giữa năm
+*  tt
+- giữa năm, vào giữa năm
+
+@mien  
+*  dt,  (văn học)
+- dáng điệu, phong cách
+- vẻ mặt, sắc mặt, dung nhan
+
++ with a sorrowful mien: với vẻ mặt buồn rầu
+
+@miff  
+*  dt
+- (thông tục) sự mếch lòng, sự phật ý
+*  ndgt
+- (thông tục) (: with,  at) lấy làm mếch lòng, lấy làm phật ý
+*  ngdgt
+- làm mếch lòng, làm phật ý
+
+@might  
+*  thời quá khứ của may
+*  dt
+- sức mạnh, lực (thân thể hoặc tinh thần)
+
++ by might: bằng sức mạnh, bằng vũ lực
+
++ with all one's might; with might and main: với tất cả sức mạnh, dốc hết sức
+
+@mightily  
+*  dt
+- mạnh mẽ, mãnh liệt, dữ dội
+- (thông tục) cực kỳ, rất, hết sức
+
++ to be mightily pleased: hết sức hài lòng
+
+@mightiness  
+*  dt
+- sức mạnh, sự hùng cường, sự hùng mạnh
+- sự to lớn, sự vĩ đại, sự hùng vĩ, sự đồ sộ
+!his Mightiness
+-(đùa cợt) các hạ tướng công
+
+@mightn't
+- xem may
+ @mighty  
+*  tt
+- mạnh, hùng cường, hùng mạnh
+- to lớn, vĩ đại, hùng vĩ, đồ sộ
+
++ the mighty ocean: đại dương hùng vĩ
+- (thông tục) to lớn; phi thường
+!high and mighty
+- vô cùng kiêu ngạo
+*  dt
+- (thông tục) cực kỳ, hết sức, rất, lắm
+
++ to think oneself mighty wise: tự cho mình là khôn ngoan lắm
+
++ it is mighty easy: cái đó dễ lắm
+
+@mignonette  
+*  dt
+- (thực vật học) cây mộc tê
+- màu lục xám
+- đăng ten minhonet
+
+@migraine  
+*  dt
+- (y học) chứng đau nửa đầu
+
+@migrant  
+*  tt
+- di trú
+
++ migrant birds: chim di trú
+*  dt
+- người di trú
+- chim di trú
+
+@migrate  
+*  ndgt
+- di trú; ra nước ngoài
+- chuyển trường (chuyển từ trường đại học này sang trường đại học khác)
+
+@migration  
+*  dt
+- sự di trú
+- sự chuyển trường (từ trường đại học này sang trường đại học khác)
+- đoàn người di trú; bầy chim di trú
+
+@migrator  
+*  dt
+- người di trú, chim di trú
+
+@migratory  
+*  tt
+- di trú, nay đây mai đó
+
++ migratory birds: chim di trú
+- (y học) di động
+
+@mikado  
+*  dt
+- thiên hoàng (vua Nhật bản)
+
+@mike  
+*  dt
+- (thông tục) (như) microphone
+
+@mikron
+- như micron
+ @mil  
+*  dt
+- nghìn
+
++ per mil: phần nghìn
+- (viết tắt) của mililitre
+- Min (đơn vị đo đường kính dây thép bằng 1 soành 00 cm)
+
+@milady  
+*  dt
+- phu nhân
+
+@milage   (milage) @milch  
+*  tt
+- milch cow bò sữa ((nghĩa đen) & (nghĩa bóng))
+
+@mild  
+*  tt
+- nhẹ
+
++ a mild punishment: một sự trừng phạt nhẹ
+
++ tuberculosis in a mild form: bệnh lao thể nhẹ
+- êm dịu, không gắt, không xóc (thức ăn, thuốc lá, thuốc men...)
+
++ mild beer: rượu bia nhẹ
+- dịu dàng, hoà nhã, ôn hoà
+
++ mild temper: tính tình hoà nhã
+- ôn hoà, ấm áp (khí hậu, thời tiết...)
+- mềm, yếu, nhu nhược, yếu đuối
+
++ mild steel: thép mềm, thép ít cacbon
+!draw it mild
+- (thông tục) đừng làm quá!, hãy ôn hoà!
+
+@milden  
+*  dgt
+- làm dịu đi, dịu đi
+
+@mildew  
+*  dt
+- nấm minddiu, nấm mốc sương
+- mốc (trên da thuộc...)
+*  dgt
+- nhiễm minddiu; bị nhiễm minddiu
+- làm mốc, bị mốc
+
+@mildewed   (mildewy) @mildewy   (mildewy) @mildly  
+*  dt
+- nhẹ, nhẹ nhàng, êm dịu
+- dịu dàng, hoà nhã, ôn hoà
+- mềm yếu, nhu nhược, yếu đuối
+!to put it mildly
+- nói thận trọng, nói dè dặt
+
+@mildness  
+*  dt
+- tính nhẹ, tính êm
+- tính dịu dàng, tính hoà nhã, tính ôn hoà
+- tính mềm yếu, tính nhu nhược, tính yếu đuối
+
+@mile  
+*  dt
+- dặm, lý
+
++ nautical mile: dặm biển, hải lý
+- cuộc chạy đua một dặm
+!miles better
+- (thông tục) tốt hơn nhiều lắm
+!miles easier
+- (thông tục) dễ hơn nhiều lắm
+
+@mile
+- dặm
+- geographical m. dặm địa lý 
+- nautical m. hải lý 
+ @mileage   (milage) @mileometer
+- như milometer
+ @miler  
+*  dt
+- (thông tục) vận động viên chạy đua cự ly một dặm; ngựa đua chuyên chạy cự ly một dặm
+
+@milestone  
+*  dt
+- cột kilômét cọc
+- (nghĩa bóng) sự kiện quan trọng, mốc lịch sử, giai đoạn quan trọng (trong đời ai)
+
+@milfoil  
+*  dt
+- (thực vật học) cỏ thi
+
+@mili
+- Tiền tố chỉ một phần ngàn
+ @miliaria
+* dt
+- bệnh mồ hôi trộm
+ @milieu
+* dt
+- số nhiều là milieux
+- môi trường, hoàn cảnh
+ @milieux
+- số nhiều của milieu
+ @militancy  
+*  dt
+- tính chiến đấu
+
+@militant  
+*  tt
+- chiến đấu
+
++ the militant solidarity among the oppresed peoples: tình đoàn kết chiến đấu giữa các dân tộc bị áp bức
+*  dt
+- người chiến đấu, chiến sĩ
+
+@militarese
+* dt
+- ngôn ngữ quân sự
+ @militarily  
+*  dt
+- với tính chất quân sự; với tính chất quân đội
+- theo quan điểm quân sự, về mặt quân sự
+
+@militarisation
+- như militarization
+ @militarise   (militarise) @militarism  
+*  dt
+- chủ nghĩa quân phiệt
+- tinh thần thượng võ
+
+@militarist  
+*  dt
+- người theo chủ nghĩa quân phiệt
+
+@militaristic  
+*  tt
+- quân phiệt
+
+@militarization  
+*  dt
+- sự quân phiệt hoá
+- sự quân sự hoá
+
+@militarize   (militarise) @military  
+*  tt
+- (thuộc) quân đội, (thuộc) quân sự
+*  dt
+- (thường) the military quân đội, bộ đội
+
+@military government  
+*  dt
+- chính phủ quân sự (của quân chiếm đóng ở nước bị chiếm đóng)
+
+@military intelligence  
+*  dt
+- tình báo quân đội
+
+@military law  
+*  dt
+- quân pháp
+
+@military police  
+*  dt
+- quân cảnh
+
+@military science  
+*  dt
+- khoa học quân sự
+
+@militate  
+*  ndgt
+- chiến đấu
+- (militate against) chứng minh ngược lại
+- cản trở
+
++ bad weather militated against our plan: thời tiết xấu đã cản trở kế hoạch của chúng tôi
+
+@militerrorism  
+*  dt
+- sự khủng bố quân sự, sự đàn áp quân sự
+
+@militia  
+*  dt
+- dân quân
+
+@militiaman  
+*  dt
+- anh dân quân
+
+@milk  
+*  dt
+- sữa
+
++ condensed milk: sữa đặc
+
++ milk of almonds: nước sữa hạnh
+- nhựa mủ (cây), nước (dừa...)
+!it is no use crying over spilt milk
+- (xem) spill
+!milk for bales
+- (nghĩa bóng) loại văn học đơn giản, học thuyết đơn giản
+*  ngdgt
+- vắt sữa
+
++ to milk a cow: vắt sữa bò
+- bòn rút, bóc lột
+- lấy (nhựa) bóp, nặn (nọc rắn...)
+- (từ lóng) nhận trộm, nghe lỏm (điện tín)
+*  ndgt
+- cho sữa
+
++ the cows are milking well this season: mùa này bò cho nhiều sữa
+!to milk the ram (bull)
+- lấy gậy chọc trời
+!to milk the tilt
+- thụt két
+
+@milk and honey  
+*  dt
+- cảnh phong lưu
+
+@milk and water  
+*  dt
+- sữa pha lõng
+- bài nói chuyện nhạt nhẽo, bài nói chuyện vô vị; cuốn sách nhạt nhẽo
+*  tt
+- yếu ớt
+- nhạt nhẽo, vô vị
+
+@milk-bar  
+*  dt
+- quán sữa (bán sữa và các thứ đồ uống làm bằng sữa, kem...)
+
+@milk-brother  
+*  dt
+- anh (em) cùng vú (con chủ nhà với con vú sữa)
+
+@milker  
+*  dt
+- người vắt sữa; máy vắt sữa
+- bò sữa
+
+@milk-fever  
+*  dt
+- (y học) sốt sữa
+
+@milk-float
+* dt
+- xe phân phát sữa cho các nhà dân; xe đưa sữa
+ @milk-gauge  
+*  dt
+- cái đo sữa
+
+@milkiness
+* dt
+- màu sữa, màu trắng đục
+- khả năng cho sữa
+- tính nhu nhược
+ @milking-machine
+* dt
+- máy vắt sữa
+ @milk-livered  
+*  tt
+- nhút nhát, nhát gan, khiếp nhược
+
+@milk-loaf
+* dt
+- bánh mì trắng làm với sữa
+ @milkmaid  
+*  dt
+- cô gái vắt sữa
+- cô gái làm việc ở trại bò sữa
+
+@milkman  
+*  dt
+- người bán sữa; người đi giao sữa
+
+@milk-powder  
+*  dt
+- sữa bột, sữa khô
+
+@milk-ranch  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) trại nuôi bò sữa
+
+@milkround
+* dt
+- lộ trình giao sữa của người đi giao sữa cho từng nhà
+ @milk-shake  
+*  dt
+- cốc sữa trứng đã khuấy
+
+@milksop  
+*  dt
+- bánh nhúng vào sữa
+- người nhút nhát, người hèn yếu
+
+@milk-sugar  
+*  dt
+- (hoá học) Lactoza
+
+@milk-tooth  
+*  dt
+- răng sữa
+
+@milk-walk  
+*  dt
+- chuyến đi giao sữa
+
+@milkweed  
+*  dt
+- (thực vật học) giống bông tai
+
+@milk-white  
+*  tt
+- trắng sữa
+
+@milky  
+*  tt
+- (thuộc) sữa, như sữa, có sữa, nhiều sữa
+- trắng đục (như sữa)
+- yếu ớt, ẻo lả; hiền lành, nhu mì
+
+@milky way  
+*  dt
+- (thiên văn học) ngân hà
+
+@mill  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) min (bằng 1 qoành 000 đô la)
+*  dt
+- cối xay, máy xay, nhà máy xay; máy nghiền, máy cán
+- xưởng, nhà máy
+- (từ lóng) cuộc đấu quyền Anh
+- (nghĩa bóng) sự thử thách gay go, nỗi cực khổ; sự tập luyện gian khổ; công việc cực nhọc
+
++ to go through the mill: chịu đựng những gian khổ; qua những thử thách gay go
+
++ to put someone through the mill: bắt ai chịu những thử thách gay go, bắt ai chịu những nỗi cực khổ; bắt ai tập luyện gian khổ
+*  ngdgt
+- xay, nghiền, cán; xay bằng cối xay, xay bằng máy xay; nghiền bằng máy nghiền
+
++ to mill flour: xay bột
+
++ to mill steel: cán thép
+- đánh sủi bọt
+
++ to mill chocolate: đánh sôcôla cho sủi bọt lên
+- (từ lóng) đánh, đấm, thụi, giâ, tẩn; đánh gục, đánh bại
+- khắc cạnh, khía răng cưa; làm gờ
+
++ to mill a coin: khía răng cưa vào gờ đồng tiền; làm gờ cho đồng tiền
+*  ndgt
+- đi quanh (súc vật, đám đông)
+- (từ lóng) đánh đấm nhau
+
+@mill construction  
+*  dt
+- nhà làm bằng gỗ chống cháy
+
+@millboard  
+*  dt
+- bìa cứng
+
+@millcake  
+*  dt
+- khô dầu
+
+@mill-dam  
+*  dt
+- đạp máy xay (đập nước để chạy máy xay)
+
+@millefeuille
+* dt
+- một loại bánh ngọt dùng với kem
+ @millenarian  
+*  tt
+- (như) millenary
+- tin là có thời đại hoàng kim
+*  dt
+- kỷ niệm lần thứ một nghìn ((cũng) millenary)
+
+@millenary  
+*  tt
+- gồm một nghìn; nghìn năm
+*  dt
+- nghìn năm, mười thế kỷ
+- kỷ niệm lần thứ một nghìn ((cũng) millenarian)
+- người tin là có thời đại hoàng kim
+
+@millennia  
+*  dt,  số nhiều millennia  @millennial  
+*  dt
+- gồm một nghìn; nghìn năm
+
+@millennium  
+*  dt,  số nhiều millennia  @millepede   (millipede) @miller  
+*  dt
+- chủ cối xay
+- loài nhậy cánh mốc, loài bướm cánh mốc
+- con bọ da
+
+@Miller - Tydings Act of Đạo luật Miller - Tydings năm 1937.
+- (Econ) Là đạo luật về buôn bán công bằng, định ra quyền của một nhà sản xuất Mỹ trong việc quy định những mức giá bán lẻ tối thiểu cho các mặt hàng có nhãn hiệu thương mại và được đăng ký vào năm 1972, quốc hội đã tuyên bố những đạo luật trên đều vô hiệu.
+ @millesimal  
+*  tt
+- phần nghìn, từng phần nghìn
+
+@millet  
+*  dt
+- (thực vật học) cây kê
+- hạt kê
+
+@mill-hand  
+*  dt
+- công nhân nhà máy, công nhân xí nghiệp
+
+@milliampere
+* dt
+- Miliămpe
+ @milliard  
+*  dt
+- tỷ (nghìn triệu)
+
+@milliard
+- nghìn triệu (10 9 ) 
+ @millibar  
+*  dt
+- (vật lý) Milibarơ
+
+@milligramme  
+*  dt
+- Miligam
+
+@millimetre  
+*  dt
+- Milimet
+
+@milliner  
+*  dt
+- người làm mũ và trang phục phụ nữ
+!man milliner
+- người đàn ông thích làm việc tỉ mẩn
+
+@millinery  
+*  dt
+- đồ trang phục phụ nữ (mũ, băng, dây nơ...)
+- nghề làm đồ trang phục phụ nữ; nghề buôn bán đồ trang phục phụ nữ
+
+@milling  
+*  dt
+- sự xay, sự nghiền, sự cán
+- sự khía cạnh; sự làm gờ (đồng tiền)
+- (từ lóng) sự giâ, sự đánh, sự tẩn
+
+@milling-machine
+* dt
+- máy phay
+ @million  
+*  tt
+- triệu
+*  dt
+- triệu; (một) triệu đồng bảng; (từ Mỹ,nghĩa Mỹ) (một) triệu đô la
+- (the million) quần chúng, quảng đại quần chúng
+
+@million
+- một triệu (10 6 ) 
+ @millionaire  
+*  dt
+- nhà triệu phú, người giàu bạc triệu
+
+@millionairess
+* dt
+- nữ triệu phú
+ @millionth  
+*  tt
+- bằng một phần triệu
+- thứ một triệu
+*  dt
+- một phần triệu
+- người thứ một triệu; vật thứ một triệu
+
+@millipede   (millipede) @millisecond  
+*  dt
+- một phần nghìn giây
+
+@millivolt
+* dt
+- Milivôn
+ @mill-owner  
+*  dt
+- chủ xưởng, chủ nhà máy
+
+@mill-pond  
+*  dt
+- bể nước máy xay (bể nước chứa nước của nhà máy xay)
+!like a mill-pond
+- sóng yên bể lặng
+
+@mill-race   (mill-stream) @millstone  
+*  dt
+- đá cối xay
+!between the upper and the nethrt milstone
+- trên đe dưới búa
+!to have (fix) a millstone about one's neck
+- đeo cùm vào cổ; gánh vác công việc nặng nề
+!to see [far] into a millstone
+- (xem) see
+
+@mill-stream   (mill-stream) @mill-wheel  
+*  dt
+- bánh xe cối xay
+
+@millwright  
+*  dt
+- thợ cối xay
+
+@milometer
+- Cách viết khác : mileometer 
+ @milor   (milord) @milord   (milord) @milpa  
+*  dt
+- nương rẫy
+
+@milquetoast  
+*  dt
+- người nhút nhát, người nhu nhược
+
+@milt  
+*  dt
+- (giải phẫu) lá lách
+- tinh dịch cá
+*  ngdgt
+- tưới tinh dịch lên (trứng cá)
+
+@milter  
+*  dt
+- cá có tinh dịch, cá đực (trong mùa sinh sản)
+
+@mime  
+*  dt
+- kịch điệu bộ (cổ La-mã,  (từ cổ,nghĩa cổ) Hy-lạp)
+- diễn viên kịch điệu bộ
+- người giỏi bắt chước; anh hề
+*  ndgt
+- diễn kịch điệu bộ
+- bắt chước điệu b
+
+@mimeograph  
+*  dt
+- máy in rô-nê-ô
+*  ngdgt
+- in bằng máy in rô-nê-ô
+
+@mimesis  
+*  dt
+- (động vật học) sự nguỵ trang
+
+@mimetic  
+*  tt
+- bắt chước; có tài bắt chước
+
+@mimic  
+*  tt
+- bắt chước
+*  ngdgt
+- người có tài bắt chước
+*  ngdgt
+- nhại (ai)
+- bắt chước
+- giống hệt (vật gì)
+
+@mimic
+- tương tự
+ @mimicker  
+*  dt
+- người bắt chước
+
+@mimicry  
+*  dt
+- sự bắt chước, tài bắt chước
+- vật giống hệt (vật khác)
+- (động vật học),  (như) mimesis
+
+@miminy-piminy  
+*  tt
+- khảnh, khó tính
+
+@mimosa  
+*  dt
+- (thực vật học) cây xấu hổ, cây trinh n
+
+@min
+- (viết tắt) tối thiểu
+ @minacious   (minatory) @minacity  
+*  dt
+- tính chất đe doạ
+
+@minar  
+*  dt
+- đài tháp nhỏ
+- đèn biển
+
+@minaret  
+*  dt
+- tháp (ở giáo đường Hồi giáo)
+
+@minatory   (minatory) @mince  
+*  dt
+- thịt băm, thịt thái nhỏ, thịt vụn
+
++ mince of beef: thịt bò thái nhỏ
+*  ngdgt
+- băm, thái nhỏ, cắt nhỏ
+- nói õng ẹo
+*  ndgt
+- đi đứng õng ẹo, nói õng ẹo, nói uốn éo
+!not to mince matters (one's words)
+- nói thẳng, nói chẻ hoe
+
+@mincemeat  
+*  dt
+- nhân quả băm (nhân bánh bằng quả táo, nho... có khi có cả thịt băm nhỏ)
+!to make mincemeat of
+- băm nhỏ, băm vụn, đập nát ((nghĩa đen) & (nghĩa bóng))
+
+@mince-pie
+* dt
+- bánh patê dùng trong dịp lễ Giáng sinh
+ @mincer
+* dt
+- máy băm thịt
+ @mincing  
+*  tt
+- điệu bộ, màu mè, õng ẹo, uốn éo
+
+@mincing machine  
+*  dt
+- máy băm thịt
+
+@mind  
+*  dt
+- tâm, tâm trí, tinh thần
+
++ mind and body: tinh thần và thể chất
+- trí, trí tuệ, trí óc
+- ký ức, trí nhớ
+
++ to call (bring) something to mind: nhớ lại một cái gì
+- sự chú ý, sự chủ tâm, sự lưu ý
+
++ to keep one's mind on doing something: nhớ chú ý làm việc gì
+
++ to give one's mind to: chủ tâm vào, chuyên tâm vào
+- ý kiến, ý nghĩ, ý định
+
++ to change one's mind: thay đổi ý kiến
+!to be in two minds
+- do dự, không nhất quyết
+!to be of someone's mind
+- đồng ý kiến với ai
+
++ we are all of one mind: chúng tôi nhất trí với nhau
+
++ I am of his mind: tôi đồng ý với nó
+
++ I am not of a mind with him: tôi không đồng ý với nó
+!to be out of one's mind
+- mất bình tĩnh
+!not to be in one's right mind
+- không tỉnh trí
+!to bear (have, keep) in mind
+- ghi nhớ; nhớ, không quên
+!to give someone a piece (bit) of one's mind
+- nói cho ai một trận
+!to have a great (good) mind to
+- có ý muốn
+
++ I have a good mind to visit him: tôi muốn đến thăm hắn
+!to have hair a mind to do something
+- miễn cưỡng làm gì; không toàn tâm toàn ý làm gì
+!to have something on one's mind
+- có cái gì bận tâm, có cái gì lẩn quẩn trong tâm trí
+!not to know one's own mind
+- phân vân, do dự
+!to make up one's mind
+- quyết định, nhất định; đành phải coi như là không tránh được
+
++ to make up one's mind to do something: quyết định làm việc gì
+
++ to make up one's mind to some mishap: đành phải chịu một sự không may nào đó coi như là không tránh được
+!to pass (go) out of one's mind
+- bị quên đi
+!to put someone in mind of
+- nhắc nhở ai (cái gì)
+!to set one's mind on
+- (xem) set
+!to speak one's mind
+- nói thẳng, nghĩ gì nói nấy
+!to take one's mind off
+- không để ý, không chú ý; để ý ra chỗ khác
+!to tell someone one's mind
+- nói cho ai hay ý nghĩ của mình
+!absence of mind
+- (xem) absence
+!frame (state) of mind
+- tâm trạng
+!month's mind
+- (xem) month
+!out of sight out of mind
+- (xem) sight
+!presence of mind
+- (xem) prresence
+!time of mind to one's mind
+- theo ý, như ý muốn
+
++ to my mind: theo ý tôi
+*  dgt
+- chú ý, lưu ý, để ý, lưu tâm
+
++ mind the step!: chú ý, có cái bậc đấy!
+
++ mind what you are about: làm gì thì phải để ý vào đó; làm gì thì phải cẩn thận
+- chăm nom, chăm sóc, trông nom, giữ gìn
+
++ to mind the house: trông nom cửa nhà
+
++ to mind the cows: chăm sóc những con bò cái
+- quan tâm, bận tâm, lo lắng, để ý
+
++ never mind what he says: đừng bận tâm (để ý) đến những điều nó nói
+
++ never mind!: không sao cả!, không hề gì!; đừng bận tâm!
+- phản đối, phiền, không thích, khó chịu
+
++ do you mind if I smoke?, do you mind my smoking?: tôi hút thuốc không phiền gì anh (chị) chứ?
+
++ don't mind my keeping you waiting?: tôi làm anh chờ chắc không phiền gì chứ?
+!mind your eye
+- hãy chú ý, hãy cảnh giác
+!mind your P's and Q's
+- (xem) P
+
+@mind
+- quan tâm   tinh thần
+@mind reading  
+*  dt
+- sự đọc được ý nghĩ (của ai)
+
+@mind-blowing
+* tt
+- làm cho mê mẩn sững sờ; gây ảo giác
+ @mind-boggling
+* tt
+- dị thường; không thể tin được
+ @minded  
+*  tt
+- thích, sãn lòng, vui lòng
+
++ he could do it if he were so minded: nó có thể làm h thả thuỷ lôi
+
+@minder
+* dt
+- người giữ, người coi
+- đứa bé gửi người nuôi hộ
+ @mindful
+* tt
+- chú ý, lưu tâm, lo lắng tới, nhớ tới
+ @mindfulness
+* dt
+- sự chú ý, sự lưu tâm, sự lo lắng tới, sự nhớ tới
+ @mindless
+* tt
+- không chú ý, không lưu tâm, không lo lắng tới, không nhớ tới
+- ngu, đần
+ @mindlessly
+* dt
+- thiếu suy xét; dại dột
+ @mindlessness
+* dt
+- sự không chú ý, sự không lưu tâm, sự không lo lắng tới, sự không nhớ tới
+- sự ngu si, sự đần độn
+ @mind-reader
+* dt
+- như thought-reader
+ @mind-reading
+* dt
+- sự đọc được ý nghĩ và tình cảm của người khác; khả năng ngoại cảm
+ @mind's eye  
+*  dt
+- trí nhớ
+- óc tưởng tượng, khả năng mường tượng
+
+@mine
+- đại từ sở hữu
+- của tôi
+- <cổ><thơ>  (trước nguyên âm hay h) như my
+* dt
+- mỏ
+- <bóng> nguồn kho
+- mìn, địa lôi, thuỷ lôi
+* dgt
+- đào, khai
+- <qsự> đặt mìn, đặt địa lôi, thả thuỷ lôi; phá bằng mìn, phá bằng địa lôi, phá bằng thuỷ lôi
+- <bóng> phá hoại
+ @mine-clearing
+* dt
+- sự gỡ mìn
+ @mine-detector
+* dt
+- máy dò @minefield
+* dt
+- bãi mìn
+ @minelayer
+* dt
+- <hải> tàu thả thuỷ lôi
+- <không> máy bay thả mìn
+ @miner
+* dt
+- công nhân mỏ
+- <qsự> lính đánh mìn, lính chôn địa lôi, lính thả thuỷ lôi
+ @mineral  
+*  tt
+- khoáng
+
++ mineral oil: dầu khoáng
+- (hoá học) vô cơ
+
++ mineral acid: axit vô cơ
+*  dt
+- khoáng vật
+- (thông tục) quặng
+- (số nhiều) nước khoáng
+
+@mineral water  
+*  dt
+- nước khoáng
+
+@mineralisation
+- như mineralization
+ @mineralise   (mineralise) @mineralization  
+*  dt
+- sự khoáng hoá
+
+@mineralize   (mineralise) @mineralogical  
+*  tt
+- (thuộc) khoáng vật học
+
+@mineralogist  
+*  dt
+- nhà khoáng vật học
+
+@mineralogy  
+*  dt
+- (khoáng chất) vật học
+
+@minerva  
+*  dt
+- nữ thần Mi-néc-vơ
+
+@minestrone  
+*  dt
+- xúp rau và miến (Y)
+
+@minesweeper  
+*  dt
+- (hàng hải) tàu quét thuỷ lôi
+- cái phá mìn (ở đầu xe tăng)
+
+@minever   (minever) @mineworker
+* dt
+- công nhân mỏ; thợ mỏ
+ @ming
+* dt
+- (lịch sử TrungHoa) Nhà Minh (1368 - 1644)
+* dt
+- (lịch sử TrungHoa) Nhà Minh (1368 - 1644)
+ @mingle  
+*  dgt
+- trộn lẫn, lẫn vào
+
++ to mingle with (in) the crowd: lẫn vào trong đám đông
+
+@mingy  
+*  tt
+- (thông tục) bần tiện, nhỏ mọn
+
+@mini
+- xe mini (một loại xe nhỏ)
+- váy mini (một loại váy cộc)
+ @miniate  
+*  ngdgt
+- sơn son thiếp vàng
+
+@miniature  
+*  dt
+- bức tiểu hoạ
+- ngành tiểu hoạ
+- mẫu vật rút nhỏ
+
++ in miniature: thu nhỏ lại
+*  tt
+- nhỏ, thu nhỏ lại
+
++ miniature camera: máy ảnh cỡ nhỏ
+
++ miniature railway: đường ray nhỏ (làm mẫu hoặc để chơi)
+*  ngdgt
+- vẽ thu nhỏ lại
+
+@miniature
+- cỡ thu nhỏ
+ @miniaturist  
+*  dt
+- nhà tiểu hoạ
+
+@minibus
+* dt
+- xe búyt nhỏ chứa khoảng 12 người
+ @minicab
+* dt
+- xe ôtô cho thuê
+ @minicomputer
+- máy tính mini
+ @minification  
+*  dt
+- sự làm nhỏ đi, sự làm cho bé đi; sự làm giảm tính chất quan trọng
+
+@minify  
+*  ngdgt
+- làm nhỏ đi, làm cho bé đi; làm giảm tính chất quan trọng
+
+@minikin  
+*  dt
+- người nhỏ bé, người nhỏ xíu; vật nhỏ xíu
+*  tt
+- nhỏ xíu, be nhỏ
+- màu mè, điệu b
+
+@minim
+* dt
+- đơn vị đong chất lỏng bằng 1  @minima  
+*  dt,  số nhiều minima  @minimal  
+*  tt
+- rất nhỏ li ti
+- tối thiểu
+
+@minimal
+- cực tiểu
+- strong relative m. cực tiểu tương đối mạnh 
+ @minimalist  
+*  dt
+- người theo phe thiểu số (trong đảng xã hội)
+- người yêu cầu mức tối thiểu
+
+@minimax
+- minimac
+ @Minimax regret
+- (Econ) Quy tắc tối thiểu hoá mức độ đáng tiếc tối đa.
+: Là một quy tắc trong lý thuyết về quá trình ra quyết định trong những diều kiện không chắc chắn.
+ @minimise   (minimize) @minimization
+- sự cực tiểu hoá
+ @minimize   (minimize) @minimize
+- cực tiểu hoá
+ @minimum  
+*  dt,  số nhiều minima  @Minimum
+- (Econ) Giá trị tối thiểu.
+: Giá trị nhỏ nhất của một biến hay một hàm.
+ @minimum
+- cực tiểu
+- improper m. cực tiểu không chân chính 
+- weak relative m. cực tiểu tương đối yếu 
+ @Minimum efficient scale
+- (Econ) Quy mô hiệu quả tối thiểu.
+: L:à quy mô của một nhà máy hoặc doanh nghiệp mà tại đó các chi phí trung bình dài hạn đạt được ở mức tối thiểu.
+ @Minimum employment target
+- (Econ) Mục tiêu tối thiểu về việc làm.
+: Trong các kế hoạch phát triển của cácc nước chậm phát triển thường xác định những mức chỉ tiêu tối thiểu về việ làm.
+ @Minimum lending rate (MLR)
+- (Econ) Lãi suất cho vay tối thiểu.
+: Cụm thuật ngữ được đưa vào tháng 10 1981 MLR đã bị xóa bỏ, dù vẫn còn quy định sễ sử dụng nó trong những trường hợp khẩn cấp.
+@Minimum wage
+- (Econ) Tiền lương tối thiểu.
+ @Minimum wage legislation
+- (Econ) Luật về mức lương tối thiểu.
+: Các luật nhằm vải thiện điều kiện sống của người công nhân bằng cách ấn định một mức thấp nhất đối với lương theo giờ mà các doanh nghiệp trả cho công nhân.
+ @minimus  
+*  tt
+- nhỏ (tuổi) nhất (trong ít nhất ba học sinh trùng tên)
+
+@mining  
+*  dt
+- sự khai mỏ
+
++ a mining engineer: kỹ sư mỏ
+
++ mining industry: công nghiệp m
+
+@minion  
+*  dt
+- khuốm khuỹ người được ưa chuộng
+-(mỉa mai) kẻ nô lệ, tôi đòi, kẻ bợ đỡ
+- (ngành in) chữ cỡ 7
+!minion of fortume
+- người có phúc
+!minions of the law
+- cai ngục; cảnh sát
+!minions of the moon
+- cướp đường
+
+@minipill
+* dt
+- thuốc viên tránh thai
+ @miniskirt  
+*  dt
+- váy ngắn (trên đầu gối, theo mốt những năm sau 1960)
+
+@minister  
+*  dt
+- bộ trưởng
+!Minister for (of) Foreign Affrais; Foreign Minister
+- bộ trưởng bộ ngoại giao, ngoại trưởng
+!the Council of Ministers
+- hội đồng bộ trưởng
+- (ngoại giao) công sứ
+
++ minister plenipotentiary: công sứ toàn quyền
+- người thừa hành, người trợ thủ, tay sai
+- (tôn giáo) mục sư
+!Minister of State
+- Quốc vụ khanh; bộ trưởng không bộ
+!the Prime Minister
+- Thủ tướng
+*  dgt
+- (: to) giúp vào, giúp đỡ; chăm sóc
+
++ to minister to the wants os a sick man: chăm sóc chu đáo một người ốm
+- (tôn giáo) làm mục sư
+- (từ cổ,nghĩa cổ) cung cấp, cấp
+
+@ministerial  
+*  tt
+- (thuộc) bộ trưởng, (thuộc) quốc vụ khanh
+- (thuộc) phái ủng hộ chính phủ (trong quốc hội)
+- (thuộc) mục sư
+- (thuộc) sự thi hành luật pháp
+- phụ vào, bổ trợ, góp phần vào
+
+@ministerialist  
+*  dt
+- người thuộc phái ủng hộ chính ph
+
+@ministrant  
+*  tt
+- cứu giúp, giúp đỡ
+
++ ministrant to someone: giúp đỡ người nào
+*  dt
+- người giúp đỡ, người chăm sóc
+
+@ministration  
+*  dt
+- sự cứu giúp, sự giúp đỡ, sự chăm sóc
+
++ thanks to the ministrations of someone: nhờ có sự chăm sóc của ai
+
+@ministry  
+*  dt
+- Bộ
+
++ the Ministry of Foereign Trade: bộ ngoại thương
+
++ the Ministry of National Defense: bộ quốc phòng
+
++ the Foreign Ministry: bộ ngoại giao
+- chính phủ nội các
+
++ to form a ministry: thành lập chính phủ
+- chức bộ trưởng; nhiệm kỳ bộ trưởng
+- (tôn giáo) đoàn mục sư
+
++ to enter the ministry: trở thành mục sư
+
+@minium  
+*  dt
+- (hoá học) Minium
+
+@miniver   (minever) @mink  
+*  dt
+- (động vật học) chồn vizon
+- bộ da lông chồn vizon
+
+@Minkowskian
+- (thuộc) Minkôpxki
+ @minnie  
+*  dt
+- (Ê-cốt) nuây má
+
+@minnow  
+*  dt
+- (động vật học) cá tuế (họ cá chép)
+!triton among the minnows
+- con hạc trong đàn gà
+!to throw out a minnor to catch a whale
+- thả con săn sắt bắt con cá sộp
+
+@minor  
+*  tt
+- nhỏ (hơn), không quan trọng, thứ yếu
+
++ minor mistakes: những lỗi nhỏ
+
++ to play a minor part: đóng một vai thứ yếu, đóng một vai phụ
+- em, bé (dùng trong trường hợp có hai anh em học cùng trường)
+
++  Smith minor: Xmít bé
+- (âm nhạc) thứ
+
++ minor interval: quãng thứ
+*  dt
+- người vị thành niên
+- (âm nhạc) điệu th
+
+@minor
+- (đại số) định thức con   nhỏ, bé
+- complementary m. định thức con bù
+- principal m. định thức con chính
+- sigbed m. phần bù đại số
+- symmetrical m. định thức con đối xứng
+- unsymmetrical m. định thức con không đối xứng 
+@minorant
+- hàm non
+ @minority
+* dt
+- phần ít; thiểu số
+- only a minority of British households do opinion@Minority control
+- (Econ) Quyền kiểm soát tối thiểu.
+: Là khả nưng của một cá nhân hoặc một tổ chức nắm được quyền kiểm soát một công ty, mặc dù sở hữu ít hơn 51% số cổ phiếu thông thường được quyền bỏ phiếu của công ty.
+ @minotaur  
+*  dt
+- quỷ đầu trâu (thần thoại Hy-Lạp)
+
+@minster  
+*  dt
+- nhà thờ (của một) tu viện
+- nhà thờ lớn
+
+@minstrel  
+*  dt
+- (sử học) người hát vè rong (thời Trung cổ)
+- nhà thơ; nhạc sĩ, ca sĩ
+- (số nhiều) đoàn người hát rong
+
+@minstrelsy  
+*  dt
+- nghệ thuật hát rong
+- những bài ca của đoàn người hát rong
+- đoàn người hát rong
+
+@mint  
+*  dt
+- (thực vật học) cây bạc hà
+- (Ê-cốt) mục đích, ý đồ
+- sự cố gắng
+*  dgt
+- cố gắng
+- nhằm, ngắm
+*  dt
+- sở đúc tiền
+- (nghĩa bóng) món lớn, kho vô tận, nguồn vô tận
+
++ a mint of documents: một nguồn tài liệu vô tận
+
++ a mint of money: một món tiền lớn
+- (nghĩa bóng) nguồn cung cấp, nguồn phát minh, nguồn sáng chế
+*  ngdgt
+- đúc (tiền)
+- (nghĩa bóng) đặt ra, tạo ra
+
++ to mint a new word: đặt ra một từ mới
+*  tt
+- mới, chưa dùng (tem, sách)
+
++ in mint condition: mới toanh
+
+@Mint
+- (Econ) Nhà máy đúc tiền.
+: Là nơi tiền kim loại được sản xuất ra.
+ @mintage  
+*  dt
+- sự đúc tiền, số tiền đúc
+- dấu rập trên mặt đồng tiền
+- (nghĩa bóng) sự đặt ra, sự tạo ra
+
+@mint-sauce
+* dt
+- nước chấm (nước xốt) có bạc hà (chấm thịt cừu nướng)
+ @minty  
+*  tt
+- có bạc hà, có mùi bạc hà
+
+@minuend
+- số bị trừ
+ @minuet  
+*  dt
+- điệu nhảy mơnuet
+- nhạc mơnuet
+
+@minus  
+*  dt
+- trừ
+
++ 7 minus 3 (equal to) 4: 4 trừ 3 còn 4
+- (thông tục) thiếu, mất, không còn
+*  tt
+- trừ
+
++ the minus sign: dấu trừ
+- âm
+
++ minus charge: (vật lý) điện tích âm
+*  dt
+- (toán học) dấu trừ
+- số âm
+
+@minus
+- dấu trừ; đại lượng âm  @minuscule  
+*  tt
+- nhỏ xíu, rất nhỏ
+*  dt
+- chữ nhỏ (trái với chữ hoa)
+
+@minute  
+*  dt
+- phút
+
++ to wait ten minutes: chờ mười phút
+- một lúc, một lát, một thời gian ngắn
+
++ wait a minute!: đợi một lát
+- (toán học) phút (1 thoành 0 của một độ)
+- (ngoại giao) giác the
+- (số nhiều) biên bản
+
++ the minutes of a meeting: biên bản của một cuộc họp
+!to the minute
+- đúng giờ
+
++ to leave at five o'clock to the minute: ra đi đúng lúc năm giờ
+!the minute
+- ngay khi
+
++ I'll tell him the minute [that] he gets here: tôi sẽ bảo hắn ngay khi hắn đến đây
+*  ngdgt
+- tính phút
+- thảo, viết; ghi chép
+
++ to minute something down: ghi chép việc gì
+- làm biên bản, ghi biên bản
+*  tt
+- nhỏ, vụn vặt
+
++ minute details: chi tiết nhỏ
+- kỹ lưỡng, chi ly, cặn kẽ, tỉ mỉ
+
++ a minute investigation: một cuộc điều tra kỹ lưỡng
+
++ a minute decription: sự miêu tả cặn kẽ
+
+@minute
+- phút   nhỏ, không đáng kể
+@minute-book  
+*  dt
+- sổ biên bản
+
+@minute-gun  
+*  dt
+- tiếng súng bắn cách quãng từng khúc
+
+@minute-hand  
+*  dt
+- kim phút
+
+@minutely  
+*  dt & tt
+- từng phút
+*  dt
+- kỹ lưỡng, chi tiết, cặn kẽ, tỉ mỉ
+
+@minute-man  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (sử học) dân quân (trong thời kỳ chiến tranh giành độc lập)
+
+@minuteman
+* dt
+- (từ Mỹ,nghĩa Mỹ),  (sử học) dân quân (trong thời kỳ chiến tranh giành độc lập)
+ @minuteness  
+*  dt
+- tính nhỏ bé, tính vụn vặt
+- tính cực kỳ chính xác
+
+@minutiae  
+*  dt số nhiều
+- những chi tiết vụn vặt
+- những chi tiết chính xác
+
+@minx  
+*  dt
+- người đàn bà lăng loàn, người đàn bà chua ngoa
+- người đàn bà lẳng lơ
+
+@miocen  
+*  dt
+- (địa lý,ddịa chất) thế mioxen
+
+@miocene
+* dt
+- (địa lý) thể mioxen
+ @mioses
+
+ @miosis
+- Cách viết khác : myosis 
+ @mips
+- triệu lệnh mỗi giây (MIPS)
+ @miracle  
+*  dt
+- phép mầu, phép thần diệu
+- điều thần diệu, điều huyền diệu
+- điều kỳ lạ, kỳ công
+
++ a miracle of ingenuity: một sự khéo léo kỳ lạ
+
++ a miracle of architecture: một kỳ công của nền kiến trúc
+- (sử học) kịch thần bí ((cũng) miracle play)
+!to a miracle
+- kỳ diệu
+
+@miracle drug  
+*  dt
+- thuốc tiên
+
+@miracle-monger
+* dt
+- kẻ bịp bợm, tên đại bịp
+ @miraculous  
+*  tt
+- thần diệu, huyền diệu
+- kỳ lạ, phi thường
+
+@miraculously
+* dt
+- kỳ diệu; phi thường
+ @miraculousness  
+*  dt
+- tính thần diệu, tính huyền diệu
+- tính kỳ lạ, tính phi thường
+
+@mirage  
+*  dt
+- (vật lý) ảo tượng
+- ảo vọng
+
+@mire  
+*  dt
+- bùn; vũng bùn
+- bãi lầy
+!to drag someone through the mire
+- bêu rếu ai, làm nhục ai
+!to stick (find oneself) in the mire
+- lâm vào cảnh khó khăn, sa lầy
+*  ngdgt
+- vấy bùn, nhận vào bùn
+- vấy bẩn, làm bẩn
+- đẩy vào hoàn cảnh khó khăn
+
+@mirk   (mirk) @mirror  
+*  dt
+- gương
+- (nghĩa bóng) hình ảnh trung thực (của cái gì)
+*  ngdgt
+- phản chiếu, phản ánh
+
+@mirror-image  
+*  dt
+- hình phản chiếu
+
+@mirror-writing  
+*  dt
+- sự viết chữ ngược (theo hình phản chiếu của gương)
+
+@mirth  
+*  dt
+- sự vui vẻ, sự vui đùa, sự cười đùa, sự nô giỡn
+
+@mirthful  
+*  tt
+- vui, vui vẻ, cười đùa
+
+@mirthfulness  
+*  dt
+- tính vui vẻ, tính hay cười đùa
+
+@mirthless  
+*  tt
+- buồn, không vui vẻ
+
+@mirthlessness  
+*  dt
+- tính buồn, sự không vui vẻ
+
+@miry  
+*  tt
+- lầy bùn
+- đê tiện, bẩn thỉu
+
+@mis
+- hệ thông tin quản lý, hệ quản lý nhân sự
+ @misaddress  
+*  ngdgt
+- gọi nhầm (ai), xưng hô (ai) không đúng
+- viết sai địa chỉ (thư)
+
+@misadjustment
+* dt
+- sự điều chỉnh không khớp
+@misadventure  
+*  dt
+- sự rủi ro, sự bất hạnh
+- (pháp lý) tai nạn bất ngờ (gây chết người, làm bị thương nặng...)
+
+@misadvise   (miscounsel) @misalliance  
+*  dt
+- sự kết hôn không tương xứng
+
+@misanthrope  
+*  dt
+- kẻ ghét người
+
+@misanthropic   (misanthropical) @misanthropical   (misanthropical) @misanthropist
+* dt
+- như misanthrope
+ @misanthropy  
+*  dt
+- tính ghét người, lòng ghét người
+
+@misapplication  
+*  dt
+- sự dùng sai, sự áp dụng sai
+
+@misapply  
+*  ngdgt
+- dùng sai, áp dụng sai
+
+@misapprehend  
+*  ngdgt
+- hiểu sai, hiểu lầm
+
+@misapprehension  
+*  dt
+- sự hiểu sai, sự hiểu lầm
+
+@misappropriate  
+*  ngdgt
+- lạm tiêu, biển thủ, tham ô
+
+@misappropriation  
+*  dt
+- sự lạm tiêu, sự biển thủ, sự tham ô
+
+@misarrange  
+*  ngdgt
+- sắp xếp sai
+
+@misarrangement  
+*  dt
+- sự sắp xếp sai
+
+@misbecame  
+*  ngdgt misbecame  @misbecome  
+*  ngdgt misbecame  @misbecoming  
+*  tt
+- khó coi, không thích hợp, không xứng
+
+@misbegotten  
+*  tt
+- không chính đáng, không hợp pháp
+- hoang (con)
+
+@misbehave  
+*  ngdgt,  (thường) dgt phân thân
+- cư xử không đứng đắn; ăn ở bậy bạ
+
+@misbehavior
+- như misbehaviour
+ @misbehaviour  
+*  dt
+- hạnh kiểm xấu; cách cư xử xấu; cách ăn ở bậy bạ
+
+@misbelief  
+*  dt
+- sự tin tưởng sai
+- tín ngưỡng sai lầm
+
+@misbelieve  
+*  ndgt
+- tin tưởng sai
+- tôn thờ tà giáo
+*  ngdgt
+- không tin; không tin theo (tôn giáo)
+
+@misbeliever  
+*  dt
+- người không tín ngưỡng, người không theo tôn giáo
+
+@misbrand  
+*  ngdgt
+- cho nhân hiệu sai; gắn nhãn hiệu giả vào
+
+@misc
+- (viết tắt)tạp hoá linh tinh, pha tạp, hỗn hợp
+ @miscalculate  
+*  ngdgt
+- tính sai, tính nhầm
+
+@miscalculation  
+*  dt
+- sự tính sai, sự tính nhầm
+
+@miscalculation
+- (máy tính) tính sai
+ @miscall  
+*  ngdgt
+- gọi nhầm tên, gọi sai tên
+- chửi rủa
+
+@miscarriage  
+*  dt
+- sự sai, sự sai lầm
+
++ a miscarriage of justice: một vụ án xử sai; một vụ án xử oan
+- sự thất bại (kế hoạch...)
+- sự thất lạc (thư từ, hàng hoá)
+
++ miscarriage of goods: sự thất lạc hàng hoá
+- sự sẩy thai
+
+@miscarry  
+*  ndgt
+- sai, sai lầm
+- thất bại
+- thất lạc (thư từ, hàng hoá)
+- sẩy thai
+
+@miscast  
+*  ngdgt
+- chọn các vai đóng không hợp cho (một vở kịch)
+- phân công (diễn viên) đóng vai không thích hợp; phân công (một vai) không thích hợp
+
+@miscasting  
+*  dt
+- sự chọn các vai không thích hợp
+- sự cộng sai (các khoản chi thu)
+
+@miscegenation  
+*  dt
+- hôn nhân khác chủng tộc (như da đen với da trắng...)
+- sự lai căng
+
+@miscegenetic  
+*  tt
+- (thuộc) hôn nhân khác chủng tộc (như da đen với da trắng...)
+- lai giống
+
+@miscellanea  
+*  dt số nhiều
+- mớ hỗn hợp tài liệu giấy tờ...
+- tập bút ký tạp văn
+
+@miscellaneity   (miscellaneousness) @miscellaneous  
+*  tt
+- tạp, pha tạp, hỗn hợp; linh tinh
+
++ miscellaneous goods: tạp hoá
+
++ miscellaneous business: việc linh tinh
+- có nhiều đặc tính khác nhau, có nhiều thể khác nhau
+
++ a miscellaneous writer: một nhà văn viết nhiều thể văn khác nhau
+
+@miscellaneous
+- hỗn hợp; nhiều vẻ, đa dạng
+ @miscellaneousness   (miscellaneousness) @miscellanist  
+*  dt
+- nhà văn viết nhiều thể văn khác nhau
+
+@miscellany  
+*  dt
+- sự pha tạp, sự hỗn hợp
+- (văn học) hợp tuyển
+
+@mischance  
+*  dt
+- sự không may, sự rủi ro, sự bất hạnh
+
++ by mischance: do không may
+
+@mischarge
+* dgt
+- tính sai, tính toán sai
+ @mischief  
+*  dt
+- điều ác, việc ác; mối hại, mối nguy hại, sự tổn hại; mối phiền luỵ
+
++ to play the mischief with: gieo tai hoạ, tàn phá, phá phách
+
++ to do someone a mischief: làm ai bị thương; giết ai
+- trò tinh nghịch, trò tinh quái, trò láu cá
+
++ spolled children are often up to mischief: trẻ được nuông chiều thường hay tinh nghịch
+- sự ranh mãnh, sự láu lỉnh, sự hóm hỉnh
+
++ a glance fyll of mischief: cái nhìn ranh mãnh, cái nhìn hóm hỉnh
+- mối bất hoà
+
++ to make mischief between...: gây mối bất hoà giữa...
+- (thông tục) trò quỷ, đồ quỷ quái
+
++ what the mischief do you want?: mày muốn cái quỷ gì?
+
+@mischief-maker  
+*  dt
+- người gây mối bất hoà
+
+@mischief-making  
+*  dt
+- sự gây bất hoà
+
+@mischievous  
+*  tt
+- hay làm hại
+- tác hại, có hại
+- tinh nghịch, tinh quái, ranh mãnh, láu lỉnh
+
++ a mischievous child: một đứa trẻ tinh quái
+
+@mischievousness  
+*  dt
+- tính ác, tính hiểm độc
+- tính có hại
+- tính tinh nghịch, tính tinh quái
+
+@miscibility  
+*  dt
+- tính có thể trộn lẫn, tính có thể hỗn hợp
+
+@miscible  
+*  tt
+- (: with) có thể trộn lẫn với, có thể hỗn hợp với
+
+@mis-citation
+* dt
+- sự bị sai lệch
+@misconceive  
+*  dgt
+- quan niệm sai, nhận thức sai, hiểu sai
+
+@misconception  
+*  dt
+- sự quan niệm sai, sự nhận thức sai, sự hiểu sai
+
+@misconduct  
+*  dt
+- đạo đức xấu, hạnh kiểm xấu
+- tội ngoại tình, tội thông gian
+- sự quản lý kém
+*  ngdgt
+- dt cư xử xấu, ăn ở bậy bạ
+- phạm tội ngoại tình với, thông gian với
+- quản lý kém
+
++ to misconduct one's bnusiness: quản lý kém công việc của mình
+
+@misconstruction  
+*  dt
+- sự hiểu sai, sự giải thích sai
+
+@misconstrue  
+*  ngdgt
+- hiểu sai, giải thích sai (ý, lời...)
+
++ to misconstrue someopne's opinion: hiểu sai ý kiến của ai
+
+@miscopy  
+*  ngdgt
+- chép sai
+
+@miscounsel   (miscounsel) @miscount  
+*  dt
+- sự đếm sai, sự tính sai (số phiếu)
+*  dgt
+- đếm sai, tính sai
+
+@miscount
+- (máy tính) tính sai
+ @miscreance  
+*  dt
+- (từ cổ,nghĩa cổ) tà giáo ((cũng) miscreance)
+
+@miscreancy  
+*  dt
+- tính vô lại, tính ti tiện, tính đê tiện
+- (từ cổ,nghĩa cổ) (như) miscreance
+
+@miscreant  
+*  tt
+- vô lại, ti tiện, đê tiện
+- (từ cổ,nghĩa cổ) tà giáo, không tín ngưỡng
+*  dt
+- kẻ vô lại, kẻ ti tiện, kẻ đê tiện
+- (từ cổ,nghĩa cổ) người tà giáo, người không tín ngưỡng
+
+@miscreated  
+*  tt
+- méo mó, kỳ quái, gớm ghiếc (hình dáng)
+
+@miscreation  
+*  dt
+- sự tạo ra méo mó, sự tạo ra kỳ quái
+- người kỳ quái; vật kỳ quái
+
+@miscue  
+*  dt
+- sự đánh trượt (đánh bi-a)
+- (thông tục) sự sai lầm; lỗi lầm
+*  ndgt
+- đánh trượt (đánh bi-a)
+- (sân khấu) quên vĩ bạch (để nhắc...)
+
+@misdate  
+*  ngdgt
+- ghi sai ngày tháng
+
+@misdeal  
+*  dt
+- sự chia bài, sự chia lộn bài
+*  dgt misdealt  @misdealer  
+*  dt
+- người chia bài sai, người chia lộn bài
+
+@misdealing
+* dt
+- hành động bất chính, cách xử sụ vô nguyên tắc
+ @misdealt  
+*  dt
+- sự chia bài, sự chia lộn bài
+*  dgt misdealt  @misdeed  
+*  dt
+- hành động xấu; việc làm có hại
+- tội ác
+
+@misdemeanant  
+*  dt
+- kẻ vi phạm luật pháp; kẻ phạm tôi nhẹ
+
+@misdemeanor
+- như misdemeanour
+ @misdemeanour  
+*  dt
+- (pháp lý) hành động phi pháp; tội nhẹ
+- hạnh kiểm xấu, cách cư xử xấu
+
+@misdescribe  
+*  ngdgt
+- tả sai, miêu tả không đúng
+
+@misdescription  
+*  dt
+- sự tả sai, sự miêu tả không đúng
+
+@misdiagnosis
+* dt
+- sự chẩn đoán sai (bệnh)
+ @misdial
+- v (như) absol
+- quay sai số (điện thoại)
+ @misdid
+- quá khứ của misdo
+ @misdirect  
+*  ngdgt
+- chỉ dẫn sai; hướng sai
+
++ to misdirect one's energies and abilities: hướng nghị lực và khả năng vào một mục đích sai lầm
+- ghi sai địa chỉ (thư từ, kiện hàng...)
+
++ to misdirect a letter: ghi sai địa chỉ ở bức thư
+
+@misdirection  
+*  dt
+- sự chỉ dẫn sai, sự hướng dẫn sai
+
+@misdo
+* ndgt
+- phạm lỗi
+- xử sự sai trái
+- có hành vi tàn bạo, phạm tội ác
+ @misdoer
+* dt
+- kẻ tàn ác, kẻ ác nhân
+ @misdoing  
+*  dt
+- lỗi lầm, hành động sai
+- việc làm có hại; tội ác
+
+@misdone
+- quá khứ phẩn từ của misdo
+ @misemploy  
+*  ngdgt
+- dùng sai, sử dụng sai
+
+@miser  
+*  dt
+- người keo kiệt, người bủn xỉn
+
+@miserable  
+*  tt
+- cực khổ, khốn khổ, khổ sở, cùng khổ; đáng thương
+- tồi tàn, nghèo nàn
+
++ a miserable house: căn nhà tồi tàn
+
++ a miserable meal: bữa ăn nghèo nàn
+
+@miserableness  
+*  dt
+- sự cực khổ, sự khốn khổ, sự khổ sở, sự cùng khổ; sự đáng thương
+- sự tồi tàn, sự nghèo nàn
+
+@miserably
+- trạng từ
+- xem miserable
+- cực kỳ, kinh khủng
+ @misericord   (misericorde) @misericorde   (misericorde) @miseriliness  
+*  dt
+- tính hà tiện, tính keo kiệt, tính bủn xỉn
+
+@miserly  
+*  tt
+- hà tiện, keo kiệt, bủn xỉn
+
+@misery  
+*  dt
+- cảnh nghèo khổ, cảnh khổ cực
+
++ to live in misery and want: sống trong cảnh nghèo khổ, thiếu thốn
+- sự đau đớn, khổ sở
+
++ to suffer (be in) misery from a toothache: khổ sở vì đau răng
+- (số nhiều) những nỗi khốn khổ, những điều bất hạnh
+
+@misestimate  
+*  ngdgt
+- đánh giá sai
+
+@misestimation
+* dt
+- xem misestimate
+ @miseteem  
+*  ngdgt
+- đánh giá thấp; thiếu tôn trọng
+
+@misfeasance  
+*  dt
+- (pháp lý) sự làm sai; sự lạm quyền
+
+@misfeaser  
+*  dt
+- (pháp lý) người làm sai; người lạm quyền
+
+@misfield
+* dt
+- (trong môn bóng bầu dục) nhà để dụng cụ, nhà để thay áo quần
+ @misfire  
+*  dt
+- phát súng tịt; đạn không nổ; động cơ không nổ
+*  ndgt
+- không nổ, tắt (súng, động cơ...)
+
+@misfit  
+*  dt
+- quần áo không vừa
+- (nghĩa bóng) người không xứng với địa vị; người không thích nghi được với ngoại cảnh
+*  dgt
+- không vừa, không xứng, không thích hợp
+
+@misfortune  
+*  dt
+- sự rủi ro, sự bất hạnh
+- điều không may, điều hoạ
+!misfortunes never come alone (singly)
+- hoạ vô đơn chí
+
+@misgave  
+*  ngdgt misgave  @misgive  
+*  ngdgt misgave  @misgiven  
+*  ngdgt misgave  @misgiving  
+*  dt
+- nỗi lo âu, nỗi e sợ
+- mối nghi ngại, mối nghi ngờ
+
++ a heart (mind) full of misgiving: lòng đầy nghi ngại
+
+@misgovern  
+*  ngdgt
+- cai trị tồi, quản lý tồi
+
+@misgovernment  
+*  dt
+- sự cai trị tồi, sự quản lý nhà nước tồi
+
+@misgrowth
+* dt
+- cục u, cục bướu
+ @misguidance  
+*  dt
+- sự hướng dẫn sai; sự làm cho lạc đường
+- sự xui làm bậy
+
+@misguide  
+*  ngdgt
+- làm cho lạc đường, làm lạc lối
+- ((thường) động tt quá khứ) xui làm bậy
+
++ a misguided child: đứa bẹ bị xui làm bậy
+
+@misguided
+* tt
+- (bị ai @misguidelly  
+*  dt
+- bị hướng dẫn sai; bị làm lạc đường
+- bị xui làm bậy
+
+@mishandle  
+*  ngdgt
+- hành hạ, ngược đâi, bạc đãi
+- quản lý tồi; giải quyết hỏng
+
+@mishandling
+* dt
+- xem mishandle
+ @mishap  
+*  dt
+- việc rủi ro, việc không may; tai nạn
+- sự bất hạnh
+
+@mishear  
+*  ngdgt,  misheard  @misheard  
+*  ngdgt,  misheard  @mishit
+* ngdgt
+- ném (một quả bóng) một cách tồi
+- dt
+ @mishmash  
+*  dt
+- mớ hỗn độn, mớ lộn xộn; đống tạp nhạp
+
+@misinform  
+*  ngdgt
+- báo tin tức sai
+- làm cho đi sai hướng
+
+@misinformation  
+*  dt
+- sự báo tin tức sai
+- sự làm cho đi sai hướng
+
+@misinformative  
+*  tt
+- nhằm báo tin tức sai
+- nhằm làm cho đi sai hướng
+
+@misinstruct
+* ngdgt
+- hướng dẫn thông báo sai
+@misintelligence
+* dt
+- sự bắt buộc
+* dtăng lực hạn chế
+- ấn tượng không đúng
+- sự đánh giá sai lạc các sự kiện
+ @misinterpret  
+*  ngdgt
+- hiểu sai, giải thích sai
+- dịch sai
+
+@misinterpretation  
+*  dt
+- sự hiểu sai, sự giải thích sai
+- sự dịch sai
+
+@misinterpreter  
+*  dt
+- người hiểu sai, người giải thích sai
+- người phiên dịch sai
+
+@misjudge  
+*  dgt
+- xét sai, đánh giá sai
+- có ý kiến sai
+
+@misknew
+- quá khứ của misknow
+ @misknow
+* dtgoại đông từ
+- hiểu kém
+- không nhận ra
+- không chịu nhận ra
+ @misknown
+* dgt
+- quá khứ phân từ của misknow
+ @mislabel  
+*  ngdgt
+- cho nhân hiệu sai, gắn nhãn hiệu sai
+
+@mislaid   (mislay) @mislay   (mislay) @mislead   (misled) @misleading  
+*  tt
+- làm cho lạc đường, làm cho lạc lối
+- làm cho mê muội, làm cho lầm đường lạc lối
+- lừa dối
+
+@misled   (misled) @mislike
+* dt
+- sự ghét bỏ, sự ghê tởm
+* ngdgt
+- không ưa thích, ghét bỏ, ghê tởm
+ @mislocate  
+*  ngdgt
+- đặt không đúng ch
+
+@mislocation  
+*  dt
+- sự đặt không đúng ch
+
+@mismanage  
+*  ngdgt
+- quản lý tồi
+
+@mismanagement  
+*  dt
+- sự quản lý tồi
+
+@mismanager  
+*  dt
+- người quản lý tồi
+
+@mismarriage  
+*  dt
+- cuộc hôn nhân không xứng hợp, cuộc hôn nhân không hạnh phúc
+
+@mismatch  
+*  ngdgt
+- ghép đôi không xứng
+
+@mismatch
+- (điều khiển học) sự không phù hợp
+ @mismeasure
+* ngdgt
+- đo đạc, đo lường sai
+ @misname  
+*  ngdgt
+- đặt tên sai, gọi tên không đúng
+
+@misnomer  
+*  dt
+- sự nhầm tên
+- sự dùng từ sai, sự dùng thuật ngữ sai
+
+@misogamic  
+*  tt
+- ghét kết hôn, không thích lập gia đình
+
+@misogamist
+* dt
+- người không thích lập gia đình, người ghét kết hôn
+ @misogamy  
+*  dt
+- tính ghét kết hôn
+
+@misogynic  
+*  tt
+- ghét đàn bà
+
+@misogynist  
+*  dt
+- người ghét kết hôn
+
+@misogynous  
+*  dt
+- ghét kết hôn
+
+@misogyny  
+*  dt
+- tính ghét kết hôn
+
+@misoneism
+* dt
+- sự sợ hoặc ghét những thay đổi hoặc những cải cách
+* dt
+- sự sợ hoặc ghét những thay đổi hoặc những cải cách
+ @misoneist
+* dt
+- người sợ hoặc ghét những thay đổi hoặc những cải cách
+* dt
+- người sợ hoặc ghét những thay đổi hoặc những cải cách
+ @misopedia  
+*  dt
+- tính ghét trẻ con
+
+@misoperation
+- (máy tính) sự làm việc không đúng (của máy)
+ @misplace  
+*  ngdgt
+- để không đúng chỗ ((nghĩa đen) & (nghĩa bóng))
+
++ to misplace one's love: gửi gấm tình yêu không đúng chỗ
+
++ a misplaced remark: một lời phê bình không đúng lúc
+
+@misprint  
+*  dt
+- lỗi in
+*  ngdgt
+- in sai
+
+@misprise   (misprise) @misprision  
+*  dt,  (pháp lý)
+- tội không làm tròn nhiệm vụ
+- tội không ngăn, tội không phát giác (một hành động phản bội)
+*  dt
+- sự khinh rẻ, sự coi khinh
+- sự đánh giá thấp
+
+@misprize   (misprise) @mispronounce  
+*  ngdgt
+- đọc sai
+- phát âm sai
+
+@mispronounciation  
+*  dt
+- sự đọc sai, sự phát âm sai
+
+@mispunctuate  
+*  ngdgt
+- chấm câu sai
+
+@mispunctuation  
+*  dt
+- sự chấm câu sai
+
+@misquotation  
+*  dt
+- sự trích dẫn sai
+
+@misquote  
+*  ngdgt
+- trích dẫn sai
+
+@misread  
+*  ngdgt misread
+- đọc sai
+- hiểu sai
+
+@misreading
+* dt
+- sự nhầm lẫn trong việc dò lại chỉ số hiểu@misreckon  
+*  ngdgt
+- tính sai
+
+@misrelate
+* ngdgt
+- liên hệ sai, đặt quan hệ sai
+ @misremember  
+*  ngdgt
+- nhớ sai
+
+@misreport  
+*  dt
+- bản báo cáo sai, bản báo cáo láo
+
+@misrepresent  
+*  ngdgt
+- trình bày sai, miêu tả sai
+- xuyên tạc, bóp méo (sự việc)
+
+@misrepresentation  
+*  dt
+- sự trình bày sai, sự miêu tả sai
+- sự xuyên tạc, sự bóp méo (sự việc)
+
+@misrule  
+*  dt
+- nền cai trị tồi
+- sự hỗn loạn, sự rối loạn; sự vô tổ chức
+*  ngdgt
+- cai trị tồi
+
+@miss  
+*  dt
+- cô
+
++ Miss Mary: cô Ma-ri
+- (thông tục) cô gái, thiếu nữ
+- hoa khôi
+*  dt
+- sự không tin, sự trượt, sự không trúng đích ((nghĩa đen) & (nghĩa bóng)); sự thất bại
+
++ ten hits and one miss: mười đòn trúng một đòn trượt
+- sự thiếu, sự vắng
+
++ to feel the miss of someone: cảm thấy vắng ai, cảm thấy nhớ ai
+!a miss is as good a mile
+- trượt là trượt, đá trượt thì dù chỉ một ly cũng vần là trượt
+!to give something a miss
+- tránh cái gì, bỏ qua cái gì, mặc kệ cái gì
+*  ngdgt
+- trượt, hỏng, trệch, không trúng (đích)
+
++ to miss one's aim: bắn trệch đích; không đạt mục đích
+- lỡ, nhỡ
+
++ to miss the train: lỡ chuyến xe lửa
+- bỏ lỡ, bỏ phí
+
++ an opportunity not to be missed: một cơ hội không nên bỏ lỡ
+- bỏ sót, bỏ quên
+
++ without missing a word: không bỏ sót một lời nào
+- không thấy, không trông thấy
+
++ you cannot miss the house when going across the street: khi đi ngang qua phố anh không thể không trông thấy căn nhà
+- thiếu, cảm thấy thiếu, thấy mất, nhớ
+
++ to miss somebody very much: nhớ ai lắm
+- không nghe, không thấy, không hiểu, không nắm được
+
++ to miss a part of a speech: không nghe một phần của bài nói
+- suýt
+
++ to miss being run over: suýt bị chẹt xe
+*  ndgt
+- trượt, chệch, không trúng đích; thất bại
+
+@missal
+* dt
+- cuốn sách kinh dành cho lễ Misa suốt năm
+- kinh sách
+ @missel  
+*  dt
+- (động vật học) chim hét tầm gửi ((thường) missel thrush)
+
+@missel-bird
+- phương ngữ
+- xem missel-thrush
+ @missel-thrush
+* dt
+- Chim hét tầm gửi (hay ăn quả tầm gửi)
+ @mis-shapen  
+*  tt
+- méo mó, không ra hình thù gì; xấu xí
+
+@misshapen
+* tt
+- méo mó, chẳng ra hình thù gì
+ @missile  
+*  tt
+- có thể phóng ra
+
++ a missile weapon: vũ khí có thể phóng ra
+*  dt
+- vật phóng ra (đá, tên, mác...)
+- tên lửa
+
++ an air-to-air missile: tên lửa không đối không
+
++ to conduct guided missile nuclear weapon test: tiến hành thử vũ khí tên lửa hạt nhân điều khiển
+
+@missilery   (missilery) @missilry   (missilery) @missing  
+*  tt
+- vắng, thiếu, khuyết, mất tích, thất lạc
+
++ there is a spoon missing: thiếu mất một cái thìa
+*  dt
+- the missing (quân sự) những người mất tích
+
+@missing link  
+*  dt
+- vật thiếu trong một bộ
+- (động vật học) dạng người vượt quá đ
+
+@mission  
+*  dt
+- sứ mệnh, nhiệm vụ
+
++ the mission of the poets: sứ mệnh của các nhà thơ
+
++ to complete one's mission successfully: hoàn thành thắng lợi nhiệm vụ
+
++ air mission: đợt bay, phi vụ
+- sự đi công cán, sự đi công tác
+- phái đoàn
+
++ an economic mission: phái đoàn kinh tế
+
++ a diplomatic mission: phái đoàn ngoại giao
+- (từ Mỹ,nghĩa Mỹ) toà công sứ, toà đại sứ
+- sự truyền giáo; hội truyền giáo; khu vực truyền giáo; trụ sở của hội truyền giáo
+
++ a foreign mission: hội truyền giáo ở nước ngoài
+
++ a home mission: hội truyền giáo ở trong nước
+
+@missionary   (missioner) @missionary salesman  
+*  dt
+- người đại lý chào và bán hàng (ở một vùng)
+
+@missioner  
+*  dt
+- (như) missionary
+- người phụ trách một hội truyền giáo địa phương
+
+@missis   (missus) @missish  
+*  tt
+- đoan trang
+- màu mè điệu bộ
+- có vẻ tiểu thư
+
+@missishness  
+*  dt
+- vẻ đoan trang
+- vẻ màu mè điệu bộ
+- vẻ tiểu thư
+
+@missive  
+*  dt
+- thư, công văn
+*  tt
+- đã gửi; sắp gửi chính thức
+
+@Mis-specification
+- (Econ) Thông số sai lệch.
+: Xem Specification error.
+ @mis-spell  
+*  ngdgt mis-spelt  @misspell
+* ngdgt, thì quá khứ và động tt quá khứ là misspelt hoặc  misspelled
+- viết sai chính tả
+ @mis-spelling  
+*  dt
+- lỗi chính tả
+
+@misspelling
+* dt
+- lỗi chính tả
+ @mis-spelt  
+*  ngdgt mis-spelt  @misspelt
+- thì quá khứ và động tt quá khứ của misspell
+- thì quá khứ và động tt quá khứ của misspell
+ @mis-spend  
+*  ngdgt mis-spent  @misspend
+* ngdgt
+- misspent
+ @mis-state  
+*  ngdgt
+- phát biểu sai, trình bày sai, tuyên bố sai
+
+@misstate
+* ngdgt
+- phát biểu sai, trình bày sai, tuyên bố sai
+ @mis-statement  
+*  dt
+- sự phát biểu sai, sự trình bày sai, sự tuyên bố sai
+
+@misstatement
+* dt
+- sự phát biểu sai, sự trình bày sai, sự tuyên bố sai
+ @misstep
+* dt
+- lỗi sơ suất
+- bước lầm lạc, hành động sai lầm
+* ndgt
+- bước hụt, sẩy chân
+- hành động sai lầm, không chín chắn
+ @missus   (missus) @missy  
+*  dt
+- (thông tục);(thân mật) cô
+
+@mist  
+*  dt
+- sương mù
+- màn, màn che
+*  dgt
+- mù sương
+
++ it is not raining, it is only misting: trời không mưa, chỉ mù sương
+- che mờ
+
++ eyes misted with tears: mắt mờ đi vì nước mắt
+
+@mistakable  
+*  tt
+- có thể bị lầm, có thể bị hiểu lầm
+
+@mistake  
+*  dt
+- lỗi, sai lầm, lỗi lầm
+
++ to make a mistake: lầm, lầm lẫn; do sơ suất
+!and so mistake
+- (thông tục) không còn nghi ngờ gì nữa
+
++ it's hot today and no mistake: không còn nghi ngờ gì nữa hôm nay trời nóng
+*  dgt mistook; mistaken
+- phạm sai lầm, phạm lỗi
+- hiểu sai, hiểu lầm
+- lầm, lầm lẫn
+
++ to mistake someone for another: lầm ai với một người khác
+!there is no mistaken
+- không thể nào lầm được
+
++ there is no mistake the house: không thể nào lầm nhà được
+
+@mistaken  
+*  động tt quá khứ của mistake
+*  tt
+- sai lầm
+
++ a mistaken notion: một ý niệm sai lầm
+- hiểu sai, hiểu lầm
+
+@mistakenly
+- trạng từ
+- một cách sai lầm, do nhầm lẫn
+ @mistakenness  
+*  dt
+- tính chất sai lầm
+- sự hiểu sai, sự hiểu lầm
+
+@mistakes
+- hiểu lầm, sai lẫm   khuyết điểm; sự hiểu lầm
+@mister  
+*  dt
+- (thường) (viết tắt) Mr. ông
+
++ Mr. Smith: ông Xmít
+- (thông tục),  (như) sir
+
++ here! mister! is this yours?: này, ông có phải cái này là của ông không?
+- người thường (đối lại với quý tộc)
+
++ be he prince or mere mister: dù anh ta là ông hoàng hay người thường
+- (thông tục);(đùa cợt) chồng, ông xã, bố nó
+*  ngdgt
+- gọi bằng ông
+
+@misterm
+* ngdgt
+- gọi tên sai, dùng thuật ngữ sai
+ @mistful  
+*  tt
+- mù sương
+
+@mistime  
+*  ngdgt,  (thường) động tt quá khứ
+- nói không đúng lúc, làm không đúng lúc
+
+@mistiness  
+*  dt
+- tình trạng mù sương
+- (nghĩa bóng) tính chất mơ hồ, tính thiếu rõ ràng, tính không minh bạch
+
+@mistletoe  
+*  dt
+- (thực vật học) cây tầm gửi
+
+@mistook  
+*  dt
+- lỗi, sai lầm, lỗi lầm
+
++ to make a mistake: lầm, lầm lẫn; do sơ suất
+!and so mistake
+- (thông tục) không còn nghi ngờ gì nữa
+
++ it's hot today and no mistake: không còn nghi ngờ gì nữa hôm nay trời nóng
+*  dgt mistook; mistaken
+- phạm sai lầm, phạm lỗi
+- hiểu sai, hiểu lầm
+- lầm, lầm lẫn
+
++ to mistake someone for another: lầm ai với một người khác
+!there is no mistaken
+- không thể nào lầm được
+
++ there is no mistake the house: không thể nào lầm nhà được
+
+@mistral  
+*  dt
+- gió mixtran
+
+@mistranslate  
+*  ngdgt
+- dịch sai
+
+@mistranslation  
+*  dt
+- sự dịch sai
+- bản dịch sai
+
+@mistreat  
+*  ngdgt
+- ngược đãi
+
+@mistreatment  
+*  dt
+- sự ngược đãi
+
+@mistress  
+*  dt
+- bà chủ nhà
+- bà chủ (người đàn bà có quyền kiểm soát hoặc định đoạt)
+- người đàn bà am hiểu (một vấn đề)
+- bà giáo, cô giáo
+- tình nhân, mèo
+- (thường),  (viết tắt) Bà (trước tên một người đàn bà đã có chồng)
+
+@mistress-ship
+* dt
+- chức vụ cô giáo
+- địa vị bà chủ
+ @mistrial  
+*  dt
+- vụ xử án sai
+
+@mistrust  
+*  dt,  ngdgt
+- không tin, nghi ngờ, ngờ vực, hồ nghi
+
+@mistruster  
+*  dt
+- người không tin, người nghi ng
+
+@mistrustful  
+*  tt
+- không tin, nghi ngờ, ngờ vực, hồ nghi
+
+@mistrustfulness  
+*  dt
+- sự không tin, sự nghi ngờ, tính ngờ vực, tính hồ nghi
+
+@mistune
+* ngdgt
+- hát @mistura
+* dt
+- hợp dịch, thuốc nước
+ @misty  
+*  tt
+- mù sương, đầy sương mù
+- (nghĩa bóng) mơ hồ, không rõ, không minh bạch, mập mờ
+
++ a misty idea: ý nghĩ mơ h
+
+@misty-eyed  
+*  tt
+- uỷ mị, sướt mướt
+
+@misunderstand  
+*  ngdgt misunderstood  @misunderstanding  
+*  dt
+- sự hiểu lầm
+- sự bất hoà
+
+@misunderstandingly  
+*  dt
+- do hiểu lầm, hiểu lầm
+- do bất hoà, bất hoà
+
+@misunderstood  
+*  ngdgt misunderstood  @misusage   (misuse) @misuse   (misuse) @misuser  
+*  dt
+- người dùng sai, người lạm dụng
+- người hành hạ, người bạc đâi, người ngược đãi
+- (pháp lý) sự lạm dụng
+
+@mite  
+*  dt
+- phần nhỏ
+
++ mite of consolation: một chút an ủi
+
++ to contribution one's mite to...: góp phần nhỏ vào...
+
++ the widow's mite: lòng thảo của người nghèo, của ít lòng nhiều
+- vật nhỏ bé;(thân mật) em bé
+
++ poor little mite: em bé đáng thương
+- (động vật học) bét, ve
+- (từ cổ,nghĩa cổ) đồng tiền trinh
+!not a mite
+- (thông tục) không một chút nào
+
+@miter   (miter) @mithridate
+* dt
+- thuốc giải độc, thuốc trị, thuốc trừ
+ @mithridatic  
+*  tt
+- quen độc (bằng cách uống dần dần từng tí một)
+
+@mithridatise   (mithridatise) @mithridatism  
+*  dt
+- sự quen dần với thuốc độc
+
+@mithridatize   (mithridatise) @mitigate  
+*  ngdgt
+- giảm nhẹ, làm dịu bớt, làm cho đỡ
+
++ to mitigate a punishment: giảm nhẹ sự trừng phạt
+
++ to mitigate one's anger: bớt giận
+
+@mitigation  
+*  dt
+- sự làm nhẹ, sự làm dịu
+
+@mitigative   (mitigatory) @mitigatory   (mitigatory) @mitoses
+- số nhiều của mitosis
+ @mitosis  
+*  dt
+- (sinh vật học) sự phân bào có tơ
+
+@mitrailleur  
+*  dt
+- xạ thủ súng máy
+- súng máy
+
+@mitrailleuse  
+*  dt
+- súng máy
+
+@mitral  
+*  tt
+- (thuộc) mũ tế, như mũ tế
+- (giải phẫu) (thuộc) van hai lá; như van hai lá
+
+@mitral stenosis  
+*  dt
+- (y học) chứng hẹp van hai lá
+
+@mitral valve  
+*  dt
+- (giải phẫu) van hai lá
+
+@mitre   (miter) @mitt   (mitt) @mitten   (mitt) @mitten money  
+*  dt
+- (hàng hải),  (từ lóng) phụ cấp trời lạnh (cho hoa tiêu)
+
+@mity  
+*  tt
+- đầy bét, đầy ve
+
+@mix  
+*  ngdgt
+- trộn, trộn lẫn, pha lẫn, hoà lẫn
+
++ to mix a dish of salad: trộn món rau xà lách
+- pha
+
++ to mix drugds: pha thuốc
+*  ndgt
+- hợp vào, lẫn vào, hoà lẫn vào
+- ((thường) : with) dính dáng, giao thiệp, hợp tác
+
++ he doesn't mix well: anh ấy không khéo giao thiệp
+- (từ lóng) thụi nhau tới tấp (quyền Anh)
+- bị lai giống
+!to mix up
+- trộn đều, hoà đều
+- dính dáng vào
+
++ to be mixed up in an affair: có dính dáng vào việc gì, có liên can vào việc gì
+- lộn xộn, bối rối, rắc rối
+
++ it is all mixed up in my memory: tất cả những cái đó lộn xộn trong ký ức
+
++ to be al mixed up: bối rối vô cùng
+
+@mix
+- trộn
+ @Mix of fiscal and money policy
+- (Econ) Sự kết hợp giữa chính sách thuế khoá và tiền tệ.
+ @mixability   (mixableness) @mixable  
+*  tt
+- có thể trộn lẫn, có thể pha lẫn, có thể hoà lẫn
+
+@mixableness   (mixableness) @mixed  
+*  tt
+- lẫn lộn, pha trộn, ô hợp
+
++ mixed feelings: những cảm giác lẫn lộn (buồn, vui...)
+
++ mixed company: bọn người ô hợp
+
++ mixed wine: rượu vang pha trộn
+- (thông tục) bối rối, lúng túng; sửng sốt, ngơ ngác
+
++ to be thoroughly mixed up: bối rối hết sức
+
++ to get mixed: bối rối, lúng túng, rối trí
+- cho cả nam lẫn nữ
+
++ a mixed school: trường học cho cả nam nữ
+
++ mixed doubles: trận đánh đôi nam nữ (bóng bàn, quần vợt)
+- (toán học) hỗn tạp
+
++ mixed fraction: phân số hỗn tạp
+
+@mixed
+- hỗn tạp
+ @mixed blessing  
+*  dt
+- sự may mà cũng không may
+
+@Mixed economy
+- (Econ) Nền kinh tế hỗn hợp.
+ @Mixed estimation
+- (Econ) Phương pháp ước tính hỗn hợp.
+: Là phương pháp ước tính trong đó có sử dụng thông tin phụ.
+ @Mixed good
+- (Econ) Hàng hoá hỗn hợp.
+: Là loại hàng hoá mà lợi ích có được từ việc tiêu dùng nó không chỉ thuộc về một cá nhân mà còn được san sẻ cho nhiều người.
+ @Mixed market economy
+- (Econ) Nền kinh tế thị trường hỗn hợp.
+: Là một hệ thống kết hợp các doanh nghiệp tư nhân mang tính cạnh tranh với một mức độ kiểm soát nhất định từ trung ương.
+ @mixed marriage  
+*  dt
+- sự kết hôn khác chủng tộc; sự kết hôn khác tôn giáo
+
+@mixedness  
+*  dt
+- tính chất lẫn lộn, tính chất pha trộn, tính chất ô hợp
+- tính chất chung cho cả nam lẫn nữ
+- tính lai, giống lai
+
+@mixed-up
+* tt
+- (thông tục) bối rối, lúng túng
+ @mixer  
+*  dt
+- người trộn, máy trộn
+- (thông tục) người giao thiệp, người làm quen
+
++ good mixer: người giao thiệp giỏi
+
++ bad mixer: người giao thiệp vụng
+- (raddiô) bộ trộn
+- (điện ảnh) máy hoà tiếng (cho phim)
+
+@mixer
+- (máy tính) tầng trộn, bộ trộn, máy trộn
+ @mixible
+- xem mixable
+ @mix-in
+* dt
+- vụ đánh lộn, cuộc ẩu đả
+ @mixology  
+*  dt
+-(đùa cợt) thuật pha rượu côctay; tài pha rượu côctay
+
+@mixture  
+*  dt
+- sự pha trộn, sự hỗn hợp
+- thứ pha trộn, vật hỗn hợp
+- (dược học) hỗn dược
+
+@mixture
+- sự hỗn hợp
+- m. of distribution hỗn hợp các phân phối
+- m. of populations (thống kê) hỗn hợp họ
+ @mix-up  
+*  dt
+- tình trạng lộn xộn, tình trạng hỗn loạn
+- cuộc ẩu đả, cuộc đánh lộn
+
+@mizen   (mizzen) @mizzen   (mizzen) @miz(z)en
+* dt
+- cột buồm phía lái (hay miz(z)en-mast)
+ @mizzle  
+*  dt
+- mưa phùn, mưa bụi
+*  ndgt
+- mưa phùn, mưa bụi
+*  ndgt
+- (từ lóng) rút lui, bỏ trốn, chạy trốn, tẩu, chuồn
+
+@

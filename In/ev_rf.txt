@@ -1,0 +1,6 @@
+@rfc
+* dt
+- chế độ, cách thức cai trị, hệ thống cai trị (một nước)
+- chế độ, cách thức quản trị hiện hành, hệ thống quản trị hiện hành (trong kinh doanh )
+- chế độ ăn uống, chế độ tập luyện
+ @

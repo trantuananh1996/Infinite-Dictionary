@@ -1,0 +1,2079 @@
+@ti
+* dt
+- <nhạc> nốt si (nốt thứ bảy trong thang âm sol-fa)
+ @tiara  
+*  dt
+- mũ tiara (của vua Ba tư; của giáo hoàng)
+
+@tibetan
+* tt
+- thuộc Tây-Tạng
+ @tibia  
+*  dt,  số nhiều tibias,  tibiae
+- (giải phẫu) xương chày; (động vật học) dốt ống (sâu bọ)
+
+@tibiae  
+*  dt,  số nhiều tibias,  tibiae
+- (giải phẫu) xương chày; (động vật học) dốt ống (sâu bọ)
+
+@tibial  
+*  tt
+- (giải phẫu) (thuộc) xương chày
+
+@tibiotarsus
+* dt
+- xem tibia
+ @tibit  
+*  dt
+- miếng ngon
+
++ dainty tibit: miếng ngon, cao lương mỹ vị
+- tin tức chọn lọc
+
+@tibury  
+*  dt
+- xe ngựa trần hai chỗ ngồi
+
+@tic  
+*  dt
+- (y học) tật máy giật
+
+@tick  
+*  dt
+- tiếng tích tắc (của đồng hồ)
+
++ on the tick: đúng giờ
+
++ at seven to the tick; on the tick of seven: đúng bảy giờ
+-(thân mật) chút, lát, khoảnh khắc, giây lát
+
++ in a tick: trong khoảnh khắc, trong giấy lát
+
++ in half tick: trong giây lát
+- dấu kiểm " v" (khi điểm số từng mục trong một danh sách)
+
++ to mark with a tick: đánh dấu kiểm
+*  dgt
+- kêu tích tắc (đồng hồ)
+!to tick off
+- đánh dấu (để kiểm điểm)
+
++ to tick off the items in a list: đánh dấu các khoản của một danh sách
+- (thông tục) quở trách, la mắng
+!to tich out
+- phát ra (điện tín, tin tức) (máy điện báo)
+!to tick over
+- chạy không (máy)
+- tiến hành chậm, bê trệ (công việc)
+*  dt
+- (động vật học) con bét, con ve, con tíc
+- vải bọc (nệm, gối)
+- (thông tục) sự mua chịu; sự bán chịu
+*  ndgt
+- (thông tục) mua chịu; bán chịu cho (ai); mua chịu (hàng); bán chịu (hàng)
+
+@ticker  
+*  dt
+- (thông tục) máy điện báo
+- (thông tục) đồng hồ
+- người đánh dấu kiểm
+-(đùa cợt) trái tim
+
+@ticker
+- con lắc; máy điện báo tự động in tin
+ @ticker-tape
+* dt
+- băng giấy (của máy in điện báo )
+- băng giấy hoặc vật liệu tương tự ném qua cửa sổ để chào đón một người nổi tiếng
+ @ticket  
+*  dt
+- vé
+
++ through ticket: vé suốt
+
++ return ticket: vé khứ hồi
+- giấy (giấy phép, giấy mời...)
+
++ free ticket: giấy mời; giấy ưu tiên ra vào
+- bông, phiếu
+
++ ticket for soup: phiếu cháo
+- nhãn ghi giá; nhãn ghi đặc điểm (hàng hoá...)
+- thẻ, biển
+- (từ Mỹ,nghĩa Mỹ) danh sách ứng cử
+
++ the Democratic ticket: danh sách ứng cử của đảng Dân chủ
+- (thông tục) (the ticket) cái đúng điệu
+
++ that's the ticket: đúng điệu; đúng lắm; vừa nhịp
+!to get one's ticket
+- được giải ngũ
+*  ngdgt
+- dán nhãn, viết nhãn (ghi giá, ghi đặc điểm... hàng hoá)
+- phát vé, phát phiếu
+
+@ticket-collector
+* dt
+- người soát vé
+ @ticket-holder
+* dt
+- người có vé
+ @ticketing  
+*  dt
+- sự dán nhãn, sự viết nhãn (ghi giá hàng...)
+
+@ticket-office
+* dt
+- phòng bán vé, phòng vé
+ @ticket-punch
+* dt
+- (đường sắt) cái bấm vé; cái bấm lỗ
+ @tickicide
+* dt
+- (nông) thuốc diệt ve; bét
+ @ticking  
+*  dt
+- tiếng tích tắc
+- vải bọc (nệm, gối)
+
+@ticking-off
+* dt
+- <thgt> sự quở trách, sự la mắng
+ @tickle  
+*  dt
+- sự cù, sự làm cho buồn buồn
+
++ to give someone a tickle: cù người nào
+- cảm giác buồn buồn (muốn cười)
+*  ngdgt
+- cù
+
++ to tickle the armpit: cù nách
+- làm cho cười, làm cho thích thú, mơn trớn
+
++ the story tickles me: câu chuyện làm tôi buồn cười
+- kích thích
+
++ to tickle one's curiosity: kích thích tính tò mò
+*  ndgt
+- cảm thấy ngưa ngứa, cảm thấy buồn buồn
+
++ my nose tickles: mũi ngưa ngứa buồn buồn
+
+@tickler  
+*  dt
+- người cù; cái lông để cù
+- (nghĩa bóng) vấn đề khó giải quyết, vấn đề hắc búa
+- (từ Mỹ,nghĩa Mỹ) sổ tay (để giúp trí nhớ); phiếu ghi (để giúp trí nhớ)
+
+@tickling  
+*  dt
+- sự cù, sự làm cho buồn buồn
+*  tt
+- làm cho ngưa ngứa, làm cho buồn buồn
+
++ tickling cough: ho ngứa cổ
+
+@ticklish  
+*  tt
+- có máu buồn, đụng đến là cười
+- (nghĩa bóng) khó giải quyết; tế nhị
+
++ a ticklish question: một vấn đề tế nhị
+- (từ Mỹ,nghĩa Mỹ) không vững; tròng trành
+
+@ticklishness  
+*  dt
+- tính hễ cứ đụng đến là cười
+- (nghĩa bóng) khó giải quyết; tính tế nhị (của một vấn đề...)
+- (từ Mỹ,nghĩa Mỹ) tính không vững; sự tròng trành
+
+@tickly
+- xem ticklish
+ @tick-tack  
+*  dt
+- tiếng tích tắc (của đồng hồ)
+- tiếng đập của tim
+- hiệu báo (trong cuộc chạy thi)
+
+@ticktack
+* dt
+- tiếng tích tắc (của đồng hồ)
+- tiếng đập của tim
+- hiệu báo (bằng cờ hiệu trong cuộc chạy thi)
+ @ticktacktoe
+- như noughts and crosses
+ @tick-tick  
+*  dt
+- nhuấy nừa?
+
+@tick-tock
+* dt
+- tiếng tích tắc của một chiếc đồng hồ treo tường to
+ @ticky-tacky
+* dt
+- <Mỹ>  <thgt> những nhôi nhà xấu xí tồi tàn, vật liệu xấu xí tồi tàn
+* tt
+- tạo nên bởi những ngôi nhà xấu xí tồi tàn, tạo nên bởi những vật liệu xấu xí tồi tàn
+ @tic-tac
+- như ticktack
+ @tidal  
+*  tt
+- (thuộc) thuỷ triều, liên quan đến thuỷ triều, do thuỷ triều, chịu ảnh hưởng của thuỷ triều
+
++ tidal harbour: hải cảng chỉ vào được khi triều lên
+
++ tidal river: sông chịu ảnh hưởng của thuỷ triều
+!tidal train
+- xe lửa chở cá tươi
+!tidal wave
+- sóng cồn, sóng triều dâng; (nghĩa bóng) phong trào, cao trào
+
+@tidal
+- vlđc. (thuộc) thuỷ triều
+ @tidal wave
+* dt
+- sóng cồn; sóng triều, sóng lớn của đại dương (do một trận động đất gây ra)
+- cao trào (làn sóng nhiệt tình, phẫn nộ  lớn của dân chúng)
+ @tidbit  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) titbit
+
+@tiddler
+* dt
+- <thgt> cá vun (cá rất nhỏ; nhất là cá gai hoặc cá tuế)
+- <thgt> đứa bé nhỏ một cách khác thường, vật nhỏ một cách khác thường
+ @tiddly
+* tt
+- <thgt> hơi say, chuếnh choáng, ngà ngà say
+- <thgt> rất nhỏ, không đáng kể
+ @tiddly-winks
+* dt
+- trò chơi trong đó các người chơi cầm một miếng nhựa tròn to ấn lên mép những miếng nhựa tròn nhỏ để chúng bật lên nhảy vào một cái chén
+ @tide  
+*  dt
+- triều, thuỷ triều, con nước
+- dòng nước, dòng chảy, dòng
+
++ the tide of blood: dòng máu
+- chiều hướng, xu hướng, trào lưu, dư luận
+
++ the tide of the battle: chiều hướng của cuộc chiến đấu
+
++ the tide of the time: xu hướng của thời đại
+
++ to swin with (down) the tide: gió chiều nào theo chiều ấy, theo thời
+!to take the tide at the flood
+- lợi dụng cơ hội
+*  ngdgt
+- cuốn theo, lôi cuốn
+
++ to be tided back: bị lôi cuốn
+- (: over) vượt, khắc phục
+
++ to tide over difficulties: khắc phục khó khăn
+*  ndgt
+- đi theo thuỷ triều
+
++ to tide in: vào khi thuỷ triều lên
+
++ to tide up: ngược lên khi thuỷ triều lên
+
++ to tide down: xuôi theo thuỷ triều xuống
+
++ to tide out: ra khỏi nhờ thuỷ triều
+
+@tide
+- thuỷ triều
+ @tideless  
+*  tt
+- không có thuỷ triều
+
+@tide-lock
+* dt
+- cửa đập (cống) ngăn nước thủy triều
+ @tide-mark
+* dt
+- ngấn thủy triều (dấu vết do thủy triều ở mức cao nhất của nó để lại trên bờ biển )
+- <đùa> đường vết giữa phần đã tắm rửa và không tắm rửa của thân thể ai
+- <đùa> vệt do nước bẩn để lại trong bồn tắm, nhà tắm
+ @tide-power  
+*  dt
+- năng lượng thuỷ triều
+
+@tide-power plant  
+*  dt
+- nhà máy điện thuỷ triều
+
+@tide-race  
+*  dt
+- sóng thần
+
+@tide-table  
+*  dt
+- bảng tín hiệu chỉ thuỷ triều
+
+@tide-waiter  
+*  dt
+- nhân viên thuế quan
+
+@tide-water
+* dt
+- nước dâng; nước triều lên; nước cường
+- (từ Mỹ, nghĩa Mỹ) vùng nước thường chịu ảnh hưởng thủy triều
+ @tide-wave
+* dt
+- sóng thủy triều; sóng triều lên
+ @tideway
+* dt
+- luồng thủy triều
+- đoạn sông bị ảnh hưởng thủy triều
+ @tidily
+* dt
+- xem tidy
+ @tidiness  
+*  dt
+- sự sạch sẽ, sự ngăn nắp, sự gọn gàng
+
+@tidings  
+*  dt số nhiều
+- (văn học) tin tức, tin
+
+@tidy  
+*  tt
+- sạch sẽ, ngăn nắp, gọn gàng
+
++ a tidy room: một căn phòng ngăn nắp sạch sẽ
+
++ tidy habits: cách ăn ở sạch sẽ
+- (thông tục) khá nhiều, kha khá
+
++ a tidy sum of money: một số tiền kha khá
+- (tiếng địa phương) khá khoẻ
+*  ngdgt
+- ((thường) : up) làm cho sạch sẽ, dọn dẹp, sắp xếp gọn gàng, xếp sắp ngăn nắp
+*  ndgt
+- (: up) sắp xếp sửa sang cho gọn gàng, dọn dẹp cho sạch sẽ ngăn nắp
+*  dt
+- thùng chứa vật linh tinh; giỏ rác
+
++ street tidy: thùng rác đường phố
+- vải phủ ghế (cho khỏi bẩn)
+
+@tie  
+*  dt
+- dây buộc, dây cột, dây trói; dây giày
+- ca vát
+- nơ, nút
+- bím tóc
+- (kiến trúc) thanh nối; (từ Mỹ,nghĩa Mỹ) tà vẹt đường ray
+- (nghĩa bóng) mối ràng buộc, quan hệ
+
++ ties of blood: quan hệ dòng máu
+- sự ràng buộc, sự hạn chế
+- (chính trị); (thể dục,thể thao) sự nang phiếu, sự ngang điểm
+
++ the game ended in a tie: trận đấu kết thúc ngang điểm
+- (âm nhạc) dấu nối
+*  ngdgt
+- buộc, cột, trói
+
++ to tie a buffalo to a tree: buộc một con trâu vào cây
+
++ to tie one's shoe-laces: buộc dây giày của mình
+- thắt
+
++ to tie a knot: thắt nút
+- liên kết, nối
+
++ a steel bar ties the two columns: một thanh thép nối hai cột
+- (nghĩa bóng) rảng buộc, trói buộc, cột; giữ lại
+
++ to be tied to one's work: bị công việc ràng buộc
+- (âm nhạc) đặt dấu nối
+*  ndgt
+- ngang điểm, ngang phiếu, hoà nhau
+
++ the two teams tied: hai đội ngang điểm
+- cột, buộc, cài
+
++ does this sash tie in front or at the back?: cái khăn quàng này buộc đằng trước hay đằng sau?
+!to tie down
+- cột, buộc vào, ràng buộc
+
++ to tie a man down to a contract: ràng buộc một người vào một hợp đồng
+!to tie on
+- cột, buộc (nhãn hiệu)
+!to tie up
+- cột, buộc, trói
+- (y học) buộc, băng (một vết thương)
+- (tài chính) giữ lại, giữ nằm im (một số tiền)
+- (pháp lý) làm cho không huỷ được, làm cho không bán được, làm cho không nhường được (một di sản)
+- (nghĩa bóng) giữ lại, trói buộc
+!to be tied up
+- (từ Mỹ,nghĩa Mỹ) bắt buộc phải ngừng hoạt động (vì đình công...)
+!to get tied up
+- kết hôn, lấy vợ, lấy chồng
+!to tie someone's tongue
+- khoá miệng ai lại, bưng miệng ai lại
+
+@tie-bar  
+*  dt
+- thanh nối
+- (ngành đường sắt) tà vẹt
+
+@tie-beam  
+*  dt
+- rầm nối
+
+@tie-bolt
+* dt
+- (kỹ thuật) bu-lông nối
+ @Tiebout model
+- (Econ) Mô hìn Tiebout.
+: Một phân tích việc cung cấp HÀNG HOÁ CÔNG CỘNG lập luận rằng nếu một số dịch vụ công cộng nào đó được chính quyền địa phương cung cấp thì các cá nhân có thể thể hiện sở thích của mình về các  dịch vụ này và có được một kết hợp của dịch vụ công nghệ và thuế tương ứng với sở thích của họ bằng việc di chuyển giữa các địa phương.
+ @tie-breaker
+* dt
+- biện pháp quyết định ai thắng khi các đấu thủ hoà nhau (đá hiệp phụ, đá luân lưu trong bóng đá )
+ @tie-clip  
+*  dt
+- cái kẹp ca vát
+
+@tied
+* tt
+- cho ai thuê với điều kiện người đó làm việc cho chủ nhà (về một ngôi nhà)
+ @tied house
+* dt
+- quán rượu do một nhà máy bia sở hữu hoặc kiểm soát
+ @tie-dye
+* dgt
+- tạo ra những hoạ tiết nhuộm màu trên (vải) bằng cách buộc từng phần của vải lại để những chỗ đó không bị ăn màu
+ @tie-dyeing
+* dt
+- sự tạo ra những hoạ tiết nhuộm màu trên (vải) bằng cách buộc từng phần của vải lại để những chỗ đó không bị ăn màu
+ @tie-in
+* dt
+- sự nối tiếp, sự liên tiếp, mối quan hệ
+- sự phù hợp, sự khít khao
+ @tie-knot
+* dt
+- nút; múi; nút thắt
+- giao điểm; đầu nối
+ @tie-on
+* tt
+- có thể buộc được (về một nhãn hiệu )
+ @tie-pin
+* dt
+- kẹp ca vát, ghim cài cà vạt
+ @tier  
+*  dt
+- tầng, lớp
+
++ to place in tiers one above another: xếp thành tầng
+- bậc (của một hội trường, một giảng đường)
+- bậc thang (trên một cao nguyên)
+- người buộc, người cột, người trói
+
+@tierce   (terce) @tierced  
+*  tt
+- chia làm ba
+
+@tiercel   (tiercel) @tiercet   (tiercet) @tiered
+* tt
+- xếp thành dãy, xếp thành hàng
+- (trong từ ghép) có số tầng, lớp được nói rõ
+ @tie-string
+* dt
+- băng; dải; ruy-băng; sợi dây nhỏ
+ @tie-tack
+* dt
+- kẹp ca vát, ghim cài cà vạt
+ @tie-up  
+*  dt
+- (thương nghiệp) sự thoả thuận
+- sự cấm đường
+- sự ngừng (công việc, giao thông..., do công nhân đình công, do hỏng máy...)
+- tình trạng khó khăn bế tắc
+
+@tiff  
+*  dt
+- (thông tục) sự bất hoà, sự xích mích
+
++ to have a tiff: xích mích
+*  ndgt
+- phật ý, không bằng lòng
+*  dt
+- ngụm, hớp (nước, rượu...)
+*  ngdgt
+- uống từng hớp, nhắp
+*  ndgt
+- (Anh-Ân) ăn trưa
+
+@tiffany  
+*  dt
+- (nghành dệt) the, sa
+
+@tiffin  
+*  dt
+- (Anh-Ân) bữa ăn trưa
+*  ndgt
+- (Anh-Ân) ăn trưa
+
+@tig
+* dt
+- trò chơi đuổi bắt
+ @tige
+* dt
+- (kiến trúc) thân cột
+- (thực vật) thân (cây)
+ @tiger  
+*  dt
+- hổ, cọp
+- (nghĩa bóng) người hay nạt nộ, kẻ hùng hổ
+- người tàn bạo hung ác
+
+@tiger-cat  
+*  dt
+- (động vật học) mèo rừng
+
+@tiger-eye   (tiger's-eye) @tigerish   (tigrish) @tigerism  
+*  dt
+- tính hay nạt nộ, tính hùng hổ
+- tính tàn bạo hung ác
+
+@tiger-lily
+* dt
+- cây hoa loa kèn lớn trồng ở vườn, có hoa màu da cam lốm đốm đen hoặc đỏ tía
+ @tiger-moth
+* dt
+- bướm đêm có cánh vằn như da hổ
+ @tiger's-eye   (tiger's-eye) @tiger-shark
+* dt
+- (dgt) cá mập
+ @tight  
+*  tt
+- kín, không thấm, không rỉ
+
++ a tight ship: một cái tàu kín nước không rỉ vào được
+- chặt, khít
+
++ a tight knot: một nút thắt
+
++ the cork is too tight: nút chai chặt quá
+
++ a tight grasp: sự ôm chặt, sự ghì chặt
+- chật, bó sát
+
++ tight shoes: giày chật
+
++ tight trousers: quần bó sát
+- căng, căng thẳng
+
++ tight rope: dây căng
+
++ a tight match: một trận đấu căng thẳng (gay go)
+- khó khăn, khan hiếm
+
++ to be in a tight place (corner): (nghĩa bóng) gặp hoàn cảnh khó khăn
+
++ money is tight: tiền khó kiếm
+- keo cú, biển lận
+- (thông tục) say bí tỉ, say sưa
+!to keep a tight hand on somebody
+- (xem) hand
+*  dt
+- kín, sít, khít, khít khao
+
++ to shut tight: đóng kín
+- chặt, chặt chẽ
+
++ hold him tight: giữ chặt lấy nó
+
++ to be packed as tight as herrings in a barrel: bị nhét chặt như cá hộp
+
+@Tight money
+- (Econ) Thắt chặt tiền tệ.
+: Một biện pháp của chính sách tiền tệ khi mà cung cấp tín dụng bị hạn chế và lãi suất ở mức cao.
+ @tighten  
+*  ndgt
+- chặt, căng, khít lại
+
++ it needs tightening up a little: cần phải chặt hơn một tí
+- căng ra, căng thẳng ra
+
++ the cable tightens under the heavy load: sợi dây cáp căng ra vì có vật nặng
+- mím chặt (môi)
+*  ngdgt
+- thắt chặt, siết chặt
+
++ to tighten the knot: thắt cái nút
+
++ tighten one's belt: thắt lưng buộc bụng, nhịn ăn nhịn mặc
+
++ to tighten a screw: siết chặt đinh ốc
+
++ to tighten the bonds of solidarity: thắt chặt tình đoàn kết
+- kéo căng
+
++ to tighten the rope: kéo căng cái dây
+- giữ chặt
+
++ tighten him!: hãy giữ chặt lấy nó!
+
+@tightener  
+*  dt
+- (kỹ thuật) cái tăngxơ
+- bữa ăn no căng bụng
+
+@tight-fisted  
+*  tt
+- chặt chẽ; keo cú, biển lận
+
+@tight-fitting  
+*  tt
+- vừa khít, bó sát, chật
+
+@tight-laced
+* tt
+- thắt căng (áo nịt ngực...)
+- (bóng) nghiêm túc; chặt chẽ
+ @tight-lipped  
+*  tt
+- mím chặt môi
+- kín đáo, ít nói
+
+@tightly  
+*  dt
+- chặt chẽ, sít sao ((nghĩa đen) & (nghĩa bóng))
+
+@tightness  
+*  dt
+- tính chất kín, tính không thấm rỉ
+- tính chất chật, tính bó sát (quần áo)
+- tính chất căng, tính chất căng thẳng
+- tính chất khó khăn, tính khan hiếm, tính khó hiếm (tiền...)
+
+@tightrope  
+*  dt
+- dây kéo căng (của người làm xiếc trên dây)
+
+@tight-rope
+- xem tightrope
+ @tights  
+*  dt số nhiều
+- quần chật ống; áo nịt (cho diễn viên xiếc, múa...)
+
+@tightwad  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) anh chàng hà tiện, kẻ keo cú
+
+@tigress  
+*  dt
+- hổ cái, cọp cái
+- (nghĩa bóng) người đàn bà dữ tợn, sư tử cái, sư tử Hà đông
+
+@tigrish   (tigrish) @tike   (tike) @til
+* dt
+- (thực vật) vừng, mè
+ @tilbury
+* dt
+- (sử) xe tibơri (xe ngựa hai bánh mui trần)
+ @tilde  
+*  dt
+- dấu sóng (dùng thay từ lặp lại trong từ điển)
+- dẫu ngã, dấu mềm (trên chữ n ở tiếng Tây ban nha)
+
+@tilde
+- dấu sóng, dấu ngã (~)
+ @tile  
+*  dt
+- ngói (để lợp nhà)
+- đá lát; ca rôi, gạch vuông
+-(thân mật) mũ chóp cao
+!to have a tile loose
+- (xem) loose
+!on the tiles
+- (nghĩa bóng) đang trác táng
+*  ngdgt
+- lợp ngói
+- lát đá; lát gạch vuông
+
++ tiled floor: sàn lát gạch vuông
+- bắt phải giữ bí mật
+
+@tiler  
+*  dt
+- thợ làm ngói
+- thợ lợp ngói; thợ lát gạch vuông
+
+@tilery   (tilery-work) @tilery-works   (tilery-work) @tiling  
+*  dt
+- sự lợp ngói
+- ngói
+- mái ngói
+- sự lát đá; sự lát gạch vuông
+
+@till  
+*  dt
+- ngăn kéo để tiền
+!to be caught with one's hand in the till
+- bị bắt quả tang
+*  dt
+- (địa lý,địa chất) sét tảng lăn
+*  ngdgt
+- trồng trọt, cày cấy; cày bừa
+*  giới từ
+- đến, tới
+
++ till now: đến bây giờ, đến nay
+
++ till then: đến lúc ấy
+*  liên từ
+- cho đến khi
+
++ wait till I come: chờ cho đến khi tôi tới
+- trước khi
+
++ don't get down till the train has stopped: đừng xuống trước khi xe lửa đỗ hẳn
+
+@tillable  
+*  tt
+- có thể trồng trọt cày cấy được (đất...)
+
+@tillage  
+*  dt
+- việc cày cấy trồng trọt
+- đất trồng trọt
+
+@tiller  
+*  dt
+- người làm đất, người trồng trọt; dân cày, nông dân
+
++ land to the tiller: hãy trả ruộng đất cho dân cày; người cày có ruộng
+- (nông nghiệp) máy xới
+*  dt
+- tay bánh lái (tàu, thuyền...)
+- (thực vật học) chồi, tược; chồi rễ
+*  ndgt
+- đâm chồi, đâm tược; mọc chồi rễ
+
+@tilling  
+*  dt
+- việc cày bừa, việc làm đất
+!the tilling shows the tiller
+- xem thực hành mới biết dở hay
+
+@tilt  
+*  dt
+- độ nghiêng; trạng thái nghiêng
+- sự đấu thương (trên ngựa, trên thuyền)
+- búa đòn ((cũng) tilt-hammer)
+!full tilt
+- rất mau, hết tốc lực
+
++ to run (come) full tilt against: lao tới, xông tới
+*  ndgt
+- nghiêng đi
+
++ the barrel tilted: cái thùng nghiêng đi
+- (hàng hải) tròng trành, nghiêng
+
++ the ship tilts on the waves: chiếc tàu tròng trành trên sóng
+- đấu thương
+- (nghĩa bóng) tranh luận, tranh cãi
+*  ngdgt
+- làm nghiêng, làm chúi xuống
+- lật đổ, lật nghiêng (một chiếc xe)
+- (kỹ thuật) rèn bằng búa đòn, đập bằng búa đòn
+!to tilt at
+- đâm ngọn thương vào, chĩa ngọn thương vào
+- (nghĩa bóng) công kích
+!to tilk back
+- lật ra sau, lật lên
+!to tilt over
+- làm cho nghiêng; lật đổ; ngã nhào
+!to tilt up
+- lật đứng lên, dựng đứng, dựng ngược
+!to tilt at windmills
+- (xem) windmill
+*  dt
+- mui che, bạt
+*  ngdgt
+- che mui, phủ bạt
+
+@tilt-cart
+* dt
+- xe có mui che
+ @tilter
+* dt
+- người tham gia đấu thương; người chiến sĩ
+ @tilth  
+*  dt
+- sự trồng trọt
+
++ out of tilth: bỏ hoá
+- lớp đất trồng trọt
+
+@tilt-hammer  
+*  dt
+- (kỹ thuật) búa đòn ((cũng) tilt)
+
+@tilting  
+*  dt
+- sự nghiêng đi
+- sự đấu thương (trên ngựa, trên thuyền)
+- (kỹ thuật) sự rèn bằng búa đòn
+
+@tilt-yard  
+*  dt
+- (sử học) trường đấu thương
+
+@timbal   (tymbal) @timber  
+*  dt
+- gỗ làm nhà, gỗ kiến trúc, gỗ
+
++ rough timber: gỗ mới đốn
+
++ squared timber: gỗ đẽo vuông
+- cây gỗ
+
++ to cut down timber: đẵn gỗ
+- kèo, xà
+- (từ Mỹ,nghĩa Mỹ) khả năng, đức tính (của một người để làm được việc gì)
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) trồng rừng
+- cung cấp gỗ
+- xây dựng bằng gỗ, làm bằng gỗ
+
++ timbered house: nhà bằng gỗ
+- đóng gỗ xung quanh, lát gỗ xung quanh (miệng giếng...)
+*  ndgt
+- đốn gỗ
+
+@timbered
+* tt
+- bằng gỗ; được xây dựng bằng các xà gỗ, được xây dựng bằng một khung gỗ (về nhà)
+- trồng cây, trồng gỗ; có nhiều cây gỗ (về đất)
+ @timber-line
+* dt
+- đường giới hạn của cây cối
+ @timberling
+* dt
+- cây con
+ @timber-man  
+*  dt
+- thợ lâm trường
+
+@timberman
+* dt số nhiều timbermen
+- thợ lâm trường
+ @timber-toe   (timber-toes) @timber-toes   (timber-toes) @timber-wolf
+* dt
+- chó sói to, lông xám ở Bắc Mỹ
+ @timber-yard  
+*  dt
+- bãi gỗ
+
+@timbre  
+*  dt
+- (âm nhạc) âm sắc
+
+@timbre
+- âm sắc
+ @timbrel  
+*  dt
+- (âm nhạc) trống prôvăng
+
+@time  
+*  dt
+- thời gian, thì giờ
+
++ to lose time: mất thì giờ
+
++ to waste time: lãng phí thì giờ
+- thời, thời buổi, mùa
+
++ those are hard times: thời buổi ấy thật khó khăn
+- dịp, cơ hội, thời cơ
+
++ to bide one's time: đợi thời cơ
+- thời kỳ, thời đại, đời
+
++ in olden times: thời xưa, ngày xưa
+
++ in our time: thời này
+
++ in times to come: trong tương lai, đời sau
+
++ time immemorial; time out of mind: thời xa xưa (ký ức con người không còn nhớ được)
+- thời hạn, kỳ hạn
+
++ to do time: chịu hạn tù (kẻ có tội)
+
++ she is near her time: bà ta sắp đến kỳ sinh nở
+- giờ
+
++  Hanoi time: giờ Hà nội
+
++ local time: giờ địa phương
+
++ what time is it?: bây giờ mấy giờ?
+- lúc
+
++ it is time to start: đã đến lúc phải khởi hành
+
++ there is a time for everything: giờ nào việc nấy, việc nào lúc nấy
+
++ some time or other: sớm hay muộn, chẳng chóng thì chầy, chẳng lúc này thì lúc khác
+
++ this time tomorrow: lúc này ngày mai
+- lần, lượt, phen
+
++ three times running: ba lần liền
+
++ times out of number: không biết bao nhiêu lần mà kể
+
++ time and again; many and many a time: nhiều lần
+
++ time after time: hết lần này đến lần khác
+
++ three times three are nine: ba lần ba là chín
+
++ six times as many as...: nhiều gấp sau lần...
+- (âm nhạc) nhịp
+
++ to beat time: gõ nhịp, đánh nhịp
+!against time
+- hết sức khẩn trương; tranh thủ thời gian; vượt thời gian
+!at times
+- thỉnh thoảng, đôi khi, đôi lúc
+!ahead of time x ahead to be ahead of one's time
+- (nghĩa bóng) có những tư tưởng quá cấp tiến
+!behind the times
+- (xem) behind
+!to be born before one's time (before times)
+- đẻ non (trẻ)
+- đi trước thời đại
+!all the time
+- suốt, luôn luôn, lúc nào cũng
+!between times
+- giữa lúc ấy, trong khoảng thời gian ấy
+!for the time being
+- (xem) being
+!from time to time
+- thỉnh thoảng, đôi lúc
+!to gain time
+- trì hoãn, kéo dài thời gian
+!in time
+- đúng lúc; đúng nhịp
+!in no time
+- (xem) no
+!to keep good time
+- (xem) keep
+!to make up for lost time
+- lấy lại thời gian đã mất
+!out of time
+- không đúng lúc; không đúng nhịp
+!to pass the time of day with
+- chào hỏi (ai)
+!time of life
+- tuổi (của người)
+!time of one's life
+- thời gian vui thích thoải mái được trải qua
+*  ngdgt
+- chọn thời gian, tính toán thì giờ, sắp xếp thời gian
+
++ to time to the minute: tính toán thì giờ từng phút một
+- (thể dục,thể thao) tính giờ, bấm giờ (một cuộc đua...)
+- điều chỉnh (cho đúng nhịp)
+
++ to time one's steps to music: điều chỉnh bước chân cho đúng nhịp nhạc
+
++ to time the speed of a machine: điều chỉnh tốc độ máy
+
+@time
+- thời gian
+- apparent solar t. (thiên văn) giờ theo mặt trời thực
+- astronomical t. giờ thiên văn, giờ mặt trời trung bình
+- continuous t. thời gian liên tục
+- control t. thời gian kiểm tra
+- deal t. (máy tính) thời gian chết
+- delay t. (máy tính) thời gian chậm
+- digit t. (máy tính) thời gian chữ số
+- discrete t. thời gian rời rạc
+- down t. (máy tính) thời gian đã mất 
+- machine t. (máy tính) giờ máy 
+- mean solar t. (thiên văn) giờ mặt trời trung bình, giờ thiên văn
+- one - pulse t. (máy tính) thời gian một xung
+- operating t. (máy tính) thời gian làm việc
+- real t. thời gian thực
+- recavery t. thời gian phục hồi
+- recurrence t. (lý thuyết trò chơi) thời gian hoàn lại
+- resolving t. (máy tính) thời gian giải
+- sidereal t. giờ thiên văn
+- standartd t. (thiên văn) giờ tiêu chuẩn
+- universal t. giờ quốc tế
+- waiting t. thời gian đợi
+- zone t. giờ khu vực 
+ @Time, allocation of
+- (Econ) Phân bổ thời gian.
+: Mô hình thời gian giải trí truyền thống về cung giờ giả định rằng toàn bộ thời gian được phân bổ hoặc làm việc để kiếm tiền hoặc cho giải trí.
+ @time and motion study   (time_study) @Time deposit
+- (Econ) Tiền gửi có kỳ hạn.
+: Khoản tiền gửi ở một ngân hàng mà chỉ có thể được rút ra sau khi có thông báo trước.
+ @time exposure
+* dt
+- sự phơi sáng ảnh (trong đó cửa trập được mở ra lâu hơn thời gian ngắn nhất, tức là hơn một, hai giây)
+ @Time preference
+- (Econ) Sở thích theo thời gian.
+: Các cá nhân có mức sở thích theo thời gian dương đánh giá các đơn vị tiêu dùng hay thu nhập hiện tại cao hơn các đơn vị trong tương lai.
+ @Time series
+- (Econ) Chuỗi số @Time series data
+- (Econ) Dãy số liệu theo thời gian.
+ @time study   (time_study) @Time varying parameter models
+- (Econ) Các mô hình biến số  thay đổi theo thời gian.
+: Xem VARIABLE PARAMETER MODELS.
+ @time warp
+* dt
+- sự vặn vẹo của thời gian khiến cho quá khứ hoặc tương lai trở thành hiện tại (trong truyện khoa học viễn tưởng)
+ @time zone
+* dt
+- khu vực (nằm giữa hai kinh tuyến) có chung một giờ chuẩn
+ @time-bargain  
+*  dt
+- hợp đồng bán hàng theo kỳ hạn
+
+@time-bill
+* dt
+- bảng giờ (tàu)
+ @time-bomb  
+*  dt
+- bom nổ chậm
+
+@time-book  
+*  dt ((từ Mỹ,nghĩa Mỹ) (cũng) time-card)
+- sổ ghi giờ làm việc
+- sổ kiểm diện
+
+@time-card  
+*  dt ((từ Mỹ,nghĩa Mỹ) (cũng) time-card)
+- sổ ghi giờ làm việc
+- sổ kiểm diện
+
+@time-cleck  
+*  dt
+- người ghi giờ làm việc
+- người ghi sự có mặt
+
+@time-clock  
+*  dt
+- đồng hồ ghi giờ làm việc
+
+@time-consuming
+* tt
+- tốn nhiều thời gian, đòi hỏi nhiều thời gian, cần nhiều thời gian
+ @time-expired  
+*  tt
+- (quân sự) mãn hạn
+
+@time-fuse
+* dt
+- ngòi cháy chậm, kíp nổ chậm
+ @time-honored   (time-honoured) @time-honoured   (time-honoured) @timekeeper  
+*  dt
+- người ghi giờ làm việc
+- người ghi sự có mặt (của công nhân)
+- (thể dục,thể thao) người bấm giờ
+
+@time-lag
+* dt
+- khoảng cách thời gian giữa hai sự kiện có liên quan
+ @timeless  
+*  tt
+- vô tận
+- không đúng lúc
+
+@timelessly
+* dt
+- không chịu ảnh hưởng của thời gian
+- vô tận, mãi mãi
+- thường xuyên
+- không đúng lúc
+ @timelessness
+* dt
+- tình trạng không chịu ảnh hưởng của thời gian
+- sự vô tận
+- sự thường xuyên
+- sự không đúng lúc
+ @time-limit  
+*  dt
+- hạn thời gian nhất định (phải xong công việc gì...)
+
+@timeliness  
+*  dt
+- tính chất đúng lúc, tính chất hợp thời
+
+@time-loan  
+*  dt
+- món tiền vay phải trả vào một thời gian nhất định
+
+@time-lock
+* dt
+- khoá hẹn giờ
+ @timely  
+*  tt
+- đúng lúc, hợp thời
+
+@time-out  
+*  dt
+- thời gian không tính (trong một trận đấu bóng đá, bóng rổ... vì hội ý, vì ngừng đấu...)
+
+@timeout
+- thời gian trễ tạm ngưng
+ @timepiece  
+*  dt
+- đồng hồ
+
+@time-pleaser   (time-pleaser) @timeproof
+* tt
+- lâu dài; lâu bền; dài hạn; sống lâu
+ @timer  
+*  dt
+- người bấm giờ
+- đồng hồ bấm giờ
+
+@timer
+- đồng hồ bấm giờ
+- counter t. đồng hồ đếm 
+ @times
+* giới từ
+- nhân với
+* dt, pl
+- gấp (dùng để chỉ sự nhân lên)
+ @time-saving
+* tt
+- không tốn nhiều thời gian
+ @time-scale
+* dt
+- thời gian diễn ra một loạt sự kiện; các giai đoạn kế tiếp nhau (của một quá trình ); một sự vận hành 
+ @time-server   (time-pleaser) @time-serving  
+*  tt
+- xu thời, cơ hội
+
+@time-sharing
+* dt
+- việc sử dụng đồng thời
+- việc chia phiên sử dụng
+ @time-sheet
+* dt
+- sổ chấm công, sổ ghi số giờ làm việc
+ @time-signal
+* dt
+- (rađiô) tín hiệu báo giờ
+ @time-switch
+* dt
+- nút định giờ (nút có thể được đặt để tự động hoạt động vào một giờ nào đó)
+ @time-table  
+*  dt
+- bảng giờ giấc, biểu thời gian
+
+@timetable
+* dt
+- <Mỹ> kế hoạch làm việc; lịch trình, bảng giờ giấc, biểu thời gian
+ @time-tested  
+*  tt
+- đã được thời gian thử thách
+
+@time-work  
+*  dt
+- việc làm tính giờ
+
+@timework
+* dt
+- việc làm tính giờ
+ @time-worn  
+*  tt
+- mòn cũ, xơ xác vì thời gian
+
+@timid  
+*  tt
+- rụt rè, nhút nhát, bẽn lẽn, e lệ
+
++ timid as a rabbit: nhát như cáy
+
+@timidity   (timidness) @timidly
+* dt
+- rụt rè, nhút nhát, bẽn lẽn, dễ sợ hãi
+ @timidness   (timidness) @timing  
+*  dt
+- sự chọn đúng lúc; sự tính toán thời gian; sự phối hợp thời gian; sự phối hợp thời gian
+- (thể dục,thể thao) sự bấm giờ
+- (kỹ thuật) sự điều chỉnh
+
+@timist
+* dt
+- người nhạy cảm về nhịp điệu; về thời gian...
+
++  he is a good timist:anh ta rất nhạy cảm về nhịp độ
+ @timoneer
+* dt
+- người lái tàu; người cầm lái
+ @timorous  
+*  tt
+- sợ sệt, nhút nhát
+
+@timorously
+* dt
+- sợ sệt, nhút nhát
+ @timorousness  
+*  dt
+- tính sợ sệt, tính nhút nhát
+
+@timorsome
+* tt
+- (phương ngữ) xem timorous
+ @timothy  
+*  dt
+- (thực vật học) cỏ đuôi mèo
+
+@timpani  
+*  dt,  số nhiều timpani
+- (âm nhạc) trống lục lạc
+
+@timpanist   (tympanist) @timpano  
+*  dt,  số nhiều timpani
+- (âm nhạc) trống lục lạc
+
+@tin  
+*  dt
+- thiếc
+- sắt tây; giấy thiếc
+- hộp thiếc, hộp sắt tây
+
++ a tin of sardine: hộp cá trích
+- (từ lóng) tiền
+*  ngdgt
+- tráng thiếc
+- đóng hộp
+
++ tinned food: đồ hộp
+
+@tin fish  
+*  dt
+- (thông tục) tàu phóng ngư lôi
+
+@tin foil  
+*  dt
+- giấy thiếc, lá thiếc
+
+@tin hat  
+*  dt
+- (quân sự) mũ sắt
+
+@tin lizzie  
+*  dt
+- (từ lóng) ô tô loại rẻ tiền ((cũng) tin lizzie)
+
+@tin-bearing  
+*  tt
+- có chứa thiếc
+
+@Tinbergen, Jan
+- (Econ) (1903-)
+: Nhà kinh tế học HÀ LAN cùng với R.FRISCH được trao giải Nobel kinh tế năm 1969 về nghiên cứu tiên phong trong kinh tế lượng. Nghiên cứu đầu tay được nói đến nhiều nhất là nghiên cứu về biến động chu kỳ ở Mỹ, mà trong đó ông cố gắng chỉ ra theo cách định lượng tầm quan trọng của các yếu tố khác nhau trong ch kỳ kinh doanh ở Mỹ. Một tác phẩm có ảnh hưởng khác của Tinbergen là Lý thuyết về chính sách kinh tế như mục tiêu chính sách. Ông đã có đóng góp quan trọng vào khái niệm GIÁ BÓNG.
+ @tin-can
+* dt
+- hộp (cá, thịt...)
+- pháo hạm; tàu săn tàu ngầm
+ @tinctorial  
+*  tt
+- (thuộc) thuốc nhuộm
+
++ tinctorial plant: cây cho thuốc nhuộm
+
+@tincture  
+*  dt
+- sắc nhẹ, màu nhẹ
+- (y học) cồn thuốc
+
++ tincture of iodine: cồn iôt
+- (nghĩa bóng) hương thoảng, vị thoảng, nét thoáng; kiến thức sơ sài
+
++ to have a shallow tincture of history: có kiến thức sơ sài về lịch sử
+*  ngdgt
+- bôi màu; tô màu
+- (nghĩa bóng) nhuốm màu, làm cho có vẻ
+
+@tinder  
+*  dt
+- bùi nhùi (để nhóm lửa); bông bùi nhùi (trong bật lửa)
+
+@tinder-box  
+*  dt
+- hộp bật lửa
+- (nghĩa bóng) cái dễ bắt lửa; người dễ kích động, người dễ nổi nóng
+
+@tindery  
+*  tt
+- dễ bắt lửa, dễ cháy
+
+@tine  
+*  dt
+- răng (nạng, chĩa)
+- nhánh gạc (hươu, nai)
+
+@tin-fish
+* dt
+- thủy lôi; ngư lôi
+ @tinfoil
+* dt
+- giấy thiếc; lá thiếc
+* ngdgt
+- bọc (bằng) giấy thiếc
+ @ting  
+*  dt
+- tiếng leng keng
+*  ndgt
+- kêu leng keng
+
+@tinge  
+*  dt
+- màu nhẹ
+
++ a tinge of blue: màu xanh nhẹ
+- vẻ, nét thoáng
+
++ a tinge of affectation: vẻ hơi điệu bộ, vẻ hơi màu mè
+*  ngdgt
+- nhuốm màu, pha màu
+- có vẻ, đượm vẻ
+
++ his admiration was tinged with envy: sự khâm phục của nó đượm vẻ ghen tị
+
+@tingle  
+*  dt
+- sự ngứa ran, sự ngứa như có kiến bò
+
++ to have a tingle in one's arms: ngứa như có kiến bò ở cánh tay
+- tiếng ù ù (trong tai)
+- sự náo nức, sự rộn lên
+*  ndgt
+- có cảm giác ngứa ran, ngứa như có kiến bò
+- ù lên (tai)
+
++ my ears tingled: tai tôi ù lên
+- bị kích động, bị kích thích, náo nức, rộn lên
+
++ the people tingle with excitement: nhân dân náo nức
+
+@tinhorn  
+*  tt (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- nhãi nhép, bất tài nhưng hay lên mặt ta đây
+
++ a tinhorn dictator: tên độc tài nhãi nhép
+- hào nhoáng rẻ tiền
+
+@tininess  
+*  dt
+- tính chất nhỏ bé, tính chất nhỏ xíu
+
+@tinker  
+*  dt
+- thợ hàn nồi
+- thợ vụng
+- việc làm dối, việc chắp vá
+!to have an hour's tinker at something
+- để một giờ sửa qua loa (chắp vá, vá víu) cái gì
+!not worth a tinker's dam
+- không đáng một xu
+*  ngdgt
+- hàn thiếc, hàn (nồi)
+- vá dối, sửa dối, sửa qua loa, chắp vá, vá víu
+*  ndgt
+- làm dối
+
++ to tinker away at; to tinker with: làm qua loa, sửa vụng
+
++ to tinker with a literary work: sửa lại một tác phẩm văn học một cách vụng về
+
+@tin-kettle  
+*  dt
+- ấm thiếc
+
+@tinkle  
+*  dt
+- tiếng leng keng (chuông...)
+*  ngdgt
+- làm cho kêu leng keng, rung leng keng
+
++ to tinkle the bell: rung chuông leng keng
+*  ndgt
+- kêu leng keng
+
++ the glass tinkles: cốc kêu leng keng
+
+@tinkler  
+*  dt
+- người rung (chuông...)
+- (từ lóng) chuông con
+
+@tinkling  
+*  dt
+- tiếng leng keng
+- sự ngân vang
+*  tt
+- kêu leng keng
+
+@tinman   (tinsman) @tinned  
+*  tt
+- tráng thiếc
+- đóng hộp
+
+@tinner  
+*  dt
+- công nhân mỏ thiếc
+- thợ thiếc
+- người làm đồ hộp
+
+@tinnery
+* dt
+- sự khai thác (mỏ) thiếc
+- (số nhiều) mỏ thiếc
+ @tinning  
+*  dt
+- sự tráng thiếc
+
+@tinnitus  
+*  dt
+- (y học) sự ù tai
+
+@tinny  
+*  tt
+- giống như thiếc
+- kêu loảng xoảng (như thiếc)
+
++ a tinny piano: một cái pianô tiếng loảng xoảng
+- có mùi vị thiếc
+
++ to have a tinny taste: có vị như thiếc, có vị tanh tanh
+
+@tinny tot
+* dt
+- đứa trẻ nhỏ
+ @tin-opener  
+*  dt
+- đồ mở hộp
+
+@tin-pan
+* tt
+- loảng xoảng; điếc tai
+ @tin-pan alley
+* dt
+- <thgt> những người sáng tác, biểu diễn và xuất bản âm nhạc dân gian và cách sống của họ
+ @tin-plate  
+*  dt
+- sắt tây
+*  dgt
+- tráng thiếc
+
+@tin-pot
+* dt
+- nồi con (cà mèn) bằng thiếc (sắt tây)
+- chén nung; lò nồi (để mạ sắt tây)
+ @tinpot
+* tt
+- kém, không có giá trị
+ @tinsel  
+*  dt
+- kim tuyến
+- vật hào nhoáng rẻ tiền, đồ mã; vẻ hào nhoáng
+*  tt
+- bằng kim tuyến
+- hào nhoáng rẻ tiền
+*  ngdgt
+- trang sức bằng kim tuyến; trang điểm bằng vật hào nhoáng
+- làm cho hào nhoáng
+
+@tinselled
+* tt
+- được trang điểm bằng kim tuyến
+- có vẻ hào nhoáng, có vẻ rực rỡ bề ngoài
+ @tinselly
+* tt
+- được trang điểm bằng kim tuyến
+- có vẻ hào nhoáng, có vẻ rực rỡ bề ngoài
+ @tinsman   (tinsman) @tin-smith   (tinsman) @tinsmith
+* dt
+- như tinman
+ @tinsnips
+* dt
+- kéo cắt tôn, sắt, kim loại
+ @tinstuff
+* dt
+- (địa lý) quặng thiếc
+ @tint  
+*  dt
+- màu nhẹ, màu sắc
+
++ autumn tints: những màu úa vàng mùa thu
+- đường gạch bóng, nét chải (trên hình vẽ...)
+*  ngdgt
+- nhuốm màu, tô màu
+- gạch gạch, đánh bóng bằng đường gạch
+
+@tin-tack
+* dt
+- đinh ngắn bằng sắt mạ thiếc
+ @tinter
+* dt
+- người tô màu
+- thợ nhuộm
+- kính màu trong đèn chiếu
+- (thông tục) phim màu (điện ảnh)
+ @tintinnabula
+- số nhiều của tintinnabulum
+ @tintinnabulation  
+*  dt
+- tiếng kêu leng keng (chuông)
+
+@tintinnabulum
+- dt số nhiều tintinnabula
+ @tintometer  
+*  dt
+- (kỹ thuật) cái đo màu
+
+@tinty  
+*  tt
+- loè loẹt, sặc sỡ
+
+@tinware  
+*  dt
+- hàng thiếc, đồ thiếc
+
+@tin-whistle  
+*  dt
+- ống tiêu; ống địch
+
+@tiny  
+*  tt
+- nhỏ xíu, tí hon, bé tí
+
++ a tiny bit: một chút, chút xíu
+
+@tip  
+*  dt
+- đầu, mút, đỉnh, chóp
+
++ the tips of the fingers: đầu ngón tay
+- đầu bịt (của gậy, điếu thuốc lá...)
+- bút để thếp vàng
+!to have it on the tip of one's tongue
+- sắp sửa buột miệng nói điều ấy ra
+*  ngdgt
+- bịt đầu
+
++ to tip with silver: bịt bạc
+*  dt
+- tiền quà, tiền diêm thuốc
+- lời khuyên, lời mách nước (đánh cá ngựa)
+- mẹo, mánh lới, mánh khoé
+!to miss one's tip
+- thất bại, hỏng việc
+- (sân khấu),  (từ lóng) diễn tồi, chơi tồi
+*  ngdgt
+- cho tiền quà, cho tiền diêm thuốc
+- mách nước (đánh cá ngựa)
+- (thông tục) đưa cho, trao
+
++ tip me a cigarette: vứt cho tôi điếu thuốc lá nào
+!to tip someone the wink
+- (xem) wink
+*  dt
+- cái đánh nhẹ, cái gảy nhẹ, cái đẩy nhẹ, cái chạm nhẹ, cái vỗ nhẹ
+*  ngdgt
+- đánh nhẹ, gảy nhẹ, đẩy nhẹ, chạm nhẹ, vỗ nhẹ
+
++ to tip the ball: gảy nhẹ quả bóng
+*  dt
+- nơi đổ rác, thùng rác
+*  dgt
+- lật nghiêng, làm nghiêng; đổ, rót
+
++ to tip water into the sink: đổ nước vào chậu
+!to tip out
+- đổ ra
+!to tip over
+- lật ngược
+!to tip up
+- lật úp
+
+@tip-and-run
+* dt
+- cuộc tập kích (tấn công) chớp nhoáng (hay tip-and-run raid)
+ @tip-car  
+*  dt
+- xe ben, xe có thùng lật (để đổ đất, rác...)
+
+@tip-cart  
+*  dt
+- xe ba gác lật ngược
+
+@tipcat  
+*  dt
+- trò chơi khăng
+
+@tip-cat
+* dt
+- trò chơi đánh khăng
+ @tip-iron  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) cái móc lốp
+
+@tip-off  
+*  dt
+- sự mách nước
+- lời mách nước
+
+@tipped
+* tt
+- bịt đầu
+
++  tipped cigarettes:thuốc lá đầu lọc
+ @tipper lorry
+* dt
+- xe ben (xe tải có thể nâng thùng ở một đầu để đổ các thứ đựng bên trong ra)
+ @tipper truck
+* dt
+- xe ben (xe tải có thể nâng thùng ở một đầu để đổ các thứ đựng bên trong ra)
+ @tippet  
+*  dt
+- khăn choàng (ở vai và cổ của phụ nữ, luật sư, giáo sĩ...)
+
+@tipple  
+*  dt
+- rượu
+-(đùa cợt) thức uống
+
++ my favourite tippleis coca-cola: thức uống tôi thích dùng là côca-côla
+*  dgt
+- nghiện rượu
+- nhấp; uống (rượu)
+
+@tippler  
+*  dt
+- người thích rượu, người nghiện rượu
+
+@tippling  
+*  dt
+- thói hay uống rượu
+- sự nhấp rượu
+*  tt
+- hay uống rượu, nghiện rượu
+
+@tippling-house
+* dt
+- tửu quán
+ @tippy
+* tt
+- có nhiều búp (cây chè)
+ @tipsily
+* dt
+- <thgt> ngà ngà say, chếnh choáng
+ @tipsiness  
+*  dt
+- sự say rượu
+
+@tipstaff  
+*  dt
+- gậy bịt đồng; dùi cui (cảnh sát)
+- cảnh sát
+- roi mõ toà
+- mõ toà
+
+@tipster  
+*  dt
+- người mách nước (trong cuộc đua ngựa)
+
+@tipsy  
+*  tt
+- ngà ngà say, chếnh choáng
+
++ to get tipsy: ngà ngà say
+
++ to make tipsy: làm cho ngà ngà say
+
+@tipsy-cake  
+*  dt
+- bánh qui kem tẩm rượu
+
+@tiptoe  
+*  dt
+- đầu ngón chân
+
++ to stand on tiptoe; to be on tiptoe: nhón chân
+!to be on the tiptoe of expectation
+- thấp thỏm chờ đợi
+*  ndgt
+- đi nhón chân
+*  dt
+- nhón chân
+
+@tiptop  
+*  dt
+- đỉnh, đỉnh cao
+*  tt & dt
+- nhất hạng, tuyệt mỹ, hoàn hảo
+
++ to be in tiptop spirits: hết sức vui vẻ
+
++ a tiptop concert: một buổi hoà nhạc hay tuyệt
+
+@tip-up  
+*  tt
+- lật lên được (ghế ngồi ở rạp hát)
+
+@tir
+* (viết tắt)
+- vận tải đường bộ quốc tế (nhất là trên xe tải ở châu Âu)  (tiếng Pháp Transport International Routier)
+ @tirade  
+*  dt
+- tràng đả kích, tràng chửi rủa; diễn văn đả kích
+
++ tirade of invectives: một tràng chửi rủa
+
+@tire  
+*  dt & ngdgt
+- (như) tyre
+*  ngdgt
+- làm mệt mỏi, làm mệt nhọc
+
++ the long lecture tires the audience: buổi thuyết trình dài làm cho người nghe mệt mỏi
+- làm chán
+*  ndgt
+- mệt, mệt mỏi
+!to tire of
+- chán, không thiết
+*  dt
+- (từ cổ,nghĩa cổ) đồ trang sức trên đầu (của đàn bà); đồ trang sức
+*  ngdgt
+- trang điểm, trang sức
+
++ to tire one's head: trang điểm cái đầu
+
+@tired  
+*  tt
+- mệt, mệt mỏi, nhọc
+
++ to be tired out; to be tired to death: mệt chết được
+- chán
+
++ to be tired of doing the same things: chán ngấy làm những việc như nhau
+
++ to grow tired of: phát chán về, phát chán vì
+
+@tired out
+* tt
+- hoàn toàn kiệt sức
+ @tiredness  
+*  dt
+- sự mệt nhọc, sự mệt mỏi
+- sự chán
+
+@tired-out
+* tt
+- hoàn toàn kiệt sức
+ @tireless  
+*  tt
+- không mệt mỏi; không chán
+
++  Lenin was a tireless worker: Lê-nin là người làm việc không mệt mỏi
+- không ngừng, bền bỉ
+
++ tireless energy: một nghị lực bền bỉ
+
+@tirelessly
+* dt
+- không dễ mệt mỏi, đầy sinh lực
+- không chán
+ @tire-room
+* dt
+- phòng vệ sinh; phòng toa-lét
+ @tiresome  
+*  tt
+- mệt nhọc, làm mệt
+
++ a tiresome job: một công việc mệt nhọc
+- chán, làm chán, khó chịu
+
++ a tiresome lecture: một buổi thuyết trình chán ngắt
+
+@tiresomely
+* dt
+- mệt nhọc, làm mệt
+- phiền hà, buồn chán, khó chịu
+ @tiresomeness  
+*  tt
+- tính chất làm cho mệt mỏi
+- tính chất đáng chán
+
+@tiring
+* dt
+- sự mệt mỏi, sự mệt nhọc
+ @tiring-irons
+- số ít
+- câu đố
+- vấn đề hóc búa; nan giải
+ @tiro  
+*  dt,  số nhiều tiros
+- người học việc, người mới vào nghề
+
+@tiroes
+- xem tiro
+ @tiros
+- xem tiro
+ @tirra-lirra
+- (tiếng tượng thanh) tra la la
+ @tis
+- (từ cổ) viết tắt của it is
+ @tisane  
+*  dt
+- (dược học) nước sắc, thuốc hãm
+
+@tissue  
+*  dt
+- vải mỏng
+- mớ, tràng, dây (chuyện nói láo, chuyện vô lý...)
+- giấy lụa ((cũng) tissue-paper)
+- (sinh vật học) mô
+
++ nervous tissue: mô thần kinh
+
+@tissued
+* tt
+- dệt; đan
+- giống vải
+ @tissue-paper  
+*  dt
+- giấy lụa ((cũng) tissue)
+
+@tit  
+*  dt
+- (thông tục) (như) teat
+*  dt
+- (động vật học) chim sẻ ngô
+- (từ cổ,nghĩa cổ) ngựa con
+- (từ cổ,nghĩa cổ) cô gái; cậu bé
+*  dt
+- tit for tat ăn miếng trả miếng; to give someone tit for tat trả đũa ai, trả miếng ai
+
+@titan  
+*  dt
+- người khổng lồ; người có sức mạnh phi thường; người tài giỏi phi thường
+
+@titanesque  
+*  tt
+- (thuộc) người khổng lồ
+- to lớn, khổng lồ, vĩ đại
+
+@titanian
+- xem titanic
+ @titanic  
+*  tt
+- to lớn, khổng lồ, vĩ đại
+*  tt
+- (hoá học) Titanic
+
+@titanium  
+*  dt
+- (hoá học) Titan
+
+@titbit
+* dt
+- miếng ngon, món ngon
+- (:of something) một mẩu tin (một lời đồn đại ) nhỏ nhưng lý thú
+ @titer
+- xem titre
+ @tithable  
+*  tt
+- phải đóng thuế thập phân
+
+@tithe  
+*  dt
+- thuế thập phân
+- một phần nhỏ, một phân số, một chút xíu tí, tí tẹo
+
++ not a tithe of...: không một tí... nào
+*  ngdgt
+- đánh thuế thập phân
+- nộp thuế thập phân về (mùa màng...)
+
+@tithe barn
+* dt
+- nhà kho được xây dựng để chứa hoa lợi thuế thập phân
+ @tithe-collector
+* dt
+- người thu thuế thập phân
+ @tithe-free
+* tt
+- được miễn thuế thập phân
+ @tither  
+*  dt
+- người thu thuế thập phân
+
+@tithing  
+*  dt
+- sự đánh thuế thập phân
+
+@titian
+* tt
+- (tóc) màu hung bóng, hung sáng
+ @titillate  
+*  ngdgt
+- cù, làm cho buồn cười
+
+@titillating
+* tt
+- kích thích, kích động
+- buồn cười, mắc cười
+ @titillation  
+*  dt
+- sự cù, sự làm cho buồn cười
+
+@titillative
+* tt
+- kích thích; kích động
+ @titivate  
+*  dgt
+- (thông tục) trang điểm, chải chuốt, làm dáng
+
+@titivation  
+*  dt
+- (thông tục) sự trang điểm, sự chải chuốt, sự làm dáng
+
+@titlark  
+*  dt
+- (động vật học) chim sẻ đồng
+
+@title  
+*  dt
+- tên (sách); nhan đề
+- tước; danh hiệu
+
++ the title of Duke: tước công
+- tư cách, danh nghĩa
+
++ to have a title to a place among great poets: có đủ tư cách đứng trong hàng ngũ những nhà thơ lớn
+- tuổi (của một hợp kim vàng...), chuẩn độ
+- (pháp lý) quyền sở hữu; chứng thư, văn tự
+
+@titled  
+*  tt
+- có tước vị, có chức tước
+
+@title-deed  
+*  dt
+- (pháp lý) chứng thư
+
+@title-holder
+* dt
+- <thể> nhà vô địch
+ @titleless  
+*  tt
+- không có tên; không có nhan đề
+- không có tước vị, không có chức tước
+
+@title-page  
+*  dt
+- (ngành in) trang trên sách
+
+@title-part   (title-role) @titler
+* dt
+- máy chụp dòng chữ đề; máy chụp tít
+- người quay phim chuyên chụp tít
+ @title-role   (title-role) @titling  
+*  dt
+- (động vật học) chim sẻ đồng ((cũng) titlark)
+- (động vật học) chim sẻ ngô ((cũng) titmouse)
+
+@titlist
+* dt
+- nhân vật có chức tước; chức vị
+ @titmice  
+*  dt,  số nhiều titmice
+- (động vật học) chim sẻ ngô
+
+@titmouse  
+*  dt,  số nhiều titmice
+- (động vật học) chim sẻ ngô
+
+@titrate  
+*  ngdgt
+- chuẩn độ (dụng dịch); xác định tuổi (hợp kim vàng...)
+
+@titration  
+*  dt
+- sự chuẩn độ (dung dịch); sự xác định tuổi (hợp kim vàng)
+
+@titre
+* dt
+- (hoá học) độ chuẩn
+ @titrimetric
+* tt
+- (hoá học) để đo chuẩn độ; để đo khối lượng (phép phân tích)
+ @titter  
+*  dt
+- sự cười khúc khích
+- tiếng cười khúc khích
+*  ndgt
+- cười khúc khích
+
+@tittivate
+* dgt
+- xem titivate
+ @tittle  
+*  dt
+- một chút, chút xíu, tí tẹo, tẹo
+
++ exact to a tittle: rất chính xác
+
++ not one jot or tittle: không một tí nào
+
+@tittlebat  
+*  dt
+- (động vật học) cá gai
+
+@tittle-tattle  
+*  dt
+- chuyện nhảm nhí, chuyện ngồi lê đôi mách, chuyện tầm phào
+*  ndgt
+- nói chuyện nhảm nhí, ngồi lê đôi mách, nói chuyện tầm phào
+
+@tittle-tattler
+- như talebearer
+ @titty  
+*  dt
+- (thông tục) vú
+
+@titubate
+* ndgt
+- đi loạng choạng; đi ngất ngưởng
+- (cổ) ấp úng; ngắc ngứ; nói lắp bắp
+ @titubation  
+*  dt
+- (y học) sự đi lảo đảo, sự loạng choạng
+
+@titular  
+*  tt
+- giữ chức
+- danh nghĩa
+*  dt
+- người giữ chức
+- người giữ chức vụ danh nghĩa
+
+@titulary
+- (hiếm) xem titular
+ @tizzy
+* dt
+- <thgt> tình trạng kích động, tình trạng bối rối
+- <lóng> sự lo lắng; sự nhặng xị
+ @

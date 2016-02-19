@@ -1,0 +1,1355 @@
+@em  
+*  dt
+- M,  m (chữ cái)
+- m (đơn vị đo dòng chữ in)
+
+@em dash
+- nét em (vệt in liên tục có độ rộng bằng một em; đó là độ rộng của chữ M ứng với kiểu chữ đang dùng)
+ @EM (end of medium)
+- (Tech) đoạn cuối môi thể
+ @em fraction
+- phân số em
+- Phân số dạng ký tự đơn, chiếm độ rộng một em, dùng dấu vạch chéo (1   4) 
+@EMA
+- (Econ) Xem EUROPEAN MONETARY AGREEMENT
+ @emaciate  
+*  ngdgt
+- làm gầy mòn, làm hốc hác
+- làm bạc màu (đất
+- làm úa (cây cối)
+
+@emaciated  
+*  tt
+- gầy mòn, hốc hác
+- bạc màu (đất
+- úa (cây cối)
+
+@emaciation  
+*  dt
+- sự làm gầy mòn, sự làm hốc hác, sự gầy mòn, sự hốc hác
+- sự làm bạc màu; sự bạc màu (đất
+
+@email
+- thư điện tử
+ @email 
++  e-mail 
++  electronic mail
+- (Tech) thư điện tử
+ @emanate  
+*  ndgt
+- phát ra, bắt nguồn
+
+@emanation  
+*  dt
+- sự phát ra, sự bắt nguồn
+- vật phát ra
+- (hoá học) sự xạ khí
+
+@emanation
+- (tô pô) sự phát xạ
+ @emanational
+- xem emanation
+ @emanative
+- xem emanate
+ @emancipate  
+*  ngdgt
+- giải phóng (phụ nữ, người nô lệ...)
+
+@emancipation  
+*  dt
+- sự giải phóng
+
+@emancipationist  
+*  dt
+- người chủ trương giải phóng nô lệ
+
+@emancipative
+- xem emancipate
+ @emancipator  
+*  dt
+- người giải phóng
+
+@emancipatory  
+*  tt
+- để giải phóng
+
+@emancipist  
+*  dt
+- (sử học),  Uc người mãn hạn tù
+
+@emarginate
+* tt
+- (thực vật) có khía; không bờ
+
++  emarginate leaf:lá có khía
+* ngdgt
+- xén lề, bỏ lề (tờ giấy)
+ @emargination
+* dt
+- sự xén lề; sự bỏ lề (tờ giấy)
+ @emasculate  
+*  ngdgt
+- thiến, hoạn
+- cắt xén (một tác phẩm...)
+- làm yếu ớt, làm nhu nhược
+- làm nghèo (một ngôn ngữ)
+*  tt ((cũng) emasculated)
+- bị thiến, bị hoạn
+- bị làm yếu ớt, bị làm nhu nhược
+
+@emasculated  
+*  tt
+- (như) emasculate
+- bị cắt xén (tác phẩm)
+- bị làm nghèo (ngôn ngữ)
+
+@emasculation
+- xem emasculate
+ @emasculative   (emasculatoty) @emasculator
+- xem emasculate
+ @emasculatory
+- xem emasculate
+ @emasculatoty   (emasculatoty) @emball
+* ngdgt (từ hiếm)
+- bọc (hàng)
+- làm cho có hình cầu
+ @emballage
+* dt
+- việc đóng gói (hàng)
+ @embalm  
+*  ngdgt
+- ướp (xác chết)
+- ướp chất thơm
+- giữ cho khỏi bị quên; giữ trân trọng; ghi nhớ
+
+@embalmer
+- xem embalm
+ @embalmment  
+*  dt
+- sự ướp (xác chết)
+- sự ướp chất thơm
+- sự giữ cho khỏi bị quên; sự giữ trân trọng; sự ghi nhớ
+
+@embank  
+*  ngdgt
+- chắn (sông... bằng đá...); đắp cao (đường)
+
+@embankment  
+*  dt
+- đê; đường đắp cao (cho xe lửa...)
+
+@embarcadero
+* dt
+- bến tàu thủy
+ @embarcation
+* dt
+- xem embarkation
+ @embargo  
+*  dt,  số nhiều embargoes
+- lệnh cấm vận
+- sự đình chỉ hoạt động (một ngành buôn bán)
+- sự cản trở
+*  ngdgt
+- cấm vận
+- sung công (tàu bè, hàng hoá...)
+
+@embark  
+*  ngdgt
+- cho lên tàu (lính, hàng...) ((từ Mỹ,nghĩa Mỹ) (cũng) imbark)
+*  ndgt
+- lên tàu
+- (: in,  upon) lao vào, dấn mình vào, bắt tay vào (công việc gì...) ((từ Mỹ,nghĩa Mỹ) (cũng) imbark)
+
+@embarkation  
+*  dt
+- sự cho lên tàu
+
+@embarking
+* dt
+- xem embarkment
+ @embarkment  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) embarkation
+
+@embarrass  
+*  ngdgt
+- làm lúng túng, làm ngượng nghịu
+- làm rắc rối, làm rối rắm
+- gây khó khăn cho, ngăn trở
+- (từ Mỹ,nghĩa Mỹ) làm nợ đìa, làm mang công mắc nợ, gây khó khăn về kinh tế cho
+
+@embarrassed  
+*  tt
+- lúng túng, bối rối; ngượng
+- bị ngăn trở
+- (từ Mỹ,nghĩa Mỹ) mắc nợ đìa
+
+@embarrassedly
+- xem embarrass
+ @embarrassiment  
+*  dt
+- sự lúng túng, sự ngượng ngịu; tình trạng lúng túng, tình trạng bối rối
+- điều làm lúng túng, điều làm bối rối; điều làm ngượng
+
+@embarrassing  
+*  tt
+- làm lúng túng
+
++ an embarrassing situation: tình trạng lúng túng
+- ngăn trở
+
+@embarrassingly
+* dt
+- gây lúng túng, khiến bối rối
+ @embarrassment
+* dt
+- sự lúng túng, sự ngượng ngịu; tình trạng lúng túng, tình trạng bối rối
+- điều làm lúng túng, điều làm bối rối; điều làm ngượng
+ @embassy  
+*  dt
+- chức đại sứ, hàm đại sứ; toà đại sứ; đại sứ và cán bộ nhân viên (ở toà đại sứ)
+- sứ mệnh
+
+@embattle  
+*  ngdgt
+- dàn (quân) thành thế trận
+*  ngdgt
+- làm lỗ châu mai ở (thành, tường...)
+
+@embay  
+*  ngdgt
+- cho (tàu) đỗ vào vịnh
+- đẩy (tàu) vào vịnh (cơn gió)
+
+@embayed
+* tt
+- có hình dáng vịnh
+
++  an embayed shoreline:bờ biển có hình dáng vịnh
+ @embayment
+* dt
+- vịnh; vũng
+- sự hình thành vịnh
+ @embed   (imbed) @embed
+- (Tech) gắn vào, đặt vào, gài trong, nhúng vào
+ @embed
+- nhúng
+ @embeddability
+- tính nhúng được
+ @embedded
+- được nhúng
+ @embedded command
+- (Tech) lệnh gài trong
+ @embedded loop
+- (Tech) chu trình gài trong
+ @embedded object
+- (Tech) đối tượng gài trong
+ @embedded software
+- (Tech) nhu liệu gài trong
+ @embedded system
+- (Tech) hệ thống gài trong
+ @embedding
+* dt
+- sự đưa vào, sự gắn vào
+- (hoá học) tạp chất
+ @embedding
+- phép nhúng
+- invariant e. phép nhúng bất biến 
+ @embedment
+- xem embed
+ @embellish  
+*  ngdgt
+- làm đẹp, trang điểm, tô son điểm phấn
+- thêm thắt, thêm mắm thêm muối (vào một chuyện...)
+
+@embellisher
+- xem embellish
+ @embellishment  
+*  dt
+- sự làm đẹp, sự trang điểm, sự tô son điểm phấn
+- sự thêm thắt, điều thêm thắt (vào một chuyện...)
+
+@ember  
+*  dt,  (thường) số nhiều
+- than hồng (trong đám lửa sắp tắt) ((nghĩa đen) & (nghĩa bóng)); đám tro tàn còn lẫn những cục than hồng
+*  dt: (ember-goose) 
+@ember days  
+*  dt
+- (tôn giáo) tuần chay ba ngày
+
+@ember-goose  
+*  dt,  (thường) số nhiều
+- than hồng (trong đám lửa sắp tắt) ((nghĩa đen) & (nghĩa bóng)); đám tro tàn còn lẫn những cục than hồng
+*  dt: (ember-goose) 
+@embezzle  
+*  dgt
+- biển thủ, tham ô (tiền...)
+
+@embezzlement  
+*  dt
+- sự biển thủ, sự tham ô
+
+@embezzler
+* dt
+- người biển thủ, người thụt két, người tham ô
+ @embitter  
+*  ngdgt ((từ Mỹ,nghĩa Mỹ) (cũng) imbitter)
+- làm đắng
+- làm cay đắng, làm chua xót; làm đau lòng
+- làm quyết liệt, làm gay gắt; làm sâu sắc (lòng căm thù...)
+- làm bực tức (ai)
+
+@embitterment  
+*  dt
+- sự làm đắng
+- sự làm cay đắng, sự làm chua xót; sự làm đau lòng
+- sự làm quyết liệt, sự làm gay gắt; sự làm sâu sắc (lòng căm thù...)
+- sự làm bực tức (ai)
+
+@emblazon  
+*  ngdgt
+- vẽ rõ nét (như trên huy hiệu)
+- trang trí phù hiệu (trên khiên mộc...)
+- ca ngợi, tán dương
+
+@emblazoner
+- xem emblazon
+ @emblazonment  
+*  dt
+- sự vẽ rõ nét
+- sự trang trí phù hiệu
+- sự ca ngợi, sự tán dương
+
+@emblazonry   (emblazonry) @emblem  
+*  dt
+- cái tượng trưng, cái biểu tượng
+- người điển hình
+- hình vẽ trên huy hiệu
+*  ngdgt
+- tượng trưng
+
+@emblematic   (emblematical) @emblematical   (emblematical) @emblematically
+- xem emblematic
+ @emblematise   (emblematise) @emblematist  
+*  dt
+- người vẽ phù hiệu, người vẽ huy hiệu
+
+@emblematize   (emblematise) @emblement  
+*  dt (pháp lý),  (thường) số nhiều
+- hoà lợi; vụ lợi
+- thổ sản
+
+@Embodied technical progress
+- (Econ) Tiến bộ kỹ thuật nội hàm; Tiến bộ hàm chứa kỹ thuật.
+: Tiến bộ kỹ thuật mà không thể có được nếu không hàm chứa nguồn vốn mới.
+ @embodiment  
+*  dt
+- hiện thân
+- sự biểu hiện
+
+@embody  
+*  ngdgt ((từ Mỹ,nghĩa Mỹ) (cũng) imbody)
+- là hiện thân của
+- biểu hiện
+- gồm, kể cả
+
+@embog  
+*  ngdgt
+- làm sa lầy ((nghĩa đen) & (nghĩa bóng))
+
+@embolden  
+*  ngdgt
+- làm cho bạo gan, làm cho bạo dạn, làm cho táo bạo
+- khuyến khích
+
+@embolic
+* tt
+- (y học) thúc vào; lõm vào
+- nhập vào
+ @embolism  
+*  dt
+- (y học) sự tắc mạch
+
+@embolismic
+- xem embolism
+ @embolus  
+*  dt
+- (y học) vật tắc mạch
+
+@embonpoint  
+*  dt
+- sự béo tốt, đẫy đà
+
+@embosom  
+*  ngdgt (((từ Mỹ,nghĩa Mỹ) (cũng) imbosom)
+- ôm vào ngực
+- bao quanh
+
++ trees embosoming the house: cây cối bao quanh nhà
+
+@embosomed  
+*  tt
+- bị bao quanh
+
++ a village embosomed ion bamboos: làng có luỹ tre bao quanh
+
+@emboss  
+*  ngdgt
+- chạm nổi, rập nổ, làm nổi
+
+@embosser
+- xem emboss
+ @embossment  
+*  dt
+- sự chạm nổi, sự rập nổ, sự làm nổi
+
+@embossment-map  
+*  dt
+- bản đồ nổi
+
+@embouchure  
+*  dt
+- (địa lý,địa chất) cửa (sông, thung lũng)
+- (âm nhạc) mỏ kèn, miệng kèn
+- (âm nhạc) cách đặt môi
+
+@embow  
+*  ngdgt
+- uốn cong hình vòng cung
+
+@embowel  
+*  ngdgt
+- moi ruột
+
+@embowelment
+* dt
+- cách moi ruột
+- (số nhiều) ruột
+ @embower  
+*  ngdgt ((từ Mỹ,nghĩa Mỹ) (cũng) embower)
+- quây vào trong một lùm cây
+
+@embrace  
+*  dt
+- sự ôm, cái ôm
+- (nói trại) sự ăn nằm với nhau
+*  ngdgt
+- ôm, ôm chặt, ghì chặt
+- nắm lấy (thời cơ...)
+- đi theo (đường lối, đảng phái, sự nghiệp...)
+- gồm, bao gồm
+- bao quát (nhìn, nắm)
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) gây áp lực (đối với quan toà)
+
+@embraceable  
+*  tt
+- có thể ôm được
+- có thể nắm lấy được (thời cơ...)
+- có thể theo được (đường lối, sự nghiệp, đảng phái)
+- có thể gồm, có thể bao gồm
+- có thể bao quát
+
+@embracement  
+*  dt
+- sự ôm, sự ôm chặt, sự ghì chặt
+- sự nắm
+- sự đi theo
+- sự gồm, sự bao gồm
+- sự bao quát
+
+@embraceor   (embracer) @embracer   (embracer) @embracery  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) sự gây áp lực (trái phép) đối với quan toà
+
+@embranchment  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) sự tẽ ra (nhánh sông...), sự phân nhánh
+
+@embrangle  
+*  ngdgt
+- làm rối, làm rối rắm, làm rối tung
+
+@embranglement  
+*  dt
+- sự làm rối, sự làm rối rắm, sự làm rối tung
+- tình trạng rối beng, tình trạng rối rắm
+
+@embrasure  
+*  dt
+- (kiến trúc) khoảng đặt khung cửa, ô cửa
+- lỗ sung đại bác, lỗ châu mai
+
+@embrasured
+- xem embrasure
+ @embrave
+* ngdgt
+- làm cho thành can đảm; cổ vũ
+ @embrittle
+* ngdgt
+- làm thành giòn, làm thành dễ vỡ
+* ndgt
+* ndgt
+- trở nên giòn
+ @embrocate  
+*  ngdgt
+- (y học) chườm (chỗ đau...); rưới thuốc (lên vết thương)
+
+@embrocation  
+*  dt
+- (y học) nước chườm (chỗ đau...); nước rưới (vết thương)
+
+@embroider   (broider) @embroiderer
+- xem embroider
+ @embroidering  
+*  dt
+- việc thêu
+
+@embroidering machine  
+*  dt
+- máy thêu
+
+@embroidering-machine
+* dt
+- máy thêu
+ @embroidery   (broidery) @embroil  
+*  ngdgt
+- làm rối rắm
+- lôi kéo (ai... vào một cuộc chiến tranh...)
+- làm cho (ai) xung đột (với ai)
+
+@embroilment  
+*  dt
+- sự làm rối rắm
+- sự lôi kéo (ai... vào một cuộc chiến tranh...)
+- sự làm cho (ai) xung đột (với ai)
+
+@embrown  
+*  ngdgt
+- làm nâu, nhuộm nâu
+
+@embryo  
+*  dt,  số nhiều embryos
+- (sinh vật học) phôi
+- cái còn phôi thai
+
++ in embryo: còn phôi thai, còn trứng nước, chưa phát triển
+*  tt
+- còn phôi thai, còn trứng nước, chưa phát triển
+
+@embryocardia
+* dt
+- (y học) nhịp tim thai; giai đoạn thai có tim
+ @embryoctony  
+*  dt
+- (y học) sự giết thai trong dạ con
+
+@embryogenesis  
+*  dt
+- (động vật học) sự phát sinh phôi
+
+@embryogenic
+- xem embryogenesis
+ @embryologic
+- xem embryology
+ @embryologically
+- xem embryology
+ @embryologist
+* dt
+- nhà nghiên cứu về phôi thai, nhà phôi học
+ @embryology  
+*  dt
+- (động vật học) khoa phôi thai, phôi học
+
+@embryonal
+* tt
+- thuộc phôi
+- thuộc thai nhi
+- thuộc ấu trùng
+- thuộc thời manh nha
+ @embryonated
+* tt
+- có phôi
+
++  embryonated egg:trứng có phôi
+ @embryonic  
+*  dt
+- (thuộc) phôi, giống phôi
+- còn phôi thai, còn trứng nước, chưa phát triển
+
+@embryonically
+- xem embryonic
+ @embryosac
+* dt
+- (thực vật) túi phôi
+ @embryotectonics
+* dt
+- cấu trúc phôi
+ @embryotocia
+* dt
+- tiểu sản
+ @embryotomy  
+*  dt
+- (y học) thủ thuật cắt thai
+
+@embryotrophic
+* tt
+- nuôi phôi
+ @embryotrophy
+* dt
+- sự nuôi phôi
+ @embryulia
+* dt
+- (y học) cách lấy phôi ra
+ @embus  
+*  ngdgt
+- cho (lính, hàng...) lên xe
+*  ndgt
+- lên xe
+
+@emcee
+* dt
+- người chủ trì
+* dgt
+- chủ trì
+ @EMCW radar
+- (Tech) radda sóng liên tục biến điệu tần số
+ @emeer
+* dt
+- xem emir
+ @emend   (emendate) @emendate   (emendate) @emendation  
+*  dt
+- sự sửa lỗi (trong nội dung một cuốn sách...)
+
+@emendator  
+*  dt
+- người sửa lỗi (trong nội dung một cuốn sách...)
+
+@emendatory  
+*  tt
+- để sửa lỗi (trong nội dung một cuốn sách...)
+
+@emender
+- xem emend
+ @emerald  
+*  dt
+- ngọc lục bảo
+- màu ngọc lục bảo, màu lục tươi
+- (ngành in) chữ cỡ 61 quoành
+!Enerald Isle
+- nước Ai-len
+
+@emerge  
+*  ndgt
+- nổi lên, hiện ra, lòi ra
+- (nghĩa bóng) nổi bật lên, rõ nét lên; nổi lên, nảy ra (vấn đề...)
+- thoát khỏi (sự đau khổ)
+
+@emerge
+- xuất hiện, nổi lên, nhô lên
+ @emergence  
+*  dt
+- sự nổi lên, sự hiện ra, sự lòi ra
+- (nghĩa bóng) sự nổi bật lên, sự rõ nét lên; sự nổi lên, sự nảy ra (vấn đề...)
+- sự thoát khỏi (sự đau khổ)
+
+@emergence
+- sự xuất hiện, lối ra, đầu ra, mối ra
+ @emergency  
+*  dt
+- tình trạng khẩn cấp
+
++ on emergency; in case of emergency: trong trường hợp khẩn cấp
+- (y học) trường hợp cấp cứu
+!to rise to the emergency
+- vững tay, đủ sức đối phó với tình thế
+
+@emergency
+- trường hợp bất ngờ, sự hỏng bất ngờ
+ @emergency communication
+- (Tech) truyền thông khẩn cấp
+ @emergency door  
+*  dt
+- cửa ra khi khẩn cấp, cửa an toàn
+
+@emergency exit  
+*  dt
+- lối ra khi khẩn cấp, lối ra an toàn
+
+@emergency signal
+- (Tech) tín hiệu khẩn cấp
+ @emergent  
+*  tt
+- nổi lên, lồi ra, hiện ra
+- nổi bật lên, rõ nét
+- (vật lý) ló
+
+@emeritus  
+*  tt
+- danh dự
+
++ profefssor emeritus: giáo sư danh dự (sau khi về hưu)
+
+@emerods   (emerods) @emersed
+* tt
+- (thực vật) nổi lên khỏi mặt nước
+ @emersion  
+*  dt
+- sự nổi lên, sự hiện lên
+- (thiên văn học) sự lại hiện rõ, sự lại tỏ (sau khi bị che khuất)
+
+@emery  
+*  dt
+- bột mài
+
+@emery-board
+* dt
+- tấm bìa cứng phủ bột mài, dùng để giũa móng tay
+ @emery-cloth  
+*  dt
+- vải nhám, vải tráp
+
+@emery-paper  
+*  dt
+- giấy nhám, giấy ráp
+
+@emery-stone
+* dt
+- cát kim cương (để mài nhẵn)
+ @emery-wheel  
+*  dt
+- (kỹ thuật) bánh mài
+
+@emesis
+* dt
+- số nhiều emeses
+- (y học) sự nôn
+ @emetic  
+*  tt
+- (y học) gây nôn
+*  dt
+- (y học) thuốc gây nôn
+
+@emetically
+- xem emetic
+ @emetine
+* dt
+- (hoá học) emetin
+ @emeu   (emeu) @emf
+* (viết tắt)
+- sức điện động (electromotive  force)
+ @emfasy
+- nhấn mạnh, cường điệu
+ @emigrant  
+*  tt
+- di cư
+*  dt
+- người di cư
+
+@emigrate  
+*  ndgt
+- di cư
+- (thông tục) đổi chỗ ở
+*  ngdgt
+- đưa (ai) di cư
+
+@emigrate
+- di cư, di trú
+ @emigration  
+*  dt
+- sự di cư
+
+@emigration
+- sự di cư, sự di trú, sự di dân
+ @emigratory  
+*  tt
+- di cư
+
+@eminence  
+*  dt
+- mô đất
+- sự nổi tiếng; địa vị cao trọng
+
++ a man of eminence: người nổi tiếng
+- (Eminence) đức giáo chủ (tiếng xưng hô)
+
+@eminence grise  
+*  dt
+- kẻ tâm phúc; mưu sĩ
+
+@eminent  
+*  tt
+- nổi tiếng, xuất sắc
+- cao độ (đức tính tốt...)
+
+@eminently
+* dt
+ @emir  
+*  dt
+- thủ hiến, hoàng thân (A-rập),  êmia
+- người dòng dõi Mô-ha-mét
+
+@emirate
+* dt
+- tiểu vương quốc A Rập
+ @emissarium
+* dt
+- số nhiều emissaria
+- mạch dẫn máu
+- đường bài tiết
+- cống dẫn nước
+ @emissary  
+*  dt
+- phái viên, phái viên mật
+
+@emission  
+*  dt
+- sự phát ra (ánh sáng, nhiệt...), sự bốc ra, sự toả ra (mùi vị, hơi...)
+- vật phát ra, vật bốc ra, vật toả ra
+- (y học) sự xuất tinh
+- sự phát hành (giấy bạc...)
+
+@emission
+- sự truyền, sự phát hành (tiền tệ), sự phát xạ (khí)
+ @emission current
+- (Tech) dòng phát xạ
+ @emission phototube
+- (Tech) ống quang phát xạ
+ @emission spectrum
+- (Tech) phổ phát xạ
+ @emission theory  
+*  dt
+- (vật lý) thuyết phát xạ
+
+@emissive  
+*  tt
+- phát ra, bốc ra, toả ra
+
+@emissivity
+* dt
+- độ phát xạ
+
++  radiant emissivity:độ bức xạ
+ @emit  
+*  tt
+- phát ra (ánh sáng, nhiệt...), bốc ra, sự toả ra (mùi vị, hơi...)
+- phát hành (giấy bạc...)
+
+@emit
+- phát, phát hành
+ @emitron camera
+- (Tech) máy thu hình điện quang [ĐL], máy thu hình êmitron
+ @emittance
+- (Tech) công suất bức xạ; độ trưng
+ @emitted photon
+- (Tech) quang tử phát xạ
+ @emitter
+- (Tech) cực phát; vùng phát; bộ phát xạ
+ @emitter barrier
+- (Tech) tường chắn phát xạ
+ @emitter bias
+- (Tech) thiên áp cực phát xạ
+ @emitter current
+- (Tech) dòng cực phát xạ
+ @emitter diffusion
+- (Tech) khuếch tán cực phát xạ
+ @emitter diffusion mask
+- (Tech) màn che khuếch tán cực phát xạ
+ @emitter electrode
+- (Tech) điện cực phát xạ
+ @emitter follower circuit
+- (Tech) mạch gánh cực phát xạ
+ @emitter junction
+- (Tech) tiếp giáp cực phát xạ
+ @emitter-base capacitance
+- (Tech) điện dung cực phát-gốc
+ @emitter-coupled logic circuit
+- (Tech) mạch luận lý ghép cực phát
+ @emitter-coupled transistor logic
+- (Tech) mạch luận lý trănsito ghép cực phát
+ @emm
+- trình quản lý bộ nhớ mở rộng
+ @emmenagogue  
+*  dt
+- (y học) thuốc điều kinh
+
+@emmenology
+* dt
+- (y học) khoa kinh nguyệt
+ @emmet  
+*  dt
+- (tiếng địa phương) con kiến
+
+@emmetrope  
+*  dt
+- người mắt bình thường
+
+@emmetropia  
+*  dt
+- tình trạng mắt bình thường
+
+@emmetropic
+- xem emmetropia
+ @emolliate
+* ngdgt
+- làm cho mềm đi; làm cho yếu đi
+ @emollient  
+*  tt
+- (dược học) làm mềm
+- làm dịu ((nghĩa đen) & (nghĩa bóng))
+*  dt
+- (dược học) thuốc làm mềm
+
+@emolument  
+*  dt
+- lương, tiền thù lao
+
+@Emoluments
+- (Econ) Khoản thù lao; Thù lao ngoài lương chính
+: Được định nghĩa là một phần tiền lương của ban quản lý và các lợi ích PHI TIỀN TỆ mà lợi ích này không phải  là một phần giá cung cấp của doanh nghiệp (lương chính ).
+ @emoticon
+- Trong thư điện tử và các nhóm tin máy tính, đây là hình các khuôn mặt nằm ngang tạo ra bằng các ký tự của chuẩn ASCII dùng để đưa một thông báo vào đúng ngữ cảnh
+ @emotion  
+*  dt
+- sự cảm động, sự xúc động, sự xúc cảm
+- mối xúc động, mối xúc cảm
+
+@emotional  
+*  tt
+- cảm động, xúc động, xúc cảm
+- dễ cảm động, dễ xúc động, dễ xúc cảm
+
+@emotionalism  
+*  dt
+- sự đa cảm
+- sự kêu gọi tình cảm, sự đánh đổ tình cảm
+
+@emotionalist  
+*  dt
+- người đa cảm
+- người có tài làm xúc động (quần chúng...)
+
+@emotionalistic
+- xem emotionalist
+ @emotionality  
+*  dt
+- tính đa cảm
+
+@emotionalize
+* ngdgt
+- làm cho cảm động
+ @emotionally
+* dt
+ @emotionless
+* tt
+- dửng dưng, không hề xúc động
+ @emotionlessness
+- xem emotionless
+ @emotive  
+*  tt
+- cảm động, xúc động, xúc cảm
+- dễ cảm động, dễ xúc động, dễ xúc cảm
+- gây cảm động, gây xúc động, gây xúc cảm
+
+@emotively
+- xem emotive
+ @emotiveness
+- xem emotive
+ @emotivity
+- xem emotive
+ @empale   (empale) @empanel   (impanel) @empathetic
+* tt
+- có sự đồng cảm, thông cảm
+ @empathy  
+*  dt
+- (tâm lý học) sự thấu cảm
+
+@empennage
+* dt
+- việc lắp các bộ phận để máy bay bay được ổn định
+ @emperor  
+*  dt
+- hoàng đế
+
+@emperorship
+- xem emperor
+ @empery
+* dt (thơ ca)
+- sự thống trị; chủ quyền
+- đế quốc
+ @emphases  
+*  dt,  số nhiều emphases
+- sự nhấn mạnh; (ngôn ngữ học) sự nhấn giọng
+- tầm quan trọng
+- sự bối rối, sự rõ nét
+
+@emphasis  
+*  dt,  số nhiều emphases
+- sự nhấn mạnh; (ngôn ngữ học) sự nhấn giọng
+- tầm quan trọng
+- sự bối rối, sự rõ nét
+
+@emphasise   (emphasize) @emphasize
+* ngdgt
+- nhấn mạnh
+- làm nổi bật (sự kiện...)
+ @emphatic  
+*  tt
+- nhấn mạnh, nhấn giọng
+- (ngôn ngữ học) mang trọng âm (âm tiết)
+- mạnh mẽ, dứt khoát (hành động)
+
++ an emphatic refusal: sự từ chối dứt khoát
+- rõ ràng, rành rành
+
++ an emphatic defeat: sự thất bại rõ ràng
+
+@emphatically  
+*  dt
+- nhấn mạnh
+- mạnh mẽ, dứt khoát
+- thật sự là; rõ ràng là
+
++ to be most emphatically a poet: thật sự là một nhà thơ
+
+@emphysema  
+*  dt
+- (y học) khí thũng
+
+@emphysematous  
+*  tt
+- (y học) (thuộc) khí thũng
+
+@emphysemic
+- xem emphysema
+ @emphyteusis
+* dt
+- (pháp luật) quyền thuê đất lâu dài
+ @emphyteuta
+* dt
+- (pháp luật) người thuê đất lâu dài
+ @emphyteuticary
+* dt
+- xem emphyteuta
+ @empicture
+* ngdgt
+- miêu tả; biểu thị bằng tranh
+ @empire  
+*  dt
+- đế quốc; chế chế
+- (định ngữ) Empire (thuộc) kiểu đế chế Na-po-lê-ông I (quần áo, đồ đạc)
+- sự khống chế hoàn toàn, sự kiểm soát hoàn toàn
+!Empire City
+- thành phố Niu-óoc
+!Empire Day
+- ngày sinh hoàng hậu Vích-to-ri-a (24 tháng 5)
+!Empire State
+- bang Niu-óoc
+
+@empire-building
+- thành ngữ empire
+- empire-building
+- sự mưu đồ quyền lực
+- thành ngữ empire
+
++  empire-building:sự mưu đồ quyền lực
+ @empiric  
+*  tt
+- theo lối kinh nghiệm
+*  dt
+- người theo chủ nghĩa kinh nghiệm
+- lang băm
+
+@empirical  
+*  tt
+- theo lối kinh nghiệm, kinh nghiệm chủ nghĩa
+
+@empiric(al)
+- theo kinh nghiệm, thực nghiệm
+ @empirically
+* dt
+- do kinh nghiệm, theo kinh nghiệm
+ @empiricism  
+*  dt
+- chủ nghĩa kinh nghiệm
+
+@empiricist  
+*  dt
+- người theo chủ nghĩa kinh nghiệm
+
+@empirio-criticism  
+*  dt
+- (triết học) chủ nghĩa phê phán kinh nghiệm
+
+@emplace  
+*  ngdgt
+- (quân sự) đặt (súng)
+
+@emplacement  
+*  dt
+- địa điểm
+- (quân sự) nơi đặt súng, ụ súng
+- sự đặt
+
+@emplane   (enplane) @emplastic
+* tt
+- dính
+- dùng làm thuốc cao dán
+* dt
+- vật dán dính
+- miếng vá
+- thuốc cao dán
+ @emplectite
+* dt
+- (khoáng chất) emplectit
+ @employ  
+*  dt
+- sự dùng (người)
+- việc làm
+!to be in the employ of somebody
+- làm việc cho ai
+*  ngdgt
+- dùng, thuê (ai) (làm gì)
+
++ to employ oneself: bận làm
+
++ to employ oneself in some work: bận làm gì
+
+@employability
+- xem employ
+ @employable  
+*  tt
+- có thể dùng được, có thể thuê làm (gì) được
+
+@employee   (employee) @Employee Stock Ownership plan (ESOP)
+- (Econ) Kế hoạch Sở hữu cổ phần cho người làm.
+: Một kế hoạch cho phép các nhân viên trong các hãng của Mỹ được hưởng lợi nhuân và sự tăng trưởng của doanh nghiệp bằng cách sở hữu các cổ phần trong cổ phần chung của công ty.
+ @employer  
+*  dt
+- chủ
+
+@employment  
+*  dt
+- sự dùng, sự thuê làm (công...)
+- sự làm công, việc làm
+
++ out of employment: không có việc làm, thất nghiệp
+
+@Employment Service
+- (Econ) Dịch vụ việc làm.
+: Các văn phong nhà nước hay tư nhân cố gắng sắp xếp những người xin việc vào các chỗ trống hiện có.
+ @Employment subsidies
+- (Econ) Trợ cấp việc làm.
+: Xem JOB CREATION
+ @employé   (employee) @emplume
+* ngdgt
+- trang sức lông chim
+ @empodium
+* dt
+- (sinh học) đệm vuốt; đế vuốt
+ @empoison  
+*  ngdgt
+- cho thuốc độc vào, đánh thuốc độc; làm nhiễm độc
+- (nghĩa bóng) đầu độc
+!to empoison someone's mind against somebody
+- làm cho ai căm ghét ai
+
+@emporium  
+*  dt
+- nơi buôn bán, chợ
+- (thông tục) cửa hàng lớn
+
+@empower  
+*  ngdgt
+- cho quyền, trao quyền, cho phép
+- làm cho có thể, làm cho có khả năng
+
++ sciene empowers men to control matural forces: khoa học làm cho con người có khả năng chế ngự được sức mạnh thiên nhiên
+
+@empowerment
+- xem empower
+ @empress  
+*  dt
+- hoàng hậu
+- nữ hoàng
+- người đàn bà có quyền hành tuyệt đối
+
+@empressement  
+*  dt
+- sự vồn vã, thái độ vồn vã
+
+@emprise  
+*  dt (từ cổ,nghĩa cổ),  (thơ ca)
+- hành động hào hiệp
+
+@emptily
+- xem empty
+ @emptiness  
+*  dt
+- tình trạng rỗng không
+- tính chất trống rỗng ((nghĩa bóng))
+
+@empty  
+*  tt
+- trống, rỗng, trống không, không
+
++ the car is empty of petrol: xe không còn xăng, xe đã hết xăng
+- rỗng, không có đồ đạc; không có người ở (nhà)
+- rỗng tuếch (người); không có nội dung, vô nghĩa (sự việc); hão, suông (lời hứa)
+- (thông tục) đói bụng; rỗng
+
++ empty stomach: bụng rỗng
+
++ to feel empty: thấy đói bụng
+!the empty vessel makes the greatest sound
+- (tục ngữ) thùng rỗng kêu to
+*  dt
+- (thương nghiệp) vỏ không (thùng không chai không, túi không...)
+*  ngdgt
+- đổ, dốc (chai...); làm cạn, uống cạn (cốc...)
+- trút, chuyên
+- chảy vào (đổ ra (sông)
+
++ the Red River empties itself into the sea: sông Hồng đổ ra biển
+
+@empty
+- trống rỗng
+ @empty set
+- (Tech) tập hợp rỗng
+ @empty-handed  
+*  tt
+- tay không
+
++ to return empty-handed: về tay không (đi săn, đi câu...)
+
+@empty-headed  
+*  tt
+- đầu óc rỗng tuếch, dốt
+
+@emptying  
+*  dt
+- sự dốc sạch, sự vét sạch; sự làm cạn
+- (số nhiều) cặn, cặn bã ((nghĩa đen) & (nghĩa bóng))
+
+@empurple  
+*  ngdgt
+- làn đỏ tía, nhuộm đỏ tía
+
+@empyema
+* dt
+- số nhiều empyemata,  empyemas
+- tình trạng mưng mủ
+- sự viêm mủ màng phổi
+ @empyemic
+* tt
+- mưng mủ; có mủ
+ @empyreal  
+*  tt
+- (thuộc) thiên cung, (thuộc) chín tầng mây ((cũng) empyrean)
+
+@empyrean  
+*  tt
+- (như) empyreal
+*  dt
+- thiên cung
+
+@empyreum
+* dt
+- xem empyrean
+ @empyreumatic
+* tt
+- (hoá học) cháy khét (dầu)
+ @EMS
+- (Econ) Xem EUROPEAN MONETARY SYSTEM
+ @ems
+* (viết tắt)
+- hệ thống tiền tệ châu Âu (European  Monetary  System)
+ @emu   (emeu) @emulate  
+*  ngdgt
+- thi đua với (ai)
+- ganh đua với, cạnh tranh với
+- tích cực noi gương
+
+@emulate
+- (Tech) mô phỏng, bắt chước (đ)
+ @emulation  
+*  dt
+- sự thi đua
+- sự ganh đua, cạnh tranh
+
+@emulation
+- (Tech) mô phỏng, bắt chước (d)
+ @emulative  
+*  tt
+- thi đua
+
++ emulative spirit: tinh thần thi đua
+- (: of) ganh đua với (ai), cố gắng ganh đua với (ai)
+
+@emulatively
+- xem emulate
+ @emulator  
+*  dt
+- người thi đua
+- đối thủ
+
+@emulator
+- (Tech) bộ mô phỏng, chương trình mô phỏng; đối thủ
+ @emulous  
+*  tt
+- (: of) tích cực noi gương (ai)
+- ham muốn, khao khát (danh vọng...)
+- có ý thức thi đua, hay cạnh tranh
+
+@emulously  
+*  dt
+- với ý thức thi đua
+- với động cơ ganh đua, cạnh tranh
+
+@emulousness
+- xem emulous
+ @emulsible
+* tt
+- có thể chuyển thành thể sữa; có thể nhũ tương hoá
+ @emulsification  
+*  dt
+- sự chuyển thành thể sữa
+
+@emulsifier  
+*  dt
+- chất chuyển thể sữa
+
+@emulsify  
+*  ngdgt
+- chuyển thành thể sữa
+
+@emulsin
+* dt
+- (hoá học) emunsin (enzym)
+ @emulsion  
+*  dt
+- (hoá học) thể sữa
+
+@emulsion laser storage
+- (Tech) bộ trữ kích quang nhũ tương, bộ nhớ lade nhũ
+ @emulsionize
+* ngdgt
+- xem emulsify
+ @emulsive  
+*  tt
+- ở thể sữa
+
+@emulsoid  
+*  dt
+- chất thể sữa
+
+@emulsoidal
+* tt
+- thuộc chất thể sữa
+ @emunctory  
+*  tt
+- (sinh vật học) bài tiết
+*  dt
+- (sinh vật học) cơ quan bài tiết
+
+@

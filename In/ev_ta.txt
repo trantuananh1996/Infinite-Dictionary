@@ -1,0 +1,3539 @@
+@ta  
+*  thán từ
+- khuẫn (thông tục) cám ơn!
+
+@tab  
+*  dt
+- tai, đầu, vạt, dải (đính vào một vật gì)
+
++ tab of shoe-lace: sắt bịt đầu dây giày
+
++ tab of coat: dải áo
+- nhãn (dán trên hàng hoá)
+- (quân sự) phù hiệu cổ áo
+- (thông tục) sự tính toán; sự kiểm tra
+
++ to keep tab(s) on: kiểm tra, kiểm soát (sổ sách chi tiêu...); theo dõi
+
+@tabac
+* tt
+- có màu thuốc lá; màu nâu lẫn xanh
+ @tabard  
+*  dt
+- (sử học) áo choàng
+- áo khoác ngoài áo giáp (của kỵ sĩ)
+
+@tabaret  
+*  dt
+- hàng xa tanh sọc
+
+@tabasco
+* dt
+- nước xốt làm bằng hạt tiêu
+ @tabby  
+*  dt
+- (động vật học) mèo khoang; mèo; mèo cái ((cũng) tabby cat)
+- (động vật học) bướm tabi ((cũng) tabby moth)
+- vải có vân sóng
+- (nghĩa bóng) mụ già hay ngồi lê đôi mách; người đàn bà lắm mồm
+*  ngdgt
+- cán (vải) cho nổi vân sóng
+
+@tabby cat
+* dt
+- <động> mèo mướp
+ @tabby moth
+* dt
+- <động> bướm tabi
+ @tabefaction  
+*  dt
+- sự suy mòn vì ốm
+
+@tabefy
+* ngdgt
+- làm cho kiệt sức; gầy mòn
+- tiêu phí; làm cho hao mòn
+* ndgt
+- kiệt sức; gầy mòn; ốm yếu
+- hao mòn
+ @taberdar
+* dt
+- người khoác áo choàng
+- học sinh trường cao đẳng hoàng gia ở Oxford
+ @tabernacle  
+*  dt
+- rạp (để cúng lễ), nơi thờ cúng
+- tủ đựng bánh thánh (đặt trên bàn thờ)
+*  ndgt
+- (nghĩa bóng) ở tạm thời
+*  ngdgt
+- (nghĩa bóng) che
+
+@tabes  
+*  dt
+- (y học) bệnh tabet
+
+@tabescence  
+*  dt
+- (y học) trạng thái gầy mòn hốc hác, sự suy mòn
+
+@tabescent
+* tt
+- gầy mòn; kiệt sức
+ @tabetic  
+*  tt
+- (thuộc) bệnh tabet; do bệnh tabet
+- mắc bệnh tabet
+*  dt
+- người mắc bệnh tabet
+
+@tabid
+* tt
+- (y học) bị bệnh tabet
+- gầy mòn vì bệnh tật
+- gây bệnh ho lao; lao phổi
+- bị ho lao; lao phổi
+ @tabinet
+* dt
+- một loại pôpơlin (vải)
+ @tabla
+* dt
+- cặp trống nhỏ (một loại nhạc cụ ấn Độ vỗ bằng tay)
+ @table  
+*  dt
+- cái bàn
+- bàn ăn
+
++ at table: đang bàn ăn, trong lúc ngồi ăn
+
++ to lay (set) the table: bày ban ăn
+
++ to clear the table: dọn bàn
+- thức ăn bày bàn, mâm cỗ, cỗ bàn
+
++ to keep a good table: ăn sang
+- những người ngồi quanh bàn, những người ngồi ăn
+
++ to set all the table laughing: làm cho tất cả những người quanh bàn cười
+- (kỹ thuật) bàn máy
+- bảng (gỗ, đá...)
+
++ table of stone: bảng đá
+- bảng, bản, bản kê, biểu
+
++ table of contents: bảng mục lục
+
++ asironomical table: bản thiên văn
+
++ alphabetical table: bảng chữ cái
+
++ table of prices: bảng giá
+- mặt (của hạt ngọc)
+- lòng bàn tay
+- (địa lý,địa chất) cao nguyên
+!to lay a bill on the table
+- hoãn bàn về một dự luật không thời hạn
+!to lie on the table
+- bị hoãn bàn không thời hạn (dự luật)
+!to turn the tables on (upon) someone
+- (nghĩa bóng) giành lại ưu thế so với ai, làm đảo lộn lại tình thế đố với ai
+*  ngdgt
+- đặt lên bàn, để lên bàn
+- đưa ra bàn, ghi vào chương trình nghị sự
+
++ to table a motion: đưa ra một đề nghị
+- (từ Mỹ,nghĩa Mỹ) hoãn bàn không thời hạn (một dự luật...)
+
+@table
+- bảng   lập bảng
+- t. of contents mục lục
+- t. of difference bảng sai phân
+- t. of integrals bảng tích phân
+- t. of logarithms bảng lôga
+- checking t. bảng kiểm tra
+- contingency t. bảng tiếp liên
+- conversion t. bảng dịch
+- difference t. bảng sai phân
+- fourfold t. (thống kê) bảng bội bốn
+- integral t. bảng tích phân
+- life t. (thống kê) bảng tuổi thọ
+- mortality t. (thống kê) bảng tử vong
+- truth t. (logic học) bảng chân trị 
+@table d'hote
+* dt
+- cơm phần (đối lại cơm dựa)
+ @table d'hôte  
+*  dt
+- a table_d'hôte lunch bữa ăn trưa theo suất (không theo món gọi tuỳ thích)
+
+@table manners
+* dt
+- phép tắc ăn uống (cách cư xử khi đúng đắn khi ăn với những người khác)
+ @table-allowance
+- xem table-money:cảnh (hay table-allowance vivant)
+- tình huống bất ngờ
+- bức tranh nghệ thuật; hội hoạ
+ @tableau  
+*  dt,  số nhiều tableaux
+- hoạt cảnh
+
+@tableau vivant
+* dt
+- hoạt cảnh (sự trình bày một bức tranh hoặc một cảnh bởi một nhóm người im lặng và bất động, nhất là trên <skhấu>)
+ @tableaux  
+*  dt,  số nhiều tableaux
+- hoạt cảnh
+
+@tableaux vivants
+* dt
+- hoạt cảnh (sự trình bày một bức tranh hoặc một cảnh bởi một nhóm người im lặng và bất động, nhất là trên <skhấu>)
+ @table-board
+* dt
+- (từ Mỹ, nghĩa Mỹ) chế độ trợ cấp một phần (không có chỗ ở)
+- mặt bàn
+ @table-cloth  
+*  dt
+- khăn trải bàn
+- khăn trải bàn ăn
+
+@table-companion  
+*  dt
+- bạn cùng mâm, người cùng ăn
+
+@table-cover  
+*  dt
+- khăn trải bàn
+
+@table-diamond  
+*  dt
+- hột xoàn cắt bằng mặt
+
+@table-flap   (table-flap) @table-fork  
+*  dt
+- cái nĩa
+
+@tableful  
+*  dt
+- bàn (đầy) (thức ăn...)
+
+@table-glass
+* dt
+- cốc dùng trong bữa ăn
+ @table-knife  
+*  dt
+- dao ăn
+
+@tableland  
+*  dt
+- vùng cao nguyên
+
+@table-leaf   (table-flap) @table-linen  
+*  dt
+- khăn bàn khăn ắn (nói chung)
+
+@table-mat
+* dt
+- vải lót (để dưới một đựa nóng  để bảo vệ mặt bàn)
+ @table-money
+* dt
+- (quân sự) tiền ăn
+- tiền trả để được ăn tại câu lạc bộ
+ @table-napkin
+* dt
+- khăn ăn
+ @table-shore
+* dt
+- (hải lý) bờ biển thấp và bằng phẳng
+ @table-spoon  
+*  dt
+- thìa xúp
+
+@table-spoonful  
+*  dt
+- thìa xúp (đầy)
+
+@tablet  
+*  dt
+- tấm, bản, thẻ, phiến (bằng gỗ, ngà để viết, khắc)
+- bài vị
+- viên (thuốc); bánh (xà phòng); thanh, thỏi (kẹo)
+- xếp giấy ghim lại
+
+@tablet tennis  
+*  dt
+- bóng bàn
+
+@table-talk
+* dt
+- sự trò chuyện khi ăn; câu chuyện trong bữa ăn
+ @table-tennis
+- <thể> bóng bàn
+ @table-tomb  
+*  dt
+- mộ xây có mặt bằng
+
+@tablet-talk  
+*  dt
+- câu chuyện trong bữa ăn
+
+@table-turning
+* dt
+- bàn quay
+ @table-ware  
+*  dt
+- đĩa bát dao dĩa (để bày bàn ăn)
+
+@tableware
+* dt
+- bộ đồ ăn (bát đĩa; dao dĩa...)
+ @table-water  
+*  dt
+- nước suối (để uống khi ăn cơm)
+
+@tablier
+* dt
+- tạp dề; quần yếm
+ @tabling
+* dt
+- việc lập biểu; bảng
+- vải làm khăn bàn; khăn bàn khăn ăn nói chung
+- (kiến trúc) cooc nie; thành gờ; mái đua
+- sự tuyển quặng
+ @tabloid  
+*  dt
+- viên thuốc
+- (từ Mỹ,nghĩa Mỹ) báo khổ nhỏ (đăng tin tức vắn tắt)
+*  tt
+- thu gọn, vắn vắt
+
++ tabloid newspaper: bảo khổ nhỏ đăng tin vắn tắt
+
++ news in tabloid form: tin tức vắn tắt
+
+@taboo   (tabu) @taboo words
+* dt
+- từ cấm kỵ (những từ có thể bị một số người coi là có tính chất xúc phạm hoặc khiếm nhã)
+ @tabor  
+*  dt
+- (sử học) trống con
+
+@taboret   (tabouret) @tabour
+- xem tabor
+ @tabouret   (tabouret) @tabu   (tabu) @tabula
+* dt số nhiều tabulae
+- (sử học) tấm bảng con để viết
+- (từ lóng) bộ luật ghi trên tấm bảng con
+ @tabulae
+- số nhiều của tabula
+ @tabular  
+*  tt
+- xếp thành bảng, xếp thành cột
+
++ a report in tabular form: báo cáo ghi thành bảng
+- phẳng như bàn, phẳng như bảng
+
++ a tabular stone: một hòn đá phẳng như bàn
+- thành phiến, thành tấm mỏng
+
+@tabular
+- bảng, dạng bảng
+ @tabularize
+- xếp thành cột; bảng
+- tạo bề mặt phẳng cho
+ @tabulate  
+*  ngdgt
+- xếp thành bảng, xếp thành cột
+- làm cho có mặt phẳng, tạo mặt phẳng cho
+
+@tabulate
+- lập bảng
+ @tabulating
+- sự lập thành bảng
+ @tabulating machine   (tabulating_machine) @tabulation  
+*  dt
+- sự xếp thành bảng, sự xếp thành cột
+
+@tabulator   (tabulating_machine) @tabulator
+- bộ lập bảng
+ @tacful  
+*  tt
+- khéo xử, lịch thiệp
+
+@tache
+* dt
+- vết nhỏ; vệt màu
+- tàn nhang; tàn hương
+- (phương ngữ) nét; đặc điểm
+ @tachistoscope  
+*  dt
+- máy thử trí nhớ (để luyện đọc bằng mắt cho nhanh)
+
+@tachograph
+* dt
+- đồng hồ tốc độ (thiết bị trên xe có động cơ, tự động ghi tốc độ của xe trong khi chạy và ghi số km nó đã chạy)
+ @tachomater
+- (máy tính) tốc kế góc
+ @tachometer  
+*  dt
+- (kỹ thuật) máy đo tốc độ gốc
+
+@tachometry  
+*  dt
+- phép đo tốc độ góc
+
+@tachycardia  
+*  dt
+- (y học) chứng tim đập nhanh, chứng mạch nhanh
+
+@tachygraphy
+* dt
+- (hiếm) tốc ký
+ @tachymeter  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) máy đo khoảng cách
+
+@tachymetry  
+*  dt
+- phép đo khoảng cách
+
+@tacit  
+*  tt
+- ngầm, không nói ra
+
++ a tacit consent: một sự thoả thuận ngầm
+
+@taciturn  
+*  tt
+- ít nói, lầm lì
+
+@taciturnity  
+*  dt
+- tính ít nói
+
+@tack  
+*  dt
+- đồ ăn
+- đinh đầu bẹt; đinh bấm
+- đường khâu lược
+- (hàng hải) dây néo góc buồm
+- (hàng hải) đường chạy (của thuyền buồm dựa theo chiều gió)
+- (nghĩa bóng) đường lối, chính sách, chiến thuật ((thường) là khác với đường lối chính sách, chiến thuật trước đó)
+
++ on the right tack: theo đường lối đúng
+!to come down to brass tacks
+- (xem) brass
+*  ngdgt
+- đóng bằng đinh đầu bẹt, đóng bằng đinh bấm
+
++ to tack the carpet down: đóng thấm thảm vào sàn nhà
+- khâu lược, đính tạm
+- (hàng hải) đôi đường chạy, trở buồm (của thuyền)
+*  ndgt
+- trở buồm để lợi gió (thuyền buồm)
+- thay đổi đường lối, thay đổi chính sách
+
+@tackily
+* dt
+- hơi dính; chưa hoàn toàn khô (lớp sơn, keo...)
+- <Mỹ><thgt> không ngon; xơ xác, tồi tàn; loè loẹt
+ @tackiness
+* dt
+- tính chất hơi dính; tình trạng chưa hoàn toàn khô (lớp sơn, keo...)
+- <Mỹ><thgt> sự không ngon; sự xơ xác, sự tồi tàn; sự loè loẹt
+ @tackle  
+*  dt
+- đồ dùng, dụng cụ
+- (hàng hải) dây dợ (để kéo buồm...)
+- (kỹ thuật) hệ puli; palăng
+- (thể dục,thể thao) sự chặn, sự cản (đối phương đang dắt bóng...)
+*  ngdgt
+- (hàng hải) cột bằng dây dợ
+- (thể dục,thể thao) chặn, cản (đối phương đang dắt bóng...)
+- xử trí, tìm cách giải quyết (một vấn đề, một công việc)
+- (thông tục) túm lấy, nắm lấy, ôm ngang giữa mình (đối phương)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) vay tiền
+
+@tacky  
+*  tt
+- dính; chưa khô (lớp tơn...)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sờn, xác xơ; tồi tàn
+
+@taclocus
+- (hình học) quỹ tích các tiếp điểm (của các đường thuộc một họ nào đó)
+ @tacnode
+- (hình học) tacnôt (điểm tự tiếp xúc của đường cong)
+ @taco
+* dt
+- số nhiều tacos
+- món bánh thịt chiên dòn (Mê-hi-cô)
+ @tacpoint
+- (hình học) tiếp điểm (các đường của một họ)
+ @tact  
+*  dt
+- sự khéo xử, tài xử trí
+
++ to have great tact: rất thiệp, rất khéo xử
+
++ tact and address: cách xử xử lịch thiệp
+
++ without tact: không khéo léo, sống sượng
+
+@tact
+- tác nhịp
+ @tactful
+* tt
+- khéo xử, lịch thiệp
+ @tactfully
+* dt
+- khéo xử, lịch thiệp
+ @tactic
+* dt
+- cách; chước; thủ đoạn, mưu kế, mẹo (phương tiện để thực hiện cái gì)
+ @tactical  
+*  tt
+- (thuộc) chiến thuật
+
++ a tactical bombardment: một vụ ném bom chiến thuật
+
++ tactical importance: giá trị chiến thuật
+- (nghĩa bóng) khôn khéo, tài tình, nhiều mưu lược
+
+@tactical
+- (thuộc) chiến thuật
+ @tactically
+* dt
+- (thuộc) chiến thuật; (thuộc) sách lược
+- <bóng> khôn khéo, tài tình, mưu lược
+- dùng chống lại quân địch ở tầm ngắn, được tiến hành chống lại quân địch ở tầm ngắn (về vũ khí, ném bom )
+ @tactician  
+*  dt
+- nhà chiến thuật
+
+@tactics  
+*  dt,  số nhiều dùng như số ít
+- (quân sự) chiến thuật
+- sách lược
+
+@tactics
+- chiến thuật
+ @tactile  
+*  tt
+- (thuộc) xúc giác
+- sờ mó được
+- (nghĩa bóng) đích xác, hiển nhiên, rành rành
+
+@taction
+* dt
+- sự tiếp xúc; sự đụng chạm
+ @tactless  
+*  tt
+- không khéo xử, không lịch thiệp
+
+@tactlessly
+* dt
+- không khéo xử, không lịch thiệp; sống sượng
+ @tactlessness
+* dt
+- sự không khéo xử, sự không lịch thiệp; sự sống sượng; tính không khéo xử, tính không lịch thiệp
+ @tactual  
+*  tt
+- (thuộc) xúc giác, (thuộc sự) sờ mó
+
+@tad
+* dt
+- <Mỹ>  <thgt> đứa trẻ nhỏ (nhất là con trai)
+- <Mỹ>  <thgt> mẩu nhỏ; một tí; một chút
+ @tadpole  
+*  dt
+- (động vật học) nòng nọc
+
+@tael  
+*  dt
+- lạng (đơn vị trọng lượng của Trung quốc)
+
++ a tael of gold: một lạng vàng
+
+@taenia  
+*  dt,  số nhiều taeniae
+- (động vật học) sán dây, sán xơ mít
+- cuộn băng
+- (giải phẫu) dải
+
+@taeniae  
+*  dt,  số nhiều taeniae
+- (động vật học) sán dây, sán xơ mít
+- cuộn băng
+- (giải phẫu) dải
+
+@taeniafuge  
+*  dt
+- thuốc sán
+
+@taenicide
+* dt
+- (y học) thuốc sán; thuốc giun
+ @taenifuge
+- xem taenicide
+ @tafferel   (tafferel) @taffeta  
+*  dt
+- vải mỏng
+
+@taffrail   (tafferel) @taffy   (toffy) @Taft-Hartley Act
+- (Econ) Bộ luật Taft-Hartley.
+: Là bản sửa đổi vào năm 1947 của LUẬT QUAN HỆ LAO ĐỘNG QUỐC GIA (còn gọi là luật Wagner), được đưa ra nhằm hạn chế quyền lực của công đoàn.
+ @tag  
+*  dt
+- sắt bịt đầu (dây giày...)
+- mép khuy giày ủng
+- thẻ ghi tên và địa chỉ (buộc vào va li...)
+
++ price tag: thẻ ghi giá tiền
+- mảnh (vải, giấy, da...) buộc lòng thòng
+- đầu (cái) đuôi (thú vật)
+- túm lông (trên lưng cừu)
+- (sân khấu) lời nói bế mạc
+- (nghĩa bóng) câu nói lặp đi lặp lại; câu nói sáo
+
++ old tag: ngạn ngữ, tục ngữ
+- đoạn điệp (của bài hát), câu điệp (của bài thơ); vài hát nhai đi nhai lại
+- trò chơi đuổi bắt (của trẻ em)
+*  ngdgt
+- bịt đầu (dây giày...)
+- buộc thẻ ghi địa chỉ vào
+- buộc, khâu, đính
+
++ to tag together: buộc vào (khâu vào, đính vào) với nhau
+
++ to tag something [on] to something: buộc nối vật này vào vật khác
+- chạm phải, bắt (trong trò chơi đuổi bắt)
+- tìm vần, trau chuốt (bài thơ)
+- thêm lời nói bế mạc (sau buổi diễn)
+*  ndgt
+- (: after) theo lẽo đẽo, bám sát gót, theo như hình với bóng
+
++ he tagged after his mother: nói cữ lẽo đẽo theo sau mẹ nó
+
+@tag day  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) ngày lễ kỷ niệm lá cờ Mỹ (14 tháng 6)
+
+@tagetes  
+*  dt
+- (thực vật học) cúc vạn thọ
+
+@tagger  
+*  dt
+- người đuổi bắt (trong trò chơi đuổi bắt)
+- (số nhiều) miếng sắt mỏng, miếng tôn mỏng
+
+@tagliatelle
+* dt
+- món mì sợi ý
+ @tagmeme
+* dt
+- (ngôn ngữ) pháp vị
+ @taiga  
+*  dt
+- (rừng) taiga
+
+@tail  
+*  dt
+- đuôi (thú vật, chim, cá...)
+
++ to wag the tail: vẫy đuôi
+- đuôi, đoạn cuối, đoạn chót
+
++ the tail of a kite: đuôi diều
+
++ the tail of a comet: đuôi sao chuổi
+
++ the tail of a coat: đuôi áo, vạt áo sau
+
++ the tail of a procession: đuôi đám rước
+
++ the tail of one's eye: đuôi mắt
+
++ the tail of the class: học trò bét lớp
+
++ the tail of a storm: rớt bão
+- đoàn tuỳ tùng
+- bím tóc bỏ xoã sau lưng
+- đít, đằng sau (xe...)
+
++ to walk at the tail of a cart: theo sau xe bò
+- (số nhiều) mặt sấp (đồng tiền)
+
++ head(s) or tail(s): ngửa hay sấp
+- (số nhiều) (thông tục) (như) tail-coat
+!to look at someone out of the tail of one's eyes
+- liếc ai
+!to put (have) one's tail between one's legs
+- sợ cụp đuôi
+- lấy làm xấu hổ, hổ thẹn
+!to turn tail
+- chuồn mất, quay đít chạy mất
+!to twist someone's tail
+- quấy rầy ai, làm phiền ai
+*  dgt
+- thêm đuôi, gắn đuôi vào
+- ngắt cuống (trái cây)
+- (: in) đặt (xà nhà, rui, kèo) vào tường; cột vào
+- (: on to) buộc vào, nối vào
+- (từ Mỹ,nghĩa Mỹ) theo sát, bám sát gót (kẻ tình nghi...)
+!to tail after
+- theo sát gót; theo đuôi
+!to tail away (off)
+- tụt hậu, tụt lại đằng sau
+- (từ Mỹ,nghĩa Mỹ) nhỏ dần đi, bé dần đi
+
++ the noise tailed away: tiếng động nhỏ dần đi
+!to tail up
+- cắm mũi xuống (máy bay); nổi đuôi lên (cá)
+- nối đuôi nhau (đi vào)
+!to tail up and down stream
+!to tail to the tide
+- bập bềnh theo nước thuỷ triều
+
+@tail
+- đuôi; phần dư; (lý thuyết trò chơi) mặt trái (đồng tiền)
+- t. of wave đuôi sóng 
+ @tailback
+* dt
+- hàng dài xe cộ nối đuôi nhau (do bị ách tắc)
+ @tail-base  
+*  dt
+- đầu xương cụt (người)
+- phao câu (gà)
+
+@tail-board  
+*  dt
+- ván chặn hậu (xe bò...)
+
+@tail-coat  
+*  dt
+- áo đuôi tôm
+
+@tailed
+* tt
+- (trong từ ghép) có một cái đuôi kiểu được nói rõ
+ @tail-end  
+*  dt
+- đuôi, đoạn cuối (đám rước, bài nói...)
+
+@tail-feather
+* dt
+- lông đuôi
+ @tail-gate  
+*  dt
+- cửa dưới (của cống)
+
+@tailing
+* dt
+- phần cuối
+- (số nhiều) vật thải; cặn bã; vật đầu thừa đuôi thẹo
+ @tailings  
+*  dt
+- phế phẩm, rác
+- trấu, hạt lép (sàng còn lại)
+
+@tail-lamp   (tail-lamp) @tailless  
+*  tt
+- không đuôi
+
+@tail-light   (tail-lamp) @tailor  
+*  dt
+- thợ may
+!the tailor makes the man
+- người tốt vì lụa
+!to ride like a tailor
+- cưỡi ngựa kém
+*  ngdgt
+- may
+
++ to tailor a costume: may một bộ quần áo
+*  ndgt
+- làm nghề thợ may
+
+@tailored
+* tt
+- như tailor-made
+ @tailoress  
+*  dt
+- chị thợ may
+
+@tailoring  
+*  dt
+- nghề may
+- đồ may
+
+@tailor-made  
+*  tt
+- may đo; may khéo
+
+@tailor-piece
+* dt
+- phần cuối; phần kết
+- (in) hình vẽ cuối chương sách
+- (nhạc) giá căng dây đàn (đàn viôlông...)
+ @tailpiece  
+*  dt
+- hình vẽ cuối chương sách
+- chốt mắc dây (ờ đàn viôtlông, đàn nguyệt...)
+
+@tailpipe
+* dt
+- ống bô (ống xả khí của xe có động cơ)
+ @tail-plane
+* dt
+- (không) cánh đuôi (máy bay)
+ @tailplane
+* dt
+- bộ phận hoặc mặt nằm ngang của đuôi máy bay
+ @tail-skid  
+*  dt
+- (hàng không) cái chống hậu (máy bay)
+
+@tail-spin  
+*  dt
+- (hàng không) sự quay vòng hạ cánh
+
+@tail-stock
+* dt
+- ụ sau (máy); ụ định tâm
+ @tail-wind  
+*  dt
+- (hàng không) gió xuôi
+
+@tain  
+*  dt
+- hỗn hống thiếc, thuỷ gương
+
+@taint  
+*  dt
+- sự làm hư hỏng, sự làm đồi bại, sự làm bại hoại, sự làm suy đồi
+- vết nhơ, vết bẩn, vết xấu, vết ô uế
+
++ the taint of sin: vết nhơ của tội lỗi, vết tội lỗi
+- dấu vết của bệnh di truyền; điều xấu di truyền; dấu hiệu của sự nhiễm bệnh
+
++ there was a taint of madness in the family: cả gia đình đều có máu điên
+- mùi hôi thối
+
++ meat free from taint: thịt chưa có mùi hôi thối, thịt còn tươi
+*  ngdgt
+- làm hư hỏng, làm đồi bại, làm bại hoại
+
++ greed tainted his mind: lòng tham làm cho óc anh ta đồi bại hư hỏng
+- làm nhơ, làm ô uế, làm bẩn
+- để thối, để ươn (đồ ăn...)
+
++ tainted meat: thịt ôi, thịt thối
+*  ndgt
+- hư hỏng, đồi bại, bại hoại
+- thối, ươn, ôi (đồ ăn)
+
++ fish taints quickly: cá mau ươn
+
+@taintless  
+*  tt
+- không có vết nhơ
+- trong sạch
+
+@takable
+- xem take
+ @take  
+*  dt
+- sự cầm, sự nắm, sự lấy
+- chầu, mẻ (số lượng săn được, câu được, bắt được)
+
++ a great take of fish: mẻ cá lớn
+- tiền thu (trong buổi hoà nhạc, diễn kịch)
+- (điện ảnh) cảnh quay (vào phim)
+*  ngdgt took; taken
+- cầm, nắm, giữ
+
++ to take something in one's hand: cầm vật gì trong tay
+
++ to take someone by the throat: nắm cổ ai
+- bắt, chiếm
+
++ to be taken in the act: bị bắt quả tang
+
++ to take a fortress: chiếm một pháo đài
+- lấy, lấy đi, lấy ra, rút ra, trích ra
+
++ if you take 5 from 12 you have 7 left: lấy 12 trừ 5, anh sẽ còn lại 7
+- mang, mang theo, đem, đem theo
+
++ you must take your raincoat: anh phải mang theo áo mưa
+
++ take this letter to the post: hãy mang bức thư này ra nhà bưu điện
+- đưa, dẫn, dắt
+
++ I'll take the children for a walk: tôi sẽ dẫn bọn trẻ con đi chơi
+
++ the tram will take you there in ten minutes: xe điện sẽ đưa anh đến đó trong mười phút
+- đi, theo
+
++ to take a bus: đi xe buýt
+
++ we must have taken the wrong road: hẳn là chúng tôi đi lầm đường
+- thuê, mướn, mua
+
++ to take a ticket: mua vé
+
++ to take a house: thuê một căn nhà
+- ăn, uống, dùng
+
++ will you take tea or coffee?: anh uống (dùng) trà hay cà phê?
+
++ to take breakfast: ăn sáng, ăn điểm tâm
+
++ to take 39 in boot: đi giày số 39
+- ghi, chép, chụp
+
++ to take notes: ghi chép
+
++ to have one's photograph taken: để cho ai chụp ảnh
+- làm, thực hiện, thi hành
+
++ to take a journey: làm một cuộc du lịch
+
++ to take a bath: đi tắm
+- lợi dụng, nắm
+
++ to take the opportunity: lợi dụng cơ hội, nắm lấy cơ hội
+
++ to take advantage of: lợi dụng
+- bị, mắc, nhiễm
+
++ to take cold: bị cảm lạnh, bị nhiễm lạnh
+
++ to be taken ill: bị ốm
+- coi như, cho là, xem như, lấy làm, hiểu là, cảm thấy
+
++ to take a joke in earnest: coi đùa làm thật
+
++ do you take my meaning?: anh có hiểu ý tôi không?
+- đòi hỏi, cần có, yêu cầu, phải
+
++ it would take a strong man to move it: phải có một người khoẻ mới chuyển nổi cái này đi
+
++ it does not take more than two minutes to do it: làm cái đó không (đòi hỏi) mất quá hai phút
+- chịu, chịu đựng, tiếp, nhận
+
++ to take a beating: chịu một trận đòn
+
++ enemy troops took many casualties: quân địch bị tiêu diệt nhiều
+
++ to take all the responsibility: chịu (nhận) hết trách nhiệm
+- được, đoạt; thu được
+
++ to take a first prize in...: được giải nhất về...
+
++ to take a degree at the university: tốt nghiệp đại học
+- chứa được, đựng
+
++ the car can't take more than six: chiếc xe không chứa được quá sáu người
+- mua thường xuyên, mua dài hạn (báo, tạp chí...)
+
++ the "Times" is the only paper he takes: tờ " Thời báo" là tờ báo độc nhất anh ấy mua dài hạn
+- quyến rũ, hấp dẫn, lôi cuốn
+
++ to be taken with: bị lôi cuốn, bị quyến rũ, say mê, say đắm
+- vượt qua, đi tới, nhảy vào; trốn tránh ở
+
++ to take an obstacle: vượt qua một điều trở ngại, vượt qua một vật chướng ngại
+
++ the thoroughbred takes the hedge with greatest ease: con ngựa nòi vượt qua hàng rào một cách hết sức dễ dàng
+
++ to take the water: nhảy xuống nước
+
++ the bandits had taken the forest: bọn cướp đã trốn vào rừng
+*  ndgt
+- bắt, bén (lửa); ngấm, có hiệu lực (thuốc)
+
++ the medicine did not take: thuốc không có hiệu lực
+- ăn ảnh
+
++ she does not take well: cô ta không ăn ảnh lắm
+- thành công, được ưa thích
+
++ his second play took even more than the first: vở kịch thứ hai của ông ta còn thành công hơn cả vở kịch thứ nhất
+!to take after
+- giống
+
++ he takes after his uncle: nó giống ông chú nó
+!to take along
+- mang theo, đem theo
+
++ I'll take that book along with me: tôi sẽ mang theo cuốn sách này với tôi
+!to take aside
+- kéo ra một chỗ, đưa ra một chỗ để nói riêng
+!to take away
+- mang đi, lấy đi, đem đi, cất đi
+!to take back
+- lấy lại, mang về, đem về
+
++ to take back one's words: nói lại, rút lui ý kiến
+!to take down
+- tháo xuống, bỏ xuống, hạ xuống
+- tháo ra, dỡ ra
+- ghi chép
+- làm nhục, sỉ nhục
+- nuốt khó khăn
+!to take from
+- giảm bớt, làm yếu
+!to take in
+- mời vào, đưa vào, dẫn vào, đem vào (người đàn bà mình sẽ ngồi cạnh ở bàn tiệc)
+- tiếp đón; nhận cho ở trọ
+
++ to take in lodgers: nhận khách trọ
+- thu nhận, nhận nuôi
+
++ to take in an orphan: nhận nuôi một trẻ mồ côi
+- mua dài hạn (báo chí...)
+- nhận (công việc) về nhà làm
+
++ to take in sewing: nhận đồ khâu về nhà làm
+- thu nhỏ, làm hẹp lại
+
++ to take in a dress: khâu hẹp cái áo
+- gồm có, bao gồm
+- hiểu, nắm được, đánh giá đúng
+
++ to take in a situation: nắm được tình hình
+- vội tin, nhắm mắt mà tin
+
++ to take in a statement: nhắm mắt mà tin một bản tuyên bố
+- lừa phỉnh, lừa gạt, cho vào tròng, cho vào bẫy
+!to take into
+- đưa vào, để vào, đem vào
+
++ to take someone into one's confidence: thổ lộ chuyện riêng với ai
+
++ to take it into one's head (mind): có ý nghĩ, có ý định
+!to take off
+- bỏ (mũ), cởi (quần áo); giật ra, lấy đi, cuốn đi
+
++ to take off one's hat to somebody: thán phục ai
+- dẫn đi, đưa đi, tiễn đưa (ai)
+
++ to take oneself off: ra đi, bỏ đi
+- nhổ đi, xoá bỏ, làm mất tích
+- nuốt chửng, nốc, húp sạch
+- bớt, giảm (giá...)
+- bắt chước; nhại, giễu
+- (thể dục,thể thao) giậm nhảy
+- (hàng không) cất cánh
+!to take on
+- đảm nhiệm, nhận làm, gách vác
+
++ to take on extra work: nhận làm việc thêm (việc ngoài giờ)
+
++ to take on responsibilities: đảm nhận trách nhiệm
+- nhận đánh cuộc, nhận lời thách đố
+
++ to take someone on at billiards: nhận đấu bi a với ai
+
++ to take on a bet: nhận đánh cuộc
+- nhận vào làm, thuê, mướn (người làm...)
+- dẫn đi tiếp
+- (thông tục) choáng váng, xúc động mạnh, bị kích thích; làm hoảng lên
+!to take out
+- đưa ra, dẫn ra ngoài
+- lấy ra, rút ra; xoá sạch, tẩy sạch, làm mất đi
+
++ to take out a stain: xoá sạch một vết bẩn
+
++ to take it out of: rút hết sức lực (của ai), làm (ai) mệt lử; trả thù (ai)
+- nhận được, được cấp, được phát (bằng, giấy phép, giấy đăng ký...)
+- nhận (cái gì...) để bù vào; nhận số lượng tương đương để bù vào
+
++ as he could not get paid he took it out in goods: vì nó không lấy được tiền nên phải lấy hàng bù vào
+!to take over
+- chuyển, chở, đưa, dẫn qua (đường, sông...)
+- tiếp quản, kế tục, nổi nghiệp, tiếp tục
+
++ we take over Hanoi in 1954: chúng ta tiếp quản Hà nội năm 1954
+
++ to take over the watch: thay (đổi) phiên gác
+!to take to
+- dùng đến, nhờ cậy đến, cần đến
+
++ the ship was sinking and they had to take to the boats: tàu bị chìm và họ phải dùng đến thuyền
+- chạy trốn, trốn tránh
+
++ to take to flight: bỏ chạy, rút chạy
+
++ to take to the mountain: trốn vào núi
+- bắt đầu ham thích, bắt đầu say mê, tập, nhiễm
+
++ to take to drinking: bắt đầu nghiện rượu
+
++ to take to bad habits: nhiễm những thói xấu
+
++ to take to chemistry: ham thích hoá học
+- có cảm tình, ưa, mến
+
++ the baby takes to her murse at once: đứa bé mến ngay người vú
+
++ to take to the streets: xuống đường (biểu tình, tuần hành...)
+!to take up
+- nhặt, cầm lên, lượm lên; đưa lên, dẫn lên, mang lên
+- cho (hành khách) lên (ô tô, xe lửa)
+
++ the car stops to take up passengers: xe đỗ lại cho hành khách lên, xe đỗ lại lấy khách
+- tiếp tục (một công việc bỏ dở...)
+- chọn (một nghề); đảm nhiệm, gánh vác (một công việc)
+- thu hút, choán, chiếm (thời gian, tâm trí...)
+- hút, thấm
+
++ sponges take up water: bọt biển thấm (hút) nước
+- bắt giữ, tóm
+
++ he was taken up by the police: nó bị công an bắt giữ
+- (thông tục) la rầy, quở mắng, trách móc
+- ngắt lời (ai...)
+- đề cập đến, xét đến, bàn đến (một vấn đề)
+- hiểu
+
++ to take up someone's idea: hiểu ý ai
+- nhận, áp dụng
+
++ to take up a bet: nhận đánh cuộc
+
++ to take up a challenge: nhận lời thách
+
++ to take up a method: áp dụng một phương pháp
+- móc lên (một mũi đan tuột...)
+
++ to take up a dropped stitch: móc lên một mũi đan tuột
+- vặn chặt (chỗ jơ); căng (dây cáp)
+!to take up with
+- kết giao với, giao thiệp với, đi lại với, thân thiết với, chơi bời với
+!to take aim
+- (xem) aim
+!to take one's chance
+- (xem) chance
+!to take earth
+- chui xuống lỗ (đen & bóng)
+!to take one's life in one's hand
+- liều mạng
+
+@take
+- lấy to t. an expresion into another biến đổi một biểu thức thành
+- một biểu thức khác; to t. a logarithm lấy lôga; to t. notice chú ý; to t.
+- off trừ đi; to t. part tham gia; to t. place xảy ra; to t. up lấy đi (thời
+- gian) 
+ @take after
+* ndgt, virr:giống
+ @take along
+* ndgt, virr:mang theo, đem theo
+ @take aside
+* ndgt, virr:kéo ra một chỗ, đưa ra một chỗ để nói riêng
+ @take away
+* ndgt, virr:mang đi, lấy đi, đem đi, cất đi
+ @take back
+* ndgt, virr:lấy lại, mang về, đem về
+- nói lại, rút lui ý kiến
+ @take down
+* ndgt, virr:tháo xuống, bỏ xuống, hạ xuống
+- tháo ra, dỡ ra
+- ghi chép
+- làm nhục, sỉ nhục
+- nuốt khó khăn
+ @take from
+* ndgt, virr:giảm bớt, làm yếu
+ @take in
+* ndgt, virr:mời vào, đưa vào, dẫn vào, đem vào(người đàn bà mình sẽ ngồi cạnh ở bàn tiệc)
+- tiếp đón; nhận cho ở trọ
+ @take into
+* ndgt, virr:đưa vào, để vào, đem vào
+ @take off
+* ndgt, virr:bỏ(mũ), cởi(quần áo); giật ra, lấy đi, cuốn đi
+ @take-away
+* tt
+- mua mang về (thức ăn)
+* dt
+- cửa hàng bán thức ăn mang về
+- bữa ăn mua ở một cửa hàng bán thức ăn mang về
+ @take-down  
+*  dt
+- sự tháo xuống, sự tháo gỡ
+- (thông tục) điều sỉ nhục
+
+@Take-Home pay
+- (Econ) Thu nhập khả chi.
+: Thu nhập có thể sử dụng; thu nhập thô trừ thuế và đóng góp bảo hiểm xã hội.
+ @take-home pay
+* dt
+- tiền lương còn lại sau khi đã khấu trừ các khoản (thuế )
+ @take-in  
+*  dt
+- sự lừa gạt, sự lừa phỉnh
+- điều lừa dối
+
+@taken  
+*  dt
+- sự cầm, sự nắm, sự lấy
+- chầu, mẻ (số lượng săn được, câu được, bắt được)
+
++ a great take of fish: mẻ cá lớn
+- tiền thu (trong buổi hoà nhạc, diễn kịch)
+- (điện ảnh) cảnh quay (vào phim)
+*  ngdgt took; taken
+- cầm, nắm, giữ
+
++ to take something in one's hand: cầm vật gì trong tay
+
++ to take someone by the throat: nắm cổ ai
+- bắt, chiếm
+
++ to be taken in the act: bị bắt quả tang
+
++ to take a fortress: chiếm một pháo đài
+- lấy, lấy đi, lấy ra, rút ra, trích ra
+
++ if you take 5 from 12 you have 7 left: lấy 12 trừ 5, anh sẽ còn lại 7
+- mang, mang theo, đem, đem theo
+
++ you must take your raincoat: anh phải mang theo áo mưa
+
++ take this letter to the post: hãy mang bức thư này ra nhà bưu điện
+- đưa, dẫn, dắt
+
++ I'll take the children for a walk: tôi sẽ dẫn bọn trẻ con đi chơi
+
++ the tram will take you there in ten minutes: xe điện sẽ đưa anh đến đó trong mười phút
+- đi, theo
+
++ to take a bus: đi xe buýt
+
++ we must have taken the wrong road: hẳn là chúng tôi đi lầm đường
+- thuê, mướn, mua
+
++ to take a ticket: mua vé
+
++ to take a house: thuê một căn nhà
+- ăn, uống, dùng
+
++ will you take tea or coffee?: anh uống (dùng) trà hay cà phê?
+
++ to take breakfast: ăn sáng, ăn điểm tâm
+
++ to take 39 in boot: đi giày số 39
+- ghi, chép, chụp
+
++ to take notes: ghi chép
+
++ to have one's photograph taken: để cho ai chụp ảnh
+- làm, thực hiện, thi hành
+
++ to take a journey: làm một cuộc du lịch
+
++ to take a bath: đi tắm
+- lợi dụng, nắm
+
++ to take the opportunity: lợi dụng cơ hội, nắm lấy cơ hội
+
++ to take advantage of: lợi dụng
+- bị, mắc, nhiễm
+
++ to take cold: bị cảm lạnh, bị nhiễm lạnh
+
++ to be taken ill: bị ốm
+- coi như, cho là, xem như, lấy làm, hiểu là, cảm thấy
+
++ to take a joke in earnest: coi đùa làm thật
+
++ do you take my meaning?: anh có hiểu ý tôi không?
+- đòi hỏi, cần có, yêu cầu, phải
+
++ it would take a strong man to move it: phải có một người khoẻ mới chuyển nổi cái này đi
+
++ it does not take more than two minutes to do it: làm cái đó không (đòi hỏi) mất quá hai phút
+- chịu, chịu đựng, tiếp, nhận
+
++ to take a beating: chịu một trận đòn
+
++ enemy troops took many casualties: quân địch bị tiêu diệt nhiều
+
++ to take all the responsibility: chịu (nhận) hết trách nhiệm
+- được, đoạt; thu được
+
++ to take a first prize in...: được giải nhất về...
+
++ to take a degree at the university: tốt nghiệp đại học
+- chứa được, đựng
+
++ the car can't take more than six: chiếc xe không chứa được quá sáu người
+- mua thường xuyên, mua dài hạn (báo, tạp chí...)
+
++ the "Times" is the only paper he takes: tờ " Thời báo" là tờ báo độc nhất anh ấy mua dài hạn
+- quyến rũ, hấp dẫn, lôi cuốn
+
++ to be taken with: bị lôi cuốn, bị quyến rũ, say mê, say đắm
+- vượt qua, đi tới, nhảy vào; trốn tránh ở
+
++ to take an obstacle: vượt qua một điều trở ngại, vượt qua một vật chướng ngại
+
++ the thoroughbred takes the hedge with greatest ease: con ngựa nòi vượt qua hàng rào một cách hết sức dễ dàng
+
++ to take the water: nhảy xuống nước
+
++ the bandits had taken the forest: bọn cướp đã trốn vào rừng
+*  ndgt
+- bắt, bén (lửa); ngấm, có hiệu lực (thuốc)
+
++ the medicine did not take: thuốc không có hiệu lực
+- ăn ảnh
+
++ she does not take well: cô ta không ăn ảnh lắm
+- thành công, được ưa thích
+
++ his second play took even more than the first: vở kịch thứ hai của ông ta còn thành công hơn cả vở kịch thứ nhất
+!to take after
+- giống
+
++ he takes after his uncle: nó giống ông chú nó
+!to take along
+- mang theo, đem theo
+
++ I'll take that book along with me: tôi sẽ mang theo cuốn sách này với tôi
+!to take aside
+- kéo ra một chỗ, đưa ra một chỗ để nói riêng
+!to take away
+- mang đi, lấy đi, đem đi, cất đi
+!to take back
+- lấy lại, mang về, đem về
+
++ to take back one's words: nói lại, rút lui ý kiến
+!to take down
+- tháo xuống, bỏ xuống, hạ xuống
+- tháo ra, dỡ ra
+- ghi chép
+- làm nhục, sỉ nhục
+- nuốt khó khăn
+!to take from
+- giảm bớt, làm yếu
+!to take in
+- mời vào, đưa vào, dẫn vào, đem vào (người đàn bà mình sẽ ngồi cạnh ở bàn tiệc)
+- tiếp đón; nhận cho ở trọ
+
++ to take in lodgers: nhận khách trọ
+- thu nhận, nhận nuôi
+
++ to take in an orphan: nhận nuôi một trẻ mồ côi
+- mua dài hạn (báo chí...)
+- nhận (công việc) về nhà làm
+
++ to take in sewing: nhận đồ khâu về nhà làm
+- thu nhỏ, làm hẹp lại
+
++ to take in a dress: khâu hẹp cái áo
+- gồm có, bao gồm
+- hiểu, nắm được, đánh giá đúng
+
++ to take in a situation: nắm được tình hình
+- vội tin, nhắm mắt mà tin
+
++ to take in a statement: nhắm mắt mà tin một bản tuyên bố
+- lừa phỉnh, lừa gạt, cho vào tròng, cho vào bẫy
+!to take into
+- đưa vào, để vào, đem vào
+
++ to take someone into one's confidence: thổ lộ chuyện riêng với ai
+
++ to take it into one's head (mind): có ý nghĩ, có ý định
+!to take off
+- bỏ (mũ), cởi (quần áo); giật ra, lấy đi, cuốn đi
+
++ to take off one's hat to somebody: thán phục ai
+- dẫn đi, đưa đi, tiễn đưa (ai)
+
++ to take oneself off: ra đi, bỏ đi
+- nhổ đi, xoá bỏ, làm mất tích
+- nuốt chửng, nốc, húp sạch
+- bớt, giảm (giá...)
+- bắt chước; nhại, giễu
+- (thể dục,thể thao) giậm nhảy
+- (hàng không) cất cánh
+!to take on
+- đảm nhiệm, nhận làm, gách vác
+
++ to take on extra work: nhận làm việc thêm (việc ngoài giờ)
+
++ to take on responsibilities: đảm nhận trách nhiệm
+- nhận đánh cuộc, nhận lời thách đố
+
++ to take someone on at billiards: nhận đấu bi a với ai
+
++ to take on a bet: nhận đánh cuộc
+- nhận vào làm, thuê, mướn (người làm...)
+- dẫn đi tiếp
+- (thông tục) choáng váng, xúc động mạnh, bị kích thích; làm hoảng lên
+!to take out
+- đưa ra, dẫn ra ngoài
+- lấy ra, rút ra; xoá sạch, tẩy sạch, làm mất đi
+
++ to take out a stain: xoá sạch một vết bẩn
+
++ to take it out of: rút hết sức lực (của ai), làm (ai) mệt lử; trả thù (ai)
+- nhận được, được cấp, được phát (bằng, giấy phép, giấy đăng ký...)
+- nhận (cái gì...) để bù vào; nhận số lượng tương đương để bù vào
+
++ as he could not get paid he took it out in goods: vì nó không lấy được tiền nên phải lấy hàng bù vào
+!to take over
+- chuyển, chở, đưa, dẫn qua (đường, sông...)
+- tiếp quản, kế tục, nổi nghiệp, tiếp tục
+
++ we take over Hanoi in 1954: chúng ta tiếp quản Hà nội năm 1954
+
++ to take over the watch: thay (đổi) phiên gác
+!to take to
+- dùng đến, nhờ cậy đến, cần đến
+
++ the ship was sinking and they had to take to the boats: tàu bị chìm và họ phải dùng đến thuyền
+- chạy trốn, trốn tránh
+
++ to take to flight: bỏ chạy, rút chạy
+
++ to take to the mountain: trốn vào núi
+- bắt đầu ham thích, bắt đầu say mê, tập, nhiễm
+
++ to take to drinking: bắt đầu nghiện rượu
+
++ to take to bad habits: nhiễm những thói xấu
+
++ to take to chemistry: ham thích hoá học
+- có cảm tình, ưa, mến
+
++ the baby takes to her murse at once: đứa bé mến ngay người vú
+
++ to take to the streets: xuống đường (biểu tình, tuần hành...)
+!to take up
+- nhặt, cầm lên, lượm lên; đưa lên, dẫn lên, mang lên
+- cho (hành khách) lên (ô tô, xe lửa)
+
++ the car stops to take up passengers: xe đỗ lại cho hành khách lên, xe đỗ lại lấy khách
+- tiếp tục (một công việc bỏ dở...)
+- chọn (một nghề); đảm nhiệm, gánh vác (một công việc)
+- thu hút, choán, chiếm (thời gian, tâm trí...)
+- hút, thấm
+
++ sponges take up water: bọt biển thấm (hút) nước
+- bắt giữ, tóm
+
++ he was taken up by the police: nó bị công an bắt giữ
+- (thông tục) la rầy, quở mắng, trách móc
+- ngắt lời (ai...)
+- đề cập đến, xét đến, bàn đến (một vấn đề)
+- hiểu
+
++ to take up someone's idea: hiểu ý ai
+- nhận, áp dụng
+
++ to take up a bet: nhận đánh cuộc
+
++ to take up a challenge: nhận lời thách
+
++ to take up a method: áp dụng một phương pháp
+- móc lên (một mũi đan tuột...)
+
++ to take up a dropped stitch: móc lên một mũi đan tuột
+- vặn chặt (chỗ jơ); căng (dây cáp)
+!to take up with
+- kết giao với, giao thiệp với, đi lại với, thân thiết với, chơi bời với
+!to take aim
+- (xem) aim
+!to take one's chance
+- (xem) chance
+!to take earth
+- chui xuống lỗ (đen & bóng)
+!to take one's life in one's hand
+- liều mạng
+
+@take-off  
+*  dt
+- sự nhại
+- bức vẽ giỡn; tranh biếm hoạ
+- (thể dục,thể thao) đà giậm nhảy; chỗ giậm nhảy; sự lấy đà để nhảy
+- (hàng không) sự cất cánh
+
+@Take-off
+- (Econ) Cất cánh .
+: Xem ROSTOW MODEL.
+ @take-out
+* tt
+- mua mang về (thức ăn)
+* dt
+- cửa hàng bán thức ăn mang về
+- bữa ăn mua ở một cửa hàng bán thức ăn mang về
+ @take-over  
+*  dt
+- sự tiếp quản (đất đai, chính quyền)
+
+@Takeover
+- (Econ) Thu mua.
+: Vịêc một công ty Tấn công mua hơn 51% cổ phiếu để có quyền bỏ phiếu ở một công ty khác .
+ @Takeover and mergers
+- (Econ) Sự mua đứt và hợp nhất .
+ @Takeover bid
+- (Econ) Trả giá thu mua.
+: Nỗ lực của một cá nhân, một nhóm người, hay một công ty nhằm mua đủ cổ phiếu để có quyền bỏ phiếu ở một công ty khác.
+ @taker  
+*  dt
+- người lấy, người nhận
+- người nhận đánh cuộc
+
+@taker-in  
+*  dt
+- người lừa gạt, người lừa phỉnh
+
+@taker-off  
+*  dt
+- (thông tục) người nhại
+
+@take-up spool
+* dt
+- ống để cuộn phim (cuộn băng ghi âm  sau khi dùng ở máy chiếu phim, máy ghi âm )
+ @taking  
+*  dt
+- sự cầm, sự lấy, sự chiếm lấy
+- (số nhiều) tiền thu
+- (y học) sự lấy (máu)
+*  tt
+- hấp dẫn, quyến rũ, cám dỗ
+- (thông tục) hay lây, dễ nhiễm, dễ quen
+
++ that's taking: cái ấy dễ quen lắm
+
++ a taking disease: bệnh dễ lây
+
+@taking-in  
+*  dt
+- sự giảm bớt, sự thu nhỏ
+
+@taking-off  
+*  dt
+- đà giậm nhảy, đà
+- (hàng không) sự cất cánh
+
+@talapoin  
+*  dt
+- sư (Xơ-ri Lan-ca,  Thái lan)
+- (động vật học) khỉ đuôi
+
+@talari  
+*  dt
+- đồng talari (tiền Ê-ti-ô-pi)
+
+@talbot  
+*  dt
+- chó săn tanbô
+
+@talc  
+*  dt
+- (khoáng chất) đá tan
+*  ngdgt
+- (y học) xoa bột tan
+
+@talc powder   (talc_powder) @talcky
+* tt
+- (thuộc) đá tan; có chất tan
+ @talcoid
+* tt
+- giống mi-ca; (thuộc) đá tan
+ @talcose  
+*  tt
+- có chứa chất tan
+
+@talcous
+* tt
+- có chất tan
+ @talcum  
+*  dt
+- (khoáng chất) đá tan
+*  ngdgt
+- (y học) xoa bột tan
+
+@talcum powder   (talc_powder) @tale  
+*  dt
+- truyện, truyện ngắn
+
++ tale of adventure: truyện phiêu lưu mạo hiểm
+- chuyện bịa đặt, chuyện nói xấu
+- (từ cổ,nghĩa cổ) số lượng
+!to tell tales
+- mách lẻo
+!that tells its own tale
+- điều ấy đã rõ rồi, miễn phê bình
+!twice-told tale
+- chuyện cũ rích
+!I want to tell my own tale
+- tôi muốn nói lên quan điểm của tôi về vấn đề đó
+
+@tale-bearer   (tale-teller) @talebearer
+- Cách viết khác : taleteller 
+ @tale-bearing   (tale-telling) @talebearing
+- Cách viết khác : taletelling 
+ @talecarrier
+* dt
+- kẻ ngồi lê đôi mách
+ @talemonger
+* dt
+- kẻ ngồi lê đôi mách
+ @talent  
+*  dt
+- tài, tài ba, tài năng, tài cán
+
++ a man of great talent: một người tài cao
+
++ to wrap up one's talent in a napkin: đề tài mai một
+- người có tài, nhân tài
+
++ to call upon all the talents: kêu gọi tất cả nhân tài
+- khiếu, năng khiếu
+
++ to have a talent for...: có năng khiếu về...
+- (the talent) (thể dục,thể thao),  (từ lóng) những người đánh cuộc (đánh cá) không chuyên (đối lại với chuyên nghiệp)
+- talăng (đơn vị trọng lượng xưa)
+- talăng (đơn vị tiền tệ cổ Hy lạp)
+
+@talent money  
+*  dt
+- tiền thưởng cho người chơi (bóng đá...) xuất sắc
+
+@talented  
+*  tt
+- có tài
+
++ a talented pianist: một người chơi pianô có tài
+
+@talentless  
+*  tt
+- bất tài, không có tài
+
+@talent-scout  
+*  dt
+- (điện ảnh) người phát hiện ra diễn viên ưu tú
+
+@tales  
+*  dt
+- (pháp lý) danh sách hội thẩm dự khuyết
+
+@tales-book
+* dt
+- (pháp lý) danh sách hội thẩm dự khuyết
+ @talesman  
+*  dt
+- (pháp lý) hội thẩm dự khuyết
+
+@tale-teller   (tale-teller) @taleteller
+- Cách viết khác : talebearer 
+ @tale-telling   (tale-telling) @taletelling
+- Cách viết khác : talebearing 
+ @tali  
+*  dt,  số nhiều tali
+- bờ nghiêng, bờ dốc
+- Taluy
+- (giải phẫu) xương sên
+- (địa lý,địa chất) lở tích
+
+@talion
+* dt
+- (pháp lý) sự trừng phạt; sự trừ trị (luật hình sự)
+ @taliped  
+*  tt
+- có tật bàn chân vẹo
+*  dt
+- người có tật bàn chân vẹo
+
+@talipes  
+*  dt
+- (y học) tật bàn chân vẹo
+
+@talisman  
+*  dt
+- bùa, phù
+
+@talismanic  
+*  tt
+- bùa, phép
+
+@talk  
+*  dt
+- lời nói
+
++ he's all talk: thằng ấy chỉ được cái tài nói
+- cuộc chuyện trò, cuộc mạn đàm
+- bài nói chuyện
+
++ a talk on Russian music: một bài nói chuyện về âm nhạc Nga
+- tin đồn, lời xì xào bàn tán
+
++ that's all talk: đó chỉ là tin đồn
+
++ the talk of the town: chuyện cả tỉnh người ta bàn tán
+- (số nhiều) (chính trị) cuộc đàm phán, cuộc thương lượng
+*  ndgt
+- nói
+
++ baby is beginning to talk: bé em bắt đầu biết nói
+- nói chuyện, chuyện trò
+- nói nhiều, bép xép; gièm pha; bàn tán
+
++ don't do that, people will talk: đừng làm cái đó, người ta sẽ nói ngay đấy
+*  ngdgt
+- nói, kể
+
++ to talk English: nói tiếng Anh
+
++ to talk rubbish: nói bậy nói bạ
+- nói về, bàn về
+
++ to talk politics: nói chuyện chính trị
+- nói quá làm cho, nói đến nỗi
+
++ to talk somebody's head off: nói quá làm cho ai nhức cả đầu
+
++ to talk oneself hoarse: nói đến khản cả tiếng
+!to talk about (of)
+- nói về, bàn về
+
++ we'll talk about that point later: chúng ta sẽ bàn về điểm đó sau
+
++ what are they talking of?: họ đang nói về cái gì thế?
+!to talk at
+- nói ám chỉ, nói bóng gió, nói cạnh
+!to talk away
+- nói chuyện cho hết (thì giờ); nói suốt
+
++ to talk the afternoon away: nói chuyện cho qua buổi chiều; nói chuyện suốt cả buổi chiều
+- nói tiếp, nói mãi, nói dài, nói dứt không ra
+!to talk back
+- nói lại, cãi lại
+!to talk down
+- nói át, nói chặn họng
+!to talk into
+- nói vào, dỗ dành để làm, thuyết phục để làm
+!to talk out
+- bàn kéo dài, tranh luận đến cùng
+!to talk out of
+- bàn ra, can ngăn, nói để đừng làm
+!to talk someone out of a plan
+- ngăn ai đừng theo một kế hoạch
+!to talk over
+- dỗ dành, thuyết phục
+- bàn luận, xét kỹ mọi mặt; nhận định mọi cạnh khía
+
++ talk it over with your parents before you reply: hãy bàn kỹ vấn đề đó với thầy mẹ anh đã rồi hãy trả lời
+!to talk round
+- thuyết phục, dỗ dành, làm thay đổi ý kiến
+- bàn quanh bàn quẩn không đi đến đâu
+!to talk to
+- (thông tục) chỉnh, xài, phê bình, quở trách
+
++ the lazy boy wants talking to: cần phải xài cho thằng bé trây lười một trận
+!to talk up
+- tuyên truyền cho; hết lời ca ngợi
+!to talk for the sake of talking
+- nói để mà nói, nói chẳng mục đích gì
+!to talk nineteen to the dozen
+- (xem) dozen
+!to talk shop
+- (xem) shop
+!to talk through one's hat
+- (xem) hat
+!to talk to the purpose
+- nói đúng lúc; nói cái đang nói
+
+@talkative  
+*  tt
+- thích nói, hay nói; lắm điều, ba hoa; bép xép
+
+@talkativeness  
+*  dt
+- tính hay nói; tính lắm đều, tính ba hoa; tính bép xép
+
+@talkee-talkee  
+*  dt
+- chuyện nhảm nhí, chuyện tầm phào
+- tiếng Anh nói sai (của người da đen)
+
+@talker  
+*  dt
+- người nói; người nói hay, người nói chuyện có duyên
+- người hay nói, người nói nhiều; người lắm đều, người ba hoa
+
++ good talkers are little doers: những kẻ nói nhiều thường làm ít
+- (thông tục) người hay nói phét
+
+@talkie  
+*  dt
+- (từ lóng) phim nói
+
+@talking  
+*  dt
+- sự nói
+- câu chuyện; chuyện nhảm nhí, chuyện bép xép
+*  tt
+- nói được, biết nói
+
++ talking bird: chim biết nói
+- biểu lộ (ý tứ, tâm tình)
+
++ talking eyes: những con mắt nhìn có ý tứ
+
+@talking-picture  
+*  dt
+- phim nói
+
+@talking-point
+* dt
+- đề tài có thể bàn luận, đề tài có thể tranh cãi
+ @talking-shop
+* dt
+- (xúc phạm) diễn đàn, nghị trường, sự huyênh hoang khoác lác trên diễn đàn
+ @talking-to  
+*  dt
+- (thông tục) lời xạc, lời chỉnh
+
+@talky
+* tt
+- hay nói, thích nói, ba hoa
+- rườm rà, dàng dòng
+- talky play
+- vở kịch dài dòng
+ @tall  
+*  tt
+- cao
+
++ how tall is he?: nó cao bao nhiêu?
+
++ a tall man: một người cao
+- (từ lóng) phóng đại, không thật, khó tin, khoác lác, ngoa
+
++ tall story: chuyện khó tin, chuyện nói khoác
+
++ tall talk: lời nói khoác lác
+
++ tall order: nhiệm vụ quá nặng, nhiệm vụ khó thực hiện; sự đòi hỏi quá cao
+*  dt
+- ngoa, khoác lác, khoe khoang
+
++ to talk tall: nói ngoa, nói khoác, nói khoe khoang
+
+@tallboy  
+*  dt
+- tủ com mốt cao
+- cốc cao chân
+
+@tallish  
+*  tt
+- dong dỏng cao, khá cao
+
+@tallness  
+*  dt
+- bề cao, chiều cao (của một người)
+- tầm vóc cao
+
+@tallow  
+*  dt
+- mỡ (để làm nến, làm xà phòng...)
+
++ vegetable tallow: mỡ thực vật
+*  ngdgt
+- bôi mỡ, trét mỡ
+
++ tallowed leather: da bôi mỡ
+- vỗ béo
+
++ to tallow sheep: vỗ béo cừu
+
+@tallow-chandler  
+*  dt
+- người buôn nến
+- người sản xuất nến
+
+@tallow-face  
+*  dt
+- người tái nhợt, người nhợt nhạt
+
+@tallowy  
+*  tt
+- có chất mỡ
+- tái mét; xanh nhợt, nhợt nhạt
+
+@tally  
+*  dt
+- sự kiểm điểm (hàng hoá, tên...)
+- nhãn (ghi tên hàng); biển (khắc tên cây ở vường bách thảo...)
+- (pháp lý) bản đối chiếu, vật đối chiếu
+- (thương nghiệp) số tính toán (chục, tá, trăm...)
+- (sử học) thẻ ghi nợ; dấu khắc để ghi nợ
+*  ngdgt
+- kiểm (tên, hàng hoá...)
+- gắn nhãn, đeo biển vào
+- (sử học) khắc đấu (để ghi nợ...)
+*  ndgt
+- kiểm, đếm
+- hợp nhau, phù hợp, ăn khớp với nhau
+
++ what you say doesn't tally with what he told me: điều anh nói không phù hợp với điều nó đã nói với tôi
+
+@tally trade  
+*  dt
+- cách bán chịu trả dần
+
+@tally-ho  
+*  thán từ
+- hú
+*  dt
+- tiếng hú (của người đi săn)
+*  dgt
+- hú
+
+@tallyman  
+*  dt
+- người ghi, người kiểm (hàng...)
+- người bán chịu trả dần
+
+@tally-sheet
+* dt
+- bản kiểm kê
+ @tally-shop  
+*  dt
+- cửa hàng bán chịu trả dần
+
+@talmud
+* dt
+- (Talmud) tập hợp những văn bản cổ về luật và truyền thống Do thái
+ @talon  
+*  dt
+- móng, vuốt (chim mồi)
+- gốc (biên lai, séc...)
+- bài chia còn dư
+
+@talus  
+*  dt,  số nhiều tali
+- bờ nghiêng, bờ dốc
+- Taluy
+- (giải phẫu) xương sên
+- (địa lý,địa chất) lở tích
+
+@tamable   (tamable) @tamal
+* dt
+- ngô nghiền với thịt và ớt (món ăn Mêhicô)
+ @tamarack  
+*  dt
+- (thực vật học) cây thông rụng lá
+- gỗ thông rụng lá
+
+@tamarind  
+*  dt
+- (thực vật học) cây me
+- quả me
+
+@tamarisk  
+*  dt
+- (thực vật học) cây liễu bách
+
+@tambour  
+*  dt
+- cái trống
+- khung thêu
+
++ tambour work: đồ thêu trên khung
+*  ngdgt
+- thêu trên khung thêu
+
+@tambour-frame
+* dt
+- khung thêu
+ @tambourine  
+*  dt
+- (âm nhạc) trống prôvăng
+
+@tambour-work
+* dt
+- sự thêu trên khung
+ @tame  
+*  tt
+- đã thuần hoá, đã dạy thuần
+
++ a tame monkey: một con khỉ đã dạy thuần
+- lành, dễ bảo, nhu mì
+
++ a very tame animal: một con vật rất lành
+- đã trồng trọt (đất)
+- bị chế ngự
+- nhạt, vô vị, buồn tẻ
+
++ a tame basket-ball match: một trận đấu bóng rổ buồn tẻ
+
++ a tame story: một câu chuyện nhạt nhẽo
+*  ngdgt
+- dạy cho thuần, thuần hoá; làm cho không sợ người, làm cho dạn
+
++ tiger is hard to tame: hổ khó dạy cho thuần
+- chế ngự, làm cho quy phục, làm cho (nhuệ khí, tinh thần...) nhụt đi
+*  ndgt
+- dạn đi, quen đi
+- trở nên nhạt nhẽo, trở nên vô vị
+
+@tameable   (tamable) @tameless  
+*  tt
+- không thuần hoá được; không bảo được
+- không chế ngự được, không khuất phục được
+
+@tamely
+* dt
+- thuần, đã thuần hoá (thú rừng )
+- <đùa> lành, dễ bảo; phục tùng (người)
+- đã trồng trọt (đất)
+- bị chế ngự, bị thuần phục
+- tẻ, nhạt nhẽo, vô vị
+ @tameness  
+*  dt
+- tính thuần; tính dễ bảo
+- tính nhát gan, tính non gan
+- tính chất nhạt nhẽo, tính chất vô vị, tính chất buồn tẻ (văn chương...)
+
+@tamer  
+*  dt
+- người dạy thú
+
+@tamil
+* dt
+- người Ta-min (người gốc Nam ấn Độ và Sri lăng-ca)
+- tiếng Ta-min
+* tt
+- thuộc về dân tộc Tamin
+ @tamis
+* dt
+- cái rá lọc; cái rây (mặt bằng vải)
+ @tammy  
+*  dt
+- vải mặt rây
+- lượt, sa
+- (như) tam-o'-shanter
+
+@tam-o'-shanter  
+*  dt
+- mũ bêrê Ê-cốt
+
+@tamp  
+*  ngdgt
+- nhét, nhồi (thuốc lá vào tẩu...)
+- đầm, nện
+
++ to tamp the ground: đầm đất
+
+@tamper  
+*  dt
+- người đầm (đất)
+- cái đầm (để đầm đất)
+*  ndgt (: with)
+- vầy vào, lục lọi, làm xáo trộn
+
++ to tamper with the cash: lục lọi tủ tiền
+- mua chuộc, đút lót
+
++ to tamper with someone: mua chuộc ai
+- giả mạo, làm giả, chữa (giấy tờ...)
+
++ to tamper with a document: làm giả tài liệu
+
+@tamperer  
+*  dt
+- người mua chuộc, người đút lót
+- người giả mạo (giấy tờ)
+
+@tampering  
+*  dt
+- sự lục lọi, sự xáo trộn, sự làm lộn xộn
+- sự mua chuộc, sự đút lót (nhân chứng...)
+- sự giả mạo, sự làm giả (giấy tờ)
+
+@tamper-proof
+* tt
+- bảo đảm chống lục lọi, chống trộm cắp
+ @tamping  
+*  dt
+- sự nhét, sự nhồi (thuốc lá vào tẩu...)
+- sự đầm, sự nện (đất)
+
+@tampion   (tompion) @tampon  
+*  dt
+- độn tóc giả
+- (y học) nút gạc
+*  ngdgt
+- độn, đệm
+- (y học) đặt nút gạc
+
+@tamtam   (tamtam) @tan  
+*  dt
+- vỏ dà, vỏ thuộc da
+- màu nâu
+- màu da rám nắng
+*  tt
+- màu vỏ dà, màu nâu
+- màu rám nắng
+*  ngdgt
+- thuộc (da)
+- làm sạm, làm rám (da)
+- (thông tục) đánh đòn đau
+*  ndgt
+- thuộc được (da)
+
++ this leather tans easily: loại da này dễ thuộc
+- sạn lại, rám nắng (da)
+
+@tana   (tanna) @tanadar
+* dt
+- (ấn độ) đồn trưởng đồn cảnh sát
+- chỉ huy đồn lính
+ @tan-bark
+* dt
+- vỏ thuộc da
+ @tandem  
+*  dt
+- xe hai ngựa thắng con trước con sau
+- xe tăngđem, xe đạp hai người đạp
+*  tt & dt
+- bộ đôi cái trước cái sau
+
++ to drive tandem: thắng ngựa con trước con sau
+
+@tandoori
+* dt
+- kiểu thức ăn Ân độ nấu trên than trong nồi đất
+ @tang  
+*  dt
+- chuôi (dao...)
+*  ngdgt
+- lắp chuôi, làm chuôi (dao...)
+*  dt
+- tiếng ngân, tiếng rung, tiếng leng keng, tiếng lanh lảnh
+*  ngdgt
+- rung vang, làm vang, làm inh ỏi
+
++ to tang bees: khua vang lên cho ong không ra khỏi tổ
+*  ndgt
+- ngân vang lên, rung lên, kêu lanh lảnh
+*  dt
+- vị, mùi vị, hương vị
+- ý vị, đặc tính
+
++ the tang of Burns' poems: cái ý vị đặc biệt trong thơ của Bớc-nơ
+- ý, vẻ, giọng
+
++ there is a tang of displeasure in his voice: trong giọng nói của anh ta có ý không hài lòng
+*  dt
+- (thực vật học) tảo bẹ
+
+@tangency  
+*  dt
+- (toán học) tính tiếp tuyến
+
+@tangency
+- sự tiếp xúc
+ @Tangency equilibrium
+- (Econ) Tiếp điểm cân bằng.
+ @tangent  
+*  tt
+- (toán học) tiếp xúc, tiếp tuyến
+
++ tangent bundle: chùm tiếp tuyến
+
++ tangent circles: vòng tiếp xúc
+*  dt
+- (toán học) đường tiếp tuyến
+- tang
+!to fly (go) off at a tangent
+- đi chệch ra ngoài vấn đề đang bàn; đi chệch ra khỏi nếp nghĩ (cách cư xử) hằng ngày
+
+@tangent
+- tiếp xúc; tiếp tuyến; tang
+- arc t. actang
+- asymptotic t. tiếp tuyến tiệm cận
+- common t. tiếp tuyến chung
+- conjugate t.s tiếp tuyến liên hợp
+- consecutive t.s các tiếp tuyến liên tiếp 
+- double t. tiếp tuyến kép
+- externally t. tiếp xúc ngoài
+- inflexional t. tiếp tuyến uốn
+- polar t. tiếp tuyến cực
+- principal t. tiếp tuyến chính
+- simple t. tiếp tuyến đơn
+- singular t. tiếp tuyến kỳ dị
+- stationary t. tiếp tuyến dừng
+- triple t. tiếp tuyến bội ba 
+ @tangential  
+*  tt
+- tiếp tuyến
+
++ tangential acceleration: gia tốc tiếp tuyến
+
++ tangential curvature: độ cong tiếp tuyến
+
+@tangential
+- (thuộc) tiếp tuyến
+ @tangerine  
+*  dt
+- quả quít ((cũng) tangerine orange)
+
+@tangerine orange
+* dt
+- quả quít
+ @tangibility  
+*  dt
+- tính có thể sờ mó được
+- (nghĩa bóng) tính đích thực, tính xác thực, tính rõ ràng
+
+@tangible  
+*  tt
+- có thể sờ mó được, hữu hình
+
++ tangible world: thế giới hữu hình
+- đích xác, xác thực, hiển nhiên, rõ ràng, không thể nghi ngờ được
+
++ tangible proofs: những bằng chứng rõ ràng
+
+@Tangible assets
+- (Econ) Tài sản hữu hình.
+: Các tài sản vật chất như nhà máy, máy móc, có thể được phân biệt với tài sản vô hình như giá trị của một bằng phát minh hay tiếng tăm của một công ty.
+ @Tangible wealth
+- (Econ) Của cải hữu hình.
+ @tangibles  
+*  dt số nhiều
+- (từ Mỹ,nghĩa Mỹ) của cải vật chất; vật hữu hình
+
+@tangibly
+* dt
+- hữu hình, có thể sờ mó được
+- xác thực, hiển nhiên, rõ ràng, không thể nghi ngờ được; có thật
+ @tangle  
+*  dt
+- (thực vật học) tảo bẹ
+- mớ rối, mớ lộn xộn
+
++ to make a tangle of the ball of wool: làm rối cuộn len
+- tình trạng lộn xộn, tình trạng rối rắm, trạng thái rối ren, trạng thái phức tạp
+
++ to be in a tangle: bị lạc đường lối; rối rắm, quẫn
+
++ to get in a tangle: rối trí, lúng túng
+*  ngdgt
+- làm rối, làm rối tung, làm lộn xộn
+
++ to tangle one's hair: làm rối tóc
+- (nghĩa bóng) làm rối tung, làm phức tạp
+
++ like a tangled skein: rối tung, rối như tơ vò
+*  ndgt
+- rối, quấn vào nhau, vướng vào nhau
+- trở nên rối rắm, trở nên phức tạp; rối trí, bối rối
+
+@tangled
+* tt
+- rối, lộn xộn
+ @tanglefoot  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) rượu uytky
+
+@tangly  
+*  tt
+- rối, rối rắm, rắc rối
+
++ a tangly ball of wool: một cuộn len rối
+
++ tangly situation: tình thế rối rắm
+
+@tango  
+*  dt,  số nhiều tangos
+- điệu nhảy tănggô
+
++ to dance the tango: nhảy điệu tănggô
+*  ndgt
+- nhảy điệu tănggô
+
+@tangy
+* tt
+- có mùi thơm, có hương thơm
+ @tan-house   (tan-house) @tank  
+*  dt
+- thùng, két, bể (chứa nước, dầu...)
+- xe tăng
+
+@tank drama  
+*  dt
+- (sân khấu),  (từ lóng) kịch ly kỳ có màn cứu người chết đuối
+
+@tank engine   (tank_locomotive) @tank locomotive   (tank_locomotive) @tank ship   (tank_vessel) @tank town  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (ngành đường sắt) ga xép (xe lửa đỗ lấy nước)
+- tỉnh xép, tỉnh nhỏ
+
+@tank truck
+* dt
+- <Mỹ> xe ô tô có két to hình ống để chở sữa (dầu )
+ @tank vessel   (tank_vessel) @tankable
+* tt
+- xe tăng qua được
+ @tankage  
+*  dt
+- sự cất vào thùng, sự chứa trong thùng
+- phí tổn bảo quản trong thùng
+- sức chứa, sức đựng (của thùng, bể)
+- chất lắng đọng trong thùng
+- (nông nghiệp) bã làm phân
+
+@tankard  
+*  dt
+- cốc vại, ca (có nắp, để uống bia)
+
+@tank-buster
+* dt; (quân đội,  (thông tục))
+- phương tiện chống tăng
+- máy bay chống tăng
+- súng chống tăng
+ @tank-car  
+*  dt
+- (ngành đường sắt) toa (chở) dầu, toa (chở) nước
+
+@tank-engine
+* dt
+- (đường sắt) đầu máy có mang két nước
+ @tanker  
+*  dt
+- tàu chở dầu
+- xe chở sữa
+- máy bay tiếp dầu (cho máy bay khác trên không)
+
+@tankful  
+*  dt
+- thùng (đầy), bể (đầy) (nước, dầu...)
+
+@tankhead
+* dt
+- (quân sự) đầu cầu do xe tăng chiếm lĩnh
+ @tankman  
+*  dt
+- chiến sĩ lái xe tăng
+
+@tankproof
+* tt
+- (quân sự) chống tăng
+ @tanna   (tanna) @tannage
+* dt
+- sự thuộc da
+- da thuộc
+ @tanner  
+*  dt
+- thợ thuộc da
+- (từ lóng) đồng sáu xu (tiền Anh)
+
+@tannery   (tan-house) @tannic  
+*  tt
+- (hoá học) Tanic
+
++ tannic acid: axit tanic
+
+@tannin  
+*  dt
+- (hoá học) Tanin
+
+@tanning  
+*  dt
+- sự thuộc da
+- (thông tục) trận roi, trận đòn
+
+@tannoy
+* dt
+- hệ thống tăng âm điện tử (trong các rạp hát, phòng hợp )
+- hệ thống truyền thanh (để thông báo ở nơi công cộng)
+ @tansy  
+*  dt
+- (thực vật học) cây cúc ngài
+
+@tanta
+* dt
+- cơn tức giận, cơn hờn dỗi, sự nổi cơn tam bành
+ @tantalise   (tantalise) @tantalization  
+*  dt
+- sự nhử, sự nhử trêu ngươi
+
+@tantalize   (tantalise) @tantalizer  
+*  dt
+- người nhử trêu ngươi
+
+@tantalizing  
+*  tt
+- nhử trêu ngươi
+
+@tantalum  
+*  dt
+- (hoá học) Tantali
+
+@tantalus
+* dt
+- các loại bao bì đựng hàng vẫn cho thấy rõ ràng két hở (như) két bia, nước ngọt, bao bì trong suốt
+ @tantamount  
+*  tt
+- tương đương với, có giá trị như, nang với
+
++ his request is tantamount to a command: yêu cầu của ông ấy thật ngang với mệnh lệnh (thật chẳng khác gì một mệnh lệnh)
+
+@tantivy  
+*  dt
+- nước đại (ngựa)
+*  tt & dt
+- nhanh, mau
+*  ndgt
+- lao nhanh, phi nước đại
+
+@tantony
+* dt
+- (hay tantony bell) chuông con; chuông lắc tay
+- lợn (heo) con nhỏ nhất (trong cùng lứa) (hay tantony pig)
+ @tantra
+* dt
+- cơn tức giận, cơn hờn dỗi, sự nổi cơn tam bành
+ @tantrum  
+*  dt
+- cơn giận, cơn thịnh nộ, cơn tam bành
+
++ to fly into a tantrum: nổi giận
+
+@tan-yard
+* dt
+- xưởng thuộc da
+ @tao
+* dt
+- (triết học) Đạo (trong chủ thuyết của Lão Tử)
+* dt
+- (triết học) Đạo (trong chủ thuyết của Lão Tử)
+ @taoism  
+*  dt
+- đạo Lão
+
+@taoist  
+*  dt
+- người theo đạo Lão
+
+@tap  
+*  dt
+- vòi (nước)
+
++ to turn the tap on: mở vòi
+
++ to turn the tap off: đóng vòi
+- nút thùng rượu
+- loại, hạng (rượu)
+
++ wine of an excellent tap: rượu vang thượng hạng
+- quán rượu, tiệm rượu
+- (điện học) dây rẽ (vào đường dây điện thoại...)
+- mẻ thép (chảy ra lò)
+- (kỹ thuật) bàn ren,  tarô
+*  ngdgt
+- khoan lỗ, giùi lỗ (ở thùng)
+- rót (rượu) ở thùng ra
+- rạch (cây để lấy nhựa)
+- (y học) chích (mủ)
+- cho (thép) chảy ra (khỏi lò)
+- rút ra, bòn rút; vòi, bắt đưa, bắt nộp
+
++ to tap someone for money: vòi tiền ai; bòn rút tiền ai
+
++ to tap someone for information: bắt ai cung cấp tin tức
+- (điện học) mắc đường dây rẽ (vào đường dây điện thoại...)
+
++ to tap somebody's telephone: mắc đường dây rẽ vào dây nói của ai (để nghe trộm)
+- đề cập đến, bàn đến (một vấn đề)
+- đặt quan hệ với, đặt quan hệ buôn bán với (một nước)
+- cầu xin (ai)
+- (kỹ thuật) ren
+*  dt
+- cái gõ nhẹ, cái vỗ nhẹ, cái đập nhẹ, cái tát khẽ
+- tiếng gõ nhẹ
+
++ to hear a tap at the window: nghe có tiếng gõ nhẹ ở cửa sổ
+- (số nhiều) (từ Mỹ,nghĩa Mỹ),  (quân sự) hiệu báo giờ tắt đèn (bằng trống hay kèn); hiệu báo giờ ăn cơm (của lính ở trại)
+*  dgt
+- gõ nhẹ, vỗ nhẹ, đập nhẹ, khẽ đập, tát nhẹ
+
++ to tap someone on the shoulder: vỗ nhẹ vào vai ai
+
++ to tap at the door: gõ nhẹ vào cửa
+- đóng thêm một lớp da vào (đế giày)
+
+@Tap issue
+- (Econ) Bán lẻ chứng khoán liên tục.
+: Hệ thống mà chứng khoán viền vàng có thể mua được từ cơ quan môi giới chính phủ mua trên sở giao dịch chứng khoán London.
+ @tapas
+* dt (số nhiều)
+- món ăn mặn Tây ban Nha
+ @tap-bolt
+* dt
+- bù-loong có dầu
+ @tap-bond
+* dt
+- (từ Mỹ, nghĩa Mỹ) chứng khoán nhà nước
+ @tap-borer  
+*  dt
+- cái khoan lỗ thùng
+
+@tap-dance
+* dt
+- điệu nhảy clacket (điệu nhảy dùng bàn chân gõ nhịp cầu kỳ)
+* ndgt
+- nhảy điệu clacket
+ @tap-dancer
+* dt
+- người nhảy điệu clacket
+ @tap-dancing  
+*  dt
+- điệu nhảy clacket
+
+@tape  
+*  dt
+- dây, dải (để gói, buộc, viền)
+- băng
+
++ a tape of paper: một băng giấy
+- băng ghi âm, băng điện tín
+- (thể dục,thể thao) dây chăng ở đích
+
++ to breast the tape: tới đích đầu tiên
+*  ngdgt
+- viền
+
++ to tape a dress: viền một cái áo
+- buộc
+
++ to tape a parcel: buộc một cái gói
+- đo bằng thước dây
+- đánh dấu; tính ra chỗ (đặt cái gì...)
+
++ to tape an enemy battery: tính ra chỗ đặt một ổ pháo của địch
+- (thông tục) đo, tính, xét, nắm
+
++ I've got the situation taped: tôi đã nắm vững tình hình
+
+@tape
+- băng
+- blank t. (máy tính) băng sạch, băng trống 
+- data t. (máy tính) băng số, băng có tin
+- library t. (máy tính) băng thư viện
+- magnetic t. (máy tính) băng từ 
+- measuring t. (máy tính) băng đo
+- order t. (máy tính) băng lệnh
+- paper t. (máy tính) băng giấy 
+- punched t. (máy tính) băng đã đục lỗ 
+ @tape deck
+* dt
+- máy ghi âm băng từ làm thành một bộ phận của một dàn âm thanh nổi
+ @tape-line   (tape-measure) @tape-line, tape-measure
+- thước uốn
+ @tape-machine   (tape-machine) @tape-measure   (tape-measure) @taper  
+*  dt
+- cây nến nhỏ
+*  tt
+- vuốt, thon, nhọn, búp măng
+
++ taper fingers: ngón tay búp măng
+*  dgt
+- vuốt thon, thon hình búp măng
+
+@tape-record
+* ngdgt
+- ghi âm
+ @tape-recorder   (tape-machine) @tape-recording  
+*  dt
+- sự ghi trên máy ghi âm
+
+@tapered
+* tt
+- hình nón; có dạng cái nêm
+- vót thon; vót nhọn
+ @tapering  
+*  tt
+- thon thon, bóp nhọn, búp măng
+
++ tapering trousers: quần thót ống, quần bóp ống
+
+@tapestried  
+*  tt
+- trải thảm, trang trí bằng thảm
+
+@tapestry  
+*  dt
+- tấm thảm
+*  ngdgt
+- trang trí bằng thảm
+
+@tapestry-making  
+*  dt
+- thuật làm thảm
+
+@tapestry-weaver  
+*  dt
+- thợ dệt thảm
+
+@tapeworm  
+*  dt
+- (động vật học) sán dây, sán xơ mít
+
+@taphouse   (taphouse) @tapia
+* dt
+- bùn trát vách
+ @taping
+* dt
+- sự quấn bọc (bằng băng cách điện)
+- sự đo bằng thước dây
+ @tapioca  
+*  dt
+- bột sắn hột,  tapiôca
+
+@tapir  
+*  dt
+- (động vật học) heo vòi
+
+@tapis  
+*  dt
+- tấm thảm
+!to come (be) on the tapis
+- được đưa ra bàn
+
+@tapper  
+*  dt
+- Manip điện báo
+
+@tappet
+* dt
+- bộ phận chuyền động (cần của một bộ phận máy để truyền động bằng cách gõ vào cái gì; dùng để mở, đóng một cái van )
+ @taproom   (taphouse) @tap-root  
+*  dt
+- (thực vật học) rễ cái
+
+@taproot
+* dt
+- (thực vật) rễ cái
+ @tapster  
+*  dt
+- nhân viên phục vụ ở cửa hàng giải khát
+
+@tap-water
+* dt
+- nước máy (nước được cung cấp qua các ống dẫn tới các vòi trong một ngôi nhà)
+ @tar  
+*  dt
+- thuỷ thủ ((cũng) jakc tar)
+- nhựa đường, hắc ín
+
++ to cover with tar: rải nhựa; bôi hắc ín
+
++ mineral tar: nhựa bitum, nhựa đường
+*  ngdgt
+- bôi hắc ín; rải nhựa
+
++ to tar and feather someone: trừng phạt ai bằng cách bôi hắc ín rồi trét lông
+- (nghĩa bóng) làm nhục
+!to be tarred with the same brush (stick)
+- có những khuyết điểm như nhau
+
+@tar macadam  
+*  dt
+- đá giăm trộn hắc ín (để rải mặt đường)
+
+@taradiddle   (tarradiddle) @taramasalata
+* dt
+- bột ăn được (thường màu hồng) làm bằng trứng cá đối, cá phèn hoặc cá tuyết hun khói
+ @tarantare
+- xem taratantara
+ @tarantella   (tarantelle) @tarantelle   (tarantelle) @tarantula
+* dt
+- nhện đen lớn ở Nam Âu, nhện lớn lông lá ở vùng nhiệt đới
+ @tarasxcum
+* dt
+- (thực vật học) cây bồ công anh Trung quốc
+ @taratantara  
+*  dt
+- tiếng trống tùng tùng; tiếng tù và
+
+@taraxacum  
+*  dt
+- (thực vật học) cây bồ công anh Trung quốc
+
+@tarboosh  
+*  dt
+- mũ khăn (của người A-rập)
+
+@tar-brush  
+*  dt
+- chổi quét hắc ín
+
+@tardigrade  
+*  tt
+- (động vật học) đi chậm, (thuộc) loài đi chậm
+
+@tardily
+* dt
+- chậm chạp, thiếu khẩn trương, đà đẫn (về hành động, xảy ra, di chuyển)
+- chậm, muộn, trễ (về hành động, người)
+ @tardiness  
+*  dt
+- sự chậm chạp, sự thiếu khẩn trương, sự đà đẫn
+- sự chậm trễ, sự muộn
+
+@tardo  
+*  dt & dt
+- (âm nhạc) chậm
+
+@tardy  
+*  tt
+- chậm chạp, thiếu khẩn trương, đà đẫn
+- muộn, trễ
+
+@tare  
+*  dt
+- (thực vật học) đậu tằm
+*  dt
+- bì (cân)
+*  ngdgt
+- cân bì
+
+@targe  
+*  dt
+- (sử học) khiên nhỏ, mộc nhỏ
+
+@target  
+*  dt
+- bia (để bắn)
+
++ target practice: sự tập bắn bia
+- mục tiêu, đích (đen & bóng)
+
++ selected target: mục tiêu chọn lọc
+
++ target area: vùng mục tiêu
+- (ngành đường sắt) cọc tín hiệu (cắm ở đường ghi)
+- (từ cổ,nghĩa cổ) khiên nhỏ, mộc nhỏ
+- chỉ tiêu phấn đấu
+
+@target
+- mục tiêu
+ @Targets
+- (Econ) Mục tiêu (định lượng).
+: Còn gọi là mục tiêu chính sách. Là một loạt các mục tiêu định lượng của chính sách kinh tế phải đạt được bằng việc lựa chọn các giá trị của CÔNG CỤ CHÍNH SÁCH.
+ @tariff  
+*  dt
+- giá
+- bảng kẻ giá
+- thuế quan, thuế xuất nhập khẩu (một loại hàng gì)
+
++ preferential tariff: thuế quan ưu đãi
+- biểu thuế quan
+
++ tariff reform: sự sửa đổi chế độ thuế quan; (từ Mỹ,nghĩa Mỹ) sự bãi bỏ chế độ thuế quan
+*  ngdgt
+- định giá
+- định thuế
+
+@Tariff
+- (Econ) Thuế quan.
+: Thuế đánh vào một hàng hoá nhập khẩu ở một quốc gia.
+ @tariff
+- (toán kinh tế) băng giá
+- protective t. (toán kinh tế) băng giá bảo vệ 
+ @Tariff factory
+- (Econ) Nhà máy tránh thuế quan.
+: Việc thay đổi địa điểm sản xuất một hàng hoá từ một nơi có giá thành thấp tới một nơi có giá thành cao ở một nước khác- nơi mà không thể bán mặt hàng này được do thuế quan cao.
+ @Tariff Structure
+- (Econ) Khung biểu thuế quan.
+: Hình thái toàn bộ của các mức thuế quan.
+ @tarmac  
+*  dt
+- (viết tắt) của tar_macadam
+
+@tarn  
+*  dt
+- hồ nhỏ ở núi
+- (động vật học) nhạn biển ((như) tern)
+
+@tarnish  
+*  dt
+- trạng thái mờ, trạng thái xỉn
+- (nghĩa rộng) vết nhơ, vết bẩn, điều xấu
+*  ngdgt
+- làm cho mờ, làm cho xỉn
+
++ to tarnish the mirror: làm cho gương mờ
+- (nghĩa rộng) làm lu mờ; làm ô uế, làm nhơ nhuốc
+
++ to tarnish one's reputation: làm lu mờ thanh danh của mình
+*  ndgt
+- mờ đi, xỉn đi
+
+@tarnishable  
+*  tt
+- có thể mờ, có thể xỉn đi
+
+@taro  
+*  dt,  số nhiều taros
+- (thực vật học) cây khoai sọ; cây khoai nước
+- củ khoai sọ; củ khoai nước
+
+@taroc   (tarot) @tarot   (tarot) @tarpaulin  
+*  dt
+- vải nhựa, vải dầu
+- (hàng hải) mũ bằng vải dầu
+- (từ cổ,nghĩa cổ) thuỷ thủ
+
+@tarpon  
+*  dt
+- (động vật học) cá cháo
+
+@tarradiddle   (tarradiddle) @tarragon  
+*  dt
+- (thực vật học) cây ngải giấm
+
+@tarred
+* tt
+- thuộc nhựa cây
+- tẩm (quét) nhựa
+ @tarring
+* dt
+- sự tẩm quét nhựa
+- sự rải nhựa; hắc ín (đường sá)
+ @tarrock  
+*  dt
+- (động vật học) mỏng biển con
+- nhạn biển
+- chim uria
+
+@tarry  
+*  tt
+- giống nhựa, giống hắc ín
+- quét nhựa, dính nhựa, quét hắc ín, dính hắc ín
+*  ndgt
+- (văn học) (: at,  in) ở lại, nán lại, lưu lại
+- chậm, trễ
+- (: for) đợi chờ
+
+@tarrying  
+*  dt
+- sự ở lại, sự nán lại, sự lưu lại
+- sự chậm trễ
+- sự đời chờ
+
+@tarsal  
+*  tt
+- (giải phẫu) (thuộc) khối xương cổ chân, (thuộc) tụ cốt cổ chân
+
+@tar-sealed  
+*  tt
+- (Tân tây lan) rải đá giăm trộn hắc ín
+
+@tarsi  
+*  dt,  số nhiều ttarsi
+- (giải phẫu) khối xương cổ chân, tụ cốt cổ chân
+
+@tarsus  
+*  dt,  số nhiều ttarsi
+- (giải phẫu) khối xương cổ chân, tụ cốt cổ chân
+
+@tart  
+*  dt
+- bánh nhân hoa quả
+- (từ lóng) người con gái hư, người con gái đĩ thoả
+*  tt
+- chua; chát
+- (nghĩa bóng) chua, chua chát, chua cay
+
++ a tart answer: một câu trả lời chua chát
+- hay cáu gắt, quàn quạu, bắn tính (người, tính nết)
+
+@tartan  
+*  dt
+- vải len kẻ ô vuông (của người Ê-cốt)
+- (hàng hải) thuyền tactan (thuyền một buồm ở Địa trung hải)
+
+@tartane
+- xem tartan
+ @tartar  
+*  dt (Tartar): (Tatar) 
+@tartar sauce
+* dt
+- nước xốt mayonne nguội trộn với hành, nụ bạch hoa giầm, dưa chuột  ăn với cá
+ @tartarean
+* tt
+- độc ác; giảo quyệt
+ @tartarian  
+*  tt
+- (thuộc) Tác-ta
+
+@tartaric  
+*  tt
+- (hoá học) Tactric
+
+@tartaric acid
+* dt
+- axit tactric (axit hữu cơ có trong nhiều loại cây và nước quả, dùng làm bột nở)
+ @tartish  
+*  tt
+- hơi chua; hơi chát
+
+@tartlet  
+*  dt
+- bánh nhân hoa quả nhỏ
+
+@tartness  
+*  dt
+- tính chua, vị chua; vị chát
+- (nghĩa bóng) tính chua chát, tính chua cay (của lời nói...)
+- tính hay cáu gắt, tính quàu quạu
+
+@tartufe   (Tartuffe) @tartuffe   (Tartuffe) @tar-water
+* dt
+- nước nhựa chương (thuốc sát trùng)
+ @tarzan
+* dt
+- người khoẻ mạnh, lanh lẹ (tên một nhân vật trong truyện E R Burroughs)
+ @task  
+*  dt
+- nhiệm vụ, nghĩa vụ, phận sự
+
++ a difficult task: một nhiệm vụ khó khăn
+- bài làm, bài tập
+
++ give the boys a task to do: hãy ra bài tập cho các học sinh làm
+- công tác, công việc
+- lời quở trách, lời phê bình, lời mắng nhiếc
+!to take to task
+- quở trách, phê bình, mắng nhiếc
+!task force
+- (quân sự) đơn vị tác chiến đặc biệt
+*  ngdgt
+- giao nhiệm vụ, giao việc
+
++ to task someone to do something: giao cho ai làm việc gì
+- chồng chất lên, bắt gánh vác, thử thách, làm mệt mỏi, làm căng thẳng
+
++ mathematics tasks the child's brain: toán học làm cho đầu óc em nhỏ căng thẳng
+
+@task force
+* dt
+- lực lượng đặc nhiệm
+ @tasker
+* dt
+- người giao nhiệm vụ
+- xem taskmaster
+- (phương ngữ) người làm khoán
+ @taskmaster  
+*  dt
+- người giao việc, người phân cắt công việc
+
+@taskmistress
+* dt(giống đực)  taskmaster
+- nữ đốc công
+ @taskwork  
+*  dt
+- việc làm khoán
+
+@tass
+* (viết tắt)
+- cơ quan thông tấn chính thức của Liên Xô cũ (tiếng nga Telegrafnoye Agenstvo Sovietskovo Soyuza)
+ @tassel  
+*  dt
+- quả tua, núm tua (bằng lông, len ở mũ, áo...)
+- dải làm dấu (khi đọc sách)
+- (thực vật học) cờ (cụm hoa đực ở cây ngô)
+*  ngdgt
+- trang sức bằng núm tua, kết tua
+- bẻ cờ (ở cây ngô)
+
+@tasseled
+- có núm tua, được trang trí bằng quả tua
+ @tasselled  
+*  tt
+- có núm tua
+
+@tastable  
+*  tt
+- có thể nếm được
+- ngon, ngon lành
+
+@taste  
+*  dt
+- vị
+
++ sweet taste: vị ngọt
+
++ to have no taste: không có vị, nhạt (rượu)
+- vị giác
+- sự nếm; sự nếm mùi, sự thưởng thức, sự trải qua, sự hưởng
+
++ he got a taste of her tantrum: anh ấy đã được biết cái cơn tam bành của mụ ta
+- một chút (đồ ăn)
+
++ a taste of sugar: một chút đường
+- sở thích, thị hiếu
+
++ to have a taste for music: thích nhạc
+
++ matter of taste: vấn đề sở thích, vấn đề thị hiếu
+
++ everyone to his taste: tuỳ sở thích riêng của mỗi người
+
++ to add salt to taste: thêm muối theo sở thích
+- khiếu thẩm mỹ
+
++ a man of taste: người có khiếu thẩm mỹ
+*  ngdgt
+- nếm
+
++ to taste sugar: nếm đường
+- nếm mùi, thưởng thức, hưởng
+
++ to taste the joy of freedom: hưởng niềm vui sướng của tự do
+- ăn uống ít, ăn uống qua loa, nhấm nháp
+
++ the sick boy hadn't tasted food for three days: em bé ốm đã ba ngày không ăn tí gì
+*  ndgt
+- có vị
+
++ to taste bitter: có vị đắng
+
++ the sweets taste of mint: kẹo này vị bạc hà
+- (nghĩa bóng) nếm mùi, biết mùi, hưởng, trải qua
+
++ to taste of happiness: hưởng hạnh phúc
+
+@Taste
+- (Econ) Sở thích, thị hiếu.
+ @taste-bud
+* dt
+- (thường snh) nụ vị giác (những hạt nhỏ lấm tấm trên lưỡi để nhận thức được vị), bộ phận cảm nhận vị
+ @tasteful  
+*  tt
+- nhã, trang nhã
+- có óc thẩm mỹ
+
+@tastefully
+* dt
+- nhã, trang nhã
+- có óc thẩm Mỹ, có vẻ thẩm Mỹ
+ @tastefulness  
+*  dt
+- tính chất nhã, tính trang nha
+- óc thẩm mỹ
+
+@tasteless  
+*  tt
+- vô vị, nhạt
+- không phân biệt được mùi vị
+
++ in a tasteless state: trong trạng thái không phân biệt được mùi vị
+- bất nhã, khiếm nhã
+
++ tasteless manner: thái độ khiếm nhã
+- nhạt nhẽo, thiếu mỹ thuật
+
++ a tasteless decoration: một lối trang trí thiếu mỹ thuật
+- không nhã, không trang nhã
+- không có óc thẩm mỹ
+
+@tastelessly
+* dt
+- vô vị, nhạt nhẽo
+- không phân biệt được mùi vị
+- bất nhã, khiếm nhã
+- không nhã, không trang nhã
+- thiếu Mỹ thuật, không có óc thẩm Mỹ
+ @tastelessness  
+*  dt
+- tính vô vị, tính nhạt nhẽo (đen & bóng)
+- tính bất nhã, tính khiếm nhã
+- tính không trang nhã
+- sự thiếu óc thẩm mỹ
+
+@taster  
+*  dt
+- người nếm; người nếm rượu, người nếm trà
+- cốc để nếm
+- người duyệt bản thảo
+
+@tastily
+* dt
+- ngon, đầy hương vị
+ @tastiness  
+*  dt
+- vị ngon, tính ngon lành
+- (thông tục) tính nhã, tính nền
+
+@tasting
+* dt
+- cuộc thi nếm
+- (tạo nên những tt ghép) có vị được nói rõ
+ @tasty  
+*  tt
+- ngon
+- (thông tục) nhã, nền
+
+@tat  
+*  dt
+- tit you tat ăn miếng trả miếng
+- (Anh-Ân) ngựa nhỏ
+*  ndgt
+- đan ren, làm đăng ten
+
+@ta-ta  
+*  thán từ
+- buây gioác
+
+@tatar  
+*  dt (Tartar): (Tatar) 
+@tatarian
+- Cách viết khác : tataric 
+ @Tatonnement
+- (Econ) Dò dẫm.
+: Quá trình mặc cả qua đó điểm cân bằng đạt được trên thị trường Walras.
+ @tatou  
+*  dt
+- (động vật học) con tatu
+
+@tatter  
+*  dt,  (thường) số nhiều
+- miếng, mảnh (vải, giấy)
+
++ to tear to tatters: xé vụn ra từng mảnh
+- giẻ rách; quần áo rách rưới
+
++ to be in tatters: ăn mặc rách rưới
+
+@tatterdemalion  
+*  dt
+- người ăn mặc rách rưới
+
+@tatterdemallion
+* dt
+- người ăn mặc rách rưới; đồ lưu manh
+ @tattered  
+*  tt
+- rách nát, bị xé vụn, tả tơi
+
++ all tattered and torn: rách rưới tả tơi
+- ăn mặc rách rưới
+
+@tatters
+* dt, pl
+- những mảnh vải rách lung tung
+- giẻ rách; quần áo rách rưới, quần áo tả tơi
+- <bóng> vật còn lại vô ích
+ @tattery  
+*  tt
+- xé vụn, rách rưới, rách tã, tả tươi
+
+@tattily
+* dt
+- <thgt> tồi tàn, rách rưới, không sạch sẽ
+- xấu xí, kém cỏi
+- <thgt> rẻ tiền và loè loẹt
+ @tattiness
+* dt
+- <thgt> sự tồi tàn, sự rách rưới, tình trạng không sạch sẽ
+- sự xấu xí, sự kém cỏi
+- <thgt> sự rẻ tiền và loè loẹt
+ @tatting  
+*  dt
+- đăng ten, ren
+
+@tattle  
+*  dt
+- lời nói ba hoa; chuyện ba hoa; chuyện ba láp, chuyện tầm phào
+*  dgt
+- ba hoa; nói ba láp, nói chuyện tầm phào
+
++ to tattle a secret: ba hoa lộ bí mật
+
+@tattler  
+*  dt
+- người ba hoa, người bẻm mép; người hay nói chuyện nhảm, người hay nói chuyện tầm phào
+
+@tattle-tale
+- người ba hoa, người bẻm mép; người hay nói chuyện nhảm, người hay nói chuyện tầm phào
+ @tattletale
+* dt
+- người ba hoa; người hay nói chuyện tầm phào
+ @tattoo  
+*  dt
+- (quân sự) hiệu trống tập trung buổi tối
+- hồi trống dồn, tiếng gõ dồn
+
++ to beat the devil's tattoo: gõ dồn ngón tay
+- dạ hội quân đội (có trống)
+*  ndgt
+- (quân sự) đánh trống tập trung buổi tối
+- đánh dồn (trống); gõ dồn (ngón tay)
+*  dt
+- hình xăm trên da
+- sự xăm mình
+*  ngdgt
+- xăm (da...)
+
+@tattooer  
+*  dt
+- người xăm mình
+
+@tatty
+* tt
+- <thgt> tồi tàn, rách rưới, không sạch sẽ
+- xấu xí, kém cỏi
+- <thgt> rẻ tiền và loè loẹt
+ @tatu
+- xem tatou
+ @tau
+- tô (&#964;)
+ @Tauberian
+- (thuộc) Tôbe
+ @taught  
+*  dgt taught
+- dạy, dạy học; dạy bảo, dạy dỗ
+
++ to teach children to swim: dạy cho trẻ con tập bơi
+
++ to teach school: (từ Mỹ,nghĩa Mỹ) dạy học ở một trường, làm nghề nhà giáo
+
+@taunt  
+*  tt
+- (hàng hải) rất cao (cột buồm)
+*  dt
+- lời mắng nhiếc, lời quở trách
+- lời chế nhạo
+- cái đích để chế giễu
+
++ he became a taunt to his mates: nó trở thành cái đích để bạn bè chế giễu
+*  ngdgt
+- mắng nhiếc, quở trách, chửi bới
+- chế nhạo
+
+@taunting
+* tt
+- cay độc; châm chọc; chua ngoa; chua chát
+ @tauntingly  
+*  dt
+- với giọng quở trách, với giọng mắng nhiếc
+- châm chọc
+
+@taupe
+* tt hoặc dt
+- màu nâu sẫm
+ @taurine  
+*  tt
+- (thuộc) bò đực
+- (thiên văn học) (thuộc) sao Kim ngưu
+
+@tauromachy  
+*  dt
+- cuộc đấu bò
+
+@taurus  
+*  dt
+- (thiên văn học) chòm sao Kim ngưu
+
+@taut  
+*  tt
+- (hàng hải) kéo căng, căng (dây thừng, chão)
+- tốt, chạy tốt (tàu, thuyền)
+- (thông tục) căng thẳng
+
++ taut nerves: thần kinh căng thẳng
+
++ taut situation: tình hình căng thẳng
+
+@tauten  
+*  ngdgt
+- (hàng hải) kéo căng, căng ra
+
+@tautly  
+*  dt
+- căng thẳng
+- sẵn sàng (hành động)
+
+@tautness  
+*  dt
+- tính căng
+- tình trạng tốt
+- tính căng thẳng; tình trạng căng thẳng
+
+@tautochrone
+- (hình học) đẳng thời   đường đẳng thời
+@tautologic   (tautological) @tautological   (tautological) @tautologise   (tautologise) @tautologist  
+*  dt
+- người hay dùng phép lặp thừa
+
+@tautologival
+- (logic học) (thuộc) hằng đúng, hằng hiệu
+ @tautologize   (tautologise) @tautologous
+* tt
+- lặp thừa, lặp lại không cần thiết
+ @tautology  
+*  dt
+- (ngôn ngữ học) phép lặp thừa
+
+@tautomerism  
+*  dt
+- (hoá học) hiện tượng tautome
+
+@tavern  
+*  dt
+- quán rượu
+- cửa hàng ăn uống
+
+@taverner  
+*  dt
+- chủ quán rượu
+- người thường lân la quán rượu
+
+@taw  
+*  ngdgt
+- thuộc trắng (thuộc da mà không dùng chất tanin, chỉ nhúng vào nước muối pha phèn)
+*  dt
+- hòn bi
+- trò chơi bi
+- đường giới hạn (trong trò chơi bi)
+
+@tawdriness  
+*  dt
+- tính loè loẹt, tính hào nhoáng
+
+@tawdry  
+*  tt
+- loè loẹt, hào nhoáng
+
++ ornament: đồ trang trí loè loẹt
+*  dt
+- đồ loè loẹt vô giá trị
+
+@tawer  
+*  dt
+- người thuộc da trắng
+
+@tawery  
+*  dt
+- nghề thuộc da trắng
+- nghề bán da trắng
+
+@tawniness  
+*  dt
+- màu hung hung
+- màu ngăm ngăm đen
+
+@tawny  
+*  tt
+- hung hung
+- ngăm ngăm đen
+
+@tax  
+*  dt
+- thuế, cước
+- (nghĩa bóng) gánh nặng; sự thử thách, sự đòi hỏi lớn
+
++ a tax on one's strength: một gánh nặng đối với sức mình
+*  ngdgt
+- đánh thuế, đánh cước
+- (nghĩa bóng) đè nặng lên, bắt phải cố gắng
+
++ to tax someone's patience: đòi hỏi ai phải kiên nhẫn rất nhiều
+- quy cho, chê
+
++ to tax someone with neglect: chê người nào sao lãng
+- (pháp lý) định chi phí kiện tụng
+
+@tax
+- (toán kinh tế) thuế
+- income t. thuế thu nhập
+- direct t. thuế trực thu
+- indirect t. thuế thân 
+ @Tax base
+- (Econ) Cơ sở thuế.
+: Xem TAXABLE INCOME.
+ @Tax burden
+- (Econ) Gánh nặng thuế.
+: Xem AVERAGE RATE OF TAX.
+ @Tax credit
+- (Econ) Ghi có thuế.
+: Đây là khoản ghi có trực tiếp đối với một loại thuế: khoản thuế phải trả được giảm đi bằng khoản ghi có.
+ @Tax credit scheme
+- (Econ) Cơ chế ghi có thuế.
+: Một chương trình DUY TRÌ THU NHẬP, trong đó mọi người được bảo đảm một khoản thu nhập tối thiểu trong khi thu nhập trên mức đó sẽ bị đánh thuế.
+ @Tax disincentive
+- (Econ) Sự làm giảm khuyến khích của thuế.
+: THUẾ THU NHẬP có thể làm cho người ta làm việc ít hơn. Sự tồn tại của nó làm cho giải trí hấp dẫn hơn vì nó không chịu thuế. Điều này được gọi là HIỆU ỨNG THAY THẾ của thuế.
+ @Tax expenditure
+- (Econ) Chi tiêu (để) tránh thuế.
+: Cụm thuật ngữ dùng để chỉ các khoản khấu trừ mà được dùng để giảm nghĩa vụ nộp thuế - nói chung là nghĩa vụ nộp thuế thu nhập.
+ @tax haven
+* dt
+- nước có mức thuế thu nhập  thấp
+ @Tax incident
+- (Econ) Ai phải chịu thuế.
+ @tax return
+* dt
+- sự khai báo lợi tức để đóng thuế; bản khai thu nhập cá nhân (tập thể ) dùng để tính tiền thuế phải đóng
+ @Tax shifting
+- (Econ) Chuyển đẩy thuế.
+: HIện tượng mà trong đó những người phải chịu thuế có thể chuyển gánh nặng một phần hay toàn bộ cho những người khác.
+ @Tax wedge
+- (Econ) Chênh lệch giá do thuế.
+ @Tax yield
+- (Econ) Tiền thu thuế.
+: Doanh thu có được từ một loại thuế.
+ @taxability  
+*  dt
+- tính chất có thể đánh thuế được
+- tính chất có thể quy tội, tính chất có thể chê
+
+@taxable  
+*  tt
+- có thể đánh thuế được
+
++ a taxable article: một mặt hàng đánh thuế được
+- có thể quy cho là, có thể chê
+- chịu phí tổn
+
++ the expenses of the transport are taxable to the sender: phí tổn chuyên chở cho người gửi chịu
+
+@Taxable income
+- (Econ) Thu nhập chịu thuế.
+: Tổng thu nhập trừ đi các khoản trợ cấp và các khoản công tác phí .
+ @taxation  
+*  dt
+- sự đánh thuế
+- hệ thống thuế, thuế
+
++ supplementary taxation: thuế phụ thu
+
++ high taxation: thuế cao
+- tiền thuế thu được
+- (pháp lý) sự định chi phí kiện tụng
+
+@Taxation
+- (Econ) Sự đánh thuế.
+: Các khoản thanh toán mà chính phủ bắt buộc các cá nhân và công ty phải nộp nhằm huy động nguồn thu để trả cho các chi phí về hàng hoá công cộng và dịch vụ, và để kiểm soát lượng chi phí của khu vực tư nhân trong nền kinh tế.
+ @taxation
+- (toán kinh tế) sự đánh thuế, tiền thuế
+ @Tax-base incomes Policy
+- (Econ) Chính sách thu nhập dựa vào thuế.
+ @tax-collector   (tax-gatherer) @tax-deductible
+* tt
+- có thể được trừ vào thu nhập trước khi tính thuế phải đóng (về chi tiêu)
+ @tax-dodger  
+*  dt
+- người trốn thuế
+
+@tax-exempt
+* tt
+- được miễn thuế
+ @tax-farmer  
+*  dt
+- người thầu thuế
+
+@tax-free  
+*  tt
+- miễn thuế
+
+@tax-gatherer   (tax-gatherer) @tax-hike  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) sự tăng thuế
+
+@taxi  
+*  dt
+- xe tắc xi
+*  ndgt
+- đi tắc xi
+- (hàng không) chạy trên đất; trượt trên nước (khi cất cánh hoặc sau khi hạ cánh)
+
+@taxi-cab  
+*  dt
+- xe tắc xi
+
+@taxi-dancer  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) gái nhảy (ở các tiệm nhảy)
+
+@taxidermal   (taxidermic) @taxidermic   (taxidermic) @taxidermist  
+*  dt
+- người nhồi xác động vật
+
+@taxidermy  
+*  dt
+- khoa nhồi xác động vật
+
+@taxi-driver   (taxi-man) @taxiless
+* tt
+- được miễn thuế; không thuế
+ @taxi-man   (taxi-man) @taximeter  
+*  dt
+- đồng hồ chỉ tiền thuê tắc xi
+
+@taxing
+* tt
+- gây mệt mỏi; đòi hỏi cố gắng
+ @taxing-master
+* dt
+- (pháp lý) viên chức xác định chi phí tố tụng
+ @taxiplane  
+*  dt
+- máy bay tắc xi (cho thêu như kiểu xe tắc xi)
+
+@taxi-rank  
+*  dt
+- bến xe tắc xi
+
+@taxi-stand  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) taxi-rank
+
+@taxman
+* dt
+- người thu thuế
+- (the taxman)  <thgt> sở thuế vụ (bộ phận của chính phủ chịu trách nhiệm thu thuế)
+ @taxmen
+* dt
+- người thu thuế
+- (the taxman)  <thgt> sở thuế vụ (bộ phận của chính phủ chịu trách nhiệm thu thuế)
+ @taxology  
+*  dt
+- khoa phân loại học
+
+@taxon
+* dt
+- số nhiều taxa
+- sự xếp nhóm, nhóm đã được phân loại, sự xếp loại
+ @taxonomic   (taxonomical) @taxonomical   (taxonomical) @taxonomist  
+*  dt
+- nhà phân loại
+
+@taxonomy  
+*  dt
+- phép phân loại
+- nguyên tắc phân loại
+
+@taxpayer  
+*  dt
+- người đóng thuế
+
+@Tax-push inflation
+- (Econ) Lạm phát do thuế đẩy.
+: Lạm phát này liên quan đến quan tâm của công nhân trong việc duy trì mức tăng tiền công thực tế sau thuế và là một trong các yếu tố bị cho là đã làm thay đổi trong tiền công kém nhạy bén với các điều kiện của chiu kỳ kinh doanh.
+ @tête-à-tête  
+*  tt
+- không có kết cấu, vô định hình
+
+@

@@ -1,0 +1,5 @@
+@zloty  
+*  dt
+- đồng zlôti (tiền Ba lan)
+
+@

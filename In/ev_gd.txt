@@ -1,0 +1,18 @@
+@GDP
+- (Econ) Tổng sản phẩm quốc nội.
+: Xem GROSS DOMESTIC PRODUCT
+ @gdp
+* (viết tắt)
+- tổng sản lượng nội địa (Gross Domestic Product)
+ @GDP and nation income
+- (Econ) GDP và thu nhập quốc dân.
+ @GDP at factor cost
+- (Econ) GDP theo chi phí sản xuất.
+ @GDP at market prices
+- (Econ) GDP theo giá thị trường.
+ @GDP deflator
+- (Econ) Hệ số khử lạm phát cho GDP.
+ @gdr
+* (viết tắt)
+- Cộng hoà dân chủ Đức (German Democratic Republic)
+ @

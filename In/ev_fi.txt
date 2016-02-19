@@ -1,0 +1,4621 @@
+@fiacre  
+*  dt
+- xe ngựa bốn bánh
+
+@fiancé  
+*  dt
+- chồng chưa cưới
+
+@fiancée  
+*  dt
+- vợ chưa cưới
+
+@fianna fail  
+*  dt
+- đảng những người Ai-len vũ trang
+
+@fianna fall
+* dt
+- đảng những người Ai-len vũ trang
+ @fiar
+* dt
+- quyền thuê đất vĩnh viễn
+- người có quyền hưởng dụng suốt đời
+ @fiaschino
+* dt
+- số nhiều fiaschini
+- đồ gốm hình kỳ dị
+ @fiasco  
+*  dt,  số nhiều fiascos,  fiascoes
+- sự thất bại
+
+@fiat  
+*  dt
+- sắc lệnh, lệnh
+- sự đồng ý, sự tán thành, sự thừa nhận
+
++ to give one's fiat to something: tán thành việc gì
+- sự cho phép
+*  ngdgt
+- ban sắc lệnh
+- đồng ý, tán thành
+- (từ hiếm,nghĩa hiếm) cho phép
+
+@fiat money  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) tiền giấy (không đổi lấy vàng được)
+
+@Fiat money
+- (Econ) Tiền theo luật định
+: Tiền có vị thế được luật pháp quy định.
+ @Fiat (or token) money
+- (Econ) Tiền pháp định.
+ @fib  
+*  dt
+- điều nói dối nhỏ; chuyện bịa
+*  ndgt
+- nói dối, nói bịa
+*  dt
+- (thể dục,thể thao) cú đấm (quyền Anh)
+
+@fibber   (fibster) @fiber   (fiber) @fiber
+- (Tech) sợi, chất sợi, sợi quang (optical fiber)
+ @fiber
+- (tô pô) thớ, sợi
+ @Fiber Digital Data Interface (FDDI)
+- (Tech) giao diện truyền dữ liệu qua sợi quang
+ @fiber optics
+- (Tech) quang học sợi
+ @fiberboard   (fiberboard) @fiberglass  
+*  dt
+- sợi thuỷ tinh (để dệt)
+
+@fibering
+* tt
+- cấu trúc dạng sợi
+ @fiberizing
+* dt
+- sự kéo sợi, bện sợi, xe sợi
+ @fiberless   (fiberless) @fiber-optic cable
+- (Tech) cáp sợi quang
+ @fiber-optic transmission
+- (Tech) sự truyền sợi quang
+ @fiberpress
+* dt
+- máy ép sợi xơ (để làm gỗ ép)
+ @fiblre
+- thớ, sợi
+ @Fibonacci sequence
+- (Tech) dãy Fibonacci (Fibônachi), dãy lưỡng phân
+ @Fibonacci series
+- (Tech) dãy Fibonacci (Fibônachi)
+ @fibrage
+* dt
+- sự bện sợi
+ @fibration
+* dt
+- cấu trúc sợi, thớ
+ @fibration
+- sự phân thớ
+- local f. phân thớ địa phương
+- regular f. phân thớ chính quy
+- weak f. phân thớ yếu 
+ @fibre   (fiber) @fibreboard   (fiberboard) @fibred  
+*  tt
+- có sợi, có thớ
+
+@fibreglass
+* dt
+- vật liệu làm bằng sợi thủy tinh và nhựa, dùng để cách nhiệt và chế tạo ô tô, tàu thuyền...; sợi thuỷ tinh
+
++  a fibreglass racing yacht:thuyền buồm đua làm bằng sợi thủy tinh
+ @fibreless   (fiberless) @fibriform  
+*  tt
+- hình sợi
+
+@fibril  
+*  dt
+- sợi nhỏ, thớ nhỏ
+- (thực vật học) rễ tóc
+
+@fibrillar   (fibrillary) @fibrillary   (fibrillary) @fibrillate   (fibrillated) @fibrillated   (fibrillated) @fibrillation  
+*  dt
+- sự kết thành sợi nhỏ, sự kết thành thớ nhỏ
+
+@fibrilliform  
+*  tt
+- hình sợi nhỏ, hình thớ nhỏ
+- hình rễ tóc
+
+@fibrillose  
+*  tt
+- (như) fibrillate
+- như sợi nhỏ, như thớ nhỏ
+- như rễ tóc
+
+@fibrin  
+*  dt
+- tơ huyết,  fibrin
+
+@fibrinogen
+* dt
+- chất tạo tơ màu, tơ tuyết; fibrinogen
+ @fibrinogenic
+* tt
+- xem fibrinogen chỉ thuộc về
+ @fibrinogenous
+* tt
+- xem fibrinogenic
+ @fibrinous  
+*  tt
+- (thuộc) tơ huyết
+
+@fibroblast
+* dt
+- nguyên bào sợi
+ @fibrocartilage
+* dt
+- sụn sợi; sụn liên kết
+ @fibrocartilaginous
+* tt
+- có sụn sợi, sụn liên kết, sụn tơ
+ @fibro-cement  
+*  dt
+- Fibrô-ximăng
+
+@fibrocyte
+* dt
+- tế bào mô liên kết; tế bào sợi
+ @fibrocytic
+* tt
+- có tế bào mô liên kết; có tế bào sợi
+ @fibroferite
+* dt
+- fibroferit
+ @fibroid  
+*  tt
+- dạng sợi, dạng xơ
+
+@fibroin
+* dt
+- fibroin
+ @fibroma   (fibromata) @fibromata   (fibromata) @fibromatous
+* tt
+- thuộc u xơ
+ @fibrosis
+* dt
+- chứng xơ hoá
+ @fibrositis  
+*  dt
+- (y học) viêm xơ
+
+@fibrous  
+*  tt
+- có sợi, có thớ, có xơ
+
+@fibrousness  
+*  dt
+- sự có sợi, sự có thớ, sự có xơ
+
+@fibrovascular
+* tt
+- thuộc mạch sợi
+ @fibster   (fibster) @fibula   (fibulae) @fibulae   (fibulae) @fibular  
+*  tt
+- (giải phẫu) mác, (thuộc) xương mác
+
+@fice
+* dt
+- (từ Mỹ, nghĩa Mỹ) con chó nhỏ không có giá trị
+ @ficelle  
+*  tt
+- có màu nâu nhạt (màu dây thừng)
+
+@fiche
+- (Tech) tấm thẻ
+ @fichu  
+*  dt
+- khăn chéo (khăn quàng hình tam giác của đàn bà)
+
+@fickle  
+*  tt
+- hay thay đổi, không kiên định
+
++ fickle weather: thời tiết thay đổi luôn
+
++ a fickle lover: người yêu không kiên định (không chung thuỷ)
+
+@fickleness  
+*  dt
+- tính hay thay đổi, tính không kiên định
+
+@fictile  
+*  tt
+- bằng đất sét, bằng gốm
+- (thuộc) nghề đồ gốm
+
+@fiction  
+*  dt
+- điều hư cấu, điều tưởng tượng
+- tiểu thuyết
+
++ work of fiction: tiểu thuyết
+
+@fictional  
+*  tt
+- hư cấu, tưởng tượng
+
+@fictionalise   (fictionalise) @fictionality
+* dt
+- tính chất hư cấu; tính chất tưởng tượng
+ @fictionalization
+* dt
+- xem fictionalize chỉ sợi
+ @fictionalize   (fictionalise) @fictioneer
+* dt
+- người viết nhiều tiểu thuyết nhưng chất lượng kém
+ @fictioneering
+* dt
+- việc viết tiểu thuyết lấy nhiều
+ @fictionise
+fictionise
+
+ @fictionist  
+*  dt
+- người viết tiểu thuyết
+
+@fictionize   (fictionalise) @fictitious  
+*  tt
+- hư cấu, tưởng tượng, không có thực
+- giả
+
++ a fictitious name: tên giả
+
+@fictitious
+- giả tạo, tưởng tượng
+ @fictitiousness  
+*  dt
+- tính chất hư cấu, tính chất tưởng tượng, tính chất không có thực
+- tính chất giả
+
+@fictive  
+*  tt
+- hư cấu, tưởng tượng
+
+@fid  
+*  dt
+- miếng chêm
+- (hàng hải) giùi tháo múi dây thừng (để tết hai đầu vào nhau)
+- (hàng hải) thanh (gỗ, sắt) chống cột buồm
+
+@fiddle  
+*  dt
+- (thông tục); buồm) khoan moan (hàng hải) cái chèn, cái chốt, cái chặn
+- (từ lóng) ngón lừa bịp; vố lừa bịp
+!face as long as a fiddle
+- mặt buồn dài thườn thượt
+!fit as as fiddle
+- khoẻ như vâm, rất sung sức
+!to hang up one's fiddle
+- (từ Mỹ,nghĩa Mỹ) ngừng làm việc
+!to hang up one's fiddle when one comes home
+- ra ngoài thì tươi như hoa, về nhà thì mặt sưng mày sỉa
+!to play first fiddle
+- giữ vai trò chủ đạo
+!to play second fiddle
+- ở địa vị phụ thuộc
+*  ngdgt
+- kéo viôlông (bài gì)
+- (: away) lãng phí, tiêu phí
+
++ to fiddle away one's time: lãng phí thì giờ, làm vớ vẩn mất thì giờ
+*  ndgt
+- chơi viôlông; ((đùa cợt); guội gãi viôlông; cò cử viôlông
+- ((thường) : about,  at,  with...) nghịch vớ vẩn, làm trò vớ vẩn
+
++ to fiddle with a piece of string: nghịch vớ vẩn mẩu dây
+
++ to fiddle about: đi vớ vẩn, đi chơi rong; ăn không ngồi rồi
+- (từ lóng) lừa bịp
+*  thán từ
+- vớ vẩn!
+
+@fiddle-bow   (fiddle-bow) @fiddle-case  
+*  dt
+- hộp đựng viôlông
+
+@fiddle-de-dee  
+*  dt
+- chuyện vớ vẩn
+*  thán từ
+- vớ vẩn!, láo toét!
+
+@fiddle-faced
+* tt
+- vẻ mặt rầu rĩ
+ @fiddle-faddle  
+*  dt
+- chuyện lặt vặt, chuyện tầm thường, chuyện vô nghĩa lý, chuyện ba láp, chuyện tầm phào, chuyện vớ vẩn
+- người vô công rồi nghề
+*  tt
+- lặt vặt, tầm thường, vô nghĩa lý, ba láp, tầm phào, vớ vẩn
+*  ndgt
+- làm những chuyện vớ vẩn, làm những chuyện tầm phào; chơi rong vớ vẩn
+- làm nhặng xị, nhăng nhít
+*  thán từ
+- vớ vẩn!, láo toét!
+
+@fiddle-head  
+*  dt
+- mũi thuyền uốn cong (như đầu viôlông)
+- người chơi viôlông
+
+@fiddler  
+*  dt
+- (động vật học) cua uca, cua kéo đàn (cg fiddler crab)
+!if you dance you must pay the fiddler
+- muốn ăn cá phải lội nước, muốn ăn hét phải đào giun
+
+@fiddler-crab
+* dt
+- (động vật) con cáy
+ @fiddlestick   (fiddle-bow) @fiddlesticks  
+*  thán từ
+- vớ vẩn!, láo toét!
+
+@fiddle-string
+* dt
+- dây đàn viôlông
+ @fiddling  
+*  tt
+- nhỏ mọn, lặt vặt, tầm thường, không đáng kể
+- vô ích
+
+@fiddly
+* tt
+- nhỏ mọn; lặt vặt
+- vớ vẩn; vô nghĩa
+- tỉ mỉ, cầu kỳ
+ @fideism
+* dt
+- (triết học) tín ngưỡng luận
+ @fideist
+* dt
+- người theo tín ngưỡng luận
+ @fidelity  
+*  dt
+- lòng trung thành; tính trung thực
+- sự đúng đắn, sự chính xác
+- (kỹ thuật) độ tin; độ trung thực
+
+@fidelity
+- (Tech) độ trung thực
+ @fidelity
+- (máy tính) độ trung thành, độ chính xác (của sự sao lại, của sự nhớ lại); sự
+- sát nghĩa (của bản dịch) 
+ @fidget  
+*  dt
+- (số nhiều) sự bồn chồn
+
++ to have the fidgets: bồn chồn, đứng ngồi không yên
+- người hay sốt ruột
+- người hay làm người khác sốt ruột
+- sự hối hả
+- tiếng sột soạt (của quần áo)
+*  ngdgt
+- làm sốt ruột
+*  ndgt
+- bồn chồn, sốt ruột, lo lắng, không yên tâm
+- cựa quậy nhúc nhích luôn, không ở yên một chỗ
+
+@fidgetiness  
+*  dt
+- sự hay cựa quậy
+- sự bồn chồn, sự sốt ruột, sự lo lắng, sự không yên tâm
+
+@fidgety  
+*  tt
+- hay cựa quậy
+- bồn chồn, sốt ruột, lo lắng, đứng ngồi không yên
+
+@fidibus  
+*  dt
+- đóm giấy (để châm lửa)
+
+@fido  
+*  dt ((viết tắt) của Fog Investigation Dispersal Operation)
+- phương pháp làm tan sương mù (ở sân bay)
+
+@fiducial  
+*  tt
+- (thiên văn học) chuẩn, lấy làm cơ sở so sánh
+
++ fiducial point: điểm chuẩn để so sánh
+
+@fiducial
+- an toàn, tin cậy, bảo đảm
+ @fiduciary  
+*  tt
+- uỷ thác (di sản)
+- tín dụng (tiền tệ)
+*  tt
+- (pháp lý) người được uỷ thác
+
+@Fiduciary issue
+- (Econ) Tiền không được bảo lãnh.
+: Một bộ phận của tiền do ngân hàng Anh phát hành theo ĐẠO LUẬT QUY CHẾ NGÂN HÀNG của Huân tước Robert Peel năm 1844, có khả năng đổi lấy trái phiếu của chính phủ, và khác với tiền vàng (và tiền bạc trên một phạm vi nhất định) và thoi vàng.
+ @fie   (fy) @fief   (feoff) @fiefdom
+* dt
+- xem fief
+ @fie-fie  
+*  tt
+- không thích hợp, không thích đáng
+- xấu hổ, đón mạt
+
+@field  
+*  dt
+- đồng ruộng, cánh đồng
+- mỏ, khu khai thác
+- bâi chiến trường; nơi hành quân; trận đánh
+
++ to hold the field: giữ vững trận địa
+
++ to take the field: bắt đầu hành quân
+- sân (bóng đá,  crickê)
+- các đấu thủ, các vận động viên, các người dự thi, các ngựa dự thi
+- dải (băng tuyết...)
+- nên (huy hiệu)
+- lĩnh vực (hoạt động), phạm vi (quan sát...)
+
++ of art field: lĩnh vực nghệ thuật
+
++ a wide field of vision: nhãn quan rộng rãi
+- (vật lý) trường
+
++ magnetic field: từ trường
+
++ electric field: điện trường
+*  ngdgt
+- (thể dục,thể thao) chặn và ném trả lại (bóng crickê)
+- đưa (đội bóng) ra sân
+*  ndgt
+- (thể dục,thể thao) làm người chặn bóng (crickê)
+
+@field
+- (Tech) trường; thực địa, ngoài trời; phạm vi; lĩnh vực
+ @field
+- trường, miền, thể phạm vi, lĩnh vực
+- f. of class two (đại số) trường lớp thứ hai, trường siêu Aben 
+- f. of constants (đại số) trường các hằng số
+- f. of events trường các biến cố
+- f. of extremals (giải tích) trường các đường cực trị
+- f. of porce trường lực
+- f. of integration trường tích phân 
+- f. of lines trường tuyến
+- f. of points trường điểm
+- f. of quotients trường các thương
+- f. of sets (đại số) trường các tập hợp
+- f. of vectors trường vectơ
+- algebraic number f. trường số đại số
+- base f. trường cơ sở
+- class f. trường các lớp
+- coefficient f. (đại số) trường các hệ số 
+- commutative f. trường giao hoán
+- complete f. (đại số) trường đầy đủ
+- complete ordered f. (đại số) trường được sắp toàn phần
+- congruence f. (đại số) trường đồng dư
+- conjugate f.s (đại số) các trường liên hợp
+- convervation f. (of force) trường bảo toàn (lực)
+- constant f. (đại số) trường hằng số
+- cubic f. trường bậc ba
+- ecylotomic f. (đại số) trường chia vòng tròn
+- derived f. (with respect to a valuation) trường dẫn suất (đối với một sự
+- định giá)
+- difference f. (đại số) trường sai phân
+- differential f. (hình học) trường hướng
+- electromagnetic f. trường điện tử
+- elliptic(al) f. (đại số) trường eliptic
+- formally real f. (đại số) trường thực về hình thức
+- free f. trường tự do
+- ground f. trường cơ sở
+- hyper-real f. trường siêu thực
+- inertia f. trường quán tính
+- intermediate f. (đại số) trường trung gian
+- irrotational f. trường không rôta
+- local f. (đại số) trường địa phương 
+- magnetic f. vt. từ trường
+- measure f. trường có độ đo
+- modular f. trường môđun
+- multidifferential f. trường đa vi phân
+- neutral f. (đại số) trường trung hoà
+- non-commutative f. trường không giao hoán 
+- number f. trường số
+- ordered f. (đại số) trường được sắp
+- partial differential f. (đại số) trường vi phân riêng
+- perfect f. trường hoàn toàn
+- prime f. trường nguyên tố
+- quadratic f. (đại số) trường bậc hai
+- quotient f. trường các thương
+- radiation f. trường bức xạ
+- ramification f. trường rẽ nhánh
+- real number f. trường số thực
+- rotational f. trường rôta
+- scalar f. trường vô hướng 
+- skew f. (đại số) trường không giao hoán
+- solenoidal vector f. (hình học) trường vectơ xolenoit
+- splitting f. (đại số) trường khai triển
+- tensor f. (hình học) trường tenxơ
+- topological f. trường tôpô
+- total real f. trường thực toàn phần
+- true quotient f. (đại số) trường thương dúng
+- two-dimentional f. trường hai chiều
+- vector f. trường vectơ
+- velocity f. trường vận tốc
+- vortex f. trường rôta 
+ @field alterable control element (FACE) 
+- (Tech) phần tử điều khiển có trường khả biến
+ @field court martial  
+*  dt
+- (quân sự) toà án quân sự tại trận tuyến
+
+@field dressing  
+*  dt
+- sự băng bó cấp cứu ở trận tuyến
+
+@field effect phototransistor
+- (Tech) trăngsito quang hiệu trường
+ @field events  
+*  dt số nhiều
+- những môn điền kinh trên sân bâi (nhảy cao, nhảy xa, ném đĩa, ném tạ, phóng lao... đối lại với những môn điền kinh trên đường chạy như chạy nước rút, chạy vượt tàu...) ((từ Mỹ,nghĩa Mỹ) (cũng) field-sports)
+
+@field hospital  
+*  dt
+- (quân sự) bệnh viện dã chiến
+
+@field house  
+*  dt
+- nhà để dụng cụ; nhà thay quần áo... (ở sân vận động)
+
+@field marshal  
+*  dt
+- (quân sự) thống chế; đại nguyên soái
+
+@field of force  
+*  dt
+- (vật lý) thường học
+
+@field of honour  
+*  dt
+- bãi chiến trường
+
+@field programmable gate array (FPGA)
+- (Tech) mạng luận lý có trường khả chương
+ @field separation character
+- (Tech) ký tự phân trường
+ @field telegraph  
+*  dt
+- máy điện báo dã chiến
+
+@field-allowance  
+*  dt
+- phụ cấp chiến trường
+
+@field-ambulance
+* dt
+- đội cấp cứu dã chiến
+ @field-artillery  
+*  dt,  (quân sự)
+- (như) field-piece
+- (Field-Artillery) binh chủng pháo dã chiến
+
+@field-battery  
+*  dt
+- (quân sự) đơn vị pháo dã chiến, khẩu đội pháo dã chiến
+
+@field-bed
+* dt
+- giường dã chiến
+ @field-book  
+*  dt
+- sổ ghi chép đo đạc
+
+@field-boot  
+*  dt
+- giày ống
+
+@field-botany
+* dt
+- thực vật học hiện trường
+ @field-carriage
+* dt
+- xe chở pháo dã chiến
+ @field-club
+* dt
+- câu lạc bộ ngoài trời
+ @field-colours
+* dt
+- cờ liên đội
+ @field-cornet
+* dt
+- (từ Nam Phi) thôn trường
+ @field-crop
+* dt
+- thu hoạch nông nghiệp
+ @field-day  
+*  dt
+- (quân sự) ngày hành quân; ngày thao diễn
+- ngày đáng ghi nhớ
+- (từ Mỹ,nghĩa Mỹ) ngày thao diễn điền kinh
+- (từ Mỹ,nghĩa Mỹ) ngày nghiên cứu khoa học ở ngoài trời
+- cơ hội lớn, dịp được tự do chơi đùa
+- cuộc tranh luận quan trọng
+
+@field-effect modified transistor (FEMT)
+- (Tech) trăngsito biến đổi hiệu trường
+ @field-effect transistor (FET)
+- (Tech) trăngsito hiệu trường
+ @fielder   (fieldsman) @fieldfare  
+*  dt
+- (động vật học) chim hét đầu xám
+
+@field-geology
+* dt
+- địa chất học điền dã
+ @field-glass  
+*  dt
+- ống nhòm
+
+@field-glasses
+* dt
+- ống nhòm
+ @field-gray
+* dt
+- quân nâu xám (lính Đức 1914 - 1918)
+ @field-gun  
+*  dt,  (quân sự)
+- (như) field-piece
+- (Field-Artillery) binh chủng pháo dã chiến
+
+@field-hand
+* dt
+- người lao động nông trường, người lao động ngoài đồng
+ @field-hockey
+* dt
+- hoc-cây trên cỏ
+ @field-ice
+* dt
+- cánh đồng băng giá
+ @field-magnet
+* dt
+- từ thạch
+ @field-meeting
+* dt
+- cuộc họp dã ngoại (để vui chơi)
+ @field-mouse  
+*  dt
+- (động vật học) chuột đồng
+
+@field-officer  
+*  dt
+- (quân sự) sĩ quan cấp tá
+
+@field-piece  
+*  dt
+- pháo dã chiến ((cũng) field-artillery)
+
+@field-practice
+* dt
+- diễn tập dã ngoại, diễn tập điền dã
+ @field-preacher
+* dt
+- người thuyết giáo ngoài trời
+ @fieldsman   (fieldsman) @field-sports  
+*  dt số nhiều
+- những môn thể thao ngoài trời (như săn bắn, câu cá)
+- (từ Mỹ,nghĩa Mỹ),  (như) field events
+
+@field-strip  
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) tháo (khẩu súng) ra để lau dầu, tra mỡ
+
+@field-telegraph
+* dt
+- máy điện báo dã chiến
+ @field-telephone
+* dt
+- điện thoại dã chiến
+ @field-test
+* dt
+- sự thực nghiệm
+* dgt
+- thực nghiệm
+ @field-work  
+*  dt
+- (quân sự) công sự tạm thời
+- sự điều tra ngoài trời (của các nhà thực vật học, địa chất học)
+
+@field-worker  
+*  dt
+- người làm công tác điều tra nghiên cứu ngoài trời
+
+@fiend  
+*  dt
+- ma quỷ, quỷ sứ
+- kẻ tàn ác, kẻ hung ác, ác ôn
+- người thích, người nghiện
+
++ an opium fiend: người nghiện thuốc phiện
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người có tài xuất quỷ nhập thần về môn bóng đá
+
+@fiendish  
+*  tt
+- như ma quỷ, như quỷ sứ
+- tàn ác, hung ác
+
+@fiendishly
+* dt
+- cực kỳ, vô cùng
+ @fiendishness  
+*  dt
+- tính tàn ác, tính hung ác (như quỷ sứ)
+
+@fiendlike  
+*  tt
+- như ma quỷ, như quỷ sứ
+
+@fierce  
+*  tt
+- hung dữ, dữ tợn, hung tợn
+
++ a fierce dog: con chó dữ
+- dữ dội, mãnh liệt, ác liệt, sôi sục
+
++ a fierce storm: cơn bão dữ dội
+
++ a fierce struggle: cuộc chiến đấu dữ dội, cuộc chiến đấu ác liệt
+
++ a fierce sedire: sự ham muốn mãnh liệt
+
++ a fierce hatred: lòng căm thù sôi sục
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) hết sức khó chịu, hết sức ghê tởm, xấu hổ vô cùng
+
+@fiercely
+* dt
+- dữ dội, mãnh liệt
+ @fierceness  
+*  dt
+- tính chất hung dữ, tính chất dữ tợn, tính chất hung tợn
+- tính chất dữ dội, tính chất mãnh liệt, tính chất ác liệt
+
+@fierily
+* dt
+- mãnh liệt, sôi nổi
+ @fieriness  
+*  dt
+- tính chất nóng bỏng
+- vị cay nồng (rượu mạnh)
+- tính nóng nảy, tính hung hăng
+- tính hăng, tính sôi nổi, tình nồng nhiệt, tính hăm hở
+
+@fiery  
+*  tt
+- ngụt cháy, bốc cháy, bố lửa
+
++ a fiery sun: mặt trời đổ lửa
+- nảy lửa
+
++ fiery eyes: đôi mắt nảy lửa
+- mang lửa (tên đạn)
+- như lửa, như bốc lửa, nóng như lửa
+- dễ cháy, dễ bắt lửa, dễ nổ (khí)
+- cay nồng
+
++ a fiery taste: vị cay nồng
+- nóng nảy, dễ cáu, dễ nổi giận, hung hăng
+
++ fiery nature: tính nóng nảy, tính nóng như lửa; tính hung hăng
+- hăng, sôi nổi, nồng nhiệt
+
++ a fiery horse: con ngựa hăng
+
++ fiery words: những lời nói sôi nổi
+- viêm tấy (chỗ đau vết thương)
+
+@fiery-footed
+* tt
+- hoả tốc
+ @fiery-hot
+* tt
+- nóng như lửa
+ @fiery-red
+* tt
+- đỏ như lửa
+ @fiesta  
+*  dt
+- ngày lễ, ngày hội
+
+@fifa
+* (viết tắt)
+- Liên đoàn bóng đá quốc tế (International Association Football Federation)
+ @fife  
+*  dt
+- ống sáo, ống địch, ống tiêu
+- (như) fifer
+*  dgt
+- thổi sáo, thổi địch, thổi tiêu
+
+@fifer
+* dt
+- người thổi sáo, người thổi địch, người thổi tiêu
+ @fifo
+* (viết tắt)
+- (tin học) vào trước ra trước (First  in  First  Out)
+- viết tắt
+- (tin học) vào trước ra trước (First  in  First  Out)
+ @FIFO (first in - first out)
+- (Tech) vào trước ra trước
+ @fifteen  
+*  tt
+- mười lăm
+
+@fifteen
+- mưới lăm (15)
+ @fifteenth  
+*  dt
+- số mười lăm
+- nhóm mười lăm người
+- (thể dục,thể thao) một bên đội bóng bầu dục (gồm 15 cầu thủ)
+- (the Fifteen) cuộc khởi nghĩa Gia-cô-banh (năm 1715)
+*  tt
+- thứ mười lăm
+*  dt
+- một phần mười lăm
+- người thứ mười lăm; vật thứ mười lăm; ngày thứ mười lăm
+
+@fifteeth
+- thứ mười lăm, phần thứ mười lăm
+ @fifth  
+*  tt
+- thứ năm
+!fifth column
+- (xem) column
+!fifth wheel [of coach]
+- vật thừa
+!to smite under the fifth rib
+- giết, thủ tiêu
+*  dt
+- một phần năm
+- người thứ năm; vật thứ năm; ngày mồng năm
+- (số nhiều) nguyên vật liệu loại năm
+- một phần năm galông
+- (âm nhạc) quâng năm, âm năm
+
+@fifthly  
+*  dt
+- năm là
+
+@fiftieth  
+*  tt
+- thứ năm mươi
+*  dt
+- một phần năm mươi
+- người thứ năm mươi; vật thứ năm mươi
+
+@fiftieth
+- thứ năm mươi, phần thứ năm mươi
+ @fifting chance  
+*  dt
+- khả năng thắng lợi nếu rán sức
+
+@fifty  
+*  tt
+- năm mươi
+
++ fifty persons: năm mươi người
+- bao nhiêu là, vô số
+
++ to have fifty things to do: có bao nhiêu là việc phải làm
+*  dt
+- số năm mươi
+- nhóm năm mươi (người, vật...)
+- (số nhiều) (the fifties) những năm năm mươi (từ 50 đến 59 của thế kỷ); những năm tuổi trên năm mươi (từ 50 đến 59)
+
++ to be in the late fifties: gần sáu mươi
+
++ in the early fifties of our century: trong những năm đầu của những năm năm mươi của thế kỷ này
+
+@fifty
+- năm mươi (50)
+ @fifty-fifty  
+*  dt & dt
+- thành hai phần bằng nhau, chia đôi
+
++ on a fifty-fifty basis: chia đôi bằng nhau
+
++ to go fifty-fifty: chia thành hai phần bằng nhau; chia đôi
+
+@fiftyfold  
+*  tt & dt
+- gấp năm mươi lần
+
+@fig  
+*  dt
+- (thực vật học) quả sung; quả vả
+- (thực vật học) cây sung; cây vả ((cũng) fig tree)
+- vật vô giá trị; một tí, một chút
+
++ his opinion is not worth a fig: ý kiến của hắn chắng có một chút giá trị gì
+!I don't care a fig
+- (xem) care
+*  dt
+- quần áo, y phục; trang bị
+
++ in full fig: ăn mặc chỉnh tề; trang bị đầy đủ
+- tình trạng sức khoẻ
+
++ in good fig: sung sức
+*  ngdgt
+- to fig out (up) a horse làm ngựa hăng lên
+- to fig out someone ăn mặc diện cho ai
+
+@fig-eater
+* dt
+- (động vật) chim chích
+ @fight  
+*  dt
+- sự đấu tranh, sự chiến đấu; trận đánh, cuộc chiến đấu
+
++ to give fight; to make a fight: chiến đấu
+
++ valiant in fight: dũng cảm trong chiến đấu
+
++ a sham fight: trận giả
+- (nghĩa bóng) sự mâu thuẫn, sự lục đục
+- khả năng chiến đấu; tính hiếu chiến, máu hăng
+
++ to have fight in one yet: còn hăng
+!to show fight
+- kháng cự lại, chống cự lại
+*  ndgt fought
+- đấu tranh, chiến đấu, đánh nhau
+
++ to fight agianst imperialism: đấu tranh chống chủ nghĩa đế quốc
+
++ to fight for independence: đấu tranh để giành độc lập
+*  ngdgt
+- đấu tranh, chiến đấu, đánh, tiến hành đấu tranh trong (vụ kiện, vụ tranh chấp...); tranh luận (một vấn đề gì)
+
++ to fight a battle: đánh một trận
+- điều kiện (quân, tàu) trong trận đánh
+- cho (gà...) chọi nhau; cho (võ sĩ...) giao đấu
+!to fight down
+- đánh bại, đè bẹp
+!to fight it out
+- đấu tranh đến cùng; làm cho ra lý lẽ
+!to light off
+- đánh lui
+!to fight something out
+- đấu tranh để giải quyết một vấn đề gì
+!to fight shy of somebody
+- tránh xa ai
+!to fight one's way in life
+- đấu tranh để vươn lên trong cuộc sống
+
+@fighter  
+*  dt
+- chiến sĩ, chiến binh, người đấu tranh, người chiến đấu
+- (từ Mỹ,nghĩa Mỹ) võ sĩ quyền Anh nhà nghề
+- máy bay chiến đấu; máy bay khu trục
+
+@fighter bomber  
+*  dt
+- (quân sự) máy bay chiến đấu thả bom
+
+@fighter pilot  
+*  dt
+- (quân sự) phi công lái máy bay chiến đấu
+
+@fighting  
+*  dt
+- sự chiến đấu, sự đánh nhau
+- cuộc chiến đấu, cuộc đấu tranh, cuộc đánh nhau
+*  tt
+- chiến đấu, đấu tranh, đánh nhau
+
+@fighting plane  
+*  dt
+- (quân sự) máy bay chiến đấu
+
+@fighting-cock  
+*  dt
+- gà chọi
+!to live like fighting-cock
+- ăn uống sung sướng, ăn cao lương mỹ vị
+
+@figment  
+*  dt
+- điều tưởng tượng; điều bịa đặt
+
++ a figment of the mind: điều tưởng tượng
+
+@fig-tree  
+*  dt
+- (thực vật học) cây sung; cây vả
+!under one's own vine and fig-tree
+- bình chân như vại ở nhà
+
+@figulate
+* tt
+- thuộc đồ gốm
+ @figuline
+* dt
+- đồ gốm
+- đồ gốm trang trí bằng hình vẽ thiên nhiên
+- người làm đồ gốm
+* tt
+- dùng làm đồ gốm
+
++  figuline earth:đất làm đồ gốm
+ @figurable
+* tt
+- có thể ch hình dáng
+- có thể làm đồ gốm
+ @figural
+* tt
+- có hình dáng người hay động vật
+ @figurant  
+*  dt,  số nhiều figuranti
+- diễn viên đồng diễn ba-lê
+- (sân khấu) diễn viên đóng vai phụ
+
+@figurante  
+*  dt, 
+- nữ diễn viên đồng diễn ba-lê
+- (sân khấu) nữ diễn viên đóng vai phụ[,figjurỴ:nti:]
+*  số nhiều của figurante
+
+@figuranti  
+*  dt,  số nhiều figuranti
+- diễn viên đồng diễn ba-lê
+- (sân khấu) diễn viên đóng vai phụ
+
+@figurate
+- Cách viết khác : figurated 
+ @figurate
+- sự tượng trưng, sự biểu hiện
+ @figuration  
+*  dt
+- hình tượng, hình dáng
+- sự tượng trưng
+- sự trang trí
+- (âm nhạc) hình
+
++ harmonic figuration: hình hoà âm
+
+@figurative  
+*  tt
+- bóng; bóng bảy
+
++ in a figurative sense: theo nghĩa bóng
+
++ a figurative style: lối văn bóng bảy
+
++ a figurative writer: nhà văn bóng bảy, nhà văn hay dùng hình tượng
+- biểu hiện, tượng trưng
+- tạo hình, bằng tranh ảnh
+
+@figuratively
+* dt
+- văn hoa, bóng bảy
+- theo phép ẩn dụ
+ @figurativeness  
+*  dt
+- tính chất bóng bảy, tính chất hình tượng
+- tính chất tượng trưng
+
+@figure  
+*  dt
+- hình dáng
+
++ to keep one's figure: giữ được dáng người thon
+- (toán học) hình
+- hình ảnh, hình vẽ minh hoạ ((viết tắt) fig); vật tượng trưng, vật điển hình, vật giống
+- nhân vật
+
++ a person of figure: nhân vật nổi tiếng
+
++ an important figure: nhân vật quan trọng
+- sơ đồ
+- lá số tử vi
+
++ to cast a figure: lấy số tử vi
+- con số
+
++ double figures: những số gồm hai con số
+- (số nhiều) số học; sự tính toán bằng con số
+
++ to have a poor head for figures: rất dốt số học, rất dốt tính
+- số tiền
+
++ to get something at a low figure: mua cái gì rẻ
+
++ to get something at a high figure: mua cái gì đắt
+- (ngôn ngữ học) hình thái tu từ
+- (triết học) giả thiết
+- (âm nhạc) hình nhịp điệu
+- hình múa (trong điệu nhảy, trượt băng...)
+!a figure of fan
+- người lố lăng
+!to make (cut) a brilliant figure
+- gây cảm tưởng rất tốt; chói lọi
+!to make (cut) a poor figure
+- gây cảm tưởng xoàng
+*  ngdgt
+- hình dung, miêu tả (bằng sơ đồ, bằng nét vẽ); mường tượng, tưởng tượng
+
++ to figure something to oneself: tưởng tượng ra điều gì
+- tưởng tượng, làm điển hình cho
+- trang trí hình vẽ
+- đánh số, ghi giá
+*  ndgt
+- tính toán
+
++ to figure out at 45d: tính ra là 45 đồng
+- có tên tuổi, có vai vế
+
++  Nguyen Van Troi figures in history: Nguyễn Văn Trỗi nay có tên trong lịch sử
+- làm tính
+!to figure as
+- được coi như là; đóng vai trò của
+!to figure on
+- trông đợi ở (cái gì)
+- tính toán
+!to figure out
+- tính toán
+- hiểu, quan niệm
+- đoán, tìm hiểu, luận ra
+!to figure up
+- tổng cộng, tính số lượng (cái gì)
+!I figure it like this
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) theo tôi hiểu điều đó là như thế này
+
+@figure
+- hình; ký hiệu, dấu hiệu (của chữ số); hệ số; hình vẽ; biểu đồ
+- in round f.s lấy tròn, quy tròn
+- f. of noise hệ số ồn
+- f. of syllogism (logic học) cách của tam đoạn luận 
+- circumscribed f. hình ngoại tiếp
+- congruent f.s hình tương đẳng
+- correlative f. hình đối xạ
+- geometric f. hình hình học
+- homothetic f.s hình vị tự
+- identical f.s các hình đồng nhất
+- inscribed f. hình nội tiếp
+- percpective f. hình phối cảnh
+- plane f. hình phẳng
+- polar reciprocal f.s hình đối cực
+- projecting f. hình chiếu ảnh
+- radially related f.s (hình học) các hình vị tự
+- reciprocal f. hình thuận nghịch
+- significant f. chữ số có nghĩa
+- similar f.s các hình đồng dạng
+- squarable f. hình cầu phương được
+- symmetric f. hình đối xứng
+- vertex f. hình đỉnh 
+ @figured  
+*  tt
+- in hoa; có hình vẽ (vải, lụa)
+
++ figured silk: lụa in hoa
+- được miêu tả bằng hình vẽ, được miêu tả bằng sơ đồ
+- (âm nhạc) có hình nhịp điệu
+
+@figure-dance  
+*  dt
+- điệu nhảy từng phần thôi (có từng phần động tác rõ rệt); cuộc biểu diễn điệu nhảy từng phần thôi (có từng phần động tác rõ rệt)
+- người biểu diễn điệu nhảy từng phần thôi (có từng phần động tác rõ rệt)
+
+@figure-head  
+*  dt
+- hình chạm ở đầu mũi tàu
+- bù nhìn, bung xung (người ở địa vị cao nhưng không được thực quyền)
+-(đùa cợt) mặt
+
+@figurehead
+* dt
+- hình chạm ở đầu mũi tàu
+* dtgười ở địa vị cao nhưng không được thực quyền; kẻ bù nhìn; kẻ bung xung
+* tt
+- không có quyền lực thực sự; bù nhìn
+ @figure-of speech  
+*  dt
+- (ngôn ngữ học) hình thái tu từ
+- điều thổi phồng, điều phóng đại
+
+@figure-of-eight  
+*  tt
+- có hình con số 8
+
+@figure-skater  
+*  dt
+- người trượt băng theo hình múa
+
+@figure-skating  
+*  dt
+- môn trượt băng theo hình múa
+
+@figurette
+* dt
+- tượng nhỏ
+ @figure-weaving
+* dt
+- việc dệt thành hình vẽ
+ @figurine  
+*  dt
+- bức tượng nhỏ
+
+@figuring
+* dt
+- sự vẽ hình, sự in hình
+ @fig-wort  
+*  dt
+- (thực vật học) cây huyền sâm
+
+@filagree   (filagree) @filament  
+*  dt
+- sợi nhỏ, dây nhỏ, tơ
+- sợi đèn, dây tóc (đèn)
+- (thực vật học) chỉ nhị
+
+@filament capacitance
+- (Tech) điện dung sợi nung
+ @filament resistor
+- (Tech) cái điện trở sợi nung
+ @filament transformer
+- (Tech) bộ biến áp sợi nung
+ @filamentary  
+*  tt
+- làm bằng sợi nhỏ, làm bằng tơ
+- như sợi nhỏ, như tơ
+- có sợi nhỏ, có tơ
+
+@filamentation
+* dt
+- sự hình thành sợi
+ @filamented  
+*  tt
+- có sợi nhỏ, có dây tóc
+
+@filamentose
+- Cách viết khác : filamentous 
+ @filamentous  
+*  tt
+- có nhiều sợi nhỏ, như sợi nhỏ; như chỉ
+
+@filaria  
+*  dt
+- giun chỉ
+
+@filarial  
+*  dt
+- (thuộc) giun chỉ; có tính chất giun chỉ
+- có giun chỉ; do giun chỉ;
+
+@filariasis  
+*  dt
+- (y học) bệnh giun chỉ
+
+@filariform
+* tt
+- dạng sợi, dạng chỉ
+ @filature  
+*  dt
+- sự kéo sợi, sự xe chỉ
+- máy kéo sợi
+- xưởng kéo sợi
+
+@filbert  
+*  dt
+- hạt phỉ
+- (thực vật học) cây phỉ
+
+@filch  
+*  ngdgt
+- ăn cắp, xoáy, móc túi
+
+@filcher  
+*  dt
+- kẻ cắp, kẻ móc túi
+
+@filching  
+*  dt
+- sự ăn cắp, sự móc túi
+
+@file  
+*  dt
+- cái giũa
+- (từ lóng) thằng cha láu cá, thằng cha quay quắt
+
++ a deep (an old) file: thằng cha quay quắt
+!to bite (gnaw) file
+- lấy thúng úp voi; lấy gậy chọc trời
+*  ngdgt
+- giũa
+
++ to file one's finger nails: giũa móng tay
+
++ to file something: giũa nhãn vật gì
+- gọt giũa
+
++ to file a sentence: gọt giũa một câu văn
+*  dt
+- ô đựng tài liêu, hồ sơ; dây thép móc hồ sơ
+
++ a bill file; a spike file: cái móc giấy
+- hồ sơ, tài liệu
+- tập báo (xếp theo thứ tự)
+*  ngdgt
+- sắp xếp, sắp đặt (giấy má, thư từ...)
+- (từ Mỹ,nghĩa Mỹ) đệ trình đưa ra (một văn kiện...), đưa (đơn...)
+*  dt
+- hàng, dãy (người, vật)
+- (quân sự) hàng quân
+
++ to march in file: đi hàng đôi
+
++ in single (Indian) file: thành hành một
+!connecting file
+- liên lạc viên
+!a file of men
+- (quân sự) nhóm công tác hai người
+!the rank and file
+- (xem) rank
+*  ngdgt
+- cho đi thành hàng
+*  ndgt
+- đi thành hàng
+!to file away
+- (như) to file off
+!to file in
+- đi vào từng người một, đi vào thành hàng một, nối đuôi nhau đi vào
+!to file off
+- kéo đi thành hàng nối đuôi nhau
+!to file out
+- đi ra từng người một, đi ra thành hàng một, nối đuôi nhau đi ra
+
+@file
+- (Tech) tập tin [TN], hồ sơ [NN]
+ @file
+- (máy tính) bộ phận ghi chữ, phiếu ghi tên
+ @file allocation table (FAT)
+- (Tech) bảng phân bố tập tin
+ @file attribute
+- (Tech) cá tính tập tin
+ @file description block
+- (Tech) khối mô tả tập tin
+ @file directory
+- (Tech) thư mục tập tin
+ @file format
+- (Tech) khuôn dạng tập tin
+ @file identification block
+- (Tech) khối xác định tập tin
+ @file manager
+- (Tech) chương trình quản lý tập tin
+ @file name
+- (Tech) tên tập tin
+ @file name extension
+- (Tech) tên tập tin nối dài
+ @file server
+- (Tech) bộ phục vụ tập tin
+ @file size
+- (Tech) kích cỡ tập tin
+ @file storage
+- (Tech) bộ trữ tập tin
+ @file structure
+- (Tech) cấu trúc tập tin
+ @file system
+- (Tech) hệ thống quản lý tập tin
+ @File Transfer Protocol (FTP)
+- (Tech) Quy Ước Chuyển Tập Tin
+ @file-cabinet  
+*  dt
+- tủ đựng hồ sơ tài liệu
+
+@file-dust
+* dt
+- mạt giũa
+ @filemot  
+*  tt
+- cỏ màu lá úa, vàng nâu
+*  dt
+- màu lá úa, màu vàng nâu
+
+@filer  
+*  dt
+- người thổi sáo, người thổi địch, người thổi tiêu
+
+@file-rail  
+*  dt
+- (hàng hải) đường ray xung quanh cột buồm chính
+
+@filespec
+- đặc trưng tệp
+ @filet  
+*  dt
+- cái mạng, cái lưới
+- thịt thăn
+
+@filial  
+*  tt
+- (thuộc) con cái; (thuộc) đạo làm con
+
++ filial respect: lòng cung kính của con cái đối với cha mẹ
+
++ filial duty: nhiệm vụ làm con
+
+@filiality
+* dt
+- quan hệ cha con
+ @filialness  
+*  dt
+- sự hiếu thảo
+
+@filiate   (filiate) @filiation  
+*  dt
+- phận làm con
+- mối quan hệ cha con
+- quan hệ nòi giống; dòng dõi
+- nhánh, ngành (xã hội, ngôn ngữ...)
+- sự phân nhánh, sự chia ngành
+
+@filibeg   (filibeg) @filibuster  
+*  dt
+- bọn giặc cướp (chuyên đi đánh phá các nước khác một cách phi pháp)
+- (từ Mỹ,nghĩa Mỹ),  (chính trị) người cản trở (sự thông qua một đạo luật ở nghị viện)
+*  ndgt
+- đi đánh phá các nước khác một cách phi pháp
+- (từ Mỹ,nghĩa Mỹ) cản trở sự thông qua (một đạo luật ở nghị viện)
+
+@filicidal  
+*  tt
+- (thuộc) tội giết con
+
+@filicide  
+*  dt
+- tội giết con
+- người giết con
+
+@filicoid
+* tt
+- hình dương xỉ
+ @filicology
+* dt
+- dương xỉ học
+ @filiety
+* dt
+- đạo làm con
+ @filiform  
+*  tt
+- hình chỉ
+
+@filigree   (filagree) @filing  
+*  dt
+- sự giũa
+- (số nhiều) mạt giũa
+
+@filing
+- sự đưa vào phiếu ghi tên, sự đưa vào bộ phận lưu trữ
+ @filing clerk
+* dt
+- người làm công tác văn thư, nhân viên văn thư
+ @filing machine  
+*  dt
+- máy giũa
+
+@filing-card
+* dt
+- thẻ hồ sơ; phiếu hồ sơ
+ @filing-copy
+* dt
+- bản sao lưu trữ
+ @filing-machine
+* dt
+- máy giũa
+ @filipina
+* dt
+- số nhiều filipinas
+- đàn bà Phi-li-pi-nô
+ @filipino  
+*  dt
+- người Phi-líp-pin
+
+@fill  
+*  dt
+- cái làm đầy; cái đủ để nhồi đầy
+
++ a fill of tobacco: mồi thuốc (đủ để nhồi đầy tẩu)
+- sự no nê
+
++ to eat one's fill: ăn no đến chán
+
++ to drink one's fill: uống no
+
++ to take one's fill of pleasures: vui chơi thoả thích chán chê
+- (từ Mỹ,nghĩa Mỹ),  (ngành đường sắt) nền đường
+*  ngdgt
+- làm đầy, chứa đầy, đổ đầy; đắp đầy, rót đầy
+
++ to fill a bottle with water: rót đầy nước vào chai
+- nhồi
+
++ to fill one's pipe: nhồi thuốc vào tẩu
+- lấp kín (một lỗ hổng); hàn
+
++ to fill a tooth: hàn một cái răng
+- bổ nhiệm, thế vào, điền vào
+
++ to fill (ip) a post: bổ khuyết một chức vị; thế chân
+- chiếm, choán hết (chỗ)
+
++ the table fills the whole room: cái bàn choán hết chỗ trong phòng
+- giữ (chức vụ)
+
++ to fill someone's shoes: thay thế ai, kế vị ai
+
++ to fill a part: đóng một vai trò
+- làm thoả thích, làm thoả mãn
+
++ to fill someone to repletion with drink: cho ai uống say bí tỉ
+- (từ Mỹ,nghĩa Mỹ) đáp ứng
+
++ to fill every requirement: đáp ứng mọi nhu cầu
+- thực hiện
+
++ to fill an order: thực hiện đơn đặt hàng
+
++ to fill a prescription: bán thuốc theo đơn, bốc thuốc theo đơn
+- làm căng (buồm)
+*  ndgt
+- đầy, tràn đầy
+
++ the hall soon filled: phòng chẳng mấy chốc đã đầy người
+- phồng căng
+
++ sails fill: buồm căng gió
+!to fill in
+- điền vào, ghi vào, cho vào cho đủ
+
++ to fill in one's name: ghi tên vào một bản khai
+!to fill out
+- làm căng ra, làm to ra
+- (từ Mỹ,nghĩa Mỹ) điền vào
+- (từ Mỹ,nghĩa Mỹ) lớn ra, đẫy ra
+!to fill up
+- đổ đầy, lấp đầy, tràn đầy, đầy ngập
+
++ to fill up a pound: lấp đầy một cái ao
+!to fill someone in on
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cung cấp cho ai thêm những chi tiết
+
+@fill
+- hoàn thành
+ @fill factor
+- (Tech) hệ số điền
+ @fillagree
+* dt
+- xem filigree
+ @fill-dike  
+*  tt
+- nhiều mưa
+*  dt
+- thời kỳ nhiều mưa, mùa mưa (thường là tháng 2 ở Anh)
+
+@fille  
+*  dt
+- con gái
+- cô gái
+- bà cô
+- gái điếm
+!fille de chambre
+- cô hầu phòng
+!file de joie
+- gái điếm
+
+@filler  
+*  dt
+- người làm đẫy; cái để làm đẫy, cái để nhồi đầy
+- thuốc lá ruột (ở điếu xì gà)
+- bài lấp chỗ trống (trong một tờ báo)
+- tập giấy rời (để làm sổ tay)
+
+@filler
+- (Tech) chất độn, chất đổ đầy; chữ điền (vào)
+ @fillet  
+*  dt
+- dây bưng, dải lụa (để buộc đầu)
+- (y học) băng (để buộc bó vết thương)
+- (kiến trúc) đường chỉ vòng
+- đường gân, đường gờ (trên bìa sách...)
+- thịt bê cuốn, thịt bò cuốn, cá lạng cuốn
+- khúc cá to
+- (số nhiều) lườn (ngựa, bò...)
+*  ngdgt
+- buộc bằng dây băng
+- trang trí bằng đường chỉ vòng
+- róc xương và lạng (thịt, cá...)
+
+@fillet
+- (đại số) băng giải
+ @fillibeg
+* dt
+- xem filibeg
+ @fill-in  
+*  dt
+- cái thay thế; người thay thế
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) bản tóm tắt những sự việc cần thiết (của một vấn đề đang bàn...)
+
+@fill-in data
+- (Tech) dữ kiện điền vào
+ @filling  
+*  dt
+- sự đổ đầy, sự tràn đầy; sự bơm (quả bóng...)
+- sự lấp đầy, sự đắp đầy, sự hàn (răng)
+- sự bổ nhiệm
+
++ filling of a vacancy: sự bổ nhiệm vào một chức vụ khuyết
+- sự choán, sự chiếm hết (chỗ)
+- (từ Mỹ,nghĩa Mỹ) món thịt nhồi
+
+@filling station  
+*  dt
+- cột ét xăng, chỗ bán xăng dầu cho ô tô
+
+@filling-stuff
+* dt
+- vật độn
+ @fillip  
+*  dt
+- cái búng, cái bật (ngón tay)
+- sự kích thích; vật kích thích
+- chuyện nhỏ mọn; vật không đáng kể
+
++ not worth a fillip: không đáng kể
+*  ngdgt
+- búng
+
++ to fillip a coin: búng đồng tiền
+- đánh nhẹ, đánh khẽ
+- kích thích, khuyến khích
+
++ to fillip one's memory: kích thích trí nhớ
+*  ndgt
+- búng ngón tay, bật ngón tay
+
+@fillister  
+*  dt
+- (kỹ thuật) cái bào xoi
+
+@fill-up  
+*  dt
+- sự lấp đầy, sự nhét đầy
+
+@filly  
+*  dt
+- ngựa cái non
+- (từ lóng) cô gái trẻ nhanh nhảu
+
+@film  
+*  dt
+- màng; mảng thuốc (trên phim ảnh, trên giấy ảnh...)
+- phim, phim ảnh, phim xi nê
+- (the films) buổi chiếu bóng
+- vảy cá (mắt)
+- màn sương mỏng
+- sợi nhỏ, tơ nhỏ (của mạng nhện)
+*  ngdgt
+- phủ một lớp màng, che bằng một lớp màng
+- che đi, làm mờ đi
+- quay thành phim
+
++ to film one of Shakespeare's plays: quay một trong những vở kịch của Sếch-xpia thành phim
+*  ndgt
+- bị che đi, bị mờ đi
+- quay thành phim
+
++ this play films well: kịch này quay thành phim rất hay
+
+@film
+- (Tech) phim, màng mỏng
+ @film
+- (máy tính); (vật lí) phim, màng   chụp phim
+- continuously moving f. phim di động liên tục
+- plastic f. phim bằng chất dẻo
+- sensitive f. phim bắt sáng
+- transparent f. phim trong suốt 
+@film optical sensing device for input to computers (FOSDIC)
+- (Tech) bộ cảm quang (đọc) phim nhập máy tính
+ @film projector
+- (Tech) máy chiếu phim
+ @film recorder
+- (Tech) máy ghi phim
+ @film resistor
+- (Tech) cái điện trở màng
+ @film star  
+*  dt
+- ngôi sao màn ảnh
+
+@film test
+* dt
+- sự tuyển chọn diễn viên bằng cách kiểm tra xem họ có ăn ảnh hay không
+ @film-cutter
+* dt
+- người lên phim
+ @filmdom
+* dt
+- nghề làm phim; kỹ nghệ điện ảnh
+- những người hoạt động trong lĩnh vực điện ảnh; giới điện ảnh
+ @filmgoer
+* dt
+- người đi xem phim
+ @filminess  
+*  dt
+- sự mỏng nhẹ
+- sự mờ mờ (của một phong cảnh)
+
+@filming
+- (máy tính) sự chụp phim
+ @filmize
+* ngdgt
+- làm thành phim
+ @filmland
+* dt
+- thế giới điện ảnh
+
++  filmland actor:diễn viên điện ảnh
+ @film-producer
+* dt
+- nhà làm phim
+ @film-store
+- viện tư liệu phim
+ @film-story
+* dt
+- chuyện phim
+ @film-strip
+* dt
+- phim đèn chiếu
+ @filmy  
+*  tt
+- mỏng nhẹ (mây)
+- mờ mờ
+- có váng
+- (y học) dạng màng
+
+@filoplume
+* dt
+- lông ống; lông sợi
+ @filoselle  
+*  dt
+- sồi, vải sồi
+
+@filter  
+*  dt
+- cái lọc, máy lọc (xăng, không khí)
+- (nhiếp ảnh) cái lọc (ánh sáng)
+- (raddiô) bộ lọc
+- (thông tục) đầu lọc (ở đầu điếu thuốc lá)
+*  ngdgt ((cũng) filtrate)
+- lọc
+*  ndgt ((cũng) filtrate)
+- ngấm qua; thấm qua; thấm vào, xâm nhập
+- tiết lộ ra; lọt ra (tin tức...)
+- nối (vào đường giao thông)
+
+@filter
+- (Tech) bộ lọc (quang @Filter
+- (Econ) Bộ lọc.
+: Tên gọi của một công thức hay một phương thức nhằm loại bỏ những biến động không mong muốn của số liệu.
+ @filter
+- (điều khiển học); (vật lí) cái lọc, bộ lọc, máy lọc
+- all-pass f. máy lọc pha
+- amplitude f. máy lọc biên độ
+- band f. máy lọc giải
+- band-elimination f. máy lọc khử theo giải
+- bandpass f. cái lọc băng (giải)
+- elamping f. cái lọc được giữ cố định
+- compensating f. cái lọc bổ chính
+- discontinuous f. máy lọc xung
+- feedback f. cái lọc hệ ngược
+- frequency f. cái lọc tần số
+- high-pass f. cái lọc sao
+- infinite memory f. bộ lọc có nhớ vô hạn
+- interference f. máy lọc chống nhiễu loạn
+- lossless f. máy lọc không hao
+- low-pass f. máy lọc các tần thấp
+- mode f. cái lọc kiểu sóng
+- noise f. cái lọc tiếng ồn
+- nonlinear f. bộ lọc không tuyến tính 
+- normalized f. bộ lọc được chuẩn hoá
+- optimun f. bộ lọc tối ưu
+- output f. máy lọc (có) lối ra
+- predicting f. cái lọc tiên đoán
+- pulsed f. máy lọc xung
+- seperation f. cái lọc tách
+- stable f. cái lọc ổn định
+- suppression f. máy lọc chẵn
+- total f. bộ lọc phức
+- tuned f. cái lọc cộng hưởng
+- wave f. cái lọc sóng 
+ @filter capacitor
+- (Tech) bộ điện dung lọc
+ @filter choke
+- (Tech) cuộn cản lọc
+ @filter discrimination
+- (Tech) sự phân biệt do bộ lọc
+ @filter response
+- (Tech) dự đáp ứng bộ lọc
+ @filterability  
+*  dt
+- tính có thể lọc
+
+@filterable  
+*  tt
+- có thể lọc được
+
+@filter-bed  
+*  dt
+- bể lọc
+
+@filtered
+- đã được lọc
+ @Filtering
+- (Econ) Quá trình lọc.
+: Một cụm thuật ngữ được sử dụng trong KINH TẾ HỌC ĐÔ THỊ để mô tả quá trình thay đổi về chất lượng nhà ở, nhìn chung là diễn ra thông qua việc chuyển nhà ở của nhóm người có thu nhập cao sang nhóm người có thu nhập thấp hơn.
+ @filtering-machine
+* dt
+- máy lọc
+ @filter-paper
+* dt
+- giấy lọc
+ @filter-passer
+* dt
+- virut qua lọc
+ @filter-tip
+* dt
+- đầu lọc của điếu thuốc lá
+ @filter-tipped  
+*  tt
+- có đầu lọc (điếu thuốc lá)
+
++ filter-tipped cigarettes: thuốc lá điếu có đầu lọc
+
+@filth  
+*  dt
+- rác rưởi, rác bẩn
+- thức ăn không ngon
+- sự tục tĩu; điều ô trọc
+- lời nói tục tĩu, lòi nói thô bỉ
+
+@filthily
+* dt
+- bẩn thỉu, thô tục
+ @filthiness  
+*  dt
+- tính chất bẩn thỉu, tính chất dơ dáy
+- tính tục tĩu, tính thô tục, tính ô trọc
+
+@filthy  
+*  tt
+- bẩn thỉu, dơ dáy
+
++ filthy lucre: của bất nhân;(đùa cợt) tiền
+- tục tĩu, thô tục, ô trọc
+
+@filtrable
+* tt
+- có thể lọc được
+ @filtrate  
+*  dt
+- phần lọc, phần nước lọc ra
+*  dgt
+- (như) filter
+
+@filtration  
+*  dt
+- sự lọc; cách lọc
+
+@filtration
+- sự lọc
+- convergent f. (đại số) sự lọc hội tụ
+- regular f. (đại số) sự lọc chính quy
+ @filtre
+* dt
+- bộ lọc; cái lọc
+ @fimbria
+* dt
+- số nhiều fimbriae
+- diềm; tua viền
+
++  ovarian fimbria:tua buồng trứng
+ @fimbrial
+* tt
+- thuộc diềm, tua viền
+ @fimbriate   (fimbriated) @fimbriated   (fimbriated) @fimbriation
+* dt
+- sự có diềm, sự có tua viền
+ @fimbrillate
+* tt
+- (thực vật) có diềm nhỏ, có tua viền nhỏ
+ @FIML
+- (Econ) Xem FULL INFORMATION MAXIMUM LIKELIHOOD.
+ @fin  
+*  dt
+- người Phần lan ((cũng) Finn)
+- vây cá
+- bộ thăng bằng (của máy bay)
+- (kỹ thuật) sườn, cạnh bên, rìa
+- (từ lóng) bàn tay
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tờ năm đô la
+
+@fin
+- (cơ học) bộ ổn định, cái làm ổn định
+ @finable  
+*  tt
+- (pháp lý) đáng bị phạt; có thể bị phạt
+
+@finagle   (fenagle) @finagler  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) kẻ bịp, kẻ lừa bịp
+
+@final  
+*  tt
+- cuối cùng
+
++ final victory: thắng lợi cuối cùng
+
++ the final chapter of a book: chương cuối của cuốn sách
+- quyết định, dứt khoát, không thay đổi được nữa
+- (triết học); (ngôn ngữ học) (thuộc) mục đích
+
++ final cause: mục đích, cứu cánh
+*  dt
+- ((thường) số nhiều) cuộc đấu chung kết
+
++ the tennis finals: các cuộc đấu chung kết quần vợt
+- (có khi số nhiều) kỳ thi ra trường, kỳ thi tốt nghiệp
+- (thông tục) đợt báo phát hành cuối cùng trong ngày
+- (âm nhạc) âm gốc (trong một bản nhạc)
+
+@final
+- kết thúc cuối cùng
+ @Final goods
+- (Econ) Hàng hoá cuối cùng.
+: Những hàng hoá được sử dụng cho mục đích tiêu dùng chứ không dùng như là ĐẦU VÀO trong quá trình sản xuất ở các công ty. Do đó hàng hoá cuối cùng khác với SẢN PHẨM TRUNG GIAN.
+ @Final goods
+- (Econ) Hàng hoá cuối cùng.
+ @Final offer arbitration
+- (Econ) (Phương án) trọng tài ra quyết định cuối cùng.
+: Sự can thiệp vào TRANH CHẤP LAO ĐỘNG của một bên thứ ba độc lập và công bằng, bên thứ ba này xem xét các lý lẽ của hai bên và đề xuất ý kiến cuối cùng, quan điểm cuối cùng của một trong các bên tranh chấp sẽ được thực hiện.
+ @Final product
+- (Econ) Sản phẩm cuối cùng.
+: (Còn được gọi là tổng sản phẩm quốc nội) Tất cả các loại hàng hoá và dịch vụ được người cuối cùng mua. Tổng sản lượng của một nền kinh tế sau khi trừ đi SẢN PHẨM TRUNG GIAN.
+ @finale  
+*  dt
+- đoạn cuối (cuộc chạy đua...)
+- (âm nhạc) chương cuối
+- (sân khấu) màn chót
+- sự việc cuối cùng; sự kết thúc; phần kết thúc
+
+@finalisation
+* dt
+- sự hoàn tất, sự hoàn thành
+- <thể> sự vào vòng chung kết
+ @finalise
+* dgt
+- làm xong, hoàn thành
+- cho hình dạng cuối cùng, làm cho hình thành hình dạng cuối cùng; thông qua lần cuối cùng
+- <thể> vào vòng chung kết
+ @finalist  
+*  dt
+- (thể dục,thể thao) người vào chung kết
+
+@finality  
+*  dt
+- tính cứu cánh, nguyên tắc cứu cánh
+- tính chất cuối cùng; tính chất dứt khoát
+- lời nói cuối cùng; hành động cuối cùng
+
+@finalization
+* dt
+- sự hoàn tất, sự hoàn thành
+- <thể> sự vào vòng chung kết
+ @finalize  
+*  dgt
+- làm xong, hoàn thành
+- cho hình dạng cuối cùng, làm cho hình thành hình dạng cuối cùng; thông qua lần cuối cùng
+- (thể dục,thể thao) vào chung kết
+
+@finally  
+*  dt
+- cuối cùng, sau cùng
+- dứt khoát
+
++ to settle a matter finally: giải quyết dứt khoát một vấn đề
+
+@finance  
+*  dt
+- tài chính, sở quản lý tài chính
+
++ the Finance Department: bộ tài chính
+- (số nhiều) tài chính, tiền của
+*  ngdgt
+- cấp tiền cho, bỏ vốn cho, tìm vốn cho
+*  ndgt
+- làm công tác tài chính, hoạt động trong ngành tài chính
+
+@Finance
+- (Econ) Tài chính
+: Theo nghĩa hẹp, nó có nghĩa là VỐN dưới dạng tiền, tức là dưới dạng số tiền cho vay hoặc đi vay nhằm mục đích tạo vốn thông qua các thi trường hay thể chế tài chính. Theo cách nói thông thường thì cụm thuật ngữ này dùng để chỉ số tiền từ bất kỳ một nguồn nào được sử dụng cho bất kỳ một khoản chi tiêu nào.
+ @finance
+- (toán kinh tế) tài chính
+ @Finance Corporation for Industry
+- (Econ) Công ty Tài chính Công nghiệp.
+: Một tổng công ty cổ phần được lập vào năm 1973 từ Công ty Tài chính Công nghiệp (FCI) và Công ty Tài chính Công nghiệp và Thương mại (ICFC), FCI và ICFC được thành lập năm 1946 bởi Ngân hàng Anh, các ngân hàng thanh toán bù trừ London và các Ngân hàng Scotland nhằm cung cấp các khoản vay cho trung và dài hạn cho các công ty đang gặp khó khăn trong việc tăng số vốn từ các nguồn khác.
+ @Finance deepening
+- (Econ) Tăng cường tài chính; phát triển hệ thống tài chính.
+ @Finance house
+- (Econ) Nhà cung cấp tài chính; Công ty tài chính.
+: Một tổ chức trung gian tài chính, không phải Ngân hàng, có thể huy động các nguồn tiền từ vốn của riêng mình, thông qua việc tiếp nhận tiền gửi (thường là trong khoảng thời gian cố định), hay thậm chí bằng cách vay từ các thể chế khác, rồi cho vay với nhiều mục đích khác nhau, đặc biệt là để cấp tiền cho các hợp đồng thuê mua và cũng có thể là cho thuê.
+ @Finance houses market
+- (Econ) Thị trường các nhà cung cấp tài chính; Thị trường công ty tài chính.
+: Một nhóm Thị trường tiền tệ có liên quan với nhau và xuất hiện ở London vào những năm 1960.
+ @financial  
+*  tt
+- (thuộc) tài chính, về tài chính
+
++ a financial institute: trường tài chính
+
++ financial world: giới tài chính
+
++ to be in financial difficulties: gặp khó khăn về tài chính
+
+@financial
+- (toán kinh tế) (thuộc) tài chính
+ @Financial Capital
+- (Econ) Vốn tài chính.
+: Tài sản có khả năng chuyển hoán khác với tài sản vật chất của một công ty.
+ @Financial displine
+- (Econ) Nguyên tắc tài chính; Kỹ thuật tài chính.
+ @Financial instrument
+- (Econ) Công cụ tài chính.
+: Bất kỳ một loại giấy tờ nào được sử dụng với tư cách là bằng chứng nợ và việc bán và chuyển nhượng nó cho phép người bán có được một nguồn tài chính.
+ @Financial intermediary
+- (Econ) Trung gian tài chính.
+: Theo một nghĩa rộng, là bất kỳ một người nào có vai trò phối hợp người cung cấp cơ bản và người sử dụng cơ bản nguồn vốn TÀI CHÍNH.
+ @Financial price
+- (Econ) Giá tài chính.
+ @Financial rate of return
+- (Econ) Suất sinh lợi tài chính.
+ @Financial ratios
+- (Econ) Tỷ số tài chính.
+ @Financial risk
+- (Econ) Rủi ro tài chính.
+: Xem CORPORATE RISK
+ @Financial statement
+- (Econ) Báo cáo tài chính.
+ @Financial Times Actuaries Share Indices
+- (Econ) Chỉ số giá cổ phiếu thống kê của báo Financial Times.
+: Tập hợp các chỉ số giá và thu nhập trung bình và tiền lãi của các chứng khoán Anh trong sở giao dịch chứng khoán.
+ @Financial Times Industrial Ordinary Index
+- (Econ) Chỉ số công nghiệp của báo Financial Times.
+: Trước khi xuất hiên chỉ số FT - SE 100 vào năm 1984, thì chỉ số này là chỉ số gái cổ phiếu được sử dụng phổ biến nhất với tư cách là chỉ tiêu tổng quát về tình hình của Thị trường chứng khoán của Anh.
+ @Financial year
+- (Econ) Năm tài chính.
+: Các cơ quan khác nhau sử dụng các năm tài chính khác nhau để hạch toán tài chính và không cần phải trùng hợp với năm lịch sử tiêu chuẩn.
+ @financially
+* dt
+- về phương diện tài chính, về mặt tài chính
+ @financier  
+*  dt
+- chuyên gia tài chính
+- nhà tư bản tài chính, nhà tài phiệt
+- người xuất vốn, người bỏ vốn
+*  ndgt
+- (thường), đuốm nhoét lạu chùi phuyễn ngdgt
+- cung cấp tiền cho
+- quản lý tài chính
+- (từ Mỹ,nghĩa Mỹ) lừa đảo, lừa gạt
+
++ to financier money away: lừa tiền
+
++ to financier someone out of something: lừa ai lấy cái gì
+
+@fin-back   (finner) @finback
+* dt
+- (động vật) cá voi lưng xám
+ @finch  
+*  dt
+- (động vật học) chim họ sẻ
+
+@find  
+*  dt
+- sự tìm thấy (chồn, cáo, mỏ, vàng...)
+
++ a sure find: nơi chắc tìm thấy vật gì; nơi chắc có cáo, có chồn...
+- vật tìm thấy
+*  ngdgt
+- thấy, tìm thấy, tìm ra, bắt được
+- nhận, nhận được, được
+
++ to find favour: được chiếu cố
+- nhận thấy, xét thấy, thấy
+
++ how do you find yourself this morning?: sáng nay anh thấy người thế nào?
+
++ to find it necessary to do something: thấy cần thiết phải làm việc gì
+- thấy có (thời gian, can đảm...)
+
++ I can't find time to read: tôi không thấy có thời gian để đọc
+
++ to find courage to do something: thấy có can đảm để làm việc gì
+
++ nobody can find it in his heart to do that: không ai nỡ lòng nào mà làm việc đó
+- (từ Mỹ,nghĩa Mỹ) tới, đạt tới, trúng
+
++ the blow found his chin: quả đấm trúng cằm hắn
+- cung cấp
+
++ to find someone in clothes: cung cấp cho ai quần áo
+
++ to be well found in food: được cung cấp đầy đủ về thức ăn
+
++ all found: được cấp đầy đủ cả ăn, ở, quần áo, ngoài lương ra (người ở)
+- (pháp lý) xác minh và tuyên bố (tội, tội giết người...)
+
++ to find somebody guilty: xác minh và tuyên bố ai có tội
+!to find out
+- khám phá ra, tìm ra
+- phát minh ra
+- giải (một vấn đề)
+!to find out about
+- hỏi về, tìm hiểu về
+!to find one's account in
+- lợi dụng
+!to find one's feet
+- đi đứng được
+- (nghĩa bóng) tự lực được
+!to find [a] true bill
+- (xem) bill
+!to find oneself
+- thấy được sở trường năng khiếu của mình
+- tự cung cấp cho mình
+
+@find
+- tìm thấy
+ @findable  
+*  tt
+- có thể tìm thấy được, có thể khám phá được
+
+@finder  
+*  dt
+- người tìm ra, người tìm thấy
+- (kỹ thuật) bộ tìm
+
+@finder
+- (máy tính) bộ tìm
+ @finding  
+*  dt
+- sự tìm ra, sự khám phá; sự phát hiện; sự phát minh
+- vật tìm thấy; điều khám phá, tài liệu phát hiện; vật bắt được
+
++ "finding's keeping" is a scoundrel's motto: "của bắt được là của có thể giữ" là khẩu hiệu của kẻ vô lại
+- (pháp lý) sự tuyên án
+- (số nhiều) đồ nghề và nguyên liệu của thợ thủ công
+
+@finding-list
+* dt
+- mục lục sách thư viện
+ @fine  
+*  tt
+- tốt, nguyên chất (vàng, bạc...)
+- nhỏ, mịn, thanh mảnh; sắc
+
++ a fine pen: bút đầu nhỏ
+
++ fine sand: cát mịn
+
++ fine rain: mưa bụi
+
++ fine thread: sợi chỉ mảnh
+
++ a knife with a fine edge: con dao lưỡi sắc
+- tốt, khả quan, hay, giải
+
++ a fine idea: ý kiến hay
+
++ a fine teacher: giáo viên giỏi
+- lớn, đường bệ
+
++ fine potatoes: những củ khoai to
+
++ a man of fine presence: người trông đường bệ
+- đẹp, xinh, bảnh
+
++ a fine baby: đứa bé xinh, đứa bé kháu
+- đẹp, trong sáng
+
++ fine weather: trời đẹp, trời trong sáng
+- sặc sỡ, rực rỡ, loè loẹt
+
++ fine feather: lông sặc sỡ
+- cầu kỳ (văn)
+- có ý kiến khen ngợi, có ý ca ngợi
+
++ to say fine things about someone: khen ngợi ai
+- tế nhị, tinh vi; chính xác
+
++ a fine distinction: sự phân biệt tinh vi
+
++ fine mechanics: cơ học chính xác
+- cao thượng, cao quý
+
++ fine feelings: những cảm nghĩ cao quý
+- (thể dục,thể thao) hoàn toàn sung sức
+!fine feathers make birds
+- người tốt vì lụa
+!fine gentleman
+- ông lớn
+!fine lady
+- bà lớn
+*  dt
+- hay, khéo
+
++ that will suit me fine: cái đó đối với tôi vừa khéo
+
++ to talk fine: nói hay, nói khéo
+
++ to cut it fine: tính vừa khéo
+*  dt
+- trời đẹp
+!in rain or fine
+- dù mưa hay nắng
+- (nghĩa bóng) lúc khó khăn cũng như lúc thuận lợi
+*  ngdgt
+- lọc (bia) cho trong
+- (: away,  down,  off) làm thanh, làm mịn
+- làm nhỏ bớt, làm thon
+*  ndgt
+- trong ra (nước...)
+- trở nên thanh hơn, trở nên nhỏ hơn, trở nên mịn hơn
+- thon ra
+*  dt
+- tiền phạt
+
++ to impose a fine on someone: phạt vạ ai
+- tiền chồng nhà (của người mới thuê)
+*  ngdgt
+- bắt phạt ai, phạt vạ ai
+*  ndgt
+- trả tiền chồng nhà (người thuê nhà)
+*  dt
+- in fine tóm lại; cuối cùng, sau hết
+
+@fine
+- chính xác, thuần tuý; (tô pô) mịn   làm sạch
+@fine adjustment
+- (Tech) điều chỉnh tinh
+ @fine arts  
+*  dt
+- mỹ thuật, nghệ thuật tạo hình
+
+@fine champagne  
+*  dt
+- rượu cô-nhắc đặc biệt
+
+@Fine turning
+- (Econ) Tinh chỉnh.
+ @fine-cut  
+*  tt
+- thái nhỏ đều sợi (thuốc lá)
+
+@fine-darn  
+*  ngdgt
+- mạng chỗ rách lại
+
+@fine-draw  
+*  ngdgt fine-drew,  fine-drawn
+- khâu lằn mũi
+- kéo (sợi dây thép...) hết sức nhô ra
+
+@fine-drawn  
+*  động tt quá khứ của fine-draw
+*  tt
+- lằn mũi (đường khâu)
+- rất mảnh, rất nhỏ (dây thép...)
+- rất tinh vi, rất tinh tế (lý luận)
+- (thể dục,thể thao) được tập luyện cho thon người
+
+@fine-drew  
+*  ngdgt fine-drew,  fine-drawn
+- khâu lằn mũi
+- kéo (sợi dây thép...) hết sức nhô ra
+
+@fine-fingered
+* tt
+- tinh xảo
+- khéo tay
+ @fine-grained  
+*  tt
+- nhỏ thớ, mịn mặt (gỗ)
+
+@finely  
+*  dt
+- đẹp đẽ
+- tế nhị, tinh vi
+- cao thượng
+
+@fineness  
+*  dt
+- vẻ đẹp đẽ
+- tính tế nhị, tính tinh vi
+- tính cao thượng
+- sự đủ tuổi (vàng, bạc)
+- vị ngon (của rượu)
+
+@fineness
+- độ nhỏ của phân hoạch; (cơ học) tính chất khí động lực học
+ @fine-nosed
+* tt
+- thính mũi
+ @fine-pointed
+* tt
+- có đầu nhọn
+ @fine-print
+* dt
+- chữ in nhỏ
+ @finer
+- (tô pô) mịn hơn
+ @finery  
+*  dt
+- quần áo lộng lẫy
+- đồ trang trí loè loẹt
+- (từ hiếm,nghĩa hiếm) tính sang trọng, tính lịch sự
+*  dt
+- (kỹ thuật) lò luyện tinh
+
+@fines
+* dt số nhiều
+- quặng bụi; bụi quặng; phần hạt mịn
+ @fine-scale
+* dt
+- thang tỉ lệ nhỏ
+ @fine-spoken
+* tt
+- nói năng lịch sự
+ @fine-spun  
+*  tt
+- mỏng manh, nhỏ bé; mịn (vải)
+- không thực tế (lý thuyết)
+
+@finesse  
+*  dt
+- sự khéo léo, sự phân biệt tế nhị
+- mưu mẹo, mánh khoé
+*  dgt
+- dùng mưu đoạt (cái gì); dùng mưu đẩy (ai) làm gì; dùng mưu, dùng kế
+
++ to finesse something away: dùng mưu đoạt cái gì
+
+@finestill  
+*  ngdgt
+- cất, tinh cất (rượu)
+
+@fine-toothed comb  
+*  dt
+- lược bí
+!to go iver with a fine-toothed_comb
+- xem xét kỹ lưỡng, rà đi rà lại (một vấn đề gì)
+
+@fine-tune
+- (Tech) điều hưởng tinh, điều chỉnh vi cấp
+ @fine-wooled
+* tt
+- có răng sít
+
++  fine-wooled comb:lược bí
+ @finger  
+*  dt
+- ngón tay
+- ngón tay bao găng
+- vật hình ngón tay (trong máy...)
+!to burn one's fingers
+- burn to cross one's fingers
+- cross to have a finger in the pie
+- pie to lay a finger on
+- sờ nhẹ, đụng tới
+!to let something slip through one's fingers
+- buông lỏng cái gì
+!to lift (stir) a finger
+- nhích ngón tay (là được)
+!to look through one's fingers at
+- vờ không trông thấy
+!my fingers itch
+- tôi sốt ruột, tôi nóng lòng (muốn làm cái gì)
+!his fingers are all thumbs
+- (xem) thumbs
+!to put one's finger on
+- vạch đúng (những cái gì sai trái)
+!to turn (twist) someone round one's finger
+- mơn trớn ai
+!with a wet finger
+- dễ dàng, thoải mái
+*  ngdgt
+- sờ mó
+
++ to finger a piece of cloth: sờ xem một tấm vải
+- ăn tiền, ăn hối lộ
+
++ to finger someone's money: ăn tiền của ai
+- đánh (đàn); búng (dây đàn bằng ngón tay)
+
++ to finger the piano: đánh pianô
+- ghi cách sử dụng các ngón tay (vào bản nhạc)
+
+@finger reading  
+*  dt
+- sự đọc bằng cách lần ngón tay (người mù)
+
+@finger-alphabet   (finger-language) @finger-board  
+*  dt
+- (âm nhạc) bàn phím
+
+@finger-bowl   (finger-glass) @fingered  
+*  tt
+- có ngón tay ((thường) ở tt ghép)
+- có vết ngón tay bôi bẩn, có hằn vết ngón tay
+
+@finger-ends  
+*  dt số nhiều
+- đầu ngón tay
+!to arrive at one's finger-ends
+- lâm vào cảnh túng quẫn; lâm vào bước đường cùng
+!to have at one's finger-ends
+- biết rõ như lòng bàn tay
+- có sãn sàng để dùng ngay
+
+@finger-fern  
+*  dt
+- (thực vật học) cây tổ diều
+
+@finger-fish  
+*  dt
+- (động vật học) sao biển
+
+@finger-glass   (finger-glass) @finger-grass
+* dt
+- (thực vật) cỏ mật
+ @finger-hold
+* dt
+- chỗ dựa mỏng manh
+ @finger-hole  
+*  dt
+- (âm nhạc) lỗ bấm (sáo, tiêu...)
+
+@finger-index
+* dt
+- ký hiệu vẽ ngón tay
+ @fingering  
+*  dt
+- sự sờ mó
+- (âm nhạc) ngón bấm
+*  dt
+- len mịn (để đan bít tất)
+
+@finger-language   (finger-language) @fingerless  
+*  tt
+- không có ngón
+
+@fingerling  
+*  dt
+- vật nhỏ
+- (động vật học) cá hồi nhỏ
+
+@finger-mark  
+*  dt
+- vết ngón tay, dấu ngón tay
+
+@finger-nail  
+*  dt
+- móng tay
+!to the finger-nails
+- hoàn toàn
+
+@fingernail
+* dt
+- móng tay
+
++  to the finger-nails:hoàn toàn
+ @finger-plate
+* dt
+- tấm bảo vệ buộc vào cửa, thường gần tay cầm để khỏi làm bẩn cửa
+ @finger-post  
+*  dt
+- bảng chỉ đường
+
+@finger-print  
+*  dt
+- dấu lăn ngón tay, dấu điềm chỉ
+
+@fingerprint  
+*  ngdgt
+- lấy dấu lăn ngón tay, lấy dấu điềm chỉ
+
+@finger-stall  
+*  dt
+- bao ngón tay
+
+@finger-tip  
+*  dt
+- đầu ngón tay
+!to have at one's finger-tips
+- (xem) to have at one's finger-ends ((xem) finger-ends)
+
+@finial  
+*  dt
+- (kiến trúc) hình chạm đầu mái
+
+@finical   (finicking) @finicality   (finicalness) @finicalness   (finicalness) @finicking   (finicking) @finicky   (finicking) @finikin   (finicking) @finis  
+*  dt, chỉ số ít
+- hết (viết ở cuối sách)
+- sự kết liễu, sự tận số
+
+@finish  
+*  dt
+- sự kết thúc, sự kết liễu; phần cuối, phần kết thúc, đoạn kết thúc
+
++ to fight to a finish: đánh đến cùng
+
++ to be in at the finish: (săn) có mặt lúc hạ con cáo; có mặt lúc kết thúc
+
++ the finish of the race: đoạn cuối của cuộc đua; đích của cuộc đua
+- sự sang sửa, cuối cùng, sự hoàn thiện
+- tích chất kỹ, tính chất trau chuốt
+*  ngdgt
+- hoàn thành, kết thúc, làm xong
+
++ to finish one's work: làm xong công việc
+- dùng hết, ăn (uống) hết, ăn (uống) sạch
+- sang sửa lần cuối cùng
+- hoàn chỉnh sự giáo dục của (ai)
+- (thông tục) giết chết, cho đi đời
+- (thông tục) làm mệt nhoài
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) làm cho không còn giá trị gì nữa
+!to finish off
+- hoàn thành, kết thúc, làm xong
+- giết chết, kết liễu
+!to finish up
+- hoàn thành, kết thúc, làm xong ((như) to finish off)
+- dùng hết, ăn hết sạch; ăn nốt cho hết
+!to finish with
+- hoàn thành, kết thúc, làm xong ((như) to finish off)
+- chấm dứt mọi quan hệ với; thờ ơ với
+
+@finish
+- hoàn thành, kết thúc
+ @finished  
+*  tt
+- hết, đã hoàn thành, đã kết thúc, đã xong
+- đã hoàn hảo, đã hoàn chỉnh, đã được sang sửa lần cuối cùng
+
+@finisher  
+*  dt
+- người kết thúc
+- người sang sửa lần cuối cùng (trong quá trình sản xuất)
+- (thông tục) đòn kết liễu
+
+@finishing  
+*  dt
+- (kỹ thuật) sự sang sửa lần cuối
+- (nghành dệt) sự hồ (vải)
+*  tt
+- kết thúc, kết liễu
+
++ finishing stroke: đòn kết liễu
+
+@finishing shool
+* dt
+- trường huấn luyện con gái nhà giàu cho quen với lối sống phong lưu đài các
+ @finitary
+- hữu hạn
+ @finite  
+*  tt
+- có hạn; có chừng; hạn chế
+- (ngôn ngữ học) có ngôi (dgt)
+
+@finite
+- hữu hạn
+ @finite difference method (FDM)
+- (Tech) phương pháp vi phân hữu hạn
+ @finite element method (FEM)
+- (Tech) phương pháp phần tử hữu hạn
+ @Finite horizon
+- (Econ) Tầm nhìn @finite impulse response (FIR)
+- (Tech) sự đáp ứng xung lực hữu hạn
+ @Finite memory
+- (Econ) Bộ nhớ xác định (hữu hạn).
+: Một tính chất của QUÁ TRÌNH XU THẾ TĨNH.
+ @finite process
+- (Tech) tiến trình hữu hạn
+ @finite sequence
+- (Tech) dãy hữu hạn
+ @finite state machine
+- (Tech) máy có trạng thái hữu hạn
+ @finiteness  
+*  dt
+- sự có hạn; tính có hạn
+- cái có hạn
+
+@finitism
+- (logic học) chủ nghĩa hữu hạn
+ @finitude
+* dt
+- tính hữu hạn; tính hạn chế
+ @fink  
+*  dt,  (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- kẻ tố giác, tên chỉ điểm
+- kẻ phá hoại cuộc đình công
+- kẻ đáng khinh
+
+@finlander
+* dt
+- người Phần-lan
+ @finless
+* tt
+- không vây
+ @finlet
+* dt
+- vây nhỏ
+ @fin-like
+* tt
+- dạng vây
+ @finn   (Fin) @finnan  
+*  dt
+- (động vật học) cá êfin hun khói ((cũng) finnan harddock)
+
+@finned
+* tt
+- có vây
+ @finned
+- tựa lên, tựa vào
+ @finner   (finner) @finnic  
+*  tt
+- (thuộc) giống người Phần-lan
+- (như) finnish
+
+@finnish  
+*  tt
+- (thuộc) Phần-lan
+*  dt
+- tiếng Phần-lan
+
+@finno-ugrian
+* tt, cũng finno-ugric
+- (ngôn ngữ) thuộc tiếng Phần-Hung
+ @finny  
+*  tt
+- có vây
+- như vây cá
+- có nhiều cá
+
+@fin-shaped
+* tt
+- dạng vây
+ @fionet
+- Tên một tập các tiêu chuẩn và thủ tục chuyển đổi dữ liệu, cho phép các hệ thống bảng bulletin (BBS) máy tính hoạt động riêng có thể chuyển đổi dữ liệu, các tệp tin và thư điện tử trên toàn thế giới, bằng hệ thống điện thoại toàn cầu
+ @fiord   (fjord) @fioritura
+* dt; số nhiều fioriture
+- nét hoa mỹ
+- hình tô điểm
+ @fir  
+*  dt
+- (thực vật học) cây linh sam ((cũng) fir tree)
+- gỗ linh sam
+
+@fire  
+*  dt
+- lửa, ánh lửa
+
++ fire burns: lửa cháy
+
++ to strike fire: đánh lửa
+
++ there is no smoke without fire: không có lửa sao có khói
+- sự cháy, hoả hoạn, sự cháy nhà
+
++ on fire: đang cháy
+
++ to set fire to something; to set something on fire: đốt cháy cái gì
+
++ to catch (take) fire: bắt lửa, cháy
+
++ fire!: cháy nhà!
+- ánh sáng
+
++ St Elmo's fire: hòn sáng (thường thấy ở tàu khi bão)
+- sự bắn hoả lực
+
++ to open fire: bắt đầu bắn, nổ súng
+
++ running fire: loạt súng nổ liên hồi; (nghĩa bóng) sự phê bình tới tấp; sự phản đối ầm ầm
+
++ under enemy fire: dưới lằn đạn của địch, dưới hoả lực của địch
+
++ between two fire: bị bắn từ hai phía lại
+
++ line of fire: đường đạn (sắp bắn)
+- lò sưởi
+
++ an electrice fire: lò sưởi điện
+- sự tra tấn bằng lửa
+- sự sốt, cơn sốt
+- ngọn lửa ((nghĩa bóng)), sự hăng hái, nhiệt tình, sự sốt sắng, sự vui vẻ hoạt bát
+
++ the fire of patriotism: ngọn lửa yêu nước
+- sự xúc động mạnh mẽ; nguồn cảm hứng; óc tưởng tượng linh hoạt
+!to be put to fire and sword
+- ở trong cảnh nước sôi lửa bỏng
+!burnt child dreads the fire
+- chim phải tên sợ làn cây cong
+!the fat is in the fire
+- (xem) flat
+!to go through fire and water
+- đương đầu với nguy hiểm
+!to hang fire
+- (xem) hang
+!to miss fire
+- (như) to hang fire
+- thất bại (trong việc gì)
+!out of the frying-pan into the fire
+- tránh vỏ dưa gặp vỏ dừa
+!to play with fire
+- chơi với lửa ((nghĩa đen) & (nghĩa bóng))
+!to pour oil on fire
+!to add fuel to the fire
+- lửa cháy đổ thêm dầu
+!to set the Thames on fire
+- làm những việc kinh thiên động địa
+!to set the world on fire
+- (từ Mỹ,nghĩa Mỹ) thành công rực rỡ; lừng danh
+*  ngdgt
+- đốt cháy, đốt (lò...)
+- làm nổ, bắn (súng...)
+
++ to fire a mine: giật mìn
+
++ to fire a rocket: phóng rôcket
+- làm đỏ
+- nung
+
++ to fire bricks: nung gạch
+- sấy (chè, thuốc lá...)
+- đốt, khử trùng (bằng chất hoá học)
+- thải, đuổi, sa thải
+- (nghĩa bóng) kích thích (trí tưởng tượng)
+- (nghĩa bóng) khuyến khích, làm phấn khởi
+*  ndgt
+- bắt lửa, cháy, bốc cháy
+- nóng lên
+- rực đỏ
+- nổ (súng); nổ súng, bắn
+- chạy (máy)
+
++ the engine fires evenly: máy chạy đều
+!to fire away
+- bắt đầu tiến hành
+- nổ (súng)
+!to fire broadside
+- bắn tất cả các súng một bên mạn tàu
+!to fire off
+- bắn
+- (nghĩa bóng) phát ra, nổ ra
+
++ to fire off a remark: bất chợt phát ra một câu nhận xét
+
++ to fire off a postcard: gửi cấp tốc một bưu thiếp
+!to fire up
+- nổi giận đùng đùng
+!to fire salute
+- bắn súng chào
+
+@fire control radar
+- (Tech) radda điều khiển bắn
+ @fire department  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) sở cứu hoả
+
+@fire house   (fire_house) @fire sale  
+*  dt
+- sự bán rẻ những đồ đạc bị cháy dở
+
+@fire station   (fire_house) @fire-alarm  
+*  dt
+- tiếng còi báo động cháy
+- báo động cháy
+
+@fire-arm  
+*  dt
+- ((thường) số nhiều) súng, súng ngắn
+
+@firearm
+* dt
+- súng cầm tay các loại (súng trường, súng lục...)
+
++  to carry firearms:mang súng
+ @fire-arrow
+* dt
+- tên bắn đầu có lửa
+* dt
+- tên bắn đầu có lửa
+ @fireback  
+*  dt
+- (động vật học) gà lôi đỏ Xu-ma-tơ-ra
+
+@fire-bag
+- %%fire-bag%%fire-bag
+ @fire-ball  
+*  dt
+- sao băng
+- chớp hình cầu
+- quả cầu lửa (ở trung tâm của một vụ nổ bom nguyên tử)
+- (sử học),  (quân sự) đạn lửa
+
+@fire-bar
+* dt
+- thanh ghi lò
+ @fire-barrier
+* dt
+- tường chắn lửa; vách ngăn lửa
+ @fire-basket  
+*  dt
+- lò than hồng
+
+@fire-beacon
+* dt
+- lửa đốt báo hiệu
+ @fire-beetle
+* dt
+- (động vật) đom đóm bổ củi
+ @fire-bell
+* dt
+- chuông báo hoả hoạn
+ @fire-blight
+* dt
+- bệnh làm thối lê, táo
+ @fire-boat
+* dt
+- thuyền chữa cháy
+ @fire-bolt
+* dt
+- tia chớp
+ @fire-bomb  
+*  dt
+- bom cháy
+
+@fire-box
+* dt
+- hộp lửa; lò
+ @fire-brand  
+*  dt
+- củi đang cháy dở; khúc củi đang cháy dở
+- kẻ xúi giục bạo động; kẻ đâm bị thóc chọc bị gạo
+
+@fire-break  
+*  dt
+- đai trắng phòng lửa (ở rừng, cánh đồng cỏ...)
+
+@fire-brick  
+*  dt
+- gạch chịu lửa
+
+@fire-brigade  
+*  dt
+- đội chữa cháy ((cũng) fire-company)
+
+@fire-bug  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) con đom đóm
+- (từ Mỹ,nghĩa Mỹ) người mắc chứng cuồng đốt nhà; người cố ý đốt nhà
+
+@fire-clay  
+*  dt
+- đất sét chịu lửa
+
+@fire-company  
+*  dt
+- (như) fire-brigade
+- hãng bảo hiểm hoả hoạn
+
+@fire-control  
+*  dt
+- hệ thống điều khiển súng (ở trên tàu...)
+
+@fire-cracker  
+*  dt
+- pháo (để đốt)
+
+@firecracker
+* dt
+- pháo (để đốt)
+
++  this year, it is forbidden to set off firecrackers:năm nay cấm đốt pháo
+ @fire-damp  
+*  dt
+- khí mỏ
+
+@fired-dog
+* dt
+- vỉ lò
+ @fire-department
+* dt
+- (từ Mỹ, nghĩa Mỹ) sở cứu hoả
+ @fire-detector
+* dt
+- khí cụ tự báo hoả hoạn
+ @fired-off
+* tt
+- đã cháy hết
+ @fire-dog  
+*  dt
+- vĩ lò
+
+@fire-door
+* dt
+- cửa lò
+ @fire-dragon
+* dt
+- rồng phun lửa (thần thoại)
+ @fire-drake  
+*  dt
+- sao băng
+- (thần thoại,thần học) rồng phun lửa
+
+@fire-dress
+* dt
+- quần áo chống lửa
+ @fire-drill
+* dt
+- diễn tập cứu hoả
+- biện pháp phòng hoả
+ @fire-eater  
+*  dt
+- người nuốt lửa (làm trò quỷ thuật)
+- người hiếu chiến, kẻ hung hăng
+
+@fire-engine  
+*  dt
+- xe chữa cháy
+
+@fire-escape  
+*  dt
+- thang phòng cháy (để phòng khi nhà lầu cháy có đường thoát ra ngoài)
+
+@fire-extinguisher  
+*  dt
+- bình chữa cháy
+
+@fire-eyed  
+*  tt
+- (thơ ca) mắt sáng long lanh; mắt nảy lửa
+
+@fire-fighter  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) lính chữa cháy
+
+@firefighter
+* dt
+- (từ Mỹ,nghĩa Mỹ) lính chữa cháy
+ @firefighting
+* dt
+- sự chữa cháy
+ @fire-fish
+* dt
+- (động vật) cá rồng
+ @fire-flair  
+*  dt
+- (động vật học) cá đuối gai độc
+
+@fire-fly  
+*  dt
+- (động vật học) con đom đóm
+
+@fire-foam
+* dt
+- bọt khí các-bon (để chữa cháy)
+ @fire-grate
+* dt
+- ghi lò; vỉ lò
+ @fire-guard  
+*  dt
+- khung chắn lò sưởi
+- (như) fire-watcher
+
+@fire-hazard
+* dt
+- nguy cơ bốc cháy
+ @fire-hole
+* dt
+- cửa lò
+ @fire-hook
+* dt
+- câu liêm chữa cháy
+ @fire-hose  
+*  dt
+- ống vòi rồng
+
+@fire-house
+* dt
+- trạm chữa cháy
+ @fire-hunter
+* dt
+- trạm cứu hoả (ở mỏ)
+ @fire-hunting
+* dt
+- việc đi săn ban đêm
+ @fire-hydrant
+* dt
+- vòi lấy nước chữa cháy
+ @fire-insurance  
+*  dt
+- bảo hiểm hoả hoạn
+
+@fire-irons  
+*  dt số nhiều
+- bộ đồ lò (xẻng, cái gắp, thanh xọc...)
+
+@fire-kiln
+* dt
+- lò
+ @fireladder
+* dt
+- thang chữa cháy
+ @fireless  
+*  tt
+- không có lửa
+
+@fire-light  
+*  dt
+- ánh sáng lò sưởi
+
+@fire-lighter  
+*  dt
+- cái để nhóm lửa
+
+@firelock  
+*  dt
+- súng kíp
+
+@fireman  
+*  dt
+- đội viên chữa cháy
+- công nhân đốt lò
+
+@fire-master
+* dt
+- đội trưởng lính cứu hoả
+ @fire-net
+* dt
+- lưới an toàn lính cứu hoả dùng
+ @fire-new  
+*  tt
+- (từ cổ,nghĩa cổ) mới toanh
+
+@fire-office  
+*  dt
+- hãng bảo hiểm hoả hoạn
+
+@fire-opal  
+*  dt
+- (khoáng chất) opan lửa
+
+@fire-pan  
+*  dt
+- lò con (mang đi lại được để nấu ngoài trời)
+
+@fire-piller
+* dt
+- vòi lấy nước chữa cháy (ở đường phố)
+ @fire-place  
+*  dt
+- lò sưởi
+
+@fire-plug  
+*  dt
+- (viết tắt) F.P. chỗ lắp vòi rồng chữa cháy (ở hệ thống dẫn nước ở đường phố)
+
+@fire-point
+* dt
+- điểm bốc cháy
+ @fire-policy  
+*  dt
+- hợp đồng bảo hiểm hoả hoạn
+
+@fire-pot
+* dt
+- chén nung; nồi luyện
+ @fire-power
+* dt
+- <qsự> hoả lực
+ @fireproof  
+*  tt
+- chịu lửa, không cháy
+
+@fireproofness
+* dt
+- tính chịu lửa
+ @fire-protective
+* tt
+- chống cháy; không bị cháy
+ @fire-pump  
+*  dt
+- bơm chữa cháy
+
+@firer  
+*  dt
+- người đốt
+- người bắn súng
+- người châm ngòi nổ; máy châm ngòi nổ
+
+@fire-raiser
+* dt
+- kẻ cố ý gây hoả hoạn
+ @fire-raising  
+*  dt
+- tội đốt nhà, sự cố ý đốt nhà
+
+@fire-red
+* tt
+- đỏ như lửa
+ @fire-refined
+* dt
+- được tinh luyện trong lửa
+ @fire-refining
+* dt
+- sự luyện trong lửa
+ @fire-resistance
+* dt
+- tính chịu lửa
+ @fire-resistant
+* tt
+- chịu lửa
+ @fire-room
+* dt
+- phòng đốt lửa; buồng đốt
+ @fire-screen  
+*  dt
+- màn chống nóng
+
+@fire-ship  
+*  dt
+- (sử học) tàu hoả công (mang chất đốt để đốt tàu địch)
+
+@fire-shovel
+* dt
+- xẻng xúc lửa
+ @fireside  
+*  dt
+- chỗ cạnh lò sưởi; chỗ bên lò sưởi
+
++ to sit at the fireside: ngồi bên lò sưởi
+- (nghĩa bóng) cuộc sống gia đình
+
++ a fireside scene: cảnh sống gia đình
+!a fireside chat
+- (từ Mỹ,nghĩa Mỹ) bài phát thanh buổi nói chuyện với nhân dân của tổng thống
+
+@fire-station
+* dt
+- trạm cứu hoả
+ @fire-steel
+* dt
+- thép đánh lấy lửa
+ @fire-step   (firing-step) @fire-stone  
+*  dt
+- thợ đốt lò
+
+@fire-teaser
+* dt
+- thợ đốt lò
+ @fire-teazer  
+*  dt
+- thợ đốt lò
+
+@fire-tower
+* dt
+- tháp báo động hoả hoạn
+ @fire-trap  
+*  dt
+- nhà không có lối thoát khi cháy
+
+@fire-truck  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) xe chữa cháy
+
+@fire-walk
+* ngdgt
+- đi trên lửa
+* dt
+- (lịch sử) cách bắt đi trên lửa (để (xem) có bị thương không mà định tội)
+- cách đi trên đá nung (nghi thức (tôn giáo))
+ @fire-walker  
+*  dt
+- (tôn giáo) người đi trên đá nung, người đi trên tro nóng
+
+@fire-walking  
+*  dt
+- (tôn giáo) lễ đi trên đá nung, lễ đi trên tro nóng
+
+@fire-watcher  
+*  dt
+- người canh nhà cháy (do bom cháy) ((cũng) fire-guard)
+
+@fire-water  
+*  dt
+- (từ Mỹ,nghĩa Mỹ), (đùa cợt) rượu mạnh
+
+@firewood  
+*  dt
+- củi
+
+@fire-wood
+* dt
+- củi đun
+ @fireworks  
+*  dt số nhiều
+- pháo hoa, pháo bông; cuộc đốt pháo hoa
+- sự sắc sảo
+- sự nổi nóng
+!to knock fireworks out of someone
+- đánh ai nảy đom đóm mắt
+
+@fire-works
+* dt số nhiều
+- pháo hoa
+- cuộc đốt pháo hoa
+- sự nổi nóng
+ @fire-worship  
+*  dt
+- sự thờ thần lửa
+
+@fire-worshiper
+* dt
+- người thờ lửa; người theo bái hoả giáo
+ @firing  
+*  dt
+- sự đốt cháy
+- sự nung gạch
+- sự đốt lò
+- sự giật mình
+- sự bắn; cuộc bắn
+- chất đốt (than, củi, dầu...)
+
+@firing ground  
+*  dt
+- trường bắn
+
+@firing voltage
+- (Tech) diện áp bắt đầu phóng điện, điện áp mồi lửa
+ @firing-ground
+* dt
+- trường bắn
+ @firing-line  
+*  dt
+- tuyến lửa
+
+@firing-party   (firing-squad) @firing-pin
+* dt
+- kim hoả; cái kim làm đạn bắn đi
+ @firing-squad   (firing-squad) @firing-step   (firing-step) @firkin  
+*  dt
+- thùng nhỏ (đựng bơ, rượu, cá...)
+- Fikin (đơn vị đo lường bằng khoảng 40 lít)
+
+@firm  
+*  dt
+- hãng, công ty
+*  tt
+- chắc, rắn chắc
+
++ firm muscles: bắp thịt rắn chắc
+- vững chắc; bền vững
+
++ a firm foundation: nền tảng vững chắc
+- nhất định không thay đổi
+
++ firm prices: giá nhất định
+- mạnh mẽ
+
++ a firm voice: giọng nói mạnh mẽ
+- kiên quyết, vững vàng, không chùn bước
+
++ to firm measure: biện pháp kiên quyết
+
++ a firm faith: lòng tin sắt đá
+
++ a firm position (stand): lập trường kiến định
+- trung thành, trung kiên
+!as firm as rock
+- vững như bàn thạch
+!to be on the firm ground
+- tin chắc
+!to take a firm hold of something
+- nắm chắc cái gì
+*  dt
+- vững, vững vàng
+
++ to stand firm: đứng vững
+!to hold firm to one's beliefs
+- giữ vững niềm tin
+*  ngdgt
+- làm cho vững vàng, làm cho chắc chắn
+- nền (đất)
+- cắm chặt (cây) xuống đất
+*  ndgt
+- trở nên vững chắc, trở nên rắn chắc
+
+@Firm
+- (Econ) Hãng sản xuất.
+: Trong kinh tế học tân cổ điển, đó là tên gọi có tính chất phân tích của một thể chế thực hiện nhiệm vụ chuyển các đầu vào thành đầu ra.
+ @firm
+- (toán kinh tế) hàng buôn   rắn, bền; ổn định
+@Firm, theory of the
+- (Econ) Lý thuyết về hãng.
+: Lý thuyết về hãng là chủ đề quan trọng trong KINH TẾ HỌC VI MÔ đề cập đến việc giải thích và dự đoán hành vi của hãng, đặc biệt là trên phương diện các yếu tố quyết định giá cả và sản lượng.
+ @firmament  
+*  dt
+- bầu trời
+
+@firman  
+*  dt
+- sắc chỉ (của vua chúa phương Đông)
+
+@firmer
+* dt
+- cái đục chạm gỗ
+ @firmly  
+*  dt
+- vững chắc
+- kiên quyết
+
+@firmness  
+*  dt
+- sự vững chắc
+- sự kiên quyết
+
+@Firm-specific human capital
+- (Econ) Vốn nhân lực đặc thù đối với hãng.
+ @firmware
+- (Tech) kiên liệu, phần dẻo [TN]
+ @first  
+*  dt
+- thứ nhất
+- đầu tiên; quan trọng nhất; cơ bản
+
++ first principles: nguyên tắc cơ bản
+!at first hand
+- trực tiếp
+!at first sight
+- từ ban đầu, từ cái nhìn ban đầu
+
++ love at first sight: tình yêu từ buổi đầu gặp nhau
+- thoạt nhìn ((cũng) at first view)
+!at first view
+- thoạt nhìn
+
++ at first view, the problem seems easy: thoạt nhìn vấn đề như để giải quyết
+!at the first blush
+- (xem) blush
+!at the first go-off
+- mới đầu
+!to climb in first speed
+- sang số 1
+!to do something first thing
+- (thông tục) làm việc gì trước tiên
+!to fall head first
+- ngã lộn đầu xuống
+*  dt
+- trước tiên, trước hết
+- trước
+
++ must get this done first: phải làm việc này trước
+- đầu tiên, lần đầu
+
++ where did you see him first?: lần đầu anh gặp cậu ấy ở đâu?
+- thà
+
++ he'd die first before betraying his cause: anh ấy thà chết chứ không thể phản lại sự nghiệp của mình
+!first and foremost
+- đầu tiên và trước hết
+!first and last
+- nói chung
+!first come first served
+- (xem) come
+!first of all
+- trước hết
+!first off
+- (từ Mỹ,nghĩa Mỹ) trước hết
+!first or last
+- chẳng chóng thì chày
+*  dt
+- người đầu tiên, người thứ nhất; vật đầu tiên, vật thứ nhất
+
++ the first in arrive was Mr X: người đến đầu tiên là ông X
+- ngày mùng một
+
++ the first of January: ngày mùng một tháng Giêng
+- buổi đầu, lúc đầu
+
++ at first: đầu tiên, trước hết
+
++ from the first: từ lúc ban đầu
+
++ from first to lasi: từ đầu đến cuối
+- (số nhiều) hàng loại đặc biệt (bơ, bột)
+- (từ Mỹ,nghĩa Mỹ),  (kỹ thuật) số một (máy nổ...)
+!the First
+- ngày mồng một tháng chín (mở đầu mùa săn gà gô)
+
+@first
+- thứ nhất, đầu tiên
+- at f. từ đầu, đầu tiên
+- from the f. ngay từ đầu
+- f. of all trước hết 
+ @first base
+* dt
+- (bóng chày) điểm đầu tiên trong bốn điểm phải được chạm bóng
+ @first come first served
+- (Tech) đến trước được phục vụ trước
+ @first come last served
+- (Tech) đến trước được phục vụ sau
+ @first degree
+* tt
+- mức một, độ một
+ @First difference
+- (Econ) Vi phân bậc I.
+: Hiệu số giữa một biến và giá trị trễ một bậc về thời gian của nó.
+ @first finger
+* dt
+- ngón tay trỏ
+ @first floor  
+*  dt
+- tầng hai, gác hai
+- (từ Mỹ,nghĩa Mỹ) tầng dưới, tầng một
+
+@first harmonic
+- (Tech) hàm điều hòa bậc nhất
+ @first lady  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) vợ tổng thống; vợ thông đốc bang
+- người đàn bà trội nhất (trong nghệ thuật)
+
+@first name  
+*  dt
+- tên thánh
+
+@first night  
+*  dt
+- đêm biểu diễn đầu tiên
+
+@first officer
+* dt
+- <hải> phó thuyền trưởng
+ @First order condition
+- (Econ) Điều kiện đạo hàm bậc I.
+: Nhìn chung, điều kiện này nói rằng các đạo hàm bậc nhất của HÀM MỤC TIÊU theo BIẾN LỰA CHỌN phải bằng 0 để xác định GIÁ TRỊ CỰC TRỊ.
+ @first refusal
+* dt
+- sự ưu tiên lựa chọn
+ @first-aid  
+*  dt
+- sự cấp cứu (trước khi bác sĩ đến nơi)
+*  tt
+- cấp cứu, dùng để cấp cứu
+
++ a first-aid station: trạm cấp cứu
+
+@first-begot
+* tt
+- đầu lòng
+ @first-born  
+*  tt
+- đầu lòng, cả (con)
+*  dt
+- con đầu lòng, con cả
+
+@first-chop  
+*  tt
+- loại một, loại nhất
+
+@first-class  
+*  dt
+- nhóm người hơn hẳn mọi người
+- số vật tốt hơn cả
+- hạng nhất (xe lửa...)
+- hạng giỏi nhất, hàng giỏi nhất (trong kỳ thi)
+*  tt
+- loại một, loại nhất
+
++ a first-class hotel: khách sạn loại nhất
+*  dt
+- bằng vé hạng nhất
+
++ to reavel first-class: đi vé hạng nhất
+
+@first-classer  
+*  dt
+- (thể dục,thể thao) người cừ nhất, người giỏi nhất
+
+@first-coat  
+*  dt
+- lớp sơn lót
+
+@first-cousin  
+*  dt
+- anh con bác, chị con bác, em con chú, em con cậu, em con cô, em con dì
+
+@first-day  
+*  dt
+- ngày chủ nhật
+
+@first-floor
+* dt
+- tầng hai
+- (từ Mỹ, nghĩa Mỹ) tầng trệt, tầng một
+ @first-foot   (first-footer) @first-footer   (first-footer) @first-fruits  
+*  dt số nhiều ((cũng) firstling)
+- quả đầu mùa
+- (nghĩa bóng) thành quả đầu tiên, kết quả lao động đầu tiên
+- (sử học) tiền hối lộ của người mới nhận chức nộp cho quan trên
+
+@first-grade
+* tt
+- thượng hảo hạng
+ @first-hand  
+*  dt & dt
+- trực tiếp
+
++ first-hand information: tin tức mắt thấy tai nghe
+
++ to learn something first-hand: trực tiếp biết việc gì
+
+@firsthand
+* tt, adv
+- trực tiếp
+
++  first-hand information:tin tức mắt thấy tai nghe
+
++  to learn something first-hand:trực tiếp biết việc gì
+ @first-in first-out (FIFO)
+- (Tech) vào trước ra trước
+ @first-lady
+* dt
+- (từ Mỹ, nghĩa Mỹ) tổng thống phu nhân; phu nhân thống đốc bang
+- người đàn bà lỗi lạc trong một ngành nghệ thuật
+ @firstling  
+*  dt,  (thường) số nhiều
+- (như) first-fruits
+- con đầu tiên (của thú vật)
+
+@firstly  
+*  dt
+- thứ nhất, đầu tiên là
+
+@first-nighter  
+*  dt
+- người hay dự những buổi biểu diễn đầu tiên
+
+@first-offender  
+*  dt
+- người phạm tội lần đầu tiên
+
+@first-quarter
+* dt
+- trăng non
+- tuần trăng non
+ @first-quater  
+*  dt
+- trăng non
+- tuần trăng non
+
+@first-rate  
+*  tt
+- hạng nhất, loại nhất, loại một
+- (thông tục) xuất sắc, rất tốt, rất cừ
+!the first-rate Powers
+- các đại cường quốc
+*  dt,  (thông tục)
+- rất tốt, rất cừ, rất khoẻ
+
+@first-up
+* tt
+- (từ úc) (thông tục) thí nghiệm đầu tiên
+ @firth   (frith) @fir-tree  
+*  dt
+- (thực vật học) cây linh sam
+
+@fisc  
+*  dt
+- (sử học) kho bạc; kho riêng (của vua La-mã)
+- (từ hiếm,nghĩa hiếm) ngân khố, công khố
+
+@fiscal  
+*  tt
+- (thuộc) công khố; (thuộc) tài chính
+
++ fiscal year: năm tài chính
+*  dt
+- viên chức tư pháp (ở một số nước Châu-âu)
+- (Ê-cốt) (pháp lý) biện lý
+
+@fiscal
+- (toán kinh tế) (thuộc) thu nhập
+ @Fiscal decentralization
+- (Econ) Sự phân cấp thuế khoá; Sự phân cấp ngân sách.
+: Xem FISCAL FEDERALISM.
+ @Fiscal drag
+- (Econ) Sức cản của thuế khoá.
+: Ảnh hưởng của Lạm phát đối với thuế suất hữu hiệu hay trung bình.
+ @Fiscal federalism
+- (Econ) Chế độ tài khoá theo mô hình liên bang.
+: Một hệ thống thuế và chi tiêu công cộng trong đó những khi khả năng thu nhập tăng và quyền kiểm soát chi tiêu được giao cho các cấp khác nhau trong một quốc gia, từ chính phủ đến các đơn vị nhỏ nhất ở chính quyền địa phương.
+ @Fiscal illusion
+- (Econ) Ảo giác thuế khoá.
+: Tình huống trong đó những lợi ích của chi tiêu chính phủ được những người hưởng chi tiêu này xác định một các rõ ràng nhưng chi phí không xác định rõ được, những chi phí này bị phân tán theo thời gian và trong cộng đồng dân cư.
+ @Fiscal multiplier
+- (Econ) Nhân tử thuế khoá.
+: Hệ số cho biết một mức gia tăng của chi tiêu tài chính tác động đến mức thu nhập cân bằng như thế nào.
+ @Fiscal policy
+- (Econ) Chính sách thuế khoá; Chính sách thu chi ngân sách.
+: Nói chùn đề cập đến việc sử dụng thuế và chi tiêu chính phủ để điều tiết tổng mức các hoạt động kinh tế.
+ @Fiscal walfare benefits
+- (Econ) Lợi ích phúc lợi thuế khoá.
+: Xem TAX EXPENDITURES
+ @fiscality
+* dt
+- bụng tham lợi, biển lận
+ @fish  
+*  dt
+- cá
+
++ freshwater fish: cá nước ngọt
+
++ salt-water fish: cá nước mặn
+- cá, món cá
+- (thiên văn học) chòm sao Cá
+- người cắn câu, người bị mồi chài
+- con người gã (có cá tính đặc biệt)
+
++ a queer fish: một con người (gã) kỳ quặc
+!all's fish that comes to his net
+- lớn bé, to nhỏ hắn quơ tất
+!to be as drunk as a fish
+- say bí tỉ
+!to be as mute as a fish
+- câm như hến
+!to drink like a fish
+- (xem) drink
+!to feed the fishes
+- chết đuối
+- bị say sóng
+!like a fish out of water
+- (xem) water
+!to have other fish to fly
+- có công việc khác quan trọng hơn
+!he who would catch fish must not mind getting wet
+- muốn ăn cá phải lội nước, muốn ăn hét phải đào giun
+!neither fish, fish, not good red herring
+- môn chẳng ra môn, khoai chẳng ra khoai
+!never fry a fish till it's caught
+- chưa làm vòng chớ vội mong ăn thịt
+!never offer to teach fish to swim
+- chớ nên múa rìu qua mắt thợ
+!a pretty kettle of fish
+- (xem) kettle
+!there's as good fish in the sea as ever came out of it
+- thừa mứa chứa chan, nhiều vô kể
+*  ndgt
+- đánh cá, câu cá, bắt cá
+
++ to fish in the sea: đánh cá ở biển
+- (: for) tìm, mò (cái gì ở dưới nước)
+- (: for) câu, moi những điều bí mật
+*  ngdgt
+- câu cá ở, đánh cá ở, bắt cá ở
+
++ to fish a river: đánh cá ở sông
+- (hàng hải)
+
++ to fish the anchor: nhổ neo
+- rút, lấy, kéo, moi
+
++ to fish something out of water: kéo cái gì từ dưới nước lên
+- (từ hiếm,nghĩa hiếm) câu (cá), đánh (cá), bắt (cá), tìm (san hô...)
+
++ to fish a troud: câu một con cá hồi
+!to fish out
+- đánh hết cá (ở ao...)
+- moi (ý kiến, bí mật)
+!to fish in troubled waters
+- lợi dụng đục nước béo cò
+*  dt
+- (hàng hải) miếng gỗ nẹp, miếng sắt nẹp (ở cột buồm, ở chỗ nối)
+- (ngành đường sắt) thanh nối ray ((cũng) fish plate)
+*  ngdgt
+- (hàng hải) nẹp (bằng gỗ hay sắt)
+- nối (đường ray) bằng thanh nối ray
+*  dt
+- (đánh bài) thẻ (bằng ngà... dùng thay tiền để đánh bài)
+
+@fish
+- (lý thuyết trò chơi) thẻ bằng ngà
+ @fish and chips
+* dt
+- cá tẩm bột chiên dùng với khoai tây chiên
+ @fish bowl  
+*  dt
+- bình nuôi cá vàng
+
+@fish cake
+* dt
+- bánh gồm có cá luộc và khoai tây ghém
+ @fish finger
+* dt
+- lát cá tẩm bột
+ @fish preserve  
+*  dt
+- ao nuôi cá, đầm nuôi cá
+
+@fishable  
+*  tt
+- có thể đánh cá được
+
+@fishbolt  
+*  dt
+- (ngành đường sắt) bulông siết (để bắt thanh nối ray vào đường ray)
+
+@fishbone
+* dt
+- xương cá
+ @fishbowl
+* dt
+- bình nuôi cá
+ @fish-breeding  
+*  dt
+- nghề nuôi cá
+
+@fish-cake
+* dt
+- bánh dẹt làm bằng cá nấu chín với khoai tây
+ @fish-carver  
+*  dt
+- dao lạng cá (ở bàn ăn)
+
+@fish-culture
+* dt
+- nghề nuôi cá
+ @fisher  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) thuyền đánh cá
+- (từ cổ,nghĩa cổ) người câu cá; người đánh cá; người sống về nghề chài lưới
+!fisher of men
+- (từ cổ,nghĩa cổ) nhà truyền giáo
+
+@Fisher equation
+- (Econ) Phương trình Fisher
+: Xem Fisher, Irving; CAMBRIDGE SCHOOL, FRIEDMAN, QUANTITY THEORY OF MONEY.
+ @Fisher, Irving
+- (Econ) (1867-1947)
+: Nhà kinh tế
+ @Fisher open
+- (Econ) Xem UNCOVERED INTEREST PARITY.
+ @fisherman  
+*  dt
+- người đánh cá, thuyền chài
+- người câu cá, người bắt cá
+- thuyền đánh cá
+
+@fishery  
+*  dt
+- công nghiệp cá; nghề cá
+
++ inshore fishery: nghề lộng
+
++ deep-sea fishery: nghề khơi
+- nơi nuôi cá, nơi đánh cá
+
+@fish-eye lens
+* dt
+- thấu kính mắt cá
+ @fish-fag
+* dt
+- cô bán cá
+ @fish-farm  
+*  dt
+- ao thả cá
+
+@fish-farming  
+*  dt
+- sự nuôi cá; nghề nuôi cá
+
+@fish-garth
+* dt
+- đập chặn cá
+ @fish-gig  
+*  dt
+- lao móc (để đánh cá) ((cũng) fizgig)
+
+@fish-globe  
+*  dt
+- liễn thả cá vàng
+
+@fish-glue  
+*  dt
+- keo cá, thạch cá
+
+@fish-guano
+* dt
+- phân cá
+ @fish-hawk
+* dt
+- chim ó
+ @fish-hold  
+*  dt
+- bãi cá
+
+@fish-hook  
+*  dt
+- lưỡi câu
+
+@fish-house
+* dt
+- khoang cá sống (trên tàu)
+ @fishily  
+*  dt
+- đáng nghi, ám muội
+
+@fishiness  
+*  dt
+- tính chất như cá
+- sự lắm cá
+- tính chất đáng nghi, tính chất ám muội
+
+@fishing  
+*  dt
+- sự đánh cá, sự câu cá
+- nghề cá
+
++ deep-sea fishing: nghề khơi
+
+@fishing-boat  
+*  dt
+- thuyền đánh cá
+
+@fishing-line  
+*  dt
+- dây câu
+
+@fishing-net  
+*  dt
+- lưới đánh cá
+
+@fishing-rod  
+*  dt
+- cần câu
+
+@fishing-tackle  
+*  dt
+- đồ câu cá, đồ đánh cá
+
+@fish-kettle  
+*  dt
+- nồi kho cá, xoong nấu cá (hình bầu dục)
+
+@fish-knife  
+*  dt
+- dao cắt cá (ở bàn ăn)
+
+@fish-like
+* tt
+- dạng cá
+ @fish-line
+* dt
+- dây câu cá
+ @fish-manure
+* dt
+- phân cá
+ @fish-market
+* dt
+- chợ cá
+ @fish-meal
+* dt
+- bột cá
+ @fishmonger  
+*  dt
+- người bán cá, người buôn cá
+
+@fish-net
+* dt
+- lưới đánh cá
+ @fish-oil
+* dt
+- dầu cá
+ @fish-plate  
+*  dt
+- (ngành đường sắt) thanh nối ray
+
+@fish-pole  
+*  dt
+- cần câu
+
+@fish-pond  
+*  dt
+- ao thả cá
+-(đùa cợt) biển
+
+@fishpond
+* dt
+- ao thả cá; ao cá
+ @fish-pot  
+*  dt
+- cái đó, cái lờ
+
+@fish-rearing
+* dt
+- nghề nuôi cá
+ @fish-slice  
+*  dt
+- dao lạng cá (ở bàn ăn)
+- cái xẻng trở cá (nhà bếp)
+
+@fish-sound  
+*  dt
+- bong bóng cá
+
+@fish-spear
+* dt
+- cây lao móc
+ @fish-story  
+*  dt
+- chuyện cường điệu; chuyện phóng đại
+- (từ Mỹ,nghĩa Mỹ) lời nói khoác
+
+@fish-tail  
+*  dt
+- đuôi cá
+- (định ngữ) xoè ra như đuôi cá
+
+@fish-torpedo  
+*  dt
+- ngư lôi tự động hình cá
+
+@fish-trap
+* dt
+- lưới bắt cá
+ @fish-warden
+* dt
+- quan trông coi ngư nghiệp
+ @fish-way
+* dt
+- luồng cá; đường đi của cá
+ @fishwife  
+*  dt
+- bà hàng cá
+- mụ chua ngoa đanh đá
+
+@fish-works
+* dt số nhiều
+- thiết bị nuôi cá
+- xưởng làm dầu cá
+ @fishworm  
+*  dt
+- giun làm mồi câu
+
+@fish-worm
+* dt
+- giun làm mồi câu
+ @fishy  
+*  tt
+- (thuộc) cá; có mùi cá
+
++ a fishy smell: mùi cá
+- như cá
+
++ fishy eye: mắt lờ đờ (như mắt cá)
+- nhiều cá, lắm cá
+
++ a fishy repast: bữa tiệc toàn cá
+- (từ lóng) đáng nghi, ám muội
+
++ there's something fishy about it: có điều ám muội trong việc gì
+
+@fision
+- (vật lí) sự chia, sự tách, sự phân hạch; (cơ học) sự nứt
+- nuclear f. sự phân hạch nguyên tử
+- spontaneous f. sự phân hạch tự phát
+ @fisk
+
+ @fissidactyl  
+*  tt
+- có ngón tẽ ra
+
+@fissile  
+*  tt
+- có thể tách ra được
+
+@fissilingual
+* tt
+- có lưỡi xẻ
+ @fissility  
+*  dt
+- tình trạng có thể tách ra được
+
+@fission  
+*  dt
+- (sinh vật học) sự sinh sản phân đôi
+- (vật lý) sự phân hạt nhân
+
+@fissionable  
+*  dt
+- (vật lý) có thể phân hạt nhân
+
+@fissiparism
+* dt
+- xem fissiparity
+ @fissiparity
+* dt
+- sự sinh sản kiểu phân cắt
+ @fissiparous  
+*  tt
+- (sinh vật học) sinh sản bằng lối phân đôi
+
+@fissiped
+* tt
+- có chân chẻ; có ngón tách rời
+* dt
+- động vật có chân chẻ
+ @fissipedia
+* dt
+- loại động vật chân chẻ
+ @fissirostral
+* tt
+- thuộc mỏ khía sâu
+ @fissuration
+* dt
+- sự nứt
+- sự sinh sản bằng kiểu tách đôi
+ @fissure  
+*  dt
+- chỗ nứt, vết nứt
+- (giải phẫu) khe nứt, rãnh (của bộ não)
+- (y học) chỗ nứt, chỗ nẻ, chỗ gãy (xương)
+*  dgt
+- nứt nẻ, tách ra
+
+@fissured
+* tt
+- chẻ; xẻ; nứt
+ @fist  
+*  dt
+- nắm tay; quả đấm
+
++ to clenth one's fist: nắm chặt tay lại
+
++ to use one's fists: đấm nhau, thụi nhau
+-(đùa cợt) bàn tay
+
++ give us your fist: nào bắt tay
+-(đùa cợt) chữ viết
+
++ a good fist: chữ viết đẹp
+
++ I know his fist: tôi biết chữ nó
+*  ngdgt
+- đấm, thụi
+- nắm chặt, điều khiển
+
++ to fist an oar: điều khiển mái chèo
+
+@Fist-best and second-best efficiency
+- (Econ) Tính hiệu dụng  @fisted
+* tt
+- có bàn tay
+- two fisted
+- có hai bàn tay
+- riết róng
+
++  close fisted:riết róng; bủn xỉn
+ @fistful
+* dt
+- một nắm
+ @fistic   (fistical) @fistical   (fistical) @fisticuffer
+* dt
+- người đấm
+ @fisticuffs  
+*  dt số nhiều
+- cuộc đấm đá
+- những cú đấm
+
+@fistula  
+*  dt
+- (y học) rò
+*  tt: (fistulous) @fistular
+* tt
+- (thuộc) đường rò, (thuộc) lỗ rò
+ @fistuliform
+* tt
+- hình ống; dạng ống
+ @fistulose
+* tt
+- như fistular,  fistulous
+ @fistulous
+
+ @fistwise
+* tt
+- hình nắm đấm
+ @fit  
+*  dt
+- (từ cổ,nghĩa cổ) đoạn thơ ((cũng) fytte)
+- cơn (đau)
+
++ a fit of coughing: cơn ho
+
++ a fit of laughter: sự cười rộ lên
+- sự ngất đi, sự thỉu đi
+
++ to fall down in a fit: ngất đi
+- đợt
+
++ a fit of energy: một đợt gắng sức
+- hứng
+
++ when the fit is on one: tuỳ hứng
+!to beat somebody into fits
+!to give somebody fits
+- đánh thắng ai một cách dễ dàng
+!by fits and starts
+- không đều, thất thường, từng đợt một
+!to give someone a fit
+- làm ai ngạc nhiên
+- xúc phạm đến ai
+!to throw a fit
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nổi cơn tam bành, điên tiết lên
+*  dt
+- sự làm cho vừa, sự điều chỉnh cho vừa
+- kiểu cắt (quần áo) cho vừa
+- cái vừa vặn
+
++ to be a tight fit: vừa như in
+
++ to be a bad fit: không vừa
+*  tt
+- dùng được; thích hợp, vừa hơn; xứng đáng
+
++ not fit for the job: không đủ khả năng làm việc đó
+
++ a fit time and place for a gathering: thời gian và địa điểm thích hợp cho cuộc họp
+- đúng, phải
+
++ it is not fit that one treats one's friends badly: xử tệ với bạn là không đúng
+- sãn sàng; đến lúc phải
+
++ to go on speaking till is fit to stop: tiếp tục nói cho đến lúc cần phải nghỉ
+- mạnh khoẻ, sung sức
+
++ to feel fit: thấy khoẻ
+
++ to look fit: trông khoẻ
+
++ to be as fit as a fiddle: khoẻ như vâm; rất sung sức
+- bực đến nỗi; hoang mang đến nỗi (có thể làm điều gì không suy nghĩ); mệt đến nỗi (có thể ngã lăn ra)
+- (thông tục) (dùng như dt) đến nỗi
+
++ to laugh fit to split one's side: cười đến vỡ bụng
+!not fit to hold a candle to
+- candle
+*  ngdgt
+- hợp, vừa
+
++ this coat does not fit me: tôi mắc cái áo này không vừa
+- làm cho hợp, làm cho vừa
+
++ to fit oneself for one's tasks: chuẩn bị sãn sàng làm nhiệm vụ; làm cho mình đáp ứng với nhiệm vụ
+- lắp
+
++ to fit a spoke: in lắp một nan hoa
+*  ndgt
+- vừa hợp
+
++ your clothes fit well: quần áo của anh mặc rất vừa
+- thích hợp, phù hợp, ăn khớp
+
++ his plan doesn't fit in with yours: kế hoạch của nó không ăn khớp với kế hoạch của anh
+!to fit in
+- ăn khớp; khớp với
+- làm cho khớp với
+!to fit on
+- mặc thử (quần áo)
+
++ to fit a coat on: mặc thử cái áo choàng
+!to fit out
+!to fit up
+- trang bị
+- sửa sang cho có tiện nghi (nhà ở)
+!to fit like a glove
+- (xem) glove
+
+@fit
+- thích hợp, phù hợp   kẻ theo điểm
+@fitch  
+*  dt
+- da lông chồn putoa
+- bàn chải (bằng) lông chồn; bút vẽ (bằng) lông chồn
+
+@fitchet   (fitchew) @fitchew   (fitchew) @fitful  
+*  tt
+- từng cơn; từng đợt
+
++ a fitful wind: gió từng cơn
+
++ a fitful cough: ho từng cơn
+- hay thay đổi, thất thường; chập chờn (tính tình, ánh sáng...)
+
+@fitfully
+* dt
+- thất thường, chập chờn
+ @fitfulness  
+*  dt
+- tính chất từng cơn; tính chất từng đợt
+- tính chất thất thường; tính chất chập chờn
+
+@fitment  
+*  dt
+- đồ gỗ cố định
+
+@fitness  
+*  dt
+- sự thích hợp, sự phù hợp, sự vừa vặn; sự xứng dáng
+- sự đúng, sự phải
+- tình trạng sung sức
+
+@fitness
+- sự thích hợp, sự tương ứng
+ @fit-out  
+*  dt
+- thiết bị, trang bị
+
+@fitter  
+*  dt
+- thợ lắp ráp (máy)
+- người thử quần áo (cho khách hàng)
+
+@fitting  
+*  dt
+- sự làm cho khớp, sự điều chỉnh; sự thử (quần áo)
+- sự lắp ráp
+- (số nhiều) đồ đạc, đồ đạc cố định (trong nhà); đồ trang trí (trong nhà, ô tô...)
+- (số nhiều) máy móc
+*  tt
+- thích hợp, phù hợp
+- phải, đúng
+
+@fitting
+- sự thích hợp, sự vẽ theo các điểm
+- curve f. vẽ đường cong thực nghiệm; vẽ đường cong theo các điểm 
+- leasr square f. san bằng bằng phương pháp bình phương bé nhất 
+ @fittingly
+* dt
+- thích hợp; thích đáng
+ @fitting-out
+* dt
+- trang bị
+ @fitting-shop  
+*  dt
+- xưởng lắp ráp
+
+@fit-up  
+*  dt,  (sân khấu),  (thông tục)
+- sân khấu lưu động
+- phông màn sân khấu lưu động
+!fit-up company
+- gánh hát lưu động
+
+@five  
+*  tt
+- năm
+
++ to be five: lên năm (tuổi)
+*  dt
+- số năm
+- bộ năm
+- con năm (quân bài, con súc sắc)
+- đồng năm bảng Anh
+- (số nhiều) giày số 5; găng tay số 5
+- đội bóng rổ (5 người)
+- (số nhiều) cổ phần lãi năm phần trăm
+
+@five
+- năm (5)
+ @five-day-week  
+*  dt
+- tuần làm việc năm ngày
+
+@five-finger  
+*  dt
+- (thực vật học) cây ỷ lăng
+- (động vật học) sao biển
+
+@five-finger excercise  
+*  dt
+- bài tập luyện (pianô) cả năm ngón tay
+
+@fivefold  
+*  tt & dt
+- gấp năm lần
+
+@five-o'clock shadow
+* dt
+- mảng râu lún phún
+ @five-o'clock tea  
+*  dt
+- bữa trà lúc năm giờ chiều
+
+@fivepenny  
+*  tt
+- giá năm penni
+
+@five-per-cents  
+*  dt số nhiều
+- cổ phần lãi năm phần trăm
+
+@fiver  
+*  dt
+- (động vật học) đồng năm bảng Anh
+
+@fives  
+*  dt,  số nhiều dùng như số ít
+- (thể dục,thể thao) bóng ném
+
+@five-star
+* tt
+- năm sao
+
++  five-star hotel:khách sạn năm sao
+ @five-year  
+*  tt
+- năm năm
+
++ five-year plan: kế hoạch năm năm
+
+@fix  
+*  ngdgt
+- đóng, gắn, lắp, để, đặt
+
++ to fix bayonet: lắp lưỡi lê vào súng
+
++ to fix something in one's mind: ghi sâu một điều gì vào trong óc
+- tập trung, dồn (sự nhìn, sự chú ý, tình thân yêu...)
+
++ to fix one's eyes on something: dồn con mắt vào cái gì
+
++ to fix someone's attention: làm cho ai chú ý
+- làm đông lại làm đặc lại
+- hâm (ảnh, màu...); cố định lại
+- nhìn chằm chằm
+
++ to fix someone with an angry stare: chằm chằm nhìn ai một cách giận dữ
+- định, ấn định (vị trí...), quy định phạm vi (trách nhiệm...), quy định, thu xếp
+
++ to fix a date for a meeting: định ngày họp
+- ổn định (sự thay đổi, sự phát triển một ngôn ngữ)
+- sửa chữa; (từ Mỹ,nghĩa Mỹ) sang sửa
+
++ to fix a machine: chữa một cái máy
+
++ to fix up one's face: hoá trang
+- (từ Mỹ,nghĩa Mỹ) bố trí, tổ chức, chuẩn bị, sắp xếp
+
++ to fix someone up for the night: bố trí chỗ ngủ đêm cho ai
+
++ to fix someone up with a job: bố trí sắp xếp công việc cho ai
+
++ to fix a breakfast: dọn bữa ăn sáng
+
++ to fix a flight: bố trí trước một cuộc đấu quyền Anh (cho ai được)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) hối lộ, đấm mồm (ai)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) trừng phạt; trả thù, trả đũa (ai)
+*  ndgt
+- trở nên vững chắc
+- đồng đặc lại
+- (: on,  upon) chọn, định
+
++ to fix on (upon) a date: định ngày
+- đứng vào vị trí
+*  dt
+- tình thế khó khăn
+
++ to be in a fix: ở vào tình thế khó khăn
+
++ to get oneself into a bad fix: lâm vào tình trạng khó khăn túng bấn
+- sự tìm vị trí; vị trí phát hiện
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người có thể hối lộ được
+!out of fix
+- (từ Mỹ,nghĩa Mỹ) mất trật tự, bừa bộn, rối loạn
+
+@fix
+- cố định
+ @fixated
+* tt
+- gắn bó, lưu luyến
+ @fixation  
+*  dt
+- sự đóng chặt vào, sự làm cho dính lại
+- sự ngưng kết, sự đông lại
+- sự hâm (màu...); sự cố định lại
+- sự ấn định, sự quy định
+- sự ngừng phát triển trí óc
+
+@fixation
+- (tô pô) sự cố định
+ @fixative  
+*  tt
+- hãm (màu)
+*  dt
+- thuốc hãm (màu)
+
+@fixature  
+*  dt
+- gôm chải đầu
+
+@fixed  
+*  tt
+- đứng yên, bất động, cố định
+
++ a fixed star: định tinh
+
++ a fixed point: điểm cố định (của cảnh sát đứng thường trực)
+- được bố trí trước
+
++ a fixed fight: một cuộc đấu quyền Anh đã được bố trí trước (cho ai được)
+!everyone is well fixed
+- (từ Mỹ,nghĩa Mỹ) mọi người đã có đẻ cái cần thiết
+
+@Fixed   thả nổi.
+@fixed
+- cố định, ổn định; không đổi
+ @Fixed asset
+- (Econ) Tài sản cố định.
+: Bất kỳ tài sản vốn phi tài chính nào của công ty có tuổi thọ khá dài, chuyên dùng cho các quá trình sản xuất nhất định và chi phí của nó thườn được trang trải chỉ sau một thời kỳ hoạt động tương đối dài, ví dụ như máy móc, nhà xưởng.
+ @Fixed coenfficients production function
+- (Econ) Hàm sản xuất có các hệ số cố định.
+: Hàm sản xuất, trong đó các đầu vào phải được kết hợp  theo các tỷ lệ cố định.
+ @Fixed cost
+- (Econ) Chi phí cố định; định phí.
+: Đối với một hãng ngắn hạn được định nghĩa là một khoảng thời gian trong đó một số YẾU TỐ SẢN XUẤT không thể thay đổi được.
+ @fixed disk
+- (Tech) đĩa cố định
+ @Fixed exchange rate
+- (Econ) Tỷ giá hối đoái cố định.
+: Xem EXCHANGE RATE.
+ @Fixed factors
+- (Econ) Các yếu tố sản xuất cố định; các sản tố cố định.
+: Những yếu tố sản xuất không thể thay đổi vì số lượng.
+ @fixed format
+- (Tech) khuôn dạng cố định
+ @Fixed labour costs
+- (Econ) Chi phí lao động cố định.
+: Bao gồm các chi phí về việc làm và thay đổi theo tỷ lệ ít hơn so với số giờ làm việc.
+ @Fixed proportions in production
+- (Econ) Tỷ lệ cố định trong sản xuất.
+: Phản ánh quá trình trong đó, tỷ số VỐN @fixed-ended
+* tt
+- có đầu bắt chặt
+ @fixed-head  
+*  tt
+- mui không bỏ xuống được (ô tô)
+
+@fixed-head disk
+- (Tech) đĩa có đầu đọc cố định
+ @fixed-length block
+- (Tech) khối (có) độ dài cố định
+ @fixed-length record
+- (Tech) bản ghi (có) độ dài cố định
+ @fixedly  
+*  dt
+- đứng yên một chỗ, bất động, cố định
+- chăm chú, chằm chằm (nhìn)
+
+@fixedness  
+*  dt
+- tính chất đứng yên, sự bất động, sự cố định
+- tính thường trực
+- tính vững chắc
+
+@fixedpoint
+- dấu phảy cố định: Cách biểu diện các số thập phân sử dụng một số xác định vị trí sao cho dấu phảy ngăn cách phần nguyên và phần lồ chiếm một vị trí cố định
+ @fixed-point arithmetic
+- (Tech) tính toán điểm cố định, tính toán định điểm
+ @fixed-point radix
+- (Tech) cơ số điểm cố định
+ @Fixed-price mdel
+- (Econ) Các mô hình mức giá cố định.
+: Các mô hình giả thiết rằng các giao dịch được thực hiện tại những mức giá không cân bằng và những mức giá này được giữ cố định.
+ @fixed-radix notation
+- (Tech) ký hiệu cơ số cố định
+ @fixer  
+*  dt
+- người đóng, người gắn, người lập, người đặt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người hối lộ, người đút lót
+
+@fixings  
+*  dt số nhiều,  (từ Mỹ,nghĩa Mỹ)
+- máy móc, thiết bị
+- đồ trang trí (ở quần áo)
+- món bày đĩa, món hoa lá (trình bày phụ vào món ăn trên đĩa)
+
+@fixity  
+*  dt
+- sự cố định, sự bất động
+- sự chăm chú
+
++ fixity of look: cái nhìn chăm chú
+- tính ổn định, tính thường trực
+- (vật lý) tính chịu nhiệt, không hao (không mất trọng lượng hay bay hơi khi nhiệt tăng lên)
+
+@Fixprice and flexprice
+- (Econ) Giá bất biến và giá linh hoạt.
+: Sự phân biệt lần đầu tiên do J.R.HICKS đưa ra giữa những giá không phản ứng với những thay đổi cơ bản trong cung và cầu.
+ @fixture  
+*  dt
+- vật cố định, đồ đạc đặt ở chỗ cố định
+- (số nhiều) (pháp lý) đồ đạc cố định (về mặt pháp lý coi như thuộc hẳn về một toà nhà nào)
+
++ all the looking-glasses in the house are fixtures: tất cả những tấm gương trong toà nhà đều là những đồ đạc cố định
+- (thông tục) người ở lì mãi một chỗ; người ở lì mãi một chức vụ
+
++ he seems to be a fixture: nó hình như muốn lì ra đó
+- (thể dục,thể thao) cuộc đấu, cuộc thi; ngày đấu, ngày thi
+
+@fix-up  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) sự sang sửa, sự sắp đặt
+
+@fizgig  
+*  tt
+- hay thay đổi, đồng bóng
+*  dt
+- cô gái lẳng lơ
+- pháo hoa; pháo (để đốt)
+- (như) fish-gip
+
+@fizz  
+*  dt
+- tiếng xèo xèo; tiếng xì xì
+- (từ lóng) rượu sâm banh
+*  ndgt
+- xèo xèo; xì xì
+
+@fizzenless
+* tt
+- yếu đuối; nhu nhược
+ @fizzle  
+*  dt
+- tiếng xèo xèo; tiếng xì xì
+- sự thất bại
+*  ndgt
+- xèo xèo; xì xì
+!to fizzle out
+- thất bại sau khi rầm rầm rộ rộ ban đầu, xì hơi
+
+@fizzy  
+*  tt
+- xèo xèo; xì xì
+
+@

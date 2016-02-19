@@ -1,0 +1,296 @@
+@ox  
+*  dt,  số nhiều oxen
+- (động vật học) con bò; con bò đực thiến
+- anh chàng hậu đậu, anh chàng ngu đần
+!to have the black ox tread on one's foot
+- gặp điều bất hạnh
+- già nua tuổi tác
+
+@oxalate  
+*  dt
+- (hoá học) Oxalat
+
+@oxalic  
+*  tt
+- (hoá học) Oxalic
+
+@oxalidaceac
+* dt
+- (thực vật học) họ chua me đất
+ @oxalis  
+*  dt
+- (thực vật học) giống chua me đất
+
+@oxaloacetate
+- Cách viết khác : oxalacetate 
+ @oxaluric
+* tt
+- (hoá học) oxaluric
+ @oxazine
+* dt
+- (hoá học) Oxazin
+ @oxblood
+* dt
+- màu đỏ nâu
+ @oxbow  
+*  dt
+- vòng cổ (ở ách trâu bò)
+
+@oxbridge  
+*  dt
+- trường đại học cổ (ghép từ Ôc-phớt và Căm-brít)
+
+@oxen  
+*  dt
+- số nhiều của ox
+- thú nuôi có sừng
+
+@oxer   (oxer) @ox-eye  
+*  dt
+- mắt to (mắt người to như mắt bò)
+- (kiến trúc) cửa sổ mắt bò
+- (thực vật học) cúc bạch
+
+@ox-eyed  
+*  tt
+- có mắt to, có mắt như mắt bò
+
+@oxfam
+* dt
+- vt của Oxford Commitee for Famine Relief
+- Ưy ban Oxford về cứu đói
+ @ox-fence   (oxer) @ox-fly
+* dt
+- ruồi trâu; con mòng
+ @oxford
+* dt
+- giây thấp buộc dây ở cổ chân
+ @oxford bags  
+*  dt số nhiều
+- quần rộng
+
+@oxford blue  
+*  dt
+- màu xanh Ôc-phớt, màu xanh da
+
+@ox-gall  
+*  dt
+- mật bò (để làm thuốc)
+
+@oxherd  
+*  dt
+- người chăn bò
+
+@oxhide  
+*  dt
+- da bò (chưa thuộc)
+
+@oxidable
+* tt
+- có thể oxi hoá
+ @oxidant
+* dt
+- chất oxy hoá
+ @oxidase  
+*  dt
+- (hoá học),  (sinh vật học) Oxyđaza
+
+@oxidasic
+* tt
+- (thuộc) xem oxidase
+ @oxidate  
+*  ngdgt
+- làm gì
+- (hoá học) oxy hoá
+*  ndgt
+- gỉ
+- (hoá học) bị oxy hoá
+
+@oxidation  
+*  dt
+- (hoá học) sự oxy hoá
+
+@oxide  
+*  dt
+- (hoá học) Oxyt
+
+@oxidic
+* tt
+- thuộc oxit
+ @oxidise  
+*  ngdgt: (oxidize) @oxidizable  
+*  tt
+- có thể gỉ
+- (hoá học) oxy hoá được
+
+@oxidization  
+*  dt
+- (hoá học) sự oxy hoá
+
+@oxidize  
+*  ngdgt: (oxidize) @oxidizer  
+*  dt (hoá học)
+- chất oxy hoá
+- máy oxy hoá
+
+@oxime
+* dt
+- (hoá học) oxim
+ @oxon
+* dt
+- vt của La tinh Oxonia
+- hạt Oxfordshire
+- vt của la tinh Oxoniensis
+- của trường Đại học Oxford (nhất là về học vị)
+ @oxonian  
+*  tt
+- (thuộc) trường đại học Ôc-phớt
+*  dt
+- học sinh đại học Ôc-phớt
+
+@oxozone
+* dt
+- (hoá học) Oxozon
+ @ox-stall
+* dt
+- chuồng bò
+ @oxtail  
+*  dt
+- đuôi bò (để nấu xúp)
+
+@oxter  
+*  dt (Ớ-cốt)
+- (giải phẫu) nách; mặt trong cánh tay
+*  ngdgt (Ớ-cốt)
+- đỡ nách, xốc nách
+
+@oxtongue
+* dt
+- (thực vật học) cỏ lưỡi bò
+ @oxy
+* tt
+- chứa đựng @oxyacanthous
+* tt
+- (thực vật học) có gai nhọn
+ @oxy-acetylene
+* dt, tt
+- khí oxy-axêtylen
+ @oxyacetylene
+* tt
+- oxiaxetilen
+ @oxyacid  
+*  dt
+- (hoá học) Oxyaxit
+
+@oxybiotic
+* tt
+- ưa khí; ưa oxy
+ @oxybromid
+* dt
+- (hoá học) Brom oxit
+ @oxycarpous  
+*  tt
+- (thực vật học) có quả nhọn
+
+@oxycellulose  
+*  tt
+- (hoá học) Oxyxenluloza
+
+@oxycephalic  
+*  tt
+- (giải phẫu) đầu nhọn
+
+@oxychloride  
+*  dt
+- (hoá học) Oxyclorua
+
+@oxychromatin
+* dt
+- (sinh vật học) linin
+ @oxycompound
+* dt
+- (hoá học) hợp chất oxi
+ @oxydactyl
+* tt
+- có ngón thon nhọn
+ @oxydate
+* ngdgt
+- oxi hoá
+ @oxygen  
+*  dt
+- (hoá học) Oxy
+
+@oxygen mask
+* dt
+- mặt nạ oxy (mặt nạ để thở bằng oxy)
+ @oxygen tent
+* dt
+- lồng oxy (lều, vòng kín trùm đầu và vai người bệnh để thở)
+ @oxygenate   (oxygenise) @oxygenation  
+*  dt
+- (hoá học) sự Oxy hoá
+
+@oxygen-free
+* dt
+- không oxy
+ @oxygenic
+- tt
+- tạo oxi
+ @oxygenise   (oxygenise) @oxygenizable
+* tt
+- có thể oxy hoá
+ @oxygenize   (oxygenise) @oxygenous  
+*  tt
+- (hoá học) (thuộc) oxy
+
+@oxygon
+* dt
+- thể nhọn góc; vật thể có góc nhọn
+ @oxyhemoglobin  
+*  dt
+- (hoá học) (sinh vật học) Oxyhemoglobin
+
+@oxyhydrogen  
+*  dt
+- (hoá học) Oxyhydro
+
+@oxylium
+* dt
+- (sinh vật học) quần xã đầm lầy bùn
+ @oxymel  
+*  dt
+- xi rô mật ong giấm
+
+@oxymoron  
+*  dt
+- (ngôn ngữ học) phép nghịch hợp
+
+@ox-yoke
+* dt
+- ách bò
+ @oxyopathy
+* dt
+- cách chữa bệnh bằng oxi
+ @oxyopia  
+*  dt
+- sự rất tinh
+
+@oxyphilic
+* tt
+- ưa thuốc nhuộm gốc axit sinh học
+ @oxysalt
+* dt
+- muối có oxy
+ @oxytocic
+* tt
+- làm đẻ nhanh
+* dt
+- thuốc thúc đẻ
+ @oxyton
+* tt
+- có trọng âm ở âm tiết cuối (ngôn ngữ học)
+ @oxytone  
+*  dt
+- từ có trọng âm (ở âm tiết) cuối
+
+@

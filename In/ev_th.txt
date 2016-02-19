@@ -1,0 +1,3436 @@
+@thai
+* dt
+- Người Thái
+- Tiếng Thái
+* tt
+- (thuộc) Thái Lan
+ @thailander
+* dt
+- Người Thái Lan, người Thái
+ @thalidomide
+* dt
+- thuốc giảm đau, thuốc an thần (được phát hiện 1961, khi các phụ nữ mang thai uống đã làm cho thai nhi biến dạng, dị tật)
+ @thallium  
+*  dt
+- (hoá học) Tali
+
+@thallophytes  
+*  dt số nhiều
+- thực vật có tản
+
+@thallus  
+*  dt
+- (thực vật học) tản (của thực vật bậc thấp)
+
+@than  
+*  liên từ
+- hơn
+
++ more perfect than: hoàn hảo hơn
+
++ less perfect than: kém hoàn hảo hơn, không hoàn hảo bằng
+
++ less than: ít hơn, kém, chưa đầy
+
++ less than thirty: chưa đến ba mươi, ít hơn ba mươi
+
++ more than: nhiều hơn, trên, quá
+
++ more than a hundred: hơn một trăm, trên một trăm
+
++ no other than: chỉ là, không khác gì
+
++ rather than: thà rằng... còn hơn
+
++ we would (had) rather die than lay down our arms: chúng ta thà chết còn hơn hạ vũ khí
+
+@thank  
+*  ngdgt
+- cám ơn, biết ơn
+
++ thank you: cám ơn anh
+
++ no, thank you: không, cám ơn anh (nói để từ chối)
+- xin, yêu cầu
+
++ I will thank you for the satchel: xin ông vui lòng đưa tôi cái cặp
+
++ I will thank you to shut the window: xin ông vui lòng đóng giúp cái cửa sổ
+!you have only yourself to thank for that; you may thank yourself for that
+- anh làm thì anh chịu
+
+@thankful  
+*  tt
+- biết ơn, cám ơn
+
++ to be thankful to someone for something: biết ơn ai về việc gì
+
+@thankfully
+* dt
+- một cách biết ơn
+- <thgt> tôi @thankfulness  
+*  dt
+- lòng biết ơn; sự cám ơn
+
+@thankless  
+*  tt
+- vô ơn, vong ơn, bạc nghĩa
+- bạc bẽo, không lợi lộc gì, không béo bở gì (công việc...)
+
++ a thankless task: công việc bạc bẽo
+
+@thanklessly
+* dt
+- vô ơn, vong ơn, bạc nghĩa
+- bạc bẽo, không lợi lộc gì, không béo bở gì
+ @thanklessness  
+*  dt
+- sự vô ơn, sự bạc nghĩa
+- tính bạc bẽo, tính không lợi lộc (của một công việc)
+
+@thank-offering  
+*  dt
+- sự tạ ơn
+- lễ tạ ơn
+
+@thanks  
+*  dt số nhiều
+- lời cảm ơn, sự cảm ơn
+
++ to express one's thanks: tỏ lời cảm ơn, cảm tạ
+
++ [very] many thanks;thanks very much: cảm ơn lắm
+
++ no thanks: thôi, xin cảm ơn
+
++ small thanks to you, I got for it:(mỉa mai) xin cảm ơn ạ, xin đủ
+!thanks to
+- nhờ có
+
++ thanks to your help: nhờ có sự giúp đỡ của anh
+
+@thanksgiving  
+*  dt
+- sự tạ ơn (Chúa)
+!Thanksgiving Day
+- (từ Mỹ,nghĩa Mỹ) ngày lễ tạ ơn Chúa (ngày thứ năm cuối cùng của tháng 11)
+
+@thankworthy  
+*  tt
+- đáng được cảm ơn
+
+@thank-you
+* dt
+- sự cảm ơn, sự biểu thị cảm ơn; lời cảm ơn
+ @that  
+*  tt chỉ định,  số nhiều those
+- ấy, đó, kia
+
++ that man: người ấy
+
++ in those days: trong thời kỳ đó
+
++ those books are old: những quyển sách ấy đã cũ
+*  đại từ chỉ định,  số nhiều those
+- người ấy, vật ấy, cái ấy, điều ấy; người đó, vật đó, cái đó, điều đó
+
++ what is that?: cái gì đó?
+
++ who is that?: ai đó?
+
++ after that: sau đó
+
++ before that: trước đó
+
++ that is: nghĩa là, tức là
+
++ will you help me? - that I will: anh có vui lòng giúp tôi không? xin rất sẵn lòng
+
++ that's right: phải đó
+
++ that's it: tốt lắm
+
++ what that?: sao vậy?, sao thế?
+
++ and that's that; so that's that: đấy, chỉ có thế, chỉ thế thôi
+- cái kia, người kia
+
++ to prefer this to that: thích cái này hơn cái kia
+- cái, cái mà, cái như thế
+
++ a house like that described here: một cái nhà giống như cái tả ở đây
+!at that
+- (xem) at
+*  đại từ quan hệ
+- người mà, cái mà, mà
+
++ he is the very man [that] I want to see: anh ấy đúng là người mà tôi cần gặp
+
++ this is he that brought the news: đây là người đã mang tin lại
+
++ he that sows iniquity shall reap sorrows: ai gieo gió sẽ gặt bão
+
++ the night [that] I went to the theatre: bữa tối mà tôi đi xem hát
+*  dt
+- như thế, đến thế, thế
+
++ I've done only that much: tôi chỉ làm được đến thế
+
++ that far: xa đến thế
+- như thế này
+
++ the boy is that tall: đứa bé cao như thế này
+-(thân mật) đến nỗi
+
++ I was that tired I couldn't speak: tôi mệt đến nỗi không thể nói được
+*  liên từ
+- rằng, là
+
++ there's no doubt that communism will be achieved in the world: chắc chắn rằng chủ nghĩa cộng sản sẽ được thực hiện trên khắp thế giới
+- để, để mà
+
++ light the lamp that I may read the letter: thắp đèn lên để tôi có thể đọc bức thư
+- đến nỗi
+
++ the cord was such long that I could not measure it: sợi dây dài đến nỗi tôi không thể đo được
+- giá mà
+
++ oh, that I knew what was happening!: ôi! giá mà tôi biết cơ sự như thế này!
+!in that
+- bởi vì
+!it is that
+- là vì
+
+@thatch  
+*  dt
+- rạ, tranh, lá để lợp nhà ((như) thatching)
+-(đùa cợt) tóc bờm xờm
+*  ngdgt
+- lợp rạ, lợp tranh, lợp lá
+
++ to thatch a roof: lợp rạ mái nhà
+
+@thatchboard
+* dt
+- (kiến trúc) ván bằng rạ ép
+ @thatched  
+*  tt
+- có mái rạ, có mái tranh, có mái lá; lợp tranh, lợp rạ, lợp lá
+
++ a thatched roof: mái rạ, mái tranh, mái lá
+
+@thatcher  
+*  dt
+- thợ lợp rạ, thợ lợp tranh, thợ lợp lá
+
+@thatching  
+*  dt
+- sự lợp rạ, sự lợp tranh, sự lợp lá
+- rạ, tranh, lá để lợp nhà ((như) thatch)
+
+@thatch-palm
+* dt
+- cây cọ; cây kè
+ @that's
+- (thông tục) viết tắt của that is
+ @thaumaturge   (thaumaturgist) @thaumaturgic   (thaumaturgical) @thaumaturgical   (thaumaturgical) @thaumaturgics
+* dt
+- phép thần thông; pháp thuật; ma thuật
+ @thaumaturgist   (thaumaturgist) @thaumaturgy  
+*  dt
+- phép thần thông, ảo thuật
+
+@thaw  
+*  dt
+- sự tan (của tuyết)
+- trạng thái tan băng, trạng thái tan giá (thời tiết)
+
++ before the thaw sets in: trước khi băng tan
+- (nghĩa bóng) sự mạnh dạn lên; sự hết dè dặt lạnh lùng (trong thái độ)
+*  ngdgt
+- làm tan
+
++ to thaw the thick layer of snow: làm tan lớp tuyết dày
+- (nghĩa bóng) làm cho mạnh dạn lên, làm cho hết e lệ dè dặt, làm cho hết thái độ lạnh lùng
+
++ to thaw someone: làm cho ai mạnh dạn lên, làm cho ai bớt dè dặt lạnh lùng
+*  ndgt
+- tan
+
++ the snow thaws: tuyết tan
+- ấm hơn, đỡ giá rét (có thể làm cho tuyết tan)
+
++ it's thawing: trời đỡ giá rét hơn
+- (nghĩa bóng) vui vẻ lên, cở mở hơn, hết dè dặt lạnh lùng (người)
+
+@thawing  
+*  dt
+- sự tan (của tuyết)
+
+@thawless
+* tt
+- không (bao giờ) tan
+ @thawy
+* tt
+- (thông tục) đang tan; bắt đầu tan
+ @the  
+*  mạo từ
+- cái, con, người...
+
++ the house: cái nhà
+
++ the cat: con mèo
+- ấy, này (người, cái, con...)
+
++ I dislike the man: tôi không thích người này
+- duy nhất (người, vật...)
+
++ he is the shoemaker here: ông ta là người thợ giày duy nhất ở đây
+*  dt
+- (trước một từ so sánh) càng
+
++ the sooner you start the sooner you will get there: ra đi càng sơm, anh càng đến đấy sớm
+
++ so much the better: càng tốt
+
++ the sooner the better: càng sớm càng tốt
+
+@the above
+* dt
+- cái ở trên; điều kể trên; điều nói trên
+ @The Corset
+- (Econ) Kế hoạch Corset.
+ @the discus
+- cuộc thi ném dựa
+ @thearchic
+* tt
+- thuộc chính trị thần quyền
+ @thearchy
+* dt
+- chính trị thần quyền
+ @theater  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) thetre
+
+@theatral
+* tt
+- (hiếm) thuộc sân khấu
+ @theatre  
+*  dt
+- rạp hát, nhà hát
+
++ to go to the theatre: đi xem hát
+- nghệ thuật sân khấu; phép soạn kịch
+
++ the rules of the theatre: những quy tắc của phép soạn kịch
+- sân khấu, nghề ca kịch, nghề diễn kịch
+
++ to be destined to the theatre: dự định làm diễn viên kịch
+- tập kịch bản, tập tuồng hát
+
++ theatre of Shakespeare: tập kịch bản của Sếch-xpia
+- (nghĩa bóng) nơi (xảy ra cái gì), chỗ, trường
+
++ the theatre of war: nơi giao chiến, chiến trường
+
++ the theatre of the crime: nơi xảy ra tộc ác
+- phòng (giảng bài...)
+
+@theatre weapons
+* dt
+- vũ khí tầm trung bình giữa vũ khí chiến thuật và vũ khí chiến lược
+ @theatre-goer  
+*  dt
+- người hay đi xem hát
+
+@theatre-in-the-round
+- thành ngữ theatre
+- theatre-in-the-round
+- hình thức diễn kịch với khán giả ngồi chung quanh một sân khấu nằm ở giữa
+- thành ngữ theatre
+
++  theatre-in-the-round:hình thức diễn kịch với khán giả ngồi chung quanh một sân khấu nằm ở giữa
+ @theatrical  
+*  tt
+- (thuộc) sự diễn kịch, (thuộc ngành) sân khẩu
+- có tính chất tuồng, có vẻ sân khấu, có vẻ đóng kịch, không tự nhiên, màu mè, điệu bộ
+
+@theatricalism  
+*  dt
+- phong cách kịch; vẻ kịch, vẻ màu mè điệu bộ
+
+@theatricality   (theatricalness) @theatrically
+* tt
+- về sân khấu, cho sân khấu
+- điệu bộ, màu mè, cường điệu để gây ấn tượng; phô trương một cách không tự nhiên; có vẻ đóng kịch (về ứng xử)
+ @theatricalness   (theatricalness) @theatricals  
+*  dt số nhiều
+- các buổi biểu diễn (sân khấu)
+
++ private theatricals: các buổi biểu diễn nghiệp dư
+
+@theatricize  
+*  ngdgt
+- xử xự không tự nhiên, đóng kịch (trong cuộc sống)
+
+@theatrics  
+*  dt,  số nhiều dùng như số ít
+- nghệ thuật sân khấu
+
+@thee  
+*  dt
+- (thơ ca); (tôn giáo) ngươi, anh, người
+
+@theft  
+*  dt
+- sự ăn trộm, sự trộm cắp
+
++ to commit theft: phạm tội ăn trộm
+
++ petty theft: sự ăn cắp vặt
+
+@thein
+* dt
+- (hoá học) tein; tinh trà
+ @theine  
+*  dt
+- Tein, tinh trà
+
+@their  
+*  tt sở hữu
+- của chúng, của chúng nó, của họ
+
+@theirs  
+*  đại từ sở hữu
+- cái của chúng, cái của họ
+
+@theism  
+*  dt
+- (triết học) thuyết có thần
+- (y học) chứng trúng độc tein
+- bệnh nghiện trà nặng
+
+@theist  
+*  dt
+- (triết học) người theo thuyết có thần
+
+@theistic   (theistical) @theistical   (theistical) @them  
+*  dt
+- chúng, chúng nó, họ
+
++ there were three of them: chúng nó cả thảy có ba đứa
+
+@thema
+* dt số nhiều themata
+- xem them
+ @themata
+- số nhiều của thema
+ @thematic  
+*  tt
+- (thuộc) chủ đề
+
+@theme  
+*  dt
+- đề tài, chủ đề
+
++ the theme of a speech: đề tài bài nói
+-(ngôn ngữ nhà trường) luận văn, bài luận
+- (ngôn ngữ học) chủ tố
+- rađiô bài hát dạo, khúc nhạc hiệu ((thường) nhắc đi nhắc lại ở trên đài mỗi khi đến một buổi phát thanh nào đó) ((như) theme_song)
+
+@theme park
+* dt
+- công viên giải trí (trong đó các trò vui chỉ dựa trên một tư tưởng hoặc nhóm tư tưởng)
+ @theme song  
+*  dt
+- bài hát chủ đề ((thường) nhắc đi nhắc lại trong một cuốn phim để làm bật chủ đề)
+- rađiô bài hát dạo, khúc nhạc hiệu ((thường) nhắc đi nhắc lại ở trên đài mỗi khi đến một buổi phát thanh nào đó)
+
+@themselves  
+*  dt
+- tự chúng, tự họ, tự
+- bản thân họ, chính họ
+!by themselves
+- tự lực, một mình họ
+
+@then  
+*  dt
+- lúc đó, hồi ấy, khi ấy
+
++ he was a little boy then: hồi ấy nó còn là một cậu bé
+- rồi, rồi thì, sau đó
+
++ what then?: rồi sau đó thì sao?, rồi sao nữa?
+- vậy thì, như thế thì, trong trường hợp ấy
+
++ then why did you do it?: vậy thì tại sao anh làm điều ấy?
+
++ but then: nhưng trong trường hợp đó, nhưng như vậy
+!now and then
+- (xem) now
+!now...then
+- (xem) now
+*  liên từ
+- vậy, vậy thì, thế thì
+
++ is it rainning? then we had better stay at home: trời mưa à? thế thì chúng ta nên ở nhà là hơn
+!and then
+- hơn nữa, vả lại, thêm vào đó
+*  tt
+- ở thời đó, ở thời ấy, ở hồi ấy, ở hồi đó
+
++ the then rulers: bọn thống trị thời đó
+*  dt
+- lúc đó, hồi ấy, khi ấy
+
++ before then: trước lúc đó
+
++ by then: lúc đó
+
++ from then onwards: từ đó trở đi; từ lúc đó trở đi
+
++ until then: đến lúc ấy
+!every now and then
+- (xem) every
+
+@thenal
+* tt
+- (giải phẫu) thuộc lòng bàn tay; gan bàn chân
+ @thenar  
+*  dt
+- lòng bàn tay; gan bàn chân
+
+@thence  
+*  dt
+- từ đó, do đó, do đấy
+
+@thenceforth   (thenceforward) @thenceforward   (thenceforward) @theocracy  
+*  dt
+- (triết học) chính trị thần quyền
+
+@theocrat  
+*  dt
+- kẻ cai trị bằng thần quyền
+- người tin ở chủ nghĩa thần quyền
+
+@theocratic   (theocratical) @theocratical   (theocratical) @theodolite  
+*  dt
+- máy kinh vĩ
+
+@theodolite
+- (trắc địa) kính kinh vĩ, teođôlit
+ @theogonic
+* tt
+- thuộc thần hệ
+ @theogony
+* dt
+- thần hệ
+ @theolatry
+* dt
+- sự thờ cúng thánh thần
+ @theologian  
+*  dt
+- nhà thần học; giáo sư thần học
+
+@theologic   (theological) @theological   (theological) @theologize  
+*  ndgt
+- lập luận theo thần học
+- nghiên cứu về thần học
+
+@theologue
+* dt
+- (từ Mỹ, nghĩa Mỹ) sinh viên khoa thần học
+- xem theoligian
+ @theology  
+*  dt
+- thần học
+
+@theorbo  
+*  dt
+- (âm nhạc) têooc (nhạc khí)
+
+@theorem  
+*  dt
+- (toán học) định lý
+
+@theorem
+- định lý
+- t. of mear định lý giá trị trung bình
+- t. of virtual displacement định lý dời chỗ ảo
+- average value t. định lý giá trị trung bình
+- coding t. định lý mã hoá
+- completeness t. định lý về tính đầy đủ
+- converse t. định lý đảo
+- covering t. định lý phủ
+- deduction t. định lý về suy diễn
+- distortion t. (giải tích) định lý méo
+- divergence t. định lý phân kỳ 
+- dual t. định lý đối ngẫu
+- embedding t. (giải tích) định lý nhúng
+- equivalence t. (logic học) định lý tương đương 
+- existence t. định lý tồn tại
+- expansion t. (giải tích) định lý về khai triển
+- faltung t. định lý chập
+- fixed-point t. (tô pô) định lý điểm bất động
+- gap t. (giải tích) định lý lỗ hổng
+- general uniformization t. định lý về đơn trị hoá tổng quát
+- imbedding t. định lý nhúng
+- integral t. định lý tích phân
+- integration t. định lý tương giao
+- inverse t. định lý đảo
+- localization t. (giải tích) định lý địa phương hoá
+- mean value t.s (giải tích) định lý giá trị trung bình
+- minimax t. định lý minimac
+- monodromy t. (giải tích) định lý đơn đạo
+- multinomial t. định lý đa thức
+- parallel axits t. (cơ học) định lý dời trục song song (định lý Stenxơ)
+- Pythagorean t. định lý Pitago
+- reciprocal t.s định lý thuận nghich
+- recurremce t. định lý hồi quy
+- remainder t. (đại số) định lý phần dư, định lý Bêzu
+- representation t. (giải tích) định lý biểu diễn
+- residue t. định lý thặng dư
+- second limit t. định lý giới hạn thứ hai (của Maccốp)
+- second mean value t. (giải tích) định lý giá trị trung bình thứ hai (định lý
+ @theoretic   (theoretical) @theoretical   (theoretical) @theoretic(al)
+- (thuộc) lý thuyết
+ @theoretically
+* dt
+- về lý thuyết mà nói; về mặt lý thuyết
+
++  Theoretically we could still win, but it's very unlikely:Về lý thuyết chúng ta vẫn có thể thắng, nhưng điều đó không chắc chắn chút nào
+ @theoretician  
+*  dt
+- nhà lý luận
+
+@theoretics  
+*  dt,  số nhiều dùng như số ít
+- phần lý luận, lý thuyết
+
++ theoretics and practice: lý thuyết và thực hành
+
+@theoretics
+- lý luận
+ @theorician
+* dt
+- nhà lý luận
+ @theorise
+* ndgt
+- (:about something) tạo ra các lý thuyết
+- phát triển lý thuyết, nói một cách lý thuyết, suy nghĩ một cách lý thuyết
+ @theorist  
+*  dt
+- nhà lý luận
+
+@theorize  
+*  ndgt
+- tạo ra lý thuyết về
+- nói lý luận
+
+@theorizer  
+*  dt
+- nhà lý luận
+-(mỉa mai) người lý thuyết suông, người không thực tế
+
+@theory  
+*  dt
+- thuyết, học thuyết
+
++  Darwin's theory of evolution: thuyết tiến hoá của Đác-uyn
+- thuyết riêng
+
++ there's a theory that the lung cancer is caused by cigarettes: có thuyết cho là bệnh ung thư phổi do thuốc lá gây nên
+- lý thuyết, lý luận, nguyên lý
+
++ good in theory but inapplicable in practice: hay về lý thuyết nhưng không áp dụng được trong thực hành
+
+@theory
+- lý thuyết, lý luận học thuyết
+- t. of algebras lý thuyết các đại số
+- t. of approximation lý thuyết xấp xỉ
+- t. of conbinations lý thuyết tổ hợp
+- t. of correspondence (hình học) (đại số) lý thuyết tương ứng
+- t. of dynamic programming lý thuyết dquy hoạch động
+- t. of elasticity lý thuyết đàn hồi
+- t. of equations lý thuyết phương trình
+- t. of errors lý thuyết sai số 
+- t. of fields lý thuyết trường
+- t. of function of a complex variable lý thuyết hàm biến phức
+- t. of function of a real variable lý thuyết hàm biến thực
+- t. of group lý thuyết nhóm
+- t. of infinite series lý thuyết chuỗi vô hạn
+- t. of irrational numbers lý thuyết số vô tỷ
+- t. of matrices lý thuyết ma trận
+- t. of numbers lý thuyết số
+- t. of plasticity lý thuyết dẻo
+- t. of point-sets lý thuyết tập hợp điểm
+- t. of probability lý thuyết xác suất
+- t. of relativity học thuyết tương đối
+- t. of rings lý thuyết vành
+- t. of strength lý thuyết sức bền
+- t. of types (logic học) lý thuyết kiểu
+- t. of units lý thuyết các đơn vị
+- t. of weighted smoothing (thống kê) lý thuyết về san bằng có trọng lượng
+- additive ideal t. lý thuyết cộng tính các iđêan
+- additive numbers t. lý thuyết cộng tính các số
+- algebraic t. of numbers lý thuyết đại số các số
+- analytic t. of numbers giải tích các số
+- deductive t. (logic học) lý thuyết suy diễn
+- decision t. lý thuyết quyết định
+- field t. lý thuyết trường
+- formal t. (logic học) lý thuyết hình thức
+- frequency t. of probability lý thuyết xác suất theo tần số
+- function t. (giải tích) lý thuyết hàm
+- game t. lý thuyết trò chơi
+- geomatric t. of numbers lý thuyết hình học các số
+- group t. lý thuyết nhóm
+- homology t. lý thuyết đồng điều
+- homotopy t. lý thuyết đồng luân
+- informal t. (logic học) lý thuyết không hình thức
+- information t. lý thuyết thông tin
+- kinetic t. of gases lý thuyết khí động học
+- menbrane t. lý thuyết màng
+- meson field t. lý thuyết trường mêzon
+- multiplivative ideal t. (đại số) lý thuyết iđêan nhân
+- numbers t. lý thuyết số
+- object t. (logic học) lý thuyết đối tượng
+- perturbation t. (giải tích) lý thuyết nhiễu loạn
+- potential t. lý thuyết thế vị
+- proof t. (logic học) lý thuyết chứng minh
+- quantized field t. lý thuyết trường lượng tử
+- queneing t. (xác suất) lý thuyết sắp hàng, lý thuyết phục vụ đám đông
+- ramified t. of types (logic học) lý thuyết kiểu rẽ nhánh
+- relative homology t. (tô pô) lý thuyết đồng đều tương đối
+- relativity t. lý thuyết tương đối
+- reliability t. (điều khiển học) lý thuyết độ tin cậy
+- renewal t. (thống kê) lý thuyết phục hồi
+- sampling t. lý thuyết lấy mẫu
+- scheduling t. lý thuyết thời gian biểu 
+- shear t. lý thuyết [cắt, trượt]
+- nified field t. (vật lí) lý thuyết trường thống nhất
+- value distribution t. (giải tích) lý thuyết phân phối giá trị (của các hàm giải tích) 
+ @theosophic   (theosophical) @theosophical   (theosophical) @theosophist  
+*  dt
+- (triết học) người theo thuyết thần trí
+
+@theosophy  
+*  dt
+- (triết học) thuyết thần trí
+
+@therapeutic   (therapeutical) @therapeutical   (therapeutical) @therapeutics   (therapy) @therapeutist  
+*  dt
+- thầy thuốc nội khoa
+
+@therapist
+* dt
+- bác sự chuyên khoa về một phép chữa bệnh nào đó; nhà tri liệu
+ @therapy   (therapy) @theratron  
+*  dt
+- bom côban
+
+@there  
+*  dt
+- ở đó, tại đó, chỗ đó, chỗ ấy, đấy
+
++ here and there: đó đây
+
++ there and then: tại chỗ ấy là lúc ấy
+- ((thường) : to be) (dùng để nhấn mạnh, không dịch)
+
++ there was nothing here: ở đây không có gì cả
+
++ where there is oppression, there is struggle: ở đâu có áp bức, ở đó có đấu tranh
+
++ you have only to turn the switch and there you are: anh chỉ việc xoay cái nút thì sẽ được
+*  thán từ
+- đó, đấy
+
++ there! I have told you: đó! tôi đã bảo với anh rồi
+
++ there! take this chair: đấy, lấy cái ghế này đi
+*  dt
+- chỗ đó, nơi đó, chỗ đấy
+
++ he lives somewhere near there: nó ở quanh quẩn gần nơi đó
+
++ tide comes up to there: nước thuỷ triều lên tới chỗ đó
+
+@thereabout   (thereabouts) @thereabouts   (thereabouts) @thereafter  
+*  dt
+- sau đó, về sau
+
+@thereat  
+*  dt
+- (từ cổ,nghĩa cổ) ở chỗ đó, tại chỗ ấy
+- do đấy, do thế, vì thế
+
+@thereby  
+*  dt
+- bằng cách ấy, theo cách ấy, do đó
+- có dính dáng tới cái đó, có liên quan tới cái đó
+
++ thereby hangs a tale: có một câu chuyện dính dáng tới cái đó
+
+@therefor  
+*  dt
+- (từ cổ,nghĩa cổ) về việc đó
+
++ I am grateful therefor: tôi biết ơn về việc đó
+
+@therefore  
+*  dt
+- bởi vậy, cho nên, vì thế, vậy thì
+
+@therefrom  
+*  dt
+- (từ cổ,nghĩa cổ) từ đó, từ đấy
+
+@therein  
+*  dt
+- (từ cổ,nghĩa cổ) tại đó, ở đấy, trong đó
+- về mặt ấy, trong trường hợp ấy
+
+@thereinafter  
+*  dt
+- (từ cổ,nghĩa cổ),  (pháp lý) dưới đây, sau đây
+
+@thereinbefore  
+*  dt
+- (từ cổ,nghĩa cổ),  (pháp lý) trên đây, trước đây
+
+@thereinunder  
+*  dt
+- (từ cổ,nghĩa cổ),  (pháp lý) dưới đây, sau đây
+
+@thereof  
+*  dt
+- (từ cổ,nghĩa cổ) của cải đó, của nó, của việc ấy
+- từ đó
+
+@thereon  
+*  dt
+- (từ cổ,nghĩa cổ) trên đó, trên ấy
+
++ the table and all that is thereon: chiếc bàn và tát cả những gì trên đó
+- ngay sau đó, tiếp theo đó; do đó
+
+@thereout
+* dt
+- ngoài trời
+- (hiếm) phía ngoài
+ @there's  
+*  (thông tục) (viết tắt) của there is,  there has
+
+@thereto   (thereunto) @thereunder  
+*  dt
+- dưới đó
+
+@thereunto   (thereunto) @thereupon  
+*  dt
+- vậy thì, do đó, bởi vậy
+- ngay sau đó
+
+@therewith  
+*  dt, ((từ cổ,nghĩa cổ) (như) therewith)
+- với cái đó, với điều đó
+- thêm vào đó, ngoài ra
+
+@therewithal  
+*  dt, ((từ cổ,nghĩa cổ) (như) therewith)
+- với cái đó, với điều đó
+- thêm vào đó, ngoài ra
+
+@therm
+* dt
+- đơn vị nhiệt (nhất là để đo việc cung cấp khí đốt; bằng 1000000 đơn vị nhiệt của Anh)
+ @therm-
+- xem thermo-
+ @thermal  
+*  tt
+- nhiệt, nóng
+
++ thermal spring: suối nước nóng
+
+@thermal
+- (thuộc) nhiệt
+ @thermal capacity  
+*  dt
+- (vật lý) nhiệt dung; tỷ nhiệt
+
+@thermal conductivity  
+*  dt
+- (vật lý) tính dẫn nhiệt
+- độ dẫn nhiệt
+
+@thermic  
+*  tt
+- nhiệt
+
++ variations: biến đổi nhiệt
+
+@thermion
+- (vật lí) ion nhiệt
+ @thermionic
+* tt
+- thecmionic, thuộc kỹ thuật - điện tử học (thuộc ngành <lý> nghiên cứu sự phát ra các electron ở nhiệt độ cao)
+ @thermionic tube
+* dt
+- đèn điện tử (ống chân không, trong đó các điện cực được làm nóng lên, phát ra một luồng electron, dùng để nhận các tín hiệu <rađiô>  )
+ @thermionic valve
+* dt
+- đèn điện tử (ống chân không, trong đó các điện cực được làm nóng lên, phát ra một luồng electron, dùng để nhận các tín hiệu <rađiô>  )
+ @thermit   (thermite) @thermite   (thermite) @thermo-
+- xem therm-:hình thái ghép ở các thuật ngữ ghép; chỉ nhiệt; nóng: thermochemistry nhiệt hoá học; thermonuclear thuộc hạt nhân nóng; thermotechnics kỹ thuật nhiệt
+ @thermo-battery
+* dt
+- (điện) pin nhiệt điện
+ @thermochemical  
+*  tt
+- (thuộc) nhiệt hoá học
+
+@thermochemistry  
+*  dt
+- nhiệt hoá học
+
+@thermo-couple  
+*  dt
+- (điện học) cặp nhiệt điện
+
+@thermodynamic  
+*  tt
+- nhiệt động (lực)
+
+@thermodynamic
+- (vật lí) (thuộc) nhiệt động học
+ @thermodynamics  
+*  dt,  số nhiều dùng như số ít
+- nhiệt động lực học
+
+@thermoelectric  
+*  tt
+- (thuộc) nhiệt điện
+
+@thermoelectricity  
+*  dt
+- nhiệt điện
+
+@thermoelectricity
+- (vật lí) nhiệt điện
+ @thermogene  
+*  tt
+- sinh nhiệt
+
+@thermogenesis  
+*  dt
+- sự sinh nhiệt
+
+@thermogenetic  
+*  tt
+- sinh nhiệt
+
+@thermogenic
+- Cách viết khác : thermogenous 
+ @thermogenous
+- xem thermogenic
+ @thermograph  
+*  dt
+- máy ghi nhiệt
+
+@thermology  
+*  dt
+- nhiệt học
+
+@thermomagnetic  
+*  tt
+- (vật lý) nhiệt từ
+
+@thermomagnetism  
+*  dt
+- (vật lý) hiện tượng nhiệt từ
+
+@thermometer  
+*  dt
+- cái đo nhiệt, nhiệt biểu
+
+@thermometer
+- (vật lí) nhiệt kế, cái đo nhiệt độ
+ @thermometer
+- (vật lí) nhiệt kế, cái đo nhiệt độ
+ @thermometric   (thermometrical) @thermometrical   (thermometrical) @thermometry  
+*  dt
+- phép đo nhiệt
+
+@thermonuclear  
+*  tt
+- (thuộc) hạt nhân nóng
+
+@thermonuclear
+- (vật lí) hạt nhân nóng, nhiệt hạch
+ @thermopile  
+*  dt
+- (vật lý) pin nhiệt điện
+
+@thermoplastic
+* tt
+- dẻo nóng (mềm, dễ uốn khi được nung nóng và cứng lại khi được làm lạnh)
+* dt
+- nhựa dẻo nóng
+ @thermoregulator  
+*  dt
+- (vật lý) máy điều chỉnh nhiệt
+
+@thermos  
+*  dt
+- cái phích, cái tecmôt ((thường) thermos bottle,  thermos flask,  thermos jug)
+
+@thermos bottle
+* dt
+- cái phích, cái téc-mốt, bình thủy
+ @thermos jugs
+* dt
+- cái phích, cái téc-mốt, bình thủy
+ @thermoscope  
+*  dt
+- cái nghiệm nhiệt
+
+@thermosetting
+* tt
+- phản ứng nóng, phản ứng nhiệt (trở nên thường xuyên cứng khi được nung nóng)
+* dt
+- nhựa phản ứng nóng, nhựa phản ứng nhiệt
+ @thermosphere
+* dt
+- thượng tầng khí quyển
+ @thermostable  
+*  tt
+- chịu nóng, chịu nhiệt
+
+@thermostat  
+*  dt
+- máy điều nhiệt
+
+@thermostatic
+* tt
+- nhiệt tĩnh
+ @thermostatics  
+*  dt,  số nhiều dùng như số ít
+- nhiệt tĩnh học
+
+@thermotechnics  
+*  dt,  số nhiều dùng như số ít
+- kỹ thuật nhiệt
+
+@thermotherapy  
+*  dt
+- (y học) phép chữa (bệnh) bằng nhiệt
+
+@thermotic
+* tt
+- thuộc nhiệt
+ @thermotropism  
+*  dt
+- (thực vật học) tính hướng nhiệt
+
+@theroid  
+*  tt
+- như cầm thú
+
+@thesauri  
+*  dt,  số nhiều thesauri,  thesauruses
+- bộ từ điển lớn, bộ toàn thư
+
+@thesaurus  
+*  dt,  số nhiều thesauri,  thesauruses
+- bộ từ điển lớn, bộ toàn thư
+
+@these  
+*  tt chỉ định,  số nhiều these
+- này
+
++ this box: cái hộp này
+
++ this way: lối này
+
++ by this time: bây giờ, hiện nay, lúc này
+
++ this he has been ill these two months: anh ấy ốm hai tháng nay
+
++ this day last year: ngày này năm ngoái
+*  đại từ chỉ định,  số nhiều these
+- cái này, điều này, việc này
+
++ I don't like this: tôi không thích cái này
+
++ will you have this or that?: anh muốn cái này hay cái kia?
+- thế này
+
++ to it like this: hãy làm việc dó như thế này
+!by this
+- bây giờ, hiện nay, lúc này
+!with this; at this
+- như thế này, cơ sự đã thế này, vào lúc sự việc thế này
+*  dt
+- như thế này
+
++ this far: xa thế này; tới đây, tới bây giờ
+
++ it was this big: nó to như thế này
+
+@theses  
+*  dt,  số nhiều theses
+- luận văn, luận án
+
++ to uphold a thesis: bảo vệ một luận án
+- luận điểm, luận đề, thuyết
+- chính đề
+
++ thesis and antithesis: chính đề và phản đề
+
+@thesis  
+*  dt,  số nhiều theses
+- luận văn, luận án
+
++ to uphold a thesis: bảo vệ một luận án
+- luận điểm, luận đề, thuyết
+- chính đề
+
++ thesis and antithesis: chính đề và phản đề
+
+@thespian
+* tt
+- (Thespian)  <đùa> về sân khấu, về đóng kịch
+* dt
+- (Thespian)  <đùa> diễn viên nam, diễn viên nữ
+ @theta
+- têta (&#952;)
+ @theta-function
+- hàm têta
+ @thetic
+- Cách viết khác : thetical 
+ @thetical
+- xem thetic
+ @theurgic
+- Cách viết khác : theurgical 
+ @theurgical
+- xem theurgic
+ @theurgy  
+*  dt
+- phép màu nhiệm, phép thần thông, yêu thuật
+
+@thew
+* dt số nhiều
+- cơ; bắp thịt; gân
+- sức mạnh tinh thần; phẩm cách; nhân cách
+ @thewless  
+*  tt
+- không có bắp thịt; không có gân cốt
+- yếu đuối
+
+@thews  
+*  dt số nhiều
+- cơ, bắt thịt; gân
+- sức mạnh (vật chất, tinh thần)
+
+@thewy  
+*  tt
+- lực lưỡng
+
+@they  
+*  dt
+- chúng nó, chúng, họ
+- người ta
+
++ they say that...: người ta nói rằng...
+
+@they'd  
+*  (thông tục) (viết tắt) của they had,  they would
+
+@they'll  
+*  (thông tục) (viết tắt) của they will,  they shall
+
+@they're  
+*  (thông tục) (viết tắt) của they are
+
+@they've
+- vt của they have
+ @thiamine
+* dt
+- cũng thiamin
+- sinh tố B
+ @thick  
+*  tt
+- dày
+
++ a thick layer of sand: lớp cát dày
+- to, mập
+
++ a thick pipe: cái ống to
+- đặc, sền sệt
+
++ thick soup: cháo đặc
+- dày đặc, rậm, rậm rạp
+
++ thick fog: sương mù dày đặc
+
++ thick crowd: đám đông dày đặc, đám người đông nghịt
+
++ thick hair: tóc râm
+
++ thick forest: rừng rậm
+- ngu đần, đần độn
+- không rõ, lè nhè
+
++ a thick utterance: lời phát biểu không rõ
+
++ voice thick with drink: giọng lè nhè vì say
+- thân, thân thiết
+
++ to be thick together: thân với nhau
+
++ as thick as thieves: rất ăn ý với nhau, rất thân
+- quán nhiều, thái quá
+
++ it's a bit thick: hơi nhiều, hơi quá
+!thick with
+- đầy, có nhiều
+
++ thick with dust: đầy bụi
+!to lay it on thick
+- ca ngợi hết lời, tán dương hết lời
+*  dt
+- dày, dày đặc
+
++ the snow was falling thick: tuyết rơi dày đặc
+
++ thick and fast: tới tấp
+- khó, cứng; mệt nhọc, khó khăn, nặng nề
+
++ to breathe thick: thở khó khăn
+
++ to speak thick: nói khó khăn, nói lắp bắp
+*  dt
+- chỗ mập nhất, chỗ dày nhất
+
++ the thick of the leg: bắp chân
+- chính giữa, chỗ dày nhất
+
++ the thick of the forest: chính giữa rừng
+- chỗ tập trung nhất, chỗ hoạt động nhất
+
++ the thick of the fight: chỗ (lúc) ác liệt nhất của cuộc chiến đầu
+
++ in the thick of it: chính đang lúc (đánh nhau...)
+!through thick and thin
+- trong mọi hoàn cảnh dễ dàng cũng như gay go; trong bất cứ điều kiện nào; kiên cường
+!to go through thick and thin for someone
+- mạo hiểm vì người nào
+
+@thick-and-thin
+* tt
+- kiên định; trung thành; không lay chuyển được
+
++  thick-and-thin friend:người bạn trung thành
+ @thicken  
+*  ngdgt
+- làm cho dày, làm cho dày đặc, làm cho sít
+
++ to thicken the stuff: làm cho vải dày lại
+*  ndgt
+- trở nên dày
+- trở nên đặc
+- sẫm lại
+- đến nhiều
+
++ dangers thicken: tai hoạ đến nhiều
+- trở nên nhiều, trở nên phức tạp
+
++ the plot thickens: tình tiết trở nên phức tạp ly kỳ
+
+@thickening  
+*  dt
+- sự dày đặc
+- chất (vật) làm cho đặc (xúp...)
+- chỗ đông người; chỗ dày đặc
+
+@thicket  
+*  dt
+- bụi cây
+
+@thickhead  
+*  dt
+- người đần độn
+
+@thick-headed  
+*  tt
+- đần độn
+
+@thickheaded
+* tt
+- đần độn; ngu xuẩn
+ @thickish  
+*  tt
+- hơi dày, hơi đặc, hơi rậm; hơi sít
+- hơi u ám (thời tiết)
+
+@thickly
+- dày; dày đặc; thành lớp dày
+- cứng; khó; mệt nhọc; khó khăn; nặng nề
+ @thickness  
+*  dt
+- độ dày, bề dày
+- tình trạng đục, trạng thái không trong; trạng thái đặc, trạng thái sền sệt (của nước, rượu, cháo...)
+- tính dày đặc, tính rậm rạp
+- tính ngu đần, tính đần độn (người...)
+- tính không rõ, tính lè nhè (của giọng nói...)
+- lớp (đất...), tấm
+
++ three thicknesses of cardboard: ba tấm các tông
+- tình trạng u ám (thời tiết)
+
+@thickness
+- bề dày
+ @thickset  
+*  tt
+- rậm, um tùm
+- mập, chắc nịch (người)
+
+@thickskin
+* dt
+- kẻ vô tình; đồ mặt trơ
+ @thick-skinned  
+*  tt
+- có da dày
+- (nghĩa bóng) trơ, lì, vô liêm sỉ, không biết nhục
+
+@thickskinned
+* tt
+- có da dày
+- (bóng) trơ, lì, vô liêm sỉ
+ @thick-skulled   (thick-witted) @thick-witted   (thick-witted) @thief  
+*  dt,  số nhiều thieves
+- kẻ trộm, kẻ cắp
+
++ to cry out thieves: kêu trộm, hô hoán kẻ trộm
+!to set a thief to catch thief
+- dùng trộm cướp bắt trộm cướp, lấy giặc bắt giặc; vỏ quít dày móng tay nhọn
+!thieves' Latin
+- (xem) Latin
+
+@thieve  
+*  dgt
+- ăn trộm, lấy trộm, đánh cắp, xoáy
+
+@thievery  
+*  dt
+- sự ăn trộm, sự ăn cắp
+
+@thieves  
+*  dt,  số nhiều thieves
+- kẻ trộm, kẻ cắp
+
++ to cry out thieves: kêu trộm, hô hoán kẻ trộm
+!to set a thief to catch thief
+- dùng trộm cướp bắt trộm cướp, lấy giặc bắt giặc; vỏ quít dày móng tay nhọn
+!thieves' Latin
+- (xem) Latin
+
+@thievish  
+*  tt
+- hay ăn trộm, hay ăn cắp, có tính tắt mắt
+- giống kẻ ăn trộm, có tính chất trộm cắp, như kẻ trộm
+
+@thievishly  
+*  dt
+- trộm cắp, gian trá
+- bằng cách trộm cắp, bằng cách lấy trộm, bằng cách lấy cắp
+
+@thievishness  
+*  dt
+- tính hay trộm cắp
+
+@thigh  
+*  dt
+- bắp đùi, bắp vế
+
+@thigh-bone  
+*  dt
+- xương đùi
+
+@thill  
+*  dt
+- càng xe, gọng xe
+
+@thiller   (thill-horse) @thill-horse   (thill-horse) @thimble  
+*  dt
+- cái đê (dùng để khâu tay)
+- (cơ khí) măngsông, ống lót
+- (hàng hải) vòng sắt
+!knight of the thimble
+- (xem) knight
+
+@thimbleful  
+*  dt
+- hớp, ngụm
+
+@thimblerig   (thimblerigging) @thimblerigger  
+*  dt
+- thằng bài tây, kẻ gian giảo, kẻ bịp bợm, tay cờ gian bạc lận
+
+@thimblerigging   (thimblerigging) @thin  
+*  tt
+- mỏng, mảnh
+
++ a thin sheet of paper: tờ giấy mỏng
+
++ a thin piece of string: sợi dây mảnh
+- gầy gò, mảnh dẻ, mảnh khảnh
+
++ as thin as a lath: gầy như cái que
+- loãng
+
++ thin porridge: cháo loãng
+
++ thin wine: rượu nhẹ, rượu pha loãng
+
++ thin air: không khí loãng
+- thưa, thưa thớt, lơ thơ
+
++ thin hair: tóc thưa
+
++ thin audience: thính giả thưa thớt
+- nhỏ, nhỏ hẹp, yếu ớt
+
++ a thin voice: giọng nói nhỏ nhẹ
+- mong manh; nghèo nàn
+
++ a thin excuse: một lý do cáo lỗi mong manh không vững
+
++ a thin story: một câu chuyện nghèo nàn
+- (từ lóng) khó chịu, buồn chán
+
++ to have a thin time: buồn bực, chán
+*  ngdgt
+- làm cho mỏng, làm cho mảnh
+- làm gầy đi, làm gầy bớt
+- làm loãng, pha loãng
+- làm thưa, làm giảm bớt, tỉa bớt
+
++ to thin out the leaves: tỉa bớt lá
+*  ndgt
+- mỏng ra, mảnh đi
+- gầy đi
+- loãng ra
+- thưa bớt đi, thưa thớt
+
+@thin
+- mỏng
+ @thine  
+*  tt sở hữu
+- (xem) thy
+
++ thy father or thine uncle: bố anh hay chú anh
+*  đại từ sở hữu
+- (thơ ca); (tôn giáo) cái của mày, cái của ngươi, cái của người
+
+@thin-faced  
+*  tt
+- có nét mặt thanh
+
+@thing  
+*  dt
+- cái, đồ, vật, thứ, thức, điều, sự, việc, món
+
++ expensive things: những thứ đắt tiền
+- đồ dùng, dụng cụ
+
++ the things: bộ đồ trà
+- đồ đạc, quần áo...
+
++ put your things on and come for a walk: anh hãy mặc quần áo vào rồi đi chơi
+- vấn đề, điều, công việc, sự việc, chuyện
+
++ there's another thing I want to ask you about: còn một vấn đề nữa tôi muốn hỏi anh
+
++ that only makes things worse: cái đó chỉ làm cho tình hình xấu hơn, cái đó chỉ làm cho sự việc rắc rối hơn
+
++ you take things too seriously: anh quá quan hoá vấn đề
+
++ the best thing to do is...: điều đó tốt nhất là...
+
++ that is quite a different thing: đó là một việc hoàn toàn khác
+
++ I have a lot of things to do: tôi có một lô công việc phải làm
+- người, sinh vật
+
++ poor little thing!: tội nghiệp thằng bé!
+
++ you silly thing!: cậu thật là ngốc
+
++ dumb things: thú vật, súc vật
+- (pháp lý) của cải, tài sản
+
++ things personal: động sản
+- mẫu, vật mẫu, thứ, kiểu
+
++ it is the newest thing out: đây là kiểu (thứ) mới nhất
+
++ it's quite the thing: thật đúng kiểu, thật đúng mốt
+!above all things
+- trên hết
+!as a general thing
+- thường thường, nói chung
+!to know a thing or two
+- có kinh nghiệm, láu
+!to look (feel) quite the thing
+- trông ra vẻ (cảm thấy) khoẻ mạnh
+!to make a good thing out of something
+- kiếm chác được ở cái gì
+
+@thingamy   (thingumajig) @thingum
+- Cách viết khác : thingumajig 
+ @thingumajig   (thingumajig) @thingumbob   (thingumajig) @thingumebob
+- xem thingum
+ @thingummy   (thingumajig) @thingy
+* dt
+- <thgt> người (vật) mà ta không biết tên hoặc quên tên hoặc không muốn nêu tên
+ @think  
+*  dgt thought
+- nghĩ, suy nghĩ, ngẫm nghĩ
+
++ he does not say much but he thinks a lot: nó nói ít nhưng suy nghĩ nhiều
+
++ think twice before doing: hãy suy nghĩ chính chắn trước khi làm
+
++ one would have thought that: người ta có thể nghĩ rằng
+- nghĩ, tưởng, tưởng tượng, nghĩ được, nghĩ là, cho là, coi như
+
++ I think so: tôi nghĩ thế, tôi cho là thế
+
++ and to think he has gone away: và ai mà tưởng được rằng nó đã đi rồi
+
++ to you think him brave?: anh có cho nó là dũng cảm không?
+
++ to think scorn: khinh bỉ
+- nghĩ ra, thấy, hiểu
+
++ I can't think why: tôi không hiểu tại sao
+- nghĩ đến, nhớ
+
++ to think to do something: nhớ làm một việc gì
+- trông mong
+
++ I thought to have heard from you: tôi mong được nhận tin anh
+- luôn luôn nghĩ, lo nghĩ, lo lắng
+
++ to think oneself silly: nghĩ lắm đâm ra quẫn trí ngớ ngẩn
+- nuôi những ý nghĩ, nuôi những tư tưởng
+
++ to think sombre thoughts: nuôi những ý nghĩ hắc ám
+!to think about
+- suy nghĩ về
+
++ to give someone something else to think about: làm cho người nào nghĩ về một chuyện khác; làm cho người nào khuây khoả
+!to think of
+- nghĩ về, nghĩ đến, xét đến
+
++ to think of everything: nghĩ đến mọi việc
+
++ when I come to think of it: khi tôi nghĩ đến điều đó
+- nhớ đến, nghĩ đến
+
++ I never thought of telling you: tôi không bao giờ nhớ (nghĩ) đến việc nói với anh
+
++ to think of the name of: nhớ tên của
+- nghĩ, có ý định
+
++ to think of going for a walk: định đi chơi
+- nghĩ ra, tìm được
+
++ to think of the right word: tìm thấy được từ đúng
+- có ý kiến về, có ý nghĩ về
+
++ to think little (not much, nothing) of: không coi ra gì
+- tưởng tượng
+
++ I shouldn't think of doing such a thing: tôi không thể tưởng tượng có thể làm một việc như thế
+!to think out
+- nghĩ ra, trù tính
+
++ to think out a plan: nghĩ ra một kế hoạch
+!to think over
+- nghĩ về, suy nghĩ kỹ về, bàn về
+
++ on thinking it over: nghĩ kỹ đến điều đó
+!to think up
+- sáng tạo ra, nghĩ ra
+!to think better of
+- đánh giá (ai) cao hơn
+- suy đi tính lại lại thôi, thay đổi ý kiến
+!to think fit to do something
+- quyết định làm một việc gì
+!to think one's time away
+- suy nghĩ cho qua thì giờ
+
+@thinkable  
+*  tt
+- có thể nghĩ ra được; có thể tưởng tượng được
+
+@thinker  
+*  dt
+- người suy nghĩ
+- nhà tư tưởng
+
+@thinking  
+*  dt
+- sự suy nghĩ, sự nghĩ ngợi, sự trầm tư
+- tư tưởng, ý nghĩ, ý kiến
+
++ high thinking: tư tưởng cao xa
+
++ to my thinking: theo ý kiến tôi
+*  tt
+- suy nghĩ, suy xét, nghĩ ngợi
+
+@thinking-cap
+* dt
+- suy nghĩ tìm cách giải quyết
+ @think-tank
+* dt
+- nhóm chuyên gia cố vấn (cung cấp ý kiến và lời khuyên về các vấn đề quốc gia hoặc thương mại)
+ @thinly
+* dt
+- mỏng; mong manh
+ @thinner
+* dt
+- chất để pha loãng
+ @thinners
+* dt
+- chất để pha loãng
+ @thinness  
+*  dt
+- tính chất mỏng, tính chất mảnh
+- tính chất gầy
+- tính chất loãng
+- tính chất thưa, tính chất thưa thớt, tính chất phân tán
+- tính mong manh; tính nghèo nàn
+
+@thinnish  
+*  tt
+- hơi mỏng, hơi mảnh
+- hơi gầy, làng nhàng, mảnh khảnh
+- hơi loãng
+- hơi thưa, hơi phân tán
+- hơi mong manh; hơi nghèo nàn
+
+@thin-skinned  
+*  tt
+- có da mỏng
+- (nghĩa bóng) dễ mếch lòng, dễ chạm tự ái
+
+@thiosulphate  
+*  dt
+- (hoá học) Thiosunfat
+
+@third  
+*  tt
+- thứ ba
+
++ third day: ngày thứ ba
+
++ third person: người thứ ba
+*  dt
+- một phần ba
+
++ the third of 24 is 8: một phần ba của 24 là 8
+- người thứ ba; vật thứ ba; ngày mồng ba
+
++ the third of April: ngày mồng ba tháng tư
+- (âm nhạc) quãng ba; âm ba
+- (toán học); (thiên văn học) một phần sáu mươi của giây
+
+@third
+- thứ ba; một phần ba
+ @third degree
+* dt
+- sự tra tấn
+ @third degree burn
+* dt
+- sự bỏng cấp ba (bỏng rất nặng ở da)
+* tt
+- bị bỏng cấp ba (ở da)
+ @third dimension
+* dt
+- (the third dimension) chiều cao
+ @third party
+* dt
+- người thứ ba
+- bên thứ ba
+ @third world
+* dt
+- (the Third World) thế giới thứ ba (những nước đang phát triển của châu Phi, châu A và Mỹ la tinh, nhất là những nước không liên kết với các quốc gia cộng sản hoặc phương Tây)
+ @third-class
+* dt
+- hạng ba (trên tàu)
+- bảng ba (học sinh đi thi đạt điểm trung bình)
+ @thirdclass
+- xem third-class
+ @third-hand
+* dt
+- người thứ ba; người trung gian
+
++  at third-hand:(biết được) qua người khác; người thứ ba
+ @thirdhand
+- xem third-hand
+ @thirdly  
+*  dt
+- ba là
+
+@third-party insurance
+* dt
+- sự bảo hiểm về thiệt hại hoặc tổn thương của người khác do người được bảo hiểm gây ra
+ @third-rate  
+*  tt
+- loại ba, tồi, kém
+
+@third-rater  
+*  dt
+- người tồi; vật ít giá trị; loại kém
+
+@thirst  
+*  dt
+- sự khát nước
+
++ to quench one's thirst: làm cho hết khát
+- (nghĩa bóng) sự thèm khát, sự khao khát
+
++ a thirst for knowledge: sự khao khát hiểu biết
+*  ndgt
+- khát nước
+- (nghĩa bóng) (: after,  for) thèm khát, khao khát
+
++ to thirst after (for) something: thèm khát (khao khát) cái gì
+
+@thirstily
+* dt
+- khát, cảm thấy khát
+- <thgt> gây ra khát, làm cho khát
+- khao khát, ham muốn mạnh mẽ
+- cần nước
+ @thirsty  
+*  tt
+- khát; làm cho khát
+
++ to be thirsty: khát
+
++ football is a thirsty game: bóng đá là một môn làm cho người ta khát nước
+- khát, khao khát
+
++ the fields are thirsty for rain: ruộng đang khát mưa
+
++ thirsty for blood: khát máu
+
+@thirteen  
+*  tt
+- mười ba
+
++ the thirteen superstition: sự mê tín cho con số 13 là gở
+
++ he is thirteen: nó mười ba tuổi
+*  dt
+- số mười ba
+
+@thirteen
+- mười ba (13)
+ @thirteener
+* dt
+- con số thứ 13
+- đồng si-linh Airơlân
+ @thirteenth  
+*  tt
+- thứ mười ba
+
++ the thirteenth place: chỗ thứ mười ba
+*  dt
+- một phần mười ba
+- người thứ mười ba; vật thứ mười ba; ngày mười ba
+
++ the thirteenth of June: ngày mười ba tháng sáu
+
+@thirteith
+- thứ ba mươi (30); một phần ba mươi
+ @thirties
+* dt số nhiều
+- những con số từ 30 đến 39
+- (the thirties) những năm 30 (của (thế kỷ))
+- tuổi từ 30 đến 39
+
++  she is in the early, (late) thirties:nàng 30 tuổi hơn (gần 40)
+ @thirtieth  
+*  tt
+- thứ ba mươi
+*  dt
+- một phần ba mươi
+- người thứ ba mươi; vật thứ ba mươi
+
++ the thirtieth of November: ngày ba mươi tháng mười một
+
+@thirty  
+*  dt
+- số ba mươi
+- (số nhiều) (the thirties) những năm ba mươi (từ 30 đến 39 của (thế kỷ)); những năm tuổi trên 40 (từ 40 đến 49)
+
+@thirty
+- ba mươi (30)
+ @this  
+*  tt chỉ định,  số nhiều these
+- này
+
++ this box: cái hộp này
+
++ this way: lối này
+
++ by this time: bây giờ, hiện nay, lúc này
+
++ this he has been ill these two months: anh ấy ốm hai tháng nay
+
++ this day last year: ngày này năm ngoái
+*  đại từ chỉ định,  số nhiều these
+- cái này, điều này, việc này
+
++ I don't like this: tôi không thích cái này
+
++ will you have this or that?: anh muốn cái này hay cái kia?
+- thế này
+
++ to it like this: hãy làm việc dó như thế này
+!by this
+- bây giờ, hiện nay, lúc này
+!with this; at this
+- như thế này, cơ sự đã thế này, vào lúc sự việc thế này
+*  dt
+- như thế này
+
++ this far: xa thế này; tới đây, tới bây giờ
+
++ it was this big: nó to như thế này
+
+@thistle  
+*  dt
+- (thực vật học) cây kế (thuộc họ cúc)
+
+@thistledown
+* dt
+- nùi bông nhẹ chứa đựng những hạt cây kế được gió thổi từ cây kế bay đi
+ @thistly
+* tt
+- có gai
+- mọc đầy cúc gai
+ @thither  
+*  dt
+- (từ cổ,nghĩa cổ) tới đó, theo hướng đó
+
++ hither and thither: đây đó, chỗ này chỗ kia
+
+@thitherward   (thitherwards) @thitherwards   (thitherwards) @tho'   (tho') @tho
+- viết tắt của though
+ @thole   (thole-pin) @thole-pin   (thole-pin) @thong  
+*  dt
+- dây da
+- roi da
+*  ngdgt
+- buộc bằng dây da
+- đánh bằng roi da
+
+@thoraces
+* dt
+- <phẫu> ngực (phần thân thể giữa cổ và bụng)
+- <động> phần giữa của ba phần chính của một côn trùng (ở đó mọc ra chân và cánh)
+- <sử> giáp che ngực
+ @thoracic  
+*  tt
+- (giải phẫu),  (động vật học) (thuộc) ngực, ở ngực
+
+@thorax  
+*  dt
+- (giải phẫu),  (động vật học) ngực
+- (sử học) giáp che ngực
+
+@thoraxes
+- xem thoraxes
+ @thorite  
+*  dt
+- (khoáng chất) Torit
+
+@thorium  
+*  dt
+- (hoá học) Thori
+
+@thorn  
+*  dt
+- gai
+- bụi gai; cây có gai
+- (nghĩa bóng) sự khó khăn
+!to be on thorns
+- ngồi trên đống lửa, đi trên chông gai, lo lắng không yên
+!a thorn in one's side (flesh)
+- cái kim trong bụng, cái gai trước mắt, điều làm bực mình
+!there's no rose without a thorn
+- (xem) rose
+
+@thorn-apple  
+*  dt
+- quả táo gai
+- quả cà độc dược
+
+@thornback  
+*  dt
+- (động vật học) cá đuối
+- con rạm
+
+@thorn-bush
+* dt
+- bụi gai
+ @thorniness  
+*  dt
+- tính có gai
+- (nghĩa bóng) tính gai góc, tính khó khăn, tính hắc búa
+
+@thornless  
+*  tt
+- không có gai
+- không khó khăn, dễ dàng
+
+@thorny  
+*  tt
+- có gai, nhiều gai
+- (nghĩa bóng) gai góc, khó khăn, hắc búa
+
++ a thorny subject: một vấn đề khó khăn hắc búa
+
+@thorough  
+*  tt
+- hoàn toàn, hoàn bị, hoàn hảo
+
++ to take a thorough rest: hoàn toàn nghỉ ngơi
+- cẩn thận, kỹ lưỡng, tỉ mỉ
+
++ slow but thorough: chậm chạp nhưng cẩn thận
+*  dt & dt
+- (từ cổ,nghĩa cổ) (như) through
+
+@thoroughbred  
+*  tt
+- thuần chủng (ngựa)
+- (nghĩa bóng) dũng cảm, hăng hái, đầy dũng khí (người)
+*  dt
+- ngựa thuần chủng
+- (nghĩa bóng) ngựa nòi
+
+@thoroughfare  
+*  dt
+- đường phố lớn, đường lớn
+
++ busy thoroughfare: đường phố đông người
+!no thoroughfare!
+- đường cấm!
+
+@thoroughgoing  
+*  tt
+- hoàn toàn; trọn vẹn
+- triệt để, không nhân nhượng
+
+@thoroughly  
+*  dt
+- hoàn toàn, hoàn hảo
+- hết mực, hết sức, rất
+
+@thoroughness  
+*  dt
+- tính hoàn toàn, tính hoàn hảo
+- tính cẩn thận, tính kỹ lưỡng, tỉnh tỉ mỉ
+
+@thoroughpaced  
+*  tt
+- hay (ngựa)
+- (nghĩa bóng) hoàn toàn, thành thạo
+
+@thorp   (thorpe) @thorpe   (thorpe) @those  
+*  tt chỉ định & đại từ chỉ định số nhiều của that
+
+@thou  
+*  dt
+- (thơ ca) mày, mi, ngươi
+*  ngdgt
+- xưng mày tao
+
++ don't thou me: không được mày tao với tôi
+
+@though   (tho') @though
+- mặc dù
+ @thought  
+*  thời quá khứ & động tt quá khứ của think
+*  dt
+- sự suy nghĩ, sự ngẫm nghĩ, sự nghĩ ngợi, sự trầm tư
+
++ to be lost (wrapped, absorbed) in thought: suy nghĩ miên man tư lự
+- ý nghĩ, tư tưởng
+
++ to read someone's thoughts: đoán được ý nghĩ của ai
+
++ a thought struck me: tôi chợt có ý nghĩ, một ý nghĩ thoáng trong óc tôi
+
++ a noble thought: tư tưởng cao đẹp
+- ý, ý, kiến, ý định, ý muốn
+
++ to speak one's thought: nói rõ ý kiến của mình ra
+- sự lo lắng, sự bận tâm, sự quan tâm
+
++ the doctor is full of thought for the patient: người bác sĩ hết lòng lo lắng quan tâm đến người bệnh
+- một tí, một chút
+
++ the colour is a thought too dark: màu hơi sẫm một tí
+![as] quick as thought
+- nhanh như chớp
+!at the thought of
+- khi nghĩ đến
+!on second thoughts
+- sau khi suy đi tính lại
+
++ second thoughts are best: có suy nghĩ kỹ có hơn
+!want of thought
+- sự thiếu suy nghĩ
+
+@thoughtful  
+*  tt
+- ngẫm nghĩ, trầm tư, tư lự
+- có suy nghĩ, chín chắn, thận trọng
+- thâm trầm, sâu sắc
+
++ a thoughtful book: một cuốn sách sâu sắc
+- ân cần, lo lắng, quan tâm
+
++ to be thoughtful of others: quan tâm đến người khác
+
+@thoughtfully
+* dt
+- trầm ngâm; trầm tư; tư lự
+- có suy nghĩ, chín chắn, thận trọng
+- thâm trầm; sâu sắc (về cuốn sách, nhà văn, nhận xét )
+- chu đáo; quan tâm; ân cần
+ @thoughtfulness  
+*  dt
+- sự ngẫm nghĩ, sự nghĩ ngợi, sự trầm tư, sự tư lự
+- tính có suy nghĩ, tính chín chắn, tính thận trọng
+- sự ân cần, sự lo lắng, sự quan tâm
+
+@thoughtless  
+*  tt
+- không suy nghĩ, vô tư lự
+
++ thoughtless of the future: không suy nghĩ đến tương lai
+- nhẹ dạ, không thận trọng, khinh suất, không chín chắn, không cẩn thận
+
++ a thoughtless act: một hành động khinh suất, một hành động thiếu suy nghĩ
+- không ân cần, không lo lắng, không quan tâm
+
+@thought-reader
+* dt
+- người đọc được ý nghĩ của người khác; người đi guốc vào bụng
+ @thousand  
+*  tt
+- nghìn
+*  dt
+- số một nghìn, một nghìn
+- rất nhiều, hàng nghìn
+
++ thousands of people: hàng nghìn người
+
++ a thousand thanks: cảm ơn rất nhiều
+
++ a thousand pardons (apologies): xin lỗi rất nhiều
+!a thousand and one
+- một nghìn lẻ một, vô số
+
++ to make a thousand and one excuses: hết lời xin lỗi
+!one in a thousand
+- trong muôn một, nghìn năm có một
+
+@thousand
+- một nghìn (1000)
+ @thousandfold
+* tt, adv
+- gấp một nghìn lần
+ @thousand-legs
+* dt
+- (động vật) con rết
+ @thousandth  
+*  tt
+- thứ một nghìn
+*  dt
+- một phần nghìn
+- người thứ một nghìn; vật thứ một nghìn; cái thứ một nghìn
+
+@thraldom  
+*  dt
+- tình trạng (cảnh) nô lệ; tình trạng bị áp chế, tình trạng bị bó buộc
+
+@thrall  
+*  dt
+- người nô lệ ((nghĩa đen) & (nghĩa bóng))
+
++ a thrall to drink: một người nô lệ của rượu chè
+- cảnh nô lệ, cảnh tôi đòi
+*  ngdgt
+- bắt làm nô lệ, bắt lệ thuộc
+- bắt phải phục tùng; áp chế
+
+@thrash  
+*  ngdgt
+- đánh, đập, đánh đòn (người nào)
+- (thông tục) đánh bại (ai, trong một cuộc đấu)
+- đập (lúa)
+*  ndgt
+- quẫy, đập, vỗ
+
++ the drowing man thrashed about in the water: người chết đuối quẫy đập trong nước
+!to thrash out
+- rất công phu mới đạt được, qua nhiều thử thác mới tìm được (chân lý, sự thật...)
+- tranh luận triệt để và đi đến kết luận (vấn đề gì)
+
+@thrasher  
+*  dt
+- máy đập lúa
+- (động vật học) cá mập
+- (động vật học) chim hoạ mi đỏ (ở châu Mỹ)
+
+@thrashing  
+*  dt
+- sự đánh đập; trận đòn
+
++ to give a thrashing to: quật cho một trận
+- sự thua (trong trò chơi...)
+
+@thrashing-floor  
+*  dt
+- sân đập lúa
+
+@thrashing-machine  
+*  dt
+- máy đập lúa
+
+@thrashing-mill
+* dt
+- máy đập lúa
+- xem thrashing-machine
+ @thread  
+*  dt
+- chỉ, sợi chỉ, sợi dây
+
++ silk thread: chỉ tơ
+- (nghĩa bóng) dòng, mạch
+
++ the thread of life: dòng đời, đời người
+
++ to lose the thread of one's argument: mất mạch lạc trong lập luận
+- đường ren
+- (địa lý,địa chất) mạch nhỏ (quặng)
+!to have not a dry thread on one
+- ướt sạch, ướt như chuột lột
+!life hung by a thread
+- tính mệnh như treo đầu sợi tóc, tính mệnh như trứng treo đầu đẳng
+*  ngdgt
+- xâu (kim...); xâu (hột ngọc...) thành chuỗi
+- (nghĩa bóng) lách qua, len lỏi qua
+
++ to thread one's way through the crowd: lách qua đám đông
+- ren (đinh ốc)
+
+@threadbare  
+*  tt
+- mòn xơ cả chỉ, xác xơ
+
++ a threadbare coat: cái áo xác xơ
+- (nghĩa bóng) cũ rích
+
++ a threadbare joke: một câu đùa cũ rích
+
+@thread-cutter  
+*  dt
+- máy ren (đinh ốc)
+
+@threader  
+*  dt
+- người xâu (kim, hột ngọc)
+- (kỹ thuật) máy ren (đinh ốc)
+
+@thread-gauge
+* dt
+- (kỹ thuật) compa đo bước ren
+ @threadlike  
+*  tt
+- nhỏ như sợi chỉ
+
+@thread-mark  
+*  dt
+- hình vẽ bóng (soi thấy được trên tờ giấy)
+
+@threadworm  
+*  dt
+- (động vật học) giun kim
+
+@thready  
+*  tt
+- nhỏ như sợi chỉ
+- có lắm sợi
+
+@threat  
+*  dt
+- sự đe doạ
+
++ there is a threat of rain: có cơn mưa đang đe doạ, trời muốn mưa
+- lời đe doạ, lời hăm doạ
+
++ empty threat: lời đe doạ suông
+
++ to utter threat against someone: doạ ai
+
+@Threat effect
+- (Econ) Tác động đe doạ.
+: Tác động mà giới chủ phi nghiệp đoàn trả tiền công nghiệp đoàn, hay xấp sỉ như vậy, hìng ngăn chặn việc thành lập nghiệp đoàn của nhân viên mình.
+ @Threat of pay off
+- (Econ) Lợi ích đe doạ.
+: Xem NASH SOLUTIONS
+ @threaten  
+*  dgt
+- doạ, đe doạ, hăm doạ ((nghĩa đen) & (nghĩa bóng))
+
++ it threatens to rain: có cơn mưa đang đe doạ
+
+@threatening  
+*  dt
+- sự đe doạ, sự hăm doạ
+*  tt
+- đe doạ
+
++ in a threatening tone: với giọng đe doạ
+
+@threateningly
+* dt
+- đe doạ, hăm doạ
+ @three  
+*  tt
+- ba
+
++ three times: ba lần
+
++ he is three: nó lên ba (tuổi)
+*  dt
+- số ba
+- con ba (súc sắc) quân ba (quân bài)
+
+@three
+- ba (3)
+ @three- cornered
+- ba góc
+ @Three stage least squares
+- (Econ) Bình phương nhỏ nhất của ba giai đoạn.
+: (3SLS hay Th SLS). Một giá trị của họ các ước lượng theo phương pháp bình phương nhỏ nhất áp dụng đối với việc ước lượng các thông số của hệ phương trình đồng thời, mà trong đó các hệ số nhiễu có thể tương quan với các phương trình.
+ @three-cornered  
+*  tt
+- có ba góc
+
+@three-d
+- có ba chiều (dài, rộng và sâu)
+ @three-decker  
+*  dt
+- tàu thuỷ ba boong
+
+@three-dimensional
+* tt
+- có ba chiều (dài, rộng và sâu)
+ @three-farthing
+* tt
+- rẻ mạt; rẻ tiền; tội nghiệp; thảm hại; đáng khinh
+ @threefold  
+*  tt & dt
+- gấp ba, ba lần
+
+@three-handed
+* tt
+- (có) ba tay
+- có ba người chơi; tay ba (ván bài; cuộc đấu)
+ @three-legged  
+*  tt
+- có ba chân
+
+@three-legged race
+* dt
+- cuộc chạy đua ba chân (cuộc thi trong đó các người thi chạy theo từng cặp, chân phải của người này buộc chặt vào chân trái của người kia)
+ @three-line whip
+* dt
+- thông báo viết của thủ lĩnh đảng gửi cho các nghị sự của đảng yêu cầu họ tham gia một cuộc tranh luận và bỏ phiếu theo một hướng riêng
+ @three-master  
+*  dt
+- (hàng hải) thuyền ba buồm
+
+@threepence  
+*  dt
+- ba xu (Anh)
+
+@threepenny  
+*  tt
+- giá ba xu (Anh) (đồ vật)
+
++ threepenny bit: đồng ba xu (Anh)
+- (nghĩa bóng) hèn kém, đáng khinh, tồi, chẳng đáng nửa đồng
+
+@threepenny bit
+* dt
+- đồng tiền xưa của Anh có giá trị ba penni
+ @three-phase  
+*  tt
+- (điện học) ba pha
+
+@three-piece
+* tt
+- gồm ba mảnh riêng biệt
+ @three-piled  
+*  tt
+- chồng ba cái một
+
+@three-ply  
+*  tt
+- gồm ba sợi, chập ba
+- gồm ba lớp (gỗ)
+
+@three-point landing  
+*  dt
+- (hàng không) sự hạ cánh an toàn
+- sự kết thúc cừ
+
+@three-point turn
+* dt
+- phương pháp quay một chiếc ô tô...trong một không gian hẹp bằng cách tiến lên rồi lùi lại rồi lại tiến lên
+ @three-quarter  
+*  tt
+- ba phần tư (kiểu ảnh...)
+*  dt
+- hậu vệ (bóng bầu dục)
+
+@three-row
+* tt
+- (nông) ba hàng
+ @threescore  
+*  tt
+- sáu mươi
+
+@three-sided
+* tt
+- ba lên; ba mặt tay ba
+ @threesome  
+*  dt
+- nhóm ba người
+- trời chơi (cho) ba người
+*  dt
+- ba, gồm ba
+
+@three-times
+* dt
+- ba lần
+ @three-wheeler
+* dt
+- xe ba bánh
+ @threnetic
+- Cách viết khác : threnetical 
+ @threnode   (threnody) @threnody   (threnody) @thresh  
+*  dgt
+- đập (lúa); đập lúa
+
+@thresher  
+*  dt
+- máy đập lúa; người đập lúa
+- (động vật học) cá nhám đuôi dài
+
+@threshing  
+*  dt
+- sự đập (lúa)
+
+@threshing-floor  
+*  dt
+- sân đập lúa
+
+@threshing-machine  
+*  dt
+- máy đập lúa
+
+@threshing-mill
+- xem thrashing-mill
+ @threshold  
+*  dt
+- ngưỡng cửa
+
++ to lay a sin a another's threshold: đổ tội cho người khác
+- bước đầu, ngưỡng cửa
+
++ to stand on the threshold of life: đứng trước ngưỡng cửa của cuộc đời
+
++ on the threshold of a revolution: bước vào một cuộc cách mạng
+
++ on the threshold of a new century: bước vào một thế kỷ mới
+- (tâm lý học) ngưỡng
+
+@Threshold
+- (Econ) Ngưỡng.
+: Điểm mà bên ngoài đó sẽ có thay đổi trong hành vi của tác nhân kinh tế, ví dụ như một ngưỡng đối với kỳ vọng giá cả, có nghĩa là kỳ vọng sẽ không liên tục được thay đổi dưới ánh sáng của các bằng chứng tích tụ, nhưng sẽ được thay đổi trong các khoảng thời gian khi tốc độ thay đổi giá đã vượt quá một điểm nào đó.
+ @threshold
+- mức; ngưỡng
+- resolution t. ngưỡng giải 
+- signal t. (điều khiển học) ngưỡng tín hiệu 
+ @Threshold analysí
+- (Econ) Phân tích ngưỡng.
+: Một kỹ thuật dùng trong hoạch định vật chất để tìm ra quy mô mong muốn của cộng đồng và việc cung cấp các dịch vụ công cộng.
+ @Threshold effect
+- (Econ) Tác động ngưỡng.
+: Sự tăng mức thuế mà một cộng đồng được cho sẵn là sẵn sàng trả do có khủng hoảng hay khẩn cấp quốc gia.
+ @Threshold of a good
+- (Econ) Ngưỡng của một hàng hoá.
+: Trong kinh tế học khu vực, dân số tối thiểu có thể tạo một thị trường cho một hàng hoá hay dịch vụ. Khi dân số của một khu vực (như một thị trấn) dưới mức ngưỡng, cầu đối hàng hoá đó sẽ thấp đến mức mà việc cung cấp hàng hoá đó sẽ không khả thi về mặt kinh tế.
+ @threw  
+*  dt
+- sự ném, sự vứt, sự quăng, sự liệng
+- khoảng ném xa
+- (thể dục,thể thao) sự vật ngã, sự quăng xuống đất
+- (địa lý,địa chất) xê dịch của phay
+*  ngdgt threw; thrown
+- ném, vứt, quăng, quẳng, liệng, lao
+
++ to throw oneself forwards: lao tới, xông tới trước
+- (thể dục,thể thao) vật ngã
+
++ to throw an opponent: vật ngã một địch thủ
+- (nghĩa bóng) ném vào, mang vào, đưa vào
+
++ to throw someone into an prison: bỏ ai vào tù
+
++ to throw all one's energies into an undertaking: đem hết sức mình vào một việc gì
+
++ to throw a look at: đưa mắt nhìn, lườm
+
++ to throw light on a matter: soi sáng (nêu rõ) một vấn đề
+- (nghĩa bóng) làm cho rơi vào, bỗng đẩy vào (một tình trạng)
+
++ to throw the crowd into disorder: làm cho đám đông rối loạn
+
++ to be thrown upon: thuộc về, rôi vào đầu (ai) trách nhiệm, công việc)
+- lột (da); thay (lông)
+
++ the snake throws its skin: rắn lột da
+
++ the bird throws its feather: chim thay lông
+- đẻ (thỏ, chim bồ câu...)
+- xe (tơ)
+- nắn hình, trau (đồ gốm trên bàn quay)
+*  ndgt
+- ném, quăng
+- chơi súc sắc
+!to throw about
+- quẳng chỗ này chỗ nọ, vứt bừa bãi, vung phí
+
++ to throw one's money about: xài phí tiền bạc
+!to throw aside
+- quẳng ra một bên, ném ra một bên
+!to throw away
+- ném đi, vứt đi, liệng đi, bỏ rơi vãi
+
++ to throw away a card: vứt con bài xấu
+
++ to throw away a chance: bỏ qua một cơ hội
+
++ to throw away one's life: bỏ phí cuộc đời, hy sinh cuộc đời một cách vô ích
+
++ it was throwing words away: chỉ uổng lời
+
++ advice is thrown away on him: khuyên hắn chỉ phí lời
+
++ she threw herself away on a scoundrel: cô ta lấy một tên vô lại thật là phí cả cuộc đời
+!to throw back
+- ném lại, quăng trở lại; đẩy lùi; phản chiếu, phản xạ
+
++ to throw back a part of light: phản chiếu lại một phần ánh sáng
+- (sinh vật học) lại giống
+!to throw by
+- để lại, bỏ lại, gạt ra
+!to throw in
+- ném vào, vứt vào; xen vào; thêm
+
++ to throw oneself in: bắt tay vào, lao mình vào
+!to throw off
+- ném đi, quăng đi; phun ra; bỏ, bỏ đi
+
++ to throw off one's pursuers: bỏ (thoát khỏi) những kẻ đuổi theo
+
++ to throw off an epigram: đưa ra một bài thơ trào phúng
+- thả (chó săn)
+- (nghĩa bóng) bắt đầu, khởi sự
+- làm cho trật bánh (xe lửa)
+- cởi (quần áo)
+!to throw out
+- ném ra, quăng ra; đuổi ra, đẩy ra; phóng ra, phát ra
+
++ to throw out one's chest: ưỡn ngực ra
+
++ to throw out a challenge: thách đấu
+- đem toàn sức, bắt tay ào
+- vượt, át; phá ngang
+- văng (lời thoá mạ)
+- phủ nhận, bác (một đạo luật)
+- đâm (rễ)
+!to throw over
+- rời bỏ
+!to throw together
+- hợp lại, tập trung lại, tụ họp lại
+!to throw up
+- (y học) thổ ra, nôn ra
+- kéo lên (mành mành...)
+- bỏ, thôi (việc)
+
++ to throw up one's eyes: trợn mắt lên (sợ hãi)
+!to throw in one's lot with someone
+- cùng chia sẻ số phận với ai
+!to throw oneself down
+- nằm vật xuống
+!to throw oneself on (upon)
+- phó mặc cho
+
++ to throw oneself on the mercy of the court: phó mặc cho toà xét xử
+!to throw open
+- mở to, mở tung, mở mạnh; (nghĩa bóng) mở cửa, để mặc
+
++ to throw open the door to abuses: mặc cho tha hồ nhung lạm
+!to throw up the sponge
+- chịu thua (đánh quyền Anh...)
+
+@thrice  
+*  dt
+- (từ cổ,nghĩa cổ),  (thơ ca) ba lần
+
++ thrice as much: bằng ba chừng ấy
+
+@thrift  
+*  dt
+- sự tiết kiệm; tính tiết kiệm, tính tằn tiện
+- (thực vật học) cây thạch thung dung
+
+@thriftbox
+* dt
+- ống tiền; bùng binh
+ @thriftily
+* dt
+- tiết kiệm, tằn tiện
+ @thriftiness  
+*  dt
+- sự tiết kiệm; tính tiết kiệm, tính tằn tiện
+
+@thriftless  
+*  tt
+- không tiết kiệm, hoang phí, xa hoa lãng phí
+
++ what thriftless waste of time!: lãng phí thì giờ quá!
+
+@thriftlessness  
+*  dt
+- tính không tiết kiệm, tính hoang phí, tinh xa hoa lãng phí
+
+@thrifty  
+*  tt
+- tiết kiệm, tằn tiện
+- (từ Mỹ,nghĩa Mỹ) thịnh vượng, phồn vinh
+
+@thrill  
+*  dt
+- sự run lên, sự rộn lên, sự rộn ràng (vì sung sướng); sự rùng mình (kinh sợ)
+
++ a thrill of joy: sự vui sướng rộn ràng
+
++ a thrill of terror: sự rùng mình khiếp sợ
+- (y học) sự run; tiếng run (của tim, phổi)
+- (từ lóng) câu chuyện cảm động; câu chuyện giật gân, câu chuyện ly kỳ
+*  ngdgt
+- làm rùng mình, làm run lên; làm rộn ràng, làm xúc động, làm hồi hộp
+
++ to be thrilled with joy: sướng run lên
+
++ the match thrills the crowd: cuộc đấu làm cho đám đông rất hồi hộp
+*  ndgt
+- rùng mình, run lên; rộn ràng, hồi hộp
+
++ to thrill with delight: sướng run lên, sướng rộn ràng
+- rung lên, ngân lên
+
++ the orator's voice thrilled through the crowsd: giọng nói của diễn giả rung lên qua đám đông
+- rung cảm, rung động
+
++ how that violin thrills!: tiếng viôlông ấy mới rung cảm làm sao!
+
+@thriller  
+*  dt
+- câu chuyện cảm động
+- (từ lóng) câu chuyện giật gân, câu chuyện ly kỳ; truyện trinh thám
+
+@thrilling  
+*  tt
+- làm rùng mình; cảm động, xúc động, hồi hộp, ly kỳ
+
+@thrive  
+*  ndgt throve,  thrived; thriven,  thrived
+- thịnh vượng, phát đạt
+
++ an enterprise can't thrive without good management: quản lý không tốt thì xí nghiệp không thể phát đạt được
+- lớn nhanh, mau lớn, phát triển mạnh
+
++ children thrive on fresh air and good food: trẻ em chóng lớn nhờ không khí mát mẻ và ăn uống tốt
+
+@thrived
+- xem thrive
+ @thriven  
+*  ndgt throve,  thrived; thriven,  thrived
+- thịnh vượng, phát đạt
+
++ an enterprise can't thrive without good management: quản lý không tốt thì xí nghiệp không thể phát đạt được
+- lớn nhanh, mau lớn, phát triển mạnh
+
++ children thrive on fresh air and good food: trẻ em chóng lớn nhờ không khí mát mẻ và ăn uống tốt
+
+@thriving  
+*  dt
+- sự giàu có, sự phát đạt, sự thịnh vượng
+- sự lớn lên, sự khoẻ lên, sự phát triển mạnh
+*  tt
+- giàu có, thịnh vượng
+- lớn mạnh, mau lớn, phát triển mạnh
+
+@thro   (thro) @thro'   (thro) @throat  
+*  dt
+- họng, cuống họng
+
++ to grip someone by the throat: bóp cổ ai
+- lỗ hẹp; cổ (chai); cửa (lò cao)
+- khúc sông hẹp (giữa hai vách đá)
+!to jump down somebody's throat
+- (xem) jump
+!to feel (have) a lump in the throat
+- (xem) lump
+!to ram something down someone's throat
+- bắt ai phải thừa nhận cái gì, bắt ai phải nghe cái gì
+!words stick in one's throat
+- những lời nói cứ ở cổ khó nói ra được
+
+@throatily
+* dt
+- phát ra sâu trong cổ; thuộc yết hầu
+- nghe khàn khàn
+ @throatiness
+* dt
+- sự phát ra sâu trong cổ; tình trạng thuộc yết hầu
+- sự khàn khàn
+ @throaty  
+*  tt
+- ở cổ, khàn khàn (giọng)
+
+@throb  
+*  dt
+- sự đập mạnh, sự đập nhanh, sự đập rộn lên (của mạch, tim...)
+
++ the throbs of the heart: những tiếp đập rộn của tim
+- sự rộn ràng, sự hồi hộp
+
++ a throb of joy: niềm vui sướng rộn ràng
+*  ndgt
+- đập mạnh, đập nhanh; rộn lên
+
++ his wound throb bed with pain: vết thương của anh ấy nhức nhối
+
++ head throb bed: đầu óc choáng váng
+- rộn ràng, hồi hộp
+
+@throbbing  
+*  dt
+- sự đập mạnh, sự đập nhanh, sự rộn lên; tiếng đập mạnh
+- sự rộn ràng
+*  tt
+- đập mạnh (tim, mạch...)
+- nhói, nhoi nhói
+
++ a throbbing pain: sự đau nhói
+- rộn ràng
+
+@throe  
+*  dt,  (thường) số nhiều
+- sự đau dữ dội
+
++ the throes of death: sự giãy chết
+- (nghĩa bóng) nỗi đau khổ, nỗi thống khổ, nỗi khổ sở
+*  ndgt
+- (từ hiếm,nghĩa hiếm) quằn quại
+
+@throes
+* dt, pl
+- sự đau dữ dội; những cơn đau dữ dội
+* ndgt
+- <hiếm> quằn quại
+ @thrombi
+- số nhiều của thrombus
+ @thromboses
+- số nhiều của thrombosis
+ @thrombosis  
+*  dt
+- (y học) chứng nghẽn mạch
+
+@thrombus
+* dt số nhiều thrombi
+- (y học) cục nghẽn
+ @throne  
+*  dt
+- ngai, ngai vàng; ngôi, ngôi vua
+
++ to come to the throne: lên ngôi vua
+
++ to succeed to the throne: nối ngôi
+
++ to lose one's throne: mất ngôi
+*  ngdgt
+- (thơ ca) đưa lên ngôi, tôn làm vua
+
+@throng  
+*  dt
+- đám đông
+*  ngdgt
+- xúm đông, xúm quanh; làm chật ních
+
++ thronged withn people: đông người xúm quanh, chật ních những người
+*  ndgt
+- tụ họp thật đông, xúm lại, kéo đến chật ních
+
+@throstle  
+*  dt
+- (động vật học) chim hét
+- máy kéo chỉ ((cũng) throstle-frame)
+
+@throstle-frame  
+*  dt
+- máy kéo chỉ ((cũng) throstle)
+
+@throttle  
+*  dt
+- hầu, họng
+- (kỹ thuật) van tiết lưu, van bướm ((cũng) throttle-valve)
+!at full throttle
+- mở hết ga (ô tô)
+!to close the throttle
+- giảm tốc độ
+!to open the throttle
+- tăng tốc độ
+*  ngdgt
+- bóp cổ, bóp hầu
+- bóp nghẹt, đàn áp, trấn áp
+
++ the tyrant throttled freedom: tên bạo chúa bóp nghẹt tự đo
+- (kỹ thuật) tiết lưu
+!to throttle down
+- giảm tốc độ (của ô tô, máy)
+
+@throttle-valve  
+*  dt
+- (kỹ thuật) van tiết lưu, van bướm ((cũng) throttle)
+
+@through   (thro) @through and through  
+*  dt
+- hoàn toàn
+
++ to be wet through_and_through: bị ướt sạch
+
++ to look someone through_and_through: nhìn ai từ đầu đến chân
+- trở đi trở lại
+
++ to read a book through_and_through: đọc đi đọc lại một cuốn sách
+
+@throughly  
+*  dt
+- (từ hiếm,nghĩa hiếm) (như) thoroughly
+
+@throughout  
+*  giới từ & dt
+- từ đầu đến cuối, khắp, suốt
+
++ throughout his life: suốt đời anh ta
+
++ throughout the year: suốt năm
+
++ throughout the world: khắp thế giới
+
++ the house is well furnished throughout: khắp nhà đều có đầy đủ đồ đạc
+
+@throughput
+* dt
+- số lượng vật liệu đưa vào một quá trình (nhất là cho một thời gian được nói rõ)
+ @throughway
+* dt
+- như motorway
+ @throve  
+*  ndgt throve,  thrived; thriven,  thrived
+- thịnh vượng, phát đạt
+
++ an enterprise can't thrive without good management: quản lý không tốt thì xí nghiệp không thể phát đạt được
+- lớn nhanh, mau lớn, phát triển mạnh
+
++ children thrive on fresh air and good food: trẻ em chóng lớn nhờ không khí mát mẻ và ăn uống tốt
+
+@throw  
+*  dt
+- sự ném, sự vứt, sự quăng, sự liệng
+- khoảng ném xa
+- (thể dục,thể thao) sự vật ngã, sự quăng xuống đất
+- (địa lý,địa chất) xê dịch của phay
+*  ngdgt threw; thrown
+- ném, vứt, quăng, quẳng, liệng, lao
+
++ to throw oneself forwards: lao tới, xông tới trước
+- (thể dục,thể thao) vật ngã
+
++ to throw an opponent: vật ngã một địch thủ
+- (nghĩa bóng) ném vào, mang vào, đưa vào
+
++ to throw someone into an prison: bỏ ai vào tù
+
++ to throw all one's energies into an undertaking: đem hết sức mình vào một việc gì
+
++ to throw a look at: đưa mắt nhìn, lườm
+
++ to throw light on a matter: soi sáng (nêu rõ) một vấn đề
+- (nghĩa bóng) làm cho rơi vào, bỗng đẩy vào (một tình trạng)
+
++ to throw the crowd into disorder: làm cho đám đông rối loạn
+
++ to be thrown upon: thuộc về, rôi vào đầu (ai) trách nhiệm, công việc)
+- lột (da); thay (lông)
+
++ the snake throws its skin: rắn lột da
+
++ the bird throws its feather: chim thay lông
+- đẻ (thỏ, chim bồ câu...)
+- xe (tơ)
+- nắn hình, trau (đồ gốm trên bàn quay)
+*  ndgt
+- ném, quăng
+- chơi súc sắc
+!to throw about
+- quẳng chỗ này chỗ nọ, vứt bừa bãi, vung phí
+
++ to throw one's money about: xài phí tiền bạc
+!to throw aside
+- quẳng ra một bên, ném ra một bên
+!to throw away
+- ném đi, vứt đi, liệng đi, bỏ rơi vãi
+
++ to throw away a card: vứt con bài xấu
+
++ to throw away a chance: bỏ qua một cơ hội
+
++ to throw away one's life: bỏ phí cuộc đời, hy sinh cuộc đời một cách vô ích
+
++ it was throwing words away: chỉ uổng lời
+
++ advice is thrown away on him: khuyên hắn chỉ phí lời
+
++ she threw herself away on a scoundrel: cô ta lấy một tên vô lại thật là phí cả cuộc đời
+!to throw back
+- ném lại, quăng trở lại; đẩy lùi; phản chiếu, phản xạ
+
++ to throw back a part of light: phản chiếu lại một phần ánh sáng
+- (sinh vật học) lại giống
+!to throw by
+- để lại, bỏ lại, gạt ra
+!to throw in
+- ném vào, vứt vào; xen vào; thêm
+
++ to throw oneself in: bắt tay vào, lao mình vào
+!to throw off
+- ném đi, quăng đi; phun ra; bỏ, bỏ đi
+
++ to throw off one's pursuers: bỏ (thoát khỏi) những kẻ đuổi theo
+
++ to throw off an epigram: đưa ra một bài thơ trào phúng
+- thả (chó săn)
+- (nghĩa bóng) bắt đầu, khởi sự
+- làm cho trật bánh (xe lửa)
+- cởi (quần áo)
+!to throw out
+- ném ra, quăng ra; đuổi ra, đẩy ra; phóng ra, phát ra
+
++ to throw out one's chest: ưỡn ngực ra
+
++ to throw out a challenge: thách đấu
+- đem toàn sức, bắt tay ào
+- vượt, át; phá ngang
+- văng (lời thoá mạ)
+- phủ nhận, bác (một đạo luật)
+- đâm (rễ)
+!to throw over
+- rời bỏ
+!to throw together
+- hợp lại, tập trung lại, tụ họp lại
+!to throw up
+- (y học) thổ ra, nôn ra
+- kéo lên (mành mành...)
+- bỏ, thôi (việc)
+
++ to throw up one's eyes: trợn mắt lên (sợ hãi)
+!to throw in one's lot with someone
+- cùng chia sẻ số phận với ai
+!to throw oneself down
+- nằm vật xuống
+!to throw oneself on (upon)
+- phó mặc cho
+
++ to throw oneself on the mercy of the court: phó mặc cho toà xét xử
+!to throw open
+- mở to, mở tung, mở mạnh; (nghĩa bóng) mở cửa, để mặc
+
++ to throw open the door to abuses: mặc cho tha hồ nhung lạm
+!to throw up the sponge
+- chịu thua (đánh quyền Anh...)
+
+@throwaway
+* dt
+- (thông tục) vật được làm ra để sử dụng một lần rồi vất luôn
+- đứa trẻ bơ vơ phải sống trên đường phố; trẻ đường phố
+* tt
+- được làm ra để sử dụng một lần rồi vất luôn
+
++  Throwaway glasses razors:Cốc@throw-back  
+*  dt
+- sự giật lùi, sự lùi lại
+- (sinh vật học) sự lại giống
+
+@thrower  
+*  dt
+- người ném, người vứt, người quăng, người liệng
+- (thể dục,thể thao) người ném bóng
+- người chơi súc sắc
+- người xe tơ
+- người nắn hình đồ gốm, người trau đồ gốm (trên bàn quay)
+
+@throw-in
+* dt
+- sự ném biên (bóng đá), cú ném biên
+ @throwing
+* dt
+- ném; vứt; quăng
+- bàn quay (nặn đồ gốm)
+- sự xe tơ
+ @throwing-mill
+* dt
+- xưởng dệt lụa
+- máy dệt lụa
+ @throwing-wheel
+* dt
+- bàn quay (nặn đồ gốm)
+ @thrown  
+*  dt
+- sự ném, sự vứt, sự quăng, sự liệng
+- khoảng ném xa
+- (thể dục,thể thao) sự vật ngã, sự quăng xuống đất
+- (địa lý,địa chất) xê dịch của phay
+*  ngdgt threw; thrown
+- ném, vứt, quăng, quẳng, liệng, lao
+
++ to throw oneself forwards: lao tới, xông tới trước
+- (thể dục,thể thao) vật ngã
+
++ to throw an opponent: vật ngã một địch thủ
+- (nghĩa bóng) ném vào, mang vào, đưa vào
+
++ to throw someone into an prison: bỏ ai vào tù
+
++ to throw all one's energies into an undertaking: đem hết sức mình vào một việc gì
+
++ to throw a look at: đưa mắt nhìn, lườm
+
++ to throw light on a matter: soi sáng (nêu rõ) một vấn đề
+- (nghĩa bóng) làm cho rơi vào, bỗng đẩy vào (một tình trạng)
+
++ to throw the crowd into disorder: làm cho đám đông rối loạn
+
++ to be thrown upon: thuộc về, rôi vào đầu (ai) trách nhiệm, công việc)
+- lột (da); thay (lông)
+
++ the snake throws its skin: rắn lột da
+
++ the bird throws its feather: chim thay lông
+- đẻ (thỏ, chim bồ câu...)
+- xe (tơ)
+- nắn hình, trau (đồ gốm trên bàn quay)
+*  ndgt
+- ném, quăng
+- chơi súc sắc
+!to throw about
+- quẳng chỗ này chỗ nọ, vứt bừa bãi, vung phí
+
++ to throw one's money about: xài phí tiền bạc
+!to throw aside
+- quẳng ra một bên, ném ra một bên
+!to throw away
+- ném đi, vứt đi, liệng đi, bỏ rơi vãi
+
++ to throw away a card: vứt con bài xấu
+
++ to throw away a chance: bỏ qua một cơ hội
+
++ to throw away one's life: bỏ phí cuộc đời, hy sinh cuộc đời một cách vô ích
+
++ it was throwing words away: chỉ uổng lời
+
++ advice is thrown away on him: khuyên hắn chỉ phí lời
+
++ she threw herself away on a scoundrel: cô ta lấy một tên vô lại thật là phí cả cuộc đời
+!to throw back
+- ném lại, quăng trở lại; đẩy lùi; phản chiếu, phản xạ
+
++ to throw back a part of light: phản chiếu lại một phần ánh sáng
+- (sinh vật học) lại giống
+!to throw by
+- để lại, bỏ lại, gạt ra
+!to throw in
+- ném vào, vứt vào; xen vào; thêm
+
++ to throw oneself in: bắt tay vào, lao mình vào
+!to throw off
+- ném đi, quăng đi; phun ra; bỏ, bỏ đi
+
++ to throw off one's pursuers: bỏ (thoát khỏi) những kẻ đuổi theo
+
++ to throw off an epigram: đưa ra một bài thơ trào phúng
+- thả (chó săn)
+- (nghĩa bóng) bắt đầu, khởi sự
+- làm cho trật bánh (xe lửa)
+- cởi (quần áo)
+!to throw out
+- ném ra, quăng ra; đuổi ra, đẩy ra; phóng ra, phát ra
+
++ to throw out one's chest: ưỡn ngực ra
+
++ to throw out a challenge: thách đấu
+- đem toàn sức, bắt tay ào
+- vượt, át; phá ngang
+- văng (lời thoá mạ)
+- phủ nhận, bác (một đạo luật)
+- đâm (rễ)
+!to throw over
+- rời bỏ
+!to throw together
+- hợp lại, tập trung lại, tụ họp lại
+!to throw up
+- (y học) thổ ra, nôn ra
+- kéo lên (mành mành...)
+- bỏ, thôi (việc)
+
++ to throw up one's eyes: trợn mắt lên (sợ hãi)
+!to throw in one's lot with someone
+- cùng chia sẻ số phận với ai
+!to throw oneself down
+- nằm vật xuống
+!to throw oneself on (upon)
+- phó mặc cho
+
++ to throw oneself on the mercy of the court: phó mặc cho toà xét xử
+!to throw open
+- mở to, mở tung, mở mạnh; (nghĩa bóng) mở cửa, để mặc
+
++ to throw open the door to abuses: mặc cho tha hồ nhung lạm
+!to throw up the sponge
+- chịu thua (đánh quyền Anh...)
+
+@throw-off  
+*  dt
+- (thể dục,thể thao) sự bắt đầu sự xuất phát
+
+@throw-out
+* dt
+- sự bỏ đi; sự vứt đi
+- (số nhiều) phế phẩm; đồ thải; cặn bã
+ @throw-way
+* tt
+- bỏ đi sau khi dùng
+- được nói một cách (lửng lơ) cố ý không nhấn mạnh
+ @thru  
+*  giới từ & dt
+- (từ Mỹ,nghĩa Mỹ) (như) through
+
+@thrum  
+*  dt
+- đầu sợi (còn sót lại ở khung cửi khi lấy vải ra)
+- sợi to, sợi thô
+!thread and thrum
+- xô bồ, cả tốt lẫn xấu
+*  ngdgt
+- dệ bằng đầu sợi thừa
+*  dt
+- tiếng gõ nhẹ
+- tiếng búng (đàn ghita)
+*  dgt
+- gõ nhẹ, vỗ nhẹ
+- búng (đàn ghita)
+- (từ Mỹ,nghĩa Mỹ) kể lể giọng đều đều
+
+@thrummy  
+*  tt
+- có nhiều đầu sợi thừa
+
+@thrush  
+*  dt
+- (động vật học) chim hét
+- (y học) tưa (bệnh trẻ con)
+
+@thrust  
+*  dt
+- sự đẩy mạnh, sự xô đẩy
+
++ to give a thrust: đẩy mạnh
+- nhát đâm (dao găm, mũi kiếm)
+- (quân sự) cuộc tấn công mạnh (để chọc thủng phòng tuyến), sự đột phá, sự thọc sâu
+- sự công kích (trong cuộc tranh luận)
+- (thể dục,thể thao) sự tấn công thình lình
+- sức đè, sức ép (giữa các bộ phận trong một cơ cấu)
+- sự đè gãy (cột chống trong mỏ than)
+*  ngdgt thrust
+- đẩy, ấn mạnh, tống, thọc
+
++ to thrust the hands into the pockets: thọc tay vào túi
+
++ to thrust the needle of the syringe into the arm: thọc kim tiêm vào cánh tay
+- nhét, giúi cái gì vào tay ai
+- bắt phải theo, bắt nhận
+
++ to thrust one's opinion upon someone: bắt ai theo ý kiến mình
+
++ to thrust something upon someone: bắt ai phải nhận một cái gì
+*  ndgt
+- xô đẩy, đẩy mạnh, ấn mạnh
+- (: into,  through...) chui, len
+- (thể dục,thể thao) đâm một nhát
+!to thrust at
+- đâm một nhát, đâm một mũi
+!to thrust back
+- đẩy lùi
+!to thrust down
+- đẩy xuống
+!to thrust forward
+- đẩy tới trước, xô ra trước
+- đưa (tay) tới
+!to thrust in
+- thọc vào, giúi vào, nhét
+!to thrust on
+- lao, xông tới
+!to thrust out
+- duỗi (chân); lè (lưỡi); ưỡn (ngực)
+- đuổi ra, tống ra
+!to thrust past
+- xô ra để đi
+!to thrust through
+- đâm qua, chọc qua
+
++ to thrust one's way through the crowd: len qua đám đông
+!to thrust and parry
+- đấu tài đấu trí, tranh khôn tranh khéo
+!to thrust oneself forward
+- len vào, chen để đi
+- làm cho người ta để ý đến mình
+
+@thrust
+- lực đẩy, sức đẩy
+- jet t. sức đẩy phản lực 
+ @thruster
+* dt
+- người tự đề cao (để giành một lợi thế )
+ @thud  
+*  dt
+- tiếng uỵch, tiếng thịch
+
++ to fall with a heavy thud: ngã uỵch một cái
+*  ndgt
+- ngã uỵch
+
+@thug  
+*  dt
+- (sử học) kẻ sát nhân (thuộc một giáo phái ở Ân-độ, giết người ngoài để cúng thần)
+- kẻ cướp; côn đồ, du côn, ác ôn
+
+@thuggee   (thuggery) @thuggery   (thuggery) @thuggism   (thuggery) @thulium
+* dt
+- chất thu-li-um (thuộc họ lanthan)
+ @thumb  
+*  dt
+- ngón tay cái
+- ngón tay cái của găng tay
+!to be under someone's thumb
+- bị ai thống trị, bị ai kiềm chế; ở dưới quyền ai
+!to bite one's thumb at somebody
+- lêu lêu chế nhạo ai
+!his fingers are all thumbs
+- nó vụng về hậu đậu
+!thumbs down
+- dấu ra hiệu từ chối (không tán thành)
+!thumbs up
+- dấu ra hiệu đồng ý (tán thành)
+*  ngdgt
+- dở qua (trang sách)
+
++ to thumb the pages of a book: dở qua trang sách
+- vận dụng vụng về, điều khiển vụng về
+
++ to thumb the piano: đánh pianô vụng về
+!to thumb one's nose at someone
+- (thông tục) để ngón tay cái lên mũi để chế nhạo ai, lêu lêu ai; nhạo ai, miệt thị ai
+
+@thumbed
+* tt
+- có răng; hình răng cưa (mào gà)
+- bị bôi bẩn; nhàu nát (sách)
+ @thumb-index
+* dt
+- dãy những khía có ghi chữ, cắm lẹm vào rìa một suốn sách dùng để nhận ra vị trí của các phần khác nhau trong đó (những từ bắt đầu bằng một chữ nào đó trong một cuốn từ điển)
+ @thumb-nail  
+*  dt
+- móng ngón tay cái
+!thumb-nail sketch
+- bức chân dung nhỏ (bằng móng tay)
+- bản phác thảo ngắn
+
+@thumbprint
+* dt
+- dấu ấn chỉ ngón cái (trong căn cước)
+ @thumbscrew  
+*  dt
+- (kỹ thuật) ốc tai hồng
+- (sử học) cái kẹp ngón tay cái (dụng cụ tra tấn)
+
+@thumb-stall  
+*  dt
+- bao ngón tay cái
+
+@thumbtack  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) đinh bấm
+
+@thump  
+*  dt
+- quả đấm, quả thụi
+*  ngdgt
+- đấm, thụi, thoi
+
++ to thump the door: đấm cửa
+*  ndgt
+- đánh, đập mạnh
+
++ the heart was thumping: tim đang đập mạnh
+!to thump the (a) cushion
+- khoa tay múa chân (người diễn thuyết)
+
+@thumper  
+*  dt
+- người đánh, người đấm, người thụi
+- (thông tục) vật to lớn; người to lớn
+- (thông tục) lời nói láo quá quắt
+
+@thumping  
+*  tt
+- (thông tục) to lớn, khổng lồ
+*  dt
+- hết mức, quá chừng
+
++ what a thumping great lie!: nói láo đến thế là hết mức!
+
+@thunder  
+*  dt
+- sấm, sét
+
++ a clap of thunder: tiếng sét ổn
+- tiếng ầm vang như sấm
+
++ thunder of applause: tiếng vỗ tay như sấm
+- sự chỉ trích; sự đe doạ
+
++ to fear the thunders of the press: sợ những lời chỉ trích của báo chí
+
++ to look as black as thunder: trông có vẻ hầm hầm đe doạ
+*  dgt
+- nổi sấm, sấm động
+- ầm ầm như sấm
+
++ the cannon thundered: súng đại bác nổ ầm ầm như sấm
+- la lối, nạt nộ, chửa mắng
+
+@thunderation
+- quỉ tha ma bắt!
+ @thunderbolt  
+*  dt
+- tiếng sét
+- (nghĩa bóng) việc bất ngờ; tin sét đánh
+
++ the news came upon me like a thunderbolt: tin ấy đến với tôi như sét đánh
+- (nghĩa bóng) lời doạ nạt
+
+@thunderclap  
+*  dt
+- tiếng sét
+- (nghĩa bóng) việc bất ngờ, tiếng sét ngang tai
+
+@thundercloud  
+*  dt
+- mây dông
+
+@thunderer  
+*  dt
+- (the Thunderer) thần sấm
+- (nghĩa bóng) người doạ nạt
+
+@thundering  
+*  dt
+- tiếng sấm sét
+- tiếng vang như sấm
+*  tt
+- vang như sấm
+
++ a thundering voice: giọng vang như sấm
+- (thông tục) to, mạnh, dữ dội, ghê gớm, cực kỳ
+
++ a thundering fool: một thằng chí ngu
+
++ to be in a thundering rage: nổi giận đùng đùng
+- (nghĩa bóng) nạt nộ
+*  dt
+- rất, cực kỳ, vô cùng, hết sức
+
++ a thundering big mistake: một lỗi lầm vô cùng to lớn
+
+@thunderous  
+*  tt
+- dông tố
+
++ thunderous weather: trời dông tố
+- âm ấm, vang như sấm
+
++ a thunderous voice: giọng vang như sấm
+
++ a thunderous applause: tiếng vỗ tay vang như sấm
+
+@thunderously
+* dt
+- như sấm; rất to; ầm ầm; vang như sấm
+ @thunderpeal  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) tiếng sấm
+
+@thundershower  
+*  dt
+- mưa rào có sấm sét
+
+@thunderstorm  
+*  dt
+- bão tố có sấm sét
+
+@thunderstricken
+- xem thunderstruck
+ @thunderstroke  
+*  dt
+- tiếng sét đánh
+
+@thunderstruck  
+*  tt
+- bị sét đánh
+- (nghĩa bóng) sửng sốt, kinh ngạc
+
+@thundery  
+*  tt
+- có sấm sét; dông tố, bão tố
+
++ thundery weather: trời dông tố
+
+@Thunen, Johann Heinrich von
+- (Econ) (1783-1850)
+: Von Thunen - nhà kinh tế học nông nghiệp người Đức đưa ra mô hình lý thuyết dựa trên kinh nghiệm canh tác nhằm tìm ra vị trí tối ưu đối với một loại cây trồng nào đó, đặc biệt về khoảng cách từ trung tâm có nhu cầu đối nó. Ông đưa ra thuyết TIỀN THUÊ ĐẤT tương tự với thuyết của Ricardo, và thuyết phân phối dựa trên năng suất biên. Việc ứng dụng năng suấtbiên vào tiền công và vốn, sử dụng các đạo hàm và lôgich cận biên nhằm  tìm ra các nghiệm cân bằng cho các biến số kinh tế, và tuyên bố của ông về quy luật TỶ LỆ BIẾN THIÊN đã cho phép ông ta được biết đén như nhà sáng lập ra phân tích biên. A.MARSHALL đã ca ngợi đóng góp lớn của ông.
+ @thur
+* (viết tắt)
+- thứ năm (ngày thứ năm trong tuần lễ)  (Thursday)
+ @thurible  
+*  dt
+- bình hương, lư hương
+
+@thurifer  
+*  dt
+- người dâng hương (ở giáo đường)
+
+@thurification
+* dt
+- sự dâng hương; lễ dâng hương
+ @thurify
+* dgt
+- dâng hương; lắc bình hương (ở giáo đường)
+ @thurs
+* (viết tắt)
+- thứ Năm (Thursday)
+- viết tắt
+- thứ Năm (Thursday)
+ @thursday  
+*  dt
+- ngày thứ năm (trong tuần lễ)
+
+@thus  
+*  dt
+- vậy, như vậy, như thế
+
++ he spoke thus: hắn nói như vậy
+- vì vậy, vì thế, vậy thì
+- đến đó, đến như thế
+
++ thus far: đến đó
+
++ thus much: bấy nhiêu đó
+
+@thwack   (thwack) @thwart  
+*  tt & dt
+- ngang (trái với dọc)
+*  dt
+- ván ngang (cho người chèo thuyền ngồi)
+*  ngdgt
+- cản trở, ngăn trở, phá ngang, làm trở ngại
+
++ to thwart the enemy's plans: phá kế hoạch của địch
+
+@thy  
+*  tt sở hữu
+- (trước nguyên âm thine) (từ cổ,nghĩa cổ) của mày, của anh, của ngươi
+
+@thyme  
+*  dt
+- (thực vật học) cỏ xạ hương
+
+@thymol
+* dt
+- dầu xoa bóp, sát trùng lấy từ tinh dầu bách lý hương
+ @thyroid  
+*  tt
+- (giải phẫu) (thuộc) tuyến giáp
+
++ thyroid cartilage: sun tuyến giáp
+*  dt
+- (giải phẫu) tuyến giáp
+
+@thyroid gland
+* dt
+- <phẫu> tuyến giáp (tuyến to ở phía trước cổ, tạo ra hóomon điều khiển sự lớn lên và phát triển của thân thể)
+ @thyself  
+*  đại từ phản thân
+- (tôn giáo); (thơ ca) tự mày, chính mày, tự anh, chính anh
+
+@

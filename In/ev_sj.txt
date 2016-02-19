@@ -1,0 +1,7 @@
+@sjambok  
+*  dt
+- roi da tê giác
+*  ngdgt
+- đánh bằng roi da tê giác
+
+@

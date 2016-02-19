@@ -1,0 +1,2123 @@
+@ad  
+*  dt
+- (thông tục) (viết tắt) của advertisement
+
+@ad absurdum
+- đến chỗ vô lý
+- reduction a. a. sự đưa đến chỗ vô lý 
+ @AD converter
+- (Tech) bộ đổi sóng-số
+ @ad hoc  
+*  tt
+- đặc biệt
+
++ ad_hoc committee: uỷ ban đặc biệt
+- được sắp đặt trước cho mục đích đó
+
+@ad infinitum  
+*  dt
+- vô cùng, vô tận, không giới hạn, mãi mãi
+
+@ad interim  
+*  tt & dt
+- ((viết tắt) a i) quyền, tạm quyền, tạm thời
+
++ Prime Minister ad_interim: quyền thủ tướng
+
++ chargé d'affaires ad_interim: đại diện lâm thời
+
+@ad lib
+* tt
+- <khngu> cương, ứng, tác
+* dt
+- <khngu> [một cách] cương, [một cách] ứng tác
+- không hạn chế,tùy thích, thoải mái
+* dgt
+- ứng khẩu, cương
+ @ad nauseam
+* dt(Latinh):đến nỗi phát ngán
+ @ad valorem  
+*  tt & dt
+- theo giá hàng
+
++ ad_valorem tax: thuế theo giá hàng
+
+@ada
+- Tên một ngôn ngữ lập trình bậc cao
+ @adage  
+*  dt
+- cách ngôn, châm ngôn; ngạn ngữ
+
+@adagio  
+*  tt & dt
+- (âm nhạc) khoan thai
+*  dt
+- (âm nhạc) nhịp khoan thai
+
+@adam  
+*  dt
+- A-dam (con người đầu tiên, thuỷ tổ loài người)
+!Adam's ale (wine)
+- nước, nước lã
+!Adam's apple
+- (giải phẫu) trái cổ
+!not to know someones from Adam
+- không biết mặt mũi như thế nào
+!the old Adam
+- tình trạng già yếu quá rồi (của người)
+
+@adamant  
+*  dt
+- kỉ cương
+- (thơ ca) cái cứng rắn, cái sắt đá
+
++ a heart of adamant: tim sắt đá
+- (từ cổ,nghĩa cổ) đá nam châm
+*  tt
+- cứng rắn, rắn như kim cương
+- sắt đá, gang thép
+
+@adamantine  
+*  tt
+- rắn như kim cương
+- (nghĩa bóng) cứng rắn, sắt đá, gang thép
+
+@adamantly
+* dt
+- cứng rắn
+ @adamantoblast
+* dt
+- tế bào men răng
+ @adamic
+* tt
+- của hay giống thời kỳ Adam
+- nguyên thủy
+ @adamite
+* dt
+- con người
+- người thuộc phái ở truồng
+ @adam's apple
+- (giải phẫu) trái cổ
+ @adapt  
+*  ngdgt
+- tra vào, lắp vào
+
++ to adapt one thing to another: tra vật này vào vật kia
+- phỏng theo, sửa lại cho hợp
+
++ difficult books are often adapted for use in schools: những sách khó thường được sửa lại cho hợp với trường học
+
++ a play adapted from a novel: một vở kịch phỏng theo một cuốn tiểu thuyết
+
++ a novel adapted for the stage: một cuốn tiểu thuyết được sửa lại để đưa lên sân khấu
+- làm thích nghi, làm thích ứng
+
++ to adapt onself to circumstances: thích nghi với hoàn cảnh
+*  ndgt
+- thích nghi (với môi trường...)
+
+@adaptability   (adaptableness) @adaptable  
+*  tt
+- có thể tra vào, có thể lắp vào
+- có thể phỏng theo, có thể sửa lại cho hợp
+- có thể thích nghi, có thể thích ứng
+
+@adaptableness   (adaptableness) @adaptation  'teiʃn@adaptation
+- (Tech) thích ứng, thích nghi; phối hợp (d)
+ @adaptation
+- sự thích nghi
+ @adaptation function
+- (Tech) chức năng thích ứng
+ @adaptational
+- xem adaptation
+ @adaptationally
+- xem adaptation
+ @adapter  
+*  dt
+- người phỏng theo, người sửa lại cho hợp (tác phẩm văn học...)
+- người làm thích nghi, người làm thích ứng
+- (kỹ thuật) thiết bị tiếp hợp, ống nối, cái nắn điện
+
+@adapter
+- (Tech) bộ phối hợp, bộ thích ứng; đầu đọc (tiếng); bộ điện
+ @adapter board
+- (Tech) bảng tiếp hợp
+ @adaptive
+- (Tech) mang tính thích nghi
+ @adaptive equalizer
+- (Tech) bộ cân bằng điều ứng
+ @Adaptive expectation
+- (Econ) Kỳ vọng thích nghi; kỳ vọng phỏng theo
+: Sự hình thành kỳ vọng về giá trị tương lai của một biến số chỉ dựa trên các giá trị trước đó của biến liên quan.
+ @adaxial
+* tt
+- hướng trục, bên trục, gần trục, dính trục
+ @adb
+- (vt của Apple Desktop Bus) Bus của máy tính để bàn Apple, bus ADB
+ @adc
+- (vt của advanced developing countries)
+- (vt của Aid to Dependent Children)
+- (vt của Air Defense Command)
+- (vt của aide-de-camp)
+ @adcauline
+* tt
+- (sinh vật) bên thân, dính thân
+ @add  
+*  dgt
+- ((thường) : up,  together) cộng
+- thêm vào, làm tăng thêm
+
++ add some more hot water to your tea: cho thêm ít nước nóng nữa vào tách trà của anh
+
++ music added to our joy: âm nhạc làm tăng thêm niềm vui của chúng ta
+- nói thêm
+
++ he added that: anh ta nói thêm rằng
+- (: in) kế vào, tính vào, gộp vào
+!to add fuel to the fire
+- (xem) fire
+!to add insult to injury
+- miệng chửi tay đấm
+
+@add
+- (Tech) cộng; thêm vào, cộng thêm, tăng cường, bổ sung
+ @add
+- cộng vào, thêm vào, bổ sung
+- a. together, a. up cộng lại lấy tổng 
+ @add carry
+- (Tech) số nhớ khi cộng
+ @addable
+- xem add
+ @addax  
+*  dt
+- (động vật học) linh dương sừng queo (Bắc Phi)
+
+@addend
+- (Tech) số hạng (của tổng), số cộng
+ @addend
+- số hạng (của tổng)
+ @addend digit
+- (Tech) ký số của số cộng
+ @addend register
+- (Tech) bộ ghi số cộng
+ @addenda  
+*  dt,  số nhiều addenda
+- phụ lục (của một cuốn sách); vật thêm vào, phần thêm vào
+
+@addendum  
+*  dt,  số nhiều addenda
+- phụ lục (của một cuốn sách); vật thêm vào, phần thêm vào
+
+@addendum
+- (Tech) phụ lục; phần thêm vào, vật thêm vào
+ @adder  
+*  dt
+- người cộng, máy cộng
+- rắn vipe
+!flying adder
+- con chuồn chuồn
+
+@adder
+- (Tech) bộ cộng; mạch cộng
+ @adder
+- bộ cộng
+- algebraic a. bộ cộng đại số 
+- amplitude a. bộ cộng biên độ 
+- counter-type a. bộ cộng bằng nút bấm 
+ @adder
+- digital a. bộ cộng bằng chữ số
+- full a. bộ cộng đầy đủ
+- half a. bộ nửa cộng
+- left-hand a. bộ cộng bên trái (bộ cộng hàng cao)
+- one-column a. bộ cộng một cột
+- parallel a. bộ cộng đồng thời
+- right-hand a. bộ cộng bên phái (bộ cộng hàng thấp)
+- serial a. bộ cộng lần lượt
+- single-digit a. bộ cộng một hàng
+- ternary a. bộ cộng tam phân 
+ @adder accumulator
+- (Tech) bộ cộng tích lũy @adder amplifier
+- (Tech) bộ khuếch đại cộng
+ @adder subtracter
+- (Tech) bộ gia giảm, bộ cộng trừ
+ @adder-in
+- (Tech) phụ kiện tăng cường, phụ tùng tăng cường, tăng thiết
+ @adder's tongue   (adder's_tongue) @adder-spit   (adder's_tongue) @adder-subtractor
+- bộ cộng và trừ
+ @addible
+- xem add
+ @addict  
+*  dt
+- người nghiện
+
++ an opium addict: người nghiện thuốc phiện
+*  ngdgt
+- nghiện
+
++ to be much addicted to drink: nghiện rượu nặng
+- ham mê, say mê, miệt mài (làm việc, học tập, nghiên cứu)
+
++ to addict one's mind to archaeology: ham mê khảo cổ
+
+@addicted
+* tt
+- say mê, nghiện
+ @addiction  
+*  dt
+- thói nghiện
+- sự ham mê, sự say mê
+
+@addictive
+- xem addict
+ @add-in
+- <tin> chương trình bổ sung
+ @Adding up problem
+- (Econ) Vấn đề cộng tổng.
+: Xem EULER'S THEREM
+ @adding-machine  
+*  dt
+- máy cộng
+
+@addison's disease  
+*  dt
+- (y học) bệnh A-đi-sơn
+
+@addition  
+*  dt
+- (toán học) tính cộng; phép cộng; sự cộng lại
+- sự thêm, phần thêm
+
++ the family had a new addition: gia đình ấy thêm một người
+
++ in addition to: thêm vào
+
+@addition
+- (Tech) phép cộng; thêm vào, phụ thêm, đình kèm; bổ trợ, bổ túc
+ @addition
+- phép cộng
+- a. of complex numbers phép cộng các số phức, tổng các số phức
+- a. of decimals phép cộng các số thập phân
+- a. of similar terms in algebra phép cộng các số hạng giồng nhau trong
+- biểu thức đại số 
+- algebraic a. phép cộng đại số
+- arithmetic a. phép cộng số học 
+ @addition assignment operator
+- (Tech) toán tử gán cộng
+ @addition character
+- (Tech) ký tự thêm vào 
++  special character
+ @Addition rule
+- (Econ) Quy tắc cộng.
+: Một quy tắc để xác định ĐẠO HÀM của một hàm đối với một biến số, trong đó hàm này bao gồm phép cộng tuyến tính của 2 hàm riêng biệt hoặc nhiều hơn trở lên của các biến.
+ @additional  
+*  tt
+- thêm vào, phụ vào, tăng thêm
+
++ an additional charge: phần tiền phải trả thêm
+
++ an additional part: phần phụ vào
+
+@Additional worker hypothesis
+- (Econ) Giả thuyết công nhân thêm vào.
+: Theo lập luận này, thu nhập thực tế của gia đình giảm trong thời kỳ suy thoái theo chu kỳ sẽ gây ra HIỆU ỨNG THU NHẬP.
+ @additionally
+* dt
+- thêm nữa, ngoài ra
+ @additive  
+*  tt
+- để cộng vào, để thêm vào
+*  dt
+- vật để cộng vào, vật để thêm vào
+- (kỹ thuật) chất cho thêm vào (vào dầu máy...)
+
+@additive
+- (Tech) cộng tính
+ @additive
+- cộng tính
+- completely a. hoàn toàn cộng tính 
+ @additive attribute
+- (Tech) thuộc về cộng tính
+ @additive color
+- (Tech) mầu cộng thêm; phương pháp mầu cộng thêm
+ @additive error
+- (Tech) sai số cộng
+ @additive noise
+- (Tech) tạp @additive operator
+- (Tech) toán tử cộng tính
+ @additive polarity
+- (Tech) phân cực cộng tính
+ @additive primaries
+- (Tech) các màu cơ bản cộng
+ @additive primary color
+- (Tech) màu cơ bản cộng thêm
+ @additive process
+- (Tech) quá trình cộng thêm
+ @additive subtractive expression
+- (Tech) gia giảm thức [NB], biểu thức gia giảm
+ @additive subtractive operator
+- (Tech) toán tử gia giảm
+ @Additive utility function
+- (Econ) Hàm thoả dụng phụ trợ.
+: Một dạng hàm thoả dụng : U
++ Ua :Ub:Uc . Trong đó U là độ thoả dụng a,b,c ;a hàng hoá thay thế trong các hệ thống chi tiêu tuyến tính, các nhóm hàng hoá này không thể thay thế cho nhau.
+ @additive white Gaussian noise (AWGN)
+- (Tech) nhiễu âm cộng dạng Gauss, nhiễu âm cộng có phân bố đều
+ @additive white noise
+- (Tech) nhiễu âm trắng cộng thêm 
+ @additivity
+- (tính chất) cộng tính
+ @addle  
+*  ndgt
+- lẫn, quẫn, rối trí
+
++ head addles: đầu óc quẫn lên
+- thối, hỏng, ung (trứng)
+*  ngdgt
+- làm lẫn, làm quẫn, làm rối óc
+
++ to addle one's brain (head): làm rối óc, làm quẫn trí
+- làm thối, làm hỏng, làm ung
+
++ hot weather addles eggs: trời nóng làm trứng bị hỏng
+*  tt
+- lẫn, quẫn, rối (trí óc)
+- thối, hỏng, ung (trứng)
+
+@addle-brained  
+*  tt
+- đầu óc lẫn quẫn, quẫn trí, rối trí
+
+@addle-head   (addle-pate) @addle-pate   (addle-pate) @add-on
+- (Tech) thiết bị thêm vào, phụ kiện, phụ tùng tăng cường; thêm vào, tăng năng
+ @add-on memory
+- (Tech) bộ nhớ thêm vào
+ @address  
+*  dt
+- địa chỉ
+- bài nói chuyện, diễn văn
+- cách nói năng; tác phong lúc nói chuyện
+- sự khéo léo, sự khôn ngoan
+- (số nhiều) sự ngỏ ý, sự tỏ tình, sự tán tỉnh
+
++ to pay one's addresses to a lady: tán tỉnh một bà, tỏ tình với một bà
+- (thương nghiệp) sự gửi đi một chuyến tàu hàng
+*  ngdgt
+- đề địa chỉ
+
++ to a letter: đề địa chỉ trên một bức thư
+- gửi
+
++ to address a letter to somebody: gửi một bức thư cho ai
+- xưng hô, gọi
+
++ how to address an ambassador: xưng hô như thế nào với một đại sứ
+- nói với, nói chuyện với, diễn thuyết trước; viết cho
+
++ to oneself to someone: nói với ai; viết (thư) cho ai
+
++ to address an audience: nói với thính giả, diễn thuyết trước thính giả
+- to address oneself to chăm chú, toàn tâm toàn ý
+
++ to address oneself to a task: toàn tâm toàn ý với nhiệm vụ
+- (thể dục,thể thao) nhắm
+
++ to address the ball: nhắm quả bóng (trước khi đánh gôn)
+
+@address
+- (Tech) địa chỉ; vị trí; định đia chỉ, định vị (d @address
+- địa chỉ
+- current a. địa chỉ hiện đại
+- fast a. địa chỉ cố định
+- floating a. địa chỉ di động
+- start a. địa chỉ [ban đầu, xuất phát]
+- zero a. địa chỉ không, địa chỉ zerô 
+ @address block
+- (Tech) khối địa chỉ
+ @address bus
+- (Tech) mẫu tuyến địa chỉ
+ @address counter
+- (Tech) máy đếm địa chỉ
+ @address descriptor
+- (Tech) bộ mô tả địa chỉ
+ @address mapping
+- (Tech) lập bản đồ địa chỉ, gán địa chỉ
+ @address marker
+- (Tech) bộ đánh dấu địa chỉ
+ @address matrix
+- (Tech) ma trận địa chỉ
+ @address mode
+- (Tech) kiểu địa chỉ
+ @address name
+- (Tech) tên địa chỉ
+ @Address principle
+- (Econ) Nguyên lý địa chỉ.
+: Trong nền kinh tế KẾ HOẠCH HOÁ  như ở Liên Xô trước đây, mỗi mục tiêu chiến lược đều có một tổ chức hoặc địa chỉ chịu trách nhiệm thực hiện mục tiêu đó
+ @address range
+- (Tech) phạm vi đia chỉ, khoảng địa chỉ
+ @address register
+- (Tech) bộ @address table
+- (Tech) bảng địa chỉ
+ @addressability
+- (Tech) khả năng định vị (địa chỉ)
+ @addressable storage
+- (Tech) bộ trữ định địa chỉ được
+ @addressee  
+*  dt
+- người nhận (thư...)
+
+@addressee
+- (Tech) người nhận tin
+ @addressing
+- (Tech) định địa chỉ, định vị trí (d)
+ @addressless instruction
+- (Tech) chỉ thị không địa chỉ
+ @adduce  
+*  ngdgt
+- viện, viện dẫn (lý lẽ, thí dụ, bằng chứng...)
+
+@adduceable   (adducible) @adducent  
+*  tt
+- (giải phẫu) khép (cơ)
+
++ adducent muscles: cơ khép
+
+@adducible   (adducible) @adduct  
+*  ngdgt
+- (giải phẫu) khép (các cơ...)
+
+@adduction  
+*  dt
+- (giải phẫu) sự khép (cơ)
+- sự viện dẫn (lý lẽ, thí dụ, bằng chứng...)
+
+@adductive
+- xem adduct
+ @adductor
+* dt
+- <phẫu> cơ khép
+ @addutor  
+*  dt
+- (giải phẫu) cơ khép
+
+@ademption
+* dt
+- (luật) sự tước bỏ quyền thừa kế tài sản
+ @adenite  
+*  dt
+- (y học) viêm hạch
+
+@adenitis
+* dt
+- (y học) viêm hạch
+ @adenoidal
+* tt
+- bị bệnh V A
+ @adenoidectomy
+* dt
+- (giải phẫu) việc cắt V A
+ @adenoids  
+*  dt số nhiều
+- (y học) bệnh sùi vòm họng, bệnh V.A.
+
+@adenoma
+* dt
+- số nhiều adenomas,  adenomata
+- u tuyến
+ @adept  
+*  dt
+- người giỏi, người tinh thông, người thông thạo, người lão luyện (nghề hay vấn đề gì)
+
++ an adept in philosophy: một người tinh thông triết học
+- (từ cổ,nghĩa cổ) nhà luyện đan thông thạo, nhà giả kim lão luyện
+*  tt
+- giỏi, thạo, tinh thông, lão luyện
+
++ to be adept in (at) one's trade: thạo nghề
+
+@adeptly
+- xem adept
+ @adeptness
+- xem adept
+ @adequacy   (adequateness) @adequacy
+- sự phù hợp, sự thích hợp
+ @adequate  
+*  tt
+- đủ, đầy đủ
+
++ the supply is not adequate to the demand: số cung cấp không đáp ứng đầy đủ số cầu
+- tương xứng, xứng đáng; thích hợp, thích đáng, thoả đáng
+
++ to be adequate to one's post: xứng đáng với vị trí công tác của mình
+
+@adequate
+- phù hợp, thích hợp
+ @adequately
+* dt
+- tương xứng, thích đáng, thoả đáng
+ @adequateness   (adequateness) @adequation  
+*  dt
+- sự san bằng
+- vật tương đương; điều tương đương
+
+@adespota  
+*  dt số nhiều
+- những tác phẩm khuyết danh
+
+@adhere  
+*  ndgt
+- dính chặt vào, bám chặt vào
+
++ to adhere to the skin: dính chặt vào da
+- tham gia, gia nhập
+
++ to adhere to a party: gia nhập một đảng
+- tôn trọng triệt để; trung thành với, gắn bó với; giữ vững
+
++ to adhere to an agreement: tôn trọng triệt để hiệp định
+
++ to adhere to one's opinion: giữ vững ý kiến
+
++ to adhere to Marxism-Leninism: trung thành với chủ nghĩa Mác-Lênin
+- (từ cổ,nghĩa cổ) tán thành, đồng ý
+
+@adherence  
+*  dt
+- sự dính chặt, sự bám chặt
+- sự tham gia, sự gia nhập (đảng phái...)
+- sự tôn trọng triệt để; sự trung thành với, sự gắn bó với; sự giữ vững (ý kiến, lập trường...)
+
+@adherence
+- (Tech) dính; độ dính
+ @adherence
+- top tập hợp các điểm dính
+- a. of a set (cái) bao đóng của một tập hợp 
+ @adherent  
+*  dt: (adherer) 
+@adherently
+- xem adherent
+ @adherer  
+*  dt: (adherer) 
+@adhesion  
+*  dt
+- sự dính chặt vào, sự bám chặt vào
+- sự tham gia, sự gia nhập (một đảng phái)
+- sự trung thành với; sự giữ vững (ý kiến lập trường...)
+- sự tán đồng, sự đồng ý
+
+@adhesion
+- (Tech) kết dính, hút; tham gia
+ @adhesive  
+*  tt
+- dính, bám chắc
+
++ adhesive tape: băng dính
+
++ adhesive plaster: thuốc cao dán
+*  dt
+- chất dính, chất dán
+
+@adhesive
+- (Tech) dính
+ @adhesive tape
+- (Tech) băng dính
+ @adhesively
+- xem adhesive
+ @adhesiveness  
+*  dt
+- dính dính
+
+@adhibit  
+*  ngdgt
+- ký (tên) vào; đóng (dấu) vào
+- đắp (thuốc), dán (cao...); cho uống (thuốc...)
+
+@adi
+- (Apple Desktop Interface) giao điện máy tính để bàn Apple, giao diện ADI
+ @adiabat
+- (Tech) đường đoạn nhiệt
+ @adiabatic  
+*  tt
+- (vật lý) đoạn nhiệt
+
++ adiabatic curve: đường đoạn nhiệt
+
+@adiabatic
+- (Tech) đoạn nhiệt
+ @adiabatically
+- xem adiabatic
+ @adiantum  
+*  dt
+- (thực vật học) cây đuôi chồn (dương xỉ)
+
+@adiastiole
+* dt
+- (y học) sự suy tâm trương
+ @adic
+- ađic
+ @adience
+* tt
+- (sinh học) sự hướng kích thích
+ @adient
+* tt
+- (sinh vật) hướng kích thích
+ @adieu  
+*  thán từ
+- từ biệt!; vĩnh biệt!
+*  dt
+- lời chào từ biệt; lời chào vĩnh biệt
+
++ to make (take) one's adieu: chào từ biệt
+
+@adinfinitum
+- vô cùng
+ @adios
+- interj
+- xin từ biệt!
+ @adipocere  
+*  dt
+- chất sáp mỡ (xác chết)
+
+@adipocyte
+* dt
+- tế bào tạo mỡ
+ @adipoleucocyte
+* dt
+- bạch cầu-mỡ
+ @adipolysis
+* dt
+- sự tiêu mỡ; sự phân giải mỡ
+ @adipopexis
+* dt
+- sự tích mỡ
+ @adipose  
+*  dt
+- mỡ động vật
+*  tt
+- béo, có mỡ
+
+@adiposeness
+- xem adipose
+ @adiposis  
+*  dt
+- (y học) chứng phát phì
+
+@adiposity  
+*  dt
+- tình trạng béo phì, tình trạng phát phì
+
+@adit  
+*  dt
+- đường vào, lối vào
+- sự đến gần
+
+@aditus
+* dt
+- cửa; lỗ mở
+ @adj
+* tt
+- (viết tắt adjective) phụ vào, thêm vào, lệ thuộc, không đứng một mình
+- (ngông ngữ) có tính chất tt, (thuộc) tt
+ @adjacence   (adjacency) @adjacency   (adjacency) @adjacent  
+*  tt
+- gần kề, kế liền, sát ngay
+
++ adjacent angles: (toán học) góc kề
+
++ to be adjacent to: kề sát, sát ngay
+
+@adjacent
+- (Tech) lân cận, kế cận, kề
+ @adjacent
+- kề
+ @adjacent angles
+- (toán) góc kề
+ @adjacently
+* dt
+- cận kề nhau
+ @adjectival  
+*  tt
+- (ngôn ngữ học) có tính chất tt; có chức năng tt
+
+@adjectivally
+* dt
+- như một tt, theo cách thức của một tt
+ @adjective  
+*  tt
+- phụ vào, thêm vào; lệ thuộc, không đứng một mình
+
++ adjective colours: màu không giữ được nếu không pha chất cắn màu
+
++ adjective law (law adjective): đạo luật phụ
+- (ngôn ngữ học) có tính chất tt; (thuộc) tt
+*  dt
+- (ngôn ngữ học) tt
+
+@adjectively
+- xem adjective
+ @adjgate
+- liên hợp, phù hợp   bổ sung, thêm vào
+@adjoin  
+*  ngdgt
+- nối liền, tiếp vào
+
++ to adjoin one thing to another: nối liền vật này với vật khác
+- gần kề với, tiếp giáp với
+*  ndgt
+- ở kế bên, tiếp giáp, nằm sát, sát vách
+
+@adjoin
+- kề, nối; chung biên
+ @adjoining  
+*  tt
+- gần kề, kế bên, tiếp giáp, bên cạnh, sát nách
+
++ adjoining room: căn phòng kế bên
+
+@adjoint
+- liên hợp, phù hợp
+- a. of a differeential euation phương trình vi phân liên hợp
+- a. of a kernel liên hợp của một hạt nhân
+- a. of a matrix ma trạn liên hợp, ma trận Hecmit 
+ @adjourn  
+*  ngdgt
+- hoãn, hoãn lại, để lại
+
++ to adjourn the meeting until tomorrow: hoãn cuộc họp đến ngày mai
+- ngừng (buổi họp...) để sau họp lại
+*  ndgt
+- ngừng họp chung để họp riêng (từng ban...)
+- dời sang một nơi khác (để hội họp)
+
++ when dinner was over the guests adjourned to the sitting-room: cơm xong, khách khứa dời sang phòng khách
+
+@adjournment  
+*  dt
+- sự hoãn lại
+- sự dời sang một nơi khác (để hội họp); sự chuyển chỗ hội họp
+- sự ngừng họp (để sau này họp lại, hoặc để họp phân tán)
+
+@adjudge  
+*  ngdgt
+- xử, xét xử, phân xử
+
++ that's a matter to be adjudged: đó là một vấn đề phải được xét xử
+- kết án, tuyên án
+
++ to adjudge somebody guilty of...: tuyên án một phạm tội...
+
++ to be adjudged to die: bị kết án tử hình
+- cấp cho, ban cho
+
++ to adjudge something to somebody: cấp cho ai cái gì
+
+@adjudgement   (adjudgement) @adjudgment   (adjudgement) @adjudicate  
+*  dgt
+- xét xử (quan toà)
+- tuyên án
+
+@adjudication  
+*  dt
+- sự xét xử
+- sự tuyên án, quyết định của quan toà
+
+@adjudicative
+- xem adjudicate
+ @adjudicator  
+*  dt
+- quan toà
+
+@adjunct  
+*  dt
+- điều thêm vào, cái phụ vào; vật phụ thuộc
+- người phụ việc, phụ tá
+- (ngôn ngữ học) định ngữ; bổ ngữ
+- (triết học) (thuộc) tính không bản chất
+*  tt
+- phụ vào; phụ thuộc
+- phụ, phụ tá
+
+@adjunct
+- phần phụ, sự bổ sung
+- algebraica a. phần phụ đại số 
+ @adjunct professor  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) trợ giáo
+
+@adjunction  
+*  dt
+- sự thêm vào, sự phụ vào
+
+@adjunction
+- (Tech) phụ thêm, phụ gia [NB]
+ @adjunction
+- sự phụ thêm; sự mở rộng
+- a. of root (đại số) sự phụ thêm một nghiệm
+- algebraic(al) a. sự mở rộng đại số 
+ @adjunctive  
+*  tt
+- thêm, phụ vào; phụ thuộc
+
+@adjuration  
+*  dt
+- lời thề, lời tuyên thệ
+- sự khẩn nài, sự van nài
+
+@adjuratory
+- xem adjuration
+ @adjure  
+*  ngdgt
+- bắt thề, bắt tuyên thệ
+- khẩn nài, van nài
+
+@adjurer
+- xem adjure
+ @adjuror
+- xem adjure
+ @adjust  
+*  ngdgt
+- sửa lại cho đúng, điều chỉnh
+
++ to adjust a watch: lấy lại đồng hồ
+
++ to adjust a plan: điều chỉnh một kế hoạch
+- lắp (các bộ phận cho ăn khớp)
+- chỉnh lý, làm cho thích hợp
+
++ to adjust a lesson: chỉnh lý một bài học (cho thích hợp với trình độ hoặc yêu cầu)
+- hoà giải, dàn xếp (mối bất hoà, cuộc phân tranh...)
+
+@adjust
+- (Tech) điều chỉnh
+ @adjust
+- (máy tính) điều chỉnh; thiết lập
+ @adjustable  
+*  tt
+- có thể điều chỉnh được
+- có thể làm cho thích hợp
+- có thể hoà giải được, có thể giàn xếp được (mối bất hoà, cuộc phân tranh...)
+
+@adjustable
+- (Tech) điều chỉnh được
+ @adjustable
+- (máy tính) điều chỉnh được
+ @adjustable array
+- (Tech) dẫy @adjustable capacitor
+- (Tech) bộ điện dung chỉnh được
+ @adjustable dimension
+- (Tech) kích thước điều chỉnh được
+ @Adjustable peg regime
+- (Econ) Chế độ điều chỉnh hạn chế.
+ @Adjustable peg system
+- (Econ) Hệ thống neo tỷ giá hối đoái có thể điều chỉnh.
+: Hệ thống này được quỹ tiền tệ quốc tế (IMF) đưa ra tại hội nghị Bretton Woods và đề cập đến một bộ TỶ GIÁ HỐI ĐOÁI CỐ ĐỊNH  hay được neo mà về cơ bản là cố định nhưng cho phép điều chỉnh hoặc thay đổi với lượng nhỏ theo cả 2 hướng.
+ @adjustable probe
+- (Tech) đầu dò điều chỉnh được
+ @adjustably
+- xem adjust
+ @adjuster  
+*  dt
+- máy điều chỉnh
+- thợ lắp máy, thợ lắp ráp
+
+@adjusting
+- (Tech) điều chỉnh (d)
+ @adjusting screw
+- (Tech) vít điều chỉnh
+ @adjustment  
+*  dt
+- sự sửa lại cho đúng, sự điều chỉnh, sự chỉnh lý
+
++ adjustment in direction: (quân sự) sự điều chỉnh hướng
+
++ adjustment in range: (quân sự) sự điều chỉnh tầm
+- sự hoà giải, sự dàn xếp (mối bất hoà, cuộc phân tranh...)
+
+@adjustment
+- (Tech) điều chỉnh (d)
+ @adjustment
+- sự điều chỉnh
+- a. of rates mt đặc trưng của các tỷ số thống kê 
+ @Adjustment cost
+- (Econ) Chi phí điều chỉnh sản xuất.
+ @Adjustment lag
+- (Econ) Độ trễ điều chỉnh.
+: Thời gian cần thiết để một biến, ví dụ như DUNG LƯỢNG VỐN, điều chỉnh theo những thay đổi trong các yếu tố quyết định của nó. (Xem PARTIAL ADJUSTMENT, CAPITAL STOCK ADJUSTMENT PRINCIPLE).
+ @Adjustment process
+- (Econ) Quá trình điều chỉnh
+: Thuật ngữ chung chỉ các cơ chế điều chỉnh hoạt động trong nền kinh tế thế giới nhằm loại bỏ những mất cân đối trong thanh toán với nước ngoài. Những cơ chế liên quan đến BẢN VỊ VÀNG, CHẾ ĐỘ BẢN VỊ HỐI ĐOÁI, THỪA SỐ NGOẠI THƯƠNG, TỶ GIÁ HỐI ĐOÁI THẢ NỔI.
+ @adjustment table
+- (Tech) bảng điều chỉnh
+ @adjustor
+- xem adjust
+ @adjutage   (ajutage) @adjutancy  
+*  dt
+- (quân sự) chức sĩ quan phụ tá; nhiệm vụ sĩ quan phụ tá
+
+@adjutant  
+*  dt
+- người phụ tá
+- (quân sự) sĩ quan phụ tá
+- (động vật học) cò già (Ân độ) ((cũng) adjutant bird,  adjutant crane,  adjutant stork)
+
+@adjutant general
+* dt
+- sự quan quản trị cao cấp trong quân đội
+ @adjuvant  
+*  tt
+- giúp đỡ, phụ tá, giúp ích
+*  dt
+- người giúp đỡ, người phụ tá; vật giúp ích
+
+@ad-lib  
+*  ndgt
+- (thông tục) ứng khẩu, cương
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nói thêm, cương thêm (lời không có trong bản kịch); hát thêm, chơi thêm (nhạc không có trong bản nhạc)
+
+@ad-libber
+- xem ad-lib
+ @adm
+- (viết tắt của admiral) đô đốc
+ @adman  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người chuyên viết quảng cáo, người chuyên vẽ quảng cáo, người làm nghề quảng cáo (hàng...)
+
+@admass  
+*  dt
+- quần chúng dễ bị thủ đoạn quảng cáo ảnh hưởng
+
+@admeasure  
+*  ngdgt
+- quy định từng phần; chia phần ra
+
+@admeasurement  
+*  dt
+- sự quy định từng phần, sự chia phần
+
+@admeasurer
+- xem admeasure
+ @adminiculum
+* dt
+- (động vật) gai vận động
+ @administer  
+*  ngdgt
+- trông nom, quản lý; cai quản, cai trị
+
++ to administer the affairs of the state: quản lý công việc nhà nước
+- thi hành, thực hiện
+
++ to administer justice: thi hành công lý
+- làm lễ (tuyên thệ) cho (ai) tuyên thệ
+
++ to administer an oath to someone no end of remedies: cho ai uống đủ mọi thứ thuốc
+- đánh, giáng cho (đòn...)
+
++ to administer a blow: giáng cho một đòn
+- phân tán, phân phối
+
++ to administer relief among the poor: phân phát cứu tế cho người nghèo
+- cung cấp cho, cấp cho, cho (ai cái gì)
+*  ndgt
+- trông nom, quản lý; cai quản, cai trị
+- cung cấp, góp phần vào
+
++ to administer to someone's comfort: góp phần trợ cấp làm cho cuộc sống của ai được an nhàn
+
+@administer
+- (Tech) quản lý, quản trị
+ @Administered prices
+- (Econ) Các mức giá bị quản chế.
+:  Các mức giá được hình thành do quyết định có ý thức của cá nhân hay hãng nào đó chứ không phải do các yếu tố tác động của thị trường.
+ @administrable
+- xem administer
+ @administrant
+- xem administer
+ @administrate  
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) trông nom, quản lý; cai quản, cai trị
+
+@administration  
+*  dt
+- sự trông nom, sự quản lý; sự cai quản, sự cai trị
+- chính phủ, chính quyền
+- sự thi hành; việc áp dụng
+
++ the administration of justice: sự thi hành công lý
+- sự cho uống (thuốc)
+
++ the administration if remedies: sự cho uống thuốc
+- sự làm lễ (tuyên thệ); sự cho ai (tuyên thệ)
+
++ administration of the oath: sự làm lễ tuyên thệ
+- sự phân phối, sự phân phát (của cứu tế...)
+- (pháp lý) sự quản lý tài sản (của vị thành niên hoặc người đã chết)
+
+@administration information display
+- (Tech) bộ hiển thị tin tức quản lý
+ @administration manager
+- (Tech) quản trị viên hành chính
+ @administration mode
+- (Tech) chế độ quản lý
+ @administration process
+- (Tech) quy trình quản lý
+ @administration program
+- (Tech) chương trình quản lý
+ @administrative  
+*  tt
+- (thuộc) hành chính, (thuộc) quản trị
+- (thuộc) chính quyền, (thuộc) nhà nước
+
++ administrative affairs: công việc nhà nước, công việc quản lý
+
++ administrative power: chính quyền
+
+@administrative information
+- (Tech) tin tức quản lý
+ @Administrative lag
+- (Econ) Độ trễ do hành chính
+: Một trong những độ trễ về thời gian ảnh hưởng đến hiệu lực của một CHÍNH SÁCH TIỀN TỆ. Đó là khoảng thời gian từ lúc các cơ quan có thẩm quyền nhận thấy cần có hành động đến khi tiến hành thực sự hành động đó.
+ @administrative service
+- (Tech) dịch vụ quản lý
+ @administratively
+* dt
+- về mặt hành chính
+ @administrator  
+*  dt
+- người quản lý
+- người cầm quyền hành chính, người cầm quyền cai trị
+- (pháp lý) người quản lý tài sản (cho vị thành niên hoặc người đã chết)
+
+@administrator
+- (Tech) quản trị viên, người quản lý
+ @administratorship  
+*  dt
+- chức vụ quản lý
+- chức vụ người cầm quyền cai trị
+- (pháp lý) chức vụ quản lý tài sản (cho vị thành niên hoặc người đã chết)
+
+@administratrices  
+*  dt,  số nhiều administratrices 
+@administratrix  
+*  dt,  số nhiều administratrices 
+@admirability   (admirableness) @admirable  
+*  tt
+- đáng phục, đáng khâm phục, đáng ca tụng; đáng hâm mộ, đáng ngưỡng mộ
+
++ an admirable spirit: tinh thần đáng phục
+- tuyệt diệu, tuyệt vời
+
++ admirable achievements: những thành tích tuyệt vời
+
++ Admiraable Crichton: người lắm tài
+
+@admirableness
+* dt
+- tính đáng phục, tính đáng khâm phục, tính đáng ca tụng; tính đáng hâm mộ, tính ngưỡng mộ
+- tính tuyệt diệu, tính tuyệt vời
+ @admirably
+* dt
+- đáng phục, đáng ngưỡng mộ
+ @admiral  
+*  dt
+- đô đốc
+
++ admiral of the fleet: thượng tướng hải quân
+
++ vice admiral: trung tướng hải quân
+
++ rear admiral: thiếu tướng hải quân
+- người chỉ huy hạm đội
+- người chỉ huy đoàn tàu đánh cá
+- tàu rồng, kỳ hạm (tàu chở thuỷ sư đô đốc)
+- (động vật học) bướm giáp
+
+@admiral of the fleet
+* dt
+- tổng tư lệnh hải quân
+ @admiralship  
+*  dt
+- chức đô đốc
+
+@admiralty  
+*  dt
+- (Anh) bộ hải quân
+
++ first Lord of the Admiralty: bộ trưởng bộ hải quân
+- chức đô đốc
+- chủ quyền trên mặt biển
+
+@admiration  
+*  dt
+- sự ngắm nhìn một cách vui thích
+- sự khâm phục, sự thán phục, sự cảm phục, sự hâm mộ, sự ngưỡng mộ; sự ca tụng
+- người được khâm phục, người được hâm mộ, người được ca tụng; vật được hâm mô, vật được ca tụng
+- (ngôn ngữ học) sự cảm thán
+
++ note of admiration: dấu than
+- (từ cổ,nghĩa cổ) sự lấy làm lạ; sự ngạc nhiên
+
+@admire  
+*  ngdgt
+- ngắm nhìn một cách vui thích
+- khâm phục, ((thông tục)) thán phục, cảm phục; hâm mộ, ngưỡng mộ; khen ngợi, ca tụng
+
++ I forgot to admire her baby: tôi quên không khen cháu bé con bà ta
+- say mê, mê
+
++ to admire a woman: mê một người đàn bà
+- (từ cổ,nghĩa cổ) lấy làm lạ, lấy làm ngạc nhiên
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) ao ước, khao khát (làm gì)
+
++ I should admire to know: tôi khao khát được biết
+
+@admirer  
+*  dt
+- người khâm phục, người cảm phục, người thán phục; người hâm mộ, người ngưỡng mộ; người ca tụng
+- người say mê (một người đàn bà)
+
+@admiring  
+*  tt
+- khâm phục, cảm phục, thán phục; ngưỡng mộ
+
+@admiringly
+* dt
+- khâm phục, thán phục, ngưỡng mộ
+ @admissibility  
+*  dt
+- tính có thể chấp nhận được, tính có thể thừa nhận được
+- tính có thể nhận; tính có thể thu nạp; tính có thể kết nạp
+
+@admissibility
+- (thống kê) tính chấp nhận được
+ @admissible  
+*  tt
+- có thể chấp nhận, có thể thừa nhận
+- có thể nhận, có thể thu nạp (vào chức vụ gì...); có thể kết nạp
+
+@admissible
+- (Tech) chấp nhận được
+ @admissible
+- chấp nhận được
+ @admissible function
+- (Tech) hàm số chấp nhận được [NB]
+ @admissible hypothesis
+- (Tech) giả thuyết chấp nhận được
+ @admissibleness
+- xem admissible
+ @admissibly
+- xem admissible
+ @admission  
+*  dt
+- sự nhận vào, sự thu nạp vào; sự kết nạp
+
++ to get admission to the Academy: được nhận vào viện hàn lâm
+- sự cho vào cửa, sự cho vào
+
++ free admission: vào cửa không mất tiền
+
++ admission by ticket: vào cửa phải có vé
+- tiền vào cửa, tiền nhập học
+- sự nhận, sự thú nhận
+
++ to make full admission s: thú nhận hết
+- (định ngữ) (kỹ thuật) nạp
+
++ admission valve: van nạp
+
+@admissive
+- xem admission
+ @admit  
+*  ngdgt
+- nhận vào, cho vào; kết nạp (vào nơi nào, tổ chức nào...); cho hưởng (quyền lợi...)
+- chứa được, nhận được, có đủ chỗ cho
+
++ this hall can admit 200 persons: phòng này có thể chứa 200 người
+- nhận, thừa nhận; thú nhận
+- (kỹ thuật) nạp
+*  ndgt
+- (: of) có chỗ cho, có
+
++ this wood admits of no other meaning: từ này không có nghĩa nào khác
+- nhận, thừa nhận
+
++ this, I admit, was wrong: tôi thừa nhận điều đó là sai
+
+@admittable  
+*  tt
+- có thể để cho vào (nơi nào)
+
+@admittance  
+*  dt
+- sự cho vào, sự để cho vào; sự nhận vào; sự thu nạp
+
++ no admittance except on business: không có việc xin miễn vào
+
++ to get (gain) admittance to...: được thu nhận vào...; được thu nạp vào...
+- lối đi vào
+- (vật lý) sự dẫn nạp; độ dẫn nạp
+
+@admittance
+- (Tech) dẫn nạp, đạo nạp, tổng dẫn
+ @admitted
+* tt
+- tự nhận
+
++  an admitted liar:người tự nhận mình là kẻ nói dối
+ @admittedly  
+*  dt
+- phải nhận, phải thừa nhận, phải thú nhận
+
++ it's admittedly a thorny question: đó là một vấn đề ai cũng phải thừa nhận là hắc búa
+
+@admix  
+*  ngdgt
+- trộn lẫn, hỗn hợp
+
+@admixture  
+*  dt
+- sự trộn lẫn, sự hỗn hợp
+- vật lộn
+
+@admonish  
+*  ngdgt
+- khiển trách, quở mắng, la rầy
+- răn bảo, khuyên răn, khuyên nhủ; động viên
+
++ to admonish someone's to be move careful: khuyên răn ai nên thận trọng hơn
+- (: of) cảnh cáo; báo cho biết trước
+
++ to admonish someone's of the danger: báo cho ai biết trước mối nguy hiểm
+- (: of) nhắc, nhắc nhở
+
++ to admonish somebody of his promise: nhắc ai nhớ lại lời hứa
+
+@admonisher
+- xem admonish
+ @admonishingly
+- xem admonish
+ @admonishment   (admonishment) @admonition   (admonishment) @admonitory  
+*  tt
+- khiển trách, quở mắng, la rầy
+- răn bảo, khuyên răn, khuyên nhủ; động viên
+- cảnh cáo
+
++ admonitory words: những lời cảnh cáo
+- nhắc nhở
+
+@adnate  
+*  tt
+- (sinh vật học) hợp sinh
+
+@adnation
+- xem adnate
+ @adnexa
+* dt số nhiều
+- cấu trúc ngoại phôi; màng phụ
+ @adnexed
+* tt
+- (sinh học) đính thân
+ @adnominal
+- xem adnoun
+ @adnoun  
+*  dt
+- (ngôn ngữ học) tt, danh tt
+
+@ado  
+*  dt
+- việc làm, công việc
+- sự khó nhọc, sự khó khăn, công sức
+
++ with much ado: mất nhiều công sức, phải khó nhọc lắm
+
++ to have much ado to get through the work: phải khó nhọc lắm mới làm xong việc
+- sự rối rít, sự hối hả ngược xuôi
+
++ much ado about nothing: chẳng có chuyện gì cũng làm rối lên
+
++ without more (further) ado: không vẽ vời nữa
+
+@adobe  
+*  dt
+- gạch sống (phơi nắng, không nung)
+
+@adolescaria
+* dt
+- (dgt) ấu trùng kết kén
+ @adolescence   (adolescency) @adolescency   (adolescency) @adolescent  
+*  tt
+- đang tuổi thanh niên, trẻ
+
++ adolescent river: sông trẻ
+*  dt
+- người thanh niên
+
+@adonis  
+*  dt
+- (thần thoại,thần học) A-đô-nít (người yêu của thần Vệ nữ)
+- người thanh niên đẹp trai
+- (thực vật học) cỏ phúc thọ
+- (động vật học) bướm ađônít
+
+@adonize  
+*  ndgt
+- làm dáng, làm ra vẻ người đẹp trai ((cũng) to adonize oneself)
+
+@adopt  
+*  ngdgt
+- nhận làm con nuôi; nhận làm bố mẹ nuôi
+
++ an adopted child: đứa con nuôi
+
++ he adopted the old man as his father: anh ấy nhận ông cụ làm bố nuôi
+- theo, làm theo
+
++ to a adopt new method of teaching: theo phương pháp giảng dạy mới
+- chọn (nghề, người cho một chức vị)
+- (từ Mỹ,nghĩa Mỹ) chấp nhận và thực hiện
+
++ to adopt a proposal: chấp nhận và thực hiện một đề nghị
+
+@adoptability  
+*  dt
+- tính có thể nhận làm con nuôi; tính có thể nhận làm bố mẹ nuôi
+- tính có thể theo được, tính có, thể làm theo
+- tính có thể chọn được
+- (từ Mỹ,nghĩa Mỹ) tính có thể chấp nhận và thực hiện
+
+@adoptable  
+*  tt
+- có thể nhận làm con nuôi; có thể nhận làm bố mẹ nuôi
+- có thể theo được, có thể làm theo
+- có thể chọn được
+- (từ Mỹ,nghĩa Mỹ) có thể chấp nhận và thực hiện
+
+@adoptee  
+*  dt
+- con nuôi
+
+@adopter  
+*  dt
+- người nhận nuôi
+
+@adoption  
+*  dt
+- sự nhận làm con nuôi; sự nhận làm bố mẹ nuôi
+- sự theo, sự làm theo (phương pháp...)
+- sự chọn (nghề, người cho một chức vị)
+- (từ Mỹ,nghĩa Mỹ) sự chấp nhận và thực hiện (lời đề nghị...)
+
+@adoptionism
+- như adoptianism
+* dt
+- họ thuyết nhận Giê-xu là con của chúa
+ @adoptive  
+*  tt
+- nuôi; nhận nuôi
+
++ adoptive son: con trai nuôi
+
++ adoptive father: bố nuôi
+
+@adoptively
+- xem adoptive
+ @adorability   (adorableness) @adorable  
+*  tt
+- đáng kính yêu, đáng quý mến, đáng yêu
+- (thơ ca) đáng tôn sùng, đáng sùng bái, đáng tôn thờ
+
+@adorableness   (adorableness) @adorably
+* dt
+- đáng mến, đáng yêu
+ @adoration  
+*  dt
+- sự kính yêu, sự quý mến
+- sự mê thích, sự hết sức yêu chuộng, sự yêu thiết tha
+- (thơ ca) sự tôn sùng, sự sùng bái, sự tôn thờ
+
+@adore  
+*  ngdgt
+- kính yêu, quý mến
+- mê, thích, hết sức yêu chuộng, yêu thiết tha
+- (thơ ca) tôn sùng, sùng bái, tôn thờ
+
+@adorer  
+*  dt
+- người hâm mộ, người yêu chuộng, người yêu
+- (thơ ca) người tôn sùng, người sùng bái, người tôn thờ
+
+@adoring
+* tt
+- tha thiết
+ @adoringly
+* dt
+- tha thiết, trìu mến
+ @adorn  
+*  ngdgt
+- tô điểm, trang điểm; trang trí, trang hoàng
+
++ to adorn oneself with jewels: trang điểm bằng châu ngọc
+
++ to adorn a room with flowers: trang trí căn buồng bằng hoa
+
+@adorner
+- xem adorn
+ @adornment  
+*  dt
+- sự tô điểm, sự trang trí, sự trang hoàng
+- đồ trang điểm; đồ trang trí
+
++ personal adornments: đồ tư trang
+
+@adown  
+*  giới từ & dt
+- (từ cổ,nghĩa cổ); (thơ ca) ở dưới, xuống, xuống dưới
+
+@adp
+* (viết tắt)
+- truy cập dữ liệu tự động (automatic  data  proccessing)
+ @adpcm
+- Trong đa phương tiện, đây là một phương pháp nén tín hiệu xoay chiều theo kỹ thuật số, trong đó sự khác nhau giữa các mẫu lấy liên tiếp được mã hoá khác với các giá trị thực của chúng
+ @adpressed
+* tt
+- (thực vật) ôm sát; áp sát; bò sát
+ @adrectal
+* tt
+- (giải phẫu) gần ruột thẳng; bên ruột thẳng; liền ruột thẳng
+ @adrenal  
+*  tt
+- (giải phẫu) trên thận, thượng thận
+*  dt
+- (giải phẫu) tuyến trên thận, tuyến thượng thận
+
+@adrenal gland
+- (giải phẫu) tuyến thượng thận
+ @adrenalectomy
+* dt
+- (giải phẫu) việc cắt tuyến trên thận
+ @adrenalin  
+*  dt
+- (y học) Adrenalin
+
+@adrenally
+- xem adrenal
+ @adrenocorticotrophic
+- kích thích thượng thận
+ @adrift  
+*  tt
+- lênh đênh trôi giạt, phiêu bạt ((nghĩa đen) & (nghĩa bóng))
+- (hàng hải) không buộc
+*  dt
+- lênh đênh, trôi giạt, phiêu bạt ((nghĩa đen) & (nghĩa bóng))
+
++ to set adrift: thả cho trôi lênh đênh
+
++ to turn someone adrift: đuổi ai ra khỏi nhà sống lang bạt
+
++ to go adrift: trôi lênh đênh
+
+@adroit  
+*  tt
+- khéo léo, khéo tay
+
+@adroitly
+* dt
+- khéo léo
+ @adroitness  
+*  dt
+- sự khéo léo, sự khéo tay
+
+@adromia
+* dt
+- sự mất kích thích
+ @adscititious  
+*  tt
+- phụ vào, thêm vào, bổ sung
+
+@adsl
+- mạng thuê bao số không đồng bộ
+ @adsorb  
+*  ngdgt
+- (hoá học) hút bám
+
+@adsorbable
+- xem adsorb
+ @adsorbate  
+*  dt
+- (hoá học) chất bị hút bám
+
+@adsorbent  
+*  tt
+- (hoá học) hút bám
+
+@adsorber  
+*  dt
+- (hoá học) máy hút bám
+
+@adsorption  
+*  dt
+- (hoá học) sự hút bám
+
+@adsorptive
+- xem adsorption
+ @adt
+* (viết tắt)
+- thời gian ban ngày ở Đại Tây Dương (Atlantic Daylight Time)
+ @adularia
+* dt
+- (khoáng chất) trong suốt
+ @adulate  
+*  ngdgt
+- nịnh hót, nịnh nọt, bợ đỡ
+
+@adulation  
+*  dt
+- sự nịnh hót, sự nịnh nọt, sự bợ đỡ
+
+@adulator  
+*  dt
+- kẻ nịnh hót, kẻ nịnh nọt, kẻ bợ đỡ
+
+@adulatory  
+*  tt
+- nịnh hót, nịnh nọt, bợ đỡ
+
+@adult  
+*  dt
+- người lớn, người đã trưởng thành
+*  tt
+- trưởng thành
+
+@adulterant  
+*  tt
+- để làm giả
+*  dt
+- chất để làm giả
+
+@adulterate  
+*  tt
+- có pha (rượu)
+- giả, giả mạo (vật)
+- ngoại tình, thông dâm
+*  ngdgt
+- pha, pha trộn
+
++ to adulterate milk with water: pha sữa với nước
+- àm giả mạo
+
+@adulteration  
+*  dt
+- sự pha, sự pha trộn
+- vật bị pha trộn
+- sự làm giả, sự giả mạo (tiền...)
+
+@adulterator
+- xem adulterate
+ @adulterer  
+*  dt
+- người đàn ông ngoại tình, người đàn ông thông dâm
+
+@adulteress  
+*  dt
+- người đàn bà ngoại tình, người đàn bà thông dâm
+
+@adulterine  
+*  tt
+- do ngoại tình mà đẻ ra
+
++ adulterine child: đứa con ngoại tình
+- giả mạo, giả
+- bất chính, không hợp pháp
+
+@adulterous  
+*  tt
+- ngoại tình, thông dâm
+
+@adulterously
+- xem adulterous
+ @adultery  
+*  dt
+- tội ngoại tình, tội thông dâm
+
+@adulthood  
+*  dt
+- tuổi khôn lớn, tuổi trưởng thành
+
+@adultlike
+* tt
+- có vẻ trưởng thành
+ @adultness
+- xem adult
+ @adultoid
+* dt
+- dạng trưởng thành
+ @adumbral  
+*  tt
+- nhiều bóng râm
+
+@adumbrate  
+*  ngdgt
+- phác hoạ
+- cho biết lờ mờ
+- làm cho biết trước, báo trước bằng điềm
+- che tối, làm cho mờ tối, toả bóng xuống
+
+@adumbration  
+*  dt
+- sự phác hoạ, bản phác hoạ
+- sự cho biết, lờ mờ; hình ảnh lờ mờ
+- sự báo trước, điềm báo trước
+- sự che chở, sự toả bóng, bóng tối, bóng râm
+
+@adumbrative
+- xem adumbrate
+ @adumbratively
+- xem adumbrate
+ @aduncate
+- Cách viết khác : aduncous 
+ @adust  
+*  tt
+- cháy khô, khô nứt ra (vì ánh mặt trời...)
+- buồn bã, u sầu, rầu rĩ (tính tình)
+
+@Advalorem tax
+- (Econ) Thuế theo giá trị.
+: Một loại thuế dựa trên giá trị giao dịch. Đó thường là tỷ lệ phần trăm khi giá bán lẻ, sỉ, hay quá trình sản xuất, và là dạng phổ biến của THUẾ DOANH THU.
+ @advance  
+*  dt
+- sự tiến lên, sự tiến tới, sự tiến bộ
+- sự đề bạt, sự thăng, chức
+- sự tăng giá
+- tiền đặt trước, tiền trả trước
+- tiền cho vay
+- sự theo đuổi, sự làm thân
+- (điện học) sự sớm pha
+!advance copy
+- bản (sách, tài liệu, ...) đưa (cho tác giả...) trước khi xuất bản
+!in advance
+- trước, sớm
+
++ to pay in advance: trả tiền trước
+!in advance of
+- trước, đi trước
+
++  Marx's ideas ưere in advance of his age: những tư tưởng của Mác đã đi trước thời đại của người
+*  ngdgt
+- đưa lên, đưa ra phía trước
+- đề xuất, đưa ra
+
++ to advance an opinion: đưa ra một ý kiến
+- đề bạt, thăng chức (cho ai)
+- làm cho tiến bộ, làm tiến mau (khoa học...)
+- thúc đẩy (sự việc...)
+- tăng, tăng lên
+
++ to advance a price: tăng giá
+- trả trước, đặt trước
+
++ to advance a money: đặt tiền trước
+- cho vay (tiền)
+*  ndgt
+- tiến lên, tiến tới, tiến bộ
+
++ to advance in one's studies: tiến bộ trong học tập
+
++ to advance in the world: đang lên, đang tiến bộ
+- tăng, tăng lên
+
++ to advance in price: giá tăng lên
+
+@advance
+- (Tech) sớm (d); sớm, trước (tt); tiến tới (đ); cho chạy (đ)
+ @Advance
+- (Econ) Tiền ứng trước.
+: Một khoản vay hoặc dựa vào luồng tiền đã xác định hoặc dự kiến. (Xem BANK LOAN).
+ @Advance Corporation Tax (ACT)
+- (Econ) Thuế doanh nghiệp ứng trước.
+: Là một khoản ứng trước THUẾ DOANH NGHIỆP và được ghi vào tài khoản bên nợ của doanh nghiệp đối với loại thuế này. Đó là một phương tiện để có thể thu thuế doanh nghiệp sớm hơn.
+ @Advance refunding
+- (Econ) Hoàn trả trước.
+:  KỸ THUẬT QUẢN LÝ CÔNG NỢ mới được chính phủ liên bang, các chính quyền địa phương và tiểu bang của Mỹ sử dụng.
+ @advanced  
+*  tt
+- tiên tiến, tiến bộ, cấp tiến
+
++ an advanced method of production: phương pháp sản xuất tiên tiến
+
++ advanced ideas: tư tưởng tiến bộ
+- cao, cấp cao
+
++ to be advanced in years: đã cao tuổi
+
++ advanced mathematics: toán cấp cao
+
++ advanced students: học sinh đại học ở các lớp cao
+
+@advanced
+- (Tech) cấp cao, tiên tiến
+ @Advanced countries
+- (Econ) Các nước phát triển, các nước đi đầu.
+ @advanced credit
+* dt
+- chi phí của nhà trường ứng cho sinh viên đi nghe giảng ở trường khác
+ @advanced function
+- (Tech) hàm số cấp cao
+ @advanced ignition
+- (Tech) mồi sớm
+ @advanced programming
+- (Tech) thảo chương cấp cao, lập trình cấp cao
+ @Advanced Research Project Agency Network (ARPANET)
+- (Tech) Mạng Cục Kế Hoạch Nghiên Cứu Cấp Cao (Hoa Kỳ), Apanét
+ @advanced technology (AT)
+- (Tech) kỹ thuật tiên tiến, kỹ thuật tiến bộ
+ @advance-guard  
+*  dt
+- (quân sự) quân tiền phong
+
+@advancement  
+*  dt
+- sự tiến lên, sự tiến tới, sự tiến bộ; sự thúc đẩy, sự làm cho tiến lên
+
++ advancement of science: sự tiến bộ của khoa học; sự thúc đẩy cho khoa học tiến lên
+
++ advancement in career: tiến bộ trong nghề nghiệp
+- sự thăng chức, đề bạt
+- (pháp lý) tiền (người kế thừa được) nhận trước
+
+@advancer
+- xem advance
+ @advance-trenches
+* dt
+- chiến hào tiền tiêu
+ @advantage  
+*  dt
+- sự thuận lợi, hoàn cảnh thuận lợi; mối lợi
+
++ to be of great advantage to: có lợi lớn cho
+
++ to take advantage of an opportunity: lợi dụng cơ hội
+
++ to take advantage of somebody: lợi dụng ai
+
++ to turn something into advantage: khai thác sử dụng cái gì
+
++ to the best advantage: cho có nhất
+- thế lợi
+
++ to gain (get) an advantage over somebody: giành được thế lợi hơn ai
+
++ to have the advantage of somebody: có thể lợi hơn ai
+!to take somebody at advantage
+- bất ngờ chộp được ai, thình lình chộp được ai
+*  ngdgt
+- đem lợi ích cho, có lợi cho, mang thuận lợi cho
+- giúp cho; thúc đẩy, làm cho tiến lên
+
+@advantageous  
+*  tt
+- có lợi, thuận lợi
+
+@advantageously
+* dt
+- thuận lợi, ích lợi
+ @advantageousness  
+*  dt
+- tính có lợi, tính thuận lợi
+
+@advantege
+- trội hơn ưu thế
+ @advection
+* dt
+- (khí tượng) bình lưu
+ @advection
+- sự bình lưu
+ @advehent
+* tt
+- đồng tâm
+ @advene
+* ndgt
+- đến
+ @advent  
+*  dt
+- sự đến, sự tới (của một sự việc gì quan trọng)
+- Advent (tôn giáo) sự giáng sinh của Chúa Giêxu
+- Advent (tôn giáo) kỳ trông đợi (bốn tuần lễ trước ngày giáng sinh của Chúa)
+
+@adventism
+* dt
+- chúa sắp tái giáng sinh
+ @adventist
+* dt
+- tín đồ tin rằng sắp đến lần Giáng sinh thứ hai của Chúa
+ @adventitia
+* dt
+- vỡ mạch máu
+ @adventitious  
+*  tt
+- ngẫu nhiên, tình cờ
+- ngoại lai
+- (pháp lý) không do thừa kế trực tiếp
+- (thực vật học) tự sinh, mọc tự nhiên (cây...)
+- (thực vật học) bất định, không phát sinh ở nơi thông thường
+
++ adventitious bud: chồi bất định
+
+@adventitiously
+- xem adventitious
+ @adventitiousness  
+*  dt
+- tính ngẫu nhiên, tính tình cờ
+- tính chất ngoại lai
+
+@adventure  
+*  dgt
+- phiêu lưu, mạo hiểm, liều
+
++ to adventure to do something: liều làm việc gì
+
++ to adventure one's life: liều mạng
+- dám đi, dám đến (nơi nào...)
+- dám tiến hành (cuộc kinh doanh...)
+*  dt
+- sự phiêu lưu, sự mạo hiểm; việc làm mạo hiểm, việc làm táo bạo
+
++ stories of adventures: những truyện phiêu lưu
+- sự nguy hiểm, sự hiểm nghèo
+- sự việc bất ngờ
+
++ to meet with an adventure gặp: một sự việc bất ngờ
+- sự may rủi, sự tình cờ
+
++ if, by adventure,you come across him: nếu tình cờ anh có gặp hắn
+- (thương nghiệp) sự đầu cơ
+
+@adventure playground
+* dt
+- sân chơi có nhiều đồ chơi bằng gỗ và kim loại
+ @adventurer  
+*  dt
+- người phiêu lưu, người mạo hiểm, người thích phiêu lưu mạo hiểm
+- (thương nghiệp) người đầu cơ
+- kẻ đại bợm, kẻ gian hùng
+- kẻ sẵn sàng sung vào quân đội đánh thuê (cho bất cứ nước nào để kiếm tiền)
+
+@adventuresome  
+*  tt
+- (từ hiếm,nghĩa hiếm) (như) adventurous
+
+@adventuress  
+*  dt
+- người đàn bà thích phiêu lưu mạo hiểm
+- mụ đầu cơ
+- mụ đại bợm, mụ gian hùng
+
+@adventurism  
+*  dt
+- chủ nghĩa phiêu lưu
+
+@adventurist
+- xem adventurism
+ @adventurous   (venturous) @adventurously
+* dt
+- liều lỉnh, mạo hiểm
+ @adventurousness  
+*  dt
+- tính phiêu lưu, tính mạo hiểm
+- tính liều lĩnh
+
+@adverb  
+*  dt
+- (ngôn ngữ học) dt
+
+@adverbe
+* dt
+- (ngôn ngữ) dt
+ @adverbial  
+*  tt
+- (ngôn ngữ học) (thuộc) dt; có tính chất dt
+
+@adverbially
+* dt
+- như một dt, theo cách thức của một dt
+ @adversary  
+*  dt
+- kẻ địch, kẻ thù; đối phương, đối thủ
+
+@adversative  
+*  tt
+- (ngôn ngữ học) đối lập
+
+@adversatively
+- xem adversative
+ @adverse  
+*  tt
+- đối địch, thù địch, nghịch lại, chống đối
+
++ adverse elements: những phần tử chống đối
+
++ the adverse party: đối phương; bên địch
+- bất lợi, có hại
+
++ adverse to health: có hại cho sức khoẻ
+- ngược
+
++ adverse wind: gió ngược
+
++ to be adverse toi someone's interests: ngược lại với quyền lợi của ai
+- bên kia, đối diện
+
++ adverse page: trang bên kia
+
+@Adverse balance
+- (Econ) Cán cân thâm hụt.
+: THÂM HỤT CÁN CÂN THANH TOÁN.
+ @Adverse selection
+- (Econ) Lựa chọn trái ý; Lựa chọn theo hướng bất lợi.
+: Vấn đề gặp phải trong nghành bảo hiểm.
+ @Adverse supply shock
+- (Econ) Cú sốc cung bất lợi.
+ @adversely
+* dt
+- bất lợi
+ @adverseness
+- xem adverse
+ @adversity  
+*  dt
+- sự bất hạnh; vận đen, vận rủi; cảnh nghịch, vận nghịch
+- tai hoạ, tai ương
+
+@advert  
+*  ndgt
+- ám chỉ (nói hoặc viết); nói đến, kể đến
+- tai hoạ, tai ương
+
+@advertence   (advertency) @advertency   (advertency) @advertent
+* tt
+- lưu ý; chú ý đến
+ @advertise   (advertize) @advertisement  
+*  dt
+- sự quảng cáo; bài quảng cáo (trên báo, trên đài...)
+- tờ quảng cáo; tờ yết thị; tờ thông báo (dán trên tường...)
+!advertisement column
+- cột quảng cáo, mục quảng cáo
+
+@advertiser  
+*  dt
+- người báo cho biết trước
+- người quảng cáo; báo đăng quảng cáo; tờ quảng cáo
+
+@Advertising
+- (Econ) Quảng cáo.
+: Hoạt động của một hãng nhằm thúc đẩy việc bán sản phẩm của mình, mục tiêu chính là tăng số lượng người tiêu dùng thích những sản phẩm của hãng hơn những hãng khác.
+ @advertising
+* dt
+- sự quảng cáo, nghề quảng cáo
+ @Advertising - sale ratio
+- (Econ) Tỷ lệ doanh số-quảng cáo.
+: Tỷ lệ chi phí quảng cáo của các hãng trên tổng doanh thu bán hàng.
+ @advertize   (advertize) @advice  
+*  dt
+- lời khuyên, lời chỉ bảo
+
++ to act on advice: làm (hành động) theo lời khuyên
+
++ to take advice: theo lời khuyên, nghe theo lời khuyên
+
++ a piece of advice: lời khuyên
+- ((thường) số nhiều) tin tức
+!according to our latest advices
+- theo những tin tức cuối cùng chúng tôi nhận được
+- (số nhiều) (thương nghiệp) thư thông báo ((cũng) letter of advice)
+
+@advisability   (advisableness) @advisable  
+*  tt
+- nên, thích hợp, đáng theo
+
++ I do not think it advisable for you to go: tôi nghi advisable là anh không nên đi
+- khôn, khôn ngoan
+
+@advisableness   (advisableness) @advisably
+- xem advisable
+ @advise  
+*  ngdgt
+- khuyên, khuyên bảo, răn bảo
+- (thương nghiệp) báo cho biết
+
++ to advise someone of something: báo cho ai biết việc gì
+*  ngdgt
+- hỏi ý kiến
+
++ to advise with someone: hỏi ý kiến người nào
+
+@advised  
+*  tt
+- am hiểu, hiểu biết
+- đúng, đúng đắn, chí lý
+
++ a well advised plan: một kế hoạch đúng đắn
+- có suy nghĩ thận trọng
+
++ an advised act: một hành động thận trọng
+
+@advisedly  
+*  dt
+- có suy nghĩ chín chắn, thận trọng
+
+@adviser   (advisor) @advisor   (advisor) @advisory  
+*  tt
+- để hỏi, để xin ý kiến; cho ý kiến, cố vấn
+
++ advisory council: hội đồng tư vấn
+
+@advocacy  
+*  dt
+- nhiệm vụ luật sư
+- lời biện hộ của luật sư; sự bào chữa (cho ai)
+- sự ủng hộ tích cực (một sự nghiệp)
+
+@advocate  
+*  dt
+- người biện hộ, người bào chữa, người bênh vực; luật sư, thầy cãi
+- người chủ trương; người tán thành, người ủng hộ
+
++ an advocate of peace: người chủ trương hoà bình
+
++ the advocates of socialism: những người tán thành chủ nghĩa xã hội
+*  ngdgt
+- biện hộ, bào chữa
+- chủ trương; tán thành, ủng hộ
+
+@advocator
+- xem advocate
+ @advocatory
+- xem advocate
+ @advowson
+* dt
+- quyền tiến cử người làm mục sư
+ @advt
+* dt
+- (viết tắt của advertisment) quảng cáo
+ @adynamia  
+*  dt
+- (y học) chứng mệt lử; sự kiệt sức
+
+@adynamic  
+*  tt
+- (y học) mệt lử, kiệt sức
+
+@adyta  
+*  dt,  số nhiều adyta 
+@adytum  
+*  dt,  số nhiều adyta 
+@adz  
+*  dt
+- rìu lưỡi vòm
+*  ngdgt
+- đẽo bằng rìu lưỡi vòm
+
+@adze  
+*  dt
+- rìu lưỡi vòm
+*  ngdgt
+- đẽo bằng rìu lưỡi vòm
+
+@

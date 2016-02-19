@@ -1,0 +1,781 @@
+@ES (Expert System)
+- (Tech) Hệ Thống Chuyên Gia
+ @Es layer
+- (Tech) lớp E thất thường, lớp Es
+ @esa
+* (viết tắt)
+- Cơ quan không gian Âu châu (European Space Agency)
+ @Esaki diode
+- (Tech) đèn hai cực đường hầm
+ @esc
+- phím Esc
+ @ESC (escape character)
+- (Tech) ký tự thoát
+ @ESC key
+- (Tech) phím thoát; phím khuếch trương (ký tự)
+ @escadrille  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) đội máy bay, phi đội (thường gồm 6 chiếc máy bay)
+
+@escalade  
+*  dt
+- sự leo bằng thang
+*  ngdgt
+- leo (bằng thang)
+
+@escalader
+- xem escalade
+ @escalate  
+*  dgt
+- leo thang chiến tranh
+
+@escalation  
+*  dt
+- sự leo thang (chiến tranh)
+- bước leo thang (trong chiến tranh...)
+
+@escalator  
+*  dt
+- cầu thang tự động
+- (từ Mỹ,nghĩa Mỹ) khoản điều chỉnh (điều khoản quy định sự điều chỉnh thường kỳ về giá cả hay lượng) ((cũng) escalator clause)
+*  tt
+- quy định điều chỉnh (giá cả, lượng)
+
+@Escalators
+- (Econ) Điều khoản di động giá.
+: Các điều khoản về phí sinh hoạt trong các ghi thoả thuận thương lượng tập thể. Các điều khoản là một cơ chế điều chỉnh định kỳ mức lương dựa trên những biến động của một chỉ số giá cả nhất định.
+ @escalatory
+- xem escalate
+ @escallop   (scollop) @escalope
+* dt
+- miếng thịt bọc trứng và bánh mì rán
+ @escapable
+- xem escape
+ @escapade  
+*  dt
+- sự lẫn trốn kiềm chế, sự tự do phóng túng
+- sự trốn (khỏi nhà tù)
+- hành động hoang toàng
+
+@escape  
+*  dt
+- sự trốn thoát; phương tiện để trốn thoát, con đường thoát, lối thoát
+- sự thoát ly thực tế; phương tiện để thoát ly thực tế
+- (kỹ thuật) sự thoát (hơi...)
+- cây trồng mọc tự nhiên (không do gieo trồng...)
+!to have a narrow (hairbreadth) escape
+- suýt nữa thì bị tóm, may mà thoát được
+*  ngdgt
+- trốn thoát, tránh thoát, thoát khỏi
+
++ to escape death: thoát chết
+
++ to escape punishment: thoát khỏi sự trừng phạt
+- vô tình buột ra khỏi, thốt ra khỏi (cửa miệng...) (lời nói...)
+
++ a scream escaped his lips: một tiếng thét buột ra khỏi cửa miệng anh ta, anh ta buột thét lên
+*  ndgt
+- trốn thoát, thoát
+- thoát ra (hơi...)
+!his name had escaped me
+- tôi quên bẵng tên anh ta
+
+@escape character (ESC)
+- (Tech) ký tự thoát
+ @escape clause  
+*  dt
+- điều khoản giải thoát (sự ràng buộc đôi bên)
+
+@escape code
+- (Tech) mã thoát
+ @escape (Esc) key
+- (Tech) phím thoát; phím khuếch trương
+ @escape literature  
+*  dt
+- văn học thoát ly thực tế
+
+@escape mechanism
+- (Tech) cơ chế @escape sequence
+- (Tech) trình tự thoát, nối tiếp khuếch trương (ký tự) [NB]
+ @escape sequence code
+- (Tech) mã trình tự thoát, mã nối tiếp khuyếch trương (ký tự) [NB]
+ @escape velocity
+* dt
+- vận tốc cho phép tàu vũ trụ vượt khỏi lực hút của hành tinh
+ @escapee  
+*  dt
+- người trốn thoát
+
+@escape-hatch
+* dt
+- lối thoát khẩn cấp, cửa thoát hiểm
+ @escapement  
+*  dt
+- lối thoát ra
+- cái hồi (ở đồng hồ)
+- (kỹ thuật) sự thoát
+
+@escapement wheel  
+*  dt
+- (kỹ thuật) bánh cóc
+
+@escape-pipe  
+*  dt
+- ống thoát (hơi nước...)
+
+@escaper
+- xem escape
+ @escape-shaft  
+*  dt
+- (ngành mỏ) hầm thoát (để cứu nguy khi hầm khác bị sập)
+
+@escape-valve  
+*  dt
+- van an toàn, van bảo hiểm
+
+@escapeway
+* dt
+- lối thoát ứng cấp
+ @escapism  
+*  dt (văn học)
+- khuynh hướng thoát ly thực tế
+- phái thoát ly thực tế
+
+@escapist  
+*  dt (văn học)
+- người theo phái thoát ly thực tế
+
+@escapologist
+* dt
+- người thích "thổi" đồ của người khác như một trò tiêu khiển
+ @escapology
+* dt
+- sự tiêu khiển bằng cách "thổi" được những món mà người khác giữ kín
+ @escargot
+* dt
+- (động vật) ốc sên (chủ yếu dùng làm thức ăn)
+ @escarole
+* dt
+- (thực vật) rau diếp mạ
+ @escarp  
+*  dt
+- dốc đứng, vách đứng (núi đá)
+*  ngdgt
+- (quân sự) đào đắp thành dốc đứng (ngay chân thành luỹ)
+
+@escarpment  
+*  dt
+- dốc đứng, vách đứng (núi đá)
+- dốc đứng (ở) chân thành
+- (quân sự) sự đào đắp thành dốc đứng
+
+@eschalot   (eschalot) @eschar  
+*  dt
+- (y học) vảy (đóng ở vết thương)
+
+@eschatological  
+*  tt
+- (tôn giáo) (thuộc) thuyết mạt thế
+
+@eschatologically
+- xem eschatology
+ @eschatologist
+- xem eschatology
+ @eschatology  
+*  dt
+- (tôn giáo) thuyết mạt thế
+
+@escheat  
+*  dt (pháp lý)
+- sự không có người thừa kế; sự chuyển giao tài sản không có người thừa kế (cho nhà nước...)
+- tài sản không có người thừa kế
+*  ngdgt
+- sung công (tài sản không có người thừa kế...)
+- chuyển giao (tài sản không có người thừa kế...)
+*  ndgt
+- được chuyển giao (làm tài sản không có người thừa kế)
+
+@escheatable
+- xem escheat
+ @eschew  
+*  ngdgt
+- tránh làm (việc gì...)
+- kiêng cữ (thức ăn...)
+
+@eschewal
+- xem eschew
+ @eschscholtzia  
+*  dt
+- (thực vật học) giống hoa kim anh
+
+@esclandre  
+*  dt
+- (như) scandal
+- chuyện làm náo động dư luận
+
+@escopette
+* dt
+- (lịch sử) súng trường loe nòng
+ @escort  
+- is'kɔ:t@escribe
+- dựng đường tròn bàng tiếp
+ @escribed  
+*  tt
+- (toán học) bàng tiếp (vòng tròn)
+
+@escribed
+- bàng tiếp
+ @escritoire  
+*  dt
+- bàn viết có ngăn kéo
+
+@escrow  
+*  dt
+- (pháp lý) bản giao kèo do người thứ ba gữ (để làm bằng)
+
+@escucheon  
+*  dt ((cũng) scutcheon)
+- huy hiệu trên khiên
+- nắp lỗ khoá
+!to besmirch (sully) one's escutcheon
+- tự làm ô danh
+!a blot on one's escut
+- (xem) blotcheon
+
+@escudo  
+*  dt,  số nhiều escudos
+- đồng etcuđô (tiền Bồ-đào-nha)
+
+@esculent  
+*  tt
+- ăn được
+*  dt
+- thức ăn
+
+@escutcheon
+* dt
+- huy hiệu trên khiên
+- nắp lỗ khoá
+ @escutcheoned
+- xem escutcheon
+ @ESD (electro-static spark) prevention
+- (Tech) sự đề phòng phóng điện tĩnh
+ @esdi
+- Một tiêu chuẩn giao diện dùng cho các ổ đựa cứng
+ @esker
+* dt
+- eskar
+- (địa chất) đồi hình rắn, ngoằn ngoèo (do băng hà)
+ @eskimo  
+*  dt,  số nhiều Eskinos,  Eskinoes
+- người Et-ki-mô
+
+@eskimoan
+* tt
+- thuộc người Eskimo
+ @esl
+* (viết tắt)
+- Anh ngữ như ngôn ngữ thứ hai (English as a Secondary Language)
+ @esn
+* (viết tắt)
+- dưới bình thường về học lực (educationally subnormal)
+ @esodic
+* tt
+- vào; nhập; hướng tâm
+ @esophageal
+- xem esophagus
+ @esophagotomy
+* dt
+- (y học) cách mổ thực quản
+ @esophagus   (esophagus) @esoteric   (esoterical) @esoterical   (esoterical) @esoterically
+- xem esoteric
+ @esotericism
+* dt
+- chủ nghĩa bí truyền
+ @esoterism
+* dt
+- chủ nghĩa thần bí, thuyết thần bí
+ @esp
+* (viết tắt)
+- Anh ngữ chuyên ngành (English for Specific Purposes)
+- Tri giác ngoại cảm (Extra sensory perception)
+ @espadrille
+* dt
+- giày làm bằng vải bạt
+ @espagnole
+* dt
+- nước chấm Tây-ban-nha
+ @espagnoletle
+* dt
+- then móc cửa sổ
+ @espalier  
+*  dt
+- giàn đứng (dựa vào tường cho dây leo...)
+- cây trồng ở giàn đứng
+
+@esparto  
+*  dt
+- cò giấy ((cũng) esparto grass)
+
+@especial  
+*  tt
+- đặc biệt, xuất sắc
+- riêng biệt
+
+@especially  
+*  dt
+- đặc biệt là, nhất là
+
+@esperance
+* dt
+- (từ cổ, nghĩa cổ) hy vọng; chờ đợi
+ @esperantidist
+* dt
+- người tuyên truyền tiếng Experanto
+ @esperanto  
+*  dt
+- tiếng etperantô
+
+@espial  
+*  dt
+- sự dọ thám, sự theo dõi
+
+@espianage  
+*  dt
+- sự làm gián điệp; sự dùng gián điệp; tình báo
+
+@espiel
+* dt
+- do thám; theo dõi
+- sự phát hiện ra
+ @espier
+* dt
+- người do thám, người trinh thám
+ @espionage
+* dt
+- hoạt động tình báo, hoạt động gián điệp
+ @esplanade  
+*  dt
+- (quân sự) khoảng đất giữa thành luỹ và thành phố
+- nơi dạo mát
+
+@espousal  
+*  dt
+- sự tán thành, sự theo (một thuyết, một phong trào...)
+- (từ cổ,nghĩa cổ) ((thường) số nhiều) đám cưới; đám ăn hỏi
+
+@espouse  
+*  ngdgt
+- lấy làm vợ
+- gả (con gái)
+- tán thành, theo (một thuyết, một phong trào...)
+
+@espouser  
+*  dt
+- người tán thành, người theo (một thuyết, một phong trào...)
+
+@espressivo  
+*  dt
+- (âm nhạc) tình cảm (phong cách biểu diễn)
+
+@espresso  
+*  dt
+- máy pha cà phê (bằng) hơi
+- tiệm cà phê hơi
+
+@esprit  
+*  dt
+- tính dí dỏm
+
+@esprit de corps  
+*  dt
+- tinh thần đồng đội
+
+@esprit fort  
+*  dt
+- người có bản lĩnh
+
+@espy  
+*  ngdgt
+- trông thấy, nhìn thấy, nhận thấy
+
+@esq  
+*  dt,  (viết tắt) Esq
+- ông, ngài (viết đằng sau tên họ, trong cái địa chỉ đề trên thư)
+
+@esquimau  
+*  dt,  số nhiều Esquimaux
+- (như) Esquimo
+
+@esquimaux  
+*  dt,  số nhiều Esquimaux
+- (như) Esquimo
+
+@esquire  
+*  dt,  (viết tắt) Esq
+- ông, ngài (viết đằng sau tên họ, trong cái địa chỉ đề trên thư)
+
+@esquisse
+* dt
+- bản phác hoạ (tranh)
+- bản phát thảo
+ @essay  
+*  dt
+- sự làm thử; sự làm cố gắng
+- bài tiểu luận
+*  ngdgt
+- thử làm; cố làm (gì...)
+- thử, thử thách
+*  ndgt
+- cố gắng
+
+@essayer
+- xem essay
+ @essayette
+* dt
+- bài văn ngắn
+ @essayist  
+*  dt
+- nhà văn tiểu luận
+
+@essayistic
+* tt
+- thuộc tiểu luận; thuộc tùy bút
+ @esse  
+*  dt
+- bản chất
+- sự tồn tại; vật tồn tại
+
+@essence  
+*  dt
+- tính chất (nghĩa đen) & (nghĩa bóng))
+- bản chất, thực chất
+- vật tồn tại; thực tế (tinh thần vật chất)
+- nước hoa
+
+@essence
+- bản chất; cốt yếu
+- in e. về bản chất
+- of the e. chủ yếu là, cốt yếu là 
+ @essenced  
+*  tt
+- xức nước hoa, có bôi nước hoa
+
+@essential  
+*  tt
+- (thuộc) bản chất, (thuộc) thực chất
+- cần thiết, thiết yếu, cốt yếu, chủ yếu
+- (thuộc) tinh chất, tinh
+
++ essential oil: tinh dầu
+*  dt
+- yếu tố cần thiết
+
+@essential
+- thực chất; cốt yếu
+ @essential
+- u. tính không giải được cốt yếu
+ @essentialism
+* dt
+- (triết học) bản chất luận
+ @essentialist
+* dt
+- người theo bản chất luận
+ @essentiality
+- xem essential
+ @essentiality
+- bản chất, tính chủ yếu, tính cốt yếu
+ @essentially
+* dt
+- về bản chất, về cơ bản
+ @essonite
+* dt
+- (khoáng chất) esonit
+ @est
+* (viết tắt)
+- giờ chuẩn ở miền Đông (Eastern standard time)
+- phương pháp trị liệu bằng xung điện (Electro-shock treatment)
+ @establish  
+*  ngdgt
+- lập, thành lập, thiết lập, kiến lập
+
++ to establish a government: lập chính phủ
+
++ to establish diplomatic relations: kiến lập quan hệ ngoại giao
+- đặt (ai vào một địa vị...)
+- chứng minh, xác minh (sự kiện...)
+- đem vào, đưa vào (thói quen, tín ngưỡng...)
+- chính thức hoá (nhà thờ)
+- củng cố, làm vững chắc
+
++ to establish one's reputation: củng cố thanh danh
+
++ to establish one's health: lấy lại sức khoẻ
+
++ to establish oneself: sinh cơ lập nghiệp; ổn định cuộc sống
+
++ to establish oneself as a grocer: sinh cơ lập nghiệp bằng nghề bán tạp phẩm
+
+@establish
+- thiết lập
+ @established  
+*  tt
+- đã thành lập, đã thiết lập
+- đã được đặt (vào một địa vị)
+- đã xác minh (sự kiện...)
+- đã được đưa vào (thói quen, sự tín ngưỡng...)
+- đã chính thức hoá (nhà thờ)
+- đã định, đã chắc, được củng cố; đã thích nghi
+- có uy tín
+
+@establisher
+- xem establish
+ @establishment  
+*  dt
+- sự thành lập, sự thiết lập, sự kiến lập
+- sự đặt (ai vào một địa vị)
+- sự chứng minh, sự xác minh (sự kiện...)
+- sự đem vào, sự đưa vào (thói quen, sự tín ngưỡng...)
+- sự chính thức hoá (nhà thờ)
+- tổ chức (quân đội, hải quân, hành chính...); cơ sở (kinh doanh)
+- số người hầu; quân số, lực lượng
+
++ war establishment: lực lượng thời chiến
+
++ peace establishment: lực lượng thời bình
+!separate establishment
+- cơ ngơi của vợ lẽ con riêng
+
+@establishmentarian  
+*  dt
+- người chủ trương chính thức hoá nhà thờ
+
+@establishmentarianism
+- xem establishmentarian
+ @estafette
+* dt
+- cũng estafet
+- sĩ quan liên lạc; phu trạm
+ @estaminet
+* dt
+- số nhiều estaminets
+- quán cà phê bình dân
+ @estate  
+*  dt
+- tài sản, di sản
+- bất động sản ruộng đất
+- đẳng cấp
+
++ the third estate: đẳng cấp thứ ba (Pháp)
+
++ fourth estate:(đùa cợt) giới báo chí
+- (từ cổ,nghĩa cổ) hoàn cảnh, tình trạng
+
+@estate
+- tài sản
+- personal e. động sản 
+- real e. bất động sản 
+ @estate car
+* dt
+- xe có ngăn riêng xếp hành lý
+ @Estate duty
+- (Econ) Thuế di sản (thuế tài sản thừa kế).
+: Dạng chủ yếu của thuế của cải ở Anh trước khi nó được thay thế bằng thuế CHUYỂN GIAO VỐN năm 1974. Thuế này được dánh giá theo suất luỹ tiến vào các tài sản của người chủ khi người này qua đời. Thuế luỹ tiến  được áp dụng cho toàn bộ tài sản chứ không chỉ cho lượng gia tăng của cải.
+ @Estate economy
+- (Econ) Nền kinh tế đồn điền.
+: Thuật ngữ nói về một khu vực hay toàn bộ nền kinh tế ở một nước chậm phát triển được sử dụng để sản xuất đại quy mô lớn nông sản xuất khẩu, thường do các thế lực nước ngoài sở hữu hoặc quản lý; nền kinh tế này rất phổ biến trong thời kỳ thuộc địa.
+ @estate-agency  
+*  dt
+- hãng thuê và bán nhà cửa đất đai
+
+@estate-agent  
+*  dt
+- người thuê và bán nhà cửa đất đai
+- người quản lý ruộng đất
+
+@esteem  
+*  dt
+- sự kính mến, sự quý trọng
+
++ to hold someone in high esteem: kính mến ai, quý trọng ai
+*  ngdgt
+- kính mến, quý trọng
+- coi là, cho là
+
++ to esteem it as a favour: coi cái đó như là một đặc ân
+
+@ester  
+*  dt
+- (hoá học) Este
+
+@esterase
+* dt
+- esteraza (enzym)
+ @esterification
+* dt
+- sự este hoá
+ @esterify
+* ngdgt
+- este hoá
+ @esthesia
+* dt
+- cảm giác; xúc giác
+ @esthesis
+* dt
+- khả năng cảm giác
+ @esthete
+* dt
+- nhà duy mỹ
+ @esthonian
+* dt
+- người Extoni
+- tiếng Extoni
+ @estimable  
+*  tt
+- đáng kính mến, đáng quý trọng
+
+@estimable
+- ước lượng được
+ @estimableness
+- xem estimable
+ @estimably
+- xem estimable
+ @estimate  
+- 'estimeit@estimate
+- ước lượng, đánh giá
+- e. of the number of zeros ước lượng số lượng các không điểm
+- admissible e. ước lượng chấp nhận được
+- combined ratio e ước lượng tổ hợp dưới dạng trung bình
+- consistent e. (thống kê) ước lượng vững
+- grand-lot e. ước lượng theo những lô lớn
+- invariant e. (thống kê) ước lượng bất biến
+- minimax e.(thống kê) ước lượng minimac
+- ordered e. (thống kê) ước lượng nhờ thống kê thứ tự
+- overall e. ước lượng đầy đủ
+- regression e. ước lượng hồi quy
+- unbiased e. ước lượng không chệch
+- upper e. (giải tích) ước lượng trên 
+ @estimated
+- được ước lượng
+ @estimation  
+*  dt
+- sự đánh giá; sự ước lượng
+- sự kính mến, sự quý trọng
+
++ to hold someone in estimation: kính mến ai, quý trọng ai
+
+@estimation
+- (Tech) ước lượng, ước tính
+ @Estimation
+- (Econ) Sự ước lượng.
+: Sự xác định mang tính định lượng các tham số trong các mô hình kinh tế thông qua các số liệu thông kê.
+ @estimation
+- ước lượng, sự đánh giá
+- e. of error sự đánh giá sai số
+- e. of the order sư đánh giá bậc (sai số)
+- efficiency e. (thống kê) sự ước lượng hữu hiệu
+- error e. sự đánh giá sai số
+- interval e. (thống kê) sự ước lượng khoảng
+- point e. (toán kinh tế) sự ước lượng điểm
+- sequetial e. sự ước lượng liên tiếp
+- simultaneous e.(thống kê) sự ước lượng đồng thời 
+ @estimative  
+*  tt
+- để đánh giá; để ước lượng
+
+@estimator  
+*  dt
+- người đánh giá; người ước lượng
+
+@Estimator
+- (Econ) Phương thức ước lượng; Ước lượng.
+: Một công thức hay một quy trình ước lượng các con số thống kê (chẳng hạn như TRUNG BÌNH hay PHƯƠNG SAI của một biến số) hoặc các tham số của một phương trình nhân được từ số liệu.
+ @estimator
+- công thức ước lượng, (thống kê) ước lượng
+- absolutely unbiased e. ước lượng không tuyệt đối 
+- best e. ước lượng tốt nhất
+- biased e. ước lượng chệch
+- efficient e. ước lượng hữu hiệu
+- inconsistent e. ước lượng không vững
+- least-quares e. ước lượng bình phương bé nhất
+- linear e. ước lượng tuyến tính
+- most-efficient e. ước lượng hữu hiệu nhất
+- non-regular e. ước lượng không chính quy
+- quadraitic e. ước lượng bậc hai
+- ratio e. ước lượng dưới dạng tỷ số
+- regular e. ước lượng chính quy
+- unbiased e. ước lượng không chệch 
+- uniformly best constant risk e. (UBCR) ước lượng có độ mạo hiểm bé
+- đều nhất 
+ @estival
+* tt
+- thuộc mùa hè
+ @estivation
+* dt
+- sự ngủ hè; sự qua hè (của một số động vật)
+- (thực vật) tiền khai hoa
+ @estop  
+*  ngdgt
+- (pháp lý) ((thường) : from) ngăn chận; loại trừ
+
+@estoppage  
+*  dt
+- (pháp lý) sự ngăn chận; sự loại trừ
+
+@estoppel  
+*  dt
+- (pháp lý) sự ngăn ai không cho nhận (vì trái với lời nhận hoặc phủ nhận trước của chính người đó)
+
+@estovers  
+*  dt số nhiều
+- (pháp lý) vật dụng cần thiết được luật pháp cho phép để lại (như gỗ cho người ở thuê sửa chữa nhừ cửa hoặc đun nấu)
+- tiền phụ cấp cho người goá chồng; tiền phụ cấp cho người vời ở riêng
+
+@estrade  
+*  dt
+- bục
+
+@estrange  
+*  ngdgt
+- làm cho xa lạ, làm cho ghẻ lạnh
+- (từ Mỹ,nghĩa Mỹ) ly gián, làm cho xa rời
+
+@estrangement  
+*  dt
+- sự làm cho xa rời, sự làm cho ghẻ lạnh
+- (từ Mỹ,nghĩa Mỹ) sự ly gián, sự làm cho xa rời
+- sự bất hoà, sự ghẻ lạnh
+
+@estranger
+- xem estrange
+ @estray  
+*  dt (từ Mỹ,nghĩa Mỹ)
+- người lạc, vật để lạc
+- (pháp lý) súc vật lạc
+
+@estreat  
+*  ngdgt
+- (pháp lý) sao (bản phạt...) gửi lên toà
+
+@estriate
+* dt
+- không vân; không sọc
+ @estuarial
+- xem estuary
+ @estuarine  
+*  tt
+- (thuộc) cửa sông
+
+@estuary  
+*  dt
+- cửa sông
+
+@esu (electrostatic unit)
+- (Tech) esu (đơn vị điện tĩnh)
+ @esurience   (esuriency) @esuriency   (esuriency) @esurient  
+*  tt quya đói khát
+- thèm muốn
+
+@esuriently
+- xem esurient
+ @

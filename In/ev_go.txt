@@ -1,0 +1,2572 @@
+@go  
+*  dt,  số nhiều goes
+- sự đi
+- sức sống; nhiệt tình, sự hăng hái
+
++ full of go: đầy sức sống; đầy nhiệt tình
+- sự thử (làm gì)
+
++ to have a go something: thử cố gắng làm việc gì
+- lần, hơi, cú
+
++ at one go: một lần, một hơi, một cú
+
++ to succeed at the first go: làm lần đầu đã thành công ngay
+
++ to blow out all the candles at one go: thổi một cái tắt hết các cây nến
+- khẩu phần, suất (đồ ăn); cốc, chén, hớp (rượu)
+
++ to have another go: lấy thêm một suất ăn nữa, uống thêm một chén rượu nữa
+- (thông tục) việc khó xử, việc rắc rối
+
++ what a go!: sao mà rắc rối thế!
+- (thông tục) sự thành công, sự thắng lợi
+
++ to make a go of it: thành công (trong công việc gì...)
+- (thông tục) sự bận rộn, sự hoạt đông, sự tích cực
+!a near go
+- sự suýt chết
+!all (quite) the go
+- (thông tục) hợp thời trang
+!it's no go
+- (thông tục) việc ấy không xong đâu; không làm ăn gì được
+!to be on the go
+- bận rộn hoạt động
+- đang xuống dốc, đang suy
+*  ndgt (went,  gone)
+- đi, đi đến, đi tới
+
++ to go to Saigon: đi Sàigòn
+
++ to go on a journey: đi du lịch
+
++ to go bathing: đi tắm
+
++ to go shopping: đi mua hàng
+- thành, thành ra, hoá thành
+
++ to go mad: phát điên, hoá điên
+
++ to go to sea: trở thành thuỷ thủ
+
++ to go on the stage: trở thành diễn viên
+
++ to go on the streets: làm đĩ
+
++ to go native: trở thành như người địa phương
+
++ to go to the bar: trở thành luật sư
+- trôi qua, trôi đi (thời gian)
+
++ how quickly time goes!: sao mà thời gian trôi nhanh thế!
+- chết, tiêu tan, chấm dứt, mất hết, yếu đi
+
++ all hope is gone: mọi hy vọng đều tiêu tan
+
++ my sight is going: mắt tôi yếu đi
+- bắt đầu (làm gì...)
+
++ one, two, three go!: một, hai, ba bắt đầu một, hai, ba chạy! (chạy thi)
+
++ here goes!: nào bắt đầu nhé!
+- chạy (máy móc)
+
++ does your watch go well?: đồng hồ của anh chạy có tốt không?
+
++ the machine goes by electricity: máy chạy bằng điện
+
++ to set an engine going: cho máy chạy
+- điểm đánh (đồng hồ, chuông, kẻng); nổ (súng, pháo...)
+
++ the clock has just gone three: đồng hồ vừa điểm ba giờ
+- ở vào tình trạng, sống trong tình trạng...
+
++ to go hungry: sống đói khổ
+
++ to go with young: có chửa (súc vật)
+
++ to be going with child: có mang (người)
+
++ to be six month gone with child: đã có mang sáu tháng
+- làm theo, hành động theo, hành động phù hợp với, xét theo
+
++ to go on appearances: xét bề ngoài, xét hình thức
+
++ to go by certain principles: hành động theo một số nguyên tắc nhất định
+
++ to go with the tide (tomes): làm như mọi người, theo thời
+- đổ, sụp, gãy, vỡ nợ, phá sản
+
++ the bridge might go under such a weight: nặng thế cầu có thể gãy
+
++ bank goes: ngân hàng vỡ nợ
+- diễn ra, xảy ra, tiếp diễn, tiến hành, diễn biến; kết quả
+
++ how does the affair go?: công việc tiến hành ra sao?
+
++ the play went well: vở kịch thành công tốt đẹp
+- đang lưu hành (tiền bạc)
+- đặt để, kê; để vừa vào, vừa với, có chỗ, đủ chỗ
+
++ where is this table to go?: kê cả cái bàn này vào đâu?
+
++ your clothes can't go into this small suitcase: áo quần của anh không để vừa vào chiếc va li nhỏ này đâu
+
++ six into twelve goes twice: mười hai chia cho sáu vừa đúng được hai
+- hợp với, xứng với, thích hợp với
+
++ red goes well with brown: màu đỏ rất hợp với màu nâu
+- nói năng, cư xử, làm đến mức là
+
++ to have gone too for: đã đi quá xa rồi, đã nói quá rồi
+
++ to go so far so to say...: nói đến mức là...
+
++ what he say true as for as it goes: trong chừng mức nào đó thì điều anh nói là đúng
+- trả (giá...); tiêu vào (tiền...); bán
+
++ to go as for as 100 đ: đã trả tới 100 đồng
+
++ all her pocket-money goes in books: có bao nhiêu tiền tiêu vặt là cô ta mua sách hết
+
++ to go cheap: bán rẻ
+
++ this goes for one shilling: cái này giá một silinh
+- thuộc về
+
++ the house went to the elder son: cái nhà thuộc về người con lớn
+
++ the price went to the winner: giải thưởng thuộc về phần người thắng
+- được biết, được thừa nhận; truyền đi, nói, truyền miệng
+
++ as the story goes: như người ta nói, có chuyện rằng
+
++ it goes without saying: khỏi phải nói, tất nhiên là có, cố nhiên là
+- hợp nhịp điệu; phổ theo (thơ, nhạc...)
+
++ to go to the tune of...: phổ theo điệu...
+*  ngdgt
+- (đánh bài) đi, đánh, ra (quân bài), đặt (tiền)
+
++ to go "two spades": đánh quân bài "hai bích" 
+!to be going to
+- sắp sửa; có ý định
+
++ it's going to rain: trời sắp mưa
+
++ I'm not going to sell it: tôi không có ý định bán cái đó
+@go
+- đi, chuyển động
+ @go about
+- đi đây đi đó, đi chỗ này, chỗ nọ; đi khắp nơi
+
++ to go about the country: đi chơi khắp xứ
+- truyền đi, lan truyền, truyền khẩu (lời đồn, câu chuyện)
+
++ a runmour is going about that...: có tin đồn rằng...
+- khởi công, làm, lo (công việc), bắt tay vào việc
+
++ you're going about it in the right way: anh bắt đầu làm đúng cách đấy
+
++ go about your business!: anh cứ lo lấy việc của mình đi!; hãy lo lấy việc của anh đã!
+- (hàng hải) trở buồm, chạy sang đường khác
+- cố gắng
+
++ to go about to do something: cố gắng làm việc gì
+ @go abroad
+- đi ra nước ngoài; đi ra ngoài; đi ra khỏi nhà
+- truyền đi, lan đi (câu chuyện...)
+ @go across
+- đi qua, băng qua, vượt qua; vượt (biển), qua (cầu)
+ @go after
+- theo sau; theo sau tán tỉnh, tán, ve vãn (con gái)
+- xin (việc làm); tìm kiếm (cái gì)
+ @go against
+- đi ngược
+
++ to go against the stream (tide): đi ngược dòng, không theo thời
+- làm trái ý muốn (của ai)
+- có hại (cho ai)
+ @go ahead
+- tiến lên, thẳng tiến
+ @go along
+- tiến triển; tiếp tục
+
++ you may meet with difficulties as first but you'll find it easier as you go along: có thể là lúc đầu anh sẽ gặp khó khăn đấy nhưng cứ tiếp tục anh sẽ thấy dễ dàng hơn
+- (: with) đi cùng
+
++ he will go along with you as for as the station: nó sẽ cùng đi với anh đến tận ga
+- go along with you! cút đi!
+ @go among
+- đi giữa (đám đông, đoàn biểu tình...)
+ @go at
+- (thông tục) cự lại, chống lại, đánh lại, xông vào đánh
+
++ to go at the eneny: xông vào đánh kẻ thù
+
++ they went at it tooth and nail: họ chống cự lại kịch liệt điều đó
+- làm việc hăng hái
+
++ he went at it with all his heart: nó chuyên tâm làm việc đó, nó dốc hết tâm trí vào việc đó
+ @go away
+- đi nơi khác; đi khỏi, ra đi, rời (nơi nào)
+ @go away with something
+- lấy vật gì đi, mang vật gì đi
+ @go back
+- trở về, về, trở lại
+
++ to go back to one's homeland: về quê quán, trở về quê hương
+- lui
+
++ to go back two paces: lui hai bước, bước lui hai bước
+- xem xét lại, làm lại, trở lại
+
++ to back to a beginning: làm lại từ đầu
+
++ to go back to a suject: trở lại vấn đề
+- đi ngược lại, truy nguyên
+
++ to go back to the past: nhớ lại những việc đã qua, nhớ lại dĩ vãng
+- không giữ (lời hứa)
+
++ to go back on (upon) one's word: không giữ lời hứa
+ @go before
+- đi trước, đi lên trước
+- vượt lên trên (người nào)
+ @go behind
+- xét lại, nhận định lại, nghiên cứu, tìm hiểu (vấn đề gì)
+
++ to go behind a decision: xét lại một quyết định
+- soát lại, kiểm tra lại
+
++ to go behind the returns of an election: kiểm tra lại kết quả một cuộc bầu cử
+ @go between
+- làm môi giới, làm mối, vượt quá (giới hạn)
+ @go by
+- đi qua; trôi qua (thời gian)
+
++ to see somebody go by: trông thấy ai đi qua
+
++ time goes by quickly: thời gian trôi nhanh
+- làm theo, xét theo
+
++ to go by someone's advice: làm theo lời khuyên của ai
+
++ to go by appearances: xét người theo bề ngoài
+ @go down
+- xuống, đi xuống
+- chìm (tàu thuỷ); lặn (mặt trời, mặt trăng...)
+- trôi (thức ăn, thức uống...)
+
++ this pill won't go down: viên thuốc ấy không nuốt trôi được
+- được hoan nghênh, được hưởng ứng, được thừa nhận (lời giải thích, lời xin lỗi, câu chuyện, vở kịch...)
+
++ the new play went down very well with the audiences: vở kịch mới được người xem hoan nghênh nhiệt liệt
+- được tiếp tục (cho đến)
+- bị đánh ngã, bại trận
+
++ to go down before an opponent: bị địch thủ đánh ngã
+
++ to go down in an exam: thi hỏng
+- ra trường (đại học)
+- yên tĩnh, lắng đi, dịu đi (biển, gió...)
+- hạ (giá cả)
+- được ghi lại, được ghi nhớ
+
++ to go down in history: được ghi lại trong lịch sử
+ @go for
+- đi mời, đi gọi
+
++ to go for a doctor: đi mời bác sĩ
+- được coi như
+
++ the work went for nothing: công việc coi như không có kết quả gì; công cốc
+- (từ lóng) tấn công, công kích, nhảy xổ vào
+
++ they went for him in the newspapers: họ công kích anh ấy trên báo chí
+- được áp dụng cho
+
++ what I have said about him goes for you, too: điều tôi nói về hắn áp dụng được cả với anh
+ @go forward
+- tiến tới, tiến triển
+
++ the work is going forward well: công việc đang tiến triển tốt
+- xảy ra
+
++ what is going forward here?: việc gì thế? có gì xảy ra thế?
+ @go in
+- vào, đi vào
+- bị mây che, đi vào đám mây (mặt trời, mặt trăng)
+- vào đầu
+
++ go in and win: tấn công đi!; hạ đi!
+!to go in for
+- tham gia, chơi; mê; ham; ưa chuộng, chuộng
+
++ to go in for sports: chơi thể thao
+
++ to go in for stamps: mê chơi tem
+
++ to go in for somebody: cầu hôn ai, theo sau ai tán tỉnh
+- theo
+
++ to go in for a principle: theo một nguyên tắc
+
++ to go in for a fashion: theo mốt
+!to go in with
+- cùng chung với (ai), liên kết với (ai)
+!to go in with somebody in an undertaking
+- cùng chung với ai làm công việc gì
+!to go into
+- vào
+
++ to go into the room: vào phòng
+
++ to go into business: đi vào con đường kinh doanh
+
++ to go into society: hoà mình với mọi người, giao thiệp với đời
+
++ to go into the army: vào quân đội, nhập ngũ
+- đi sâu
+
++ to go into details (particulars): đi sâu vào chi tiết
+- xem xét, xét
+
++ to go into a question: xét một vấn đề
+- lâm vào, rơi vào (tình trạng nào đó...)
+
++ to go into mourning: để tang
+
++ to go into fits of laughter: cười rộ lên
+ @go off
+- đi ra, ra đi, đi mất, đi biến, chuồn, bỏ đi
+- (sân khấu) vào (diễn viên)
+- nổ (súng)
+
++ the gun went off: súng nổ
+
++ the pistol did not go off: súng lục bắn không nổ
+- ung, thối, ươn, ôi
+
++ milk has gone off: sữa đã chua ra
+- ngủ say, lịm đi, ngất
+
++ she went off into a faint: cô ta ngất lịm đi
+- bán tống bán tháo, bán chạy (hàng hoá)
+- được tiến hành, diễn ra
+
++ the concert went off very well: buổi hoà nhạc đã diễn ra rất tốt đẹp
+- phai, bay (màu); phai nhạt (tình cảm); xuống sức (vận động viên); trở nên tiều tuỵ, xuống nước (phụ nữ)
+- chết
+ @go on
+- đi tiếp, tiếp tục, làm tiếp
+
++ go on!: cứ làm tiếp đi!
+
++ to go on with one's work: tiếp tục làm công việc của mình
+
++ it will go on raining: trời còn mưa nữa
+
++ we go on to the next item of the agenda: chúng ta tiếp tục qua mục sau của chương trình nghị sự
+- trôi qua (thời gian)
+- xảy ra, diễn ra, tiếp diễn
+- ra (sân khấu) (diễn viên)
+- cư xử, ăn ở (một cách đáng chê trách)
+- căn cứ, dựa vào
+
++ what evidence are you going on?: anh dựa vào chứng cớ nào?
+- vừa
+
++ the lid won't go on [the pot]: vung đậy không vừa
+
++ these shoes are not going on [my feet]: đôi giày này không vừa chân tôi
+!to be going on for
+- gần tới, xấp xỉ
+
++ it is going on for lunch-time: gần đến giờ ăn trưa rồi
+
++ to be going on for fifty: gần năm mươi tuổi
+!to go on at
+- chửi mắng, mắng nhiếc
+
++ to go on at somebody: mắng nhiếc ai
+!go on with you!
+- (thông tục) đừng có nói vớ vẩn!
+ @go out
+- ra, đi ra, đi ra ngoài
+
++ out you go!: anh đi ra đi!
+
++ he went out to dinner: anh ấy đi ăn ở ngoài, anh ấy đi ăn cơm khách
+- giao thiệp, đi dự các cuộc vui, đi dự các cuộc gặp gỡ xã giao
+
++ he seldom went out: anh ấy ít giao thiệp
+
++ to go out a great deal: đi dự các cuộc vui (các cuộc gặp gỡ xã giao) luôn
+- đi ra nước ngoài
+- đình công (công nhân)
+- tắt (đèn, lửa...)
+- lỗi thời (thời trang)
+- tìm được việc (trong gia đình tư nhân)
+
++ when she was young she went out as a teacher: hồi còn trẻ cô ta đã đi dạy học tư
+- về hưu, thôi nắm quyền, từ chức, bị lật đổ (nội các...)
+- có cảm tình
+
++ at the first meeting my heart went out to him at once: mới gặp tôi đã có cảm tình ngay với hắn
+- hết (thời gian, năm, tháng...)
+- (thể dục,thể thao) bỏ cuộc
+- (từ lóng) chết
+- đi đấu kiếm (trong một cuộc thách đấu)
+ @go over
+- đi qua, vượt
+- đổi (chính kiến); sang (đảng khác, hàng ngũ bên kia)
+- xét từng chi tiết, kiểm tra, xem xét kỹ lưỡng
+
++ to go over an engine: kiểm tra máy, điều chỉnh máy
+- tập dượt, ôn lại, xem lại
+
++ to go over a lesson: ôn lại bài học
+- sửa lại
+
++ to go over a drawing: sửa lại một bức vẽ
+- lật úp, bị đổ nhào (xe)
+- (hoá học) biến thành, đổi thành, chuyển thành
+ @go round
+- đi vòng, đi quanh
+
++ to go a long way round: đi một vòng lớn
+
++ to go round the word: đi vòng quanh thế giới
+- đủ để chia khắp lượt (ở bàn ăn)
+
++ there are not enough cakes to go round: không đủ bánh để chia khắp lượt
+- đi thăm (ai)
+
++ to go round to someone: đi thăm ai
+- quay, quay tròn (bánh xe)
+ @go through
+- đi qua
+- thảo luận chi tiết; kiểm tra kỹ lưỡng, xem xét tỉ mỉ
+- được thông qua, được chấp nhận
+
++ the plan nust go through the emulation committee: kế hoạch phải được ban thi đua thông qua
+- thực hiện (đầy đủ nghi thức); theo hết (chương trình khoá học...); hoàn thành (công việc)
+- chịu đựng
+
++ to go through hardship: chịu đựng gian khổ
+- thấm qua, thấu qua
+- bán hết (trong bao nhiêu lần in (sách))
+- tiêu hết, tiêu xài nhãn
+
++ to go through all one's money: tiêu xài hét nhãn tiền
+- xong; thành công
+
++ his work did not go through: việc anh ấy không thành
+
++ the deal did not go through: việc mua bán không xong
+!to go through with
+- hoàn thành, làm đến cùng
+
++ to go through with some work: hoàn thành công việc gì (không bỏ dở, làm cho đến cùng)
+ @go together
+- đi cùng với nhau; đến cùng một lúc (tai hoạ)
+- hợp vị, hợp món (thức ăn)
+
++ beer and cheese go well together: bia và phó mát hợp vị nhau lắm
+- hoà hợp, hợp nhau (ý kiến, màu sắc)
+ @go under
+- chìm nghỉm
+- thất bại; đầu hàng; phá sản
+
++ the company went under completely: công ty hoàn toàn phá sản
+- lặn (mặt trời)
+- (từ Mỹ,nghĩa Mỹ) chết
+ @go up
+- lên, leo lên, đi lên
+
++ to go up a ladder: lên thang gác
+
++ to go up a river: đi ngược dòng sông
+
++ to go up to town: ra tỉnh, lên tỉnh
+
++ the curtain goes up: màn kéo lên
+- lên lớp khác
+
++ to go up to the university: lên đại học, vào đại học
+- tăng, tăng lên (giá cả)
+- nổ tung
+
++ the house went up in flames: ngôi nhà nổ tung trong khói lửa
+- mọc lên
+
++ new houses are going up everywhere in the town: nhà mới mọc lên khắp nơi trong thành phố
+ @go with
+- đi cùng, đi theo
+- đồng ý kiến; nhất trí (với ai)
+- cùng với, theo
+
++ some acres of land go with the house: vài mẫu ruộng kèm theo với ngôi nhà (cho ai sử dụng)
+- hợp
+
++ the colour of your tie does not go well with that of your shirt: màu ca vát của anh không hợp với màu áo sơ mi
+ @go without
+- nhịn, chịu thiếu, chịu không có
+
++ to go without food: nhịn ăn, chịu đói
+!to be gone on somebody
+- mê ai, phải lòng ai
+!to go begging
+- không ai cần đến, không ai cầu đến
+!to go all lengths
+- dùng đủ mọi cách
+!to go all out
+- rán hết sức, đem hết sức mình
+!to go a long way
+- đi xa
+- có tác dụng lớn, có ảnh hưởng lớn
+- để được lâu (đồ ăn); bền (quần áo...)
+- tiêu được lâu (tiền...)
+!to go astray
+- (xem) astray
+!to go bail for someone
+- (xem) bail
+!to go beyond the veil
+!to go hence
+!to go to a better word
+!to go out of this word
+!to go heaven
+!to go to one's account
+!to go to one's long rest
+!to go to one's own place
+!to go the way of all the earth
+!to go the way of all flesh
+!to go the way of nature
+!to go to one's last (long) home
+!to go over to the great majority
+!to go off the books
+- chết
+!to go west
+- (từ lóng) chết
+!to go up the flume
+- (từ Mỹ,nghĩa Mỹ) (từ lóng) chết
+!to go down hill
+- xuống dốc (đen & bóng)
+- suy yếu rất nhanh (sức khoẻ)
+!to go far
+- sẽ làm nên, có tiền đồ
+!to go flop
+- (xem) flop
+!to go hard with somebody
+- làm lôi thôi cho ai, gây chuyện bực mình khó chịu cho ai, làm khó khăn cho ai
+!to go hot and cold
+- lên cơn sốt lúc nóng lúc lạnh
+- thẹn lúc đỏ bừng lúc tái đi
+!to go it (lóng)
+- làm mạnh, làm hăng
+- sống bừa bâi, sống phóng đãng
+!to go it alone
+- làm một mình không nhờ cậy vào ai; một mình chịu hết trách nhiệm
+!to go off one's head (nut)
+- mất trí, hoá điên
+!to go over big
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) thành công lớn, đạt kết quả lớn, tiến bộ nhiều
+!to go one better
+- trội hơn, vượt hơn (ai)
+!to go phut
+- (xem) phut
+!to go share and share alike
+- chia đều (với ai)
+!to go sick
+- (quân sự) báo cáo ốm
+!to go to the country
+- (xem) country
+!to go to great trouble (expense)
+- lo lắng nhiều, bỏ nhiều công sức
+
++ go to hell (jericho, bath, blazes...)!: đồ chết tiệt! quỷ tha ma bắt mày đi!
+!to go to seed
+- (xem) seed
+!to go to war
+- dùng biện pháp chiến tranh, đi đến chỗ đánh nhau
+!to go to whole length of if
+!to go to the whole way
+- làm đến nơi đến chốn, không bỏ nửa chừng
+
+ @goad  
+*  dt
+- gậy nhọn (để thúc trâu bò...)
+- cái kích thích, điều thúc giục
+- điều dằn vặt, điều rầy khổ
+*  ngdgt
+- thúc (trâu, bò) bằng gậy nhọn
+- kích thích, thúc giục
+
++ to goad somebody into doing something: thúc giục ai làm việc gì
+- trêu tức, làm phát cáu; dằn vặt, rầy khổ
+
+@goadsman
+* dt; số nhiều goadsmen
+- người thúc dục bò
+ @goaf
+* dt
+- (mỏ) sự sụt lở
+ @goafed
+* tt
+- sụt lở; hủy hoại
+ @go-ahead  
+*  tt
+- dám nghĩ, dám làm, tháo vát; hăng hái, tích cực
+*  dt
+- tín hiệu xuất phát
+- sự tiến bộ, sự tiến tới
+- người dám nghĩ dám làm, người tháo vát; người hăng hái tích cực
+
+@goal  
+*  dt
+- (thể dục,thể thao) khung thành gồm
+
++ to keep the goal: giữ gôn
+- (thể dục,thể thao) bàn thắng, điểm
+
++ to kick a goal: sút ghi một bàn thắng (bóng đá)
+- đích; mục đích, mục tiêu
+
++ to reach that goal: để đạt mục đích ấy
+
+@goal
+- mục đích
+ @goal-area
+* dt
+- (bóng đá) khu vực 16 m 50
+ @goal-driven method
+- (Tech) phương pháp hướng về đích
+ @goalee   (goalie) @goalie   (goalie) @goalkeeper
+* dt
+- <thể> thủ thành, người giữ gôn
+ @goalkeeping
+* dt
+- (thể thao) việc bảo vệ khung thành
+ @goal-kick
+* dt
+- (bóng đá) cú đá trả bóng vào trận đấu sau khi bóng bị đá ra ngoài đường biên ngang
+ @goalless
+* tt
+- không làm bàn, không ghi được bàn nào
+ @goal-line  
+*  dt
+- (thể dục,thể thao) vạch khung thành
+
+@goallkeeper   (goalie) @goal-mouth
+* dt
+- (bóng đá) khu vực ngay trước khung thành
+ @goal-post  
+*  dt
+- (thể dục,thể thao) cột khung thành, cột gôn
+
+@goanna
+* dt
+- (động vật) con nhông (ở úc)
+ @go-around
+* dt
+- việc chạy chung quanh
+ @go-as-you-please  
+*  tt
+- không bị bó buộc bởi các quy tắc điều lệ
+- tự do, không bị bó buộc, không bị hạn chế
+- thiếu kế hoạch; không có phương pháp
+
+@goat  
+*  dt
+- (động vật học) con dê
+- người dâm dục, người dâm đãng, người có máu dê
+- (Goat) (thiên văn học) cung Ma kết (trong hoàng đạo)
+!to get somebody goat
+- trêu gan (chọc tức) ai
+!to play the giddy goat
+- (xem) giddy
+!to separate the sheep from the goats
+- lấy tinh bỏ thô
+
+@goatee  
+*  dt
+- chòm râu dê
+
+@goat-fish
+* dt
+- (đợng vật) cá phèn
+ @goat-herd  
+*  dt
+- người chăn dê
+
+@goatish  
+*  tt
+- (thuộc) dê; có mùi dê
+- dâm đãng, có máu dê
+
+@goatling  
+*  dt
+- dê non (từ 1 đến 2 năm tuổi)
+
+@goat's wool  
+*  dt
+- vật không có thật
+
+@goatskin  
+*  dt
+- da dê
+- túi đựng nước bằng da dê
+- quần áo bằng da dê
+
+@goat-sucker  
+*  dt
+- (động vật học) cú muỗi
+
+@goaty  
+*  tt
+- (thuộc) dê; có mùi dê
+
+@gob  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thuỷ thủ
+- cục đờm
+- (từ lóng) mồm
+*  ndgt
+- khạc nhổ
+
+@gobb
+* dt
+- (kỹ thuật) thanh gỗ đệm
+ @gobbet  
+*  dt
+- đoạn văn làm đề thi (để dịch hoặc giải nghĩa trong các kỳ thi)
+- (từ cổ,nghĩa cổ) miếng lớn (thịt...)
+
+@gobbing
+* dt
+- đá lấp hố; sự lấp hố; sự lấp đất đá
+ @gobble  
+*  dt
+- tiếng kêu gộp gộp (của gà tây)
+*  ndgt
+- kêu gộp gộp (gà tây)
+*  dgt
+- ((thường) : up) ăn ngấu nghiến, nuốt lấy nuốt để
+
+@gobbledegook  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lối văn cầu kỳ (dùng trong công văn...)
+
+@gobbler  
+*  dt
+- gà sống tây
+
+@gobble-stitch  
+*  dt
+- mũi khâu vội
+
+@gobelin
+* dt
+- thảm Goblanh (Pari)
+* dt
+- thảm Goblanh (Pari)
+ @go-between  
+*  dt
+- người trung gian, người làm mối, người môi giới
+
+@goblefish
+* dt
+- (động vật) cá ông lão mõm ngắn
+ @goblet  
+*  dt
+- ly có chân, cốc nhỏ có chân
+
+@goblin  
+*  dt
+- yêu tinh
+
+@gobo
+* dt
+- tấm che trong kịch, vô tuyến, phim để cho ánh sáng theo những hướng đã định
+- tấm che tạp âm
+ @gob-stopper
+* dt
+- kẹo có dạng hình cầu
+ @go-by  
+*  dt,  to give someone the qong qua mặt ai, vượt qua ai
+- không để ý đến lời ai
+- tránh ai, trốn ai
+
+@goby  
+*  dt
+- (động vật học) cá bống
+
+@go-cart  
+*  dt
+- xe tập đi, xe đẩy (của trẻ con)
+- xe kéo nhỏ
+
+@god  
+*  dt
+- thần
+
++ the god of wine: thần rượu
+
++ a feast for the gods: một bữa tiệc ngon và quý (như của thần tiên)
+- (God) Chúa, trời, thượng đế
+!to pray to God
+- cầu Chúa, cầu trời
+!God knows!
+- có trời biết! (không ai biết)
+!my God!; good God!
+- trời! (tỏ ý ngạc nhiên);
+!thank God!
+- lạy Chúa! nhờ Chúa!;
+!God willing
+- nếu trời phù hộ
+!for God's sake
+- vì Chúa
+!by God
+- có Chúa biết (để khẳng định lời thề)
+!God's book
+- kinh thánh
+- người được tôn sùng; người có ảnh hưởng lớn; vật được chú ý nhiều
+
++ to make a god of somebody: sùng bái ai, coi ai như thánh như thần
+- (the god) (sân khấu) những người xem hạng chuồng gà (trên gác thượng)
+*  dgt
+- tôn làm thần thánh
+- làm ra vẻ thần thánh ((cũng) to god it)
+
+@god-awful
+* tt
+- xấu đau xấu đớn, tồi tệ vô cùng
+ @godchild  
+*  dt
+- con đỡ đầu
+
+@goddam
+* tt
+- như goddamned
+ @goddamn
+* dt
+- như damn
+* ngdgt
+- như damn
+* tt
+- như goddamned
+- từ cảm thán
+- biểu lộ sự bực bội, tức giận hoặc kinh ngạc
+ @goddamned  
+*  tt
+- chết tiệt (chửi rủa) ((thường) (viết tắt) goddamn,  goddam)
+
+@goddaughter  
+*  dt
+- con gái đỡ đầu
+
+@god-daughter
+* dt
+- con gái đỡ đầu
+ @goddess  
+*  dt
+- nữ thần
+
+@goddessship
+* dt
+- địa vị nữ thần
+ @godfather  
+*  dt
+- cha đỡ đầu
+
++ to stand godfather to a child: đỡ đầu cho một đứa trẻ
+- (nghĩa bóng) người được lấy tên để đặt cho (ai, vật gì...)
+*  ngdgt
+- đỡ đầu (cho một đứa trẻ), đặt tên mình cho một đứa trẻ
+
+@godfearing  
+*  tt
+- biết sợ trời, biết sợ thánh thần
+- sùng đạo, ngoan đạo
+
+@godforsaken  
+*  tt
+- (thông tục) tồi tàn, khốn nạn (người); tiêu điều, hoang vắng (nơi chốn)
+
++ a godforsaken place: nơi hoang vắng, nơi khỉ ho cò gáy
+
++ a godforsaken occupation: nghề chó chết nghề khốn khổ, khốn nạn
+
+@godhead  
+*  dt
+- thánh thần
+!the Godhead
+- thượng đế
+
+@godhood
+* dt
+- tính chất thần linh
+ @godless  
+*  tt
+- vô thần, không tin thần thánh
+- trái đạo lý, độc ác
+
+@godlessness
+* dt
+- sự vô thần, sự độc ác
+ @godlike  
+*  tt
+- như thần, như thánh
+
+@godliness  
+*  dt
+- sự sùng đạo, sự ngoan đạo
+
+@godling
+* dt
+- vị thần nhỏ
+ @godly  
+*  tt
+- sùng đạo, ngoan đạo
+
++ the godly: những người sùng đạo, những người ngoan đạo
+
+@godmother  
+*  dt
+- mẹ đỡ đầu
+
+@godown  
+*  dt
+- nhà kho, kho chứa hàng (ở Ân-ddộ,  Ma-lai)
+
+@godparent  
+*  dt
+- cha đỡ đầu, mẹ đỡ đầu
+
+@god's acre  
+*  dt
+- nghĩa địa
+
+@godsend  
+*  dt
+- của trời cho, điều may mắn bất ngờ
+
+@godship
+* dt
+- địa vị thần linh; địa vị thượng đế
+ @godson  
+*  dt
+- con trai đỡ đầu
+
+@god-son
+* dt
+- con trai đỡ đầu
+ @godspeed  
+*  dt
+- sự thành công, sự may mắn
+
++ to wish (bid) somebody godspeed: chúc ai đi may mắn
+
+@godward
+* tt
+- đối với thần linh; đối với thượng đế
+ @go-easy  
+*  tt (như) easy-going
+
+@goer  
+*  dt
+- người đi, người đi lại
+
++ the comers and goers: khách qua lại
+!good (fast) goer
+- ngựa phi hay (nhanh)
+
+@gofer  
+*  dt
+- bánh kẹp ((cũng) (từ Mỹ,nghĩa Mỹ) gaufre)
+- (như) gofer
+
+@goffan
+* dt
+- hào; đường hào; đường hầm
+ @goffer   (gofer) @goffered
+* tt
+- gấp (giấy); nhăn (giấy); xếp nếp
+ @go-getter  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người dám nghĩ dám làm; người táo bạo và thành công (trong công việc)
+
+@goggle  
+*  ndgt
+- trợn tròn mắt; giương mắt nhìn
+- lồi ra (mắt)
+*  ngdgt
+- trợn tròn (mắt)
+
+@goggle-box
+* dt
+- <thgt> máy thu hình, tivi
+ @goggle-eyed  
+*  tt
+- lồi mắt
+
+@goggles  
+*  dt số nhiều
+- kính bảo hộ, kính râm (để che bụi khi đi mô tô, để bảo vệ mắt khi hàn...)
+- (từ lóng) kính đeo mắt
+- (thú y học) bệnh sán óc (của cừu)
+
+@goglet
+* dt
+- bình lạnh
+ @going  
+*  dt
+- sự ra đi
+- trạng thái đường sá (xấu, tốt...); việc đi lại
+
++ the going is hand over this rough road: việc đi lại trên đường gồ ghề này vất vả
+- tốc độ (của xe lửa...)
+*  tt
+- đang đi
+- đang chạy, đang hoạt động, đang tiến hành đều
+
++ a going concern: một hâng buôn đang làm ăn phát đạt
+- có, hiện có, tồn tại
+
+@going over
+* dt
+- sự kiểm tra tỉ mỉ
+- trận đòn
+ @goings-on  
+*  dt số nhiều
+- tư cách; cách xử sự, hành vi, hành động, cử chỉ
+
++ strange goings-on: cách xử sự kỳ cục lạ lùng
+- việc xảy ra; tình hình biến chuyển
+
+@goiter   (goitre) @goitre   (goitre) @goitrous  
+*  tt
+- (y học) có bướu giáp, có bướu cổ
+
+@Golay code 
+- (Tech) mã Gôlây
+ @gold  
+*  dt
+- vàng
+- tiền vàng
+- số tiền lớn; sự giàu có
+- màu vàng
+- (nghĩa bóng) vàng, cái quý giá
+
++ a heart of gold: tấm lòng vàng
+
++ a voice of gold: tiếng oanh vàng
+*  tt
+- bằng vàng
+
++ gold coin: tiền vàng
+- có màu vàng
+
+@gold age growth
+- (Econ) Tăng trưởng thời kỳ hoàng kim.
+: Trong lý thuyết tăng trưởng, đó là một tình huống TĂNG TRƯỞNG CÂN ĐỐI trong đó TỶ LỆ TĂNG TRƯỞNG CÓ BẢO ĐẢM bằng với Tỷ lệ tăng trưởng tự nhiên khi có đủ việc làm.
+ @gold bloc  
+*  dt
+- khối các nước lấy vàng làm bản vị tiền tệ
+
+@gold brick  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) vật chỉ có giá trị bề ngoài; vật lừa dối
+!to sell a gold_brick
+- đánh lừa, lừa dối
+
+@Gold bricking
+- (Econ) Hoạt động lưa dối.
+: Sự hạn chế sản lượng do công nhân gây ra trong khuôn khổ HỆ THỐNG THANH TOÁN KHUYẾN KHÍCH để tránh việc áp dụng các tiêu chuẩn nỗ lực làm việc cao hơn trên một đơn vị thanh toán.
+ @Gold certificate
+- (Econ) Giấy chứng gửi vàng.
+: Một phương tiện ghi nợ hay giấy bạc do Bộ tài chính phát hành thể hiện ý muốn của Bộ tài chính biến một lượng vàng nhất định thành tiền.
+ @Gold exchange standard
+- (Econ) Bản vị trao đổi bằng vàng.
+: Một dạng BẢN VỊ VÀNG, theo đó một nước neo giá trị đồng tiền của mình theo giá trị đồng tiền của một nước trung tâm.
+ @Gold export point
+- (Econ) Điểm xuất khẩu vàng.
+: Xem Gold point.
+ @Gold import point
+- (Econ) Điểm nhập khẩu vàng.
+: Xem Gold point.
+ @gold jubilee
+* dt
+- lễ kỷ niệm 50 năm, ngày lễ vàng
+ @Gold market
+- (Econ) Thị trường vàng.
+: Thị trường buôn bán vàng kim loại, tiền vàng hay vàng nén.
+ @gold medallist
+* dt
+- người được thưởng huy chương vàng
+ @gold plate  
+*  dt
+- bát đĩa bằng vàng
+
+@Gold points
+- (Econ) Các điểm vàng.
+: Các mức tỷ giá trao đổi mà tại đó khi một đồng tiền ở một BẢN VỊ VÀNG, thì việc mua vàng từ Ngân hàng trung ương và xuất khẩu vàng (điểm xuất khẩu vàng) hay nhập khẩu và bán nó cho ngân hàng trung ương (điểm nhập khẩu vàng) là có lợ nhuận.
+ @Gold reserve
+- (Econ) Dự trữ vàng.
+ @Gold standard
+- (Econ) Bản vị vàng.
+: Hệ thống tổ chức tiền tệ theo giá trị tiền của một nước là được xác định theo luật bằng một lượng vàng cố định, và đồng tiền trong nước có dạng tiền vàng và @gold standard
+* dt
+- <kinh tế> kim bản vị
+ @gold-beater  
+*  dt
+- thợ dát vàng
+
+@gold-block
+* dt
+- khối các nước lấy vàng làm bản vị tiền
+ @gold-bonded diode
+- (Tech) đèn hai cực đầu nối bằng vàng
+ @Goldbugs
+- (Econ) Những con mọt vàng.
+ @goldcrest  
+*  dt
+- (động vật học) chim mào vàng
+
+@gold-digger  
+*  dt
+- thợ mỏ vàng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cô ả bòn tiền (người đàn bà dùng sắc để bòn tiền đàn ông)
+
+@gold-digging  
+*  dt
+- sự đào mỏ ((nghĩa đen) & (nghĩa bóng)); sự bòn rút tiền (bằng sắc đẹp)
+- (số nhiều) mỏ vàng
+
+@gold-dust  
+*  dt
+- bụi vàng, vàng cát
+
+@golden  
+*  tt
+- bằng vàng
+- có vàng, nhiều vàng
+- có màu vàng
+
++ golden hair: tóc màu vàng
+- quý giá, quý báu, quý như vàng
+
++ a golden opportunity: một dịp quý báu
+
++ golden remedy: thuốc quý, thuốc thánh
+- thịnh vượng; hạnh phúc
+
++ the golden age: thời đại hoàng kim
+!the Golden City
+- (từ Mỹ,nghĩa Mỹ) thành phố Xan-Fran-xit-co
+!the golden mean
+- (xem) mean
+!golden opinions
+- sự tôn trọng
+!the golden rule
+- (kinh thánh) quy tắc đối với người khác phải như nình muốn người ta đối với mình
+!the Golden State
+- (từ Mỹ,nghĩa Mỹ) bang Ca-li-fo-ni
+!golden wedding
+- (xem) wedding
+!to worship the golden ccalf
+- (xem) calf
+
+@golden eagle
+* dt
+- chim ưng vàng
+ @Golden rule
+- (Econ) Nguyên tắc vàng; Quy tắc vàng.
+: Con đường tăng trưởng tối ưu đưa ra mức tiêu dùng đầu người là bền vững và tối đa trong một nền kinh tế.
+ @Golden rule of accumulation
+- (Econ) Nguyên tắc vàng về tích luỹ; Quy tắc vàng của tích luỹ.
+: Con đường tăng trưởng cân đối trong đó mỗi một thế hệ tiết kiệm thế hệ mai sau phần thu nhập mà các thế hệ trước đó đã tiết kiệm được.
+ @golden syrup
+* dt
+- sirô màu vàng nhạt
+ @golden wedding
+* dt
+- lễ kỷ niệm 50 năm ngày cưới, đám cưới vàng
+ @golden-shower
+* dt
+- trận mưa vàng
+ @Goldfeld - Quandt
+- (Econ) Kiểm định Goldfeld - Quandt.
+: Tên của một phép kiểm định được sử dụng để nhận dạng vấn đề Phương sai không thuần nhất trong Số dư của một phương trình Hồi quy.
+ @gold-fever  
+*  dt
+- cơn sốt vàng
+
+@gold-field  
+*  dt
+- vùng có vàng
+
+@gold-filled  
+*  tt
+- bọc vàng
+
+@goldfinch  
+*  dt
+- (động vật học) chim sẻ cánh vàng
+- (từ lóng) đồng tiền vàng
+
+@goldfish  
+*  dt
+- (động vật học) cá vàng
+
+@gold-foil  
+*  dt
+- vàng lá
+
+@gold-leaf  
+*  dt
+- vàng lá
+
+@gold-mine  
+*  dt
+- mỏ vàng
+- (nghĩa bóng) nguồn lợi lớn
+
+@gold-mining
+* dt
+- việc đào mỏ vàng
+ @gold-plate  
+*  ngdgt
+- mạ vàng
+
+@gold-rush  
+*  dt
+- cuộc đổ xô đi tìm vàng
+
+@goldsmith  
+*  dt
+- thợ vàng
+
+@goldstone
+* dt
+- (khoáng chất) aventurin
+ @gold-washer  
+*  dt
+- người đãi vàng
+
+@gold-washing  
+*  dt
+- sự đãi vàng
+
+@golf  
+*  dt
+- (thể dục,thể thao) môn đánh gôn
+*  ndgt
+- (thể dục,thể thao) chơi gôn
+
+@golf ball
+* dt
+- (môn đánh gôn) quả bóng
+ @golf club
+* dt
+- câu lạc bộ của những người chơi gôn
+* dt
+- gậy đánh gôn
+ @golf-club  
+*  dt
+- gậy đánh gôn
+- câu lạc bộ của những người chơi gôn
+
+@golf-course
+* dt, pl
+- bãi chơi gôn
+ @golf-court
+* dt
+- sân gôn
+ @golfer  
+*  dt
+- người chơi gôn
+
+@golf-jacket
+* dt
+- áo mặc chới gôn
+ @golf-links  
+*  dt số nhiều
+- bãi chơi gôn
+
+@goliath  
+*  dt
+- người khổng lồ
+- cần trục khổng lồ ((cũng) goliath crane)
+
+@golliwog  
+*  dt
+- búp bê mặt đen
+- ông ba bị
+
+@gollop
+* ngdgt
+- (thông tục) nuốt chửng
+* dt
+- sự nuốt chửng
+ @golly  
+*  thán từ (từ Mỹ,nghĩa Mỹ),  (thông tục)
+- by golly! trời!, chao ôi!
+
+@goloptious   (goloptious) @golosh   (golosh) @goluptious   (goloptious) @gombeen  
+*  dt
+- sự cho vay nặng lãi
+
+@gombroon
+* dt
+- cũng gomroon
+- sứ Ba-tư trắng
+ @gomeril
+* dt
+- cũng gomeral
+- (phương ngữ) người ngốc
+ @gomorrah
+* dt
+- nơi nổi tiếng hư hỏng trụy lạc (tên thành phố trong (kinh thánh))
+ @gonad
+* dt
+- (sinh học) tuyến sinh dục
+ @gonadal
+- Cách viết khác : gonadic 
+ @gonade  
+*  dt số nhiều
+- bộ sinh dục
+
+@gonadectomized
+* tt
+- bị cắt buồng trứng, bị thiến
+ @gonadectomy
+* dt
+- việc cắt buồng trứng; việc thiến
+ @gonadic
+- như gonadal
+ @gonadin
+* dt
+- gonadin
+ @gonadotrophic
+- Cách viết khác : gonadotropic 
+ @gonadotrophin
+- Cách viết khác : gonadotropin 
+ @gonadotropic
+- như gonadotrophic
+ @gonadotropin
+* dt
+- như gonadotrophin
+ @gonaduct
+* dt
+- ống dẫn sản phẩm sinh dục; ống dẫn trứng; ống dẫn tinh
+ @gonal
+* tt
+- thuộc bào tử nội sinh
+ @gonangium
+* dt
+- bào tử nội sinh
+ @gondi
+* dt
+- một ngôn ngữ đra-vi-điên ở Trung ấn-độ
+ @gondola  
+*  dt
+- thuyền đáy bằng (để dạo chơi ở những sông đào trong thành phố Vơ-ni-dơ)
+- giỏ khí cầu
+
+@gondolier  
+*  dt
+- người chèo thuyền đáy bằng
+
+@gone  
+*  động tt quá khứ của go
+*  tt
+- đã đi, đã đi khỏi; đã trôi qua, đã qua
+- mất hết, hết hy vọng
+
++ a gone case: (thông tục) trường hợp không còn hy vọng gì; việc không còn nước non gì
+
++ a gone man: người hư hỏng, người bỏ đi, người không còn hòng gì mở mặt mở mày được nữa
+- chết
+!to be far gone in
+- ốm liệt giường (về bệnh gì)
+- bò đấu, ngập đầu (cào công việc gì)
+!to be gone on somebody
+- (từ lóng) mê ai, say mê ai
+
+@goneness
+* dt
+- tình trạng kiệt sức
+ @goner  
+*  dt
+- (từ lóng) người hư hỏng, người bỏ đi, người không còn hòng gì mở mặt mở mày được nữa
+
+@gonfalon  
+*  dt
+- cờ hiệu
+- cờ đuôi nhọn
+
+@gonfalonier  
+*  dt
+- người cắm cờ hiệu
+
+@gong  
+*  dt
+- cái cồng, cái chiêng
+- chuông đĩa
+- (từ lóng) huy chương, mề đay
+*  ngdgt
+- đánh cồng bắt ngừng lại, rung chuông bắt ngừng lại (xe cộ)
+
+@gongorism
+* dt
+- văn phong cầu kỳ giả tạo
+ @gongoristic
+* tt
+- thuộc văn phong cầu kỳ giả tạo
+ @gonia
+* dt số nhiều
+- nguyên bào sinh dục
+ @gonic
+* tt
+- thuộc thể sinh sản, tinh dịch
+ @gonid
+* dt
+- (sinh học) tế bào lục (lục sắc bào); bào tử nội sinh; tế bào sinh sản vô tính
+ @gonidiferous
+* tt
+- xem gonid, chỉ chứa
+ @gonidioid
+* tt
+- xem gonid chỉ dạng
+ @gonidium
+* dt số nhiều
+- xem gonid
+ @goniocarpous
+* tt
+- (thực vật) có quả vuông cạnh
+ @goniocladous
+* tt
+- (thực vật) có cành vuông cạnh
+ @goniocyst
+* dt
+- kén vuông cạnh
+ @goniometer  
+*  dt
+- máy đo góc
+
+@goniometry  
+*  dt
+- phép đo góc
+
+@goniometry
+- (hình học) phép đo góc
+ @gonion
+* dt
+- điểm góc hàm dưới
+ @goniophyllous
+* tt
+- có lá vuông cạnh
+ @goniospermous
+* tt
+- có hạt vuông cạnh
+ @gonium
+* dt
+- nguyên bào sinh sản
+ @gonk
+* dt
+- búp bê hình trứng bằng chất liệu mềm
+ @gonna
+- trợ dgt
+- (từ Mỹ) sắp, sẽ
+ @gonoblast
+* dt
+- tế bào sinh sản (trong động vật)
+ @gonoblastid
+- Cách viết khác : gonoblastidium 
+ @gonocalyx
+* dt
+- (thực vật) đài thể sinh sản
+ @gonocytes
+* dt số nhiều
+- tế bào sinh dục
+ @gonof   (gonoph) @gonogenesis
+* dt
+- sự hình thành giao tử
+ @gonoph   (gonoph) @gonophore
+* dt
+- (sinh học) cuống nhị-nhụy; thể sinh sản
+ @gonophoric
+* tt
+- xem gonophore chỉ thuộc về
+ @gonopod
+* dt
+- (sinh học) vây giao cấu; chân giao cấu
+ @gonorrhea  
+*  dt
+- (y học) bệnh lậu
+- sự chảy mủ lậu
+
+@gonorrheal
+* tt
+- thuộc bệnh lậu
+ @gonorrhoea
+* dt
+- như gonorrhea
+* dt
+- như gonorrhea
+ @goo  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) vật nhờn, cái dính nhớp nháp
+
+@goober  
+*  dt
+- lạc ((cũng) goober pea)
+
+@good  
+*  tt better,  best
+- tốt, hay, tuyệt
+
++ very good!: rất tốt!, rất hay!, tuyệt
+
++ a good friend: một người bạn tốt
+
++ good men and true: những người tốt bụng và chân thật
+
++ good conduct: hạnh kiểm tốt
+
++ a good story: một câu chuyện hay
+
++ good wine: rượu ngon
+
++ good soil: đất tốt, đất màu mỡ
+
++ a person of good family: một người xuất thân gia đình khá giả
+
++ good to eat: ngon, ăn được
+- tử tế, rộng lượng, thương người; có đức hạnh, ngoan
+
++ to be good to someone: tốt bụng với ai, tử tế với ai
+
++ how good of your!: anh tử tế quá!
+
++ good boy: đứa bé ngoan
+- tươi (cá)
+
++ fish does not keep good in hot days: cá không giữ được tươi vào những ngày nóng bức
+- tốt lành, trong lành, lành; có lợi
+
++ doing exercies is good for the health: tập thể dục có lợi cho sức khoẻ
+- cừ, giỏi, đảm đang, được việc
+
++ a good teacher: giáo viên dạy giỏi
+
++ a good worker: công nhân lành nghề, công nhân khéo
+
++ a good wife: người vợ đảm đang
+- vui vẻ, dễ chịu, thoải mái
+
++ good news: tin mừng, tin vui, tin lành
+!to have a good time
+- được hưởng một thời gian vui thích
+
++ a good joke: câu nói đùa vui nhộn
+- hoàn toàn, triệt để; ra trò, nên thân
+
++ to give somebody a good beating: đánh một trận nên thân
+- đúng, phải
+
++ it is good to help others: giúp mọi người là phải
+
++ good! good!: được được!, phải đấy!
+- tin cậy được; an toàn, chắc chắn; có giá trị
+
++ good debts: món nợ chắc chắn sẽ trả
+
++ a good reason: lý do tin được, lý do chính đáng
+- khoẻ, khoẻ mạnh, đủ sức
+
++ to be good for a ten-mile walk: đủ sức đi bộ mười dặm
+
++ I feel good: (từ Mỹ,nghĩa Mỹ) tôi cảm thấy khoẻ
+- thân, nhà (dùng trong câu gọi)
+
++ don't do it, my good friend!:(mỉa mai) đừng làm thế ông bạn ơi!
+
++ how's your good man?: ông nhà có khoẻ không (thưa) bà?
+
++ how's your good lady?: bà nhà có khoẻ không ông?
+- khá nhiều, khá lớn, khá xa
+
++ a good deal of money: khá nhiều tiền
+
++ a good many people: khá nhiều người
+
++ we've come a good long way: chúng tôi đã từ khá xa tới đây
+- ít nhất là
+
++ we've waited for your for a good hour: chúng tôi đợi anh ít nhất là một tiếng rồi
+!as good as
+- hầu như, coi như, gần như
+
++ as good as dead: hầu như chết rồi
+
++ the problem is as good as settled: vấn đề coi như đã được giải quyết
+
++ to be as good as one's word: giữ lời hứa
+!to do a good turn to
+- giúp đỡ (ai)
+![as] good as pie
+- rất tốt, rất ngoan
+![as] good as wheat
+- (từ Mỹ,nghĩa Mỹ) rất tốt, rất xứng đáng, rất thích hợp
+!good day!
+- chào (trong ngày); tạm biệt nhé!
+!good morning!
+- chào (buổi sáng)
+!good afternoon!
+- chào (buổi chiều)
+!good evening!
+- chào (buổi tối)
+!good night!
+- chúc ngủ ngon, tạm biệt nhé!
+!good luck!
+- chúc may mắn
+!good money
+- (thông tục) lương cao
+!to have a good mind to do something
+- có ý muốn làm cái gì
+!in good spirits
+- vui vẻ, phấn khởi, phấn chấn
+!to make good
+- thực hiện; giữ (lời hứa)
+!to make good one's promise
+- giữ lời hứa, làm đúng như lời hứa
+- bù đắp lại; gỡ lại, đền, thay; sửa chữa
+
++ to make good one's losses: bù lại những cái đã mất
+
++ to make good the casualties: (quân sự) bổ sung cho số quân bị chết
+- xác nhận, chứng thực
+- (từ Mỹ,nghĩa Mỹ) làm ăn phát đạt, thành công, tiến bộ
+
++ to make good in a short time: phất trong một thời gian ngắn (nhà buôn)
+
++ to make good at school: học tập tiến bộ ở trường (học sinh)
+!to stand good
+- vẫn còn giá trị; vẫn đúng
+!to take something in good part
+- (xem) part
+!that's a good one (un)!
+- (từ lóng) nói dối nghe được đấy! nói láo nghe được đấy!
+!the good people
+- các vị tiên
+*  dt
+- điều thiện, điều tốt, điều lành
+
++ to do good: làm việc thiện, làm phúc
+
++ to return good for evil: lấy ân báo oán
+- lợi, lợi ích
+
++ to be some good to: có lợi phần nào cho
+
++ to work for the good of the people: làm việc vì lợi ích của nhân dân
+
++ to do more harm than good: làm hại nhiều hơn lợi
+
++ it will do you good to do physical exercises in the morning: tập thể dục buổi sáng có lợi cho anh
+
++ what good is it?: điều ấy có lợi gì?
+- điều đáng mong muốn, vật đáng mong muốn
+- những người tốt, những người có đạo đức
+!to be up to no good; to be after no good
+- đang rắp tâm dở trò ma mãnh gì
+!to come to good
+- không đi đến đâu, không đạt kết quả gì, không làm nên trò trống gì
+!for good [and all]
+- mãi mãi, vĩnh viễn
+
++ to stay here for good [and all]: ở lại đây mãi mãi
+
++ to be gone for good: đi mãi mãi không bao giờ trở lại
+
++ to refuse for good [and all]: nhất định từ chối, khăng khăng từ chối
+!to the good
+- được lâi, được lời
+
++ to be 100dd to the good: được lời 100dd
+
++ it's all to the good: càng hay, càng lời, càng tốt
+
+@good
+- tốt
+ @good breeding  
+*  dt
+- sự có giáo dục, sự lễ độ
+
+@good faith
+* dt
+- ý tốt, hảo ý, thiện ý
+ @good friday
+* dt
+- ngày kỷ niệm Đức Chúa Giêxu bị đóng đinh, thứ sáu tuần thánh
+ @good humour
+* dt
+- trạng thái tinh thần vui vẻ, trạng thái phấn chấn
+ @good looks  
+*  dt số nhiều
+- vẻ đẹp, nét đẹp (người)
+
+@good nature
+* dt
+- sự tử tế, sự đôn hậu
+ @good sense  
+*  dt
+- lương tri, lẽ phải, lẽ thường
+
+@good-bye  
+*  dt
+- lời chào tạm biệt, lời chào từ biệt
+
++ to say good-bye to somebody: chào từ biệt ai, chia tay ai
+
++ to with (bid) someone good-bye: tạm biệt ai, từ biệt ai
+*  thán từ
+- tạm biệt
+
++ good-bye for the present!: tạm biệt!
+
++ good-bye to the holidays: tạm biệt những ngày hè! thôi thế là hết những ngày hè!
+
+@good-class  
+*  tt
+- có giáo dục, con nhà gia thế (người)
+- thượng hạng (vật)
+
+@good-conduct  
+*  tt
+- có hạnh kiểm tốt
+
++ a good-conduct certificate: giấy chứng nhận hạnh kiểm tốt
+
+@good-crop
+* dt
+- mùa được to
+ @good-fellow
+* dt
+- bạn tốt; bạn chơi được
+ @good-fellowhood
+* dt
+- tình thân giao
+ @good-fellowship  
+*  dt
+- tính vui vẻ cởi mở, tính dễ gần
+
+@good-for-nothing   (good-for-nought) @good-for-nought   (good-for-nought) @Goodhart's law
+- (Econ) Luật Goodhart.
+: Một quy luật mang tên nhà kinh tế Goodhart cho rằng bất cứ tổng lượng tiền nào được chọn làm biến mục tiêu thì cũng đều bị bóp méo bởi chính những hành động vào mục tiêu đó.
+ @good-hearted  
+*  tt
+- tốt bụng, từ bi
+
+@good-humored   (good-humoured) @good-humoredly
+- xem good-humored
+ @good-humoredness
+- xem good-humored
+ @good-humoured   (good-humoured) @goodie
+* dt
+- goody
+ @goodish  
+*  tt
+- khá tốt, kha khá
+
++ it's a goodish step from here: từ đây đến đấy cũng khá xa
+
+@goodliness
+- xem goodly
+ @good-looker  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người đẹp
+
+@good-looking  
+*  tt
+- đẹp, đẹp trai
+- có vẻ tốt, có vẻ phúc hậu
+
+@goodly  
+*  tt
+- đẹp, có duyên
+- to tát, to lớn, đáng kể)
+-(mỉa mai) đẹp gớm, to tát gớm
+
+@goodman  
+*  dt
+- (từ cổ,nghĩa cổ) chủ nhà, chủ gia đình; người chồng
+
+@good-natured  
+*  tt
+- tốt bụng, bản chất tốt, hiền hậu
+
+@good-naturedly
+- xem good-natured
+ @good-naturedness
+- xem good-natured
+ @good-neighbourhood   (good-neighbourliness) @good-neighbourliness   (good-neighbourliness) @good-neighbourly  
+*  tt
+- có quan hệ láng giềng tốt
+
+@goodness  
+*  dt
+- lòng tốt, tính tốt, lòng hào hiệp
+- tính chất
+
++ to extract all the goodness out of something: rút từ cái gì ra tất cả tinh chất
+- ((thường) dùng như thán từ) ơn trời!
+
++ for Goodness sake!: vì Chúa!
+
++ thank Goodness!: cảm ơn Chúa!; nhờ Chúa!
+
++ Goodness knows!: có trời biết!
+
+@goodness
+- tính chất tốt
+- g. of fit (thống kê) sự phù hợp 
+ @Goodness of fit
+- (Econ) Mức độ phù hợp.
+: Một cụm thuật ngữ chung mô tả mức độ phù hợp số liệu của một phương trình kinh tế lượng đựơc ứơc lượng.
+ @goods  
+*  dt số nhiều
+- của cải, động sản
+- hàng hoá, hàng
+
++ production of goods: sự sản xuất hàng hoá
+- hàng hoá chở (trên xe lửa)
+
++ a goods train: xe lửa chở hàng
+
++ by goods: bằng xe lửa chở hàng
+!to deliver the goods
+- (xem) deliver
+!a nice little piece of goods
+-(đùa cợt) một món khá xinh
+
+@Goods
+- (Econ) Các hàng hoá tốt.
+: Các hàng hoá hữu hình có đóng góp tích cực vào PHÚC LỢI KINH TẾ. Phân biệt với hàng xấu.
+ @goods
+- hàng hoá
+- sportg., g. in stock hàng hiện có 
+ @good-tempered  
+*  tt
+- thuần tính, thuần hậu
+
+@good-temperedly
+- xem good-tempered
+ @good-temperedness
+- xem good-tempered
+ @goodwife  
+*  dt
+- (từ cổ,nghĩa cổ) bà chủ nhà; người vợ
+
+@goodwill  
+*  dt
+- thiện ý, thiện chí; lòng tốt
+
++ people of goodwill: những người có thiện chí
+- (thương nghiệp) khách hàng; sự tín nhiệm (đối với khách hàng)
+- (thương nghiệp) đặc quyền kế nghiệp
+
+@Goodwill
+- (Econ) Thiện chí.
+: Một thuật ngữ được sử dụng trong hạch toán tài sản vô hình thường được đo bằng sự chênh lệch giữa giá trả cho một công việc đang tiến hành và giá trị trên giấy của nó.
+ @goody  
+*  dt (thông tục)
+- kẹo
+- (như) goody-goody
+*  tt
+- (như) goody-goody
+
+@goody-goody   (goody) @gooey  
+*  tt (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- dính nhớp nháp
+- sướt mướt
+
+@goof  
+*  dt
+- (từ lóng) người ngu, người ngốc
+
+@goofball
+* dt
+- (từ Mỹ, nghĩa Mỹ) người dở hơi
+ @go-off  
+*  dt (thông tục)
+- lúc xuất phát, lúc bắt đầu
+- điểm xuất phát
+
+@goofily
+- xem goofy
+ @goofiness
+- xem goofy
+ @goofy  
+*  tt
+- (từ lóng) ngu, ngốc
+
+@googly
+* dt
+- (crickê) bóng dội ngược
+ @goo-goo
+* tt
+- đáng yêu; tình tứ
+ @gook
+* dt
+- (từ Mỹ, nghĩa Mỹ) người da nâu hay da vàng
+ @goon  
+*  dt (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- người ngu đần, người ngu ngốc
+- kẻ khủng bố thuê (được thuê tiền để khủng bố anh em công nhân)
+
+@goony
+* tt
+- xem goon chỉ thuộc về
+ @goosander  
+*  dt
+- (động vật học) vịt mỏ nhọn
+
+@goose  
+*  dt,  số nhiều geese
+- (động vật học) ngỗng, ngỗng cái
+- thịt ngỗng
+- người ngốc nghếch, người khờ dại
+!all his geese are swans
+- (xem) swan
+!can't say bo to a goose
+- (xem) bo
+!to cook that lays the golden eggs
+- tham lợi trước mắt
+*  dt,  số nhiều gooses
+- bàn là cổ ngỗng (của thợ may)
+
+@gooseberry  
+*  dt
+- (thực vật học) cây lý gai
+- quả lý gai
+- rượu lý gai ((cũng) gooseberry wine)
+!to play gooseberry
+- đi kèm theo một cô gái để giữ gìn; đi kèm theo một cặp nhân tình để giữ gìn
+
+@gooseberry fool
+* dt
+- món tráng miệng làm bằng quả lý gai giã nát trộn kem
+ @goose-egg  
+*  dt
+- trứng ngỗng
+- số không (tính điểm trong các trò chơi)
+
+@goose-file
+* dt
+- hàng một
+* dt
+- thành hàng một
+ @goose-flesh   (goose-skin) @goose-foot
+* dt; số nhiều goose-foots
+- (thực vật) cây rau muối
+ @goose-gog
+* dt
+- xem gooseberry
+ @goose-grease  
+*  dt
+- mỡ ngỗng
+
+@gooseherd  
+*  dt
+- người chân ngỗng
+
+@goose-mouthed
+* tt
+- môi trên trề ra
+ @goose-neck  
+*  dt
+- vật hình cổ ngỗng
+- (kỹ thuật) cái khuỷ
+
+@goose-pimples
+* dt
+- như goose-flesh
+* dt
+- như goose-flesh
+ @goose-quill  
+*  dt
+- lông ngỗng ((thường) dùng làm bút)
+
+@goosery
+* dt
+- nơi nuôi ngỗng
+ @goose-skin   (goose-skin) @goose-step
+* dt
+- kiểu đi không gập đầu gối
+ @goose-stepper
+* dt
+- người bước đi theo lối chân ngỗng
+ @goosey  
+*  dt
+- người ngốc nghếch, người khờ dại
+
+@gop  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) (GOP) đảng Cộng hoà
+
+@gopher  
+*  dt (động vật học)
+- chuột túi
+- chuột vàng
+- rùa đất
+*  dt & ngdgt
+- (như) gofer,  goffer
+
+@Gopher
+- (Tech) Gopher (tên một hệ thống hoa tiêu khách chủ để truy cập thông tin trên mạng)
+ @gophering
+* dt
+- sự đào đường ngầm; sự đào đường hầm
+- sự đào địa đạo
+- sự khai thác bừa bãi
+ @gopster  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đảng viên đảng Cộng hoà
+
+@goral
+* dt
+- (động vật) sơn dương goran
+ @gordian knot  
+*  dt
+- vấn đề hắc búa, vấn đề rắc rối, vấn đề phức tạp, vấn đề khó giải quyết
+
++ to cut the gordian_knot: giải quyết nhanh một vấn đề hắc búa (bằng vũ lực...)
+
+@gore  
+*  dt
+- máu đông
+- (thơ ca) máu
+
++ to lie in one's gore: nằm trong vũng máu
+*  ngdgt
+- húc (bằng sừng)
+
++ to be gore d to death: bị húc chết
+- đâm thủng (thuyền bè...) (đá ngầm)
+*  dt
+- vạt chéo, mảnh vải chéo (áo, váy, cánh buồm...)
+- mảnh đất chéo, doi đất
+*  ngdgt
+- cắt thành vạt chéo
+- khâu vạt chéo vào (áo, váy, cánh buồm...)
+
+@gore
+- múi (cầu)
+ @gorge  
+*  dt
+- những cái đã ăn vào bụng
+
++ to raise the gorge: nổi giận
+
++ to can the gorge: lộn mửa vì ghê tởm
+- hẽm núi, đèo
+- cửa hẹp vào pháo đài
+- (kiến trúc) rãnh máng
+- sự ngốn, sự nhồi nhét (thức ăn)
+*  dgt
+- ngốn; tọng vào, nhồi nhét vào (thức ăn)
+
+@gorgeous  
+*  tt
+- rực rỡ, lộng lẫy, đẹp đẽ, tráng lệ, huy hoàng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tuyệt đẹp, kỳ diệu
+
++ a gorgeous woman: một người đàn bà tuyệt đẹp
+- hoa mỹ, bóng bảy (văn)
+
+@gorgeously
+* dt
+- lộng lẫy, tráng lệ, tuyệt vời
+ @gorgeousness  
+*  dt
+- vẻ rực rỡ, vẻ lộng lẫy, vẻ đẹp đẽ, vẻ tráng lệ, vẻ huy hoàng
+- tính hoa mỹ, tính bóng bảy (văn)
+
+@gorger
+- xem gorge
+ @gorget  
+*  dt
+- (sử học) phần che bọng (của áo giáp)
+- vòng cổ
+- khăn quàng (của phụ nữ)
+- khoang cổ (chim)
+
+@gorgon  
+*  dt
+- nữ thần tóc rắn (thần thoại Hy lạp)
+- người đàn bà xấu như quỷ dạ xoa
+!a gorgon stare
+- cái nhìn trừng trừng
+
+@gorgonian
+* dt
+- san hô sừng
+ @gorgonize  
+*  ngdgt
+- ((thường) : at) nhìn trừng trừng
+
+@gorgonzola
+* dt
+- phó mát có nhiều kem của Y
+ @gorilla  
+*  dt
+- (động vật học) con gôrila
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kẻ giết người, cướp của
+- (từ lóng) người bảo vệ của nhân vật quan trọng
+
+@gorily
+- xem gory
+ @goriness  
+*  dt
+- tình trạng dây đầy máu; sự vấy máu, sự đẫm máu
+- (thơ ca) tình trạng đỏ như máu
+
+@gormand
+* tt
+- ăn tham; ăn nhiều
+* dt
+- người ăn tham; người ăn nhiều
+ @gormandise   (gormandize) @gormandiser
+* dt
+- người phàm ăn
+ @gormandize   (gormandize) @gormandizer  
+*  dt
+- người phàm ăn
+
+@gormless  
+*  tt
+- (thực vật học) ngu xuẩn, vô ý thức
+
+@gormlessly
+* dt
+- ngu xuẩn, dại dột
+ @gormlessness
+* dt
+- sự ngu xuẩn, sự dại dột
+ @gorse  
+*  dt
+- (thực vật học) cây kim tước
+
+@gorsy  
+*  tt
+- có nhiều cây kim tước
+
+@gory  
+*  tt
+- dây đầy máu; vấy máu, đẫm máu
+- (thơ ca) đỏ như máu
+
+@gosh  
+*  thán từ
+- by gosh! thật kỳ quá! Kỳ chưa!
+
+@goshaw
+* dt
+- (động vật) chim ó
+ @goshawk  
+*  dt
+- (động vật học) chim ó
+
+@gosling  
+*  dt
+- ngỗng con, ngỗng non
+
+@gosling-green
+* dt
+- màu vàng lục
+ @go-slow  
+*  dt
+- sự lãn công
+
+@gospel  
+*  dt
+- (tôn giáo) sách phúc âm
+- cẩm nang, nguyên tắc chỉ đạo, điều tin tưởng
+
++ the gospel of health: cẩm nang giữ sức khoẻ
+- điều có thể tin là thật
+
++ to take one's dream for gospel: tin những giấc mơ của mình là thật
+!gospel truth
+- chân lý dạy trong sách Phúc âm
+- chân lý, sự thật đáng tin tưởng
+
+@gospeller  
+*  dt
+- (tôn giáo) người giảng sách phúc âm
+!hot gospeller
+- tín đồ Thanh giáo cuồng tín
+- người tuyên truyền hăng hái (của một thuyết gì)
+
+@gospel-shop
+* dt
+- giáo đường
+ @gospel-side
+* dt
+- phía bên trái bàn thờ, thánh đường
+ @Gosplan
+- (Econ) Uỷ ban kế hoạch (Liên Xô).
+: Một thuật ngữ tiếng Nga chỉ Uỷ ban kế hoạch nhà nước trước đây ở Liên Xô. Nó có trách nhiệm đề ra các kế hoạch sản xuất và chuyển cho các tổ chức thích hợp để thi hành.
+ @gosplan
+* dt
+- kế hoạch nhà nước (Liên-xô)
+ @gossamer  
+*  tt: (gossamery) @gossamery  
+*  tt: (gossamery) @gossan
+* dt
+- (địa chất) mũ sắt; mạch quặng lộ
+ @gossanous
+* tt
+- thuộc mũ sắt, mạch quặng lộ
+ @gossip  
+*  dt,  (cũng) gup (Anh-Ỡn)
+- chuyện ngồi lê đôi mách, chuyện tầm phào, tin đồn nhảm
+
++ a piece of gossip: câu chuyện tầm phào
+- người hay ngồi lê đôi mách, người hay nói chuyện tầm phào
+- chuyện nhặt nhạnh (trên báo chí)
+
++ a gossip column: cột nhặt nhạnh
+*  ndgt
+- ngồi lê đôi mách, nói chuyện tầm phào
+- viết theo lối nói chuyện tầm phào
+
+@gossiper  
+*  dt
+- người hay ngồi lê đôi mách, người hay kháo chuyện nói xấu; người hay nói chuyện tầm phào
+
+@gossipmonger
+* dt
+- như gossiper
+* dt
+- như gossiper
+ @gossipry  
+*  dt
+- chuyện ngồi lê đôi mách, chuyện tầm phào
+
+@gossipy  
+*  dt
+- thích ngồi lê đôi mách, thích kháo chuyện nói xấu; thích tán gẫu
+- tầm phào; nói xấu nhau (chuyện)
+- kể chuyện phiếm luận (văn)
+
++ a gossipy essay: một bài phiếm luận
+
+@gossoon  
+*  dt
+- Ai-len đứa bé, thằng bé
+
+@got  
+* xem get
+@goth  
+*  dt
+- giống người Gô-tích
+- người dã man, người thô lỗ, người cục cằn
+- người phá hoại những tác phẩm nghệ thuật
+
+@gotham
+* dt
+- tên một làng Anh
+* dtgười ngốc
+
++  a wise man of gotham:người khôn ở xứ ngốc
+ @gothic  
+*  tt
+- (thuộc) Gô-tích
+- theo kiến trúc gôtic
+- theo kiểu chữ gôtic
+- dã man; thô lỗ, cục cằn
+*  dt
+- người Gô-tích
+- tiếng Gô-tích
+- lối kiến trúc gôtic (vòm có đầu nhọn)
+- (ngành in) chữ gôtic
+
+@gothicism  
+*  dt
+- lối gôtic, kiểu gôtic
+- từ ngữ đặc Gô-tích
+- tính dã man; tính thô lỗ, tính cục cằn
+
+@gothicist
+* dt
+- người ham thích phong cách Gô-tích, kiến trúc Gô-tích
+ @gothicity
+* dt
+- tính Gố-tich
+ @go-thic-ize
+* ngdgt
+- Gôtich hoá
+ @gothite
+* dt
+- (khoáng chất) gơtit,  oxit sắt ngậm nước
+ @go-to-meeting  
+*  tt
+-(đùa cợt) bảnh, diện, dùng để mặc ngày hội (quần áo)
+
+@gotta
+* dgt
+- phải, cần phải
+ @gotten  
+*  (từ Mỹ,nghĩa Mỹ),  (từ cổ,nghĩa cổ) động tt quá khứ của get
+
+@gouache  
+*  dt
+- (hội họa) màu bột
+
+@gouda
+* dt
+- phó mát có mùi vị không gắt
+ @goudron
+* dt
+- nhựa đường
+ @gouge  
+*  dt
+- (kỹ thuật) cái đục máng, cái đục khum
+- rânh máng; lỗ đục tròn
+- (từ Mỹ,nghĩa Mỹ) sự lừa đảo, sự lừa gạt
+*  ngdgt
+- ((thường) : out) đục bằng, đục máng
+- khoét ra, moi ra, móc ra
+- (từ Mỹ,nghĩa Mỹ) lừa dối, lừa đảo, lừa gạt (ai)
+
+@gouger
+- xem gouge
+ @goulash  
+*  dt
+- món ragu Hung-ga-ri
+
+@gourd  
+*  dt
+- (thực vật học) cây bầu, cây bí
+- quả bầu, quả bí
+- bầu đựng nước (làm bằng quả bầu khô)
+!bottle gourd
+- (thực vật học) bầu nậm
+
+@gourmand  
+*  tt
+- thích ăn ngon; phàm ăn
+*  dt
+- người thích ăn ngon; người phàm ăn
+- người sành ăn
+
+@gourmet  
+*  dt
+- người sành ăn, người sành rượu
+
+@gout  
+*  dt
+- (y học) bệnh gút
+- giọt, cục (máu...)
+- vết vấy bẩn
+
+@goutiness  
+*  dt
+- tình trạng mắc bệnh gút
+
+@goutwater
+* dt
+- (kỹ thuật) nước mỏ chứa hyđro sunfua
+ @gouty  
+*  tt (y học)
+- (thuộc) bệnh gút; do bệnh gút
+- mắc bệnh gút
+
+@govern  
+*  dgt
+- cai trị, thống trị, cầm quyền (một nước)
+- quản trị, quản lý, lânh đạo (một thành phố, một xí nghiệp); cai quản (gia đình...); chỉ huy (một pháo đài)
+- khống chế, kiềm chế, đè nén (một dục vọng...)
+
++ to govern oneself: tự chủ được
+- chi phối, ảnh hưởng
+
++ to be governed by the opinions of others: bị ý kiến người khác chi phối
+
++ to be governed by what other people say: bị ảnh hưởng bởi những điều người khác nói
+- (ngôn ngữ học) chi phối
+
++ a noun governed by a preposition: một dt bị một giới từ chi phối
+- (vật lý); kỹ điều chỉnh
+
+@govern
+- điều khiển, điều chỉnh; cai quản
+ @governability  
+*  dt
+- tính có thể cai trị, tính có thể thống trị
+- tính có thể cai quản, tính có thể quản lý
+- tính có thể kiềm chế
+- tính có thể chi phối
+
+@governable  
+*  tt
+- có thể cai trị, có thể thống trị
+- có thể cai quản, có thể quản lý
+- có thể kiềm chế
+- có thể chi phối
+
+@governance  
+*  dt
+- sự cai trị, sự thống trị
+- sự cai quản; nhiệm vụ cai quản
+
+@governess  
+*  dt
+- cô giáo (dạy trẻ em ở gia đình)
+
+@governess-car   (governess-cart) @governess-cart   (governess-cart) @governing  
+*  dt
+- sự cai trị, sự thống trị
+- sự cai quản
+- (kỹ thuật),  (vật lý) sự điều chỉnh
+*  tt
+- cai trị, thống trị
+- cai quản, quản trị
+
++ the governing body of a college: hội đồng quản trị nhà trường
+- chủ đạo, chủ yếu, bao trùm
+
++ governing idea: tư tưởng chu đạo
+- điều chỉnh
+
+@government  
+*  dt
+- sự cai trị, sự thống trị
+- chính phủ, nội các
+
++ the Government of the Democratic Republic of Vietnam: chính phủ nước Việt Nam dân chủ cộng hoà
+
++ to form a government: lập chính phủ
+- chính quyền
+
++ central government: chính quyền trung ương
+
++ local government: chính quyền địa phương
+- chính thể
+
++ democratic government: chính thể dân chủ
+
++ monarchic government: chính thể quân chủ
+- bang; tỉnh (địa hạt dưới quyền cai trị của một viên thống đốc hoặc thủ hiến)
+- sự cai quản
+
++ under petticoat government: dưới sự cai quản của vợ; dưới quyền phụ nữ
+- sự kiềm chế
+
++ government of oneself: sự tự kiềm chế
+- (ngôn ngữ học) sự chi phối
+
+@Government deficit
+- (Econ) Thâm hụt của Chính phủ.
+: Xem BUDGET DEFICIT.
+ @Government expenditure
+- (Econ) Chi tiêu của chính phủ.
+: Muốn tìm hiểu chi tiết hơn, xem CHI TIÊU CÔNG CỘNG. Những chi tiêu này tạo nên một phần quan trọng của TỔNG CHI TIÊU và may mặc dù được coi là ngoại sinh trong MÔ HÌNH CHI TIÊU THU NHẬP đơn giản, vẫn chiếm giữ một vai trò quan trọng trong mô hình Keynes trong việc xác định MỨC THU NHẬP QUỐC DÂN CÂN BẰNG.
+ @government house  
+*  dt
+- dinh thống đốc
+
+@government issue
+
+ @government issue jane
+* dt, viết tắt là gij
+- nữ quân nhân Mỹ
+ @Government Nation Mortgage Association (GNMA)
+- (Econ) Hiệp hội cầm cố quốc gia của Chính phủ.
+: Cơ quan của chính phủ Mỹ trợ giúp thị trường cầm cố nhà ở.
+ @Government regulation
+- (Econ) Sự điều tiết của chính phủ.
+ @Government securities
+- (Econ) Chứng khoán của chính phủ.
+: Một cụm thuật ngữ chung chỉ số nợ có thể trao đổi được của chính phủ trung ương, từ thời hạn ngắn nhất, nghĩa là HỐI PHIẾU BỘ TÀI CHÍNH tới thời hạn rất dài và những khoản nợ không xác định ngày.
+ @Government spending and net taxes
+- (Econ) Chi tiêu của chính phủ và thuế ròng.
+ @Government spending on goods and services
+- (Econ) Chi tiêu của chính phủ cho hàng hoá và dịch vụ.
+ @governmental  
+*  tt
+- (thuộc) chính phủ
+- (thuộc) chính quyền
+
+@governmentalism
+* dt
+- thuyết chủ trương chính phủ nắm toàn quyền
+ @governmentalist
+* dt
+- người theo thuyết chủ trương chính phủ nắm toàn quyền
+ @governmentalize
+* ngdgt
+- kiểm soát, điều hành dựa theo chính phủ
+ @governmentally
+- xem government
+ @governor  
+*  dt
+- kẻ thống trị
+
++ the governors and the governed: kẻ thống trị và những người bị trị
+- thống sử, thủ hiến, thống đốc
+
++ the governor of Alabama State: thống đốc bang A-la-ba-ma
+- uỷ viên hội đồng quản trị (một trường học, một bệnh viện...)
+- thủ lĩnh; chủ
+- cha, bố
+- (kỹ thuật),  (vật lý) máy điều chỉnh máy điều tốc
+
+@governor
+- (điều khiển học) [bộ, cái] điều khiển, cái ổn định
+- speed g. bộ điều chỉnh tốc độ 
+ @governor-general  
+*  dt
+- toàn quyền
+
+@governor-generalship
+- xem governor-general
+ @governorship
+* dt
+- chức thống đốc, tỉnh trưởng, thủ lĩnh
+ @gowk
+* dt
+- (phương ngữ) người ngốc
+ @gown  
+*  dt
+- (sử học) áo tôga (La-mã xưa)
+- áo dài (của phụ nữ, mặc trong những dịp đặc biệt...)
+
++ an evening gown: áo dài mặc buổi tối
+- áo choàng (của giáo sư đại học, quan toà...)
+- giáo sư và học sinh trường đại học Ôc-phớt và Căm-brít (đối lại với dân thường hàng phố)
+
++ town and gown: dân thường hàng phố và những giáo sư và học sinh trường đại học Ôc-phớt và Căm-brít
+*  ngdgt (thường) dạng bị động
+- mặc, ăn bận
+
++ to be beautifully gowned: ăn mặc đẹp
+
+@gowned
+* tt
+- ăn mặc lễ phục
+ @gownsman  
+*  dt
+- giáo sư đại học; học sinh đại học
+- quan toà, luật sư
+- (từ hiếm,nghĩa hiếm) dân thường (đối lại với quân nhân)
+
+@goy
+* dt (số nhiều goyim hoặc goys)
+- tên Do Thái cho một người không phải là người Do Thái
+ @

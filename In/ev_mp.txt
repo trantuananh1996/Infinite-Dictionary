@@ -1,0 +1,13 @@
+@mp
+* dt
+- nghị sĩ (Member of Parliament)
+- quân cảnh (military police)
+- cảnh sát di chuyển bằng ngựa (mounted police)
+ @mpc
+- Tiêu chuẩn đối với phần cứng và phần mềm đa phương tiện do MPC Consortium cùng hợp tác xây dựng
+ @mpg
+- dặm @mphil
+- thạc sĩ triết học (Master of Philosophy)
+
++  to be an MPhil in history:là thạc sĩ sử học
+ @

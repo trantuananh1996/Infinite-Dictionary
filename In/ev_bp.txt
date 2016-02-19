@@ -1,0 +1,10 @@
+@bp
+* (viết tắt)
+- Công ty dầu lửa Anh quốc (British Petroleum)
+ @bpc
+* (viết tắt)
+- từ điển dược phẩm đặc chế Anh quốc (British Pharmaceutical Codex)
+ @bps
+- (vt của bits per second) số bit trong mỗi giây, bit @bps (bits per second)
+- (Tech) bps (bits mỗi giây)
+ @

@@ -1,0 +1,7 @@
+@pc
+- (vt của Personal Computer) máy tính cá nhân
+ @pcm
+- điều biến mã xung
+ @pcx
+- Đuôi mở rộng của tệp tin để chỉ rõ đó là loại tệp có chứa một đồ hình theo khuôn thức tệp đồ họa PCX, đầu tiên được xây dựng cho chương trình PC Paintbrush nhưng hiện nay được dùng rộng rãi trong các trình ứng dụng khác
+ @

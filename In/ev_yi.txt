@@ -1,0 +1,90 @@
+@yid
+* dt
+- <đùa> người Do Thái
+ @yiddish  
+*  dt
+- (Yiddish) tiếng I-đít (một thử tiếng Đức cổ của người Do thái ở Trung và Đông Âu)
+
+@yield  
+*  dt
+- sản lượng, hoa lợi (thửa ruộng); hiệu suất (máy...)
+
++ in full yield: có hiệu suất cao; đang sinh lợi nhiều
+- (tài chính) lợi nhuận, lợi tức
+- (kỹ thuật) sự cong, sự oằn
+*  ngdgt
+- (nông nghiệp) sản xuất, sản ra, mang lại
+
++ a tree yields fruit: cây sinh ra quả
+
++ this land yields good crops: miếng đất này mang lại thu hoạch tốt
+- (tài chính) sinh lợi
+
++ to yield 10%: sinh lợi 10 qịu nhường lại cho, nhượng lại cho
+
++ to yield precedence to: nhường bước cho
+
++ to yield submission: chịu khuất phục
+
++ to yield consent: bằng lòng
+- chịu thua, chịu nhường
+
++ to yield a point in a debate: chịu thua một điểm trong một cuộc tranh luận
+- (quân sự) giao, chuyển giao
+*  ndgt
+- (nông nghiệp); (tài chính) sinh lợi
+- đầu hàng, quy phục, hàng phục, khuất phục
+
++ to be determined never to yield: cương quyết không đầu hàng
+
++ to yield to force: khuất phục trước sức mạnh
+- chịu thua, chịu lép, nhường
+
++ to yield to none: chẳng nhường ai, không chịu thua ai
+- cong, oằn
+
++ to yield under a weight: cong (oằn) dưới sức nặng
+!to yield up
+- bỏ
+
++ to yield oneself up to: dấn thân vào
+!to yield up the ghost
+- chết
+
+@yield
+- cho; tiến hành
+ @yield capacity  
+*  dt
+- năng suất
+
+@Yield on external debt
+- (Econ) Lãi trên nợ nước ngoài.
+ @Yield on investment
+- (Econ) Lợi nhuận từ đầu tư.
+ @yield stress  
+*  dt
+- (kỹ thuật) ứng suất đàn hồi
+
+@yielding  
+*  tt
+- mềm, dẻo, đàn hồi
+- mềm mỏng, hay nhân nhượng, dễ tính
+- (nông nghiệp); (tài chính) đang sinh lợi
+- (kỹ thuật) cong, oằn
+
+@yieldingly
+* dt
+- mềm mỏng, dễ dãi
+ @yin
+* dt
+- Âm (trong thuyết Âm dương của Trung Quốc)
+ @yip  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sự cãi lại
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cãi lại
+
+@yippee
+- interj
+- biểu lộ sự vui mừng
+ @

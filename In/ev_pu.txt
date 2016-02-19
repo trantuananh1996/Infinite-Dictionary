@@ -1,0 +1,3213 @@
+@pub  
+*  dt,  (thông tục) (viết tắt) của public house
+- quán rượu, tiệm rượu
+- quán trọ, quán ăn
+
+@pub crawl
+* dt
+- cuộc rượu chè la cà
+ @pubby
+* tt
+- có không khí quán rượu
+ @puberal
+- xem puberty
+ @pubertal
+- xem puberty
+ @puberty  
+*  dt
+- tuổi dậy thì
+
++ age of puberty: tuổi dậy thì
+
+@puberulent
+* tt
+- có lông măng, phủ lông măng
+ @pubes  
+*  dt
+- lông (mọc ở hạ bộ khi đến tuổi dậy thì)
+- chỗ mọc lông (ở hạ bộ khi đến tuổi dậy thì)
+
+@pubescence  
+*  dt
+- sự đến tuổi dậy thì
+- (sinh vật học) lông tơ
+
+@pubescent  
+*  tt
+- đến tuổi dậy thì
+- (sinh vật học) có lông tơ
+
+@pubic
+* tt
+- (thuộc) mu (trên phần dưới của bụng, gần cơ quan sinh dục)
+ @pubis  
+*  dt
+- (giải phẫu) xương mu
+
+@public  
+*  tt
+- chung, công, công cộng
+
++ public holiday: ngày lễ chung
+
++ public opinion: dư luận, công luận
+
++ public library: thư viện công cộng
+
++ public school: trường công
+
++ public utilities: những ngành phục vụ công cộng (điện, nước...)
+- công khai
+
++ to make a public protest: phản đối công khai
+
++ to give something public utterance: công bố cái gì
+*  dt
+- công chúng, quần chúng
+
++ to append to the public: kêu gọi quần chúng
+- nhân dân, dân chúng
+
++ the British public: nhân dân Anh
+- giới
+
++ the sporting public: giới ham chuộng thể thao
+
++ the reading public: giới bạn đọc
+- (thông tục),  (như) public_house
+!in public
+- giữa công chúng, công khai
+
+@public bar
+* dt
+- quầy rượu bình dân
+ @Public choice
+- (Econ) Sự lựa chọn công cộng.
+: Một ngành kinh tế học liên quan đến việc áp dụng kinh tế học vào việc phân tích sự quyết định Phi thị trường.
+ @Public company
+- (Econ) Công ty công cộng.
+: Xem COMPANY.
+ @public company
+* dt
+- <vt>  PLC, plc công ty cổ phần hữu hạn
+ @public convenience
+* dt
+- nhà vệ sinh công cộng
+ @public enemy  
+*  dt
+- chính quyền nước thù địch (nước đang có chiến tranh với nước mình)
+- kẻ thù chung (của loài người, xã hội...)
+
+@Public Expediture
+- (Econ) Chi tiêu công cộng.
+: Nói một cách rộng rãi, chi tiêu của các cơ quan  chính quyền địa phương và quốc gia được phân biệt với chi tiêu tư nhân, những tổ chức hoặc doanh nghiệp tư nhân.
+ @Public good
+- (Econ) Hàng hoá công cộng.
+: Một hàng hoá hoặc dịch vụ mà nếu đã cung cấp cho một người nào đó thì đối với những người khác cũng được cung cấp như vậy mà không phải chịu bất cứ chi phí nào thêm.
+ @public health  
+*  dt
+- y tế
+
+@public house  
+*  dt,  (viết tắt) pub
+- quán rượu, tiệm rượu
+- quán ăn, quán tr
+
+@Public issue
+- (Econ) Phát hành công cộng.
+: Phương pháp thực hiện một sự phát hành mới về CHỨNG KHOÁN trong đó cơ quan phát hành, chẳng hạn một công ty hoặc một chính quyền địa phương bán các chứng khoán một cách trực tiếp cho công chúng với mức giá ấn định.
+ @public lending right
+* dt
+- <vt>  PLR bản quyền cho thuê sách
+ @public life  
+*  dt
+- đời hoạt động cho xã hội, đời hoạt động cho lợi ích chung
+
+@public limited company
+* dt
+- <vt>  PLC, plc công ty cổ phần hữu hạn
+ @public nuisance
+* dt
+- <pháp> sự vi phạm trật tự công cộng
+- <thgt> người có cách cư xử làm cho mọi người khó chịu
+ @public opinion
+* dt
+- dư luận, công luận
+ @public opinion poll
+* dt
+- cuộc thăm dò dư luận dân chúng
+ @Public ownership
+- (Econ) Sở hữu công cộng
+ @public ownership
+* dt
+- quyền sở hữu công cộng; quyền công hữu
+ @public prosecutor
+* dt
+- <pháp> ủy viên công tố
+ @public record office
+* dt
+- (Public Record Office) Cục lưu trữ công cộng
+ @public relations  
+*  dt
+- mối liên hệ với quần chúng, mối quan hệ với quần chúng
+
+@public relations officer  
+*  dt
+- (viết tắt) P.R.O., người phụ trách tiếp xúc với quần chúng; người phụ trách báo chí
+
+@public school
+* dt
+- trường dân lập (nhất là ở Anh)
+- trường công (nhất là ở Mỹ)
+ @Public Sector Borrowing Requirement (PSBR)
+- (Econ) Nhu cầu vay của khu vực công cộng.
+: Tổng giá trị mà số thu của các tổ chức Khu vực công cộng thiếu hụt so với số chi.
+ @Public Sector Debt Repayment (PSDR)
+- (Econ) Hoàn trả nợ của khu vực công cộng.
+: Xem Pulic Sector Borrowing Requirement (PSBR).
+ @public spirit  
+*  dt
+- tinh thần chí công vô tư; tinh thần vì nước vì dân
+
+@public transport
+* dt
+- phương tiện giao thông công cộng
+ @Public utility
+- (Econ) Ngành dịch vụ công cộng
+: Một công ty hay xí nghiệp là người cung cấp duy nhất một loại hàng hoá hoặc dịch vụ thiết yếu nào đó, do đó phải chịu hình thức kiểm soát của chính phủ.
+ @public utility
+* dt
+- ngành dịch vụ công cộng (cấp nước, điện, mạng lưới xe búyt )
+ @Public utility regulation
+- (Econ) Điều tiết ngành dịch vụ công cộng.
+: Quy định của chính phủ về việc kiểm soát đối với các Dịch vụ công cộng có những yếu tố của sức mạnh độc quyền; mục đích nhừm hài hoà quản lý kinh doanh với lợi ích công cộng.
+ @public-address system  
+*  dt
+- (viết tắt) P.A, hệ thống tăng âm điện tử (trong các phòng họp, rạp hát...); hệ thống truyền thanh (có dây)
+
+@publican  
+*  dt
+- chủ quán
+- (sử học) người thu thuế
+
+@publication  
+*  dt
+- sự công bố
+- sự xuất bản (sách); sách báo xuất bản
+
+@publicise
+* ngdgt
+- đưa ra công khai; làm cho thiên hạ biết đến
+- quảng cáo, làm cho mọi người biết
+ @publicist  
+*  dt
+- nhà nghiên cứu về luật pháp quốc tế, chuyên gia về luật pháp quốc tế
+- nhà báo
+- người làm quảng cáo, người rao hàng
+
+@publicity  
+*  dt
+- tính công khai; sự làm cho thiên hạ biết đến
+
++ to court publicity: muốn làm cho thiên hạ biết đến
+
++ to give publicity to: đưa ra công khai, cho thiên hạ biết
+- sự quảng cáo, sự rao hàng
+
+@publicity agent
+* dt
+- nhân viên quảng cáo
+ @publicize  
+*  ngdgt
+- đưa ra công khai; làm cho thiên hạ biết đến
+- quảng cáo
+
+@publicly  
+*  dt
+- công khai
+
+@publicness
+- xem public
+ @public-opinion
+- xem public opinion
+ @public-spirited  
+*  tt
+- chí công vô tư
+- có tinh thần lo lợi ích chung; có tinh thần vì nước vì dân
+
+@public-spiritedness  
+*  dt
+- tinh thần chí công vô tư
+- tinh thần lo lợi ích chung; tinh thần vì nước vì dân
+
+@publish  
+*  ngdgt
+- công bố; ban bố (sắc lệnh...)
+- xuất bản (sách...)
+
+@publishable
+- xem publish
+ @publisher  
+*  dt
+- người xuất bản, nhà xuất bản (sách báo...)
+- (từ Mỹ,nghĩa Mỹ) chủ báo
+
+@publisher's reader
+* dt
+- ban tập viên, người đọc bản thảo (ở nhà xuất bản)
+ @publishing
+* dt
+- công việc xuất bản; nghề xuất bản
+ @publishing house  
+*  dt
+- nhà xuất bản
+
+@puccoon  
+*  dt
+- (thực vật học) có rể màu
+
+@puce  
+*  tt
+- nâu sẫm, nâu cánh gián
+*  dt
+- màu nâu sẫm, màu cánh gián
+
+@puck  
+*  dt
+- (thể dục,thể thao) bóng băng (chơi bóng gậy cong trên băng)
+*  dt
+- yêu tinh
+- (nghĩa bóng) đứa bé tinh nghịch
+
+@pucka   (pukka) @pucker  
+*  dt
+- nếp nhăn
+*  ngdgt
+- ((thường) : up) làm nhăn, cau (mày...); khâu dúm dó
+*  ndgt
+- nhăn lại, cau lại; dúm dó (đường khâu)
+
+@puckered
+* tt
+- nhàu nát; nhăn nheo
+ @puckery  
+*  tt
+- nhăn; làm nhăn
+
+@puckish  
+*  tt
+- tinh nghịch, tinh quái, như yêu tinh
+
+@puckishly
+- xem puckish
+ @puckishness
+- xem puckish
+ @pud  
+*  dt
+- cánh tay (em bé)
+- chân trước (một số động vật)
+
+@puddening  
+*  dt
+- (hàng hải) miếng độn, miếng lót (cho đỡ dầy da...)
+
+@pudder
+* ngdgt
+- làm náo loạn; gây hốt hoảng
+ @pudding  
+*  dt
+- bánh putđinh
+- dồi lợn
+- (từ lóng) bả chó
+- (hàng hải),  (như) puddening
+!more praise than pudding
+- có tiếng mà không có miếng
+!the proof of the pudding is in the eating
+- (xem) proof
+
+@pudding-face  
+*  dt
+- mặt phèn phẹt
+
+@pudding-head  
+*  dt
+- người đần, người ngu dốt
+
+@pudding-heart  
+*  dt
+- người hèn nhát
+
+@pudding-stone  
+*  dt
+- (địa lý,địa chất) cát kết đóng bánh
+
+@puddingy  
+*  tt
+- như bánh putđinh
+- (nghĩa bóng) đần, đần độn
+
+@puddle  
+*  dt
+- vũng nước (mưa...)
+- (thông tục) việc rắc rối, việc rối beng
+- đất sét nhâo (để láng lòng kênh...)
+*  ndgt
+- ((thường) : about) lội bùn, vầy bùn, lội trong vũng nước bẩn, vầy trong vũng nước bẩn
+- làm rối beng
+*  ngdgt
+- làm đục ngàu, làm ngàu bùn, làm sục bùn (nước...)
+- nhào (đất sét với cát) với nước (để láng lòng kênh...)
+- láng (lòng kênh) bằng đất sét nhào
+- (từ Mỹ,nghĩa Mỹ) cày ướt
+- (kỹ thuật) luyện putlinh (gang thành sắt)
+
+@puddler  
+*  dt
+- người nhào đất sét (để láng lòng kênh...)
+- (kỹ thuật) lò luyện putlinh (gang thành sắt)
+
+@puddling furnace  
+*  dt
+- (kỹ thuật) lò luyện putlinh (gang thành sắt)
+
+@puddly  
+*  tt
+- có vũng nước, có nhiều vũng nước
+- giống vũng nước; đục ngàu, ngàu bùn
+
+@pudency  
+*  dt
+- tính thẹn thò, tính bẽn lẽn, tính e lệ
+
+@pudenda  
+*  dt,  số nhiều pudenda  @pudendal
+- xem pudendum
+ @pudendum  
+*  dt,  số nhiều pudenda  @pudge  
+*  dt
+- (thông tục) người mập lùn; thú mập lùn
+
+@pudginess
+* dt
+- sự béo lùn, tình trạng mập lùn
+ @pudgy  
+*  tt
+- mập lùn
+
+@pudicity
+* dt
+- tính e thẹn, tính hay xấu hổ
+ @pudsy  
+*  tt
+- phúng phính, phốp pháp
+
+@pueblo  
+*  dt,  số nhiều pueblos  @puerile  
+*  tt
+- trẻ con, có tính chất trẻ con
+- tầm thường, vặt vânh, không đáng kể
+
+@puerilely
+- xem puerile
+ @puerilism
+* dt
+- chuyện trẻ con, chuyện tầm thường
+ @puerility  
+*  dt
+- tính trẻ con; trạng thái trẻ em
+- (số nhiều) chuyện trẻ con, trò trẻ con
+
+@puerperal  
+*  tt
+- (y học) đẻ, sản
+
++ puerperal fever: sốt sản
+
+@puerperium  
+*  dt
+- thời kỳ ở cữ, thời kỳ sinh đẻ
+
+@puerto rican  
+*  tt
+- (thuộc) Póoc-to-ri-cô
+*  dt
+- người Póoc-to-ri-cô
+
+@puff  
+*  dt
+- hơi thở phù, luồng gió thổi phụt qua; luồng hơi phụt ra, luồng khói phụt ra...
+- tiếng thổi phù; tiếng hơi phụt ra
+- hơi thuốc lá ngắn (hút thuốc)
+- chỗ phùng lên, chỗ bồng lên (ở tay áo); mớ tóc bồng
+- nùi bông thoa phấn ((cũng) powder puff)
+- bánh xốp
+- lời khen láo, lời tâng bốc láo; lời quảng cáo láo, lời quảng cáo khuếch khoác (một cuốn sách, một thứ hàng trên báo)
+*  ndgt
+- thở phù phù, phụt phụt ra
+
++ to puff and blow: thở phù phù, thở hổn hển
+- phụt khói ra, phụt hơi ra
+- hút bập bập, hút từng hơi ngắn (thuốc lá)
+
++ ro puff away at one's cigar: hút bập bập điếu xì gà
+- (: out,  up) phùng lên, phồng lên; (nghĩa bóng) vênh váo, dương dương tự đắc
+*  ngdgt
+- (: out,  up,  away) thổi phù, thổi phụt ra, phụt ra (khói, hơi...)
+- (: out) nói hổn hển, làm mệt đứt hơi
+
++ to be rather puffed: gần như mệt đứt hơi
+- hút bập bập, hút từng hơi ngắn (thuốc lá...)
+- (: out,  up) ((thường) động tt quá khứ) làm phùng lên, làm phồng lên; (nghĩa bóng) làm vênh váo, làm dương dương tự đắc
+
++ to be puffed up with pride: dương dương tự đắc
+- làm bồng lên; quảng cáo láo, quảng cáo khuếch khoác (sách, hàng... trên báo)
+
+@puff paste  
+*  dt
+- bột nhào nở (để làm bánh xốp...)
+
+@puff pastry
+* dt
+- bột nhào nở (làm bánh nướng, bánh ngọt )
+ @puff-adder  
+*  dt
+- (động vật học) rắn phì
+
+@puff-ball  
+*  dt
+- (thực vật học) nấm trứng
+
+@puff-box  
+*  dt
+- hộp phấn có nùi bông thoa
+
+@puffed
+* tt
+- <thgt> hổn hển,  (thở) một cách khó nhọc, hết hơi
+ @puffer  
+*  dt
+- người tâng bốc láo, người quảng cáo láo, người quảng cáo khuếch khoác (sách, hàng... trên báo)
+
+@puffery  
+*  dt
+- trò tâng bốc láo, trò quảng cáo láo, trò quảng cáo khuếch khoác; lời tâng bốc láo, lời quảng cáo láo, lời quảng cáo khuếch khoác (sách, hàng... trên báo)
+- chỗ may bồng lên (ở áo...)
+
+@puffily
+* dt
+- thổi phù; phụt ra từng luồng, có gió từng luồng
+- phù, phồng, sưng húp
+ @puffin  
+*  dt
+- (động vật học) chim hải âu rụt cổ
+
+@puffiness
+* dt
+- sự thổi phù; sự phụt ra từng luồng, tình trạng có gió từng luồng
+- sự phù, sự phồng, tình trạng sưng húp, tình trạng bị phồng lên
+ @puff-puff  
+*  dt
+- (số nhiều) máy phụt phụt, xe phụt phụt
+
+@puffy  
+*  tt
+- thổi phù; phụt ra từng luồng
+- thở hổn hển
+- phùng ram phồng ra, húp lên
+- béo phị
+
+@pug  
+*  dt
+- (động vật học) (như) pug-dog
+- (như) pug-nose
+- (từ lóng),  (viết tắt) của pugilist
+- đất sét trộn (để làm gạch...)
+*  ngdgt
+- nhào, trộn (đất sét)
+- bít, trát (sàn, tường...) bằng đất sét trộn
+*  dt
+- vết chân (thú săn)
+*  ngdgt
+- theo dõi vết chân (thú săn)
+
+@pug-dog  
+*  dt
+- giống chó púc, giống chó ỉ (một giống chó lùn, mặt ngắn)
+
+@pug-faced
+* tt
+- mặt như mặt khỉ
+ @puggaree   (puggaree) @pugging  
+*  dt
+- sự nhào trộn đất sét
+- đất sét trộn
+
+@puggree   (puggaree) @pugilism  
+*  dt
+- quyền Anh; thuật đấu quyền Anh
+
+@pugilist  
+*  dt
+- võ sĩ quyền Anh; võ sĩ
+- (nghĩa bóng) người thích tranh luận
+
+@pugilistic  
+*  tt
+- (thuộc) quyền Anh; (thuộc) võ sĩ quyền Anh
+
+@pug-mill  
+*  dt
+- máy nhào đất sét
+
+@pugnacious  
+*  tt
+- thích đánh nhau, hay gây gỗ
+
+@pugnaciously
+* dt
+- thích đánh nhau, hay gây gỗ
+ @pugnaciousness
+- xem pugnacious
+ @pugnacity  
+*  dt
+- tính thích đánh nhau, tính hay gây gỗ
+
+@pug-nose  
+*  dt
+- mũi tẹt và hếch
+
+@pug-nosed  
+*  tt
+- có mũi tẹt và hếch
+
+@puisne  
+*  tt
+- (pháp lý) cấp dưới
+
++ puisne judge: quan toà cấp dưới
+*  dt
+- (pháp lý) quan toà cấp dưới
+
+@puissance
+* dt
+- quyền lực; sức mạnh; uy lực
+ @puissant  
+*  tt
+- (từ cổ,nghĩa cổ); (thơ ca) hùng mạnh, hùng cường
+
+@puke  
+*  dt
+- sự nôn mửa
+*  dgt
+- nôn mửa
+
+@pukka   (pukka) @pukkah   (pukka) @pulchritude  
+*  dt
+- vẻ đẹp
+
+@pulchritudinous
+* tt
+- xinh đẹp
+ @pule  
+*  ndgt
+- khóc nheo nhéo, khóc nhai nhải; kêu nheo nhéo (trẻ con ốm...)
+
+@puler
+- xem pule
+ @pulicide
+* dt
+- thuốc diệt bọ chét
+ @puling
+* dt
+- tiếng khóc nhè (trẻ con)
+ @pulingly  
+*  dt
+- khóc nheo nhéo, khóc nhai nhải; kêu nheo nhéo
+
+@pull  
+*  dt
+- sự lôi, sự kéo, sự giật; cái kéo, cái giật
+
++ to give a pull at the belt: giật chuông một cái
+- sự kéo, sức đẩy, sự hút
+
++ pull of a magnet: sức hút của nam châm
+- nút kéo, nút giật (ngăn kéo, chuông...)
+
++ drawer pull: nút kéo của một ngăn bàn
+- sự chèo thuyền, sự gắng chèo (thuyền); cú bơi chèo
+
++ to go for a pull on the river: đi chơi chèo thuyền trên sông
+- hớp, hơi (uống rượu, hút thuốc...)
+
++ to have a pull at a cigarette: hút một hơi thuốc lá
+- sự gắng sức, sự cố gắng liên tục
+
++ a pull to the top of the mountain: sự cố gắng trèo lên đỉnh núi
+- sự ghìm (ngựa không cho thắng, trong cuộc đua ngựa)
+- (thể dục,thể thao) cú tay bóng sang trái (đánh crickê, gôn...)
+- (từ lóng) thế hơn, thế lợi
+
++ to have the pull of somebody: được thế lợi hơn ai
+- (nghĩa bóng) thân thế, thế lực
+- (ngành in) bản in thử đầu tiên
+*  ngdgt
+- lôi, kéo, giật
+
++ to pull the cart: kéo xe bò
+
++ to pull the bell: giật chuông
+
++ to pull someone by the sleeve: kéo tay áo ai
+
++ to pull someone's ear; to pull someone by the ear: bẹo tai ai
+
++ to pull on one's stocking: kéo bít tất lên
+
++ to pull one's cap over one's ears: kéo mũ chụp xuống tai
+- ((thường) : up) nhổ (răng...)
+- ngắt, hái (hoa...)
+- xé toạc ra, căng đến rách ra
+
++ to pull the seam of a dress: xé toạc đường khâu của chiếc áo
+
++ to pull one's muscle: duỗi căng bắp thịt đến sái ra
+- lôi kéo, tranh thủ, thu hút (khách hàng, sự ủng hộ...)
+- chèo (thuyền), được chèo bằng
+
++ this boat pulls four oars: thuyền này được chèo bằng bốn mái chèo
+- cố gắng làm, gắng sức làm
+
++ to pull up hill: gắng sức trèo lên đồi
+- (thông tục) ghìm (ngựa không cho thắng, trong cuộc đua); cố ý kìm sức lại
+
++ to pull one's punches: kìm lại không đấm hết sức (đấu quyền anh); không đấm được hết sức ((nghĩa bóng)) chỉ trích dè dặt
+- (thể dục,thể thao) tạt (quả bóng) sang trái (chơi crickê, gôn...)
+- (từ hiếm,nghĩa hiếm) moi ruột (chim, gà...)
+- (thông tục) làm, thi hành
+
++ to pull a raid: làm một cuộc bố ráp
+- (từ lóng) bắt (ai); mở một cuộc bố ráp ở (nơi nào)
+- (ngành in) in (một bản in thử) (ở máy in tay)
+*  ndgt
+- ((thường) : at) lôi, kéo, giật, cố kéo
+
++ to pull at something: kéo cái gì
+
++ the horse pulls well: con ngựa kéo tốt
+- uống một hơi, hút một hơi (rượu, thuốc lá...)
+- (thể dục,thể thao) tạt bóng sang trái (crickê, gôn)
+- có ảnh hưởng đối với, có tác dụng đối với
+
++ opinions that pull with the public: những ý kiến có ảnh hưởng đối với quần chúng
+!to pull about
+- lôi đi kéo lại, giằng co
+- ngược đãi
+!to pull apart
+- xé toạc ra
+- chê bai, chỉ trích, đả kích tơi bời
+!to pull down
+- kéo xuống, lật đổ, phá đổ (một ngôi nhà...)
+- (từ Mỹ,nghĩa Mỹ) hạ bệ; làm nhục
+- làm giảm (sức khoẻ...); giảm (giá...), làm chán nản
+!to pull for
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) tích cực, ủng hộ, cổ vũ, động viên
+- hy vọng ở sự thành công của
+!to pull in
+- kéo về, lôi vào, kéo vào
+- vào ga (xe lửa)
+- (từ lóng) bắt
+!to pull off
+- kéo bật ra, nhổ bật ra
+- thắng (cuộc đấu), đoạt giải
+- đi xa khỏi
+
++ the boat pulled off from the shore: con thuyền ra xa bờ
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) thực hiện, làm xong, làm trọn
+!to pull out
+- kéo ra, lôi ra
+
++ the drawer won't pull out: ngăn kéo không kéo ra được
+- nhổ ra (răng)
+- bơi chèo ra, chèo ra
+- ra khỏi ga (xe lửa)
+- rút ra (quân đội); rút khỏi (một hiệp ước...)
+- (hàng không) lấy lại thăng bằng sau khi bổ nhào (máy bay)
+!to pull over
+- kéo sụp xuống; kéo (áo nịt...) qua đầu
+- lôi kéo về phía mình
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) lái về phía bờ đường
+!to pull round
+- bình phục, phục hồi sức khoẻ (sau khi ốm)
+- chữa khỏi
+
++ the doctors tried in vain to pull him round: các bác sĩ đã cố gắng hết sức mà không chữa khỏi được cho anh ta
+!to pull through
+- qua khỏi được (cơn ốm); thoát khỏi được; xoay sở được thoát (cảnh khó khăn); làm cho qua khỏi được (cơn ốm, cảnh khó khăn...)
+!to pull together
+- hoà hợp với nhau, ăn ý với nhau
+
++ to pull oneself together: lấy lại can đảm; bình tĩnh lại, tỉnh trí lại
+!to pull up
+- nhổ lên, lôi lên, kéo lên
+- dừng lại; làm dừng lại
+- la mắng, quở trách
+- ghìm mình lại, nén mình lại
+- vượt lên trước (trong cuộc đua...)
+- (từ lóng) bắt
+!to be pulled
+- suy nhược
+- chán nản
+!to pull caps (wigs)
+- câi nhau, đánh nhau
+!pull devil!, pull baker!
+- (xem) baker
+!to pull a face
+!to pull faces
+- nhăn mặt
+!to pull a long face
+- (xem) face
+!to pull someone's leg
+- (xem) leg
+!to pull someone's nose
+!to pull someone by the nose
+- chửi xỏ ai; làm mất thể siện của ai
+!to pull a good oar
+- là tay chèo giỏi, là tay bơi thuyền giỏi
+!to pull out of the fire
+- cứu vân được tình thế vào lúc nguy ngập
+!to pull the strings (ropes, wires)
+- giật dây (bóng)
+!to pull one's weight
+- (xem) weight
+
+@pull-back  
+*  dt
+- sự kéo lùi, vật cản lại, ảnh hưởng kéo lùi lại, hoàn cảnh làm chậm tiến
+- cái để kéo lùi
+
+@puller  
+*  dt
+- người kéo, vật kéo, máy kéo
+- ngựa không chịu cương
+
+@pullet  
+*  dt
+- gà mái tơ
+
+@pulley  
+*  dt
+- cái ròng rọc
+*  ngdgt
+- kéo bằng ròng rọc
+- mắc ròng rọc vào
+
+@pulley-block
+* dt
+- khối gỗ gắn puli
+ @pull-haul  
+*  dgt
+- (hàng hải) kéo đầy
+
+@pull-hauly  
+*  tt
+- (hàng hải) kéo đầy
+*  dt
+- (hàng hải) sự kéo đầy
+
+@pull-in
+* dt
+- quán cà phê bên đường
+ @pullman
+* dt
+- toa Punman (toa xe lửa hạng sang)
+ @pullman car
+* dt
+- toa Punman (toa xe lửa hạng sang)
+ @pull-off
+* dt
+- nơi đỗ xe
+ @pull-out  
+*  dt
+- sự rút (quân đội...); sự rút lui; sự đi ra khỏi (ga)
+- (hàng không) động tác lấy lại thăng bằng sau khi bổ nhào (của máy bay)
+
+@pull-over  
+*  dt
+- áo len chui đầu
+
+@pullover
+* dt
+- áo len chui đầu
+ @pull-through  
+*  dt
+- (quân sự) dây thông giẻ lau nòng súng
+
+@pullulate  
+*  ndgt
+- mọc mầm, nảy mầm
+- sinh sản nhanh; nảy nở nhiều
+- (nghĩa bóng) nảy sinh, phát sinh (thuyết...)
+
+@pullulation  
+*  dt
+- sự mọc mầm, sự nảy mầm
+- sự sinh sản nhanh, sự nảy nở nhiều
+- (nghĩa bóng) sự nảy sinh, sự phát sinh (thuyết...)
+
+@pullulative
+- xem pullulate
+ @pull-up  
+*  dt
+- sự căng (dây)
+- (hàng không) sự bay vọt lên (của máy bay)
+- quán nghỉ dọc đường
+
++ pull-up chair: ghế xếp
+
+@pully-hauly
+* dt
+- (hàng hải) sự kéo đẩy
+ @pulman  
+*  dt
+- toa ngủ kiểu Pun-man (trên xe lửa) ((cũng) pulman car)
+
+@pulmobranchia
+* dt
+- lá phổi-sách; lá mang-phổi
+ @pulmogastric
+* tt
+- thuộc phổi-dạ dày
+ @pulmolith
+* dt
+- (y học) sỏi phổi
+ @pulmonary  
+*  tt
+- (thuộc) phổi, có liên quan đến phổi
+
++ pulmonary artery: động mạch phổi
+
++ pulmonary disease: bệnh phổi
+- có phổi, có bộ phận giống phổi
+- bị bệnh phổi, bị đau phổi
+
+@pulmonate  
+*  tt
+- có phổi, có bộ phận giống phổi
+*  dt
+- (động vật học) loài chân bụng có phổi
+
+@pulmonic  
+*  tt
+- bị bệnh phổi, bị đau phổi
+- (thuộc) phổi
+- (thuộc) viêm phổi
+
+@pulmotor  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) máy hà hơi thổi ngạt (của người chết đuối, ngạt thở...)
+
+@pulp  
+*  dt
+- (thực vật học) cơm thịt (trái cây)
+- tuỷ (răng)
+- lõi cây
+- cục bột nhão, cục bùn nhão
+- bột giấy
+- quặng nghiền nhỏ nhào với nước
+- ((thường) số nhiều) (từ Mỹ,nghĩa Mỹ),  (từ lóng) tạp chí giật gân (thường in bằng giấy xấu)
+!to reduce to pulp
+- nghiền nhão ra
+*  ngdgt
+- nghiền nhão ra
+- lấy phần ruột, xay vỏ (cà phê...)
+*  ndgt
+- nhão bét ra
+
+@pulpar
+* tt
+- thuộc tủy (răng)
+ @pulp-engine
+* dt
+- máy nghiền bột giấy
+ @pulper  
+*  dt
+- máy xay vỏ (cà phê)
+
+@pulpify
+* ngdgt
+- nghiền thành bột nhão
+ @pulpiness  
+*  dt
+- tính mềm nhão; trạng thái mềm nhão
+
+@pulpit  
+*  dt
+- bục giảng kinh
+- (the pulpit) các linh mục, các nhà thuyết giáo
+- (the pulpit) sự giảng kinh, sự thuyết giáo, nghề giảng kinh, nghề thuyết giáo
+- (hàng không),  (từ lóng) buồng lái
+
+@pulpiteer  
+*  dt
+- thầu khoong nhà thuyết giáo
+*  ndgt
+- thuyết giáo, giảng kinh
+
+@pulpous   (pulpous) @pulpy   (pulpous) @pulque  
+*  dt
+- rượu thùa (Mê-hi-cô)
+
+@pulsar
+* dt
+- ẩn tinh, punxa (ngôi sao không nhìn thấy được bằng mắt thường, có thể được phát hiện qua các tín hiệu <rađiô>)
+ @pulsatance
+- (vật lí) tấn số góc
+ @pulsate  
+*  ndgt
+- đập (tim...)
+- rung, rung động, rộn ràng
+*  ngdgt
+- sàng (kim cương) để làm sạch đất)
+
+@pulsate
+- (vật lí) mạch động
+ @pulsatile  
+*  tt
+- đập (tim...)
+- (âm nhạc) (để) gõ, (để) đánh (nhạc khí)
+
+@pulsation  
+*  dt
+- sự đập; tiếng đạp (tim...)
+- sự rung, sự rung động, sự rộn ràng
+
+@pulsation
+- (vật lí) sự mạch động
+ @pulsative  
+*  tt
+- đập (tim...)
+
+@pulsator  
+*  dt
+- máy sàng kim cương
+
+@pulsatory  
+*  tt
+- đập (tim...)
+
+@pulse  
+*  dt
+- hột đỗ đậu
+- (y học) mạch
+
++ to feel the pulse: bắt mạch; (nghĩa bóng) thăm dò ý định (của ai)
+- nhịp đập; (nghĩa bóng) nhịp đập của cuộc sống, cảm xúc rộn ràng
+
++ to stir one's pulses: gây cảm xúc rộn ràng
+
++ the pulse of the nation: sự xúc động của cả nước, nhịp đập của trái tim cả nước (khi có một sự kiện gì...)
+- (âm nhạc) nhịp điệu
+- (vật lý) xung
+
++ discharge pulse: xung phóng điện
+*  ndgt
+- đập (mạch...)
+
+@pulse
+- xung; xung lượng
+ @pulseless
+* dt
+- không có mạch đập; không có sinh khí
+ @pulser
+* dt
+- (kỹ thuật) bộ tạo xung; máy phát xung
+ @pulser
+- (máy tính) máy phát xung
+ @pulsimeter  
+*  dt
+- cái đo mạch
+
+@pultaceous  
+*  tt
+- mềm nhão
+
+@pultation
+* dt
+- sự nghiền nhão
+ @pulverable
+* tt
+- có thể pulverate
+ @pulverate
+* ngdgt
+- nghiền thành bột; tán thành bột
+ @pulverisation
+* dt
+- sự tán thành bột; sự trở thành bột; sự phun thành bụi (nước)
+- (<nghĩa đen><bóng>) sự đập tan, sự phá hủy hoàn toàn, sự đánh bại hoàn toàn
+ @pulverise   (pulverizator) @pulverizable  
+*  tt
+- có thể tán thành bột; có thể phun thành bột; có thể phun thành bụi (nước)
+- (nghĩa bóng) có thể đập vụn tan thành
+
+@pulverization  
+*  dt
+- sự tán thành bột; sự phun thành bụi (nước)
+
+@pulverizator   (pulverizator) @pulverize   (pulverizator) @pulverizer  
+*  dt
+- máy phun bụi nước
+
+@pulverous
+* tt
+- dạng bột
+ @pulverulence  
+*  dt
+- trạng thái vụn như bụi; tính vụn thành bụi
+
+@pulverulent  
+*  tt
+- ở dạng bụi, như bụi; đầy bụi, phủ bụi
+- vụn thành bụi
+- dễ nát vụn (đá...)
+
+@pulvillar
+* tt
+- (động vật học) có đệm vuốt @pulvilli
+* dt
+- số nhiều
+- xem pulvillus
+ @pulvilliform
+* dt
+- dạng đệm vuốt
+ @pulvillus
+* dt
+- số nhiều pulvilli
+- đệm vuốt; đệm bàn (chân ruồi)
+ @pulvinate   (pulvinated) @pulvinated
+* tt
+- có hình gối
+ @pulvinus
+* dt
+- (thực vật học) thể gối (lá)
+ @pulviplume
+* dt
+- lông măng
+ @puma  
+*  dt
+- (động vật học) báo sư tử
+- bộ lông báo sư tử
+
+@pumelo
+* dt
+- cây bưởi chùm
+ @pumice  
+*  dt
+- đá bọt ((cũng) pumice stone)
+*  ngdgt
+- đánh bóng bằng đá bọt; mài bằng đá bọt
+
+@pumice stone
+* dt
+- đá bọt
+ @pumiceous  
+*  tt
+- (thuộc) đá bọt; giống đá bọt
+
+@pumicer
+- xem pumice
+ @pumiciform
+* tt
+- dạng đá bọt
+ @pummel  
+*  ngdgt
+- đấm thùm thụp, đấm liên hồi
+
+@pummeling
+* dt
+- sự đánh đập dữ dội
+ @pump  
+*  dt
+- giày nhảy (khiêu vũ)
+- cái bơm, máy bơm
+
++ hydraulic pump: bơm thuỷ lực
+- sự bơm; cú bơm
+- mưu toan dò hỏi bí mật (của ai...); mưu toan moi tin tức (của ai); người có tài dò hỏi bí mật, người có tài moi tin tức
+*  ngdgt
+- bơm
+
++ to pump water out of a ship: bơm nước ra khỏi con tàu
+
++ to pump up a tyre: bơm lốp xe
+
++ to pump up a bicycle: bơm xe đạp
+
++ to pump a well dry: bơm cạn giếng
+- (nghĩa bóng) tuôn ra hàng tràng (những lời chửi rủa...)
+
++ to pump abuses upon somebody: chửi rủa như tát nước vào mặt ai
+- (nghĩa bóng) dò hỏi, moi (tin tức, bí mật...); moi tin tức ở (ai)
+
++ to pump a secret out of someone: moi bí mật ở ai
+- ((thường) động tt quá khứ) làm hết hơi, làm thở đứt hơi
+
++ to be completely pumped by the climb: trèo mệt đứt hơi
+*  ndgt
+- bơm, điều khiển máy bơm
+- lên lên xuống xuống mau (phong vũ biểu)
+
+@pump
+- cái bơm
+- vacuum p. bơm chân không 
+ @pumpability
+* dt
+- khả năng bơm
+ @pumpage
+* dt
+- năng suất máy bơm
+- phí tổn về bơm
+ @pump-box  
+*  dt
+- ống bơm
+
+@pump-brake  
+*  dt
+- (hàng hải) tay bơm (trên tàu thuỷ)
+
+@pump-engine
+* dt
+- máy bơm
+ @pumper  
+*  dt
+- bánh lúa mạch đen (Đức)
+
+@pumpernickel  
+*  dt
+- tay bơm
+
+@pump-handle  
+*  ngdgt
+- (thông tục) bắt (tay ai) rối rít, bắt (tay ai) thật lâu
+
+@pumping
+* dt
+- sự bơm
+ @pumping-out
+* dt
+- sự bơm ra, sự hút ra
+ @pumpkin  
+*  dt
+- quả bí ngô, quả bí
+
+@pump-nickel
+* dt
+- bánh lúa mạch đen
+ @pump-room
+* dt
+- phòng (tại một suối khoáng) có sẵn nước khoáng
+ @pumpship  
+*  dt
+- đụi îẢî4æ
+5;-îẢî
+
+@pump-ship
+* ndgt
+- (thông tục) đi đái, đi tiểu
+* dt
+- (thông tục) sự đi đái, đi tiểu
+ @pun  
+*  dt
+- sự chơi chữ
+*  ndgt
+- chơi chữ
+*  ngdgt
+- nện, đầm (đất)
+
+@puna  
+*  dt
+- (địa lý,địa chất) hoang mạc puna
+- chứng say núi; chứng khó thở vì không khí loãng
+
+@punaluan
+* tt
+- punaluan (con trai con gái trong một nhóm đều là vợ chồng của nhau)
+ @punch  
+*  dt
+- cú đấm, cú thoi, cú thụi
+
++ a punch on the head: cú đấm vào đầu
+- (thông tục) sức mạnh, lực; đà
+!to pull one's punches
+- (xem) pull
+*  ngdgt
+- đấm, thoi, thụi
+*  dt ((từ hiếm,nghĩa hiếm) (cũng) puncheon)
+- cái giùi, máy giùi; kìm bấm (vé tàu); cái nhổ đinh, cái đóng đinh
+- máy khoan
+- máy rập dấu, máy đột rập
+*  ngdgt
+- giùi lỗ (miếng da, giấy, tôn... bằng cái giùi); bấm (vé tàu... bằng kìm bấm)
+- khoan (lỗ bằng máy khoan)
+- (từ Mỹ,nghĩa Mỹ) thúc (trâu, bò...) bằng giấy đầu nhọn
+- chọc, thúc bằng gậy
+!to punch in
+- đóng (đinh) vào
+!to punch out
+- nhổ (đinh) ra
+*  dt
+- rượu pân (rượu mạnh pha nước nóng, đường, sữa, chanh)
+- bát rượu pân
+- tiệc rượu pân
+*  dt
+- ngựa thồ mập lùn ((cũng) Suffork punch)
+- vật béo lùn, vật to lùn
+- (Punch) Pân (nhân vật chính trong vở múa rối Pân và Giu-đi)
+!as pleased as Punch
+- thích quá, sướng rơn lên
+!as proud as Punch
+- hết sức vây vo, dương dương tự đắc
+
+@punch
+- đục lỗ
+ @punch card
+* dt
+- phiếu đục lỗ
+ @punch press  
+*  dt
+- máy rập đầu, máy đột rập
+
+@punch-bag
+* dt
+- cái bị nhét đầy để tập đấm (bao cát)
+ @punch-ball
+* dt
+- quả bóng để tập đấm (bằng da nhồi hoặc bơm căng treo lơ lửng; nhất là các võ sự hay dùng)
+ @punch-bowl  
+*  dt
+- bát để pha rượu pân
+- hõm sâu (ở đồi)
+
+@punch-card
+- (máy tính) máy đục lỗ
+ @punch-drunk  
+*  tt
+- say đòn
+
+@punched
+- (máy tính) bị đục lỗ
+ @punched card
+* dt
+- phiếu đục lỗ
+ @puncheon  
+*  dt
+- cọc chống (nóc hầm mỏ than)
+- (từ hiếm,nghĩa hiếm),  (như) punch
+*  dt
+- thùng (77 120 galông, đựng rượu, bia...)
+
+@puncher  
+*  dt
+- người đấm, người thoi, người thụi
+- người giùi; máy giùi
+- người khoan; máy khoan, búa hơi
+- (từ Mỹ,nghĩa Mỹ) người chăn (bò, ngựa...)
+
+@puncher
+- (máy tính) máy đục lỗ
+- aiphabetical p. máy đục lỗ chữ cái 
+- calculating p. máy đục lỗ chữ cái 
+- card p. máy đục lỗ bìa 
+- electronic calculating p. máy đục lỗ điện tử
+- gang p. (máy tính) máy đục lỗ lại 
+- summary p. (máy tính) máy đục lỗ bìa tổng kết 
+ @punchily
+- xem punchy
+ @punchinello  
+*  dt
+- (Punchinello) Pun-si-ne-lô (nhân vật chính trong vở múa rối Y)
+- người mập lùn
+
+@punchiness
+- xem punchy
+ @punching ball
+* dt
+- quả bóng để tập đấm (bằng da nhồi hoặc bơm căng treo lơ lửng; nhất là các võ sự hay dùng)
+ @punching-machine
+* dt
+- máy đục lỗ
+ @punchless
+- xem punch
+ @punch-line
+* dt
+- điểm nút (của một chuyện đùa, truyện kể)
+ @punch-up
+* dt
+- <thgt> cuộc ẩu đả, cuộc đánh nhau (bằng tay, bằng quả đấm)
+ @punchy  
+*  tt
+- (thông tục),  (như) drunk
+- mạnh mẽ; có vẻ có hiệu lực mạnh mẽ, có hiệu lực mạnh mẽ
+
+@puncta  
+*  dt số nhiều puncta  @punctate   (punctated) @punctated
+
+ @punctation
+- xem punctate
+ @punctator
+* dt
+- người dùng những chấm để làm ký hiệu
+ @puncticulate
+* tt
+- (thực vật học) lốm đốm
+ @punctiform
+* tt
+- dạng chấm, dạng điểm
+ @punctilio  
+*  dt,  số nhiều punctilios  @punctilious  
+*  tt
+- chú ý đến những chi tiết tỉ mỉ, hay hình thức vụn vặt, kỹ tính, câu nệ
+
+@punctiliously
+* dt
+- chú ý đến những chi tiết tỉ mỉ, hay hình thức vụn vặt; kỹ tính, câu nệ
+ @punctiliousness  
+*  dt
+- tính hay chú ý đến chi tiết tỉ mỉ, tính hình thức vụn vặt, tính câu nệ
+
+@punctual  
+*  tt
+- (thuộc) điểm; như một điểm
+- đúng giờ (không chậm trễ)
+- (từ cổ,nghĩa cổ),  (như) punctilious
+
+@punctual
+- kịp thời; chính xác
+ @punctuality  
+*  dt
+- tính đúng giờ (không chậm trễ)
+
+@punctually  
+*  dt
+- đúng giờ (không chậm trễ)
+
+@punctuate  
+*  ngdgt
+- chấm, đánh dấu chấm (câu...)
+- (nghĩa bóng) lúc lúc lại ngắt quãng (bài nói...)
+
++ the audience punctuated the speech by outbursts of applause: thính giả lúc lúc lại ngắt quãng bài nói bằng những tràng vỗ tay hoan nghênh
+- nhấn mạnh
+*  ndgt
+- đánh dấu chấm; chấm câu
+
+@punctuation  
+*  dt
+- sự chấm câu; phép chấm câu; phép đánh dấu chấm
+
+@punctuation mark  
+*  dt
+- dấu chấm câu
+
+@punctuative  
+*  tt
+- để chấm câu
+
+@punctuator
+- xem punctuate
+ @punctule
+* dt
+- chấm nhỏ; điểm nhỏ
+ @punctum  
+*  dt số nhiều puncta  @puncturable  
+*  tt
+- có thể đâm thủng, có thể châm thủng
+
+@puncture  
+*  dt
+- sự đâm, sự châm, sự chích; lỗ đâm, lỗ châm, lỗ chích, lỗ thủng
+- (điện học) sự đánh thủng
+
++ electric puncture: sự đánh thủng điện
+*  ngdgt
+- đam thủng, châm thủng, chích thủng
+- (nghĩa bóng) làm cho xì hơi, làm cho tịt ngòi
+
++ his ppride is punctured: tính kiêu căng tự đắc của nó bị làm xì rồi
+*  ndgt
+- bị đâm thủng (lốp xe...); bị chích
+
+@punctured
+- bị đâm thủng
+ @pundit   (pandit) @pungency  
+*  dt
+- vị hăng; vị cay (ớt...)
+- tính sắc sảo
+
++ pungency of wit: trí sắc sảo
+- sự nhói, sự buốt, sự nhức nhối (đau...)
+- tính chua cay, tính cay độc (của lời nói)
+
+@pungent  
+*  tt
+- hăng; cay (ớt...)
+- sắc sảo
+- nhói, buốt, nhức nhối (đau...)
+- chua cay, cay độc (của châm biếm)
+
+@pungently
+* dt
+- hăng; cay (ớt...)
+- sắc sảo
+- nhói, buốt, nhức nhối (đau...)
+- sâu cay, chua cay, cay độc (về nhận xét)
+ @punica
+* dt
+- (thực vật học) cây lựu
+ @punicaceae
+* dt
+- số nhiều
+- (thực vật học) họ lựu
+ @puniceous
+* tt
+- đỏ tía
+ @punily
+- xem puny
+ @puniness
+- xem puny
+ @punish  
+*  ngdgt
+- phạt, trừng phạt, trừng trị
+- (thông tục) cho (đối phương) ăn đòn nặng (đánh quyền Anh); làm nhoài, làm kiệt sức (đối thủ) (trong cuộc chạy đua...)
+- (thông tục) ăn nhiều, ăn lấy ăn để (thức ăn)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) hành hạ, ngược đãi
+
+@punishability  
+*  dt
+- tính đáng trừng phạt, tính đáng trừng trị; tình trạng có thể bị trừng phạt, tình trạng có thể bị trừng trị
+
+@punishable  
+*  tt
+- có thể bị trừng phạt, trừng phạt, đáng trừng trị
+
+@punisher
+- xem punish
+ @punishing
+* tt
+- kiệt sức
+- nghiêm trọng
+ @punishingly
+* dt
+- kiệt sức (làm việc )
+- nghiêm trọng (sự việc, hư hỏng )
+ @punishment  
+*  dt
+- sự phạt, sự trừng phạt, sự trừng trị
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sự hành hạ, sự ngược đãi
+
+@punitive   (punitory) @punitively
+* dt
+- nhằm trừng trị, nhằm trừng phạt
+- gây khó khăn gian khổ, gay go, ác liệt
+ @punitiveness
+- xem punitive
+ @punitory   (punitory) @punjabi
+* dt
+- số nhiều punjabis
+- người dân Punjab
+- ngôn ngữ Punjab
+* tt
+- thuộc về dân tộc Punjab, thuộc về ngôn ngữ Punjab
+ @punk  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) mục (gỗ)
+- (từ lóng) vô dụng, rác rưởi, bỏ đi, xấu, tồi
+
+@punk rock
+* dt
+- loại nhạc rốc dữ dội, mạnh mẽ
+ @punk rocker
+* dt
+- người say mê nhạc rốc, người thích nhạc rốc (nhất là người trẻ tuổi; hay bắt chước phong cách, quần áo  của ca sự nhạc rốc)
+ @punka   (punkah) @punkah   (punkah) @punker
+- xem punk
+ @punner  
+*  dt
+- cái đầm (nện đất)
+
+@punnet  
+*  dt
+- giỏ (đựng rau quả...)
+
+@punningly
+- xem pun
+ @punrchase
+- (toán kinh tế) mua
+ @punster  
+*  dt
+- người hay chơi chữ
+
+@punt  
+*  dt
+- thuyền đáy bằng, thuyền thúng (đẩy bằng sào)
+*  ngdgt
+- đẩy (thuyền thúng...) bằng sào
+- chở bằng thuyền đáy bằng, chở bằng thuyền thúng
+*  ndgt
+- đi bằng thuyền đáy bằng, đi bằng thuyền thúng
+*  dt
+- (thể dục,thể thao) cú đá bóng ném ở tay xuống chưa đụng đất
+*  ngdgt
+- (thể dục,thể thao) đá (bóng) ném ở tay xuống khi chưa đụng đất
+*  ndgt
+- đặt tiền cược với nhà cái (đánh bài)
+- (thông tục) đặc cược; đánh cá ngựa
+*  dt
+- nhà con (trong cuộc đánh bạc) ((cũng) punter)
+
+@puntation  
+*  dt
+- sự chấm đốm; trạng thái chấm đốm; chấm đốm
+- (từ Mỹ,nghĩa Mỹ) sự đưa ra những điều để thương lượng
+
+@punter  
+*  dt
+- nhà con (trong cuộc đánh bạc) ((cũng) punt)
+- người đánh cược; người đánh cá ngựa
+
+@punt-gun
+* dt
+- súng bắn chim nước
+ @puny  
+*  tt
+- nhỏ bé, bé bỏng, yếu đuối
+
+@pup  
+*  dt
+- chó con
+!a conceited pup
+- anh chàng thanh niên tự cao tự đại, đứa bé kiêu ngạo
+!in pup
+- có mang, có chửa (chó cái)
+!to sell somebody a pup
+- lừa bịp ai, lừa đảo ai (trong việc mua bán)
+*  ngdgt
+- đẻ (chó con)
+- đẻ (chó cái)
+
+@pup tent  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) cái lều che
+
+@pupa  
+*  dt,  số nhiều pupae  @pupae  
+*  dt,  số nhiều pupae  @pupal  
+*  tt
+- (động vật học) (thuộc) con nhộng
+
++ pupal chamber: kén
+
+@pupate  
+*  ndgt
+- (động vật học) thành nhộng
+
+@pupation  
+*  dt
+- (động vật học) sự thành nhộng
+
+@pupiform
+* tt
+- dạng nhộng
+ @pupil  
+*  dt
+- học trò, học sinh
+- (pháp lý) trẻ em được giám hộ
+*  dt
+- (giải phẫu) con ngươi, đồng tử (mắt)
+
+@pupilage   (pupillage) @pupilar
+- xem pupil
+ @pupilarity   (pupillarity) @pupilary   (pupillary) @pupilise   (pupillise) @pupilize   (pupillise) @pupillage   (pupillage) @pupillarity   (pupillarity) @pupillary   (pupillary) @pupillise
+* ngdgt
+- dạy, kèm (học sinh)
+* ndgt
+- nhận học sinh
+ @pupillize
+
+ @pupilometer
+* dt
+- dụng cụ đo đồng tử
+ @pupilship  
+*  dt
+- tư cách học sinh, thâu nhận học sinh
+
+@pupil-teacher
+* dt
+- thầy giáo dạy kèm trong khi vẫn đi học
+ @pupiparous  
+*  tt
+- đẻ ấu trùng (sâu bọ)
+
+@pupivorous
+* tt
+- ăn nhộng
+ @pupoid
+* tt
+- dạng nhộng
+ @puppet  
+*  dt
+- con rối
+- (chính trị) bù nhìn, kẻ bị giật dây
+- (động vật học) (thuộc) con rối; bù nhìn, nguỵ
+
++ puppet administration (government): chính quyền bù nhìn, chính quyền nguỵ
+
++ puppet king: vua bù nhìn
+
+@puppeteer  
+*  dt
+- những người làm con rối
+- người điều khiển những con rối
+
+@puppet-headed
+* tt
+- bị người khác giật dây
+ @puppetoon  
+*  dt
+- phim búp bê
+
+@puppet-play   (puppet-show) @puppetry  
+*  dt
+- trò múa rối
+- những con rối
+
+@puppet-show   (puppet-show) @puppy  
+*  dt
+- chó con
+- gã thanh niên huênh hoang rỗng tuếch; anh chàng hợm mình xấc xược
+
+@puppy love  
+*  dt
+- mối tình trẻ con
+
+@puppy-fat
+* dt
+- <thgt> sự mập ú, tình trạng béo (nhất là của đứa bé gái, thiếu nữ sẽ biến mất khi lớn lên)
+ @puppyish  
+*  tt
+- (thuộc) chó con; như chó con
+- huênh hoang rỗng tuếch; hợm mình xấc xược
+
+@puppyism  
+*  dt
+- tính huênh hoang rỗng tuếch; tính hợm mình xấc xược
+
+@puppy-love
+* dt
+- <thgt> mối tình trẻ con, chuyện yêu đương trẻ con
+ @pur sang  
+*  dt
+- (động vật học) thuần chủng, không lai
+
+@puramid
+- hình chóp
+- oblique p. hình chóp xiên
+- regular p. hình chóp đều
+- right p. hình chóp thẳng 
+- triangular p. hình chóp tam giác
+- truncated p. hình chóp cụt 
+ @purana
+* dt
+- chuyện cổ tích ấn độ
+ @puranic
+* tt
+- thuộc purana
+ @purblind  
+*  tt
+- mắt mờ, mù dở
+- (nghĩa bóng) chậm hiểu, đần độn
+*  ngdgt
+- làm cho mắt mờ, làm cho mù dở
+- làm đui mù, làm mù quáng
+
+@purblindly
+- xem purblind
+ @purblindness  
+*  dt
+- tình trạng mù dở
+- sự chậm hiểu, sự đần độn
+
+@purchasability
+- xem purchasable
+ @purchasable  
+*  tt
+- có thể mua được, có thể tậu được; đáng mua, đáng tạo
+- (từ Mỹ,nghĩa Mỹ) có thể mua chuộc được
+
+@purchase  
+*  dt
+- sự mua, sự tậu được; vật mua được, vật tậu được
+- thu hoạch hằng năm, hoa lợi hằng năm, lợi tức hằng năm (của đất đai...)
+
++ the land is sold at 20 year's purchase: miếng đất được bán đi với giá bằng hai mươi năm hoa lợi
+
++ his life is not worth a day's purchase: (nghĩa bóng) anh ta chẳng chắc đã sống thêm được một ngày
+- (pháp lý) sự tậu được (chứ không phải do hưởng thừa kế)
+- điểm tựa, chỗ dựa vào, chỗ bám vào
+- lực bẩy, lực đòn bẩy
+- (hàng hải) dụng cụ để kéo lên, dụng cụ bẩy lên; đòn bẩy; dây chão; ròng rọc,  palăng
+*  ngdgt
+- mua, tậu
+- giành được (bằng sự hy sinh, bằng lao động gian khổ...)
+
++ to purchase freedom with one's blood: giành được tự do bằng xương máu
+- (pháp lý) tậu được (chứ không phải được hưởng thừa kế)
+- (hàng hải) kéo (neo) lên bằng ròng rọc; bẩy lên bằng đòn bẩy
+
+@purchase price  
+*  dt
+- giá mua
+
+@Purchase tax
+- (Econ) Thuế mua hàng.
+: Một loại thuế doanh thu.Nó tồn tại ở nước Anh trước khi áp dụng thuế giá trị gia tăng vào năm 1973. Nó là loại thuế tính theo tổng giá trị đánh vào một số hàng đặc biệt ở mức bán buôn.
+ @purchase tax
+* dt
+- thuế gián thu
+ @purchaser  
+*  dt
+- người mua, người tậu
+
+@purchaser
+- người mua
+ @purchasing power  
+*  dt
+- sức mua
+
+@Purchasing power of money
+- (Econ) Sức mua của đồng tiền.
+ @Purchasing power parity
+- (Econ) Sức mua tương đương.
+: Một học thuyết khẳng định rằng một đơn vị tiền tệ phải có khả năng mua cùng được một giỏ hàng hoá ở mọi nước.
+ @purdah  
+*  dt
+- (Anh-Ân) màn che cung cấm (của đàn bà Ân độ)
+- chế độ cấm cung (đàn bà Ân độ)
+- vải kẻ làm màn che
+
+@pure  
+*  tt
+- trong, trong sạch, nguyên chất, tinh khiết
+
++ pure air: không khí trong sạch
+
++ pure water: nước trong
+
++ pure alcohol: rượu nguyên chất (không pha trộn)
+
++ pure gold: vàng nguyên chất
+- không lai, thuần chủng (ngựa...)
+- trong sáng (âm thanh, hành văn...)
+- thanh khiết, thuần khiết; trong trắng, trinh bạch
+
++ pure conscience: lương tâm trong trắng
+
++ a pure girl: một cô gái trinh bạch
+- thuần tuý
+
++ pure mathematics: toán học thuần tuý
+
++ pure physics: lý học thuần tuý (đối với thực hành)
+- hoàn toàn, chỉ là
+
++ it's pure hypocrisy: chỉ là đạo đức giả
+
++ pure accident: chuyện hoàn toàn ngẫu nhiên
+- (ngôn ngữ học) có một nguyên âm đứng trước (nguyên âm); tận cùng bằng một nguyên âm (gốc từ); không có phụ âm khác kèm theo sau (phụ âm)
+
+@pure
+- thuần tuý
+ @Pure competition
+- (Econ) Cạnh tranh thuần tuý.
+: Xem PERFECT COMPETITION.
+ @Pure inflation
+- (Econ) Lạm phát thuần tuý.
+ @Pure inflation
+- (Econ) Lạm phát thuần tuý.
+ @Pure profit
+- (Econ) Lợi nhuận thuần tuý.
+: Một số dư tiền được để lại khi doanh thu phát sinh từ một hoạt động nào đó đã được trừ cho tất cả các chi phí cơ hội của sản xuất có thể xảy ra, lợi nhuận thông thường cần thiết để duy trì sự kinh doanh của người sản xuất.
+ @pure-blooded  
+*  tt
+- (động vật học) thuần chủng
+
+@purebred  
+*  tt
+- không lai, thuần chủng
+*  dt
+- (động vật học) súc vật thuần chủng
+- (thực vật học) cây thuần chủng
+
+@puree
+* ngdgt
+- xem purée
+ @purely  
+*  dt
+- hoàn toàn, chỉ là
+- trong, trong sạch; trong trắng
+
+@pure-minded  
+*  tt
+- có lòng trong sạch, có tâm hồn trong trắng
+
+@pureness  
+*  dt
+- sự trong, sự trong sạch, sự tinh khiết
+- sự thanh khiết, sự thuần khiết; sự trong trắng
+
+@purfle  
+*  dt
+- (từ cổ,nghĩa cổ) đường viền, đường giua (áo...)
+*  ngdgt
+- (từ cổ,nghĩa cổ) viền giua (áo...)
+- trang trí đường gờ hoa lá (cho một toà nhà)
+
+@purgation  
+*  dt
+- sự làm sạch, sự làm cho trong sạch, sự lọc trong
+- (y học) sự tẩy
+- (tôn giáo) sự rửa tội
+
+@purgative  
+*  tt
+- (y học) để tẩy; làm tẩy, làm xổ
+*  dt
+- (y học) thuốc tẩy, thuốc xổ
+
+@purgatorial  
+*  tt
+- (tôn giáo) để chuộc tội, để ăn năn hối lỗi
+
+@purgatory  
+*  tt
+- làm sạch, làm trong, làm trong sạch
+*  dt
+- (tôn giáo) sự chuộc tội, sự ăn năn hối lỗi
+- nơi chuộc tội, nơi ăn năn hối lỗi
+
+@purge  
+*  dt
+- sự làm sạch, sự thanh lọc
+- (chính trị) sự thanh trừng (ra khỏi đảng...)
+- (y học) thuốc tẩy, thuốc xổ; sự tẩy, sự xổ
+*  ngdgt
+- làm sạch, gột rửa sạch, thanh lọc ((nghĩa đen) & (nghĩa bóng))
+
++ to be purged of (from) sin: rửa sạch tội lỗi
+- (chính trị) thanh trừng
+- (y học) tẩy xổ; cho uống thuốc tẩy
+- chuộc, đền (tội)
+- (giải phẫu) (tội, nghi ngờ)
+
++ to purge someone of a charge: giải tội cho ai
+
++ to purge onself of suspicion: giải hết mọi nghi ngờ cho mình, minh oan cho mình
+
+@purger
+- xem purge
+ @purification  
+*  dt
+- sự làm sạch, sự lọc trong, sự tinh chế
+- (tôn giáo) lễ tẩy uế (đàn bà sau khi đẻ)
+!The Purification [of the Virgin Mary]
+- lễ tẩy uế của Đức mẹ Ma-ri
+
+@purificatory  
+*  tt
+- làm sạch, làm trong sạch; tẩy uế
+
+@purifier  
+*  dt
+- người làm sạch, người lọc trong, người tinh chế; máy làm sạch, máy lọc trong, máy tinh chế
+
+@purify  
+*  ngdgt
+- làm sạch, lọc trong, tinh chế
+- rửa sạch, gột sạch (tội lỗi), làm thanh khiết, làm trong trắng
+- (tôn giáo) tẩy uế
+
+@purism  
+*  dt
+- (ngôn ngữ học) chủ nghĩa thuần tuý
+
+@purist  
+*  dt
+- (ngôn ngữ học) người theo chủ nghĩa thuần tuý
+
+@puristic   (puristical) @puristical   (puristical) @puristically
+- xem purist
+ @puritan  
+*  dt
+- (tôn giáo) (Purian) người theo Thanh giáo
+- người đạo đức chủ nghĩa
+*  tt
+- (thuộc) thanh giáo
+
+@puritanic   (puritanical) @puritanical   (puritanical) @puritanically
+* dt
+- khắc khe (rất nghiêm khắc, chặt chẽ về đạo đức)
+ @puritanicalness
+- xem puritanical
+ @puritanism  
+*  dt
+- (Puritanism) Thanh giáo
+- chủ nghĩa đạo đức
+
+@purity  
+*  dt
+- sự sạch, sự trong sạch, sự tinh khiết, sự nguyên chất
+- sự thanh khiết, sự thuần khiết; sự trong trắng
+- sự trong sáng (ngôn ngữ...)
+
+@purl  
+*  dt
+- tiếng kêu róc rách, tiếng rì rầm (suối)
+- dòng chảy cuồn cuộn
+*  ndgt
+- rì rầm, róc rách (suối)
+- chảy cuồn cuộn
+*  dt
+- dây kim tuyến (để viền áo...)
+- đường viền giua, đường viền ren (đăng ten)
+- mũi đan móc (để tạo thành những đường sọc nổi ở áo len)
+*  dgt
+- viền (áo, vải...) bằng dây kim tuyến, viền rua
+- đan móc (mũi kim)
+*  dt
+- (sử học) bia pha ngải apxin; bia nóng pha rượu mạnh
+- (thông tục) cái té nhào, cái đâm bổ đầu xuống, cái ngã lộn tùng phèo
+*  ndgt
+- té nhào, đổ lật, lộn tùng phèo
+*  ngdgt
+- làm té nhào, đổ lật, làm lộn tùng phèo
+
+@purl stitch
+* dt
+- mũi đan móc (tạo ra những gờ nổi ở mặt trên)
+ @purler  
+*  dt
+- (thông tục) cú đánh té nhào, cái đẩy té nhào, cái đâm bổ đầu xuống
+
++ to come (take) a purler: đâm bổ đầu xuống, cái ngã lộn tùng phèo
+
+@purlieu  
+*  dt
+- rìa rừng, mép rừng
+- (số nhiều) ranh giới, giới hạn
+- (số nhiều) vùng xung quanh, vùng phụ cận, vùng ngoại vi (thành phố...)
+- khu phố tồi tàn bẩn thỉu (của một thành phố)
+- (từ Mỹ,nghĩa Mỹ) nơi lai vãng, nơi thường lui tới (của ai)
+
+@purlin  
+*  dt
+- đòn tay (mái nhà)
+
+@purloin  
+*  ngdgt
+- ăn cắp, xoáy, ăn trộm
+
+@purloiner  
+*  dt
+- kẻ cắp, kẻ trộm
+
+@purparty
+* dt
+- phần được phân phối
+ @purple  
+*  dt
+- màu tía, áo màu tía (của vua, giáo chủ...)
+
++ to be born of the purple: là dòng dõi vương giả
+
++ to be born to the purple: được tôn làm giáo chủ
+- (số nhiều) (y học) ban xuất huyết
+*  tt
+- đỏ tía
+
++ to be purple with rage: giận đỏ mặt tía tai
+- hoa mỹ, văn hoa (văn...)
+
++ a purple passage in a book: một đoạn văn hoa mỹ một cuốn sách
+
+@purple heart
+* dt
+- (Purple Heart)  <Mỹ> huy chương tặng thưởng một binh sự bị thương trong chiến đấu
+- <thgt> thuốc kích dục
+ @purple patch  
+*  dt
+- đoạn văn hoa mỹ (trong một cuốn sách)
+
+@purplish   (purply) @purply   (purply) @purpoint
+* dt
+- áo chẽn (đàn ông,  (thế kỷ) XIV - XV)
+ @purport  
+*  dt
+- nội dung, ý nghĩa (của một bài nói, một văn kiện...)
+- (nghĩa bóng) ý định, mục đích
+*  ngdgt
+- có nội dung là, có ý nghĩa là
+
++ to purport that...: có ý nghĩa là..., có nội dung là...
+- có ý, ngụ ý, dường như có ý
+
++ a letter purporting to be written by you: một bức thư dường như là chính tay anh viết
+
++ a letter purporting to express one's real feeling: một bức thư ngụ ý bày tỏ những cảm nghĩ thực của mình
+
+@purported
+* tt
+- có ý định, có tham vọng, có yêu cầu
+- nổi tiếng
+ @purportedly   (purportedly) @purpose  
+*  dt
+- mục đích, ý định
+
++ for the purpose of...: nhằm mục đích...
+
++ to serve a purpose: đáp ứng một mục đích
+
++ to what purpose?: nhằm mục đích (ý định) gì?
+
++ to the purpose: có lợi cho mục đích, có lợi cho ý định; đúng lúc, phải lúc
+- chủ định, chủ tâm
+
++ on purpose: cố tính, cố ý, có chủ tâm
+- ý nhất định, tính quả quyết
+
++ infirm of purpose: không quả quyết
+
++ of set purpose: nhất định, quả quyết
+
++ wanting in purpose: không có ý nhất định, thiếu sự quả quyết
+- kết quả
+
++ to some purpose: được phần nào kết quả
+
++ to little purpose: chẳng được kết quả là bao
+
++ to no purpose: chẳng được kết quả gì, vô ích
+
++ to good purpose: có kết quả tốt
+*  ngdgt
+- có ý định
+
++ he purposed coming; he purposed to come: hắn ta có ý định đến
+
+@purpose
+- mục đích
+ @purpose-built
+* tt
+- được làm ra cho một mục đích nhất định
+ @purposeful  
+*  tt
+- có mục đích, có ý định
+- có chủ định, chủ tâm
+- có ý nhất định, quả quyết (người)
+- có ý nghĩa, có tầm quan trọng
+
+@purposeful
+- có mục đích
+ @purposefully
+* dt
+- có mục đích, có ý định
+- có chủ định, chủ tâm
+- có ý nhất định, quả quyết (người)
+- có ý nghĩa, có tầm quan trọng
+ @purposefulness  
+*  dt
+- sự có mục đích, sự có ý định
+- sự có chủ định, sự chủ tâm
+- sự có ý nhất định, sự quả quyết
+- sự có ý nghĩa, sự có tầm quan trọng
+
+@purposeless  
+*  tt
+- không có mục đích, vô ích
+- không chủ định, không chủ tâm
+
+@purposelessly
+* dt
+- không có mục đích, không có ý định
+- không có chủ định, không có chủ tâm
+ @purposelessness  
+*  dt
+- sự không có mục đích, sự vô ích
+- sự không chủ định, sự không chủ tâm
+
+@purposely  
+*  dt
+- chủ định, chủ tâm
+
+@purpose-novel  
+*  dt
+- tiểu thuyết luận đề
+
+@purposive  
+*  tt
+- để phục vụ cho một mục đích; để phục vụ cho một ý định
+- có mục đích
+
+@purposively
+- xem purposive
+ @purposiveness
+- xem purposive
+ @purpresture
+* dt
+- sự xâm chiếm tài sản
+ @purpura  
+*  dt
+- (y học) ban xuất huyết
+
+@purpuraceous
+* tt
+- có màu đỏ tía
+ @purpureal
+* tt
+- đổ tía
+- nổi ban xuất huyết
+ @purpuric  
+*  tt
+- (y học) (thuộc) bệnh ban xuất huyết
+
+@purr  
+*  dt
+- tiếng rừ... ừ... ừ... (của mèo khi thích thú...)
+*  ndgt
+- kêu rừ... ừ... ừ...
+
+@purree  
+*  dt
+- thuốc màu vàng (Ân độ,  Trung quốc)
+
+@pursang
+* dt
+- (động vật học) thuần chủng
+ @purse  
+*  dt
+- ví tiền, hầu bao
+- (nghĩa bóng) tiền, vốn
+
++ to have a common purse: có vốn chung
+
++ to have a long (heavy) purse: giàu có, lắm tiền
+
++ to have a light purse: nghèo, ít tiền
+
++ the public purse: ngân quỹ nhà nước
+
++ privy purse: quỹ đen, quỹ riêng (của nhà vua...); người giữ quỹ đen
+- tiền quyên làm giải thưởng, tiền đóng góp làm giải thưởng
+
++ to make up a purse: quyên tiền làm giải thưởng
+
++ to give (put up) a purse: cho tiền làm giải thưởng
+- (sinh vật học) túi, bìu, bọng
+- (từ Mỹ,nghĩa Mỹ) ví tay, túi cầm tay (đàn bà)
+*  ngdgt
+- mắm, mím (môi), nhíu, cau (mày)
+- (từ hiếm,nghĩa hiếm) bỏ vào túi, bỏ vào hầu bao
+
+@purse-bearer  
+*  dt
+- người giữ tiền, người giữ quỹ (của người khác, của công ty)
+
+@purselike
+- xem purse
+ @purse-pride
+* dt
+- sự khoe khoang giàu có
+ @purse-proud  
+*  tt
+- vây vo vì giàu có, hợm mình vì giàu có
+
+@purser  
+*  dt
+- người phụ trách tài vụ, người quản lý (trên tàu thuỷ chở khách)
+
+@purser-strings  
+*  dt số nhiều
+- dây thắt ví tiền, dây thắt hầu bao
+
++ to hold the purser-strings: nắm việc chi tiêu
+
++ to tighten the purser-strings: tằn tiện, thắt chặt hầu bao
+
++ to loosen the purser-strings: ăn tiêu rộng rãi, mở rộng hầu bao
+
+@purse-strings
+* dt số nhiều
+- dây thắt ví tiền, dây thắt hầu bao
+
++  to hold the purse-strings:nắm giữ hầu bao; nắm việc chi tiêu
+
++  to tighten the purse-strings:tằn tiện, thắt chặt hầu bao
+
++  to loosen the purse-strings:ăn tiêu rộng rãi, mở rộng hầu bao
+ @pursiness  
+*  dt
+- hơi ngắn; tật dễ thở dốc ra
+- vóc người to béo; sự mập mạp
+
+@purslane  
+*  dt
+- (thực vật học) cây rau sam
+
+@pursuable  
+*  tt
+- có thể bị đuổi theo
+- đáng theo đuổi, đáng đeo đuổi
+
+@pursuance  
+*  dt
+- sự đeo đuổi, sự thực hiện đến cùng (một kế hoạch, một công việc...)
+
++ in pursuance of something: để thực hiện cái gì, để đeo đuổi cái gì; theo cái gì, y theo cái gì
+
+@pursuant  
+*  tt
+- theo, y theo, thực hiện theo, đeo đuổi
+*  dt
+- pursuant to theo, y theo, theo đúng
+
+@pursue  
+*  ngdgt
+- theo, đuổi theo, đuổi bắt, truy nã, truy kích
+
++ to pursue the enemy: đuổi bắt kẻ địch, truy kích kẻ địch
+- (nghĩa bóng) đeo đẳng, cứ bám lấy dai dẳng
+
++ diseases pursue him till death: hắn ta cứ bệnh tật dai dẳng mâi cho đến lúc chết
+- theo, đi theo, theo đuổi, đeo đuổi, tiếp tục, thực hiện đến cùng
+
++ to pursue a plan: đeo đuổi một kế hoạch
+
++ to pursue one's road: đi theo con đường của mình
+
++ to pursue the policy of peace: theo đuổi chính sách hoà bình
+
++ to pursue one's studies: tiếp tục việc học tập
+
++ to pursue a subject: tiếp tục nói (thảo luận) về một vấn đề
+- đi tìm, mưu cầu
+
++ to pursue pleasure: đi tìm thú vui
+
++ to pursue happiness: mưu cầu hạnh phúc
+*  ndgt
+- (: after) đuổi theo
+- theo đuổi, tiếp tục
+
+@pursue
+- theo đuổi
+ @pursuer  
+*  dt
+- người đuổi theo; người đuổi bắt
+- người theo đuổi, người đeo đuổi
+- (pháp lý) người khởi tố, nguyên cáo
+
+@pursuit  
+*  dt
+- sự đuổi theo, sự đuổi bắt, sự truy nã, sự truy kích
+- sự theo đuổi, sự đeo đuổi (một mục đích...)
+- sự đi tìm, sự mưu cầu
+
++ the pursuit of happiness: sự đi tìm hạnh phúc, sự mưu cầu hạnh phúc
+- nghề nghiệp theo đuổi, công việc đeo đuổi, thú vui đeo đuổi
+
++ daily pursuit: những việc làm hằng ngày
+
++ literary pursuits: cái nghiệp văn chương đeo đuổi
+
++ to abandon that pursuit for another: bỏ công việc đang đeo đuổi ấy để tìm một công việc khác
+!in pursuit of
+- đuổi theo, đuổi bắt (thú săn, kẻ địch)
+- đeo đuổi, mưu cầu (cái gì)
+
+@pursuit
+- sự theo đuổi, sự theo dõi
+ @pursuit plane  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (hàng không) máy bay cường kích
+
+@pursuivant  
+*  dt
+- (thơ ca) người đi theo, người tuỳ hứng
+
+@pursy  
+*  tt
+- ngắn hơi, dễ thở dốc ra
+- to béo, mập
+*  tt
+- nhăn lại, nhăn nheo, dúm dó
+
+@purtenance  
+*  dt
+- (từ cổ,nghĩa cổ) bộ lòng (bò...)
+
+@purulence   (purulency) @purulency   (purulency) @purulent  
+*  tt
+- (y học) có mủ, chảy mủ; như mủ
+
+@purulently
+- xem purulent
+ @purvey  
+*  ngdgt
+- cung cấp (lương thực...)
+*  ndgt
+- cung cấp lương thực; làm nghề thầu cung cấp lương thực (cho quân đội)
+
+@purveyance  
+*  dt
+- sự cung cấp lương thực (cho quân đội); lương thực cung cấp
+- (sử học) quyền thu mua lương thực và dùng ngựa chuyên chở với giá nhất định (của vua Anh xưa)
+
+@purveyor  
+*  dt
+- nhà thầu cung cấp lương thực (cho quân đội)
+
+@purview  
+*  dt
+- những điều khoản có tính chất nội dung (của một bản điều lệ...)
+- phạm vi có hiệu lực, phạm vi hoạt động, tầm ảnh hưởng (của một đạo luật, một văn kiện, một kế hoạch...)
+- tầm nhìn, nhãn quan, tầm hiểu biết
+
++ within the purview of one's observation: trong tầm quan sát
+
+@purée  
+*  dt
+- món xúp đặc nghiền nhừ (khoai tây, thịt...)
+
+@pus  
+*  dt
+- (y học) mủ
+
+@push  
+*  dt
+- sự xô, sự đẩy; cú đẩy
+
++ to give the door a hard push: đẩy mạnh cửa một cái
+- sự thúc đẩy, sự giúp sức (ai tiến lên)
+
++ to give sosmeone a push: thúc đẩy ai tiến lên
+- (kiến trúc) sức đẩy lên, sức đỡ lên (của vòng...)
+- cừ thọc đẩy (hòn bi-a)
+- cú đấm, cú húc (bằng sừng)
+- sự rắn sức, sự nổ lực, sự gắng công
+- (quân sự) cuộc tấn công mânh liệt, cuộc đánh thúc vào
+
++ to make a push: rán sức, hết sức, cố gắng; (quân sự) tấn công mânh liệt, đánh thúc vào (nơi nào)
+- tính dám làm, tính chủ động, tính hăng hái xốc tới, tính kiên quyết làm bằng được
+
++ to have plenty of push in one: rất chủ động dám nghĩ dám làm
+- lúc gay go, lúc nguy ngập, lúc cấp bách
+
++ when it comes to the push: khi gặp lúc gay go
+
++ at a push: trong hoàn cảnh nguy ngập cấp bách
+- (từ lóng) bọn (ăn trộm...)
+- (từ lóng) sự đuổi ra, sự thải ra
+
++ to give someone the push: đuổi ai ra, thải ai ra
+
++ to get the push: bị đuổi ra, bị thải ra
+*  ngdgt
+- xô, đẩy
+
++ to push the door open: đẩy cửa mở toang
+
++ to push the door to: đẩy cửa đóng sập vào
+
++ to push aside all obstacles: đẩy sang một bên mọi vật chướng ngại
+- (kinh thánh) húc (bằng sừng)
+- thúc đẩy, thúc giục (làm gì)
+- xô lấn, chen lấn
+
++ to push one's way through the crowd: chen lấn (rẽ lối) qua đám đông
+
++ to push one's way: (nghĩa bóng) làm nên, làm ăn tiến phát
+- đẩy tới, đẩy mạnh, mở rộng
+
++ to push the struggle for liberation: đẩy mạnh cuộc đấu tranh giải phóng
+
++ to push the trade: mở rộng việc buôn bán
+- ((thường) : on) theo đuổi, đeo đuổi; nhất định đưa ra (một yêu sách...)
+- thúc ép, thúc bách
+
++ don't push him too far: đừng thúc bách nó quá
+
++ to be pushed for time: bị thời gian thúc ép
+
++ to be pushed for money: bị vấn đề tiền nong thúc ép
+- quảng cáo; tung ra (một món hàng)
+
++ to push a new kind of soap: tung ra một loại xà phòng mới; quảng cáo một loại xà phòng mới
+*  ndgt
+- xô, đẩy
+- cố gắng vượt người khác, cố gắng thành công (trong công việc); dám làm
+- thọc đẩy (hòn bi-a)
+- (kinh thánh) húc sừng
+- xô lấn, chen lấn
+
++ to push through the crowd: chen lấn qua đám đông
+!to push along
+!to push on to push away
+- xô đi, đẩy đi
+!to push down
+- xô đổ, xô ngâ, đẩy ngã
+!to push forth
+- làm nhú ra, làm nhô ra; đâm nhú ra, nhô ra (rễ cây, mũi đất...)
+!to push in
+- đẩy vào gần (bờ...) (thuyền)
+!to push off
+- chống sào đẩy xa (bờ...) (thuyền)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) ra đi, đi, khởi hành; chuồn tẩu
+!to push on
+- tiếp tục, tiếp tục đi, đi tiếp
+- đẩy nhanh, thúc gấp (công việc...); vội vàng
+!to push out
+- xô đẩy ra, đẩy ra ngoài
+- (như) to push forth
+!to push through
+- xô đẩy qua, xô lấn qua
+- làm trọn, làm đến cùng, đưa đến chỗ kết thúc
+
++ to push the matter through: cố gắng đưa vấn đề đến chỗ kết thúc, cố gắng giải quyết vấn đề
+!to push up
+- đẩy lên
+
+@push
+- đẩy, ẩn (vào nút bấm)
+ @push-ball  
+*  dt
+- (thể dục,thể thao) môn bóng đa
+- quả bóng đẩy (để chơi môn bóng đẩy)
+
+@push-bicycle   (push-bike) @push-bike   (push-bike) @push-button  
+*  dt
+- nút bấm (điện...)
+
+@push-button war  
+*  dt
+- chiến tranh bấm nút
+
+@push-cart  
+*  dt
+- xe đẩy (của những người bán hàng rong)
+
+@push-cart man  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người bán hàng rong (bằng xe đẩy)
+
+@push-chair  
+*  dt
+- ghế đẩy (của trẻ con)
+
+@pusher  
+*  dt
+- người đẩy, vật đẩy
+- máy bay cánh quạt đẩy (cánh quạt ở phía sau) ((cũng) pusher aeroplane)
+
+@pushful
+* tt
+- tháo vát; giàu sáng kiến
+ @pushily
+* dt
+- huênh hoang, tự đề cao, tự khẳng định
+ @pushiness
+* dt
+- tính huênh hoang, sự tự đề cao, sự tự khẳng định
+ @pushing  
+*  tt
+- dám làm, hăng gái, xốc tới, kiên quyết làm bằng được; gắng vượt người khác; gắng thành công trong mọi việc
+
+@pushingly
+- xem pushing
+ @pushover  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) việc dễ làm, việc ngon xơi
+- đối thủ hạ dễ như chơi
+- người dễ thuyết phục, người dễ dụ dỗ, người dễ lừa
+
+@push-over
+* dt
+- việc ngon xơi, cái làm được dễ dàng, việc dễ làm
+- người dễ lừa, người dễ dụ dỗ, người dễ thuyết phục
+ @push-pin  
+*  dt
+- trò chơi ghim (của trẻ con)
+- (từ Mỹ,nghĩa Mỹ) đinh rệp
+- (từ Mỹ,nghĩa Mỹ) điều tầm thường, điều nhỏ mọn
+
+@push-pull  
+*  tt
+- (rađiô) đẩy kéo
+
++ push-pull circuit: mạch đẩy kéo
+
+@push-start
+* ngdgt
+- khởi động (xe có động cơ) bằng cách đẩy nó cho máy chạy
+* dt
+- xe nổ máy
+ @push-up  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (quân sự),  (từ lóng) sự nạp đạn
+- (thể dục,thể thao) động tác nằm sấp chống tay (lên xuống)
+
+@pushy
+* ttso sánh
+- <thgt> huênh hoang, tự đề cao, tự khẳng định
+ @pusillanimity  
+*  dt
+- sự nhát gan, sự hèn nhát; sự nhu nhược, sự yếu hèn
+
+@pusillanimous  
+*  tt
+- nhát gan, hèn nhát; nhu nhược, yếu hèn
+
+@pusillanimously
+* dt
+- nhát gan, rụt rè; nhu nhược, yếu hèn
+ @puss  
+*  dt
+- con mèo
+- (săn bắn) con thỏ; con hổ
+- (thông tục) cô gái, con bé
+
++ a sly puss: con ranh con
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cái mặt
+- cái mồm, cái mõm
+
+@pussy  
+*  tt
+- (y học) có mủ
+- giống mủ, như mủ
+*  dt
+- khuấy nhoong (cũng) pussy cat)
+- luây nhuyền pussy
+- (thực vật học) đuôi sóc (một kiểu cụm hoa)
+
+@pussy cat
+* dt
+- mèo (được dùng bởi trẻ em, dùng cho trẻ em)
+ @pussyfoot  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người đi len lén
+- người hành động thận trọng; người hành động không lộ liễu
+- sự cấm rượu; người tán thành cấm rượu
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đi len lén
+- hành động thận trọng; hành động không lộ liễu
+
+@pussyfooter
+- xem pussyfoot
+ @pussy-willow  
+*  dt
+- (thực vật học) cây liễu tơ
+
+@pustalate
+* dgt
+- mọc thành mụn mủ, ung mủ
+ @pustulant
+* dt
+- (sinh vât học) chất làm mọc mụn mủ
+* tt
+- (sinh vât học) thuộc chất làm mọc mụn mủ
+ @pustular   (pustulous) @pustulate  
+*  tt
+- mọc đầy mụn mủ[,pʌstjuleit]
+*  ndgt
+- mọc mụn mủ, thành mụn mủ
+
+@pustulation  
+*  dt
+- sự mọc mụn mủ, sự thành mụn mủ
+- mụn mủ
+
+@pustule  
+*  dt
+- mụn mủ
+- (sinh vật học) nốt mụn
+
+@pustulous   (pustulous) @put  
+*  ngdgt
+- để, đặt, bỏ, đút, cho vào (ở đâu, vào cái gì...)
+
++ to put a thing in its right place: để vật gì vào đúng chỗ của nó
+
++ to put sugar in tea: cho đường vào nước trà
+
++ to put somebody in prison: bỏ ai vào tù
+
++ to put a child to bed: đặt em bé vào giường, cho em bé đi ngủ
+- để, đặt vào, sắp đặt, sắp xếp (trong một tình trạng nào); làm cho, bắt phải
+
++ to put the clock fast: để đồng hồ nhanh
+
++ to put a child to school: cho em nhỏ đi học
+
++ to put a horse at (to) the fence: cho ngựa vượt rào
+
++ to put the matter right: sắp đặt vấn đề ổn thoả, sắp đặt công việc thoả đáng
+
++ to put out of joint: làm cho long ra, làm jơ (máy...)
+
++ to put somebody in fear of...: làm cho ai sợ...
+
++ to put somebody in his guard: làm cho ai phải cảnh giác đề phòng
+
++ to put somebody off his guard: làm cho ai mất cảnh giác không đề phòng
+
++ to put somebody ay his ease: làm cho ai thoải mái
+
++ to put to shame: làm xấu hổ
+
++ to put to the blush: làm thẹn đỏ mặt
+
++ to put out of countenance: làm cho bối rối, làm luống cuống, làm lúng túng
+
++ to put a stop to: làm ngừng lại, ngừng, ngừng lại; chấm dứt
+
++ to put words to music: đặt lời vào nhạc
+
++ to put a question: đặt một câu hỏi
+- đưa, đưa ra, đem ra
+
++ to put somebody across the river: đưa ai qua sông
+
++ to put to sale: đem bán
+
++ to put to test: đem thử thách
+
++ to put to trial: đưa ra xét xử
+
++ to put to the torture: đưa ra tra tấn
+
++ to put to death: đem giết
+
++ to put to vote: đưa ra biểu quyết
+
++ to put to express: đem tiêu
+- dùng, sử dụng
+
++ to put one's money into good use: dùng tiền vào những việc lợi ích
+
++ he is put to mind the furnace: anh ta được sử dụng vào việc trông nom lò cao
+
++ the land was put into (under) potatoes: đất đai được dùng vào việc trồng khoai, đất được trồng khoai
+- diễn đạt, diễn tả, nói, dịch ra
+
++ to put it in black and white: diễn đạt điều đó bằng giấy trắng mực đen
+
++ I don't know how to put it: tôi không biết diễn tả (nói) điều đó thế nào
+
++ put it into English: anh hây dịch đoạn đó ra tiếng Anh
+
++ I put it to you that...: tôi xin nói với anh rằng...
+
++ to put something into words: nói điều gì ra lời, diễn tả điều gì bằng lời
+- đánh giá, ước lượng, cho là
+
++ to put much value on: đánh giá cao (cái gì)
+
++ I put the population of the town at 70,000: tôi ước lượng số dân thành phố là 70 000
+- gửi (tiền...), đầu tư (vốn...), đặt (cược...)
+
++ to put money on a horse: đặt cược (đánh cá) vào một con ngựa đua
+
++ to put one's money into land: đầu tư vốn vào đất đai
+
++ to put all one's fortune into bank: gửi hết tiền của vào nhà ngân hàng
+- cắm vào, đâm vào, bắn
+
++ to put a knife into: cắm con dao vào, đâm con dao vào
+
++ to put a bullet through somebody: bắn một viên đạn vào ai
+- lắp vào, chắp vào, tra vào, buộc vào
+
++ to put a horse to the cart: buộc ngựa vào xe
+
++ to put a new handle to a knife: tra cán mới vào con dao
+- (thể dục,thể thao) ném, đẩy (tạ)
+- cho nhảy, cho phủ, cho đi tơ (để lấy giống)
+
++ to put bull to cow; to put cow to bull: cho bò đực nhảy bò cái
+*  ndgt
+- (hàng hải) đi, đi về phía
+
++ to put into harbour: đi vào bến cảng
+
++ to put to sea: ra khơi
+!put about
+- (hàng hải) trở buồm, xoay hướng đi (của con thuyền)
+- làm quay lại, làm xoay hướng đi (ngựa, đoàn người)
+- (Ê-cốt) gây bối rối cho, gây lúng túng cho; quấy rầy; làm lo lắng
+!put across
+- thực hiện thành công; làm cho được hoan nghênh, làm cho được tán thưởng (một vở kịch, một câu chuyện...)
+
++ you'll never put that across: cậu chẳng thể thành công được đâu, cậu chẳng làm nên chuyện được đâu
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm cho hiểu, làm cho được thừa nhận
+!to put aside
+- để dành, để dụm
+- bỏ đi, gạt sang một bên
+!put away
+- để dành, để dụm (tiền)
+- (từ lóng) uống, nốc (rượu); ăn, đớp (thức ăn)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) giết, khử
+- (từ lóng) bỏ tù
+- (từ lóng) cấm cố
+- (từ cổ,nghĩa cổ) bỏ, ly dị (vợ)
+!put back
+- để lại (vào chỗ cũ...)
+- vặn (kim động hồ) lùi lại; làm chậm lại
+- (hàng hải) trở lại bến cảng
+!put by
+- để sang bên
+- để dành, dành dụm
+- lảng tránh (vấn đề, câu hỏi, ai...)
+!put down
+- để xuống
+- đàn áp (một cuộc nổi dậy...)
+- tước quyền, giáng chức, hạ bệ; làm nhục; bắt phải im
+- thôi không giữ lại, bỏ không duy trì (cái gì tốn kém)
+- ghi, biên chép
+- cho là
+
++ to put somebody down for nine years old: cho ai là chừng chín tuổi
+
++ to put somebody down as (for) a fool: cho ai là điên
+- đổ cho, , đổ tại, quy cho, gán cho
+
++ I put it down to his pride: điều đó tôi quy cho là ở tính kiêu căng của hắn
+- cho hạ cánh (máy bay); hạ cánh (người trong máy bay)
+- đào (giếng...)
+!put forth
+- dùng hết (sức mạnh), đem hết (cố gắng), trổ (tài hùng biện)
+- mọc, đâm, nảy (lá, chồi, mầm...) (cây); mọc lá, đâm chồi, nảy mầm
+- đem truyền bá (một thuyết...)
+- (từ Mỹ,nghĩa Mỹ) đề nghị, đưa ra, nêu ra (một luận điểm...)
+- (hàng hải) ra khỏi bến
+!put forward
+- trình bày, đề xuất, đưa ra, nêu ra (kế hoạch, lý thuyết...)
+- văn (đồng hồ) chạy mau hơn
+
++ to put oneself forward: tự đề cao mình, tự làm cho mình nổi bật
+!put in
+- đệ (đơn kiện); dẫn, đưa ra (chứng cớ)
+- (pháp lý) thi hành
+
++ to put in a distress: thi hành lệnh tịch biên
+- đưa vào, xen vào
+
++ to put in a remark: xen vào một lời nhận xét
+- đặt vào (một đại vị, chức vụ...)
+- làm thực hiện
+
++ to put in the attack: thực hiện cuộc tấn công
+- phụ, thêm vào (cái gì)
+- (hàng hải) vào bến cảng; dừng lại ở (bến nào) (tàu biển)
+- (thông tục) dùng (thì giờ làm việc gì...)
+!to put in for
+- đòi, yêu sách, xin
+
++ to put in for a job: xin (đòi) việc làm
+
++ to put in for an election: ra ứng cử
+!put off
+- cởi (quần áo) ra
+- hoân lại, để chậm lại
+
++ never put off till tomorrow what you can do today: đừng để việc gì sang ngày mai việc gì có thể làm hôm nay
+- hoãn hẹn với, lần lữa vơi (ai); thoái thác, lảng tránh (một lời yêu cầu...)
+
++ to put somebody off with promises: hứa hẹn lần lữa với ai cho xong chuyện
+- (: from) ngăn cản, can ngăn, khuyên can (ai đừng làm gì)
+- tống khứ, vứt bỏ (ai, cái gì)
+- (: upon) đánh tráo, đánh lộn sòng, tống ấn (cái gì xấu, giả mạo... cho ai)
+!put on
+- mặc (áo...) vào, đội (mũ) vào, đi (giày...) vào...
+- khoác cái vẻ, làm ra vẻ, làm ra bộ
+
++ to put on an air of innocence: làm ra vẻ ngây thơ
+
++ her elegance is all put on: vẻ thanh lịch của cô ta chỉ là giả vờ
+- lên (cân); nâng (giá)
+
++ to put on flesh (weight): lên cân, béo ra
+- tăng thêm; dùng hết
+
++ to put on speed: tăng tốc độ
+
++ to put on steam: (thông tục) đem hết sức cố gắng, đem hết nghị lực
+
++ to put the screw on: gây sức ép
+- bóp, đạp (phanh); vặn (kim đồng hồ) lên, bật (đèn) lên
+- đem trình diễn, đưa lên sân khấu (một vở kịch)
+
++ to put a play on the stage: đem trình diễn một vở kịch
+- đặt (cược...), đánh (cá... vào một con ngựa đua)
+- giao cho, bắt phải, chỉ định (làm gì)
+
++ to put somebody on doing (to do) something: giao cho ai làm việc gì
+
++ to put on extra trains: cho chạy thêm những chuyến xe lửa phụ
+- gán cho, đổ cho
+
++ to put the blame on somebody: đổ tội lên đầu ai
+- đánh (thuế)
+
++ to put a tax on something: đánh thuế vào cái gì
+!put out
+- tắt (đèn), thổi tắt, dập tắt (ngọn lửa...)
+- đuổi ra ngoài (một đấu thủ chơi trái phép...)
+- móc (mắt); làm sai khớp, làm trật khớp (xương vai...); lè (lưỡi...) ra
+- làm bối rối, làm lúng túng; quấy rầy, làm phiền; làm khó chịu, làm phát cáu
+- dùng hết (sức...), đem hết (cố gắng...)
+- cho vay (tiền) lấy lâi, đầu tư
+- (từ Mỹ,nghĩa Mỹ) xuất bản, phát hành
+- giao (việc) cho làm ở nhà (ngoài xưởng máy)
+- sản xuất ra
+
++ to put out 1,000 bales of goods weekly: mỗi tuần sản xuất ra 1 000 kiện hàng
+!put over
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) hoàn thành (cái gì) trong hoàn cảnh không thuận lợi; hoàn thành (cái gì) nhờ tài khéo léo (nhờ mưu mẹo)
+- giành được sự tán thưởng cho (một bộ phim, vở kịch)
+
++ to put oneself over: gây ấn tượng tốt đẹp đối với, tranh thủ được cảm tình của (người nghe)
+!put through
+- hoàn thành, làm trọn, làm xong xuôi, thực hiện thắng lợi (công việc gì)
+- cắm cho (ai) nói chuyện bằng dây nói (với ai qua tổng đài)
+
++ put me through to Mr X: xin cắm cho tôi nói chuyện với ông X
+- (từ Mỹ,nghĩa Mỹ) bắt phải làm, bắt phải chịu
+!put to
+- buộc vào; móc vào
+
++ the horses are put to: những con ngựa đã được buộc vào xe
+!put together
+- để vào với nhau, kết hợp vào với nhau, cộng vào với nhau, ráp vào với nhau
+
++ to put heads together: hội ý với nhau, bàn bạc với nhau
+!put up
+- để lên, đặt lên, giơ (tay) lên, kéo (mành...) lên; búi (tóc) lên như người lớn (con gái); giương (ô); nâng lên (giá...); xây dựng (nhà...); lắp đặt (một cái máy...); treo (một bức tranh...)
+- đem trình diễn, đưa lên sân khấu (một vở kịch)
+- xua ra (thú săn), xua lên, làm bay lên (chim săn)
+- cầu (kinh)
+- đưa (kiến nghị)
+- đề cử, tiến cử (ai); ra ứng cử
+
++ to put up for the secretaryship: ra ứng cử bí thư
+- công bố (việc kết hôn); dán lên, yết lên (yết thị...)
+
++ to put up the bans: thông báo hôn nhân ở nhà thờ
+- đưa ra (để bán, bán đấu giá, cạnh tranh...)
+
++ to put up goods for sale: đưa hàng ra bán
+- đóng gói, đóng hộp, đóng thùng... cất đi
+- tra (kiếm vào vỏ)
+- cho (ai) trọ; trọ lại
+
++ to put up at an inn for the night: trọ lại đêm ở quán trọ
+- (thông tục) xúi giục, khích (ai làm điều xấu...)
+- (thông tục) bày đặt gian dối, bày mưu tính kế (việc làm đen tối)
+- làm trọn, đạt được
+
++ to put up a good fight: đánh một trận hay
+- (từ Mỹ,nghĩa Mỹ) đặt (tiền), cấp (vốn); trả (tiền) trước
+- dùng (ai) làm dô kề (đua ngựa)
+
++ to put up to: cho hay, bảo cho biết, báo cho biết
+
++ to put someone up the duties he will have to perform: bảo cho ai biết những nhiệm vụ người đó phải thi hành
+
++ to put up with: chịu đựng, kiên nhẫn chịu đựng; tha thứ
+
++ to put up with an annoying person: kiên nhẫn chịu đựng một anh chàng quấy rầy
+!put upon
+- hành hạ, ngược đãi
+- lừa bịp, đánh lừa
+- (thông tục) cho vào tròng, cho vào xiếc
+
++ don't be put upon by them: đừng để cho chúng nó vào tròng
+!to put someone's back up
+- làm cho ai giận điên lên
+!to put a good face on a matter
+- (xem) face
+!to put one's foot down
+- kiên quyết, quyết tâm, giữ vững thế đứng của mình (nghĩa bóng)
+!to put one's best foot forward
+- rảo bước, đi gấp lên
+!to put one's foot in it
+- sai lầm ngớ ngẩn
+!to put one's hand to
+- bắt tay vào (làm việc gì)
+!to put one's hand to the plough
+- (xem) plough
+!to put the lid on
+- (xem) lid
+!to put someone in mind of
+- (xem) mind
+!to put one's name down for
+- ghi tên ứng cử; ghi tên đăng ký mua (báo...)
+!to put someone's nose out of joint
+- (xem) nose
+!to put in one's oar
+- làm ra vẻ, làm điệu, cường điệu
+!to put [one's] shoulder to [the] wheel
+- (xem) shoulder
+!to put somebody on
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đánh lừa ai
+!to put a spoke in someone's wheel
+- (xem) spoke
+!to put to it
+- (từ Mỹ,nghĩa Mỹ) đẩy vào hoàn cảnh khó khăn; thúc bách
+- dạng bị động phải đương đầu với mọi vấn đề, phải đối phó với mọi vấn đề
+!to put two and two together
+- rút ra kết luận (sau khi xem xét sự việc)
+!to put wise
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm cho sáng mắt ra, chỉ giáo cho, làm cho hết sai làm, làm cho hết ảo tưởng
+!to put words into someone's mouth
+- (xem) mouth
+*  dt
+- (thể dục,thể thao) sự ném, sự đẩy (tạ...)
+*  dt & dgt
+- (như) putt
+*  dt
+- (từ cổ,nghĩa cổ),  (từ lóng) người gàn dở, người quê kệch
+
+@put
+- đặt
+ @Put option
+- (Econ) Hợp đồng bán trước.
+: Xem OPTIONS
+ @putage
+* dt
+- sự mãi dâm
+ @putamen  
+*  dt,  số nhiều putamina  @putamina  
+*  dt,  số nhiều putamina  @putaminous
+- xem putamen
+ @putative  
+*  tt
+- giả định là, được cho là, được coi là
+
++ his putative father: người mà người ta cho là bố hắn
+
+@putatively
+- xem putative
+ @put-down
+* dt
+- sự làm bẽ mặt, nhận xét có tính chất làm nhục
+ @putlog  
+*  dt
+- (kiến trúc) gióng ngang (để đỡ ván giàn giáo)
+
+@put-off  
+*  dt
+- sự hoân lại, sự để chậm lại
+- sự lảng tránh
+
+@put-on
+* tt
+- giả thiết
+* dt
+- (Mỹ) sự cố tình lừa
+ @put-out  
+*  dt
+- (thể dục,thể thao) sự đuổi ra ngoài (vì chơi trái phép...)
+
+@putredinous
+* tt
+- hủ bại
+- thối rửa
+ @putrefacient
+* tt
+- thối rửa; thối nát
+- đồi bại
+ @putrefaction  
+*  dt
+- sự thối rữa; vật thối nát, vật thối rữa
+- sự đồi bại, sự sa đoạ
+
+@putrefactive  
+*  tt
+- làm thối rữa; thối rữa
+
+@putrefy  
+*  ndgt
+- thối rữa
+- đồi bại, sa đoạ
+*  ngdgt
+- (từ hiếm,nghĩa hiếm) làm thối rữa
+
+@putrescence  
+*  dt
+- tình trạng đang bị thối rữa
+- vật đang bị thối rữa
+
+@putrescent  
+*  tt
+- đang thối rữa
+- (thuộc) sự thối rữa, có liên quan đến sự thối rữa; tiếp theo quá trình thối rữa
+
+@putrescible  
+*  tt
+- có thể bị thối rữa
+
+@putrid  
+*  tt
+- thối, thối rữa
+- thối tha, độc hại
+- (nghĩa bóng) đồi bại, sa đoạ
+- (từ lóng) tồi, tồi tệ, hết sức khó chịu
+
++ putrid weather: thời tiết hết sức khó chịu
+!putrid fever
+- (y học) bệnh sốt phát ban
+!putrid sore throat
+- (y học) bệnh bạch hầu
+
+@putridity  
+*  dt
+- (như) putridness
+- vật thối rữa; vật thối tha độc hại
+
+@putridly
+- xem putrid
+ @putridness  
+*  dt ((cũng) putridity)
+- sự thối, sự thối rữa; tình trạng thối rữa
+- sự thối tha, tình trạng thối tha; sự độc hại, tình trạng độc hại
+- sự đồi bại, sự sa đoạ; tình trạng đồi bại, tình trạng sa đoạ
+
+@putrification
+* dt
+- xem putrify
+ @putrify
+* ngdgt
+- xem putrefy
+ @putsch  
+*  dt
+- cuộc nổi dậy (thường là chớp nhoáng bất ngờ)
+
+@putschist
+- xem putsch
+ @putt  
+*  dt ((cũng) put)
+- (thể dục,thể thao) cú đánh nhẹ (quả bóng) vào lỗ đánh gôn
+*  dgt ((cũng) put)
+- (thể dục,thể thao) đánh nhẹ (quả bóng) vào lỗ (đánh gôn)
+
+@puttee   (puttie) @putter  
+*  dt
+- người để, người đặt
+- gậy ngắn đánh gôn
+- người đánh bóng nhẹ vào lỗ (đánh gôn)
+- (từ Mỹ,nghĩa Mỹ) sự lăng xăng vô tích sự
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ) tất ta tất tưởi, bận rộn lăng xăng
+
+@putterer
+- xem putter
+ @puttie   (puttie) @putting-green  
+*  dt
+- (thể dục,thể thao) khoảng co mềm quanh lỗ (sân gôn)
+
+@putting-ground
+* dt
+- xem putting-green
+ @putting-hole
+* dt
+- lỗ chơi gôn
+ @putty  
+*  dt
+- bột đánh bóng (để đánh bóng kính, kim loại) ((cũng) jewellers' putty)
+- mát tít (để gắn kính) ((cũng) glaziers' putty)
+- vữa không trộn cát (để láng mặt tường) ((cũng) lasterers' putty)
+*  ngdgt
+- gắn mát tít
+
+@putty knife  
+*  dt
+- dao gắn mát tít
+
+@Putty-clay
+- (Econ) Mô hình putty-clay; Mô hình mát tít - đất sét.
+: Một hình thái của HÀN SẢN XUẤT cho phép thay vốn bằng lao động và ngược lại trước khi đầu tư thức tế được thực hiện, nhưng một khi máy móc đã được lắp đặt thì tỷ số Vốn @putty-medal  
+*  dt
+- phần thưởng nhỏ (cho một công việc nhỏ)
+
++ you deserve a putty-medal: cậu đáng được một phần thưởng nhỏ
+
+@Putty-putty
+- (Econ) Mô hình putty-putty; Mô hình mát tít - mát tít.
+: Một khía cạnh của hàm sản xuất trong lý thuyết tăng trưởng cho phép vốn được liên tục đổi hình dạng cả trước và sau khi đầu tư đã thực hiện.
+ @putunghua
+* dt
+- tiếng Phổ thông (Trung Quốc)
+ @put-up  
+*  tt
+- (thực vật học) gian dối sắp đặt trước, bày mưu tính kế trước
+
++ a put-up affair (job): việc đã được gian dối sắp đặt trước
+
+@put-up job
+* dt
+- <thgt> sự bày mưu tính kế
+ @put-upon
+* tt
+- bị hành hạ, bị bóc lột, bị đối xử tệ, bị ngược đãi
+ @puy
+* dt
+- nón núi lửa đã tắt
+ @puzzle  
+*  dt
+- sự bối rối, sự khó xử
+- vấn đề khó xử, vấn đề khó giải quyết, vấn đề nan giải
+- trò chơi đố; câu đố
+
++ a Chinese puzzle: câu đố rắc rối; vấn đề rắc rối khó giải quyết
+*  ngdgt
+- làm bối rối, làm khó xử
+
++ to puzzle about (over) a problem: bối rối về một vấn đề, khó xử về một vấn đề
+!to puzzule out
+- giải đáp được (câu đố, bài toán hắc búa...)
+
+@puzzle
+- câu đố
+ @puzzled
+* tt
+- không hiểu được, lúng túng, bối rối
+ @puzzledom  
+*  dt
+- tình trạng bối rối, tình trạng khó xử
+
+@puzzle-headed   (puzzle-pated) @puzzlement  
+*  dt
+- tình trạng bối rối, tình trạng khó xử
+
+@puzzle-pated   (puzzle-pated) @puzzler  
+*  dt
+- người làm bối rối
+- vấn đề làm bối rối, vấn đề khó xử, vấn đề khó giải quyết
+
+@puzzling  
+*  tt
+- làm bối rối, làm khó xử
+
+@puzzolan
+* dt
+- puzolan; xi măng puzolan
+ @

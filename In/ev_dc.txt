@@ -1,0 +1,66 @@
+@dc
+* (viết tắt)
+- nhắc lại từ đầu (da capo)
+- Quận Columbia trong Washington DC (district of Columbia)
+- dòng điện một chiều (direct current)
+ @DC component
+- (Tech) thành phần của điện một chiều
+ @DC (Data Channel)
+- (Tech) kênh dũ kiện
+ @DC (Digital Computer)
+- (Tech) máy điện toán số tự
+ @DC (Direct Current)
+- (Tech) dòng điện một chiều
+ @dc (direct-current) coupling
+- (Tech) ghép điện một chiều
+ @dc (direct-current) erasing head
+- (Tech) đầu xóa điện một chiều
+ @dc (direct-current) Josephson current
+- (Tech) cường độ dòng điện Josephson (Jôzepsơn) một chiều
+ @dc (direct-current) Josephson effect
+- (Tech) hiệu ứng dòng điện Josephson (Jôzepsơn) một chiều
+ @dc (direct-current) measurement
+- (Tech) đo dòng điện một chiều
+ @dc (direct-current) receiver
+- (Tech) máy thu chạy điện một chiều
+ @dc (direct-current) reinsertion
+- (Tech) phục hồi thành phần của điện một chiều
+ @dc (direct-current) resistance
+- (Tech) điện trở của điện một chiều
+ @dc (direct-current) restoration
+- (Tech) khôi phục thành phần của điện một chiều
+ @dc (direct-current) ringer
+- (Tech) máy rung chuông điện một chiều
+ @dc (direct-current) ringing
+- (Tech) rung chuông điện một chiều
+ @dc (direct-current) selection
+- (Tech) chọn (điện) một chiều
+ @dc (direct-current) signaling
+- (Tech) báo hiệu bằng điện một chiều
+ @dc (direct-current) telegraphy 
++  direct current telegraphy
+- (Tech) điện báo dòng điện một chiều
+ @dc (direct-current) transformer
+- (Tech) bộ biến áp dòng điện một chiều
+ @dc (direct-current) transmission
+- (Tech) truyền điện một chiều
+ @dc (direct-current) tube neon lamp
+- (Tech) đèn ống nêon loại điện một chiều
+ @dc (direct-current) voltage
+- (Tech) điện áp của dòng điện một chiều
+ @DC1-4 (Device Control 1-4)
+- (Tech) kiểm soát thiết bị 1-4, kiểm soát bộ phận 1-4
+ @DCE (Data Circuit-terminating Equipment)
+- (Tech) thiết bị đầu cuối mạch
+ @DCE (Data Communication Equipment)
+- (Tech) thiết bị truyền thông dữ liệu
+ @DCE (Distributed Computing Environment)
+- (Tech) môi trường vi tính phân bố
+ @DCF
+- (Econ) Phương pháp phân tích chiết khấu luồng tiền.
+: Xem DISCOUNTED CASH FLOW ANALYSIS.
+ @DCM (Disk Cache Memory)
+- (Tech) bộ nhớ trữ tạm đĩa (loại cao tốc)
+ @DCTL (direct-coupled transistor logic) gate
+- (Tech) cổng luận lý đèn tinh thể ghép trực tiếp
+ @

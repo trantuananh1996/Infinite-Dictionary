@@ -1,0 +1,2130 @@
+@ab
+- (vt của able-bodied seaman) thủy thủ hạng nhất
+- (vt của Bachelor of Arts) Cử nhân văn chương
+ @aba  
+*  dt
+- áo aba (áo ngoài giống hình cái túi người A-Rập)
+
+@abac, abacus
+- bàn tính, toán đồ, bản đồ tính
+ @abaca
+* dt
+- vải dệt bằng tơ chuối abaca ở philipin
+- cây chuối abaca
+ @abaci  
+*  dt,  số nhiều abaci,  abacuses
+- bàn tính
+
++ to move counters of an abacus; to work an abacus: tính bằng bàn tính, gảy bàn tính
+- (kiến trúc)
+- đầu cột, đỉnh cột
+
+@abacist
+* dt
+- người gãy bàn phím
+- người kế toán
+ @aback  
+*  dt
+- lùi lại, trở lại phía sau
+
++ to stand aback from: đứng lùi lại để tránh
+- (hàng hải) bị thổi ép vào cột buồm (buồm)
+
++ to be taken aback: (hàng hải) bị gió thổi ép vào cột buồm
+- (nghĩa bóng) sửng sốt, ngạc nhiên
+
++ to be taken aback by the news: sửng sốt vì cái tin đó
+
+@abacterial
+* tt
+- không do vi khuẩn gây ra
+ @abaction
+* dt
+- (từ pháp) việc gia súc bị bắt trộm
+ @abactus
+* tt
+- bị trụy thai
+ @abacus  
+*  dt,  số nhiều abaci,  abacuses
+- bàn tính
+
++ to move counters of an abacus; to work an abacus: tính bằng bàn tính, gảy bàn tính
+- (kiến trúc)
+- đầu cột, đỉnh cột
+
+@abacus
+- (Tech) bàn toán
+ @abaddon  
+*  dt
+- âm ti, địa ngục
+- con quỷ
+
+@abaft  
+*  dt
+- (hàng hải) ở phía sau bánh lái, gần phía bánh lái
+*  giới từ
+- (hàng hải) sau, ở đằng sau, ở phía sau
+
++ abaft the mast: sau cột buồm
+
+@abalienate
+* ngdgt
+- nhường lại tài sản
+ @abalienation
+* dt
+- sự nhường lại tài sản
+ @abalone  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) bào ngư
+
+@abampere
+- (Tech) abampe, ampe tuyệt đối (đơn vị cường độ tuyệt đối của dòng điện, 1 abampe 
++  10 ampe)
+ @abandon  
+*  ngdgt
+- bộm (nhiếp ảnh) (nhiếp ảnh) (từ Mỹ,nghĩa Mỹ) từ bỏ; bỏ rơi, ruồng bỏ
+
++ to abandon a hope: từ bỏ hy vọng
+
++ to abandon one's wife and children: ruồng bỏ vợ con
+
++ to abandon oneself to: đắm đuối, chìm đắm vào (nỗi thất vọng...)
+*  dt
+- sự phóng túng, sự tự do, sự buông thả
+
++ with abandon: phóng túng
+
+@abandon
+- (Tech) bỏ, bỏ rơi (đ)
+ @abandon call
+- (Tech) gọi bỏ
+ @abandoned  
+*  tt
+- bị bỏ rơi, bị ruồng bỏ
+- phóng đãng, truỵ lạc
+
+@abandoner  
+*  dt
+- (pháp lý) người rút đơn
+
+@abandonment  
+*  dt
+- sự bỏ, sự từ bỏ, sự bỏ rơi, sự ruồng bỏ
+- tình trạng bị bỏ rơi, tình trạng bị ruồng bỏ
+- sự phóng túng, sự tự do, sự buông thả
+
+@abandonment
+- (Tech) bỏ, từ bỏ (d)
+ @abapikal
+* tt
+- (sinh học) xa đỉnh; xa ngọn
+- dưới vực
+ @abarticular
+* tt
+- (giải phẫu) học ngoài khớp; trật khớp
+ @abase  
+*  ngdgt
+- làm hạ phẩm giá, làm mất thể diện, làm nhục
+
++ to abase one-self: tự hạ mình
+
+@abasement  
+*  dt
+- sự làm hạ phẩm giá, sự làm mất thể diện, sự làm nhục
+
+@abash  
+*  ngdgt
+- làm bối rối, làm lúng túng, làm luống cuống
+
+@abashed
+* tt
+- bối rối, xấu hổ
+ @abashment  
+*  dt
+- sự bối rối, sự lúng túng, sự luống cuống
+
+@abask  
+*  dt
+- (thơ ca) dưới ánh nắng, dưới ánh mặt trời, trong ánh lửa ấm
+
+@abatable  
+*  tt
+- có thể làm dịu, có thể làm yếu đi, có thể giảm bớt
+- có thể hạ, có thể bớt
+- có thể làm nhụt
+- có thể chấm dứt, có thể thanh trừ
+- (pháp lý) có thể huỷ bỏ, có thể thủ tiêu
+
+@abate  
+*  ngdgt
+- làm dịu đi, làm yếu đi, làm giảm bớt
+
++ to abate a pain: làm dịu đau
+- hạ (giá), bớt (giá)
+- làm nhụt (nhụt khí...)
+- làm cùn (lưỡi dao...)
+- thanh toán, làm mất hết (những điều khó chịu, bực bội)
+- (pháp lý) huỷ bỏ, thủ tiêu
+- (kỹ thuật) ram (thép)
+*  ndgt
+- dịu đi, yếu đi, nhụt đi, đỡ, bớt, ngớt
+
++ paint abates: cơn đau dịu đi
+
++ storm abates: cơn bão ngớt
+
+@abatement  
+*  dt
+- sự dịu đi, sự yếu đi, sự nhụt đi, sự giảm bớt, sự đỡ, sự ngớt
+- sự hạ (giá), sự bớt (giá)
+- sự chấm dứt, sự thanh toán
+- (pháp lý) sự huỷ bỏ, sự thủ tiêu
+
++ abatement of a contract: sự huỷ bỏ một hợp đồng
+
+@Abatement cost
+- (Econ) Chi phí kiểm soát; chi phí chống (ô nhiễm)
+: Chi phí làm giảm sự khó chịu như ô nhiễm hay tắc đường.
+ @abater
+* dt
+- người giảm bớt
+- (y học) thuốc làm dịu
+ @abatis  
+*  dt,  số nhiều abatis
+- (quân sự) đống cây chướng ngại, đống cây cản
+
+@abatised  
+*  tt
+- (quân sự) có đống cây chướng ngại, có đống cây cản
+
+@abattoir  
+*  dt
+- lò mổ, lò sát sinh
+
+@abaxial
+* tt
+- ở ngoài trục, xa trục
+ @abaya
+* dt
+- áo aba (của người A Rập)
+ @abb  
+*  dt
+- (nghành dệt) sợi canh, sợi khổ (của tấm vải)
+
+@abbacy  
+*  dt
+- chức vị trưởng tu viện; quyền hạn trưởng tu viện
+
+@abbatial  
+*  tt
+- (thuộc) trưởng tu viện
+
+@abbess  
+*  dt
+- bà trưởng tu viện
+
+@abbey  
+*  dt
+- tu viện
+- giới tu sĩ, các nhà tu, các bà xơ nhà thờ (lớn)
+
+@abbo
+* dt
+- số nhiều abos,  abbos
+- người thổ dân; dân cư trú đầu tiên tại địa phương
+ @abbot  
+*  dt
+- cha trưởng tu viện
+
+@abbr
+- (vt của abbreviated, abbreviation) viết tắt, chữ viết tắt
+ @abbreviate  
+*  ngdgt
+- tóm tắt, viết tắt; rút ngắn lại (cuộc đi thăm...)
+- (toán học) ước lược, rút gọn
+*  tt
+- tương đối ngắn
+
+@abbreviate
+- (Tech) rút gọn; viết tắt
+ @abbreviate
+- viết gọn, viết tắt
+ @abbreviated  
+*  tt
+- tóm tắt; viết tắt; rút ngắn lại
+- ngắn cũn cỡn (quần áo...)
+
+@abbreviated address
+- (Tech) địa chỉ rút gọn
+ @abbreviation  
+*  dt
+- sự tóm tắt, sự rút ngắn (cuộc đi thăm...)
+- bài tóm tắt
+- chữ viết tắt
+
++ Jan is the abbreviation January: Jan là chữ viết tắt của January
+- (toán học) sự ước lược, sự rút gọn
+
+@abbreviation
+- (Tech) sự tóm tắt; chữ viết tắt
+ @abbreviation
+- sự viết gọn, sự viết tắt
+ @abbreviator  
+*  dt
+- người tóm tắt
+
+@abc
+* dt
+- bảng chữ cái
+- khái niệm cơ sở, cơ sở
+- <đsắt> bảng chỉ đường theo ABC
+* dt
+- (vt của American Broadcasting Company) Công ty phát thanh truyền hình Mỹ
+- (vt của Australian Broadcasting Commission) Uy ban phát thanh truyền hình Uc Đại Lợi
+ @abcauline
+* tt
+- (sinh học) ngoài thân, xa thân
+ @abc-book
+* dt
+- sách vỡ lòng, sách học vần
+ @abdicable
+- xem abdicate
+ @abdicant   (abdicant) @abdicate  
+*  ngdgt
+- từ bỏ (quyền lợi, địa vị...)
+
++ to abdicate a position: từ bỏ một địa vị
+
++ to abdicate all one's rights: từ bỏ mọi quyền lợi
+*  ndgt
+- thoái vị, từ ngôi
+
+@abdication  
+*  dt
+- sự thoái vị, sự từ ngôi
+- sự từ bỏ (địa vị, chức vụ, quyền lợi...)
+
+@abdicator   (abdicant) @abdomen  
+*  dt
+- bụng
+
+@abdominal  
+*  tt
+- (thuộc) bụng; ở bụng
+
++ an abdominal operation: phẫu thuật ở bụng
+
++ abdominal cavity: khoang bụng
+
+@abdominally
+* dt
+- (thuộc) bụng; ở bụng
+ @abdominous  
+*  tt
+- phệ bụng
+
+@abducens
+* dt
+- dây thần kinh não VI ra ngoài
+ @abducent  
+*  tt
+- (giải phẫu) rẽ ra, giạng ra
+
+@abduct  
+*  ngdgt
+- bắt cóc, cuỗm đi, lừa đem đi (người đàn bà...)
+- (giải phẫu) rẽ ra, giạng ra
+
+@abduction  
+*  dt
+- sự bắt cóc (trẻ em...), sự bắt đi, sự cuỗm đi, sự lừa đem đi
+- (giải phẫu) sự giạng ra
+
+@abductor  
+*  dt
+- người bắt cóc, người cuỗm đi, người lừa đem đi
+- (giải phẫu) cơ giạng ((cũng) abductor muscle)
+
+@abeam  
+*  dt
+- (hàng hải),  (hàng không) đâm ngang sườn
+
++ abeam of us: ngang sườn chúng tôi; sóng ngang với chúng tôi
+
+@abearance
+* dt
+- phẩm hạnh
+
++  good abearance:phẩm hạnh tốt
+ @abecedarian  
+*  tt
+- sắp xếp theo thứ tự abc
+- sơ đẳng
+- dốt nát
+*  dt
+- (từ Mỹ,nghĩa Mỹ) học sinh vỡ lòng
+
+@abecedaries
+* dt
+- sách vỡ lòng; sách vần
+- điều sơ bộ; điều sơ đẳng
+ @abed  
+*  dt
+- ở trên giường
+
++ to lie abed: nằm ở trên giường
+
+@abele  
+*  dt
+- (thực vật học) cây bạch dương
+
+@abelmosk  
+*  dt
+- (thực vật học) cây vông vàng
+
+@abend (abnormal ending)
+- (Tech) kết thúc @abenteric
+* tt
+- (giải phẫu) học ngoài ruột, xa ruột
+ @aberrance   (aberrancy) @aberrancy   (aberrancy) @aberrant  
+*  tt
+- lầm lạc
+- (sinh vật học) khác thường
+
+@aberrantly
+- xem aberrant
+ @aberration  
+*  dt
+- sự lầm lạc; phút lầm lạc
+- sự kém trí khôn, sự loạn trí
+- sự khác thường
+- (vật lý) quang sai
+
++ lateral aberration: quang sai ngang
+- (thiên văn học) tính sai
+
++ secular aberration: tính sai trường kỳ
+
++ annual aberration: tính sai hằng năm
+
+@aberration
+- (Tech) quang sai
+ @aberration
+- (vật lí) quang sai
+ @abet  
+*  ngdgt
+- xúi bẩy, xúi giục, khích
+- tiếp tay (ai làm bậy)
+
+@abetment   (abettal) @abettal   (abettal) @abette   (abettor) @abetter
+* dt
+- kẻ xúi giục
+- kẻ tiếp tay
+ @abettor   (abettor) @abeyance  
+*  dt
+- sự đọng lại
+
++ work in abeyance: công việc còn đọng lại
+- sự đình chỉ, sự hoãn lại, sự tạm thời không áp dụng (đạo luật...)
+
++ to be in abeyance; to fall into abeyance: bị đình chỉ, bị hoãn lại, tạm thời không được áp dụng
+- (pháp lý) tình trạng tạm thời không có người nhận; tình trạng tạm thời vô chủ
+
++ lands in abeyance: đất vô thừa nhận, đất vô chủ
+- tình trạng trống, tình trạng khuyết (một chức vị)
+
+@abeyant  
+*  tt
+- tạm thời đình chỉ, tạm nghỉ hoạt động
+
+@abhor  
+*  ngdgt
+- ghê tởm; ghét cay ghét đắng
+
+@abhorrence  
+*  dt
+- sự ghê tởm
+
++ to have an abhorrence of: sự ghét cay ghét đắng
+
++ to hold in abhorrence of: ghê tởm; ghét cay ghét đắng
+- điều ghê tởm; cái bị ghét cay ghét đắng
+
+@abhorrent  
+*  tt
+- ghê tởm, đáng ghét
+
++ to be abhorrent to someone: ghê tởm đối với ai, bị ai ghê tởm, bị ai ghét cay ghét đắng
+- (: from) trái với, mâu thuẫn với, không hợp với
+
++ conduct abhorrent from principles: tư cách mâu thuẫn với phép tắc
+- (từ cổ,nghĩa cổ) (: of) ghê tởm, ghét cay ghét đắng
+
++ to be abhorrent of something: ghê tởm cái gì, ghét cay ghét đắng cái gì
+
+@abhorrently
+- xem abhorrent
+ @abhorrer
+- xem abhor
+ @abidance  
+*  dt
+- sự tôn trọng, sự tuân theo, sự thi hành đúng
+
++ abidance by rules: sự tôn trọng luật lệ, sự tuân theo luật lệ
+- (: in) sự tồn tại; sự kéo dài
+
+@abide  
+*  ndgt (abode; abode,  abide)
+- tồn tại; kéo dài
+
++ this mistake will not abide for ever: sai lầm này sẽ không thể kéo dài mãi được
+- (: by) tôn trọng, giữ, tuân theo, chịu theo; trung thành với
+
++ to abide by one's friend: trung thành với bạn
+- (từ cổ,nghĩa cổ) ở, ngụ tại
+
++ to abide with somebody: ở với ai
+*  ngdgt
+- chờ, chờ đợi
+
++ to abide one's time: chờ thời cơ
+- chịu đựng, chịu
+
++ we can't abide his fits of temper: chúng tôi không thể chịu được những cơn nóng giận của hắn
+- chống đỡ được (cuộc tấn công)
+
+@abider
+- xem abide
+ @abiding  
+*  tt
+- (văn học) không thay đổi, vĩnh cửu, tồn tại mãi mãi
+
+@abidingly
+- xem abiding
+ @abience
+* dt
+- sự tránh kích thích
+ @abient
+* tt
+- tránh kích thích
+ @abies
+* dt
+- (thực vật) cây linh sam
+ @abietene  
+*  dt
+- (hoá học) Abietin
+
+@abigail  
+*  dt
+- thị tỳ, nữ tỳ
+
+@abilitate  
+*  dgt
+- (từ hiếm,nghĩa hiếm) (như) habiliate
+
+@ability  
+*  dt
+- năng lực, khả năng (làm việc gì)
+- (số nhiều) tài năng, tài cán
+
++ a man of abilities: một người tài năng
+*  (pháp lý)
+- thẩm quyền
+- (thương nghiệp) khả năng thanh toán được; vốn sẵn có, nguồn vốn (để đáp ứng khi cần thiết)
+
++ to be best of one's ability: với tư cách khả năng của mình
+
+@ability
+- khả năng
+ @Ability and earnings
+- (Econ) Năng lực và thu nhập
+: Thước đo về khả năng và trình độ (học vấn) có tương quan chặt chẽ với nhau, làm tăng khả năng là phần lớn lợi tức được ước tính do giáo dục trên thực tế cũng chính là lợi tức do năng  lực
+ @Ability to pay
+- (Econ) Khả năng chi trả.
+ @Ability to pay theory
+- (Econ) Lý thuyết về khả năng chi trả
+: Một lý thuyết về cách đánh thuế theo đó gánh nặng về thuế nên được phân bổ theo khả năng chi trả; và một hệ thống thuế kiểu luỹ tiến, tỷ lệ hay luỹ thoái, tuỳ thuộc vào thước đo được sử dụng và độ dốc giả định của đồ thị thoả dụng biên của thu nhập.
+ @abiogenesis   (abiogeny) @abiogenetic  
+*  tt
+- (sinh vật học) phát sinh tự nhiên
+
+@abiogenetically  
+*  dt
+- (sinh vật học) phát sinh tự nhiên
+
+@abiogenist  
+*  dt
+- người tin thuyết phát sinh tự nhiên
+
+@abiogenous  
+*  tt
+- (sinh vật học) phát sinh tự nhiên
+
+@abiogeny   (abiogeny) @abiological  
+*  tt
+- phi sinh vật học
+
+@abiologically
+- xem abiological
+ @abioseston
+* dt
+- (sinh học) chất vô cơ lơ lửng
+ @abiosis
+- xem abiotic
+ @abiotic  
+*  tt
+- vô sinh
+
+@abiotically
+- xem abiotic
+ @abiotrophic
+* tt
+- kiệt sức sống; suy sức sống
+ @abirritant
+* dt
+- thuốc giảm kích thích
+ @abirritate
+* ngdgt
+- giảm kích thích
+ @abirritation
+* dt
+- sự giảm kích thích
+ @abject  
+*  tt
+- hèn hạ, thấp hèn, đê tiện, đáng khinh
+- khốn khổ, khốn nạn
+
++ in abject poverty: nghèo rớt mồng tơi, nghèo xác nghèo xơ
+
+@abjection  
+*  dt
+- sự hèn hạ, sự thấp hèn, sự đê tiện
+
+@abjectly
+* dt
+- hèn hạ, đê tiện
+- khốn khổ, khốn nạn
+ @abjectness  
+*  dt
+- sự hèn hạ, sự thấp hèn, sự đê tiện, sự đáng khinh
+- sự khốn khổ, sự khốn nạn
+
+@abjudicate
+* ngdgt
+- tuyên bố từ bỏ
+- thề bỏ đạo
+ @abjuration  
+*  dt
+- sự tuyên bố bỏ, sự thề bỏ
+- (tôn giáo) sự thề bỏ đạo, sự bội đạo
+
+@abjure  
+*  dgt
+- tuyên bố bỏ, nguyện bỏ
+
++ to abjure one's religion: bỏ đạo
+
++ to abjure one's rights: tuyên bố từ bỏ quyền lợi của mình
+- rút lui (ý kiến, lời hứa...)
+
++ to abjure one's opinion: rút lui ý kiến
+- thề bỏ (đất nước) đi mãi mãi
+
+@abjurer
+- xem abjure
+ @ablactation  
+*  dt
+- sự cai sữa
+- sự cạn sữa
+
+@ablastous
+* tt
+- (thực vật) không mầm
+ @ablate  
+*  ngdgt
+- (y học) cắt bỏ
+
+@ablation  
+*  dt
+- (y học) sự cắt bỏ (một bộ phận trong cơ thể)
+- (địa lý,địa chất) sự tải mòn (đá)
+- (địa lý,địa chất) sự tiêu mòn (sông băng)
+
+@ablative  
+*  tt
+- (ngôn ngữ học) (thuộc) cách công cụ
+*  dt
+- (ngôn ngữ học) cách công cụ
+
+@ablaut  
+*  dt
+- (ngôn ngữ học) Aplau
+
+@ablaze  
+*  tt & dt
+- rực cháy, bốc cháy
+- sáng chói lọi
+- bừng bừng, rừng rực
+
++ ablaze with anger: bừng bừng nổi giận
+
+@able  
+*  tt
+- có năng lực, có tài
+
++ an able co-op manager: một chủ nhiệm hợp tác xã có năng lực
+
++ an able writer: một nhà văn có tài
+
++ to be able to: có thể
+
++ to be able to do something: có thể làm được việc gì
+- (pháp lý) có đủ tư cách, có đủ thẩm quyền
+
+@able seaman
+* dt
+- (vt là AB) thủy thủ hạng nhất
+ @able-bodied  
+*  tt
+- khoẻ mạnh; đủ tiêu chuẩn sức khoẻ (làm nghĩa vụ quân sự)
+
++ able-bodied seaman: ((viết tắt) A.B.) thuỷ thủ hạng nhất
+
+@ablegate
+* dt
+- đại sứ giáo hoàng
+ @ablen   (ablet) @ableness
+* dt
+- năng lực, tài năng
+- sự cường tráng
+ @ablepsia
+* dt
+- tật mù; chứng mù
+ @ablet   (ablet) @ablings   (ablins) @ablins   (ablins) @abloom  
+*  tt & dt
+- đang nở (ra) hoa
+
+@abluent  
+*  tt
+- rửa sạch, tẩy sạch
+*  dt
+- chất tẩy, thuốc tẩy
+
+@ablush  
+*  tt & dt
+- thẹn đỏ mặt
+
+@ablution  
+*  dt,  (thường) số nhiều
+- (tôn giáo) lễ rửa tội; lễ tắm gội; lễ rửa sạch các đồ thờ
+- (tôn giáo) nước tắm gội; nước rửa đồ thờ
+- ((thường) số nhiều) sự tắm gội, sự rửa ráy
+
+@ablutionary
+- xem ablution
+ @ably  
+*  dt
+- có khả năng, có tài, khéo léo, tài tình
+
+@abm
+- (vt của anti-ballistic missile) tên lửa chống tên lửa đạn đạo
+ @abnegate  
+*  ngdgt
+- nhịn (cái gì)
+- bỏ (đạo)
+- từ bỏ (quyền lợi...); từ chối không nhận (đặc quyền...)
+
+@abnegation  
+*  dt
+- sự bỏ (đạo...); sự từ bỏ (quyền lợi); sự từ chối không nhận (đặc quyền...)
+- sự quên mình, sự hy sinh, sự xả thân ((thường) self abnegation)
+
+@abnegator
+- xem abnegate
+ @abnormal  
+*  tt
+- không bình thường, khác thường; dị thường
+
+@abnormal
+- (Tech) bất thường, dị thường; không chuẩn
+ @abnormal
+- bất thường; (thống kê) không chuẩn
+ @abnormal end (ABEND)
+- (Tech) kết thúc bất thường
+ @abnormal end of task
+- (Tech) kết thúc bất thường (một) nhiệm vụ
+ @abnormal end of transmission
+- (Tech) kết thúc truyền bất thường
+ @abnormal function
+- (Tech) chức năng @Abnormal profits
+- (Econ) Lợi nhuận dị thường
+: Xem SUPER-NORMAL PROFITS
+ @abnormal propagation
+- (Tech) truyền lan bất thường
+ @abnormal reflection
+- (Tech) phản xạ bất thường
+ @abnormal refraction
+- (Tech) khúc xạ bất thường
+ @abnormal return address
+- (Tech) địa chỉ hồi báo bất thường
+ @abnormal status
+- (Tech) trạng thái bất thường
+ @abnormal termination
+- (Tech) cắt dứt bất thường
+ @abnormalcy   (abnormality) @abnormality   (abnormality) @abnormally
+* dt
+- dị thường, khác thường
+ @abnormity   (abnormality) @abo
+* dt
+- thổ dân (Uc, lóng, sỉ nhục)
+ @aboard  
+*  dt
+- trên tàu, trên boong tàu, trên thuyền, trên xe lửa; trên máy bay
+
++ to go aboard: lên tàu, lên boong
+- dọc theo; gần, kế
+
++ close (hard) aboard: nằm kế sát
+
++ to keep the land aboard: đi dọc theo bờ
+
++ all aboard!: đề nghị mọi người lên tàu!
+
++ to fall aboard of a ship: va phải một chiếc tàu khác
+*  giới từ
+- lên trên (tàu thuỷ, xe lửa, máy bay...)
+
++ to go aboard a ship: lên tàu
+
++ to travel aboard a special train: đi du lịch trên một chuyến xe lửa đặc biệt
+
+@abode  
+*  dt
+- nơi ở
+
++ to take up (make) one's abode: ở
+
++ of no fixed abode: không có chỗ ở nhất định
+- sự ở lại, sự lưu lại
+*  thời quá khứ & động tt quá khứ của abide
+
+@abohm
+- (Tech) abôm (1 abôm 
++  10 lũy thừa -9 ôm)
+ @aboil  
+*  tt & dt
+- đang sôi
+
+@abolish  
+*  ngdgt
+- thủ tiêu, bãi bỏ, huỷ bỏ
+
++ to abolish the exploitation of man by man: thủ tiêu chế độ người bóc lột người
+
++ to abolish acontract: huỷ bỏ một bản giao kèo
+
+@abolishable  
+*  tt
+- có thể thủ tiêu, có thể bãi bỏ, có thể huỷ bỏ
+
+@abolisher  
+*  dt
+- người thủ tiêu, người bãi bỏ, người huỷ bỏ
+
+@abolishment  
+*  dt
+- sự thủ tiêu, sự bãi bỏ, sự huỷ bỏ
+
+@abolition  
+*  dt
+- sự thủ tiêu, sự bãi bỏ, sự huỷ bỏ
+
++ abolition of taxes: sự bãi bỏ thuế
+
++ abolition of slavery: sự thủ tiêu chế độ nô lệ
+
+@abolitionary
+- xem abolition
+ @abolitionise   (abolitionise) @abolitionism  
+*  dt
+- (sử học) chủ nghĩa bãi nô
+
+@abolitionist  
+*  dt
+- người theo chủ nghĩa bãi nô
+
+@abolitionize   (abolitionise) @abomasum
+* dt
+- dạ múi khế túi (động vật nhai lại)
+ @abominable  
+*  tt
+- ghê tởm, kinh tởm
+
++ an abominable crime tội ác ghê tởm: (thông tục) tồi, tồi tệ, rất xấu
+
++ abominable weather: thời tiết rất xấu
+
++ an abominable meal: bữa cơm tồi
+
+@abominable snowman
+* dt
+- người tuyết (tương truyền là động vật to cao)
+ @abominableness  
+*  dt
+- sự ghê tởm, sự kinh tởm
+- (thông tục) sự tồi tệ
+
+@abominably
+* dt
+- một cách đáng ghê tởm
+ @abominate  
+*  ngdgt
+- ghê tởm; ghét cay ghét đắng
+- (thông tục) không ưa, ghét mặt
+*  tt
+- (thơ ca) ghê tởm, kinh tởm
+
+@abomination  
+*  dt
+- sự ghê tởm, sự kinh tởm; sự ghét cay ghét đắng
+
++ to hold something in abomination: ghê tởm cái gì
+- vật kinh tởm; việc ghê tởm; hành động đáng ghét
+
+@abominator
+- xem abominate
+ @abonent
+- (Tech) người thuê bao; người dùng đầu cuối
+ @aboral
+* tt
+- (sinh học) xa miệng; đối miệng
+ @aboriginal  
+*  tt
+- (thuộc) thổ dân; (thuộc) thổ sản, (thuộc) đặc sản
+
++ the aboriginal inhabitants of a country: thổ dân của một nước
+
++ tea is an aboriginal product of Phutho: chè là một đặc sản của Phú thọ
+- ban sơ, nguyên thuỷ, cổ sơ
+*  dt
+- thổ dân
+- (từ hiếm,nghĩa hiếm) thổ sản
+
+@aboriginality
+* dt
+- đặc điểm nguyên sơ
+- tính thuần phát
+ @aboriginally
+- xem aboriginal
+ @aborigines  
+*  dt số nhiều
+- thổ dân
+
++ Indians are the aborigines of America: người da đỏ là thổ dân của châu Mỹ
+- thổ sản
+
+@abort  
+*  ndgt
+- sẩy thai; đẻ non ((nghĩa đen) & (nghĩa bóng))
+- (sinh vật học) không phát triển, thui
+*  ngdgt
+- làm sẩy thai, phá thai
+
+@abort
+- (Tech) hủy bỏ, ngưng nửa chừng, bỏ dở
+ @aborted  
+*  tt
+- bị sẩy (thai)
+- (sinh vật học) không phát triển, thui
+
+@aborticide  
+*  dt
+- thuốc giết thai
+
+@abortifacient  
+*  tt
+- phá thai, làm sẩy thai
+*  dt
+- thuốc phá thai
+
+@abortin
+* dt
+- chất sẩy thai; abotin
+ @abortion  
+*  dt
+- sự sẩy thai, sự phá thai; sự nạo thai
+- người lùn tịt; đứa bé đẻ non, vật đẻ non; vật dị dạng, quái thai
+- sự chết non chết yểu, sự sớm thất bại (của một kế hoạch, ý đồ...)
+- (sinh vật học) tình trạng phát triển không đầy đủ
+
+@abortion mechanism
+- (Tech) cơ năng bỏ dở
+ @abortionist  
+*  dt
+- người phá thai
+
+@abortive  
+*  tt
+- đẻ non
+
++ an abortive child: đứa bé đẻ non
+- non yếu, chết non chết yểu; sớm thất bại
+
++ an abortive plan: một kế hoạch sớm thất bại
+- (sinh vật học) không phát triển đầy đủ
+
++ an abortive organ: một cơ quan không phát triển đầy đủ
+
+@abortive
+- (Tech) bỏ dở
+ @abortive subexit
+- (Tech) lối thoát phụ khi bỏ dở
+ @abortively
+* dt
+- non yểu
+ @abortiveness  
+*  dt
+- sự đẻ non
+- sự non yếu, sự chết non chết yểu
+- (sinh vật học) sự không phát triển đầy đủ
+
+@aboulia   (abulia) @abound  
+*  ndgt
+- (: in,  with) có rất nhiều, có thừa, nhan nhản, lúc nhúc, đầy dẫy
+
++ coal abounds in our country: than đá có rất nhiều ở nước ta
+
++ to abound in courage: có thừa can đảm
+
+@abounding  
+*  tt
+- nhiều, phong phú, thừa thãi
+
+@about  
+*  dt
+- xung quanh, quanh quẩn, đây đó, rải rác
+
++ he is somewhere about: anh ta ở quanh quẩn đâu đó
+
++ rumours are about: đây đó có tiếng đồn (về việc gì)
+- đằng sau
+
++ about turn!: đằng sau quay
+- khoảng chừng, gần
+
++ about forty: khoảng 40
+
++ it is about two o'clock: bây giờ khoảng chừng hai giờ
+- vòng
+
++ to go a long way about: đi đường vòng xa
+!about and about
+- (từ Mỹ,nghĩa Mỹ) rất giống nhau
+!to be about
+- bận (làm gì)
+- đã dậy được (sau khi ốm)
+- có mặt
+!about right
+- đúng, đúng đắn
+- tốt, được
+*  giới từ
+- về
+
++ to know much about Vietnam: biết nhiều về Việt Nam
+
++ what shall we write about?: chúng ta sẽ viết về cái gì bây giờ?
+- quanh quất, quanh quẩn đây đó, rải rác
+
++ to walk about the garden: đi quanh quẩn trong vườn
+- xung quanh
+
++ the trees about the pound: cây cối xung quanh ao
+- khoảng chừng, vào khoảng
+
++ about nightfall: vào khoảng chập tối
+- bận, đang làm (gì...)
+
++ he is still about it: hắn hãy còn bận làm việc đó
+
++ to go about one's work: đi làm
+- ở (ai); trong người (ai), theo với (ai)
+
++ I have all the documents about me: tôi có mang theo đầy đủ tài liệu
+
++ there's something nice about him: ở anh ta có một cái gì đó hay hay
+!to be about to
+- sắp, sắp sửa
+
++ the train is about to start: xe lửa sắp khởi hành
+
++ man about town: tay ăn chơi, tay giao thiệp rộng
+
++ what are you about?: anh muốn gì?, anh cần gì?
+- (từ hiếm,nghĩa hiếm) anh đang làm gì đấy?
+!what about?
+- (xem) what
+*  ngdgt
+- lái (thuyền...) theo hướng khác
+
+@about...
+- (Tech) về... 
+ @about
+- độ, chừng; xung quanh; nói về, đối với
+- a.five per cent chừng trăm phần trăm 
+ @about-face  
+*  dt
+- (quân sự) sự quay đằng sau
+- sự trở mặt, sự thay đổi hẳn thái độ, sự thay đổi hẳn ý kiến
+*  ndgt
+- (quân sự) quay đằng sau
+
+@about-sledge  
+*  dt
+- (kỹ thuật) búa tạ
+
+@about-turn
+* dt
+- sự thay đổi ý kiến, sự đổi ý
+ @above  
+*  dt
+- trên đầu, trên đỉnh đầu
+
++ clouds are drifting above: mây đang bay trên đỉnh đầu
+- ở trên
+
++ as was started above: như đã nói rõ ở trên
+
++ as was remarked above: như đã nhận xét ở trên
+- trên thiên đường
+- lên trên; ngược dòng (sông); lên gác
+
++ a staircase leading above: cầu thang lên gác
+
++ you will find a bridge above: đi ngược dòng sông anh sẽ thấy một cái cầu
+- trên, hơn
+
++ they were all men of fifty and above: họ tất cả đều năm mươi và trên năm mươi tuổi
+
++ over and above: hơn nữa, vả lại, ngoài ra
+*  giới từ
+- ở trên
+
++ the plane was above the clouds: máy bay ở trên mây
+- quá, vượt, cao hơn
+
++ this work is above my capacity: công việc này quá khả năng tôi
+
++ he is above all the other boys in his class: nó vượt tất cả những đứa trẻ khác trong lớp
+- trên, hơn
+
++ to value independence and freedom above all: quý độc lập và tự do hơn tất cả
+
++ above all: trước hết là, trước nhất là, trước tiên là
+!above oneself
+- lên mặt
+- phởn, bốc
+
++ to keep one's head above water: giữ cho mình được an toàn; giữ khỏi mang công mắc nợ
+*  tt
+- ở trên, kể trên, nói trên
+
++ the above facts: những sự việc kể trên
+
++ the above statements: những lời phát biểu ở trên
+*  dt
+- the above cái ở trên; điều kể trên; điều nói trên
+
+@above
+- ở trên, cao hơn
+ @above-board  
+*  tt & dt
+- thẳng thắn, không che đậy, không giấu giếm
+
+@aboveboard
+* tt, adv
+- thẳng thắn, không che đậy, không giấu giếm
+ @above-cited
+* tt
+- đã dẫn, đã nhắc đến
+ @above-ground  
+*  tt
+- ở trên mặt đất
+- còn sống trên đời
+*  dt
+- ở trên mặt đất
+- lúc còn sống ở trên đời
+
+@aboveground
+* tt
+- ở trên mặt đất
+- còn sống trên đời
+* dt
+- ở trên mặt đất
+- lúc còn sống ở trên đời
+ @above-mentioned  
+*  tt
+- kể trên, nói trên
+
+@abovementioned
+* tt
+- kể trên, nói trên
+ @above-named
+* tt
+- đã nói ở trên
+ @abracadabra  
+*  dt
+- câu thần chú
+- lời nói khó hiểu
+
+@abrachia
+* dt
+- tật thiếu tay
+ @abrachiate
+* tt
+- thiếu tay
+ @abrachius
+* dt
+- quái thai không tay
+ @abradant  
+*  tt
+- làm mòn, mài mòn
+*  dt
+- chất mài mòn
+
+@abrade  
+*  ngdgt
+- làm trầy (da); cọ xơ ra
+- (kỹ thuật) mài mòn
+
+@abranchial   (abranchiate) @abranchiate   (abranchiate) @abrase
+* ngdgt
+- cắt mất
+ @abrasion  
+*  dt
+- sự làm trầy (da); sự cọ xơ ra; chỗ bị trầy da
+- (địa lý,địa chất),  (kỹ thuật) sự mài mòn
+
+@abrasive  
+*  tt
+- làm trầy (da)
+- để cọ xơ ra
+- để mài mòn
+*  dt
+- chất mài mòn
+
+@abreact
+* ngdgt
+- giải toả mặc cảm
+ @abreaction
+* dt
+- (y học) sự giải toả mặc cảm
+ @abreast  
+*  dt
+- cùng hàng, sóng hàng, ngang nhau; sát nhau, sát vai, bên cạnh
+
++ to walk abreast: đi sóng hàng với nhau
+
++ abreast the times: theo kịp thời đại
+!to keep abreast of (with)
+- (xem) keep
+
+@abrego
+* dt
+- (động vật) cá ngừ vây dài
+ @abridge  
+*  ngdgt
+- rút ngắn lại, cô gọn, tóm tắt
+- hạn chế, giảm bớt (quyền...)
+- lấy, tước
+
++ to abridge somebody of his rights: tước quyền lợi của ai
+
+@abridge
+- rút gọn, làm tắt
+ @abridgement   (abridgement) @abridger
+- xem abridge
+ @abridgment   (abridgement) @abroach  
+*  tt
+- bị giùi lỗ; bị chọc thủng (thùng rượu để lấy rượu ra...)
+
++ to set a cask abroach: giùi lỗ một thùng rượu, khui một thùng rượu
+
+@abroad  
+*  dt
+- ở nước ngoài, ra nước ngoài
+
++ to live abroad: sống ở nước ngoài
+
++ to go abroad: đi ra nước ngoài
+- khắp nơi, đang truyền đi khắp nơi
+
++ there is a runmour abroad that...: khắp nơi đang có tin đồn rằng...
+
++ the schooimaster is abroad: việc học hành bây giờ đang trở thành phổ biến
+- ngoài trời (đối với trong nhà)
+
++ life abroad is very healthy: sống ở ngoài trời tốt cho sức khoẻ
+- (thông tục) nghĩ sai, nhầm, tưởng lầm
+
++ to be all abroad: nghĩ sai hoàn toàn, hoàn toàn lầm lẫn
+!from abroad
+- từ nước ngoài
+
++ these machines were brought from abroad: những chiếc máy này mang từ nước ngoài vào
+
+@abrogable
+* tt
+- có thể hủy bỏ
+ @abrogate  
+*  ngdgt
+- bãi bỏ, huỷ bỏ, thủ tiêu; bài trừ
+
++ backward customs musr be abrogated: phải bài trừ những hủ tục
+
++ to abrogate a law: huỷ bỏ một đạo luật
+
+@abrogation  
+*  dt
+- sự bãi bỏ, sự huỷ bỏ, sự thủ tiêu; sự bài trừ
+
+@abrogative
+* tt
+- bị hủy bỏ
+ @abrupt  
+*  tt
+- bất ngờ, đột ngột; vội vã
+
++ an abrupt turn: chỗ ngoặc bất ngờ
+
++ an abrupt departure: sự ra đi vội vã (đột ngột)
+- cộc lốc, lấc cấc, thô lỗ
+
++ an abrupt answers: câu trả lời cộc lốc
+
++ abrupt manners: cách cư xử lấc cấc
+- dốc đứng, hiểm trở, gian nan
+
++ abrupt coast: bờ biển dốc đứng
+
++ the road to science is very abrupt: con đường đi tới khoa học rất gian nan
+- trúc trắc, rời rạc (văn)
+- bị đốn, bị chặt cụt; như thể bị đốn, bị chặt cụt (cây...)
+
+@abrupt junction
+- (Tech) tiếp giáp dốc thẳng đứng
+ @abrupt junction diode
+- (Tech) đèn hai cực tiếp giáp dốc thẳng đứng
+ @abruption  
+*  dt
+- sự đứt rời, sự gãy rời
+
+@abruptly
+* dt
+- bất ngờ, đột ngột
+- lấc cấc, xấc xược
+ @abruptness  
+*  dt
+- sự bất ngờ, sự đột ngột, sự vội vã
+- tính cộc lốc, tính lấc cấc; sự thô lỗ
+- thế dốc đứng, sự hiểm trở; sự gian nan
+- sự trúc trắc, sự rời rạc (văn)
+
+@abscess  
+*  dt
+- (y học) áp xe
+- (kỹ thuật) chỗ rỗ (ở kim loại)
+
+@abscessed
+* tt
+- (y học) bị áp-xe
+- bị rỗ
+ @abscise
+* dgt
+- cắt ra, bị cắt ra
+ @absciss  
+*  dt abscisses
+- (toán học) độ hoành
+
+@abscissa  
+*  dt,  số nhiều abscissae
+- (như) absciss
+
+@abscissa
+- (Tech) hoành độ
+ @Abscissa
+- (Econ) Hoành độ
+: Giá trị trên trục hoành (trục X) của một điểm trên đồ thị hai chiều.
+ @abscissa, abscissae
+- hoành độ
+ @abscissae  
+*  dt,  số nhiều abscissae
+- (như) absciss
+
+@abscisse  
+*  dt,  số nhiều abscisses
+- (như) absciss
+
+@abscission  
+*  dt
+- (y học) sự cắt bỏ
+
+@abscond  
+*  ndgt
+- lẫn trốn, bỏ trốn
+- trốn tránh pháp luật
+
+@absconder  
+*  dt
+- người lẫn trốn, người bỏ trốn
+- người trốn tránh pháp luật
+
+@abseil
+* dgt
+- trèo xuống, tụt xuống
+ @absence  
+*  dt
+- sự vắng mặt, sự nghỉ (học), sự đi vắng; thời gian vắng mặt, lúc đi vắng
+
++ to have a long absence from school: nghỉ học lâu
+- sự thiếu, sự không có
+
++ to carry out production in the absence of necessary machines: sản xuất trong tình trạng thiếu những máy móc cần thiết
+- sự điểm danh
+
++ absence of mind: sự lơ đãng
+
++ absence without leave: sự nghỉ không phép
+!leave of absence
+- (xem) leave
+
+@absence or presence
+- (Tech) vắng mặt hay hiện diện, không hay có
+ @absent  
+*  tt
+- vắng mặt, đi vắng, nghỉ
+- lơ đãng
+
++ an absent air: vẻ lơ đãng
+
++ to answer in an absent way: trả lời một cách lơ đãng
+*  dgt phãn thân
+- vắng mặt, đi vắng, nghỉ
+
++ to absent oneself from school: nghỉ học
+
++ to absent oneself from work: vắng mặt không đi làm
+
+@absent service
+- (Tech) dịch vụ (truyền đạt lúc) vắng mặt
+ @absent subscriber service
+- (Tech) dịch vụ thuê bao vắng mặt
+ @absent transfer
+- (Tech) truyền đạt vắng mặt
+ @absentation
+* dt
+- sự vắng mặt, trạng thái lơ đãng, không chú ý
+ @absentee  
+*  dt
+- người vắng mặt, người đi vắng, người nghỉ
+- địa chủ không ở thường xuyên tại nơi có ruộng đất
+
+@absentee ballot
+* dt
+- việc bỏ phiếu trước của những cử tri nào không thể có mặt vào ngày bầu cử chính thức
+ @Absentee landlord
+- (Econ) Địa chủ (chủ bất động sản) cách biệt
+: Người chủ sở hữu đất hoặc nhà sống ở một nơi xa bất động sản của mình, thu tiền thuê và quản lý việc kinh doanh của mình thông qua trung gian hay người đại diện.
+ @absentee landlord
+* dt
+- người không thường xuyên có mặt ở đồn điền của mình
+ @absenteeism  
+*  dt
+- sự hay vắng mặt, sự vắng mặt không có lý do chính đáng (ở công sở, ở xí nghiệp...)
+
+@Absenteeism
+- (Econ) Trốn việc, sự nghỉ làm không có lý do
+: Sự nghỉ làm, mặc dù các điều khoản của hợp đồng lao động yêu cầu người lao động phải đi làm và hợp đồng vẫn còn giá trị.
+ @absently  
+*  dt
+- lơ đãng
+
+@absent-minded  
+*  tt
+- lơ đãng
+
+@absent-mindedly
+* dt
+- đãng trí
+ @absent-mindedness  
+*  dt
+- sự lơ đãng, tính lơ đãng
+
+@absinth   (absinthe) @absinthe   (absinthe) @absinthian  
+*  tt
+- (thuộc) apxin
+
+@absolutary
+* tt
+- xá tội; tha tội
+ @absolute  
+*  tt
+- tuyệt đối, hoàn toàn; thuần tuý, nguyên chất
+
++ absolute confidence in the Party's leadership: sự tin tưởng tuyệt đối vào sự lãnh đạo của Đảng
+
++ absolute music: âm nhạc thuần tuý
+
++ absolute alcohol: rượu nguyên chất
+- chuyên chế, độc đoán
+
++ absolute monarchy: nền quân chủ chuyên chế
+- xác thực, đúng sự thực, chắc chắn
+
++ absolute evidence: chứng cớ xác thực
+- vô điều kiện
+
++ an absolute promise: lời hứa vô điều kiện
+
+@absolute
+- (Tech) tuyệt đối
+ @absolute
+- tuyệt đối   hình tuyệt đối
+@absolute address
+- (Tech) địa chỉ tuyệt đối
+ @absolute address variable
+- (Tech) biến số địa chỉ tuyệt đối
+ @absolute addressing
+- (Tech) phương pháp định địa chỉ tuyệt đối
+ @Absolute advantage
+- (Econ) Lợi thế tuyệt đối.
+: Xem Comparative Advantage.
+ @absolute altimeter
+- (Tech) máy đo độ cao tuyệt đối
+ @absolute ampere
+- (Tech) ampe tuyệt đối
+ @absolute coordinate
+- (Tech) tọa độ tuyệt đối
+ @Absolute cost advantage
+- (Econ) Lợi thế nhờ phí tổn tuyệt đối.
+: Một khái niệm đề cập tới những lợi thế của các hãng đã thiết lập, vì thế các hãng này có thể duy trì chi phí trung bình thấp hơn so với các hãng mới nhập ngành không phụ thuộc vào mức sản lượng. (Xem Barriers to entry)
+ @absolute data
+- (Tech) dữ kiện tuyệt đối
+ @absolute electrometer
+- (Tech) điện tĩnh kế tuyệt đối
+ @absolute element
+- (Tech) phần tử tuyệt đối
+ @absolute error
+- (Tech) sai số tuyệt đối
+ @absolute expression
+- (Tech) biểu thức tuyệt đối
+ @absolute file specifier
+- (Tech) tên gọi tuyệt đối của tập tin
+ @absolute galvanometer
+- (Tech) điện kế tuyệt đối
+ @absolute generation number
+- (Tech) số thế hệ tuyệt đối
+ @Absolute income hypothesis
+- (Econ) Giả thuyết thu nhập tuyệt đối.
+: Giả thuyết này cho rằng các chi phí cho tiêu dùng (C) là một hàm số của thu nhập khả dụng của cá nhân (Yd): C 
++  C (Yd).
+ @absolute instruction
+- (Tech) chỉ thị tuyệt đối, chỉ thị ngôn ngữ máy
+ @absolute level
+- (Tech) mức tuyệt đối
+ @absolute loader
+- (Tech) bộ nạp tuyệt đối
+ @absolute majority
+* dt
+- đa số tuyệt đối, tuyệt đại đa số
+ @Absolute monopoly
+- (Econ) Độc quyền tuyệt đối.
+: Xem Monopoly.
+ @absolute move
+- (Tech) di chuyển tuyệt đối
+ @absolute movement
+- (Tech) di động tuyệt đối
+ @absolute name
+- (Tech) tên tuyệt đối
+ @absolute ohm
+- (Tech) ohm tuyệt đối
+ @absolute order
+- (Tech) thứ tự tuyệt đối
+ @absolute path
+- (Tech) đường tuyệt đối
+ @absolute path name
+- (Tech) tên đường tuyệt đối
+ @absolute permeability
+- (Tech) độ từ thẩm tuyệt đối
+ @absolute permittivity
+- (Tech) hằng số điện môi tuyệt đối
+ @absolute phase
+- (Tech) vị tướng @absolute plotting
+- (Tech) phép vẽ dùng vị trí tuyệt đối
+ @absolute plotting unit
+- (Tech) đơn vị vẽ tuyệt đối
+ @absolute position
+- (Tech) vị trí tuyệt đối
+ @Absolute prices
+- (Econ) Giá tuyệt đối.
+: Giá đo bằng tiền ngược với với giá tương đối. Đó là giá của các hàng hoá, dịch vụ được biểu diễn trực tiếp dưới dạng số lượng của đơn vị tiền tệ. Xem Price
+ @Absolute scarcity
+- (Econ) Khan hiếm tuyệt đối .
+: Xem Scarcity
+ @absolute temperature
+- (Tech) nhiệt độ tuyệt đối
+ @absolute tense
+- (Tech) thời (chế) tuyệt đối [NB]
+ @absolute term
+- (Tech) số hạng tuyệt đối
+ @absolute unit
+- (Tech) đơn vị tuyệt đối
+ @absolute value
+- (Tech) trị số tuyệt đối
+ @Absolute value
+- (Econ) Giá trị tuyệt đối.
+: Giá trị của một biến bỏ qua dấu của nó.
+ @absolute value computer
+- (Tech) máy điện toán trị tuyệt đối
+ @absolute value function
+- (Tech) hàm số trị tuyệt đối
+ @absolute vector
+- (Tech) véctơ tuyệt đối
+ @absolute volt
+- (Tech) volt tuyệt đối
+ @absolute zero
+- (Tech) số không tuyệt đối
+ @absolutely  
+*  dt
+- tuyệt đối, hoàn toàn
+
++ to be absolutely wrong: hoàn toàn sai lầm, hoàn toàn trái
+- chuyên chế, độc đoán
+
++ to govern absolutely: cai trị một cách chuyên chế
+- vô điều kiện
+- (thông tục) nhất định, chắc chắn; tất nhiên; hoàn toàn như vậy, đúng như vậy
+
+@absolutely
+- một cách tuyệt đối
+ @absolutely convergent
+- (Tech) hội tụ tuyệt đối
+ @absolutely noncircular attribute
+- (Tech) thuộc tính phi tuần hoàn tuyệt đối
+ @absolutely noncircular attribute grammar
+- (Tech) văn phạm thuộc tính phi tuần hoàn tuyệt đối
+ @absoluteness  
+*  dt
+- tính tuyệt đối, tính hoàn toàn
+
+@absolution  
+*  dt
+- (pháp lý) sự tha tội, sự miễn xá
+- (tôn giáo) sự xá tội
+
+@absolutism  
+*  dt
+- (chính trị) sự chuyên chế, chính thể chuyên chế
+
+@absolutist  
+*  dt
+- (chính trị) người theo chính thể chuyên chế
+
+@absolutistic
+- xem absolutism
+ @absolvable
+- xem absolve
+ @absolve  
+*  ngdgt
+- tha tội, xá tội, tuyên án vô tội; miễn trách
+
++ to absolve someone from blame: miễn trách ai, tuyên bố ai không có lỗi
+
++ to be absolved from the guilt: được tuyên án vô tội
+- giải, giải phóng, cởi gỡ
+
++ to absolve someone from a spell: giải cho ai khỏi bị bùa mê, giải bùa cho ai
+
+@absolver
+- xem absolve
+ @absonant  
+*  tt
+- không hợp điệu, không hoà hợp
+- (: to,  from) không hợp với, trái với
+- không hợp lý
+
+@absorb  
+*  ngdgt
+- hút, hút thu (nước)
+
++ dry sand absorb water: cát khô hút nước
+- hấp thu
+
++ youths always absorb new ideas: thanh niên luôn luôn hấp thu những tư tưởng mới
+- miệt mài, mê mải, chăm chú; lôi cuốn, thu hút sự chú ý
+
++ to be absorbed in thought: mãi suy nghĩ
+
++ to be absorbed in the study of Marxism-Leninism: miệt mài nghiên cứu chủ nghĩa Mác-Lênin
+
+@absorb
+- hấp thu, hút thu
+ @absorbability  
+*  dt
+- khả năng hút thu
+
+@absorbable  
+*  tt
+- có thể nuốt được; có thể bị hút
+- có thể hút thu được; có thể bị hút thu
+
+@absorbed  
+*  tt
+- miệt mài, mê mải, say mê, chăm chú
+
++ with absorbed interest: chú ý miệt mài; say mê thích thú
+
+@absorbed photon
+- (Tech) quang tử hấp thu
+ @absorbed power
+- (Tech) công suất hấp thu
+ @absorbedly  
+*  dt
+- miệt mài, mê mải; say mê, chăm chú
+
+@absorbedness
+- xem absorbed
+ @absorbefacient  
+*  tt
+- (y học) làm tiêu đi, làm tan đi
+*  dt
+- (y học) thuốc làm tiêu, thuốc làm tan
+
+@absorbency
+- xem absorbent
+ @absorbent  
+*  tt
+- hút nước, thấm hút
+
++ absorbent cotton wood: bông hút nước
+*  dt
+- chất hút thu; máy hút thu
+- (thực vật học); (động vật học) cơ quan hút thu (các chất dinh dưỡng)
+
+@absorber  
+*  dt
+- (kỹ thuật) thiết bị hút thu
+- cái giảm xóc (ô tô)
+
+@absorber
+- (Tech) bộ hấp thu; bộ đệm
+ @absorbing  
+*  tt
+- hấp dẫn, làm say mê, làm say sưa
+
++ an absorbing story: câu chuyện hấp dẫn
+
++ to tell the story in an absorbing way: kể chuyện một cách hấp dẫn
+
+@absorbing load
+- (Tech) tải hấp thu
+ @absorbing state
+- (Tech) trạng thái hấp thu
+ @absorbingly
+- xem absorb
+ @absorptance
+- (Tech) độ hấp thu
+ @absorption  
+*  dt
+- sự hút, sự hút thu
+- sự say mê, miệt mài, sự mê mải
+
+@absorption
+- (Tech) hấp thu; đệm; làm nhụt (d)
+ @absorption
+- sự hấp thu, sự thu hút
+ @Absorption approach
+- (Econ) Phương pháp hấp thu.
+: Phương pháp phân tích tác động của sự phá giá hoặc giảm tỷ giá hối đoái của một nước đối với cán cân thương mại.
+ @absorption cell
+- (Tech) tổ hấp thu
+ @absorption circuit
+- (Tech) mạch hấp thu
+ @absorption coefficient
+- (Tech) hệ số hấp thu
+ @absorption current
+- (Tech) dòng hấp thu
+ @absorption factor
+- (Tech) hệ số hấp thu
+ @absorption index
+- (Tech) chỉ số hấp thu
+ @absorption law
+- (Tech) định luật hấp thu
+ @absorption loss
+- (Tech) tổn hao hấp thu
+ @absorption peak
+- (Tech) đĩnh hấp thu
+ @absorption spectrum
+- (Tech) quang phổ hấp thu
+ @absorption trap
+- (Tech) cái bẫy hấp thu
+ @absorption wavemeter
+- (Tech) máy đo sóng loại hấp thu
+ @absorptive  
+*  tt
+- hút thu
+
++ absorptive power: khả năng hút thu
+
+@absorptive attenuator
+- (Tech) bộ giảm sóng hấp thu
+ @absorptive modulation
+- (Tech) điều tần hấp thu
+ @absorptive surface
+- (Tech) bề mặt hấp thu
+ @absorptive transition
+- (Tech) tiếp giáp hấp thu
+ @absorptivity  
+*  dt
+- khả năng hút thu
+
+@absorptivity
+- (Tech) độ hấp thu; tính hấp thu
+ @absquatulate
+* ndgt
+- trốn chạy
+ @abstain  
+*  ndgt
+- kiêng, kiêng khem, tiết chế
+
++ to abstain from alcohol: kiêng rượu
+- kiêng rượu
+- (tôn giáo) ăn chay ((cũng) to abstain from meat)
+
+@abstainer  
+*  dt
+- người kiêng rượu
+
++ a total abstainer: người kiêng rượu hoàn toàn
+
+@abstaining  
+*  dt
+- sự kiêng khem
+
+@abstemious  
+*  tt
+- tiết chế, có điều độ
+- sơ sài, đạm bạc
+
++ an abstemiousmeal: bữa ăn đạm bạc
+
+@abstemiously
+* dt
+- chừng mực, điều độ, tiết độ
+ @abstemiousness
+* dt
+- sự điều độ, sự tiết độ
+ @abstention  
+*  dt
+- (: from) sự kiêng
+- sự không tham gia bỏ phiếu
+
+@absterge  
+*  ngdgt
+- tẩy, làm sạch
+
+@abstergent  
+*  tt
+- tẩy, làm sạch
+*  dt
+- (y học) thuốc làm sạch (vết thương)
+
+@abstersion  
+*  dt
+- sự tẩy sạch, sự làm sạch
+
+@abstersive  
+*  tt
+- tẩy, làm sạch
+
+@abstinence  
+*  dt
+- sự kiêng, sự kiêng khem, sự tiết chế (ăn uống, chơi bời...)
+- sự kiêng rượu
+
++ total abstinence: sự kiêng rượu hoàn toàn
+- (tôn giáo) sự ăn chay, sự nhịn ăn
+
+@Abstinence
+- (Econ) Nhịn chi tiêu.
+: Một thuật ngữ miêu tả sự cần thiết giảm bớt tiêu dùng hiện tại để tích luỹ tư bản.
+ @abstinency  
+*  dt
+- thói quen ăn uống điều độ, sự kiêng khem
+
+@abstinent  
+*  tt
+- ăn uống điều độ; kiêng khem
+
+@abstinently
+- xem abstinence
+ @abstract  
+*  tt
+- trừu tượng
+- khó hiểu
+- lý thuyết không thực tế
+!abstract number
+- (toán học) số hư
+*  dt
+- bản tóm tắt (cuốn sách, luận án, bài diễn văn...)
+- vật trừu tượng
+
++ in the abstract: trừu tượng, lý thuyết
+*  ngdgt
+- trừu tượng hoá
+- làm đãng trí
+- rút ra, chiết ra, tách ra
+
++ to abstract butter from milk: tách bơ ra khỏi sữa
+- lấy trộm, ăn cắp
+- tóm tắt, trích yếu
+
+@abstract
+- (Tech) trừu tượng; tóm tắt, trích yếu
+ @abstract algebra
+- (Tech) đại số học trừu tượng @abstract journal
+- (Tech) báo trích yếu, báo sao lục [NB]
+ @abstract noun
+* dt
+- dt trừu tượng (như lòng tốt, sự tự do...)
+ @abstract semantics
+- (Tech) ngữ nghĩa trừu tượng
+ @abstract symbol
+- (Tech) ký hiệu trừu tượng
+ @abstract syntax
+- (Tech) cú pháp trừu tượng
+ @abstracted  
+*  tt
+- lơ đãng
+
+@abstractedly  
+*  dt
+- trừu tượng; lý thuyết
+- lơ đãng
+- tách ra, riêng ra
+
+@abstractedness  
+*  dt
+- sự lơ đãng
+
+@abstracter
+- xem abstract
+ @abstraction  
+*  dt
+- sự trừu tượng, sự trừu tượng hoá
+- cách nhìn trừu tượng, quan điểm trừu tượng; khái niệm trừu tượng; vật trừu tượng
+- sự lơ đãng
+- sự chiết ra, sự rút ra
+- sự lấy trộm, sự ăn cắp
+
+@abstraction
+- sự trừu tượng hoá, sự trừu tượng
+ @abstractionism  
+*  dt
+- (nghệ thuật) chủ nghĩa trừu tượng
+
+@abstractionist  
+*  dt
+- (nghệ thuật) người theo chủ nghĩa trừu tượng
+*  tt
+- (nghệ thuật) theo lối trừu tượng, trừu tượng chủ nghĩa
+
+@abstractly
+- xem abstract
+ @abstractness  
+*  dt
+- tính trừu tượng
+- tính khó hiểu
+
+@abstrahent
+* tt
+- trừu tượng, khó hiểu
+ @abstriction
+* dt
+- (thực vật) sự tách rụng bào tử
+ @abstruse  
+*  tt
+- khó hiểu
+- thâm thuý, sâu sắc
+
+@abstrusely
+* dt
+- thâm thúy, sâu sắc
+ @abstruseness  
+*  dt
+- tính khó hiểu
+- tính thâm thuý, tính sâu sắc
+
+@absurd  
+*  tt
+- vô lý
+- ngu xuẩn, ngớ ngẩn; buồn cười, lố bịch
+
+@absurd
+- (Tech) vô nghĩa, phi lý
+ @absurd
+- vô nghĩa, vô lý, phi lý
+ @absurdity  
+*  dt
+- sự vô lý; sự ngu xuẩn, sự ngớ ngẩn
+- điều vô lý; điều ngớ ngẩn
+
+@absurdity
+- [sự; tính] vô nghĩa, vô lý, phi lý
+ @absurdly
+* dt
+- vô lý
+- ngớ ngẩn, lố bịch
+ @abterminal
+* tt
+- (thực vật) xa ngọn
+ @abtruse
+* tt
+- khó hiểu
+ @abulia   (abulia) @abulic
+- xem abulia
+ @abundance  
+*  dt
+- sự nhiều, sự giàu có, sự phong phú; sự thừa thãi, sự dư dật
+
++ to live in abundance: sống dư dật
+- sự dạt dào (tình cảm, cảm xúc)
+
++ abundance of the heart: sự dạt dào tình cảm
+- tình trạng rất đông người
+
+@abundant  
+*  tt
+- phong phú, nhiều, chan chứa; thừa thãi, dư dật
+
++ to be abundant in something: có nhiều cái gì
+
++ an abundant year: năm được mùa lớn
+
+@abundant
+- thừa
+ @abundantly
+* dt
+- nhiều
+ @abuse  
+*  dt
+- sự lạm dụng, sự lộng hành
+
++ abuse of power: sự lạm quyền
+
++ to remedy abuses: sửa chữa thói lạm dụng
+- thói xấu, hủ tục
+- sự lăng mạ, sự sỉ nhục, sự chửi rủa, sự xỉ vả
+- sự nói xấu, sự gièm pha
+- (từ Mỹ,nghĩa Mỹ),  (từ cổ,nghĩa cổ) sự ngược đãi, sự hành hạ
+
++ an abuse of animals: sự hành hạ súc vật
+*  ngdgt
+- lạm dụng (quyền hành...)
+- lăng mạ, sỉ nhục, chửi rủa
+- nói xấu, gièm pha
+
++ to abuse somebody behind his bock: nói xấu sau lưng ai
+- (từ cổ,nghĩa cổ) lừa dối, lừa gạt
+- (từ Mỹ,nghĩa Mỹ),  (từ cổ,nghĩa cổ) ngược đãi, hành hạ
+
+@abuser  
+*  dt
+- người lạm dụng
+- người lăng mạ, người sỉ nhục, người chửi rủa
+- người nói xấu, kẻ gièm pha
+- người đánh lừa, người lừa gạt
+
+@abusive  
+*  tt
+- lạm dụng
+- lăng mạ, sỉ nhục, chửi rủa
+
++ abusive words: những lời chưởi rủa, những lời sỉ nhục
+- lừa dối, lừa gạt
+- (từ Mỹ,nghĩa Mỹ),  (từ cổ,nghĩa cổ) ngược đãi, hành hạ
+
+@abusively
+* dt
+- lăng mạ, thoá mạ
+ @abusiveness  
+*  dt
+- sự lạm dụng
+- sự lăng mạ, sự sỉ nhục, sự chửi rủa thậm tệ
+- sự lừa dối, sự lừa gạt
+- (từ Mỹ,nghĩa Mỹ),  (từ cổ,nghĩa cổ) sự ngược đãi, sự hành hạ
+
+@abut  
+*  dgt
+- (: on,  upon) giáp giới với, tiếp giáp với
+- (: on,  against) dựa vào, nối đầu vào nhau
+
+@abut
+- kề sát; chung biên
+ @abutilon  
+*  dt
+- (thực vật học) giống cây cối xay
+
+@abutment  
+*  dt
+- giới hạn, biên giới, chỗ tiếp giáp
+- tường chống, trụ chống; trụ đá (xây ở hai đầu cầu)
+
+@abuttal  
+*  dt
+- giới hạn, biên giới, chổ tiếp giáp
+
+@abutter  
+*  dt
+- (pháp lý) chủ nhà đất láng giềng (ở ngay cạnh nhà đất của ai)
+
+@abutting
+* tt
+- giới hạn, tiếp giáp
+ @abuzz
+* tt
+- đầy tiếng rì rầm, ồn ào
+ @abysm  
+*  dt
+- (thơ ca) (như) abyss
+
+@abysmal  
+*  tt
+- không đáy, thăm thẳm, sâu không dò được
+
++ abysmal ignorance: sự dốt nát cùng cực
+
+@abysmally
+* dt
+- thậm tệ, cùng cực, vô cùng
+ @abysopelagic
+* tt
+- thuộc vùng khơi- sâu thẳm
+ @abyss  
+*  dt
+- vực sâu, vực thẳm
+- biển thẳm
+- lòng trái đất; địa ngục
+
+@abyssal  
+*  tt
+- sâu thăm thảm, sâu như vực thẳm, sâu không dò được
+
++ abyssal depth: chỗ biển sâu nhất
+- (thuộc) biển thẳm
+
++ abyssal mund: bùn biển thẳm
+
+@abyssobenthic
+* tt
+- thuộc đáy biển thẳm; thuộc vực biển thẳm
+ @

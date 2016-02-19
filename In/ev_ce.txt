@@ -1,0 +1,1352 @@
+@ce
+* (viết tắt)
+- Giáo hội Anh quốc (Church of England)
+ @CE (computer enhancement)
+- (Tech) tăng cường qua máy điện toán
+ @cease  
+*  dgt
+- dừng, ngừng, ngớt, thôi, hết, tạnh
+
++ to cease form work: ngừng việc
+
++ cease fire: ngừng bắn!
+*  dt
+- without cease không ngừng, không ngớt, liên tục
+
++ to work without cease: làm việc liên tục
+
+@cease acknowledge
+- (Tech) thông báo tạm ngưng
+ @cease-fire  
+*  dt
+- sự ngừng bắn
+- (quân sự) lệnh ngừng bắn
+
+@ceasefire
+* dt
+- như cease-fire
+* dt
+- như cease-fire
+ @ceaseless  
+*  tt
+- không ngừng, không ngớt, không dứt
+
+@ceaselessly
+* dt
+- không ngớt, liên tục
+ @ceaselessness  
+*  dt
+- tính không ngừng, tính không ngớt, tính không dứt
+
+@cecal
+* tt
+- thuộc ruột tịt, ruột bịt, manh tràng
+ @cecidium
+* dt
+- mụn; vú; u
+- nốt sần (lá)
+ @cecity  
+*  dt
+- sự đui mù ((thường) bóng)
+
+@cedar  
+*  dt
+- (thực vật học) cây tuyết tùng
+
+@cede  
+*  ngdgt
+- nhượng, nhường lại (quyền hạn, đất đai...)
+
+@cedilla  
+*  dt
+- dấu móc dưới (dấu chính tả)
+
+@ceiba  
+*  dt
+- (thực vật học) cây bông gòn
+- bông gòn
+
+@ceil  
+*  ngdgt
+- làm trần (nhà)
+*  ndgt
+- (hàng không) bay tới độ cao tối đa
+
+@ceilidh
+* dt
+- cuộc họp mặt thân mật để nghe nhạc, khiêu vũ
+ @ceiling  
+*  dt
+- trần (nhà...)
+- (hàng không) độ cao tối đa (của một máy bay)
+- giá cao nhất; bậc lương cao nhất
+!to hit the ceiling
+- (từ Mỹ,nghĩa Mỹ) nổi giận, tức giận
+
+@Ceiling
+- (Econ) Mức trần
+: Giới hạn tăng sản lượng trong thuyết CHU KỲ KINH DOANH. Trần đạt được khi tất cả các yếu tố sản xuất đạt tới mức toàn năng.
+ @ceilinged
+- xem ceiling
+ @Ceilings and floors
+- (Econ) Mức trần và mức sàn; Mức đỉnh và mức đáy.
+ @ceilometer
+* dt
+- dụng cụ qui định tầng mây cao nhất
+ @celadon  
+*  dt
+- màu ngọc bích
+- men ngọc bích
+- đồ tráng men ngọc bích
+*  tt
+- màu ngọc bích
+- tráng men ngọc bích
+
+@celandine
+* dt
+- một loại cây dại có hoa màu vàng
+ @celanese  
+*  dt
+- tơ nhân tạo xelanit
+
+@celebrant
+* dt
+- linh mục chủ trì lễ ban thánh thể
+ @celebrate  
+*  ngdgt
+- kỷ niệm, làm lễ kỷ niệm
+- tán dương, ca tụng
+
+@celebrated  
+*  tt
+- nỗi tiếng, trứ danh, lừng danh
+
+@celebration  
+*  dt
+- sự kỷ niệm; lễ kỷ niệm
+- sự tán dương, sự ca tụng
+
+@celebrator
+- xem celebrate
+ @celebratory
+- xem celebrate
+ @celebrity  
+*  dt
+- sự nổi danh, sự nổi tiếng, danh tiếng
+- nhân vật có danh tiếng, người nổi danh
+- (định ngữ) (thuộc) nhân vật có danh tiếng
+
++ celebrity meeting: cuộc gặp gỡ của những nhân vật có danh tiếng
+
+@celebrityhood
+- xem celebrity
+ @celeriac
+* dt
+- (thực vật) cây cần tây
+ @celerity  
+*  dt
+- sự mau chóng, sự mau lẹ; tính cấp tốc
+
+@celery  
+*  dt
+- (thực vật học) cần tây
+
+@celesta
+* dt
+- đàn celesta (loại nhạc cụ có phím bằng thép, khi gõ lên phím, đàn phát ra âm thanh (như) tiếng chuông)
+ @celeste  
+*  dt
+- màu xanh da trời
+*  tt
+- xanh da trời
+
+@celestial  
+*  tt
+- (thuộc) trời
+
++ celestial blue: xanh da trời
+- có tính chất như thiên đàng; như thiên đàng
+
++ celestial happiness: hạnh phúc như ở thiên đàng, hạnh phúc tuyệt vời
+
+@celestial
+- (thuộc) vũ trụ, trời
+ @celestial bodies  
+*  dt số nhiều
+- thiên thể
+
+@celestially
+- xem celestial
+ @celibacy  
+*  dt
+- sự sống độc thân, sự không lập gia đình
+
+@celibate  
+*  tt
+- sống độc thân, không lập gia đình
+*  dt
+- người sống độc thân, người không lập gia đình
+
+@cell  
+*  dt
+- phòng nhỏ
+- xà lim
+
++ condemned cell: xà lim giam những người bị kết án tử hình
+- lỗ tổ ong
+- (điện học) pin
+
++ dry cell: pin khô
+- (sinh vật học) tế bào
+- (chính trị) chi bộ
+
++ communist party: chi bộ đảng cộng sản
+- am (nhà nhỏ một gian của ẩn sĩ)
+- (thơ ca) túp lều tranh, căn nhà nhỏ
+- (thơ ca) nấm mồ
+
+@cell
+- (Tech) bộ, tổ, ô, ổ, ngăn tế bào; bộ pin; bộ bình điện @cell
+- tế bào; ô, ngăn (máy tính); khối
+- binary c. ô nhị phân 
+- degenerate c. ngăn suy biến
+- storage c. ngăn nhớ, ngăn lưu trữ 
+ @cell address
+- (Tech) địa chỉ ô
+ @cell constant
+- (Tech) hằng số pin
+ @cella
+* dt; số nhiều cellae
+- phòng nội điện miếu cổ
+- bộ phận bên trong ngôi nhà
+ @cellar  
+*  dt
+- hầm chứa (thức ăn, rượu...)
+- hầm rượu ((cũng) wine cellar) kho rượu cất dưới hầm
+
++ to keep a good cellar: trữ một hầm rượu ngon
+*  ngdgt
+- cất (rượu...) vào hầm
+
+@cellarage  
+*  dt
+- khoang hầm
+- tiền thuê cất vào hầm
+
+@cellar-flap  
+*  dt
+- cửa sập của hầm rượu
+
+@cellar-plate  
+*  dt
+- nắp hầm than
+
+@cell-body
+* dt
+- (sinh học) tế bào sinh dưỡng; tế bào thân
+ @cell-cycle
+* dt
+- (sinh học) chu kỳ tế bào
+ @Celler - Kefauver Act
+- (Econ) Đạo luật Celler - Kefauver.
+: Ban hành ở Mỹ năm 1950 với tư cách là một sửa đổi ĐẠO LUẬT CLAYTON. Mục đích của đạo luật này là tăng cưòng pháp luật chống lại sự sát nhập phản cạnh tranh.
+ @cellist
+* dt
+- người chơi viôlôngxen, người chơi xelô
+ @cello   ('cello) @cellophane  
+*  dt
+- giấy bóng kính xenlôfan
+!wrapped in cellophane
+- kiêu căng, ngạo mạn, vênh váo
+
+@cellsap
+* dt
+- (sinh học) dịch tế bào
+ @cellular  
+*  tt
+- (thuộc) tế bào
+- cấu tạo bằng tế bào
+- có phòng nhỏ; có ngăn nhỏ
+- có lỗ hổng
+- có ô hình mạng (vải)
+
+@cellular
+- (Tech) thuộc tế bào; ô hình mạng
+ @cellular
+- (thuộc) tế bào
+ @cellular phone
+- (Tech) máy điện thoại loại ô bộ đàm
+@cellularity
+- xem cellular
+ @cellularly
+- xem cellular
+ @cellule  
+*  dt
+- (giải phẫu) tế bào
+
+@cellule
+- mắt, ô, tế bào (nhỏ)
+ @celluloid  
+*  dt
+- (hoá học) xenluloit
+
+@cellulose  
+*  dt
+- (hoá học) xenluloza
+
+@cellulosic
+- xem cellulose
+ @celsius
+* tt
+- thuộc về độ bách phân
+ @celt   (Kelt) @celtic   (Keltic) @celticism  
+*  dt
+- phong tục tập quán Xen-tơ
+- (ngôn ngữ học) từ ngữ đặc Xen-tơ
+
+@celticist
+* dt
+- chuyên gia văn hoá xen-tơ
+ @celtologist
+* dt
+- nhà xentơ học
+ @cembalo
+* dt
+- số nhiều cembali,  cembalos
+- (âm nhạc) đàn clavico
+ @cement  
+*  dt
+- xi-măng
+- chất gắn (như xi-măng)
+- bột hàn răng
+- (giải phẫu) xương răng
+- (kỹ thuật) bột than để luyện sắt
+- (nghĩa bóng) mối liên kết, mối gắn bó
+*  ngdgt
+- trát xi-măng; xây bằng xi-măng
+- hàn (răng)
+- (kỹ thuật) luyện (sắt) bằng bột than, cho thấm cacbon ủ
+- (nghĩa bóng) thắt chắc, gắn bó
+
++ to cement the friendship: thắt chặt tình hữu nghị
+
+@cementation  
+*  dt
+- sự trát xi-măng; sự xây bằng xi-măng
+- sự hàn (răng)
+- (kỹ thuật) sự luyện (sắt) bằng bột than, sự cho thấm cacbon ủ
+- (nghĩa bóng) sự thắt chắc, gắn bó
+
+@cementer
+- xem cement
+ @cementing
+* dt
+- sự gắn xi măng
+- sự thấm các bon
+ @cementite
+* dt
+- (hoá học) cementit
+ @cementitious
+* tt
+- gắn (trám) xi măng; kết dính
+ @cemetery  
+*  dt
+- nghĩa trang, nghĩa địa
+
+@cemf
+- (Tech) sức phản điện động
+ @cemtrum
+- tâm
+- c. of a group tama của nhóm 
+ @cenltium
+* dt
+- (hoá học) xenti
+ @cenobite
+* dt
+- cũng coenobite
+- (từ Mỹ) người tu đạo
+ @cenogenesis
+* dt
+- (sinh học) sự phát sinh quần lạc
+ @cenology
+* dt
+- môn quần lạc sinh vật
+ @cenotaph  
+*  dt
+- đài kỷ niệm, bia kỷ niệm
+!the Cenotaph
+- đài chiến sĩ Anh chết trong đại chiến I và II
+
+@cenotaphic
+- xem cenotaph
+ @cenozoic
+* dt
+- (từ Mỹ,  cainozoic) kỷ thứ ba
+* tt
+- thuộc kỷ thứ ba
+ @cense  
+*  ngdgt
+- xông trầm
+- dâng hương
+
+@censer  
+*  dt
+- bình hương, lư hương
+
+@censor  
+*  dt
+- nhân viên kiểm duyệt (sách báo, phim ảnh, thư từ...)
+- giám thị (trường đại học)
+*  ngdgt
+- kiểm duyệt
+- dạng bị động bị kiểm duyệt cắt đi
+
+@censor
+- (thống kê) làm thiếu; nhân viên kiểm duyệt
+ @censorable
+- xem censor
+ @censorial  
+*  tt
+- kiểm duyệt
+
+@censorious  
+*  tt
+- phê bình, chỉ trích, khiển trách
+
+@censoriously
+* dt
+- nghiêm khắc
+ @censoriousness  
+*  dt
+- tính chất phê bình, tính chất chỉ trích, tính chất khiển trách
+
+@censorred
+- (thống kê) bị thiếu; đã kiểm duyệt
+ @censorship  
+*  dt
+- cơ quan kiểm duyệt
+- quyền kiểm duyệt
+- công tác kiểm duyệt
+
+@censurability
+- xem censurable
+ @censurable  
+*  tt
+- đáng phê bình, đáng chỉ trích, đáng khiển trách
+
+@censurableness
+- xem censurable
+ @censurably
+- xem censurable
+ @censure  
+*  dt
+- sự phê bình, sự chỉ trích, sự khiển trách
+- lời phê bình, lời khiển trách
+*  ngdgt
+- phê bình, chỉ trích, khiển trách
+
+@censurer
+- xem censure
+ @census  
+*  dt
+- sự điều tra số dân
+
+@census taker  
+*  dt
+- cán bộ điều tra số dân (đi từng nhà)
+
+@census-paper  
+*  dt
+- bản khai (tên tuổi...) trong cuộc điều tra số dân
+
+@cent  
+*  dt
+- đồng xu (bằng 1 qoành 00 đô la)
+
++ red cent: (từ Mỹ,nghĩa Mỹ) đồng xu đồng
+!I don't care a cent
+- (xem) care
+
+@cent
+- (Tech) cent (khoảng cách âm thanh
+ @cent
+- một trăm per c. phần trăm (%) 
+ @cental  
+*  dt
+- tạ Anh (bằng 45kg36)
+
+@centare
+- Cách viết khác : centiare 
+ @centaur  
+*  dt
+- quái vật đầu người, mình ngựa, người ngựa (thần thoại Hy lạp)
+- (nghĩa bóng) người cưỡi ngựa giỏi
+- (Centaur) (thiên văn học) chòm sao nhân mã, chòm sao người ngựa
+
+@centel
+* dt
+- tạ Anh (bằng 45 kg 36)
+ @centenarian  
+*  tt
+- sống trăm tuổi
+*  dt
+- người sống trăm tuổi
+
+@centenary  
+*  tt
+- trăm năm
+*  dt
+- thời gian trăm năm, thế kỷ
+- lễ kỷ niệm một trăm năm; sự làm lễ kỷ niệm một trăm năm
+
+@centennial  
+*  tt
+- sống trăm năm, trăm tuổi
+- một trăm năm một lần
+- (thuộc) lễ kỷ niệm một trăm năm
+
+@centennially
+* dt
+- một trăm năm một lần
+ @center  
+*  dt & dgt
+- (từ Mỹ,nghĩa Mỹ) (như) centre
+
+@center (centre)
+- trung tâm   đặt vào tâm
+- c. of a bundle tâm của một chùm
+- c. of buyoancy tâm nổi
+- c. of s cirele tâm vòng tròn
+- c. of compresssion tâm nén
+- c. of a conic tâm của một cônic
+- c. of curvature tâm cong 
+- c. of figure tâm một hình
+- c. of flexure tâm uốn
+- c. of gravity trọng tâm
+- c. of a group tâm của một nhóm
+- c. of homology tâm thấu xạ
+- c. of inversion tâm nghịch đảo
+- c. of isologue tâm đối vọng
+- c. of mass tâm khối
+- c. of mean distance tâm khoảng cách trung bình
+- c. of moment tâm mômen
+- c. of oscillation tâm dao động
+- c. of a pencil tâm một bó
+- c. of percussion tâm kích động
+- c. of perspectivity tâm phối cảnh
+- c. of projection tâm chiếu
+- c. of a quadratic complex tâm một mớ bậc hai
+- c. of a quadric tâm một quadric
+- c. of a range tâm của một miền biến thiên
+- c. of similarity tâm đồng dạng
+- c. of sphere tâm hình cầu
+- c. of surface tâm của mặt
+- c. of suspension tâm treo
+- c. of twist tâm xoắn
+- aerodynamic c. tâm áp
+- computation c. trung tâm tính toán
+- elastic c. tâm dàn hồi
+- harmonic c. tâm điều hoà
+- instantaneous c. tâm tức thời
+- median c. tk tâm [trung vị; međian]
+- radical c. tâm đẳng phương
+- ray c. tâm vị tự
+- shear c. tâm trượt, tâm cắt 
+@center frequency
+- (Tech) tần số giữa, trung tần (khi biến điệu tần số)
+ @centering
+- (Tech) chỉnh tâm
+ @centering coil
+- (Tech) cuộn dây chỉnh tâm
+ @centesimal  
+*  tt
+- chia làm trăm phần, bách phân
+
+@centesimal
+- (Tech) bách phân
+ @centesimal
+- bách phân
+ @centesimal graduation
+- (Tech) thang bách phân
+ @centesimally
+- xem centesimal
+ @centi
+- (Tech) phần trăm, centi
+ @centibar
+* dt
+- centiba (đơn vị đo khí áp)
+ @centigrade  
+*  tt
+- chia trăm độ, bách phân
+
+@centigram   (centigramme) @centigramme   (centigramme) @centile
+- (Tech) bách phân vị
+ @centile
+- (thống kê) bách phân vị
+ @centiliter   (centiliter) @centilitre   (centiliter) @centime  
+*  dt
+- xentilit (một phần trăm frăng của Pháp)
+
+@centimeter   (centimeter) @centimetre   (centimeter) @centimetre-gram-second
+* dt
+- hệ thống đơn vị dựa trên centimet là đơn vị chiều dài,  gram là đơn vị khối lượng; giây là đơn vị thời gian
+ @centimetric
+* tt
+- thuộc centimet
+ @centimo
+* dt
+- số nhiều cetimos
+- đồng xu bằng 1  @centipede  
+*  dt
+- (động vật học) con rết
+- động vật nhiều chân
+
+@centner  
+*  dt
+- tạ Đức (bằng 50kg)
+
+@cento  
+*  dt,  số nhiều centos
+- bài thơ chắp nhặt (gồm những đoạn lấy ở các nhà thơ khác)
+- cái chắp vá, vật chắp vá
+
+@central  
+*  tt
+- ở giữa, ở trung tâm; trung ương
+
++ the central government: chính quyền trung ương
+
++ my house is very central: nhà tôi ở rất gần trung tâm (thành phố...)
+- chính, chủ yếu, trung tâm
+
++ the central figure in a novel: nhân vật trung tâm trong cuốn tiểu thuyết
+!central heating
+- sự sưởi tập trung (sưởi ấm bằng hơi nước nóng hay nước nóng chảy qua một hệ thống ống từ một nguồn ở trung tâm)
+*  dt
+- (từ Mỹ,nghĩa Mỹ) tổng đài điện thoại
+
+@central
+- (thuộc) trung tâm
+ @Central Bank
+- (Econ) Ngân hàng trung ương
+: Một cơ quan có trách nhiệm kiểm soát hệ thống ngân hàng và tiền tệ của một nước, mặc dù có chức năg khác phụ thuộc vào môi trường và cơ cấu tài chính.
+ @Central Bank of Central Banks
+- (Econ) Ngân hàng trung ương của các ngân hàng trung ương.
+: Xem BANK FOR INTERNATIONAL SETTLEMENTS và INTERNATIONAL MONETATY FUND.
+ @Central business district
+- (Econ) Khu kinh doanh trung tâm.
+: Một khu vực ở trung tâm các thành phố và đa số thị trấn lớn được sử dụng cho các hoạt động thương mại. Xem ACCESS @central computer
+- (Tech) máy điện toán trung ương
+ @central data processor
+- (Tech) bộ xử lý dữ kiện trung ương
+ @Central Limit Theorem.
+- (Econ) Định lý giới hạn trung tâm.
+: Định lý nói rằng tổng (và trung bình) của một nhóm các biến ngẫu nhiên sẽ tuân theo phân phối chuẩn nếu mẫu chọn đủ lớn, không phụ thuộc vào dạng phân phối mà các biến riêng biệt có.
+ @Central Place Theory
+- (Econ) Lý thuyết Vị trí Trung tâm.
+: Xem LOCATION THEORY.
+ @Central planing
+- (Econ) Kế hoạch hoá tập trung.
+: Xem PLANNED ECONOMY.
+ @Central policy Review Staff
+- (Econ) Ban xet duyệt chính sách trung ương (CPRS).
+: Một văn phòng được thành lập ở Anh năm 1970 chịu trách nhiệm tiến hành các vấn đề chính sách kinh tế chính cho văn phòng nội các.
+ @central processing unit (CPU)
+- (Tech) bộ xử lý trung ương
+ @Central Statical office
+- (Econ) Cục thống kê trung ương
+: Một cục của chính phủ Anh có trách nhiệm thu thập, tổng hợp xuất bản các số liệu thống kê do văn phòng chính phủ và các cơ quan không chính thức và bán chính thức ở Anh cung cấp.
+ @Central tendency
+- (Econ) Xu hướng hướng tâm; Hướng tâm.
+ @centralise   (centralise) @centralism  
+*  dt
+- chế độ tập quyền trung ương; chế độ tập trung
+
++ democratic centralism: chế độ tập trung dân chủ
+
+@centralist
+- xem centralism
+ @centralistic
+- xem centralism
+ @centrality
+* dt
+- tình trạng ở trung tâm
+- xu hướng đứng ở trung tâm
+ @centralization  
+*  dt
+- sự tập trung
+- sự tập quyền trung ương
+
+@centralization
+- (Tech) tập trung
+ @centralize   (centralise) @centralized design
+- (Tech) thiết kế tập trung hóa
+ @centralized routing
+- (Tech) lộ trình tập trung
+ @centralizer
+- xem centralize
+ @centralizer
+- (đại số) nhóm con trung tâm
+ @centrally
+- xem central
+ @centre  
+*  dt
+- điểm giữa, tâm; trung tâm; trung khu; trung ương
+
++ the centre of a circle: tâm vòng tròn
+
++ centre of commerce: trung tâm thương nghiệp
+
++ shopping centre: trung tâm buôn bán
+- nhân vật trung tâm
+- (thể dục,thể thao) trung phong (bóng đá)
+- (chính trị) phái giữa
+- (quân sự) đạo trung quân
+- (kỹ thuật) mẫu, dưỡng (dùng trong luyện kim)
+- (kiến trúc) khung tò vò, khung bán nguyệt (bằng gỗ, dùng khi xây dựng)
+*  dgt
+- đặt vào giữa, để vào giữa, tập trung vào, xoáy quanh
+
++ to centre one's hopes on: tập trung hy vọng vào
+
++ the discusion centred round one point: cuộc thảo luận quay quanh một điểm
+- (thể dục,thể thao) đá (bóng) vào giữa
+- tìm tâm (của vật gì)
+
+@centre 
++  center
+- (Tech) trung tâm, trung ương
+ @centre spread
+* dt
+- hai trang đối diện nhau (trong một tờ báo)
+ @centre-back
+* dt
+- hậu vệ phòng (bóng đá)
+ @centre-bit
+* dt
+- mũi khoan
+ @centreboard
+* dt
+- tấm ván giữ cho thuyền buồm khỏi bị trôi giạt
+ @centred
+* tt
+- có một trung tâm
+ @centred
+- có tâm
+ @centre-fold
+* dt
+- ảnh màu phóng to lồng giữa các trang của một tờ tạp chí
+ @centre-forward  
+*  dt
+- (thể dục,thể thao) trung phong (bóng đá)
+
+@centre-half
+* dt
+- trung vệ bóng đá
+ @centre-line
+* dt
+- đường tâm
+ @centre-piece  
+*  dt
+- vật trang trí (đặt) giữa bàn
+
+@centre-rail  
+*  dt
+- (ngành đường sắt) đường ray giữa (ở những đường leo núi)
+
+@centric   (centrical) @centrical   (centrical) @centric(al)
+- trung tâm chính
+ @centrically
+- xem centric
+ @centricity
+- xem centric
+ @centrifugal  
+*  tt
+- ly tâm
+
++ centrifugal force: lực ly tâm
+
++ centrifugal machine: máy ly tâm
+
+@centrifugal
+- (Tech) ly tâm
+ @centrifugalism
+- xem centrifugal
+ @centrifugally
+- xem centrifugal
+ @centrifugarl
+- ly tâm
+ @centrifugation
+- xem centrifuge
+ @centrifuge  
+*  dt
+- máy ly tâm
+
+@centring
+* dt
+- sự định tâm, khoan tâm
+ @centring
+- đưa tâm về   sự định tâm
+@centriole
+* dt
+- (sinh học) hạt trung tâm; hạt tâm; trung thể
+ @centripetal  
+*  tt
+- hướng tâm
+
++ centripetal force: lực hướng tâm
+
+@centripetal
+- (Tech) hướng tâm
+ @centripetal
+- hướng tâm
+ @centripetally
+- xem centripetal
+ @centrism
+* dt
+- chủ trương ôn hoà, đường lối ôn hoà <chtrị>
+ @centrist
+* dt
+- người chủ trương ôn hoà
+ @centrode
+- đường tâm quay tức thời
+ @centroid
+* dt
+- trung tâm khối lượng; trọng tâm
+ @centroid
+- trọng tâm (của một hình hay một vật); phỏng tâm
+- c. of a triangle trung tuyến của một tam giác
+- curvature c. trọng tâm cong (trọng tâm của đường cong có mật độ khối
+- tỷ lệ với độ cong) 
+ @centromere
+* dt
+- (sinh học) đoạn trung tâm; đoạn tâm; trung đoạn; vùng gắn thoi
+ @centroplasm
+* dt
+- (sinh học) chất trung tâm
+ @centrosome
+* dt
+- (sinh học) thể trung tâm; thể tâm; trung thể
+ @centrosphere
+* dt
+- (sinh học) cầu trung tâm; trung cầu
+ @centrum
+* dt
+- số nhiều centrums,  centra
+- (sinh học) thân đốt sống; thể trung tâm; cầu trung tâm
+ @centuple  
+*  tt
+- gấp trăm lần
+*  ngdgt
+- nhân lên trăm lần
+
+@centuple
+- gấp phần trăm, nhân với một trăm
+ @centuplicate  
+*  dt
+- trăm bản
+
++ in centuplicate: thành trăm bản (in...)
+*  tt
+- (như) centuple
+*  ngdgt
+- (như) centuple
+
+@centurial
+- xem centurion
+ @centurion
+* dt
+- sự quan chỉ huy một trăm binh sự
+ @century  
+*  dt
+- trăm năm, thế kỷ
+- trăm (cái gì đó...)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) trăm đô la
+- (từ cổ,nghĩa cổ) (La mã) đại đội (gồm 100 người)
+
+@centurylong
+* tt
+- kéo dài trong một thế kỷ
+* tt
+- kéo dài trong một thế kỷ
+ @century-plant  
+*  dt
+- (thực vật học) cây thùa
+
+@ceo
+* dt
+- viết tắt của Chief Executive Officer
+- Người lãnh đạo cao nhất trong một công ty hoặc một tổ chức, chịu trách nhiệm thực hiện hàng ngày các chính sách của hội đồng quản trị
+- dt, viết tắt của Chief Executive Officer
+- Người lãnh đạo cao nhất trong một công ty hoặc một tổ chức, chịu trách nhiệm thực hiện hàng ngày các chính sách của hội đồng quản trị
+ @cep
+* dt
+- (thực vật) nấm xép
+ @cephalad
+* dt
+- về phía đầu
+ @cephalic  
+*  tt
+- (thuộc) đầu; ở trong đầu
+
++ cephalic index: chỉ số đầu
+
+@cephalically
+- xem cephalic
+ @cephalometry
+* dt
+- phép đo đầu
+ @cephalopod  
+*  dt
+- (động vật học) động vật chân đầu (thân mềm)
+
+@cephalopodan
+- xem cephalopod
+ @cephalothorax  
+*  dt
+- (động vật học) phần đầu ngực
+
+@cephalous
+* tt
+- có đầu
+ @ceraceous
+* tt
+- giống như sáp
+ @ceramal
+* dt
+- xem ceramet
+ @ceramet
+- Cách viết khác : cermet 
+ @ceramic  
+*  tt
+- (thuộc) nghề làm đồ gốm
+
+@ceramic
+- (Tech) thuộc gốm
+ @ceramic capacitor
+- (Tech) bộ tụ điện loại gốm
+ @ceramic insulator
+- (Tech) cái cách điện bằng gốm
+ @ceramics  
+*  dt,  số nhiều dùng như số ít
+- thuật làm đồ gốm
+
+@ceramist  
+*  dt
+- thợ làm đồ gốm
+
+@cerastes
+* dt
+- (động vật) rắn độc có gai trên mắt
+ @ceratodus
+* dt
+- (động vật) cá một phổi
+- cá có sừng (hoá thạch)
+ @cerberus  
+*  dt
+- chó ba đầu (gác cổng âm phủ, trong thần thoại Hy lạp)
+!sop to Cerberus
+- quà đút lót (cho quan lại, người gác cổng...)
+
+@cercal
+* tt
+- thuộc đuôi
+ @cercaria
+* dt
+- số nhiều cercariae
+- ấu trùng dạng tim có đuôi
+ @cercopid
+* dt
+- ve sầu nhảy
+ @cere  
+*  dt
+- (động vật học) da gốc mỏ (chim)
+
+@cereal  
+*  tt
+- (thuộc) ngũ cốc
+*  dt
+- ((thường) số nhiều) ngũ cốc
+- món ăn (bằng) ngũ cốc
+
+@cerebellar
+- xem cerebellum
+ @cerebellum  
+*  dt
+- thuộc não; thuộc óc
+
++ cerebellum haemorrhage: sự chảy máu não
+- (ngôn ngữ học) quặt lưỡi (âm)
+
+@cerebral  
+*  dt
+- (ngôn ngữ học) âm quặt lưỡi
+
+@cerebral neuron
+- (Tech) tế bào thần kinh não
+ @cerebrally
+- xem cerebral
+ @cerebrate
+* ndgt
+- sử dụng trí não
+ @cerebration  
+*  dt
+- sự hoạt động của não; sự suy nghĩ
+
++ unconscious cerebration: sự hoạt động không có ý thức của não
+
+@cerebro-spinal
+* tt
+- thuộc não-tủy sống
+ @cerebro-vascular
+* tt
+- thuộc não-mạch
+ @cerebrum  
+*  dt
+- (giải phẫu) não, óc
+
+@cerecloth  
+*  dt
+- vải sáp (không thấm nước; dùng để bọc hay liệm)
+
+@cered
+- xem cere
+ @cerement  
+*  dt
+- (như) cerecloth
+- (số nhiều) quần áo liệm
+
+@ceremonial  
+*  dt
+- nghi lễ, nghi thức
+- sự tuân theo nghi thức
+*  tt
+- thuộc nghi lễ, thuộc nghi thức
+- để dùng trong cuộc lễ
+
+@ceremonialism  
+*  tt
+- (thuộc) nghi lễ, (thuộc) nghi thức
+- để dùng trong cuộc lễ
+
+@ceremonialist  
+*  dt
+- tính chuộng nghi lễ, tính chuộng nghi thức
+*  dt
+- người chuộng nghi lễ, người chuộng nghi thức
+
+@ceremonially
+* dt
+- trịnh trọng, long trọng
+ @ceremonious  
+*  tt
+- chuộng nghi thức
+- kiểu cách
+
+@ceremoniously
+* dt
+- kiểu cách, khách sáo
+ @ceremoniousnes  
+*  dt
+- tính chuộng nghi thức
+- tính kiểu cách
+
+@ceremoniousness
+* dt
+- tính chuộng nghi thức
+- tính kiểu cách
+ @ceremony  
+*  dt
+- nghi thức, nghi lễ
+- sự khách sáo, sự kiểu cách
+
++ there is no need for ceremony between friends: giữa bạn bè với nhau không cần phải khách sáo
+!to stand on (upon) ceremony
+- (xem) stand
+!without ceremony
+- tự nhiên không khách sáo
+
+@ceresin
+* dt
+- (hoá học) xêrexin
+ @cereus
+* dt
+- (thực vật) cây xương rồng khế
+ @ceria
+* dt
+- (hoá học) xeri (ô xit)
+ @ceric
+* tt
+- (hoá học) có yếu tố xêri
+ @cerise  
+*  dt
+- màu anh đào, màu đỏ hồng
+*  tt
+- (có) màu anh đào, đỏ hồng
+
+@cerium  
+*  dt
+- (hoá học) xeri
+
+@cermet
+- (Tech) gốm kim thuộc
+ @cermet resistor
+- (Tech) cái điện trở gốm kim thuộc
+ @cern
+- (vt của Conseil Europeen pour la Recherche Nucleaire) Hội đồng châu Âu nghiên cứu hạt nhân
+ @cernuous
+* tt
+- rủ ngọn; ngả đầu
+ @cerograph
+* dt
+- cách khắc trên sáp
+ @ceroplastics  
+*  dt,  số nhiều dùng như số ít
+- thuật nặn đồ bằng sáp
+
+@cerotic-acid
+* dt
+- (hoá học) axit xerotic
+ @cerous
+* tt
+- (hoá học) chứa đựng chất xê ri
+ @cert ed
+* (viết tắt)
+- chứng chỉ ngành sư phạm (Certificate in Education)
+ @certain  
+*  tt
+- chắc, chắc chắn
+
++ to be certain of success: chắc chắn là thành công
+
++ there is no certain cure for this disease: bệnh này chưa có phương thuốc chữa chắc chắn
+- nào đó
+
++ a certain Mr. X: một ông X nào đó
+
++ under certain conditions: trong những điều kiện nào đó
+- đôi chút, chút ít
+
++ to feel a certain reluctance: cảm thấy miễn cưỡng chút ít, hơi cảm thấy miễn cưỡng
+!for certain
+- chắc, chắc chắn, đích xác
+
++ I cannot say for certain whether it will shine tomorrow: tôi không thể nói đích xác ngày mai có nắng không
+
++ I don't know for certain: tôi không biết chắc
+!to make certain of
+- (xem) make
+
+@certain
+- chắc chắn, đã biết for a c. chắc chắn; to a c. tất nhiên 
+ @certainly  
+*  dt
+- chắc, nhất định
+
++ a well conducted people's war will certainly be successful: một cuộc chiến tranh nhân dân có sự lãnh đạo đúng đắn nhất định sẽ thắng
+- hẳn thế, hẳn đi, hẳn là thế, tất nhiên, dĩ nhiên (dùng trong câu trả lời)
+
++ may I visit him? - yes, certainly: tôi có thể đến thăm ông ta được không? tất nhiên là được
+
+@certainty  
+*  dt
+- điều chắc chắn
+
++ imperialism will be abolished, that's a certainty: chủ nghĩa đế quốc sẽ bị tiêu diệt, đó là một điều chắc chắn
+- vật đã nắm trong tay
+- sự tin chắc, sự chắc chắn
+!for a certainty
+- chắc chắn không còn hồ nghi gì nữa
+!to a certainty
+- nhất định
+!never quit certainty for (hope)
+- chớ nên thả mồi bắt bóng
+
+@Certainty equivalence
+- (Econ) Mức qui đổi về tất định.
+: Trong những bối cảnh RỦI RO hay không chắc chắn, các biến số sẽ mang các giá trị với ít nhất 2 đặc tính:
+ @certes
+* dt
+- (từ cổ, nghĩa cổ) chắc chắn; thực tế
+ @certifiable  
+*  tt
+- có thể chứng nhận
+
+@certifiably
+- xem certifiable
+ @certificate  
+*  dt
+- giấy chứng nhận; bằng
+
++ a certificate of birth: giấy (chứng nhận) khai sinh
+
++ a certificate of health: giấy chứng nhận sức khoẻ
+- chứng chỉ, văn bằng
+*  ngdgt
+- cấp giấy chứng nhận
+- cấp văn bằng
+
+@Certificate of deposit
+- (Econ) Giấy chứng nhận tiền gửi.
+: Một chứng từ do một ngân hàng phát hành chứng nhận khoản tiền gửi ở ngân hàng đó và là một lời hứa trả lại khoản tiền cho người cầm phiếu vào một ngày xác định trong tương lai.
+ @certificated  
+*  tt
+- có giấy chứng nhận, có đăng ký; được phép
+- có văn bằng
+
+@certification  
+*  dt
+- sự cấp giấy chứng nhận
+- giấy chứng nhận
+
+@certificatory
+- xem certificate
+ @certified  
+*  tt
+- được chứng nhận, được nhận thực, được chứng thực
+
++ certified milk: sữa đã kiểm nghiệm
+- (từ Mỹ,nghĩa Mỹ) được đảm bảo giá trị
+- (y học) được chứng nhận là mắc bệnh tinh thần
+
+@certifier
+- xem certify
+ @certify  
+*  dgt
+- chứng nhận, nhận thực, chứng thực; cấp giấy chứng nhận
+- (từ Mỹ,nghĩa Mỹ) đảm bảo giá trị (một tấm séc)
+- (y học) chứng nhận là mắc bệnh tinh thần
+
+@certiorari
+* dt
+- lệnh toá án cấp trên xét lại vụ án
+ @certitude  
+*  dt
+- sự tin chắc, sự chắc chắn; sự biết đích xác
+
+@cerulean  
+*  dt
+- xanh da trời
+
+@cerumen  
+*  dt
+- ráy tai
+
+@ceruminous  
+*  tt
+- (thuộc) ráy tai
+
+@ceruse  
+*  dt
+- (hoá học) chì cacbonat
+
+@cervelat
+* dt
+- xúc xích ngắn
+ @cervical  
+*  tt
+- (giải phẫu) (thuộc) cổ
+
++ cervical vertebrae: (các) đốt sống cổ
+
+@cervicitis
+* dt
+- chứng viêm cổ tử cung
+ @cervine  
+*  tt
+- (thuộc) hươu nai; như hươu nai
+
+@cervix
+* dt
+- cổ tử cung
+ @CES production function
+- (Econ) hàm sản xuất có độ co giãn thay thế cố định.
+: Xem CONSTANT ELASTICITY OF SUBTITUTION PRODUCTION FUNCTION.
+ @cesarian
+* dt
+- như Caesarean section
+ @cesium  
+*  dt
+- (như) caesium
+
+@cess   (sess) @cessation  
+*  dt
+- sự dừng, sự ngừng, sự đình, sự chấm dứt
+
++ cessation of hostilities: sự đình chiến
+
+@cesser
+* dt
+- sự chấm dứt về pháp luật
+
++  cesser of term:sự đình chỉ kỳ hạn
+ @cession  
+*  dt
+- sự nhượng lại, sự để lại (đất đai, quyền hạn...)
+- vật nhượng lại, vật để lại
+
+@cesspit  
+*  dt
+- đống phân, hố phân; (từ Mỹ,nghĩa Mỹ) hố phân
+- (nghĩa bóng) nơi ô uế, nơi bẩn thỉu
+
+@cesspool  
+*  dt
+- hầm chứa phân (dưới các cầu tiêu)
+- (nghĩa bóng) nơi ô uế, nơi bẩn thỉu
+
+@cestode
+* dt
+- (động vật) lớp sán dây; sán dây
+* tt
+- thuộc lớp sán dây
+ @cestoid  
+*  dt
+- (động vật học) sán dây
+
+@cestus
+* dt
+- bao tay để đấu võ (từ cổ La Mã)
+ @cesura
+* dt
+- như caesura
+- (thơ ca) (âm nhạc) chỗ ngắt
+ @cet
+* (viết tắt)
+- Giờ Trung Âu (Central European Time)
+ @cetacean
+* dt
+- động vật biển có vú (như) cá voi
+* tt
+- (thuộc) động vật biển có vú
+ @cetacian  
+*  tt
+- (động vật học) (thuộc) bộ cá voi
+*  dt
+- (động vật học) loài cá voi
+
+@cetane
+* dt
+- hydrocarbon lỏng dùng phân loại nhiên liệu đi-ê-zen theo tiêu chuẩn
+ @cetane-number
+* dt
+- chỉ số xetan
+ @cetane-rating
+* dt
+- chỉ số xetan
+ @Ceteris paribus
+- (Econ) Điều kiện khác giữ nguyên
+: Một cụm thuật ngữ la tinh nghĩa là mọi thứ khác không đổi. Phân tích kinh tế thường tiến hành bằng cách xem xét ảnh hưởng của một vài biến độc lập trong khi đó các yếu tố khác không đổi.
+ @ceteris-paribus
+* dt
+- các mặt khác không thay đổi
+ @cevitamic-acid
+* dt
+- (dược) vitamin C
+ @ceylonese  
+*  tt
+- (thuộc) Xơ-ri-lan-ca
+*  dt
+- người Xơ-ri-lan-ca
+
+@

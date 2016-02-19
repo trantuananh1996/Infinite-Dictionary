@@ -1,0 +1,1082 @@
+@vocab
+* dt
+- <thgt> bảng từ vựng (bản kê các từ cùng với nghĩa của chúng, nhất là loại đi kèm một cuốn sách giáo khoa bằng ngoại ngữ)
+ @vocable  
+*  dt
+- (ngôn ngữ học) từ
+
+@vocabular
+* tt
+- thuộc từ ngữ, thuộc từ vựng
+ @vocabulary  
+*  dt
+- (ngôn ngữ học) từ vựng
+
+@vocal  
+*  tt
+- (thuộc sự) phát âm, (thuộc) thanh âm
+
++ vocal organs: cơ quan phát âm
+
++ vocal cords (chords): dây thanh âm
+
++ vocal music: thanh nhạc
+- bằng miệng
+
++ vocal promise: lời hứa miệng
+
++ public opinion has at last become vocal: cuối cùng dư luận quần chúng bắt đầu lên tiếng
+- (thông tục) lớn tiếng, to tiếng, hay nói hay la
+
++ vocal persons: những người hay to tiếng
+- (thơ ca) đầy thanh âm
+
++ the woods have become vocal: rừng cây xào xạc đầy thanh âm
+- (ngôn ngữ học) kêu, có thanh
+- (ngôn ngữ học) có tính chất nguyên âm
+*  dt
+- (ngôn ngữ học) nguyên âm
+
+@vocal cords
+* dt
+- dây thanh âm (bộ phận phát ra tiếng của thanh quản)
+ @vocalic  
+*  tt
+- (thuộc) nguyên âm
+
+@vocalically
+- xem vocalic
+ @vocalise  
+*  ngdgt
+- phát âm, đọc
+- (ngôn ngữ học) nguyên âm hoá
+*  ndgt
+- (âm nhạc) xướng nguyên âm
+
+@vocalism  
+*  dt
+- (ngôn ngữ học) âm (của) nguyên âm
+- (ngôn ngữ học) hệ nguyên âm
+- sự hát; nghệ thuật hát
+
+@vocalist  
+*  dt
+- người hát
+
+@vocalistic
+- xem vocalism
+ @vocality
+* dt
+- tái nói
+- sự hữu thanh hoá
+- năng lực ngôn ngữ
+- sự thể hiện bằng lời
+- sự nguyên âm hoá
+ @vocalization  
+*  dt
+- sự phát âm; cách đọc
+- (âm nhạc) sự xướng nguyên âm
+- (ngôn ngữ học) sự nguyên âm hoá
+
+@vocalize  
+*  ngdgt
+- phát âm, đọc
+- (ngôn ngữ học) nguyên âm hoá
+*  ndgt
+- (âm nhạc) xướng nguyên âm
+
+@vocalizer
+- xem vocalize
+ @vocally
+* dt
+- bằng lời nói, bằng cách dùng tiếng nói
+- lớn tiếng, nói một cách thoải mái, nói thẳng ra
+ @vocalness
+- xem vocal
+ @vocanicity
+* dt
+- xem vocanism
+ @vocanism  
+*  dt
+- tác dụng của núi lửa; sức mạnh của núi lửa
+- thuyết núi lửa
+
+@vocation  
+*  dt
+- thiên hướng
+
++ to have vocation for music: có thiên hướng về nhạc
+- nghề, nghề nghiệp
+
++ to choose a vocation: chọn nghề, chọn ngành
+
+@vocational  
+*  tt
+- (thuộc) nghề nghiệp
+
++ vocational guidance: sự hướng dẫn ngành nghề
+
++ vocational school: trường dạy nghề
+
+@vocationally
+- trạng từ
+- xem vocational
+ @vocative  
+*  tt
+- (ngôn ngữ học) (thuộc) cách xưng hô
+*  dt
+- (ngôn ngữ học) cách xưng hô
+
+@vocatively
+- xem vocative
+ @voces  
+*  dt (số nhiều voces)
+- tiếng
+
++ vox populi: tiếng nói của nhân dân, dư luận quần chúng
+
+@vociferance
+* dt
+- độ vang, tính chất oang oang
+- tiếng hò reo, tiếng động
+- tiếng kêu, tiếng la ó
+ @vociferant  
+*  tt
+- om sòm, ầm ĩ (tiếng)
+
+@vociferate  
+*  dgt
+- la om sòm, la ầm ĩ
+
+@vociferation  
+*  dt
+- sự la om sòm, sự la ầm ĩ
+
+@vociferator
+- xem vociferate
+ @vociferous  
+*  tt
+- om sòm
+
++ a vociferous crowd: một đám đông om sòm
+
+@vociferously
+* dt
+- om sòm, to tiếng, ầm ự
+- một mực khăng khăng
+ @vociferousness  
+*  dt
+- tính chất om sòm, tính chất ầm ĩ
+
+@vodka  
+*  dt
+- rượu vôtca
+
+@vogue  
+*  dt
+- mốt, thời trang; cái đang được chuộng, cái đang thịnh hành
+
++ it is now the vogue: cái đó hiện nay là cái mốt, cái đó đang thịnh hành
+
++ all the vogue: thật là đúng mốt; đang được mọi người chuộng
+
++ to be in vogue: đang thịnh hành, đang được chuộng
+
++ to be out of vogue: không còn thịnh hành
+
++ to come into vogue: thành cái mốt
+
++ to have a great vogue: thịnh hành khắp nơi, được người ta rất chuộng
+
+@vogue word
+* dt
+- từ thịnh hành, từ hiện đang hợp mốt
+ @vogue-word
+* dt
+- từ thịnh hành, từ hiện đang hợp mốt
+
++  'accountability' is the current vogue-word in politics:'tinh thần trách nhiệm' là từ hợp mốt trong chính trị
+ @voice  
+*  dt
+- tiếng, tiếng nói, giọng nói ((nghĩa đen) & (nghĩa bóng))
+
++ in a loud voice: nói to
+
++ in a low voice: nói khẽ
+
++ a sweet voice: giọng êm ái
+
++ to lift up one's voice: lên tiếng, cất tiếng nói
+
++ to raise one's voice: cất cao tiếng, nói to lên
+
++ the voice of conscience: tiếng nói (gọi) của lương tâm
+- ý kiến; lời, lời nói; sự bày tỏ, sự phát biểu
+
++ to have a voice in the matter: có tiếng nói về vấn đề đó
+
++ with one voice: đồng thanh, nhất trí
+
++ to listen to the voice of a friend: nghe lời bạn
+- (ngôn ngữ học) âm kêu
+- (ngôn ngữ học) dạng
+
++ passive voice: dạng bị động
+*  ngdgt
+- bày tỏ, nói lên
+
++ to voice the feelings of the crowd: nói lên cảm nghĩ của quần chúng
+- (ngôn ngữ học) phát thành âm kêu
+
++ to voice a consonant: phát một phụ âm thành âm kêu
+
+@voiced  
+*  tt
+- (ngôn ngữ học) kêu
+
++ voiced consonant: phụ âm kêu
+
+@voicedness
+- xem voiced
+ @voiceless  
+*  tt
+- không nói được, không có tiếng, câm
+- (ngôn ngữ học) không kêu
+
++ voiceless consonant: phụ âm không kêu
+- (y học) mất tiếng
+
+@voicelessly
+- xem voiceless
+ @voicelessness  
+*  dt
+- sự không nói ra, sự im lặng
+- (ngôn ngữ học) tính không kêu
+
+@voice-over
+* dt
+- lời thuyết minh (trong phim )
+ @voice-part
+* dt
+- bè hát
+ @voice-pipe
+* dt
+- ống loa
+ @voicer
+* dt
+- người chỉnh âm (đàn phong cầm)
+ @voice-tube
+* dt
+- xem voice-pipe
+ @void  
+*  tt
+- trống, bỏ không, trống rỗng, khuyết
+
++ a void space: một khoảng trống
+
++ a void post: một chức vị khuyết
+- không có người ở; không có người thuê (nhà)
+- không có
+
++ void of sense: không có nghĩa lý gì
+- (thơ ca); (văn học) vô ích, vô dụng
+- (pháp lý) không có hiệu lực, không có giá trị
+
++ to make void: huỷ bỏ
+
++ to consider something as null and void: coi cái gì như không còn giá trị
+*  dt
+- chỗ trống, khoảng không
+
++ to fill the void: lấp chỗ trống
+
++ to disappear into the void: biến mất vào khoảng không
+- (nghĩa bóng) sự trống rỗng, nỗi thiếu thốn (trong tâm hồn, trong lòng); nỗi thương tiếc
+
++ his death has left a void: ông ấy chết đi để lại nỗi thương tiếc cho mọi người
+- (pháp lý) nhà bỏ không
+*  ngdgt
+- (pháp lý) làm cho mất hiệu lực, làm cho mất giá trị
+- (y học) bài tiết
+- (từ cổ,nghĩa cổ) lìa bỏ, rời bỏ (nơi nào)
+
+@voidability
+* tt
+- tính chất có thể mất hiệu lực @voidable  
+*  tt
+- (pháp lý) có thể làm cho mất hiệu lực
+
+@voidableness
+- xem voidable
+ @voidance  
+*  dt
+- (tôn giáo) sự cắt bổng lộc, sự cắt tiền thu nhập
+- (pháp lý) sự làm cho mất hiệu lực, sự làm cho mất giá trị
+- (y học) sự bài tiết
+
+@voided  
+*  tt
+- bị làm trống rỗng
+- (pháp lý) bị làm mất hiệu lực, bị làm mất giá trị
+- (y học) được bài tiết ra
+
+@voider
+- xem void
+ @voiding
+* dt
+- sự bài tiết
+- phân, chất bài tiết
+ @voidness  
+*  dt
+- tính chất trống rỗng
+- (pháp lý) tính vô hiệu, tính vô giá trị
+
++ the voidness of an agreement: tính chất vô giá trị của một hiệp định
+
+@void-tree
+* tt
+- đặc, chắc
+ @voile  
+*  dt
+- (nghành dệt) voan, sa
+
+@vol
+- (vt của volume) tập, dung tích
+ @volage
+* tt
+- nóng nổi, hời hợt, nhẹ dạ
+ @volant  
+*  tt
+- (động vật học) bay, có thể bay
+- (thơ ca) nhanh nhẹn, nhanh
+
+@volar  
+*  tt
+- (giải phẫu) (thuộc) lòng bàn tay, (thuộc) gan bàn chân
+
+@volatic
+* tt
+- biết bay, bay, lượn
+* dt
+- chim, chim chóc, bướm
+ @volatile  
+*  tt
+- (hoá học) dễ bay hơi
+
++ volatile substance: chất dễ bay hơi
+- không kiên định, hay thay đổi; nhẹ dạ
+
++ of a volatile character: có tính nhẹ dạ
+- vui vẻ, hoạt bát
+
+@volatilisation
+* dt
+- sự bay hơi; sự làm cho bay hơi
+ @volatilise   (volatilise) @volatility  
+*  dt
+- (hoá học) tính dễ bay hơi
+- tính không kiên định, tính hay thay đổi; tính nhẹ dạ
+- tính vui vẻ, tính hoạt bát
+
+@Volatility
+- (Econ) Tính dễ biến động.
+ @volatilizable  
+*  tt
+- có thể bay hơi
+
+@volatilization  
+*  dt
+- sự bay hơi; sự làm cho bay hơi
+
+@volatilize   (volatilise) @volatilizer
+- xem volatilize
+ @vol-au-vent
+* dt
+- món tỉm xắm xốt (bột nhồi thịt gà, nấm, hương liệu)
+ @volcanic  
+*  tt
+- (thuộc) núi lửa
+
++ volcanic rocks: đá núi lửa
+- nóng nảy, hung hăng, sục sôi (tính tình...)
+
++ volcanic nature: tính nóng nảy
+
+@volcanically
+- trạng từ
+- đo hoạt động núi lửa
+- xem volcanic
+- một cách mãnh liệt, điên cuồng, rồ dại
+ @volcanism
+* dt
+- tác dụng của núi lửa; sức mạnh của núi lửa
+- thuyết núi lửa, các hiện tượng núi lữa
+ @volcanist  
+*  dt
+- nhà nghiên cứu núi lửa
+- người theo thuyết núi lửa
+
+@volcano  
+*  dt (số nhiều volcanoes)
+- núi lửa
+
++ active volcano: núi lửa đang hoạt động
+
++ dormant volcano: núi lửa nằm im
+
++ extinct volcano: núi lửa đã tắt
+
+@volcanological
+* tt
+- xem volcanology
+- thuộc hoả sơn học
+- thuộc khoa núi lữa
+ @volcanologist
+* dt
+- xem volcanology
+- nhà nghiên cứu núi lửa
+ @volcanology  
+*  dt
+- khoa núi lửa
+
+@vole  
+*  dt
+- (động vật học) chuột đồng, chuột microtut
+*  dt
+- (đánh bài) sự ăn tất cả các nước bài
+*  ndgt
+- (đánh bài) ăn tất cả các nước bài
+
+@volery
+* dt
+- lồng chim, chuồng chim
+ @volition  
+*  dt
+- ý muốn
+
++ of one's own volition: tự ý mình
+
+@volitional   (volitive) @volitionally
+- xem volition
+ @volitive   (volitive) @volley  
+*  dt
+- loạt (đạn, đá... bắn ra, ném ra); tràng, chuỗi (cười, vỗ tay)
+- (thể dục,thể thao) quả vôlê (đánh hoặc đá khi bóng chưa chạm đất)
+*  ngdgt
+- ném ra hàng loạt, tung ra hàng loạt, bắn ra hàng loạt; tuôn ra hàng tràng
+
++ to volley forth abuses: tuôn ra hàng tràng những lời chửi rủa
+- (thể dục,thể thao) đánh vôlê, đá vôlê
+*  ndgt
+- bắn một loạt (súng)
+- (thể dục,thể thao) đánh vôlê, đá vôlê
+
+@volleyball  
+*  dt
+- (thể dục,thể thao) bóng chuyền
+
+@volleyballer
+- xem volleyball
+ @volleyer
+- xem volley
+ @volmeter  
+*  dt
+- (điện học) cái đo vôn
+
+@volote
+- đường xoắn ốc
+ @volpique
+* dt
+- sự bổ nhào (máy bay)
+ @volplane  
+*  dt
+- sự liệng xuống, sự sà xuống (của máy bay tắt máy)
+*  ndgt
+- liệng xuống, sà xuống (máy bay tắt máy)
+
+@volt  
+*  dt
+- (điện học) vôn
+
++ a tension of 300 volts: một điện áp 300 vôn
+*  dt
+- sự chạy vòng quanh (của ngựa)
+- (thể dục,thể thao) cách né mình tránh kiếm
+
++ to make a volt: né mình tránh đường kiếm
+*  ndgt
+- chạy vòng quanh (ngựa)
+- (thể dục,thể thao) né mình tránh kiếm
+
+@voltage  
+*  dt
+- (điện học) điện áp
+
++ high voltage: điện áp cao, cao thế
+
+@voltage
+- thế hiệu
+- instantanneous v. thế hiệu tức thời
+- steady stale v. thế hiệu ổn định 
+ @voltaic  
+*  tt
+- (điện học) điện,  ganvanic
+
++ voltaic current: dòng điện
+
+@voltameter  
+*  dt
+- (điện học) bình điện phân
+
+@volte-face  
+*  dt
+- sự quay trở lại, sự quay ngược lại
+
++ to make a volte-face: quay trở lại
+- (nghĩa bóng) sự thay đổi ý kiến hoàn toàn; sự trở mặt
+
+@voltmeter
+* dt
+- vôn kế
+ @volubility  
+*  dt
+- tính liến thoắng, tính lém; tính lưu loát
+
+@voluble  
+*  tt
+- liến thoắng, lém; lưu loát
+
++ a voluble speech: một bài diễn văn lưu loát
+- (thực vật học) quấn (cây leo)
+
+@volubleness
+- xem voluble
+ @volubly
+* dt
+- liến thoắng, lém, nói nhiều, ba hoa (người)
+- lưu loát, trơn tru, trôi chảy, nhanh, thanh thoát (một bài nói)
+ @volume  
+*  dt
+- quyển, tập
+
++ a work in three volumes: một tác phẩm gồm ba tập
+- khối
+- dung tích, thể tích
+- (vật lý) âm lượng
+- (số nhiều) làn, đám, cuộn (khói, mây...)
+
++ volumes of smoke: cuộn khói
+!to speak (tell, express) volumes for
+- nói lên một cách hùng hồn, chứng minh một cách hùng hồn
+
+@volume
+- khối, thể tích; tập (sách báo)
+- v. of a solid thể tích của một vật thể
+- incompressible v. thể tích không nén được 
+ @volumetric  
+*  tt
+- (thuộc) thể tích
+
++ volumetric capacity: dung tích
+- để đo thể tích
+
+@volumetrically
+- trạng từ
+- xem volumetric
+ @voluminosity
+* dt
+- xem voluminous
+ @voluminous  
+*  tt
+- to, to tướng
+
++ a voluminous parcel: một gói to
+- gồm nhiều tập
+
++ a voluminous work: một tác phẩm gồm nhiều tập
+- viết nhiều sách (nhà văn, tác giả)
+- lùng nhùng (đồ vải...)
+- (từ hiếm,nghĩa hiếm) cuộn thành vòng, cuộn thành lớp
+
+@voluminousity
+* dt
+- tính chất thể tích, trạng thái thể tích
+ @voluminously
+* dt
+- lụng thụng, không vừa, rộng thùng thình (về quần áo ); lùng nhùng (về hàng vải)
+- nhiều tập, đồ sộ, phong phú (về sự viết lách)
+- viết nhiều sách (nhà văn, tác giả)
+- to, to tướng
+ @voluntarily
+* dt
+- tự ý; tự nguyện; tình nguyện
+ @voluntariness  
+*  dt
+- tính chất tự ý, tính chất tự nguyện, tính chất tự giác; sự tình nguyện
+
+@voluntarism  
+*  dt
+- (triết học) thuyết ý chí
+
+@voluntarist
+* dt
+- xem voluntarism
+ @voluntaristic
+- xem voluntarism
+ @voluntary  
+*  tt
+- tự ý, tự nguyện, tự giác
+
++ a voluntary contribution: sự đóng góp tự nguyện
+
++ voluntary action: hành động tự giác
+
++ voluntary school: trường dân lập
+- tự ý chọn (đề tài)
+- (quân sự) tình nguyện
+
++ voluntary army: đội quân tình nguyện
+- (sinh vật học) tự ý, chủ động
+
++ voluntary contraction of a muscle: sự co cơ chủ động
+- (pháp lý) tự nguyện, vui lòng cho không; cố ý
+
++ voluntary conveyance: sự nhượng không
+
++ voluntary manslaughter: tội cố ý giết người
+*  dt
+- đề tài tự ý chọn (trong kỳ thi)
+- (tôn giáo) người chủ trương dân lập (chủ trương nhà thờ và trường học phải độc lập đối với nhà nước và dựa vào sự đóng góp của dân)
+- (tôn giáo) khúc nhạc giải lao (những lúc ngừng hành lễ)
+- sự tuyển quân dựa trên cơ sở tình nguyện
+
+@Voluntary export restraint
+- (Econ) Hạn chế xuất khẩu tự nguyện.
+: Một giới hạn do chính các nhà xuất khẩu ở một nước tự đưa ra đối với hàng xuất khẩu để ngăn chặn hành động bảo hộ chính thức của một nước nhập khẩu.
+ @Voluntary unemployment
+- (Econ) Thất nghiệp tự nguyện.
+: Phần Thất nghiệp nảy sinh từ quá trình tìm việc và thất nghiệp tạm thời và trá hình.
+ @Voluntary-exchange model
+- (Econ) Mô hình trao đổi tự nguyện.
+: Một phép tiếp cận đối với phân tích việc cung cấp Hàng hoá công cộng nhằm thiết lập các điều kiện mà qua đó các hàng hoá này có thể cung cấp trên cơ sở thoả thuận hoàn toàn nhất trí - nghĩa là không có cưỡng ép.
+ @voluntaryism  
+*  dt
+- (tôn giáo) thuyết dân lập ((xem) voluntary)
+
+@voluntaryist
+- xem voluntaryism
+ @voluntative
+* tt
+- thuộc thức ý chí
+* dt
+- thức ý chí
+ @volunteer  
+*  dt
+- (quân sự) quân tình nguyện
+- người tình nguyện, người xung phong
+
++ any volunteers?: có ai tình nguyện không?, có ai xung phong không?
+*  tt
+- tình nguyện
+
++ volunteer corps: đạo quân tình nguyện
+- (thực vật học) mọc tự nhiên
+
++ volunteer plants: cây mọc tự nhiên
+*  ndgt
+- tình nguyện, tự nguyện xung phong (nhận làm việc gì)
+- xung phong tòng quân, tình nguyện tòng quân
+*  ngdgt
+- xung phong làm; tự động đưa ra
+
++ to volunteer to do something: xung phong làm một việc gì
+
++ to volunteer an explanation: tự động đưa ra cách giải thích
+
+@volunteering  
+*  dt
+- chế độ quân tình nguyện
+- sự tình nguyện tòng quân
+
+@voluptuary  
+*  tt
+- (thuộc sự) khoái lạc; thích khoái lạc
+*  dt
+- người thích khoái lạc; người ưa nhục dục
+
+@voluptuous  
+*  tt
+- khoái lạc; ưa nhục dục
+- gây khoái lạc; đầy vẻ khoái lạc, khêu gợi
+
+@voluptuously
+* dt
+- khêu gợi, gây khoái lạc, gợi cảm, đầy vẻ khoái lạc
+- ưa khoái lạc, ham xác thịt, ưa nhục dục
+- khêu gợi, có một dáng người đầy đặn và gây ham muốn xác thực (về một phụ nữ)
+ @voluptuousness  
+*  dt
+- tính thích khoái lạc; tính ưa nhục dục
+- tính chất gây khoái lạc; tính khêu gợi
+
+@volute  
+*  dt
+- (kiến trúc) kiểu trang trí xoắn ốc
+- vật hình xoắn ốc
+
++ volute of smoke: cuộn khói
+- (động vật học) ốc xoắn
+*  tt
+- xoắn ốc
+
++ a volute spring: lò xo xoắn ốc, lò xo ruột gà
+
+@voluted  
+*  tt
+- cuộn xoắn trôn ốc, xoắn ốc
+
+@volution  
+*  dt
+- đường trôn ốc
+- (giải phẫu) khúc cuộn (não, ruột)
+
+@volvulus  
+*  dt
+- (y học) chứng xoắn ruột
+
+@vomer  
+*  dt
+- (giải phẫu) xương lá mía
+
+@vomerine
+- xem vomer
+ @vomica  
+*  dt
+- (y học) hang (trong phổi bị lao)
+- sự khạc ộc mủ
+
+@vomit  
+*  dt
+- chất nôn mửa ra
+- thuốc mửa; chất làm nôn mửa
+*  ngdgt
+- nôn, mửa
+
++ to vomit blood: nôn ra máu
+- phun ra, tuôn ra ((nghĩa đen) & (nghĩa bóng))
+
++ to vomit smoke: phun khói
+
++ to vomit abuses: tuôn ra những lời chửa rủa
+*  ndgt
+- nôn, mửa
+
+@vomiter
+- xem vomit
+ @vomitive  
+*  tt: (vomitive) 
+@vomitory  
+*  tt: (vomitive) 
+@vomitting  
+*  dt
+- (y học) sự nôn oẹ, sự mửa
+
+@vomiturition  
+*  dt
+- (y học) sự ợ
+
+@Von Neumann ratio
+- (Econ) Tỷ số Von Neumann.
+: Một thống kê kiểm định được tính để tìm sự hiện diện của sự TƯƠNG QUAN CHUỖI CỦA CÁC SAI SỐ trong phân tích hồi quy.
+ @Von Neumann-Morgenstern utility
+- (Econ) Thoả dụng Von Neumann-Morgenstern.
+: Theo tên đặt của J. von Neumann (1903-57) và O.Morgenstern (1902-77), đây là cách tiếp cận đối với thuyết cầu mà được cho là đúng khi áp dụng các tình huống rủi ro.
+ @voodoo  
+*  dt
+- sự dùng tà thuật, sự tin tà thuật
+- người giỏi tà thuật; thầy chài, thầy mo
+*  ngdgt
+- làm cho mê bằng tà thuật; bỏ bùa mê; chài
+
+@voodooism  
+*  dt
+- tà thuật; phép dùng tà thuật để chài
+
+@voodooist
+- xem voodooism
+ @voodooistic
+- xem voodooism
+ @voracious  
+*  tt
+- tham ăn, phàm ăn; ngấu nghiến, ngốn ((nghĩa đen) & (nghĩa bóng))
+
++ a voracious appetite: sự ăn ngấu nghiến ngon lành
+
++ a voracious reader: (nghĩa bóng) một người ngốn sách
+
++ a voracious plant: cây ngốn nhiều màu
+
++ a voracious whirlpool: một vũng nước xoáy đã ngốn mất nhiều người
+
+@voraciously
+* dt
+- tham ăn, phàm ăn; ngấu nghiến, ngốn, rất tham lam trong ăn uống
+- <bóng> khao khát, rất háo hức (kiến thức, thông tin )
+ @voraciousness   (voracity) @voracity   (voracity) @vortex  
+*  dt (số nhiều vortexes,  vortices)
+- gió cuộn, gió xoáy; xoáy nước; cơn lốc ((nghĩa đen) & (nghĩa bóng))
+
++ to be drawn into the vortex of...: bị cuốn vào trong cơn lốc của...
+
++ the vortex of revolution: cơn lốc cách mạng
+
+@vortex
+- rôta, cái xoáy, dòng xoáy
+- bound v. cơ, rôta biên
+- forced v. rôtacưỡng bức
+- free v. rôta tự do
+- spherical v. rôta cầu
+- trailing v. cơ, rôta cuối, cái xoáy đầu mút 
+ @vortical  
+*  tt
+- xoáy tròn, xoáy cuộn
+
++ a vortical motion: một chuyển động xoáy tròn
+- (nghĩa bóng) quay cuồng
+
+@vortical
+- (thuộc) rôta, xoáy
+ @vortically
+- xem vortical
+ @vortices  
+*  dt (số nhiều vortexes,  vortices)
+- gió cuộn, gió xoáy; xoáy nước; cơn lốc ((nghĩa đen) & (nghĩa bóng))
+
++ to be drawn into the vortex of...: bị cuốn vào trong cơn lốc của...
+
++ the vortex of revolution: cơn lốc cách mạng
+
+@vorticist
+* dt
+- người theo phái vị lai (văn học), hội hoạ...
+ @vorticity
+- (vật lí) tính xoáy
+ @vorticular  
+*  tt
+- cuốn, cuộn, xoáy
+
+@vortiginous  
+*  tt
+- xoáy, xoáy cuộn
+
++ vortiginous wind: gió xoáy
+
+@votable
+- xem vote
+ @votaress  
+*  dt
+- người đàn bà sùng tín
+- người đàn bà sốt sắng, người đàn bà nhiệt tâm
+- người đàn bà hâm mộ, người đàn bà ham thích (thể thao...)
+
+@votarist
+* dt
+- xem votary
+ @votary  
+*  dt
+- người tôn thờ; người sùng tín, kẻ sùng đạo
+
++ a votary of Buddha: một người sùng Phật
+- người sốt sắng, người nhiệt tâm
+
++ a votary of peace: người sốt sắng với hoà bình
+
++ a votary of science: người nhiệt tâm với khoa học
+- người hâm mộ, người ham thích (mỹ thuật, thể thao...)
+
++ a votary of football: người ham thích bóng đá
+
+@votation
+* dt
+- sự bỏ phiếu
+ @vote  
+*  dt
+- sự bỏ phiếu
+
++ to go to the vote: đi bỏ phiếu
+
++ a vote of confidence: sự bỏ phiếu tín nhiệm
+- lá phiếu
+
++ to count the votes: kiểm phiếu
+- số phiếu (của một đảng trong một cuộc bầu cử)
+- biểu quyết; nghị quyết (qua bỏ phiếu)
+
++ to carry out a vote of the Congress: (từ Mỹ,nghĩa Mỹ) thực hiện một nghị quyết của quốc hội
+- ngân sách (do quốc hội quyết định)
+
++ the army vote: ngân sách cho quân đội
+*  ndgt
+- bỏ phiếu, bầu cử
+*  ngdgt
+- bỏ phiếu thông qua
+
++ to vote an appropriation: bỏ phiếu thông qua một khoản chi
+- (thông tục) đồng thanh tuyên bố
+- (thông tục) đề nghị
+!to vote down
+- bỏ phiếu bác
+!to vote in
+- bầu
+!to vote out
+- bỏ phiếu chống
+!to vote through
+- tán thành, thông qua
+
+@Vote maximizer
+- (Econ) Ngừơi muốn tối đa hoá phiếu bầu.
+: Ngừơi muốn tối đa hoá phiếu bầu chính trị cho mình.
+ @Vote trading
+- (Econ) Trao đổi phiếu bầu.
+: Xem LOGROLLING.
+ @voteable
+- xem vote
+ @votee  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) người ứng cử
+
+@voteless  
+*  tt
+- không có quyền bầu cử
+- không được phiếu nào
+
+@voter  
+*  dt
+- người bỏ phiếu, người bầu cử
+- người có quyền bỏ phiếu
+
+@voting  
+*  dt
+- sự bỏ phiếu, sự bầu cử, sự biểu quyết
+
+@Voting and non-voting shares
+- (Econ) Các cổ phiếu có quyền bỏ phiếu và không có quyền bỏ phiếu.
+: Các chủ sở hữu cổ phiếu thường của một công ty thường có quyền bỏ phiếu dầy dủ tại các cuộc họp công ty.
+ @voting-paper  
+*  dt
+- lá phiếu
+
+@votive  
+*  tt
+- dâng cúng để thực hiện lời nguyền
+
++ votive offerings: đồ lễ tạ
+
+@votively
+- xem votive
+ @vouch  
+*  ngdgt
+- dẫn chứng, chứng rõ, xác minh; nêu lên làm chứng
+
++ to vouch an authority: nêu lên một người có uy tín để làm chứng
+
++ to vouch a book: lấy sách để dẫn chứng
+*  ndgt
+- (: for) cam đoan, bảo đảm
+
++ to vouch for the truth of: bảo đảm sự thật của
+
++ I can vouch for his honesty: tôi có thể cam đoan là anh ta chân thật
+
+@voucher  
+*  dt
+- (pháp lý) người bảo đảm
+- (tài chính) chứng chỉ, giấy chứng thực; biên lai
+- vé tạm (phát cho người xem muốn ra ngoài) (ở nhà hát, rạp chiếu bóng)
+
+@Voucher
+- (Econ) Tem phiếu.
+: Một phương pháp cung cấp dịch vụ và hàng hoá của chính phủ, trong đó cá nhân được cho tiền để chỉ mua hàng hoá và dịch vụ đã định trước.
+ @Voucher schemes
+- (Econ) Các chương trình theo phiếu.
+: Các loại tem phiếu là một phương pháp để phân phối lại bằng hiện vật.
+ @vouchsafe  
+*  dgt
+- chiếu cố, hạ cố; thèm
+
++ to vouchsafe to do something: hạ cố làm việc gì
+
++ to vouchsafe someone no reply: chẳng thèm trả lời ai
+
+@vouchsafement
+- xem vouchsafe
+ @vow  
+*  dt
+- lời thề, lời nguyền
+
++ to make (take) a vow: thề, thề nguyền
+
++ to be under a vow to do something: đã thề (nguyền) làm việc gì
+
++ to perform a vow: thực hiện lời thề (lời nguyền)
+
++ to break a vow: không thực hiện lời thề, lỗi thề
+
++ monastic vow: lời thề của nhà tu hành
+*  dgt
+- thề, nguyện
+
++ to vow vengeance against someone: thề trả thù ai
+
++ to vow a monument to someone's memory: nguyện xây một đài kỷ niệm để tưởng nhớ ai
+
+@vowel  
+*  dt
+- (ngôn ngữ học) nguyên âm
+
+@vowelise   (vowelize) @vowelization
+- xem vowelize
+ @vowelize   (vowelize) @vower
+- xem vow
+ @vox  
+*  dt (số nhiều voces)
+- tiếng
+
++ vox populi: tiếng nói của nhân dân, dư luận quần chúng
+
+@vox pop
+- (tiếng La tinh) dư luận quần chúng
+ @vox populi
+* dt
+- (tiếng La tinh) dư luận quần chúng
+ @voyage  
+*  dt
+- cuộc du lịch xa bằng đường biển
+
++ to go on a voyage: đi du lịch xa bằng đường biển
+*  dgt
+- đi du lịch xa bằng đường biển
+
+@voyager  
+*  dt
+- người đi du lịch xa bằng đường biển
+
+@voyageur  
+*  dt
+- người chuyên chở hàng hoá và hành khách (ở vùng vịnh Hút-xơn)
+- người chở thuyền (Ca-na-đa)
+
+@voyeur  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người thích xem hình ảnh khiêu dâm
+- (như) Peeping_Tom
+
+@voyeurism  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) thói đốn thích xem hình ảnh khiêu dâm
+
+@voyeuristic
+- xem voyeur
+ @voyeuristically
+- xem voyeur
+ @

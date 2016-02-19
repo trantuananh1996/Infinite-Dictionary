@@ -1,0 +1,9 @@
+@nsb
+* (viết tắt)
+- Qũy tiết kiệm quốc gia (National Saving Bank)
+ @nsfnet
+- Một mạng toàn cục do Office of Advanced Scientific Computing của National Science Foundation (qũy khoa học quốc gia - NSF) thành lập NSFnet đã được xây dựng để tiếp quản các chức năng dân sự trong mạng ARPAnet của Bộ quốc phòng Mỹ mà vì lý do an ninh, đã được giữ bí mật đối với người ngoài NSFnet đã được cung cấp phần cứng truyền thông đối với Internet nên đã nhanh chóng hoà hợp và trở thành hệ thống thư điện tử của thế giới
+ @nspcc
+* (viết tắt)
+- Hiệp hội quốc gia ngăn ngừa nạn ngược đãi thiếu nhi (National Society for the Prevention of Cruelty for Children)
+ @

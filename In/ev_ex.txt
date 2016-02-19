@@ -1,0 +1,4384 @@
+@ex  
+*  dt
+- (thương nghiệp) từ, bán từ, bán tại (hàng hoá)
+
++ ex ship: từ tàu (chở hàng)
+
++ ex store: từ cửa hàng
+
++ price ex works: giá bán tại nhà máy
+
+@ex animo  
+*  dt & tt
+- thành thật, thành tâm
+
+@Ex ante
+- (Econ) Từ trước; Dự tính; dự định
+: Là mức độ đã được dự tính, dự định hay mong muốn của một hoạt động nào đó.
+ @ex officio  
+*  tt & dt
+- mặc nhiên
+
+@ex parte  
+*  dt
+- một bên, một phía
+*  tt
+- (pháp lý) của một bên, của một phía
+
+@Ex post
+- (Econ) từ sau; sau đó 
+: Sau khi xảy ra một sự kiện nào đó hoặc sau một quyết định thực hiện một việc gì đó. Xem EX ANTE.
+ @exacerbate   (acerbate) @exacerbation  
+*  dt
+- sự làm tăng, sự làm trầm trọng (bệnh, sự tức giận, sự đau đớn)
+- sự làm bực tức, sự làm cáu tiết, sự làm tức giận
+
+@exact  
+*  tt
+- chính xác, đúng, đúng dắn
+
++ exact sciences: khoa học chính xác
+*  ngdgt (: from,  of)
+- tống (tiền...); bắt phải nộp, bắt phải đóng, bóp nặn (thuế...)
+- đòi hỏi, đòi khăng khăng, đòi hỏi cấp bách
+
+@exact
+- chính xác, khớp, đúng
+- generically e.hh; đs; khớp nói chung 
+ @exact copy
+- (Tech) bản sao y
+ @Exact test
+- (Econ) Kiểm nghiệm chính xác.
+: Khi PHÂN PHỐI XÁC SUẤT của một thống kê kiểm định được biết một cách chính xác, thay cho việc một phân phối chỉ biết ở dạng gần đúng, như vậy vùng tới hạn có thể xác định được thì kiểm định ấy được gọi là kiểm định chính xác.
+ @exactable  
+*  tt
+- có thể bắt phải nộp, có thể bắt phải đóng, có thể bóp nặn, có thể đòi được
+- có thể đòi hỏi được
+
+@exacter
+- xem exact
+ @exacting  
+*  tt
+- đòi hỏi nhiều, hay đòi hỏi quá quắt, sách nhiễu (người)
+- đòi hỏi phải kiên trì, đòi hỏi phải cố gắng...
+
++ an exacting job: một đòi hỏi có nhiều cố gắng
+
+@exactingly
+- xem exacting
+ @exactingness
+- xem exacting
+ @exaction  
+*  dt
+- sự tống (tiền...); số tiền tống, số tiền đòi hỏi
+- sự đòi hỏi không hợp pháp, sự đòi hỏi quá quắt, sự sách nhiễu; sự bóp nặn (tiền của...)
+- sưu cao thuế nặng
+
+@exactitude   (exactness) @exactitude
+- [tính, độ] chính xác
+ @exactly  
+*  dt
+- chính xác, đúng đắn
+- đúng như thế, đúng như vậy (dùng trong câu trả lời)
+
+@exactness   (exactness) @exactness
+- [tính, độ] chính xác, tính đúng đắn, tính khớp
+- partial e.(tô pô) tính khớp riêng phần 
+ @exactor  
+*  dt
+- người tống (tiền...); người bóp nặn
+- người đòi hỏi, người sách nhiễu
+
+@exaggerate  
+*  dgt
+- thổi phồng, phóng đại, cường điệu
+- làm tăng quá mức
+
+@exaggerated
+* tt
+- phóng đại; cường điệu
+
++  to have an exaggerated notion of a  person's wealth:có một khái niệm quá lớn về của cải của một người
+- tăng quá mức
+ @exaggeratedly  
+*  dt
+- thổi phồng, phóng đại, cường điệu
+- quá mức, quá khổ
+
+@exaggeration  
+*  dt
+- sự thổi phồng, sự phóng đại, sự cường điệu
+- sự làm quá mức, sự làm to quá khổ
+
+@exaggerative  
+*  tt
+- thổi phồng, phóng đại, cường điệu
+- quá mức, quá khổ
+
+@exaggerator  
+*  dt
+- người thổi phồng, người phóng đại, người cường điệu
+
+@exaggeratory
+- xem exaggerate
+ @exalate
+* tt
+- (thực vật) không cánh; không phần phụ dạng cánh
+ @exalt  
+*  ngdgt
+- đề cao, đưa lên địa vị cao, tâng bốc, tán tụng, tán dương
+
++ to exalt to the skies: tâng bốc lên tận mây xanh
+- ((thường) động tt quá khứ) làm cao quý
+- làm đậm, làm thắm (màu...)
+
+@exaltation  
+*  dt
+- sự đề cao, sự đưa lên địa vị cao, sự tâng bốc, sự tán tụng, sự tán dương
+- sự hớn hở, sự phớn phở
+- quyền cao chức trọng
+- sự làm đậm, sự làm thẫm (màu...)
+
+@exalted
+* tt
+- phấn khởi; cao hứng
+- cao quý (tình cảm, phong cách); xứng đáng; cao thượng
+ @exalter
+- xem exalt
+ @exam  
+*  dt
+- (thông tục) (viết tắt) của examination
+
+@examen  
+*  dt
+- (như) examination
+- sự nghiên cứu có phê phán
+
+@examinable
+- xem examine
+ @examinant   (examiner) @examination   (examen) @examinational  
+*  tt
+- khám xét kỹ, xem xét kỹ, thẩm tra, khảo sát, nghiên cứu
+- (thuộc) sự thi cử
+
+@examination-paper  
+*  dt
+- các câu hỏi thi; các câu trả lời câu hỏi thi; bài thi
+
+@examinatorial  
+*  tt
+- (thuộc) sự thi cử
+- (thuộc) người chấm thi
+
+@examine  
+*  ngdgt
+- khám xét, xem xét, thẩm tra, khảo sát, nghiên cứu
+- hỏi thi, sát hạch (một thí sinh)
+- (pháp lý) thẩm vấn
+*  ndgt
+- ((thường) : into) thẩm tra, xem xét, khảo sát
+
+@examine
+- nghiên cứu, quan sát, kiểm tra
+ @examinee  
+*  dt
+- người bị khám xét, người bị thẩm tra
+- người đi thi, thí sinh
+
+@examiner  
+*  dt
+- (như) examinant
+- người chấm thi
+
+@example  
+*  dt
+- thí dụ, ví dụ
+- mẫu, gương mẫu, gương
+
++ to set a good example: nêu gương tốt
+
++ to take example by: noi gương
+- cái để làm gương
+
++ to make an example of someone: phạt ai để làm gương
+- tiền lệ, lệ trước, vật so sánh, cái tương đương
+
++ without example: từ trước chưa hề có cái như thế
+*  ngdgt (từ hiếm,nghĩa hiếm)
+- dùng làm thí dụ
+- dùng làm mẫu; dùng làm gương
+
+@example
+- ví dụ
+- for e. ví dụ như
+- graphical e. ví dụ trực quan 
+ @exanimate  
+*  tt
+- chết, bất động
+- không hoạt động, không có tinh thần, đờ đẫn
+
+@exanimation
+* dt
+- xem exanimate chỉ tình trạng
+ @exanimo
+* tt
+- thực lòng; thành tâm
+ @exanthema  
+*  dt,  số nhiều exanthemata
+- (y học) ngoại ban
+
+@exanthemata  
+*  dt,  số nhiều exanthemata
+- (y học) ngoại ban
+
+@exanthematic
+- xem exanthema
+ @exanthematous  
+*  tt
+- (y học) (thuộc) ngoại ban
+
+@exarate
+* tt
+- thuộc con nhộng có cánh, chân cử động được
+- đào xới
+ @exarch  
+*  dt
+- (sử học) quan trấn thủ
+- (tôn giáo) (như) bishop
+
+@exarchal
+- xem exarch
+ @exarchate
+- xem exarch
+ @exasperate  
+*  ngdgt
+- làm trầm trọng hơn (sự đau đớn, bệnh ác cảm)
+- làm bực tức, làm cáu tiết, làm giận điên lên
+- khích (ai) (làm gì)
+
+@exasperatedly
+- xem exasperate
+ @exasperater
+- xem exasperate
+ @exasperating  
+*  tt
+- làm bực tức, làm cáu tiết, làm giận điên lên
+
+@exasperatingly
+* dt
+- khó chịu, khó ưa
+ @exasperation  
+*  dt
+- sự làm trầm trọng hơn (sự đau đớn, bệnh ác cảm)
+- sự làm bực tức, sự làm cáu tiết, sự làm giận điên lên
+- sự khích (ai) (làm gì)
+
+@excardination
+* dt
+- việc chuyển một tu sĩ từ giáo khu này sang giáo khu khác
+ @excavate  
+*  ngdgt
+- đào
+
++ to excavate a hole: đào một cái hố
+
++ to excavate a tunnel: đào một đường hầm
+
++ to excavate the soil: đào đất
+- khai quật
+
+@excavation  
+*  dt
+- sự đào; hố đào
+- sự khai quật
+
+@excavator  
+*  dt
+- người đào; người khai quật
+- máy đào; máy xúc
+
+@exceed  
+*  ndgt
+- trội hơn
+- làm quá
+- phóng đại
+- ăn uống quá độ
+
+@exceed
+- (Tech) vượt trội (đ)
+ @exceed
+- trội, vượt
+ @exceeding  
+*  tt
+- vượt bực; trội; quá chừng
+
+@exceedingly
+* dt
+- quá chừng, cực kỳ
+ @excel  
+*  ngdgt (: in,  at)
+- hơn, trội hơn (người khác về mặt nào...)
+
++ to others in courage: trội hơn người khác về mặt dũng cảm, dũng cảm hơn người
+*  ndgt (: in,  at)
+- trội về, xuất sắc về (môn gì...)
+
++ to excel at mathematics: trội về môn toán, xuất sắc về môn toán
+
+@excellence  
+*  dt
+- sự trội hơn, sự xuất sắc, sự ưu tú; tính ưu tú
+- điểm trội, sở trường
+
+@excellency  
+*  dt
+- ngài (xưng hô)
+
++ Your excellency; His excellency: thưa ngài
+- phu nhân
+
++ Her excellency: thưa phu nhân
+
+@excellent  
+*  tt
+- hơn hẳn, trội hơn; rất tốt, thượng hạng, xuất sắc, ưu tú
+
+@excellently
+* dt
+- xuất sắc, tuyệt vời
+ @excelsior  
+*  thán từ
+- vươn lên mãi!, lên cao mãi!; luôn luôn tiến lên!
+*  dt
+- (từ Mỹ,nghĩa Mỹ) vỏ bào để nhồi
+- (ngành in) cỡ 3 (chữ)
+
+@excenter
+- tâm đường tròn bàng tiếp
+- e. of a triangle tâm vòng tròn bàng tiếp của một tam giác 
+ @excentric
+* tt
+- xem eccentric
+ @excentricity
+* dt
+- xem eccentricity
+ @except  
+*  ngdgt
+- trừ ra, loại ra
+*  ndgt
+- phản đối, chống lại
+
++ to except against someone's statement: phản đối lại lời tuyên bố của ai
+*  giới từ
+- trừ, trừ ra, không kể
+*  liên từ
+- (từ cổ,nghĩa cổ) trừ phi
+
+@except
+- sự loại trừ   trừ ra e. for trừ (ra)
+@excepting  
+*  giới từ (dùng sau without,  not,  always)
+- trừ, không kể
+
++ not even excepting women and children: ngay cả đàn bà và trẻ con cũng không kể
+*  liên từ
+- (từ cổ,nghĩa cổ) trừ phi
+
+@exception  
+*  dt
+- sự trừ ra, sự loại ra
+
++ with the exception of: trừ
+- cái trừ ra, cái loại ra; ngoại lệ
+- sự phản đối
+
++ to take exception to something: phản đối cái gì, chống lại cái gì
+
++ subject (liable) to exception: có thể bị phản đối
+!the exception proves the rule
+- (xem) prove
+
+@exception
+- sự ngoại lệ
+ @exception condition
+- (Tech) điều kiện ngoại lệ
+ @exception control
+- (Tech) kiểm soát ngoại lệ
+ @exception handler
+- (Tech) thủ trình ngoại lệ
+ @exceptionability
+- xem exceptionable
+ @exceptionable  
+*  tt
+- có thể bị phản đối
+
+@exceptionably
+- xem exceptionable
+ @exceptional  
+*  tt
+- khác thường, đặc biệt, hiếm có
+- ngoại lệ
+
+@exceptional
+- ngoại lệ
+ @exceptionality  
+*  dt
+- tính khác thường, tính đặc biệt, tính hiếm có
+- tính ngoại lệ
+
+@exceptionally
+* dt
+- cá biệt, khác thường
+ @exceptionalness
+- xem exceptional
+ @exceptive  
+*  tt
+- để trừ ra, để loại ra; ngoại lệ
+- hay phản đối, hay bẻ bai, hay bẻ hoẹ
+
+@excerpt  
+*  dt
+- phần trích, đoạn trích (sách...)
+*  ngdgt
+- trích, trích dẫn (một đoạn trong sách...)
+
+@excerptible  
+*  tt
+- có thể trích, có thể trích dẫn
+
+@excerption  
+*  dt
+- sự trích, sự trích dẫn
+- tập bài trích, tuyển tập bài trích
+
+@excess  
+*  dt
+- sự vượt quá giới hạn, sự quá mức; sự vượt, sự hơn
+- số lượng vượt quá, số lượng hơn, thừa ra, số dôi; độ dôi
+
++ neutron excess: (vật lý) số nnơtrôn dôi
+- sự thừa mứa
+- sự ăn uống quá độ
+- (số nhiều) sự làm quá đáng
+- (định ngữ) thừa, quá mức qui định
+
++ excess luggage: hành lý quá mức qui định
+!in excess of
+- hơn quá
+!in excessl to excess
+- thừa quá
+
+@excess
+- (cái, số) dư, số thừa; (thống kê) dộ nhọn
+- e. of nine số dư (khi chia cho chín)
+- e. of triangle góc dư của tam giác
+- spherical e. số dư cầu 
+ @Excess burden
+- (Econ) Gánh nặng thuế quá mức.
+ @Excess capacity
+- (Econ) Công suất dư; công suất thừa; Thừa năng lực, thừa công suất.
+: Nói một cách chặt chẽ, khi một doanh nghiệp được coi là sản xuất thừa năng lực là khi mức SẢN LƯỢNG được sản xuất ra thấp hơn mức sản lượng tại đó chi phí trung bình thấp nhất.
+ @Excess capacity theory
+- (Econ) Lý thuyết công suất dư @excess charge carrier
+- (Tech) hạt mang điện tích thừa
+ @excess conduction
+- (Tech) dẫn điện thừa
+ @excess conductivity
+- (Tech) tính dẫn thừa
+ @excess current
+- (Tech) dòng thừa
+ @Excess demand
+- (Econ) Mức cầu dư; Dư cầu.
+: Là tình trạng CẦU vượt CUNG ở một mức giá nào đó.
+ @excess electron
+- (Tech) điện tử thừa
+ @excess energy
+- (Tech) năng lượng thừa
+ @Excess productive capacity (Idle Excess goods)
+- (Econ) Tư liệu sản xuất nhàn rỗi.
+ @Excess profit
+- (Econ) Lãi vượt.
+ @Excess reserves
+- (Econ) Khoản dự trữ dư; Dự trữ dư.
+: Mức chênh lệch giữa tổng số dự trữ mà ngân hàng gửi tiền  Mỹ đang giữ và DỰ TRỮ BẮT BUỘC do luật pháp yêu cầu để trả nợ.
+ @Excess supply
+- (Econ) Mức cung dư; Dư cung
+: Là tình trạng  CUNG  vượt CẦU ở một mức giá nào đó.
+ @excess voltage
+- (Tech) điện thế thừa
+ @Excess wage tax
+- (Econ) Thuế chống lương vượt; Thuế chống tăng lương
+: Là thuế đưa ra để chống việc tăng lương quá cao nhằm làm giảm lạm phát.
+ @excessive  
+*  tt
+- quá mức, thừa
+- quá thể, quá đáng
+
+@excessively
+* dt
+- quá chừng, quá đáng
+ @excessiveness  
+*  dt
+- sự quá mức, tính chất thừa
+- tính chất quá thể, tính chất quá đáng
+
+@exchange  
+*  dt
+- sự đổi, sự đổi chác, sự trao đổi; vật trao đổi
+
++ exchange of goods: sự trao đổi hàng hoá
+
++ exchange of prisoners of war: sự trao đổi tù binh
+
++ exchange of blows: cuộc ẩu đả, sự đấm đá lẫn nhau
+
++ exchange of words: cuộc cãi lộn, cuộc đấu khẩu
+- sự đổi tiền; nghề đổi tiền; sự hối đoái; cơ quan hối đoái
+
++ rate of exchange: giá hối đoái, tỷ giá hối đoái
+- sự thanh toán nợ bằng hối phiếu
+- tổng đài (dây nói)
+*  ngdgt
+- đổi, đổi chác, trao đổi
+
++ to exchange goods: trao đổi hàng hoá
+
++ to exchange words: lời đi tiếng lại, đấu khẩu
+
++ to exchange blows: đấm đá nhau
+
++ to exchange glances: liếc nhau; lườm nhau
+*  ndgt
+- (: for) đổi ra được, ngang với (tiền)
+
++ a pound can exchange for more than two dollars: một đồng bảng có thể đổi ra được hơn hai đô la
+- (quân sự),  (hàng hải) chuyển (từ trung đoàn này sang trung đoàn khác, từ tàu này sang tàu khác); đối với một sĩ quan khác
+
+@exchange
+- (Tech) tổng đài (điện thoại), trung tâm điện thoại; trao đổi (d @Exchange
+- (Econ) Trao đổi
+: Xem TRADE.
+ @exchange
+- sự trao đổi, sự thay đổi
+- heat e. trao đổi nhiệt
+- stock e.(thống kê) phòng hối đoái 
+ @Exchange control
+- (Econ) Quản lý ngoại hối.
+: Là một hệ thống mà nhà nước sử dụng để kiểm soát các giao dịch bằng ngoại tệ và vàng.
+ @Exchange Equalization Account
+- (Econ) Quỹ bình ổn Hối đoái.
+: Là một hệ thống hay dàn xếp đựơc NGÂN HÀNG hình thành năm 1932, nhằm quản lý những biến động không mong muốn trong tỷ giá hối đoái của đồng bảng, sau khi Anh bỏ CHẾ ĐỘ BẢN VỊ VÀNG vào năm 1931.
+ @exchange key
+- (Tech) phím biến hoán (biến đổi mẫu âm Hoa hay Nhật ra chữ Hán)
+ @Exchange rate
+- (Econ) Tỷ giá hối đoái.
+: Là giá của đồng tiền một nước được tính bằng đồng tiền của một nước khác.
+ @Exchange rate Mechanism
+- (Econ) Cơ chế tỷ giá hối đoái.
+: Cơ chế tỷ giá hối đoái  (ERM) là một hệ thống mà theo đó các thành viên của HỆ THỐNG TIỀN TỆ CHÂU ÂU (ENS) buộc phải duy trì tỷ giá hối đoái của họ trong những mức nhất định.
+ @Exchange rate speculation
+- (Econ) Sự đầu cơ tỷ giá hối đoái.
+ @Exchange reserves
+- (Econ) Dự trữ ngoại hối.
+: Xem EXTERNAL RESERVES
+ @exchangeability  
+*  dt
+- tính đổi được, tính đổi chác được, trính trao đổi được
+
+@exchangeable  
+*  tt
+- có thể đổi được, có thể đổi chác, có thể trao đổi
+
++ exchangeable value: giá trị trao đổi
+
+@exchequer  
+*  dt
+- (the Exchequer) Bộ Tài chính Anh
+
++ the Chancellor of the Exchequer: Bộ trưởng Bộ Tài chính Anh
+- kho bạc quốc gia, ngân khố quốc gia
+- tiền riêng
+- (Ecchequer) (sử học) toà án tài chính (toà án Anh ngày xưa phụ trách về vụ tài chính) ((cũng) Court of Exchequer)
+
+@Exchequer
+- (Econ) Kho bạc, ngân khố Anh.
+: Là tài khoản trung ương của chính phủ Anh được Bộ tài chính giữ trong ngân hàng Anh. Xem CONSOLIDATED FUND.
+ @excipient
+* dt
+- (dược học) tá dược
+ @exciple
+* dt
+- (thực vật) vỏ thể quả đĩa
+ @excircle
+- vòng tròn bàng tiếp
+- e. of triangle vòng trong bàng tiếp một tam giác 
+ @excisable  
+*  tt
+- có thể đánh thuế được
+
+@excise  
+*  dt
+- thuế hàng hoá, thuế môn bài
+- sở thu thuế hàng hoá, sở thu thuế môn bài
+*  ngdgt
+- đánh thuế hàng hoá, đánh thuế môn bài
+- bắt trả quá mức
+*  ngdgt
+- cắt, cắt xén (đoạn sách...)
+- (sinh vật học); (y học) cắt bớt, cắt lọc
+
+@Excise duty
+- (Econ) Thuế tiêu thụ đặc biệt.
+: Xem CUSTOMS, EXCISE AND PROTECTIVE DUTIES.
+ @Excise taxes
+- (Econ) Các mức thuế trên từng mặt hàng.
+ @excision  
+*  dt
+- sự cắt, sự cắt xén (đoạn sách...)
+- (sinh vật học); (y học) sự cắt bớt, sự cắt lọc
+
+@excision
+- (tô pô) sự cắt
+ @excitability
+* dt
+- tính dễ bị kích thích, tính dễ bị kích động
+ @excitable
+* tt
+- dễ bị kích thích, dễ bị kích động
+ @excitableness
+- xem excitable
+ @excitably
+- xem excitable
+ @excitant  
+*  tt
+- (y học) để kích thích
+- dt
+- tác nhân kích thích
+
+@excitation  
+*  dt
+- sự kích thích
+
++ atomic excitation: (vật lý) sự kích thích nguyên tử
+
++ radiative excitation: (vật lý) sự kích thích bằng bức xạ
+
+@excitation
+- (vật lí) sự kích thích
+ @excitation energy
+- (Tech) năng lượng kích thích
+ @excitation level
+- (Tech) mức kích thích
+ @excitation potential
+- (Tech) thế kích thích
+ @excitation power
+- (Tech) công suất kích thích
+ @excitative   (excitatory) @excitatory   (excitatory) @excite  
+*  ngdgt
+- kích thích ((nghĩa đen) & (nghĩa bóng)), kích động
+!don't excite [yourself]!
+- hãy bình tĩnh! đừng nóng mà!
+
+@excite
+- (vật lí) kích thích
+ @excited  
+*  tt
+- bị kích thích, bị kích động; sôi nổi
+!don't get excited!
+- hãy bình tĩnh! đừng nóng mà!
+
+@excitedly
+* dt
+- xúc động
+ @excitement  
+*  dt
+- sự kích thích, sự kích động; tình trạng bị kích thích, tình trạng bị kích động
+- sự nhộn nhịp, sự náo động, sự sôi nổi
+
+@exciter  
+*  dt
+- người kích thích, người kích động
+- (kỹ thuật) bộ kích thích
+
+@exciter
+- (Tech) bộ kích thích (điện)
+ @exciter antenna
+- (Tech) ăngten kích thích
+ @exciter selsyn
+- (Tech) máy tự đồng bộ kích thích
+ @exciting  
+*  tt
+- kích thích, kích động
+- hứng thú, lý thú, hồi hộp; làm say mê, làm náo động
+- (kỹ thuật) để kích thích
+
+@exciting coil
+- (Tech) cuộn dây kích thích
+ @exciting current
+- (Tech) dòng kích thích
+ @exciting loop
+- (Tech) mạch kín kích thích
+ @exciting magnet
+- (Tech) nam châm kích thích
+ @exciting winding
+- (Tech) cuộn dây kích thích 
++  field winding
+ @excitingly
+* dt
+- hứng thú, thú vị
+ @excitometabolic
+* tt
+- (sinh học) kích thích chuyển hoá
+ @excitomotion
+* dt
+- (sinh học) sự kích thích vận động
+ @excitomotor
+* tt
+- kích thích vận động
+ @excitomotory
+* tt
+- xem exclamative
+
++  excitomotory sentence:câu cảm thán
+ @exciton
+* tt
+- (vật lý) exiton
+ @excitonutrient
+* tt
+- kích thích dinh dưỡng
+ @excitor
+* dt
+- vật kích thích
+- dây thần kinh phản xạ
+ @excitron
+- (Tech) đèn kích thích, đèn kích hồ [TQ], excitron
+ @exclaim  
+*  dgt
+- kêu lên, la lên
+!to exclaim against
+- tố cáo ầm ĩ
+
+@exclaimer
+- xem exclaim
+ @exclamation  
+*  dt
+- sự kêu lên, sự la lên
+- lời kêu lên, lời la lên
+!note of exclamation
+- dấu than
+
+@exclamation mark
+* dt
+- dấu cảm, dấu chấm than
+ @exclamative   (exclamative) @exclamatively   (exclamatively) @exclamatorily   (exclamatively) @exclamatory   (exclamative) @exclave  
+*  dt
+- phần đất tách ra (của một nước)
+
+@excludability
+- xem exclude
+ @Excludable
+- (Econ) Có thể loại trừ.
+: Xem EXCLUSSION PRINCIPLE.
+ @excludable
+- xem exclude
+ @exclude  
+*  ngdgt
+- không cho (ai...) vào (một nơi nào...); không cho (ai...) hưởng (quyền...)
+- ngăn chận
+- loại trừ
+- đuổi tống ra, tống ra
+
++ to exclude somebody from a house: đuổi ai ra khỏi nhà
+
+@exclude
+- loại trừ
+ @excluded
+- bị loại trừ
+ @excluder
+- xem exclude
+ @excludible
+- xem exclude
+ @exclusion  
+*  dt
+- sự không cho vào (một nơi nào...), sự không cho hưởng (quyền...)
+- sự ngăn chận
+- sự loại trừ
+- sự đuổi ra, sự tống ra
+!to the exclusion of somebody (songthing)
+- trừ ai (cái gì) ra
+
+@Exclusion
+- (Econ) Loại trừ
+: Là một tình trạng mà người tiêu dùng bị loại trừ không được mua một loại hàng hoá nào đó vì giá mà người đó sẵn sàng trả thấp hơn giá thị trường.
+ @exclusion
+- sự loại trừ
+ @exclusion
+- sự đi lệch (khỏi quỹ đạo thông thường) dịch
+ @Exclusion principle
+- (Econ) Nguyên tắc loại trừ.
+: Là một tiêu chuẩn để chúng ta phân biệt HÀNG HOÁ CÔNG CỘNG và hàng hoá phi công cộng. Khi một người sản xuất hay một người bán có thể ngăn cản một số người nào đó không cho họ mua hàng của mình - nói chung là những người không đủ tiền mua hàng - thì hàng hoá đó được cung cấp theo cách của thị trường.
+ @exclusionary
+- xem exclusion
+ @exclusionism
+* dt
+- thuyết bế môn toả cảng; thuyết bài trừ người nước ngoài
+- thuyết dành đặc quyền chỉ cho một đẳng cấp
+ @exclusive  
+*  tt
+- loại trừ
+- riêng biệt, dành riêng (câu lạc bộ, cửa hàng...); độc chiếm, độc quyền
+
++ an exclusive interview: cuộc phỏng vấn dành riêng (cho một tờ báo)
+
++ exclusive right to sell something: độc quyền bán cái gì
+- độc nhất
+
++ one's exclusive occupation: công việc độc nhất của mình
+- (dùng như dt) trừ, không kể, không gồm
+
++ from page one to page ten exclusive: từ trang 1 đến trang 10 không kể trang 10
+
++ 100,000 people exclusive of women: 100 000 người không kể đàn bà con gái
+
+@exclusive
+- (Tech) loại trừ; duy nhất; chuyên nhất, độc chiếm, độc quyền
+ @exclusive
+- loại trừ
+- mutually e. loại trừ lẫn nhau, xung khắc nhau 
+ @EXCLUSIVE OR (XOR) circuit
+- (Tech) mạch HOẶC ĐỐI, mạch XOR
+ @exclusively
+* dt
+ @exclusiveness  
+*  dt
+- tính loại trừ
+- tính riêng biệt, tính dành riêng; tính độc chiếm, tính độc quyền
+- tính độc nhất
+
+@exclusivism  
+*  dt
+- tính chất riêng biệt, tính chất dành riêng; xu hướng riêng biệt, xu hướng dành riêng
+
+@exclusivity
+* dt
+- tính loại trừ
+- tính riêng biệt, tính dành riêng; tính độc chiếm, tính độc quyền
+- tính độc nhất
+ @excogitate  
+*  ngdgt
+- nghĩ ra, nặn ra (kế hoạch...), bày ra (mưu mô...)
+
+@excogitation  
+*  dt
+- sự nghĩ ra, sự nặn ra (kế hoạch...), sự bày ra (mưu mô...)
+- điều (kế hoạch...) nghĩ ra, điều (kế hoạch...) nặn ra, điều (mưu mô...) bày ra
+
+@excogitative  
+*  tt
+- nghĩ ra, nặn ra (kế hoạch...), bày ra (mưu mô...)
+
+@excommunicate  
+*  tt
+- (tôn giáo) bị rút phép thông công
+*  dt
+- (tôn giáo) người bị rút phép thông công
+
+@excommunication  
+*  ngdgt
+- (tôn giáo) sự rút phép thông công
+
+@excommunicative   (excommunicatory) @excommunicator  
+*  dt
+- (tôn giáo) người rút phép thông công
+
+@excommunicatory   (excommunicatory) @excoriate  
+*  ngdgt
+- làm tuột da, làm sầy da
+- bóc, lột (da)
+- (từ Mỹ,nghĩa Mỹ) phê bình gắt gao, chỉ trích ai
+
+@excoriation  
+*  dt
+- sự làm tuột da, sự làm sầy da; chỗ tuột da, chỗ sầy da
+- sự bóc, sự lột da
+- (từ Mỹ,nghĩa Mỹ) sự phê bình gắt gao, sự chỉ trích gắt gao; lời phê bình gắt gao; lời chỉ trích gắt gao
+
+@excoriator
+- xem excoriate
+ @excrement  
+*  dt,  (thường) số nhiều
+- cứt, phân
+
+@excremental   (excrementitious) @excrementitious   (excrementitious) @excrescence  
+*  dt
+- (sinh vật học) u lồi, cục lồi; chỗ sùi
+
+@excrescent  
+*  tt
+- (sinh vật học) phát triển không bình thường
+- thừa, vô ích, không cần thiết
+- (ngôn ngữ học) do hài âm
+
+@excrescential  
+*  tt
+- (thuộc) u lồi, (thuộc) cục lồi
+
+@excrescently
+- xem excrescent
+ @excreta  
+*  dt số nhiều
+- chất bài tiết, cứt, đái
+
+@excretal
+- xem excreta
+ @excrete  
+*  ngdgt
+- bài tiết, thải ra
+
+@excretion  
+*  dt
+- sự bài tiết, sự thải ra
+- chất bài tiết
+
+@excretive   (excretory) @excretory
+* tt
+- như excretive
+ @excruciate  
+*  ngdgt
+- làm đau đớn, hành hạ
+- (từ hiếm,nghĩa hiếm) dằn vặt, rầy khổ
+
+@excruciating
+* tt
+- hết sức đau khổ
+
++  an excruciating migraine:một bệnh đau đầu hết sức đau đớn
+- (từ Mỹ, nghĩa Mỹ) (thông tục) khắt khe; rất tỉ mỉ
+ @excruciation  
+*  dt
+- sự làm cho đau đớn, sự hành hạ; sự đau đớn
+- (từ hiếm,nghĩa hiếm) sự dằn vặt, sự rầy khổ
+
+@excrutiating  
+*  tt
+- làm đau đớn, hành hạ
+- (từ hiếm,nghĩa hiếm) dằn vặt, rầy khổ
+
+@excrutiatingly
+* dt
+ @exculpable
+- xem exculpate
+ @exculpate  
+*  ngdgt
+- giải tội, bào chữa
+- tuyên bố vô tội
+
+@exculpation  
+*  dt
+- sự giải tội, sự bào chữa
+- sự tuyên bố vô tội
+- bằng chứng vô tội; điều giải tội
+
+@exculpatory  
+*  tt
+- để giải tội, để bào chữa
+
+@excurrent  
+*  tt
+- chảy ra
+- (động vật học) (thuộc) động mạch; chảy đi (máu)
+- (thực vật học) kéo dài thẳng ra (thân cây...); chia ra (đầu lá...)
+
+@excursable  
+*  tt
+- có thể tha lỗi, có thể tha thứ được
+
+@excursableness  
+*  dt
+- tính tha lỗi được, tính tha thứ được
+
+@excursatory  
+*  tt
+- để xin lỗi, để cáo lỗi
+- để bào chữa
+
+@excurse  
+*  ndgt
+- đi chơi
+- (từ hiếm,nghĩa hiếm) đi lan man ra ngoài đề
+
+@excursion  
+*  dt
+- cuộc đi chơi; cuộc đi chơi tập thể (bằng xe lửa, tàu thuỷ...) với giá hạ có định hạn ngày đi ngày về); cuộc đi tham quan
+- (từ cổ,nghĩa cổ),  (quân sự) cuộc đánh thọc ra
+- (thiên văn học) sự đi trệch
+- (kỹ thuật) sự trệch khỏi trục
+
+@excursion train  
+*  dt
+- chuyến tàu dành cho cuộc đi chơi tập thể; chuyến tàu dành cho đoàn tham quan ((thường) giá hạ có định hạn ngày đi ngày về)
+
+@excursional   (excursionary) @excursionist  
+*  dt
+- người đi chơi; người tham gia cuộc đi chơi tập thể; người đi tham quan
+
+@excursion-rates
+* dt
+- giá hạ (xe, tàu, khách sạn) cho khách đi chơi; tham quan
+ @excursive  
+*  tt
+- hay nói ra ngoài đề, hay viết ra ngoài đề (người)
+- lan man, tản mạn (văn...)
+
++ excursive reading: sự đọc tản mạn (không có hệ thống)
+
+@excursively
+- xem excursive
+ @excursiveness  
+*  dt
+- tính hay đi ra ngoài đề
+- tính lan man, tính tản mạn
+
+@excursus  
+*  dt,  số nhiều excursuses
+- bài bàn thêm, bài phát triển (về một vấn đề, để ở phần phụ lục cuốn sách)
+
+@excurvate
+* tt
+- (cong) lồi
+ @excurvation
+* dt
+- sự uốn (cong); khúc cong (lồi)
+ @excurved
+* tt
+- cong (lồi)
+ @excusable
+* tt
+- có thể tha lỗi, có thể tha thứ được
+ @excusableness
+* dt
+- tính tha lỗi được, tính tha thứ được
+ @excusably
+* dt
+- đáng tha thứ
+ @excusatory
+* tt
+- để xin lỗi, để cáo lỗi
+- để bào chữa
+ @excuse  
+*  dt
+- lời xin lỗi; lý do để xin lỗi
+- lời bào chữa; lý do để bào chữa
+
++ a lante excuse; a poor excuse: lý do bào chữa không vững chắc
+- sự miễn cho, sự tha cho (nhiệm vụ gì)
+*  ngdgt
+- tha lỗi, thứ lỗi, tha thứ, miễn thứ, lượng thứ, bỏ quá đi cho
+
++ excuse me!: xin lỗi anh (chị...)
+
++ excuse my gloves: tôi không bỏ găng tay ra được xin anh bỏ quá đi cho
+- cố làm giảm lỗi của, cố làm giảm trách nhiệm của (ai, việc gì); bào chữa, giải tội cho (ai); là cớ để bào chữa cho
+
++ his youth excuses his siperficiality: tuổi trẻ là điều bào chữa cho sự nông nổi của anh ta
+- miễn cho, tha cho
+
++ to excuse someone a fine: miễn cho ai không phải nộp phạt
+
++ to excuse oneself: xin lỗi, cáo lỗi; xin phép cáo biệt; xin phép vắng mặt
+
+@excuser
+- xem excuse
+ @ex-directory
+* tt
+- (nói về số điện thoại) không nằm trong danh bạ
+ @exe
+- Trong DOS, đây là một đuôi mở rộng, chỉ rõ tệp tin đó là một chương trình chạy được
+ @exeat  
+*  dt
+- giấy phép cho ra ngoài một lúc (ở trường học)
+
+@execrable  
+*  tt
+- bỉ ổi, rất đáng ghét
+
+@execrableness
+- xem execrable
+ @execrably
+* dt
+- bỉ ổi, đáng tởm, đáng ghét
+ @execrate  
+*  ngdgt
+- ghét cay ghét đắng, ghét độc địa
+*  ndgt
+- chửi rủa, nguyền rủa
+
+@execration  
+*  dt
+- sự ghét cay ghét đắng, sự ghét độc địa
+- lời chửi rủa
+- người (vật) bị ghét cay ghét đắng
+
+@execrative  
+*  tt
+- tỏ ra ghét cay ghét đắng ((cũng) execratory)
+
+@execrator
+- xem execrate
+ @execratory  
+*  tt
+- (như) execrative
+- để chửi rủa, để nguyền rủa
+
+@executable  
+*  tt
+- có thể thực hiện được, có thể thi hành được
+- có thể thể hiện được; có thể biểu diễn được
+
+@executable file
+- (Tech) tập tin khả thi
+ @executable program
+- (Tech) chương trình khả thi
+ @executable statement
+- (Tech) câu lệnh khả thi
+ @executant  
+*  dt
+- người biểu diễn (nhạc...)
+
+@execute  
+*  ngdgt
+- thực hiện, thi hành, thừa hành, chấp hành
+- thể hiện; biểu diễn (bản nhạc...)
+- (pháp lý) làm thủ tục để cho có giá trị (hiệp ước, giao kèo...) (bằng cách ký vào, đóng dấu vào...)
+- hành hình
+
+@execute
+- (Tech) chạy (chương trình), thi hành (chỉ thị) (đ)
+ @execute
+- chấp hành, thi hành, thực hành
+ @execute cycle
+- (Tech) chu kỳ thi hành
+ @execute statement
+- (Tech) câu lệnh thi hành
+ @execute-only program
+- (Tech) chương trình chỉ thi hành
+ @executer
+- xem execute
+ @execution  
+*  dt
+- sự thực hiện, sự thi hành, sự thừa hành, sự chấp hành
+- sự thể hiện; sự biểu diễn (bản nhạc...)
+- (pháp lý) sự làm thủ tục để cho có giá trị (hiệp ước, giao kèo...)
+- sự hành hình
+- sức phá hoại, sức tàn phá (bằng) sức làm chết mê chết mệt
+
++ to do execution: gây tàn phá; (nghĩa bóng) làm chết mê chết mệt
+
+@execution cycle
+- (Tech) chu kỳ thi hành
+ @execution time
+- (Tech) thời gian thi hành
+ @executioner  
+*  dt
+- đao phủ, người hành hình
+
+@executive  
+*  tt
+- (thuộc) sự thực hiện, (thuộc) sự thi hành; để thực hiện, để thi hành
+- hành pháp
+- (từ Mỹ,nghĩa Mỹ) hành chính
+
++ an executive position: chức vị hành chính
+*  dt
+- quyền hành pháp; tổ chức hành pháp
+- (từ Mỹ,nghĩa Mỹ) uỷ viên ban chấp hành, uỷ viên ban quản trị (hàng kinh doanh, tổ chức...)
+
+@Executive
+- (Econ) Người điều hành.
+: Là một cá nhân chịu trách nhiệm đối với một mặt hay khía cạnh nào đó trong các hoạt động của một hãng.
+ @executive
+- chấp hành
+ @executor  
+*  dt
+- người thực hiện, người thi hành; người thực hiện, người thi hành
+- (pháp lý) người thi hành di chúc
+!literary executor
+- người phụ trách tác phẩm chưa in (của một nhà văn)
+
+@executorial   (executory) @executorship  
+*  dt
+- (pháp lý) chức thi hành di chúc; quyền thi hành di chúc
+
+@executory   (executory) @executress
+* dt
+- xem executress
+ @executrices  
+*  dt,  số nhiều executrices
+- (pháp lý) người thi hành di chúc (nữ)
+
+@executrix  
+*  dt,  số nhiều executrices
+- (pháp lý) người thi hành di chúc (nữ)
+
+@exedra
+* dt
+- số nhiều exedrae
+- phòng toạ đàm (từ cổ Hy-lạp)
+ @exegesis  
+*  dt
+- (tôn giáo) sự luận bình, sự giải thích (kinh thánh)
+
+@exegete
+* dt
+- nhà chú giải
+ @exegetic   (exegetical) @exegetical   (exegetical) @exegetically
+- xem exegetic
+ @exegetics
+* dt
+- chú giải học; huấn hỗ học
+ @exegetist  
+*  dt
+- (tôn giáo) người luận bình, người giải thích (kinh thánh)
+
+@exemplar  
+*  dt
+- gương mẫu, mẫu mực
+- mẫu, bản
+- cái tương tự, cái sánh được
+
+@exemplar
+- hình mẫu, bản
+ @exemplarily
+- xem exemplary
+ @exemplariness  
+*  dt
+- tính chất gương mẫu, tính chất mẫu mực
+- tính chất để làm gương, tính chất để cảnh cáo
+- tính chất làm mẫu, tính chất dẫn chứng, tính chất làm thí dụ
+
+@exemplarity
+- xem exemplary
+ @exemplary  
+*  tt
+- gương mẫu, mẫu mực
+
++ exemplary behaviour: tư cách đạo đức gương mẫu
+- để làm gương, để cảnh cáo
+
++ an exemplary punishment: sự trừng phạt để làm gương
+- để làm mẫu, để dẫn chứng, để làm thí dụ
+
+@exempli gratia  
+*  dt
+- thí dụ ((viết tắt) e.g)
+
+@exemplifiable
+- xem exemplify
+ @exemplification  
+*  dt
+- sự minh hoạ bằng thí dụ; thí dụ minh hoạ
+- sự sao; bản sao (một văn kiện)
+
+@exemplifier
+- xem exemplify
+ @exemplify  
+*  ngdgt
+- minh hoạ bằng thí dụ; làm thí dụ cho
+- sao (một văn kiện)
+
+@exemplify
+- chứng minh bằng ví dụ, lấy ví dụ
+ @exempt  
+*  tt
+- được miễn (thuế...)
+*  dt
+- người được miễn (thuế...)
+*  ngdgt
+- (: from) miễn (thuế...) cho ai
+
++ to exempt somebody from taxes: miễn mọi thứ thuế cho ai
+
+@Exempt goods
+- (Econ) Hàng hoá được miễn thuế giá trị gia tăng.
+: Xem VALUE - ADDED TAX
+ @exemptible
+- xem exempt
+ @exemption  
+*  dt
+- sự miễn (thuế...)
+
+@exenterate  
+*  ngdgt
+- moi ruột ((nghĩa bóng))
+- (y học) khoét cầu mắt
+
+@exenteration  
+*  dt
+- sự moi ruột ((nghĩa bóng))
+- (y học) sự khoét cầu mắt
+
+@exequatur  
+*  dt
+- (ngoại giao) bằng công nhận lãnh sự
+
+@exequial
+* tt
+- thuộc tang lễ
+ @exequies  
+*  dt số nhiều
+- lễ tang
+
+@exequy
+* dt
+- số nhiều exequies
+- tang lễ
+ @exercisable  
+*  tt
+- có thể thi hành được (quyền hành); có thể dùng được, có thể sử dụng được (quyền)
+
+@exercise  
+*  dt
+- sự thi hành, sự thực hiện; sự sử dụng (quyền, nghề nghiệp, chức năng...)
+- thể dục, sự rèn luyện thân thể
+
++ to do exercises: tập thể dục
+- sự rèn luyện trí óc
+- bài tập
+- bài thi diễn thuyết
+- (số nhiều) sự tập luyện; sự tập trận sự diễn tập; thể thao quốc phòng
+- sự thờ cúng, sự lễ bái
+- (từ Mỹ,nghĩa Mỹ) (số nhiều) lễ (ở trường học...)
+*  ngdgt
+- làm, thi hành, thực hiện (nhiệm vụ, chức vụ...); hành (nghề...); sử dụng
+
++ to exercise one's right: sử dụng
+
++ to exercise one's right: sử dụng quyền hạn
+- tập luyện, rèn luyện
+
++ to exercise the memory: rèn luyện trí nhớ
+
++ to exercise oneself: tập luyện, rèn luyện
+- thử thách
+- (thường) dạng bị động quấy rầy, làm phiền khổ; làm băn khoăn, làm lo âu
+
++ he was much exercised over it: anh ta rất phiền khổ vì điều đó; anh ta rất băn khoăn lo lắng về điều đó
+*  ndgt
+- tập luyện; rèn luyện thân thể
+
+@exercise
+- bài tập
+ @exercise-book
+* dt
+- vở bài tập
+ @exercitation  
+*  dt
+- sự sử dụng (một năng khiếu)
+- sự thực hành
+- sự rèn luyện
+- bài luận; bài tập diễn thuyết
+
+@exergonic
+* tt
+- thải nhiệt, thải năng lượng; thoát nhiệt, thoát năng lượng; sản lượng
+
++  an exergonic biochemical reaction:một phản ứng sinh hoá thải nhiệt
+ @exergue
+* dt
+- phần dưới mặt trái của huy chương, đồng tiền để khắc chữ
+- chữ khắc ở phần dưới, mặt trái huy chương
+ @exergure  
+*  dt
+- phần dưới mặt trái (huy hiệu, đồng tiền)
+- câu khắc ở phần dưới mặt trái (huy hiệu, đồng tiền)
+
+@exert  
+*  ngdgt
+- dùng, sử dụng (sức mạnh, ảnh hưởng...)
+
++ to exert oneself: cố gắng, rán sức
+
+@exertion  
+*  dt
+- sự dùng, sự sử dụng (sức mạnh, ảnh hưởng...)
+- sự cố gắng, sự nổ lực, sự rán sức
+
+@exes  
+*  dt số nhiều
+- (thông tục) các món tiêu pha; tiền phí tổn
+
+@exeunt  
+*  ndgt
+- (sân khấu) vào
+
++ exeunt omnes: mọi người vào
+
+@exfoliate  
+*  ndgt
+- tróc vỏ (cây), tróc (da), róc (xương)
+
+@exfoliation  
+*  dt
+- sự tróc mảng (vỏ, da), sự róc xương
+- mảng tróc, mảng róc
+
+@exfoliative
+- xem exfoliate
+ @exfoliator
+- xem exfoliate
+ @exhalation  
+*  dt
+- sự bốc lên, sự toả ra
+- hơi thở, luồng gió; sương mù, hơi bốc
+- cơn giận thoáng qua
+
+@exhale  
+*  dgt
+- bốc lên, toả ra
+- trút (cơn giận; hơi thở cuối cùng...); làm hả (giận); thốt ra (lời...)
+
+@exhaust  
+*  dt
+- (kỹ thuật) sự rút khí, sự thoát khí
+*  ngdgt
+- hút, rút (khí, hơi, nước, bụi...)
+- làm kiệt quệ, làm rỗng, làm cạn; dốc hết, dùng hết
+
++ to exhaust s well: làm cạn một cái giếng
+
++ to exhaust one's strength: tự làm kiệt sức (ai)
+- bàn hết khía cạnh, nghiên cứu hết mọi mặt (vấn đề)
+
+@exhaust
+- vét kiệt
+ @exhaust-driven
+* tt
+- (cơ khí) chạy bằng khí xả
+ @exhausted  
+*  tt
+- đã rút hết không khí (bóng đèn...)
+- kiệt sức, mệt lử
+- bạc màu (đất)
+
+@exhaustedly
+- xem exhaust
+ @exhauster  
+*  dt (kỹ thuật)
+- quạt hút gió; máy hút gió
+- thiết bị hút bụi chân không (luyện kim)
+- máy hút bụi
+
+@exhaustibility  
+*  dt
+- tính có thể làm kiệt được, tính có thể làm cạn được; tính có thể dốc hết được, tính có thể kiệt quệ, tính có thể dùng hết được
+- tính có thể bàn hết khía cạnh, tính có thể nghiên cứu hết mọi mặt
+
+@exhaustible  
+*  tt
+- có thể làm kiệt được, có thể làm cạn; có thể dốc hết, có thể kiệt quệ, tính có thể dùng hết
+- có thể bàn hết khía cạnh, có thể nghiên cứu hết mọi mặt
+
+@exhaustible
+- vét kiệt được
+- normal e. vét kiệt chuẩn được 
+ @exhausting  
+*  tt
+- làm kiệt sức, làm mệt lử
+
+@exhaustingly
+- xem exhaust
+ @exhaustion  
+*  dt
+- (kỹ thuật) sự hút, sự hút hết; sự làm chân không, sự rút khí
+- sự làm kiệt; sự dốc hết, sự dùng hết
+- tình trạng mệt lử, tình trạng kiệt sức
+- tình trạng kiệt quệ, tình trạng bạc màu
+- (toán học) phép vét kiệt; phép khử liên tiếp
+- sự bàn hết khía cạnh, sự nghiên cứu hết mọi mặt (một vấn đề)
+
+@exhaustion
+- sự vét kiệt
+ @exhaustive  
+*  tt
+- hết mọi khía cạnh, hết mọi mặt, thấu đáo, toàn diện
+
++ an exhaustive research: sự nghiên cứu toàn diện
+
+@exhaustive
+- vét kiệt
+ @exhaustive search
+- (Tech) sự tìm tường tận
+ @Exhaustive voting
+- (Econ) Cách bỏ phiếu thấu đáo.
+: Là hình thức lựa chọn tập thể mà trong đó người bỏ phiếu thể hiện phương án ít thích nhất của mình.
+ @exhaustively
+* dt
+- thấu đáo, tường tận
+ @exhaustiveness  
+*  dt
+- tính chất thấu đáo, tính chất toàn diện (của sự nghiên cứu bàn bạc...)
+
+@exhaustivity
+- xem exhaustive
+ @exhaustless
+* tt
+- vô tận; không bao giờ hết
+ @exhaust-pipe  
+*  dt
+- (kỹ thuật) ống thải, ống xả, ống thoát (khí)
+
+@exhibit  
+*  dt
+- vật trưng bày, vật triển lãm
+- sự phô bày, sự trưng bày
+- (pháp lý) tang vật
+*  ngdgt
+- phô bày, trưng bày, triển lãm
+- đệ trình, đưa ra
+
++ to exhibit a piece of evidence: đưa ra một chứng cớ
+- bày tỏ, tỏ ra, biểu lộ
+
++ to exhibit patience: biểu lộ sự kiên nhẫn
+*  ndgt
+- trưng bày, triển lãm
+
+@exhibiter
+- xem exhibit
+ @exhibition  
+*  dt
+- cuộc triển lãm cuộc trưng bày
+- sự phô bày, sự trưng bày
+- sự bày tỏ, sự biểu lộ
+- sự thao diễn
+- học bổng
+!to make an exhibition of oneself
+- dở trò dơ dáng dại hình
+
+@exhibitioner  
+*  dt
+- học sinh (đại học) được học bổng
+
+@exhibitionism  
+*  dt
+- thói thích phô trương
+- (y học) chứng phô bày (chỗ kín)
+
+@exhibitionist  
+*  dt
+- người thích phô trương
+- (y học) người mắc chứng phô bày (chỗ kín)
+
+@exhibitionistic
+- xem exhibitionism
+ @exhibitive  
+*  tt
+- để trưng bày, để phô bày
+- chứng tỏ, biểu lộ
+
+@exhibitively
+- xem exhibitive
+ @exhibitor  
+*  dt
+- người phô trương, người phô bày, người trưng bày, người triển lãm
+- chủ rạp chiếu bóng
+
+@exhibitory  
+*  tt
+- phô trương, phô bày
+- để phô trương, để phô bày; để trưng bày, để triển lãm
+
+@exhilarant  
+*  tt: (exhilarating) 
+@exhilarate  
+*  ngdgt
+- làm vui vẻ, làm hồ hởi
+
+@exhilarating  
+*  tt: (exhilarating) 
+@exhilaratingly
+- xem exhilarating
+ @exhilaration  
+*  dt
+- niềm vui vẻ, niềm hồ hởi
+
+@exhilarative  
+*  tt: (exhilarating) 
+@exhilarator
+- xem exhilarate
+ @exhort  
+*  ngdgt
+- hô hào, cổ vũ, thúc đẩy
+- chủ trương, ủng hộ (sự cải cách gì...)
+
+@exhortation  
+*  dt
+- sự hô hào, sự cổ vũ, sự thúc đẩy
+- lời hô hào, lời cổ vũ, lời thúc đẩy
+
+@exhortative   (exhortatory) @exhortatory   (exhortatory) @exhorter
+- xem exhort
+ @exhumation  
+*  dt
+- sự đào lên, sự khai quật ((nghĩa đen) & (nghĩa bóng))
+
+@exhume  
+*  ngdgt
+- đào lên, khai quật ((nghĩa đen) & (nghĩa bóng))
+
+@exhumer
+- xem exhume
+ @exigence   (exigency) @exigency   (exigency) @exigent  
+*  tt
+- cấp bách, khẩn cấp, cấp thiết
+- hay đòi hỏi, đòi hỏi quá đáng, hay yêu sách
+
++ exigent of: đòi hỏi
+
+@exigently
+* dt
+- vòi vĩnh, kèo nèo
+ @exigible  
+*  tt
+- có thể đỏi được, có thể đòi hỏi được
+
+@exiguity   (exiguousness) @exiguous  
+*  tt
+- chật hẹp; tính nhỏ bé ít ỏi
+
+@exiguously
+- xem exiguous
+ @exiguousness   (exiguousness) @exile  
+*  dt
+- sự đày ải, sự đi đày
+- cảnh tha hương; sự xa cách quê hương lâu ngày
+- người bị đày ải, người đi đày
+*  ngdgt
+- đày ải (ai) (nghĩa đen) & (nghĩa bóng))
+
+@exilic
+- xem exile
+ @exility  
+*  dt
+- tính mỏng manh, tính tế nhị
+
+@exine
+* dt
+- (thực vật) màng ngoài (bào tử, hạt phấn)
+ @exist  
+*  ndgt
+- tồn tại, sống
+- hiện có
+
+@exist
+- tồn tại, có, hiện hành
+ @existence  
+*  dt
+- sự tồn tại, sự sống, sự sống còn; cuộc sống
+
++ in existence: tồn tại
+
++ a precarious existence: cuộc sống gieo neo
+- sự hiện có
+- vật có thật, vật tồn tại, những cái có thật; thực thể
+
+@existence
+- sự tồn tại
+- unique e. (logic học) tồn tại duy nhất 
+ @Existence, theorem of
+- (Econ) Định lý về sự tồn tại.
+: Bất kỳ một định lý nào tìm cách lập luận rằng, trong bối cảnh cân bằng tổng thể, tồn tại một loạt giá và lượng cân bằng. Xem EQUYLIBRUM, GENERAL EQUIBRIUM.
+ @existent  
+*  tt
+- tồn tại
+- hiện có; hiện nay, hiện thời
+
+@existential  
+*  tt
+- (thuộc) sự tồn tại, (thuộc) sự sống, (thuộc) sự sống còn
+- (triết học) khẳng định sự tồn tại
+
+@existentialism  
+*  dt
+- (triết học) thuyết sinh tồn
+
+@existentialist  
+*  dt
+- (triết học) người theo thuyết sinh tồn
+
+@existentially
+- xem existential
+ @existing
+* tt
+- hiện tại; hiện tồn; hiện hành; hiện nay
+
++  the existing state of things:tình hình sự việc hiện tại
+ @exit  
+*  dt
+- (sân khấu) sự đi vào (của diễn viên)
+- sự ra, sự đi ra, sự đi khỏi
+- lối ra, cửa ra
+- sự chết, sự lìa trần
+*  ndgt
+- (sân khấu) vào, đi vào
+- (nghĩa bóng) chết, lìa trần, biến mất
+
+@exit
+- lối ra
+ @exitability  
+*  dt
+- tính dễ bị kích thích, tính dễ bị kích động
+
+@exitable  
+*  tt
+- dễ bị kích thích, dễ bị kích động
+
+@Exit-voice model
+- (Econ) Mô hình nói rút lui.
+: Là sự phân loại các hệ thống, mà các cá nhân sử dụng để bày tỏ ý thích của họ để phân biệt những người muốn tham gia vào hay rút lui khỏi những thứ cần sự giao tiếp bằng lời nói.
+ @ex-libris  
+*  dt
+- dấu sở hữu (trên sách)
+
+@ex-librist  
+*  dt
+- người sưu tầm dấu sở hữu (sách)
+
+@ex-nihilo
+* dt
+- từ hư vô
+
++  creation ex-nihilo:sự sáng tạo từ hư vô
+ @EXNOR gate 
++  EXCLUSIVE NOR
+- (Tech) cổng KHÔNG HOẶC ĐỐI ĐẢo, cổng EXNOR
+ @exobiological
+* tt
+- thuộc sinh học ngoài trái đất
+ @exobiologist
+* dt
+- nhà sinh học ngoài trái đất
+ @exobiology
+* dt
+- sinh học ngoài trái đất
+ @exocardiac
+* tt
+- ngoài tim
+ @exocardial
+* tt
+- ngoài tim
+ @exocarp   (exocarp) @exocrine  
+*  tt
+- (sinh vật học) ngoại tiết (tuyến)
+
+@exode
+* dt
+- đoạn kết (bi kịch cổ Hy Lạp)
+ @exoderm  
+*  dt
+- (sinh vật học) ngoại bì
+
+@exodermis
+* dt
+- (sinh học) lớp ngoại bì; lớp biểu bì
+ @exodic
+* tt (sinh học)
+- ly tâm
+- ra khỏi nước
+ @exodontia
+* dt
+- ngành nhổ răng
+ @exodontist
+* dt
+- (người nhổ răng)
+ @exodus  
+*  dt
+- sự rời đi, sự ra đi (của đám người di cư...)
+- (kinh thánh) sự rời khỏi Ai-cập (của người Do-thái)
+
+@exoenzyme
+* dt
+- (sinh học) Enzim ngoại bào
+ @exoergic
+* tt
+- phát ra năng lượng
+
++  exoergic nuclear reactions:phản ứng hạt nhân phát ra năng lượng
+ @exogamete
+* dt
+- (sinh học) ngoại giao tử
+ @exogamic
+- xem exogamy
+ @exogamous  
+*  tt
+- ngoại hôn
+
+@exogamy  
+*  dt
+- chế độ ngoại hôn
+
+@Exogeneity
+- (Econ) Yếu tố ngoại sinh.
+: Nếu các biến số giải thích trong một phương trình MÔ HÌNH KINH TẾ LƯỢNG có thể được coi là cố định trong các mẫu được lặp lại, chúng được coi là các biến ngoại sinh.
+ @Exogeneity of money supply
+- (Econ) Sự ngoại sinh của cung tiền tê.
+: Xem MONEY SUPPLY.
+ @exogenitic
+* tt
+- ngoại sinh
+ @exogenous  
+*  tt (sinh vật học),  (địa lý,địa chất)
+- sinh ngoài, ngoại sinh
+
+@Exogenous
+- (Econ) (thuộc) ngoại sinh.
+: Là một cụm thuật ngữ miêu tả bất kỳ cái gì được quy định hoặc cho trước của một phân tích kinh tế.
+ @exogenous
+- ngoại lệ
+ @Exogenous variable
+- (Econ) Biến ngoại sinh.
+: Là một biến số mà giá trị của nó không được xác định trong mô hình kinh tế, nhưng lại đóng vai trò quan trong trong việc xác định giá trị của các biến nội sinh.
+ @exogenously
+- xem exogenous
+ @Exogenuos expectations
+- (Econ) Những dư tính ngoại sinh.
+ @exomorphic
+* tt
+- (địa chất) biến chất tiếp ngoài
+ @exon  
+*  dt
+- (sử học) (như) exempt
+
+@exonerate  
+*  ngdgt
+- miễn cho (ai) (nhiệm vụ gì...)
+- giải tội cho (ai)
+
+@exoneration  
+*  dt
+- sự miễn (nhiệm vụ gì...)
+- sự giải tội
+
+@exonerative  
+*  tt
+- để miễn (nhiệm vụ gì...)
+- để giải tội
+
+@exonerator
+* dt
+- người miễn tội, người giải tội
+ @exonic
+- xem exon
+ @exoparasite
+* dt
+- vật ký sinh ngoài
+ @exopathic
+* tt
+- (y học) nguyên nhân bệnh ở ngoài
+ @exophthalmia   (exophthalmia) @exophthalmic  
+*  tt
+- (y học) lồi mắt
+
+@exophthalmos
+* dt
+- cũng exophthalmus
+- (y học) lồi mắt
+ @exophthalmus   (exophthalmia) @exophylaxis
+* dt
+- (sinh học) sự phòng bệnh nhờ da
+ @exoplasm  
+*  dt
+- (sinh vật học) ngoại chất
+
+@exopodite
+* dt
+- (động vật) nhánh chân ngoài
+ @EXOR gate 
++  EXCLUSIVE OR
+- (Tech) cổng HOẶC ĐỐI, cổng EXOR
+ @exorability
+* dt
+- xem exorable chỉ tính chất
+ @exorable  
+*  tt
+- có thể làm xiêu lòng được, có thể làm động lòng thương được
+
+@exorbitance   (exorbitancy) @exorbitancy   (exorbitancy) @exorbitant  
+*  tt
+- quá cao, cắt cổ (giá...); quá cao (tham vọng, đòi hỏi); đòi hỏi quá đáng (người)
+
+@exorbitantly
+* dt
+- quá đáng, thái quá
+ @exorcise
+- yểm trừ, xua đuổi
+ @exorciser
+- xem exorcise
+ @exorcism  
+*  dt
+- lời phù phép, câu thần chú (để đuổi tà ma)
+
+@exorcist  
+*  dt
+- thầy phù thuỷ, người đuổi tà ma
+
+@exorcize  
+*  ngdgt
+- xua đuổi (tà ma); xua đuổi tà ma khỏi (nơi nào, ai...)
+
+@exordia  
+*  dt,  số nhiều exordiums,  exordia
+- đoạn mào đầu (diễn văn...)
+
+@exordial  
+*  tt
+- để làm mào đầu (cho một diễn văn...)
+
+@exordium  
+*  dt,  số nhiều exordiums,  exordia
+- đoạn mào đầu (diễn văn...)
+
+@exorpore  
+*  dt
+- (thực vật học) bào tử ngoài, ngoại bào tử
+
+@exoskeletal
+- xem exoskeleton
+ @exoskeleton  
+*  dt
+- (động vật học) bộ xương ngoài
+
+@exosmosis  
+*  dt
+- sự thấm lọc ra
+
+@exosmotic
+- xem exosmosis
+ @exosphere
+* dt
+- phần bên ngoài khí quyển
+ @exospheric
+* tt
+- thuộc quyển ngoài
+ @exospore
+* dt
+- <thực> bào tử ngoài, ngoại bào tử
+ @exosporous
+* tt
+- thuộc bào tử
+ @exostome
+* dt
+- (sinh học) lỗ vách ngoài noãn
+ @exostosis
+* dt
+- (y học) lồi ương
+- (thực vật) lúp; bướu
+ @exostracize
+* ngdgt
+- (sử học) trục xuất khỏi nước (hình phạt cổ Hy-Lạp)
+ @exoteric  
+*  tt
+- công khai
+- thông thường, phổ biến
+- không được tham gia sự truyền đạo bí mật
+
+@exoterical  
+*  tt
+- (thuộc) thuyết công khai
+
+@exoterically
+- xem exoteric
+ @exoterics  
+*  dt số nhiều
+- các thuyết công khai; các sách lý luận công khai
+
+@exotheca
+* dt
+- (sinh học) bao ngoài; áo ngoài; vỏ ngoài
+ @exothecium
+* dt
+- (thực vật) vách ngoài của bao phấn
+ @exothermal   (exothermic) @exothermal
+- (vật lí) toả nhiệt
+ @exothermic   (exothermic) @exothermically
+- xem exothermic
+ @exotic  
+*  tt
+- ở nước ngoài đưa vào, ngoại lai (cây cỏ, từ, mốt)
+- kỳ lạ, kỳ cục; đẹp kỳ lạ
+*  dt
+- cây ngoại lai, cây từ nước ngoài đưa vào
+- vật ngoại lai, vật từ nước ngoài đưa vào
+
+@exotica
+* dt (số nhiều)
+- vật quí hiếm, lạ
+ @exotically
+- xem exotic
+ @exoticness
+- xem exotic
+ @exotoxin
+* dt
+- (dược học) ngoại độc tố
+ @exotropic
+* tt
+- hướng ra ngoài; hướng ra khỏi trục
+ @exotropism
+* dt
+- tính hướng ra ngoài
+- tính hướng ly tâm
+ @expand  
+*  dgt
+- mở rộng, trải ra
+- nở ra, phồng ra, giãn
+- (toán học) khai triển
+- phát triển (một vấn đề...)
+- trở nên cởi mở
+
+@expand
+- mở rộng, khai triển
+ @expandability
+- (Tech) tính mở rộng, tính triển khai
+ @expandable
+- xem expand
+ @expanded
+- khuếch đại
+ @expanded board
+- (Tech) bảng mở rộng
+ @expanded memory
+- (Tech) bộ nhớ mở rộng
+ @expanded memory specifications (EMS)
+- (Tech) các quy định bộ nhớ mở rộng
+ @expanded metal
+* dt
+- kim loại dát và kéo thành mắt lưới (giúp bêtông vững chắc hơn)
+ @expander
+- (Tech) bộ giãn
+ @expandor
+- (Tech) bộ giãn 
++  expander
+ @expanse  
+*  dt
+- dải, dải rộng (đất...)
+- sự mở rộng, sự phát triển, sự phồng ra
+
+@expanse
+- khoảng, quãng; khoảng thời gian; (kỹ thuật) độ choán
+ @expansibility  
+*  dt
+- tính có thể mở rộng, tính có thể bành trướng, tính có thể phát triển, tính có thể phồng ra
+- (vật lý) tính giãn được; độ giãn
+
+@expansible  
+*  tt
+- có thể mở rộng, có thể bành trướng, có thể phát triển, có thể phồng ra
+- (vật lý) giãn được
+
+@expansile  
+*  tt
+- có thể mở rộng, có thể bành trướng, có thể phát triển, có thể phồng ra
+- mở rộng, bành trướng, phát triển, phồng ra
+
+@expansion  
+*  dt
+- sự mở rộng, sự bành trướng, sự phát triển, sự phồng ra; phần mở rộng
+- (kỹ thuật) sự giãn, sự nở; độ giãn, độ nở
+- (toán học) sự khai triển
+
++ expansion in series: khai triển thành chuỗi
+
+@expansion
+- (vật lí); (toán kinh tế) sự mở rộng, sự khai triển
+- e. in to partial fractions khai triển thành phần thức đơn giản
+- e. (of a function) in a series sự khai triển thành chuỗi
+- e. of a determinant sự khai triển một định thức
+- e. of a function sự khai triển một hàm 
+- asymptotic e. sự khai triển tiệm cận
+- binomial e. sự khai triển nhị thức 
+- isothermal e. (vật lí) sự nở đẳng nhiệt
+- multinomial e. sự khai triển đa thức 
+- orthogonal e. độ giãn nhiệt 
+ @Expansion path
+- (Econ) Đường bành trướng; Đường mở rộng
+: Liên quan đến HÃNG, đây là đường nối các lựa chọn yếu tố đầu vào ở mỗi mức sản lượng như trong đồ thị, nghĩa là quỹ tích của cấc tiếp điểm giữa ĐƯỜNG ĐẲNG PHÍ và ĐƯỜNG ĐẲNG LƯỢNG.
+ @expansion slot
+- (Tech) ổ cắm mở rộng
+ @Expansionary phase
+- (Econ) Giai đoạn bành trướng; Giai đoạn tăng trưởng.
+: Là một giai đoạn trong CHU KỲ KINH DOANH tiếp theo sau một điểm thấp nhất của chu kỳ và kéo dài đến điểm tiếp theo cao nhất của chu kỳ.
+ @expansionism  
+*  dt
+- chủ nghĩa bành trướng
+
+@expansionist  
+*  dt
+- người theo chủ nghĩa bành trướng
+
+@expansive  
+*  tt
+- có thể mở rộng, có thể bành trướng, có thể phát triển, có thể phồng ra, có thể nở ra, có thể giãn ra; có xu hướng mở rộng, có xu hướng phát triển, có xu hướng phồng ra, có xu hướng giãn ra
+- rộng rãi, bao quát
+- cởi mở, chan hoà
+
+@expansively
+* dt
+- cởi mở, chan hoà
+ @expansiveness   (expansivity) @expansivity   (expansivity) @Expasionary fiscal policy
+- (Econ) Chính sách thu chi ngân sách mở rộng.
+ @expatiate  
+*  ndgt
+- (: on,  upon) bàn nhiều, viết dài dòng (về một vấn đề)
+- (thường),  (nghĩa bóng) đi lung tung, đi dông dài
+
+@expatiation  
+*  dt
+- sự bàn nhiều (về một vấn đề), bài nói dài dòng, bài viết dài dòng
+- sự đi lung tung, sự đi dông dài
+
+@expatiatory  
+*  tt
+- sự bàn nhiều, bàn dông dài, viết dông dài (về một vấn đề)
+
+@expatriate  
+- eks'pætrieit@Expatriate
+- (Econ) Chuyên gia (từ các nước phát triển)
+: Là thuật ngữ chung để chỉ người mang quốc tịch nước ngoài, thường dùng để chỉ những người từ CÁC NƯỚC PHÁT TRIỂN đến làm việc tại CÁC NƯỚC KÉM PHÁT TRIỂN.
+ @expatriation  
+*  dt
+- sự đày biệt xứ; sự bỏ xứ sở mà đi
+- sự từ bỏ quốc tịch (của mình)
+
+@expect  
+*  ngdgt
+- mong chờ, chờ đợi, ngóng chờ, trông mong
+
++ don't expect me till you see me: đừng ngóng chờ tôi, lúc nào có thể đến là tôi sẽ đến
+- (thông tục) nghĩ rằng, chắc rằng, cho rằng
+!to be expecting
+- (thông tục) có mang, có thai
+
+@expect
+- chờ đợi, hy vọng, kỳ vọng
+ @expectable
+- xem expect
+ @expectably
+- xem expect
+ @expectance   (expectancy) @expectancy   (expectancy) @expectant  
+*  tt
+- có tính chất mong đợi, có tính chất chờ đợi, có tính chất trông mong
+- (y học) theo dõi
+
++ expectant method: phương pháp theo dõi
+!expectant heir
+- (pháp lý) người có triển vọng được hưởng gia tài
+!expectant mother
+- người đàn bà có mang
+*  dt
+- người mong đợi, người chờ đợi, người trông mong
+- người có triển vọng (được bổ nhiệm...)
+
+@expectantly
+* dt
+- mong đợi, hy vọng
+ @expectation  
+*  dt
+- sự mong chờ, sự chờ đợi, sự ngóng chờ, sự trông mong
+- sự tính trước, sự dự tính
+
++ beyond expectation: quá sự dự tính
+
++ contrary to expectation: ngược lại với sự dự tính
+- lý do trông mong, điều mong đợi
+- (số nhiều) triển vọng được hưởng gia tài
+- khả năng (có thể xảy ra một việc gì)
+!expectation of life
+- thời gian trung bình còn sống thêm (của người nào..., theo số liệu thống kê)
+
+@expectation
+- (thống kê) kỳ vọng
+ @expectation
+- (thống kê) kỳ vọng
+- e. of life (thống kê) kỳ vọng sinh tồn
+- conditional e. (thống kê) kỳ vọng có điều kiện
+- mathematical e. kỳ vọng toán
+- moral e. (thống kê) kỳ vọng 
+ @expectational
+- xem expectation
+ @Expectations
+- (Econ) Kỳ vọng; dự tính.
+: Là các quan điểm hay sự tin tưởng vào các giá trị tương lai của các biến số kinh tế.
+ @Expectations, augmented
+- (Econ) Biến bổ sung về dự tính.
+: Là các biến đổi đối với một mô hình kinh tế để tính đến hiệu ứng của các dự tính.
+ @Expectations lag
+- (Econ) Độ trễ kỳ vọng; Độ trễ dự tính
+: Độ trễ trong việc xem xét lại giá trị kỳ vọng của một biến số do các thay đổi trong giá trị hiện tại của nó. Độ trễ dự tính thường được giải thích bằng GIẢ THIẾT KỲ VỌNG PHỎNG THEO.
+ @expectative  
+*  tt
+- (pháp lý) có thể đòi lại
+- (thuộc) điều mong đợi; làm một điều mong đợi
+
+@expected
+- được chờ đợi hy vọng
+ @Expected inflation
+- (Econ) Mức lạmp phát kỳ vọng; Lạm phát dự tính
+: TỶ LỆ LẠM PHÁT nào đó được dự tính trong tương lai.
+ @Expected inflation
+- (Econ) Lạm phát dự tính được.
+ @Expected net returns
+- (Econ) Mức lợi tức ròng kỳ vọng; Lợi tức ròng dự tính.
+: Là tổng các thu nhập dự tính trừ đi các chi phí dự tính, tức là lợi nhuận dự tính của một dự án đầu tư.
+ @Expected utility theory
+- (Econ) Lý thuyết độ thoả dụng kỳ vọng; Thuyết thoả dụng dự tính.
+: Là thuyết về các hành vi cá nhân trong điều kiện KHÔNG CHẮC CHẮN của VON NEUMANN và MORGENSTERN. Thuyết đưa ra sự mô tả logic rằng mọi người duy lý có thể cư xử như thế nào trong một thế giới không chắc chắn. Phần chính của thuyết này cho thấy rằng một cá nhân có những sở thích thoả mãn một số định đề (thường là về trật tự, tiếp tục và dộc lập) sẽ lựa chọn để tối đa hoá độ thoả dụng dự tính.
+ @Expected value
+- (Econ) Giá trị kỳ vọng; giá trị dự tính.
+: Còn được gọi TRUNG BÌNH, kỳ vọng toán học.Giá trị kỳ vọng của một BIẾN SỐ NGẪU NHIÊN là giá trị trung bình của phân phối của biến ấy.
+ @expectedly
+- xem expect
+ @expectedness
+- xem expect
+ @expectorant  
+*  tt
+- (y học) làm long đờm
+*  dt
+- (y học) thuốc long đờm
+
+@expectorate  
+*  dgt
+- khạc, nhổ, khạc đờm
+
+@expectoration  
+*  dt
+- sự khạc, sự nhổ, sự khạc đờm
+- đờm (khạc ra)
+
+@expedience   (expediency) @expediency   (expediency) @expedient  
+*  tt: (expediential) 
+@expediential  
+*  tt: (expediential) 
+@expedientially
+- xem expediential
+ @expediently
+* dt
+- giảo hoạt, xảo quyệt
+ @expedite  
+*  ngdgt
+- xúc tiến
+- thanh toán, giải quyết (công việc)
+
+@expediter
+- xem expedite
+ @expedition  
+*  dt
+- cuộc viễn chinh; đội viễn chinh
+- cuộc thám hiểm; đoàn thám hiểm
+- cuộc hành trình, cuộc đi; đoàn người đi (trong cuộc hành trình)
+- tính chóng vánh, tính mau lẹ, tính khẩn trương
+
+@expeditionary  
+*  tt
+- viễn chinh
+
++ expeditionary forces: quân viễn chinh
+- (thuộc) cuộc thám hiểm, (thuộc) cuộc hành trình, (thuộc) cuộc đi; thành cuộc thám hiểm, thành cuộc hành trình, thành cuộc đi
+
+@expeditionist  
+*  dt
+- người tham gia cuộc viễn chinh, người tham gia cuộc thám hiểm
+- người tham gia cuộc hành trình, người tham gia cuộc đi
+
+@expeditious  
+*  tt
+- chóng vánh, mau lẹ, khẩn trương
+- tính dễ thực hiện chóng vánh
+
+@expeditiously
+* dt
+- mau lẹ, nhanh nhẹn, chóng vánh
+ @expeditiousness  
+*  dt
+- tính chóng vánh, tính mau lẹ, tính khẩn trương
+
+@expeditor
+- xem expedite
+ @expel  
+*  ngdgt
+- trục xuất, đuổi, làm bật ra, tống ra
+
++ to be expelled [from] the school: bị đuổi ra khỏi trường
+
+@expellable  
+*  tt
+- có thể bị trục xuất, có thể bị đuổi ra, có thể bị tống ra
+- đáng trục xuất, đáng đuổi ra, đáng tống ra
+
+@expellee  
+*  dt
+- người bị trục xuất, người bị đuổi ra
+
+@expellent  
+*  tt
+- để tống ra, để bật ra
+
+@expeller
+- xem expel
+ @expend  
+*  ngdgt
+- tiêu, tiêu dùng (tiền...)
+- dùng hết, dùng cạn
+
+@expend
+- tiêu dụng, sử dụng
+ @expendability
+* dt
+- xem expendable chỉ khả năng
+ @expendable  
+*  tt
+- có thể tiêu được (tiền...)
+- có thể dùng hết được
+- (quân sự) có thể hy sinh, có thể phá huỷ đi
+
+@expenditure  
+*  dt
+- sự tiêu dùng
+- số lượng tiêu dùng; món tiền tiêu đi; phí tổn
+
+@expenditure
+- (thống kê) sự tiêu dùng, sự sử dụng
+ @Expenditure approach
+- (Econ) Phương pháp dựa vào chi tiêu (để tính GDP).
+ @Expenditure tax
+- (Econ) Thuế chi tiêu
+: Là loại thuế đánh vào chi tiêu của người tiêu dùng.NÓ là hình thức thay thế cho THUẾ THU NHẬP và có thể được định mức dựa trên cơ sở luỹ tiến.
+ @Expenditure-switching policies
+- (Econ) Các chính sách chuyển đổi chi tiêu.
+: Là một trong các chính sách cần thiết để loại bỏ sự không cân bằng thương mại quốc tế.
+ @Expenditure-variation controls
+- (Econ) Kiểm soát mức biến động trong chi tiêu; Kiểm soát sự thay đổi của chi tiêu.
+: Điều chỉnh lại sự mất cân bằng kinh doanh bằng cách thay đổi mức và thành phần của ngân sách và bằng cách kiểm soát quy mô và chi phí của tín dụng.
+ @expense  
+*  dt
+- sự tiêu; phí tổn
+- (số nhiều) phụ phí, công tác phí
+!at the expense of one's life
+- trả giá bằng sinh mệnh của mình
+!at the expense of somebody
+- do ai trả tiền phí tổn
+- (nghĩa bóng) không có lợi cho ai; làm cho ai mất uy tín
+!to get rich at somebody's expense
+- làm giàu bằng mồ hôi nước mắt của ai
+!to laugh at somebody's expense
+- cười ai
+!to live at someone's expense
+- ăn bám vào ai
+
+@expense
+- (thống kê) tiêu dùng, sử dụng, tiền phí tổn at the same e. cùng giá 
+ @Expense preference
+- (Econ) Ưu tiên chi tiêu.
+: Là một khái niệm nói về sự hài lòng của các nhà quản lý đạtđược trong việc chi tiêu cho một số công việc của hãng như chi tiêu cho việc Marketing và cho đôi ngũ nhân viên.
+ @expensive  
+*  tt
+- đắt tiền
+- (từ Mỹ,nghĩa Mỹ) xa hoa
+
+@expensively
+* dt
+- đắt tiền, đắt giá
+ @expensiveness  
+*  dt
+- giá đắt; sự đắt đỏ
+
+@experience  
+*  dt
+- kinh nghiệm
+
++ to look experience: thiếu kinh nghiệm
+
++ to learn by experience: rút kinh nghiệm
+- điều đã kinh qua
+*  ngdgt
+- trải qua, kinh qua, nếm mùi, chịu đựng
+
++ to experience harsh trials: trải qua những thử thách gay go
+- (: that,  how) học được, tìm ra được (qua kinh nghiệm)
+
+@experience
+- kinh nghiệm
+ @experience table  
+*  dt
+- bằng tuổi thọ trung bình (theo kinh nghiệm của các hãng bảo hiểm)
+
+@experienced  
+*  tt
+- có kinh nghiệm, giàu kinh nghiệm, từng trải, lão luyện
+
+@experienced
+- có kinh nghiệm, hiểu biết
+ @experiencer
+- xem experience
+ @experiential  
+*  tt
+- dựa trên kinh nghiệm, theo kinh nghiệm, kinh nghiệm chủ nghĩa
+
+@experientialism  
+*  dt
+- chủ nghĩa kinh nghiệm
+
+@experientialist  
+*  dt
+- người theo chủ nghĩa kinh nghiệm
+
+@experientially
+- xem experiential
+ @experiment  
+- iks'periment@experiment
+- thí nghiệm, thực nghiệm   làm thực nghiệm
+- combined e. (thống kê) thí nghiệm hỗn hợp
+- complex e. thí nghiệm phức tạp 
+- factorial e.(thống kê) thí nghiệm giai thừa
+- model e. thí nghiệm mô hình 
+@experimental  
+*  tt
+- dựa trên thí nghiệm
+- để thí nghiệm
+- thực nghiệm
+
++ experimental philosophy: triết học thực nghiệm
+
+@experimental
+- thực nghiệm dựa vào kinh nghiệm
+ @experimentalise  
+- iks'periment@experimentalism  
+*  dt
+- chủ nghĩa thực nghiệm
+
+@experimentalist  
+*  dt
+- nhà triết học thực nghiệm, người theo chủ nghĩa thực nghiệm
+
+@experimentalize  
+- iks'periment@experimentally  
+*  dt
+- qua thí nghiệm, bằng thí nghiệm
+- để thí nghiệm, để thử
+
+@experimentation  
+*  dt
+- sự thí nghiệm, sự thử
+
+@experimenter  
+*  dt
+- người thí nghiệm, người thử
+
+@expert  
+*  tt
+- (: at,  in) chuyên môn, thành thạo, thông thạo, lão luyện
+
++ to be expert at (in) something: thành thạo (tinh thông) về cái gì
+- của nhà chuyên môn; về mặt chuyên môn
+
++ an expert opinion: ý kiến của nhà chuyên môn; ý kiến về mặt chuyên môn
+
++ according to expert evidence: theo bằng chứng của nhà chuyên môn đưa ra
+*  dt
+- nhà chuyên môn, chuyên gia, chuyên viên
+- viên giám định
+
+@expert system
+- (Tech) hệ thống chuyên gia [máy điện toán]
+ @expertise  
+*  dt
+- sự thành thạo, sự tinh thông
+- tài chuyên môn; ý kiến về mặt chuyên môn
+- sự giám định
+
+@expertly
+* dt
+- thông thạo, thành thạo
+ @expertness  
+*  dt
+- sự thành thạo, sự tinh thông, sự lão luyện
+- tài chuyên môn
+- sự hiểu biết về kỹ thuật
+
+@expiable  
+*  tt
+- có thể chuộc được, có thể đền được (tội)
+
+@expiate  
+*  ngdgt
+- chuộc, đền (tội)
+
+@expiation  
+*  dt
+- sự chuộc, sự đền (tội)
+
+@expiator  
+*  dt
+- người chuộc, người đền (tội)
+
+@expiatory  
+*  tt
+- để chuộc, để đền (tội)
+
+@expirable
+* tt
+- có thể chấm dứt được, có thể kết thúc được
+ @expiration  
+*  dt
+- sự thở ra
+- sự thở hắt ra; sự tắt thở, sự chết
+- sự mãn hạn, sự kết thúc
+
+@expiratory  
+*  tt
+- để thở ra (bắp cơ)
+
+@expire  
+*  ngdgt
+- thở ra
+*  ndgt
+- thở ra
+- thở hắt ra; tắt thở, chết; tắt (lửa...)
+- mãn hạn, kết thúc, hết hiệu lực (luật); mai một, mất đi (chức tước...)
+
+@expiring
+* tt
+- thở ra
+- lâm chung; hấp hối
+ @expiry  
+*  dt
+- sự mãn hạn, sự kết thúc
+
+@expiscate  
+*  ngdgt
+- (Ê-cốt) quan sát tìm ra
+
+@explain  
+*  dgt
+- giảng, giảng giải, giải nghĩa
+- giải thích, thanh minh
+
++ to explain one's attitude: thanh minh về thái độ của mình
+!to explain away
+- thanh minh (lời nói bất nhã...)
+- giải thích làm cho hết sợ (ma...)
+
+@explain
+- giải thích
+ @explainable  
+*  tt
+- có thể giảng, có thể giảng giải, có thể giải nghĩa
+- có thể giải thích, có thể thanh minh
+
+@explainer  
+*  dt
+- người giảng, người giảng giải, người giải nghĩa
+- người giải thích, người thanh minh
+
+@explanate
+* tt
+- trải phẳng
+ @explanation  
+*  dt
+- sự giảng, sự giảng giải, sự giải nghĩa, lời giảng, lời giải nghĩa
+- sự giải thích, sự thanh minh, lời giải thích, lời thanh minh
+
+@explanation
+- sự giải thích
+ @explanatorily
+- xem explanatory
+ @explanatory  
+*  tt
+- để giảng, để giảng giải, để giải nghĩa
+- để giải thích, để thanh minh
+
+@explanatory
+- giả thích
+ @Explanatory variable
+- (Econ) Biến giải thích
+: Là biến số đóng vai trò trong việc giải thích sự biến đổi của một biến độc lập trong phân tích hồi quy, biến số giải thích xuất hiện bên phải của phương trình hồi quy.
+ @explant
+* ngdgt
+- cấy mô sang; cấy mô khỏi sinh vật
+* dt
+- mô lấy từ sinh vật để nuôi nhân tạo
+ @explantation
+* dt
+- sự cấy mô sang; sự cấy mô khỏi sinh vật
+ @explement
+- (hình học) phần bù (cho đủ 360 ) 
+- e. of an angle phần bù của một góc (cho đủ 360 ) 
+ @explementary
+- bù (cho đủ 360 ) 
+ @expletive  
+*  tt
+- (ngôn ngữ học) để chêm; chêm vào, phụ thêm
+*  dt
+- (ngôn ngữ học) từ chêm
+- lời chêm vào; lời nói tục tĩu, lời rủa, lời tán thán (chêm vào câu nói)
+
+@explicable  
+*  tt
+- có thể giảng được, có thể giải nghĩa được, có thể giải thích được
+
+@explicably
+- xem explicable
+ @explicate  
+*  ngdgt
+- phát triển (một nguyên lý...)
+- (từ cổ,nghĩa cổ) giảng, giải nghĩa, giải thích
+
+@explicate
+- giải thích, thuyết minh
+ @explication
+- xem explicate
+ @explicative   (explicatory) @explicatively
+- xem explicative
+ @explicator
+- xem explicate
+ @explicatory   (explicatory) @explicit  
+*  tt
+- rõ ràng, dứt khoát
+- nói thẳng (người)
+- (toán học) hiện
+
++ explicit function: hàm hiện
+
+@explicit
+- hiểu, rõ ràng; hoàn hảo, chi tiết   nghiên cứu chi tiết
+@Explicit function
+- (Econ) Hàm hiện
+: Dạng thông thường nhất của một hàm số trong đó biến số PHỤ THUỘC được viết bên trái của dấu bằng và các BIẾN ĐỘC LẬP viết bên phải, thường để chỉ mối liên hệ nhân quả hoặc xác định.
+ @explicitly
+* dt
+- rõ ràng, dứt khoát
+ @explicitness  
+*  dt
+- tính rõ ràng, tính dứt khoát
+- sự nói thẳng, sự không úp mở
+
+@explode  
+*  ngdgt
+- làm nổ
+- đập tan, làm tiêu tan (lý tưởng, ảo tưởng...)
+*  ndgt
+- nổ, nổ tung (bom, đạn...); nổ bùng
+
++ to explode with anger: nổi giận đùng đùng
+
+@exploded  
+*  tt
+- đã nổ (bom...)
+- bị đập tan, bị tiêu tan (lý tưởng, ảo tưởng...)
+
+@explodent
+* dt
+- (ngôn ngữ) âm nổ (như) p,  b,  t...
+ @exploder
+- xem explode
+ @exploit  
+*  dt
+- kỳ công; thành tích chói lọi[iks'plɔit]
+*  ngdgt
+- khai thác, khai khẩn
+- bóc lột, lợi dụng
+
+@exploit
+- lợi dụng, bóc lột
+ @exploitability
+- xem exploit
+ @exploitable  
+*  tt
+- có thể khai thác, có thể khai khẩn
+- có thể bóc lột, có thể lợi dụng
+
+@exploitage   (exploitation) @exploitation   (exploitation) @Exploitation
+- (Econ) Khai thác; bóc lột.
+: Trong kinh tế học, thuật ngữ này có hai nghĩa. Thứ nhất, là việc sử dụng tài nguyên thiên nhiên hay nhân lực. Thứ hai, một công nhân được gọi là bị bóc lột nếu số tiền chi trả cho công việc đã làm ít hơn giá trị của công việc đó.
+ @exploitation
+- (toán kinh tế) sự lợi dụng, sự bóc lột
+ @exploitative
+- xem exploit
+ @exploitatively
+- xem exploit
+ @exploiter  
+*  dt
+- người khai thác, người khai khẩn
+- người bóc lột, người lợi dụng
+
+@exploitive
+- xem exploit
+ @exploitively
+- xem exploit
+ @exploration  
+*  dt
+- sự thăm dò, sự thám hiểm
+- (y học) sự thông dò
+- sự khảo sát tỉ mỉ
+
+@exploration
+- sự thám hiểm, sự nghiên cứu (trước)
+ @explorative   (exploratory) @exploratory   (exploratory) @explore  
+*  ngdgt
+- thăm dò, thám hiểm
+- (y học) thông dò
+- khảo sát tỉ mỉ
+
+@explore
+- thám hiểm, nghiên cứu
+ @explorer  
+*  dt
+- người thăm dò, người thám hiểm
+- (y học) cái thông dò
+
+@exploring
+* dt
+- sự thăm dò; sự thám hiểm
+ @explosibility
+* dt
+- khả năng có thể nổ
+ @explosible
+* tt
+- có thể nổ
+ @explosion  
+*  dt
+- sự nổ; sự nổ bùng (cơn giận)
+- tiếng nổ
+- (từ Mỹ,nghĩa Mỹ) sự phát triển ồ ạt và nhanh chóng
+
++ population explosion: sự tăng số dân ồ ạt và nhanh chóng
+
+@explosion-proof
+* dt
+- phòng nổ, chống nổ
+ @explosive  
+*  tt
+- nổ; gây nổ, dễ nổ, dễ bùng nổ ((nghĩa đen) & (nghĩa bóng))
+- (ngôn ngữ học) bốc hơi
+*  dt
+- chất nổ
+
++ atomic explosive: chất nổ nguyên tử
+
++ high explosive: chất nổ có sức công phá mạnh
+- (ngôn ngữ học) âm bật hơi
+
+@Explosive cycle
+- (Econ) Chu kỳ bùng nổ.
+: Là chu kỳ đặc trưng bởi việc biên độ tăng theo hàm mũ, ví dụ, qua thời gian. Nó được xem như chu kỳ phân kỳ.
+ @explosively
+* dt
+- mạnh mẽ, dữ dội
+ @explosiveness  
+*  dt
+- tính chất gây nổ, tính chất dễ nổ, tính chất dễ bùng nổ ((nghĩa đen) & (nghĩa bóng))
+
+@expo
+* dt; số nhiều expos
+- cuộc triển lãm (viết-tắt của exposition)
+ @exponent  
+*  dt
+- người trình bày, người dẫn giải, người giải thích (một luận điểm...); điều trình bày, điều dẫn giải, điều giải thích
+- người biểu diễn (nhạc...)
+- người tiêu biểu, vật tiêu biểu
+- (toán học) số mũ
+
+@exponent
+- (Tech) số mũ, lũy thừa, chỉ số; chỉ tiêu
+ @exponent overflow
+- (Tech) sự vượt hạn trên số mũ
+ @exponent sign
+- (Tech) dấu mũ
+ @exponent underflow
+- (Tech) sự vượt hạn dưới số mũ
+ @exponential  
+*  tt
+- (toán học) (thuộc) số mũ, theo luật số mũ
+
++ exponential curve: đường số mũ
+
++ exponential distribution: sự phân phối theo luật số mũ
+
+@exponential
+- (Tech) thuộc số mũ
+ @Exponential
+- (Econ) Thuộc số mũ, thuộc hàm mũ.
+: Hàm số mũ là một HÀM LUỸ THỪA, thường chỉ sự liên quan giữa biến số độc lập và số e tăng lên một luỹ thừa chứa BIẾN SỐ ĐỘC LẬP khi e 
++  2,718, và là cơ số của LOGARIT TỰ NHIÊN.
+ @exponential
+- (thuộc) số mũ   hàm số mũ
+@exponential curve
+- (Tech) đường cong số mũ
+ @exponential factor
+- (Tech) thừa số hàm mũ
+ @exponential function
+- (Tech) hàm số số mũ, hàm số lũy thừa
+ @exponentially
+* dt
+- theo hàm mũ
+ @exponentiation
+* dt
+- (toán học) sự mũ hoá
+ @exponentiation
+- sự mũ hoá
+ @exponible
+* tt
+- có thể thuyết minh
+ @export  
+*  dt
+- hàng xuất khẩu; (số nhiều) khối lượng hàng xuất khẩu
+- sự xuất khẩu
+- (định ngữ) xuất khẩu
+
++ export duty: thuế xuất khẩu
+
+@Export
+- (Econ) Xuất khẩu, hàng xuất khẩu.
+: Một hàng hoá hoặc dịch vụ sản xuất tại một nước được bán và tiêu dùng ở nước khác. Xuất khẩu hữu hình là xuất khẩu hàng hoá, còn xuất khẩu vô hình là xuất khẩu dịch vụ cho người ở nước khác mua.
+ @export
+- (toán kinh tế) xuất cảng
+ @Export Credit Guarantee Department.
+- (Econ) Cục Bảo đảm tín dụng xuất khẩu.
+: LÀ một tổ chức được chính phủ Anh thành lập năm 1930, đưa ra các hình thức BẢO HIỂM khác nhau nhằm chống lại những rủi ro mà các nhà xuất khẩu Anh phỉa chịu đựng.
+ @Export promotion
+- (Econ) Khuyến khích xuất khẩu.
+: LÀ sự phát triển của những ngành mà thỉtường chính là ở nước ngoài. Đây là một chiến lược thay thế chính đối với CHIẾN LƯỢC THAY THẾ NHẬP KHẨU ở các nước kém phát triển.
+ @exportability
+- xem export
+ @exportable  
+*  tt
+- có thể xuất khẩu
+
+@exportation  
+*  dt
+- sự xuất khẩu
+
+@exportation
+- (toán kinh tế) sự xuất cảng
+ @exporter  
+*  dt
+- người xuất khẩu; hàng xuất khẩu
+
+@Export-import bank
+- (Econ) Ngân hàng xuất nhập khẩu.
+: Ngân hàng do chính phủ Mỹ thành lập nam 1937, nhằm thúc đẩy ngoại thương của Mỹ bằng cách cung cấp vốn dưới dạng các khoản tiền cho vay trực tiếp có bảo đảm cho các công ty nước ngoài.
+ @Export-led growth
+- (Econ) Tăng trưởng dựa vào xuất khẩu.
+: Là sự tăng trưởng được thúc đẩy bởi sự gia tăng hàng xuất khẩu.
+ @Export-oriented industrialization
+- (Econ) Công nghiệp hoá theo hướng xuất khẩu.
+ @exposal
+* dt
+- sự bộc lộ, sự phơi bày
+ @expose  
+*  ngdgt
+- phơi ra
+- phơi bày ra, phô ra; bóc trần, phơi trần, vạch trần, bộc lộ
+
++ to expose crime: vạch trần tội ác
+
++ to expose someone: vạch mặt nạ ai, vạch trần tội ác của ai
+- bày ra để bán, trưng bày
+- đặt vào (nơi nguy hiểm...), đặt vào tình thế dễ bị (tai nan...)
+
++ to expose someone to danger: đặt ai vào tình thế hiểm nguy
+- (động tt quá khứ) xoay về (nhà...)
+
++ exposed to the south: xoay về hướng nam
+- vứt bỏ (đứa con) ra ngoài đường
+- (nhiếp ảnh) phơi sang (phim ảnh)
+
+@expose
+- trình bày
+ @exposer
+- xem expose
+ @exposition  
+*  dt
+- sự phơi
+- sự phơi bày, sự phô ra; sự bóc trần, sự phơi trần, sự vạch trần, sự bộc lộ
+- sự bày hàng; (từ Mỹ,nghĩa Mỹ) cuộc triển lãm
+- sự trình bày, sự mô tả, sự giải thích
+- bài bình luận
+- sự vứt bỏ (đứa con) ra ngoài đường
+
+@exposition
+- sự trình bày, sự mô tả, sự giải thích
+ @expositive   (expository) @expositor  
+*  dt
+- người trình bày, người mô tả, người giải thích
+
+@expository   (expository) @expostulate  
+*  ndgt (: with)
+- phê bình nhận xét, thân ái vạch chỗ sai trái
+
+@expostulation  
+*  dt
+- sự phê bình nhận xét, sự thân ái vạch chỗ sai trái
+
+@expostulative
+* tt
+- để phê bình, để vạch chỗ sai
+ @expostulator
+- xem expostulate
+ @expostulatory
+- xem expostulate
+ @exposure  
+*  dt
+- sự phơi
+- sự bóc trần, sự vạch trần
+- sự bày hàng
+- sự đặt vào (nơi nguy hiểm), sự đặt vào tình thế dễ bị (tai nạn...)
+- hướng
+
++ to have a southern exposure: hướng nam (nhà...)
+- sự vứt bỏ (đứa con) ra ngoài đường
+- (nhiếp ảnh) sự phơi nắng
+
+@exposure
+- (vật lí) sự phơi sáng, sự khẳng định
+ @exposure time
+- (Tech) thời gian phơi bày
+ @exposé  
+*  dt
+- bản trình bày sự kiện
+- sự để lòi ra, sự để lộ ra (chuyện xấu xa, tội lỗi)
+
+@expound  
+*  ngdgt
+- trình bày chi tiết
+- giải thích dẫn giải, giải nghĩa
+
+@expounder  
+*  dt
+- người dẫn giải
+
+@express  
+*  dt
+- người đưa thư hoả tốc, công văn hoả tốc
+- xe lửa tốc hành, xe nhanh
+- (từ Mỹ,nghĩa Mỹ) hàng gửi xe lửa tốc hành; tiền gửi hoả tốc
+- hãng (vận tải) tốc hành
+- súng bắn nhanh
+*  tt
+- nói rõ, rõ ràng
+
++ an express order: mệnh lệnh rõ ràng
+- như hệt, như in, như tạc
+
++ an express likeness: sự giống như hệt
+- nhằm mục đích đặc biệt, nhằm mục đích riêng biệt
+
++ his express reason for going...: lý do đặc biệt để đi... của anh ta
+- nhanh, hoả tốc, tốc hành
+
++ an express rife: súng bắn nhanh
+
++ an express bullet: đạn cho súng bắn nhanh
+
++ an express train: xe lửa tốc hành
+*  dt
+- hoả tốc, tốc hành
+*  ngdgt
+- vắt, ép, bóp (quả chanh...)
+- biểu lộ, bày tỏ (tình cảm...); phát biểu ý kiên
+
++ to express oneself: diễn đạt, phát biểu ý kiến (về một vấn đề gì...)
+
++ his face expressed sorrow: nét mặt anh ta biểu lộ sự đau buồn
+- (toán học) biểu diễn
+- (từ Mỹ,nghĩa Mỹ) gửi hoả tốc
+
+@express
+- biểu thị
+ @expressage
+* dt
+- sự vận chuyển tốc hành
+- vật vận chuyển tốc hành
+ @expresser
+- xem express
+ @expressible  
+*  tt
+- có thể diễn đạt được (ý nghĩ...)
+- (toán học) có thể biểu diễn được
+
+@expression  
+*  dt
+- sự vắt, sự ép, sự bóp
+- sự biểu lộ (tình cảm...), sự diễn cảm; sự biểu hiện (nghệ thuật...); sự diễn đạt (ý nghĩ...)
+
++ to read with expression: đọc diễn cảm
+
++ to give expression to one's feelings: biểu lộ tình cảm
+- nét, vẻ (mặt...); giọng (nói...)
+- thành ngữ, từ ngữ
+- (toán học) biểu thức
+- (y học) sự ấn (cho thai ra)
+
+@expression
+- biểu thức
+- algebrai e. biểu thức đại số 
+- alternating e. biểu thức thay phiên
+- canonical e. biểu thức chính tắc
+- differential e. biểu thức vi phân
+- general e. biểu thức tổng quát
+- mixed e. biểu thức hỗn tạp
+- numerical e. biểu thức bằng số 
+ @expressional  
+*  tt
+- (thuộc) nét mặt, (thuộc) vẻ mặt
+- (thuộc) sự diễn đạt (bằng lời nói, nghệ thuật)
+
+@expressionism  
+*  dt
+- (nghệ thuật) chủ nghĩa biểu hiện
+
+@expressionist  
+*  dt
+- (nghệ thuật) người theo chủ nghĩa biểu hiện
+
+@expressionistic
+- xem expressionism
+ @expressionistically
+- xem expressionism
+ @expressionless  
+*  tt
+- không có tinh thần, đờ ra, ngây ra (mặt...); không diễn cảm (giọng nói...)
+- không có ý nghĩa (tín hiệu)
+
+@expressive  
+*  tt
+- có ý nghĩa
+- diễn cảm
+- (để) diễn đạt, (để) nói lên
+
+@expressively
+* dt
+- diễn cảm, truyền cảm
+ @expressiveness  
+*  dt
+- tính diễn cảm; sức diễn cảm
+
+@expressivity
+* dt
+- (sinh học) độ biểu hiện (tình trạng truyền); tính biểu hiện
+ @express-laboratory
+* dt
+- phòng thí nghiệm nhanh
+ @expressly  
+*  dt
+- riêng để, chỉ để; cốt để
+
++ to do something expressly for someone: làm cái gì cốt để cho ai
+- chính xác rõ ràng, tuyệt đối
+
++ it's expressly forbidden: tuyệt đối cấm
+
+@expressman  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) nhân viên hãng vận tải tốc hành; người lái xe lửa tốc hành
+
+@expressway
+* dt
+- như motorway
+ @exprobation
+* dt
+- sự trách móc; lời trách móc
+ @exprobration  
+*  dt
+- lời lẽ trách móc
+
+@expromission
+* dt
+- (pháp luật) sự nhận nợ thay
+ @expromissor
+* dt
+- (pháp luật) người nhận nợ thay
+ @expropriate  
+*  ngdgt
+- tước, chiếm đoạt (đất đai, tài sản...)
+- (từ Mỹ,nghĩa Mỹ) sung công
+
+@expropriation  
+*  dt
+- sự tước, sự chiếm đoạt (đất đai, tài sản...)
+- (từ Mỹ,nghĩa Mỹ) sự sung công
+
+@expropriator
+- xem expropriate
+ @expropriatory
+- xem expropriate
+ @expugnable
+* tt
+- có thể đánh chiếm được, có thể tập kích được
+ @expugnation
+* dt
+- sự đánh chiếm, sự tập kích
+ @expulsion  
+*  dt
+- sự đuổi, sự tống ra, sự trục xuất
+- (y học) sự sổ (thai, nhau)
+
+@expulsive  
+*  tt
+- để tống ra, để đuổi ra, để trục xuất
+- (y học) làm sổ (thai, nhau)
+
+@expunction  
+*  dt
+- sự xoá (tên trong danh sách...), sự bỏ (đoạn trong sách...)
+- đoạn bỏ (trong sách...)
+
+@expunge  
+*  ngdgt
+- xoá (tên ở danh sách...), bỏ (đoạn trong sách...)
+
+@expunger
+- xem expunge
+ @expurgate  
+*  ngdgt
+- sàng lọc; cắt bỏ (một cuốn sách, những chỗ không thích hợp trong một cuốn sách)
+
+@expurgation  
+*  dt
+- sự sàng lọc; sự cắt bỏ (một cuốn sách, những chỗ không thích hợp trong một cuốn sách)
+
+@expurgator  
+*  dt
+- người sàng lọc; người cắt bỏ (một cuốn sách, những chỗ không thích hợp trong một cuốn sách)
+
+@expurgatorial   (expurgatory) @expurgatory   (expurgatory) @exquisite  
+*  tt
+- thanh, thanh tú
+- thấm thía (sự đua); tuyệt (sự thích thú, món ăn...)
+- sắc, tế nhị, nhạy, tinh, thính
+*  dt
+- công tử bột
+- người quá cảnh vẻ, người khảnh ăn, khảnh mặc
+
+@exquisitely
+* dt
+- sắc sảo, thanh tú, trang nhã
+ @exquisiteness  
+*  dt
+- nét thanh, vẻ thanh tú, dáng thanh tú
+- sự thấm thía (nỗi đau); tính tuyệt (sự thích thú); tính ngon tuyệt (món ăn)
+- tính sắc, tính tế nhị, tính nhạy, tính tinh, tính thính
+
+@exradius
+- bán kính của vòng tròn bàng tiếp (một tam giác)
+ @exsanguinate  
+*  ngdgt
+- hút hết máu
+
+@exsanguinated
+* tt
+- mất máu; thiếu máu
+ @exsanguination  
+*  dt
+- sự hút hết máu; sự kiệt máu
+
+@exsanguine  
+*  tt
+- thiếu máu
+
+@exsanguinous
+* tt, cũng exanguinous
+- thiếu máu
+ @exsciccosis
+* dt
+- sự giảm lượng máu
+ @exscind  
+*  ngdgt
+- cắt, cắt bỏ ((nghĩa đen) & (nghĩa bóng))
+
+@exsculption
+* dt
+- sự chạm sâu, sự khắc sâu
+ @exsect  
+*  ngdgt
+- cắt bỏ
+
+@exsection  
+*  dt
+- sự cắt bỏ
+
+@exsert  
+*  ngdgt
+- (sinh vật học) làm thò ra
+
+@exserted  
+*  tt
+- (thông tục) thò ra (nhị hoa)
+
+@exsertile
+* tt
+- (sinh học) thúc ra; thoát ra; đẩy ra
+ @exsertion
+- xem exsert
+ @ex-service  
+*  tt
+- giải ngũ, phục viên
+
+@ex-serviceman  
+*  dt
+- lính giải ngũ, bộ đội phục viên, cựu chiến binh
+
+@ex-servicewoman
+* dt
+- số nhiều là ex-servicewomen
+- người từng là nữ quân nhân; cựu nữ quân nhân; cựu chiến binh
+- dt,  số nhiều là ex-servicewomen
+- người từng là nữ quân nhân; cựu nữ quân nhân; cựu chiến binh
+ @ex-siccant
+* tt
+- làm khô; sấy khô
+* dt
+- chất hút ẩm
+ @exsiccata
+* dt
+- vật mẩu khô; tiêu bản khô
+ @exsiccate  
+*  ngdgt
+- làm khô; làm khô héo
+- cô đặc
+
+@exsiccation  
+*  dt
+- sự làm khô; sự làm khô héo
+- sự cô đặc
+
+@exsiccative
+- xem exsiccate
+ @exsiccator  
+*  dt
+- bình hút ẩm
+
+@exstipulate
+* tt
+- (thực vật) thiếu lá mầm
+ @exsucceous
+* dt
+- (thực vật) khô, không có nhựa
+ @exsufflation
+* dt
+- sự thở ra cố gắng
+ @ext
+- ngoài, ngoại
+- số máy (điện thoại) phụ
+ @extant  
+*  tt
+- (pháp lý) hiện có, hiện còn
+
+@extasy   (extasy) @extemporal
+* tt
+- không hề chuẩn bị trước; ứng khẩu
+ @extemporaneity   (extemporaneity) @extemporaneous   (extemporary) @extemporaneously
+* dt
+- tùy ứng, ứng khẩu, ngẫu ứng
+ @extemporaneousness   (extemporaneity) @extemporarily
+- xem extemporary
+ @extemporary   (extemporary) @extempore  
+*  tt & dt
+- ứng khẩu, tuỳ ứng
+
+@extemporization  
+*  dt
+- sự ứng khẩu, sự tuỳ ứng
+- bài ứng khẩu, việc làm tuỳ ứng
+
+@extemporize  
+*  ngdgt
+- ứng khẩu, làm tuỳ ứng
+*  ndgt
+- ứng khẩu
+
+@extemporizer
+- xem extemporize
+ @extend  
+*  ngdgt
+- duỗi thẳng (tay, chân...); đưa ra, giơ ra
+
++ to extend the arm: duỗi cánh tay
+
++ to extend the hand: đưa tay ra, giơ tay ra
+- kéo dài (thời hạn...), gia hạn, mở rộng
+
++ to extend the boundaries of...: mở rộng đường ranh giới của...
+
++ to extend one's sphere of influence: mở rộng phạm vi ảnh hưởng
+
++ to extend the meaning ofa word: mở rộng nghĩa của một từ
+- (quân sự) dàn rộng ra (quân đội)
+- (thể dục,thể thao),  (từ lóng) làm việc dốc hết
+- dành cho (sự đón tiếp...); gửi tới (lời chúc...)
+
++ to extend hepl: dành cho sự giúp đỡ
+
++ to extend the best wishes to...: gửi những lời chúc tốt đẹp nhất tới (ai...)
+- (pháp lý) đánh giá (tài sản) (để tịch thu); tịch thu (tài sản, vì nợ)
+- chép (bản tốc ký...) ra chữ thường
+*  ndgt
+- chạy dài, kéo dài (đến tận nơi nào...); mở rộng
+
++ their power is extending more and more every day: quyền lực của họ càng ngày càng mở rộng
+- (quân sự) dàn rộng ra (quân đội)
+
+@extend
+- mở rộng; giãn; kéo dài; thác triển; khuếch
+ @extended
+* tt
+- (ngôn ngữ) mở rộng
+
++  simple extented sentence:câu đơn mở rộng
+
++  extended family:gia đình mà trong đó, chú bác, cô dì và anh em họ được xem như họ hàng gần gũi, có nghĩa vụ giúp đỡ và hỗ trợ nhau; gia đình mở rộng
+ @extended addressing
+- (Tech) định vị nối dài, định địa chỉ nối dài
+ @extended binary-coded decimal interchange code (EBCDIC)
+- (Tech) mã trao đổi thập phân biên mã nhị phân mở rộng, EBCDIC (épxiddích)
+ @extended code set
+- (Tech) bộ mã nối dài
+ @extended control (EC) mode
+- (Tech) chế độ điều khiển nối dài
+ @extended memory
+- (Tech) bộ nhớ nối dài
+ @extended memory specifications (XMS)
+- (Tech) các quy định bộ nhớ nối dài
+ @extended precision
+- (Tech) độ chính xác nối dài
+ @extended-level synthesizer
+- (Tech) bộ tổng hợp cấp nối dài
+ @extended-precision word
+- (Tech) từ có dộ chính xác nối dài
+ @extender board
+- (Tech) bảng bộ sao
+ @extendibility  
+*  tt
+- tính có thể duỗi thẳng ra; tính có thể đưa ra
+- tính có thể kéo dài ra, tính có thể gia hạn; tính có thể mở rộng
+- (pháp lý) tính có thể bị tịch thu
+
+@extendible   (extendible) @extensed
+- được mở rộng, được kéo dài
+ @extensibility
+* tt
+- tính có thể duỗi thẳng ra; tính có thể đưa ra
+- tính có thể kéo dài ra, tính có thể gia hạn; tính có thể mở rộng
+- <pháp> tính có thể bị tịch thu
+ @extensible   (extendible) @extensible
+- extnadible, mở rộng được, kéo dài được, giãn được
+ @extensile  
+*  tt
+- có thể kéo dài ra, có thể làm lồi ra
+
+@extension  
+*  dt
+- sự duỗi thẳng ra; sự đưa ra
+- sự kéo dài ra, sự gia hạn; sự mở rộng
+- phần kéo dài, phần mở rộng, phần nối thêm (vào nhà, vào dây nói...)
+
++ an extension to a factory: phần mở rộng thêm vào xưởng máy
+- (quân sự) sự dàn rộng ra
+- lớp đại học mở rộng, lớp đại học nhân dân, lớp đại học buổi tối, lớp đại học bằng thư (tổ chức cho những người không phải là học sinh) ((cũng) University Extension)
+- (thể dục,thể thao),  (từ lóng) sự làm dốc hết sức
+- sự dành cho (sự đón tiếp nồng nhiệt...); sự gửi tới (lời chúc tụng...)
+- sự chép ra chữ thường (bản tốc ký)
+- (vật lý) sự giãn, độ giãn
+
+@extension
+- sự mở rộng; sự kéo dài; sự giãn được, sự khuếch
+- e. of a field mở rộng một trường 
+- e. of a function mở rộng của một hàm
+- e. of a group mở rộng một nhóm
+- algebraic e. (đại số) mở rộng đại số
+- analytic e. mở rộng giải tích 
+- equationally complete e. mở rộng hoàn toàn tương đương
+- flat e. mở rộng phẳng
+- inessential e. (đại số) mở rộng không cốt yếu
+- iterated e. mở rộng lặp
+- purely transcendental e. (đại số) mở rộng thuần tuý siêu việt
+- ramified e. hh(đại số) mở rộng rẽ nhánh
+- relate e.s (đại số) các mở rộng đồng loại
+- separable e. mở rộng tách được
+- superharmonic boundary value e. mở rộng giá trị siêu điều hoà
+- transcendental e. of a field mở rộng siêu việt của một trường 
+- unramifield e. hh(đại số) mở rộng không rẽ nhánh 
+ @extension cord
+- (Tech) dây nối dài
+ @extension line
+- (Tech) dây nối dài
+ @extension subscriber
+- (Tech) người thuê bao đường dây
+ @extensional
+- xem extension
+ @extensional
+- (logic học) mở rộng khuếch trương
+ @extension-ladder
+* dt
+- cái thang có thể kéo dài ra
+ @extension-line
+* dt
+- đường sắt kéo dài thêm
+ @extension-table
+* dt
+- cái bàn có thể kéo dài ra
+ @extensity
+* dt
+- tính không gian
+- tính mở rộng
+ @extensive  
+*  tt
+- rộng, rộng rãi, bao quát
+!extensive farming
+- quảng canh
+
+@extensive
+- rộng rãi
+ @Extensive margin
+- (Econ) Mức cận biên quảng canh.
+: Là tình trạng LỢI TỨC GIẢM DẦN đối với đất đai.
+ @extensively
+* dt
+- rộng rãi, bao quát, cùng khắp
+ @extensiveness  
+*  dt
+- tính rộng, tính rộng rãi, tính bao quát
+
+@extensometer  
+*  dt
+- (vật lý) cái đo dộ giãn
+
+@extensor  
+*  dt
+- (giải phẫu) cơ duỗi ((cũng) extensor musicle)
+
+@extensor
+- (hình học) giãn tử
+- absolute e. giãn tử tuyệt đối 
+ @extent  
+*  dt
+- khoảng rộng
+
++ vast extent of ground: khoảng đất rộng
+- quy mô, phạm vi, chừng mực
+
++ to the extent of one's power: trong phạm vi quyền lực
+
++ to a certain extent: đến một chừng mực nào đó, ở một mức nhất định
+- (pháp lý) sự đánh giá (đất rộng...)
+- (pháp lý) sự tịch thu; văn bản tịch thu (đất ruộng...)
+
+@extent
+- (Tech) phạm vi, miền
+ @extent
+- kích thước, ngoại diện
+ @extenuate  
+*  ngdgt
+- giảm nhẹ (tội...); giảm nhẹ tội (của ai...)
+- (từ cổ,nghĩa cổ) làm yếu, làm suy nhược
+!extenuating circumstances
+- (pháp lý) hoàn cảnh làm giảm nhẹ tội
+
+@extenuation  
+*  dt
+- sự giảm nhẹ (tội); sự giảm nhẹ tội; điều giảm nhẹ tội
+- (từ cổ,nghĩa cổ) sự làm yếu, sự làm suy nhược
+
+@extenuative
+- xem extenuate
+ @extenuator
+- xem extenuate
+ @extenuatory  
+*  tt
+- giảm nhẹ (tội); giảm nhẹ tội
+
+@exterior  
+*  tt
+- ngoài, ở ngoài, từ ngoài vào
+
++ exterior angle: (toán học) góc ngoài
+- (từ Mỹ,nghĩa Mỹ) nước ngoài
+*  dt
+- bề ngoài; mặt ngoài, bên ngoài
+- cách cư xử bề ngoài; vẻ bề ngoài
+
+@exterior
+- bên ngoài, ngoại
+ @exteriorise   (exteriorise) @exteriority  
+*  dt (triết học)
+- tình trạng bên ngoài; tính bên ngoài (tình trạng, tính chất của cái bên ngoài)
+- tính rộng ngoài (tính chất của vật gì mà các bộ phận không chồng chéo lên nhau)
+
+@exteriorization  
+*  dt
+- sự thể hiện ra ngoài; (triết học) sự ngoại hiện
+
+@exteriorize   (exteriorise) @exteriorly
+- xem exterior
+ @exterminate  
+*  ngdgt
+- triệt, tiêu diệt, huỷ diệt
+
+@extermination  
+*  dt
+- sự triệt, sự tiêu diệt, sự huỷ diệt
+
+@exterminative   (exterminative) @exterminator  
+*  dt
+- người triệt, người tiêu diệt, người huỷ diệt
+
+@exterminatory   (exterminative) @extern
+* tt
+- (từ cổ, nghĩa cổ) xem external
+* dt
+- học sinh ở ngoài trường
+ @external  
+*  tt
+- ở ngoài, bên ngoài (hiện tượng...)
+
++ external world: thế giới bên ngoài
+- (y học) ngoài, để dùng bên ngoài
+
++ a medicine for external use only: thuốc chỉ để dùng bôi ngoài
+- (từ Mỹ,nghĩa Mỹ) đối với nước ngoài, đối ngoại (chính sách, sự buôn bán)
+
+@External balace
+- (Econ) Cân bằng đối ngoại; Cân bằng bên ngoài.
+: Thường được định nghĩa là một tình trạng trong đó CÁN CÂN THANH TOÁN của một nước là CÂN BẰNG, theo nghĩa luồng tiền vào tự định bằng với luồng ra tự định mà không cần điều chỉnh các luồng bổ sung vào hoặc rút ra từ dự trữ NGOẠI HỐI hay dự trữ vàng.
+ @External balance
+- (Econ) Cân bằng bên ngoài.
+ @external cavity klystron
+- (Tech) đèn tốc điều hốc ngoài
+ @external circuit
+- (Tech) mạch ngoài
+ @external command
+- (Tech) lệnh ngoài
+ @external current
+- (Tech) dòng ngoài
+ @external database
+- (Tech) kho dự kiện ngoài
+ @external declaration
+- (Tech) mô tả ngoài
+ @External deficit
+- (Econ) Thâm hụt đối ngoại; Thâm hụt bên ngoài.
+: Thâm hụt CÁN CÂN THANH TOÁN.
+ @external (device) address
+- (Tech) địa chỉ thiết bị ngoài
+ @External diseconomy
+- (Econ) Ảnh hưởng phi kinh tế từ bên ngoài; Tính phi kinh tế từ bên ngoài
+: Xem EXTERNALITIES.
+ @external disk drive
+- (Tech) bộ quay đĩa ngoài
+ @External economies & diseconomies of scale
+- (Econ) Ảnh hưởng kinh tế và phi kinh tế từ bên ngoài theo quy mô.
+: Những ảnh hưởng có lợi hay có hại mà các hoạt động sản xuất của một hãng này gây ra cho các hoạt động sản xuất của hãng khác.
+ @External economy
+- (Econ) Ảnh hưởng kinh tế từ bên ngoài; Tính kinh tế từ bên ngoài
+: Xem EXTERNALITIES.
+ @external environment
+- (Tech) môi trường ngoài
+ @External finance
+- (Econ) (Nguồn) tài chính từ bên ngoài.
+: Quỹ được huy động bởi các hãng bằng cách phát hành CỔ PHIẾU (vốn cổ phần) hoặc đi vay để tài trợ cho các hoạt động của hãng.
+ @External financial limits
+- (Econ) Mức giới hạn nguồn tài chính từ bên ngoài.
+: Chính phủ Anh đặt giới hạn đối với các NGUÒN TÀI CHÍNH TỪ BÊN NGOÀI mà các công ty quốc doanh có thể huy động trong nước.
+ @External growth
+- (Econ) Tăng trưởng ngoại ứng; Tăng trưởng do bên ngoài.
+: Sự mở rộng của một hãng được mang lại do SÁP NHẬP hay thu mua.
+ @external impedance
+- (Tech) trở kháng ngoài
+ @external interrupt
+- (Tech) cái ngắt ngoài
+ @External labour market
+- (Econ) Thị trường lao động bên ngoài.
+: Một thị trường cho một số người lao động nhất định, hoặc là sẵn ngay hoặc tiềm tàng cho các công việc mới.
+ @external load circuit
+- (Tech) mạch gánh ngoài
+ @external memory
+- (Tech) bộ nhớ ngoài
+ @external procedure
+- (Tech) trình tự ngoài
+ @external reference
+- (Tech) tham khảo ngoài
+ @external register
+- (Tech) bộ ghi ngoài
+ @External reserve
+- (Econ) Dự trữ ngoại hối.
+: Thường để chỉ mức nắm giữ các phương tiện thanh toán của một nước được quốc tế chấp nhận, với mục đích trang trải làm thâm hụt ngắn hạn và trung hạn của CÁN CÂN THANH TOÁN VỚI BÊN NGOÀI, đồng thời nhằm mục đích kiểm soát sự thay đổi TỶ GIÁ HỐI ĐOÁI đồng tiền của nước này.
+ @external resistance
+- (Tech) điện trở ngoài
+ @external storage
+- (Tech) bộ trữ ngoài
+ @external symbol
+- (Tech) ký hiệu ngoài
+ @external table
+- (Tech) bảng ngoài
+ @externalise   (externalise) @externalism
+* dt
+- thuyết hiện tượng luận
+ @Externalities
+- (Econ) Các ngoại hưởng; Các ngoại ứng
+: Được biết đến với những tên khác nhau, như tác động ngoại lai, ảnh hưởng từ bên ngoài, bất lợi từ bên ngoài,ảnh hưởng trào ra bên ngoài và ẢNH HƯỞNG ĐẾN VÙNG LÂN CẬN. Người ta đã phân biệt ngoại ứng biên và ngoại ứng trong biên.
+ @externality  
+*  dt
+- tính chất bên ngoài, trạng thái bên ngoài
+- (số nhiều) những cái bên ngoài
+
+@externalization  
+*  dt
+- (triết học) sự ngoại hiện
+
+@externalize   (externalise) @externally
+* dt
+- theo bên ngoài, theo bề ngoài
+ @externals  
+*  dt số nhiều
+- vẻ ngoài, đặc điểm bên ngoài, hoàn cảnh bên ngoài
+
++ to judge by externals: xét bề ngoài
+- những cái bề ngoài
+
+@externodorsal
+* tt
+- thuộc lưng sau-ngoài
+ @exteroceptive
+* tt
+- kích thích từ bên ngoài
+ @exteroceptor
+* dt
+- giác quan nhận và truyền kích thích từ bên ngoài
+ @exteroreception
+* dt
+- sự nhận cảm ngoài; ngoại cảm thụ
+ @exteroreceptive
+* tt
+- nhận cảm ngoài; ngoại cảm thụ
+ @exteroreceptor
+* dt
+- ngoại thụ quan (cơ quan nhận cảm giác bên ngoài)
+ @exterritorial   (exterritorial) @exterritoriality   (exterritoriality) @exterritorially
+- xem exterritorial
+ @extinct  
+*  tt
+- tắt (lửa, núi lửa...)
+- tan vỡ (hy vọng...)
+- không còn nữa, mai một (sự sống, chức vị...)
+- tuyệt giống, tuyệt chủng
+
+@extinction  
+*  dt
+- sự dập tắt; sự làm tan vỡ; sự làm mất đi
+- sự làm tuyệt giống
+- sự thanh toán (nợ nần)
+- sự tiêu diệt, sự tiêu huỷ
+
+@extinction
+- sự dập tắt, sự làm ngừng; sự đình chỉ; (toán kinh tế) sự thanh toán (nợ)
+ @extinctive  
+*  tt
+- để dập tắt; để làm tan vỡ; để làm mất đi
+- để làm tuyệt giống
+- để thanh toán (nợ nần)
+- để tiêu diệt, để tiêu huỷ
+
+@extine
+* dt
+- vỏ ngoài; màng ngoài (bao tử, hạt phấn)
+ @extinguish  
+*  ngdgt
+- dập tắt, làm tiêu tan, làm tắt
+- làm lu mờ, át
+
++ her beauty extinguished that of all others: cẻ đẹp của cô làm lu mờ tất cả những cô khác
+- làm cứng họng (đối phương)
+- thanh toán (nợ nần)
+- tiêu diệt, phá huỷ
+- (pháp lý) huỷ bỏ
+
+@extinguish
+- sự dập tắt, sự làm ngưng; (toán kinh tế) sự thanh toán (nợ)
+ @extinguishable  
+*  tt
+- có thể dập tắt, có thể làm tiêu tan, có thể làm tắt
+- có thể làm lu mờ, có thể át
+- có thể thanh toán
+- có thể tiêu diệt, có thể phá huỷ
+- (pháp lý) có thể huỷ bỏ
+
+@extinguisher  
+*  dt
+- người dập tắt, người làm tắt
+- máy dập lửa (chữa cháy)
+- cái chụp nến (để dập tắt)
+
+@extinguishment  
+*  dt
+- sự dập tắt, sự làm tiêu tan, sự làm tắt
+- sự làm lu mờ, sự át
+- sự làm cho cứng họng
+- sự thanh toán
+- sự tiêu diệt, sự phá huỷ
+- (pháp lý) sự huỷ bỏ
+
+@extirpate  
+*  ngdgt
+- nhổ rễ, đào tận gốc (cây, cỏ...); cắt bỏ (cái u...)
+- làm tuyệt giống, trừ tiệt
+
+@extirpation  
+*  dt
+- sự nhổ rễ, sự đào tận gốc (cây, cỏ...); sự cắt bỏ (cái u...)
+- sự làm tuyệt giống, sự trừ tiệt
+
+@extirpative
+- xem extirpate
+ @extirpator  
+*  dt
+- người nhổ rễ, người đào tận gốc; người trừ tiệt; người cắt (chai chân)
+- máy nhổ rễ
+
+@extirpatory
+* tt
+- xem exterpative
+ @extol  
+*  ngdgt
+- tán dương, ca tụng
+
++ extol to someone to the skies: tán dương ai lên tận mây xanh
+
+@extoller  
+*  dt
+- người tán dương, người ca tụng
+
+@extolment  
+*  dt
+- lời tán dương, lời ca tụng
+
+@extorsive
+* tt
+- cưỡng đoạt
+ @extort  
+*  ngdgt
+- bóp nặn, tống (tiền); moi (lời thú, lời hứa...)
+- nặn ra (một nghĩa...)
+
+@extortion  
+*  dt
+- sự bóp nặn, sự tống (tiền của...); sự moi (lời hứa, lời thú...)
+
+@extortionary   (extortionary) @extortionate   (extortionary) @extortionately
+* dt
+- quá đáng, thái quá
+ @extortioner   (extortionist) @extortionist   (extortionist) @extortive  
+*  tt
+- để bóp nặn (tiền...), để tống tiền; để moi
+
+@extra  
+*  tt
+- thêm, phụ, ngoại
+- thượng hạng, đặc biệt
+*  dt
+- thêm, phụ, ngoại
+
++ to work extra: làm việc thêm ngoài
+- hơn thường lệ, đặc biệt
+*  dt
+- cái phụ, cái thêm; món phải trả thêm
+- bài nhảy thêm
+- (điện ảnh) vai phụ, vai cho có mặt
+- đợt phát hành đặc biệt (báo)
+
+@extra
+- bổ sung; đặc biệt hơn
+ @extra current
+- (Tech) dòng phụ
+ @extra high tension
+- (Tech) điện áp cực cao; áp suất cực cao
+ @extra large scale integration (ELSI)
+- (Tech) tập thành đại quy mô
+ @extra-atmospheric  
+*  tt
+- ngoài quyển khí
+
+@extra-axillar
+* tt
+- ngoài nách lá
+ @extra-axillary
+* tt
+- ngoài nách lá
+ @extra-branchial
+* tt
+- (sinh vật) ngoài cung mang
+ @extra-canonical
+* tt
+- ngoài pháp điển
+ @extra-capsular
+* tt
+- ngoài vỏ; ngoài túi; ngoài nang
+ @extra-cardial
+* tt
+- ngoài tim
+ @extracecal
+* tt
+- (giải phẫu) ngoài ruột tịt, ngoài ruột bít
+ @extracellular
+* tt
+- ngoài tế bào; ngoại bào
+ @extra-conjugal  
+*  tt
+- ngoài quan hệ vợ chồng
+
+@extra-cosmical  
+*  tt
+- ngoài vũ trụ
+
+@extracranial
+* tt
+- ngoài sọ
+ @extract  
+- iks'trækt@extract
+- trích, khai (căn) e. a root of a number khai căn một số 
+ @extractable
+- xem extract
+ @extractible
+- xem extract
+ @extraction  
+*  dt
+- sự trích (sách); sự chép (một đoạn trong sách)
+- sự nhổ (răng...)
+- sự bòn rút, sự moi
+- sự hút, sự bóp, sự nặn
+- sự rút ra (nguyên tắc, sự thích thú
+- (toán học) phép khai (căn)
+- (hoá học) sự chiết
+- dòng giống, nguồn gốc
+
++ to be of Chinese extraction: nguồn gốc Trung-hoa
+!extraction rate
+- tỷ lê xay bột (giữa trọng lượng bột xay được và gạo đưa xay)
+
+@extraction
+- sự trích; sự khai (căn)
+- e. of a root sự khai căn 
+ @extractive  
+*  tt
+- để chiết
+- giống chất chiết
+- khai khoáng
+
++ extractive industry: công nghiệp khai khoáng
+*  dt
+- vật chiết, chất chiết
+
+@extractively
+- xem extractive
+ @extractor  
+*  dt
+- người chiết; người nhổ (răng), người cắt (chai ở chân)
+- kìm nhổ
+- máy quay mật (ong); máy chiết; cái vắt (chanh...)
+
+@extracurricular  
+*  tt
+- ngoại khoá
+
+@extraditable  
+*  tt
+- có thể trao trả (người phạm tội cho một nước khác, cho một nhà cầm quyền khác)
+- có thể làm cho (người phạm tội) được trao trả
+
+@extradite  
+*  ngdgt
+- trao trả (người phạm tội cho một nước khác, cho một nhà cầm quyền khác)
+- làm cho (người phạm tội) được trao trả
+
+@extradition  
+*  dt
+- sự trao trả (người phạm tội cho một nước khác, cho một nhà cầm quyền khác)
+- sự làm cho (người phạm tội) được trao trả
+- sự định cách tâm (cảm giác)
+
+@extrados  
+*  dt
+- (kiến trúc) lưng vòm
+
+@extradotal
+* tt
+- (pháp luật) tài sản ngoài của hồi môn
+ @extradural
+* tt
+- (sinh học) ngoài màng cứng
+ @extraembryonic
+* tt
+- ngoài phôi; ngoại phôi
+ @extraenteric
+* tt
+- ngoài ruột; ngoài ống tiêu hoá
+ @extra-essential  
+*  tt
+- ngoài thực chất (của một vật)
+
+@extrafloral
+* tt
+- ngoài hoa
+ @extragalatic
+* tt
+- ở ngoài thiên hà
+ @extrahard
+* tt
+- rất cứng; đặc biệt cứng (đá mài)
+ @extraheavy
+* tt
+- cực nặng
+ @extrahepatic
+* tt
+- (giải phẫu) ngoài gan
+ @extrajudicial  
+*  tt
+- không (thuộc vấn đề) đưa ra toà; không làm ở trước (lời khai)
+- ngoài pháp lý
+
+@extrajudicially
+- xem extrajudicial
+ @extra-legal  
+*  tt
+- ngoài luật pháp, ngoài pháp lý
+
+@extralinguistic
+* tt
+- ngoài (lĩnh vực) ngôn ngữ học
+ @extrality
+* dt
+- xem exterritoriality
+ @extra-marital
+* tt
+- ngoại tình
+ @extramarital
+* tt
+- thuộc về quan hệ tình dục (của một người đã có vợ hoặc có chồng) bên ngoài hôn nhân; ngoại tình
+
++  he had extramarital relations with one of his neighbours:anh ta ngoại tình với một cô láng giềng
+
++  extramarital affairs:những vụ ngoại tình
+ @extramatrical
+* tt
+- ngoài dạ con
+ @extramundane  
+*  tt
+- ở ngoài thế giới vật chất, ở thế giới bên kia, ở ngoài vũ trụ
+
+@extramural  
+*  tt
+- ở ngoài thành, ở ngoài giới hạn (một thành phố...)
+- ngoài trường đại học
+
++ extramural classes (courses): lớp bổ túc ngoài trường đại học (cho các học viên không phải là học sinh đại học)
+
+@extraneous  
+*  tt
+- bắt nguồn ở ngoài, xa lạ
+- không thuộc về, không dính dáng, không liên quan đến (vấn đề đang giải quyết...)
+
+@extraneous
+- ngoại lai
+ @Extraneous information
+- (Econ) Thông tin không liên quan
+: Những thông tin ban đầu (có thể là ước lưọng về tham số trước đó) được kết hợp với thông tin mẫu  với mục đích suy luận thống kê hay ước tính tham số trong phân tích hồi quy thường để cải thiện dự báo hay khắc phục những vấn đề như ĐA CỘNG TUYẾN TÍNH.
+ @extraneously
+- xem extraneous
+ @extraneousness  
+*  dt
+- sự bắt nguồn ở ngoài, tính xa lạ
+- sự không thuộc về, sự không dính dáng, sự không liên quan đến (vấn đề đang giải quyết...)
+
+@extranuclear
+* tt
+- ngoài (hạt) nhân
+ @extraocular
+* tt
+- ngoài mắt
+
++  extraocular muscle:cơ ngoài mắt
+ @extraofficial
+* tt
+- ngoài trách nhiệm; ngoài chức vụ
+ @extraordinaries  
+*  dt số nhiều
+- (từ cổ,nghĩa cổ) phần cấp thêm (cho quân đội)
+
+@extraordinarily
+* dt
+- lạ thường, phi thường
+ @extraordinariness  
+*  dt
+- tính lạ thường, tính khác thường; tính to lớn lạ thường
+- tính đặc biệt
+
+@extraordinary  
+*  tt
+- lạ thường, khác thường; to lớn lạ thường
+- đặc biệt
+
++ envoy extraordinary: công sự đặc mệnh
+
+@extraordinary
+- đặc biệt
+ @extra-parliamentary  
+*  tt
+- ngoài nghị trường
+
+@extraparliamentary
+* tt
+- ngoài quốc hội, ngoài nghị trường
+ @extraparochial  
+*  tt
+- (tôn giáo) ngoài phạm vi xứ đạo
+
+@extra-physical  
+*  tt
+- không bị quy luật vật lý ảnh hưởng
+
+@extrapolate  
+*  dgt
+- (toán học) ngoại suy
+
+@extrapolate
+- ngoại suy
+ @extrapolation  
+*  dt
+- (toán học) phép ngoại suy
+
+@extrapolation
+- phép ngoại suy
+- exponential e. phép ngoại suy theo luật số mũ 
+- linear e. phép ngoại suy tuyến tính 
+- parabolic e. phép ngoại suy parabolic 
+ @extrapolative
+- xem extrapolate
+ @Extrapolative expectation
+- (Econ) Kỳ vọng ngoại suy; Những dự tính ngoại suy.
+ @extrapolator
+- xem extrapolate
+ @extraprofessional
+* tt
+- ngoài chuyên môn, ngoài chức vụ
+ @extrared
+* tt
+- (vật lý) hồng ngoại
+ @extrarenal
+* tt
+- (giải phẫu) ngoài thân
+ @extra-solar
+* tt
+- ngoài thái dương hệ
+ @extra-spectral  
+*  tt
+- (vật lý) ở ngoài quang phổ mặt trời
+
+@extrastelar
+* tt
+- ngoài trung trụ; ngoài mô mạch
+ @extra-stomachal
+* tt
+- ngoài dạ dày
+ @extrasystole  
+*  dt
+- (y học) ngoại tâm thu
+
+@extraterrestrial  
+*  tt
+- ngoài trái đất, ngoài quyển khí
+
+@extraterritorial   (exterritorial) @extraterritoriality   (exterritoriality) @extraterritorially
+- xem extraterritorial
+ @extrauterine
+* tt
+- ngoài dạ con, ngoài tử cung
+ @extravagance   (extravagancy) @extravagancy   (extravagancy) @extravagant  
+*  tt
+- quá mức, quá độ; quá cao (giá cả)
+- phung phí
+- ngông cuồng; vô lý
+
+@extravagantly
+* dt
+- ngông cuồng, quái gở
+ @extravagantness
+- xem extravagant
+ @extravaganza  
+*  dt
+- (nghệ thuật) khúc phóng túng; tác phẩm phóng túng
+- lời lẽ ngông cuồng; hành vi ngông cuồng
+
+@extravagate  
+*  ndgt (từ hiếm,nghĩa hiếm)
+- đi lạc (đường); lầm lạc
+- đi quá xa giới hạn
+- (nghĩa bóng) quá ngông cuồng
+
+@extravasate  
+*  ngdgt
+- (y học) làm thoát mạch, làm tràn (máu)
+*  ndgt
+- thoát mạch, tràn ra (máu)
+
+@extravasation  
+*  dt
+- (y học) sự thoát mạch, sự tràn ra (máu)
+
+@extravascular
+* tt
+- (giải phẫu) ngoài mạch
+ @extravehicular
+* tt
+- ở ngoài con tàu vũ trụ đang bay
+ @extraventricular
+* tt
+- (giải phẩu)
+- ngoài tâm thất
+ @extravert
+* tt
+- xem extrovert
+ @Extrema
+- (Econ) Các cực trị.
+: Các giá trị thấp nhất và cao nhất của một hàm số.
+ @Extrema Keynesian
+- (Econ) Người theo thuyết Keynes cực đoan.
+ @extremal
+* tt
+- thuộc cực trị; đầu cùng
+ @extremal
+- (đường) cực trị
+- accessory e. đường cực trị
+- broken e. (giải tích) đường cực trị gãy, đường cực trị gấp khúc 
+- relative e. đường cực trị tương đối 
+ @extreme  
+*  tt
+- ở tít đằng đầu, ở đằng cùng, xa nhất, ở tột cùng
+- vô cùng, tột bực, cùng cực, cực độ
+
++ extreme poverty: cảnh nghèo cùng cực
+- khác nghiệt; quá khích; cực đoan (biện pháp)
+
++ extreme views: quan điểm quá khích
+- (tôn giáo) cuối cùng
+
++ extreme unction: lễ xức dầu cuối cùng (trước khi chết)
+!an extreme case
+- một trường hợp đặc biệt
+
+@extreme
+- cực trị ở đầu mút, cực hạn
+ @extremely  
+*  dt
+- thái cực; mức độ cùng cực, tình trạng cùng cực
+
++ an extremely of poverty: mức độ cùng cực của sự nghèo khổ; cảnh nghèo cùng cực
+- bước đường cùng
+
++ to be reduced to extremelys: bị dồn vào bước đường cùng
+
++ to drive someone to extremelys: dồn ai vào bước đường cùng
+- hành động cực đoan; biện pháp khắc nghiệt; biện pháp cực đoan
+
++ to go to extremelys; to run to an extremely: dùng đến những biện pháp cực đoan
+- (toán học) số hạng đầu; số hạng cuối
+*  dt
+- vô cùng, tột bực, tột cùng, rất đỗi, hết sức, cực độ
+
+@extremely high frequency (EHF)
+- (Tech) tần số cực cao
+ @extremeness  
+*  dt
+- tính vô cùng, tính tột bực, tính tột cùng, tính cực độ
+- tính khắc nghiệt, tính quá khích; tính cực đoan
+
+@extremism  
+*  dt
+- chủ nghĩa cực đoan
+
+@extremist  
+*  dt
+- người cực đoan
+- người quá khích
+
+@extremity  
+*  dt
+- đầu, mũi
+- sự bất hạnh tột độ; cảnh túng quẫn cùng cực; bước đường cùng
+
++ to drive someone to extremity: dồn ai vào bước đường cùng
+- ((thường) số nhiều) biện pháp khắc nghiệt; biện pháp cực đoan
+
++ the extremities: chi, chân tay (người)
+
+@extremum
+* dt
+- số nhiều extrema
+- (toán học) cực trị
+ @extremum
+- cực trị
+- relative e. (giải tích) cực trị tương đối
+- weak e. cực trị yếu
+ @extricable  
+*  tt
+- có thể gỡ ra được, có thể giải thoát được
+- (hoá học) có thể tách ra được có thể cho thoát ra
+
+@extricate  
+*  ngdgt
+- gỡ, gỡ thoát, giải thoát
+- (hoá học) tách ra, cho thoát ra
+
+@extrication  
+*  dt
+- sự gỡ, sự giải thoát
+- (hoá học) sự tách, sự thoát ra
+
+@extrinsic   (extrinsical) @extrinsic conduction
+- (Tech) độ dẫn ngoại lai
+ @extrinsic photoeffect
+- (Tech) hiệu ứng quang ngoại lai
+ @extrinsic semiconductor
+- (Tech) chất bán dẫn ngoại lai, chất bán dẫn tạp,
+ @extrinsical   (extrinsical) @extrinsically
+- xem extrinsic
+ @extrorse  
+*  tt
+- (thực vật học) hướng ngoài
+
+@extrose
+* tt
+- (thực vật) hướng ra ngoài; quay ra ngoài
+ @extroversion
+* dt
+- sự hướng ngoại
+ @extroversive
+- xem extroversion
+ @extroversively
+- xem extroversion
+ @extrovert
+* dt
+- người quan tâm đến môi trường xung quanh hơn là đến bản thân mình, người có tinh thần hướng ngoại
+ @extrude  
+*  ngdgt
+- đẩy ra, ấn ra, ẩy ra
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ) nhô ra, ló ra
+
+@extruder
+* dt
+- (kỹ thuật) máy đúc ép; máy đùn (chất dẻo)
+ @extrusion  
+*  dt
+- sự đẩy ra, sự ấn ra, sự ẩy ra
+
+@extrusive  
+*  tt
+- để đẩy ra, để ấn ra, để ẩy ra
+
+@exuberance  
+*  dt
+- tính sum sê, tính um tùm (cây cỏ)
+- tính chứa chan (tình cảm); tính dồi dào (sức khoẻ...), tính đầy dẫy
+- tính hoa mỹ (văn)
+- tính cởi mở, tính hồ hởi
+
+@exuberant  
+*  tt
+- sum sê ((nghĩa đen) & (nghĩa bóng)), um tùm (cây cỏ)
+- chứa chan (tình cảm), dồi dào (sức khoẻ...); đầy dẫy
+- hoa mỹ (văn)
+- cởi mở, hồ hởi
+
+@exuberantly
+* dt
+- xum xuê, dồi dào
+- cởi mở, hồ hởi
+ @exuberate  
+*  ndgt
+- chứa chan, dồi dào; đầy dẫy
+
+@exudate
+* dt
+- chất dò rỉ
+* tt
+- tiết dịch; ứa giọt
+ @exudation  
+*  dt
+- sự rỉ, sự ứa
+- (sinh vật học) dịch rỉ
+
+@exudative
+- xem exudation
+ @exude  
+*  dgt
+- rỉ, ứa
+
+@exulation   (exulation) @exulcerate
+* ngdgt
+- (y học) làm loét nông
+* ndgt
+- loét nông
+ @exulceration
+* dt
+- (y học) chỗ loét nông
+ @exult  
+*  ndgt
+- hân hoan, hoan hỉ, hớn hở, đắc chí, hả hê
+
+@exultance
+- xem exult
+ @exultancy   (exulation) @exultant  
+*  tt
+- hân hoan, hoan hỉ, hớn hở, đắc chí, hả hê
+
+@exultantly
+* dt
+- hớn hở, hân hoan
+ @exultation
+* dt
+- nỗi hân hoan, nỗi hoan hỉ; nỗi hớn hở
+- sự hân hoan, sự hoan hỉ, sự hớn hở, sự đắc chí, sự hả hê
+ @exultingly
+- xem exult
+ @exurb
+* dt
+- ngoại ô
+ @exurban
+* tt
+- thuộc ngoại ô
+ @exuviae  
+*  dt số nhiều
+- da lột, vỏ lột (của cua, rắn...)
+- (nghĩa bóng) lốt
+
+@exuvial  
+*  tt
+- (thuộc) da lột, (thuộc) vỏ lột (của cua, rắn...)
+- (nghĩa bóng) (thuộc) lốt
+
+@exuviate  
+*  ngdgt
+- lột (da, vỏ...) (cua, rắn...)
+- (nghĩa bóng) đổi (lốt)
+*  ndgt
+- lột da; lột vỏ
+- (nghĩa bóng) đổi lốt
+
+@exuviation  
+*  dt
+- sự lột da; sự lột vỏ
+- (nghĩa bóng) sự đổi lốt
+
+@ex-voto  
+*  dt
+- (tôn giáo) để cầu nguyện, để thề nguyền
+*  dt
+- (tôn giáo) vật cúng, vật lễ (để cầu nguyện, để thề nguyền)
+
+@

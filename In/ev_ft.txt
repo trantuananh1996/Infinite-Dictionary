@@ -1,0 +1,9 @@
+@ft
+* (viết tắt)
+- Flô-rin (đơn vị tiền tệ của Hung)
+- Thời báo tài chính (Financial Times)
+ @ftp
+- định ước truyền tệp, giao thức truyền tệp
+ @FT-SE
+- (Econ) Một chỉ số giá của 100 cổ phiếu quan trọng nhất được niêm yết tại Sở giao dịch chứng koán London, Chỉ số này được đưa ra vào năm 1984 với chỉ số giá gốc là 1000, bởi vì lúc đó người ta có cảm giác rằng Chỉ số công nghiệp của báo Financial Times bị thiên lệch quá nhiều về phía các công ty thuộc nghành chế tạo.
+ @

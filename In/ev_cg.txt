@@ -1,0 +1,7 @@
+@cga
+- bộ điều hợp CGA
+ @CGA (color graphics adapter)
+- (Tech) bộ tiếp hợp đồ họa màu, CGA
+ @cgm
+- Một loại khuôn thức tệp đồ họa phổ biến trên thế giới dùng để lưu trữ các đồ hình hướng đối tượng, theo dạng không phụ thuộc vào thiết bị
+ @

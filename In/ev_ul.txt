@@ -1,0 +1,345 @@
+@ulama
+- xem Ulema
+ @ulcer  
+*  dt
+- (y học) loét
+- ung, nhọt (nghĩa bóng)
+
+@ulcerate  
+*  ngdgt
+- (y học) làm loét
+
++ to ulcerate the skin: làm loét da
+- (nghĩa bóng) làm đau đớn, làm khổ não
+*  ndgt
+- (y học) loét ra
+
++ the wound began to ulcerate: vết thương bắt đầu loét ra
+
+@ulcerated   (ulcered) @ulceration  
+*  dt
+- (y học) sự loét
+- sự biến thành ung nhọt (nghĩa bóng)
+
+@ulcerative  
+*  tt
+- gây loét
+
+@ulcered   (ulcered) @ulcerous  
+*  tt
+- loét
+
+@ulcerously
+- xem ulcerous
+ @ulcerousness
+- xem ulcerous
+ @ulema
+* dt
+- hiền triết (thành viên đoàn hiền triết pháp quan đạo Ixlam ở các nước Trung Cận Đông) (như) Ulama
+ @ulex  
+*  dt
+- (thực vật học) giống cây kim tước
+
+@uliginal   (uliginose) @uliginose   (uliginose) @uliginous   (uliginose) @ullage  
+*  dt
+- sự thau, sự đổ, sự vét
+- sự vơi
+
++ filling up of the ullage: đổ thêm vào để bù chỗ vơi
+
++ on ullage: (thương nghiệp) lượng hao (vì bốc hơi, bị rò)
+- (từ lóng) cặn
+*  ngdgt
+- thau, tháo bớt, vét đổ
+- đổ thêm để bù chỗ vơi đi
+- xác định phần vơi đi (của một cái thùng)
+
+@ullaged  
+*  tt
+- vơi
+
+@ullmannite
+* dt
+- (địa chất, địa lý) Unmanit
+ @ulmin
+* dt
+- (hoá học) Unmin
+ @ulmus
+* dt
+- cây du
+ @ulna  
+*  dt,  số nhiều ulnae
+- (giải phẫu) xương trụ
+
+@ulnae  
+*  dt,  số nhiều ulnae
+- (giải phẫu) xương trụ
+
+@ulnar  
+*  tt
+- (y học) (thuộc) xương trụ
+
+@ulster  
+*  dt
+- áo choàng untơ (một thứ áo choàng dài rộng)
+
+@ulsterman
+* dt
+- người gốc tỉnh Ulser, người ở tỉnh Ulser
+ @ult.  
+*  dt ((viết tắt) của ultimo)
+- tháng trước
+
++ thank you for your letter of the 10th ult.: cảm ơn anh về thư viết ngày 10 tháng trước của anh
+
+@ult
+* (viết tắt)
+- vào tháng trước (ultimo)
+ @ulterior  
+*  tt
+- về sau; sau, tương lai
+- kín đáo, không nói ra
+
++ an ulterior motive: một lý do không nói ra
+
+@ulterior
+- ở sau, tiếp sau
+ @ulteriorly
+- xem ulterior
+ @ultima  
+*  dt
+- (ngôn ngữ học) âm tiết cuối (của một từ)
+
+@ultimata
+* dt
+- thư cuối, tối hậu thư
+- kết luận cuối cùng
+- nguyên tắc cơ bản, nguyên lý cơ bản
+ @ultimate  
+*  tt
+- cuối cùng, sau cùng, chót
+
++ ultimate aim: mục đích cuối cùng
+
++ ultimate decision: quyết định cuối cùng
+- cơ bản, chủ yếu
+
++ ultimate cause: nguyên nhân cơ bản
+- (từ Mỹ,nghĩa Mỹ) lớn nhất, tối đa
+*  dt
+- (từ Mỹ,nghĩa Mỹ) điểm cuối cùng; kết quả cuối cùng
+- điểm cơ bản; nguyên tắc cơ bản
+
+@ultimate
+- cuối cùng; tới hạn
+ @ultimately  
+*  dt
+- cuối cùng, sau cùng, sau rốt
+
+@ultimatum  
+*  dt
+- thư cuối, tối hậu thư
+- kết luận cuối cùng
+- nguyên tắc cơ bản, nguyên lý cơ bản
+
+@ultimetely
+- tới hạn
+ @ultimo  
+*  dt
+- tháng trước ((viết tắt) ult.)
+
+@ultimogeniture  
+*  dt
+- chế độ con trai út thừa kế
+
+@ultra  
+*  tt
+- cực, cực đoan, quá khích
+*  dt
+- người cực đoan, người quá khích
+
+@ultra vires  
+*  tt & dt
+- (pháp lý) ngoài phạm vi quyền hạn
+
+@ultracentrifugal
+* tt
+- (thuộc) máy siêu ly tâm
+ @ultracentrifugally
+* dt
+- bằng cách dùng máy siêu li tâm
+ @ultracentrifuge
+* dt
+- máy siêu ly tâm
+* ngdgt
+- đưa vào máy siêu ly tâm
+ @ultraconservatism
+- xem ultraconservative
+ @ultraconservative  
+*  tt
+- bảo thủ cực đoan
+
+@ultrafilter
+- (đại số) siêu lọc
+ @ultrafiltrate
+* dt
+- vật liệu siêu lọc
+ @ultrafiltration
+* dt
+- sự lọc qua máy siêu lọc
+ @ultragroup
+- (đại số) siêu nhóm
+ @ultraism  
+*  dt
+- chủ nghĩa cực đoan; quan điểm cực đoan quá khích (về chính trị, tôn giáo)
+
+@ultraist  
+*  dt
+- người cực đoan, người quá khích
+
+@ultraliberal
+* tt
+- tự do cực đoan
+* dt
+- người theo chủ nghĩa tự do cực đoan
+ @ultramarine  
+*  tt
+- bên kia biển, hải ngoại
+
++ the ultramarine countries: các nước hải ngoại
+*  dt
+- màu xanh biếc
+
+@ultramicroscope  
+*  dt
+- kính siêu hiển vi
+
+@ultramicroscopic  
+*  tt
+- siêu hiển vi
+
+@ultramicroscopy
+- xem ultramicroscope
+ @ultramodern  
+*  tt
+- tối tân
+
+@ultramodernism
+- xem ultramodern
+ @ultramodernist
+- xem ultramodern
+ @ultramodernistic
+- xem ultramodern
+ @ultramondane  
+*  tt
+- ở ngoài thế giới, siêu thế giới
+
+@ultramontane  
+*  tt
+- bên kia núi; bên kia núi An-pơ
+- theo chủ trương giáo hoàng có toàn quyền
+*  dt: (ultramontanist) 
+@ultramontanism
+* dt
+- thuyết giáo hoàng nắm quyền tuyệt đối
+ @ultramontanist  
+*  tt
+- bên kia núi; bên kia núi An-pơ
+- theo chủ trương giáo hoàng có toàn quyền
+*  dt: (ultramontanist) 
+@ultramundane
+* tt
+- ở ngoài trái đất; ngoài thái dương hệ
+ @ultranationalism
+* dt
+- chủ nghĩa dân tộc cực đoan
+ @ultranationalist
+* dt
+- người chủ nghĩa dân tộc cực đoan
+ @ultra-rapid  
+*  tt
+- cực nhanh
+
+@ultra-rays
+* dt số nhiều
+- tia vũ trụ
+ @ultra-red
+* tt
+- thuộc siêu âm
+ @ultrasble
+- siêu ổn định
+ @ultra-short  
+*  tt
+- cực ngắn
+
++ ultra-short waves: sóng cực ngắn
+
+@ultrasonic  
+*  tt
+- siêu âm
+
++ ultrasonic waves: sóng siêu âm
+
+@ultrasonic
+- (vật lí) siêu âm
+ @ultrasonically
+- xem ultrasonic
+ @ultrasonics
+* dt số nhiều
+- khoa học về sóng siêu âm, kỹ thuật về sóng siêu âm
+ @ultrasonography
+* dt
+- khoa chẩn đoán bằng siêu âm
+* dt
+- khoa chẩn đoán bằng siêu âm
+ @ultra-sound  
+*  dt
+- siêu âm
+
+@ultrasound
+* dt
+- siêu âm; sóng siêu âm; âm thanh có tần số siêu âm
+ @ultraspherical
+- siêu cầu
+ @ultra-tropical
+* tt
+- ở ngoài nhiệt đới
+ @ultra-violet  
+*  tt
+- cực tím, tử ngoại
+
++ ultra-violet rays: tia cực tím
+
+@ultraviolet
+* tt
+- (vật lý) cực tím, tử ngoại (về bức xạ)
+
++  ultraviolet rays:những tia tử ngoại
+- (thuộc) sự phát quang; sử dụng sự phát quang (của tia cực tím)
+
++  an ultraviolet lamp:đèn tử ngoại
+ @ultra-violet
+- (vật lí) cực tím
+ @ululant
+- xem ululate
+ @ululate  
+*  ndgt
+- tru (chó)
+- tru tréo, la hét (vì đau, vì sợ)
+- gào thét, rú lên (bão)
+
+@ululation  
+*  dt
+- tiếng tru (chó)
+- tiếng tru tréo, tiếng la hét (vì đâu, vì sợ)
+- tiếng gào thét, tiếng rú lên
+
++ the ululation of the storm: tiếng bão rú lên
+
+@ulva
+* dt
+- cây rau diếp, cây diếp dại
+ @ulysses
+* dt
+- Ulixơ (vua đảo Itacơ; thần thoại Hi Lạp)
+ @

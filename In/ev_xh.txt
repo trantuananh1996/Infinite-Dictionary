@@ -1,0 +1,7 @@
+@xhosa
+* dt
+- người Bantu ở Nam Phi
+- ngôn ngữ Bantu
+* tt
+- (thuộc) người Bantu
+ @

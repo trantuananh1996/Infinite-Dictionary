@@ -1,0 +1,47 @@
+@ogam   (ogam) @ogdoad  
+*  dt
+- số tám, bộ tám
+
+@ogee  
+*  tt
+- (kiến trúc) có đường xoi (hình) chữ S
+*  dt
+- đường xoi (hình) chữ S
+- đường (hình) chữ S
+
+@ogham   (ogam) @ogival  
+*  tt
+- có hình cung nhọn
+
+@ogival
+- (kỹ thuật) (thuộc) hình cung nhọn
+ @ogive  
+*  dt
+- hình cung nhọn; vòm hình cung nhọn
+
+@ogive
+- hình cung nhọn
+ @ogle  
+*  dt
+- cái liếc mắt đưa tình
+*  dgt
+- liếc tình, đưa tình, liếc mắt đưa tình
+
+@ogler  
+*  dt
+- người liếc mắt đưa tình
+
+@ogling
+* dt
+- nét thu ba
+ @ogre  
+*  dt
+- yêu tinh, quỷ ăn thịt người (trong truyện dân gian)
+- (nghĩa bóng) người xấu như quỷ, người tàn ác
+
+@ogreish   (ogrish) @ogress  
+*  dt
+- nữ yêu tinh, quỷ cái ăn thịt người
+- (nghĩa bóng) quỷ dạ xoa, con mụ tàn ác
+
+@ogrish   (ogrish) @

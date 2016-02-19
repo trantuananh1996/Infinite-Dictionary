@@ -1,0 +1,1387 @@
+@ci
+- (vt của Channel Islands) các đảo trên biển Măngsơ
+ @cia
+- (vt của Central Intelligence Agency) Cơ quan tình báo trung ương của Hoa kỳ
+ @ciao
+- interj
+- chào!
+ @ciborium
+* dt
+- số nhiều ciboria
+- bình đựng nước thánh
+- tán che ở bàn thờ chính nhà thờ
+ @cicada   (cigala) @cicatrice   (cicatrix) @cicatricial  
+*  tt
+- (thuộc) vết sẹo
+
+@cicatrix   (cicatrix) @cicatrization  
+*  dt
+- sự đóng sẹo, sự lên da non
+
+@cicatrize  
+*  dgt
+- đóng sẹo; lên da non
+
+@cicerone  
+*  dt,  số nhiều ciceroni
+- người dẫn đường, người hướng dẫn (đi tham quan)
+
+@ciceroni  
+*  dt,  số nhiều ciceroni
+- người dẫn đường, người hướng dẫn (đi tham quan)
+
+@ciceronian
+* tt
+- hùng biện
+ @cicisbeo
+* dt
+- người con trai theo đuổi một người đàn bà có chồng
+ @cid
+* (viết tắt)
+- Cục điều tra hình sự Anh quốc (Criminal Investigation Department)
+ @cider   (cyder) @ci-devant
+* dt
+- trước đây
+
++  ci-devant chairman:chủ tịch trước đây
+ @CIF
+- (Econ) Giá, phí bảo hiểm, cước vận chuyển , hay giá đầy đủ của hàng hoá.
+ @cif
+* (viết tắt)
+- chi phí & bảo hiểm & cước phí (Cost & Insurance & Freight)
+ @cig
+* dt
+- (thông tục) điếu thuốc lá
+ @cigala   (cigala) @cigar   (segar) @cigar-case  
+*  dt
+- hộp đựng xì gà
+
+@cigarette  
+*  dt
+- điếu thuốc lá
+
+@cigarette-case  
+*  dt
+- hộp đựng thuốc lá điếu
+
+@cigarette-end  
+*  dt
+- mẩu thuốc lá (hút còn thừa)
+
+@cigarette-holder  
+*  dt
+- bót thuốc lá
+
+@cigarette-lighter
+* dt
+- cái bật lửa
+ @cigarette-paper  
+*  dt
+- giấy thuốc lá
+
+@cigar-holder  
+*  dt
+- bót xì gà
+
+@cigarillo
+* dt
+- số nhiều cigarillos
+- điếu thuốc lá nhỏ hở hai đầu
+ @cigar-maker
+* dt
+- người quấn xì-gà
+ @cigar-shaped  
+*  tt
+- hình xì gà, hình trụ nhọn đầu
+
+@ciggie
+* dt
+- (thông tục) điếu thuốc lá
+ @cilia  
+*  dt số nhiều
+- (giải phẫu) lông mi
+- (sinh vật học) mao
+
+@ciliary  
+*  tt
+- (giải phẫu) có lông mi
+- (sinh vật học) có mao
+
+@ciliate
+* tt
+- (sinh học) có lông rung; có lông mịn; có lông mi
+ @ciliated  
+*  tt
+- (sinh vật học) có mao
+
+@cilice  
+*  dt
+- vải tóc
+- áo vải tóc
+
+@cilium
+* dt (số nhiều là cilia)
+- lông rung (ở tế bào thực vật)
+- lông mi
+ @cillery
+* dt
+- cũng cileri
+- (kiến trúc) trang trí hình lá
+ @cimex
+* dt
+- số nhiều cimices
+- (động vật) con rệp
+ @cimmerian
+* tt
+- tối như bưng
+ @cimmerlan  
+*  tt
+- tối như bưng
+
+@cinabar  
+*  dt
+- (hoá học) thần sa
+- màu son
+
+@cinch  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) nịt, đai da, đai ngựa
+- (thông tục) sự nắm chặt, sự nịt chặt, sự ghì chặt
+
++ to have a cinch on a thing: nắm chặt cái gì
+- (từ lóng) điều chắc chắn, điều xác thực; người chắc thắng, đội chắc thắng
+
++ that's a cinch: đó là một điều chắc chắn
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) nịt, thắng đai (cho ngựa); cột lại, buộc chắc
+- (từ lóng) bảo đảm, chắc chắn
+
+@cinchona  
+*  dt
+- (thực vật học) cây canh-ki-na
+- vỏ canh-ki-na
+
+@cinchonic
+- xem cinchona
+ @cincture  
+*  dt
+- dây lưng, thắt lưng, đai lưng
+- thành luỹ, thành quách (xây quanh) thành phố)
+- (kiến trúc) đường viền (quanh cột)
+*  ngdgt
+- thắt dây lưng, thắt đai lưng (cho ai)
+- bao vây, vây quanh (một thành phố)
+
+@cinder  
+*  dt
+- thanh cháy dở
+- xỉ, than xỉ
+- cứt sắt
+- bọt đá (núi lửa)
+- (số nhiều) tro
+!burnt to a cinder
+- bị cháy sém, cháy đắng (thức ăn)
+*  ngdgt
+- rải than xỉ
+
+@cinder track   (cinder_track) @cinder-box  
+*  dt
+- (kỹ thuật) hộp tro
+
+@cinderella
+* dt
+- tài năng chưa được biết đến
+ @cinder-guard
+* dt
+- tấm chăn tro lửa
+ @cinder-path   (cinder_track) @cinder-sifter  
+*  dt
+- cái sàng than xỉ
+
+@cindery  
+*  tt
+- đầy xỉ, nhiều than xỉ
+- đầy tro, nhiều tro
+
+@cine
+- điện ảnh
+ @cineast  
+*  dt
+- người ham chuộng nghệ thuật điện ảnh
+- người làm phim chiếu bóng
+
+@cineaste
+* dt
+- như cineast
+* dt
+- như cineast
+ @cine-camera  
+*  dt
+- máy quay phim
+
+@cinecamera
+* dt
+- máy quay phim
+ @cine-film  
+*  dt
+- phim xi nê, phim chiếu bóng
+
+@cinema  
+*  dt
+- rạp xi nê, rạp chiếu bóng
+- the cinema điện ảnh, xi nê, phim chiếu bóng
+- nghệ thuật điện ảnh; kỹ thuật điện ảnh
+
+@cinema-circuit
+* dt
+- các rạp chiếu bóng cùng thuộc một chủ
+ @cinemactor  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) tài tử xi nê
+
+@cinemactress  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) nữ tài tử xi nê
+
+@cinemaddict  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người nghiện xi nê, người mê xem chiếu bóng
+
+@cinemadrama
+* dt
+- kịch chiếu phim
+ @cinema-goer  
+*  dt
+- người xem chiếu bóng
+
+@cinemagoer
+* dt
+- người xem chiếu bóng
+ @cinemascope  
+*  dt
+- màn ảnh rộng
+
+@cinematheque
+* dt
+- rạp chiếu bóng chuyên chiếu phim cổ điển và tiền phong
+ @cinematic
+* tt
+- thuộc về điện ảnh
+ @cinematically
+- xem cinema
+ @cinematics  
+*  dt,  số nhiều dùng như số ít
+- nghệ thuật làm phim chiếu bóng
+- quá trình làm phim chiếu bóng
+
+@cinematograph  
+*  dt
+- máy chiếu phim
+*  ngdgt
+- quay phim
+
+@cinematographer
+* dt
+- người chuyên về điện ảnh, Nhà điện ảnh
+ @cinematographic  
+*  tt
+- (thuộc) thuật quay phim
+
+@cinematographically
+- xem cinematography
+ @cinematography  
+*  dt
+- thuật quay phim
+
+@cine-projector
+* dt
+- máy chiếu phim
+ @cinerama
+* dt
+- màn ảnh cực rộng
+ @cineraria  
+*  dt,  số nhiều cineraria
+- nơi để lư đựng tro hoả táng
+
+@cinerarium  
+*  dt,  số nhiều cineraria
+- nơi để lư đựng tro hoả táng
+
+@cinerary  
+*  tt
+- đựng tro tàn
+
++ cinerary urn: lư đựng tro hoả táng
+
+@cinereous  
+*  tt
+- (có) màu xám tro
+
+@cinerescent
+* tt
+- có màu tro; thành màu tro
+ @cineritious
+* tt
+- giống như tro
+ @cingalese  
+*  tt
+- (thuộc) Xơ-ri-lan-ca
+*  dt
+- người Xơ-ri-lan-ca
+- tiếng Xơ-ri-lan-ca
+
+@cingulum
+* dt
+- số nhiều cingula
+- đai, vành
+ @cinnabar
+* dt
+- thủy ngân sulfua (Hgs)
+- màu son
+- một loài bướm đêm có cánh đốm đỏ
+ @cinnamic
+- xem cinnamon
+ @cinnamon  
+*  dt
+- (thực vật học) cây quế
+- màu nâu vàng
+
+@cinqfoil   (cinquefoil) @cinq(ue)
+- (lý thuyết trò chơi) quân bài năm
+ @cinquecento
+* dt
+- thế kỷ XVI ở ý (nổi tiếng về (văn học) (nghệ thuật))
+ @cinquefoil   (cinquefoil) @CIO
+- (Econ) Xem AMERICAN FEDERATION OF LABOUR.
+ @cion
+* dt
+- cũng scion
+- (thực vật) cành ghép; chồi ghép
+ @cipher   (cypher) @cipher
+- (Tech) mật mã; ký hiệu số
+ @cipher
+- số không; ký hiệu chữ số, mà   lập mã, tính bằng chữ số
+@ciphertext
+* dt
+- văn bản viết thành mật mã
+ @circa  
+*  giới từ,  (thường) (viết tắt) c.
+- vào khoảng
+
++ circa 1902: vào khoảng năm 1902
+
+@circadian
+* tt
+- (sinh lý học) xuất hiện khoảng một lần một ngày
+ @circassian
+* dt
+- người Xiêc-cát-xi (ở Cáp-ca)
+- tiếng Xiếc-cát-xi
+ @circe  
+*  dt
+- nữ phù thuỷ (trong tác phẩm Ô-đi-xê của Hô-me)
+
+@circinate  
+*  tt
+- (thực vật học) hình thoa (lá dương xỉ)
+
+@circinately
+- xem circinate
+ @circle  
+*  dt
+- đường tròn, hình tròn
+
++ polar circle: vòng cực
+
++ vicious circle: vòng luẩn quẩn
+- sự tuần hoàn
+
++ the circle of the seasons: sự tuần hoàn của các mùa
+- nhóm, giới
+
++ well informed circle: giới thạo tin
+- sự chạy quanh (ngựa)
+- quỹ đạo (hành tinh)
+- phạm vi
+
++ the circle of someone's activities: phạm vi hoạt động của ai
+- hàng ghế sắp tròn (trong rạp hát)
+!to have circles round the eyes
+- mắt thâm quầng
+!to run round in circles
+- (thông tục) chạy nhông, chạy nhắng lên (mà không được việc gì)
+!to square the circle
+- (xem) square
+*  ngdgt
+- đi chung quanh, xoay quanh
+
++ the moon circles the earth: mặt trăng xoay quanh quả đất
+- vây quanh
+- (thể dục,thể thao) quay lộn
+
++ to circle the bar: quay lộn trên xà đơn
+*  ndgt
+- xoay quanh; lượn tròn, lượn quanh (máy bay)
+- được chuyền quanh (rượu...)
+!news circles round
+- tin truyền đi, tin lan đi
+
+@circle
+- (Tech) vòng tròn; hình tròn
+ @circle diagram
+- (Tech) sơ đồ vòng tròn @circler
+- xem circle
+ @circlet  
+*  dt
+- vòng nhỏ, vòng khuyên, nhẫn, xuyến
+
+@circs  
+*  dt số nhiều
+- (thông tục) (viết tắt) của circumstances
+
+@circuit  
+*  dt
+- chu vi, đường vòng quanh
+
++ the circuit of a town: chu vi thành phố
+- sự đi vòng quanh
+
++ to make a circuit of: đi vòng quanh (cái gì)
+- cuộc kinh lý, cuộc tuần du, cuộc tuần tra (của các quan toà để xét xử); địa phận đi kinh lý
+- (vật lý) mạch
+
++ electric circuit: mạch điện
+- (thể dục,thể thao) vòng đua
+- hệ thống rạp hát, rạp chiếu bóng (cùng chung một ban quản trị)
+- (nghĩa bóng) sự nối tiếp của sự việc...)
+*  ngdgt
+- đi vòng quanh
+
+@circuit
+- (Tech) mạch điện; bản điện
+ @circuit
+- (máy tính) mạch, chu tuyến, sơ đồ, chu trình
+- add c. mạch lấy tổng, mạch cộng
+- “and” c. mạch “và”
+- analogous c. mạch tương tự
+- anticoincidence c. mạch rẽ
+- antihunt (ing) c. sơ đồ chống dao động, so đồ làm ổn định
+- arithmetical c. mạch số học
+- astable c. mạch tự dao động
+- averaging c. mạch lấy trung bình
+- basic c. mạch sơ sở
+- brocken c. mạch gãy
+- commutation c. mạch chuyển, mạch đổi
+- compound c.s mạch đa hợp
+- decoding c. sơ đồ giải mã
+- delay c. mạch làm trễ
+- differentiating c. chu tuyến lấy vi phân
+- diode logical c. sơ đồ lôgic điôt
+- discriminator c. sơ đồ máy phân biệt 
+- display c. sơ đồ báo hiệu
+- divide-by-two c. sơ đồ chia đôi (1:2)
+- doubling c. mạch tăng đôi
+- drive c. sơ đồ đồng bộ hoá
+- dual c. sơ đồ đối ngẫu
+- efficient c. sơ đồ hiệu dụng
+- electric c. mạch điện
+- energizing c. mạch kích thích
+- equivalent c. mạch tương đương
+- error correction c. mạch sửa sai
+- error indicating c. mạch phát hiện sai, mạch chỉ độ sai
+- exciting c. mạch kích thích
+- feedback c. sơ đồ liên hệ
+- forward c. sơ đồ tác dụng thẳng
+- grid c.mạch lưới
+- guard c. sơ đồ bảo vệ
+- halving c. sơ đồ chia đôi
+- high-frequency c. mạch cao tần
+- hold c. mạch cố định, mạch chặn
+- impulse c. mạch xung
+- incomplete c. mạch không đóng
+- inverter c. mạch nghịch đảo
+- linearity c. mạch tuyến tính hoá
+- logical c. mạch lôgic
+- low-order add c. mạch cộng hàng thấp
+- made c. mạch đóng
+- marking c. mạch đánh dấu
+- measuring c. mạch đo
+- memory c. mạch nhớ
+- metering c. mạch đo
+- mixing c. mạch hỗn hợp
+- modulator c. mạch điều phức
+- monitoring c. mạch ổn định đơn (có những trạng thái ổn định và tựa ổn
+- định)
+- multiple c. mạch hội
+- multiple output c. mạch nhiều lối ra
+- multi-stage c. mạch nhiều bước
+- network c. lưới mạch phức tạp, mạch rẽ nhánh
+- “not” c. mạch “không”
+- open ạch mở
+- oscillating c. mạch dao động
+- output c. mạch ra
+- parasitic c. mạch nhiễu loạn
+- passive c. (điều khiển học) mạch bị động
+- phantom c. mạch ma
+- power c.mạch lực
+- primary c. mạch sơ cấp
+- printed c. sơ đồ in
+- protection c. sơ đồ bảo vệ, mạch bảo vệ
+- pulse discrimination c. mạch phân biệt xung
+- pulse memory c. mạch nhớ xung
+- reducible c.s mạch khả quy
+- redundant c. mạch dư, mạch kép
+- reset c. mạch phục hồi
+- rewriting c. mạch ghi lại
+- sampling c. sơ đồ tác dụng đứt đoạn
+- scaling c. mạch đếm gộp
+- secondary c. mạch thứ cấp
+- sequenti al c. sơ đồ trình tự các phép tính
+- shift c. sơ đồ trượt
+- smoothing c. mạch lọc trơn, mạch san bằng
+- squaring c. sơ đồ hình thành các xung vuông góc
+- stabilizing c. chu tuyến ổn định
+- stamped c. sơ đồ dập
+- subtraction c. mạch trừ
+- sweep c. khối quét, mạch quét
+- switching c. [sơ đồ ngắt, sơ đồ đảo] mạch
+- symbolic(al) c. mạch ký hiệu
+- symmetric(al) c. sơ đồ đối xứng
+- synchronizing c. mạch đồng bộ hoá
+- test c. mạch kiểm tra
+- times c. sơ đồ định thời gian
+- typical c. sơ đồ điển hình 
+ @circuit breaker  
+*  dt
+- (điện học) cái ngắt
+
+@circuit breaker
+- (Tech) cái ngắt điện, ngắt mạch
+ @circuit capacitance
+- (Tech) điện dung bản điện
+ @circuit diagram
+- (Tech) giản đồ bản điện
+ @circuit layout
+- (Tech) bản vẽ bản điện
+ @circuit tester
+- (Tech) bộ thử bản điện
+ @circuit theory
+- (Tech) lý thuyết mạch điện
+ @circuit topology
+- (Tech) hình tướng mạch điện, tôpô mạch điện
+ @circuit training
+* dt
+- (thể thao) sự tập luyện một loạt bài thể dục
+ @circuital
+- (thuộc) mạch, chu tuyến, sơ đồ
+ @circuitous  
+*  tt
+- loanh quanh, vòng quanh
+
++ a circuitous route: đường vòng quanh
+
+@circuitously
+* dt
+- loanh quanh, quanh co
+ @circuitousness  
+*  dt
+- sự loanh quanh, sự vòng quanh
+
+@circuit-rider  
+*  dt
+- nhà giảng đạo lưu động (trong một địa phận)
+
+@circuitry
+- (Tech) mạch điện; hệ thống mạch điện
+ @circuity
+- xem circuitous
+ @circulant
+- (thuộc) đường tròn, vòng tròn, vòng quanh
+ @circular  
+*  tt
+- tròn, vòng, vòng quanh
+
++ a circular building: toà nhà hình tròn
+
++ a circular movement: chuyển động vòng
+
++ a circular railway: đường sắt vòng quanh thành phố
+
++ a circular tour (trip): chuyến đi vòng quanh
+
++ a circular tour (trip): chuyến đi vòng quanh
+
++ a circular saw: cưa tròn, cưa đĩa
+!circular letter
+- thông tư, thông tin
+*  dt
+- thông tri, thông tư
+- giấy báo (gửi cho khách hàng)
+
+@circular
+- (Tech) tròn; thuộc vòng tròn
+ @circular aperture
+- (Tech) lỗ tròn
+ @Circular flow of income
+- (Econ) Luồng luân chuyển thu nhập.
+: Luồng tiền thu và chi giữa các hãng và hộ gia đình trong nước.
+ @Circular flow of payments
+- (Econ) Dòng thanh toán luân chuyển.
+ @circular graph
+- (Tech) đồ thị vòng tròn
+ @circular list
+- (Tech) danh sách vòng tròn
+ @circularise   (circularise) @circularity   (circularness) @circularization
+- xem circularize
+ @circularize   (circularise) @circularizer
+- xem circularize
+ @circularly
+- xem circular
+ @circularness   (circularness) @circular-saw
+* dt
+- cưa vòng
+ @circulary
+- tròn, có hình tròn
+ @circulate  
+*  ngdgt
+- lưu hành, truyền, truyền bá
+
++ to circulate news: truyền tin
+*  ndgt
+- lưu thông, luân chuyển, tuần hoàn
+
++ blood circulates in the body: máu lưu thông (tuần hoàn) trong cơ thể
+- lưu hành (tiền)
+- lan truyền
+
++ news circulates quickly: tin lan truyền nhanh chóng
+
+@circulate
+- tuần hoàn, đi vòng quanh chu trình
+ @circulating
+* tt
+- tuần hoàn; lưu thông
+ @circulating capital  
+*  dt
+- vốn luân chuyển
+
+@Circulating capital
+- (Econ) Vốn lưu động.
+: Xem WORRKING CAPITAL.
+ @circulating decimal  
+*  dt
+- số thập phân, tuần hoàn
+
+@circulating library  
+*  dt
+- thư viện cho mượn (cho mượn sách về nhà)
+
+@circulating medium  
+*  dt
+- phương tiện trao đổi (giấy bạc, vàng...)
+
+@circulating memory
+- (Tech) bộ nhớ xoay tròn
+ @circulating storage
+- (Tech) bộ trữ xoay tròn
+ @circulation  
+*  dt
+- sự lưu thông
+
++ the circulation of the blood: sự lưu thông của máu
+- sự lưu hành (tiền tệ
+
++ to put into circulation: cho lưu hành
+
++ to withdraw from circulation: không cho lưu hành, thu hồi
+- tổng số phát hành (báo, tạp chí...)
+- tiền, đồng tiền
+- (toán học) lưu số
+
+@circulation
+- (giải tích) lưu số, lưu thông; sự tuần hoàn, sự lưu truyền
+- goods c.(toán kinh tế) sự lưu chuyển hàng hoá 
+ @circulative
+- xem circulate
+ @circulator  
+*  dt
+- người truyền (tin tức, mầm bệnh...)
+
+@circulator
+- (Tech) bộ xoay tròn
+ @circulatory  
+*  tt
+- lưu thông (máu, nhựa cây)
+
+@circum
+- chung quanh, vòng quanh
+ @circumambience
+- xem circumambient
+ @circumambiency  
+*  dt
+- hoàn cảnh xung quanh, ngoại cảnh
+
+@circumambient  
+*  tt
+- xung quanh (không khí, môi trường...)
+
+@circumambiently
+- xem circumambient
+ @circumambulate  
+*  ngdgt
+- đi vòng quanh, đi xung quanh (vật gì)
+*  ndgt
+- đi dạo, chỗ này, chỗ nọ
+- (nghĩa bóng) nói loanh quanh, nói quanh co
+
+@circumambulation
+- xem circumambulate
+ @circumbiendibus  
+*  dt
+-(đùa cợt) phương pháp vòng quanh
+- lời nói quanh co uẩn khúc
+
+@circumbuccal
+* tt
+- quanh miệng
+ @circumcentre
+- tâm vòng tròn ngoại tiếp
+ @circumcircle  
+*  dt
+- (toán học) vòng ngoại tiếp
+
+@circumcircle
+- (Tech) chu vi, vòng ngoài
+ @circumcirele
+- vòng tròn ngoại tiếp
+ @circumcise  
+*  ngdgt
+- cắt bao quy đầu
+- tẩy rửa (cõi lòng...)
+
+@circumciser
+- xem circumcise
+ @circumcision
+* dt
+- sự cắt bao quy đầu
+ @circumduction  
+*  dt
+- sự xoay quanh trục
+
+@circumference  
+*  dt
+- đường tròn
+- chu vi
+
+@circumference
+- đường tròn, chu vi vòng tròn
+- c. of a sphere đường tròn lớn (của hình cầu)
+ @circumferential  
+*  tt
+- (thuộc) đường tròn
+- (thuộc) chu vi
+
+@circumflex  
+*  dt
+- dấu mũ
+*  tt
+- (thuộc) dấu mũ
+- (giải phẫu) hình dấu mũ, mũ
+
++ circumflex artery: động mạch mũ
+*  ngdgt
+- đánh dấu mũ
+
+@circumflex
+- (Tech) dấu mũ
+ @circumflex
+- dấu mũ
+ @circumflous  
+*  tt
+- (như) circumfluent
+- có nước bao quanh
+
+@circumfluent   (circumflous) @circumfuse  
+*  ngdgt
+- làm lan ra, đổ ra xung quanh
+- bao quanh; làm ngập trong (ánh sáng...)
+
+@circumfusion  
+*  dt
+- sự làm lan ra, sự đổ lan ra
+- sự bao quanh; sự làm ngập trong (ánh sáng...)
+
+@circumgyrate  
+*  ndgt
+- xoay quanh; đi quanh
+
+@circumgyration  
+*  dt
+- sự xoay quanh; sự đi quanh
+
+@circumjacent  
+*  tt
+- ở xung quanh, ở bốn phía
+
+@circumlittoral
+* tt
+- ven vùng biển
+ @circumlocution  
+*  dt
+- lời nói quanh co luẩn quẩn; lời nói uẩn khúc
+- (ngôn ngữ học) ngữ giải thích
+
+@circumlocutorily
+- xem circumlocution
+ @circumlocutory  
+*  tt
+- quanh co luẩn quẩn; uẩn khúc (nói)
+
++ to talk in a circumlocutory style: nói quanh co luẩn quẩn
+- (ngôn ngữ học) có tính chất ngữ giải thích
+
+@circumlunar
+* tt
+- quay quanh mặt trăng
+ @circumnavigate  
+*  ngdgt
+- đi vòng quanh (trái đất...) bằng đường biển
+
+@circumnavigation  
+*  dt
+- sự đi vòng quanh bằng đường biển
+
+@circumnavigator
+- xem circumnavigate
+ @circumneural
+* tt
+- quanh thần kinh
+ @circumnuclear
+* tt
+- quanh hạt nhân
+ @circumnutate
+* ndgt
+- chuyển động vòng; chuyển động xoáy ốc
+ @circumnutation  
+*  dt
+- (thực vật học) sự xoay xoắn ốc
+
+@circumoral
+* tt
+- quanh miệng
+ @circumpolar
+* tt
+- quanh cực (quả đất)
+- thấy ở trên đường chân trời
+
++  a circumpolar star:một ngôi sao thấy ở đường chân trời
+- gần Bắc cực hoặc nam cực
+ @circumscissle
+* tt
+- nứt theo đường vòng
+ @circumscribable
+- xem circumscribe
+ @circumscribe  
+*  ngdgt
+- vẽ đường xung quanh
+- (toán học) vẽ hình ngoại tiếp
+- giới hạn, hạn chế ((nghĩa đen) & (nghĩa bóng))
+
++ to circumscribe someone's interests: hạn chế quyền lợi của ai
+- ký theo vòng tròn (bán kiến nghị)
+- định nghĩa
+
+@circumscriber
+- xem circumscribe
+ @circumscription  
+*  dt
+- (toán học) sự vẽ hình ngoại tiếp
+- sự định giới hạn, sự hạn chế
+- giới hạn
+- khu vực địa hạt (hành chính)
+- hàng chữ khắc trên đường vòng (quanh đồng tiền, con dấu...)
+- định nghĩa
+
+@circumscriptive
+- xem circumscription
+ @circumscriptively
+- xem circumscription
+ @circumsision  
+*  dt
+- sự cắt bao quy đầu; lễ cắt bao quy đầu
+- the circumsision (kinh thánh) những người Do-thái
+
+@circumsolar  
+*  tt
+- xoay quanh mặt trời
+- gần mặt trời
+
+@circumspect  
+*  tt
+- thận trọng
+
+@circumspection   (circumspection) @circumspectly
+* dt
+- dè dặt, thận trọng
+ @circumspectness   (circumspection) @circumsphere
+- mặt cầu ngoại tiếp
+ @circumstance  
+*  dt số nhiều
+- hoàn cảnh, trường hợp, tình huống
+
++ under (in) the present circumstances: trong hoàn cảnh hiện tại
+
++ under (in) no circumstances: dù trong hoàn cảnh nào cũng không bao giờ
+
++ to live in narrow circumstances: sống thiếu thốn nghèo túng
+
++ in easy (good, flourishing) circumstances: trong hoàn cảnh sung túc phong lưu
+
++ in bad (straitened) circumstances: trong hoàn cảnh thiếu thốn túng quẫn
+- sự kiện, sự việc, chi tiết
+
++ to tell a story without omitting a single circumstance: kể câu chuyện không bỏ sót một chi tiết nào
+- nghi thức, nghi lễ
+
++ to receive someone with pomp and circumstance: tiếp đón ai (với nghi thức) rất trọng thể
+!to be behind hand in one's circumstances
+- túng thiếu, thiếu tiền
+!circumstances alter cases
+- tất cả đề chỉ do hoàn cảnh tạo ra cả; có tội lỗi chẳng qua cũng chỉ vì hoàn cảnh xui nên
+
++ not a circumstance to: (từ Mỹ,nghĩa Mỹ),  (từ lóng) không thể so sánh với, không ra cái gì khi đem so sánh với
+
+@circumstantial  
+*  tt
+- tường tận, chi tiết
+
++ a circumstantial repeort: bản báo cáo chi tiết
+- (pháp lý) gián tiếp; dựa vào những chi tiết phụ; do suy diễn
+
++ circumstantial evidence: chứng cớ gián tiếp
+- (thuộc) hoàn cảnh, (thuộc) trường hợp, (thuộc) tình huống; do hoàn cảnh; tuỳ theo hoàn cảnh
+- xảy ra bất ngờ
+
+@circumstantiality  
+*  dt
+- sự phong phú về chi tiết
+
+@circumstantially  
+*  dt
+- với nhiều chi tiết, tường tận
+
+@circumstantiate  
+*  ngdgt
+- xác minh bằng những chi tiết
+- tả chi tiết, nói chi tiết, cho chi tiết
+
+@circumstantiation
+- xem circumstantiate
+ @circumstellar
+* tt
+- ở cạnh một ngôi sao
+ @circumvallate  
+*  ngdgt
+- (sử học) xây đắp thành luỹ xung quanh (doanh trại...)
+
+@circumvallation  
+*  dt
+- (sử học) sự xây đắp thành luỹ xung quanh (doanh trại...)
+
+@circumvascular
+* tt
+- (sinh học) quanh mạch
+ @circumvent  
+*  ngdgt
+- dùng mưu để lừa; dùng mưu kế để lung lạc (ai)
+- phá vỡ, làm hỏng (kế hoạch của ai...)
+
+@circumventer
+- xem circumvent
+ @circumvention  
+*  dt
+- sự dùng mưu để lừa; sự dùng mưu kế để lung lạc (ai)
+- sự phá vỡ (kế hoạch, mưu kế của ai...)
+
+@circumventive
+- xem circumvent
+ @circumventor
+- xem circumvent
+ @circumvolution  
+*  dt
+- sự cuộn tròn, sự xoay quanh
+- nếp, cuộn
+
++ the circumvolution s of the brain: nếp cuộn của não
+- sự đi quanh co
+
+@circus  
+*  dt
+- rạp xiếc
+- gánh xiếc
+- chỗ nhiều đường gặp nhau
+- tiếng huyên náo, trò chơi ồn ào
+- trường đấu, trường du hí (ở cổ La-mã)
+- (địa lý,địa chất) đai vòng
+
+@circusy
+- xem circus
+ @cirele
+- vòng tròn, đường tròn, hình tròn c. at infinity vòng ở vô tận,
+ @cirque  
+*  dt
+- (thơ ca) trường đua, trường đấu
+- (địa lý,địa chất) đài vòng
+
+@cirrate
+* tt
+- (sinh học) có tua cuốn; có lông gai
+ @cirrhosis  
+*  dt
+- (y học) bệnh xơ gan
+
+@cirrhotic
+- xem cirrhosis
+ @cirri  
+*  dt,  số nhiều cirri
+- (thực vật học) tua cuốn
+- (động vật học) lông gai
+- (khí tượng) mây ti
+
+@cirriferous  
+*  tt
+- (thực vật học) có tua cuốn
+- (động vật học) có lông gai
+
+@cirriform  
+*  tt
+- hình tua cuốn
+- hình lông gai
+
+@cirriped   (cirripede) @cirripede   (cirripede) @cirro-cumulus  
+*  dt
+- mây ti tích
+
+@cirrose   (cirrous) @cirro-stratus  
+*  dt
+- mây ti tầng
+
+@cirrous   (cirrous) @cirrus  
+*  dt,  số nhiều cirri
+- (thực vật học) tua cuốn
+- (động vật học) lông gai
+- (khí tượng) mây ti
+
+@cisalpine
+* tt
+- ở phía nam của dãy Alps
+ @cisatlantic
+* tt
+- phía châu Âu của Đại-tây-dương
+ @cisc
+- máy tính có tập lệnh phức hợp
+ @CISC (Complex Instruction Set Computer)
+- (Tech) CISC (Máy Điện Toán dùng Bộ Chỉ Thị Phức Tạp)
+ @cislunar
+* tt
+- nằm giữa quả đất và mặt trăng
+
++  cislunar space:không gian giữa quả đất và mặt trăng
+ @cissoid  
+*  dt
+- (toán học) đường xixôit
+
+@cissoid
+- xixôit (đồ thị của y (2x-x)
++ x ) 
+ @cissy   (sissy) @cist  
+*  dt
+- mộ (đá, thân cây khoét, thời tiền sử)
+- hòm đựng đồ thánh
+
+@cistercian
+* dt
+- cha cố thuộc dòng Xitô (Robert Citeaux)
+ @cistern  
+*  dt
+- thùng chứa nước, bể chứa nước (ở trên nóc nhà)
+- bể chứa, bình chứa
+
++ the cistern of a barometer: bình (chứa) thuỷ ngân của phong vũ biểu
+
+@cisterna
+* dt
+- số nhiều cisternae
+- (sinh học) túi đựng dịch
+
++  cisterna chyle:túi nhũ trấp
+ @cisternal
+- xem cistern
+ @cistron
+* dt
+- (sinh học) xitron (gen, đơn vị di truyền chức năng)
+ @cit  
+*  dt
+- người dân thành thị
+- (từ lóng) thường dân, người thường (trái với quân đội)
+!officers in cits
+- (từ Mỹ,nghĩa Mỹ) sĩ quan mặc thường phục
+
+@citable
+- xem cite
+ @citadel  
+*  dt
+- thành luỹ, thành quách, thành trì
+- chỗ ẩn tránh cuối cùng, chỗ ẩn náu cuối cùng (trong lúc nguy nan), thành luỹ cuối cùng
+
+@citation  
+*  dt
+- sự dẫn, sự trích dẫn
+- câu trích dẫn, đoạn trích dẫn
+- (pháp lý) trát đòi hầu toà
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) sự biểu dương, sự tuyên dương
+
+@citational
+- xem citation
+ @citatory
+- xem citation
+ @cite  
+*  ngdgt
+- dẫn, trích dẫn
+
++ to someone's words: dẫn lời nói của ai
+- (pháp lý) đòi ra toà
+
++ to cite someone before a court: đòi ai ra trước toà
+- nêu gương
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) biểu dương, tuyên dương
+
+@cithara
+* dt
+- đàn xi-ta; đàn thập lục
+ @cither(n)
+* dt
+- đàn xít
+ @citified  
+*  tt
+- có bộ tịch thành thị, có vẻ người thành thị
+
+@citizen  
+*  dt
+- người dân thành thị
+- công dân, dân
+- (từ Mỹ,nghĩa Mỹ) người thường dân (trái với quân đội)
+!citizen of the world
+- công dân thế giới, người theo chủ nghĩa siêu quốc gia
+
+@citizenly
+- xem citizen
+ @citizenry
+* dt
+- toàn thể công dân
+ @citizen's arrest
+- sự bắt giữ do thường dân thực hiện
+ @citizens band
+- băng tần thường dân (để lái xe có thể liên hệ với nhau trong khoảng
+ @citizen's radio band
+- (Tech) băng tần dân dụng
+ @citizenship  
+*  dt
+- tư cách công dân
+- quyền công dân
+- bổn phận công dân
+
+@citral
+* dt
+- (hoá học) xitrala
+ @citrate
+* dt
+- một loại muối của axit citric
+ @citric  
+*  tt
+- (hoá học) xitric
+
++ citric acid: axit xitric
+
+@citric acid
+* dt
+- (hóa) axitxitric
+ @citriculture
+* dt
+- nghề trồng chanh, cam quýt
+ @citrine  
+*  tt
+- màu vỏ chanh
+*  dt
+- (khoáng chất) Xitrin
+
+@citron  
+*  dt
+- (thực vật học) cây thanh yên
+- quả thanh yên
+- màu vỏ chanh ((cũng) citron colour)
+
+@citronella  
+*  dt
+- (thực vật học) cây xả
+- dầu xả
+
+@citrus  
+*  dt
+- (thực vật học) giống cam quít
+
+@city  
+*  dt
+- thành phố, thành thị, đô thị
+- dân thành thị
+- (the City) trung tâm thương nghiệp và tài chính thành phố Luân-đôn
+- (định ngữ) (thuộc) thành phố
+- (City) (định ngữ) a City man người kinh doanh,  a City article bài báo bàn về tài chính và thương nghiệp,  City editor người biên tập phụ trách tin tức về tài chính (trong một tờ báo)
+!Celestial City
+!Heavenly City
+!City of God
+- thiên đường
+!city state
+- thành phố độc lập và có chủ quyền (như một nước)
+
+@city editor
+- (anh) nhà báo chịu trách nhiệm về tin tức tài chính (trên một tờ báo)
+- (Mỹ) nhà báo chịu trách nhiệm  về tin tức địa phương
+ @city hall
+- tòa thị chính thành phố lớn
+ @city-father
+* dt
+- người cha của đô thị (người có uy tín rất lớn trong đô thị)
+ @city-hall
+* dt
+- toà thị chính của thành phố; cơ quan quản lý thành phố
+ @city-manager
+* dt
+- ủy viên hội đồng thành phố lo quản lý thành phố
+ @city-planning
+* dt
+- việc kế hoạch hoá thành phố  @city-scape
+* dt
+- quang cảnh thành phố @city-state
+- thành quốc
+ @civet  
+*  dt
+- (động vật học) con cầy hương ((cũng) civet cat)
+- chất xạ hương
+
+@civic  
+*  tt
+- (thuộc) công dân
+
++ civic rights: quyền công dân
+
++ civic duty: bổn phận công dân
+!civic guard
+- cảnh sát (ở Ai-len)
+
+@civics
+* dt
+- khoa nghiên cứu quyền lợi và bổn phận công dân
+ @civil  
+*  tt
+- (thuộc) công dân
+
++ civil rights: quyền công dân
+- (thuộc) thường dân (trái với quân đội)
+- (thuộc) bên đời (trái với bên đạo)
+
++ civil marriage: cuộc kết hôn không theo lễ nghi tôn giáo
+- (pháp lý) hộ (thuộc) dân sự (trái với hình)
+
++ civil law: luật hộ, luật dân sự
+- lễ phép, lễ độ, lịch sự
+- thường
+
++ civil day: ngày thường (trái với ngày thiên văn)
+!Civil Defence
+- tổ chức phòng không nhân dân
+!civil disobedience
+- (Ân) phong trào chống thuế, chống luật pháp
+!civil list
+- tiền nghị viện cấp cho nhà vua Anh
+!to keep a civil tongue in one's head
+- giữ lễ phép, giữ lễ độ
+
+@civil marriage
+- hôn nhân theo thủ tục bên đời (không có lễ tôn giáo)
+ @civil rights  
+*  dt (từ Mỹ,nghĩa Mỹ)
+- quyền tự do cá nhân (cho một cá nhân hay một nhóm thiểu số)
+- quyền bình đẳng cho người da đen
+- quyền công dân
+
+@civil servant  
+*  dt
+- công chức
+
+@civil service  
+*  dt
+- ngành dân chính
+- công chức ngành dân chính
+- phương pháp tuyển dụng công chức (qua kỳ thi)
+
+@civil war  
+*  dt
+- nội chiến
+
+@civilian  
+*  dt
+- người thường, thường dân
+*  tt
+- (thuộc) thường dân (trái với quân đội)
+
++ civilian clothes: quần áo thường
+
++ civilian population: thường dân
+
+@civilianization
+- xem civilianize
+ @civilianize  
+*  ngdgt
+- dân sự hoá
+
+@civilisation
+* dt
+- sự làm cho văn minh, sự khai hoá
+- nền văn minh
+- những nước văn minh, những dân tộc văn minh
+ @civilise   (civilise) @civility  
+*  dt
+- sự lễ độ, phép lịch sự
+
+@civilizable  
+*  tt
+- có thể khai hoá, có thể làm cho văn minh
+
+@civilization  
+*  dt
+- sự làm cho văn minh, sự khai hoá
+- nền văn minh
+
++ the civilization of mankind: nền văn minh của loài người
+- những nước văn minh, những dân tộc văn minh
+
+@civilize   (civilise) @civilized
+* tt
+- văn minh
+- khai hoá
+- lễ phép; lịch sự
+ @civilizer  
+*  dt
+- người truyền bá văn minh, người khai hoá
+
+@civil-law
+- luật dân sự, luật hộ
+ @civilly
+* dt
+- lịch sự, nhã nhặn
+ @civil-spoken  
+*  tt
+- lịch sự, phong nhã, nhã nhặn, có lễ độ (ăn nói)
+
+@civvy   (civvy) @civy   (civvy) @

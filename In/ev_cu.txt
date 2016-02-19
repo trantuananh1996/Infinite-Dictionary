@@ -1,0 +1,2520 @@
+@cua
+- giao diện CUA (một tiêu chuẩn về giao diện cho các chương trình ứng dụng)
+ @cuadrilla
+* dt
+- (sinh học) nhóm đấu sĩ đấu bò
+ @cub  
+*  dt
+- con thú con (hổ, sư tử, sói, gấu, cáo...)
+- đứa trẻ mất dạy ((thường) unlicked cub)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) anh phóng viên mới vào nghề ((cũng) cub reperter)
+- sói con (hướng đạo)
+*  dgt
+- đẻ, đẻ con (chó sói, cáo...)
+- săn cáo
+
+@cubage   (cubature) @cubage
+- phép tìm thể tích
+ @cuban  
+*  tt
+- (thuộc) Cu-ba
+*  dt
+- người Cu-ba
+
+@cubature   (cubature) @cubature
+- phép tìm thể tích
+ @cubbing  
+*  dt
+- sự đi săn cáo
+
+@cubbish  
+*  tt
+- lỗ mãng, thô tục
+- vụng về
+
+@cubby  
+*  dt
+- chỗ kín đáo, chỗ ấm cúng ((thường) cubby hole)
+
+@cube  
+*  dt
+- (toán học) hình lập phương, hình khối
+- luỹ thừa ba
+!cube root
+- (toán học) căn bậc ba
+*  ngdgt
+- (toán học) lên tam thừa
+- (toán học) đo thể tích
+- lát bằng gạch hình khối
+- thái thành hình khối, thái hạt lựu (cà rốt...)
+
+@cube
+- (Tech) hình lập phương, hình khối; lũy thừa bậc ba
+ @cube
+- hình lập phương; luỹ thừa bậc ba || tính thể tích; nâng lên bậc ba
+- c. of a number luỹ thừa ba của một số
+- half open c. lập phương nửa mở
+ @cubeb
+* dt
+- (thực vật) cây tiêu thuốc
+ @cuber
+- xem cube
+ @cub-hunting
+* dt
+- việc đi săn cáo
+ @cubic  
+*  tt: (cubical) 
+@Cubic
+- (Econ) Lập phương
+: Phương trình lập phương là phương trình mà trong đó số mũ cao nhất của BIẾN ĐỘC LẬP là 3 (có nghĩa là lập phương của nó).
+ @cubic
+- bậc ba; phương trình bậc ba; đường bậc ba, cubic
+- bipartile c. đường bậc ba tách đôi hai nhánh (y 
++ x (x-a) (x-b) 0 &lt; a &lt; b)
+- discriminating c. phương trình đặc trưng của mặt bậc ba
+- equianharmonic c. đường bậc ba đẳng phi điều
+- harmonic c. đường điều hoà bậc ba
+- nodal c. cubic có nút
+- osculating c. cubic mật tiếp
+- twisted c. cubic xoắn
+- two-cireuited c. cubic hai mạch
+ @cubic conductance
+- (Tech) dẫn điện khối
+ @cubic distortion
+- (Tech) biến dạng hình học
+ @cubic lattice
+- (Tech) mạng lập phương
+ @cubic resistance
+- (Tech) điện trở thể tích
+ @cubical  
+*  tt: (cubical) 
+@cubic(al)
+- (Tech) thuộc hình lập phương; hình khối, cubic
+ @cubical
+- (thuộc) cubic
+ @cubically
+- xem cubical
+ @cubicalness
+- xem cubical
+ @cubicle  
+*  dt
+- phòng ngủ nhỏ (ở bệnh viên, trường học...)
+
+@cubicly
+- xem cubic
+ @cubiform  
+*  tt
+- có hình khối, có hình lập phương
+
+@cubism  
+*  dt
+- (hội họa) xu hướng lập thể
+
+@cubist  
+*  dt
+- hoạ sĩ lập thể
+
+@cubistic
+- xem cubism
+ @cubistically
+- xem cubism
+ @cubit  
+*  dt
+- Cubit (đơn vị đo chiều dài ngày xưa bằng 45cm72)
+
+@cubital  
+*  tt
+- (giải phẫu) (thuộc) xương trụ
+
+@cubitus
+* dt
+- xương trụ; gân trụ cánh (côn trùng)
+ @cuboid  
+*  tt
+- tựa hình khối
+*  dt
+- (toán học) Cuboit
+- (giải phẫu) xương hộp
+
+@cuboid
+- phỏng lập phương, hình hộp phẳng
+ @cuboidal
+- xem cuboid
+ @cub-scout
+* dt
+- sói con (hướng đạo)
+ @cuckhold
+* ngdgt
+- cắm sừng chồng
+ @cuckholdry
+* dt
+- việc cắm sừng chồng
+ @cuckold  
+*  dt
+- anh chồng bị cắm sừng
+*  ngdgt
+- cắm sừng
+
+@cuckoo  
+*  dt
+- (động vật học) chim cu cu
+- chàng ngốc
+*  ndgt
+- gáy cu cu
+*  tt
+- (từ lóng) điên điên, gàn gàn
+
+@cuckoo clock  
+*  dt
+- đồng hồ đánh chuông như tiếng chim cu cu
+
+@cuckoo-pint  
+*  dt
+- (thực vật học) cây chân bê
+
+@cucullate
+* tt, như cucullated
+- (thực vật) có dạng mũ, dạng nắp
+
++  a leaf cucullate:lá có dạng mũ
+ @cucullus
+* dt
+- (thực vật) mũ; nắp
+ @cucumber  
+*  dt
+- (thực vật học) cây dưa chuột
+- quả dưa chuột
+!as cool as a cucumber
+- (xem) cool
+
+@cucumiform
+* tt
+- hình quả dưa chuột
+ @cucumis
+* dt
+- (thực vật) giống dưa chuột
+ @cucummiform  
+*  tt
+- hình quả dưa chuột
+
+@cucurbit  
+*  dt
+- (thực vật học) loại cây bầu bí
+
+@cucurbitaceous  
+*  tt
+- (thực vật học) (thuộc) họ bầu bí
+
+@cud  
+*  dt
+- thức ăn nhai lại (động vật nhai lại)
+
++ to chew the cud: nhai lại; (nghĩa bóng) nghiền ngẫm, ngẫm nghĩ
+- (thông tục) mồi thuốc lá nhai; miếng trầu
+
+@cudbear
+* dt
+- (thực vật) địa y nhuộm (cây, bột)
+ @cudden
+* dt
+- chàng ngốc
+ @cuddle  
+*  dt
+- sự ôm ấp, sự âu yếm, sự vuốt ve
+*  ngdgt
+- ôm ấp, nâng niu, âu yếm, vuốt ve
+*  ndgt
+- cuộn mình, thu mình
+
++ to cuddle up under a blanket: cuộn mình trong chăn
+- ôm ấp nhau, âu yếm nhau
+
+@cuddlesome
+* tt
+- thích được vuốt ve
+ @cuddly
+- xem cuddle
+ @cuddy
+* dt
+- phòng con
+- khoang đầu thuyền
+- tủ
+ @cudgel  
+*  dt
+- dùi cui, gậy tày
+!to take up the cudgels for somebody
+- che chở ai, bảo vệ ai
+*  ngdgt
+- đánh bằng dùi cui, đánh bằng gậy tày
+!to cudgel one's brains
+- (xem) brain
+
+@cudweed
+* dt
+- (thực vật) rau khúc
+ @cue  
+*  dt
+- (sân khấu) vĩ bạch (tiếng cuối cùng của một diễn viên dùng để nhắc diễn viên khác nói, làm động tác hoặc ra sân khấu)
+- sự gợi ý, sự ra hiệu; lời nói bóng, lời ám chỉ; ám hiệu
+
++ to give someone the cue: nhắc ai, ra hiệu cho ai, nói bóng với ai
+
++ to take one's cue from aomebody: theo sự ra hiệu của ai mà làm theo
+- (điện ảnh) lời chú thích
+- (rađiô) tín hiệu
+- vai tuồng (được nhắc ra sân khấu)
+- cách xử lý thích hợp; hành động thích hơn
+- (thông tục) tâm trạng
+
++ to be not in the cue for reading: không thấy hứng đọc sách
+*  dt
+- gậy chơi bi-a
+- tóc đuôi sam
+
+@cue
+- (Tech) tín hiệu báo, dấu hiệu; lệnh gọi; đề tựa
+ @cue sheath
+- (Tech) biển báo
+ @cue-ball
+* dt
+- hòn bi-a bị gậy bi-a đẩy
+ @cueing
+- (Tech) đề tựa; điều khiển, điều bộ; ghi âm cao tốc
+ @cueist  
+*  dt
+- người chơi bi-a
+
+@cuesta
+* dt
+- ngọn đồi một bên thoai thoải một bên dốc
+ @cuff  
+*  dt
+- cổ tay áo (sơ mi, vét); cổ tay áo giả
+- (từ Mỹ,nghĩa Mỹ) gấu vén lên, gấu lơ-vê (quần)
+!on the cuff
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cho vay, cho chịu
+- không mất tiền, không phải trả tiền
+*  dt
+- cái tát, cái bạt tai
+- cú đấm, cú thoi, quả thụi
+!to fall (go) to cuffs
+- dở đấm dở đá với nhau
+*  ngdgt
+- tát, bạt tai
+- đấm, thoi, thụi
+
+@cuff-link  
+*  dt
+- khuy măng sét
+
+@cuirass  
+*  dt
+- áo giáp
+- yếm (phụ nữ)
+
+@cuirassier  
+*  dt
+- kỵ binh mặc giáp
+
+@cuish   (cuish) @cuisine  
+*  dt
+- cách nấu nướng
+
+@cuisse   (cuish) @cuittle
+* ngdgt
+- nói khoác để lừa bịp
+ @cul-de-sac  
+*  dt
+- phố cụt, ngõ cụt
+- bước đường cùng; đường không lối thoát
+- (giải phẫu) túi cùng
+
+@culet
+* dt
+- mặt sau của viên ngọc để gắn vào đồ trang sức
+- phần áo giáp che từ bụng trở xuống
+ @culex
+* dt
+- (động vật) muỗi vằn; muỗi cu lếch
+ @culinary  
+*  tt
+- (thuộc) nấu nướng, (thuộc) việc bếp núc
+- xào nấu được (rau)
+
+@cull  
+*  ngdgt
+- lựa chọn, chọn lọc
+
++ extracts culled from the best authors: những đoạn trích được chọn lọc của các tác giả hay nhất
+- hái (hoa...)
+*  dt
+- súc vật loại ra để thịt
+
+@cullender   (colander) @culler
+- xem cull
+ @cullet  
+*  dt
+- thuỷ tinh vụn (để nấu lại)
+
+@cullion
+* dt
+- (thông tục) đồ hèn hạ
+ @cullis
+* dt
+- (kiến trúc) vữa lòng
+* dtước hầm thịt
+- máng nước mưa
+ @cully  
+*  dt
+- (từ lóng) anh chàng ngốc
+- bạn thân
+
+@culm  
+*  dt
+- bụi than đá
+- cọng (cỏ, rơm)
+
+@culmen
+* dt
+- đỉnh (núi), đỉnh chót vót
+- (sinh học) đường sống mỏ
+ @culminal
+* tt
+- ở trên đỉnh, thuộc đỉnh
+ @culminant  
+*  tt
+- cao nhất, tột độ, tột bậc
+- (thiên văn học) qua đường kinh (thiên thể...)
+
+@culminate  
+*  ndgt
+- lên đến cực điểm, lên đến tột độ, lên đến tột bậc
+- (thiên văn học) qua đường kinh (thiên thể...)
+
+@culminate
+- đạt (qua) đỉnh cao nhất
+ @culmination  
+*  dt
+- điểm cao nhất, cực điểm, tột độ, tột bậc
+- (thiên văn học) qua đường kinh (thiên thể...)
+
+@culmination
+- điểm cao nhất
+ @culottes
+* dt
+- quần sooc rộng
+ @culpa
+* dt
+- tội lỗi; sai lầm
+ @culpability   (culpableness) @culpable  
+*  tt
+- đáng khiển trách; có tội; tội lỗi
+
+@culpableness   (culpableness) @culpably
+* dt
+- đáng trách
+ @culprit  
+*  dt
+- kẻ có tội; thủ phạm
+
++ chief culprit: kẻ có tội chính, thủ phạm
+- bị cáo
+
+@cult  
+*  dt
+- sự thờ cúng, sự cúng bái
+- sự tôn sùng, sự tôn kính, sự sùng bái; sự sính
+
++ the cult of the individual: sự sùng bái cá nhân
+
++ the cult of the monocle: sự sính đeo kính một mắt
+- (từ Mỹ,nghĩa Mỹ) giáo phái
+
+@cultic
+- xem cult
+ @cultiform
+* tt
+- dạng dao
+ @cultillus
+* dt
+- lưỡi dao
+ @cultish
+- xem cult
+ @cultism
+- xem cult
+ @cultist
+- xem cult
+ @cultivability
+- xem cultivable
+ @cultivable
+* tt
+- có thể trồng trọt, có thể canh tác
+ @cultivar
+* dt
+- cây trồng
+ @cultivatable
+- xem cultivate
+ @cultivate  
+*  ngdgt
+- cày cấy, trồng trọt
+- trau dồi, tu dưỡng (trí tuệ...)
+
++ to cultivate the mind: trau dồi trí tuệ
+- chuyên tâm, mài miệt nghiên cứu, ham mê (nghệ thuật, khoa học...)
+- nuôi dưỡng (tình cảm... đối với ai)
+- xới (đất) bằng máy xới
+
+@cultivated  
+*  tt
+- có trồng trọt, có cày cấy (đất...)
+- có học thức; có trau dồi, có tu dưỡng
+
+@cultivation  
+*  dt
+- sự cày cấy, sự trồng trọt
+
++ land under cultivation: đất đai đang được trồng trọt
+
++ extensive cultivation: quảng canh
+
++ intensive cultivation: thâm canh
+- sự dạy dỗ, sự mở mang, sự giáo hoá; sự trau dồi, sự tu dưỡng, sự nuôi dưỡng, sự bồi dưỡng (tình cảm...)
+
+@cultivator  
+*  dt
+- người làm ruộng, người trồng trọt ((cũng) culturist)
+- (nông nghiệp) máy xới
+
+@cultural  
+*  tt
+- (thuộc) văn hoá
+
++ cultural exchange: sự trao đổi văn hoá
+
++ cultural standard: trình độ văn hoá
+- (thuộc) trồng trọt
+
+@Cultural change
+- (Econ) Sự thay đổi văn hoá
+: Một trong những phê phán về các loại hình phát triển kinh tế là nó phá huỷ nền văn hoá bản địa. Nhưng sự thay đổi công nghệ và PHÁT TRIỂN KINH TẾ có thể đạt được mà không cần tới thay đổi văn hoá cơ bản.
+ @culturally
+* dt
+- về phương diện văn hoá
+ @culture  
+*  dt
+- sự mở mang, sự tu dưỡng, sự trao đổi
+
++ the culture of the mind: sự mở mang trí tuệ
+
++ physical culture: thể dục
+- sự giáo dục, sự giáo hoá
+- văn hoá, văn minh
+- sự trồng trọt
+- sự nuôi (tằm, ong, cá, sò...)
+- sự cấy (vi khuẩn); số lượng vi khuẩn cấy; mẻ cấy vi khuẩn
+
++ the culture of cholera germs: sự cấy vi trùng bệnh tả; mẻ cấy vi trùng bệnh tả
+*  ngdgt
+- cày cấy, trồng trọt
+- nuôi (tằm, ong...)
+- cấy (vi khuẩn)
+- tu dưỡng, trau dồi
+- giáo hoá, mở mang
+
+@Culture of poverty hypothesis
+- (Econ) Giả thuyết về văn hoá nghèo khổ
+: Xem FEEDBACK @culture shock
+* dt
+- cú sốc văn hoá
+ @culture vulture
+* dt
+- người ao ước có được văn hoá
+ @cultured  
+*  tt
+- có học thức
+- có giáo dục, có văn hoá
+
+@culturist  
+*  dt
+- người làm ruộng, người trồng trọt ((cũng) cultivator)
+- người thiết tha với văn hoá
+
+@culturology
+* dt
+- văn hoá học
+ @cultus
+* dt
+- phần nghi lễ trong tôn giáo, việc thờ cúng
+ @culver  
+*  dt
+- (động vật học) bồ câu rừng lông xám (Châu-Âu)
+
+@culverin
+* dt
+- (lịch sử) súng thần công
+ @culvert  
+*  dt
+- cống nước
+- ống dây điện ngầm
+
+@cum  
+*  giới từ
+- với, kể cả
+
++ cum dividend: kể cả tiền lời cổ phần
+
+@cumber  
+*  dt
+- sự làm trở ngại
+- vật để ngổn ngang choán chỗ
+*  ngdgt
+- làm trở ngại, làm vướng, gây cản trở
+- để ngổn ngang, chồng chất lên
+
+@cumberer
+- xem cumber
+ @cumbersome   (cumbrous) @cumbersomely
+- xem cumbersome
+ @cumbersomeness  
+*  dt
+- sự ngổn ngang, sự cồng kềnh, sự làm vướng
+- tính nặng nề
+
+@cumbrous   (cumbrous) @cumbrously
+- xem cumbrous
+ @cumbrousness
+- xem cumbrous
+ @cumin   (cummin) @cummer  
+*  dt
+- (Ê-cốt) mẹ đỡ đầu
+- bạn gái
+- đàn bà, con gái
+
+@cummerbund  
+*  dt
+- (Anh-Ân) khăn thắt lưng
+
+@cummin   (cummin) @cummingtonite
+* dt
+- (khoáng chất) cumingtonit
+ @cumquat  
+*  dt
+- quả kim quất
+- (thực vật học) cây kim quất
+
+@cumshaw
+* dt
+- quà tặng
+ @cumulant
+- nửa bất biến
+- factorial c. nửa bất biến giai thừa 
+ @cumulate  
+*  tt
+- chất chứa, dồn lại
+*  dgt
+- chất chứa, dồn lại, tích luỹ
+
+@cumulate
+- tích luỹ
+ @cumulation  
+*  dt
+- sự chất chứa, sự dồn lại, sự tích luỹ
+
+@cumulation
+- (Tech) tích lũy [d]
+ @cumulation
+- sự tích luỹ
+ @cumulative  
+*  tt
+- luỹ tích, dồn lại, chồng chất mãi lên
+
++ cumulative evidence: chứng cớ luỹ tích
+
+@cumulative
+- (Tech) tích lũy, chồng chất
+ @cumulative
+- tích luỹ, được tích luỹ
+ @Cumulative causation model
+- (Econ) Mô hình nhân quả tích luỹ
+: Một phương pháp phân tích tăng trưởng kinh tế khu vực do G.MYRDAL đưa ra. Mô hình này cho rằng các lực lượng thị trường có khuynh hướng làm tăng bất bình đẳng về kinh tế giữa các khu vực của một nền kinh tế. Nó cũng cho rằng nếu một khu vực có tỷ lệ tăng trưởng cao hơn các khu vực khác sẽ khiến cho các yếu tố sản xuất trong khu vực tăng tưởng chậm chảy sang khu vực tăng trưởng nhanh.
+ @cumulative data
+- (Tech) dữ kiện tích lũy
+ @cumulative distribution
+- (Tech) phân bố tích lũy
+ @cumulative error
+- (Tech) sai số tích lũy
+ @Cumulative preference shares
+- (Econ) Các cổ phiếu ưu đãi
+: Xem FINANCIAL CAPITAL.
+ @Cumulative Probability
+- (Econ) Xác suất tích luỹ.
+ @Cumulative probality
+- (Econ) Xác suất tích luỹ.
+ @Cumulative shares
+- (Econ) Cổ phiếu được trả lợi theo tích luỹ
+: Xem FINANCIAL CAPITAL.
+ @cumulatively
+* dt
+- tích tụ, lũy tích
+ @cumulativeness
+- xem cumulative
+ @cumuli  
+*  dt,  số nhiều cumuli
+- mây tích
+- đống
+
+@cumuliform
+* tt
+- giống như đống mây
+ @cumulo-nimbus
+* dt
+- số nhiều cumulo-nimbi,  cumulo-nimbuses
+- (khí tượng) mây tích mưa
+ @cumulo-stratus
+* dt
+- số nhiều cumulostrati
+- (khí tượng) mây tích tầng
+ @cumulus  
+*  dt,  số nhiều cumuli
+- mây tích
+- đống
+
+@cunctation
+* dt
+- sự trì hoãn
+ @cunctative
+* tt
+- trì hoãn
+ @cunctator
+* dt
+- người trì hoãn
+ @cuneate   (cuneate) @cuneately
+- xem cuneate
+ @cuneate-obovoid
+* tt
+- dạng nêm - trứng ngược
+ @cuneiform   (cuneate) @cuneus
+* dt
+- mảnh nêm (cánh côn trùng)
+ @cunnilingual
+- xem cunnilingus
+ @cunnilingus
+* dt
+- sự kích dụng bằng cách liếm
+ @cunning  
+*  dt
+- sự xảo quyệt, sự xảo trá, sự gian giảo, sự láu cá, sự ranh vặt, sự khôn vặt
+- (từ cổ,nghĩa cổ) sự khéo léo, sự khéo tay
+*  tt
+- xảo quyệt, xảo trá, gian giảo, láu cá, ranh vặt, khôn vặt
+
++ a cunning trick: trò láu cá, thủ đoạn xảo quyệt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) xinh xắn, đáng yêu, duyên dáng; quyến rũ
+
++ a cunning smile: nụ cười duyên dáng
+- (từ cổ,nghĩa cổ) khéo léo, khéo tay
+
++ a cunning workman: người thợ khéo tay
+
+@cunningly
+* dt
+- xảo trá, gian trá
+ @cunningness
+- xem cunning
+ @cunt
+* dt
+- bộ phận sinh dục của giống cái
+- kẻ đáng ghét
+ @cup  
+*  dt
+- tách, chén
+- (thể dục,thể thao) cúp, giải
+
++ to win a cup: đoạt giải
+- (thực vật học) đài (hoa)
+- (y học) ống giác
+- rượu
+- vật hình chén
+- nguồn cơn, nỗi khổ, niềm vui
+
++ the cup is full: niềm vui thật là trọn vẹn, niềm hạnh phúc thật là trọn vẹn; nỗi khổ thật là tột cùng
+
++ a bitter cup: nỗi cay đắng
+- (số nhiều) sự say sưa
+
++ to be in one's cups: đang say sưa
+!to be a cup too low
+- chán nản, uể oải, nản lòng
+!to be quarrelsome in one's cups
+- rượu vào là gây gỗ
+!a cup that cheers but not inebriates
+- trà
+!to drain (drink) the cup of bitterness (socrow...) to the dregs
+- nếm hết mùi cay đắng ở đời
+!to fill up the cup
+- làm cho không thể chịu đựng được nữa
+!one's cup of tea
+- người (vật) làm cho vui thích; người (vật) mình ưa; người vật hợp với mình
+- người (vật, điều...) cần phải dè chừng
+!there's many a slip 'twixt the cup and the lip; between the cup and the lip a morsel may slip
+- (tục ngữ) miếng ăn đến miệng rồi vẫn có thể mất
+*  ngdgt
+- khum thành hình chén, chu thành hình chén (bàn tay...)
+- (y học) giác
+
+@cup
+- (tô pô) tích, dấu &#8746;
+ @cup and ball  
+*  dt
+- trò chơi tung hứng bóng
+
+@cupboard  
+*  dt
+- tủ (có ngăn), tủ búp phê
+
++ a kitchen cupboard: tủ đựng đồ ăn, tủ nhà bếp
+
++ a clothes cupboard: tủ đựng quần áo
+!cupboard love
+- mối tình vờ vịt (vì lợi)
+!to cry cupboard
+- kêu đói, thấy đói, thấy kiến bò bụng ((thường) : belly,  inside,  stomach)
+
++ my inside cries cupboard: tôi đã thấy kiến bò bụng
+!skeleton in the cupboard
+- (xem) skeleton
+
+@cupcake
+* dt
+- bánh nướng nhỏ
+ @cupel  
+*  dt
+- chén thử (vàng, bạc...)
+*  ngdgt
+- thử (vàng, bạc...)
+
+@cupeler
+- xem cupel
+ @cupellation
+* dt
+- cách tách kim loại quý bằng cupen
+ @cupeller
+- xem cupel
+ @cupful  
+*  dt
+- tách đầy, chén đầy
+
+@cupid  
+*  dt
+- (thần thoại,thần học) thần ái tình
+- bức tranh thần ái tình, tượng thần ái tình
+
+@cupidity  
+*  dt
+- tính tham lam, máu tham
+
+@cupola  
+*  dt
+- vòm, vòm bát úp (nhà)
+- (kỹ thuật) lò đứng, lò đúc
+- (giải phẫu) vòm, đỉnh vòm
+
+@cuppa  
+*  dt
+- (từ lóng) chén trà
+
+@cupping  
+*  dt
+- (y học) sự giác
+
+@cupping-glass  
+*  dt
+- (y học) ống giác
+
+@cupreous  
+*  tt
+- có đồng, chứa đồng
+- (thuộc) đồng, như đồng
+
+@cupric  
+*  tt
+- (hoá học) (thuộc) đồng
+
++ cupric cupric acid: axit cupric
+
+@cupro-nickel
+* dt
+- hợp kim đồng và niken dùng để đúc tiền
+ @cuprous  
+*  tt
+- (hoá học) (thuộc) đồng
+
++ cuprous sulfate: đồng sunfat
+
+@cup-ties  
+*  dt
+- (thể dục,thể thao) cuộc đấu loại (bóng đá)
+
+@cupule  
+*  dt
+- (thực vật học) quả đấu
+- (động vật học) bộ phận hình chén, ổ hình chén
+
+@cupuliform  
+*  tt
+- hình chén
+
+@cur  
+*  dt
+- con chó toi, con chó cà tàng (loại chó xấu)
+- tên vô lại, kẻ vô giáo dục; kẻ hèn nhát
+
+@curability   (curableness) @curable  
+*  tt
+- chữa được, chữa khỏi được (bệnh...)
+
+@curableness   (curableness) @curably
+- xem curable
+ @curacao   (curacoa) @curacoa   (curacoa) @curacy  
+*  dt
+- (tôn giáo) chức cha phó
+
+@curare   (woorali) @curarine
+* dt
+- (hoá học) curarin
+ @curate  
+*  dt
+- (tôn giáo) cha phó
+
++ curate in charge: cha phụ trách tạm thời
+
+@curative  
+*  tt
+- trị bệnh, chữa bệnh
+
++ the curative value of sunshine: tác dụng trị bệnh của ánh nắng
+*  dt
+- thuốc (chữa mắt)
+
+@curatively
+- xem curative
+ @curativeness
+- xem curative
+ @curator  
+*  dt
+- người phụ trách (nhà bảo tàng...)
+- (pháp lý) người quản lý, người trông nom (trẻ vị thành niên)
+- uỷ viên ban quản trị (trường đại học)
+
+@curatorial
+- xem curator
+ @curatorship
+- xem curator
+ @curb  
+*  dt
+- dây cằm (ngựa)
+- sự kiềm chế, sự nén lại, sự kìm lại; sự hạn chế
+
++ to put (keep) a curb on one's anger: kiềm chế cơn giận
+- bờ giếng, thành giếng; lề đường
+- (thú y học) chỗ sưng, cục u (ở chân ngựa)
+*  ngdgt
+- buộc dây cằm (vào ngựa); điều khiển (ngựa) bằng dây cằm
+- kiềm chế, nén lại; hạn chế
+
++ to curb one's anger: nén giận
+- xây thành cho (giếng); xây lề cho (đường...)
+
+@curb-bit
+* dt
+- hàm thiết ngựa
+ @curb-chain
+* dt
+- dây hàm thiếc ngựa
+ @curbless
+* tt
+- không có dây cương
+ @curbstone  
+*  dt
+- đá lát lề đường
+
+@curcuma  
+*  dt
+- (thực vật học) cây nghệ
+
+@curd  
+*  dt
+- sữa đông (dùng làm phó mát)
+- cục đông
+
+@curdle  
+*  ndgt
+- đông lại, đông cục, dón lại
+
++ milk curdles: sữa đóng cục
+
++ blood curdles: máu đông lại
+*  ngdgt
+- làm đông lại, làm đông cục ((nghĩa đen) & (nghĩa bóng))
+
++ the sight curdled his blood: cảnh tượng đó làm cho máu hắn ta đông lại, cảnh tượng đó làm cho hắn rợn tóc gáy
+
+@curdy  
+*  tt
+- đóng cục, dón lại
+
+@cure  
+*  dt
+- cách chữa bệnh, cách điều trị; việc chữa bệnh, việc điều trị; đợt chữa bệnh (bằng cách ăn uống cái gì... liên tục trong một thời gian)
+
++ his cure took six weeks: việc điều trị của anh ta mất sáu tuần lễ
+
++ the hot water cure: đợt chữa tắm nóng
+- thuốc, phương thuốc
+
++ a good cure for chilblains: một phương thuốc tốt để chữa cước nẻ
+- sự lưu hoá (cao su)
+- (tôn giáo) thánh chức
+*  ngdgt
+- chữa bênh, điều trị
+
++ to cure a patient: điều trị một người bệnh
+- (nghĩa bóng) chữa (thói xấu, tật xấu)
+
++ to cure laziness: chữa bệnh lười biếng
+- xử lý để có thể để lâu (bằng cách ướp muối, xông khói, phơi khô)
+- lưu hoá (cao su)
+
+@cure-all  
+*  dt
+- thuốc bách bệnh
+
+@cureless  
+*  tt
+- không chữa được
+
+@Curency school
+- (Econ) Trường phái tiền tệ
+: Là một nhóm các nhà chính trị, các nhà kinh tế và các chủ ngân hàng quan tâm đến chính sách tiền tệ ở Anh nửa đầu thế kỷ XIX.
+ @curer  
+*  dt
+- người chữa (bệnh, thói xấu...)
+
+@curettage  
+*  dt
+- (y học) sự nạo thìa
+
+@curette  
+*  dt
+- (y học) thìa nạo
+*  ngdgt
+- (y học) nạo (bằng) thìa
+
+@curfew  
+*  dt
+- lệnh giới nghiêm; sự giới nghiêm
+- (sử học) hiệu lệnh tắt lửa, chuông báo giờ tắt lửa; giờ tắt lửa
+- (sử học) hồi trống thu không
+
+@curia
+* dt
+- số nhiều curiae
+- curi (đơn vị chia theo thị tộc cổ La-mã)
+- triều chính toà thành giáo hội
+- (lịch sử) viện nguyên lão
+ @curie
+- (Tech) curi (đơn vị phóng xạ)
+ @Curie constant
+- (Tech) hằng số Curie
+ @Curie cut
+- (Tech) kiểu cắt Curie
+ @Curie point
+- (Tech) điểm Curie
+ @curio  
+*  dt
+- vật hiếm có, của quý (đồ mỹ thuật), đồ cổ
+
+@curiosa
+* dt số nhiều
+- những điều hiếm thấy
+- khách khiêu dâm
+ @curiosity  
+*  dt
+- sự ham biết; tính ham biết
+- sự tò mò; tính tò mò, tính hiếu kỳ
+
++ out of curiosity: vì tò mò
+- vật kỳ lạ, vật hiếm, vật quý, cảnh lạ
+
++ the curiosities of the town: những cảnh lạ ở thành phố
+- sự kỳ lạ, sự hiếm có
+!to be tiptoe with curiosity
+- tò mò muốn biết quá không kìm được
+!curiosity shop
+- hiệu bán đồ cổ, hiệu bán những đồ quý hiếm
+!to set somebody's curiosity agog
+- (xem) agog
+
+@curious  
+*  tt
+- ham biết, muốn tìm biết
+
++ I'm curious to know what he said: tôi muốn (tìm) biết anh ấy nói gì
+- tò mò, hiếu kỳ, thọc mạch
+
++ curious eyes: đôi mắt tò mò
+- kỳ lạ, kỳ dị, lạ lùng
+
++ a curious mistake: một lỗi lầm kỳ lạ
+- tỉ mỉ
+
++ a curious inquiry: cuộc điều tra tỉ mỉ
+- (nói trại) khiêu dâm (sách)
+
+@curiously
+* dt
+- tò mò, hiếu kỳ
+- lạ kỳ
+ @curiousness  
+*  dt
+- tính ham biết, tính muốn tìm biết
+- tính tò mò
+- tính kỳ lạ, tính kỳ dị, tính lạ lùng
+
+@curium  
+*  dt
+- (hoá học) curium
+
+@curl  
+*  dt
+- món tóc quăn
+- sự uốn quăn; sự quăn
+
++ to keep the hair in curl: giữ cho tóc quăn
+- làn (khói...); cuộn; cái bĩu (môi)
+- bệnh xoắn lá (của khoai tây)
+*  ngdgt
+- uốn, uốn quăn, làm xoăn
+
++ to curl the hair: uốn tóc
+*  ndgt
+- quăn, xoắn, cuộn
+
++ hair curls naturally: tóc quăn tự nhiên
+!to curl up
+- cuộn lại, xoắn lại; cuồn cuộn lên (khói)
+- co tròn lại, thu mình lại
+
++ to lie curled up: nằm co tròn
+- (từ lóng) ngã sụp xuống (vì mệt, vì trúng đạn...)
+
+@curl
+- (Tech) độ xoắn @curl
+- rôta (của trường vectơ)
+ @curler
+* dt
+- dụng cụ cuộn tóc
+ @curlew  
+*  dt
+- (động vật học) chim mỏ nhát, chim dẽ
+
+@curlicue
+* dt
+- vòng xoắn trang trí
+ @curlily
+- xem curly
+ @curliness  
+*  dt
+- tính quăn, tính xoắn
+
+@curling  
+*  dt
+- (Ê-cốt) môn đánh bi đá trên tuyết
+*  tt
+- quăn, xoắn
+
+@curling-irons   (curling-tongs) @curling-pins  
+*  dt số nhiều
+- cặp xoắn tóc
+
+@curling-tongs   (curling-tongs) @curly  
+*  tt
+- quăn, xoắn
+
++ curly hair: tóc quăn
+
+@curly bracket
+- (Tech) dấu ngoặc xoắn
+ @curly-pate  
+*  dt
+- người có tóc quăn
+
+@curmudgeon  
+*  dt
+- người keo kiết
+- người thô lỗ
+
+@curmudgeonly
+* tt
+- thô lỗ, cộc cằn
+ @curmudgeonry
+- xem curmudgeon
+ @cur-murring
+* dt
+- âm thanh nhẹ, nhỏ
+ @curn
+* dt
+- hạt nhỏ; lượng nhỏ
+ @currag
+* dt
+- cũng currach
+- thuyền da
+ @currant  
+*  dt
+- nho Hy-lạp
+- quả lý chua; cây lý chua
+
+@currency  
+*  dt
+- sự lưu hành; thời gian lưu hành ((thường) nói về tiền tệ)
+- tiền, tiền tệ
+
++ foreign currency: tiền nước ngoài, ngoại tệ
+
++ paper currency: tiền giấy
+- (nghĩa bóng) sự phổ biến, sự thịnh hành
+
++ to gain currency: trở thành phổ biến
+
+@Currency
+- (Econ) Tiền mặt, tiền tệ
+: Theo nghĩa hẹp, thuật ngữ này chỉ một lượng tiền của một nước thực sự được trao đổi qua tay (Xem CASH).
+ @Currency appreciation
+- (Econ) Sự tăng giá trị của một đồng tiền
+: Sự tăng giá trị của một ĐỒNG TIỀN  này so với giá trị đồng tiền khác, có nghĩa là tăng TỶ GIÁ HỐI ĐOÁI  trong điều kiện TỶ GIÁ HỐI ĐOÁI THẢ NỔI. (Xem CURRENCY DEPRECIATION).
+ @Currency control
+- (Econ) Kiểm soát tiền tệ
+: Là những kiểm soát về quyền hạn của NGÂN HÀNG TRUNG ƯƠNG hay cơ quan phát hành tiền tệ trong việc phát hành tiền (Xem CASH BASE).
+ @Currency depreciation
+- (Econ) Sự sụt giảm giá trị tiền tệ
+: Là sự giảm giá trị của một đồng tiền so với đồng tiền khác, có nghĩa là sự giảm TỶ GIÁ HỐI ĐOÁI  trong hệ thống TỶ GIÁ HỐI ĐOÁI THẢ NỔI.
+ @Currency notes
+- (Econ) Tiền giấy
+: Về mặt lịch sử, tiền giấy là giấy bạc 1 bảng và 10 shilling do Bộ Tài chính Anh phát hành sau khi xảy ra cuộc chiến tranh vaod năm 1914 để bảo tồn số vàng trong kho và để đáp ứng nhu cầu về đồng tiền vàng hay mạ vàng của công chúng trong cơn hoảng loạn ban đầu.
+ @Currency principle
+- (Econ) Nguyên lý tiền tệ
+: Là học thuyết về tiền tệ thịnh hành giữa thế kỷ XIX do TRƯỜNG PHÁI TIỀN TỆ đề xướng, học thuyết cho rằng sự ổn định tiền tệ có được tốt nhất bằng việc kiểm soát số lượng tiền tệ, nhất là lượng tiền giấy, đang lưu thông bằng các biện pháp của các quy tắc tự động (nghĩa là không thể tuỳ ý).
+ @Currency retention quota
+- (Econ) Hạn mức giữ ngoại tệ
+: Quyền ở một số nước xuất khẩu, phần lớn là các nước XHCN, được mua lại một tỷ lệ nhất định số thu nhập NGOẠI HỐI của mình, do đó mà không bị lệ thuộc vào việc phân bổ nhập khẩu từ trung ương.
+ @Currency substitution
+- (Econ) Sự thay thế tiền tệ
+: Là hình thức thay đổi các đồng tiền có thể chuyển đổi trong các đồng tiền tệ quốc tế với mục đích sinh lợi hay tránh sự tổn thất trong việc thay đổi giá trị TIỀN TỆ.
+ @current  
+*  dt
+- dòng (nước); luồng (gió, không khí); (điện học) dòng điện
+
++ direct current: dòng điện một chiều
+
++ alternative current: dòng điện xoay chiều
+- dòng, luồng, chiều, hướng (dư luận, tư tưởng...)
+
++ the current of time: dòng thời gian
+
++ the current of thought: luồng tư tưởng
+!against the current
+- ngược dòng
+!to breast the current
+- đi ngược dòng
+!to go with the current
+- đi theo dòng, đi xuôi dòng
+*  tt
+- hiện hành, đang lưu hành
+
++ current money: tiền đang lưu hành
+- phổ biến, thịnh hành, thông dụng
+
++ current opinions: ý kiến (quan điểm) phổ biến
+- hiện thời, hiện nay, này
+
++ the current month: tháng này
+
++ the current issue: số (báo) kỳ này
+!to go (pass, run) current
+- được thừa nhận, được dư luận chung công nhận là đúng (là thật)
+
+@current
+- (Tech) dòng; dòng (điện), điện lưu (A); cường độ; đang dùng @current
+- dòng || hiện hành
+- action c. dòng tác dụng
+- anode c. dòng anốt
+- alternating c. dòng xoay chiều
+- convection c. dòng đối lưu
+- eddy c.s dòng xoáy
+- direct c. dòng không đổi, dòng một chiều
+- displacement c. dòng hỗn hợp; (vật lí) dòng điện tích
+- filament c. dòng nung
+- four c. dòng bốn chiều
+- leakage c. dòng (điện) rò
+- secondary c. dòng thứ cấp
+- standing c. dòng nghỉ
+- tidal c. dòng thuỷ triều 
+ @Current account
+- (Econ) Tài khoản vãng lai @current address
+- (Tech) địa chỉ hiện thời
+ @current amplification
+- (Tech) khuếch đại dòng
+ @Current and capital account
+- (Econ) Tài khoản vãng lai và tài khoản vốn.
+ @Current assets
+- (Econ) Tài sản lưu động.
+: Gồm 3 loại tài sản chính: 1)Dự trữ bao gồm các hàng hoá đã được hoàn thiện, đang được sản xuất và các nguyên vật liệu thô. 2)Khoản tiền sẽ thu được hay khoản nợ ngắn hạn. 3)Tiền mặt và đầu tư ngắn hạn.
+ @current attenuation
+- (Tech) suy giảm cường độ
+ @current average
+- (Tech) trung bình cường độ
+ @current balance
+- (Tech) cân bằng dòng điện
+ @current circuit
+- (Tech) mạch dòng
+ @current coil
+- (Tech) cuộn dây dòng điện
+ @Current cost accounting
+- (Econ) Hạch toán theo chi phí hiện tại.
+: Xem INFLATION ACCOUNTING.
+ @current density
+- (Tech) mật độ dòng điện
+ @current divider
+- (Tech) bộ phân dòng
+ @current echo
+- (Tech) sóng dội dòng điện
+ @current feed
+- (Tech) tiếp dòng điện
+ @current feedback
+- (Tech) hồi tiếp dòng
+ @current hogging injection logic
+- (Tech) mạch luận lý phun nhiễu loạn dòng, mạch luận lý phun nghẹn dòng
+ @current hogging logic
+- (Tech) mạch luận lý nhiễu loạn dòng, mạch luận lý nghẹn dòng
+ @Current income
+- (Econ) Thu nhập thường xuyên.
+: Xem PERMANENT INCOME HYPOTHESIS.
+ @current indicator
+- (Tech) bộ chỉ báo dòng
+ @current intensity
+- (Tech) cường độ dòng
+ @Current liabilities
+- (Econ) Tài sản nợ ngắn hạn.
+: Dùng để chỉ những khoản nợ của công ty sẽ phải thanh toán trong năm sau.
+ @current limiter
+- (Tech) bộ hạn chế dòng
+ @current limiting inductor
+- (Tech) cuộn cảm hạn chế dòng
+ @current limiting resistor
+- (Tech) cái điện trở hạn chế dòng
+ @current meter
+- (Tech) máy đo dòng điện
+ @current overload relay
+- (Tech) bộ kế điện quá dòng
+ @Current prices
+- (Econ) Giá hiện hành (thời giá).
+ @Current profits
+- (Econ) Lợi nhuận hiện hành
+: Là doanh số trừ đi toàn bộ CHI PHÍ CƠ HỘI thu được trong giai đoạn kế hoạch hiện tại của hãng.
+ @current regulator
+- (Tech) bộ chỉnh lưu cường độ
+ @current resonance
+- (Tech) cộng hưởng cường độ
+ @current reverser
+- (Tech) bộ đảo dòng
+ @current saturation
+- (Tech) bão hòa cường độ
+ @current sensitivity
+- (Tech) độ nhạy cường độ
+ @current stabilization
+- (Tech) ổn cố cường độ
+ @current supply
+- (Tech) nguồn dòng điện
+ @current swing
+- (Tech) dao động cường độ
+ @current wave
+- (Tech) sóng cường độ
+ @current winding
+- (Tech) cuộn dây dòng
+ @currently
+* dt
+- hiện thời, hiện nay
+ @current-meter
+* dt
+- dụng cụ đo dòng nước
+ @currentness
+- xem current
+ @curricle  
+*  dt
+- xe song mã hai bánh
+
+@curricula  
+*  dt,  số nhiều curricula
+- chương trình giảng dạy
+!curiculum vitae
+- bản lý lịch
+
+@curricular
+- xem curriculum
+ @curriculum  
+*  dt,  số nhiều curricula
+- chương trình giảng dạy
+!curiculum vitae
+- bản lý lịch
+
+@currier  
+*  dt
+- người sang sửa và nhuộm da (da đã thuộc)
+
+@currish  
+*  tt
+- như con chó cà tàng; bần tiện
+- vô lại; thô bỉ
+- hay cáu kỉnh, cắn cảu
+
+@currishly
+- xem currish
+ @curry  
+*  dt
+- bột ca ri
+- món ca ri
+*  ngdgt
+- nấu ca ri, cho bột ca ri (vào đồ ăn)
+
++ curried chicken: món gà nấu ca ri
+*  ngdgt
+- chải lông (cho ngựa)
+- sang sưa (da thuộc)
+- đánh đập, hành hạ (ai)
+!to curry favour with somebody
+- nịnh hót ai, bợ đỡ ai, xun xoe với ai để cầu ân huệ, cầu cạnh ai để xin ân huệ
+
+@curry-comb  
+*  dt
+- bàn chải ngựa
+
+@curry-powder  
+*  dt
+- bột ca ri
+
+@curse  
+*  dt
+- sự nguyền rủa, sự chửi rủa
+
++ to call down curses upon someone: nguyền rủa ai
+- tai ương, tai hoạ; vật ghê tở, vật đáng nguyền rủa
+- lời thề độc
+- (tôn giáo) sự trục xuất ra khỏi giáo hội
+- (từ lóng) cái của nợ (sự thấy kinh...) ((thường) the curse)
+!curses come home to road
+- ác giả ác báo
+!don't care a curse
+- không cần, bất chấp, không thèm đếm xỉa đến
+!not worth a curse
+- không đáng giá một trinh, đáng bỏ đi
+!under a curse
+- bị nguyền; bị bùa, bị chài
+*  dgt
+- nguyền rủa, chửi rủa
+- báng bổ
+- ((thường) động tt quá khứ) làm khổ sở, làm đau đớn
+
++ to be cursed with rheumation: bị khổ sở vì bệnh thấp khớp
+- (tôn giáo) trục xuất ra khỏi giáo hội
+!to curse up hill and down dale
+- (xem) dale
+
+@cursed   (curst) @cursedly   (curst) @cursedness
+- xem cursed
+ @curser
+- xem curse
+ @cursive  
+*  tt
+- viết thảo, viết bằng chữ thảo
+*  dt
+- chữ thảo
+
+@cursive scanning
+- (Tech) quét tháu
+ @cursively
+- xem cursive
+ @cursiveness
+- xem cursive
+ @cursor  
+*  dt
+- đai gạt (bằng mi ca trên thước tính)
+
+@cursor
+- (Tech) con trỏ, điểm nháy
+ @cursor
+- con chạy của (thước tính)
+ @cursor key
+- (Tech) phím con trỏ
+ @cursorial  
+*  tt
+- thích nghi để chạy, chạy (chim)
+
+@cursorily
+* dt
+- vội vàng, qua loa
+ @cursoriness  
+*  dt
+- sự vội, sự nhanh, sự lướt qua
+
+@cursory  
+*  tt
+- vội, nhanh, lướt qua
+
++ to givve a cursory glance: liếc nhanh, liếc qua
+
++ a cursory inpection: sự khám xét lướt qua, sự khám xét qua loa
+
+@curst  
+*  tt
+- (như) cursed
+*  dt
+- (như) cursedly
+
+@cursus
+* dt
+- số nhiều cursi
+- kiến trúc bằng đất gồm hai bức thành song song ngoài có hào có từ thời tân thạch
+ @curt  
+*  tt
+- cộc lốc, cụt ngủn
+
++ a answer: câu trả lời cộc lốc
+- (văn học) ngắn gọn
+
+@curtail  
+*  ngdgt
+- cắt, cắt bớt, rút ngắn
+
++ to curtail expenses: cắt bớt các khoản chi tiêu
+
++ to curtail a speech: rút ngắn bài nói
+- lấy đi, tước, cướp đi
+
++ to curtail someone of his privileges: tước đặc quyền của ai
+
+@curtail
+- rút ngắn
+ @curtailed
+- đã được rút ngắn
+ @curtailer
+- xem curtail
+ @curtailment  
+*  dt
+- sự cắt xén, sự cắt bớt, sự rút ngắn
+- sự tước đi
+
+@curtailment
+- sự rút ngắn
+- c. of sampling sự rút ngắn, việc lấy mẫu 
+ @curtain  
+*  dt
+- màn cửa
+
++ to draw the curtain: kéo màn cửa
+- màn (ở rạp hát)
+
++ the curtain rises (is raised): màn kéo lên
+
++ the curtain fals (drops, is droped): màn hạ xuống
+- bức màn (khói, sương)
+
++ a curtain of smoke: bức màn khói
+- (quân sự) bức thành nối hai pháo đài
+- (kỹ thuật) cái che (như miếng sắt che lỗ khoá...)
+!behind the curtain
+- ở hậu trường, không công khai
+!to draw a curtain over something
+- không đả động tới việc gì
+!to lift the curtain on
+- bắt đầu, mở màn
+- công bố, đưa ra ánh sáng
+!to take the curtain
+- ra sân khấu sau những tràng vỗ tay hoan nghênh (diễn viên)
+*  ngdgt
+- che màn
+
++ curtained windows: cửa sổ che màn
+!to curtain off
+- ngăn cách bằng màn
+
+@curtain
+- (Tech) giàn, mành, màn
+ @curtain antenna
+- (Tech) ăngten mành, ăngten giàn
+ @curtain call  
+*  dt
+- sự vỗ tay mời diễn viên ra một lần nữa
+
+@curtain effect
+- (Tech) hiệu ứng mành che
+ @curtain lecture  
+*  dt
+- lời trách móc (của người vợ) lúc thanh vắng
+
+@curtain-band
+* dt
+- khuôn cửa
+ @curtain-fire  
+*  dt
+- (quân sự) lưới lửa
+
+@curtain-raiser  
+*  dt
+- tiết mục mở màn
+
+@curtal
+* tt
+- ngắn; bị cắt bớt
+- curtal dog
+- chó bị cắt cụt đuôi
+ @curtana  
+*  dt
+- gươm từ (gươm không mũi trưng bày trong lễ lên ngôi ở Anh, tượng trưng cho lòng từ thiện)
+
+@curtate
+* tt
+- ngắn; rút ngắn; bị lược bớt
+ @curtate
+- rút ngắn
+ @curtilage
+* dt
+- (từ Pháp) khu vườn, sân thuộc một ngôi nhà
+ @curtly
+* dt
+- cộc lốc, sẳng
+ @curtness  
+*  dt
+- tính cộc lốc, sự cụt ngủn
+- tính ngắn gọn
+
+@curtsey   (curtsey) @curtsy   (curtsey) @curule
+* dt
+- ghế ngà vị quan cao cấp cổ La-mã ngồi
+ @curvaceous
+* tt
+- (nói về phụ nữ) tròn trịa, đẫy đà
+ @curvaceously
+- xem curvaceous
+ @curvaceousness
+- xem curvaceous
+ @curvate
+* tt, cũng curvated
+- cong; uốn cong
+ @curvature  
+*  dt
+- sự uốn cong; sự bị uốn cong; sự vẹo (xương)
+
++ to suffer from curvature of the spine: bị vẹo xương sống
+- (toán học) độ cong
+
+@curvature
+- (Tech) độ cong
+ @curvature
+- độ cong
+- c. of beams độ cong của dầm
+- c. of a conic độ cong của một cônic
+- c. of curve độ cong của một đường (cong)
+- asymptotic c. độ cong tiệm cận
+- concircular c. độ cong đồng viên
+- conformal c. độ cong bảo giác
+- fist c. độ cong, độ cong thứ nhất (của đường cong ghềnh)
+- Gaussian c. độ cong Gauxơ, độ cong toàn phần
+- geodesic c. độ cong trắc địa
+- high c. độ cong bậc cao
+- integraal c.s độ cong tích phân
+- mean affine c. độ cong afin trung bình
+- principal c. độ cong chính
+- principal c. of a surface độ cong chính của một mặt
+- scalar c độ cong vô hướng
+- second c. độ xoắn, độ cong thứ hai (của đường cong ghềnh)
+- sectional c. độ cong theo (phương) hai chiều)
+- tangential c. độ cong tiếp tuyến
+- total c. độ cong toàn phần
+- tatal afine c. độ cong afin toàn phần
+ @curve  
+*  dt
+- đường cong, đường vòng, chỗ quanh co
+
++ a curve of pursuit: đường đuôi
+*  dgt
+- cong, uốn cong, bẻ cong, làm vênh
+
++ the road curves round the hillside: con đường uốn quanh sườn đồi
+
+@curve
+- (Tech) đường (cong); đặc tuyến; vẽ đường cong [đ]
+ @curve
+- đường cong
+- c. of constant slope độ cong có độ dốc không đổi
+- c. of constant width độ cong có bề rộng không đổi
+- c. of flexibility đường uốn
+- c. of persuit đường đuổi
+- c. of zero width độ cong có bề rộng không 
+- adiabatic c. đường cong đoạn nhiệt
+- adjjoint c. đường cong liên hợp
+- admissible c. đường chấp nhận được
+- algebraic(al) c. đường cong đại số
+- analagmatic c. đường tự nghịch
+- analytic c. đường cong giải tích 
+- anharminic c. đường cong không điều hoà
+- base c. đường cong cơ sở
+- bell-shaped c. đường cong hình chuông
+- bicircular c. đường lưỡng viên
+- binomial c. đường nhị thức
+- biquadratic c. đường cong trùng phương
+- bitangential c. đường cong lưỡng tiếp
+- boundary c. đường biên giới
+- catenary c. đường dây xích
+- central c. đường cong có tâm
+- characteristic c. đường cong đặc trưng
+- circular c. đường đơn viên
+- complex c. đường của mớ
+- confocal c. đường đồng tiêu
+- concave c. đường lõm
+- conjugate c.s đường cong liên hợp
+- convex c. đường lồi
+- consecant c. đường cosec
+- cosine c. đường cosin
+- cost c. đường cong giá cả
+- cotangent c. đường cotg
+- covariant c. đường hiệp biến
+- critacal c. đường tới hạn
+- cruciform c. đường chữ thập (đồ thị của x y -a y -a x 
++ 0)
+- decomposed c. đường cong tách
+- dextrorse c. đường cong có độ xoắn dương (đường cong bên phải)
+- diametral c. đường cong kính
+- directrix c. đường cong chuẩn
+- discharge c. đường phóng điện
+- distribution c. đường phân phối
+- epitrochoidal c. đường êpitrôcoit
+- equianharmonic c. đường đẳng phi điều
+- equiprobability c. đường cùng xác suất
+- error c. đường cong sai số
+- focal c. đường tiêu
+- frequency c. đường tần số, đường mật độ (phân phối)
+- generating c. đường sinh
+- geodesic c. đường trắc địa
+- growth c. (thống kê) đường tăng 
+- harmonic c. đường điều hoà
+- high plane c. đường phẳng bậc cao
+- homothetic c. đường vị tự
+- hydraulic characteristic c. đặc tuyến thuỷ lực
+- hydrostatic c. đường thuỷ tinh
+- hyperelliptic c. đường siêu eliptic
+- hypergeometric c. đường siêu bội
+- inverse c. đường nghịch đảo
+- irreducible c. đường không khả quy
+- isologic c. đường đối vọng
+- isothermal c.s đường đẳng nhiệt
+- isotropic c. (hình học) đường đẳng hướng
+- kappa c. đường kapa (đồ thị của x : x y a y )
+- left-handed c. đường xoắn lại
+- level c. (giải tích) đường mức
+- limiting c. đường giới hạn
+- logarithmic c. đường hàm lôga
+- logistic c. đường lôgitic (đồ thị của y
++ k(1:e )
+- loxodromic c. đường tà hành
+- neighbouring c. đường lân cận
+- null c. đường đẳng hướng
+- orbiform c. (hình học) đường có độ rộng không đổi
+- oblique pedal c. đường thuỳ túc xiên
+- oribiform c. đường có độ rộng không đổi
+- orthoptic c. đường phương khuy
+- oscillating c. đường dao động
+- pan-algebraic c. đường phiếm đại số
+- parabolic(al) c. đường parabolic
+- parametric c. đường tham số
+- pear c. đường quả lê
+- pedal c. đường bàn đạp
+- percentile c. đường phân phối
+- plane c. (hình học) đường phẳng
+- polar c. đường cực
+- polar reciprocal c. đường đối cực
+- polytropic c. đường đa hướng
+- power c. đường lực lượng
+- principal c. đường chính
+- probability c. đường xác suất 
+- quartric c. đường bậc bốn
+- quasi-plane c. đường hầu phẳng
+- quintic c. đường bậc năm
+- rational c. đường hữu tỷ
+- rectifiable c, đường cầu trường được
+- reducible c. đường cong tách
+- regression c. đường hồi quy
+- regular c. đường chính quy
+- rose c. đường hoa hồng (đồ thị nose
++ asin 2θ )
+- saw tooth c. đường răng cưa
+- secant c. đường sec
+- self-polar c. đường tự đối cực
+- serpentime c. đường hình rắn
+- shock c. đường kích động
+- signoid c. đường xicnoit
+- similar c.s các đường đồng dạng
+- simple abnormal c. đường cong đơn bất thường
+- simple closed c. đường đóng đơn
+- sine c. đường sin
+- sinistrorsal c. đường xoắn trái
+- skew c. (hình học) đường lệch
+- space c. (hình học) đường ghềnh
+- star-like c. đường giống hình sao
+- stress-train c. đường ứng suất biến dạng
+- syzygetic c. đường hội xung, đường xiziji
+- tangent c. đường tiếp xúc
+- three leaved rose c. đường hoa hồng ba cánh
+- trannsendental c. đường siêu việt
+- transition c. đường chuyển tiếp
+- triangular symmetric c. đường đối xứng tam giác
+- trigonometric(al) c. đường lượng giác
+- twisted c. đường xoắn
+- unicursal c. (hình học) đường đơn hoạch 
+ @curve fitting
+- (Tech) thích hợp đường cong
+ @curved  
+*  tt
+- cong
+
++ curved surface: mặt cong
+
+@curved
+- cong
+ @curvedness
+- xem curve
+ @curvet  
+*  dt
+- sự nhảy ngược lên, sự chồm lên (của ngựa)
+*  ndgt
+- nhảy ngược lên, chồm lên (ngựa)
+
+@curvicaudate
+* tt
+- có đuôi cong
+ @curvicaulis
+* dt
+- thân cong
+ @curvifoliate
+* tt
+- thân cong
+ @curviform  
+*  tt
+- có hình cong, cong
+
+@curvilinear  
+*  tt
+- cong; (thuộc) đường cong
+
++ curvilinear angle: góc đường cong
+
+@curvilinear
+- cong, phí tuyến
+ @curvilinearity
+- xem curvilinear
+ @curvilinearly
+- xem curvilinear
+ @curvinervate  
+*  tt
+- (thực vật học) có gân cong (lá)
+
+@curvirostrate  
+*  tt
+- (động vật học) có mỏ cong
+
+@curvirostreit
+* tt
+- có mỏ cong
+ @curvity
+* dt
+- tính chất cong
+ @curvometer
+- máy đo đường cong
+ @curvy
+* tt
+- cong
+- có thân hình hấp dẫn
+ @cuscus
+* dt
+- (động vật) cáo có túi
+ @cusec  
+*  dt
+- cusec (đơn vị lưu lượng bằng 0, 028 m3 moao gưới
+
+@cushat
+- (động vật) bồ câu rừng xám
+ @cushaw
+* dt
+- (thực vật) cây bí rợ
+ @cushily
+- xem cushy
+ @cushiness
+- xem cushy
+ @cushion  
+*  dt
+- cái đệm, cái nệm
+- đường biên bàn bi a
+- cái độn tóc
+- (kỹ thuật) miếng đệm đầu trục,  cuxinê
+- (cơ khí) hơi đệm (hơi còn lại trong xylanh để đệm pittông)
+- thịt mông (lợn...)
+- kẹo hình nệm
+*  ngdgt
+- lót nệm
+
++ cushioned seats: ghế có lót nệm, ghế nệm
+- đặt ngồi trên nệm; che bằng nệm; (nghĩa bóng) nâng niu, chiều chuộng
+- làm nhẹ bớt, làm yếu đi
+
++ to cushion a shock: làm cho sự va chạm yếu đi
+- dập đi; dìm đi; làm cho yếu đi (lời kêu nài, than vãn...)
+
+@cushioned
+- (Tech) được đệm
+ @cushionet
+* dt
+- cái đệm nhỏ
+ @cushionless
+* tt
+- không có đệm
+ @cushion-tire  
+*  dt
+- lốp đặc (xe đạp)
+
+@cushiony  
+*  tt
+- giống như nệm, mềm, êm
+- có nệm
+- dùng làm nệm
+
+@cushy  
+*  tt
+- (từ lóng) dễ chịu, êm ái, thích ý, thoải mái; không khó nhọc mấy
+
++ a cushy job: việc làm dễ chịu, thoải mái
+!to stop a cushy one
+- (quân sự) bị thương nhẹ
+
+@cusk
+- (động vật) cá moruy chấm đen
+ @cusp  
+*  dt
+- đỉnh, chỏm, ngọn (núi...)
+- (toán học) điểm lùi
+- (thực vật học) mũi nhọn (lá...)
+
+@cusp
+- (hình học) điểm lùi
+- c. of the first kind (simple c.) điểm lùi loại một)
+- c. of the second kind điểm lùi loại hai
+- double c. điểm tự tiếp xúc
+ @cuspate
+* tt
+- có điểm nhọn, có hình nhọn
+ @cuspdal
+- (thuộc) điểm lùi
+ @cuspid
+* dt
+- (giải phẫu) răng nanh
+ @cuspidal  
+*  tt
+- (toán học) có điểm lùi, lùi
+
++ cuspidal edge: cạnh lùi
+- có mũi nhọn, nhọn đầu
+
+@cuspidat   (cuspidated) @cuspidate
+* tt
+- có mũi nhọn, nhọn đầu
+ @cuspidated   (cuspidated) @cuspidor  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) ống nhổ
+
+@cuss  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lời nguyền rủa, lời chửi rủa
+
++ he doesn't care a cuss: hắn mặc kệ lời chửi rủa, hắn cứ tỉnh khô
+- thằng cha, gã
+
++ a queer cuss: một gã kỳ quặc
+
+@cussed  
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) bị nguyền rủa, bị chửi rủa
+- ngoan cố, cứng đầu, cứng cổ
+
+@cussedly
+* dt
+- lì lợm, ngoan cố
+ @cussedness  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sự ngoan cố, tính cứng đầu cứng cổ
+
+@cussword
+* dt
+- lời thề
+ @custard  
+*  dt
+- món sữa trứng
+
+@custard-apple  
+*  dt
+- (thực vật học) cây na
+- quả na
+
+@custardy
+- xem custard
+ @custodial
+* tt
+- thuộc về án phạt giam
+ @custodian  
+*  dt
+- người trông coi, người chăm sóc, người canh giữ
+
+@custodian
+- (Tech) người bảo quản (máy điện toán và dữ kiện); tổ chức bảo quản (máy điện toán và dữ kiện)
+ @custodian service
+- (Tech) dịch vụ bảo quản
+ @custodianship
+- xem custodian
+ @custody  
+*  dt
+- sự coi sóc, sự chăm sóc, sự trông nom, sự canh giữ
+
++ to have the custody of someone: trông nom ai
+
++ the child is in the custody of his father: đứa con được sự trông nom của bố
+
++ to be in the custody of someone: dưới sự trông nom của ai
+- sự bắt giam, sự giam cầm
+
++ to be in custody: bị bắt giam
+
++ to take somebody into custody: bắt giữ ai
+!to give someone into custody
+- giao ai cho nhà chức trách
+
+@custom  
+*  dt
+- phong tục, tục lệ
+
++ to be a slave to custom: quá nệ theo phong tục
+- (pháp lý) luật pháp theo tục lệ
+- sự quen mua hàng, sự làm khách hàng; khách hàng, bạn hàng, mối hàng
+
++ the shop has a good custom: cửa hiệu đông khách (hàng)
+- (số nhiều) thuế quan
+
++ customs policy: chính sách thuế quan
+- (từ Mỹ,nghĩa Mỹ) sự đặt, sự thửa, sự đặt mua
+
++ custom clothes: quần áo đặt may, quần áo may đo
+
+@Custom and practice
+- (Econ) Tập quán và thông lệ
+: Là những quy tắc không chính thức về vị trí làm việc chi phối việc phân công và thực hiện các nhiệm vụ.
+ @Custom Co-operative Council
+- (Econ) Uỷ ban hợp tác Hải quan.
+: Một uỷ ban được thành lập năm 1950 nhằm cải thiện và làm hoà hợp các hoạt động hải quan.
+ @Custom, excise and protective duties
+- (Econ) Các loại thuế hải quan,  thuế tiêu thụ đặc biệt và thuế bảo hộ.
+: Đây là các loại thuế áp dụng cho nhập khẩu hay việc bán các hàng hoá cụ thể. Những thủ tục đặc biệt được áp dụng cho việc nhập khẩu các hàng hoá nông nghiệp. Xem EC ARRICULTURAL LEVIES.
+ @custom IC
+- (Tech) mạch tập thành (IC) đặc chế
+ @Custom markets
+- (Econ) Các thị trường khách hàng.
+: Là các thị trường trong đó giá cả không đánh giá bằng cung và cầu.
+ @custom (product) integrated circuit
+- (Tech) mạch tập thành (IC) đặc chế
+ @custom software 
++  custom-made software
+ @Custom union
+- (Econ) Liên minh thuế quan.
+: Là một tổ chức gồm một số nước, trong đó hạn chế về mậu dịch giữa chúng được loại bỏ.
+ @customable  
+*  tt
+- phải đóng thuế quan
+
+@customarily
+* dt
+- thông thường, theo lẽ thường
+ @customariness
+- xem customary
+ @customary  
+*  tt
+- thông thường, theo lệ thường, thành thói quen
+- (pháp lý) theo tục lệ, theo phong tục (luật pháp)
+*  dt
+- bộ luật theo tục lệ
+
+@custom-built  
+*  tt
+- chế tạo theo sự đặt hàng riêng
+
++ a custom-built car: ô tô chế tạo theo sự đặt hàng riêng
+
+@customer  
+*  dt
+- khách hàng
+- (thông tục) gã, anh chàng
+
++ queer customer: một gã kỳ quặc
+
+@customer
+- (Tech) người thuê bao, người tiêu thụ, khách hàng
+ @customer engineer
+- (Tech) kỹ sư bảo trì
+ @customer service technician
+- (Tech) kỹ thuật viên phục vụ khách hàng
+ @customhouse
+- sở hải quan
+ @customisation
+* dt
+- sự chế tạo (hoặc sửa chữa) theo yêu cầu của khách hàng
+- <tin> sự tùy biến
+ @customise
+* dgt
+- làm theo yêu cầu của khách hàng
+- <tin> tùy biến
+ @customization
+* dt
+- sự chế tạo (hoặc sửa chữa) theo yêu cầu của khách hàng
+- <tin> sự tùy biến
+ @customize
+- (Tech) đặc chế
+ @customizer
+- xem customize
+ @custom-made  
+*  tt
+- may đo (quần áo...); đóng đo chân (giày...)
+
+@custom-made software
+- (Tech) nhu liệu đặc chế
+ @customs
+* dt số nhiều
+- thuế đánh vào hàng nhập từ nước ngoài vào; thuế nhập khẩu
+
++  to pay customs on something:đóng thuế nhập khẩu cái gì
+- cơ quan chính phủ thu sắc thuế này; hải quan
+
++  The Customs have found heroin hidden in freight:Hải quan đã tìm ra hê rô in giấu trong lô hàng
+
++  customs officer:cán bộ hải quan
+
++  customs duty:thuế hải quan
+
++  customs formalities:thủ tục hải quan
+
++  a customs check khám xét của hải quan
+
++  how long does it take to get through customs?:làm thủ tục hải quan mất bao lâu?
+@customs union
+- liên minh thuế quan
+ @cut  
+*  dt
+- sự cắt, sự đốn, sự chặt, sự thái; nhát chém, nhát thái, vết đứt, vết xẻ, vết mổ
+
++ a deep cut in the leg: vết đứt sâu ở chân
+- sự giảm, sự hạ, sự cắt bớt
+
++ a cut in prices: sự giảm giá
+- vật cắt ra, miêng; đoạn cắt đi (của một vở kịch, cuốn tiểu thuyết...)
+
++ a cut of beef: một miếng thịt bò
+- kiểu cắt, kiểu may
+
++ the cut of a coat: kiểu may một chiếc áo choàng
+- (thể dục,thể thao) sự cắt bóng, sự cúp bóng
+
++ a cut to the boundary: sự cắt bóng ra biên
+- nhánh đường xe lửa; kênh đào
+- bản khắc gỗ ((cũng) wood cut)
+- lời nói làm tổn thương tình cảm, hành động làm tổn thương tình cảm
+- sự phớt lờ
+
++ to give someone the cut: phớt lờ ai
+- (sân khấu) khe hở để kéo phông
+!a cut above
+- sự hơn một bậc
+!short cut
+- lối đi tắt
+!cut and thrust
+- cuộc đánh giáp lá cà
+!to draw cuts
+- rút thăm
+!the cut of one's jib
+- (xem) jib
+*  ngdgt
+- cắt, chặt, chém, thái, xén, xẻo, hớt, xẻ, đào, khắc, gọt, chạm
+
++ to cut one's nail: cắt móng tay
+
++ to cut a canal: đào kênh
+
++ to cut a road through the hill: xẻ đường qua đồi
+- chia cắt, cắt đứt
+
++ to cut connexion with somebody: cắt đứt quan hệ với ai
+
++ to cut in two: chia cắt làm đôi
+- cắt nhau, gặp nhau, giao nhau
+
++ two lines cut each other: hai đường cắt nhau
+- giảm, hạ, cắt bớt
+
++ to cut prices: giảm giá
+
++ to cut a speech short: cắt bớt một bài nói, rút ngắn một bài nói
+- (nghĩa bóng) làm đau lòng, chạm tự ái, làm mếch lòng, làm tổn thương tình cảm
+
++ it cut me to the heart: cái đó làm tôi đau lòng
+- (từ lóng) làm đau đớn, làm buốt, cắt da cắt thịt (gió, rét...)
+
++ the cold wind cut me to the bone: gió rét làm tôi buốt tận xương
+- cắt, may (quần áo)
+- làm, thi hành
+
++ to cut a joke: làm trò đùa, pha trò
+- (thể dục,thể thao) cắt, cúp (bóng)
+- (đánh bài) đào (cổ bài)
+- phớt lờ, làm như không biết (ai)
+
++ to cut someone dead: phớt lờ ai đi
+- không dự, trốn, chuồn (một buổi họp...)
+
++ to cut a lecture: không dự buổi diễn thuyết
+- mọc (răng)
+
++ baby is cutting his first tooth: bé mọc cái răng đầu tiên
+*  ndgt
+- cắt, gọt, chặt, thái...
+
++ this knife cuts well: con dao này cắt ngọt
+
++ this cheese cuts easily: miếng phó mát này dễ cắt
+- đi tắt
+
++ to cut through a wood: đi tắt qua rừng
+
++ to cut across a field: đi tắt qua cánh đồng
+- (từ lóng) chuồn, trốn
+!to cut away
+- cắt, chặt đi
+- trốn, chuồn mất
+!to cut back
+- tỉa bớt, cắt bớt
+- (điện ảnh) chiếu lại một đoạn (để làm tăng tính kịch)
+!to cut down
+- chặt, đốn (cây); gặt (lúa)
+- giảm bớt, cắt bớt (chi tiêu...)
+!to cut in
+- nói xen vào
+- (đánh bài) thế chân (một người không được chơi nữa)
+- (thể dục,thể thao) chèn ngang
+- chèn ngang sau khi đã vượt (xe ô tô)
+!to cut off
+- chặt phăng ra, cắt, cắt đứt ((nghĩa đen) & (nghĩa bóng))
+
++ to cut of all negotiations: cắt đứt mọi cuộc thương lượng
+
++ to cut off the water supply: cắt nước
+
++ to cut off all communications: cắt đứt mọi phương tiện giao thông liên lạc
+- kết liễu đột ngột, làm chết đột ngột
+
++ she was cut off in her prime: cô ta chết đột ngột trong lúc còn thanh xuân
+!to cut out
+- cắt ra, cắt bớt
+
++ to cut out a passage from a book: cắt bớt một đoạn trong cuốn sách
+- thôi (làm gì), thôi dùng (cái gì)
+- làm mờ, áp đảo; hất cẳng (đối phương)
+
++ to be totally cut out by one's rival: bị địch thủ hoàn toàn áp đảo; bị địch thủ hất cẳng hắn
+- khác nhau
+
++ a huge figure of a lion cut out in the rock: hình một con sư tử khổng lồ được khắc ở tảng đá
+- vạch ra trước, chuẩn bị trước
+
++ he found his work cut out for him: hắn thấy công việc của hắn đã được vạch ra từ trước
+- (từ Mỹ,nghĩa Mỹ) tách (súc vật) ra khỏi đàn; bắt (tàu địch) bằng cách len vào giữa nó và bờ; ngáng đường xe sau để vượt xe trước (xe ô tô)
+- bị loại ra không được đánh bài nữa
+!to cut up
+- (quân sự) cắt ra từng mảnh, tiêu diệt (quân địch)
+- chỉ trích gay gắt, phê bình nghiêm khắc
+
++ to cut up a writer: chỉ trích gay gắt một nhà văn
+
++ to cut up a book: phê bình gay gắt một cuốn sách
+- làm đau đớn, làm đau lòng
+!to be cut up by a piece of sad news
+- đau đớn do được tin buồn
+- (thông tục) để lại gia tài
+
++ to cut up well: để lại nhiều của
+
++ to cut both ways: đòn xóc hai đầu, lá mặt lá trái
+
++ that argument cuts both ways: lý lẽ đòn xóc hai đầu
+!to cut one's coat according to one's cloth
+- (xem) cloth
+!to cut and come again
+- ăn ngon miệng
+- mời cứ tự nhiên đừng làm khách
+!to cut the [Gordian] knot
+- (xem) Gordian_knot
+!to cut the ground from under somebody's feet
+- (xem) ground
+!to cut it fat
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lên mặt ta đây; làm bộ, làm tịch, nói thánh nói tướng
+!cut it out!
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) thôi đi!
+!to cut it fine
+- (xem) fine
+!to cut a loss
+- tránh được sự thua lỗ (do kịp thời thôi không đầu cơ nữa)
+!to cut no ice
+- (từ lóng) không ăn thua gì, không nước mẹ gì
+!to cut and run
+- (xem) run
+!to cut a shine
+!to cut a swath
+- (từ Mỹ,nghĩa Mỹ) (như) to cut it fat
+!to cut short
+- ngắt, thu ngắn, rút ngắn
+!to cut somebody off with a shilling
+- cắt hết phần gia tài của ai chỉ để lại cho một siling
+!to cut one's stick (lucky)
+!to cut stick (dirt)
+- (từ lóng) chuồn, tẩu, chạy trốn
+!to cut one's wisdom-teeth (eye-teech)
+- mọc răng khôn; (nghĩa bóng) đã khôn ra, đã chín chắn hơn, đã có kinh nghiệm hơn
+!to cut up rough (lóng)
+!to cut up rusty
+- nổi giận, phát cáu
+!to cut up savage (ugly)
+- nổi cơn thịnh nộ, phát khùng
+
+@cut
+- (Tech) cách cắt, kiểu cắt; chuyển cảnh (truyền hình); cắt (đ)
+ @cut
+- nhát cắt || cắt c. in bật, cho chạy; c. off, c. out. cắt, tắt, hãm 
+ @cut glass
+- thủy tinh chạm
+ @cut over paraboloid reflector
+- (Tech) cái phản xạ parabôloit cụt
+ @cut sugar  
+*  dt
+- đường miếng
+
+@cut-and-come-again  
+*  dt
+- sự thừa thãi
+
+@cut-and-dried  
+*  tt
+- không có gì mới mẻ, không có gì độc đáo
+
+@cut-and-paste
+- (Tech) cắt-dán
+ @cut-and-try approach
+- (Tech) phương pháp cắt-thử
+ @cutaneous  
+*  tt
+- (thuộc) da
+
+@cutaneously
+- xem cutaneous
+ @cut-away  
+*  dt
+- áo đuôi tôm
+
+@cutaway
+* dt
+- bản vẽ mặt trong, sơ đồ mặt trong (không vẽ mặt ngoài, để thấy rõ
+ @cut-back  
+*  dt
+- sự cắt bớt; phần cắt bớt
+- (điện ảnh) đoạn phim chiếu lại (để tăng tính kịch)
+
+@cutback
+* dt
+- sự cắt giảm
+ @cute  
+*  tt
+- lanh lợi, sắc sảo, tinh khôn
+- (từ Mỹ,nghĩa Mỹ) duyên dáng, đáng yêu, xinh xắn
+
+@cutely
+* dt
+- ranh ma, láu lỉnh
+ @cuteness
+* dt
+- sự ranh ma, sự láu lỉnh
+ @cuticle  
+*  dt
+- biểu bì
+- (thực vật học) lớp cutin
+
+@cuticular
+- xem cuticle
+ @cutie  
+*  dt (từ Mỹ,nghĩa Mỹ)
+- (thông tục) cô ả xinh xắn, cô em duyên dáng
+- (từ lóng) vận động viên cố thắng đối thủ
+
+@cutin  
+*  dt
+- cutin
+
+@cutis
+* dt
+- số nhiều cutes
+- lớp da trong; chân bì
+- lớp mô mạch liên kết
+ @cutlass  
+*  dt
+- (hàng hải) thanh đoản kiếm
+
+@cutler  
+*  dt
+- người làm dao kéo; người sửa chữa dao kéo
+- người bán dao kéo
+
+@cutler feed
+- (Tech) tiếp sóng bằng khe
+ @cutlery  
+*  dt
+- nghề làm dao kéo; nghề bán dao kéo
+- dao kéo (nói chung)
+
+@cutlet  
+*  dt
+- món côtlet
+
+@cut-off  
+*  dt
+- sự cắt, sự ngắt
+- (vật lý) ngưỡng, giới hạn
+
++ spectrum cut-off: ngưỡng phố
+- (từ Mỹ,nghĩa Mỹ) đường tránh tắt
+
+@cut-off
+- (Tech) cắt, giới hạn (d); cộng hưởng song song (d); cắt mạch (đ); cắt đàm thoại (đ)
+ @cutoff attenuator
+- (Tech) bộ suy giảm giới hạn
+ @cut-off characteristic
+- (Tech) đặc tuyến cắt ngang
+ @cut-off current
+- (Tech) dòng cắt @cutoff limiting
+- (Tech) hạn chế bằng cắt dừng
+ @cutoff relay
+- (Tech) cái nối điện cắt ngang
+ @cutoff state
+- (Tech) trạng thái cắt @cutoff voltage
+- (Tech) điện thế cắt ngang
+ @cutoff wavelength
+- (Tech) độ dài sóng giới hạn
+ @cut-out  
+*  dt
+- sự cắt, sự bỏ đi (trong sách...)
+- (điện học) cầu chì
+
+@cut-over
+- (Tech) mở (d); chuyển qua (d)
+ @cut-price
+* tt, adv
+- hạ giá, giảm giá
+ @cutpurse  
+*  dt
+- kẻ cắp, kẻ móc túi
+
+@cut-rate
+* tt
+- giá hạ
+ @cuttable
+- xem cut
+ @cutter  
+*  dt
+- người cắt; vật để cắt, máy cắt, máy băm
+- thuyền một cột buồm
+- xuồng ca nô (của một tàu chiến
+
++ revenue cutter: tàu hải quan (ở bờ biển chuyên bắt hàng lậu)
+
+@cutter
+- (Tech) đầu khắc (đĩa); người @cutthroat  
+*  dt
+- kẻ giết người
+*  tt
+- gay gắt, kịch liệt, tàn khốc, khốc liệt, có tính chất tiêu diệt
+
++ cutthroat competition: sự cạnh tranh gay gắt, sự cạnh tranh tiêu diệt lẫn nhau
+
+@cutting  
+*  dt
+- sự cắt, sự thái, sự xẻo (thịt...), sự xén (giấy...), sự chặt (cây...), sự đào (mương...), sự đục (đá...)
+- đường hào, đường nhỏ xuyên qua rừng; đường xẻ xuyên qua núi đồi
+
++ railway cutting: đường xe lửa xuyên qua núi đồi
+- cành giâm
+- bài báo cắt ra; tranh ảnh cắt ra
+- (số nhiều) vỏ bào (gỗ, kim loại) mảnh cắt ra; mẩu vải thừa
+- sự giảm, sự bớt (giá, lương)
+*  tt
+- sắc bén (dao...)
+- buốt, cắt da cắt thịt (rét...)
+- (nghĩa bóng) chua cay, cay độc, gay gắt
+
++ a cutting remark: lời phê bình gay gắt
+
+@cutting
+- (Tech) cắt (d)
+ @cutting head
+- (Tech) đầu khắc (ghi đĩa)
+ @cuttingly
+* dt
+- chua cay, cay độc
+ @cutting-room
+* dt
+- phòng biên tập phim
+ @cuttle   (cuttle-fish) @cuttle-bone  
+*  dt
+- mai mực
+
+@cuttle-fish   (cuttle-fish) @cutty  
+*  tt
+- cộc, cụt, ngắn ngủn
+*  dt
+- ống điếu ngắn, tẩu ngắn
+- (thông tục) người đàn bà thiếu đạo đức, người đàn bà không ra gì
+
+@cutup  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người hay pha trò, người hay làm trò hề (để mọi người chú ý)
+
+@cutwater
+* dt
+- phần trước chiếc tàu
+ @cutwork
+* dt
+- mảnh in hoa rời gắn vào quần áo
+ @cutworm  
+*  dt
+- (động vật học) sâu ngài đêm
+
+@cuvette
+* dt
+- chậu thủy tinh (trong phòng thí nghiệm)
+ @

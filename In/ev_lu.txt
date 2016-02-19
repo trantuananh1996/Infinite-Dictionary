@@ -1,0 +1,1136 @@
+@luau
+* dt
+- (từ Mỹ, nghĩa Mỹ) bữa tiệc ở Ha-oai
+ @lubber  
+*  dt
+- người chậm chạp, người vụng về, người ngớ ngẩn
+- (hàng hải) thuỷ thủ dở, thuỷ thủ thiếu kinh nghiệm
+
+@lubberland
+* dt
+- nơi sung sướng tưởng tượng
+ @lubberlike
+* tt
+- ngu xuẩn
+ @lubberliness  
+*  dt
+- thái độ vụng về, cử chỉ vụng về; sự ngớ ngẩn, sự khờ dại
+
+@lubberly  
+*  tt
+- vụng về; ngớ ngẩn, khờ dại
+
+@lube  
+*  dt,  (thông tục)
+- dầu nhờn
+- sự tra dầu mỡ
+
+@lubra
+* dt
+- (từ úc) đàn bà thổ trước
+ @lubricant  
+*  dt
+- chất bôi trơn, dầu nhờn
+
+@lubricate  
+*  ngdgt
+- tra dầu mỡ, bôi trơn (máy)
+!to be a bit lubricated
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) ngà ngà say
+
+@lubrication  
+*  dt
+- sự tra dầu mỡ, sự bôi trơn
+
+@lubrication
+- sự bôi trơn; chất bôi trơn
+ @lubricative  
+*  tt
+- có thể dùng làm dầu nhờn; dùng làm dầu nhờn
+
+@lubricator  
+*  dt
+- thợ tra dầu mỡ (vào máy)
+- cái tra dầu mỡ
+
+@lubricatory  
+*  tt
+- để bôi trơn
+
+@lubricious
+* tt
+- dâm ô, dâm dục, tà dâm
+ @lubricity  
+*  dt
+- tính chất nhờn, tính chất trơn; tính dễ trượt
+- tính không trung thực, tính giả dối, tính xảo quyệt
+- tính hay thay đổi, tính không kiên định
+- tính tà dâm
+
+@lubricous  
+*  tt
+- trơn; dễ trượt
+- không trung thực, giả dối, xảo quyệt
+- hay thay đổi, không kiên định
+- tà dâm
+
+@lucarne
+* dt
+- (kiến trúc) cửa sổ mái; cửa sổ con
+ @Lucas critique
+- (Econ) Luận điểm phê phán của Lucas
+: Bài phê bình về việc sử dụng mô hình kinh tế lượng để đánh giá kết quả của các quyết định chính sách vì các tham số ước lượng ngầm bao hàm ảnh hưởng của chính sách.
+ @luce  
+*  dt
+- (động vật học) cá chó
+
+@lucency
+* dt
+- sự sáng chói, sự sáng ngời
+ @lucent  
+*  tt
+- sáng chói, sáng ngời
+- trong
+
+@lucerne  
+*  dt
+- (thực vật học) cỏ linh lăng
+
+@luces
+- dt số nhiều của lux
+ @lucid  
+*  tt
+- trong
+- sáng sủa, minh bạch, rõ ràng, trong sáng, dễ hiểu
+
++ a lucid explanation: lời giảng dễ hiểu
+- sáng suốt, minh mẫn
+
++ a lucid mind: trí óc sáng suốt
+- tỉnh táo
+
++ that madiman still has lucid interivals: người điên đó còn có những lúc tỉnh táo
+- (thơ ca) sáng, sáng ngời
+
+@lucidity  
+*  dt
+- tính trong
+- tính sáng sủa, tính minh bạch, tính rõ ràng, tính trong sáng, tính dễ hiểu
+- tính sáng suốt, tính minh mẫn
+- (thơ ca) tính sáng, tính sáng ngời
+
+@lucidly
+* dt
+- minh bạch, rõ ràng
+- sáng suốt, minh mẫn
+ @lucifer  
+*  dt
+- ma vương
+- (thiên văn học) sao Mai
+
+@luciferin
+* dt
+- (hoá học) luxiferin
+ @lucifugous
+* tt
+- (côn trùng) tránh ánh sáng
+ @luck  
+*  dt
+- vận, sự may rủi
+
++ good luck: vận may
+
++ bad luck: vận rủi
+
++ to try one's luck: xem vận mình có đỏ không
+
++ to be down on one's luck: gặp vận rủi, gặp cơn đen
+
++ worse luck: rủi thay, lại càng bất hạnh thay
+
++ hard luck!: thật không may!, không may thay!
+
++ just my luck: thật là đúng như vận mình xưa nay
+- vận may, vận đỏ
+
++ to be in luck; to be in luck's way: gặp may
+
++ to have no luck; to be out of luck: không may
+
+@luck
+- trường hợp
+- bab l. không may
+- good l. may mắn 
+ @luckily  
+*  dt
+- may, may mắn
+
+@luckiness  
+*  dt
+- sự may mắn; vận đỏ, vận may; hạnh phúc
+
+@luckless  
+*  tt
+- không may, rủi ro, đen đủi
+
+@luckless
+- bất hạnh, không may
+ @luck-money  
+*  dt
+- đồng tiền cầu may
+
+@luckpenny
+* dt
+- đồng tiền cầu may
+ @lucky  
+*  tt
+- đỏ, gặp may, may mắn, gặp vận may, hạnh phúc
+
++ you are a lucky dog!: anh vận đỏ thật!
+
++ lucky beggar!; lucky bargee!: (thông tục) thằng cha vận đỏ thật!
+- đem lại may mắn, đem lại kết quả tốt, mang điềm lành
+
++ a lucky day: một ngày may mắn
+- may mà đúng, may mà được
+
++ a lucky guess: một câu đoán may mà đúng
+
++ a lucky shot: một phát súng may mà tin
+*  dt,  (từ lóng)
+- to cut (make) one's lucky chuồn, tẩu, chạy trốn
+
+@lucky
+- may mắn, hạnh phúc
+ @lucrative  
+*  tt
+- có lợi, sinh lợi
+
+@lucratively
+* dt
+- có lợi, sinh lợi
+ @lucrativeness  
+*  dt
+- tính có lợi, tính sinh lợi
+
+@lucre  
+*  dt
+- lợi, lợi lộc
+
++ filthy lucre: của bất nhân;(đùa cợt) tiền
+
+@lucubrate  
+*  ndgt
+- làm việc ban đêm; nghiên cứu học tập nhiều về đêm; thức đêm để sáng tác
+
+@lucubration  
+*  dt
+- công việc sáng tác về ban đêm, sự nghiên cứu học tập về ban đêm
+- tác phẩm công phu, sáng tác công phu
+- tác phẩm (có tính chất) thông thái rởm
+
+@luculent  
+*  tt
+- (từ hiếm,nghĩa hiếm) trong sáng, rõ ràng, minh bạch
+- có sức thuyết phục
+
+@lucullan
+* tt, cũng lucullian
+- xa hoa; lộng lẫy, thịnh soạn
+
++  a lucullan feast:bữa tiệc thịnh soạn
+ @lud  
+*  dt
+- my lud thưa ngài chánh án (khi luật sư muốn thuyết phục quan toà)
+
+@luddism
+- Cách viết khác : ludditism 
+ @luddite
+* dt
+- người bảo thủ, người lạc hậu
+ @ludic
+* tt
+- giải trí
+ @ludicrous  
+*  tt
+- buồn cười, đáng cười, lố lăng, lố bịch
+
+@ludicrously
+* dt
+- lố lăng, lố bịch
+ @ludicrousness  
+*  dt
+- tính buồn cười, tính lố lăng, tính lố bịch
+
+@ludo
+* dt
+- trò chơi dùng súc sắc và thẻ đếm trên bàn
+ @lues  
+*  dt
+- (y học) bệnh giang mai ((cũng) lues venerea)
+- bệnh dịch
+
+@luetic  
+*  tt
+- (y học) giang mai, mắc bệnh giang mai
+*  dt
+- (y học) người mắc bệnh giang mai
+
+@luff  
+*  dt
+- (hàng hải) mép trước (của buồm)
+- sự lái theo gần đúng chiều gió
+*  dgt
+- lái theo gần đúng chiều gió
+
+@luffa
+* dt
+- <thực> xơ mướp
+ @luftwaffe
+* dt
+- không quân Đức (chiến tranh thế giới II)
+ @lug  
+*  dt
+- giun cát (thuộc loại giun nhiều tơ, dùng làm mồi câu cá biển) ((cũng) lugworm)
+- (hàng hải) lá buồm hình thang ((cũng) lugsail)
+- tai, vành tai
+- quai (ấm, chén...)
+- (kỹ thuật) cái cam
+- (kỹ thuật) giá đỡ, giá treo
+- (kỹ thuật) vấu lồi
+- sự kéo lê, sự kéo mạnh, sự lôi
+- (số nhiều) sự làm cao, sự màu mè, sự làm bộ làm điệu
+
++ to put on lugs: làm bộ làm điệu
+*  dgt
+- kéo lê, kéo mạnh, lôi
+- đưa vào (vấn đề...) không phải lúc
+
+@luganda
+* dt
+- tiếng Luganda (châu Phi)
+ @luge
+* dt
+- xe trượt băng có một chỗ ngồi
+ @luggage  
+*  dt
+- hành lý
+
+@luggage van
+* dt
+- toa hành lý
+ @luggage-rack
+* dt
+- giá để hành lý (trên xe lửa, xe đò)
+ @lugger  
+*  dt
+- (hàng hải) thuyền buồm (có buồm hình thang)
+
+@lughole
+* dt
+- (thông tục) lỗ tai; tai
+ @lugsail  
+*  dt
+- (hàng hải) lá buồm hình thang ((cũng) lug)
+
+@lugubriosity   (lugubriosity) @lugubrious  
+*  tt
+- sầu thảm, bi thảm
+
+@lugubriously
+* dt
+- sầu thảm, bi thảm
+ @lugubriousness   (lugubriosity) )ộng từ
+- (từ Mỹ,nghĩa Mỹ), (Ca-na-dda) đốn gỗ
+- xẻ gỗ để bán
+*  ndgt
+- kéo lê ầm ầm, kéo lết ì ạch
+
++ the heavy lorries lumbered by: những chiếc xe tải nặng nề ầm ầm lết qua
+
+@lugworm
+* dt
+- giun cát (thuộc loại giun nhiều tơ, dùng làm mồi câu cá biển)
+ @lukewarm
+* tt
+- (nói về chất lỏng) âm ấm
+- lãnh đạm, thờ ơ
+* dt
+- người lãnh đạm, người thờ ơ, người nhạt nhẽo, người hững hờ, người không sốt sắng, người thiếu nhiệt tình
+ @lukewarmness
+* dt
+- trạng thái ấm, trạng thái âm ấm
+- tính lãnh đạm, tính thờ ơ, tính nhạt nhẽo, tính hững hờ, tính không sốt sắng, tính thiếu nhiệt tình
+ @lukewarmth
+* dt
+- trạng thái ấm, trạng thái âm ấm
+- tính lãnh đạm, tính thờ ơ, tính nhạt nhẽo, tính hững hờ, tính không sốt sắng, tính thiếu nhiệt tình
+ @lull
+* dt
+- thời gian yên tựnh, thời gian tạm lắng
+* ngdgt
+- ru ngủ
+* ndgt
+- tạm lắng (bão...); lặng sóng (biển...)
+ @lullaby
+* dt
+- bài hát ru con
+ @lulu
+* dt
+- người (vật) đặc biệt, phi thường
+- Her house was a lulu
+* dthà cô ấy là phi thường
+
++  a lulu of an excuse:một lời xin lỗi quá khéo
+ @lumbago
+* dt
+- <y> chứng đau lưng
+ @lumbar
+* tt
+- (thuộc) thắt lưng; ngang lưng
+ @lumbar puncture
+* dt
+- <phẫu> sự chọc dò tủy sống
+ @lumber
+* dt
+- gỗ xẻ, gỗ làm nhà
+- đồ kềnh càng; đồ bỏ đi; đồ tập tàng
+- đống lộn xộn
+- mỡ thừa (trong người)
+* dgt
+- chất đống bề bộn, để ngổn ngang, để lộn xộn
+- chứa chất (những cái vô ích)
+- <Mỹ> đốn gỗ
+ @lumberer  
+*  dt
+- thợ đốn gỗ, thợ rừng
+
+@lumbering  
+*  tt
+- ì ạch kéo lết đi
+
+@lumberjack   (lumberjack) @lumber-jacket
+* dt
+- áo mặc ngoài dài tận hông, cài khuy tới cổ
+ @lumberman   (lumberjack) @lumber-mill  
+*  dt
+- nhà máy cưa
+
+@lumber-room  
+*  dt
+- buồng chứa những đồ tập tàng; buồng chứa những đồ kềnh càng
+
+@lumber-yard  
+*  dt
+- (từ Mỹ,nghĩa Mỹ), (Ca-na-dda) nơi chứa gỗ để bán
+
+@lumbosacral
+* tt
+- ở thắt lưng-xương cùng
+ @lumbrical  
+*  dt
+- (giải phẫu) cơ giun
+
+@lumen  
+*  dt
+- (vật lý) Lumen
+
+@lumen-hour
+* dt
+- (vật lý) lumen - giờ
+ @lumen-second
+* dt
+- (vật lý) lumen - giây
+ @luminaire
+* dt
+- bộ đèn
+- nguồn phát sáng
+ @luminance
+* dt
+- độ chói
+- (điện ảnh) độ ngời
+ @luminance
+- (vật lí) tính chiếu sáng; độ trưng
+ @luminary  
+*  dt
+- thể sáng (như mặt trời, mặt trăng)
+- danh nhân, ngôi sao sáng; người có uy tín lớn, người có ảnh hưởng lớn
+
+@luminary
+- (vật lí) thiên thể phát quang
+ @luminesce  
+*  ndgt
+- phát sáng, phát quang
+
+@luminescence  
+*  dt
+- sự phát sáng, sự phát quang
+
+@luminescence
+- (vật lí) sự phát quang
+ @luminescent  
+*  tt
+- phát sáng, phát quang
+
+@luminiferous  
+*  tt
+- toả ánh sáng; truyền ánh sáng
+
+@luminosity  
+*  dt
+- tính sáng, độ sáng, độ trưng
+
+@luminous  
+*  tt
+- sáng, sáng chói, chói lọi, rực rỡ
+- rõ ràng, minh xác, quang minh
+- soi sáng vấn đề (nhà văn...)
+
+@luminous
+- (vật lí) phát sáng
+ @luminously
+* dt
+- rõ ràng, minh bạch
+ @luminousness  
+*  dt
+- ánh sáng
+- tính rõ ràng, tính minh xác, tính quang minh
+
+@lumme
+- interj
+- thế à! vậy ư?
+ @lummox
+* dt
+- (từ Mỹ, nghĩa Mỹ) người vụng về
+ @lummy
+- interj
+- thế à! vậy ư?
+ @lump  
+*  dt
+- cục, tảng, miếng
+
++ a lump of sugar: một cục đường
+
++ a lump of clay: một cục đất sét
+
++ lump sugar: đường miếng
+- cái bướu, chỗ sưng u lên, chỗ u lồi lên
+
++ a bad lump on the forehead: u ở trán
+- cả mớ, toàn bộ, toàn thể
+
++ in the lump: tính cả mớ, tính tất cả
+
++ a lump sum: số tiền tính gộp cả lại; tiền mặt trả gọn
+- người đần độn, người chậm chạp
+!to be a lump of selfishness
+- đại ích kỷ
+!to feel (have) a lump in one's throat
+- cảm thấy cổ họng như nghẹn tắc lại
+*  ngdgt
+- xếp lại thành đống, thu gọn lại thành đống; gộp lại
+- coi như cá mè một lứa, cho là một giuộc
+*  ndgt
+- đóng cục lại, vón lại, kết thành tảng
+*  ndgt
+- (: along) kéo lê, lết đi
+- (: down) ngồi phệt xuống
+*  ngdgt
+- chịu đựng; ngậm đắng nuốt cay
+
++ if you don't like it you will have to lump it: nếu anh không thích cái đó thì anh cũng phải chịu đựng vậy thôi; thích hay không thích thì anh cùng phải nhận thôi
+
+@lump
+- khối chung   lấy chung; thu thập, tập trung take in the l. lấy chung 
+@Lump - sum tax
+- (Econ) Thuế gộp  @lumped
+- lấy chung; tập trung
+ @lumpen
+* tt
+- lưu manh
+- thô lỗ; ngu xuẩn
+* dt
+- vô sản lưu manh
+ @lumper  
+*  dt
+- công nhân bốc dở ở bến tàu
+- thầu khoán, người thầu lại
+- người sắp xếp qua loa đại khái
+
+@lumpfish  
+*  dt
+- (động vật học) cá vây tròn
+
+@lumpiness  
+*  dt
+- tính đầy bướu
+- tính đầy cục, tính lổn nhổn
+- sự gợn sóng (biển)
+
+@lumping  
+*  tt
+- (thông tục) to lù lù; nặng nề
+- nhiều
+
+@lumpish  
+*  tt
+- ù ì ục ịch; bị thịt
+- trì độn, đần độn
+- lờ phờ
+
+@lumpishness  
+*  tt
+- tính ù ì ục ịch; dáng bị thịt
+- tính trì độn, tính đần độn
+- tính lờ phờ
+
+@lump-sucker
+* dt
+- xem lump-fish
+ @lumpy  
+*  tt
+- có nhiều bướu; có nhiều chỗ sưng lên
+- thành cục, thành tảng, lổn nhổn
+- gợn sóng (biển)
+
+@luna
+* dt
+- (thần thoại La-Mã) nữ thần mặt trăng
+- ánh sáng mặt trăng (nhân cách hoá)
+ @lunacy  
+*  dt
+- tình trạng điên rồ, tình trạng mất trí
+- hành động điên rồ, cử chỉ điên dại; ý nghĩ rồ dại
+
+@lunanaut
+* dt
+- xem nunarnaut
+ @lunar  
+*  tt
+- (thuộc) mặt trăng
+
++ lunar month: tháng âm lịch
+
++ lunar New Year: tết âm lịch
+- mờ nhạt, không sáng lắm
+- hình lưỡi liềm
+
++ lunar bone: xương hình lưỡi liềm
+- (hoá học) (thuộc) bạc; chứa chất bạc
+!lunar politics
+- những vấn đề viển vông không thực tế
+
+@lunar
+- (vật lí) trăng
+ @lunar caustic  
+*  dt
+- (y học) thỏi bạc nitrat (dùng để đốt)
+
+@lunar module
+* dt
+- tàu vũ trụ thám hiểm mặt trăng
+ @lunarian  
+*  dt
+- người ở trên mặt trăng
+- nhà khảo cứu mặt trăng
+
+@lunary
+* dt
+- (thực vật) cây cải âm
+* tt
+- thuộc mặt trăng, trên mặt trăng
+ @lunate  
+*  tt
+- (sinh vật học) hình lưỡi liềm
+
+@lunate
+- hình trăng; nửa tháng
+ @lunated
+* tt
+- (sinh học) hình lưỡi liềm
+- thuộc xương lưỡi liềm
+ @lunatic  
+*  dt
+- người điên, người mất trí
+*  tt: (lunatical) @lunatic asylum  
+*  dt
+- nhà thương điên, bệnh viện tinh thần kinh
+
+@lunatical  
+*  dt
+- người điên, người mất trí
+*  tt: (lunatical) @lunation  
+*  dt
+- tuần trăng; tháng âm lịch
+
+@lunch  
+*  dt
+- bữa ăn trưa
+- bữa ăn nhẹ trước cơm trưa
+*  ngdgt
+- dọn bữa ăn trưa cho
+*  ndgt
+- dự bữa ăn trưa
+
+@luncheon  
+*  dt
+- tiệc trưa
+
+@luncheon meat
+* dt
+- thịt hộp
+ @luncheon voucher
+* dt
+- phiếu ăn, vé ăn
+ @luncheonelte
+* dt
+- bữa ăn qua loa
+- quán ăn qua loa
+- quán cà - phê
+ @luncher  
+*  dt
+- người ăn trưa
+
+@lunchtime
+* dt
+- giờ ăn trưa
+ @lune  
+*  dt
+- (toán học) hình trăng lưỡi liềm, hình trăng
+
++ lune of a sphere: hình trăng trên mặt cầu
+
+@lune
+- êke đôi; hình trăng
+- l. of a sphere hình trăng cầu 
+- circularr l. hình trăng tròn 
+- geodesic l. hình trăng trắc địa
+- spherical l. hình trăng cầu 
+ @lunette  
+*  dt
+- (kiến trúc) cửa nhỏ hình bán nguyệt (ở trần hoặc mái nhà)
+- lỗ máy chém (để kê đầu người bị xử tử vào)
+- (quân sự) công sự hình bán nguyệt
+
+@lung  
+*  dt
+- phổi
+- nơi thoáng đãng (ở trong hoặc gần thành phố)
+!good lungs
+- giọng nói khoẻ
+
+@lung fever  
+*  dt
+- (y học) viêm phổi tiết xơ huyết
+
+@lunge  
+*  dt
+- đường kiếm tấn công bất thình lình
+- sự lao tới, sự nhào tới
+*  ndgt
+- tấn công bất thình lình bằng mũi kiếm (đấu kiếm)
+- hích vai, xô vai (quyền Anh)
+- lao lên tấn công bất thình lình
+- đâm, thọc mạnh
+- đá hất (ngựa)
+*  dt
+- dây dạy ngựa chạy vòng tròn
+- nơi dạy ngựa chạy vòng tròn
+
+@lunged
+* tt
+- có phổi
+
++  weak lunged:yếu phổi
+ @lunger  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người lao, người bị bệnh lao phổi
+
+@lungi
+* dt
+- khăn quấn (quanh đầu, người)
+ @lungwort  
+*  dt
+- (thực vật học) cỏ phổi
+
+@luniform  
+*  tt
+- hình mặt trăng
+
+@lunik  
+*  dt
+- vệ tinh Liên xô bay qua mặt trăng
+
+@lunisolar
+* tt
+- thuộc mặt trăng; mặt trời
+ @lunisolar
+- (thiên văn) (lịch) âm - dương
+ @lunitidal
+* tt
+- thuộc thủy triều do ảnh hưởng mặt trăng
+ @lunkhead  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người ngốc
+
+@lunula
+* dt; số nhiều lunulae
+- vật hình trăng lưỡi liềm
+ @lunule  
+*  dt
+- (giải phẫu) vẩy trắng; đốm trắng (ở móng tay...)
+
+@luny
+* tt
+- phát cuồng
+- ngu xuẩn
+ @lupercalia
+* dt
+- ngày hội tế thần chăn nuôi (cổ La-mã)
+ @lupin  
+*  dt
+- (thực vật học) đậu lupin ((cũng) lupine)
+
+@lupine  
+*  tt
+- (thuộc) chó sói
+*  dt
+- (như) lupin
+
+@lupinosis
+* dt
+- bệnh đau gan của cừu và gia súc
+ @lupus  
+*  dt
+- (y học) bệnh luput ((cũng) lupus vulgaris)
+
+@lurch  
+*  ndgt
+- tròng trành, lắc lư
+- đi lảo đảo
+*  dt
+- sự tròng trành, sự lắc lư
+- sự đi lảo đảo
+*  dt
+- to leave someone in the lurch bỏ rơi ai trong lúc hoạn nạn
+
+@lurcher  
+*  dt
+- kẻ cắp, kẻ trộm
+- kẻ rình mò, mật thám, gián điệp
+- chó lớc (một giống chó săn lai giống)
+
+@lurchingly  
+*  dt
+- chim giả (tung lên để gọi chim ưng về)
+- (nghĩa bóng) mồi, bẫy, kẻ gian
+- sự cám dỗ; sức cám dỗ, sức quyến rũ
+
+@lure  
+*  ngdgt
+- gọi chim ưng về bằng cách tung chim giả tung lên
+- nhử, nhử mồi, dỗ dành, quyến rũ
+
++ the pleasures of city life lure him away from studies: những thú vui của thành thị quyến rũ anh mất cả học hành
+
+@lurement  
+*  dt
+- sự nhử mồi, sự quyến rũ
+
+@lurer  
+*  dt
+- người nhử mồi, người quyến rũ
+
+@lurid  
+*  tt
+- xanh nhợt, tái mét, bệch bạc
+- ghê gớm, khủng khiếp
+
++ a lurid tale: một câu chuyện khủng khiếp
+
+@luridly
+* dt
+- ghê gớm, khủng khiếp
+ @luridness  
+*  dt
+- vẻ xanh nhợt, vẻ tái mét, vẻ bệch bạc
+- sự ghê gớm, sự khủng khiếp
+
+@luringly  
+*  dt
+- nhử mồi, quyến rũ
+
+@lurk  
+*  dt
+- ẩn náu, núp, lẩn trốn, trốn tránh, lẩn mặt; lủi
+- ngấm ngầm
+
++ a lurking passion: sự say mê ngấm ngầm
+*  dt
+- on the lurk do thám, rình mò
+- (từ lóng) sự lừa dối, sự đánh lừa
+
+@lurker
+* dt
+- người ẩn nấp, người rình mò, người lừa dối
+ @lurking
+* tt
+- bị che dấu
+
++  a lurking danger:một nguy hiểm ẩn nấp
+
++  a lurking sympathy:một thiện cảm bị che dấu
+ @lurking suspicion
+* dt
+- sự nghi ngờ ngấm ngầm
+ @lurking-place  
+*  dt
+- nơi ẩn náu, chỗ trốn
+
+@LUS
+- (Econ) Số dư tuyến tính vô hướng không chệch.
+: Tính từ dùng để mô tả các số dư tuyến tính (L), không chệch (U) và có ma trận hiệp phương sai chéo vô hướng (S)>
+ @luscious  
+*  tt
+- ngọt ngào; thơm ngát; ngon lành
+- ngọt quá, lợ
+- (văn học) gợi khoái cảm, khêu gợi
+
+@lusciously
+* dt
+- ngọt ngào, thơm ngon
+- khêu gợi, gợi dục
+ @lusciousness  
+*  dt
+- tính chất ngọt ngào; sự thơm ngát; sự ngon lành
+- vị ngọt quá, vị lợ
+- tính khêu gợi
+
+@lush  
+*  tt
+- tươi tốt, sum sê
+- căng nhựa (cỏ cây)
+*  dt
+- (từ lóng) rượu
+*  ngdgt
+- (từ lóng) mời rượu, đổ rượu, chuốc rượu
+*  ndgt
+- (từ lóng) uống rượu, nốc rượu, chè chén
+
+@lushness  
+*  dt
+- sự tươi tốt, sự sum sê
+
+@lushy  
+*  dt
+- tính dâm dật, tính dâm đãng, tính ham nhục dục, thú tính
+- lòng tham, sự ham muốn, sự thèm khát
+
++ lushy of gold: lòng tham vàng, lòng tham tiền bạc
+
++ lushy of honours: sự thèm khát danh vọng
+
+@lust  
+*  ndgt
+- (: for,  after) tham muốn, thèm khát
+
++ to lust for blood: khát máu
+
+@luster  
+*  dt
+- (như) lustrum
+*  dt ((từ Mỹ,nghĩa Mỹ) (cũng) luster  @lusterless
+- xem lustreless
+ @lusterware
+* dt
+- xem lustreware
+ @lustful  
+*  tt
+- dâm dật, dâm đâng; đầy khát vọng, đầy dục vọng
+
+@lustfully
+* dt
+- dâm đãng, dâm dục
+ @lustfulness  
+*  dt
+- tính dâm đãng, tính ham nhục dục
+
+@lustily
+* dt
+- mạnh mẽ, cường tráng
+ @lustiness  
+*  dt
+- sức mạnh, khí lực, sự cường tráng
+
+@lustra  
+*  dt,  số nhiều lustra  @lustral  
+*  tt
+- (tôn giáo) dùng để làm lễ rửa tội; (thuộc) lễ rửa tội; giải oan
+
+@lustration  
+*  dt,  (tôn giáo)
+- lễ khai hoang, lễ tẩy uế
+- lễ rửa tội (cho trẻ con mới đẻ)
+
+@lustre  
+*  dt
+- (như) lustrum
+*  dt ((từ Mỹ,nghĩa Mỹ) (cũng) luster  @lustreless  
+*  tt
+- không bóng, không sáng, xỉn
+
+@lustreware
+* dt
+- đồ sứ phủ men láng
+ @lustrine   (lustring) @lustring   (lustring) @lustrous  
+*  tt
+- bóng, láng
+- sáng, rực rỡ, chói lọi, huy hoàng, xán lạn, lộng lẫy
+
+@lustrously
+* dt
+- rực rỡ, sáng ngời, chói ngời
+ @lustrum  
+*  dt,  số nhiều lustra  @lusty  
+*  tt
+- cường tráng, mạnh mẽ, đầy khí lực, đầy sức sống
+
++ a lusty young man: một thanh niên cường tráng
+
+@lutanist   (lutist) @lute  
+*  dt
+- (âm nhạc) đàn luýt
+- nhựa gắn; mát tít
+*  ngdgt
+- gắn nhựa, gắn mát tít
+
+@lutecium
+* dt
+- (hoá học) luteti; lu
+ @lutein  
+*  dt
+- (sinh vật học); (hoá học) Lutein
+
+@luteinize
+* ngdgt
+- lutein hoá
+* ndgt
+- thành lutein
+ @lutenist
+* dt
+- <nhạc> người chơi đàn luýt
+ @luteous  
+*  tt
+- (số nhiều) có màu da cam
+
+@lutescent
+* tt
+- xem luteous
+ @lute-string  
+*  dt
+- dây đàn luýt
+
+@lutetia
+* tt
+- thuộc cổ Pa-ri
+ @lutetian  
+*  tt
+- (thuộc) Pa-ri (thủ đô Pháp)
+
+@lutetium
+* dt
+- nguyên tố kim loại nặng nhất trong họ lanthan
+ @lutheran  
+*  tt
+- (thuộc) thuyết Lu-ti
+*  dt
+- người theo thuyết Lu-ti
+
+@lutheranism
+* dt
+- cũng luterism
+- học thuyết Lute
+ @lutheranize
+* dt
+- lu-te hoá
+ @luthier
+* dt
+- thợ làm đàn
+ @luting
+* dt
+- chất gắn; ma-tit
+- dầu gắn
+ @lutist   (lutist) @lutz
+* dt
+- điệu nhảy trượt băng quay mình trên không
+ @lux  
+*  dt
+- (vật lý) Luxơ (đợn vị chiếu sáng)
+
+@luxate  
+*  ngdgt
+- làm trật khớp, làm sai khớp
+
+@luxation  
+*  dt
+- sự trật khớp, sự sai khớp
+
+@luxmetar
+* dt
+- lux kế
+ @luxuriance  
+*  dt
+- sự sum sê, sự um tùm (cây cối)
+- sự phong phú, sự phồn thịnh
+- sự hoa mỹ (văn phong)
+
+@luxuriant  
+*  tt
+- sum sê, um tùm
+- phong phú, phồn thịnh
+- hoa mỹ (văn)
+
+@luxuriantly
+* dt
+- sum suê, um tùm
+- phong phú, dồi dào
+ @luxuriate  
+*  ndgt
+- sống sung sướng, sống xa hoa
+- (: in,  on) hưởng, hưởng thụ, vui hưởng; đắm mình vào; thích, ham
+
++ to luxuriate in the warm spring sunshine: tắm mình trong ánh nắng mùa xuân ấm áp
+
++ to luxuriate in dreams: chìm đắm trong mộng tưởng
+
+@luxurious  
+*  tt
+- sang trọng, lộng lẫy; xa hoa, xa xỉ
+
++ luxurious life: đời sống xa hoa
+- ưa khoái lạc; thích xa hoa, thích xa xỉ (người)
+
+@luxuriously
+* dt
+- xa hoa, lộng lẫy
+ @luxury  
+*  dt
+- sự xa xỉ, sự xa hoa
+
++ a life of luxury: đời sống xa hoa
+
++ to live in [the lap of] luxury: sống trong cảnh xa hoa
+- đời sống xa hoa, sinh hoạt xa hoa
+- hàng xa xỉ; vật hiếm có; cao lương mỹ vị
+- điều vui sướng, niềm khoái trá
+
+@Luxury
+- (Econ) Hàng xa xỉ (cúng coi là hàng thượng lưu).
+: Một thuật ngữ không được sử dụng rộng rãi trong kinh tế học hiện đại, nhưng nếu có dùng thì để chỉ một hàng hoá có Độ co giãn cầu theo thu nhập lớn hơn 1, do đó khi thu nhập tăng thì hàng đó chiếm một tỷ lệ cao hơn trong thu nhập của người tiêu dùng.
+ @Luxury taxes
+- (Econ) Thuế hàng xa xỉ.
+: Tăng thuế cho ngân sách chính phủ có thể rất rắc rối ở các nước kém phát triển, nhiều người tự hành nghề hoặc được trả bằng hiện vật và không thể đánh thuế thu nhập được.
+ @luzern
+* dt
+- xem lucerne
+ @

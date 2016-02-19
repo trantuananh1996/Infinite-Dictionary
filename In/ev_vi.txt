@@ -1,0 +1,2522 @@
+@via  
+*  giới từ
+- qua, theo đường
+
++ to go to England via Gibraltar: đi đến Anh qua Gi-bran-ta
+
+@viability  
+*  dt
+- khả năng sống được (của thai nhi, cây cối...)
+- khả năng nảy mầm được (hạt giống)
+- khả năng thành tựu được (kế hoạch)
+- khả năng đứng vững (chính phủ)
+
+@Viability
+- (Econ) Khả năng thành tựu, tính khả thi.
+ @viable  
+*  tt
+- có thể sống được (thai nhi, cây cối...)
+- có thể nảy mầm (hạt giống)
+- có thể thành tựu được (kế hoạch)
+- có thể tồn tại, có thể đứng vững được (chính phủ)
+
+@viably
+- xem viable
+ @viaduct  
+*  dt
+- (kiến trúc) cầu cạn
+
+@vial  
+*  dt
+- lọ nhỏ (bằng thuỷ tinh để đựng thuốc nước)
+!to pour out vials of wrath
+- trút giận; trả thù
+
+@viameter   (viameter) @viand
+* dt
+- thực phẩm, món ăn
+- thức ăn, đồ ăn
+- sự nuôi nấng
+ @viands  
+*  dt số nhiều
+- thức ăn, đồ ăn
+
++ choice viands: thức ăn quý, cao lương mỹ vị, sơn hào hải vị
+
+@viatic
+- xem viatical
+ @viatica
+- xem viaticum
+ @viatical
+* tt
+- thuộc con đường, thuộc đường cái
+ @viaticals
+* dt
+- lương thực, thực phẩm đi đường
+ @viaticum  
+*  dt
+- (sử học) tiền ăn đường; đồ ăn đem đi đường (khi đi công cán)
+- (tôn giáo) bánh thánh ban cho người hấp hối
+- bàn thờ mang đi được
+
+@viator
+* dt
+- khách lữ hành
+ @viatores
+- số nhiều của viator
+ @vibes
+* dt, pl
+- <thgt> đàn tăng rung
+- <thgt> sự rung cảm
+ @vibrance
+- xem vibrant
+ @vibrancy  
+*  dt
+- sự lúc lắc, sự rung động
+- sự rung tiếng
+
+@vibrant  
+*  tt
+- rung, rung động
+
++ vibrant string: sợi dây rung
+- lúc lắc
+- rung, run run
+
++ vibrant with joy: run lên vì mừng
+- kêu, ngân vang
+
++ vibrant drum: trống kêu
+- sôi nổi, mạnh mẽ, đầy khí lực
+
++ a vibrant man: một người sôi nổi đầy khí lực
+
+@vibrantly
+- xem vibrant
+ @vibraphone
+* dt
+- đàn tăng rung (nhạc cụ giống như mộc cầm như ng có bộ phận cộng hưởng bằng điện đặt dưới thanh kim loại gây ra tác dụng ngân vang)
+ @vibraphonist
+- xem vibraphone
+ @vibrate  
+*  ndgt
+- rung, rung động
+- lúc lắc, chấn động
+- rung lên, ngân vang lên (âm thanh)
+- rung lên; rộn ràng
+
++ to vibrate with enthusiasm: rộn ràng vì nhiệt tình
+*  ngdgt
+- làm cho rung động; rung
+
++ to vibrate a string: rung sợi dây
+
+@vibrate
+- dao động, chấn động, rung động
+ @vibratile  
+*  tt
+- rung, rung động
+
++ vibratile organ: (sinh vật học) cơ quan rung động
+
++ vibratile motion: chuyển động rung
+
+@vibratility  
+*  dt
+- khả năng rung động
+
+@vibration  
+*  dt
+- sự rung động; sự làm rung động
+- (vật lý) sự lúc lắc, sự chấn động
+
++ amplitude of vibration: độ biến chấn động
+
++ forced vibration: chấn động cưỡng bức
+
++ free vibration: chấn động tự do
+- sự chấn động
+
++ a vibration of opinion: sự chấn động dư luận
+
+@vibration
+- (vật lí) sự dao động, sự chấn động, sự rung
+- v. of the second order chấn động cấp hai
+- damped v. dao động tắt dần
+- forced v. dao động cưỡng bức
+- harmonic v. dao động điều hoà
+- inaudible v. dao động không nghe thấy được
+- lateral v. dao động ngang
+- longitudinal v. dao động dọc
+- natural v. dao động co lắc
+- sinusoidal v. dao động sin
+- standing v. dao động đứng
+- sympathetic v. chấn động đáp lại
+- torsional v. dao động xoắn 
+ @vibrational  
+*  tt
+- rung động
+- lúc lắc, chấn động
+
+@vibrational
+- có dao động, có chấn động, có rung động
+ @vibrative
+* tt
+- rung động
+ @vibrato
+* dt
+- <nhạc> tiếng rung; tiếng réo rắt (tác động đập nhanh hoặc rung rung khi hát, trên đàn giây, đàn gió, gồm những biến đổi nhanh nhẹ về độ cao)
+ @vibrator  
+*  dt
+- vật rung động
+- (kỹ thuật) máy rung; bộ chấn động
+- (y học) máy xoa bóp
+
+@vibrator
+- (kỹ thuật) cái dao động; [cái, bộ] rung
+- asymmetric(al) v. cái dao động không đối xứng
+ @vibratory  
+*  tt
+- (vật lý) rung, chấn động
+
+@vibrio  
+*  dt,  số nhiều vibrios
+- (sinh vật học) vi khuẩn phẩy
+
+@vibrioid
+- xem vibrio
+ @vibrissa
+* dt
+- lông gốc mỏ (chim)
+- ria, râu mép (thú)
+- lông mũi
+ @vibrissae  
+*  dt số nhiều
+- lông mũi (của người)
+- lông mỏ (của chim)
+- râu mép (của thú)
+
+@vibrograph
+* dt
+- máy ghi chấn động
+ @vibrometer
+* dt
+- máy đo chấn động
+ @vibroscope  
+*  dt
+- (vật lý) máy nghiệm rung, máy nghiệm chấn động
+
+@viburnum  
+*  dt
+- (thực vật học) giống giáng cua, giống tú cầu
+
+@vic
+* dt
+- người tù
+- viết tắt của convict
+ @vicar  
+*  dt
+- (tôn giáo) cha sở
+- giáo chức đại diện (toà thánh La mã)
+
++ vicar of Jesus Christ: giáo hoàng
+!vicar of bray
+- người phản bội
+
+@vicar of christ
+* dt
+- (Vicar of Christ) danh hiệu đôi khi dùng để gọi Giáo hoàng
+ @vicarage  
+*  dt
+- hoa lợi của cha sở
+- toà cha sở (nơi cha sở ở)
+
+@vicaress
+* dt
+- vợ linh mục
+- bà xơ thủ quỹ
+- bà giúp việc nữ tu viện trưởng
+ @vicarial  
+*  tt
+- (tôn giáo) (thuộc) cha sở
+
+@vicarian
+* tt
+- thuộc đại biện
+ @vicariate
+* dt
+- quyền đại biện
+ @vicarious  
+*  tt
+- đại biểu, được uỷ nhiệm
+
++ vicarious authority: quyền đại biểu
+- chịu thay cho
+
++ vicarious punishment: sự trừng phạt chịu thay cho người khác
+- làm thay người khác vì người khác
+
++ vicarious work: công việc làm thay cho người khác
+- (y học) thay thế (phép điều trị)
+
+@vicariously
+- xem vicarious
+ @vicariousness
+- xem vicarious
+ @vicarship
+- xem vicar
+ @vicceroyal
+- xem vice-rogal
+ @vice  
+*  dt
+- thói xấu, nết xấu, thói hư tật xấu
+- sự truỵ lạc, sự đồi bại
+
++ a city sunk in vices: một thành phố chìm đắm trong cảnh truỵ lạc
+- chứng, tật (ngựa)
+- thiếu sót, tật
+
++ a vice of style: chỗ thiếu sót trong cách hành văn
+
++ a vice of constitution: tật về thể chất
+*  dt
+- (thông tục) (viết tắt) của vice-president,  vice-chancellor...
+*  dt
+- (kỹ thuật) mỏ cặp,  êtô
+
++ as firm as a vice: chắc như đinh
+*  ngdgt
+- (kỹ thuật) kẹp bằng êtô['vaisi]
+*  giới từ
+- thay cho, thế cho
+
+@vice versa  
+*  dt
+- trở lại, ngược lại
+
++ a travel from Hue to Hanoi and vice_versa: một cuộc du hành từ Huế ra Hà nội và trở lại
+
+@vice versa
+- ngược lại
+ @vice-admiral  
+*  dt
+- phó đô đốc
+
+@vice-admiralty
+* dt
+- chức phó đô đốc, hàm phó đô đốc
+ @vice-agent
+* dt
+- người được ủy quyền
+- người đại diện
+ @vice-chairman  
+*  dt
+- phó chủ tịch
+
+@vice-chancellor  
+-ʃɑ:nsələ@vice-chief
+* dt
+- người phó thứ nhất của thủ trưởng
+ @vice-consul  
+*  dt
+- phó lãnh sự
+
+@vice-consular
+* tt
+- thuộc phó lãnh sự
+ @vice-consulate
+* dt
+- chức phó lãnh sự
+ @vice-dean
+* dt
+- phó chủ nhiệm khoa
+ @vicegeral
+* tt
+- thuộc người đại diện
+- xem vicegerent
+ @vicegerency
+* dt
+- chế độ đại diện
+ @vicegerent  
+*  tt
+- đại diện, thay mặt
+*  dt
+- đại diện
+
+@vice-governor  
+*  dt
+- phó thống đốc
+
+@vice-king
+- xem viceroy
+ @vice-minister  
+*  dt
+- thứ trưởng
+
+@vicenary
+* tt
+- thứ hai 20
+- gồm 20 cái
+ @vicennial  
+*  tt
+- lâu hai mươi năm
+- hai mươi năm một lần
+
+@vice-presidency
+* dt
+- nhiệm kỳ phó chủ tịch, nhiệm kỳ phó tổng thống
+- chức phó chủ tịch, chức phó tổng thống
+ @vice-president  
+*  dt
+- phó chủ tịch, phó tổng thống
+
+@vice-presidential
+* tt
+- thuộc phó chủ tịch, thuộc phó tổng thống
+ @vice-principal
+* dt
+- tổng giám thị
+ @vice-queen
+- xem vicereine
+ @viceregal  
+*  tt
+- (thuộc) phó vương; (thuộc) kinh lược; (thuộc) tổng trấn
+
+@viceregally
+- xem viceregal
+ @vice-regent
+* dt
+- phó nhiếp chính
+ @vicereine
+* dt
+- vợ của phó vương; nữ phó vương
+ @viceroy  
+*  dt
+- phó vương; kinh lược; tổng trấn
+
+@viceroyalty  
+*  dt
+- chức phó vương; chức kinh lược, chức tổng trấn
+
+@vice-treasurer
+* dt
+- phó giám đốc kho bạc, phó thủ quỹ
+ @vichyssolse
+* dt
+- món xúp có tỏi và khoai
+ @vicinage  
+*  dt
+- sự ở gần
+- tình hàng xóm láng giềng, quan hệ hàng xóm láng giềng
+- hàng xóm, láng giềng
+- vùng lân cận
+
+@vicinal
+* tt
+- địa phương
+- láng giềng, lân cận
+ @vicinity  
+*  dt
+- sự lân cận, sự tiếp cận
+- vùng lân cận
+
++  Hanoi and its vicinity: Hà nội và vùng lân cận
+
++ in the vicinity of: ở gần
+- quan hệ gần gũi
+
+@vicinity
+- lân cận in the v. of... gần ...
+- v. of a point lân cận của một điểm 
+ @vicious  
+*  tt
+- xấu xa, đồi bại
+
++ vicious practices: những lề thói xấu xa
+
++ a vicious life: cuộc sống đồi bại
+- xấu, ác
+
++ vicious rumor: lời đồn ác
+- giữ (ngựa)
+- sai, không hợp cách, hỏng, có thiếu sót
+
++ a vicious style: một lối viết văn sai sót
+
++ vicious pronunciation: cách phát âm sai
+!vicious circle
+- (xem) circle
+
+@Vicious circles
+- (Econ) Các vòng luẩn quẩn.
+: Cụm thuật ngữ này thường chỉ quan điểm về các nước đang phát triển cho rằng một nền kinh tế đủ tồn tại sẽ đứng yên, bởi vì tổng sản lượng thấp tới mức hầu như không có dự trữ.
+ @viciously
+* dt
+- xấu xa, hằn học
+- sa vào tội lỗi, bị sa đoạ, đồi bại
+- hoang dã và nguy hiểm (thú vật)
+- <thgt> dữ dội, khắc nghiệt
+- xấu, đầy ác ý
+- giữ (ngựa)
+- sai, không hợp cách, hỏng, có thiếu sót
+ @viciousness  
+*  dt
+- bản chất xấu xa; sự đồi bại
+- tính chất độc ác
+- sự sai sót, sự không hợp cách
+
+@vicissitude  
+*  dt
+- sự thăng trầm; sự thịnh suy
+
++ the vicissitudes of life: những nỗi thăng trầm của cuộc đời
+- (từ cổ,nghĩa cổ); (thơ ca) sự thay đổi chu kỳ, sự tuần hoàn
+
++ the vicissitude of seasons: sự tuần hoàn của các mùa
+
+@vicissitudinous
+* tt
+- đầy ngang trái
+ @vicisstudinary
+* tt
+- đầy ngang trái
+- luân phiên, thay đổi
+ @vicontiel
+* tt
+- thuộc quận trưởng, thuộc chánh án quận
+ @victim  
+*  dt
+- vật bị hy sinh, người bị chết vì, nạn nhân
+
++ to fall a victim to disease: bị chết bệnh
+
++ the victim of circumstances: nạn nhân của hoàn cảnh
+
++ the victim of one's own ambition: là nạn nhân của tham vọng của chính mình
+- người bị lừa
+
++ the victim of dishonest companions: người bị bạn gian xảo lừa dối
+- (từ cổ,nghĩa cổ) vật tế
+
+@Victim company
+- (Econ) Công ty nạn nhân.
+: Một công ty là đối tượng của một đấu thầu thu mua.
+ @victimhood
+- xem victim
+ @victimisation
+* dt
+- sự khiển trách, sự trừng phạt (ai một cách không công bằng về những hành động do người khác tiến hành)
+- sự bắt nạt, sự trù dập; sự trêu chọc
+- sự biến thành nạn nhân, sự biến thành vật hy sinh
+- sự ngược đãi, sự đối xử tàn nhẫn
+- sự cô lập
+- sự lừa bịp
+ @victimise   (victimise) @victimizable
+* tt
+- cả tin, yếu đuối
+ @victimization  
+*  dt
+- sự dùng làm vật hy sinh
+- sự đối xử tàn nhẫn
+- sự lừa bịp
+
+@victimize   (victimise) @victimizer
+- xem victimize
+ @victor  
+*  dt
+- người thắng cuộc, kẻ chiến thắng
+- (định ngữ) chiến thắng
+
++ victor army: đạo quân chiến thắng
+
+@victoria  
+*  dt
+- xe ngựa bốn bánh mui trần
+- chim bồ câu victoria
+- (thực vật học) cây súng Nam Mỹ ((cũng) victoria lily)
+
+@victoria lily
+* dt
+- <thực> cây súng Nam Mỹ
+ @victoria-cross
+* dt
+- (Victoria-Cross)  <vt> VC Anh dũng bội tinh Victoria (phần thưởng <qsự> cao nhất về lòng dũng cảm)
+ @victorian
+* tt(Victoria):(thuộc) triều đại của Nữ hoàng Victoria, sống trong triều đại của Nữ hoàng Victoria, vào thời đại Nữ hoàng Victoria (1837 - 1901)
+- có những tính chất và quan điểm được gán cho người thuộc lớp trung lưu ở Anh vào thế kỷ 19
+* dt
+- người sống dưới triều đại của Nữ hoàng Victoria
+ @victorious  
+*  tt
+- chiến thắng, thắng cuộc
+
++ a victorious army: đạo quân chiến thắng
+
++ a victorious day: ngày chiến thắng
+
++ victorious over difficulties: chiến thắng những khó khăn
+
+@victoriously
+- trạng từ
+- xem victorious
+ @victoriousness
+- xem victorious
+ @victory  
+*  dt
+- sự chiến thắng, sự thắng cuộc; thắng lợi
+
++ to win glorious victories: giành được những chiến thắng vẻ vang
+- sự khắc phục được, sự chế ngự được
+
++ victory over one's quick temper: sự chế ngựa được tính nóng nảy của mình
+
+@victress
+* dt
+- người đàn bà chiến thắng
+ @victrices
+- số nhiều của victrix
+ @victrix
+* dt
+- xem victress
+ @victual  
+*  dt ((thường) số nhiều)
+- thức ăn; lương thực, thực phẩm
+*  ndgt
+- mua thức ăn
+- ăn uống
+*  ngdgt
+- cung cấp lương thực thực phẩm
+
++ to victual a town: cung cấp lương thực thực phẩm cho một thành phố
+
+@victualler  
+*  dt
+- người buôn lương thực thực phẩm
+
++ licensed victualler: người bán rượu có môn bài
+- (hàng hải) tàu tiếp tế lương thực thực phẩm (cho các tàu khác)
+
+@victualling  
+*  dt
+- sự cung cấp lương thực thực phẩm; sự tiếp tế lương thực thực phẩm
+
++ victualling note: (hàng hải) phiếu cấp lương thực thực phẩm cho thuỷ thủ
+
+@victualling-bill
+* dt
+- giấy phép cho tiếp tế lương thực thực phẩm (được miễn thuế quan)
+ @victualling-house
+* dt
+- quán ăn, cửa hàng ăn
+ @victualling-office  
+*  dt
+- phòng cung cấp lương thực thực phẩm cho hải quân
+
+@victualling-yard
+* dt
+- kho lương thực thực phẩm
+ @vicuna
+* dt
+- một loài động ở châu Mỹ, họ hàng với con lạc đà không bướu có lông mịn mượt mà
+- lông của con vật đó (để may quần áo)
+ @vide  
+*  dgt không ngôi ((viết tắt) v.)
+- xem
+
++ v. supra: xem trên
+
++ v. page 50: xem trang 50
+
+@videlicet  
+*  dt
+- ((viết tắt) viz) nghĩa là, tức là
+
++ three people have seen, videlicet John, William and Oliver: ba người đã trông thấy tức là Giôn,  Uy-liam và Ô-li-vơ
+
+@video  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) (thuộc) truyền hình; dùng trong truyền hình
+*  dt
+- (từ Mỹ,nghĩa Mỹ) truyền hình
+
+@video cassette record
+* dt
+- <vt>  VCR đầu máy viđêô
+ @video game
+* dt
+- trò chơi viđêô
+ @video nasty
+* dt
+- <thgt> phim viđêô đen (chiếu những cảnh khiêu dâm và bạo lực)
+ @video recorder
+* dt
+- đầu máy viđêô
+ @videodisc
+* dt
+- đựa viđêô
+ @videodisk
+- đựa video tương tác
+ @videologist
+* dt
+- người nghiện xem truyền hình
+ @videotape
+* dt
+- băng viđêô
+* ngdgt
+- thâu vào băng viđêô
+ @videotex
+* dt
+- cũng videotext
+- hệ thống thông tin điện tử đặc biệt telex (hoặc hệ hiển thị dữ liệu)
+ @videotext
+- văn bản video
+ @vidette
+- xem vedetre
+ @vidfilm
+* dt
+- phim truyền hình
+ @vidimus
+* dt
+- bản trích yếu
+- kiểm tra (tài liệu)
+ @vidipic
+* dt
+- xem vidfilm
+ @viduity
+* dt
+- như widowhood
+ @vie  
+*  ndgt
+- ganh đua; thi đua
+
++ to vie in increased labour efficiency: thi đua tăng năng suất
+
+@vietminh
+* dt
+- người tham gia cuộc kháng chiến chống Nhật và Pháp từ năm 1941 đến 1954 (dưới sự lãnh đạo của Chủ tịch Hồ Chí Minh)
+- (the Vietminh) lực lượng kháng chiến chống Nhật và Pháp từ năm 1941 đến 1954 (dưới sự lãnh đạo của Chủ tịch Hồ Chí Minh)
+* tt
+- (thuộc) Việt Minh
+
++  Was his father a Vietminh guerilla?:Bố anh ấy có phải là du kích Việt Minh hay không?
+* dt
+- người tham gia cuộc kháng chiến chống Nhật và Pháp từ năm 1941 đến 1954 (dưới sự lãnh đạo của Chủ tịch Hồ Chí Minh)
+- (the Vietminh) lực lượng kháng chiến chống Nhật và Pháp từ năm 1941 đến 1954 (dưới sự lãnh đạo của Chủ tịch Hồ Chí Minh)
+* tt
+- (thuộc) Việt Minh
+
++  Was his father a Vietminh guerilla?:Bố anh ấy có phải là du kích Việt Minh hay không?
+ @vietnam
+* dt
+- (địa lý) Việt Nam
+ @vietnamese  
+*  tt
+- (thuộc) Việt nam
+*  dt
+- người Việt nam
+- tiếng Việt
+
+@view  
+*  dt
+- sự nhìn, sự thấy, tầm nhìn, tầm mắt
+
++ to go out of view: đi khuất không nhìn thấy được nữa
+
++ hidden from view: bị che khuất
+
++ to come in view: hiện ra trước mắt
+
++ to keep in view: không rời mắt, theo sát; trông nom săn sóc đến, để ý luôn luôn đến
+- cái nhìn thấy, cảnh, quang cảnh
+
++ this room has a fine view: ở phòng này nhìn ra phong cảnh đẹp
+
++ panoramic view of the town: toàn cảnh của thành phố
+- dịp được xem, cơ hội được thấy
+
++ private view: cuộc trưng bày (tranh...) dành riêng cho bạn bè và các nhà phê bình
+- quan điểm, nhận xét, ý kiến, cách nhìn
+
++ to form a clear view of the facts: có cách nhìn rõ ràng các sự việc
+
++ to hold advanced views: có những quan điểm tiên tiến
+
++ to share someone's views: cùng quan điểm với ai
+
++ to have opposite views: có những ý kiến đối lập nhau
+
++ point of view: quan điểm
+
++ political view: chính kiến
+
++ in view of: xét thấy, vì lý do, bởi, vì
+- dự kiến, ý định
+
++ to have something in view: dự kiến một việc gì
+
++ to have other views for: có những dự kiến khác đối với
+
++ with a view to; with the view of: với ý định
+
++ with this in view: với ý định này
+- (pháp lý) sự khám xét tại chỗ, sự thẩm tra tại chỗ
+*  ngdgt
+- thấy, nhìn, xem, quan sát
+- nhìn, xét, nghĩ về
+
++ to view a matter from one's standpoint: nhìn vấn đề theo quan điểm của mình
+
+@view
+- dạng; phép chiếu
+- in v. of theo, chú ý...
+- auxiliary v. (hình học) pháp chiếu phụ
+- front v. nhìn từ trước, hình chiếu từ trước
+- principal v. (hình học) phép chiếu chính
+- rear v. nhìn từ sau
+- side v. (hình học) nhìn từ một bên, nhìn ngang 
+ @viewable  
+*  tt
+- có thể xem được
+
+@viewer  
+*  dt
+- người xem
+- người khám xét, người thẩm tra
+- người xem truyền hình
+
+@view-finder  
+*  dt
+- (nhiếp ảnh) kính ngắm
+
+@viewing
+* dt
+- sự xem phim
+- sự kiểm tra hình ảnh
+ @viewless  
+*  tt
+- (thơ ca) không nhìn thấy được
+- (từ Mỹ,nghĩa Mỹ) không có ý kiến, không có quan điểm
+
+@viewlessly
+- trạng từ
+- xem viewless
+ @view-point  
+*  dt
+- chỗ đứng nhìn tốt, chỗ dễ nhìn
+- quan điểm
+
+@viewpoint
+* dt
+- chỗ đứng nhìn tốt, chỗ dễ nhìn
+- quan điểm, điểm nhìn
+ @viewy  
+*  tt
+- (từ Mỹ,nghĩa Mỹ); (thông tục) có những ý nghĩ kỳ dị
+- phô trương, hoa hoè hoa sói
+
+@vigesimal
+* tt
+- gồm 20 (phần, đơn vị)
+- thứ 20, nhị thập phân (hệ đếm)
+ @vigesimo-quato
+* dt
+- khổ 1  @vigia
+* dt
+- dấu hiệu nơi nguy hiểm (trên bản đồ)
+ @vigil  
+*  dt
+- sự thức khuya; sự thức để trông nom; sự thức để cầu kinh
+
++ to keep vigil over a sick child: thức để trông nom đứa trẻ ốm
+- ngày ăn chay trước ngày lễ
+- (số nhiều) kinh cầu ban đêm
+
+@vigilance  
+*  dt
+- sự cảnh giác, sự thận trọng, sự cẩn mật
+
++ to show great vigilance: tỏ ra cảnh giác cao, tỏ ra rất thận trọng
+
++ to lack vigilance: thiếu cảnh giác, thiếu thận trọng
+- (y học) chứng mất ngủ
+
+@vigilance committee   (vigilante_gang) @vigilant  
+*  tt
+- cảnh giác, thận trọng, cẩn mật
+
+@vigilante  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) uỷ viên uỷ ban trật tự ((xem) vigilance_committee)
+
+@vigilante gang   (vigilante_gang) @vigilantism
+- xem vigilante
+ @vigilantly
+- xem vigilant
+ @vigneron
+* dt
+- người trồng nho, người nấu rượu vang
+ @vignette  
+*  dt
+- hoạ tiết (ở đầu hay cuối chương trong sách in)
+- tem nhãn (ở hàng hoá, bao diêm)
+- bức ảnh nửa người có nền mờ
+- (kiến trúc) hình trang trí cành lá nho
+- tác phẩm văn học ngắn
+*  ngdgt
+- làm mờ nét ảnh (cho lẫn với màu giấy)
+
+@vignetter
+* dt
+- màng ngăn, chắn sáng diapham
+ @vignettist
+* dt
+- tác giả chân dung văn học
+- tác giả ttruyện ngắn
+- hoạ sĩ vẽ vinhet
+ @vigor  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) vigour
+
+@vigoroso  
+*  dt
+- (âm nhạc) mạnh mẽ
+
+@vigorous  
+*  tt
+- mạnh khoẻ, cường tráng
+
++ vigorous youth: tuổi thanh niên cường tráng
+- mãnh liệt, mạnh mẽ
+
++ a vigorous attack: một cuộc tấn công mãnh liệt
+
++ a vigorous protest: sự phản kháng mạnh mẽ
+- đầy khí lực
+
++ a vigorous style: lối văn đầy khí lực
+
+@vigorously
+* dt
+- sôi nổi, mãnh liệt, mạnh mẽ, hoạt bát, đầy sinh lực
+- hùng hồn, mạnh mẽ, đầy khí lực (lời lẽ )
+- mạnh khoẻ, cường tráng
+ @vigorousness  
+*  dt
+- tính chất mạnh khoẻ cường tráng
+- tính chất mạnh mẽ; sự mãnh liệt
+- khí lực
+
+@vigour  
+*  dt
+- sức mạnh, sự cường tráng
+
++ full of vigour: đầy sức mạnh, mạnh khoẻ, cường tráng
+- sức mãnh liệt, sức hăng hái, sự mạnh mẽ
+
++ the vigour of an attack: sức mãnh liệt của một cuộc tấn công
+
++ to grow with vigour: mọc mạnh mẽ
+- khí lực
+
++ man of vigour: người có khí lực
+
++ vigour of literary style: khí lực của văn phong
+
+@viking  
+*  dt
+- (sử học) cướp biển (ở Bắc Âu,  (thế kỷ) 8 10)
+
+@vild
+- xem vile
+ @vile  
+*  tt
+- hèn hạ, đê hèn
+
++ vile language: giọng lưỡi hèn hạ
+
++ vile offence: sự xúc phạm đê hèn
+- tồi, kém, không có giá trị
+- (thông tục) thật là xấu, khó chịu
+
++ vile weather: thời tiết thật là xấu
+
++ a vile temper: tính tình khó chịu
+
+@vilely
+* dt
+- cực kỳ ghê tởm
+- đê tiện, hèn hạ, đồi bại (về mặt đạo đức)
+- tồi, kém, không có giá trị, quá tệ (hàng hoá)
+- <thgt> cực kỳ xấu; rất khó chịu
+ @vileness  
+*  dt
+- tính chất hèn hạ, tính chất đê hèn
+- tính chất thật là xấu, tính chất khó chịu
+
+@vilification  
+*  dt
+- sự phỉ báng; sự gièm pha, sự nói xấu
+
+@vilifier  
+*  dt
+- người phỉ báng; người gièm pha, người nói xấu
+
+@vilify  
+*  ngdgt
+- phỉ báng; gièm, nói xấu
+
+@vilipend  
+*  ngdgt
+- khinh thị; chê bai
+
+@vility
+* dt
+- sự hèn hạ, sự đê tiện
+ @vill
+* dt
+- làng, làng quê
+ @villa  
+*  dt
+- biệt thự; biệt thự ở ngoại ô
+
+@villadom  
+*  dt
+- khu biệt thự ở ngoại ô
+- tầng lớp có biệt thự ở ngoại ô
+
+@village  
+*  dt
+- làng, xã
+
+@villager  
+*  dt
+- dân làng, dân nông thôn
+
+@villagery
+* dt
+- làng xóm (nói chung)
+ @villain  
+*  dt
+- côn đồ; kẻ hung ác
+-(đùa cợt) thằng bé tinh quái; thằng quỷ sứ con
+- (từ cổ,nghĩa cổ) người quê mùa thô kệch
+- (sử học) (như) villein
+
+@villainess
+* dt
+- con vô lại, nữ phạm nhân
+ @villainous  
+*  tt
+- côn đồ, hung ác
+
++ villainous deed: hành động côn đồ
+- đê hèn, xấu xa
+
++ villainous face: bộ mặt đê hèn
+- (thông tục) ghê tởm, bẩn thỉu, thật là xấu
+
++ villainous weather: trời thật là xấu
+
+@villainously
+- trạng từ
+- xem villainous
+ @villainousness
+* dt
+- xem villainous
+ @villainy  
+*  dt
+- tính chất côn đồ; hành động côn đồ, việc hung ác
+- tính đê hèn
+- tính chất ghê tởm, tính vô cùng xấu
+
+@villakin
+* dt
+- biệt thự con, nhà tí xíu
+ @villan
+- xem villein
+ @villanage
+* dt
+- xem villeinage
+ @villatic
+* tt
+- thuộc biệt thự
+- thuộc làng xã
+ @villeggiatura  
+*  dt
+- sự về ở nông thôn
+
+@villein  
+*  dt
+- (sử học) nông nô
+
+@villeinage
+* dt
+- đời sống nông nô; tình trạng sống của người nông nô
+ @villein-socage
+* dt
+- chế độ lao dịch @villi  
+*  dt,  số nhiều villi
+- (giải phẫu) lông nhung
+- (thực vật học) lông tơ (quả cây)
+
+@villose   (villous) @villosity  
+*  dt
+- (giải phẫu) lông nhung; tình trạng có lông nhung
+- (thực vật học) lớp lông tơ; tình trạng có lông tơ
+
+@villous   (villous) @villously
+- xem villous
+ @villus  
+*  dt,  số nhiều villi
+- (giải phẫu) lông nhung
+- (thực vật học) lông tơ (quả cây)
+
+@vim  
+*  dt
+- (thông tục) sức mạnh, sức sống
+
++ full of vim: đầy sức sống
+
+@vimen
+- dt số nhiều vimina
+* dt
+- cành nhỏ dài
+ @viminal  
+*  tt
+- (thực vật học) (thuộc) cành; (thuộc) chồi
+- ra cành; mọc chồi
+
+@vimineous
+* tt
+- đan, bện (bằng lau, sậy)
+ @vina
+* dt
+- Đàn Vina (Đàn ấn Độ 4 dây)
+ @vinaceous  
+*  tt
+- có màu đỏ rượu vang
+- (thuộc) quả nho; (thuộc) rượu nho
+
+@vinaigrette  
+*  dt
+- nước xốt dầu giấm ((cũng) vinaigrette sauce)
+- lọt hít giấm thơm
+
+@vinaigrette sauce
+* dt
+- món rau trộn dầu dấm và rau thơm
+ @vinculum
+- dấu gạch trên biểu thức
+ @vindicability  
+*  dt
+- tính chất có thể chứng minh, tính chất bào chữa được
+
+@vindicable  
+*  tt
+- chứng minh được, bào chữa được
+
+@vindicate  
+*  ngdgt
+- chứng minh (sự tồn tại, tính chất chính nghĩa), bào chữa
+
++ to vindicate one's right: chứng minh tính chất chính đáng của quyền lợi của mình
+
++ to vindicate one's character: tự bào chữa
+
+@vindication  
+*  dt
+- sự chứng minh, sự bào chữa
+- sự chứng minh tính chất chính đáng
+
+@vindicative  
+*  tt
+- để chứng minh, để bào chữa
+
++ vindicative document: tài liệu để chứng minh
+
+@vindicator  
+*  dt
+- người chứng minh, người bào chữa
+
+@vindicatory  
+*  tt
+- để chứng minh, để bào chữa
+- (pháp lý) để trừng trị
+
+@vindictive  
+*  tt
+- hay báo thù, thù oán
+
++ a vindictive person: một người hay thù oán
+- có tính chất trả thù, báo thù
+
++ a vindictive punishment: một sự trừng phạt trả thù
+
+@vindictively
+- xem vindictive
+ @vindictiveness  
+*  dt
+- tính chất hay báo thù; tính chất trả thù
+
+@vine  
+*  dt
+- (thực vật học) cây nho
+- cây leo; cây bò
+
+@vineal
+* tt
+- thuộc rượu vang
+ @vine-disease  
+*  dt
+- bệnh cây nho
+
+@vinedresser  
+*  dt
+- người trồng nho
+
+@vine-fretter
+- xem vine-louse
+ @vinegar  
+*  dt
+- giấm
+- (định ngữ) chua như giấm; khó chịu
+
++ a vinegar tongue: miệng lưỡi chua như giấm
+
++ a vinegar face: bộ mặt câng câng khó chịu
+*  ngdgt
+- trộn giấm
+- làm cho chua như giấm
+
+@vinegar-cruet
+* dt
+- lọ giấm
+ @vinegarette
+- xem vinaigrette
+ @vinegar-faced
+* tt
+- trông bộ rầu rĩ
+ @vinegarish   (vinegary) @vinegary   (vinegary) @vine-grower  
+*  dt
+- người trồng nho
+
+@vinegrower
+* dt
+- người trồng nho
+ @vine-leaf
+* dt
+- lá nho
+ @vine-louse
+* dt
+- rệp rễ nho
+ @vine-pest
+* dt
+- xem vine-louse
+ @vine-prop
+* dt
+- cọc dây nho leo
+ @viner
+* dt
+- đậu cô ve
+ @vinery  
+*  dt
+- nhà kính trồng nho
+
+@vineyard  
+*  dt
+- ruộng nho, vườn nho
+
+@vineyardlist
+* dt
+- người trồng nho
+ @ving-et-un
+* dt
+- bài trấp nhất (loại bài người chơi cố đạt được 21 điểm)
+- bài ""hăm mốt""
+ @vingtetun
+* dt
+- (ving-et-tun)  (tiếng Pháp) bài xì lát (thắng khi đủ 21 điểm); đạt được 21 điểm với hai quân bài
+ @vinic  
+*  tt
+- (thuộc) rượu vang
+- từ rượu vang mà ra
+
+@vinicultural   (viticultural) @viniculture   (viticulture) @viniculturist
+- xem viniculture
+ @viniferous  
+*  tt
+- sản xuất rượu nho (vùng)
+
+@vino
+* dt
+- <thgt><đùa> rượu vang
+ @vinolence
+* dt
+- tệ rượu chè
+- bệnh nghiện rượu
+ @vinolency
+* dt
+- xem vinolence
+ @vinolent
+* dt
+- nghiện rượu, rượu chè
+ @vinose
+* dt
+- xem vinous
+ @vinous  
+*  tt
+- có màu đỏ rượu vang
+- có mùi vị rượu vang
+- được mùa rượu vang
+
++ vinous year: năm được mùa rượu vang
+- từ rượu vang mà ra
+
+@vinousity
+* dt
+- tính chất có rượu @vinously
+- xem vinous
+ @vint
+* dtgạoi dgt
+- làm rượu vang
+ @vintage  
+*  dt
+- sự hái nho; mùa hái nho; nho hái về
+- năm được mùa nho
+- miền sản xuất nho; rượu chế ở miền sản xuất nho
+
++ vintage champagne: rượu sâm banh chính cống
+
++ vintage wines: rượu vang nổi tiếng
+- (thơ ca) rượu
+- (định ngữ) (thuộc) loại cũ, (thuộc) loại đã quá thời
+
++ a vintage plane: máy bay loại cũ
+
+@Vintage growth models
+- (Econ) Mô hình tăng trưởng theo thời gian.
+: Mô hình tăng trưởng kinh tế cho phép vốn và tiến bộ kỹ thuật kèm theo nó giảm đi theo thời gian.
+ @vintager  
+*  dt
+- người hái nho
+
+@vintaging
+* dt
+- công việc thu hoạch nho
+ @vintner  
+*  dt
+- người buôn rượu vang
+
+@vintnery  
+*  dt
+- nghề buôn rượu vang
+
+@vintry
+* dt
+- hầm chứa rượu vang
+ @viny  
+*  tt
+- (thuộc) cây nho
+- trồng nho; sản nhỏ; nhiều nho (miền)
+
+@vinyl
+* dt
+- nhựa vinyl (chất nhựa dẻo hơi cứng, nhất là PVC được dùng làm áo mưa, đựa hát, bìa sách )
+ @vinylic
+- xem vinyl
+ @viol  
+*  dt
+- (âm nhạc) đàn viôn
+
+@viola  
+*  dt
+- (âm nhạc) đàn antô
+- (thực vật học) cây hoa tím
+
+@violability
+- xem violable
+ @violable  
+*  tt
+- có thể vi phạm, có thể xâm phạm
+
+@violableness
+* dt
+- xem violable
+ @violably
+- trạng từ
+- xem violable
+ @violaceous  
+*  tt
+- tím
+- (thực vật học) (thuộc) họ hoa tím
+
+@violate  
+*  ngdgt
+- vi phạm, xâm phạm, phạm; làm trái (lương tâm...); lỗi (thề...)
+
++ to violate a law: vi phạm một đạo luật
+
++ to violate an oath: lỗi thề
+- hãm hiếp
+- phá rối, làm mất (giấc ngủ, sự yên tĩnh...)
+
++ to violate someone's peace: phá rối sự yên tĩnh của ai
+- (tôn giáo) xúc phạm
+
++ to violate a sanctuary: xúc phạm thánh đường
+
+@violation  
+*  dt
+- sự vi phạm, sự xâm phạm; sự làm trái
+
++ in violation of: vi phạm
+- sự hãm hiếp
+- sự phá rối
+- (tôn giáo) sự xúc phạm
+
+@violative
+* tt
+- xem violate
+- vi phạm, thực hiện thì phá vỡ
+ @violator  
+*  dt
+- người vi phạm, người xâm phạm; người làm trái
+- người hãm hiếp
+- người phá rối
+- (tôn giáo) người xúc phạm
+
+@viole
+* dt
+- xem viola
+ @violence  
+*  dt
+- sự dữ dội, sự mãnh liệt; tính hung dữ
+- tính chất quá khích
+- bạo lực, sự cưỡng bức
+
++ to do violence to: hành hung, cưỡng bức; làm ngược lại
+
++ to do violence to one's principles: làm ngược lại với nguyên tắc mình đề ra
+
++ robbery with violence: tội ăn trộm có cầm khí giới
+
+@violent  
+*  tt
+- mạnh mẽ, dữ dội, mãnh liệt
+
++ violent wind: gió dữ
+- hung tợn, hung bạo
+
++ a violent man: người hung bạo
+
++ to lay violent hands on somebody: (pháp lý) hành hung ai
+
++ to lay violent hands on something: (pháp lý) cưỡng đoạt cái gì
+
++ to resort to violent means: dùng đến bạo lực
+- kịch liệt, quá khích, quá đáng
+
++ violent words: những lời quá khích
+
++ violent colours: màu sắc quá sặc sỡ
+
++ in a violent hurry: rất vội, rất khẩn cấp
+
++ violent death: cái chết bất đắc kỳ tử
+
+@violently  
+*  dt
+- mãnh liệt, dữ, kịch liệt
+
+@violet  
+*  tt
+- tím
+*  dt
+- màu tím
+- (thực vật học) cây hoa tím
+
+@violet-coloured
+* dt
+- tím, tím hoa cà
+ @violin  
+*  dt
+- (âm nhạc) đàn viôlông
+- người chơi viôlông (trong một dàn nhạc)
+
+@violinist  
+*  dt
+- người chơi viôlông
+
+@violinistic
+- xem violin
+ @violin-maker
+* dt
+- thợ làm viôlông
+ @violist  
+*  dt
+- (âm nhạc) người chơi đàn viôn
+- người chơi đàn antô
+
+@violoncellist  
+*  dt
+- người chơi đàn viôlông xen
+
+@violoncello  
+*  dt,  số nhiều violoncellos
+- (âm nhạc) đàn viôlôngxen
+
+@vip
+* (viết tắt)
+- nhân vật quan trọng, yếu nhân (very  important  person)
+ @vipe
+* ndgt
+- hút marihuan (ma túy)
+ @viper  
+*  dt
+- (động vật học) rắn vipe
+- (nghĩa bóng) người ác hiểm, người tráo trở
+
+@viperish   (viperous) @viperous   (viperous) @viperously
+- xem viperous
+ @viraginian
+* tt
+- hay gây gỗ (nói về đàn bà)
+- hay cãi cọ
+- gai ngạnh
+ @viraginous
+* tt
+- xem virago,  viraginian
+ @virago  
+*  dt,  số nhiều viragoes
+- (từ cổ,nghĩa cổ) người đàn bà hay gây gổ; người đàn bà lăng loàn
+- (từ cổ,nghĩa cổ) đàn bà (có) tướng nam
+
+@viral  
+*  dt
+- (thuộc) virut
+
+@virally
+- xem viral
+ @virelay  
+*  dt
+- (thơ ca) thể thơ ngắn hai vần
+
+@virent
+* tt
+- xanh lá cây, xanh lục
+ @vires
+- số nhiều của vis
+ @virescence  
+*  dt
+- (thực vật học) hiện tượng trở xanh (cánh hoa...)
+- màu lục
+
+@virgin  
+*  dt
+- gái trinh, gái đồng trinh
+- (tôn giáo) bà sơ đồng trinh
+- (tôn giáo) (the Virgin) đức Mẹ; ảnh đức Mẹ, tượng đức Mẹ
+
++ the [Blessed] virgin: đức Mẹ đồng trinh
+- sâu bọ đồng trinh (sâu bọ cái có thể tự đẻ trứng thụ tinh không cần đực)
+*  tt
+- (thuộc) gái trinh; trinh, tân; trinh khiết, trong trắng
+
++ virgin woman: gái trinh
+
++ virgin modesty: vẻ thuỳ mị e lệ của người gái trinh
+- chưa đụng đến, hoang, chưa khai phá
+
++ virgin soil: đất chưa khai phá
+
++ virgin clay: đất sét chưa nung
+
++ virgin oil: dầu sống
+- (động vật học) đồng trinh (sâu bọ tự đẻ trứng thụ tinh không cần đực)
+
+@virginal  
+*  tt
+- (thuộc) gái trinh; trinh khiết, trong trắng
+
++ virginal reserve: vẻ dè dặt giữ gìn của người gái trinh
+
+@virginally
+- xem virginal
+ @virginals
+* dt, pl
+- đàn viaginan (nhạc cụ có bàn phím hình vuông, không có chân, được dùng ở (thế kỷ) 16 và 17)
+ @virginhood   (virginity) @virginia  
+*  dt
+- thuốc lá viaginia
+
+@virginia creeper
+* dt
+- (Virginia creeper) cây kim ngân (loại cây leo trang trí thường mọc trên tường, có lá rộng ngả sang màu đỏ tươi về mùa thu)
+ @virginity   (virginity) @virgo
+* dt
+- (Virgo) Xử nữ (cung thứ sáu của hoàng đạo)
+- (Virgo) người mang mệnh Xử nữ
+ @virgule
+* dt
+- dấu phẩy
+ @virid
+* tt
+- xanh lục, màu xanh ngọc bích
+ @viridescence
+* dt
+- xem viridescent
+ @viridescent  
+*  tt
+- xanh lục nhạt
+- trở nên xanh lục, xanh ra
+
+@viridity
+* dt
+- tính chất tươi trẻ
+- tính chất non dại, tính chất ngây thơ
+- màu xanh lục, màu lục
+ @virile  
+*  tt
+- (thuộc) đàn ông; mang tính chất đàn ông
+- có khả năng có con (đàn ông)
+- hùng, hùng dững, cương cường, rắn rỏi; đáng bậc làm trai
+
++ virile soul: tâm hồn rắn rỏi
+
+@virilescence  
+*  dt
+- (động vật học) hiện tượng hoá đực (khi già)
+
+@virilescent  
+*  tt
+- (động vật học) hoá đực (khi già)
+
+@virilism
+* dt
+- hiện tượng hoá đực
+- hiện tượng phát triển tính đực
+ @virility  
+*  dt
+- tính chất đàn ông
+- khả năng có con (của đàn ông)
+- tính cương cường, tính rắn rỏi
+
+@virocracy
+* dt
+- chế độ nam quyền
+ @virological
+* tt
+- (thuộc) khoa vi rút học
+ @virologist
+- xem virology
+ @virology  
+*  dt
+- khoa virut
+
+@virose  
+*  tt
+- đầy virut; độc
+- (thực vật học) có mùi thối
+
+@virtu  
+*  dt
+- (như) virtuosity
+- đồ cổ, đồ mỹ nghệ
+
+@virtual  
+*  tt
+- thực sự, thực tế
+
++ a virtual promise: lời hứa thực sự
+
++ the virtual leader: người lãnh đạo thực sự
+- (vật lý) áo
+
++ virtual focus: tiêu điểm ảo
+
+@virtuality  
+*  dt
+- tính chất thực sự
+
+@virtually  
+*  dt
+- thực sự, thực tế
+- hầu như, gần như
+
+@virtue  
+*  dt
+- đức, đức hạnh
+
++ to follow virtue: ăn ở có đức
+- đức tính, tính tốt
+
++ patience is a virtue: kiên nhẫn là một tính tốt
+- trinh tiết, tiết nghĩa
+
++ a woman of virtue: người đàn bà tiết nghĩa
+
++ a woman of easy virtue: người đàn bà lẳng lơ
+- công dụng; tác dụng, hiệu quả, hiệu lực
+
++ a remedy of great virtue: một phương thuốc có hiệu lực lớn
+!by virtue of; in virtue of
+- theo, vì; với tư cách
+!to make a virtue of necessity
+- (xem) necessity
+
+@virtueless
+* tt
+- không đạo đức, tội lỗi,  trụy lạc, trác táng
+- không có tác dụng, không có hiệu lực
+ @virtuosa
+- giống cái của virtuoso
+ @virtuose
+- số nhiều của virtuosa
+ @virtuosi  
+*  dt (số nhiều virtuosos,  virtuosi)
+- người có trình độ kỹ thuật cao (trong một nghệ thuật)
+- người sành về đồ mỹ nghệ; người thích đồ mỹ nghệ
+
+@virtuosic
+- xem virtuoso
+ @virtuosically
+- xem virtuoso
+ @virtuosity  
+*  dt
+- trình độ kỹ thuật cao (trong nghệ thuật)
+- tính ham thích đồ mỹ nghệ
+
+@virtuoso  
+*  dt (số nhiều virtuosos,  virtuosi)
+- người có trình độ kỹ thuật cao (trong một nghệ thuật)
+- người sành về đồ mỹ nghệ; người thích đồ mỹ nghệ
+
+@virtuous  
+*  tt
+- có đức, có đạo đức
+- tiết hạnh, đoan chính
+
+@Virtuous circles
+- (Econ) Vòng thoát.
+: Xem Vicious circles.
+ @virtuously
+* dt
+- có đạo đức tốt, cho thấy có đạo đức tốt
+- <đùa> tự cho mình là đoan chính, tiết hạnh, tự cho là đúng
+ @virtuousness  
+*  dt
+- tính đức hạnh, tính đạo đức
+- tính tiết hạnh, tính đoan chính
+
+@virulence   (virulency) @virulency   (virulency) @virulent  
+*  tt
+- độc
+
++ virulent venom: nọc độc
+- có virut; do virut
+
++ virulent disease: bệnh do virut
+- hiểm ác, độc địa
+
++ a virulent abuse: lời chửi rủa độc địa
+
+@virulently
+- xem virulent
+ @virus  
+*  dt
+- (y học) virut
+
++ filterable virus: virut qua lọc
+- mối độc hại, mầm độc
+
++ virus of sensuality: mối độc hại của nhục dục
+- ác ý; tính độc địa
+
+@vis
+* (viết tắt) (Vis)
+- tử tước (Viscount)
+- nữ tử tước (Viscountess)
+ @visa   (visé) @visage  
+*  dt
+- (văn học) mặt, sắc mặt; vẻ mặt, nét mặt
+
+@visard   (visard) @visc
+- tử tước (Viscount)
+- nữ tử tước (Viscountess)
+ @viscera  
+*  dt số nhiều
+- (giải phẫu) nội tạng, phủ tạng
+
+@visceral  
+*  tt
+- (thuộc) nội tạng, (thuộc) phủ tạng
+
++ a visceral disease: một bệnh về phủ tạng
+
+@viscerally
+- xem visceral
+ @viscerate  
+*  ngdgt
+- mổ bụng moi ruột
+
+@viscid   (viscous) @viscidity   (viscosity) @viscidly
+- xem viscid
+ @viscidness
+- xem viscid
+ @viscometer   (viscosimeter) @viscometric
+- xem viscometer
+ @viscometry  
+*  dt
+- phép đo độ nhớt
+
+@viscose  
+*  dt
+- (nghành dệt) vitcô
+
+@viscosimeter   (viscosimeter) @viscosimetric
+- xem viscosimeter
+ @viscosity   (viscosity) @viscosity
+- độ nhớt
+- dynamic v. độ nhớt động lực
+- eddy v. độ nhớt xoáy
+- kinematical v. (vật lí) độ nhớt động học
+ @viscount  
+*  dt
+- tử tước
+
+@viscountcy   (viscountship) @viscountess  
+*  dt
+- vợ tử tước
+- nữ tử tước
+
+@viscountship   (viscountship) @viscounty  
+*  dt
+- đất phong của tử tước
+
+@viscous   (viscous) @viscous
+- (vật lí) (thuộc) nhớt
+ @viscously
+- xem viscous
+ @viscousness   (viscosity) @viscus
+* dt
+- nội tạng
+ @vise  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) vice
+
+@visibility  
+*  dt
+- tính chất có thể trông thấy được
+
++ the visibilityof a gas: tính chất trông thấy được của một chất khí
+
++ high visibility: (khí tượng) sự trông thấy rõ; tầm nhìn xa lớn
+- tính rõ ràng, tính rõ rệt, tính minh bạch
+
+@Visibility hypothesis
+- (Econ) Giả thuyết về tính minh bạch.
+: Chính sách thu nhập có xu hướng dựa nhiều vào kỹ thuật công khai và khiển trách.
+ @visible  
+*  tt
+- thấy được, có thể trông thấy được
+
++ visible to naked eye: thấy được bằng mắt trần (không cần kính hiển vi...)
+
++ to become visible: xuất hiện
+- rõ ràng, rõ rệt
+
++ without visible cause: không có nguyên nhân rõ rệt
+- sẵn sàng tiếp khách
+
++ is the visible?: bà ta có sẵn sàng tiếp khách không?
+
+@Visible balance
+- (Econ) Cán cân hữu hình.
+: Phần của tài khoản vãng lai của một báo cáo về cán cân thanh toán cho biết quan hệ giữa gía trị hàng hoá vật chất xuất khẩu và hàng hoá vật chất nhập khẩu.
+ @visibleness  
+*  dt
+- tính chất trông thấy được
+
+@visibly  
+*  dt
+- rõ ràng, rõ rệt, hiển nhiên
+
+@vision  
+*  dt
+- sự nhìn; sức nhìn
+
++ field of vision: trường nhìn, thị trường
+
++ within range of vision: trong tầm mắt trông thấy được
+- điều mơ thấy, cảnh mộng
+- sự hiện hình yêu ma; bóng ma
+- ảo tưởng, ảo ảnh, ảo cảnh, ảo mộng
+
++ vision of peace: ảo tưởng hoà bình
+- sức tưởng tượng; sự sắc bén khôn ngoan về chính trị
+
++ the vision of a poet: sức tưởng tượng của một nhà thơ
+*  ngdgt
+- thấy như trong giấc mơ
+
+@visional  
+*  tt
+- (thuộc) thị giác
+- tưởng tượng, ảo tưởng
+
+@visionally
+- trạng từ
+- xem vision
+ @visionariness
+- xem visionary
+ @visionary  
+*  tt
+- tưởng tượng, hão huyền, hư ảo, mộng ảo
+
++ visionary ideas: ý nghĩ hảo huyền
+- có những ý nghĩ hư ảo không thực tế
+*  dt
+- người có những ý nghĩ hư ảo không thực tế
+
+@visionist
+* dt
+- nhà thần bí, nhà tiên tri
+ @visionless
+* tt
+- mù
+- không trông xa thấy rộng
+- có tầm nhìn hạn hẹp
+ @visit  
+*  dt
+- sự đi thăm, sự thăm hỏi, sự thăm viếng
+
++ to pay someone a visit: đến thăm người nào
+- sự tham quan; thời gian ở lại thăm
+
++ a visit to England: cuộc đi tham quan nước Anh
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cuộc truyện trò thân mật (lúc đến thăm nhau)
+- (y học) sự khám bệnh, sự thăm bệnh
+
++ doctor's round of visit: sự đi khám bệnh khắp lượt của bác sĩ
+- (pháp lý) sự thăm hỏi
+
++ right of visit: quyền thăm hỏi (tù nhân)
+- (pháp lý) sự đến khám, sự khám xét
+
++ the visit to the scene of the crime: sự đi khám xét tại chỗ nơi xảy ra tội ác
+
++ domiciliary visit: sự khám nhà
+*  ndgt
+- đi thăm hỏi
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) chuyện trò thân mật (lúc đến thăm nhau)
+*  ngdgt
+- thăm, thăm hỏi, thăm viếng, đến thăm
+
++ to visit a friend: thăm một người bạn
+- tham quan
+
++ to visit Moscow: tham quan Mát-xcơ-va
+- đi đến, hay đến
+- kiểm tra, thanh tra
+
++ to visit a school: kiểm tra một trường học
+- đến, giáng xuống (tai hoạ...); lan tràn, hoành hành (bệnh tật...)
+
++ misfortune has visited them: tai hoạ đã giáng xuống đầu chúng
+
++ the plague visited the town: bệnh dịch lan tràn khắp thành phố
+
++ to be visited by (with) a disease: bị nhiễm bệnh
+- (pháp lý) khám xét
+
++ to visit the scence of the crime: đến khám tại chỗ nơi xảy ra tội ác
+- (tôn giáo) (: upon) phạt, trừng phạt
+
++ to visit the sins of the fathers upon the children: trừng phạt con cái vì tội lỗi của cha
+- (tôn giáo) (: with) ban cho
+
+@visitable  
+*  tt
+- có thể thăm được
+- có thể tham quan được
+
+@visitant  
+*  tt
+- (thơ ca) đến thăm, thăm viếng
+*  dt
+- (thơ ca) người đến thăm, khách
+- (động vật học) chim di trú
+
+@visitation  
+*  dt
+- sự đi thăm, sự đến thăm, sự thăm hỏi, sự thăm viếng
+
++ visitation of the sick: sự đi thăm người bệnh (của giáo sĩ)
+- sự thanh tra, sự kiểm tra (của giám mục, trong địa phận mình)
+- (động vật học) sự di trú ồ ạt và bất thường (của chim, thú...)
+- (nghĩa bóng) thiên tai, tai hoạ
+
++ the cholera is a terrible visitation: bệnh tả là một tai hoạ lớn
+- (tôn giáo) sự trừng phạt
+
++ to die by visitation of God: chết do sự trừng phạt của Chúa
+- (tôn giáo) phúc trời ban cho, lộc thánh
+- (thông tục) sự ngồi chơi thăm hỏi quá lâu
+
+@visitational
+- xem visitation
+ @visitatorial
+* tt
+- thuộc sự kháo sát kiểm tra
+- thuộc sự thăm viếng
+@visite
+* dt
+- áo choàng, áo khoác (nữ)
+ @visiting  
+*  dt
+- sự thăm hỏi, sự thăm viếng
+*  tt
+- đang thăm, thăm viếng
+
++ the visiting team: (thể dục,thể thao) đội bạn, đội khách
+
++ to be on visiting terms with; to have a visiting acquaintance with: có quan hệ thăm hỏi với
+
+@visiting professor
+* dt
+- giáo sư thỉnh giảng (giáo sư giảng bài trong một thời gian nhất định ở một trường đại học hay cao đẳng khác, nhất là ở nước ngoài)
+ @visiting-book  
+*  dt
+- sổ ghi khách đến thăm
+
+@visiting-card  
+*  dt
+- danh thiếp
+
+@visiting-day  
+*  dt
+- ngày tiếp khách
+
+@visiting-list
+* dt
+- bản kê các buổi đi thăm (cần thực hiện)
+ @visitor  
+*  dt
+- khách, người đến thăm
+
++ visitors' book: sổ (ghi tên, địa chỉ của) khách
+- người thanh tra, người kiểm tra (trường học...)
+
+@visitorial
+- xem visitatorial
+ @visitors' book
+* dt
+- sổ lưu niệm (ghi tên, địa chỉ  để giữ lại ở khách sạn )
+ @visitress
+* dt
+- khách nữ
+- người phụ nữ từ thiện (thăm hỏi người nghèo khổ)
+ @visne
+* dt
+- khu vực, địa hạt
+ @visnomy
+* dt
+- bộ mặt, mặt mũi, diện mạo
+ @vison  
+*  dt
+- (động vật học) chồn vizon
+
+@visoned
+* tt
+- đầy mơ ước
+- có tài tiên đoán, có tài tiên tri
+- nhìn thấy trong mơ
+ @visor   (visard) @visored
+* ngdgt
+- che giấu,  ngụy trang
+- đeo mặt nạ cho...
+ @visor-mask
+* dt
+- mặt nạ
+ @vista  
+*  dt
+- cảnh nhìn xa qua một lối hẹp
+
++ a vista of the church spire at the end of an avenue of trees: cảnh nhìn chóp nhà thờ từ cuối một đại lộ có trồng cây
+- (nghĩa bóng) viễn cảnh, viễn tượng, triển vọng
+
++ vista of the past: viễn cảnh xa xưa
+
++ to look into the vista of the future: nhìn vào viễn cảnh tương lai
+
++ to open up a bright vista to...: mở ra một triển vọng xán lạn cho...
+
+@visual  
+*  tt
+- (thuộc sự) nhìn, (thuộc) thị giác
+
++ visual nerve: dây thần kinh thị giác
+
+@visual aid
+* dt
+- <snh> phương tiện nhìn (tranh vẽ, phim ảnh  dùng làm phương tiện giảng dạy)
+ @visualisation
+* dt
+- sự hình dung, sự mường tượng (vật không thấy trước mắt)
+ @visualise
+* ngdgt
+- hình dung, mường tượng (vật không thấy trước mắt)
+ @visuality
+* dt
+- xem visual
+- sức nhìn xa, độ nhìn xa, tầm thấy được
+- sự hình dung, biểu tượng
+ @visualization  
+*  dt
+- sự làm cho mắt trông thấy được
+- sự hình dung, sự mường tượng
+
+@visualize  
+*  ngdgt
+- làm cho mắt trông thấy được
+- hình dung, mường tượng
+
+@visualizer
+* dt
+- người quan sát, dụng cụ để quan sát
+- người hay tưởng tượng
+ @visually  
+*  dt
+- bằng mắt
+
+@visualness
+- xem visual
+ @vis-à-vis  
+*  dt
+- đối diện, trước mặt
+
++ to sit vis-à-vis in a train: ngồi đối diện trên xe lửa
+*  dt
+- người đối diện (trong điệu khiêu vũ)
+- xe hành khách ngồi đối diện nhau
+
+@visé   (visé) @vita glass  
+*  dt
+- kính để qua tia cực tím
+
+@vital  
+*  tt
+- (thuộc sự) sống, cần cho sự sống
+
++ vital function: chức năng sống
+
++ vital power: sức sống
+- sống còn, quan trọng
+
++ vital question: vấn đề sống còn
+
++ of vital importance: có tầm quan trọng sống còn
+- nguy hiểm đến tính mạng
+
++ vital mistake: sai lầm nguy hiểm
+
++ vital wound: vết thương nguy hiểm đến tính mạng
+- đầy sức sống, đầy nghị lực, sinh động
+
++ vital style: văn phong sinh động
+!vital statistics
+- thống kê sinh đẻ giá thú
+- (thông tục) kích thước vòng ngực, thắt lưng và hông (đàn bà)
+
+@vitalisation
+* dt
+- sự tiếp sức sống, sự truyền sức sống cho
+ @vitalise   (vitalise) @vitalism  
+*  dt
+- thuyết sức sống
+
+@vitalist  
+*  dt
+- người theo thuyết sức sống
+
+@vitalistic  
+*  tt
+- (thuộc) thuyết sức sống
+
+@vitality  
+*  dt
+- sức sống, sinh khí
+- khả năng tồn tại lâu dài
+
++ an artificial language has no vitality: một ngôn ngữ giả tạo không thể tồn tại lâu dài
+- (văn học) sức sống, sức mạnh
+
++ a style full of vitality: văn phong đầy sức sống
+
+@vitalization  
+*  dt
+- sự tiếp sức sống, sự tiếp sinh khí, sự tiếp sức mạnh
+
+@vitalize   (vitalise) @vitalizer
+* dt
+- xem vitalize
+ @vitally
+* dt
+- cực độ, cực kỳ, vô cùng
+ @vitalness
+- xem vital
+ @vitals  
+*  dt số nhiều
+- (y học) cơ quan bảo đảm sự sống (tim, phổi...)
+- (hàng hải) phần tàu ngập dưới nước
+- (nghĩa bóng) bộ phận chủ yếu, phần chủ yếu
+
+@vitamin  
+*  dt
+- vitamin
+
+@vitamine
+* dt
+- như vitamin
+ @vitaminic
+* tt
+- xem vitamin
+- thuộc vitamine
+ @vitaminise
+* ngdgt
+- cho thêm vitamin vào (một món ăn)
+ @vitaminize
+* ngdgt
+- cho thêm vitamin vào (một món ăn)
+ @vitaminous
+* tt
+- xem vitaminic
+ @vitellin  
+*  dt
+- (sinh vật học) chất noãn hoàng
+
+@vitiable
+- xem vitiate
+ @vitiate  
+*  ngdgt
+- làm hư, làm bẩn; truỵ lạc hoá
+
++ to vitiate the air: làm bẩn không khí
+- (pháp lý) làm mất hiệu lực
+
+@vitiated
+* tt
+- mất hiệu lực pháp lý
+- bị hỏng, bị hư
+ @vitiation  
+*  dt
+- sự làm hư, sự làm bẩn; sự truỵ lạc hoá
+- (pháp lý) sự làm mất hiệu lực
+
+@vitiator
+- xem vitiate
+ @viticultural   (viticultural) @viticulture   (viticulture) @viticulturer
+* dt
+- người trồng nho
+ @viticulturist
+* dt
+- xem viticulture
+ @vitiligo  
+*  dt
+- (y học) bệnh bạch biến, bệnh lang trắng
+
+@vitreosity  
+*  dt
+- tính chất thuỷ tinh
+
+@vitreous  
+*  tt
+- (thuộc) thuỷ tinh; như thuỷ tinh
+- (giải phẫu) thuỷ tinh
+
++ vitreous humour: dịch thuỷ tinh
+
+@vitreousness
+* dt
+- tính chất trong suốt
+ @vitrescence  
+*  dt
+- chất thuỷ tinh
+
+@vitrescent  
+*  tt
+- có khuynh hướng hoá thành thuỷ tinh
+
+@vitrescible
+* tt
+- xem vitrifiable
+ @vitress  
+*  dt
+- người đàn bà thắng trận, người đàn bà thắng cuộc
+
+@vitrics
+* dt
+- đồ thủy tinh
+- kỹ thuật sản xuất đồ thủy tinh
+ @vitrifaction
+* dt
+- sự hoá thành thuỷ tinh; sự nấu thành thuỷ tinh
+ @vitrifiability
+* dt
+- xem vitrify
+ @vitrifiable  
+*  tt
+- có thể thành thuỷ tinh
+
++ vitrifiable sand: cát có thể nấu thành thuỷ tinh
+
+@vitrification  
+*  dt
+- sự hoá thành thuỷ tinh; sự nấu thành thuỷ tinh
+
+@vitrified
+* tt
+- tráng men
+- biến thành thủy tinh
+ @vitrify  
+*  ngdgt
+- làm thành thuỷ tinh, nấu thành thuỷ tinh
+*  ndgt
+- thành thuỷ tinh
+
+@vitrine
+* dt
+- tủ kính, tủ chè, tủ trưng bày
+ @vitriol  
+*  dt
+- (hoá học) Axit sunfuric
+- (hoá học) sunfat
+
++ blue vitriol: đồng sunfat
+- (nghĩa bóng) bài đả kích, lời nói cay độc
+
+@vitriolic  
+*  tt
+- sunfuric
+
++ vitriolic acid: axit sunfuric
+- (nghĩa bóng) châm chọc, chua cay
+
++ vitriolic pen: ngòi bút châm chọc chua cay
+
+@vitriolise   (vitriolize) @vitriolization
+* dt
+- sự hoà tan axit sunfuxric
+- sự chế biến axit sunfuaxric
+ @vitriolize   (vitriolize) @vitrous
+- xem vitreous
+ @vitued
+* tt
+- có tác dụng, có hiệu lực
+- có đức, đức hạnh
+ @vituline
+* tt
+- thuộc bê, bò non
+ @vituperable
+* tt
+- đáng chửi rủa, đáng thoá mạ
+ @vituperate  
+*  ngdgt
+- chửi rủa, bỉ báng
+
+@vituperation  
+*  dt
+- sự chửi rủa, sự bỉ báng
+
+@vituperative  
+*  tt
+- chửi rủa, bỉ báng
+
+@vituperatively
+- xem vituperative
+ @vituperativeness
+- xem vituperative
+ @vituperator
+* dt
+- xem vituperate
+- kẻ chửi mắng, kẻ chê bai, kẻ dèm pha
+ @vituperatory
+* dt
+- xem vituperative
+ @viva  
+*  thán từ
+- muôn năm!
+*  dt
+- tiếng hoan hô "muôn năm" 
+- (như) viva_voce
+
+@viva voce  
+*  tt
+- hỏi miệng, vấn đáp
+
++ viva_voce examination: thi vấn đáp
+*  dt
+- bằng miệng, vấn đáp
+*  dt
+- kỳ thi vấn đáp
+
++ to be ploughed in the viva_voce: (từ lóng) bị đánh hỏng ở kỳ thi vấn đáp
+
+@vivace  
+*  dt
+- (âm nhạc) hoạt
+
+@vivacious  
+*  tt
+- hoạt bát, nhanh nhảu
+
++ vivacious boy: đứa bé hoạt bát nhanh nhảu
+- (thực vật học) sống dai
+
++ vivacious plant: cây sống dai
+
+@vivaciously
+- xem vivacious
+ @vivaciousness   (vivacity) @vivacity   (vivacity) @vivaciuosly
+* dt
+- sôi nổi, hoạt bát (nhất là về một phụ nữ)
+- <thực> sống dai
+ @vivaria  
+*  dt (số nhiều vivaria)
+- nơi nuôi dưỡng sinh vật (để nghiên cứu...); vườn thú
+
+@vivarium  
+*  dt (số nhiều vivaria)
+- nơi nuôi dưỡng sinh vật (để nghiên cứu...); vườn thú
+
+@vivary
+- xem vivarium
+ @vivat
+- tán thán từ
+- muôn năm
+ @viva-voce
+* ngdgt
+- thi vấn đáp
+ @vivers  
+*  dt số nhiều
+- (Ê-cốt) thức ăn; lương thực, thực phẩm
+
+@vivicate
+- xem vivify
+ @vivid  
+*  tt
+- chói lọi, sặc sỡ (màu sắc, ánh sáng)
+
++ vivid light: ánh sáng chói lọi
+
++ vivid colour: màu sắc sặc sỡ
+- đầy sức sống (người)
+- sinh động, mạnh mẽ, sâu sắc
+
++ a vivid description: một bài mô tả sinh động
+
++ a vivid recollection of some event: nhớ lại một sự kiện một cách sâu sắc
+
+@vividity
+* dt
+- tính chất sinh động, tính chất mạnh mẽ, tính chất sâu sắc
+- tính chất chói lọi, sặc sỡ, rực rỡ
+- sôi nổi, nhiệt tình, hoạt bát
+ @vividly
+* dt
+- chói, chói lọi, sặc sỡ (màu sắc, ánh sáng)
+- mạnh mẽ, đầy sức sống (người)
+- sống động, mạnh mẽ (khả năng trí tuệ)
+- sinh động, sâu sắc; đầy hình ảnh (một bài nói )
+ @vividness  
+*  dt
+- tính chất chói lọi, tính chất sặc sỡ (ánh sáng, màu sắc)
+- tính chất đầy sức sống
+- tính chất sinh động, tính chất mạnh mẽ, tính chất sâu sắc
+
+@vivification  
+*  dt
+- sự làm cho hoạt động; sự làm cho có sức sống, sự làm cho có sinh khí
+
+@vivifier
+- xem vivify
+ @vivify  
+*  ngdgt
+- làm cho hoạt động; làm cho có sức sống, làm cho có sinh khí
+
+@viviparity  
+*  dt
+- (động vật học) sự đẻ con (đối với sự đẻ trứng)
+- (thực vật học) sự đẻ ánh trên thân
+
+@viviparous  
+*  tt
+- (động vật học) đẻ con (đối với đẻ trứng)
+- (thực vật học) đẻ ánh trên thân
+
+@viviparously
+- xem viviparous
+ @viviparousness  
+*  dt
+- (động vật học) đặc tính đẻ con
+- (thực vật học) đặc tính đẻ ánh trên thân
+
+@vivisect  
+*  dgt
+- mổ xẻ sống
+
+@vivisection  
+*  dt
+- sự mổ xẻ sống, giải phẫu sống
+
+@vivisectional
+- xem vivisection
+ @vivisectionally
+- xem vivisection
+ @vivisectionist  
+*  dt
+- (như) vivisector
+- người tán thành việc mổ xẻ thú vật sống
+
+@vivisector  
+*  dt
+- người mổ xẻ thú vật sống ((cũng) vivisectionist)
+
+@vivo  
+*  dt
+- (âm nhạc) hoạt
+
+@vivres
+* dt
+- xem vivers
+ @vixen  
+*  dt
+- (động vật học) con cáo cái
+- (nghĩa bóng) người đàn bà lắm điều, người đàn bà lăng loàn
+
+@vixenish  
+*  tt
+- lắm điều, lăng loàn, hay gây gổ (đàn bà)
+
+@vixenishly
+- xem vixen
+ @vixenishness
+- xem vixen
+ @vixenly
+- trạng từ
+- xem vixenish
+ @viz  
+*  dt
+- (viết tắt) của videlicet
+
+@vizard   (visard) @vizarded
+* tt
+- xem visored
+ @vizier   (vizier) @vizierate
+- xem vizier
+ @vizierial
+- xem vizier
+ @vizir   (vizier) @vizor   (visard) @vizored
+* tt
+- xem visored
+ @

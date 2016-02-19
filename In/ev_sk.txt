@@ -1,0 +1,966 @@
+@ska
+* dt
+- điệu nhạc ska (gốc từ Ja-maica)
+ @skald  
+*  dt
+- (sử học) người hát rong (Bắc-Âu) ((cũng) scald)
+
+@skat  
+*  dt
+- lối chơi bài xcat (lối chơi bài tay ba phổ biến ở Đức)
+
+@skate  
+*  dt
+- (động vật học) cá đuổi
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người già ốm
+- người bị khinh rẻ
+*  dt
+- lưỡi trượt (ở giày trượt băng)
+*  dgt
+- trượt băng
+!to skate over (on) thin ice
+- nói đến một vấn đề tế nhị
+- ở trong hoàn cảnh nguy hiểm
+
+@skate
+- trượt
+ @skateboard
+* dt
+- ván trượt (hẹp, dài khoảng 50 cm, có gắn bánh xe trượt)
+ @skateboarder
+* dt
+- người sử dụng ván trượt
+ @skateboarding
+* dt
+- môn trượt ván
+ @skater  
+*  dt
+- người trượt băng
+
+@skating
+* dt
+- môn trượt băng
+ @skating-rink  
+*  dt
+- sân băng (nhân tạo)
+
+@skean  
+*  dt
+- dao găm (ở Ai-len và Ê-cốt)
+
+@skedaddle  
+*  dt
+- (thông tục) sự chạy tán loạn
+*  ndgt
+- (thông tục) chạy trốn tán loạn, bỏ chạy toán loạn
+
+@skeet
+* dt
+- (thể dục thể thao) trò bắn bồ câu bằng đất sét
+ @skein  
+*  dt
+- cuộn chỉ, cuộc len
+- đàn vịt trời đang bay
+- việc rắc rối như mớ bòng bong
+
+@skeletal  
+*  tt
+- (thuộc) bộ xương; có tính chất bộ xương
+
+@skeleton  
+*  dt
+- bộ xương
+- bộ khung, bộ gọng
+- nhân, lõi, khung; nòng cốt
+- dàn bài, sườn (bài)
+- người gầy da bọc xương
+!skeleton at the feast
+- điều làm cho cụt hứng, điều làm mất vui
+!skeleton in the cupboard; family skeleton
+- việc xấu xa phải giấu giếm, việc ô nhục phải che đậy trong gia đình
+
+@skeleton
+- bộ khung; bộ xương
+- s. of a nomogram (hình học) khung của toán đồ
+- s. of a simplex (tô pô) khung của đơn hình 
+ @skeleton crew  
+*  dt
+- cán bộ khung của đội thuỷ thủ
+
+@skeleton key  
+*  dt
+- chìa khoá vạn năng
+
+@skeleton regiment  
+*  dt
+- cán bộ khung của trung đoàn
+
+@skeletonise   (skeletonize) @skeletonize   (skeletonize) @skellum
+* dt
+- (Scotland) tên khốn nạn, tên vô lại
+ @skelp  
+*  dt (Ớ-cốt)
+- cái bạt tai, cái tạt tai
+- tiếng bốp (bạt tai)
+*  ngdgt
+- (Ê-cốt) bạt tai, tạt tai (ai)
+*  ndgt
+- (Ê-cốt) chạy vội, đi vội
+
+@skep  
+*  dt
+- rổ, rá (đan bằng mây...)
+- đõ ong (bằng rơm, mây...)
+
+@skepsis   (skepsis) @skeptic   (skeptic) @skeptical   (skeptical) @skeptically
+* dt
+- hoài nghi, đa nghi, hay ngờ vực
+- theo chủ nghĩa hoài nghi; có tư tưởng hoài nghi; nhằm ủng hộ tư tưởng hoài nghi; xuất phát từ tư tưởng hoài nghi
+ @skepticism   (skepticism) @skepticize
+* ngdgt
+- hoài nghi
+ @skerry  
+*  dt
+- đào ngầm; đá ngầm
+
+@sketch  
+*  dt
+- bức vẽ phác, bức phác hoạ
+
++ to make a sketch of a scene: vẽ phác một cảnh
+- bản tóm tắt
+- bản phác thảo (một kế hoạch)
+- vở ca kịch ngắn
+- bản nhạc nhịp đơn
+*  dgt
+- vẽ phác, phác hoạ; phác thảo
+
++ to go out sketching: đi lấy phác hoạ
+
+@sketch map
+* dt
+- bản đồ vẽ phác
+ @sketch-book
+* dt
+- vở nháp
+ @sketcher  
+*  dt
+- người vẽ phác; người phác thảo (kế hoạch...)
+
+@sketchily
+* dt
+- sơ sài, thô sơ, đại cương, không đầy đủ, thiếu tính chi tiết, thiếu tính hoàn hảo
+ @sketchiness  
+*  dt
+- sự sơ sài; tính phác thảo, tính chất đại cương, tính dự thảo (đề cương, kế hoạch...)
+
+@sketch-pad
+* dt
+- vở nháp
+ @sketchy  
+*  tt
+- sơ sài, phác, đại cương
+
+@skew  
+*  tt
+- nghiêng, xiên
+
++ skew line: đường xiên
+- (toán học) ghềnh
+
++ skew curve: đường ghềnh;
+
++ skew ruled surface: mặt kẻ ghềnh
+- (toán học) đối xứng lệch
+
++ skew determinant: định thức đối xứng lệch
+*  dt
+- mặt nghiêng, phần nghiêng; mặt nghiêng của mái đầu hồi; phần nghiêng ở đầu trụ
+- gạch đá gá ở đầu hồi
+*  ndgt
+- đi nghiêng, đi xiên
+- (tiếng địa phương) liếc nhìn
+*  ngdgt
+- làm nghiêng đi, làm xiên đi
+- bóp méo, xuyên tạc
+
+@skew
+- lệch; không đối xứng; ghềnh; xiên
+ @skewbald  
+*  tt
+- vá (trắng nâu, không có màu đen) (ngựa)
+
+@Skewed distribution
+- (Econ) Phân phối lệch.
+: Một phân phối không đối xứng xung quanh giá trị trung bình của nó.
+ @skewer  
+*  dt
+- cái xiên (để nướng thịt)
+-(đùa cợt) gươm, kiếm
+*  ngdgt
+- xiên (thịt để nướng)
+
+@skew-eyed  
+*  tt
+- có mắt lác
+
+@skew-symmetric
+- đối xứng lệch
+ @skew-whiff
+* tt
+- <thgt> lệch
+ @ski  
+*  dt,  số nhiều ski,  skis
+- Xki, ván trượt tuyết
+*  ndgt ski'd
+- trượt tuyết; đi xki
+
+@skiagram   (skiagram) @skiagraph   (skiagraph) @skiagraphy   (skiagraphy) @skiascopy
+* dt
+- thuật soi đáy mắt
+ @ski-bob
+* dt
+- xe trượt (dùng để đua trên tuyết và giống như một chiếc xe đạp có ván trượt thay vì bánh xe)
+ @ski'd  
+*  dt,  số nhiều ski,  skis
+- Xki, ván trượt tuyết
+*  ndgt ski'd
+- trượt tuyết; đi xki
+
+@skid  
+*  dt
+- má phanh
+- sống trượt
+- sự quay trượt; sự trượt bánh
+- (hàng không) nạng đuôi
+!on the skids
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) gặp tai hoạ đến nơi
+- xuống chó, xuống dốc (bóng)
+*  dgt
+- chèn; chặn
+- trượt (xe, bánh xe); làm cho (xe, bánh xe) trượt
+
+@skid row  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) khu tụ họp bọn rượu chè lưu manh (ở một thành phố)
+
+@skiddoo  
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đi, bỏ đi
+
+@skid-mounted
+* tt
+- được lắp trên bánh trượt
+ @skid-pan
+* dt
+- khoảnh đất tập trượt (dành cho những lái xe có thể tập xử lý những vụ trượt xe)
+ @skid-proof
+* tt
+- không trượt (bánh xe)
+ @skid-resistant
+* tt
+- chống trượt
+ @skied
+- xem sky
+ @skier  
+*  dt
+- người trượt tuyết
+
+@skiff  
+*  dt
+- thuyền nhẹ, tàu nhẹ, xuồng nhỏ
+
+@skiffle  
+*  dt
+- nhạc của dàn nhạc đệm ((xem) skiffle-group)
+
+@skiffle-group  
+*  dt
+- dàn nhạc đệm (cho một nhạc sĩ vừa chơi ghita vừa hát)
+
+@skiffling
+* dt
+- công trình xây dựng bằng đá đẻo sơ sài
+ @skiing
+* dt
+- môn xki (môn thể thao di chuyển trên ván trượt tuyết)
+ @ski-joring  
+*  dt
+- (thể dục,thể thao) môn trượt tuyết có ngựa kéo
+
+@skijoring
+* dt
+- (thể dục thể thao) môn trượt tuyết có ngựa kéo
+ @ski-jump  
+*  dt
+- môn nhảy xki; cái nhảy xki
+- đường dốc nhảy xki
+
+@skilful  
+*  tt
+- khéo, khéo léo, khéo tay, tinh xảo; tài tình
+
+@skilfully
+* dt
+- khéo tay; tài giỏi
+ @ski-lift
+* dt
+- thang kéo xki (để kéo hoặc mang những người trượt tuyết tới một đường dốc)
+ @skill  
+*  dt
+- sự khéo léo, sự khéo tay, sự tinh xảo; kỹ năng, kỹ xảo
+*  ndgt
+- (từ cổ,nghĩa cổ) đáng kể, thành vấn đề
+
++ it skills not: không đáng kể, không thành vấn đề
+
+@Skill differentials
+- (Econ) Các chênh lệch theo kỹ năng lao động.
+: Những chênh lệch giữa các mức lương trung bình của các nhóm lao động thoạt đầu phân loại theo nghề nghiệp, sau đó phân loại tiếp thành những nhóm kỹ năng cụ thể.
+ @skilled  
+*  tt
+- (từ hiếm,nghĩa hiếm) khéo léo, lành nghề
+
++ skilled labour: lao động lành nghề
+
++ skilled worker: công nhân lành nghề
+
+@skilless  
+*  tt
+- (từ hiếm,nghĩa hiếm) vụng về, không có kinh nghiệm, không có kỹ xảo; dốt (về cái gì)
+
+@skillet  
+*  dt
+- xoong nhỏ có cán (thường có ba chân)
+- (từ Mỹ,nghĩa Mỹ) chảo rán
+
+@skillful
+- khéo tay; tài giỏi
+ @skillion
+* dt
+- (Australia) nhà chái
+ @skilly  
+*  dt
+- cháo lúa mạch loãng
+
+@skim  
+*  ngdgt
+- hớt bọt, hớt váng
+- gạn chất kem, gạn chất béo
+
++ to skim the fat off the soup: hớt bớt mỡ ở xúp
+
++ to skim the cream off something: ((thường) (nghĩa bóng)) lấy đi phần tốt nhất của vật gì
+- làm cho lướt sát qua, ném là là mặt đất, ném thia lia
+- đọc lướt, đọc qua loa
+- lượm lặt (sự kiện quan trọng)
+*  ndgt
+- đi lướt qua, đi sát qua, bay là là (mặt đất...)
+
++ to skim along the ground: bay là là mặt đất
+- bay lướt trên không trung
+- đọc lướt, đọc qua
+
++ to skim throught a novel: đọc lướt một quyển tiểu thuyết
+
+@skim milk  
+*  dt
+- sữa đã lấy hết kem
+
+@skimble-scamble  
+*  tt
+- không có mạch lạc, lộn xộn
+
+@skimmed milk
+* dt
+- sữa không kem
+ @skimmer  
+*  dt
+- người gạn kem (trong sữa)
+- người đọc lướt một quyển sách
+- thìa hớt kem (trong sữa); thìa hớt bọt
+- thuyền máy nhẹ và nhanh
+- (động vật học) nhạn biển mỏ giẹp (hay bay là là trên mặt nước để kiếm mồi)
+
+@skimming-dish  
+*  dt (từ lóng)
+- thuyền đua đáy bằng
+- thuyền máy nhẹ và nhanh
+
+@skimp  
+*  dgt
+- bủn xỉn, ăn ơ keo kiệt (với ai)
+
++ to skimp somebody in food: ttng miếng ăn với người nào
+
+@skimpily
+* dt
+- bủn xỉn, keo kiệt
+- thiếu, không đủ
+ @skimpiness  
+*  dt
+- tính bủn xỉn, tính keo kẹt
+
+@skimpingly  
+*  dt
+- bủn xỉn, keo kiệt
+
+@skimpy  
+*  tt
+- bủn xỉn, keo kiệt
+- thiếu, không đủ
+
++ skimpy coat: áo chật; áo thiếu vải
+
+@skin  
+*  dt
+- da, bì
+
++ outer skin: biểu bì
+- vỏ
+
++ orange skin: vỏ cam
+- da thú
+- bầu bằng da thú (để đựng nước, rượu...)
+- vỏ tàu
+!to be no skin off someone's back
+- (từ lóng) không dính dáng đến ai, không động chạm đến ai, không ảnh hưởng gì đến ai
+!to be only skin and bone
+- gầy chỉ còn da bọc xương
+!he cannot change his skin
+- chết thì chết nết không chừa
+!to escape by (with) the skin of one's teeth x tooth to fear for one's skin
+- sợ mất mạng
+!to get under someone's skin
+- (thông tục) nắm được ai, làm cho ai phải chú ý
+- làm cho ai bực tức, chọc tức ai
+!to have a thick skin
+- cứ trơ ra (khi bị phê bình, bị chửi...)
+!to have a thin skin
+- dễ bật lò xo (khi bị phê bình, bị chửi...)
+!near is my shirt, but nearer is my skin x shirt to save one's skin
+- chạy thoát
+!I would not be in his skin
+- tôi không muốn ở địa vị của nó
+*  ngdgt
+- lột da
+
++ to skin a rabbit: lột da một con thỏ
+- bóc vỏ, gọt vỏ
+- (thông tục) lột quần áo (ai)
+- (từ lóng) lừa đảo
+- ((thường) : over) bọc lại
+*  ndgt
+- lột da (rắn)
+- đóng sẹo, lên da non (vết thương)
+- (thông tục) cởi quần áo
+!to skin alive
+- lột sống (súc vật)
+- (thông tục) mắng mỏ thậm tệ, trừng phạt nặng nề
+- (thông tục) đánh gục, đánh bại hắn
+!to keep one's eyes skinned
+- (từ lóng) cẩn thận, cảnh giác
+
+@skin
+- da, mặt ngoài, vỏ
+ @skin magazine  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) báo ảnh đàn bà khoả thân
+
+@skin-bound  
+*  tt
+- có da bọc căng, căng da
+- (y học) bị bệnh cứng bì
+
+@skin-deep  
+*  tt
+- nhẹ, không sâu, không quá lần da (vết thương)
+- hời hợt, không sâu, không bền; chỉ có bề ngoài (tình cảm, ấn tượng, sắc đẹp...)
+
+@skin-disease  
+*  dt
+- (y học) bệnh ngoài da
+
+@skin-diver  
+*  dt
+- thợ lặn trần (không mặc áo lặn)
+
+@skin-diving
+* dt
+- môn lặn trần (có kính bảo hộ, chân chèo và bình dưỡng khí hay ống thông hơi để thở)
+ @skin-dresser  
+*  dt
+- người thuộc da lông
+
+@skin-flick
+* dt
+- phim con heo (phim dâm ô, trụy lạc)
+ @skinflint  
+*  dt
+- người keo kiệt, người vắt cổ chày ra mỡ
+
+@skinful  
+*  dt
+- bầu đầy (rượu, nước)
+- (thông tục) bụng đầy
+!he's got a good skinful
+- nó say bí tỉ
+
+@skin-game  
+*  dt
+- (từ lóng) sự lừa đảo
+
+@skin-graft
+* dt
+- (phẫu thuật) sự ghép da, sự vá da
+ @skin-grafting  
+*  dt
+- (y học) sự ghép da, sự vá da
+
+@skinhead
+* dt
+- gã đầu trọc (người trẻ tuổi ưa có tóc cắt rất ngắn, nhất là loại người ưa bạo lực)
+ @skink  
+*  dt
+- (động vật học) thằn lằn bóng chân ngắn
+
+@skinless
+* tt
+- không có da; không vỏ
+ @skin-merchant
+* dt
+- người bán da thú
+- (từ lóng) người mộ lính
+ @skinned
+* tt
+- (trong tt ghép) có nước da như thế nào đó
+ @skinner  
+*  dt
+- người lột da thú
+- người buôn bán da thú, người buôn bán áo bằng da lông
+- (từ lóng) kẻ lừa đảo
+
+@skinniness  
+*  dt
+- sự gầy giơ xương, sự gầy nhom
+
+@skinny  
+*  tt
+- (thuộc) da; như da
+- gầy giơ xương, gầy nhom
+
+@skinny-dipping
+* dt
+- (thông tục) việc bơi ở truồng
+ @skin-poping
+* dt
+- việc chích ma túy dưới da
+ @skint
+* tt
+- không có đồng tiền nào, kiết xác
+ @skintight  
+*  dt
+- sát da (quần áo)
+
+@skip  
+*  dt
+- (thể dục,thể thao) đội trưởng, thủ quân
+- ông bầu
+*  dt
+- thùng lồng (để chuyển người, đồ vật lên xuống hầm mỏ)
+- (như) skep
+- sự nhảy nhót, sự nhảy cẫng
+- sự nhảy dây
+- nhảy, bỏ quãng
+
++ to skip from one subject to another: đang chuyện nọ nhảy (rọ) sang chuyện kia
+
++ he skips as he reads: khi đọc, anh ấy bỏ quãng
+- nhảy lớp
+- (từ lóng) chuồn, lủi, đi mất
+*  ngdgt
+- nhảy, bỏ, quên
+
++ to skip a passage: nhảy một đoạn
+
++ to skip a form: nhảy một lớp
+
++ to skip the descriptions: bỏ không đọc những đoạn tả, quên không đọc những đoạn tả
+
+@skip
+- bước nhảy, nhảy
+ @skipants  
+*  dt
+- quần trượt tuyết, quần đi xki
+
+@skip-bomb  
+*  dgt
+- (quân sự) bay là là để ném bom
+
+@skipjack  
+*  dt
+- con nhảy (đồ chơi của trẻ con)
+- cá nhảy; bọ nhảy
+
+@ski-plane
+* dt
+- máy bay xki (máy bay có gắn ván trượt thay vì bánh xe, có thể hạ xuống tuyết)
+ @skipper  
+*  dt
+- người nhảy dây
+- người đọc sách hay bỏ quãng
+- (động vật học) bướm nâu
+- (động vật học) cá thu đao
+- thuyền trưởng
+- (hàng không) hoa tiêu trưởng
+- (thể dục,thể thao) đội trưởng, thủ quân
+
+@skipper's daughters  
+*  dt số nhiều
+- sóng bạc đầu
+
+@skippet  
+*  dt
+- (sử học) ống đựng ấn, hộp ấn
+
+@skippingly  
+*  dt
+- nhảy, nhảy nhót
+- hay nhảy từ vấn đề nọ sang vấn đề kia, hay bỏ quãng
+
+@skipping-rope  
+*  dt
+- dây để nhảy (nhảy dây)
+
+@skirl  
+*  dt
+- te te (tiếng kêu của kèn túi)
+*  ndgt
+- kêu te te
+
+@skirmish  
+*  ndgt
+- (quân sự) cuộc chạm trán, cuộc giao tranh nhỏ
+- cuộc cãi lý
+*  ndgt
+- (quân sự) đánh nhỏ lẻ tẻ
+
+@skirmisher  
+*  dt
+- (quân sự) người tham gia cuộc giao tranh nhỏ
+- nhóm quân tham gia cuộc giao tranh nhỏ
+
+@skirr
+* ndgt
+- đi nhanh, đặc biệt để sục sạo; chạy nhanh
+ @skirt  
+*  dt
+- vạt áo
+- váy, xiêm
+
++ divided skirt: quần rộng thùng thình (trông như váy)
+- khụng (từ lóng) đàn bà, con gái, thị mẹt, cái hĩm
+- ((thường) số nhiều) bờ, mép, rìa
+
++ on the skirts of the wood: ở rìa rừng
+*  dgt
+- đi dọc theo, đi quanh, đi ở bờ rìa; ở dọc theo
+
++ to skirt the coast: đi dọc theo bờ biển
+
++ road skirts round wood: con đường đi vòng mép rừng
+
+@skirt-dance  
+*  ndgt
+- nhảy xoè váy
+
+@skirt-dancer  
+*  dt
+- người nhảy xoè váy
+
+@skirt-dancing  
+*  dt
+- sự nhảy xoè váy
+
+@skirting
+* dt
+- gờ; viền; rìa
+- vải để may quần, váy
+- gỗ viền chân tường
+ @skirting-board  
+*  dt
+- (kiến trúc) ván chân tường
+
+@ski-run
+* dt
+- sườn dốc để trượt tuyết
+ @ski-running  
+*  dt
+- sự trượt tuyết; sự đi xki
+
+@skit  
+*  dt
+- bài thơ trào phúng, bài văn châm biếm, vở kịch ngắn trào phúng
+- (thông tục) nhóm, đám (người...)
+
+@skite
+* ndgt
+- (NZ,  Australia) nói năng khoác lác
+ @skitter  
+*  ndgt
+- bay đớp mặt nước (chim)
+- câu nhắp, câu nhử, câu rê (câu cá)
+
+@skittish  
+*  tt
+- sự bóng, nhát, hay lồng (ngựa)
+- đỏm dáng, õng ẹo; lẳng lơ (đàn bà)
+
+@skittishly
+* dt
+- hay lồng, bất kham; khó điều khiển (ngựa)
+- õng ẹo; lẳng lơ; thích tán tỉnh (người; nhất là đàn bà)
+ @skittishness  
+*  dt
+- tính hay sợ bóng, tính nhát, tính hay lồng (ngựa)
+- tính làm đỏm, tính õng ẹo; tính lẳng lơ (đàn bà)
+
+@skittle  
+*  dt
+- (số nhiều) trò chơi ky
+- con ky
+!beer and skittles x beer skittlesskittle
+- (từ lóng) chuyện tầm bậy!
+
+@skittle-alley   (skittle-ground) @skittle-ground   (skittle-ground) @skittle-pin  
+*  dt
+- con ky (để chơi ky)
+
+@skive  
+*  ngdgt
+- lạng mỏng, bào mỏng (da, cao su)
+- mài mòn (mặt ngọc)
+
+@skiver  
+*  dt
+- người lạng mỏng (da, cao su...)
+- dao lạng (để lạng mỏng da)
+- da lạng (đã lạng mỏng)
+
+@skivvies  
+*  dt số nhiều
+- (hàng hải),  (từ lóng) áo lót
+
+@skivvy  
+*  dt
+- (thông tục) ((thường) guội đầy tớ gái
+
+@skoal  
+*  thán từ
+- (từ Mỹ,nghĩa Mỹ) chúc sức khoẻ anh!
+
+@skua  
+*  dt
+- (động vật học) chim cướp biển (thuộc bộ mòng biển)
+
+@skuld
+* dgt
+- lén lút, lẩn tránh
+ @skulduggery   (sculduggery) @skulk  
+*  ndgt
+- trốn tránh, lẩn lút
+- trốn việc, lỉnh
+*  dt
+- người trốn việc, người hay lỉnh (((cũng) skulker)
+
+@skulker  
+*  dt
+- người trốn việc, người hay lỉnh (((cũng) skulk)
+
+@skulkingly  
+*  dt
+- trốn tránh, lỉnh
+
+@skull  
+*  dt
+- sọ, đầu lâu
+
++ skull and crossbones: đầu lâu và hai xương chéo (tượng trưng cho sự chết)
+- đầu óc, bộ óc
+
++ thick skull: óc ngu si, óc đần độn
+
++ empty skull: đầu óc rỗng tuếch
+
+@skull session  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cuộc họp, cuộc hội ý
+
+@skull-cap  
+*  dt
+- mũ chỏm (các cụ già hay đội ở nhà)
+- (thực vật học) cỏ long ba (họ hoa môi)
+
+@skullduggery   (sculduggery) @skunk  
+*  dt
+- (động vật học) chồn hôi
+- bộ lông chồn hôi
+- (thông tục) người bẩn thỉu hôi hám, người đáng khinh bỉ
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đánh bại không gỡ được (trong cuộc đấu...)
+
+@skupshtina  
+*  dt
+- quốc hội Nam tư
+
+@sky  
+*  dt
+- trời, bầu trời
+
++ clear sky: trời trong
+
++ under the open sky: ngoài trời
+
++ to laund (praise, extol) someone to the skies: tân ai lên tận mây xanh
+- cõi tiên, thiêng đường
+- khí hậu, thời tiết
+
++ under warmer sky (skies): ở (nơi) khí hậu ấm hơn
+!if the sky fall we shall catch larks
+- (xem) lark
+!out of a clear sky
+- thình lình, không báo trước
+*  ngdgt
+- (thể dục,thể thao) đánh vọt lên cao (bóng crickê)
+- treo (tranh) cao quá; treo tranh (của ai) quá cao
+
+@sky marker  
+*  dt
+- đèn dù, pháo sáng
+
+@sky pilot  
+*  dt
+- (từ lóng) mục sư
+
+@sky truck  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) máy bay vận tải
+
+@sky-blue  
+*  tt
+- xanh da trời
+*  dt
+- màu xanh da trời
+
+@sky-born  
+*  tt
+- (thơ ca) sinh ra ở cõi tiên, vốn là người thần tiên
+
+@sky-borne
+* tt
+- (quân sự) vận chuyển bằng đường không
+ @sky-cap
+* dt
+- người mang hành lý xách tay ở sân bay
+ @sky-clad  
+*  tt
+-(đùa cợt) mặc áo da, trần truồng
+
+@sky-diding
+* dt
+- môn thể thao nhảy từ trên máy bay và rơi tự do lâu cho đến khi có thể an toàn mở dù
+ @sky-dived
+* tt
+- nhuộm màu xanh da trời
+ @sky-diver
+* dt
+- người tham gia môn thể thao nhảy từ trên máy bay và rơi tự do lâu cho đến khi có thể an toàn mở dù
+ @sky-diving
+* dt
+- môn thể thao nhảy ra từ máy bay và biểu diễn khi để rơi tự do một lúc lâu rồi mới bung dù
+ @skyed
+- xem sky
+ @skyer  
+*  dt
+- (thể dục,thể thao) cú đánh vọt lên cao (crickê)
+
+@skyey  
+*  tt
+- (thuộc) trời, (thuộc) bầu trời; như trời xanh
+- cao ngất trời, cao tận mây xanh
+
+@sky-high  
+*  tt
+- cao ngất trời, cao tận mây xanh
+
++ sky-high mountains: núi cao ngất trời
+
+@skylark  
+*  dt
+- (động vật học) chim chiền chiện
+*  ndgt
+- nô đùa, vui nhộn
+
+@skylight  
+*  dt
+- cửa sổ ở trần nhà, cửa sổ ở mái nhà
+
+@skyline  
+*  dt
+- đường chân trời
+- hình (đồi, núi) in lên chân trời
+
+@skyman
+* dt
+- nhà hàng không
+ @sky-pilot
+* dt
+- giáo sĩ trên tàu chiến
+ @sky-rocket  
+*  dt
+- pháo thăng thiên
+*  ndgt
+- tăng vọt, lên vùn vụt (giá cả)
+
+@skysail  
+*  dt
+- buồm cánh chim ((cũng) sky-scraper)
+
+@skyscape  
+*  dt
+- cảnh bầu trời
+- bức vẽ bầu trời
+
+@sky-scraper  
+*  dt
+- (như) skysail
+- nhà chọc trời
+
+@skyscraper
+* dt
+- như skysail
+- nhà chọc trời (toà nhà hiện đại rất cao ở thành thị)
+ @sky-truck
+* dt
+- (kỹ thuật) thủ tục máy bay vận tải
+ @skyward
+* tt, adv
+- lên trời, về phía bầu trời; hướng lên
+ @skywards  
+*  tt & dt
+- lên trời, về phía bầu trời
+
+@skyway  
+*  dt
+- đường hàng không
+
+@sky-writer  
+*  dt
+- máy bay quảng cáo
+
+@sky-writing  
+*  dt
+- chữ (quảng cáo...) vẽ lên bầu trời (bằng máy bay); quảng cáo trên bầu trời
+
+@

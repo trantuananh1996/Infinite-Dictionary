@@ -1,0 +1,2250 @@
+@geanticlinal
+* tt
+- thuộc nếp lồi địa cầu
+ @geanticline
+* dt
+- nếp lồi địa cầu
+ @gear  
+*  dt
+- cơ cấu, thiết bị, dụng cụ; đồ gá lắp, phụ tùng
+- (kỹ thuật) bánh răng; sự truyền động bánh răng; số (ô tô...)
+
++ to go into first gear: mở số một
+
++ to change gear: sang số (ô tô...)
+
++ in gear: khớp bánh răng; gài số
+
++ out of gear: không khớp bánh răng; không gài số
+- (hàng hải) thiết bị tàu thuỷ
+- bộ yên cương ngựa
+- đồ dùng, đồ đạc
+
++ all one's worldly gear: tất cả những cái mà người ta có; tất cả của cải
+*  ngdgt
+- sang số (ô tô...)
+
++ to gear up: lên số
+
++ to gear down: xuống số
+- lắp bánh (nhà máy, một ngành công nghiệp...) phục vụ (một nhà máy khác, một ngành khác, kế hoạch...)
+
++ to gear agriculture to socialist construction: hướng công nghiệp phục vụ công cuộc xây dựng xã hội chủ nghĩa
+*  ndgt
+- ăn khớp vào nhau (bánh răng)
+!to gear up production
+- đẩy mạnh sản xuất
+
+@gear
+- (Tech) dụng cụ, thiết bị; hộp số
+ @gear
+- cơ cấu; (cơ cấu) truyền động
+- bevel g. truyền động cônic
+- control g. truyền động điều khiển
+- landing g. khung (máy)
+- sun-and-planet g. truyền động hành tinh
+- worm g. truyền động trục vít 
+ @gear-box   (gear-case) @gear-case   (gear-case) @gear-change
+* dt
+- (ô tô) sự sang số, sự cài số
+ @geared-up
+* tt
+- được tăng tốc bằng bánh răng
+ @gearing  
+*  dt
+- (kỹ thuật) hệ thống bánh răng (máy)
+- (kỹ thuật) sự ăn khớp (các bánh răng); sự truyền động bánh răng
+
+@Gearing
+- (Econ) Sự ăn khớp, tỷ số giữa vốn nợ và vốn cổ phần
+: Chỉ tiêu thể hiện tỷ lệ tương đối của vốn nợ và vốn cổ phần.
+ @Gearing ratio
+- (Econ) Tỷ số ăn khớp
+: Tỷ số của tài chính nợ với tổng số của nợ và tài chính vốn cổ phiếu thông thường.
+ @gearless
+* tt
+- không có bánh răng
+ @gear-level
+* dt
+- cần hộp số; cần tốc độ
+ @gear-lever
+* dt
+- cần số
+ @gear-motor
+* dt
+- động cơ bộ truyền động
+ @gear-pinion
+* dt
+- bánh răng hộp số
+ @gear-ratio  
+*  dt
+- (kỹ thuật) số truyền động
+
+@gearset
+* dt
+- bộ bánh răng
+ @gearshift
+* dt
+- sự sang số
+ @gear-stick
+* dt
+- cần số
+ @gear-train
+* dt
+- bộ bánh răng
+ @gear-wheel  
+*  dt
+- bánh răng
+
+@gear-work
+* dt
+- bộ bánh răng
+ @geat
+* dt
+- (kỹ thuật) đậu rót
+ @gecko  
+*  dt
+- (động vật học) con tắc kè
+
+@gee  
+*  dt: (gee-gee) @gee-gee  
+*  dt: (gee-gee) @geek
+* dt
+- người đam mê các hoạt động trí não (đối đáp chữ nghĩa, lập trình máy tính, sử dụng Internet chẳng hạn)
+- chuyên viên máy tính; chuyên viên tin học
+- người biểu diễn những trò quái gở trong các dịp lễ hội
+- (từ lóng) người lập dị quái gở
+ @geek (computer)
+- (Tech) ngạ quỷ điện toán 
+ @geese  
+*  dt,  số nhiều geese
+- (động vật học) ngỗng, ngỗng cái
+- thịt ngỗng
+- người ngốc nghếch, người khờ dại
+!all his geese are swans
+- (xem) swan
+!can't say bo to a goose
+- (xem) bo
+!to cook that lays the golden eggs
+- tham lợi trước mắt
+*  dt,  số nhiều gooses
+- bàn là cổ ngỗng (của thợ may)
+
+@geest
+* dt
+- lớp phù sa lâu đời
+ @geezer  
+*  dt
+- (từ lóng) ông già, bà già
+
+@gehenne
+* dt
+- địa ngục (trong (kinh thánh))
+ @geiger counter  
+*  dt
+- (vật lý) máy đếm Ghai-ghe
+
+@Geiger (Muller) counter
+- (Tech) đồng hồ Gêge Mule để đo độ phóng xạ 
+ @geisha  
+*  dt
+- vũ nữ Nhật
+
+@Geissler tube
+- (Tech) đèn Geissler (một loại đèn phóng điện có khí)
+ @geist
+* dt
+- tính thần
+ @gel  
+*  dt
+- (hoá học) chất gien
+
+@gelatigenous
+* tt
+- tạo gelatin; sinh galatin
+ @gelatin   (gelatine) @gelatine   (gelatine) @gelatiniform
+* tt
+- dạng gelatin
+ @gelatinization
+* dt
+- sự gelatin hoá
+ @gelatinize  
+*  ngdgt
+- nấu thành gelatin, làm thành gelatin
+*  ndgt
+- thành gelatin
+
+@gelatinoid
+* tt
+- dạng gelatin
+ @gelatinous  
+*  tt
+- (thuộc) gelatin
+- sền sệt
+
+@gelation  
+*  dt
+- sự đông lại, sự đặc lại (vì lạnh)
+
+@geld  
+*  ngdgt gelded,  gelt
+- thiến (súc vật)
+
+@gelder  
+*  dt
+- người thiến (súc vật)
+
+@gelding  
+*  dt
+- sự thiến
+- ngựa thiến, súc vật thiến
+
+@gelid  
+*  tt
+- rét buốt, giá lạnh
+- (nghĩa bóng) lạnh lùng, nhạt nhẽo, thờ ơ (gióng nói, thái độ)
+
+@gelidity
+* dt
+- tình trạng giá lạnh, rét buốt
+- thái độ lạnh nhạt, thờ ơ
+ @gelidium
+* dt
+- (thực vật) tảo thạch
+ @gelidness
+* dt
+- xem gelidity
+ @gelignite  
+*  dt
+- Gêlinhit (một loại chất nổ)
+
+@gellant
+* dt
+- cũng gelant
+- chất tạo nên sự đóng đông
+ @gelling
+* dt
+- sự đóng đông; sự keo hoá
+ @gelong
+* dt
+- hoà thượng (Tây-tạng)
+ @gelose
+* dt
+- (hoá học) thạch trắng
+ @gelt  
+*  ngdgt gelded,  gelt
+- thiến (súc vật)
+
+@gem  
+*  dt
+- viên ngọc
+- đá chạm, ngọc chạm
+- (nghĩa bóng) vật quý nhất
+
++ the gem of the whole collection: cái quý nhất trong toàn bộ sưu tập
+- (từ Mỹ,nghĩa Mỹ) bánh bơ nhạt
+*  ndgt
+- dát ngọc
+
++ the night sky gemmed with stars: bầu trời đêm nay đầy sao như dát ngọc
+
+@gem-cutting
+* dt
+- việc đẽo ngọc; việc mài ngọc
+ @gemeinschaft
+* dt; số nhiều gemeinschaften
+- quan hệ xã hội hay cộng đồng gắn bó
+ @geminate  
+- 'dʤemineit@gemination  
+*  dt (sinh vật học)
+- sự sắp thành đôi
+
+@gemini
+* dt
+- (tử vi) cung song sinh
+- người sinh ra chịu ảnh hưởng của cung song sinh
+ @geminiflorous
+* tt
+- có hoa sinh đôi; có hoa dính đôi
+ @gemma  
+*  dt,  số nhiều gemmae
+- (sinh vật học) mầm
+
+@gemmaceous
+* tt
+- có mầm, chồi
+- có lá mầm
+ @gemmae  
+*  dt,  số nhiều gemmae
+- (sinh vật học) mầm
+
+@gemmate  
+*  tt
+- (sinh vật học) có mầm
+- sinh sản bằng mầm
+*  ndgt
+- mọc mầm, đâm chồi
+- sinh sản bằng mầm
+
+@gemmation  
+*  dt
+- (sinh vật học) sự mọc mầm; sự sinh mầm
+- sự sinh sản bằng mầm
+
+@gemmiferous  
+*  tt
+- có ngọc
+- có mầm
+
+@gemmiform
+* tt
+- dạng chồi
+ @gemmiparous  
+*  tt (sinh vật học)
+- sinh mầm
+- sinh sản bằng mầm
+
+@gemmoid
+* tt
+- dạng chồi
+ @gemmology
+* dt
+- khoa nghiên cứu ngọc, đá quí
+ @gemmulation
+* dt
+- sự mọc chồi con
+ @gemmule  
+*  dt
+- (thực vật học) sinh mầm
+
+@gemmuliferous
+* tt
+- có chồi con
+ @gemmy
+* tt
+- có nhiều ngọc
+ @gemsa
+* dt
+- (động vật) sơn dương
+ @gemsbok
+* dt
+- (động vật) linh dương Nam Phi
+ @gemstik
+* dt
+- que mài ngọc
+ @gemstone
+* dt
+- đá quý
+ @gen  
+*  dt (quân sự),  (từ lóng)
+- (viết tắt) của general information
+- bản tin (phát cho tất cả sĩ quan các cấp trước khi bước vào chiến dịch)
+
+@gena
+* dt; số nhiều genae
+- má
+ @gendarme  
+*  dt
+- sen đầm
+
+@gendarmerie  
+*  dt
+- đội sen đầm
+
+@gender  
+*  dt
+- (ngôn ngữ học) giống
+
++ masculine gender: giống đực
+
++ feminine gender: giống cái
+*  ngdgt
+- (thơ ca) (như) engender
+
+@gene  
+*  dt
+- (sinh vật học) Gen
+
+@genealogic
+* tt
+- thuộc phổ hệ
+ @genealogical  
+*  tt
+- (thuộc) phả hệ
+
++ a genealogical tree: cây phả hệ
+
+@genealogically
+* dt
+- theo phả hệ, về mặt phả hệ
+ @genealogist  
+*  dt
+- nhà phả hệ học
+- người lập bảng phả hệ
+
+@genealogize
+* ngdgt
+- lập phổ hệ (gia đình)
+ @genealogy  
+*  dt
+- khoa phả hệ (của con người, các sinh vật, ngôn ngữ...)
+- bảng phả hệ
+
+@genera  
+*  dt,  số nhiều genera
+- (sinh vật học) phái, giống
+- loại
+
+@generable
+* tt
+- có thể được sản sinh
+ @general  
+*  tt
+- chung, chung chung
+
++ a matter of general interest: một vấn đề có quan hệ đến lợi ích chung; một vấn đề được mọi người quan tâm
+
++ to work for general welfare: làm việc vì phúc lợi chung
+
++ general opinion: ý kiến chung
+
++ general knowledge: kiến thức chung, kiến thức phổ thông
+- tổng
+
++ a general election: cuộc tổng tuyển cử
+
++ a general strike: cuộc tổng bãi công
+
++ inspector general: tổng thanh tra
+!General Headquaters
+- (quân sự) tổng hành dinh
+!General Staff
+- (quân sự) bộ tổng tham mưu
+- thường
+
++ a word that is in general use: một từ thường dùng
+
++ as a general rule: theo lệ thường
+
++ in general: thông thường; đại khái, đại thể
+!general dealer
+- người bán bách hoá
+!general hospital
+- bệnh viện đa khoa
+!general practitioner
+- bác sĩ đa khoa
+!general reader
+- người đọc đủ các loại sách
+!general servant
+- người hầu đủ mọi việc
+*  dt
+- cái chung, cái đại thể, cái tổng quát, toàn thể
+
++ to argue from the general to the particular: suy tư cái chung ra cái riêng
+
++ the general of mankind: toàn thể loài người
+- (quân sự) tướng, nhà chiến lược xuất sắc; nhà chiến thuật xuất sắc
+- (the general) (từ cổ,nghĩa cổ) nhân dân quần chúng
+- (tôn giáo) trưởng tu viện
+- người hầu đủ mọi việc ((cũng) general vervant)
+
+@general
+- chung, tổng quát, đầy đủ; tổng hợp in g. nói chung 
+ @General Agreement of Tariffs and Trade (GATT)
+- (Econ) Hiệp định chung về thuế quan và thương mại.
+: Hiệp định được ký tại Hội nghị Geneva năm 1947 và có hiệu lực từ ngày 1 1948. Đây là một hiệp định thương mại đa phương đề ra các quy tắc tiến hành các quan hệ thương mại quốc tế và cung cấp một diễn đàn cho sự đàm phán đa phương về các giải pháp cho các vấn đề thương mại và giảm dần THUẾ QUAN và các ràng buộc khác đối với thương mại.
+@General Agreement to Borrow
+- (Econ) Thoả thuận Chung về Đi vay.
+: Xem INTERNATIONAL MONETARY FUND.
+ @General Arangement to borrow (GAB)
+- (Econ) Hiệp ước vay nợ chung.
+: Xem INTERNATIONAL MONETARY FUND.
+ @general assembly
+* dt
+- đại hội đồng
+ @General Classification of Economic Activities in t
+- (Econ) Sự phân loại chung về các hoạt động kinh tế trong Cộng đồng châu Âu.
+: Sự phân loại công nghiệp của các hoạt động kinh tế trong Cộng đồng châu Âu là cách khác của sự phân loại công nghiệp theo tiêu chuẩn quốc tế.
+ @General equilibrium
+- (Econ) Cân bằng chung; Cân bằng tổng thể.
+: Tình huống trong đó tất cả các thị trường trong nền kinh tế đồng thời ở trạng thái cân bằng, nghĩa là giá cả và số lượng không đổi.
+ @General grant
+- (Econ) Trợ cấp chung.
+: Xem GRANT.
+ @General human capital
+- (Econ) Vốn nhân lực mang đặc điểm chung; vốn nhân lực chung chung.
+ @General linear model (GLM)
+- (Econ) Mô hình tuyến tính tổng quát.
+: Dạng hàm số được sử dụng phổ biến nhất trong phân tích kinh tế lượng, nó đặc biệt coi biến phụ thuộc là một hàm tuyến tính của tập hợp các biến độc lập.
+ @general post office
+* dt
+- nhà bưu điện trung tâm của một đô thị
+ @general practice
+* dt
+- <y> sự chữa trị đa khoa
+ @General price level
+- (Econ) Mức giá chung.
+: Mức giá chung của tất cả hàng hoá trong nền kinh tế.
+ @general staff
+* dt
+- <qsự> ban tham mưu, bộ tham mưu
+ @General Theory of Employment, Interest and Money
+- (Econ) Lý thuyết tổng quát về Việc làm, Lãi suất và Tiền tệ.
+: Xem Keynes.
+ @General union
+- (Econ) Các nghiệp đoàn.
+: Nghiệp đoàn là tổ chức tập hợp công nhân ở các ngành và bao gồm nhiều nghề nghiệp khác nhau.
+ @generalisation
+* dt
+- sự tổng quát hoá; sự tổng hợp, sự khái quát, sự suy rộng
+- điều tổng quát, điều khái quát
+ @generalise   (generalise) @generalissimo  
+*  dt
+- (quân sự) tổng tư lệnh
+
+@generality  
+*  dt
+- nguyên tắc chung chung; cái chung chung; tính tổng quát; tính đại cương
+!to come down from generalities to particulars
+- thôi nói chung chung mà đi vào chi tiết cụ thể
+- tính phổ biến
+
++ a rule of great generality: một quy luật rất phổ biến
+- tính mập mờ
+- phần lớn, phần đông, đa số
+
+@generalization  
+*  dt
+- sự tổng quát hoá; sự tổng hợp, sự khái quát, sự suy rộng
+- điều tổng quát, điều khái quát
+
+@generalization
+- sự tổng quát hoá, sự suy rộng
+ @generalize   (generalise) @generalize
+- tổng quát hoá
+ @generalized  
+*  tt
+- tổng quát hoá, suy rộng
+
++ generalized function: (toán học) hàm suy rộng
+
+@generalized
+- đợc tổng quát hoá; suy rộng
+ @generalized e.
+- sự cắt suy rộng
+ @Generalized Information System (GIS)
+- (Tech) hệ thống thông tin được tổng quát hóa
+ @Generalized least square (GLS)
+- (Econ) Bình phương nhỏ nhất tổng quát.
+: Còn gọi là ước lượng Aitken. Một dạng ước lượng theo kiểu BÌNH PHƯƠNG NHỎ NHẤT áp dụng cho các trường hợp trong đó Ma trận phương sai - Hiệp phương sai của Thành phần nhiễu của phương trình hồi quy không có số 0 trong các vị trí ngoài đường chéo, và @generalized model
+- (Tech) mô hình được tổng quát hóa
+ @generalized sequential access method
+- (Tech) phương pháp tuần truy được tổng quát hóa
+ @Generalized System of Preferences (GSP)
+- (Econ) Hệ thống ưu đãi phổ cập; Hệ thống ưu đãi chung.
+: Theo GSP, được đề nghị tại hội nghị của Liên hợp quốc về thương mại và phát triển lần đầu tiên năm 1964 và được chấp thuận tại hội nghị lần thứ hai vào năm 1968, các nước công nghiệp đồng ý không đánh thuế nhập khẩu từ các nước đang phát triển, trong khi vẫn đánh thuế nhập khẩu đối với các nước công nghiệp khác, do đó đã tạo ra một chênh lệch ưu đãi cho các nước đang phát triển.
+ @Generalized Tamed Frequency Modulation (GTFM)
+- (Tech) sự biến tần đã thuần và được tổng quát hóa
+ @generalized trace facility (GTF)
+- (Tech) phương tiện truy nguyên được tổng quát hóa
+ @generalizer  
+*  dt
+- người tổng quát hoá; người khái quát hoá
+
+@generally  
+*  dt
+- nói chung, đại thể
+
++ generally speaking: nói chung
+- thông thường, theo như lệ thường
+
+@generalness
+- xem general
+ @general-purpose
+* tt
+- có nhiều công dụng, đa năng
+ @general-purpose computer
+- (Tech) máy điện toán thường dụng
+ @general-purpose register
+- (Tech) bản ghi thườg dụng (trong bộ nhớ chính của đơn vị xử lý trung ương
+ @general-purpose systems simulator (GPSS)
+- (Tech) bộ mô phỏng hệ thống thường dụng
+ @generalship  
+*  dt
+- (quân sự) cấp tướng
+- chiến lược, chiến thuật
+- tài chỉ huy quân sự
+- sự khéo léo; tài ngoại giao
+- tài quản lý, tài điều khiển
+
+@generate  
+*  ngdgt
+- sinh, đẻ ra
+- phát, phát ra
+
++ to generate electricity: phát điện
+
+@generate
+- (Tech) tạo (ra), phát sinh ra
+ @generated address
+- (Tech) địa chỉ được tạo
+ @generated code
+- (Tech) ký tự xử lý được tạo
+ @generating
+* tt
+- sinh ra; tạo ra; phát sinh
+* dt
+- sự sinh ra; sự tạo ra; sự phát sinh
+ @generation  
+*  dt
+- sự sinh ra, sự phát sinh ra
+- thế hệ, đời
+- (điện học) sự phát điện
+
+@generation
+- (Tech) thế hệ
+ @generation
+- sự sinh ra, sự tạo thành, thế hệ
+- g. of random numbers (xác suất) sự tạo ra các số ngẫu nhiên
+- singular g. of a ruled surface đường kỳ dị của một mặt kẻ 
+ @generation data group (GDG)
+- (Tech) nhóm dữ liệu cùng lứa cùng hệ
+@generation rate
+- (Tech) suất tạo lập
+ @generative  
+*  tt
+- có khả năng sinh ra, sinh ra
+
+@generator  
+*  dt
+- người sinh ra, người tạo ra, cái sinh thành
+- máy sinh, máy phát; máy phát điện
+
++ an ultrasonic generator: máy phát siêu âm
+
+@generator
+- (Tech) máy tạo sóng; bộ dao động; bộ tạo, bộ sinh; máy phát điện; chương trình tạo lập
+ @generator
+- (hình học) [phần tử, hàm] sinh; (máy tính) máy phát
+- g. of a group các phần tử sinh của một nhóm
+- g. of a quadric đường sinh của một quađric
+- g. of a surface đường sinh của một mặt kẻ
+- g. of a surface of translation đường sinh của một mặt tịnh tiến
+- clock pulse g. máy phát xung đồng bộ
+- component g. (máy tính) máy phát hợp phần
+- delay g. (máy tính) máy phát trễ
+- double g. of a ruled surface đường sinh kép của một mặt trễ
+- electronic g. (máy tính) máy phát điện tử
+- function g. (máy tính) máy phát hàm, máy biến đổi
+- harmonic g. (máy tính) máy phát hoà ba
+- information g. (máy tính) nguồn tin
+- narrow-pulse g. (máy tính) máy phát các xung hẹp
+- noise g. (máy tính) máy phát tiếng ồn
+- rectilinear g. (hình học) các đường sinh thẳng 
+- simulative g.(hình học) máy phát phỏng theo
+- square-law function g. (máy tính) máy bình thường
+- stational g. of a ruled surface đường sinh dừng của một mặt kẻ
+- synchronizing g. (máy tính) máy phát đồng bộ
+- timing g. máy phát theo thời gian
+- trigger g. bộ xúc phát, máy phát trigơ 
+ @generatrices  
+*  dt,  số nhiều generatrices
+- (toán học) đường sinh
+
+@generatrix  
+*  dt,  số nhiều generatrices
+- (toán học) đường sinh
+
+@generatrix
+- đường sinh
+ @generic  
+*  tt
+- có đặc điểm chung của một giống loài; (thuộc) giống loài
+- chung
+
+@generic
+- (Tech) cùng giống, cùng loại; chung
+ @generic
+- chung (cho một loại); hh(đại số) sinh || đồng loại
+ @generic key
+- (Tech) khóa chung
+ @generic procedure
+- (Tech) thủ tục chung; chương trình con cùng loại
+ @generic term
+- (Tech) thuật ngữ chung
+ @generically
+* dt
+- khái quát, tổng quát
+ @generically
+- nói chung
+ @genericity
+- tổng quát: Một tính chất của ngôn ngữ lập trình cho phép các hàm hoặc thủ tục được nhận tham biến có kiểu bất kì
+ @generosity  
+*  dt
+- sự rộng lượng, sự khoan hồng; hành động rộng lượng, hành động khoan hồng
+
++ to show generosity in dealing with a defeated enemy: khoan hồng trong cách đối xử với kẻ địch bại trận
+- tính rộng rãi, tính hào phóng
+
+@generous  
+*  tt
+- rộng lượng, khoan hồng
+- rộng rãi, hào phóng
+- thịnh soạn
+
++ a generous meal: bữa ăn thịnh soạn
+- màu mỡ, phong phú
+
++ generous soil: đất màu mỡ
+- thắm tươi (màu sắc)
+- dậm (rượu)
+
+@generously
+* dt
+- rộng lượng, hào hiệp, hào phóng
+ @genesis  
+*  dt
+- căn nguyên, nguồn gốc
+- sự hình thành
+- (tôn giáo) (Genesis) cuốn " Chúa sáng tạo ra thế giới" (quyển đầu của kinh Cựu ước)
+
+@genet  
+*  dt
+- (động vật học) cây genet
+
+@genetic  
+*  tt
+- (thuộc) căn nguyên, (thuộc) nguồn gốc
+- (thuộc) di truyền học
+- phát sinh
+
++ genetic classification: phép phân loại phát sinh
+
+@genetic algorithm
+- (Tech) thuật toán di truyền
+ @genetic(al)
+- (thuộc) di truyền
+ @genetically
+* dt
+- về mặt di truyền học, có liên quan đến khía cạnh di truyền
+ @geneticist
+* dt
+- nhà nghiên cứu về di truyền học, nhà di truyền học
+ @genetics  
+*  dt,  số nhiều dùng như số ít
+- di truyền học
+
+@genetics
+- di truyền học
+ @genetype
+* dt
+- kiểu gen, kiểu di truyền
+- cấu trúc di truyền
+- kiểu giống
+- kiểu sinh học
+ @geneva  
+*  dt
+- rượu cối, rượu đỗ tùng
+
+@Geneva Conference
+- (Econ) Hội nghị Geneva.
+: Xem GENERAL AGREEMENT ON TARIFFS AND TRADE.
+ @Geneva Round
+- (Econ) Vòng đàm phán Geneva.
+: Tên thường gọi cho cả vòng đàm phán thứ nhất (1947) và lần đàm phán thứ tư (1955-56) trong khuôn khổ về Hiệp định chung về thuế quan và thương mại.
+ @genial  
+*  tt
+- vui vẻ, vui tính; tốt bụng, thân ái, ân cần
+
++ a genial old man: một cụ già vui vẻ tốt bụng
+- ôn hoà, ấm áp (khí hậu)
+
++ a genial climate: khí hậu ôn hoà, ấm áp khí hậu
+- (từ hiếm,nghĩa hiếm) thiên tài
+*  tt
+- (giải phẫu) (thuộc) cằm
+
+@geniality  
+*  dt
+- tính vui vẻ, tính tốt bụng, tính ân cần thân mật
+- tính ôn hoà (khí hậu)
+
+@genially
+* dt
+- thân ái, ân cần, cởi mở
+ @genicular
+* tt
+- (thuộc) đầu gối; khủyu
+ @geniculate   (geniculated) @geniculated   (geniculated) @geniculum
+* dt
+- thể gối
+ @genie  
+*  dt,  số nhiều genii
+- thần
+
+@genii  
+*  dt,  số nhiều của genie
+*  dt,  số nhiều của genius
+
+@genioglossal
+* tt
+- thuộc cằm-lưỡi
+ @geniolatry
+* dt
+- sự sùng bái quỷ thần
+ @genital  
+*  dt
+- (động vật học) (thuộc) sinh dục
+
+@genitalia
+* dt, pl
+- <động> cơ quan sinh dục ngoài
+ @genitals  
+*  dt số nhiều
+- (động vật học) cơ quan sinh dục ngoài
+
+@genitive  
+*  tt
+- (ngôn ngữ học) sở hữu
+
++ the genitive cáe: cách sở hữu, (thuộc) cách
+*  dt
+- (ngôn ngữ học) cách sở hữu, (thuộc) cách
+
+@genito-anal
+* tt
+- thuộc sinh dục-hậu môn
+ @genito-crural
+* tt
+- thuộc sinh dục-đùi
+ @genito-enteric
+* tt
+- thuộc sinh dục-ruột
+ @genitor
+* dt
+- (từ hiếm) cha
+ @genito-urinary
+* tt
+- thuộc sinh dục-niệu
+ @genius  
+*  dt,  số nhiều geniuses
+- (không có snh) thiên tài, thiên tư
+
++ a poet of genius: nhà thơ thiên tài
+
++ to have a genius for mathematcs: có thiên tài về toán học
+- người thiên tài, người anh tài, bậc kỳ tài
+- (thường) dùng số ít thần bản mệnh (tôn giáo La-mã)
+- tinh thần, đặc tính (chủng tộc, ngôn ngữ, thời đại...)
+- liên tưởng; cảm hứng
+- (số nhiều genii) thần
+
++ good genius: thần thiện
+
++ evil genius: thần ác
+
+@genoblast
+* dt
+- (sinh học) nguyên bào chính; tế bào mầm chín
+ @genocide  
+*  dt
+- tội diệt chủng
+
+@genocline
+* dt
+- cấp di truyền
+ @genoholotype
+* dt
+- vật chuẩn giống
+ @genom
+* dt
+- cũng genome
+- hệ gen; bộ gen
+ @genomic
+* tt
+- thuộc hệ gen; bộ gen
+ @genotype  
+*  dt
+- (sinh vật học) kiểu di truyền
+
+@genre  
+*  dt
+- loại, thể loại
+
+@genre
+- giống
+- g. of an entire function (giải tích) giống của một hàm nguyên
+- g. of a surface (tô pô) giống của mặt
+ @genre-painting
+* dt
+- (hội hoạ) tranh miêu tả cảnh sinh hoạt đời thường
+ @gens
+* dt; số nhiều gentes
+- thị tộc
+- (sinh học) nghành
+ @gent  
+*  dt
+- (viết tắt) của gentleman
+- nhuôi &, ngài
+-(đùa cợt) người tự cho mình là hào hoa phong nhã
+
+@genteel  
+*  tt quồn quý phái, thượng lưu
+- lễ độ, nhã nhặn
+- lịch sự, đúng mốt
+
+@genteelism  
+*  dt
+- từ kiểu cách, từ cầu kỳ
+
+@genteelly
+* dt
+- cầu kỳ, trau chuốt
+ @gentian  
+*  dt
+- (thực vật học) cây long đởm
+
+@gentian violet
+* dt
+- thuốc nhuộm có khả năng trị các vết bỏng
+ @gentile  
+*  tt
+- không phải là Do thái
+- không theo đạo nào
+*  dt
+- người không phải là Do thái
+
+@gentilesse
+* dt
+- (từ cổ, nghĩa cổ) văn nhã; lòng nhân ái
+ @gentilism
+* dt
+- người không phải Do Thái
+- người tà giáo
+ @gentility  
+*  dt
+- (từ hiếm,nghĩa hiếm) dòng dõi trâm anh; địa vị cao quý
+-(mỉa mai) vẻ quý phái, vẻ phong nhã, vẻ hào hoa
+!shabby gentility
+- sự cố giữ phong cách hào hoa trong hoàn cảnh sa sút
+
+@gentle  
+*  tt
+- hiền lành, dịu dàng, hoà nhã; nhẹ nhàng; thoai thoải
+
++ a gentle nature: bản chất hiền lành hoà nhã
+
++ a gentle breeze: làn gió nhẹ
+
++ the gentle sex: phái đẹp, giới phụ nữ
+
++ a gentle medicine: thuốc nhẹ (ít công phạt)
+
++ a gentle slope: dốc thoai thoải
+
++ the gentle craft: nghề câu cá (một công việc êm ái, nhẹ nhàng)
+- (thuộc) dòng dõi trâm anh, (thuộc) gia đình quyền quý
+- (từ cổ,nghĩa cổ) lịch thiệp, lịch sự; cao quý
+
++ gentle reader: bạn đọc cao quý (lời nói đầu của tác giả với người đọc)
+*  dt
+- mồi giòi (để câu cá)
+- (số nhiều) (thông tục) những người thuộc gia đình quyền quý
+*  ngdgt
+- luyện (ngựa) cho thuần
+
+@gentlefolks  
+*  dt số nhiều
+- những người thuộc dòng dõi trâm anh, những người thuộc gia đình quyền quý
+
+@gentle-hearted
+* tt
+- có lòng tốt; có thiện chí
+ @gentlehood  
+*  dt
+- địa vị quyền quý
+
+@gentleman  
+*  dt
+- người hào hoa phong nhã
+
++ to behave like a gentleman: cư xử ra người hào hoa phong nhã
+- người quý phái, người thượng lưu
+- người đàn ông
+- người không cần làm việc để kiếm sống (để có thu nhập hàng năm)
+
++ to lead a gentleman's life: sống vào thu nhập hàng năm
+- (số nhiều) ông, ngài
+
++ ladies and fentlemen: thưa quý bà, quý ông
+- (số nhiều) nhà vệ sinh đàn ông
+!gentlemant at large
+- (xem) large
+!the gentleman in black velvet
+- con chuột chũi
+!gentlemant in waiting
+- quan thị vệ
+!gentlemant of the cloth
+- thầy tu
+!gentleman of fortune
+- kẻ cướp
+- kẻ phiêu lưu mạo hiểm
+!gentleman of the long robe
+- quan toà, luật gia
+!gentleman of the road
+- (từ Mỹ,nghĩa Mỹ), người đi chào hàng
+!gentleman's agreement
+- lời hứa của người quân tử; lời hứa danh dự
+!gentleman's gentleman
+- người hầu phòng, người hầu
+!the old gentleman
+-(đùa cợt) ma vương
+
+@gentleman-at-arms  
+*  dt
+- quan ngự lâm
+
+@gentlemanlike   (gentlemanlike) @gentlemanliness
+* dt
+- phong thái quân tử
+ @gentlemanly   (gentlemanlike) @gentleness  
+*  dt
+- tính hiền lành, tính dịu dàng, tính hoà nhã; tính nhẹ nhàng; tính thoai thoải (dốc)
+
+@gentlewoman  
+*  dt
+- người đàn bà lịch sự
+- người đàn bà quyền quý
+- (từ cổ,nghĩa cổ) thị nữ
+
+@gentlewomanlike
+* dt
+- như một nữ quý tộc
+ @gently  
+*  dt
+- nhẹ nhàng, êm ái, dịu dàng
+
++ speak gently: hãy nói sẽ
+
++ hold it gently: hây cầm cái đó nhẹ nhàng
+- chầm chậm
+
+@gentoo
+* dt; số nhiều gentoos
+- người ấn Độ
+- tiếng ấn Độ
+ @gentrice
+* dt
+- nguồn gốc trâm anh
+- tình trạng có giáo dục tốt
+ @gentrify
+* ngdgt
+- làm cho có phong cách trưởng giả
+ @gentry  
+*  dt
+- tầng lớp quý tộc nhỏ
+
++ the landed gentry: tầng lớp quý tộc địa chủ nhỏ
+- ghuộm hạng người
+
++ the light-fingred gentry: hạng người móc túi
+
++ these gentry: những hạng người đó
+
+@gents  
+*  dt
+- (thông tục) nhà vệ sinh đàn ông
+
+@genu
+* dt; số nhiều genua
+- đầu gối
+ @genual  
+*  tt
+- (thuộc) đầu gối
+
+@genuant
+* tt
+- chịu luồn cúi
+ @genuflect  
+*  ndgt
+- quỳ gối (để lễ)
+
+@genuflector  
+*  dt
+- người quỳ gối (để lễ)
+
+@genuflectory  
+*  tt
+- quỳ gối
+
+@genuflexion  
+*  dt
+- sự quỳ gối (để lễ)
+
+@genuine  
+*  tt
+- thật, chính cống, xác thực
+
++ a genuine pearl: viên ngọc trai thật
+- thành thật, chân thật
+
++ genuine repentance: sự hối hận thành thật
+
+@genuinely
+* dt
+- thành thật, chân thật
+ @genuineness  
+*  dt
+- tính chất thật, tính chính cống, tính xác thực
+- tính thành thật, tính chân thật
+
+@genus  
+*  dt,  số nhiều genera
+- (sinh vật học) phái, giống
+- loại
+
+@genus
+- giống
+- g. of a curve giống của một đường 
+ @geobotanist
+* dt
+- nhà địa thực vật học
+ @geobotany
+* dt
+- địa thực vật học
+ @geocentric  
+*  tt
+- (thuộc) tâm địa cầu, (thuộc) địa tâm
+- coi địa cầu là trung tâm
+
+@geocentricism
+* dt
+- thuyết lấy địa cầu làm trung tâm
+ @geochemical
+* tt
+- thuộc địa hoá học
+ @geochemistry  
+*  dt
+- địa hoá học
+
+@geochronologic
+* tt, cũng geochronological
+- thuộc địa thời học
+ @geochronologist
+* dt
+- nhà địa thời học
+ @geochronology
+* dt
+- địa thời học
+ @geode
+* dt
+- (địa chất) hốc tinh
+ @geodesic
+- (thuộc) đo đạc
+ @geodesic
+- trắc địa || đường trắc địa
+- conformally g. (hình học) trắc địa bảo giác
+- minimal g. đường trắc địa cực tiểu 
+ @geodesis   (geodesis) @geodesist  
+*  dt
+- nhà đo đạc
+
+@geodesy  
+*  dt
+- khoa đo đạc
+
+@geodesy
+- trắc địa học
+ @geodetic   (geodesis) @geodetic dome
+- (Tech) vòm cầu
+ @geodetic, geodesic
+- (Tech) thuộc về trắc địa; thuộc về mặt cong @geodetic line
+- (Tech) đường trắc địa, đường ngắn nhất trên mặt cong
+ @geodetic survey
+- (Tech) sự thăm dò trắc địa
+ @geodetics, geodesy
+- (Tech) trắc địa học, phép trắc địa
+ @geodynamic  
+*  tt
+- (thuộc) khoa địa động lực
+
+@geodynamics  
+*  dt
+- khoa địa động lực
+
+@geogeny
+* dt
+- khoa nguồn gốc địa cầu
+ @geognosis
+* dt
+- xem geognosy
+ @geognost
+* dt
+- nhà nghiên cứu cấu tạo địa cầu
+ @geognosy  
+*  dt
+- địa thức học
+
+@geographer  
+*  dt
+- nhà địa lý
+
+@geographic   (geographical) @Geographic frontier
+- (Econ) Giới hạn địa lý.
+: Cụm thuật ngữ được sử dụng trong lý thuyết phát triển kinh tế để mô tả một khu vực trong đó số với số dân, khả năng kỹ thuật, sở thích và khẩu vị nhất định, sẽ xuất hiện lợi tức tăng dần từ lao động và tư bản.
+ @geographic information system (GIS)
+- (Tech) hệ thống thông tin địa lý
+ @geographical   (geographical) @geographically
+* dt
+- về mặt địa lý, về phương diện địa lý
+ @geography  
+*  dt
+- khoa địa lý; địa lý học
+
+@geography
+- địa lý học
+- mathematical g. địa lý toán học 
+ @geoid
+* dt
+- thể địa cầu
+- geoit
+ @geoidal
+* tt
+- thuộc thể địa cầu
+- thuộc geoit
+ @geologic   (geological) @geological   (geological) @geologically
+* dt
+- về mặt địa chất, về phương diện địa chất
+ @geologise   (geologise) @geologist  
+*  dt
+- nhà địa chất
+
+@geologize   (geologise) @geology  
+*  dt
+- khoa địa chất, địa chất học
+
+@geomagnetic
+* tt
+- thuộc địa từ; từ tính trái đất
+ @geomagnetism
+* dt
+- địa; từ tính trái đất
+ @geomancer  
+*  dt
+- thầy bói đất
+
+@geomancy  
+*  dt
+- môn bói đất (bói bằng những hình vẽ trên đất)
+
+@geomantic
+* tt
+- thuộc môn bói đất
+ @geomatry
+- hình học
+- g. of direction hình học phương hướng
+- g. of numbers hình học các số 
+- g. of paths hình học các đường
+- g. of position hình học vị trí
+- g. of the circle hình học vòng tròn
+- g. of the sphere hình học mặt cầu
+- absolute g. hình học tuyệt đối
+- affine g. hình học afin
+- affine differential g. hình học vi phân afin
+- algebraic g. hình học đại số
+- analytic g. hình học giải tích
+- complex g. hình học phức
+- descriptive g. hoạ hinhd
+- differential g. hình học vi phân
+- double elliptic g. hình học song eliptic
+- elementary g. hình học sơ cấp
+- elliptic(al) g. hình học eliptic
+- elliptic parabolic g. hình học parabolic eliptic
+- equiaffine g. hình học đẳng afin
+- equiform g. hình học đẳng dạng
+- Euclidean g. hình học Ơclit
+- finite g. hình học hữu hạn
+- four dimensional g. hình học bốn chiều
+- high g. hình học cao cấp
+- hyperbolic g. hình học hipebolic
+- hyperbolic metric g. hình học metric hipebolic
+- infinitesimal g. hình học vi phân
+- inversion g. hình học nghịch đảo
+- line g. hình học tuyến
+- Lobachevskian g. hình học Lôgasepxki
+- metric g. hình học metric
+- metric differential g. hình học vi phân metric
+- Minkowskian g. hình học Minkôpxki
+- modern g. hình học hiện đại
+- network g. hình học lưới
+- non-Euclidean g. hình học phi Ơclit
+- parabolic metric g. hình học metric parabolic
+- perspective g. hình học phối cảnh
+- plane g. hình học phẳng
+- point g. hình học điểm
+- polymetric g. hình học đa metric
+- probabilistic g. hình học xác suất
+- projective g. hình học xạ ảnh
+- projective differential g. hình học vi phân xạ ảnh
+- quasi-elliptic g. hình học tựa eliptic
+- real g. hình học thực
+- Riemannian g. hình học Riman
+- solid g. hình học không gian, hình học nổi
+- spherical g. hình học cầu
+- symplectic g. hình học ngẫu đối
+- synthetic(al) g. hình học tổng hợp 
+ @geometer  
+*  dt
+- nhà hình học
+- (động vật học) sâu đo
+
+@geometric   (geometrical) @geometric
+- (Tech) thuộc hình học
+ @geometric distortion
+- (Tech) biến dạng hình học
+ @Geometric lag
+- (Econ) Độ trễ cấp số nhân.
+: Còn gọi là độ trễ giảm dần theo số mũ.
+ @geometric mean
+- (Tech) số trung bình nhân [TN]
+ @geometric model
+- (Tech) mô hình hình học
+ @geometric progression
+- (Tech) cấp số nhân
+ @geometric resonance
+- (Tech) cộng hưởng hình học (giữa sóng siêu âm với các điện tử trong kim loại
+ @geometric solution
+- (Tech) giải đáp hình học
+ @geometrical   (geometrical) @geometric(al)
+- (thuộc) hình học
+ @geometrical optics
+- (Tech) quang hình học
+ @geometrically
+* dt
+- về phương diện hình học
+ @geometrically
+- về mặt hình học
+ @geometrician  
+*  dt
+- nhà hình học
+
+@geometrid
+* dt
+- (động vật) họ bướm sâu đo
+ @geometrization
+- sự hình học hoá
+ @geometrize
+* ndgt
+- nghiên cứu hình học
+- vận dụng phương pháp hình học
+* ngdgt
+- trình bày theo phương pháp hình học
+ @geometrize
+- hình học hoá
+ @geometry  
+*  dt
+- hình học
+
+@geometry
+- (Tech) hình học; dạng hình
+ @geomorph
+* dt
+- địa mạo học
+ @geomorphic
+* tt
+- thuộc địa mạo
+ @geomorphogeny
+* dt
+- địa mạo học
+ @geomorphology
+* dt
+- địa mạo học
+ @geonastic
+* tt
+- chui vào đất
+ @geoperception
+* dt
+- sự cảm ứng trọng lực
+ @geophagism
+* dt
+- tập quán ăn đất
+ @geophagous
+* tt
+- ăn đất
+ @geophagy  
+*  dt
+- thói ăn đất
+
+@geophilous
+* tt
+- ưa đất; sống ở đất
+ @geophone
+* dt
+- máy dò âm thanh dưới đất
+ @geophysical  
+*  tt
+- (thuộc) địa vật lý
+
+@geophysical
+- (thuộc) vật lý địa cầu
+ @geophysicist  
+*  dt
+- nhà địa vật lý
+
+@geophysics  
+*  dt,  số nhiều dùng như số ít
+- khoa địa vật lý
+
+@geophysics
+- (Tech) môn địa vật lý
+ @geophysics
+- vật lý địa cầu
+ @geophyte  
+*  dt
+- (thực vật học) cây chồi dưới
+
+@geopolitical
+* tt
+- thuộc về khoa địa chính trị
+ @geopolitics  
+*  dt,  số nhiều dùng như số ít
+- khoa địa chính trị
+
+@geoponic  
+*  tt
+-(đùa cợt) (thuộc) nông nghiệp
+
+@geopotential
+* dt
+- thế năng trái đất
+ @georaphic(al)
+- (thuộc) địa lý
+ @george  
+*  dt
+- thánh Gióoc
+
++ by george!: trời ơi!, úi chà chà!, ô kìa! (tỏ sự ngạc nhiên)
+- (từ lóng) máy lái máy bay tự động
+
+@George, Joseph Stigler
+- (Econ) (1911-1991).
+: Nhà kinh tế học người Mỹ và danh hiệu giáo sư xuất sắc Charles R. Walgreen tại trường Đại học Chicago. Ông được tặng giải thưởng Nobel về kinh tế năm 1982 cho tác phẩm Nghiên cứu về cấu trúc công nghiệp, chức năng của các thị trường, nguyên nhân và ảnh hưởng của luật lệ công cộng. Đóng góp của ông vào lịch sử tư duy kinh tế học cũng rất đáng kể, bắt đầu với cuốn sách đầu tay của ông: Lý thuyết về sản xuất và phân phối (1941) và các bài viết của ông về tổ chức công nghiệp. Tuy nhiên, việc ông dựa nhiều vào dữ liệu thực nghiệp và phân tích sâu sắc làm cho cuốn sách này của ông ít phổ biến. Một bài viết đặc biệt của ông nhan đề Kinh tế học thông tin được Viện hàn lâm Thuỵ Điển chọn ra, bàn về chi phí cần thiết của việc tìm kiếm trong số các giá cả do nhà cung ứng khác nhau tính cho cùng một hành hoá hay dịch vụ. Phân tích đó có thể được áp dụng đối với các vấn đề giá cả cứng nhắc, sự biến thiên trong thời kỳ giao hàng, việc xếp hàng và các nguồn lực không được sử dụng. Phần lớn nghiên cứu của ông về kinh tế học về sự điều tiết đều nằm trong tác phẩm Nhân dân và nhà nước (1975), trong đó ông kêu gọi sử dụng phương pháp định lượng trong nghiên cứu và sự điều tiết. Chính vì có quan điểm của nhà kinh tế học vi mô mà cuối đời ông chuyển sự chú ý của mình sang hệ thống chính trị để khám phá ra những cách mà quá trình lập pháp là một yếu tố NỘI SINH  chứ không phải là yếu tố NGOẠI SINH của nền kinh tế.
+ @georgette  
+*  dt
+- nhiễu joocjet, kết joocjet
+
+@georgian
+* tt
+- thuộc thời kỳ các vua George của Anh (1714 - 1830)
+ @georgic
+* dt
+- thơ nông nghiệp; thơ điền viên
+* tt
+- thuộc thơ nông nghiệp; thuộc thơ điền viên
+ @geoscope
+* dt
+- kính địa tiềm vọng
+ @geosphere
+* dt
+- địa quyển
+ @geostationary
+- (Tech) địa tĩnh, cố định đối với mặt đất
+ @geostationary orbit
+- (Tech) quỹ đạo địa tĩnh
+ @geostationary satellite
+- (Tech) vệ tinh địa tĩnh
+ @geosynclinal   (geosyncline) @geosyncline   (geosyncline) @geotectonic
+* tt
+- thuộc khoa địa kiến tạo
+ @geotectonics  
+*  dt,  số nhiều dùng như số ít
+- (địa lý,ddịa chất) khoa địa kiến tạo
+
+@geothermal
+* tt
+- thuộc địa nhiệt
+ @geothermic
+* tt
+- thuộc địa nhiệt
+ @geotropic  
+*  tt
+- (thực vật học) hướng đất
+
+@geotropism  
+*  dt
+- (thực vật học) tính hướng đất
+
+@geraniol
+* dt
+- (hoá học) geranola
+ @geranium  
+*  dt
+- (thực vật học) cây phong lữ
+- màu đỏ thắm (màu hoa phong lữ)
+
+@gerant
+* dt
+- người quản lý
+ @geratology
+* dt
+- môn lão hoá (nghiên cứu sự thay đổi khi quần thể già cỗi)
+ @geratric
+* tt
+- thuộc tuổi già; lão hoá
+ @gerbil
+* dt (cũng) jerbil
+- chuột nhảy
+ @gerfalcon  
+*  dt
+- (động vật học) chim ưng gộc
+
+@geriatric  
+*  tt
+- (thuộc) khoa bệnh tuổi già
+
+@geriatrician   (geriatricist) @geriatricist   (geriatricist) @geriatrics  
+*  dt,  số nhiều dùng như số ít
+- (như) geriatry
+
+@geriatrist
+- Cách viết khác : geriatrician 
+ @geriatry   (gerontology) @germ  
+*  dt
+- mộng, mầm, thai, phôi
+
++ in germ: ở tình trạng phôi thai ((nghĩa đen) & (nghĩa bóng))
+- mầm bệnh, vi trùng
+- (nghĩa bóng) mầm mống
+!germ warfare
+- chiến tranh vi trùng
+*  ndgt
+- nảy ra, nảy sinh ra
+
+@germ
+- (tô pô) mần, phôi
+- group g. mầm nhóm 
+ @german  
+*  tt
+- (chỉ : brother,  sister,  cousin) brother german anh em ruột thịt,  sisters german chị em ruột,  cousin german anh chị em con chú bác ruột, anh chị em con cô cậu ruột
+- (German) (thuộc) Đức
+*  dt
+- (German) người Đức
+- (German) tiếng Đức
+
+@german measles
+* dt
+- bệnh sởi
+ @german shepherd
+* dt
+- chó Ansat, chó becgiê Đức
+ @german-american
+* dt
+- người Mỹ gốc Đức
+* tt
+- thuộc người Mỹ gốc Đức
+ @germander
+* dt
+- (thực vật) cây tía tô đất
+ @germane
+* tt
+- thích hợp, phù hợp
+ @german-fish
+* dt
+- (động vật) cá chim đen
+ @germanic  
+*  tt
+- (thuộc) Đức
+- (thuộc) dân tộc Tơ-tông
+
+@germanisation
+* dt
+- sự Đức hoá
+ @germanism  
+*  dt
+- từ ngữ đặc Đức
+- sự sùng Đức
+
+@germanist  
+*  dt
+- nhà Đức học
+
+@germanity
+* dt
+- đặc tính Đức
+ @germanium
+- (Tech) gecmani (Ge, số nguyên tử 32)
+ @germanium diode
+- (Tech) đèn hai cực gecmani
+ @germanium film
+- (Tech) fim gecmani
+ @germanium photocell
+- (Tech) ống quang điện gecmani (Ge)
+ @germanium photodevice
+- (Tech) bộ quang điện gecmani (Ge)
+ @germanium rectifier
+- (Tech) bộ chỉnh lưu gecmani (Ge)
+ @germanium transistor
+- (Tech) đèn tinh thể gecmani (Ge)
+ @germanization  
+*  dt
+- sự Đức hoá
+
+@germanize  
+*  dgt
+- Đức hoá
+
+@germanomania
+* dt
+- thái độ say mê đức
+ @germanomaniac
+* dt
+- người sùng bái nước Đức
+ @germanophile  
+*  tt
+- thân Đức
+*  dt
+- người thân Đức
+
+@germanophobe  
+*  tt
+- bài Đức
+*  dt
+- người bài Đức
+
+@germanophobia  
+*  dt
+- sự bài Đức; chủ trương bài Đức
+
+@germ-cell
+* dt
+- (sinh học) nguyên bào; tế bào mầm
+ @germ-disc
+* dt
+- nguyên bào mầm
+ @germen
+* dt
+- (sinh học) nguyên bào mầm
+ @germicidal
+* tt
+- (thuộc) chất sát trùng
+ @germicide  
+*  dt
+- chất diệt trùng, chất sát trùng
+
+@germi-culture
+* dt
+- việc nuôi vi khuẩn
+ @germiduct
+* dt
+- ống dẫn trứng; ống dẫn tinh
+ @germinability
+* dt
+- khả năng, sức nẩy mầm
+ @germinable
+* tt
+- có thể nẩy mầm
+ @germinal  
+*  tt
+- (thuộc) mầm; có tính chất mầm
+- ở thời kỳ phôi thai
+
+@germinant  
+*  tt
+- nảy mầm
+- nảy ra, nảy sinh
+
+@germinate  
+*  ndgt
+- nảy mầm
+- nảy ra, nảy sinh ra (trong trí)
+*  ngdgt
+- làm mọc mộng, làm nảy mầm
+- sinh ra, đẻ ra
+
+@germination  
+*  dt
+- sự mọc mộng, sự nảy mầm
+
+@germinative  
+*  tt
+- nảy sinh, mọc mộng, sự nảy mầm
+
+@germinator
+* dt
+- thùng ươm
+ @germiparous
+* tt
+- sinh sản bằng mầm; sinh sản bằng nẩy mầm
+ @germ-layer
+* dt
+- lớp mầm
+ @germ-nucleous
+* dt; số nhiều germ-nuclei
+- mầm hạt nhân
+ @germule
+* dt
+- mầm con
+ @gerontic
+* tt
+- già yếu
+- xảy ra lúc già
+ @gerontocracy  
+*  dt
+- chính quyền trong tay những người có tuổi
+- chính phủ gồm những người có tuổi
+
+@gerontocrat
+* dt
+- người già nắm quyền chính trị
+ @gerontologic
+* tt, cũng gerontological
+- thuộc lão khoa
+ @gerontologist
+* dt
+- nhà lão khoa
+ @gerontology   (gerontology) @gerrymander  
+*  ngdgt
+- (từ lóng) sắp xếp gian lận (những khu vực bỏ phiếu) (trong cuộc tuyển cử, để giành phần thắng)
+
+@gerrymandering
+* dt
+- sự sắp xếp gian lận khu vực bầu cử để giành phần thắng trong cuộc tuyển cử
+ @gerund  
+*  dt
+- (ngôn ngữ học) động dt
+
+@gerundial  
+*  tt
+- (ngôn ngữ học) (thuộc) động dt; như động dt; dùng như động dt
+
+@gerundival
+* tt, cũng gerundive
+- (ngôn ngữ) xem gerundial
+ @gerundive  
+*  tt
+- (ngôn ngữ học) (thuộc) động dt; như động dt
+
+@gesellschaft
+* dt
+- quan hệ xã hội
+ @gesso
+* dt (số nhiều gessoes)
+- thạch cao
+ @gest
+* dt
+- cũng geste
+- chuyện phiêu lưu
+- công lao; thành tích
+- (từ cổ, nghĩa cổ) tư thế; thái độ; cử chỉ
+ @gestalt
+* dt; số nhiều gestalten
+- cấu trúc hình thức; dạng
+ @gestapo
+* dt
+- cơ quan mật vụ của Đức quốc xã
+ @gestate
+* ngdgt
+- có mang
+- làm phát triển
+* tt
+- mang thai
+ @gestation  
+*  dt
+- sự thai nghén; thời kỳ thai nghén
+- sự ấp ủ (ý đồ)
+
+@gestative
+* tt
+- mang thai
+ @gestic
+* tt
+- thuộc tiểu thuyết truyền kỳ, phiêu lưu
+- thuộc vũ đạo
+- thuộc vận động cơ thể
+ @gesticulate  
+*  dgt
+- khoa tay múa chân (khi nói)
+
+@gesticulation  
+*  dt
+- khoa tay múa chân
+
+@gesticulative  
+*  tt
+- làm điệu bằng điệu bộ, khoa tay múa chân
+
+@gesticulator  
+*  dt
+- người hay khoa tay múa chân
+
+@gesticulatory  
+*  tt
+- khoa tay múa chân
+
+@gestosis
+* dt
+- hiện tượng nghén
+ @gesture  
+*  dt
+- điệu bộ, cử chỉ, động tác
+- hành động dễ gợi sự đáp lại; hành động để tỏ thiện ý
+
++ his speech is a gesture of friendship: lời nói của anh ta là một biểu hiện của tình hữu nghị
+*  dgt
+- làm điệu bộ, diễn tả bằng điệu bộ, khoa tay múa chân
+
+@gesturer
+* dt
+- người biểu diễn bằng điệu bộ
+ @get  
+*  ngdgt got,  got,  gotten
+- được, có được, kiếm được, lấy được
+
++ to get a living: kiếm sống
+
++ to get little by it: không được lợi lộc gì ở cái đó
+
++ to get fame: nổi tiếng
+- nhận được, xin được, hỏi được
+
++ to get a telegram: nhận được một bức điện tín
+
++ he couldn't get leave from his father: nó không xin được phép của bố nó
+- tìm ra, tính ra
+
++ to get 9 on the average: tính trung bình được 9
+- mua
+
++ to get a new hat: mua một cái mũ mới
+
++ to get a ticket: mua một cái vé
+- học (thuộc lòng)
+
++ to get something by heart: học thuộc lòng điều gì
+- mắc phải
+
++ to get an illness: mắc bệnh
+- (thông tục) ăn
+
++ to get one's breakfast: ăn sáng
+- bắt được (cá, thú rừng...); đem về, thu về (thóc...)
+- (thông tục) hiểu được, nắm được (ý...)
+
++ I don't get you: tôi không hiểu ý anh
+
++ to get it right: hiểu một cách đúng đắn điều đó
+
++ to get the cue: nắm được ngụ ý
+- đưa, mang, chuyền, đem, đi lấy
+
++ to get the table through the window: chuyển cái bàn qua cửa sổ
+
++ get me a chair: đi lấy cho tôi một cái ghế, mang cho tôi một cái ghế
+- bị, chịu
+
++ to get a blow: bị một đòn
+
++ to get a fall: bị ngã
+
++ to get one's arm broken: bị gãy tay
+
++ to get it: bị trừng phạt, bị mắng nhiếc
+- (thông tục) dồn (ai) vào thế bí, dồn (ai) vào chân tường; làm (ai) bối rối lúng túng không biết ăn nói ra sao
+
++ ah! I've got you there!: à! thế là tôi làm cho anh bị bối rối nhé!
+- làm cho, khiến cho
+
++ to get somebody to speak: làm cho ai phải nói
+
++ he could not get the door open: hắn không làm thế nào mở được cửa ra
+
++ to get the low observed: làm cho pháp luật được tôn trọng
+
++ to get somebody with child: làm cho ai có mang
+
++ to get some job done: làm xong một việc gì
+- sai ai, bảo ai, nhờ ai (làm gì)
+
++ to get one's hair cut: đi cắt tóc
+- (thông tục) to have got có, phải
+
++ I've got very little money: tôi có rất ít tiền
+
++ it has got to be done: phải làm việc đó
+- sinh, đẻ (thú vật; ít khi dùng cho người)
+- tìm hộ, mua hộ, xoay hộ, cung cấp
+
++ to get [for] someone a football match ticket: tìm mua (xoay hộ) cho ai một vé đi xem đá bóng
+*  ndgt
+- đến, tới, đạt đến
+
++ shall we get there in time?: liệu chúng ta có đến đó kịp giờ không?
+
++ to get there: (từ lóng) thành công
+- trở nên, trở thành, thành ra, đi đến chỗ
+
++ to get fat: (trở nên) béo ra
+
++ to get old: (trở nên) già đi
+
++ to get better: đã đỡ, đã khá hơn (người ốm)
+
++ to get well: đã khỏi (người ốm)
+- bắt đầu
+
++ to get to work: khởi công, bắt đầu làm
+
++ they got talking: chúng nó bắt đầu nói chuyện
+- (từ lóng) cút đi, chuồn
+@get
+- được; tính
+ @get about
+- đi đây, đi đó, đi lại
+- bắt đầu đi lại được (sau khi khỏi bệnh)
+- lan truyền, đồn ra (tin tức)
+ @get abroad
+- lan truyền, truyền đi (tin đồn)
+ @get across
+- đi ngang qua, vượt qua; cho (ai...) đi ngang qua
+
++ to get one's troops across the river: cho quân đội qua sông
+- giải thích rõ ràng, trình bày khúc chiết
+
++ to get across an idea: trình bày ý kiến một cách khúc chiết
+ @get ahead
+- tiến lên phía trước
+- tiến bộ, vượt những người khác
+
++ he has got ahead of all the other boys in his class: nó tiến bộ vượt tất cả các học sinh khác trong lớp
+ @get along
+- sống, làm ăn, xoay sở
+
++ to get along without any help: không có sự giúp đỡ cũng vẫn xoay xở được
+- tiến bộ
+
++ how are you getting along with your English?: anh học tiếng Anh tiến bộ ra sao rồi?
+- (thông tục) hoà thuận với nhau; ăn cánh với nhau
+
++ they get along very well: chúng rất hoà thuận với nhau
+- chở đi, đem đi, mang đi
+
++ to get somebody along to the hospital: mang ai vào nhà thương
+- (thông tục) đi đi, cút đi
+
++ get along with you!: cút đi! tầm bậy!
+ @get at
+- đạt tới, đến được, tới, đến; với tới được, lấy được, đến gần được
+- kiếm được (tài liệu...); tìm ra, khám phá ra (sự thật...)
+- hiểu, nắm được (ý...)
+
++ I cannot get at his meaning: tôi không hiểu được ý hắn
+- (thông tục) mua chuộc, hối lộ, đút lót
+
++ to get at a witness: mua chuộc người làm chứng
+- (thông tục) chế nhạo, giễu cợt (ai); công kích, tấn công (ai...)
+
++ who are you getting at?: anh đang chế nhạo ai đấy? anh đang công kích ai đấy?, anh đang cố trộ ai đấy?; anh đang cố lừa ai đấy?
+ @get away
+- đi, đi khỏi, ra đi, đi xa
+
++ get away with you!: cút đi!
+- thoát khỏi, tránh khỏi, trốn thoát
+- (từ Mỹ,nghĩa Mỹ) xoay xở xong, thoát khỏi bước khó khăn
+- cất cánh bay lên (máy bay); mở máy chạy đi (ô tô)
+- nhổ ra, giật ra
+
++ to get back: lùi, lùi lại; trở lại, trở về
+- lấy lại, tìm lại được, thu lại, gỡ lại
+
++ to get back one's ơn: (từ lóng) trả được thù
+ @get behind
+- (từ Mỹ,nghĩa Mỹ) ủng hộ, giúp đỡ
+ @get by
+- đi qua
+
++ please let me get by: làm ơn cho tôi đi qua
+ @get down
+- xuống, đi xuống; xuống ngựa; đem xuống, đưa xuống
+
++ to get down on one's knees: quỳ xuống
+- đánh đổ, đánh ngâ, đánh gục; hạ, bắn rơi (máy bay...)
+- nuốt (miếng ăn...)
+!to get in
+- vào, đi vào, len vào; tới nơi về (nhà...)
+
++ when does the train get in?: khi nào xe lửa tới?
+
++ to get in between two persons: len vào giữa hai người
+
++ to get in with someone: khéo len lõi được lòng ai
+- mang về, thu về
+
++ to get in the crop: thu hoạch mùa màng
+
++ to get money in: thu tiền về
+- trúng cử, được bầu (trong cuộc bầu cử)
+- đấm trúng, đánh trúng
+
++ to get a blow in: đấm trúng một thoi
+!to get into
+- vào, đi vào
+- (thông tục) mặc (quần áo); đi (giày ống...)
+- bốc lên (đầu); làm say chếnh choáng (rượu)
+
++ whisky gets into head: uýtky bốc lên đầu làm say chếnh choáng
+- lâm vào, mắc vào, nhiễm
+
++ to get into debt: mắc nợ
+
++ to get into a habit: nhiễm một thói quen
+!to get off
+- ra khỏi, thoát khỏi; sổ ra
+
++ to get off with a whole skin: thoát khỏi nguy hiểm
+- xuống (xe, tàu, ngựa...)
+- ra đi, khởi hành; bay lên (máy bay)
+- gỡ cho (ai) thoát tội, gỡ cho (ai) nhẹ tội; thoát khỏi khó khăn, thoát khỏi được sự trừng phạt, được tha thứ
+
++ to get off cheap (easy): thoát khỏi dễ dàng
+- bỏ, cởi bỏ, vứt bỏ, tống đi
+
++ to get off one's clothes: cởi quần áo
+- gửi đi, cho đi
+
++ to get a parcel off: gửi một gói hàng
+- làm bật ra, mở ra, làm lỏng ra
+
++ to get the lid off: mở bật một cái nắp ra
+- đi ngủ
+- tha (một bị cáo...)
+- trục (tàu đắm) lên
+
++ to get off with: làm thân được, chim được, ve vân được
+!to get on
+- lên, trèo lên
+
++ to get on a horse: lên ngựa
+- mặc (quần áo...) vào; đi (giày dép...) vào; đội (mũ...) vào
+- xúc tiến (một công việc...)
+- tiến bộ, tiến phát
+
++ to get on in life: thành công trong cuộc sống
+
++ to get on with one's studies: tiến bộ trong học tập
+- sống, làm ăn, xoay sở
+
++ how are you getting on?: dạo này anh làm ăn thế nào?
+
++ we can get on wothout his help: không có sự giúp đỡ của chúng tôi cũng vẫn xoay sở được
+- hoà thuận, ăn ý
+
++ they got on very well: chúng nó sống rất hoà thuận với nhau;
+
++ to get on with somebody: ăn ý với nhau
+
++ to get on with somebody: ăn ý với ai, sống hoà thuận với ai
+- gần đến, xấp xỉ
+
++ to be getting on for forty: xấp xỉ bốn mươi tuổi
+
++ it's getting on for dinner-time: gần đến giờ ăn rồi
+
++ to get on to: (từ Mỹ,nghĩa Mỹ) hiểu được
+!to get out
+- bắt ra, tống ra, đuổi ra; nhổ ra, kéo ra, lấy ra
+
++ to get money out of someone: bòn rút tiền bạc của ai
+- tẩy (vết bẩn...)
+- xuất bản (một cuốn sách...)
+- đọc, nói ra, phát âm (một từ...)
+- đi ra, ra ngoài
+
++ get out: cút đi!, ra ngay!, láo!, tầm bậy!
+
++ to get out of sight: đi mất hút không nhìn thấy đâu nữa
+- xuống (tàu, xe...)
+- thoát ra, lộ ra ngoài (tin tức, điều bí mật...)
+- thoát khỏi, dần dần bỏ, dần dần mất
+
++ to get out of a difficulty: thoát khỏi khó khăn
+
++ to get out of a habit: dần dần bỏ thói quen, dần dần mất đi thói quen
+
++ to get out of shape: trở thành méo mó, không còn ra hình thù gì
+
++ to get out of hand: thoát khỏi sự kiểm soát, không còn kiềm chế được nữa, trở nên loạn xạ (tình hình); làm dứt (việc gì)
+!to get over
+- làm xong (việc phiền phức)
+- vượt qua, khắc phục, khỏi
+
++ to get over difficulties: vượt qua mọi khó khăn, khắc phục mọi khó khăn
+
++ to get over a distance: vượt qua một quâng đường
+
++ to get over an illness: khỏi bệnh
+
++ to get over a surprise: hết ngạc nhiên
+- (từ lóng) dùng mưu lừa gạt (ai); phỉnh (ai)
+
++ to get over somebody: dùng mưu lừa gạt ai
+- bác bỏ (lý lẽ, chứng cớ...)
+!to get round
+- tán tỉnh, lừa phỉnh (ai), dùng mưu lừa gạt (ai, làm theo ý mình)
+- chuồn, lẩn tránh, không thi hành
+
++ to get round a question: lẩn tránh một câu hỏi
+
++ to get round the law: không thi hành luật
+- đi quanh
+- (từ Mỹ,nghĩa Mỹ) đến nơi
+- (từ Mỹ,nghĩa Mỹ) khỏi bệnh, bình phục
+!to get through
+- đi qua, chui qua, vượt qua; làm trôi qua (thời gian)
+- làm trọn, làm xong; chịu đựng đến cùng
+
++ to get through with a book: đọc hết một cuốn sách
+
++ to get through with one's work: làm trọn công việc, hoàn thành công việc
+- đem thông qua; được thông qua (đạo luật...)
+!to get to
+- bắt đầu
+
++ to get to work: bắt đầu làm việc, bắt tay vào việc
+- đạt đến, đi đến chỗ
+
++ they soon got to be friends: chẳng mấy lúc chúng đi đến chỗ thân nhau
+!to get together
+- nhóm lại, họp lại, tụ họp
+- thu góp, góp nhặt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) thảo luận, hội đàm; đồng ý nhau, đi đến chỗ thoả thuận
+!to get under
+- dập tắt (đám cháy...)
+- đè lên trên
+
++ to get one's opponent under: đè lên trên địch thủ
+- đi dưới, chui dưới (vật gì)
+!to get up
+- lôi lên, kéo lên, đưa lên, mang lên, đem lên
+- xây dựng nên, tổ chức, sắp đặt (một buổi lễ...); bày (mưu); chuẩn bị (bài giảng, bài thi...); bịa (một câu chuyện...)
+- trình bày, tô diểm, làm dáng cho (ai, cái gì...); tạo ra (một sự cảm động vờ...)
+- giặt sạch; là (quần áo)
+- tăng
+
++ to get up speed: tăng tốc độ
+- đứng dậy, ngủ dậy
+- leo lên, đi lên, bước lên
+- nổi dậy (gió...), dâng lên (nước biển...)
+!to get across (over) the footlights
+- (thông tục) đạt, được khán giả tiếp nhận dễ dàng (câu nói trong vở kịch...)
+!to get away with it
+- thành công, làm trôi chảy; thoát được sự trừng phạt
+!to get hold of
+- (xem) hold
+!to get home
+- trúng đích, đạt tới đích
+!to get it [hot]
+- bị chửi mắng
+!to get nowhere
+- không đi tới đâu, không đi tới kết quả gì
+!to get on like a house on fire
+- tiến nhanh lên phía trước; lan nhanh
+- tiến bộ vượt mức
+- rất hoà thuận; rất hợp ý tâm đầu
+!to get on one's legs (feet)
+- diễn thuyết, nói chuyện trước công chúng
+!to get on someone's nerves
+- (xem) nerve
+!to get one's hand in
+- làm quen với (việc gì...)
+!to get one's Indian up
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) phát cáu
+!to get one's own way
+- làm theo ý mình
+!to get one's shirt off (one's monkey up, one's rag out, one's Irish up)
+- phát cáu, nổi giận, mất bình tĩnh
+!to get out of bed on the wrong side
+- (xem) bed
+!to get somebody's back up
+- (xem) back
+!to get something on the brain
+- để cho cái gì làm ám ảnh tâm trí
+!to get the best of it
+- (xem) best
+!to get the better of
+- (xem) better
+!to get the gate
+- (xem) gate
+!to get the wind of someone
+- thắng ai; lợi thế hơn ai
+!to get the wind up
+- (xem) wind
+!to get under way
+- lên đường, khởi hành, nhổ neo; khởi công
+!to get wind (knowledge) of
+- nghe phong thanh (chuyện gì)
+!the news got wind
+- tin tức lan đi
+*  dt
+- con (của thú vật) (dùng trong chuyện săn bắn)
+
+ @getable
+- xem get
+ @get-at-able  
+*  tt
+- (thông tục) có thể đạt tới, có thể tới gần được
+
+@getaway  
+*  dt
+- (thông tục) sự chạy trốn, sự trốn thoát (kẻ trộm)
+
++ to make a getaway: chạy trốn, trốn thoát
+- sự mở máy chạy (ô tô)
+
+@gettable  
+*  tt
+- có thể mua được, có thể kiếm được, có thể lấy được
+
+@getter  
+*  dt
+- người mua được, người kiếm được, người lấy được, người được
+- (ngành mỏ) thợ mỏ, thợ gương lò
+- ngựa (đực) giống
+- (vật lý); (raddiô) chất thu khí
+
+@getting
+* dt
+- (ngành mỏ) sự khấu; sự khai thác
+- lợi ích; thu hoạch
+ @get-together  
+*  dt
+- cuộc gặp gỡ, cuộc gặp mặt, cuộc họp mặt
+
+@get-up  
+*  dt (từ Mỹ,nghĩa Mỹ)
+- óc sáng kiến, óc tháo vát
+- nghị lực; tính kiên quyết
+- kiểu (áo, in, đóng một cuốn sách...)
+
+@get-up-and-go
+* dt
+- sự năng nổ tháo vát, sự nhạy bén lanh lợi
+ @geum
+* dt
+- <thực> cây thủy dương mai
+ @gewgaw  
+*  dt
+- đồ lặt vặt loè loẹt, vô giá trị
+
+@gey  
+*  dt
+- (Ê-cốt) rất, lắm
+
+@geyser  
+*  dt
+- (địa lý,ddịa chất) mạch nước phun
+- thùng đun nước nóng (bằng điện, bằng hơi)
+
+@geyserite
+* dt
+- (khoáng chất) geyserit
+ @

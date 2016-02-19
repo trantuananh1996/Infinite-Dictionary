@@ -1,0 +1,5715 @@
+@po  
+*  dt,  số nhiều pos  @poach  
+*  ngdgt
+- bỏ vô chần nước sôi; chần nước sôi (trứng)
+*  ngdgt
+- (: into) thọc, đâm (gậy, ngón tay... vào cái gì)
+- giẫm nát (cỏ...); giẫm lầy (đất...) (ngựa...)
+- săn trộm, câu trộm
+
++ to poach hares: săn trộm thỏ rừng
+- xâm phạm (tài sản người khác)
+- (thể dục,thể thao) đánh (bóng quần vợt) lấn phần sân đồng đội
+- dở ngón ăn gian để đạt (thắng lợi trong cuộc đua...)
+*  ndgt
+- bị giẫm lầy (đất)
+- săn trộm, câu trộm (ở khu vực cấm...)
+- xâm phạm
+
++ to poach on a neighbour's land: xâm phạm đất đai của người bên cạnh
+- (thể dục,thể thao) đánh bóng lấn phần sân đồng đội (quần vợt)
+- dở ngón ăn gian (trong cuộc chạy đua...)
+
+@poachable
+- xem poach
+ @poachard  
+*  dt
+- (động vật học) vịt đầu nâu
+
+@poached egg  
+*  dt
+- trứng bỏ vô chần nước sôi; trứng chần nước sôi
+
+@poacher  
+*  dt
+- xoong chần trứng
+*  dt
+- người săn trộm, người câu trộm
+- người xâm phạm (quyền lợi của người khác)
+
+@poaching
+* dt
+- việc câu trộm, việc săn bắn trộm
+ @pob
+* dt(POB)
+- vt của Post Office Box (number)  (hòm thư bưu điện (số))
+ @pochette
+* dt
+- túi nhỏ cầm tay
+ @pock  
+*  dt
+- nốt đậu mùa
+
+@pocked
+* tt
+- lỗ chỗ (mặt, bề mặt )
+ @pocket  
+*  dt
+- túi (quần áo)
+- bao (75 kg)
+
++ a pocket of hops: một bao hoa bia
+- (nghĩa bóng) tiền, túi tiền
+
++ to suffer in one's pocket: tiêu pha nhiều, tiêu tốn tiền
+
++ to be 5d in pocket: có sẵn 5 đồng trong túi; lâi được năm đồng
+
++ to be 5 d out of pocket: hao mất 5 đồng
+
++ an empty pocket: người không một xu dính túi, người rỗng túi
+- túi hứng bi (cạnh bàn bi-a)
+- (ngành mỏ) túi quặng, túi khí độc
+- (hàng không) lỗ hổng không khí ((cũng) air pocket)
+- (quân sự) ổ chiến đấu
+
++ pockets of resistance: ổ đề kháng
+- (từ Mỹ,nghĩa Mỹ) ngõ cụt
+- (thể dục,thể thao) thế bị chèn, thế bị càn (của một vận động viên trong cuộc đua)
+!to burn a hole in one's pocket
+- tiêu hoang
+!to have empty pockets
+- hết tiền rỗng túi
+!to have someone in one's pocket
+- dắt mũi ai, khống chế ai
+!to line one's pocket
+- (nghĩa bóng) lo nhét đầy túi
+!to pay out of one's pocket
+- phải lấy tiền túi ra mà chi
+!to put one's pride in one's pocket
+- (xem) pride
+!to put one's hand in one's pocket
+- tiêu tiền
+*  ngdgt
+- bỏ vào túi
+- đút túi, xoáy, ăn cắp (cái gì)
+- (nghĩa bóng) cam chịu, nuốt
+
++ to pocket one's anger: nén giận, nuốt giận
+
++ to pocket one's pride: dẹo lòng tự ái
+- (thể dục,thể thao) thọc (hòn bi a) vào túi hứng bi
+- (thể dục,thể thao) chèn, cản (đối thủ trong cuộc đấu)
+
+@pocket
+- túi đựng bìa
+ @pocket battleship  
+*  dt
+- tàu chiến nh
+
+@pocket expenses  
+*  dt
+- các khoản tiêu vặt
+
+@pocket veto  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) sự phủ quyết ngầm (ỉm một dự luật không ký, cho đến khi hết nhiệm kỳ)
+
+@pocketable  
+*  tt
+- bỏ túi được
+
+@pocket-book  
+*  dt
+- sổ tay
+- (từ Mỹ,nghĩa Mỹ) ví
+
+@pocket-camera  
+*  dt
+- máy ảnh bỏ túi, máy ảnh nh
+
+@pocket-dictionary  
+*  dt
+- từ điển bỏ túi
+
+@pocket-flap  
+*  dt
+- nắp túi
+
+@pocketful  
+*  dt
+- túi (đầy)
+
++ a pocketful of sweetmeats: một túi kẹo
+
+@pocket-glass
+* dt
+- gương soi bỏ túi
+ @pocket-handkerchief  
+*  dt
+- khăn tay
+
+@pocket-hole
+* dt
+- (luyện kim) rỗ; lỗ hổng
+- miệng túi
+ @pocket-knife  
+*  dt
+- dao nhíp, da bỏ túi
+
+@pocketless
+- xem pocket
+ @pocket-money  
+*  dt
+- tiền tiêu vặt
+
+@pocket-piece  
+*  dt
+- đồng tiền cầu may (luôn luôn để ở trong túi)
+
+@pocket-pistol  
+*  dt
+- súng lục bỏ túi
+-(đùa cợt) chai rượu bỏ túi
+
+@pocket-size  
+*  tt
+- cỡ nhỏ bỏ túi được
+
+@pocket-veto
+- xem pocket veto
+ @pockety  
+*  tt
+- (ngành mỏ) có nhiều túi quặng
+- (hàng không) có nhiều lỗ hổng không khí
+
+@pockiness
+* dt
+- tình trạng có nhiều sẹo đậu mùa
+ @pock-mark  
+*  dt
+- sẹo đậu mùa, sẹo r
+
+@pock-marked   (pocky) @pocky   (pocky) @poco
+* tt
+- (âm nhạc) hơi
+
++  poco allegro:hơi nhanh
+ @pococurante  
+*  tt
+- thản nhiên, thờ ơ, hờ hững (người)
+*  dt
+- người thản nhiên, người thờ ơ, người hờ hững
+
+@pococuranteism   (pococuranteism) @pococurantism   (pococuranteism) @poculiform
+* tt
+- hình chén
+ @pod  
+*  dt
+- vỏ (quả đậu)
+- kén (tằm)
+- vỏ bọc trứng châu chấu
+- cái rọ (bắt lươn)
+*  ngdgt
+- bóc vỏ (quả đậu)
+*  ndgt
+- (thực vật học) có vỏ
+*  dt
+- tốp (cá voi, chó biển...)
+*  ngdgt
+- (chó biển...) thành tốp
+
+@pod-
+- hình thái ghép có nghĩa là chân; cuống
+- podagra
+- bệnh gút chân
+- podeon
+- cuống bụng (côn trùng)
+- hình thái ghép có nghĩa là chân; cuống
+- podagra
+- bệnh gút chân
+- podeon
+- cuống bụng (côn trùng)
+ @podagra  
+*  dt
+- (y học) bệnh gút chân
+
+@podagral   (podagric) @podagric   (podagric) @podagrous   (podagric) @podal
+* tt
+- thuộc chân
+ @podded  
+*  tt
+- có vỏ
+- (nghĩa bóng) giàu có, khá giả
+
+@poddy  
+*  dt
+- (Uc) con nghé mới đẻ, con bê mới đẻ, con nghé non, con bê non
+- con vật con
+- con vật nuôi chưa đóng dấu
+
+@poddy-dodger  
+*  dt
+- (Uc) người quây thú rừng và súc vật chưa đóng dấu (của người khác)
+
+@podeal
+* tt
+- thuộc cuống họng
+ @podeon
+* dt
+- cuống bụng (côn trùng)
+ @podex
+* dt
+- (động vật học) vùng hậu môn; vùng phao câu
+ @podge  
+*  dt
+- (thông tục) người béo lùn
+
+@podginess  
+*  dt
+- vóc người béo lùn
+
+@podgy  
+*  tt
+- béo lùn
+
+@podia  
+*  dt,  số nhiều podia  @podiatric
+- xem podiatry
+ @podiatrist
+* dt
+- người chuyên chữa bệnh chân
+ @podiatry
+* dt
+- thuật chữa bệnh chân
+ @podium  
+*  dt,  số nhiều podia  @podobranchiae
+* dt
+- số nhiều
+- (động vật học) chân - mang
+ @podocephalous
+* tt
+- (thực vật học) có cụm hoa dạng đầu trên cuống dài
+ @podoconus
+* dt
+- chân dạng nón
+ @podocyst
+* dt
+- khoang chân (thân mềm côn trùng)
+ @pododerm
+* dt
+- lớp bì móng guốc
+ @podogram
+* dt
+- dấu chân
+ @podogynium
+* dt
+- cuống nhụy
+ @podomere
+* dt
+- đốt chân (chân khớp)
+ @podophyllous
+* tt
+- (động vật học) có chân dạng lá
+ @podsol
+* dt
+- xem podzol
+ @podzol
+* dt
+- (địa chất) đất potzon
+ @podzolic
+* tt
+- thuộc podzol
+ @poem  
+*  dt
+- bài thơ
+- (nghĩa bóng) vật đẹp như bài thơ, cái nên thơ
+
++ the chalet is a poem in wood: ngôi nhà ván ấy là một kiến trúc bằng gỗ rất nên thơ
+
+@poesy  
+*  dt
+- (từ cổ,nghĩa cổ) thơ ca
+- thi pháp
+
+@poet  
+*  dt
+- nhà thơ, thi sĩ
+
+@poet laureate
+* dt
+- (Poet Laureate) thi sự được tuyển vào Hoàng gia Anh để làm thơ trong các dịp quan trọng
+ @poetaster  
+*  dt
+- nhà thơ xoàng
+
+@poetess  
+*  dt
+- nữ thi sĩ
+
+@poetic  
+*  tt ((cũng) poetical)
+- (thuộc) thơ, (thuộc) thơ ca; (thuộc) nhà thơ
+- hợp với thơ, hợp với nhà thơ
+- có chất thơ, đầy thi vị, nên thơ
+!poetic justice
+- sự khen thưởng cái tốt trừng phạt cái xấu
+!poetic licence
+- sự phóng túng về niêm luật (thơ)
+
+@poetic justice
+* dt
+- sự trừng phạt xứng đáng
+- sự khen thưởng xứng đáng
+ @poetic licence
+* dt
+- sự phòng túng về thi pháp (tự do thay đổi nghĩa, đảo các từ )
+ @poetical  
+*  tt
+- (như) poetic
+- viết bằng thơ
+
++ poetical works: những tác phẩm viết bằng thơ
+
+@poeticality
+- xem poetical
+ @poetically
+* dt
+- (thuộc) thơ; nên thơ, có chất thơ; (thuộc) nhà thơ
+ @poeticalness
+- xem poetical
+ @poeticise   (poeticize) @poeticism
+* dt
+- từ ngữ dùng trong thơ
+- chất thơ
+ @poeticize   (poeticize) @poetics  
+*  dt,  số nhiều dùng như số ít
+- thi pháp; luật thơ
+- thi học
+
+@poetise   (poetize) @poetize   (poetize) @poetizer
+- xem poetize
+ @poetry  
+*  dt
+- thơ; nghệ thuật thơ
+- chất thơ, thi vị
+
+@poet's corner  
+*  dt
+- góc thi nhân (chỗ dành cho mộ và đài kỷ niệm các thi sĩ)
+-(đùa cợt) trang thơ (trong báo chí)
+
+@pofaced
+* tt
+- trầm mặc lại (vẻ mặc trịnh trọng, chê bai)
+ @poge
+* dt
+- cây cà khêu
+ @pogo stick
+* dt
+- cây cà khêu
+ @pogonology
+* dt
+- sự nghiên cứu về râu
+ @pogonophoran
+* dt
+- (động vật học) động vật mang râu
+* tt
+- (động vật học) thuộc động vật mang râu
+ @pogrom  
+*  dt
+- (sử học) cuộc tàn sát người Do thái (dưới thời Nga hoàng)
+- cuộc tàn sát (lực lượng thiểu số)
+
+@pogromist
+* dt
+- người tham gia pogrom
+ @poignance
+- xem poignant
+ @poignancy  
+*  dt
+- vị cay
+- tính chua cay (lời châm chọc)
+- tính buốt nhói (đau), sự cồn cào (cơn đói)
+- tính sâu sắc; sự thấm thía (mối ân hận...)
+- tính cảm động; nỗi thương tâm
+
+@poignant  
+*  tt
+- cay
+- chua cay
+
++ poignant sarcasm: lời châm chọc chua cay
+- buốt nhói (đau); cồn cào
+
++ poignant hunger: cơn đói cồn cào
+- sâu sắc, thấm thía
+
++ poignant regret: mối ân hận sâu sắc
+- làm cảm động, làm mủi lòng, thương tâm
+
+@poignantly
+* dt
+- cay (vị)
+- sầu thảm, đắng cay, đau xót; sâu sắc, thấm thía
+- buốt nhói (đau); cồn cào (đói)
+- làm mũi lòng, làm thương tâm
+ @poikilocyte
+* dt
+- (y học) hồng cầu biến dạng
+ @poikilotherm
+* dt
+- (động vật học) động vật biến nhiệt
+ @poikilothermic
+* tt
+- biến nhiệt
+ @poikilothermism
+* dt
+- (động vật học) sự biến nhiệt
+ @poilu
+* dt
+- binh sĩ râu tóc dài (chỉ lính Pháp trong chiến tranh thế giới thứ I)
+ @poimted
+- nhọn
+ @poinciana
+* dt
+- (thực vật học) cây phượng
+
++  flower fence poinciana:cây kim phượng
+ @poind
+* ngdgt
+- sử dụng áp lực pháp luật để chiếm đoạt tài sản
+ @poinsettia
+* dt
+- cây trạng nguyên
+ @point  
+*  dt
+- mũi nhọn (giùi...) mũi kim, đầu ngòi bút; nhánh gạc (hươu nai); cánh (sao)
+- dụng cụ có mũi nhọn, kim khắc, kim trổ
+- (địa lý,địa chất) mũi đất
+- (quân sự) đội mũi nhọn
+- mỏm nhọn
+
++ the point of the jaw; the point: (quyền Anh) mỏm cắm, chốt cắm (chỗ đánh dễ bị đo ván)
+- đăng ten ren bằng kim ((cũng) point lace)
+- (số nhiều) chân ngựa
+
++ a bay with black points: ngựa hồng chân đen
+- chấm, dấu chấm, điểm
+
++ full point: dấu chấm
+
++ decimal point: dấu thập phân
+- (vật lý),  (toán học) diểm
+
++ point contact: điểm tiếp xúc, tiếp điểm
+
++ point of intersection: giao điểm
+- (thể dục,thể thao) điểm
+
++ to score points: ghi điểm
+
++ to give points to somebody: chấp điểm ai; (nghĩa bóng) giỏi hơn ai, cừ hơn ai
+
++ to win on points: thắng điểm
+- điểm, vấn đề, mặt
+
++ at all points: về mọi điểm, về mọi mặt
+
++ to differ on many points: không đồng ý nhau về nhiều điểm
+
++ a point of honour: điểm danh dự, vấn đề danh dự
+
++ a point of conscience: vấn đề lương tâm
+
++ point of view: quan điểm
+
++ to make a point of: coi thành vấn đề, coi là cần thiết
+
++ to make a point: nêu rõ một điểm, nêu rõ vấn đề
+
++ to the point: đúng vào vấn đề
+
++ he carried his point: điều anh ta đưa ra đã được chấp nhận
+
++ to come to the point: đi vào vấn đề, đi vào việc
+
++ to be off the point: lạc đề
+
++ in point of fact: thực tế là
+- điểm, địa điểm, chỗ, hướng, phương
+
++ point of departure: địa điểm khởi hành
+
++ rallying point: địa điểm tập trung
+
++ cardinal points: bốn phương trời
+
++ the 32 points of the compass: 32 hướng trên la bàn
+- lúc
+
++ at the point death: lúc hấp hối
+
++ on the point of doing something: vào lúc bắt tay vào việc gì
+- nét nổi bật, điểm trọng tâm, điểm cốt yếu, điểm lý thú (câu chuyện, câu nói đùa...)
+
++ I don't see the point: tôi không thấy điểm lý thú ở chỗ nào
+- sự sâu sắc, sự chua cay, sự cay độc, sự châm chọc
+
++ his remarks lack point: những nhận xét của anh ta thiếu sâu sắc
+- (ngành in) Poang (đơn vị đo cỡ chữ bằng 0, 0138 insơ)
+- (hàng hải) quăng dây buộc mép buồm
+- (ngành đường sắt) ghi
+- (săn bắn) sự đứng sững vểnh mõm làm hiệu chỉ thú săn (chó săn)
+
++ to make a point; to come to a point: đứng sững vểnh mõm làm hiệu chỉ thú săn (chó săn)
+!not to put too fine a point upon it
+- chẳng cần phải nói khéo; nói thẳng, nói toạt móng heo
+*  ngdgt
+- vót nhọn (bút chì...)
+- gắn đầu nhọn vào
+- làm cho sâu sắc, làm cho chua cay, làm cho cay độc
+
++ to point a remark: làm cho lời nhận xét sâu sắc (chua cay)
+- ((thường) : at) chỉ, trỏ, nhắm, chĩa
+
++ to point a gun at: chĩa súng vào
+- chấm (câu...); đánh dấu chấm (bài thánh ca cho dễ hát)
+- trét vữa (kẽ gạch, đá xây)
+- đứng sững vểnh mõm chỉ (thú săn) (chó săn)
+*  ndgt
+- (: at) chỉ, trỏ ((nghĩa đen) & (nghĩa bóng)) nhằm
+
++ to be pointed at: (nghĩa bóng) bị thiên hạ chỉ trỏ, bị thiên hạ để ý
+- (: to,  towards) hướng về
+
++ to point to the north: hướng về phía bắc
+- (: to) hướng sự chú ý vào, lưu ý vào; chỉ ra, chỉ cho thấy, vạch ra
+
++ I want to point to these facts: tôi muốn các bạn lưu ý vào những sự việc này
+- đứng sững vểnh mõm chỉ chú săn (chó săn)
+!to point in
+- vùi (phân) bàng đầu mũi thuổng
+!to point off
+- tách (số lẻ) bằng dấu phẩy
+!to point over
+- xới (đất) bằng đầu mũi thuổng
+!to point out
+- chỉ ra, vạch ra
+
+@point
+- điểm; vị trí at a p. (tại) một điểm; p. at infinity điểm ở vô tận 
+- p. of accumulation điểm tụ, điểm giới hạn
+- p. of application điểm đặt, điểm tác dụng (của lực)
+- p. of condensation điểm đọng
+- p. of contact tiếp điểm
+- p. of contrary fleure điểm uốn
+- p. of convergence điểm hội tụ 
+- p. of divergence điểm phân kỳ
+- p. of discontinity điểm gián đoạn
+- p. of emanation (tô pô) điểm phát xạ
+- p. of hyperosculation điểm siêu mật tiếp
+- p. of increase (thống kê) điểm tăng
+- p. of inflection điểm uốn
+- p. of junction điểm uốn
+- p. of load điểm tải trọng
+- p. of osculation điểm tụ tiếp xúc, điểm mật tiếp (của đường cong)
+- p. of sight điểm nhìn
+- p. of silence điểm tăng
+- p. of striction điểm thắt
+- p. of tangency tiếp điểm
+- accessible p. điểm đạt được
+- accessible boundary p. điểm biên đạt được
+- accidental base p. (đại số) điểm cơ sở ngẫu nhiên
+- accidental double p. điểm kép ngẫu nhiên
+- accumulation p. điểm tụ
+- adherence p. điểm dính
+- algebraic branch p. điểm rẽ nhánh đại số
+- ambiguous p. điểm không xác định
+- angular p. điểm góc, dính
+- antipodal p. (hình học) điểm xuyên tâm đối
+- asymptotic p. điểm tiệm cận
+- base p. điểm cơ sở
+- bending p. điểm uốn
+- bisecting p. of a segment trung điểm của một đoạn thẳng
+- boiling p. điểm sôi
+- boundary p. điểm biên
+- branch p. điểm rẽ nhánh
+- break p. (máy tính) điểm dừng (máy)
+- central p. điểm trung tâm (điểm yết hầu của mặt kẻ)
+- circular p. điểm xiclic
+- cluster p. điểm ngưng tụ
+- collinear p.s các điểm cộng tuyến, các điểm thẳng hàng
+- complex p. điểm phức
+- concyclic p.s các điểm cùng nằm trên một đường tròn
+- conical p. điểm đỉnh nón
+- conjugate p.s điểm liên tiếp
+- critical p. điểm tới hạn
+- cross p. giao điểm, điểm tới hạn, điểm dừng (của hàm giải tích)
+- cuspidal p. điểm lùi
+- cut p. điểm cắt
+- cyclic p. điểm xilic
+- deal p. điểm chết
+- decimal p. dấu phẩy ở số thập phân
+- dividing p. điểm chia
+- east p. (thiên văn) điểm phương đông
+- elliptic(al) p. điểm eliptic
+- end p. (tô pô) điểm uốn
+- entry p. điểm chuyển
+- equianharmonic p.s điểm đẳng phi điều
+- equilibrium p. điểm cân bằng
+- exteroir p. điểm ngoài
+- extreme p. điểm ở đầu, điểm cực trị
+- finishing p. (hình học) điểm cuối
+- finite p. (giải tích) điểm hữu hạn
+- fixed p. điểm bất động, điểm cố định
+- fixed end p. điểm cố định cuối
+- flash p. điểm bốc cháy, nhiệt độ chớp sáng
+- plex p. điểm uốn
+- floading p. dấu phẩy di động
+- focal p. tiêu điểm
+- fourth harmonic p. điểm điều hoà thứ tư
+- freezing p. điểm đông đặc
+- frontier p. điểm biên giới
+- genceric p. hh(đại số) điểm sinh (một mặt)
+- hyperbolic p. điểm hypebolic 
+- ideal p. điểm lý tưởng
+- image p. điểm ảnh
+- imaginary p. điểm ảo
+- improper p. điểm phi chính
+- infinite p. điểm vô hạn
+- initial p. khởi điểm, điểm ban đầu
+- inner p., interior p. điểm trong
+- intersection p. (hình học) giao điểm
+- inverse p. điểm nghịch đảo
+- irregular singular p. (giải tích) điểm kỳ dị bất thường
+- isolated p. điểm cô lập
+- isolated multiple p. điểm bội cô lập
+- isolated singular p. điểm dị cô lập
+- isotropic p. điểm đẳng hướng
+- labile p. (tô pô) điểm không ổn định
+- lattice p. điểm mạng, điểm nút (lưới)
+- limit p. (tô pô) điểm không ổn định
+- lattice p. điểm mạng, điểm nút (lưới)
+- limit p. (tô pô) điểm giới hạn, điểm tụ
+- limiting p. (giải tích) điểm biên, điểm giới hạn
+- lower extreme p. điểm mút dưới
+- mass p. (cơ học) chất điểm
+- measuring p. (máy tính) điểm đo
+- median p. of a triangle trọng tâm của một tam giác
+- melting p. điểm nóng chảy
+- mesh p. điểm lưới, mút lưới
+- middle p. of a triangle trọng tâm của một tam giác
+- multiple p. điểm bội
+- nodal p. điểm nút
+- non-collinear p. điểm không thẳng hàng
+- north p. (thiên văn) điểm phía bắc
+- operating p. (điều khiển học) điểm làm việc
+- ordinary p. điểm thường
+- parabolic(al) p. điểm parabolic
+- parameter p. giá trị (cố định) của tham số 
+- percentage p.s các điểm phần trăm
+- period p. điểm chu kỳ 
+- proper spiral p. điểm xoắn ốc chân chính
+- radix p. dấy phẩy ở số thập phân
+- ramification p. (giải tích) điểm rẽ nhánh
+- real p. điểm thực
+- reducible p. điểm khả quy
+- reference p. (máy tính) điểm kiểm tra, điểm [quy chiếu, đối chiếu]
+- regular p. điểm thường, điểm chính quy
+- regular singular p. điểm kỳ dị chính quy
+- representative p. (điều khiển học) điểm biểu diễn
+- saddle p. điểm yên ngựa
+- salient p. điểm lồi
+- sample p. (thống kê) điểm mẫu
+- satellite p. điểm vệ tinh
+- saturation p. điểm bão hoà
+- secondary focal p. tiêu điểm thứ cấp
+- separating p. điểm tách
+- simple p. điểm đơn
+- singular p. điểm kỳ dị
+- south p. (thiên văn) điểm phía nam
+- spiral p. điểm xoắn ốc
+- stable p. (tô pô) điểm ổn định
+- stagnation p. điểm đình trệ (của dòng)
+- starting p. điểm xuất phát
+- stationary p. điểm dừng, điểm nghỉ
+- tracing p. điểm viết
+- triple p. (hình học) điểm bội ba
+- turning p. điểm chuyển hướng
+- umbilical p. điểm rốn
+- unit p. điểm đơn vị
+- vanishing p. điểm biến mất
+- west p. (thiên văn) điểm phía tây
+- yield p. điểm lưu, điểm khởi lưu, điểm khởi thuỷ dòng chảy (điểm tới hạn)
+- zero p. không điểm 
+ @point d'appui  
+*  dt
+- (quân sự) điểm tựa
+
+@Point elasticity of demand
+- (Econ) Dự co giãn điểm của cầu.
+: Xem PRICE ELASTICITY OF DEMAND.
+ @Point estimation
+- (Econ) Ước lượng điểm.
+: Sự ước lượng của giá trị thực tế của một thông số, khác biệt với ƯỚC LƯỢNG KHOẢNG CÁCH, nó bao gồm việc tính toán các khoảng tin cậy (thông thường) đối với giá trị thực của thông số.
+ @Point of inflexion
+- (Econ) Điểm uốn.
+: Một điển trên đồ thị, hoặc hàm số mà tỷ lệ thay đổi của độ dốc của hàm số đổi dấu. Điều này cho thấy rằng khi đạo hàm thứ hai của hàm số bằng 0.
+ @Point utility possibility curve
+- (Econ) Đường khả năng thoả dụng điểm.
+: Một đường khả năng thoả dụng điểm có thể được vẽ cho mỗi giỏ hàng hoá.
+ @Point voting
+- (Econ) Bỏ phiếu theo điểm.
+: Một hệ thống lựa chọn tập thể trong đó mỗi cá nhân bắt đầu với một số điểm bằng nhau mà cá nhân được tự do phân phối theo bất cứ cách thức nào mà họ chọn giữa các phương án lựa chọn về những vấn đề khác nhau đã thảo luận.
+ @pointal
+* dt
+- (kiến trúc) trụ giữa
+ @point-blank  
+*  tt
+- bắn thẳng (phát súng)
+
++ point-blank distance: khoảng cách có thể bắn thẳng
+*  dt
+- nhắm thẳng, bắn thẳng (bắn súng)
+- (nghĩa bóng) thẳng, thẳng thừng (nói, từ chối)
+
++ I told him point-blank it would not do: tôi bảo thẳng hắn cái đó không ổn
+
++ to refuse point-blank: từ chối thẳng
+
+@point-device  
+*  tt & dt
+- (từ cổ,nghĩa cổ) hết sức rõ ràng, hết sức chính xác, hoàn toàn đúng
+
+@point-duty  
+*  dt
+- phiên trực
+- nhiệm vụ chỉ đường, nhiệm vụ điều khiển giao thông (của công an)
+
+@pointed  
+*  tt
+- nhọn, có đầu nhọn
+- (nghĩa bóng) châm chọc, chua cay (lời nhận xét)
+- được nhấn mạnh; được làm nổi bật; được làm rõ ràng, được làm hiển nhiên
+
+@pointedly
+* dt
+- nhọn, có đầu nhọn
+- <bóng> mỉa mai, châm chọc, chựa thẳng vào (ai)
+- được nhấn mạnh
+- sâu sắc (về trí tuệ)
+ @pointedness
+- xem pointed
+ @pointel
+* dt
+- (thực vật học) nhụy cái
+- bút nhọn (viết trên cát)
+ @pointer  
+*  dt
+- kín (trên mặt cân, trên đồng hồ đo)
+- que (chỉ bản đồ, bảng...)
+- (thông tục) lời gợi ý, lời mách nước
+- chó săn chỉ điểm (khi thấy thú săn thì đứng sững lại vểnh mõm ra hiệu)
+- (thiên văn học) sao chỉ (cặp sao trong nhóm Đại hùng, nối nhau thì chỉ về sao Bắc đẩu)
+
+@pointillism
+* dt
+- kỹ thuật vẽ tranh (phát triển ở Pháp vào cuối (thế kỷ) 19; vẽ bằng những chấm li ti thấy như một sự pha trộn màu)
+ @pointillist
+* dt
+- người vẽ theo kỹ thuật phát triển ở Pháp vào cuối thế kỷ 19 (vẽ bằng những chấm li ti như một sự pha trộn màu)
+ @pointing  
+*  dt
+- sự chỉ, sự trỏ
+- sự đánh dấu chấm, sự chấm (câu...)
+- sự trét vữa vào kẽ gạch
+
+@pointless  
+*  tt
+- cùn, không nhọn
+- không ý vị, vô nghĩa, lạc lõng (câu chuyện)
+- không được điểm nào
+
+@pointlessly
+- xem pointless
+ @pointlessness
+* dt
+- sự cùn; tính chất không nhọn
+- sự vô nghĩa; sự vô dụng; vô mục đích
+ @pointsman  
+*  dt
+- (ngành đường sắt) người bẻ ghi
+- công an chỉ đường
+
+@point-to-point
+* dt
+- cuộc đua ngựa việt dã từ điểm này đến điểm khác
+ @point-to-pointer
+* dt
+- người cưỡi ngựa đua vượt rào
+ @pointwise
+- theo từng điểm
+ @poise  
+*  dt
+- thế thăng bằng, thế cân bằng
+- dáng, tư thế (đầu...)
+- tư thế đĩnh đạc, tư thế đàng hoàng
+- tính đĩnh đạc
+!to hang at poise
+- chưa quyết định, chưa ngã ngũ
+*  ngdgt
+- làm thăng bằng, làm cân bằng
+- để lơ lửng, treo lơ lửng
+- để (đầu... ở một tư thế nào đó); để (cái gì...) ở tư thế sẵn sàng
+*  ndgt
+- thăng bằng, cân bằng
+- lơ lửng
+
+@poised
+* tt
+- (:in, on, above) ở trạng thái thăng bằng, yên tựnh
+- (:in, on, above) ở tư thế sẵn sàng
+- điềm đạm; tự chủ một cách bình tựnh, rất đựnh đạc (người)
+ @poised
+- (giải tích) được làm cân bằng
+ @poison  
+*  dt
+- chất độc, thuốc độc
+
++ slow poison: chất dùng nhiều có hại
+- (nghĩa bóng) thuyết độc hại, thuyết đầu độc
+!to hate each other like poison
+- ghét nhau như đào đất đổ đi
+!what's your poison?
+- (thông tục) anh uống cái gì nào?
+*  ngdgt
+- bỏ thuốc độc, tẩm thuốc độc
+- làm hư bằng chất độc hại
+- (nghĩa bóng) đầu độc, làm hư hỏng; phá, phá hoại (niềm vui, hạnh phúc của ai...)
+
+@poison gas  
+*  dt
+- hơi độc, khí độc
+
+@poison ivy  
+*  dt
+- (thực vật học) cây sơn độc
+
+@poison pen  
+*  dt
+- người viết thư nặc danh (gửi cho một người nào)
+
+@poisoned
+* tt
+- bị nhiễm trùng (do vết cắt, chỗ xước ), bị nhiễm độc (do chất độc)
+- tẩm thuốc độc, có đắp thuộc độc vào
+ @poisoner  
+*  dt
+- kẻ đầu độc
+
+@poisoning  
+*  dt
+- sự đầu độc
+
+@poisonous  
+*  dt
+- độc, có chất độc
+
+@poisonously
+* dt
+- độc, có chất độc, có nọc độc; gây bệnh, gây chết (do chất độc)
+- độc hại, có hại (về tinh thần, đạo đức); đầy thù hằn, hiểm độc
+ @poisonousness
+- xem poisonous
+ @poison-pen letter
+* dt
+- bức thư nặc danh (đe doạ, làm nhục người nhận)
+ @poke  
+*  dt
+- túi
+!to buy a pig in a poke
+- (xem) pig
+*  dt
+- cú chọc, cú thúc, cú đẩy
+- cái gông (buộc vào trâu bò... để ngăn không cho chạy qua hàng rào)
+- vành mũ (đàn bà)
+*  ngdgt
+- chọc, thúc, thích, ấn, ẩy (bằng ngón tay, đầu gậy)
+
++ to poke someone in the ribs: thúc vào sườn ai
+
++ to poke something in: ấn vào cái gì
+
++ to poke something down: chọc cái gì xuống
+- chọc, thủng (lỗ...)
+- cời, gạt (lửa...)
+- xen vào, chõ vào
+
++ to poke one's nose into other people's affairs: chõ mũi vào việc của người khác
+- thò ra
+
++ to poke one's head: thò đầu ra
+*  ndgt
+- (: at) chọc, thúc, thích, ấn, ẩy
+
++ to poke at someone with a stick: lấy gậy thúc ai
+- (: about) lục lọi, mò mẫm
+
++ to go poking about: đi mò mẫm
+- (: into) điều tra, tìm tòi, xoi mói; (nghĩa bóng) chõ mũi vào, chõ mõm vào, dính vào, xen vào (việc người khác)
+- (từ lóng) thụi, đấm, quai
+!to poke fun at somebody
+- chế giễu ai
+!to poke and pry
+- xoi mói, tìm tòi, chõ mũi vào, chõ mõm vào, dính vào, xen vào (việc người khác)
+!to poke oneself up
+- tự giam mình trong một căn phòng nhỏ hẹp tối tăm
+
+@poke-berry
+* dt
+- (thực vật học) quả cây thương lục
+ @poke-bonnet  
+*  dt
+- mũ có vành (đàn bà)
+
+@poker  
+*  dt
+- (đánh bài) Pôke, bài xì
+*  dt
+- que cời
+- giùi khắc nung
+!as stiff as a poker
+- cứng như khúc gỗ, thẳng đuồn đuỗn
+!by the holy poker!
+- có quỷ thần chứng giám!
+*  ngdgt
+- khắc nung (dấu vào gỗ)
+
+@poker-face  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) mặt lạnh như tiền, mặt phớt tỉnh (như của anh chàng đánh pôke đang tháu cáy)
+
+@poker-faced  
+*  tt
+- có bộ mặt lạnh như tiền, có bộ mặt phớt tỉnh (như của anh chàng đánh pôke đang tháu cáy)
+
+@poker-work  
+*  dt
+- sự khắc nung (trên gỗ)
+
+@pokeweed  
+*  dt
+- (thực vật học) cây thương lục M
+
+@pokey
+* dt
+- (Mỹ,  (từ lóng)) nhà tù
+ @pokie
+* dt
+- (Australia) tên cướp có võ trang
+ @pokily
+- xem poky
+ @pokiness
+* dt
+- sự chật chội, nhỏ hẹp; tình trạng nhỏ hẹp, chật chội (nhà )
+- tính nhỏ mọn, tầm thường (của công việc)
+ @poking
+* tt
+- du đãng
+- vất vả
+- ty tiện; nịnh hót
+ @poky  
+*  tt
+- nhỏ hẹp, tồi tàn, chật chội (chỗ ở, gian buồng)
+- nhỏ mọn, tầm thường (công việc làm)
+
+@polacca   (polacre) @polack
+* dt
+- (khinh bỉ) người Ba lan
+ @polacre   (polacre) @polander
+* dt
+- người Ba lan
+ @polar  
+*  tt
+- (thuộc) địa cực, ở địa cực
+- (điện học) có cực
+- (toán học) cực
+
++ polar angle: góc cực
+- (nghĩa bóng) hoàn toàn đối nhau, hoàn toàn trái ngược nhau
+*  dt
+- (toán học) đường cực, diện cực
+
+@polar
+- cực; cực tuyến; cực diện
+- cubic p. đường đối cực của cubic
+- shock p. cực tuyến va chạm 
+ @polar bear  
+*  dt
+- gấu trắng
+
+@polar beaver  
+*  dt
+- (động vật học) người râu trắng
+
+@polar circle  
+*  dt
+- vòng cực
+
+@polar lights  
+*  dt
+- ánh Bắc cực
+
+@polarimeter  
+*  dt
+- cái đo phân cực
+
+@polarimetric
+- xem polarimeter
+ @polarimetry
+- xem polarimeter
+ @polaris
+* dt
+- (thiên văn học) sao bắc cực
+ @polarisable
+* tt
+- có thể phân cực
+ @polarisation
+* dt
+- <lý> sự phân cực, độ phân cực; trạng thái bị phân cực
+- hành động phân biệt (người, vật)
+ @polariscope  
+*  dt
+- máy nghiệm phân cực
+
+@polarise   (polarise) @polariser
+* dt
+- <lý> cái phân cực, kính phân cực
+ @polarity  
+*  dt
+- (vật lý) tính có cực; chiều phân cực
+- tính hoàn toàn đối nhau, tính hoàn toàn trái ngược nhau
+- (nghĩa bóng) sự bị thu hút, sự bị ảnh hưởng
+
+@polarity
+- đối cực
+- đs; (vật lí) cực tính
+- (hình học) cực tương ứng cực, sự tương quan cực 
+ @polarizability
+* dt
+- tình trạng có thể phân cực
+ @polarizable  
+*  tt
+- có thể phân cực
+
+@polarization  
+*  dt
+- sự phân cực, độ phân cực
+
++ magnetic polarization: sự phân cực từ
+
++ nuclear polarization: sự phân cực hạt nhân
+
+@polarization
+- sự phân cực
+ @polarize   (polarise) @polarize
+- phân cực
+ @polarized
+* tt
+- bị phân cực
+ @polarizer  
+*  dt
+- (vật lý) cái phân cực, kính phân cực
+
+@polaroid
+* dt
+- lớp kính chống nắng
+- <snh> kính râm (được xử lý bằng màng phân cực)
+ @polaroid camera
+* dt
+- máy ảnh chụp lấy ảnh ngay
+ @polatouche  
+*  dt
+- (động vật học) sóc bay
+
+@polder  
+*  dt
+- đất lấn biển (ở Hà lan)
+
+@pole  
+*  dt
+- cực
+
++ north pole: bắc cực
+
++ south pole: nam cực
+
++ magmetic pole: cực từ
+
++ negative pole: cực âm
+
++ positive pole: cực dương
+- (nghĩa bóng) cực (một trong hai nguyên tắc hoàn toàn đối lập nhau)
+- điểm cực (điểm tập trung sự chú ý...)
+!to be poles asunder
+!to be as wide as the poles apart
+- hoàn toàn đối lập nhau, hoàn toàn trái ngược nhau
+*  dt
+- cái sào
+- sào (đơn vị đo chiều dài bằng 5 009 mét)
+- cột (để chăng lều...)
+- cọc, gọng (để phía trước xe, để buộc dây nối với ách ngựa)
+!under bare poles
+- (hàng hải) không giương buồm
+- xơ xác dạc dài
+!up the pole
+- (từ lóng) lâm vào thế bí, lâm vào cảnh bế tắc
+- say
+*  ngdgt
+- đẩy bằng sào
+- cắm cột, chống bằng cột
+*  dt
+- Pole người Ba lan
+
+@pole
+- cực, cực điểm p. at infinity cực ở vô tận 
+- p. of an analytic function (giải tích) cực điểm của một hàm giải tích
+- p. of a cirele cực của một vòng tròn
+- p. and polar of a conic cực và cực tuyến của thiết diện cônic
+- p. of integral cực của một tích phân
+- p. of a line cực của một đường thẳng
+- p. of order n. cực cấp n
+- p. of a plane cực của một mặt phẳng
+- celestial p. cực trái đất
+- complex p. cực điểm phức
+- multi-order p. cực bội
+- multiple order p. cực bội
+- simple p. (giải tích) cực điểm đơn 
+ @pole-ax   (pole-axe) @pole-axe
+* dt
+- búa đồ tể, búa tạ, rìu giết thịt (ở lò mổ)
+- <sử> rìu chiến (trong chiến tranh)
+* ngdgt
+- đánh bằng búa tạ, giết bằng rìu
+- làm cho (ai) dồn dập, ngạc nhiên, ngập trong đau khổ; rụng rời
+ @pole-capsule
+* dt
+- (sinh vật học) bao cực
+ @polecat  
+*  dt
+- chồn putoa, chồn nâu (ở châu Âu)
+
+@pole-cell
+* dt
+- (sinh vật học) tế bào cực
+ @pole-changer
+* dt
+- (điện học) cái để chuyển cực
+ @pole-jump   (pole-vault) @pole-jumper
+* dt
+- <thể> vận động viên nhảy sào
+ @pole-jumping   (pole-vaulting) @polemic  
+*  dt
+- cuộc luận chiến, cuộc bút chiến
+- (số nhiều) sự luận chiến, sự bút chiến; thuật luận chiến, thuật bút chiến
+- nhà luận chiến, nhà bút chiến
+*  tt: (polemical) @polemical  
+*  dt
+- cuộc luận chiến, cuộc bút chiến
+- (số nhiều) sự luận chiến, sự bút chiến; thuật luận chiến, thuật bút chiến
+- nhà luận chiến, nhà bút chiến
+*  tt: (polemical) @polemically
+* dt
+- (thuộc) thuật luận chiến
+- có tính chất luận chiến, có tính chất bút chiến; khiêu khích
+ @polemics
+* dt
+- số ít
+- cách bút chiến
+- cách tranh luận về tôn giáo
+ @polemist  
+*  dt
+- nhà luận chiến, nhà bút chiến
+
+@polemize  
+*  ndgt
+- luận chiến, bút chiến
+
+@polemoniaceae
+* dt
+- số nhiều
+- (thực vật học) họ hoa lốc
+ @polemoniacecous
+* tt
+- thuộc học hoa lốc
+ @polenta  
+*  dt
+- cháo Y (cháo bột ngô, lúa mạch, bột hạt dẻ...)
+
+@pole-star  
+*  dt
+- sao Bắc đẩu
+- (nghĩa bóng) nguyên tắc chỉ đạo; điều hướng dẫn, vật hướng dẫn
+
+@pole-vault   (pole-vault) @pole-vaulter
+* dt
+- <thể> vận động viên nhảy sào
+ @pole-vaulting   (pole-vaulting) @poleward
+* dt
+- hướng về cực; hướng về địa cực
+ @polhode
+- (cơ học) đường tâm quay (trên mặt phẳng động) pôlodi
+ @polibureau   (Poliburo) @poliburo   (Poliburo) @police  
+*  dt
+- cảnh sát, công an (lực lượng, tổ chức...)
+- (dùng như số nhiều) những người cảnh sát, những người công an
+*  ngdgt
+- khống chế (kiểm soát) (một vùng...) bằng lực lượng cảnh sát (công an)
+- (nghĩa bóng) giữ trật tự
+- cung cấp lực lượng cảnh sát (công an) cho, bố trí lực lượng cảnh sát (công an) cho (một nơi nào)
+
+@police constable
+* dt
+- <vt>  PC (cảnh sát, công an)
+ @police dog
+* dt
+- chó của cảnh sát
+ @police force
+* dt
+- lực lượng cảnh sát
+ @police state
+* dt
+- chế độ dùi cui (chế độ chuyên chế do cảnh sát <chtrị> kiểm soát)
+ @police station
+* dt
+- đồn cảnh sát, đồn công an (ở địa phương)
+ @police woman
+* dt
+- <vt>  PW (nữ cảnh sát)
+ @police-court  
+*  dt
+- toà án vi cảnh
+
+@police-magistrate  
+*  dt
+- chánh án toàn án vi cảnh
+
+@policeman   (policer-officer) @police-office  
+*  dt
+- sở cảnh sát, sở công an
+
+@police-officer
+* dt
+- cảnh sát, công an
+ @policer-officer   (policer-officer) @police-station  
+*  dt
+- đồn cảnh sát, đồn công an
+
+@policewoman
+* dt
+- số nhiều là policewomen, viết tắt là PW
+- nữ nhân viên trong lực lượng cảnh sát; nữ cảnh sát
+ @policlinic  
+*  dt
+- bệnh xá; bệnh viện ngoại tr
+
+@policy  
+*  dt
+- chính sách (của chính phủ, đảng...)
+
++ foreign policy: chính sách đối ngoại
+- cách xử sự, cách giải quyết (vấn đề...) đường lối hành động
+
++ it is the best policy: đó là đường lối tốt nhất, đó là cách xử sự tốt nhất
+- sự khôn ngoan, sự khôn khéo, sự tin tưởng, sự sáng suốt, sự sắc bén (về chính trị, về sự chỉ đạo công việc)
+- (Ê-cốt) vườn rộng (quanh lâu đài)
+*  dt
+- hợp đồng, khế ước
+
++ insurance policy; policy of insurance (assurance): hợp đồng bảo hiểm
+
+@policy
+- chính sách, chế độ
+- insurance p. chế độ bảo hiểm
+- investment p. chính sách đầu tư vốn
+- ordering p. chính sách thu mua 
+ @Policy - off
+- (Econ) Thời kỳ không áp dụng chính sách.
+: Thời kỳ có sự thương lượng tập thể tự do. Ở thời kỳ này không có sự tồn tại chính sách thu nhập.
+ @Policy coordination
+- (Econ) Điều phối chính sách.
+ @Policy instruments
+- (Econ) Các công cụ chính sách.
+: Các biến số kinh tế và xã hội được chính phủ vận dụng để tác động đến các biến số của chính sách, nó được gọi là công cụ và ta có thể phân biệt bốn hạng mục kinh tế chủ yếu: CHÍNH SÁCH TÀI CHÍNH; CHÍNH SÁCH TIỀN TỆ, CHÍNH SÁCH TỶ GIÁ HỐI ĐOÁI và CHÍNH SÁCH GIÁ CẢ VÀ THU NHẬP.
+ @Policy targets
+- (Econ) Các mục tiêu chính sách.
+: Xem TARGETS.
+ @policy-holder  
+*  dt
+- người có hợp đồng bảo hiểm
+
+@policymaker
+* dt
+- người hoạch định chính sách
+ @policymaking
+* dt
+- sự hoạch định chính sách
+ @poling
+* dt
+- sự đóng cọc; dãy cọc, hàng cọc
+ @polio  
+*  dt
+- (thực vật học),  (viết tắt) của poliomyelitis
+- người mắc bệnh viêm tuỷ xám
+- trẻ em mắc bệnh bại liệt
+
+@poliomyelitic
+- xem poliomyelitis
+ @poliomyelitis  
+*  dt
+- (y học) viêm tuỷ xám
+
+@poliovirus
+* dt
+- virut gây bệnh viêm tủy xám
+ @polis
+* dt
+- số nhiều poleis
+- thành bang (cổ Hy lạp)
+ @polish  
+*  tt
+- Polish (thuộc) Ba lan
+*  dt
+- nước bóng, nước láng
+- nước đánh bóng, xi
+
++ boot polish: xi đánh giày
+- (nghĩa bóng) vẻ lịch sự, vẻ tao nhã, vẻ thanh nhã
+*  ngdgt
+- đánh bóng, làm cho láng
+- (nghĩa bóng) làm cho lịch sự, làm cho thanh nhâ, làm cho tao nhã ((thường) động tt quá khứ)
+*  ndgt
+- bóng lên
+!to polish off
+- làm xong gấp (công việc...); ăn gấp (bữa cơm)
+- (từ Mỹ,nghĩa Mỹ) trừ khử (địch)
+!to polish up
+- chuốt bóng, làm cho bóng bảy đẹp đẽ
+
+@polished  
+*  tt
+- bóng, láng
+- (nghĩa bóng) lịch sự, thanh nhã, tao nhã
+
++ polished manners: cử chỉ lịch sự tao nhã
+
+@polisher  
+*  dt
+- người đánh bóng; dụng cụ đánh bóng
+
+@politburo
+* dt
+- bộ chính trị (của một nước)
+ @polite  
+*  tt
+- lễ phép, có lễ độ; lịch sự, lịch thiệp
+- tao nhã (văn...)
+
+@politely
+* dt
+- lễ phép, có lễ độ; lịch sự, lịch thiệp
+- tao nhã (văn...)
+- (thuộc ngữ) có học thức
+ @politeness  
+*  dt
+- sự lễ phép, sự lễ độ; sự lịch sự, sự lịch thiệp
+
+@politesse
+* dt
+- xem polite
+- thái độ quá ân cần, thái độ lịch sự
+ @politic  
+*  tt
+- thận trọng, khôn ngoan, khôn khéo;; sáng suốt, tinh tường, sắc bén (về chính trị...) (người, hành động)
+- (nghĩa xấu) láu, mưu mô, xảo quyệt, lắm đòn phép
+
+@political  
+*  tt
+- chính trị
+
++ political economy: kinh tế chính trị
+
++ a political organization: một tổ chức chính trị
+
++ a political prisoner: tù chính trị
+
++ a political crisis: một cuộc khủng hoảng chính trị
+- (thuộc) việc quản lý nhà nước, (thuộc) chính quyền
+
++ political agent: cán sự (của chính quyền)
+*  dt
+- cán sự (của chính quyền)
+
+@political asylum
+* dt
+- quyền tị nạn chính trị
+ @Political business cycle
+- (Econ) Chu kỳ kinh tế chính trị.
+ @Political economy
+- (Econ) Kinh tế chính trị.
+: Cụm thuật ngữ bao hàm mối liên quan giữa khía cạnh thực tiễn của hoạt động chính trị và lý thuyết kinh tế học thuần tuý.
+ @political geography
+* dt
+- địa lý chính trị (môn địa lý nghiên cứu đến biên giới,  (giao thông)
+ @political prisoner
+* dt
+- tù chính trị
+ @political science
+* dt
+- khoa học chính trị (sự nghiên cứu có tính chất học thuật về chính quyền, về thiết chế <chtrị>)
+ @politicalization
+- xem political
+ @politicalize
+- xem political
+ @politically  
+*  dt
+- về mặt chính trị
+- thận trọng, khôn ngoan, khôn khéo; sáng suốt tinh tường, sắc bén (về chính trị...)
+- (nghĩa xấu) láu, mưu mô, xảo quyệt, lắm đòn phép
+
+@politician  
+*  dt
+- nhà chính trị; chính khách
+- con buôn chính trị
+
+@politicise   (politicize) @politicization
+- xem politicize
+ @politicize   (politicize) @politick  
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ) làm chính trị; tham gia chính trị
+- nói chuyện chính trị
+
+@politicker
+- xem politick
+ @politicking  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) cuộc vận động chính trị (vận động bầu cử...)
+
+@politicly
+- xem politic
+ @politico  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) con buôn chính trị
+
+@politico-
+- hình thái ghép có nghĩa chính trị
+- hình thái ghép có nghĩa chính trị
+ @politico-economical
+* tt
+- thuộc chính trị-kinh tế
+ @politicomania
+* dt
+- bệnh cuồng về chính trị
+ @politics  
+*  dt số nhiều
+- chính trị
+
++ to talk politics: nói chuyện chính trị
+- hoạt động chính trị
+
++ to enter politics: tham gia hoạt động chính trị
+- chính kiến, quan điểm chính trị
+
++ what are your politics?: chính kiến của anh thế nào?
+
+@polity  
+*  dt
+- chính thể; tổ chức nhà nước
+- xã hội có tổ chức
+
+@polk  
+*  ndgt
+- nhảy pônca
+
+@polka  
+*  dt
+- điệu nhảy pônca
+- nhạc cho điệu phảy pônca
+- áo nịt (đàn bà)
+
+@polka dots
+* dt
+- hoa chấm tròn lớn đều (trang trí ở vải may áo...)
+- kiểu trang trí (vải) bằng hoa chấm tròn
+ @polka-dot  
+*  dt
+- chấm tròn (trang trí ở vải may áo...)
+- kiểu trang trí (vải) bằng chấm tròn
+
+@poll  
+*  dt
+- sự bầu cử; nơi bầu cử
+
++ to go to the polls: đi bầu cử
+- số phiếu bầu, số người bỏ phiếu
+
++ a heavy poll: số người đi bỏ phiếu rất lớn
+- sự kiếm số cử tri
+- cuộc thăm dò ý kiến (của nhân dân về vấn đề gì)
+- (tiếng địa phương);(đùa cợt) cái đầu
+
++ a curly poll: một cái đầu xoăn
+
++ per poll: mỗi đầu người
+*  ngdgt
+- thu phiếu bầu của
+- thu được (bao nhiêu phiếu bầu) (ứng cử viên)
+
++ to poll a large majority: thu được đại đa số phiếu
+- bỏ (phiếu)
+
++ to poll one's vote: bỏ phiếu bầu
+*  ndgt
+- bỏ phiếu
+*  dt
+- con vẹt
+*  dt
+- (the Poll) (từ lóng) những học sinh đỗ thường (ở đại học Căm-brít)
+
++ to go out in the Proll: đỗ thường
+- (định ngữ) đỗ thường
+
++ poll dragree: bằng đỗ thường
+
++ poll man: người đỗ thường
+- thú không sừng, bò không sừng
+*  ngdgt
+- cắt ngọn, xén ngọn (cây)
+- ((thường) động tt quá khứ) cưa sừng (trâu bò...)
+- xén (giấy)
+- (từ cổ,nghĩa cổ) hớt tóc của (ai); cắt lông của (con vật)
+*  tt
+- bị cắt ngọn, bị xén ngọn
+- bị cưa sừng, không sừng
+
+@Poll tax
+- (Econ) Thuế thân.
+: Thuế tính cả gói mà sự thanh toán không liên quan đến thu nhập hoặc chi tiêu.
+ @pollack   (pollock) @pollakanthic
+* tt
+- (thực vật học) nhiều kỳ nở hoa
+ @pollard  
+*  dt
+- con thú đã rụng sừng, thú mất sừng; bò không sừng, cừu không sừng, dê không sừng
+- cây bị cắt ngọn
+- cám mịn còn ít bột
+*  ngdgt
+- cắt ngọn, xén ngọn (cây)
+
+@poll-book
+* dt
+- sổ danh sách cử tri
+ @poll-cow
+* dt
+- bò cái cụt sừng
+ @polled  
+*  tt
+- bị cưa sừng
+
+@pollen  
+*  dt
+- (thực vật học) phấn hoa
+*  ngdgt
+- (thực vật học) cho thụ phấn, rắc phấn hoa
+
+@pollen count
+* dt
+- chỉ số (mức độ) phấn hoa trong không khí
+ @pollenate
+* ngdgt
+- xem pollinate
+ @pollenation
+* dt
+- xem pollination
+ @pollen-basket
+* dt
+- giỏ phấn
+ @pollen-bearing
+* tt
+- mang phấn
+ @pollen-brush
+* dt
+- bàn chải phấn
+ @pollen-chamber
+* dt
+- ô phấn
+ @pollen-flower
+* dt
+- hoa có phấn
+ @pollen-grain
+* dt
+- hạt phấn
+ @polleniser
+- Cách viết khác : pollenizer 
+ @pollenizer
+- xem polleniser
+ @pollenless
+* tt
+- không có phấn hoa
+ @pollenosis
+* dt
+- (y học) chứng hen theo mùa phấn hoa
+ @poller
+- xem poll
+ @pollex
+* dt
+- số nhiều pollices
+- ngón cái của chi trước
+ @pollical
+* tt
+- thuộc ngón cái
+ @pollicitation  
+*  dt
+- (pháp lý) lời hứa chưa được nhận (một bên hứa, bên kia chưa nhận)
+
+@pollin-
+- hình thái ghép có nghĩa là phấn hoa
+- pollinate
+- thụ phấn
+- hình thái ghép có nghĩa là phấn hoa
+- pollinate
+- thụ phấn
+ @pollinarium
+* dt
+- (thực vật học) khối phấn có đế
+ @pollinate  
+*  ngdgt
+- cho thụ phấn, rắc phấn hoa
+
+@pollination  
+*  dt
+- (thực vật học) cho thụ phấn
+
+@pollinator
+- xem pollinate
+ @polling
+* dt
+- việc bỏ phiếu
+- địa điểm bỏ phiếu, địa điểm bầu cử
+ @polling-booth  
+*  dt
+- phòng bỏ phiếu
+
+@polling-day
+* dt
+- ngày bầu cử
+ @polling-station
+- việc bỏ phiếu
+- địa điểm bỏ phiếu, địa điểm bầu cử
+ @pollini-
+- xem pollin-
+ @pollinic  
+*  tt
+- (thực vật học) (thuộc) phấn hoa
+
+@polliniferous  
+*  tt
+- (thực vật học) có phấn hoa
+
+@pollinium
+* dt
+- (thực vật học) khối phấn
+ @pollinization
+* dt
+- sự truyền phấn nhân tạo
+- sự thụ tinh nhân tạo
+ @pollinize
+- Cách viết khác : pollinise 
+ @pollinizer
+- Cách viết khác : polliniser 
+ @pollinodium
+* dt
+- (sinh vật học) ổ giao tử đực
+ @pollinoid
+* dt
+- (sinh vật học) giao tử đực; tinh tử
+ @pollinose
+* tt
+- thuộc sâu bọ phủ đầy phấn hoa
+ @pollinosis
+* dt
+- xem pollenosis
+ @polliwog
+* dt
+- (Mỹ) con nòng nọc
+ @pollock   (pollock) @polloi  
+*  dt số nhiều
+- Hoi_polloi quần chúng nhân dân; dân thường
+
+@poll-ox
+* dt
+- bò đực cụt sừng
+ @poll-sheep
+* dt
+- (động vật học) cừu cụt sừng
+ @pollster  
+*  dt
+- (thường) ghuộm máu lấu thái nhầm của nhân dân về vấn đề gì)
+
+@poll-tax  
+*  dt
+- thuế thân
+
+@pollutant
+* dt
+- chất gây ô nhiễm (do xe cộ, động cơ  thải ra)
+ @pollute  
+*  ngdgt
+- làm ô uế, làm mất thiêng liêng
+- làm nhơ bẩn (nước...)
+- (nghĩa bóng) làm hư hỏng, làm sa đoạ
+
+@polluter
+- xem pollute
+ @Polluter pays principle
+- (Econ) Nguyên tắc người gây ô nhiễm trả phí.
+: Ý tưởng cho rằng gây ô nhiễm phải trả phí cho việc gây ô nhiễm môi trường.
+ @pollution  
+*  dt
+- sự làm ô uế, sự làm mất thiêng liêng
+- sự làm nhơ bẩn (nước...)
+- sự làm hư hỏng, sự làm sa đoạ
+
+@Pollution
+- (Econ) Ô nhiễm.
+: Một hoạt động làm ô nhiễm một hoặc nhiều môi trường.
+ @Pollution rights
+- (Econ) Các quyền được gây ô nhiễm.
+: Ý tưởng cho rằng cần phải cấp giấy chứng nhận cho người chủ sở hữu quyền được gây ô nhiễm ở một môi trường nhất định, chẳng hạn một dìng sông.
+ @pollyanna
+* dt
+- người lúc nào cũng lạc quan (tên một nhân vật nữ)
+ @pollywog
+- xem polliwog
+ @polo  
+*  dt
+- (thể dục,thể thao) môn pôlô
+
+@polo mallet   (polo_mallet) @polo neck
+* dt
+- cổ lọ (kiểu cổ áo tròn cao vòng quanh cổ)
+ @poloist
+- xem polo
+ @polonaise  
+*  dt
+- áo xẻ tà (đàn bà)
+- điệu nhảy pôlône
+- nhạc cho điệu nhảy pôlône
+
+@polonian
+* tt
+- thuộc Ba lan
+- thuộc người Ba Lan
+* dt
+- tiếng Ba Lan
+ @polonium  
+*  dt
+- (hoá học) Poloni
+
+@polony  
+*  dt
+- dồi, xúc xích (lợn) ((cũng) polony sausage)
+
+@polony sausage
+* dt
+- dồi, xúc xích (lợn)
+ @polospore
+* dt
+- hạt phấn hoá thạch
+ @polo-stick   (polo_mallet) @polster
+* dt
+- (thực vật học) cây có nguyên tán
+ @poltergeist  
+*  dt
+- yêu tinh
+
+@polt-foot  
+*  dt
+- bàn chân vẹo
+*  tt
+- vẹo bàn chân
+
+@poltroon  
+*  dt
+- kẻ nhát gan, kẻ nhát như cáy
+
+@poltroonery  
+*  dt
+- tính nhát gan, tính nhát như cáy
+
+@poly
+* dt
+- <thgt> trường bách khoa
+ @poly-
+- hình thái ghép có nghĩa là nhiều
+- polygon
+- hình đa giác
+- hình thái ghép có nghĩa là nhiều
+- polygon
+- hình đa giác
+ @polyadelphous  
+*  tt
+- (thực vật học) xếp thành nhiều bó (nhị hoa)
+
+@polyadenous
+* tt
+- nhiều tuyến (u)
+ @polyadic
+- nhiều ngôi
+ @polyamide
+* dt
+- (hoá học) poliamit
+ @polyandric
+- xem polyandry
+ @polyandrist  
+*  dt
+- người đàn bà nhiều chồng
+
+@polyandrous  
+*  tt
+- lấy nhiều chồng
+- (thực vật học) nhiều đực
+
+@polyandry  
+*  dt
+- tình trạng nhiều chồng
+
+@polyanthus
+* dt
+- cây thủy tiên hoa bó
+ @polyatomic  
+*  tt
+- nhiều nguyên t
+
+@polybasic
+* tt
+- đa bazơ
+ @polyblast
+* dt
+- (sinh vật học) tế bào mô; mô thực bào lớn
+ @polycarp
+* dt
+- tuyến sinh dục (tiêu biển)
+ @polycarpellary   (polycarpous) @polycarpous   (polycarpous) @polycarpy
+- xem polycarpous
+ @polycellular
+* tt
+- nhiều tế bào; đa bào
+ @polycentric
+* tt
+- nhiều trung tâm; đa tâm
+ @polycentrism
+* dt
+- thuyết nhiều trung tâm
+ @polycephalous
+* tt
+- nhiều đầu
+ @polychaete
+* dt
+- giun nhiều tơ
+ @polychaetous
+* tt
+- thuộc polychaete
+ @polychasial
+* tt
+- thuộc @polychasium
+* dt
+- (hoa) xim nhiều ngả
+ @polychord
+* dt
+- đàn thập huyền
+* tt
+- có nhiều dây
+ @polychromatic   (polychrome) @polychrome   (polychrome) @polychromy  
+*  dt
+- thuật vẽ nhiều màu (đồ gốm cổ)
+
+@polychronism
+* dt
+- hiện tượng trường diễn, hiện tượng thời gian kéo dài
+ @polyclinic  
+*  dt
+- phòng khám nhiều khoa
+
+@polycondensation
+* dt
+- (kỹ thuật) sự đa trùng ngưng
+ @polyconic
+- (hình học) đa cônic
+ @polycot
+* dt
+- xem polycotyledon
+ @polycotyl
+* dt
+- xem polycotyledon
+ @polycotyledon
+* dt
+- thực vật nhiều lá mầm
+ @polycracy
+* dt
+- chế độ nhiều người cai trị
+ @polycrystal
+* tt
+- đa tinh thể
+ @polycrystalline
+* tt
+- thuộc polycrystal
+ @polycyclic
+* tt
+- có nhiều vòng, có nhiều chu kỳ
+ @polycyclic
+- đa chu trình, đa xilic
+ @polycylinder
+- hình đa trụ
+ @polycystic
+* tt
+- (sinh vật học) có vách
+ @polycythaemia
+* dt
+- (y học) bệnh tăng hồng cầu
+ @polycythaemic
+* tt
+- thuộc polycythaemia
+ @polydactyl  
+*  tt
+- nhiều ngón (chân tay)
+*  dt
+- (động vật học) thú nhiều ngón
+
+@polydactylism
+- xem polydactyl
+ @polydactyly
+- xem polydactyl
+ @polydaemonism
+* dt
+- sự tin, thờ nhiều quỷ
+ @polydelphous
+* tt
+- (thực vật học) nhiều bó nhị
+ @polydimensional
+* tt
+- nhiều chiều
+ @polydipsia
+* dt
+- (y học) chứng khát nhiều
+ @polyembryonic
+* tt
+- (sinh vật học) có nhiều phôi
+ @polyembryony
+* dt
+- (sinh vật học) hiện tượng nhiều phôi
+ @polyester
+* dt
+- vải pôliexte (vải nhân tạo dùng để may quần áo)
+ @polyesterification
+- xem polyester
+ @polyethylene
+- <Mỹ>
+ @polyfactor
+* dt
+- yếu tố phức; đa yếu tố
+ @polyfactorial
+* tt
+- nhiều yếu tố; đa yếu tố
+ @polyfunctional
+* tt
+- nhiều công dụng, nhiều chức năng
+ @polygala
+* dt
+- (thực vật học) cây viễn chí
+ @polygalactia
+* dt
+- sự tiết nhiều sữa
+ @polygamic  
+*  tt
+- nhiều vợ; (từ hiếm,nghĩa hiếm) nhiều chồng
+
+@polygamist  
+*  dt
+- người nhiều vợ; (từ hiếm,nghĩa hiếm) người nhiều chồng
+
+@polygamous  
+*  tt
+- nhiều vợ; (từ hiếm,nghĩa hiếm) nhiều chồng
+- (động vật học) nhiều cái
+- (thực vật học) đủ giống hoa (cây có cả hoa lưỡng tính, hoa đực, hoa cái), tạp tính
+
+@polygamously
+- xem polygamous
+ @polygamy  
+*  dt
+- chế độ nhiều vợ; (từ hiếm,nghĩa hiếm) chế độ nhiều chồng
+
+@polygastric  
+*  tt
+- nhiều dạ dày
+
+@polygene
+* dt
+- (sinh vật học) đa gen
+- gen số lượng
+- gen đậm
+- thể đột biến
+ @polygenesis  
+*  dt
+- (sinh vật học) sự phát sinh nhiều nguồn
+
+@polygenesist
+- xem polygenesis
+ @polygenetic
+* tt
+- thuộc polygenesist
+ @polygenic
+* tt
+- thuộc polygene
+ @polygeny
+* dt
+- (sinh vật học) tính gen số lượng, tính gen đậm
+ @polyglandular
+* tt
+- (sinh vật học) nhiều tuyến
+ @polyglot  
+*  tt
+- biết nhiều thứ tiếng
+- nhiều thứ tiếng, viết bằng nhiều thứ tiếng
+*  dt
+- người biết nhiều thứ tiếng
+- sách viết bằng nhiều thứ tiếng; kinh thánh viết bằng nhiều thứ tiếng
+
+@polyglotism
+- xem polyglot
+ @polyglottal
+- Cách viết khác : polyglottic 
+ @polyglotted
+- Cách viết khác : polyglottous 
+ @polyglottic
+- xem polyglottal
+ @polyglottism
+- xem polyglot
+ @polyglottist
+* dt
+- người biết nhiều ngôn ngữ
+ @polyglottous
+- xem polyglotted
+ @polygon  
+*  dt
+- (toán học) hình nhiều cạnh, đa giác
+!polygon of forces
+- đa giác lực
+
+@polygon
+- đa giác
+- p. of forces đa giác lực
+- arc p. đa giác cung
+- circumscribed p. đa giác ngoại tiếp
+- concave p. đa giác lõm
+- convex p. đa giác lồi
+- equiangular p. đa giác đều góc
+- equivalent p.s các đa giác tương đương
+- frequency p. đa giác tần số
+- funicular p. (cơ học) đa giác dây
+- inscribed p. đa giác nội tiếp
+- mutually equiangular p.s các đa giác có các góc tương ứng bằng nhau
+- rectilinear p. đa giác thẳng
+- regular p. đa giác đều
+- open p. (hình học) đường gấp khúc
+- similar p.s các đa giác đồng dạng 
+- simple p. đa giác đơn
+- spherical p. đa giác cầu
+- strategy p. (lý thuyết trò chơi) đa giác chiếm lược
+- string p. đa giác dây 
+ @polygonal  
+*  tt
+- (toán học) nhiều cạnh, đa giác
+
+@polygonal
+- (thuộc) đa giác
+ @polygonally
+- xem polygon
+ @polygonometry
+* dt
+- phép đo đa giác
+ @polygonous
+* tt
+- thuộc polygon
+ @polygonum  
+*  tt
+- (thực vật học) giống rau nghề
+
+@polygottal   (polygottic) @polygottic   (polygottic) @polygraph
+* dt
+- máy ghi tim vật lý (tim mạch...)
+- máy dò tìm (hàng giả...)
+ @polygraphy
+* dt
+- cách sao chụp nhiều lần
+ @polygynist
+* dt
+- người có nhiều vợ; người đa thê
+ @polygynous  
+*  tt
+- nhiều vợ
+- (thực vật học) nhiều nhuỵ (hoa)
+
+@polygyny  
+*  dt
+- tình trạng nhiều vợ; sự lấy nhiều v
+
+@polyhaploid
+* tt
+- nhiều đơn bội; đa đơn bội
+ @polyharmonic
+- (giải tích) đa điều hoà
+ @polyhedra  
+*  dt,  số nhiều polyhedra  @polyhedral   (polyhedric) @polyhedral
+- (thuộc) hình đa diện
+- locally p. hh(đại số) đa diện địa phương 
+ @polyhedric   (polyhedric) @polyhedron  
+*  dt,  số nhiều polyhedra  @polyhedron
+- (khối) đa diện
+- integer p. đa diện nguyên 
+- one-sided p. đa diện một phía
+- regular p. đa diện đều 
+ @polyhedrosis
+* dt
+- số nhiều polyhedroses
+- virut nhiều mặt
+ @polyhistor   (polymath) @polyhistoric
+- xem polyhistor
+ @polyhybrid
+* dt
+- thể lai nhiều gen, thể lai nhiều tính
+ @polyisomere
+* dt
+- (sinh vật học) khúc đều phức
+ @polykaric
+* tt
+- (sinh vật học) nhiều nhân
+ @polyline
+- (hình) nhiều nét, (hình) nhiều đường
+ @polylogarithm
+- (giải tích) đa lôga
+ @polymath   (polymath) @polymathic
+- xem polymath
+ @polymathy  
+*  dt
+- sự thông thái, sự uyên bác
+
+@polymelus
+* dt
+- quái thai nhiều chân
+ @polymenia
+* dt
+- (y học) chứng nhiều kinh nguyệt
+ @polymer  
+*  dt
+- (hoá học) chất trùng hợp,  polime
+
+@polymeric  
+*  tt
+- (hoá học) trùng hợp
+
+@polymerically
+- xem polymeric
+ @polymerisation
+* dt
+- <hóa> sự trùng hợp
+ @polymerise   (polymerise) @polymerism  
+*  dt
+- (hoá học) hiện tượng trùng hợp
+
+@polymerization  
+*  dt
+- (hoá học) sự trùng hợp
+
+@polymerize   (polymerise) @polymerous  
+*  tt
+- (sinh vật học) nhiều bộ phận
+- (thực vật học) nhiều mẫu
+
+@polymery
+* dt
+- tính trùng hợp
+ @polymetallic
+* tt
+- đa kim
+ @polymitosis
+* dt
+- sự gián phân nhiều lần
+ @polymolecular
+* tt
+- (sinh vật học) nhiều phân tử; đa phân tử
+ @polymorph
+* dt
+- chất đa hình; bạch cầu nhiều dạng
+ @polymorphic   (polymorphous) @polymorphism  
+*  dt
+- (sinh vật học) hiện tượng nhiều hình, hiện tượng nhiều dạng
+
+@polymorphocellular
+* tt
+- (sinh vật học) nhiều dạng tế bào
+ @polymorphonuclear
+* tt
+- (sinh vật học) nhiều dạng nhân
+ @polymorphous   (polymorphous) @polymorphously
+- xem polymorphism
+ @polynesian  
+*  tt
+- (thuộc) Pô-li-nê-di
+*  dt
+- người quần đảo Pô-li-nê-di
+
+@polyneuritis
+* dt
+- (y học) viêm nhiều dây thần kinh
+ @polynia  
+*  dt
+- (địa lý,địa chất) khe băng, hốc băng
+
+@polynomial  
+*  tt & dt
+- đa thức
+
++ polynomial function: hàm đa thức
+
+@Polynomial
+- (Econ) Đa thức; Biểu thức đại số.
+: Một phương trình mà nói chung nhiều hạng số trong một biến số độc lập được nâng lên nhiều luỹ thừa khác nhau.
+ @polynomial
+- đa thức
+- p. of degree n. đa thức bậc n
+- p. of least deviation đa thức có độ lệch tối thiểu
+- adjoint p. đa thức liên hợp
+- alternative p. đa tức đơn dấu
+- characteristic p. đ thức đặc trưng
+- cyclotomic p. (đại số) đa thức thức chia vòng tròn
+- defining p. đa thức định nghĩa
+- differential p. (đại số) đa thức vi phân
+- distinguished p. (đại số) đa thức lồi
+- homogeneous p. đa thức thuần nhất
+- hypergeometric p. đa thức siêu bội
+- interpolating p. (giải tích) đa thức nội suy
+- interpolation p. (giải tích) đa thức nội suy
+- irreducible p. đa thức không khả quy
+- minimal p. (đại số) đa thức cực tiểu
+- minimum p. (đại số) đa thức cực tiểu
+- monic p. đa thức lồi
+- orthogonal p.s đa thức trực giao
+- orthonormal p. đa thức trực chuẩn
+- prime p. đa thức nguyên tố
+- quasi-orthogonal p. đa thức tựa trực giao
+- reduced minimum p. đa thức cực tiểu rút gọn 
+- reducible p. đa thức khả quy
+- symbolic p. đa thức ký hiệu
+- trigonometric p. đa thức lượng giác
+- ultrasherical p. (giải tích) đa thức siêu cầu 
+ @Polynomial lag
+- (Econ) Độ trễ đa thức; trể của biểu thức đại số.
+: Xem ALMON LAG.
+ @polynuclear
+* tt
+- (sinh vật học) nhiều nhân
+ @polyoestrous
+* tt
+- (sinh vật học) có nhiều lần động dục
+ @polyonychia
+* dt
+- (sinh vật học) tật nhiều móng
+ @polyonymous  
+*  tt
+- nhiều tên, được gọi bằng nhiều tên
+
+@polyonymy  
+*  dt
+- sự dùng nhiều tên (để gọi cùng một vật gì)
+
+@polyopia  
+*  dt
+- (y học) chứng thấy nhiều hình
+
+@polyorchism
+* dt
+- tật nhiều tinh hoàn
+ @polyp   (polype) @polyparasitism
+* dt
+- (sinh vật học) hiện tượng đa ký sinh
+ @polypary  
+*  dt,  số nhiều polypidom  @polype   (polype) @polypetalous  
+*  tt
+- (thực vật học) nhiều cánh (hoa)
+
+@polyphagia  
+*  dt
+- (y học) chứng ăn nhiều
+- (động vật học) lối ăn tạp
+
+@polyphagian
+- xem polyphagia
+ @polyphagous  
+*  tt
+- (y học) ăn nhiều
+- (động vật học) ăn tạp
+
+@polyphase  
+*  tt
+- (điện học) nhiều pha
+
+@polyphase
+- (vật lí) nhiều pha
+ @polyphasic
+* tt
+- nhiều giai đoạn, nhiều pha, nhiều kỳ
+ @polyphasy
+* dt
+- xem polyphasic
+ @polyphone  
+*  dt
+- từ nhiều âm
+
+@polyphonic   (polyphonous) @polyphonically
+- xem polyphonic
+ @polyphonous   (polyphonous) @polyphonously
+- xem polyphony
+ @polyphony  
+*  dt
+- tính nhiều âm
+- (âm nhạc) tính phức điệu
+
+@polyphyletic
+* tt
+- (sinh vật học) nhiều nguồn gốc, nhiều dạng tổ tiên
+ @polyphyllous  
+*  tt
+- (thực vật học) loạn lá
+
+@polypi  
+*  dt,  số nhiều polypi  @polypidom  
+*  dt,  số nhiều polypidom  @polypite  
+*  dt
+- Polip cá thể,  polip sống riêng rẽ
+
+@polyplanetic
+* tt
+- (sinh vật học) nhiều kỳ động, nhiều giai đoạn động
+ @polyplast
+* dt
+- (hoá học) cao phân tử
+ @polyplastic
+* tt
+- dẻo; dễ nặn
+ @polyplicate
+* tt
+- nhiều nếp; nhiều nếp gấp
+ @polyploid  
+*  tt
+- (sinh vật học) đa hội
+
+@polyploidigen
+* dt
+- chất gây đa bội
+ @polyploidization
+* dt
+- sự tạo thể đa bội
+ @polyploidy
+- xem polyploid
+ @polypnea
+* dt
+- (y học) chứng thở gấp
+ @polypod  
+*  tt
+- (động vật học) nhiều chân
+*  dt
+- (động vật học) động vật nhiều chân
+
+@polypodia
+* dt
+- tật nhiều chân, tật thừa chân
+ @polypody  
+*  dt
+- (thực vật học) giống dương xỉ ổ tròn
+
+@polypoid   (polypous) @polypous   (polypous) @polypropylene
+* dt
+- polipropilen
+ @polypus  
+*  dt,  số nhiều polypi  @polyrhizal
+* tt
+- (thực vật học) nhiều rễ; có rễ chùm
+ @polysaccharide
+* dt
+- polisaccarit
+ @polysaprobit
+* tt
+- (sinh vật học) sống ở nước rất bẩn, sống ở trong nước thối rữa
+ @polysemantic  
+*  tt
+- nhiều nghĩa (từ)
+
+@polysemous
+* tt
+- (ngôn ngữ học) đa nghĩa; nhiều nghĩa
+ @polysemy  
+*  dt
+- tính nhiều nghĩa (của từ)
+
+@polysensivity
+* dt
+- tính nhạy cảm với nhiều loại kích thích
+ @polysepalous  
+*  tt
+- (thực vật học) nhiều lá đài
+
+@polysiphonic
+* tt
+- (kỹ thuật) nhiều xifon, nhiều ống hút
+ @polysomaty
+* dt
+- (sinh vật học) tính đa thể bội
+ @polysomic
+* tt
+- (sinh vật học) nhiều thể nhiễm sắc đa bội
+ @polyspast  
+*  dt
+- (kỹ thuật) Palăng
+
+@polyspermous
+* tt
+- có nhiều hạt, có nhiều tinh trùng
+ @polysporous
+* tt
+- (thực vật học) có nhiều hạt, có nhiều bào tử
+ @polystelic
+* tt
+- (thực vật học) có nhiều trung trụ
+ @polystome  
+*  tt
+- (động vật học) nhiều mồm
+*  dt
+- (động vật học) động vật nhiều mồm
+
+@polystyrene
+* dt
+- polixetiren (loại nhựa chắc, nhẹ có tính cách điện, nhiệt tốt dùng làm các đồ chứa đựng)
+ @polysyllabic  
+*  tt
+- nhiều âm tiết (từ)
+
+@polysyllabically
+- xem polysyllabic
+ @polysyllable  
+*  dt
+- từ nhiều âm tiết
+
+@polysyllogisme
+* dt
+- (logic học) tam đoạn luận phức
+ @polysymmetrical
+* tt
+- đối xứng nhiều mặt phẳng
+ @polysynaptic
+* tt
+- có nhiều khớp thần kinh
+ @polysyndetic
+* tt
+- (văn học) dùng phép lặp liên từ
+ @polysyndeton
+* dt
+- phép lặp liên từ
+ @polysynthetic  
+*  tt
+- hỗn nhập (ngôn ngữ)
+
+@polytechnic  
+*  tt
+- bách khoa
+*  dt
+- trường bách khoa
+
+@polytene
+* dt
+- (sinh vật học) giai đoạn nhiều sợi
+ @polytheism  
+*  dt
+- thuyết nhiều thần; đạo nhiều thần
+
+@polytheist  
+*  dt
+- người theo thuyết nhiều thần; người theo đạo nhiều thần
+
+@polytheistic  
+*  tt
+- (thuộc) thuyết nhiều thần; (thuộc) đạo nhiều thần
+
+@polythelia
+* dt
+- (y học) tật nhiều vú
+ @polythen  
+*  dt
+- Politen (một loại chất dẻo)
+
+@polythene
+* dt
+- Politen (một loại nhựa tổng hợp được dùng dưới dạng lá mềm dẻo, trong suốt chống thấm nước, cách điện )
+ @polytocous
+* tt
+- đẻ nhiều trứng @polytonal
+* tt
+- (âm nhạc) nhiều giọng
+ @polytonality
+* dt
+- (âm nhạc) hiện tượng nhiều giọng
+ @polytope
+- hình đa diện, pôlitôp
+ @polytopic
+* tt
+- (sinh vật học) nhiều nơi ở; nhiều vùng
+ @polytrichia
+* dt
+- (y học) chứng rậm lông
+ @polytrichous
+* tt
+- (y học) rậm lông
+ @polytrophia
+* dt
+- sự ăn quá mức
+ @polytrophic
+* tt
+- nhiều nguồn, nhiều loại thức ăn
+ @polytropic
+* tt
+- nhiều hướng; thăm nhiều loại hoa (côn trùng)
+ @polytropic
+- (vật lí) đa hướng
+ @polytype
+* dt
+- cấu trúc tinh thể có nhiều dạng
+ @polytypic
+* tt
+- nhiều kiểu
+ @polyunsaturated
+* tt
+- không có khả năng sinh côlextêrôn (trong dầu thực vật, mỡ động vật)
+ @polyurethane
+* dt
+- pôliurêtan (loại nhựa tổng hợp dùng chế tạo sơn)
+ @polyuria
+* dt
+- (y học) chứng đái nhiều
+ @polyuric
+* tt
+- thuộc chứng đái nhiều
+ @polyvalence
+- xem polyvalent
+ @polyvalency
+- xem polyvalent
+ @polyvalent  
+*  tt
+- (hoá học) nhiều hoá trị
+
+@polyvoltine
+* tt
+- nhiều lứa trong một mùa
+- nhiều thế hệ
+ @polyzoarium
+* dt
+- số nhiều polyzoaria
+- bộ xương tập đoàn động vật
+- tập đoàn động vật
+ @polyzoic
+* tt
+- thuộc tập đoàn động vật
+ @pom  
+*  dt
+- (viết tắt) của Pomeranian
+
+@pomace  
+*  dt
+- bột táo nghiền (trước khi ép làm rượu táo); bã táo ép
+- bột nhão (quả...)
+- bã cá (sau khi ép dầu để làm phân bón)
+
+@pomade   (pomatum) @pomader  
+*  dt
+- (sử học) viên sáp thơm (cho vào hòm, va li... để diệt nhậy...)
+- bao đựng viên sáp thơm (bằng vàng hoặc bạc)
+
+@pomatum   (pomatum) @pome
+* dt
+- dạng quả táo (nạc, có nhiều hạt)
+- hòn bằng kim loại
+ @pomegranate  
+*  dt
+- quả lựu
+- cây lựu ((cũng) pomegranate-tree)
+
+@pomelo  
+*  dt,  số nhiều pomelos  @pomeranian  
+*  tt
+- (thuộc) xứ Po-me-ran
+*  dt
+- chó pomeran ((cũng) pomeranian dog)
+
+@pomfret
+* dt
+- cá chim
+ @pomiculture  
+*  dt
+- sự trồng cây ăn quả
+
+@pomiferous
+* tt
+- có quả táo (cây táo)
+ @pomiform
+* tt
+- dạng quả táo
+ @pommel  
+*  dt
+- núm chuôi kiếm
+- núm yên ngựa
+*  ngdgt
+- đánh bằng núm chuôi kiếm
+- đấm túi bụi
+
+@pommy  
+*  dt
+- (từ lóng) người Anh di cư sang Uc; người Anh di cư sang Tân tây lan
+
+@pomological  
+*  tt
+- (thuộc) khoa trồng cây ăn quả
+
+@pomologically
+- xem pomology
+ @pomologist  
+*  dt
+- nhà nghiên cứu khoa trồng cây ăn quả
+
+@pomology  
+*  dt
+- khoa cây quả
+
+@pomona  
+*  dt
+- (thần thoại,thần học) nữ thần quả (thần thoại La-mã)
+!Pomona green
+- màu vàng lục
+
+@pomp  
+*  dt
+- vẻ hoa lệ, vẻ tráng lệ, sự phô trương long trọng
+- phù hoa
+
++ the pomps and vanity: phù hoa và hư danh
+
+@pompability
+* dt
+- khả năng bơm, năng suất bơm
+ @pompadour
+* dt
+- cách để tóc (phụ nữ Pháp (thế kỷ) XVIII) hất ngược ra sau
+ @pompano  
+*  dt
+- (động vật học) cá nục (ở quần đảo Ăng-ti,  Bắc mỹ)
+
+@pompetta
+* dt
+- ống phóng tinh (côn trùng)
+ @pompier
+* dt
+- đội viên cứu hoả
+ @pompler ladder  
+*  dt
+- thang cứu hoả
+
+@pom-pom  
+*  dt
+- (quân sự) pháo tự động cực nhanh (cỡ 37 44 milimét)
+
+@pompom
+* dt
+- <qsự> súng tự động cực nhanh (cỡ 3744 milimét)
+- ngù len (quả cầu nhỏ bằng len dùng để trang trí trên mũ )
+ @pompon  
+*  dt
+- búp (bằng len, dải lụa, hoa... trang trí mũ, giày đàn bà, trẻ em...)
+
+@pomposity   (pompousness) @pomposo
+* tt
+- (âm nhạc) trang nghiêm
+ @pompous  
+*  tt
+- hoa lệ, tráng lệ; phô trương long trọng
+- hoa mỹ, khoa trương, kêu mà rỗng (văn)
+- vênh vang, tự cao, tự đại (người)
+
+@pompously
+* dt
+- hoa lệ, tráng lệ; phô trương long trọng
+- khoa trương, kêu mà rỗng, đại ngôn (văn)
+- vênh vang, tự đắt (người)
+ @pompousness   (pompousness) @ponce  
+*  dt
+- (từ lóng) kẻ sống bám vào gái điếm, ma cô
+
+@ponceau  
+*  dt
+- màu đỏ tươi
+
+@poncho  
+*  dt,  số nhiều ponchos  @pond  
+*  dt
+- ao
+-(đùa cợt) biển
+*  ngdgt
+- (: back,  up) ngăn, be bờ (dòng nước...) để giữ nước
+*  ndgt
+- thành ao, thành vũng
+
+@pondage  
+*  dt
+- lượng nước ở ao
+- sự trữ nước
+
+@ponder  
+*  dgt
+- ((thường) : on,  upon,  over) suy nghĩ; cân nhắc
+
++ to ponder [on] a question: suy nghĩ về một vấn đề
+
+@ponderability  
+*  dt
+- tính cân được; tính có trọng lượng
+- (nghĩa bóng) tính đánh giá được; tính có thể cân nhắc
+
+@ponderable  
+*  tt
+- có thể cân được; có trọng lượng
+- (nghĩa bóng) có thể đánh giá; có thể cân nhắc
+
+@ponderation  
+*  dt
+- sự cân
+- (nghĩa bóng) sự cân nhắc
+
+@ponderer
+- xem ponder
+ @ponderingly  
+*  dt
+- suy nghĩ, cân nhắc
+
+@ponderosity   (ponderousness) @ponderous  
+*  tt
+- nặng, có trọng lượng
+- chậm chạp (do trọng lượng)
+
++ ponderous movement: cử động chậm chạp
+- cần cù (công việc)
+- nặng nề, buồn tẻ, chán ngắt (hành văn, bài nói...)
+
+@ponderously
+* dt
+- nặng, có trọng lượng
+- chậm chạp, vụng về (do trọng lượng)
+- cần cù (công việc)
+- buồn tẻ, nặng nề, chán ngắt (hành văn, bài nói...)
+ @ponderousness   (ponderousness) @pondfish
+* dt
+- (động vật học) cá ao; cá hồ
+ @ponding
+* dt
+- sự tạo thành ao hồ
+ @pondlet
+* dt
+- ao nhỏ
+ @pond-life  
+*  dt
+- động vật không có xương sống ở ao
+
+@pond-lily
+* dt
+- (thực vật học) cây bình bồng
+ @pond-mussel
+* dt
+- (động vật học) con trai
+ @pond-snail
+* dt
+- (động vật học) ốc ao
+ @pond-weed  
+*  dt
+- (thực vật học) cỏ nhãn tử (sống ở nước ao tù)
+
+@pone  
+*  dt
+- bánh ngô (của người da đỏ Bắc mỹ)
+- bột trứng sữa
+- bánh bột trứng sữa
+
+@pong
+* dt
+- <thgt> mùi hôi
+* ndgt
+- hôi, bốc mùi hôi
+ @pongee  
+*  dt
+- lụa mộc (Trung quốc)
+
+@pongo  
+*  dt
+- (động vật học) vượn người châu Phi
+- con đười ươi
+
+@pongy
+* ttso sánh
+- có mùi hôi, thum thủm
+ @poniard  
+*  ngdgt
+- đâm bằng dao găm
+
+@pons
+* dt
+- số nhiều pontes
+- (giải phẫu) học cầu
+
++  pons hepatis:cầu gan
+ @pont levis  
+*  dt
+- cầu cất
+
+@pontage
+* dt
+- thuế cầu
+ @pontal
+* tt
+- (giải phẫu) thuộc cầu
+ @pontic
+* tt
+- thuộc Hắc hải
+ @pontifex
+* dt
+- số nhiều pontifeces
+- (cổ La mã) giáo trưởng; giáo chủ
+ @pontiff  
+*  dt
+- giáo hoàng ((cũng) sovereign pontiff)
+- giáo chủ; giám mục
+
+@pontifical  
+*  tt
+- (thuộc) giáo hoàng
+- (thuộc) giáo chủ; (thuộc) giám mục
+- làm ra vẻ không lầm lẫn; làm ra vẻ không sai lầm; giáo lý một cách khoa trương
+*  dt
+- sách nghi lễ của giám mục
+- (số nhiều) trang phục và huy hiệu của giám mục
+
+@pontificalia  
+*  dt số nhiều
+- trang phục và huy hiệu của giám mục
+
+@pontifically
+- xem pontifical
+ @pontificate  
+*  dt
+- chức giáo hoàng; nhiệm kỳ của giáo hoàng
+- chức giáo chủ; chức giám mục; nhiệm kỳ của giáo chủ; nhiệm kỳ của giám mục[pɔn'tifikeit]
+*  ndgt
+- (như) pontify
+
+@pontification
+- xem pontificate
+ @pontificator
+- xem pontificate
+ @pontify  
+*  ndgt ((cũng) pontificate)
+- làm ra vẻ giáo hoàng
+- làm ra vẻ giáo chủ; làm ra vẻ giám mục
+- làm ra vẻ không thể nào lầm lẫn; làm ra vẻ không thể nào sai lầm
+
+@pontil
+* dt
+- cây gậy dùng trong việc thổi thủy tinh
+ @ponto
+* dt
+- xem pontil
+ @ponton  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) cầu phao
+
+@pontoneer   (pontonier) @pontonier
+* dt
+- người phụ trách cầu phao
+- người làm cầu phao
+ @pontoon  
+*  dt
+- lối chơi bài " 21" 
+- phà
+- cầu phao ((cũng) pontoon bridge)
+*  dt ((cũng) caisson)
+- (kỹ thuật) thùng lặn (dùng cho công nhân xây dựng dưới nước)
+- (hàng hải) thùng chắn (thùng to hình thuyền để chắn ở cữa vũng sữa chữa tàu)
+*  ngdgt
+- bắc cầu phao qua (sông); qua (sông) bằng cầu phao
+
+@pontoon-bridge
+* dt
+- cầu phao
+ @pony  
+*  dt
+- ngựa nhỏ
+- (từ lóng) hai mươi lăm bảng Anh
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) vật nhỏ bé (nhỏ hơn tiêu chuẩn bình thường)
+- (từ Mỹ,nghĩa Mỹ) bản dịch quay cóp
+
+@pony-tail  
+*  dt
+- kiểu tóc cặp đuôi ngựa (của con gái)
+
+@pony-trekking
+* dt
+- cuộc dạo chơi trên ngựa pony
+ @pooch  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ch
+
+@pood  
+*  dt
+- (Nga) Pút (đơn vị đo lường bằng 16, 38 kg)
+
+@poodle  
+*  dt
+- chó x
+
+@poodle-faker  
+*  dt
+- (từ lóng) anh chàng bám váy phụ n
+
+@poof
+* dt
+- người đàn ông ẻo lả; người tình dục đồng giới nam
+ @poofter
+* dt
+- người đàn ông ẻo lả; người tình dục đồng giới nam
+ @pooh  
+*  thán từ
+- xì!, úi chà! (sốt ruột, khinh miệt)
+
+@pooh-bah  
+*  dt
+- người kiêm nhiệm nhiều chức
+
+@pooh-pooh  
+*  dgt
+- khinh thường, coi rẻ
+- gạt đi (coi là không có giá trị...) (ý kiến đề nghị...)
+
+@pooka  
+*  dt
+- quỷ, yêu tinh
+
+@pookoo  
+*  dt
+- linh dương đ
+
+@pool  
+*  dt
+- vũng
+- ao; bể bơi (bơi)
+- vực (chỗ nước sâu và lặng ở con sông)
+*  ngdgt
+- đào (lỗ) để đóng nêm phá đá
+- đào xới chân (vĩa than...)
+*  dt
+- tiền góp; hộp đựng tiền góp (đánh bài)
+- trò đánh cá góp tiền; tiền góp đánh cá
+
++ football pool: trò đánh cá bóng đá (ai đoán trúng thì được giải trích ở tiền góp)
+- vốn chung, vốn góp
+- Pun (tổ hợp các nhà kinh doanh hoặc sản xuất để loại trừ sự cạnh tranh lẫn nhau); khối thị trường chung
+- trò chơi pun (một lối chơi bi-a)
+*  ngdgt
+- góp thành vốn chung
+- chia phần, chung phần (tiền thu được...)
+
+@pool
+- (lý thuyết trò chơi) số tiền đặt cọc; hợp nhất; gộp lại
+ @Pooled data
+- (Econ) Dữ liệu gộp.
+: Dữ liệu kiểu hình thành khi (a) SỐ LIỆU CHÉO và (b) DỮ LIỆU CHUỖI THỜI GIAN được sáp nhập vào cùng bộ dữ liệu, thông thường khi không có đủ dữ liệu kiểu (a) hoặc (b) riêng, để ước lượng các thông số của một mô hình do không đủ các bậc tự do.
+ @Pooled lending  @pooler
+- xem pool
+ @pooling
+- sự hợp nhất, sự gộp
+- p. of classes (thống kê) sự gộp các lớp 
+ @poolroom
+* dt
+- <Mỹ> nơi đánh pun
+ @poon  
+*  dt
+- (thực vật học) cây mù u
+
+@poonah-brush  
+*  dt
+- bút lông vẽ giấy d
+
+@poonah-painting  
+*  dt
+- bức vẽ trên giấy dó, bức vẽ trên giấy mỏng
+
+@poonah-paper  
+*  dt
+- giấy dó, giấy vẽ mỏng
+
+@poon-oil  
+*  dt
+- dầu mu u
+
+@poop  
+*  dt
+- phần đuôi tàu
+- sàn tàu cao nhất ở phía đuôi
+*  ngdgt
+- vỗ tung vào phía đuôi, đập tràn vào phía đuôi (tàu)
+- hứng (sóng) lên phía đuôi (tàu)
+*  dt ((cũng) pope)
+- bẹn, vùng bẹn
+
++ to take someone's poop: đánh vào bẹn ai
+*  ngdgt ((cũng) pope)
+- đánh vào bẹn (ai)
+*  dt
+- (từ lóng) anh chàng ngốc, anh chàng khờ dại
+
+@pooped
+* tt
+- <thgt> rất mệt mỏi, kiệt sức
+ @pooped out
+* tt
+- rất mệt mỏi, kiệt sức
+ @poor  
+*  tt
+- nghèo, bần cùng
+- xấu, tồi, kém, yếu
+
++ poor soil: đất xấu
+
++ to be poor at mathematics: kém toán
+- thô thiển
+
++ in my poor opinion: theo thiển ý của tôi
+- đáng thương, tội nghiệp
+- đáng khinh, tầm thường, không đáng kể
+- hèn nhát, hèn hạ
+
+@poor-box  
+*  dt
+- hộp đựng của bố thí ((thường) để ở cửa nhà thờ)
+
+@poor-house  
+*  dt
+- nhà tế bần
+
+@poor-law  
+*  dt
+- luật tế bần
+
+@poorly  
+*  dt
+- nghèo nàn, thiếu thốn
+- xoàng, tồi
+*  tt
+- không khoẻ, khó ở
+
++ to feel rather poorly: thấy người không được khoẻ
+
++ to look very poorly: trông có vẻ không khoẻ
+
+@poorness  
+*  dt
+- sự nghèo nàn
+- sự xoàng, sự tồi; sự kém
+
+@poor-rate  
+*  dt
+- thuế đánh để cứu trợ người nghèo
+
+@poor-spirited  
+*  tt
+- nhút nhát, nhát gan
+
+@poor-white
+* dt
+- người thuộc tầng lớp những người da trắng nghèo ở trong cộng động chủ yếu là người da đen (nhất là ở miền nam nước Mỹ)
+ @pooves
+* dt
+- người đàn ông ẻo lả; người tình dục đồng giới nam
+ @pop  
+*  dt
+- (thông tục) buổi hoà nhạc bình dân
+- đĩa hát bình dân; bài hát bình dân
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) poppa
+- tiếng nổ bốp, tiếng nổ lốp bốp
+- điểm, vết (đánh dấu cừu...)
+- (thông tục) rượu có bọt, đồ uống có bọt (sâm banh, nước chanh gừng...)
+- (từ lóng) sự cấm cố
+
++ in pop: đem cầm cố
+*  ndgt
+- nổ bốp
+- (: at) nổ súng vào, bắn
+
++ to pop at a bird: bắn con chim
+- thình lình thụt vào, thình lình thò ra, vọt, bật, tạt...
+
++ to pop down: thụt xuống
+
++ to pop in: thụt vào, tạt vào (thăm ai)
+
++ to pop out: thình lình thò ra, vọt ra, bật ra
+
++ to pop up: vọt lên, bật lên
+*  ngdgt
+- làm nổ bốp; nổ (súng...)
+- thình lình làm thò ra, thình lình làm vọt ra, thình lình làm bật ra...
+
++ to pop one's head in: thò đầu vào thình lình
+- hỏi thình lình, hỏi chộp (một câu hỏi)
+- (từ lóng) cấm cố
+- (từ Mỹ,nghĩa Mỹ) rang nở (ngô)
+!to pop off
+- (từ Mỹ,nghĩa Mỹ) bỏ đi bất thình lình
+- (từ Mỹ,nghĩa Mỹ) nói giận dữ không suy nghĩ
+- (từ lóng) nghèo (chết) bất thình lình
+!to pop the question
+- (thông tục) dạm hỏi, gạ hỏi (làm vợ)
+*  dt
+- bốp, đánh bốp một cái
+
++ to go pop: bật ra đánh bốp một cái
+
++ pop went the cork: nút chai bật ra đánh bốp một cái
+*  thán từ
+- đốp!, bốp!
+
+@pop art
+* dt
+- kiểu nghệ thuật dựa trên nền văn hoá dân gian và truyền thông đại chúng (giống hình thức quảng cáo, tranh truyện liên hoàn  phát triển vào những năm 1960)
+ @pop festival
+* dt
+- liên hoan nhạc pốp
+ @pop group
+* dt
+- nhóm nhạc pốp
+ @popcorn  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) ngô rang n
+
+@pope  
+*  dt
+- giáo hoàng
+- giáo trưởng
+- (nghĩa bóng) người ra vẻ không bao giờ có thể sai lầm
+!pope's eye
+- nhân mỡ béo ở đùi cừu
+!pope's head
+- chổi tròn cán dài
+!pope's nose
+- (xem) nose
+*  dt ((cũng) poop)
+- bẹn, vùng bẹn
+
++ to take someone's pope: đánh vào bẹn ai
+*  ngdgt ((cũng) poop)
+- đánh vào bẹn (ai)
+
+@popedom  
+*  dt
+- chức giáo hoàng
+
+@popery  
+*  dt
+- chế độ giáo hoàng; giáo hội La-mã ((thường) ngụ ý đả kích, giễu...)
+
++ no popery!: phế bỏ cái chế độ giáo hoàng đi!
+
+@pop-eyed  
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) mắt mở thao láo, mắt mở tròn xoe, trợn tròn mắt
+- mắt lồi ra
+
+@popgun  
+*  dt
+- súng trẻ con chơi (bắn nút chai...)
+- súng tồi
+
+@popinjay  
+*  dt
+- kẻ hợm mình, kẻ kiêu căng, kẻ dương dương tự đắc
+- (từ cổ,nghĩa cổ) con vẹt
+- (sử học) hình con vẹt ở đầu sào (làm đích tập bắn)
+- (tiếng địa phương) chim gõ kiến
+
+@popish  
+*  tt
+- (thuộc) giáo hoàng
+
+@popishly
+- xem popish
+ @popishness
+- xem popish
+ @poplar  
+*  dt
+- (thực vật học) cây bạch dương
+!trembling poplar
+- (thực vật học) cây dương rung (có cuống lá dẹt khiến lá rung rinh khi gió thoảng)
+
+@poplin  
+*  dt
+- vải pôpơlin
+
+@popliteal  
+*  tt
+- (giải phẫu) (thuộc) vùng kheo
+
+@poplitei  
+*  dt,  số nhiều poplitei  @popliteus  
+*  dt,  số nhiều poplitei  @pop-off  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người nói bừa bãi không suy nghĩ
+
+@popover
+* dt
+- bánh làm bằng bột nhão có hình vỏ sò mỏng
+ @poppa  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) ba, b
+
+@poppadam
+* dt cũng poppadom,  popadam
+- bánh mì có gia vị ăn với cari
+ @popper
+- khuy bấm (khuy nhỏ cho quần áo có hai mảnh ấn vào nhau)
+ @poppet  
+*  dt
+- (thông tục) người nhỏ bé ((thường) dùng để gọi thân mật)
+
++ my poppet: em bé thân yêu
+- (kỹ thuật) đầu máy tiện
+
+@poppet-head  
+*  dt
+- (kỹ thuật) đầu máy tiện
+
+@poppet-valve  
+*  dt
+- (kỹ thuật) van đĩa
+
+@poppied  
+*  tt
+- có trồng cây thuốc phiện
+- làm ngủ được
+
+@popple  
+*  dt
+- sự cuồn cuộn, sự xô giạt, sự nhấp nhô, sự gợn sóng (sóng, nước...)
+*  ndgt
+- cuồn cuộn, xô giạt, nhấp nhô (sóng, nước...)
+
+@popply  
+*  tt
+- cuồn cuộn, xô giạt, nhấp nhô, gợn sóng (sóng, nước...)
+
+@poppy  
+*  dt
+- (thực vật học) cây thuốc phiện
+
+@poppycock  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chuyện vớ vẩn, chuyện nhảm nhí, chuyện vô nghĩa lý; điều vớ vẩn, điều nhảm nhí, điều vô nghĩa lý
+
+@popshop  
+*  dt
+- hiệu cầm đ
+
+@popsicle
+* dt
+- <Mỹ> kem que
+ @popsy   (popsy-wopsy) @popsy-wopsy   (popsy-wopsy) @populace  
+*  dt
+- dân chúng, quần chúng
+
+@popular  
+*  tt
+- (thuộc) nhân dân, của nhân dân, do nhân dân
+
++ a popular insurection: cuộc khởi nghĩa của nhân dân
+- bình dân
+
++ the popular front: mặt trận bình dân
+- có tính chất đại chúng, hợp với nhân dân, hợp với trình độ nhân dân, phổ cập
+
++ popular language: ngôn ngữ đại chúng
+
++ popular sciene: khoa học phổ cập
+
++ at popular prices: với giá rẻ (hợp với túi tiền của nhân dân)
+- được lòng dân, được nhân dân yêu mến, được mọi người ưa thích, phổ biến, nổi tiếng
+
++ a popular song: bài hát phổ biến
+
++ a popular book: một quyển sách được mọi người ưa thích
+
++ a popular writer: nhà văn nổi tiếng, nhà văn được mọi người yêu mến
+
+@popular front
+* dt
+- mặt trận bình dân
+ @popularisation
+* dt
+- sự đại chúng hoá
+- sự truyền bá, sự phổ cập; sự phổ biến
+- sự làm cho quần chúng ưa thích, sự làm cho nhân dân yêu mến
+- sự mở rộng (quyền bầu cử...) cho nhân dân
+ @popularise   (popularise) @popularity  
+*  dt
+- tính đại chúng
+- tính phổ biến
+
++ the popularity of table tennis: tính phổ biến của môn bóng đá
+- sự nổi tiếng, sự yêu mến của nhân dân; sự ưa thích của quần chúng
+
++ to win popularity: được quần chúng ưa thích, được nhân dân yêu mến
+
+@popularization  
+*  dt
+- sự đại chúng hoá
+- sự truyền bá, sự phổ biến
+- sự làm cho quần chúng ưa thích, sự làm cho nhân dân yêu mến
+- sự mở rộng (quyền bầu cử...) cho nhân dân
+
+@popularize   (popularise) @popularizer
+- xem popularize
+ @popularly  
+*  dt
+- với tính chất đại chúng, với tính chất quần chúng
+- được quần chúng ưa thích, được nhân dân yêu mến
+
+@populate  
+*  ngdgt
+- ở, cư trú (một vùng)
+
++ a densely populated town: một thành phố đông dân
+- đưa dân đến 
+
+@population  
+*  dt
+- số dân
+
++ population explosion: sự tăng dân số ồ ạt và nhanh chóng
+- (the population) dân cư
+
+@Population
+- (Econ) Dân số
+ @population
+- dân số; tập hợp
+- continuous p. (thống kê) tập hợp liên tục
+- dichotomous p. (thống kê) tập hợp lưỡng phân
+- finite p. (thống kê) tập hợp hữu hạn
+- hibrid p. (thống kê) tập hợp lai giống
+- hypothetic(al) p. (thống kê) tập hợp giả định
+- infinite p. (thống kê) tập hợp vô hạn
+- mixed p. (thống kê) tập hợp hỗn tạp
+- non-normal p. (thống kê) tập hợp không chuẩn 
+- parent p. (thống kê) tập hợp tổng quát 
+ @Population explosion
+- (Econ) Bùng nổ dân số.
+: Tên gọi tỷ lệ tăng trưởng ngày một lớn hơn của dân số thế giới, đặc biệt ở các nước đang phát triển.
+ @population explosion
+* dt
+- sự bùng nổ dân số (do tỉ lệ tăng dân quá nhanh)
+ @Population policy
+- (Econ) Chính sách dân số.
+: Một chính phủ có thể đặt ra một chính sách cụ thể liên quan đến mức dân số do chính phủ cai quản.
+ @Population trap
+- (Econ) Bẫy dân số.
+: Cũng còn gọi là bẫy cân bằng mức thấp. Một nền kinh tế có mức thu nhập tính theo đầu người thấp có thể thấy rõ ràng tỷ lệ tăng trưởng dân số vượt quá mức tỷ lệ tăng trưởng của thu nhập thực tế.
+ @populi  
+*  dt (số nhiều voces)
+- tiếng
+
++ vox populi: tiếng nói của nhân dân, dư luận quần chúng
+
+@populism  
+*  dt
+- chủ nghĩa dân tuý
+
+@populist  
+*  dt
+- (sử học) người theo phái dân tuý (Nga)
+- người theo phái dân kiểm (Mỹ)
+
+@populous  
+*  tt
+- đông dân
+
+@populously
+* dt
+- đông dân
+ @populousness  
+*  dt
+- sự đông dân
+
+@pop-up
+* tt
+- xoè ra (về trang sách)
+- (thuộc ngữ) vận hành làm cho bánh mì nhanh chóng phồng lên khi cho vào lò (về lò nướng bánh tự động)
+ @porbeagle  
+*  dt
+- (động vật học) cá nhám hồi
+
+@porcelain  
+*  dt
+- sứ
+- đồ sứ
+- (định ngữ) sứ, bằng sứ; (nghĩa bóng) mỏng manh, dễ vỡ
+
++ porcelain enamel: men s
+
+@porcelain clay  
+*  dt
+- caolin
+
+@porcelainise   (porcelainize) @porcelainize
+* ngdgt
+- làm thành sứ
+ @porcelainous   (porcellaneous) @porcelaneous
+- xem porcelain
+ @porcellain-shell  
+*  dt
+- (động vật học) ốc tiền
+
+@porcellaneous   (porcellaneous) @porcellanic   (porcellaneous) @porcellanous   (porcellaneous) @porch  
+*  dt
+- cổng (ra vào); cổng vòm
+- (từ Mỹ,nghĩa Mỹ) hành lang
+- (the porch) cổng vòm ở thành A-ten (nơi Giê-non truyền bá triết lý cho các môn đệ); trường phái cấm dục của Giê-non); triết lý cấm dục của Giê-non
+
+@porcine  
+*  tt
+- (thuộc) lợn; như lợn
+
+@porcupine  
+*  dt
+- (động vật học) con nhím (thuộc loại gặm nhấm)
+- (kỹ thuật) máy chải sợi gai
+- (định ngữ) như con nhím, có lông cứng như nhím
+
++ porcupine fish: ca nóc nhím
+
++ porcupine grass: cỏ nhím
+
+@porcupinish  
+*  tt
+- như con nhím
+
+@pore  
+*  ndgt
+- ((thường) : over,  upon) mải mê nghiên cứu; (nghĩa bóng) nghiền ngẫm
+
++ to pore over a book: mải mê nghiên cứu một cuốn sách
+
++ to pore upon a problem: nghiền ngẫm một vấn đề
+- (từ cổ,nghĩa cổ) ((thường) : at,  on,  over) nhìn sát vào, nhìn đăm đăm vào
+*  ngdgt
+- nhìn sát
+
++ to pore one's eyes out: cúi nhìn sát làm mỏi mắt
+*  dt
+- lỗ chân lông
+
+@Porfolio
+- (Econ) Danh mục đầu tư.
+: Tập hợp các tài sản của một cá nhân hoặc tổ chức.
+ @Porfolio balance approach
+- (Econ) Phương pháp cân đối danh mục đầu tư.
+: Một phương pháp phân tích tiền tệ nhấn mạnh vào ý nghĩa các quyết của những người có tài sản về thành phần danh mục đầu tư của họ.
+ @Porfolio balance approach to the balance of payments  tỷ giá hối đoái.
+: Một phương án của phương pháp tiền tệ đối với cán cân thanh toán cho rằng các tài sản là các vật thay thế không hoàn hảo.
+@Porfolio diversification
+- (Econ) Sự đa dạng hoá danh mục đầu tư.
+: Xem DIVERSIFIER.
+ @porge  
+*  ngdgt
+- lọc sạch hết gân (súc vật làm lễ tế thần) (đạo Do thái)
+
+@porgy  
+*  dt
+- (động vật học) cá mùi
+
+@poriferous  
+*  tt
+- có nhiều lỗ chân lông
+
+@pork  
+*  dt
+- thịt lợn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tiền của; chức vị; đặc quyền đặc lợi của nhà nước (các nhà chính trị lạm dụng để đỡ đầu cho ai...)
+
+@pork pie  
+*  dt
+- pa-tê lợn
+
+@pork-barrel
+* dt
+- tiền của chính phủ (chi cho các công trình địa phương nhằm để giành phiếu bầu)
+ @pork-butcher  
+*  dt
+- chủ hàng thịt lợn
+
+@pork-chop  
+*  dt
+- sườn lợn
+
+@porker  
+*  dt
+- lợn thịt, lợn vỗ béo để làm thịt
+
+@porkling  
+*  dt
+- lợn con, lợn nh
+
+@pork-pie hat  
+*  dt
+- mũ chỏm tròn cong vành
+
+@porky  
+*  tt
+- (thuộc) lợn; như lợn
+- (thông tục) béo, lắm thịt
+
+@porn
+* dt
+- sự khiêu dâm; hành động khiêu dâm
+- sách báo khiêu dâm
+ @porno
+* tt
+- <thgt> khiêu dâm; có liên quan đến sách báo khiêu dâm
+ @pornographer  
+*  dt
+- người viết sách báo khiêu dâm
+
+@pornographic  
+*  tt
+- khiêu dâm
+
+@pornographically
+* dt
+- khiêu dâm; có liên quan đến sách báo khiêu dâm
+ @pornography  
+*  dt
+- văn khiêu dâm; sách báo khiêu dâm
+
+@porny
+- xem porn
+ @poroplastic  
+*  tt
+- (y học) xốp dẻo
+
+@porosity   (porousness) @porosity
+- (vật lí) tính xốp
+ @porous  
+*  tt
+- rỗ, thủng tổ ong
+- xốp
+
+@porous
+- xốp
+ @porously
+- xem porous
+ @porousness   (porousness) @porphyry  
+*  dt
+- (khoáng chất) Pocfia
+
+@porpoise  
+*  dt
+- (động vật học) cá heo
+*  ndgt
+- (hàng không) bay rập rình
+- (từ Mỹ,nghĩa Mỹ) chồm lên qua mặt nước (thuyền máy)
+- (từ Mỹ,nghĩa Mỹ) nổi lên mặt nước (thuỷ lôi)
+
+@porraceous  
+*  tt
+- xanh màu lá tỏi tây
+
+@porridge  
+*  dt
+- cháo yến mạch
+!to keep one's breath to cool one's porridge
+- hây khuyên lấy bản thân mình
+
+@porridgy
+- xem porridge
+ @porriginous  
+*  tt
+- (y học) (thuộc) chứng hói; hói
+
+@porrigo  
+*  dt
+- (y học) chứng hói
+
+@porringer  
+*  dt
+- bát ăn cháo, tô ăn cháo
+
+@port  
+*  dt
+- cảng
+
++ close port: cảng ở cửa sông
+- (nghĩa bóng) nơi ẩn náu; nơi tỵ nạn
+*  dt
+- (Ê-cốt) cổng thành
+- (hàng hải) cửa tàu (để ra vào, bốc xếp hàng hoá...)
+- (hàng hải),  (như) porthole
+- (kỹ thuật) lỗ thông hơi, thông gió, hút nước, tháo nước...)
+- đầu cong của hàm thiếc (ngựa)
+*  dt
+- dáng, bộ dạng, tư thế
+- (quân sự) tư thế cầm chéo súng (để khám)
+*  ngdgt
+- (quân sự) cầm chéo (súng, để khám)
+
++ port arms!: chuẩn bị khám súng!
+*  dt
+- rượu pooctô, rượu vang đỏ ((cũng) port wine)
+*  dt
+- (hàng hải) mạn trái (tàu)
+
++ to put the helm to port: quay bánh lái sang trái
+- (định ngữ) trái, bên trái
+
++ on the port bow: ở mạn trái đằng mũi
+*  ngdgt
+- (hàng hải) quay (bánh lái...) sang trái
+*  ndgt
+- lái sang phía trái (tàu)
+
+@port of call
+* dt
+- cảng ghé (nơi tàu dừng trong chuyến đi biển xa)
+- <thgt> trạm dừng chân (nhất là một cuộc hành trình)
+ @port wine
+* dt
+- rượu pooctô, rượu vang đỏ ngọt nặng (ở Bồ Đào Nha)
+ @portability  
+*  dt
+- tính dễ mang theo, tính xách tay được
+
+@portable  
+*  tt
+- có thể mang theo, xách tay
+
++ portable radio: máy thu thanh xách tay
+- di động
+
++ portable furnace: lò di động
+
+@portableness
+- xem portable
+ @portably
+- xem portable
+ @portage  
+*  dt
+- sự mang, sự khuân vác, sự chuyên chở
+- tiền khuân vác, tiền chuyên chở
+- sự chuyển tải (sự khuân vác thuyền, hàng hoá... qua một quâng đường giữa hai con sông, hoặc qua một khúc sông không đi lại được) quâng đường phải chuyển tải, khúc sông phải chuyển tải
+*  ngdgt
+- chuyển tải
+
+@portakabin
+* dt
+- phòng, nhà làm sẵn
+ @portal  
+*  dt
+- cửa chính, cổng chính
+- (từ Mỹ,nghĩa Mỹ) khung cần trục
+*  tt
+- (giải phẫu) cửa
+
++ portal vein: tĩnh mạch cửa
+
+@portal vein
+* dt
+- <phẫu> tựnh mạch cửa
+ @portamento  
+*  dt
+- (âm nhạc) sự dướn hơi
+- luyến ngắt
+
+@portative  
+*  tt
+- để mang, để xách, để đỡ
+- mang theo được, xách tay được
+
+@portcrayon   (portcrayon) @portcullis  
+*  dt
+- khung lưới sắt (kéo lên kéo xuống được ở cổng thành)
+
+@porte-cochre
+* dt
+- lối cổng cho xe ra vào (có mái che)
+ @porte-cochère  
+*  dt
+- lối cổng cho xe ra vào (có mái che)
+
+@porte-crayon   (portcrayon) @porte-monnaie  
+*  dt
+- ví (tiền)
+
+@portend  
+*  ngdgt
+- báo điểm, báo trước
+- báo trước
+
++ this wind portends rain: gió này báo trước có mưa
+*  dt
+- điềm, triệu
+- điều kỳ diệu, điều kỳ lạ
+
+@portent
+* dt
+- điềm báo thường là gở, xấu trong tương lai
+ @portentous  
+*  tt
+- gở, báo điềm gở, báo điềm xấu
+- kỳ diệu, kỳ lạ
+- (từ Mỹ,nghĩa Mỹ) vênh vang ra vẻ ta đây quan trọng, dương dương tự đắc (người)
+
+@portentously
+* dt
+- (thuộc) điềm báo, báo điềm gở
+- trang trọng một cách phô trương
+- kỳ diệu, kỳ lạ
+- <Mỹ> vênh vang ra vẻ ta đây quan trọng, dương dương tự đắc (người)
+ @portentousness
+- xem portentous
+ @porter  
+*  dt
+- người gác cổng
+*  dt
+- công nhân khuân vác
+- rượu bia đen
+
+@porterage  
+*  dt
+- công việc khuân vác; nghề khuân vác
+- tiền công khuân vác
+
+@porter-house  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) quán bia đen
+- thịt bít tết loại một ((cũng) porter-house steak)
+
+@porterhouse steak
+* dt
+- thịt bò bít tết loại một
+ @porter's knot  
+*  dt
+- cái đệm vai (của công nhân khuân vác)
+
+@porter's lodge
+* dt
+- phòng trực
+- nhà bảo vệ
+ @portfire  
+*  dt
+- dây cháy (mìn...)
+
+@portfolio  
+*  dt,  số nhiều portfolios  @porthole  
+*  dt
+- (hàng hải) lỗ cửa sổ (ở thành tàu)
+- (sử học) lỗ đặt nòng súng đại bác (ở thành tàu)
+
+@portico  
+*  dt,  số nhiều porticos  @porticoed
+- xem portico
+ @portion  
+*  dt
+- phần, phần chia
+- phần thức ăn (đựng ở đĩa đem lên cho khách, ở quán ăn)
+- của hồi môn
+- số phận, số mệnh
+*  ngdgt
+- ((thường) : out) chia thành từng phần, chia ra
+- chia phần cho, phân phối
+
++ to portion something to somebody: chia phần cái gì cho ai
+- cho của hồi môn
+
+@portion
+- một phần, một khúc, một đoạn
+- p. of series khúc của chuỗi 
+ @portionable
+- xem portion
+ @portioner
+- xem portion
+ @portionless  
+*  tt
+- không có của hồi môn
+
+@portière  
+*  dt
+- màn treo ở cửa ra vào
+
+@portland   (Portland_cement) @portland cement   (Portland_cement) @portland stone
+* dt
+- đá pooclăng (đá vôi trắng vàng nhạt dùng trong xây dựng)
+ @portliness  
+*  dt
+- vẻ béo tốt đẫy đà
+- dáng bệ vệ
+
+@portly  
+*  tt
+- béo tốt, đẫy đà
+- bệ vệ
+
+@portmanteau  
+*  dt,  số nhiều portmanteaus  @portmanteau word
+* dt
+- từ kết hợp (kết hợp những phần của hai chữ và nghĩa thành một chữ có nghĩa)
+ @portmanteaux  
+*  dt,  số nhiều portmanteaus  @portrait  
+*  dt
+- chân dung, ảnh
+- hình tượng, điển hình
+- sự miêu tả sinh động
+
+@portrait painter
+* dt
+- người vẽ tranh chân dung, hoạ sự vẽ chân dung
+ @portraitist  
+*  dt
+- hoạ sĩ vẽ chân dung
+
+@portraiture  
+*  dt
+- cách vẽ chân dung
+- tập chân dung
+- sự miêu tả sinh động
+
+@portray  
+*  ngdgt
+- vẽ chân dung
+- miêu tả sinh động
+- (từ Mỹ,nghĩa Mỹ) đóng vai
+
+@portrayable
+- xem portray
+ @portrayal  
+*  dt
+- sự vẽ chân dung; bức chân dung
+- sự miêu tả
+
+@portrayer
+- xem portray
+ @portreeve  
+*  dt
+- phó thị trưởng
+- (sử học) thị trưởng
+
+@portress  
+*  dt
+- bà gác cửa, bà gác cổng
+
+@portuguese  
+*  tt
+- (thuộc) Bồ-đào-nha
+*  dt
+- người Bồ-đào-nha
+- tiếng Bồ-đào-nha
+
+@posable
+- xem pose
+ @pose  
+*  dt
+- tư thế (chụp ảnh...), kiểu
+- bộ tịch, điệu bộ màu mè; thái độ màu mè
+- sự đặt; quyền đặt (quân đôminô đầu tiên)
+*  ngdgt
+- đưa ra (yêu sách...) đề ra (luận điểm)
+- đặt (câu hỏi)
+- sắp đặt (ai...) ở tư thế (chụp ảnh, làm mẫu vẽ...)
+- đặt (quân đôminô đầu tiên)
+*  ndgt
+- đứng (ở tư thế), ngồi ở tư thế (chụp ảnh, làm mẫu vẽ...)
+- làm điệu bộ, có thái độ màu mè)
+- (: as) làm ra vẻ, tự cho là
+
++ to pose as connoisseur: tự cho mình là người sành sỏi
+*  ngdgt
+- truy, quay, hỏi vặn (ai); làm (ai) cuống làm (ai) bối rối bằng những câu hắc búa
+
+@pose
+- đặt
+ @poser  
+*  dt
+- câu hỏi hắc búa; vấn đề hắc búa
+
+@poseur  
+*  dt
+- người điệu bộ, người màu mè
+
+@posh  
+*  tt
+- (từ lóng) chiến, cừ, sang trọng
+
+@poshly
+- xem posh
+ @poshness
+- xem posh
+ @posilogy  
+*  dt
+- môn dược lượng
+- toán học (thuật ngữ của Ben-tham, nhà luật học và triết học Anh thế kỷ 18 19)
+
+@posit  
+*  ngdgt
+- thừa nhận, cho là đúng
+- đặt, đặt ở vị trí
+
+@posit
+- khẳng định, đặt cơ sở
+ @position  
+*  dt
+- vị trí, chỗ (của một vật gì)
+
++ in position: đúng chỗ, đúng vị trí
+
++ out of position: không đúng chỗ, không đúng vị trí
+- (quân sự) vị trí
+
++ to attack an enemy's: tấn công một vị trí địch
+- thế
+
++ a position of strength: thế mạnh
+
++ to be in an awkward position: ở vào thế khó xử
+
++ to be in a false position: ở vào thế trái cựa
+
++ to be in a position to do something: ở vào một cái thế có thể làm gì, có khả năng làm gì
+- tư thế
+
++ eastward position: tư thế đứng hướng về phía đông (của linh mục khi làm lễ)
+- địa vị; chức vụ
+
++ social position: địa vị xã hội
+
++ a man of high position: người có địa vị cao
+
++ to take a position as typist: nhận một chức đánh máy
+- lập trường, quan điểm, thái độ
+- luận điểm; sự đề ra luận điểm
+*  ngdgt
+- đặt vào vị trí
+- xác định vị trí (cái gì...)
+- (quân sự) đóng (quân ở vị trí)
+
+@position
+- vị trí; tình hình; lập trường
+- check p. (máy tính) vị trí kiểm tra 
+- limiting p. vị trí giới hạn
+- perspective p. (hình học) vị trí phối cảnh
+- vertical p. vị trí thẳng đứng 
+ @positional  
+*  tt
+- (thuộc) vị trí
+
+@positional
+- (thuộc) vị trí
+ @Positional good
+- (Econ) Hàng  hoá theo vị trí.
+: Một thuật ngữ của F.Hirsch sử dụng trong các giới hạn xã hội đối với tăng trưởng (1976) để chỉ một loại hàng hoá bị giới hạn về khả năng cung cấp tuyệt đối hoặc một cách tự nhiên hoặc thông qua các khía cạnh xã hội và có thể bị tắc nghẽn nếu sử dụng rộng rãi hơn.
+ @positionally
+- xem position
+ @positioner
+- xem position
+ @positioning
+- (máy tính) đặt vào vị trí
+ @positive  
+*  tt
+- xác thực, rõ ràng
+
++ a positive proof: một chứng cớ rõ ràng
+- quả quyết, khẳng định, chắc chắn
+
++ to be positive about something: quả quyết về một cái gì
+
++ a positive answer: một câu trả lời khẳng định
+- tích cực
+
++ a positive factor: một nhân tố tích cực
+- tuyệt đối; (thông tục) hoàn toàn, hết sức
+
++ he is a positive nuisance: thằng cha hết sức khó chịu
+- (vật lý); (toán học); (nhiếp ảnh) dương
+
++ positive pole: cự dương
+- (thực vật học) chứng
+
++ positive philosophy: triết học thực chứng
+- (ngôn ngữ học) ở cấp nguyên (chưa so sánh...) (tĩnh từ, dt)
+- đặt ra, do người đặt ra
+
++ positive laws: luật do người đặt ra (đối lại với luật tự nhiên)
+*  dt
+- điều xác thực, điều có thực
+- (nhiếp ảnh) bản dương
+- (ngôn ngữ học) cấp nguyên (của tĩnh từ, dt); tt ở cấp nguyên, dt ở cấp nguyên (chưa so sánh)
+
+@positive
+- dương   đại lượng dương
+@Positive bais
+- (Econ) Thiên lệch đồng biến.
+ @Positive correlation
+- (Econ) Tương quan đồng biến.
+ @Positive economics
+- (Econ) Kinh tế học thực chứng.
+: Bộ phận khoa học kinh tế quan tâm đến các định đề có thể kiểm tra được bằng đối chiếu với thực tế.
+ @positive pole
+* dt
+- dương cực, cực dương của một bình điện
+- cực bắc của nam châm
+ @positively  
+*  dt
+- xác thực, rõ ràng
+- quả quyết, khẳng định, chắc chắn
+- tích cực
+- tuyệt đối
+
+@positively
+- dương
+ @positiveness   (positivity) @positivism  
+*  dt
+- (triết học) chủ nghĩa thực chứng
+
+@Positivism
+- (Econ) Chủ nghĩa thực chứng.
+: Học thuyết triết học cho rằng các định đề mà không thể xác minh được khi đối chiếu với bằng chứng thực tiễn thì chí ít phải coi là không thể chấp nhận được như là một bộ phận của khoa học hoặc ở mức cao nhất là vô nghĩa.
+ @positivist  
+*  dt
+- (triết học) nhà thực chứng
+
+@positivistic  
+*  tt
+- (thuộc) chủ nghĩa thực chứng
+
+@positivity   (positivity) @positivity
+- tính dương
+ @positron  
+*  dt
+- (vật lý) pozitron
+
+@positron
+- (vật lí) pôzitron
+ @posse  
+*  dt
+- đội (cảnh sát)
+- đội vũ trang
+
+@possess  
+*  ngdgt
+- có, chiếm hữu
+
++ to possess good qualities: có những đức tính tốt
+
++ to be possessed of something: có cái gì
+
++ to possess oneself of: chiếm, chiếm đoạt, chiếm lấy, chiếm hữu
+
++ to possess oneself od someone's fortune: chiếm đoạt tài sản của ai
+
++ to possess oneself: tự chủ
+- ám ảnh (ma quỷ...)
+
++ to be possessed with (by) a devil: bị ma quỷ ám ảnh
+
++ to be possessed with (by) and idea: bị một ý nghĩ ám ảnh
+
++ what possesses you to do such as a thing?: cái gì đã ám ảnh anh khiến anh làm điều đó
+!like all possessed
+- (từ Mỹ,nghĩa Mỹ) hết sức hăng hái, hết sức sôi nổi
+!to possess one's soul (one's mind)
+- tự chủ được
+
+@possess
+- có
+ @possession  
+*  dt
+- quyền sở hữu; sự chiếm hữu
+
++ to be in possession in of: có, có quyền sở hữu
+
++ in the possession of somebody: thuộc quyền sở hữu của ai
+
++ to take possession of: chiếm hữu, chiếm lấy
+- vật sở hữu; tài sản, của cải
+
++ my personal possession: của cải riêng của tôi
+- thuộc địa
+
++ French possession: thuộc địa Pháp
+
+@possession
+- sự sở hữu; (toán kinh tế) tài sản; chế độ sở hữu
+ @possessional
+- xem possession
+ @possessive  
+*  tt
+- sở hữu, chiếm hữu
+- tỏ ý muốn có, tỏ ý muốn chiếm hữu
+- khư khư giữ của, khư khư giữ lấy cho riêng mình
+
++ a possessive mother: người mẹ cứ khư khư giữ lấy con mình
+- (ngôn ngữ học) sở hữu
+
++ the possessive case: cách sở hữu
+
++ possessive pronoun: đại từ sở hữu
+*  dt
+- (ngôn ngữ học) cách sở hữu
+- từ sở hữu (tt, đại từ...)
+
+@possessively
+* dt
+- sở hữu, chiếm hữu
+- tỏ ý muốn có, tỏ ý muốn chiếm hữu
+- ích kỷ, không muốn chia xẻ với ai; đòi hỏi sự quan tâm, đối xử (ai) như thể mình là chủ của họ
+- <ngôn> sở hữu
+ @possessiveness
+* dt
+- sự sở hữu, sự chiếm hữu
+- hành động tỏ ý muốn có, hành động tỏ ý muốn chiếm hữu
+- sự ích kỷ, tình trạng không muốn chia xẻ với ai; sự đòi hỏi (sự quan tâm), tình trạng đối xử (ai) như thể mình là chủ của họ
+- <ngôn> tính sở hữu
+ @possessor  
+*  dt
+- người có, người có quyền sở hữu, người chiếm hữu
+
+@possessory  
+*  tt
+- thuộc quyền sở hữu, chiếm hữu
+
+@posset  
+*  dt
+- sữa đặc nóng hoà với rượu và hương liệu (xưa dùng làm thuốc chữa cảm lạnh)
+
+@possibility  
+*  dt
+- sự có thể, tình trạng có thể, khả năng
+
++ possibility and reality: khả năng và hiện thực
+
++ to be within the bounds of possibility: trong phạm vi khả năng
+
++ there is a very fair possibility of his coming: rất có khả năng anh ấy đến
+
+@possibility
+- khả năng; tính có thể
+- consumption p. (toán kinh tế) khả năng tiêu dùng 
+ @possible  
+*  tt
+- có thể, có thể được, có thể làm được, có thể xảy ra
+
++ all possible means: mọi biện pháp có thể
+
++ is it possible?: có thể được không?
+
++ this is possible of realization: điều này có thể thực hiện được
+
++ come as early as possible: có thể đến sớm được chừng nào thì cứ đến; đến càng sớm càng tốt
+
++ if possible: nếu có thể
+
++ it is possible [that] he knows: có thể là hắn biết
+- có thể chơi (với) được, có thể chịu đựng được
+
++ only one possible man among them: trong cả bọn chỉ có một cậu khả dĩ có thể chơi (với) được
+*  dt
+- sự có thể
+
++ to do one's possible: làm hết sức mình
+- điểm số cao nhất có thể đạt được (tập bắn...)
+
++ to score a possible at 800 m: đạt điểm số cao nhất có thể được ở khoảng cách (bắn) 800 m
+- ứng cử viên có thể được đưa ra; vận động viên có thể được sắp xếp (vào đội...)
+
+@possible
+- có thể
+ @possibly  
+*  dt
+- có lẽ, có thể
+
++ they will possibly come, but I am not sure: có lẽ họ đến nhưng tôi không chắc lắm
+
++ he may possibly recover: có thể hắn sẽ bình phục
+
++ he cannot possibly do that: nó không thể làm việc ấy được
+
++ this can't possibly be: không thể là như thế được
+
+@possum  
+*  dt
+- (thông tục) thú có túi ôpôt ((cũng) opossum)
+!to play possum
+- vờ nằm im, giả chết
+
+@post  
+*  dt
+- cột trụ
+- vỉa cát kết dày
+- (ngành mỏ) cột than chống (để lại không khai thác để chống mỏ)
+!as deaf as a post
+- (xem) deaf
+!to be driven from pillar to post
+- (xem) pillar
+*  ngdgt
+- ((thường) : up) dán (yết thị, thông báo...); thông báo (việc gì, cho ai...) bằng thông cáo
+- dán yết thị lên, dán thông cáo lên (tường)
+- yết tên (học sinh thi hỏng...)
+- công bố tên (tàu bị mất tích, tàu về chậm...)
+*  dt
+- bưu điện
+
++ to send by post: gửi qua bưu điện
+- sở bưu điện, phòng bưu điện; hòm thư
+
++ to take a letter to the post: đem thư ra phòng bưu điện, đem thư bỏ vào hòm thư
+- chuyển thư
+
++ the post has come: chuyến thư vừa về
+
++ by return of post: gửi theo chuyến thư về
+
++ the general post: chuyến thư phát đầu tiên buổi sớm
+- (sử học) trạm thư; người đưa thư, xe thư
+- khổ giấy 50 x 40 cm; giấy viết thư khổ 50 x 40 cm
+*  ngdgt
+- đi du lịch bằng ngựa trạm
+- đi du lịch vội vã
+- vội vàng, vội vã
+*  ngdgt
+- gửi (thư...) qua bưu điện; bỏ (thư...) ở trạm bưu điện, bỏ (thư) vào hòn thư
+- (kế toán) vào sổ cái
+- ((thường) động tt quá khứ) thông báo đầy đủ tin tức cho (ai), cung cấp đầy đủ tin tức cho (ai) ((cũng) to post up);
+
++ to be well posted up in a question: được thông báo đầy đủ về một vấn đề gì
+*  dt
+- (quân sự) vị trí đứng gác
+
++ to be on post: đang đứng gác
+- (quân sự) vị trí đóng quân, đồn bốt; quân đóng ở đồn (bốt)
+- vị trí đóng quân, đồn, bốt, quân đóng ở đồn (bốt)
+- vị trí công tác, chức vụ, nhiệm vụ
+
++ to die at one's post: chết trong khi đang làm nhiệm vụ
+
++ to be given a post abroad: được giao một chức vụ ở nước ngoài
+- trạm thông thương buôn bán (ở những nước chậm tiến) ((cũng) trading post)
+- (hàng hải),  (sử học) chức vị chỉ huy một thuyền chiến (có từ 20 khẩu đại bác trở lên)
+!first post
+- (quân sự) lệnh kêu thu quân (về đêm)
+!last post quân nh first post
+- kèn đưa đám
+*  ngdgt
+- đặt, bố trí (lính gác)
+- (hàng hải),  (sử học) bổ nhiệm (ai) làm chỉ huy thuyền chiến (có từ 20 khẩu đại bác trở lên); bổ nhiệm (ai) làm chỉ huy
+
+@post captain  
+*  dt
+- (hàng hải) viên chỉ huy thuyền chiến (có từ 20 khẩu đại bác trở lên)
+
+@post exchange  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) ((viết tắt) P.X.) trạm bán hàng cho quân đội
+
+@post meridiem   (pip_emma) @post mortem  
+*  dt
+- sau khi chết
+*  tt
+- tt
+- sau khi chết
+
++ post_mortem examination: sự khám nghiệm sau khi chết
+*  dt
+- sự khám nghiệm sau khi chết
+- (thông tục) cuộc tranh luận sau khi tan cuộc (đánh bài)
+
+@postage  
+*  dt
+- bưu phí
+
+@postage stamp  
+*  dt
+- tem thư
+
+@postal  
+*  tt
+- (thuộc) bưu điện
+
++ postal card: (từ Mỹ,nghĩa Mỹ) bưu thiếp
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) bưu thiếp ((cũng) postal card)
+
+@postal code
+* dt
+- mã thư tín
+ @postal order
+* dt
+- thư chuyển tiền
+ @postally
+- xem postal
+ @post-bag  
+*  dt
+- túi thư
+
+@post-bellum  
+*  tt
+- sau chiến tranh
+
+@post-boat  
+*  dt
+- tàu the
+- tàu chở khách
+
+@post-box
+* dt
+- thùng thư, hòm thư
+ @post-boy  
+*  dt
+- người đưa thư
+- (như) postilion
+
+@postcard  
+*  dt
+- bưu thiếp
+
+@post-chaise   (post-coach) @post-coach   (post-coach) @postcode
+* dt
+- mã thư tín
+ @post-costal  
+*  tt
+- (giải phẫu) sau sườn
+
+@post-date  
+*  dt
+- ngày tháng để lùi lại về sau
+*  ngdgt
+- để lùi ngày tháng về sau
+
+@postdate
+* ngdgt
+- đề ngày tháng muộn hơn ngày tháng thực tế lên (bức thư, tài liệu...); đề lùi ngày tháng về sau
+
++  a postdated cheque:ngân phiếu đề lùi ngày tháng về sau (ngân phiếu này không thể rút tiền ra trước ngày tháng định sẵn)
+- ghi (cho một sự kiện) ngày tháng muộn hơn ngày tháng thực tế hoặc muộn hơn ngày tháng trước đây đã ghi
+- xảy ra vào ngày tháng chậm hơn (cái gì)
+ @post-diluvian  
+*  tt
+- sau nạn đại hồng thuỷ
+*  dt
+- người sống sau nạn đại hồng thu
+
+@poste restante  
+*  dt
+- bộ phận giữ lưu thư
+
+@poster  
+*  dt
+- áp phích; quảng cáo
+- người dán áp phích, người dán quảng cáo ((cũng) bill-poster)
+
+@poster colour
+* dt
+- tranh áp phích
+ @poster paint
+* dt
+- tranh áp phích
+ @posterior  
+*  tt
+- sau (về thời gian và thứ tự), ở sau, đến sau
+
++ events posterior to the years 1945: các sự kiện xảy ra sau năm 1945
+*  dt
+- mông đít
+
+@posterior
+- sau, hậu nghiệm
+ @Posterior distribution
+- (Econ) Phân phối sau.
+: Phân phối xác suất của một biến số hoặc thống kê là kết quả của sự phối hợp giữa phân phối trước và thông tin mẫu trong kỹ thuật BAYES.
+ @posteriority  
+*  dt
+- tính chất ở sau, tính chất đến sau
+
+@posteriorly
+- xem posterior
+ @posterity  
+*  dt
+- con cháu; hậu thế
+
+@postern
+* dt
+- lối hậu; lối vào bên cạnh, lối vào đằng sau (nhất là lối vào kín đáo của lâu đài)
+ @postfix  
+*  dt
+- (ngôn ngữ học) hậu tố
+*  ngdgt
+- (ngôn ngữ học) thêm hậu t
+
+@postfixal
+- xem postfix
+ @postfixial
+- xem postfix
+ @postfox notation
+- kí pháp sau
+ @post-free  
+*  tt
+- miễn bưu phí
+
+@post-glacial  
+*  tt
+- (địa lý,địa chất) sau thời kỳ sông băng
+
+@post-graduate  
+*  tt
+- sau khi tốt nghiệp
+
++ a post-graduate student: nghiên cứu sinh
+*  dt
+- nghiên cứu sinh
+
+@postgraduate
+* tt
+- sau khi tốt nghiệp đại học, sau đại học
+* dt'
+- nghiên cứu sinh (người đang học sau đại học)
+ @post-haste  
+*  dt
+- cấp tốc
+
++ come post-haste: đến cấp tốc
+
+@post-horse  
+*  dt
+- ngựa trạm
+
+@post-house  
+*  dt
+- trạm bưu điện
+
+@posthumous  
+*  tt
+- sau khi chết
+
++ posthumous works: tác phẩm xuất bản sau khi chết
+
++ posthumous child: em bé sinh sau khi bố chết
+
+@posthumously
+- xem posthumous
+ @posthumousness
+- xem posthumous
+ @postilion   (postillion) @postillion   (postillion) @post-impressionism
+* dt
+- chủ nghĩa Hậu ấn tượng trong hội hoạ
+ @Post-Keynesian economics
+- (Econ) Kinh tế học Hậu-Keynes; Kinh tế học sau Keynes.
+: Một nhóm các nhà kinh tế học coi sự nhìn nhận của J.M.KEYNES và M.KALECKI là khởi điểm của một sự phê bình phân tích sự cân bằng thông thường và là cơ sở cho môn kinh tế học vĩ mô mới.
+ @postman  
+*  dt
+- người đưa thư
+
+@postmark  
+*  dt
+- dấu bưu điện
+*  ngdgt
+- đóng dấu bưu điện
+
+@postmaster  
+*  dt
+- giám đốc sở bưu điện; trưởng phòng bưu điện
+
+@postmaster general  
+*  dt
+- bộ trưởng bộ bưu điện
+
+@postmastership
+- xem postmaster
+ @postmistress  
+*  dt
+- bà giám đốc sở bưu điện; bà trưởng phòng bưu điện
+
+@post-modern
+* tt
+- (nghệ thuật) chống lại chủ nghĩa hiện đại
+ @post-mortem
+* dt
+- sau khi chết
+* tt
+- sau khi chết
+* dt
+- sự khám nghiệm sau khi chết
+- <thgt> cuộc tranh luận sau khi tan cuộc <bài>
+ @post-multiplication
+- phép nhân thông thường (bắt đầu từ hàng thấp cấp)
+ @post-natal  
+*  tt
+- sau khi sinh
+
+@postnatal
+* tt
+- diễn ra sau khi sinh; về trẻ sơ sinh
+ @postnatally
+- xem postnatal
+ @post-nuptial  
+*  tt
+- sau khi cưới
+
+@post-obit  
+*  tt
+- có hiệu lực sau khi chết
+*  dt
+- giao kèo bảo đảm trả thế số nợ sau khi người vay nợ chết
+
+@post-office  
+*  dt
+- sở bưu điện; phòng bưu điện
+- (định ngữ) (thuộc) bưu điện
+
++ post-office savings-bank: quỹ tiết kiệm đặt ở phòng bưu điện
+!General Post Office
+- Bộ bưu điện
+
+@postoffice
+- bưu điện
+ @post-office box
+* dt
+- <vt>  PO box (hộp thư bưu điện)
+ @post-oral  
+*  tt
+- ở sau miệng
+
+@post-paid  
+*  tt
+- đã trả bưu phí
+
+@postpaid
+* tt
+- đã trả bưu phí
+ @postponable
+- xem postpone
+ @postpone  
+*  ngdgt
+- hoãn lại
+
++ to postpone the meeting: hoãn cuộc họp
+- (từ cổ,nghĩa cổ) đặt (cái gì) ở hàng thứ (sau cái khác); coi (cái gì) không quan trọng bằng (cái khác)
+*  ndgt
+- (y học) lên cơn muộn (sốt rét...)
+
+@postponement  
+*  dt
+- sự hoãn
+- (từ cổ,nghĩa cổ) sự đặt (cái gì) ở hàng thứ yếu, sự coi (cái gì) không quan trọng bằng (cái khác)
+
+@postponer
+- xem postpone
+ @postposition  
+*  dt
+- (ngôn ngữ học) từ đứng sau; yếu tố sau
+
+@postpositional   (postpositive) @postpositionally
+- xem postposition
+ @postpositive   (postpositive) @postpositively
+- xem postpositive
+ @post-postcript  
+*  dt
+- (thường) (viết tắt) P.P.S., tái, tái bút
+
+@postprandial  
+*  tt,  (thường), quya sau bữa cơm, sau khi no nê
+
++ a postprandial nap: giấc ngủ sau bữa cơm
+
++ postprandial eloquence: sự hùng hồn sau khi no nê
+
+@postprandially
+- xem postprandial
+ @postprocessor
+- hậu xử lý
+ @postscript  
+*  dt,  (viết tắt) P.S.
+- tái bút
+- bài nói chuyện sau bản tin (đài B.B.C.)
+
+@post-town  
+*  dt
+- tỉnh có nhà bưu điện
+
+@postulancy
+- xem postulant
+ @postulant  
+*  dt
+- người xin vào giáo hội
+
+@postulantship
+- xem postulant
+ @postulate  
+*  dt
+- (toán học) định đề
+
++  Euclid's postulate: định đề Ơ-clit
+- nguyên lý cơ bản
+*  ngdgt
+- yêu cầu, đòi hỏi
+- (toán học) đưa ra thành định đề, đặt thành định đề
+- coi như là đúng, mặc nhận
+- (tôn giáo) bổ nhiệm với điều kiện được cấp trên chuẩn y
+*  ndgt
+- (: for) đặt điều kiện cho, quy định
+
+@postulate
+- tiên đề
+- p. of completeness tiêu đề tính đầy đủ 
+ @postulation
+* dt
+- sự thừa nhận
+- sự yêu cầu, sự đòi hỏi
+- <tôn> sự bổ nhiệm
+ @postulation
+- (logic học) sự giả định
+ @postulational
+- (logic học) dựa vào định đề, dựa vào tiên đề
+ @postural
+- xem posture
+ @posture  
+*  dt
+- tư thế; dáng điệu, dáng bộ
+- tình thế, tình hình
+
++ the present posture of affairs: tình hình sự việc hiện nay
+*  ngdgt
+- đặt trong tư thế nhất định
+*  ndgt
+- lấy dáng, lấy tư thế, lấy điệu b
+
+@posture-maker  
+*  dt
+- diễn viên nhào lộn; người làm trò uốn mình, "người rắn" 
+
+@posture-master  
+*  dt
+- huấn luyện viên thể dục mềm dẻo
+
+@posturer
+- xem posture
+ @posturing
+* dt
+- việc làm dáng, làm điệu bộ; sự giả vờ (cư xử không chân thật)
+ @posturist
+- xem posture
+ @post-war  
+*  tt
+- sau chiến tranh
+
+@postwar
+* tt
+- hậu chiến; tồn tại sau chiến tranh, xảy ra sau chiến tranh
+
++  the postwar period of economic expansion:thời kỳ khuếch trương kinh tế sau chiến tranh
+
++  postwar developments in industry:những phát triển về công nghiệp thời hậu chiến
+ @Postwar credits
+- (Econ) Các tín dụng hậu chiến.
+: Một hình thức tiết kiệm bắt buộc được áp dung ở Anh trong chiến tranh thế giới thư hai trong ngâ sách năm 1941.
+ @posy  
+*  dt
+- bó hoa
+- (từ cổ,nghĩa cổ) đề từ khắc vào nhẫn, câu thơ khắc vào nhẫn
+
+@pot  
+*  dt
+- ấm, bình, lọ, chậu, hũ, vại, ca (uống nước); ấm (đầy), bình (đầy), lọ (đầy), chậu (đầy), hũ (đầy), ca (đầy)
+
++ a pot of tea: một ấm trà
+
++ a pot of porter: một ca bia đen
+- nồi
+- bô (để đi đái đêm)
+- chậu hoa
+- bình bạc, bình vàng (làm giải thưởng thể thao, điền kinh); (từ lóng) giải
+- cái chụp ống khói ((cũng) chimney pot); (từ lóng) mũ chóp cao
+- giỏ bắt tôm hùm ((cũng) lobster pot)
+- giấy khổ 39 x 31, 3 cm
+- số tiền lớn
+
++ to make a pot; to make a pot of money: làm được món bở, vớ được món tiền lớn
+- (từ lóng) số tiền lớn đánh cá (cá ngựa); ngựa đua hy vọng thắng
+
++ to put the pot on Epinard: dốc tiền đánh cá vào con E-pi-na
+!a big pot
+- quan to
+!to go to pot
+- hỏng bét cả; tiêu ma cả
+!to keep the pot boiling (on the boil)
+- làm cho trong nhà lúc nào cũng có gạo ăn, giữ cho bếp núc lúc nào cũng đỏ lửa ((nghĩa bóng))
+- tiếp tục làm gì một cách khẩn trương
+!to make the pot boil
+- làm ăn sinh sống kiếm cơm
+!the pot calls the kettle black
+- lươn ngắn lại chê chạch dài, thờn bơn méo miệng chê trai lệch mồm
+!watched pot never boils
+- (tục ngữ) cứ mong lại càng lâu đến, để ý lại càng sốt ruột
+*  ngdgt,  (thường) động tt quá khứ
+- bỏ (cá, thịt, muối...) vào hũ (vại...) (để để dành...)
+
++ potted meat: thịt ướp bỏ hũ
+- trồng (cây) vào chậu
+- (thể dục,thể thao) chọc (hòn bi-a) vào túi lưới
+- bỏ (thú săn...) vào túi
+- nắm giữ, chiếm lấy, vớ, "bỏ túi" 
+
++ he's potted the whole lot: hắn vớ hết, hắn chiếm hết
+- rút ngắn, thâu tóm
+- bắn chết (thú săn, chim...) bằng một phát bắn gần
+*  ndgt
+- (: at) bắn, bắn gần
+
+@pot hat  
+*  dt
+- mũ quả dưa
+
+@pot luck  
+*  dt
+- thức ăn trong bữa cơm (bất cứ thức ăn gì)
+
++ come and take pot_luck with us: lại bọn mình ăn cơm có gì ăn nấy
+
+@pot paper   (pot_paper) @pot plant
+* dt
+- cây trồng trong chậu hoa
+ @pot valour  
+*  dt
+- tính dũng cảm khi say rượu
+
+@potability  
+*  dt
+- tính uống được
+
+@potable  
+*  tt
+- uống được
+
+@potableness
+- xem potable
+ @potables  
+*  dt số nhiều
+- ((thường)(đùa cợt)) đồ uống, những thứ uống được
+
+@potamic  
+*  tt
+- (thuộc) sông
+
+@potamology  
+*  dt
+- (địa lý,địa chất) khoa sông ngòi, môn sông ngòi
+
+@potash   (pearl-ash) @potash-soap  
+*  dt
+- xà phòng kali
+
+@potass  
+*  dt
+- (từ cổ,nghĩa cổ) (như) potash
+
+@potassic
+- xem potassium
+ @potassium  
+*  dt
+- (hoá học) kali
+
+@potation  
+*  dt
+- sự uống
+- hớp, ngụm (rượu...)
+- ((thường) số nhiều) sự nghiện rượu
+
+@potato  
+*  dt,  số nhiều potatoes  @potato-box   (potato-trap) @potato-crisp
+* tt
+- giòn
+- <bóng> quả quyết, mạnh mẽ; sinh động, hoạt bát
+- quăn tít, xoăn tít
+- mát, làm sảng khoái; làm khoẻ người (không khí)
+- <Mỹ> diêm dúa, bảnh bao
+* ngdgt
+- làm giòn, rán giòn (khoai...)
+- uốn quăn tít (tóc)
+- làm nhăn nheo, làm nhăn (vải)
+* ndgt
+- giòn (khoai rán...)
+- xoăn tít (tóc)
+- nhăn nheo, nhàu (vải)
+ @potatory  
+*  tt
+- uống được, để uống
+- thích uống rượu, nghiện rượu
+
+@potato-trap   (potato-trap) @pot-bellied  
+*  tt
+- phệ bụng
+
+@pot-belly  
+*  dt
+- bụng phệ
+- người bụng phệ
+
+@pot-boiler  
+*  dt
+- (thông tục) tác phẩm (văn học, nghệ thuật) kiếm cơm
+- văn nghệ sĩ kiếm cơm
+
+@pot-bound  
+*  tt
+- rễ mọc chật chậu (không có chỗ phát triển nữa) (cây)
+
+@pot-boy  
+*  dt
+- em nhỏ hầu bàn ở tiệm rượu
+
+@poteen   (potheen) @potency  
+*  dt
+- lực lượng; quyền thế, sự hùng mạnh
+- hiệu lực; sự hiệu nghiệm
+
+@potency
+- lực lượng
+- p. of a set lực lượng của một tập hợp 
+ @potent  
+*  tt
+- có lực lượng, có quyền thế, hùng mạnh
+- có hiệu lực; hiệu nghiệm (thuốc...)
+- có sức thuyết phục mạnh mẽ (lý lẽ)
+
+@potentate  
+*  dt
+- kẻ thống trị
+
+@potential  
+*  tt
+- tiềm tàng
+- (vật lý) (thuộc) điện thế
+
++ potential difference: hiệu số điện thế
+- (ngôn ngữ học) khả năng
+
++ potential mood: lối khả năng
+- (từ hiếm,nghĩa hiếm) hùng mạnh
+*  dt
+- tiềm lực; khả năng
+- (vật lý) điện thế; thế
+
++ nuclear potential: thế hạt nhân
+
++ radiation potential: thế bức xạ
+- (ngôn ngữ học) lối khả năng
+
+@potential
+- thế, thế vị
+- advanced p. thế vị sớm, thế vị trước
+- complex p. thế phức 
+- distortional p. hàm thế xoắn
+- logarithmic p. (giải tích) thế vị lôga
+- Newtonian p. (giải tích) thế vị Newton 
+- retarded p. (giải tích) thế vị trễ
+- scalar p. thế vị vô hướng
+- vector p. (vật lí) thế vị vectơ
+- velocity p. thế vị vận tốc 
+ @Potential entry
+- (Econ) Sự nhập ngành tiềm năng.
+: Đối với một ngành cụ thể, đó là khả năng cạnh tranh mới của các hãng - các hãng chưa sản xuất các sản phẩm cạnh tranh.
+ @Potential national income
+- (Econ) Thu nhập quốc dân tiềm năng.
+: Xem FULL EMPLOYMENT NATIONAL INCOME.
+ @Potential output
+- (Econ) Sản lượng tiềm năng.
+: Sản lượng khả thi tối đa của một doanh nghiệp, một ngành, một khu vực của một nền kinh tế hoặc toàn bộ một nền kinh tế là mức độ được xác định của các yếu tố sản xuất.
+ @Potential Pareto improvement
+- (Econ) Sự cải thiện Pareto tiềm năng.
+: Một sự cải thiện Pareto tiềm năng tồn tại khi những người kiếm được lợi do một sự thay đổi, thì với tính chất giả thiết có thể bù đắp cho người thua thiệt, và có thể không ai bị kém đi sau sự thay đổi hoặc sao cho ít nhất cũng  có một người được khá lên.
+ @potentialise   (potentialise) @potentiality  
+*  dt
+- tiềm lực, khả năng
+
++ to have enormous potentiality: có tiềm lực to lớn
+
+@potentialize   (potentialise) @potentially
+- xem potential
+ @potentiate  
+*  ngdgt
+- làm cho có tiềm lực; làm cho có khả năng
+
+@potentiation
+- xem potentiate
+ @potentiometer  
+*  dt
+- (vật lý) cái đo điện thế; cái phân thế
+
+@potentiometric
+- xem potentiometer
+ @potently
+* dt
+- có hiệu lực, có hiệu nghiệm (thuốc...); có uy lực lớn; có sức thuyết phục mạnh mẽ (lý lẽ)
+- có khả năng giao cấu, không liệt dương (về giống đực)
+ @potentness
+- xem potent
+ @potheen   (potheen) @pother  
+*  dt
+- đám khói nghẹt thở, đám bụi nghẹt thở
+- tiếng ầm ầm, tiếng inh ỏi
+- sự làm rối lên; sự làm nhặng xị lên
+
++ to make a pother about it: làm rối lên; làm nhặng xị lên
+- sự biểu lộ quá ồn ào nỗi đau đớn
+*  ngdgt
+- làm bực mình, quấy rầy
+*  ndgt
+- cuống quít lên, rối lên, nhặng xị lên
+
+@pot-herb  
+*  dt
+- rau (các loại)
+
+@pot-hole  
+*  dt
+- (địa lý,địa chất) hốc sâu (trong đá)
+- ổ gà (ở mặt đường)
+
+@pot-holer
+* dt
+- người khám phá (các hốc sâu trong đá, hang động)
+ @potholing
+* dt
+- việc khám phá các hốc sâu trong đá và hang động
+ @pot-hook  
+*  dt
+- cái móc nồi; cái treo nồi
+- nét móc (để viết)
+
+@pot-house  
+*  dt
+- (nghĩa xấu) quán rượu, tiệm rượu
+
+@pot-hunter  
+*  dt
+- người đi săn vớ gì săn nấy
+- (thể dục,thể thao) người tham dự cuộc đấu cốt để tranh giải
+
+@potion  
+*  dt
+- liều thuốc nước
+- liều thuốc độc
+
+@potman  
+*  dt
+- người hầu ở quán rượu
+
+@pot-pourri  
+*  dt
+- cánh hoa khô ướp với hương liệu (để ở trong vỏ)
+- bài hát hổ lốn, bài văn hổ lốn; câu chuyện hổ lốn
+
+@pot-roast  
+*  dt
+- thịt om
+*  ngdgt
+- om (thịt...)
+
+@pot-shed
+* dt
+- nhà ươm
+ @potsherd  
+*  dt
+- mảnh sành
+
+@pot-shot  
+*  dt
+- cú bắn cốt để lấy cái gì chén
+- cú bắn gần, cú bắn ngon xơi
+- cú bắn bừa
+
+@pot-still  
+*  dt
+- nồi cất
+
+@pott   (pot_paper) @pottage  
+*  dt
+- (từ cổ,nghĩa cổ) xúp đặc
+
+@potted
+* tt
+- mọc lên ở chậu, được gìn giữ trong chậu
+- rút ngắn, đơn giản hoá (sách )
+ @potter  
+*  ndgt
+- (: at,  in) làm qua loa, làm tắc trách, làm được chăng hay chớ, làm không ra đầu ra đuôi; làm thất thường (công việc gì)
+- (: about) đi lang thang, đi vơ vẩn, la cà đà đẫn
+*  ngdgt
+- (: away) lãng phí
+
++ to potter away one's time: lãng phí thời giờ
+*  dt
+- thợ gốm
+
+@potterer
+* dt
+- người làm tắc trách (nhất là người không bao giờ hoàn thành nhiệm vụ)
+ @potter's clay  
+*  dt
+- đất sét làm đồ gốm
+
+@potter's kiln  
+*  dt
+- lò gốm
+
+@potter's lathe  
+*  dt
+- bàn (quay thợ) gốm
+
+@potter's wheel  
+*  dt
+- mân quay (ở) bàn gốm
+
+@pottery  
+*  dt
+- đồ gốm
+- nghề làm đồ gốm
+- xưởng làm đồ gốm
+
+@pottle  
+*  dt
+- (từ cổ,nghĩa cổ) nửa galông (đơn vị đo rượu...); bình nửa galông
+- giỏ mây nhỏ (đựng dầu...)
+
+@potto  
+*  dt,  số nhiều pottos  @potty  
+*  tt
+- (từ lóng) tầm thường, nhỏ mọn, không nghĩa lý gì
+
++ potty little states: những nước nhỏ bé
+
++ potty detáil: những chi tiết nhỏ mọn vụn vặt
+-(ngôn ngữ nhà trường) ngon ơ, ngon xớt
+
++ potty questions: những câu hỏi ngon ơ
+- (: about) thích mê đi, mê tít, "say" (ai, cái gì)
+
+@potty-trained
+* tt
+- không còn cần phải mang tã lót nữa (về trẻ sơ sinh, trẻ con)
+ @pot-valiant  
+*  tt
+- dũng cảm khi say rượu
+
+@pouch  
+*  dt
+- túi nhỏ
+- (quân sự) túi đạn (bằng da)
+- (động vật học) túi (thú có túi)
+- (thực vật học) khoang túi; vỏ quả
+- (từ cổ,nghĩa cổ) túi tiền, hầu bao
+*  ngdgt
+- cho vào túi, bỏ túi
+- (từ lóng) đãi tiền diêm thuốc, cho tiền
+- làm (một bộ phận của áo) thõng xuống như túi
+*  ndgt
+- thõng xuống như túi (một bộ phận của áo)
+
+@pouched  
+*  tt
+- có túi
+
+@pouchy  
+*  tt
+- có túi
+- giống túi
+
+@poudrette  
+*  dt
+- phân bắc trộn than
+
+@pouf   (pouffe) @pouffe   (pouffe) @pouffy
+- xem pouf
+ @poulp   (poulpe) @poulpe   (poulpe) @poult  
+*  dt
+- con gà, gà giò (gà, gà tây, gà lôi)
+
+@poulterer  
+*  dt
+- người bán gà vịt
+
+@poultice  
+*  dt
+- thuốc đắp
+*  ngdgt
+- đắp thuốc đắp vào (chỗ viêm tấy...)
+
+@poultry  
+*  dt
+- gà vẹt, chim nuôi
+
+@poultry farm  
+*  dt
+- trại chăn nuôi gà vịt
+
+@poultry yard  
+*  dt
+- sân nuôi gà vịt
+
+@poultry-farming
+* dt
+- nghề nuôi gia cầm
+ @pounce  
+*  dt
+- móng (chim ăn thịt)
+- sự bổ nhào xuống vồ, sự vồ, sự chụp (mồi)
+
++ to make a pounce: bổ nhào xuống vồ, chụp
+*  ngdgt
+- bổ nhào xuống vồ, vồ, chụp (mồi)
+*  ndgt (: upon)
+- thình lình xông vào, tấn công thình lình, đâm bổ vào
+- (nghĩa bóng) vớ ngay lấy, vồ ngay lấy, chộp ngay lấy
+
++ to pounce upon someone's blunder: vớ ngay lấy sai lầm của ai, chộp ngay lấy sai lầm của ai
+*  dt
+- mực bồ hóng trộn dầu
+- phấn than
+*  ngdgt
+- phết (xoa) mực bồ hóng trộn dầu (lên giấy than...)
+- rập (hình vẽ) bằng phấn than
+
+@pouncer
+- xem pounce
+ @pouncet-box
+* dt
+- hộp có lổ thủng để rắc phấn hay rảy nước hoa
+ @pound  
+*  dt
+- Pao (khoảng 450 gam)
+- đồng bảng Anh
+
++ to pay four shillings by the pound: cứ mỗi bảng Anh trả bốn silinh; trả 20 rịu 4 ĩu đĩu
+- (xem) penny_wise
+!pound of flesh
+- (nghĩa bóng) một đòi hỏi hợp pháp nhưng quá đáng
+*  ndgt
+- kiểm tra trọng lượng tiền đồng theo trọng lượng đồng bảng Anh
+*  dt
+- bãi rào nhốt súc vật lạc
+- nơi giữ súc vật tịch biên; nơi giữ hàng hoá tịch biên
+- bãi rào nuôi súc vật
+- (nghĩa bóng) nơi giam cầm, trại giam
+- (săn bắn) thế cùng, đường cùng
+
++ to bring a wild boar into a pound: dồn con lợn lòi vào thế cùng
+*  ngdgt
+- nhốt (súc vật...) vào bãi rào
+- nhốt vào trại giam
+!to pound the field
+- (săn bắn) là một chướng ngại không thể vượt qua được (hàng rào chắn)
+- vượt qua được những hàng rào chắn mà người khác không thể vượt được (người cưỡi ngựa đi săn)
+*  ngdgt
+- giã, nghiền
+- nện, thụi, thoi (bằng quả đấm); đánh đập
+
++ to pound something to pieces: đập cái gì vỡ tan từng mảnh
+
++ to pound someone into a jelly: đánh cho ai nhừ tử
+*  ndgt
+- (: at,  on,  away at) giâ, nện, thoi, đập thình lình; (quân sự) nện vào, giã vào, nã oàng oàng vào
+
++ to pound at the door: đập cửa thình thình
+
++ guns pound away at the enemy's position: đại bác nã oàng oàng vào vị trí địch
+- (: along,  on...) chạy uỳnh uỵch, đi uỳnh uỵch
+
+@pound
+- pao (đơn vị đo trọng lượng của Anh)
+ @poundage  
+*  dt
+- tiền hoa hồng tính theo từng đồng bảng Anh
+- tiền trả tính theo pao
+- tiền thưởng tính theo phần trăm trên tổng số thu (của một hãng kinh doanh)
+
+@poundal
+* dt
+- (kỹ thuật) paođan (đơn vị lực)
+ @pounder  
+*  dt ((thường) ở từ ghép, đi với từ chỉ số lượng)
+- vật cân nặng bao nhiêu pao
+
++ a twelve pounder: đại bác bắn đạn nặng 13 pao
+- vật trị giá bao nhiêu bảng Anh
+- người có bao nhiêu bảng Anh
+- giấy bạc bao nhiêu bảng Anh
+
++ a ten pounder: tờ mười bảng Anh
+*  dt
+- cái chày, cái đàm (nện đất...); máy nghiền, máy giã; cối giã
+
+@pound-foolish
+* tt
+- ngốc trong chuyện lớn
+
++  penny wise and pound-foolish:khôn trong chuyện nhỏ ngốc trong chuyện lớn
+ @pound-net
+* dt
+- lưới bố trí sao cho cá vào một lỗ hẹp
+ @pound-stone
+* dt
+- đất sét cứng (vỉa than)
+ @pour  
+*  ngdgt
+- rót, đổ, giội, trút
+
++ to pour coffee into cups: rót cà phê vào tách
+
++ river pours itself into the sea: sông đổ ra biển
+
++ to pour cold water on someone's enthusiasm: (nghĩa bóng) giội gáo nước lạnh vào nhiệt tình của ai
+- (nghĩa bóng) thổ lộ, bộc lộ, trút ra
+
++ to pour one's sorrows into somebody's heart: thổ lộ hết nỗi buồn với ai
+*  ndgt
+- đổ, chảy tràn
+- ((thường) : down) mưa như trút
+
++ it is pouring; it is pouring down; it is pouring with rain: mưa như trút
+!to pour forth
+- đổ ra, rót ra, làm chảy tràn ra; chảy tràn ra (nước...)
+- tuôn ra, phun ra (những lời chửi rủa...), trút ra (cơn giận...)
+- toả ra, làm lan ra (hương thơm...)
+- bắn (đạn) như mưa; đổ ra, lũ lượt (đám đông...)
+!to pour in
+- đổ vào, trào vào, đổ dồn về, trào về
+
++ letters pour in from all quarters: thư từ khắp nơi dồn về tới tấp
+- lũ lượt đổ về (đám đông)
+!to pour out nh to pour forth to pour oil upon troubled waters
+- (nghĩa bóng) lấy lời lẽ nhẹ nhàng mà khuyên nhủ cho an tâm (mà làm nguôi cơn giận...)
+!it never rains but it pours
+- phúc bất trùng lai hoạ vô đơn chí
+*  dt
+- trận mưa như trút
+- mẻ chảy (mẻ gang, thép... chảy ở lò ra)
+
+@pourboire  
+*  dt
+- tiền diêm thuốc, tiền đãi thêm
+
+@pourer
+- xem pour
+ @pouring  
+*  tt
+- như trút nước, như đổ cây nước (mưa)
+
+@pourparler  
+*  dt,  (thường) số nhiều
+- cuộc đàm phán mở đầu, cuộc hội đàm trù bị (để đi đến cuộc đàm phán chính thức)
+
+@pourpoint
+* dt
+- (sử học) áo chẽn đàn ông
+ @pousse-cafe
+* dt
+- ly rượu sau khi uống cà phê
+ @poussette  
+*  dt
+- điệu nhảy pút; điệu nhảy vòng tay nắm tay
+*  ndgt
+- nhảy pút; nhảy vòng tay nắm tay
+
+@pout  
+*  dt
+- (động vật học) cá nheo
+- cái bĩu môi (hờn dỗi, khó chịu...)
+!to be in the pouts
+- hờn dỗi, nhăn nhó khó chịu
+*  ngdgt
+- bĩu môi
+*  ndgt
+- bĩu môi, trề môi
+- bĩu ra, trề ra (môi)
+
+@pouter  
+*  dt
+- người hờn dỗi
+- (động vật học) bồ câu to diều
+- (động vật học) cá lon ((cũng) whitting-Ảpout)
+
+@poutingly  
+*  dt
+- bĩu môi, hờn dỗi
+
+@pouty
+- xem pout
+ @poverty  
+*  dt
+- sự nghèo nàn; cảnh nghèo nàn, cảnh bần cùng
+
++ to be reduced to extreme poverty: lâm vào cảnh bần cùng cơ cực
+- (nghĩa bóng) sự nghèo nàn, sự thiếu thốn; sự thấp kém, sự tồi tàn
+
++ a great poverty of ideas: tình trạng hết sức nghèo nàn về tư tưởng
+
+@Poverty
+- (Econ) Sự nghèo khổ.
+: Sự nghèo khổ có thể được xem xét với một quan niệm tuyệt đối hoặc tương đối.
+ @poverty line
+* dt
+- mức sống tối thiểu
+ @Poverty trap
+- (Econ) Bẫy nghèo khổ.
+: Việc tồn tại của nhiều lợi ích KIỂM ĐỊNH BẰNG BIỆN PHÁP nói lên rằng người được trả lương thấp có thể đối đầu với một tỷ lệ thuế biên hiệu lực - tức là mức thuế đối với một đơn vị thu nhập thêm - vượt xa tỷ lệ 34% của thuế thu nhập và sự đóng góp bảo hiểm quốc gia đối với phần lớn người làm công ăn lương.
+ @poverty trap
+* dt
+- hoàn cảnh khó nâng cao được thu nhập, tình trạng không cải thiện được thu nhập (do bị phụ thuộc vào trợ cấp của nhà nước mà trợ cấp này lại giảm xuống khi tiền lương tăng lên)
+ @poverty-stricken  
+*  tt
+- nghèo nàn ((nghĩa đen) & (nghĩa bóng))
+
++ a poverty-stricken language: (nghĩa bóng) ngôn ngữ nghèo nàn
+
+@pow
+* dt
+- vt của prisoner of war (tù binh, tù nhân trong chiến tranh)
+ @powder  
+*  dt
+- bột; bụi
+- (y học) thuốc bột
+- phấn (đánh mặt)
+- thuốc súng
+!food for powder
+- bia thịt, bia đỡ đạn
+!not worth powder and shot
+- không đáng bắn, không đáng để chiến đấu cho
+!put more powder into it!
+- hãy hăng hái lên một chút nữa nào!
+!smell of powder
+- kinh nghiệm chiến đấu, sự thử thách với lửa đạn
+*  ngdgt
+- rắc bột lên, rắc lên
+
++ to powder with salt: rắc muối
+- thoa phấn, đánh phấn (mặt, mũi...)
+- trang trí (bề mặt cái gì...) bằng những điểm nhỏ
+- ((thường) động tt quá khứ) nghiền thành bột, tán thành bột
+
++ powdered sugar: đường bột
+
++ powdered milk: sữa bột
+
+@powder blue  
+*  dt
+- lơ bột (để hơ quần áo)
+- màu xanh lơ
+
+@powder keg  
+*  dt
+- thùng thuốc nổ, thùng thuốc súng
+- (nghĩa bóng) cái có thể nổ tung
+
+@powder-bag
+* dt
+- túi thuốc súng
+ @powder-chamber
+* dt
+- (quân sự) phòng dưới đất giữ thuốc súng
+ @powdered
+* tt
+- sấy khô và làm thành bột
+ @powderer
+- xem powder
+ @powder-flask  
+*  dt
+- (sử học) hộp thuốc súng
+
+@powder-horn  
+*  dt
+- (sử học) sừng đựng thuốc súng
+
+@powder-house
+* dt
+- kho thuốc nổ
+ @powdering  
+*  dt
+- rất nhiều vật nhỏ, rất nhiều hình nhỏ
+- sự trang trí bằng rất nhiều vật nhỏ, sự trang trí bằng rất nhiều hình nh
+
+@powdering-room   (powdering-room) @powder-magazine  
+*  dt
+- kho thuốc súng
+
+@powder-mill   (powder-works) @powder-monkey  
+*  dt
+- (sử học),  (hàng hải) em nhỏ chuyển đạn (cho các khẩu đại bác trên tàu)
+
+@powder-puff  
+*  dt
+- nùi bông thoa phấn
+
+@powder-room   (powdering-room) @powder-works   (powder-works) @powdery  
+*  tt
+- đầy bột; đầy bụi
+- như bột; dạng bột
+- có thể tán thành bột
+
+@power  
+*  dt
+- khả năng, tài năng, năng lực
+
++ I will help you to the utmost of my power: tôi sẽ giúp anh với tất cả khả năng (quyền hạn) của tôi!
+
++ it's beyond my power: cái đó vượt quá khả năng (quyền hạn) của tôi!
+
++ as far as lies within my power: chừng nào trong phạm vi khả năng (quyền hạn) của tôi!
+
++ a man of varied powers: người có nhiều tài năng
+
++ mental powers: năng lực trí tuệ
+
++ a remarkable power of speech: tài ăn nói đặc biệt
+- sức, lực, sức mạnh
+
++ an attractive power: sức thu hút, sức hấp dẫn
+
++ the power of one's arm: sức mạnh của cánh tay
+- quyền, chính quyền, quyền hạn, quyền lực, quyền thế, thế lực, uy quyền
+
++ supreme power: quyền tối cao
+
++ the executive power: quyền hành pháp
+
++ to come into power: nắm chính quyền
+
++ the party in power: đảng cầm quyền
+
++ to have somebody is one's power: nắm ai dưới quyền
+
++ to have no power over...: không có quyền đối với...
+
++ power of attorney: quyền uỷ nhiệm
+- người quyền thế, người cầm quyền; cơ quan có quyền lực
+
++ the power s that be: các nhà cầm quyền
+
++ the press has become a power in the state: báo chí trở thành một cơ quan có quyền lực của nhà nước
+- trời, thánh thần
+
++ merciful powers!: thánh thần lượng cả bao dung!, thánh thần từ bi hỉ xả!
+- cường quốc
+
++ the big powers: các cường quốc lớn
+
++ the European powers: những cường quốc châu Âu
+- (kỹ thuật); (vật lý) lực; công suất, năng suất; năng lượng
+
++ absorption power: năng xuất hút thu
+
++ electric power: điện năng
+
++ atomoc power: năng lượng nguyên tử; cường quốc nguyên tử
+- (toán học) luỹ thừa
+- (vật lý) số phóng to (kính hiển vi...)
+- (thông tục) số lượng lớn, nhiều
+
++ to have a power of work to do: có nhiều việc phải làm
+
++ a power of money: nhiều tiền
+!the mechanical powers
+- máy đơn giản
+!more power to your elbow!
+- cố lên nữa nào!
+*  ngdgt
+- cung cấp lực (cho máy...)
+
+@power
+- độ, bậc, luỹ thừa; lực lượng; công suất
+- p. of a point (hình học) phương tích của một điểm
+- p. of a set lực lượng của một tập hợp
+- cardinal p. bản số
+- direct p. (đại số) luỹ thừa trực tiếp
+- instantaneous p. công suất tức thời
+- radiated p. cường độ bức xạ 
+- reduced p. (tô pô) luỹ thừa rút gọn
+- resolving p. khả năng giải
+- symbolic(al) p. (đại số) luỹ thừa ký hiệu
+- symmetrized Kromecker p. (đại số) luỹ thừa Kroneckơ đối xứng hoá
+- third p. luỹ thừa bậc ba, lập phương 
+ @Power function
+- (Econ) Hàm luỹ thừa.
+: Một hàm số trong đó biến số độc lập được nâng lên tới một luỹ thừa nào đó.
+ @power house
+* dt
+- nhà máy điện
+- <bóng> nhóm quyền lực, tổ chức quyền lực; người khoẻ mạnh, người đầy sinh lực
+ @power plant
+* dt
+- <Mỹ> nhà máy điện
+ @power play  
+*  dt
+- (thể dục,thể thao) lúc căng nhất (trong cuộc đấu, phải tập trung hết sức)
+
+@power politics  
+*  dt
+- (chính trị) chính sách sức mạnh, chính sách "dùi cui" 
+
+@power-boat  
+*  dt
+- xuồng máy
+
+@power-cut
+* dt
+- sự mất điện
+ @power-dive  
+*  dt
+- (hàng không) sự bổ nhào xuống không tắt máy
+*  ndgt
+- (hàng không) bổ nhào xuống không tắt máy
+
+@power-driven
+* tt
+- được điều khiển bằng điện; chạy bằng điện; vận hành bằng điện
+ @powered
+* tt
+- được trang bị hoặc vận hành bằng sức của máy
+
++  a new aircraft powered by Rolls Royce engines:chiếc máy bay mới được trang bị động cơ Rolls Royce
+
++  a high-powered car:xe hơi có công suất lớn
+- có sức thuyết phục mạnh mẽ (người)
+
++  a high-powered saleman:một người bán hàng có tài mới khách
+ @powerful  
+*  tt
+- hùng mạnh, hùng cường, mạnh mẽ
+- có quyền thế lớn, có quyền lực lớn, có uy quyền lớn
+
+@powerful
+- có sức, có lực mạnh
+ @powerfully
+* dt
+- hùng mạnh, hùng cường, có sức mạnh lớn (động cơ )
+- có tác động mạnh (lời nói, hành động )
+- khoẻ mạnh về thể chất
+- có quyền thế lớn, có quyền lực lớn, có uy quyền lớn
+ @powerfulness
+- xem powerful
+ @power-house   (power-station) @power-lathe  
+*  dt
+- máy tiện
+
+@powerless  
+*  tt
+- bất lực; không có sức mạnh
+- không có quyền lực, không có quyền thế
+- hoàn toàn không có khả năng (giúp đỡ...)
+
+@powerlessly
+* dt
+- không có quyền hành; không có sức mạnh
+- bất lực, hoàn toàn không có khả năng (về vấn đề )
+ @powerlessness
+* dt
+- sự không có quyền hành, tình trạng không có quyền hành; sự không có sức mạnh
+- sự bất lực, tình trạng hoàn toàn không có khả năng (về vấn đề )
+ @power-loom  
+*  dt
+- máy dệt
+
+@powerpc
+- Một loại vi xử lý RISC do hãng Motorola chế tạo, đang cạnh tranh với chip Intel Pentium
+ @power-plant
+* dt
+- xưởng phát điện
+- xem power-house
+ @powerplant
+- nhà máy điện
+ @power-play
+* dt
+- (thể dục thể thao) cuộc tấn công khi đội mình trội về người (vì một đấu thủ đội bạn phạm lỗi phải ra khỏi sân)
+ @power-point
+* dt
+- ổ cắm điện
+ @power-saw  
+*  dt
+- cưa máy
+
+@power-shovel  
+*  dt
+- máy xúc
+
+@power-station   (power-station) @powerstation
+- nhà máy điện
+ @powwow  
+*  dt
+- thầy lang; thầy mo, thầy phù thuỷ (dân da đỏ)
+- buổi hội họp tế lễ (của dân da đỏ)
+- (từ Mỹ,nghĩa Mỹ) cuộc hội họp
+- (quân sự),  (từ lóng) cuộc hội họp của các sĩ quan (trong khi hành quân, tác chiến...)
+*  ndgt
+- làm thầy lang; làm thầy mo, làm thầy phù thuỷ (dân da đỏ)
+- hội họp tế lễ (của dân da đỏ)
+- (từ Mỹ,nghĩa Mỹ) (: about...) thảo luận, bàn luận
+*  ngdgt
+- chữa bệnh bằng thuật phù thu
+
+@pox  
+*  dt
+- (thông tục) bệnh giang mai
+- (dùng trong câu cảm thán) khiếp!, gớm!, tởm!, kinh lên!
+
++ a pox on his glutony!: phát khiếp cái thói tham ăn cử nó!
+
+@poxvirus
+* dt
+- virut truyền bệnh đậu,  virut truyền giang mai
+ @poxy
+* tt
+- bị mắc bệnh đậu mùa
+- (lóng) phẩm chất kém, vô giá trị
+ @poyou
+* dt
+- (động vật học) con tatu sáu khoanh
+ @pozzy  
+*  dt
+- (từ lóng) mứt
+
+@

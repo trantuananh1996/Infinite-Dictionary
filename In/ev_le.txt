@@ -1,0 +1,2755 @@
+@Le Chatelier principle
+- (Econ) Nguyên tắc Le Chatelier.
+: Một mô hình toán học được sử dụng rộng rãi trong kinh tế học, giải quyết các tác động của các ràng buộc đối với việc tối đa hoá hành vi.
+ @lea  
+*  dt
+- (thơ ca) cánh đồng cỏ
+- khoảng đất hoang
+*  dt
+- (nghành dệt) li (đơn vị chiều dài từ 80 đến 300 iat tuỳ địa phương)
+
+@leach  
+*  dt
+- nước tro (dùng để giặt)
+- chậu chắt nước tro
+*  ngdgt
+- cho lọc qua
+- lọc lấy nước
+*  ndgt
+- lọc qua
+
+@leachability  
+*  dt
+- tính có thể lọc lấy nước
+
+@leachable  
+*  tt
+- có thể lọc lấy nước
+
+@lead  
+*  dt
+- chì
+- (hàng hải) dây dọi dò sâu, máy dò sâu
+
++ to cast (heave) the lead: ném dây dọi xuống nước để đo chiều sâu
+- (ngành in) thanh cỡ
+- than chì (dùng làm bút chì)
+- (số nhiều) tấm chì lợp nhà; mái lợp tấm chì
+- đạn chì
+!to swing the lead
+- (từ lóng) cáo ốm, giả vờ ốm để trốn việc
+*  ngdgt
+- buộc chì; đổ chì; bọc chì; lợp chì
+- (ngành in) đặt thành cỡ[li:d]
+*  dt
+- sự lânh đạo; sự hướng dẫn, sự chỉ dẫn; sự dẫn đầu
+
++ to take the lead: hướng dẫn, giữ vai trò lânh đạo
+
++ to take the lead in something: dẫn đầu trong việc gì
+
++ to follow the lead: theo sự hướng dẫn, theo sự lânh đạp
+
++ to give someone a lead: làm trước để hướng dẫn động viên ai làm
+- vị trí đứng đầu
+
++ to have the lead in a race: dẫn đàu trong một cuộc chạy đua
+- (sân khấu) vai chính; người đóng vai chính
+- dây dắt (chó)
+- (đánh bài) quyền đánh đầu tiên
+- máng dẫn nước (đến cối xay lúa)
+- (điện học) dây dẫn chính
+- (điện học) sự sớm (pha)
+- (kỹ thuật) bước (răng ren)
+*  ngdgt led  @lead
+- tờ, lá, diệp
+ @lead comb  
+*  dt
+- lược chì (để chải cho đen tóc)
+
+@lead pencil
+* dt
+- bút chì
+ @lead story
+* dt
+- tin được đăng nổi bật ở đầu tờ báo
+ @leaden  
+*  tt
+- bằng chì; xám xịt như chì; nặng như chì
+
++ leaden coffin: quan tài bằng chì
+
++ leaden sword: gươm chì (vũ khí vô dụng)
+
++ leaden clouds: mây đen xám xịt
+- nặng nề
+
++ leaden sleep: giấc ngủ mê mệt
+
++ leaden limbs: chân tay mỏi rã rời không buồn nhắc
+
+@leader  
+*  dt
+- lânh tụ, người lânh đạo, người chỉ huy, người hướng dẫn, người chỉ đạo
+- luật sư chính (trong một vụ kiện)
+- bài báo chính, bài xã luận lớn
+- con ngựa đầu đàn, con ngựa dẫn đầu trong cỗ ngựa (buộc vào xe)
+- (ngành in) hàng dấu chấm (để dẫn người đọc) sang trang (sang cột)
+- (ngành mỏ) mạch nhánh (dẫn đến mạch mỏ chính)
+- mầm chính (nhú lên mạnh nhất ở cành, ở thân cây)
+- (giải phẫu) dây gân
+- (raddiô) tin quan trọng nhất (trong bản tin cuối cùng)
+- (điện học) vật dẫn; dây dẫn
+- (âm nhạc) nhạc trưởng; người điều khiển dàn nhạc, người điều khiển ban đồng ca; người lãnh xướng
+- (thương nghiệp) hàng bán rẻ để quảng cáo
+
+@leaderette  
+*  dt
+- bài xã luận ngắn
+
+@leaderless
+* tt
+- không có người lãnh đạo, không có người cầm đầu
+
++  a leaderless rabble:một đám đông lộn xộn không có người cầm đầu
+ @leadership  
+*  dt
+- sự lânh đạo
+
++ under the leadership of the Communist Party: dưới sự lânh đạo của đảng Cộng sản
+- khả năng lânh đạo; đức tính của người lânh đạo
+- bộ phận lânh đạo, tập thể lânh đạo
+
+@leader-writer  
+*  dt
+- người viết xã luận
+
+@lead-in  
+*  dt
+- (điện học) đầu vào
+
+@leading  
+*  dt
+- sự lânh đạo, sự hướng dẫn, sự dẫn đầu
+- thế lực, ảnh hưởng
+
++ men of light and leading: những người có uy tín và thế lực
+*  tt
+- lânh đạo, hướng dẫn, dẫn đầu
+
++ leading ship: tàu dẫn đầu
+
++ leading body: bộ phận lânh đạo
+- chủ đạo, chính, quan trọng
+
++ leading idea: ý chủ đạo
+
+@leading article
+* dt
+- bài xã luận đăng trên báo
+ @leading case  
+*  dt
+- (pháp lý) vụ án dùng làm tiền tệ
+
+@leading edge
+* dt
+- gờ trước của cánh máy bay
+ @leading lady  
+*  dt
+- nữ diễn viên thủ vai chính
+
+@leading light  
+*  dt
+- (hàng hải) đèn dẫn đường (cho tàu bè ra vào cảng)
+- (từ lóng) nhân vật quan trọng nhất (trong một tổ chức...)
+
+@Leading links principle
+- (Econ) Nguyên tắc đầu mối hàng đầu.
+: Trong nền kinh tế kế hoạch hoá, chính quyền có thể gắn tầm quan trọng đặc biệt cho một mục tiêu cụ thể nào đó.
+ @leading man  
+*  dt
+- diễn viên nam thủ vai chính
+
+@leading question  
+*  dt
+- câu hỏi khôn ngoan (dẫn đến câu trả lời theo ý muốn)
+
+@Leading sector
+- (Econ) Ngành dẫn đầu.
+: Mức độ thanh toán lương bổng chung trong một ngành kinh tế được coi là điểm tham khảo về lương cho các khu vực khác (ví dụ nghiệp đoàn trong một khu vực công cộng có thể lấy mức thanh toán lương bổng trong khu vực tư nhân để tham khảo).
+ @leading-rein
+* dt
+- dây dài dắt ngựa đi
+ @leading-strings  
+*  dt số nhiều
+- dây tập đi (đỡ cho các em nhỏ tập đi)
+!to be in leading-strings
+- (nghĩa bóng) phải ỷ lại vào người khác; bị hướng dẫn và kiểm soát như một đứa trẻ
+
+@leadline  
+*  dt
+- dây chì dò sâu
+
+@lead-off  
+*  dt
+- sự bắt đầu (câu chuyện, cuộc khiêu vũ...)
+
+@lead-poisoning  
+*  dt
+- sự nhiễm độc chì
+
+@leadsman  
+*  dt
+- thuỷ thủ dò nước
+
+@leadwork
+* dt
+- vật làm bằng chì
+- xưởng đúc chì
+ @lead-works  
+*  dt
+- xưởng đúc chì
+
+@leaf  
+*  dt,  số nhiều leaves  @leafage  
+*  dt
+- bộ lá
+
+@leaf-blade  
+*  dt
+- (thực vật học) phiến lá
+
+@leaf-bud  
+*  dt
+- búp lá
+
+@leaf-fat  
+*  dt
+- mỡ lá (lợn)
+
+@leafiness  
+*  dt
+- tính chất rậm lá
+- tính chất giống lá
+
+@leaf-insect
+* dt
+- sâu lá
+ @leafless  
+*  tt
+- không có lá
+
+@leaflet  
+*  dt
+- lá non
+- (thực vật học) lá chét
+- tờ rách rời, tờ giấy in rời
+- tờ truyền đơn
+
+@leaf-mould  
+*  dt
+- đất mùn
+
+@leafstalk  
+*  dt
+- (thực vật học) cuống lá
+
+@leafy  
+*  tt
+- rậm lá
+- giống lá
+
+@league  
+*  dt
+- dặm, lý (đơn vị chiều dài, quãng 4 km)
+
++ land (statude) league: dặm
+
++ marine league: dặm biển, hải lý
+*  dt
+- đồng minh, liên minh; hội liên đoàn
+
++ League of National: hội quốc liên
+
++ football league: liên đoàn bóng đá
+
++ to be in league with: liên minh với, liên kết với, câu kết với
+*  dgt
+- liên hiệp lại, liên minh, câu kết
+
+@leaguer  
+*  dt
+- thành viên liên minh; hội viên
+*  dt,  (quân sự)
+- trại quân, doanh trại
+- (từ hiếm,nghĩa hiếm) trại quân đóng để bao vây
+
+@leak  
+*  dt
+- lỗ thủng, lỗ rò, khe hở
+
++ to spring (start) a leak: bị rò
+
++ to stop a leak: bịt lỗ rò
+- chỗ dột (trên mái nhà)
+- sự rò; độ rò
+- sự lộ (bí mật); điều bí mật bị lộ
+*  dgt
+- lọt qua, rỉ ra, rò ra, thoát ra; để rỉ qua, để rò
+
++ boat leaks: thuyền bị nước rỉ vào
+- lọt ra, lộ ra; để lọt ra, để lộ ra (điều bí mật)
+
++ the secret has leaked out: điều bí mật đã lọt ra ngoài
+
+@leakage  
+*  dt
+- sự lọt qua, sự rỉ ra, sự rò ra, sự thoát ra
+- sự để lọt, sự để lộ
+
++ leakage of military secrets: sự để lọt những bí mật quân sự ra ngoài
+- sự biến mất một cách phi pháp (tiền...)
+- kẽ hở, lỗ hở
+- vật lọt qua, vật rỉ ra
+
+@Leakages
+- (Econ) Những khoản rò rỉ.
+: Xem Withdrawals.
+ @leakiness  
+*  dt
+- tình trạng có lỗ rò, tình trạng có lỗ hở, tình trạng có kẽ h
+
+@leakless  
+*  tt
+- không rò, không có lỗ h
+
+@leaky  
+*  tt
+- có lỗ rò, có lỗ hở, có kẽ hở, có chỗ thủng
+- hay để lộ bí mật
+- hay đái rắt
+
+@leal  
+*  tt
+- (Ê-cốt) (văn học) trung thành, chân thực
+!the land of the lead
+- (xem) land
+
+@lean  
+*  dt
+- độ nghiêng, độ dốc
+- chỗ nạc
+*  tt
+- gầy còm
+- nạc, không dính mỡ (thịt)
+- đói kém, mất mùa
+
++ a lean year: một năm đói kém, một năm mất mùa
+- không bổ (thức ăn); gầy (than, quặng...); không lợi lộc gì (việc làm)
+*  ngdgt leaned,  leant
+- dựa, tựa, chống
+*  ndgt
+- nghiêng đi
+- (: back,  forward,  out,  over) cúi, ngả người
+
++ to lean forward: ngả người về phía trước
+- (: against,  on,  upon) dựa, tựa, chống
+
++ to lean against the wall: dựa vào tường
+- ỷ vào, dựa vào; (quân sự) dựa vào sự yểm hộ bên sườn của (một đạo quân...)
+
++ to lean on someone's help: dựa vào sự giúp đỡ của ai
+- (: to,  towards) nghiêng về, thiên về
+
++ to lean towards communism: thiên về chủ nghĩa cộng sản
+
+@leaning  
+*  dt
+- khuynh hướng, thiên hướng
+
+@leanness
+* dt
+- tình trạng gầy còm
+ @leant  
+*  dt
+- độ nghiêng, độ dốc
+- chỗ nạc
+*  tt
+- gầy còm
+- nạc, không dính mỡ (thịt)
+- đói kém, mất mùa
+
++ a lean year: một năm đói kém, một năm mất mùa
+- không bổ (thức ăn); gầy (than, quặng...); không lợi lộc gì (việc làm)
+*  ngdgt leaned,  leant
+- dựa, tựa, chống
+*  ndgt
+- nghiêng đi
+- (: back,  forward,  out,  over) cúi, ngả người
+
++ to lean forward: ngả người về phía trước
+- (: against,  on,  upon) dựa, tựa, chống
+
++ to lean against the wall: dựa vào tường
+- ỷ vào, dựa vào; (quân sự) dựa vào sự yểm hộ bên sườn của (một đạo quân...)
+
++ to lean on someone's help: dựa vào sự giúp đỡ của ai
+- (: to,  towards) nghiêng về, thiên về
+
++ to lean towards communism: thiên về chủ nghĩa cộng sản
+
+@lean-to  
+*  dt
+- nhà chái; mái che
+*  tt
+- dựa vào tường
+
+@leap  
+*  dt
+- sự nhảy
+- quãng cách nhảy qua
+- (nghĩa bóng) sự biến đổi thình lình
+!leap in the dark
+- một hành động liều lĩnh mạo hiểm
+!by leapds anf bounds
+- tiến bộ nhanh, nhảy vọt
+*  ngdgt leaped,  leapt
+- nhảy qua, vượt qua; bắt nhảy qua
+
++ to leap a wall: nhảy qua một bức tường
+
++ to leap a hóe ovẻ a hedge: bắt ngựa nhảy qua hàng rào
+*  ndgt
+- nhảy lên; lao vào
+
++ to leap for joy: nhảy lên vì vui sướng
+
++ to leap an the enemy: lao vào kẻ thù
+- (nghĩa bóng) nắm ngay lấy
+
++ to leap at an opportunity: nắm ngay lấy cơ hội
+!look before you leap
+- phải suy nghĩ cẩn thận trước khi hành động; ăn có nhai, nói có nghĩ
+!one's heart leaps into one's mouth
+- sợ hết hồn, sợ chết khiếp
+
+@Leap - frogging
+- (Econ) Sự nhảy cóc.
+: Một quá trình được coi là sự xoáy trôn ốc lương @leap year
+- năm nhuận
+ @leap-day  
+*  dt
+- ngày nhuận
+
+@leaper  
+*  dt
+- người nhảy
+
+@leap-frog  
+*  dt
+- trò chơi nhảy cừu
+
+@leaping
+* tt
+- nhấp nhô
+ @leapt  
+*  dt
+- sự nhảy
+- quãng cách nhảy qua
+- (nghĩa bóng) sự biến đổi thình lình
+!leap in the dark
+- một hành động liều lĩnh mạo hiểm
+!by leapds anf bounds
+- tiến bộ nhanh, nhảy vọt
+*  ngdgt leaped,  leapt
+- nhảy qua, vượt qua; bắt nhảy qua
+
++ to leap a wall: nhảy qua một bức tường
+
++ to leap a hóe ovẻ a hedge: bắt ngựa nhảy qua hàng rào
+*  ndgt
+- nhảy lên; lao vào
+
++ to leap for joy: nhảy lên vì vui sướng
+
++ to leap an the enemy: lao vào kẻ thù
+- (nghĩa bóng) nắm ngay lấy
+
++ to leap at an opportunity: nắm ngay lấy cơ hội
+!look before you leap
+- phải suy nghĩ cẩn thận trước khi hành động; ăn có nhai, nói có nghĩ
+!one's heart leaps into one's mouth
+- sợ hết hồn, sợ chết khiếp
+
+@leap-year  
+*  dt
+- năm nhuận
+!leap-year proposal
+- (hàng hải) sự cầu hôn vào năm nhuận (đàn bà chủ động và chỉ có thể làm trong năm nhuận)
+
+@learn  
+*  ngdgt learnt  @learn
+- học (thuộc)
+ @learnable  
+*  tt
+- có thể học được
+
+@learned  
+*  tt
+- hay chữ, có học thức, thông thái, uyên bác
+
++ a learned man: nhà học giả
+- của các nhà học giả; đòi hỏi học vấn
+
++ learned professions: nghề đòi hỏi có học vấn (như bác sĩ, luật sư...)
+
+@learnedly
+* dt
+- tinh thông, uyên thâm, uyên bác
+ @learner  
+*  dt
+- người học, học trò, người mới học
+
+@learning  
+*  dt
+- sự học
+- sự hiểu biết; kiến thức
+
++ a man of great learning: một người có kiến thức rộng, một học giả lớn
+!the new learning
+- thời kỳ phục hưng
+- những môn học mới (đưa vào nước Anh trong (thế kỷ) 16 như tiếng Hy-lạp...)
+
+@Learning
+- (Econ) Học hỏi
+: Một cách giải thích về TIẾN BỘ KỸ THUẬT (như thấy trong sự giảm dần đầu vào lao động trên mỗi đơn vị đầu ra) xét theo kinh nghiệm thực hiện công việc đó.
+@
+- (Econ) learning by doing
+: Học qua hành
+ @learnt  
+*  ngdgt learnt  @leary  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) không xác thực, không đáng tin cậy
+
+@lease  
+*  dt
+- hợp đồng cho thuê
+
++ to take a house on a lease of several years: thuê một căn nhà có ký hợp đồng trong nhiều năm
+
++ long lease: hợp đồng cho thuê dài hạn
+!to put out to lease
+- đem cho thuê
+!on a lease
+- cho thuê theo hợp đồng
+!to take (have, get) a new lease of life
+- lại hoạt động, lại vui sống (sau khi ốm nặng hay sau khi một việc lo buồn)
+*  dgt
+- cho thuê; thuê
+
+@Lease
+- (Econ) Thuê
+: Một thoả thuận trong đó một bên có quyền sử dụng tài ản nào đó thuộc về quyền sở hữu của người khác trong một thời gian nhất định, đổi lại người sử dụng tài sản này phải trả một khoản phí cố định đã thoả thuận, thường trả thành nhiều lần theo định kỳ.
+ @leasehold  
+*  tt
+- thuê có hợp đồng
+
+@leaseholder  
+*  dt
+- bất động sản thuê có hợp đồng
+- sự thuê có hợp đồng
+*  dt
+- người thuê
+
+@lease-purchase
+* dt
+- chế độ thuê mua rẻ (nếu mua thì trừ tiền thuê vào giá)
+ @leash  
+*  dt
+- dây buộc chó săn, xích chó săn
+- bộ ba chó săn; bộ ba thỏ rừng
+- (nghành dệt) cái go
+!to hold in leash
+- kiểm soát chặt chẽ
+!to slip the leash
+- buông lỏng
+*  ngdgt
+- buộc bằng dây, thắt bằng dây
+
+@leasing  
+*  dt,  (kinh thánh)
+- sự dối trá, sự man trá
+- lời nói dối
+
+@least  
+*  tt,  số nhiều của little
+- tối thiểu, nhỏ nhất, ít nhất, kém nhất
+
++ there is not the least wind today: hôm nay không có một tí gió nào
+
++ least common multiple: (toán học) bội số chung bé nhất
+*  dt
+- tối thiểu, ít nhất
+!least of all
+- ít hơn cả, kém hơn cả
+*  dt
+- tối thiểu, cái nhỏ nhất, cái kém nhất
+!at [the] least
+- tối thiểu, ít nhất
+!in the least
+- tối thiểu, chút nào
+!not in the least
+- không một chút nào, không một tí nào
+![the] least said [the] somest mended
+!the least said the better
+- (tục ngữ) nói ít đỡ hớ, nói nhiều thì hơn
+!to say the least of it
+- nói giảm nhẹ, nói giảm đên mức tối thiểu đi
+
+@least
+- bé nhất   nhỏ hơn cả, ở mức bé nhất
+@Least cost method of production
+- (Econ) Phương sản xuất dựa trên giá thành thấp nhất.
+: Xem COST MINIMIZATION.
+ @Least squares
+- (Econ) Phương pháp bình phương nhỏ nhất.
+: Một cụm thuật ngữ chung miêu tả cơ sở của một nhóm các kỹ thuật ước lượng kinh tế lượng.
+ @leastways  
+*  dt
+- ái 3 cũng ((từ hiếm,nghĩa hiếm) (cũng) leastwise)
+
+@leastwise  
+*  dt
+- (từ hiếm,nghĩa hiếm) (như) leastways
+
+@leat  
+*  dt
+- máng dẫn nước ra cối xay
+
+@leather  
+*  dt
+- da thuộc
+- đồ da, vật làm bằng da thuộc
+- dây da
+- (số nhiều) quần cộc
+- (số nhiều) xà cạp bằng da
+- (từ lóng) quả bóng đá; quả bóng crickê
+- (từ lóng) da
+
++ to lose leather: bị tróc da
+!American leather
+- vải sơn, vải dầu
+!leather and prunella
+- sự khác nhau về quần áo, sự khác nhau về bề ngoài
+![there is] nothing like leather
+- chỉ có cái của mình mới tốt; chỉ có hàng của mình mới tốt
+*  ngdgt
+- bọc bằng da
+- (từ lóng) quật, đánh, vụt (bằng roi da)
+
+@leather-back  
+*  dt
+- (động vật học) rùa luýt
+
+@leather-cloth  
+*  dt
+- vải da
+
+@leatherette  
+*  dt
+- da giả
+
+@leather-head  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thằng ngốc
+
+@leather-jacket
+* dt
+- ấu trùng của muỗi
+ @leathern  
+*  tt
+- bằng da
+
+@leather-neck  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lính thuỷ đánh b
+
+@leatheroid  
+*  dt
+- da hoá học (làm bằng giấy)
+
+@leatherwood
+* dt
+- loại cây nhỏ hoa vàng (vỏ dùng làm dây thừng, đan rỗ rá)
+- loại cây ở Nam Mỹ (Cyrilla racerniflora) có hoa trắng rất đẹp và lá xanh óng ánh
+ @leathery  
+*  tt
+- như da; dai như da (thịt...)
+
++ leathery beef: thịt bò dai như da
+
+@leave  
+*  dt
+- sự cho phép
+
++ by your leave: xin phép ông, xin phép anh
+
++ to ask leave: xin phép
+
++ to get leave: được phép
+
++ to give leave: cho phép
+
++ to refuse leave: từ chối không cho phép
+
++ without a "by (with) your leave ": không thèm xin phép
+- sự được phép nghỉ
+
++ to be on leave: nghỉ phép
+
++ leave of absence: phép nghỉ; thời gian nghỉ có phép
+
++ absent without leave: (quân sự) nghỉ không phép
+- sự cáo từ, sự cáo biệt
+
++ to take leave: cáo từ
+!to take French leave
+- (xem) French
+!to take leave of one's senses
+- (xem) sense
+*  ngdgt
+- để lại, bỏ lại, bỏ quên
+- để lại (sau khi chết), di tặng
+
++ our ancesters left us a great cultural legacy: cha ông chúng ta để lại một gia tài văn hoá lớn
+- để, để mặc, để tuỳ
+
++ leave it at that: (thông tục) thôi cứ để mặc thế
+
++ to leave something to somebody to decide: để tuỳ ai quyết định cái gì
+
++ leave him to himself: cứ để mặc nó
+- bỏ đi, rời đi, lên đường đi
+
++ to leave Hanoi for Moscow: rời Hà nội đi Mát-xcơ-va
+- bỏ (trường...); thôi (việc)
+
++ to leave school: thôi học; bỏ trường
+*  ndgt
+- bỏ đi, rời đi
+
++ the train leaves at 4 p.m.: xe lửa đi vào lúc 4 giờ chiều
+- ngừng, thôi, nghỉ
+!to leave about
+- để lộn xộn, để bừa bãi
+!to leave alone
+- mặc kệ, bỏ mặc, không dính vào
+
++ leave him alone: để mặc nó, đừng có chòng nó
+!to leave behind
+- bỏ quên, để lại
+
++ to leave a good name behind: lưu danh, để lại tiếng thơm
+!to leave off
+- bỏ không mặc nữa (áo)
+- bỏ, ngừng lại, thôi
+
++ to leave off work: nghỉ việc, ngừng việc
+!to leave out
+- bỏ quên, bỏ sót, để sót
+- xoá đi
+
++ leave that word out: xoá từ ấy đi
+!to leave over
+- để lại về sau (chưa giải quyết ngay)
+!to leave the beaten track
+- không đi vào con đường mòn ((nghĩa đen) & (nghĩa bóng))
+!to leave go
+!to leave hold of
+- buông ra
+!to leave much to be desired
+- chưa tốt, còn nhiều điều đáng chê trách
+!to leave no means untried
+!to leave no stone unturned
+- dùng đủ mọi thủ đoạn, dở đủ mọi cách
+!to leave the rails
+- (xem) rail
+!to leave room for
+- nhường chỗ cho
+!to leave someone in the lurch
+- (xem) lurch
+!to leave to chance
+- phó mặc số mệnh
+!to leave word
+- dặn dò, dặn lại
+!to get left
+- (thông tục) bị bỏ rơi
+
++ to have no strength left: bị kiệt sức
+!this leaves him indifferent
+- việc ấy cũng chẳng làm cho nó quan tâm; nó thờ ơ với việc ấy
+
+@leave
+- để lại, còn lại
+ @leave-breaker  
+*  dt
+- người nghỉ quá hạn
+
+@leaved  
+*  tt
+- có lá
+- có cánh (cửa)
+
+@leaven  
+*  dt
+- men
+- (nghĩa bóng) ảnh hưởng làm thay đổi, ảnh hưởng làm lan ra
+- chất nhuộm vào; chất pha trộn vào
+!they are both of the same leaven
+- chúng cùng một giuộc
+*  ngdgt
+- làm lên men
+- (nghĩa bóng) làm cho thấm và thay đổi
+
+@leavening  
+*  dt
+- sự làm lên men
+- sự làm cho thấm và thay đổi
+
+@leaves  
+*  dt,  số nhiều leaves  @leave-taking  
+*  dt
+- buổi tiễn đưa, buổi tiễn biệt
+
+@leavings  
+*  dt số nhiều
+- những cái còn lại, những cái còn thừa
+
+@lebensraum
+* dt
+- không gian sinh tồn (thuyết của Phát-xít Đức)
+ @lecher  
+*  dt
+- kẻ phóng đâng, kẻ dâm đãng
+
+@lecherous  
+*  tt
+- phóng đâng, dâm đãng
+
+@lecherously
+* dt
+- phóng đãng, dâm đãng
+ @lecherousness   (lechery) @lechery
+* dt
+- sự phóng đãng; sự dâm đãng
+ @lechry   (lechery) @lecithin  
+*  dt
+- (hoá học) lexithin
+
+@lectern  
+*  dt
+- bục giảng kinh (ở giáo đường)
+
+@lection  
+*  dt,  (từ hiếm,nghĩa hiếm)
+- bài đọc
+- bài giảng kinh (ở giáo đường)
+- bài giảng, bài học
+
+@lectionary  
+*  dt
+- tập kinh giảng (ở nhà thờ khi làm lễ)
+
+@lecture  
+*  dt
+- bài diễn thuyết; bài lên lớp; bài thuyết trình; bài nói chuyện
+- lời la mắng, lời quở trách
+
++ to read (give) someone a lecture: quở trách ai; lên lớp cho ai
+*  dgt
+- diễn thuyết, thuyết trình
+- la mắng, quở trách; lên lớp (ai)
+
+@lecture
+- bài giảng   giảng bài
+@lecturer  
+*  dt
+- người diễn thuyết, người thuyết trình
+- giảng viên (ở trường đại học)
+
+@lectureship  
+*  dt
+- chức vị người thuyết trình
+- chức vị giảng viên
+
+@led  
+*  động tt quá khứ của lead
+
+@lederhosen
+* dt số nhiều
+- quần sóoc da truyền thống có dây đeo (mặc ở Bắc châu Âu, đặc biệt là Bavaria)
+ @ledge  
+*  dt
+- gờ, rìa (tường, cửa...)
+- đá ngầm
+- (ngành mỏ) mạch quặng
+
+@ledger  
+*  dt
+- (kế toán) sổ cái
+- (kiến trúc) phiến đá phẳng (để xây bệ thờ, xây mộ...)
+- gióng ngang (của giàn giáo)
+- cần câu
+
+@ledger-bait  
+*  dt
+- mồi câu
+
+@lee  
+*  dt
+- chỗ che, chỗ tránh gió
+
++ under the lee of a house: được một căn nhà che cho khuất gió
+- (hàng hải) mạn dưới gió, mạn khuất gió của con tàu
+
+@lee shore
+* dt
+- bờ hứng gió từ biển thổi vào
+ @leeboard
+* dt
+- mảnh gỗ để chắn gió (bên mạn tàu)
+ @leech  
+*  dt
+- cạnh buồm, mép buồm
+- con đỉa
+
++ to stick like a leech: dai như đỉa
+- (nghĩa bóng) kẻ bóc lột, kẻ hút máu
+- (từ cổ,nghĩa cổ) thầy thuốc, thầy lang
+*  ngdgt
+- cho đỉa hút máu
+
+@leechlike  
+*  tt
+- như đỉa
+
+@leek  
+*  dt
+- tỏi tây
+!to eat (swallow) the leek
+- ngậm đắng nuốt cay, chịu nhục
+
+@leer  
+*  dt
+- cái liếc mắt đểu cáng; cái liếc mắt dâm dật
+*  ndgt
+- liếc nhìn mắt đểu cáng; liếc mắt dâm dật
+
+@leeriness  
+*  dt
+- tính ranh mãnh, tính láu cá
+
+@leery  
+*  tt
+- (từ lóng) ranh mãnh, láu cá
+
+@lees  
+*  dt số nhiều
+- cặn rượu, cặn
+- cặn bã
+
++ the lees of society: những cặn bã của xã hội
+!to drink (drain) a cup to the lees
+- uống không chừa cặn
+- chịu đau khổ đến cùng
+!the lees of life
+- lúc tuổi già sức yếu
+
+@leeward  
+*  dt
+- (hàng hải) phía dưới gió
+*  tt & dt
+- (hàng hải) ở phía dưới gi
+
+@leeway  
+*  dt
+- (hàng hải) sự trôi giạt (tàu, thuyền)
+- việc làm chậm trễ, sự mất thời gian
+
++ to make up leeway: cố gắng khắc phục thời gian chậm trễ; gắng thoát ra khỏi một tình trạng xấu
+
++ to have much leeway to make up: có nhiều việc làm chậm trễ phải khắc phục; có nhiều khó khăn phải khắc phục
+
+@leeway
+- (cơ học) trôi, giạt, bạt
+- left (bên) trái on the l. về phía trái; on the l. of the equation vế trái của
+- phương trình 
+ @left  
+*  tt
+- trái; tả
+
++ left wing: (quân sự) cánh tả
+*  dt
+- về phía trái, về phía tả
+
++ left face!; left turn!: (quân sự) quay trái quay
+
++ to turn left: quay về về phía trái, rẽ trái
+*  dt
+- phía trái, phía tả
+
++ to turn to the left: rẽ về phía tay trái
+- (chính trị) (Left) phái tả
+- tay trái
+
++ to get in one's with one's left: đấm một cú tay trái
+- (quân sự) cánh tả
+!over the left
+- (từ lóng) phải hiểu ngược lại, phải hiểu trái lại
+*  thời quá khứ & động tt quá khứ của leave
+
+@left bank
+- tả ngạn (sông)
+ @left wing
+* tt
+- <chtrị>(thuộc) cánh tả
+ @left-hand  
+*  tt
+- về phía trái, về bên trái; cho tay trái; bằng tay trái
+
++ a left-hand blow: một cú đấm trái
+
+@left-hand
+- về phía trái
+ @left-handed  
+*  tt
+- thuận tay trái
+- chuyển từ phải sang trái
+
++ a left-handed screw: đinh ốc xoay trái
+- vụng về
+
++ a left-handed person: một người thuận tay trái; một người vụng về
+- không thành thực, có ẩn ý
+
++ a left-handed compliment: một lời khen không thành thực
+!left-handed marriage
+- cuộc hôn nhân của người quý tộc với người đàn bà bình dân
+
+@left-handed
+- xoắn trái, (thuộc) hệ toạ độ trái
+ @left-handedly  
+*  dt
+- thuận tay trái
+- bằng tay trái
+
+@left-handedness  
+*  dt
+- sự thuận tay trái
+- sự vụng về
+- sự không thành thực, sự có ẩn ý
+
+@left-hander  
+*  dt
+- người thuận tay trái
+- cú đấm trái
+
+@leftism  
+*  dt,  (chính trị)
+- phái tả
+- chủ nghĩa (của) phái tả
+
+@leftist  
+*  dt
+- (chính trị) người phái tả
+*  tt
+- (chính trị) (thuộc) phái tả
+
+@left-luggage office  
+*  dt
+- (ngành đường sắt) nơi giữ đồ vật bỏ quên
+
+@leftmost  
+*  tt
+- cực tả
+
+@left-off  
+*  tt
+- không dùng được, bỏ đi
+
+@leftover
+* dt
+- phần thừa lại; phần còn lại; phần chưa dùng đến
+- (số nhiều) thức ăn thừa
+* tt
+- thừa lại; còn thừa; còn lại; chưa dùng đến
+
++  You could use the leftover paint giấy dán tường còn thừa anh cứ lấy mà dùng
+
++  I made a curry with the leftover chicken:Chỗ gà còn lại tôi nấu ca ri
+@left-overs
+* dt
+- thức ăn thừa
+ @leftward   (leftwards) @leftwards   (leftwards) @left-wing  
+*  tt
+- (chính trị) thuộc cánh tả, thuộc phái tả
+
+@left-winger  
+*  dt
+- nghị sĩ cánh tả, người thuộc phái tả
+
+@lefty  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người thuận tay trái
+
+@leg  
+*  dt
+- chân, cẳng (người, thú...)
+- chân (bàn ghế...)
+- ống (quần, giày...)
+- nhánh com-pa
+- cạnh bên (của tam giác)
+- đoạn (đường đi); chặng; giai đoạn
+
++ the first leg of a flight: chặng đầu trong chuyến bay
+- (thể dục,thể thao) ván (trong một hiệp đấu)
+- (từ lóng) kẻ lừa đảo
+!to be all legs
+- cao lêu đêu, chỉ thấy chân với cẳng
+!to be on one's last legs
+- kiệt sức, sắp chết
+!to feet one's legs
+- (xem) feel
+!to get on one's legs
+- (xem) get
+!to give someone a leg up
+- đỡ ai leo lên, đỡ ai trèo lên
+- giúp đỡ ai vượt qua lúc khó khăn
+!to have the legs of someone
+- đi (chạy) nhanh hơn ai
+!to keep one's legs
+- (xem) keep
+!to make a leg
+- cúi đầu chào
+!not to have a leg to stand on
+- không có lý lẽ gì để bào chữa cho thuyết của mình
+!to pull someone's leg
+- (thông tục) trêu chòng ai, giễu cợt ai
+!to put one's best leg foremost
+- (xem) best
+!to run someone off his legs
+- bắt ai làm việc mệt nhoài, bắt ai làm việc liên miên
+!to shake a leg
+- (thông tục) nhảy, khiêu vũ
+!to show a leg
+- (thông tục) ra khỏi giường
+!to stand on one's own legs
+- tự tin ở mình, sự tự lực, sự tự chủ
+!to take to one's leg
+- chạy đi, bỏ chạy
+
++ to walk someone off his lefs: bắt ai đi rạc cả cẳng
+*  ngdgt
+- đẩy (thuyền) bằng chân (qua sông đào trong đường hầm)
+*  ndgt
+- to leg it đi mau, chạy mau
+
+@leg art  
+*  dt
+- ảnh đàn bà cởi truồng, ảnh đàn bà ăn mặc loã lồ ((từ Mỹ,nghĩa Mỹ) (cũng) cheese-cake)
+
+@leg work
+* dt
+- công việc đòi hỏi đi tới đi lui nhiều
+ @legacy  
+*  dt
+- tài sản kế thừa, gia tài, di sản
+
++ to come into a legacy: được thừa hưởng một gia tài
+
++ to leave a legacy for: để lại một di sản cho (ai)
+
++ a legacy of hatred: mối thù truyền kiếp
+
+@legacy-hunter  
+*  dt
+- người xu nịnh để mong được hưởng gia tài
+
+@legal  
+*  tt
+- hợp pháp, theo pháp luật
+- do pháp luật định
+- (thuộc) pháp luật
+
+@legal aid
+* dt
+- chi phí tư vấn pháp lý
+ @legal proceedings
+* dt
+- sự kiện tụng, sự tranh tụng
+ @legal tender  
+*  dt
+- tiền tệ chính thức
+
+@legalese
+* dt
+- ngôn ngữ đặc biệt (lóng) của luật sư
+ @legalisation
+* dt
+- sự hợp pháp hoá
+- sự công nhận, sự chứng nhận (về <pháp>)
+ @legalise   (legalise) @legalism
+* dt
+- sự tuân theo pháp luật
+- chủ nghĩa hợp pháp
+ @legalist  
+*  dt
+- người tôn trọng pháp luật, người tuân theo pháp luật
+- người theo chủ nghĩa hợp pháp
+- người quan liêu giấy t
+
+@legalistic
+* tt
+- theo chủ nghĩa hợp pháp, ủng hộ chủ nghĩa hợp pháp
+ @legality  
+*  dt
+- sự hợp pháp; tính hợp pháp
+- phạm vi pháp luật
+
+@legalization  
+*  dt
+- sự hợp pháp hoá
+- sự công nhận, sự chứng nhận (về pháp lý)
+
+@legalize   (legalise) @legally
+* dt
+- về phương diện pháp lý
+- hợp pháp, đúng pháp luật
+ @legasism  
+*  dt
+- sự tuân theo pháp luật
+- chủ nghĩa hợp pháp
+- thói quan liêu
+
+@legate  
+*  dt
+- giáo sĩ đại diện giáo hoàng
+- (từ cổ,nghĩa cổ) đại sứ; người đại diện
+*  ngdgt
+- để lại, truyền cho
+
+@legatee  
+*  dt
+- người thừa kế
+
+@legateship  
+*  dt
+- chức đại diện giáo hoàng
+
+@legation  
+*  dt
+- việc cử đại diện, việc cử phái viên
+- công sứ và những người tuỳ tùng
+- toà công s
+
+@legato
+* tt, adv
+- <nhạc> đều đều, khoan thai
+ @legator
+* dt
+- người để lại di sản
+ @leg-bail  
+*  dt
+- sự bỏ trốn, sự chạy trốn, sự tẩu thoát
+
++ to give leg-bail: chạy trốn, tẩu thoát
+
+@legend  
+*  dt
+- truyện cổ tích, truyền thuyết
+- chữ khắc (trên đồng tiền, trên huy chương)
+- lời ghi chú, câu chú giải (trên tranh ảnh minh hoạ)
+
+@legendary  
+*  dt
+- (thuộc) truyện cổ tích, (thuộc) truyền thuyết
+*  dt
+- tập truyện cổ tích
+
+@legendist  
+*  dt
+- người viết truyện cổ tích
+
+@legendize  
+*  ngdgt
+- biến thành truyện cổ tích, biến thành truyền thuyết
+
+@legendry
+* dt
+- tập truyện cổ tích
+ @leger
+* dt
+- <nhạc> dấu thêm vào trên hoặc dưới khuông nhạc để ghi những nốt nhạc vượt khỏi khuông
+ @Leger tender
+- (Econ) Phương tiện thanh toán hợp pháp (luật định).
+ @legerdemain  
+*  dt
+- trò lộn sòng, trò bài tây, trò ảo thuật
+- sự lừa phỉnh; mưu lừa gạt
+- sự nhanh tay
+
+@legerity  
+*  dt
+- tính nhanh nhẹn
+
+@legged
+* tt(dùng trong tt ghép)
+- có chân
+ @leggings  
+*  dt số nhiều
+- xà cạp
+
+@leggy  
+*  tt
+- có cẳng dài
+- phô bày đùi vế
+
+@leghorn  
+*  dt
+- rơm lêchho (một loại rơm ở vùng Li-vóoc-nô,  Y)
+- mũ rơm lêchho
+- gà lơgo
+
+@legibility  
+*  dt
+- tính dễ đọc dễ xem, tính rõ ràng
+
+@legible
+* tt
+- rõ ràng, dễ đọc
+ @legibly
+* dt
+- rõ ràng, dễ đọc
+ @legion  
+*  dt
+- quân đoàn ((từ cổ,nghĩa cổ) La-mâ, từ ba đến sáu nghìn người)
+- nhiều, vô số; đoàn, lũ
+
++ their name is Legion: chúng đông vô số kể
+!the foreign legion
+- đội lính lê dương (Pháp)
+!Legion of Honour
+- Bắc đẩu bội tinh (Pháp)
+
+@legionary  
+*  dt
+- quân lính ((từ cổ,nghĩa cổ) La-mã)
+- (quân sự) lính lê dương
+*  tt
+- (thuộc) quân đoàn ((từ cổ,nghĩa cổ) La-mã)
+- (thuộc) đội lính lê dương (Pháp)
+
+@legionnaire  
+*  dt
+- (quân sự) lính lê dương
+
+@legionnaires'disease
+* dt
+- <y> chứng viêm phổi do nhiễm khuẩn
+ @leg-iron  
+*  dt
+- xích (để xích chân)
+
+@legislate  
+*  ndgt
+- làm luật, lập pháp
+
+@legislation  
+*  dt
+- sự làm luật, sự lập pháp
+- pháp luật, pháp chế
+- sự ban hành pháp luật
+
+@legislative  
+*  tt
+- làm luật, lập pháp
+
++ a legislative body: hội đồng lập pháp
+
++ legislative power: quyền lập pháp
+
+@legislator  
+*  dt
+- người làm luật, người lập pháp; thành viên có quan lập pháp
+
+@legislatorial
+* tt
+- có tính chất lập pháp
+ @legislatorship  
+*  dt
+- chức vị người làm luật, chức vị người lập pháp; chức vị thành viên có quan lập pháp
+
+@legislature  
+*  dt
+- cơ quan lập pháp
+
+@legist  
+*  dt
+- nhà luật học; người giỏi luật, người thông luật pháp
+
+@legit
+* tt
+- hợp pháp
+ @legitimacy  
+*  dt
+- tính hợp pháp
+- tính chính đáng; tính chính thống
+
+@legitimate  
+*  tt
+- hợp pháp
+
++ legitimate child: đứa con hợp pháp
+- chính đáng; chính thống
+
++ legitimate purpose: mục đích chính đáng
+
++ legitimate king: vua chính thống
+- có lý, hợp lôgic
+
++ legitimate argument: lý lẽ có lý
+*  ngdgt
+- hợp pháp hoá
+- chính thống hoá
+- biện minh, bào chữa (một hành động...)
+
+@legitimate
+- làm hợp pháp
+ @legitimately
+* dt
+- hợp pháp
+ @legitimation  
+*  dt
+- sự hợp pháp hoá
+- sự chính thống hoá
+- sự biện minh, sự bào chữa
+
+@legitimatise   (legitimise) @legitimatize   (legitimise) @legitimise   (legitimise) @legitimism  
+*  dt
+- chủ nghĩa chính thống
+
+@legitimist  
+*  dt
+- người theo chủ nghĩa chính thống
+
+@legitimize   (legitimise) @legless
+* tt
+- không có chân
+- lảo đảo quờ quạng, chân nam đá chân chiêu
+ @leg-man  
+*  dt,  (từ Mỹ,nghĩa Mỹ)
+- phóng viên
+- người đi nhặt tin, người sưu tầm tài liệu; chân chạy
+
+@legman
+* dt
+- (từ Mỹ,nghĩa Mỹ)
+- phóng viên
+- người đi nhặt tin; người đi sưu tầm tài liệu
+ @lego
+* dt
+- đồ chơi bằng vật rắn hay nhựa được xây khớp vào nhau
+ @leg-of-mutton  
+*  tt
+- có ba góc (giống đùi cừu)
+
++ leg-of-mutton sail: buồm ba góc
+
+@leg-pull  
+*  dt
+- (thông tục) mẹo lừa
+
+@leg-rest  
+*  dt
+- cái để chân (cho người què)
+
+@legroom  
+*  dt
+- chỗ duỗi chân, chỗ để chân (cho thoải mái)
+
+@legume  
+*  dt
+- (thực vật học) quả đậu
+- (thực vật học) cây họ đậu
+- rau đậu, rau ăn
+
+@legumin  
+*  dt
+- (hoá học); (sinh vật học) Legumin
+
+@leguminous  
+*  tt
+- (thực vật học) (thuộc) loại đậu
+
+@leg-up
+* dt (thông tục)
+- vật giúp để trèo lên
+- sự giúp đỡ, sự ủng hộ
+ @leg-warmers
+* dt
+- vật phủ ấm chân (từ đầu gối đến mắt cá)
+ @legwork
+- công tác đòi hỏi phải đi đây đó(của người phát thư, của một thám tử)
+ @lehr
+* dt
+- lò bếp dài
+ @lei  
+*  dt,  số nhiều lei  @leister  
+*  dt
+- cái lao (có răng, để đâm cá)
+*  ngdgt
+- đâm (cá) bằng lao
+
+@leisure  
+*  dt
+- thì giờ rỗi rãi, lúc thư nhàn
+
++ at leisure: rỗi việc, có thì giờ rảnh, nhàn nhã; ung dung, không vội vàng
+
++ at one's leisure: vào lúc rỗi rãi, vào lúc rảnh rang
+
++ to wait someone's leisure: chờ ai có thì giờ rảnh
+
+@leisure centre
+* dt
+- khu vui chơi, trung tâm giải trí
+ @leisured  
+*  tt
+- có nhiều thì giờ rỗi rãi, nhàn hạ
+
++ leisured classes: những lớp người nhàn hạ
+
+@leisureliness  
+*  dt
+- sự rỗi rãi, sự rảnh rang; sự thong dong
+
+@leisurely  
+*  tt
+- rỗi rãi, rảnh rang; thong thả, thong dong, ung dung, nhàn nhã
+- làm trong lúc rảnh rang; làm ung dung
+*  dt
+- nhàn nhã; thong thả, thong dong, ung dung
+
+@leit-motif   (leit-motiv) @leitmotif
+* dt
+- <nhạc> nét chủ đạo
+- chủ đề quán xuyến
+ @leit-motiv   (leit-motiv) @leitmotiv
+- Cách viết khác : leitmotif 
+ @lekker
+* tt
+- (từ Nam Phi) dễ chịu; tốt
+ @leman  
+*  dt
+- (từ cổ,nghĩa cổ) tình nhân, nhân ngãi
+
+@lemma  
+*  dt,  số nhiều lemmas  @lemma
+- bổ đề
+ @lemmas
+* dt
+- <toán> bổ đề
+- cước chú (cho tranh ảnh)
+ @lemmata  
+*  dt,  số nhiều lemmas  @lemming  
+*  dt
+- (động vật học) con lemmut
+
+@lemniscate
+* dt
+- (toán học) đường lemniscat
+ @lemniscate
+- lemnixcat
+- cogarithmic l. lemnixcatlôga
+- projective l. lemnixcat xạ ảnh 
+ @lemon  
+*  dt
+- cá bơn lêmon
+*  dt
+- quả chanh; cây chanh
+- màu vàng nhạt
+- (từ lóng) cô gái vô duyên
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) vật vô dụng; người đoảng, người vô tích sự
+
++ to hand someone a lemon: (từ lóng) cho ai một vật vô dụng; đánh lừa ai
+
+@lemon curd
+* dt
+- mứt làm bằng chanh, đường, trứng và bơ
+ @lemon sole
+* dt
+- cá bơn
+ @lemonade  
+*  dt
+- nước chanh
+
+@lemon-drop  
+*  dt
+- kẹo chanh
+
+@lemongrass
+* dt
+- cỏ chanh (cỏ cứng ở vùng nhiệt đới, ngửi (như) mùi chanh dùng làm hương liệu cho xà phòng)
+ @lemon-squash  
+*  dt
+- nước chanh quả pha xô đa
+
+@lemon-squeezer  
+*  dt
+- cái để vắt chanh
+
+@lemon-tree  
+*  dt
+- cây chanh
+
+@lemony  
+*  tt
+- có vị chanh, có chất chanh
+
+@lemur  
+*  dt
+- (động vật học) loài vượn cáo
+
+@lemures
+* dt số nhiều
+- hồn của những người chết không được chôn (bị xua đuổi không cho vào nhà)
+ @len lity  
+*  dt
+- (thực vật học) cây thuỷ tiên hoa vàng
+
+@lend   (lent) @lender  
+*  dt
+- người cho vay, người cho mượn
+
+@Lender of last resort
+- (Econ) Người cho vay cứu cánh cuối cùng.
+: Một trong những chức năng, và là một trong những lý do tồn tại của một NGÂN HÀNG TRUNG ƯƠNG HIỆN ĐẠI.
+ @lending  
+*  dt
+- sự cho vay, sự cho mượn
+
+@lending-library  
+*  dt
+- thư viện (cho) mượn (sách về nhà)
+
+@lend-lease act  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) thoả ước thuê mượn vũ khí (trong đại chiến II)
+
+@length  
+*  dt
+- bề dài, chiều dài, độ dài
+
++ at arm's length: cách một sải tay
+!to keep someone at arm's length
+- tránh không làm thân với ai
+!at length
+- sau hết, cuối cùng
+- đầy đủ chi tiết
+- trong một thời gian dài
+!at full length
+- hoàn toàn đầy đủ, không rút gọn, không cắt xén; không viết tắt (chữ viết)
+- nằm dài
+!at some length
+- với một số chi tiết
+!to fall at full length
+!full to go to the length
+!to go to any length
+- làm bất cứ cái gì có thể; không e dè câu nệ; không có gì có thể cản trở được
+!to go the whole length of it
+- (xem) go
+!to go to the length of thinking that...
+- đi đến chỗ nghĩ rằng...
+!to win by a length
+- hơn một thuyền; hơn một ngựa; hơn một xe... (trong những cuộc đua thuyền, ngựa, xe đạp...)
+
+@length
+- độ dài, chiều dai
+- l. of arc độ dài cung
+- l. of a curve độ dài đường cong
+- l. of normal độ dài pháp tuyến
+- l. of a rectangle chu vi hình chữ nhật
+- l. of a tangent độ dài tiếp tuyền
+- extremal l. (giải tích) độ dài cực trị
+- focal l. tiêu cự
+- pulse l. (máy tính) độ dài xung
+- reduced l. độ dài rút gọn
+- register l. độ dài của thanh ghi
+- word l. (máy tính) độ dài của từ, độ dài của mã hiệu
+- wave l. bước sóng 
+ @lengthen  
+*  ngdgt
+- làm dài ra
+*  ndgt
+- kéo dài ra, dài ra
+
+@lengthen
+- kéo dài
+ @lengthened
+- được kéo dài
+ @lengthily
+* dt
+- dong dài, dài dòng, lê thê
+ @lengthiness  
+*  dt
+- sự kéo dài dòng
+
+@lengthways   (lengthwise) @lengthwise   (lengthwise) @lengthy  
+*  tt
+- dài, dài dòng; làm buồn, làm chán
+
++ a lengthy speech: bài nói dài dòng
+
++ a lengthy style: văn phòng dài dòng
+
+@lenience   (leniency) @leniency   (leniency) @lenient  
+*  tt
+- nhân hậu, hiền hậu, khoan dung
+
+@leniently
+* dt
+- nhân hậu, khoan dung
+ @leninism  
+*  dt
+- chủ nghĩa Lê-nin
+
+@leninist  
+*  dt
+- người theo chủ nghĩa Lê-nin
+*  tt
+- (thuộc) chủ nghĩa Lê-nin; theo chủ nghĩa Lê-nin
+
+@leninite  
+*  dt
+- người theo chủ nghĩa Lê-nin
+
+@lenis
+* tt
+- hơi bật yếu
+ @lenitive  
+*  tt
+- làm đỡ đau, làm dịu
+*  dt
+- (y học) thuốc giảm đau, thuốc làm dịu
+
+@lenity  
+*  dt
+- tính khoan dung; sự khoan dung
+
+@lens  
+*  dt
+- thấu kính
+
++ positive lens: thấu kính hội tụ
+
++ negative lens: thấu kính phân kỳ
+- kính lúp; kính hiển vi
+- ống kính (máy ảnh)
+*  ngdgt
+- chụp ảnh; quay thành phim
+
+@lens
+- (vật lí) thấu kinh
+- converging l. thấu kính hội tụ
+- diverging l. thấu kính phân kỳ 
+ @lensed
+* tt
+- có thấu kính
+ @lensless
+* tt
+- không có thấu kính
+ @lent  
+*  thời quá khứ & động tt quá khứ của lend
+*  dt
+- Lent mùa chay, tuần chay (vào tháng ba)
+
++ to keep lent: ăn chay
+
+@lent lily
+* dt
+- <thực> cây thuỷ tiên hoa vàng
+ @lent term  
+*  dt
+- học kỳ mùa xuân (ở các trường đại học Anh)
+
+@lenten  
+*  tt
+- (thuộc) tuần chay; dùng trong tuần chay
+
++ lenten colour: màu tang, màu xám xịt ảm đạm
+
++ a lenten face: bộ mặt rầu rĩ
+- chay, đạm bạc
+
++ lenten fare: cơm chay
+
+@lentic
+* tt
+- thuộc (sống) ở vùng nước tù (hồ, ao, đầm lầy)
+ @lentics   (lentisk) @lenticular   (lenticulated) @lenticulated   (lenticulated) @lentiform   (lenticulated) @lentiginous
+* tt, cũng lentiginose
+- lấm chấm; lốm đốm
+ @lentil  
+*  dt
+- (thực vật học) đậu lăng
+
+@lentisk   (lentisk) @lentitude  
+*  dt
+- sự chậm chạp; sự trì chậm
+
+@lento  
+*  dt
+- (âm nhạc) chậm
+
+@lentoid
+* tt
+- hình thấu kính
+ @lentoil  
+*  tt
+- hình thấu kính
+
+@leo  
+*  dt
+- (thiên văn học) cung Sư t
+
+@leonine  
+*  tt
+- (thuộc) sư tử; giống sư t
+
+@Leontief inverse
+- (Econ) Số nghịch đảo Leontief.
+ @Leontief paradox
+- (Econ) Nghịch lý Leontief.
+: Xem HECKSCHER - OHLIN APPROACH TO INTERNATIONAL TRADE.
+ @Leontief, Wassily W.
+- (Econ) (1906-)
+: Sinh ra ở Liên Xô, Leontief trở thành giáo sư kinh tế tại Harvard năm 1946. Tác phẩm chính của ông là một bài phân tích về phụ thuộc lẫn nhau bên trong một nền kinh tế, và đặc biệt là bên trong khu vực sản xuất, sử dụng một kỹ thuật mà ông ta gọi là phân tích đầu ra - đầu vào. Trong các tác phẩm như Các nghiên cứu về cơ cấu kinh tế Mỹ (1953) và Kinh tế học đầu vào - đầu ra (1966), ông mở rộng mô hình tác động qua lại của QUESNAY và củănhngx người kác thành một mô hình toán cao cấp cho thấy mối quan hệ giữa các thành phần của một hệ thống kinh tế. Leontief đã áp dụng kỹ thuật đó vào nền kinh tế Mỹ, và đã tạo ra các kết qủa lý thú trong lĩnh vực thương mại quốc tế và kinh tế tài nguyên thiên nhiên. Kỹ thuật đó đã trở thành cơ sở của kế hoạch hoá trong nhiều nền kinh tế phi thị trường. Leontief được tặng giải thưởng Nobel về kinh tế năm 1973.
+ @leonurus  
+*  dt
+- (thực vật học) cây ích mẫu
+
+@leopard  
+*  dt
+- (động vật học) con báo
+!can the leopard change his spots?
+- đánh chết cái nết không chừa
+
+@leopardess  
+*  dt
+- con báo cái
+
+@leotard  
+*  dt
+- quần áo nịt (của diễn viên múa ba lê...)
+
+@lepcha
+* dt; số nhiều lepcha,  lepchas
+- người Lepcha ở Sikkim (ấn-độ)
+- ngôn ngữ miền Tây Tạng của người Lepcha
+ @leper  
+*  dt
+- người hủi, người bị bệnh phong
+
+@leper house   (leprosarium) @lepidolite
+* dt
+- (khoáng chất) lepidolit
+ @lepidopteral   (lepidoterous) @lepidopteran
+* dt
+- sâu bọ cánh vảy; sâu bọ cánh phấn
+ @lepidopterist  
+*  dt
+- nhà nghiên cứu bướm
+
+@lepidopteron
+* dt; số nhiều lepidoptera,  lepidopterons
+- sâu bọ cánh vảy
+ @lepidopterous   (lepidoterous) @lepidosis
+* dt; số nhiều lepidoses
+- sự sắp xếp những lớp vảy
+ @lepidote
+* tt
+- có phủ vảy
+ @leporine  
+*  tt
+- (động vật học) (thuộc) loài th
+
+@leprechaun  
+*  dt
+- quỷ, ma, yêu tinh (thần thoại Ai-len)
+
+@leprosarium   (leprosarium) @leprosy  
+*  dt
+- bệnh hủi, bệnh phong
+
+@leprotic
+* tt
+- (thuộc) bệnh hủi; bệnh phong
+- (thuộc) ảnh hưởng độc hại
+ @leprous  
+*  tt
+- (thuộc) hủi
+- sần sủi lở láy như hủi
+
+@leptocephalic  
+*  tt
+- (giải phẫu) có sọ hẹp
+
+@leptocephalus
+* dt số nhiều
+- (động vật) cá chình con mới nở
+ @leptodactyl  
+*  tt
+- có ngón dài (chim)
+
+@leptokurtosis
+- (thống kê) độ nhọn vượt chuẩn
+ @lepton
+* dt
+- (vật lý) lepton (hạt cơ bản)
+ @leptorrhine
+* tt
+- có sống mũi dài, cao và hẹp
+ @leptospirosis
+* dt; số nhiều leptospiroses
+- (y học) bệnh trùng xoắn móc câu
+ @leptotene
+* dt
+- (sinh học) sợi mảnh (trong phân bào)
+ @Lerner, Abba P.
+- (Econ) (19031983).
+: Sinh ra ở Nga và học ở Anh, sự nghiệp nghiên cứu của ông diễn ra ở một số trường đại học ở Mỹ. Tác phẩm ban đầu của ông bao gồm việc miêu tả bằng đồ thị và mở rộng thuyết giá trị của Marshall để bao gồm những nghiên cứu về cạnh tranh không hoàn hảo của Joan ROBINSON và CHAMBERLIN. Tác phẩm này tập trung vào việc tìm kiếm một khái niệm đầy đủ  về quyền lực độc quyền và bảo vệ chủ nghĩa bình quân bằng cách sử dụng quy luật lợi tức biên giảm dần. Tác phẩm chính của ông là Kinh tế học kiểm soát (1944) sử dụng nhiều những phân tích của Marshall để tạo ra một tình huống ủng hộ CHỦ NGHĨA XÃ HỘI THỊ TRƯỜNG. Ông cũng đưa ra những điều kiện mà theo đó một sự thay đổi về tỷ giá hối đoái của một quốc gia sẽ cải thiện được cán cân thương mại của nó. Điều kiện này thường được gọi là ĐIỀU KIỆN MARSHALL - LERNER. Ngoài ra, Lerner còn là người ủng hộ và bảo vệ kinh tế học KEYNES.
+ @Lerner case
+- (Econ) Tình huống Lerner.
+: Tình huống do Lerner phân tích trong thuyết về thuế quan trong đó việc áp dụng một loại thuế quan vào một mặt hàng nhập khẩu có nhu cầu trong nước không co giãn theo giá thì kết quả sẽ dẫn tới cán cân thương mại tồi tệ hơn vì cầu đối với sản phẩm đó tăng lên.
+ @Lerner index
+- (Econ) Chỉ số Lerner
+: Khi CẠNH TRANH HOÀN HẢO tồn tại thì giá bán chi phí biên; do vậy chỉ số này sẽ có giá trị bằng 0.
+ @lesbian  
+*  dt
+- người đàn bà thích đồng dục n
+
+@lesbianism  
+*  dt
+- thói đồng dục n
+
+@lese-majesty  
+*  dt
+- tội khi quân, tội phản vua
+
+@lesion  
+*  dt
+- (y học) thương tổn
+
+@lespedeza
+* dt
+- (thực vật) cây hồ chì, cây đậu mắt gà
+ @less  
+*  tt,  cấp so sánh của little
+- nhỏ hơn, bé hơn, ít hơn, kém
+
++ less noise, please!: ồn vừa chứ!
+
++ of less value: kém giá trị hơn
+
++ of less importance: kém quan trọng hơn
+!may your never be less
+- mong anh không gầy đi
+*  dt
+- nhỏ hơn, bé hơn, ít hơn, không bằng, kém
+
++ speak less and listen more: hãy nói ít nghe nhiều
+
++ less clever than: không thông minh bằng
+
++ less hurt than frightened: sợ nhiều hơn là đau
+
++ though not strong, he is none the less active: tuy không được khoẻ nhưng nó vẫn nhanh nhẹn
+*  dt
+- số lượng ít hơn, số lượng không bằng, số lượng không đầy
+
++ less than twenty of them remain now: bây giờ trong bọn họ còn lại không đầy hai mươi người
+
++ I cannot take less: tôi không thể lấy ít hơn
+
++ in less than a year: chưa đầy một năm
+!in less than no time
+- ngay lập tức
+!less of your lip!
+- hỗn vừa vừa chứ!
+*  giới từ
+- bớt đi, lấy đi, trừ đi, kém đi
+
++ a year less two months: một năm kém hai tháng
+
+@less
+- ít hơn, bé hơn   trừ
+@Less devoloped countries (LDCs)
+- (Econ) Các nước chậm phát triển.
+: Xem DEVOLOPING COUNTRIES.
+ @lessee  
+*  dt
+- người thuê theo hợp đồng (nhà, đất)
+
+@lessen  
+*  ngdgt
+- làm nhỏ đi, làm bé đi, làm giảm đi
+
++ to lessen the strain: giảm sự căng thẳng
+*  ndgt
+- nhỏ đi, bé đi
+
+@lesser  
+*  tt,  cấp so sánh của little
+- nhỏ hơn, bé hơn, ít hơn
+
+@lesson  
+*  dt
+- bài học
+
++ to learn one's lesson by heart: học thuộc lòng bài học
+- lời dạy bảo, lời khuyên
+
++ never forget the lesson of Lenin: không bao giờ được quên những lời dạy bảo của Lê-nin
+- lời quở trách; sự trừng phạt, sự cảnh cáo
+
++ to read someone a lesson: quở trách người nào
+!to give lessons in
+- dạy (môn gì)
+!to take lessons in
+- học (môn gì)
+*  ngdgt
+- quở trách, cảnh cáo, lên lớp (ai); trừng phạt
+- (từ Mỹ,nghĩa Mỹ) dạy, ra bài cho (ai)
+
+@lesson
+- bài học
+ @lessor  
+*  dt
+- chủ cho thuê theo hợp đồng (nhà, đất)
+
+@lest  
+*  dt
+- (e) rằng, (sợ) rằng
+
++ we were afraid lest he should get here too late: chúng tôi nghĩ rằng nó sẽ đến quá muộn
+- để... không để... khỏi
+
++ he ran away lest he shoud be seen: nó bỏ chạy để cho người ta khỏi trông thấy
+
+@let  
+*  dt
+- (từ cổ,nghĩa cổ) sự ngăn cản, sự cản trở
+
++ without let or hindrance: (pháp lý) không có gì cản trở, hoàn toàn tự do
+*  ngdgt
+- (từ cổ,nghĩa cổ) ngăn cản, cản trở
+*  ngdgt let
+- để cho, cho phép
+
++ I let him try once more: tôi để cho nó thử một lần nữa
+- cho thuê
+
++ house to let: nhà cho thuê
+*  ndgt
+- để cho thuê
+!to let by
+- để cho đi qua
+!to let down
+- hạ thấp xuống, buông thõng, bỏ rơi
+
++ she lets down her hair: cô ta bỏ xoã tóc
+!to let in
+- cho vào, đưa vào
+- (từ lóng) lừa, bịp, đánh lừa
+!to let into
+- để cho vào
+
++ to let someone into some place: cho ai vào nơi nào
+- cho biết
+
++ to let someone into the secret: để cho ai hiểu biết điều bí mật
+!to let off
+- tha, không trừng phạt; phạt nhẹ; tha thứ
+- bắn ra
+
++ to let off a gun: nổ súng
+
++ to let off an arrow: bắn một mũi tên
+- để chảy mất, để bay mất (hơi...)
+!to let on
+- (từ lóng) mách lẻo, để lộ bí mật
+- (từ Mỹ,nghĩa Mỹ) giả vờ, làm ra vẻ
+!to let out
+- để cho đi ra, cho chạy thoát, để lọt ra ngoài, cho chảy ra ngoài
+
++ to let the water out of the bath-tub: để cho nước ở bồn tắm chảy ra
+- tiết lộ, để cho biết
+
++ to let out a secret: tiết lộ điều bí mật
+- nới rộng, làm cho rộng ra
+- cho thuê rộng rãi
+!to let out at
+- đánh đấm dữ, xỉ vả và chửi tục tằn
+!to let up
+- (thông tục) dịu đi, bớt đi, yếu đi
+- (từ Mỹ,nghĩa Mỹ) ngừng lại
+!to let alone
+- không nói đến, bỏ mặc, không dính vào, không đụng chạm đến
+!to let somebody alone to do something
+- giao phó cho ai làm việc gì một mình
+!to let be
+- bỏ mặc, để mặc như vậy không dính vào
+
++ let me be: kệ tôi, để mặc tôi
+!to let blood
+- để cho máu chảy, trích máu; cắt tiết
+!let bygones be bygones
+- (xem) bygone
+!to let the cat out of the bag
+- để lộ bí mật
+!to let somebody down gently (easity)
+- khoan thứ với một người nào; không xỉ vả làm nhục ai
+!to let fall
+- bỏ xuống, buông xuống, ném xuống
+- nói buông, nói vô tình, nói thiếu trách nhiệm
+
++ to let fall a remark on someone: buông ra một lời nhận xét về ai
+- (toán học) kẻ (một đường thẳng góc) xuống (một cạnh)
+!to let fly
+- bắn (súng, tên lửa...)
+- ném, văng ra, tung ra
+
++ to let fly a torrent of abuse: văng ra những tràng chửi rủa
+!to let go
+- buông ra, thả ra, bỏ lỏng ra, không nghĩ đến nữa
+!to let oneself go
+- không tự kìm được để cho tình cảm lôi cuốn đi
+!to let somebody know
+- bảo cho ai biết, báo cho ai biết
+!to let loose
+- (xem) loose
+!to let loose the dogs of war
+- tung ra tất cả các lực lượng tàn phá của chiến tranh
+!to let pass
+- bỏ qua, không để ý
+!let sleeping dogs lie
+- (xem) dog
+!to let slip
+- để cho trốn thoát, bỏ lỡ, để mất
+
++ to let slip an opportunity: bỏ lỡ mất nột cơ hội
+!to lets one's tongue run away with one
+- nói vong mạng, nói không suy nghĩ
+*  trợ dgt lời mệnh lệnh
+- hây, để, phải
+
++ let me see: để tôi xem
+
++ let it be done at onece: phải làm xong ngay việc này
+
++ let us go to the cinema: chúng ta hây đi xi nê
+
+@let
+- giả sử, cho phép
+ @let him eff off
+- bảo nó cút đi
+ @letch  
+*  dt
+- (từ lóng) sự thèm muốn
+
+@let-down  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) sự giảm sút, sự suy giảm
+- sự làm thất vọng; sự thất vọng
+
+@letdown
+* dt
+- sự thất vong, sự chán ngán
+ @lethal  
+*  tt
+- làm chết người, gây chết người
+
++ lethal chamber: phòng giết súc vật bằng hơi
+
++ a lethal dose of poison: một liều thuốc độc chết người
+
++ lethal weapons: những vũ khí giết người
+
+@lethality  
+*  dt
+- tính có thể làm chết người, khả năng gây chết người
+
+@lethally
+* dt
+- chí tử, chết bỏ
+ @lethargic   (lethargical) @lethargical   (lethargical) @lethargically
+* dt
+- lờ phờ, thờ ơ
+ @lethargy  
+*  dt
+- trạng thái hôn mê; giấc ngủ lịm
+- tính lờ phờ, tính thờ ơ
+
+@lethe  
+*  dt
+- sông Mê (ở âm phủ)
+- sự lú lẫn, sự quên lãng
+
+@lethean  
+*  tt
+- (thuộc) sông Mê
+- làm cho lú lẫn, làm cho quên lãng
+
+@let-out
+* dt
+- (thông tục) đoạn trong hợp đồng làm người ta có thể thoát khỏi nghĩa vụ của mình
+ @let's
+- let  us chúng ta hãy
+ @lett  
+*  dt
+- người Lát-vi
+
+@letter  
+*  dt
+- chữ cái, chữ
+
++ the 26 letters of the English alphabet: 26 chữ của bảng chữ cái Anh
+
++ a capital letter: chữ hoa
+
++ a small letter: chữ nhỏ
+- thư, thư tín
+
++ business letters: thư công việc, thư thương mại
+- nghĩa chật hẹp, nghĩa mặt chữ
+
++ to understand a clause in letter and spirit: hiểu một điều khoản về cả chữ lẫn ý của nó
+- (số nhiều) văn học, văn chương
+
++ a man of letters: nhà văn, văn sĩ
+
++ the profession of letter s: nghề viết văn
+
++ republic (commonwealth) of letters: giới văn học
+- (từ Mỹ,nghĩa Mỹ) huy hiệu (tặng cho sinh viên có thành tích thể thao...) ((thường) là tên tắt của trường)
+!to the letter
+- chú ý từng li từng tí
+*  ngdgt
+- viết chữ, khắc chữ lên, in chữ lên
+- (kỹ thuật) đánh dấu, in dấu
+
+@letter
+- chữ cái; dấu hiệu   ghi bằng chữ
+- capital l. chữ (cái) hoa
+- code l. chữ mã hiệu; dấu hiệu mã 
+- function l. (máy tính) chữ hàm
+- key l. (điều khiển học) (chữ) khoá (mã hiệu) 
+@letter bomb
+* dt
+- bom thư (bom cài trong thư)
+ @letter box
+* dt
+- thùng thư
+ @letter of advice  
+*  dt
+- (thương nghiệp) thư thông báo
+
+@letter of credit  
+*  dt
+- thư tín dụng
+
+@Letter of credit
+- (Econ) Thư tín dụng.
+: Một văn bản do một ngân hàng phát hành thay mặt khách hàng bảo đảm rằng ngân hàng sẽ thanh toán các séc do khách hàng đó rút, hay phổ biến hơn ngày nay gọi là các hối phiếu do các bên mà khách hàng mua hàng rút theo tên của khách hàng.
+ @letter of exchange  
+*  dt
+- phiếu hối đoái
+
+@letter of introduction  
+*  dt
+- thư giới thiệu
+
+@letter of marque  
+*  dt
+- giấy phép chặn bắt (cho một tư nhân quyền bắt hay tịch thu thuyền buôn nước ngoài)
+
+@letter-balance  
+*  dt
+- cân thư (ở bưu điện)
+
+@letter-bomb
+* dt
+- chất nổ bọc trong thư và được bọn khủng bố gửi theo đường bưu điện, bom thư
+ @letter-box  
+*  dt
+- hòm thư, hộp thư
+
+@letter-card  
+*  dt
+- bưu thiếp
+
+@letter-carrier  
+*  dt
+- người đưa thư
+
+@letter-clip  
+*  dt
+- cái kẹp thư, cái kẹp giấy
+
+@letter-drop  
+*  dt
+- khe (ở cửa...) để bỏ thư
+
+@lettered  
+*  tt
+- có học, hay chữ, thông thái
+- có chữ in, có chữ viết vào...
+- (thuộc) văn chương, (thuộc) văn học
+
+@letterhead  
+*  dt
+- phần in đầu giấy viết thư (tên, địa chỉ...)
+
+@lettering  
+*  dt
+- sự ghi chữ, sự in chữ, sự viết chữ, sự khắc chữ, chữ in, chữ viết, chữ khắc
+- sự viết thư
+
+@letterless  
+*  tt
+- vô học, dốt nát
+
+@letter-lock  
+*  dt
+- khoá ch
+
+@letterman  
+*  dt
+- học sinh được thưởng huy hiệu (vì có thành tích thể thao...)
+
+@letter-paper  
+*  dt
+- giấy viết thư
+
+@letter-perfect  
+*  tt
+- (thuộc) vở (diễn viên)
+
+@letterpress  
+*  dt
+- phần chữ (đối với phần tranh ảnh trong một cuốn sách)
+
+@letters patent  
+*  dt số nhiều
+- (pháp lý) giấy chứng nhận đặc quyền (quyền sử dụng, bán phát minh của mình...)
+
+@letter-writer  
+*  dt
+- nhà văn chuyên viết thể thư
+- người viết thư thuê
+- sách dạy viết thư
+
+@letting
+* dt
+- tài sản (nhà, căn hộ) cho thuê
+ @lettish  
+*  dt
+- tiếng Lát-vi
+
+@lettuce  
+*  dt
+- rau diếp
+
+@let-up  
+*  dt
+- sự ngừng lại, sự chấm dứt, sự ngớt, sự bớt đi; sự dịu đi
+
++ it rained without let-up: mưa liên miên không ngớt
+
+@letup
+* dt
+- sự bớt dần
+ @leu  
+*  dt,  số nhiều lei  @leucine
+* dt
+- (hoá học) leuxin
+ @leucite
+* dt
+- (khoáng chất) leuxit
+ @leucocyte  
+*  dt
+- (sinh vật học) bạch cầu
+
+@leucocythaemia   (leucocythaemia) @leucocythemia   (leucocythaemia) @leucocytic  
+*  tt
+- (sinh vật học) (thuộc) bạch cầu
+- có nhiều bạch cầu
+
+@leucocytosis
+* dt
+- (y học) chứng tăng bạch cầu
+ @leucoderma  
+*  dt
+- (y học) bệnh bạch bì
+
+@leucoma  
+*  dt
+- (y học) vảy cá mắt
+
+@leucopenia
+* dt
+- (y học) sự giảm bạch cầu
+ @leucoplakia
+* dt
+- (y học) chứng bạch sản
+ @leucoplast  
+*  dt
+- (thực vật học) lạp vô sắc, lạp thể trắng
+
+@leucoplastid
+* dt
+- xem leucoplast chỉ thuộc về
+ @leucopoiesis
+* dt
+- (sinh học) sự tạo bạch cầu
+ @leucopoietic
+* tt
+- (thuộc) sự tạo bạch cầu
+ @leucorrhoea  
+*  dt
+- (y học) bệnh bạch đái
+
+@leukaemia   (leukaemia) @leukemia   (leukaemia) @leukocyte
+* dt
+- <sinh> bạch cầu
+ @lev   (lew) @leva   (lew) @levant  
+*  dt
+- Levant miền cận đông
+*  ndgt
+- chạy làng (vì thua bạc)
+- trốn n
+
+@levant morocco  
+*  dt
+- da dê sần
+
+@levanter  
+*  dt (Levanter)
+- người dân cận đông
+- gió đông Địa trung hải
+*  dt
+- kẻ thua bạc chạy làng
+- kẻ trốn n
+
+@levantine  
+*  tt (Levantine)
+- cận đông
+*  dt (Levantine)
+- người dân cận đông
+- lụa cận đông
+
+@levee  
+*  dt
+- buổi chiêu đâi (của nhà vua hay một vị quan to trong triều, chỉ mời khách đàn ông)
+- đám khách
+- (sử học) buổi tiếp khách khi vừa ngủ dậy
+*  dt
+- con đê
+*  ngdgt
+- đắp đê cho
+
+@level  
+*  dt
+- ống bọt nước, ống thuỷ
+- mức, mực; mặt
+
++ the level of the sea: mặt biển
+- (nghĩa bóng) trình độ, vị trí, cấp, mức ngang nhau
+
++ on a level with: ngang hàng với, bằng
+
++ to rise to a highter level: tiến lên một trình độ, cao hơn
+
++ to establish diplomatic relations at ambassadorial level: thiết lập quan hệ ngoại giao ở cấp đại sứ
+!on the level
+- (thông tục) thật thà, thẳng thắn, lương thiện, có thể tin được
+
++ to do something on the level: làm gì một cách thật thà
+!to find one's own level
+- tìm được địa vị xứng đáng
+*  tt
+- phẳng, bằng
+
++ level ground: đất bằng, mặt đất bằng phẳng
+- cân bằng đều, ngang bằng; ngang tài ngang sức
+
++ a very level race: một cuộc chạy đua ngang tài ngang sức
+!to do one's level best
+- nổ lực, làm hết sức mình
+!to have a level head
+- bình tĩnh, điềm đạm
+*  ngdgt
+- san phẳng, san bằng
+
++ to level the ground: san bằng mặt đất
+
++ to level down: hạ thấp xuống cho bằng
+
++ to level to (with) the ground; to level in the dust: san bằng, phá bằng
+- làm cho bằng nhau, làm cho bình đẳng, làm cho như nhau
+- chĩa, nhắm (súng, lời buộc tội, lời đả kích...)
+
++ to level a gun at (against) somebody: chĩa súng vào ai
+
++ to level criticsms at (against) somebody: chĩa lời phê bình vào ai, nhắm ai mà phê bình
+!to level off
+- (từ Mỹ,nghĩa Mỹ) san bằng
+- (hàng không) bay là là mặt đất (trước khi hạ cánh)
+
+@level
+- mức, cấp   nằm ngang bằng phẳng on a l. ở mức trung bình, cân
+- bằng; out of l. nghiêng lệch; l. with cân bằng với 
+- l. of adstraction (logic học) mức độ trừu tượng
+- l. of prices (toán kinh tế) mức giá
+- acceptable quality l. (thống kê) mức chất lượng chấp nhận được. mức lẫn loại
+- cho phép 
+- confidence l. mức tin cậy
+- energy l. (vật lí) mức năng lượng
+- intensity l. mức cường độ
+- overload l. mức quá tải
+- pressure l. mức áp suất
+- pressure spectrum l. mức phổ áp
+- significance l. (thống kê) mức ý nghĩa
+- velocity l. mức vận tốc 
+@level crossing  
+*  dt
+- chỗ chắn tàu, chỗ đường xe lửa đi ngang qua đường cái
+
+@Level field
+- (Econ) Sân chơi công bằng  @Level of significance
+- (Econ) Mức ý nghĩa.
+: Một khái niệm sử dụng trong kiểm định giả thuyết để xác định các giá trị tới hạn nhằm so sánh thống kê kiểm định với chúng.
+ @leveler
+* dt
+- người chủ truong san bằng mọi khác biệt xã hội
+ @level-headed  
+*  tt
+- bình tĩnh, điềm đạm
+
+@leveller  
+*  dt
+- người san bằng, cái san bằng
+- người chủ trương xoá bỏ mọi sự chênh lệch xã hội, người chủ trương bình đẳng
+
+@levelling  
+*  dt
+- sự làm bằng phẳng, sự san bằng
+- sự làm cho ngang nhau; sự xoá bỏ mọi sự chênh lệch xã hội, sự làm cho bình đẳng
+
+@lever  
+*  dt
+- cái đòn bẩy
+*  dgt
+- bẩy lên, nâng bằng đòn bẩy
+
+@lever
+- đòn bẩy, tay đòn
+ @leverage  
+*  dt
+- tác dụng của đòn bẩy; lực của đòn bẩy
+
+@Leverage
+- (Econ) Tỷ phần vốn vay; Đòn bẩy về tài chính; Tỷ lệ vốn vay so với tổng vốn.
+: Một chỉ số về mối quan hệ giữa nợ dài hạn và vốn sử dụng.
+ @leverage
+- tác dụng đòn bẩy
+ @Leveraged buy out (LBO)
+- (Econ) Tăng vay bằng cách thay cổ phần
+ @Leveraged financing
+- (Econ) Tài trợ đòn bẩy.
+ @leveret  
+*  dt
+- thỏ con
+
+@leviable  
+*  tt
+- có thể thu được (thuế)
+- có thể tuyển được (quân)
+
+@leviathan  
+*  dt
+- (kinh thánh) thuỷ quái (quái vật không lồ ở biển)
+- tàu lớn
+- người có uy quyền lớn; người có tài sản lớn; người có năng lực lớn
+
+@levigate  
+*  ngdgt
+- tán thành bột mịn; làm cho mịn
+
+@levigation  
+*  dt
+- sự tán, sự nghiền thành bột; sự làm cho mịn
+
+@levin  
+*  dt
+- (thơ ca) chớp, tia chớp
+
+@levis
+* dt, pl
+- quần Jean, quần bò
+ @levitate  
+*  dgt
+- bay lên; làm bay lên
+
+@levitation  
+*  dt
+- sự bay lên
+
+@levite  
+*  dt
+- người Lê-vi (người một dòng họ Do-thái chuyên làm việc tư lễ ở giáo đường)
+
+@levitical  
+*  tt
+- (thuộc) người Lê-vi
+
+@levity  
+*  dt
+- tính coi nhẹ, tính khinh suất, tính khinh bạc, tính nhẹ dạ
+
+@levodopa
+* dt
+- chất dùng để chữa bệnh packinsơn
+ @levogyrate   (levogyrate) @levulose   (levulose) @levy  
+*  dt
+- sự thu (thuế); tiền thuế thu được
+- sự tuyển quân; số quân tuyển được
+
++ levy in mass: (quân sự) sự tuyển tất cả những người đủ sức khoẻ vào quân đội
+- (từ Mỹ,nghĩa Mỹ) sự toàn dân vũ trang tham gia chiến đấu ((cũng) levy en masse)
+*  ngdgt
+- thu (thuế)
+- tuyển (quân)
+
++ to levy an army; to levy troops: tuyển quân
+- (pháp lý) đánh (thuế)
+
++ to levy a tax on...: đánh thuế vào
+!to levy war upon (against)
+- tập trung binh lực để khai chiến
+
++ to levy balckmail: tống tiền hăm doạ để lấy tiền
+
+@levy
+- (toán kinh tế) thu thuế
+ @lew   (lew) @lewd  
+*  tt
+- dâm dục, dâm dật
+- vô sỉ
+
+@lewdly
+* dt
+- dâm đãng, dâm dật
+ @lewdness  
+*  dt
+- tính dâm dục, tính dâm dật
+- tính vô sỉ
+
+@lewis  
+*  dt
+- (kỹ thuật) cái móc đá tảng (để cất lên cao)
+
+@Lewis - Fei - Ranis model
+- (Econ) Mô hình Lewis - Fei - Ranis.
+: Một mô hình kinh tế về thất nghiệp ở các nước đang phát triển được A.Lewis giới thiệu năm 1954 và 1958 và sau đó đươch chín thức hoá bởi Fei và Ranis năm 1964.
+ @lewis gun  
+*  dt
+- súng liên thanh liuit
+
+@Lewis, Sir W.Arthur
+- (Econ) (1919-1991).
+: Nhà kinh tế học Tây Ấn và là người cùng được tặng giải thưởng Nobel với Theodore Schultz về kinh tế năm 1979. Huân tước W.Athur được đào tạo tại trường kinh tế London và là trưởng khoa kinh tế tại trường đại học Manchester và Princeton. Mối quan tâm chính của ông là chính sách công cộng và kinh tế của các nước kém phát triển và mô hình phát triển của Lewis, trong đó giả định một nền kinh tế hai khu vực hiện đại đang phát triển, trong đó lợi nhuận được tái đầu tư, và hấp thụ số lao động không hạn chế từ khu vực nông nghiệp truyền thống, được chấp nhận rộng rãi. Tác phẩm chính của ông là Lý thuyết về tăng trưởng kinh tế (1955), trình bày những phân tích tổng hợp về phát triển kinh tế cho đến thời gian đó. Trong kế hoạch phát triển: sự cốt yếu của chính sách kinh tế (1966), ông đưa ra những hướng dẫn về cách thức tạo lập và đánh giá một kế hoạch kinh tế. Các ấn phẩm khác của ông là Khảo sát kinh tế, 1948 - 1935 (1949), phân tích và xem xét các sự kiện và chính sách của giai đoạn đó, Chi phí cố định (1949) và Các nguyên tắc kế hoạch hoá kinh tế (1949).
+ @lewisite  
+*  dt
+- liuzit (chất gây bỏng, dùng trong chiến tranh)
+
+@lewisson
+* dt
+- xem lewis
+ @lexcography
+- từ vựng học
+ @lexeme
+* dt
+- (ngôn ngữ) từ vị
+ @lexical  
+*  tt
+- (thuộc) từ vựng học
+
+@lexical meaning  
+*  dt
+- nghĩa từ vựng
+
+@lexically
+* dt
+- về mặt từ vựng, về phương diện từ vựng
+ @lexicographer  
+*  dt
+- nhà từ điển học; người soạn từ điển
+
+@Lexicographic preferences
+- (Econ) Thị hiếu thiên lệch.
+: Sở thích của một cá nhân đối với một nhóm hàng hoá này so với một hàng hoá khác, nếu nó chứa nhiều hơn một hàng hoá cụ thể nào đó và bất kể số lượng của các hàng hoá khác trong nhóm đó như thế nào.
+ @lexicographical  
+*  tt
+- (thuộc) từ điển học
+
+@lexicographic(al)
+- (hiểu) từ điển
+ @lexicography  
+*  dt
+- từ điển học
+- sự biên soạn từ điển
+
+@lexicological  
+*  tt
+- (thuộc) từ vựng học
+
+@lexicologist  
+*  dt
+- nhà từ vựng học
+
+@lexicology  
+*  dt
+- từ vựng học
+
+@lexicon  
+*  dt
+- từ điển (Hy-lạp,  A-rập)
+- thuật ngữ; từ vựng
+
+@lexigraphy
+* dt
+- đơn vị từ vựng
+ @lexis
+* dt
+- từ vựng
+ @ley  
+*  dt
+- đất bỏ hoá
+- (như) leu
+
+@leyden jar  
+*  dt
+- (điện học) chai lê-dden
+
+@

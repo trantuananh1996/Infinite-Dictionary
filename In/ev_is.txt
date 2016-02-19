@@ -1,0 +1,618 @@
+@is  
+*  ngôi 3 số ít thời hiện tại của be
+
+@IS and LM schedule
+- (Econ) Biểu đồ IS và LM.
+ @IS curve
+- (Econ) Đường IS
+: Xem IS - LM DIAGRAM
+ @IS- LM diagram
+- (Econ) Lược đồ IS - LM.
+: Lược đồ mô tả việc xác định đông thờicác giá trị cân bằng của lãi suất và mức thu nhập quốc dân do kết quả thực hiện các điều kiện trong thị trường hàng hoá và tiền tệ.
+ @isagogic  
+*  tt
+- (tôn giáo) mở đầu (cho sự giải thích kinh thánh)
+*  dt: (isagogics) @isagogics  
+*  tt
+- (tôn giáo) mở đầu (cho sự giải thích kinh thánh)
+*  dt: (isagogics) @isallobar
+* dt
+- đường trên bản đồ nối những điểm có cùng áp suất không khí trong một thời gian nhất định nào đó
+ @isbn
+* (viết tắt)
+- mã số sách tiêu chuẩn quốc tế (International Standard Book Number)
+ @ischemia  
+*  dt
+- (y học) chứng thiếu máu cục bộ
+
+@ischemic
+- xem ischemia
+ @ischiadic   (ischiatic) @ischial
+* tt
+- thuộc đốt háng
+ @ischiatic   (ischiatic) @ischium
+* dt
+- số nhiều ischia
+- (giải phẫu) đốt háng
+ @isd
+* (viết tắt)
+- điện thoại quốc tế đường dài (International Subscriber Dialling)
+ @isentropic
+* tt
+- (vật lý) thuộc đẳng entropi
+ @isentropic
+- (vật lí) đẳng entrôpi
+ @ishmael  
+*  dt
+- người bị xã hội ruồng bỏ
+- người chống lại xã hội
+
+@ishmaelite
+* dt
+- một người bị xã hội ruồng bỏ
+ @ISIC
+- (Econ) Phân loại  Ngành Công nghiệp theo tiêu chuẩn  Quốc tế.
+: Xem INTERNATIONAL STANDARD INDUSTRAL CLASSIFICATION
+ @isinglass  
+*  dt
+- thạch (lấy ở bong bóng cá)
+- mi ca
+
+@islam  
+*  dt
+- đạo Hồi
+- dân theo đạo Hồi
+
+@islamic  
+*  tt
+- (thuộc) đạo Hồi
+
+@Islamic Development Bank
+- (Econ) Ngân hàng phát triển Hồi giáo.
+: Một ngân hàng phát triển khu vực được Tổ chức Hội nghị đạo hồi thành lập năm 1974 nhằm khuyến khích tăng trưởng kinh tế ở các nước và cộng đồng hồi giáo.
+ @islamisation
+* dt
+- sự làm cho theo đạo Hồi, sự làm cho phù hợp với đạo Hồi
+ @islamise   (Islamise) @islamism  
+*  dt
+- đạo Hồi
+
+@islamite  
+*  dt
+- người theo đạo Hồi
+
+@islamization  
+*  dt
+- sự làm cho theo đạo Hồi, sự làm cho phù hợp với đạo Hồi
+
+@islamize   (Islamise) @island  
+*  dt
+- hòn đảo
+- (nghĩa bóng) cái đứng tách riêng, cái đứng tách biệt; miền đồng rừng giữa thảo nguyên; chỗ đứng tránh (cho người đi bộ ở ngã ba đường)
+- (giải phẫu) đảo
+*  ngdgt
+- biến thành hòn đảo
+- làm thành những hòn đảo ở
+
++ a plain islanded with green bamboo grove: một đồng bằng trên có những hòn đảo tre xanh
+- đưa ra một hòn đảo; cô lập (như ở trên một hòn đảo)
+
+@islander  
+*  dt
+- người ở đảo
+
+@islandish  
+*  tt
+- (thuộc) hòn đảo
+
+@isle  
+*  dt
+- (thơ ca) hòn đảo nhỏ
+
+@islet  
+*  dt
+- hòn đảo nhỏ
+- mảnh đất hiu quạnh; vùng cách biệt
+
+@ism
+* dt
+- học thuyết, chủ nghĩa
+ @isn't  
+*  (viết tắt) của is not
+
+@iso
+- (International Standards Organization) Tổ chức tiêu chuẩn quốc tế
+ @isoagglutination
+* dt
+- (y học) sự ngưng kết đồng loại
+ @isoagglutinative
+* tt
+- thuộc sự ngưng kết đồng loại
+ @isoantibody
+* dt
+- (sinh học) kháng thể đồng loại
+ @isobar  
+*  dt
+- (khí tượng) đường đẳng áp
+- (hoá học) nguyên tố đồng khởi ((cũng) isobare)
+
+@isobar
+- (vật lí) đường đẳng áp; nguyên tố có cùng nguyên tử lượng
+ @isobaric  
+*  tt
+- (khí tượng) đẳng áp
+- (hoá học) đồng khởi
+
+@isobaric
+- (thuộc) đường đẳng áp
+ @isochromatic  
+*  tt
+- cùng màu, đẳng sắc
+
+@isochronal   (isochronous) @isochronally
+- xem isochronal
+ @isochrone  
+*  dt
+- đường đẳng thời
+
+@isochrone
+- (vật lí) đẳng thời
+ @isochronism  
+*  dt
+- tính đẳng thời
+
+@isochronize  
+*  ngdgt
+- làm cho đẳng thời
+
+@isochronous   (isochronous) @isochronous
+- có tính đẳng thời
+ @isochronously
+- xem isochronous
+ @isochrony  
+*  dt
+- sự xảy ra cùng lúc; tính đồng thời
+
+@isoclinal   (isoclinal) @isoclinally
+- xem isoclinal
+ @isocline  
+*  dt
+- đường đẳng khuynh
+
+@isocline
+- đường đẳng tà
+ @isoclinic   (isoclinal) @isoclinically
+- xem isoclinic
+ @Iso-cost curve
+- (Econ) Đường đẳng phí.
+: Đương cong hay đường thẳng mô tả tổ hợp của hai đầu vào bất kỳ có thể mua được với một số tiền cố định.
+ @isocracy  
+*  dt
+- chính thể đồng quyền
+
+@isocrat  
+*  dt
+- người ở trong chính thể đồng quyền
+
+@isocratic  
+*  tt
+- (thuộc) chính thể đồng quyền
+
+@isocyanate
+* dt
+- (hoá học) izoxianat
+ @isodiametric
+* tt
+- có cùng một đường kính
+ @isodynamic   (isodynamical) @isodynamical   (isodynamical) @isoelectric  
+*  tt
+- (vật lý) đẳng điện
+
++ isoelectric points: điểm đẳng điện
+
+@isoelectronic
+* tt
+- có ùng số electron, đồng electron
+ @isoendomorphism
+- (đại số) phép đẳng tự đồng cấu
+ @isoenergetic
+- đẳng năng
+ @isogamous  
+*  tt
+- (sinh vật học) đẳng giao
+
+@isogamy  
+*  dt
+- (sinh vật học) sự đẳng giao
+
+@isogeneic
+* tt
+- có cùng nguồn gốc
+ @isogenous  
+*  tt
+- (sinh vật học) cùng dòng
+
+@isogenous
+- hh (đại số) đẳng giống
+ @isogeny
+- xem isogenous
+ @isogloss
+* dt
+- đường đồng ngữ
+ @isoglossal
+* tt
+- thuộc đường đồng ngữ
+ @isogon  
+*  dt
+- đường đẳng thiên
+- (toán học) đẳng giác
+
+@isogonal  
+*  tt
+- (toán học) đẳng giác
+
++ isogonal line: đường đẳng giác
+
+@isogonal
+- đẳng giác
+ @isogonality
+- phép biến đổi đẳng giác
+ @isogonic  
+*  tt
+- (toán học) đẳng giác
+
+@isogonic
+- (vật lí) có cùng độ nghiêng
+ @isograh
+- (máy tính) máy giải phương trình đại số
+ @isohel
+* dt
+- đường trên bản đồ nổi những vùng có cùng lượng ánh sáng mặt trời
+ @isohyet
+* dt
+- đường trên bản đồ nối những vùng có cùng lượng mưa
+ @isolability  
+*  dt
+- tính có thể cô lập được
+- (y học) tính có thể cách ly được
+- (điện học) tính có thể cách
+- (hoá học) tính có thể tách ra
+
+@isolable   (isolatable) @isolable
+- (đại số) cô lập được
+ @isolatable   (isolatable) @isolate  
+*  ngdgt
+- cô lập
+- (y học) cách ly
+- (điện học) cách
+- (hoá học) tách ra
+
+@isolate
+- cô lập, tách biệt, riêng biệt
+ @isolated  
+*  tt
+- cô lập
+- (y học) cách ly
+- (điện học) cách
+- (hoá học) tách ra
+
+@isolated
+- bị cô lập
+ @isolating
+* tt
+- (thuộc đơn ngữ phân tích tính) đơn lập
+ @isolating
+- cô lập, phân tích, tách
+- i. of a root tách căn thức 
+ @isolation  
+*  dt
+- sự cô lập
+- (y học) sự cách ly
+- (điện học) sự cách
+- (hoá học) sự tách ra
+
+@isolation ward
+* dt
+- khu cách ly những người bị bệnh truyền nhiễm
+ @isolationism  
+*  dt
+- (chính trị) chủ nghĩa biệt lập
+
+@isolationist  
+*  dt
+- (chính trị) người theo chủ nghĩa biệt lập
+
+@isolator
+- xem isolate
+ @isolator
+- (đại số) cái tách
+ @isologous  
+*  tt
+- (hoá học) đồng cấp
+
+@isomagnetic
+* tt
+- (thuộc) những điểm có cùng lực từ
+ @isomer  
+*  dt
+- (hoá học) chất đồng phân
+
+@isomer
+- hh; (vật lí) đồng phân
+ @isomeric  
+*  tt
+- (hoá học) đồng phân ((cũng) isomerous)
+
+@isomerism  
+*  dt
+- (hoá học) hiện tượng đồng phân
+
+@isomerization  
+*  dt
+- (hoá học) sự đồng phân hoá
+
+@isomerize  
+*  ngdgt
+- (hoá học) đồng phân hoá
+
+@isomerous  
+*  tt
+- cùng có một số phần như nhau
+- (thực vật học) đẳng số
+- (như) isomeric
+
+@isometric   (isometrical) @isometric
+- đẳng cực
+ @isometrical   (isometrical) @isometry
+- phép đẳng cự
+ @isomorph  
+*  dt
+- thể đồng hình
+
+@isomorphic  
+*  tt
+- đồng hình
+- (toán học) đẳng cấu
+
+@isomorphic
+- đẳng cấu
+- locally i. đẳng cấu địa phương 
+ @isomorphism  
+*  dt
+- (hoá học) sự đồng hình
+- (toán học) sự đẳng cấu; phép đẳng cấu
+
+@isomorphism
+- phép đẳng cấu
+- central i. phép đẳng cấu trung tâm 
+- inner i. phép đẳng cấu trong 
+- metric i. phép đẳng cấu mêtric
+- multiple i. phép đẳng cấu bội 
+- order i. phép đẳng cấu bảo toàn thứ tự 
+- topological i. phép đẳng cấu tôpô, phép đồng phôi 
+ @isomorphous  
+*  tt
+- (hoá học) đồng hình
+- (toán học) đẳng cấu
+
+@isomorphy
+- (đại số) đơn cấu
+ @isonomic   (isonomous) @isonomous   (isonomous) @isonomy  
+*  dt
+- quyền bình đẳng về chính trị
+
+@Iso-outlay line
+- (Econ) Đường đẳng chi.
+: (Còn được gọi là đường cong đẳng chi). Xem ISO-COST CURVE.
+ @isoperimetric   (isoperimetrical) @isoperimetrical   (isoperimetrical) @isoperimetric(al)
+- đẳng chu
+ @isophone  
+*  dt
+- (ngôn ngữ học) đẳng âm
+
+@isopiestic
+* tt
+- có cùng một áp lực
+ @isopod  
+*  dt
+- (động vật học) động vật chân giống, động vật đẳng túc
+
+@isopodan   (isopodous) @isopodous   (isopodous) @Iso-product curve
+- (Econ) Đường đẳng sản phẩm.
+: (Còn được gọi là đường bàng quan của người sản xuất hay đường đẳng lượng). Một đường đẳng sản phẩm là tập hợp các tổ hợp của hai hay nhiều ĐẦU VÀO tạo ra cùng một mức SẢN LƯỢNG.
+ @Iso-profit curve
+- (Econ) Các đường đẳng nhuận.
+: Quỹ tích các tổ hợp của hai hay nhiều biến phụ thuộc của HÀM LỢI NHUẬN tạo nên một mức lợi nhuận như nhau.
+ @isopteran
+* dt
+- con mối
+ @Isoquant
+- (Econ) Đẳng lượng.
+: Xem Iso-profit curve.
+ @Iso-revenue line (curve)
+- (Econ) Đường đẳng thu.
+: Quỹ tích các tổ hợp SẢN LƯỢNG và phí tổn tiếp thị tạo nên một mức TỔNG DOANH THU nhất định.
+ @isosceles  
+*  tt
+- (toán học) cân (tam giác)
+
+@isosceles
+- cân (tam giác thang)
+ @isoseismal   (isoseismic) @isoseismic   (isoseismic) @isosporous
+* tt
+- có bào tử đều
+ @isospory
+* dt
+- bào tử đều
+ @isostasy  
+*  dt
+- sự đẳng tĩnh; tính đẳng tĩnh
+
+@isostatic  
+*  tt
+- (địa lý,ddịa chất) đẳng tĩnh
+
+@isotach
+* dt
+- đường trên bản đồ nối những điểm có cùng sức gió
+ @isotherm  
+*  dt
+- (khí tượng); (vật lý) đường đẳng nhiệt ((cũng) isothermal)
+
+@isotherm
+- (vật lí) đẳng nhiệt
+ @isothermal  
+*  tt
+- đẳng nhiệt
+*  dt
+- (như) isotherm
+
+@isothermal
+- (thuộc) đẳng nhiệt
+ @isotone (order-preserving)
+- bảo toàn thứ tự
+ @isotonic
+- bảo toàn thứ tự
+ @isotope  
+*  dt
+- (hoá học) chất đồng vị
+
+@isotope
+- đồng vị; (tô pô) hợp luân
+ @isotopic  
+*  tt
+- (hoá học) đồng vị
+
+@isotopically
+- xem isotope
+ @isotopy  
+*  dt
+- (hoá học) tính đồng vị
+
+@isotopy
+- phép hợp luân
+ @isotropic   (isotropous) @isotropous   (isotropous) @isotropy  
+*  dt
+- tính đẳng hướng
+
+@isotropy
+- [tính, sự] đẳng hưởng
+- full i. đẳng hướng hoàn toàn 
+ @isotype
+- đồ hình dạng vẽ
+ @israel  
+*  dt
+- nhân dân Do thái
+- (nghĩa bóng) nhóm người được Chúa chọn
+
+@israeli  
+*  tt
+- (thuộc) Do thái
+*  dt
+- người Do thái
+
+@israelite  
+*  dt
+- người Do thái
+
+@israelitish  
+*  tt
+- (thuộc) Do thái
+
+@issuable  
+*  tt
+- có thể phát (đồ đạc...); có thể phát hành (giấy bạc...); có thể cho ra (báo...)
+- (pháp lý) có thể tranh câi, có thể phản đối
+
++ issuable terms: điều kiện có thể tranh cãi
+
+@issuance  
+*  dt
+- sự phát; sự phát hành; sự cho ra
+- sự phát ra, sự đi ra, sự chảy ra, sự thoát ra
+
+@issuant
+* tt
+- (những con vật trong huy hiệu) chỉ có phần trên được miêu tả
+- (từ cổ, nghĩa cổ) nảy sinh; đâm ra
+ @issue  
+*  dt
+- sự phát ra; sự phát hành; sự đưa ra
+- số báo (in ra); số lượng cho ra (tem...)
+
++ the latest issue of a weekly: số mới nhất của một tờ báo hàng tuần
+- vấn đề (đang tranh câi, đang kiện cáo...); vấn đề chín muồi (có thể quyết định)
+
++ at issue: đang tranh câi (vấn đề); không đồng ý với nhau (người)
+- kết quả, hậu quả, sản phẩm
+- (quân sự) số lượng (thức ăn, quần áo, súng đạn...) phát một lần (cho một người lính, cho một đơn vị...)
+- lần in (sách...)
+- dòng dõi, con cái
+
++ to die without issue: chết tuyệt giống
+- sự đi ra, sự chảy ra, sự bốc ra, sự thoát ra; lòi ra, lối thoát; cửa sông; cái chảy ra, cái thoát ra
+- (y học) sự chảy máu, sự chảy mủ; vết rạch cho chảy mủ
+- (pháp lý) lợi tức, thu hoạch (đất đai...)
+!to join issue with somebody on some point
+- tiến hành tranh luận với ai về một điểm gì; không đồng ý với ai về một điểm gì
+!to take issue with somebody
+- không đồng ý với ai; tranh cãi với ai
+*  ngdgt
+- đưa ra; phát hành, lưu hành, in ra
+- (quân sự) phát (quần áo, đạn dược...)
+- phát ra, để chảy ra
+*  ndgt
+- đi ra, chảy ra, bóc ra, thoát ra
+- được đưa ra; được phát hành, được lưu hành, được in ra
+- xuất phát, bắt nguồn; là kết quả, là hậu quả
+- là dòng dõi; là lợi tức, là thu hoạch (của đất đai...)
+
+@Issue department
+- (Econ) Cục phát hành.
+: Một cục thuộc Ngân hàng Anh có trách nhiệm trong việc phát hành giấy bạc ngân hàng.
+ @Issued capital
+- (Econ) Vốn phát hành.
+: Khi một công ty có hạn chế về cổ phần được thành lập, công ty này được phép tăng vốn bằng cách phát hành cổ phiếu với một số lượng nhất định.
+ @issueless  
+*  tt
+- tuyệt giống
+- không đem lại kết quả gì
+- không nêu vấn đề gì để tranh cãi
+
++ an issueless talk: một bài nói chuyện không nêu vấn đề gì để tranh cãi
+
+@issuer  
+*  dt
+- người đưa ra, người phát hành, người in ra (sách báo, tiền...)
+
+@Issuing broker
+- (Econ) Người môi giới phát hành.
+: Một số loại chứng khoán phát hành mới của các công ty và các tổ chức khác được những người môi giới chứng khoán điều khiển và trên phương diện này thì họ hoạt động giống như nhà phát hành.
+ @Issuing house
+- (Econ) Nhà phát hành.
+: Một tổ chức, thường là một ngân hàng thương mại, bên cạnh các hoạt động khác còn chuyên môn hoá trong quản lý việc phát hành cổ phần mới, trái phiếu công ty hoặc trái phiếu nhân danh các công ty hoặc các tổ chức khác có nhu cầu về tài chính, ví dụ như chính phủ và các cấp chính quyền địa phương.
+ @Issuing House Association
+- (Econ) Hiệp hội các Nhà phát hành.
+: Một hiệp hội được thành lập vào năm 1945 để tổ chức một diễn đàn nhằm tăng cường những lợi ích của các ngân hàng thương mại và các tổ chức khác hoạt động với tư cách là các nhà phát hành.
+ @isthemian
+* dt
+- dân cư sống ở eo đất
+* tt, cũng isthmic
+- thuộc (gần) eo đất
+ @isthmian  
+*  tt
+- (thuộc) eo
+
+@isthmus  
+*  dt
+- eo đất
+- (giải phẫu) eo
+
+@isthmus
+- (tô pô) eo
+- italic (kỹ thuật) nghiêng; chữ nghiêng 
+ @istle  
+*  dt
+- sợi thùa (làm dây, lưới...)
+
+@

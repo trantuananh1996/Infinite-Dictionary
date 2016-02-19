@@ -1,0 +1,394 @@
+@aecial
+- Cách viết khác : aecidial 
+ @aeciospore
+* dt
+- bào tử gỉ
+ @aecium
+* dt
+- số nhiều aecia
+- túi bào tử gỉ
+ @aedeagus
+* dt
+- thể giao cấu, dương cụ
+ @aedile
+* dt
+- quan thị chính (La Mã)
+ @aeger  
+*  dt
+- giấy chứng nhận ốm (cho học sinh các trường đại học Anh)
+
+@aegis  
+*  dt
+- sự che chở, sự bảo hộ, sự bảo vệ
+
++ under the aegis of: dưới sự che chở của
+
+@aegrotat  
+*  dt
+- giấy chứng nhận ốm nặng không dự thi được (của học sinh các trường đại học Anh)
+
+@aelotropic  
+*  tt
+- (vật lý) dị hướng
+
+@aelotropy  
+*  dt
+- (vật lý) tính dị hướng
+
+@aeneolithic
+* tt, cũng eneolithic
+- thuộc thời đồng đá (giai đoạn (khảo cổ học) giữa thời đại đồ đá đến thời đại đồ đồng thau ở châu Âu và châu á)
+ @aeolation
+* dt
+- sự phong hoá
+ @aeolian
+* tt
+- thông gió
+ @aeolight
+- (Tech) đèn phát sáng âm cực lạnh
+ @aeon   (eon) @aerate  
+*  ngdgt
+- làm thông khí, quạt gió
+- cho hơi vào, cho khí cacbonic vào (nước uống, đồ giải khát...)
+
++ aerated water: nước uống có hơi
+- (y học) làm cho (máu) lấy oxy (qua hô hấp)
+- làm cho hả mùi (sữa) (bằng cách rót thành lớp mỏng)
+
+@aeration  
+*  dt
+- sự làm thông, sự quạt gió
+- cho hơi vào, cho khí cacbonic vào
+- (y học) sự làm cho (máu) lấy oxy
+- làm cho hả mùi (sữa)
+
+@aerenchyma
+* dt
+- (sinh học) mô khí
+ @aerial  
+*  tt
+- ở trên trời, trên không
+
++ aerial fight: cuộc chiến đấu trên không
+- (thuộc) không khí; nhẹ như không khí
+- không thực, tưởng tượng
+*  dt
+- rađiô dây trời, dây anten
+
+@aerial
+- (Tech) dây trời, ăngten 
++  antenna; thuộc hàng không; thuộc không vận; thuộc không khí
+ @aerial cable
+- (Tech) cáp treo, cáp trên không
+ @aerial gain 
++  antenna gain
+- (Tech) gia lượng dây trời
+ @aerie   (aery) @aerifecation
+* dt
+- việc dẫn không khí
+ @aeriferous
+* tt
+- dẫn không khí, chứa không khí
+ @aeriform  
+*  tt
+- dạng hơi
+- không thực
+
+@aerify  
+*  ngdgt
+- làm hoá ra thể hơi, khí hoá
+
+@aero
+* dt
+- phi thuyền, phi cơ
+* tt
+- thuộc phi thuyền, phi cơ
+- aero club
+- câu lạc bộ hàng không
+ @aero-
+- tiền tố có nghĩa "không khí, không gian"
+ @aeroballistics
+* dtsg
+- khoa đạn đạo học
+ @aerobat
+* dt
+- phi công nhào lộn trên không
+ @aerobatic
+* tt
+- (nói về máy bay) nhào lộn trên không
+ @aerobatics  
+*  dt,  số nhiều (dùng như số ít)
+- sự nhào lộn trên không (của máy bay)
+
+@aerobe  
+*  dt
+- vi sinh vật ưa khí
+
+@aerobic
+* tt
+- đói không khí, thiếu không khí
+- (thuộc)thể dục nhịp điệu
+ @aerobics
+* dt, pl
+- thể dục nhịp điệu
+ @aerobiological
+- xem aerobiology
+ @aerobiologically
+- xem aerobiology
+ @aerobiology  
+*  dt
+- khoa sinh vật không khí (nghiên cứu các vi sinh vật và bào tử trong không khí)
+
+@aerocamera  
+*  dt
+- máy ảnh chụp trên không (chụp từ máy bay)
+
+@aerocarrier  
+*  dt
+- tàu sân bay
+
+@aeroculture
+* dt
+- phương pháp nuôi trồng thực vật không cần đất
+ @aerocyste
+* dt
+- túi khí (tảo)
+ @aerocyte
+* dt
+- tế bào khí
+ @aerodrome  
+*  dt
+- sân bay
+
+@aerodynamic   (aerodynamical) @aerodynamic
+- khí động lực
+ @aerodynamical   (aerodynamical) @aerodynamically
+- xem aerodynamic
+ @aerodynamicist
+- xem aerodynamics
+ @aerodynamics  
+*  dt,  số nhiều (dùng như số ít)
+- khí động lực học
+
++ cosmical aerodynamics: khí động lực học vũ trụ
+
+@aerodynamics
+- khí động lực học
+ @aerodyne  
+*  dt
+- máy bay nặng hơn không khí
+
+@aeroembolism  
+*  dt
+- (y học) bệnh khí ép
+
+@aero-engine  
+*  dt
+- động cơ máy bay
+
+@aerofoil   (airfoil) @aerogram  
+*  dt
+- bức điện rađiô
+
+@aerograph
+* dt
+- máy ghi khí tượng
+ @aerography
+* dt
+- môn nghiên cứu không khí và khí quyển
+ @aerogun  
+*  dt
+- súng gắn trên máy bay
+
+@aerohydroplane
+* dt
+- thủy phi cơ
+ @aerolite  
+*  dt
+- đá trời, thiên thạch
+
+@aerolith
+* dt
+- (thiên) thiên thạch
+ @aerolithology
+* dt
+- thiên thạch học
+ @aerolitic
+- xem aerolite
+ @aerologic
+- xem aerology
+ @aerologist
+- xem aerology
+ @aerology  
+*  dt
+- (vật lý) môn quyển khí
+- (khí tượng) môn khí tượng cao không
+
+@aeromagnetic
+* tt
+- (thuộc) từ tính, (có) từ tính
+ @aeromechanical
+- xem aeromechanics
+ @aeromechanically
+- xem aeromechanics
+ @aeromechanics  
+*  dt,  số nhiều (dùng như số ít)
+- cơ học chất khí
+
+@aerometer  
+*  dt
+- cái đo tỷ trọng khí
+
+@aerometry
+* dt
+- cách đo tỉ trọng không khí, cách đo các khí
+ @aeromodelling
+* dt
+- cách làm máy bay con để chơi
+ @aeromorphosis
+* dt
+- sự biến dạng do gió
+ @aeronaut  
+*  dt
+- nhà hàng không; người lái khí cầu
+
+@aeronautic   (aeronautical) @aeronautical   (aeronautical) @aeronautically
+- xem aeronautic
+ @aeronautics  
+*  dt,  số nhiều (dùng như số ít)
+- hàng không học
+
+@aeronavigation  
+*  dt
+- thuật hàng không
+
+@aeronef
+* dt
+- thiết bị bay
+ @aerophobia
+- Cách viết khác : aerophoby 
+ @aerophora
+* dt
+- phao khí
+ @aerophotograph  
+*  dt
+- ảnh chụp từ máy bay
+
+@aerophotography  
+*  dt
+- sự chụp ảnh từ máy bay; phép chụp ảnh từ máy bay
+
+@aerophyte
+* dt số nhiều
+- thực vật biểu sinh
+ @aeroplane  
+*  dt
+- máy bay, tàu bay
+
+@aeroplankton
+* dt
+- sinh vật trong không khí
+ @aeroport  
+*  dt
+- sân bay lớn
+
+@aerosol
+* dt
+- bình phun (nước hoa, thuốc trừ sâu)
+ @aerospace
+* dt
+- không gian vũ trụ
+ @aerostat  
+*  dt
+- khí cầu
+
+@aerostatic
+- xem aerostat
+ @aerostatical
+- xem aerostat
+ @aerostatics  
+*  dt
+- (số nhiều dùng như số ít) khí cầu học
+- khí tĩnh học
+
+@aerostatics
+- khí tĩnh học
+ @aerostation
+* dt
+- cách vận chuyển bằng hàng không; cách vận chuyển bằng khí cầu
+ @aerotaxis
+- tính theo khí
+ @aerotechnics  
+*  dt,  số nhiều (dùng như số ít)
+- kỹ thuật hàng không
+
+@aerotropic
+* tt
+- hướng khí
+ @aerotropism
+* dt
+- tính hướng khí
+ @aeruginous  
+*  tt
+- có tính chất gỉ đồng; giống màu gỉ đồng
+
+@aery   (aery) @aesculapian
+* tt
+- (thuộc) thần y
+ @aesthesia
+* dt
+- cảm giác
+ @aesthete  
+*  dt
+- nhà thẩm mỹ
+
+@aesthetes
+* dt
+- giác quan
+ @aesthetic  
+*  tt
+- (thuộc) mỹ học, thẩm mỹ
+- có óc thẩm mỹ, có khiếu thẩm mỹ; hợp với nguyên tắc thẩm mỹ
+
+@aesthetically  
+*  dt
+- có thẩm mỹ
+- về mặt thẩm mỹ
+
+@aesthetician
+* dt
+- người nghiên cứu những nguyên tắc của cái đẹp và thị hiếu thẩm mỹ; nhà mỹ học
+- như beautician
+ @aestheticism
+* dt
+- tính thẩm Mỹ
+ @aesthetics  
+*  dt,  số nhiều (dùng như số ít)
+- mỹ học
+
+@aestho-physiology  
+*  dt
+- sinh lý học giác quan
+
+@aestilignosa
+* dt
+- rừng lá rụng
+ @aestival  
+*  tt
+- (thuộc) mùa hạ; sinh vào mùa hạ
+
+@aestivarium
+* dt
+- lô cây trồng mùa hè (ở vườn thực vật)
+ @aestivate  
+*  ndgt
+- (động vật học) ngủ hè
+
+@aestivation  
+*  dt
+- (động vật học) sự ngủ hè
+
+@aether
+- n
+- giống như ether
+ @aetiology   (etiology) @

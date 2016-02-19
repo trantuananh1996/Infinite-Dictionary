@@ -1,0 +1,1006 @@
+@again  
+*  dt
+- lại, lần nữa, nữa
+- trở lại
+
++ to be home again: trở lại về nhà
+
++ to be well (onedelf) again: khoẻ lại, bình phục
+
++ to come to again: lại tỉnh lại
+- đáp lại, dội lại
+
++ to answer again: trả lời lại; đáp lại
+
++ rocks echoed again: những vách đá vang dội lại
+- mặt khác, ngoài ra, hơn nữa, vả lại, vả chăng
+
++ again, it is necessary to bear in mind that: hơn nữa cần phải nhớ rằng
+
++ these again are more expensive: vả lại những cái này đắt hơn
+
++ again and again: nhiều lần, không biết bao nhiêu lần
+!as much (many) again
+- nhiều gấp đôi
+!as rall again as somebody
+- cao gấp đôi ai
+!ever and again
+- thỉnh thoảng, đôi khi
+!half as much again
+- (xem) half
+!half as high again as somebody
+!half again somebody's height
+- cao gấp rưỡi ai
+!now and again
+- (xem) now
+!once and again
+- (xem) once
+!over again
+- (xem) over
+!time and again
+- (xem) time
+
+@against  
+*  giới từ
+- chống lại, ngược lại, phản đối
+
++ to fight against aggression: chiến đấu chống xâm lược
+
++ to be against aggression wars: phản đối chiến tranh xâm lược
+
++ to go against the wind: đi ngược chiều gió
+- tương phản với
+
++ black is against white: màu đen tương phản với màu trắng
+- dựa vào, tỳ vào, áp vào, đập vào
+
++ to stand against the wall: đứng dựa vào tường
+
++ to run against a rock: chạy va phải tảng đá
+
++ rain beats against the window-panes: mưa đập vào kính cửa sổ
+- phòng, đề phòng, phòng xa
+
++ to keep provisions against rainy days: dự trữ thực phẩm đề phòng những ngày mưa
+- ((thường) over against) đối diện với
+
++ his house is over against mine: nhà anh ta đối diện với nhà tôi
+!against time
+- (xem) time
+
+@agama
+* dt
+- con nhông
+ @agameon
+* dt
+- loài vô giao
+ @agamete
+* dt
+- dạng phi giao tử; dạng amip
+ @agamic   (agamous) @agamically
+- xem agamic
+ @agamodeme
+* dt
+- nhóm vô giao; nhóm vô tính
+ @agamogenesis  
+*  tt,  (sinh vật học)
+- sự sinh sản vô tính
+- sự sinh sản đơn tính
+
+@agamogony
+* dt
+- sự sinh sản phân cắt; sự sinh sản vô tính
+ @agamolium
+* dt
+- thế hệ vô giao; thế hệ vô tính
+ @agamont
+* dt
+- thể phân cắt, thể vô tính
+ @agamospecies
+* dt
+- loài vô tính
+ @agamous   (agamous) @agamy
+* dt
+- tính vô giao
+ @agape  
+*  tt & dt
+- há hốc mồm ra (vì kinh ngạc)
+
++ mouth agape with astonishment: mồm há hốc ra vì kinh ngạc
+
+@agar-agar  
+*  dt
+- Aga,  aga thạch trắng
+
+@agaric  
+*  dt
+- (thực vật học) nấm tán
+
+@agaricaceous  
+*  tt
+- (thực vật học) thuộc họ nấm tán
+
+@agastric
+* tt
+- thiếu dạ dày
+ @agate  
+*  dt
+- đá mã não
+- (từ Mỹ,nghĩa Mỹ),  (ngành in) chữ in cỡ 5...
+
+@agateware
+* dt
+- đồ gốm giống đá mã não
+ @agave  
+*  dt
+- (thực vật học) cây thùa
+
+@agaze  
+*  dt
+- đang nhìn đăm đăm
+
+@age  
+*  dt
+- tuổi
+
++ what is your age?: anh bao nhiêu tuổi?
+
++ to be twenty years of age: hai mươi tuổi
+
++ the age of discretion: tuổi khôn, tuổi biết suy xét rồi (14 tuổi)
+
++ over age: quá tuổi quy định
+- tuổi già, tuổi tác
+
++ back bent with age: lưng còng vì tuổi tác
+- thời đại, thời kỳ
+
++ the stone age: thời kỳ đồ đá
+
++ the golden age: thời kỳ hoàng kim
+- tuổi trưởng thành
+
++ to be (come) of age: đến tuổi trưởng thành
+
++ to be under age: chưa đến tuổi trưởng thành
+- (thông tục), ((thường) số nhiều) lâu lắm, hàng thế kỷ
+
++ I haven't seen him for ages: đã lâu lắm tôi không gặp anh ấy
+- thế hệ
+!to act (be) one's age
+- xử sự đúng lúc với bậc tuổi mình
+!age consent
+- (xem) consent
+!to beat one's well
+- già mà còn khoẻ, nom trẻ hơn tuổi
+!a dog's age
+!a coon's age
+- (từ Mỹ,nghĩa Mỹ) (thông tục) một thời gian dài, hàng thế kỷ
+!a green old age
+- tuổi già, tuổi già sung sướng
+!hoary age
+- tuổi già, tuổi hạc
+!the infitmities of age
+- những bệnh tật lúc tuổi già
+!to look one's age
+- (xem) look
+
+@age of consent
+- tuổi cập kê
+ @aged  
+*  ngdgt
+- làm cho già đi
+*  ndgt
+- già đi
+
+@agedly
+- xem aged
+ @agedness  
+*  dt
+- tuổi già, sự nhiều tuổi
+
+@Age-earning profile
+- (Econ) Biểu quan hệ thu nhập theo tuổi
+: Mối quan hệ giữa thu nhập và tuổi. Biểu diễn quá trình thu nhập theo tuổi đơn giản nhất là một đường nằm ngang đi từ số 0 đến độ tuổi rời trường học, khoảng cách của các bước được quyết định bởi trình độ học vấn.
+ @age-group
+* dt
+- nhóm tuổi
+ @ageing   (aging) @ageism
+* dt
+- sự đối xử với người nào không công bằng do tuổi tác của họ
+ @ageist
+- xem ageism
+ @ageless  
+*  tt
+- trẻ mãi không già
+- (thơ ca) mãi mãi, đời đời, vĩnh viễn
+
+@agelessly
+- xem ageless
+ @agelessness
+- xem ageless
+ @agelong  
+*  tt
+- lâu hàng đời, đời đời, mãi mãi, vĩnh viễn
+
+@agency  
+*  dt
+- tác dụng, lực
+- sự môi giới, sự trung gian
+
++ through (by) the agency of...: nhờ sự môi giới của...
+- (thương nghiệp) đại lý, phân điểm, chi nhánh
+- cơ quan, sở, hãng, hãng thông tấn
+
++  Vietnam News Agency: Việt Nam thông tấn xã
+
+@Agency for International Development
+- (Econ) Cơ quan phát triển quốc tế.
+: Xem INTERNATIONAL DEVELOPMENT CO-OPERATION AGENCY
+ @Agency shop
+- (Econ) Nghiệp đoàn.
+: Yêu cầu công nhân tham gia tuyển dụng không phải gia nhập công đoàn nhưng phải đóng công đoàn phí.
+ @agenda  
+*  dt
+- (số nhiều) những việc phải làm
+- chương trình nghị sự
+- nhật ký công tác
+
+@agenda
+- (Tech) đề tài thảo luận, chương trình nghị sự, nghị trình
+ @agenesia
+- Cách viết khác : agenesis 
+ @agent  
+*  dt
+- người đại lý
+- ((thường) số nhiều) tay sai, chỉ điểm tay chân, bộ hạ
+- tác nhân
+
++ physical agent: tác nhân vật lý
+
++ chemical agent: tác nhân hoá học
+!forward agent
+- người làm công tác phát hành; người gửi đi
+!road agent
+- (từ Mỹ,nghĩa Mỹ) kẻ cướp đường
+!secret agent
+- đặc vụ, trinh thám
+!ticket agent
+- (từ Mỹ,nghĩa Mỹ) người giữ quỹ phòng bán vé
+
+@agent provocateur
+* dt
+- người nhử cho kẻ khác phạm pháp để bắt họ
+ @age-old  
+*  tt
+- lâu đời
+
++ age-old culture: nền văn hoá lâu đời
+
+@ager
+- xem age
+ @aggiornamento
+* dt
+- số nhiều aggiornamentos
+- sự hiện đại hoá, sự hiện đại hoá công giáo
+ @agglomerant  
+*  dt
+- (hoá học) chất làm kết tụ
+
+@agglomerate  
+*  tt
+- tích tụ, chất đống
+- (hoá học) kết tụ
+*  dt
+- địa khối liên kết
+- (kỹ thuật) sản phẩm thiêu kết
+- (hoá học) khối kết tụ
+*  dgt
+- tích tụ lại, chất đống lại
+
+@agglomerate cell
+- (Tech) pin tập khối
+ @agglomeration  
+*  dt
+- sự tích tụ, sự chất đống
+- (kỹ thuật) sự thiêu kết
+- (hoá học) sự kết tụ
+
+@Agglomeration economies
+- (Econ) Tính kinh tế nhờ kết khối.
+: Các khoản tiết kiệm chi phí trong một hoạt động kinh tế do các xí nghiệp hay các hoạt động gần vị trí của nhau.
+ @agglomerative  
+*  tt
+- làm tích tụ, làm chất đống
+- có sức tích tụ, có sức chất đống
+
+@agglomerator
+- xem agglomerate
+ @agglutinant  
+*  dt
+- chất dính
+
+@agglutinate  
+*  tt
+- dính kết
+- (ngôn ngữ học) chấp dính
+*  dgt
+- làm dính, dán lại, gắn lại bằng chất dính
+- làm thành chất dính; hoá thành chất dính
+
+@agglutination  
+*  dt
+- sự dính kết
+- (ngôn ngữ học) chấp dính
+
+@agglutinative  
+*  tt
+- làm dính kết
+- (ngôn ngữ học) chấp dính
+
+@agglutinin
+* dt
+- chất làm dính,  aglutinin, ngưng kết tố
+ @agglutinogen
+* dt
+- Aglutinogen; ngưng kết nguyên, chất gây ngưng kết
+ @aggrade
+* ngdgt
+- làm cao lên
+
++  silt has aggraded the riverbed:bùn làm lòng sông cao lên
+ @aggrandise
+* ngdgt
+- làm to ra, mở rộng (đất đai); nâng cao (địa vị); tăng thêm (quyền hành...)
+- phóng đại, thêu dệt, tô vẽ thêm lên
+ @aggrandisement
+* dt
+- sự làm to ra, sự mở rộng (đất đai); sự nâng cao (địa vị); sự tăng thên (quyền hành...)
+- sự phóng đại, sự thêu dệt, sự tô vẽ thêm lên
+ @aggrandize  
+*  ngdgt
+- làm to ra, mở rộng (đất đai); nâng cao (địa vị); tăng thên (quyền hành...)
+- phóng đại, thêu dệt, tô vẽ thêm lên
+
+@aggrandizement  
+*  dt
+- sự làm to ra, sự mở rộng (đất đai); sự nâng cao (địa vị); sự tăng thên (quyền hành...)
+- sự phóng đại, sự thêu dệt, sự tô vẽ thêm lên
+
+@aggrandizer
+- xem aggrandize
+ @aggravate  
+*  ngdgt
+- làm trầm trọng thêm, làm nặng thêm, làm nguy ngập thêm, làm xấu thêm
+
++ to aggravate an illeness: làm cho bệnh nặng thêm
+
++ to aggravate a sitnation: làm cho tình hình thêm trầm trọng
+- (thông tục) làm bực mình, làm phát cáu, làm cho tức, chọc tức
+
+@aggravating  
+*  tt
+- làm trầm trọng thêm, làm nặng thêm, làm nguy ngập thêm, làm xấu thêm
+- (thông tục) làm bực mình, chọc tức
+
+@aggravatingly
+- xem aggravate
+ @aggravation  
+*  dt
+- sự làm trầm trọng thêm, sự làm nặng thêm, sự làm nguy ngập thêm, sự làm xấu thêm
+- điều làm trầm trọng thêm, điều làm nặng thêm, điều làm nguy ngập thêm, điều làm xấu thêm
+- (thông tục) sự làm bực mình, sự chọc tức
+
+@aggravative
+- xem aggravate
+ @aggravator
+- xem aggravate
+ @aggreement
+- thoả thuận, quy ước, đồng ý
+ @aggregate  
+*  tt
+- tập hợp lại, kết hợp lại
+- gộp chung, tính toàn thể, tính tổng số
+- (pháp lý) gồm nhiều cá nhân hợp lại, gồm nhiều đơn vị hợp lại
+*  dt
+- khối tập hợp, khối kết tập, thể tụ tập
+- toàn bộ, toàn thể, tổng số
+
++ in the aggregate: tính gộp, tính chung, tính tổng số
+- (vật lý) kết tập
+
++ polycrystalline aggregate: kết tập đa tinh thể
+*  ngdgt
+- tập hợp lại, kết hợp lại
+- tổng số lên đến
+
++ these armies aggregate 500,000 men: những đạo quân ấy tổng số lên đến 500, 000 người
+
+@aggregate
+- (Tech) tập hợp, kết tụ
+ @aggregate
+- finite a. tập hợp hữu hạn
+- incomparable a. tập hợp không thể so sánh được
+- infinite a. tập hợp vô hạn
+- non - denumerable a. tập hợp không đếm được
+- ordered a. tập hợp sắp được
+- product a. tập hợp tích
+- similar ordered a.s. các tập hợp được sắp giống nhau 
+ @Aggregate concentration
+- (Econ) Sự tập trung gộp.
+: Biểu đồ chi tiết về SỐ LƯỢNG CỦA SẢN PHẨM QUỐC GIA RÒNG có thể được mua ở mỗi mức giá chung.
+ @aggregate data
+- (Tech) dữ kiện tập hợp
+ @Aggregate demand
+- (Econ) Cầu gộp; Tổng cầu
+ @Aggregate demand curve
+- (Econ) Đường cầu gộp; Đường tổng cầu
+ @Aggregate demand shedule
+- (Econ) Biểu cầu gộp; Biểu tổng cầu
+ @Aggregate expenditure
+- (Econ) Chi tiêu gộp.
+: Là tổng số chi tiêu danh nghĩa cho hàng hoá và dịch vụ trong một nền kinh tế.
+ @Aggregate income
+- (Econ) Thu nhập gộp; Tổng thu nhập
+: Xem INTERNATION INCOME
+ @Aggregate output
+- (Econ) Sản lượng gộp.
+: Xem INTERNATION INCOME
+ @Aggregate production function
+- (Econ) Hàm sản xuất gộp.
+: Mối quan hệ giữa lưu lượng sản lượng trong toàn nền kinh tế (Y), tổng lực lượng lao động (L) và tổng lượng vốn (K), các đầu vào tham gia trực tiếp vào sản xuất. Hàm này có thể được mở rộng để bao hàm cả ĐẤT ĐAI và CÔNG NGHỆ VỚI danh nghĩa là đầu vào.
+ @Aggregate supply curve
+- (Econ) Đường cung gộp; Đường tổng cung.
+ @aggregately
+- xem aggregate
+ @aggregation  
+*  dt
+- sự tập hợp, sự kết hợp, sự tụ tập
+- khối tập hợp, khối kết tập, thể tụ tập
+- sự thu nạp (vào một tổ chức)
+
+@aggregation
+- sự gộp; ghép gộp; (toán kinh tế) sự tổng hợp
+- linear a. sự gộp tuyến tính 
+ @Aggregation problem
+- (Econ) Vấn đề về phép gộp.
+: Vấn đề  xác định hành vi kinh tế vĩ mô có thể đạt dự báo từ hành vi của các đơn vị kinh tế vi mô nổi bật.
+ @aggregative  
+*  tt
+- tập hợp, kết tập, tụ tập
+- có sức tập hợp, só sức kết tập, có, sức tụ tập
+
+@aggregator
+- xem aggregate
+ @aggregeta
+- tập hợp; bộ
+- bounded a.tập hợp bị chặn 
+- closed a. tập hợp đóng
+- comparable a. tạp hợp so sánh được
+- countable a. tập hợp đếm được
+- denumrable a. tập hợp đếm được
+- equivatent a. tập hợp tương đương 
+ @aggress  
+*  ndgt
+- (từ hiếm,nghĩa hiếm) gây sự, gây hấn
+
+@aggression  
+*  dt
+- sự xâm lược, cuộc xâm lược
+
++ war of aggression: chiến tranh xâm lược
+- sự công kích
+- sự gây sự, sự gây hấn; cuộc gây hấn
+
+@aggressive  
+*  tt
+- xâm lược, xâm lăng
+- công kích
+- hay gây sự, gây gỗ, gây hấn, hung hăng, hùng hổ
+- (từ Mỹ,nghĩa Mỹ) tháo vát, xông xáo, năng nổ
+*  dt
+- sự xâm lược
+- sự công kích
+- sự gây sự, sự gây hấn
+
++ to assume the aggressive: gây sự
+
+@aggressively
+* dt
+- xông xáo, tháo vát
+ @aggressiveness  
+*  dt
+- tính chất xâm lược
+- tính chất công kích
+- tính hay gây sự, tính gây gỗ, tính hay gay cấn, tính hung hăng
+
+@aggressor  
+*  dt
+- kẻ xâm lược, nước đi xâm lược
+- kẻ công kích
+- kẻ gây sự, kẻ gây hấn
+
+@aggrieve  
+*  ngdgt
+- (thường),  dạng bị động làm buồn rầu, làm phiền muộn; làm đau khổ, làm khổ sở
+
+@aggrieved
+* tt
+- buồn phiền
+ @aggrievedly
+- xem aggrieved
+ @aggrievedness
+- xem aggrieved
+ @aggro
+* dt
+- hành vi hung hãn, hành vi hung bạo
+ @aghast  
+*  tt
+- kinh ngạc; kinh hãi; kinh hoàng; thất kinh
+
+@agile  
+*  tt
+- nhanh nhẹn, nhanh nhẩu, lẹ làng, lanh lợi
+
+@agilely
+* dt
+- lẹ làng, lanh lợi
+ @agileness
+- xem agile
+ @agility  
+*  dt
+- sự nhanh nhẹn, sự nhanh nhẩu, sự lẹ làng, sự lanh lợi
+
+@agility
+- (Tech) linh động (d)
+ @aging   (aging) @agio  
+*  dt
+- tiền lời, đổi tiền (thu được trong việc đổi chác tiền bạc)
+- nghề đổi tiền
+- (tài chính) giá tiền chênh lệch (giá trị chênh lệch giữa hai loại tiền)
+
+@agiotage  
+*  dt
+- nghề đổi tiền
+- sự đầu cơ ở thị trường chứng khoán
+
+@agip prop  
+*  dt
+- sự tuyên truyền cổ động
+- cơ quan tuyên truyền cổ động
+- cán bộ tuyên truyền cổ động
+
+@agism
+* dt
+- sự đối xử với người nào không công bằng do tuổi tác của họ
+ @agist  
+*  ngdgt
+- nhận cho vật nuôi vào ăn cỏ
+- đánh thuế (một miếng đất, hoặc người chủ đất)
+
+@agistment
+* dt
+- đồng cỏ cho thuê
+- việc chăn nuôi trên đồng cỏ cho thuê
+ @agitate  
+*  ngdgt
+- lay động, rung động, làm rung chuyển
+- khích động, làm xúc động, làm bối rối
+
++ I found him much agitated: tôi thấy anh ta rất bối rối (rất xúc động)
+- suy đi tính lại, suy nghĩ lung; thảo luận
+
++ to agitate a question in one's mind: suy đi tính lại một vấn đề trong óc
+
++ the question had been agitated many times before: vấn đề đã được thảo luận nhiều lần trước đây
+- agitate for,  against xúi giục, khích động (để làm gì, chống lại cái gì...)
+
+@agitatedly
+- xem agitate
+ @agitation  
+*  dt
+- sự lay động, sự rung động, sự làm rung chuyển
+- sự khích động, sự xúc động, sự bối rối
+- sự suy đi tính lại, sự suy nghĩ lung (một vấn đề gì); sự thảo luận
+- sự khích động quần chúng, sự gây phiến động
+
+@agitational
+- xem agitation
+ @agitative
+- xem agitate
+ @agitator  
+*  dt
+- người khích động quần chúng, người gây phiến động
+- máy trộn, máy khuấy
+
+@agitprop
+* dt
+- sự tuyên truyền cổ động
+- cơ quan tuyên truyền cổ động
+ @aglare
+* tt
+- sáng bừng
+
++  His eyes aglare with fury:Mắt nó sáng quắc lên vì nổi giận
+ @agleam
+* tt
+- loé sáng
+ @aglet   (aiglet) @agley  
+*  dt
+- (Ê-cốt) xiên, méo
+
+@aglimmer
+* tt
+- le lói
+ @aglitter
+* tt
+- lấp lánh
+ @aglomerular
+* tt
+- (sinh học) không quản cầu
+ @aglossate
+* tt
+- (sinh học) không lưỡi
+ @aglow  
+*  tt & dt
+- đỏ rực, cháy đỏ, sáng chói, ngời sáng
+- (nghĩa bóng) ngời lên, rạng rỡ
+
++ face aglow with delight: mặt hớn hở rạng rỡ
+
+@agm
+* (viết tắt)
+- hội nghị toàn thể hàng năm (Annual general meeting)
+ @agminated
+* tt
+- (thực vật) kết chùm
+ @agnail  
+*  dt
+- chỗ xước mang rô (ở cạnh móng tay)
+
+@agnate  
+*  tt
+- thân thuộc phía cha, cùng họ cha
+- cùng một giống nòi, cùng một dân tộc
+- cùng loại
+
+@agnatic
+- xem agnate
+ @agnatically
+- xem agnate
+ @agnation  
+*  dt
+- quan hệ phía cha
+
+@agnomen  
+*  dt,  số nhiều agnomina 
+@agnomina  
+*  dt,  số nhiều agnomina 
+@agnosia
+* dt
+- (tâm lý học) sự mất nhận thức
+ @agnostic  
+*  tt
+- (triết học) (thuộc) thuyết không thể biết
+*  dt
+- (triết học) người theo thuyết không thể biết
+
+@agnostically
+- xem agnostic
+ @agnosticism  
+*  dt
+- (triết học) thuyết không thể biết
+
+@ago  
+*  dt
+- trước đây, về trước
+
++ five years ago: năm năm trước đây, đã năm năm nay
+
++ an hour ago: một giờ trước đây
+
++ long long ago: trước đây lâu lắm, đã lâu lắm rồi
+
+@agog  
+*  tt & dt
+- nóng lòng, sốt ruột; chờ đợi, mong mỏi
+
++ to be agog for something: mong mỏi cái gì
+
++ to be agog to do something: nóng lòng muốn làm cái gì
+- đang hoạt động, đang chuyển động, đang bị kích thích, xôn xao
+
++ the whole town is agog: cả thành phố xôn xao
+
++ to set somebody's curiosity agog: kích thích sự tò mò của ai, gợi tò mò của ai
+
+@agon
+* dt
+- số nhiều agones
+- sự xung đột
+ @agonic  
+*  tt
+- không hợp thành góc
+
++ agonic line: đường không từ thiên (đường đi qua các điểm tại đấy kim la bàn không bị lệch)
+
+@agonise   (agonise) @agonising
+* tt
+- gây đau đớn, gây khổ sở
+ @agonisingly
+* dt
+- khổ sở, khó nhọc
+ @agonistic  
+*  tt
+- (thuộc) cuộc thi đấu điền kinh, (thuộc) đấu võ (ở Hy lạp xưa kia)
+- có tính chất bút chiến, có tính chất luận chiến
+- (văn học) không tự nhiên, gò bó
+
+@agonistically
+- xem agonistic
+ @agonize   (agonise) @agonizing  
+*  tt
+- làm đau đớn, làm khổ sở, hành hạ
+
+@agonizingly
+* dt
+- khổ sở, khó nhọc
+ @agony  
+*  dt
+- sự đau đớn, sự khổ cực, sự thống khổ; sự quằn quại; sự đau đớn cực đô (về thể xác)
+
++ to suffer agonies: chịu nỗi thống khổ
+- sự lo âu khắc khoải
+- cơn hấp hối
+
++ agony of death; death agony: cơn hấp hối
+- sự vật lộn
+- sự vui thích đến cực độ
+
++ to be in an agony of joy: vui sướng đến cực độ
+!agony column
+- (thông tục) mục rao việc riêng (trên báo)
+!agony in red
+-(đùa cợt) bộ quần áo đỏ choé
+
+@agoraphobia  
+*  dt
+- chứng sợ khoảng rộng
+
+@agoraphobiac
+- xem agoraphobia
+ @agoraphobic
+* dt
+- người sợ khoảng rộng
+ @agouti   (agouty) @agouty   (agouty) @agranular
+* tt
+- không hạt
+ @agranulocyte
+* dt
+- (y học) bạch cầu không hạt
+ @agraphia
+* dt
+- (y học) chứng mất một phần hay hoàn toàn khả năng viết
+ @agrarian  
+*  tt
+- (thuộc) ruộng đất
+
++ the agrarian question: vấn đề ruộng đất
+
++ an agrarian reform: cuộc cải cách ruộng đất
+- (thuộc) đất trồng trọt
+
+@Agrarian revolution
+- (Econ) Cách mạng nông nghiêp.
+: Tình huống trong đó sản lượng nông nghiệp tăng lên rõ rệt nhờ những thay đổi về tổ chức và kỹ thuật.
+ @agrarianize
+* ngdgt
+- thực hiện cải cách ruộng đất
+ @agrarianly
+- xem agrarian
+ @agree  
+*  ndgt
+- đồng ý, tán thành, bằng lòng, thoả thuận
+
++ to agree go proposal: tán thành một lời đề nghị
+
++ to agree with someone: đồng ý với ai
+- hoà thuận
+
++ they can't agree: họ không thể sống hoà thuận với nhau được
+- hợp với, phù hợp với, thích hợp với
+
++ this food does not agree with me: thức ăn này không thích hợp với tôi
+- (ngôn ngữ học) hợp (về cách, giống, số...)
+*  ngdgt
+- cân bằng (các khoản chi thu...)
+!agreed!
+- đồng ý!, tán thành!
+!to agree like cats and dogs
+- sống với nhau như chó với mèo
+!to agree to differ
+- (xem) differ
+
+@agreeability   (agreeability) @agreeable  
+*  tt
+- dễ chịu, dễ thương
+
++ agreeable weather: thời tiết dễ chịu
+
++ agreeable voice: giọng dễ thương
+- vừa ý, thú, khoái
+- (thông tục) vui lòng, sẵn sàng, tán thành, sẵn sàng đồng ý
+
++ to be agreeable to someone's proposal: sẵn sàng tán thành lời đề nghị của ai
+- agreeable to hợp với, thích hợp với
+
++ to be agreeable to the taste: hợp với với sở thích
+!to make oneself agreeable to somebody
+- cố gắng làm vừa lòng ai, cố gắng làm vui lòng ai
+
+@agreeableness   (agreeability) @agreeably
+* dt
+- thú vị, dễ chịu
+ @agreed!
+- thành ngữ agree
+- agreed!
+- đồng ý!, tán thành!
+- thành ngữ agree
+- agreed!
+- đồng ý!, tán thành!
+ @agreement  
+*  dt
+- hiệp định, hiệp nghị
+- hợp đồng, giao kèo
+- sự bằng lòng, sự tán thành, sự đồng ý, sự thoả thuận
+
++ by mutural agreement: theo sự thoả thuận chung
+- sự phù hợp, sự hoà hợp
+
++ to be in agreement with: bằng lòng, thoả thuận, tán thành, đồng ý; phù hợp với, thống nhất với
+
++ individualism in not in agreement with the common interests: chủ nghĩa cá nhân không phù hợp với ích lợi chung
+- (ngôn ngữ học) sự hợp (cách, giống, số...)
+
++ to come to an agreement: đi đến sự thoả thuận; đi đến ký kết một hiệp định
+!to enter into an agreement with somebody
+- ký kết một hợp đồng với ai
+!executive agreement
+- (từ Mỹ,nghĩa Mỹ) bản hiệp định ký kết giữa tổng thống (Mỹ) với chính phủ một nước khác không cần thông qua thượng nghị viện
+!to make an agreement with
+- thoả thuận với; ký kết một hợp đồng với
+
+@agrestic  
+*  tt
+- ở nông thôn
+- quê mùa, thô kệch
+
+@agrestral
+- Cách viết khác : agrestrial 
+ @agricultural  
+*  tt
+- (thuộc) nông nghiệp
+
++ agricultural products: sản phẩm nông nghiệp
+
++ agricultural engineer: kỹ sư nông nghiệp
+
+@Agricultural earnings
+- (Econ) Các khoản thu từ nông nghệp.
+: Khoản thu từ nông nghiệp thường khó định lượng, đặc biệt trong nền nông nghiệp tự túc hoặc ở những nơi thu nhập đưpực trả bằng hiện vật nghĩa là nông sản.
+ @Agricultural exports
+- (Econ) Nông sản xuất khẩu
+: Các sản phẩm nông nghiệp làm ra để xuất khẩu chứ không phải cho mục đích tự cung tự cấp hay cho thị trường trong nước
+ @Agricultural lag
+- (Econ) Đỗ trễ của nông nghiệp
+: Là thời gian giữa sản xuất nông nghiệp thực tế và sản xuất nông nghiệp tiềm năng Ở CÁC NƯỚC ĐANG PHÁT TRIỂN.
+ @Agricultural livies
+- (Econ) Thuế nông nghiệp.
+: Xem EC Agricultural levies.
+ @Agricultural reform
+- (Econ) Cải cách nông nghiệp.
+: Một trong những hạn chế đối với PHÁT TRIỂN KINH TẾ là việc sử dụng các biện pháp sơ khai, không hiệu quả trong nông nghiệp. Các ngành ở nông thôn ở những nước kém phát triển cung cấp thực phẩm ngày ngày càng tăng cho dân cư thành phố. Các phương pháp cũ, thô sơ thì kém hiệu quả , còn kỹ thuật cơ giới hoá hiện đại thì không thích hợp. Vì vậy một dạng cải cách là áp dụng loại công nghệ nông nghiệp thích hợp.
+ @Agricultural sector
+- (Econ) Khu vực nông nghiệp.
+: Khu vực hoặc một bộ phận dân số tham gia vào nghề nông, cung cấp lương thực, nguyên liệu thô như bông, gỗ cho tiêu dùng trong nước và xuất khẩu.
+ @Agricultural Stabilization and Conservation Service
+- (Econ) ASCS - Nha ổn định và bảo tồn nông nghiệp.
+:  Cơ quan quản lý địa phương của CÔNG TY TÍN DỤNG HÀNG HOÁ CỦA MỸ
+ @Agricultural subsidies
+- (Econ) Khoản trợ cấp nông nghiệp.
+: Khoản tiền trả cho nông dân với mục đích khuyến khích sản xuất lương thực thực phẩm và trợ giúp thu nhập của nông dân.
+ @Agricultural Wage Boards
+- (Econ) Các hội đồng tiền công trong nông nghiệp.
+: Các cơ quan do pháp luật quy định mức lương tối thiểu  đối với những người làm nông nghiệp ở Anh, xứ Wales và Scotland cùng một cách chính thức như các hội đồng tiền công.
+ @agriculturalist   (agriculturist) @agriculturally
+* dt
+- về mặt nông nghiệp, về phương diện nông nghiệp
+ @agriculture  
+*  dt
+- nông nghiệp
+!Broad of Agriculture
+- bộ nông nghiệp (ở Anh)
+
+@agriculturist   (agriculturist) @agrimony
+* dt
+- (thực vật) cỏ long nha
+ @agrimotor  
+*  dt
+- (nông nghiệp) máy kéo
+
+@agriotype
+* dt
+- kiểu hoang dã
+ @agrium
+* dt
+- quần xã cây trồng
+ @agro-
+- (dạng kết hợp) nông
+ @agrobiologic
+- xem agrobiology
+ @agrobiological  
+*  tt
+- (thuộc) nông sinh học
+
+@agrobiologically
+- xem agrobiology
+ @agrobiologist  
+*  dt
+- nhà nông sinh học
+
+@agrobiology  
+*  dt
+- nông sinh học
+
+@agrobotany
+* dt
+- thực vật học nông nghiệp
+ @agrochemistry
+* dt
+- hoá học nông nghiệp; nông hoá học
+ @agroecology
+* dt
+- sinh thái học nông nghiệp
+ @agronomic   (agronomical) @agronomical   (agronomical) @agronomics  
+*  số từ,  số nhiều dùng như số ít
+- nông học
+
+@agronomist  
+*  dt
+- nhà nông học
+
+@agronomy  
+*  dt
+- nông học
+- nông nghiệp
+
+@aground  
+*  dt & tt
+- mắc cạn (thuyền, tàu thuỷ)
+
++ to be (run, go) aground: mắc cạn
+
+@agrément  
+*  tt
+- (ngoại giao) sự chấp thuận (nhận một đại diện ngoại giao)
+
+@ague  
+*  dt
+- cơn sốt rét
+- cơn sốt run, cơn rùng mình
+
+@ague-cake  
+*  dt
+- (y học) bệnh sưng lá lách do sốt rét
+
+@aguish  
+*  tt
+- (thuộc) bệnh sốt rét; gây bệnh sốt rét
+- mắc bệnh sốt rét
+- thất thường, không đều, từng cơn
+
+@aguishly
+- xem ague
+ @aguishness
+- xem ague
+ @

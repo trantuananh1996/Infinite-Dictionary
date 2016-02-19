@@ -1,0 +1,800 @@
+@er  
+*  thán từ
+- A à! ờ ờ!
+
+@era  
+*  dt
+- thời đại, kỷ nguyên
+
++ Christian era: công nguyên
+- (địa lý,địa chất) đại
+
++ mesozoic era: đại trung sinh
+
+@eradiate  
+*  ndgt
+- phát xạ, phát tia (sáng)
+
+@eradiation  
+*  dt
+- sự phát xạ, sự phát tia (sáng)
+
+@eradicable  
+*  tt
+- có thể nhổ rễ được
+- có thể trừ tiệt được
+
+@eradicate  
+*  ngdgt
+- nhổ rễ
+- trừ tiệt
+
+@eradication  
+*  dt
+- sự nhổ rễ
+- sự trừ tiệt
+
+@eradicative
+- xem eradicate
+ @eradicator
+* dt
+- người nhổ rễ, người bài trừ
+ @erasability
+- xem erase
+ @erasable  
+*  tt
+- có thể xoá, có thể xoá bỏ
+
+@erasable
+- (Tech) xóa được
+ @erasable
+- (máy tính) xoá khử
+ @erasable memory
+- (Tech) bộ nhớ xóa được
+ @erasable optical storage
+- (Tech) bộ trữ quang xóa được
+ @erasable programmable ROM (EPROM)
+- (Tech) bộ nhớ thảo chương và xóa được
+ @erasable ROM 
++  erasable programmable ROM
+- (Tech)
+ @erasable storage
+- (Tech) bộ trữ xóa được
+ @erase  
+*  ngdgt
+- xoá, xoá bỏ
+
+@erase character
+- (Tech) ký tự xóa 
++  delete character
+ @erase key
+- (Tech) phím xóa
+ @erased
+- bị xoá, bị khử
+ @erasement  
+*  dt
+- sự xoá, sự xoá bỏ
+
+@eraser
+* dt
+- người xoá, người xoá bỏ
+- cái tẩy, cái cạo
+- giẻ lau bảng tha thiết
+ @erasibility
+* dt
+- khả năng xoá được, tẩy được
+ @erassibility
+- tính xoá được, tính khử được
+ @erastian
+* tt
+- thuộc học thuyết chủ trương nhà nước chiếm ưu thế trong lĩnh vực tôn giáo
+* dt
+- người chủ trương nhà nước chiếm ưu thế trong lĩnh vực tôn giáo
+ @erastianism
+* dt
+- học thuyết chủ trương ưu thế nhà nước trong lĩnh vực tôn giáo
+ @erasure
+* dt
+- sự xoá, sự xoá bỏ
+- vết xoá, vết cạo
+ @erasure
+- sự xoá, sư khử
+ @erbium  
+*  dt
+- (hoá học) Ebiri
+
+@erd
+* dt
+- địa cầu; đất; khu vực
+ @ere  
+*  giới từ
+- (từ cổ,nghĩa cổ),  (thơ ca) trước
+
++ ere while: trước đây, trước kia
+
++ ere long: không lâu nữa, chăng bao lâu
+*  liên từ
+- (từ cổ,nghĩa cổ),  (thơ ca) trước khi
+
+@erect  
+*  tt
+- thẳng, đứng thẳng
+- dựng đứng (tóc...)
+*  ngdgt
+- dựng đứng thẳng, đặt đứng thẳng
+- dựng nên, xây dựng ((nghĩa đen) & (nghĩa bóng))
+- (sinh vật học) làm cương lên
+- (kỹ thuật) ghép, lắp ráp
+- (toán học) dựng (hình...)
+*  ndgt
+- cương lên
+
+@erect
+- thẳng, thẳng góc || dựng, xây dựng
+- e. a perpendicular dựng một đường thẳng góc 
+ @erectable
+- xem erect
+ @erecter
+* dt
+- người xây dựng
+- cơ cương; cơ dựng
+ @erectile  
+*  tt
+- (sinh vật học) cương
+
+@erectility  
+*  dt
+- trạng thái cương
+
+@erection  
+*  dt
+- sự đứng thẳng; sự dựng đứng
+- sự dựng lên, sự xây dựng; công trình xây dựng ((nghĩa đen) & (nghĩa bóng))
+- (sinh vật học) sự cương; trạng thái cương
+- (kỹ thuật) sự ghép, sự lắp ráp
+- (toán học) sự dựng (hình...)
+
+@erectly
+- xem erect
+ @erectness  
+*  dt
+- vị trí thẳng đứng; sự đứng thẳng; sự dựng đứng
+
+@erectopatent
+* tt
+- nửa khép nửa hở
+ @erector  
+*  dt
+- người dựng, người làm đứng thẳng; vật làm đứng thẳng
+- (giải phẫu) cơ cương ((cũng) erector muscle)
+- (kỹ thuật) thợ lắp ráp
+
+@erelong
+* dt
+- (từ cổ, nghĩa cổ) chẳng bao lâu nửa
+ @eremic
+* tt
+- ở sa mạc; thuộc hoang mạc
+ @eremite  
+*  dt
+- ẩn sĩ
+
+@eremitic   (eremitical) @eremitical   (eremitical) @eremitism
+* dt
+- cuộc sống ẩn sĩ
+ @erenow
+* dt
+- trước đây
+ @erethism  
+*  dt
+- (y học) trạng thái kích thích
+
+@erethismic
+- xem erethism
+ @erethistic
+- Cách viết khác : erethitic 
+ @erewhile
+* dt, cũng erewhiles
+- (từ cổ, nghĩa cổ) trước đây ít lâu
+ @erg   (ergon) @ergastic
+* tt
+- (sinh học) thuộc hậu chất
+ @ergastoplasm
+* dt
+- (sinh học) chất phân bào
+ @ergastoplasmic
+* tt
+- thuộc chất phân bào
+ @ergatocracy  
+*  dt
+- chính quyền công nhân
+
+@ergo  
+*  dt
+- ((thường), (đùa cợt)) do đó, vậy thì
+
+@ergodic
+- egodic
+ @ergodic function
+- (Tech) hàm thiên lịch, hàm ergôddic
+ @ergodic theorem
+- (Tech) định lý thiên lịch
+ @ergodicity
+- tính góc egodic
+ @ergograph
+* dt
+- (sinh học) máy ghi cơ công
+ @ergology
+* dt
+- sinh lý học lao động
+ @ergometer
+* dt
+- (sinh học) cơ công kế
+ @ergometrine
+* dt
+- (dược học) ecgometrin
+ @ergon   (ergon) @ergonometric
+- xem ergonomics
+ @ergonomic
+- xem ergonomics
+ @ergonomically
+- xem ergonomics
+ @ergonomics
+- (Tech) môn tối ưu nhân tố
+ @ergonomist
+- xem ergonomics
+ @ergonovine
+* dt
+- ecgometrin
+ @ergot   (ergotism) @ergotamin
+* dt
+- (dược) ecgotamin
+ @ergotic
+- xem ergot
+ @ergotine  
+*  dt
+- (dược học) Ecgôtin
+
+@ergotinin
+* dt
+- cũng ergotinine
+- (dược học) ecgotinin
+ @ergotism  
+*  dt
+- (thực vật học) (như) ergot
+- sự nhiễm độc Ecgôtin
+
+@ergotize
+- %%ergotize%%ergotize
+ @ergotoxine
+* dt
+- (dược) ecgotoxin
+ @erica
+* dt
+- (thực vật) cây thạch nam
+ @ericaceous  
+*  tt
+- (thực vật học) (thuộc) họ đỗ quyên
+
+@erigeron  
+*  tt
+- (thực vật học) giống có tai hùm
+
+@erin
+* dt
+- (thơ ca) Airơlân
+ @erinaceous
+* tt
+- (động vật) thuộc họ chuột nhím
+ @erinys
+* dt
+- số nhiều erinyes
+- Ê-ri-ni (nữ thần trả thù của thần thoại Hy lạp)
+ @eristic  
+*  tt
+- (thuộc) tranh luận
+- nhằm thắng hơn là nhằm sự thực (người tranh luận, lập luận)
+*  dt
+- tài tranh luận
+
+@erlang
+- (Tech) erlang (đơn vị lưu lượng thông tin)
+ @erlangmeter
+- (Tech) máy đo erlang
+ @erl-king  
+*  dt
+- thần dụ trẻ (thần thoại Đức (từ cổ,nghĩa cổ))
+
+@ERM
+- (Econ) Xem EXCHANGE RATE MECHANISM.
+ @ermine  
+*  dt
+- (động vật học) chồn ecmin
+- da lông chồn ecmin (dùng làm áo...)
+- (thông tục) chức quan toà
+
++ to rise to ermine: được bổ nhiệm làm quan toà
+
++ a dispute between silk and ermine: sự tranh cãi giữa luật sư và quan toà
+- (thơ ca) sự trong trắng
+
+@erne  
+*  dt
+- (động vật học) ó biển
+
+@ernie  
+*  dt
+- (viết tắt) của electronic random number indicator equipment
+- máy xổ số
+
+@erode  
+*  ngdgt
+- xói mòn, ăn mòn
+
+@eroded  
+*  tt
+- bị xói mòn, bị ăn mòn
+
+@erodent  
+*  tt
+- xói mòn, ăn mòn
+
+@erodibility
+- xem erode
+ @erodible
+- xem erode
+ @erogeneity
+* dt
+- tính kích thích tính dục
+ @erogenous
+* tt
+- nhạy kích thích tình dục
+ @eros  
+*  dt
+- thần ái tình
+
+@erosion  
+*  dt
+- sự xói mòn, sự ăn mòn
+
+@erosional
+- xem erosion
+ @erosionally
+- xem erosion
+ @erosive  
+*  tt
+- xói mòn, ăn mòn
+
+@erosiveness
+- xem erosive
+ @erosivity
+- xem erosive
+ @erotamania  
+*  dt
+- bệnh tương tư; bệnh điên vì tình
+- xung động thoả dục
+
+@erotematic
+* tt
+- (văn học) mang hình thức câu hỏi
+ @erotic  
+*  tt
+- (thuộc) tình ái, (thuộc) tình dục
+- (từ Mỹ,nghĩa Mỹ) khiêu dâm, gợi tình
+*  dt
+- bài thơ tình
+- người đa tình; người đa dâm
+
+@erotica  
+*  dt số nhiều
+- văn học về tình
+- (từ Mỹ,nghĩa Mỹ) sách báo khiêu dâm, tranh ảnh khiêu dâm
+
+@erotically
+* dt
+- khiêu dâm, khêu gợi
+ @eroticism  
+*  dt
+- tư tưởng dâm dục; tính đa dâm
+
+@eroticist
+- xem eroticism
+ @eroticize
+* ngdgt
+- khiêu dâm
+ @erotism  
+*  dt
+- tình dục; sự khiêu dâm
+- tính đa dâm, tính dâm dục
+
+@erotology
+* dt
+- ái tình học
+ @erotomania
+* dt
+- (y học) xung động thoả dục; chứng cuồng dâm
+ @erotomaniac
+* dt
+- người lúc nào cũng nghĩ đến nhục dục; người cuồng dâm
+ @err  
+*  ndgt
+- lầm lỗi, sai lầm
+- phạm tội
+- (từ cổ,nghĩa cổ),  (từ hiếm,nghĩa hiếm) đi lang thang
+
+@errancy  
+*  dt
+- sự sai lầm, sự sai sót
+
+@errand  
+*  dt
+- việc vắt (đưa thư, mua thuốc lá...)
+
++ to run [on] errands; to go on errands: chạy việc vặt
+- mục đích cuộc đi; mục đích
+
++ his errand was to deliver a letter: mục đích hắn đến là để đưa một bức thư
+
+@errand-boy  
+*  dt
+- chú bé chạy việc vặt
+
+@errant  
+*  tt
+- lang thang, giang hồ
+- sai lầm, sai sót, không đúng tiêu chuẩn
+*  dt
+- (như) knight-errant
+
+@errantly
+- xem errant
+ @errantry  
+*  dt
+- thân thể của hiệp sĩ giang hồ
+- tính giang hồ hiệp sĩ
+
+@errata  
+*  dt,  số nhiều errata
+- lỗi in, lỗi viết
+- bản đính chính
+
+@erratic  
+*  tt
+- thất thường, được chăng hay chớ, bạ đâu hay đấy
+- (y học) chạy, di chuyển (chỗ đau)
+- (từ hiếm,nghĩa hiếm) lang thang
+
++ erratic blocks: (địa lý,địa chất) đá tảng lang thang
+!erratic driving
+- sự lái chưa vững, sự lái chập choạng (ô tô)
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người tính tình thất thường, người được chăng hay chớ, người bạ đâu hay đấy
+
+@erratically  
+*  dt
+- thất thường, được chăng hay chớ, bạ đâu hay đấy
+- chập choạng (lái xe ô tô)
+
+@erraticism
+- xem erratic
+ @erratics
+* dt
+- (địa chất) tầng lăn; đá lang thang; phiêu nham
+ @erratum  
+*  dt,  số nhiều errata
+- lỗi in, lỗi viết
+- bản đính chính
+
+@erratum
+- bản đính chính
+ @errhine  
+*  tt
+- làm hắt hơi
+*  dt
+- (y học) thuốc hắt hơi
+
+@erroneous  
+*  tt
+- sai lầm, sai sót; không đúng
+
+@erroneous
+- sai lầm
+ @erroneously
+* dt
+- sai, nhầm
+ @erroneousness  
+*  dt
+- tính sai lầm, tính sai sót; tính không đúng
+
+@error  
+*  dt
+- sự sai lầm, sự sai sót, lỗi; ý kiến sai lầm; tình trạng sai lầm
+
++ to commit (make) an error: phạm sai lầm, mắc lỗi
+
++ in error: vì lầm lẫn
+- (kỹ thuật) sai số; độ sai
+- sự vi phạm
+- (rađiô) sự mất thích ứng
+
+@error
+- (Tech) sai số; sai lầm, lỗi; thiếu sót
+ @error
+- độ sai, sai số
+- e. of behaviour độ sai khi xử lý 
+- e. of calculation sai số trong tính toán
+- e. of estimation độ sai của ước lượng
+- e. of first (second) kind sai lầm loại một (loại hai)
+- e. of observation sai số quan trắc
+- e. of solution sai số của nghiệm
+- absolute e. sai số tuyệt đối
+- accidental e. sai số ngẫu nhiên
+- actual e. sai số thực tế
+- additive e. sai số cộng tính
+- alignmente e. sai số thiết lập
+- approximate e. độ sai xấp xỉ
+- ascertainment e. độ sai do điều tra bằng mẫu
+- average e. độ sai trung bình 
+- compemsating e. sai số bổ chính
+- connection e. sai số [khi mở, khi nối mạch]
+- constant e. sai số không đổi
+- dynamic(al) e. độ sai động
+- elementary e. sai số sơ cấp
+- experimental e. sai số thực nghiệm
+- fixed e. sai số có hệ thống
+- following e. (thống kê) sai số theo sau
+- gross e. sai số lớn
+- hysteresis e. sai số do hiện tượng trễ
+- indication e.(máy tính) sai số chỉ
+- inherent e. sai số nội tại
+- inherited e. sai số thừa hưởng
+- integrated square e. (điều khiển học) tích phân bình phương sai số
+- interpolation e. sai số nội suy
+- instrument e., instrumentale e. sai số do dụng cụ
+- limiting e. (máy tính) sai số giới hạn
+- load e. (điều khiển học) lệch tải 
+- mean e. độ sai trung bình
+- mean absolute e. độ sai tuyệt đối trung bình
+- mean square e. (độ) sai số bình phương trung bình 
+- mean-root-square e. độ sai tiêu chuẩn
+- meter e. sai số dụng cụ
+- metering e. sai số đo
+- miscount e. tính toán sai, tính nhầm
+- observational e. (thống kê) sai số quan trắc
+- out put e. sai số đại lượng 
+- percentage e. sai số tính theo phần trăm
+- personal e. (toán kinh tế) sai số đo người
+- presumptive e. độ sai giả định
+- probable e. sai số có thể
+- quadraitic mean e. độ sai bình phương trung bình
+- random e. độ sai ngẫu nhiên
+- relative e. sai số tương đối
+- residual e. sai số thặng dư
+- response e. (thống kê) sai số không ngẫu nhiên
+- root-mean-square e. sai số [quân phương, tiêu chuẩn]
+- round-off e. sai số làm tròn
+- sampling e. sai số lấymẫu
+- single e. sai số đơn lẻ
+- standard e. of estimate (thống kê) độ sai tiêu chuẩn của ước lượng
+- steady-state e. sai số ổn định
+- systematic e. sai số có hệ thống 
+- total e. sai số toàn phần
+- truncation e. (máy tính) sai số cụt
+- turning e. (máy tính) độ sai quay
+- type I e. (thống kê) sai lầm kiểu I
+- type II e. (thống kê) sai lầm kiểu II
+- unbias(s)ed e. sai số ngẫu nhiên
+- weight e. sai số trọng lượng
+- wiring e. sai số lắp ráp 
+ @error analysis
+- (Tech) phân tích sai lầm; phân tích sai số
+ @error byte
+- (Tech) bai sai số
+ @error character
+- (Tech) ký tự sai lầm
+ @error checking code
+- (Tech) mã kiểm sai lầm
+ @error control character
+- (Tech) ký tự kiểm soát sai lầm
+ @error control equipment
+- (Tech) thiết bị kiểm soát sai lầm
+ @error correcting code
+- (Tech) mã hiệu chỉnh sai lầm
+ @Error correction models (ECMs)
+- (Econ) Các mô hình hiệu chỉnh sai số; Các mô hình sửa chữa sai số.
+: Trong phân tích và hồi quy một ECMs kết hợp các sự tác động qua lại ngắn hạn và dài hạn giữa các biến số,
+ @error detecting code
+- (Tech) mã phát hiện sai lầm
+ @error detection routine
+- (Tech) thường trình phát hiện sai lầm
+ @error detector
+- (Tech) bộ phát hiện sai số
+ @error diagnostics
+- (Tech) chẩn đoán sai lầm
+ @error flag
+- (Tech) cờ báo sai lầm
+ @error free
+- (Tech) không sai số; không sai lầm
+ @error function
+- (Tech) hàm sai số 
+ @error handling
+- (Tech) xử lý sai lầm 
++  error analysis
+ @error interrupt
+- (Tech) ngắt khi có sai số
+ @Error learning process
+- (Econ) Quá trình nhận biết sai số.
+: Xem ADAPTIVE EXPECTATIONS.
+ @error level
+- (Tech) mức sai lầm
+ @error log
+- (Tech) sổ ghi sai lầm
+ @error message
+- (Tech) thông báo về sai lầm
+ @error notch
+- (Tech) dấu sai
+ @error probability
+- (Tech) xác suất sai số
+ @error rate
+- (Tech) độ sai lầm
+ @error ratio
+- (Tech) tỷ số sai lầm
+ @error recovery procedure (ERP)
+- (Tech) thủ tục hồi phục khi có sai lầm
+ @error signal
+- (Tech) tín hiệu sai số
+ @error transmission
+- (Tech) truyền sai lầm
+ @errorless  
+*  tt
+- không có sai lầm, không có lỗi; đúng, đúng đắn
+
+@Errors variables
+- (Econ) Sai số trong biến số (hay sai số trong các phép đo).
+: Một bài toán kinh tế lượng, theo đó các biến giải thích trong phân tích HỒI QUY được đo một cách không hoàn hảo do giá trị thực tế của chúng không thể quan sát được, hay do sự không chính xác khi ghi chép.
+ @ersatz  
+*  dt
+- thế phẩm
+
+@erst   (erstwhile) @erstwhile   (erstwhile) @erubescence
+* dt
+- sự ửng đỏ (mặt); cách làm ửng đỏ (quả)
+ @erubescent  
+*  tt
+- ửng đỏ
+
+@erubescite
+* dt
+- (khoáng chất) erubetxit
+ @eruciform
+* tt
+- dạng sâu
+ @eruct   (eructate) @eructate   (eructate) @eructation  
+*  dt
+- sự ợ, sự ợ hơi
+- sự phun (núi lửa)
+
+@eructative
+- xem eructation
+ @erudite  
+*  tt
+- học rộng, uyên bác
+
+@eruditely
+* dt
+- uyên thâm, uyên bác
+ @eruditeness
+- xem erudite
+ @erudition  
+*  dt
+- học thức, uyên bác; tính uyên bác
+
+@eruginous
+* tt
+- xanh lục; có màu gỉ đồng
+ @erumpent
+* tt (thực vật)
+- phát sinh nhất thời; đột nhiên xuất hiện
+- bị nứt đột ngột
+ @erupt  
+*  ndgt
+- phun (núi lửa)
+- nổ ra (chiến tranh...)
+- nhú lên, mọc (răng)
+
+@eruption  
+*  dt
+- sự phun (núi lửa)
+- sự nổ ra; sự phọt ra
+- (y học) sự phát ban
+- sự nhú lên, sự mọc (răng)
+
+@eruptional  
+*  tt
+- (địa lý,địa chất) phun trào do núi lửa phun ra
+
+@eruptive  
+*  tt
+- nổ ra; có xu hướng nổ ra, có xu hướng nổi lên
+- (như) eruptional
+
+@eruptively
+- xem erupt
+ @eruptiveness   (eruptivity) @eruptivity   (eruptivity) @eryngium  
+*  dt
+- (thực vật học) giống cây mùi tàu
+
+@eryngo
+* dt
+- (thực vật) cây mùi tàu
+ @erysipelas  
+*  dt
+- (y học) viêm quầng
+
+@erysipelatous  
+*  tt
+- (y học) (thuộc) viêm quầng
+
+@erythaemia
+* dt
+- (y học) chứng tăng hồng cầu vô căn
+ @erythema  
+*  dt
+- (y học) ban đỏ
+
+@erythematous
+- xem erythema
+ @erythrism
+* dt
+- màu da, tóc đỏ đặc biệt
+ @erythristic
+* tt
+- thuộc màu da, tóc đỏ đặc biệt
+ @erythrite
+* dt
+- (khoáng chất) erythrit
+ @erythroblast
+* dt
+- (sinh học) nguyên hồng cầu
+ @erythroblastic
+* dt
+- (thuộc) nguyên hồng cầu
+ @erythroblastosis
+* dt
+- số nhiều erythroblastoses
+- (y học) chứng tăng hồng cầu
+ @erythrocyte
+* dt
+- hồng cầu
+ @erythrocytometer
+* dt
+- dụng cụ để tính hồng cầu
+ @erythroleukemia
+* dt
+- (y học) chứng tăng hồng - bạch cầu
+ @erythrolysis
+* dt
+- (y học) sự tiêu hồng cầu
+ @erythromycin
+* dt
+- (dược) eritromixin
+ @erythron
+* dt
+- tổng số hồng cầu
+ @erythropenic
+* tt
+- (y học) giảm hồng cầu
+ @erythropoiesis
+* dt
+- (y học) sự tạo hồng cầu
+ @erythropoietic
+* tt
+- tạo hồng cầu
+ @erythropsia
+* dt
+- (y học) chứng thấy sắc đỏ
+ @erythropsin
+* dt
+- cũng erythropsine
+- (hoá học) eritroxin; màu đỏ (mắt côn trùng)
+ @

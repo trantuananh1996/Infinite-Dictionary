@@ -1,0 +1,1021 @@
+@ep
+* (viết tắt)
+- dựa hát chơi lâu (extended-play record)
+ @epacmatic
+* tt
+- xem epacme
+ @epacme
+* dt
+- (sinh học) kỳ trước điểm cao phát triển
+ @epact  
+*  dt
+- (thiên văn học) số ngày lịch so le (số ngày hơn của năm dương lịch so với năm âm lịch)
+
+@epactal
+* tt
+- thừa quá nhiều
+ @epanthous
+* tt
+- (sinh học) sống ở hoa
+ @eparch
+* dt
+- (tôn giáo) đại giáo chủ (nhà thờ chính giáo)
+- quận (từ cổ La-mã)
+ @eparchy
+* dt
+- giáo khu (chính giáo)
+- quận (từ cổ La-mã)
+ @epaulement  
+*  dt
+- (quân sự) công sự bên (ở cạnh công sự chính)
+
+@epaulet   (epaulette) @epaulette   (epaulette) @epaxial
+* tt
+- trên trục
+ @epeirogenesis  
+*  dt
+- (địa lý,địa chất) sự phát sinh lục địa
+
+@epeirogeny
+* dt
+- xem epeirogenesis
+ @epencephalic
+* tt
+- thuộc tiểu não
+ @epencephalon
+* dt
+- (giải phẫu) tiểu não
+ @ependyma
+* dt
+- lớp lót khoang não-tủy sống
+ @ependymal
+* tt
+- thuộc lớp khoang não-tủy sống
+ @epenthesis  
+*  dt
+- (ngôn ngữ học) hiện tượng chêm âm
+
+@epenthetic  
+*  tt
+- (ngôn ngữ học) chêm; (thuộc) âm chêm
+
+@epergne  
+*  dt
+- vật trang trí bàn ăn
+
+@eperlan
+* dt
+- (động vật) cá hương
+* dt
+- (động vật) cá hương
+ @epexegetic   (epexegetical) @epexegetical   (epexegetical) @epexegexis  
+*  dt
+- (ngôn ngữ học) từ thêm cho rõ nghĩa
+
+@ephah
+* dt
+- đơn vị đong đồ khô của cổ Do Thái, bằng 36; 37 lít
+ @ephebe  
+*  dt
+- công dân từ 18 đến 20 tuổi,  êfep ((từ cổ,nghĩa cổ) Hy-lạp)
+
+@ephebic
+- xem ephebe
+ @ephedra  
+*  dt
+- thực giống cây ma hoàng
+
+@ephedrin  
+*  dt
+- (dược học) Êfêđrin
+
+@ephelides  
+*  dt,  số nhiều ephelides
+- (y học) nốt tàn hương
+
+@ephelis  
+*  dt,  số nhiều ephelides
+- (y học) nốt tàn hương
+
+@ephemera  
+*  dt,  số nhiều ephemeras,  ephemerae
+- (động vật học) con phù du
+- vật chóng tàn
+*  dt
+- số nhiều của ephemeron
+
+@ephemerae  
+*  dt,  số nhiều ephemeras,  ephemerae
+- (động vật học) con phù du
+- vật chóng tàn
+*  dt
+- số nhiều của ephemeron
+
+@ephemeral   (ephemerous) @ephemeral
+- chóng tàn, không lâu, không bền
+ @ephemerality  
+*  dt
+- tính phù du; sự sớm chết, sự chóng tàn, sự sớm nở tối tàn
+
+@ephemerally
+- xem ephemeral
+ @ephemeralness
+- xem ephemeral
+ @ephemeridae
+* dt số nhiều
+- khoa phù du; họ phù du
+ @ephemerides  
+*  dt,  số nhiều ephemerides
+- lịch thiên văn
+- (động vật học) con phù du
+
+@ephemeris  
+*  dt,  số nhiều ephemerides
+- lịch thiên văn
+- (động vật học) con phù du
+
+@ephemeron  
+*  dt,  số nhiều ephemerons,  ephemera
+- (như) ephemera
+
+@ephemerous   (ephemerous) @ephidrosis
+* dt
+- (y học) chứng có quá nhiều mồ hôi
+ @ephilaltes
+* dt
+- bóng đè
+- việc nằm mơ thấy ma
+ @ephod  
+*  dt
+- bộ áo lễ (của thầy tế Do-thái)
+
+@ephor  
+*  dt
+- viên thanh tra, viên giám sát,  êfô (Hy-lạp)
+- (sử học) quan ngự sử,  êfô (Hy-lạp)
+
+@ephorate
+* dt
+- (lịch sử) chức pháp quan (từ cổ Hy lạp)
+ @epibiosis
+* dt
+- xem epibiotic
+ @epibiotic
+* tt
+- sống sót; sót lại; tàn dư
+ @epiblast  
+*  dt
+- (sinh vật học) lá mặt
+
+@epiblastic
+- xem epiblast
+ @epiblem
+* dt
+- lớp hút (rễ), vỏ rễ
+ @epibole
+* dt
+- (thực vật) sự phát triển phủ; sự mọc phủ
+ @epibolic
+- xem epiboly
+ @epiboly  
+*  dt
+- (sinh vật học) sự mọc phủ
+
+@epic  
+*  dt: (epopee) 
+@epical  
+*  dt: (epopee) 
+@epicalyx
+* dt
+- (thực vật) đài phụ; đài nhỏ; đài ngoài
+ @epicanthus
+* dt
+- nếp quạt (ở mắt)
+ @epicarp   (exocarp) @epicarpic
+* tt
+- thuộc vỏ quả ngoài
+ @epicarpium
+* dt
+- vỏ quả ngoài
+ @epicedia  
+*  dt,  số nhiều epicedia
+- bài thơ điếu tang
+
+@epicedium  
+*  dt,  số nhiều epicedia
+- bài thơ điếu tang
+
+@epicene  
+*  tt
+- (ngôn ngữ học) (thuộc) giống trung
+- ái nam ái nữ (người)
+- dùng cho cả đàn ông đàn bà
+*  dt
+- người ái nam ái nữ
+
+@epicenism
+- xem epicene
+ @epicenter
+- chấn tâm
+ @epicentra  
+*  dt,  số nhiều epicentra
+- (như) epicentre
+
+@epicentre   (epifocus) @epicentrum  
+*  dt,  số nhiều epicentra
+- (như) epicentre
+
+@epicerebral
+* tt
+- (giải phẫu) trên não
+ @epichilium
+* dt
+- (thực vật) cựa cánh tràng
+ @epichordal
+* tt
+- (giải phẫu) trên dây sống
+ @epichroic
+* tt
+- mất màu; bạc màu
+ @epiclinal
+* tt
+- trên đế hoa
+ @epicondyle
+* dt
+- (giải phẫu) lồi cầu trên
+ @epicontinental
+* tt
+- nằm trên lục địa hay trên thềm lục địa
+ @epicotyl
+* dt
+- (thực vật) trụ trên lá mầm
+ @epicranial  
+*  tt
+- (y học) trên sọ
+
+@epicranium  
+*  dt
+- (y học) màng trên sọ
+
+@epicrisis
+* dt
+- số nhiều epicrisises
+- cơn thứ phát
+ @epicure  
+*  dt
+- người sành ăn
+- (từ Mỹ,nghĩa Mỹ) hưởng lạc ((cũng) epicurean)
+
+@epicurean  
+*  tt
+- (thuộc) E-pi-cua
+- hưởng lạc ((từ Mỹ,nghĩa Mỹ) (cũng) epicure)
+*  dt
+- người theo thuyết E-pi-cua
+- người hưởng lạc
+
+@epicureanism  
+*  dt
+- thuyết E-pi-cua
+- chủ nghĩa hưởng lạc
+
+@epicurism  
+*  dt
+- tính sành ăn
+
+@epicuticle
+* dt
+- (động vật) tâm mô sừng ngoài
+ @epicycle  
+*  dt
+- (toán học) Epixic, ngoại luân
+
+@epicyclic  
+*  tt
+- (toán học) Epixic, ngoại luân
+
+@epicycloid  
+*  dt
+- (toán học) Epixicloit
+
+@epicycloidal  
+*  tt
+- (toán học) (thuộc) Epixicloit
+
+@epicyloid
+- epixicloit
+ @epideictic  
+*  tt
+- để phô bày, để trưng bày
+
+@epidemic  
+*  tt
+- dịch
+
++ an epidemic disease: bệnh dịch
+*  dt
+- bệnh dịch ((nghĩa đen) & (nghĩa bóng))
+
+@epidemical  
+*  tt
+- dịch, có tính chất bệnh dịch
+
+@epidemically
+- xem epidemic
+ @epidemicity  
+*  dt
+- tính chất dịch
+
+@epidemiologic
+- xem epidemiology
+ @epidemiologically
+- xem epidemiology
+ @epidemiologist
+- xem epidemiology
+ @epidemiology  
+*  dt
+- khoa nghiên cứu bệnh dịch, dịch tễ học
+
+@epidendrum  
+*  dt
+- (thực vật học) giống lan biểu sinh
+
+@epiderma
+* dt
+- (sinh học) biểu bì; vỏ ngoài; da
+ @epidermal   (epidermic) @epidermic   (epidermic) @epidermis  
+*  dt
+- (sinh vật học) biểu bì
+
+@epidermoid  
+*  tt
+- (sinh vật học) dạng biểu bì
+
+@epidermophyte
+* dt
+- nấm ngoài da
+ @epidiascope  
+*  dt
+- (vật lý) đèn chiếu phản truyền
+
+@epididymis
+* dt
+- số nhiều epididymides
+- (sinh học) mào tinh hoàn
+ @epidote
+* dt
+- (khoáng chất) epidot
+ @epidural
+* tt
+- <y> gây tê ngoài màng cứng
+* dt
+- sự gây tê ngoài màng cứng
+ @epifauna
+- (sinh học) hệ động vật mặt đáy
+ @epifaunal
+* tt
+- thuộc hệ động vật mặt đáy
+ @epifocal
+* tt
+- xem epicentre
+ @epifocus   (epifocus) @epigaster
+* dt
+- (giải phẫu) mầm ruột kết
+ @epigastric  
+*  tt
+- (giải phẫu) (thuộc) thượng vị
+
+@epigastrium  
+*  dt
+- (giải phẫu) thượng vị
+
+@epigastroid
+* dt
+- (giải phẫu) sụn trên mu
+ @epigeal
+- Cách viết khác : epigeous 
+ @epigean
+* tt
+- xem epigeal
+- trên đất trồng
+ @epigeic
+* tt
+- trên mặt đất
+ @epigene  
+*  tt
+- (địa lý,địa chất) biểu sinh
+
+@epigenesis  
+*  dt
+- (sinh vật học) thuyết biểu sinh, thuyết hậu thành
+
+@epigenetic  
+*  tt
+- (địa lý,địa chất) biểu sinh
+
+@epigenous
+* tt
+- phát triển ở bề mặt; mọc trên bề mặt
+ @epiglottal
+* tt
+- thuộc về nắp thanh quản
+ @epiglottic
+* tt
+- thuộc nắp thanh quản
+- mảnh trên hầu (côn trùng)
+ @epiglottis  
+*  dt
+- (giải phẫu) nắp thanh quản
+
+@epignathus
+* tt
+- có hàm trên dài hơn hàm dưới
+ @epigone
+* dt
+- người kế nghiệp, người bắt chước
+ @epigonism
+* dt
+- chủ trương bắt chước
+ @epigram  
+*  dt
+- thơ trào phúng
+- cách nói dí dỏm; lời nói dí dỏm
+
+@epigrammatic  
+*  tt
+- (thuộc) thơ trào phúng
+- dí dỏm, trào phúng
+
+@epigrammatically
+- xem epigrammatic
+ @epigrammatism
+* dt
+- thể thơ châm biếm; có tác dụng châm biếm
+ @epigrammatist  
+*  dt
+- nhà thơ trào phúng
+
+@epigrammatize  
+*  ndgt
+- làm thơ trào phúng
+- nói dí dỏm; viết dí dỏm
+*  ngdgt
+- viết thành thơ trào phúng
+
+@epigraph  
+*  dt
+- chữ khắc (lên đá, đồng tiền...)
+- đề từ
+
+@epigrapher
+- xem epigraphy
+ @epigraphic  
+*  tt
+- (thuộc) chữ khắc (lên đá, đồng tiền...)
+- (thuộc) đề từ
+
+@epigraphical
+- xem epigraph
+ @epigraphically
+- xem epigraph
+ @epigraphist  
+*  dt
+- nhà nghiên cứu văn khắc (lên đá, đồng tiền...)
+
+@epigraphy  
+*  dt
+- khoa nghiên cứu văn khắc (lên đá, đồng tiền...)
+
+@epigyne
+* dt
+- (thực vật) thể sinh dục cái ngoài
+ @epigynium
+* dt
+- xem epigyne
+ @epigyny
+* dt
+- (thực vật) tính đính trên bầu
+ @epilate
+* ngdgt
+- vặt lông
+ @epilation  
+*  dt
+- sự nhổ lông
+
+@epi-layer
+- (Tech) lớp kéo mặt ngoài 
++  epitaxial layer
+ @epilepsy  
+*  dt
+- (y học) động kinh
+
+@epileptic  
+*  tt
+- (thuộc) động kinh
+
+@epileptiform
+* tt
+- có dạng động kinh
+ @epileptogenic
+* tt
+- gây động kinh
+ @epilobium  
+*  dt
+- cây liễu thảo
+
+@epilogic
+* tt, cũng epilogical
+- thuộc phần kết luận
+ @epilogist  
+*  dt
+- người viết phần kết thúc, người viết lời bạt
+- người đọc phần kết, người đọc lời bạt
+
+@epilogue  
+*  dt
+- phần kết, lời bạt
+- (rađiô) lễ kết (sau một vài chương trình phát thanh của đài B.B.C)
+
+@epimer
+* dt
+- (hoá học) epime (một loại đồng tâm lập thể)
+ @epimere
+* dt
+- khúc cơ lưng
+ @epimeric
+* tt
+- thuộc epime
+ @epimerization
+* dt
+- sự epime hoá
+ @epimerize
+* ngdgt
+- epime hoá
+ @epimeron
+* dt
+- (động vật) tấm bên lưng sâu bọ
+ @epimorphic
+* tt
+- giữ nguyên dạng
+ @epimorphism
+- (phép) toàn cấu
+ @epimorphosis
+* dt
+- (sinh học) sự tái sinh nguyên dạng
+ @epimysium
+* dt
+- (sinh học) bao mô khí
+ @epinasty
+* dt
+- (thực vật) tính sinh trưởng cong
+ @epinephrine
+* dt
+- cũng epinephrin
+- (sinh học) epinefrin,  adrenalin
+ @epineurium
+* dt
+- (giải phẫu) vỏ dây thần kinh
+ @epineurral
+* tt
+- thuộc vỏ dây thần kinh
+ @epinytic
+* dt
+- (thực vật) nở ban đêm (hoa)
+ @epiotic
+* tt
+- trên tai; thuộc xương trên tai
+ @epiparasite
+* dt
+- vật ký sinh ngoài
+ @epiparasitic
+* tt
+- thuộc vật ký sinh ngoài
+ @epiparasitism
+* dt
+- hiện tượng ký sinh ngoài
+ @epipelagic
+* tt
+- thuộc tầng mặt biển khơi (sâu dưới 20 mét)
+ @epiperidium
+* dt
+- (thực vật) vỏ thể quả chén
+ @epipetalous
+* tt
+- (thực vật) trên tràng
+ @epiphany  
+*  dt
+- (tôn giáo) sự hiện ra (của Giê-xu)
+- sự hiện ra (của một siêu nhân)
+
+@epiphenomena  
+*  dt,  số nhiều epiphenomena
+- (y học); (triết học) hiện tượng phụ
+
+@epiphenomenal
+- xem epiphenomenon
+ @epiphenomenalism
+* dt
+- (triết học) thuyết hiện tượng phụ
+ @epiphenomenally
+- xem epiphenomenon
+ @epiphenomenon  
+*  dt,  số nhiều epiphenomena
+- (y học); (triết học) hiện tượng phụ
+
+@epiphitic
+* tt
+- thuộc thực vật biểu sinh
+ @epiphragm
+* dt
+- (sinh học) nắp màng
+ @epiphyll
+* dt
+- (thực vật) địa y sống trên lá
+ @epiphyllous  
+*  tt
+- (thực vật học) sống trên lá
+
+@epiphyllum  
+*  dt
+- (thực vật học) thực vật sống trên lá
+
+@epiphysial
+- xem epiphysis
+ @epiphysis  
+*  dt
+- (giải phẫu) mấu trên não
+
+@epiphyte  
+*  dt
+- (sinh vật học) thực vật biểu sinh
+
+@epiphytic  
+*  tt
+- (sinh vật học) biểu sinh
+
+@epiphytically
+- xem epiphyte
+ @epiphytotic
+* tt
+- thuộc bệnh dịch thực vật
+ @epiplankton
+* dt
+- (sinh học) sinh vật nổi tầng mặt
+ @epiplasm
+* dt
+- (sinh học) sinh chất thừa; chất tế bào thừa
+ @epiplastron
+* dt
+- (sinh học) tấm đòn
+ @epiploon
+* dt
+- số nhiều epiploa
+- mạc nối
+ @epipodite
+* dt
+- (động vật) nhánh bên (chân động vật chân khép)
+ @episcopacy  
+*  dt
+- chế độ giám mục quản lý nhà thờ
+!the episcopacy
+- các giám mục
+
+@episcopal  
+*  tt
+- (thuộc) giám mục
+- (thuộc) chế độ giám mục quản lý nhà thờ
+!the Episcopal Church
+- nhà thờ Tân giáo
+
+@episcopalian  
+*  dt
+- người tán thành chế độ giám mục quản lý nhà thờ
+- người theo nhà thờ Tân giáo
+
+@episcopally
+- xem episcopal
+ @episcopate  
+*  dt
+- chức giám mục; nhiệm kỳ giám mục
+!the episcopate
+- các giám mục
+
+@episcope  
+*  dt
+- (vật lý) đèn chiếu phản xạ
+
+@episeme
+* dt
+- màu báo hiệu
+- tín hiệu; dấu hiệu
+ @episepalous
+* tt
+- đính trên lá dài
+ @episiotomy
+* dt
+- <y> thuật rạch âm hộ
+ @episkeletal
+* tt
+- ngoài bộ xương
+ @episode  
+*  dt
+- phần giữa (hai bài đồng ca trong bi kịch Hy-lạp)
+- đoạn, hồi; tình tiết (trong truyện...)
+
+@episodic   (episodical) @episodical   (episodical) @episodically  
+*  dt
+- từng đoạn, từng hồi
+
+@episomal
+* tt
+- thuộc thể bổ sung
+ @episome
+* dt
+- (sinh học) thể bổ sung
+ @epispastic  
+*  tt
+- (y học) làm giộp da
+*  dt
+- (y học) thuốc giộp da
+
+@episperm
+* dt
+- vỏ (hạt); bao (tinh trùng)
+ @epispore
+* dt
+- vỏ vách bào tử; vỏ ngoài bào tử
+ @episporous
+* tt
+- thuộc vỏ vách bào tử; thuộc vỏ ngoài bào tử
+ @epistasis
+* dt
+- số nhiều epistases
+- (sinh học) tính át gen
+
++  dominant epistasis:tính lấn át gen trội
+
++  recessive epistasis:tính lấn át gen lặn
+ @epistasy
+* dt
+- xem epistasis
+ @epistatic
+* tt
+- (sinh học) lấn át gen
+ @epistaxis
+* dt
+- số nhiều epistaxes
+- sự chảy máu cam
+ @epistemic
+* tt
+- thuộc trí thức
+ @epistemologist
+* dt
+- (triết học) nhà nhận thức luận
+ @epistemology
+* dt
+- (triết học) nhận thức luận; sự nhận thức luận
+ @episternum
+* dt
+- xương gian đòn; xương cán ức
+ @epistle  
+*  dt
+- thư của sứ đồ (truyền đạo);(đùa cợt) thư (gửi cho nhau)
+- thư (một thể thơ)
+
+@epistler
+* dt
+- người viết thể thơ bằng thư
+ @epistolarian  
+*  tt
+- hay biết thư
+*  dt
+- người viết thơ thể thư (trong văn học)
+
+@epistolary  
+*  tt
+- (thuộc) thư từ; bằng thư từ; hợp với thư từ
+
+@epistoler  
+*  dt
+- (tôn giáo) người đọc thư sứ đồ
+
+@epistoma
+* dt
+- (động vật) tấm trên miệng sâu bọ
+ @epistrophe  
+*  dt
+- (ngôn ngữ học) hiện tượng lập từ cuối (cuối câu, cuối mệnh đề)
+
+@epistyle   (epistyle) @epitaph  
+*  dt
+- mộ chi
+- văn bia, văn mộ chí
+
+@epitaphic
+- xem epitaph
+ @epitasis
+* dt
+- số nhiều epitases
+- (sân khấu) đoạn kết của bi kịch
+ @epitaxial diode
+- (Tech) đèn hai cực kéo lớp mặt ngoài @epitaxial film
+- (Tech) màng kéo lớp mặt ngoài
+ @epitaxial growth
+- (Tech) sự tăng trưởng kéo lớp mặt ngoài
+ @epitaxial junction
+- (Tech) bộ tiếp giáp kéo lớp mặt ngoài
+ @epitaxial layer deposition
+- (Tech) sự lắng đọng lớp mặt ngoài epitaxi
+@epitaxial layer isolation
+- (Tech) sự cách ly bằng lớp kéo mặt ngoài
+ @epitaxial resistor
+- (Tech) cái điện trở kéo lớp mặt ngoài
+ @epitaxial SCR
+- (Tech) bộ chỉnh lưu được điều khiển bằng chất khuê kéo lớp mặt ngoài, thirixto êpitaxi
+ @epitaxial silicon
+- (Tech) chất khuê kéo lớp mặt ngoài
+ @epitaxial transistor
+- (Tech) đèn tinh thể kéo lớp mặt ngoài
+ @epitaxial varactor
+- (Tech) đèn hai cực biến dung kéo lớp mặt ngoài
+ @epitaxial wafer
+- (Tech) đĩa tinh thể kéo lớp mặt ngoài
+ @epitaxial-mesa transistor
+- (Tech) đèn tinh thể kiểu mặt bàn-kéo lớp mặt ngoài
+ @epitaxy
+* dt
+- sự mọc ghép
+ @epithalamia  
+*  dt,  số nhiều epithalamiums 
+@epithalamial   (epithalamic) @epithalamic   (epithalamic) @epithalamion
+* dt; số nhiều epithalamia
+- thơ mừng đám cưới; bài hát mừng đám cưới
+ @epithalamium  
+*  dt,  số nhiều epithalamiums 
+@epithelial  
+*  tt
+- (sinh vật học) (thuộc) biểu mô
+
+@epithelialize
+* ngdgt
+- phủ đầy biểu mô
+ @epithelioid
+* tt
+- dạng biểu mô
+ @epithelioma
+* dt
+- ung thư biểu mô
+ @epitheliomatous
+* tt
+- thuộc ung thư biểu mô
+ @epithelium  
+*  dt
+- (sinh vật học) biểu mô
+
+@epithelize
+* ngdgt
+- biến thành biểu mô
+ @epithem
+* dt
+- (sinh học) mô thông nước; mô tiết
+- (y học) thuốc dán
+ @epithet  
+*  dt
+- (ngôn ngữ học) tính ngữ
+- tên gọi có ý nghĩa (đặt cho người nào đó, ví dụ Ivan the terrible)
+
+@epithetic   (epithetical) @epithetical   (epithetical) @epitome  
+*  dt
+- bản tóm tắt, bản cô lại, bản toát yếu
+- hình ảnh thu nhỏ
+
++ the world's epitome: hình ảnh thu nhỏ của thế giới
+
+@epitomise   (epitomise) @epitomist  
+*  dt
+- người tóm tắt
+
+@epitomize   (epitomise) @epitomizer
+* dt
+- xem epitomist
+ @epitrochoid
+- êpitrocoit
+ @epitympanic
+* tt
+- (giải phẫu) trên màng nhĩ
+ @epizoa  
+*  dt,  số nhiều epizoa
+- (động vật học) động vật ký sinh ngoài
+
+@epizoan
+* tt
+- thuộc động vật ký sinh ngoài
+ @epizoic  
+*  tt
+- (động vật học) ký sinh ngoài
+
+@epizoicide
+* dt
+- thuốc diệt vật ký sinh ngoài
+ @epizoism
+- xem epizoic
+ @epizoon  
+*  dt,  số nhiều epizoa
+- (động vật học) động vật ký sinh ngoài
+
+@epizootic  
+*  tt
+- (thuộc) bệnh dịch động vật
+*  dt
+- (như) epizooty
+
+@epizootically
+- xem epizootic
+ @epizootiology
+* dt
+- khoa nghiên cứu dịch động vật
+ @epizootology
+* dt
+- xem epizootiology
+ @epizooty  
+*  dt
+- dịch động vật ((cũng) epizootic)
+
+@epns
+* (viết tắt)
+- kền mạ bạc (electroplated nickel silver)
+ @epoch  
+*  dt
+- sự bắt đầu của một kỷ nguyên (trong lịch sử, trong đời...)
+
++ to make an epoch: mở ra một kỷ nguyên
+
+@epoch
+- thời kỳ, giai đoạn
+ @epochal   (epochal) @epoch-making   (epochal) @epode  
+*  dt
+- thơ êpot (thơ trữ tình câu dài câu ngắn)
+
+@eponyme  
+*  dt
+- người được lấy tên (đặt cho một nơi, một tổ chức...)
+
+@eponymous  
+*  tt
+- (thuộc) người được lấy tên (đặt cho một nơi, một tổ chức...)
+
+@eponymy
+* dt
+- việc lấy tên người để đặt (cho đất đai, phát minh...)
+ @epopee  
+*  dt: (epopee) 
+@epos  
+*  dt
+- thiên anh hùng ca cổ (truyền hình)
+- thiên anh hùng ca, thiên sử thi
+
+@epoxide
+* dt
+- (hoá học) epoxit
+ @epoxy
+* tt
+- epoxi, cầu oxy (- o -), vòng oxy
+ @epoxy resin
+- (Tech) nhựa epoxi
+ @eprom
+- bộ nhớ ROM xoá và lập trình được
+ @EPROM (erasable programmable read-only memory)
+- (Tech) bộ nhớ chỉ đọc, thảo chương, và xóa được (éprôm)
+ @eps
+- tệp EPS (hình đồ họa phân giải cao)
+ @epsilon  
+*  dt
+- Epxilon (chữ cái Hy-lạp)
+
+@epsilon
+- (Tech) epsilon (épxilông)
+ @epsilon
+- epsilon (&#949;)
+ @epsom salts
+* dt
+- <y> thuốc tẩy manhê
+ @EPU
+- (Econ) Xem EUROPEAN PAYMENTS UNION.
+ @epulis
+* dt
+- (y học) u lợi
+ @epulosis
+* dt
+- (y học) sự làm sẹo
+ @epxonent
+- số mũ
+- e. of convergance (giải tích) số mũ hội tụ 
+- characteristice e. of field (đại số) bậc đặc trưng của trường 
+- fractional e. số mũ phân
+- horizontal e. of Abelian p-group loại ngang của p-nhóm Aben
+- imaginary e. số mũ ảo
+- real e. số mũ thực 
+ @epyllion
+* dt
+- bài sử thi ngắn
+ @

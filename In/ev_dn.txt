@@ -1,0 +1,4 @@
+@dna
+* (viết tắt)
+- cấu tử cơ bản của tế bào di truyền (acid deoxyribonucleic)
+ @

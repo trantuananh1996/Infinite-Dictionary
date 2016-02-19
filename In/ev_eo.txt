@@ -1,0 +1,47 @@
+@eocene  
+*  dt
+- (địa lý,địa chất) thế eoxen
+
+@eoclimax
+* dt
+- cao đỉnh của gió
+ @eof
+- Viết tắt của End Of File: Kết thúc tệp
+ @eol
+- Viết tắt của End Of Line: Hết dòng
+ @eolation
+* dt
+- sự phong hoá; sự hủy hoại do gió
+ @eolian
+* tt
+- do gió; do gió đưa tới
+ @eolith  
+*  dt
+- (khảo cổ học) đồ đá sớm
+
+@eolithic  
+*  tt
+- (khảo cổ học) (thuộc) thời kỳ đồ đá sớm
+
+@eon   (eon) @eonian
+* tt
+- vĩnh cữu; vô cùng
+ @eosin  
+*  dt
+- (hoá học) Eozin
+
+@eosinophil
+* tt
+- ưa eozin
+* dt
+- tế bào ưa eozin
+ @EOT (End of Transmission)
+- (Tech) chấm dứt truyền phát
+ @eozoic
+* dt
+- (địa chất) thời kỳ địa chất cổ xưa nhất; thế trước Cambri
+ @eozotic
+* tt
+- xem eozoic
+* tt
+ @

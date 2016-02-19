@@ -1,0 +1,11 @@
+@bc
+* (viết tắt)
+- Trước công lịch, trước công nguyên (Before Christ)
+
++  in (the year) 2000 BC:vào năm 2000 trước Công nguyên
+- Hội đồng Anh quốc (một tổ chức do chính phủ đỡ đầu làm nhiệm vụ thúc đẩy ngôn ngữ và văn hoá Anh ở các nước khác) (British Council)
+ @bcd
+- mã 2-10, mã BCD
+ @BCD (binary-coded decimal)
+- (Tech) số thập phân biên mã nhị phân
+ @

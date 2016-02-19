@@ -1,0 +1,6 @@
+@qb
+* dt
+- (luật pháp Anh)  <vt> của Queen's Bench một cấp của toà án tối cao Anh quốc
+ @qbbasic
+- Môi trường lập trình BASIC cải tiến
+ @

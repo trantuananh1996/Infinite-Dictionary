@@ -1,0 +1,10 @@
+@pk
+* dt
+- vt của Park (công viên; nhất là trên bản đồ)
+ @pkg
+* dt
+- vt của package (gói đồ, kiện hàng)
+ @pkt
+* dt
+- vt của packet (gói nhỏ)
+ @

@@ -1,0 +1,151 @@
+@ut
+* dt
+- nốt út, nốt đồ
+ @utensil  
+*  dt
+- đồ dùng, dụng cụ (chủ yếu là đồ dùng trong gia đình)
+
++ kitchen (cooking) utensils: đồ dùng nhà bếp, đồ dùng nấu ăn
+
+@uteri  
+*  dt,  số nhiều uteri
+- (gii phẫu) dạ con, tử cung
+
+@uterine  
+*  tt
+- (y học) (thuộc) dạ con, (thuộc) tử cung
+- (pháp lý) khác cha
+
++ uterine brothers: anh em khác cha
+
+@uterus  
+*  dt,  số nhiều uteri
+- (gii phẫu) dạ con, tử cung
+
+@utilisation
+* dt
+- sự dùng, sự sử dụng; sự tận dụng
+ @utilise   (utilise) @utilitarian  
+*  tt
+- vị lợi
+
++ utilitarian doctrine: chủ nghĩa vị lợi
+*  dt
+- người theo thuyết vị lợi; người vị lợi
+
+@utilitarianism  
+*  dt
+- thuyết vị lợi
+
+@Utilitarianism
+- (Econ) Chủ nghĩa vị lợi.
+: Thuật gữ chính trị và triết học miêu tả các thuyết của BENTHAM và các cộng sự của ông, những người lấy nguyên tắc hạnh phúc lớn nhất của số đông nhất làm tiêu trí đánh giá hành động.
+ @utility  
+*  dt
+- sự có ích; tính có ích
+- vật có ích, vật dùng được
+
++ utility clothes: quần áo để mặc dầu d i
+
++ utility furniture: đồ đạc loại thiết thực
+- thuyết vị lợi
+- (số nhiều) những ngành phục vụ công cộng ((cũng) public utilities)
+- (sân khấu) vai phụ ((cũng) utility-man)
+
+@Utility
+- (Econ) Độ thoả dụng.
+: Được hiểu rộng rãi trong kinh tế học như là đồng nghĩa với phúc lợi, PHÚC LỢI KINH TẾ ,sự thoả mãn và đôi khi là hạnh phúc.
+ @utility
+- ích lợi
+ @Utility function
+- (Econ) Hàm thoả dụng.
+: Một hàm cho rằng Độ thoả dụng của một cá nhân phụ thuộc vào hàng hoá và số lượng hàng hoá mà người đó tiêu.
+ @Utility maximization
+- (Econ) Tối đa hoá độ thoả dụng.
+ @utility-man  
+*  dt
+- (sân khấu) vai phụ ((cũng) utility)
+
+@utilizable  
+*  tt
+- dùng được
+
+@utilization  
+*  dt
+- sự dùng, sự sử dụng
+
+@utilization
+- sự sử dụng
+ @utilize   (utilise) @utilize
+- dùng
+ @utilizer
+- xem utilize
+ @utmost   (uttermost) @utopia  
+*  dt
+- điều không tưởng
+- chính thể không tưởng; x  hội không tưởng
+
+@utopian  
+*  tt
+- không tưởng
+
++ utopian socialism: chủ nghĩa x  hội không tưởng
+*  dt
+- người theo chủ nghĩa không tưởng; người không tưởng
+
+@utopianism  
+*  dt
+- chủ nghĩa không tưởng
+
+@utricle  
+*  dt
+- (sinh vật học) túi nhỏ (trong c thể)
+
+@utricular  
+*  tt
+- (sinh vật học) (thuộc) túi nhỏ
+
+@utter  
+*  tt
+- hoàn toàn
+
++ an utter darkness: sự tối hoàn toàn, sự tối như mực
+
++ an utter denial: lời từ chối dứt khoát; sự phủ nhận dứt khoát
+*  ngdgt
+- thốt ra, phát ra
+
++ to utter a sigh: thốt ra một tiếng thở dài
+- nói, nói ra, phát biểu, bày tỏ
+
++ to utter a lie: nói láo
+
++ not to utter a word: không nói nửa lời
+
++ to utter one's feelings: phát biểu cm tưởng
+- cho lưu hành, phát hành (bạc gi...)
+
+@utterable  
+*  tt
+- đọc được, phát âm được
+- có thể phát biểu được, có thể diễn t được
+
+@utterance  
+*  dt
+- sự phát biểu, sự bày tỏ
+- cách nói
+
++ clear utterance: cách nói rõ ràng
+- (số nhiều) lời; lời phát biểu
+
+@utterer
+- xem utter
+ @utterly  
+*  dt
+- hoàn toàn
+
+@uttermost   (uttermost) @utterness  
+*  dt
+- tính chất hoàn toàn
+
+@

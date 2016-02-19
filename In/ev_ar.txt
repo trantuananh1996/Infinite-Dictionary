@@ -1,0 +1,2628 @@
+@arab  
+*  dt
+- người A-rập
+- ngựa A-rập
+!street Arab
+- đứa bé lang thang không gia đình
+*  tt
+- (thuộc) A-rập
+
+@arabesque  
+*  tt
+- A-rập
+- kỳ lạ, kỳ dị
+*  dt
+- kiểu trang trí đường lượn
+- tư thế lượn (vũ ba-lê)
+
+@arabian  
+*  tt
+- (thuộc) A-rập
+!Arabian Nights' Entertainments; Arabian Nights
+- chuyện "một nghìn lẻ một đêm" 
+*  dt
+- người A-rập
+
+@arabic  
+*  tt
+- thuộc A-rập
+
++ arabic numerals: chữ số A-rập
+*  dt
+- tiếng A-rập
+
+@arabic numerals
+- chữ số A-rập như (0,1,2 ...)
+ @arability  
+*  dt
+- tính có thể trồng trọt được (đất)
+
+@arabinose
+* dt
+- arabinoza
+ @arabist  
+*  dt
+- người nghiên cứu tiếng A-rập; người nghiên cứu văn hoá A-rập
+
+@arabization
+* dt
+- sự Arập hoá
+ @arable  
+*  tt
+- trồng trọt được (đất)
+*  dt
+- đất trồng
+
+@araceous  
+*  tt
+- (thực vật học) (thuộc) họ rầy
+
+@arachnicide
+* dt
+- thuốc trừ nhện
+ @arachnid  
+*  dt
+- (động vật học) động vật thuộc lớp nhện
+
+@arachnidan
+- xem arachnid
+ @arachniform
+* tt
+- dạng mạng nhện
+ @arachnodactyl
+* dt
+- chân nhện
+ @arachnoid  
+*  dt
+- (giải phẫu) màng nhện (bọc não)
+*  tt
+- (thực vật học) phủ lông tơ (như ở mạng nhện)
+
+@arachnoideal
+* tt
+- thuộc màng nhện
+ @arachnopia
+* dt
+- màng não
+ @aragonite
+* dt
+- (khoáng) aragonit
+ @araliaceous  
+*  tt
+- (thực vật học) (thuộc) họ nhân sâm
+
+@aramaean
+* dt
+- người A-ra-mê (người cổ đại ở Xi-ri và thượng Lưỡng- Hà)
+ @aramaic  
+*  dt
+- tiếng Xy-ri
+
+@arapaho
+* dthư Arapahoe
+- dt,  số nhiều Arapahos,  Arapahoes
+- người A-ra-a-ho (da đỏ Bắc Mỹ)
+ @arara
+* dt
+- cá nục
+ @araucaria  
+*  dt
+- (thực vật học) cây bách tán
+
+@arbalest  
+*  dt
+- cái nỏ, cái ná
+
+@arbalester  
+*  dt
+- người bán nỏ, người bán ná
+
+@arbiter  
+*  dt
+- người phân xử; trọng tài
+- quan toà, thẩm phán
+- người nắm toàn quyền
+
+@arbitrable
+* tt
+- tùy ý
+- giao người khác quyết định
+ @arbitrage  
+*  dt
+- sự buôn chứng khoán
+
+@Arbitrage
+- (Econ) Kinh doanh dựa vào chênh lệch giá; buôn chứng khoán
+: Một nghiệp vụ bao gồm việc mua bán một tài sản, ví dụ một hàng hoá hay tiền tệ ở hai hay nhiều thị trường, giữa chúng có sự khác nhau hay chênh lệch về giá.
+ @Arbitrage
+- (Econ) Kinh doanh dựa vào chênh lệch tỷ giá.
+ @arbitral  
+*  tt
+- (thuộc) sự phân xử; (thuộc) trọng tài
+
+@arbitrament  
+*  dt
+- sự phân xử; sự quyết định của trọng tài
+- sự quyết đoán
+
+@arbitrarily  
+*  dt
+- chuyên quyền, độc đoán
+- tuỳ ý, tự ý
+
+@arbitrarily
+- một cách tuỳ ý
+ @arbitrariness  
+*  dt
+- tính chuyên quyền, tính độc đoán
+- sự tuỳ ý, sự tự ý
+
+@arbitrary  
+*  tt
+- chuyên quyền, độc đoán
+- tuỳ ý, tự ý
+- không bị bó buộc
+- hay thay đổi, thất thường, được tuỳ ý quyết định
+- (pháp lý) có toàn quyền quyết định, được tuỳ ý quyết định
+- (toán học) tuỳ ý
+
++ arbitrary function: hàm tuỳ ý
+
+@arbitrary
+- (Tech) nhiệm ý, tùy ý
+ @arbitrary
+- tuỳ ý
+ @arbitrary distribution
+- (Tech) phân bố nhiệm ý
+ @arbitrary sequence
+- (Tech) trình tự @arbitrary statement
+- (Tech) câu lệnh nhiệm ý
+ @arbitrary unit
+- (Tech) đơn vị nhiệm ý
+ @arbitrate  
+*  dgt
+- phân xử, làm trọng tài phân xử
+
++ to arbitrate a quarrel: phân xử một vụ cãi nhau
+
+@arbitration  
+*  dt
+- sự phân xử, sự làm trọng tài phân xử
+!arbitration of exchange
+- sự quyết định giá hối đoái
+
+@Arbitration
+- (Econ) Trọng tài
+: Sự can thiệp của một bên thứ ba vào một TRANH CHẤP VỀ CÔNG NGHIỆP theo yêu cầu của các bên tranh cãi và đưa ra những gợi ý cho việc giải quyết tranh chấp, sau đó sẽ rằng buộc cả hai bên (Xem CONCILI-ATION, FINAL OFFER ARBITRATION).
+ @arbitrator  
+*  dt
+- (pháp lý) người phân xử, trọng tài
+- quan toà, thẩm phán
+
+@arbitress  
+*  dt
+- người đàn bà đứng ra phân xử; bà trọng tài
+- bà quan toà, bà thẩm phán
+- người đàn bà nắm toàn quyền
+
+@arbor  
+*  dt
+- cây
+*  dt
+- (kỹ thuật) trục chính
+*  dt
+- (y học) (từ Mỹ,nghĩa Mỹ) (như) arbour
+
+@arbor day  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  Uc ngày hội trồng cây mùa xuân
+
+@arboraceous  
+*  tt
+- hình cây
+- có nhiều cây cối
+
+@arboreal  
+*  tt
+- (thuộc) cây
+- (động vật học) ở trên cây, sống trên cây
+
+@arboreally
+- xem arboreal
+ @arboreous  
+*  tt
+- có nhiều cây
+- (động vật học) ở trên cây, sống trên cây
+- có hình cây; có tính chất giống cây
+
+@arborescence  
+*  dt
+- tính chất cây gỗ
+
+@arborescent  
+*  tt
+- có hình cây; có dạng cây gỗ
+
+@arboreta  
+*  dt,  số nhiều arboretums,  arboreta
+- vườn cây gỗ (để nghiên cứu)
+
+@arboretum  
+*  dt,  số nhiều arboretums,  arboreta
+- vườn cây gỗ (để nghiên cứu)
+
+@arboricide
+* dt
+- thuốc diệt cây gỗ
+ @arboricolous
+* tt
+- sống ở cây gỗ
+ @arboricultural  
+*  tt
+- (thuộc) nghề trồng cây
+
+@arboriculture  
+*  dt
+- nghề trồng cây
+
+@arboriculturist  
+*  dt
+- người làm nghề trồng cây
+
+@arborist
+* dt
+- chuyên gia trồng cây
+ @arborization  
+*  dt
+- (khoáng chất) hình dạng giống cây (tinh thể, đá...)
+- sự phân nhánh như cành cây (mạch máu, dây thần kinh...)
+
+@arborvitae
+* dt
+- (thực vật) cây trắc bá
+- (giãi phẫu học) sinh thụ (tiểu não)
+ @arbour  
+*  dt
+- lùm cây
+- chỗ ngồi mát dưới lùm cây, chỗ ngồi mát dưới giàn dây leo
+
+@arbovirus
+* dt
+- (sinh học) virut hại cây gỗ
+ @arbuscle
+- Cách viết khác : arbuscule 
+ @arbuscular
+* tt
+- thuộc cây bụi
+ @arbusculiform
+* tt
+- dạng cây bụi
+ @arbutus  
+*  dt
+- (thực vật học) cây dương mai
+
+@arc  
+*  dt
+- hình cung
+- (toán học) cung
+- cầu võng
+- (điện học) cung lửa; hồ quang
+
++ voltaic arc; electric arc: cung lửa điện
+
+@arc
+- (Tech) hồ quang, hồ điện, cung lửa; cung
+ @arc arrester
+- (Tech) cái phóng điện hồ quang
+ @arc baffle
+- (Tech) ván trợ hồ quang
+ @arc converter
+- (Tech) bộ đổi hồ quang
+ @arc discharge
+- (Tech) lamp đèn phóng hồ quang
+ @arc discharger
+- (Tech) bộ phóng điện hồ quang
+ @Arc elasticity of demand
+- (Econ) Độ co giãn hình cung của cầu
+: Xem ELASTICITY OF DEMAND
+ @arc furnace
+- (Tech) lò hồ quang
+ @arc resistance
+- (Tech) điện trở hồ quang
+ @arc transmitter
+- (Tech) máy phát hồ quang điện (cung lửa)
+ @arc welding
+- (Tech) hàn hồ quang
+ @arcade  
+*  dt
+- đường có mái vòm
+- (kiến trúc) dãy cuốn
+
+@arcade game
+- (Tech) trò chơi kiểu nhà điện tử 
++  arcade-type game
+ @arcadia   (Arcady) @arcadian  
+*  tt
+- (thuộc) vùng A-ca-đi-a (ở Hy lạp)
+- (thơ ca) (thuộc) nơi đồng quê thanh bình hạnh phúc
+*  dt
+- người dân vùng A-ca-đi-a (ở Hy lạp)
+- (thơ ca) người ở nơi đồng quê thanh bình hạnh phúc
+
+@arcading
+* dt
+- (kiến trúc) dãy nhịp cuốn
+ @arcady   (Arcady) @arcana  
+*  dt,  số nhiều arcana
+- bí mật; bí mật nhà nghề, bí quyết
+
+@arcanum  
+*  dt,  số nhiều arcana
+- bí mật; bí mật nhà nghề, bí quyết
+
+@arcback
+- (Tech) sự đánh lửa ngược, phản hồ quang (trong bộ nắn điện thủy ngân)
+ @arcduchess  
+*  dt,  (sử học)
+- công chúa nước Ao
+- vợ hoàng tử nước Ao
+
+@arch  
+*  dt
+- khung tò vò, cửa tò vò
+- hình cung
+- vòm; nhịp cuốn (cầu...)
+*  ngdgt
+- xây khung vòm ở trên (cửa...); xây cuốn vòng cung
+- uốn cong
+*  ndgt
+- cong lại, uốn vòng cung
+*  tt
+- tinh nghịch, tinh quái, hóm, láu
+
++ an arch smile: nụ cười hóm hỉnh, nụ cười láu lỉnh
+
+@ARCH
+- (Econ) Kiểm nghiệm ARCH.
+: Để chỉ phương sai của sai số thay đổi điều kiện tự nhiên giảm, là một trắc nghiệm để phân biệt giữa tương quan chuỗi trong điều kiện xáo trộn và hiệu ứng nảy sinh từ sự biến đổi của xáo động được gọi là hiệu ứng ARCH.
+ @arch
+- vòm; nhịp cuốn ở cầu
+- circularr a. nhịp tròn
+- hingeless a. nhịp không tiết hợp
+- hydrostatic a. nhịp thuỷ tĩnh
+- parabolic a. nhịp parabolic 
+ @ARCH effect
+- (Econ) Hiệu ứng ARCH.
+:  Xem ARCH.
+ @archaean  
+*  tt
+- (thuộc) thời thái cổ
+
+@archaeologer   (archaeologer) @archaeological  
+*  tt
+- (thuộc) khảo cổ học
+
+@archaeologist   (archaeologer) @archaeology  
+*  dt
+- khảo cổ học
+
+@archaeophyte
+* dt
+- thực vật cổ
+ @archaeopteryx  
+*  dt
+- (động vật học) chim thuỷ tổ
+
+@archaeozoic
+* tt,  n
+- thời tối cổ
+ @archaic  
+*  tt
+- cổ xưa
+
+@archaically
+- xem archaic
+ @archaise   (archaise) @archaism  
+*  dt
+- từ cổ
+- sự bắt chước cổ; sự giữ lại cái cổ (thường trong ngôn ngữ, nghệ thuật)
+
+@archaist
+- xem archaism
+ @archaistic
+- xem archaism
+ @archaize   (archaise) @archaizer
+- xem archaize
+ @archangel  
+*  dt
+- (tôn giáo) tổng thiên thần
+- (thực vật học) cây bạch chỉ tía
+- (động vật học) bồ câu thiên sứ
+
+@archangelic  
+*  tt
+- (tôn giáo) (thuộc) tổng thiên thần
+
+@archbishop  
+*  dt
+- tổng giám mục
+
+@archbishopric  
+*  dt
+- chức tổng giám mục
+- địa hạt dưới quyền tổng giám mục
+
+@archdeacon  
+*  dt
+- phó chủ giáo
+
+@archdeaconate
+- xem archdeacon
+ @archdeaconry  
+*  dt
+- chức phó chủ giáo
+- chỗ ở của phó chủ giáo
+- quyền của phó chủ giáo; địa hạt dưới quyền phó chủ giáo
+
+@archdeaconship  
+*  dt
+- chức phó chủ giáo
+
+@archdiocesan
+* tt
+- xem archdiocese
+* tt
+ @archdiocese  
+*  dt
+- địa hạt dưới quyền tổng giám mục
+
+@archduchess
+* dt, <sử>
+- công chúa nước Ao
+- vợ hoàng tử nước Aoo
+ @archduchy  
+*  dt
+- (sử học) địa vị hoàng tử nước Ao; địa vị công chúa nước Ao
+- lãnh thổ của con vua nước Ao
+
+@archduke  
+*  dt
+- (sử học) hoàng tử nước Ao
+
+@archebiosis
+* dt
+- nguồn gốc sự sống
+ @arched  
+*  tt
+- cong, uốn vòng cung, hình vòm
+- có khung vòm, có khung tò vò, có nhịp cuốn
+
++ arched bridge: cầu có nhịp cuốn
+
+@archegenesis
+* dt
+- nguồn gốc sự sống
+ @archegone
+* dt
+- túi chứa noãn
+ @archegonium
+* dt
+- số nhiều archegonia
+- túi chứa noãn
+ @arch-enemy  
+*  dt
+- kẻ thù không đội trời chung
+- quỷ xa tăng
+
+@archenemy
+* dt
+- kẻ thù không đội trời chung
+- quỷ xa tăng
+ @archenteron
+* dt
+- (sinh học) ruột nguyên thủy
+ @archeozoic  
+*  tt
+- (địa lý,địa chất) (thuộc) đại thái cổ
+
+@archer  
+*  dt
+- người bắn cung
+- (thiên văn học) cung nhân mã (ở hoàng đạo)
+- (thiên văn học) chòm sao nhân mã
+
+@archerfish  
+*  dt
+- (động vật học) cá tôxôt
+
+@archery  
+*  dt
+- sự bắn cung; thuật bắn cung
+- cung tên (của người bắn cung)
+- những người bắn cung (nói chung)
+
+@archespore   (archesporium) @archesporium   (archesporium) @archetypal
+* tt
+- (thuộc) nguyên mẫu, (thuộc) nguyên hình
+ @archetype  
+*  dt
+- nguyên mẫu, nguyên hình
+
+@archetypically
+- xem archetype
+ @arch-fiend  
+*  dt
+- quỷ xa tăng
+
+@archgonate
+* tt
+- có túi chứa noãn
+ @archiamphiaster
+* dt
+- thể sao kép nguyên thủy
+ @archibald   (archibald) @archiblast
+* dt
+- chất trứng
+ @archiblastic
+* tt
+- chia cắt rất đều
+ @archicarp
+* dt
+- (sinh học) cuống túi noãn; quả noãn
+ @archicoel
+* dt
+- khoang nguyên thủy
+ @archidiaconal  
+*  tt
+- (thuộc) phó chủ giáo
+
+@archie   (archibald) @archiepiscopal  
+*  tt
+- (thuộc) tổng giám mục
+
+@archiepiscopality
+- xem archiepiscopal
+ @archiepiscopally
+- xem archiepiscopal
+ @archiepiscopate
+- xem archiepiscopal
+ @archil  
+*  dt
+- (thực vật học) rau ocxen (loài địa y cho thuốc nhuộm tím)
+- thuốc nhuộm ocxen
+
+@archimandrite  
+*  dt
+- trưởng tu viện (ở nhà thờ Hy lạp)
+
+@archimedean  
+*  tt
+- (thuộc) Ac-si-mét
+!Archimedean screw
+- vít Ac-si-mét ((cũng) Archimedes' screw)
+
+@Archimedes
+- Acsimet
+ @archinephric
+* tt
+- thuộc thận nguyên thủy
+ @archinephridium
+* dt
+- tế bào bài tiết
+ @archinephron
+- Cách viết khác : archinephros 
+ @arching horn
+- (Tech) ống loa phòng đánh lửa
+ @archipelagic
+- xem archipelago
+ @archipelago  
+*  dt,  số nhiều archipelagos,  archipelagoes
+- quần đảo
+- biển có nhiều đảo
+
+@architect  
+*  dt
+- kiến trúc sư
+- (nghĩa bóng) người làm ra, người xây dựng, người sáng tạo
+
++ to be the architect of one's own fortumes: tự mình xây dựng cơ đồ; tự mình tạo ra cái số phận của mình
+
+@architectonic  
+*  tt
+- (thuộc) thuật kiến trúc; (thuộc) các nhà kiến trúc
+- có tính chất xây dựng; thuộc cấu trúc
+- (thuộc) sự hệ thống hoá kiến trúc
+
+@architectonically
+- xem architectonic
+ @architectonics  
+*  dt,  số nhiều dùng (như) số ít
+- thuật kiến trúc, khoa kiến trúc
+- cấu trúc
+- sự hệ thống hoá kiến trúc
+
+@architectural  
+*  tt
+- (thuộc) kiến trúc
+
++ architectural engineering: kỹ thuật kiến trúc, kỹ thuật xây dựng
+
+@architectural acoustics
+- (Tech) âm thanh học kiến trúc
+ @architectural design
+- (Tech) thiết kế kiến trúc
+ @architecturally
+* dt
+- về mặt kiến trúc
+ @architecture  
+*  dt
+- thuật kiến trúc, khoa kiến trúc, khoa xây dựng
+- công trình kiến trúc, công trình xây dựng; cấu trúc
+- kiểu kiến trúc
+- sự xây dựng
+
+@architecture
+- (Tech) kiến trúc; cấu trúc
+ @architrave   (epistyle) @architype
+* dt
+- kiểu nguyên thủy
+ @archival backup
+- sao lại để niêm cất
+ @archive
+- (Tech) tài liệu, tài liệu lưu trữ; lưu trữ (đ)
+ @archive attribute
+- (Tech) thuộc tính lưu trữ
+ @archived file
+- (Tech) tập tin lưu trữ
+ @archives  
+*  dt số nhiều
+- văn thư lưu trữ
+- cơ quan lưu trữ
+
+@archives
+- (Tech) tài liệu lưu trữ;, kho lưu trữ
+ @archivist  
+*  dt
+- chuyên viên lưu trữ
+
+@archivolt
+* dt
+- hình trang trí đắp nổi quanh vòm cuốn, dưới vòm cuốn
+ @archly  
+*  dt
+- tinh nghịch, tinh quái; hóm hỉnh, láu
+
+@archness
+- xem arch
+ @archon
+* dt
+- (sử học) quan chấp chính (cổ Hy-Lạp)
+ @archoplasm
+* dt
+- chất phân bào
+ @arch-priest
+* dt
+- vị tăng lữ cao nhất
+ @archway  
+*  dt
+- cổng tò vò
+- lối đi có mái vòm
+
+@archwise  
+*  dt
+- như hình vòng cung, theo hình vòng cung
+
+@arcicentrous
+* tt
+- có cột sống cong
+ @arciform
+* tt
+- dạng cung
+ @arcing
+- (Tech) đánh lửa
+ @arcing lamp
+- (Tech) đèn đánh lửa
+ @arc-lamp  
+*  dt
+- (điện học) đèn cung lửa, đèn hồ quang
+
+@arcnet
+- Tên mạng ARCnet
+ @arcrobatic  
+*  tt
+- (thuộc) thuật leo dây, (thuộc) thuật nhào lộn
+
+@arctic  
+*  tt
+- (thuộc) bắc cực; (thuộc) phương bắc
+- giá rét, băng giá
+
++ arctic weather: thời tiết giá rét
+*  dt
+- the Artic bắc cực
+- (số nhiều) (từ Mỹ,nghĩa Mỹ) ủng bao (ủng cao su bọc ngoài một đôi giày khác)
+
+@arctic circle
+* dt
+- vự tuyến 66 độ 30 Bắc, vòng Bắc cực
+ @arcticize  
+*  ngdgt
+- làm cho phù hợp với điều kiện ở bắc cực, bắc cực hoá
+
++ arcticized vehicle: xe ôtô đã được làm cho phù hợp với điều kiện ở bắc cực, xe ôtô đã bắc cực hoá
+
+@arcuate   (arcuated) @arcuated   (arcuated) @arcuately
+- xem arcuate
+ @arculus
+* dt
+- cung; cung gân cánh (côn trùng)
+ @arc-welding
+* dt
+- sự hàn bằng một cung lửa điện
+ @ardency  
+*  dt
+- sự nóng cháy
+- sự hăng hái, sự sôi nổi, sự mãnh liệt, sự nồng nhiệt, sự nồng cháy
+
+@ardent  
+*  tt
+- cháy, nóng rực
+
++ ardent heat: nóng cháy, nóng rực
+- hăng hái, sôi nổi, mãnh liệt, nồng nhiệt, nồng nàn, nồng cháy
+
++ an ardent love for the country: lòng yêu nước mãnh liệt
+!ardent spirits
+- rượu mạnh
+
+@ardently  
+*  dt
+- hăng hái, sôi nổi, mãnh liệt, nồng nhiệt, nồng nàn, nồng cháy
+
+@ardor
+* dt
+- lửa nóng, sức nóng rực
+- <bóng> nhiệt tình, nhiệt tâm, nhuệ khí; sự hăng hái, sự sôi nổi
+ @ardour  
+*  dt
+- lửa nóng, sức nóng rực
+- (nghĩa bóng) nhiệt tình, nhiệt tâm, nhuệ khí; sự hăng hái, sự sôi nổi
+
++ to damp someone's ardour: làm nhụt nhuệ khí của ai
+
+@arduous  
+*  tt
+- khó khăn, gian khổ, gay go
+
++ an arduous task: một công việc khó khăn gian khổ
+- hết sức mình, miệt mài, gắng gỏi
+
++ arduous effort: sự cố gắng hết sức mình
+- dốc khó trèo
+
++ an arduous path: con đường dốc
+
+@arduously  
+*  dt
+- khó khăn, gian khổ, gay go
+
+@arduousness  
+*  dt
+- sự khó khăn, sự gian khổ, sự gay go
+
+@are  
+*  dt
+- A (đơn vị diện tích ruộng đất, bằng 100m2)
+*  ngôi 3 số nhiều thời hiện tại của be
+
+@are
+- cung
+- a. of cyloid cung xicloit
+- analytic a. cung giải tích
+- circular a. cung tròn
+- diurnal a. (thiên văn) nhật cung
+- forward a. cung thuận
+- free a. (giải tích) cung tự do
+- major a. cung lớn
+- minor a. cung nhỏ
+- pseudo-periodic a. cung giả tuần hoàn
+- regular a. cung chính quy
+- short a. of cirele cung ngắn (của đường tròn) 
+- simple a. cung đơn 
+ @are gap
+- (Tech) khe hồ quang
+ @are generator
+- (Tech) bộ dao động loại tia lửa
+ @area  
+*  dt
+- diện tích, bề mặt
+
++ area under crop: diện tích trồng trọt
+
++ area of bearing: (kỹ thuật) mặt tì, mặt đỡ
+- vùng, khu vực
+
++ residenial area: khu vực nhà ở
+- khoảng đất trống
+- sân trước nhà ở (có hàng rào cách vỉa hè đường)
+- phạm vi, tầm
+
++ wide area of knowledge: tầm hiểu biết rộng
+- rađiô vùng
+
+@area
+- (Tech) khu vực, bãi, chỗ; phạm vi; diện tích; mặt, diện
+ @area
+- diện tích
+- effective a. diện tích hữu hiệu 
+- intrinsic a.(hình học) diện tích trong
+- lateral a. diện tích xung quanh
+- phase a. diện tích pha
+- sectional a. diện tích của thiết diện ngang
+- sector a. diện tích quạt, diện tích sectơ
+- surface a. diện tích mặt
+- tail a. đuôi phân phối, xác suất các độ lệch lớn 
+ @area chart
+- (Tech) biểu đồ khu vực
+ @area code
+* dt
+- mã số vùng điện thoại
+ @area graph
+- (Tech) đồ thị khu vực @area search
+- (Tech) tìm khu vực (d)
+ @areal
+* tt
+- thuộc vùng; thuộc khu phân bố; thuộc về mặt hoặc diện tích
+ @areal
+- (thuộc) diện tích
+ @arealization
+* dt
+- sự phân vùng, sự tạo vùng
+ @area-preserving
+- bảo toàn diện tích
+ @areca  
+*  dt
+- (thực vật học) cây cau
+- quả cau ((cũng) areca nut)
+
+@areca nut
+* dt
+- quả cau
+ @areflexia
+* dt
+- chứng mất phản xạ
+ @aregeneration
+* dt
+- sự không tái sinh
+ @aregenerative
+* tt
+- không tái sinh
+ @arena  
+*  dt
+- trường đấu (ở La mã)
+- trường đấu tranh, vũ đài, phạm vi hoạt động
+
++ in the international arena: trên vũ đài quốc tế
+
+@arenaceous  
+*  tt
+- giống cát, có cát
+
+@arenicolous  
+*  tt
+- (động vật học) sống trong cát; đào hang trong cát
+
+@arenit
+* dt
+- (khoáng chất) Arênit; đá cát
+ @aren't  
+*  (viết tắt) của are not
+
+@areocentric
+* tt
+- lấy sao Hoả làm trung tâm
+ @areola  
+*  dt,  số nhiều areolae 
+@areolae  
+*  dt,  số nhiều areolae 
+@areolar
+- xem areola
+ @areolar
+- (thuộc) diện tích
+ @areolate
+- xem areola
+ @areolation
+- xem areola
+ @areolet
+* dt
+- quầng nhỏ
+ @areometer  
+*  dt
+- cái đo độ đậm, phao đo tỷ trọng
+
+@areopagus
+* dt
+- toà án cao nhất thành A-ten (cổ Hy-lạp)
+ @argala  
+*  dt
+- (động vật học) cò già (Ân độ)
+
+@argali
+* dt
+- số nhiều argalis
+- tập hợp argali, cừu aga
+ @argent  
+*  dt
+- màu bạc
+*  tt
+- bằng bạc
+- trắng như bạc
+
+@argentaffin
+* tt
+- ưa muối bạc
+ @argenteous
+* tt
+- như bạc
+ @argenteum
+* dt
+- lớp bạc cá
+ @argentic
+* tt
+- có chứa bạc
+ @argentiferous  
+*  tt
+- có bạc
+
+@argentine  
+*  tt
+- (thuộc) bạc; bằng bạc
+*  dt
+- chất giống bạc, kim loại mạ bạc
+- (động vật học) cá quế bạc
+- (khoáng chất) đá bạc
+
+@argentophil
+* tt
+- ưa bạc; nhuộm bạc
+ @argil  
+*  dt
+- đất sét, sét (làm đồ gốm)
+
+@argillaceous  
+*  tt
+- (thuộc) đất sét; có sét
+
+@argilliferous  
+*  tt
+- có sét
+
+@argillite
+* dt
+- (khoáng chất) Acgilit
+ @arginas
+* dt
+- (khoáng chất) Acginaza
+ @arginine
+* dt
+- (khoáng chất) Acginin
+ @argle-bargle  
+*  dt
+-(đùa cợt) sự tranh luận; sự bàn cãi
+
+@argol  
+*  dt
+- cáu rượu
+
+@argon  
+*  dt
+- (hoá học) Agon
+
+@argon
+- (Tech) agon (Ar) [hóa]
+ @argon laser
+- (Tech) bộ kích quang agon
+ @argon rectifier
+- (Tech) bộ chỉnh lưu agon (Ar)
+ @argonaut  
+*  dt
+- (thần thoại,thần học) A-gô-nốt (người anh hùng trong truyền thuyết đi tìm bộ lông tơ vàng)
+- argonaut (từ Mỹ,nghĩa Mỹ) người đi tìm vàng (năm 1849 ở vùng ca-li-pho-ni)
+- argonaut (động vật học) con tuộc, con mực phủ
+
+@argosy  
+*  dt
+- (sử học), thơ tàu buôn lớn, đoàn tàu buôn lớn
+- (thơ ca) con tàu
+
+@argot  
+*  dt
+- tiếng lóng; tiếng lóng của bọn ăn cắp
+
+@arguable
+* tt
+- đáng ngờ, đáng tranh cãi
+ @arguably
+* dt
+- người ta có thể cho rằng
+ @argue  
+*  ngdgt
+- chứng tỏ, chỉ rõ
+
++ it argues him [to be] an honest man: điều đó chứng tỏ anh ta là một người lương thiện
+
++ it argues honesty in him: điều đó chứng tỏ anh ta lương thiện
+- tranh cãi, tranh luận
+
++ to argue a matter: tranh luận một vấn đề
+- cãi lẽ, lấy lý lẽ để bảo vệ; tìm lý lẽ để chứng minh
+
++ to argue that something is possible: lấy lý lẽ để bảo vệ ý kiến rằng một việc gì đó có thể làm được (có thể xảy ra được)
+
++ to argue something away: lấy lý lẽ để bác bỏ cái gì
+- thuyết phục
+
++ to argue something out of his opinion: thuyết phục ai bỏ ý kiến
+
++ to argue someone into believing something: thuyết phục ai tin ở cái gì
+- rút ra kết luận
+
++ what do you argue from it?: anh rút ra được từ điều đó kết luận gì?
+*  ndgt
+- dùng lý lẽ (để biện hộ, để chống lại...)
+
++ to argue for something: dùng lý lẽ để biện hộ cho cái gì
+- cãi lý, cãi lẽ
+
++ to be always arguing: hay cãi lý, cãi lẽ
+
++ to argue with somebody: cãi lý với ai
+
+@argue
+- thảo luận, bàn luận, lý luận; phán đoán
+- a. from the sample dựa vào mẫu để phán đoán
+- a. in a cirele rơi vào vòng luẩn quẩn 
+- a. in favour of ... lý luận nghiêng về ... 
+ @arguer
+- xem argue
+ @argufier
+* dt
+- người tranh cãi quá mức
+ @argufy
+* dgt
+- tranh cãi quá mức
+ @argument  
+*  dt
+- lý lẽ
+
++ argument for: lý lẽ ủng hộ (cái gì)
+
++ argument against: lý lẽ chống lại (cái gì)
+
++ strong argument: lý lẽ đanh thép
+
++ weak argument: lý lẽ không vững
+- sự tranh cãi, sự tranh luận
+
++ a matter of argument: một vấn đề tranh luận
+- tóm tắt (một vấn đề trình bày trong một cuốn sách)
+- (toán học) Argumen
+
++ argument of vector: agumen của một vectơ
+
+@argument
+- (Tech) đối số, tham số; tự biến số, tự biến lượng; lý luận; chứng minh
+ @argument
+- agumen, đối số; góc cực; lý luận, chứng minh
+- a. of a complex nhumber agumen của số phức
+- sound a. lý luận có cơ sở 
+ @argument field
+- (Tech) khoản dành cho tham số
+ @argument list
+- (Tech) bản liệt kê tham số
+ @argument separator
+- (Tech) dấu tách tham số
+ @argumentation  
+*  dt
+- luận chứng
+- sự tranh cãi, sự tranh luận
+
+@argumentative  
+*  tt
+- thích tranh cãi, hay cãi lẽ
+- để tranh cãi, để tranh luận
+- có lý, có luận chứng,  lôgíc
+
+@argumentatively
+* dt
+- lý sự, lẽ sự
+ @argumentativeness
+- xem argumentative
+ @argumentum
+* dt
+- số nhiều argumenta
+- cách lập luận, cách luận chứng
+ @argus  
+*  dt
+- (thần thoại,thần học) A-guýt (người trăm mắt)
+- người canh gác luôn luôn cảnh giác
+
+@argus-eyed  
+*  tt
+- rất cảnh giác
+- rất tinh (mắt)
+
+@argute  
+*  tt
+- tinh khôn, sắc sảo
+- the thé (tiếng)
+
+@argy-bargy
+* dgt
+- cãi nhau ầm ự, nhưng thường không nghiêm trọng
+ @argyranthous  
+*  tt
+- (thực vật học) có hoa màu bạc
+
+@argyrophyllous  
+*  tt
+- (thực vật học) có lá màu bạc
+
+@arhat
+* dt
+- (Phật giáo) La-hán (bậc tu hành đắc đạo)
+ @aria  
+*  dt
+- (âm nhạc) Aria
+
+@arid  
+*  tt
+- khô cằn (đất)
+- (nghĩa bóng) khô khan, vô vị
+
+@aridity   (aridness) @aridly
+* dt
+- khô khan, vô vị
+ @aridness   (aridness) @aries  
+*  dt
+- (thiên văn học) cung Bạch dương (trên hoàng đạo)
+- chòm sao Bạch dương
+
+@arietta
+* dt
+- (âm nhạc) Ariet
+ @aright  
+*  dt
+- đúng
+
+@aril  
+*  dt
+- (thực vật học) áo hạt
+
+@ariled
+* tt
+- có áo hạt
+ @arioso  
+*  dt
+- (âm nhạc) Ariôzô
+
+@arise  
+*  ndgt arose,  arisen
+- xuất hiện, nảy sinh ra, xảy ra
+
++ more difficulties arose: nhiều khó khăn nảy sinh ra
+
++ there arose many heroes: nhiều anh hùng xuất hiện
+- phát sinh do; do bởi
+
++ difficulties arising from the war: những phát sinh khó khăn do chiến tranh
+- (thơ ca) sống lại, hồi sinh
+- (từ cổ,nghĩa cổ) mọc lên; trở dậy
+- (từ Mỹ,nghĩa Mỹ),  (từ cổ,nghĩa cổ) nổi lên, vọng đến, vang đến (tiếng âm thanh)
+
+@arisen  
+*  ndgt arose,  arisen
+- xuất hiện, nảy sinh ra, xảy ra
+
++ more difficulties arose: nhiều khó khăn nảy sinh ra
+
++ there arose many heroes: nhiều anh hùng xuất hiện
+- phát sinh do; do bởi
+
++ difficulties arising from the war: những phát sinh khó khăn do chiến tranh
+- (thơ ca) sống lại, hồi sinh
+- (từ cổ,nghĩa cổ) mọc lên; trở dậy
+- (từ Mỹ,nghĩa Mỹ),  (từ cổ,nghĩa cổ) nổi lên, vọng đến, vang đến (tiếng âm thanh)
+
+@arista  
+*  dt,  số nhiều aristae 
+@aristae  
+*  dt,  số nhiều aristae 
+@aristate  
+*  tt
+- (thực vật học) có râu ngọn (ở quả cây họ lúa)
+
+@aristocracy  
+*  dt
+- tầng lớp quý tộc
+- chế độ quý tộc; nước do tầng lớp quý tộc thống trị; chính phủ của tầng lớp quý tộc thống trị
+- những người tiêu biểu nhất
+
+@aristocrat  
+*  dt
+- người quý tộc
+- thành viên trong nhóm thống trị của chế độ quý tộc
+
+@aristocratic   (aristocratical) @aristocratical   (aristocratical) @aristocratically
+* dt
+- trưởng giả, quý phái
+ @aristogenesis
+* dt
+- sự phát sinh hoàn thiện
+ @aristogenic
+* tt
+- hoàn thiện giống
+ @aristotelian  
+*  tt
+- (thuộc) A-ri-xtôt (một nhà triết học Hy-lạp nổi tiếng; 384 322 trước lịch)
+*  dt
+- môn đồ của A-ri-xtôt
+
+@Aristotle
+- (Econ) (384-322 BC)-Aristotle (384-322 trước công nguyên)
+: Nhà triết học HY LẠP, các công trình của ông bao gồm cả các vấn đề kinh tế và trong những bài viết của ông có thể thấy những phân tích về sản xuất, phân phối và trao đổi. Trong phân tích về trao đổi, ông phân biệt giữa giá trị sử dụng và giá trị trao đổi
+ @arithmetic  
+*  dt
+- số học
+- sự tính
+- sách số học
+*  tt
+- (như) arithmetical
+
+@arithmetic
+- (Tech) số học; toán thuật, tính toán, vận toán
+ @arithmetic
+- số học
+- additive a. đs số học cộng tính
+- mental a. tính nhẩm 
+- recursive a. (logic học) số học đệ quy 
+ @arithmetic and logic unit (ALU)
+- (Tech) bộ số học và luận lý, bộ số học lôgíc, bộ lý toán
+ @arithmetic element
+- (Tech) phần tử số học
+ @arithmetic expression
+- (Tech) biểu thức số học
+ @arithmetic inspection
+- (Tech) kiểm tra số học
+ @arithmetic instruction
+- (Tech) chỉ thị số học
+ @arithmetic mean
+- (Tech) trị trung bình cộng
+ @Arithmetic mean
+- (Econ) Trung bình số học.
+: Xem MEAN.
+ @arithmetic operation
+- (Tech) phép toán số học
+ @arithmetic operator
+- (Tech) toán tử số học
+ @arithmetic organ
+- (Tech) bộ phận số học
+ @arithmetic point
+- (Tech) dấu chấm số học @arithmetic processor
+- (Tech) bộ xử lý số học
+ @arithmetic progression
+- (Tech) cấp số cộng
+ @Arithmetic progression
+- (Econ) Cấp số cộng.
+: Một dãy số hay những biểu thức đại sổ trong đó mỗi thàn phần mang một mối liên hệ cộng thêm đối với mỗi thành phần đứng trước và sau nó.
+ @arithmetic shift
+- (Tech) dịch chuyển số học
+ @arithmetic unit
+- (Tech) bộ phận số học
+ @arithmetical  
+*  tt ((cũng) arithmetic)
+- (thuộc) số học
+
++ arithmetical series: chuỗi số học
+- cộng
+
++ arithmetical progression: cấp số cộng
+
++ arithmetical mean: trung bình cộng
+
+@arithmetic(al)
+- (thuộc) số học
+ @arithmetically
+* dt
+- về phương diện số học, theo phương pháp số học
+ @arithmetically
+- theo số học về mặt số học
+ @arithmetician  
+*  dt
+- nhà số học
+
+@arithmetic-logic section
+- (Tech) khâu số học và luận lý, khâu số lôgíc
+ @arithmetization  
+*  dt
+- sự số học hoá
+
+@arithmograph
+- sơ đồ số học, đồ hình số học
+ @arithmometer  
+*  dt
+- máy kế toán
+
+@arithmometer
+- máy tính đặt bàn, máy tính sách tay
+ @ark  
+*  dt
+- hộp, hòm, rương
+
++ Ark of the Covenant; Ark of Testimony: hộp đựng pháp điển (của người Do thái xưa)
+- thuyền lớn
+!to lay hands on (to touch) the ark
+- báng bổ; bất kính
+!you must have come out of the ark
+- (thông tục); đùa sao thế, anh ở trên cung trăng rơi xuống đấy à
+
+@arkose
+* dt
+- (khoáng chất) Acco
+ @arkosic
+* tt
+- thuộc acco
+ @arl
+- Tên một phương pháp lưu trữ và truy tìm thông tin
+ @arles  
+*  dt số nhiều
+- (tiếng địa phương) tiền đặt cọc
+
+@arll
+- Phương pháp RLL cải tiến
+ @arm  
+*  dt
+- cánh tay
+
++ to carry a book under one's arms: cắp cuốn sách dưới nách
+
++ child (infant) in arms: đứa bé còn phải bế
+- tay áo
+- nhánh (sông...)
+- cành, nhánh to (cây)
+- tay (ghế); cán (cân); cánh tay đòn; cần (trục)
+- chân trước (của thú vật)
+- sức mạnh, quyền lực
+
++ the arm of the law: quyền lực của pháp luật
+!to chance one's arm
+- (xem) chance
+!to keep someone at arm's length
+- (xem) length
+!to make a long arm
+- (xem) long
+!one's right arm
+- (nghĩa bóng) cánh tay phải, người giúp việc đắc lực
+!to put one's out further than one can draw it back again
+- làm cái gì quá đáng
+!to shorten the arm of somebody
+- hạn chế quyền lực của ai
+!to throw oneself into the arms of somebody
+- tìm sự che chở của ai, tìm sự bảo vệ của ai
+!to welcome (receive, greet) with open arms
+- đón tiếp ân cần, niềm nở
+*  dt,  (thường) số nhiều
+- vũ khí, khí giới, binh khí
+- sự phục vụ trong quân ngũ, nghiệp võ
+
++ to bear arms: mang vũ khí; phục vụ trong quân ngũ
+
++ to receive a call to arms: nhận được lệnh nhập ngũ
+- binh chủng, quân chủng
+
++ air arm(s): không quân
+
++ infantry arm(s): lục quân
+- chiến tranh; chiến đấu
+- phù hiệu ((thường) coat of arms)
+!to appeal to arm
+- cầm vũ khí, chiến đấu
+!to fly to arms
+- khẩn trương sẵn sàng chiến đấu
+!to lay down one's arms
+- (xem) lay
+!to lie on one's arms
+!to sleep upon one's arms
+- ngủ với vũ khí trên mình; luôn luôn cảnh giác và ở trong tư thế sẵn sàng chiến đấu
+!to rise in arms against
+- (xem) rise
+!to take up arms
+- cầm vũ khí chiến đấu
+!to throw down one's arms
+- hạ vũ khí, đầu hàng
+!under arms
+- hàng ngũ chỉnh tề sẵn sàng chiến đấu
+![to be] up in arms against
+- đứng lên cầm vũ khí chống lại
+*  ngdgt
+- vũ trang, trang bị ((nghĩa đen) & (nghĩa bóng))
+
++ armed to the teeth: vũ trang đến tận răng
+
++ to arm oneself with patience: tạo cho mình đức tính kiên nhẫn; có đức tính kiên nhẫn
+- cho nòng cứng vào, cho lõi cứng vào
+*  ndgt
+- tự trang bị; cầm vũ khí chiến đấu
+
+@arm
+- (Tech) nhánh; cánh tay; cần; xà
+ @arm
+- cạnh; cánh tay; cánh tay đòn
+- a.of an angle cạnh của một góc 
+- a. of a couple cánh tay đòn của ngẫu lực
+- a. of a lever cánh tay đòn 
+ @armada  
+*  dt
+- đội tàu, hạm đội
+
+@armadillo  
+*  dt
+- (động vật học) con tatu
+
+@armageddon  
+*  dt
+- (kinh thánh) nơi chiến đấu quyết liệt giữa thiện và ác
+- trận chiến đấu quyết liệt cuối cùng
+
+@armament  
+*  dt
+- sự vũ trang
+- lực lượng vũ trang
+- vũ khí; quân trang; súng lớn, pháo (trên tàu chiến)
+- (định ngữ) vũ trang; (thuộc) vũ khí
+
++ armament race: cuộc chạy đua vũ trang
+
++ armament factory: xưởng đúc vũ khí
+
+@armamentarium
+* dt
+- số nhiều armamentaria
+- sự trang bị và cách trang bị (chủ yếu về y tế)
+ @armature  
+*  dt
+- (quân sự) áo giáp
+- (quân sự) vỏ sắt
+- (kỹ thuật) cốt, lõi
+- (điện học) phản ứng
+
++ neutral armature: phần ứng trung hoà
+
++ polarized armature: phần ứng phân cực
+
++ unipolar armature: phần ứng đơn cực
+- (sinh vật học) giáp, vỏ giáp
+
+@armature
+- (Tech) phần cứng; cốt, lõi máy; ngàm; phần động
+ @armature coil
+- (Tech) cuộn lõi
+ @armature gap
+- (Tech) khe lõi
+ @armature winding
+- (Tech) cuộn dây của phần ứng
+ @armband  
+*  dt
+- băng tay
+
+@armchair  
+*  dt
+- ghế bành
+!armchair strategist
+- nhà chiến lược trong phòng (xa rời thực tế)
+
+@arme blanche  
+*  tt
+- vũ trang
+
++ arme_blanche forces: lực lượng vũ trang
+
++ arme_blanche insurrection: cuộc khởi nghĩa vũ trang (chính sách của những nước còn đứng trung lập nhưng sẵn sàng tham chiến)
+
+@armed  
+*  tt
+- vũ trang
+
++ armed forces: lực lượng vũ trang
+
++ armed insurrection: cuộc khởi nghĩa vũ trang
+
++ armed neutrality: trung lập vũ trang (chính sách của những nước còn đứng trung lập nhưng sẵn sàng tham chiến)
+
+@armenian  
+*  tt
+- (thuộc) Ac-mê-ni
+*  dt
+- người Ac-mê-ni
+- tiếng Ac-mê-ni
+
+@armful  
+*  dt
+- ôm (đầy)
+
+@armhole
+* dt
+- lỗ áo để xỏ cánh tay vào
+ @armiger
+* dt
+- (sử học) người tùy tùng một hiệp sĩ (thời trung cổ)
+- thân sĩ, người có quyền mang huy chương
+ @armilla
+* dt
+- vòng đeo tay
+ @arm-in-arm  
+*  dt
+- cắp tay nhau
+
+@armistice  
+*  dt
+- sự đình chiến
+- cuộc đình chiến ngắn
+
+@armistice day
+- ngầy đình chiến (11 @armless  
+*  tt
+- không có tay
+- không có cánh
+*  tt
+- không có vũ khí
+
+@armlet  
+*  dt
+- băng tay
+- vịnh nhỏ
+- nhánh sông nhỏ
+
+@armor  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) armour
+
+@armored  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) (như) armoured
+
+@armored
+- (Tech) được bọc kim thuộc
+ @armored cable
+- (Tech) cáp bọc kim thuộc
+ @armored cord
+- (Tech) dây nối ống nói (loại thẳng, điện thoại công cộng ở Hoa Kỳ)
+ @armorer
+* dt
+- nhà sản xuất vũ khí
+- sự quan phụ trách vũ khí (của một tàu chiến, một đạo quân...)
+ @armorial  
+*  tt
+- (thuộc) huy hiệu
+*  dt
+- sách (nói về) huy hiệu
+
+@armoring
+- (Tech) bọc, bọc kim thuộc
+ @armoring tape
+- (Tech) băng bọc (cáp)
+ @armorist  
+*  dt
+- chuyên gia (về) huy hiệu
+
+@armory  
+*  dt
+- khoa nghiên cứu huy hiệu
+- (từ Mỹ,nghĩa Mỹ) (như) armoury
+- (từ Mỹ,nghĩa Mỹ) kho vũ khí
+- (từ Mỹ,nghĩa Mỹ) xưởng đúc vũ khí
+
+@armour  
+*  dt
+- áo giáp
+- (quân sự) vỏ sắt (xe bọc sắt...)
+- các loại xe bọc sắt
+- áo lặn
+- (sinh vật học) giáp vỏ sắt
+- huy hiệu ((cũng) coat armour)
+*  ngdgt
+- bọc sắt (xe bọc sắt...)
+
+@armour
+- (Tech) vỏ bọc kim thuộc
+ @armour-bearer  
+*  dt
+- (sử học) người hầu mang áo giáp (cho một võ tướng)
+
+@armour-clad  
+*  tt
+- có bọc sắt
+
+@armoured  
+*  tt
+- bọc sắt
+
++ armoured car: xe bọc sắt
+
++ armoured train: xe lửa bọc sắt
+
++ armoured force: lực lượng thiết giáp
+!armoured concrete
+- bê tông cốt sắt
+!armoured cow
+- (từ Mỹ,nghĩa Mỹ),  (quân sự),  (từ lóng) sữa bột
+
+@armoured 
++  armored
+ @armourer  
+*  dt
+- nhà sản xuất vũ khí
+- sĩ quan phụ trách vũ khí (của một tàu chiến, một đạo quân...)
+
+@armour-piercer  
+*  dt
+- (quân sự) đạn bắn thủng xe bọc sắt
+
+@armour-piercing  
+*  tt
+- (quân sự) bắn thủng xe bọc sắt
+
++ armour-piercing shell: đạn bắn thủng xe bọc sắt
+
+@armour-plate  
+*  dt
+- tấm sắt bọc (tàu chiến, xe bọc sắt...)
+
+@armoury  
+*  dt
+- kho vũ khí
+- (từ Mỹ,nghĩa Mỹ) xưởng đúc vũ khí
+- bảo tàng vũ khí
+
+@armpit  
+*  dt
+- nách
+
+@armrest
+* dt
+- nơi cất vũ khí
+ @arms race
+* dt
+- cuộc chạy đua vũ trang
+ @arm-twisting
+* dt
+- việc vặn cánh tay
+- (chính trị) việc gây áp lực để đạt mục đích
+ @army  
+*  dt
+- quân đội
+
++ regular army: quân chính quy
+
++ standing army: quân thường trực
+
++ to enter (go into, join) the army: vào quân đội, nhập ngũ
+- đoàn, đám đông, nhiều vô số
+
++ an army of workers: một đoàn công nhân
+
+@army-beef  
+*  dt
+- (quân sự) thịt hộp cho quân đội
+
+@army-list  
+*  dt
+- (quân sự) danh sách sĩ quan
+
+@army-register  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) army-list
+
+@arnica  
+*  dt
+- (thực vật học) cây kim sa
+- (dược học) cồn thuốc kim sa
+
+@aroid  
+*  tt
+- (thực vật học) dòng họ ráy
+*  dt
+- (thực vật học) cây họ ráy
+
+@aroma  
+*  dt
+- mùi thơm, hương vị
+
+@aromatherapy
+* dt
+- cách chữa bằng xoa bóp dầu thơm
+ @aromatic  
+*  tt
+- thơm
+
++ aromatic series: (hoá học) dây chất thơm
+
++ aromatic compound: (hoá học) hợp chất thơm
+
+@aromatically
+- xem aromatic
+ @aromaticness
+- xem aromatic
+ @aromatization
+- xem aromatize
+ @aromatize  
+*  ngdgt
+- làm cho thơm, ướp chất thơm
+
+@arose  
+*  ndgt arose,  arisen
+- xuất hiện, nảy sinh ra, xảy ra
+
++ more difficulties arose: nhiều khó khăn nảy sinh ra
+
++ there arose many heroes: nhiều anh hùng xuất hiện
+- phát sinh do; do bởi
+
++ difficulties arising from the war: những phát sinh khó khăn do chiến tranh
+- (thơ ca) sống lại, hồi sinh
+- (từ cổ,nghĩa cổ) mọc lên; trở dậy
+- (từ Mỹ,nghĩa Mỹ),  (từ cổ,nghĩa cổ) nổi lên, vọng đến, vang đến (tiếng âm thanh)
+
+@around  
+*  dt
+- xung quanh
+- vòng quanh
+
++ the tree measures two meters around: thân cây đo vòng quanh được hai mét
+- đó đây, chỗ này, chỗ nọ, khắp nơi
+
++ to travel around: đi du lịch đó đây
+- (từ Mỹ,nghĩa Mỹ) quanh quẩn, loanh quanh, ở gần
+
++ around here: quanh đây
+
++ to hang around: ở quanh gần đây
+
++ to get (come) around: gần lại, đến gần, sắp đến
+*  giới từ
+- xung quanh, vòng quanh
+
++ to walk around the house: đi vòng quanh nhà
+- đó đây, khắp
+
++ to travel around the country: đi du lịch khắp xứ
+- khoảng chừng, gần
+
++ around a million: khoảng chừng một triệu
+
+@around-the-clock  
+*  tt
+- suốt ngày đêm
+
+@arousal
+- xem arouse
+ @arouse  
+*  ngdgt
+- đánh thức
+- khuấy động, gợi
+
++ to arouse harred: gợi lòng căm thù
+- (nghĩa bóng) thức tỉnh
+
+@arpanet
+- Tên mạng ARPAnet
+ @arpeggio  
+*  dt
+- (âm nhạc) hợp âm rải
+
+@arquebus  
+*  dt
+- súng hoả mai
+
+@arrack  
+*  dt
+- rượu arac (nấu bằng gạo, mía...)
+
+@arraign  
+*  ngdgt
+- buộc tội, tố cáo; thưa kiện
+- công kích, công khai chỉ trích) một ý kiến, một người nào)
+- đặt vấn đề nghi ngờ (một lời tuyên bố, một hành động)
+
+@arraigner
+- xem arraign
+ @arraignment  
+*  dt
+- sự buộc tội, sự tố cáo; sự thưa kiện
+- sự công kích, sự công khai chỉ trích) một ý kiến, một người nào)
+- sự đặt vấn đề nghi ngờ (một lời tuyên bố, một hành động)
+
+@arrange  
+*  ngdgt
+- sắp xếp, sắp đặt, sửa soạn
+
++ arrange in alphabetical order: sắp xếp theo thứ tự abc
+
++ to arrange a room: sửa soạn căn phòng
+
++ to arrange one's hair: chải (vuốt) tóc cho gọn gàng tề chỉnh
+- thu xếp; chuẩn bị
+
++ to arrange a meeting: thu xếp cuộc gặp gỡ
+
++ to arrange a marriage: thu xếp việc cưới xin
+- dàn xếp, hoà giải (một cuộc cãi nhau...)
+- cải biên, soạn lại
+
++ to arrange a piece of music: cải biên một bản nhạc
+
++ to arrange a play for broadcasting: soạn lại một vở kịch để phát thanh
+- (toán học) chỉnh hợp
+- (kỹ thuật) lắp ráp
+- (quân sự) sắp xếp thành hàng ngũ chỉnh tề
+*  ndgt
+- thu xếp; chuẩn bị
+
++ to arrange to come early: thu xếp để đến sớm
+- dàn xếp, đồng ý, thoả thuận
+
++ to arrange with somebody about something: dàn xếp với ai vấn đề gì; đồng ý với ai cái gì
+- (quân sự) đứng thành hàng ngũ chỉnh tề
+
+@arrange
+- sắp xếp
+ @arrangement  
+*  dt
+- sự sắp xếp, sự sắp đặt, cái được sắp xếp, cái được sắp đặt
+- ((thường) số nhiều) sự thu xếp, sự chuẩn bị
+
++ to make one's own arrangements: tự thu xếp
+- sự dàn xếp, sự hoà giải
+
++ to come to on an arrangement: đi đến chỗ dàn xếp, đi đến chỗ hoà giải
+
++ to make arrangements with somebody: dàn xếp với ai
+- sự cải biên, sự soạn lại (bản nhạc, vở kịch...); bản cải tiến, bản soạn lại
+- (toán học) sự chỉnh hợp
+- (kỹ thuật) sự lắp ráp
+
+@arrangement
+- sự sắp xếp, chỉnh hợp
+ @arranger  
+*  dt
+- người sắp xếp, người sắp đặt
+- người cải biên, người soạn lại (bản nhạc...)
+
+@arrant  
+*  tt
+- thực sự, hoàn toàn; hết sức, thậm đại
+
++ an arrant rogue: thằng đại xỏ lá
+
++ arrant nonsense: điều thậm vô lý, điều hét sức vô lý; điều hết sức bậy bạ
+
+@arrantly
+- xem arrant
+ @arras  
+*  dt
+- thảm sặc sỡ, màu hoa sặc sỡ
+
+@array  
+*  dt
+- sự dàn trận, sự bày binh bố trận
+- lực lượng quân đội
+- dãy sắp xếp ngay ngắn; hàng ngũ chỉnh tề
+
++ an array of bottles and glasses: một dãy những chai cốc sắp xếp ngăn nắp
+- (pháp lý) danh sách hội thẩm
+- (thơ ca) quần áo, đồ trang điểm
+- (điện học) mạng anten ((cũng) antenna array)
+*  ngdgt
+- mặc quần áo, diện; trang điểm ((nghĩa đen) & (nghĩa bóng))
+
++ to array onself in one's finest clothes: mặc những quần áo đẹp nhất
+- sắp hàng, dàn hàng; dàn trận
+
++ to array forces: (quân sự) dàn lực lượng, dàn trận, bày binh bố trận
+- (pháp lý) lập danh sách (các vị hội thẩm)
+
++ to array a panel: lập danh sách các vị hội thẩm
+
+@array
+- (Tech) giàn, mạng; dẫy số, bảng; hàng; mảng; hệ thống, hệ
+ @array
+- bảng, dãy sắp xếp; (máy tính) mảng
+- frequency a. dãy tần số 
+- rectanggular a. bảng chữ nhật 
+- square a. bảng vuông
+- two-way a. bảng hai lối vào 
+ @array declarator
+- (Tech) tên dẫy số 
++  array name
+ @array descriptor
+- (Tech) bộ mô tả dẫy số
+ @array element
+- (Tech) phần tử mảng
+ @array name
+- (Tech) tên dẫy số 
++  array declarator
+ @array processing
+- (Tech) xử lý dẫy số
+ @array processor
+- (Tech) bộ xử lý dẫy số
+ @array representation
+- (Tech) biểu thị @array segment
+- (Tech) đoạn dẫy số
+ @array variable
+- (Tech) biến dẫy số
+ @arrear  
+*  dt
+- (số nhiều) việc đang làm dở, việc chưa làm xong
+
++ arrears of work: việc đang làm dở, việc chưa làm xong; việc chưa làm được
+- (số nhiều) nợ còn khất lại, tiền thiếu lại (chưa trả)
+
++ to be in arrears: còn khất lại, còn thiếu lại (chưa trả)
+
++ arrears of rent: tiền thuê nhà còn khất lại
+- (từ cổ,nghĩa cổ) phía sau cùng, phần cuối cùng (đám rước...)
+!in arrear of
+- sau, đằng sau
+
+@arrearage  
+*  dt
+- sự chậm trễ, sự dây dưa
+- vật dự trữ
+- tiền còn nợ lại sau khi quyết toán
+- (số nhiều) nợ, tiền còn thiếu lại (chưa trả)
+
+@arrears
+* dt
+- tiền nợ lẽ ra phải trả trước đó; nợ còn khất lại
+- arrears of salary
+- tiền lương còn khất lại, còn thiếu lại (chưa trả)
+
++  rent arrears:tiền thuê nhà còn khất lại
+- việc chưa làm xong
+
++  arrears of correspondence:thư từ tồn đọng (chưa giải quyết hoặc phúc đáp)
+
++  to be in arrears with something;  to fall into arrears with something:chậm trả tiền nợ; chậm làm một việc gì
+
++  I've fallen into arrears with my rent:tôi đã chậm trả tiền thuê nhà
+
++  I'm in arrears with the housework:tôi còn công việc nội trợ chưa làm
+
++  payment is made in arrears:tiền sẽ thanh toán sau (nghĩa là khi làm xong việc)
+ @arrest  
+*  dt
+- sự bắt giữ
+
++ under arrest: bị bắt giữ
+- sự ngừng lại, sự chặn lại, sự hãm lại
+- (pháp lý) sự hoãn thi hành
+
++ arrest of judgement: sự hoãn thi hành một bản án
+*  ngdgt
+- bắt giữ
+- làm ngừng lại, chặn lại, ngăn lại, hãm lại (máy đang chạy...)
+- lôi cuốn (sự chú ý)
+
++ to arrest someone's attention: lôi cuốn sự chú ý của ai
+- (pháp lý) hoãn thi hành (một bản án vì có sự lầm lẫn)
+
+@arrestee
+* dt
+- người bị bắt
+ @arrester   (arrestor) @arrester
+- (Tech) bộ phóng điện, cái phóng điện
+ @arrester-hook  
+*  dt
+- móc hãm (của máy bay, để móc vào dây cáp trên tàu sân bay khi hạ cánh)
+
+@arresting  
+*  tt
+- làm ngừng lại, làm hãm lại
+
++ arresting device: (kỹ thuật) bộ phận hãm, cái hãm
+- lôi cuốn, hấp dẫn, thu hút sự chú ý
+
+@arrestingly  
+*  dt
+- lôi cuốn, hấp dẫn
+
+@arrestment  
+*  dt
+- sự bắt giữ
+
+@arrestor   (arrestor) @arrhenogenic
+* tt
+- sinh sản toàn đực
+ @arrhenokaryon
+* dt
+- (sinh học) nhân đực
+ @arrhythmia  
+*  dt
+- (y học) chứng loạn nhịp tim
+
+@arris  
+*  dt
+- cạnh nhọn (bờ nóc nhà...)
+
+@arrival  
+*  dt
+- sự đến, sự tới nơi
+- người mới đến; vật mới đến
+- chuyến hàng mới đến
+- (thông tục); đùa đứa bé mới sinh
+
+@arrival rate
+- (Tech) tỷ lệ đến
+ @arrive  
+*  ndgt
+- (: at,  in) đến, tới nơi; xảy đến
+- đi đến, đạt tới
+
++ to arrive at a conclusion: đi tới một kết luận
+
++ to arrive at perfection: đạt tới chỗ toàn thiện
+- thành đạt
+
+@arriver
+- xem arrive
+ @arriviste  
+*  dt
+- người mới phất
+
+@arrière-pensée  
+*  dt
+- ẩn ý
+
+@arroba
+* dt
+- A-rô-ba; đơn vị đo lường cổ Tây Ban Nha bằng 11, 34 kilô
+- đơn vị đo lường cổ Bồ Đào Nha bằng 14, 5 kg, dùng ở Bra-xin
+ @arrogance  
+*  dt
+- tính kiêu ngạo, tính kiêu căng; vẻ ngạo mạn
+
+@arrogant  
+*  tt
+- kiêu ngạo, kiêu căng; ngạo mạn
+
+@arrogantly
+* dt
+- kiêu căng, ngạo mạn
+ @arrogate  
+*  ngdgt
+- yêu sách láo, đòi bậy
+
++ to arrogate something to oneself: yêu sách láo cho mình cái gì
+- nhận bậy, chiếm bậy (cái gì...)
+
+@arrogation  
+*  dt
+- sự yêu sách láo, sự đòi bậy
+- sự nhận bậy, sự chiếm bậy
+
+@arrogative
+- xem arrogate
+ @arrogator
+- xem arrogate
+ @arrow  
+*  dt
+- tên, mũi tên
+- vật hình tên
+!to have an arrow in one's quiver
+- còn một mũi tên trong ống tên; (nghĩa bóng) còn phương tiện dự trữ
+
+@arrow
+- (Tech) mũi tên (con trỏ)
+ @arrow
+- mũi tên (trên sơ đồ)
+ @arrow cursor
+- (Tech) con chạy mũi tên
+ @arrow key
+- (Tech) phím mũi tên
+ @arrow-head  
+*  dt
+- đầu mũi tên
+
+@arrow-headed  
+*  tt
+- hình mũi tên
+
++ arrow-headed characters: chữ hình mũi tên
+
+@Arrow.KennethJ
+- (Econ) (1921-).
+: Nhà kinh tế học người Mỹ đồng giải Nobel về kinh tế học với huân tước John Hicks năm 1972. Ông được biết đến nhiều nhất do công trình về các hệ thống CÂN BẰNG TỔNG QUÁT và trình bày về các điều kiện toán học cần thiết cho một hệ thống như vậy để được nghiệm có ý nghĩa về kinh tế. Ông cũng có công trình tiên phong về việc ra quyết định trong những điều kiện không chắc chắn. Trong cuốn SỰ LỰA CHỌN XÃ HỘI VÀ CÁC GIÁ TRỊ CÁ NHÂN (1951), ông trình bày kinh tế học phúc lợi với một tình trạng tiến thoái lưỡng nan, khi dựa trên cơ sở những giả định đảm bảo sự tự chủ của người tiêu dùng cộng thêm sự hợp lý, ông chứng minh rằng không thể xác định được sự xếp hạng xã hội về các phương án lựa chọn tương ứng với sự xếp hạng của các cá nhân, và như vậy cũng không thể đưa ra được CHỨC NĂNG PHÚC LỢI XÃ HỘI . Chức năng này liên quan một cách tích cực tới lựa chọn cá nhân, xã hội không thể quyết định nó muốn gì. Arrow cũng có công trong việc đưa vào học thuyết tăng trưởng giả thuyết học qua hành với tư cách là một nguồn tăng năng suất. Các ấn phẩm chính của ông là : Nghiên cứu trong lý thuyết toán học về dự trữ và sản xuất (1958); Sự lựa chọn xã hội và các giá trị cá nhân (1951); Các tiểu luận về lý thuyết chịu rủi ro (1970); Phân tích dựa trên tổng hợp (với F.H.Hahn) (1971).
+ @arrowroot  
+*  dt
+- (thực vật học) cây hoàng tinh, cây dong
+- bột hoàng tinh, bột dong
+
+@arrowy  
+*  tt
+- hình tên, giống mũi tên
+- nhanh như tên bắn
+
+@arroyo
+* dt (số nhiều arroyos)
+- kênh, lạch
+ @arse  
+*  dt
+- nhuôi át['ɑ:sinl]
+*  dt
+- kho chứa vũ khí đạn dược ((nghĩa đen) & (nghĩa bóng))
+- xưởng làm vũ khí đạn dược
+
+@arse-hole
+- thành ngữ arse
+- arse-hole
+- lỗ đít
+- thành ngữ arse
+- arse-hole
+- lỗ đít
+ @arse-licker
+- thành ngữ arse
+- arse-licker
+* dtgười nịnh bợ người khác,  Đồ liếm đít
+- thành ngữ arse
+
++  arse-licker:người nịnh bợ người khác,  Đồ liếm đít
+ @arsenal  
+*  dt
+- kho chứa vũ khí đạn dược ((nghĩa đen) & (nghĩa bóng))
+- xưởng làm vũ khí đạn dược
+
+@arsenate
+* dt
+- (hoá học) Asenat
+ @arsenic  
+*  dt
+- (hoá học) Asen
+*  tt: (arsenical) 
+@arsenical  
+*  dt
+- (hoá học) Asen
+*  tt: (arsenical) 
+@arsenious   (arsenous) @arsenite  
+*  dt
+- (hoá học) arsenit
+
+@arsenopyrit
+* dt
+- (hoá học) Asenopirit
+ @arsenous   (arsenous) @arshin
+* dt
+- Ac-sin, đơn vị đo chiều dài của Nga (
++  0, 71 m)
+ @arsin
+* dt
+- (hoá học) Acsin,  acsen hidrua
+ @arsis
+* dt
+- số nhiều arses
+- âm tiết có trọng âm trong một bộ thơ
+ @arson  
+*  dt
+- sự cố ý gây nên hoả hoạn; sự đốt phá (nhà, cửa...)
+
+@arsonist  
+*  dt
+- kẻ cố ý gây nên hoả hoạn; kẻ đốt phá (nhà, cửa...)
+
+@arsy-versy
+* dt, adj
+- (thông tục) đảo lộn, lung tung
+ @art  
+*  dt
+- tài khéo léo, kỹ xảo
+- nghệ thuật; mỹ thuật
+
++ a work of art: một tác phẩm nghệ thuật
+- mỹ nghệ; nghề đòi hỏi sự khéo léo
+- thuật, kế, mưu kế
+
++ Bachelor of Arts: tú tài văn chương (trường đại học Anh)
+
++ Faculty of Arts: khoa văn (trường đại học Anh)
+!art is long, life is short
+- đời người thì ngắn ngủi, nhưng công trình nghệ thuật thì tồn tại mãi mãi
+!to be (have, take) art and part in a crime
+- đồng mưu và có nhúng tay vào tội ác
+!black art
+- ma thuật, yêu thuật
+!manly art
+- quyền thuật, quyền Anh
+*  (từ cổ,nghĩa cổ) ngôi 2 số ít thời hiện tại của be
+
+@art
+- (Tech) mỹ thuật; nghệ thuật; kỷ xảo
+ @art form
+- (Tech) kiểu hình, kiểu mỹ thuật
+ @artefact   (artifact) @artel  
+*  dt
+- Acten, nhóm sản xuất tập thể (ở Liên xô)
+
+@artemisia
+* dt
+- (thực vật) cây ngải
+ @arterial  
+*  tt
+- (giải phẫu) (thuộc) động mạch
+- chia làm nhiều nhánh
+
++ arterial dralnage: hệ thống dẫn nước chia làm nhiều nhánh
+- chính (đường, trục giao thông...)
+
++ arterial railway: đường sắt chính
+
++ arterial road: đường chính
+
++ arterial traffic: sự giao thông trên những con đường chính
+
+@arterialise   (arterialize) @arterialization
+- xem arterialize
+ @arterialize   (arterialize) @arterially
+- xem arterial
+ @arteriography
+* dt
+- (y học) thủ thuật khâu động mạch
+ @arteriolar
+* tt
+- (giải phẫu) học thuộc động mạch nhỏ
+ @arteriolar-venular
+* tt
+- thuộc động tĩnh mạch nhỏ
+ @arteriole
+* dt
+- động mạch con; tiểu động mạch
+ @arteriolith
+* dt
+- (y học) sỏi động mạch
+ @arteriosclerosis  
+*  dt
+- (y học) xơ cứng động mạch
+
+@arteriosclerotic
+- xem arteriosclerosis
+ @arteriotomy  
+*  dt
+- (y học) thủ thuật mở động mạch
+
+@arteritis
+* dt
+- (y học) bệnh viêm động mạch
+ @artery  
+*  dt
+- (giải phẫu) động mạch
+- đường giao thông chính
+
+@artesian  
+*  tt
+- artesian well giếng phun
+
+@artesian well
+* dt
+- giếng phun
+ @art-form
+* dt
+- loại hình nghệ thuật
+ @artful  
+*  tt
+- xảo quyệt, lắm mưu mẹo; tinh ranh
+- khéo léo (người); làm có nghệ thuật (đồ vật)
+
+@artfully
+* dt
+- khéo léo, sắc sảo
+ @artfulness  
+*  dt
+- tính xảo quyệt, sự lắm mưu mẹo; sự tinh ranh
+- sự khéo léo
+
+@arthopodan
+* dt
+- động vật chân khớp
+ @arthral
+* tt
+- thuộc khớp
+ @arthritic  
+*  tt
+- (y học) (thuộc) viêm khớp
+
+@arthritically
+- xem arthritis
+ @arthritis  
+*  dt
+- (y học) viêm khớp
+
+@arthrobranchiae
+* dt
+- (động vật) mang khớp
+ @arthrodesis
+* dt
+- số nhiều arthrodeses
+- (y học) thủ thuật làm cứng khớp
+ @arthrogenous
+* tt
+- tạo đốt; hình thành đốt; chia đốt
+ @arthromere
+* dt
+- (sinh học) đốt khớp; đốt thân (động vật có chân đốt)
+ @arthropathy
+* dt
+- (y học) bệnh khớp
+ @arthrophyte
+* dt
+- thực vật phân đốt, có đốt
+ @arthropod  
+*  dt
+- (động vật học) động vật chân đốt
+
+@arthropodal
+* tt
+- có chân khớp
+ @arthropodous
+- xem arthropod
+ @arthropterous
+* tt
+- có tia vây khớp, phân đốt
+ @arthrosis  
+*  dt
+- (giải phẫu) khớp
+
+@arthrospore
+* dt
+- (thực vật) bào tử chia đôi, bào tử đốt
+ @arthrostracous
+* tt
+- có mảnh vỏ khớp
+ @arthrous
+* tt
+- có khớp
+ @artichoke  
+*  dt
+- (thực vật học) cây atisô
+
+@article  
+*  dt
+- bài báo
+
++ leading article: bài xã luận
+- điều khoản, mục
+
++ articles of apprenticeship: điều khoản học việc (trong giao kèo)
+
++ article of faith: tín điều
+- đồ, thức, vật phẩm; hàng
+
++ articles of daily necessity: những thức cần thiết cho đời sống hằng ngày
+
++ an article of food: đồ ăn
+
++ an article of clothing: đồ mặc
+
++ article of luxury: hàng xa xỉ
+- (ngôn ngữ học) mạo từ
+
++ definite article: mạo từ hạn định
+
++ indefinite article: mạo từ bất định
+!in the article of death
+- lúc chết, lúc tắt thở
+*  ngdgt
+- đặt thành điều khoản, đặt thành mục
+- cho học việc theo những điều khoản trong giao kèo
+
++ articled apprentice: người học việc theo giao kèo
+- (pháp lý) buộc tội; tố cáo
+
++ to article against someone for something: tố giác ai về việc gì; buộc tội ai về cái gì
+
+@article
+- (Tech) điều khoản, mục; vật phẩm; bài báo
+ @articulacy
+- xem articulate
+ @articular  
+*  tt
+- (thuộc) khớp
+
+@articularly
+- xem articular
+ @articulate  
+*  tt
+- có khớp, có đốt
+- đọc rõ ràng, phát âm rõ ràng
+- (kỹ thuật) có bản lề; có khớp nối
+*  dgt
+- nối bằng khớp; khớp lại với nhau
+- đọc rõ ràng; phát âm rõ ràng, nói rõ ràng
+
+@articulated vehicle
+* dt
+- xe có những đoạn nối nhau bằng khớp mềm dẻo để dễ quay
+ @articulately
+* dt
+- rõ ràng, rành mạch
+ @articulateness
+* dt
+- sự phát âm rõ ràng và rành mạch
+ @articulation  
+*  dt
+- (giải phẫu) khớp
+- sự nối bằng khớp; sự khớp lại với nhau
+- cách đọc rõ ràng; cách phát âm rõ ràng
+- phụ âm
+- (kỹ thuật) trục bản lề
+
+@articulation
+- (Tech) độ rõ (phát âm); khớp nối
+ @articulation index
+- (Tech) độ nghe rõ
+ @articulation testing
+- (Tech) thử độ rõ phát âm
+ @articulatory
+- xem articulation
+ @artifact
+* dt
+- sự giả tạo, giả tượng
+- <khcổ> đồ tạo tác (do người tiền sử tạo ra, để phân biệt với những đồ vật lấy sẵn trong thiên nhiên)
+ @artifactual
+- xem artifact
+ @artifice  
+*  dt
+- mẹo, mưu mẹo, gian ngoan, ngón gian xảo
+- tài khéo léo, kỹ xảo
+- cái được sáng chế ra một cách tài tình; cái được sáng chế tinh xảo
+
+@artificer  
+*  dt
+- người sáng chế, người phát minh
+- thợ thủ công, thợ khéo
+- (quân sự) thợ sửa chữa vũ khí
+- (hàng hải) thợ máy
+
+@artificial  
+*  tt
+- nhân tạo
+
++ artificial silk: lụa nhân tạo
+
++ artificial respiration: hô hấp nhân tạo
+- không tự nhiên, giả tạo; giả
+
++ artificial flowers: hoa giả
+
++ artificial smile: nụ cười giả tạo
+
+@artificial
+- (Tech) nhân tạo; giả tạo
+ @artificial
+- nhân tạo; giả tạo
+ @artificial cognition
+- (Tech) nhận thức nhân tạo
+ @artificial intelligence (AI)
+- (Tech) trí năng nhân tạo
+ @artificial language
+- (Tech) ngôn ngữ nhân tạo
+ @artificial line
+- (Tech) đường dây giả, đường dây nhân tạo
+ @artificial voice
+- (Tech) tiếng nói nhân tạo @artificiality   (artificialness) @artificialize  
+*  ngdgt
+- làm mất tự nhiên, làm thành giả tạo
+
+@artificially
+* dt
+- giả tạo, không tự nhiên, gượng gạo
+ @artificialness   (artificialness) @artillerist   (artilleryman) @artillery  
+*  dt
+- (quân sự) pháo
+
++ heavy artillery: trọng pháo
+- pháo binh
+- khoa nghiên cứu việc sử dụng pháo
+
+@artilleryman   (artilleryman) @artily
+- xem arty
+ @artiness  
+*  dt
+- sự làm ra vẻ nghệ sĩ, sự làm ra vẻ có mỹ thuật
+
+@artiodactyl  
+*  tt: (artiodactylous) 
+@artiodactylous  
+*  tt: (artiodactylous) 
+@artisan  
+*  dt
+- thợ thủ công
+
+@artisanal  
+*  tt
+- thủ công
+
+@artisanship
+- xem artisan
+ @artist  
+*  dt
+- nghệ sĩ
+
++ to be an artist in words: là một nghệ sĩ về cách dùng từ
+- hoạ sĩ
+
+@artistdom
+* dt
+- giới nghệ sĩ; giới nghệ thuật
+ @artiste  
+*  dt
+- (sân khấu) nghệ sĩ sân khấu, diễn viên chuyên nghiệp (hát múa...)
+
+@artistic   (artistical) @artistical   (artistical) @artistically
+* dt
+- khéo léo, sắc sảo
+ @artistry  
+*  dt
+- nghệ thuật, tính chất nghệ thuật
+- công tác nghệ thuật
+
+@artless  
+*  tt
+- tự nhiên, không giả tạo
+- ngây thơ, chân thật, chất phác
+- không có mỹ thuật; không khéo, vụng
+
+@artlessly
+- xem artless
+ @artlessness  
+*  dt
+- tính tự nhiên, tính không giả tạo
+- tính ngây thơ, tính chân thật, tính chất phác
+
+@arts and crafts
+* dt
+- nghề thủ công và thiết kế trang trí
+ @artwork
+- (Tech) nguyên cảo; nguyên đồ; đồ trang sức; đồ nghệ thuật
+ @arty  
+*  tt
+- (thông tục) làm ra vẻ nghệ sĩ; làm ra vẻ có mỹ thuật
+
+@arty-and-crafty  
+*  tt
+-(đùa cợt) chỉ đẹp thôi chứ không tiện dụng và bền (đồ gỗ) ((cũng) artsy-craftsy)
+
+@arty-crafty
+* tt
+- (nói về đồ gỗ) chỉ đẹp thôi, chứ không tiện dụng lâu dài
+ @arucola
+* dt
+- cây rau diếp
+ @arum  
+*  dt
+- (thực vật học) cây chân bê
+
+@arum lily
+* dt
+- hoa huệ trắng
+ @aryan  
+*  tt
+- (thuộc) người A-ri-an
+*  dt
+- người A-ri-an
+
+@arytenoid
+* dt
+- (giãi phẫu học) thuộc sụn phễu
+ @arête  
+*  dt
+- cái đo độ đậm, phao đo tỷ trọng
+
+@

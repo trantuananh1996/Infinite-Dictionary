@@ -1,0 +1,25 @@
+@aorist  
+*  tt
+- (ngôn ngữ học) bất định
+
++ aorist tense: thời bất định (ngữ pháp Hy lạp)
+*  dt
+- (ngôn ngữ học) thời bất định
+
+@aoristic  
+*  tt
+- (ngôn ngữ học) (thuộc) thời bất định
+
+@aoristically
+- xem aorist
+ @aorta  
+*  dt
+- (giải phẫu) động mạch chủ
+
+@aortal
+- xem aorta
+ @aortic  
+*  tt
+- (thuộc) động mạch chủ
+
+@

@@ -1,0 +1,3841 @@
+@mo  
+*  dt
+- (thông tục) (như) moment
+
+@moan  
+*  dt
+- tiếng than van, tiếng kêu van, tiếng rền rĩ
+*  dgt
+- than van, kêu van, rền rĩ
+
+@moanful  
+*  tt
+- than van, rền rĩ; bi thảm, ai oán; buồn bã
+
+@moaningly  
+*  dt
+- than van, rền rĩ; bi thảm, ai oán; buồn bã
+
+@moat  
+*  dt
+- hào (xung quanh thành trì...)
+*  ngdgt
+- xây hào bao quanh
+
+@mob  
+*  dt
+- đám đông
+- dân chúng, quần chúng, thường dân
+
++ mob psychology: tâm lý quần chúng
+
++ mob law: pháp lý quần chúng
+- đám đông hỗn tạp
+- bọn du thủ du thực
+*  dgt
+- tấn công, phá phách, kéo ồ vào (đám đông người, quần chúng)
+
+@mob
+- (tô pô) nửa nhóm, Hauđop
+ @mobbish  
+*  tt
+- (thuộc) dân chúng, (thuộc) quần chúng, (thuộc) thường dân
+- (thuộc) đám đông hỗn tạp
+- hỗn loạn, huyên náo, om sòm
+
+@mobbishness  
+*  dt
+- tính chất dân chúng, tính chất quần chúng
+- tính chất của đám đông hỗn tạp
+- tính chất hỗn loạn, tính chất huyên náo om sòm
+
+@mob-cap  
+*  dt
+- mũ trùm kín đầu (của đàn bà)
+
+@mobile  
+*  tt
+- chuyển động, di động; lưu động
+- hay thay đổi, dễ biến đổi, biến đổi nhanh
+
++ mobile features: nét mặt dễ biến đổi
+
+@mobile
+- di động, lưu động
+ @mobile unit  
+*  dt
+- xe quay phim (thu tiếng...)
+
+@mobilise   (mobilise) @mobility  
+*  dt
+- tính chuyển động, tính di động; tính lưu động
+- tính hay thay đổi, tính dễ biến đổi, tính biến đổi nhanh
+
+@mobility
+- tính di động, tính lưu động
+- free m. di động tự do, độ động tự do, độ động toàn phần 
+ @Mobility of labor
+- (Econ) Tính luân chuyển của lao động.
+ @mobilization  
+*  dt
+- sự huy động, sự động viên
+
++ mobilization orders: lệnh động viên
+
++ mobilization scheme (plan): kế hoạch động viên
+
+@mobilize   (mobilise) @mobocracy  
+*  dt
+- sự thống trị của quần chúng
+- quần chúng thống trị
+
+@mobsman
+* dt
+- đứa @mobster
+* dt
+- (từ lóng) kẻ cướp
+ @moccasin  
+*  dt
+- giày da đanh (của thổ dân Bắc-mỹ)
+- (động vật học) rắn hổ mang
+
+@mocha  
+*  dt
+- cà phê môca
+
+@mock  
+*  dt
+- (từ cổ,nghĩa cổ) sự chế nhạo, sự nhạo báng, sự chế giễu
+
++ to make a mock of someone: chế nhạo ai, chế giễu ai
+*  tt
+- giả, bắt chước
+
++ mock modesty: khiêm tốn giả
+
++ mock battle: trận giả
+
++ mock velvet: nhung giả
+*  ngdgt
+- chế nhạo, nhạo báng, chế giễu
+- thách thức; xem khinh, coi thường
+- lừa, lừa dối, đánh lừa
+- nhại, giả làm
+*  ndgt
+- (: at) chế nhạo, nhạo báng, chế giễu
+
+@mocker  
+*  dt
+- người hay chế nhạo, người hay nhạo báng
+- người nhại, người giả làm
+
+@mockery  
+*  dt
+- thói chế nhạo, sự nhạo báng
+- điều chế nhạo, điều nhạo báng, điều chế giễu; lời chế nhạo, lời nhạo báng, lời chế giễu, lời giễu cợt
+
++ to hold someone up to mockery: chế nhạo ai
+
++ to make a mockery ò: chế giễu, giễu cợt
+- trò đùa, trò khôi hài, trò giả tạo, trò hề
+- sự nhại
+
+@mock-heroic  
+*  tt
+- nửa hùng tráng nửa trào phúng (bài thơ)
+
+@mocking-bird  
+*  dt
+- (động vật học) chim nhại (khéo nhại tiếng chim khác)
+
+@mockingly  
+*  dt
+- chế nhạo, nhạo báng, chế giễu
+
+@mock-turtle soup  
+*  dt
+- xúp giả ba ba
+
+@mock-up  
+*  dt
+- mô hình,  maket
+
+@mod
+* dt
+- thành viên của một nhóm thanh niên nổi lên ở Anh trong thập niên 1960, thích mặc quần áo gọn gàng, hợp thời trang và đi xe gắn máy
+ @modal  
+*  tt
+- (thuộc) cách thức, (thuộc) phương thức
+- (ngôn ngữ học) (thuộc) lối
+- (âm nhạc) (thuộc) điệu
+
+@modal
+- (logic học) (thuộc) mốt, mô thái
+ @modality  
+*  dt
+- thể thức, phương thức
+
+@modality
+- (logic học) mốt, tính mô thái
+ @mode  
+*  dt
+- cách, cách thức, lối, phương thức
+
++ a new mode of transport: một cách vận chuyển mới
+
++ mode of production: phương thức sản xuất
+- kiểu, mốt, thời trang
+- (ngôn ngữ học) lối, thức
+- (âm nhạc) điệu
+
+@Mode
+- (Econ) Mốt.
+: Là thước đo xu hướng tập trung của một biến số.
+ @mode
+- phương thức, phương pháp; hình thức
+- m. of motion phương thức chuyển động
+- m. of operation phương pháp làm việc
+- m. of oscillation dạn dao động
+- m. of vibration dạng chấn động
+- floating control m. phương pháp điều chỉnh động
+- high-frequency m. (điều khiển học) chế độ cao tần 
+- normal m. dao động riêng
+- transverse m. of vibration dạng chấn động ngang 
+ @Mode of production
+- (Econ) Phương thức sản xuất.
+: Là cụm thuật ngữ mà C.Mác dùng để chỉ cơ sở kinh tế của xã hội, là yếu tố mà ông cho rằng có ảnh hưởng lớn nhất trong việc quyết định cơ cấu xã hội.
+ @model  
+*  dt
+- kiểu, mẫu, mô hình
+
++ working model: mô hình máy chạy được
+- (nghĩa bóng) người làm gương, người gương mẫu
+
++ a model of industry: một người gương mẫu về đức tính cần cù
+- (thông tục) người giống hệt; vật giống hệt
+
++ a peefect model of someone: người giống hệt ai
+- người làm kiểu, vật làm kiểu (để vẽ, nặn tượng)
+- người đàn bà mặc quần áo mẫu (cho khách xem); quần áo mặc làm mẫu
+- vật mẫu
+*  tt
+- mẫu mực, gương mẫu
+
++ a model wife: người vợ mẫu mực
+*  dgt
+- làm mẫu, nặn kiểu, vẽ kiểu, làm mô hình, đắp khuôn
+
++ to model a man's head in clay: làm mô hình đầu người bằng đất sét
+- (: after,  on,  upon) làm theo, làm gương, bắt chước
+
++ to model oneself on sowmone: làm theo ai, theo gương ai, bắt chước ai
+- làm nghề mặc quần áo làm nẫu; mặc làm mẫu
+
+@Model
+- (Econ) Mô hình
+: LA một khuông mẫu chính quy hoặc không chính quy của phép phân tích nhằm rút ra tù những hiện tượng phức tạp của thế giới thực tại những đặc điểm của một hệ thống kinh tế có ý nghĩa quan trọng trong việc giúp nắm giữ được những mối quan hệ về hành vi, thể chế và kỹ thuật là nền tẳng của hệ thống đó.'
+ @model
+- mô hình; hình mẫu
+- m. of calculation sơ đồ tính
+- m. of economy mô hình kinh tế
+- deformable m. mô hình biến dạng được
+- experomental m. (máy tính) mẫu thí nghiệm
+- geometric(al) m. (máy tính) mô hình hình học
+- iconic m. mô hình lặp lại đúng đối tượng
+- pilot m. mô hình thí nghiệm
+- production m. (toán kinh tế) mô hình sản xuất
+- table m. (máy tính) mô hình để bàn
+- urn m. (thống kê) mô hình bình 
+ @modeller  
+*  dt
+- người làm mẫu vật, người làm mô hình, người làm khuôn tượng
+
+@modelling  
+*  dt
+- nghệ thuật làm mẫu vật, nghệ thuật làm mô hình, nghệ thuật làm khuôn tượng
+- nghề mặc quần áo làm mẫu (cho khách xem)
+
+@modem
+- bộ điều giải, modem
+ @moderate  
+*  tt
+- vừa phải; phải chăng, có mức độ; điều độ
+
++ moderate prices: giá cả phải chăng
+- ôn hoà, không quá khích
+
++ a man of moderate opinion: một người có tư tưởng ôn hoà
+*  dt
+- người ôn hoà
+*  ngdgt
+- làm cho ôn hoà, làm dịu, làm giảm nhẹ, làm bớt đi, tiết chế
+
++ to moderate one's anger: bớt giận
+*  ndgt
+- dịu đi, nhẹ đi, bớt đi
+
++ the wind is moderrating: gió nhẹ đi, gió bớt lộng
+
+@moderately
+* dt
+- ở một mức độ vừa phải; không nhiều lắm; trầm lặng
+
++  a moderately good performance:một cuộc trình diễn không hay lắm
+
++  a moderately expensive house:một căn nhà không đắt lắm
+ @moderateness  
+*  dt
+- tính ôn hoà
+- sự tiết chế, sự điều độ
+- tính vừa phải, tính phải chăng
+
+@moderation  
+*  dt
+- sự tiết chế, sự điều độ
+
++ moderation in eating and drinking: sự ăn uống điều độ
+- (số nhiều,  (thường) (viết tắt) mods) kỳ thi phần thứ nhất bằng tú tài văn chương (trường đại học Ôc-phớt)
+
+@moderation
+- sự làm chận [sự, độ] giảm tốc
+- m. of neutrons sự làm chậm nơtron 
+ @moderato
+* dthạc (nhịp)
+- vừ phải
+ @moderator  
+*  dt
+- người điều tiết, máy điều tiết
+
++ moderator lamp: đèn có máy điều tiết dầu
+- người hoà giải, người làm trung gian
+- giám khảo kỳ thi phần thứ nhất bằng tú tài văn chương (trường đại học Ôc-phớt)
+- (tôn giáo) chủ tịch giáo hội
+
+@modern  
+*  tt
+- hiện đại
+
++ modern science: khoa học hiện đại
+- cận đại
+
++ modern history: lịch sử cận đại
+*  dt
+- người cận đại, người hiện đại
+- người ưa thích cái mới, người có quan điểm mới
+
+@modern
+- mới, hiện đại
+ @Modern quantity theory of money
+- (Econ) Thuyết định lượng tiền tệ hiện đại.
+: Xem MONETARISM, MONEY, THE DEMAND FOR.
+ @Modern sector
+- (Econ) Khu vực hiện đại.
+: Một tên gọi khác của khu vực công nghiệp, hoặc đôi khi dùng để gọi khu vực chính phủ.
+ @modernise   (modernise) @modernism  
+*  dt
+- quan điểm mới, phương pháp mới; quan điểm hiện đại, phương pháp hiện đại
+- (ngôn ngữ học) từ ngữ cận đại
+- chủ nghĩa tân thời
+- (tôn giáo) chủ nghĩa đổi mới
+
+@modernist  
+*  dt
+- người ủng hộ cái mới
+- người theo chủ nghĩa tân thời
+- (tôn giáo) người theo chủ nghĩa đổi mới
+
+@modernistic  
+*  tt
+- (thuộc) quan điểm (tư tưởng, phương pháp...) hiện đại
+
+@modernity  
+*  dt
+- tính chất hiện đại
+- cái hiện đại
+
+@modernization  
+*  dt
+- sự hiện đại hoá; sự đổi mới
+
+@modernize   (modernise) @modernizer  
+*  dt
+- người hiện đại hoá; người đổi mới (cái gì...)
+
+@modernly
+- trạng từ
+- hiện đại, theo tinh thần hiện đại
+ @modest  
+*  tt
+- khiêm tốn, nhún nhường, nhũn nhặn
+
++ the hero was very modest about his great deals: người anh hùng rất khiêm tốn về những chiến công to lớn của mình
+- thuỳ mị, nhu mì, e lệ
+
++ a modest girl: một cô gái nhu mì
+- vừa phải, phải chăng, có mức độ; bình thường, giản dị
+
++ my demands are quite modest: những yêu cầu của tôi rất là phải chăng
+
++ a modest little house: một căn nhà nhỏ bé giản dị
+
+@modesty  
+*  dt
+- tính khiêm tốn, tính nhún nhường, tính nhũn nhặn
+- tính thuỳ mị, tính nhu mì, tính e lệ
+- tính vừa phải, tính phải chăng, tính bình thường, tính giản dị
+
+@modi
+- số nhiều của modus
+ @modicum  
+*  dt
+- số lượng ít ỏi, số lượng nhỏ, chút ít
+
++ some bread and a modicum of cheese: một ít bánh và một chút phó mát
+
+@modifiability  
+*  dt
+- tính có thể sửa đổi, tính có thể biến cải, tính có thể thay đổi
+- (ngôn ngữ học) tính có thể bổ nghĩa
+
+@modifiable  
+*  tt
+- có thể sửa đổi, có thể biến cải, có thể thay đổi
+- (ngôn ngữ học) có thể bổ nghĩa
+
+@modification  
+*  dt
+- sự sửa đổi, sự biến cải, sự thay đổi
+- sự làm giảm nhẹ, sự bớt đi, sự dịu đi
+- (ngôn ngữ học) sự biến thể; hiện tượng biến âm sắc
+- (ngôn ngữ học) sự bổ nghĩa
+
+@modification
+- sự đổi dạng, sự (thay) đổi, sự điều chỉnh
+- m. of orders (máy tính) đổi lệnh
+- address m. (máy tính) đổi địa chỉ
+ @modificative   (modificatory) @modificatory
+* tt
+- dể sửa đổi @modifier  
+*  dt
+- (ngôn ngữ học) từ bổ nghĩa
+
+@modify  
+*  ngdgt
+- giảm bớt, làm nhẹ, làm dịu
+
++ to modify one's tone: dịu giọng, hạ giọng
+- sửa đổi, thay đổi
+
++ the revolution modified the whole social structure of the country: cách mạng đã làm thay đổi cả cấu trúc xã hội của đất nước
+- (ngôn ngữ học) thay đổi (nguyên âm) bằng hiện c lao lực
+- sự hỗn loạn, sự lộn xộn
+*  ndgt
+- lao lực
+!to toil and moil
+- làm đổ mồ hôi nước mắt
+
+@modify
+- đổi (dạng); điều chỉnh
+ @Modigliani, Franco
+- (Econ) (1918-)
+: Là nhà kinh tế học người Mỹ gốc Italia được trao giải thưởng Nobel kinh tế vào năm 1985 chính nhờ tác phẩm về hàm tiêu dùng, trong đó sáng tạo lớn nhất của ông là giả thiết về chu kỳ sống. Modigliani cũng có những đóng góp quan trọng vào học thuyết tư bản, đặc biệt là về chi phí tư bản trong học thuyết MODIGLIANI - MULLER. Xem CAPITAL STRUCTURE.
+ @Modigliani-Miller theory of cost of capital
+- (Econ) Học thuyết về chi phí tư bản của Modigliani-Miller.
+: Xem CAPITAL STRUCTURE.
+ @modish
+* tt
+- đúng kiểu, đúng mốt, hợp thời trang
+ @modishly
+- trạng từ
+- theo mốt tân thời
+@modishness
+* dt
+- sự đúng kiểu, sự đúng mốt, tính hợp thời trang
+ @modiste
+* dt
+- người may mũ áo phụ nữ
+ @mo-drive
+- ổ đựa từ-quang
+ @mods
+- kỳ thi phần thứ nhất bằng tú tài văn chương (trường đại học Ôc-phớt)
+ @modula-2
+- Tên một ngôn ngữ lập trình bậc cao để mở rộng Pascal
+ @modular
+- tính chất môđun, môđun tính
+ @modular
+- môđula; (thuộc) môđun
+ @modulate
+* dgt
+- sửa lại cho đúng, điều chỉnh
+- (:to) làm cho phù hợp
+- uốn giọng, ngân nga, lên giọng xuống giọng
+- <nhạc> chuyển giọng
+- <rađiô> điều biến
+ @modulateb
+- (vật lí)biến điệu
+ @modulated
+- (vật lí)bị biến điệu
+ @modulation
+* dt
+- sự uốn giọng, sự ngân nga, giọng lên xuống trầm bổng
+- <nhạc> sự chuyển giọng
+- <rađiô> sự điều biến
+ @modulation
+- (vật lí) sự biến điệu
+- amplitude frequency m. sự điều chỉnh biên -tần; sự biến điệu biên- tần
+- cross m. sự biến điệu chéo nhau
+- frequency m. sự biến điệu tần số
+- phase m. (điều khiển học)sự biến điệu pha
+- on-off m. sự thao tác
+- pulse m. sự biến điệu xung
+- pulse-position m. sự biến điệu pha xung
+- pulse-width m. sự biến điệu xung rộng
+- spurious m. sự biến điệu parazit
+- time m. sự biến điêụ theo thời gian, sự biến điệu tạm thời 
+ @modulatorb
+- (vật lí) máy biến điệu
+ @module
+* dt
+- đơn vị đo
+- <lý> môđun, suất
+- <kỹ> bộ phận tháo rời được (máy tính điện tử...)
+- đơn nguyên
+ @module
+- (đại số) môđun m. with differentiation môđun vi phân, môđun có
+- phép lấy vi phân 
+- algebra m. môđun đại số
+- complementary m. môđun bù
+- crossed m. môđun chéo
+- derived m. môđun dẫn suất
+- difference m. môđun sai phân
+- differential m. môđun vi phân
+- dual m. môđun đối ngẫu
+- factor m. môđun thương
+- flat m. môđun phẳng
+- free m. môđun tự do
+- hypercohomology m. môđun siêu đối đồng điều
+- hyperhomology m. môđun siêu đồng đều 
+- injective m. môđun nội xạ
+- n-graded m. môđun n-phân bậc
+- polynomial m. môđun trên vành đa thức
+- projective m. môđun xạ ảnh
+- quotient m. môđun thương
+- representative m. môđun đại diện
+- right m. môđun phải
+- ring m. môđun trên vành
+- strictly cyclic m. môđun xilic ngặt
+- weakly injective m. môđun nội xạ
+- weakly projective m. môđun xạ ảnh yếu 
+ @moduli
+- số nhiều của modulus
+ @modulo
+- (theo) môđun, môđulô
+- congruous m. A so sánh được môđulô A, đồng dư môđulô A 
+ @Modulus
+- (Econ) Giá trị tuyệt đối.
+: Xem ABSOLUTE VALUE.
+ @modulus
+* dt
+- <lý> môđun, suất
+- <kỹ> bộ phận tháo rời được (máy tính điện tử...)
+ @modulus
+- môđun, giá trị tuyệt đối
+- m. of a complex number (giải tích) môđun của số phức
+- m. of compression môđun nén 
+- m. of a congruence môđun của đồng dư thức
+- m. of continuity (giải tích) môđun liên tục
+- m. of an elliptic integral (giải tích) môđun của tích phân eliptic
+- m. of logarithm môđun của lôga
+- m. of natural logarithms môđun của lôga tự nhiên
+- m. of periodicity môđun tuần hoàn
+- m. of precision (thống kê) môđun chính xác
+- m. of regularity môđun chính quy
+- m. of resilience môđun đàn hồi
+- m. of rigidity (cơ học) môđun [trượt, cắt]
+- bulk m. môđun mớ
+- elastic m. (cơ học) môđun đàn hồi
+- mean square m. môđun bình phương trung bình
+- reduced m. môđun rút gọn
+- reduced m. of elasticity môđun đàn hồi rút gọn
+- section m. (cơ học) môđun chống uốn của một mặt cắt
+- shear m. môđun [cắt trượt] 
+ @modus
+- dt số nhiều modi
+ @modus operandi
+* dt
+- cách làm việc, cách làm (một việc gì)
+ @modus vivendi
+* dt
+- cách sống
+- <chtrị> tạm ước
+ @mogadon
+* dt
+- một loại thuốc ngủ
+ @mogul
+* tt
+- Mogul thuộc Mông-cổ
+* dt
+- Mogul người Mông-cổ
+- người có vai vế, người có thế lực
+ @mohair
+* dt
+- vải nỉ angora
+ @mohammedan
+* tt
+- (thuộc) Mô-ha-mét; (thuộc) Hồi giáo
+ @mohammedanism
+* dt
+- Hồi giáo, đạo Hồi
+ @mohawk
+* dt
+- người Mô-hóoc (thổ dân Bắc-Mỹ)
+- tiếng Mô-hóoc
+ @mohican
+* dt
+- người Mô-i-can (thổ dân Bắc-Mỹ)
+ @moiety
+* dt
+- <pháp> nửa
+ @moil
+* dt
+- sự lao lực; công việc lao lực
+- sự hỗn loạn, sự lộn xộn
+* ndgt
+- lao lực
+ @moises
+* dt
+- <sinh> sự phân bào giảm nhiễm
+ @moisis  
+*  dt,  số nhiều mioses  @moist  
+*  tt
+- ẩm; ẩm ướt, ướt lấp nhấp
+
++ moist season: mùa ẩm
+- (y học) chẩy m
+
+@moisten  
+*  ngdgt
+- làm ẩm, dấp nước
+
++ to moisten the lips: liếm môi
+*  ndgt
+- thành ra ẩm ướt; ẩm ướt
+
++ to moisten at one's eyes: rơm rướm nước mắt
+
+@moistness  
+*  dt
+- tình trạng ẩm ướt, tình trạng ướt lấp nhấp
+
+@moisture  
+*  dt
+- hơi ẩm; nước ẩm đọng lại; nước ẩm rịn ra
+
+@moisture-free
+- xem moistureless
+ @moistureless
+* tt
+- khô ráo, không ẩm ướt
+ @moisturize  
+*  ngdgt
+- làm cho ẩm
+
+@moisty
+* tt
+- có (đầy) sương mù @moke  
+*  dt
+- (từ lóng) con lừa
+- (từ Mỹ,nghĩa Mỹ), ghuộm đen
+
+@molar  
+*  tt
+- (thuộc) răng hàm
+- để nghiến
+*  tt
+- (hoá học) phân tử gam
+
+@molar
+- (thuộc) phần tử gam
+ @molarity  
+*  dt
+- (hoá học) nồng độ phân tử gam
+
+@molasses  
+*  dt,  số nhiều dùng như số ít
+- mật; nước rỉ đường ((cũng) treacle)
+![as] slow as molasses
+- (từ Mỹ,nghĩa Mỹ) chậm như rùa
+
+@mold  
+*  dt & ngdgt
+- (từ Mỹ,nghĩa Mỹ) (như) mould
+
+@mole  
+*  dt
+- đê chắn sóng
+*  dt
+- nốt ruồi
+*  dt
+- (động vật học) chuột chũi
+!as blind as a mole
+- mù tịt
+
+@mole
+- (vật lí) phân tử gam, môn
+ @mole-catcher  
+*  dt
+- người chuyên bắt chuột chũi
+
+@molecular  
+*  tt
+- (thuộc) phân t
+
+@molecular
+- (vật lí) (thuộc) phân tử
+ @molecule  
+*  dt
+- (hoá học) phân t
+
+@molecule
+- phân tử
+ @molehill  
+*  dt
+- đất chuột chĩu đùn lên
+!to make mountain out of molehills
+- việc bé xé ra to
+
+@moleskin  
+*  dt
+- da lông chuột chũi
+- nhung vải môletkin
+- quần áo bằng nhung vải môletkin
+
+@molest  
+*  ngdgt
+- quấy rầy, quấy nhiễu, làm phiền
+- (từ Mỹ,nghĩa Mỹ) gạ gẫm (ai)
+
+@molestation  
+*  dt
+- sự quấy rầy, sự quấy nhiễu, sự làm phiền
+- (từ Mỹ,nghĩa Mỹ) sự gạ gẫm
+
+@molester  
+*  dt
+- người quấy rầy, người làm phiền
+- (từ Mỹ,nghĩa Mỹ) người gạ gẫm
+
+@moll  
+*  dt
+- (như) gun_moll
+- (từ lóng) gái điếm
+
+@mollification  
+*  dt
+- sự làm giảm đi, sự làm bớt đi, sự làm dịu đi, sự làm nguôi đi, sự xoa dịu
+
+@mollify  
+*  ngdgt
+- làm giảm đi, làm bớt đi, làm dịu đi, làm nguôi đi, xoa dịu
+
++ to mollify someone's anger: làm nguôi cơn giận của ai
+
+@mollusc   (mollusk) @mollusca
+* dt
+- động vật thân mềm, loài nhuyễn thể
+ @molluscous
+* tt
+- xem mollusca
+- bặc nhược
+- mềm yếu, nhu nược
+ @mollusk   (mollusk) @molly  
+*  dt
+- người đàn ông ẻo lả, cậu bé ẻo lả
+- (từ lóng) cô gái; người đàn bà trẻ
+- (từ lóng) gái điếm, đĩ
+
+@molly-coddle  
+*  dt
+- người đàn ông ẻo lả, yếu đuối
+
+@mollycoddle
+* ngdgt
+- nuông chiều thái quá
+* dt
+- người được nuông chiều thái quá
+ @moloch  
+*  dt
+- thần Mô-lốc (thường hằng năm phải dùng trẻ con làm vật cúng tế)
+- (nghĩa bóng) tai hoạ lớn (gây chết chóc)
+- (động vật học) thằn lằn gai
+
+@molotov coctail  
+*  dt
+- (từ lóng) lựu đạn cháy chống xe tăng
+
+@molt  
+*  dt
+- sự rụng lông, sự thay lông
+
++ bird in the moult: chim đang thay lông
+*  dgt moult
+- rụng lông, thay lông (chim)
+
+@molten  
+*  tt
+- nấu chảy (kim loại)
+
+@molybdenum  
+*  dt
+- (hoá học) Molypdden
+
+@mom  
+*  dt: (mama) @moment  
+*  dt ((thông tục) (cũng) mo)
+- chốc, lúc, lát
+
++ wait a moment: đợi một lát
+
++ at any moment: bất cứ lúc nào
+
++ the [very] moment [that]: ngay lúc mà
+
++ at the moment: lúc này, bây giờ
+
++ at that moment: lúc ấy, lúc đó
+- tầm quan trọng, tính trọng yếu
+
++ an affair of great moment: một việc đó có tầm quan trọng lớn
+
++ a matter of moment: một vấn đề quan trọng
+- (kỹ thuật),  (vật lý) Mômen
+
+@moment
+- mômen; thời điểm; quan trọng
+- m. of a family of curves mômen của một họ đường cong
+- m. of a force mômen của một lực
+- m. of a frequency distribution (xác suất) mômen của phân phối tần số
+- m. of inertia (cơ học) mômen quán tính
+- m. of mass mômen tĩnh
+- m. of momentum mômen động lượng
+- m. of precession mômen tuế sai
+- bending m. mômen uốn
+- bilinear m. mômen song tuyến tính
+- corrected m. (thống kê) mômen đã sửa, mômen đã hiệu chỉnh
+- curde m. (thống kê) mômen không trung tâm
+- factorial m. (toán kinh tế) mômen giai thừa
+- group m. mômen nhóm
+- hinge m. mômen tiếp hợp
+- incomplete m. (xác suất) mômen khuyết
+- joint m. (thống kê) mômen hỗn tạp
+- magnetic m. (vật lí) mômen từ
+- multipole m. mômen cực bội
+- multivariate m. mômen hỗn tạp
+- pitching m. mômen [dọc, lên xuống]
+- polar m. of inertia mômen quán tính
+- population m. mômen tổng quát, mômen của phân phối
+- principal m. of inertia mômen quán tính chính
+- product m. mômen tích, mômen hỗn tạp
+- raw m. (thống kê) mômen đối với gốc tuỳ ý 
+- rolling m. mômen nghiêng
+- sampling m. mômen mẫu
+- second m. mômen cấp hai
+- static(al) m. (cơ học) mômen tĩnh
+- twisting m. mômen xoắn
+- unadjusted m. (thống kê) mômen không được hiệu chỉnh nhóm
+- unbalanced m. mômen không cân bằng
+- yawing m. mômen đảo lại 
+ @moment of truth  
+*  dt
+- lúc người đấu bò sắp hạ thủ (con bò)
+- giờ phút thử thách, lúc gay go quyết định
+
+@momenta  
+*  dt,  số nhiều momenta  @momentarily
+- trạng từ
+- ngay tức khắc
+- trong giây lát
+- từng phút từng giây
+- tí nữa, ngay bây giờ (thôi)
+ @momentariness  
+*  dt
+- tính nhất thời, tính tạm thời; thời gian ngắn
+
+@momentary  
+*  tt
+- chốc lát, nhất thời, tạm thời, thoáng qua, không lâu, ngắn ngủi
+
+@momently  
+*  dt
+- lúc lắc, luôn luôn
+- trong chốc lát, nhất thời, tạm thời
+
+@momentous  
+*  tt
+- quan trong, trọng yếu
+
+@momentousness  
+*  dt
+- tính chất quan trong, tính chất trọng yếu
+
+@Moments
+- (Econ) Mô men
+: Là một thuật ngữ mô tả THỐNG KÊ tổng có tác dụng để biểu thị đặc điểm hình dạng và vị trí của một PHÂN PHỐI XÁC SUẤT, hoặc một mẫu số liệu.
+ @momentum  
+*  dt,  số nhiều momenta  @momentum m.
+- (vật lí) động lượng, xung
+- angular m. mômen động (lượng)
+- generalized m. xung suy rộng, động lượng suy rộng
+- gyroscopic m. mômen hồi chuyển 
+ @momism  
+*  dt
+- sự quá ngưỡng mộ mẹ; sự quá lệ thuộc vào mẹ
+
+@momma  
+*  dt: (mama) @mommy
+* dt
+- mẹ (cũng) mummy
+ @mon
+* (viết tắt)
+- thứ Hai (Monday)
+- viết tắt
+- thứ Hai (Monday)
+ @monad  
+*  dt
+- (triết học) đơn t
+
+@monadism  
+*  dt
+- (triết học) thuyết đơn t
+
+@monadology
+* dt
+- thuyết đơn tử
+ @monandrous  
+*  tt
+- (thực vật học) chỉ có một nhị
+- (thuộc) chế độ một chồng
+
+@monandry  
+*  dt
+- chế độ một chồng
+
+@monarch  
+*  dt
+- vua, quốc vương ((nghĩa đen) & (nghĩa bóng))
+- bướm chúa, bướm sâu bông tai
+
+@monarchal   (monarchical) @monarchic
+- như monarchical
+ @monarchical   (monarchical) @monarchism  
+*  dt
+- chủ nghĩa quân ch
+
+@monarchist  
+*  dt
+- người theo chủ nghĩa quân ch
+
+@monarchistic  
+*  tt
+- (thuộc) chủ nghĩa quân chủ, quân chủ chủ nghĩa
+
+@monarchy  
+*  dt
+- nền quân chủ; chế độ quân chủ
+
++ constitutional monarchy: chế độ quân chủ lập hiến
+- nước (theo chế độ) quân ch
+
+@monastery  
+*  dt
+- tu viện
+
+@monastic  
+*  tt
+- (thuộc) tu viện
+- (thuộc) phong thái thầy tu
+
+@monasticism  
+*  dt
+- đời sống ở tu viện
+- chế độ tu
+
+@monaxial  
+*  tt
+- một trục, đơn trục
+
+@monday  
+*  dt
+- ngày thứ hai
+!Black Monday
+- (từ lóng) ngày khai trương
+!to keep St. Monday
+- nghỉ ngày thứ hai
+
+@mondayish  
+*  tt
+- (thông tục) uể oải, mệt mỏi
+
+@mondayist
+* tt
+- không muốn làm việc sau ngày chủ nhật
+ @monde  
+*  dt
+- thế giới
+- xa hội
+- giới sang trọng
+
+@mondial
+* tt
+- thuộc thế giới, toàn thế giới
+ @Monetarism
+- (Econ) Chủ nghĩa trọng tiền.
+: Là một trường phái tư duy kinh tế lập luận rằng những xáo trộn trong lĩnh vực tiền tệ là nguyên nhân chủ yếu của sự bất ổn trong nền kinh tế.
+ @monetarism
+* dt
+- phương pháp kiểm tra sự lưu thông tiền tệ để ổn định nền kinh tế
+ @Monetarists
+- (Econ) Những người theo thuyết trọng tiền.
+ @monetary  
+*  tt
+- (thuộc) tiền tệ
+
++ monetary unit: đơn vị tiền tệ
+- (thuộc) tiền tài
+
+@Monetary accommodation
+- (Econ) Sự điều tiết tiền tệ.
+ @Monetary aggregate
+- (Econ) Cung tiền (M1,M2,M3).
+ @Monetary base
+- (Econ) Cơ số tiền tệ.
+ @Monetary overhang
+- (Econ) Sự sử dụng quá nhiều tiền mặt.
+ @Monetary standard
+- (Econ) Bản vị tiền tệ.
+ @Monetary Union
+- (Econ) Liên minh tiền tệ.
+ @monetise   (monetise) @monetization  
+*  dt
+- sự đúc thành tiền
+- sự cho lưu hành làm tiền tệ
+
+@monetize   (monetise) @Monetized economy
+- (Econ) Nền kinh tế tiền tệ hoá.
+ @money  
+*  dt
+- tiền, tiền tệ
+
++ paper money: tiền giấy
+- tiền, tiền bạc
+
++ to make money: kiếm tiền
+
++ to pay money down: trả tiền mặt
+- (số nhiều) những món tiền
+- (số nhiều) (thông tục) tiền của, của cải, tài sản
+
++ in the money: (từ lóng) giàu nứt đố đổ vách; chiếm giải (nhất, nhì, ba) (ngựa đua...)
+!to coin money
+- (xem) coin
+!for my money
+- (thông tục) theo ý tôi; theo sở thích của tôi
+!to marry money
+- lấy chồng giàu; lấy vợ giàu
+!money makes the mare [to] go
+- có tiền mua tiên cũng được
+!money for jam (for old rope)
+- (từ lóng) làm chơi ăn thật
+
+@money
+- (toán kinh tế) tiền, tổng số tiền
+- hard m. (toán kinh tế) tiền vay
+ @Money illusion
+- (Econ) Ảo tưởng về tiền.
+ @Money market equilibrium
+- (Econ) Sự cân bằng của thị trường tiền tệ.
+ @Money multiplier
+- (Econ) Số nhân tiền tệ.
+: 1)Xem CREDIT MULTIPLIER. 2)Là hệ số của mức cung tiền thực tế trong phương trình thu nhập dạng đơn giản rút gọn trong mô hình kinh tế vĩ mô.
+ @Money price
+- (Econ) Giá của tiền.
+: Xem PRICE.
+ @Money stock
+- (Econ) Dung lượng tiền.
+: Là một cách gọi khác của cung tiền.
+ @Money supply
+- (Econ) Cung tiền.
+: Là số lượng tiền trong một nền kinh tế, có nhiều định nghĩa khác nhau liên quan đến các tài sản có khả năng chuyển hoán mà được coi là tiền tệ.
+ @Money terms
+- (Econ) (Biểu thị giá trị) bằng tiền.
+: Là việc biểu hiện những giá trị của một loại hàng hoá theo tiền trên danh nghĩa - hay nó cách khác là bao gồm cả những thay đổi trong mức giá chung.
+ @money-bag  
+*  dt
+- túi đựng tiền; ví đựng tiền
+- (số nhiều) của cải, tài sản
+- (số nhiều) người có của, người tham tiền
+
+@money-bags
+* dt (số nhiều không đổi)
+- của cải, tài sản
+- người giàu ngông; kẻ trọc phú
+- dt (số nhiều không đổi)
+- của cải, tài sản
+- người giàu ngông; kẻ trọc phú
+ @money-box  
+*  dt
+- ống tiền tiết kiệm
+- hộp tiền quyên góp
+
+@money-changer  
+*  dt
+- người đổi tiền
+
+@moneyed  
+*  tt
+- có nhiều tiền, giàu có
+
++ a moneyed man: người giài có
+- bằng tiền
+
++ moneyed assistance: sự giúp tiền
+
+@money-grubber  
+*  dt
+- kẻ bo bo giữ tiền
+- kẻ xoay xở làm giàu
+
+@money-grubbing  
+*  dt
+- tính bo bo giữ tiền
+- sự xoay xở làm giàu
+
+@money-lender  
+*  dt
+- kẻ cho vay lãi
+
+@moneyless  
+*  tt
+- không tiền; (thông tục) không một xu dính túi, nghèo rớt mồng tơi
+
+@money-maker  
+*  dt
+- người lo, làm tiền, người giỏi làm tiền
+- món mang lợi
+
+@money-making  
+*  dt
+- sự làm tiền
+- sự mang lợi
+- sự đúc tiền
+*  tt
+- mang lợi, có thể làm lợi
+
+@money-man  
+*  dt
+- người đầu tư, người bỏ vốn, người xuất tiền (cho một việc kinh doanh...)
+
+@money-market  
+*  dt
+- thị trường chứng khoán
+
+@money-order  
+*  dt
+- phiếu gửi tiền (qua bưu điện)
+
+@money-spider   (money-spinner) @money-spinner   (money-spinner) @money's-worth  
+*  dt
+- vật thay tiền
+
+@money-taker  
+*  dt
+- người thu tiền, thủ qu
+
+@moneywort  
+*  dt
+- (thực vật học) cây trân châu
+
+@monger  
+*  dt
+- lái, lái buôn (chủ yếu dùng trong từ ghép)
+
+@mongering  
+*  dt
+- sự buôn bán; nghề lái buôn
+
+@mongol   (Mongolian) @mongolian   (Mongolian) @mongolism
+* dt
+- hội chứng Down
+ @mongoloid
+* tt
+- có đặc tính của người Mông Cổ (tay to, da vàng)
+- có đặc tính của hội chứng Down
+ @mongoose  
+*  dt
+- (động vật học) cầy mangut
+
+@mongrel  
+*  dt
+- chó lai
+- người lai; vật lai; cây lai
+
+@mongrelise   (mongrelise) @mongrelism  
+*  dt
+- tính chất lai
+
+@mongrelization  
+*  dt
+- sự lai giống
+
+@mongrelize   (mongrelise) @mongrelizer  
+*  dt
+- người lai giống
+
+@monial
+- xem mullion
+ @monied
+- xem moneyed
+ @monies
+- xem money
+ @moniker
+* dt
+- tên lóng; biệt danh
+ @monims  
+*  dt
+- (triết học) thuyết nhất nguyên
+
+@monish
+- xem admonish
+ @monism
+* dt
+- Nhất Nguyên luận
+ @monist  
+*  dt
+- người theo thuyết nhất nguyên
+
+@monistic  
+*  tt
+- (triết học) (thuộc) thuyết nhất nguyên
+
+@monition  
+*  dt
+- sự cảnh cáo trước, sự báo trước (nguy hiểm...)
+- (tôn giáo) lời răn trước, lời cảnh giới
+- (pháp lý) giấy gọi ra toà
+
+@monitor  
+*  dt
+- trưởng lớp, cán bộ lớp (ở trường học)
+- (hàng hải) tàu chiến nhỏ
+- người chuyên nghe và ghi các buổi phát thanh, hiệu thính viên
+- máy phát hiện phóng xạ
+- (raddiô) bộ kiểm tra
+- (từ cổ,nghĩa cổ) người răn bảo
+*  dgt
+- nghe và ghi các buổi phát thanh; nghe để kiểm tra chất lượng (một cuộc thu tiếng)
+- giám sát
+
+@monitor
+- (máy tính) mônitơ, thiết bị điều khiển
+ @monitorial
+* tt
+- hướng dẩn, dạy dổ, khuyên bảo
+- có liên quan đến trách nhiệm lớp trưởng
+ @monitoring
+* dt
+- sự định phân
+- sự kiểm tra
+- sự kiểm tra định lượng
+- sự ghi thông báo vô tuyến đị 6 n
+ @monitory  
+*  tt
+- (thuộc) sự báo trước (nguy hiểm...)
+- để răn bảo
+*  dt
+- thư khuyên bảo ((cũng) monitory letter)
+
+@monitress  
+*  dt
+- chị trưởng lớp
+
+@monk  
+*  dt
+- thầy tu, thầy tăng
+!superior monk
+- thượng toạ
+
+@monkery  
+*  dt
+- (thông tục) bọn thầy tu
+- đời sống ở tu viện; lề thói thầy tu
+- tu viện
+
+@monkey  
+*  dt
+- con khỉ
+- (thông tục) thằng nhãi, thằng ranh, thằng nhóc
+- cái vồ (để nện cọc)
+- (từ lóng) món tiền 500 teclinh; món tiền 500 đô la
+!to get one's monkey up
+- (xem) get
+!to have a monkey on one's back
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nghiện thuốc phiện
+*  ngdgt
+- bắt chước
+*  ndgt
+- làm trò khỉ, làm trò nỡm
+- (từ Mỹ,nghĩa Mỹ),  (thường) (: about,  around) mất thì giờ về những trò táy máy lặt vặt
+
+@monkey business  
+*  dt
+- trò khỉ, trò nỡm, trò hề
+
+@monkey-block  
+*  dt
+- ròng rọc xoay
+
+@monkey-bread  
+*  dt
+- quả baobap
+- (thực vật học) cây baopbap
+
+@monkeyish  
+*  tt
+- khỉ, nỡm; rởm
+
+@monkeyishness  
+*  dt
+- trò khỉ, trò nỡm, sự bắt chước rởm
+
+@monkey-jacket  
+*  dt
+- áo chẽn ngắn (của thuỷ thủ)
+
+@monkey-nut  
+*  dt
+- lạc
+
+@monkey-puzzle
+* dt
+- cây có gai (ở cành)
+ @monkey-shine  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) trò khỉ, trò nỡm, sự bắt chước rởm
+
+@monkey-wrench  
+*  dt
+- (kỹ thuật) chìa vặn điều cữ
+- (từ Mỹ,nghĩa Mỹ) vật chướng ngại, cái cản tr
+
+@monkhood  
+*  dt
+- thân phận thầy tu
+
+@monkish  
+*  tt
+- (thường), nhuội thuộc) thầy tu, như thầy tu
+
+@monkishness  
+*  dt
+- (thường)(thân mật) thầy tu; sự giống thầy tu
+
+@monlage
+* dt
+- hình đổ khuôn
+ @monocarp  
+*  dt
+- (thực vật học) cây ra quả một lần, cây một đời quả
+
+@monocarpic  
+*  tt
+- (thực vật học) ra quả một lần, một đời quả ((cũng) monocarpous)
+
+@monocarpous  
+*  dt
+- (thực vật học) có quả đơn
+- (như) monocarpic
+
+@monochord  
+*  dt
+- (âm nhạc) đàn một dây, đàn bầu
+
+@monochromatic  
+*  tt
+- đơn sắc, một màu ((cũng) monochrome)
+
+@monochromatic
+- (vật lí) đơn sắc
+ @monochrome  
+*  tt
+- (như) monochromatic
+*  dt: (monotint) @monochromist  
+*  dt
+- người vẽ tranh một màu
+
+@monocle  
+*  dt
+- kính một mắt
+
+@monoclinal  
+*  tt
+- (địa lý,ddịa chất) đơn nghiêng
+
+@monoclinal, monoclinic
+- đơn tà
+ @monocotyledon  
+*  dt
+- (thực vật học) cây một lá mầm
+
+@monocotyledonous  
+*  tt
+- (thực vật học) có một lá mầm; (thuộc) nhóm cây một lá mầm
+
+@monocracy
+* dt
+- chế độ chuyên quyền độc tài
+@monocrat
+* dt
+- nhà độc tài
+ @monocular  
+*  tt
+- có một mắt
+- (thuộc) một mắt; dùng cho một mắt
+
+@monocultural  
+*  tt
+- độc canh
+
+@monoculture  
+*  dt
+- sự độc canh
+
+@Monoculture
+- (Econ) Độc canh
+: Là tập quán canh tác một loại hoa màu trên một diện tích đất đai nhất định, tập quán này xuất hiện tại Anh trước cách mạng ruộng đất và hiện vẫn còn phổ biến ở các vùng nhiệt đới.
+ @monocycle  
+*  dt
+- xe đạp một bánh
+
+@monodactylous  
+*  tt
+- động có một ngón
+
+@monodic   (monodical) @monodical   (monodical) @monodist  
+*  dt
+- người làm thơ độc xướng
+- người làm thơ điếu tang
+
+@monodrama  
+*  dt
+- kịch một vai
+
+@monodramatic  
+*  tt
+- (thuộc) kịch một vai
+
+@monodromy
+- (tô pô) đơn đạo
+ @monody  
+*  dt
+- bài thơ độc xướng
+- bài thơ điếu tang
+
+@monogamic
+* tt
+- một vợ một chồng
+ @monogamist  
+*  dt
+- người lấy một vợ; người lấy một chồng
+
+@monogamous  
+*  tt
+- một vợ; một chồng
+
+@monogamy  
+*  dt
+- chế độ một vợ một chồng
+
+@monogenic
+- đơn diễn
+ @monoglot  
+*  tt
+- chỉ nói được một thứ tiếng
+
+@monogram  
+*  dt
+- chữ viết lồng nhau
+
+@monograph  
+*  dt
+- chuyên khảo
+
+@monograph
+- tài liệu chuyên khảo
+ @monographer   (monographist) @monographic   (monographical) @monographical   (monographical) @monographist   (monographist) @monography
+- xem monograph
+ @monogynous  
+*  tt
+- chỉ lấy một vợ
+- (thực vật học) chỉ có một nhuỵ
+
+@monogyny  
+*  dt
+- chế độ một v
+
+@monoid
+- monoit; nửa nhóm
+- augmented m. nửa nhóm được bổ sung 
+ @monoidal
+- (thuộc) monoit
+ @monolingual
+* tt
+- dùng một ngôn ngữ mà thôi; đơn ngữ
+
++  a monolingual dictionary:từ điển một thứ tiếng
+ @monolith  
+*  dt
+- đá nguyên khối
+
+@monolithic  
+*  tt
+- làm bằng đá nguyên khối
+- chắc như đá nguyên khối
+
+@monologic   (monological) @monological   (monological) @monologist   (monologist) @monologize
+* ndgt
+- độc thoại, nói dài dòng
+ @monologue  
+*  dt
+- (sân khấu) kịch một vai; độc bạch
+
+@monologuist   (monologist) @monology
+* dt
+- độc thoại
+- thói quen nói dài dòng
+ @monomachy
+* dt
+- cuộc đấu kiếm @monomania  
+*  dt
+- độc tưởng
+
+@monomaniac  
+*  dt
+- người độc tưởng
+
+@monomaniacal  
+*  tt
+- độc tưởng
+
+@monometer
+* dt
+- thơ độc vận
+ @monometric
+* tt
+- độc vận
+ @monomial
+* dt
+- đơn thức
+* tt
+- thuộc đơn thức
+ @monomial
+- đơn thức
+- pivotal m. đơn thức tựa 
+ @monomorphic
+- đơn cấu, đơn ánh
+ @monomorphism
+- (đại số) phép đơn cấu, phép đơn ánh
+ @monophase
+* tt
+- một pha
+ @monophonic
+* tt
+- chỉ dùng một kênh âm thanh
+ @monophthong
+* dt
+- nguyên âm đơn
+ @monoplane  
+*  dt
+- máy bay một lớp cánh
+
+@Monopolies and Merger Act in1965.
+- (Econ) Đạo luật về độc quyền và sát nhập năm 1965.
+: Đạo luật này có hai quan điểm mới quan trọng trong chính sách cạnh tranh của Anh. Thứ nhất, CÁC CUỘC SÁT NHẬP lớn đều phải chịu sự điều tra của cơ quan hữu trách lúc đó có tên là Uỷ ban về độc quyền. Thứ hai là quy định cho Uỷ ban về độc quyền có quyền điều tra chung về các vụ việc liên quan đến cung cấp các dịch vụ cũng như cung cấp hàng hoá.
+ @Monopolies and Merger Commission
+- (Econ) Uỷ ban về độc quyền và Sát nhập.
+: Tổng giám đốc vè thương mại công bằng và Bộ thương mại và công nghiệp là những người có thể đưa các HÃNG ĐỘC QUYỀN VÀ CÁC VỤ SÁT NHẬP ra điều tra tại Uỷ ban về độc quyền và sát nhập, một tổ chức xét xử hành chính độc lập được thành lập vào năm 1973 thay thế cho Uỷ ban về độc quyền trước đó được thành lập vào năm 1948.
+ @Monopolies and Restrictive Practices (Inquiry and
+- (Econ) Đạo luật Độc quyền và những thông lệ hạn chế (Điều tra và Kiểm soát) 1948.
+: Đạo luật này đánh dấu sự ra đời một chính sách về cạnh tranh của Anh với việc thành lập Uỷ ban về độc quyền và những thông lệ hạn chế.
+ @monopolise   (monopolise) @monopolism  
+*  dt
+- chế độ tư bản độc quyền
+
+@monopolist  
+*  dt
+- người độc quyền; người tán thành chế độ tư bản độc quyền
+*  tt: (monopolistic) @monopolistic  
+*  dt
+- người độc quyền; người tán thành chế độ tư bản độc quyền
+*  tt: (monopolistic) @Monopolistic Competition
+- (Econ) Cạnh tranh độc quyền.
+: Là một học thuyết do E.H.Chamberlin (THUYẾT VỀ CẠNH TRANH VÀ ĐỘC QUYỀN, nhà xuất bản Harvard University, 1933) và J.Robinson (Kinh tế học về cạnh tranh không hoàn hảo, Macmillan,1933) khởi xướng.
+ @monopolization  
+*  dt
+- sự giữ độc quyền
+
+@monopolize   (monopolise) @monopoly  
+*  dt
+- độc quyền; vật độc chiếm
+
++ to make monopoly of...: giữ độc quyền về...
+
++ monopoly capitalist: nhà tư bản độc quyền
+- tư bản độc quyền
+
+@Monopoly
+- (Econ) Độc quyền.
+: Theo nghĩa chính xác nhất của cụm thuật ngữ này thì một doanh nghiệp được coi là độc quyền nếu nó là nhà cung cấp duy nhất một loạt sản phẩm đồng nhất mà không có mặt hàng nào có thể thay thế và có rất nhiều người mua.
+ @Monopoly power
+- (Econ) Quyền lực độc quyền.
+: Là khả năng của một doanh nghiệp hoặc một nhóm các doanh nghiệp trong việc tác động đến giá cả thị trường của một loại hàng hóa hoặc dịch vụ mà họ bán.
+ @Monopoly profit
+- (Econ) Lợi nhuận độc quyền.
+: Xem SUPER-NORMAL PROFITS
+ @Monopsony
+- (Econ) Độc quyền mua.
+: Theo nghĩa chặt chẽ thì một nhà độc quyền mua là người mua duy nhất đối với một yếu tố sản xuất.
+ @monorail  
+*  dt
+- đường một ray (đường xe lửa)
+
+@monorhyme
+- Cách viết khác : monorime 
+ @monority  
+*  dt
+- vị thành niên
+- thiểu số, số ít, ít người; số phiếu thiểu số
+
++ national monority; monority people: dân tộc ít người
+
+@monosexual
+* tt
+- đơn tính (hoa)
+ @monospace
+- đơn cách
+ @monosyllabic  
+*  tt
+- một âm tiết, đơn âm
+
+@monosyllabism  
+*  dt
+- tính chất một âm tiết
+- sự dùng từ một âm tiết
+
+@monosyllable  
+*  dt
+- từ đơn tiết
+
+@monotheism  
+*  dt
+- thuyết một thần; đạo một thần
+
+@monotheist  
+*  dt
+- người theo thuyết một thần; người theo đạo một thần
+
+@monotheistic  
+*  tt
+- (thuộc) thuyết một thần; (thuộc) đạo một thần
+
+@monotint  
+*  tt
+- (như) monochromatic
+*  dt: (monotint) @monotone  
+*  tt
+- (như) monotonous
+*  dt
+- giọng đều đều
+
++ to read in a monotone: đọc giọng đều đều
+*  ngdgt
+- đọc đều đều, nói đều đều, hát đều đều
+
+@monotone
+- đơn điệu
+- fully m. hoàn toàn đơn điệu
+- multiply m. đơn điệu bội 
+ @monotonic
+- đơn điệu
+ @monotonous  
+*  tt
+- đều đều, đơn điệu; buồn tẻ ((cũng) monotone)
+
++ a monotonous voice: giọng đều đều
+
++ a monotonous life: cuộc sống đơn điệu; cuộc sống buồn tẻ
+
+@monotonousness   (monotony) @monotony   (monotony) @monotony
+- tính đơn điệu
+ @monotreme  
+*  dt
+- (động vật học) động vật đơn huyệt
+
+@monotype  
+*  dt
+- (sinh vật học) đại diện duy nhất
+- (ngành in) Mônôtip
+
+@monotypic  
+*  tt
+- chỉ có một đại diện
+
+@monovalence   (monovalency) @monovalency   (monovalency) @monovalent  
+*  tt
+- (hoá học) có hoá trị một
+- (sinh vật học) đơn trị
+
+@monsieur  
+*  dt,  số nhiều messieurs  @monsoon  
+*  dt
+- gió mùa
+- mùa mưa
+
+@monster  
+*  dt
+- quái vật, yêu quái
+- con vật khổng lồ (như giống voi khổng lồ thời tiền sử)
+- (nghĩa bóng) người tàn bạo, người quái ác; người gớm guốc
+
++ a monster of cruelty: một người vô cùng tàn bạo, một con quỷ độc ác
+- quái thai
+*  tt
+- to lớn, khổng lồ
+
++ a monster ship: một chiếc tàu khổng l
+
+@monstg
+- xem amongst
+ @monstrosity  
+*  dt
+- sự kỳ quái, sự quái dị ((nghĩa đen) & (nghĩa bóng))
+- vật kỳ quái, vật quái dị
+
+@monstrous  
+*  tt
+- kỳ quái, quái dị
+- khổng lồ
+- gớm guốc, tàn ác, ghê gớm (tội ác...)
+- (thông tục) hoàn toàn vô lý, hoàn toàn sai
+
+@monstrously
+- trạng từ
+- xem monstrous
+ @monstrousness  
+*  dt
+- tính chất kỳ quái, tính chất quái dị
+- tầm vóc khổng lồ
+- tính chất gớm guốc, tính chất tàn bạo, tính chất ghê tởm
+- (thông tục) tính chất hoàn toàn vô lý, tính chất hoàn toàn sai
+
+@montage  
+*  dt
+- (điện ảnh) sự dựng phim
+
+@montagnard
+* dt
+- người phái núi (trong cách mạng Tư sản Pháp)
+ @montane  
+*  tt
+- (thuộc) núi; ở núi
+
+@monte
+* dt
+- bãi cây lúp xúp, khu rừng con
+ @Monte Carlo method
+- (Econ) Phương pháp Monte Carlo.
+: Là một kỹ thuật nhằm khám phá ra những tính chất nhỏ của mẫu của các Ước tính kinh tế lượng.
+ @montessori method  
+*  dt
+- phương pháp (dạy trẻ) Mông-te-xơ-ri
+
+@month  
+*  dt
+- tháng
+
++ lunar month: tháng âm lịch
+
++ solar month: tháng dương lịch
+!month's mind
+- lễ cầu kinh một tháng sau khi chết; lễ giỗ ba mươi ngày
+!month of Sundays
+- một thời gian dài vô tận
+
+@month
+- (thiên văn) tháng
+- calendar m. tháng dương lịch
+- lunar m. tháng âm lịch 
+ @monthly  
+*  tt & dt
+- hàng tháng
+*  dt
+- nguyệt san, tạp chí ra hằng tháng
+- (số nhiều) kinh nguyệt
+
+@monthly
+- hàng tháng   nguyệt san
+@monticle   (monticule) @monticule   (monticule) @monument  
+*  dt
+- vật kỷ niệm, đài kỷ niệm, bia kỷ niệm, công trình kỷ niệm
+- lâu đài
+- lăng mộ
+- công trình kiến trúc lớn
+- công trình lớn, công trình bất hủ (khoa học, văn học...)
+
++ a monument of science: một công trình khoa học bất hủ
+- nhân vật xuất chúng, anh hùng; mẫu mực, gương sáng
+!the Monument
+- đài kỷ niệm hoả hoạn (năm 1666) ở Luân-ddôn
+
+@monumental  
+*  tt
+- (thuộc) công trình kỷ niệm; dùng làm công trình kỷ niệm
+- vị đại, đồ sộ, bất hủ
+
++ a monumental work: một tác phẩm vĩ đại
+- kỳ lạ, lạ thường
+
++ monumental ignorance: sự ngu dốt lạ thường
+
+@monumentalism  
+*  dt
+- khuynh hướng hoành tráng (trong kiến trúc)
+
+@monumentalize  
+*  ngdgt
+- ghi nhớ, kỷ niệm
+
+@monumentally
+* dt
+- cực kỳ, hết sức
+
++  monumentally stupid, cheeky:cực kỳ ngu xuẩn, láo xược
+ @moo  
+*  dt
+- tiếng bò rống
+
+@mooch   (mouch) @moocher
+* dt
+- đồ chảy thây
+- kẻ lười biếng
+- người ăn xin @mood  
+*  dt
+- (ngôn ngữ học) lối, thức
+
++ imperatives mood: lối mệnh lệnh
+
++ subjunctive mood: lối cầu khẩn
+- (âm nhạc) điệu
+*  dt
+- tâm trạng; tính khí, tâm tính, tính tình
+
++ to be in a merry mood: ở tâm trạng vui vẻ
+
++ a man of moods: người tính khí bất thường
+
+@moodily
+* tt
+- ủ rủ, đăm chiêu, tư lự
+- đỏng đảnh @moodiness  
+*  dt
+- trạng thái buồn rầu, trạng thái ủ r
+
+@moody  
+*  tt
+- buồn rầu, ủ r
+
+@moon  
+*  dt
+- mặt trăng
+
++ new moon: trăng non
+
++ crescent moon: trăng lưỡi liềm
+- ánh trăng
+- (thơ ca) tháng
+!to cry for the moon
+- (xem) cry
+!to shoot the moon
+- (từ lóng) dọn nhà đi trong đêm tối để tránh trả tiền nhà
+!once in a blue moon
+- rất hiếm, ít khi, năm thì mười hoạ
+!the man in the moon
+- chú cuội, người mơ mộng vơ vẩn
+*  ndgt (: about,  around...)
+- đi lang thang vơ vẩn
+- có vẻ mặt thờ thẫn như ở cung trăng
+*  ngdgt
+- to moon away the time thờ thẫn ra vào hết ngày
+
+@moon
+- (thiên văn) mặt trăng
+- full m. tuần trăng tròn
+- new m. tuần trăng non
+ @moonbeam  
+*  dt
+- tia sáng trăng
+
+@moon-blind  
+*  tt
+- quáng gà
+- mắc chứng viêm mắt (ngựa)
+
+@moon-blindness  
+*  dt
+- bệnh quáng gà
+- chứng viêm mắt (ngựa)
+
+@moon-bound
+* tt
+- hướng tới mặt trăng
+ @mooncalf  
+*  dt
+- thằng đần, thằng ngu, thằng ngốc, thằng ngớ ngẩn
+- người suốt ngày nghĩ vơ nghĩ vẩn
+
+@moon-eye
+* dt
+- xem moon-blindness
+- chứng viêm mắt có chu kỳ
+ @moon-eyed
+* tt
+- Mắt tròn xoe (vì ngạc nhiên, hoảng sợ...)
+- mắc chứng quáng gà
+ @moonfaced  
+*  tt
+- có mặt tròn như mặt trăng
+
+@moonfish  
+*  dt
+- (động vật học) có mặt trăng
+
+@moonflower  
+*  dt
+- (thực vật học) cúc bạch
+
+@moonily  
+*  dt
+- thơ thẩn, mơ mộng, mơ mơ màng màng
+
+@mooniness  
+*  dt
+- tính mơ mộng
+
+@moonish  
+*  tt
+- đồng bóng, hay thay đổi
+- tròn vành vạnh, tròn trĩnh, đầy đặn
+
+@moonless  
+*  tt
+- không trăng
+
+@moonlight  
+*  dt
+- ánh trăng, ánh sáng trăng
+
++ in the moonlight: dưới ánh trăng
+!moonlight fitting
+- sự dọn nhà đi trong đêm tối để tránh trả tiền nhà)
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ) làm đêm ngoài gi
+
+@moonlighter
+* dt
+- kẻ ăn đêm, ăn sương
+* dtgười làm đêm ngoài giờ
+- người kiêm nhiện, người cùng lúc làm việc hai nơi
+ @moonlighting  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) sự làm đêm ngoài gi
+
+@Moonlighting
+- (Econ) Sự làm thêm
+: Xem UNDEREMPLOYED WORKERS.
+ @moonlit  
+*  tt
+- dãi ánh trăng, có ánh trăng soi
+
++ a moonlit night: đêm sáng trăng
+
+@moonrise  
+*  dt
+- lúc trăng lên
+
+@moonscape  
+*  dt
+- quang cảnh cung trăng
+
+@moonset  
+*  dt
+- trăng tà, lúc trăng lặn
+
+@moonshine  
+*  dt
+- ánh trăng
+- (nghĩa bóng) ảo tưởng, ảo mộng; chuyện tưởng tượng, chuyện vớ vẩn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) rượu lậu
+
+@moonshiner  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người nấu rượu lậu
+- người buôn rượu lậu
+
+@moonshiny  
+*  tt
+- dãi ánh trăng, có ánh trăng soi
+- hay mơ mộng, hay tưởng tượng
+
+@moonshot  
+*  dt
+- sự bắn tên lửa lên mặt trăng
+- tên lửa bắn lên mặt trăng
+
+@moonstone  
+*  dt
+- (khoáng chất) đá mặt trăng
+
+@moonstruck  
+*  tt
+- gàn, hâm hâm
+
+@moony  
+*  tt
+- giống mặt trăng
+- dãi ánh trăng, có ánh trăng soi
+- thơ thẩn, mơ mộng
+
+@moor  
+*  dt
+- Moor người Ma-rốc
+- truông, đồng hoang
+*  ngdgt
+- (hàng hải) buộc, cột (tàu, thuyền); bỏ neo
+
+@moorage  
+*  dt
+- (hàng hải) sự buộc thuyền, sự cột thuyền; sự bỏ neo
+- nơi buộc thuyền; nơi bỏ neo
+- thuế đậu thuyền, thuế bỏ neo
+
+@moorcock  
+*  dt
+- (động vật học) gà gô đỏ (con trống)
+
+@moorfowl   (moorgame) @moorgame   (moorgame) @moorhen  
+*  dt
+- (động vật học) gà gô đỏ (con mái)
+- gà nước
+
+@mooring-mast  
+*  dt
+- trụ (để) cột khí cầu
+
+@moorings  
+*  dt số nhiều
+- (hàng hải) dây châo; neo cố định
+- nơi buộc thuyền thả neo
+
+@moorish  
+*  tt
+- hoang, mọc đầy thạch nam (đất)
+- Moorish (thuộc) Ma-rốc
+
+@moorland  
+*  dt
+- vùng đất hoang mọc đầy thạch nam
+
+@moorman
+* dt
+- người trông vùng săn bắn
+- người sống ở vùng đầm lầy
+ @moose  
+*  dt
+- (động vật học) nai sừng tấm Bắc m
+
+@mooseberry
+* dt
+- cây @moot  
+*  dt
+- (pháp lý) sự thảo luận, sự tranh luận (của sinh viên luật về một vụ án giả định để thực tập)
+- (sử học) cuộc hội nghị, cuộc hội họp
+*  tt
+- có thể bàn, có thể tranh luận
+
++ a moot point (question): một điểm (vấn đề) có thể bàn
+*  ngdgt
+- nêu lên để bàn (vấn đề)
+
+@mop  
+*  ngdgt
+- túi lau sàn, giẻ lau sàn
+*  ngdgt
+- lau, chùi
+
++ to mop the floor: lau sàn
+!to mop up
+- thu dọn, nhặt nhạnh
+- (quân sự) càn quét
+- (từ lóng) vét sạch
+
++ to mop up the beer: nốc cạn chỗ bia
+!to mop the floor (ground, earth) with someone
+- (từ lóng) hoàn toàn áp đảo ai, có ưu thế tuyệt đối với ai; đánh bại ai hoàn toàn
+*  dt
+- mops and mow nét mặt nhăn nhó
+*  ndgt
+- to mop and mow nhăn nhó
+*  dt
+- chợ phiên mùa thu (để đến tìm thuê thợ gặt...)
+
+@mope  
+*  dt
+- người chán nản, người rầu rĩ, người thẫn thờ, người ủ rũ
+- (the mopes) (số nhiều) trạng thái buồn nản, trạng thái ủ rũ
+
++ to have [a fit of] the mopes; to suffer from [a fit of] the mopes: buồn nản
+*  ndgt
+- chán nản, buồn bã, rầu rĩ, thẫn thờ, ủ rũ
+
++ to mope [about] in the house all day: quanh quẩn ủ rũ suốt ngày ở nhà
+
+@moped
+* dt
+- xe máy có bàn đạp và một động cơ chạy bằng xăng, công suất thấp (xe mô bi lét chẳng hạn)
+ @mope-eyed
+* tt
+- cận thị, loà, thong manh
+ @mophead  
+*  dt
+- đầu tóc bù xù
+- người đầu tóc bù x
+
+@mop-heal
+* dt
+- người đầu tóc rối bù @mopish  
+*  tt
+- chán nản, buồn bã, rầu rĩ, thẫn thờ, ủ r
+
+@mopishness  
+*  dt
+- trạng thái chán nản, trạng thái buồn bã, trạng thái rầu rĩ, trạng thái thẫn thờ, trạng thái ủ r
+
+@mopping
+* dt
+- sự lau dọn sàn nhà (bằng bàn chải)
+ @mopping-up  
+*  tt
+- thu dọn, nhặt nhạnh
+- (quân sự) càn quét
+
+@moppy
+* tt
+- bù xù
+- say mèm
+- say khước
+- giống bàn chải
+- đầu tóc rối bù xù
+ @mop-up  
+*  dt
+- sự thu dọn, sự nhặt nhạnh
+- (quân sự) cuộc càn quét
+
+@moquette
+* dt
+- vải nhung dày dùng để bọc ghế
+ @moraine  
+*  dt
+- (địa lý,ddịa chất) băng tích
+
+@moral  
+*  tt
+- (thuộc) đạo đức, (thuộc) luân lý, (thuộc) phẩm hạnh
+
++ moral standards: những tiêu chuẩn đạo đức
+
++ moral philosophy: luân lý
+
++ moral principles: nguyên lý đạo đức, đạo lý, đạo nghĩa
+- có đạo đức, hợp đạo đức
+
++ to live a moral life: sống một cuộc sống đạo đức
+- tinh thần
+
++ moral support: sự ủng hộ tinh thần
+
++ moral victory: thắng lợi về tinh thần
+*  dt
+- bài học, lời răn dạy
+
++ the moral of the fable: lời răn dạy của truyện ngụ ngôn
+- (số nhiều) đạo đức, đức hạnh, phẩm hạnh, nhân cách
+
++ his morals atr excellent: đạo đức của anh ta rất tốt
+- sự giống hệt, hình ảnh
+
++ he is the very moral of his father: nó giống hệt cha n
+
+@Moral hazard
+- (Econ) Mối nguy đạo đức; Sự lạm tín.
+: Là ảnh hưởng của một số loại hình nhất định của các hệ thống bảo hiểm trong việc gây ra sự chênh lệc giữa chi phí biên cá nhân của một hành động và Chi phí biên xã hội của hành động đó, do vậy dẫn đến việc phân bổ các nguồn lực không tối ưu.
+ @morale  
+*  dt
+- (quân sự) tính thần, chí khí, nhuệ khí
+
++ low morale: tinh thần thấp kém
+
++ sagging morale: tinh thần suy sụp, tinh thần sút kém
+
+@moralise   (moralise) @moralism  
+*  dt
+- tính hay răn dạy
+- câu châm ngôn
+- sự theo đúng luân thường đạo lý
+
+@moralist  
+*  dt
+- người dạy đạo đức, người dạy luân lý
+- nhà luân lý học, nhà đạo đức học
+- người đạo đức
+
+@moralistic  
+*  tt
+- (thuộc) đạo đức, (thuộc) đức hạnh, (thuộc) phẩm hạnh
+- (thuộc) luân lý học, (thuộc) đạo đức học
+- (thuộc) chủ nghĩa đạo đức
+
+@morality  
+*  dt
+- đạo đức
+- (số nhiều) đạo lý, đạo nghĩa
+- đức hạnh, phẩm hạnh, nhân cách
+- giá trị đạo đức, ý nghĩa đạo đức; bài học đạo đức
+- (sử học) kịch luân lý ((cũng) morality play)
+
+@moralization
+* dt
+- xem moralize
+ @moralize   (moralise) @morally
+* dt
+- một cách có đạo đức
+
++  to behave morally:cư xử có đạo đức
+- về phương diện đạo đức
+
++  morally wrong, unacceptable:sai lầm, không thể chấp nhận về mặt đạo đức
+* dt
+- một cách có đạo đức
+
++  to behave morally:cư xử có đạo đức
+- về phương diện đạo đức
+
++  morally wrong, unacceptable:sai lầm, không thể chấp nhận về mặt đạo đức
+ @morass  
+*  dt
+- đầm lầy, bãi lầy
+
+@moratoria  
+*  dt,  số nhiều moratoria  @moratorium  
+*  dt,  số nhiều moratoria  @moratory  
+*  tt
+- (pháp lý) đình trả nợ, hoãn n
+
+@morbid  
+*  tt
+- bệnh tật, ốm yếu; không lành mạnh (đầu óc, ý nghĩ...)
+
++ morbid imagination: trí tưởng tượng không lành mạnh
+
++ morbid anatomy: (y học) giải phẫu bệnh học
+
+@morbidity  
+*  dt
+- (như) morbidness
+- sự hoành hành của bệnh tật
+
+@morbidness  
+*  dt
+- tình trạng bệnh tật, tình trạng ốm yếu; tình trạng không lành mạnh ((cũng) morbidity)
+
+@morbific   (morbifical) @morbifical   (morbifical) @morbilli
+* dt
+- bệnh sởi
+ @morbillous
+* tt
+- thuộc bệnh sởi
+ @morceau
+- dt số nhiều morceaux,  morceaus
+ @mordacious  
+*  tt
+- gậm mòn, ăn mòn
+- chua cay, đay nghiến, châm chọc (lời nói...)
+
+@mordacity   (mordancy) @mordancy   (mordancy) @mordant  
+*  tt
+- chua cay, đay nghiến, châm chọc (lời nói...)
+
++ mordant criticism: lời phê bình chua cay
+
++ mordant wit: tính hay châm chọc
+- cẩn màu
+- (hoá học) ăn mòn (axit)
+*  dt
+- thuốc cẩn màu (nhuộm)
+
+@mordent  
+*  dt
+- (âm nhạc) láy rền
+
+@more  
+*  tt (cấp so sánh của many & much)
+- nhiều hơn, lớn hơn, đông hơn
+
++ there are more people than usual: có nhiều người hơn thường lệ
+- hơn nữa, thêm nữa, thêm nữa
+
++ to need more time: cần có thêm thì giờ
+
++ one more day; one day more: thêm một ngày nữa
+*  dt
+- hơn, nhiều hơn
+!and what is more
+- thêm nữa, hơn nữa; quan trọng hơn, quan trọng hơn nữa
+!to be no more
+- đã chết
+!more and more
+- càng ngày càng
+
++ the story gets more and more exciting: câu chuyện càng ngày càng hấp dẫn
+!the more the better
+- càng nhiều càng tốt
+!more or less
+- không ít thì nhiều
+- vào khoảng, khoảng chừng, ước độ
+
++ one hundred more or less: khoảng chừng một trăm, trên dưới một trăm
+!the more... the more
+- càng... càng
+
++ the more I know him, the more I like him: càng biết nó tôi càng mến nó
+!more than ever
+- (xem) ever
+!not any more
+- không nữa, không còn nữa
+
++ I can't wait any more: tôi không thể đợi được nữa
+!no more than
+- không hơn, không quá
+
++ no more than one hundred: không quá một trăm, chỉ một trăm thôi, đúng một trăm
+!once more
+- lại một lần nữa, thêm một lần nữa
+
++ I should like to go and see him once more: tôi muốn đến thăm một lần nữa
+
+@more
+- nhiều hơn, dư, còn nữa m. or less ít nhiều; never m. không bao giờ
+- nữa; once m. một lần nữa; much m. rất lớn 
+ @moreen  
+*  dt
+- cải bố (dùng làm màn che màn cửa...)
+
+@morel  
+*  dt
+- (thực vật học) nấm moscela
+- cây lu lu đực
+
+@morello
+* dt (số nhiều morellos)
+- một loại anh đào có vị chua
+ @moreover  
+*  dt
+- hơn nữa, ngoài ra, vả lại, vả chăng
+
+@mores
+* dt (số nhiều)
+- tục lệ, tập tục
+ @morganatic  
+*  tt
+- a morganatic marriage sự kết hôn không đăng đối (của người quý tộc với người đàn bà bình dân)
+
+@morgue  
+*  dt
+- nhà xác
+- phòng tư liệu (của một toà báo...); tư liệu
+
+@moribund  
+*  tt
+- gần chết, hấp hối; suy tàn
+
++ a moribund civilization: một nền văn minh suy tàn
+
+@morion  
+*  dt
+- (sử học) mũ morion (mũ không lưỡi trai)
+
+@mormon  
+*  dt
+- người nhiều v
+
+@morn  
+*  dt
+- (thơ ca) buổi sáng
+
+@morning  
+*  dt
+- buổi sáng
+
++ good morning: chào (buổi sáng)
+
++ tomorrow morning: sáng mai
+- (thơ ca) buổi bình minh
+!in the morning of life
+- vào buổi bình minh của cuộc đời; lúc tuổi thanh xuân
+
+@morning after  
+*  dt
+- buổi sáng sau một đêm chè chén say sưa
+- lúc tỉnh ng
+
+@morning coat  
+*  dt
+- áo đuôi tôm (mặc ban ngày)
+
+@morning draught  
+*  dt
+- rượu uống trước bữa ăn sáng
+
+@morning dress  
+*  dt
+- áo (đàn bà) mặc buổi sáng
+- bộ lễ phục mặc ban ngày (áo đuôi tôm, quần xám xọc)
+
+@morning sickness  
+*  dt
+- ốm nghén (hay nôn oẹ về buổi sáng)
+
+@morning star  
+*  dt
+- sao mai
+
+@morning watch  
+*  dt
+- (hàng hải) phiên gác buổi sáng
+
+@morning-glory  
+*  dt
+- (thực vật học) cây bìm bìm hoa tía
+
+@moro
+* dt
+- nhóm bộ tộc ở đảo Midanao và các đảo lân cận
+- người hồi giáo sống ở nam Philippin
+ @moroccan  
+*  tt
+- (thuộc) Ma-rốc
+*  dt
+- người Ma-rốc
+- tiếng Ma-rốc
+
+@morocco  
+*  dt
+- da ma-rốc (da dê thuộc)
+
+@moron  
+*  dt
+- người trẻ nít (lớn mà trí nâo chẳng bằng trẻ con lên 9 lên 10)
+- người khờ dại; người thoái hoá
+
+@moronic  
+*  tt
+- (thuộc) người trẻ nít
+- khờ dại; thoái hoá
+
+@moronism
+- xem moronity
+ @moronity
+* dt
+- chứng suy nhược trí tuệ, sự ngu si @morose  
+*  tt
+- buồn rầu, rầu rĩ, ủ ê; khinh khỉnh
+
+@moroseness   (morosity) @morosity   (morosity) @morpheme  
+*  dt
+- (ngôn ngữ học) hình vị
+
+@morphemic  
+*  tt
+- (ngôn ngữ học) (thuộc) hình vị
+
+@morphetic
+* tt
+- thuộc giấc mộng
+ @morpheus  
+*  dt
+- (thần thoại,thần học) thần mộng, thần ngủ
+!in the arms of Morpheus
+- đang ngủ say sưa
+
+@morphia   (morphine) @morphic
+* tt
+- hình thái học
+- thuộc hình thức
+ @morphine   (morphine) @morphing
+- Một kỹ xảo hoạt hình bằng máy tính để vẽ xen các hình động
+ @morphinism  
+*  dt
+- (y học) chứng nhiễm độc mocfin
+- sự nghiện mocfin
+
+@morphinize  
+*  ngdgt
+- tiêm mocfin cho
+
+@morphism
+- (đại số) cấu xạ
+- identity m. cấu xạ đồng nhất 
+ @morphography
+* dt
+- hình thái học miêu tả
+ @morphologic   (morphological) @morphological   (morphological) @morphologically
+- trạng từ
+- về mặt hình thái học
+ @morphology  
+*  dt
+- hình thái học
+
+@morris  
+*  dt
+- điệu nhảy morit ((cũng) morris dance)
+
+@morris-dance
+* dt
+- điệu múa @morrow  
+*  dt
+- (thơ ca) ngày hôm sau
+- (từ cổ,nghĩa cổ) buổi sáng
+
+@morse  
+*  dt
+- (động vật học) con moóc
+- Morse moóc
+
++ morse code: mã moóc
+
+@morsel  
+*  dt
+- miếng, mấu
+
+@mort  
+*  dt
+- (săn bắn) tiếng (còi, tù và) báo hiệu thú săn đã cùng đường
+- (thông tục) số lượng lớn
+
++ there is a mort of fish in the river: ở sông có một số lượng lớn cá, ở sông có nhiều cá
+- (từ lóng) người đàn bà, cô gái
+- cá hồi ba tuổi
+
+@mortage  
+*  dt
+- sự cầm cố; sự thế nợ
+- văn tự cầm c
+
+@mortage
+- (thống kê) cầm đồ
+ @mortageable
+* tt
+- có thể chấp nhận bằng vật thế nợ @mortagee
+- anh từ
+- người nhận độ cầm cố
+ @mortager
+- Cách viết khác : mortagor 
+ @mortal  
+*  tt
+- chết, có chết
+
++ man is mortal: người ta ai cũng chết
+
++ the mortal remains: xác chết, tử thi
+- nguy đến tính mạng, tử
+
++ a mortal wound: vết tử thương
+
++ a mortal enemy: kẻ tử thù, kẻ không đội trời chung
+
++ a mortal fight: cuộc tử chiến, cuộc chiến đấu một mất một còn
+- lớn, trọng đại
+
++ a mortal sin: tội lớn, đại tội, trọng tội
+- (từ lóng) ghê gớm, cực
+
++ a mortal fight: cơn khủng hoảng ghê gớm
+- (từ lóng) dài lê thê, dài dằng dặc và buồn tẻ
+
++ for ten mortal hours: trong mười tiếng đồng hồ dài dằng dặc
+*  dt
+- vật có chết, con người
+-(đùa cợt) người
+
+@mortality  
+*  dt
+- tính có chết
+- loài người
+- số người chết, số tử vong, tỷ lệ người chết
+
++ the bills of mortality: bản thống kê số người chết
+!mortality tables
+- bằng tuổi sống của các lứa tuổi
+
+@mortality
+- số người chết; tỷ lệ người chết
+ @mortally  
+*  dt
+- đến chết được, ghê gớm, cực kỳ
+
++ to be mortally frightened: hoảng sợ đến chết được
+
+@mortar  
+*  dt
+- vữa, hồ
+- cối giã
+- (quân sự) súng cối
+*  ngdgt
+- trát vữa vào
+- nã súng cối vào
+
+@mortar-board  
+*  dt
+- mảnh gỗ đựng vữa (có tay cầm ở mặt dưới)
+- (thông tục) mũ vuông (của giáo sư và các học sinh trường đại học Anh)
+
+@mortaring
+* dt
+- xem motar
+ @mortar-shell  
+*  dt
+- đạn súng cối
+
+@Mortgage
+- (Econ) Thế chấp.
+: Là một sự thu xếp về mặt pháp lý theo đó một hình thức sở hữu một loại tài sản nào đó được người đi vay chuyển cho người cho vay như một sự bảo đảm đối với khoản vay đó.
+ @mortgage
+* dt
+- văn tự thế chấp; sự thế chấp
+- to apply for được vay có thể chấp
+
++  mortgage agreement@mortgagee  
+*  ngdgt
+- cầm cố; thế nợ
+
++ to mortgagee a house: đem cầm cố (thế nợ) một cái nhà
+- (: to,  for) (nghĩa bóng) nguyện hiến
+
++ to mortgagee oneself to the great cause: nguyện hiến thân mình cho nghĩa lớn
+*  dt
+- người nhận đồ cầm c
+
+@mortgager
+- Cách viết khác : mortgagor 
+ @mortgagor  
+*  dt
+- người phải cầm cố, người phải thế n
+
+@mortice   (mortice) @mortician  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người làm nghề lo liệu đám ma
+
+@mortification  
+*  dt
+- sự hành xác
+- điều sỉ nhục; sự xấu hổ, sự mất thể diện, sự tủi nhục
+
++ the mortification of submitting to the aggressor: nỗi tủi nhục phải khuất phục trước kẻ xâm lược
+- (y học) chứng thối hoại
+
+@mortify  
+*  ngdgt
+- hành xác
+- làm nhục, làm cho xấu hổ, làm mất thể diện
+*  ndgt
+- (y học) bị thối hoại
+
+@mortifying  
+*  tt
+- hành xác, khổ hạnh
+- làm nhục, làm xấu hổ, làm mất thể diện
+
+@mortise   (mortice) @mortmain  
+*  dt
+- (pháp lý) sự chiếm hữu vĩnh viễn; quyền chiếm hữu vĩnh viễn, quyền chiếm hữu không xâm phạm được
+
+@mortuary  
+*  tt
+- (thuộc) sự chết, (thuộc) việc tang
+
++ mortuary rites: lễ tang
+*  dt
+- nhà xác
+
+@mos
+- (Viết tắt của Metal Oxide Semi-conduter) Chất bán dẫn thu được bởi sự kết tọa của một kim loại trên một lớp oxít, rồi chính lớp này ở trên một chất nền bán dẫn Công nghệ MOS đang được dùng để chế tạo các mạch tích hợp cũng như việc thực hiện các bộ nhớ
+ @mosaic  
+*  tt
+- khảm
+*  dt
+- đồ khảm
+- thể khảm
+- (thực vật học) bệnh khảm
+*  ngdgt
+- khảm
+
+@mosaic
+- (tô pô) mozaic
+ @mosaicist  
+*  dt
+- thợ khảm
+
+@moselle  
+*  dt
+- rượu vang môzen
+
+@mosey
+* ndgt
+- la cà
+- cút đi, cút khỏi
+ @moslem  
+*  tt
+- (thuộc) Hồi giáo
+*  dt
+- người theo Hồi giáo
+
+@mosque  
+*  dt
+- nhà thờ Hồi giáo
+
+@mosquito  
+*  dt
+- con muỗi
+
+@mosquito boat   (mosquito-craft) @mosquito-bar
+* dt
+- một kiểu màn chống muỗi
+ @mosquito-craft   (mosquito-craft) @mosquito-curtain   (mosquito-net) @mosquito-net   (mosquito-net) @mosquito-netting  
+*  dt
+- xô may màn, vải màn
+
+@moss  
+*  dt
+- rêu
+!rolling stone gathers no moss
+- (xem) gather
+
+@moss-back  
+*  dt
+- (thông tục) người cũ kỹ, người hủ lậu
+- người quê mùa, người thô kệch
+- con rùa già
+
+@mossback
+* dt
+- (thông tục) người cũ kỹ, người hủ lậu, người bảo thủ
+- con rùa già
+ @moss-green
+* tt
+- có màu xanh rêu
+ @moss-grow  
+*  tt
+- phủ đầy rêu
+- cũ k
+
+@mossgrown
+* tt
+- phủ đầy rêu
+- cũ kỹ
+ @mossiness  
+*  dt
+- tình trạng có rêu
+
+@mosstrooper  
+*  dt
+- kẻ cướp vùng biên giới Anh Ê-cốt ((thế kỷ) 17)
+- kẻ cướp
+
+@mossy  
+*  tt
+- phủ đầy rêu, có rêu
+- như rêu
+
++ mossy green: màu xanh rêu
+
+@most  
+*  tt,  cấp cao nhất của much & many
+- lớn nhất, nhiều nhất
+- hầu hết, phần lớn, đa số
+
++ most people think so: hầu hết mọi người đều nghĩ như vậy
+
++ in most cases: trong hầu hết các trường hợp
+!for the most part
+- (xem) part
+*  dt
+- nhất, hơn cả
+
++ the monkey is the most intelligent of all animals: trong tất cả các loại khỉ là thông minh nhất
+
++ what most surprises me is that...: điều làm cho tôi ngạc nhiên hơn cả là...
+- lắm, vô cùng, cực kỳ
+
++ this is a most interesting book: đây là một cuốn sách hay lắm
+
++ most likely: chắc chắn lắm
+*  dt
+- hầu hết, phần lớn, phần nhiều, đa số, tối đa
+
++ most of the time: phần lớn thời gian
+
++ most of the people: đa số nhân dân
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cái cừ nhất, cái chiến nhất
+!at [the] most
+!at the very most
+- tối đa, không hơn được nữa
+!to make the most of
+- tận dụng
+
+@most
+- nhiều nhất  @Most favoured nation clause
+- (Econ) Điều khoản tối huệ quốc.
+: Là điều khoản trong một hợp đồng thương mại quốc tế quy định rầng các bên tham gia hợp đồng có nghĩa vụ phải dành cho nhau sự đối xử mà họ dành cho  bất kỳ nước nào khác trong lĩnh vực thuế XUẤT NHẬP KHẨU và trong các quy định khác về thương mại.
+ @mostly  
+*  dt
+- hầu hết, phần lớn; thường là, chủ yếu là
+
+@mot  
+*  dt
+- lời nói dí dỏm
+
+@mote  
+*  dt
+- bụi, hạt bụi
+!to see a mote in another's eye
+- nhìn thấy khuyết điểm của người dù chỉ bằng hạt bụi (mà không nhìn thấy khuyết điểm của mình)
+
+@motel  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) khách sạn cạnh đường cho khách có ô tô
+
+@motet
+* dt
+- bài thánh ca ngắn
+ @motey  
+*  tt
+- có bụi, bụi bậm
+
+@moth  
+*  dt
+- nhậy (cắn quần áo)
+- bướm đêm, sâu bướm
+
+@moth-ball  
+*  dt
+- viên băng phiến
+!in moth-balls
+- (từ Mỹ,nghĩa Mỹ) bị bỏ xó, bị gác bếp
+- về vườn
+- bị loại bỏ (ý kiến...)
+
+@moth-eaten  
+*  tt
+- bị nhậy cắn
+- (nghĩa bóng) cũ rích, lâu ngày
+
+@mother  
+*  dt
+- mẹ, mẹ đẻ
+- nguồn gốc, nguyên nhân; mẹ ((nghĩa bóng))
+
++ necessity is the mother of invention: có khó mới sinh khôn
+- (tôn giáo) mẹ
+!Mother Superior
+- mẹ trưởng viện, mẹ bề trên
+- máy ấp trứng ((cũng) mother artificial mother)
+!every mother's son
+- tất cả mọi người không trừ một ai
+*  ngdgt
+- chăm sóc, nuôi nấng
+- sinh ra, đẻ ra ((nghĩa đen) & (nghĩa bóng))
+
+@mother country  
+*  dt
+- tổ quốc, quê hương
+- nước mẹ, mẫu quốc (đối với thuộc địa)
+
+@mother earth  
+*  dt
+- đất mẹ
+-(đùa cợt) đất, mặt đất
+
+@mother of pearl  
+*  dt
+- xà c
+
+@mother of vinegar  
+*  dt
+- cái giấm
+
+@mother wit  
+*  dt
+- trí tuệ bẩm sinh
+
+@motherboard
+- bo mạch chủ
+ @mothercraft  
+*  dt
+- nghệ thuật làm mẹ
+
+@motherhood  
+*  dt
+- chức năng làm mẹ, bổn phận làm mẹ
+- tình mẹ
+
+@mother-in-law  
+*  dt
+- mẹ chồng, mẹ v
+
+@motherland  
+*  dt
+- quê hương, tổ quốc
+
+@motherless  
+*  tt
+- mồ côi mẹ
+
++ a motherless child: đứa trẻ mồ côi mẹ
+
+@motherlike
+* tt
+- theo cung cách của một người mẹ
+
++  a motherlike smile vòng tay thân ái như của mẹ
+@motherliness  
+*  dt
+- tính chất người mẹ, tình cảm người mẹ, đức tính người mẹ
+
+@motherly  
+*  tt
+- (thuộc) mẹ; có những tình cảm của người mẹ; có những đức tính của người mẹ
+
+@mother-naked  
+*  tt
+- trần như nhộng
+
+@mother-of-pearl
+* dt
+- chất cứng, nhẵn bóng màu cầu vồng tạo nên lớp lót trong ở một vài loại vỏ (hàu, trai chẳng hạn) dùng làm khuy, đồ trang trí...; xà cừ (cũng) nacre
+* tt
+- (thuộc) xà cừ, bằng xà cừ, óng ánh như xà cừ
+
++  a mother-of-pearl ear-ring brooch:hoa tai@mother's boy  
+*  dt
+- con trai cưng, con trai lúc nào cũng bám lấy mẹ
+
+@mother's day  
+*  dt
+- ngày lễ các bà mẹ
+
+@mother's helper  
+*  dt
+- người đàn bà giúp việc trong gia đình
+
+@mother-to-be
+* dt
+- số nhiều là mothers-to-be
+- phụ nữ có mang, sản phụ
+ @moth-proof  
+*  tt
+- chống nhậy
+*  ngdgt
+- làm cho không bị nhậy cắn
+
+@mothy  
+*  tt
+- có nhậy; bị nhậy cắn
+
+@motif  
+*  dt
+- (văn học) chủ đề quán xuyến
+*  dt ((cũng) motive)
+- (âm nhạc) nhạc tố
+- ren rời (mẫu ren rời khâu vào áo để trang trí)
+
+@motile  
+*  tt
+- (sinh vật học) có thể vận động; di động
+
+@motility
+* dt
+- xem motile, (chỉ tính chất)
+ @motion  
+*  dt
+- sự vận động, sự chuyển đông, sự di động
+
++ motion to and from: sự chuyển động qua lại
+- cử động, cử chỉ, dáng đi
+
++ a very graceful motion: dáng đi rất duyên dáng
+- bản kiến nghị; sự đề nghị
+
++ to table a motion: đưa ra một đề nghị
+
++ on the motion of: theo đề nghị của
+- (y học) sự đi ngoài, sự đi ỉa
+- máy móc
+*  dgt
+- ra hiệu, ra ý
+
++ to motion someone to go out: ra hiệu cho ai đi ra
+
+@motion
+- chuyển động m. in a space chuyển động trong không gian
+- absolute m. chuyển động tuyệt đối
+- alternating m. chuyển động tiến lùi
+- circular m. chuyển động tròn
+- constant m. chuyển động thẳng đều
+- constrained m. chuyển động cưỡng bức
+- curvilinear m. chuyển động cong
+- direct m. chuyển động thẳng
+- fluid m. chuyển động chất lỏng
+- funicular m. chuyển động theo dây
+- harmonic m. (vật lí) dao động điều hoà
+- irrotational m. chuyển động không rôta
+- laminar m. chuyển động thành lớp
+- non-uniform m. (cơ học) chuyển động không đều
+- periodic m. chuyển động tuần hoàn
+- perpetual m. chuyển động vĩnh cửu
+- plane m. chuyển động phẳng
+- plane harmonic m. chuyển động điều hoà phẳng
+- plano-parallel m. chuyển động song phẳng
+- proper m. chuyển động riêng
+- rectilinear m. chuyển động thẳng
+- relative m. chuyển động tương đối
+- retarded m. chuyển động chậm dần
+- retrograde m. (thiên văn) chuyển động ngược
+- screw m. chuyển động định ốc 
+- shearing m. chuyển động trượt 
+- simple harmonic m. (vật lí) dao động điều hoà
+- steady m. chuyển động ổn định
+- transient m. (cơ học) chuyển động kéo theo
+- turbulent m. chuyển động xoáy
+- uniform m. (cơ học) chuyển động đều, chuyển động thẳng đều
+- uniformly accelerated m. (cơ học) chuyển động tăng dần đều
+- uniform circular m. (cơ học) chuyển động tròn đều
+- uniformly retarded m. (cơ học) chuyển động chậm dần đều
+- uniform speed m. (cơ học) chuyển động đều
+- uniformly variable m. (cơ học) chuyển động biến đổi đều
+- uniform velocity m. (cơ học) chuyển động thẳng đều
+- variable m. chuyển động không đều
+- variably accelerated m. chuyển động có gia tốc thay đổi
+- vortex m. (cơ học) chuyển động xoáy
+- wave m. chuyển động sóng 
+ @motion picture   (moving_picture) @motion study  
+*  dt
+- sự nghiên cứu các động tác (để hợp lý hoá sản xuất) ((cũng) time anh motion_study)
+
+@motional  
+*  tt
+- vận động, chuyển động
+
+@motionless  
+*  tt
+- bất động, không chuyển động, im lìm
+
+@motionlessness  
+*  dt
+- sự bất động, sự không chuyển động, sự im lìm
+
+@motivate  
+*  ngdgt
+- thúc đẩy, làm động cơ thúc đẩy
+!highly motivated
+- (từ Mỹ,nghĩa Mỹ) tích cực tận tuỵ vì có động cơ rõ rệt
+
+@motivation  
+*  dt
+- sự thúc đẩy, động cơ thúc đẩy
+
+@motivative  
+*  tt
+- để thúc đẩy, để làm động cơ thúc đẩy ((cũng) motive)
+
+@motive  
+*  tt
+- vận động, chuyển động
+
++ motive power (force): động lực
+*  dt
+- cớ, lý do, động cơ (của một hành động)
+- (như) motif
+*  ngdgt
+- (như) motivate
+
+@motive
+- (vật lí) chuyển động   lý do; động cơ
+@motiveless  
+*  tt
+- không có lý do, không có động cơ
+
+@motivity  
+*  dt
+- động lực
+
+@motley  
+*  tt
+- sặc sỡ, nhiều màu
+
++ a motley coat: áo sặc sỡ
+- pha tạp
+
++ a motley crowd: một đám đông pha tạp, một đám đông đủ hạng người
+*  dt
+- gồn hợp, pha tạp, mớ pha tạp
+- áo anh hề (màu sặc sỡ)
+
++ to wear the motley: mặc áo hề, thủ vai hề
+
+@moto-bus   (motor-coach) @motor  
+*  dt
+- động cơ mô tô
+- ô tô
+- (giải phẫu) cơ vận động; dây thần kinh vận động
+*  tt
+- vận động
+
++ motor nerver: dây thần kinh vận động
+*  dgt
+- đi ô tô
+
++ to motor from one city to another: đi ô tô từ thành phố này đến thành phố khác
+- đưa đi bằng ô tô
+
++ to motor a friend home: đưa một người bạn về bằng ô tô
+
+@motor
+- (vật lí) động cơ
+ @motor road  
+*  dt
+- đường ô tô chạy
+
+@motor torpedo-boat  
+*  dt
+- tàu phóng ngư lôi ((cũng) motor_torpedo-boat)
+
+@motor-bike  
+*  dt
+- (thông tục) xe mô tô, xe máy
+
+@motorbike
+* dt
+- xe môtô hạng nhẹ
+ @motor-boat  
+*  ndgt
+- đi thuyền máy, đi xuồng máy
+
+@motor-boating
+* dt
+- môn thuyền máy (thể thao)
+- chuyến du lịch @motor-borne
+* tt
+- chuyên chở bằng ô tô
+ @motorcade  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) đoàn xe ô tô hộ tống (xe của một nhân vật quan trọng)
+
+@motor-car  
+*  dt
+- xe ô tô
+
+@motor-coach
+
+ @motor-cycle  
+*  dt
+- xe mô tô
+
+@motorcycle  
+*  ndgt
+- đi xe mô tô, lái xe mô tô
+
+@motor-cyclist  
+*  dt
+- người đi xe mô tô, người lái xe mô tô
+
+@motorcyclist
+* dt
+- người đi xe mô tô, người lái xe mô tô
+ @motordom  
+*  dt
+- thuật chơi xe mô tô
+- công nghiệp chế tạo ô tô
+
+@motordome  
+*  dt
+- vòng đua ô tô; vòng đua mô tô
+
+@motordrome
+* dt
+- vòng đua ô tô; vòng đua mô tô
+ @motored  
+*  tt
+- có động cơ, có mô tô
+
+@motoring
+* dt
+- môn thể thao đua ô tô
+- việc chơi ô tô
+- nghề ô tô
+ @motorise   (motorise) @motorist  
+*  dt
+- người lái xe ô tô; người chơi xe ô tô
+
+@motorization  
+*  dt
+- sự cơ giới hoá, sự lắp động cơ (mô tơ) vào
+
+@motorize   (motorise) @motorized
+* tt
+- cơ giới hoá
+ @motorman  
+*  dt
+- người lái xe điện; người lái xe buýt
+
+@motorola
+- Tên hãng chế tạo linh kiện điện tử Mỹ
+ @motor-scooter  
+*  dt
+- xe mô tô bánh nhỏ (loại vetpa)
+
+@motor-ship  
+*  dt
+- thuyền máy
+
+@motorvan  
+*  dt
+- xe ô tô chở hàng kín mui, xe tải kín mui
+
+@motorway  
+*  dt
+- đường lớn dành cho ô tô chạy nhanh, xa lộ
+
+@motory  
+*  tt
+- chuyển động, gây chuyển động
+
+@mottle  
+*  dt
+- vằn, đường vằn
+- vết chấm lốm đốm
+- vải len rằn
+
+@mottled  
+*  tt
+- lốm đốm, có vằn
+
+@motto  
+*  dt,  số nhiều mottoes  @mouch   (mouch) @mouchoir
+* dt
+- khăn tay, khăn mùi xoa
+ @moujik   (muzhik) @mould  
+*  dt
+- đất tơi xốp
+- đất
+*  dt
+- mốc, meo
+*  dt
+- khuôn
+- (kiến trúc) đường gờ, đường chỉ
+- (nghĩa bóng) hình dáng; tính tình
+!to be cast in the same mould
+- giống nhau như đúc; cùng một giuộc
+*  ngdgt
+- đúc; nặn
+
+@moulder  
+*  dt
+- thợ đúc
+*  ndgt
+- nát vụn ra, vỡ tan tành; đổ nát
+- mủn ra
+
+@moulding  
+*  dt
+- sự đúc; vật đúc
+- (kiến trúc) ((thường) số nhiều) đường gờ; đường chỉ (ở tường, cột...)
+
+@mouldy  
+*  tt
+- bị mốc, lên meo
+- (nghĩa bóng) cũ kỹ, lỗi thời, không đúng mốt, không hợp thời trang
+- (từ lóng) tẻ nhạt, chán ngắt
+*  dt
+- (hàng hải),  (từ lóng) ngư lôi
+
+@moulinet
+* dt
+- cửa quay
+ @moult  
+*  dt
+- sự rụng lông, sự thay lông
+
++ bird in the moult: chim đang thay lông
+*  dgt moult
+- rụng lông, thay lông (chim)
+
+@mound  
+*  dt
+- ụ (đất, đá), mô (đất, đá)
+- gò; đống; đồi; núi nhỏ
+
+@mount  
+*  dt
+- núi ((thường) đặt trước dt riêng (viết tắt) Mt)
+
++  Mt Everest: núi Ê-vơ-rét
+*  dt
+- mép (viền quanh) bức tranh
+- bìa (để) dán tranh
+- khung, gọng, giá
+- ngựa cưỡi
+*  ngdgt
+- leo, trèo lên
+
++ to mount a hill: trèo lên một ngọn đồi
+
++ to mount a ladder: trèo thang
+- cưỡi
+
++ to mount a horse: cưỡi ngựa
+- nâng lên, cất lên, đỡ lên, kéo lên, cho cưỡi lên
+- đóng khung, lắp táp, cắm vào, dựng lên, đặt, sắp đặt, dán vào, đóng vào
+
++ to mount a diamond in platinum: găn một viên kim cương vào miếng bạch kim
+
++ to mount a photograph: dán ảnh vào bìa cứng
+
++ to mount a loom: lắp một cái máy dệt
+
++ to mount a gun: đặt một khẩu súng
+
++ to mount a play: dựng một vở kịch
+- mang, được trang bị
+
++ the fort mounts a hundred guns: pháo đài được trang bị một trăm khẩu súng
+
++ quân to mount guard: làm nhiệm vụ canh gác
+
++ mỹ to mount an attack: mở một cuộc tấn công
+- cho nhảy (cái) vật nuôi
+*  ndgt
+- lên, cưỡi, trèo, leo
+
++ to mount on the scaffolf: lên đoạn đầu đài
+
++ to mount on a horse: cưỡi trên mình ngựa
+- lên, bốc lên
+
++ blush mounts to face: mặt đỏ ửng lên
+- tăng lên
+
++ prices mount up every day: giá cả ngày càng tăng
+
++ the struggle of the people against depotism and oppression mounts: cuộc đấu tranh của nhân dân chống chuyên chế và áp bức tăng lên
+
+@mountain  
+*  dt
+- núi
+- (nghĩa bóng) núi, đống to
+
++ mountains of gold: hàng đống vàng
+
++ mountains of debts: hàng đống nợ
+!to make mountains of molehills
+- (xem) molehill
+!the mountain has brought forth a mouse
+- đầu voi đuôi chuột
+
+@mountain ash  
+*  dt
+- (thực vật học) cây thanh lương trà
+
+@mountain chain  
+*  dt
+- dải núi, rặng núi
+
+@mountain dew  
+*  dt
+- (thông tục) rượu uytky Ê-cốt
+
+@mountain goat  
+*  dt
+- (động vật học) dê rừng
+
+@mountain people  
+*  dt
+- dân tộc miền núi; người dân miền núi
+
+@mountain range  
+*  dt
+- dãy núi, rặng núi
+
+@mountain sickness  
+*  dt
+- chứng say núi
+
+@mountain warfare  
+*  dt
+- tác chiến vùng núi
+
+@mountaineer  
+*  dt
+- người miền núi
+- người leo núi; người tài leo núi
+
+@mountaineering  
+*  dt
+- sự leo núi, sự trèo núi
+
+@mountain-high
+* tt
+- rất cao
+ @mountainous  
+*  tt
+- có núi, lắm núi
+
++ mountainous country: vùng (nước) lắm núi
+- to lớn khổng lồ
+
+@mountain-side
+* dt
+- dốc (núi), sườn dốc
+ @mountainside
+* dt
+- cạnh dốc của một ngọn núi
+ @mountainy
+* tt
+- (thuộc) núi, có núi
+ @mountant
+* dt
+- hồ dán ảnh lên bìa cứng
+ @mountebank  
+*  dt
+- người bán thuốc rong
+- lăng băm
+- kẻ khoác lác lừa người
+
+@mountebankery  
+*  dt
+- thủ đoạn lừa gạt của bọn bán thuốc rong; thủ đoạn lừa gạt của lang băm
+
+@mounted  
+*  tt
+- cưỡi (ngựa)
+- (quân sự) cưỡi ngựa, cơ giới hoá
+
++ mounted police: cảnh sát cưỡi ngựa
+- (quân sự) đặt (súng)
+- có giá, có khung
+
+@mounting  
+*  dt
+- sự trèo, sự lên
+- sự tăng lên
+- giá, khung
+
+@mounting
+- (máy tính) lắp ráp; khung
+- panel m. lắp ráp theo bảng
+- rack m. lắp ráp trên giá 
+ @mourn  
+*  ndgt
+- (: for,  over) than khóc, thương tiếc
+
++ to mourn for (over) the dead: thương tiếc những người đã mất
+- để tang
+*  ngdgt
+- khóc, thương tiếc, thương xót, xót xa
+
++ to mourn the loss of one's mother: khóc mẹ
+
+@mourner  
+*  dt
+- người than khóc, người đi đưa ma
+- người khóc thuê (đám ma)
+
+@mournful  
+*  tt
+- buồn rầu, ảm đạm, tang tóc, thê lương
+
+@mournfully
+* dt
+- buồn rầu; thê lương
+ @mournfulness  
+*  dt
+- tính chất buồn rầu, tính chất ảm đạm; sự tang tóc, sự thê lương
+
+@mourning  
+*  dt
+- sự đau buồn, sự buồn rầu
+- tang; đồ tang
+
++ to be in mourning: có tang; mặc đồ tang
+
++ to go into mourning: để tang
+
++ to go out of mourning; to leave off mourning: hết tang
+!eye in mourning
+- (thông tục) mắt sưng húp, mắt thâm tím
+!nails in mourning
+- (thông tục) móng tay bẩn
+*  tt
+- đau buồn, buồn rầu
+- (thuộc) tang, tang tóc
+
+@mourning-band  
+*  dt
+- băng tang
+
+@mourning-coach  
+*  dt
+- xe tang
+
+@mourning-paper  
+*  dt
+- giấy cáo phó, giấy báo tang
+
+@mousable
+- có thể dùng chuột
+ @mouse  
+- mauz@mouse-colour  
+*  dt
+- màu xám xịt, màu xỉn
+
+@mouse-hole  
+*  dt
+- hang chuột
+
+@mousekin
+* dt
+- chuột con, chuột nhắt
+ @mouser  
+*  dt
+- con mèo tài bắt chuột
+
+@mouse-sight
+- anh từ
+- chứng @mousetrap  
+*  dt
+- bẫy chuột
+*  ngdgt
+- bẫy
+
+@mousetrap cheese  
+*  dt
+- phó mát hạng tồi (chỉ đáng để bẫy chuột)
+
+@mousse  
+*  dt
+- món kem mút
+
+@mousseline
+* dt
+- li @moustache  
+*  dt
+- râu mép, ria ((từ Mỹ,nghĩa Mỹ) (cũng) mustache)
+
+@mousy  
+*  tt
+- lắm chuột
+- như chuột, hôi mùi chuột
+- nhút nhát, rụt rè; lặng lẽ; lén lút (người)
+- xỉn, xám xịt
+
+@mouth  
+- mauð@mouthed
+- có kiểu mồm như thế nào đó
+
++  small-mouthed, wide-mouthed, open-mouthed:có mồm nhỏ, mồm rộng, mồm há ra
+- có lối ăn nói như thế nào đó
+
++  loud-mouthed:ăn nói om sòm; to mồm
+
++  foul-mouthed:ăn nói thô tục
+ @mouther
+* dt
+- chỉ người diễn tả kiển cách, khoát lác
+ @mouth-friend
+* dt
+- bản giả dối @mouthful  
+*  dt
+- miếng (đầy mồm)
+
++ at a mouthful: chỉ một miếng
+
+@mouth-honour
+* dt
+- sự tăng bốc, sự tán dương
+ @mouth-organ  
+*  dt
+- kèn acmônica
+
+@mouthpiece  
+*  dt
+- miệng (kèn, sáo, còi...)
+- cái ống tẩu hút thuốc
+- (nghĩa bóng) người phát ngôn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) luật sư bào chữa
+
+@mouth-to-mouth
+* tt
+- phà hơi tiếp sức sống bằng miệng để làm hồi sinh
+ @mouthwash
+* dt
+- thuốc sát trùng để súc miệng
+ @mouthwatering
+* tt
+- (thức ăn) khiến cho muốn ăn, khiến cho thèm rỏ dãi
+ @mouthy  
+*  tt
+- hay nói, hay la hét, mồm ba
+- huênh hoang, cường điệu, đao to búa lớn
+
+@movability   (movableness) @movability
+- (hình học) tính di động, tính chuyển động
+ @movable   (moveable) @movable
+- lưu động   (toán kinh tế) động sản
+@movableness   (movableness) @movables  
+*  dt số nhiều
+- đồ đạc; đồ gỗ
+- (pháp lý) động sản
+
+@move  
+*  dt
+- sự chuyển động, sự di chuyển, sự xê dịch
+
++ to make a move: di chuyển, đổi chuyển, sự xê dịch
+
++ to make a move: di chuyển đổi chỗ, đứng dạy đi chỗ khác
+
++ on the move: di chuyển, hoạt động; tiến triển
+
++ to get a move on: (từ lóng) hoạt động lên; làm gấp, tiến hành gấp rút
+- (đánh cờ) nước
+
++ that was a good move: đó là một nước hay
+- lượt, lần, phiên (trong một trò chơi)
+
++ it's your move: đến lượt anh
+- biện pháp; bước
+*  ngdgt
+- chuyển, di chuyển, chuyển dịch, xê dịch, đổi chỗ, dời chỗ
+
++ to move troops from one place to another: chuyển quân từ chỗ này sang chỗ khác
+- lắc, lay, khuấy, quấy, làm chuyển động; nhấc
+
++ he can't move his arm: nó không thể nhắc được cánh tay
+
++ to move heaven and earth: khuấy đảo trời đất, dùng đủ mọi biện pháp, xoay xở đủ trò
+- làm nhuận (tràng)
+- kích thích, kích động, gây ra, làm cho, xúi giục, gợi
+
++ it moved them to anger: cái đó làm cho chúng nó nổi giận
+- làm cảm động, làm xúc động, làm mũi lòng, gợi mối thương cảm
+
++ to be moved to tears: cảm động đến ứa nước mắt
+- đề nghị
+
++ I move the adjournment of the meeting: tôi đề nghị hoãn buổi họp
+*  ndgt
+- chuyển động, cử động, động đậy, cựa quậy, lay động
+
++ it was calm and not a leaf moved: trời lặng gió, không một chiếc lá lay động
+- đi, di chuyển, xê dịch, chuyển dịch
+
++ it is about time we should move: đã đến giờ chúng ta phải đi
+- hành động, hoạt động
+!to move about
+- đi đi lại lại, đi quanh, chuyển quanh
+- hay dọn nhà, hay thay đổi chỗ ở
+!to move along
+- tiến lên
+!to move away
+- dọn đi, cất đi
+- đi xa, đi hẳn
+!to move back
+- lùi; kéo lùi lại, chuyển về phía sau
+!to move forward
+- tiến; cho tiến lên, chuyển về phía trước
+!to move in
+- dọn nhà (đến chỗ ở mới)
+!to move off
+- ra đi, đi xa
+!to move on
+- cho đi tiếp; tiến lên
+
++ move on: đề nghị đi đi, đừng đứng ùn lại (lệnh của công an giao thông)
+!to move out
+- dọn nhà đi
+!to move up
+- chuyển lên; trèo lên, tiến lên
+
+@move
+- chuyển động; đi; (lý thuyết trò chơi) nước đi (bài)
+- chane m. (lý thuyết trò chơi) nước đi ngẫu nhiên
+- opening m. (lý thuyết trò chơi) nước đi đầu tiên 
+ @moveability   (movableness) @moveable   (moveable) @moveableness   (movableness) @moveless
+* tt
+- bất động, cứng đờ, chết cứng
+ @movement  
+*  dt
+- sự chuyển động, sự vận động, sự cử động, sự hoạt động
+
++ to lay without movement: bất động
+
++ to play lacks movement: vở kịch thiếu hẳn sự hoạt động
+- động tác, cử động
+
++ a graceful movement: một động tác duyên dáng
+- hoạt động, hành động (của một người, một nhóm)
+
++ to watch someone's movements: theo dõi hoạt động của ai
+- (quân sự) sự di chuyển, sự vận động
+- phong trào, cuộc vận động
+
++ the national liberation movement: phong trào giải phóng dân tộc
+
++ the movement of patriotic emulation: phong trào thi đua yêu nước
+- bộ phận hoạt động (của một bộ máy)
+
++ the movement of a clock: bộ phận hoạt động của đồng hồ
+- tình cảm, mối cảm kích, mối xúc động
+
++ a movement of anfer: cơn giận
+- (âm nhạc) phần
+
++ the first movement of a symphony: phần thứ nhất của bản giao hưởng
+- sự tiến triển (của một bài thơ, một câu chuyện...)
+- sự biến động (của thị trường...)
+- sự đi ngoài, sự ra ỉa
+
+@movement
+- sự chuyển động, sự di chuyển
+ @mover  
+*  dt
+- động cơ, động lực
+
++ prime mover: động lực đầu tiên; nguồn năng lượng
+- người đề xuất ý kiến, người đưa ra đề nghị
+
+@movie  
+*  dt,  (thông tục)
+- phim xi nê
+- rạp chiếu bóng
+- (số nhiều) ngành phim ảnh; nghệ thuật phim xi nê
+
++ to go to the movies: đi xem phim
+
+@movie house  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) rạp chiếu bóng
+
+@moviedom
+* dt
+- như filmdom
+* dt
+- như filmdom
+ @moviegoer  
+*  dt
+- người đi xem chiếu bóng
+
+@moviegoing  
+*  dt
+- sự đi xem chiếu bóng
+
+@movieland  
+*  dt
+- nơi sản xuất nhiều phim
+- công nghiệp phim
+
+@moviemaker  
+*  dt
+- nhà sản xuất nhiều phim
+- nhà đạo diễn phim
+
+@moving  
+*  tt
+- động, hoạt động
+- cảm động, gợi mối thương tâm, làm mủi lòng
+
++ a moving sight: một cảnh thương tâm
+
+@moving
+- lưu động, di chuyển, chuyển động; (thống kê) trượt
+ @Moving average
+- (Econ) Trung bình động.
+: Là một phương pháp nhằm loại bớt những biến động số liệu.
+ @moving picture   (moving_picture) @moving staircase  
+*  dt
+- cầu thang tự động
+
+@movingly
+- trạng từ
+- xem moving
+ @movingness
+* dt
+- xem moving
+- chỉ tính chất
+ @mow  
+*  dt
+- đống, đụn (rơm, rạ, cỏ khô); cót, cây (thóc)
+- nơi để rơm rạ
+*  dt
+- cái bĩu môi, cái nhăn mặt
+*  ndgt
+- bĩu môi, nhăn mặt
+*  ngdgt mowed; mowed; mown
+- cắt, gặt (bằng liềm, hái)
+!to mow down
+!to mow off
+- cắt (cỏ)
+- (nghĩa bóng) hạ xuống như rạ, tàn sát, làm chết như rạ (bệnh dịch...)
+
+@mower  
+*  dt
+- thợ cắt, thợ gặt
+- máy cắt, máy gặt
+
+@mowing-machine  
+*  dt
+- máy cắt, máy gặt
+
+@mown  
+*  động tt quá khứ của mow
+
+@moxa
+* dt
+- bông để cứu (đốt da)
+- cây ngải cứu
+ @moxie  
+*  dt
+- (từ lóng) tính sôi nổi; tính sinh động
+- sự can đảm, sự gan dạ
+
+@mozzarella
+* dt
+- một loại phó mát của ý
+ @

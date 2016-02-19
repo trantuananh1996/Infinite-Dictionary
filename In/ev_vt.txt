@@ -1,0 +1,7 @@
+@vto
+* (viết tắt)
+- (máy bay) lên thẳng (vertical  take-off)
+ @vtol
+* (viết tắt)
+- cất cánh và hạ cánh theo phương thẳng đứng (vertical take-off and landing)
+ @

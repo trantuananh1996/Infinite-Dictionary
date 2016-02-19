@@ -1,0 +1,3 @@
+@hppcl
+- Ngôn ngữ kiểm soát máy in riêng do Hewlett Packard đưa ra năm 1984
+ @

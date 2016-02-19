@@ -1,0 +1,4 @@
+@hb
+* (viết tắt)
+- màu đen cứng (hard black)
+ @

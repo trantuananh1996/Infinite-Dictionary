@@ -1,0 +1,1180 @@
+@guacharo
+* dt
+- (động vật) chim dầu
+ @guaco
+* dt
+- (thực vật) cây rắn cắn
+ @guaiac  
+*  dt
+- (thực vật học) cây gaiac
+*  dt: (guaiac) @guaiacum  
+*  dt
+- (thực vật học) cây gaiac
+*  dt: (guaiac) @guana  
+*  dt
+- phân chim (ở Nam-Mỹ và các đảo Thái-bình-dương, dùng làm phân bón)
+- phân xác cá
+
+@guanidine
+* dt
+- (hoá học) guanidin
+ @guaniferous
+* tt
+- có phân chim
+ @guanine
+* dt
+- (hoá học) guanin
+ @guano  
+*  ngdgt
+- bón bằng phân chim
+
+@guanophore
+* dt
+- (sinh học) tế bào chứa sắc tố vàng
+ @guarantee  
+*  dt
+- (pháp lý) sự bảo đảm, sự cam đoan; sự bảo lãnh
+- (pháp lý) người bảo đảm, người bảo lãnh
+
++ to be a guarantee for a friend's life story: làm người bảo đảm về lý lịch cho bạn
+
++ to become guarantee for: đứng bảo lãnh cho
+- (pháp lý) người được bảo lãnh
+- (pháp lý) vật bảo đảm; giấy bảo đảm
+- (thông tục) sự bảo đảm; sự dám chắc
+
++ blue skies are not always a guarantee of fine weather: bầu trời xanh chưa chắc là thời tiết đã đẹp
+*  ngdgt
+- bảo đảm, bảo lânh (cho ai, về vấn đề gì)
+- (thông tục) hứa bảo đảm, cam đoan
+
+@guarantee
+- bảo đảm
+ @Guaranteed week
+- (Econ) Tuần lễ bảo đảm.
+: Thanh toán trả cho những công nhân chỉ làm việc trong thời gian ngắn mà không phải do lỗi của họ.
+ @guarantor  
+*  dt
+- người bảo đảm, người bảo lãnh
+
+@guarantor
+- (toán kinh tế) người bảo đảm
+ @guaranty  
+*  dt (pháp lý)
+- sự bảo đảm, sự bảo lãnh
+- vật bảo đảm; giấy bảo đảm
+
+@guarapo
+* dt
+- guarapos
+- rượu mía
+ @guard  
+*  dt
+- (thể dục,thể thao) sự thủ thế, sự giữ miếng (đấu gươm, quyền Anh...)
+
++ to take guard; to give guard: thủ thế, giữ miếng
+
++ to break guard: để hở miếng (đấu gươm)
+- sự đề phòng
+
++ to be on one's guard: cảnh giác đề phòng
+
++ to be off one's guard: mất cảnh giác không đề phòng; lơ là không đề phòng
+
++ to be caught off one's guard: bị chộp thình lình lúc không đề phòng
+- cái chắn
+- (quân sự) sự thay phiên gác; lính gác; đội canh gác
+
++ to relieve guard: thay phiên gác
+
++ to stand guard: đứng gác
+
++ to mount guard: làm nhiệm vụ canh gác
+- người bảo vệ; (số nhiều) cận vệ, vệ binh
+- (từ Mỹ,nghĩa Mỹ) lính canh trại giam; đội lính canh trại giam
+- (quân sự) đội quân
+
++ the guard of honour: đội danh dự
+- (ngành đường sắt) trưởng tàu
+*  dgt
+- bảo vệ; gác, canh giữ
+
++ to guard a camp: bảo vệ doanh trại
+
++ to guard one's reputation: bảo vệ thanh danh
+
++ to guard prisoners: canh tù
+- (: against) đề phòng, phòng, giữ gìn
+
++ to guard against disease: phòng bệnh
+
++ to guard one's words: giữ gìn lời nói
+
++ to guard oneself: giữ mình, đề phòng
+- (kỹ thuật) che, chắn (máy, dây curoa, bánh răng...)
+
+@guard
+- (máy tính) bảo vệ
+ @guard band
+- (Tech) dải bảo vệ
+ @guard bit
+- (Tech) bit bảo vệ
+ @guard circuit
+- (Tech) mạch bảo vệ
+ @guard tone
+- (Tech) âm hiệu bảo vệ
+ @guard-boat  
+*  dt
+- (quân sự) tàu tuần tiểu, tàu kiểm tra
+
+@guard-chain  
+*  dt
+- cái móc, cái khoá (dây chuyền...)
+
+@guard-duty
+* dt
+- chức vụ bảo vệ
+ @guarded  
+*  tt
+- thận trọng, giữ gìn (lời nói)
+
++ a guarded answers: câu trả lời thận trọng
+- (kỹ thuật) có cái che, có cái chắn (máy dây curoa, bánh răng...)
+
+@guarded command
+- (Tech) lệnh bảo vệ
+ @guardedly
+* dt
+- thận trọng, ý tứ
+ @guardedness
+- xem guarded
+ @guarder
+- xem guard
+ @guardhouse   (guardroom) @guardian  
+*  dt
+- người bảo vệ
+
++ guardian angel: thần hộ mệnh
+- (pháp lý) người giám hộ (tài sản...)
+
+@guardianship  
+*  dt
+- sự bảo vệ; trách nhiệm bảo vệ
+- sự giám hộ (tài sản...); trách nhiệm giám hộ (tài sản...)
+
+@guard-iron
+* dt
+- cái gạt đá (ở đầu xe lửa)
+ @guardless
+* tt
+- không dược bảo vệ
+ @guard-net
+* dt
+- (điện) lưới bảo vệ
+ @guard-rail  
+*  dt
+- thành lan can (ở cầu thang)
+
+@guard-ring capacitor
+- (Tech) bộ điện dung vòng bảo vệ
+ @guardroom   (guardroom) @guards
+* dt số nhiều
+- lính bảo vệ; đội bảo vệ
+ @guard's van
+* dt
+- toa dành cho người bảo vệ tàu
+ @guard-ship  
+*  dt
+- tàu bảo vệ cảng
+
+@guardsman  
+*  dt số nhiều
+- vệ binh
+
+@guardsmen
+* dt, pl
+- vệ binh
+ @guava  
+*  dt
+- (thực vật học) cây ổi
+- quả ổi
+
+@gubernaculum
+* dt
+- (giải phẫu) dây dẫn; dây chằng mào tinh hoàn
+ @gubernatorial  
+*  tt
+- (thuộc) thống đốc, (thuộc) thủ hiến
+
++ a gubernatorial election: cuộc bầu cử thống đốc bang
+- (thuộc) chính phủ
+- (từ lóng) (thuộc) cha; (thuộc) chú
+
+@Gudden-Pohl effect
+- (Tech) hiệu ứng Gudden-Pohl
+ @guddle  
+*  dgt
+- (Ê-cốt) mò (cá); mò cá
+
+@gudgeon  
+*  dt
+- (động vật học) cá đục (họ cá chép)
+- (thông tục) người khờ dại, người cả tin
+- (kỹ thuật) bu lông
+- (kỹ thuật) trục; ngõng trục, cổ trục
+
+@guelder rose  
+*  dt
+- (thực vật học) cây hoa tú cầu
+- hoa tú cầu
+
+@guerdon  
+*  dt
+- (thơ ca) phần thưởng
+*  ngdgt
+- (thơ ca) thưởng
+
+@guerilla   (guerrilla) @guerrilla   (guerrilla) @guess  
+*  dt
+- sự đoán, sự ước chừng
+
++ to make a guess: đoán
+
++ it's anybody's guess: chỉ là sự phỏng đoán của mỗi người
+
++ at a guess; by guess: đoán chừng hú hoạ
+*  dgt
+- đoán, phỏng đoán, ước chừng
+
++ can you guess my weight (how much I weigh, what my weight is)?: anh có đoán được tôi cân nặng bao nhiêu không?
+
++ to guess right (wrong): đoán đúng (sai)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) nghĩ, chắc rằng
+
++ I guess it's going to rain: tôi chắc rằng trời sắp mưa
+
+@guess
+- đoán, ước đoán; giả định
+- crude g. ước đoán thô sơ 
+ @guesser
+- xem guess
+ @guesstimate
+* dt
+- sự ước tính theo cách vừa dự đoán vừa lập luận
+ @guess-work  
+*  dt
+- sự phỏng đoán, sự đoán chừng
+
+@guest  
+*  dt
+- khách
+- khách trọ (ở khách sạn)
+
++ a paying guest: khách trọ ăn cơm tháng
+- vật ký sinh; trùng ký sinh; cây ký sinh
+
+@guest computer
+- (Tech) máy điện toán khách
+ @guest-card  
+*  dt
+- giấy đăng ký ở trọ (tại khách sạn)
+
+@guest-chamber   (guest-room) @guest-house  
+*  dt
+- nhà trọ thượng hạng
+- nhà khách
+
+@guest-insect
+* dt
+- côn trùng sống nhờ
+ @guest-night  
+*  dt
+- đêm liên hoan (có mời khách tới dự, , ở câu lạc bộ, trường học...)
+
+@guest-room   (guest-room) @guestship
+* dt
+- địa vị người khách
+ @guestwise
+* tt
+- như người khách
+ @guestworker
+* dt
+- công nhân di cư làm việc tạm thời
+ @guff  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chuyện nhăng nhít, chuyện rỗng tuếch, chuyện vớ vẩn
+
+@guffaw  
+*  dt
+- tiếng cười hô hố, tiếng cười ha hả
+
+@gug
+* dt
+- (ngành mỏ) lò vận chuyển cơ giới hoá; dốc gòong
+ @guggle
+* dt
+* dgt
+- xem gurgle
+ @gui
+- giao diện người-máy bằng đồ họa
+ @guichet
+* dt
+- lưới sắt, chấn song sắt
+- cửa bán vé
+ @guidable
+* tt
+- có thể chỉ đạo, có thể hướng dẫn; có thể dìu dắt
+ @guidance
+* dt
+- sự chỉ đạo, sự hướng dẫn; sự dìu dắt
+ @guidance
+- (điều khiển học) điều khiển (từ xa)
+ @guide
+* dt
+- người chỉ dẫn; người chỉ đường, người hướng dẫn (cho khách du lịch)
+- bài học, điều chỉ dẫn, điều tốt, điều hay (cần noi theo)
+- sách chỉ dẫn, sách chỉ nam
+- cọc hướng dẫn; biển chỉ đường
+- <kỹ> thiết bị dẫn đường, thanh dẫn
+- <qsự> quân thám báo
+- <hải> tàu hướng dẫn (cho cả đội tàu)
+* ngdgt
+- dẫn đường, chỉ đường, dắt, dẫn, hướng dẫn; chỉ đạo
+ @guide
+- hướng, lái; (vật lí) ống dẫn sóng
+ @guide wavelength
+- (Tech) độ dài sóng truyền dẫn
+ @guide-bar
+* dt
+- <kỹ> thanh dẫn
+ @guide-block
+* dt
+- xem guide  bar
+ @guide-board
+* dt
+- bảng chỉ đường (cho khách du lịch...)
+ @guide-book
+* dt
+- sách chỉ nam; sách hướng dẫn
+ @guide-channel
+* dt
+- kênh dẫn
+ @guided missile
+* dt
+- tên lửa điều khiển
+ @guide-dog
+* dt
+- chó chuyên dẫn đường cho người mù
+ @guided-wave radio
+- (Tech) vô tuyến bằng sóng dẫn [thông tin]
+ @guideless
+* tt
+- không có người dẫn đường, không có người chỉ dẫn, không có người hướng dẫn
+ @guideline
+* dt
+- nguyên tắc chỉ đạo, đường lối chỉ đạo (để vạch ra chính sách...)
+ @Guidelines
+- (Econ) Nguyên tắc chỉ đạo.
+: Xem INCOMES POLICY.
+ @guide-mark
+* dt
+- dấu, dấu hiệu (để hướng dẫn)
+ @guide-post
+* dt
+- cột chỉ đường
+ @Guidepost following behaviour
+- (Econ) Hành vi theo hướng chỉ dẫn.
+: Xem NORM FOLLOWING BEHAVIOUR.
+ @Guideposts
+- (Econ) Các chỉ dẫn.
+: Xem INCOMES POLICY.
+ @guider
+- xem guide
+ @guide-rod
+* dt
+- <kỹ> thanh dẫn
+ @guide-rope
+* dt
+- <không> dây néo (buộc chặt khí cầu trước khi bay)
+ @guide-screw
+* dt
+- trục vít dẫn hướng
+ @guideway
+* dt
+- đường dẫn
+ @guideword
+* dt
+- từ chỉ dẫn (ở góc phải, góc trái trang tự điển để chỉ mục từ đầu và mục từ cuối của trang)
+ @guiding
+* dt
+- hoạt động của người hướng dẫn
+ @guiding cable
+- (Tech) cáp dẫn (đường)
+ @guidon
+* dt
+- cờ kỵ binh
+- cờ tín hiệu
+- người cầm cờ tín hiệu
+ @guidwillie
+* tt
+- niềm nở; thân mật
+ @guild
+* dt
+- phường hội
+ @guilder
+* dt
+- đồng gunđơn (tiền Hà-lan)
+ @guild-hall
+* dt
+- trụ sở phường hội (thời Trung cổ); toà thị chính
+- (the guild-hall) phòng chiêu đãi, phòng khánh tiết (ở Luân-đôn)
+ @guildsman
+* dt
+- người thuộc phường hội
+ @guild-socialism
+* dt
+- chủ nghĩa xã hội phường hội
+ @guile
+* dt
+- sự lừa đảo, sự lừa gạt; mưu mẹo, thủ đoạn, xảo trá
+ @guileful
+* tt
+- lắm mưu mẹo, lừa gạt, xảo trá
+ @guilefully
+* dt
+- mưu mẹo, xảo trá
+ @guilefulness
+* dt
+- tính lắm mưu mẹo, tính xảo trá
+ @guileless
+* tt
+- chân thật, ngây thơ
+ @guilelessly
+* dt
+- chân thật, ngây thơ
+ @guilelessness
+* dt
+- tính chân thật, tính ngây thơ
+ @guilery
+* dt
+- (phương ngữ) sự giảo hoạt; sự dối trá
+ @Guillemin effect
+- (Tech) hiệu ứng Guillemin
+ @guillemot
+* dt
+- <động> chim uria
+ @guilloche
+* dt
+- <ktrúc> hình trang trí bằng đường vắt chéo chạm trổ
+ @guillotine
+* dt
+- máy chém
+- máy xén (giấy...)
+- (y học) dao cắt hạch hạnh
+- phương pháp xén giờ (đối phó với sự trì hoãn việc thông qua một đạo luật bằng cách định giờ thông qua từng phần)
+* ngdgt
+- chém đầu
+- xén (giấy...)
+ @guillotine attenuator
+- (Tech) bộ kềm giảm loại dao cắt
+ @guilotine
+* dt
+- máy chém
+- máy xén (giấy...)
+- <y> dao cắt hạch hạnh
+- phương pháp xén giờ (đối phó với sự trì hoãn việc thông qua một đạo luật bằng cách định giờ thông qua từng phần)
+* ngdgt
+- chém đầu
+- xén (giấy...)
+ @guilt
+* dt
+- điều sai quấy, tội lỗi
+- sự phạm tội, sự có tội
+ @guiltily
+* dt
+- với vẻ có lỗi
+ @guiltiness
+* dt
+- sự có tội, sự phạm tội
+ @guiltless
+* tt
+- không phạm tội
+- <thgt> không biết tí gì, không có tí nào
+ @guiltlessly
+- xem guiltless
+ @guiltlessness
+* dt
+- sự không có tội, sự vô tội
+ @guilty
+* tt
+- có tội, phạm tội, tội lỗi
+ @guimpe
+* dt
+- áo khoác mặc dưới tạp dề
+ @guinea
+* dt
+- đồng ghinê (tiền vàng của nước Anh xưa, giá trị tương đương 21 silinh)
+ @guinea-cock
+* dt
+- gà trống Nhật
+ @guinea-fowl
+* dt
+- <động> gà Nhật
+ @guinea-goose
+* dt
+- ngỗng trời
+ @guinea-hen
+* dt
+- gà mái Nhật
+ @guinea-pig
+* dt
+- <động> chuột lang
+- vật hoặc người dùng trong việc thí nghiệm
+- người hưởng lương tính ra thành đồng ghinê (hưởng lương, chứ không có thực quyền)
+ @guinea-poult
+* dt
+- gà Nhật con
+ @guinea-squash
+* dt
+- <thực> cà dái dê
+ @guinness
+* dt
+- bia đắng có màu sẫm
+ @guise
+* dt
+- chiêu bài, lốt, vỏ
+ @guitar
+* dt
+- <nhạc> đàn ghita
+* ndgt
+- chơi đàn ghita
+ @guitarist
+* dt
+- <nhạc> người chơi đàn ghita
+ @gujarati
+* dt
+- ngôn ngữ Gujarat (một vùng ở ấn Độ)
+ @gular
+* tt
+- thuộc cổ họng
+ @gulch
+* dt
+- <Mỹ> khe sâu
+ @gulden
+* dt
+- đồng gunđơn (tiền Hà-lan)
+ @gules
+* tt
+- đỏ (ở huy chương)
+* dt
+- màu đỏ (ở huy chương)
+ @gulf
+* dt
+- vịnh
+- hố sâu, vực thẳm; <bóng> hố sâu ngăn cách
+- xoáy nước, vực biển
+- <thơ> biển thắm
+- <ngôn ngữ nhà trường><lóng> bằng khuyến khích cấp cho học sinh đại học giỏi mà chỉ đủ điểm đỗ thường)
+* ngdgt
+- làm chìm, làm đảm, nhận chìm (xuống vực, biển...)
+- <ngôn ngữ nhà trường><lóng> cấp bằng khuyến khích (cho học sinh đại học giỏi mà chỉ đủ điểm đỗ thường)
+ @gulf stream
+* dt
+- dòng nước ấm từ vịnh Mêhicô qua Đại Tây Dương đến châu Âu
+ @gulfy
+* tt
+- có vực thẳm; có xoáy nước
+ @gull
+* dt
+- <động> mòng biển
+- người ngờ nghệch, người cả tin
+* ngdgt
+- lừa, lừa bịp
+ @gull-catcher
+* dt
+- kẻ lừa bịp những người khờ khạo
+ @guller
+* dt
+- kẻ lừa bịp
+ @gullery
+* dt
+- sự lừa bịp
+ @gullet
+* dt
+- thực quản
+- cổ họng
+- <cổ> eo, lạch (sông, biển)
+- <cổ> đường hẽm, hẽm núi
+ @gullibility
+* dt
+- tính khờ dại, tính cả tin
+ @gullible
+* tt
+- dễ bị lừa, dễ mắc lừa; khờ dại, cả tin
+ @gullibly
+* dt
+- khờ dại, cả tin
+ @gully
+* dt
+- con dao to
+- rãnh (do nước xói mòn); máng, mương
+* ngdgt
+- đào rãnh, khơi thành rãnh, khơi thành máng
+ @gully-drain
+* dt
+- rãnh thoát nước
+ @gully-hole
+* dt
+- lỗ cống thoát nước
+ @gulosity
+* dt
+- sự tham ăn quá mức
+ @gulp
+* dt
+- ngụm (chất lỏng), động tác nuốt
+* ngdgt
+- nuốt gọn, nuốt chửng
+ @gulper
+- xem gulp
+ @gulpingly
+- xem gulp
+ @gum
+* dt
+- chất gôm
+- kẹo gôm
+- <snh> nướu răng, lợi
+* ngdgt
+- dán dính
+ @gum arabic
+* dt
+- gôm arabic
+ @gum elastic
+* dt
+- cao su
+ @gumbo
+* dt
+- <thực> cây mướp tây
+- quả mướp tây
+- xúp mướp tây
+ @gumboil
+* dt
+- <y> áp xe lợi, chứng viêm nướu răng
+ @gumboot
+* dt
+- ủng cao su lên đến đầu gối
+ @gum-boots
+* dt
+- ủng cao su, giày ống cao su
+ @gumby
+* dt
+- trống găm bi (Phi châu)
+ @gum-elastic
+* dt
+- cao su
+ @gumma
+* dt; số nhiều gummata
+- (y học) bệnh giang mai (giai đoạn cuối)
+ @gummer
+* dt
+- người phết hồ
+- máy phết hồ; phết keo
+- máy sửa
+ @gummiferous
+* tt
+- có gôm, có nhựa dẻo; chứa nhôm, chứa nhựa dẻo
+ @gumminess
+- xem gummy
+ @gumming
+* tt
+- sự hình thành gôm; sự phết keo
+ @gummy
+* tt
+- dính; có nhựa dính
+- có dử (mắt)
+- sưng lên (mắt cá chân...)
+ @gumption
+* dt
+- <thgt> sự tháo vát; óc thực tế; tinh thần dám nghĩ dám làm
+ @gumshoe
+* dt<Mỹ>
+- <thgt> giày cao su
+- <lóng> mật thám
+* ndgt
+- <Mỹ> đi lén, đi rón rén
+ @gum-tree
+* dt
+- cây bạch đàn
+ @gum-wood
+* dt
+- cây cho gôm; cây cho nhựa
+ @gun
+* dt
+- súng
+- phát đại bác
+- <lóng> súng lục
+- người chơi súng thể thao, người chơi súng săn; người đi săn
+- <thể> súng lệnh
+- <kỹ> bình sơn xì
+- ống bơm thuốc trừ sâu
+- <lóng> kẻ cắp, kẻ trộm
+* dgt
+- (:for, after) săn lùng, truy nã
+ @gun crew
+* dt
+- nhóm pháo thủ
+ @gun dog
+* dt
+- chó săn
+ @gun moll
+* dt
+- <lóng> nhân tình của găngxtơ, mèo của găngxtơ
+ @gun-apron
+* dt
+- (quân sự) lưới đạn yểm hộ
+ @gun-bank
+* dt
+- ụ pháo
+ @gun-barrel
+* dt
+- nòng súng
+ @gunboat
+* dt
+- tàu chiến, pháo hạm
+ @gun-captain
+* dt
+- người chỉ huy pháo thủ
+ @gun-carriage
+* dt
+- xe chở pháo
+ @gun-case
+* dt
+- bao súng, hộp đựng súng thể thao
+ @gun-cotton
+* dt
+- bông thuốc nổ, bông thuốc súng
+ @gunfight
+* dt
+- cuộc đấu súng
+ @gunfighter
+* dt
+- người đấu súng
+ @gun-fire
+* dt
+- hoả lực; loạt súng đại bác
+- <qsự><hải> tiếng súng đại bác báo giờ (buổi sáng hoặc buổi chiều)
+ @gun-fodder
+* dt
+- mồi súng
+- bia đỡ đạn
+ @gun-foundry
+* dt
+- xưởng đúc súng
+ @gunge
+* dt
+- chất bẩn sệt
+ @gung-ho
+* tt
+- sốt sắng, hăng hái
+ @gungho
+* tt
+- (từ Mỹ, nghĩa Mỹ) hết sức hăng hái
+ @gungy
+* tt
+- bẩn thỉu
+ @gun-harpoon
+* dt
+- lao móc phóng bằng súng (để săn cá voi)
+ @gun-house
+* dt
+- hầm để súng (lúc đang có chiến sự)
+ @gunite
+* dt
+- bê tông phun
+* dgt
+- phun vữa, phun xi măng
+ @gun-licence
+* dt
+- giấy phép mang vũ khí
+ @gun-lock
+* dt
+- khoá nòng
+ @gunman
+* dt
+- <Mỹ><thgt> kẻ cướp có súng; găngxtơ
+ @gun-metal
+* dt
+- hợp kim để đúc súng
+ @Gunn (effect) diode
+- (Tech) đèn hai cực (hiệu ứng) Gunn
+ @Gunn (effect) oscillation 
+- (Tech) dao động (hiệu ứng) Gunn
+ @Gunn frequency
+- (Tech) tần số Gunn
+ @gunned
+* tt
+- có trang bị súng, có vũ trang
+ @gunnel
+* dt
+- <hải> mép (thuyền, tàu)
+ @gunner
+* dt
+- <qsự> pháo thủ
+- <hải> thượng sự phụ trách khẩu pháo
+- người đi săn bằng súng
+ @gunnery
+* dt
+- thuật bắn đại bác
+- sự chế tạo đại bác
+ @gunnery-ship
+* dt
+- tàu huấn luyện pháo thủ
+ @gunning
+* dt
+- sự đi săn
+- sự săn bắn vịt và ngỗng trời bằng thuyền
+ @gunny
+* dt
+- bị đay, bị cói
+- vải đay, vải cói (để làm bị)
+ @gunnysack
+* dt
+- bị đay
+ @gun-paper
+* dt
+- giấy nhồi đạn
+ @gun-pit
+* dt
+- ụ pháo, hầm pháo
+ @gun-plane
+* dt
+- tàu bay mang súng
+ @gunplay
+* dt
+- sự bắn súng để đe doạ
+ @gunpoint
+* dt
+- chựa súng
+ @gunpowder
+* dt
+- thuốc súng
+ @gunpowder works
+* dt
+- xưởng chế tạo thuốc súng
+ @gun-practice
+* dt
+- thuật bắn súng
+ @gun-reach
+* dt
+- tầm súng
+ @gunroom
+* dt
+- phòng cho sự quan cấp thấp (trên tàu chiến)
+ @gun-runner
+* dt
+- người buôn lậu súng
+ @gun-running
+* dt
+- sự buôn lậu súng
+ @gun-searcher
+* dt
+- dụng cụ kiểm tra súng
+ @gunshot
+* dt
+- phát súng
+- tầm súng, tầm bắn
+ @gun-shy
+* tt
+- sợ súng (chó săn)
+ @gun-slinger
+* dt
+- (từ lóng) xem  gunman
+ @gunsmith
+* dt
+- người làm súng
+- người chữa súng
+ @gunstick
+* dt
+- que thông nòng súng
+ @gun-stock
+* dt
+- báng súng
+ @gunwale
+* dt
+- <hải> mép (thuyền, tàu)
+ @guppy
+* dt (số nhiều guppies)
+- cá nước ngọt, có màu sắc rực rỡ thường nuôi ở hồ nhân tạo
+ @gurgitation
+* dt
+- sự sôi sùng sục; tiếng nước sôi sùng sục
+- sự nổi sóng
+ @gurgle   (guggle) @gurglingly
+- xem gurgle
+ @gurkha
+* dt
+- binh sự Nêpan trong quân đội Anh
+ @gurnard   (gurnet) @gurnet   (gurnet) @guru
+- (Tech) bậc thầy
+ @gush  
+*  dt
+- sự phun ra, sự vọt ra
+- sự bộc lộ tràn trề, sự thổ lộ tràn trề (tình cảm)
+
++ a gush of anger: cơn giận đùng đùng
+*  dgt
+- phun ra, vọt ra
+
++ oil gushes from a new well: dầu phun ra từ một giếng mới
+
++ blood gushes from a wound: máu vọt ra từ một vết thương
+- nói một thôi một hồi, phun ra một tràng
+- bộc lộ tràn trề, thổ lộ tràn trề (tình cảm...)
+
+@gusher  
+*  dt
+- giếng dầu phun
+- (thông tục) người hay bộc lộ tâm sự, người hay thổ lộ tình cảm
+
+@gushily
+- xem gushy
+ @gushiness
+- xem gushy
+ @gushing  
+*  tt
+- phun ra, vọt ra
+- tuôn ra hàng tràng
+- hay bộc lộ, hay thổ lộ (tình cảm...); vồn vã
+
++ a gushing person: người hay thổ lộ tình cảm; người hay vồn vã
+
+@gushingly
+* dt
+- vồn vã, vồ vập
+ @gushy  
+*  tt
+- hay bộc lộ, hay thổ lộ (tình cảm...); vồn vã
+
+@gusset  
+*  dt
+- miếng vải đệm (cho chắc thêm); miếng vải can (để nới rộng quần áo)
+- (kỹ thuật) cái kẹp tóc
+
+@gust  
+*  dt
+- cơn gió mạnh
+
++ gust of wind: cơn gió mạnh
+
++ the wind is blowing in gusts: gió thổi từng cơn
+- cơn mưa rào
+
++ gust of rain: trận mưa rào
+- ngọn lửa cháy bùng
+- cơn (giận...)
+
++ gusts of rage: cơn giận điên lên
+*  ndgt
+- thổi giật từng cơn
+
+@gustable
+* tt
+- ngon lành
+ @gustation  
+*  dt
+- sự nếm; vị giác
+
+@gustatorily
+- xem gustatory
+ @gustatory  
+*  tt
+- (thuộc) vị giác
+
+@gustily
+- xem gusty
+ @gustiness
+- xem gusty
+ @gusto  
+*  dt
+- sự thưởng thức, sự hưởng
+- sự khoái trá, sự thích thú
+
+@gusty  
+*  tt
+- gió bão, dông tố
+- dễ nổi nóng (tính tình)
+
+@gut  
+*  dt
+- ruột
+
++ small gut: ruột non
+
++ blind gut: ruột tịt
+- (số nhiều) ruột, lòng (thú vật)
+- sự can đảm, sự quyết tâm; (số nhiều) (thực vật học) sự gan góc, sự gan dạ, khí phách, tinh thần chịu đựng
+
++ a fellow full of gut: người can đảm gan góc
+- (số nhiều) (thông tục) cái bụng, cái thùng chứa (tượng trưng cho sự tham ăn, tham uống)
+- (số nhiều) (thông tục) nội dung chính, phần có giá trị (của cái gì)
+
++ guts of a speech: nội dung chính của bài nói
+- dây ruột mèo (dùng cho đàn viôlông); dây cước (để câu cá); chỉ khâu vết mổ
+- đường hẻm nhỏ; cửa hẹp (sông, biển)
+*  ngdgt
+- moi ruột (một con vật)
+
++ to gut a fish: moi ruột cá
+- phá huỷ bên trong
+
++ a house gutted by fire: ngôi nhà bị lửa thiêu sạch bên trong (chỉ còn bốn bức tường)
+- rút ruột, rút gan; rút hết tinh tuý (một cuốn sách)
+*  ndgt
+- tọng, nốc cho đầy
+
+@gutless  
+*  tt
+- không có nghị lực, không có gan, nhu nhược, không có khí khách
+
+@gutlessness
+- xem gutless
+ @gutsily
+- xem gutsy
+ @gutsiness
+- xem gutsy
+ @gutsy
+* tt
+- gan góc, dũng cảm
+ @guttae  
+*  dt số nhiều
+- (kiến trúc) chấm giọt (chấm hình giọt nước trong trí trên tường)
+
+@gutta-percha  
+*  dt
+- Gutapeca, nhựa két
+
+@guttate  
+*  tt
+- (sinh vật học) lốm đốm
+
+@guttation
+* dt
+- sự tạo giọt; sự hình thành giọt (ở cây)
+ @gutter  
+*  dt
+- máng nước, ống máng, máng xối (dưới mái nhà)
+- rânh nước (xung quanh nhà, hai bên đường phố...)
+- (nghĩa bóng) nơi bùn lầy nước đọng; cặn bã (xã hội)
+
++ the language of the gutter: giọng du côn đểu cáng
+
++ the manners of the gutter: tác phong du côn
+
++ to take the child out of the gutter; to raise the child from the gutter: đưa đứa bé ra khỏi chốn bùn lầy nước đọng
+*  ngdgt
+- bắc máng nước
+- đào rãnh
+*  ndgt
+- chảy thành rãnh
+- chảy (nến)
+
+@gutter-child   (gutter-snipe) @guttering
+* dt
+- hệ thống thoát nước
+ @gutter-journalism   (gutter-journalism) @gutter-man  
+*  dt
+- người bán rong hàng vặt
+
+@gutter-press   (gutter-journalism) @gutter-snipe   (gutter-snipe) @guttersnipish
+* dt
+- thân phận đứa trẻ bụi đời
+ @gutterway
+* dt
+- máng tiêu
+- đường rãnh
+ @guttiform
+* tt
+- dạng giọt
+ @guttle  
+*  ndgt
+- ăn uống tham lam
+
+@guttler  
+*  dt
+- kẻ tham lam
+
+@guttula
+* dt; số nhiều guttulae
+- giọt nhỏ
+ @guttulate
+* tt
+- có giọt nhỏ; dạng giọt nhỏ
+ @guttulose
+* tt
+- xem guttulate
+ @guttural  
+*  tt
+- (thuộc) yết hầu
+*  dt
+- (ngôn ngữ học) âm yết hầu
+
+@gutturalism
+- xem guttural
+ @gutturality
+- xem guttural
+ @gutturalize
+* ndgt
+- thành âm gốc lưỡi
+* ngdgt
+- phát âm kiểu gốc lưỡi
+ @gutturally
+- xem guttural
+ @gutty
+- xem gut
+ @guv
+* dt
+- (thông tục) thưa ngài (cách xưng hô với người có quyền thế)
+ @guve
+- cho
+ @guv'nor  
+*  dt
+- (từ lóng) cha; chú
+
+@guvnor
+* dt
+- (thông tục) thưa ngài (cách xưng hô với người có quyền thế)
+- ông chủ
+ @guy  
+*  dt
+- dây, xích
+*  ngdgt
+- buộc bằng dây, xích lại
+*  dt
+- bù nhìn; ngáo ộp
+- người ăn mặc kỳ quái
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) anh chàng, gã
+
++ who's that guy?: anh chàng ấy là ai thế?
+- (từ lóng) sự chuồn
+
++ to give the guy to: chuồn khỏi, bỏ đi
+
++ to do a guy: đánh bài chuồn
+- (từ Mỹ,nghĩa Mỹ) lời nói đùa, lời pha trò; lời nói giễu
+*  ngdgt
+- bêu hình nộm (của ai)
+- chế giễu (ai)
+*  ndgt
+- (từ lóng) chuồn
+
+@guzzle  
+*  dgt
+- ăn uống tục, ăn uống tham lam
+
++ to guzzle beer: uống bia ừng ực
+- tiêu hết tiền vào việc ăn uống lu bù
+
+@guzzler  
+*  dt
+- kẻ ăn tục; kẻ tham ăn tham uống
+
+@

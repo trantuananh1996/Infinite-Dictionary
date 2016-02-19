@@ -1,0 +1,149 @@
+@pt
+* dt
+- số nhiều pts
+- (PT) (viết tắt) của physical training sự rèn luyện thân thể
+- do PT
+- thực hành rèn luyện thân thể
+- (Pt) (viết tắt) của part phần
+- Pt 2
+- phần 2
+- (số nhiều) (viết tắt) của pint panh (0, 57 lít ở Anh, 0, 47 lít ở Mỹ)
+- (số nhiều) (viết tắt) của point điểm
+- 10 pts
+- 10 điểm
+- (Pt) (viết tắt) của port cảng (nhất là trên bản đồ)
+- Pt Saigon
+- cảng Sài gòn
+ @pt boat  
+*  dt
+- tàu phóng ngư lôi tuần tiễu
+
+@pta
+* dt
+- (PTA)  <vt> của parent-teacher association hội phụ huynh-thầy giáo (ở các trường học)
+- vt của peseta đồng pezơta (tiền Tây Ban Nha)
+ @ptarmigan  
+*  dt
+- (động vật học) gà gô trắng
+
+@ptboat
+* dt
+- tàu tuần tiểu phóng ngư lôi (viết tắt) của patrol torpedo boat
+ @pte
+* dt
+- <vt> của Private lính trơn, binh nhì
+ @pter-
+- hình thái ghép có nghĩa là cánh: pteropod : động vật chân cánh
+- hình thái ghép có nghĩa là cánh: pteropod : động vật chân cánh
+ @pteridium
+* dt
+- (thực vật học) quả có cánh
+ @pteridological
+- xem pteridology
+ @pteridologist
+- xem pteridology
+ @pteridology  
+*  dt
+- (thực vật học) khoa nghiên cứu dương xỉ
+
+@pteridophyte
+* dt
+- loại cây không có hoa (đặc biệt (như) cây dương xỉ)
+ @pteridosperm
+* dt
+- hạt có cánh
+ @pterins
+* dt
+- số nhiều
+- sắc tố cánh
+ @ptero-
+- xem pter-
+ @pterocarp
+* dt
+- quả có cánh
+ @pterodactyl  
+*  dt
+- (động vật học) thằn lằn ngón cánh (nay đã tuyệt chủng)
+
+@pterodactyloid
+- xem pterodactyl
+ @pterodactylous
+- xem pterodactyl
+ @pteroid
+* tt
+- dạng cánh
+ @pteropod  
+*  dt
+- (động vật học) động vật chân cánh (thuộc loại thân mềm)
+
+@pteropodan
+- xem pteropod
+ @pterosaur  
+*  dt
+- (động vật học) thằn lằn bay (nay đã tuyệt chủng)
+
+@pterostigna
+* dt
+- mắt cánh (côn trùng)
+ @pterygia
+* dt
+- số nhiều
+- xem pterygium
+ @pterygial
+* tt
+- thuộc cánh, thuộc vây, thuộc đuôi cánh sau
+ @pterygiod
+* dt
+- xương cánh
+* tt
+- dạng cánh
+ @pterygiodus
+* tt
+- có cánh
+ @pterygium
+* dt
+- số nhiều pterygia
+- cánh; vây; đuôi cánh sau
+ @pterygote
+* dt @pterygotous
+* tt
+- có cánh
+ @pteryla
+* dt
+- số nhiều pterylae
+- vùng lông (chim)
+ @pterylae
+* dt
+- số nhiều
+- xem pteryla
+ @ptisan  
+*  dt
+- nước lúa mạch, nước gạo rang (uống như trà)
+
+@pto
+* dt
+- (PTO) hoặc (pto)  <vt> của please turn over xin giở sang trang
+ @ptochocracy
+* dt
+- chế độ cai trị bởi người nghèo
+ @ptomaine  
+*  dt
+- (hoá học) Ptomain
+
+@ptomaine poisoning
+- sự ngộ độc thực phẩm
+ @ptosis  
+*  dt
+- (y học) chứng sa mi mắt
+
+@ptotic
+- xem ptosis
+ @ptyalin  
+*  dt
+- (sinh vật học) Tyalin, men nước bọt
+
+@ptyalism  
+*  dt
+- chứng ứa nước bọt
+
+@

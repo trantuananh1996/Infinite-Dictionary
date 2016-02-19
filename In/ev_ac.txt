@@ -1,0 +1,2969 @@
+@a @ac @ac @ac (alternating component)
+- (Tech) bộ phận xoay chiều
+ @ac (alternating current)
+- (Tech) dòng điện xoay chiều, dòng điện hai chiều; xoay chiều
+ @ac (alternating current) bus
+- (Tech) mẫu tuyến dòng điện xoay chiều
+ @ac (alternating current) charging
+- (Tech) nạp điện dòng xoay chiều
+ @ac (alternating current) circuit
+- (Tech) mạch điện xoay chiều
+ @ac (alternating current) coupled flip-flop
+- (Tech) mạch xúc phát ghép xoay chiều
+ @ac (alternating current) coupling
+- (Tech) ghép xoay chiều
+ @ac (alternating current) distribution cabinet
+- (Tech) hộp phân phối dòng điện xoay chiều
+ @ac (alternating current) erasing
+- (Tech) xóa xoay chiều
+ @ac (alternating current) erasing head
+- (Tech) đầu xóa xoay chiều
+ @ac (alternating current) generator
+- (Tech) máy phát điện xoay chiều
+ @ac (alternating current) Josephson effect
+- (Tech) hiệu ứng Josephson xoay chiều
+ @ac (alternating current) motor
+- (Tech) động cơ điện xoay chiều
+ @ac (alternating current) oscillator
+- (Tech) bộ dao động điện xoay chiều
+ @ac (alternating current) oscillator source
+- (Tech) nguồn dao động điện xoay chiều
+ @ac (alternating current) plate resistance
+- (Tech) điện trở bản cực xoay chiều
+ @ac (alternating current) power supply
+- (Tech) nguồn điện xoay chiều
+ @ac (alternating current) receiver
+- (Tech) máy thu chạy điện xoay chiều
+ @ac (alternating current) resistance
+- (Tech) điện trở xoay chiều
+ @ac (alternating current) servo motor
+- (Tech) động cơ trợ động điện xoay chiều
+ @acacia  
+*  dt
+- (thực vật học) giống cây keo
+
+@academe  
+*  dt
+- (thơ ca) học viện; trường đại học
+
+@academese
+* dt
+- phong cách hàn lâm viện
+ @academia
+* dt
+- giới học viện
+ @academic  
+*  tt
+- (thuộc) học viện; (thuộc) trường đại học
+- (thuộc) viện hàn lâm
+- có tính chất học thuật
+
++ an academic debate: một cuộc tranh luận có tính chất học thuật
+- lý thuyết suông, trừu tượng, không thực tế
+
++ an academic question: một vấn đề trừu tượng, một vấn đề không thực tế
+- (văn nghệ) kinh viện
+
++ academic painting: hội hoạ kinh viện
+- (thuộc) trường phái triết học Pla-ton
+*  dt
+- hội viên học viện
+- viện sĩ
+- người quá nệ kinh viện
+- (số nhiều) lập luận hoàn toàn lý thuyết
+- (số nhiều) mũ áo đại học (của giáo sư và học sinh đại học ở Anh)
+
+@academical  
+*  tt
+- (thuộc) học viện; (thuộc) trường đại học
+
+@academically
+* dt
+- về mặt lý thuyết, thuần về lý thuyết
+ @academicals  
+*  dt số nhiều
+- mũ áo đại học (của giáo sư và học sinh đại học ở Anh)
+
+@academician  
+*  dt
+- viện sĩ
+
+@academy  
+*  dt
+- học viện
+
++ a military academy: học viện quân sự
+- viện hàn lâm
+- trường chuyên nghiệp
+- trường tư thục (dành cho trẻ em nhà giàu)
+- vườn A-ca-đê-mi (khu vườn gần A-ten nơi Pla-ton giảng triết học); trường phái triết học Pla-ton; môn đệ của Pla-ton
+
+@academy award
+* dt
+- phần thưởng hàng năm do Hàn lâm viện điện ảnh - nghệ thuật - khoa học Mỹ dành cho những thành tựu về điện ảnh
+ @acaleph  
+*  dt
+- loài sứa
+
+@acanthi  
+*  dt,  số nhiều acanthuses,  acanthi
+- cây ô rô
+- (kiến trúc) hình trang trí lá ô rô
+
+@acanthocarp
+* dt
+- quả gai
+ @acanthocarpous
+* tt
+- có quả gai
+ @acanthocephalan
+* dt
+- sâu bọ đầu gai
+* tt
+- thuộc sâu bọ đầu gai
+ @acanthocephalous
+* tt
+- có đầu móc
+ @acanthocladous
+* tt
+- có cành gai
+ @acanthocyst
+* dt
+- kén gai, nang gai
+ @acanthoma
+* dt
+- bướu gai
+ @acanthophore
+* dt
+- cuống gai; gốc gai
+ @acanthophysis
+* dt
+- sự rụng gai
+ @acanthopore
+* dt
+- (sinh học) sự hoá gai
+ @acanthus  
+*  dt,  số nhiều acanthuses,  acanthi
+- cây ô rô
+- (kiến trúc) hình trang trí lá ô rô
+
+@acapsular
+* tt
+- không bao; không nang, không vỏ
+ @acardia
+* dt
+- tật thiếu tim (bẩm sinh)
+ @acari  
+*  dt,  số nhiều acari
+- (động vật học) cái ghẻ
+
+@acarid
+* dt
+- (động vật) bộ ve bét
+* tt
+- thuộc bộ ve bét
+ @acarpellous  
+*  tt
+- (thực vật học) không lá noãn
+
+@acarpous  
+*  tt
+- (thực vật học) không sinh quả
+
+@acarus  
+*  dt,  số nhiều acari
+- (động vật học) cái ghẻ
+
+@acas
+* (viết tắt)
+- Dịch vụ trọng tài, hoà giải và cố vấn (Advisory, Conciliation and Arbitration Service)
+ @acatalectic
+* dt
+- câu có số âm tiết đầy đủ (câu thơ)
+ @acaulescent
+* tt
+- (thực vật) không thân cây
+ @acaulesent  
+*  tt
+- (thực vật học) không thân (cây)
+
+@acauline  
+*  tt
+- (thực vật học) không thân (cây)
+
+@acaulose  
+*  tt
+- (thực vật học) không thân (cây)
+
+@acaulosia
+* dt
+- sự không phát triển thân
+ @acaulous  
+*  tt
+- (thực vật học) không thân (cây)
+
+@accede  
+*  ndgt
+- đồng ý, tán thành, thừa nhận, bằng lòng
+
++ to accede to an apinion: đồng ý với một ý kiến
+
++ to accede to a policy: tán thành một chính sách
+- lên (ngôi), nhậm (chức)
+
++ to accede to the throne: lên ngôi
+
++ to accede to an office: nhậm chức
+- gia nhập, tham gia
+
++ to acceden to a party: gia nhập một đảng phái
+
++ to accede to a treaty: tham gia một hiệp ước (bằng cách chính thức tuyên bố chấp thuận)
+
+@accedence
+- xem accede
+ @acceder
+- xem accede
+ @accelerando
+* tt,adv
+- (nhạc) nhanh dần
+* dt
+- bản nhạc chơi nhanh dần
+ @accelerandou
+* tt,  adv
+- (âm nhạc) nhanh lên
+ @accelerant
+* dt
+- (hoá học) chất làm phản ứng hoá học xuất hiện nhanh hơn
+ @accelerate  
+*  ngdgt
+- làm nhanh thêm; làm chóng đến; thúc mau, giục gấp
+- rảo (bước)
+
++ to accelerate the pace: bước mau hơn, rảo bước
+*  ndgt
+- tăng nhanh hơn; mau hơn, bước mau hơn, rảo bước
+- gia tốc
+
+@accelerate
+- tăng tốc, gia tốc, làm nhanh
+ @Accelerated depreciation
+- (Econ) Khấu hao nhanh, khấu hao gia tốc.
+: Xem DEPRECIATION
+ @accelerated test
+- (Tech) trắc nghiệm gia tốc
+ @accelerating  
+*  tt
+- làm nhanh thêm
+- gia tốc
+
++ accelerating force: (vật lý) lực gia tốc
+
+@accelerating anode
+- (Tech) dương cực gia tốc
+ @accelerating cavity
+- (Tech) cái hốc gia tốc
+ @accelerating coil
+- (Tech) cuộn dây gia tốc
+ @accelerating electrode
+- (Tech) điện cực gia tốc
+ @accelerating field
+- (Tech) trường gia tốc
+ @accelerating grid
+- (Tech) lưới gia tốc
+ @Accelerating inflation
+- (Econ) Lạm phát gia tốc.
+: Sự tăng vọt tỷ lệ lạm phát. Nếu chính phủ cố giữ tỷ lệ thất nghiệp dưới mức tỷ lệ thất nghiệp tự nhiên thì việc đó sẽ dẫn tới lạm phát gia tốc.
+ @accelerating potential
+- (Tech) thế gia tốc
+ @acceleration  
+*  dt
+- sự làm nhanh thêm, sự thúc mau, sự giục gấp
+- gia tốc
+
++ acceleration of gravity: (vật lý) gia tốc của trọng lực
+
+@acceleration
+- (Tech) gia tốc, tăng tốc; độ gia tốc
+ @acceleration
+- sự tăng tốc, sự gia tốc, sự làm nhanh
+- a. by powering sự tăng nhanh độ hội tụ bằng cách nâng lên luỹ thừa 
+- a. of convergence sự tăng nhanh độ hội tụ, gia tốc hội tụ
+- a. of Corriolis sự tăng tốc Coriolit
+- a. of gravity gia tốc trọng trường
+- a. of falliing body sự tăng tốc gia tốc vật rơi
+- a. of translation gia tốc tịnh tiến
+- angular a. gia tốc góc
+- average a. gia tốc trung bình
+- centripetal a. gia tốc hướng tâm 
+ @acceleration
+- complementary a. sự tăng tốc Coriolit, gia tốc Coriolit
+- instantaneous a. gia tốc tức thời
+- local a. gia tốc địa phương
+- normal a. gia tốc pháp tuyến
+- relative a. gia tốc tương đối
+- Standar gravitationnal a. gia tốc trọng trường tiêu chuẩn
+- supplemental a. gia tốc tiếp tuyến
+- total a. gia tốc toàn phần
+- uniform a.gia tốc đều 
+ @acceleration of convergence
+- (Tech) gia tốc hội tụ
+ @acceleration parameter
+- (Tech) thông số gia tốc
+ @acceleration voltage
+- (Tech) điện thế gia tốc
+ @accelerative  
+*  tt
+- làm nhanh thên, làm mau thêm
+
+@accelerator  
+*  dt
+- người làm tăng tốc độ
+- máy gia tốc; chân ga (xe ôtô)
+
++ high-frequency accelerator: máy gia tốc tầng cao
+- (hoá học) chất gia tốc
+- (sinh vật học) dây thần kinh gia tốc
+
+@accelerator
+- (Tech) bộ gia tốc, bộ tăng tốc
+ @Accelerator
+- (Econ) Gia số
+: Xem Accelerator principle.
+ @accelerator board
+- (Tech) bảng gia tốc, tấm gia tốc
+ @accelerator card
+- (Tech) thẻ gia tốc
+ @Accelerator coefficient
+- (Econ) Hệ số gia tốc.
+: Một bội số theo đó đầu tư mới sẽ tăng lên khi có sự thay đổi về sản lượng.
+ @Accelerator effect
+- (Econ) Hiệu ứng gia tốc.
+ @accelerator key
+- (Tech) khóa gia tốc, phím gia tốc 
++  hot key
+ @Accelerator principle
+- (Econ) Nguyên lý gia tốc.
+: Nguyên lý cho rằng mức đầu tư ròng phụ thuộc vào mức thay đổi dự kiến về sản lượng.
+ @accelerometer
+- (Tech) máy đo gia tốc, gia tốc kế
+ @accent  
+*  dt
+- trọng âm
+- dấu trọng âm
+
++ acute accent: dấu sắc
+
++ circumflex accent: dấu mũ
+
++ grave accent: dấu huyền
+- giọng
+
++ to speak English with a French accent: nói tiếng Anh với giọng Pháp
+
++ to speak ina plaintive accent: nói giọng than van
+- (số nhiều) lời nói, lời lẽ
+
++ he found every moving accent to persuade his audience: anh tìm những lời lẽ thật cảm động để thuyết phục thính giả
+- (âm nhạc) nhấn; dấu nhấn
+- (nghĩa bóng) sự phân biệt rõ rệt
+*  ngdgt
+- đọc có trọng âm, nói có trọng âm, đọc nhấn mạnh
+- đánh dấu trọng âm
+- nhấn mạnh, nêu bật
+
+@accent
+- (Tech) dấu, âm phù; giọng nhấn; đánh dấu (đ); nhấn mạnh (đ)
+ @accent
+- dấu phẩy
+ @accented character
+- (Tech) chữ có dấu
+ @accentor  
+*  dt
+- (động vật học) chim chích
+
+@accentual  
+*  tt
+- (thuộc) trọng âm; dựa vào trọng âm
+
+@accentually
+- xem accentual
+ @accentuate  
+*  ngdgt
+- nhấn trọng âm, đặt trọng âm, đánh dấu trọng âm
+- nhấn mạnh, làm nổi bật, nêu bật
+
+@accentuated contrast
+- (Tech) sự tương phản tăng cường
+ @accentuation  
+*  dt
+- sự nhấn trọng âm, sự đặt trọng âm, sự đánh dấu trọng âm
+- sự nhấn mạnh, sự nêu bật
+
+@accentuation
+- (Tech) gia cường, nhấn mạnh
+ @accentuator
+- (Tech) bộ gia cường, bộ tăng sóng
+ @accept  
+*  ngdgt
+- nhận, chấp nhận, chấp thuận
+
++ to accept a proposal: chấp nhận một đề nghị
+
++ to accept a present: nhận một món quà
+
++ to accept an invitation: nhận lời mời
+- thừa nhận
+
++ to accept a truth: thừa nhận một sự thật
+- đảm nhận (công việc...)
+- (thương nghiệp) chịu trách nhiệm về; nhận thanh toán (hoá đơn, hối phiếu...)
+
+@accept
+- nhận, chấp nhận; thừa nhận; không bác bỏ
+ @accept connection
+- (Tech) nối nhận
+ @accept stacker
+- (Tech) hộp chứa phiếu đã đọc
+ @accept statement
+- (Tech) câu lệnh nhận
+ @acceptability  
+*  dt
+- tính chất có thể chấp nhận
+- tính chất có thể thừa nhận
+
+@acceptable  
+*  tt
+- có thể nhận, có thể chấp nhận
+- có thể thừa nhận
+- thoả đáng, làm hài lòng; được hoan nghênh, được tán thưởng
+
+@acceptable
+- nhận được, chấp nhận được, thừa nhận được
+ @acceptable quality level (AQL)
+- (Tech) mức độ phẩm chất chấp nhận được
+ @acceptableness
+- xem acceptable
+ @acceptably
+* dt
+- chấp nhận được, thừa nhận được
+- đáng hoan nghênh, đáng tán thưởng
+ @acceptance  
+*  dt
+- sự nhận, sự chấp nhận, sự chấp thuận
+- sự thừa nhận, sự công nhận
+- sự hoan nghênh, sự tán thưởng, sự tán thành; sự tin
+
++ his statement will not find acceptance: lời tuyên bố của ông ta sẽ không được ai tin
+- (thương nghiệp) sự nhận thanh toán (hoá đơn); hoá đơn được nhận thanh toán
+
++ general acceptance: sự nhận thanh toán không cần có điều kiện
+
++ qualified acceptance: sự nhận thanh toán có điều kiện
+!acceptance of persons
+- sự thiên vị
+
+@Acceptance
+- (Econ) chấp nhận thanh toán.
+: Hành vi chấp nhận một hối phiếu do cá nhân hay cơ quan nhận hối phiếu thực hiện, bao gồm ký hối phiếu và thường ký trên mặt hối phiếu.
+ @acceptance
+- sự nhận, sự thu nhận
+ @acceptance angle
+- (Tech) góc thụ quang, góc nhận ánh sáng
+ @acceptance cone
+- (Tech) chóp thụ quang
+ @acceptance inspection
+- (Tech) kiểm tra nghiệm thu
+ @acceptance pattern
+- (Tech) mô thức thụ quang
+ @acceptance test
+- (Tech) thử nghiệm thu, trắc nghiệm kiểm nhận
+ @acceptance trials
+- (Tech) thực nghiệm thụ quang
+ @acceptation  
+*  dt
+- ý nghĩa đặc biệt (của một từ, thành ngữ)
+- nghĩa được thừa nhận (của một từ, thành ngữ)
+
+@accepted  
+*  tt
+- đã được thừa nhận, đã được công nhận
+
+@accepted
+- được công nhận, được thừa nhận
+ @accepting
+- (Tech) nhận tin (đầu cuối)
+ @Accepting house
+- (Econ) Ngân hàng nhận trả.
+: Một trong số các NGÂN HÀNG THƯƠNG MẠI có trụ sở tại London, với mục đích thu tiền hoa hồng ngân hàng này nhận trả các hối phiếu, nghĩa là chấp nhận thanh toán chúng khi đáo hạn.
+ @accepting station
+- (Tech) trạm nhận tin
+ @acceptor  
+*  dt
+- (thương nghiệp) người nhận thanh toán (hoá đơn...)
+- (vật lý); (hoá học) chất nhận
+
+@acceptor
+- (Tech) nguyên tử nhận, phần tử nhận; mạch cộng hưởng (nối tiếp), mạch nhận; chất tạp nhận
+ @acceptor center
+- (Tech) trung tâm tiếp nhận
+ @acceptor circuit
+- (Tech) mạch cộng hưởng nối tiếp, mạch nhận
+ @acceptor level
+- (Tech) mức nhận
+ @acceptor state
+- (Tech) trạng thái nhận
+ @acceptor type trap
+- (Tech) cái bẫy loại nhận
+ @Accesion rate
+- (Econ) Tỷ lệ gia tăng lao động.
+: Số lượng những người thuê mới mỗi tháng tính theo tỷ lệ phần trăm tổng số việc làm do Bộ lao động Mỹ thống kê.
+ @Accesions tax
+- (Econ) Thuế quà tặng.
+: Thuế đánh vào quà tặng và tài sản thừa kế.
+ @accesory
+- phụ thêm; phụ tùng
+ @access  
+*  dt
+- lối vào, cửa vào, đường vào
+- sự đến gần, sự cho vào, sự lui tới; quyền đến gần, quyền lui tới
+
++ easy of access: dễ đến gần, dễ lui tới
+
++ difficult of access: khó đến gần, khó lui tới
+
++ to have access to somebody: được gần gũi ai, được lui tới nhà ai
+- sự dâng lên (nước triều)
+
++ the access and recess of the sea: lúc triều lên và triều xuống ở biển
+- cơn
+
++ access of anger: cơn giận
+
++ access of illness: cơn bệnh
+- sự thêm vào, sự tăng lên
+
++ access of wealth: sự giàu có thêm lên
+
+@access
+- (Tech) truy cập, truy tìm, truy xuất-nhập, tồn thủ [TQ]; lối vào; tiếp cận; viết (vào)-đọc (ra), tồn thủ; tìm vào
+ @Access @access
+- sự cho vào; (máy tính) lối vào nhận tin
+- random a. thứ tự chọn ngẫu nhiên 
+ @access address
+- (Tech) địa chỉ truy cập
+ @access arm
+- <tin> cần mang đầu từ
+ @access attempt
+- (Tech) lần thử độ truy cập
+ @access barred signal
+- (Tech) tín hiệu cản truy cập
+ @access category
+- (Tech) hạng mục @access code
+- (Tech) mã truy cập
+ @access control
+- (Tech) điều khiển truy cập
+ @access control device (ACD)
+- (Tech) thiết bị điều khiển truy cập
+ @access coupler
+- (Tech) bộ ghép truy cập
+ @access denial
+- (Tech) chối bỏ @access digit
+- (Tech) số mã truy cập
+ @access failure
+- (Tech) thất bại truy cập
+ @access hierarchy
+- (Tech) giai tầng truy cập [NB]
+ @access hole
+- <tin> khe đầu từ
+ @access key
+- (Tech) phím truy cập
+ @access level
+- (Tech) mức truy cập
+ @access list
+- (Tech) danh sách truy cập
+ @access memory
+- (Tech) bộ nhớ truy cập
+ @access menu
+- (Tech) đơn chọn truy cập
+ @access method
+- (Tech) phương pháp truy cập
+ @access mode
+- (Tech) kiểu truy cập
+ @access model
+- (Tech) mô hình truy cập
+ @access originator
+- (Tech) nguồn khởi truy cập
+ @access path
+- (Tech) đường truy cập
+ @access period
+- (Tech) thời kỳ truy cập
+ @access permission
+- (Tech) cho phép truy cập
+ @access phase
+- (Tech) pha @access plan
+- (Tech) kế hoạch truy cập
+ @access point
+- (Tech) điểm truy cập
+ @access port
+- (Tech) bến truy cập
+ @access privilege
+- (Tech) đặc quyền truy cập [NB]
+ @access procedure
+- (Tech) thủ tục truy cập
+ @access protocol
+- (Tech) nghi thức truy cập
+ @access rate 
++  access speed
+- (Tech) tốc độ truy cập
+ @access request
+- (Tech) yêu cầu truy cập
+ @access success
+- (Tech) thành công truy cập
+ @access success ratio
+- (Tech) tỉ lệ thành công truy cập
+ @access time
+- (Tech) thời gian truy cập; thời gian thiết lập
+ @access type
+- (Tech) loại truy cập
+ @accessary   (accessary) @access-denial probability
+- (Tech) xác suất từ khước truy cập
+ @access-denial time
+- (Tech) thời gian từ khước truy cập
+ @accessibility  
+*  dt
+- tính có thể tới được, tính có thể đến gần được
+- sự dễ bị ảnh hưởng
+
+@accessibility
+- (Tech) khả năng truy cập; tính tiếp cận
+ @accessible  
+*  tt
+- có thể tới được, có thể gần được
+
++ the remote hamlet is accessible by bicycle: cái xóm nghèo hẻo lánh đó có thể đi xe đạp đến được
+- dễ bị ảnh hưởng
+
++ accessible to bribery: dễ hối lộ, dễ đút lót
+- dễ gần (người)
+
+@accessible
+- tới được, đạt được
+ @accessibleness
+- xem accessible
+ @accessibly
+- xem accessible
+ @accessiflexor
+* dt
+- (giải phẫu) cơ gấp phụ
+ @accession  
+*  dt
+- sự đến gần, sự tiếp kiến
+- sự lên ngôi, sự nhậm chức; sự đến, sự đạt tới
+
++ accession to the throne: sự lên ngôi
+
++ accession to office: sự nhậm chức
+
++ accession to manhood: sự đến tuổi trưởng thành
+- sự tăng thêm, sự thêm vào; phần thêm vào
+
++ an accession to one's stock of knowledge: sự góp thêm vào cái vốn hiểu biết
+- sự gia nhập, sự tham gia
+
++ accession to an international treaty: sự tham gia một hiệp ước quốc tế
+- sự tán thành
+
+@accessional
+- xem accession
+ @accessorial
+- xem accessory
+ @accessories
+- (Tech) phụ tùng, bộ phụ, phụ kiện [TQ]
+ @accessorily
+- xem accessory
+ @accessoriness
+- xem accessory
+ @accessorius
+* dt
+- (giải phẫu) cơ phụ; dây thần kinh não X
+ @accessory   (accessary) @accessory software
+- (Tech) nhu liệu @access-rights terminal
+- (Tech) đầu cuối dành quyền truy cập
+ @acciaccatura
+* dt (âm nhạc)
+- nốt dựa
+ @accidence  
+*  dt
+- (ngôn ngữ học) hình thái học
+- yếu tố cơ sở (của một vấn đề)
+
+@accident  
+*  dt
+- sự rủi ro, tai nạn, tai biến
+
++ without accident: an toàn không xảy ra tai nạn
+
++ to meet with an accident: gặp rủi ro; gặp tai nạn, gặp tai biến
+- sự tình cờ, sự ngẫu nhiên
+
++ by accident: tình cờ, ngẫu nhiên
+- cái phụ, cái không chủ yếu
+- sự gồ ghề, sự khấp khểnh
+- (âm nhạc) dấu thăng giáng bất thường
+
+@accident
+- (Tech) hư hỏng, tai nạn
+ @accident
+- sự ngẫu nhiên, trường hợp không may
+ @accidental  
+*  tt
+- tình cờ, ngẫu nhiên; bất ngờ
+- phụ, phụ thuộc, không chủ yếu
+*  dt
+- cái phụ, cái không chủ yếu
+- (âm nhạc) dấu thăng giáng bất thường
+
+@accidental
+- (Tech) rũi ro; phụ
+ @accidental
+- ngẫu nhiên
+ @accidental error
+- (Tech) sai số rủi ro
+ @accidentally  
+*  dt
+- tình cờ, ngẫu nhiên
+
+@accident-prone
+* tt
+- thường xảy ra tai nạn
+ @accipiter
+* dt
+- chim ưng
+ @accipitral  
+*  tt
+- (thuộc) chim ưng; như chim ưng
+- tham mồi (như chim ưng); tham tàn
+- tinh mắt (như chim ưng)
+
+@accipitrine
+* tt
+- liên quan tới chim ưng; giống như chim ưng
+ @acclaim  
+*  dt
+- tiếng hoan hô
+*  ngdgt
+- hoan hô
+- tôn lên
+
++ to be acclaimed king: được tôn lên làm vua
+
+@acclaimer
+- xem acclaim
+ @acclamation  
+*  dt
+- sự hoan hô nhiệt liệt
+
++ carried by acclamation: thông qua bằng cách hoan hô
+
++ the decision was carried by acclamation: mọi người vỗ tay hoan hô thông qua nghị quyết
+- ((thường) số nhiều) tiếng reo hoan hô, tiếng tung hô
+
+@acclamatory  
+*  tt
+- hoan hô bằng cách nhiệt liệt hoan hô
+
++ acclamatory vote: bầu bằng cách hoan hô
+
+@acclimatation   (acclimatation) @acclimate   (acclimatise) @acclimation   (acclimatation) @acclimatisation
+- sự thích nghi khí hậu, sự làm hợp thuỷ thổ
+ @acclimatise   (acclimatise) @acclimatization   (acclimatation) @acclimatize   (acclimatise) @acclimatizer
+- xem acclimatize
+ @acclivity  
+*  dt
+- dốc ngược
+
+@acclivous  
+*  tt
+- dốc ngược
+
+@accolade  
+*  dt
+- sự ôm hôn, sự gõ nhẹ sống gươm lên vai (khi phong tước)
+- (âm nhạc) dấu gộp
+
+@accommodate  
+*  ngdgt
+- điều tiết, làm cho thích nghi, làm cho phù hợp
+
++ to accommodate oneself to the new way of living: làm cho mình thích nghi với lối sống mới
+- hoà giải, dàn xếp
+
++ to accommodate a quarrel: dàn xếp một cuộc cãi nhau
+- (: with) cung cấp, cấp cho, kiếm cho
+
++ to accommodate someone with something: cung cấp cho ai cái gì
+
++ to accommodate somebody with a loan: cho ai vay một số tiền
+- chứa được, đựng được
+
++ this hall can accommodate 500 persons: gian phòng có thể chứa được 500 người
+- cho trọ; tìm chỗ cho trọ
+
++ to be accommodated in the best hotel: trọ ở khách sạn sang nhất
+- giúp đỡ, làm ơn
+
+@accommodate
+- (Tech) thu nhận, chứa
+ @accommodated location
+- (Tech) vị trí thu nhận
+ @accommodating  
+*  tt
+- dễ dãi, dễ tính, xuề xoà
+- hay giúp đỡ, sẵn lòng giúp đỡ, hay làm ơn
+
+@Accommodating monetary policy
+- (Econ) Chính sách tiền tệ điều tiết.
+: Xem VALIDATED INFLATION
+ @accommodatingly
+- xem accommodating
+ @accommodation  
+*  dt
+- sự điều tiết, sự thích nghi, sự làm cho phù hợp
+- sự điều tiết (sức nhìn của mắt)
+- sự hoà giải, sự dàn xếp
+- tiện nghi, sự tiện lợi, sự thuận tiện
+- chỗ trọ, chỗ ăn chỗ ở
+- món tiền cho vay
+
+@accommodation
+- (Tech) điều tiết; thích ứng, thích nghi (d)
+ @accommodation address
+* dt
+- địa chỉ tạm
+ @accommodation ladder
+* dt
+- <hải> thang dây (ở bên sườn tàu thuỷ để lên xuống các xuồng nhỏ)
+ @accommodation limits
+- (Tech) giới hạn dung chứa
+ @accommodation train  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) xe lửa địa phương (ở địa phương)
+
+@Accommodation transactions
+- (Econ) Các giao dịch điều tiết.
+: Trong CÁN CÂN THANH TOÁN, một loại giao dịch tư bản do CÁC CƠ QUAN TIỀN TỆ áp dụng hoặc điều hành để làm đối trọng lại tình trạng tín dụng hoặc tình trạng nợ nần nảy sinh trong các GIAO DỊCH TỰ ĐỊNH.
+ @accommodation unit  
+*  dt
+- nơi ở
+
+@accommodation-ladder  
+-,lædə@accommodative
+- xem accommodate
+ @accommodativeness
+- xem accommodate
+ @accommodator
+- xem accommodate
+ @accommode
+- (Tech) thích ứng, thích nghi (đ)
+ @accompaniment  
+*  dt
+- vật phụ thuộc, vật kèm theo; cái bổ sung
+- (âm nhạc) sự đệm (dàn nhạc); phần nhạc đệm
+
+@accompanist  
+*  dt
+- (âm nhạc) người đệm (nhạc, đàn)
+
+@accompany  
+*  ngdgt
+- đi theo, đi cùng, đi kèm, hộ tống
+- phụ thêm, kèm theo
+- (âm nhạc) đệm (đàn, nhạc)
+
+@accomplice  
+*  dt
+- kẻ tòng phạm, kẻ đồng loã
+
+@accomplish  
+*  ngdgt
+- hoàn thành, làm xong, làm trọn
+
++ to accomplish one's task: hoàn thành nhiệm vụ
+
++ to accomplish one's promise: làm trọn lời hứa
+- thực hiện, đạt tới (mục đích...)
+
++ to accomplish one's object: đạt mục đích
+- làm (ai) hoàn hảo, làm (ai) đạt tới sự hoàn mỹ (về nhạc, hoạ, nữ công...)
+
+@accomplishable
+- xem accomplish
+ @accomplished  
+*  tt
+- đã hoàn thành, đã làm xong, xong xuôi, trọn vẹn
+- được giáo dục kỹ lưỡng, có đầy đủ tài năng; hoàn hảo, hoàn mỹ (về nhạc, hoạ, nữ công...)
+
++ an accomplished musician: một nhạc sĩ tài năng hoàn hảo
+
+@accomplisher
+- xem accomplish
+ @accomplishment  
+*  dt
+- sự hoàn thành, sự làm xong, sự làm trọn
+- sự thực hiện (mục đích...)
+
++ the accomplishment of the prophecy: sự thực hiện lời tiên đoán
+
++ the accomplishment of a desire: sự thực hiện được một điều ước mong
+- việc đã hoàn thành, việc làm xong, ý định đã thực hiện được; thành quả, thành tựu, thành tích
+- (số nhiều) tài năng, tài nghệ (về nhạc, hoạ, nữ công...); (xấu) tài vặt
+
+@accord  
+*  dt
+- sự đồng lòng, sự đồng ý, sự tán thành
+
++ with one accord; of one accord: đồng lòng, nhất trí
+- hoà ước
+- sự phù hợp, sự hoà hợp
+
++ individual interests must be in accord with the common ones: quyền lợi cá nhân phải phù hợp với quyền lợi chung
+- (âm nhạc) sự hợp âm
+- ý chí, ý muốn
+
++ to do something of one's own accord: tự nguyện làm cái gì
+*  ngdgt
+- làm cho hoà hợp
+- cho, ban cho, chấp thuận, chấp nhận
+
++ to accord a request: chấp thuận một yêu cầu
+
++ to accord a hearty welcome: tiếp đãi niềm nở thân ái
+*  ndgt
+- (: with) phù hợp với, hoà hợp với, thống nhất với, nhất trí với
+
++ words do not accord with deeds: lời nói không thống nhất với hành động, lời nói không đi đôi với việc làm
+
+@accordance  
+*  dt
+- sự đồng ý, sự thoả thuận (với ai)
+
++ to do something in accordance with somebody: làm điều gì có sự thoả thuận với ai
+- sự phù hợp, sự theo đúng (cái gì)
+
++ in accordance with the instructions: theo đúng những lời chỉ dẫn
+- sự cho, sự ban cho
+
+@accordant  
+*  tt
+- ((thường) : with) thích hợp, phù hợp, hoà hợp với, theo đúng với
+
+@accordantly
+- xem accordant
+ @accorde
+* dt
+- hòa ước
+* dgt
+- hoà hợp; phù hợp
+- cho, ban cho, chấp thuận
+ @according  
+*  dt
+- (: to) theo, y theo
+- (: as) tuỳ, tuỳ theo
+
++ each one is commended according as his merits: mỗi người đều được khen thưởng tuỳ theo công lao của mình
+
+@accordingly  
+*  dt
+- do đó, vì vậy, cho nên
+- (sao) cho phù hợp (với hoàn cảnh)
+- (: as) (như) according as
+
+@accordion  
+*  dt
+- (âm nhạc) đàn xếp, đàn ăccoc
+
+@accordionist  
+*  dt
+- người chơi đàn xếp, người chơi đàn ăccooc
+
+@accost  
+*  ngdgt
+- đến gần
+- bắt chuyện
+- gạ gẫm; níu, kéo, bám sát (nói về gái điếm)
+*  dt
+- sự chào
+
+@accouchement  
+*  dt
+- sự đẻ
+
+@accoucheur  
+*  dt
+- người đỡ đẻ
+
+@accoucheuse  
+*  dt
+- nữ hộ sinh, bà đỡ
+
+@account  
+*  dt
+- sự tính toán
+
++ to cast account: tính toán
+- sự kế toán; sổ sách, kế toán
+
++ to keep accounts: giữ sổ sách kế toán
+
++ profit and loss account: mục tính lỗ lãi
+- bản kê khai; bản thanh toán tiền, bản ghi những món tiền phải trả
+
++ account of expenses: bản kê khai các khoảng chi tiêu
+
++ to make out an account of articles: làm bản kê khai mặt hàng
+
++ to send in an account with the goods: gửi hàng kèm theo hoá đơn thanh toán tiền
+- sự thanh toán
+
++ to render (settle) an account: thanh toán một khoản tiền (một món nợ)
+- sự trả dần, sự trả làm nhiều kỳ
+
++ to pay a sum on account: trả dần một số tiền
+
++ sale for the account: bán trả dần
+- tài khoản, số tiền gửi
+
++ to have an account in the bank: có tiền gửi ngân hàng
+
++ account current: số tiền hiện gửi
+- lợi, lợi ích
+
++ to turn something to account: sử dụng cái gì làm cho có lợi, lợi dụng cái gì
+
++ to find one's in...: tìm thấy điều lợi ở...; được hưởng lợi ở...
+- lý do, nguyên nhân, sự giải thích
+
++ to give an account of something: giải thích cái gì
+
++ on no account: không vì một lý do gì
+
++ on account of: vì
+- báo cáo, bài tường thuật; sự tường thuật, sự miêu tả
+
++ to give an account of something: thuật lại chuyện gì
+
++ a detailed account of a football match: bài tường thuật chi tiết về một trận bóng đá
+- sự đánh giá, sự chú ý, sự lưu tâm
+
++ to take into account: để ý tới, lưu tâm tới, đếm xỉa tới
+
++ to make little account of: coi thường, không kể đến, không đếm xỉa đến, đánh giá thấp
+- tầm quan trọng, giá trị
+
++ of much account: đáng kể
+
++ of small account: không có gì đáng kể lắm
+!according to all accounts
+- theo sự đánh giá chung, theo ý kiến chung
+!to balance the accounts
+- (xem) balance
+!by all accounts
+- (như) according to all accounts
+!to be called (to go) to one's account
+- (xem) go
+!to call (bring) to account
+- bắt phải báo cáo sổ sách, bắt phải báo cáo mọi khoản thu chi; bắt phải giải thích (về cái gì...)
+!to cast up accounts
+-(đùa cợt); (thông tục) nôn mửa
+!to cook (doctor) an account
+- giả mạo sổ sách (kế toán); bịa ra một khoản, kê khai giả mạo một khoản
+!to demand an account
+- đòi báo cáo sổ sách; bắt phải giải thích (việc gì...)
+!to give a good account of oneself
+- gây được tiếng tốt cho mình; (thể dục,thể thao) thắng lợi, đạt được kết quả tốt
+!the great account
+- (tôn giáo) ngày tận thế
+!to hand in one's accounts
+- (từ Mỹ,nghĩa Mỹ) thoát nợ đời; chết
+!to hold of much account
+- đánh giá cao, coi trọng
+!to lay [one's] account for (on, with) something
+- mong đợi ở cái gì; hy vọng ở cái gì
+!to leave out of account
+- không quan tâm đến, không để ý đến, không đếm xỉa đến
+!on one's own account
+- vì mình, vì lợi ích của mình, vì mục đích của mình
+- tự mình phải gánh lấy mọi sự xảy ra
+!on somebody's account
+- vì ai
+!to settle (square, balance) accounts with somebody
+- thanh toán với ai
+- trả thù ai, thanh toán mối thù với ai
+*  ngdgt
+- coi, coi như, coi là, cho là
+
++ to be accounted incocent: được coi là vô tội
+*  ndgt
+- (: for) giải thích (cho)
+
++ this accounts for his behaviour: điều đó giải thích thái độ đối xử của hắn
+- giải thích (việc sử dụng, thanh toán, tính toán tiền nong)
+
++ has that sum been accounted for?: số tiền đó đã được giải thích là đem sử dụng vào việc gì chưa?
+- (thể dục,thể thao) bắn được, hạ được
+
++ he alone accounted for a score of pheasants: mình hắn cũng đã bắn được hai mươi con gà lôi
+
+@account
+- (Tech) tài khoản, chương mục; kế toán; khách hàng; tính toán (đ); tính đến, kể đến (đ)
+ @Account
+- (Econ) Tài khoản.
+: 1.Một ghi chép giao dịch giữa hai bên giao dịch có thể là hai bộ phận của một doanh nghiệp và là yếu tố cơ bản trong tất cả các hệ thống giao dịch kinh doanh. 2.Các giai đoạn, thường là hai tuần, theo đó năm kinh doanh của SỞ CHỨNG KHOÁN LONDON được chia ra và qua các giai đoạn này, việc thanh toán các giao dịch trừ giao dịch chứng khoán viền vàng được tiến hành.
+ @account
+- kể đến, tính đến
+ @account card
+- (Tech) thẻ chương mục
+ @account data
+- (Tech) dữ kiện kế toán, số liệu kế toán
+ @account level security
+- (Tech) an toàn mức kế toán
+ @account name
+- (Tech) tên chương mục, tên tài khoản
+ @account number
+- (Tech) số chương mục, số tài khoản
+ @accountability  
+*  dt
+- trách nhiệm, trách nhiệm phải giải thích
+
+@accountability
+- (Tech) tính chất khả tính
+ @accountable  
+*  tt
+- chịu trách nhiệm, có trách nhiệm phải giải thích
+
++ to be accountable to somebody: chịu trách nhiệm trước ai
+
++ to be accountable for something: chịu trách nhiệm về cái gì
+- có thể nói rõ được, có thể giải thích được
+
+@accountable time
+- (Tech) thời gian đắc dụng (máy điện toán)
+ @accountableness
+- xem accountable
+ @accountably
+- xem accountable
+ @accountancy  
+*  dt
+- nghề kế toán
+
+@accountant  
+*  dt
+- nhân viên kế toán, người giữ sổ sách kế toán
+- (pháp lý) người có trách nhiệm báo cáo về sổ sách kế toán; người bị can về một vụ tiền nong kế toán
+
+@accountantship  
+*  dt
+- chức kế toán
+
+@account-holder
+* dt
+- người nắm giữ tài khoản; chủ tài khoản
+ @accounting  
+*  dt
+- sự thanh toán, sự tính toán (tiền nong, sổ sách)
+- sự giải thích
+
++ there is no accounting for his behavious: không thể nào giải thích được thái độ đối sử của hắn
+
+@accounting
+- (Tech) kế toán; quyết toán, thanh toán; tính tiền
+ @accounting data
+- (Tech) dữ kiện kế toán
+ @accounting file
+- (Tech) hồ sơ kế toán
+ @accounting information
+- (Tech) thông tin kế toán
+ @accounting journal
+- (Tech) biên bản kế toán, nhật ký kế toán
+ @accounting legend
+- (Tech) chú giải kế toán
+ @accounting machine
+- (Tech) máy kế toán
+ @accounting package
+- (Tech) toàn bộ chương trình kế toán
+ @Accounting price
+- (Econ) Giá kế toán.
+ @accounting process
+- (Tech) trình tự @accounting program
+- (Tech) chương trình kế toán
+ @accounting rate
+- (Tech) biểu suất kế toán
+ @accounting record
+- (Tech) bản ghi kế toán
+ @accounting report
+- (Tech) báo cáo kế toán
+ @accounting routine
+- (Tech) thường trình kế toán
+ @accounting software
+- (Tech) nhu liệu @accounting symbol
+- (Tech) biểu tượng kế toán
+ @accouterment
+* dt
+- (Mỹ) trang bị y phục
+- đồ quân dụng (của người lính)
+ @accoutre  
+*  ngdgt
+- mặc cho (bộ đồ đặc biệt...); trang bị cho
+
+@accoutrement  
+*  dt,  (thường) số nhiều
+- bộ áo quần đặc biệt; quần áo
+- (quân sự) đồ trang bị (cho người lính, trừ quần áo, súng)
+
+@accoutrements
+* dt, pl
+- quần áo, trang phục
+- <qsự> đồ trang bị cho người lính (trừ quần áo, súng)
+ @accredit  
+*  ngdgt
+- làm cho người ta tin (ý kiến, tin tức, tin đồn...)
+- làm cho được tín nhiệm, gây uy tín cho (ai...)
+- uỷ nhiệm làm (đại sứ...)
+
++ to accredit someone ambassador to (at)...: uỷ nhiệm ai làm đại sứ ở...
+- (: to,  with) gán cho, quy cho, đổ cho
+
++ to accredit a saying tosomebody; to accredit somebody with a saying: gán cho ai đã nói câu gì, đổ cho ai đã nói câu gì
+
+@accredited  
+*  tt
+- được chính thức công nhận (người); được mọi người thừa nhận (tin tức, ý kiến, tin đồn...)
+
++ an accredited ambassador: đại sứ đã trình quốc thư
+
+@accrescent  
+*  tt
+- (thực vật học) cùng phát triển, cùng lớn lên
+
+@accrete  
+*  dgt
+- cùng phát triển, cùng lớn lên thành một khối
+- bôi dần lên quanh một hạt nhân, phát triển dần lên quanh một hạt nhân
+*  tt
+- (thực vật học) lớn lên
+
+@accretion  
+*  dt
+- sự lớn dần lên, sự phát triển dần lên, 
+- sự bồi dần vào
+- phần bồi thêm, phần phát triển dần lên
+- (pháp lý) sự tăng thêm (của cải, tài sản...)
+
+@accretionary
+- xem accretion
+ @accretive  
+*  tt
+- lớn dần lên, phát triển dần lên
+- được bồi dần vào
+
+@accrual   (accruement) @accrue  
+*  ndgt
+- (: to) đổ dồn về (ai...)
+
++ great profit accrued to them: những món lợi lớn cứ dồn về họ
+- (: from) sinh ra (từ...), do... mà ra
+
++ such difficulties always accrue from carelessness: những khó khăn như vậy thường do sự cẩu thả mà ra
+- dồn lại, tích luỹ lại (tiền lãi...)
+
++ interest accrues from the first of January: tiền lãi dồn lại từ ngày mồng một tháng giêng
+
++ accrued interest: tiền lãi để dồn lại
+
+@Accrued expenses
+- (Econ) Chi phí phát sinh (tính trước).
+: Thương mục trong tài khoản của một công ty được ghi như một khoản nợ của các dịch vụ đã sử dụng nhưng chưa được thanh toán.
+ @accruement   (accruement) @acculturate
+* ngdgt
+- tiếp biến về văn hoá
+ @acculturation
+* dt
+- sự tiếp nhận và biến đổi văn hoá, sự tiếp biến về văn hoá
+ @accumbent
+* tt
+- (sinh học) áp ngoài; cạp vào
+ @accumulable
+- xem accumulate
+ @accumulate  
+*  dgt
+- chất đống, chồng chất, tích luỹ, gom góp lại
+
++ to accumulate capital: tích luỹ vốn
+
++ to accumulate good experience: tích luỹ những kinh nghiệm hay
+
++ garbage accumulated: rác rưởi chất đống lên
+- làm giàu, tích của
+- thi cùng một lúc nhiều bằng (ở trường đại học)
+
+@accumulate
+- (Tech) tích lũy [TQ], lũy tích [TQ], lũy toán [NB], cộng dồn(đ)
+ @accumulate
+- tích luỹ, tụ
+ @Accumulated depreciation
+- (Econ) Khấu hao tích luỹ.
+ @accumulated deviation
+- (Tech) độ sai biệt tích lũy
+ @accumulated error
+- (Tech) sai số tích lũy
+ @accumulation  
+*  dt
+- sự chất đống, sự chồng chất, sự tích luỹ, sự tích lại, sự tích tụ, sự góp nhặt
+- sự làm giàu, sự tích của
+- sự tích thêm vốn (do lãi ngày một đẻ ra)
+- đống (giấy má, sách vở...)
+- sự thi cùng một lúc nhiều bằng (ở trường đại học)
+
+@accumulation
+- sự tích luỹ; sự tụ, điểm tụ
+ @accumulation electrode
+- (Tech) điện cực tích lũy
+ @accumulation layer
+- (Tech) lớp lũy tích
+ @accumulative  
+*  tt
+- chất đống, chồng chất; tích luỹ được, góp nhặt được
+
++ accumulative evidence: những chứng cớ chồng chất
+- thích tích luỹ của cải, ham làm giàu (người)
+
+@accumulative carry
+- (Tech) số nhớ tích lũy
+ @accumulatively
+- xem accumulative
+ @accumulativeness
+- xem accumulative
+ @accumulator  
+*  dt
+- người tích luỹ
+- người thích làm giàu, người trữ của
+- (vật lý) ăcquy
+- người thi cùng một lúc nhiều bằng (ở trường đại học)
+
+@accumulator
+- (Tech) bình điện, ắcquy, pin chứa; bộ tích lũy; thanh tổng; bộ cộng, máy lũy toán
+ @accumulator
+- (máy tính) bộ tích luỹ, bộ đếm; bộ cộng tích luỹ
+- adder a. bộ cộng tích luỹ
+- double precision a. bộ cộng kép
+- floating a. bộ cộng với dấy phẩy di động
+- imaginary a. phần ảo của bộ cộng tích luỹ
+- real a. phần thực của bộ cộng tích luỹ
+- round - off a. bộ tích luỹ độ sai quy tròn
+- singleprecision a. bộ cộng đơn
+- sum a. bộ tích luỹ tổng 
+ @accumulator battery
+- (Tech) bình điện (trữ)
+ @accumulator cell
+- (Tech) bình trữ điện; bộ tích
+ @accumulator register
+- (Tech) bộ ghi tổng cộng @accuracy   (accurateness) @accuracy
+- (Tech) chính xác (d); độ chính xác
+ @accuracy
+- [sự; độ] chính xác
+- a. of a solution độ chính xác của nghiệm
+- adequate a. độ chính xác [cần thiết, đòi hỏi, thích hợp]
+- attainable a. độ chính xác trong, thông tin Fisơ 
+ @accurate  
+*  tt
+- đúng đắn, chính xác, xác đáng
+
++ an accurate watch: đồng hồ chính xác
+
++ an accurate remark: một nhận xét xác đáng
+
+@accurate
+- chính xác
+- a. to five decimalplaces chính xác dến năm số thập phân 
+ @accurately
+* dt
+- đúng đắn, chính xác, xác đáng
+ @accurateness   (accurateness) @accursal   (accursal) @accursed   (accurst) @accursedly
+- xem accursed
+ @accursedness
+- xem accursed
+ @accurst   (accurst) @accusal
+- sự kết tội, sự buộc tội; sự bị kết tội
+- sự tố cáo
+- cáo trạng
+ @accusation   (accursal) @accusative  
+*  tt
+- (ngôn ngữ học) (thuộc) đổi cách
+*  dt
+- (ngôn ngữ học) đổi cách
+
+@accusatively
+- xem accusative
+ @accusatorial   (accusatory) @accusatorially
+- xem accusatorial
+ @accusatory   (accusatory) @accuse  
+*  ngdgt
+- buộc tội, kết tội; tố cáo
+
++ the accused: người bị kết tội, người bị buộc tội; bị cáo
+
+@accused
+* dt
+- bị cáo
+ @accuser  
+*  dt
+- uỷ viên công tố, người buộc tội
+- nguyên cáo
+
+@accusingly
+* dt
+- với vẻ cáo buộc, với vẻ tố cáo
+ @accustom  
+*  ngdgt
+- làm cho quen, tập cho quen
+
++ to accustom oneself to something: làm cho quen với việc gì
+
+@accustomed  
+*  tt
+- quen với; thành thói quen, thành thường lệ
+
++ to be accustomed to rise early: quen với dậy sớm
+
++ to be (get, become) accustomed to the new mode of life: quen với nếp sống mới
+
+@AC-cut quartz
+- (Tech) thạch anh kiểu cắt AC
+ @ace  
+*  dt
+- (đánh bài) quân át, quân xì; điểm 1 (trên quân bài hay con súc sắc)
+
++ duece ace: một con "hai" và một con "một" (đánh súc sắc)
+- phi công xuất sắc (hạ được trên mười máy bay địch); vận động viên xuất sắc; người giỏi nhất (về cái gì...); nhà vô địch
+- (thể dục,thể thao) cú giao bóng thắng điểm; điểm thắng giao bóng (quần vợt)
+- chút xíu
+
++ to be within an ace of death: suýt nữa thì chết
+!ace in the hole
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) quân bài chủ cao nhất dành cho lúc cần đến (đen & bóng)
+- người bạn có thể dựa khi gặp khó khăn
+!the ace of aces
+- phi công ưu tú nhất
+- người xuất sắc nhất trong những người xuất sắc
+!the ace of trumps
+- quân bài chủ cao nhất
+!to have an ace up one's sleeve
+- giữ kín quân bài chủ cao nhất dành cho lúc cần
+!to trump somebody's ace
+- cắt quân át của ai bằng bài chủ
+- gạt được một đòn ác hiểm của ai
+
+@ace
+- (lý thuyết trò chơi) điểm một, mặt nhất (súc sắc), quân át (bài)
+ @acellular
+* tt
+- không có tế bào; không chia thành tế bào
+ @acentral
+- không trung tâm
+ @acentric
+* tt
+- không có tâm, không có đoạn trung tâm
+ @acephalous  
+*  tt
+- không có đầu
+- không có tướng, không có người cầm đầu; không chịu nhận ai là người cầm đầu
+- (thông tục) cụt đầu, bị chặt ngọn
+- thiếu âm đầu (câu thơ)
+
+@acerate
+* tt
+- có dạng kim; có đầu nhọn
+ @acerbate   (acerbate) @acerbic
+* tt
+- chua chát, gay gắt
+ @acerbically
+- xem acerbic
+ @acerbity  
+*  dt
+- vị chát, vị chua chát
+- tính chua chát, tính gay gắt (giọng nói...)
+
+@acerose   (acerous) @acerous   (acerous) @acervate  
+*  tt
+- (thực vật học) mọc thành chùm
+
+@acervuline
+* tt
+- chen chúc, dày đặc; thành cụm, thành chùm
+ @acescent  
+*  tt
+- hoá chua; chua
+
+@acetabuliform
+* tt
+- dạng cối; dạng chén
+ @acetabulum
+* dt
+- ổ cối; đĩa nhau
+ @acetate  
+*  dt
+- (hoá học) Axetat
+
+@acetate film
+- (Tech) phim axêtat
+ @acetic  
+*  tt
+- (hoá học) axetic; (thuộc) giấm
+
++ acetic acid: axit axetic
+
++ acetic fermentation: sự lên men giấm
+
+@acetic acid
+- (hóa) axit axetic
+ @acetification  
+*  dt
+- sự hoá giấm; sự làm thành giấm
+
+@acetifier
+- xem acetify
+ @acetify  
+*  ngdgt
+- làm thành giấm
+*  ndgt
+- hoá chua; hoá thành giấm
+
+@acetone  
+*  dt
+- axeton
+
+@acetonic
+- xem acetone
+ @acetous  
+*  tt
+- chua, có vị giấm
+
+@acetylen
+* dt
+- (hóa) axetilen
+ @acetylene  
+*  dt
+- (hoá học) Axetylen
+
+@acetylenic
+- xem acetylene
+ @ache  
+*  dt
+- sự đau, sự nhức
+*  ndgt
+- đau, nhức, nhức nhối
+
++ my head aches: tôi nhức đầu
+- (nghĩa bóng) đau đớn
+
++ my head aches at the sight of such misfortunes: lòng tôi đau đớn trước những cảnh ngộ rủi ro ấy
+
+@acheless
+* tt
+- không đau đớn, không đau xót
+ @achene  
+*  dt
+- (thực vật học) quả bế
+
+@achenial
+- xem achene
+ @achiasmatic
+* tt
+- không vắt tréo
+ @achievable  
+*  tt
+- có thể đạt được, có thể thực hiện được
+
++ an achievable task: nhiệm vụ có thể thực hiện được
+
++ achievable results: kết quả có thể đạt được
+
+@achieve  
+*  ngdgt
+- đạt được, giành được
+
++ to achieve one's purpose (aim): đạt mục đích
+
++ to achieve good results: đạt được những kết quả tốt
+
++ to achieve national independence: giành độc lập dân tộc
+
++ to achieve great victories: giành được những chiến thắng lớn
+- hoàn thành, thực hiện
+
++ to achieve a great work: hoàn thành một công trình lớn
+
++ to achieve one's task: hoàn thành nhiệm vụ
+
+@achievement  
+*  dt
+- thành tích, thành tựu
+
++ to record great achievements: đạt được những thành tích lớn
+
++ a scientific achievement: một thành tựu khoa học
+- sự đạt được, sự giành được; sự hoàn thành
+
++ the achievement of independence: sự giành được độc lập
+- huy hiệu, huy chương (để ghi nhớ một thành tích vẻ vang)
+
+@achiever
+- xem achieve
+ @Achieving Society, the.
+- (Econ) Xã hội thành đạt.
+: Đây là tiêu đề của một cuốn sách do giáo sư David C. Mc. Clelland của trường đại học Harvard (Princeton, NJ, 1962) xuất bản, trong đó ông định nghĩa khái niệm động cơ thành đạt để đo ý nghĩ tưởng tượng và mức độ của các ý tưởng mới mà ông coi là nhân cách cần thiết đối với các CHỦ DOANH NGHIỆP và vì vậy có ý nghĩa đối với SỰ PHÁT TRIỂN KINH TẾ.
+ @achilles  
+*  dt
+- A-sin (anh hùng cổ Hy lạp)
+
+@achilles heel
+* dt
+- điểm yếu
+ @achilles' tendon
+- (giải) gân gót
+ @achiness
+- xem achy
+ @aching  
+*  dt
+- sự đau đớn (vật chất, tinh thần)
+
+@achlamydeous  
+*  tt
+- (thực vật học) không bao hoa, có hoa trần
+
+@achondroplasia
+* tt
+- tình trạng thiếu phát triển sụn (ở người)
+ @achondroplastic
+* tt
+- không tạo sụn
+ @achromat
+- (Tech) chất tiêu sắc
+ @achromatic  
+*  tt
+- (vật lý) tiêu sắc
+- không màu, không sắc
+
+@achromatic
+- (Tech) tiêu sắc; vô sắc
+ @achromatic color
+- (Tech) mầu vô sắc, mầu không sắc
+ @achromatic lens
+- (Tech) thấu kính tiêu sắc
+ @achromatically
+- xem achromatic
+ @achromatism  
+*  tt
+- (vật lý) tính tiêu sắc
+- tính không màu, tính không sắc
+
+@achromatize  
+*  ngdgt
+- (vật lý) làm tiêu sắc
+- làm thành không màu, làm thành không sắc
+
+@achromatous   (achromous) @achromous  
+*  ngdgt
+- (vật lý) làm tiêu sắc
+- làm thành không màu, làm thành không sắc
+
+@achy
+* tt
+- bị đau nhức
+ @acicula
+* dt; số nhiều aciculae,  aciculas
+- dạng kim
+ @acicular  
+*  tt
+- hình kim; kết tinh thành hình kim
+
+@acid  
+*  dt
+- (hoá học) Axit
+- chất chua
+*  tt
+- Axit
+
++ acid radical: gốc axit
+
++ acid test: sự thử bằng axit
+- (nghĩa bóng) thử thách gay go
+- chua
+- chua cay, gay gắt; gắt gỏng
+
++ acid looks: vẻ gay gắt, vẻ gắt gỏng
+
+@acid rain
+* dt
+- nước mưa cay gắt do hoà lẫn các khí thải độc hại
+ @acid test
+* dt
+- sự thử nghiệm giá trị, sự thử thách
+ @acidic  
+*  tt
+- có tính chất axit
+
+@acidifiable
+- xem acidify
+ @acidification  
+*  dt
+- (hoá học) sự axit hoá
+
+@acidifier  
+*  dt
+- (hoá học) chất axit hoá
+
+@acidify  
+*  ngdgt
+- Axit hoá
+*  ndgt
+- thành axit, hoá chua
+
+@acidimeter  
+*  dt
+- cái đo axit
+
+@acidimetric
+- xem acidimeter
+ @acidimetry
+- xem acidimeter
+ @acidity  
+*  dt
+- tính axit; độ axit
+- vị chua
+
+@acidly  
+*  dt
+- chua chát, gay gắt
+
+@acidness
+- xem acid
+ @acidofuge
+* tt
+- (sinh học) tránh axit
+ @acidophilous
+* tt
+- (sinh học) ưa axit; ưa chua; mọc ở đất chua
+ @acidophily
+* dt
+- (sinh học) tính ưa axit, tính ưa chua
+ @acidophyte
+* dt
+- thực vật ưa đất chua
+ @acidose  
+*  dt
+- (y học) sự nhiễm axit
+
+@acidosis
+* dt
+- sự nhiễm axit
+ @acidotrophic
+* tt
+- dinh dưỡng axit, ăn chất chua
+ @acidotropic
+* tt
+- hướng axit, hướng chua
+ @acid-proof   (acid-resisting) @acid-resisting   (acid-resisting) @acid-soluble
+* tt
+- tan trong axit
+ @acidulate  
+*  ngdgt
+- làm cho hơi chua
+- pha axit
+
+@acidulated  
+*  tt
+- hơi chua
+- có pha axit
+
+@acidulation
+- xem acidulate
+ @acidulous  
+*  tt
+- hơi chua
+- có pha axit
+- chua cay, gay gắt (lời nói)
+
+@acierage
+* dt
+- (kỹ thuật) việc luyện thành thép, việc mạ thép
+ @aciform  
+*  tt
+- hình kim
+
+@acinaceous
+* tt
+- có hạch
+ @acinose
+* tt
+- nhiều hạt
+ @ACK (Acknowledge <Positive>)
+- (Tech) khẳng định, báo nhận
+ @ACK (acknowledgement)
+- (Tech) khẳng định (trả lời), báo nhận
+ @ack emma  
+*  dt
+- (thông tục) (như) ante_meridiem
+*  dt
+- (thông tục) (như) air-mechanic
+
+@ack-ack  
+*  dt (từ lóng)
+- súng cao su
+- tiếng súng cao xạ
+- sự bắn súng cao xạ
+
+@ack-emma
+* dt
+- (thông tục) buổi sáng
+ @acknowledge  
+*  ngdgt
+- nhận, thừa nhận, công nhận
+
++ to acknowledge one's error: nhận là mắc sai lầm
+
++ to be acknowledged as the best player in the team: được công nhận là cầu thủ xuất sắc nhất trong đội
+
++ to acknowledge someone's nod: nhìn thấy và đáp lại cái gật đầu của ai
+- báo cho biết đã nhận được
+
++ to acknowledge a letter; to acknowledge receipt of a letter: báo là đã nhận được thư
+- đền đáp; tỏ lòng biết ơn, cảm tạ
+
++ to acknowledge someone's service: đền đáp lại sự giúp đỡ của ai
+
++ to acknowledge someone's kindness: cảm tạ lòng tốt của ai
+
+@acknowledge (ACK)
+- (Tech) báo nhận, ghi nhận, báo xác định
+ @acknowledge character
+- (Tech) ký tự báo nhận
+ @acknowledge packet assembly and disassembly
+- (Tech)  báo nhận lắp và tháo gói
+ @acknowledge pulse
+- (Tech) xung báo nhận
+ @acknowledge request
+- (Tech) yêu cầu báo nhận
+ @acknowledge state
+- (Tech) trạng thái báo nhận
+ @acknowledgeable
+- xem acknowledge
+ @acknowledgement   (acknowledgment) @acknowledgement signal
+- (Tech) tín hiệu báo nhận
+ @acknowledgment   (acknowledgment) @acleidian
+* tt
+- (giải phẫu) không xương đòn
+ @aclimate
+* tt
+- phi khí hậu
+ @aclinic  
+*  tt
+- (vật lý) không nghiêng, vô khuynh
+
++ aclinic line: đường vô khuynh
+
+@aclinic line 
++  magnetic equator
+- (Tech) đường không từ khuynh, đường từ xích đạo
+ @acme  
+*  dt
+- tột đỉnh, đỉnh cao nhất
+
++ acme of perfection: đỉnh cao nhất của sự hoàn mỹ
+- (y học) thời kỳ nguy kịch nhất (của bệnh)
+
+@acne
+* dt
+- mụn trứng cá
+ @acned
+- xem acne
+ @acnode
+- (hình học) điểm cô lập (của đường cong)
+ @acock  
+*  dt
+- đội lệch (mũ)
+
++ to set one's hat acock: đội mũ lệch
+
+@acold
+* tt
+- lạnh toát
+ @acolyte  
+*  dt
+- (tôn giáo) thầy tu cấp dưới, thầy dòng, thầy tăng
+- người theo hầu
+
+@aconite  
+*  dt
+- (thực vật học) cây phụ tử
+
+@acorn  
+*  dt
+- (thực vật học) quả đầu
+
+@acorn tube
+- (Tech) đèn hạt dẻ
+ @acorn-shaped
+* tt
+- (thực vật) dạng quả đấu
+ @acotyledon  
+*  dt
+- (thực vật học) cây không lá mầm
+
+@acotyledonous  
+*  tt
+- (thực vật học) không lá mầm
+
+@acoumeter  
+*  dt
+- cái đo nghe
+
+@acoustic  
+*  tt
+- (thuộc) âm thanh; (thuộc) âm học
+- (thuộc) thính giác
+
++ acoustic nerves: dây thần kinh thính giác
+
++ acoustic mine: mìn âm thanh
+
+@acoustic
+- (Tech) thuộc về (có tính) âm thanh; thuộc âm học; thuộc truyền âm; âm chất
+ @acoustic absorber
+- (Tech) bộ hấp thụ âm thanh
+ @acoustic absorption
+- (Tech) hấp thụ âm thanh
+ @acoustic admittance
+- (Tech) dẫn nạp âm thanh
+ @acoustic baffle
+- (Tech) ván trợ âm thanh
+ @acoustic capacitance
+- (Tech) âm dung, âm lượng
+ @acoustic coupler
+- (Tech) bộ ghép âm, bổ đổi âm sang số
+ @acoustic coupler modem
+- (Tech) bộ biến hoàn ghép âm
+ @acoustic dispersion
+- (Tech) phân tán âm thanh
+ @acoustic engineering
+- (Tech) ngành kỹ thuật âm thanh
+ @acoustic fidelity
+- (Tech) độ trung thực âm thanh
+ @acoustic filter
+- (Tech) bộ lọc âm thanh
+ @acoustic impedance
+- (Tech) trở kháng âm thanh, âm trở
+ @acoustic noise
+- (Tech) nhiễu âm
+ @acoustic phonon
+- (Tech) thanh tử âm thanh
+ @acoustic sensor
+- (Tech) bộ cảm nhận âm thanh
+ @acoustic wave
+- (Tech) sóng âm thanh
+ @acoustical
+- (thuộc) âm thanh
+ @acoustically
+* dt
+- về âm thanh, về độ vang âm
+ @acoustician  
+*  dt
+- nhà âm học
+
+@acoustics  
+*  dt,  số nhiều (dùng như số ít)
+- âm học
+
++ room (architectural) acoustics: âm học kiến trúc
+
++ wave acoustics: âm học sóng
+
++ ray acoustics: âm học tia
+- (số nhiều) độ vang âm (của một rạp hát, rạp chiếu bóng...)
+
+@acoustics
+- (vật lí) âm học
+ @acquaint  
+*  ngdgt
+- làm quen
+
++ to acquaint oneself with something: làm quen với cái gì
+
++ to be acquainted with somebody: quen biết ai
+
++ to get (become) acquainted with: trở thành quen thuộc với
+- báo, cho biết, cho hay
+
++ to acquaint somebody with a piece of news: báo cho ai biết một tin gì
+
++ to acquaint somebody with a fact: cho ai biết một sự việc gì
+
+@acquaintance  
+*  dt
+- sự biết, sự hiểu biết
+
++ to have a good acquaintance with Vietnam: hiểu biết rất rõ về Việt Nam
+
++ to have an intimate acquaintance with a subject: hiểu biết tường tận một vấn đề
+- sự quen, sự quen biết
+
++ to make acquaintance with somebody; to make someone's acquaintance: làm quen với ai
+- ((thường) số nhiều) người quen
+
++ an old acquaintance: một người quen cũ
+
++ a man of many acquaintances: một người quen biết nhiều
+!bowing (nodding) aquaintance
+- người quen sơ sơ
+!to drop an aquaintance
+- bỏ rơi một người quen, lờ một người quen
+!to scrape acquaintance with somebody
+- cố làm quen bằng được với ai
+!speaking acquaintance
+- (xem) speaking
+!to strike up an aquaintance
+- (xem) strike
+
+@acquaintanceship  
+*  dt
+- sự quen biết
+
+@acquainted  
+*  tt
+- ((thường) : with) quen biết, quen thuộc (với)
+
+@acquest  
+*  dt
+- vật kiếm được, của cải làm ra
+- (pháp lý) của làm ra (không do thừa kế)
+
+@acquiesce  
+*  ndgt
+- bằng lòng, ưng thuận, đồng ý; bằng lòng ngầm, mặc nhận
+
++ to acquiesce in someone's proposal: đồng ý với lời đề nghị của ai
+
++ to acquiesce in a conclusion: đồng ý với một kết luận
+
+@acquiescence  
+*  dt
+- sự bằng lòng, sự ưng thuận, sự đồng ý; sự bằng lòng ngầm, sự mặc nhận
+- sự phục tùng
+
+@acquiescent  
+*  tt
+- bằng lòng, ưng thuận, đồng ý; bằng lòng ngầm, mặc nhận
+- phục tùng
+
+@acquiescently
+- xem acquiescent
+ @acquirable
+- xem acquire
+ @acquire  
+*  ngdgt
+- được, giành được, thu được, đạt được, kiếm được
+
++ to acquire a good reputation: được tiếng tốt
+
++ acquired characteristic: (sinh vật học) tính chất thu được
+
++ an acquired taste: sở thích do quen mà có
+
+@acquirement  
+*  dt
+- sự được, sự giành được, sự thu được, sự đạt được, sự kiếm được
+- (số nhiều) điều học được, học thức, tài nghệ, tài năng (do trau giồi mà có, đối lại với thiên tư)
+
++ a man of vast acquirements: một người có nhiều tài năng; người có vốn kiến thức rộng
+
+@acquirer
+- xem acquire
+ @acquisition  
+*  dt
+- sự được, sự giành được, sự thu được, sự đạt được, sự kiếm được
+- cái giành được, cái thu nhận được
+
++ Mr. A will be a valuable acquisition to the teaching staff of our school: thu nhận được ông A thì sẽ có lợi cho hàng ngũ giáo viên của trường chúng ta
+
+@acquisition
+- (Tech) thu thập, thu nhận
+ @acquisitive  
+*  tt
+- thích trữ của, hám lợi
+- có thể học hỏi, có khả năng tiếp thu, có khả năng lĩnh hội
+
+@acquisitively
+- xem acquisitive
+ @acquisitiveness  
+*  dt
+- tính thích trữ của, tính hám lợi
+- tính có thể học hỏi, khả năng tiếp thu, khả năng lĩnh hội
+
+@acquisitor
+- xem acquisitive
+ @acquit  
+*  ngdgt
+- trả hết, trang trải (nợ nần)
+
++ to acquit one's debt trang trải hết nợ nần: tha bổng, tha tội, tuyên bố trắng án
+
++ to be acquitted of one's crime: được tha bổng
+- to acquit oneself of làm xong, làm trọn (nghĩa vụ, bổn phận...)
+
++ to acquit oneself of a promise: làm trọn lời hứa
+
++ to acquit oneself of one's task: làm trọn nhiệm vụ
+!to acquit oneself
+- làm bổn phận mình, làm trọn phận mình; xử sự
+
++ to acquit oneself ill: làm không tốt phần mình, xử sự xấu
+
+@acquittal  
+*  dt
+- sự trả xong nợ, sự trang trải xong nợ nần
+- sự tha tội, sự tha bổng, sự tuyên bố trắng án
+- sự làm trọn (bổn phận, trách nhiệm...)
+
+@acquittancce  
+*  dt
+- sự trả nợ, sự trang trải hết nợ nần
+- sự trang trải hết nợ nần
+- biên lai
+
+@acquittance
+* dt
+- sự trả nợ, sự trang trải hết nợ nần
+- sự trang trải hết nợ nần
+- biên lai
+ @acquitter
+- xem acquit
+ @acral
+* tt
+- thuộc phía đầu; phía ngoài cùng
+ @acranial
+* tt
+- (y học) không sọ, thiếu sọ
+ @acraspedout
+* tt
+- không diềm, thiếu diềm
+ @acre  
+*  dt
+- mẫu Anh (khoảng 0, 4 hecta)
+- cánh đồng, đồng cỏ
+
++ broad acres: đồng ruộng, cánh đồng
+
++ God's acre: nghĩa địa, nghĩa trang
+
+@acreage  
+*  dt
+- diện tích (tính theo mẫu Anh)
+
+@acrid  
+*  tt
+- hăng, cay sè
+- chua cay, gay gắt (lời nói, thái độ...)
+
+@acridity  
+*  dt
+- vị hăng, mùi hăng, mùi cay sè
+- sự chua cay, sừ gay gắt
+
+@acridly
+- xem acrid
+ @acrimonious  
+*  tt
+- chua cay, gay gắt (lời nói, thái độ)
+
+@acrimoniously
+* dt
+- chua cay, gay gắt
+ @acrimoniousness
+- xem acrimonious
+ @acrimony  
+*  dt
+- sự chua cay, sự gay gắt
+
+@acrobat  
+*  dt
+- người biểu diễn leo dây, người biểu diễn nhào lộn
+- nhà chính trị nghiêng ngả (dễ dàng thay đổi lập trường); nhà biện luận nghiêng ngả (dễ dàng thay đổi lập luận)
+
+@acrobatic
+* tt
+- tính chất nhào lộn, liên quan đến nhào lộn
+ @acrobatically  
+*  dt
+- tài tình, khéo léo
+
+@acrobatics  
+*  dt,  số nhiều (dùng như số ít)
+- thuật leo dây, thuật nhào lộn
+
++ aerial acrobatics: (hàng không) thuật nhào lộn trên không
+
+@acrobatism  
+*  dt
+- thuật leo dây, thuật nhào lộn
+
+@acrocarpic
+* tt
+- thuộc quả ngọn
+ @acrocarpous  
+*  tt
+- (thực vật học) có quả ở ngọn
+
+@acrocentric
+* dt
+- thể nhiễm sắc dạng que
+ @acrogenous  
+*  tt
+- (thực vật học) sinh ở ngọn
+
+@acrogynous
+* tt
+- có túi noãn ở ngọn
+ @acromegalic
+- xem acromegaly
+ @acromegaly  
+*  dt
+- (y học) bệnh to cực
+
+@acronycal   (acronychal) @acronychal   (acronychal) @acronym  
+*  dt
+- từ (cấu tạo bằng) chữ đầu (của những từ khác) (ví dụ NATO,  radar...)
+
+@acronym
+- (Tech) lược danh, lược (thành) ngữ, tên gọn
+ @acronymic
+- xem acronym
+ @acronymous
+- xem acronym
+ @acropetal  
+*  tt
+- hướng ngọn
+
+@acropetally
+- xem acropetal
+ @acrophilous
+* tt
+- (thực vật) ưa ngọn
+ @acrophily
+* dt
+- tính ưa ngọn
+ @acrophobia  
+*  dt
+- (y học) chứng sợ nơi cao
+
+@acropodium
+* dt
+- ngón (chân, tay)
+ @acropolis  
+*  dt
+- vệ thành, thành phòng ngự (đặc biệt hay dùng để chỉ vệ thành của thành A-ten, thời cổ Hy lạp)
+
+@acroscopic
+* tt
+- (thực vật) đối ngọn
+ @acrospire
+* dt
+- (thực vật) mần ngọn cuộn
+ @acrospore  
+*  dt
+- (thực vật học) bào tử ngọn
+
+@across  
+*  dt
+- qua, ngang, ngang qua
+
++ a bird is flying across: một con chim đang bay ngang qua
+- bắt chéo, chéo nhau, chéo chữ thập
+
++ to stand with legs across: đứng chéo khoeo
+
++ with arms across: khoanh tay
+*  giới từ
+- qua, ngang, ngang qua
+
++ across the fields: ngang qua cánh đồng
+- ở bên kia, ở phía bên kia
+
++ the hotel is across the river: khách sạn ở bên kia sông
+!to come across
+- (xem) come
+!to get across somebody
+- cãi nhau với ai
+!to turn across
+- (xem) trun
+!to put it across somebody
+- (từ lóng) trả thù ai
+- đánh lừa ai
+- trừng phạt ai, sửa cho ai một trận
+
+@across
+- ngang, qua
+ @Across-the-board tariff changes
+- (Econ) Thay đổi thuế quan đồng loạt.
+: Một tình huống khi tất cả thuế quan của một nước được tăng hoặc giảm theo tỷ lệ phần trăm ngang bằng.
+ @acrostic  
+*  dt
+- (thơ ca) chữ đầu
+*  tt
+- (thuộc) thể thơ chữ đầu, theo thể thơ chữ đầu
+
+@acrostically
+- xem acrostic
+ @acrotropism
+* dt
+- tính hướng ngọn
+ @acrylic
+* tt
+- (hóa) acrylic
+* dt
+- sợi acrylic
+ @act  
+*  dt
+- hành động, việc làm, cử chỉ, hành vi
+
++ act of violence: hành động bạo lực
+
++ act of madness: hành động điên rồ
+- đạo luật
+
++ to pass an act: thông qua một đạo luật
+
++ act of parliament: một đạo luật của quốc hội
+- chứng thư
+
++ to take act: chứng nhận
+
++ I deliver this as my act and deed: tôi xin nộp cái này coi như chứng nhận của tôi (nói khi ký)
+- hồi, màn (trong vở kịch)
+
++ a play in five acts: vở kịch năm màn
+- tiết mục (xiếc, ca múa nhạc...)
+- luận án, khoá luận
+!to be in act to
+- sắp sửa (làm gì)
+
++ to be in act to fire: sắp bắn
+!in the very act [of]
+- khi đang hành động, quả tang
+
++ to be caught in the very act: bị bắt quả tang
+!to put on an act
+- (từ lóng) khoe mẽ, nói khoe
+*  ngdgt
+- đóng vai (kịch, chèo, tuồng, phim)
+
++ to act Hamlet: đóng vai Hăm-lét
+- giả vờ, giả đò "đóng kịch" 
+
++ to act madness: giả vờ điên
+
++ to act a part: đóng một vai; giả đò
+*  ndgt
+- hành động
+
++ to act like a fool: hành động như một thằng điên
+- cư xử, đối xử
+
++ to act kindly towards someone: đối xử tử tế với ai
+- giữ nhiệm vụ, làm công tác, làm
+
++ to act as interpreter: làm phiên dịch
+
++ he acted as director in the latter's absence: anh ấy thay quyền ông giám đốc khi ông giám đốc đi vắng
+- tác động, có tác dụng, có ảnh hưởng
+
++ alcohol acts on the nerves: rượu có tác động đến thần kinh
+
++ the brake refused to act: phanh không ăn
+- đóng kịch, diễn kịch, thủ vai
+
++ to act very well: thủ vai rất đạt
+- (: upon,  on) hành động theo, làm theo
+
++ to act upon someone's advice: hành động theo lời khuyên của ai
+- (: up to) thực hành cho xứng đáng với, hành động cho xứng đáng với
+
++ to act up to one's reputation: hành động xứng đáng với thanh danh của mình
+
+@act
+- tác động
+ @act of god
+- thiên tai (như bão, lụt, động đất...)
+ @actability
+- xem act
+ @actable
+- xem act
+ @actin
+- Cách viết khác : actino 
+ @actinal
+* tt
+- thuộc tấm toả tia
+ @acting  
+*  dt
+- hành động
+- (sân khấu) nghệ thuật đóng kịch (kịch, phim, chèo, tuồng); sự thủ vai, sự đóng kịch
+*  tt
+- hành động
+- thay quyền, quyền
+
++ acting Prime Minister: quyền thủ tướng
+
+@actinia  
+*  dt (số nhiều actinias,  actiniae)
+- (động vật học) hải quỳ
+
+@actiniae  
+*  dt (số nhiều actinias,  actiniae)
+- (động vật học) hải quỳ
+
+@actinic  
+*  tt
+- (vật lý),  (hoá học) quang hoá
+
+@actinic
+- (Tech) quang hóa
+ @actinically
+- xem actinic
+ @actinide
+* dt
+- (hoá học) actinit
+ @actinidia
+* dt
+- cây dương đào
+ @actiniform
+* dt
+- (sinh học) dạng sao; dạng toả tia
+ @actinism  
+*  dt
+- (vật lý),  (hoá học) tính quang hoá, độ quang hoá
+
+@actinium  
+*  dt
+- (hoá học) Actini
+
+@actinobiology
+* dt
+- sinh học bức xạ
+ @actinoblast
+* dt
+- (sinh học) nguyên bào gai
+ @actinocarpic
+* tt
+- thuộc quả xếp toả tia
+ @actinocarpous
+* tt
+- (thực vật) có quả xếp toả tia
+ @actinoid
+* tt
+- dạng toả tia
+ @actinolit
+* dt
+- (khoáng) actinolit
+ @actinometer  
+*  dt
+- (vật lý) cái đo nhật xạ
+- (vật lý),  (hoá học) cái đo quang hoá
+
+@actinometer
+- (Tech) nhật xạ kế, quang hóa kế
+ @actinometric
+- xem actinometer
+ @actinometry
+- xem actinometer
+ @actinomorphic   (actinomorphic) @actinomorphous   (actinomorphic) @actinomorphy
+- xem actinomorphic
+ @actinomycet
+* dt
+- số nhiều actinomyces
+- khuẩn tia,  actinomixet
+ @actinomycosis
+* dt
+- bệnh do khuẩn tia
+ @actinon
+* dt
+- (hoá học) actinon
+ @actinospore
+* dt
+- (sinh học) bào tử toả tia
+ @actinotherapy
+* dt
+- (y học) liệu pháp tia sáng
+ @actinotropism
+* dt
+- (thực vật) tính hướng tia
+ @actinula
+* dt
+- (sinh học) ấu trùng
+ @action  
+*  dt
+- hành động, hành vi; hoạt động; công việc, việc làm
+
++ a man of action: con người hành động
+
++ to take prompt action: hành động tức khắc, hành động kịp thời
+- tác động, tác dụng, ảnh hưởng
+
++ the sunlight has action on certain materials: ánh nắng có tác động đến một số chất
+
++ action of acid: tác dụng của axit
+- sự chiến đấu, trận đánh
+
++ to go into action: bắt đầu đánh nhau, bắt đầu chiến đấu
+
++ to break off an action: ngừng chiến đấu, ngừng bắn
+
++ to be killed in action: bị hy sinh trong chiến đấu
+
++ to be put out of action: bị loại khỏi vòng chiến đấu
+- việc kiện, sự tố tụng
+
++ to take (bring) an action against: kiện (ai...)
+- sự diễn biến, quá trình diễn biến (của vở kịch)
+- động tác, dáng điệu, bộ điệu, bộ tịch
+
++ action of a player: bộ điệu của một diễn viên
+
++ action of a horse: dáng đi của một con ngựa
+- bộ máy, cơ cấu (đàn pianô, máy...); sự hoạt động của bộ máy
+!action committee
+- uỷ ban hành động
+!action position
+- (quân sự) vị trí của quân đội trước khi bước vào chiến đấu
+!action speak louder than words
+- (xem) speak
+*  ngdgt
+- kiện, thưa kiện
+
+@action
+- (Tech) tác động, động tác, hành động; tác dụng
+ @action
+- tác dụng, tác động
+- brake a. tác dụng hãm
+- control a. tác động điều chỉnh, tác động điều khiển 
+- delayed a. tác dụng làm chậm
+- edge a. tác dụng biên
+- instantaneous a. tác dụng tức thời
+- integral a. tác dụng tích phân
+- on-off a. mt tác dụng loại “đóng - mở” 
+ @Action lag
+- (Econ) Độ trễ của hành động.
+: Mức độ trễ giữa việc quyết định một chính sách (đặc biệt trong kinh tế học vĩ mô) và việc thực hiện chính sách đó.
+ @action menu
+- (Tech) đơn chọn tác động
+ @action message
+- (Tech) thông báo tác động
+ @action painting
+* dt
+- tranh trừu tượng được tô màu sơ sài
+ @action replay
+* dt
+- sự quay một đoạn phim chậm lại để diễn tả một tình huống đặc biệt
+ @actionable  
+*  tt
+- có thể kiện
+
+@actionably
+- xem actionable
+ @activate  
+*  ngdgt
+- (hoá học); (sinh vật học) hoạt hoá, làm hoạt động
+- (vật lý) hoạt hoá, làm phóng xạ
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) xây dựng và trang bị (một đơn vị)
+
+@activate
+- (Tech) hoạt hóa; khởi động (đ)
+ @activate indication
+- (Tech) biểu thị khởi động
+ @activated  
+*  tt
+- đã hoạt hoá
+- đã làm phóng xạ
+
+@activated
+- (Tech) được hoạt hóa, kích hoạt
+ @activated cathode
+- (Tech) âm cực hoạt hóa
+ @activated material
+- (Tech) chất được hoạt hóa
+ @activated plasma
+- (Tech) đẳng ly tử thể kích thích, plasma hoạt kích
+ @activating effect
+- (Tech) hiệu ứng hoạt hóa
+ @activating process
+- (Tech) xử lý khởi động
+ @activation  
+*  dt
+- sự hoạt hoá
+- sự làm phóng xạ
+
+@activation
+- (Tech) hoạt hóa; khởi động, phát động
+ @activator
+- xem activate
+ @active  
+*  tt
+- tích cực, hoạt động; nhanh nhẹn, linh lợi
+
++ an active volcano: núi lửa còn hoạt động
+
++ an active brain: đầu óc linh lợi
+
++ to take an active part in the revolutionary movement: tham gia tích cực phong trào cách mạng
+- thiết thực, thực sự; có hiệu lực, công hiệu
+
++ active remedies: những phương thuốc công hiệu
+
++ it's no use talking, he wants active help: nói mồm chẳng có ích gì, anh ấy cần sự giúp đỡ thiết thực cơ
+- (ngôn ngữ học) chủ động
+
++ the active voice: dạng chủ động
+- (quân sự) tại ngũ
+
++ on active service: đang tại ngũ
+
++ to be called up for the active service: được gọi nhập ngũ
+
++ active list danh sách sĩ quan: có thể gọi nhập ngũ
+- (vật lý) hoạt động; phóng xạ
+- hoá hoạt động; có hiệu lực
+
++ active ferment men: hoạt động
+
++ active valence: hoá trị hiệu lực
+
+@active
+- (Tech) chủ động; hoạt tính; hoạt động, hiệu lực, đang dùng; tích cực
+ @active antenna
+- (Tech) ănten có nguồn, ănten chủ động
+ @active area
+- (Tech) khu vực hoạt @Active balance
+- (Econ) Dư nghạch.
+: Trong lý thuyết tiền tệ, một vài mô hình giả thiết chia một cung ứng tiền tệ thành DƯ NGHẠCH, đó là tiền dự trữ được đưa vào quay vòng trong các thời kỳ được xác định bởi các khoảng thời gian giữa các kỳ thanh toán, và NGHẠCH NHÀN RỖI là tiền dự trữ không được sử dụng để thanh toán thường xuyên.
+ @active call
+- (Tech) gọi chủ động
+ @active chain
+- (Tech) chuỗi hoạt động
+ @active channel
+- (Tech) kênh có nguồn, kênh hoạt động
+ @active component
+- (Tech) thành phần chủ động
+ @active computer
+- (Tech) máy điện toán hoạt động
+ @active current
+- (Tech) dòng hoạt tính, dòng thực
+ @active element
+- (Tech) phần tử hoạt tính, phần tử chủ động
+ @active encapsulation
+- (Tech) bao bọc hoạt tính
+ @active file
+- (Tech) tập tin hoạt động, tập tin mở
+ @active interferometer
+- (Tech) giao thoa kế hoạt tính
+ @active material
+- (Tech) hoạt chất
+ @active matrix liquid crytal display
+- (Tech) bộ hiển thị tinh thể lỏng ma trận hoạt tính
+ @active medium
+- (Tech) môi trường hoạt tính
+ @active network
+- (Tech) mạng chủ động
+ @active node
+- (Tech) nút hoạt động
+ @active station
+- (Tech) đài có nguồn điện
+ @active substrate
+- (Tech) nền hoạt tính [ĐL]
+ @active surface
+- (Tech) bề mặt hoạt tính
+ @active task
+- (Tech) công việc hoạt tính, công tác hoạt tính
+ @active test
+- (Tech) phép thử hoạt động
+ @active time
+- (Tech) thời gian hoạt động
+ @active transducer
+- (Tech) bộ biến hoán @active window
+- (Tech) cửa sổ hoạt động, cửa sổ đang dùng
+ @actively  
+*  dt
+- tích cực hoạt động; nhanh nhẹn, linh lợi
+- có hiệu lực
+
+@activeness
+* dt
+- sự tích cực
+ @activism
+* dt
+- (triết học) chủ nghĩa tích cực
+- sự tuyên truyền tích cực cho một học thuyết
+ @activist
+* dt
+- nhà hoạt động xã hội, nhà hoạt động chính trị
+ @activity  
+*  dt
+- sự tích cực, sự hoạt động, sự nhanh nhẹn, sự linh lợi
+- (số nhiều) hoạt động
+
++ sport activities: hoạt động thể thao
+
++ scientific activities: hoạt động khoa học
+- phạm vi hoạt động
+
++ within my activities: trong phạm vi hoạt động của tôi
+- (vật lý),  (hoá học) tính hoạt động, độ hoạt động; tính phóng xạ, độ phóng xạ
+
++ photo - chenical activity: tính hoạt động quang hoá
+
++ specific activity: phóng xạ riêng
+
+@activity
+- (Tech) hoạt tính; hoạt động; phóng xạ tính
+ @Activity analysis
+- (Econ) Phân tích hoạt động.
+: Xem LINEAR PROGRAMMING.
+ @activity coefficient
+- (Tech) hệ số hoạt động
+ @Activity rate
+- (Econ) Tỷ lệ lao động.
+: Xem LABOUR FORCE PARTICIPATION RATE.
+ @activity ratio
+- (Tech) tỉ số hoạt động
+ @actor  
+*  dt
+- diễn viên (kịch, tuồng, chèo, điện ảnh...); kép, kép hát
+
++ film actor: tài tử đóng phim, diễn viên điện ảnh
+- (từ hiếm,nghĩa hiếm) người làm (một việc gì)
+
++ a bad actor: (từ Mỹ,nghĩa Mỹ) người khó tin cậy
+
+@actorish
+* tt
+- thuộc diễn viên
+ @actress  
+*  dt
+- nữ diễn viên, đào hát
+
+@actual  
+*  tt
+- thật sự, thật, thực tế, có thật
+
++ actual capital: vốn thực có
+
++ an actual fact: sự việc có thật
+- hiện tại, hiện thời; hiện nay
+
++ actual customs: những phong tục hiện thời
+
++ in the actual states of Europe: trong tình hình hiện nay ở Châu Âu
+
+@actual
+- (Tech) thực tế, thực tại, thực; hiện tại
+ @actual
+- thực, thực tại
+ @actual address
+- (Tech) địa chỉ thực tế
+ @actual amount
+- (Tech) số lượng thực tế
+ @actual code
+- (Tech) mã thực, mã tuyệt đối
+ @actual coding
+- (Tech) biên mã thực, biên mã ngôn ngữ máy
+ @actual data
+- (Tech) dữ kiện thực
+ @actual instruction
+- (Tech) chỉ thị thực
+ @actual parameter
+- (Tech) tham số thực tế
+ @actual power
+- (Tech) công suất hữu hiệu, công suất thực
+ @actual state
+- (Tech) trạng thái thực tế, thực trạng
+ @actual storage
+- (Tech) bộ trữ hữu hiệu
+ @actual value
+- (Tech) trị số thực
+ @actualisation
+* dt
+- sự thực hiện, sự biến thành hiện thực
+ @actualise   (actualise) @actuality  
+*  dt
+- thực tế, thực tại
+- (số nhiều) điều kiện hiện tại, điều kiện thực tế
+- (nghệ thuật) hiện thực
+
+@actualization  
+*  dt
+- sự thực hiện, sự biến thành hiện thực
+
+@actualize   (actualise) @actually  
+*  dt
+- thực sự, quả thật, đúng, quả là
+- hiện tại, hiện thời, hiện nay
+- ngay cả đến và hơn thế
+
+@actuarial
+* tt
+- (thuộc) chuyên viên thống kê bảo hiểm
+ @actuarial
+- (thuộc) tính toán bảo hiểm
+ @actuarially
+- xem actuary
+ @actuary  
+*  dt
+- chuyên viên thống kê (tỷ lệ sinh đẻ, bệnh tật, thất nghiệp...)
+- (sử học) viên giữ sổ đăng ký; viên quản lý văn khế
+
+@actuary
+- (toán kinh tế) chuyên viên tính toán bảo hiểm
+ @actuate  
+*  ngdgt
+- thúc đẩy, kích thích; là động cơ thúc đẩy (ai...)
+
++ our work is actuated by love of socialism: lòng yêu chủ nghĩa xã hội thúc đẩy công việc của chúng ta
+- phát động, khởi động
+
++ to actuate a machine: khởi động máy
+
+@actuate
+- khởi động
+ @actuating mechanism
+- (Tech) cơ cấu động tác, cơ chế động tác
+ @actuating signal
+- (Tech) tín hiệu phát huy
+ @actuating transfer function
+- (Tech) chức năng chuyển động tác
+ @actuation  
+*  dt
+- sự thúc đẩy, sự kích thích
+- sự phát động, sự khởi động (máy)
+
+@actuator
+- (Tech) bộ [cần] truyền động; bộ kích thích; bộ viết-đọc; bộ điều tiết; thiết bị truyền động [TQ]
+ @acuate
+* dgt
+- khởi động (một cỗ máy)
+- bắt đầu (một quá trình)
+- thúc đẩy
+ @acuity  
+*  dt
+- tính sắc nhọn (cái kim...); tính sắc bén, tính sắc sảo (lời nói, trí tuệ...)
+- (y học) độ kịch liệt (bệnh)
+
+@acuity
+- (Tech) tính phân giải, tính phân tích
+ @aculea
+* dt
+- vải thô sơ
+ @aculeate  
+*  tt
+- (thực vật học) có gai
+- (động vật học) có ngòi đốt
+- (nghĩa bóng) châm chọc, chua cay (lời nói)
+
+@aculeateform
+* tt
+- (sinh học) dạng gai; dạng giùi
+ @aculeus
+* tt
+- (sinh học) gai, trâm đốt; ngòi đốt
+ @acumen  
+*  dt
+- sự nhạy bén, sự nhạy cảm, sự thính
+
++ political acumen: sự nhạy bén về chính trị
+- (thực vật học) mũi nhọn
+
+@acuminate  
+*  tt
+- (thực vật học) nhọn mũi
+
+@acumination
+- xem acuminate
+ @acumineit
+* ngdgt
+- làm cho nhọn; mài nhọn
+ @acuminiferous
+* tt
+- (sinh vật) có củ nhọn
+ @acupuncture  
+*  dt
+- (y học) thuật châm cứu
+
+@acupuncturist
+* dt
+- chuyên gia về khoa châm cứu
+ @acutance
+- (Tech) độ phân giải, độ phân tích
+ @acute  
+*  tt
+- sắc, sắc bén, sắc sảo; nhạy, tinh, thính
+
++ an acute sense of smell: mũi rất thính
+
++ a man with an acute mind: người có đầu óc sắc sảo
+- buốt, gay gắc, kịch liệt, sâu sắc
+
++ an acute pain: đau buốt
+- (y học) cấp
+
++ an acute disease: bệnh cấp
+- (toán học) nhọn (góc)
+
++ an acute angle: góc nhọn
+- cao; the thé (giọng, âm thanh)
+
++ an acute voice: giọng cao; giọng the thé
+- (ngôn ngữ học) có dấu sắc
+
++ acute accent: dấu sắc
+
+@acute
+- nhọn
+ @acute accent
+- (ngôn) dấu sắc (như trong café)
+ @acutely
+* dt
+- sâu sắc
+ @acuteness  
+*  dt
+- sự sắc; tính sắc bén, tính sắc sảo; tính nhạy, tính tinh, tính thính
+- sự buốt; tính gay gắt, tính kịch liệt, tính sâu sắc
+- (y học) tính cấp phát (bệnh)
+- (toán học) tính nhọn (góc)
+- tính cao; tính the thé (giọng)
+
+@acutiflorous
+* tt
+- (thực vật) có hoa nhọn
+ @acutifoliate
+* tt
+- (thực vật) có lá nhọn
+- có thùy nhọn
+ @acyclic
+- (Tech) không tuần hoàn, không có chu kỳ
+ @acyclic
+- không tuần hoàn
+ @acyclic graph
+- (Tech) đồ thị không tuần hoàn
+ @acyclicity
+- tính không tuần hoàn, tính xilic
+ @acyesis
+* dt
+- (sinh học) sự không thụ thai, sự không kết quả
+ @

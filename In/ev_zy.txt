@@ -1,0 +1,49 @@
+@zygoma  
+*  dt,  số nhiều zygomata
+*  (giải phẫu) xương gò má
+
+@zygomata  
+*  dt số nhiều của zygoma
+
+@zygomorphic   (zygomorphous) @zygomorphous   (zygomorphous) @zygophyte
+* dt
+- (thực vật) thực vật tiếp hợp
+ @zygospore  
+*  dt
+- (thực vật học) bào tử tiếp hợp
+
+@zygote  
+*  dt
+- (thực vật học) hợp tử
+
+@zymase  
+*  dt
+- (sinh vật học) zymaza
+
+@zymological
+* tt
+- thuộc khoa nghiên cứu men
+ @zymology  
+*  dt
+- khoa nghiên cứu men
+
+@zymometer  
+*  dt
+- máy đo độ lên men
+
+@zymosis  
+*  dt
+- sự lên men
+
+@zymotechnics  
+*  dt số nhiều
+- thuật làm lên men
+
+@zymotic  
+*  tt
+- (y học) (thuộc) sự lên men
+
+@zymurgy
+* dt
+- khoa nghiên cứu sự lên men
+ @

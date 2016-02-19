@@ -1,0 +1,19 @@
+@CS (Computer Science)
+- (Tech) Khoa học Điện toán, Khoa Vi tính
+ @CS (Computer Simulation)
+- (Tech) Mô Phỏng Máy Điện Toán
+ @CSDN (Circuit-Switched Data Network)
+- (Tech) Mạng Dữ Kiện Chuyển Mạch Điện
+ @cse
+* (viết tắt)
+- Chứng chỉ tốt nghiệp trung học (Certificate of Secondary Education)
+ @csm
+* (viết tắt)
+- Thượng sự (Company Sergeant Major)
+ @csma @CSO
+- (Econ) Cục thống kê trung ương
+: Xem CENTRAL STATISTICAL OFFICE
+ @cst
+* (viết tắt)
+- Giờ chuẩn trung tâm (Central Standard Time)
+ @

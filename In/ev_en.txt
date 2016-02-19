@@ -1,0 +1,3562 @@
+@en  
+*  dt
+- N,  n (chữ cái)
+- n (đơn vị đo dòng chữ in, hẹp hơn m)
+
+@en bloc  
+*  dt
+- toàn bộ gộp cả lại
+
+@en clair  
+*  dt
+- bằng chữ thường (không phải mật mã) (bức điện...)
+
+@en dash
+- nét en (vệt in liên tục có độ rộng bằng một en, đó là độ rộng bằng nửa khoảng em-độ rộng của chữ hoa M trong kiểu chữ đang dùng)
+ @en fraction
+- phân số en
+ @en masse  
+*  dt
+- ồ ạt; nhất tề
+- gộp lại; cả đống, toàn thể
+
+@en passant  
+*  dt
+- nhân tiện đi qua, tình cờ
+
+@en rgle
+* dt
+- đúng thể lệ, đúng thủ tục, đúng nghi thức
+ @en route  
+*  dt
+- đang trên đường đi
+
+@en règle  
+*  dt
+- đúng thể lệ, đúng thủ tục, đúng nghi thức
+
+@en suite
+- định ngữ
+ @enable  
+*  ngdgt
+- làm cho có thể (làm gì), làm cho có khả năng (làm gì)
+- cho quyền, cho phép (ai) (làm gì)
+
+@enable
+- có thể
+ @enabled interrupt
+- (Tech) ngắt có phép
+ @enabler
+- xem enable
+ @enabling
+- (Tech) khả dụng; khai thông mạch; cho phép
+ @enact  
+*  ngdgt
+- ban hành (đạo luật)
+- đóng, diễn (vai kịch... trên sân khấu, trong đời sống)
+
+@enactable
+- xem enact
+ @enacting clauses  
+*  dt
+- điều khoản (của một đạo luật...)
+
+@enaction   (enactment) @enactive  
+*  tt
+- enactive clauses (như) enacting_clauses
+
+@enactment   (enactment) @enactor  
+*  dt
+- người thảo ra (đạo luật)
+
+@enactory
+* tt
+- thuộc việc chế định pháp luật
+ @enaliosaur
+* dt
+- (cổ sinh vật) hải long
+ @enamel  
+*  dt
+- men (đồ sứ, răng); lớp men
+- bức vẽ trên men
+- (thơ ca) lớp men ngoài, màu bề ngoài
+*  ngdgt
+- tráng men, phủ men
+- vẽ lên men
+- tô nhiều màu
+
+@enameler
+- xem enamel
+ @enameling
+* dt
+- củng enamelling
+- sự tráng men
+
++  stove enameling:sự tráng men nung
+ @enamelist
+- xem enamel
+ @enamelware
+* dt
+- đồ dùng bằng kim loại tráng men trong nhà
+ @enamour  
+*  ngdgt
+- làm cho yêu, làm cho phải lòng
+
++ to be enamoured of somebody: phải lòng ai
+- làm say mê, làm ham mê
+
++ to be enamoured of (with) something: ham mê cái gì
+
+@enamoured
+* tt, cũng enamored
+- say mê; ham thích
+ @enantiobiosis
+* dt
+- (sinh học) sự cộng sinh đối kháng
+ @enantiobiotic
+* tt
+- cộng sinh đối kháng
+ @enantioblastic
+* tt
+- (thực vật) đối (diện) lá noãn
+ @enantiomeric
+* tt
+- đối hình
+ @enantiomorph  
+*  dt
+- hình chiếu (trong gương), đối hình
+
+@enantiomorphic
+- xem enantiomorph
+ @enantiomorphism
+- xem enantiomorph
+ @enantiomorphous
+- xem enantiomorph
+ @enantiopathy
+* dt
+- <y> phép chữa đối chứng
+ @enantiosis
+* dt
+- phép nói ngược (nghĩa trái ngược với điều nói ra để châm biếm)
+ @enantiotropy
+* dt
+- sự hỗ biến
+ @enantipathy  
+*  dt
+- (y học) phép chữa đối chứng
+
+@enargite
+* dt
+- (khoáng chất) enacgit
+ @enarthrosis  
+*  dt
+- (giải phẫu) khớp chỏm
+
+@enation
+* dt
+- mấu nhú
+ @encaenia  
+*  dt
+- ngày lễ hằng năm (kỷ niệm những người sáng lập đại học Ôc-phớt)
+- (tôn giáo),  (sử học) lễ dâng (nhà thờ) cho Chúa
+
+@encage  
+*  ngdgt
+- cho vào lồng, nhốt vào lồng, nhốt vào cũi
+
+@encalm
+* ngdgt
+- làm cho yên tĩnh
+ @encamp  
+*  ngdgt
+- cho (quân...) cắm trại
+*  ndgt
+- cắm trại (quân...)
+
+@encampment  
+*  dt
+- sự cắm trại
+- trại giam
+
+@encapsulate
+* dgt
+- tóm lược, gói gọn
+ @encapsulated
+* tt
+- kết vỏ; kết nang
+ @encapsulation
+- xem encapsulate
+ @encapsulation (in object-oriented programming)
+- (Tech) sự bao bọc
+ @encapsulator
+- xem encapsulate
+ @encase   (incase) @encasement  
+*  dt
+- sự cho vào thùng, sự cho vào túi
+- sự bọc
+- bao, túi
+- (giải phẫu) sự lồng (hai xương vào nhau)
+
+@encash  
+*  ngdgt
+- lĩnh (séc, tiền)
+- thu (séc, tiền)
+- đổi lấy tiền mặt (hối phiếu...)
+
+@encashment  
+*  dt
+- sự lĩnh (séc, tiền)
+- sự thu (séc, tiền)
+- sự đổi lấy tiền mặt (hối phiếu...)
+
+@encaustic  
+*  tt
+- (nghệ thuật) vẽ sáp màu; vẽ khắc nung
+*  dt (nghệ thuật)
+- bức tranh sáp màu; bức vẽ khắc nung
+- thuật vẽ sáp màu; thuật vẽ khắc nung
+
+@encave
+* ngdgt
+- ẩn trong động; giấu trong huyệt
+ @enceinte  
+*  tt
+- có chửa, có mang
+*  dt
+- (quân sự) hàng rào (quanh công sự)
+
+@encephalic  
+*  tt
+- (thuộc) óc, (thuộc) não
+
+@encephalisation
+* dt
+- sự hình thành bộ não
+ @encephalitis  
+*  dt
+- (y học) viêm não
+
+@encephalogram
+* dt
+- điện não đồ
+ @encephalographic
+- xem encephalography
+ @encephalographically
+- xem encephalography
+ @encephalography  
+*  dt
+- (y học) sự chụp não
+
+@encephalomere
+* dt
+- khúc não
+* dt
+- khúc não
+ @encephalomyelitis
+* dt
+- bệnh viêm não và dây cột sống
+ @encephalon  
+*  dt
+- óc, não
+
+@encephalopathy
+* dt
+- (y học) bệnh não
+ @encephalospinal
+* tt
+- (thuộc) não tủy
+ @encephalotomy  
+*  dt
+- thủ thuật mở não
+
+@encephalous
+- xem encephalon
+ @enchain  
+*  ngdgt
+- xích lại
+- kiềm chế (tình cảm...)
+- thu hút (sự chú ý)
+
+@enchainment  
+*  dt
+- sự xích lại
+- sự kiềm chế (tình cảm...)
+- sự thu hút (sự chú ý)
+
+@enchant  
+*  ngdgt
+- bỏ bùa mê ((nghĩa đen) & (nghĩa bóng))
+- làm say mê, làm vui thích
+
+@enchanter  
+*  dt
+- người bỏ bùa mê ((nghĩa đen) & (nghĩa bóng))
+- người làm say mê, người làm vui thích
+
+@enchanting  
+*  tt
+- bỏ bùa mê
+- làm say mê, làm vui thích
+
+@enchantingly
+* dt
+- thú vị, hấp dẫn
+ @enchantment  
+*  dt
+- sự bỏ bùa mê; trạng thái bị bỏ bùa mê
+- điều làm say mê, điều làm vui thích; sự say mê, sự vui thích
+
+@enchantress  
+*  dt
+- người đàn bà bỏ bùa mê; bà phù thuỷ
+- người đàn bà làm cho say mê, người đàn bà làm cho vui thích; người đàn bà đẹp say đắm
+
+@encharm  
+*  ngdgt
+- (từ cổ,nghĩa cổ),  (văn học) làm say mê, làm đắm đuối
+
+@enchase
+* ngdgt
+- lắp vào; gắn vào
+
++  to enchase a germ:gắn một viên ngọc vào
+- tô điểm bằng chạm nổi; khảm hoa
+ @enchiridion  
+*  dt
+- sách tóm tắt
+
+@enchondroma
+* dt
+- số nhiều enchondromata
+- (y học) bệnh sinh nội sụn
+ @enchondromatous
+* tt
+- xem enchondroma
+ @enchorial
+* tt
+- gia dụng; thông tục
+- thổ trước; bản địa
+ @enchylema  
+*  dt
+- (sinh vật học) dịch nhân
+
+@enchyma
+- dt
+ @enchymona
+* dt
+- (y học) bệnh sung huyết ở da
+ @encipher
+- (Tech) mã hóa (d @encipherer
+- (Tech) bộ mã hóa
+ @enciphering
+- (Tech) sự mã hóa
+ @encircle  
+*  ngdgt
+- vây quanh, bao quanh, bao vây
+- đi vòng quanh, chạy vòng quanh
+- ôm (ngang lưng)
+
+@encirclement  
+*  dt
+- sự vây quanh, sự bao quanh, sự bao vây
+
+@encircling
+* tt
+- vây quanh; bao vây
+
++  encircling force:lực lượng bao vây
+ @encirling
+* tt
+- vây quanh; bao vây
+
++  encircling force:lực lượng bao vây
+ @enclasp  
+*  ngdgt
+- ôm chặt
+
+@enclave  
+*  dt
+- vùng đất lọt vào giữa (đất đai của nước khác)
+
+@enclitic  
+*  tt
+- (ngôn ngữ học) ghép sau
+*  dt
+- (ngôn ngữ học) từ ghép sau
+
+@encloister
+* ngdgt
+- đưa vào tu viện
+ @enclose   (inclose) @enclose
+- bao quanh, chứa |
+ @enclosed wafer tape
+- (Tech) băng viên dẹp đóng kín
+ @enclosure   (inclosure) @enclothe  
+*  ngdgt
+- mặc quần áo cho
+
+@encloud  
+*  ngdgt
+- phủ mây
+
+@encode  
+*  ngdgt
+- ghi thành mật mã (điện...)
+
+@encode
+- (Tech) biên mã, mã hóa, lập mã
+ @encode
+- ghi mã, lập mã
+ @encoded file (ENC)
+- (Tech) tập tin được mã hóa
+ @encoder
+- (Tech) bộ biên mã
+ @encoding
+- (Tech) biên mã, mã hóa
+ @encoding channel
+- (Tech) kênh biên mã, kênh lập mã
+ @encoffin
+* ngdgt
+- đưa vào quan tài
+ @encolour
+* ngdgt
+- tô màu
+ @encomiast  
+*  dt
+- người viết bài tán tụng
+- kẻ xu nịnh
+
+@encomiastic  
+*  tt
+- tán tụng
+- xu nịnh
+
+@encomium  
+*  dt,  số nhiều encomiums
+- bài tán tụng, lời tán dương
+
+@encompass  
+*  ngdgt
+- vây quanh, bao quanh
+- bao gồm chứa đựng
+- hoàn thiện, hoàn thành
+
+@Encompassing test
+- (Econ) Phép kiểm nghiệm vây; Phép kiểm nghiệm vòng biên.
+: Phép kiểm nghiệm không tập trung này dựa trên nguyên tắc cho rằng một mô hình nên có các đặc điểm nổi bật của các mô hình khác nhau và có thể là các mô hình đôí nghịch.
+ @encompassment  
+*  dt
+- sự vây quanh, sự bao quanh
+- sự bao gồm chứa đựng
+- sự mưu toan
+- sự hoàn thiện, sự hoàn thành
+
+@encore  
+*  thán từ
+- (sân khấu) nữa!, hát lại!; múa lại!
+*  dt
+- (sân khấu) bài hát lại!; điệu múa lại (theo yêu cầu người xem)
+*  ngdgt
+- (sân khấu) mời (diễn viên...) ra (hát, múa...) lại; đòi diễn viên hát lại; đòi diễn viên múa lại
+
+@encounter  
+*  dt
+- sự gặp gỡ, sự bắt gặp; sự gặp phải; cuộc gặp gỡ
+- sự chạm trán, sự đọ sức; cuộc chạm trán, cuộc đọ sức; cuộc chạm trán, cuộc đấu (trí...)
+*  ngdgt
+- gặp thình lình, bắt gặp
+- chạm trán, đọ sức với, đấu với
+
+@encourage  
+*  ngdgt
+- làm can đảm, làm mạnh dạn
+- khuyến khích, cổ vũ, động viên
+- giúp đỡ, ủng hộ
+
+@encouragement  
+*  dt
+- sự làm can đảm, sự làm mạnh dạn
+- sự khuyến khích, sự cổ vũ, sự động viên
+- sự giúp đỡ, sự ủng hộ
+
+@encourager
+- xem encourage
+ @encouraging  
+*  tt
+- làm can đảm, làm mạnh dạn
+- khuyến khích, cổ vũ, động viên
+- giúp đỡ, ủng hộ
+
+@encouragingly
+* dt
+- khích lệ, cổ vũ
+ @encradle
+* ngdgt
+- đặt trong nôi
+ @encratic
+* tt
+- tự kiềm chế; khắc dục
+ @encraty
+* dt
+- sự tự kiềm chế; sự khắc dịu
+ @encrimson  
+*  ngdgt
+- làm đỏ thắm, nhuộm đỏ thắm
+
+@encroach  
+*  ndgt
+- (: on,  upon) xâm lấn, xâm phạm (lãnh thổ, quyền...)
+
+@encroacher  
+*  dt
+- người xâm lấn, người xâm phạm
+
+@encroachment  
+*  dt
+- sự xâm lấn, sự xâm phạm
+- cái lấy được bằng xâm lấn
+
+@encrust  
+*  ngdgt: (incrust) 
+@encrusted  
+*  tt
+- có lớp vỏ ngoài
+- khảm
+- có đóng cặn vôi (nồi hơi...)
+
+@encrustment  
+*  dt
+- lớp phủ
+- lớp cặn vôi (nồi hơi...)
+
+@encrypt
+* ngdgt
+- viết lại thành mật mã
+ @encryptation
+* dt
+- sự viết lại thành mật mã
+ @encrypted file
+- (Tech) tập tin được mật mã hóa
+ @encryption
+- (Tech) sự mật mã hóa
+ @encryption key
+- (Tech) khóa mật mã
+ @encumber   (incumber) @encumberment  
+*  dt
+- sự làm lúng túng, sự làm trở ngại, sự làm vướng víu
+- sự đè nặng lên, sự làm nặng trĩu
+- sự làm ngổn ngang, sự làm bừa bộn
+@encumbrance   (incumbrance) @encyclic   (encyclical) @encyclical   (encyclical) @encyclopaedia   (encyclopaedia) @encyclopaedic   (encyclopaedic) @encyclopaedical   (encyclopaedic) @encyclopaedist   (encyclopaedist) @encyclopedia   (encyclopaedia) @encyclopedic   (encyclopaedic) @encyclopedical   (encyclopaedic) @encyclopedically
+- xem encyclopedic
+ @encyclopedism   (encyclopaedism) @encyclopedist   (encyclopaedist) @encyclopedize
+* ngdgt
+- đưa vào từ điển bách khoa
+ @encycloppaedism
+- thuyết bách khoa
+- kiến thức bách khoa
+ @encyst  
+*  ngdgt
+- bao vào nang, bao vào bào xác
+
+@encystation   (encystment) @encystment   (encystment) @end  
+*  dt
+- giới hạn
+- đầu, đầu mút (dây...); đuôi; đáy (thùng...) đoạn cuối
+- mẩu thừa, mẩu còn lại
+
++ candle ends: mẩu nến
+- sự kết thúc
+- sự kết liễu, sự chết
+
++ to be near one's end: chẳng còn sống được bao lâu nữa, gần kề miệng lỗ
+- kết quả
+- mục đích
+
++ to gain one's ends: đạt được mục đích của mình
+!at one's wit's end
+- (xem) wit
+!to be at an end
+!to come to an and
+- hoàn thành
+- bị kiệt quệ
+!to be at the end of one's tether
+- (xem) tether
+!end on
+- với một đầu quay vào (ai)
+!to go off the deep end
+- (xem) deep
+!in the end
+- cuối cùng về sau
+!to keep opne's end up
+- (xem) keep
+!to make an end of
+- chấm dứt
+!to make both ends meet
+- (xem) meet
+!no end
+- vô cùng
+
++ no end obliged to you: vô cùng cảm ơn anh
+!no end of
+- rất nhiều
+
++ no end of trouble: rất nhiều điều phiền nhiễu
+- tuyệt diệu
+
++ he is no end of a fellow: nó là một thằng cha tuyệt diệu
+!to end
+- liền, liên tục
+
++ for hours on end: trong mấy tiếng liền
+- thẳng đứng
+!to place end to end
+- đặt nối đàu vào nhau
+!to put an end to
+- chấm dứt, bãi bỏ
+!to turn end for end
+- lộn ngược lại, trở đầu lại, quay ngược lại
+!world without end
+- (xem) world
+*  ngdgt
+- kết thúc, chấm dứt
+- kết liễu, diệt
+*  ndgt
+- kết thúc, chấm dứt
+- đi đến chỗ, đưa đến kết quả là
+!to end up
+- kết luận, kết thúc
+!to end with
+- kết thúc bằng
+!to end by doing something
+- cuối cùng sẽ làm việc gì
+!to end in smoke
+- (xem) smoke
+
+@end
+- (Tech) cuối, đầu cuối; cuối màn hình; chấm dứt (đ)
+ @end
+- cuối cùng, kết thúc || điểm cuối, đầu cuối
+- e. of a space (tô pô) điểm cuỗi cùng của một không gian
+- free e. (cơ học) đầu tự do
+- pinned e. (cơ học) đầu gàm
+- prime e. (giải tích) đầu đơn
+- simply supported e. (cơ học) đầu tựa tự do, đầu khớp, đầu gắn bản lề
+ @end-all  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) sự kết thúc
+- điều kết thúc, điều chấm dứt (mọi sự việc)
+
+@endamage  
+*  dt
+- mối hại, điều hại, điều bất lợi
+- sự thiệt hại
+
++ to cause great damage to...: gây nhiều thiệt hại cho...
+- (số nhiều) tiền bồi thường thiệt hại; tiền bồi thường tai nạn
+
++ to bring an action of damages against somebody: kiện ai đòi bồi thường thiệt hại
+- (từ lóng) giá tiền
+
++ what's the damage?: giá bao nhiêu?
+*  ngdgt: (endamage) 
+@endamager  
+*  ngdgt
+- làm nguy hiểm đến; gây nguy hiểm cho
+
+@endanger
+* dgt
+- gây nguy hiểm
+ @endangerment
+- xem endanger
+ @endangitis
+* dt
+- (y học) viêm màng mạch máu
+ @endangium
+* dt
+- (giải phẫu) màng mạch máu
+ @endarch
+* tt
+- (thực vật) có bó nguyên mộc trung tâm
+ @end-around carry
+- (Tech) số nhớ tuần hoàn 
++  cyclic carry
+ @end-around carry shift
+- (Tech) dịch chuyển tuần hoàn
+ @end-around shift
+- (Tech) dịch tuần hoàn
+ @endarterectomy
+* dt
+- (y học) việc cắt viêm áo trong động mạch
+ @end-body
+* dt
+- bổ thể
+ @end-brain
+* dt
+- não cuối
+ @end-bud
+* dt
+- (thực vật) mầm đuôi
+ @endcondition
+- điều kiện cuối
+- separated e.s điều kiện tách ở các điểm cuối 
+ @endear  
+*  ngdgt
+- làm cho được mến, làm cho được quý chuộng
+
++ to endear oneself to someone: làm ai mến mình
+
+@endearingly  
+*  dt
+- thân ái, trìu mến
+
+@endearment  
+*  dt
+- sự làm cho được mến, sự làm cho được quý chuộng
+- sự được mến, sự được quý chuộng
+- sự biểu lộ lòng yêu mến; sự âu yếm
+- điều làm cho mến, điều làm cho quý chuộng
+
+@endeavor  
+*  dt & dgt
+- (từ Mỹ,nghĩa Mỹ) (như) endeavour
+
+@endeavorer
+- xem endeavor
+ @endeavour  
+*  dt
+- sự cố gắng, sự nỗ lực, sự rán sức, sự gắng sức
+*  ndgt
+- cố gắng, nỗ lực, rán sức, gắng sức
+
+@endecagon
+* dt
+- xem hendecagon
+ @endemial
+* tt
+- xem endemic
+ @endemic  
+*  tt
+- (sinh vật học) đặc hữu (loài sinh vật...)
+- (y học) địa phương (bệnh)
+*  dt
+- (y học) bệnh địa phương
+
+@endemically
+- xem endemic
+ @endemicity  
+*  dt
+- (sinh vật học) tính đặc hữu
+- (y học) tính địa phương
+
+@endemiology
+- dt
+ @endemism
+- xem endemic
+ @endergonic
+* tt
+- thu nhiệt; thu năng lượng
+ @endermic  
+*  tt
+- ảnh hưởng đến da
+
+@endermically
+- xem endermic
+ @enderon
+* dt
+- lớp nội bì
+ @endexine
+* dt
+- (sinh học) màng trong (hạt phấn, bào tử)
+ @end-fed antenna
+- (Tech) ăngten tiếp sóng đầu cuối
+ @end-fire antenna
+- (Tech) ăngten cùng hướng, ăngten đoạn xạ
+ @end-fire array antenna
+- (Tech) ăngten giàn cùng hướng, ăngten hướng dọc
+ @ending  
+*  dt
+- sự kết thúc, sự chấm dứt
+- sự kết liễu, sự diệt
+- phần cuối
+
+@endive  
+*  dt
+- (thực vật học) rau diếp quăn
+
+@endless  
+*  tt
+- vô tận, vĩnh viễn, không bao giờ hết
+- không ngừng, liên tục
+
+@endless
+- vô hạn
+ @endless loop
+- (Tech) chu trình vô tận 
++  infinite loop
+ @endless magnetic tape loop
+- (Tech) chu trình băng từ kín
+ @endlessly
+* dt
+- không ngừng, liên tu bất tận
+ @endlessness  
+*  dt
+- tính vô tận, tính vĩnh viễn
+- tính không ngừng, tính liên tục
+
+@endline
+* dt
+- đường ranh giới
+ @endlong  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) dọc theo, theo chiều dọc
+- dựng đứng, thẳng đứng
+
+@endmost  
+*  tt
+- tột cùng, chót, xa nhất
+
+@endnote
+- chú giải cuối cùng đặt ở cuối tài liệu
+ @endoadaptation
+* dt
+- (sinh học) sự nội thích ứng
+ @endoascus
+* dt
+- (sinh học) màng trong túi, màng trong nan
+ @endobatic
+* tt
+- vào, nhập, hướng tâm
+ @endobiotic
+* tt
+- (sinh học) nội sinh; sống trong sinh vật
+ @endoblast  
+*  dt
+- (sinh vật học) lá trong
+
+@endobronchial
+* tt
+- thuộc nhánh phế quản sau (chim)
+ @endobronchium
+* dt
+- nhánh phế quản sau (chim)
+ @endocardial  
+*  tt
+- (giải phẫu) (thuộc) màng trong tim; trong tim
+
+@endocarditic
+- xem endocarditis
+ @endocarditis  
+*  dt
+- (y học) viêm màng trong tim
+
+@endocardium  
+*  dt
+- (giải phẫu) màng trong tim
+
+@endocarp  
+*  dt
+- (thực vật học) vỏ quả trong
+
+@endocarpal
+- xem endocarp
+ @endocarpic
+* tt
+- thuộc vỏ quả trong
+ @endocarpoid
+* tt
+- có vỏ quả trong
+ @endocellular
+* tt
+- trong tế bào
+ @endocentric
+* tt
+- (ngôn ngữ) nội tâm
+
++  endocentric construction:kiến trúc nội tâm
+ @endochrome
+* dt
+- sắc tố trong tế bào
+ @endocranial
+* tt
+- thuộc mấu trong sọ (côn trùng)
+ @endocrine  
+*  tt
+- (sinh vật học) nội tiết
+
++ endocrine glands: những tuyến nội tiết
+*  dt
+- (sinh vật học) tuyến nội tiết
+
+@endocrinologic
+- xem endocrinology
+ @endocrinologist
+- xem endocrinology
+ @endocrinology  
+*  dt
+- (sinh vật học) khoa nội tiết
+
+@endocyst
+* dt
+- (động vật) màng vỏ trong; vách thể xốp
+ @endoderm  
+*  dt
+- (sinh vật học) nội bì
+
+@endodermal
+- xem endoderm
+ @endodermic
+* tt
+- xem endoderm
+ @endodermis
+* dt
+- (thực vật) vỏ trong (cây)
+ @endodyne
+* dt
+- máy tự tạo dao động nội tại
+ @endoenzyme
+* dt
+- (sinh học) enzym nội bào
+ @end-of-block (EOB)
+- (Tech) kết thúc khối, đầu cuối khối
+ @end-of-file (EOF)
+- (Tech) kết thúc tập tin, đầu cuối tập tin
+ @end-of-job (EOJ)
+- (Tech) kết thúc công việc, đầu cuối công việc
+ @end-of-message (EOM)
+- (Tech) kết thúc thông báo, cuối thông báo
+ @end-of-text character
+- (Tech) ký tự kết thúc văn bản
+ @end-of-text (ETX)
+- (Tech) kết thúc văn bản, đầu cuối văn bản
+ @end-of-transmission block character
+- (Tech) ký tự khối kết thúc truyền
+ @end-of-transmission character
+- (Tech) ký tự kết thúc truyền
+ @end-of-transmission (EOT)
+- (Tech) kết thúc truyền, đầu cuối truyền
+ @endogamic
+* tt
+- tự giao; tự thụ phấn; nội giao
+ @endogamous  
+*  tt
+- (sinh vật học) nội giao
+
+@endogamy  
+*  dt
+- (sinh vật học) sự nội giao
+
+@endogen
+* dt
+- (thực vật) thực vật nội trường
+ @Endogeneous consumption
+- (Econ) Tiêu dùng nội sinh.
+ @endogenous  
+*  tt
+- (sinh vật học); (địa lý,địa chất) sinh trong, nội sinh
+
+@endogenous
+- trong hệ; (thống kê) nội sinh
+ @Endogenous income hypothesis
+- (Econ) Giả thiết thu nhập nội sinh
+: Một giả thiết cho rằng độ thoả dụng là một hàm của chi tiêu TIÊU DÙNG và CỦA CẢI.
+ @Endogenous money supply
+- (Econ) Cung tiền tệ nội sinh.
+: Theo quan điểm này, mức cung tiền được quyết định bởi các tác nhân bên trong nền kinh tế, chẳng hạn như lãi suất và mức độ hoạt động kinh doanh.
+ @Endogenous variable
+- (Econ) Biến nội sinh.
+: Một biến số mà giá trị của nó được xác định trong khuôn khổ của một mô hình kinh tế hay kinh tế lượng.
+ @endogenously
+- xem endogenous
+ @endogeny
+- xem endogenous
+ @endolymph  
+*  dt (y học)
+- nội bạch huyết
+- nội dịch (ở tai)
+
+@endolymphangial
+* tt
+- trong mạch bạch huyết
+ @endolymphatic
+- xem endolymph
+ @endolysin
+* dt
+- nội tiêu tố
+ @endolysis
+* dt
+- sự tiêu nội bào, sự phân hủy nội bào
+ @endomere
+* dt
+- khúc nội phôi bì; khúc lá phôi trong
+ @endometrial
+- xem endometrium
+ @endometritis  
+*  dt
+- (y học) viêm màng trong dạ con
+
+@endometrium  
+*  dt
+- (y học) màng trong dạ con
+
+@endomitousis
+* dt
+- (sinh học) sự nội gián phân
+ @endomixis
+* dt
+- (sinh học) sự nội kết hợp nhân
+ @endomorph  
+*  dt
+- (địa lý,địa chất) khoáng chất bao trong (một khoáng chất khác)
+
+@endomorphic  
+*  tt
+- (địa lý,địa chất) bao trong
+
+@endomorphism
+- (đại số) tự đồng cấu
+- join e. tự đồng cấu nối
+- operator e. tự đồng cấu toán tử
+- partial e. tự đồng cấu riêng phần
+- power-type e. tự đồng cấu kiểu luỹ thừa
+ @endomorphy
+- xem endomorphic
+ @endonuclear
+* tt
+- (sinh học) trong nhân
+ @endoparasite  
+*  dt
+- (sinh vật học) ký sinh trong
+
+@endoparasitic
+- xem endoparasite
+ @endoparasitism
+- xem endoparasite
+ @endophyte
+* dt
+- cây sống trong một cây khác
+ @endoplasm  
+*  dt
+- (sinh vật học) nội chất
+
+@endoplasmic
+- xem endoplasm
+ @endopleura
+* dt
+- (sinh học) vỏ trong; màng trong (hạt)
+ @endopodite  
+*  dt
+- (động vật học) nhánh chân trong
+
+@endopolyploid  
+*  tt
+- (sinh vật học) thể đa bội trong
+
+@endorm
+* ngdgt
+- làm cho ai ở trạng thái ngủ
+ @endorsable
+- xem endorse
+ @endorse   (indorse) @endorsee   (indorsee) @endorsement   (indorsation) @endorser  
+*  dt
+- người chứng nhận (séc...)
+- người chuyển nhượng (hối phiếu...)
+
+@endorsor
+- xem endorse
+ @endosarc
+* dt
+- nội chất; nội tương
+ @endoscope  
+*  dt
+- (y học) đèn soi trong
+
+@endoscopic
+- xem endoscope
+ @endoscopically
+- xem endoscope
+ @endoscopy  
+*  dt
+- (y học) phép soi trong
+
+@endosis
+* dt
+- (y học) sự giảm dần nhiệt độ
+ @endoskeletal
+- xem endoskeleton
+ @endoskeleton  
+*  dt
+- (động vật học) bộ xương trong
+
+@endosmose
+* dt
+- sự nội thẩm; hiện tượng nội thẩm
+ @endosmosis  
+*  dt
+- sự thấm lọc vào
+
+@endosmotic
+- xem endosmosis
+ @endosmotically
+- xem endosmosis
+ @endosome
+* dt
+- hạt cơ quan nội bào
+ @endosperm  
+*  dt
+- (thực vật học) nội nhũ
+
+@endospermous
+* tt
+- có nội nhũ
+ @endospore  
+*  dt
+- (thực vật học) bào tử trong, nội bào tử
+
+@endosporium
+* dt
+- vỏ trong vách bào tử
+ @endosteum
+* dt
+- (màng xương tronggiai phẫu)
+ @endostone
+* dt
+- (thực vật) miệng trong
+ @endostosis
+* dt
+- (giải phẫu) sự hoá xương trong sụn
+ @endostyle
+* dt
+- (động vật) trụ trong
+ @endothecium
+* dt
+- (thực vật) vách trong bao phấn
+ @endothelia  
+*  dt,  số nhiều endothelial
+- (sinh vật học) màng trong
+
+@endothelial  
+*  tt
+- (sinh vật học) (thuộc) màng trong
+
+@endothelioid
+- xem endothelium
+ @endothelioma
+* dt
+- (y học) u nội mô, u màng trong
+ @endothelium  
+*  dt,  số nhiều endothelial
+- (sinh vật học) màng trong
+
+@endothermal   (endothermic) @endothermal
+- (vật lí) thu nhiệt
+ @endothermic   (endothermic) @endothermy
+- xem endothermic
+ @endotoxin
+* dt
+- nội độc tố
+ @endotrachea
+* dt
+- vỏ trong khí quản
+ @endotracheal
+* tt
+- thuộc khí quản
+- đặt trong khí quản
+
++  endotracheal tube:ống đặt trong khí quản
+ @endow  
+*  ngdgt
+- cúng vốn cho (một tổ chức...)
+- để vốn lại cho (vợ, con gái...)
+- ((thường) động tt quá khứ) phú cho
+
++ to be endowed with many talents: được phú nhiều tài năng
+
+@endowment  
+*  dt
+- sự cúng vốn cho (một tổ chức...); vốn cúng cho (một tổ chức...)
+- sự để vốn lại (cho vợ, con gái...); vốn để lại (cho vợ, con gái...)
+- tài năng, thiên tư
+- (định ngữ) endowment insurance sự bảo hiểm có tiền thưởng trong lúc còn sống
+
+@endowment
+- (toán kinh tế) niên bổng; tuế khí; món tiền gửi, tiền quyên giúp
+ @Endowment effect
+- (Econ) Hiệu ứng hàng đã có.
+: Các cá nhân đòi hỏi nhiều hơn để có thể lôi kéo họ từ bỏ một hàng hoá mà họ đã có so với số tiền mà họ sẵn lòng trả để có được hàng hóa tương tự.
+ @endozoic
+* tt
+- (sinh học) sống trong động vật
+ @end-paper  
+*  dt
+- tờ để trắng (ở đầu hoặc cuối trang sách)
+
+@end-product  
+*  dt
+- sản phẩm cuối cùng (sau một quá trình biến chế)
+
+@end-sheath
+* dt
+- (sinh học) bao cuối; bao ngọn
+ @end-stopped
+* tt
+- cần phải dừng lại khi đọc (câu thơ)
+ @end-to-end
+* dt
+- hai đầu mút gần như chạm nhau
+ @end-to-end protocol
+- (Tech) quy ước từ đầu đến cuối
+ @endue   (indue) @end-up  
+*  tt
+- (thông tục) hếch (mũi...)
+
+@endurability
+* dt
+- tính chất có thể chịu đựng được
+- tính chất bền
+ @endurable  
+*  tt
+- có thể chịu đựng được
+
+@endurably
+- xem endurable
+ @endurance  
+*  dt
+- sự chịu đựng
+- khả năng chịu đựng; tính nhẫn nại
+- sự kéo dài
+
+@endure  
+*  ngdgt
+- chịu đựng, cam chịu, chịu được
+*  ndgt
+- kéo dài, tồn tại
+
+@enduring  
+*  tt
+- lâu dài, vĩnh viễn
+- nhẫn nại, kiên trì; dai sức chịu đựng
+
+@enduringly
+* dt
+- nhẫn nại, kiên trì
+ @enduringness  
+*  dt
+- tính lâu dài, tính vĩnh viễn, tính bền vững
+- tính nhẫn nại, tính kiên trì; tính dai sức chịu đựng
+
+@end-user
+- (Tech) người dùng cuối
+ @endways
+* dt
+- đầu dựng ngược
+- đầu quay về phía người nhìn, đầu đưa ra đằng trước
+- châu đầu vào nhauhau
+ @endwaysa   (endwise) @endwise   (endwise) @enema  
+*  dt
+- (y học) sự thụt
+- dụng cụ thụt
+
+@enemy  
+*  dt
+- kẻ thù, kẻ địch, địch thủ; quân địch, tàu địch
+
++ to be one's own enemy: tự mình làm hại mình
+- (thông tục) thì giờ
+
++ how goes the enemy?: mấy giờ rồi?
+
++ to kill the enemy: giết thì giờ
+!the Enemy
+- ma vương
+*  tt
+- của địch, thù địch
+
+@energesis
+* dt
+- quá trình dị hoá giải phóng năng lượng; quá trình dị hoá thải nhiệt
+ @energetic  
+*  tt
+- mạnh mẽ, mãnh liệt, đầy nghị lực, đầy sinh lực; hoạt động
+
+@energetically
+* dt
+- mạnh mẽ, hăng hái
+ @energetics  
+*  dt,  số nhiều dùng như số ít
+- năng lượng học
+
+@energic  
+*  tt
+- (từ hiếm,nghĩa hiếm) (như) energetic
+
+@energid
+* dt
+- (sinh học) thể nguyên sinh; chất nguyên sinh hoạt động
+ @energise   (energize) @energize   (energize) @energize
+- (máy tính) kích thích, mở máy
+ @energized
+- (Tech) năng lượng hóa
+ @energizer
+- xem energize
+ @energumen  
+*  dt
+- người bị quỷ ám
+- người cuồng tín
+
+@energy  
+*  dt
+- nghị lực, sinh lực
+- sự hoạt động tích cực
+- khả năng tiềm tàng, năng lực tiềm tàng
+- (số nhiều) sức lực
+- (vật lý) năng lượng
+
++ solar energy: năng lượng mặt trời
+
++ kinetic energy: động năng
+
+@energy
+- (Tech) năng lượng
+ @energy
+- năng lượng
+- e. of deformation năng lượng biến dạng
+- binding e. (vật lí) năng lượng liên kết
+- complementary e. năng lượng bù
+- electrostatic e. tĩnh điện năng
+- excitation e. năng lượng kích thích
+- intrinsic e. năng lượng tự tại, nội năng 
+- kinetic e. động năng
+- minimum potential e. thế năng cực tiểu
+- potential e. (vật lí) thế năng
+- potential e. of bending thế năng uốn
+- potential e. of strain thế năng biến dạng
+- surface e. năng lượng mặt
+- total e. năng lượng toàn phần 
+ @energy absorber
+- (Tech) bộ hấp thụ năng lượng
+ @energy band
+- (Tech) dải năng lượng
+ @energy band structure
+- (Tech) cấu trúc dải năng lượng
+ @energy density
+- (Tech) mật độ năng lượng
+ @energy density spectrum
+- (Tech) phổ mật độ năng lượng
+ @energy dispersive spectroscopy (EDS)
+- (Tech) phổ học về phân tán năng lượng
+ @energy distribution curve
+- (Tech) đường phân bố năng lượng
+ @energy gap
+- (Tech) khe năng lượng
+ @Energy intensity
+- (Econ) Cường độ sử dụng năng lượng.
+: Một chỉ báo về tính hiệu quả trong việc sử dụng năng lượng cơ bản trong sản xuất một đơn vị tổng sản phẩm quốc nội.
+ @energy quantum
+- (Tech) lượng tử năng lượng
+ @energy unit
+- (Tech) đơn vị năng lượng
+ @enervate  
+*  tt
+- yếu ớt (thể chất, tinh thần)
+
+@enervating  
+*  tt
+- làm yếu, làm suy yếu
+
+@enervation  
+*  dt
+- sự làm yếu, sự làm suy yếu
+
+@enervative
+- xem enervate
+ @enervator
+- xem enervate
+ @enervose
+* tt
+- (thực vật) không gân (lá)
+ @enface  
+*  ngdgt
+- viết (chữ) vào hối phiếu..., in (chữ) vào hối phiếu...; viết chữ vào (hối phiếu), in chữ vào (hối phiếu)
+
+@enfacement  
+*  dt
+- sự viết (chữ) vào hối phiếu..., sự in (chữ) vào hối phiếu..., sự viết chữ vào (hối phiếu)..., sự in chữ vào (hối phiếu)...
+- chữ viết (vào hối phiếu)..., chữ in (vào hối phiếu)...
+
+@enfant terrible
+* dt
+- kẻ thích sống lập dị
+ @enfeeble  
+*  ngdgt
+- làm yếu
+
+@enfeeblement  
+*  dt
+- sự làm yếu
+
+@enfeebler
+- xem enfeeble
+ @enfeoff  
+*  ngdgt
+- (sử học) cấp thái ấp cho
+- (nghĩa bóng) trao lại cho
+
+@enfeoffment   (infeudation) @enfetter  
+*  ngdgt
+- xiềng lại, xích lại ((nghĩa đen) & (nghĩa bóng))
+- nô dịch hoá
+
+@enfilade  
+*  dt
+- (quân sự) sự bắn lia
+*  ngdgt
+- (quân sự) bắn lia
+
+@enfleurage
+* dt
+- phương pháp tách hương liệu của hoa
+ @enfold   (infold) @enfolder
+- xem enfold
+ @enforce  
+*  ngdgt
+- làm cho có hiệu lực, làm cho có sức mạnh (một lý lẽ), đòi cho được (một yêu sách)
+- (: upon) ép làm, thúc ép, ép buộc (một việc gì)
+
++ to enforce something upon someone: ép ai phải làm một việc gì
+- bắt tôn trọng, bắt tuân theo; đem thi hành (luật lệ)
+
+@enforceability
+- xem enforce
+ @enforceable
+* tt
+- (pháp lí) có thể đem thi hành
+ @enforcedly  
+*  dt
+- bằng sự thúc ép, bằng cách ép buộc; do thúc ép, do ép buộc
+
+@enforcement  
+*  dt
+- sự thúc ép, sự ép buộc
+- sự bắt tôn trọng, sự bắt tuân theo; sự đem thi hành (luật lệ)
+
+@enforcer
+- xem enforce
+ @enframe  
+*  ngdgt
+- đóng khung (ảnh, tranh...); dùng làm khung cho (ảnh, tranh...)
+
+@enfranchise  
+*  ngdgt
+- giải phóng, cho tự do
+- ban quyền (được cử nghị viên... cho một thành phố)
+- cho được quyền bầu cử
+
+@enfranchisement  
+*  dt
+- sự giải phóng, sự cho tự do
+- sự ban quyền (được cử nghị viên... cho một thành phố)
+- sự cho được quyền bầu cử
+
+@Enfranchisement of the nomenklatura
+- (Econ) Đặc quyền của giới chức.
+: Một cách tiếp cận không chính thức và không rõ ràng đối với quá trình TƯ NHÂN HOÁ nhanh chóng tài sản nhà nước ở các nước xã hội chủ nghĩa trước đây (và một vài nước khác), qua đó các nhà hoạt động đảng phái trước đây và quan chức nhà nước có thể mua tài sản nhà nước với giá thấp hơn giá thị trường. Thuật ngữ nomenklatura chỉ những người được lựa chọn vào các chức vụ cao, nhưng không phải do công trạng mà do sự phán quyết của đảng cầm quyền.
+ @eng
+* (viết tắt)
+
++  engineer (ing):Peter BSc (Eng)
+- Peter, cử nhân khoa học (kỹ sư)
+- nước Anh (England)
+- người Anh; tiếng Anh (English)
+- viết tắt
+
++  engineer (ing):Peter BSc (Eng)
+- Peter, cử nhân khoa học (kỹ sư)
+- nước Anh (England)
+- người Anh; tiếng Anh (English)
+ @engage  
+*  ngdgt
+- hẹn, hứa hẹn, ước hẹn, cam kết; đính ước, hứa hôn
+
++ to engage oneself to do something: hứa hẹn làm gì
+
++ to become engaged to: hứa hôn với
+- thuê (người ở); giữ trước (chỗ ngồi...)
+- lấy (danh dự...) mà cam kết
+- thu hút (sự chú ý...); giành được (tình cảm...); làm cho mát mẻ
+- ((thường) động tt quá khứ) mắc bận
+
++ to be engaged in something: bận làm việc gì
+- (quân sự) giao chiến, đánh nhau với
+
++ to engage the enemy in heavy fighting: đánh nhau với quân địch rất dữ dội
+- (kỹ thuật) gài (số...)
+- (kiến trúc) gắn vào tường; ghép (vật nọ với vật kia)
+*  ndgt
+- (: in) làm, tiến hành
+
++ to engage in politics: làm chính trị
+
++ to engage in business: kinh doanh
+
++ to engage in negotiations with someone: tiến hành thương lượng với ai
+- (kỹ thuật) (: with) gài, khớp (với)
+
+@engaged  
+*  tt
+- đã đính ước, đã hứa hôn
+- được giữ trước, có người rồi (xe, chỗ ngồi...)
+- mắc bận, bận rộn
+- đang giao chiến, đang đánh nhau (quân lính)
+
+@engagement  
+*  dt
+- sự hứa hẹn, sự ước hẹn, sự cam kết, sự ràng buộc, sự hứa hôn
+
++ to keep one's engagements: tôn trọng những lời cam kết của mình
+- sự hứa gặp
+
++ a public engagement: sự hứa nói chuyện với công chúng
+
++ social engagements: sự được mời mọc ở các cuộc chiêu đãi...
+- sự thuê mướn (người làm...), sự tuyển mộ
+- công việc làm (của người thư ký, người giúp việc...)
+- (kỹ thuật) sự gài (số...)
+- (quân sự) sự giao chiến; cuộc đánh nhau
+
+@engagement ring
+* dt
+- nhẫn đính hôn
+ @Engagements
+- (Econ) Tuyển dụng (hay thuê mới).
+: Tổng số người tham gia đội ngũ có việc là trong bất cứ thời kỳ nào.
+ @engager
+- xem engage
+ @engaging  
+*  tt
+- lôi kéo, hấp dẫn; duyên dáng (nụ cười, giọng nói, cái nhìn...)
+
+@engagingly
+* dt
+- hấp dẫn, thú vị
+ @engarland  
+*  ngdgt
+- khoác vòng hoa cho (ai); đặt vòng hoa vào đầu (ai)
+
++ to engarland someone with flowers: đặt vòng hoa vào đầu ai
+
+@Engel curve
+- (Econ) Đường Engel.
+: Một đường biểu thị mối quan hệ giữa thu nhập và tiêu dùng của một cá nhân về một hàng hoá cụ thể.
+ @Engel's Law
+- (Econ) Quy luật của Engel.
+: Một quy luật tiêu dùng thực nghiệm do Ernst Engel đề xướng.Ý tưởng ở đây là phần thu nhập quốc gia được chi tiêu cho lương thực là một chỉ số tốt về phúc lợi của quốc gia đó.
+ @engender  
+*  ngdgt
+- sinh ra, gây ra, đem lại
+- (từ hiếm,nghĩa hiếm) đẻ ra, sinh ra
+
+@engenderer
+- xem engender
+ @engild
+* ngdgt
+- mạ vàng
+ @engine  
+*  dt
+- máy động cơ
+- đầu máy (xe lửa)
+- dụng cụ chiến tranh
+
++ engines of war: dụng cụ chiến tranh
+- dụng cụ, phương tiện
+
++ to use every available engine to gain one's end: sử dụng mọi phương tiện sẵn có để đạt mục đích của mình
+*  ngdgt
+- lắp máy vào (thu...); gắn động cơ vào
+
+@engine
+- máy, môtơ, động cơ, cơ cấu, dụng cụ
+- explosion e. động cơ đốt trong, máy nổ
+- jet e. động có phản lực 
+ @engine switch
+- (Tech) công tắc máy
+ @engined
+* tt
+- có lắp máy
+
++  front -engined car:ôtô lắp máy phía trước
+ @engine-driven  
+*  tt
+- (kỹ thuật) chạy bằng máy, chạy bằng động cơ
+
+@engine-driver  
+*  dt
+- thợ máy
+- người lái đầu máy xe lửa
+
+@engineer  
+*  dt
+- kỹ sư, công trình sư
+- kỹ sư xây dựng ((cũng) civil engineer)
+- công binh; người thiết kế và xây dựng công sự
+- người phụ trách máy; (từ Mỹ,nghĩa Mỹ) người lái đầu máy xe lửa
+- (thông tục) người nghĩ ra, người bày ra, người vạch ra, người bố trí (mưu kế...)
+*  ngdgt
+- nghĩ ra, bày ra, vạch ra, bố trí, sắp đặt (mưu kế...)
+*  ndgt
+- làm kỹ sư, làm công trình sư
+
+@engineer
+- (Tech) kỹ sư
+ @engineer
+- kỹ sư
+ @engineering  
+*  dt
+- kỹ thuật kỹ sư, kỹ thuật công trình sư; nghề kỹ sư, nghề công trình sư
+- kỹ thuật xấy dựng ((cũng) civil engineerings)
+
++ military engineering: kỹ thuật công binh
+- (số nhiều) ruốm khứ mánh khoé
+
+@engineering
+- (Tech) ngành kỹ thuật, công trình học; công trình; ngành kỹ thuật thiết kế và quản lý; công nghệ
+ @engineering
+- kỹ thuật
+- civil e. ngành xây dựng
+- communication e. kỹ thuật thông tin
+- control e. kỹ thuật [điều chỉnh, điều khiển] (tự động)
+- development e. nghiên cứu những kết cấu mới
+- electrical e. điện kỹ thuật
+- electronics e. điện tử học
+- heavy current e. kỹ thuật các dòng (điện) mạch 
+- human e. tâm lý học kỹ thuật
+- hydraulic e. kỹ thuật thuỷ lợi
+- light-current e. kỹ thuật các dòng (điện) yếu
+- mechanical e. kỹ thuật cơ khí, chế tạo máy
+- military e. kỹ thuật quân sự
+- power e. năng lượng học
+- process e. kỹ thuật
+- radio e. kỹ thuật vô tuyến
+- reseach e. nghiên cứu kỹ thuật
+- system e. kế hoạch hoá hệ thống, kỹ thuật hệ thống 
+ @engineering board
+- (Tech) bảng công trình, ủy ban quản lí công trình
+ @engineering cybernetics
+- (Tech) kỹ thuật điều khiển, kỹ thuật xibecnêtic
+ @Engineering method
+- (Econ) Phương pháp kỹ thuật.
+: Một phương pháp được dùng trong PHÂN TÍCH CHI PHÍ THÔNG KÊ, trong đó những ước tính của người kỹ sư về mối liên hệ đầu vào- đầu ra là cơ sở để tính toán chi phí sản xuất tối thiểu tại các mức sản lượng khác nhau.
+ @engineering reliability
+- (Tech) độ tin cậy kỹ thuật
+ @engineering unit
+- (Tech) đơn vị kỹ thuật
+ @engineership  
+*  dt
+- chức kỹ sư, chức công trình sư; nghề kỹ sư, nghề công trình sư
+- chức kỹ sư xây dựng, nghề kỹ sư xây dựng
+- chức vị người công binh, chức vị người thiết kế và xây dựng công sự; nghề công binh, nghề thiết kế và xây dựng công sự
+
+@engine-house
+* dt
+- trạm cứu hoả
+ @engine-lathe  
+*  dt
+- (kỹ thuật) máy tiện
+
+@engine-plant  
+*  dt
+- sự lắp máy
+- nhà máy chế tạo đầu máy xe lửa
+
+@enginery  
+*  dt
+- máy móc
+
+@engine-shed
+* dt
+- nhà để đầu máy xe lửa
+ @engine-trouble  
+*  dt
+- sự hỏng máy, sự liệt máy (ô tô)
+
+@engine-turn
+* ngdgt
+- chạm đường lộng chéo
+ @engird   (engirdle) @engirdle   (engirdle) @engirt   (engirdle) @englacial
+* tt
+- ở giữa băng hà
+ @englander  
+*  dt
+- Little englander (từ cổ,nghĩa cổ) người Anh chống chủ nghĩa đế quốc
+
+@english  
+*  tt
+- (thuộc) Anh
+*  dt
+- người Anh
+- tiếng Anh ((cũng) the king's,  the queen's English)
+
++ Old English: tiếng Anh cổ
+
++ Middle English: tiếng Anh Trung cổ
+
++ Modern English: tiếng Anh hiện đại
+- (ngành in) cỡ 14
+!in plain English
+- nói rõ ràng dễ hiểu; nói thẳng ra (không quanh co)
+*  ngdgt
+- (từ cổ,nghĩa cổ) dịch ra tiếng Anh
+- (từ Mỹ,nghĩa Mỹ) Anh hoá
+
+@English mode
+- (Tech) kiểu tiếng Anh
+ @englishism  
+*  dt (từ Mỹ,nghĩa Mỹ)
+- đặc điểm dân Anh
+- từ ngữ đặc Anh
+
+@englishman  
+*  dt
+- người Anh (đàn ông)
+
+@englishwoman  
+*  dt
+- người Anh (đàn bà)
+
+@engorge  
+*  ngdgt
+- ăn ngấu nghiến, ngốn
+- (động tt quá khứ) bị nhồi nhét
+- (động tt quá khứ) (y học) ứ máu
+
+@engorgement  
+*  dt
+- sự ăn ngấu nghiến, sự ngốn
+- sự nhồi nhét, sự tọng
+- (y học) sự ứ máu
+
+@engoube
+* dt
+- men sành
+ @engraft  
+*  ngdgt
+- (thực vật học); (y học) ghép (cây, da...)
+- ghép vào, lồng vào
+- thêm (râu ria...) vào
+- làm thấm nhuần (nguyên tắc...)
+
+@engraftment
+- xem engraft
+ @engrail  
+*  ngdgt
+- khía răng cưa (gờ đồng tiền...)
+
+@engrain  
+*  ngdgt
+- nhuộm thắm (vải...)
+- làm (thuốc nhuộm) thấm sâu vào vải
+- (nghĩa bóng) làm thấm sâu
+
+@engrained  
+*  tt
+- ăn sâu, thâm căn cố đế
+
++ an engrained habit: một thói quen ăn sâu
+
++ an engrained rague: một thằng chí đểu, một thằng đại xỏ lá
+
+@engrave  
+*  ngdgt
+- khắc, trổ, chạm
+- (nghĩa bóng) in sâu, khắc sâu (vào óc...)
+
+@engraver  
+*  dt
+- người thợ khắc, người thợ chạm
+- máy khắc, dao khắc
+
+@engraver
+- (Tech) khắc (d)
+ @engraving  
+*  dt
+- sự khắc, sự trổ, sự chạm
+- (nghĩa bóng) sự in sâu, sự khắc sâu (vào óc...)
+- bản in khắc
+
+@engross  
+*  ngdgt
+- làm mê mải (ai); thu hút (sự chú ý)
+- chiếm, choán hết (thì giờ)
+- chiếm vai trò chủ yếu (trong chuyện trò)
+- chép (một tài liệu) bằng chữ to
+- (sử học) mua toàn bộ (thóc... để lũng đoạn thị trường)
+- (pháp lý) thảo (một tài liệu, dưới hình thức pháp lý)
+
+@engrosser
+- xem engross
+ @engrossing  
+*  tt
+- choán hết thì giờ, phải để nhiều tâm trí vào (công việc)
+
+@engrossingly
+- xem engrossing
+ @engrossment  
+*  dt
+- sự làm mê mải; sự thu hút (sự chú ý)
+- sự chiếm, sự choán hết (thì giờ)
+- sự chiếm vai trò chủ yếu (trong chuyện trò)
+- sự chép (một tài liệu) bằng chữ to
+- (sử học) sự mua toàn bộ (thóc... để lũng đoạn thị trường)
+- (pháp lý) sự thảo (một tài liệu, dưới hình thức pháp lý)
+
+@engulf  
+*  ngdgt
+- nhận chìm, nhận sâu (xuống vực thẳm...)
+
+@engulfment  
+*  dt
+- sự nhận chìm, sự nhận sâu (xuống vực thẳm...)
+
+@enhalo
+* ngdgt
+- bao quanh bằng cái quầng
+ @enhance  
+*  ngdgt
+- làm tăng, nâng cao, đề cao, làm nổi bật (đức tính, quyền hạn...)
+- tăng (giá...)
+
+@enhanced keyboard
+- (Tech) bàn phím tăng cường
+ @enhancement  
+*  dt
+- sự làm tăng, sự nâng cao, sự đề cao, sự làm nổi bật
+- sự tăng
+
+@enhancement
+- (Tech) tăng cường, nâng lên (d)
+ @enhancement fet
+- (Tech) trănsito fet tăng cường
+ @enhancement mode
+- (Tech) kiểu tăng cường
+ @enhancement region
+- (Tech) vùng giàu, vùng tăng cường
+ @enhancement type
+- (Tech) loại tăng cường
+ @enhancer
+- xem enhance
+ @enhancive
+- xem enhance
+ @enharmonic  
+*  tt
+- (âm nhạc) trùng, trùng âm
+
+@enharmonically
+- xem enharmonic
+ @enhydrous
+* tt
+- (khoáng chất) chứa bọng nước
+ @enigma  
+*  dt
+- điều bí ẩn
+- người khó hiểu
+
+@enigmatic   (enigmatical) @enigmatical   (enigmatical) @enigmatically
+* dt
+- bí ẩn, kỳ bí, khó hiểu
+ @enigmatist
+* dt
+- người nói năng khó hiểu
+ @enigmatize  
+*  ngdgt
+- làm thành bí ẩn, làm thành khó hiểu
+
+@enisle  
+*  ngdgt (thơ ca)
+- biến thành đảo
+- để ở đảo
+- cô lập
+
+@enjambment  
+*  dt
+- (thơ ca) câu thơ vắt dòng
+
+@enjoin  
+*  ngdgt
+- khiến, bắt phải, ra lệnh, chỉ thị
+
++ to enjoin somebody to do something; to enjoin an action on somebody: ra lệnh cho ai phải làm gì
+
++ to enjoin that some action must be taken: chỉ thị bắt phải có một hành động gì
+
++ to enjoin silence upon somebody; to enjoin somebody to be silent: bắt ai phải im lặng
+- (pháp lý) ra lệnh cấm
+
+@enjoiner
+- xem enjoin
+ @enjoinment  
+*  dt
+- sự khiến, sự bắt buộc; sự ra lệnh; chỉ thị
+- (pháp lý) sự ra lệnh cấm
+
+@enjoy  
+*  ngdgt
+- thích thú, khoái (cái gì)
+
++ to enjoy an interesting book: thích thú xem một cuốn sách hay
+
++ to enjoy oneself: thích thú, khoái trá
+- được hưởng, được, có được
+
++ to enjoy good health: có sức khoẻ
+
++ to enjoy poor health: có sức khoẻ kém
+
+@enjoyable  
+*  tt
+- thú vị, thích thú
+
++ an enjoyable evening: một buổi tối thú vị
+
+@enjoyableness  
+*  dt
+- tính thú vị
+
+@enjoyably
+* dt
+- thú vị, thích thú
+ @enjoyer
+- xem enjoy
+ @enjoyment  
+*  dt
+- sự thích thú, sự khoái trá
+- sự được hưởng, sự được, sự có được
+
+@enkindle  
+*  ngdgt
+- nhen, nhóm (lửa...)
+
++ to enkindle a war: nhóm ngọn lửa chiến tranh, gây ra chiến tranh
+- kích thích, kích động, khêu gợi
+
+@enkindler
+- xem enkindle
+ @enlace  
+*  ngdgt
+- ôm ghì, ôm chặt, quấn bện
+
+@enlacement  
+*  dt
+- sự ôm ghì, sự ôm chặt, sự quấn bện
+
+@enlarge  
+*  ngdgt
+- mở rộng, tăng lên, khuếch trương
+- (nhiếp ảnh) phóng
+- (từ cổ,nghĩa cổ) thả, phóng thích
+*  ndgt
+- (nhiếp ảnh) có thể phóng to được
+- (: on,  upon) tán rộng về (một vấn đề...)
+
+@enlarge
+- (Tech) mở rộng, triển khai
+ @enlarge
+- mở rộng, phát triển, phóng đại
+ @enlarged
+* tt
+- mở rộng
+
++  enlarged meeting:cuộc họp mở rộng 
+ @enlargement  
+*  dt
+- sự mở rộng, sự tăng lên, sự khuếch trương
+- phần mở rộng, phần thêm vào
+- ảnh phóng to
+
+@enlarger  
+*  dt
+- (nhiếp ảnh) máy phóng
+
+@enlighten  
+*  ngdgt
+- làm sáng tỏ, mở mắt cho (ai, về vấn đề gì...)
+- ((thường) động tt quá khứ) giải thoát cho (ai) khỏi sự ngu dốt, giải thoát cho (ai) khỏi sự mê tín...
+- (thơ ca) soi sáng, rọi đèn
+
+@enlightened  
+*  tt
+- được làm sáng tỏ, được mở mắt
+- được giải thoát khỏi sự ngu dốt, được giải thoát khỏi sự mê tín...
+
+@enlightener  
+*  dt
+- được làm sáng tỏ (một vấn đề...)
+
+@enlightenment  
+*  dt
+- sự làm sáng tỏ, sự mở mắt
+- điều làm sáng tỏ
+!age of enlightenment
+- thời đại ánh sáng
+
+@enlink  
+*  ngdgt
+- nối liền, kết chặt ((nghĩa đen) & (nghĩa bóng))
+
+@enlist  
+*  ngdgt
+- tuyển (quân)
+- tranh thủ, giành được (cảm tình, sự cộng tác...)
+
++ to enlist someone's sunport: tranh thủ được sự ủng hộ của ai
+*  ndgt
+- tòng quân, đi làm nghĩa vụ quân sự
+- (từ Mỹ,nghĩa Mỹ) (: in) binh nhì ((viết tắt) EM)
+
+@enlisted man
+* dt
+- <qsự> binh nhì
+ @enlistee  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) người tòng quân
+
+@enlistment  
+*  dt
+- sự tuyển quân, sự tòng quân
+- thời gian tòng quân
+- sự tranh thủ, sự giành được
+
+@enliven  
+*  ngdgt
+- làm hoạt động, làm sôi nổi, làm phấn chấn (người tình cảm...)
+- chấn hưng, làm hưng thịnh (sự buôn bán)
+- làm tươi sáng, làm vui vẻ, làm sinh động (bức tranh, cảnh)
+
+@enlivener
+- xem enliven
+ @enlivening  
+*  dt
+- sự làm hoạt động, sự làm sôi nổi, sự làm phấn chấn
+- sự chấn hưng, sự làm hưng thịnh (buôn bán)
+- sự làm tươi sáng, sự làm vui vẻ, sự làm sinh động
+*  tt
+- làm sôi nổi (âm nhạc); làm khoẻ mạnh (khí hậu, không khí)
+- làm vui vẻ (câu chuyện)
+
+@enlivenment
+- xem enliven
+ @enmesh  
+*  ngdgt
+- đánh (bằng) lưới (cá...)
+- làm lúng túng, làm vướng víu, làm mắc lưới; cho vào cạm bẫy
+
+@enmeshment
+- xem enmesh
+ @enmity  
+*  dt
+- sự thù hằn
+- tình trạng thù địch
+
++ to be at enmity with someone: thù địch với ai
+
+@ennead  
+*  dt
+- bộ chín (quyển sách...)
+
+@enneagon  
+*  dt
+- (toán học) hình chín cạnh
+
+@enneagonal  
+*  tt
+- toán chín cạnh
+
+@enneagynous  
+*  tt
+- (thực vật học) chín nhuỵ
+
+@enneahedral
+* tt
+- có chín mặt
+ @enneahedron
+* dt
+- hình chín mặt
+ @enneandrous  
+*  tt
+- (thực vật học) chín nhị
+
+@enneapetalous  
+*  tt
+- (thực vật học) chín cánh (hoa)
+
+@enneastyle
+* tt
+- (kiến trúc) mặt trước có chín trụ
+ @enneasyllabic  
+*  tt
+- (ngôn ngữ học) chín âm tiết
+
+@ennoble  
+*  ngdgt
+- làm thành quý tộc
+- làm cao cả, làm cao quý, làm cao thượng
+
+@ennoblement  
+*  dt
+- sự làm thành quý tộc
+- sự làm cho cao cả, sự làm cho cao quý, sự làm cho cao thượng
+
+@ennobler
+- xem ennoble
+ @ennui  
+*  dt
+- sự buồn chán, sự chán nản
+
+@ennuied  
+*  tt
+- buồn chán, chán nản
+
+@ennuyé  
+*  dt
+- người buồn chán, người chán nản
+
+@ennuyée  
+*  dt
+- người đàn bà buồn chán, người đàn bà chán nản
+
+@enol
+* dt
+- (hoá học) enola
+ @enolase
+* dt
+- (hoá học) enolaza
+ @enology
+* dt
+- cách chế rượu nho
+ @enophile
+* dt
+- người thích rượu nho
+ @enophilist
+* dt
+- xem enophile
+ @enorganic
+* tt
+- có sẵn trong cơ thể; tiên thiên; di truyền
+ @enormity  
+*  dt
+- sự tàn ác dã man; tính tàn ác
+- tội ác; hành động tàn ác
+
+@enormous
+* tt
+- to lớn, khổng lồ
+- <cổ> tàn ác
+ @enormously
+* dt
+- to lớn, khổng lồ
+- vô cùng, hết sức
+ @enormousness
+* dt
+- sự to lớn, sự khổng lồ; tính to lớn
+- khổ to lớn
+ @enough  
+*  tt
+- đủ, đủ dùng
+
++ enough rice: đủ gạo, đủ cơm
+*  dt
+- sự đủ dùng, số đủ dùng, lượng đủ dùng
+
++ to have enough of everything: mọi thứ có đủ dùng
+!to cry enough
+- chịu thua, xin hàng
+!enough of this cheek!
+- hỗn vừa chứ!
+!to have enough of somebody
+- chán ngấy ai
+!more than enough
+- quá đủ
+*  dt
+- đủ, khá
+
++ to be warm enough: đủ ấm
+
++ to sing well enough: hát khá hay
+
++ you know well enough what I mean: anh biết khá rõ tôi muốn nói gì chứ
+
+@enough
+- đủ
+ @enounce  
+*  ngdgt
+- phát biểu, nói lên; đề ra (ý kiến...)
+- đọc, phát âm (từ)
+
+@enouncement  
+*  dt
+- sự phát biểu, sự nói lên; sự đề ra
+- sự đọc, sự phát âm
+
+@enourmous  
+*  tt
+- to lớn, khổng lồ
+- (từ cổ,nghĩa cổ) tàn ác
+
+@enourmously  
+*  dt
+- to lớn, khổng lồ
+- vô cùng, hết sức
+
+@enourmousness  
+*  dt
+- sự to lớn, sự khổng lồ; tính to lớn
+- khổ to lớn
+
+@enow  
+*  tt,  dt & dt
+- (thơ ca) (như) enough
+
+@enphytotic
+* tt
+- (thực vật) gây bệnh cây
+ @enplane   (enplane) @ENQ (Enquiry 
++  Inquiry)
+- (Tech) điều tra, chiếu hội; câu hỏi
+ @enqueue
+- (Tech) đặt thứ tự, sắp đặt hàng, vào hàng
+ @enquire   (enquire) @enquiry  
+*  dt
+- sự điều tra, sự thẩm tra; sự thẩm vấn, sự hỏi
+- câu hỏi
+
+@enquiry 
++  inquiry
+- (Tech) điều tra (d); hỏi tin (đ)
+ @enquiry character (EC) 
++  inquiry character
+- (Tech) ký tự hỏi
+ @enquiry-response
+* dt
+- sự hỏi đáp
+ @enrage  
+*  ngdgt
+- làm giận điên lên, làm điên tiết, làm nổi khùng
+
+@enraged
+* tt
+- nổi giận; nổi khùng
+- hoá điên
+ @enragement
+- xem enrage
+ @enrapt
+* tt
+- mừng quýnh; mê thích
+ @enrapture   (enravish) @enrapturement
+- xem enrapture
+ @enravish   (enravish) @enravishment
+* dt
+- sự khoái trá, sự mê mẩn
+ @enregiment  
+*  ngdgt
+- tập hợp (quân) thành một trung đoàn
+- cho vào nền nếp, cho vào kỷ luật, cho vào khuôn phép
+
+@enregister
+* ngdgt
+- đăng ký
+- ghi vào sổ
+- ghi âm
+ @enrich  
+*  ngdgt
+- làm giàu, làm giàu thêm, làm phong phú
+- làm tốt thêm, làm màu mỡ thêm; bón phân (đất trồng)
+- (y học) cho vitamin vào (thức ăn, bánh mì...)
+
+@enricher
+- xem enrich
+ @enrichment  
+*  dt
+- sự làm giàu, sự làm giàu thêm, sự làm phong phú
+- sự làm tốt thêm, sự làm màu mỡ thêm, cái làm phong phú thêm
+- (y học) sự cho vitamin vào (thức ăn...)
+
+@enring
+* ngdgt
+- đeo vòng, đeo khuyên
+ @enrobe  
+*  ngdgt
+- mặc áo dài cho
+
+@enrol   (enroll) @enroll   (enroll) @enrollee
+- xem enroll
+ @enrollment
+- như enrolment
+ @enrolment  
+*  dt
+- sự tuyển (quân...)
+- sự kết nạp, sự ghi tên cho vào (hội...)
+- (pháp lý) sự ghi vào (sổ sách toà án)
+
+@enroot
+* ngdgt
+- bắt rễ sâu
+ @ens  
+*  dt,  số nhiều entia
+- (triết học) thể (trừu tượng)
+
+@ensa  
+*  dt
+- (viết tắt) của Entertainments National Service Association tổ chức giải trí cho quân đội Anh
+
+@ensael
+* ngdgt
+- đóng con dấu
+ @ensample  
+*  dt
+- (từ cổ,nghĩa cổ) (như) example
+
+@ensanguine
+* ngdgt
+- làm đẫm máu
+ @ensanguined  
+*  tt
+- đẫm máu ((nghĩa đen) & (nghĩa bóng))
+
+@enschedule
+* ngdgt
+- đưa vào mục lục, đưa vào kế hoạch
+ @ensconce  
+*  ngdgt
+- náu, nép
+- để gọn lỏn; ngồi gọn lỏn, ngồi thu lu
+
++ to ensconce oneself: náu mình, nép mình; ngồi gọn lỏn, ngồi thu lu (trong ghế bành...)
+
++ a hat ensconced on head: đội mũ gọn lỏn trên đầu
+
+@enseal
+* ngdgt
+- đóng con dấu
+ @ensemble  
+*  dt
+- toàn bộ; ấn tượng chung
+- (âm nhạc) khúc đồng diễn; đồng diễn
+- (sân khấu) đoàn hát múa
+- (từ Mỹ,nghĩa Mỹ) bộ quần áo
+
+@ensemble
+- (Tech) tập hợp, nhóm
+ @ensemble
+- tập hợp
+ @ensepulcher
+* ngdgt, cũng ensepulchre
+- mai táng; chôn
+ @ensheath
+* ngdgt
+- bọc; kéo kén; đưa vào kén
+ @enshrine  
+*  ngdgt
+- cất giữ (thánh vật...) vào thánh đường; trân trọng cất giữ (cái gì) coi như là thiêng liêng
+- là nơi cất giữ thiêng liêng (vật quý)
+
+@enshrinement  
+*  dt
+- sự cất giữ (thánh vật...) vào thánh đường
+- nơi cất giữ thiêng liêng (thánh vật...)
+
+@enshroud  
+*  ngdgt
+- bọc kín (như liệm); phủ kín, che lấp
+
+@ensiform  
+*  tt
+- hình gươm, hình kiếm
+
+@ensiform-leaved  
+*  tt
+- (thực vật học) có lá hình gươm
+
+@ensign  
+*  dt
+- phù hiệu
+- cờ hiệu
+- (quân sự), cờ người cầm cờ
+- (từ Mỹ,nghĩa Mỹ),  (hàng hải) thiếu uý
+
+@ensign-bearer
+* dt
+- người cầm cờ hiệu
+ @ensigncy  
+*  dt
+- (từ cổ,nghĩa cổ) chức cầm cờ
+
+@ensilage   (silage) @ensilation
+* dt
+* dt
+- sự ủ xilô
+- thức ăn gia súc ủ xilô
+ @ensile  
+*  ngdgt
+- cho (thức ăn vật nuôi) vào xilô
+
+@ensillation   (silage) @ensisternum
+* dt
+- (sinh học) mảnh ức dạng kiếm
+ @enslave  
+*  ngdgt
+- biến thành nô lệ, bắt làm nô lệ, nô dịch hoá ((nghĩa đen) & (nghĩa bóng))
+
+@enslavement  
+*  dt
+- sự nô dịch hoá, tình trạng bị nô dịch
+
+@enslaver  
+*  dt
+- người nô dịch hoá
+- người đàn bà đẹp say đắm
+
+@ensnare  
+*  ngdgt
+- bẫy, đánh bẫy, gài bẫy ((nghĩa đen) & (nghĩa bóng))
+
+@ensnarement
+- xem ensnare
+ @ensnarer
+- xem ensnare
+ @ensnarl  
+*  ngdgt
+- làm vướng, làm nắc
+!to be ensnarled in a pilot
+- bị dính líu vào một âm mưu
+
+@ensoul  
+*  ngdgt
+- cho linh hồn
+- để vào tâm hồn, ghi vào tâm hồn
+
+@ensphere  
+*  ngdgt
+- bao bọc (trong hoặc như trong hình cầu)
+- làm thành hình cầu
+
+@enstate
+* ngdgt
+- trao chức; đặt ở địa vị
+ @enstatite
+* dt
+- (khoáng chất) enxtatit
+ @ensuant  
+*  tt
+- từ... mà ra, do... mà ra, sinh ra từ
+
++ situation ensuant on the war: tình hình do chiến tranh gây ra
+
+@ensue  
+*  ndgt
+- xảy ra sau đó
+- (: from,  on) sinh ra từ
+
++ difficulties ensuing on (from) the war: khó khăn do chiến tranh sinh ra, khó khăn do chiến tranh gây ra
+*  ngdgt
+- (kinh thánh) tìm kiếm
+
+@ensuing
+* tt
+- kế tiếp theo
+
++  the ensuing year:năm kế tiếp theo
+* tt
+- kế tiếp theo
+
++  the ensuing year:năm kế tiếp theo
+ @ensure  
+*  ngdgt
+- bảo đảm
+- giành được chắc chắn (cái gì) (cho ai)
+- (từ cổ,nghĩa cổ) bảo hiểm
+
+@ensure
+- đảm bảo
+ @enswathe  
+*  ngdgt
+- bọc bằng tã lót, quấn bằng tã lót ((nghĩa đen) & (nghĩa bóng))
+
+@enswathement  
+*  dt
+- sự bọc bằng tã lót, sự quấn bằng tã lót
+
+@ent
+* (viết tắt)
+- tai mũi họng (ear, nose and throat)
+ @entablature  
+*  dt
+- (kiến trúc) mũ cột
+
+@entablement
+* dt
+- xem entablature
+ @entail  
+*  dt
+- (pháp lý) chế độ kế thừa theo thứ tự; tài sản kế thừa theo thứ tự
+- (nghĩa bóng) di sản (đức tính, tín ngưỡng...)
+*  ngdgt
+- (pháp lý) cho kế thừa theo thứ tự
+- bắt phải (tiêu tiền, làm việc...)
+
++ to entail much work on someone: bắt ai phải làm việc nhiều
+- đòi hỏi; gây ra, đưa đến
+
++ a high position entails great responsibility: chức vị cao đòi hỏi trách nhiệm lớn
+
+@entailment  
+*  dt
+- (pháp lý) sự kế thừa theo thứ tự
+
+@entangial
+* tt
+- (giải phẫu) trong mạch
+ @entangle   (intertangle) @entanglement  
+*  dt
+- sự làm vướng mắc, sự làm mắc bẫy, sự làm vướng vào, sự vướng mắc, sự vướng víu; điều làm vướng mắc, điều làm vướng víu
+- sự làm vướng vào khó khăn, sự làm bối rối, sự làm lúng túng; cảnh khó khăn bối rối, cảnh khó khăn lúng túng
+- sự làm rối rắm; sự rối rắm, điều rối rắm, 
+- (quân sự) hàng rào (bằng dây thép gai, cọc...)
+- sự ùn lại (giao thông)
+
+@entangler
+- xem entangle
+ @entasis
+* dt
+- (kiến trúc) đường gờ dọc cột; đường chỉ dọc cột
+ @entelechy  
+*  dt
+- (triết học) cái tự mục đích
+
+@entellus  
+*  dt
+- (động vật học) khỉ đuôi dài (Ân-độ) ((cũng) entellus monkey)
+
+@entente  
+*  dt
+- (ngoại giao) hiệp ước thân thiện (giữa một số nước)
+- khối nước thân thiện (giữa một số nước)
+- khối nước trong hiệp ước thân thiện
+!the Entente
+- (sử học) đồng minh
+
+@enter  
+*  ndgt
+- đi vào
+- (sân khấu) ra
+- tuyên bố tham dự (cuộc thi)
+*  ngdgt
+- đi vào (một nơi nào...); đâm (vào thịt...)
+- gia nhập (quân đội...)
+- bắt đầu luyện (chó ngựa)
+- ghi (tên vào sổ, cuộc thi...)
+- kết nạp, lấy vào
+!to enter into
+- đi vào (nơi nào)
+- tiến hành (cuộc nói chuyện, cuộc điều tra); thiết lập (quan hệ...); ký kết (hiệp nghị...)
+- thông cảm với (ý nghĩ, tình cảm của ai)
+- tự ràng buộc mình vào, tham dự (hợp đồng, hiệp ước...)
+- nằm trong (kế hoạch, sự tính toán)
+!to enter on (upon)
+- bắt đầu (một quá trình gì...); bắt đầu bàn về (một vấn đề...)
+- (pháp lý) tiếp nhận, tiếp thu (tài sản)
+!to enter an appearance
+- có ý đến dự (cuộc họp...); nhất định có mặt (ở cuộc mít tinh...)
+!to enter a protest
+- phản kháng; đề nghị ghi lời phản kháng của mình (vào văn bản...)
+!to enter up account books
+- kết toán sổ sách
+
+@enter
+- (Tech) cho vào
+ @enter
+- vào, ghi, ra nhập
+ @enter correction
+- (Tech) thực hành sửa (chữa)
+ @enter key
+- (Tech) phím vào, phím thi hành
+ @entera  
+*  dt,  số nhiều entera
+- (giải phẫu) ruột
+
+@enterable  
+*  tt
+- có thể vào được
+
+@enteral
+* tt
+- trong ruột
+ @enteralgia
+* dt
+- (y học) chứng đau ruột
+ @enterclose
+* dt
+- (kiến trúc) đường thông qua các phòng
+ @enterectomy
+* dt
+- (y học) thủ thuật cắt bỏ ruột non
+ @enteric  
+*  tt
+- (y học) (thuộc) ruột
+*  dt
+- (y học) bệnh thương hàn ((cũng) enteric fever)
+
+@enteritidis  
+*  dt
+- viêm ruột (của súc vật con)
+
+@enteritis  
+*  dt
+- (y học) viêm ruột, viêm ruột non
+
+@enterobacterial
+* tt
+- thuộc vi khuẩn trong ruột
+ @enterobacterium
+* dt
+- vi khuẩn trong ruột
+ @enterococus
+* dt
+- số nhiều enterococci
+- (y học) khuẩn cầu ruột
+ @enterocoele
+* dt
+- cũng enterocoel
+- khoang ruột
+ @enterocoelous
+* tt
+- thuộc khoang ruột
+ @enterocolitis
+* dt
+- (y học) viêm ruột non kết
+ @enteroderm
+* dt
+- mầm ruột; biểu bì ruột
+ @enterogastrone
+* dt
+- enterogaxtron; homon ruột lá
+ @enterokinase
+* dt
+- enterokinaza; men ruột
+ @enterolite  
+*  dt
+- (y học) sỏi ruột
+
+@enterology
+* dt
+- (y học) khoa nội tạng
+ @enteromephric
+* tt
+- thuộc đơn thận ruột
+ @enteron  
+*  dt,  số nhiều entera
+- (giải phẫu) ruột
+
+@enteropathogenic
+* tt
+- (y học) gây bệnh ruột
+ @enteropathy
+* dt
+- bệnh ruột
+ @enteroproct
+* dt
+- (giải phẫu) lỗ ruột-hậu môn
+ @enteroptosis  
+*  dt
+- (y học) chứng sa ruột
+
+@enterorrhagia  
+*  dt
+- (y học) chảy máu ruột
+
+@enterostome
+* dt
+- (giải phẫu) miệng ruột
+ @enterostomy  
+*  dt
+- (y học) thủ thuật mở thông ruột
+
+@enterotomy  
+*  dt
+- (y học) thủ thuật mở ruột
+
+@enterotoxin
+* dt
+- toxin (độc tố) trong ruột
+ @enterprise  
+*  dt
+- việc làm khó khăn; việc làm táo bạo
+- tính dám làm
+- (từ Mỹ,nghĩa Mỹ) tổ chức kinh doanh, hãng
+
+@enterprise
+- (Tech) xí nghiệp
+ @enterpriser  
+*  dt
+- người dám làm
+
+@enterprising  
+*  tt
+- dám làm
+
+@enterprisingly
+* dt
+- mạnh dạn
+ @entertain  
+*  ngdgt
+- tiếp đãi; chiêu đãi
+- giải trí, tiêu khiển
+- nuôi dưỡng, ấp ủ (ảo tưởng, hy vọng, sự nghi ngờ, quan điểm...)
+- hoan nghênh, tán thành (ý kiến, đề nghị...)
+- trao đổi (thư từ...)
+!to entertain a discourse upon something
+- (từ cổ,nghĩa cổ),  (văn học) bàn về cái gì
+
+@entertainer  
+*  dt
+- người tiếp đãi, người chiêu đãi
+- người làm trò mua vui (hát, múa... ở các hộp đêm)
+
+@entertaining  
+*  tt
+- giải trí, vui thú, thú vị
+
+@entertainingly
+* dt
+- hấp dẫn, thú vị
+ @entertainment  
+*  dt
+- sự tiếp đãi; sự chiêu đãi; buổi chiêu đãi
+- sự giải trí, sự tiêu khiển, sự vui chơi; cuộc biểu diễn văn nghệ
+- sự nuôi dưỡng, sự ấp ủ (ảo tưởng, hy vọng, nghi ngờ, quan điểm...)
+- sự hoan nghênh, sự tán thành (ý kiến, đề nghị...)
+!entertainment allowances
+- phụ cấp tiếp khách
+!entertainment tax
+- thuế đánh vào các buổi biểu diễn văn nghệ
+
+@enthalpy
+* dt
+- (hoá học) entanpi
+
++  entanpi of liquid:entanpi chất lỏng
+ @entheism
+* dt
+- (triết học) thuyết vũ trụ phiếm thần
+ @enthetic
+* tt
+- (y học) cấy; đưa vào; nhập nội
+ @enthral   (enthrall) @enthrall   (enthrall) @enthralling  
+*  tt
+- làm mê hoặc, làm mê mệt, vô cùng thú vị
+
+@enthrallingly
+- xem enthrall
+ @enthrallment
+- xem enthrall
+ @enthralment  
+*  dt
+- sự mê hoặc, sự làm cho mê mệt
+- (thường),  (nghĩa bóng) sự nô dịch hoá
+
+@enthrone  
+*  ngdgt
+- tôn làm, đưa lên ngôi (vua); phong làm (giám mục...)
+- (nghĩa bóng) phong lên, tôn lêm
+
+@enthronement   (enthronization) @enthronization   (enthronization) @enthronize
+* ngdgt
+- đưa lên ngôi; lập làm vua
+- nhận hức (giáo chủ)
+ @enthuse  
+*  ndgt (thông tục)
+- tỏ ra hăng hái, đầy nhiệt tình
+- chan chứa tình cảm
+*  ngdgt
+- làm cho nhiệt tình, làm cho hăng hái
+
+@enthusiasm  
+*  dt
+- sự hăng hái, sự nhiệt tình
+
+@enthusiast  
+*  dt
+- người hăng hái, người có nhiệt tình; người say mê
+
++ a music enthusiast: người say mê âm nhạc
+
+@enthusiastic  
+*  tt
+- hăng hái, nhiệt tình; say mê
+
+@enthusiastically
+* dt
+- phấn khởi, hăng hái, nồng nhiệt
+ @enthymeme
+* dt
+- (triết học) tam đoạn luận giảm ước
+ @entia  
+*  dt,  số nhiều entia
+- (triết học) thể (trừu tượng)
+
+@entice  
+*  ngdgt
+- dụ dỗ, cám dỗ, lôi kéo
+- nhử (chim...) vào bẫy
+
+@enticement  
+*  dt
+- sự dụ dỗ, sự cám dỗ, sự lôi kéo
+- sự nhử (chim) vào bẫy, mồi nhử
+
+@enticer
+- xem entice
+ @enticing
+* tt
+- hấp dẫn, lôi cuốn, thú vị
+ @enticingly
+* dt
+- hấp dẫn, thú vị
+ @entile  
+*  ngdgt
+- cho đầu đề, cho tên (sách...)
+- xưng hô bằng tước
+- cho quyền (làm gì...)
+
++ to be entiled to something: có quyền làm cái gì
+
+@entire  
+*  tt
+- toàn bộ, toàn thể, toàn vẹn, hoàn toàn
+- thành một khối, thành một mảng, liền
+- không thiến, không hoạn
+- nguyên chất
+*  dt
+- (the entire) toàn bộ, toàn thể, cái nguyên vẹn
+- ngựa không thiến, ngựa giống
+- (sử học) bia đen
+
+@entire
+- nguyên
+ @entirely  
+*  dt
+- toàn bộ, toàn vẹn, trọn vẹn; hoàn toàn
+
+@entireness  
+*  dt
+- tính toàn vẹn, tính trọn vẹn; tính nguyên vẹn
+
+@entirety  
+*  dt
+- trạng thái nguyên, trạng thái toàn vẹn; tính trọn vẹn
+!in its entirety
+- hoàn toàn, trọn vẹn
+- tổng số
+
+@entiserum
+* dt
+- huyết thanh miễn dịch
+ @entitative
+* tt
+- (thuộc) thực thể
+- (thuộc) sự tồn tại
+ @entitavive  
+*  tt
+- (thuộc) thực thể
+- (thuộc) sự tồn tại (của một vật)
+
+@entitle
+* ngdgt
+- cho đầu đề, cho tên (sách...)
+- xưng hô bằng tước
+- cho quyền (làm gì...)
+ @entitlement
+* dt
+- quyền, sự được phép làm
+ @Entitlement principle
+- (Econ) Nguyên tắc được quyền.
+: Một nguyên tắc về sự công bằng trong phân phối cho rằng, các cá nhân được coi là có quyền đối với những vật sở hữu chừng nào sở hữu đó có được nhờ, do trao đổi tự nguyện hay do quà biếu.
+ @entity  
+*  dt
+- thực thể
+- sự tồn tại (của một vật)
+
+@entity
+- (Tech) đối thể, đối tượng, thực thể
+ @entity
+- đối tượng; vật thể; bản thể
+ @entity identifier
+- (Tech) bộ nhận dạng đối tượng
+ @entoblast
+* dt
+- (sinh học) lá phôi trong; nội phôi bì
+ @entobranchiate
+* tt
+- (dgt) có mang trong
+ @entobronchus
+* dt
+- nhánh phế quản sau (chim)
+ @entoderm
+* dt
+- nội bì; lá phôi trong; nội phôi bì
+ @entodermal
+* tt
+- thuộc nội bì; thuộc lá phôi trong
+ @entoil
+* ngdgt
+- sai vây bắt
+ @entomb  
+*  ngdgt
+- đặt xuống mộ, chôn xuống mộ ((nghĩa đen) & (nghĩa bóng))
+- là mộ của
+
+@entombment  
+*  dt
+- sự đặt xuống mộ, sự chôn xuống mộ, sự chôn cất
+
+@entomic  
+*  tt
+- (động vật học) (thuộc) sâu bọ
+
+@entomochoric
+* tt
+- (thực vật) phát tán nhờ côn trùng
+ @entomochory
+* dt
+- tính phát tán nhờ côn trùng
+ @entomofauna
+* dt
+- khu hệ côn trùng
+ @entomogamous
+* tt
+- thụ phấn nhờ côn trùng
+ @entomogamy
+* dt
+- sự thụ phấn nhờ côn trùng
+ @entomologic
+- xem entomology
+ @entomological  
+*  tt
+- (động vật học) (thuộc) sâu bọ
+
+@entomologically
+- xem entomology
+ @entomologist  
+*  dt
+- (động vật học) nhà nghiên cứu sâu bọ
+
+@entomologize  
+*  ndgt
+- nghiên cứu khoa sâu bọ
+
+@entomology  
+*  dt
+- (động vật học) khoa sâu bọ
+
+@entomophagous  
+*  tt
+- (sinh vật học) ăn sâu bọ
+
+@entomophilous  
+*  tt
+- (thực vật học) do sâu bọ truyền phấn
+
+@entomophily
+- xem entomophilous
+ @entomostracan
+* dt
+- (động vật) phân lớp thân giáp thấp
+* tt
+- thuộc phân lớp thân giáp thấp
+ @entomostracous
+* tt
+- xem entomostracan
+ @entomotomy  
+*  tt
+- (động vật học) giải phẫu sâu bọ
+
+@entoparasite  
+*  dt
+- (động vật học) vật ký sinh trong
+
+@entophyte
+* dt
+- (thực vật) thực vật ký sinh trong
+ @entophytic
+* tt
+- thuộc thực vật ký sinh trong
+ @entopia
+* dt
+- sự đúng vị trí (bình (thường))
+ @entopic
+* tt
+- đúng vị trí (bình (thường))
+ @entoplasm
+* dt
+- (sinh học) nội chất, nội tương
+ @entoptic  
+*  tt
+- (y học) trong mắt
+
+@entorganism
+* dt
+- sinh vật ký sinh trong cơ thể
+ @entotic
+* tt
+- thuộc tai trong; trong tai
+ @entotympanic
+* dt
+- màng nhĩ rời
+ @entourage  
+*  dt
+- vùng lân cận, vùng xung quanh
+- những người tuỳ tùng
+
+@en-tout-cas  
+*  dt
+- ô tô, dù to
+- sân quần vợt cứng
+
+@entozoa  
+*  dt,  số nhiều entozoa
+- (động vật học) động vật ký sinh trong
+
+@entozoical
+* tt, cũng entozoic
+- sống trong động vật, sống trong thực vật
+ @entozoon  
+*  dt,  số nhiều entozoa
+- (động vật học) động vật ký sinh trong
+
+@entr'acte  
+*  dt
+- giờ nghỉ (trong buổi biểu diễn)
+- tiết mục diễn trong lúc nghỉ
+
+@entrails  
+*  dt số nhiều
+- ruột
+- lòng (trái đất...)
+
+@entrain  
+*  ngdgt
+- cho (quân đội...) lên xe lửa
+*  ndgt
+- lên xe lửa (quân đội...)
+
+@entrainer
+- xem entrain
+ @entrainment
+- xem entrain
+ @entrammel  
+*  ngdgt
+- làm mắc míu, làm vướng víu
+
+@entrance  
+*  dt
+- sự đi vào
+- (sân khấu) sự ra (của diễn viên)
+- sự nhậm (chức...)
+- quyền vào, quyền gia nhập
+- tiền vào, tiền gia nhập ((cũng) entrance_fee)
+- cổng vào, lối vào
+*  ngdgt
+- làm xuất thần
+- làm mê li
+- mê hoặc (ai đén chỗ...)
+
++ to entrance someone to his destruction: mê hoặc ai đến chỗ làm cho người ta bị thất cơ lỡ vận
+
+@entrance
+- lối vào   sự ra nhập
+@entrance cable
+- (Tech) cáp vào
+ @entrance fee  
+*  dt
+- tiền vào, tiền gia nhập ((cũng) entrance)
+
+@entrance-hall
+* dt
+- phòng ngoài
+ @entrancement  
+*  dt
+- sự xuất thần
+- trạng thái mê ly
+
+@entrance-way
+* dt
+- lối đi vào
+ @entrancingly
+- xem entrance
+ @entrant  
+*  dt
+- người vào (phòng...)
+- người mới vào (nghề...)
+- người đăng tên (dự thi...)
+
+@entrap  
+*  ngdgt
+- đánh bẫy
+- lừa
+
+@entrapment
+- xem entrap
+ @entrapping
+* dt
+- sự đặt bẫy, đánh bẫy
+ @entreasure
+* ngdgt
+- đưa vào kho tàng
+ @entreat  
+*  ngdgt
+- khẩn nài, khẩn khoản, nài xin
+
++ to evil entreat: (kinh thánh) ngược đãi
+
+@entreatingly
+* dt
+- khẩn thiết, van nài
+ @entreatment
+- xem entreat
+ @entreaty  
+*  dt
+- sự khẩn nài
+- lời cầu khẩn, lời nài xin
+
+@entrechat  
+*  dt
+- sự đập gót vào nhau nhiều lần (vũ ba lê)
+
+@entrecote  
+*  dt
+- miếng thịt sườn (xen giữa các xương sườn)
+
+@entremets  
+*  dt
+- món ăn giậm, món ăn phụ (xen vào giữa những món ăn chính)
+
+@entrench   (intrench) @entrenching tool  
+*  dt
+- quân xẻng đào hầm
+
+@entrenchment   (intrenchment) @entrepreneur  
+*  dt
+- người phụ trách hãng buôn
+- người thầu khoán
+
+@entrepreneur
+- (Tech) doanh nhân
+ @Entrepreneur
+- (Econ) Chủ doanh nghiệp.
+: Một nhân tố tổ chức trong một quá trình sản xuất. Chủ doanh nghiệp chịu trách nhiệm về các quyết định kinh tế như sản xuất cái gì, sản xuất bao nhiêu và phương pháp sản xuất nào được áp dụng.
+ @entrepreneurial
+* tt
+- (thuộc) nghề thầu khoán
+ @Entrepreneurial supply price
+- (Econ) Giá cung ứng của doanh nghiệp.
+: Lợi tức vừa đủ để giữ một người điều hành với một số phẩm chất nào đó ở lại với công việc hiện tại của người đó.
+ @entrepreneurialism
+- xem entrepreneur
+ @entrepreneurism
+- xem entrepreneur
+ @Entrepreneurship
+- (Econ) Khả năng, sự làm chủ của doanh nghiệp.
+: Xem Entrepreneur.
+ @entrepreneurship
+- xem entrepreneur
+ @entrepôt  
+*  dt
+- kho hàng
+- trung tâm xuất nhập khẩu, trung tâm tập trung và phân phối
+
+@entresol  
+*  dt
+- tầng xép (giữa tầng một và tầng hai)
+
+@entrochite
+* dt
+- (y học) đốt thân
+ @entropic
+- xem entropy
+ @entropically
+- xem entropy
+ @entropion  
+*  dt
+- (y học) quân
+
+@entropy  
+*  dt
+- (vật lý) entrôpi
+
+@entropy
+- (Tech) entropy (ăngtrôpi)
+ @entropy
+- entrôpi
+ @entruck
+* ngdgt
+- chất tải lên ô tô
+ @entrust  
+*  ngdgt
+- giao, giao phó cho
+
+@entrustment
+* dt
+- xem entrust
+ @entry  
+*  dt
+- sự đi vào
+- (sân khấu) sự ra (của một diễn viên)
+- lối đi vào, cổng đi vào
+- (pháp lý) sự tiếp nhận
+- sự ghi vào (sổ sách); mục (ghi vào sổ)
+- mục từ (trong từ điển)
+- danh sách người thi đấu; sự ghi tên người thi đấu
+
+@entry
+- (Tech) cửa vào, nhập khẩu [TQ @entry
+- (lý thuyết trò chơi) sự ra nhập; (máy tính) đưa số (vào máy); lối vào (bảng)
+- latest e. (máy tính) giá trị tính cuối cùng
+ @Entry and exit
+- (Econ) Nhập nghành và xuất ngành.
+ @Entry barriers
+- (Econ) Rào cản nhập nghành.
+: Xem BARRIERS TO ENTRY.
+ @entry field
+- (Tech) phạm vi nhập
+ @Entry forestalling price
+- (Econ) Giá ngăn chặn nhập ngành.
+: Xem LIMIT PRICING.
+ @entry instruction
+- (Tech) chỉ thị nhập vào
+ @entry label
+- (Tech) nhãn nhập vào
+ @Entry preventing price
+- (Econ) Giá ngăn chặn nhập ngành.
+: Giá mà các hãng đã thiết lập trong một ngành định ra ở mức không sợ những doanh nghiệp mơí nhập ngành.
+ @entryism
+* dt
+- tập quán nhập vào một chính đảng để tác động đến nó từ bên trong
+* dt
+- tập quán nhập vào một chính đảng để tác động đến nó từ bên trong
+ @entryphone
+* dt
+- điện thoại mắc ở lối vào các khu nhà tập thể, giúp khách liên hệ với chủ nhà trước khi vào
+ @entry-point address
+- (Tech) địa chỉ điểm vào, địa chỉ xuất phát
+ @entryway
+* dt
+- lối đi vào
+ @entrée  
+*  dt
+- quyền vào, quyền gia nhập
+- món ăn đầu tiên
+
+@entwine  
+*  ngdgt
+- bện, tết ((nghĩa đen) & (nghĩa bóng))
+- ôm
+- quấn (cây leo)
+
+@entwinement
+- xem entwine
+ @entwist  
+*  ngdgt
+- vặn xoắn
+
+@enucleate  
+*  ngdgt
+- (y học) khoét nhân
+- giải thích, làm sáng tỏ
+
+@enucleation  
+*  dt
+- (y học) thủ thuật khoét nhẫn
+- sự giải thích, sự làm sáng tỏ
+
+@enucleator
+- xem enucleate
+ @enumaerator
+- người đếm, người đánh số
+ @enumerate  
+*  ngdgt
+- đếm; kê; liệt kê
+
+@enumerate
+- đếm, đánh số
+ @enumeration  
+*  dt
+- sự đếm; sự kể; sự liệt kê
+- bản liệt kê
+
+@enumeration
+- (Tech) đếm; liệt kê
+ @enumeration
+- sự đếm, sự liệt kê
+- e. of constants sự liệt kê các hằng số 
+ @enumerative  
+*  tt
+- để đếm; để kể; để liệt kê
+
+@enumerator  
+*  dt
+- người đếm; người kê; người liệt kê
+
+@enumeratory
+* tt
+- xem enunciate
+ @enumerble
+- đếm được
+ @enunciable
+- xem enunciate
+ @enunciate  
+*  ngdgt
+- đề ra, nói ra, phát biểu (một quan điểm...)
+- phát âm (một từ)
+
+@enunciation  
+*  dt
+- sự đề ra, sự nói ra, sự phát biểu
+- (toán học) đề
+- sự phát âm (một từ)
+
+@enunciative  
+*  tt
+- để đề ra
+
+@enunciatively
+- xem enunciate
+ @enunciator  
+*  dt
+- người đề ra, người nói ra
+
+@enure   (enure) @enuresis  
+*  dt
+- (y học) chứng đái dầm
+
+@enuretic
+- xem enuresis
+ @enveigle
+* ngdgt
+- xem inveigle
+ @envelop  
+*  ngdgt
+- bao, bọc, phủ
+- (quân sự) tiến hành bao vây
+
+@envelope  
+*  dt
+- bao, bọc bì; phong bì
+- (toán học) hình bao, bao
+- vỏ bọc (khí cầu); bầu khí (khí cầu)
+- (sinh vật học) màng bao, vỏ bao
+
+@envelope
+- (Tech) đường bao, bao nhóm
+ @envelope delay
+- (Tech) sự trì hoãn đường bao
+ @envelope delay distortion
+- (Tech) biến dạng trì hoãn đường bao
+ @envelope detector
+- (Tech) bộ kiểm sóng đường bao
+ @enveloper
+- xem envelop
+ @enveloping  
+*  tt
+- bao, bao bọc
+!enveloing movement
+- (quân sự) sự điều quân bao cây
+
+@envelopment  
+*  dt
+- sự bao, sự bao bọc, sự bao phủ
+- vỏ bao, vỏ bọc; màng bao, màng bọc
+
+@envenom  
+*  ngdgt
+- bỏ thuốc độc vào; tẩm thuốc độc
+- đầu độc (tâm hồn...)
+- làm thành độc địa (lời lẽ, hành động...)
+
+@envenomed
+* tt
+- hiểm độc; độc ác
+
++  envenomed tongue:ngôn ngữ hiểm độc
+ @envenomization
+* dt
+- tình trạng bị nhiễm độc vì vỏ khí hay rắn hay rắn độc
+ @enviable  
+*  tt
+- gây thèm muốn, gây ghen tị, gây đố kỵ; đáng thèm muốn, đáng ghen tị
+
+@enviably
+* dt
+- đáng thèm muốn, đáng ganh tị
+ @envier
+- xem envy
+ @envious  
+*  tt
+- thèm muốn, ghen tị, đố kỵ
+
++ to make someone envious: làm cho ai thèm muốn
+
++ with envious eyes: với con mắt đố kỵ
+
+@enviously
+* dt
+- thèm muốn, ganh tị, lăm le
+ @enviousness
+- xem envious
+ @environ  
+*  ngdgt
+- bao vây, vây quanh, bao vây
+
+@environ
+- vòng quanh, bao quanh
+ @environment  
+*  dt
+- môi trường, hoàn cảnh, những vật xung quanh
+- sự bao quanh, sự vây quanh, sự bao vây
+
+@environment
+- môi trường xung quanh, sự đi vòng quanh
+ @environment variable
+- (Tech) biến số môi trường
+ @environmental
+* tt
+- thuộc về môi trường
+ @Environmental conditions
+- (Econ) Những điều kiện môi trường.
+: Mặc dù trình độ hiểu biết khoa học và kỹ thuật của thế giới đang gia tăng, vẫn còn chênh lệch lớn về kiến thức này, đặc biệt liên quan đến điều kiện môi trường ở CÁC NƯỚC ĐANG PHÁT TRIỂN.
+ @Environmental determinism
+- (Econ) Quyết định luận do môi trường.
+: Giả thuyết cho rằng môi trường vật chất là yếu tố chính quyết định tới trình độ phát triển kinh tế của một quốc gia.
+ @Environmental impact analysis
+- (Econ) Phân tích tác động môi trường.
+: Một phân tích tìm cách xác định rõ ràng những ảnh hưởng lên toàn bộ môi trường của một dự án đầu tư.
+ @environmental requirement
+- (Tech) yêu cầu về môi trường
+ @environmentalism
+* dt
+- môi trường luận (thuyết cho môi trường quan trọng hơn di truyền trong sự phát triển văn hoá)
+ @environmentalist
+* dt
+- người quan tâm bảo vệ môi trường, nhà môi trường học
+ @environmentally
+* dt
+- về phương diện môi trường
+ @environs  
+*  dt số nhiều
+- vùng xung quanh, vùng ven (thành phố)
+
+@envisage  
+*  ngdgt
+- nhìn thẳng vào mặt (ai)
+- đương đầu với (sự nguy hiểm, sự việc...)
+- dự tính, vạch ra (kế hoạch...); nhìn trước
+
+@envisagement  
+*  dt
+- sự nhìn thẳng vào mặt
+- sự đương đầu với
+- sự dự tính, sự nhìn trước
+
+@envision  
+*  ngdgt
+- nhìn thấy như trong ảo ảnh
+- (từ Mỹ,nghĩa Mỹ) mường tượng, hình dung
+
+@envolop
+- bao hình, bao
+- e. of characteristics bao hình các đặc tuyến
+- e. of urves bao hình của các đường
+- e. of a family of curves bao hình của một họ đường cong
+- e. of holomorphy (giải tích) bao chỉnh hình
+- e. of a one-parameter family of curves bao hình của một họ tham số
+- của đường cong
+- e. of a one-parameter family of straight lines bao hình của một họ
+- tham số của đường thẳng
+- e. of a one-parameter family of surfaces bao hình của một họ tham số
+- của mặt
+- e. of surfaces bao hình của các mặt
+- modulation e. bao hình biến điệu
+- pulse e. bao hình xung
+- sinusoidal e. bao hình sin 
+ @envoy  
+*  dt
+- phái viên, đại diện; đại diện ngoại giao
+- công sứ
+!Envoy Extraordinary and Minister Plenipotentiary
+- (ngoại giao) công sứ đặc mệnh toàn quyền
+
+@envoyship  
+*  dt
+- chức phái viện, chức đại diện; chức đại diện ngoại giao
+
+@envy  
+*  dt
+- sự thèm muốn, sự ghen tị, sự đố kỵ
+- vật làm người ta thèm muốn; người làm người ta ghen tị; lý do làm người ta thèm muốn, lý do làm người ta ghen tị
+
++ his strength is the envy of the school: sức khoẻ của anh ta là cái mà trong trường ai cũng thèm muốn
+*  ngdgt
+- thèm muốn, ghen tị, đố kỵ
+
+@envyingly
+- xem envy
+ @enwind  
+*  ngdgt enwound
+- cuộn tròn, xung quanh
+
+@enwomb  
+*  ngdgt
+- cất trong bụng, cất trong lòng, cất kín
+
+@enwound  
+*  ngdgt enwound
+- cuộn tròn, xung quanh
+
+@enwrap  
+*  ngdgt
+- bọc, quấn
+!to be enwrapped
+- đang trầm ngâm
+!to be enwrapped in slumber
+- đang mơ màng giấc điệp
+
+@enwreathe  
+*  ngdgt
+- kết vòng hoa quanh (cái gì); đặt vòng hoa lên đầu (ai)
+- bện tết
+
+@enyo
+* dt
+- nữ thần hiến đấu (thần thoại Hy-lạp)
+ @enzedder
+* dt
+- người Niu Dilân
+ @enzootic
+* tt
+- gây bệnh động vật (bệnh có tính chất cục bộ); thuộc dịch động vật địa phương
+ @enzygotic
+* tt
+- hệt nhau (con sinh đôi)
+ @enzymatic
+- xem enzyme
+ @enzymatically
+- xem enzyme
+ @enzyme  
+*  dt
+- (hoá học),  (sinh vật học) Enzim
+
+@enzymically
+- xem enzyme
+ @enzymmologist
+* dt
+- nhà enzim học
+ @enzymmology
+* dt
+- enzim học
+ @

@@ -1,0 +1,1165 @@
+@ob.  
+*  (viết tắt) của obiit
+
+@ob
+* dt
+- vt của Latin obiit
+- đã chết
+ @obbligato  
+*  tt
+- (âm nhạc) bắt buộc (phần đệm)
+*  dt,  số nhiều obbligatos
+- (âm nhạc) phần đệm bắt buộc
+
+@obconic
+- Cách viết khác : obconical 
+ @obconical  
+*  tt
+- (thực vật học) hình nón ngược
+
+@obcordate  
+*  tt
+- (thực vật học) hình tim ngược
+
+@obcurrent
+* tt
+- chảy ngược, chạy ngược
+ @obduction
+* dt
+- sự mổ xác
+ @obduracy  
+*  dt
+- sự cứng rắn, sự sắt đá
+- sự ngoan cố, sự cứng đầu cứng cổ, sự bướng bỉnh
+
+@obdurate  
+*  tt
+- cứng rắn, sắt đá, không lay chuyển
+- ngoan cố, cứng đầu cứng cổ, bướng bỉnh
+
+@obdurateness
+* dt
+- xem obdurate, chỉ sự, thái độ
+ @obe
+* dt
+- (viêt tắt của)  Officer of the order British Empire
+- Quan chức (trong phẩm trật) của đế Quốc Anh
+ @obeah  
+*  dt ((cũng) obi)
+- ma thuật (của người da đen)
+- lá bùa dùng trong ma thuật của người da đen
+
+@obeahman
+* dt
+- người thạo về ma thuật Tây ấn Độ
+ @obedience  
+*  dt
+- sự nghe lời, sự vâng lời; sự tuân lệnh, sự tuân theo, sự phục tùng
+
++ obedience of law: sự phục tùng pháp luật
+- (tôn giáo) khu vực quản lý, khu vực quyền hành
+
++ the obedience of the Pope: khu vực tôn quyền của giáo hoàng
+!in obedience to
+- vâng lệnh, theo lệnh
+!passive obedience
+- sự bảo sao nghe vậy, sự tuân theo thụ động
+- sự miễn cưỡng tuân theo
+
+@obedient  
+*  tt
+- biết nghe lời, biết vâng lời, dễ bảo, ngoan ngoãn
+!your obedient servant
+- kính thư, kính xin (công thức cuối công văn, thư chính thức...)
+
+@obedientiary  
+*  dt
+- cha (ở tu viện)
+
+@obediently
+- Phó từ của obedient
+- ngoan ngoãn
+ @obeisance  
+*  dt
+- sự cúi đầu (để tỏ lòng tôn kính, phục tùng)
+- lòng tôn kính, sự tôn sùng
+
++ to do (make, pay) obeisance: tôn kính, tôn sùng
+
+@obeisant  
+*  tt
+- tôn kính, tôn sùng
+
+@obeisantly
+* tt
+- xem obeisant
+ @obeli  
+*  dt,  số nhiều obeli ((cũng) obelisk)
+- dấu ôben (ghi vào các bản thảo xưa để chỉ một từ hay một đoạn còn nghi ngờ)
+- dấu ghi chú ôben (ghi ở lề)
+
+@obelise
+* dgt
+- ghi dấu hình thanh kiếm hay dấu ngang trong sách để chỉ một đạon đáng ngờ
+ @obelisk  
+*  dt
+- đài kỷ niệm, tháp
+- núi hình tháp; cây hình tháp
+- (như) obelus
+
+@obelize  
+*  ngdgt
+- ghi dấu ôben vào (đoạn sách, lề...)
+
+@obelus  
+*  dt,  số nhiều obeli ((cũng) obelisk)
+- dấu ôben (ghi vào các bản thảo xưa để chỉ một từ hay một đoạn còn nghi ngờ)
+- dấu ghi chú ôben (ghi ở lề)
+
+@obese  
+*  tt
+- béo phị, trệ
+
+@obeseness
+* dt
+- sự béo phì
+ @obesity  
+*  dt
+- sự béo phị, sự trệ
+
+@obey  
+*  dgt
+- vâng lời nghe lời, tuân theo, tuân lệnh
+
+@obey
+- tuân theo; (máy tính) hoàn thành (lệnh)
+ @obeyer
+* dt
+- nguời nghe lời, người vâng lời, người phục tùng; người tuân lệnh, người tuân theo (qui tắc, phương trình)
+ @obfuscate  
+*  ngdgt
+- làm đen tối (đầu óc), làm ngu muội
+- làm hoang mang, làm bối rối
+
+@obfuscation  
+*  dt
+- sự làm đen tối (đầu óc), sự làm ngu muội
+- sự làm hoang mang, sự làm bối rối
+
+@obi  
+*  dt
+- (như) obeah
+- dải lưng thêu (của đàn bà và trẻ em Nhật bản)
+
+@obiit  
+*  ndgt ((viết tắt) ob.)
+- tạ thế (viết kèm theo ngày chết)
+
+@obit  
+*  dt
+- (từ cổ,nghĩa cổ) lễ cầu hồn, lễ kỷ niệm (ngày chết của người sáng lập ra hội)
+- ngày giỗ, ngày kỵ, ngày huý
+
+@obiter  
+*  dt
+- nhân tiện
+
+@obiter dictum
+* dt
+- lời bàn thêm, nhân tiện
+ @obitual
+* tt
+- đã qua đời, thuộc ngày giỗ
+ @obituarist  
+*  dt
+- người viết cáo phó
+- người viết tiểu sử người chết
+
+@obituary  
+*  dt
+- lời cáo phó
+- sơ lược tiểu sử người chết
+*  tt
+- (thuộc) người chết
+
+@object  
+*  dt
+- đồ vật, vật thể
+- đối tượng; (triết học) khách thể
+- mục tiêu, mục đích
+- người đáng thương, người lố lăng, vật đáng khinh, vật lố lăng
+- (ngôn ngữ học) bổ ngữ
+!no object
+- không thành vấn đề (dùng trong quảng cáo...)
+
++ quantity, size, price, no object: về số lượng, khổ, giá thì không thành vấn đề
+*  ngdgt
+- phản đối, chống, chống đối
+*  ndgt
+- ghét, không thích, cảm thấy khó chịu
+
++ I object to being treated like this: tôi không thích bị đối xử như vậy
+
+@object
+- vật (thể), đối tượng   không tán thành
+- o. of anholonomity vật thể không hôlônôm
+- cosimplicial o. vật thể đối đơn hình
+- geometric (al) o. vật thể hình học
+- linear o. vật thể tuyến tính 
+@object-ball  
+*  dt
+- quả bóng mục tiêu (trong bi-a)
+
+@object-finder  
+*  dt
+- (nhiếp ảnh) kính ngắm
+
+@object-glass   (object-lens) @objectification  
+*  dt
+- sự làm thành khách quan, sự thể hiện khách quan
+- sự làm thành cụ thể; sự thể hiện cụ thể
+
+@objectify  
+*  ngdgt
+- làm thành khách quan; thể hiện khách quan
+- làm thành cụ thể; thể hiện cụ thể
+
+@objection  
+*  dt
+- sự phản đối, sự chống đối
+
++ to take objection: phản đối
+
++ to raise no objection: không phản đối
+- sự bất bình; sự không thích, sự khó chịu
+- điều bị phản đối
+- lý do phản đối
+
+@objectionable  
+*  tt
+- có thể bị phản đối; đáng chê trách
+- không ai ưa thích, khó chịu
+- chướng tai, gai mắt
+
+@objectionableness
+* dt
+- xem objectionable, chỉ tình trạng bác bỏ@objectionably
+- trạng từ
+- xem objectionableness
+ @objectise
+- Cách viết khác : objectize 
+ @objective  
+*  tt
+- khách quan
+
++ objective opinion: ý kiến khách quan
+
++ objective existence: sự tồn tại khách quan
+- (thuộc) mục tiêu
+
++ objective point: (quân sự) điểm mục tiêu, điểm tiến quân
+- (ngôn ngữ học) (thuộc) cách mục tiêu
+*  dt
+- mục tiêu, mục đích
+- (ngôn ngữ học) cách mục đích
+
+@objective
+- khách quan   mục tiêu
+@Objective function
+- (Econ) Hàm mục tiêu.
+: Là một hàm số liên hệ mục tiêu (biến số cần tối ưu hoá) với biến số lựa chọn trong một bài toán tối ưu hoá.
+ @objectively
+- trạng từ
+- khách quan
+ @objectiveness   (objectivity) @objectivise
+- Cách viết khác : objectivize 
+ @objectivism  
+*  dt
+- chủ nghĩa khách quan
+
+@objectivity   (objectivity) @objectivize
+* dgt
+- xem objectivise
+ @objectize
+* dgt
+- xem objectivise
+ @object-lens   (object-lens) @objectless  
+*  tt
+- không có đối tượng
+- không có mục tiêu, không có mục đích
+
+@object-lesson  
+*  dt
+- bài học có đồ dạy trực quan, bài học tại hiện trường, bài học ở môi trường thực tế
+- (nghĩa bóng) điều minh hoạ cụ thể (một nguyên tắc, luận điểm...)
+
+@objector  
+*  dt
+- người phản đối, người chống đối
+!conscientious objector
+- (xem) conscientious
+
+@object-plate  
+*  dt
+- mâm để vật quan sát (trong kính hiển vi)
+
+@object-staff  
+*  dt
+- cái mia ngắm (của người quan sát địa chất)
+
+@object-teaching
+* dt
+- cách dạy dựa trên đồ vật
+ @objet d'art
+* dt
+- đồ Mỹ nghệ hoặc trang trí nhỏ (tiếng Pháp)
+ @objurgate  
+*  ngdgt
+- trách móc, quở trách, mắng nhiếc
+
+@objurgation  
+*  dt
+- sự trách móc, sự quở trách, sự mắng nhiếc
+
+@objurgatory  
+*  tt
+- có tính chất trách móc, có tính chất quở trách, có tính chất mắng nhiếc
+
+@oblanceolate
+* tt
+- (thực vật) dạng mác ngược
+ @oblast
+* dt
+- vùng (của nước Nga)
+ @oblate  
+*  dt
+- (tôn giáo) người tu hiểu hết tài sản cho tôn giáo
+*  tt
+- (toán học) dẹt (hình cầu)
+
+@oblate
+- dẹt
+ @oblateness
+- tính dẹt
+ @oblation  
+*  dt
+- lễ dâng bánh cho thượng đế
+- đồ cúng
+- sự hiến (tài sản) cho tôn giáo
+
+@oblational   (oblatory) @oblatory   (oblatory) @obligate  
+*  ngdgt
+- bắt buộc, ép buộc
+
+@obligation  
+*  dt
+- nghĩa vụ, bổn phận
+- ơn; sự mang ơn, sự biết ơn, sự hàm ơn
+
++ to be under an obligation: chịu ơn
+
++ to repay an obligation: trả ơn
+- (pháp lý) giao ước
+
+@obligation
+- trách nhiệm
+ @obligatory  
+*  tt
+- bắt buộc, cưỡng bách
+
+@oblige  
+*  ngdgt
+- bắt buộc, cưỡng bách; đặt nghĩa vụ cho
+- làm ơn, gia ơn, giúp đỡ
+
++ please oblige me by closing the door: anh làm ơn đóng giúp hộ tôi cái cửa
+
++ I'm much obliged to you: tôi hết sức cảm ơn anh
+- (thông tục) đóng góp (vào cuộc vui)
+
++ will Miss X oblige us with a song?: đề nghị cô X đóng góp một bài hát
+
+@obliged
+* tt
+- biết ơn
+ @obligee  
+*  dt
+- (pháp lý) người nhận giao ước
+- (từ hiếm,nghĩa hiếm) người mang ơn, người hàm ơn
+
+@obligement
+* dt
+- nghĩa vụ, bổn phận
+- ân huệ; ân nghĩa
+ @obliger
+* dt
+- người có trách nhiệm trước pháp luật
+- người bị giao ước trói buộc
+ @obliging  
+*  tt
+- hay giúp người, sẵn lòng giúp đỡ, sốt sắng
+
++ an obliging friend: người bạn sốt sắng
+
+@obligingly
+* dt
+- (thuộc về) giúp đỡ
+ @obligingness
+* dt
+- sự sốt sắng giúp đỡ, sự ân cần
+ @obligor  
+*  dt
+- (pháp lý) người giao ước
+
+@obliquation
+* dt
+- xem oblique
+ @oblique  
+*  tt
+- xiên, chéo, chếch
+
++ an oblique come: hình nón xiên
+- cạnh khoé, quanh co, không thẳng thắn
+
++ oblique means: thủ đoạn quanh co
+- (thực vật học) không đối xứng, không cân (lá)
+- (ngôn ngữ học) gián tiếp
+
++ oblique case: cách gián tiếp
+*  ndgt
+- xiên đi
+- (quân sự) tiển xiên
+
+@oblique
+- xiên, nghiêng, lệch
+ @oblique angle
+* dt
+- góc nhọn hoặc góc tù
+ @obliquely
+* dt
+ @obliqueness
+* dt
+- xem oblique (adj)
+ @obliquitous
+* tt
+- nghiêng, lệch
+- không biết phân biệt phải trái, gian xảo
+ @obliquity  
+*  dt
+- sự xiên, sự chéo, sự chếch
+- độ xiên
+- tính cạnh khoé, tính quanh co, tính không thẳng thắn
+
+@obliquity
+- (thiên văn) độ nghiêng
+ @obliterate  
+*  ngdgt
+- xoá, tẩy, gạch đi, xoá sạch (dấu vết...); phá sạch, làm tiêu ma
+
+@obliteration  
+*  dt
+- sự xoá, sự tẩy, sự gạch, sự xoá sạch; sự phá sạch, sự làm tiêu ma
+
+@obliterative
+* dt
+- xem obliterate, chỉ có tác dụng
+- obliterative arterial disease
+- bệnh làm nghẽn động mạch
+- cốt khiến người ta khỏi ngờ vực
+
++  a obliterative behaviour:một hành vi để xoá bỏ sự ngờ vực
+ @oblivion  
+*  dt
+- sự lãng quên
+
++ to fall (sink) into oblivion: bị lâng quên, bị bỏ đi
+!act (Bill) of Obilivion
+- sắc lệnh ân xá
+
+@oblivious  
+*  tt
+- (: of) quên, lâng quên, không nhớ tới, không chú ý đến
+
++ oblivious of the past: quên quá khứ
+- (thơ ca) làm lãng quên
+
+@obliviously
+- trạng từ
+- xem oblivious (1 - 2)
+ @obliviousness  
+*  dt
+- tính lãng quên
+
+@oblong  
+*  tt
+- có hình thuôn
+- có hình chữ nhật
+*  dt
+- hình thuôn; vật hình thuôn
+- hình chữ nhật; vật hình chữ nhật
+
+@oblongish
+* tt
+- hơi thuôn
+ @oblongly
+* dt
+- có hình thuôn; có hình chữ nhật
+ @obloquy  
+*  dt
+- lời lăng nhục, lời nói xấu
+- tình trạng bị nói xấu; sự mang tai mang tiếng (vì bị nói xấu)
+
+@obmutescence  
+*  dt
+- sự lầm lì im lặng
+
+@obmutescent  
+*  tt
+- lầm lì im lặng
+
+@obnoxious  
+*  tt
+- khó chịu, đáng ghét, ghê tởm
+
++ obnoxious smell: mùi khó chịu
+- (từ hiếm,nghĩa hiếm) độc
+
++ obnoxious gas: hơi độc
+
+@obnoxiously
+* dt
+- một cách kinh tởm
+ @obnoxiousness  
+*  dt
+- tính chất khó chịu, tính chất đáng ghét, ghê tởm
+- tính chất độc
+
+@obnubilate
+* ngdgt
+- che mờ (tâm trí), làm u ám
+- ám ảnh
+ @obnubilation
+* dt
+- sự che mờ, sự u ám
+- sự ám ảnh
+ @oboe  
+*  dt
+- (âm nhạc) kèn ôboa
+
+@oboist  
+*  dt
+- (âm nhạc) người thổi kèn ôboa
+
+@obol  
+*  dt
+- đồng ôbôn (tiền cổ Hy-lạp)
+
+@obovate
+* tt
+- (thực vật, lá) dạng trứng ngược (đầu nhỏ ở phía cuống lá)
+ @obovoid
+* tt
+- (thực vật) dạng trứng ngược (quả)
+ @obpyramidal
+* tt
+- dạng tháp nhọn
+ @obpyriform
+* tt
+- dạng quả lê ngược
+ @obscene  
+*  tt
+- tục tĩu, tà dâm, khiêu dâm
+
++ obscene pictures: tranh khiêu dâm
+- (từ cổ,nghĩa cổ) bẩn thỉu, ghê gớm
+
+@obscenely
+* dt
+- tục tựu, khiêu dâm
+ @obscenity  
+*  dt
+- sự tục tĩu, sự tà dâm, sự khiêu dâm
+- lời lẽ tục tĩu, lời lẽ tà dâm, lời lẽ khiêu dâm
+
+@obscurant  
+*  dt
+- người chủ trương ngu đần
+
+@obscurantic
+* tt
+- xem obscurant
+ @obscurantism  
+*  dt
+- chính sách ngu đần
+
+@obscurantist  
+*  dt
+- người theo chính sách ngu dân
+*  tt
+- (thuộc) chính sách ngu đần
+
+@obscuration  
+*  dt
+- sự làm tối đi, sự làm mờ đi
+- sự làm cho khó hiểu
+- sự làm mờ tên tuổi đi
+- (thiên văn học) sự che khuất; hiện tượng thiên thực (nhật thực, nguyệt thực)
+
+@obscure  
+*  tt
+- tối, tối tăm, mờ, mờ mịt
+- không rõ nghĩa, tối nghĩa
+
++ obscure style: văn tối nghĩa
+- không có tiếng tăm, ít người biết đến
+
++ an obscure author: tác giả không có tiếng tăm
+
++ an obscure village: làng ít người biết đến
+*  ngdgt
+- làm tối, làm mờ
+- làm không rõ, làm khó hiểu
+- làm mờ (tên tuổi)
+- che khuất
+
+@obscurely
+* dt
+- che khuất, mờ đi
+ @obscureness
+* dt
+- xem obscure (tt) chỉ tình trạng
+ @obscurity  
+*  dt
+- sự tối tăm, sự mờ mịt
+- sự tối nghĩa, sự khó hiểu
+- sự không có tên tuổi, tình trạng ít người biết đến
+
+@obsecration  
+*  dt
+- sự cầu nguyện, sự khẩn cầu
+
+@obsequial  
+*  tt
+- (thuộc) lễ tang, (thuộc) đám ma, (thuộc) nghi thức đám ma
+
+@obsequies  
+*  dt số nhiều
+- lễ tang, đám ma, nghi thức đám ma
+
+@obsequious  
+*  tt
+- khúm núm, xun xoe
+- (từ cổ,nghĩa cổ) vâng lời, dễ bảo
+
+@obsequiously
+* dt
+- quị lụy, khúm núm
+ @obsequiousness  
+*  dt
+- sự khúm núm, sự xun xoe
+
+@observability
+* dt
+- khả năng quan sát
+ @observable  
+*  tt
+- có thể quan sát được, có thể nhận thấy được, dễ thấy
+- đáng chú ý, đáng kể
+
++ observable progress: tiến bộ đáng kể
+- có thể tổ chức (ngày kỷ niệm...)
+
+@observable
+- quan sát được
+ @observance  
+*  dt
+- sự tuân theo, sự tuân thủ
+
++ observance of law: sự tuân theo pháp luật
+- sự làm lễ; lễ kỷ niệm
+- (từ cổ,nghĩa cổ) sự cung kính, sự kính trọng, sự tôn kính ((cũng) observancy)
+
+@observancy  
+*  dt
+- (từ cổ,nghĩa cổ) (như) observance
+
+@observant  
+*  tt
+- hay quan sát, tinh mắt, tinh ý
+- tuân theo (luật pháp, phong tục...)
+
++ observant of the rules of etiquette: tuân theo những nghi thức xã giao
+*  dt
+- thầy tu dòng Fran-xit (theo rất đúng nghi lễ)
+
+@observantly
+* dt
+- tinh mắt, tinh ý
+ @observation  
+*  dt
+- sự quan sát, sự để ý, sự chú ý, sự theo dõi
+
++ observation post: trạm quan sát
+
++ to keep someone under observation: theo dõi ai
+- khả năng quan sát, năng lực quan sát
+
++ a man of no observation: người không có năng lực quan sát
+- lời nhận xét, điều quan sát được, điều nhận thấy
+- lời bình phẩm
+- (quân sự) sự quan sát, sự theo dõi
+- sự xác định toạ độ theo độ cao của mặt trời
+
+@observation
+- (thống kê) sự quan sát, sự quan trắc
+- extreme o. giá trị quan sát biên
+- incomplete o. quan sát không đầy đủ 
+- statistical o. quan sát thống kê 
+ @observation car  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) toa xe lửa có chỗ đứng xem phong cảnh
+
+@observation post  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) trạm quan sát
+
+@observational  
+*  tt
+- (thuộc) sự quan sát, (thuộc) sự theo dõi
+- (thuộc) khả năng quan sát
+
+@observational
+- (thuộc) quan sát, quan trắc
+ @observatory  
+*  dt
+- đài thiên văn
+- đài quan trắc, đài quan sát; tháp canh, chòi canh
+
+@observe  
+*  dgt
+- quan sát, nhận xét, theo dõi
+- tiến hành, cử hành, làm (lễ kỷ niệm...)
+
++ to observe someone's birthday: làm lễ kỷ niệm ngày sinh của ai
+- tuân theo, chú ý giữ, tôn trọng
+
++ to observe the laws: tuân theo pháp luật
+
++ to observe silence: giữ yên lặng
+- (: on) nhận xét
+
+@observe
+- quan sát chú ý
+ @observed
+* dt
+- the observed
+- đối tượng quan sát
+
++  the observed of all observers:trung tâm chú ý của mọi người
+ @observed
+- bị quan sát được quan sát
+ @observer  
+*  dt
+- người theo dõi, người quan sát
+- người tuân theo, người tôn trọng
+
++ an observer of the law: người dự thính, quan sát viên (hội nghị)
+- (hàng không) người theo dõi phát hiện mục tiêu (trên máy bay ném bom)
+- (quân sự) người theo dõi phát hiện máy bay địch (ở một đơn vị phòng không)
+
+@observing  
+*  tt
+- có khả năng nhận xét, hay quan sát
+
+@observingly
+- trạng từ
+- xem observing
+ @obsess  
+*  ngdgt
+- ám ảnh
+
++ to be obsessed by an idea: bị một ý nghĩ ám ảnh
+
+@obsession  
+*  dt
+- sự ảm ảnh; tình trạng bị ám ảnh
+- điều ám ảnh
+
+@obsessional
+* tt
+- thuộc, có hoặc gây ra ám ảnh
+ @obsessive  
+*  tt
+- ám ảnh
+
+@obsessively
+* dt
+- một cách ám ảnh
+ @obsessiveness
+* dt
+- tình trạng quá mức, tình trạng gây ám ảnh
+ @obsidian  
+*  dt
+- (khoáng chất) Opxiđian, đá vỏ chai
+
+@obsidianal
+* tt
+- (thuộc) bao vây @obsolescence  
+*  dt
+- sự không còn dùng nữa, tính cũ đi
+- (sinh vật học) sự teo dần
+
+@obsolescent  
+*  tt
+- không còn dùng nữa, cũ đi
+
++ obsolescent customs: những phong tục cũ
+
++ obsolescent words: những từ không còn dùng nữa
+- (sinh vật học) teo dần đi
+
++ obsolescent organ: một cơ quan teo dần đi
+
+@obsolescently
+- trạng từ
+- xem obsolescent
+ @obsolescentness
+* dt
+- xem obsolescent
+ @obsolete  
+*  tt
+- không dùng nữa, cổ xưa, cũ; đã lỗi thời; đã quá hạn (vé xe...)
+
++ obsolete text-books: những sách giáo khoa không còn dùng nữa
+
++ obsolete words: những từ cũ
+- (sinh vật học) teo đi (cơ quan)
+*  dt
+- người cổ
+- vật cổ
+
+@obsoleteness  
+*  dt
+- tính chất cổ, tính chất cổ xưa, tính chất cũ
+- (số nhiều) tính chất teo đi
+
+@obsoletism  
+*  dt
+- sự nệ cổ, sự hay dùng thứ cổ
+
+@obstacle  
+*  dt
+- vật chướng ngại, trở lực
+- sự cản trở, sự trở ngại
+
+@obstacle
+- (cơ học) sự trở ngại
+ @obstacle-race  
+*  dt
+- (thể dục,thể thao) cuộc chạy đua vượt chướng ngại
+
+@obstetric   (obstetrical) @obstetrical   (obstetrical) @obstetrician  
+*  dt
+- thầy thuốc khoa sản, bác sĩ khoa sản
+
+@obstetrics  
+*  dt,  số nhiều dùng như số ít
+- (y học) khoa sản
+
+@obstinacy  
+*  dt
+- tính bướng bỉnh, tính cứng đầu cứng cổ, tính khó bảo; tính ngoan cố
+- (y học) sự dai dẳng, sự khó chữa
+
++ the obstinacy of a disease: sự dai dẳng của một bệnh
+
+@obstinate  
+*  tt
+- bướng bỉnh, cứng đầu cứng cổ, khó bảo; ngoan cố
+- (y học) dai dẳng, khó chữa
+
++ an obstinate disease: bệnh khó chữa
+
+@obstinately
+- trạng từ
+- xem obstinate
+ @obstinateness
+* dt
+- xem obstinacy
+ @obstipant  
+*  dt
+- (y học) chất làm táo bón
+
+@obstipation  
+*  dt
+- (y học) sự táo bón
+
+@obstreperous  
+*  tt
+- âm ỉ, om sòm; la lối om sòm, phản đối om sòm
+- hay quấy rối, bất trị
+
+@obstreperously
+* dt
+- bất trị, om sòm, ngỗ ngược
+ @obstreperousness  
+*  dt
+- tính chất âm ỉ, tính chất om sòm; tính hay la lối om sòm, tính hay phản đối om sòm
+- tính chất bất trị
+
+@obstruct  
+*  ngdgt
+- làm tắc, làm bế tắc, làm nghẽn
+
++ to obstruct truffic: làm nghẽn giao thông
+- ngăn, che, lấp, che khuất
+- cản trở, gây trở ngại
+
++ to obstruct someone's proggress: cản trở sự tiến bộ của ai
+
++ to obstruct someone's activity: gây trở ngại cho sự hoạt động của ai
+- (y học) làm tắc
+*  ndgt
+- phá rối (ở nghị trường bằng cách nói cho hết giờ)
+
+@obstructer
+* dt
+- người cản trở
+ @obstruction  
+*  dt ((cũng) obstructive)
+- sự làm tắc nghẽn, sự tắc nghẽn, sự bế tắc
+- sự cản trở, sự gây trở ngại
+- trở lực, điều trở ngại
+- sự phá rối (ở nghị trường bằng cách nói cho hết giờ)
+- (y học) sự tắc (ruột...)
+
+@obstruction
+- sự cản trở
+- o. to lifting (tô pô) sự cản trở phép nâng một ánh xạ
+- secondary o. (tô pô) cản trở thứ yếu 
+ @obstructionism  
+*  dt
+- chủ trương phá rối (ở nghị trường bằng cách nói cho hết giờ)
+
+@obstructionist  
+*  dt
+- người phá rối (ở nghị trường bằng cách nói cho hết giờ)
+
+@obstructive  
+*  tt
+- làm tắc, làm bế tắc, làm nghẽn
+- cản trở, gây trở ngại
+*  dt
+- người gây bế tắc, người cản trở
+- (như) obstructionist
+
+@obstructiveness  
+*  dt
+- sự gây bế tắc, sự gây cản trở, sự gây trở ngại
+
+@obstructor
+* dt
+- xem obstructer
+ @obstruent
+* tt
+- cản trở, gây cản trở
+ @obtain  
+*  ngdgt
+- đạt được, thu được, giành được, kiếm được
+
++ to obtain experience: thu được kinh nghiệm
+
++ to obtain a prize: giành được phần thưởng
+*  ndgt
+- đang tồn tại, hiện hành, thông dụng
+
++ the customs which obtain: những phong tục đang còn tồn tại
+
+@obtain
+- đạt được, thu được
+ @obtainable  
+*  tt
+- có thể đạt được, có thể thu được, có thể giành được, có thể kiếm được
+
+@obtainable
+- có thể đạt được, có thể thu được
+ @obtainer
+* dt
+- xem obtain, người nhận được, người thu được
+- người thành công
+ @obtainment  
+*  dt
+- (từ hiếm,nghĩa hiếm) sự đạt được, sự thu được, sự giành được, sự kiếm được
+
+@obtect  
+*  tt
+- (động vật học) có bao kitin bọc ngoài (nhộng sâu bọ)
+
+@obtected
+* tt
+- xem obtect
+ @obtest  
+*  ngdgt
+- (từ cổ,nghĩa cổ) khẩn khoản, khẩn cầu
+- mời ra để làm chứng
+*  ndgt
+- (từ cổ,nghĩa cổ) phản đối
+
+@obtestation  
+*  dt
+- (từ cổ,nghĩa cổ) sự khẩn khoản, sự khẩn cầu
+- sự mời ra để làm chứng
+- sự phản đối
+
+@obtrude  
+*  ngdgt
+- ép, ép buộc, tống ấn, bắt phải chịu, bắt phải theo
+
++ to obtrude one's opinions on (upon) somebody: bắt ai phải theo ý kiến của mình
+
++ to obtrude oneself upon somebody: bắt ai phải chịu đựng mình; bắt ai phải chú ý đến mình
+*  ndgt
+- bắt ai phải chịu đựng mình; bắt ai phải chú ý đến mình
+
+@obtruder
+* dt
+- người đột nhập (nhà người ta)
+ @obtruncate  
+*  ngdgt
+- cắt cụt đầu cây
+
+@obtrusion  
+*  dt
+- sự ép buộc, sự tống ấn, sự bắt phải chịu, sự bắt phải theo
+
+@obtrusive  
+*  tt
+- để ép buộc, để tống ấn; có tính chất tống ấn
+- làm phiền, quấy rầy, khó chịu
+
++ an obtrusive visitor: người khách đến quấy rầy
+
+@obtrusively
+* dt
+- làm phiền, khó chịu
+ @obtrusiveness  
+*  dt
+- tính chất ép buộc, tính chất tống ấn
+- tính chất làm phiền, tính chất quấy rầy
+
+@obtund  
+*  ngdgt
+- (y học) làm trơ, làm chết (một cảm giác, một chức năng)
+
+@obtundent
+* dt
+- vật làm cùn, làm tù, làm trơ
+ @obturate  
+*  ngdgt
+- đút nút, lắp, bịt, hàn
+
+@obturation  
+*  dt
+- sự đút nút, sự lắp, sự bịt, sự hàn
+
+@obturator  
+*  dt
+- vật để lắp, vật để bịt
+- (y học) trám bịt
+- (vật lý),  (nhiếp ảnh) lá chắn sáng
+- (kỹ thuật) cửa sập
+
+@obtuse  
+*  tt
+- cùn, nhụt
+
++ an obtuse knife: dao cùn
+- (toán học) tù
+
++ an obtuse angle: góc tù
+- chậm hiểu, trì độn
+- âm ỉ
+
++ an obtuse pain: đau âm ỉ
+
+@obtuse
+- tù (góc)
+ @obtuse angle
+* dt
+- góc tù
+ @obtusely
+* dt
+- chậm hiểu, đần độn
+ @obtuseness  
+*  dt
+- sự cùn, sự nhụt
+- (toán học) độ tù (của góc)
+- sự chậm hiểu, sự trì độn
+- sự âm ỉ (của sự đau)
+
+@obverse  
+*  dt
+- mặt phải (của đồng tiền, của huân chương)
+- mặt phải, mặt trước, mặt chính
+- mặt tương ứng (của một sự kiện)
+*  tt
+- (thực vật học) gốc bé hơn ngọn
+- quay về phía (người nói, người nhìn...)
+- có tính chất tương ứng (cho một hiện tượng, một sự kiện)
+
+@obverse
+- mặt; mặt trước; (lý thuyết trò chơi) mặt ngửa
+ @obversion  
+*  dt
+- sự xoay mặt chính (của một vật gì về phía nào đó)
+- (triết học) sự đưa ra điều tương ứng (của một hiện tượng)
+
+@obvert  
+*  ngdgt
+- xoay mặt chính (của một vật gì về phía nào đó)
+- (triết học) đưa ra điều tương ứng (của một hiện tượng...)
+
+@obviate  
+*  ngdgt
+- ngăn ngừa, phòng ngừa; tránh
+
++ to obviate a danger: phòng ngừa nguy hiểm
+
++ to obviate a serious disease: một bệnh hiểm nghèo
+- xoá bỏ, tẩy trừ
+
+@obviation
+* dt
+- xem obviate,  sự cách xoá bỏ
+@obvious  
+*  tt
+- rõ ràng, rành mạch, hiển nhiên
+
++ an obvious style: lối văn rành mạch
+
++ an obvious truth: sự thật hiển nhiên
+
+@obvious
+- rõ ràng
+ @obviously
+* tt
+- một cách rõ ràng; có thể thấy được
+- hy vọng, đầy hy vọng
+- đầy hứa hẹn, có triển vọng
+ @obviously
+- một cách rõ ràng hiển nhiên
+ @obviousness
+* dt
+- sự hiển nhiên, sự rõ ràng
+ @obvolute  
+*  tt
+- (thực vật học) cuốn ngược
+
+@obvoluted
+* tt
+- xem obvolute
+ @obvolution  
+*  dt
+- (thông tục) sự cuốn ngược
+
+@

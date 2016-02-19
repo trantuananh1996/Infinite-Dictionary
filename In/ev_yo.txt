@@ -1,0 +1,299 @@
+@yob
+* dt
+- người cộc cằn thô lỗ
+ @yodel  
+*  dt
+- sự hát đổi giọng trầm sang giọng kim
+- bài hò (của những người miền núi Thuỵ sĩ)
+*  dgt
+- hát đổi giọng trầm sang giọng kim (theo phong cách hát của những người dân miền núi Thuỵ sĩ)
+
+@yoga   (yogism) @yoghourt
+* dt
+- như yoghurt
+ @yoghurt   (yoghurt) @yogi  
+*  dt
+- người theo thuyết du già
+
+@yogism   (yogism) @yogurt   (yoghurt) @yo-heave-ho   (yoho) @yoho
+- interj
+- dô hò!, hò dô ta!  (tiếng hò kéo dây)
+ @yoke  
+*  dt
+- sữa chua yoke @yoke-bone  
+*  dt
+- (y học) xương gò má
+
+@yokefellow   (yokemate) @yokel  
+*  dt
+- người nông thôn, người quê mùa
+
+@yokemate   (yokemate) @yolk  
+*  dt
+- lòng đỏ trứng; (sinh vật học) noãn hoàng
+- mỡ lông cừu
+
+@yolky  
+*  tt
+- (thuộc) lòng đỏ trứng; giống lòng đỏ trứng
+- (thuộc) mỡ lông cừu; có chất mỡ lông cừu
+
+@yom kippur
+* dt
+- lễ sám hối của người Do Thái
+ @yomp
+* dgt
+- hành quân vác nặng
+ @yon  
+*  tt & dt
+- (từ cổ,nghĩa cổ); (thơ ca) (như) yonder
+
++ as far as yon tree: xa tận cái cây đằng kia
+
+@yonder  
+*  tt & dt
+- kia, đằng kia, đằng xa kia
+
++ yonder group of trees: khóm cây đằng xa kia
+
+@yore  
+*  dt
+- of yore xưa, ngày xưa
+
++ in days of yore: thời xưa
+
+@yorkshire pudding
+* dt
+- bánh pudding ăn với thịt bò nướng, bánh pudding Yorkshire
+ @you  
+*  đại từ
+- anh, chị, ông, bà, ngài, ngươi, mày; các anh, các chị, các ông, các bà, các ngài, các người, chúng mày
+
++ you all know that...: tất cả các anh đều biết rằng...
+
++ he spoke of you: hắn ta nói về anh
+
++ if I were you: nếu tôi là anh
+
++ you there what is your name?: anh kia, tên anh là gì?
+- ai, người ta
+
++ you never can tell: ai biết đâu được
+
+@you'd  
+*  (thông tục) (viết tắt) của you would,  you had
+
+@you'll  
+*  (thông tục) (viết tắt) của you will,  you shall
+
+@young  
+*  tt
+- trẻ, trẻ tuổi, thiếu niên, thanh niên
+
++ a young man: một thanh niên
+
++ young people: thanh niên
+
++ his (her) young woman (man): người yêu của nó
+
++ a young family: gia đình có nhiều con nhỏ
+
++ a young person: người đàn bà lạ trẻ tuổi thuộc tầng lớp dưới (trong ngôn ngữ những người ở của các gia đình tư sản quý tộc Anh)
+
++ the young person: những người còn non trẻ ngây thơ cần giữ gìn không cho nghe (đọc) những điều tục tĩu
+- non
+
++ young tree: cây non
+- (nghĩa bóng) non trẻ, trẻ tuổi
+
++ a young republic: nước cộng hoà trẻ tuổi
+
++ he is young for his age: nó còn non so với tuổi, nó trẻ hơn tuổi
+- (nghĩa bóng) non nớt, mới mẻ, chưa có kinh nghiệm
+
++ young in mind: trí óc còn non nớt
+
++ young in bussiness: chưa có kinh nghiệm kinh doanh
+- (nghĩa bóng) còn sớm, còn ở lúc ban đầu, chưa muộn, chưa quá, chưa già
+
++ the night is young yet: đêm chưa khuya
+
++ young moon: trăng non
+
++ autumn is still young: thu hãy còn đang ở lúc đầu mùa
+- của tuổi trẻ, của thời thanh niên, của thời niên thiếu, (thuộc) thế hệ trẻ
+
++ young hope: hy vọng của tuổi trẻ
+
++ in one's young days: trong thời kỳ thanh xuân, trong lúc tuổi còn trẻ
+- (thông tục) con, nhỏ
+
++ young Smith: thằng Xmít con, cậu Xmít
+*  dt
+- thú con, chim con (mới đẻ)
+
++ with young: có chửa (thú)
+
+@younger  
+*  tt
+- út
+
++ younger brother: em trai út
+
++ younger son: con trai út
+- em
+
++  Edison the younger: Ê-đi-xơn em
+
+@youngish  
+*  tt
+- khá trẻ, hơi trẻ
+
+@youngling  
+*  dt
+- (thơ ca) thanh niên, thiếu nữ
+- thú con, chim con
+
++ younglings of the flock: những con cừu non
+
+@youngster  
+*  dt
+- người thanh niên; đứa bé con; đứa con trai
+
+@younker  
+*  dt
+- (từ cổ,nghĩa cổ),  (thông tục) (như) youngster
+- nhà quý tộc trẻ tuổi (Đức)
+
+@your  
+*  tt sở hữu
+- của anh, của chị, của ngài, của mày; của các anh, của các chị, của các ngài, của chúng mày
+
++ show me your hands: đưa tay anh cho tôi xem
+
++ is this your own book?: đây có phải là quyển sách của anh không?
+
+@you're  
+*  (viết tắt) của you are
+
+
+@yours  
+*  đại từ sở hữu
+- cái của anh, cái của chị, cái của ngài, cái của mày; cái của các anh, cái của các chị, cái của các ngài, cái của chúng mày
+
++ this book is yours: quyển sách này là của anh
+
++ a friend of yours: một trong những người bạn của anh
+
++ that is no business of yours: đó không phải là việc của anh, việc đó không quan hệ gì đến anh
+
++ you and yours: ông (anh...) và gia đình (tài sản) của ông (anh...)
+
++ yours is to hand: thư của anh đã đến tay tôi
+
++ what is yours?: (thông tục) còn anh thì uống gì?
+!Yours truly (faithfully, sincerely)
+- bạn chân thành của anh (chị...) (công thức cuối thư)
+
+@yourself  
+*  đại từ phản thân (số nhiều yourselves)
+- tự anh, tự chị, chính anh, chính mày, tự mày, tự mình
+
++ you mush wash yourself: mày phải tắm rửa đi
+
++ you yourself said so; you said so yourself: chính anh đã nói thế
+
++ you are not quite yourself today: hôm nay anh không được bình thường
+
++ help yourself to some more meat: mời anh xơi thêm thịt
+
++ how's yourself?: (từ lóng) còn anh có khoẻ không?
+
++ be yourself!: hãy trấn tĩnh lại!
+![all] by yourself
+- một mình
+
++ finish it by yourself: hãy làm xong cái đó lấy một mình
+
++ you'll be left by yourself: anh bị bỏ lại một mình
+
+@yourselves  
+*  đại từ phản thân (số nhiều yourselves)
+- tự anh, tự chị, chính anh, chính mày, tự mày, tự mình
+
++ you mush wash yourself: mày phải tắm rửa đi
+
++ you yourself said so; you said so yourself: chính anh đã nói thế
+
++ you are not quite yourself today: hôm nay anh không được bình thường
+
++ help yourself to some more meat: mời anh xơi thêm thịt
+
++ how's yourself?: (từ lóng) còn anh có khoẻ không?
+
++ be yourself!: hãy trấn tĩnh lại!
+![all] by yourself
+- một mình
+
++ finish it by yourself: hãy làm xong cái đó lấy một mình
+
++ you'll be left by yourself: anh bị bỏ lại một mình
+
+@youth  
+*  dt
+- tuổi trẻ, tuổi xuân, tuổi thanh niên, tuổi niên thiếu
+
++ the days of youth: thời kỳ niên thiếu
+
++ from youth upwards: từ lúc còn trẻ, từ nhỏ
+
++ the enthusiasm of youth: nhiệt tình của tuổi trẻ
+- (nghĩa bóng) buổi ban đầu; thời non trẻ
+
++ the youth of civilization: buổi ban đầu của nền văn minh
+
++ the youth of a nation: thời kỳ non trẻ của một quốc gia
+- thanh niên; tầng lớp thanh niên, lứa tuổi thanh niên
+
++ a promising youth: một thanh niên đầy hứa hẹn
+
++ a bevy of youths: một đám thanh niên
+
++ the youth of one country: lứa tuổi thanh niên của một nước
+
++ The Communist Youth League: Đoàn thanh niên cộng sản
+
++ The Ho Chi Minh Labour Youth Union: Đoàn thanh niên lao động Hồ Chí Minh
+
+@youth hostel  
+*  dt
+- quán trọ đêm cho những người đi du lịch
+
+@youthful  
+*  tt
+- trẻ, trẻ tuổi
+
++ to look youthful: trông còn trẻ
+- (thuộc) tuổi thanh niên, (thuộc) tuổi trẻ
+
+@youthfully
+* dt
+- trẻ trung
+ @youthfulness  
+*  dt
+- tính chất thanh niên, tính chất trẻ, tính chất trẻ tuổi; tính chất trẻ trung
+
+@you've  
+*  (thông tục) (viết tắt) của you have
+
+@yowl  
+*  dt
+- tiếng ngao (mèo); tiếng tru (chó)
+*  ndgt
+- ngao (mèo); tru (chó)
+
+@yoyo  
+*  dt
+- cái yôyô (đồ chơi trẻ con)
+
+@

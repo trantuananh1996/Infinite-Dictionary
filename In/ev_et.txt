@@ -1,0 +1,399 @@
+@et al
+- đặc ngữ La tinh
+- những người hoặc thứ khác
+ @et cetera   (etcetera) @et ceteras   (etceteras) @et seq
+- đặc ngữ La tinh
+- và tiếp theo
+ @eta  
+*  dt
+- Eta (chữ cái Hy-lạp)
+
+@eta
+- eta (&#951;)
+ @etacism  
+*  dt
+- lối phát âm của chữ eta theo kiểu Anh)
+
+@etalon
+* dt
+- chuẩn; mẫu (đo lường)
+ @etamine
+* dt
+- vải mỏng; vải mặt rây
+ @etape
+* dt
+- trạm nghỉ (quân đội)
+- lộ trình trong một ngày
+ @ETB (End of Transmission Block)
+- (Tech) khối chấm dứt truyền đạt
+ @etc
+- nhiều hơn nữa, vân vân (khi liệt kê)
+ @etcetera   (etcetera) @etceteras
+* dt số nhiều
+- những thứ kèm theo; đồ linh tinh
+
++  It's not just food for the guests - there are all the eceteras as well:Đâu phải chỉ có thức ăn cho khách thôi - mà còn bao nhiêu thứ linh tinh khác nữa
+ @etch  
+*  dgt
+- khắc axit
+
+@etch
+- (Tech) khắc (đ)
+ @etch pattern
+- (Tech) dạng hình mạch khắc
+ @etch pit density
+- (Tech) mật độ khắc lõm, mật độ thực khắc
+ @etchant
+* dt
+- chất khắc ăn mòn
+ @etched circuit
+- (Tech) mạch khắc
+ @etcher  
+*  dt
+- thợ khắc axit
+
+@etching  
+*  dt
+- sự khắc axit; thuật khắc axit
+- bản khắc axit
+
+@etching method
+- (Tech) phương pháp khắc
+ @etching-knife
+* dt
+- dao khắc axit
+ @etching-needle  
+*  dt
+- mùi khắc axit
+
+@etd
+* (viết tắt)
+- giờ khởi hành ước chừng (Estimated time of departure)
+ @eternal  
+*  tt
+- tồn tại, đời đời, vĩnh viễn, bất diệt
+- (thông tục) không ngừng, thường xuyên
+
++ eternal disputes: những sự cãi cọ không ngừng
+!the Eternal
+- thượng đế
+!the eternal triangle
+- (xem) triangle
+
+@eternalise   (eternalise) @eternality  
+*  tt
+- tính vĩnh viễn, tính bất diệt
+
+@eternalize   (eternalise) @eternally  
+*  dt
+- đời đời, vĩnh viễn, bất diệt
+- không ngừng, thường xuyên
+
+@eternise   (eternalise) @eternity  
+*  dt
+- tính vĩnh viễn, tính bất diệt
+- ngàn xưa, thời gian vô tận (trong tương lai)
+- tiếng tăm muôn đời
+- đời sau
+- (số nhiều) những sự thật bất di bất dịch
+
+@eternization
+- xem eternize
+ @eternize   (eternalise) @etesian
+* tt
+- xuất hiện hàng năm đúng kì hạn
+
++  etesian winds:gió bấc mùa hè ở Địa Trung Hải
+ @ethane  
+*  dt
+- (hoá học) Etan
+
+@ethanol
+* dt
+- (hoá học) ethanol
+ @ethanolamine
+* dt
+- (hoá học) etanolamin
+ @ethene
+* dt
+- (hoá học) eten; etilen
+ @ether  
+*  dt
+- bầu trời trong sáng; chín tầng mây, thinh không
+- (vật lý) Ête
+
++ luminiferous ether: ête ánh sáng
+- hoá Ête
+
+@ethereal   (etherial) @ethereality  
+*  dt
+- tính nhẹ lâng lâng
+- tính thiên tiên, tính siêu trần
+
+@etherealization  
+*  dt
+- sự làm nhẹ lâng lâng
+- sự làm cho giống thiên tiên, sự siêu trần hoá
+
+@etherealize  
+*  ngdgt
+- làm nhẹ lâng lâng
+- làm cho giống thiên tiên, siêu trần hoá
+
+@ethereally  
+*  dt
+- nhẹ lâng lâng
+- như thiên tiên, siêu trần
+
+@etherial   (etherial) @etheric
+- xem ether
+ @etherification  
+*  dt
+- (hoá học) sự hoá Ête
+
+@etherify  
+*  ngdgt
+- (hoá học) hoá Ête
+
+@etherise   (etherise) @etherism  
+*  dt
+- (y học) trạng thái nhiễm ête
+
+@etherization  
+*  dt
+- (y học) sự gây mê ête
+
+@etherize   (etherise) @etherizer
+- xem etherize
+ @Ethernet
+- (Tech) mạng Ethernet (itơnet)
+ @ethernet
+- Phần cứng, định ước, tiêu chuẩn ghép nối của một loại mạng cục bộ, do hãng Xerox Corporation đưa ra đầu tiên, có khả năng liên kết đến 1024 nút trong một mạng bus
+ @Ethernet cable
+- (Tech) cáp Ethernet
+ @ethertalk
+- Một bộ phận bổ sung trong phần cứng của mạng cục bộ Ethernet, do các hãng Apple và 3 Com hợp tác chế độ, được thiết kế để hoạt động cùng với hệ điều hành mạng AppleShare EtherTalk truyền dữ liệu qua cáp đồng trục với tốc độ 10 megabit mỗi giây (tốc độ của Ethernet), trong khi tốc độ của mạng AppleTalk chỉ có 230 kilobit @ethic   (ethical) @ethical   (ethical) @ethicality
+- xem ethical
+ @ethically  
+*  dt
+- có đạo đức, theo đúng luân thường đạo lý, hợp với luân thường đạo lý
+
+@ethicalness
+- xem ethical
+ @ethicize  
+*  ngdgt
+- làm cho hợp với đạo đức, làm cho hợp với luân thường đạo lý
+
+@ethics  
+*  dt,  số nhiều dùng như số ít
+- đạo đức, luân thường đạo lý
+- đạo đức học
+- (từ Mỹ,nghĩa Mỹ) nguyên tắc xử thế (một cá nhân); nội quy (một tổ chức)
+
+@ethionine
+* dt
+- (hoá học) ethionin
+ @ethiopian  
+*  tt
+- (thuộc) Ê-ti-ô-pi
+*  dt
+- người Ê-ti-ô-pi
+
+@ethiopianism  
+*  dt
+- phong trào " Châu phi của người Châu phi" 
+
+@ethmoid  
+*  tt
+- (giải phẫu) (thuộc) xương sàng
+
++ ethmoid bone: xương sàng
+
+@ethmoiditis
+* dt
+- (y học) viêm xương sàng
+ @ethnarch  
+*  dt
+- thống đốc; tỉnh trưởng
+
+@ethnarchy
+- xem ethnarch
+ @ethnic   (ethnical) @ethnical   (ethnical) @ethnicalism  
+*  dt
+- sự không theo tôn giáo nào, chủ nghĩa vô thần
+
+@ethnically  
+*  dt
+- về mặt dân tộc
+
+@ethnicism
+* dt
+- xem ethnicalism
+ @ethnicity
+* dt
+- tính cách sắc tộc
+ @ethnobotany
+* dt
+- thực vật dân tộc học
+ @ethnocentric  
+*  tt
+- vị chủng, cho dân tộc mình là hơn cả
+
+@ethnocentrically
+- xem ethnocentrism
+ @ethnocentricity
+- xem ethnocentrism
+ @ethnocentrism  
+*  dt
+- chủ nghĩa vị chủng, thuyết cho dân tộc mình là hơn cả
+
+@ethnogenic
+* tt
+- (thuộc) khoa nguồn gốc tộc người
+ @ethnogeny
+* dt
+- khoa nguồn gốc tộc người
+ @ethnographer  
+*  dt
+- nhà dân tộc học
+
+@ethnographic   (ethnographical) @ethnographical   (ethnographical) @ethnographically
+- xem ethnography
+ @ethnography  
+*  dt
+- khoa mô tả dân tộc
+- dân tộc học
+
+@ethnologic   (ethnological) @ethnological   (ethnological) @ethnologically
+- xem ethnology
+ @ethnologist  
+*  dt
+- nhà dân tộc học
+
+@ethnology  
+*  dt
+- dân tộc học
+
+@ethnomusicological
+* tt
+- thuộc âm nhạc dân tộc
+ @ethnomusicologist
+* dt
+- nhà nghiên cứu âm nhạc dân tộc
+ @ethnomusicology
+* dt
+- khoa âm nhạc dân tộc
+ @ethnopsychology
+* dt
+- khoa tâm lý học dân tộc
+ @ethnos
+* dt
+- đoàn thể huyết tộc
+ @ethography
+* dt
+- phong tục học
+ @ethological  
+*  tt
+- (thuộc) phong tục học
+
+@ethologist
+- xem ethology
+ @ethology  
+*  dt
+- phong tục học
+
+@ethos  
+*  dt
+- đặc tính, nét đặc biệt (của một tập thể, một chủng tộc...)
+
+@ethoxy
+* tt
+- thuộc etoxila
+ @ethoxyl
+* dt
+- (hoá học) etoxila
+ @ethyl  
+*  dt
+- (hoá học) Etyla
+
+@ethylamine  
+*  dt
+- (hoá học) Etylamin
+
+@ethylation
+* dt
+- sự úa vàng (cây); tình trạng xanh xao (người)
+ @ethylene  
+*  dt
+- (hoá học) Etylen
+
+@ethylenic
+- xem ethylene
+ @ethylic  
+*  tt
+- hoá Etylic
+
+@ethylize
+* ngdgt
+- etyl hoá
+ @etiolate  
+*  ngdgt
+- làm úa vàng (cây cối); làm nhợt nhạt, làm xanh xao (người)
+
+@etiolation  
+*  dt
+- sự làm úa vàng (cây); sự làm nhợt nhạt, làm xanh xao (người)
+
+@etiologic
+- xem etiology
+ @etiologically
+- xem etiology
+ @etiologist
+- xem etiology
+ @etiology   (etiology) @etiquette  
+*  dt
+- phép xã giao
+- nghi lễ, nghi thức
+- quy ước mặc nhận (của một giới chuyên môn)
+
++ medical etiquette: quy ước mặc nhận trong giới y
+
+@etna  
+*  dt								  @eton collar  
+*  dt
+- cổ cồn cứng (mang ngoài cổ áo)
+
+@eton crop  
+*  dt
+- lối cắt tóc con trai (đàn bà)
+
+@eton jacket  
+*  dt
+- áo ngoài ngắn cũn cỡn (của trẻ em học trường I-tơn, một trường của trẻ em quý tộc ở Anh)
+
+@ettings
+* dt số nhiều
+- vật thu được
+ @ettle
+* ngdgt
+- thu được
+ @etude
+* dt
+- (âm nhạc) khúc luyện
+ @etui   (etwee) @etwee   (etwee) @etx @ETX (End of Text)
+- (Tech) chấm dứt văn bản
+ @etymologer   (etymologist) @etymologic   (etymological) @etymological   (etymological) @etymologically
+- xem etymological
+ @etymologise   (etymologise) @etymologist
+* dt
+- nhà từ nguyên học
+ @etymologize   (etymologise) @etymology  
+*  dt
+- từ nguyên
+- từ nguyên học
+
+@etymon  
+*  dt
+- (ngôn ngữ học) căn tổ từ nguyên
+
+@

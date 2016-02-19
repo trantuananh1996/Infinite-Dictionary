@@ -1,0 +1,5 @@
+@xcmd
+- lệnh ngoại trú của DOS
+ @xcnf
+- chức năng XCFN
+ @

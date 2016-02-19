@@ -1,0 +1,770 @@
+@ilamb
+* dt
+- xem aimbus
+ @ilang-ilang  
+*  dt
+- (thực vật học) cây ngọc lan tây
+- hoa ngọc lan tây
+- dầu ilang-ilang
+
+@ileal
+- xem ileum
+ @ileitis
+* dt
+- chứng viêm ruột hồi
+ @ileocecal  
+*  tt
+- (giải phẫu) (thuộc) ruột hồi ruột tịt
+
+@ileostomy  
+*  dt
+- (y học) thủ thuật mở thông ruột hồi
+
+@ileum  
+*  dt
+- (giải phẫu) ruột hồi
+
+@ileus  
+*  dt
+- (y học) sự tắc ruột
+
+@ilex  
+*  dt,  (thực vật học)
+- cây sồi xanh
+- cây nhựa ruồi
+
+@ilia  
+*  dt,  số nhiều ilia
+- (giải phẫu) xương chậu
+
+@iliac  
+*  tt
+- (thuộc) xương chậu; ở vùng xương chậu
+- (từ cổ,nghĩa cổ) (thuộc) ruột hồi
+
+@iliad
+* dt
+- câu chuyện kể dài (đặc biệt theo truyền thống Hôme)
+- một loạt chiến công thích hợp cho một thiên anh hùng ca
+- một loạt những khổ đau và bất hạnh (Iliad là thiên anh hùng ca Hy Lạp cổ miêu tả cuộc bao vây thành troa của người Hy Lạp)
+ @ilium  
+*  dt,  số nhiều ilia
+- (giải phẫu) xương chậu
+
+@ilk  
+*  tt
+- (Ê-cốt) (thông tục) cùng loại, cùng hạng, cùng thứ
+!of that ilk
+- (Ê-cốt) cùng tên (với nơi ở, nơi sinh trưởng...)
+
++ Gutherie of that ilk: chàng Gu-tri ở thành phố Gu-tri
+- (thông tục) cùng loại, cùng hạng, cùng giống, cùng giuộc
+
+@ilka
+* tt
+- mỗi, mỗi một
+ @ill  
+*  tt
+- đau yếu, ốm
+
++ to be seriously ill: bị ốm nặng
+
++ to fall ill; to be taken ill: bị ốm
+
++ to look ill: trông có vẻ ốm
+- xấu, tồi, kém; ác
+
++ ill health: sức khoẻ kém
+
++ ill fame: tiếng xấu
+
++ ill management: sự quản lý (trông nom) kém
+- không may, rủi
+
++ ill fortune: vận rủi
+- (từ cổ,nghĩa cổ) khó
+
++ ill to please: khó chiều
+!ill weeds grow apace
+- cái xấu lan nhanh, thói xấu dễ bắt chước
+!it's an ill wind that blows nobody good
+- điều không làm lợi cho ai là điều xấu
+*  dt ((từ Mỹ,nghĩa Mỹ) (cũng) illy)
+- xấu, tồi, kém; sai; ác
+
++ to behave ill: xử sự xấu
+- khó chịu
+
++ don't take it ill: đừng nên lấy cái đó làm khó chịu, đừng nên bực mình vì cái đó
+
++ ill at ease: không thoải mái
+- không lợi, không may, rủi cho
+
++ to go ill with someone: rủi cho ai, không lợi cho ai
+- khó mà, hầu như, không thể
+
++ I could ill afford it: tôi khó mà có thể cáng đáng nổi cái đó
+*  dt
+- điều xấu, việc ác, điều hại
+- (số nhiều) những vụ rủi ro, những điều bất hạnh
+
+@ill
+- có hại, xấu
+ @ill blood  
+*  dt
+- sự hằn thù
+
+@ill breeding  
+*  dt
+- sự mất dạy, sự vô giáo dục
+- thái độ mất dạy
+
+@ill feeling
+* dt
+- ác cảm, mối hận thù, nỗi oán hậnãm tài
+- sự khó chịu
+ @ill humour   (ill-humouredness) @ill nature  
+*  dt
+- tính xấu, tính khó chịu
+- tính hay càu nhàu, tính hay cáu bẳn, tính gay gắt gỏng
+
+@ill natured  
+*  tt
+- xấu tính, khó chịu
+- hay càu nhàu, hay cáu bẳn, hay gắt gỏng
+
+@ill temper   (ill-temperedness) @ill turn  
+*  dt
+- vố làm hại, vố chơi ác, vố chơi khăm
+
++ to do somebody an ill_turn: làm hại ai một vố, chơi khăm ai một vố
+- (từ Mỹ,nghĩa Mỹ) sự sa sút (sức khoẻ, của cải...)
+
+@ill will
+* dt
+- ác ý, ác tâm
+ @ill-acquired  
+*  tt
+- (kiếm được bằng cách) phi nghĩa (của...)
+
+@ill-advised  
+*  tt
+- khờ dại, nhẹ dạ
+
+@ill-advisedly
+- xem ill-advised
+ @ill-affected  
+*  tt
+- có ý xâu, có ác ý
+
++ an ill-affected criticism: lời phê bình ác ý
+
+@ill-assorted
+* tt
+- lẫn lộn, tạp nhạp
+- không xứng đôi vừa lứa
+ @ill-at-ease  
+*  dt,  (triết học)
+- sự quy nạp
+- kết luận, điều suy ra
+
+@illation  
+*  dt,  (triết học)
+- sự quy nạp
+- kết luận; điều suy ra
+
+@illative  
+*  dt
+- (triết học) có tính chất kết luận; để kết luận; suy ra
+
+@illatively
+- xem illative
+ @illaudable  
+*  tt
+- không đáng khen
+
+@ill-behaved
+* tt
+- vô lễ; mất dạy
+ @ill-being  
+*  dt
+- tình trạng ốm yếu, tình trạng xấu
+
+@ill-boding  
+*  tt
+- báo điềm gỡ, mang điềm xấu
+
+@ill-bred  
+*  tt
+- mất dạy, vô giáo dục
+
+@ill-conditinned
+- điều kiện xấu
+ @ill-conditioned  
+*  tt
+- có ác ý, có ý xấu
+- ở trong tình trạng xấu
+
+@ill-conditionedness  
+*  dt
+- sự có ác ý, sự có ý xấu
+- tình trạng xấu
+
+@ill-considered  
+*  tt
+- thiếu suy nghĩ, thiếu cân nhắc (hành động...)
+
+@ill-defined  
+*  tt
+- không rõ ràng, mập mờ
+
+@ill-disposed  
+*  tt
+- có ác ý, có ý xấu, xấu bụng
+- (: towards) không lợi cho
+
+@ill-disposedness  
+*  dt
+- sự có ác ý, sự có ý xấu, sự xấu bụng
+- sự không có lợi cho
+
+@ill-dressed
+* tt
+- ăn mặc xoàng xĩnh; ăn mặc luộm thuộm
+ @illegal  
+*  tt
+- không hợp pháp, trái luật
+
++ an illegal marriage: một đám cưới không hợp pháp
+
+@illegalisation
+* dt
+- sự làm cho bất hợp pháp, sự bất hợp pháp hoá
+ @illegalise   (illegalise) @illegality
+* dt
+- sự không hợp pháp; tính không hợp pháp
+- <snh> hành động không hợp pháp
+ @illegalization
+- sự làm cho bất hợp pháp, sự bất hợp pháp hoá
+ @illegalize   (illegalise) @illegally
+* dt
+- bất hợp pháp, trái pháp luật
+ @illegatity  
+*  dt
+- sự không hợp pháp; tính không hợp pháp
+- (số nhiều) hành động không hợp pháp
+
+@illegatization  
+*  dt
+- sự làm thành không hợp pháp
+
+@illegibility   (illegibleness) @illegible  
+*  tt
+- khó đọc, không đọc được (chữ viết...)
+
+@illegibleness   (illegibleness) @illegibly
+* dt
+- khó đọc
+ @illegitimacy  
+*  dt
+- sự không hợp pháp, sự không chính đáng
+- tính chất con đẻ hoang; tình trạng con đẻ hoang
+
+@illegitimate  
+*  tt
+- không hợp pháp, không chính đáng
+- đẻ hoang (con)
+*  dt
+- người giữ địa vị không hợp pháp; người giữ địa vị không chính đáng
+- đứa con đẻ hoang, đứa con không hợp pháp
+*  ngdgt
+- (pháp lý) tuyên bố là không hợp pháp, tuyên bố là không chính đáng
+- làm thành không hợp pháp, làm thành không chính đáng
+- tuyên bố là con hoang
+
+@illegitimately
+* dt
+- không hợp pháp, không chính đáng
+ @illegitimateness  
+*  dt
+- tính chất không hợp pháp, tính chất không chính đáng
+
+@illegitimation  
+*  dt
+- sự tuyên bố là không hợp pháp, sự tuyên bố là không chính đáng
+- sự làm thành không hợp pháp, sự làm thành không chính đáng
+
+@ill-fated  
+*  tt
+- xấu số, bất hạnh, rủi
+
+@ill-favoured  
+*  tt
+- vô duyên, xấu, hãm tài (bộ mặt...)
+- khó chịu
+
+@ill-favouredness  
+*  dt
+- sự vô duyên, vẻ mặt xấu, vẻ hãm tài
+- sự khó chịu
+
+@ill-feeling  
+*  dt
+- ác cảm, mối hận thù, nỗi oán hận
+
+@ill-founded  
+*  tt
+- không căn cứ, không có căn cứ vững chắc
+
+@ill-gotten  
+*  tt
+- (kiếm được bằng cách) phi nghĩa
+
++ ill-gotten gains: của phi nghĩa
+!ill-gotten
+!ill-spent
+- (tục ngữ) của phi nghĩa có già đâu; của phù vân không chân hay chạy
+
+@ill-humoured  
+*  tt
+- buồn bực, rầu rĩ; cáu kỉnh, càu nhàu
+
+@ill-humouredness   (ill-humouredness) @illiberal  
+*  tt
+- hẹp hòi, không phóng khoáng
+- không có văn hoá, không có học thức
+- tầm thường, bần tiện
+
+@illiberalise   (illiberalise) @illiberalism
+- xem illiberal
+ @illiberality   (illiberalness) @illiberalize   (illiberalise) @illiberally
+* dt
+- hẹp hòi, bần tiện
+ @illiberalness   (illiberalness) @illicit  
+*  tt
+- trái phép, không hợp pháp
+- bị cấm; lậu
+
++ illicit sale: sự bán lậu
+
++ illicit still: máy cất rượu lậu
+
+@illicitly
+- xem illicit
+ @illicitness   (illimitability) @illimitability   (illimitability) @illimitable  
+*  tt
+- vô hạn, mênh mông, vô biên
+
+@illimitableness  
+*  dt
+- sự vô hạn, sự mênh mông, sự vô biên
+
+@illimitably
+- xem illimitable
+ @illinium  
+*  dt
+- (hoá học) Ilini
+
+@illiquid  
+*  tt
+- không dễ đổi thành tiền mặt (của cải)
+- không lỏng
+
+@Illiquidity
+- (Econ) Không tính chuyển hoán.
+: Việc thiếu tính chuyển hoán của một tài sản nhất định hoặc của một danh mục tài sản do một người giao dịch nắm giữ.
+ @illiquidity
+- xem illiquid
+ @illiteracy   (illiterateness) @illiterate  
+*  tt
+- dốt nát, mù chữ, thất học
+- dốt đặc, không hiểu biết gì (về một lĩnh vực nào đó)
+
++ to be politically illiterate: không hiểu biết gì về chính trị, dốt đặc về chính trị
+*  dt
+- người mù chữ, người thất học
+- người dốt đặc, người không hiểu biết gì (về một lĩnh vực nào đó)
+
+@illiterately
+- xem illiterate
+ @illiterateness   (illiterateness) @ill-judged  
+*  tt
+- không khôn ngoan, khờ dại
+
+@ill-looking  
+*  tt
+- xấu, xấu xí
+
+@ill-mannered  
+*  tt
+- thô lỗ, cục cằn; lịch sự
+
+@ill-manneredly
+- xem ill-mannered
+ @ill-manneredness  
+*  dt
+- tính thô lỗ, tính cục cằn; sự bất lịch sự
+
+@ill-natured
+* tt
+- xấu tính, khó chịu
+- hay càu nhàu, hay cáu bẳn, hay gắt gỏng
+ @ill-naturedly
+- xem ill-natured
+ @ill-naturedness
+- xem ill-natured
+ @illness  
+*  dt
+- sự đau yếu, sự ốm
+- bệnh
+
+@ill-nourished  
+*  tt
+- thiếu ăn, đói ăn
+
+@illogical  
+*  tt
+- không lôgíc, phi lý
+
++ an illogical analysis: một sự phân công không lôgíc
+
+@illogicality   (illogicalness) @illogically
+* dt
+- bất hợp lý, phi lý
+ @illogicalness   (illogicalness) @ill-omened  
+*  tt
+- gở, báo điềm xấu
+
+@ill-reputed  
+*  tt
+- mang tai mang tiếng; có tiếng xấu
+
+@ill-sorted
+* tt
+- không xứng đôi vừa lứa, cọc cạch
+
++  He and his wife were an ill-sorted pair:Anh ấy và vợ là một đôi cọc cạch
+ @ill-spent  
+*  tt
+- tiêu phí hoại, dùng phí hoài, lãng phí
+
+@ill-spoken  
+*  tt
+- bị nói xấu
+
+@ill-starred  
+*  tt
+- xấu số
+- tai hại
+
++ an ill-starred decision: một quyết định tai hại
+
+@ill-suited  
+*  tt
+- không hợp, không thích hợp
+
+@ill-tempered  
+*  tt
+- càu nhàu, cáu bẳn, gắt gỏng
+
+@ill-temperedly
+- xem ill-tempered
+ @ill-temperedness   (ill-temperedness) @ill-timed  
+*  tt
+- không đúng lúc, không phải lúc
+
++ an ill-timed remark: lời nhận xét không đúng lúc
+
+@ill-treat  
+*  ngdgt
+- hành hạ, bạc đâi, ngược đãi
+
+@ill-treatment  
+*  dt
+- sự hành hạ, sự bạc đâi, sự ngược đãi
+
+@illume  
+*  ngdgt
+- (thơ ca) soi sáng, làm sáng tỏ ((nghĩa đen) & (nghĩa bóng))
+
+@illuminability  
+*  dt
+- tính có thể soi sáng, tính có thể làm sáng tỏ
+
+@illuminable  
+*  tt
+- có thể soi sáng, có thể làm sáng tỏ
+
+@illuminance  
+*  dt
+- (vật lý) độ rọi
+
+@illuminance
+- (vật lí)   chiếu sáng
+- illuminate làm sáng, chiếu sáng 
+@illuminant  
+*  tt
+- sáng tỏ, rực rỡ
+*  dt
+- vật chiếu sáng, vật rọi sáng
+
+@illuminate  
+*  ngdgt
+- chiếu sáng, rọi sáng, soi sáng
+
++ a room illuminated by neon lights: căn buồng có ánh đèn nê ông rọi sáng
+- treo đèn kết hoa
+
++ to illuminate the city for the holiday: treo đèn kết hoa khắp thành phố để đón mừng ngày lễ
+- sơn son thiếp vàng, tô màu rực rỡ (chữ đầu một chương sách...)
+- làm sáng tỏ, giải thích, giảng giải
+
++ to illuminate difficult passanger in an old book: giảng giải những đoạn khó trong một cuốn sách cổ
+- làm sáng mắt, làm sáng trí, mở mang trí óc cho, khai trí cho
+- (từ Mỹ,nghĩa Mỹ) làm rạng rỡ
+*  ndgt
+- chiếu sáng, soi sáng
+
+@illuminati  
+*  dt số nhiều
+- (tôn giáo) những người được Chúa làm cho sáng mắt
+
+@illuminating  
+*  tt
+- chiếu sáng, rọi sáng, soi sáng
+- làm sáng tỏ
+- làm sáng mắt, làm sáng trí
+
+@illuminatingly
+- xem illuminate
+ @illumination  
+*  dt
+- sự chiếu sáng, sự rọi sáng, sự soi sáng
+- sự treo đèn kết hoa; (số nhiều) đèn treo (để trang hoàng thành phố...), hoa đăng
+- sự sơn son thiếp vàng, sự tô màu rực rỡ (chữ đầu chương sách, bản cảo...); (số nhiều) chữ sơn son thiếp vàng, hình tô màu rực rỡ (để trang trí cho một cuốn sách, bản cảo...)
+- sự làm sáng mắt, sự làm sáng trí, sự mở mang trí óc, sự khai trí
+- (từ Mỹ,nghĩa Mỹ) sự làm rạng rỡ
+- (vật lý) độ rọi
+
+@illumination
+- (vật lí) [tính, sự ] chiếu sáng
+ @illuminative  
+*  tt
+- chiếu sáng, rọi sáng, soi sáng
+
+@illuminator  
+*  dt
+- đèn chiếu sáng
+- người soi sáng, người làm sáng tỏ (một vấn đề)
+- người sơn son thiếp vàng, người tô màu (những bản cảo...)
+
+@illumine  
+*  ngdgt
+- chiếu sáng, soi sáng, làm sáng ngời
+- làm phấn khởi, làm rạng rỡ (nét mặt...)
+
++ to illumine the dark corner of one's heart: làm phấn khởi cõi lòng
+- (nghĩa bóng) làm sáng mắt, làm sáng trí
+
+@illuminist
+* dt
+- người theo thuyết thiên cảm
+ @illuministic
+* tt
+- theo thuyết thiên cảm
+ @illuminometer  
+*  dt
+- (vật lý) cái đo độ rọi
+
+@illuory
+- ảo tưởng. không khách quan
+ @ill-usage  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) sự hành hạ, sự bạc đâi, sự ngược đãi
+
+@ill-use  
+*  dt
+- sự hành hạ, sự bạc đâi, sự ngược đãi
+*  ngdgt
+- hành hạ, bạc đâi, ngược đãi
+
+@illusion  
+*  dt
+- ảo tưởng
+
++ to be under an illusion: có ảo tưởng
+
++ to indulge in illusions: nuôi những ảo tưởng
+- ảo giác, ảo ảnh
+
++ optical illusion: ảo thị
+- sự đánh lừa, sự làm mắc lừa
+- vải tuyn thưa (làm mạng che mặt...)
+
+@illusional
+- xem illusion
+ @illusionary
+- xem illusion
+ @illusionism  
+*  dt
+- thuyết ảo tưởng
+
+@illusionist  
+*  dt
+- người theo thuyết ảo tưởng
+- người hay mơ mộng, người hay mộng tưởng, người hay có ảo tưởng
+- nhà ảo thuật
+
+@illusionistic
+- xem illusionism
+ @illusionistically
+- xem illusionism
+ @illusionless
+- xem illusion
+ @illusive  
+*  tt
+- đánh lừa, làm mắc lừa
+- hão huyền, viển vông
+
++ an illusive hope: hy vọng hão huyền
+
+@illusively
+- xem illusive
+ @illusiveness  
+*  dt
+- sự đánh lừa, sự mắc lừa
+- tính chất hão huyền, tính chất viển vông
+
+@illusory  
+*  tt
+- không thực tế, hão huyền, viển vông
+
+@illustratable  
+*  tt
+- có thể minh hoạ, có thể làm rõ ý
+
+@illustrate  
+*  ngdgt
+- minh hoạ, làm rõ ý (bài giảng... bằng tranh, thí dụ...)
+- in tranh ảnh (trên báo chí, sách)
+
++ illustrated magazine: báo ảnh
+- (từ cổ,nghĩa cổ) soi sáng, chiếu sáng, làm sáng tỏ
+- (từ cổ,nghĩa cổ) làm nổi tiếng, làm rạng danh
+
+@illustrate
+- minh hoạ
+ @illustration  
+*  dt
+- sự minh hoạ
+- tranh minh hoạ; thí dụ minh hoạ; câu chuyện minh hoạ
+
+@illustration
+- sự minh hoạ, hình vẽ (minh hoạ)
+ @illustration
+- có minh hoạ
+ @illustrational
+- xem illustration
+ @illustrative  
+*  tt
+- (để) minh hoạ
+
++ illustrative pictures: những bức tranh minh hoạ
+
+@illustratively
+- xem illustrative
+ @illustrator  
+*  dt
+- người vẽ tranh minh hoạ (cho sách báo)
+- người minh hoạ; vật minh hoạ
+
+@illustrious  
+*  tt
+- có tiếng, nổi tiếng
+
++ an illustrious lender: một lãnh tụ có tiếng
+- lừng lẫy, rạng rỡ, vinh quang
+
++ an illustrious victory: một chiến thắng lừng lẫy
+
+@illustriously
+* dt
+- lừng lẫy, trứ danh
+ @illustriousness  
+*  dt
+- tiếng tăm; sự nổi tiếng
+- sự lừng lẫy, sự rạng rỡ, sự quang vinh
+
+@illuvia  
+*  dt,  số nhiều illuviums  @illuvial  
+*  tt
+- (địa lý,ddịa chất) (thuộc) bồi tích
+
+@illuviation  
+*  dt
+- (địa lý,ddịa chất) sự bồi tích
+
+@illuvium  
+*  dt,  số nhiều illuviums  @ill-will  
+*  dt
+- ác ý, ác tâm
+
+@ill-wisher  
+*  dt
+- người cầu điều xấu (cho người khác)
+
+@illy  
+*  tt
+- đau yếu, ốm
+
++ to be seriously ill: bị ốm nặng
+
++ to fall ill; to be taken ill: bị ốm
+
++ to look ill: trông có vẻ ốm
+- xấu, tồi, kém; ác
+
++ ill health: sức khoẻ kém
+
++ ill fame: tiếng xấu
+
++ ill management: sự quản lý (trông nom) kém
+- không may, rủi
+
++ ill fortune: vận rủi
+- (từ cổ,nghĩa cổ) khó
+
++ ill to please: khó chiều
+!ill weeds grow apace
+- cái xấu lan nhanh, thói xấu dễ bắt chước
+!it's an ill wind that blows nobody good
+- điều không làm lợi cho ai là điều xấu
+*  dt ((từ Mỹ,nghĩa Mỹ) (cũng) illy)
+- xấu, tồi, kém; sai; ác
+
++ to behave ill: xử sự xấu
+- khó chịu
+
++ don't take it ill: đừng nên lấy cái đó làm khó chịu, đừng nên bực mình vì cái đó
+
++ ill at ease: không thoải mái
+- không lợi, không may, rủi cho
+
++ to go ill with someone: rủi cho ai, không lợi cho ai
+- khó mà, hầu như, không thể
+
++ I could ill afford it: tôi khó mà có thể cáng đáng nổi cái đó
+*  dt
+- điều xấu, việc ác, điều hại
+- (số nhiều) những vụ rủi ro, những điều bất hạnh
+
+@ilmenite
+* dt
+- (khoáng chất) inmenit
+ @Ilo
+- (Econ) Văn phòng Lao động Quốc tế.
+: Xem INTERNATIONAL LABOR OFFICE.
+ @ilo
+* (viết tắt)
+- Tổ chức lao động quốc tế (International Labour Organization)
+ @

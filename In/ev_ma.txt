@@ -1,0 +1,6327 @@
+@ma  
+*  dt
+- ((viết tắt) của mamma) má, mẹ
+
+@ma'am  
+*  dt
+- lệnh bà, phu nhân (để xưng hô)
+- thưa bà (người làm xưng hô)
+
+@maar
+* dt
+- núi lửa miệng rộng; miệng núi lửa
+ @mac
+- xem mackintosh:ông (dùng để xưng hô với một người đàn ông lạ)
+ @macabre  
+*  tt
+- rùng rợn, khủng khiếp, kinh khủng; ma quỷ
+
++ danse macabre: điệu nhảy của tử thần; trò ma quỷ
+
+@macaco  
+*  dt
+- (động vật học) giống khỉ manac
+- người xấu xí như khỉ
+
+@macadam  
+*  dt
+- đá dăm nện (để đắp đường)
+- đường đắp bằng đá dăm nện
+- cách đắp đường bằng đá dăm nện
+*  tt
+- đắp bằng đá dăm nện
+
+@macadamisation
+* dthư macadamization
+- như macadamization
+ @macadamise   (macadamise) @macadamization  
+*  dt
+- cách đắp đường bằng đá dăm nện
+
+@macadamize   (macadamise) @macaque
+* dt
+- khỉ
+ @macaroni  
+*  dt
+- mỳ ống
+
+@macaronic
+* dt
+- sự pha trộn hai ngôn ngữ
+- tiếng La-tinh giả cầy
+ @macaroon  
+*  dt
+- bánh hạnh nhân
+
+@macassar
+* dt
+- dầu dừa ướp hoàng lan
+ @macaw  
+*  dt
+- (động vật học) vẹt đuôi dài (Nam-Mỹ)
+*  dt
+- cây cọ
+
+@macbinary
+- Một giao thức truyền tệp tin dùng cho các máy tính Macintosh, cho phép bạn có thể lưu trữ các tệp tin Macintosh bằng máy tính không phải Macintosh mà không bị mất các biểu tượng, các đồ hình, các thông tin về tệp đó như ngày tháng thành lập chẳng hạn Hầu hết các chương trình truyền thông Macintosh đều phát và thu các tệp theo MacBinary
+ @maccabaw   (maccaboy) @maccaboy   (maccaboy) @maccaroni
+* dt
+- như macaroni
+ @mace  
+*  dt
+- gậy chơi bi-a
+- (sử học) cái chuỳ
+- trượng, gậy quyền
+
+@mace-bearer
+* dt
+- người cầm quyền trượng (quan cao cấp)
+ @macedoine
+* dt
+- món rau thập cẩm; món quả hổ lốn
+ @macedonian
+* dt
+- (Macedonian) người Maxêđôni (giữa Nam Tư và Hy Lạp)
+- (Macedonian) tiếng Maxêđôni
+* tt
+- thuộc về người Maxêđôni
+- thuộc về tiếng Maxêđôni
+ @macerate  
+*  ngdgt
+- ngâm, giầm
+- hành xác
+
+@maceration  
+*  dt
+- sự ngâm, sự giầm
+- sự hành xác
+
+@macerative  
+*  tt
+- võ vàng
+
+@macerator  
+*  dt
+- người ngâm, người giầm, máy ngâm, máy giầm (để làm giấy)
+
+@mach
+* dt
+- Mác (tỉ lệ giữa tốc độ máy bay và tốc độ âm thanh)
+ @mach number  
+*  dt
+- (hàng không) số M (tỷ lệ tốc độ máy bay trên tốc độ âm thanh)
+
+@machanism
+- cơ cấu; thiết bị máy móc; thiết bị hàm
+- actuating m. cơ cấu dẫn động, cơ cấu thừa hành
+- chance m. cơ cấu chọn ngẫu nhiên
+- clutch m. cơ cấu móc
+- computer m., cuonting m. bộ tính toán
+- coupling m. cơ cấu ghép
+- delent m. [chốt, cái] định, vị, cố định
+- feed m. cơ cấu tiếp liệu
+- pen-driving m. bộ phận dẫn động bằng bút
+- printing m. thiết bị in
+- quick-release m. cơ cấu ngắt nhanh
+- sine-cosine m. (máy tính) cơ cấu sin-cos
+- tape m. cơ cấu băng truyền
+- teleological m. (điều khiển học) cơ cấu có dáng hướng mục tiêu 
+ @machete   (machete) @machiavel   (Machiavelli) @machiavelli   (Machiavelli) @machiavellian  
+*  tt
+- quỷ quyệt, xảo quyệt, nham hiểm
+
+@machiavellianism   (Machiavellianism) @machiavellism   (Machiavellianism) @machiavellist
+* tt
+- như machiavellian
+* dt
+- người nham hiểm; người dùng mọi thủ đoạn để đạt mục đích
+ @machicolate  
+*  ndgt
+- (sử học) xây lỗ ném (ở lan can thành luỹ)
+
+@machicolated
+* tt
+- có lỗ châu mai
+ @machicolation   (machicoulis) @machicoulis   (machicoulis) @machinability  
+*  dt
+- tính có thể cắt được bằng máy công cụ
+
+@machinable  
+*  tt
+- có thể cắt được bằng máy công cụ
+
+@machinate  
+*  ngdgt
+- âm mưu, bày mưu, lập kế mưu toan
+
+@machination  
+*  dt
+- âm mưu, mưu đồ
+- sự bày mưu lập kế, sự mưu toan
+
+@machinator  
+*  dt
+- kẻ âm mưu, kẻ mưu toan, kẻ bày mưu lập kế
+
+@machine  
+*  dt
+- máy móc, cơ giới
+- người máy; người làm việc như cái máy
+- (từ Mỹ,nghĩa Mỹ) cơ quan đầu nâo, bộ máy chỉ đạo (của một tổ chức, một đảng phái chính trị)
+- xe đạp, xe đạp ba bánh
+- (từ Mỹ,nghĩa Mỹ) máy bơm cứu hoả
+- máy thay cảnh (ở sân khấu)
+*  tt
+- (thuộc) máy móc
+
++ machine age: thời đại máy móc
+- bằng máy
+
++ machine winding: sự cuốn chỉ (vào ống) bằng máy
+*  dgt
+- làm bằng máy, dùng máy
+
+@machine
+- máy; cơ cấu; thiết bị; máy công cụ   sử dụng máy
+- accounting m. máy kế toán
+- analog m. thiết bị tương tự, thiết bị mô hình
+- book-keeping m. máy kế toán
+- calculating m. máy tính, máy kế toán
+- card punching m. máy đục bìa
+- chess playing m. máy chơi cờ
+- clerical m. máy để bàn (giấy), máy kế toán 
+- coin counting m. máy tính tiền tự động
+- data processing m. máy xử lý các số liệu
+- determinate m. máy xác định 
+- digital m. máy tính chữ số
+- duplex calculating m. máy tính hai lần
+- intelligent m. máy thông minh
+- jet m. động cơ phản lực
+- logic(al) m. may lôgic
+- Markovian m. may Máckôp
+- parallel m. máy tác động song song
+- sampling m. nguồn số ngẫu nhiên
+- serial m. máy tác động nối tiếp
+- sound m. máy đã sửa chữa
+- synchoronous m. máy đồng bộ
+- tabulating m. máy lập bảng 
+@machine-gun  
+*  dt
+- súng máy, súng liên thanh
+*  ngdgt
+- bắn súng máy, bắn súng liên thanh
+
+@machine-gunner  
+*  dt
+- người bắn súng máy, người bắn súng liên thanh
+
+@machineless
+* tt
+- không sử dụng máy
+ @machinelike
+* tt
+- như máy
+ @machine-made  
+*  tt
+- làm bằng máy, sản xuất bằng máy, chế tạo bằng máy
+
+@machineman
+* dt
+- thợ máy
+ @machine-readable
+- (machine-readable form) dạng thuật ngữ máy tính
+ @machinery  
+*  dt
+- máy móc, máy
+- cách cấu tạo, cơ cấu các bộ phận máy
+- (nghĩa bóng) bộ máy, cơ quan
+
++ the machinery of government: bộ máy chính quyền
+- (sân khấu) thiết bị sân khấu
+
+@machinery
+- máy (móc); cơ cáu; dụng cụ (nói chung)
+ @machine-shop  
+*  dt
+- xưởng chế tạo máy, xưởng sửa chữa máy
+
+@machine-tool  
+*  dt
+- (kỹ thuật) máy công cụ
+
+@machine-wash
+* dgt
+- giặt bằng máy
+ @machine-wound
+* tt
+- quấn bằng máy
+ @machining
+* dt
+- sự gia công cơ khí; sự gia công cắt gọt
+ @machinist  
+*  dt
+- người chế tạo máy, người kiểm tra máy
+- người dùng máy, thợ máy
+
+@machismo
+* dt
+- sự thể hiện nam tính một cách quá đáng; lòng tự tôn của kẻ nam nhi
+ @macho
+* tt
+- (thuộc) đại trượng phu; (thuộc) bậc nam nhi
+* dt
+- đại trượng phu; bậc nam nhi
+ @macintosh
+- như mackintosh
+ @mack
+- xem mackintosh
+ @mackerel  
+*  dt
+- (động vật học) cá thu
+
+@mackerel sky  
+*  dt
+- trời phủ đầy những đám mây bông trắng nhỏ
+
+@mackintosh  
+*  dt
+- áo mưa makintôt
+- vải cao su
+
+@mackle
+* dt
+- ảnh in trùng hai lần; giấy in vấy bẩn
+* dgt
+- vấy bẩn (ở tờ in)
+ @macle  
+*  dt
+- (khoáng chất) tinh thể đôi
+- vết đen (trong chất khoáng)
+
+@Macmillan Committee
+- (Econ) Uỷ ban Macmillan.
+: Uỷ ban điều tra của Anh được thành lập năm 1929 với tên gọi Uỷ ban Tài chính và Công nghiệp, do H.P Macmillan (sau này là Huân tước) làm chủ tịch, nhằm nghiên cứu hệ thống tài chính và ngân hàng trong các nghiệp vụ trong nước và quốc tế của nó, và nhằm đưa ra những khuyến nghị về việc làm thế nào để hệ thống này có thể thúc đẩy việc phát triển nội thương và ngoại thương và việc tuyển dụng lao động.
+ @Macmillan gap
+- (Econ) Lỗ hổng Macmillan.
+: Xem Macmillan Committee.
+ @macro
+- lớn, khổng lồ (về kích thước, khả năng...)
+* dt
+- <tin> một lệnh đơn độc, dùng trong chương trình máy tính, thay thế cho một chuỗi các lệnh hoặc phím gõ
+ @macroaggregate
+* dt
+- hợp thể lớn (đất đai)
+ @macrobiotic
+* tt
+
++  macrobiotic food:thức ăn chay
+ @macrobiotics
+* dt
+- khoa học về chế độ ăn uống gồm toàn hạt và rau xanh trồng không xử lý hoá chất; khoa dinh dưỡng ăn chay
+ @macrocarpous
+* tt
+- (thực vật học) có quả lớn
+ @macrocephalic   (macrocephalic) @macrocephalous   (macrocephalic) @macrocinematography
+* dt
+- sự quay phim cỡ lớn
+ @macroclimate
+* dt
+- khí hậu ở một khu vực lớn
+ @macroclimatic
+* tt
+- (thuộc) khí hậu ở một khu vực lớn
+ @macroclimatology
+* dt
+- sự nghiên cứu khí hậu ở một khu vực lớn
+ @macrocosm  
+*  dt
+- thế giới vĩ mô
+
+@macrocosmic
+* tt
+- thuộc thế giới vĩ mô
+ @macrocosmically
+- về phương diện thế giới vĩ mô
+ @macrocrystalline
+* tt
+- có dạng tinh thể lớn
+ @macrocyte
+* dt
+- đại hồng cầu
+ @macrocytic
+* tt
+- (thuộc) đại hồng cầu
+ @Macroeconomics
+- (Econ) Kinh tế học vĩ mô.
+: Là khoa học nghiên cứu hành vi của toàn bộ nền kinh tế nói chung.
+ @macroeconomics
+* dt
+- (kinh tế) ngành nghiên cứu toàn diện nền kinh tế của một quốc gia (lợi tức quốc gia, sản lượng quốc gia, mối tương quan giữa các khu vực trong nền (kinh tế) quốc gia); kinh tế vĩ mô
+ @Macroeconomics demand schedule
+- (Econ) Biểu cầu mang tính kinh tế học vĩ mô.
+ @macroevolution
+* dt
+- (sinh vật học) đại tiến hoá
+ @macrofossil
+* dt
+- đại hoá thạch
+ @macrogamete
+* dt
+- (sinh vật học) giao tử cái; đại giao tử
+ @macrograph
+* dt
+- ảnh chụp vĩ mô (kim loại học)
+ @macroinstruction
+* dt
+- (tin học) lệnh macro, lệnh gộp
+ @macrometric
+* tt
+- có kích thước vĩ mô
+ @macromolecule
+* dt
+- phân tử lớn, đại phân tử
+ @macron
+* dt
+- (ngôn ngữ học) sự làm dấu (-) trên một nguyên âm dài hay nhấn; phù hiệu nguyên âm dài
+ @macronuclei
+- số nhiều của macronucleus
+ @macronucleus
+* dt (số nhiều macronuclei)
+- (sinh vật học) nhân lớn
+ @macrophage
+* dt
+- (sinh vật học) đại thực bào
+ @macrophagic
+* tt
+- (thuộc) đại thực bào
+ @macrophotograph
+* dt
+- ảnh chụp phóng to, ảnh chụp vĩ mô
+ @macrophotography
+* dt
+- cách chụp ảnh vĩ mô
+ @macrophysics
+* dt
+- vật lý học vĩ mô
+ @macrophyte
+* dt
+- (thực vật học) thực vật vĩ mô
+ @macropodous
+* tt
+- (động vật học) có chân dài
+- (thực vật học) có cuống dài
+ @macropsia
+* dt
+- (y học) bệnh nhìn vật to ra
+ @macropterous
+* tt
+- (động vật học) có cánh to, có vây to
+ @macroscale
+* dt
+- quy mô lớn, đại quy mô
+ @macroscopic  
+*  tt
+- vĩ mô
+
+@macroscopic
+- vĩ mô, thô
+ @macroscopically
+* dt
+- vĩ mô
+ @macrosegment
+* dt
+- (ngôn ngữ học) đại âm đoạn
+ @macrosporangia
+- số nhiều của macrosporangium
+ @macrosporangium
+* dt (số nhiều macrosporangia)
+- (thực vật học) túi bào tử cái, túi đại bào tử
+ @macrospore  
+*  dt
+- (thực vật học) đại bào tử
+
+@macrostatistics
+- (thống kê) thống kê các mấu lớn
+ @macrostomia
+* dt
+- (y học) tật miệng rộng
+ @macrostructure
+* dt
+- cấu trúc vĩ mô
+ @macula  
+*  dt,  số nhiều maculae  @maculae  
+*  dt,  số nhiều maculae  @macular  
+*  tt
+- (thuộc) vết, (thuộc) chấm
+- có vết, có chấm
+
+@maculate
+* ngdgt
+- làm cho có vết; làm nhơ bẩn
+* tt
+- có vết; có điểm nhơ bẩn
+ @maculated  
+*  tt
+- đầy vết, đầy chấm
+
+@maculation  
+*  dt
+- vết, chấm
+- sự làm vấy vết
+- kiểu phân bố chấm (trên cơ thể sinh vật)
+
+@macule
+* dt
+- như mackle
+- như macula
+ @mad  
+*  tt
+- điên, cuồng, mất trí
+
++ to go mad: phát điên, hoá điên
+
++ to drive someone mad: làm cho ai phát điên lên
+
++ like mad: như điên, như cuồng
+- (thông tục) bực dọc, bực bội
+
++ to be mad about (at) missing the train: bực bội vì bị nhỡ xe lửa
+- (: about,  after,  for,  on) say mê, ham mê
+
++ to be mad on music: say mê âm nhạc
+- tức giận, giận dữ, nổi giận
+
++ to get mad: nổi giận
+*  dgt
+- (từ hiếm,nghĩa hiếm) làm phát điên; phát điên, hành động như một người điên
+
+@madagascan
+* tt
+- (thuộc) Mađagaxca
+* dt
+- người Mađagaxca
+ @madam  
+*  dt
+- bà, phu nhân; quý phu nhân
+- tú bà, mụ chủ nhà chứa
+
+@madame
+* dt (số nhiều Mesdames)
+- danh hiệu chỉ một phụ nữ lớn tuổi (đã có chồng hoặc goá chồng)
+
++  Madame Lan from Vietnam:Bà Lan người Việt Nam
+ @madcap  
+*  dt
+- người liều, người khinh suất, người hay bốc đồng
+
+@madden  
+*  ngdgt
+- làm phát điên lên, làm tức giận
+*  ndgt
+- phát điên, tức giận
+
+@maddening  
+*  tt
+- làm phát điên lên, làm tức giận
+
+@maddeningly
+* dt
+- một cách đáng bực mình, đến phát bực
+
++  maddeningly stupid:ngu đến phát bực
+ @maddeningness
+* dt
+- sự làm cho bực mình; sự làm cho nổi cáu
+ @madder  
+*  dt
+- (thực vật học) cây thiên thảo (một thứ cây rễ có chất đỏ dùng làm thuốc nhuộm)
+- thuốc nhuộm thiên thảo
+
+@madding
+* tt
+- như maddening
+ @maddingly
+* dt
+- như maddeningly
+ @maddish
+* tt
+- dở hơi; hâm
+ @made  
+*  thời quá khứ & động tt quá khứ của make
+*  tt
+- làm, hoàn thành, thực hiện
+
++ a made man: một người sẽ chắc chắn thành công trong cuộc đời
+
++ made fast: (kỹ thuật) ghép chặt
+
+@madeira
+- rượu vang ở đảo Mađêra (Đại Tây Dương)
+ @madeleine
+* dt
+- bánh mađơlen
+- mận mađơlen, táo mađơlen, đào mađơlen
+ @mademoiselle
+* dt
+- tiểu thư
+- nữ gia sư
+ @made-to-measure  
+*  tt
+- may đo (đối với may sãn)
+
+@made-to-order  
+*  tt
+- may đo; làm đúng như sở thích
+
+@made-up
+* tt
+- hư cấu
+- lắp ghép; hoá trang
+
++  made-up eyelashes:lông mi giả
+- làm sẵn (quần áo)
+ @madhouse  
+*  dt
+- bệnh viện tinh thần kinh, nhà thương điên
+
+@madly
+* dt
+- điên rồ; điên cuồng
+- liều lĩnh
+ @madman  
+*  dt
+- người điên, người mất trí
+
+@madness  
+*  dt
+- chứng điên, chứng rồ dại; sự mất trí
+- sự giận dữ
+
+@madonna  
+*  dt
+- tượng Thánh mẫu, tranh Thánh mẫu
+
+@madonna lily  
+*  dt
+- (thực vật học) hoa loa kèn trắng
+
+@madras  
+*  dt
+- vải maddrai (để may sơ mi)
+
+@madrepore  
+*  dt
+- (động vật học) san hô đá tảng
+
+@madreporian
+* tt
+- (thuộc) san hô tảng
+ @madrigal  
+*  dt
+- bài thơ tình ngắn
+- (âm nhạc) Maddigan
+
+@madrigalian
+* tt
+- (thuộc) thơ trữ tình; (thuộc) thơ tình ngắn
+ @madrigalist  
+*  dt
+- nhà thơ tình
+
+@madwoman  
+*  dt
+- người đàn bà điên
+
+@mae west  
+*  dt
+- (từ lóng) áo hộ thân (của người lái máy bay)
+
+@maecenas  
+*  dt
+- mạnh thường quân
+
+@maelstrom  
+*  dt
+- vũng nước xoáy ((nghĩa đen) & (nghĩa bóng))
+
+@maenad  
+*  dt
+- bà tế thần rượu Bắc-cút
+- người đàn bà rượu chè; người đàn bà bị điên cuồng
+
+@maenadic
+* tt
+- (thuộc) cô gái thờ thần rượu
+- (thuộc) đàn bà rượu chè, đàn bà cường bạo
+ @maestoso  
+*  dt
+- (âm nhạc) hùng vĩ
+
+@maestri  
+*  dt,  số nhiều maestri  @maestro  
+*  dt,  số nhiều maestri  @maffick  
+*  ndgt
+- vui nhộn ồn ào
+
+@mafia
+* dt
+- băng đảng tội phạm Mafia
+- (chính trị) nhóm đứng trong bóng tối để giật dây
+ @mafic
+* dt
+- (khoáng vật học) Mafic
+ @mafiology
+* dt
+- sự nghiên cứu về các băng đảng tội phạm
+ @mafiosi
+- số nhiều của mafioso
+ @mafioso
+* dt (số nhiều mafiosi)
+- thành viên của băng đảng tội phạm Mafia
+ @mag  
+*  dt
+- (từ lóng) đồng nửa xu (Anh)
+- (viết tắt) của magneto
+
+@maganese  
+*  dt
+- (hoá học) Mangan
+
+@magazine  
+*  dt
+- tạp chí
+- nhà kho; kho súng, kho đạn, kho thuốc nổ
+- ổ đạn (trong súng)
+- (nhiếp ảnh); (điện ảnh) vỏ cuộn phim (để nạp vào máy)
+
+@magazinish   (magazinish) @magazinist  
+*  dt
+- người làm tạp chí, người viết tạp chí
+
+@magaziny   (magazinish) @magdalen  
+*  dt
+- gái điếm đã được cải tạo
+- trại cải tạo gái điếm
+
+@magdalene
+- như magdalen
+ @mage  
+*  dt,  (từ cổ,nghĩa cổ)
+- đạo sĩ, pháp sư, thầy phù thuỷ
+- nhà bác học, nhà thông thái
+
+@magenta  
+*  dt
+- Magenta,  fucsin thuốc nhuộm
+*  tt
+- màu fucsin, đỏ tươi
+
+@maggot  
+*  dt
+- con giòi (trong thịt thối, phó mát)
+- (nghĩa bóng) ý nghĩ ngông cuồng, ý nghĩ kỳ quái
+
++ to have a maggot in one's head: có một ý nghĩ kỳ quái trong đầu
+
+@maggotry
+* dt
+- ý nghĩ ngu xuẩn
+ @maggoty  
+*  tt
+- có giòi
+- (nghĩa bóng) có những ý nghĩ ngông cuồng, có những ý nghĩ kỳ quái
+
+@magi  
+*  dt,  số nhiều magi
+- thầy pháp
+
+@magian
+* dt
+- pháp sư; nhà chiêm tinh
+ @magianism
+* dt
+- thuật pháp sư; thuật chiêm tinh
+ @magic  
+*  dt số nhiều
+- ma thuật, yêu thuật
+- ma lực
+- phép kỳ diệu, phép thần thông
+*  tt: (magical) @magic lantern  
+*  dt
+- đèn chiếu
+
+@magical  
+*  dt số nhiều
+- ma thuật, yêu thuật
+- ma lực
+- phép kỳ diệu, phép thần thông
+*  tt: (magical) @magically
+* dt
+- kỳ diệu, thần diệu
+ @magician  
+*  dt
+- thuật sĩ, pháp sư, thầy phù thuỷ
+
+@magilp  
+*  dt
+- (hoá học) chất hoà thuốc (dùng để hoà thuốc vẽ)
+
+@maginot-minded
+* tt
+- tin vào hệ thống phòng ngự
+ @magisterial  
+*  tt
+- (thuộc) thầy
+- (thuộc) quan toà
+- quyền uy; hách dịch
+- có uy tín, có thẩm quyền (ý kiến)
+
+@magisterium
+* dt
+- (tôn giáo) chức vụ giáo dục (của đạo Thiên chúa)
+ @magistracy  
+*  dt
+- chức quan toà
+- nhiệm kỳ quan toà
+- tập thể các quan toà
+
+@magistral  
+*  tt
+- bậc thầy
+- (dược học) chế theo đơn (không có bán sãn)
+
+@magistrality
+* dt
+- tính chất bậc thầy, sự lỗi lạc
+- sự chủ yếu, sự chủ đạo, tính chất đầy uy tín
+- (dược học) sự pha chế theo đơn
+ @magistrally  
+*  dt
+- bậc thầy, với uy tín của người thầy
+
+@magistrate  
+*  dt
+- quan toà
+
+@magistrateship  
+*  dt
+- chức vị quan toà
+
+@magistratical
+* tt
+- (thuộc) quan toà; (thuộc) quan hành chánh địa phương
+ @magistrature
+* dt
+- như magistracy
+ @magma  
+*  dt,  số nhiều magmas  @magmas
+* dt
+- chất nhão
+- <địa> Macma
+ @magmata  
+*  dt,  số nhiều magmas  @magmatic
+* tt
+- (thuộc) macma
+- (thuộc) đá nhão trong lòng đất
+ @magna carta   (Magna_Charta) @magna charta   (Magna_Charta) @magnalium
+* dt
+- Macnali (hợp kim nhôm và mage)
+ @magnanimity  
+*  dt
+- tính hào hiệp, tính cao thượng ((cũng) magnanimousness)
+- hành động hào hiệp, hành động cao thượng
+
+@magnanimous  
+*  tt
+- hào hiệp, cao thượng
+
+@magnanimousness  
+*  dt
+- tính hào hiệp, tính cao thượng ((cũng) magnanimity)
+
+@magnate  
+*  dt
+- người có quyền thế lớn
+- trùm tư bản
+
+@magnateship
+* dt
+- địa vị quyền quý, địa vị cao sang
+- địa vị trùm (tư bản), địa vị vua (tư bản)
+- (từ cổ nghĩa cổ) chức nghị viên thượng viện Hung,  Ba Lan
+ @magnesia  
+*  dt
+- (hoá học) Magiê-oxyt
+
+@magnesian
+* tt
+- có magiê cacbonat
+ @magnesic
+* tt
+- như magnesian
+ @magnesite
+* dt
+- (khoáng vật học) Magiêzit
+ @magnesium  
+*  dt
+- (hoá học) Magiê
+
+@magnet  
+*  dt
+- nam châm
+
++ field magnet: nam châm tạo trường
+
++ molecular magnet: nam châm phân từ
+
++ permanent magnet: nam châm vĩnh cửu
+- (nghĩa bóng) người có sức lôi cuốn mạnh, vật có sức hấp dẫn mạnh
+
+@magnet
+- (vật lí) nam châm
+ @magnetic  
+*  tt
+- (thuộc) nam châm, có tt, (thuộc) từ
+
++ magnetic force: lực từ
+
++ magnetic pole: cực từ
+- (nghĩa bóng) có sức hấp dẫn mạnh, có sức lôi cuốn mạnh, có sức quyến rũ
+
++ a magnetic smile: nụ cười quyến rũ
+
+@magnetic
+- (vật lí) từ   chất sắt từ
+@magnetic tape  
+*  dt
+- băng ghi âm
+
+@magnetical
+* tt
+- (thuộc) nam châm, có từ tính
+ @magnetics  
+*  dt,  số nhiều dùng như số ít
+- từ học
+
+@magnetics
+- (vật lí) thuyết từ học
+ @magnetise   (magnetise) @magnetism  
+*  dt
+- từ học
+- hiện tượng từ
+
++ remanent (residual) magnetism: hiện tượng từ dư
+- tt
+
++ nuclear magnetism: tt hạt nhân
+- (nghĩa bóng) sức hấp dẫn, sức quyến rũ
+
+@magnetism
+- (vật lí) từ học, hiện tượng từ, tt
+- permanent m. (vật lí) hiện tượng từ dư
+- residual m. hiện tượng từ dư
+- terrestrial m. vlđc. địa từ học 
+ @magnetist
+* dt
+- nhà từ học
+ @magnetite  
+*  dt
+- (khoáng chất) Manhêtit
+
+@magnetizability
+* dt
+- khả năng từ tính
+ @magnetization  
+*  dt
+- sự từ hoá
+- sự lôi cuốn, sự hấp dẫn; sự dụ hoặc, sự thôi miên
+
+@magnetization
+- (vật lí) sự từ hoá
+ @magnetize   (magnetise) @magnetize
+- từ hoá
+ @magneto  
+*  dt,  số nhiều magnetos  @magneto-electric  
+*  tt
+- từ điện
+
+@magneto-electricity  
+*  dt
+- từ điện
+
+@magnetofluiddynamics
+* dt
+- điện từ thủy động học
+ @magnetograph
+* dt
+- từ ký; máy ghi từ
+ @magnetohydrodynamics
+* dt
+- từ thủy động lực học
+ @magnetometer  
+*  dt
+- cái đo từ, từ kế
+
+@magneton
+* dt
+- Manhêton (đơn vị momen từ)
+ @magneto-optic
+* tt
+- (thuộc) từ quang học
+ @magneto-optics
+* dt
+- từ quang học
+ @magnetophone
+* dt
+- máy ghi âm trên băng từ
+ @magnetos
+* dt
+- <điện> Manhêtô
+ @magnetoscope
+* dt
+- từ nghiệm
+ @magnetosphere
+* dt
+- quyển từ
+ @magnetostatic
+* tt
+- (thuộc) từ tĩnh học
+ @magnetostatics
+* dt
+- từ tĩnh học
+ @magnetostriction
+* dt
+- hiện tượng từ giảo
+ @magnetostriction
+- (vật lí) sự từ giảo
+ @magnetostrictor
+* dt
+- máy dao dgt giảo
+ @magnetron
+* dt
+- Manhêtron
+ @magnetron
+- (vật lí) sự tăng, sự phóng đại
+- isogonal m. sự phóng đại đồng dạng
+ @magnific   (magnifical) @magnifical   (magnifical) @magnificat  
+*  dt
+- bài tụng đức Mẹ đồng trinh
+
+@magnification  
+*  dt
+- sự phóng đại, sự mở rộng, sự làm to
+- sự ca ngợi, sự tán tụng, sự tán dương
+
+@magnificence   (magnificentness) @magnificent  
+*  tt
+- tráng lệ, nguy nga, lộng lẫy
+- (thông tục) rất đẹp, cừ, chiến
+
+@magnificentness   (magnificentness) @magnifier  
+*  dt
+- kính lúp; máy phóng (ảnh)
+
+@magnify  
+*  ngdgt
+- làm to ra, phóng to, mở rộng
+
++ a mocroscope magnifies things: kính hiển vi làm vật trông to ra
+- thổi phồng, tán dương quá đáng
+
++ to magnify dangers: thổi phồng những sự nguy hiểm
+
++ to magnify a trifling incident: thổi phồng một sự việc bình thường
+
+@magnify
+- tăng, phóng đại
+ @magnifying glass  
+*  dt
+- kính lúp
+
+@magniloquence  
+*  dt
+- tính hay khoe khoang, tính hay khoác lác
+
+@magniloquent  
+*  tt
+- hay khoe khoang, hay khoác lác
+
+@magnistor
+- (máy tính) macnitơ
+ @magnitude  
+*  dt
+- tầm lớn, độ lớn, lượng
+- tầm quan trọng, tính chất trọng đại
+
++ this is an event of the first magnitude: đó là một sự kiện có tầm quan trọng bậc nhất
+
+@magnitude
+- độ lớn; độ dài, chiều đo; (thiên văn) độ lớn (của sao)
+- m. of a vector chiều dài của véctơ
+- geometrical m. độ lớn hình học
+- physical m.s (vật lí) các đại lượng vật lý 
+ @magnitudinous  
+*  tt
+- có tầm lớn, có độ lớn, có lượng lớn
+- quan trọng, trọng đại
+
+@magnolia  
+*  dt
+- (thực vật học) cây mộc lan
+
+@magnum  
+*  dt
+- chai lớn (2, 250 lít)
+
+@magnum bonum  
+*  dt
+- loại mận lớn
+- loại khoai tây vàng
+
+@magot
+* dt
+- khỉ macac không đuôi
+- người xấu xí
+ @magpie  
+*  dt
+- (động vật học) người hay nói, người hay ba hoa
+
++ he is a regular magpie: hắn ta đúng là một thằng ba hoa
+
+@magus  
+*  dt,  số nhiều magi
+- thầy pháp
+
+@magyar  
+*  tt
+- (thuộc) Ma-gi-a; (thuộc) Hung-ga-ri
+*  dt
+- người Ma-gi-a; người Hung-ga-ri
+- tiếng Ma-gi-a; tiếng Hung-ga-ri
+
+@mahabharata
+* dt
+- sử thi Mahabơharata (ấn Độ)
+ @maharaja
+* dt
+- hoàng tử (ấn Độ)
+ @maharanee
+- Cách viết khác : maharani 
+ @maharani
+- Cách viết khác : maharanee 
+ @maharishi
+* dt
+- nhà hiền triết Hinđu
+ @mahatma
+* dt
+- (ấn Độ) người được kính trọng, người đạo cao đức trọng
+- (ấn Độ) thánh nhân, thánh sư,  Lạt ma
+ @mahayana
+* dt
+- (tôn giáo) phái Đại Thừa (Phật giáo)
+ @mahayanist
+* tt
+- (thuộc) thánh nhân, (thuộc) thánh sư, (thuộc) Lạt ma
+- (thuộc) người đạo cao đức trọng
+* dt
+- người theo phái Đại Thừa (Phật giáo)
+ @mah-jong   (mah-jongg) @mah-jongg   (mah-jongg) @mahlstick
+* dt
+- cái kê tay (của hoạ sĩ)
+ @mahogany  
+*  dt
+- (thực vật học) cây dái ngựa
+- gỗ dái ngựa
+- màu gỗ dái ngựa
+- bàn ăn
+
++ to have one's knees under someone's mahogany: cùng ăn với ai
+*  tt
+- bằng gỗ dái ngựa
+- có màu gỗ dái ngựa
+
+@mahometan   (Mahometan) @mahout  
+*  dt
+- (Ân-ddộ) quản tượng
+
+@maid  
+*  dt
+- con gái; thiếu nữ
+
++ an old maid: gái già, bà cô (đàn bà nhiều tuổi mà ở vậy)
+- đầy tớ gái, người hầu gái
+
+@maiden  
+*  dt
+- thiếu nữ, trinh nữ, cô gái đồng trinh
+- gái già, bà cô
+- ngựa đua chưa giật giải lần nào, cuộc đua cho ngựa chưa giật giải lần nào
+- (sử học) máy chém
+*  tt
+- (thuộc) người trinh nữ, trinh; chưa chồng, không chồng; (thuộc) thời con gái
+
++ maiden name: tên thời con gái
+- đầu tiên
+
++ maiden battle: cuộc chiến đấu đầu tiên
+
++ maiden speech: bài phát biểu đầu tiên (của một nghị sĩ trong nghị viện)
+
++ maiden voyage: cuộc vượt biên đầu tiên (của một chiếc tàu)
+
++ maiden flight: chuyến bay đầu tiên (của máy bay, của người lái)
+- còn mới nguyên, chưa hề dùng (gươm...)
+- chưa giật giải lần nào (ngựa)
+- chưa bị tấn công lần nào (đồn luỹ)
+- không có án xử (phiên toà)
+
+@maidenhair  
+*  dt
+- (thực vật học) cây đuôi chồn (dương xỉ)
+
+@maidenhead  
+*  dt
+- sự trinh bạch, sự trinh tiết, thời kỳ còn con gái
+- màng trinh
+
+@maidenhood  
+*  dt
+- thân thể người con gái; thời kỳ con gái
+- thân thể gái già, cảnh bà cô
+
+@maidenish  
+*  tt
+- như con gái
+
+@maidenlike  
+*  tt
+- như một cô gái; như một trinh nữ
+
+@maidenliness
+* dt
+- tính chất con gái, thân phận con gái
+ @maidenly  
+*  tt
+- trinh trắng, trinh tiết; dịu dàng như một trinh nữ
+
+@maidhood
+* dt
+- như maidenhood
+ @maid-in-waiting   (maid-in-waiting) @maidish
+* tt
+- như maidenish
+ @maid-of-all-work  
+*  dt
+- người đầy tớ gái đầu sai, người đầy tớ gái làm đủ mọi việc
+
+@maid-of-honour  
+*  dt
+- cô phù dâu chính
+- (như) lady-in-waiting
+
+@maidservant  
+*  dt
+- người hầu gái, người đầy tớ gái
+
+@maidy
+* dt
+- cô bé nhỏ tuổi, cô bé ít tuổi
+ @maieutic  
+*  tt
+- gợi, hỏi làm cho nhận thức rõ (những ý nghĩ của tiềm tàng thai nghén, theo phương pháp của Xô-crát); (thuộc) phương pháp gợi hỏi
+
+@maieutics
+* dt
+- cách đỡ đẻ
+- phương pháp gợi hỏi; khích biện pháp
+ @maigre  
+*  tt
+- chay (thức ăn)
+
+@mail  
+*  dt
+- áo giáp
+*  ngdgt
+- mặc áo giáp
+*  dt
+- thư từ; bưu kiện, bưu phẩm
+- chuyển thư
+- bưu điện
+- xe thư (xe lửa)
+*  ngdgt
+- gửi qua bưu điện
+
+@mail order  
+*  dt
+- thư đặt hàng (gửi bằng đường bưu điện)
+
+@mailability
+* dt
+- khả năng chuyển bằng bưu điện
+ @mail-bag
+* dt
+- như post-bag
+ @mailbag
+- túi thư (để mang thư đi)
+- bó thư (các thư từ đã nhận)
+ @mail-boat  
+*  dt
+- tàu thư (tàu biển)
+
+@mailbox  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) hòm thư
+
+@mail-car  
+*  dt
+- xe thư
+
+@mail-carrier
+* dt
+- xe mang thư
+- như letter-carrier
+ @mail-cart
+* dt
+- xe ngựa chở thư
+ @mail-clerk
+* dt
+- nhân viên bưu điện
+ @mailed fist  
+*  dt
+- the mailed_fist vũ lực, bạo lực
+
+@mailer  
+*  dt
+- người gửi thư, người chuẩn bị thư gửi đi; máy chuẩn bị thư gửi đi
+
+@mailing
+* dt
+- thư từ; thư tín
+ @maillot
+* dt
+- áo may-ô; áo nịt
+- quần chật ống (cho người khiêu vũ, làm xiếc)
+ @mailman  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người đưa thư
+
+@mail-oder house   (mail-oder_house) @mail-order firm   (mail-oder_house) @mail-plane  
+*  dt
+- máy bay thư
+
+@mailshot
+* dt
+- mẫu hàng quảng cáo qua đường bưu điện
+ @mail-train  
+*  dt
+- xe thư (xe lửa)
+
+@maim  
+*  dt
+- thương tật
+*  ngdgt
+- làm tàn tật
+- cắt bớt, xén bớt, cắt xén (một quyển sách, một đoạn văn, một bài thơ...)
+
+@main  
+*  dt
+- cuộc chọi gà
+*  dt
+- with might and main với tất cả sức mạnh, dốc hết sức
+- phần chính, phần cốt yếu, phần chủ yếu
+- ống dẫn chính (điện, nước, hơi đốt)
+- (thơ ca) biển cả
+*  tt
+- chính, chủ yếu, quan trọng nhất
+
++ the main street of a town: đường phố chính của thành phố
+
++ the main body of an arm: bộ phận chính của đạo quân, quân chủ lực
+
+@main
+- chính, cơ bản   dây dẫn tiếp liệu, đường dây tải
+@main clause  
+*  dt
+- (ngôn ngữ học) mệnh đề chính
+
+@main line  
+*  dt
+- (ngành đường sắt) đường sắt chính
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mạch máu chính để tiêm mocfin; sự tiêm mocfin vào mạch máu chính
+
+@mainbrace
+- thành ngữ
+- (to splice the mainbrace) chiêu đãi bằng rượu
+ @main-deck  
+*  dt
+- sàn tàu
+
+@mainframe
+- máy tính lớn
+ @mainifestness  
+*  dt
+- tính rõ ràng, tính hiển nhiên
+
+@mainland  
+*  dt
+- lục địa, đất liền
+
+@mainlander
+* dt
+- người ở đất liền
+ @mainlaying
+* dt
+- sự đặt đường ống
+ @mainline
+* dt
+- (ngành đường sắt) đường sắt chính
+- đường cái chính; đường biển chính
+- (từ Mỹ,nghĩa Mỹ) (từ lóng) mạch máu chính để tiêm mocfin; sự tiêm mocfin vào mạch máu chính
+* dgt
+- tiêm @mainliner
+* dt
+- người tiêm mocfin vào mạch máu
+- người chịu trách nhiệm chính một tuyến đường sắt
+ @mainly  
+*  dt
+- chính, chủ yếu
+- phần lớn
+
+@mainmast  
+*  dt
+- (hàng hải) cột buồm chính
+
+@mainsail  
+*  dt
+- (hàng hải) buồm chính
+
+@mainsheet
+* dt
+- (hàng hải) dây kéo lá buồm chính
+ @mainspring  
+*  dt
+- dây cót chính (của đồng hồ)
+- (nghĩa bóng) động cơ chính (của một hành động)
+
+@mainstay  
+*  dt
+- (hàng hải) dây néo cột buồm chính
+- (nghĩa bóng) chỗ dựa chính, rường cột, trụ cột
+
+@mainstream
+* dt
+- xu hướng @mainstream
+- dòng chính, chủ lưu
+ @mainstreeter
+* dt
+- người ở phố chính
+- người ở khu phố của những người bảo thủ chật hẹp, ích kỷ chỉ biết lợi nhuận (do tiểu thuyết Main Street của Sinclair Lewis)
+ @maintain  
+*  ngdgt
+- giữ, duy trì, bảo vệ, bảo quản
+
++ to maintain friendly relations: duy trì những quan hệ hữu nghị
+
++ to maintain an attitude: giữ một thái độ
+
++ to maintain a road: bảo quản một con đường
+- giữ vững, không rời bỏ
+
++ to maintain one's position: giữ vững vị trí của mình
+- bảo vệ, xác nhận rằng
+
++ to maintain one's opinion: bảo vệ ý kiến của mình
+- nuôi, cưu mang
+
++ to maintain a large family: nuôi một gia đình đông con
+
+@maintain
+- gìn giữ, bảo quản; sửa chữa
+ @maintainable  
+*  tt
+- có thể giữ được, có thể duy trì được
+
+@maintainance, maintenance
+- sự gìn giữ, sự bảo quản, sự sửa chữa
+- operating m. (máy tính) sử dụng và sửa chữa 
+- rountime m. (máy tính) sự bảo quản thông thường 
+ @maintainer  
+*  dt
+- người phải cưu mang
+
+@maintenance  
+*  dt
+- sự giữ, sự duy trì; sự bảo vệ, sự bảo quản
+
++ for the maintenance of their rights, the workmen must struggle: để bảo vệ quyền lợi, anh em công nhân phải đấu tranh
+- sự nuôi, sự cưu mang
+
++ to work for the maintenance of one's family: làm việc để nuôi gia đình
+
+@maintop
+* dt
+- (hàng hải) bệ ở phía trên đầu của cột buồm chính, đài cột buồm
+ @maintopsail
+* dt
+- buồm chính ở đầu cột buồm
+ @maiolica
+* dt
+- như majolica
+ @mairie
+* dt
+- toà thị chính
+ @maisonette
+- Cách viết khác : maisonnette 
+ @maisonnette
+- Cách viết khác : maisonette 
+ @maitre
+* dt
+- ông chủ
+- giáo sư
+- người cầm đầu
+ @maitre d'hôtel  
+*  dt
+- quản gia
+- người phụ trách những người hầu bàn
+- chủ khách sạn
+- món xốt bơ chua
+
+@maize  
+*  dt
+- (thực vật học) ngô
+*  tt
+- vàng nhạt (màu ngô)
+
+@majestic  
+*  tt
+- uy nghi, oai nghiêm, oai vệ, đường bệ
+
+@majestical
+* tt
+- như majestic
+ @majestically
+* dt
+- xem majestic
+ @majesticalness
+* dt
+- dáng vẻ uy nghi, oai vệ...
+ @majesty  
+*  dt
+- vẻ uy nghi, vẻ oai nghiêm, vẻ oai vệ, vẻ đường bệ
+!Your (His, Her) Majesty
+- tâu Bệ hạ, tâu Hoàng đế, tâu Hoàng hậu (tiếng tôn xưng)
+
+@majolica  
+*  dt
+- đồ sành majolica (ở Y về thời Phục hưng)
+
+@major  
+*  dt
+- (quân sự) thiếu tá (lục quân)
+*  dt
+- (từ Mỹ,nghĩa Mỹ) con trai đến tuổi thành niên (21 tuổi)
+- chuyên đề (của một sinh viên)
+- người có địa vị cao hơn (trong một lĩnh vực nào đó)
+*  tt
+- lớn (hơn), nhiều (hơn), trọng đại, chủ yếu
+
++ for the major part: phần lớn, phần nhiều
+- anh, lớn (dùng trong trường hợp có hai anh em cùng trường)
+
++ Smith major: Xmít anh,  Xmít lớn
+- (âm nhạc) trưởng
+- đến tuổi trưởng thành
+- (thuộc) chuyên đề (của một sinh viên)
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ) chuyên về (một môn gì), chọn chuyên đề, đỗ cao (về một môn học)
+
++ to major in history: chuyên về môn sử; chọn chuyên đề về sử; đỗ cao về sử
+
+@major
+- lớn, chính, cơ bản, quan trọng hơn
+ @majoram
+* dt
+- cây kinh giới ô
+ @majorant
+- hàm trội
+ @major-domo  
+*  dt
+- quản gia
+
+@major-general  
+*  dt
+- (quân sự) trung tướng
+
+@major-generalship   (major-generalsy) @major-generalsy   (major-generalsy) @majoritarian
+* tt
+- (thuộc) chế độ chủ trương đa số quyết định; ủng hộ chủ trương đa số quyết định
+ @majoritarianism
+* dt
+- chủ trương đa số quyết định
+ @majority  
+*  dt
+- phần lớn, phần đông, đa số
+- (từ Mỹ,nghĩa Mỹ) đảng (nhóm) được đa số phiếu
+- tuổi thành niên, tuổi trưởng thành
+
++ he will reach (attain) his majority next month: tháng sau nó sẽ đến tuổi thành niên
+- (quân sự) chức thiếu tá, hàm thiếu tá
+!to join the majority
+- về với tổ tiên
+
+@majority
+- đại bộ phận, phần lớn
+ @Majority rule
+- (Econ) Quy tắc đa số.
+: Là một hình thức LỰA CHÓN TẬP THỂ hoặc QUY TẮC QUYẾT ĐỊNH XÃ HỘI mà theo đó bất kỳ đề nghị nào được sự ủng hộ của hơn một nửa số người biểu quyết sẽ được chọn.
+ @majorize
+- làm trội
+ @majorized
+- được làm trội
+ @majuscular   (majuscule) @majuscule   (majuscule) @makable
+* tt
+- có thể làm được; có thể chế tạo
+ @makar
+* dt
+- nhà thơ
+ @make  
+*  dt
+- hình dáng, cấu tạo (của một vật); kiểu (quần áo); tầm vóc, dáng, tư thế (người)
+- sự chế nhạo
+
++ Vietnamese make: chế tạo ở Việt Nam
+
++ is this your own make?: cái này có phải tự anh làm lấy không?
+- (điện học) công tắc, cái ngắt điện
+!to be on the make
+- (thông tục) thích làm giàu
+- đang tăng, đang tiến
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đang tìm người để ăn nằm với
+*  ngdgt
+- làm, chế tạo
+
++ to make bread: làm bánh
+
++ to make verse: làm thơ
+
++ made in Vietnamese: chế tạo ở Việt Nam
+
++ made of ivory: làm bằng ngà
+- sắp đặt, xếp đặt, dọn, thu dọn, sửa soạn, chuẩn bị
+
++ to make the bed: dọn giường
+
++ to make tea: pha trà
+- kiếm được, thu
+
++ to make money: kiếm tiền
+
++ to make a profit: kiếm lãi
+
++ to make good marks at school: được điểm tốt ở trường
+- làm, gây ra
+
++ to make a noise: làm ồn
+- làm, thực hiện, thi hành
+
++ to make one's bow: cúi đầu chào
+
++ to make a journey: làm một cuộc hành trình
+- khiến cho, làm cho
+
++ to make somebody happy: làm cho ai sung sướng
+- bắt, bắt buộc
+
++ make him repeat it: bắt hắn ta phải nhắc đi nhắc lại điều đó
+- phong, bổ nhiệm, lập, tôn
+
++ they wanted to make him president: họ muốn tôn ông ta lên làm chủ tịch
+- ước lượng, đánh giá, định giá, kết luận
+
++ to make the distance at 10 miles: ước lượng quâng đường ấy độ 10 dặm
+- đến; tới; (hàng hải) trông thấy
+
++ to make the land: trông thấy đất liền
+
++ the train leaves at 7.35, can we make it?: xe lửa khởi hành vào hồi 7 giờ 35, không biết chúng tôi có thể đến kịp không?
+- hoàn thành, đạt được, làm được, đi được
+
++ to make 30 kilometers an hour: đi được 30 kilômét một giờ
+- thành, là, bằng
+
++ two and two make four: hai cộng với hai là bốn
+- trở thành, trở nên
+
++ if you work hard you will make a good teacher: nếu anh làm việc chăm chỉ, anh sẽ trở nên một giáo viên tốt
+- nghĩ, hiểu
+
++ I do not know what to make of it: tôi không biết nghĩ về điều đó ra sao
+
++ I could not make head or tail of it: tôi chẳng hiểu được đầu đuôi câu chuyện ra sao
+*  ndgt
+- đi, tiến (về phía)
+
++ to make for the door: đi ra cửa
+- lên, xuống (thuỷ triều)
+
++ the tide is making: nước thuỷ triều đang lên
+- làm, ra ý, ra vẻ
+- sửa soạn, chuẩn bị
+!to make after
+- (từ cổ,nghĩa cổ) theo đuổi, đeo đuổi
+!to make against
+- bất lợi, có hại cho
+!to make away
+- vội vàng ra đi
+!to make away with
+- huỷ hoại, giết, thủ tiêu, khử
+- lãng phí, phung phí
+- xoáy, ăn cắp
+!to make back off
+- trở lại một nơi nào...
+!to make off
+- đi mất, chuồn, cuốn gói
+!to make off with
+- xoáy, ăn cắp
+!to make out
+- đặt, dựng lên, lập
+
++ ro make out a plan: đặt kế hoạch
+
++ to make out a list: lập một danh sách
+
++ to make out a cheque: viết một tờ séc
+- xác minh, chứng minh
+- hiểu, giải thích, tìm ra manh mối, nắm được ý nghĩa, đọc được
+
++ I cannot make out what he has wirtten: tôi không thể đọc được những điều hắn ta viết
+- phân biệt, nhìn thấy, nhận ra
+
++ to make out a figure in the distance: nhìn thấy một bóng người đằng xa
+- (từ Mỹ,nghĩa Mỹ) diễn biến, tiến triển
+
++ how are things making out?: sự việc diễn biến ra sao?
+!to make over
+- chuyển, nhượng, giao, để lại
+
++ to make over one's all property to someone: để lại tất cả của cải cho ai
+- sửa lại (cái gì)
+!to make up
+- làm thành, cấu thành, gộp thành, hợp lại, gói ghém, thu vén
+
++ to make all things up into a bundle: gói ghém tất cả lại thành một bó
+- lập, dựng
+
++ to make up a list: lập một danh sách
+- bịa, bịa đặt
+
++ it's all a made up story: đó là một câu chuyện hoàn toàn bịa đặt
+- hoá trang
+
++ to make up an actor: hoá trang cho một diễn viên
+- thu xếp, dàn xếp, dàn hoà
+
++ the two friends have had a quarrel, but they will soon make it up: hai người bạn xích mích với nhau, nhưng rồi họ sẽ dàn hoà ngay thôi
+- đền bù, bồi thường
+
++ to make some damage up to somebody: bồi thường thiệt hại cho ai
+- bổ khuyết, bù, bù đắp
+!to make with
+- (từ lóng) sử dụng
+!to make amends for something
+- (xem) amends
+!to make as if
+!to make as though
+- làm như thể, hành động như thể
+!to make beleive
+- (xem) beleive
+!to make bold to
+- (xem) bold
+!to make both ends meet
+- (xem) meet
+!to make free with
+- tiếp đãi tự nhiên không khách sáo
+!to make friends with
+- (xem) friend
+!to make fun of
+!to make game of
+- đùa cợt, chế nhạo, giễu
+!to make good
+- (xem) good
+!make haste!
+- (xem) haste
+!to make a hash of job
+- (xem) hash
+!to make hay while the sun shines
+- (xem) hay
+!to make head
+- (xem) head
+!to make head against
+- (xem) head
+!to make headway
+- (xem) headway
+!to make oneself at home
+- tự nhiên như ở nhà, không khách sáo
+!to make love to someone
+- (xem) love
+!to make little (light, nothing) of
+- coi thường, coi rẻ, không chú ý đên, không quan tâm đến
+!to make much of
+- (xem) much
+!to make the most of
+- (xem) most
+!to make mountains of molehills
+- (xem) molehill
+!to make one's mark
+- (xem) makr
+!to make merry
+- (xem) merry
+!to make one's mouth water
+- (xem) water
+!to make of mar
+- (xem) mar
+!to make ready
+- chuẩn bị sãn sàng
+!to make room (place) for
+- nhường chổ cho
+!to make sail
+- gương buồm, căng buồm
+!to make oneself scarce
+- lẩn đi, trốn đi
+!to make [a] shift to
+- (xem) shift
+!to make terms with
+- (xem) term
+!to make too much ado about nothing
+- chẳng có chuyện gì cũng làm rối lên
+!to make a tool of someone
+- (xem) tool
+!to make up one's mind
+- (xem) mind
+!to make up for lost time
+- (xem) time
+!to make war on
+- (xem) war
+!to make water
+- (xem) water
+!to make way
+- (xem) way
+!to make way for
+- (xem) way
+
+@make
+- làm, sản xuất; hoàn thành; (kỹ thuật) sự đóng (mạch)
+ @make-believe  
+*  dt
+- sự giả vờ, sự giả cách, sự giả bộ
+*  tt
+- giả, không thật
+
+@make-do
+* dt và tt
+- như makeshift
+ @makefast
+* dt
+- cọc buộc thuyền
+ @make-or-break  
+*  tt
+- một mất một còn, được ăn cả ngã về không
+
+@makepeace  
+*  dt
+- người hoà giải, người dàn xếp
+
+@maker  
+*  dt
+- người làm, người sáng tạo, người tạo ra
+- (Maker) ông tạo, con tạo
+
+@make-ready
+* dt
+- sự điều chỉnh khuôn in
+- sự đúc khuôn chữ
+ @makershift  
+*  dt
+- cái thay thế tạm thời, cái dùng tạm thời
+*  tt
+- dùng tạm thời, thay thế tạm thời
+
+@makeshifness  
+*  dt
+- tính chất để dùng tạm thời, tính chất để thay thế tạm thời
+
+@makeshift
+* dt
+- cái thay thế tạm thời, cái dùng tạm thời
+* tt
+- dùng tạm thời, thay thế tạm thời
+ @makeshiftness
+* dt
+- tính chất thay thế tạm thời
+ @make-up  
+*  dt
+- đồ hoá trang, son phấn (để tô điểm); sự hoá trang
+
++ what a remarkable make-up!: hoá trang đẹp hoá!
+
++ that woman uses too much make-up: bà kia son phấn nhiều quá
+- (ngành in) cách sắp trang
+- cấu tạo, bản chất, tính chất
+
++ to be of generous make-up: bản chất là người hào phóng
+
+@makeweight  
+*  dt
+- vật bù vào cho cân
+- đối trọng
+- người điền trống, vật điền trống (lấp vào chỗ trống); người thêm vào cho đông, vật thêm vào cho nhiều
+
+@making  
+*  dt
+- sự làm, sự chế tạo; cách làm, cách chế tạo
+- sự tiến bộ, sự thành công, sự lớn lên; nguyên nhân tiến bộ, nguyên nhân thành công
+
++ military services can be the making of him: nghĩa vụ trong quân đội có thể là nguyên nhân cho anh ta lớn lên
+- (số nhiều) đức tính, tài năng; yếu tố
+
++ to have the makings of a great writer: có những yếu tố để trở thành một nhà văn lớn
+- (số nhiều) (từ Mỹ,nghĩa Mỹ) giấy và thuốc lá đủ cuốn một điếu
+- mẻ, số lượng làm ra
+!in the making
+- đang hình thành, đang nảy nở, đang phát triển
+
++ a poet in the making: một nhà thơ tài năng đang nảy nở
+
+@malachite  
+*  dt
+- (khoáng chất) Malachit
+
+@malacodermatous
+* tt
+- (thuộc) động vật thân mềm
+ @malacological  
+*  tt
+- (thuộc) khoa nghiên cứu động vật thân mềm
+
+@malacologist  
+*  dt
+- nhà nghiên cứu động vật thân mềm
+
+@malacology  
+*  dt
+- khoa nghiên cứu động vật thân mềm
+
+@malacostracan
+* dt
+- phân lớp thân giáp cao
+* tt
+- (thuộc) phân lớp thân giáp cao
+ @maladapt
+* ngdgt
+- làm cho không thích nghi
+ @maladapted
+* tt
+- không thích nghi tốt
+- điều chỉnh sai; không ăn khớp
+ @maladaptive
+* tt
+- thích nghi không tốt
+ @maladjusted
+* tt
+- điều chỉnh sai không ăn khớp
+@maladjustment  
+*  dt
+- sự lắp sai; sự thích nghi sai
+
+@maladminister  
+*  ngdgt
+- cai trị xấu, quản lý tồi
+
+@maladministration  
+*  dt
+- sự cai trị xấu, sự quản lý tồi
+
+@maladministrator
+* dt
+- người quản lý kém
+ @maladroit  
+*  tt
+- vụng về, không khôn khéo
+
+@maladroitly
+* dt
+- vụng về, không khéo léo
+ @maladroitness  
+*  dt
+- sự vụng về
+
+@malady  
+*  dt
+- bệnh tật
+- (nghĩa bóng) tệ nạn
+
++ social maladies: tệ nạn xã hội
+
+@malaga
+* dt
+- rượu nho Malaga (Tây Ban Nha)
+ @malaise  
+*  dt
+- nỗi khó chịu; tình trạng khó chịu, tình trạng phiền muộn
+
+@malapert  
+*  dt
+- (từ cổ,nghĩa cổ) sự xấc láo, sự vô lễ
+*  tt
+- (từ cổ,nghĩa cổ) xấc láo, vô lễ
+
+@malapportionment
+* dt
+- sự thiếu công bằng trong tỉ lệ phân bố đại biểu các đảng phái ở nghị viện
+ @malapropism  
+*  dt
+- tật hay nói chữ rởm; sự dùng (từ) sai nghĩa một cách buồn cười
+- từ dùng sai nghĩa một cách buồn cười
+
+@malapropos  
+*  tt & dt
+- không thích hợp, không phải lúc, không phải lối, trái mùa
+*  dt
+- việc không đúng lúc, việc không phải lối; lời không đúng lúc, lời không phải lối
+
+@malar  
+*  tt
+- (giải phẫu) (thuộc) má
+*  dt
+- (giải phẫu) xương gò má
+
+@malaria  
+*  dt
+- bệnh sốt rét
+
+@malarial   (malarian) @malarialogist
+* dt
+- người nghiên cứu sốt rét
+ @malarialogy
+* dt
+- khoa nghiên cứu sốt rét
+ @malarian   (malarian) @malarkey
+* dt
+- (thông tục) trò bịp bợm, lời nói bậy
+- (tiếng lóng) lời vô nghĩa, ngu xuẩn
+ @malarky
+- như malarkey
+ @malassimilation
+* dt
+- (ngôn ngữ) sự đồng hoá không hoàn toàn
+ @malawi
+* dt
+- người Malauy (ở Đông Nam Phi châu)
+ @malay  
+*  tt
+- (thuộc) Mã lai
+*  dt
+- người Mã lai
+- tiếng Mã lai
+
+@malayan  
+*  tt
+- (thuộc) Mã lai
+*  dt
+- người Mã-lai
+
+@malconformation
+* dt
+- sự không cân đối @malcontent  
+*  dt
+- người không bằng lòng, người bất tỉnh
+
+@malcontentedness  
+*  dt
+- sự không bằng lòng, sự bất tỉnh
+
+@maldeveloped
+* tt
+- phát triển dị dạng
+ @maldevelopment
+* dt
+- sự phát triển dị dạng
+ @maldistributed
+* tt
+- phân phối không công bằng (tài sản)
+ @maldistribution
+* dt
+- sự phân phối không công bằng (tài sản)
+ @male  
+*  tt
+- trai, đực, trống
+
++ male friend: bạn trai
+
++ male dog: chó đực
+
++ male pigeon: chim bồ câu trống
+
++ male chauvinist: người đàn ông chống bình quyền nam nữ
+- mạnh mẽ, trai tráng
+*  dt
+- con trai, đàn ông; con đực, con trống
+
+@malediction  
+*  dt
+- lời chửi rủa, lời nguyền rủa
+
+@maledictive   (maledictory) @maledictory   (maledictory) @malefaction  
+*  dt
+- điều ác, điều hiểm ác hành động bất lương, hành động gian tà
+
+@malefactor  
+*  dt
+- người làm điều ác, kẻ bất lương, kẻ gian tà
+
+@malefactress  
+*  dt
+- người đàn bà làm điều ác, con mụ bất lương, con mụ gian tà
+
+@malefic  
+*  tt
+- gây ảnh hưởng xấu, làm điều xấu; có hại
+
+@maleficence  
+*  dt
+- tính ác, tính hiểm ác; ác tâm, ác ý
+
+@maleficent  
+*  tt
+- hay làm hại; ác, hiểm ác
+
+@maleness  
+*  dt
+- tính chất con trai, tính chất đàn ông; tính chất đực
+
+@malentendu
+* dt
+- sự hiểu lầm
+* tt
+- hiểu lầm
+ @malevolence  
+*  dt
+- ác tâm, ác ý
+
+@malevolent  
+*  tt
+- xấu bụng, ác, hiểm ác
+
+@malevolently
+* dt
+- xem malevolent
+ @malfeasance  
+*  dt
+- (pháp lý) hành động phi pháp, hành động bất lương
+
+@malfeasant  
+*  tt
+- (pháp lý) phi pháp, bất lương, phạm tội ác
+*  dt
+- (pháp lý) kẻ phi pháp, kẻ bất lương, kẻ phạm tội ác
+
+@malformation  
+*  dt
+- tật
+
+@malformed
+* tt
+- xấu xí, dị hình
+ @malfunction
+* dt
+- sự chạy, trục trặc
+ @malic  
+*  tt
+- (hoá học) Malic
+
++ malic acid: axit Malic
+
+@malice  
+*  dt
+- tính hiểm độc, ác tâm
+
+@malicious  
+*  tt
+- hiểm độc, có ác tâm
+- có hiềm thù
+
+@maliciously
+* dt
+- xem malicious
+ @maliciousness  
+*  dt
+- tính hiểm độc, ác tâm
+
+@malign  
+*  tt
+- độc ác, thâm hiểm
+- (y học) ác tính
+*  ngdgt
+- nói xấu, phỉ báng, vu khống
+
+@malignance   (malignancy) @malignancy   (malignancy) @malignant  
+*  tt
+- thích làm điều ác, có ác tâm; hiểm; độc ác
+- (y học) ác tính
+
++ malignant fever: sốt ác tính
+
+@malignantly
+* dt
+- xem malignant
+ @malignity  
+*  dt
+- tính ác, tính thâm hiểm; lòng hiểm độc, ác tâm
+- điều ác, điều độc ác
+- (y học) ác tính
+
+@maline
+* dt
+- đăng ten malin
+ @malinger  
+*  ndgt
+- giả ốm để trốn việc
+
+@malingerer  
+*  dt
+- người giả ốm để trốn việc
+
+@malinke
+* dt
+- người Malincơ; ngôn ngữ Malincơ (ở Tây Phi)
+ @malison
+* dt
+- lời nguyền rủa; lời phỉ báng
+ @malkin  
+*  dt
+- người đàn bà nhếch nhác
+- bù nhìn (để đuổi chim)
+- gậy quấn giẻ (để chùi lò bánh)
+- con mèo; con thỏ rừng
+
+@mall
+* dt
+- búa nặng, búa tạ
+- phố buôn bán lớn
+- cuộc đi dạo nơi nhiều bóng mát
+- nơi bóng mát để đi dạo
+ @mallard  
+*  dt
+- (động vật học) vịt trời
+- thịt vịt trời
+
+@malleability   (malleableness) @malleability
+- (vật lí) tính dễ rền
+ @malleable  
+*  tt
+- dễ dát mỏng, dễ uốn
+- (nghĩa bóng) dễ bảo
+
+@Malleable capital
+- (Econ) Vốn uyển chuyển
+: Là một giả định về bản chất của vốn hiện vật thường sử dụng trong kinh tê học cổ điển, theo đó các vật liêu hình thành nên một cỗ máy cụ thể có thể được thay đổi ngay lập tức và không hề tốn kém thành một cỗ máy khác.
+ @malleableness   (malleableness) @malleably
+* dt
+- xem malleable
+ @malleate
+* dtgoại đông từ
+- rèn, dát mỏng, dàn phẳng
+ @malleation
+* dt
+- sự rèn, sự dát mỏng, sự dàn phẳng
+ @mallet  
+*  dt
+- cái vồ
+
+@malleus  
+*  dt
+- (giải phẫu) xương búa (ở tai)
+
+@mallow  
+*  dt
+- (thực vật học) cây cẩm quỳ
+
+@malm  
+*  dt
+- (khoáng chất) đá vôi mềm
+- gạch (làm bằng) đá vôi mềm
+
+@malm-brick
+* dt
+- gạch vàng
+ @malmsey
+* dt
+- loại rượu ngọt và mạnh
+ @malm-stone
+* dt
+- cát kết
+ @malnourished
+* tt
+- bị suy dinh dưỡng; thiếu ăn
+ @malnutrition  
+*  dt
+- sự kém dinh dưỡng, sự thiếu ăn
+
+@malodorant
+* tt
+- hôi thối
+ @malodorous  
+*  tt
+- hôi, nặng mùi
+
+@malodorously
+* dt
+- xem malodorous
+ @malodorousness  
+*  dt
+- mùi hôi
+- sự nặng mùi
+
+@malodour  
+*  dt
+- mùi hôi, mùi nặng
+
+@malpighiaceous
+* dt
+- họ măng rô
+ @malpractice  
+*  dt
+- hành động xấu, hành động bất chính, việc làm phi pháp
+- (y học) sự sơ xuất (trong khi chữa bệnh); sự cho thuốc sai
+- (pháp lý) sự làm dụng địa vị
+
+@malpractitioner
+* dt
+- người có hành động phi pháp
+ @malt  
+*  dt
+- mạch nha
+*  tt
+- có mạch nha; làm bằng mạch nha
+*  dgt
+- gây mạch nha, ủ mạch nha
+
+@maltase  
+*  dt
+- (hoá học) (sinh vật học) Mantaza
+
+@maltese
+* dt
+- người Mantơ
+* tt
+- (thuộc) xứ Mantơ
+ @malt-house  
+*  dt
+- xưởng gây mạch nha
+
+@Malthus, Rev. Thomas Robert
+- (Econ) (1766-1834).
+: Malthus là một mục sư và cũng là một giáo sư môn lịch sử hiện đại và kinh tế chính trị (là người đầu tiên được cấp danh hiệu này tại Anh). Tuy nhiên, ông cũng có những đóng góp cho việc phân tích tiền tệ và cho học thuyết về tình trạng dư thừa và tham gia và một cuộc tranh luận nổi tiếng với người bạn của ông lad Ricardo, Ông được biết đến nhiều nhất với tư tưởng là tác giả của Tiểu luận về nguyên tác dân số (1798). Trong tác phẩm nay, ông thách thức quan điểm truyền thống của các nhà kinh tế học dân số cho rằng dân số đông và ngỳ càng gia tăng đông nghĩa với sự giàu có và ông lập luân rằng dân số sẽ tăng lên cho đến khi đạt tới mức ràng buộc về cung cấp lương thực. Ông cho rằng dân số có xu hướng gia tăng theo cấp số nhân và nguồn lương thực lại tăng theo cấp số cộng. Sự tăng dân số có thể được kìm hãm hoặc là một cách tích cực (nghĩa là qua số tử vong tăng lên) thông qua những hình thức như chiến tranh, bệnh dịch … hoặc một cách tiêu cực (nghĩa là qua việc sinh đẻ ít đi) thông qua các hình thức như hạn chế bằng đạo đức, kết hôn muộn… Học thuyết này của Malthus về tiền lương đặt ra một mức lương không thay đổi ở một mức tồn tại. Trái với dự đoán của ông, cả dân số và mức lương đều có xu hướng gia tăng ở các nước công nghiệp phát triển; sở dĩ như vậy là do tiến bộ khoa học kỹ thuật, mà Malthus đã đánh giá thấp vai trò của nó đối với việc quản giảm tỷ lệ sinh đẻ khi thu nhập tăng và đối với việc khai thác các vùng đất mới. Nỗi ám ảnh về vấn của Malthus cho đến nay vẫn còn tồn tại ở các nước chậm phát triển khi họ muốn nhập khẩu các loại thuốc mà đã đem lại cho nước công nghiệp phát triển những tỷ lệ tử vong tương ứng với các tỷ lệ sinh đẻ của nước đang phát triển. Vấn đề này cũng được một số nhà sinh thaí học đưa ra trên phạm vi toàn cầu khi họ cần tiên đoán rằn dân số và sản lượng công nghiệp tăng sẽ khiến cho thế giới bị cạn kiệt các nguồn tài nguyên.
+ @malthusian  
+*  dt
+- người theo thuyết Man-tuýt
+
+@malthusianism  
+*  dt
+- thuyết Man-tuýt
+
+@Malthus's law of population
+- (Econ) Quy luật dân số của Malthus.
+: Xem IRON LAW OF WAGE.
+ @malting  
+*  dt
+- cách gây mạch nha; sự gây mạch nha
+
+@maltose  
+*  dt
+- (hoá học) Mantoza
+
+@maltreat  
+*  ngdgt
+- ngược đâi, bạc đãi, hành hạ
+
+@maltreater  
+*  dt
+- người ngược đâi, người bạc đãi, người hành hạ
+
+@maltreatment  
+*  dt
+- sự ngược đâi, sự bạc đãi, sự hành hạ
+
+@malty
+* tt
+- có mạch nha; bằng mạch nha
+ @malvaceous  
+*  tt
+- (thực vật học) (thuộc) họ bông
+
+@malversation  
+*  dt
+- sự tham ô, sự ăn hối lộ
+
+@mama  
+*  dt: (mama) @mamba
+* dt
+- rắn độc ở châu Phi
+ @mambo
+* dt
+- điệu nhảy giống rumba
+ @mamelon  
+*  dt
+- gò đất, mô đất, nằm đất
+
+@mamilla   (mamillae) @mamillae   (mamillae) @mamillary  
+*  tt
+- hình núm vú
+
+@mamma  
+*  dt: (mama) @mammae  
+*  dt: (mama) @mammal  
+*  dt
+- (động vật học) loài thú, loài động vật có vú
+
+@mammalian  
+*  tt
+- (thuộc) thú, (thuộc) loài động vật có vú
+*  dt
+- loài thú, loài động vật có vú
+
+@mammaliferous  
+*  tt
+- (địa lý,ddịa chất) có vết tích của loài thú
+
+@mammalogical
+* tt
+- (thuộc) khoa nghiên cứu động vật có vú
+ @mammalogist  
+*  dt
+- nhà nghiên cứu về thú
+
+@mammalogy  
+*  dt
+- môn động vật có vú
+
+@mammaplasty
+* dt
+- sự tạo hình vú
+ @mammary  
+*  tt
+- (thuộc) vú
+
+@mammer
+* ngdgt
+- làm cho hoảng hốt
+* ndgt
+- phân vân, do dự
+ @mammiferous  
+*  tt
+- có vú
+
+@mammiform
+* tt
+- hình vú
+ @mammilla   (mamillae) @mammillary  
+*  tt
+- hình núm vú
+
+@mammock
+* dt
+- tầng, cục, hòn
+ @mammogen
+* dt
+- yếu tố kích thích vú
+ @mammogenic
+* tt
+- (thuộc) yếu tố kích thích vú
+ @mammogram
+* dt
+- ảnh của những khối u ở ngực qua tia X
+ @mammographic
+* tt
+- (thuộc) cách chụp tia X vú
+ @mammography
+* dt
+- (y học) cách chụp tia X vú
+ @mammon  
+*  dt
+- sự phú quý; tiền tài
+
++ to worship the mammon: tôn thờ đồng tiền, sùng bái tiền tài
+
++ the mammon of unrighteousness: của phù vân
+
+@mammonism  
+*  dt
+- sự mải mê làm giàu
+- sự tôn thờ đồng tiền
+
+@mammonist
+* tt
+- sùng bái đồng tiền; ham của cải
+* dt
+- người ham của cải; người ham làm giàu
+ @mammoplasty
+* dt
+- (y học) thuật tạo hình vú
+ @mammoth  
+*  dt
+- voi cổ, voi mamut
+*  tt
+- to lớn, khổng lồ
+
+@mammy  
+*  dt
+- uây khyếm mẹ
+- (từ Mỹ,nghĩa Mỹ) vú em người da đen
+
+@man  
+*  dt,  số nhiều men  @man on horseback  
+*  dt
+- nhà quân phiệt độc tài tự cho mình là anh hùng cứu nước
+
+@manacle  
+*  dt,  (thường) số nhiều
+- khoá tay, xiềng, cùm ((nghĩa đen) & (nghĩa bóng))
+*  ngdgt
+- khoá tay lại
+- (nghĩa bóng) giữ lại, ngăn lại
+
+@manage  
+*  ngdgt
+- quản lý, trông nom
+
++ to manage a bank: quản lý một nhà ngân hàng
+
++ to manage a household: trông nom công việc gia đình
+- chế ngự, kiềm chế; điều khiển, sai khiến, dạy dỗ, dạy bảo
+
++ I cannot manage that horse: tôi không thể nào chế ngự nổi con ngựa kia
+
++ a child very difficult to manage: một đứa trẻ khó dạy (bảo)
+- thoát khỏi, gỡ khỏi; xoay xở được, giải quyết được
+
++ how could you manage that bisiness?: anh làm thế nào để có thể giải quyết được vấn đề ấy?
+- dùng, sử dụng
+
++ how do you manage those levers?: anh sử dụng những cái đòn bẫy này thế nào?
+
++ can you manage another bottle?: anh có thể làm thêm một chai nữa không?
+*  ndgt
+- đạt kết quả, đạt mục đích, xoay sở được, tìm được cách
+
++ he knows how to manage: nó biết cách xoay sở, nó biết cách giải quyết
+
+@manage
+- quản lý, lãnh đạo
+ @manageability   (manageability) @manageable  
+*  tt
+- có thể quản lý, có thể trông nom
+- có thể điều khiển, có thể sai khiến
+- dễ cầm, dễ dùng, dễ sử dụng
+
+@manageableness   (manageability) @manageably
+* dt
+- xem manageable
+ @Managed or dirty floating
+- (Econ) Sự thả nổi có quản lý hay không thuần khiết.
+ @management  
+*  dt
+- sự trông nom, sự quản lý
+- sự điều khiển
+- ban quản lý, ban quản đốc
+- sự khôn khéo, sự khéo xử; mánh lới
+
+@Management
+- (Econ) Ban quản lý.
+: Là những nhân viên trong một hãng có quyền thay mặt cho các chủ sở hữu kiểm soát các hoạt động của hãng.
+ @management
+- sự quản lý, sự lãnh đạo
+ @Management board
+- (Econ) Ban quản lý  @Management buyout
+- (Econ) Thu mua bằng nghiệp vụ quản lý.
+: Là việc ban quản lý thu mua các tài sản của một công ty.
+ @Management science
+- (Econ) Khoa học quản lý.
+: Trong khuôn khổ của việc nghiên cứu doanh nghiệp, môn học này áp dụng các nguyên tắc khoa học nhằm hỗ trợ cho việc đạt được hiệu quả hoạt động trong việc thực hiện các mục tiêu kinh doanh.
+ @manager  
+*  dt
+- người quản lý, quản đốc, giám đốc; người trông nom; người nội trợ
+
+@Manager controlled firm
+- (Econ) Hãng do nhà quản lý kiểm soát.
+: Là một công ty không có một cổ đông hoặc một nhóm cổ đông nào chiếm được tỷ lệ biểu quyết đủ cao để nắm quyền kiểm soát các chính sách của công ty.
+ @manageress  
+*  dt
+- bà quản lý, bà quản đốc, bà giám đốc
+
+@managerial  
+*  tt
+- (thuộc) người quản lý, (thuộc) giám đốc; (thuộc) ban quản trị
+
+@Managerial capitalism
+- (Econ) Chủ nghĩa tư bản thiên về quản lý.
+: Việc tổ chức nền kinh tế thành các tập đoàn lớn, trong đó quyền  định đoạt các nguồn lực nằm trong tay một tầng lớp quản lý có thể xác định được tách biệt khỏi giới chủ sở hữu tài sản và hầu như không chịu sự kiểm soát của họ.
+ @Managerial discretion
+- (Econ) Sự tuỳ tiện trong quản lý.
+: Là khả năng của các nhà quản lý của một công ty thực hiện những mục tiêu mà họ tự thấy là có lợi hơn cho họ.
+ @Managerial revolution
+- (Econ) Cuộc cách mạng quản lý.
+: Là một khái niệm gắn với ý tưởng của Galbraith cho rằng quyền lực kinh tế đã chuyển từ vốn sang chủ sở hữu của các bí quyết kỹ thuật, tức là tầng lớp quản lý.
+ @Managerial slack
+- (Econ) Sự lỏng lẻo trong quản lý.
+: Xem X - EFFICIENCY.
+ @Managerial theories of the firm
+- (Econ) Các học thuyết về hãng thiên về quản lý.
+: Là các học thuyết bắt nguồn từ quan niệm cho rằng CHỦ NGHĨA TƯ BẢN đương thời được đặc trưng bởi sự khống chế trong khu vực sản xuất của các tập đoàn lớn, nơi mà quyền sở hữu và quyền kiểm soát được phân tách rõ ràng giữa các cổ đông và các nhà quản lý.
+ @Managerial utility function
+- (Econ) Hàm thoả dụng trong quản lý.
+: Mối quan hệ này quy định cụ thể những luận chứng mà thứ tự ưu tiên của các nhà quản lý của doanh nghiệp phụ thuộc vào đó.
+ @managerialism
+* dt
+- phong cách quản lý; nghệ thuật quản lý
+ @managership  
+*  dt
+- chức quản lý, chức quản đốc, chức giám đốc
+
+@managing  
+*  tt
+- trông nom, quản lý
+- khéo trông nom, quản lý giỏi, kinh doanh giỏi
+- cẩn thận, tiết kiệm
+
+@Managing director
+- (Econ) Giám đốc điều hành.
+: Là một người được bổ nhiệm là giám đốc một công ty trách nhiệm hữu hạn, có trách nhiệm chính là điều hành các hoạt động hàng ngày của công ty.
+ @managing editor  
+*  dt
+- chủ bút
+
+@man-at-arms  
+*  dt
+- binh sĩ
+- (sử học) kỵ binh (thời Trung cổ)
+
+@manatee  
+*  dt
+- (động vật học) lợn biển
+
+@manchu
+* tt
+- (thuộc) Mãn Châu
+* dt
+- Tiếng Mãn-Châu
+- Người Mãn-châu
+ @manciple  
+*  dt
+- người giữ tiền chợ, người quản lý (ở trường đại học)
+
+@mancunian  
+*  tt
+- (thuộc) Măng-sét-tơ
+*  dt
+- người tỉnh Măng-sét-tơ
+
+@mandala
+* dt
+- hình tròn tượng trưng cho tôn giáo của vũ trụ
+ @mandamus
+* dt
+- chỉ thị của toà án cấp cao với toà án cấp dưới
+ @mandarin  
+*  dt
+- quan lại
+- thủ lĩnh lạc hậu (của một chính đảng)
+- búp bê mặc quần áo Trung quốc biết gật
+- tiếng phổ thông (Trung quốc)
+*  dt: (mandarine) @mandarinate
+* dt
+- chính thể quan liêu; chính trị quan liêu
+- quan chức, địa vị quan chức
+ @mandarine  
+*  dt
+- quan lại
+- thủ lĩnh lạc hậu (của một chính đảng)
+- búp bê mặc quần áo Trung quốc biết gật
+- tiếng phổ thông (Trung quốc)
+*  dt: (mandarine) @mandatary  
+*  dt
+- người được uỷ nhiệm, người được uỷ thác
+- nước uỷ trị
+
+@mandate  
+*  dt
+- lệnh, trát
+- sự uỷ nhiệm, sự uỷ thác
+- sự uỷ mị
+- chỉ thị, yêu cầu (của người bỏ phiếu đối với nghị viên, cho công đoàn viên đối với người đại diện...)
+
+@mandator  
+*  dt
+- người ra lệnh
+- người uỷ nhiệm, người uỷ thác
+
+@mandatorily
+* dt
+- xem mandatory
+ @mandatory  
+*  tt
+- (thuộc) lệnh
+- (thuộc) sự uỷ nhiệm, (thuộc) sự uỷ thác
+
+@man-day  
+*  dt
+- ngày công (của một người)
+
+@mandean
+* dt
+- tiếng Manđê
+- tín đồ phái Manđê (giáo phái ở írăc)
+ @man-density
+* dt
+- mật độ nhân khẩu
+ @mandible  
+*  dt
+- hàm dưới
+
+@mandibular  
+*  tt
+- (thuộc) hàm dưới
+
+@mandingo
+* dt
+- người Manđingo; tiếng Manđingo (Tây Phi)
+ @mandolin   (mandoline) @mandoline   (mandoline) @mandolinist
+* dt
+- người chơi đàn Măng-đô-lin
+ @mandragora
+* dt
+- (thực vật) cây khoai ma (họ cà)
+ @mandrake
+* dt
+- một loài cây độc có quả vàng
+ @mandrel   (mandril) @mandril   (mandril) @mandrill  
+*  dt
+- (động vật học) khỉ dữ (thuộc giống khỉ đầu chó)
+
+@manducate  
+*  ngdgt
+- nhai
+
+@mane  
+*  dt
+- bờm (ngựa, sư tử)
+- (nghĩa bóng) tóc bờm (để dài và cộm lên)
+
+@man-eater  
+*  dt
+- người ăn thịt người, thú ăn thịt người
+
+@man-eating
+* tt
+- ăn thịt người
+- hung ác; tàn ác
+ @maned
+* tt
+- có tóc bờm
+- có bờm (ngựa, sư tử)
+ @manege
+* dt
+- trường dạy cưỡi ngựa
+- thuật cưỡi ngựa
+ @manes  
+*  dt số nhiều
+- vong hồn
+
+@maneuver  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) manoeuvre
+
+@manful  
+*  tt
+- dũng mãnh, táo bạo, can trường; kiên quyết
+
+@manfully
+* dt
+- xem manful
+ @manfulness  
+*  dt
+- tính dũng mãnh, tính táo bạo, tính can trường; tính kiên quyết
+
+@mangan
+- Cách viết khác : mangano 
+ @manganese
+* dt
+- (hoá học) mangan
+ @manganiferous  
+*  tt
+- (hoá học) có mangan
+
+@manganite
+* dt
+- (khoáng chất) manganit
+ @mangano
+- tiền tố
+- như mangan
+ @mange  
+*  dt
+- (thú y học) bệnh lở ghẻ
+
+@mangel   (mangel-wurzel) @mangel-wurzel
+- (thực vật học) củ cải to
+ @manger  
+*  dt
+- máng ăn (ngựa, trâu, bò...)
+!to be a dog in the manger
+- (xem) dog
+
+@mangle  
+*  dt
+- (nghành dệt) máy cán là
+*  ngdgt
+- (nghành dệt) cán là (vải)
+*  ngdgt
+- xé; cắt xơ ra; làm nham nhở, làm sứt sẹo
+- làm hư, làm hỏng, làm xấu đi
+- làm mất hay (bản nhạc, bài thơ... vì chép lại sai); đọc sai, đọc trệch (từ)
+
+@mango  
+*  dt,  số nhiều mangoes  @mangoes
+* dt
+- quả xoài
+- <thực> cây xoài
+ @mangold   (mangel-wurzel) @mangold-wurzel
+
+ @mangonel
+* dt
+- máy bắn đá
+ @mangosteen  
+*  dt
+- (thực vật học) cây măng cụt
+- quả măng cụt
+
+@mangrove  
+*  dt
+- (thực vật học) cây đước
+
+@mangy  
+*  tt
+- ghẻ lở
+- bẩn thỉu, dơ dáy; xơ xác
+
+@manhandle
+* ngdgt
+- cư xử thô bạo
+- khiêng, vác
+ @manhole
+* dt
+- miệng cống; lỗ cống
+ @manhood  
+*  dt
+- nhân cách, nhân tính
+- tuổi trưởng thành
+
++ to reach (arrive at) manhood: đến tuổi trưởng thành
+
++ manhood suffrage: quyền bầu cử cho tất cả những người đàn ông đến tuổi trưởng thành
+- dũng khí, lòng can đảm, tính cương nghị
+- đàn ông (nói chung)
+
++ the whole manhood of the country: toàn thể những người đàn ông của đất nước
+
+@man-hour
+* dt
+- giờ công (công việc do một người làm trong một giờ)
+ @man-hunt
+* dt
+- sự săn lùng những kẻ phạm tội
+ @man-hunter
+* dt
+- người săn lùng những kẻ phạm tội
+ @mania  
+*  dt
+- chứng điên, chứng cuồng
+- tính gàn, tính kỳ quặc
+- tính ham mê, tính nghiện
+
++ to have a mania for moving picture: nghiện phim ảnh
+
+@maniac  
+*  tt
+- điên cuồng
+- gàn, kỳ quặc
+*  dt
+- người điên
+
+@maniacal  
+*  tt
+- điên, cuồng
+
+@maniacally
+* dt
+- xem maniacal
+ @manic
+* tt
+- vui buồn thất thường
+ @manic-depressive
+* tt
+- (y học) rối loạn thần kinh; mắc chứng hưng trầm cảm
+ @manichaean
+- Cách viết khác : Manichean 
+ @manichaeanism
+- Cách viết khác : Manichaeism 
+ @manichaeism
+* dt
+- như Manichaeanism
+ @manichean
+- như Manichaean
+ @manicure  
+*  dt
+- sự cắt sửa móng tay
+- thợ cắt sửa móng tay
+*  ndgt
+- cắt sửa móng tay
+
+@manicurist  
+*  dt
+- thợ cắt sửa móng tay
+
+@manifest  
+*  dt
+- bản kê khai hàng hoá chở trên tàu (để nộp sở thuế quan)
+*  tt
+- rõ ràng, hiển nhiên
+
++ a manifest truth: một sự thật hiển nhiên
+*  ngdgt
+- biểu lộ, biểu thị, bày tỏ, chứng tỏ
+
++ to manifest firm determination to fight to final victory: biểu lộ ý chí kiên quyết chiến đấu cho đến thắng lợi cuối cùng
+- kê khai vào bản kê khai (hàng hoá chở trên tàu)
+*  ndgt
+- hiện ra (ma)
+
+@manifest desting  
+*  dt
+- thuyết bành trướng do định mệnh (của Mỹ)
+
+@manifestable  
+*  tt
+- có thể biểu lộ, có thể biểu thị
+
+@manifestant
+* dt
+- người tham gia biểu tình thị uy
+ @manifestation  
+*  dt
+- sự biểu lộ, sự biểu thị
+- cuộc biểu tình, cuộc thị uy
+- sự hiện hình (hồn ma)
+
+@manifestly
+* dt
+- rõ ràng; hiển nhiên
+ @manifestness
+* dt
+- tính rõ ràng, tính hiển nhiên
+ @manifesto  
+*  dt
+- bản tuyên ngôn
+
++ to issue a manifesto: ra một bản tuyên ngôn
+
+@manifold  
+*  tt
+- rất nhiều; nhiều vẻ
+*  ngdgt
+- in thành nhiều bản
+
+@manifold
+- đa dạng; nhiều hình vẻ, nhiều loại; (hình học) đa tạp
+- m. of class C đa tạp lớp C
+- algebraic m. đa tạp đại số 
+- almost complex m. đa tạp hầu phức
+- analytic m. đa tạp giải thích 
+- closed m. đa tạp đóng
+- combinatorial m. đa tạp tổ hợp 
+- complex m. đa tạp phức 
+- composite m. đa tạp đa hợp
+- covering m. đa tạp phủ
+- differentiable m. đa tạp khả vi
+- doubly covering m. đa tạp phủ kép 
+- elementary m. đa tạp sơ cấp
+- largest covering m. đa tạp phủ phổ dụng
+- linear m. đa tạp tuyến tính
+- non-orientable m. đa tạp không định hướng
+- one-side m. đa tạp một phía
+- oriantable m. đa tạp định hướng được
+- pseudocomplex m. đa tạp giả phức
+- smooth m. đa tạp trơn
+- topological m. đa tạp tôpô
+- two-sided m. đa tạp hai phía
+- unlimited covering m. đa tạp phủ vô hạn 
+ @manifolder
+* dt
+- máy in sao
+- người in sao; người chép sao
+ @maniform
+* tt
+- hình bàn tay
+ @manikin  
+*  dt
+- người lùn
+- người kiểu (bằng thạch cao, chất dẻo... để học giải phẫu, để làm kiểu vẽ, kiểu nặn)
+- người giả (ở hiệu may)
+
+@manila   (Manilla) @manilla   (Manilla) @manioc  
+*  dt
+- (thực vật học) cây sắn
+- bột sắn
+
+@maniple  
+*  dt
+- dải áo thầy dòng (đeo ở tay trái khi làm lễ)
+- (từ cổ,nghĩa cổ) (La-mã) trung đội (gồm từ 60 đến 120 người)
+
+@manipular
+* dt
+- (từ cổ,nghĩa cổ) lính trong trung đội La Mã
+ @manipulate  
+*  ngdgt
+- vận dụng bằng tay, thao tác
+- lôi kéo, vận động (bằng mánh khoé)
+
+@manipulate
+- điều khiển, vận động; thao tác
+ @manipulation  
+*  dt
+- sự vận dụng bằng tay, sự thao tác
+- sự lôi kéo, sự vận động (bằng mánh khoé)
+
+@manipulative  
+*  tt
+- (thuộc) sự vận dụng bằng tay, (thuộc) sự thao tác
+- (thuộc) sự lôi kéo, (thuộc) sự vận động (bằng mánh khoé)
+
+@manipulator  
+*  dt
+- người vận dụng bằng tay, người thao tác
+- người lôi kéo, người vận động (bằng mánh khoé)
+- (kỹ thuật) bộ đảo phôi; tay máy; manip
+
+@manipulator
+- (máy tính) cái khoá bằng tay; cái manip
+ @manipulatory
+* tt
+- xem manipulative
+ @manitou  
+*  dt
+- thần ác; thần thiện (thổ dân Mỹ)
+- vật thần, bùa
+
+@manitu
+- như manitou
+ @man-killer
+* dt
+- đàn bà du đãng làm đàn ông sa ngã
+ @mankind  
+*  dt
+- loài người, nhân loại
+- nam giới, đàn ông (nói chung)
+
+@manlike  
+*  tt
+- như đàn ông; có những tính chất của đàn ông
+
+@manlikeness  
+*  dt
+- tính như đàn ông
+
+@manliness  
+*  dt
+- tính chất đàn ông; đức tính đàn ông; tính hùng dũng, tính mạnh mẽ, tính can đảm, tính kiên cường
+- vẻ đàn ông (đàn bà)
+
+@manly  
+*  tt
+- có tính chất đàn ông; có đức tính đàn ông; hùng dũng, mạnh mẽ, can đảm, kiên cường
+- có vẻ đàn ông (đàn bà)
+- hợp với đàn ông (đồ dùng)
+
+@man-made
+* tt
+- do con người làm ra; nhân tạo
+ @man-made
+- nhân tạo
+ @manna  
+*  dt
+- (kinh thánh) lương thực trời cho
+- (nghĩa bóng) cái tự nhiên được hưởng; lộc thánh
+- dịch tần bì (nước ngọt lấy ở cây tần bì, dùng làm thuốc nhuận tràng)
+
+@mannequin  
+*  dt
+- cô gái mặc áo mẫu chiêu hàng (trong hiệu thợ may)
+- người kiểu
+- người giả
+
+@manner  
+*  dt
+- cách, lối, kiểu
+- in
+*  dt
+- cách, lối, thói, kiểu
+
++ in (after) this manner: theo cách này
+
++ in a manner of speaking: (từ cổ,nghĩa cổ) có thể nói là, có thể cho là
+- dáng, vẻ, bộ dạng, thái độ, cử chỉ
+
++ there is no trace of awkwardness in one's manner: không có một chút gì là vụng về trong thái độ của mình
+- (số nhiều) cách xử sự, cách cư xử
+
++ bad manners: cách xử sự xấu, cách cư xử không lịch sự
+
++ to have no manners: thô lỗ, không lịch sự chút nào
+- (số nhiều) phong tục, tập quán
+
++ according to the manners of the time: theo phong tục của thời bây giờ
+- lối, bút pháp (của một nhà văn, hoạ sĩ...)
+
++ a picture in the manner of Raphael: một bức tranh theo lối Ra-pha-en
+- loại, hạng
+
++ all manner of people: tất cả các hạng người
+!by all manner of mean
+- (xem) means
+!by no manner of means
+- (xem) mean
+!in a manner
+- theo một cách hiểu nào đó; ở mức độ nào đó
+!to the manner born
+- bẩm sinh đã quen (với cái gì, làm gì...)
+
+@manner
+- phương pháp, hình ảnh, tác động
+ @mannered  
+*  tt
+- kiểu cách, cầu kỳ (văn phong)
+
+@mannerism  
+*  dt
+- thói cầu kỳ, thói kiểu cách
+- thói riêng, phong cách riêng, văn phong riêng
+
+@mannerless  
+*  tt
+- thiếu lịch sự, thiếu lễ độ, khiếm nhã
+
+@mannerlessness
+* dt
+- thái độ vô lễ; thái độ khiếm nhã
+ @mannerliness  
+*  dt
+- thái độ lễ phép, thái độ lịch sự; sự lễ đ
+
+@mannerly  
+*  tt & dt
+- lễ phép, lịch sự; lễ đ
+
+@mannikin
+* dt
+- như manikin
+ @mannish  
+*  tt
+- giống đàn ông, như đàn ông (đàn bà)
+- thích hợp với đàn ông; có tính chất đàn ông
+
+@mannishly
+* dt
+- xem mannish
+ @mannishness
+* dt
+- dáng vẻ đàn ông; lối cư xử như đàn ông (chỉ đàn bà)
+ @mannite
+* dt
+- (hoá học) manit
+ @mannitol
+- như mannite
+ @mannose
+* dt
+- (hoá học) mannoza
+ @manoeuvrability
+* dt
+- tính linh hoạt; tính tiện dụng
+ @manoeuvrable
+* tt
+- có thể điều khiển dễ dàng
+
++  a highly maneuvrable aircraft, motorboat:máy bay, xuồng máy dễ điều khiển
+ @manoeuvrably
+* dt
+- xem manoeuvrable
+ @manoeuvre  
+*  dt ((từ Mỹ,nghĩa Mỹ) maneuver)
+- (quân sự); (hàng hải) sự vận động
+- (số nhiều) (quân sự) sự thao diễn, sự diễn tập
+- (nghĩa bóng) thủ đoạn
+*  dgt ((từ Mỹ,nghĩa Mỹ) maneuver)
+- (quân sự) thao diễn, diễn tập
+- vận động (quân đội, đội tàu) theo kế hoạch
+- (nghĩa bóng) dùng thủ đoạn, dùng mưu mẹo (để làm một việc gì)
+
+@man-of-war   (man-o'-war) @Manoilescu argument
+- (Econ) Lập luận Manoilescu.
+: Là một phiên bản, do nhà kinh tế Manoilescu đưa ra, về luận chứng về NGÀNH CÔNG NGHIỆP NON TRẺ, dựa vào nhận định rút ra từ thực tế rằng mức lương trung bình  trong khu vực chế tạo ở một nước chậm phát triển cao hơn mức lương trung bình trong khu vực nông nghiệp mặc dù năng suất lao động có thể như nhau.
+ @manometer  
+*  dt
+- cái đo áp, áp kế
+
+@manometric  
+*  tt
+- (thuộc) đo áp
+
+@manometry
+* dt
+- cách đo áp lực
+ @manor  
+*  dt
+- trang viên, thái ấp
+
+@manorial  
+*  tt
+- (thuộc) trang viên, (thuộc) thái ấp
+
+@manorialism
+* dt
+- chế độ thái ấp
+- chế độ trang viên
+ @manoscopy
+* dt
+- sự đo mật độ khí
+ @man-o'-war   (man-o'-war) @manpower  
+*  dt
+- nhân lực; sức người
+- đơn vị sức người (1 qoành 0 mã lực)
+
+@Manpower policy
+- (Econ) Chính sách về nhân lực.
+: Là một nỗ lực nhằm tăng cường hoạt động của thị trường lao động, và nếu có thể, là sự đánh đổi giữa thất nghiệp và lam phát.
+ @manrope
+* dt
+- dây bảo hiểm
+ @mansard  
+*  dt
+- (kiến trúc) mái hai mảng ((thường) mansard roof)
+
+@manse  
+*  dt
+- (Ê-cốt) nhà (của) mục sư
+
+@manservant  
+*  dt
+- đầy tớ trai
+
+@mansion  
+*  dt
+- lâu đài
+- (số nhiều) khu nhà lớn
+
+@mansion-house  
+*  dt
+- the mansion-house nhà thị trưởng Luân-ddôn
+
+@man-sized  
+*  tt,  (từ Mỹ,nghĩa Mỹ),  (thông tục)
+- vừa cho một người, hợp với một người
+- to lớn
+
+@manslaughter  
+*  dt
+- tội giết người
+- (pháp lý) tội ngộ sát
+
+@manslayer  
+*  dt
+- kẻ giết người
+
+@manslaying  
+*  dt
+- sự giết người
+
+@mansuetude
+* dt
+- sự ôn hoà; thái độ ôn hoà
+ @manta
+* dt
+- (động vật) cá đuối
+- áo choàng không tay của nữ
+ @manta-ray
+* dt
+- (động vật) cá đuối
+ @mantel   (mantelpiece) @mantelet   (mantlet) @mantelletta
+* dt
+- áo choàng ngắn không tay của giáo sĩ
+ @mantelpiece   (mantelpiece) @mantel-shelf
+* dt
+- giá trên lò sưởi
+ @mantes  
+*  dt,  số nhiều mantis  @mantic
+* tt
+- có tính cách tiên tri
+ @mantid
+* dt
+- như mantis
+ @mantilla  
+*  dt
+- khăn vuông, khăn choàng (của phụ nữ Y và Tây-ban-nha)
+- áo khoác ngắn
+
+@mantis  
+*  dt,  số nhiều mantis  @mantissa
+* dt
+- (toán học) phần định trị (logarit)
+ @mantissa
+- phận định trị
+ @mantle  
+*  dt
+- áo khoác, áo choàng không tay
+- (nghĩa bóng) cái che phủ, cái che đậy
+- măng sông đèn
+- (giải phẫu) vỏ nâo, vỏ đại não
+- (động vật học) áo (của động vật thân mềm)
+*  ngdgt
+- choàng, phủ khăn choàng
+- che phủ, che đậy, bao bọc
+*  ndgt
+- sủi bọt, có váng (nước, rượu)
+- xông lên mặt (máu); đỏ ửng lên (mặt)
+
++ face mantled with blushes: mặt đỏ ửng lên
+
++ blushes mantled on one's cheeks: má đỏ ửng lên
+
+@mantle-rock
+* dt
+- lớp đá ở mặt đất bị phong hoá
+ @mantlet   (mantlet) @man-to-man
+* tt
+- một đối một
+- công khai, thẳng thắn
+ @mantra
+* dt
+- câu thần chú cầu thần (ấn Độ giáo,  Phật giáo)
+ @mantrap  
+*  dt
+- cạm, bẫy (để bắt kẻ trộm, kẻ cắp...)
+
+@mantua
+* dt
+- áo ngoài rộng của nữ (thế kỷ) 17, 18
+ @manual  
+*  tt
+- (thuộc) tay; làm bằng tay
+
++ manual labour: lao động chân tay
+
++ manual workers: những người lao động chân tay
+
++ manual exercise: (quân sự) sự tập sử dụng súng
+- (thuộc) sổ tay; (thuộc) sách học
+*  dt
+- sổ tay, sách học
+- phím đàn (pianô...)
+- (quân sự) sự tập sử dụng súng
+
+@manual
+- bằng tay
+ @Manual workers
+- (Econ) Lao động chân tay.
+: Là những nhân viên làm các công việc chân tay và được trả tiền công theo tuần.
+ @manualism
+* dt
+- môn học dùng cử chỉ bàn tay thay chữ cái
+ @manually
+* dt
+- (manually operated) được điều khiển bằng tay
+* dt
+- (manually operated) được điều khiển bằng tay
+ @manubria
+- số nhiều của manubrium
+ @manubrium
+* dt
+- số nhiều là manubria
+- chuôi ức
+- (động vật) thùy miệng (ở sứa)
+- tế bào chuôi (làm thành túi đực của tảo vòng)
+ @manufactory  
+*  dt
+- xí nghiệp
+
+@manufacturable
+* tt
+- có thể sản xuất; có thể chế tạo
+ @manufacture  
+*  dt
+- sự chế tạo, sự sản xuất
+
++ of Vietnam manufacture: do Việt-nam sản xuất
+- công nghiệp
+
++ the cotton manufacture: ngành công nghiệp dệt, ngành 
+dệt
+
+@manufacturer  
+*  dt
+- người chế tạo, người sản xuất
+- nhà công nghiệp; chủ xí nghiệp, chủ xưởng
+
+@manufactures
+- sự sản xuất; sự gia công; sự xử lý   sản xuất; gia công
+@manufactures
+- sản phẩm, vật chế tạo
+ @manufacturing
+* dt
+- sự sản xuất; sự chế tạo
+ @manufacturing-oriented
+* tt
+- hướng về sản xuất
+ @manuka
+* dt
+- Gỗ manuca
+ @manumission  
+*  dt
+- sự giải phóng (nô lệ)
+
+@manumit  
+*  ngdgt
+- (sử học) giải phóng (nô lệ)
+
+@manumitter
+* dt
+- người giải phóng nô lệ
+ @manure  
+*  dt
+- phân bón
+*  ngdgt
+- bón phân
+
+@manus
+* dt
+- bàn tay (người)
+- chân trước (động vật)
+ @manuscript  
+*  dt
+- bản viết tay; bản thảo, bản đưa in (của tác giả)
+!in manuscript
+- chưa in
+
++ poems still in manuscript: những bài thơ chưa in
+*  tt
+- viết tay
+
+@many  
+*  tt more; most
+- nhiều, lắm
+
++ many people think so: nhiều người nghĩ như vậy
+!many a
+- hơn một, nhiều
+
++ many a time: nhiều lần
+
++ many a man think so: nhiều người nghĩ như vậy
+!for many a long day
+- trong một thời gian dài
+!to be one too many
+- thừa
+!to be one too many for
+- mạnh hơn, tài hơn, không ai dịch được
+*  dt
+- nhiều, nhiều cái, nhiều người
+!the many
+- số đông, quần chúng
+
++ in capitalist countries the many have to labour for the few: trong các nước tư bản số đông phải lao động cho một thiểu s
+
+@many
+- nhiều as m. as cũng nhiều như; no so m. as không nhiều bằng; the
+- m. đại bộ phận 
+ @man-year  
+*  dt
+- năm công (của một người)
+
+@manyfold  
+*  tt
+- rất nhiều, nhiều vẻ
+*  dt
+- gấp bội
+
+@many-headed  
+*  tt
+- có nhiều đầu
+- nhuội thuộc) quần chúng
+
+@many-sided  
+*  tt
+- nhiều mặt, nhiều phía
+
+@many-stage
+- nhiều bước, nhiều giai đoạn
+ @many-valued
+- đa trị
+ @maoism
+* dt
+- chủ nghĩa cộng sản của Mao Trạch Đông
+ @maoist
+* dt
+- người theo chủ nghĩa cộng sản của Mao Trạch Đông
+ @maori
+* dt
+- tiếng Maori
+- người Maori (ở Niu Dilân)
+ @map  
+*  dt
+- bản đồ
+- (toán học) bản đồ; ảnh tượng
+- (từ lóng) mặt
+!off the map
+- (thông tục) không quan trọng
+- (thông tục) lỗi thời
+- (từ lóng) biến mất
+!in the map
+- (thông tục) quan trọng có tiếng
+- nóng hổi, có tính chất thời sự (vấn đề...)
+*  ngdgt
+- vẽ lên bản đồ
+- sắp xếp, sắp đặt, vạch ra
+
++ to map out one's time: sắp xếp thời gian
+
++ to map out a strategy: vạch ra một chiến lược
+
+@map
+- xạ ảnh; bản đồ; bản phương án
+- m. into ánh xạ vào
+- m. onto ánh xạ lên
+- a m. of the set A into B ánh xạ của tập hợp A vào B
+- canonical m. ánh xạ chính tắc
+- classifying m. ánh xạ phana loại
+- conformal m. ánh xạ bảo giác
+- constant m. ánh xạ không đổi 
+- contiguous m. ánh xạ tiếp lên
+- continuous m. ánh xạ liên tục
+- contous m. phươgn án các đường nằm ngang
+- equivariant m. ánh xạ đẳng biến 
+- evaluation m. ánh xạ định giá 
+- excission m. ánh xạ cắt 
+- fibre m. ánh xạ phân thớ, ánh xạ các không gian phân thớ 
+- geographic(al) m. bản đồ địa lý 
+- identification m. ánh xạ đồng nhất hoá
+- inclusion m. phép nhúng chìm, ánh xạ nhúng chìm
+- inessentical m. ánh xạ không cốt yếu 
+- interior m. ánh xạ trong
+- involutory m. ánh xạ đối hợp
+- light m. ánh xạ chuẩn gián đoạn (khắp nơi có các điểm gián đoạn)
+- lowering m. anh xạ hạ thấp
+- regular m. ánh xạ chính quy
+- shrinking m. ánh xạ co rút
+- simplicial m. ánh xạ đơn hình
+- tensor m. ánh xạ tenxơ 
+ @mapi
+- Sự bộ sung của Microsoft về một giao diện chương trình ứng dụng để thâm nhập vào các dịch vụ báo tin cho những người lập trình MAPI phiên bản 3 2 cung cấp các tiền năng cho những người lập trình đối với việc đưa tin cross-platform (từ nền máy này sang nền máy khác), không phụ thuộc vào hệ điều hành và phần cứng cơ sở, đồng thời làm cho các trình ứng dụng nhận biết được thư tín MAPI có thể trao đổi tin tức thông báo với các chương trình VIM
+ @maple  
+*  dt
+- (thực vật học) cây thích
+- gỗ thích
+
+@mapless
+* tt
+- không có bản đồ
+ @mapmaker
+* dt
+- người vẽ bản đồ; người lập bản đồ
+ @mapmaking
+* dt
+- việc vẽ bản đồ; việc lập bản đồ
+ @mappable
+* tt
+- có thể vẽ thành bản đồ
+ @mapped
+- được ánh xạ
+ @mapping  
+*  dt
+- bản vẽ, bản đồ
+- sự sắp xếp, sự sắp đặt, sự vạch ra (chiến lược...)
+- (toán học) phép ánh xạ
+
+@mapping
+- ánh xạ m. into ánh xạ vào; m. onto ánh xạ lên
+- m. of a set into another ánh xạ một tập hợp này vào một tập hợp khác
+- m. of a set onto another ánh xạ một tập hợp này lên một tập hợp khác 
+- affine m. ánh xạ afin
+- analytic m. ánh xạ giải tích
+- bicontinuous m. ánh xạ song liên tục
+- chain m. ánh xạ dây chuyền
+- closed m. ánh xạ đóng
+- conformal l. ánh xạ bảo giác
+- diferentiable m. ánh xạ khả vi
+- epimorphic m. ánh xạ toàn hình
+- equiareal m. ánh xạ bảo toàn diện tích
+- homomorphous m. ánh xạ đồng cấu
+- homotopic cjain m. ánh xạ dây chuyền đồng luân
+- identity m. ánh xạ đồng nhất
+- interior m. (giải tích) ánh xạ trong
+- inverse m. ánh xạ ngược
+- isometric m. ánh xạ đẳng cực
+- isotonic m. (đại số) ánh xạ bảo toàn thứ tự 
+- light m. (tô pô) ánh xạ thuần gián đoạn 
+- linear m. ánh xạ tuyến tính
+- meromorphic m. (đại số) ánh xạ phân hình
+- monomorphic m. (đại số) ánh xạ đơn cấu
+- monotone m. (giải tích) ánh xạ đơn điệu
+- non-alternating m. ánh xạ không thay phiên
+- norm-preserving m. (giải tích) ánh xạ bảo toàn chuẩn
+- one-to-one m. ánh xạ [một - một, hai chiều]
+- open m. (giải tích) ánh xạ mở
+- perturbation m. (giải tích) ánh xạ lệch
+- preclosed m. ánh xạ tiền đóng
+- pseudoconformal m. ánh xạ giả bao giác
+- quasi-conformal m. ánh xạ tựa bảo giác
+- quasi-open m. (tô pô) ánh xạ tựa mở
+- rational m. hh(đại số) ánh xạ hữu tỷ
+- sense-preserving m. (giải tích) ánh xạ bảo toàn chiều
+- slit m. ánh xạ lên miền có lát cắt trong
+- starlike (giải tích) ánh xạ hình sao
+- symplectic m. ánh xạ ximplectic ánh xạ đối ngẫu
+- topological m. ánh xạ tô pô
+- univalent m. ánh xạ đơn diệp
+ @mapreader
+- người đọc bản đồ
+ @maquette
+* dt
+- mô hình (của nhà điêu khắc)
+ @maquillage
+* dt
+- đồ hoá trang
+- sự hoá trang
+ @maquis
+* dt
+- đội viên du kích (của Pháp trong đại chiến thế giới II)
+- tổ chức du kích
+- vùng du kích
+- rừng cây bụi
+ @maquisard
+* dt
+- đội viên du kích Pháp (trong đại chiến thế giới II)
+ @mar  
+*  ngdgt
+- làm hư, làm hỏng, làm hại
+
++ to make or mar: một là làm cho thành công, hai là làm cho thất bại
+
+@marabou  
+*  dt
+- (động vật học) cò già
+- lông cò già (để trang sức mũ...)
+
+@marabout  
+*  dt
+- thầy tu Hồi giáo
+- mộ của thầy tu Hồi giáo
+
+@maraboutism
+* dt
+- sự tôn thờ đạo sĩ (Hồi giáo)
+ @maraschino  
+*  dt
+- rượu anh đào dại
+
+@marasmic  
+*  tt
+- (thuộc) tình trạng gầy mòn, (thuộc) tình trạng tiều tuỵ, (thuộc) tình trạng suy nhược; bị gầy mòn, bị suy nhược
+
+@marasmus  
+*  dt
+- tình trạng gầy mòn, tình trạng tiều tuỵ, tình trạng suy nhược
+
+@maratha
+* dt
+- người ở xứ Maratha (Trung ấn Độ)
+ @marathi
+* dt
+- ngôn ngữ Maratha
+ @marathon  
+*  dt
+- (thể dục,thể thao) cuộc chạy đua maratông ((cũng) marathon race)
+!marathon teach-in
+- một cuộc hội thảo trường k
+
+@marathoner  
+*  dt
+- (thể dục,thể thao) người chạy đua maratông
+
+@maraud  
+*  dgt
+- cướp bóc
+
+@marauder  
+*  dt
+- kẻ cướp
+
+@marauding  
+*  tt
+- cướp bóc
+
++ a marauding raid: cuộc đột kích để cướp bóc
+
+@marble  
+*  dt
+- đá hoa, cẩm thạch
+- (số nhiều) hòn bi
+
++ a game of marbles: một ván bí
+- (số nhiều) (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự hiểu lý lẽ
+- (định ngữ) bằng cẩm thạch; như cẩm thạch
+*  ngdgt
+- làm cho có vân cẩm thạch
+
++ a book with marbled efges: sách mép có vân cẩm thạch
+
+@marbled
+* tt
+- (nói về thịt) có lẫn mỡ
+- có vân cẩm thạch
+ @marbleize
+* ngdgt
+- phủ cẩm thạch; phủ đá hoa
+ @marble-topped
+* tt
+- phủ cẩm thạch
+ @marbling  
+*  dt
+- vân đá, vân cẩm thạch
+
+@marbly  
+*  tt
+- như cẩm thạch, có vân như cẩm thạch
+
+@marc  
+*  dt
+- bã nho
+- rượu bạc nho, rượu mác
+
+@marcasite  
+*  dt
+- (khoáng chất) Maccazit
+
+@marcasitical
+* tt
+- (thuộc) maccazit
+ @marcel  
+*  dt
+- làn sóng tóc
+*  ngdgt
+- uốn làn sóng (tóc)
+
+@marcescence  
+*  dt
+- tình trạng tàn úa, tình trạng héo úa
+
+@marcescent  
+*  tt
+- tàn úa, héo úa
+
+@march  
+*  dt
+- March tháng ba
+- (quân sự) cuộc hành quân; chặng đường hành quân (trong một thời gian...); bước đi (hành quân)
+
++ a line of march: đường hành quân
+
++ to be on the march: đang hành quân
+
++ a day's march: chặng đường hành quân trong một ngày
+
++ a march past: cuộc điều hành qua
+- (nghĩa bóng) sự tiến triển, sự trôi đi
+
++ the march of events: sự tiến triển của sự việc
+
++ the march of time: sự trôi đi của thời gian
+- hành khúc, khúc quân hành
+*  ngdgt
+- cho (quân đội...) diễu hành
+- đưa đi, bắt đi
+
++ the policemen march the arrested man off: công an đưa người bị bắt đi
+*  ndgt
+- đi, bước đều; diễu hành
+- (quân sự) hành quân
+!to march off
+- bước đi, bỏ đi
+!to march out
+- bước đi, đi ra
+!to march past
+- diễu hành qua
+*  dt
+- bờ cõi, biên giới biên thuỳ
+*  ndgt
+- giáp giới, ở sát bờ cõi, ở tiếp biên giới
+
++  Vietnam marches with China: Việt-nam giáp giới với Trungquốc
+
+@marcher
+* dt
+- người ở vùng biên giới
+* dtgười diễu hành; người tuần hành
+
++  democracy marchers:những người tuần hành đòi dân chủ
+ @marches
+* dt
+- biên giới lịch sử giữa Anh và Xcốtlen
+ @marchesa
+* dt
+- số nhiều là marchese
+- hầu tước phu nhân
+- nữ hầu tước
+ @marchese
+* dt
+- số nhiều của marchesa
+ @marchioness  
+*  dt
+- bà hầu tước
+
+@marchland
+* dt
+- vùng biên giới
+ @marchpane   (marzipan) @marconi   (marconigram) @marconigram   (marconigram) @marconigraph
+* dt
+- máy đánh điện bằng rađiô
+ @marcot
+* dt
+- cành chiết
+ @marcotting
+* dt
+- sự chiết cành
+ @mare  
+*  dt
+- ngựa cái
+
+@maremma  
+*  dt
+- đồng lầy ven biển
+
+@mareograph
+* dt
+- thuỷ triều ký
+ @mare's nest  
+*  dt
+- phát minh hão huyền
+- tình trạng lộn xộn rối beng
+- nơi bừa bộn lộn xộn
+
+@margarine  
+*  dt
+- macgarin ((cũng) marge)
+
+@margarite
+* dt
+- trân châu
+ @margaritic
+* tt
+- (thuộc) trân châu
+ @margay  
+*  dt
+- (động vật học) mèo rừng
+
+@marge  
+*  dt
+- (thơ ca) mép, bờ, lề
+*  dt
+- (thực vật học) macgarin ((cũng) margarine)
+
+@margin  
+*  dt
+- mép, bờ, lề
+
++ on the margin of a lake: trên bờ hồ
+
++ in the margin of the page: ở lề trang sách
+- số dư, số dự trữ
+
++ a margin of 600d: một số tiền dự trữ 600 đồng
+- giới hạn
+- (thương nghiệp) lề (số chênh lệch giữa giá vốn và giá bán)
+!to escape death by a narrow margin
+- suýt chết
+
+@margin
+- bờ, biên, giới hạn, cận; lượng dữ trữ
+- m. of safety hệ số an toàn 
+ @Margin, at the
+- (Econ) tại biên
+: Trong kinh tế học, tại biên có nghĩa là tại điểm mà đơn vị sản phẩm cuối cùng được sản xuất hoặc tiêu thụ.
+ @Margin requirement
+- (Econ) Yêu cầu về mức chênh lệch.
+: Là tỷ lệ giá trị thị trường của 1 chứng khoán mà người mua có thể vay được khi mua chứng khoán đó.
+ @marginal  
+*  tt
+- (thuộc) mép, ở mép, ở bờ, ở lề
+
++ marginal notes: những lời ghi chú ở lề
+- sát giới hạn
+- khó trồng trọt, trồng trọt không có lợi (đất đai)
+
+@Marginal
+- (Econ) Cận biên, gia lượng.
+: Một đơn vị biên là đơn vị tăng thên\m của một cái gì đó, chẳng hạn như với CHI PHÍ BIÊN, ĐỘ THOẢ DỤNG BIÊN..
+ @marginal
+- biên duyên
+ @Marginal analysis
+- (Econ) Phân tích cận biên.
+: Xem NEO - CLASSICAL ECONOMICS
+ @Marginal cost
+- (Econ) Chi phí cận biên.
+: Là chi phí tăng thêm cho việc sản xuất thêm một đơn vị sản lượng.
+ @Marginal cost of funds schedule
+- (Econ) Biểu đồ chi phí cận biên của vốn.
+: Là biểu đồ xác định chi tiết chi phí thực sự của vốn tài chính của doanh nghiệp.
+ @Marginal cost of labor
+- (Econ) Chi phí cận biên cho lao động.
+ @Marginal cost pricing
+- (Econ) Định giá theo chi phí cận biên.
+: Là một phương pháp định giá của các hãng tư nhân hoặc các công ty nhà nước theo đó được xác định bằng chi phí biên.
+ @Marginal damage cost
+- (Econ) Chi phí thiệt hại cận biên.
+: Là chi phí tăng thêm cho một thiệt hại phát sinh, thường do ô nhiễm gây ra, từ một đơn vị tăng thêm của hoạt động gây hại.
+ @Marginal disutility
+- (Econ) Độ phi thoả dụng cận biên.
+: Là độ phi thoả dụng tăng thêm phát sinh từ một thay đổi nhỏ trong một biến số nào đó.
+ @Marginal efficiency of capital
+- (Econ) Hiệu suất cận biên của vốn.
+: Là TỶ LỆ CHIẾT KHẤU độc nhất có thể khiến cho giá trị hiện tại của lợi ích ròng dự kiến từ một tài sản vốn bằng đúng với giá cung cấp nó khi giá cung cấp tài sản đó không hề tăng.
+ @Marginal efficiency of capital schedule
+- (Econ) Biểu đồ hiệu suất biên của vốn.
+: Là biểu đồ trình bày chi tiết mối quan hệ cân bằng dài hạn giữa số vốn cần có và lãi suất.
+ @Marginal efficiency of investment
+- (Econ) Hiệu suất cận biên của đầu tư.
+: Còn gọi là tỷ súât lợi tức nội hoàn. Là tỷ lệ chiết khấu làm cho giá trị hiện tại của lợi tức ròng dự kiến từ một tài sản vốn bằng đúng giá cung cấp của nó trong trường hợp mức giá này được công nhận sẽ tăng lên trong ngắn hạn.
+ @Marginal efficiency of investment schedule
+- (Econ) Biểu đồ hiệu suất cận biên của đầu tư.
+: Là đường cầu về đầu tư. Là biểu đồ trình bày chi tiết mối quan hệ giữa hiệu suất biên của đầu tư và tỷ lệ lãi suất.
+ @Marginal firm
+- (Econ) Xuất biên?
+ @Marginal income tax rate
+- (Econ) Mức thuế suất cận biên đánh vào thu nhập.
+ @Marginal per capita reinvestment quotient criterio
+- (Econ) Tiêu chuẩn về thương số tái đầu tư cận biên theo đầu người.
+: Là một tiêu chuẩn về đầu tư với mục tiêu tối đa hoá thu nhập bình quân đầu người tại một thời điểm trong tương lai.
+ @Marginal physical product
+- (Econ) Sản phẩm vật chất cận biên.
+: Là mức tăng thêm tổng sản lượng nhờ việc sử dụng thêm một đơn vị lao động và có thể dẫn xuất từ hàm sản xuất, với điều kiện các yếu tố khác không đổi.
+ @Marginal principle
+- (Econ) Nguyên lý cận biên.
+ @Marginal product
+- (Econ) Sản phẩm cận biên.
+: Là sản lượng tăng thêm do sử dụng thêm một đơn vị đầu vào.
+ @Marginal product of labors
+- (Econ) Sản phẩm cận biên của lao động.
+ @Marginal productivity doctrine
+- (Econ) Học thuyết về năng suất cận biên.
+: Học thuyết này cho rằng một chủ sử dụng lao động mong muốn tối đa hoá lợi nhuận của mình sẽ chịu sự chi phối của quy luật về năng suất biên giảm dần, theo đó các đơn vị lao động lần lượt được sử dụng sẽ tạo ra các đơn vị SẢN LƯỢNG giảm dần tương ứng.
+ @Marginal propensity to comsume (MPC)
+- (Econ) Thiên hướng tiêu dùng cận biên.
+: Là mức thay đổi trong tiêu dùng do tăng thêm một đơn vị thu nhập.
+ @Marginal propensity to import
+- (Econ) Thiên hướng nhập khẩu cận biên.
+: Là mức thay đổi nhập khẩu do thay đổi một đơn vị thu nhập.
+ @Marginal propensity to save (MPS)
+- (Econ) Thiên hướng tiết kiệm cận biên.
+: Là mức thay đổi tiết kiệm do thay đổi một đơn vị thu nhập.
+ @Marginal propensity to tax
+- (Econ) Thiên hướng đánh thuế cận biên.
+: Là mức thay đổi trong thu nhập về thuế do thay đổi một đơn vị thu nhập.
+ @Marginal propensity to withdraw
+- (Econ) Thiên hướng rút tiền cận biên.
+: Là mức thay đổi những khoản rút tiền do thay đổi một đơn vị thu nhập.
+ @Marginal rate of substitution (MRS)
+- (Econ) Tỷ lệ thay thế cận biên.
+: Trong học thuyết về cầu của người tiêu dùng, tỷ lệ thay thế biên đề cập đến số lượng của một loại hàng hoá, để bù đắp cho người tiêu dùng đối với việc từ bỏ số lượng một loại hàng hoá khác sao cho vẫn có được mức phúc lợi (thoả dụng ) như trước.
+ @Marginal rate of tax
+- (Econ) Thuế suất cận biên.
+: Là mức thuế đối với một đơn vị thu nhập tăng thêm, nhưng khái niện này cũng được áp dụng tương đương với việc tăng thêm của chi tiêu, của quà tặng.
+ @Marginal rate of technical substitution
+- (Econ) Tỷ suất thay thế kỹ thuật cận biên; thế suất kỹ thuật cận biên.
+: Là tỷ lệ thay thế kỹ thuật biên của hai yếu tố đầu vào.
+ @Marginal rate of transformation
+- (Econ) Tỷ lệ chuyển đổi cận biên.
+: Là giá trị biểu hiện bằng số của độ dốc của đường GIỚI HẠN KHẢ NĂNG SẢN XUẤT.
+ @Marginal revenue
+- (Econ) Doanh thu cận biên.
+: Là mức thay đổi trong tổng doanh thu phát sinh từ việc bán thêm một đơn vị sản lượng.
+ @Marginal revenue product
+- (Econ) Sản phẩm doanh thu cận biên.
+: Là sản phẩm vật chất biên nhân với doanh thu biên từ việc bán thêm một đơn vị sản phẩm nhờ việc sử dụng thêm một đơn vị đầu vào.
+ @Marginal revenue product of labor
+- (Econ) Mức doanh thu cận biên của lao động.
+ @Marginal user cost
+- (Econ) Chi phí sử dụng cận biên.
+: Trong kinh tế học tài nguyên, đó là lợi ích ròng (việc định giá một đơn vị tài nguyên, tức là giá của nó trừ đi chi phí khai thác) mà thế hệ tương lai không có được do thế hệ hiện tại đã sử dụng một đơn vị tài nguyên hữu hạn.
+ @Marginal utility
+- (Econ) Độ thoả dụng cận biên.
+: Là độ thoả dụng phụ thêm có được từ việc thêm một đơn vị của bất kỳ loai hàng hoá nào.
+ @Marginal utility of income
+- (Econ) Độ thoả dụng cận biên của thu nhập.
+: Xem Marginal utility of money.
+ @Marginal utility of money
+- (Econ) Độ thoả dụng cận biên của tiền.
+: Là tỷ lệ gia tăng thoả dụng của một cá nhân khi ngân sách của riêng người đó (thu nhập) tăng thêm 1 đơn vị.
+ @Marginal value product of capital
+- (Econ) Sản phẩm giá trị biên của vốn.
+ @Marginal value product of labor
+- (Econ) Sản phẩm giá trị biên của lao động.
+ @marginalia  
+*  dt số nhiều
+- những lời ghi chú ở lề
+
+@marginalise
+* dgt
+- như marginalize
+ @marginalize
+* ngdgt
+- cách ly ra khỏi nhịp điệu phát triển xã hội
+- cho là thứ yếu @marginate  
+*  tt
+- có mép, có bờ, có lề
+
+@marginated
+* tt
+- như marginate
+ @margravate
+* dt
+- như margraviate
+ @margrave  
+*  dt
+- (sử học) bá tước (Đức)
+
+@margraviate
+* dt
+- lãnh địa của bá tước (Đức)
+ @margravine  
+*  dt
+- (sử học) vợ bá tước (Đức)
+
+@marguerite  
+*  dt
+- (thực vật học) cúc mắt bò
+
+@marian
+* tt
+- (thuộc) nữ hoàng Anh Mari Tiudo (Mary Tudor) (1553 - 1558)
+- (thuộc) Đức mẹ Maria
+ @mariculture
+* dt
+- việc nuôi động thực vật ở biển
+ @marigold  
+*  dt
+- (thực vật học) cúc vạn thọ
+
+@marihuana
+- như marijuana
+ @marijuana
+- Cách viết khác : marihuana 
+ @marimba
+* dt
+- mộc cầm (ở các nước châu Phi và Trung Mỹ)
+- dàn nhạc cụ mộc cầm
+ @marina  
+*  dt
+- bến (cho thuyền đậu và bảo dưỡng)
+
+@marinade  
+*  dt
+- nước xốt marinat
+- cá (thịt) giầm nước xốt marinat
+
+@marinate
+* ngdgt
+- ướp thịt bằng nước ướp
+ @marination
+* dt
+- sự ướp thịt bằng nước ướp
+ @marine  
+*  tt
+- (thuộc) biển
+
++ marine plant: cây ở biển
+
++ marine bird: chim biển
+- (thuộc) ngành hàng hải; (thuộc) đường biển; (thuộc) công việc buôn bán trên mặt biển
+
++ marine bureau: cục hàng hải
+- (thuộc) hải quân
+*  dt
+- đội tàu buôn, đội thuyền buôn ((cũng) the merchant marine)
+- hải quân
+
++ the ministry of marine: bộ hải quân
+- (từ Mỹ,nghĩa Mỹ) lính thuỷ đánh bộ
+- tranh vẽ cảnh biển
+!tell it to the marines
+- đem nói cái đó cho ma nó nghe
+
+@mariner  
+*  dt
+- thuỷ thủ
+!master mariner
+- thuyền trưởng tàu buôn
+
+@mariolater
+* dt
+- người quá sùng bái Đức mẹ Maria
+ @mariolatry
+* dt
+- sự sùng bái Đức mẹ Maria một cách triệt để
+ @mariological
+* tt
+- (thuộc) sự nghiên cứu Đức mẹ
+ @mariologist
+* dt
+- người nghiên cứu Đức mẹ
+ @mariology
+* dt
+- sự nghiên cứu Đức mẹ
+ @marionette  
+*  dt
+- con rối
+
+@marish  
+*  dt
+- (thơ ca) đầm lầy
+*  tt
+- (thơ ca) lầy, lầy lội
+
+@marist
+* dt
+- tín đồ giáo phái Mary của công giáo (chuyên về giáo dục)
+ @marital  
+*  tt
+- (thuộc) chồng
+- (thuộc) hôn nhân
+
+@maritally
+* dt
+- xem marital
+ @maritime  
+*  tt
+- (thuộc) biển; (thuộc) ngành hàng hải
+
++ maritime law: luật hàng hải
+- gần biển
+
++ the maritime provinces of the U.S.S.R.: những tỉnh gần biển của Liên-xô
+
+@marjoram  
+*  dt
+- (thực vật học) cây kinh giới ô
+
+@mark  
+*  dt
+- đồng Mác (tiền Đức)
+*  dt
+- dấu, nhãn, nhãn hiệu
+- dấu, vết, lằn
+- bớt (người), đốm, lang (súc vật)
+
++ a horse with a white mark on its head: một con ngựa có đốm trắng ở đầu
+- dấu chữ thập (thay chữ ký của những người không biết viết)
+- đích, mục đích, mục tiêu ((nghĩa đen) & (nghĩa bóng))
+
++ to hit the mark: bắn trúng đích; đạt mục đích
+
++ to miss the mark: bắn không trúng; không đạt mục đích; lạc lõng
+- chứng cớ, biểu hiện
+
++ a mark of esteem: một biểu hiện của sự quý trọng
+- danh vọng, danh tiếng
+
++ a man of mark: người danh vọng, người tai mắt
+
++ to make one's mark: nổi danh, nổi tiếng; đạt được tham vọng
+- mức, tiêu chuẩn, trình độ
+
++ below the mark: dưới tiêu chuẩn, không đạt trình độ
+
++ up to the mark: đạt tiêu chuẩn, đạt trình độ
+- điểm, điểm số
+
++ to get good marks: được điển tốt
+*  ngdgt
+- đánh dấu, ghi dấu
+
++ to mark a passage in pencil: đánh dấu một đoạn văn bằng bút chì
+- cho điểm, ghi điểm
+- chỉ, bày tỏ; biểu lộ, biểu thị; chứng tỏ, đặc trưng
+
++ to speak with a tone which marks all one's displeasure: nói lên một giọng biểu thị tất cả sự không hài lòng
+
++ the qualities that mark a greal leader: đức tính đặc trưng cho một vị lânh tụ vĩ đại
+- để ý, chú ý
+
++ mark my words!: hãy chú ý những lời tôi nói, hãy nghi nhớ những lời tôi nói
+!to mark down
+- ghi (giá hàng) hạ hơn (trên phiếu ghi giá)
+!to mark off
+- chọn lựa, phân biệt, tách ra ((nghĩa đen) & (nghĩa bóng))
+
++ a word clearly marked off from the others: một từ được phân biệt với các từ khác
+!to mark out
+- giới hạn, vẽ ranh giới, quy định ranh giới (để xây dựng)
+- vạch (con đường); vạch, đề ra (kế hoạch)
+!to mark out for
+- chỉ định, chọn lựa (để làm một nhiệm vụ, công việc gì)
+!to make up
+- ghi (giá hàng) cao hơn (trên phiếu ghi giá)
+- định giá bán (bằng cách cộng thêm kinh phí vào giá vốn)
+!to mark time
+- (quân sự) giậm chân tại chỗ theo nhịp
+- (nghĩa bóng) giậm chân tại chỗ, không tiến chút nào
+
+@mark
+- ký hiệu, dấu hiệu, vết; mức; cận; giới hạn   ghi dấu hiệu
+- class m. điểm giữa khoảng nhóm
+- dot m. dấu hiệu phân biệt
+- reference m. (máy tính) dấu hiệu kiểm tra; dấu hiệu cơ sở
+- quotation m.s dấu ngoặc kép (&quot; &quot;)
+- timing m. dấu hiệu thời gian 
+@mark-down
+* dt
+- sự hạ giá
+
++  a mark-down of twenty percent:hạ giá 20 %
+ @marked  
+*  tt
+- rõ ràng, rõ rệt
+
++ a marked difference: một sự khác nhau rõ rệt
+- bị để ý (vì tình nghi, để báo thù...)
+
+@markedly
+* dt
+- rõ ràng; rõ rệt
+ @markedness
+* dt
+- tính rõ ràng; tính rõ rệt
+ @marker  
+*  dt
+- người ghi
+- người ghi số điểm (trong trò chơi bi a)
+- vật (dùng) để ghi
+- pháo sáng (để soi mục tiêu cho những cuộc ném bom đêm)
+
+@marker
+- máy chỉ; người đếm
+ @market  
+*  dt
+- chợ
+
++ to go to market: đi chợ
+- thị trường, nơi tiêu thụ; khách hàng
+
++ the foreign market: thị trường nước ngoài
+- giá thị trường; tình hình thị trường
+
++ the market fell: giá thị trường xuống
+
++ the market rose: giá thị trường lên
+
++ the market is quiet: tình hình thị trường ổn định; thị trường chứng khoán bình ổn
+!to bring one's eggs (hogs) to a bad market (to the wrong market)
+- làm hỏng việc, làm lỡ việc; hỏng kế hoạch, tính sai
+!to make a market of one's honour
+- bán rẻ danh dự
+*  ngdgt
+- bán ở chợ, bán ở thị trường
+*  ndgt
+- mua bán ở chợ
+
+@Market
+- (Econ) Thị trường.
+: Thông thường, đó là bất kỳ khung cảnh nào trong đó diễn ra việc mua bán các loại hàng hoá và dịch vụ.
+ @Market classification
+- (Econ) Phân loại thị trường.
+: Có rất nhiều cách khác nhau để phân loại thị trường.
+ @Market clearing
+- (Econ) Điểm thị trường bán sạch.
+ @Market demand curve
+- (Econ) Đường cầu của thị trường.
+: Là tổng hợp của một loạt các đường cầu riêng rẽ đối với một loại hàng hoá.
+ @Market demand curve for labour
+- (Econ) Đường cầu của thị trường đối với lao động.
+: Với một mức giá bán sản phẩm không đổi, đường cầu của thị trường hay của một nghành sản xuất chính là sự tổng hợp theo chiều ngang các đường DOANH THU SẢN PHẨM BIÊN của các doanh nghiệp tham gia.
+ @Market economy
+- (Econ) Nền kinh tế thị trường
+: Là một hệ thống kinh tế trong đó các quyết định về việc phân bổ nguồn lực và sản xuất được diễn ra trên cơ sở các mức giá được xác định qua những giao dịch tự nguyện giữa các nhà sản xuất, người  tiêu dùng, công nhân và chủ sở hữu các yếu tố sản xuất.
+ @Market failure
+- (Econ) Sự khiếm khuyết của thị trường; Sự trục trặc của thị trường.
+: Là việc một hệ thống các thị trường tư nhân không có khả năng cung cấp một số mặt hàng nhất định cho dù là một phần nhỏ hay với mức độ hợp lý nhất định hoặc tối ưu nhất.
+ @Market forces
+- (Econ) Các tác nhân thị trường.
+: Là những tác nhân phát sinh từ quan hệ tự do giữa cung và cầu của thị tường dẫn đến việc phải điều chỉnh giá bán và @Market imperfection
+- (Econ) Sự không hoàn hảo của thị trường.
+: Là bất kỳ sự sai lệch nào khỏi các điều kiện cần thiết để có được cạnh tranh hoàn hảo.
+ @Market maker
+- (Econ) Hãng lập thị.
+: Là tên gọi xuất hiện tại SỞ GIAO DỊCH CHỨNG KHOÁN London kể từ năm 1986, đặt cho hãng tạo ra được một thị trương mua bán các loại chứng khoán khác nhau thông qua việc luôn sẵn sàng mua hoặc bán những loại chứng khoán này.
+ @Market mechanism
+- (Econ) Cơ chế thị trường.
+ @Market orientation
+- (Econ) Định hướng theo thị trường.
+: Là việc các nhà sản xuất có xu hướng đặt nhà máy của họ gần thị trường tiêu thụ sản phẩm chứ không phải ở nơi khác, chẳng hạn như gần nguông nguyên liệu.
+ @Market oriented reform
+- (Econ) Cải cách theo định hướng thị trường.
+ @Market power
+- (Econ) Quyền lực thị trường; Sức mạnh đối với thị trường.
+: Là việc nhóm người mua hoặc bán có khả năng tác động đến giá cả của sản phẩm hoặc dịch vụ mà họ đang mua bán.
+ @Market premium rate
+- (Econ) Tỷ lệ chênh lệch giá.
+ @Market share
+- (Econ) Thị phần
+: Là tỷ trọng của tổng số hàng hoá bán trên thị trường của một doanh nghiệp.
+ @Market socialism
+- (Econ) Chủ nghĩa xã hội theo cơ chế thị trường.
+: Là một hệ thống kinh tế xã hội chủ nghĩa nhưng lại nhường quyền điều hành các hoạt động hàng ngày của nền kinh tế  cho cơ chế thị trường.
+ @Market structure
+- (Econ) Cơ cấu thị trường.
+ @marketability   (marketability) @marketable  
+*  tt
+- có thể bán được, thích hợp để bán ở chợ, có thể tiêu thụ được
+
+@marketableness   (marketability) @market-day  
+*  dt
+- ngày phiên chợ
+
+@marketeer
+* dt
+- nhà buôn; thương nhân
+
++  black marketeers:những người buôn bán chợ đen
+ @market-garden  
+*  dt
+- vườn trồng rau (để đem bán ở chợ)
+
+@market-gardener  
+*  dt
+- người làm nghề trồng rau (để đem bán ở chợ)
+
+@market-gardening  
+*  dt
+- nghề trồng rau (để đem bán ở chợ)
+
+@Marketing
+- (Econ) Marketing
+: Là một thuật ngữ dùng để chỉ những hoạt động của các doanh nghiệp liên quan đến việc bán và phân phối sản phẩm.
+ @marketing
+* dt
+- sự tiếp thị
+ @Marketing boards.
+- (Econ) Các ban Marketing.
+: Các ban này được thành lập tại một số nước châu Phi, và chúng đáp ứng được nhiều mục đích khác nhau. Chúng mang lại cho các tiểu nông một thị trường chắc chắn và ổn định đối với các sản phẩm của họ và vì sau đó hàng hóa được bán trên quy mô lớn trên các thị trường quốc tế nên các nhà chức trách có được cơ sở hợp lý hơn để mặc cả giá bán hợp lý.
+ @market-place  
+*  dt
+- nơi họp chợ
+
+@market-town  
+*  dt
+- thị trấn
+
+@marking
+* dt
+- sự ghi nhãn
+- sự đánh dấu @marking
+- đánh dấu
+ @Markov process
+- (Econ) Quá trình Markov.
+: Là một quá trình liên kết giá trị hiện tại của một biến số với những giá trị trước đó của chính nó và một sai số ngẫu nhiên.
+ @Markovian
+- (thuộc) Máckôp
+ @Markowitz, Harry
+- (Econ) (1927-)
+: Là một nhà kinh tế người Mỹ đồng đoạt giải Nobel về kinh tế năm 1990 (cùng với M.Miller và W.F.Sharp). Công việc quan trọng mà ông thực hiện trong những năm 1950 đã đặt nền móng cho học thuyết hiện đại về DANH MỤC ĐẦU TƯ. Học thuyết ban đầu của ông về sự lựa chọn danh mục đầu tư được dựa trên mô hình chuẩn tắc dành cho các nhà quản lý đầu tư. Đóng góp quan trọng của ông là việc phát triển thuyết nghiệp vụ được tính toán chính xác về sự lựa chọn danh mục đầu tư trong điều kiện không chắc chắn. Markowitz chỉ ra rằng trong những điều kiện nhất định, sự lựa chọn danh mục đầu tư của một nhà đầu tư bị hạn chế ở việc cân bằng giữa lợi tức dự kiến thu đượ từ danh mục đầu tư đó với sai số của nó. Về mặt nguyên tắc, sự lựa chọn phức tạp giữa nhiều tài sản với những thuộc tính khác nhau của chúng được xem như một bài toán không gian hai chiều, thường gọi là phép phân tích phương sai trung bình. Các ấn phẩm lớn trung bình của Markowitz bao gồm: Sự lựa chọn danh mục đầu tư: Sự đa dạng hoá có hiệu quả đầu tư, Wiley (1959), và Phép phân tích phương sai - trung bình trong việc lựa chọn danh mục đầu tư và các thị trường vốn, Blackwell (1987)>
+ @marksman  
+*  dt
+- người bắn súng giỏi, nhà thiện xạ
+
+@marksmanship
+* dt
+- thuật xạ kích
+- tài thiện xạ
+ @markswoman  
+*  dt
+- nữ thiện xạ
+
+@mark-up  
+*  dt
+- (thương nghiệp) sự tăng giá
+- số tiền cộng vào giá vốn (gồm kinh phí và lãi)
+
+@Mark-up
+- (Econ) Phần thêm vào giá vốn; Phần thêm vào chi phí khả biến.
+: Là một phần cộng thêm vào các chi phí khả biến trung bình để hình thành giá bán do người bán xác định nhằm trang trải các chi phí cố định và có được lợi nhuận.
+ @markup
+* dt
+- <thương> sự tăng giá
+- số tiền cộng vào giá vốn (gồm kinh phí và lãi)
+- <tin> đánh dấu bằng thẻ
+ @markworthy
+* tt
+- đáng chú ý
+ @marl  
+*  dt
+- (địa lý,ddịa chất) Macnơ
+*  ngdgt
+- bón Macnơ (cho đất)
+
+@marlin
+* dt
+- cá maclin
+- như marline
+ @marline  
+*  dt
+- (hàng hải) thừng bện, sợi đôi
+
+@marlinespike
+- Cách viết khác : marlinspike 
+ @marlinspike
+- như marlinespike
+ @marl-stone
+* dt
+- đá Mác nơ
+ @marmalade  
+*  dt
+- mứt cam
+
+@marmite
+* dt
+- cái nồi
+ @marmoreal   (marmorean) @marmorean   (marmorean) @marmoset  
+*  dt
+- (động vật học) khỉ đuôi sóc (châu Mỹ)
+
+@marmot  
+*  dt
+- (động vật học) con macmôt
+
+@marocain  
+*  dt
+- vải lụa
+
+@maronite
+* dt
+- tín đồ giáo phái Marôn (Thiên chúa giáo Xiri)
+ @maroon  
+*  tt
+- nâu sẫm, màu hạt dẻ
+*  dt
+- màu nâu sẫm, màu hạt dẻ
+- pháo cối; (ngành đường sắt) pháo hiệu
+*  dt
+- người bị bỏ lại trên đảo hoang
+*  ngdgt
+- bỏ (ai) trên đảo hoang
+*  ndgt
+- lởn vởn, tha thẩn
+- (từ Mỹ,nghĩa Mỹ) cắm trại ngoài trời
+
+@maroquin
+* dt
+- da marocanh
+ @marplot  
+*  dt
+- kẻ hay làm bậy, kẻ hay làm sai, kẻ hay làm hỏng việc người khác
+
+@marque
+* dt
+- nhãn hiệu chế tạo
+ @marquee  
+*  dt
+- lều to, rạp bằng vải
+- (từ Mỹ,nghĩa Mỹ) mái cửa vào (khách sạn, rạp hát...)
+
+@marquesan
+* dt
+- ngôn ngữ đảo Mackizơ (Nam Thái Bình Dương)
+- người đảo Mackizơ
+ @marquess   (marquess) @marquesses
+- số nhiều của marquess
+ @marqueterie   (marquetry) @marquetry   (marquetry) @marquis   (marquess) @marquisate  
+*  dt
+- tước hầu
+- thái ấp của hầu tước; phiên trấn của hầu tước
+
+@marquise  
+*  dt
+- bà hầu tước (không phải người Anh)
+- nhẫn mặt hình bầu dục
+- (từ cổ,nghĩa cổ) lều vải
+
+@marquises
+- số nhiều của marquis
+ @marquisette
+* dt
+- vải sa
+ @marram
+* dt
+- loại cỏ thô mọc ở đụn cát
+ @marrano
+* dt
+- người Morơ theo đạo Thiên chúa (ở Tây Ban Nha thời Trung cổ)
+ @marriage  
+*  dt
+- sự cưới xin, sự kết hôn, hôn nhân
+
++ to take in marriage: kết hôn (với ai)
+
++ marriage certificate; marriage lines: giấy đăng ký kết hôn, giấy giá thú
+- lễ cưới
+
+@marriage portion  
+*  dt
+- của hồi môn
+
+@marriageable  
+*  tt
+- có thể kết hôn
+- đến tuổi hôn nhân
+
+@married  
+*  tt
+- cưới, kết hôn, thành lập gia đình
+
++ to get married: thành lập gia đình
+
++ a newly married couple: một cặp vợ chồng mới cưới
+- (thuộc) vợ chồng
+
++ married life: đời sống vợ chồng
+
+@marriticide
+* dt
+- sự giết chồng
+- sự giết vợ
+ @marron
+* dt
+- hạt dẻ
+ @marrow  
+*  dt
+- (tiếng địa phương) bạn nối khố
+- bạn trăm năm
+- hình ảnh giống như hệt
+*  dt
+- tuỷ
+
++ to be frozen to the marrow: rét buốt đến tận tuỷ, rét thấu xương
+- (nghĩa bóng) phần chính, phần cốt tuỷ
+
++ the pith and marrow of a statement: phần chính của bản tuyên bố
+- (nghĩa bóng) sức mạnh; lực; nghị lực
+- (thực vật học) bí ngô ((cũng) vegetable marrow)
+
+@marrowbone  
+*  dt
+- xương ống (có tuỷ ăn được)
+- (số nhiều) đầu gối
+
++ to get (go) down on one's marrowbone: quỳ đầu gối xuống, quỳ xuống
+
+@marrowfat
+* dt
+- loại đậu hạt to (cũng) marrowfat pea
+ @marrowless  
+*  tt
+- không có tuỷ
+- (nghĩa bóng) thiếu sinh lực, thiếu nghị lực, yếu đuối
+
+@marrowy  
+*  tt
+- có tuỷ, đầy tuỷ
+- (nghĩa bóng) đầy sinh lực, đầy nghị lực, mạnh
+
+@marry  
+*  ngdgt
+- cưới (vợ), lấy (chồng)
+- lấy vợ cho, lấy chồng cho, gả, làm lễ cưới cho ở nhà thờ
+
++ to marry off one's daughter to somebody: gả con gái, gả tống con gái
+- (nghĩa bóng) kết hợp chặt chẽ
+*  ndgt
+- kết hôn, lấy vợ, lấy chồng
+*  thán từ
+- (từ cổ,nghĩa cổ) thế à!, ồ!
+
+@marry-making  
+*  dt
+- trò vui, hội hè, đình đám
+
+@mars  
+*  dt
+- thần chiến tranh; (nghĩa bóng) chiến tranh
+- (thiên văn học) sao Hoả
+
+@marsala
+* dt
+- rượu Macxala (rượu bổ của ý)
+ @marseillaise
+* dt
+- bài quốc ca của Pháp
+ @marsh  
+*  dt
+- đầm lầy
+
+@marsh fever  
+*  dt
+- bệnh sốt rét, bệnh ngã nước
+
+@marsh fire  
+*  dt
+- ma trơi
+
+@marsh gas  
+*  dt
+- khí mêtan
+
+@marsh mallow  
+*  dt
+- (thực vật học) giống thục quỳ
+
+@marshal  
+*  dt
+- (quân sự) nguyên soái, thống chế
+
++ Marshal of the Royal Air Force: thống chế không quân (Anh)
+- vị quan phụ trách nghi lễ, quan chủ tế
+- (từ Mỹ,nghĩa Mỹ) cảnh sát trưởng, quận trưởng
+*  dgt
+- sắp đặt vào hàng ngũ; sắp xếp theo thứ tự
+- đưa dẫn (một cách trang trọng)
+
++ the guest was marshalled into the presence og the President: vị khách được đưa vào yết kiến chủ tịch
+
+@marshalcy   (marshalship) @Marshall - Lerner condition
+- (Econ) Điều kiện Marshall - Lerner.
+: Trong những điều kiện nhất định, việc phá gía đồng tiền có thể cải thiện được cán cân thanh toán. Điều kiên Marshall - Lerner là một điều kiện giống như vậy.
+ @Marshall Aid
+- (Econ) Viện trợ Marshall.
+: Là viện trợ của Mỹ và Canada cho Anh và các nước khác để trợ giúp họ phục hồi nền kinh tế sau chiến tranh thế giới thứ hai.
+ @Marshall, Alfred
+- (Econ) (1842-1924)
+: Là nhà kinh tế học người Anh mà cả sự nghiệp của mình đã dành cho công việc của một giáo sư kinh tế tại đaih học Cambridge (1885-1908).Ông coi yếu tố giá thành sản xuất quan trọng không kém gì độ thoả dụng trong học thuyết về giá trị của ông. Ý tưởng cơ bản trong công việc của ông là khả năng của cung và cầu trong việc tạo ra những mưc giá cân bằng trên thị trường. Marshall được ví như cầu nối giữa học thuyết kinh tế cổ điển với học thuyết tân cổ điển của Jevon và học thuyết về cân bằng tổng quát của Walras. Các tác phẩm của Marshall không chỉ có ảnh hưởng đáng kể đến chính sách kinh tế cho đến hiện nay mà còn gây ảnh hưởng đáng kể đến các thế hệ nhà kinh tế của Anh.
+ @Marshall plan
+- (Econ) Kế hoạch Marshall
+: Xem EUROPEAN RECOVERY PROGRAMME.
+ @Marshallian demand curve
+- (Econ) Đường cầu Marshall
+: Là đường cầu được sử dụng rộng rãi nhất trong đó phản ứng của lượng cầu đối với mức giá chịu ảnh hưởng của cả hiệu ứng thu nhập lẫn hiệu ứng thay thế.
+ @marshalship   (marshalship) @marshiness
+* dt
+- tình trạng lầy lội
+ @marshland  
+*  dt
+- vùng đầm lầy
+
+@marshmallow
+* dt
+- kẹo dẻo
+- (thực vật học) thục quỳ
+ @marshman
+* dt
+- dân sống ở đầm lầy
+- người sống ở đầm lầy
+ @marshy  
+*  tt
+- (thuộc) đầm lầy; như đầm lầy; lầy
+
+@marsupial  
+*  dt
+- (động vật học) thú có túi
+
+@marsupian
+* tt
+- có túi bụng (động vật)
+ @marsupium
+* dt
+- noãn bào (của cá)
+- túi bụng (của thú có túi)
+ @mart  
+*  dt
+- chợ
+- thị trường, trung tâm buôn bán
+- phòng đấu giá
+*  dt
+- bò vỗ béo (để giết thịt)
+
+@martempering
+* dt
+- sự tôi mactensit
+ @marten  
+*  dt
+- (động vật học) chồn mactet
+- bộ da lông chồn mactet
+
+@martensite
+* dt
+- (luyện kim) Mactensit
+ @martensitic
+* tt
+- (thuộc) mactensit
+ @martial  
+*  tt
+- (thuộc) quân sự; (thuộc) chiến tranh
+- có vẻ quân nhân, thượng võ, võ dũng, hùng dũng
+
++ martial apperance: vẻ hùng dũng
+
++ martial spirit: tinh thần thượng võ
+- (Martial) (thuộc) sao Hoả
+
+@martial law  
+*  dt
+- tình trạng thiết quân luật
+
+@martialism
+* dt
+- tinh thần thượng võ
+ @martialist
+* dt
+- người thượng võ
+- người dũng cảm
+ @martian  
+*  dt
+- người sao Hoả
+
+@martianologist
+* dt
+- người nghiên cứu sao Hoả
+ @martin  
+*  dt
+- (động vật học) chim nhạn
+
+@martinet  
+*  dt
+- người theo kỷ luật chặt chẽ; quân nhân chặt chẽ về kỷ luật
+
+@martingal
+- như martingale
+ @martingale  
+*  dt
+- đai ghì đầu (ngựa)
+
+@martingale
+- (xác suất) mactinhgan (lý thuyết trò chơi) tăng đôi tiền cuộc
+ @martini
+* dt
+- rượu mác-tin
+ @martinmas
+* dt
+- Lễ thánh Mactin (ngày 11 tháng)
+ @martlet
+* dt
+- hình chim nhạn không chân trong huy hiệu
+ @martyr  
+*  dt
+- kẻ chết vì nghĩa; kẻ chết vì đạo; kẻ chịu đoạ đày; liệt sĩ
+*  ngdgt
+- hành hình (ai) vì đạo
+- hành hạ, đoạ đày
+
+@martyrdom  
+*  dt
+- sự chết vì nghĩa; sự chết vì đạo; sự chịu đoạ đày
+- (nghĩa bóng) nỗi thống khổ, sự đau đớn giày vò
+
+@martyrise   (martyrise) @martyrization  
+*  dt
+- sự giết vì nghĩa, sự giết vì đạo
+- sự hành hạ, sự đoạ đày
+
+@martyrize   (martyrise) @martyrolatry  
+*  dt
+- sự tôn thờ những người chết vì nghĩa; sự tôn thờ liệt sĩ
+
+@martyrological  
+*  tt
+- (thuộc) tiểu sử những người chết vì nghĩa; (thuộc) tiểu sử liệt sĩ
+
+@martyrologist  
+*  dt
+- người viết tiểu sử những người chết vì đạo; người viết tiểu sử liệt sĩ
+
+@martyrology  
+*  dt
+- danh sách tiểu sử những người chết vì đạo; danh sách tiểu sử những liệt sĩ
+
+@martyry  
+*  dt
+- đền thờ người chết vì đạo; đền thờ liệt sĩ
+
+@marvel  
+*  dt
+- vật kỳ diệu, vật tuyệt diệu, kỳ công
+
++ the marvels of science: những kỳ công của khoa học
+- người kỳ dị, người kỳ lạ, người khác thường
+
++ a marvel of patience: một người kiên nhẫn khác thường
+*  ndgt
+- ngạc nhiên, kinh ngạc, lấy làm lạ
+
++ to marvel at someone's boldness: kinh ngạc trước sự táo bạo của ai
+- tự hỏi
+
++ I marvel how you can do it: tôi tự hỏi anh có thể làm cái đó bằng cách nào
+
+@marvellous  
+*  tt
+- kỳ lạ, kỳ diệu, tuyệt diệu, phi thường
+
+@marvellously
+* dt
+- tuyệt diệu; phi thường
+ @marvellousness
+* dt
+- sự kỳ diệu; sự phi thường
+ @marvelous
+- như marvellous
+ @marvelously
+- như marvellously
+ @Marx, Karl
+- (Econ) (1818-1883)
+: Là nhà triết học, Xã hội học, sử học, lý luận chính trị học, kinh tế học người Đức. Từ 1849, sống tại Anh với sự giúp đỡ của ăng-ghen, một nhà tư bản công nghiệp. Chịu ảnh hưởng sâu sắc tư tưởng Hê-ghen và từ đó đưa ra luận thuyết về xã hội tư bản, và luận điểm tổng hợp về chủ nghĩa cộng sản. Những tiên đoán của C.Mác về chủ nghĩa tư bản vẫn chưa trở thành hiện thực nhưng những thành tựu của Mác là hết sức to lớn đã khiến chi Mác đạt tới đỉnh cáo của một nhà phân tích kinh tế.
+ @marxian   (Marxian) @Marxian
+- Macxit
+ @marxism  
+*  dt
+- chủ nghĩa Mác
+
+@marxism-leninism  
+*  dt
+- chủ nghĩa Mác-Lê-nin
+
+@marxist   (Marxian) @marxist-leninist
+* tt
+- (thuộc) chủ nghĩa Mác-Lênin
+* dt
+- người theo chủ nghĩa Mác-Lênin
+ @marzipan   (marzipan) @mascara  
+*  dt
+- thuốc bôi mi mắt
+
+@mascaret
+* dt
+- sóng triều, sóng cồn
+ @mascaron
+* dt
+- (kiến trúc) hình mặt nạ
+ @mascot  
+*  dt
+- vật lấy khước
+- người đem lại khước, con vật đem lại khước
+
+@masculine  
+*  tt
+- (thuộc) giống đực; (thuộc) đàn ông
+- có những đức tính như đàn ông
+- (ngôn ngữ học) (thuộc) giống đực
+
++ masculine gender: giống đực
+
++ masculine word: từ giống đực
+*  dt
+- con đực; con trai, đàn ông
+- (ngôn ngữ học) giống đực; từ giống đực
+
+@masculinely
+* dt
+- xem masculine
+ @masculineness
+* dt
+- tính đàn ông; nam tính
+ @masculinise
+- như masculinize
+ @masculinity  
+*  dt
+- tính chất đực; tính chất đàn ông
+
+@masculinize
+* ngdgt
+- làm cho chim mái thành chim trống
+- làm cho đàn bà thành đàn ông
+* ndgt
+- biến thành đàn ông
+ @maser
+* dt
+- (vật lý) Maze
+ @mash  
+*  dt
+- hạt ngâm nước nóng (để nấu rượu); thóc cám nấu trộn (cho vật nuôi)
+- (từ lóng) đậu nghiền nhừ, khoai nghiền nhừ, cháo đặc
+- (nghĩa bóng) mớ hỗn độn
+- (từ lóng) người được (ai) mê, người được (ai) phải lòng
+*  ngdgt
+- ngâm (hoa) vào nước nóng (để nấu rượu); trộn (thóc, cám) để nấu (cho vật nuôi)
+- nghiền, bóp nát
+- (từ lóng) làm cho mê mình, làm cho phải lòng mình
+
+@masher  
+*  dt
+- người nghiền, người bóp nát
+- (từ lóng) kẻ gạ gẫm người đàn bà không quen
+
+@mask  
+*  dt
+- mạng che mặt của phụ nữ ngày xưa; mặt nạ ((nghĩa đen) & (nghĩa bóng))
+
++ to throw off the mask: lột mặt nạ, vạch trần chân tướng
+
++ under the mask of virture: dưới mặt nạ đạo đức; đạo đức giả
+- mặt nạ phòng độc
+*  ngdgt
+- đeo mặt nạ cho
+- che giấu, giấu giếm, che kín
+- (quân sự) nguỵ trang (quân đối phương) bằng lực lượng tương xứng; đứng cản đằng trước (quân cùng phe)
+*  ndgt
+- mang mặt nạ giả trang
+
+@mask
+- mặt lạ; vật che   che đậy; đeo mặt nạ
+@maskable
+* tt
+- có thể che giấu @masked  
+*  tt
+- mang mặt nạ, che mặt
+- che đậy, giấu giếm
+
++ a masked smile: nụ cười che đậy
+- (quân sự) nguỵ trang
+
+@masker  
+*  dt
+- người đeo mặt nạ
+- người dự buổi khiêu vũ đeo mặt nạ, người dự dạ hội giả trang
+- người tham dự vở kịch có ca nhạc ((xem) masque)
+
+@masking
+* dt
+- tấm chắn, tấm che
+- sự đeo mặt nạ
+- sự che mặt
+- sự hoá trang
+ @masking
+- che giấu
+- adjustable m. vật che được điều chỉnh 
+ @masochims  
+*  dt
+- sự thông dâm
+
+@masochism
+* dt
+- sự khổ dâm; sự bạo dâm
+ @masochist  
+*  dt
+- người thông dâm
+
+@masochistic
+* tt
+- khổ dâm; bạo dâm
+ @mason  
+*  dt
+- thợ nề
+- (Mason) hội viên hội Tam điểm
+
+@mason bee  
+*  dt
+- (động vật học) con tò vò
+
+@mason-bee
+* dt
+- (động vật học) con tò vò
+ @masonic  
+*  tt
+- (thuộc) hội Tam điểm
+
+@masonry  
+*  dt
+- nghề thợ nề
+- công trình nề, phần xây nề (trong một cái nhà)
+
+@masora
+- Cách viết khác : Masorah 
+ @masorah
+- như Masora
+ @masoretic
+- như Masoretical
+ @masoretical
+- Cách viết khác : Masoretic 
+ @masque  
+*  dt
+- (sử học) vở kịch có ca vũ nhạc
+
+@masquer
+* dt
+- như masker
+ @masquerade  
+*  dt
+- buổi khiêu vũ đeo mặt nạ, dạ hội giả trang
+- sự giả trang, sự giả dạng
+- trò lừa bịp, trò giả dối
+*  ndgt
+- giả trang, giả dạng
+- dự buổi khiêu vũ đeo mặt nạ, dự dạ hội giả trang
+
+@mass  
+*  dt
+- (tôn giáo) lễ mét
+*  dt
+- khối, đống
+
++ masses of dark clouds gathered in the sky: mây đen ùn ùn chất đống trên bầu trời
+- số nhiều, số đông, đa số
+
++ the mass of the nations: đa số các dân tộc
+- (vật lý) khối lượng
+
++ critical mass: khối lượng tới hạn
+- (the masses) (số nhiều) quần chúng, nhân dân
+
++ the classes and the masses: giai cấp bóc lột và quần chúng nhân dân
+!in a mass
+- cả đống, cả bọn, cả lũ, toàn thể
+!in the mass
+- gộp cả toàn thể
+*  ngdgt
+- chất thành đống
+- (quân sự) tập trung (quân...)
+*  ndgt
+- tập trung, tụ hội
+
+@mass
+- khối lượng, khối lượng lớn
+- acoustic m. âm lượng
+- apparent m. (cơ học) khối lượng bề ngoài 
+- equivalent m. khối lượng tương đương
+- mechanical m. khối lượng xác suất 
+- reduced m. (cơ học) khối lượng rút gọn 
+- rest m. (vật lí) khối lượng tĩnh
+- wave m. khối lượng tĩnh 
+ @mass media  
+*  dt số nhiều
+- phương tiện thông tin tuyên truyền rộng rãi
+
+@mass meeting  
+*  dt
+- cuộc họp bàn của quần chúng
+- cuộc biểu tình lớn
+
+@mass movement  
+*  dt
+- phong trào quần chúng
+
+@mass observation  
+*  dt
+- sự điều tra ý kiến quần chúng (bằng cách nghiên cứu nhật ký cá nhân...)
+
+@mass of manoeuvre  
+*  dt
+- (quân sự) đội quân chiến lược dự trữ
+
+@massacre  
+*  dt
+- sự giết chóc, sự tàn sát
+- cuộc tàn sát
+*  ngdgt
+- giết chóc, tàn sát
+
+@massacrer
+* dt
+- người giết chóc; người tàn sát
+ @massage  
+*  dt
+- sự xoa bóp
+*  ngdgt
+- xoa bóp
+
+@massager
+* dt
+- người xoa bóp
+ @massagist  
+*  dt
+- người làm nghề xoa bóp
+
+@masseur  
+*  dt
+- người đàn ông làm nghề xoa bóp
+
+@masseuse  
+*  dt
+- người đàn bà làm nghề xoa bóp
+
+@massicot
+* dt
+- (khoáng chất) maxicot
+ @massif  
+*  dt
+- (địa lý,ddịa chất) khối núi
+
+@massive  
+*  tt
+- to lớn, đồ sộ; chắc nặng
+
++ a massive pillar: một cái cột đồ sộ
+- thô
+
++ massive features: những nét thô
+- ồ ạt
+
++ a massive attack: cuộc tấn công ồ ạt
+
+@massively
+* dt
+- đồ sộ
+- ồ ạt
+- quan trọng; lớn lao
+ @massiveness  
+*  dt
+- tính to lớn, tính đồ sộ, tính chắc nặng
+- vẻ thô
+
+@massless
+* tt
+- có khối lượng bằng 0; không có khối lượng
+ @mass-produce  
+*  ngdgt
+- sản xuất hàng loạt
+
+@mass-production  
+*  dt
+- sự sản xuất hàng loạt
+
+@mass-seperator
+* dt
+- bộ tách đồng vị
+ @mass-spectrogram
+* dt
+- ảnh phổ khối lượng
+ @mass-spectrograph
+* dt
+- phổ ký khối lượng; khối phổ ký
+ @mass-spectrography
+* dt
+- phép chụp phổ khối lượng, phép ghi phổ khối lượng
+ @mass-spectrometer
+* dt
+- phổ kế ghi khối lượng; khối phổ kế
+ @mass-spectrometry
+* dt
+- phép ghi phổ khối lượng
+ @massy  
+*  tt
+- to lớn, chắc nặng
+- thô
+
+@mast  
+*  dt
+- cột buồm
+- cột (thẳng và cao)
+
++ radio mast: cột raddiô
+!to sail (serve) before the mast
+- làm một thuỷ thủ thường
+*  dt
+- quả sồi (để làm thức ăn cho lợn)
+
+@mastaba
+- như mastabah
+ @mastabah
+- Cách viết khác : mastaba 
+ @mastectomy
+* dt
+- thuật mổ vú (để chữa ung thư)
+ @masted
+* tt
+- (nói về thuyền) có cột buồm
+ @master  
+*  dt
+- chủ, chủ nhân
+
++ masters and men: chủ và thợ
+
++ master of the house: chủ gia đình
+- (hàng hải) thuyền trưởng (thuyền buôn)
+- thầy, thầy giáo
+
++ a mathematies master: thầy giáo dạy toán
+- (the master) Chúa Giê-xu
+- cậu (tiếng xưng hô lễ phép với một người con trai)
+! Master Chales Smith
+- cậu Sac-lơ-Xmít
+- cử nhân
+!Master of Arts
+- cử nhân văn chương
+- người tài giỏi, người học rộng tài cao, bậc thầy, người thành thạo, người tinh thông
+
++ master of feace: kiện tướng đánh kiếm; người tranh luận giỏi
+
++ to make oneself a master of many foreign languages: trở thành tinh thông rất nhiều ngoại ngữ
+- người làm chủ, người kiềm chế
+
++ to be the master of one's fate: tự mình làm chủ được số mện của mình
+- thợ cả
+- đấu trường, chủ, người đứng đầu, người chỉ huy
+!Master of Ceremonies
+- quan chủ tế
+- nghệ sĩ bậc thầy
+- hiệu trưởng (một số trường đại học)
+!like master like man
+- (xem) like
+*  tt
+- làm chủ, đứng đầu
+- bậc thầy, tài giỏi, thành thạo, tinh thông
+- làm thợ cả (không làm công cho ai)
+- (kỹ thuật),  (chính trị), điều khiển (bộ phận máy)
+*  ngdgt
+- làm chủ, cai quản, điều khiển, chỉ huy
+- kiềm chế, trấn áp, không chế
+
++ to master one's temper: kiềm chế được sự giận dữ, giữ được bình tĩnh
+- (nghĩa bóng) khắc phục, vượt qua
+
++ to master one's difficulties: khắc phục được mọi sự khó khăn
+- trở thành tinh thông, sử dụng thành thạo, nắm vững, quán triệt
+
++ to master the English language: nắm vững tiếng Anh
+
+@master
+- chính, cơ bản   quản lý; lãnh đạo, điều khiển
+@master-at-arms
+* dt
+- sĩ quan phụ trách về kỷ luật trật tự
+ @masterdom
+* dt
+- địa vị thống trị
+ @masterful  
+*  tt
+- hách, oai, mệnh lệnh, thích sai khiến, thích bắt người ta phải tuân theo mình
+- bậc thầy, tài cao, siêu việt
+
+@masterfully
+* dt
+- xem masterful
+ @masterfulness
+* dt
+- sự hách dịch
+- tính cách bậc thầy
+ @master-key  
+*  dt
+- chìa cái (mở được nhiều khoá khác nhau)
+
+@masterless
+* tt
+- vô chủ, không ai khống chế
+ @masterliness  
+*  dt
+- tính chất thầy
+- tài bậc thầy, tài cao
+
+@masterly  
+*  tt
+- (thuộc) thầy
+- bậc thầy, tài giỏi, tài cao
+
+@mastermind  
+*  dt
+- người có trí tuệ bậc thầy, người làm quân sư, người đạo diễn (cho một công việc gì) ((nghĩa bóng))
+*  ngdgt
+- vạch ra kế hoạch và điều khiển, làm quân sư cho, đạo diễn ((nghĩa bóng))
+
+@masterpiece  
+*  dt
+- kiệt tác, tác phẩm lớn
+
+@master's
+- như Master's degree
+ @mastership  
+*  dt
+- chức vụ làm thầy; nghề làm thầy
+- quyết làm chủ, quyền lực
+
+@mastersinger
+- như Meistersinger
+ @master-stroke  
+*  dt
+- kỳ công, hành động tài tình, nước bài xuất sắc ((nghĩa bóng))
+
+@masterstroke
+* dt
+- kỳ công; hành động tài tình; nước bài xuất sắc (nghĩa bóng)
+ @masterwork  
+*  dt
+- kiệt tác, tác phẩm lớn
+
+@mastery  
+*  dt
+- quyền lực, quyền làm chủ
+- ưu thế, thế hơn, thế thắng lợi
+
++ to get (gain, obtain) the mastery of: hơn, chiếm thế hơn, thắng thế
+- sự tinh thông, sự nắm vững, sự sử dụng thành thạo
+
+@mast-fed
+* tt
+- (nói về gia súc) được nuôi bằng quả sồi
+ @mast-head
+* dt
+- nhan đề nổi bật của một tờ báo
+ @masthead
+- Trong lĩnh vực ấn loát văn phòng, đây là một phần của thư tin tức hoặc tạp chí, chứa các chi tiết về ban quản lý, người sở hữu, danh sách quảng cáo, giá mua dài hạn v v  
+ @mastic  
+*  dt
+- mát tít
+
+@masticate  
+*  ngdgt
+- nhai
+
+@mastication  
+*  dt
+- sự nhai
+
+@masticator  
+*  dt
+- máy nghiền
+
+@masticatory  
+*  tt
+- để nhai; để nghiền
+
+@mastiff  
+*  dt
+- giống chó lớn tai cụp
+
+@mastigophoran
+* dt
+- thể gốc lông (trùng)
+ @masting
+* dt
+- thuật lắp cột buồm, sự lắp cột buồm
+ @mastitis  
+*  dt
+- (y học) viêm vú
+
+@mastless
+* tt
+- không có cột buồm
+ @mastodon  
+*  dt
+- voi răng mấu
+
+@mastodont
+* tt
+- (thuộc) voi răng mấu
+ @mastoid  
+*  tt
+- có hình vú, giống vú
+
+@mastoid bone  
+*  dt
+- xương chũm (sau mang tai)
+
+@mastoidectomy
+* dt
+- thủ thuật cắt xương chũm
+ @mastoiditis
+* dt
+- chứng viêm xương chũm
+ @masturbate  
+*  ndgt
+- sự thủ dâm
+
+@masturbation
+* dt
+- sự thủ dâm
+ @masturbatory
+* tt
+- (thuộc) sự thủ dâm
+ @mat  
+*  dt
+- chiếu
+- thảm chùi chân
+- (thể dục,thể thao) đệm (cho đồ vật...)
+- miếng vải lót cốc (đĩa...) (cho khỏi nóng hay để trang hoàng)
+- vật tết
+!to be on the mat
+- bị quở trách, bị phê bình
+- (quân sự) bị đưa ra toà
+*  ngdgt
+- trải chiếu lên; trải thảm chùi chân lên
+- bện tết (thừng, tóc...)
+*  ndgt
+- bện lại, tết lại
+*  ngdgt
+- làm xỉn, làm mờ
+*  tt
+- xỉn, mờ
+
+@matador  
+*  dt
+- người đấu bò (ở Tây-ban-nha)
+- (đánh bài) quân bài chủ
+
+@matadora
+* dt
+- đàn bà đấu bò
+ @match  
+*  dt
+- diêm
+- ngòi (châm súng hoả mai...)
+*  dt
+- cuộc thi đấu
+
++ a match of football: một cuộc thi đấu bóng đá
+- địch thủ, đối thủ; người ngang tài, người ngang sức
+
++ to meet one's match: gặp đối thủ
+
++ to have not one's: không có đối thủ
+- cái xứng nhau, cái hợp nhau
+
++ these two kinds of cloth are a good match: hai loại vải này rất hợp nhau
+- sự kết hôn; hôn nhân
+
++ to make a match: tác thành nên một việc hôn nhân
+- đám (chỉ người định lấy làm vợ hay làm chồng)
+
++ she (he) is a good match: cái đám ấy tốt đấy
+*  ngdgt
+- đối chọi, địch được, sánh được, đối được
+
++ worldly pleasures cannot match those joys: những thú trần tục không thể sánh được với những niềm vui này
+- làm cho hợp, làm cho phù hợp
+
++ they are well matched: hai người hợp nhau lắm, hai người rất tốt đôi; hai người thật là kỳ phùng địch thủ
+
++ to match words with deeds: làm cho lời nói phù hợp với việc làm
+- gả, cho lấy
+*  ndgt
+- xứng, hợp
+
++ these two colours do not match: hai màu này không hợp nhau
+
+@match
+- (lý thuyết trò chơi) đối thủ ngang sức; cuộc đấu   thử sức, đấu
+@match-book  
+*  dt
+- túi diêm giấy
+
+@match-box  
+*  dt
+- bao diêm
+
+@matched
+- ngang nhau, tương ứng; phù hợp
+ @matchet   (machete) @matchless  
+*  tt
+- vô địch, vô song, không có địch thủ
+
+@matchlessly
+* dt
+- xem matchless
+ @matchlessness
+* dt
+- tình trạng vô địch vô song
+ @matchlock  
+*  dt
+- (sử học) súng hoả mai
+
+@matchmaker  
+*  dt
+- người làm mối, bà mối
+- người tổ chức các cuộc đấu (vật...)
+
+@matchmaking  
+*  dt
+- sự làm mối
+- sự tổ chức các cuộc đấu (vật...)
+
+@matchstick
+* dt
+- que diêm
+* tt
+- gầy rộc
+ @matchwood  
+*  dt
+- gỗ (làm) diêm
+- vỏ bào
+!to make matchwood of
+- bẻ vụn, đập nát
+
+@mate  
+*  dt
+- (đánh cờ) nước chiếu tướng
+*  ngdgt
+- (đánh cờ) chiếu tướng cho bí
+*  dt
+- bạn, bạn nghề
+- con đực, con cái (trong đôi chim...); vợ, chồng; bạn đời
+- người phụ việc, người giúp việc, người trợ lực
+- (hàng hải) phó thuyền trưởng (thuyền buôn)
+*  dgt
+- kết bạn với, kết đôi với; lấy nhau
+- phủ chim, gà
+- sống cùng, chơi cùng, đi cùng, ở cùng
+
+@mateless
+* tt
+- không có bạn, không có đôi
+ @matelot   (matlow) @matelote
+* dt
+- như matelotte
+ @matelotte
+- Cách viết khác : matelote 
+ @mater  
+*  dt
+-(ngôn ngữ nhà trường),  (từ lóng) mẹ, bà bô, bà via
+
+@materfamilias  
+*  dt
+- bà chủ gia đình
+
+@material  
+*  tt
+- vật chất
+
++ material world: thế giới vật chất
+- (thuộc) thân thể, (thuộc) xác thịt
+- hữu hình, cụ thể, thực chất
+
++ a material being: vật hữu hình
+- quan trọng, trọng đại, cần thiết
+
++ food is most material to man: thức ăn hết sức cần thiết đối với con người
+*  dt
+- chất, tài liệu, nguyên liệu, vật liệu
+
++ raw materials: nguyên liệu
+
++ materials for a book: tài liệu để viết một cuốn sách
+- vải
+
+@material
+- vật chất; vật liệu chất
+ @Material forces of production
+- (Econ) Lực lượng sản xuất vật chất.
+: Là cụm thuật ngữ được C.Mác sử dụng để xác định nền tảng kinh tế thực tế của một xã hội.
+ @materialise   (materialise) @materialism  
+*  dt
+- chủ nghĩa duy vật
+
++ dialectical materialism: duy vật biện chứng
+
++ historical materialism: duy vật lịch sử
+- sự nặng nề vật chất, sự quá thiên về vật chất
+
+@materialism
+- (logic học) chủ nghĩa duy vật
+- dialectical m. chủ nghĩa duy vật biện chứng 
+- historical m. chủ nghĩa duy vật lịch sử 
+ @materialist  
+*  dt
+- người duy vật, người theo chủ nghĩa duy vật
+- người nặng về vật chất, người quá thiên về vật chất
+
+@materialistic  
+*  tt
+- duy vật
+
++ the materialistic conception of history: quan điểm duy vật về lịch sử
+- nặng về vật chất, quá thiên về vật chất
+
+@materialistic
+- (logic học) (thuộc) chủ nghĩa duy vật
+ @materialistically
+* dt
+- xem materialistic
+ @materiality  
+*  dt
+- tính vật chất, tính hữu tình; thực chất
+- tính trọng đại, tính cần thiết
+
+@materialization  
+*  dt
+- sự vật chất hoá
+- sự cụ thể hoá; sự thực hiện
+
+@materialization
+- vật chất hoá
+ @materialize   (materialise) @materializer
+* dt
+- người thực hiện
+ @materially  
+*  dt
+- vật chất, hữu hình; cụ thể
+
+@Materials balance principle
+- (Econ) Nguyên lý cân bằng vật chất.
+: Là một nguyên tác trong kinh tế học môi trường, theo đó khối lượng chất thải ra môi trường từ quá trình sản xuất được coi là xấp xỉ khối lượng các tài nguyên được sử dụng để sản xuất ra hàng hoá.
+ @materiel
+* dt
+- trang thiết bị
+ @maternal  
+*  tt
+- (thuộc) mẹ; của người mẹ; về phía mẹ ((đùa cợt)) của mẹ mình
+
++ maternal lovve: tình mẹ
+
++ maternal uncle: cậu (em mẹ, anh mẹ)
+
++ maternal grandfather: ông ngoại
+
+@maternalize
+* ngdgt
+- làm cho trở thành mẹ
+ @maternity  
+*  dt
+- tính chất người mẹ, nhiệm vụ người mẹ
+
+@maternity hospital  
+*  dt
+- nhà hộ sinh
+
+@maternity leave  
+*  dt
+- phép nghỉ đẻ, thời gian nghỉ đẻ
+
+@maternity robe  
+*  dt
+- áo đàn bà chửa
+
+@mateship
+* dt
+- tình bạn; quan hệ đồng nghiệp
+ @matey   (maty) @math
+- toán
+ @math.
+* (viết tắt)
+- (thuộc) toán học (mathematical)
+- nhà toán học (mathematician)
+ @mathematical  
+*  tt
+- toán, toán học
+
++ mathematical logic: lô-gic toán
+- đúng, chính xác (bằng chứng...)
+
+@mathematical
+- (thuộc) toán
+ @Mathematical expectation
+- (Econ) Kỳ vọng toán học.
+: Xem EXPECTED VALUE.
+ @mathematician  
+*  dt
+- nhà toán học
+
+@mathematician
+- nhà toán học
+ @mathematicism
+* dt
+- chủ nghĩa toán học
+ @mathematics   (maths) @mathematics
+- toán học
+- abstract m. toán học trừu tượng, toán họcthuần tuý
+- applied m. toán học ứng dụng
+- constructive m. toán học kiến thiết 
+- elementary m. toán học sơ cấp 
+- pure m. toán học thuần tuý 
+ @mathematization
+* dt
+- toán học hoá
+ @mathematize
+* ngdgt
+- trình bày dưới hình thức toán học; toán học hoá
+ @maths   (maths) @matin  
+*  dt
+- (số nhiều) kinh (cầu buổi) sáng ((cũng) mattins)
+- (thơ ca) tiếng hót ban mai của chim
+
+@matinal
+* tt
+- như matin
+ @matinee
+* dt
+- như matinée
+ @matins
+* dt
+- kinh cầu nguyện buổi sáng (Công giáo)
+- lễ cầu nguyện buổi sáng (Anh giáo)
+ @matinée  
+*  dt
+- buổi biểu diễn (nhạc, kịch) ban chiều
+
+@matlo   (matlow) @matlow   (matlow) @matrass  
+*  dt
+- bình dài cổ (để chưng cất)
+
+@matri
+- tiền tố
+- mẹ
+- matricide
+- tội giết mẹ; kẻ giết mẹ
+- matriarchy
+- chế độ mẫu quyền
+- tiền tố
+- mẹ
+- matricide
+- tội giết mẹ; kẻ giết mẹ
+- matriarchy
+- chế độ mẫu quyền
+ @matriarch  
+*  dt
+- (thường), (đùa cợt) bà chúa gia đình
+
+@matriarchal  
+*  tt
+- (thuộc) quyền mẹ
+
+@matriarchy  
+*  dt
+- chế độ quyền mẹ
+
+@matrices  
+*  dt,  số nhiều matrices  @matricidal  
+*  tt
+- (thuộc) tội giết mẹ
+
+@matricide  
+*  dt
+- tội giết mẹ
+- kẻ giết mẹ
+
+@matriclinous
+* tt
+- kế thừa những đặc tính của mẹ
+ @matriculate  
+*  ngdgt
+- tuyển vào đại học
+*  ndgt
+- trúng tuyển vào đại học
+
+@matriculation  
+*  dt
+- sự tuyển vào đại học; sự được tuyển vào đại học
+- kỳ thi vào đại học
+
+@matrilineal
+* tt
+- theo mẫu hệ
+ @matrilineally
+* dt
+- xem matrilineal
+ @matrilocal
+* tt
+- ở nhà vợ; ở rể
+ @matrilocally
+* dt
+- xem matrilocal
+ @matrimonial  
+*  tt
+- (thuộc) hôn nhân
+
+@matrimony  
+*  dt
+- hôn nhân; đời sống vợ chồng
+
+@matrix  
+*  dt,  số nhiều matrices  @Matrix
+- (Econ) Ma trận.
+ @matrix
+- ma trận; lưới; bảng
+- adjoint m. ma trận liên hợp
+- atjugate m. ma trận phụ hợp 
+- admittance m. ma trận dẫn nạp
+- alternate m. (đại số) ma trận thay phiên
+- associate m. ma trận liên hợp Heemit
+- associated m. ma trận liên đới
+- augmented m. ma trận bổ sung 
+- best conditioned m. ma trận tói ưu có điều kiện, ma trận có điều kiện tốt
+- nhất 
+- canoical m. ma trận chính tắc
+- chain m. ma trận xích
+- circulant m. ma trận giao hoán
+- companion m. ma trận bạn
+- complete correlation m. ma trận tương quan
+- composite m. (đại số) ma trận thành phần, ma trận (phức) hợp
+- compound m.s (đại số) ma trận đa hợp
+- conformable m. (ces) ma trận nhân được với nhau
+- conjugate m. (ces) ma trận liên hợp 
+- constant m. bằng ma trận
+- cyclic m. ma trận xi lic
+- decomposable m. ma trận khai triển được
+- diagonal m. ma trận đường chéo
+- equivalent m. (ces) ma trận tương đương
+- factor m. (thống kê) ma trận các hệ số nhân tố
+- ferroelectric memory m. ma trậ nhớ sắt điện
+- gain m. ma trận tiền được cuộc
+- group m. ma trận nhóm
+- Hermitian m. ma trận Hecmit
+- idempotent m. (ces) ma trận luỹ đẳng
+- idempotent m. ma trận đơn vị
+- ill-conditionned m. ma trận điều kiện xấu
+- improper orthogonal m. ma trận trực giao bình thường
+- incidence m. ma trận liên thuộc
+- information m. ma trận thông tin
+- inverse m. (đại số) ma trận nghịch đảo
+- invertible m. ma trận khả nghịch
+- involutory m. (ces) ma trận đối hợp
+- minor definite m. ma trận xác định qua các định thức con
+- monomial m. ma trận đơn thức
+- nilpotent m. ma trận luỹ linh
+- non-recurrent circulant m. (đại số) ma trận luân hoàn không lặp lại
+- non-singular m. (đại số) ma trận không suy biến
+- normal m. ma trận chuẩn tắc
+- orthogonal m. ma trận trực giao
+- parastrophic m. (đại số) ma trận cấu trúc
+- partitioned m. (ces) ma trận phân phối
+- payoff m. ma trận tiền trả
+- permutation m. (đại số) ma trận hoán vị
+- positive m. ma trận dương
+- positively definite m. (đại số) ma trận xác định dương
+- quasi-inverse m. ma trận tựa nghịch đảo
+- reciprocal m. ma trận nghịch đảo
+- rectangular m. ma trận chữ nhật
+- regret m. ma trận tổn thất
+- resistor m. lưới cản, lưới kháng
+- scalar m. ma trận đường chéo
+- similar m.(ces) (đại số) các ma trận đồng dạng
+- singular m. ma trận suy biến
+- skew-symmetric m. ma trận phản đối xứng
+- square m. ma trận vuông
+- stochastic m. (đại số) ma trận ngẫu nhiên
+- symmetric(al) m. (đại số) ma trận đối xứng
+- transposed m. ma trận chuyển vị
+- triangular m. (đại số) ma trận tam giác
+- unimodular m. ma trận đơn môđula
+- unitary m. (đại số) ma trận unita
+- unit m. ma trận đơn vị
+- U-symmetric m. (ces) ma trận U- đối xứng 
+- variation diminishing m. (đại số) ma trận giảm lao động
+- variation limiting m. (đại số) ma trận giới hạn dao động
+- zero m. ma trận không 
+ @matrixer
+- (máy tính) sơ đồ ma trận
+ @matron  
+*  dt
+- đàn bà có chồng
+- bà quản lý (bệnh viện, trường học...)
+
+@matronage  
+*  dt
+- thân phận người đàn bà có chồng
+- sự trông nom của bà quản lý (bệnh viện, trường học...)
+
+@matronal   (matronly) @matronhood  
+*  dt
+- thân phận người đàn bà có chồng
+
+@matronlike  
+*  tt
+- như người đàn bà có chồng; đứng đắn, nghiêm trang, đoan trang
+
+@matronly   (matronly) @matronship
+* dt
+- như matronage
+ @matronymic   (matronymic) @matte
+* tt
+- (nói về bề mặt) mờ; xỉn
+ @matter  
+*  dt
+- chất, vật chất
+
++ solid matter: chất đặc
+
++ liquid matter: chất lỏng
+
++ gaseous matter: chất khí
+- đề, chủ đề, nội dung
+
++ the matter of a poem: chủ đề của bài thơ
+- vật, vật phẩm
+
++ printed matter: ấn phẩm
+- việc, chuyện, điều, sự kiện, vấn đề
+
++ it is a very important matter: đấy là một việc rất quan trọng
+
++ it is no laughing matter: đây không phải là chuyện đùa
+
++ it is only a matter of habit: đó chỉ là vấn đề thói quen
+
++ a matter of life and dealth: một vấn đề sống còn
+
++ what's the matter with you?: anh làm sao thế?, anh có vấn đề gì thế?
+- việc quan trọng, chuyện quan trọng
+
++ it is no great matter: cái đó không phải là điều quan trọng ghê gớm
+
++ no matter: không có gì quan trọng; không có gì đáng lo ngại cả
+- số ước lượng, khoảng độ (thời gian, không gian, số lượng...)
+
++ a matter of six kilometers: khoảng độ sáu kilômét
+- lý do, nguyên nhân, cớ, lẽ, cơ hội
+
++ no matter for complaint: không có lý do gì để than phiền cả
+- (y học) mủ
+*  ndgt
+- có ý nghĩa, có tính chất quan trọng
+
++ it does not matter much, does it?: cái đó không có gì quan trọng lắm phải không?
+- (y học) mưng mủ, chảy mủ
+
+@matter
+- (vật lí) vật chất; chất; thực chất; nội dung as a m. of fact thực tế, thực
+- vậy, thực chất là 
+ @matter of course  
+*  dt
+- việc tất nhiên
+*  tt
+- tất nhiên, đương nhiên
+
+@matter of fact  
+*  tt
+- sự việc thực tế
+*  tt
+- thực tế; tầm thường
+
+@matter-of-fact
+* tt
+- có thật; thực tế
+- đơn giản (chẳng có gì phức tạp)
+ @matter-of-factness  
+*  dt
+- tính thực tế; tính tầm thường
+
+@matting  
+*  dt
+- chiếu thảm
+- nguyên liệu dệt chiếu; nguyên liệu dệt thảm
+
+@mattins  
+*  dt
+- (số nhiều) kinh (cầu buổi sáng) ((cũng) matin)
+
+@mattock  
+*  dt
+- cái cuốc chim
+
+@mattress  
+*  dt
+- nệm, đệm
+
+@maturate  
+*  dt
+- (y học) mưng mủ (mụn, nhọt...)
+
+@maturation  
+*  dt
+- sự chín (trái cây)
+- sự mưng mủ (mụn, nhọt...); sự làm mưng mủ
+- sự thành thực, sự trưởng thành
+
+@mature  
+*  tt
+- chín, thành thực, trưởng thành
+
++ mature years: tuổi trưởng thành, tuổi thành niên
+- cẩn thận, chín chắn, kỹ càng
+
++ after mature deliberation: sau khi đã suy xét kỹ càng; sau khi đã đắn đo suy nghĩ
+
++ the plan is not mature yet: kế hoạch chưa chín chắn
+- (thương nghiệp) đến kỳ hạn phải thanh toán; mân kỳ (hoá đơn)
+*  ngdgt
+- làm cho chín, làm cho chín chắn, làm cho hoàn thiện (kế hoạch...)
+*  ndgt
+- chín trở nên chín chắn, trưởng thành, hoàn thiện
+- mân hạn, mân kỳ, đến kỳ hạn phải thanh toán (hoá đơn)
+
++ when does this bill mature?: đến khi nào cái hoá đơn này phải thanh toán?
+
+@mature
+- (toán kinh tế) trả tiền (cho phiếu nhận tiền)
+ @maturely
+* dt
+- xem mature
+ @matureness
+* dt
+- tính chín; tính thuần thục, tính trưởng thành
+ @maturite
+- (toán kinh tế) thời gian trả (theo phiếu nhận tiền)
+ @maturity  
+*  dt
+- tính chín; tính thành thực, tính trưởng thành
+- tính cẩn thận, tính chín chắn, tính kỹ càng
+- (thương nghiệp) kỳ hạn phải thanh toán
+
+@Maturity
+- (Econ) Đến hạn, hết hạn.
+: Là ngày mà khoản nợ của người phát hành trái phiếu đến hạn phải thanh toán hoặc là ngày đến hạn thanh toán tiền nợ gốc.
+ @Maturity
+- (Econ) Đến hạn thanh toán.
+ @matutinal  
+*  tt
+- (thuộc) buổi sáng, (thuộc) ban mai; vào buổi sáng, vào lúc ban mai
+
+@matutinally
+* dt
+- vào buổi sáng, vào lúc ban mai
+ @maty   (maty) @matzoh
+* dt
+- bánh thánh không men (lễ Do thái)
+ @maudlin  
+*  tt
+- uỷ mị, hay khóc lóc, sướt mướt
+- say lè nhè
+*  dt
+- tính uỷ mị, tính hay khóc lóc
+- tình cảm uỷ mị, tình cảm sướt mướt
+
+@maudlinism  
+*  dt
+- tính uỷ mị, tính hay khóc lóc sướt mướt
+
+@maudlinness
+* dt
+- tính hay thương cảm; tính ủy mị
+ @maugre
+* giới từ
+- mặc dầu
+ @maul  
+*  dt
+- cái vồ lớn
+*  ngdgt
+- đánh thâm tím, hành hạ
+- phá hỏng, làm hỏng (vật, vấn đề...)
+- phê bình tơi bời, đập tơi bời ((nghĩa bóng))
+
+@maulstick
+* dt
+- như mahlstick
+ @maunder  
+*  ndgt
+- nói năng lung tung, nói năng không đâu vào đâu
+- hành động uể oải, đi lại uể oải
+
+@maunderer
+* dt
+- người nói nhảm
+- người đi đứng uể oải; người làm việc uể oải
+ @mauser  
+*  dt
+- súng môze
+
+@mausoleum  
+*  dt
+- lăng, lăng tẩm
+
+@mauve  
+*  dt & tt
+- màu hoa cà
+
+@maverick  
+*  dt,  (từ Mỹ,nghĩa Mỹ)
+- con bê chưa đánh dấu
+- người đảng viên có tổ chức; người hoạt động chính trị độc lập; người trí thức không chịu theo khuôn phép xã hội
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ) đi lạc
+
+@maverick
+- (thống kê) loại bỏ không đại diện cho tập hợp tổng quát
+ @mavis  
+*  dt
+- (thơ ca) (như) song-thrush
+
+@mavourneen
+- Cách viết khác : mavournin 
+ @mavournin
+- như mavourneen
+ @maw  
+*  dt
+- dạ dày (súc vật); dạ múi khế (của loài nhai lại)
+-(đùa cợt) dạ dày (người)
+
++ to fill one's maw: nhét đầy bụng
+- diều (chim)
+- mồm, họng (của con vật háu ăn)
+
+@mawkish  
+*  tt
+- nhạt nhẽo; buồn nôn (mùi vị)
+- (nghĩa bóng) uỷ mị, sướt mướt
+
+@mawkishly
+* dt
+- ủy mị; sướt mướt
+ @mawkishness  
+*  dt
+- tính nhạt nhẽo; tính buồn nôn (mùi vị)
+- (nghĩa bóng) tính uỷ mị, tính sướt mướt
+
+@mawseed  
+*  dt
+- hột quả thuốc phiện
+
+@mawworm  
+*  dt
+- giun sán
+
+@max
+- (viết tắt) tối đa
+ @max.
+* (viết tắt)
+- tối đa (maximum)
+ @maxi
+* dt
+- số nhiều là maxis
+- áo hoặc váy dài đến gót chân
+ @maxilla  
+*  dt,  số nhiều maxillae  @maxillae  
+*  dt,  số nhiều maxillae  @maxillary  
+*  tt
+- (thuộc) hàm trên
+
+@maxilliped
+* dt
+- chân ở hàm (cua, tôm)
+ @maxillo-facial
+* tt
+- (thuộc) hàm-mặt
+ @maxim  
+*  dt
+- cách ngôn, châm ngôn
+- Maxim súng liên thanh macxim
+
+@maxima   (maxima) @maximal  
+*  tt
+- tối đa, tột độ
+
+@maximal
+- cực đại
+ @maximalism
+* dt
+- tối đa luận
+ @maximalist  
+*  dt
+- người theo phe đa số (trong đảng xã hội)
+- người đòi hỏi mức tối đa
+
+@Maximax
+- (Econ) Tối đa hoá cực đại.
+: Là một quy tắc trong lý thuyết RA QUYẾT ĐỊNH để giúp cho việc lựa chọn trong những điều kiện không chắc chắn.
+ @Maximin
+- (Econ) Tối đa hoá cực tiểu.
+: Là một quy tắc trong lý thuyết RA QUYẾT ĐỊNH để giúp cho việc lựa chọn trong những điều kiện không chắc chắn.
+ @maximin
+- (lý thuyết trò chơi) maximin
+ @maximisation
+* dt
+- như maximization
+ @maximise   (maximise) @maximization  
+*  dt
+- sự làm tăng lên đến tột độ
+
+@maximize   (maximise) @maximize
+- làm cực đại
+ @maximum   (maxima) @Maximum
+- (Econ) Giá trị cực đại.
+: Là giá trị lớn nhất của một hàm số hoặc của biến số.
+ @maximum
+- cực đại, giá trị lớn nhất
+- absolute m. cực đại tuyệt đối, cực đại hoàn toàn
+- improper m. cực đại không chân chính 
+- relative m. cực đại tương đối
+- strong m. cực đại mạnh
+- true m. cực đại chân thực, cực đại cốt yếu
+- vrai m., v. max cực đại thực
+ @Maximum likelihood
+- (Econ) Hợp lý cực đại.
+: Là một cụm thuât ngữ mô tả kỹ thuật ước lượng kinh tê lượng chung bao gồm việc tối đa hoá hàm hợp lý của những quan sát mẫu về các giá trị của các tham số của các phương trình đang được ước tính.
+ @maximus  
+*  tt
+- lớn (tuổi) nhất (trong ít nhất ba học sinh trùng tên)
+
++ Jones maximus: Giôn lớn nhất
+
+@maxis
+- số nhiều của maxi
+ @maxwell
+* dt
+- Macxoen (đơn vị từ thông)
+ @may  
+*  trợ dgt (thời quá khứ might; không có động tt quá khứ)
+- có thể, có lẽ
+
++ it may be: điều đó có thể xảy ra
+
++ they may arrive tomorrow: có thể ngày mai họ đến
+- có thể (được phép)
+
++ may I smoke?: tôi có thể hút thuốc được không?
+- có thể (dùng thay cho cách giả định)
+
++ you must work hard that you may succeed: anh phải làm việc chăm chỉ để có thể thành công
+
++ however clever he may be: dù nó có thông minh đến đâu chăng nữa
+
++ we hope he may come again: chúng tôi mong nó có thể lại đến nữa
+- chúc, cầu mong
+
++ may our friendship last forever: chúc tình hữu nghị chúng ta đời đời bền vững
+*  dt
+- cô gái, thiếu nữ; người trinh nữ
+*  dt (May)
+- tháng năm
+- (nghĩa bóng) tuổi thanh xuân
+
++ in the May of life: đang tuổi thanh xuân, đang thời trai trẻ
+- (số nhiều) những kỳ thi tháng năm (ở trường đại học Căm-brít)
+- (số nhiều) những cuộc đua thuyền tháng năm
+- (may) (thực vật học) cây táo gai
+!Queen of [the] May
+- hoa khôi ngày hội tháng năm
+
+@may day  
+*  dt
+- ngày mồng 1 tháng 5, ngày Quốc tế lao động
+
+@maya
+* dt
+- thế giới vật chất tri giác được (ấn Độ giáo cho nó là ảo tưởng che giấu sự tồn tại tuyệt đối)
+ @mayan
+* tt
+- (thuộc) ngôn ngữ Maya; (thuộc) người Maya
+ @maybe  
+*  dt
+- có thể, có lẽ
+
+@may-beetle
+- Cách viết khác : May-bug 
+ @may-beettle   (May-bug) @may-bug   (May-bug) @mayday
+* dt
+- tín hiệu báo nguy của tàu biển hoặc máy bay; tín hiệu cấp cứu
+ @mayflower
+* dt
+- hoa tháng 5
+ @mayfly  
+*  dt
+- (động vật học) con phù du
+
+@mayhap
+* dt
+- có thể; có lẽ
+ @mayhem  
+*  dt
+- (sử học) sự cố ý làm cho (ai) tàn tật (để không tự vệ được)
+
+@maying
+* dt
+- việc tổ chức Ngày quốc tế lao động
+ @mayn't
+- xem may
+ @mayonnaise  
+*  dt
+- nước xốt mayonne
+
+@mayor  
+*  dt
+- thị trưởng
+
+@mayoral  
+*  tt
+- (thuộc) thị trưởng
+
+@mayoralty  
+*  dt
+- chức thị trưởng
+- nhiệm kỳ thị trưởng
+
+@mayoress  
+*  dt
+- bà thị trưởng
+
+@mayorship  
+*  dt
+- chức thị trưởng
+
+@maypole  
+*  dt
+- cây nêu ngày 1 tháng 5 (cây hoặc cột có kết đèn, hoa, dựng lên để mọi người nhảy múa xung quanh, vào ngày 1 tháng 5)
+
+@may-queen  
+*  dt
+- hoa khôi ngày hội tháng năm
+
+@mayqueen
+* dt
+- hoa khôi ngày hội tháng năm
+ @mazarine  
+*  dt
+- màu xanh thẫm
+*  tt
+- xanh thẫm
+
+@maze  
+*  dt
+- cung mê; đường rồi
+- (nghĩa bóng) trạng thái hỗn độn, trạng thái rối rắm
+
++ to be in a maze: ở trong một trạng thái rối rắm
+
+@maze
+- đường nối, mê lộ
+ @mazer  
+*  dt
+- (sử học) bát gỗ (để uống)
+
+@maziness  
+*  dt
+- tình trạng quanh co, tình trạng khó lần ra manh mối, khó tìm lối ra (như cung mê)
+- (nghĩa bóng) tình trạng hỗn độn, tình trạng rối rắm
+
+@mazourka
+- như mazurka
+ @mazurka  
+*  dt
+- điệu nhảy mazuka (Ba-lan)
+- nhạc nhảy mazuka
+
+@mazut
+* dt
+- dầu mazut
+ @mazy  
+*  tt
+- quanh co, khó lần ra manh mối, khó tìm lối ra
+- (nghĩa bóng) hỗn độn, rối rắm
+
+@ménage  
+*  dt
+- phương pháp khắc nạo
+- bản in khắc nạo
+*  ngdgt
+- khắc nạo; in theo bản khắc nạo
+
+@mésalliance
+
+ @

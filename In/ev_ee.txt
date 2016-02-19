@@ -1,0 +1,65 @@
+@EEC
+- (Econ) Xem EUROPEAN ECONOMIC COMMUNITY
+ @eec
+* (viết tắt)
+- Cộng đồng kinh tế Âu châu (European Economic Community)
+ @eeg
+* (viết tắt)
+- điện não đồ (electroencephalogram)
+ @eel  
+*  dt
+- con cá chình; con lươn ((nghĩa đen) & (nghĩa bóng))
+
++ as slippery as an eel: trơn tuột như lươn, khó nắm)
+- (thông tục) con giun giấm
+
+@eel-basket   (eel-buck) @eel-bed  
+*  dt
+- ao nuôi lươn
+
+@eel-buck   (eel-buck) @eelfare
+* dt
+- đàn cá chình con
+- sự di cư ngược dòng (cá chình con)
+ @eel-grass  
+*  dt
+- (thực vật học) rong lươn
+
+@eel-pie  
+*  dt
+- pa-tê nóng nhồi thịt lươn
+
+@eel-pond  
+*  dt
+- ao nuôi lươn
+
+@eel-shear
+* dt
+- cái xiên lươn
+ @eel-spear  
+*  dt
+- cái xiên lươn
+
+@eel-sucker
+* dt
+- (động vật) cá hấp đá
+ @eel-worm  
+*  dt
+- (động vật học) giun tròn
+
+@eely
+* tt
+- giống như lươn
+ @eems
+- Phiên bản nâng cao của LIM EMS (Lotus-Intel-Microsoft Expanded Memory Specification), nó cho phép các trình ứng dụng DOS có thể sử dụng bộ nhớ lớn hơn 640 K Phiên bản 4 0 của EMS phù hợp với phiên bản EMS gốc lẫn phiên bản nâng cao (EEMS) 
+ @eerie   (eery) @eerily
+* dt
+- kỳ lạ, kỳ quái
+ @eeriness  
+*  dt
+- sự sợ sệt vì mê tín
+- tính kỳ lạ, tính kỳ quái
+
+@EEROM (electrically erasable ROM)
+- (Tech) ROM xoá bằng điện
+ @eery   (eery) @

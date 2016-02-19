@@ -1,0 +1,6 @@
+@rll
+- Một phương pháp lưu trữ và phục hồi thông tin trên đựa cứng, làm tăng ít nhất 50% lượng dữ liệu có thể lưu trữ được so với phương pháp mật độ kép Đạt được việc tăng mật độ này là nhờ chuyển đổi dữ liệu theo qui cách kỹ thuật số nên có thể ghi vào đựa đặt sít hơn
+ @rly
+- vt của railway
+- đường sắt (nhất là trên bản đồ)
+ @

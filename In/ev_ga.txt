@@ -1,0 +1,3228 @@
+@GaAs (gallium arsenide) diode
+- (Tech) đèn hai cực acxênit gali
+ @GaAs (gallium arsenide) laser
+- (Tech) bộ kích quang acxênit gali
+ @gab  
+*  dt
+- vết chích, vết khía; vết đẽo
+- (kỹ thuật) cái móc; cái phích
+- (kỹ thuật) lỗ
+- (thông tục) lời nói lém, tài bẻm mép
+
++ to havr the gifl of the gab: có tài ăn nói; lém, bẻm mép
+!stop your gab!
+- câm mồm đi! im đi!
+*  ndgt
+- (thông tục) nói lém, bẻm mép
+
+@gabardine  
+*  dt
+- vải gabaddin ((cũng) gaberdine)
+
+@gabber  
+*  dt
+- người hay ba hoa, người hay bẻm mép
+
+@gabble  
+*  dt
+- lời nói lắp bắp; lời nói nhanh nghe không rõ
+- tiếng kêu quàng quạc (ngỗng)
+*  dgt
+- nói lắp bắp; nói nhanh và không rõ; đọc to và quá nhanh
+- kêu quàng quạc (ngỗng)
+
+@gabbler  
+*  dt
+- người nói lắp bắp
+
+@gabbro  
+*  dt
+- (khoáng chất) Gabro
+
+@gabbroic
+* tt
+- thuộc đá gabro, bằng đá gabro
+ @gabby  
+*  tt
+- (thông tục) hay nói, lém, lắm mồm
+
+@gabelle
+* dt
+- thuế muối (ở Pháp trước 1789)
+ @gabelled
+* tt
+- thuộc thuế muối
+ @gaberdine  
+*  dt
+- (như) gabardine
+- áo dài (người Do thái, thời Trung cổ)
+
+@gabfest
+* dt
+- cuộc họp không chính thức để mọi người trao đổi
+- a political gabfest
+- một cuộc họp chính trị
+- cuộc trao đổi kéo dài
+ @gabion  
+*  dt
+- sọt đựng đất (để đắp luỹ)
+
+@gabionade  
+*  dt
+- luỹ (đắp bằng) sọt đất
+
+@gable  
+*  dt
+- đầu hồi (nhà)
+- (kỹ thuật) cột chống, thanh chống, giá chống
+
+@gabled  
+*  tt
+- có đầu hồi; giống hình đầu hồi
+
++ a gabled roof: mái có đầu hồi
+
+@gablet
+* dt
+- mi nhà trang trí
+ @gablock
+* dt
+- gậy có mấu
+ @gaby  
+*  dt
+- chàng ngốc, người khờ dại
+
+@gad  
+*  dt
+- mũi nhọn, đầu nhọn
+- gậy đầu nhọn (để thúc trâu bò)
+- (ngành mỏ) cái chồng, cái đục đá
+- (như) gad-fly
+- sự đi lang thang
+
++ to be on (upon) the gad: đi lang thang
+*  ndgt (thường) : about,  abroad,  out
+- đi lang thang
+- mọc lan ra um tùm (cây)
+*  thán từ
+- trời, trời ơi! (ngạc nhiên hoặc mừng rỡ) ((cũng) by gad)
+
+@gadabout  
+*  tt
+- thích đi lang thang; người hay đi chơi nhăng ((cũng) gadder)
+
+@gadarene
+* tt
+- đột nhiên
+ @gadbee
+* dt
+- ruồi trâu; con mòng
+ @gadder  
+*  dt
+- (ngành mỏ) máy khoan
+- (như) gadabout
+
+@gadding
+* tt
+- lang thang
+- mọc lan um tùm (cây)
+ @gad-fly  
+*  dt
+- (động vật học) con mòng
+- người hay châm chọc
+- sự động đực
+
+@gadget  
+*  dt
+- (thực vật học) bộ phận cải tiến (trong máy móc); máy cải tiến
+- đồ dùng, đồ vật, đ
+
+@gadget
+- (Tech) đồ phụ tùng nhỏ
+ @gadgetry
+* dt
+- bộ đồ dùng, bộ đồ vật
+ @gadgety
+* tt
+- xem gadget chỉ thuộc về
+ @gadoid  
+*  tt
+- (động vật học) (thuộc) họ cá tuyết, (thuộc) họ cá moruy
+*  dt
+- (động vật học) cá thuộc họ cá tuyết, cá thuộc họ cá moruy
+
+@gadolinit
+* dt
+- (khoáng chất) gađolinit
+ @gadolonium
+* dt
+- gadoli, nguyên tố kim loại thuộc họ Lanthan
+ @gadroon
+* dt
+- (kiến trúc) trang trí nổi
+- trang trí rìa hình trứng (ở chén, đĩa bằng bạc)
+ @gadwall  
+*  dt
+- vịt trời (ở Bắc mỹ và Bắc âu)
+
+@gadzooks
+- interj
+- có chúa chứng giám! (lời thề)
+ @gael  
+*  dt
+- người Xen-tơ (ở Ê-cốt)
+
+@gaelic  
+*  tt
+- (thuộc) Xen-tơ
+*  dt
+- tiếng Xen-tơ
+
+@gaeltacht
+* dt
+- bộ phận Airơlân do người Ga-en ở
+ @gaff  
+*  dt (từ lóng)
+- to blow the gaff để lộ âm mưu; tiết lộ bí mật
+*  dt (từ lóng)
+- nơi giải trí công cộng
+- rạp hát rẻ tiền ((thường) penny gaff)
+*  dt
+- lao mấu (để đánh cá lớn)
+!to give somebody the gaff
+- đối xử với ai một cách cục cằn thô bạo
+- phê bình chỉ trích ai gay gắt
+!to stand the gaff
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) tỏ ra bền bỉ, dẻo dai; tỏ ra có sức chịu đựng
+- chịu đựng (gánh vác) mọi sự khó khăn không ta thán
+*  ngdgt
+- đánh (cá) bằng lao mấu
+- (từ lóng) bịp, lừa bịp
+
+@gaffe  
+*  dt
+- sai lầm, lầm lỗi
+- câu nói hớ, việc làm h
+
+@gaffer  
+*  dt
+- ông già; ông lão quê kệch
+- trưởng kíp (thợ)
+
+@gaffle
+* dt
+- cái cựa sắt (lắp vào cựa gà trong chọi gà)
+* ngdgt
+- lắp cựa sắt vào cựa gà
+ @gaffsman
+* dt
+- số nhiều gaffsmen
+- người giúp người đánh cá
+ @gag  
+*  dt
+- vật nhét vào miệng cho khỏi kêu la; cái bịt miệng, cái khoá miệng ((nghĩa đen) & (nghĩa bóng))
+- lời nói đùa chơi, lời nói giỡn chơi
+- (y học) cái banh miệng
+- (sân khấu) trò khôi hài
+- (từ lóng) lời nói phỉnh, lời nói dối; sự đánh lừa
+- sự chấm dứt (cuộc tranh luận ở nghị viện)
+- (kỹ thuật) cái nắp, cái nút
+*  dgt
+- bịt miệng, khoá miệng ((nghĩa đen) & (nghĩa bóng))
+
++ to gag the press: bịt miệng báo chí
+- nôn khan, oẹ
+- nghẹn
+- nói đùa chơi, nói giỡn chơi
+- (y học) cho cái banh miệng vào mồm (để mổ xẻ...)
+- (sân khấu) làm trò khôi hài, pha trò
+- (từ lóng) nói dối; lừa phỉnh, đánh lừa
+- không cho phát biểu, cắt đứt, chấm dứt (cuộc tranh luận ở nghị viện)
+
+@gaga  
+*  tt (từ lóng)
+- già nua lẫn cẫn, lẩm cẩm
+
++ to go gaga: hoá lẩm cẩm
+- ngốc, đần
+
+@gage  
+*  dt
+- đồ cầm, vật cược, vật làm tin
+- găng tay ném xuống đất để thách đấu; sự thách đấu
+
++ to throw down the gage: ném găng tay xuống đất để thách đấu
+*  ndgt
+- cầm; đặt cược
+*  dt
+- (như) gauge
+*  ngdgt
+- (như) gauge
+
+@gage
+- tỷ xích, thước tỷ lệ; cữ, calip; dụng cụ đo (kích thước)
+ @gage, gauge
+- (Tech) cỡ, tiêu chuẩn; đồ đo; áp lưc kế; lấy chuẩn (đ); đo lường (đ) 
+ @gager
+* dt
+- xem gauger
+ @gagger
+* dt
+- cái mốc (thợ khuôn)
+- con mã (đúc)
+- thợ dập khuôn
+- người bịt miệng người khác
+- người kiềm chế ngôn luận
+ @gagging
+* dt
+- sự sửa nguội
+ @gaggle  
+*  dt
+- bầy ngỗng
+- bọn (đàn bà) ngồi lê đôi mách
+*  ndgt
+- kêu quàng quạc (ngỗng)
+
+@gag-man  
+*  dt
+- (sân khấu) người làm trò khôi hài, người pha trò
+- người sáng tác trò khôi hài
+- người trả lời những câu khôi hài hóm hỉnh trên đài truyền hình
+
+@gahnite
+* dt
+- (khoáng chất) ganit
+ @gaiety  
+*  dt
+- sự vui vẻ; tính vui vẻ; vẻ hoan hỉ
+- ((thường) số nhiều) trò vui; cuộc liên hoan đình đám
+- vẻ xán lạn, vẻ tươi vui
+
+@gaily  
+*  dt
+- vui vẻ; hoan hỉ
+- xán lạn, tươi vui
+
+@gain  
+*  dt
+- lợi, lời; lợi lộc; lợi ích
+
++ love of gain: lòng tham lợi
+- (số nhiều) của thu nhập, của kiếm được; tiền lãi
+- sự tăng thêm
+
++ a gain to knowlegde: sự tăng thêm hiểu biết
+!ill-gotten gains never prosper
+- (tục ngữ) của phi nghĩa có già đâu
+*  dgt
+- thu được, lấy được, giành được, kiếm được
+
++ to gain experience: thu được kinh nghiệm
+
++ to gain someone's sympathy: giành được cảm tình của ai
+
++ to gain one's living: kiếm sống
+- đạt tới, tới
+
++ to gain the top of a mountain: tới đỉnh núi
+
++ swimmer gains the shopre: người bơi tới bờ
+- tăng tốc (tốc độ...); lên (cân...); nhanh (đồng hồ...)
+
++ to gain weight: lên cân, béo ra
+
++ watch gains five minutes: đồng hồ nhanh năm phút
+!to gain on (upon)
+- lấn chiếm, lấn vào
+
++ sea gains on land: biễn lấn vào đất liền
+- tiến sát, đuổi sát (ai, cái gì)
+- tranh thủ được lòng (ai)
+
++ to gain over: tranh thủ được, giành được về phía mình
+!to gain ground
+- tiến tới, tiến bộ
+- (: upon,  on) lấn chiếm; đuổi sát, tiến sát (ai, cái gì)
+
+@gain
+- (Tech) tăng ích, gia lượng; hệ số khuếch đại
+ @gain
+- gia lượng, lượng thêm; sự tăng thêm; (lý thuyết trò chơi) sự được cuộc
+- g. in energy sự tăng năng lượng
+- g. perstage sự khuếch đại từng bước
+- expected g. (toán kinh tế) lãi kỳ vọng
+- feedback g. hệ số phản liên
+- information g. sự làm tăng tin
+- net g. (lý thuyết trò chơi) thực thu 
+ @gain control
+- (Tech) điều chỉnh tăng ích, điều chỉnh khuếch đại
+ @gain hit
+- (Tech) độ chỉnh khuếch đại nhanh
+ @gain region
+- (Tech) vùng tăng ích
+ @gainable
+* tt
+- có thể có được, có thể thắng được, có thể đạt được
+ @gain-bandwidth product
+- (Tech) tích độ tăng ích đải thông
+ @gainer  
+*  dt
+- người được, người thắng cuộc
+
+@gainful  
+*  tt
+- có lợi, có lời
+- hám lợi (người)
+
+@gainfully
+* dt
+- hữu ích, ích lợi
+ @gainings  
+*  dt số nhiều
+- của kiếm được; tiền lãi
+
+@gainly  
+*  tt
+- đẹp, có duyên; thanh nhã
+
+@Gains from trade
+- (Econ) Lợi ích của thương mại.
+: Phúc lợi tăng lên của nền kinh tế thế giới nói chung hay đối với một nước riêng, tuỳ thuộc vào quan điểm, do kết quả của việc tham gia vào thương mại quốc tế.
+ @gainsaid  
+*  ngdgt gainsaid (từ cổ,nghĩa cổ); (văn học)
+- chối cãi, không nhận
+
++ fact that cannot be gainsaid: những sự việc không thể chối câi được
+- nói trái lại, nói ngược lại
+
+@gainsay  
+*  ngdgt gainsaid (từ cổ,nghĩa cổ); (văn học)
+- chối cãi, không nhận
+
++ fact that cannot be gainsaid: những sự việc không thể chối câi được
+- nói trái lại, nói ngược lại
+
+@gainst  
+*  giới từ
+- (thơ ca) (như) against
+
+@gairish
+* tt
+- xem garish
+ @gait  
+*  dt
+- dáng đi
+
++ an awkward gait: dáng đi vụng về
+
+@gaited
+* tt
+- có lối đi
+
++  slow gaited:có lối đi chậm chạp
+ @gaiter  
+*  dt,  (thường) số nhiều
+- ghệt
+!ready to the gaiter button
+- chuẩn bị đầy đ
+
+@gal  
+*  dt
+- (thông tục) cô gái
+
+@gala  
+*  dt
+- hội, hội hè
+
++ in gala attie: mặc quần áo đi xem hội
+
+@galactagogue
+* tt
+- (y học) làm tăng sữa
+ @galactic
+* tt
+- <thvăn> (thuộc) ngân hà
+ @galactic noise
+- (Tech) nhiễu thiên hà
+ @galactic radio noise
+- (Tech) nhiễu vô tuyến thiên hà
+ @galactophorous
+* tt
+- (giải phẫu) chứa sữa
+ @galactopoiesis
+* tt
+- tạo nên sữa
+ @galactopoietic
+* tt
+- lợi sữa
+* dt
+- thuốc lợi sữa
+ @galactosaemia
+* dt
+- (y học) galactoza-huyết
+ @galactose  
+*  dt
+- (hoá học) galactoze
+
+@galactosis
+* dt
+- sự tạo sữa; sự sinh ra sữa
+ @gala-day
+* dt
+- ngày lễ
+ @galanga
+* dt
+- cũng galangal
+- (thực vật) cây riềng nếp
+ @galantine  
+*  dt
+- giò (món ăn)
+
+@galanty show  
+*  dt
+- tuồng bóng (rọi bóng những con rối lên tường)
+
+@galatic  
+*  tt
+- (thiên văn học) (thuộc) ngân hà
+
+@galavant
+* ndgt
+- xem gallivant
+ @galaxy  
+*  dt
+- (thiên văn học) ngân hà, thiên hà
+- (nghĩa bóng) nhóm tinh hoa, nhóm
+
++ a galaxy of talent: nhóm những người có tài
+
+@galban
+- Cách viết khác : galbanum 
+ @Galbraith, John Kenneth
+- (Econ) (1908-)
+ @galctic
+- (thiên văn) (thuộc) thiên hà, ngân hà
+ @gale  
+*  dt
+- cơn gió mạnh (từ cấp 7 đến cấp 10); bão
+- (từ Mỹ,nghĩa Mỹ) sự nổ ra, sự phá lên
+
++ gales of laughter: những tiếng cười phá lên
+- (thơ ca) gió nhẹ, gió hiu hiu
+- sự trả tiền thuê (nhà đất) từng kỳ
+- (thông tục) cây dầu thơm (cùng loại với dâu rượu có lá thơm) ((cũng) sweet gale)
+
+@galea
+* dt
+- (giải phẫu) cân bọc sọ; băng đầu
+- bao cánh môi; mảnh nghiền ngoài; mảnh nghiền ngoài hàm
+- mũ
+- (y học) toàn đầu thống
+- nhóm cánh hoa hình mũ
+ @galeate  
+*  tt
+- (thực vật học) hình m
+
+@galeeny  
+*  dt
+- (động vật học) gà Phi
+
+@galeiform
+* tt
+- có hình mũ
+ @galen  
+*  dt
+-(đùa cợt) ông lang
+
+@galena  
+*  dt
+- (khoáng chất) Galen
+
+@galena detector
+- (Tech) bộ kiểm sóng sulfua chì (PbS) @galenic  
+*  tt ((cũng) galenical)
+- (thuộc) y lý của Galen
+- bằng các loại cây cỏ (thuốc)
+
+@galenical  
+*  dt
+- thuốc bằng các loại cây cỏ, thuốc lá (chữa bệnh)
+*  tt
+- (như) galenic
+
+@galenism
+* dt
+- nguyên lý chữa bệnh theo Galen
+ @galere
+* dt
+- nhóm người riêng
+ @galette
+* dt
+- bánh khoai tây nghiền rồi rán
+ @galiass
+* dt
+- xem galeass
+ @Galilean
+- (vật lí) (thuộc) Galilê
+ @galilee
+* dt
+- (kiến trúc) lễ đường nhỏ trước nhà thờ (ở Anh)
+ @galimatias  
+*  dt
+- lời nói lúng túng, lời nói vô nghĩa; chuyện không đầu, không đuôi
+
+@galingale  
+*  dt (thực vật học)
+- cây củ gấu
+- cây gừng núi
+
+@galiot   (galiot) @galipot  
+*  dt
+- nhựa (cây) thông biển
+
+@gall  
+*  dt
+- mật
+- túi mật
+- chất đắng; vị đắng
+- (nghĩa bóng) nỗi cay đắng, mối hiềm oán
+
++ the gall of life: nỗi cay đắng ở đời
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự trơ tráo; sự láo xược
+
++ to have the gall to do something: dám trơ tráo làm việc gì, dám mặt dạn máy dày làm việc gì
+!gall and wormwood
+- cái đáng căm ghét
+- sự hằn học
+!a pen dipped in gall
+- ngòi bút châm biếm cay độc
+*  dt
+- (thực vật học) mụn cây, vú lá
+- vết sầy da, chỗ trượt da (ở ngựa...)
+- chỗ trơ trụi (ở cánh đồng...)
+- sự xúc phạm, sự chạm (lòng tự ái...)
+*  dgt
+- làm sầy da, làm trượt da
+- làm phiền, làm khó chịu; xúc phạm lòng tự ái
+
++ to gall somebody with one's remarks: xúc phạm lòng tự ái của ai vì những nhận xét của mình
+
+@gallalith
+* dt
+- ngà voi giả (để làm lược...)
+ @gallamine
+* dt
+- (hoá học) galamin
+ @gallant  
+*  tt
+- dũng cảm; hào hiệp
+- uy nghi, lộng lẫy, tráng lệ (thuyền...); cao lớn đẹp dẽ (ngựa...)
+
++ a gallant steed: con tuấn mã
+- (từ cổ,nghĩa cổ) ăn mặc đẹp, chải chuốt, bảnh bao
+- chiều chuộng phụ nữ, nịnh đầm
+- (thuộc) chuyện yêu đương
+
++ gallant adventures: những câu chuyện yêu đương
+*  dt
+- người sang trọng, người phong nhã hào hoa
+- người khéo chiều chuộng phụ nữ, người nịnh đầm
+- người tình, người yêu
+*  dgt
+- chiều chuộng, tán tỉnh, đi theo đưa đón (phụ nữ)
+
+@gallantly  
+*  dt
+- gan dạ, dũng cảm
+- nịnh đầm, lịch sự với phụ nữ; lả lơi
+
+@gallantry  
+*  dt
+- sự can đảm, sự gan dạ, lòng dũng cảm
+- hành động dũng cảm
+- sự chiều chuộng phụ nữ
+- cử chỉ lịch sự với phụ nữ; lời nói lịch sự với phụ nữ
+- chuyện tán tỉnh yêu đương
+- chuyện dâm ô
+
+@gallanty-show
+* dt
+- trò rối bóng (cắt giấy thành hình để nhìn bóng trên tường); trò rối bóng Trung Quốc
+ @gall-bladder  
+*  dt
+- túi mật
+
+@gall-duct
+* dt
+- ống mật
+ @galleass
+* dt
+- tàu ba cột buồm
+ @galleon  
+*  dt (sử học)
+- thuyền buồm lớn
+- thuyền chiến (Tây-ban-nha)
+
+@gallery  
+*  dt
+- phòng trưng bày tranh tượng
+- nhà cầu, hành lang
+- phòng dài (tập bắn, chơi bóng gỗ...)
+- ban công, chuồng gà; khán giả chuồng gà (trong rạp hát)
+
++ gallery hit: (nghĩa bóng) tiết mục được quần chúng ưa thích
+- chỗ dành cho ban đồng ca (ở nhà thờ); lô dành cho nhà báo (cho khách) (ở nghị viện)
+- cái giữ thông phong đèn (cho khách)
+- (ngành mỏ); (quân sự) đường hầm
+!to play to the gallery
+- chiều theo thị hiếu tầm thường của quần chúng
+*  ngdgt
+- đục đường hầm, mở đương hầm (ở mỏ...)
+
+@gallet
+* dt
+- phiến đá; đá vụn
+ @galley  
+*  dt
+- (sử học) thuyến galê (sàn thấp, chạy bằng buồm và chèo, thường do nô lệ hoặc tù nhân chèo)
+- (hàng hải) bếp (ở dưới tàu)
+- (ngành in) khay (để sắp chữ)
+- (the galley) lao dịch, những công việc khổ sai
+
+@galley-cabinet
+* dt
+- giá để các bát chữ
+ @galley-man
+* dt; số nhiều galley-men
+- người chèo thuyền
+ @galley-news
+* dt
+- (hàng hải) chuyện hoang đường, chuyện bịa đặt
+ @galley-proof  
+*  dt
+- (ngành in) bản in thử, bản rập th
+
+@galley-slave  
+*  dt
+- người nô lệ chèo thuyền
+- người phải làm việc cực nhọc
+
+@galley-west
+* dt
+- (từ Mỹ, nghĩa Mỹ) làm xáo trộn; làm phá hoại
+ @gall-fly  
+*  dt
+- sâu cây vú lá
+
+@galliard
+* dt
+- điệu vũ sôi nổi thế kỷ 16
+- hảo hán
+* tt
+- dũng mãnh; hào hiệp
+ @gallic  
+*  dt
+- (hoá học) Galic
+
+@gallican
+* tt
+- thuộc Gô-lơ (nước Pháp cổ)
+- tôn giáo cũ xứ Gô-lơ
+ @gallicanism
+* dt
+- phong trào đòi nhà thờ Pháp độc lập với La-mã và Giáo hoàng
+ @gallicism  
+*  dt
+- (ngôn ngữ học) từ ngữ đặc Pháp
+
+@gallicization
+* dt
+- sự làm cho phù hợp với phong tục, ngôn ngữ... Pháp
+ @galligaskins  
+*  dt số nhiều
+-(đùa cợt) quần bó ở đầu gối; quần
+
+@gallimaufry  
+*  dt
+- mớ hỗn độn, mớ hổ lốn
+
+@gallinacean
+* tt
+- thuộc họ gà
+* dt
+- họ gà
+ @gallinaceous  
+*  tt
+- (động vật học) (thuộc) bộ gà
+
+@galling
+* tt
+- khiến cho bực bội, gây khó chịu
+ @gallinule  
+*  dt
+- (động vật học) gà nước
+
+@galliot   (galiot) @gallipot  
+*  dt
+- bình sứ nhỏ, lọ sứ nhỏ (đựng thuốc xoa...)
+
+@gallium  
+*  dt
+- (hoá học) Gali
+
+@gallium arsenide diode
+- (Tech) đèn hai cực acxênit gali (GaAs)
+ @gallium arsenide (GaAs)
+- (Tech) acxênit gali, thân hóa gia (hợp chất chế tạo bán đạo thể mới)
+ @gallium arsenide semiconductor
+- (Tech) chất bán dẫn acxênit gali (GaAs)
+ @gallivant  
+*  ndgt
+- đi lang thang
+- đi theo ve vãn con gái
+
+@gallivat
+* dt
+- thuyền chiến nhỏ có buồm
+ @gall-nut  
+*  dt
+- mụn cây, vú lá
+
+@gallomania
+* dt
+- tính mê Pháp; tính sùng Pháp
+ @gallomaniac
+* dt
+- người sùng Pháp
+ @gallon  
+*  dt
+- Galông (đơn vị đo lường chất lỏng bằng 4, 54 lít ở Anh, 3, 78 lít ở Mỹ)
+
+@gallonage
+* dt
+- dung lượng tính bằng galon
+ @gallon-degree
+* dt
+- độ galon
+ @galloned
+* dt
+- đeo dải trang sức (ở áo)
+ @galloon  
+*  dt
+- dải trang sức (bằng vàng bạc hoặc lụa)
+
+@gallop  
+*  dt
+- nước phi (ngựa)
+!at full gallop
+- phi nước đại
+!at the snail's gallop
+- đi chậm như sên
+*  ndgt
+- phi nước đại (ngựa)
+*  ngdgt
+- thúc (ngựa) phi nước đại
+- ((thường) : through,  over) nói nhanh; đọc nhanh
+
++ to gallop through one's speech: nói thật nhanh cho hết bài diễn thuyết
+- chạy nhanh, tiến triển nhanh
+
++ galloping consumption: lao phổi tiến triển nhanh, lao tẩu mã
+
+@gallopade
+* ngdgt
+- phi ngựa rất nhanh
+- múa điệu vũ nhanh
+ @galloper  
+*  dt
+- ngựa phi nước đại
+- (quân sự) quan hầu
+- (quân sự) pháo nhẹ
+
+@galloping
+* tt
+- tiến triển nhanh
+ @Galloping inflation
+- (Econ) Lạm phát phi mã.
+: Xem HYPER INFLATION.
+ @galloway  
+*  dt
+- giống ngựa galôuây (Ê-cốt)
+
+@gallow-glass
+* dt
+- binh sĩ Airơlân theo lệnh chủ Airơlân thuê họ
+ @gallows  
+*  dt,  số nhiều (thường) dùng như số ít
+- giá treo cổ
+!to come to the gallows
+- bị treo cổ
+!tp wear a gallows look; to have the gallows in one's face
+- có bộ mặt đáng chém, trông có vẻ hiểm ác
+
+@gallows humour
+* dt
+- lời nói đùa về những chuyện tang thương chết chóc, lời nói đùa xúi quẩy
+ @gallows-bird  
+*  dt
+- kẻ đáng chém, kẻ đáng treo c
+
+@gallows-ripe  
+*  tt
+- đáng đem treo c
+
+@gallows-tree  
+*  dt
+- giá treo c
+
+@gall-stone  
+*  dt
+- (y học) sỏi mật
+
+@gallup poll  
+*  dt
+- sự thăm dò dư luận quần chúng của viện Ga-lớp
+
+@galluses  
+*  dt số nhiều
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) dây đeo quần
+
+@gally
+* tt
+- như nước mật; đắng như nước mật
+ @galoot  
+*  dt (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- thuỷ thủ
+- lính
+- người vụng về
+- người vô dụng, người vô tích s
+
+@galop  
+*  dt
+- điệu múa tẩu mã
+*  ndgt
+- điệu múa tẩu mã
+
+@galophil
+* dt
+- cũng galophile
+- người thân Pháp
+ @galophobe
+* dt
+- người ghét Pháp
+ @galophobia
+* dt
+- tật ghét Pháp
+ @galore  
+*  dt
+- rất nhiều, dồi dào
+
++ a meat with meat and beer galore: bữa cơm có rất nhiều thịt và rượu bia
+*  dt
+- sự phong phú, sự dồi dào
+
+@galosh   (golosh) @galoshed
+* tt
+- mang giày cao su (ở ngoài giày)
+ @galumph  
+*  ndgt
+- (thông tục) nhảy lên vì sung sướng, nhảy lên vì đắc thắng
+
+@galvanic  
+*  tt
+- (thuộc) điện,  ganvanic
+
++ a galvanic battery: bộ pin
+- khích động mạnh
+
++ a speech with a galvanic effect on the audience: diễn văn khích động mạnh người nghe
+- gượng (cười)
+
++ a galvanic smile: nụ cười gượng
+
+@galvanic
+- (Tech) thuộc điện lưu; thuộc mạ điện
+ @galvanic battery
+- (Tech) bình điện tự phát, bình điện nguyên
+ @galvanic cell
+- (Tech) pin tự phát, pin nguyên
+ @galvanic current
+- (Tech) dòng động điện [ĐL], dòng ganvanic
+ @galvanisation
+* dt
+- sự mạ điện
+- <bóng> sự làm phấn khởi, sự kích động, sự khích động
+ @galvanise   (galvanise) @galvanism  
+*  dt
+- (vật lý) điện một chiều
+- (y học) phép chữa bằng dòng điện một chiều
+
+@galvanist
+* dt
+- người nghiên cứu hoá điện
+ @galvanization  
+*  dt
+- sự mạ điện
+- (nghĩa bóng) sự làm phấn khởi, sự kích động, sự khích động
+
+@galvanize   (galvanise) @galvanize
+- (Tech) mạ điện
+ @galvanocautery
+* dt
+- (y học) sự đốt điện
+ @galvanography  
+*  dt
+- (vật lý) phép ghi dòng điện
+
+@galvanoluminescence
+- (Tech) phát quang điện lưu
+ @galvanomagnetism
+- (Tech) điện từ
+ @galvanometer  
+*  dt
+- (vật lý) cái đo điện
+
+@galvanometer
+- (Tech) điện kế
+ @galvanometer constant
+- (Tech) hằng số điện kế
+ @galvanometer shunt
+- (Tech) bộ phân lưu điện kế
+ @galvanometry
+* dt
+- cách đo điện
+ @galvanoplastic
+* tt
+- thuộc về đúc điện
+ @galvanoplasty
+* dt
+- sự đúc điện
+ @galvanoscope
+* dt
+- điện nghiệm
+ @galvanotropism
+* tt
+- tính hướng điện
+ @gam
+* dt
+- (từ lóng) cái chân
+- đàn cá voi
+- việc hỏi ý kiến nhau của những người đánh cá voi
+* ndgt
+- tụ tập (cá voi)
+* ngdgt
+- hỏi ý kiến nhau
+ @gama
+- gama (&#947;)
+ @gambade   (gambade) @gambado   (gambade) @gambadoes   (gambade) @gambit  
+*  dt
+- (đánh cờ) sự thí quân để mở đường cho tướng
+- (nghĩa bóng) bước đầu (trong công việc gì)
+
+@gamble  
+*  dt
+- cuộc đánh bạc, cuộc may rủi
+- việc mạo hiểm được ăn cả ngã về không; việc làm liều mưu đồ ăn to (đầu cơ buôn bán...)
+*  dgt
+- đánh bạc
+- đầu cơ (ở thị trường chứng khoán)
+- (nghĩa bóng) liều làm một công việc gì
+!to gamble away one's fortune
+- thua bạc khánh kiệt
+
+@gamble
+- (lý thuyết trò chơi) (cờ) bạc
+ @gambler  
+*  dt
+- người đánh bạc, con bạc
+- kẻ đầu cơ; kẻ làm liều, mưu đồ ăn to
+
+@gambler
+- (lý thuyết trò chơi) người đánh bạc
+ @gambling  
+*  dt
+- trò cờ bạc
+
+@gambling-den   (gambling-house) @gambling-house   (gambling-house) @gamboge  
+*  dt
+- nhựa Cămpuchia (dùng làm thuốc vẽ màu vàng)
+
+@gambol  
+*  dt,  (thường) số nhiều
+- sự nhảy nhót, sự nô giỡn
+
+@gambrel
+* dt
+- chân sau (động vật)
+ @gambusia
+* dt
+- cá ăn muỗi
+ @game  
+*  dt
+- trò chơi (như bóng đá, quần vợt, bài lá...)
+- (thương nghiệp) dụng cụ để chơi (các trò chơi)
+- (số nhiều) cuộc thi điền kinh, cuộc thi đấu
+- ván (bài, cờ...)
+
++ to win four games in the first set: thắng bốn ván trong trận đầu
+- trò cười; chuyện nực cười, trò đùa; sự trêu chọc, sự chế nhạo; trò láu cá, mánh khoé
+
++ to have a game with somebody: trêu chọc, chế nhạo ai
+
++ to make game of somebody: đùa cợt ai, chế nhạo ai, giễu ai
+
++ none of your games!: đừng có giở trò láu cá của anh ra!
+- ý đồ, mưu đồ
+
++ to play someone's game: vô tình giúp ai thực hiện được ý đồ của người ta
+
++ to spoil someone's game: làm hỏng mưu đồ của ai
+- thú săn; thịt thú săn
+
++ big game: thú săn lớn (như hổ, sư tử, voi)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mục tiêu theo đuổi khó khăn, mục tiêu nguy hiểm
+- con vật bị săn, con vật bị dồn; người bị theo đuổi, vật bị theo đuổi
+
++ fair game: vật (người) có thể bị theo đuổi tấn công một cách chính đáng
+
++ forbidden game: vật (người) mà ta không có quyền theo đuổi tấn công
+- bầy (thiên nga)
+!to be off one's game
+- (thể dục,thể thao) không sung sức
+!to be ob one's game
+- (thể dục,thể thao) sung sức
+!to fly at higher games
+- có những tham vọng cao hơn
+!to have the game in one's hand
+- nắm chắc thắng lợi trong tay; làm chủ được cuộc đấu
+!to play the game
+- (xem) play
+!the game is yours
+- anh thắng cuộc
+!the game is not worth the candle
+- việc làm lợi chẳng bõ công; thu không bù chi
+!the game is up
+- việc làm đã thất bại
+*  dgt
+- đánh bạc
+!to game away one's fortune
+- thua bạc khánh kiệt
+*  tt
+- như gà chọi; dũng cảm, anh dũng, gan dạ
+
++ a game little fellow: một anh chàng bé nhưng dũng cảm gan dạ
+
++ to die game: chết anh dũng
+- có nghị lực
+
++ to be game for anything: có nghị lực làm bất cứ cái gì
+- bị bại liệt (chân, tay); què, thọt
+
+@game
+- trò chơi || chơi trò chơi
+- g. of chance trò chơi may rủi
+- g. of Nim trò chơi Nim
+- abstract g. trò chơi trừu tượng
+- blufing g. trò chơi trộ
+- completely mixed g. trò chơi hỗn hợp hoàn toàn
+- completely reduced g. trò chơi thu hẹp hoàn toàn
+- constanined g. trò chơi có ràng buộc
+- concave g. trò chơi lõm
+- convex f. trò chơi lồi
+- eluding g. trò chơi chạy trốn
+- equivalent g.s trò chơi tương đương
+- fair g. trò chơi sòng phẳng
+- fixed sample - size g. trò chơi có cỡ cố định
+- majority g. trò chơi nhiều người
+- matrix g. trò chơi ma trận
+- minorant g. trò chơi làm non
+- multi-person g. trò chơi nhiều người
+- perfect-information g. trò chơi có thông tin đầy đủ
+- polyhedral g. trò chơi đa diện
+- positional g. trò chơi vị trí
+- strictly determined g. trò chơi xác định chặt chẽ 
+- two-person g. trò chơi hai người
+- zero-sum g. trò chơi có tổng không 
+ @game bird
+* dt
+- chim bị săn làm thịt
+ @game reserve
+* dt
+- khu vực cấm săn bắn
+ @game theory
+- (Tech) lý thuyết trò chơi
+ @Game theory
+- (Econ) Lý thuyết trò chơi.
+: Lý thuyết về việc ra quyết định hợp lý của cá nhân được thực hiện trong những điều kiện không đủ thônh tin liên quan đến những kết quả của các quyết định này.
+ @game-act   (game-act) @game-bag  
+*  dt
+- túi săn
+
+@game-book
+* dt
+- sách ghi các chi tiết thú đã bị săn
+ @game-cock  
+*  dt
+- gà chọi
+
+@game-egg
+* dt
+- trứng gà chọi
+ @game-fowl
+* dt
+- gà chọi
+ @gameful
+* tt
+- có nhiều trò chơi
+- có nhiều chim, thú săn
+ @game-house
+* dt
+- xem gambling-house
+ @gamekeeper  
+*  dt
+- người canh rừng không cho săn trộm th
+
+@game-laws   (game-act) @gamely
+* dt
+- liều lỉnh, mạo hiểm
+ @gameness  
+*  dt
+- sự dũng cảm, sự gan dạ
+
+@gamesmanship  
+*  dt
+- tài làm cho đối thủ lâng trí để được cuộc
+
+@gamesome  
+*  tt
+- bông đùa, vui đùa
+
+@gamesomeness
+* dt
+- sự vui nhộn; sự vui đùa
+ @gamester  
+*  dt
+- người đánh bạc, con bạc
+
+@gametal
+* tt
+- thuộc giao tử; sinh sản
+ @gametangium
+* dt
+- túi giao tử; bọc giao tử
+ @gamete  
+*  dt
+- (sinh vật học) giao t
+
+@gametic
+* tt
+- thuộc về giao tử
+ @gametocyte
+* dt
+- tế bào mẹ giao tử
+ @gametogenesis
+* dt
+- sự hình thành giao tử
+ @gametogeny
+* dt
+- tính sinh giao tử
+ @gametophore
+* dt
+- cuồng túi giao tử
+ @gametophyte  
+*  dt
+- (thực vật học) thể giao t
+
+@game-warden
+* dt
+- người quản lý khu vực cấm săn bắn
+ @gamey
+* tt
+- xem gamy
+ @gamic
+* tt
+- thụ tinh
+ @gamin
+* dt
+- cậu bé bụi đời
+ @gaming  
+*  dt
+- sự đánh bạc
+
+@gaming-house  
+*  dt
+- sòng bạc
+
+@gaming-table
+* dt
+- bàn đánh bạc
+ @gamma  
+*  dt
+- Gama (chữ cái Hy-lạp)
+- (động vật học) bướm gama
+!gamma minus
+- dưới trung bình
+!gamma plus
+- trên trung bình
+
+@gamma
+- (Tech) gamma (độ tương phản); gamma (tỉ lệ độ chói và điện áp thị tần); gamma (đơn vị cường độ từ trường)
+ @gamma globulin
+* dt
+- <y> gamma glôbulin
+ @gamma radiation
+* dt
+- sự bức xạ gamma
+ @gamma ray
+- (Tech) tia gamma
+ @gamma rays  
+*  dt số nhiều
+- (vật lý) tia gama
+
+@gammagraphy
+* dt
+- gama ký; X quang ký; chụp X quang
+ @gammer  
+*  dt
+- (thông tục) bà già
+
+@gammon  
+*  dt
+- jambon, đùi lợn muối và hun khói
+*  ngdgt
+- muối và hun khói (đùi lợn)
+*  dt
+- sự thắng hai ván liền (trong cuộc chơi cờ tào cáo)
+*  ngdgt
+- thắng hai ván liền (trong cuộc chơi cờ tào cáo)
+*  dt
+- (hàng hải) dây buộc rầm néo buồm
+*  ngdgt
+- buộc (rầm néo buồm) vào mũi tàu
+*  dt
+- sự lừa phỉnh, sự lừa bịp, sự lừa dối
+*  dgt
+- lừa phỉnh, lừa bịp, lừa dối; chơi khăm (ai)
+- giả vờ đóng kịch (để đánh lừa ai)
+*  thán từ
+- nói nhảm nào!, nói bậy nào!, bậy nào!
+
+@gammoning  
+*  dt
+- (hàng hải) dây buộc rầm néo buồm ((cũng) gammon)
+
+@gammy  
+*  tt (từ lóng) ((cũng) game)
+- như gà chọi; dũng cảm, anh dũng, gan dạ
+
++ a gammy little fellow: một anh chàng bé nhưng dũng cảm gan dạ
+
++ to die gammy: chết anh dũng
+- có nghị lực
+
++ to be gammy for anything: có nghị lực làm bất cứ cái gì
+
+@gamobium
+* dt
+- (sinh học) thế hệ hữu tính
+ @gamodeme
+* dt
+- (sinh học) nhóm cá thể giao phối
+ @gamogenesis
+* dt
+- sự sinh sản hữu tính; sự sinh sản lưỡng tính
+ @gamogenetic
+* tt
+- thuộc sự sinh sản hữu tính; hữu tính
+ @gamogony
+* dt
+- sự sinh sản hữu giao, sự sinh sản bào tử
+ @gamont
+* dt
+- giai đoạn tế bào tử
+ @gamopetalous  
+*  tt
+- (thực vật học) cánh hợp (hoa)
+
+@gamophyllous
+* tt
+- có lá hợp; có lá nguyên
+ @gamosepallous
+* tt
+- (hoa) có lá đài hợp; có lá đài nguyên
+ @gamp  
+*  dt
+- (thực vật học) cái ô (dù) to
+
+@gamut  
+*  dt
+- (âm nhạc) gam
+- (nghĩa bóng) toàn bộ, cả loạt
+
++ to experence the whole gamut of suffering: trải qua mọi nỗi đau kh
+
+@gamut
+- (Tech) âm giai, âm vực; sắc vực
+ @gamy  
+*  tt
+- có nhiều thú săn
+- (từ hiếm,nghĩa hiếm) dũng cảm, gan dạ
+
+@gan
+- quá khứ của gin
+ @GAN (Global Area Network)
+- (Tech) mạng diện tổng thể, mạng toàn vùng, mạng toàn cầu
+ @ganch
+* ngdgt
+- (lịch sử) xử tử bằng cách ném gậy nhọn từ trên cao xuống
+- dùng đùi nhọn đâm dã thú
+ @ganda
+* dt
+- người nói tiếng Bantu ở Uganđa (châu Phi)
+- tiếng Bantu của người Ganđa
+ @gander  
+*  dt
+- con ngỗng đực
+- người khờ dại, người ngây ngô ngốc nghếch
+- (từ lóng) người đã có vợ
+!sauce for the goose is sauce for the gander
+- cái gì có thể áp dụng cho người này thì cũng có thể áp dụng cho người khác
+
+@gandhian
+* tt
+- theo Gan-đi (: 1948), người chủ trương chống đối không bạo động (chống đế quốc Anh)
+ @gandhiism
+* dt
+- học thuyết Ganđi
+ @gang  
+*  dt
+- đoàn, tốp, toán, kíp
+
++ a gang of workmen: một kíp công nhân
+
++ a gang of war prisoners: một đoàn tù binh
+- bọn, lũ
+
++ a gang of thieves: một bọn ăn trộm
+
++ the whole gang: cả bọn, cả lũ
+- bộ (đồ nghề...)
+
++ a gang of saws: một bộ cưa
+*  ndgt
+- họp thành bọn; kéo bè kéo bọn ((cũng) to gang up)
+*  ngdgt
+- sắp xếp (đồ nghề...) thành bộ
+*  dgt
+- (Ê-cốt) đi
+
+@gang-bang
+* dt
+- trường hợp nhiều người thay phiên nhau hiếp dâm một người; trường hợp hiếm dâm tập thể
+* ngdgt
+- hiếp dâm theo cách nói trên
+ @gang-board   (gang-plank) @gang-boarding
+* dt
+- sự lát ván
+ @ganged
+* tt
+- ghép đôi; ghép bộ
+ @ganger  
+*  dt
+- trưởng kíp (thợ)
+
+@ganging
+* dt
+- sự ghép đôi; sự sắp bộ (đồ nghề)
+ @gangland
+* dt
+- giới giang hồ, giới xã hội đen
+ @ganglia  
+*  dt,  số nhiều ganglia
+- (giải phẫu) hạch
+- (nghĩa bóng) trung tâm (hoạt động...)
+
+@gangliac
+- Cách viết khác : gangliar 
+ @gangliate
+* tt, cũng gangliated
+- kết hạch
+ @gangliform
+- Cách viết khác : ganglioform 
+ @gangling  
+*  tt
+- lênh khênh; lóng ngóng
+
+@ganglioblast
+* dt
+- nguyên bào hạch (tế bào-mẹ tế bào hạch)
+ @gangliocyte
+* dt
+- tế bào hạch; hạch bào
+ @ganglion  
+*  dt,  số nhiều ganglia
+- (giải phẫu) hạch
+- (nghĩa bóng) trung tâm (hoạt động...)
+
+@ganglionated
+* tt
+- kết hạch
+ @ganglioneural
+* tt
+- thuộc hạch thần kinh
+ @ganglioneuron
+* dt
+- hạch thần kinh
+ @ganglionic
+* tt
+- thuộc hạch
+ @ganglioplexus
+* dt
+- (giải phẫu) hạch tán toả
+ @gang-plank   (gang-plank) @gangplank
+* dt
+- ván cầu (để lên xuống tàu)
+ @gang-rape
+- xem gang-bang
+ @gangrel
+* dt
+- người lang thang
+ @gangrene  
+*  dt
+- bệnh thối hoại
+*  ngdgt
+- làm mắc bệnh thối hoại
+*  ndgt
+- mắc bệnh thối hoại
+
+@gangrenous  
+*  tt
+- (thuộc) bệnh thối hoại
+
+@gangster  
+*  dt
+- kẻ cướp,  găngxtơ
+
+@gangue
+* dt
+- đất phế bỏ sau khi đã sàng lọc để lấy quặng
+ @gangway  
+*  dt
+- lối đi giữa các hàng ghế
+- lối đi chéo dẫn đến các hàng ghế sau (nghị viện Anh)
+- (hàng hải) cầu tàu
+- (hàng hải) đường từ mũi tàu đến lái (trên sân tàu)
+!above gangway
+- dính líu chặt chẽ với chính sách của đảng mình
+!below gangway
+- ít dính líu với chính sách của đảng mình
+*  thán từ
+- tránh ra cho tôi nhờ một tí
+
+@ganister
+* dt
+- gannister
+- ganiste (sét chịu lửa chứa nhiều silic)
+ @gannet  
+*  dt
+- (động vật học) chim điên
+
+@ganoid  
+*  tt
+- có vảy láng (cá)
+- (thuộc) liên bộ cá vảy láng
+*  dt
+- (động vật học) cá vảy láng
+
+@gantlet
+* dt
+- xem gauntlet
+ @gantry   (gauntry) @Gantt chart
+- (Tech) biểu đồ Gantt
+ @gaol   (jail) @gaol-bird   (jail-bird) @gaolbird
+- Cách viết khác : jailbird 
+ @gaol-book
+* dt
+- sổ tù
+ @gaolbreak
+* dt
+- sự trốn khỏi nơi giam giữ, cuộc vượt ngục
+ @gaol-delivery  
+*  dt
+- sự đem xử hàng loạt để làm rộng chỗ nhà giam
+
+@gaoler   (jailer) @gap  
+*  dt
+- lỗ hổng, kẽ hở
+
++ a gap in the hedge: lỗ hổng ở hàng rào
+- chỗ trống, chỗ gián đoạn, chỗ thiếu sót
+
++ a gap in a conversation: chỗ gián đoạn trong câu chuyện
+
++ a gap in one's knowledge: chỗ thiếu sót trong kiến thức, lỗ hổng trong kiến thức
+- đèo (núi)
+- (quân sự) chỗ bị chọc thủng (trên trận tuyến)
+- (kỹ thuật) khe hở, độ hở
+- (hàng không) khoảng cách giữa hai tầng cánh (máy bay)
+- sự khác nhau lớn (giữa ý kiến...)
+!to fill (stop, supply) a gap
+- lấp chỗ trống, lấp chỗ thiếu sót
+
+@gap
+- (Tech) khe; khoảng cách, trống; bộ phóng điện; cầu nổ; chỗ gián đoạn, dải cấm
+ @gap length
+- (Tech) độ dài khoảng hở, độ dài khe
+ @gap reluctance
+- (Tech) từ trở khe
+ @gape  
+*  dt
+- cái ngáp
+
++ the gapes: bệnh ngáp (của gà);(đùa cợt) cơn ngáp
+- sự há hốc miệng ra mà nhìn, sự há hốc miệng ngạc nhiên
+- sự há rộng miệng
+*  ndgt
+- ngáp
+- há to miệng ra (con số...; vết thương...)
+- (: at) há hốc miệng ra mà nhìn
+
++ to gape at something: há hốc miệng ra mà nhìn cái gì
+- (: for,  after) ao ước, khao khát, tha thiết muốn
+
++ to gape for (after) something: khao khát cái gì
+
+@gaper  
+*  dt
+- người hay ngáp
+- người hay đi lang thang; người vô công rỗi nghề
+
+@gape-seed  
+*  dt
+-(đùa cợt) sự há hốc miệng ra mà nhìn
+- cái làm cho người ta há hốc miệng ra mà nhìn; dịp để há hốc miệng ra mà nhìn
+
+@gapped
+* tt
+- có kẽ; có khe
+ @gapping
+* dt
+- sự tạo khe hở
+ @gappy  
+*  tt
+- có nhiều lỗ hổng, có nhiều kẽ hở
+
+@gap-toothed
+* tt
+- có răng thưa
+ @gar
+* dt
+- (động vật) cá nhái
+ @garage  
+*  dt
+- ga ra, nhà để ô tô
+- chỗ chữa ô tô
+*  ngdgt
+- cho (ô tô) vào ga ra
+
+@garand rifle  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) khẩu garăng
+
+@garb  
+*  dt
+- quần áo (có tính chất tiêu biểu)
+
++ in the garb of a sailor: mặc quần áo lính thuỷ
+- cách ăn mặc
+*  ngdgt
+- mặc
+
++ to garb oneself as a sailor: mặc quần áo cho lính thuỷ
+
+@garbage  
+*  dt
+- lòng, ruột (thú...)
+- rác (nhà bếp)
+- văn chương sọt rác ((cũng) literary garbage)
+
+@garbage collection
+- (Tech) sự thu thập phần vô dụng
+ @garbage in, garbage out (GIGO)
+- (Tech) rác vào, rác ra
+ @garbage-can  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) thùng rác
+
+@garbage-collector  
+*  dt
+- người nhặt rác, người quét rác
+
+@garble  
+*  ngdgt
+- cắt xén (đoạn văn, bản báo cáo... để làm sai lạc ý); vô tình bóp méo, vô tình xuyên tạc (ý)
+- trích (chọn) (sự kiện, lời tuyên bố) một cách xuyên tạc
+- (từ hiếm,nghĩa hiếm) chọn ra, lựa ra
+
+@garbo
+* dt
+- (từ úc) người quét rác
+ @garboard
+* dt
+- thành tàu thủy
+ @garboil
+* dt
+- tình trạng rối loạn
+ @garcon
+* dt
+- người hầu bàn ở tiệm ăn
+ @garda
+* dt
+- số nhiều gardai
+- cảnh sát Airơlân
+ @garden  
+*  dt
+- vườn
+
++ a vegetable garden: vườn rau
+- (số nhiều) công viên, vườn
+
++ zoological gardens: vườn bách thú
+- vùng màu mỡ xanh tốt
+
++ to lead somebody up the garden [path]: lừa phỉnh ai, đánh lừa ai
+*  ndgt
+- làm vườn
+
+@garden centre
+* dt
+- nơi chuyên kinh doanh hạt giống, cây kiểng, dụng cụ làm vườn
+ @garden city  
+*  dt
+- thành phố lớn có nhiều công viên và cây
+
+@garden of eden
+* dt
+- miền cực lạc, vườn địa đàng
+ @garden seat  
+*  dt
+- ghế dài ở trong vườn
+
+@garden suburb
+* dt
+- vùng ngoại ô nhiều cây cối
+ @garden truck  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) rau quả
+
++ to raise garden_truck for the market: trồng rau quả để bán
+
+@garden-bed  
+*  dt
+- luống hoa
+
+@garden-engine
+* dt
+- ống vòi nước tưới vườn
+ @gardener  
+*  dt
+- người làm vườn
+
+@garden-frame  
+*  dt
+- cái giàn (trồng cây leo)
+
+@gardenia  
+*  dt
+- (thực vật học) cây dành dành
+
+@gardening  
+*  dt
+- nghề làm vườn; sự trồng vườn
+
+@garden-party  
+*  dt
+- buổi chiêu đãi ở trong vườn
+
+@garden-pot
+* dt
+- bình tưới cây trong vườn
+ @garden-pump
+* dt
+- bơm tưới vườn
+ @garden-stuff  
+*  dt
+- rau và hoa quả
+
+@garder
+* dt
+- thuốc thấm dầu
+ @garderobe
+* dt
+- phòng ngủ
+ @garefowl
+* dt
+- (động vật) chim cánh cụt
+ @garfish  
+*  dt
+- (động vật học) cá nhái
+
+@gargantuan  
+*  tt
+- to lớn phi thường, khổng lồ
+
+@garget  
+*  dt
+- (thú y học) bệnh viêm họng (lợn); bệnh viêm vú (bò, cừu...)
+
+@gargety
+* dt
+- (thú y) bệnh viêm họng; bệnh viêm vú
+ @gargle  
+*  dt
+- thuốc súc miệng, thuốc súc họng
+*  dgt
+- súc (miệng, họng)
+
+@gargoyle  
+*  dt
+- miệng máng xối (hình đầu thú hoặc đầu người, theo kiểu kiến trúc gôtíc)
+
+@garibaldi  
+*  dt
+- áo bờ lu (của đàn bà hoặc trẻ con)
+- bánh nhân nho khô
+
+@garish  
+*  tt
+- loè loẹt, sặc sỡ
+
++ garish ornaments: đồ trang trí loè loẹt
+- chói mắt
+
++ garish light: ánh sáng chói mắt
+
+@garishly
+* dt
+- loè loẹt, sặc sỡ
+ @garishness  
+*  dt
+- sự loè loẹt, sự sặc sỡ
+- sự chói mắt
+
+@garland  
+*  dt
+- vòng hoa
+- sự chiếu thẳng; sự giật giải đầu; giải thưởng
+
++ to win (carry away) the garland: đắc thắng
+- (từ cổ,nghĩa cổ) hợp tuyển (thơ, văn)
+*  ngdgt
+- trang trí bằng vòng hoa; đội vòng hoa
+- dùng làm vòng hoa
+
+@garlic  
+*  dt
+- (thực vật học) cây tỏi
+- củ tỏi
+
+@garlic-eater
+* dt
+- người ty tiện
+ @garlicky  
+*  tt
+- (thuộc) tỏi; có mùi tỏi
+
+@garment  
+*  dt
+- áo quần
+
++ nether garments:(đùa cợt) quân
+- vỏ ngoài, cái bọc ngoài
+*  ngdgt,  (thơ ca) (thường) động tt quá khứ
+- mặc quần áo
+
+@garner  
+*  dt
+- (thơ ca) vựa thóc, kho thóc
+*  ngdgt (thơ ca)
+- bỏ vào kho; nộp vào vựa; thu vào kho
+
+@garnet
+* dt
+- ngọc hồng lựu
+ @garnet-berry
+* dt
+- (thực vật) phúc bồn tử
+ @garnetiferous
+* tt
+- chứa granat
+ @garnet-sand
+* dt
+- cát có granat, cát có thạch lựu
+ @garnierite
+* dt
+- (hoá học) gacnierit
+ @garnish  
+*  dt
+- (như) garnishing
+- (nghĩa bóng) nét hoa mỹ (văn)
+*  ngdgt
+- bày biện hoa lá (lên món ăn)
+
++ to garnish a fish dish with slices of lemon: bày biện những lát chanh lên đĩa cá
+- trang hoàng, tô điểm
+- (pháp lý) gọi đến hầu toà
+
+@garnishee
+* dt
+- (từ Pháp, nghĩa Pháp) người phải hầu toà
+ @garnishing  @garniture  
+*  dt
+- đồ trang sức, đồ trang trí; hoa lá (để bày biện lên các món ăn
+- sự trang trí, sự trang hoàng
+- bộ đồ; đồ phụ tùng
+- quần áo; cách ăn mặc
+
+@garotte  
+*  dt
+- hình phạt thắt cổ; dây thắt cỏ (tội nhân)
+- nạn bóp cổ cướp đường
+*  ngdgt
+- thắt cổ (ai)
+- bóp cổ (ai) để cướp của
+
+@garotter
+* dt
+- cũng garroter
+- người giết người bằng thắt cổ
+- người bóp cổ để cướp của
+ @garpike
+* dt
+- xem gar-fish
+ @garret  
+- gə'rət@garreteer  
+*  dt
+- người ở gác xép sát mái
+- nhà văn nghèo (viết thuê)
+
+@garreting
+* dt
+- sự trát khe xây (bằng bột đá)
+ @garret-master
+* dt
+- người chế tạo đồ dùng trong nhà
+- cửa hàng bán đồ dùng trong nhà
+- người thuê nhân công giá thấp
+ @garrison  
+*  dt
+- (quân sự) đơn vị đồn trú (tại một thành phố hoặc một đồn bót)
+*  ngdgt
+- đóng quân; bố trí lực lượng đồn trú (ở nơi nào)
+
+@garrison-staff
+* dt
+- ban tham mưu tại chỗ
+ @garrison-town
+* dt
+- thành phố có quân đội đồn trú
+ @garrotte  
+*  dt
+- hình phạt thắt cổ; dây thắt cỏ (tội nhân)
+- nạn bóp cổ cướp đường
+*  ngdgt
+- thắt cổ (ai)
+- bóp cổ (ai) để cướp của
+
+@garrulity   (garrulousness) @garrulous  
+*  tt
+- nói nhiều, ba hoa, lắm mồm (người)
+- róc rách (suối); ríu rít (chim)
+
+@garrulously
+* dt
+- ba hoa, huyên thuyên
+ @garrulousness   (garrulousness) @garrupa
+* dt
+- (động vật) cá song đỏ
+ @garter  
+*  dt
+- nịt bít tất
+- (the Garter) cấp tước Ga-tơ (cao nhất trong hàng hiệp sĩ ở Anh); huy hiệu cấp tước Ga-tơ
+*  ngdgt
+- nịt bít tất
+
+@garter-snake
+* dt
+- rắn không độc có sọc dài ở Mỹ
+ @garth
+* dt
+- khoảng trống có tu viện bao quanh
+ @gas  
+*  dt
+- khí
+- khí thắp, hơi đốt
+- khí tê (dùng khi chữa răng) ((cũng) laughing gas)
+- (quân sự) hơi độc, hơi ngạt
+- khí nổ (mỏ, than)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) dầu xăng
+- (thông tục) chuyện rỗng tuếch không đâu vào đâu, chuyện tầm phào; chuyện huyên hoang khoác lác
+!to step on the gas
+- (xem) step
+*  ngdgt
+- cung cấp khí thấp, cung cấp hơi đốt (cho một căn buồng)
+- hơ (chỉ, sợi...) qua đèn khí (cho hết lông tơ)
+- thắp sáng bằng đén khí
+- thả hơi độc, thả hơi ngạt, làm ngạt bằng hơi độc
+- (thông tục) lừa bịp (ai) bằng những lời huênh hoang khoác lác
+*  ndgt
+- xì hơi
+- nói dông dài; nói chuyện tầm phào; huyên hoang khoác lác
+
+@gas
+- (vật lí) khí
+- ideal g. khí lý tưởng
+- polytropic g. khí đa hướng 
+ @gas board
+* dt
+- cơ quan kiểm soát việc cung ứng khí đốt
+ @gas bracket
+* dt
+- đường ống có một hoặc nhiều miệng đốt gắn vào tường
+ @gas cylinder
+* dt
+- bình ga
+ @gas defence  
+*  dt
+- sự phòng chống hơi độc
+
+@gas laser
+- (Tech) bộ laze khí
+ @gas laser hologram
+- (Tech) ảnh toàn ký laze khí
+ @gas phototube
+- (Tech) ống quang điện có khí
+ @gas poker
+* dt
+- ống kim loại rỗng nối với bình ga để nhóm lửa lò
+ @gas tap
+* dt
+- vòi khoá khí
+ @gas-alarm   (gas-alert) @gas-alert   (gas-alert) @gas-attack  
+*  dt
+- (quân sự)
+
+@gas-bag  
+*  dt
+- khí cầu
+- (thông tục) người hay ba hoa
+
+@gas-bomb  
+*  dt
+- bom hơi độc
+
+@gas-buoy
+* dt
+- phao đèn khí
+ @gas-burner   (gas-burner) @gas-chamber  
+*  dt
+- buồng hơi ngạt (để giết súc vật) ((cũng) gas-oven)
+- buồng khí (để giữ hoa quả)
+
+@gas-coductor
+* dt
+- ống dẫn khí
+ @gas-collector   (gas-take) @gascon  
+*  dt
+- người xứ Ga-xcô-nhơ
+- người khoe khoang khoác lác
+
+@gasconade  
+*  dt
+- thói khoe khoang khoác lác
+*  ndgt
+- khoe khoang khoác lác
+
+@gasconader
+* dt
+- người khoe khoang, khoác lác
+ @gas-cooker
+* dt
+- bếp khí đốt
+ @gaseity
+* dt
+- trạng thái khí; tính chất khí
+ @gaselier  
+*  dt
+- đèn chùm thắp bằng khí
+
+@gas-engine  
+*  dt
+- máy nổ (chạy bằng chất khí)
+
+@gaseous  
+*  tt
+- (thuộc) thể khí
+
+@gaseous
+- (vật lí) thể khí
+ @gaseous plasma
+- (Tech) đẳng ly tử thể khí
+ @gas-fared
+* tt
+- đốt bằng khí; cháy bằng khí
+
++  gas-fared furnace:lò đốt bằng khí
+ @gas-field
+* dt
+- mỏ khí
+ @gas-filled capacitor
+- (Tech) bộ điện dung nạp khí
+ @gas-filled relay
+- (Tech) bộ kế điện nạp khí, rơle nạp khí
+ @gas-filled thyratron
+- (Tech) đèn ba cực nạp khí
+ @gas-fire  
+*  dt
+- lò sưởi (đốt bằng) khí
+
+@gas-fired
+* tt
+- vận hành bằng chất khí
+ @gas-fitter  
+*  dt
+- người lắp ống dẫn hơi đốt
+
+@gas-fitting
+* dt
+- ống dẫn hơi đốt
+ @gas-fixture
+* dt
+- việc trang bị đèn điện
+ @gas-furnace  
+*  dt
+- lò hơi, lò khí ((cũng) gas-oven)
+
+@gash  
+*  dt
+- vết thương dài và sâu; vết cắt dài và sâu
+- (kỹ thuật) vết cắt, vết khắc, vết rạch
+*  ngdgt
+- rạch một vết cắt dài và sâu
+
+@gas-heater
+* dt
+- dụng cụ tăng nhiệt khí đốt
+ @gas-helmet  
+*  dt
+- mặt nạ phòng hơi độc
+
+@gas-holder  
+*  dt
+- bình đựng khí
+- máy đo khí
+
+@gasification  
+*  dt
+- sự khí hoá
+
+@gasifly
+* ngdgt
+- tạo khí
+* ndgt
+- hình thành khí; bốc khí
+ @gasiform  
+*  tt
+- dạng khí
+
+@gasify  
+*  ngdgt
+- khí hoá
+
+@gas-indicator
+* dt
+- dụng cụ kiểm tra khí xuất
+ @gas-jar
+* dt
+- bình đựng khí
+ @gas-jet   (gas-burner) @gasket  
+*  dt
+- (hàng hải) dây thừng nhỏ (để cuốn buồm vào cột)
+- (kỹ thuật) miếng đệm
+
+@gaskins
+* dt số nhiều
+- quần nịt ngắn (đàn ông)
+ @gaslight  
+*  dt
+- đèn khí
+- ánh đèn khí
+
+@gas-lime
+* dt
+- đá vôi để tạo khí đốt
+ @gas-lit
+* tt
+- được chiếu sáng nhờ ánh sáng của chất khí cháy
+ @gas-main  
+*  dt
+- ống cái dẫn khí (hơi đốt)
+
+@gas-man  
+*  dt
+- người sản xuất hơi đốt
+- người đi thu tiền hơi đốt
+
+@gasman
+* dt
+- người chuyên kiểm tra dụng cụ đo khí
+ @gas-mask  
+*  dt
+- mặt nạ phòng hơi độc
+
+@gas-meter  
+*  dt
+- máy đo khí
+
+@gas-mobile
+* dt
+- ô tô chạy bằng dầu khí
+ @gas-motor
+* dt
+- môtơ chạy bằng dầu khí
+ @gasogene   (gasogene) @gasogenic
+* tt
+- sinh khí; tạo khí
+- sinh ga; tạo ga
+ @gas-oil
+* dt
+- nhiên liệu điêzen
+ @gasolene   (gasoline) @gasolier
+* dt
+- cây đèn khí
+ @gasoline   (gasoline) @gasolinic
+* tt
+- thuộc về xăng
+ @gasometer  
+*  dt
+- thùng đựng khí
+- (như) gas-meter
+
+@gasometry  
+*  dt
+- phép đo khí
+
+@gas-oven  
+*  dt
+- (như) gas-furnace
+- buồng hơi ngạt (để giết súc vật) ((cũng) gas-chamber)
+
+@gas-over
+* dt
+- lót đốt bằng khí
+- phòng hơi ngạt
+ @gasp  
+*  dt
+- sự thở hổn hển
+!at one's last gasp
+- đến lúc sắp thở hắt ra, đến lúc sắp chết
+!to give a gasp
+- há hốc miệng ra (vì kinh ngạc)
+*  dgt
+- thở hổn hển
+
++ to gasp for breath: thở hổn hển
+- há hốc miệng vì kinh ngạc
+!to grasp for
+- khao khát, ước ao
+
++ to gasp for liberty: khao khát tự do
+!to gasp out
+- nói hổn hển
+!to gasp out one's life
+- thở hắt ra, chết
+
+@gasper  
+*  dt
+- (từ lóng) thuốc lá rẻ tiền
+
+@gaspingly  
+*  dt
+- thở hổn hển
+- kinh ngạc, sửng sốt
+
+@gas-pipe
+* dt
+- ống dẫn khí đốt
+ @gasplant
+- (dt)
+- nhà máy sản xuất khí
+ @gas-plasma display
+- (Tech) màn hình khídddẳng ly tử
+ @gas-producer  
+*  dt
+- nhà máy sản xuất khí
+
+@gas-projector  
+*  dt
+- vòi phun hơi độc
+
+@gas-proof   (gas-tight) @gasproof
+* tt
+- kín khí, không thấm khí; chống được hơi độc
+ @gas-propelled
+* tt
+- chạy bằng khí đốt (ôtô)
+ @gas-range
+* dt
+- bếp đốt chạy bằng khí
+ @gas-ring  
+*  dt
+- bếp hơi hình vòng
+
+@gas-sand
+* dt
+- cát chứa khí đốt
+ @gassed
+* tt
+- bị nhiễm khí độc
+ @gasser
+* dt
+- lỗ khoan khí
+ @gas-shell  
+*  dt
+- đạn hơi ngạt
+
+@gas-shelter  
+*  dt
+- hầm tránh hơi độc
+
+@gassiness  
+*  dt
+- tính chất khí
+- sự có đầy khí
+- tính ba hoa rỗng tuếch
+
+@gassing
+* dt
+- sự bốc khí
+- sự tách khí
+ @gas-station  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) trạm lấy xăng
+
+@gas-stove  
+*  dt
+- hoả lò khí
+
+@gassy  
+*  tt
+- (thuộc) khí; như khí
+- đầy khí
+- ba hoa rỗng tuếch (lời nói...)
+
+@gas-take   (gas-take) @gas-tank  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) thùng chứa khí, thùng chứa chất đốt; thùng xăng (máy bay)
+
+@gaster
+* dt
+- (giải phẫu) da dày
+ @gasteropod   (gastropode) @gasteropodous
+* tt
+- xem gasteropod
+ @gasterospore
+* dt
+- bào tử vách dày (trong quả)
+ @gas-tight   (gas-tight) @gastight
+* tt
+- kín khí, không thấm khí; chống được hơi độc
+ @gastraea
+* dt
+- động vật dạng phôi dạ (phôi vi trùng)
+- cũng gastrea
+* dt
+- động vật dạng phôi dạ (phôi vi trùng)
+- cũng gastrea
+ @gastraeum
+* dt
+- mặt bụng
+ @gastral
+* tt
+- thuộc dạ dày
+ @gastralgia
+* dt
+- (y học) đau dạ dày
+ @gastratrophia
+* dt
+- (y học) sự teo dạ dày
+ @gastrea
+* dt
+- động vật dạng phôi dạ (phôi vi trùng)
+ @gastrectomy
+* dt
+- sự cắt dạ dày
+ @gastric  
+*  tt
+- (thuộc) dạ dày
+
++ a gastric ulcer: loét dạ dày
+
++ gastric juice: dịch vị
+
+@gastricism
+* dt
+- sự rối loạn tiêu hoá
+ @gastrin
+* dt
+- gaxtrin (hocmôn kích thích tiết vị)
+ @gastritis  
+*  dt
+- (y học) viêm dạ dày
+
+@gastrocoel
+* dt
+- cũng gastrocoele
+- khoang vị; khoang dạ dày
+ @gastrocolic
+* tt
+- thuộc dạ dày-ruột kết
+ @gastroduodenal
+* tt
+- thuộc dạ dày ruột kết
+ @gastroenteric
+* tt
+- thuộc dạ dày-ruột
+ @gastroenteritis  
+*  dt
+- (y học) viêm dạ dày ruột
+
+@gastroenterological
+* tt
+- thuộc khoa viêm dạ dày-ruột
+ @gastroenterologist
+* dt
+- người nghiên cứu dạ dày-ruột
+ @gastrogenic
+* tt
+- do dạ dày
+ @gastrogenous
+* tt
+- do dạ dày
+ @gastrohepatic
+* tt
+- thuộc dạ dày-gan
+ @gastrointestinal
+* tt
+- thuộc dạ dày-ruột
+ @gastrologer   (gastrologist) @gastrologist   (gastrologist) @gastrology  
+*  dt
+- nghệ thuật nấu ăn
+
+@gastronome   (gastronomer) @gastronomer   (gastronomer) @gastronomic  
+*  tt
+- (thuộc) sự ăn ngon; sành ăn
+
+@gastronomically
+* dt
+- về mặt ẩm thực, về mặt nấu nướng
+ @gastronomist   (gastronomer) @gastronomy  
+*  dt
+- nghệ thuật ăn ngon; sự sành ăn
+
+@gastropode   (gastropode) @gastropodous
+* tt
+- có chân bụng
+ @gastropore
+* dt
+- lỗ dinh dưỡng
+ @gastroscope  
+*  dt
+- (y học) ống soi dạ dày
+
+@gastroscopic
+* tt
+- thuộc ống soi dạ dày
+ @gastrotomy  
+*  dt
+- (y học) thủ thuật mở dạ dày
+
+@gastro-vascular
+* tt
+- thuộc dạ dày-mạch máu
+ @gastrula
+* dt
+- phôi dạ (phôi vị)
+ @gastrulation
+* dt
+- sự hình thành phôi dạ
+ @gas-warfare  
+*  dt
+- chiến tranh hơi độc
+
+@gas-works  
+*  dt
+- nhà máy sản xuất khí
+
+@gat  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) súng lục
+
+@gatch
+* dt
+- parafin thô
+ @gate  
+*  dt
+- cổng
+- số người mua vé vào xem (một trận đấu thể thao...)
+- tiền mua vé (trận đấu thể thao...) ((cũng) gate-money)
+- cửa đập, cửa cống
+- hàng rào chắn (chỗ đường xe lửa chạy qua đường cái; trạm thu thuế...)
+- đèo, hẽm núi
+- (kỹ thuật) tấm ván che, ván chân; cửa van
+!to get the gate
+- bị đuổi ra
+!to give somebody the gate
+- đuổi ra, tống cổ ra, cho thôi việc
+!to open the gate for (to) somebody
+- mở đường cho ai
+*  ngdgt
+- phạt (học sinh) không cho ra ngoài (ở trường đại học Ôc-phớt và Căm-brít)
+
+@gate
+- (Tech) cổng, cửa [TN]; cực cổng @gate
+- (máy tính) sơ đồ trùng; van; xuppap, xung mở
+- add g. van cộng
+- and g. lược đồ “và”
+- diode g. ống điôt, sơ đồ trùng điôt
+- time g. bộ chọn thời gian
+- zero g. van thiết bị số không 
+ @gate array
+- (Tech) giàn cổng, mạng cổng (điện tử)
+ @gate circuit
+- (Tech) mạch cổng
+ @gate closing pulse
+- (Tech) xung đóng cổng
+ @gate electrode
+- (Tech) điện cực cổng (đèn tinh thể trường)
+ @gate junction
+- (Tech) tiếp giáp cực cổng
+ @gate resistance
+- (Tech) điện trở cực cổng
+ @gate signal
+- (Tech) tín hiệu cổng
+ @gate strip
+- (Tech) màng điều khiển, cổng điều khiển
+ @gateau
+* dt; số nhiều gateaux
+- bánh ngọt
+ @gate-bill  
+*  dt
+- sổ trễ giờ (ghi tên những học sinh về trường trễ giờ ở trường đại học Ôc-phớt và Căm-brít)
+
+@gate-channel junction
+- (Tech) tiếp giáp kênh-cổng
+ @gate-crash  
+*  dgt (từ lóng)
+- chuồn vào cửa
+- không mời mà đến
+
+@gatecrash
+* dgt
+- chuồn vào cửa để xem kịch hoặc phim... mà không mua vé; không ai mời mà vẫn đến dự tiệc
+
++  to gatecrash a party:không ai mời mà vẫn đến dự tiệc
+ @gate-crasher  
+*  dt (từ lóng)
+- người chuồn vào cửa
+- khách không mời mà đến
+
+@gatecrasher
+* dt
+- người chuồn vào cửa để xem kịch hoặc phim... mà không mua vé; người không ai mời mà vẫn đến dự tiệc
+ @gated
+* tt
+- thuộc cổng, cửa, cửa van
+ @gated
+- (máy tính) được điều khiển bằng xung
+ @gated bidirectional switch
+- (Tech) công tắc song hướng chọn qua @gated decoder
+- (Tech) bộ giải mã cổng
+ @gatehead
+* dt
+- bờ bên cạnh lò
+ @gatehouse  
+*  dt
+- nhà ở cổng (công viên...)
+- chòi (thường để giam người trên cổng thành)
+
+@gate-keeper  
+*  dt
+- người gác cổng
+
+@gate-legged  
+*  tt
+- gate-legged table bàn cánh lật
+
+@gate-man
+* dt; số nhiều gate-men
+- người gác cổng
+ @gate-meeting  
+*  dt
+- cuộc họp có lấy tiền vào cửa
+
+@gate-money  
+*  dt
+- tiền mua vé (trận đấu thể thao...) ((cũng) gate)
+
+@gate-penny
+* dt
+- (sử học) thuế vào cửa
+ @gate-post  
+*  dt
+- cột cổng
+!between you and the gate-post
+- hết sức bí mật, chỉ có ta biết với nhau
+
+@gateside
+* dt
+- cạnh lò
+ @gate-to-drain impedance
+- (Tech) trở kháng từ cổng đến thoát
+ @gate-to-source impedance
+- (Tech) trở kháng từ cổng đến nguồn
+ @gate-tower
+* dt
+- tháp trên cửa
+ @gate-triggered thyristor
+- (Tech) bộ công tắc chất bán dẫn đóng
+ @gateway  
+*  dt
+- cổng vào ((nghĩa đen) & (nghĩa bóng))
+
+@gateway
+- (Tech) nối kết dị mạng; thiết bị nối dị mạng; chương trình nối dị mạng; máy điện toán nối kết dị mạng
+ @gateway server
+- (Tech) bộ phục vụ cổng nối mạng
+ @gate-width
+* dt
+- chiều rộng cửa
+ @gather  
+*  ngdgt
+- tập hợp, tụ họp lại
+
++ to gather a crowd round: tập hợp một đám đông quanh mình
+- hái, lượm, thu thập
+
++ to gather flowers: hái hoa
+
++ to gather information: lượm tin tức
+
++ to gather experience: thu thập kinh nghiệm
+- lấy, lấy lại
+
++ to gather breath: lấy hơi
+
++ to gather strength: lấy lại sức
+- chun, nhăn
+
++ to gather a coat at the waist: chun áo ở thắt lưng
+
++ to gather the brows: nhăn mày
+- hiểu, nắm được; kết luận, suy ra
+
++ I can't gather nothing from his speech: tôi chẳng hiểu hắn ta nói gì
+*  ndgt
+- tập hợp lại, tụ họp lại, kéo đến
+
++ a crowd gathered round him: một đám đông tụ họp quanh anh ta
+
++ the clouds are gathering: mây đang kéo đến
+- to ra, phóng đại, tăng lên
+
++ the rumour gathered as it spread: tin đồn càng lan đi càng được phóng đại mãi
+- (y học) mưng mủ (nhọt)
+!to gather up
+- nhặt (cái gì) lên
+- thu thập lại, tập trung
+
++ to gather up one's forces: tập trung lực lượng
+- thu (gọn) lại
+
++ to gather up one's legs: ngồi thu chân lại
+
++ to gather oneself up on the divan: ngồi thu mình trên đi văng
+!to be gathered to one's fathers
+- chết, về chầu tổ
+!rolling stone gathers no moss
+- lăn lóc đổi nghề lắm rút cục chẳng tinh nghề nào
+
+@gather
+- tập trung tích luỹ
+ @gathering  
+*  dt
+- sự tụ họ; cuộc hội họp
+- sự hái; sự gặt, sự thu nhặt, sự dồn lại
+- sự lấy lại (sức khoẻ)
+- (y học) sự mưng mủ
+
+@gathering
+- sự tập trung, sự tích luỹ
+- data g. sự tập trung các dữ kiện, sự thu thập các số liệu 
+ @gathers  
+*  dt
+- nếp chun (áo, quần)
+
+@gating
+* dt
+- sự cho qua cửa
+- tác động của van
+ @gating
+- (máy tính) sự cho tín hiệu vào; sự chọn
+ @gating circuit
+- (Tech) mạch chọn qua cổng
+ @GATT
+- (Econ) Xem GENERAL AGREEMENT ON TARIFFS AND TRADE.
+ @gatt
+* (viết tắt)
+- Hiệp định chung về thuế quan và mậu dịch (General Agreement on Tariffs and Trade)
+ @gauche  
+*  tt
+- vụng về
+
+@gaucheness
+* dt
+- sự vụng về, cách xử sự vụng về
+ @gaucherie
+* dt
+- sự vụng về, cách xử sự vụng về
+ @gauchery
+* dt
+- hành động, cử chỉ vụng về
+ @gaucho
+* dt
+- người chăn bò ở Nam Mỹ
+ @gaud  
+*  dt
+- đồ trang trí loè loẹt, đồ trang hoàng loè loẹt; đồ trang sức loè loẹt
+- (số nhiều) đình đám, hội hè
+
+@gaudery
+* dt
+- vật sức loè loẹt; vẻ loè loẹt bên ngoài
+ @gaudily
+* dt
+- phô trương, loè loẹt
+ @gaudiness  
+*  dt
+- vẻ loè loẹt, vẻ hoa hoè hoa sói
+- tính cầu kỳ, tính hoa mỹ (văn)
+
+@gaudy  
+*  tt
+- loè loẹt, hoa hoè hoa sói
+
++ cheap and gaudy jewels: những đồ trang sức loè loẹt rẻ tiền
+- cầu kỳ, hoa mỹ (văn)
+*  dt
+- ngày liên hoan (ở trường học); tiệc hàng năm của các cựu học sinh đại học
+
+@gaudy-day
+* dt
+- ngày lễ; ngày liên hoan ở trường đại học
+ @gauffer   (gofer) @gaufre  
+*  dt
+- bánh kẹp ((cũng) (từ Mỹ,nghĩa Mỹ) gaufre)
+- (như) gofer
+
+@gauge  
+*  dt
+- máy đo (sức gió, chiều cao của thuỷ triều, lượng nước mưa...)
+- cái đo cỡ (dây...)
+- loại, kiểu, cỡ, tầm, quy mô, khả năng
+- khoảng cách đường ray
+- tiêu chuẩn đánh giá, phương tiện đánh giá (khả năng, tính nết một người)
+
++ to take the gauge of: đánh giá (ai)
+- (ngành in) lanhgô điều chỉnh lề
+- cái mấp của thợ mộc (để vạch những đường thẳng song song)
+- (hàng hải) ((thường) gage) hướng đi (của tàu) so với chiều gió
+
++ to have the weather gauge of: lợi gió, thuận gió; (nghĩa bóng) lợi thế hơn (ai)
+*  ngdgt
+- đo
+
++ to gauge the rainfall: đo lượng nước mưa
+
++ to gauge the contents of a barrel: đo dung tích của một cái thùng
+- định cỡ, đo cỡ
+- làm cho đúng tiêu chuẩn, làm cho đúng quy cách
+- đánh giá
+
+@gauge
+- (vật lí) độ đo, tỷ xích, calip || chia độ, định cỡ
+- differential g. cái đo vi phân, vi phân kế 
+ @gauge, gage
+- (Tech) cỡ, tiêu chuẩn; đồ đo; áp lưc kế; lấy chuẩn (đ); đo lường (đ)
+ @gaugeable
+* tt
+- có thể đo, đong được
+- có thể đánh giá được
+- có thể định cở được
+- có thể hiệu chuẩn được
+ @gauged
+* tt
+- được định cỡ; được hiệu chỉnh
+ @gauge-glass  
+*  dt
+- ống đo nước
+
+@gauger
+* dt
+- người kiểm tra hàng để thu thuế
+- người đo lường; người đánh giá
+ @gauging-station  
+*  dt
+- trạm thuỷ văn
+
+@gaul
+* dt
+- tên gọi nước cổ châu Âu bao gồm Pháp,  Bắc-ă,  Bắc Hà-lan và một phần Thụy sĩ
+- tên nước Pháp cổ
+- người Pháp
+ @gaulish
+* tt
+- xem gaul chỉ thuộc về
+* dt
+- tiếng Gô-lơ
+ @gaulism
+* dt
+- cuộc vận động chính trị, chính sách của Charles de Gaulle (: 1970) ở Pháp
+ @gaulist
+* tt
+- xem gaulism chỉ theo
+* dt
+- người theo cuộc vận động chính trị, chính sách của Charles de Gaulle ở Pháp
+ @gault
+* dt
+- lớp đất sét dày
+ @gaunt  
+*  tt
+- gầy, hốc hác
+- hoang vắng, thê lương, buồn thảm (cảnh vật...), cằn cỗi
+
++ a gaunt hillside: sườn đồi hoang vắng cằn cỗi
+- có vẻ dữ tợn, dễ sợ
+
+@gauntlet  
+*  dt
+- (sử học) bao tay sắt, găng sắt (đeo khi chiến đấu)
+- bao tay dài, găng dài (để lái xe, đánh kiếm)
+!to fling (throw) down the gauntlet
+- thách đấu
+!to pick (take) up the gauntlet
+- nhận đấu, nhận lời thách
+!to run the gauntlet
+- chịu hình phạt chạy giữa hai hàng người liên tiếp đánh mình khi mình chạy qua
+- bị phê bình rất nghiêm khắc
+
+@gauntleted
+* dt
+- đeo bao tay sắt; đeo bao tay dài
+ @gauntness
+* dt
+- xem gaunt chỉ tình trạng
+ @gauntry   (gauntry) @gaur  
+*  dt
+- (động vật học) con minh (một loài bò rừng)
+
+@gauss  
+*  dt
+- (vật lý) Gaoxơ
+
+@gauss
+- (Tech) gauss (gauxơ)(Gs, G, đơn vị cường độ từ trường)
+ @Gauss- Markov Theorem
+- (Econ) Điịnh lý Gauss- Markov.
+ @Gauss pulse
+- (Tech) xung Gauss (Gauxơ) (dạng chuông)
+ @Gaussian
+- (thuộc) Gauxơ
+ @Gaussian curve
+- (Tech) đường Gauss (Gauxơ)
+ @Gaussian distribution
+- (Tech) phân bố Gauss (Gauxơ)
+ @Gaussian envelope
+- (Tech) đường bao Gauss (Gauxơ)
+ @Gaussian function
+- (Tech) hàm Gauss (Gauxơ)
+ @Gaussian noise
+- (Tech) nhiễu Gauss (Gauxơ)
+ @Gaussian unit
+- (Tech) đơn vị Gauss (Gauxơ)
+ @Gaussmeter
+- (Tech) Gauss (Gauxơ) kế, máy đo từ
+ @gauze  
+*  dt
+- sa, lượt
+- (y học) gạc (để buộc vết thương)
+- màn sương mỏng; làn khói nhẹ
+- (kỹ thuật) lưới thép mịn
+
+@gauze-tree
+* dt
+- (thực vật) bạch tùng
+ @gauziness
+* dt
+- tính chất như sa
+ @gauzy  
+*  tt
+- mỏng nhẹ như sa
+
+@gavage
+* dt
+- (y học) đưa thức ăn bằng ống vào dạ dày
+ @gave  
+*  dgt gave,  given
+- cho, biếu, tặng, ban
+
++ to give a handsome present: tặng một món quà đẹp
+- cho, sinh ra, đem lại
+
++ to give profit: sinh lãi
+
++ the sun gives us warmth and light: mặt trời cho chúng ta sức nóng và ánh sáng
+- nêu cho; đưa cho, trao cho, đem cho, chuyển cho
+
++ to give a good example: nêu một tấm gương tốt
+
++ give me my hat, please: xin anh làm ơn đưa cho tôi một cái mũ
+
++ to give one's wishes: gửi lời chúc mừng, chuyển lời chúc mừng
+- truyền cho, làm lây sang
+- trả (tiền...); trao đổi
+
++ how much did you give for it?: anh trả cái đó bao nhiêu?
+
++ to give a horse for a car cow: đổi con ngựa lấy con bò cái
+
++ to as good as one gets: ăn miếng trả miếng; ăn miếng chả trả miếng bùi
+- (đi đôi với dt thanh một cụm từ)
+
++ to give a cry: kêu lên
+
++ to give a loud laugh: cười to, cười vang
+
++ to give a look: nhìn
+
++ to give a jump: nhảy lên
+
++ to give a sigh: thở dài
+
++ to give a push: đẩy
+
++ to give a groan: rên rỉ
+
++ to give a start: giật mình
+
++ to give encouragement: động viên, khuyến khích
+
++ to give permission: cho phép
+
++ to give an order: ra lệnh
+
++ to give birth to: sinh ra
+
++ to give one's attention to: chú ý
+- làm cho, gây ra
+
++ he gave me to understand that: hắn làm cho tôi hiểu rằng
+
++ to give someone much trouble: gây lo lắng cho ai, gây phiền hà cho ai
+- cống hiến, hiến dâng; ham mê, miệt mài, chuyên tâm
+
++ to give one's life to one's country: hiến dâng đời mình cho tổ quốc
+
++ to give one's mind to study: miệt mài nghiên cứu; chuyên tâm học tập
+- tổ chức, mở, thết (một buổi dạ hội...); biểu diễn, diễn (kịch), đóng (một vai tuồng); hát dạo (một bản nhạc...), ngâm (một bài thơ...)
+
++ to give a concert: tổ chực một buổi hoà nhạc
+
++ to give a banquet: mở tiệc, thết tiệc
+
++ to give a song: hát một bài
+
++ give us Chopin, please: anh hãy dạo cho chúng tôi nghe những bản nhạc của Sô-panh
+
++ to give Hamlet: diễn vở Ham-lét
+- tan, vỡ, sụp đổ; lún xuống, trĩu xuống; có thể nhún nhẩy, co giãn (như lò xo)
+
++ the frost is giving: sương giá đang tan
+
++ the branch gave but did not break: cành cây trĩu xuống nhưng không gãy
+
++ the marshy ground gave under our feet: đất lấy lún xuống dưới chân chúng tôi
+- quay ra, nhìn ra, dẫn
+
++ this window gives upon the street: cửa sổ này nhìn ra đường phố
+
++ this corridor gives into the back yard: hành lang này dẫn vào sân sau
+- chỉ, đưa ra, để lộ ra
+
++ the thermometer gives 23o in the shade: nhiệt biểu chỉ 23o trong bóng râm
+
++ to give no signs of life: không lộ ra một dấu hiệu nào của sự sống
+
++ newspapers give these facts: các báo hằng ngày đưa ra các sự kiện đó
+- đồng ý, thoả thuận; nhường, nhượng bộ
+
++ I give you that point: tôi đồng ý với anh điểm ấy; tôi nhượng bộ anh điểm ấy
+
++ to give ground: nhượng bộ, lùi bước
+- coi như, cho là, cho rằng
+
++ he was given for dead: người ta coi như là hắn ta đã chết
+- quyết định xử
+
++ to give the case for the defendant: xử cho bị cáo được kiện
+
++ to give the case against the defendant: xử cho bị cáo thua kiện
+!to give away
+- cho
+
++ to give away all one's money: cho hết tiền
+- trao, phát (phần thưởng)
+
++ to give away the pwices: phát phần thưởng
+- tố cáo, phát giác; để lộ, phản bội
+
++ to give away a secret: lộ bí mật
+
++ to give away the show: (từ lóng) để lộ điều bí mật, để lộ nhược điểm; để lòi cái dốt ra
+!to give back
+- hoàn lại, trả lại
+!to give forth
+- toả ra, phát ra, bốc (sức nóng, ánh sáng, mùi, tiếng...)
+- công bố (tin tức...)
+!to give in
+- nhượng bộ, chịu thua
+- nộp (tài liêu...)
+- ghi vào, điền vào
+
++ to give in one's name: ghi tên vào
+!to give off
+- toả ra, phát ra, bốc ra, bốc lên, xông lên (mùi, hơi nóng, khói...)
+!to give out
+- chia, phân phối
+- toả ra, phát ra, làm bay ra, bốc lên, xông lên (hơi nóng, mùi...)
+- rao, công bố
+
++ to give oneself out to be (for): tự xưng là, tự nhận là
+- hết, cạn
+
++ food suplies began to give out: lương thực bắt đầu cạn
+- bị hư, bị hỏng (máy móc); mệt, quỵ, kiệt đi (sức)
+- (từ Mỹ,nghĩa Mỹ) cho (phỏng vấn)
+
++ to give out an interview: cho phỏng vấn
+
++ to give over: trao tay
+- thôi, chấm dứt
+
++ give over crying!: nín đi! thôi dừng khóc nữa!
+
++ to be given over to: đâm mê, đắm đuối vào
+
++ to be given over to gambling: đam mê cờ bạc
+- vứt bỏ, bỏ
+
++ to give over a bahit: bỏ một thói quen
+!to give up
+- bỏ, từ bỏ
+
++ to give up a habit: bỏ một thói quen
+
++ to give up one's work: bỏ công việc
+
++ to give up one's appointment: từ chức
+
++ to give up one's business: thôi không kinh doanh nữa
+
++ to give up a newspaper: thôi không mua một tờ báo
+- nhường
+
++ to give up one's seat: nhường ghế, nhường chỗ ngồi
+- (y học) coi như là tuyệt vọng, cho như là không chữa được
+
++ to be given up by the doctors: bị các bác sĩ cho là không cứu chữa được nữa
+- trao, nộp (cho nhà chức trách...)
+
++ to give oneself up: đầu thú, tự nộp mình
+- khai báo (đồng bọn)
+- đam mê, đắm đuối, miệt mài (học tập)
+
++ to give oneself up to drinking: rượu chè be bét, đam mê rượu chè
+!to give a back
+- (xem) back
+!to give a Roland for an Oliver
+- ăn miếng chả, trả miếng bùi
+!give me
+- (chỉ lời mệnh lệnh) tôi thích, tôi phục
+
++ give me an evening of classical drama: tôi thích xem một buổi tuồng cổ
+!to give ir somebody hot
+- mắng mỏ ai, xỉ vả đánh đập ai
+!to give someone what for
+- (từ lóng) mắng mỏ (chỉnh, xỉ vả) ai, trừng phạt ai nghiêm khắc
+!to give to the public (world)
+- công bố
+!to give somebody the time of day
+- (xem) day
+!to give way
+- nhượng bộ; chịu thua
+
++ to give way to sowmeone: chịu thua ai
+
++ to give way to despair: nản lòng, nản chí
+- kiệt đi (sức khoẻ)
+- cong, oằn, lún xuống, tan, gây, đứt
+
++ the rope gave way: dây thừng đứt
+
++ the ice gave way: băng tan ra
+- (thương nghiệp) bị giảm giá, sụt xuống
+- (hàng hải) rán sức chèo
+- bị bật đi, bị thay thế
+
++ would give the word (one's ears) for something (to get something): sãn sàng hy sinh hết để được cái gì
+*  dt
+- tính đàn hồi, tính co giân, tính nhún nhảy được
+
++ there is no give in a stone floor: sàn đá thì không thể nhún nhảy được
+!give and take
+- sự có đi có lại
+- sự nhượng bộ lẫn nhau, sự thoả hiệp
+- sự bông đùa qua lại
+
+@gavel  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) cái búa (của chủ tịch buổi họp hoặc người bán đấu giá)
+
+@gavelkind
+* dt
+- (pháp luật) quyền chia đều đất đai cho các con (nếu không có di chúc)
+ @gavelock
+* dt
+- gậy cời lò
+ @gavial
+* dt
+- (động vật) cá sấu ấn-độ, mõm dài
+ @gavotte  
+*  dt
+- điệu nhảy gavôt
+- nhạc cho điệu nhảy gavôt
+
+@gawk  
+*  dt
+- người lóng ngóng
+- người nhút nhát rụt rè
+*  ndgt
+- trố mắt ra nhìn một cách ngớ ngẩn
+
+@gawkily
+* dt
+- lóng ngóng, rụt rè
+ @gawkiness  
+*  dt
+- sự lóng ngóng
+- tính nhút nhát rụt rè
+
+@gawky  
+*  tt
+- lóng ngóng
+- nhút nhát rụt rè
+*  dt
+- (như) gawk
+
+@gawp
+* ndgt
+- trố mắt nhìn, nhìn trâng tráo
+ @gay  
+*  tt
+- vui vẻ, vui tươi; hớn hở
+
++ the gay voices of yong children: những tiếng nói vui vẻ của các em nhỏ
+- tươi, rực rỡ, sặc sỡ (màu sắc, quần áo...)
+
++ gay colours: những màu sắc sặc sỡ
+- (nói trại) truỵ lạc, phóng đâng, đĩ thoâ, lẳng lơ (đàn bà)
+
++ to lead a gay life: sống cuộc đời phóng đãng
+- (như) homosexual
+
+@gayal
+* dt
+- (động vật) bò tót
+ @gayety
+* dt
+- (từ cổ, nghĩa cổ) xem gaiety
+ @gayness
+* dt
+- tình trạng tình dục đồng giới
+ @gaze  
+*  dt chỉ số ít
+- cái nhìn chằm chằm
+
++ to stand at gaze: nhìn chằm chằm
+*  ndgt (: at,  on,  upon)
+- nhìn chằm chằm
+
++ to gaze at (on, uopn) something: cái nhìn chằm chằm
+
+@gazebo  
+*  dt
+- vọng lâu
+- ban công (nhô hẳn ra ngoài)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bé con, thằng oắt con, thằng nhóc con
+
+@gazehound
+* dt
+- chó săn mắt nhìn xa
+ @gazelle  
+*  dt
+- (động vật học) linh dương gazen
+
+@gazer  
+*  dt
+- người nhìn chằm chằm
+
+@gazette  
+*  dt
+- công báo
+- báo hằng ngày
+*  ngdgt
+- đăng trong công báo
+
+@gazetteer  
+*  dt
+- từ điển địa lý
+
+@gazing-stock
+* dt
+- nhân vật được mọi người chú ý
+ @gazogene   (gasogene) @gazophylacium
+* dt
+- kho vật quý
+ @gazpacho
+* dt (số nhiều gazpachos)
+- súp lạnh Tây Ban Nha
+ @gazump
+* ndgt
+- nói giá cao hơn, đẩy giá lên
+ @gazumper
+* dt
+- người nói giá cao hơn, người đẩy giá lên
+ @gazumping
+* dt
+- sự nói giá cao hơn, sự đẩy giá lên
+ @

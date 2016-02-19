@@ -1,0 +1,833 @@
+@sq
+* (viết tắt)
+- vuông (đo lường)  (square)
+- (Sq) Quảng trường (trong tên phố)  (Square)
+ @sql
+- Ngôn ngữ vấn đáp do IBM soạn thảo được sử dụng rộng rãi trong máy tính lớn và hệ thống máy tính mini SQL đang được trang bị trong các mạng khách @squab  
+*  tt
+- người béo lùn
+- chim bồ câu non, chim bồ câu chưa ra ràng
+- gối, nệm (có nhồi)
+- (như) sofa
+*  dt
+- huỵch một cái (rơi)
+
++ to come down squab on the floor: rơi đánh huỵch một cái xuống sàn
+
+@squab pie  
+*  dt
+- bánh pa-tê bồ câu; bánh pa-tê cừu
+
+@squabbish
+* tt
+- hơi mập lùn
+ @squabble  
+*  dt
+- sự cãi nhau ầm ĩ, sự cãi vặt với nhau
+*  ndgt
+- cãi nhau ầm ĩ, cãi vặt
+
++ to squabble with somebody about something: cãi nhau ầm ĩ với ai về việc gì
+*  ngdgt
+- (ngành in) xếp lệch, xếp lộn (hàng chữ)
+
+@squabbler  
+*  dt
+- người hay cãi nhau, người hay cãi vặt
+
+@squabby  
+*  tt
+- mập lùn, béo lùn
+
+@squab-chick  
+*  dt
+- chim non, chim chưa ra ràng
+
+@squab-pie
+* dt
+- pa-tê bồ câu; cừu
+ @squacco  
+*  dt
+- (động vật học) con diệc mào
+
+@squad  
+*  dt
+- (quân sự) tổ, đội
+
++ flying squad: đội cảnh sát cơ giới
+
++ suicide squad: đội cảm tử
+
++ awkward squad: tổ lính mới
+- kíp (thợ)
+- (từ Mỹ,nghĩa Mỹ) đội thể thao
+
+@squad car  
+*  dt
+- xe tuần tra của cảnh sát (có đài sóng ngắn để liên hệ với cơ quan chỉ huy)
+
+@squaddie
+* dt
+- người lính (đặc biệt là người binh nhì trẻ); người tân binh
+ @squaddy
+* dt
+- người lính (đặc biệt là người binh nhì trẻ); người tân binh
+ @squadron  
+*  dt
+- (quân sự) đội kỵ binh
+- (hàng hải) đội tàu
+- (hàng không) đội máy bay
+
++ bombing squadron: đội máy bay ném bom
+- đội, đội ngũ
+*  ngdgt
+- họp thành đội, tổ chức thành đội ngũ
+
+@squailer  
+*  dt
+- gậy ném sóc
+
+@squalid  
+*  tt
+- dơ dáy, bẩn thỉu
+- nghèo khổ
+
+@squalidity   (squalidness) @squalidly
+* dt
+- dơ dáy, bẩn thỉu, tồi tàn (đặc biệt vì cẩu thả, vì bần cùng); nghèo nàn, khốn khổ
+- đê tiện, bủn xỉn; sa đoạ về đạo đức
+ @squalidness   (squalidness) @squall  
+*  dt
+- cơn gió mạnh (thường có mưa hoặc tuyết...)
+
++ the wind blows in squalls: gió thổi từng cơn
+
++ black squall: cơn gió mạnh mang theo mây đen
+
++ white squall: cơn gió mạnh không mang theo mây đen
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sự rối loạn, sự náo loạn
+!to look out for squalls
+- đề phòng nguy hiểm
+*  ndgt
+- có gió mạnh, có gió thổi từng cơn dữ dội
+*  dt
+- tiếng thét thất thanh
+- sự kêu la
+*  dgt
+- kêu, la, thét
+
+@squaller  
+*  dt
+- người kêu thét
+
+@squally  
+*  tt
+- có gió mạnh, có gió thổi từng cơn dữ dội
+- bão tố, đe doạ
+
+@squaloid  
+*  tt
+- giống như cá mập, dạng cá mập
+
+@squalor   (squalidness) @squalord
+* tt
+- dạng cá mập
+ @squam-
+- hình thái ghép có nghĩa là vảy : squamose có vảy
+- hình thái ghép có nghĩa là vảy : squamose có vảy
+ @squama  
+*  dt,  số nhiều squamae
+- (sinh vật học) vảy
+
+@squamae  
+*  dt,  số nhiều squamae
+- (sinh vật học) vảy
+
+@squamate
+* tt
+- có vảy; dạng vảy
+ @squamation
+* dt
+- sự sắp xếp (phân bố) vảy
+ @squame
+* dt
+- vảy
+ @squamiform
+* tt
+- dạng vảy
+ @squamo-
+- xem squam-
+ @squamosal
+* tt
+- có vảy
+- dạng vảy
+- xương vảy
+ @squamose   (squamous) @squamous   (squamous) @squamula
+* dt
+- số nhiều squamulae
+- vảy nhỏ
+- lá bắc
+ @squamulose
+* tt
+- có vảy nhỏ; có lá bắc
+ @squander  
+*  ngdgt
+- phung phí, hoang phí (tiền của, thì giờ), tiêu (tiền) như phá
+
+@squanderer  
+*  dt
+- người tiêu phung phí, người hoang phí
+
+@squandering  
+*  tt
+- phung phí, hoang toàng
+
+@squanderingly
+* dt
+- xem squadering
+ @squandermania  
+*  dt
+- thói tiêu hoang
+
+@squarability
+- (hình học) tính cầu phương được
+ @squarable
+- (hình học) cầu phương được
+ @square  
+*  tt
+- vuông
+
++ a square table: bàn vuông
+
++ a square meter: một mét vuông
+- to ngang
+
++ a man of square frame: người to ngang
+- đẫy, ních bụng
+
++ a square meal: bữa ăn đẫy
+- có thứ tự, ngăn nắp
+
++ to get things square: xếp đồ đạc cho ngăn nắp
+- kiên quyết, dứt khoát, không úp mở
+
++ a square refusal: sự từ chối dứt khoát
+- thẳng thắn, thật thà
+
++ to play a square game: chơi thật thà
+- sòng phẳng
+
++ to get square with creditor: sòng phẳng với chủ nợ
+- ngang hàng, bằng hàng
+
++ I am now square with all the world: bây giờ tôi đã bằng thiên hạ rồi
+- (toán học) vuông, bình phương
+- (từ lóng) cổ lỗ sĩ, lỗi thời
+*  dt
+- vuông vắn
+
++ to sit square on one's seat: ngồi vuông vắt trên ghế
+- thẳng góc với; trúng
+
++ to hit somebody square on the jaw: đấm trúng thẳng vào hàm ai
+- thật thà, thẳng thắn
+
++ to play square: chơi thật thà
+*  dt
+- hình vuông
+- quảng trường
+
++  Badinh square: quảng trường Ba đình
+- khu nhà khối giáp bốn phố
+- thước vuông góc, cái ê-ke
+- ô chữ vuông
+- (toán học) bình phương
+
++ the square of three is nine: ba bình phương là chín
+- (từ lóng) người nệ cổ
+!a square peg in a round hole
+- (xem) hole
+!by the square
+- một cách chính xác
+!magic square
+- hình ma phương
+!on the square
+- (thông tục) thẳng thắn, thật thà
+!out of square
+- không vuông
+- (thông tục) không hoà hợp, lủng củng
+- (thông tục) sai
+*  ngdgt
+- làm cho vuông, đẽo cho vuông
+- điều chỉnh, làm cho hợp
+
++ to square one's practice with one's principles: làm cho việc làm của mình hợp với những nguyên tắc mình đề ra
+- thanh toán, trả (nợ)
+
++ to square accounts with somebody: thanh toán với ai; trả thù ai, thanh toán mối thù với ai
+- (thông tục) trả tiền, hối lộ (ai)
+
++ he has been squared to keep silent: người ta đã hối lộ nó để nó im mồm
+- (toán học) bình phương
+
++ three squared is nine: ba bình phương là chín
+- (thể dục,thể thao) làm (điểm) ngang nhau (chơi gôn)
+- (hàng hải) đặt (trụ gỗ) thẳng góc với vỏ tàu
+*  ndgt
+- hợp, phù hợp
+
++ his deeds do not square with his words: việc làm của anh ta không thích hợp với lời nói
+
++ theory must square with practice: lý luận phải đi đôi với thực hành
+- thủ thế (quyền Anh); (: up to) xông tới (ai) trong thế thủ
+- cương quyết đương đầu
+
++ to square up to difficulties: cương quyết đương đầu với khó khăn
+- thanh toán nợ nần
+
++ to square up someone: thanh toán nợ nần với ai
+!to square away
+- (hàng hải) xoay tàu thuyền đi đi xuôi gió
+- (như) to square off
+!to square off
+- chuyển sang thế tấn công; chuyển về giữ thế thủ (quyền Anh)
+!to square oneself
+- (thông tục) đền bù, bồi thường (những cái mình làm thiệt hại cho người khác)
+!to square the circle
+- (toán học) cầu phương hình tròn
+- làm một việc không thể làm được
+
+@square
+- (hình học) hình vuông, thước đo góc; bình phương
+- conjugate latin s.s (thống kê) hình vuông latin liên hợp 
+- integrable s. (giải tích) bình phương khả tích 
+- latin s. (thống kê) hình vuông latin
+- magic(al) s. ma phương
+- perfect s. chính phương
+- perfect trinomial s. bình phương đủ của tam thức
+- root mean s. căn quân phương 
+ @square bracket  
+*  dt
+- dấu móc vuông
+
+@square brackets
+* dt
+- dấu móc vuông, dấu ngoặc vuông
+ @square circle  
+*  dt
+- (thông tục) vũ đài (đấu quyền Anh)
+
+@square dance
+* dt
+- <Mỹ> điệu nhảy có bốn đôi cùng nhảy ở bốn phía, mặt hướng về phía trong lúc bắt đầu
+ @square leg
+* dt
+- người bắt bóng đứng ở một khoảng cách với người cầm gậy về phía bên trái và gần ngang với cọc-gôn (trong môn cricket)
+ @square measure
+* dt
+- cách đo diện tích được biểu thị bằng mét vuông (bộ vuông )
+ @square root
+* dt
+- số căn bình phương
+ @square shooter  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người thẳng thắn thật thà
+
+@square-bracket
+* dt
+- thao diễn quân sự trong phạm vi trại lính
+ @square-built  
+*  tt
+- to ngang (người)
+
+@square-dance
+* ngdgt
+- khiêu vũ bốn cặp hình vuông
+* dt
+- kiểu khiêu vũ bốn cặp hình vuông
+ @square-dancer
+* dt
+- người khiêu vũ bốn cặp hình vuông
+ @square-dancing
+* dt
+- cách khiêu vũ bốn cặp hình vuông
+ @squareface  
+*  dt
+- (từ lóng) rượu gin
+
+@squarehead  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người Bắc Âu ở Mỹ,  Ca-na-đa
+- ghuộm từ lóng
+
+@square-knot
+- loại nút kép đối xứng khó tuột, khó tháo
+ @square-law
+* dt
+- định luật bình phương
+ @squarely  
+*  dt
+- vuông vắn
+- thẳng thắn, thật thà, trung thực
+- kiên quyết, dứt khoát
+
+@square-matrix
+* dt
+- (toán học) ma trận vuông
+ @squareness  
+*  dt
+- sự vuông vắn
+- tính thẳng thắn, tính thật thà, tính trung thực
+
+@squarer
+* dt
+- người cưa đẽo đá, gỗ thành hình vuông
+ @squarer
+- (máy tính) máy lấy bình phương
+ @square-rigged  
+*  tt
+- (hàng hải) có buồm chính thẳng góc với thuyền
+
+@square-root
+* dt
+- (toán học) căn bậc hai
+ @square-shouldered  
+*  tt
+- có vai ngang (người)
+
+@square-toed  
+*  tt
+- vuông mũi (giày)
+- đi giày mũi vuông
+- chính thức; đúng quy cách
+- chuộng nghi thức
+
+@square-toes  
+*  dt
+- người nệ cổ; người chuộng nghi thức
+
+@squarience
+- (thống kê) tổng bình phương các độ lệch (so với giá trị trung bình)
+ @squaring
+* dt
+- sự nâng lên lũy thừa bậc hai
+- phép cầu phương
+- cự cắt thành hình vuông
+- sự chống đỡ mỏ bằng khung vuông
+ @squaring
+- phép cầu phương, phép bình phương s. the circle phép cầu
+- phương vòng tròn 
+ @squarish  
+*  tt
+- hơi vuông, vuông vuông
+
+@squarrose   (squarrous) @squarrous   (squarrous) @squarson  
+*  dt
+-(đùa cợt) mục sư địa chủ
+
+@squash  
+*  dt
+- quả bí
+- (thực vật học) cây bí
+- sự nén, sự ép
+- cái dễ nén, cái dễ ép; vật bị nén, vật bị ép; thức uống chế bằng nước quả ép
+
++ orange squash: nước cam
+- khối mềm nhão
+- đám đông
+- tiếng rơi nhẹ
+- (thể dục,thể thao) bóng quần
+*  ngdgt
+- ép, nén, nén chặt
+- bẻ lại làm (ai) phải cứng họng
+- bóp chết, đàn áp (một phong trào, cuộc nổi dậy...)
+*  ndgt
+- bị ép, bị nén
+- chen
+
++ to squash into the car: chen vào trong xe
+
+@squash court  
+*  dt
+- sân chơi bóng quần
+
+@squash rackets
+* dt
+- <thể> bóng quần (chơi với vợt và một quả bóng cao su nhỏ mềm rỗng, trong sân có tường bao và mái che)
+ @squashily
+* dt
+- mềm dễ bẹt; bùn nhão (đất)
+- mềm nhũn
+ @squashiness
+* dt
+- chất mềm dễ bẹt; bùn nhão (đất)
+- chất mềm nhũn
+ @squashing
+* dt
+- sự ép; đè bẹp; chen chúc nhau
+ @squashy  
+*  tt
+- mềm nhão
+- dễ ép, dễ nén; dễ vắt
+
+@squat  
+*  tt
+- ngồi xổm, ngồi chồm chỗm
+- mập lùn, béo lùn (người)
+*  dt
+- sự ngồi xổm, sự ngồi chồm chỗm; thế ngồi xổm, thế ngồi chồm chỗm
+- người béo lùn
+!hot squat
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ghế điện
+*  ndgt
+- ngồi xổm, ngồi chồm chỗm; (thông tục) ngồi
+- nằm sát xuống đất (súc vật)
+- (từ Mỹ,nghĩa Mỹ), (Uc) chiếm đất công để ở
+- (từ Mỹ,nghĩa Mỹ), (Uc) ở vào khu đất công (cốt để về sau sẽ được chính phủ chính thức cho hưởng quyền sở hữu)
+*  ngdgt
+- đặt (ai) ngồi xổm
+
+@squatter  
+*  dt
+- người ngổi xổm, người ngồi chồm chỗm
+- (từ Mỹ,nghĩa Mỹ), (Uc) người đến lập nghiệp ở đất công; người đến chiếm đất
+- (từ Mỹ,nghĩa Mỹ), (Uc) người thuê đồng cỏ của chính phủ
+
+@squatty  
+*  tt
+- mập lùn, béo lùn
+
+@squaw  
+*  dt
+- người đàn bà da đỏ; vợ người da đỏ
+- (từ Mỹ,nghĩa Mỹ), (đùa cợt) đàn bà
+
+@squawk  
+*  dt
+- tiếng kêu quác quác (chim)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lời than vãn oai oái, lời oán trách oai oái; lời phản đối oai oái
+
+@squaw-man  
+*  dt
+- người da trắng lấy vợ da đỏ
+
+@squeak  
+*  dt
+- tiếng rúc rích, tiếng chít chít (chuột)
+- tiếng cọt kẹt, tiếng cót két
+!to have a narrow squeak
+- (xem) narrow
+*  ndgt
+- rúc rích, kêu chít chít (chuột)
+- cọt kẹt, cót két
+- (từ lóng) mách lẻo; làm chỉ điểm
+*  ngdgt
+- rít lên
+
++ to squeak a word: rít lên một tiếng
+- làm (cửa...) kêu cọt kẹt
+
+@squeaker  
+*  dt
+- người rít lên
+- người mách lẻo; chỉ điểm
+- chim non; bồ câu non
+
+@squeakily
+* dt
+- chít chít như chuột kêu
+- cọt kẹt, cót két; phát ra một tiếng gắt
+ @squeakiness
+* tt
+- tiếng chít chít như chuột kêu
+- tiếng cọt kẹt, tiếng cót két; sự phát ra một tiếng gắt
+ @squeaky  
+*  tt
+- chít chít (như chuột kêu)
+- cọt kẹt, cót két
+
+@squeal  
+*  dt
+- tiếng kêu ré lên, tiếng kêu the thé
+- tiếng eng éc (lợn)
+*  ndgt
+- kêu ré lên, thét, la (vì mừng, đau, sợ)
+- (từ lóng) phản đối (đóng thuế...)
+- (từ lóng) mách lẻo, hớt; chỉ điểm
+*  ngdgt
+- kêu ré lên, thét, la
+!to make somebody squeal
+- (từ lóng) tống tiền ai
+
+@squealer  
+*  dt
+- người la hét
+- người hay mách lẻo, người hay hớt; chỉ điểm non; bồ câu non
+
+@squeamish  
+*  tt
+- hay buồn nôn
+- khó tính, khe khắt
+- quá cẩn thận, quá câu nệ
+
+@squeamishly
+* dt
+- có dạ dày yếu và dễ buồn nôn
+- khó tính, dễ phẫn nộ, dễ buồn bực, dễ mất lòng
+- câu nệ; quá cân nhắc đắn đo, quá khiêm tốn, quá đúng đắn (về mặt nguyên tắc, đạo đức )
+ @squeamishness  
+*  dt
+- tính hay buồn nôn
+- sự khó tính, sự khe khắt
+- sự quá cẩn thận, sự quá câu nệ
+
+@squeegee   (squilgee) @squeezability  
+*  dt
+- tính có thể ép được, tính có thể vắt được
+- sự có thể tống tiền được, sự có thể bóp nặn được
+
+@squeezable  
+*  tt
+- có thể ép được, có thể vắt được
+- có thể tống tiền được, có thể bòn tiền được, có thể bóp nặn được
+
+@squeeze  
+*  dt
+- sự ép, sự vắt, sự siết, sự véo
+
++ to give somebody a squeeze of the hand: siết chặt tay người nào
+- sự ôm chặt
+
++ to give somebody a squeeze: ôm chặt ai vào lòng
+- đám đông; sự chen chúc
+
++ it was a tight squeeze: đông quá
+- sự hạn chế, sự bắt buộc
+- sự in dấu tiền đồng (lên giấy, lên sáp)
+- sự ăn bớt, sự ăn chặn, sự ăn hoa hồng lậu
+- (đánh bài) sự ép đối phương bỏ những quân bài quan trọng ((cũng) squeeze play)
+*  ngdgt
+- ép, vắt, nén, siết chặt
+
++ to squeeze a lemon: vắt chanh
+
++ to squeeze somebody's hand: siết chặt tay ai
+- chen, ẩn, nhét
+
++ to squeeze oneself into a carriage: chen vào một toa xe
+
++ to squeeze a shirt into a suitcase: ấn chiếc sơ mi vào cái va li
+- tống tiền, bòn mót (tiền của), bóp nặn
+- thúc ép, gây áp lực
+- nặn ra, ép ra, cố rặn ra
+
++ to squeeze a tear: rặn khóc
+- in dấu (tiền đồng) (lên giấy hay sáp)
+*  ndgt
+- ép, vắt, nén
+- ((thường) : in,  out,  through...) chen lấn
+
++ to squeeze through the crowd: chen qua đám đông
+
+@squeezer  
+*  dt
+- người ép, người vắt
+- người tống tiền, người bòn tiền, người bóp nặn
+- máy ép khử bọt khí (trong sắt nóng chảy)
+
+@squeezing
+* dt
+- sự ép; vắt
+ @squegg
+* dt
+- bộ dao động ngắt quãng; gián đoạn
+ @squegging
+* dt
+- sự dao động ngắt quãng; gián đoạn
+ @squelch  
+*  dt
+- (thông tục) sự giẫm bẹp, sự giẫm nát
+- sự chấm dứt
+- tiếng lép nhép, tiếng ì ọp (như khi rút chân ở dưới bùn lên); tiếng rơi bẹt (xuống vật mềm)
+- đống (bùn, phân...) bị giẫm nát
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) câu trả lời điếng người, câu đối đáp điếng người, câu bẻ lại làm cứng họng
+*  ngdgt
+- giẫm bẹp, đè bẹp (một phong trào)
+- chấm dứt, làm hết
+
++ to squelch a thirst: làm cho hết khát
+- làm im, làm cứng họng, làm câm họng
+*  ndgt
+- lõm bõm, lép nhép, ì ọp
+
++ to squelch through the mud: lội lõm bõm trong bùn
+
+@squelcher
+* dt
+- người (vật) đè bẹp
+- người đáp lại làm đối thủ câm họng
+ @squib  
+*  dt
+- pháo ném
+- mồi nổ
+- bài văn châm biếm
+*  dgt
+- đốt pháo ném
+- viết bài châm biếm (ai)
+
+@squid  
+*  dt
+- súng cối bắn tàu ngầm
+- mực ống
+- mồi nhân tạo
+*  ndgt
+- câu bằng mồi mực
+
+@squidgy
+* tt
+- <thgt> mềm và ẩm; đẫm nước
+ @squiffed
+* tt
+- (từ lóng) ngà ngà say
+ @squiffer  
+*  dt
+- (từ lóng) đàn Côngxectina
+
+@squiffy  
+*  tt
+- (từ lóng) chếnh choáng hơi men
+
+@squiggle
+* dt
+- dòng vặn vẹo, dòng lượn sóng ngắn; nét chữ nguệch ngoạc, cong queo
+ @squiggly
+* dt
+- nguệch ngoạc (chữ)
+ @squilgee   (squilgee) @squill  
+*  dt
+- (thực vật học) cây hành biển; củ hành biển (dùng làm thuốc lợi tiểu)
+- (như) squill-fish
+
+@squill-fish  
+*  dt
+- (động vật học) tôm ruộc ((cũng) squill)
+
+@squinch  
+*  dt
+- (kiến trúc) vòm góc tường
+
+@squinny
+* ndgt
+- nhìn nghiêng, liếc nhìn
+ @squint  
+*  tt
+- (y học) lác (mắt)
+*  dt
+- tật lác mắt
+- cái liếc mắt
+- (thông tục) sự nhìn, sự xem
+
++ let me have a squintat it: cho tôi xem một tí nào
+- sự nghiêng về, sự ngả về (một chính sách)
+
++ to have a squint to some policy: ngã về một chính sách nào
+- lỗ chiêm ngưỡng (đục qua tường trong nhà thờ, để nhìn thấy bàn thờ)
+*  ndgt
+- có tật lác mắt
+- liếc, liếc nhìn
+
++ to squint at something: liếc nhìn vật gì
+*  ngdgt
+- làm cho (mắt) lác
+- nhắm nhanh (mắt)
+- nheo (mắt)
+
+@squinter  
+*  dt
+- người mắt lác
+
+@squint-eyed  
+*  tt
+- lác mắt
+- có ác ý
+
+@squinty
+* tt
+
++  squinty eyes:mắt lác; mắt lé
+ @squire  
+*  dt
+- địa chủ, điền chủ
+- người đi hộ vệ; (thông tục) người nịnh đầm
+
++ squire of dames: người hay chú ý đến đàn bà; người hay lui tới chỗ có đàn bà con gái
+- (sử học) người cận vệ (của hiệp sĩ)
+*  ngdgt
+- chăm nom, săn sóc; đi hộ vệ
+
+@squirearchal   (squirearchal) @squirearchical   (squirearchal) @squirearchy  
+*  dt
+- giai cấp địa chủ
+- chính quyền địa chủ
+
+@squireen  
+*  dt
+- địa chủ nhỏ (ở Ai-len)
+
+@squirehood   (squireship) @squirelet   (squireling) @squireling   (squireling) @squirely  
+*  tt
+- (thuộc) địa chủ
+
+@squireship   (squireship) @squiriarchy
+* dt
+- xem squirearchy
+ @squirm  
+*  dt
+- sự đi ngoằn ngoèo, sự bò ngoằn ngoèo (như rắn); sự quằn quại
+- (hàng hải) chỗ thừng vặn
+*  ndgt
+- ngoằn ngoèo, vặn vẹo; quằn quại
+- (từ lóng) cảm thấy lúng túng, tỏ ra lúng túng
+
+@squirrel  
+*  dt
+- (động vật học) con sóc
+
+@squirrel-fish  
+*  dt
+- (động vật học) cá sơn đá, cá sơn rằn
+
+@squirrel-monkey  
+*  dt
+- (động vật học) khỉ sóc
+
+@squirt  
+*  dt
+- ống tiêm
+- tia nước
+- (như) squirt-gun
+- (thông tục) oắt con ngạo nghễ
+*  ngdgt
+- làm (nước) vọt ra, làm (nước) bắn ra, làm (nước) tia ra
+*  ndgt
+- tia ra, vọt ra (nước)
+
+@squirt-gun  
+*  dt
+- súng phụt nước (đồ chơi của trẻ con) ((cũng) squirt)
+
+@squish  
+*  dt
+- (thông tục) mứt cam
+
+@squishiness
+* dt
+- sự mềm; sự ướt át
+ @squishy
+* tt
+- mềm; ướt át
+ @squit  
+*  dt
+- (từ lóng) thằng nhãi nhép, thằng oắt con
+
+@

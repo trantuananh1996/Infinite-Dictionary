@@ -1,0 +1,198 @@
+@ot
+* dt
+- vt của Old Testament
+- Kinh Cựu ước
+ @otalgia
+* dt
+- (y học) sự đau tai
+ @otalgic
+* dt
+- đau tai
+ @otalgy
+* dt
+- bệnh đau tai
+ @otary
+* dt
+- con sư tử biển
+ @other  
+*  tt
+- khác
+
++ we have other evidence: chúng tôi có chứng cớ khác
+
++ it was none other than Nam: không phải ai khác mà chính là Nam
+- kia
+
++ now open the other eye: bây giờ mở mắt kia ra
+!every other day
+- (xem) every
+!the other day
+- (xem) day
+!on the other hand
+- mặt khác
+*  dt & đại từ
+- người khác, vật khác, cái khác
+
++ the six other are late: sáu người kia đến chậm
+
++ give me some others: đưa cho tôi một vài cái khác
+*  dt
+- khác, cách khác
+
+@other than
+* giới từ
+- trừ, ngoài
+- khác với, không
+ @Other thíng equal
+- (Econ) Các điều kiện khác không đổi.
+ @other world  
+*  dt
+- thế giới bên kia, kiếp sau
+
+@other-directed  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) bị ảnh hưởng bên ngoài chi phí
+
+@otherness  
+*  dt
+- (từ hiếm,nghĩa hiếm) sự khác, sự khác biệt
+- vật khác (với vật đang nói đến...)
+
+@others
+- đại từ
+- những người khác; những vật khác
+
++  some people like cars,  others like motorbikes:một số người thích xe ô tô, những người khác thì thích xe gắn máy
+
++  we must help others needier than ourselves:chúng ta phải giúp đỡ những người khác túng thiếu hơn chúng ta
+- (the others) những người hoặc vật còn lại trong một nhóm; những người kia
+
++  he is the only person to help poor pupils - none of the others bothered:ông ta là người duy nhất giúp đỡ học sinh nghèo - những người khác chẳng ai quan tâm đến
+
++  I went swimming while the others played tennis:tôi đi bơi, còn những người khác chơi quần vợt
+
++  I can't do the fourth and fifth questions but I've done all the others:tôi không làm được câu hỏi thứ tư và thứ năm, nhưng đã làm được tất cả các câu hỏi khác
+@otherwhence
+* dt
+- từ nơi khác
+ @otherwhere
+* dt
+- ở nơi khác
+ @otherwhile
+* dt
+- vào lúc khác
+ @otherwise  
+*  dt
+- khác, cách khác
+
++ he could not have acted otherwise: anh ta đã không hành động khác được
+- nếu không thì...
+
++ seize the chance, otherwise you will regret it: nắm lấy dịp đó, nếu không anh sẽ hối tiếc
+- mặt khác, về mặt khác
+
++ he is unruly, but not otherwise blameworthy: nó ngang ngạnh, nhưng về mặt khác thì không đáng khiển trách
+
+@otherwise
+- cách khác, khác
+ @otherwise-minded  
+*  tt
+- có xu hướng khác, có ý kiến khác (với thông thường)
+
+@other-world   (other-worldly) @other-worldly   (other-worldly) @othman
+- như Ottoman
+ @otic  
+*  tt
+- (thuộc) tai
+
+@otidium
+* dt
+- túi thính giác; túi thăng bằng (bình nang)
+ @otiose  
+*  tt
+- lười biếng
+- rỗ rãi
+- (từ hiếm,nghĩa hiếm) vô ích, vô tác dụng
+
+@otioseness   (otiosity) @otiosity   (otiosity) @otitis  
+*  dt
+- (y học) viêm tai
+
+@otitis media  
+*  dt
+- (y học) viêm tai giữa
+
+@oto-
+- xem ot-
+ @otocyst
+* dt
+- xem otidium
+ @otolaryngology  
+*  dt
+- (y học) khoa tai họng
+
+@otolith
+* dt
+- sỏi thính giác; sỏi tai
+ @otolithic
+* tt
+- xem otolith, chỉ thuộc về
+ @otological  
+*  tt
+- (y học) (thuộc) khoa tai
+
+@otologist  
+*  dt
+- (y học) bác sĩ khoa tai
+
+@otology  
+*  dt
+- (y học) khoa tai
+
+@otolpathy
+* dt
+- bệnh tai
+ @otophone  
+*  dt
+- ống nghe (cho người nghễnh ngãng...)
+
+@otorhinolaryngologist
+* dt
+- bác sĩ chuyên khoa tai mũi họng
+ @otorhinolaryngology  
+*  dt
+- (y học) khoa tai mũi họng
+
+@otorrhea  
+*  dt
+- (y học) chứng chảy nước tai
+
+@otosclerosis  
+*  dt
+- (y học) chứng xơ cứng tai
+
+@otoscope  
+*  dt
+- (y học) ống soi tai
+
+@ottava rima  
+*  dt
+- đoạn thơ tám câu
+
+@otter  
+*  dt
+- (động vật học) con rái cá
+- bộ lông rái cá
+
+@otter-dog   (otter-hound) @otter-hound   (otter-hound) @otter-skin
+* dt
+- da rái cá
+ @otter-spear  
+*  dt
+- cái lao đâm rái cá
+
+@otto   (otto) @ottoman  
+*  dt
+- ghế dài có đệm
+
+@

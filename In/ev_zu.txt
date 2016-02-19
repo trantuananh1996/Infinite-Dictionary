@@ -1,0 +1,7 @@
+@zulu
+* dt
+- người Zulu ở Nam Phi
+- ngôn ngữ Zulu
+* tt
+- thuộc về người Zulu
+ @

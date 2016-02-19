@@ -1,0 +1,289 @@
+@oidiophore
+* dt
+- (thực vật) cuống bào tử phấn
+ @oidiospore
+* dt
+- (thực vật) bào tử phấn
+ @oidium
+* dt
+- số nhiều oidia
+- (thực vật) bào tử phấn; bào tử vách mỏng
+ @oikoid
+* dt
+- chất đệm hồng cầu
+ @oikological
+* tt
+- (sinh vật) thuộc sinh thái học
+ @oikology
+* dt
+- sinh thái học
+ @oikoplast
+* dt
+- (sinh vật) tế bào tuyến ngoại bì lớn
+ @oikos
+* dt
+- nơi ở; nơi sống
+ @oikosite
+* dt
+- (sinh vật) vật ký sinh cố định
+ @oil  
+*  dt
+- dầu
+
++ mineral oil: dần khoáng
+
++ vegetable and nanimal oil: dầu thực vật và động vật
+- (số nhiều) tranh sơn dầu
+- (thông tục) sự nịnh nọt, sự phỉnh nịnh
+!to burn the midnight oil
+- thức khuya học tập (làm việc)
+!to pour oil upon troubled water
+- (xem) pour
+!to pour (throw) oil on the flames
+- lửa cháy đổ dầu thêm
+!to smell of oil
+- chứng tỏ làm việc chăm chỉ, thức khuya dậy sớm
+!to strike oil
+- (xem) strike
+!oil and vinegar
+- nước và lửa; mặt trăng mặt trời; chó và mèo
+*  ngdgt
+- tra dầu, bôi dầu, lau dầu
+- thấm dầu, ngấm dầu
+
++ oiled sardines: cá hộp dầu
+- biến thành dầu
+- (từ Mỹ,nghĩa Mỹ) đút lót, hối lộ
+*  ndgt
+- biến thành dầu
+!to oil someone's palm
+- mua chuộc ai, hối lộ ai
+!to oil one's tongue
+- nịnh hót, tán khéo
+!to oil the wheels
+- (nghĩa bóng) đút lót, hối lộ
+
+@oil bearing
+* tt
+- có chứa dầu khoáng (đá dưới đất)
+ @oil cake
+* dt
+- bánh khô dầu
+ @oil cloth
+* dt
+- vải dầu
+ @oil plant  
+*  dt
+- cây có dầu
+
+@oil tree  
+*  dt
+- cây có dầu
+
+@oilcake  
+*  dt
+- bánh khô dầu
+
+@oilcan  
+*  dt
+- thùng dầu
+- cái bơm dầu, vịt dầu
+
+@oilcloth  
+*  dt
+- vải dầu
+
+@oil-coat  
+*  dt
+- áo vải dầu (không thấm nước)
+
+@oil-colour   (oil-paint) @oildom
+* dt
+- khu vực có dầu
+ @oil-dried
+* tt
+- khô hết dầu
+ @oiled  
+*  tt
+- có tra dầu
+- (từ lóng) ngà ngà say, chếnh choáng say
+
+@oil-engine   (oil-engine) @oilengine   (oil-engine) @oiler  
+*  dt
+- tàu chở dầu
+- người tra dầu, người đổ dầu (vào máy)
+- vịt dầu, cái bơm dầu
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) áo vải dầu
+
+@oilery
+* dt
+- giếng dầu
+ @oil-factory
+* dt
+- nhà máy làm dầu cá
+ @oilfield  
+*  dt
+- vùng có dầu
+- mỏ dầu
+
+@oil-field
+* tt
+- mỏ dầu, vùng có dầu
+
++  Iran oilfield:mỏ dầu ở Iran
+ @oil-filler  
+*  dt
+- cái bơm dầu, vịt dầu
+
+@oil-fired
+* tt
+- dùng dầu làm nhiên liệu (đun, lò )
+ @oil-gage
+* dt
+- dụng cụ đo tỷ lệ trọng dầu
+ @oil-gilding  
+*  dt
+- vàng lá thiếp dầu
+
+@oil-gland  
+*  dt
+- (sinh vật học) tuyến bã nhờn
+
+@oil-gold  
+*  dt
+- vàng lá thiếp dầu
+
+@oil-heat
+* tt
+- đun nóng bằng dầu
+ @oil-holder
+* dt
+- vịt dầu; cái tra dầu
+ @oil-hole  
+*  dt
+- lỗ cho dầu
+
+@oilily
+* tt
+- như dầu; trơn láng
+- có dầu
+ @oiliness  
+*  dt
+- tính chất nhờn
+- tính chất có dầu
+- sự trơn tru, sự trôi chảy
+- tính chất nịnh hót, tính chất bợ đỡ; tính chất ngọt xớt (thái độ, lời nói...)
+
+@oil-loading
+* dt
+- sự rót dầu
+ @oilman  
+*  dt
+- người làm dầu, người bán dầu
+
+@oil-meal  
+*  dt
+- bột khô dầu (hạt đay)
+
+@oil-nut  
+*  dt
+- (thực vật học) hạt thầu dầu
+
+@oil-overflow
+* dt
+- sự tràn dầu
+ @oil-paint   (oil-paint) @oil-painter
+* dt
+- người vẽ tranh sơn dầu
+ @oil-painting  
+*  dt
+- nghệ thuật vẽ tranh sơn dầu
+- tranh sơn dầu
+
+@oil-palm
+* dt
+- cây cọ dầu
+ @oil-paper  
+*  dt
+- giấy dầu
+
+@oilpaper
+* dt
+- giấy dầu
+ @oil-plant
+* dt
+- cây có dầu
+ @oil-press  
+*  dt
+- máy ép dầu
+
+@oil-proof
+* tt
+- không thấm dầu
+ @oil-resisting
+* tt
+- chịu dầu
+ @oil-rig
+* dt
+- giàn khoan dầu
+ @oil-seed  
+*  dt
+- hạt có dầu
+
+@oilskin  
+*  dt
+- vải dầu
+- (số nhiều) quần áo vải dầu
+
+@oil-skin
+* dt
+- vải dầu
+- <snh> quần áo vải dầu
+ @oil-slick
+* dt
+- vết dầu loang trên mặt nước
+ @oil-spring  
+*  dt
+- nguồn dầu
+
+@oil-stone  
+*  dt
+- đá mài (mài với dầu)
+
+@oil-tank
+* dt
+- bể dầu
+ @oil-tanker
+* dt
+- tàu chở dầu
+ @oil-tight
+* tt
+- kín dầu; không thấm dầu
+ @oil-treat
+* ngdgt
+- xử lý bằng dầu; tẩm dầu
+ @oil-tree
+* dt
+- cây có dầu; xem oil-plant
+ @oil-way
+* dt
+- rảnh dầu; đường dẫn dầu
+ @oil-well
+* dt
+- giếng dầu
+ @oily  
+*  tt
+- như dầu, nhờn như dầu, trơn như dầu
+- có dầu, đầy dầu, giấy dầu, lem luốc dầu
+
++ oily hands: tay giây dầu mỡ
+- trơn tru, trôi chảy
+
++ oily style: văn trôi chảy
+- nịnh hót, bợ đỡ; ngọt xớt (thái độ, lời nói...)
+
+@ointment  
+*  dt
+- thuốc mỡ
+
+@

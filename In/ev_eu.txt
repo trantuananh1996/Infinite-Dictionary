@@ -1,0 +1,527 @@
+@EUA
+- (Econ) Xem EUROPEAN UNIT OF ACCOUNT
+ @eucalypt
+* dt
+- (thực vật) cây bạch đàn
+ @eucalypti  
+*  dt,  số nhiều eucalyptuses,  eucalypti
+- cây khuynh diệp, cây bạch đàn
+
+@eucalyptol
+* dt
+- cũng eucalyptole
+- dầu bạch đàn
+ @eucalyptus  
+*  dt,  số nhiều eucalyptuses,  eucalypti
+- cây khuynh diệp, cây bạch đàn
+
+@eucalyptus oil  
+*  dt
+- dầu khuynh diệp
+
+@eucarpic
+* tt
+- (thực vật) thuộc thể quả thật
+ @eucatalepsy
+* dt
+- (triết học) sự thông hiểu, sự giác ngộ
+ @eucentric
+* tt
+- (sinh học) chính tâm; bao quanh đoạn trung tâm
+ @eucephalous
+* tt
+- (động vật) có đầu phát triển
+ @eucharis  
+*  dt
+- (thực vật học) cây ngọc trâm
+
+@eucharist  
+*  dt (tôn giáo)
+- lễ ban thánh thể
+- bánh thánh; rượu thánh
+
+@eucharistic   (eucharistical) @eucharistical   (eucharistical) @euchre  
+*  dt
+- lối chơi bài ucơ (của Mỹ)
+*  ngdgt
+- thắng điểm (đối phương chơi bài ucơ)
+- (thông tục) đánh lừa được; phỗng tay trên; đánh bại (ai)
+
+@euchroic
+* tt
+- thuộc hệ sắc tố bình thường
+ @euchromatic
+* tt
+- thuộc chất nhiễm sắc điển hình
+ @euchromatin
+* dt
+- chất nhiễm sắc điển hình
+ @euchromosome
+* dt
+- thể nhiễm sắc điển hình
+ @euclid  
+*  dt
+- (toán học) nhà toán học O-clit
+
+@euclidean  
+*  dt
+- (toán học) (thuộc) O-clit
+
++ euclidean algorithm: thuật toán O-clit
+
+@Euclidean geometry,
+- (Tech) hình học Euclide, hình học không gian, hình học ba chiều
+ @eudaemonism   (eudaemonism) @eudaemonist   (eudaemonist) @eudemonism   (eudaemonism) @eudemonist   (eudaemonist) @eudemonistic
+- xem eudemonism
+ @eudemonistical
+- xem eudemonism
+ @eudemonology
+* dt
+- cũng eudaemonology
+- hạnh phúc học
+ @eudiometer  
+*  dt
+- (hoá học) ống đo khí
+
+@eudiometric   (eudiometrical) @eudiometrical   (eudiometrical) @eudiometry  
+*  dt
+- (hoá học) phép đo khí
+
+@eudiplueral
+* tt
+- (sinh học) đối xứng hai bên
+ @eudominant
+* dt
+- (sinh học) loài trội điển hình, loài chính thức
+ @eugamic
+* tt
+- (sinh học) giao phối ở tuổi thành thục
+ @eugenia
+- (thực vật) cây vối
+ @eugenic  
+*  tt
+- ưu sinh
+
+@eugenically
+- xem eugenic
+ @eugenics  
+*  dt,  số nhiều dùng như số ít
+- thuyết ưu sinh
+
+@eugenism
+* dt
+- ưu sinh luận
+ @eugenist  
+*  dt
+- người theo thuyết ưu sinh
+
+@eugenol
+* dt
+- (hoá học) eugenol
+ @euglena
+* dt
+- (động vật) tảo mắt; trùng mắt
+ @euglenoid
+* tt
+- dạng tảo mắt dạng trùng mắt
+ @eugonic
+* tt
+- mọc dày đặc
+ @euhemerise   (euhemerise) @euhemerism  
+*  dt
+- thuyết thần thoại lịch sử (cho là thần thoại có nguồn gốc lịch sử)
+
+@euhemerist  
+*  dt
+- người thuyết thần thoại lịch sử
+
+@euhemeristic  
+*  tt
+- (thuộc) thuyết thần thoại lịch sử
+
+@euhemeristically
+- xem euhemerism
+ @euhemerize   (euhemerise) @euheterosis
+* dt
+- tính ưu thế điển hình
+ @euhybrid
+* dt
+- (sinh học) loài lai điển hình
+ @Euler's theorem
+- (Econ) Định lý Euler
+ @eulogia
+- dt,  số nhiều của eulogium
+ @eulogise   (eulogise) @eulogist  
+*  dt
+- người tán dương, người khen ngợi, người ca tụng
+
+@eulogistic   (eulogistical) @eulogistical   (eulogistical) @eulogistically
+- xem eulogy
+ @eulogium
+* dt
+- số nhiều eulogia
+- bài tán dương, bài ca ngợi
+ @eulogize   (eulogise) @eulogizer
+* dt
+- người tán dương, tán tụng, ca tụng
+ @eulogy  
+*  dt
+- bài tán dương, bài ca tụng
+
++ to pronouncec a eulogy on somebody; to pronounce somebody's eulogy: tán dương ai, ca tụng ai
+- lời khen, lời ca ngợi
+
+@eumenides
+* dt
+- nữ thần Ơ-mê-nit tóc là rắn theo đuổi trừng trị kẻ phạm tội ác (thần thoại Hy-lạp)
+ @eunuch  
+*  dt
+- quan hoạn
+
+@eunuchism
+- xem eunuch
+ @eupatorium
+* dt
+- (thực vật) cây cỏ lào
+ @eupepsia   (eupepsy) @eupepsy   (eupepsy) @eupeptic  
+*  tt
+- tiêu hoá tốt
+
+@eupeptically
+- xem eupeptic
+ @euphemism  
+*  dt
+- (ngôn ngữ học) lối nói trại, lời nói trại, uyển ngữ
+
+@euphemist
+- xem euphemism
+ @euphemistic   (euphemistical) @euphemistical   (euphemistical) @euphemistically
+* dt
+- theo lối nói trại, theo lối nói hoa Mỹ
+ @euphemize  
+*  dgt
+- diễn đạt bằng lối nói trại, diễn đạt bằng uyển ngữ
+
+@euphemizer
+- xem euphemize
+ @euphonic   (euphonical) @euphonical   (euphonical) @euphonically
+- xem euphony
+ @euphonicalness
+* dt
+- sự hài âm
+* dt
+- sự hài âm
+ @euphonious   (euphonical) @euphoniously
+- xem euphonious
+ @euphoniousness
+- xem euphonious
+ @euphonise   (euphonise) @euphonism
+* dt
+- hài âm
+ @euphonium  
+*  dt
+- (âm nhạc) Tuba (nhạc khí)
+
+@euphonize   (euphonise) @euphony  
+*  dt
+- tiếng êm tai
+- tính thuận tai, tính êm tai
+- (ngôn ngữ học) luật hài âm
+
+@euphorbia  
+*  dt
+- (thực vật học) giống cây đại kích
+
+@euphorbiaceous  
+*  tt
+- (thực vật học) (thuộc) họ thầu dầu
+
+@euphoria   (euphory) @euphoric  
+*  tt
+- phởn phơ
+
+@euphorically
+- xem euphoria
+ @euphory   (euphory) @euphotic
+* tt
+- thuộc lớp mặt nước có đầy đủ ánh sáng để cây sinh trưởng
+ @euphotometric
+* tt
+- thuộc lượng ánh sáng khuếch tán toàn phần
+ @euphrasy
+* dt
+- (thực vật) cỏ tiểu mễ (để chữa mắt)
+ @euphuism  
+*  dt
+- lối viết văn cầu kỳ, lối viết văn kiểu cách
+- văn cầu kỳ, văn kiểu cách
+
+@euphuist  
+*  dt
+- người viết văn cầu kỳ, người viết văn kiểu cách
+
+@euphuistic  
+*  tt
+- cầu kỳ, kiểu cách
+
+@euphuistical
+- xem euphuism
+ @euphuistically
+- xem euphuism
+ @euplankton
+* dt
+- sinh vật nổi ở biển
+ @euploid
+* dt
+- thể bội chỉnh
+* tt
+- thuộc số bội chỉnh
+ @euploidy
+* dt
+- tính thể bội chỉnh
+ @eupnoea
+* dt
+- cũng eupnea
+- hô hấp bình thường
+ @eupnoeic
+* tt
+- có hô hấp bình thường
+ @eurasian  
+*  tt
+- (thuộc) Âu A
+- lai Âu A
+*  dt
+- người lai Âu A
+
+@eureka  
+*  thán từ
+- thấy rồi!, tìm ra rồi!
+
+@eurematics
+* dt
+- phát minh học
+ @eurhythmic  
+*  tt
+- cân đối; nhịp nhàng; đều đặn
+
+@eurhythmics  
+*  dt,  số nhiều dùng như số ít
+- thể dục nhịp nhàng
+
+@eurhythmy
+* dt
+- sự nhịp nhàng, cân đối, hài hoà
+- (y học) sự đều mạch
+ @eurite
+* dt
+- (khoáng chất) eurit
+ @euritic
+* tt
+- thuộc fenzit; microgranit
+ @euro
+* dt
+- số nhiều euros
+- loài canguru lớn da đỏ xám (ở úc)
+ @eurocheque
+* dt
+- séc phát hành toàn Âu châu
+ @eurocommunism
+* dt
+- chủ nghĩa cộng sản Tây Âu (độc lập với đường lối cộng sản Liên-xô)
+ @eurocommunist
+* dt
+- người theo chủ nghĩa cộng sản Tây Âu
+* tt
+- (thuộc) chủ nghĩa cộng sản Tây Âu
+ @eurocrat
+* dt
+- viên chức của cơ quan điều hành Cộng đồng Âu châu
+ @Eurocurrency market
+- (Econ) Thị trường tiền tệ Châu ÂU.
+: Một thị trường quốc tế ở nước ngoài của các đồng tiền của các nước công nghiệp lớn (phương Tây).
+ @eurodollar
+* dt
+- đô la Âu châu
+ @Eurodollars
+- (Econ) Đola Châu Âu.
+: Xem EUROCURRENCY MARKET.
+ @europe
+* dt
+- (địa lý) châu Âu
+ @european  
+*  tt
+- (thuộc) Châu âu; ở Châu âu, tại Châu âu; lan khắp Châu âu
+
++ a european reputation: tiếng tăm lan khắp Châu âu
+*  dt
+- người Châu âu
+
+@European Agricultural Guidance and Guaranted Fund
+- (Econ) Quỹ Bảo đảm và Hướng dãn Nông nghiệp Châu Âu.
+: Một quỹ đặc biệt của CỘNG ĐỒNG CHÂU ÂU được thành lập năm 1962 nhằm tài trợ vốn cho chính sách nông nghiệp chung của cộng đồng.
+ @European Bank for Reconstruction and Development
+- (Econ) Ngân hàng tái thiết và Phát triển Châu ÂU.
+: Được thành lập năm 1991 với số vốn 10 tỷ đơn vị tiền tệ Châu Âu nhằm thúc đẩy sự phát triển ở các nước thuộc khối Đông Âu.
+ @European Coal and Steel Community
+- (Econ) Cộng đồng Than và thép Châu Âu.
+: Tổ chức thực hiện và quản lý THỊ TRƯỜNG CHUNG về than & thép giữa 6 nước thành viên sáng lập của CỘNG ĐỒNG CHÂU ÂU.
+ @European Commom Market
+- (Econ) Thị trường chung Châu Âu.
+: Xem European Economic Community.
+ @European Community
+- (Econ) Cộng đồng Châu Âu.
+: Một tên gọi chung của 3 tổ chức: Cộng đồng Than và thép Châu Âu, Cộng đồng kinh tế châu Âu và cộng đồng năng lượng nguyên tử Châu Âu.
+ @European Community Budget
+- (Econ) Ngân sách Cộng đồng Châu Âu.
+: Một ngân sách do các nước thành viên của cộng đồng Châu Âu đóng góp nhằm tài trợ cho các hoạt động của cộng đồng. Các khoản đóng góp từ các thành viên ở dạng 90% là doanh thu từ thuế NÔNG NGHIỆP và BIỂU THUẾ QUAN CHUNG và dưới 1% doanh thu từ thuế GIÁ TRỊ GIA TĂNG được tính cho mực đích làm hài hoà thuế giữa các nước thành viên.
+ @European Currency Unit
+- (Econ) Đơn vị tiền tệ Châu Âu.
+: Xem EUROPEAN MONETARY SYSTEM.
+ @European Devolopment Fund
+- (Econ) Quỹ phát triển Châu Âu.
+: Một quỹ đặc biệt do CỘNG ĐỒNG KINH TẾ CHÂU ÂU thành lập để cung cấp viện trợ tài chính và kỹ thuật cho các nước liên kết với Cộng đồng Châu Âu theo Hiệp Ứơc ROME, các hiệp định YAOUNDÉ và LOMÉ. Xem EUROPEAN INVESTMENT BANK.
+ @European Economic Community
+- (Econ) Cộng đồng Kinh tế Châu Âu.
+: Cộng đồng Kinh tế Châu Âu được cínhthwcs thành lập ngày 25-3-1957 theo hiệp ước Rome do chính phủ các nước Bỉ, Hà Lan, Cộng hoà liên bang Đức, Italia, Lucxămbua. Hiệp ước này đưa lại sự phát triển tự do liên minh thuế quan, loại bỏ mọi rào cản đối với sự vận động tự do của VỐN, LAO ĐỘNG và DỊCH VỤ và hình thành các chính sách vận tải và nông nghiệp giữa các nước thành viên.
+ @European Free Trade Association
+- (Econ) Hiệp hội Mậu dịch tự do Châu Âu.
+: Được thành lập năm 1960 sau Hiệp định Stockholm, được Áo, Đan mạch, Nauy. Bồ Đào Nha, Thuỵ Điển, Thuỵ Sĩ, Anh thông qua. Hiệp hội đạt được các mục tiêu ban đầu của mình là thiết lập buôn bán hàng hoá công nghiệp tự do giữa các mục tiêu ban đầu của mình là thiết lập buôn bán hàng hoá công nghiệp tự do giữa các thành viên và đàm phán một hiệp ước thương mại toàn diện với cộng đồng châu Âu (EC).
+ @European Fund
+- (Econ) Quỹ Châu Âu.
+: HIỆP ƯỚC TIỀN TỆ CHÂU ÂU được hội đồng OEEC thông qua vào năm 1955, cho phép quỹ Châu Âu giúp tài trợ thâm hụt CÁN CÂN THANH TOÁN tạm thời phát sinh từ quyết định của các nước thành viên làm cho đồng tiền của mình có khả năng chuyển đổi với đồng Đôla.
+ @European Investment Bank
+- (Econ) Ngân hàng Đầu tư Châu Âu.
+: Một ngân hàng phát triển được thành lập năm 1957 theo HIỆP ƯỚC ROME, cho ra đời CỘNG ĐÔNG KINH TẾ CHÂU ÂU. Chức năng cơ bản của ngân hàng này là thúc đẩy sự phát triển của hị trường chung Châu Âu bằng cách cấp cấp các khoản vay dài hạn, bảo lãnh các khoản vay tạo điều kiện tài trợ đầu tư cho các vùng kém phát triển, các kế hoạch hiện đại hoá công nghiệp và các dự án công nghiệp.
+ @European Monetary Agreement
+- (Econ) Hiệp định tiền tệ Châu Âu.
+: Hiệp định được Hội đồng TỔ CHỨC HỢP TÁC KINH TẾ CHÂU ÂU thông qua năm 1955. Hiệp định là quyết định của các nước Châu Âu nhằm làm cho đồng tiền của các nước dần dần chuyển đổi được đối với đồng đôla, bằng cách đó thay thế LIÊN MINH THANH TOÁN CHÂU ÂU bằng một hệ thống thanh toán quốc tế mới, trong đó mọi giao dịch phải được tiến hành bằng vàng hoặc các đồng tiền có thể chuyển đổi.
+ @European Monetary Co-operation Fund
+- (Econ) Quỹ hợp tác Tiền tệ Châu ÂU.
+: Một quỹ đặc biệt của EC hình thành năm 1973 nhằm áp dụng HIỆP ĐỊNH BASLE 1972, hiệp định này quy định các mức dao động trong trao đổi của các đồng tiền được quản lý, đựoc biết đến như con rắn tiền tệ châu Âu.
+ @European Monetary Fund
+- (Econ) Quỹ Tiền tệ Châu ÂU.
+: Xem EUROPEAN MONETARY FUND.
+ @European Monetary System (EMS)
+- (Econ) Hệ thống tiền tệ châu Âu.
+: Được áp dụng vào tháng 3-1979, hệ thống này (EMS) là một nỗ lực nhằm tạo nên một khu vực ổn định về tỷ giá hối đoái giữa các nước thành viên, vì hầu hết các thành viên đều tiến hành việc hạn chế biến động tỷ giá hối đoái của mình ở mức (:) hoặc (-) 2,25% giá trung tâm, đã thống nhất cho đồng tiền của họ.
+ @European Monetary Unit of Account
+- (Econ) Đơn vị Kế toán Tiền tệ Châu Âu.
+: Xem EUROPEAN UNIT OF ACCOUNT.
+ @European Payments Union
+- (Econ) Liên minh Thanh toán Châu Âu.
+: Năm 1950, TỔ CHỨC HỢP TÁC KINH TẾ CHÂU ÂU thành lập Liên minh Thanh toán Châu Âu, thay thế cho hệ thống các tổ chức thanh toán Châu Âu do các hiệp định thanh toán trong Châu Âu năm 1948 và năm 1949 đưa vào áp dụng. Mục đích của liên minh này tạo điều kiện choa thanh toán thặng dư hay thâm hụt đa phương giữa các nước Châu Âu (và các khu vực tiền tệ ở nước ngoài tương ứng của chúng) và khuyến khích các chính sách tự do hoá mậu dịch bằng cách đưa ra các phương tịên tín dụng tự động cho các thành viên gặp phải thâm hụt cán cân thanh toán.
+ @European Recovery Programme.
+- (Econ) Chương trình Phục hưng Châu Âu.
+: Năm 1947, Bộ trưởng ngoại giao MỸ, tướng George Marshall đã phát biểu trong một bài diễn văn tại trường Đại học Harvard, đề nghị giúp đỡ của Mỹ đối với chương trình phục hồi nền kinh tế Châu Âu do các nước Châu Âu điều phối. Sau bài diễn văn này, các đại diện của 16 nước Tây Âu đã thành lập Uỷ ban về Hợp tác Kinh tế Châu Âu, TỔ CHỨC HỢP TÁC KINH TẾ CHÂU ÂU được thành lập năm 1948 để điều hành một chương trình phục hưng châu Âu cùng với UỶ BAN HỢP TÁC KINH TẾ CỦA MỸ. Chương trình này thường được gọi là VIỆN TRỢ MARSHALL.
+ @European Regional Development Fund.
+- (Econ) Quỹ Phát triển Khu vực Châu Âu.
+: Một quỹ đặc biệt của CỘNG ĐỒNG CHÂU ÂU, thành lập năm 1975, nhằm làm giảm sự chênh lệch về phát triển kinh tế giữa các khu vực trong cộng đồng.
+ @European Social Fund.
+- (Econ) Quỹ Xã hội Châu ÂU.
+: Một quỹ đặc biệt của CỘNG ĐỒNG CHÂU ÂU, nhằm mục đích tăng cường cơ hội tìm kiếm việc làm trong cộng đồng bằng cách đảm bảo hỗ trợ tài chính để đào tạo lại công nhân, đặc biệt là những ai bị thu hẹp công việc do hoạt động của Thị trường chung Châu Âu.
+ @European Unit of Account
+- (Econ) Đơn vị Kế toán Châu Âu.
+: Là đơn vị kế toán được sử dụng trong CỘNG ĐỒNG CHÂU ÂU cho các mục đích như chuẩn bị ngân sách công đồng và định giá sản phẩm nông nghiệp thông qua CHÍNH SÁCH NÔNG NGHIỆP CHUNG. Vì các nước thành viện của ÉCử dụng các đồng tiền khác nhau, nên cần thiết phải tạo ra một đơn vị kế toán chung để trao đổi buôn bán công đồng.
+ @europeanise   (Europeanise) @europeanism  
+*  dt
+- chủ nghĩa Châu âu
+
+@europeanization  
+*  dt
+- sự âu hoá
+
+@europeanize   (Europeanise) @europium  
+*  dt
+- (hoá học) Europi
+
+@Eurostat
+- (Econ) Cục Thống kê của CÔNG ĐỒNG CHÂU ÂU.
+ @eurovision  
+*  dt
+- truyền hình cho toàn Châu âu
+
+@eurus
+* dt
+- thần gió đông, gió đông nam (thần thoại Hy-lạp)
+- gió đông; gió đông nam
+ @eurythmic
+* tt
+- xem eurhythmic
+ @eurythmics
+* dt
+- xem eurhythmy
+ @eurythmy
+* dt
+- xem eurhythmy
+ @eusol  
+*  dt
+- (viết tắt) của Edinburgh Univerity solution
+- (hoá học) nước khử trùng vôi clorua
+
+@eustachian tube  
+*  dt
+- (giải phẫu) vòi Ot-tát
+
+@eustatic
+* tt
+- (địa chất) chấn tĩnh
+ @eusternum
+* dt
+- mảnh ức côn trùng
+ @eustomatous
+* tt
+- (động vật) có miệng chính thức
+ @eusystole
+* dt
+- tâm thu bình thường
+ @eutectic  
+*  tt
+- (hoá học) Eutecti
+
++ eutectic temperature (point): điểm Eutecti
+*  dt
+- (hoá học) Eutecti
+
+@eutectoid
+* tt
+- ơtectoi; cùng tích
+ @euterpean
+* tt
+- thuộc nữ thần âm nhạc
+- thuộc âm nhạc
+ @euthanasia  
+*  dt
+- sự chết không đau đớn
+- sự làm chết không đau đớn
+
+@euthenics
+* dt
+- khoa cải tiến điều kiện sinh sống
+ @euthenist
+* dt
+- người theo khoa cải tiến điều kiện sinh sống
+ @eutheria  
+*  dt số nhiều
+- (động vật học) lớp phụ thú có nhau
+
+@eutherian
+* dt
+- động vật có vú chính thức; động vật có nhau
+* tt
+- thuộc động vật có vú chính thức, động vật có nhau
+ @euthyroid
+* tt
+- có tuyến giáp bình thường
+ @eutrophic
+* tt
+- dinh dưỡng tốt
+ @eutrophication
+* dt
+- sự dinh dưỡng tốt
+ @eutrophy
+* dt
+- sự dinh dưỡng tốt
+ @eutropic
+* tt
+- hướng mặt trời; quang hải
+ @

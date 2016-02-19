@@ -1,0 +1,56 @@
+@xebec  
+*  dt
+- (hàng hải) thuyền xêbec, thuyền ba cột buồm (ở Địa trung hải)
+
+@xenix
+- Một hệ điều hành do Microsoft Corporation biên soạn, phù hợp với System V Interface Definition (SVID) của UNIX và chạy trên các máy tính tương thích IBM PC
+ @xenogamy  
+*  dt
+- (thực vật học) sự giao phấn
+
+@xenomorphic  
+*  tt
+- (địa lý,địa chất) có dạng khác thường, dị hình
+
+@xenon  
+*  dt
+- (hoá học) xenon
+
+@xenophilia
+* dt
+- sự chuộng người nước ngoài, sự sùng ngoại
+ @xenophilous
+- tính tư
+- chuộng người nước ngoài, sùng ngoại
+ @xenophobe  
+*  tt
+- bài ngoại
+
+@xenophobia  
+*  dt
+- tinh bài ngoại
+
+@xenophobic
+* tt
+- ghét người nước ngoài, bài ngoại
+ @xerophagy
+* tt
+- ăn khô; ăn khan
+ @xerophilous  
+*  tt
+- ưa khô (cây)
+
+@xerophthalmia  
+*  dt
+- (y học) bệnh khô mắt
+
+@xerophyte  
+*  dt
+- (thực vật học) cây ưa khô, cây chịu hạn
+
+@xerox
+* dt
+- kỹ thuật sao chụp không dùng mực ướt
+* ngdgt
+- sao chụp
+ @

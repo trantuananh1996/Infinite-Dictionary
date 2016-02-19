@@ -1,0 +1,682 @@
+@ec
+* (viết tắt)
+- khu trung tâm phía đông (east central)
+ @EC Agricultural Livies
+- (Econ) Thuế nông nghiệp của EC
+: Thuế do các thành viên của CỘNG ĐỒNG CHÂU ÂU (EC) đánh vào hàng nông phẩm nhập khẩu từ các nước không phải là thành viên.
+ @ecaudate  
+*  tt
+- không có đuôi
+
+@ecballium
+* dt
+- diễn thế sau đốn rừng
+ @ecce homo  
+*  dt
+- tranh Chúa Giê-xu đội vòng gai
+
+@eccentric  
+*  dt
+- người lập dị, người kỳ cục
+- (kỹ thuật) bánh lệch tâm, đĩa lệch tâm
+
+@eccentric
+- (Tech) lệch tâm, tâm sai
+ @eccentric
+- tâm sai
+ @eccentrically
+* dt
+- lập dị, kỳ cục, quái gở
+ @eccentricity  
+*  dt
+- tính lập dị, tính kỳ cục
+- (kỹ thuật) độ lệch tâm
+
+@eccentricity
+- (Tech) độ tâm sai, độ lệch tâm
+ @eccentricity
+- tính tâm sai
+ @ecchondroma
+* dt
+- (y học) bệnh mềm xương
+ @ecchymosis  
+*  dt
+- (y học) vết bầm máu
+
+@ecchymotic
+- xem ecchymosis
+ @ecclesia  
+*  dt
+- đại hội quốc dân (cổ Hy-lạp)
+
+@ecclesiast  
+*  dt
+- đại biểu đại hội quốc dân (cổ Hy-lạp)
+- tác giả cuốn " Sách Thánh" 
+
+@ecclesiastic   (ecclesiastical) @ecclesiastical   (ecclesiastical) @ecclesiastically
+- xem ecclesiastical
+ @ecclesiasticism
+* dt
+- chủ nghĩa giáo hội
+ @ecclesiasticus
+* dt
+- thánh thư giả
+ @ecclesiography
+* dt
+- (tôn giáo) lịch sử giáo hội
+ @ecclesiological
+- xem ecclesiology
+ @ecclesiology  
+*  dt
+- khoa nhà thờ, khoa xây dựng và trang trí nhà thờ
+
+@Eccles-Jordan circuit
+- (Tech) mạch xúc phát Eccles-Jordan
+ @eccoprotic
+* tt
+- (y học) lợi đại tiện
+* dt
+- thuốc lợi đại tiện
+ @eccrine
+* dt
+- nội tiết
+ @eccrinology
+* dt
+- (sinh học) nội tiết học
+ @ecderon
+* dt
+- (y học) biểu bì
+ @ecdysiast  
+*  dt
+- (như) strip-teasser
+
+@ecdysis  
+*  dt (động vật học)
+- sự lột (da rắn)
+- da lột (rắn...)
+
+@ecdysone
+- Cách viết khác : ecdyson 
+ @ecg
+* (viết tắt)
+- điện tâm đồ (electrocardiogram)
+ @ECGD
+- (Econ) Xem EXPORT CREDITS GUARANTEE DEPARTMENT
+ @echelon  
+*  dt
+- sự dàn quân theo hình bậc thang
+- cấp bậc (dân sự)
+*  ngdgt
+- dàn quân theo hình bậc thang
+
+@echelon circuit
+- (Tech) mạch bậc thang
+ @echelon lens
+- (Tech) thấu kính bậc
+ @echelon prism
+- (Tech) lăng kính bậc
+ @echelon strapping
+- (Tech) liên kết từng bậc
+ @echidna  
+*  dt
+- (động vật học) thú lông nhím (đơn huyệt)
+
+@echini  
+*  dt,  số nhiều echini
+- (động vật học) con cầu gai
+- (kiến trúc) đường sống trâu
+
+@echinocactus
+* dt
+- (thực vật) cây xương rồng
+ @echinocarp
+* dt
+- (thực vật) quả có gai
+ @echinochrome
+* dt
+- sắc tố hô hấp đỏ
+ @echinoderm  
+*  dt
+- (động vật học) động vật da gai
+
+@echinodermal
+- xem echinoderm
+ @echinodermatous
+- xem echinoderm
+ @echinoid
+* tt
+- giống nhím biển
+* dt
+- (động vật) động vật giống nhím biển
+ @echinulate
+* tt
+- có gai nhỏ; có móc nhỏ
+ @echinus  
+*  dt,  số nhiều echini
+- (động vật học) con cầu gai
+- (kiến trúc) đường sống trâu
+
+@echo  
+*  dt,  số nhiều echoes
+- tiếng dội, tiếng vang
+
++ to cheer someone to the echo: vỗ tay vang dậy hoan hô ai
+- sự bắt chước mù quáng
+- người bắt chước mù quáng; người ủng hộ mù quáng
+- thể thơ liên hoàn
+- (đánh bài) ám hiệu (cho biết số lá bài mình có trong hoa đang đánh) cho đồng bọn
+- (the Echo) tiếng vang (nhân cách hoá)
+*  ngdgt
+- dội lại, vang lại (tiếng động)
+- lặp lại (lời ai), lặp lại lời (ai), lặp lại ý kiến (ai)
+- ndgt
+- có tiếng dội (nơi, chốn); dội lại, vang lại (tiếng động)
+- (đánh bài) làm ám hiệu cho đồng bạn (biết số lá bài mình có trong hoa đang đánh)
+
+@echo
+- (Tech) tiếng dội @echo
+- tiếng vang
+- flutter e. tiếng vang phách 
+- harmonic e. tiếng vang điều hoà 
+ @echo attenuation
+- (Tech) suy giảm tiếng dội
+ @echo cancellation
+- (Tech) triệt tiếng dội
+ @echo canceller
+- (Tech) bộ triệt tiếng dội
+ @echo canceller burst mode (ECBM)
+- (Tech) bộ triệt tiếng nổ dội
+ @echo canceller far-end
+- (Tech) bộ triệt tiếng dội xa
+ @echo canceller near-end
+- (Tech) bộ triệt tiếng dội gần
+ @echo chamber
+- (Tech) phòng ngăn tiếng dội
+ @echo delay line
+- (Tech) dây trì hoãn tiếng dội
+ @echo distortion
+- (Tech) biến dạng tiếng dội
+ @echo Doppler indicator
+- (Tech) bộ chỉ báo xung dội Doppler
+ @echo effect
+- (Tech) hiệu ứng dội
+ @echo image
+- (Tech) hình dội
+ @echo impulse
+- (Tech) xung dội
+ @echo listener
+- (Tech) bộ nghe tiếng dội
+ @echo signal
+- (Tech) tín hiệu dội
+ @echo sounder
+- (Tech) máy dò bằng tiếng dội
+ @echo suppressor
+- (Tech) bộ triệt tiếng dội
+ @echo wave
+- (Tech) sóng dội
+ @echoer
+- xem echo
+ @echoey
+- xem echo
+ @echography
+* dt
+- như ultrasonography
+* dt
+- như ultrasonography
+ @echoic  
+*  tt
+- (ngôn ngữ học) tượng thanh
+
+@echo-image  
+*  dt
+- ảnh nổi
+
+@echoism  
+*  dt
+- (ngôn ngữ học) tượng thanh
+
+@echolalia
+* dt
+- (y học) chứng lặp lại máy móc lời nói người khác
+ @echoless
+* tt
+- không có tiếng dội lại; không có phản ứng
+ @echolocation
+* dt
+- sự định vị bằng tiếng vang
+ @echometer
+* dt
+- máy đo âm hưởng
+ @echoplex
+- Một tiêu chuẩn truyền thống đối với máy tính, trong đó trạm thu báo nhận và xác thực việc thu nhận thông báo bằng cách phản hồi thông báo đó ngược lại cho trạm phát
+ @echo-sounder
+* dt
+- dụng cụ đo độ sâu bằng cách tính thời gian sóng âm thanh dội lại từ khi phát âm thanh
+ @ECL (emitter-coupled logic)
+- (Tech) mạch luận lý ghép cực phát
+ @eclampsia  
+*  dt
+- (y học) chứng kinh giật
+
+@eclamptic
+- xem eclampsia
+ @eclectic  
+*  tt
+- (triết học) chiết trung
+*  dt
+- (triết học) người chiết trung
+
+@Eclectic Keynesian
+- (Econ) Người theo thuyết Keynes chiết trung.
+ @eclectically
+* dt
+- theo quan niệm chiết trung
+ @eclecticism  
+*  dt (triết học)
+- phép chiết trung
+- thuyết chiết trung
+
+@eclipse  
+*  dt
+- sự che khuất; thiên thực (nhật thực, nguyệt thực)
+- pha tối, đợt tối (đèn biển)
+- sự bị lu mờ, sự mất vẻ lộng lẫy; sự mất vẻ hào nhoáng
+!to be in eclipse
+- mất bộ lông sặc sỡ (chim)
+*  ngdgt
+- che, che khuất (mặt trời, mặt trăng...)
+- chặn (ánh sáng của đèn biển...)
+- làm lu mờ, át hẳn
+
+@eclipse
+- (thiên văn) sự che khuất; thiên thực
+- annular e. (thiên văn) sự che khuất hình vành 
+- lunar e. (thiên văn) nguyệt thực
+- partial e (thiên văn) sự che khuất một phần
+- solar e. (thiên văn) nhật thực
+- total e. (thiên văn) sự che khuất toàn phần
+ @ecliptic  
+*  tt (thiên văn học)
+- (thuộc) nhật thực, (thuộc) nguyệt thực
+*  dt (thiên văn học)
+- đường hoàng đạo
+
+@ecliptic
+- (thiên văn) (đường) hoàng đạo; mặt phẳng hoàng đạo || (thuộc) hoàng đạo
+ @eclogue  
+*  dt
+- (văn học) Eclôgơ (một loại thơ đồng quê ngắn)
+
+@eclosion
+* dt
+- sự nở (từ trứng)
+ @eco-
+- (tiếp đầu ngữ) sinh thái
+ @ecobiotic
+* tt
+- (thuộc) sinh thái-sinh học
+ @ecocide
+* dt
+- thuốc hủy diệt sinh thái
+ @ecoclimate
+* dt
+- sinh thái - khí hậu
+ @ecoclimatic
+* tt
+- thuộc sinh thái - khí hậu
+ @ecogenesis
+* dt
+- sự phát sinh sinh thái
+ @ecoline
+* dt
+- cấp sinh thái
+ @ecologic   (ecological) @ecological   (ecological) @ecologically
+* dt
+- về phương diện sinh thái
+ @ecologist  
+*  dt
+- nhà sinh thái học
+
+@ecology   (oecology) @econometric
+* tt
+- thuộc toán kinh tế
+ @Econometric model
+- (Econ) Mô hình kinh tế lượng.
+: Một MÔ HÌNH toán học của một nền kinh tế hay một bộ phận của một nền kinh tế mà các tham số của nó được ước tính bằng phương pháp kinh tế lượng.
+ @econometrician
+* dt
+- nhà toán kinh tế
+ @Econometrics
+- (Econ) Môn kinh tế lượng.
+: Một nghành của thống kê học liên quan tới kiểm nghiệm các giả thuyết kinh tế và ước tính các tham số kinh tế chủ yế thông qua phương pháp HỒI QUY BỘI SỐ, mặc dù đôi khi thông qua việc sử dụng phương pháp luận phức tạp hơn.
+ @econometrics
+* dt
+- toán kinh tế
+ @econometrics
+- (thống kê) kinh tế lượng học
+ @econometrist
+* dt
+- nhà toán kinh tế
+ @economic  
+*  tt
+- kinh tế
+- mang lợi, có lợi (việc kinh doanh...)
+
+@economic
+- (thuộc) kinh tế
+ @Economic base
+- (Econ) Cơ sở kinh tế.
+: Những hoạt đông kinh tế mà sự tăng trưởng và phát triển của chúng được coi là có vai trò quyết địng đối với  tăng trưởng kinh tế của một vùng hay của một thị trấn.
+ @Economic base multiplier
+- (Econ) Nhân tử cơ sở kinh tế.
+: Một dạng của NHÂN TỬ KHU VỰC ước tính ảnh hưởng của những thay đổi trong một CƠ SỞ KINH TẾ vùng đối với toàn bộ nền kinh tế của vùng.
+ @Economic community
+- (Econ) Cộng đồng kinh tế.
+: Một liên minh kinh tế giữa các nước có biểu thuế quan và chính sách thương mại chung đã dỡ bỏ các hạn chế đối với thương mại giữa các nước thành viên.
+ @Economic Co-operation Administration
+- (Econ) Cơ quan Hợp tác kinh tế.
+: Một cơ quan viện trợ kinh tế, thành lập năm 1948 do Đạo luật Trợ giúp nước ngoài của Mỹ, quản lý KẾ HOẠCH MARSHALL đối với việc phục hồi kinh tế Châu Âu sau chiến tranh thế giới thứ hai.
+ @Economic cost
+- (Econ) Chi phí kinh tế.
+ @Economic development
+- (Econ) Phát triển kinh tế.
+: Quá trình cải thiện mức sônngs và sự sung túc của dân chúng của các nước đang phát triển bằng cách tăng thu nhập trên đầu người.
+ @Economic development Committee
+- (Econ) Uỷ ban Phát triển kinh tế.
+: Xem NATIONAL ECONOMIC DEVELOPMENT COUNCIL.
+ @Economic development Institute
+- (Econ) Viện Phát triển kinh tế.
+: Xem INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+ @Economic dynamics
+- (Econ) Động học kinh tế.
+: Xem DYNAMIC ECONOMICS
+ @Economic efficiency
+- (Econ) Hiệu quả kinh tế.
+: Xem ALLCATIVE EFFICIENCY
+ @Economic good
+- (Econ) Hàng hoá kinh tế.
+: Một mặt hàng khan hiếm và mặt hàng mà người ta sẽ lựa chọn nhiều hơn nếu có thể. Xem FREE GOOD.
+ @Economic growth
+- (Econ) Tăng trưởng kinh tế.
+: Thường để chỉ mức tăng sản lượng thực tế của SẢN PHẨM QUỐC DÂN RÒNG, mặc dù thước đo này sẽ nhạy cảm với cách tính sản phẩm quốc dân. Xem GROWTH THEORY
+ @Economic imperialism
+- (Econ) Đế quốc kinh tế.
+: Xem IMPERIALISM
+ @Economic liberialism
+- (Econ) Chủ nghĩa tự do kinh tế.
+: Học thuyết ủng hộ khả năng sử dụng nhiều nhất các thị trường và các tác nhân cạnh tranh để điều phối hoạt động kinh tế.
+ @Economic man
+- (Econ) Con người kinh tế.
+: Tên đặt cho vật đựoc được sáng tạo trong kinh tế học, bằng cách đó, các cá nhân được giả định là cư sử như thể họ tối đa hoá độ thoả dụng, chịu chi phối bởi những ràng buộc, trong đó hiển nhiên nhất là thu nhập.
+ @Economic planning
+- (Econ) Hoạch định kinh tế.
+: Sự phối hợp một các có tổ chức các hoạt động kinh tế.
+ @Economic policy
+- (Econ) Chính sách kinh tế.
+: Sự điều hành của nhà nước đối với nền kinh tế của một quốc gia.
+ @Economic price
+- (Econ) Giá kinh tế.
+ @Economic profit
+- (Econ) Lợi nhuận kinh tế.
+ @Economic rate of return
+- (Econ) Tỷ suất lợi nhuận kinh tế.
+ @Economic rent
+- (Econ) Tiền thuê kinh tế, tô kinh tế, Đặc lợi kinh tế.
+: Khoản tri trả cho một yếu tố sản xuất vượt mức cần thiết để giữ yếu tố đó ở mức sử dụng hiện tại.
+ @Economic surplus
+- (Econ) Thặng dư kinh tế.
+: Chênh lệc giữa sản lượng của một nền kinh tế và chi phí cần thiết để sản xuất ra sản lượng đó, mà chi phí cần thiết là TIỀN CÔNG, KHẤU HAO VỐN, chi phí nguyên vật liệu.
+ @Economic theory of polities
+- (Econ) Lý thuyết chính trị dựa trên kinh tế.
+: Một mô hình về hành vi chính trị giả định rằng là cử tri là những người tối đa hoá ĐỘ THOẢ DỤNG và các đảng phái chính trị là những TỔ CHỨC TỐI ĐA HOÁ PHIẾU BẦU.
+ @Economic union
+- (Econ) Cộng đồng kinh tế.
+: Xem ECONOMIC COMMUNITY
+ @Economic welfare
+- (Econ) Phúc lợi kinh tế.
+: Phần phúc lợi của con người xuất phts từ việc tiêu dùng hàng hoá và dịch vụ.
+ @economical  
+*  tt
+- tiết kiệm
+- kinh tế
+
+@economical
+- tiét kiện
+ @economically
+* dt
+- về phương diện kinh tế, về mặt kinh tế
+ @economically
+- về mặt kinh tế, một cách kinh tế
+ @economics  
+*  dt,  số nhiều dùng như số ít
+- khoa kinh tế chính trị
+- nền kinh tế (cho một nước)
+
+@Economics
+- (Econ) Kinh tế học.
+: Một ngành nghiên cứu về cách thức con người tự tổ chức để giải quyết vấn đề cơ bản về sự khan hiếm.
+ @economics
+- kinh tế học, kinh tế quốc dân
+ @Economies of learning
+- (Econ) Tính kinh tế nhờ học hành; Lợi ích kinh tế do học tập
+: Xem LEARNING
+ @Economies of scale
+- (Econ) Tính kinh tế nhờ qui mô; Lợi thế kinh tế nhờ quy mô.
+: Giảm chi phí trung bình của một sản phẩm xét trong dài hạn nhờ tăng sản lượng.
+ @economisation
+* dt
+- sự sử dụng tiết kiệm, sự sử dụng tối đa
+- sự tiết kiệm, sự giảm chi
+ @economise   (economise) @economist  
+*  dt
+- nhà kinh tế học
+- người tiết kiệm
+- người quản lý (tiền bạc...)
+!rural economist
+- nhà nông học
+
+@economization  
+*  dt
+- sự sử dụng tiết kiệm, sự sử dụng tối đa
+- sự tiết kiệm, sự giảm chi
+
+@economize   (economise) @economizer  
+*  dt
+- người tiết kiệm
+- (kỹ thuật) bộ phận tiết kiệm (xăng...)
+
+@economy  
+*  dt
+- sự quản lý kinh tế; nền kinh tế; tổ chức kinh tế
+- sự tiết kiệm (thì giờ, tiền của...); phương pháp tiết kiệm
+- cơ cấu tổ chức
+
+@economy
+- nền kinh tế
+- expanding e. nền kinh tế phát triển 
+- national e. nền kinh tế quốc dân
+- political e. kinh tế chính trị học 
+ @Economy of high wages
+- (Econ) Nền kinh tế có tiền công cao.
+: Một nhận định rằng, tiền công cao sẽ dẫn đến năng suất cao; tiền công và sản phẩm lao động biên được coi là có liên hệ thuận với nhau.
+ @ecophysiology
+* dt
+- khoa sinh lý môi sinh
+ @ecospecies
+* dt số nhiều
+- loài sinh thái
+ @ecospecific
+* tt
+- thuộc loài sinh thái
+ @ecosphere
+* dt
+- sinh quyển
+ @ecossaise
+* dt
+- điệu nhảy Ê-cốt
+ @ecosystem
+- hệ sinh thái
+ @ecotone
+* dt
+- (sinh học) loài chuyển tiếp sinh thái
+ @ecotype
+* dt
+- (sinh học) kiểu sinh thái
+- seasonal ecotype
+- kiều sinh thái mùa
+
++  climatic ecotype:kiểu sinh thái khí hậu
+ @ecru  
+*  tt
+- mộc (vải chưa chuội)
+*  dt
+- (nghành dệt) màu mộc (vải chưa chuội)
+
+@ECSC
+- (Econ) Xem EUROPEAN COAL AND STEEL COMMUNITY
+ @ecstaseid  
+*  tt
+- ở trong tình trạng mê ly
+- ở trong tình trạng xuất thần
+
+@ecstasise   (ecstasize) @ecstasize   (ecstasize) @ecstasy   (extasy) @ecstatic  
+*  tt
+- ở trạng thái mê ly; làm mê ly; dễ bị làm mê ly
+- ngây ngất
+- xuất thần, nhập định; dễ xuất thần
+*  dt
+- người dễ bị làm mê ly
+- người xuất thần, người nhập định
+
+@ecstatically
+* dt
+- đê mê, ngây ngất, mê ly
+ @ect   (etcetera) @ectad
+* dt
+- hướng ra ngoài
+ @ectadenia
+* dt số nhiều
+- (sinh học) tuyến sinh dục phụ ngoại bì
+ @ectal
+* tt
+- ngoài
+ @ectedon
+* dt
+- biểu bì
+ @ectendal
+* tt
+- thuộc nội-ngoại bì
+ @ecto-
+- (tiếp vự ngữ) sự cắt bỏ bằng phẫu thuật
+ @ectoblast  
+*  dt
+- (sinh vật học) lá ngoài
+
+@ectoblastic  
+*  tt
+- (sinh vật học) (thuộc) lá ngoài
+
+@ectobronchium
+* dt
+- (sinh học) nhánh phế quản bên
+ @ectochrome
+* dt
+- (sinh học) sắc tố trên mặt tế bào; sắc tố ngoại bào
+ @ectocondyle
+* dt
+- (sinh học) lồi cầu bên; lồi cầu ngoài
+ @ectocranial
+* tt
+- (giải phẩu học) ngoài sọ
+ @ectoderm  
+*  dt
+- (sinh vật học) ngoại bì
+
+@ectodermal
+- xem ectoderm
+ @ectodermic
+- xem ectoderm
+ @ectoenzyme
+* dt
+- enzim ngoại bào
+ @ectogenesis
+* dt
+- (sinh học) sự phát triển nhân tạo
+ @ectogenetic
+* tt
+- thuộc sự phát triển nhân tạo
+ @ectogenic
+* tt
+- ngoại sinh
+ @ectomere
+* dt
+- phôi bào ngoại bì
+ @ectomeric
+* tt
+- thuộc phôi bào ngoại bì
+ @ectomorph
+* dt
+- người ốm yếu gầy còm
+ @ectoneural
+* tt
+- thuộc thần kinh ngoài, thần kinh ngoại biên
+ @ectoorbital
+* tt
+- (giải phẫu) ngoài ổ mắt
+ @ectoparasite
+* dt
+- (sinh học) vật ký sinh ngoài
+ @ectoparasitic
+* tt
+- thuộc vật ký sinh ngoài
+ @ectopia
+* dt
+- sự lạc, lệch vị trí
+ @ectopic
+* tt
+- lạc vị trí, lệch vị trí
+ @ectoplasm  
+*  dt
+- (sinh vật học) ngoại chất
+
+@ectoplasmic
+- xem ectoplasm
+ @ectoskeleton
+* dt
+- (sinh học) bộ xương ngoài
+ @ectotherm
+* dt
+- động vật máu lạnh
+ @ectothermic
+* tt
+- thuộc động vật máu lạnh
+ @ectotrophic
+- Cách viết khác : ectotropic 
+ @ectype
+* dt
+- bản sao chính, bản nguyên mẫu
+ @ECU
+- (Econ) Xem EUROPEAN MONETARY SYSTEM
+ @ecu
+* (viết tắt)
+- đơn vị tiền tệ của Liên minh Âu châu (European Currency Unit)
+ @ecumenical   (ecumenical) @ecumenicalism
+* dt
+- niềm tin vào sự thống nhất đạo Cơ Đốc trên khắp hoàn cầu
+ @ecumenically
+* dt
+- phổ quát, khắp thế giới
+ @ecumenics
+* dt
+- việc nghiên cứu chiến lược toàn thế giới của thiên chúa giáo
+ @ecumenism
+* dt
+- niềm tin vào sự hợp nhất giáo hội thiên chúa giáo
+ @eczema  
+*  dt
+- (y học) Eczêma chàm
+
+@eczematous
+- xem eczema
+ @

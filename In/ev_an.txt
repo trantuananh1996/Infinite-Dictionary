@@ -1,0 +1,5202 @@
+@an  
+*  liên từ
+- (từ cổ,nghĩa cổ); (thông tục); (tiếng địa phương) nếu
+*  mạo từ
+- (xem) a
+
+@ana  
+*  dt
+- bản sưu tập những câu văn hay, bản sưu tập những lời nói hay
+- (số nhiều) những giai thoại về một nhân vật, những giai thoại về một địa điểm; những tài liệu in ra về một nhân vật, những tài liệu in ra về một địa điểm
+
+@anabaptism  
+*  dt
+- sự làm lễ rửa tội lại
+- thuyết rửa tội lại
+
+@anabaptist  
+*  dt
+- người làm lễ rửa tội lại
+- tín đồ (của) giáo phái rửa tội lại
+
+@anabaptistical  
+*  tt
+- (thuộc) giáo phái rửa tội lại
+
+@anabas  
+*  dt
+- (động vật học) cá rô
+
+@anabatic  
+*  tt
+- (khí tượng) do luồng khí bốc lên
+
+@anabiosis  
+*  dt
+- (sinh vật học) trạng thái tiềm sinh
+
+@anabiotic
+- xem anabiosis
+ @anabolic  
+*  tt
+- (sinh vật học) (thuộc) sự đồng hoá
+
+@anabolism  
+*  dt
+- (sinh vật học) sự đồng hoá
+
+@anabolite
+* dt
+- chất đồng hoá
+ @anabranch  
+*  dt
+- nhánh vòng (của sông)
+
+@anacanthous
+* tt
+- (sinh học) không gai
+ @anacard  
+*  dt
+- (thực vật học) quả đào lộn hột
+
+@anacardiaceous  
+*  tt
+- (thực vật học) (thuộc) họ đào lộn hột
+
+@anacardium  
+*  dt
+- (thực vật học) cây đào lộn hột
+
+@anachronic  
+*  tt
+- sai năm tháng, sai niên đại (việc ghi chép)
+- lỗi thời
+
+@anachronism  
+*  dt
+- sự sai năm tháng, sự sai niên đại
+- việc lỗi thời; người lỗi thời; vật lỗi thời
+
+@anachronistic  
+*  tt
+- sai năm tháng, sai niên đại
+- lỗi thời
+
+@anachronistically
+- xem anachronism
+ @anachronous
+- xem anachronism
+ @anachronously
+- xem anachronism
+ @anaclastic  
+*  tt
+- (thuộc) khúc xạ; có tính khúc xạ
+- có thể bật trở lại
+
+@anaclastics  
+*  dt,  số nhiều dùng như số ít
+- khúc xạ học
+
+@anacolutha  
+*  dt,  số nhiều anacolutha 
+@anacoluthic
+- xem anacoluthon
+ @anacoluthon  
+*  dt,  số nhiều anacolutha 
+@anaconda  
+*  dt
+- (động vật học) con trăn (Nam Mỹ), con boa
+- rắn cuộn mồi
+
+@anacreontic  
+*  tt
+- theo phong cách thơ trữ tình của A-na-cre-on (nhà thơ cổ Hy lạp)
+- tửu sắc, phong tình
+- dt bài thơ trữ tình theo phong cách A-na-cre-on
+
+@anacrusis  
+*  dt
+- âm tiết không trọng âm đầu câu (thơ ca)
+
+@anacusia
+* dt
+- cũng anacusis
+- chứng điếc; tật điếc
+ @anadem
+* dt
+- vòng hoa
+ @anadromous  
+*  tt
+- ngược sông để đẻ (cá biển)
+
+@anaemia  
+*  dt
+- (y học) bệnh thiếu máu
+
+@anaemic  
+*  tt
+- (y học) thiếu máu; xanh xao vì thiếu máu
+
+@anaerobe   (anaerobium) @anaerobia   (anaerobium) @anaerobian   (anaerobic) @anaerobic   (anaerobic) @anaerobically
+- xem anaerobe
+ @anaerobiosis
+* dt
+- (sinh học) đời sống kỵ khí
+ @anaerobium   (anaerobium) @anaerophyte
+* dt
+- thực vật kỵ khí
+ @anaesthesia   (anesthesia) @anaesthetic  
+*  tt: (anesthetic) 
+@anaesthetisation
+* dt
+- sự làm mất cảm giác
+- <y> sự gây tê, sự gây mê
+ @anaesthetise   (anaesthetise) @anaesthetist  
+*  dt
+- (y học) người gây mê
+
+@anaesthetization  
+*  dt
+- sự làm mất cảm giác
+- (y học) sự gây tê, sự gây mê
+
+@anaesthetize   (anaesthetise) @anaglyph  
+*  dt
+- đồ chạm nổi thấp
+- cặp ảnh nổi màu bổ sung
+
+@anaglyphic   (anaglyphical) @anaglyphical   (anaglyphical) @anaglyptic
+- xem anaglyph
+ @anagnorisis  
+*  dt
+- sự thừa nhận, sự công nhận
+- hồi kết (của vở kịch)
+
+@anagoge   (anagogy) @anagogic   (anagogical) @anagogical   (anagogical) @anagogy   (anagogy) @anagram  
+*  dt
+- (ngôn ngữ học) phép đảo chữ cái
+
+@anagrammatic   (anagrammatical) @anagrammatical   (anagrammatical) @anagrammatically
+- xem anagram
+ @anagrammatise   (anagrammatise) @anagrammatism  
+*  dt
+- cách viết theo lối đảo chữ cái
+
+@anagrammatist  
+*  dt
+- người giỏi viết theo lối đảo chữ cái
+
+@anagrammatize   (anagrammatise) @anakinetic
+* tt
+- tạo năng lượng; tạo nhiệt
+ @anal  
+*  tt
+- (giải phẫu) (thuộc) hậu môn
+
+@analecta   (analects) @analectic
+- xem analects
+ @analects   (analects) @analeptic  
+*  tt
+- (y học) hồi sức, tăng sức (thuốc)
+*  dt
+- (y học) thuốc hồi sức, thuốc tăng sức
+
+@analgesia  
+*  dt
+- (y học) chứng mất cảm giác đau
+
+@analgesic   (analgetic) @analgetic   (analgetic) @anally
+- xem anal
+ @analog
+- tương tự (Một cách biểu diễn đối với các giá trị biến đổi của các thiết bị chỉ thị khi bộ phận trỏ của nó có thể thay đổi liên tục)
+ @analog
+- tương tự
+ @analog adder
+- (Tech) bộ cộng tương tự
+ @analog, analogue
+- (Tech) tương tự, liên biến, dạng sóng, liên tục
+ @analog circuit
+- (Tech) mạch tương tự
+ @analog compact cassette (ACC)
+- (Tech) hộp băng nhỏ dạng tương tự
+ @analog computer
+- (Tech) máy điện toán dạng tương tự
+ @analog data
+- (Tech) dữ kiện tương tự
+ @analog (data) recorder
+- (Tech) máy ghi (dữ kiện) dạng tương tự
+ @analog device
+- (Tech) thiết bị tương tự
+ @analog element
+- (Tech) phần tử tương tự
+ @analog equipment
+- (Tech) thiết bị tương tự
+ @analog machine
+- (Tech) máy tương tự
+ @analog microcircuit
+- (Tech) vi mạch tương tự
+ @analog multiplexer
+- (Tech) bộ đa hợp tương tự
+ @analog network
+- (Tech) mạng tương tự
+ @analog plotter
+- (Tech) máy vẽ hình loại tương tự
+ @analog recording
+- (Tech) ghi dạng tương tự
+ @analog signal
+- (Tech) tín hiệu tương tự, tín hiệu dạng sóng
+ @analog simulation
+- (Tech) mô phỏng tương tự
+ @analog telephone line
+- (Tech) dây điện thoại tương tự
+ @analog to binary converter
+- (Tech) bộ đổi tương tự ra nhị phân
+ @analog to digital converter
+- (Tech) bộ đổi tương tự ra số tự
+ @analog transistor
+- (Tech) đèn tinh thể tương tự
+ @analog transmission
+- (Tech) truyền tương tự
+ @analog-digital computer
+- (Tech) máy điện toán dạng tương tự-số tự
+ @analog-digital conversion
+- (Tech) đổi tương tự-số tự
+ @analog-digital converter
+- (Tech) bộ đổi tương tự-số tự
+ @analogic   (analogic) @analogical   (analogic) @analogically
+- xem analogical
+ @analogise   (analogize) @analogist  
+*  dt
+- người dùng phép loại suy
+
+@analogize   (analogise) @analogous  
+*  tt
+- tương tự, giống nhau
+
+@analogous
+- (Tech) tương tự (tt), liên biến (tt)
+ @analogously
+* dt
+- tương tự
+ @analogousness  
+*  dt
+- tính tương tự, tính giống nhau
+
+@analogue  
+*  dt
+- vật tương tự, lời tương tự
+
+@analogue
+- sự tương tự, hệ mô hình hoá
+- electromechanic(al) a. (máy tính) mô hình điện cơ
+- hydraulic a. mô hình thuỷ lực
+- physical a. (máy tính) mô hình vật lý
+- pneumatic a. mô hình khí lực
+ @analogue computer
+* dt
+- máy điện toán dùng các định lượng vật lý thể hiện các con số
+ @analogus
+- tương tự
+ @analogy  
+*  dt
+- sự tương tự, sự giống nhau
+
++ an analogy to (with): sự tương tự với
+
++ an analogy between: sự tương tự đồng giữa
+- (triết học) phép loại suy
+- (sinh vật học) sự cùng chức (cơ quan)
+
+@analogy
+- (Tech) tính tương tự; loại suy, suy diễn
+ @analogy
+- sự tương tự by., on the a. bằng tương tự, làm tương tự 
+- membrane a. tương tự màng 
+ @analphabet   (analphabetic) @analphabetic   (analphabetic) @analysability  
+*  dt
+- tính có thể phân tích
+
+@analysable  
+*  tt
+- có thể phân tích
+
+@analysable
+- khai triển được, phân tích được
+ @analysand
+* dt
+- người làm phân tâm học
+ @analyse  
+*  ngdgt
+- phân tích
+
++ to analyse a sentence grammatically: phân tích ngữ pháp một câu văn
+
++ to analyse water: phân tích nước
+
++ go analyse an issue: phân tích một vấn đề
+- (toán học) giải tích
+
+@analyse
+- (Tech) phân tích (đ)
+ @analyser  
+*  dt
+- (vật lý); (hoá học) dụng cụ phân tích, máy phân tích
+
++ differential analyser: máy phân tích vi phân
+
++ magnetic analyser: máy phân tích từ
+
++ frequency analyser: máy phân tích tần số
+
++ sound analyser: máy phân tích âm
+
++ isotope analyser: máy phân tích đồng vị
+
++ radiation analyser: máy phân tích phóng xạ
+- người phân tích
+
+@analyser
+- (máy tính) máy phân tích
+- circuit a. máy phân tích mạch
+- curve a. máy phân tích đường cong
+- differential a. máy tính vi phân
+- digital differential a. máy tính vi phân (bằng) số
+- direct-reading a. máy phân tích đọc trực tiếp
+- electronic a. máy phân tích điện tử
+- fourier a. máy phân tích Furiê, máy phân tích điều hoà
+- frequency response a. máy phân tích tần số
+- harmonic a. máy phân tích điều hoà
+- motion a. máy phân tích lưới
+- network a. máy phân tích lưới
+- servo a. máy phân tích secvo
+- transient a. máy phân tích chuyển tiếp, máy phân tích các quá trình
+- chuyển tiếp 
+ @analyser, analyzer
+- (Tech) bộ phân tích, máy phân tích
+ @analyses  
+*  dt,  số nhiều analyses
+- sự phân tích
+- (vật lý),  (hoá học) phép phân tích
+
++ qualitative analysis: phép phân tích định tính
+
++ qualitative analysis: phép phân tích định lượng
+- (toán học) giải tích
+
++ in the last analysis: phân tích cho đến cùng; rút cục, cuối cùng
+
++ under analysis: được đem phân tích
+
+@analysis  
+*  dt,  số nhiều analyses
+- sự phân tích
+- (vật lý),  (hoá học) phép phân tích
+
++ qualitative analysis: phép phân tích định tính
+
++ qualitative analysis: phép phân tích định lượng
+- (toán học) giải tích
+
++ in the last analysis: phân tích cho đến cùng; rút cục, cuối cùng
+
++ under analysis: được đem phân tích
+
+@analysis
+- (Tech) phân tích; giải tích (d)
+ @analysis
+- giải tích; sự phân tích
+- a. of causes phân tích nguyên nhân
+- a. of convariance phân tích hiệp phương sai
+- a. of regression phân tích hồi quy
+- a. of variance phân tích phương sai
+- activity a. of production and allocation (toán kinh tế) phân tích hoạt động trong
+- sản xuất và phân phối
+- algebraic a. giải tích đại số
+- bunch map a. (thống kê) phân tích biểu đồ chùm
+- combinatory a. giải tích tổ hợp
+- component a. (thống kê) phân tích nhân tố
+- confluence a. phân tích hợp lưu
+- correlation a. phân tích tương quan
+- demand a. (toán kinh tế) phân tích nhu cầu
+- dimensional a. phân tích thứ nguyên
+- discriminatory a. (thống kê) phương pháp phân loại; phân tích phân biệt
+- economic a. (toán kinh tế) phân tích kinh tế
+- factor a. phân tích nhân tố
+- functional a. giải tích hàm
+- harmonic a. phân tích điều hoà, giải tích điều hoà
+- indeterminate a. giải tích vô định
+- infinitesimal a.giải tích vô cùng bé
+- linear a. giải tích tuyến tính
+- mathematical a. giải tích toán học
+- multivariate a. (thống kê) phân tích nhiều chiều
+- nodal a. giải tích các nút
+- numerical a. giải tích số, phương pháp tính
+- operation a. vân trù học
+- periodogram a. (thống kê) phép phân tích biểu đồ chu kỳ
+- probit a. phân tích đơn vị xác suất
+- rational a. phân tích hợp lý
+- sequential a. tk phân tích thời kỳ kế tiếp, phân tích quá trình dãy kế tiếp
+- statistic(al) a. phân tích thống kê
+- strain a. phân tích biến dạng
+- stress a. phân tích ứng suất 
+- successive a. phân tích liên tiếp
+- tensorr a. (hình học) giải tích tenxơ
+- unitary a. (thống kê) phân tích phương sai
+- variance a. giải tích vectơ 
+ @Analysis of variance
+- (Econ) ANOVA - Phân tích phương sai
+: Phân chia độ biến động tổng thể trong một biến số phụ thuộc (với độ biến động tổng thể được định nghĩa là tổng của bình phương của các độ lệch so với trung bình của biến) thành các cấu thành được tính cho biến động của các biến số riêng hay NHÓM BIẾn GIẢI THÍCH  và những biến không được giải thích hay biến động DƯ @Analysis (stats)
+- (Econ) Phân tích.
+: Risk analysis: phân tích rủi ro. Scenario analysis:Phân tích kịch bản. Sensitivity analysis: Phân tích độ nhạy.
+ @analysis-situs
+- tôpô
+ @analyst  
+*  dt
+- người phân tích
+- (toán học) nhà giải tích
+
+@analyst
+- (Tech) phân tích viên
+ @analyst-programmer
+- (Tech) chuyên viên phân tích và lập trình
+ @analytic  
+*  tt
+- (thuộc) phân tích
+- (thuộc) giải tích
+
+@analytical  
+*  tt
+- dùng phép phân tích
+- (toán học) dùng phép giải tích
+
++ analytical geometry: hình học giải tích
+
+@analytical-function generator
+- (Tech) bộ tạo hàm giải tích
+ @analytically
+* dt
+- theo phép giải tích, theo phép phân tích
+ @analytics  
+*  dt,  số nhiều dùng như số ít
+- môn phân tích
+- môn giải tích
+
+@analyzable
+- xem analyze
+ @analyzation
+- xem analyze
+ @analyze  
+*  ngdgt
+- phân tích
+
++ to analyse a sentence grammatically: phân tích ngữ pháp một câu văn
+
++ to analyse water: phân tích nước
+
++ go analyse an issue: phân tích một vấn đề
+- (toán học) giải tích
+
+@analyzer  
+*  ngdgt
+- phân tích
+
++ to analyse a sentence grammatically: phân tích ngữ pháp một câu văn
+
++ to analyse water: phân tích nước
+
++ go analyse an issue: phân tích một vấn đề
+- (toán học) giải tích
+
+@analyzer 
++  analyser
+ @anamnesis  
+*  dt
+- sự hồi tưởng; ký ức
+- (y học) tiền sử bệnh
+
+@anamnestic
+- xem anamnesis
+ @anamnestically
+- xem anamnesis
+ @anamnia
+- Cách viết khác : anamniote 
+ @anamorphosis  
+*  dt
+- hình méo mó, hình kỳ dị (do gương chiếu ra)
+- (sinh vật học) sự tiệm biến
+
+@anamorphosis
+- tiệm biến
+ @ananas  
+*  dt
+- (thực vật học) quả dứa
+
+@anandrous  
+*  tt
+- (thực vật học) không có nhị (hoa)
+
+@anangian
+* tt
+- (động vật) không hệ mạch
+ @ananias  
+*  dt
+- người nói dối, kẻ điêu ngoa
+
+@anantherous
+* tt
+- (thực vật) không bao phấn
+ @anapaest  
+*  dt
+- thể thơ anapet (vế có ba âm tiết, hai âm tiết trước ngắn, âm tiết sau dài)
+
+@anapaestic  
+*  tt
+- (thuộc) thể thơ anapet
+
+@anapest   (anapestic) @anapestic   (anapestic) @anaphase  
+*  dt
+- (sinh vật học) pha sau (phân bào)
+
+@anaphasis
+* tt
+- (sinh học) thuộc kỳ sau
+ @anaphora  
+*  dt
+- (văn học) phép trùng lặp
+
+@anaphoresis
+- (Tech) di chuyển ly tử (âm)
+ @anaphoric  
+*  tt
+- (văn học) (thuộc) phép trùng lặp
+
+@anaphragmic
+* tt
+- (sinh học) không vách ngăn
+ @anaphrodisia
+* dt
+- tình trạng không có tình dục
+ @anaphrodisiac
+* dt
+- (y học) thuốc làm mất tình dục
+* tt
+- không có tình dục
+ @anaphylactic
+- xem anaphylaxis
+ @anaphylactically
+- xem anaphylaxis
+ @anaphylaxis  
+*  dt
+- (y học) tính quá mẫn
+
+@anaphysis
+* dt
+- (sinh học) mấu phụ
+ @anaphyte
+* dt
+- (sinh học) gióng
+ @anaplasia
+* dt
+- (sinh học) sự không phân hoá
+ @anaplasm
+* dt
+- (sinh học) chất biến
+ @anaplastic  
+*  tt
+- (y học) (thuộc) thuật tự ghép
+
+@anaplasty  
+*  dt
+- (y học) thuật tự ghép
+
+@anapolysis
+* tt
+- không phân chia; liền đốt
+ @anaptotic
+* tt
+- (ngôn ngữ) có xu hướng giảm biến tố
+
++  anaptotic languages:những ngôn ngữ có xu hướng giảm biến tố
+ @anaptyxis
+* dt
+- sự xuất hiện nguyên âm chêm giữa hai phụ âm
+ @anarch  
+*  dt
+- (thơ ca) thủ lĩnh, người cầm đầu cuộc nổi dậy
+
+@anarchic   (anarchic) @anarchical   (anarchic) @anarchically
+- xem anarchic
+ @anarchism  
+*  dt
+- chủ nghĩa vô chính phủ
+
+@anarchist  
+*  dt
+- người theo chủ nghĩa vô chính phủ, người chủ trương vô chính phủ
+
+@anarchistic
+- xem anarchism
+ @anarchy  
+*  dt
+- tình trạng vô chính phủ
+- tình trạng hỗn loạn
+
+@Anarchy
+- (Econ) Tình trạng vô chính phủ.
+: Học thuyết cho rằng các sự kiện chính trị và xã hội của các cá nhân không nên bị kìm hãm bởi bất cứ sự can thiệp nào của chính phủ. Đó là một quan điểm cực đoan hơn quan điểm chủ nghĩa tự do, vẫn còn cho phép sử dụng quyền lực độc tài để điều hành các hoạt động mà các cá nhân không thể tự hoàn thành một cách có hiệu quả được.
+ @anarthria
+* dt
+- tình trạng mất khả năng nói các từ, chứng mất cấu âm
+ @anarthrous  
+*  tt
+- dùng không có mạo từ (ngữ pháp Hy lạp)
+- (sinh vật học) không có khớp
+
+@anasarca  
+*  dt
+- (y học) chứng phù toàn thân
+
+@anasarcous  
+*  tt
+- (y học) phù toàn thân
+
+@anaschistic
+* tt
+- (sinh học) chia dọc hoàn toàn
+ @anastates
+* dt số nhiều
+- (sinh học) chất chuyển hoá nội bào
+ @anastatic  
+*  tt
+- nổi (in, chạm...)
+
++ anastatic printing: sự in nổi
+
+@anastigmat  
+*  dt
+- kính chính thị, cái anaxtimat
+
+@anastigmatic  
+*  tt
+- chính thị anaxtimatic
+
+@anastigmatic
+- (Tech) chính thị
+ @anastigmatic lens
+- (Tech) thấu kính chính thị [TN], thấu kính khử tán hình [ĐL]
+ @anastomose  
+*  ndgt
+- nối nhau (hai mạch máu...)
+
+@anastomoses  
+*  dt,  số nhiều anastomoses
+- sự nối (hai mạch máu...)
+- đường nối, mạng nhỏ
+
+@anastomosis  
+*  dt,  số nhiều anastomoses
+- sự nối (hai mạch máu...)
+- đường nối, mạng nhỏ
+
+@anastomotic
+- xem anastomosis
+ @anastral
+* tt
+- không thể sao
+ @anastrophe  
+*  dt
+- (ngôn ngữ học) phép đảo
+
+@anatase
+* dt
+- (khoáng chất) anata
+ @anathema  
+*  dt
+- lời nguyền rủa
+- người bị ghét cay, ghét đắng, người bị nguyền rủa
+- (tôn giáo) sự bị rút phép thông công; sự bị đuổi ra khỏi giáo phái
+- (tôn giáo) người bị rút phép thông công; người bị đuổi ra khỏi giáo phái
+
+@anathematic   (anathematic) @anathematical   (anathematic) @anathematise   (anathematise) @anathematization
+- xem anathematize
+ @anathematize   (anathematise) @anatolian
+* dt
+- người xứ A-na-tô-li (Thổ- Nhĩ- kỳ)
+- tiếng A-na-tô-li
+ @anatomical  
+*  tt
+- (thuộc) khoa giải phẫu
+- (thuộc) kết cấu, (thuộc) tổ chức (cơ thể...)
+
+@anatomically
+* dt
+- về phương diện giải phẫu
+ @anatomise   (anatomise) @anatomist  
+*  dt
+- nhà mổ xẻ, nhà giải phẫu
+- người phân tích, người mổ xẻ (nghĩa bóng)
+
+@anatomization
+- xem anatomize
+ @anatomize   (anatomise) @anatomy  
+*  dt
+- thuật mổ xẻ
+- khoa giải phẫu
+- bộ xương; xác ướp (dùng để học)
+- (thông tục) người gầy giơ xương
+
+@anatoxin
+* dt
+- (sinh học) Anatoxin; giải độc tố
+ @anatrepsis
+* dt
+- (sinh học) kỳ tăng phôi động
+ @anatropous  
+*  tt
+- (thực vật học) ngược (noãn)
+
+@anatta   (anatta) @anatto   (anatta) @anaxial
+* tt
+- không trục; không đối xứng
+ @anaxone
+* dt
+- (giải phẫu) học tế bào thần kinh không sợi trục
+ @anbury   (ambury) @ance  
+*  dt
+- (y học) mụn trứng cá (ở mặt)
+
+@ancestor  
+*  dt
+- ông bà, tổ tiên
+
+@ancestor-worship  
+*  dt
+- sự thờ phụng tổ tiên
+
+@ancestral  
+*  tt
+- (thuộc) ông bà, (thuộc) tổ tiên
+- do ông bà truyền lại, do tổ tiên truyền lại
+
+@ancestral
+- di truyền
+ @ancestrally
+- xem ancestral
+ @ancestress  
+*  dt
+- bà, tổ mẫu
+
+@ancestrula
+* dt
+- (sinh học) mầm ổ cá thể dinh dưỡng
+ @ancestry  
+*  dt
+- tổ tiên, tổ tông, tông môn
+- dòng họ
+
+@anchor  
+*  dt
+- (hàng hải) cái neo, mỏ neo
+
++ to cast anchor; to drop anchor: thả neo
+
++ to weigh anchor: nhổ neo
+
++ to bring a ship to anchor: dừng tàu và thả neo
+- (kỹ thuật) neo sắt, mấu neo
+- (nghĩa bóng) nguồn tin cậy, nơi nương tựa
+!to be (lie, ride) at anchor
+- bỏ neo, đậu (tàu)
+!to come to [an] anchor
+- thả neo, bỏ neo (tàu)
+!to lay (have) an anchor to windward
+- (nghĩa bóng) có những biện pháp thận trọng; cẩn tắc vô ưu
+!to swallow the anchor
+- (hàng hải),  (từ lóng) từ bỏ cuộc đời sống dưới nước
+*  ngdgt
+- (hàng hải) neo (tàu) lại
+- néo chặt, giữ chặt (vật gì bằng neo sắt)
+
++ to anchor a tent to the ground: néo chặt cái lều xuống đất bằng neo sắt
+- (nghĩa bóng) níu chặt, bám chặt
+
++ to anchor one's hope in (on)...: đặt hy vọng vào...
+*  ndgt
+- (hàng hải) bỏ neo, thả neo
+
+@Anchor argument
+- (Econ) Luận điểm về cái neo.
+: Một trong các vấn đề liên quan đến biến  động tự do của TỶ GIÁ HỐI ĐOÁI  là luận điểm cho răng tỷ giá hối đoái tự do sẽ làm giảm thâm hụt với bên ngoài và vì vậy tước đoạt của các cơ quan tiền tệ cái neo (chính trị) nhằm hạn chế tiền tệ mở rộng. Đối lập với luận điểm này là việc bỏ chiếc neo tiền tệ của tỷ giá hối đoái cố định là một việc tốt vì nó chỉ cảc trở những nhà hoạch định chính sách  mới được bầu bằng cách không cho họ hoàn toàn tự do với CHÍNH SÁCH TIỀN TỆ.
+ @anchor bolt
+- (Tech) đinh ốc cố định
+ @anchor man
+* dt
+- người đóng vai trò quyết định, người chủ chốt
+ @anchor point
+- (Tech) điểm cố định
+ @anchor pole
+- (Tech) cột cố định, cột neo
+ @anchor record
+- (Tech) bản ghi gốc 
++  root record
+ @anchor strut
+- (Tech) cột chống cố định
+ @anchorage  
+*  dt
+- sự thả neo, sự bỏ neo, sự đạu
+- chỗ đậu tàu, chỗ thả neo
+- thuế đậu tàu, thuế thả neo
+- (nghĩa bóng) vật có thể cột vào, vật có thể dựa vào, nguồn tin cậy, nơi nương tựa
+
++ to be the anchorage of someone's hope: là người mà ai đặt tất cả hy vọng vào
+
+@anchorage-dues  
+*  dt
+- thuế đậu tàu, thuế thả neo
+
+@anchorage-ground  
+*  dt
+- chỗ đậu tàu, chỗ thả neo
+
+@anchored  
+*  tt
+- đậu, tả neo
+- hình mỏ neo
+
+@anchoress   (ancress) @anchoret   (anchoret) @anchoretic  
+*  tt
+- (thuộc) người ở ẩn, ẩn đặt
+
++ an anchoretic life: cuộc đời ẩn dật
+
+@anchorite   (anchoret) @anchoritic
+- xem anchorite
+ @anchorless
+* tt
+- không có neo
+- lênh đênh; phiêu bạc
+ @anchor-stroke  
+*  dt
+- (thể dục,thể thao) cú đánh lần lượt chạm hai bi bi-a
+
+@anchor-watch  
+*  dt
+- phiên gác lúc tàu thả neo đậu lại
+
+@anchovy  
+*  dt
+- (động vật học) cá trống
+
+@anchovy-paste  
+*  dt
+- mắm cá trống
+
+@anchylose  
+*  ngdgt
+- làm cứng khớp
+*  ndgt
+- cứng khớp
+
+@anchylosis  
+*  dt
+- (y học) bệnh cứng khớp
+
+@ancien régime  
+*  dt
+- (sử học) thời kỳ trước cách mạng Pháp
+- chế độ cũ, chế độ xưa
+
+@ancient  
+*  dt
+- xưa, cổ (trước khi đế quốc La mã tan rã)
+
++ ancient Rome: cổ La mã
+
++ ancient word: đời thượng cổ
+- (từ cổ,nghĩa cổ) lá cờ, cờ hiệu; người cầm cờ hiệu
+- (từ Mỹ,nghĩa Mỹ) tác giả cổ điển
+
+@ancient history
+- lịch sử cổ đại
+ @ancient lights  
+*  dt
+- cửa sổ không thể bị nhà bên che khuất
+
+@anciently
+- xem ancient
+ @ancientness   (ancientry) @ancientry  
+*  dt
+- (như) ancientness
+- kiểu cũ, kiểu cổ
+
+@ancillary  
+*  tt
+- phụ thuộc, lệ thuộc
+
+@ancillary
+- bổ sung, phụ thuộc
+ @ancipital
+- Cách viết khác : ancipitous 
+ @ancistroid
+* tt
+- dạng ngạnh
+ @ancon  
+*  dt
+- (giải phẫu) cùi tay, khuỷ tay
+- (kiến trúc) chân quỳ, trụ (để đỡ trần nhà...)
+
+@anconeal
+* tt
+- thuộc khủyu tay
+ @anconeus
+* dt
+- cơ khủyu
+ @ancon-sheep  
+*  dt
+- (động vật học) cừu ancon
+
+@ancophilous
+* tt
+- (sinh học) ưa rừng sâu
+ @ancress   (ancress) @and  
+*  liên từ
+- và, cùng, với
+
++ to buy and sell: mua và bán
+
++ you and I: anh với (và) tôi
+- nếu dường như, tuồng như là
+
++ let him go and need be: hãy để anh ta đi nếu cần
+- còn
+
++ I shall go and you stay here: tôi sẽ đi còn anh sẽ ở lại đây
+- (không dịch)
+
++ coffee and milk: cà phê sữa
+
++ four and thirty: ba mươi tư
+
++ two hundred and fifty: hai trăm năm mươi
+
++ to walk two and two: đi hàng đôi
+
++ better and better: ngày càng tốt hơn
+
++ worse and worse: ngày càng xấu hơn
+
++ miles and miles: hàng dặm hàng dặm, rất dài
+
++ there are books and books: sách thì cũng có ba bảy loại
+
++ try and come: hãy gắng đến
+
++ try and help me: hãy gắng giúp tôi
+
+@AND
+- (Tech) VÀ (mạch luận lý)
+ @AND circuit
+- (Tech) mạch VÀ, mạch hội
+ @AND component
+- (Tech) thành phần VÀ, thành phần hội
+ @AND core
+- (Tech) lõi VÀ
+ @AND element 
++  AND gate
+ @AND gate
+- (Tech) cổng VÀ
+ @AND operation
+- (Tech) phép toán VÀ
+ @AND operator
+- (Tech) toán tử VÀ
+ @AND to AND
+- (Tech) VÀ-VÀ (mạch luận lý)
+ @AND to AND circuit
+- (Tech) mạch VÀ-VÀ
+ @AND to OR
+- (Tech) VÀ-HOẶC (mạch luận lý)
+ @AND to OR circuit
+- (Tech) mạch VÀ-HOẶC
+ @andalusian
+* tt
+- thuộc giống ngựa Arđaluxia
+ @andalusite
+* dt
+- (khoáng chất) Andaluzit
+ @andante  
+*  dt
+- (âm nhạc) thong thả
+*  dt
+- (âm nhạc) nhịp thong thả
+
+@andantino  
+*  dt
+- (âm nhạc) hơi hơi nhanh (nhanh hơn andante)
+*  dt
+- (âm nhạc) nhịp hơi hơi nhanh (nhanh hơn andante)
+
+@anderson shelter  
+*  dt
+- hầm trú ẩn (máy bay) di động được (làm bằng thép uốn vòm có sóng)
+
+@andesine
+* dt
+- (khoáng chất) Andezin
+ @andesite
+* dt
+- (khoáng) andexit
+ @andiron  
+*  dt
+- vỉ lò (ở lò sưởi)
+
+@andrangium
+* dt
+- (sinh học) túi bào tử đực
+ @andric
+* tt
+- (thực vật) thuộc giống đực; nhị
+ @andrin
+* dt
+- andrin kích tố tính đực của tinh hoàn
+ @androchorous
+* tt
+- phát tán do người
+ @androclinium
+* tt
+- (thực vật) ô bao phấn
+ @androconium
+* dt
+- số nhiều androconia
+- vây cánh bướm
+ @androcyte
+* dt
+- (sinh học) tế bào đực
+ @androecial
+- xem androecium
+ @androecium  
+*  dt
+- (thực vật học) bộ nhị
+
+@androgamete
+* dt
+- (thực vật) giao tử đực
+ @androgamic
+* tt
+- (thực vật) thụ phấn; thụ tinh
+ @androgamone
+* dt
+- (sinh học) tiết tố giao tử đực
+ @androgamy
+* dt
+- (thực vật) tính thụ phấn
+ @androgen  
+*  dt
+- Hocmon nam
+
+@androgenic
+- xem androgen
+ @androgyne  
+*  dt
+- người ái nam ái nữ
+
+@androgynous  
+*  tt
+- ái nam ái nữ (người)
+- (động vật học) lưỡng tính
+- (thực vật học) hai tính (có cả hoa đực lẫn hoa cái trong cùng một cụm hoa)
+
+@androgynously
+- xem androgynous
+ @androgyny
+- xem androgynous
+ @android
+- (Tech) người máy, máy có nhân tính
+ @andromeda  
+*  dt
+- (thiên văn học) chòm sao tiên nữ
+
+@androphore
+* dt
+- (thực vật) cuống nhị; cuống túi đực
+ @androphyll
+* dt
+- (thực vật) lá bào tử đực
+ @androplasm
+* dt
+- (sinh học) chất đực
+ @androsome
+* dt
+- (sinh học) thể nhiễm sắc đực; thể đực
+ @androspermium
+* dt
+- (sinh học) tinh tử
+ @androspore
+* dt
+- (thực vật) hạt phấn; bào tử đực
+ @anecdotage  
+*  dt
+- chuyện vặt, giai thoại
+-(đùa cợt) tuổi già hay nói, tuổi già thích nói chuyện
+
+@anecdotal  
+*  tt
+- (thuộc) chuyện vặt, (thuộc) giai thoại; có tính chất chuyện vặt, có tính chất giai thoại
+
+@anecdotalist
+- xem anecdotal
+ @anecdotally
+- xem anecdotal
+ @anecdote  
+*  dt
+- chuyện vặt, giai thoại
+
+@anecdotic   (anecdotical) @anecdotical   (anecdotical) @anecdotically
+- xem anecdotic
+ @anecdotist  
+*  dt
+- người kể chuyện vặt, người kể chuyện giai thoại
+
+@anechoic
+* tt
+- không có tiếng vọng lại
+
++  an anechoic chamber:một phòng không có tiếng vọng lại
+ @anechoic chamber
+- (Tech) phòng không dội âm, phòng tiêu âm [TQ]
+ @anele  
+*  ngdgt
+- (từ cổ,nghĩa cổ) xức dầu thánh (cho ai); bôi dầu, thoa dầu
+
+@anemia
+* dt
+- <y> bệnh thiếu máu
+ @anemic
+* tt
+- <y> thiếu máu; xanh xao vì thiếu máu
+ @anemically
+- xem anemic
+ @anemochorous
+* tt
+- phát tán nhờ gió
+ @anemogamic
+- Cách viết khác : anemogamous 
+ @anemogamy
+* dt
+- tính thụ phấn nhờ gió
+ @anemogram
+* dt
+- biểu đồ gió
+ @anemograph  
+*  dt
+- (khí tượng) máy ghi gió
+
+@anemographic  
+*  tt
+- (thuộc) phép ghi gió
+
+@anemometer  
+*  dt
+- (khí tượng) cái đo gió
+
+@anemometric  
+*  tt
+- (khí tượng) phép đo gió
+
+@anemometrical
+- xem anemometry
+ @anemometry  
+*  dt
+- phép đo gió
+
+@anemone  
+*  dt
+- (thực vật học) cò chân ngỗng
+
+@anemophilous  
+*  tt
+- (thực vật học) truyền phấn nhờ gió
+
+@anemophily
+* dt
+- cách thụ phấn nhờ gió
+ @anemoscope  
+*  dt
+- máy nghiệm gió
+
+@anemospore
+* dt
+- (sinh học) bào tử phát tán nhờ gió
+ @anemotaxis
+* dt
+- tính theo gió
+ @anemotropic
+* tt
+- hướng gió
+ @anemotropism
+* dt
+- tính hướng gió
+ @anencephalous
+* tt
+- không não
+ @anencephaly
+* dt
+- sự sinh ra thiếu một phần não
+ @anent  
+*  giới từ
+- (từ cổ,nghĩa cổ), (Ê-cốt) về, liên quan với, quan hệ với
+
+@anenterous
+* tt
+- không ruột
+ @anergia
+* dt
+- cũng anergy
+- tính không dị ứng
+ @aneroid  
+*  dt
+- cái đo khí áp hộp ((cũng) aneroid barometer)
+
+@anesthesia   (anesthesia) @anesthetic  
+*  tt: (anesthetic) 
+@anesthetically
+- xem anesthetic
+ @anesthetist
+* dt
+- <y> người gây mê
+ @anesthetization
+- sự làm mất cảm giác
+- <y> sự gây tê, sự gây mê
+ @anesthetize
+* ngdgt
+- làm mất cảm giác
+- <y> gây tê, gây mê
+ @anestrum
+* dt
+- thời kỳ đình dục
+ @anethum  
+*  dt
+- (thực vật học) cây thì là
+
+@aneuploid
+* tt
+- (sinh học) thuộc số bội không chỉnh
+* dt
+- thể bội không chỉnh
+ @aneuploidy
+* dt
+- (sinh học) tính bội không chỉnh
+ @aneurine
+* dt
+- cũng aneurin
+- (dược) Aneurin,  vitamin B 1
+ @aneurism   (aneurysm) @aneurismal   (aneurysmal) @aneuronic
+* tt
+- không nơ ron; không phân bố thần kinh
+ @aneurysm   (aneurysm) @aneurysmal   (aneurysmal) @aneusomaly
+* dt
+- (sinh học) tinh thể không chỉnh
+ @aneuspore
+* dt
+- (sinh học) bào tử không hoàn toàn
+ @anew  
+*  dt
+- lại, một lần nữa; lại nữa; bằng cách khác
+
++ to begin anew: bắt đầu lại
+
+@anfractuosity  
+*  dt
+- tình trạng quanh co khúc khuỷu; chỗ khúc khuỷu, chỗ quanh co
+- ((thường) số nhiều) đường quanh co, đường khúc khuỷu
+- tình trạng rắc rối, phức tạp
+
+@anfractuous  
+*  tt
+- quanh co, khúc khuỷu
+- rắc rối, phức tạp
+
+@angary  
+*  dt
+- (pháp lý) quyền sử hoại (quyền sung công hoặc triệt phá có bồi thường tài sản của một nước trung lập nằm trên đất một nước có chiến tranh)
+
+@angel  
+*  dt
+- thiên thần, thiên sứ
+
++ the angel of death: thiên thần báo tử
+
++ the angel of darkness: ác ma, ác quỷ
+
++ guardian angel: thần hộ mệnh
+- người phúc hậu, người hiền lành, người đáng yêu; người ngây thơ trong trắng
+- (từ lóng) người xuất vốn cho kẻ khác
+- tiền cổ bằng vàng (ở Anh) ((cũng) angel noble)
+!to be someone's good angel
+- che chở phù hô cho ai
+!to entertain an angel mawares
+- tiếp đãi một nhân vật quan trọng mà không biết
+!to join the angels
+- (từ Mỹ,nghĩa Mỹ) về nơi cực lạc, chết
+!ministering angels fear to tread
+- lao đầu vào một việc mạo hiểm một cách ngu xuẩn và quá tự tin
+
+@angel
+- (Tech) mục tiêu ký sinh (ra-đa) [TQ]; đạo thường hồ ba [TQ]
+ @angel cake
+* dt
+- bánh ngọt nhẹ xốp
+ @angel fish
+* dt
+- cá có vây như cánh
+ @angel-fish
+* dt
+- (động vật) cá nhám dẹt
+ @angelic   (angelic) @angelica  
+*  dt
+- (thực vật học) cây bạch chỉ
+
+@angelical   (angelic) @angelically
+* dt
+- tốt đẹp, phúc hậu như thiên thần
+ @angelology
+* dt
+- thiên sử học
+ @angels-on-horseback  
+*  dt
+- món sò bọc thịt mỡ
+
+@angelus  
+*  dt
+- (tôn giáo) kinh đức bà
+- hồi chuông cầu kinh đức bà
+
+@anger  
+*  dt
+- sự tức giận, sự giận dữ; mối giận
+
++ fit of anger: cơn tức giận
+
++ to provoke someone to anger: chọc tức ai
+*  ngdgt
+- chọc tức, làm tức giận
+
+@angina  
+*  dt
+- (y học) bệnh viêm họng
+
++ angina pectoris: (y học) chứng đau thắt ngực
+
+@anginal
+- xem angina
+ @anginose   (anginose) @anginous   (anginose) @angioblast
+* dt
+- nguyên bào mạch
+ @angiocarp
+* dt
+- quả bọc, quả kín
+ @angiogamy
+* dt
+- (thực vật) tính thụ phấn kín
+ @angiogenesis
+* dt
+- sự hình thành mạch
+ @angiographic
+* tt
+- (y học) thuộc sự chụp tia X mạch
+ @angiography
+* dt
+- (y học) sự chụp tia X mạch
+ @angiology
+* dt
+- sự nghiên cứu mạch máu, mạch bạch huyết
+- (giải phẫu) học mạch học
+ @angioma  
+*  dt
+- (y học) u mạch
+
+@angiomatous
+- xem angioma
+ @angiosperm  
+*  dt
+- (thực vật học) cây hạt kín
+
+@angiospermous  
+*  tt
+- (thực vật học) (thuộc) cây hạt kín; có hạt kín
+
+@angle  
+*  dt
+- góc
+
++ acute angle: góc nhọn
+
++ obtuse angle: góc tù
+
++ right angle: góc vuông
+
++ angle of rotation: góc quay
+
++ angle of repose: góc nghỉ
+
++ angle of view: góc nhìn, góc ngắm
+
++ angle of deflection: góc lệch
+
++ angle of reflection: góc phản xạ
+
++ angle of cut-off: góc cắt
+- góc xó
+- (nghĩa bóng) quan điểm, khía cạnh
+
++ to look at the question from all angles: nhìn vấn đề trên mọi khía cạnh
+
++ to get a new angle on something: (thông tục) có một quan niệm mới về cái gì
+*  dgt
+- đi xiên góc, rẽ về
+- làm sai lệch, xuyên tạc (sự việc, câu chuyện)
+*  dt
+- (từ cổ,nghĩa cổ) lưỡi câu
+!brother of the angle
+- người câu cá
+*  ndgt
+- câu cá
+- (nghĩa bóng) câu, kiếm chác, tranh thủ
+
++ to angle for somebody's heart: cố tranh thủ tình cảm của ai, cố lấy lòng ai
+
+@angle
+- (Tech) góc
+ @angle
+- góc
+- a. of attack góc đụng
+- a. of contingence góc tiếp liên
+- a. of friction góc mà sat, góc cọ sát 
+- a. of incidence góc tới
+- a. of inclination góc nghiêng, góc lệch
+- a. of intersection góc tương giao
+- a. of osculation góc mật tiếp
+- a. of reflection góc phản xạ
+- a. of rotation góc quay
+- a. of twist góc xoắn
+- acute a. góc nhọn
+- adjacent a. góc kề
+- alternate a. góc so le
+- alternate exterior a.s các góc so le ngoài
+- apex a., apical a. góc ở đỉnh
+- base a. góc đáy
+- central a. góc ở tâm
+- complementary a. góc phụ (cho bằng 90 ) 
+- concave a. góc lõm
+- cọnugate a.s các góc bổ sung (cho bằng 360 )
+- convex a. góc lồi
+- coordinnate a. góc toạ độ
+- corresponding a. góc đồng vị
+- conterminal a.s các góc khác nhau 360
+- dihedral a. góc nhị diện
+- direction a. góc định hướng, góc chỉ phương
+- excentric a. of an ellipse góc tâm sai của elip
+- explementary a.s các góc bổ sung (cho bằng 360 )
+- exterior-interior a.góc đồng vị
+- Eulerian a. góc Ơle
+- flat a. góc bẹt (180 )
+- hour a. góc giờ
+- obtuse a. góc tù
+- opposite a. góc đổi đỉnh
+- phase a. góc pha
+- polar a. góc cực
+- polarizing a. góc phân cực
+- polyhedrala a. góc đa diện
+- precession a. góc tuế sai
+- quadrantal a. góc bội của 90 0
+- rectilinear a. góc phẳng
+- re-entrant a. góc vào
+- reflex a. góc lớn hơn 180 0 và nhỏ hơn 360 0
+- right a. góc vuông (90 0 )
+- round a. góc đầy (360 0 )
+- salient a. góc lồi
+- scattering a. góc phản xạ
+- sight a. góc nhìn
+- solid a. góc khối
+- spherical a. góc cầu
+- supplemental a.s các góc bù nhau (cho bằng 180 0 )
+- straight a. (hình học) góc giữa tiếp tuyến và dây cung tại tiếp điểm
+- tetrahedral a. góc tứ diện
+- trihedral a. góc tam diện
+- vectorial a. góc cực ( trong hệ toạ độ cực)
+- vertex a. góc ở đỉnh
+- vertical a.s các góc đối đỉnh 
+ @angle bracket
+- (Tech) dấu ngoặc nhọn
+ @angle of aspect
+- (Tech) góc bao quát
+ @angle of cut-off
+- (Tech) góc cắt
+ @angle of elevation
+- (Tech) góc ngẩng @angle of flow
+- (Tech) góc giao thông, góc khí lưu
+ @angle of groove
+- (Tech) góc của rãnh (đĩa hát)
+ @angle of incidence
+- (Tech) góc tới
+ @angle of lag
+- (Tech) góc muộn
+ @angle of polarization
+- (Tech) góc phân cực
+ @angle of sight
+- (Tech) thị giác, góc bao quát
+ @angle reflector
+- (Tech) bộ phản xạ góc, gương phản xạ
+ @angle shock wave
+- (Tech) sóng va chạm góc, sóng chấn động góc
+ @angle tracking
+- (Tech) truy tích góc
+ @angled  
+*  tt
+- có góc, có góc cạnh
+
+@angle-iron  
+*  dt
+- (kỹ thuật) thép góc
+
+@angler  
+*  dt
+- người câu cá
+- (động vật học) cá vảy chân
+
+@angle-wise  
+*  dt
+- có góc, có góc cạnh
+
+@angleworm  
+*  dt
+- giun làm mồi câu
+
+@anglican  
+*  tt
+- (thuộc) giáo phái Anh
+- (từ Mỹ,nghĩa Mỹ) (thuộc) nước Anh
+*  dt
+- người theo giáo phái Anh
+
+@anglicanism  
+*  dt
+- (tôn giáo) giáo phái Anh
+
+@anglice  
+*  dt
+- bằng tiếng Anh
+
+@anglicise   (Anglicise) @anglicism  
+*  dt
+- từ ngữ đặc Anh
+- nguyên tắc chính trị của Anh
+
+@anglicization
+* dt
+- sự Anh hoá
+ @anglicize   (Anglicise) @angling  
+*  dt
+- sự đi câu cá
+
+@anglo
+* dt; số nhiều Anglos
+- người Canada mà tiếng Anh là mẹ đẻ
+ @anglo-
+- (dạng kết hợp) Anh
+ @anglo-american  
+*  tt
+- Anh  Mỹ
+- (thuộc) người Mỹ gốc Anh
+*  dt
+- người Mỹ gốc Anh
+
+@anglo-catholic
+* dt
+- tín đồ giáo phái Anh-Cơ đốc
+ @anglo-french  
+*  tt
+- Anh  Pháp
+- (thuộc) tiếng Pháp  Anh (tiếng Pháp dùng ở Anh thời Trung cổ)
+*  dt
+- tiếng Pháp  Anh (tiếng Pháp dùng ở Anh thời Trung cổ)
+
+@anglo-indian
+* tt
+- Anh lai Ân Độ
+ @anglomania  
+*  dt
+- sự sùng Anh
+
+@anglomaniac  
+*  dt
+- người quá sùng Anh, người hay bắt chước phong tục Anh
+
+@anglo-norman
+* tt
+- (thuộc) Anh Nóoc-măng
+* dt
+- ngựa lai Anh- Nóoc-măng
+- tiếng Anh- Nóoc-măng
+ @anglophile  
+*  tt
+- thân Anh
+*  dt
+- người thân Anh
+
+@anglophobe  
+*  tt
+- bài Anh
+*  dt
+- người bài Anh
+
+@anglophobia  
+*  dt
+- sự bài Anh; chủ trương bài Anh
+
+@anglophone
+* tt
+- nói tiếng Anh
+ @anglophonic
+* tt
+- nói tiếng Anh; sử dụng tiếng Anh
+* tt
+- nói tiếng Anh; sử dụng tiếng Anh
+ @anglo-saxon  
+*  tt
+- Ăng-lô-Xắc-xông
+*  dt
+- dòng Ăng-lô-Xắc-xông
+- người Ăng-lô-Xắc-xông, người nh gốc Ăng-lô-Xắc-xông
+- tiếng Ăng-lô-Xắc-xông
+
+@angola   (angola) @angonekton
+* dt
+- cá trụi; động vật sống tạm thời trong vực nước
+ @angora   (angola) @angostura   (angustura) @angrily  
+*  dt
+- tức giận, giận dữ
+
+@angry  
+*  tt
+- giận, tức giận, cáu
+
++ to be (get) angry with (at) someone: tức giận ai
+
++ to be (get) angry at (about) something: tức giận về cái gì
+
++ to make someone angry: làm cho ai tức giận, chọc tức ai
+- nhức nhối, viêm tấy (vết thương)
+- hung dữ, dữ
+
++ angry winds: gió dữ
+
++ angry waves: sóng dữ
+
+@angst
+* dt(tiếng Đức)
+- cảm giác lo lắng, tội lỗi hoặc hối hận, nhất là về tình trạng thế giới
+ @angstrom
+- (Tech) angstrom (A)  (10 lũy thừa -10 mét)
+ @angstrom unit  
+*  dt
+- rađiô Angstrom
+
+@anguine  
+*  tt
+- (thuộc) rắn; như rắn
+
+@anguish  
+*  dt
+- nỗi đau đớn, nỗi thống khổ, nỗi khổ não (thể xác và tinh thần)
+
++ to cause someone anguish: làm cho ai đau khổ
+
++ to be in anguish: đau khổ
+
++ anguish of body and mind: nỗi đau khổ về thể xác và tinh thần
+
+@anguished
+* tt
+- đau khổ
+ @angular  
+*  tt
+- (thuộc) góc
+
++ angular frequency: tần số góc
+
++ angular point: điểm góc
+
++ angular velocity: vận tốc góc
+- có góc, có góc cạnh
+- đặt ở góc
+- gầy nhom, gầy giơ xương (người); xương xương (mặt)
+- không mềm mỏng, cộc lốc; cứng đờ (dáng người)
+
+@angular
+- (Tech) thuộc góc (tt)
+ @angular
+- (thuộc) góc
+ @angular deflection
+- (Tech) độ lệch góc
+ @angular deviation
+- (Tech) độ chênh góc
+ @angular distance
+- (Tech) cự ly góc
+ @angular frequency
+- (Tech) tần số góc
+ @angular length
+- (Tech) độ dài góc
+ @angular light sensing
+- (Tech) cảm nhận ánh sáng góc
+ @angular modulation
+- (Tech) biến điệu góc
+ @angular oscillation
+- (Tech) dao động góc
+ @angular width
+- (Tech) độ rộng góc
+ @angularity   (angularness) @angularly  
+*  dt
+- có góc, có góc cạnh
+- cộc lốc, cứng đờ
+
+@angularness   (angularness) @angulate  
+*  tt
+- có góc, có góc cạnh
+*  ngdgt
+- làm thành góc, tạo thành góc
+
+@angulately
+- xem angulate
+ @angulation  
+*  dt
+- sự làm thành góc, sự tạo thành góc
+- hình có góc
+
+@angulosplenial
+* dt
+- (giải phẫu) học xương góc hàm
+ @angulous
+* tt
+- có góc
+ @angustifoliate  
+*  tt
+- (thực vật học) có lá hẹp
+
+@angustura   (angustura) @anharmonic
+- (Tech) phi điều hòa
+ @anharmonic
+- phi điều hoà, kép
+ @anharmonic resonance
+- (Tech) cộng hưởng phi điều hòa
+ @anhelation  
+*  dt
+- (y học) sự đoản hơi
+
+@anhelous  
+*  tt
+- (y học) đoản hơi
+
+@anholonomic
+- không hôlônôm
+ @anhydride  
+*  dt
+- (hoá học) Anhydrit
+
+@anhydrite  
+*  dt
+- (khoáng chất) thạch cao khan
+
+@anhydrobiosis
+* dt
+- sự sống thiếu nước; đời sống khan nước
+ @anhydrous  
+*  tt
+- (hoá học) khan
+
++ anhydrous salt: muối khan
+
++ anhydrous state: trạng thái khan
+
+@aniconic  
+*  tt
+- không có hình như người; không có hình như động vật (tượng thờ, hình tượng)
+
+@anicut   (annicut) @anidian
+* tt
+- (sinh học) không dạng
+ @anigh  
+*  dt & giới từ
+- gần
+
+@anil  
+*  dt
+- cây chàm
+- chất chàm (để nhuộm)
+
+@anile  
+*  tt
+- (thuộc) bà già; có tính bà già
+- ngu dại, ngu ngốc; lẩm cẩm, lẩn thẩn, lú lẫn
+
+@aniline  
+*  dt
+- (hoá học) Anilin
+
+@anilingus
+* dt
+- cách liếm đít (để kích thích)
+ @anility  
+*  dt
+- tính lẩm cẩm, tính lẩn thẩn, tính lú lẫn (của bà già)
+
+@anima
+* dt
+- (y học) bản ngã cá nhân
+ @animadversion  
+*  dt
+- sự khiển trách, sự chỉ trích, sự phê bình
+
+@animadvert  
+*  ndgt
+- ((thường) : on,  upon) khiển trách, chỉ trích, phê bình
+
++ to animadvert on someone's behavious: khiển trách thái độ của ai
+
+@animal  
+*  dt
+- động vật, thú vật
+
++ domestic animal: động vật nuôi
+
++ wild animal: động vật hoang dại
+- người đầy tính thú
+*  tt
+- (thuộc) động vật, (thuộc) thú vật
+
++ the animal kingdom: giới động vật
+- (thuộc) xác thịt
+
++ animal spirits: tính sôi nổi, tính yêu đời
+
+@Animal spirits
+- (Econ) Tinh thần bầy đàn; Tâm lý hùa theo 
+: Một cách ký giải cho ĐẦU TƯ  phản bác các mô hình toán học vì chúng ít tác dụng. Thay vào đó là phân tích đầu tư băt nguồn từ thuộc tính làm theo của các chủ doanh nghiệp. Cụm thuật ngữ này được J.M.Keynes sử dụng lần đầu tiên trong LÝ THUYẾT TỔNG QUÁT VỀ VIỆC LÀM, LÃI SUẤT VÀ TIỀN (1936). Nhưng từ đó đã được Joan Robinson phổ biến rộng rãi.
+ @animalcular  
+*  tt
+- (thuộc) vi động vật
+
+@animalcule  
+*  dt
+- vi động vật
+
+@animalise   (animalise) @animalism  
+*  dt
+- hoạt động của động vật; tính động vật, tính thú
+- nhục dục, nhục cảm
+- thuyết người là thú
+
+@animalist  
+*  dt
+- kẻ cho thuyết người là thú
+- hoạ sĩ động vật
+
+@animalistic
+- xem animalism
+ @animality  
+*  dt
+- tính động vật, tính thú
+- giới động vật
+- loài động vật
+
+@animalization  
+*  dt
+- sự động vật hoá
+- sự làm thành tính thú
+- sự hoá thành nhục dục
+
+@animalize   (animalise) @animalness
+* dt
+- tính động vật, tính thú vật
+ @animate  
+*  tt
+- có sinh khí, có sức sống
+- nhộn nhịp, náo nhiệt
+*  ngdgt
+- làm cho sống, làm cho có sinh khí
+- làm nhộn nhịp, làm náo nhiệt, làm sinh động, làm sôi nổi
+- cổ vũ, làm phấn khởi
+
+@animated  
+*  tt
+- đầy sức sống, đầy sinh khí
+- nhộn nhịp, náo nhiệt, sôi nổi
+
++ animated discussion: cuộc thảo luận sôi nổi
+- được cổ vũ, phấn khởi lên
+
+@animated cartoon  
+*  dt
+- phim hoạt hoạ
+
+@animated sequence
+- (Tech) cảnh (phim) sống động
+ @animatedly
+- xem animated
+ @animation  
+*  dt
+- lòng hăng hái, nhiệt tình; sự cao hứng, sự hào hứng
+- tính hoạt bát, sinh khí
+- sự nhộn nhịp, sự náo nhiệt, sự sôi nổi
+- (văn học) tính sinh động, tính linh hoạt
+- sự cỗ vũ
+- sự sản xuất phim hoạt hoạ
+
+@animation
+- (Tech) hoạt động tính
+ @animato  
+*  dt
+- (âm nhạc) hoạt động sôi nổi
+
+@animator  
+*  dt
+- người cổ vũ
+- (điện ảnh) hoạ sĩ phim hoạt hoạ
+
+@animator
+- (Tech) hoạt họa viên
+ @animatronics
+- (Tech) hoạt họa @animism  
+*  dt
+- (triết học) thuyết vật linh
+- thuyết duy linh (đối với duy vật)
+
+@animist  
+*  dt
+- (triết học) người theo thuyết vật linh
+- người theo thuyết duy linh
+
+@animistic  
+*  tt
+- (triết học) (thuộc) thuyết vật linh
+- (thuộc) thuyết duy linh
+
+@animosity  
+*  dt
+- sự thù oán, hận thù; tình trạng thù địch
+
++ to have animosity againts (towards) someone: thù oán ai
+
++ animosity between two nations: tình trạng thù địch giữa hai quốc gia
+
+@animus  
+*  dt
+- tinh thần phấn chấn
+- (pháp lý) ý định, động cơ, hành động
+- (như) animosity
+
+@animé  
+*  dt
+- nhựa animê (dùng làm véc-ni)
+- nhựa
+
+@anion  
+*  dt
+- (vật lý) Anion
+
+@anionic
+- xem anion
+ @anionically
+- xem anion
+ @anise  
+*  dt
+- (thực vật học) cây anit (thuộc) họ hoa tán
+
+@aniseed  
+*  dt
+- hạt anit
+
+@aniseikonia
+* dt
+- chứng hai mắt nhìn một vật thấy kích thước khác nhau
+ @anisette  
+*  dt
+- rượu anit
+
+@anisocarpous
+* tt
+- (thực vật) có lá noãn không đều
+ @anisocercal
+* tt
+- có thùy vây đuôi không đều
+ @anisochronous
+- (Tech) dị thời
+ @anisocoria
+* tt
+- đồng tử không đều
+ @anisodactylous  
+*  tt
+- (động vật học) có chân khác
+
+@anisogamete
+* dt
+- giao tử không đều
+ @anisogamic
+* tt
+- bất đẳng giao (dị giao)
+ @anisogamont
+* dt
+- sinh vật bất đẳng giao
+ @anisogamy
+* dt
+- (thực vật) hiện tượng dị giao; hiện tượng bất đẳng giao
+ @anisogene
+* dt
+- gen không đồng nhất
+ @anisogenous
+* tt
+- có gen không đồng nhất
+ @anisomeric  
+*  tt
+- (hoá học) không đồng phân
+
+@anisomerous  
+*  tt
+- (thực vật học) không cùng mẫu (số bộ phận trong các vòng của hoa không cùng mẫu, ví dụ 4 cánh, 6 nhị)
+
+@anisometric  
+*  tt
+- (vật lý) không đẳng trục
+- không đều, không cân
+
+@anisometropia  
+*  dt
+- (y học) tật chiết quang mắt không đều
+
+@anisometropic
+- xem anisometropia
+ @anisomorphic
+* tt
+- lệch hình, lệch dạng
+ @anisopetalous  
+*  tt
+- (thực vật học) không đều cánh (hoa)
+
+@anisophyllous  
+*  tt
+- (thực vật học) không đều lá
+
+@anisopia  
+*  dt
+- (y học) tật nhìn không đều, chứng dị thị
+
+@anisopleural
+* tt
+- đối xứng hai bên không đều
+ @anisoploid
+* tt
+- có số bội lẻ
+ @anisopoia
+* dt
+- (y học) tật nhìn không đều
+ @anisopolyploid
+* dt
+- thể đa bội lẻ
+ @anisopterous
+* tt
+- có cánh không đều
+ @anisospore
+* dt
+- bào tử không đều
+ @anisosyndesis
+* dt
+- sự tiếp hợp không đều
+ @anisotropic  
+*  tt
+- (vật lý) không đẳng hướng
+
+@anisotropic
+- (Tech) dị hướng
+ @anisotropic
+- không đẳng hướng
+ @anisotropically
+- xem anisotropic
+ @anisotropism
+- xem anisotropic
+ @anisotropy  
+*  dt
+- (vật lý) tính không đẳng hướng
+
+@anisotropy
+- (Tech) tính dị hướng
+ @anker  
+*  dt
+- Anke (đơn vị đong rượu bằng 37, 8625 lít ở Anh cổ,  Hoà lan,  Đan mạch,  Thụy điển,  Nga)
+- thùng anke (đựng được 37, 8625 lít rượu)
+
+@ankh  
+*  dt
+- (sử học) chữ thập chìa khoá (tượng trưng cho sự sống lâu và sinh lực ở Ai cập)
+
+@ankle  
+*  dt
+- mắt cá chân
+
++ to kick (knock) one's ankles: đi hai chân chạm mắt cá nhau
+
+@ankle-joint  
+*  dt
+- (giải phẫu) gân gót
+
+@anklet  
+*  dt
+- vòng (mang ở mắt cá chân)
+- vòng xiềng chân (tù nhân)
+- giày có cổ đến mắt cá chân
+- bít tất ngắn đến mắt cá chân
+- (số nhiều) quần thể thao thắt lại ở mắt cá chân
+
+@ankylosis
+* dt
+- chứng cứng liền khớp
+ @ankylostomiasis
+* dt
+- (y học) bệnh giun móc
+ @ankyroid
+* tt
+- dạng neo
+ @anlace
+* dt
+- kiếm ngắn
+ @anlage
+* dt
+- số nhiều anlagen hay anlages
+- (sinh học) mầm, nguyên bào
+ @anna  
+*  dt
+- đồng anna (ở Ân độ và Pa-ki-xtăng trước kia, bằng 1 qoành 6 đồng rupi)
+
+@annabergite
+* dt
+- (khoáng chất) Annabecgit
+ @annalist  
+*  dt
+- người chép sử biên niên
+
+@annalistic  
+*  tt
+- (thuộc) nhà chép sử biên niên
+
+@annals  
+*  dt số nhiều
+- (sử học) biên niên
+
+@annates  
+*  dt số nhiều
+- (sử học) thuế annat, thuế tăng lữ
+
+@annatto
+* dt
+- màu vàng đỏ
+ @anneal  
+*  ngdgt
+- (kỹ thuật) u, tôi, thấu
+- (nghĩa bóng) tôi luyện, rèn luyện
+
+@annectent  
+*  tt
+- kết hợp, để liên kết, nối
+
++ annectent link: mắt xích nối
+
+@Annecy Round
+- (Econ) Vòng đàm phán Annecy.
+: Vòng thứ hai (1949) của cuộc đàm phán thương mại theo HIỆP ƯỚC CHUNG VỀ THUẾ QUAN VÀ MẬU DỊCH (GATT).
+ @annelid  
+*  dt
+- (động vật học) giun đốt
+
+@annelida  
+*  dt số nhiều
+- (động vật học) lớp giun đót
+
+@annelidan  
+*  tt
+- (thuộc) giun đốt
+
+@annellation
+* dt
+- sự hình thành đốt, sự phân đốt
+ @annellophore
+* dt
+- cuống phân đốt (bào tử)
+ @annellospore
+* dt
+- bào tử phân đốt
+ @annex  
+*  ngdgt
+- phụ vào, phụ thêm, thêm vào
+- sáp nhập, thôn tính lãnh thổ...)
+*  dt: (annexe) 
+@annexable  
+*  tt
+- có thể phụ thêm vào, phụ lục
+- có thể sáp nhập, có thể thôn tính
+
+@annexation  
+*  dt
+- sự phụ vào; sự thêm vào
+- sự sáp nhập, sự thôn tính
+
+@annexational
+- xem annex
+ @annexationism
+- xem annex
+ @annexationist
+- xem annex
+ @annexe  
+*  ngdgt
+- phụ vào, phụ thêm, thêm vào
+- sáp nhập, thôn tính lãnh thổ...)
+*  dt: (annexe) 
+@annicut   (annicut) @annihilability
+- xem annihilate
+ @annihilable  
+*  tt
+- có thể tiêu diệt, có thể tiêu huỷ
+
+@annihilate  
+*  ngdgt
+- tiêu diệt, tiêu huỷ, huỷ diệt, thủ tiêu
+
+@annihilation  
+*  dt
+- sự tiêu diệt, sự tiêu huỷ, sự huỷ diệt, sự thủ tiêu
+- (thần thoại,thần học) sự huỷ diệt (về linh hồn và thể xác)
+
+@annihilation
+- sự linh hoá, sự làm không
+ @annihilation
+- (đại số) linh hoá tử, cái làm không
+ @annihilationism  
+*  dt
+- (tôn giáo) cho rằng linh hồn người có tội nếu không sám hối sẽ bị trầm luân)
+
+@annihilationist  
+*  dt
+- người theo thuyết tịch diệt
+
+@annihilator  
+*  dt
+- người tiêu diệt, người tiêu huỷ
+
+@annihilatory
+* tt
+- có tính chất hủy diệt
+ @anniversary  
+*  dt
+- ngày kỷ niệm; lễ kỷ niệm
+
++ anniversary of one's birth: kỷ niệm ngày sinh
+
++ anniversary of someone's death: ngày giỗ của ai
+
+@anno domini  
+*  dt
+- (viết tắt) A.D. sau công nguyên
+*  dt
+- (thông tục) tuổi già
+
+@annonaceae   (anonaceae) @annotate  
+*  dgt
+- chú giải, chú thích
+
+@annotate
+- (Tech) chú giải (đ), chú thích (đ); phụ chú (đ)
+ @annotation  
+*  dt
+- sự chú giải, sự chú thích
+- lời chú giải, lời chú thích
+
+@annotation
+- (Tech) chú giải (d), chú thích (d); phụ chú (d)
+ @annotative
+- xem annotate
+ @annotator  
+*  dt
+- người chú giải, người chú thích
+
+@announce  
+*  ngdgt
+- báo, loan báo, thông tri
+
++ to announce a piece of news: loan báo một tin tức
+
++ to announce a visitor: báo có khách
+- công bố, tuyên bố
+*  ndgt
+- đọc bản giới thiêu tin tức, đọc chương trình (ở đài phát thanh)
+- (từ Mỹ,nghĩa Mỹ) tuyên bố ra ứng cử
+
+@announcement  
+*  dt
+- lời rao, lời loan báo; cáo thị, thông cáo
+
++ announcement of a death: cáo phó
+- lời công bố, lời tuyên bố
+
+@announcer  
+*  dt
+- người loan báo, người báo tin
+- người đọc bản giới thiệu tin tức cho người đọc chương trình (ở đài phát thanh)
+
+@announcer
+- (Tech) mã tự báo tin; xướng ngôn viên
+ @annoy  
+*  ngdgt
+- làm trái ý, làm khó chịu, làm bực mình; chọc tức, làm cho tức giận
+- quấy rầy, làm phiền
+- (quân sự) quấy nhiễu, quấy rối (kẻ địch)
+*  dt
+- (thơ ca),  (từ cổ,nghĩa cổ) (như) annoyance
+
+@annoyance  
+*  dt
+- sự làm rầy, sự quấy rày, sự làm phiền
+
++ to give (cause) annoyance to somebody: làm rầy ai, làm phiền ai
+- mối phiền muộn; điều khó chịu, điều trái ý; điều bực mình
+
+@annoyed  
+*  tt
+- bị trái ý, khó chịu, bực mình
+
++ to be very much annoyed at (about) something: bực mình khó chịu về cái gì
+- bị quấy rầy, bị phiền hà
+
+@annoying  
+*  tt
+- làm trái ý, làm khó chịu, làm bực mình; chọc tức
+- quấy rầy, làm phiền
+
+@annoyingly
+- xem annoying
+ @annual  
+*  tt
+- hàng năm, năm một, từng năm
+
++ annual report: bản báo cáo hàng năm
+
++ annual ring: (thực vật học) vòng năm (cây)
+- sống một năm (cây)
+- xuất bản hàng năm (sách)
+*  dt
+- (thực vật học) cây một năm
+- tác phẩm xuất bản hàng năm
+
+@Annual allowances
+- (Econ) Miễn thuế hàng năm.
+: Xem CAPITAL ALLOWANCE.
+ @Annual capital charge
+- (Econ) Chi phí vốn hàng năm.
+: Một kỹ thuật thẩm định dự án vốn có sử dụng chiết khấu và công nhân rằng việc sử dụng vốn đòi hỏi trả tiền lãi đối với lượng vốn sử dụng và khấu hao.
+ @annually  
+*  dt
+- hàng năm, năm một
+
+@annuitant  
+*  dt
+- người có trợ cấp hàng năm
+
+@annuity  
+*  dt
+- tiền góp hằng năm, tiền trả hằng năm, tiền trợ cấp hàng năm
+
+@Annuity
+- (Econ) Niên kim.
+: Lời hứa trả một khoản nào đó mỗi thời kỳ trong một số các thời kỳ mà khoản trả cho mỗi thời kỳ là cố định.
+ @annuity
+- (toán kinh tế) niên khoản
+ @Annuity market
+- (Econ) Thị trường niên kim.
+ @annul  
+*  ngdgt
+- bỏ, bãi bỏ, huỷ bỏ, thủ tiêu
+
+@annul
+- làm triệt tiêu
+ @annulable
+* tt
+- có thể bỏ được, có thể bãi bỏ được, có thể thủ tiêu được
+ @annular  
+*  tt
+- hình vòng, hình khuyên
+
++ annular eclipse of moon: nguyệt thực hình khuyên
+
++ annular ligament: (giải phẫu) dây chằng vòng
+
+@annular
+- (Tech) hình khuyên
+ @annular
+- có hình khuyên
+ @annulary  
+*  dt
+- (giải phẫu) ngón nhẫn
+*  tt
+- thuộc ngón nhẫn
+
+@annulate   (annulated) @annulated   (annulated) @annulation  
+*  dt
+- sự kết thành vòng
+- vòng
+
+@annulet  
+*  dt
+- vòng nhỏ
+- (kiến trúc) đường viền nhỏ quanh cột
+
+@annulet
+- (đại số) linh hoá tử, cái làm không
+ @annullable  
+*  tt
+- có thể bỏ được, có thể bãi bỏ được, có thể thủ tiêu được
+
+@annulment  
+*  dt
+- sự bỏ, sự bãi bỏ, sự huỷ bỏ, sự thủ tiêu
+
+@annuloid  
+*  tt
+- dạng vòng
+
+@annulose  
+*  tt
+- (động vật học) có đốt
+
+@annulus
+* dt
+- số nhiều annuli hay annuluses
+- (sinh học) vòng; vòng nẻ; vòng tuổi (vảy cá); đốt (giun đất)
+- ngón nhẫn
+ @annulus
+- hình khuyên
+ @annunciate  
+*  ngdgt
+- công bố; loan báo, báo cho biết
+
+@annunciation  
+*  dt
+- sự công bố; sự loan báo; lời rao
+- (tôn giáo) Annunciation lễ truyền tin
+
+@annunciator  
+*  dt
+- người công bố; người loan báo, người loan tin
+- bảng tín hiệu điện báo
+
+@annunciator
+- (Tech) bộ @anoa
+* dt
+- bò hoang nhỏ (ở Xê-lép)
+ @anocarpous  
+*  tt
+- (thực vật học) mang bào tử ngọn (lá dương xỉ)
+
+@anodal  
+*  tt
+- (vật lý) (thuộc) anôt, (thuộc) cực dương
+
+@anode  
+*  dt
+- (vật lý) cực dương,  anôt
+
++ rotating anode: anôt quay
+
++ auxiliary anode: anôt phụ
+
++ main anode: anôt chính
+
++ ignition anode: anôt mồi
+
++ hollow anode: anôt rỗng
+
++ satarting anode: anôt khởi động
+
+@anode
+- (Tech) dương cực, cực dương, anôt
+ @anode
+- (Tech) battery pin dương cực
+ @anode
+- anôt, dương cực
+ @anode ray
+- (Tech) tia dương cực
+ @anode rectification
+- (Tech) chỉnh lưu ở dương cực
+ @anode shield
+- (Tech) vỏ bọc dương cực
+ @anode voltage
+- (Tech) điện áp dương cực
+ @anodic  
+*  tt
+- (vật lý) (thuộc) anôt, (thuộc) cực dương
+
+@anodontia
+* dt
+- tình trạng răng không phát triển, tật thiếu răng
+ @anodyne  
+*  tt
+- (y học) làm dịu, làm giảm đau
+- làm yên tâm, an ủi
+*  dt
+- (y học) thuốc làm dịu, thuốc giảm đau
+- điều làm yên tâm; niềm an ủi
+
+@anoesis  
+*  dt
+- (tâm lý học) trạng thái tỉnh nhưng không suy nghĩ được
+
+@anoestrous
+* dt
+- thời kỳ đình dục
+ @anoetic  
+*  tt
+- (tâm lý học) tỉnh nhưng không suy nghĩ được
+
+@anoint  
+*  ngdgt
+- xức dầu, thoa dầu, bôi dầu
+- xức dầu thánh
+
+@anointment  
+*  dt
+- sự xức dầu, sự thoa dầu, sự bôi dầu
+- lễ xức dầu thánh
+
+@anomal
+- [sự; điều] dị thường
+ @Anomaliess pay
+- (Econ) Tiền trả công bất thường.
+: Sự ngắt quãng trong mối liên kết chính thức giữa mức lương của các nhóm thương lượng khác nhau nhờ áp dụng CHÍNH SÁCH THU NHẬP.
+ @anomalistic  
+*  tt
+- (thiên văn học) (thuộc) điểm gần mặt trời nhất
+
++ anomalistic year: năm có điểm gần mặt trời nhất
+- (thuộc) điểm gần trái đất nhất
+
++ anomalistic month: tháng mặt trăng gần trái đất nhất
+
+@anomalistic
+- dị thường, phi lý
+ @anomalistically
+- xem anomaly
+ @anomalous  
+*  tt
+- bất thường, dị thường; không có quy tắc
+
+@anomalous
+- (Tech) dị thường, bất thường
+ @anomalous
+- dị thường, bất thường
+ @anomalous refraction
+- (Tech) khúc xạ dị thường
+ @anomalously
+* dt
+- bất bình thường, dị thường
+ @anomalousness  
+*  dt
+- sự bất thường, sự dị thường; sự không có quy tắc
+
+@anomaly  
+*  dt
+- sự không bình thường, sự dị thường; độ dị thường; vật dị thường, tật dị thường
+
++ gravity anomaly: (vật lý) độ dị thường của trọng lực
+- (thiên văn học) khoảng cách gần nhất (của hành tinh hay vệ tinh từ điển gần mặt trời nhất hoặc điểm gần quả đất nhất)
+
+@anomie
+- như anomy
+* dt
+- tình trạng thiếu tiêu chuẩn đạo đức; tình trạng vô tổ chức
+ @anomocarpous  
+*  tt
+- (thực vật học) có quả bất thường
+
+@anon  
+*  dt
+- không bao lâu nữa; lập tức, tức thì, tức khắc
+!ever and anon
+- thỉnh thoảng
+
+@anonaceae   (anonaceae) @anonym  
+*  dt
+- biệt hiệu, bí danh
+- người nặc danh
+
+@anonymity  
+*  dt
+- tình trạng giấu tên; tình trạng nặc danh
+
++ to retain one's anonymity: giấu tên
+
+@anonymous  
+*  tt
+- giấu tên; vô danh; nặc danh
+
++ to remain anonymous: giấu tên
+
++ an letter: lá thư nặc danh
+
+@anonymously
+* dt
+- ẩn danh, nặc danh
+ @anonymousness  
+*  dt
+- sự giấu tên; sự nặc danh
+
+@anopheles  
+*  dt
+- muỗi anôfen ((cũng) anopheles mosquito)
+
+@anopheline
+- xem anopheles
+ @anophthalmia
+* dt
+- tật thiếu mắt
+ @anopubic
+* tt
+- thuộc hậu môn-mu
+ @anorak  
+*  dt
+- áo ngoài có mũ trùm đầu (ở vùng Bắc cực)
+
+@anorectic
+* tt
+- (y học) chán ăn
+* dt
+- chứng chán ăn
+ @anorexia   (anorexia) @anorexy   (anorexia) @anorganic  
+*  tt
+- (hoá học) vô cơ
+
+@anormalous
+* tt
+- bất thường; khác thường
+ @anorthite
+* dt
+- (chất khoáng) anoctit
+ @anorthogenisis
+* dt
+- sự bất trực sinh; sự tiến hoá lắt léo
+ @anorthospiral
+* tt
+- thuộc sợi xoắn không đều
+ @anosmia  
+*  dt
+- (y học) chứng mất khứu giác
+
+@anosmic
+- xem anosmia
+ @anospinal
+* tt
+- thuộc hậu môn dây sống
+ @another  
+*  tt
+- khác
+
++ another time: lần khác
+
++ that's another matter: đó là một vấn đề khác
+- nữa, thêm... nữa
+
++ another cup of tea: một tách trà nữa
+
++ another ten years: thêm mười năm nữa
+- giống hệt, y như, chẳng khác gì, đúng là
+
++ he is another Shakespeare: anh ấy thật cứ y như Sếch-xpia
+
++ you will never see such another man: anh sẽ không bao giờ được thấy một người như thế nữa
+*  đại từ
+- người khác, cái khác; người kia, cái kia
+
++ I don't like this book, give me another: tôi không thích quyển sách này, cho tôi quyển sách khác
+
++ one way or another: bằng cách này hay bằng cách khác
+
++ one after another: lần lượt người nọ sau người kia
+
++ taken one another with: tính gộp cả cái nọ bù cái kia
+- người cùng loại, vật cùng loại; người hệt như, vật hệt như
+
++ you will never see much another: anh sẽ không bao giờ được thấy một người như thế nữa (một vật như thế nữa)
+!one another
+- lẫn nhau
+
++ love one another: hãy yêu thương lẫn nhau
+
+@anourous   (anurous) @anoxaemia   (anoxia) @anoxia   (anoxia) @anoxic
+- xem anoxia
+ @anphabetic(al)
+- (thuộc) chữ cái
+ @ansate  
+*  tt
+- có quai
+
+@anschluss
+* dt
+- liên minh chính trị (chủ yếu giữa Đức và Ao năm 1939)
+ @anserine  
+*  tt
+- (thuộc) loài ngỗng, như loài ngỗng
+- ngu si, đần độn, ngớ ngẩn
+
+@ansi
+- (vt của America National Standards Institute)Viện các tiêu chuẩn quốc gia Mỹ
+ @ansiform
+* dt
+- dạng quai
+ @answer  
+*  dt
+- sự trả lời; câu trả lời; thư trả lời; lời đối đáp
+
++ to give an answer to somebody about something: trả lời ai về việc gì
+
++ in answer to someone's letter: để trả lời thư của ai
+
++ to know all the answers: đối đáp nhanh, lúc nào cũng sẵn câu đối đáp
+- điều đáp lại, việc làm đáp lại
+- lời biện bác, lời biện bạch
+- (thể dục,thể thao) miếng đánh trả (đấu kiếm)
+- (toán học) phép giải; lời giải
+*  dgt
+- trả lời, đáp lại; thưa
+
++ to answer [to] someone: trả lời ai
+
++ to answer [to] someone's question: trả lời câu hỏi của ai
+
++ to answer to the name of X: thưa khi gọi tên là X
+
++ to answer the door: ra mở cửa
+- biện bác
+
++ to answer a charge: biện bác chống lại một sự tố cáo
+- chịu trách nhiệm; đảm bảo, bảo lãnh
+
++ to answer for one's action: chịu trách nhiệm về những hành động của mình
+
++ to answer for someone: bảo đảm cho ai
+- xứng với, đúng với, đáp ứng
+
++ to answer [to] one's hopes: đúng với (đáp ứng) nguyện vọng của mình
+
++ to answer [to] one's expectation: xứng với điều mong muốn của mình
+- thành công có kết quả
+
++ his plan won't answer: kế hoạch của nó sẽ không thành
+!to answer back
+- (thông tục) cãi lại
+
+@answer
+- (Tech) trả lời, đáp; nhận
+ @answer back
+- (Tech) hồi đáp, báo nhận, trả lời lại
+ @answer mode
+- (Tech) kiểu trả lời
+ @answer phone
+* dt
+- máy tự động trả lời điện thoại (Mỹ)
+ @answer signal
+- (Tech) tín hiệu trả lời
+ @answer tone
+- (Tech) báo âm, âm hiệu trả lời
+ @answerability
+- xem answerable
+ @answerable  
+*  tt
+- có thể trả lời được
+- có thể biện bác, có thẻ cãi lại được
+- (toán học) có thể giải được
+
++ an answerable problem: bài toán có thể giải được
+- chịu trách nhiệm, bảo đảm, bảo lãnh
+
++ to be answerable for...: chịu trách nhiệm về...
+- (từ cổ,nghĩa cổ) đáp ứng, xứng với, đúng với, hợp với
+
++ results not answerable to hopes: kết quả không đáp ứng hy vọng
+
+@answerableness
+- xem answerable
+ @answerably
+- xem answerable
+ @answerer  
+*  dt
+- người trả lời, người đáp lại
+
+@answering equipment
+- (Tech) thiết bị @answering machine
+- (Tech) máy trả lời (điện thoại)
+ @answerphone
+* dt
+- máy tự động trả lời các cú điện thoại và ghi lại mọi thông báo của người gọi; máy tự động trả lời điện thoại (Mỹ)
+ @an't  
+*  (viết tắt) của am not khoành is not,  are not
+
+@ant  
+*  dt
+- (động vật học) con kiến
+
++ red (wood) ant: kiến lửa
+
++ winged ant: kiến cánh
+
++ white ant: con mối
+
+@anta
+* dt
+- số nhiều antae
+- (kiến trúc) cột góc
+ @antacid  
+*  tt
+- (y học) làm giảm độ axit, chống axit
+
+@antagonise   (antagonise) @antagonism  
+*  dt
+- sự phản đối; sự phản kháng
+
++ to come into antagonism with someone: phản đối ai
+- sự đối lập, sự tương phản, sự đối kháng
+
++ antagonism between two theories: sự đối lập nhau giữa hai thuyết
+- nguyên tắc đối lập
+
+@antagonist  
+*  dt
+- địch thủ, người đối lập, người phản đối; vật đối kháng
+- (giải phẫu) cơ đối vận
+
+@antagonistic  
+*  tt
+- trái ngược, nghịch; đối lập, đối kháng, tương phản
+
+@antagonistically
+* dt
+- trái ngược, tương phản
+ @antagonize   (antagonise) @antalgic  
+*  tt
+- (y học) chống đau
+
+@antalkali  
+*  dt
+- (hoá học) chất chống kiềm
+
+@antalkaline  
+*  tt
+- (hoá học) làm giảm độ kiềm, chống kiềm
+
+@antapex
+* dt
+- đỉnh ngược
+ @antapex
+- đối đỉnh
+ @antaphrodisiac  
+*  tt
+- chế ngự tình dục
+*  dt
+- (y học) thuốc chế dục
+
+@antarctic  
+*  tt
+- (thuộc) Nam cực; (thuộc) phương nam; ở về phía Nam cực
+
++ Antarctic Pole: Nam cực
+
++ Antarctic Circle: đường vĩ 66o32' nam
+
+@antarctic circle
+- vòng Nam cực, đường vự tuyến 66 độ 30 Nam
+ @antarthritic  
+*  tt
+- (y học) chữa bệnh viêm khớp
+*  dt
+- (y học) thuốc viêm khớp
+
+@antasthmatic  
+*  tt
+- (y học) chữa bệnh suyễn
+
+@ant-bear  
+*  dt
+- thú ăn kiến lớn
+
+@ant-catcher   (ant-thrush) @ante  
+*  dt
+- (đánh bài) số tiền tổ trước (đánh xì)
+*  ngdgt
+- (đánh bài) đặt tiền tổ trước (đánh xì)
+- đánh cược, đánh cuộc
+- thanh toán (nợ)
+
+@ante
+- (lý thuyết trò chơi) mở (bài); tiền đặt (trong văn bản)
+ @ante meridiem  
+*  dt
+- (viết tắt) a.m. về buổi sáng, trước ngọ
+
++ 10 a.m.: 10 giờ sáng
+
+@anteapical
+* tt
+- ngược đỉnh, đối đỉnh; đối ngọn
+ @ant-eater  
+*  dt
+- (động vật học) loài thú ăn kiến
+
+@ante-bellum  
+*  tt
+- trước chiến tranh
+- (từ Mỹ,nghĩa Mỹ) trước nội chiến
+
+@antebrachial
+* tt
+- thuộc tay; chi trước
+ @antebrachium
+* dt
+- tay; chi trước
+ @antecedence  
+*  dt
+- tình trạng ở trước
+- quyền ở trước, quyền được trước, quyền ưu tiên
+- (thiên văn học) sự đi ngược
+
+@antecedence
+- (logic học) tiền kiện
+ @antecedent  
+*  dt
+- vật ở trước, vật ở trước, vật đứng trước
+- (văn học) tiền đề
+- (toán học) số hạng đứng trước (của một tỷ số)
+- (triết học) tiền kiện
+- (ngôn ngữ học) tiền ngữ, mệnh đề đứng trước
+- (số nhiều) lai lịch, quá khứ, tiền sử (người)
+
++ to inquire into someone's antecedents: điều tra lai lịch của ai
+
++ a man of shady antecedents: người lai lịch không rõ ràng
+*  tt
+- ở trước, đứng trước, về phía trước
+
++ to be antecedent to something: trước cái gì
+- tiền nghiệm
+
+@antecedent
+- (Tech) tiền kiện, tiền đề, tiền lệ
+ @antecedently
+- xem antecedent
+ @antechamber  
+*  dt
+- phòng ngoài
+
+@antechoir
+* dt
+- bộ phận trước chỗ đồng ca
+ @anteclypeus
+* dt
+- mảnh gốc môi trước
+ @antecoxa
+* dt
+- mảnh trước háng
+ @antecoxal
+* tt
+- thuộc mảnh trước háng
+ @antecubital
+* tt
+- trước khủyu; trước gân trụ (cánh)
+ @antedate  
+*  dt
+- ngày tháng để lùi về trước
+
+@antediluvian  
+*  tt
+- trước thời kỳ hồng thuỷ
+- (thông tục) cổ, cũ kỹ, hoàn toàn không hợp thời
+*  dt
+- người cũ kỹ, người cổ lỗ
+- ông lão, người già khụ
+- vật cũ kỹ, vật cổ lỗ sĩ (không hợp thời)
+
+@antedisplacement
+* dt
+- sự chuyển vị trí lên trước
+ @antedorsal
+* tt
+- trước lưng
+ @antefrons
+* dt
+- mảnh trước trán; mảnh kề trán
+ @ant-eggs  
+*  dt số nhiều
+- trứng kiến
+
+@antehill
+* dt
+- tổ kiến
+ @antelabrum
+* dt
+- mảnh trước môi
+ @antelocation
+* dt
+- sự chuyển vị trí lên trước
+ @antelope  
+*  dt
+- (động vật học) loài linh dương
+
+@antemarginal
+* tt
+- trước mép (lá)
+ @antemeridian  
+*  tt
+- (thuộc) buổi sáng
+
+@antemetics
+* dt số nhiều
+- thuốc chống nôn
+ @ante-mortem  
+*  tt
+- trước khi chết
+
+@antemundane  
+*  tt
+- trước lúc khai thiên lập địa
+
+@antenatal  
+*  tt
+- trước khi sinh, trước khi đẻ
+
+@antenatally
+- xem antenatal
+ @antenna   (antennae) @antenna
+- (Tech) ăngten, dây trời
+ @antenna
+- anten
+- umbrella a. (kỹ thuật) anten đo 
+ @antenna adapter
+- (Tech) bộ phối thích anten @antenna aperture
+- (Tech) khẩu độ ănten
+ @antenna array
+- (Tech) giàn ăngten
+ @antenna cable
+- (Tech) cáp ăngten
+ @antenna coil
+- (Tech) cuộn dây ăngten
+ @antenna coupler
+- (Tech) bộ ghép ăngten
+ @antenna dome
+- (Tech) vòm ăngten
+ @antenna feeder
+- (Tech) dây tiếp sóng ăngten
+ @antenna field gain
+- (Tech) tăng ích trường ăngten
+ @antenna gain
+- (Tech) gia lượng ăngten 
++  aerial gain
+ @antenna impedance
+- (Tech) trở kháng ăngten
+ @antenna mast
+- (Tech) cột ăngten
+ @antenna reflector
+- (Tech) bộ phản xạ ăngten
+ @antenna resistance
+- (Tech) điện trở ăngten
+ @antenna rod
+- (Tech) thanh ăngten
+ @antenna tower
+- (Tech) tháp ăngten
+ @antennae   (antennae) @antennal   (antennal) @antennary   (antennal) @antennifer
+* dt
+- hốc anten; hốc râu
+ @antenniform  
+*  tt
+- hình râu
+- hình anten
+
+@antennule  
+*  dt
+- râu nhỏ (của loài tôm...)
+
+@antenuptial  
+*  tt
+- sinh trước khi cưới; xảy ra trước khi cưới
+
+@antependium  
+*  dt
+- màn che bàn thờ
+
+@antepenult   (antepenultimate) @antepenultimate   (antepenultimate) @anteposition
+* dt
+- vị trí trên
+ @ante-post  
+*  tt
+- đánh cá trước (trước khi số người chạy hoặc ngựa thi được niêm yết)
+
+@anteprandial  
+*  tt
+- trước bữa ăn
+
+@anterior  
+*  tt
+- ở trước, đằng trước, phía trước
+- trước
+
+@anteriority  
+*  dt
+- tình trạng ở trước
+- tình trạng trước
+
+@anteriorly
+- xem anterior
+ @anterodorsal
+* tt
+- trước lưng
+ @anterolateral
+* tt
+- trước bên
+ @ante-room  
+*  dt
+- phòng trước, phòng ngoài
+- (quân sự) phòng khách (ở nơi ăn cơm của sĩ quan)
+
+@anteroom
+* dt
+- phòng dẫn vào một phòng khác lớn hơn hoặc quan trọng hơn; phòng chờ
+ @anteroposterior
+* tt
+- trước sau; xếp dọc
+ @antesternite
+* dt
+- mảnh gốc ức
+ @ante-war  
+*  tt
+- trước chiến tranh
+
+@ant-fly  
+*  dt
+- kiến cánh (dùng làm mồi câu)
+
+@ant-heap   (ant-heap) @antheap
+* dt
+- tổ kiến
+ @anthela
+* dt
+- cụm hoa sim
+ @anthelia   (anthelion) @anthelion   (anthelion) @anthelmintic  
+*  tt
+- trừ giun, trừ sán
+*  dt
+- (y học) thuốc giun, thuốc sâu
+
+@anthem  
+*  dt
+- bài hát ca ngợi; bài hát vui
+
++ national anthem: bài quốc ca
+- (tôn giáo) bài thánh ca
+
+@anther  
+*  dt
+- (thực vật học) bao phấn
+
+@antheral  
+*  tt
+- (thực vật học) (thuộc) bao phấn
+
+@anther-dust  
+*  dt
+- phấn hoa
+
+@antheridium  
+*  dt
+- (thực vật học) túi đực
+
+@antheriferous  
+*  tt
+- (thực vật học) có bao phấn
+
+@antherless
+* tt
+- (thực vật) không bao phấn
+ @antherlobe
+* tt
+- (thực vật) thùy bao phấn
+ @antherophore
+* dt
+- (thực vật) cuống túi đực
+ @antherozoid
+* dt
+- cũng antherozooid
+- tinh trùng phấn
+ @anthesis  
+*  dt
+- (thực vật học) sự nở hoa
+
+@ant-hill   (ant-heap) @anthocarpous
+* tt
+- (thực vật) có quả tụ
+ @anthocyanin  
+*  dt
+- (thực vật học) Antoxian (chất sắc)
+
+@anthodium
+* dt
+- (thực vật) cụm hoa dạng đầu
+ @anthological
+- xem anthology
+ @anthologist  
+*  dt
+- người soạn hợp tuyển (văn học),  (thơ ca)
+
+@anthologize  
+*  ngdgt
+- soạn thành hợp tuyển ((văn học),  (thơ ca))
+- xuất bản thành hợp tuyển ((văn học) (thơ ca))
+
+@anthology   (florilegium) @anthony  
+*  dt
+- st anthony thần của những người nuôi lợn
+- con lợn nhỏ nhất trong lứa
+- (st) anthony's fire (y học) viêm quầng
+
+@anthophagy
+* dt
+- sự sống bằng ăn hoa
+ @anthophilous
+* tt
+- (động vật) thích hoa, kiếm ăn ở hoa
+ @anthophily
+* dt
+- tính thích hoa
+ @anthophore
+* dt
+- cuống hoa
+ @anthophyte
+* dt
+- thực vật có hoa
+ @anthozoa  
+*  dt số nhiều
+- san hô
+
+@anthracene  
+*  dt
+- (hoá học) antraxen
+
+@anthraces  
+*  dt,  số nhiều anthraces
+- (y học) cụm nhọt
+- bệnh than
+
+@anthracic  
+*  tt
+- (y học) (thuộc) bệnh than
+
+@anthraciferous  
+*  tt
+- có antraxit
+
+@anthracite  
+*  dt
+- antraxit
+
+@anthracitic  
+*  tt
+- (thuộc) antraxit
+
+@anthracitous  
+*  tt
+- có antraxit; như antraxit
+
+@anthracnose
+* dt
+- (thực vật) bệnh loét (cây)
+ @anthracoid  
+*  tt
+- (y học) dạng than
+
+@anthrax  
+*  dt,  số nhiều anthraces
+- (y học) cụm nhọt
+- bệnh than
+
+@anthrochorous
+* tt
+- phát tán do người
+ @anthrop
+- (dạng kết hợp) về người
+ @anthropeic
+* tt
+- do ảnh hưởng của người
+ @anthropic
+- Cách viết khác : anthropical 
+ @anthropocentricity
+* dt
+- hiện tượng lấy người làm trung tâm
+ @anthropocentrism  
+*  dt
+- thuyết loài người là trung tâm
+
+@anthropochorous
+* tt
+- phát tán do người
+ @anthropogenesis
+* dt
+- việc nghiên cứu nguồn gốc loài người
+ @anthropogenetic
+* dt
+- chịu tác động của con người
+
++  anthropogenetic ecosystems:các hệ sinh thái chịu tác động của con người
+ @anthropogeny  
+*  dt
+- môn nguồn gốc loài người
+
+@anthropography  
+*  dt
+- địa lý nhân văn
+
+@anthropoid  
+*  tt
+- dạng người
+
++ anthropoid ape: vượn người
+*  dt
+- vượn người
+
+@anthropoidal
+- xem anthropoid
+ @anthropological  
+*  tt
+- (thuộc) nhân loại học
+
+@anthropologically
+- xem anthropology
+ @anthropologist  
+*  dt
+- nhà nhân loại học
+
+@anthropology  
+*  dt
+- nhân loại học
+
+@anthropometric   (anthropometrical) @anthropometrical   (anthropometrical) @anthropometrically
+- xem anthropometry
+ @anthropometrist
+- xem anthropometry
+ @anthropometry  
+*  dt
+- phép đo người
+
+@anthropomorphic  
+*  tt
+- (thuộc) thuyết hình người
+
+@anthropomorphically
+- xem anthropomorphism
+ @anthropomorphise   (anthropomorphise) @anthropomorphism  
+*  dt
+- thuyết hình người
+
+@anthropomorphist  
+*  dt
+- người theo thuyết hình người
+
+@anthropomorphize   (anthropomorphise) @anthropomorphous  
+*  tt
+- giống hình người
+
+@anthropophagi  
+*  dt số nhiều
+- những kẻ ăn thịt người
+
+@anthropophagous  
+*  tt
+- ăn thịt người
+
+@anthropophagy  
+*  dt
+- tục ăn thịt người
+
+@anthropophilous
+* tt
+- ưa người, gần người
+ @anthropophily
+* dt
+- tính ưa người, gần người
+ @anthropophyte
+* dt
+- cây theo người, cây gần người
+ @anti
+* giới từ
+- chống lại
+- tiền tố
+- đối lập, chống lại
+- ngược, trái với
+- phòng ngừa
+ @antiacoustic
+- phản tụ quang
+ @anti-administrative
+* tt
+- phản hành chính
+ @antiagression
+* tt
+- phản xâm lăng
+ @antiaircraft  
+*  tt
+- phòng không, chống máy bay
+
++ antiaircraft gun: súng bắn máy bay, súng cao xạ
+
++ antiaircraft shelter: hầm phòng không
+*  dt
+- súng bắn máy bay, súng phòng không, súng cao xạ
+
+@anti-aircraft
+* tt
+- phòng không
+ @antiaircrafter  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (quân sự) người bắn máy bay, người bắn súng cao xạ
+
+@anti-alcoholism  
+*  dt
+- sự chống uống nhiều rượu
+
+@antialiasing
+- <tin> khử răng cưa, chống răng cưa (tự động khử bỏ hoặc giảm bớt méo dạng răng cưa (hoặc bậc thang) trong các hình đồ họa do máy tính tạo ra)
+ @antialien
+* tt
+- bài ngoại
+ @antiallergic
+* tt
+- chống dị ứng
+* dt
+- thuốc trị dị ứng
+ @anti-american
+- tình từ
+- chống lại Hoa Kỳ; chống Mỹ
+ @anti-americanism  
+*  dt
+- chủ nghĩa chống Mỹ
+
+@antianemic
+* tt
+- chống thiếu máu
+ @antianxiety
+* dt
+- thuốc an thần
+ @antiapartheid
+* tt
+- chống lại tệ phân biệt chủng tộc
+ @antiapex
+* dt
+- gốc (thực vật không rễ)
+ @antiar  
+*  dt
+- (thực vật học) cây sui
+- chất độc nhựa sui
+
+@antiarrhythmic
+* tt
+- chống lại chứng loạn nhịp tim
+ @antiarthritic
+* tt,  n
+- chống bệnh viêm khớp
+ @antiauthoritarian
+* tt,  n
+- chống sự độc đoán
+ @anti-automorphism
+- phản tự đẳng cấu
+- involutorial a. phản tự đẳng cấu đối hợp 
+ @antiauxin
+* dt
+- chất kháng auxin
+ @anti-ballistic missile
+* dt
+- tên lửa chống tên lửa đạn đạo (ABM)
+ @antibiblical
+* tt
+- chống lại thánh kinh
+ @antibilious  
+*  tt
+- dùng để tránh buồn bực, dùng để chống bực dọc
+
+@antibiosis  
+*  dt
+- sự kháng sinh
+
+@antibiotic  
+*  tt
+- kháng sinh
+*  dt
+- thuốc kháng sinh
+
+@antibiotically
+- xem antibiotic
+ @antibody   (immune_body) @anti-boreal
+* tt
+- thuộc phương Nam, ở Nam bán cầu
+ @anti-bourgeois
+* dt
+- người chống tư sản
+ @antibrachial
+* tt
+- thuộc chi trước; tay
+ @antibrachium
+* dt
+- chi trước; tay
+ @anti-bureaucratic
+* tt
+- chống quan liêu
+ @antiburglar
+* tt
+- chống trộm cắp
+ @antic  
+*  dt
+- ((thường) số nhiều) trò hề, trò cười
+
++ to play (ferform) one's antics: làm trò hề
+- (từ cổ,nghĩa cổ) anh hề; người hay khôi hài
+
+@antically
+- xem antic
+ @anticancer
+- Cách viết khác : anticancerous 
+ @anticancerous
+- như anticancer
+ @anticapacitance switch
+- (Tech) công tắc kháng điện dung
+ @anticapitalism
+* dt
+- chủ nghĩa chống tư bản
+ @anticapitalist
+* tt
+- chống chủ nghĩa tư bản
+* dt
+- người chống chủ nghĩa tư bản
+ @anticapitalistic
+* tt
+- chống tư bản chủ nghĩa
+ @anticarcinogenic
+* tt
+- chống chất sinh ung thư
+ @anticatalyst
+* dt
+- chất chống xúc tác
+- chất kìm hãm xúc tác
+ @anticathode
+- (Tech) đối âm cực
+ @anticatholic  
+*  tt
+- chống đạo Thiên chúa
+*  dt
+- người chống đạo Thiên chúa
+
+@anticensorship
+* dt
+- việc chống kiểm duyệt
+ @antichain
+- (đại số) dây chuyền ngược, phản xích
+ @antichist
+* dt
+- kẻ thù chúa Giê-xu
+- ngụy cơ đốc
+ @anticholeraic  
+*  tt
+- phòng chống bệnh tả, trừ tả
+*  dt
+- thuốc trừ tả
+
+@anticholinergic
+* tt
+- chống tác động kiểu colin
+ @anticholinesterase
+* dt
+- chất chống cholinexteraza
+ @antichrist  
+*  dt
+- kẻ chống Giê-xu, kẻ thù của Giê-xu
+
+@antichristian  
+*  tt
+- chống đạo Cơ đốc
+
+@antichristianism  
+*  dt
+- thuyết chống đạo Cơ đốc
+
+@antichurch
+* tt
+- chống lại nhà thờ
+ @anticigarette
+* tt
+- chống thuốc lá
+ @anticipant  
+*  dt
+- người thấy trước, người biết trước, người đoán trước, người dè trước
+- người làm trước
+- người mong đợi, người chờ đợi
+
+@anticipatable
+- xem anticipate
+ @anticipate  
+*  ngdgt
+- dùng trước, hưởng trước
+- thấy trước, biết trước, đoán trước; dè trước, chặn trước, liệu trước, lường trước
+
++ to anticipate somebody's wishes: đoán trước được ý muốn của ai
+- làm trước; nói trước
+- làm cho nhanh, làm cho chóng, thúc đẩy
+
++ to anticipate someone's ruin: thúc đẩy sự suy sụp của ai, làm cho ai chóng suy sụp
+- thảo luận trước, xem xét trước
+- mong đợi, chờ đợi
+
+@anticipate
+- thấy trước vấn đề, đoán trước
+ @Anticipated inflation
+- (Econ) Lạm phát được dự tính.
+: Xem EXPECTED INFLATION.
+ @anticipation  
+*  dt
+- sự dùng trước, sự hưởng trước
+- sự thấy trước, sự biết trước, sự đoán trước; sự dè trước, sự chặn trước, sự liệu trước, sự lường trước
+
++ thanking you in anticipation: xin cám ơn ông trước (dùng ở cuối thư)
+
++ to save in anticipation of the future: tiết kiệm để dành cho tương lai
+- sự làm trước; sự nói trước
+- sự thúc đẩy
+- sự mong đợi, sự hy vọng, sự chờ đợi
+- (y học) sự xảy ra trước lúc, sự xảy ra trước kỳ hạn bình thường
+- (âm nhạc) âm sớm
+
+@anticipative  
+*  tt
+- làm trước; nói trước
+- trước lúc, trước kỳ hạn
+- mong đợi, chờ đợi
+
++ to be anticipative of something: mong đợi cái gì
+
+@anticipatively
+- xem anticipative
+ @anticipator  
+*  dt
+- người dùng trước, người hưởng trước
+- người đoán trước, người dè trước
+
+@anticipatory  
+*  tt
+- dùng trước
+- nói trước
+- trước kỳ hạn
+
+@anticlerical  
+*  tt
+- chống giáo hội
+
+@anticlericalism  
+*  dt
+- thuyết chống giáo hội
+
+@anticlimactic  
+*  tt
+- hạ xuống từ cực điểm
+
+@anticlimactically
+- xem anticlimax
+ @anticlimax  
+*  dt
+- sự hạ xuống từ cực điểm; sự giảm xuống
+- vật thêm vào làm giảm tác dụng
+- (văn học) phép thoái dần
+
+@anticlinal  
+*  tt
+- (địa lý,địa chất) (thuộc) nếp lồi
+
+@anticline  
+*  dt
+- (địa lý,địa chất) nếp lồi
+
+@anti-clockwise  
+*  dt
+- đi ngược chiều kim đồng hồ
+
+@anticlockwise
+- (Tech) ngược chiều kim đồng hồ
+ @anticlockwise
+- ngược chiều kim đồng hồ
+ @anticoagulant
+* dt
+- thuốc chống đông tụ
+ @anticoincidence
+- (Tech) chống trùng hợp
+ @anticollineation
+- phép phản cộng tuyến
+ @anticollision
+* dt
+- sự chống va chạm
+ @anticollision radar
+- (Tech) radda phòng chống đụng nhau
+ @anticolonial
+* tt
+- chống thực dân
+* dt
+- người chống thực dân
+ @anticolonialism
+* dt
+- lý thuyết chống chủ nghĩa thực dân
+ @anticommercialism
+* dt
+- thuyết chống thương nghiệp
+ @anticommunism
+* dt
+- thuyết chống chủ nghĩa cộng sản
+ @anticommutative
+- phản giao hoán
+ @anticommutator
+- phán hoán tử
+ @anticonscription
+* dt
+- việc chống chế độ quân sự, bắt buột tòng quân
+ @anticonservation
+* dt
+- việc chống lại sự duy trì cái cũ
+ @anti-constitutional  
+*  tt
+- trái với hiến pháp, phản hiến pháp
+
+@anticonsumerism
+* dt
+- chủ trương chống thuyết tiêu thụ
+ @anticonvulsive
+* dt
+- thuốc chống co giật; thuốc trị co giật
+ @anticorelation
+- phép phản tương hỗ
+ @anticorporate
+* tt
+- chống lại đoàn thể
+ @anticorrosion
+* dt
+- việc chống gặm mòn
+ @anticorrosive
+- (Tech) chống ăn mòn
+ @anticorruption
+* dt
+- việc chống tham nhũng
+ @anticosine
+- accosin
+ @anticruelty
+* tt
+- chống sự tàn ác
+ @anticyclone  
+*  dt
+- (khí tượng) xoáy nghịch
+
+@anticyclone
+- đối xiclon
+ @anticyclonic  
+*  tt
+- (thuộc) xoáy nghịch
+
+@antidazzle  
+*  tt
+- không làm loá mắt (đèn pha)
+
+@antidepressant
+* dt
+- thuốc chống suy nhược
+ @antidepressive
+- xem antidepressant
+ @antiderivative
+- nguyên hàm, tích phân không định hạng
+ @antidiarrheal
+* dt
+- thuốc trị bệnh tiêu chảy
+ @antidissident
+* tt
+- chống lại sự bất đồng ý kiến
+* dt
+- người chống lại sự bất đồng ý kiến
+ @antidiuretic
+* tt
+- chống lợi tiểu
+* dt
+- thuốc chống lợi tiểu
+ @antidotal  
+*  tt
+- giải độc
+
+@antidotally
+- xem antidote
+ @antidote  
+*  dt
+- thuốc giải độc
+- (nghĩa bóng) cái trừ tà
+
+@antidromic
+* tt
+- (sinh học) ngược dòng, ngược chiều
+ @antidumping
+* tt
+- chống phá giá hàng hoá
+ @antiecclesiastical
+* tt
+- chống giáo hội
+ @antielitism
+* dt
+- thuyết chống tinh hoa luận
+ @antiemetic
+* dt
+- thuốc chống nôn mửa
+ @antiendotoxic
+* tt
+- kháng độc nội tố
+ @antienzyme
+* dt
+- chất kháng men; antienzim
+ @antiepileptics
+* dt số nhiều
+- thuốc chống động kinh
+ @antieries
+- (thống kê) chuỗi ngược
+ @antiesonance
+- phản cộng hưởng
+ @Anti-export bias
+- (Econ) Thiên lệch  @antifading
+- (Tech) chống phai mờ
+ @anti-fascism  
+*  dt
+- chủ nghĩa chống phát xít, tư tưởng chống phát xít
+
+@antifascism
+* dt
+- chủ nghĩa chống phát xít, lý thuyết chống phát xít
+ @anti-fascist  
+*  tt
+- chống phát xít
+*  dt
+- người chống phát xít
+
+@antifascist
+* tt
+- chống chủ nghĩa phát xít
+* dt
+- người chống chủ nghĩa phát xít
+ @antifebrile  
+*  tt
+- giải nhiệt; hạ sốt
+*  dt: (antifebrin) 
+@antifebrin  
+*  tt
+- giải nhiệt; hạ sốt
+*  dt: (antifebrin) 
+@antifebrine  
+*  tt
+- giải nhiệt; hạ sốt
+*  dt: (antifebrin) 
+@antifederalist
+* tt
+- người chống thuyết liên bang
+ @antifeminism
+* dt
+- thuyết chống nam nữ bình quyền
+ @antifeminist
+* tt
+- chống thuyết nam nữ bình quyền
+* dt
+- người chống thuyết nam nữ bình quyền
+ @antiferment  
+*  dt
+- chất kháng men
+
+@antiferroelectric
+- (Tech) chất phản thiết điện; thuộc phản thiết điện (tt)
+ @antiferromagnetic
+- (Tech) chất phản thiết từ; thuộc phản thiết từ (tt)
+ @antifertility
+* tt
+- chống sự sinh sản quá nhanh (của động vật)
+ @antifibrillatory
+* tt
+- chống rung tim
+ @antifoaming
+* tt
+- chống sủi bọt
+ @antifogging
+* tt
+- chống sương mù
+ @antiforeign  
+*  tt
+- bài ngoại
+
+@antiform
+- phản dạng
+ @anti-fouling  
+*  tt
+- chống gỉ, phòng bẩn
+
++ anti-fouling paint: sơn chống gỉ; sơn phòng bẩn
+
+@antifouling
+* tt
+- chống gỉ; chống bẩn
+ @antifraud
+* tt
+- chống gian lận
+ @antifreeze  
+*  dt
+- (kỹ thuật) hoá chất chống đông
+
+@anti-friction  
+*  tt
+- (kỹ thuật) chịu mài mòn, giảm mài xát
+
+@antifriction
+* tt
+- chống ma sát; giảm ma sát
+ @antifundamentalist
+* tt
+- chống trào lưu tôn giáo chính thống (chỉ tin vào (kinh thánh))
+* dt
+- người chống trào lưu tôn giáo chính thống
+ @antigambling
+* tt
+- chống cờ bạc
+ @antigen  
+*  dt
+- kháng nguyên
+
+@antigenic
+- xem antigen
+ @antigenically
+- xem antigen
+ @antigenicity
+- xem antigen
+ @antigenus
+- đối giống
+ @antigeny
+* dt
+- tính lưỡng hình sinh dục
+ @antiglare
+- (Tech) chống phản chiếu, chống lóa
+ @antiglobulin
+* dt
+- chất kháng globulin
+ @anti-government  
+*  tt
+- chống chính phủ
+
+@antigravity
+* dt
+- khả năng chống trọng lực
+* tt
+- có khả năng chống trọng lực
+ @antigropelos  
+*  dt số nhiều
+- xà cạp không thấm nước
+
+@antigrowth
+* tt
+- chống sự sinh trưởng
+ @antiguerilla
+* tt
+- chống du kích
+ @antihaemophilic
+* tt
+- (y học) chống ưa chảy máu
+ @antiharmonic
+- phi điều hoà
+ @antihemorrhagic
+* tt
+- chống chảy máu
+ @anti-hero
+* dt
+- nhân vật phản diện
+ @antihero
+* dt
+- nam nhân vật phản diện
+ @antiheroine
+* dt
+- nữ nhân vật phản diện
+ @antihierachical
+* tt
+- chống tôn ty
+ @anti-histamine
+* dt
+- <y> một trong nhiều dạng thuốc dùng để chữa dị ứng
+ @antihistamine
+* dt
+- (y học) thuốc kháng histamin
+ @antihomomorphism
+- phản đồng cấu
+ @antihomosexual
+* tt
+- chống tình dục đồng tính
+ @antihormone
+* dt
+- kháng hoocmôn; kháng nội tiết
+ @antihum
+- (Tech) chống ù @antihuman
+* tt
+- phản nhân đạo, phản nhân văn
+ @antihumanism
+* dt
+- thuyết chống chủ nghĩa nhân văn
+ @antihumanitarian
+* tt
+- chống chủ nghĩa nhân đạo
+* dt
+- người chống chủ nghĩa nhân đạo
+ @antihunting
+- chống dao động, làm ổn định
+ @antihypertensive
+* tt
+- chống chứng tăng huyết áp
+ @antihypnotic
+* tt
+- chống ngủ
+* dt
+- thuốc chống ngủ
+ @anti-icer  
+*  dt
+- máy chống đóng băng; chất chống đóng băng
+
+@anti-icing
+* tt
+- chống đóng băng
+ @anti-imperialism  
+*  dt
+- chủ nghĩa chống đế quốc
+
+@anti-imperialist  
+*  tt
+- chống đế quốc
+*  dt
+- người chống đế quốc
+
+@antiinduction
+- (Tech) chống cảm ứng
+ @anti-infective
+* tt
+- chống lây nhiễm
+ @anti-inflammatory
+* dt
+- thuốc kháng viêm; thuốc chống viêm
+ @anti-interference
+- (Tech) chống nhiễu
+ @anti-isomorphism
+- phản đẳng cấu
+ @antijamming  
+*  dt
+- (rađiô) sự chống nhiễu
+*  tt
+- rađiô chống nhiễu
+
+@antijamming
+- (Tech) chống nhiễu 
++  anti-interference
+ @anti-jamming
+* dt
+- (radio) sự chống nhiễu
+* tt
+- chống nhiễu
+ @anti-knock
+* dt
+- chất thêm vào nhiên liệu xe máy, để ngăn hay làm giảm tiếng trong động cơ
+ @antileft
+* tt
+- chống hữu
+ @antileprosy
+* tt
+- chống hủi, chống bệnh phong
+ @antiliberal
+* tt
+- chống chủ nghĩa tự do
+ @antiliberalism
+* dt
+- thuyết chống chủ nghĩa tự do
+ @antiliteracy
+* dt
+- chống việc học chữ
+ @antiliturgical
+* tt
+- chống nghi thức tế lễ
+ @antilobium
+* dt
+- gờ loa tai
+ @antilog
+* dt
+- xem antilogarithm
+ @antilogarithm  
+*  dt
+- (toán học) đối loga
+
+@antilog(arithm)
+- (Tech) đối đối số, đối loga
+ @antilogarithm
+- đối lôga
+ @antilogarithmic
+- xem antilogarithm
+ @antilogous  
+*  tt
+- mâu thuẫn về ý nghĩa, trước sau mâu thuẫn
+
+@antilogy  
+*  dt
+- ý nghĩa mâu thuẫn
+
+@antimacassar  
+*  dt
+- áo ghế, vải bọc ghế
+
+@antimagnetic  
+*  tt
+- phân từ, kháng từ
+
+@antimagnetic
+- (Tech) phản từ (tính)
+ @antimalarial  
+*  tt
+- (y học) chống sốt rét
+*  dt
+- (y học) thuốc chống sốt rét
+
+@antimalarian
+* tt
+- chống sốt rét
+* dt
+- thuốc chống sốt rét
+ @antimask   (antimask) @antimasque   (antimask) @antimaterialism
+* dt
+- thuyết chống chủ nghĩa duy vật
+ @antimaterialist
+* dt
+- người chống chủ nghĩa duy vật
+* tt
+- phản duy vật, chống duy vật
+ @antimatter
+* dt
+- phản vật chất
+ @antimech   (antimechanized) @antimechanized   (antimechanized) @antimephitic  
+*  tt
+- trừ xú khí, trừ khí độc
+*  dt
+- thuốc trừ xú khí, thuốc trừ khí độc
+
+@antimere
+* dt
+- đốt đối xứng; đoạn đối xứng
+ @antimicrobial
+* tt
+- chống vi trùng
+* dt
+- thuốc chống vi trùng
+ @antimicrobics
+* dt số nhiều
+- thuốc kháng vi sinh vật
+ @antimicrophonic
+- (Tech) chống hiệu ứng ống nói @antimilitarism  
+*  dt
+- chủ nghĩa chống quân phiệt
+
+@antimilitarist  
+*  tt
+- chống quân phiệt
+*  dt
+- người chống quân phiệt
+
+@antimiotic
+* tt
+- (sinh học) ức chế gián phân; kìm hãm gián phân
+* dt
+- chất có tác dụng ức chế gián phân
+ @anti-missile  
+*  tt
+- (quân sự) chống tên lửa
+
+@antimissile
+* tt
+- (quân sự) chống tên lửa
+ @antimode
+- (Tech) đối mốt, đối kiểu, đối loại, mốt ngược
+ @antimode
+- (xác suất) antimôt (điểm cực tiểu của mật độ phân phối)
+ @antimonarchical  
+*  tt
+- chống quân chủ
+
+@antimonarchist  
+*  dt
+- người chống quân chủ
+
+@antimonate  
+*  dt
+- (hoá học) antimonat
+
+@antimonial  
+*  tt
+- (thuộc) antimon
+
+@antimonic  
+*  tt
+- (hoá học) Antimonic
+
++ antimonic acid: axit antimonic
+
+@antimonious  
+*  tt
+- (hoá học) antimono
+
++ antimonious acid: axit antimonơ
+
+@antimonopolist
+* tt
+- chống độc quyền
+* dt
+- người chống độc quyền
+ @antimony  
+*  dt
+- (hoá học) antimon
+
+@antimorph
+* dt
+- dạng ngược hình; gen đối
+ @antimorphic
+* tt
+- đối hình; ngược hình
+ @antimosquito
+* tt
+- chống muỗi
+ @antimutagenes
+* dt
+- chất kháng đột biến
+ @antimutation
+* dt
+- sự kháng đột biến
+ @antimycin
+* dt
+- kháng thể
+ @antimycotic
+* tt
+- chống nấm
+ @antinarcotic
+* tt
+- chống mê ngủ
+ @antinationlist
+* dt
+- người theo chủ nghĩa phản dân tộc
+* tt
+- phản dân tộc chủ nghĩa
+ @anti-nazi
+* tt
+- chống quốc xã
+ @antineoplastic
+* tt
+- chống ung thư
+ @antineuritic
+* tt
+- chống viêm thần kinh
+ @antineutron  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) phản nơtron
+
+@antinode
+- (Tech) bụng sóng
+ @antinode
+- bụng
+ @antinoise
+- (Tech) chống ồn
+ @antinomian
+* dt
+- ngườii chống đạo lý
+* tt
+- chống đạo lý
+ @antinomianism
+* dt
+- thuyết chống đạo lý
+ @antinomic   (antinomical) @antinomical   (antinomical) @antinomy  
+*  dt
+- mâu thuẫn trong luật pháp; mâu thuẫn giữa hai luật pháp
+- sự xung đột về quyền binh
+- sự tương phản, sự tự mâu thuẫn
+
+@antinomy
+- nghịch lý
+ @antiobscenity
+* tt
+- sự chống khiêu dâm, tục tĩu
+ @antiorganization
+* dt
+- sự chống tổ chức
+ @antioxydant
+* dt
+- chất chống oxy hoá
+* tt
+- chống oxy hoá
+ @antipacifist
+* tt
+- chống chủ nghĩa hoà bình
+* dt
+- người chống chủ nghĩa hoà bình
+ @antipapal
+* tt
+- chống giáo hoàng
+ @antiparallelogram
+- hình thang cân
+ @antiparasitic
+- (Tech) chống tạp âm
+ @antiparty
+* tt
+- chống đảng
+ @antipasto
+* dt
+- số nhiều antipastos
+- món đồ nguội khai vị của ý
+ @antipathetic   (antipathetical) @antipathetical   (antipathetical) @antipathetically
+- xem antipathetic
+ @antipathic  
+*  tt
+- có ác cảm
+
++ to be antipathic to someone: có ác cảm với ai
+- (y học) gây nên những triệu chứng trái ngược (thuộc)
+
+@antipathogen
+* dt
+- thể chống gây bệnh
+ @antipathogenic
+* tt
+- chống sự gây bệnh
+ @antipathy  
+*  dt
+- ác cảm
+
+@antipepsin
+* dt
+- chất kháng nguyên
+ @antiperiodic  
+*  tt
+- (y học) phòng bệnh phát lại có định kỳ
+*  dt
+- (y học) thuốc phòng bệnh phát lại có định kỳ
+
+@anti-personnel  
+*  tt
+- (quân sự) sát thương
+
++ anti-personnel bombs: bom sát thương
+
+@antipersonnel
+* tt
+- (quân sự) sát thương
+
++  Antipersonnel bombs:Bom sát thương
+ @anti-perspirant
+* dt
+- chất chống đổ mồ hôi
+ @antiperspirant
+* dt
+- chất chống chảy nhiều mồ hôi
+ @antiphase
+- (Tech) đối vị tướng, đối pha
+ @antiphase pumping
+- (Tech) bơm đối vị tướng, bơm đối pha
+ @antiphlogistic  
+*  tt
+- chống viêm
+*  dt
+- thuốc chống viêm
+
+@antiphon  
+*  dt
+- bài thánh ca, bài tụng ca
+
+@antiphonal  
+*  tt
+- hát đối
+*  dt
+- (như) antiphonary
+
+@antiphonally
+- xem antiphonal
+ @antiphonary  
+*  dt
+- sách thánh ca
+
+@antiphony  
+*  dt
+- bài thánh ca
+- bài hát đối
+- tiếng vang, tiếng dội
+
+@antiphrasis  
+*  dt
+- phản ngữ, câu ngược ý
+
+@antipodal   (antipodean) @antipodal
+- (đại số) xuyên tâm đối, đối xứng qua tâm
+ @antipodal
+- (đại số) sự xuyên tâm đối xứng, đối xứng qua tâm
+ @antipode  
+*  dt
+- sự đối lập hoàn toàn, sự tương phản tuyệt đối
+- (địa lý,địa chất) (số nhiều) điểm đối chân
+
+@antipodean   (antipodean) @antipodes
+* dt số nhiều
+- (địa lý) vùng đất đối chân
+ @antipoison  
+*  dt
+- thuốc giải độc
+
+@antipole  
+*  dt
+- cực đối
+- sự đối lập hoàn toàn
+
+@antipollution
+* dt
+- sự chống ô nhiễm
+ @antipope  
+*  dt
+- giáo hoàng đối cử (được bầu ra để đối lập với giáo hoàng được chọn theo đúng luật lệ của giáo hội)
+
+@antipopular  
+*  tt
+- phản dân, hại dân
+
+@antipornography
+* tt
+- sự chống khiêu dâm
+ @antiprofiteering
+* tt
+- phản trục lợi, chống đầu cơ
+ @antiprogressive
+* tt
+- phản tiến bộ
+ @antiprohibitionist  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người phản đối sự cấm rượu
+
+@antiprojectivity
+- phép phản xạ ảnh
+ @antiprostitution
+* tt
+- chống mại dâm
+ @anti-protestant
+* tt
+- chống tin lành
+* dt
+- người chống tin lành
+ @antiproton  
+*  dt
+- (vật lý) Antiproton, phãn proton
+
+@antipruritic
+* dt
+- thuốc trị ngứa
+ @antipsychiatry
+* dt
+- phản tâm thần học
+ @antiputrescent
+* tt
+- chống thối rữa
+ @antipyresis
+- xem antipyretic
+ @antipyretic  
+*  tt
+- giải nhiệt, hạ sốt
+*  dt
+- thuốc sốt
+
+@antipyrin   (antipyrine) @antipyrine   (antipyrine) @antiquarian  
+*  tt
+- (thuộc) khảo cổ học
+*  dt
+- (như) antiquary
+- người bán đồ cổ
+
++ antiquarian's shop: hàng bán đồ cổ
+- khổ giấy vẽ 134x79 cm
+
+@antiquarianism  
+*  dt
+- nghề buôn bán đồ cổ
+- tính thích đồ cổ
+
+@antiquarianize  
+*  ndgt
+- khảo cổ
+- sưu tầm đồ cổ, chơi đồ cổ
+
+@antiquary  
+*  dt
+- nhà khảo cổ
+- người sưu tầm đồ cổ, người chơi đồ cổ
+
+@antiquate  
+*  ngdgt
+- làm cho thành cổ
+- làm cho không hợp thời
+- bỏ không dùng vì không hợp thời
+
+@antiquated  
+*  tt
+- cổ, cổ xưa, cũ kỹ
+- không hợp thời
+
+@antiquatedness
+- xem antiquated
+ @antiquation
+- xem antiquate
+ @antique  
+*  tt
+- cổ, cổ xưa; theo lối cổ, theo kiểu cổ
+- lỗi thời, không hợp thời
+*  dt
+- đồ cổ
+
++ antique dealer: người bán đồ cổ
+- tác phẩm mỹ thuật cổ
+- (the antique) phong cách nghệ thuật cổ
+
++ to draw from the antique: vẽ theo phong cách nghệ thuật cổ
+
+@antiquely  
+*  dt
+- theo lối cổ
+- theo phong cách nghệ thuật cổ
+
+@antiqueness  
+*  dt
+- tình trạng cổ
+- tình trạng lỗi thời
+
+@antiquity  
+*  dt
+- tình trạng cổ xưa
+- đời xưa
+- người đời xưa, cổ nhân
+- (số nhiều) đồ cổ, tác phẩm mỹ thuật đời xưa; di tích cổ
+- (số nhiều) phong tục đời xưa, việc đời xưa
+
+@anti-rabic  
+*  tt
+- phòng bệnh dại
+
+@antirabic
+* tt
+- phòng bệnh dại
+ @antirachitic  
+*  tt
+- chống còi xương
+
+@antiradar device
+- (Tech) thiết bị chống radda
+ @antiradical
+- (đại số) đối căn
+ @anti-red-tape  
+*  tt
+- chống quan liêu giấy tờ
+
+@antireflection coating
+- (Tech) lớp sơn chống phản xạ
+ @anti-religious  
+*  tt
+- chống tôn giáo
+
+@antirepresentation
+- phép phản biểu diễn
+ @anti-republican  
+*  tt
+- chống chế độ cộng hoà
+*  dt
+- người chống chế độ cộng hoà
+
+@antirepublican
+* tt
+- chống chế độ cộng hoà
+ @antiresonance
+- (Tech) chống cộng hưởng
+ @antirevolutionary  
+*  tt
+- phản cách mạng
+*  dt
+- kẻ phản cách mạng
+
+@antirights
+* tt
+- phản quyền lợi
+ @antiriot
+* tt
+- chống bạo loạn
+ @antiritualism
+* dt
+- chủ nghĩa chống nghi thức
+ @antirolling
+- (Tech) chống quấn rối
+ @antiromantic
+* dt
+- người chống chủ nghĩa lãng mạn
+* tt
+- chống lãng mạn
+ @antiroyalist
+* dt
+- người chống bảo hoàng
+* tt
+- chống bảo hoàng
+ @antirrhinum  
+*  dt
+- (thực vật học) cây hoa mõm chó
+
+@anti-rust  
+*  tt
+- chống gỉ
+*  dt
+- chất chống gỉ
+
+@antirust
+* tt
+- chống gỉ
+ @antiscorbutic  
+*  tt
+- chống scobut
+*  dt
+- thuốc chữa scobut
+
+@antiscriptural  
+*  tt
+- chống kinh thánh
+
+@antisegregation
+* tt
+- chống việc phân chia thành nhóm riêng
+ @anti-semite  
+*  tt
+- (như) anti-Semitic
+*  dt
+- người thù ghét Do thái, người bài Do thái
+
+@anti-semitic  
+*  tt
+- chủ nghĩa bài Do thái
+
+@anti-semiticsm  
+*  dt
+- chủ nghĩa bài Do thái
+
+@anti-semitism
+* dt
+- chủ nghĩa bài Do thái
+ @antisepsis  
+*  dt
+- sự khử trùng
+
+@antiseptic  
+*  tt
+- khử trùng
+*  dt
+- chất khử trùng
+
+@antiseptically
+- xem antiseptic
+ @antiserum
+* dt
+- huyết thanh miễn dịch
+ @antisidetone
+- (Tech) chống nội âm [điện thoại]
+ @antisine
+- acsin
+ @antiskid  
+*  tt
+- (kỹ thuật) không trượt
+
+@anti-slavery  
+*  dt
+- sự chống chế độ nô lệ
+
+@antislip
+* tt
+- chống trượt; chống tuột
+ @antisocial  
+*  tt
+- phản xã hội
+
+@antisocialist  
+*  tt
+- chống chủ nghĩa xã hội
+*  dt
+- người chống chủ nghĩa xã hội
+
+@antisocially
+- xem antisocial
+ @antispasmodic
+* dt
+- thuốc trị co thắt
+ @antisquama
+* dt
+- vảy kề gốc cánh
+ @antistatic
+- chống tựnh điện
+ @antistatic mat
+- (Tech) thảm chống tĩnh điện
+ @antisterility
+* dt
+- tính chống vô sinh
+ @antistrophe  
+*  dt
+- hồi khúc
+
+@antistrophic  
+*  tt
+- (thuộc) hồi khúc
+
+@antistrophically
+- xem antistrophe
+ @antistyle
+* dt
+- mấu gốc lông cứng
+ @anti-submarine  
+*  tt
+- chống tàu ngầm
+
+@antisubmarine
+* tt
+- chống tàu ngầm
+ @antisubstance
+* dt
+- chất kháng
+ @antisudorific  
+*  tt
+- (y học) chống đổ mồ hôi
+*  dt
+- (y học) thuốc chống đổ mồ hôi
+
+@antisymmetric
+* tt
+- (toán) phản đối xứng
+ @antisymmetric
+- phản xứng
+ @antisymmetrization
+- phản xứng hoá
+ @antisymmetry
+* dt
+- (toán) sự phản đối xứng
+ @antitagent
+- actang
+ @anti-tank  
+*  tt
+- chống (xe) tăng
+
++ anti-tank gun: súng chống tăng
+
+@antitank
+* tt
+- chống xe tăng
+ @antitax
+* tt
+- chống thuế
+ @antitegula
+* dt
+- vảy kề gốc cánh
+ @antiterrorism
+* dt
+- chính sách chống khủng bố
+ @antitetanic  
+*  tt
+- chống uốn ván
+*  dt
+- thuốc chống uốn ván
+
+@antitetanus
+* tt
+- chống bệnh uốn ván
+ @antitheism  
+*  dt
+- thuyết vô thần
+
+@antitheist  
+*  dt
+- người vô thần; người theo thuyết vô thần
+
+@antitheses  
+*  dt,  số nhiều antitheses 
+@antithesis  
+*  dt,  số nhiều antitheses 
+@antithesis
+- mâu thuẫn, phản (luận) đề
+ @antithetic   (antithetical) @antithetical   (antithetical) @antithetic(al)
+- mâu thuẫn, phản (luận) đề
+ @antithetically
+* dt
+- tương phản, đối lại
+ @antithrombin
+* dt
+- chất chống đông máu
+ @antithyroid
+* tt
+- chống hoạt động quá nhiều của hạch tuyến giáp
+ @antitobacco
+* tt
+- chống thuốc lá
+ @antitone
+- đs phản tự
+ @antitorpedo  
+*  tt
+- chống ngư lôi
+
+@antitotalitarian
+* tt
+- chống cực quyền, chống chuyên chế
+ @antitoxic  
+*  tt
+- trừ độc, tiêu độc
+
+@antitoxin  
+*  dt
+- (y học) kháng độc tố
+
+@anti-trade  
+*  tt
+- thổi ngược lại gió alizê
+*  dt
+- gió ngược gió alizê
+
+@antitrade
+* tt
+- thổi ngược lại gió alizê
+* dt
+- gió ngược lại gió alizê
+ @antitrinitarian  
+*  tt
+- chống thuyết ba ngôi một thể
+*  dt
+- người chống thuyết ba ngôi một thể
+
+@antitrust  
+*  tt
+- (thương nghiệp) chống lại các tờ rớt, chống độc quyền
+
+@Anti-trust
+- (Econ) Chống lũng đoạn.
+: Một cụm thuật ngữ của Mỹ chỉ hệ thống pháp luật nhằm kiểm soát sự tăng trưởng quyền lực đối với thị trường của các hãng. Cụm thuật ngữ này không chỉ liên quan tới chính sách chống độc quyền mà cả các hoạt động kìm hãm của các hãng riêng lẻ, các nhóm công ty hợp nhất (Tờrớt) và nhóm các công ty cộng tác (Catel).
+ @antitubercular  
+*  tt
+- (y học) chống lao
+
+@antitumour
+- Cách viết khác : antitumoural 
+ @antitussive
+* tt
+- chống ho
+* dt
+- thuốc chống ho
+ @antitype  
+*  dt
+- vật được tượng trưng
+
+@antityphoid  
+*  tt
+- chống thương hàn
+
+@antitypical
+- xem antitype
+ @antiunemployment
+* dt
+- sự chống thất nghiệp
+ @antiunion
+* tt
+- chống hợp nhất
+ @antivenene  
+*  dt
+- thuốc giải độc
+- thuốc chữa rắn cắn
+
+@antivenin
+* dt
+- thuốc chữa rắn cắn
+ @antivibration
+- (Tech) chống rung
+ @antiviolence
+* tt
+- chống bạo lực
+* dt
+- sự chống bạo lực
+ @antiviral  
+*  tt
+- chống virut
+
+@antivirulent
+* tt
+- chống độc
+ @antivirus
+- chống virus (một trình tiện ích được biên soạn để kiểm tra và khử bỏ các virus máy tính)
+ @antivivisection
+* dt
+- sự chống mổ xẻ sống
+ @antiwar  
+*  tt
+- chống chiến tranh
+
+@antiwhite
+* tt
+- chống da trắng
+ @antiwrinkle
+* tt
+- chống vết nhăn
+ @anti-zionist
+* tt
+- chống chủ nghĩa phục quốc (Do Thái)
+ @antizionist
+* dt
+- người chống chủ nghĩa phục quốc (DoThái)
+ @antler  
+*  dt
+- gạc (hươu, nai)
+- nhánh gạc (hươu, nai)
+
+@antlered  
+*  tt
+- có gạc
+- có nhánh (gạc)
+
+@ant-lion  
+*  dt
+- (động vật học) kiến sư tử
+
+@antonomasia  
+*  dt
+- (văn học) phép hoán xưng
+
+@antonym  
+*  dt
+- từ trái nghĩa
+
+@antonymic
+- xem antonym
+ @antonymous
+- xem antonym
+ @antonymy
+- xem antonym
+ @antra  
+*  dt,  số nhiều antra 
+@antral
+- xem antrum
+ @antre  
+*  dt
+- (từ cổ,nghĩa cổ),  (thơ ca) hang động
+
+@antrum  
+*  dt,  số nhiều antra 
+@ant-thrush   (ant-thrush) @antwerp  
+*  dt
+- loại bồ câu actec ((cũng) antwerp pigeon)
+
+@anura  
+*  dt số nhiều
+- (động vật học) bộ không đuôi
+
+@anuria
+* dt
+- bệnh khó đái
+ @anuroid
+* tt
+- dạng không đuôi
+ @anurous   (anurous) @anury  
+*  dt
+- (y học) bệnh không đái, bệnh vô niệu
+
+@anus  
+*  dt
+- (giải phẫu) hậu môn, lỗ đít
+
+@anuual
+- hằng năm
+ @anvil  
+*  dt
+- cái đe
+- (giải phẫu) xương đe
+
++ to be on the anvil: đang làm, đang xem xét, đang nghiên cứu
+!a good anvil does not fear the hammer
+- (tục ngữ) cây ngay không sợ chết đứng
+!anvil chorus
+- (từ Mỹ,nghĩa Mỹ) tiếng đồng thanh la hò của những người phản đối
+
+@anvil-beak  
+*  dt
+- mũi đe
+
+@anvil-bed   (anvil-block) @anvil-block   (anvil-block) @anxiety  
+*  dt
+- mối lo, mối lo âu, mối băn khoăn; sự lo lắng
+
++ to be in a state of mortal anxiety: lo chết đi được
+- lòng ước ao, lòng khao khát; sự khắc khoải
+
++ to have an anxiety for something: ước ao cái gì
+
++ to have an anxiety to do something: ước ao làm gì
+
+@anxious  
+*  tt
+- áy náy, lo âu, lo lắng, băn khoăn
+
++ to be anxious about something: lo âu, áy náy về cái gì
+
++ to be anxious for someone: lo lắng cho ai
+- ước ao, khao khát; khắc khoải
+
++ to be anxious for sommething: khát khao điều gì
+
++ to be anxious to do something: ước ao làm gì
+- đáng lo ngại, nguy ngập
+
++ an anxious moment: lúc nguy ngập
+
++ an anxious state of affairs: sự tình đáng lo ngại
+
++ to be on the anxious seat (bench): bồn chồn sốt ruột như ngồi trên đống lửa
+
+@anxiously  
+*  dt
+- áy náy, lo âu, lo lắng, băn khoăn
+
+@anxiousness
+- xem anxious
+ @any  
+*  tt
+- một, một (người, vật) nào đó (trong câu hỏi)
+
++ have you any book(s)?: anh có quyển sách nào không?
+- tuyệt không, không tí nào (ý phủ định)
+
++ I haven't any penny: tôi tuyệt không có đồng xu nào
+
++ to prevent any casualtry: tránh không bị thương tổn
+- bất cứ (ý khẳng định)
+
++ at any time: vào bất cứ lúc nào
+
++ you may ask any person about it: anh có thể hỏi bất cứ người nào về việc ấy
+*  đại từ
+- một, một người nào đó, một vật nào đó (trong câu hỏi)
+
++ is there any of them there?: có ai trong bọn họ ở đây không?
+- không chút gì, không đứa nào (ý phủ định)
+
++ I cannot find any of them: tôi không tìm thấy một đứa nào trong bọn chúng
+- bất cứ vật gì, bất cứ ai (ý khẳng định)
+
++ choose any of these books: anh có thể chọn bất cứ quyển nào trong những quyển sách này
+*  dt
+- một, chút nào, một tí nào (trong câu phủ định, câu hỏi dạng so sánh)
+
++ is that any better?: cái đó có khá hơn chút nào không?
+
++ I can't speak any plainer: tôi không thể nói rõ hơn được nữa
+- hoàn toàn
+
++ it did not matter any: vấn đề hoàn toàn không đáng kể; việc hoàn toàn chẳng có nghĩa lý gì
+
+@any
+- bất kỳ
+ @anybody  
+*  dt
+- (thông tục) một người nào đó
+
++ two or three anybodies: hai hoặc ba người nào đó
+*  đại từ
+- người nào, ai
+
++ is there anybody there?: có ai ở đó không?
+- bất kỳ ai, bất cứ ai
+
++ anybody else: bất kỳ người nào khác
+
++ he is not doing anybody any harm: hắn không làm hại gì cho ai cả
+
++ anybody would think him mad: bất kỳ ai cũng tượng nó điên
+- một người ít nhiều quan trọng
+
+@anyhow   (anyway) @anymore
+- (Mỹ) nữa
+ @anyone  
+*  đại từ
+- người nào, ai
+- bất cứ người nào, bất cứ ai
+
+@anyplace
+* dt
+- giống anywhere
+ @anything  
+*  dt & đại từ
+- vật gì, việc gì (trong câu phủ định và câu hỏi)
+
++ have you anything to drink?: anh có gì để uống không?
+
++ is there anything to do?: có việc gì làm không?
+
++ he doesn't do anything: hắn không làm gì hết
+
++ without doing anything whatever: không làm một việc gì hết
+- bất cứ việc gì, bất cứ vật gì (trong câu khẳng định)
+
++ anything you like: bất cứ cái gì mà anh thích
+
++ anything else: bất cứ vật nào khác
+
++ if anything should happen to him: nếu có việc gì xảy ra cho nó
+
++ anything but: là bất cứ cái gì chỉ trừ; không... chút nào
+
++ he is anything but a coward: hắn có thể là bất cứ cái gì chỉ trừ là một thằng hèn
+
++ he is anything but good: hắn không tốt chút nào
+
++ if anything: có thể, có lẽ, có thế chăng
+
++ if anything, he is worse than yesterday: có thể là sức khoẻ của anh ta hôm nay còn kém hôm qua
+!like anything
+- (thông tục) hết sức, vô cùng, cực kỳ
+
++ to run like anything: chạy hết tốc lực
+
++ to work like anything: làm việc hết sức mình
+
+@anytime
+- bất cứ lúc nào
+ @anyway   (anyway) @anywhere  
+*  dt
+- bất kỳ chỗ nào, bất cứ nơi đâu
+
++ place it anywhere you like: anh thích để nó ở đâu thì để
+
++ anywhere else: ở bất cứ nơi nào khác
+
+@anywise  
+*  dt
+- tuỳ tiện thế nào cũng được, cách nào cũng được
+- tuyệt đối, tuyệt nhiên (trong câu phủ định)
+
+@anzac  
+*  dt
+- (số nhiều) binh đoàn An-giắc (binh đoàn Uc và Tân tây lan trong đại chiến I)
+- lính An-giắc
+*  tt
+- (thuộc) các binh đoàn An-giắc (ngày 25 tháng 4, kỷ niệm ngày đạo binh An-giắc đặt chân lên bán đảo Ga-li-po-li 25 4 1915)
+
+@

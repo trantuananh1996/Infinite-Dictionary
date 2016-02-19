@@ -1,0 +1,127 @@
+@gnarl  
+*  dt
+- (thực vật học) mấu, đầu mấu
+
+@gnarled   (gnarly) @gnarly   (gnarly) @gnash  
+*  ngdgt
+- nghiến (răng)
+
++ to gnash one's teeth: nghiến răng (vì giận)
+*  ndgt
+- nghiến răng
+
+@gnashers
+* dt
+- <thgt> răng
+ @gnashing  
+*  dt
+- sự nghiến răng
+
+@gnat  
+*  dt (động vật học)
+- muỗi nhỏ, muỗi mắt
+- (từ Mỹ,nghĩa Mỹ) ruồi nhuế
+!to train at a gnat
+- (xem) strain
+
+@gnathal
+* tt; cũng gnathic
+- thuộc hàm
+ @gnathic  
+*  tt
+- (thuộc) hàm
+
+@gnatty
+* tt
+- xem gnat chỉ thuộc về
+ @gnaw  
+*  dgt
+- gặm, ăn mòn
+
++ to gnaw [at, into] something: gặm cái gì
+
++ to gnaw into a metal: ăn mòn kim loại (axit)
+- cào (ruột) (đói)
+- giày vò, day dứt
+
+@gnawer  
+*  dt
+- động vật gặm nhắm
+
+@gnawing  
+*  dt
+- sự gặm nhắm, sự ăn mòn
+- sự cào (ruột, vì đói)
+- sự giày vò, sự day dứt
+
++ the gnawings of conscience: sự day dứt của lương tâm
+*  tt
+- gặm, ăn mòn
+- cào (ruột)
+- giày vò, day dứt
+
+@gneiss  
+*  dt
+- (khoáng chất) đá gơnai
+
+@gneissic
+* tt
+- <khoáng> (thuộc) đá gơnai; như đá gơnai
+- có đá gơnai
+ @gneissis  
+*  tt
+- (khoáng chất) (thuộc) đá gơnai; như đá gơnai
+- có đá gơnai
+
+@gneissoid  
+*  tt
+- dạng đá gơnai
+
+@gneissose
+* tt
+- dạng đá gơnai
+ @gneissy  
+*  tt
+- có đá gơnai
+- như đá gơnai
+
+@gnome  
+*  dt
+- châm ngôn
+- (thần thoại,thần học) thần lùn giữ của
+
+@gnomic   (gnomical) @gnomical   (gnomical) @gnomically
+* dt
+- bí ẩn, thâm sâu
+ @gnomish  
+*  tt
+- như thần lùn giữ của
+
+@gnomon  
+*  dt
+- cột đồng hồ mặt trời
+
+@gnomon
+- cọc đo giờ, cọc đồng hồ mặt trời
+ @gnosis  
+*  dt
+- sự ngộ đạo
+
+@gnostic  
+*  tt
+- ngộ đạo
+
+@gnosticism  
+*  dt
+- thuyết ngộ đạo
+
+@GNP
+- (Econ) Tổng sản phẩm quốc dân.
+: Xem GROSS NATIONAL PRODUCT.
+ @gnp
+- (vt của Gross National Product) tổng sản lượng quốc gia
+ @gnu  
+*  dt
+- (động vật học) linh dương đầu bò
+
+@

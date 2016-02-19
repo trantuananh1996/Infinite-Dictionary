@@ -1,0 +1,259 @@
+@jib  
+*  dt
+- (hàng hải) lá buồm tam giác (ở mũi tàu, thuyền)
+- (kỹ thuật) cần máy trục, cần nhấc
+!the cut of one's jib
+- dáng vẻ bề ngoài
+*  dgt
+- (hàng hải) trở (buồm)
+*  ndgt
+- đứng sững lại; giật lùi lại không chịu đi tiếp (ngựa...)
+- không chịu làm, lẩn tránh (việc gì)
+- (jib at) ghê tởm, gớm ghét, không thích
+
++ to jib at somebody: tỏ ý ghét ai
+
++ to jib at something: tỏ ý ghê tởm cái gì
+
+@jib door  
+*  dt
+- cửa làm bằng với mặt tường (và sơn đồng màu để không phân biệt được)
+
+@jibba(h)
+* dt
+- áo dài rộng (của người Ai cập)
+ @jibber  
+*  dt
+- ngựa bất kham, ngựa hay trở chứng (không chịu đi...)
+
+@jib-boom  
+*  dt
+- ((hàng hải)) sào căng buồm tam giác (ở mũi tàu, thuyền)
+
+@jib-crane  
+*  dt
+- cần trục xoay
+
+@jibe  
+*  dt & dgt (như) gibe
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) phù hợp, hoà hợp, đi đôi với nhau
+
++ words and actions do not jibe: lời nói và việc làm không đi đôi với nhau
+
+@jiff   (jiffy) @jiffy   (jiffy) @jig  
+*  dt
+- điệu nhảy jig
+- nhạc (cho điệu nhảy) jig
+!the jig was up
+- hết hy vọng, hết đường
+*  ndgt
+- nhảy điệu jig
+- nhảy tung tăng
+
++ to jig up and down: nhảy tung tăng
+*  ngdgt
+- làm cho nhảy tung tăng; tung lên tung xuống nhanh
+
++ to jig a baby [up and down] on one's knees: tung tung một em bé lên đầu gối
+*  dt
+- (kỹ thuật) đồ gá lắp, khuôn dẫn (khoan)
+- máy sàng, sàng (quặng, khoáng chất)
+*  ngdgt
+- (kỹ thuật) lắp đồ gá lắp, lắp khuôn dẫn (khoan)
+- sàng (quặng, khoáng chất)
+
+@jigger  
+*  dt
+- người nhảy điệu jig
+
+@jiggered  
+*  dt
+- người sàng quặng; máy sàng quặng
+- (hàng hải) buồm nhỏ; palăng nhỏ để kéo buồm
+- (thể dục,thể thao) gậy sắt (để đánh gôn)
+*  tt
+- suột, gió, quái ác, chết tiệt
+
++ I'm jiggered!: mình thật khỉ quá
+
+@jigger-mast  
+*  dt
+- (hàng hải) cột buồm chót (của thuyền bốn buồm)
+
+@jiggery-pokery  
+*  dt
+- (thông tục) âm mưu đen tối
+- trò lừa phỉnh, trò lừa gạt
+
+@jiggle  
+*  dt
+- động tác đưa đẩy nhẹ, cái xóc xóc nhẹ, cái lắc lắc nhẹ
+*  ngdgt
+- đưa đẩy nhẹ, xóc xóc nhẹ, lắc lắc nhẹ
+
+@jiggly
+- xem jiggle
+ @jigsaw  
+*  dt
+- (kỹ thuật) cưa xoi
+!jigsaw puzzle
+- trò chơi lắp hình
+
+@jihad   (jehad) @jill  
+*  dt,  (cũng) Jill  @jilt  
+*  dt
+- kẻ tình phụ, kẻ bỏ rơi người yêu ((thường) nói về người đàn bà)
+*  ngdgt
+- tình phụ, bỏ rơi người yêu
+
+@jim crow  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) (như) Jim-crowism
+- (từ Mỹ,nghĩa Mỹ), ghuộm (án) đen
+- (định ngữ) dành cho người da đen, phân biệt chủng tộc đối với người Mỹ da đen
+
++ jim_crow policy: chính sách phân biệt chủng tộc đối với người Mỹ da đen
+
+@jim-crow  
+*  dt
+- cái nắn thắng (thanh sắt hoặc đường ray)
+
+@jim-crowism  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) chế độ phân biệt chủng tộc đối với người da đen
+
+@jim-dandy  
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cừ nhất, xuất sắc
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cái cừ nhất, cái xuất sắc (trong những cái cùng loại)
+
+@jim-jams  
+*  dt số nhiều (từ lóng)
+- chứng mê sảng rượu
+- (từ Mỹ,nghĩa Mỹ) (như) jitter
+
+@jimmy
+* dt
+- (từ Mỹ, nghĩa Mỹ) xà beng; đòn bẩy (để nạy)
+* ngdgt
+- lấy xà beng để nạy
+ @jimp  
+*  tt (Ớ-cốt)
+- mảnh dẻ, thanh thanh, dong dỏng
+- duyên dáng
+- nghèo nàn, ít ỏi
+
+@jimson-weed  
+*  dt
+- (thực vật học) cây cà độc dược
+
+@jin
+* dt
+- như Chin
+* dt
+- như Chin
+ @jingle  
+*  dt
+- tiếng leng keng (chuông nhỏ); tiếng xủng xoảng (của những đồng xu...)
+- sự lặp âm (cốt để gợi sự chú ý)
+- câu thơ nhiều âm điệp; câu thơ có nhiều vần điệp
+- Ai-len,  Uc xe hai bánh có mui
+*  ngdgt
+- rung leng keng (chuông nhỏ, nhạc ngựa...); xóc xủng xoảng (chùm chìa khoá, những đồng xu trong túi...)
+
+@jingly
+- xem jingle
+ @jingo  
+*  dt,  số nhiều jingoes
+- phần tử sô-vanh hiếu chiến
+!by jungo!
+- trời ơi!, thế à! (tỏ ý ngạc nhiên, để nhấn mạnh một nhận xét)
+*  tt
+- sô-vanh hiếu chiến
+- hào nhoáng loè loẹt
+
+@jingoish
+- xem jingo
+ @jingoism  
+*  dt
+- chủ nghĩa sô-vanh hiếu chiến
+
+@jingoist
+- xem jingoism
+ @jingoistic  
+*  tt
+- sô-vanh hiếu chiến
+
+@jingoistically
+- xem jingoism
+ @jink  
+*  dt
+- sự tránh, sự né tránh
+*  dgt
+- tránh, né tránh
+- (quân sự),  (từ lóng) lách lách để tránh đạn cao xạ (máy bay)
+
+@jinn  
+*  dt,  số nhiều của jinnee ((thường) dùng như số ít)
+
+@jinnee  
+*  dt,  số nhiều jinn
+- (thần thoại,thần học) thần
+
+@jinricksha   (jinrikisha) @jinrikisha   (jinrikisha) @jinx  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người hâm tài, người đem lại điều rủi; vật xúi quẩy
+
+@jipijapa
+* dt
+- mũ panama
+ @jitney  
+*  dt (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- đồng năm xu
+- xe buýt hạng rẻ tiền
+*  tt (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- rẻ tiền, hạng tồi, hạng kém
+*  ndgt
+- đi ô tô buýt hạng rẻ tiền
+
+@jitter  
+*  ndgt (từ lóng)
+- bồn chồn, lo sợ; hốt hoảng kinh hâi; hành động hốt hoảng
+
+@jitterbug  
+*  dt
+- người thần kinh dễ bị kích thích; người hay bồn chồn lo sợ
+- người thích nhảy những điệu giật gân
+
+@jitteriness
+- xem jittery
+ @jitters  
+*  dt số nhiều
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nỗi bồn chồn lo sợ, sự hốt hoảng kinh hãi
+
++ to have the jitters: bồn chồn lo sợ, sợ xanh mắt
+
+@jittery  
+*  tt
+- (từ lóng) dễ bị kích thích; bồn chồn lo sợ; hốt hoảng kinh hãi
+
+@jiu-jitsu   (jiu-jitsu) @jive  
+*  dt
+- nhạc ja
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tiếng lóng khó hiểu
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chuyện huyên thiên; chuyên rỗng tuếch, chuyện vớ vẩn
+*  ndgt
+- chơi nhạc ja
+- nhảy theo điệu nhạc ja
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chòng ghẹo, trêu ghẹo
+
+@jiver
+- xem jive
+ @jivey
+- xem jive
+ @jivy
+- xem jive
+ @

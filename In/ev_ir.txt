@@ -1,0 +1,893 @@
+@ira
+* (viết tắt)
+- Quân đội Cộng hoà Ailen, Quân đội Cộng hoà Ai Nhự Lan (Irish Republic Army)
+ @iraki   (Iraqi) @iranian  
+*  tt
+- (thuộc) I-ran
+*  dt
+- người I-ran
+- tiếng I-ran
+
+@iraqi   (Iraqi) @irascibility   (irascibleness) @irascible  
+*  tt
+- nóng tính, dễ cáu, dễ nổi giận
+
+@irascibleness   (irascibleness) @irascibly
+* dt
+- nóng nảy, cáu kỉnh
+ @irate  
+*  tt
+- nổi giận, giận dữ
+
+@irately
+* dt
+- cáu tiết, giận dữ
+ @irateness
+- xem irate
+ @irbm
+* (viết tắt)
+- tên lửa đạn đạo tầm trung (Intermediate-range ballistic missile)
+ @ire  
+*  dt
+- (thơ ca) sự nổi giận, sự giận dữ
+
+@ireful  
+*  tt
+- nổi giận, giận dữ
+
+@irefully
+- xem ireful
+ @irefulness  
+*  dt
+- (thơ ca) sự giận dữ
+
+@irenic   (irenical) @irenical   (irenical) @irenically
+- xem irenic
+ @iridaceous
+* tt
+- thuộc cầu vồng
+ @iridescence  
+*  dt
+- sự phát ngũ sắc; sự óng ánh nhiều màu
+
+@iridescent   (irisation) @iridescently
+- xem iridescent
+ @iridic
+* tt
+- chứa chất iriđi
+- thuộc mống mắt
+ @iridium  
+*  dt
+- (hoá học) Iriddi
+
+@iridosmine
+* dt
+- (khoáng chất) iriđôtmin
+ @iris  
+*  dt
+- (giải phẫu) mống mắt, tròng đen
+- (thực vật học) cây irit
+- (khoáng chất) đá ngũ sắc
+- cầu vòng
+
+@irisation  
+*  dt
+- sự phát ngũ sắc; sự óng ánh nhiều màu
+
+@irish  
+*  tt
+- (thuộc) Ai-len
+
+@irish bull  
+*  dt
+- tiếng Ai-len
+- (the irish_bull) dân tộc Ai-len
+*  dt
+- câu nói vô tình đâm ra dớ dẩn, câu nói vô tình đâm ra mâu thuẫn
+
+@irish coffee
+* dt
+- cà phê nóng có pha rượu uytki và có lớp kem nổi bên trên
+ @irish setter
+* dt
+- chó có lông mượt màu nâu đỏ
+ @irish stew  
+*  dt
+- món thịt hầm Ai-len (thịt hầm khoai tây và hành)
+
+@irishism  
+*  dt
+- phóng cách Ai-len
+
+@irishize  
+*  ngdgt
+- Ai-len hoá
+
+@irishman  
+*  dt
+- người Ai-len
+
+@irishry
+* dt
+- đặc tính hoặc tính chất Airơlân
+ @irishwoman  
+*  dt
+- người Ai-len (nữ)
+
+@iris-in  
+*  dt
+- (điện ảnh) cảnh gạt tròn rõ
+
+@iris-out  
+*  dt
+- (điện ảnh) cảnh gạt tròn mờ
+
+@iritic
+- xem iritis
+ @iritis  
+*  dt
+- (y học) viêm mống mắt
+
+@irk  
+*  ngdgt
+- (từ cổ,nghĩa cổ) làm phiền, làm khó chịu
+
+@irksome  
+*  tt
+- tê, chán ngấy
+- làm phiền, làm tức, làm khó chịu
+
+@irksomely
+- xem irksome
+ @irksomeness  
+*  dt
+- tính tê, tính chán ngấy
+- sự làm phiền, sự làm tức, sự làm khó chịu
+
+@iron  
+*  dt
+- sắt
+- chất sắc (thuốc bổ)
+- đồ sắt, đồ dùng bằng sắt
+- bàn là
+- ((thường) số nhiều) xiềng, bàn đạp (ngựa); cái giá (để nắn chân vẹo...)
+
++ to be in irons: bị khoá tay; bị xiềng xích
+- (từ lóng) súng lục
+!to have many irons in the fire
+- có nhiều việc trong một lúc
+- có nhiều mưu lắm kế
+!to strike while the iron is hot
+- không để lỡ mất cơ hội
+*  tt
+- bằng sắt
+- cứng cỏi, sắt đá
+- nhẫn tâm
+*  ngdgt
+- tra sắt vào; bọc sắt
+- xiềng xích
+- là (quần áo...)
+*  ndgt
+- là quần áo
+!to iron out
+- giải quyết (khó khăn, vấn đề...)
+
+@iron age  
+*  dt
+- thời kỳ đồ sắt
+- thời kỳ tàn bạo, thời đại áp bức
+
+@iron cross  
+*  dt
+- huân chương chữ thập sắt (của Đức)
+
+@iron curtain  
+*  dt
+- màn sắt (từ đế quốc dùng để chỉ sự ngăn cấm tin... của các nước xã hội chủ nghĩa)
+
+@iron foundry
+* dt
+- xưởng đúc sắt
+ @iron hand  
+*  dt
+- sự kiểm soát chặt chẽ; sự cai trị hà khắc, bàn tay sắt ((nghĩa bóng))
+
+@iron horse  
+*  dt
+- ngựa sắt (đầu máy xe lửa, xe đạp...)
+
+@iron law  
+*  dt
+- quy luật không thay đổi được, nguyên tắc không thay đổi được, luật sắt ((nghĩa bóng))
+
+@iron law of wages  
+*  dt
+- (kinh tế); (chính trị) thuyết tiền lương, đảm bảo tối thiểu (cho rằng tiền lương có xu hướng đạt mức sống tối thiểu)
+
+@Iron law of wages
+- (Econ) Quy luật sắt về tiền công.
+: Giả thiết rằng, với bất kể khả năng tăng tiền công trong ngắn hạn, tiền công chắc chắn sẽ trở lại mức vừa đủ sống trong dài hạn.
+ @iron lung  
+*  dt
+- phổi nhân tạo
+
+@iron man  
+*  dt
+- người xương đồng da sắt, người có thể làm việc nặng lâu không biết mỏi
+- máy làm thay người
+- tờ giấy bạc một đô la; đồng đô la bạc
+
+@iron rations  
+*  dt
+- (quân sự) khẩu phần dự trữ cuối cùng
+
+@iron-bound  
+*  tt
+- bó bằng sắt
+- đầy mỏm đá lởm chởm
+- (nghĩa bóng) hắc; cứng rắn
+
+@ironclad  
+*  tt
+- bọc sắt
+- cứng rắn
+*  dt
+- (sử học) tàu bọc sắt
+
+@iron-fisted  
+*  tt
+- nhẫn tâm, tàn bạo; độc đoán
+- hà tiện, keo kiệt
+
+@iron-grey  
+*  tt
+- xám sắt
+*  dt
+- màu xám sắt
+
+@iron-handed  
+*  tt
+- kiểm soát chặt chẽ; cai trị hà khắc, có bàn tay sắt ((nghĩa bóng))
+
+@ironhanded
+- xem iron hand
+ @iron-handedness  
+*  dt
+- tính chất chặt chẽ; tính chất hà khắc
+
+@ironhandedness
+- xem iron hand
+ @iron-hearted  
+*  tt
+- nhẫn tâm, lòng sắt đá
+
+@iron-heartedness  
+*  dt
+- tính nhẫn tâm, tính sắt đá
+
+@ironic   (ironical) @ironical   (ironical) @ironically
+* dt
+- mỉa mai, trớ trêu
+ @ironicalness  
+*  dt
+- sự mỉa, sự mỉa mai, sự châm biếm
+
+@ironing  
+*  dt
+- sự là
+- quần áo là
+
+@ironing-board
+* dt
+- bàn để đặt quần áo lên mà là ủi
+ @ironist  
+*  dt
+- người hay nói mỉa, người hay mỉa mai, người hay châm biếm
+
+@ironize  
+*  dgt
+- mỉa, mỉa mai, châm biếm
+
+@iron-jawed  
+*  tt
+- có hàm sắt, có hàm cứng như sắt
+- kiên quyết
+
+@ironlike  
+*  tt
+- giống như sắt; sắt đá
+
+@ironmaster  
+*  dt
+- người sản xuất gang
+
+@ironmonger  
+*  dt
+- người bán đồ sắt
+
+@ironmongery  
+*  dt
+- đồ sắt
+- cửa hàng bán đồ sắt
+- kỹ thuật làm đồ sắt
+
+@iron-mould  
+*  dt
+- vết gỉ sắt
+
+@ironside  
+*  dt
+- người có sức chịu đựng phi thường; người kiên quyết phi thường, người dũng cảm phi thường
+- (Ironsides) (sử học) quân đội Crôm-oen
+
+@ironsmith  
+*  dt
+- thợ rèn
+
+@iron-stone  
+*  dt
+- (khoáng chất) quặng sắt
+
+@ironstone
+* dt
+- <khoáng> quặng sắt
+ @ironware  
+*  dt
+- đồ nồi niêu bằng gang; đồ sắt
+
+@ironwood  
+*  dt
+- (thực vật học) gỗ cứng, thiết mộc (gỗ lim...)
+
+@ironwork  
+*  dt
+- nghề làm đồ sắt
+- đồ (bằng) sắt
+- bộ phận bằng sắt
+
+@ironworks  
+*  dt,  số nhiều (dùng như số ít hoặc số nhiều)
+- xưởng đúc gang, xưởng làm đồ sắt
+
+@irony  
+*  tt
+- giống thép, giống gang
+*  dt
+- sự mỉa, sự mỉa mai, sự châm biếm
+!Socratic irony
+- Socratic
+
+@irq
+- đường dây yêu cầu ngắt
+ @irradiance   (irradiancy) @irradiancy   (irradiancy) @irradiant  
+*  tt
+- sáng chói, sáng ngời
+
+@irradiate  
+*  ngdgt
+- soi sáng ((nghĩa đen) & (nghĩa bóng))
+- làm sáng ngời
+- cho ánh sáng rọi vào; (vật lý) chiếu (bức xạ...) rọi
+
+@irradiation  
+*  dt
+- sự soi sáng; được soi sáng ((nghĩa đen) & (nghĩa bóng))
+- sự sáng chói
+- tia sáng
+- (vật lý) sự chiếu (bức xạ...); sự rọi
+
+@irradiative  
+*  tt
+- để soi sáng
+
+@irradiator
+- xem irradiate
+ @irrational  
+*  tt
+- không hợp lý, phi lý
+- không có lý trí
+- (toán học) vô lý
+
++ irrational function: hàm vô tỷ
+*  dt
+- (toán học) số vô tỷ
+
+@irrationaliness  
+*  dt
+- (như) irrationality
+- sự không có lý trí
+
+@irrationalise   (irrationalise) @irrationality  
+*  dt ((cũng) irrationaliness)
+- tính không hợp lý, tính phi lý
+- điều không hợp lý, điều phi lý
+
+@irrationalize   (irrationalise) @irrationally
+* dt
+- vô lý, phi lý, bất hợp lý
+ @irrationalness
+- xem irrational
+ @irrebuttable  
+*  tt
+- không thể bẻ, không thể bác bỏ (lý lẽ...)
+
+@irreclaimability   (irreclaimableness) @irreclaimable  
+*  tt
+- không thể khai hoang được (đất)
+- không thể cải tạo được
+
+@irreclaimableness   (irreclaimableness) @irreclaimably
+- xem irreclaimable
+ @irrecocilability   (irreconcilableness) @irrecognizable  
+*  tt
+- không thể công nhận được
+- không thể nhận ra được
+
+@irreconcilability
+* dt
+- sự không thể hoà giải được
+- sự không thể hoà hợp với nhau được, sự không thể đồng ý với nhau được, sự không thể nhân nhượng nhau được
+ @irreconcilable  
+*  tt
+- không thể hoà giải được
+- không thể hoà hợp với nhau được, không thể đồng ý với nhau được, không thể nhân nhượng nhau được
+
+@irreconcilableness   (irreconcilableness) @irreconcilably
+* dt
+- không hoà giải được, không hoà hợp được
+ @irrecoverable  
+*  tt
+- không thể lấy lại được
+- không thể cứu chữa được
+
+@irrecoverableness  
+*  dt
+- tính không thể lấy lại được
+- tính không thể cứu chữa được
+
+@irrecoverably
+* dt
+- không thể thu hồi được
+- không thể cứu chữa được
+ @irrecusable  
+*  tt
+- không thể bác bỏ được
+
+@irrecusably
+- xem irrecusable
+ @irredeemable  
+*  tt
+- không thể hoàn lại được
+- không thể chuyển thành thành tiền đồng (giấy bạc)
+- không thể cải tạo
+- không thể cứu vãn, tuyệt vọng
+
+@Irredeemable loan stock
+- (Econ) Lượng cho vay không trả được.
+: Xem FINANCIAL CAPITAL
+ @Irredeemable preference shares
+- (Econ) Các cổ phiếu ưu tiên không trả được.
+: Xem FINANCIAL CAPITAL.
+ @irredeemableness  
+*  dt
+- tính không thể hoàn lại được
+- tính không thể chuyển thành thành tiền đồng (giấy bạc)
+- tính không thể cải tạo
+- tính không thể cứu vãn, tính tuyệt vọng
+
+@irredeemably
+* dt
+- không thể cứu vãn, tuyệt vọng
+ @irredentism
+* dt
+- <chtrị> thuyết phục hồi lãnh thổ
+ @irredentist  
+*  dt
+- (sử học) người chủ trương đòi lại nước Y những vùng của người Y
+- (chính trị) người chủ trương đòi lại đất
+
+@irreducibility   (irreducibleness) @irreducible  
+*  tt
+- không thể giảm bớt, không thể làm thành đơn giản, không thể làm nhỏ hơn
+- không thể làm thay đổi hình dạng được
+- (toán học) tối giản, không rút gọn được
+- (y học) không thể làm trở lại như cũ
+
+@irreducibleness   (irreducibleness) @irreducibly
+* dt
+- không thể rút gọn, không thể làm cho đơn giản hơn
+ @irreformable  
+*  tt
+- không thể cải tạo, không thể cứu chữa
+- không thể làm hoàn mỹ hơn nữa
+
+@irrefragability   (irrefragableness) @irrefragable  
+*  tt
+- không thể bẻ bai được, không thể vặn lại được, không thể phủ nhận (người, lý lẽ...)
+
+@irrefragableness   (irrefragableness) @irrefragably
+- xem irrefragable
+ @irrefrangible
+* tt
+- không thể bẻ cong; không thể xâm phạm; tuyệt đối
+ @irrefutability   (irrefutableness) @irrefutable  
+*  tt
+- không thể bác được (lý lẽ...)
+
+@irrefutableness   (irrefutableness) @irrefutably
+* dt
+- không thể bác bỏ, rành rành
+ @irregardless
+* dt
+- không kể tới; bất chấp
+ @irregular  
+*  tt
+- không đều
+- không theo quy luật; không đúng quy cách (hàng...); không chính quy (quân đội...); không đúng lễ giáo (lễ nghi, phong tục...)
+- (ngôn ngữ học) không theo quy tắc
+*  dt
+- hàng không đúng quy cách
+- (quân sự) không chính quy
+
+@irregularity  
+*  dt
+- tính không đều; cái không đều
+- tính không theo quy luật; tính không đúng quy cách (hàng...); tính không chính quy (quân đội...); tính không đúng lễ giáo (lễ nghi, phong tục...); điều trái quy luật, điều không chính quy, điều trái lễ giáo (lễ nghi, phong tục...)
+- (ngôn ngữ học) tính không theo quy tắc
+
+@irregularly
+* dt
+- không đều, không đều đặn, thất thường, bất thường
+ @irrelative  
+*  tt
+- không dính dáng, không liên quan, không quan hệ (với...)
+- không thích hợp, không đúng lúc, không đúng chỗ
+
+@irrelatively
+- xem irrelative
+ @irrelativeness  
+*  dt
+- tính không dính dáng, sự không liên quan, sự không quan hệ (với...)
+- tính không thích hợp, tính không đúng lúc, tính không đúng chỗ
+
+@irrelevance   (irrelevancy) @irrelevancy
+* dt
+- tính không dính dáng, tính không thích hợp
+- điều không thích đáng; điều không thích hợp
+ @irrelevant  
+*  tt
+- không thích đáng; không thích hợp
+
+@irrelevantly
+* dt
+- không thích hợp, không thích đáng
+ @irrelievable  
+*  tt
+- không làm cho đỡ (đau...) được, không làm cho bớt (khổ...) được
+
+@irreligion  
+*  dt
+- sự không tín ngưỡng; sự không trọng tín ngưỡng
+
+@irreligionist  
+*  dt
+- người không tín ngưỡng; người không trọng tín ngưỡng
+
+@irreligiosity   (irreligiosity) @irreligious  
+*  tt
+- không tín ngưỡng; không trọng tín ngưỡng
+
+@irreligiously
+- xem irreligious
+ @irreligiousness   (irreligiosity) @irremeable  
+*  tt
+- không quay lại chỗ cũ được, không trở lại tình trạng cũ được
+
+@irremediable  
+*  tt
+- không thể chữa được (bệnh...)
+- không thể sửa chữa được (sai lầm)
+
+@irremediableness  
+*  dt
+- tính không thể chữa được
+- tính không thể sửa chữa được
+
+@irremediably
+* dt
+- không thể sửa chữa, không thể cứu chữa
+ @irremissibility   (irremissibleness) @irremissible  
+*  tt
+- không thể tha thứ được (tội...)
+- không thể tránh được, không thể trì hoân được (nhiệm vụ...)
+
+@irremissibleness   (irremissibleness) @irremissibly
+- xem irremissible
+ @irremovability   (irremovableness) @irremovable  
+*  tt
+- không thể chuyển đi được (một chức vụ...)
+
+@irremovableness   (irremovableness) @irremovably
+- xem irremovable
+ @irrepairable  
+*  tt
+- không thể sửa chữa được (máy hỏng...)
+
+@irreparability   (irreparableness) @irreparable  
+*  tt
+- không thể đền bù lại được; không thể sửa lại được
+
+@irreparableness   (irreparableness) @irreparably
+* dt
+- không thể sửa chữa, không thể đền bù
+ @irrepatriable  
+*  tt
+- không thể cho trở về nước được (vì vấn đề chính trị)
+
+@irrepealability   (irrepealableness) @irrepealable  
+*  tt
+- không thể bâi bỏ được (điều khoản, quy định...)
+
+@irrepealableness   (irrepealableness) @irreplaceability
+- xem irreplaceable
+ @irreplaceable  
+*  tt
+- không thể thay thế được (khi mất... đi)
+
+@irreplaceableness  
+*  dt
+- tính không thể thay thế được (khi mất... đi)
+
+@irreplaceably
+- xem irreplaceable
+ @irrepressibility   (irrepressibleness) @irrepressible  
+*  tt
+- không thể kiềm chế được; không thể nén được
+
+@irrepressibleness   (irrepressibleness) @irrepressibly
+* dt
+- không thể kìm lại, không thể dằn nén
+ @irreproachability   (irreproachableness) @irreproachable  
+*  tt
+- không thể chê trách được
+
+@irreproachableness   (irreproachableness) @irreproachably
+* dt
+- không chê trách được, không chê vào đâu được
+ @irresistibility   (irresistibleness) @irresistible  
+*  dt
+- không chống lại được, không thể cưỡng lại được, hấp dẫn không cưỡng lại được
+*  dt
+- người hấp dẫn mạnh mẽ; vật hấp dẫn mạnh mẽ
+
+@irresistibleness   (irresistibleness) @irresistibly
+* dt
+- không cưỡng lại được, hấp dẫn đến nỗi không cưỡng lại được
+ @irresolubility  
+*  dt
+- tính không thể giải được
+- (từ Mỹ,nghĩa Mỹ) tính không thể giải thích được
+
+@irresoluble  
+*  tt
+- không thể giải được
+- (từ Mỹ,nghĩa Mỹ) không thể giải thích được
+
++ an irresoluble phenomenon: một hiện tượng không thể giải thích được
+
+@irresoluble
+- không giải được
+ @irresolute  
+*  tt
+- do dự, phân vân, lưỡng lự
+- thiếu quyết tâm, thiếu quả quyết
+
+@irresolutely
+* dt
+- do dự, phân vân, lưỡng lự
+ @irresoluteness  
+*  dt
+- tính do dự, tính phân vân, tính lưỡng lự
+- tính thiếu quyết tâm, tính thiếu quả quyết
+
+@irresolution  
+*  dt
+- sự do dự, sự phân vân, sự lưỡng lự
+
+@irresolvability   (irresolvableness) @irresolvable  
+*  tt
+- không thể phân tách ra từng phần được
+- không thể giải thích được (bài toán...)
+
+@irresolvableness   (irresolvableness) @irrespective  
+*  tt (: of)
+- không kể, bất chấp
+
++ irrespective of nationality: không kể quốc tịch nước nào, không kể dân tộc nào
+
+@irrespectively
+- xem irrespective
+ @irrespirable  
+*  tt
+- không thở được, ngột ngạt (không khí)
+
+@irresponsibility   (irresponsibleness) @irresponsible  
+*  tt
+- thiếu tinh thần trách nhiệm
+- chưa đủ trách nhiệm
+- không chịu trách nhiệm (đối với ai...)
+
+@irresponsibleness   (irresponsibleness) @irresponsibly
+* dt
+- vô trách nhiệm, thiếu trách nhiệm, tắc trách
+ @irresponsive  
+*  tt
+- không đáp lại, không phản ứng
+
+@irresponsively
+- xem irresponsive
+ @irresponsiveness  
+*  dt
+- sự không đáp lại, sự không phản ứng
+
+@irretention   (irretentiveness) @irretentive  
+*  tt
+- không giữ được
+- không ghi nhớ được
+
+@irretentiveness   (irretentiveness) @irretrievability   (irretrievableness) @irretrievable  
+*  tt
+- không thể lấy lại được
+- không thể phục hồi lại được
+- không thể bù lại được
+- không thể nhớ lại được
+
+@irretrievableness   (irretrievableness) @irretrievably
+* dt
+- không thể cứu vãn, không thể bù đắp
+ @irreverence  
+*  dt
+- sự thiếu tôn kính, sự bất kính; hành động thiếu tôn kính, hành động bất kính
+- sự không được tôn kính
+
+@irreverent   (irreverential) @irreverential   (irreverential) @irreverently
+* dt
+- thiếu tôn kính, bất kính
+ @irreversibility   (irreversibleness) @Irreversibility
+- (Econ) Tính bất khả đảo; Tính không thể đảo ngược được.
+: Xét về phương diện TÀI NGUYÊN THIÊN NHIÊN và môi trường, thuật ngữ này chỉ một hành động nào đó có những tác động không thể đảo ngược được một cách tuyệt đối hoặc do chi phí để làm như vậy là quá lớn.
+ @irreversibility
+- tính không khả nghịch, tính không đoa rngược được
+ @irreversible  
+*  tt
+- không thể đảo ngược lại; không thể thay đổi được
+- (hoá học) không thuận nghịch
+
+@irreversibleness   (irreversibleness) @irreversibly
+* dt
+- không thể đảo ngược được, không thể thay đổi được
+ @irrevocability   (irrevocableness) @irrevocable  
+*  tt
+- không thể bâi bỏ được, không thể huỷ bỏ; không thể thay đổi (ý kiến...)
+- không thể thu hồi (giấy phép...)
+
+@irrevocableness   (irrevocableness) @irrevocably
+* dt
+- không thể hủy bỏ, không thể thay đổi
+ @irrigable  
+*  tt
+- có thể tưới được
+
+@irrigate  
+*  ngdgt
+- tưới (đất, ruộng)
+- (y học) rửa (vết thương...)
+- làm ướt, làm ẩm
+*  ndgt
+- tưới
+- (từ lóng) uống bứ bừ
+
+@irrigation  
+*  dt
+- sự tưới (đất, ruộng); sự tưới cho tươi tốt; tình trạng được tưới
+- (y học) sự rửa (vết thương)
+
+@irrigational  
+*  tt
+- (thuộc) sự tưới
+
+@irrigative  
+*  tt
+- để tưới
+
+@irrigator  
+*  dt
+- người tưới (ruộng)
+- (y học) ống rửa
+
+@irritability   (irritableness) @irritable  
+*  tt
+- dễ cáu; cáu kỉnh
+- (sinh vật học); (y học) dễ bị kích thích, dễ cảm ứng
+
+@irritableness   (irritableness) @irritably
+* dt
+- cáu kỉnh, cáu gắt
+ @irritancy  
+*  dt
+- sự làm cáu
+
+@irritant  
+*  tt
+- làm cáu
+- (sinh vật học) kích thích
+*  dt
+- điều làm cái
+- (sinh vật học) chất kích thích
+
+@irritate  
+*  ngdgt
+- làm phát cáu, chọc tức
+- (sinh vật học) kích thích
+- (y học) kích thích; làm tấy lên, làm rát (da...)
+*  ndgt
+- làm phát cáu, chọc tức
+*  ngdgt
+- (pháp lý) bác bỏ, làm cho mất giá trị
+
+@irritated  
+*  tt
+- tức tối; cáu
+- (y học) bị kích thích; tấy lên, rát (da...)
+
+@irritating  
+*  tt
+- làm phát cáu, chọc tức
+- (sinh vật học) kích thích
+- (y học) kích thích, làm tấy lên, làm rát (da...)
+
+@irritatingly
+- xem irritate
+ @irritation  
+*  dt
+- sự làm phát cáu, sự chọc tức; tình trạng bị làm phát cáu, tình trạng bị chọc tức
+- (sinh vật học) sự kích thích
+- (y học) sự kích thích; sự làm tấy lên, sự làm rát (da...)
+
+@irritative  
+*  tt
+- làm phát cáu, chọc tức
+- (sinh vật học) kích thích
+- (y học) kích thích; làm tấy lên, làm rát (da...)
+
+@irritativeness  
+*  dt
+- khả năng làm phát cáu; tính chất chọc tức
+- (sinh vật học) tính kích thích
+- (y học) sự kích thích; sự làm tấy lên, sự làm rát (da...)
+
+@irritator
+- xem irritate
+ @irrotational
+* tt
+- không quay
+ @irrotational
+- (hình học) không xoáy
+ @irrupt  
+*  ndgt
+- xông vào, xâm nhập
+- nổ bùng (sự phẫn nộ của quần chúng...)
+- tăng vọt (số dân...)
+
+@irruption  
+*  dt
+- sự xông vào, sự xâm nhập
+- sự nổ bùng (của sự phẫn nộ của quần chúng...)
+- sự tăng vọt (số dân...)
+
+@irruptive  
+*  tt
+- xông vào, xâm nhập
+- nổ bùng
+
+@

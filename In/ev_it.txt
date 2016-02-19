@@ -1,0 +1,233 @@
+@it  
+*  đại từ
+- cái đó, điều đó, con vật đó
+- trời, thời tiết; ngày; đường...
+
++ it is raining: trời đang mưa
+
++ it is cold: thời tiết lạnh
+
++ it is holiday today: hôm nay là ngày nghỉ
+- (không dịch)
+
++ it is very pleasant here: ở đây rất thú
+
++ it is easy to talk like that: nói như vậy rất dễ
+*  dt
+- em bé, được chỉ định (làm gì trong trò chơi trẻ con)
+- tình hình chung, hoàn cảnh, cuộc sống nói chung
+
++ how is it with you: anh làm ăn thế nào?, anh sinh sống thế nào?
+*  dt
+- (thông tục),  (viết tắt) của Italian vermouth
+
++ gin and it: rượu gin và vecmut Y
+
+@ita  
+*  dt
+- cũng như vậy (trong đơn thuốc)
+
+@itacism  
+*  dt
+- (ngôn ngữ học) hiện tượng i hoá
+
+@itacolumite
+* dt
+- đá có hột
+ @italian  
+*  tt
+- (thuộc) Y
+
+@italianate  
+*  dt
+- người Y
+- tiếng Y
+*  tt
+- Y hoá
+- giống phong cách Y
+
+@italianisation
+* dt
+- sự Y hoá
+ @italianise   (Italianise) @italianism  
+*  dt
+- phong cách Y; tính chất Y
+- từ ngữ đặc Y
+
+@italianization  
+*  dt
+- sự Y hoá
+
+@italianize   (Italianise) @italic  
+*  dt
+- (ngành in), ((thường) số nhiều) chữ ngả
+
+@italicisation
+* dt
+- <in> sự in chữ nghiêng
+ @italicise   (italicise) @italicization  
+*  dt
+- (ngành in) sự in ngả
+
+@italicize   (italicise) @itch  
+*  dt
+- sự ngứa; bệnh ngứa; bệnh ghẻ
+- sự rất mong muốn; sự nóng lòng muốn có (cái gì)
+*  ndgt
+- ngứa
+- rất mong muốn
+*  ngdgt
+- làm cho ngứa
+- quấy rầy; làm khó chịu
+
+@itchiness  
+*  dt
+- tình trạng ngứa ngáy; tính làm ngứa
+
+@itching  
+*  dt
+- (như) itch
+*  tt
+- (thuộc) sự ngứa; làm ngứa
+- (thuộc) sự muốn; rất muốn
+
+@itch-mite  
+*  dt
+- cái ghẻ
+
+@itchy  
+*  tt
+- ngứa; làm ngứa
+
+@it'd
+- viết tắt của it  had; it  would
+ @item  
+*  dt
+- khoản (ghi số...), món (ghi trong đơn hàng...); tiết mục
+- tin tức; (từ lóng) món tin (có thể đăng báo...)
+
+@item
+- điểm; chương; bài báo
+ @itemization  
+*  dt
+- sự ghi thành từng khoản, sự ghi thành từng món
+
+@itemize  
+*  ngdgt
+- ghi thành từng khoản, ghi thành từng món
+
+@itemize
+- đếm riêng từng cái; làm thành đặc điểm
+ @itemized  
+*  tt
+- ghi thành từng khoản, ghi thành từng món
+
+@itemizer  
+*  dt
+- người ghi thành từng khoản, người ghi thành từng món
+
+@itenerancy
+- sự lặp lại, sự lặp đi lặp lại
+ @iterance  
+*  dt
+- sự lặp lại, sự lặp đi lặp lại
+
+@iterant  
+*  tt
+- lặp lại, lặp đi lặp lại
+
+@iterate  
+*  ngdgt
+- nhắc lại, nhắc đi nhắc lại
+- làm lại, làm đi làm lại; lặp đi lặp lại
+
++ iterates integral: (toán học) tích phân lặp
+
+@iterate
+- nhắc lại, lặp lại
+ @iterated
+- được lặp
+ @iteration
+* dt
+- sự nhắc đi nhắc lại
+- tính lặp đi lặp lại
+ @iterative  
+*  tt
+- nhắc lại, lắp lại, nhắc đi nhắc lại, lặp đi lặp lại
+- (ngôn ngữ học) lặp
+
+@iterative
+- lặp
+ @iterativeness  
+*  dt
+- tính chất nhắc lại, tính chất lắp lại, tính chất nhắc đi nhắc lại, tính chất lặp đi lặp lại
+
+@ithyphallic  
+*  tt
+- (thuộc) hình dương vật (mang diễu trong các cuộc lễ Thần rượu)
+- tục tĩu
+*  dt
+- bài thơ tục tĩu
+
+@itineracy   (itinerancy) @itinerant  
+*  tt
+- đi hết nơi này đến nơi khác, lưu động
+
++ an itinerant ambassador: đại sự lưu động
+*  dt
+- người có công tác lưu động
+- người lúc làm (việc) lúc đi lang thang
+
+@itinerary  
+*  dt
+- hành trình, con đường đi
+- nhật ký đi đường
+- sách hướng dẫn du lịch
+*  tt
+- (thuộc) hành trình, (thuộc) đường đi
+
+@itinerate  
+*  ndgt
+- đi hết nơi này đến nơi khác, lưu động
+
+@itineration  
+*  dt
+- sự đi hết nơi này đến nơi khác, sự lưu động
+
+@it'll
+- viết tắt của it  will; it  shall
+ @itn
+* (viết tắt)
+- phần điểm tin của Đài truyền hình độc lập (Independent Television News)
+ @ITO
+- (Econ) Tổ chức thương mại Quốc tế.
+: Xem INTERNATIONAL TRADE ORGANIZATION.
+ @it's  
+*  (viết tắt), của it is
+
+@its  
+*  tt sở hữu
+- của cái đó, của điều đó, của con vật đó
+*  đại từ sở hữu
+- cái của điều đó, cái của con vật đó
+
+@itself  
+*  đại từ phản thân,  số nhiều themselves
+- bản thân cái đó, bản thân điều đó, bản thân con vật đó
+!by itself
+- tự nó
+- một mình
+!in itself
+- trong bản chất nó, tự nó
+
+@itsy-bitsy   (itty-bitty) @itt
+- (vt của International Telephone and Telegraph Corporation) Công ty điện thoại và điện tín quốc tế
+ @itty-bitty   (itty-bitty) @itu
+* (viết tắt)
+- Liên minh viễn thông quốc tế (International Telecommunications Union)
+- viết tắt
+- Liên minh viễn thông quốc tế (International Telecommunications Union)
+ @itv
+* (viết tắt)
+- Đài truyền hình độc lập (Independent Television)
+ @

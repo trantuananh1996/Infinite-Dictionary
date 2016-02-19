@@ -1,0 +1,280 @@
+@gybe  
+*  ngdgt
+- (hàng hải) trở (buồm)
+
+@gyle  
+*  dt
+- thùng ủ bia
+- mẻ bia
+
+@gym  
+*  dt (thông tục)
+- (như) gymnasium
+- thể dục
+
+@gymkhana  
+*  dt Anh-Ỡn
+- câu lạc bộ thể dục, thể thao
+- cuộc biểu diễn thể dục, thể thao
+
+@gymnasia  
+*  dt,  số nhiều gymnasiums; gymnasia
+- (thể dục,thể thao) phòng tập thể dục
+- trường trung học (ở Đức)
+
+@gymnasium  
+*  dt,  số nhiều gymnasiums; gymnasia
+- (thể dục,thể thao) phòng tập thể dục
+- trường trung học (ở Đức)
+
+@gymnast  
+*  dt
+- vận động viên thể dục; huấn luyện viên thể dục; chuyên viên thể dục
+
+@gymnastic  
+*  tt
+- (thuộc) thể dục
+*  dt
+- (số nhiều) thể dục
+
++ to do gymnastic; to go in for gymnastic: tập thể dục
+- sự rèn luyện, sự tập luyện (về một môn gì)
+
++ chessplaying is a good mental gymnastic: đánh cờ là một môn rèn luyện trí óc tốt
+
+@gymnastically
+- xem gymnastic
+ @gymnastics
+* dt
+- những hình thức của sự luyện tập được thực hiện để phát triển cơ bắp hoặc sự cân xứng hoặc để biểu lộ khả năng khéo léo; thể dục; sự rèn luyện thân thể
+
++  mental gymnastics:sự rèn luyện trí não (rèn luyện khả năng nhạy bén của trí não, trau dồi cách lập luận)
+ @gymnocarpic
+* tt
+- thuộc thể quả mở; tầng bào tử lộ
+ @gymnocyte
+* dt
+- tế bào trần
+ @gymnogenous
+* tt
+- không lông (chim)
+ @gymnoplast
+* dt
+- chất nguyên sinh trần
+ @gymnosperm  
+*  dt
+- (thực vật học) cây hạt trần
+
+@gymnospermous
+- xem gymnosperm
+ @gymnosperms
+* dt số nhiều
+- thực vật hạt trần
+ @gymnospermy
+- xem gymnosperm
+ @gymnospore
+* dt
+- bào tử trần
+ @gym-slip
+* dt
+- áo chẽn không tay của các cô gái
+ @gynaeceum  
+*  dt
+- (thực vật học) bộ nhuỵ (hoa)
+- (từ cổ,nghĩa cổ) khuê phòng
+
+@gynaecium
+* dt
+- bộ nhụy
+ @gynaecoid
+* dt
+- kiến thợ đẻ trứng
+ @gynaecological  
+*  tt
+- (y học) (thuộc) phụ khoa
+
+@gynaecologist  
+*  dt
+- thầy thuốc phụ khoa
+
+@gynaecology  
+*  dt
+- (y học) phụ khoa
+
+@gynandromorph
+* dt
+- cá thể lưỡng tính
+ @gynandromorphic
+* tt
+- thuộc cá thể lưỡng tính
+ @gynandromorphism
+* dt
+- hiện tượng lưỡng tính; hiện tượng dạng cái tính đực
+ @gynandrophore
+* dt
+- (sinh học) cuống lá bào tử; cuống hoa lưỡng tính
+ @gynandrous  
+*  tt
+- (thực vật học) hợp nhị nhuỵ
+
+@gynantherous
+* tt
+- (thực vật) có nhị biến thành nhụy
+ @gynanthropia
+* dt
+- (thực vật) hiện tượng dạng cái tính đực
+ @gyoscopie
+- (thuộc) con quay hồi chuyển
+ @gyp  
+*  dt
+- người hầu (ở trường đại học Căm-brít)
+- (từ lóng) to give somebody gyp mắng chửi ai thậm tệ; trừng phạt ai thẳng tay
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự lừa bịp, sự lừa đảo
+
+@gypper
+- xem gyp
+ @gyppo
+* dt; số nhiều gyppos
+- người Ai-cập
+- người Xư-gan
+ @gyps  
+*  dt,  số nhiều gypsums,  gypsa
+- thạch cao ((viết tắt) gyps)
+
+@gypsa  
+*  dt,  số nhiều gypsums,  gypsa
+- thạch cao ((viết tắt) gyps)
+
+@gypseous   (gypsous) @gypsophil
+* tt
+- ưa đá vôi; ưa thạch cao
+ @gypsophilous
+* tt
+- ưa đá vôi; ưa thạch cao
+ @gypsophily
+* dt
+- tính ưa đá vôi; tính ưa thạch cao
+ @gypsum  
+*  dt,  số nhiều gypsums,  gypsa
+- thạch cao ((viết tắt) gyps)
+
+@gypsy   (gypsy) @gyral
+* tt
+- thuộc nếp cuộn, khúc cuộn; xoắn ốc
+ @gyrate  
+*  ndgt
+- hồi chuyển, xoay tròn
+
+@gyrate
+- chuyển động theo vòng tròn, quay tròn
+ @gyration  
+*  dt
+- sự hồi chuyển, sự xoay tròn
+
+@gyration
+- sự quay tròn
+ @gyrator
+- (Tech) bộ hồi chuyển (không thể nghịch chiều), girato
+ @gyrator circuit
+- (Tech) mạch bất khả nghịch
+ @gyratory  
+*  tt
+- hồi chuyển, xoay tròn
+
+@gyre  
+*  dt
+- (thơ ca) (như) gyration
+*  ndgt
+- (thơ ca) (như) gyrate
+
+@gyrene  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (quân sự),  (từ lóng) lính thuỷ
+
+@gyrfalcon
+* dt (cũng) gerfalcon
+- chim ưng phía bắc
+ @gyro  
+*  dt
+- (viết tắt) của gyroscope
+
+@gyro
+- con quay
+ @gyro - compass
+- địa bàn quay
+ @gyrobearing
+* dt
+- góc phương vị con quay hồi chuyển
+ @gyro-compass  
+*  dt
+- la bàn hồi chuyển
+
+@gyrocompass
+- (Tech) la bàn hồi chuyển, la bàn con quay
+ @gyrofrequency
+- (Tech) tần số hồi chuyển
+ @gyroidal
+- xắn ốc, chuyển động theo hình xoắn ốc
+ @gyrolevel
+* dt
+- dụng cụ đo độ nghiêng hồi chuyển
+ @gyromagnetic
+* tt
+- thuộc từ hồi chuyển
+ @gyromagnetic medium
+- (Tech) môi trường từ hồi chuyển
+ @gyromagnetic resonance
+- (Tech) cộng hưởng từ hồi chuyển
+ @gyropilot
+* dt
+- bộ lái tự động; bộ lái hồi chuyển
+ @gyroplane
+* dt
+- máy bay ổn định nhờ hồi chuyển
+ @gyroscope  
+*  dt
+- con quay hồi chuyển
+
+@gyroscope
+- (Tech) con quay hồi chuyển
+ @gyroscope
+- con quay
+ @gyroscopic  
+*  tt
+- hồi chuyển
+
+@gyroscopically
+- xem gyroscope
+ @gyrose  
+*  tt
+- (thực vật học) xoăn
+
+@gyroservo
+- (Tech) trợ động hồi chuyển
+ @gyrostabilization
+- (Tech) ổn định hồi chuyển (bằng con quay)
+ @gyrostabilizer
+* dt
+- thiết bị tạo ổn định kiểu con quay hồi chuyển
+ @gyrostat
+* dt
+- xem gyrostabilizer
+ @gyrostatic
+* tt
+- ổn định bằng hồi chuyển
+ @gyrotiller
+* dt
+- máy phay đất
+ @gyrotropic
+* tt
+- hướng hồi chuyển
+ @gyrus
+* dt; số nhiều gyri
+- nếp cuộn; khúc cuộn; nếp cuộn não
+ @gyve  
+*  dt,  (thường) số nhiều
+- (thơ ca) xiềng xích
+*  ngdgt
+- xích lại
+
+@

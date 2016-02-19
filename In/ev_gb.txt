@@ -1,0 +1,8 @@
+@gb
+* (viết tắt)
+- nước Anh, Anh quốc (Great Britain)
+ @GB code, Guobiao code
+- (Tech) bộ mã chữ Hán tiêu chuẩn quốc gia Trung Quốc (Quốc Biểu)
+ @GB, gigabyte
+- (Tech) một tỷ bai
+ @

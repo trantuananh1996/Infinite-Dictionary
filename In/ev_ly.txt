@@ -1,0 +1,206 @@
+@lyart
+* dt
+- cũng lyard
+- có vạch xám
+- hoa râm (tóc)
+ @lycanthrope  
+*  dt
+- người hoang tưởng hoá sói
+
+@lycanthropy  
+*  dt
+- (y học) hoang tưởng hoá sói
+- sự biến thành chó sói (phù thuỷ...)
+
+@lycency  
+*  dt
+- ánh sáng chói
+- tính trong
+
+@lyceum  
+*  dt
+- (Lyceum) vườn Ly-xi-um (ở A-ten, nơi A-ri-xtốt dạy học)
+- nơi học tập (có giảng đường, thư viện...)
+- (từ Mỹ,nghĩa Mỹ) tổ chức truyền bá văn học nghệ thuật
+
+@lych   (lyke) @lychee
+* dt
+- (thực vật) xem litchi
+ @lycian
+* tt
+- thuộc nơi Arixtôt dạy học
+ @lycopod  
+*  dt
+- cây thạch tùng
+
+@lycopodium
+* dt
+- (thực vật) loại thạch tùng
+ @lycée  
+*  dt
+- trường trung học, trường lyxê (Pháp)
+
+@lyddite  
+*  dt
+- chất nổ liddit (dùng làm đạn đại bác)
+
+@lye  
+*  dt
+- thuốc giặt quần áo
+- nước kiềm, dung dịch kiềm
+
+@lying  
+*  dt
+- sự nói dối, thói nói dối
+*  dt
+- sự nằm
+- nơi nằm, chỗ nằm
+
+@lying in  
+*  dt
+- sự sinh đẻ, sự ở cữ
+
+@lying-in  
+*  tt
+- sinh đẻ
+
++ lying-in hospital: nhà hộ sinh
+
+@lying-in-state
+* dt
+- tình trạng quàn linh cữu
+ @lyke   (lyke) @lyke-wake  
+*  dt
+- sự thức canh tử thi (đêm trước hôm đưa đám)
+
+@lymph  
+*  dt
+- (sinh vật học) bạch huyết
+- (thơ ca) nước trong
+- (từ cổ,nghĩa cổ) nhựa cây
+
+@lymphatic  
+*  tt
+- (sinh vật học) (thuộc) bạch huyết
+
++ lymphatic system: hệ bạch huyết
+- nhẽo nhợt (cơ); xanh xao; phờ phạc
+*  dt
+- mạch bạch huyết
+
+@lymphocyte
+* dt
+- tế bào bạch huyết, tế bào lympho
+ @lyncean  
+*  tt
+- (thuộc) mèo rừng linh
+- tinh mắt (như mèo rừng linh)
+
+@lynch  
+*  dt: (Lynch-law) @lynch law  
+*  dt: (Lynch-law) @lynx  
+*  dt
+- (động vật học) mèo rừng linh, linh miêu
+
+@lynx-eyed  
+*  tt
+- tinh mắt như mèo rừng linh
+
+@lyonnaise
+* tt
+- nấu với củ hành
+
++  lyonnaise potatoes:khoai tây nấu với củ hành
+ @lyophilization
+* dt
+- (hoá) sự làm khô lạnh
+ @lyophilize
+* ngdgt
+- làm khô lạnh
+ @lyra
+* dt
+- số nhiều lyrac
+- (thiên) sao thiên cầm
+ @lyrate  
+*  tt
+- hình đàn lia
+
+@lyre  
+*  dt
+- đàn lia
+
+@lyric  
+*  dt
+- bài thơ trữ tình
+- (số nhiều) thơ trữ tình
+- (từ Mỹ,nghĩa Mỹ) lời bài hát được ưa chuộng
+*  tt: (lyrical) @lyrical  
+*  dt
+- bài thơ trữ tình
+- (số nhiều) thơ trữ tình
+- (từ Mỹ,nghĩa Mỹ) lời bài hát được ưa chuộng
+*  tt: (lyrical) @lyrically
+* dt
+- trữ tình, nên thơ
+ @lyricalness  
+*  dt
+- tính chất trữ tình
+
+@lyricism  
+*  dt
+- thơ trữ tình, thể trữ tình
+- tình cảm cường điệu, tình cảm bốc đồng
+
+@lyricist  
+*  dt
+- nhà thơ trữ tình
+
+@lyriform
+* tt
+- dạng đàn lia
+ @lyrist  
+*  dt
+- người chơi đàn lia
+- nhà thơ trữ tình
+
+@lyse
+* ngdgt
+- (sinh học) làm cho dung giải
+* ndgt
+- dung giải
+ @lysenkoism
+* dt
+- học thuyết Lysenko
+ @lysenkoist
+* dt
+- người theo học thuyết Lysenko
+* tt
+- theo học thuyết Lysenko
+ @lysimeter
+* dt
+- thẩm kế
+ @lysin  
+*  dt, 
+- lizin tiêu tố
+
+@lysine  
+*  dt
+- (hoá học) Lizin (một loại aminoaxit)
+
+@lysis  
+*  dt
+- (y học) sự giảm dần (bệnh)
+- (sinh vật học) sự tiêu
+
+@lysol  
+*  dt
+- thuốc sát trùng lizon
+
+@lysozyme
+* dt
+- (sinh học) lizozim
+ @lyssophobia  
+*  dt
+- ám ảnh sợ bệnh dại
+
+@

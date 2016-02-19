@@ -1,0 +1,4 @@
+@cv
+* (viết tắt)
+- lý lịch (curriculum vitae)
+ @

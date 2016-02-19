@@ -1,0 +1,4738 @@
+@grab  
+*  dt
+- cái chộp; sự túm lấy, sự vồ lấy, sự tóm, sự cố tóm lấy
+
++ to make a grab at something: chộp lấy cái gì
+- sự tước đoạt, sự chiếm đoạt
+
++ a polic of grab: chính sách chiếm đoạt (về chính trị và thương mại)
+- (kỹ thuật) gàu xúc, gàu ngoạm máy xúc ((cũng) grab bucket)
+- (đánh bài) lối chơi gráp (của trẻ con)
+*  dgt
+- chộp; túm, vồ lấy, tóm, bắt
+- tước đoạt
+
+@grab-all  
+*  dt
+- (thông tục) túi đựng các thứ linh tinh
+- (từ lóng) kẻ keo kiệt; kẻ tham lợi, kẻ vơ vét
+
+@grabber  
+*  dt
+- người túm, người vồ, người chụp lấy
+- người tước đoạt, người chiếm đoạt
+- kẻ hám tiền, kẻ chỉ thích làm giàu
+*  ndgt
+- ((thường) : for) mò, sờ soạng; bò (để tìm vật gì)
+
+@grabble
+* ngdgt
+- mò; sờ soạng tìm
+- bò
+ @grabbly
+* tt
+- ham vơ vét; tham lam
+ @graben
+* dt
+- địa hào; graben
+ @grace  
+*  dt
+- vẻ duyên dáng, vẻ yêu kiều; vẻ uyển chuyển
+
++ to speak with grace: ăn nói có duyên
+
++ to dance with grace: nhảy múa uyển chuyển
+
++ to walk with grace: đi đứng uyển chuyển
+- (số nhiều) vẻ phong nhã, vẻ thanh nhã
+
++ airs and graces: diệu màu mè
+- thái độ (trong khi làm việc gì)
+
++ to do something with a good grace: vui lòng làm việc gì
+
++ with a bad (an all) grace: miễn cưỡng
+
++ he had the grace to say that...: anh ta cũng biết điều mà nói rằng...
+- ơn huệ; sự trọng đãi, sự chiếu cố
+
++ to be in somebody's good graces: được ai trọng đâi, được ai chiếu cố
+
++ an act of grace: hành động chiếu cố, đặc ân
+- sự gia hạn, sự cho hoãn (có tính chất gia ơn)
+
++ to give somebody a week's grace: cho hạn bảy ngày (phải trả tiền hoặc làm xong việc gì)
+
++ last day of grace: thời hạn cuối cùng
+- sự miễn xá, sự khoan hồng, sự khoan dung
+
++ a measure of grace: biện pháp khoan dung
+- ơn trời, ơn Chúa
+
++ by God's grace: nhờ ơn trời, nhờ trời
+
++ in the year of grace 1966: năm 1966 sau công nguyên
+- lời cầu nguyện (trước hay sau bữa ăn cơm)
+- ngài (tiếng xưng hô với những người thuộc dòng quý tộc, với các giám mục...)
+
++ His (Her, Yours) Grace the Duke: ngài công tước
+- (âm nhạc) nét hoa mỹ (trong bản nhạc, bài ca)
+
++ a grace note: nốt nhạc làm cho bản nhạc thêm hay
+- sự cho phép dự thi (ở trường đại học)
+- (số nhiều) (The Graces) (thần thoại,thần học) thần Mỹ nữ
+!to take dinner without grace
+- ăn nằm với nhau trước khi cưới
+*  ngdgt
+- làm cho duyên dáng thêm
+- làm vinh dự, làm vẻ vang, ban vinh dự cho
+
++ the ceremony was graced by the presence of...: buổi lễ được vinh dự đón tiếp..., sự có mặt của... là một vinh dự cho buổi lễ
+
+@grace-cup
+* dt
+- chén rượu cuối cùng khi từ biệt nhau
+- chén rượu chúc phúc
+ @graceful  
+*  tt
+- có duyên, duyên dáng, yêu kiều
+- phong nhã, thanh nhã
+
+@graceful exit
+- (Tech) lối thoát nhẹ nhàng
+ @gracefully
+* dt
+- duyên dáng, yêu kiều, trang nhã
+ @gracefulness  
+*  dt
+- vẻ duyên dáng, vẻ yêu kiều
+- vẻ phong nhã, vẻ thanh nhã
+
+@graceless  
+*  dt
+- bất nhã, khiếm nhã; trơ tráo
+
++ graceless behaviour: cách đối xử bất nhã
+- (từ hiếm,nghĩa hiếm) vô duyên
+- (từ cổ,nghĩa cổ);(đùa cợt) đồi truỵ
+
+@gracelessly
+* dt
+- khiếm nhã, cợt nhã
+ @gracelessness
+* dt
+- sự khiếm nhã, sự cợt nhã
+ @grace-note
+* dt
+- (âm nhạc) nốt nhạc làm cho bản nhạc thêm hay
+ @gracilaria
+* dt
+- (thực vật) rau câu
+ @gracile  
+*  tt
+- mảnh dẻ, thanh thanh
+
+@gracilis
+* dt
+- cơ khép mông
+ @gracility  
+*  dt
+- vẻ mảnh dẻ, vẻ thanh thanh
+
+@gracioso
+* dt
+- người hề trong bài kịch Tây Ban Nha
+ @gracious  
+*  tt
+- thanh thanh, lịch sự
+- có lòng tốt, tử tế
+
++ it was gracious of her to come: cô ấy đã có lòng tốt đến dự
+- từ bi, nhân từ; độ lượng, khoan dung
+- (từ cổ,nghĩa cổ) dễ chịu
+*  thán từ
+- gracious me!; good gracious! trời!, trời ơi!, chao ôi!
+
+@graciously
+* dt
+- hoà nhã, ân cần
+- tử tế, độ lượng, khoan dung
+ @graciousness  
+*  dt
+- vẻ thanh lịch, vẻ lịch sự
+- lòng tốt; sự tử tế
+- tt bi, tính nhân từ; tính độ lượng, tính khoan dung
+
+@grackle
+* dt
+- (động vật) sáo đá
+ @grad  
+*  dt (từ Mỹ,nghĩa Mỹ),  (thông tục) ((cũng) graduate)
+- (Anh) người tốt nghiệp đại học
+- (Mỹ) học viên dự hết một khoá học
+
+@grad
+- lớp, bậc, hạng; grat (đơn vị đo góc)
+ @gradable
+* tt, cũng gradeable
+- có thể chia thành độ, cấp bậc để so sánh
+
++  beauty is gradable:cái đẹp có thể chia thành cấp độ được
+ @gradable
+- (đại số) phân bậc được
+ @gradate  
+*  ngdgt
+- sắp đặt theo cấp bậc
+- (nghệ thuật) làm cho nhạt dần (màu sắc)
+*  ndgt
+- nhạt dần (màu sắc)
+
+@gradate
+- chia độ; (đại số) phân bậc
+ @gradation  
+*  dt
+- sự phát triển từng bước, sự thay đổi từ từ
+- sự sắp đặt theo mức độ tăng dần
+- (số nhiều) bậc, cấp, mức độ, giai đoạn
+- (nghệ thuật) phép vẽ màu nhạt dần
+
+@gradation
+- sự chia độ; sự chuyển tiếp dần dần; sự tiệm tiến
+ @gradation of image
+- (Tech) phân cấp hình
+ @gradation of light
+- (Tech) phân cấp ánh sáng
+ @gradational  
+*  tt
+- phát triển từng bước theo mức độ tăng dần
+
+@gradationally
+- xem gradation
+ @gradatory
+* tt
+- có phân cấp, có thứ bậc
+- tiến lên tuần tự
+ @grade  
+*  dt
+- (toán học) Grát
+- cấp bậc, mức, độ; hạng, loại; tầng lớp
+- (từ Mỹ,nghĩa Mỹ) điểm, điểm số (của học sinh)
+
++ to make the grade: đạt đủ điểm, đủ trình độ; thành công, thắng lợi
+- lớp (học)
+
++ the fourth grade: lớp bốn
+- dốc; độ dốc ((nghĩa đen) & (nghĩa bóng))
+
++ on the up grade: lên dốc
+
++ on the down grade: xuống dốc
+
++ movement is on the up grade: phong trào đang phát triển, phong trào đang theo hướng đi lên
+- (nông nghiệp) giống súc vật cải tạo (do lai giống địa phương với giống tốt hơn)
+*  ngdgt
+- sắp, xếp, lựa; phân loại, chia loại; phân hạng
+
++ to grade milk: phân loại sữa
+
++ graded by size: chia theo cỡ
+- sửa (độ dốc) thoai thoải
+- tăng lên
+- ((thường) : up) lai cải tạo (lai một giống tốt hơn)
+- (nghệ thuật) đánh nhạt dần (màu sắc)
+- (từ Mỹ,nghĩa Mỹ) thay đổi dần dần; sắp xếp theo mức độ tăng
+
+@grade
+- lớp, bậc, hạng; giá trị của các hàm phân phối; độ dốc (đường cong);
+- grat (đơn vị đo góc) 
+- g. of matrix (đại số) hạng của ma trận 
+ @grade pupil  
+*  dt
+- học sinh phổ thông
+
+@grade school  
+*  dt
+- trường phổ thông
+
+@grade teacher  
+*  dt
+- giáo viên phổ thông
+
+@gradebuilder
+* dt
+- máy san nền đuờng
+ @grade-crossing  
+*  dt
+- (từ Mỹ,nghĩa Mỹ)
+- (như) level_crossing
+
+@graded
+* tt
+- xếp hạng; phân hạng; xếp loại
+- chọn lọc
+ @graded
+- bị chia độ; (đại số) bị phân bậc
+- double g. (đại số) phân bậc kép 
+ @grader
+* dt
+- máy san đất; máy ủi
+- máy tuyển chọn; máy phân hạng; máy phân loại
+- học sinh thuộc một cấp lớp nào đó trong trường tiểu học hoặc trung học
+
++  tenth graders:các học sinh lớp 10
+ @grade-schooler
+- xem grade school
+ @gradient  
+*  dt
+- dốc, đường dốc; độ dốc
+
++ a steep gradient: đường dốc tuộc
+
++ speed on a gradient: tốc độ lên dốc (ôtô)
+- (vật lý) Graddien
+
++ temperature gradient: graddien độ nhiệt
+
++ pressure gradient: graddien áp xuất
+
+@gradient
+- (Tech) thang độ; độ nghiêng, mặt dốc; graddiên
+ @gradient
+- (hình học); (vật lí) građiên của một hàm
+- g. of a function građiên của một hàm 
+- energy g. građiên năng lượng 
+- presure g. građiên áp 
+ @gradienter
+* dt
+- (kỹ thuật) máy thủy chuẩn; máy đo cao trình
+ @gradin   (gradine) @gradine   (gradine) @grading
+* dt
+- sự tuyển chọn, sự phân loại
+- thành phần cơ học, cỡ hạt
+- sự an đất, ủi đất
+- (đường sắt) sự đặt ray
+ @gradiometer  
+*  dt
+- (vật lý) cái đo trọng sai
+
+@gradology
+* dt
+- tăng sản học (côn trùng)
+ @gradual  
+*  tt
+- dần dần, từ từ, từng bước một
+
++ a gradual change: sự thay đổi từ từ
+
++ gradual transition: sự quá độ dần dần
+
++ a gradual slope: dốc thoai thoải
+
+@Gradualism
+- (Econ) Trường phái tuần tiến; Chủ nghĩa tuần tiến; thuyết tuần tiến.
+: Một quan điểm của chính sách phát triển kinh tế cho rằng quá trình phát triển kinh tế là một hiện tượng tăng trưởng từ từ, chắc chắn, chậm chạp và do vậy các biện pháp chính sách cần thiết cũng phải mang đặc trưng nay.
+ @gradualism
+* dt
+- phương pháp từ từ, phương pháp tiệm tiến
+- tiệm tiến luận
+ @Gradualist monetarist
+- (Econ) Người theo thuyết trọng tiền tuần tiến.
+ @gradually
+* dt
+- dần dần, từ từ
+ @gradualness
+* dt
+- tính cách dần dần, tính cách từ từ
+ @graduate  
+*  dt
+- (như) grad
+- (hoá học) cốc chia độ
+*  ngdgt
+- chia độ
+- tăng dần dần
+- sắp xếp theo mức độ
+- cô đặc dần (bằng cách cho bay hơi)
+- cấp bằng tốt nghiệp đại học
+*  ndgt
+- được cấp bằng tốt nghiệp đại học; tốt nghiệp đại học
+
++ to graduate in law: tố nghiệp về luật
+- chuyển dần dần thành
+- tự bồi dưỡng để đạt tiêu chuẩn; tự bồi dưỡng để đủ tư cách
+
++ to attend an evening class to graduate as an engineer: học lớp buổi tối để đạt trình độ kỹ sư
+
+@graduate
+- chia độ, sắp xếp chia
+ @Graduate tax
+- (Econ) Thuế đại học
+: Một kế hoạch tài trợ cho giáo dục đại học thông qua đó sinh viên được vay tiền để đáp ứng các chi phí về giáo dục và @graduated pension
+* dt
+- khoản trợ cấp dựa theo mức phí bảo hiểm xã hội góp khi còn đi làm và mức lương hưu trí
+ @graduateship
+* dt
+- địa vị tốt nghiệp đại học
+ @graduation  
+*  dt
+- sự chia độ
+- sự tăng dần dần
+- sự sắp xếp theo mức độ
+- sự cô đặc dần (bằng cách cho bay hơi)
+- sự cấp bằng tốt nghiệp; sự tốt nghiệp; (từ Mỹ,nghĩa Mỹ) lễ trao bằng tốt nghiệp
+
+@graduation
+- ssự chia độ, sự chia đường cong theo các điểm; (đại số) sự phân bậc;
+- sự phong học vị; sự tốt nghiệp 
+ @graduator  
+*  dt
+- dụng cụ để chia đồ
+
+@gradus
+* dt
+- từ điển vật luận (tiếng La Tinh,  Hy Lạp)
+ @graecism
+* dt
+- từ ngữ đặc Hy lạp
+- tinh thần, phong cách Hy lạp
+ @graet
+- lớn, đáng kể
+- infinitely g. vô cùng lớn 
+ @graf
+* dt; số nhiều grafen
+- công tước (tước hiệu Đức)
+ @graffiti  
+*  dt,  số nhiều graffiti
+- grafitô (hình vẽ, chữ viết trên tường cổ...)
+- (nghệ thuật) nghệ thuật grafitô (trang trí bằng cách cạo thạch cao cho lộ mặt dưới có màu khác)
+
+@graffito  
+*  dt,  số nhiều graffiti
+- grafitô (hình vẽ, chữ viết trên tường cổ...)
+- (nghệ thuật) nghệ thuật grafitô (trang trí bằng cách cạo thạch cao cho lộ mặt dưới có màu khác)
+
+@grafin
+* dt
+- nữ công tước (tước hiệu đức)
+ @graft  
+*  dt
+- cành ghép; sự ghép cây; chỗ ghép cây
+- (y học) mô ghép; sự ghép mô; chỗ ghép mô
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (thông tục) sự ăn hối lộ; sự đút lót, sự hối lộ
+*  ndgt
+- ăn hối lộ; đút lót
+*  dt
+- mai (đầy), thuổng (đầy) (đất)
+- thuổng (lưỡi hình) bán nguyệt
+
+@graftage  
+*  dt
+- sự ghép cây; thuật ghép cây
+
+@grafter  
+*  dt
+- cành ghép; chồi ghép
+- dao ghép
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) kẻ ăn hối lộ; kẻ đút lót, kẻ hối lộ
+
+@grafting
+* dt
+- sự ghép cành
+- sự ghép xương
+- kỹ thuật ghép
+ @grail  
+*  dt
+- cái giũa để làm lược
+
+@grain  
+*  dt (dt tập thể số ít)
+- thóc lúa
+- hạt, hột
+
++ a grain of rice: hạt gạo
+
++ grains of sand: hạt cát
+- một chút, mảy may
+
++ without a grain of love: không một mảy may yêu thương
+- thớ (gỗ)
+
++ wood of fine grain: gỗ thớ mịn
+
++ with the grain: dọc thớ, thuận theo thớ
+
++ against the grain: ngang thớ
+- tính chất, bản chất; tính tình, khuynh hướng
+
++ in grain: về bản chất; triệt để, hoàn toàn
+
++ a rogue in grain: một thằng chúa đểu
+
++ man of coarse grain: người thô lỗ
+- Gren (đơn vị trọng lượng bằng 0, 0648 gam)
+- phẩm yên chi (để nhuộm); (thơ ca) màu nhuộm
+- (số nhiều) bã rượu
+!to be (go) against the grain
+- trái ý muốn
+!dyed in grain
+- (xem) dye
+*  ngdgt
+- nghiến thành hột nhỏ
+- làm nổi hột (ở bề mặt)
+- sơn già vân (như vân gỗ, vân đá)
+- nhuộm màu bền
+- thuộc thành da sần
+- cạo sạch lông (da để thuộc)
+*  ndgt
+- kết thành hạt
+
+@grain
+- (vật lí) hạt
+ @grain binder  
+*  dt
+- (nông nghiệp) máy gặt bó
+
+@grain cleaner  
+*  dt
+- (nông nghiệp) máy quạt thóc
+
+@grain dryer  
+*  dt
+- (nông nghiệp) máy sấy hạt
+
+@grain elevator  
+*  dt
+- máy hút lúa (vào kho)
+
+@grainer  
+*  dt
+- thợ vẽ vân giả
+- bút lông vẽ vân giả
+- công nhân thuộc da sần
+
+@graininess
+- xem grainy
+ @graining
+* dt
+- sự tạo hạt; sự nổi hạt
+- sự tạo vân gỗ
+ @grain-leather  
+*  dt
+- da sần
+
+@grains  
+*  dt,  số nhiều (thường) dùng như số ít
+- xiên đâm cá
+
+@grain-sick  
+*  dt
+- (thú y học) bệnh trướng da cỏ
+
+@grain-side  
+*  dt
+- mặt sần (của tấm da)
+
+@grainy  
+*  tt
+- có hạt, nhiều hạt
+- sần da
+
+@grallock
+* dt
+- ruột, lòng thú vật (đặc biệt thú vật săn)
+* ngdgt
+- moi ruột ra, lấy ruột ra
+ @gram  
+*  dt
+- (như) gramme
+- (thực vật học) đậu Thổ-nhĩ-kỳ
+- đậu xanh
+
+@gram molecule  
+*  dt
+- (hoá học) phân tử gam
+
+@grama   (grama) @gramarye
+* dt
+- (từ cổ, nghĩa cổ) yêu thuật
+ @gramercy
+- interj
+- xin đa tạ!
+ @Gramian
+- (thuộc) Gram
+ @graminaceous   (gramineous) @gramineous   (gramineous) @gramineousness
+- xem gramineous
+ @graminifolious
+* tt
+- có lá như cỏ
+ @graminivorous  
+*  tt
+- ăn cỏ
+
+@gramma   (grama) @grammalogue  
+*  dt
+- ký hiệu (viết tốc ký...)
+
+@grammar  
+*  dt
+- (ngôn ngữ học) ngữ pháp
+
++ general (philosophical, universal) grammar: ngữ pháp phổ thông
+
++ historical grammar: ngữ pháp lịch sử
+
++ comparative grammar: ngữ pháp so sánh
+
+@grammar
+- ngữ pháp, cơ sở khoa học
+ @grammarian  
+*  dt
+- (ngôn ngữ học) nhà ngữ pháp
+
+@grammar-school  
+*  dt
+- trường dạy tiếng La-tinh ((thế kỷ) 16)
+- (từ Mỹ,nghĩa Mỹ) trường trung học
+
+@grammatical  
+*  tt
+- (ngôn ngữ học) (thuộc) ngữ pháp; theo ngữ pháp
+
++ a grammatical error: lối ngữ pháp
+
+@grammaticality
+- xem grammatical
+ @grammatically
+* dt
+- về mặt ngữ pháp
+ @grammaticism
+* dt
+- đặc tính ngữ pháp
+ @grammaticize
+* ngdgt
+- ngữ pháp hoá; làm theo ngữ pháp
+ @grammatist
+* dt
+- xem grammarian
+ @grammatite
+* dt
+- (khoáng chất) grammatit
+ @gramme  
+*  dt
+- gam
+
+@gramme-atom
+* dt
+- (hoá học) phân tử gram
+ @gramme-calorie
+* dt
+- cũng gram-calorie
+- calo-gram
+ @gramme-equivalent
+* dt
+- cũng gram-equivalent
+- đương lượng-gam
+ @gramme-molecule
+* dt
+- cũng gram-molecule
+- phân tử gam
+ @gramme-weight
+* dt
+- cũng gram-weight
+- trọng lượng-gam
+ @grammophone  
+*  dt
+- máy hát
+
+@gram-negative  
+*  tt
+- (y học) gam âm
+
+@gramophone
+* dt
+- máy hát
+ @gramp
+* dt
+- (thông tục) ông (grandpapa nói tắt)
+ @gram-positive  
+*  tt
+- (y học) gam dương
+
+@grampositive
+* dt
+- gram dương
+ @grampus  
+*  dt
+- (động vật học) cá heo
+- người thở phì phò
+- (kỹ thuật) cái kìm lớn
+
+@Gram-Schmidt Procedure
+- (Tech) phương pháp @gran
+* dt
+- (thông tục) bà (grandmother nói tắt)
+ @grana
+* dt số nhiều
+- hạt xếp cọc
+ @granadilla  
+*  dt
+- (thực vật học) cây dưa gang tây
+- quả dưa gang tây
+
+@granary  
+*  dt
+- kho thóc
+- vựa lúa (vùng sản xuất nhiều lúa)
+
+@grand  
+*  tt
+- rất quan trọng, rất lớn
+
++ grand question: vấn đề rất quan trọng
+
++ to make a grand mistake: phạm một lỗi lầm rất lớn
+- hùng vĩ, uy nghi, trang nghiêm, huy hoàng
+
++ a grand view: một cách hùng vĩ
+- cao quý, cao thượng; trang trọng, bệ vệ
+
++ grand manner: cử chỉ cao quý
+
++ a grand air: điệu bộ trang trọng bệ vệ
+- vĩ đại, cừ khôi, xuất chúng, lỗi lạc, ưu tú
+
++ Grand Lenin: Lênin vĩ đại
+
++ he's a grand fellow: anh ấy là một tay cừ khôi
+- (thông tục) tuyệt, hay, đẹp
+
++ what grand weather!: trời đẹp tuyệt!
+- chính, lơn, tổng quát
+
++ the grand entrance: cổng chính
+
++ a grand archestra: dàn nhạc lớn
+
++ the grand total: tổng số tổng quát
+!to do the grand
+- làm bộ làm tịch; lên mặt
+*  dt
+- (âm nhạc) đàn pianô cánh
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) một nghìn đô la
+
+@grand
+- to, lớn, quan trọng
+ @grand duke
+* dt
+- đại công tước
+ @Grand factor price frontier
+- (Econ) Giới hạn giá cả nhân tố chính.
+: Một khái niệm do P.SAMUELSON SỬ DỤNG nhằm khôi phục lại việc sử dụng tổng tư bản trong các mô hình kinh tế tân cổ điển.
+ @grand finale
+* dt
+- phần cuối buổi trình diễn khi tất cả các diễn viên tập hợp trên sàn diễn
+ @grand jury
+* dt
+- ban hội thẩm, bồi thẩm đoàn
+ @grand master  
+*  dt
+- kiện tướng cờ
+
+@grand national
+* dt
+- cuộc đua ngựa vượt rào ở Anh
+ @grand piano  
+*  dt
+- (âm nhạc) đàn pianô cánh
+
+@grand prix
+* dt
+- cuộc đua ôtô tranh giải quán quân thế giới
+ @grand slam
+* dt
+- <thể> thắng lợi trong cuộc so tài
+ @grand total
+* dt
+- tổng cộng
+ @grand tour
+* dt
+- sự đi đó đi đây để mở rộng tầm hiểu biết
+ @grandad   (grandad) @grandam
+* dt
+- cũng grandame
+- bà
+- bà cụ già
+ @grand-aunt  
+*  dt
+- bà bác, bà cô, bà thím, bà dì, bà trẻ
+
+@grandchild  
+*  dt
+- cháu (của ông bà)
+
+@granddad   (grandad) @granddaughter  
+*  dt
+- cháu gái (của ông bà)
+
+@grandee  
+*  dt
+- nhà quý tộc (ở Tây-ban-nha và Bồ-ddào-nha)
+- nhân vật quan trọng
+
+@grandeur  
+*  dt
+- vẻ hùng vĩ, vẻ trang nghiêm, vẻ huy hoàng
+- sự cao quý, sự cao thượng
+- sự vĩ đại, sự lớn lao
+- điệu bộ oai vệ
+- lối sống vương giả
+- uy quyền, quyền thế
+
+@grandfather  
+*  dt
+- ông
+!grandfather's clock
+- đồng hồ to để đứng
+
+@Grandfather clause
+- (Econ) Điều khoản dành cho những người có chức.
+: Một sự dàn xếp qua đó các thành viên hiện hành thuộc một nghề nghiệp được miễn áp dụng các bản vị CẤP BẰNG NGHỀ NGHIỆP cao hơn đặt ra cho nghề nghiệp này.
+ @grandiloquence  
+*  dt
+- tính khoác lác, tính khoa trương ầm ỹ
+- (văn học) tính kêu rỗng
+
+@grandiloquent  
+*  tt
+- khoác lác, khoa trương ầm ỹ
+- (văn học) kêu rỗng
+
+@grandiloquently
+- xem grandiloquence
+ @grandiloquous
+* tt
+- khoa trương nhưng trống rỗng
+ @grandiose  
+*  tt
+- vĩ đại, hùng vĩ, lớn lao, đại quy mô
+- long trọng, phô trương
+
+@grandiosely
+- xem grandiose
+ @grandiosity  
+*  dt
+- vẻ hùng vĩ, vẻ lớn lao, vẻ đại quy mô
+
+@grandioso
+* dt, adj
+- (âm nhạc) hùng tráng
+ @grandly
+* dt
+- đàng hoàng, đâu ra đấy
+ @grandma  
+*  dt
+- uây oác['grænmə,mɑ:]
+*  dt
+-(thân mật) bà
+
+@grandmamma  
+*  dt
+-(thân mật) bà
+
+@grandmother  
+*  dt
+- bà
+*  ngdgt
+- nuông chiều, nâng niu (như bà đối với cháu)
+
+@grandmotherly  
+*  tt
+- như bà đối với cháu; quá nuông chiều
+
+@grand-nephew  
+*  dt
+- cháu trai (gọi bằng ông bác, ông chú, ông cậu, ông trẻ)
+
+@grandness
+- xem grand
+ @grand-niece  
+*  dt
+- cháu gái (gọi bằng ông bác, ông chú, ông cậu, ông trẻ)
+
+@grandpa  
+*  dt
+- nhuấy &
+
+@grandpapa  
+*  dt
+-(thân mật) ông
+
+@grandparents  
+*  dt số nhiều
+- ông bà (nội ngoại)
+
+@grand-relief
+* dt
+- chạm nổi cao
+ @grandsire
+* dt
+- (từ cổ, nghĩa cổ) ông; tổ phụ
+- tổ tiên; tổ khảo
+- cụ già
+ @grandson  
+*  dt
+- cháu trai (gọi bằng ông nội, ông ngoại)
+
+@grandstand
+* dt
+- khán đài trong nhà thi đấu hoặc trong sân vận động
+ @grandstander
+- xem grandstand
+ @grand-uncle  
+*  dt
+- ông bác, ông chú, ông cậu, ông trẻ
+
+@grand-vizier
+* dt
+- tể tướng (Thổ Nhĩ Kỳ)
+ @grange  
+*  dt
+- ấp, trại; trang trại
+- (từ Mỹ,nghĩa Mỹ) nghiệp đoàn nông dân
+
+@granger  
+*  dt
+- người quản lý ấp trại
+- nông dân trong áp trại
+
+@Granger causality
+- (Econ) Tính nhân qủa Granger.
+: Xem CAUSALITY.
+ @grangerism
+* dt
+- cách minh hoạ sách bằng ảnh, bản khắc lấy ở các tác phẩm khác
+ @grangerize
+* ngdgt, cũng grangerise
+- minh hoạ sách bằng bản khắc và ảnh lấy ở các tác phẩm khác
+ @graniferous  
+*  tt
+- có hạt; sinh hạt
+
+@graniform  
+*  tt
+- hình hạt
+
+@granite  
+*  dt
+- (khoáng chất) đá granit
+!to bite on granite
+- lấy đao chém đá, lấy gậy chọc trời
+
+@granitelike
+* tt
+- giống granit
+ @graniteware
+* dt
+- đồ sắt tráng men xám
+- đồ gốm bên ngoài có vẻ granit
+ @granitic  
+*  tt
+- (thuộc) granit
+- có granit
+
+@granitite
+* dt
+- (khoáng chất) granitit
+ @granitoid  
+*  tt
+- dạng granit, tựa granit
+
+@granivorous  
+*  tt
+- ăn hạt
+
+@grannie   (granny) @granny   (granny) @granny flat
+* dt
+- căn buồng riêng của người già
+ @granny knot
+* dt
+- nút dễ tuột
+ @granodiorite
+* dt
+- (khoáng chất) granodiorit
+ @granolith
+* dt
+- đá nhân tạo bằng xi măng trộn granit vụn
+ @granolithic
+* tt
+- thuộc đá nhân tạo bằng xi-măng trộn granit vụn
+ @granoscaling
+* dt
+- sự phốt phát hoá
+ @granose
+* tt
+- (sinh học) dạng chuỗi hạt
+ @grant  
+*  dt
+- sự cho, sự ban cho, sự cấp cho
+- trợ cấp
+
++ to make a grant to somebody: trợ cấp cho ai
+- sự nhượng, sự nhường lại (của cải, quyền...)
+- (pháp lý) sự chuyển nhượng bằng khế ước
+!capitation
+- tiền trợ cấp
+*  ngdgt
+- cho, ban (ơn), cấp
+
++ to grant a favour: gia ơn, ban ơn
+
++ to grant somebody a permission to do something: cho phép ai làm việc gì
+- thừa nhận, công nhận, cho là
+
++ to take for granted: cho là dĩ nhiên, cho là điều tất nhiên
+- nhượng (của cải, quyền...)
+
+@Grant
+- (Econ) Trợ cấp.
+: Khoản tiền do một tổ chức hay cá nhân cấp cho các tổ chức và các cá nhân khác mà nó không tạo thành một bộ phận trao đổi nào đó, nhưng chỉ là một thanh toán chuyển khoản một chiều.
+ @Grant in aid
+- (Econ) Trợ cấp dưới dạng viện trợ.
+: Xem INTER-GOVERNMENTAL GRANTS.
+ @grantable  
+*  tt
+- có thể cho được, có thể cấp được
+- có thể nhượng được
+
+@granted
+* dt
+- giả dụ như vậy, cứ cho là như vậy, cứ công nhận như vậy
+ @grantee  
+*  dt
+- người được ban (cái gì)
+- người được hưởng trợ cấp
+- người được hưởng quyền chuyển nhượng
+
+@granter
+- xem grant
+ @grant-in-aid  
+*  dt
+- tiền trợ cấp
+
+@grantor  
+*  dt
+- người ban cho
+- người trợ cấp
+- người chuyển nhượng
+
+@granular  
+*  tt
+- (thuộc) hột, hình hột, như hột
+- có hột
+
+@granular
+- (vật lí) (thuộc) hạt (nhỏ)
+ @granular noise
+- (Tech)nhiễu sóng hạt
+ @granularity  
+*  dt
+- tính chất như hột
+- tính chất có hột
+
+@granularly
+- xem granular
+ @granulate  
+*  ngdgt
+- nghiền thành hột nhỏ
+- làm kết thành hột nhỏ, làm nổi hột (ở một vật gì)
+
++ granulated sugar: đường kính
+*  ndgt
+- kết hột
+
+@granulate
+- (vật lí) làm thành hạt
+ @granulated
+* tt
+- kết hạt; tạo thành hạt
+ @granulating
+* dt
+- sự kết hạt; sự tạo thành hạt; sự nghiền hạt
+ @granulation  
+*  dt
+- sự nghiền thành hột nhỏ
+- sự kết hột
+
+@granulative
+- xem granulate
+ @granulator
+- xem granulate
+ @granule  
+*  dt
+- hột nhỏ
+
+@granule
+- (vật lí) hạt nhỏ
+ @granulite
+* dt
+- (khoáng chất) granulit
+ @granulitic
+* tt
+- thuộc granulit
+ @granulocyte
+* dt
+- bạch cầu hạt; tế bào dạng mielin (trong tủy xương)
+ @granuloma
+* dt
+- (y học) u hạt
+ @granulometry
+* dt
+- phép đo độ hạt
+ @granulous
+* tt
+- xem granular
+ @grape  
+*  dt
+- quả nho
+
++ a bunch of grapes: chùm nho
+- (như) grape-shot
+- (thú y học) bệnh sưng chùm nho ((từ cổ,nghĩa cổ) chân, ngựa, lừa)
+!sour grapes; the grapes are sour
+- nho xanh chẳng đáng miệng người phong lưu
+
+@grape-basket  
+*  dt
+- giỏ đựng nho, rổ đựng nho
+
+@grape-cure  
+*  dt
+- (y học) phép chữa bệnh bằng nho
+- được chữa bệnh bằng nho
+
+@grape-fruit  
+*  dt
+- (thực vật học) cây bưởi chùm
+- quả bưởi chùm
+
+@grapefruit
+* dt
+- (thực vật học) cây bưởi chùm
+- quả bưởi chùm
+ @grape-gatherer
+* dt
+- người hái nho
+ @grape-gatherering
+* dt
+- việc hái nho; mùa nho
+ @grape-gleaning
+* dt
+- việc mót nho
+ @grape-house  
+*  dt
+- nhà kính trồng nho
+
+@grape-hyacinth
+* dt
+- cây huệ xạ, hoa huệ xạ
+ @grape-juice  
+*  dt
+- nước nho
+
+@grapery  
+*  dt
+- nhà kính trồng nho
+
+@grape-scissors  
+*  dt
+- kéo tỉa nho
+
+@grape-shot  
+*  dt
+- (sử học),  (quân sự) đạn chùm (của đại bác)
+
+@grape-stone  
+*  dt
+- hột nho
+
+@grape-sugar  
+*  dt
+- đường nho,  glucoza
+
+@grape-vine  
+*  dt
+- cây nho
+- hệ thống thông tin mật
+- tin vịt
+
+@graph  
+*  dt
+- đồ thị
+- (toán học) mạch
+*  ngdgt
+- vẽ đồ thị; minh hoạ bằng đồ thị
+*  dt
+- máy in thạch
+*  dgt
+- in thạch
+
+@graph
+- (Tech) đồ thị, đồ họa, đồ hình; vẽ đồ thị (đt)
+ @graph
+- biểu đồ, đồ thị, đồ hình, mạch
+- g. of a equation đồ thị của một phương trình
+- alternating g. đồ hình thay phiên
+- lipartite g. đồ thị hai nhánh
+- brocken line g. đồ thị có dạng hình gấp khúc
+- bunch g. đồ thị thành chùm
+- circular g. đồ thị vòng
+- critical g. (tô pô) đồ thị tới hạn
+- high-low g. (thống kê) biểu đồ các cực trị
+- kinematic (al) g. đồ thị động lực
+- linear g. tuyến đồ
+- planar g. (tô pô) đồ hình phẳng
+- superposed g. (tô pô) đồ hình chồng chất 
+ @graph command
+- (Tech) lệnh đồ thị
+ @graph model
+- (Tech) mô hình đồ thị
+ @graph plotter
+- (Tech) máy vẽ đồ thị
+ @graph structure
+- (Tech) cấu trúc đồ thị
+ @graph theory
+- (Tech) lý thuyết đồ thị
+ @graph worksheet
+- (Tech) bảng kế toán đồ thị
+ @grapheme
+* dt
+- tự vị
+ @graphemic
+* tt
+- thuộc tự vị
+ @graphemics
+* dt
+- sự phân tích, nghiên cứu tự vị
+ @grapher
+- (máy tính) dụng cụ vẽ đồ thị
+ @graphic  
+*  tt
+- (thuộc) đồ thị; minh hoạ bằng đồ thị
+
++ graphic statics: tĩnh học đồ thị
+
++ graphic algebra: đại số đồ thị
+
++ graphic solution: phép giải đồ thị
+- sinh động
+
++ a graphic account of the football match: bài tường thuật sinh động trận đấu bóng đá
+- (nghệ thuật) tạo hình
+
++ the graphic arts: nghệ thuật tạo hình
+- (ngôn ngữ học) (thuộc) chữ viết; (thuộc) hình chữ
+
+@graphic access method (GAM)
+- (Tech) phương pháp truy cập đồ họa
+ @graphic analysis
+- (Tech) phân tích đồ họa
+ @graphic bit image
+- (Tech) ảnh đồ họa bằng bít
+ @graphic card
+- (Tech) thẻ đồ họa
+ @graphic character
+- (Tech) ký tự đồ họa
+ @graphic data
+- (Tech) dữ liệu ký đồ
+ @graphic display
+- (Tech) sự hiển thị đồ họa; màn hình đồ họa
+ @graphic equalizer
+- (Tech) bộ cân bằng đồ họa
+ @graphic file
+- (Tech) tập tin đồ họa
+ @graphic generator
+- (Tech) bộ tạo đồ họa
+ @graphic instrument
+- (Tech) máy ghi đồ họa
+ @graphic layout
+- (Tech) mẫu bố trí đồ họa
+ @graphic mode
+- (Tech) kiểu đồ họa
+ @graphic panel
+- (Tech) bảng đồ họa (điều khiển)
+ @graphic synthesizer
+- (Tech) bộ tổng hợp đồ họa
+ @graphic terminal
+- (Tech) đầu cuối đồ họa
+ @graphical  
+*  tt
+- (từ hiếm,nghĩa hiếm) (như) graphic
+
+@graphic(al)
+- (thuộc) đồ thị có vẽ hình
+ @graphical icon
+- (Tech) hình tượng đồ họa
+ @graphical interface
+- (Tech) giao diện đồ họa (giữa người và máy điện toán)
+ @Graphical Kernel System (GKS)
+- (Tech) chuẩn đồ họa GKS (hệ thống đồ họa nồng cốt)
+ @graphical object
+- (Tech) đối tượng đồ họa
+ @graphical operating system
+- (Tech) hệ thống vận hành bằng đồ họa
+ @graphical user interface (GUI) 
++  graphical interface
+- (Tech) giao diện đồ họa cho người dùng, gu-i
+ @graphically  
+*  dt
+- bằng đồ thị
+- sinh động
+
+@graphically
+- về mặt đồ thị
+ @graphicness
+- xem graphic
+ @graphics
+- (Tech) môn đồ họa, môn đồ hình; thiết bị dồ họa @graphics adaptor
+- (Tech) bộ thích ứng @graphics coordinate system
+- (Tech) hệ thống tọa độ đồ họa
+ @graphics display controller
+- (Tech) bộ điều khiển hiển thị đồ họa
+ @graphics editor
+- (Tech) chương trình biên soạn đồ họa
+ @graphics processor
+- (Tech) bộ xử lý đồ họa
+ @graphics raster
+- (Tech) mành đồ họa
+ @graphics software
+- (Tech) nhu liệu đồ họa
+ @graphics system
+- (Tech) hệ thống đồ họa
+ @graphics tablet
+- (Tech) bảng vẻ đồ họa
+ @graphing
+- sự vẽ đồ thị, sự vẽ biểu đồ g. by composision vẽ đồ thị bằng
+- cách cộng (tung độ)
+ @graphite  
+*  dt
+- Grafit
+- than chì
+
+@graphite
+- (Tech) than chì, grafit
+ @graphitic  
+*  tt
+- (thuộc) grafit
+- có grafit
+
+@graphitization
+* dt
+- sự grafit hoá
+ @graphitize
+* ngdgt, cũng graphitise
+- làm thành grafit
+- phủ grafit
+ @graphological
+- xem graphology
+ @graphologist  
+*  dt
+- thầy tướng chữ
+
+@graphology  
+*  dt
+- thuật xem tướng chữ
+
+@graphostatis
+- tĩnh học đồ thị
+ @grapnel   (grapple) @grapple  
+*  dt
+- (như) grapnel
+- sự túm lấy, sự níu lấy
+*  dgt
+- (hàng hải) móc bằng móc sắt
+- túm lấy, níu lấy
+- (: with,  together) vật, vật lộn
+
++ to grapple with somebody: ôm ghì lấy (ai) để vật
+
++ to grapple with difficulties: vật lộn với khó khăn
+
+@grappler  
+*  dt
+- người túm lấy, người níu lấy, người ôm ghì
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bàn tay
+
+@grappling
+* dt
+- sự móc hàm
+- sự giữ néo bằng móc
+ @grappling-iron   (grapple) @graptolite
+* dt
+- (khoáng chất) graptolit
+ @grasp  
+*  dt
+- sự túm lấy, sự níu lấy, sự ôm ghì
+- quyền lực
+
++ within one's grasp: có thể nắm lấy được; trong phạm vi quyền lực
+- sự nắm được, sự hiểu thấu
+
++ to have a through grasp of a problem: hiểu triệt để một vấn đề, nắm vững vấn đề
+
++ a problem within one's grasp: vấn đề có thể hiểu được
+
++ a problem beyond one's grasp: vấn đề ngoài sự hiểu biết của mình
+- cán, tay cầm
+*  dgt
+- nắm, chắc, túm chặt, ôm chặt
+
++ to grasp somebody's hand: nắm lấy tay ai, bắt tay ai
+- nắm được, hiểu thấu (vấn đề...)
+
++ to grasp firmly: nắm vững
+
++ to grasp somebody's meaning: hiểu được ý ai
+- (: at) chộp lấy, giật lấy, cố nắm lấy
+
++ to grasp at on opportunity: chộp lấy cơ hội
+!grap all, lose all
+- ôm đồm làm hỏng việc; tham thì thâm
+!to grasp the nettle
+- (xem) nettle
+
+@graspable  
+*  tt
+- có thể nắm chắc, có thể nắm chặt
+- có thể hiểu được, có thể nắm được (vấn đề...)
+
+@grasping  
+*  tt
+- nắm chặt, giữ chặt
+- tham lam, keo cú
+
+@graspingly  
+*  dt
+- tham lam, keo cú
+
+@graspingness  
+*  dt
+- tính tham lam, tính keo cú
+
+@graspless
+* tt
+- không nắm được
+ @grass  
+*  dt
+- cỏ
+- bâi cỏ, đồng cỏ
+- bãi cỏ, thảm cỏ (ở công viên)
+
++ please, keep off the grass; do not walk on the grass: xin đừng đi lên cỏ, xin đừng giẫm lên bãi cỏ
+- (số nhiều) cây thân cỏ
+- (ngành mỏ) mặt đất
+
++ to bring ore to grass: đưa quặng lên mặt đất
+- (từ lóng) măng tây
+- (thông tục) mùa xuân
+
++ she will be two years old next grass: mùa xuân sang năm nó sẽ lên hai
+!to be at grass
+- đang gặm cỏ
+- (nghĩa bóng) đang nghỉ ngơi; không có việc
+!to cut the grass under somebody's feet
+- phỗng tay trên ai, nâng tay trên ai
+!to go to grass
+- ra đồng ăn cỏ (súc vật)
+- (từ lóng) ngã sóng soài (người)
+- (từ lóng) chết
+!to go grass!
+- chết quách đi cho rồi
+!to bear the grass grow
+- rất thính tai
+!not to let grass under one's feet
+- không để mất thì giờ (khi làm một việc gì)
+!to send to grass
+- cho (súc vật) ra đồng ăn cỏ
+- (từ lóng) đánh ngã sóng soài
+*  ngdgt
+- để cỏ mọc; trồng cỏ
+- đánh ngã sóng soài
+- bắn rơi (chim); kéo (cá) về đất liền; đưa (quặng) lên mặt đất
+- căng (vải...) trên cỏ để phơi
+
+@grass snake
+* dt
+- loại rắn nhỏ không độc
+ @grass-covered  
+*  tt
+- có cỏ mọc
+
+@grass-cutter  
+*  dt
+- người cắt cỏ
+- máy xén cỏ
+
+@grass-cutting  
+*  dt
+- sự cắt cỏ
+- (thông tục) sự bay là mặt đất (máy bay)
+
+@grass-feeding  
+*  tt
+- ăn cỏ
+
+@grass-field
+* dt
+- đồng cỏ
+ @grass-green  
+*  tt
+- xanh màu cỏ
+
+@grass-grown  
+*  tt
+- có trồng cỏ
+
+@grasshopper  
+*  dt
+- (động vật học) châu chấu
+- (quân sự),  (từ lóng) máy bay nhẹ (để trinh sát, liên lạc, lấy mục tiêu cho pháo bắn...)
+
+@grassiness
+* dt
+- tình trạng cỏ dồi dào
+ @grassland  
+*  dt
+- đồng cỏ, bãi cỏ
+
+@grassless  
+*  tt
+- không có cỏ
+
+@Grassot fluxmeter
+- (Tech) thông lượng kế Grassot
+ @grass-plot  
+*  dt
+- vạt cỏ, bãi cỏ
+
+@grassroots  
+*  dt số nhiều
+- (thông tục) những người dân thường
+
+@grass-skirt
+* dt
+- váy bằng lá và cỏ dài (người Pôlinêdi)
+ @grass-widow  
+*  dt
+- người đàn bà vắng chồng
+
+@grass-widower  
+*  dt
+- người đàn ông vắng vợ
+
+@grass-work  
+*  dt
+- (ngành mỏ) việc làm trên mặt đất
+
+@grassy  
+*  tt
+- có cỏ, cỏ mọc đầy
+
+@grassy-green  
+*  tt
+- xanh màu cỏ
+
+@grate  
+*  dt
+- vỉ lò, ghi lò (trong lò sưởi); lò sưởi
+- (ngành mỏ) lưới sàng quặng
+*  ngdgt
+- đặt vỉ lò, đặt ghi lò
+*  dgt
+- mài, xát (thành bột); nạo
+- nghiến kèn kẹt (răng)
+
++ to grate one's teeth: nghiến răng kèn kẹt
+- kêu cọt kẹt, kêu kèn kẹt
+- làm khó chịu, làm gai người
+
++ to grate on (upon) the ear: xé tai, làm chói tai
+
++ to grate on one's neves: chọc tức
+
+@grate
+- (kỹ thuật) mạng, lưới, cách từ
+ @grate-bar  
+*  dt
+- (kỹ thuật) ghi lò
+
+@grateful  
+*  tt
+- biết ơn
+
++ to be grateful to somebody for something: biết ơn ai về cái gì
+- dễ chịu, khoan khoái
+
++ a grateful shade: bóng mát dễ chịu
+
+@gratefully
+* dt
+- với vẻ biết ơn, bằng thái độ biết ơn
+ @gratefulness  
+*  dt
+- sự biết ơn
+- sự dễ chịu, sự khoan khoái
+
+@grater  
+*  dt
+- bàn xát; bàn mài
+- cái nạo, cái giũa
+
+@graticule
+* dt
+- lưới
+- geographical graticule
+- lưới địa lý
+- ô vạch (trong dụng cụ quang học)
+ @gratification  
+*  dt
+- sự ban thưởng
+- sự hài lòng, sự vừa lòng
+
++ I have the gratification of knowing that you have fulfilled your duty: tôi lấy làm hài lòng được biết anh đã hoàn thành nhiệm vụ
+- tiền thù lao
+- tiền hối lộ, tiềm đút lót; sự đút lót
+
+@gratifier
+- xem gratify
+ @gratify  
+*  ngdgt
+- trả tiền thù lao; thưởng (tiền)
+- làm hài lòng, làm vừa lòng
+
++ we were gratified at (with) his success: chúng tôi lấy làm hài lòng là anh ấy đã thành công
+- hối lộ, đút lót
+
+@gratifying  
+*  tt
+- làm hài lòng, làm vừa lòng
+
+@gratifyingly
+* dt
+- làm hài lòng, làm phấn khởi
+ @gratin
+* dt
+- món rắc vỏ bánh mì vụn bỏ lò
+ @grating  
+*  dt
+- lưới sắt (che cửa sổ)
+- (vật lý) con cách
+
++ a concave grating: con cách lõm
+
++ a sound grating: con cách âm thanh
+*  dt
+- tiếng chói tai, tiếng rít kèn kẹt
+- cảm giác khó chịu, cảm giác gai người
+*  tt
+- xé tai, chói tai, rít lên kêu kèn kẹt, the thé
+- làm khó chịu, làm gai người
+
+@grating interferometer
+- (Tech) giao thoa kế nhiễu xạ
+ @gratingly
+* dt
+- chọc tức, trêu gan
+ @gratis  
+*  tt & dt
+- không lấy tiền, không mất tiền, biếu không, cho không
+
+@gratitude  
+*  dt
+- lòng biết ơn, sự nhớ ơn
+
++ to express one's deep gratitude to somebody: tỏ lòng biết ơn sâu sắc đối với ai
+
+@gratuitous  
+*  tt
+- cho không, không lấy tiền; không mất tiền, không phải trả tiền
+
++ a gratuitous help: sự giúp đỡ không lấy tiền
+- không có lý do, vô cớ, vu vơ
+
++ a gratuitous lie: sự nói dối không có lý do
+
++ a gratuitous insult: lời lăng mạ vô cớ
+
+@gratuitously
+- xem gratuitous
+ @gratuitousness  
+*  dt
+- sự cho không, sự không lấy tiền; sự không mất tiền
+- sự vô cớ, tính vu vơ
+
+@gratuity  
+*  dt
+- tiền thưởng (khi) về hưu
+- (quân sự) tiền thưởng (khi) giải ngũ
+- tiền thưởng thêm, tiền chè lá (thường cho người hầu bàn ở các tiệm ăn)
+
+@gratulatory  
+*  tt
+- chúc mừng
+*  dt
+- sự chúc mừng
+
+@Gratz connection
+- (Tech) nối cầu Gratz
+ @Gratz rectifier
+- (Tech) bộ chỉnh lưu mạch cầu Gratz, bộ chỉnh lưu ba vị tướng toàn sóng
+ @gravamen  
+*  dt
+- (pháp lý) điểm cơ bản, phần chính (của một bản cáo trạng)
+- lời phàn nàn, lời than vãn
+
+@grave  
+*  dt
+- mồ, mả, phần mộ
+- nơi chôn vùi
+
++ grave of homour: nơi chôn vùi danh dự
+- sự chết, âm ty, thế giới bên kia
+
++ from beyond the grave: từ thế giới bên kia
+!to be brought ot an early grave
+- chết non, chết yểu
+!on the brink of the grave
+- (xem) brink
+!to make somebody turn in his grave
+- chửi làm bật mồ bật mả ai lên
+!never on this side of the grave
+- không đời nào, không bao giờ
+!Pauper's grave
+- huyệt chung, hố chôn chung
+!secret as the grave
+- kín như bưng
+!someone is walking on my grave
+- tôi tự nhiên rùng mình
+*  ngdgt graved,  graved,  graven
+- khắc, chạm, khắc sâu, tạc, ghi tạc ((nghĩa đen) & (nghĩa bóng))
+
++ to be graven on (in) one's memỏy: khắc sâu trong ký ức
+- (từ cổ,nghĩa cổ) đào (huyệt) chôn
+*  ngdgt
+- (hàng hải) cạo quét (tàu)
+*  dt
+- (ngôn ngữ học) dấu huyền
+*  tt
+- trang nghiêm; nghiêm nghị; từ tốn
+
++ a grave look: vẻ trang nghiêm
+- nghiêm trọng, trầm trọng; quan trọng (sự việc)
+
++ a grave mistake: khuyết điểm nghiêm trọng
+
++ grave symptoms: những triệu chứng trầm trọng đáng lo ngại
+
++ grave news: tin tức quan trọng
+- sạm, tối (màu)
+- trầm (giọng)
+- (ngôn ngữ học) huyền (dấu)
+
+@grave-clothes  
+*  dt số nhiều
+- vải liệm
+
+@grave-digger
+* dt
+- người đào huyệt
+ @grave-digging  
+*  dt
+- việc đào huyệt
+
+@gravel  
+*  dt
+- sỏi
+
++ fine gravel: sỏi mịn
+
++ coarse gravel: sỏi thô
+- cát chứa vàng ((cũng) auriferous gravel)
+- (y học) bệnh sỏi thận
+
++ to suffer from gravel: (y học) bị bệnh sỏi thận
+*  ngdgt
+- rải sỏi
+
++ to gravel a path: rải sỏi một lối đi
+- làm bối rối, làm lúng túng, làm cho không biết nói thế nào
+
++ to be gravelled: lúng túng biết nói thế nào
+
+@gravel-blind  
+*  tt
+- gần như đui mù
+
+@graveless  
+*  tt
+- không mồ mả, không một nấm mồ
+*  dt
+- (the graveless) những kẻ chết không một nấm mồ
+
+@gravelly  
+*  tt
+- có sỏi, rải sỏi
+- (y học) có sỏi thận
+
+@gravel-path  
+*  dt
+- đường rải sỏi
+
+@gravely  
+*  dt
+- trang nghiêm, trang trọng
+- nghiêm trọng, trầm trọng, quan trọng
+- sạm, tối
+
+@grave-mound  
+*  dt
+- nấm mồ, ngôi mộ
+
+@graven  
+*  động tt quá khứ của grave
+
+@graven image  
+*  dt
+- thần tượng
+
+@graveness
+- xem grave
+ @graver  
+*  dt
+- thợ chạm, thợ khắc
+- dao trổ, dao chạm
+
+@graves's disease  
+*  dt
+- (y học) bệnh bazơddô
+
+@gravestone  
+*  dt
+- bia, mộ chí
+
+@graveyard  
+*  dt
+- nghĩa địa, bãi tha ma
+!graveyard shift
+- (từ Mỹ,nghĩa Mỹ) kíp làm đêm, ca ba
+
+@gravid  
+*  tt
+- (văn học) có mang, có chửa, có thai
+
+@gravidity
+- xem gravid
+ @gravidly
+- xem gravid
+ @gravimeter  
+*  dt
+- (vật lý) cái đo trọng lực
+
+@gravimetric
+* tt
+- phân tích trọng lượng
+ @gravimetry  
+*  dt
+- (vật lý) khoa trọng trường
+- (hoá học) phép phân tích trọng lượng
+
+@graving
+* dt
+- sự khắc; sự chạm
+ @graving dock
+* dt
+- xưởng mà công nhân có thể thoải mái rửa bên ngoài thân tàu
+ @gravitant
+* tt
+- dẫn lực; hấp dẫn
+ @gravitas
+* dt
+- vẻ trang trọng trong cử chỉ
+ @gravitate  
+*  ndgt (: to,  towards)
+- hướng về, đổ về, bị hút về
+
++ young people gravitate towards industrials areas: thanh niên đổ về các khu công nghiệp
+- (vật lý) rơi xuống (vì sức hút), bị hút
+
++ to gravitate to the bottom: rơi xuống đáy, bị hút xuống đáy
+
+@gravitate
+- (vật lí) bị hút, rơi, bị trọng lực tác dụng
+ @gravitater
+- xem gravitate
+ @gravitatinal
+- (vật lí) (thuộc) hấp dẫn
+ @gravitation  
+*  dt
+- (vật lý) sự hút, sự hấp dẫn
+
++ the law of gravitation: luật hấp dẫn
+
+@gravitation
+- (vật lí) sự hấp dẫn trọng lực, lực hút
+- universal g. vạn vật hấp dẫn 
+ @gravitational  
+*  tt
+- hút, hấp dẫn
+
++ gravitational force: lực hút, lực hấp dẫn
+
+@gravitationally
+- xem gravitation
+ @gravitative  
+*  tt
+- do sức hút, do hấp dẫn
+- hút, hấp dẫn
+
+@gravity  
+*  dt
+- (vật lý) sự hút, sự hấp dẫn; trọng lực; trọng lượng
+
++ centre of gravity: trọng tâm
+
++ force of gravity: trọng lực
+
++ specific gravity: trọng lượng riêng
+- vẻ nghiêm trang, vẻ nghiêm nghị
+
++ to preserve one's gravity: giữ được vẻ nghiêm trang
+
++ to lose one's gravity: mất vẻ nghiêm trang
+- tính nghiêm trọng, tính trầm trọng (tình hình, vết thương...)
+
+@gravity
+- vl trọng lực, sức nặng, sự hấp dẫn
+- specific g., specific weight trọng lượng riêng, tỷ trọng
+ @Gravity model
+- (Econ) Mô hình lực hấp dẫn.
+: Một cách tiếp cận được sử dụng rộng rãi nhằm giải một số bài toán trong Kinh tế học khu vực và nghiên cứu vận tải, thể hiện được số lượng quan hệ tương tác lẫn nhau giữa 2 vị trí và được xác định bởi quy mô tương tác hoặc tầm quan trọng của các vị trí này và khoảng cáchgiữa chúng. Một dạng tương tác này là sự di chuyển về dân số. Các quan hệ tương tác khác là đi lại bằng ôtô hay đi lại bằng máy bay.
+ @gravure   (photoprint) @gravy  
+*  dt
+- nước thịt (chảy ra trong khi và sau khi nấu); nước xốt
+
++ gravy beef: thịt bò đê nấu lấy nước ngọt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) món lời dễ kiếm
+
+@gravy train
+* dt
+- cách kiếm tiền bất chính, món lợi bất chính
+ @gravy-boat  
+*  dt
+- bát đựng nước xốt
+
+@gray   (gray) @gray scale
+- (Tech) thang độ xám
+ @grayling
+* dt (số nhiều không thay đổi)
+- một loại cá nước ngọt
+ @grayly
+- xem gray
+ @grayness
+- xem gray
+ @grazable
+- xem graze
+ @graze  
+*  dt
+- chỗ da bị sầy, chỗ da bị xước
+*  ngdgt
+- lướt qua, sượt qua, làm sầy da, làm xước da
+
++ bullet grazes arm: viên đạn lướt qua cánh tay
+*  ndgt
+- (: against,  along,  by,  past) sạt qua, sượt qua
+
+@grazeable
+- xem graze
+ @grazer  
+*  ndgt
+- ăn cỏ, gặm cỏ
+
++ cattle are grating in the fields: trâu bò đang gặm cỏ ngoài đồng
+*  ngdgt
+- gặm (cỏ)
+- cho (trâu bò) ăn cỏ
+
++ to grazer cattle: cho trâu bò ăn cỏ
+- dùng làm cánh đồng cỏ (cho súc vật)
+
++ to grazer a field: để cánh đồng cho trâu bò ăn
+*  dt
+- trâu bò đang ăn cỏ; súc vật đang chăn trên đồng cỏ
+- (số nhiều) vật nuôi đang được vỗ béo
+
+@grazier  
+*  dt
+- người chuyên nuôi trâu bò để bán
+
+@graziery  
+*  dt
+- nghề chăn nuôi trâu bò để bán
+
+@grazing  
+*  dt
+- sự thả súc vật cho ăn cỏ, sự chăn thả
+!grazing land
+- đồng cỏ (cho súc vật)
+
+@grazing-ground
+* dt
+- bãi chăn
+ @grease  
+*  dt
+- mỡ (của súc vật)
+- dầu, mỡ, mỡ, dầu nhờn
+
++ wood in the grease: lông cừu chưa tẩy nhờn
+- (thú y học) bệnh thối gót (ngựa)
+- (dược học) thuốc mỡ
+!in grease; in pride of grease; in prime of grease
+- béo giết thịt được rồi
+*  ngdgt
+- bôi mỡ, bơm mỡ, xoa mỡ
+- (nghĩa bóng) làm cho trơn tru (công việc)
+- (thú y học) làm thối gót (ngựa)
+!to grease the hand (the fist, the wheels)
+- đút lót
+!like greased lightning
+- (từ lóng) nhanh như chớp
+
+@grease monkey  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thợ máy (ô tô, máy bay)
+
+@grease-box  
+*  dt
+- bầu dầu, bầu tra mỡ
+
+@grease-cap   (grease-cap) @grease-channel  
+*  dt
+- (kỹ thuật) rãnh tra dầu mỡ
+
+@grease-cup   (grease-cap) @greased
+* tt
+- được tra mỡ; được bôi trơn
+ @grease-extractor   (grease-extractor) @grease-gun  
+*  dt
+- ống bơm mỡ vào máy
+
+@greaseless
+- xem grease
+ @grease-paint  
+*  dt
+- (sân khấu) phấn mỡ (để hoá trang)
+
+@grease-pan  
+*  dt
+- chảo hứng mỡ, (thịt quay)
+
+@grease-proof  
+*  tt
+- không thấm mỡ
+
+@greaseproof
+- xem grease
+ @greaser  
+*  dt
+- người tra mỡ (vào máy)
+- (kỹ thuật) cái tra dần mỡ
+- (hàng hải) người đốt lò (ở tàu thuỷ)
+- (từ lóng) người Mỹ gốc Tây ban nha; người Mỹ gốc Mê hi cô
+
+@grease-remover   (grease-extractor) @greasily
+* dt
+- thớ lợ, ngọt xớt
+ @greasiness  
+*  dt
+- tính chất béo ngậy, tính chất mỡ
+- sự trơn nhờn
+- tính thớ lợ, tính ngọt xớt
+
+@greasing  
+*  dt
+- (kỹ thuật) sự tra mỡ, sự bôi trơn
+
+@greasy  
+*  tt
+- giây mỡ, dính mỡ
+- bằng mỡ; như mỡ
+- béo, ngậy
+- trơn, nhờn
+
++ a greasy road: đường trơn
+- (nghĩa bóng) trơn tru, chạy đều (công việc)
+- mắc bệnh thối gót (ngựa)
+- chưa tẩy nhờn (len)
+- (hàng hải) nhiều sương mù (trời)
+- thớ lợ, ngọt xớt (thái độ, lời nói
+
+@great  
+*  tt
+- lớn, to lớn, vĩ đại
+
++ a wind: cơn gió lớn
+
++ a great distance: một khoảng cách lớn
+
++ the Great October Socialist Revolution: cuộc cách mạng xã hội chủ nghĩa tháng mười vĩ đại)
+
++ a great writer: một nhà văn lớn
+
++ the great powers: những nước lớn
+
++ a great scoundrel: thằng đại bợm
+
++ the great majority: đại đa số
+
++ at a great price: đi rất nhanh
+- hết sức, rất
+
++ with great care: cẩn thận hết sức
+
++ to pay great attention to: hết sức chú ý tới
+- cao quý, ca cả, cao thượng
+
++ he appeared greater in adversity than ever before: trong lúc hoạn nạn anh ấy tỏ ra cao thượng hơn bao giờ hết
+- tuyệt hay, thật là thú vị
+
++ that is great!: thật là tuyệt!
+
++ to have great time: được hưởng một thời gian thú tuyệt
+- giỏi, thạo cừ, hiểu rõ, hiểu tường tận
+
++ to be great on: hiểu rõ, biết rõ, hiểu tường tận về (cái gì)
+
++ to be great at: rất giỏi về (cái gì)
+- thân (với ai)
+
++ to be great with somebody: thân với ai
+!to be great with child
+- (từ cổ,nghĩa cổ) có mang, có chửa
+!great dozen
+- tá mười ba
+!great many
+- nhiều
+!to have a great mind to
+- (xem) mind
+!to live to a great age
+- sống đến tận lúc tuổi già, sống lâu
+!to take a great interest in
+- rất quan tâm đến
+*  dt
+- (the great) (dùng như số nhiều) những người vĩ đại
+- số nhiều kỳ thi tốt nghiệp tú tài văn chương (tại trường đại học Ôc-phớt)
+
+@great bear
+* dt
+- chòm sao gấu lớn, đại hùng tinh
+ @great britain
+* dt
+- nước Anh, Anh quốc
+ @great circle
+* dt
+- vòng tròn bao quanh một hình cầu, sao cho đường kính của nó đi qua tâm hình cầu
+ @great go  
+*  dt
+- kỳ thi tốt nghiệp tú tài văn chương (tại trường đại học Căm-brít)
+
+@great lakes
+* dt, pl
+- năm hồ lớn nằm giữa Canada và Mỹ, Ngũ đại hồ
+ @Great Leap Forward
+- (Econ) Đại nhảy vọt
+: Tên gọi của một chính sách phát triển được phát động ở Trung Quốc vào cuối năm 1957 nhằm đẩy nhanh quá trình phát triển với tỷ lệ tăng trưởng công nghiệp là 20-30%. Rất khó đánh giá thành công của chính sách mạo hiểm này do có những sự kiện khác xuất hiện đồng thời vào quãng thời gian này.
+ @great war
+* dt
+- Đại chiến thế giới lần 1 (1914 - 1918), Đệ nhất thế chiến
+ @great-aunt
+* dt
+- bà cô; bà dì; bà bác
+ @greatcoat  
+*  dt
+- áo choàng, áo bành tô
+
+@greaten
+* ngdgt
+- làm thành lớn
+* ndgt
+- thành lớn; lớn ra
+ @greater
+- lớn hơn, có ý nghĩa hơn
+ @greatest
+- lớn nhất, có ý nghĩa nhất
+ @great-eyed
+* tt
+- mắt to; mắt lồi
+ @great-fruited
+* tt
+- có quả lớn
+ @great-grandchild  
+*  dt
+- chắt
+
+@great-granddaughter  
+*  dt
+- chắt gái
+
+@great-grandfather  
+*  dt
+- cụ ông
+
+@great-grandmother  
+*  dt
+- cụ bà
+
+@great-grandson  
+*  dt
+- chắt trai
+
+@great-hearted  
+*  tt
+- hào hiệp, đại lượng
+
+@great-heartedness  
+*  dt
+- lòng hào hiệp; tính đại lượng
+
+@greatly  
+*  dt
+- rất lắm
+- cao thượng, cao cả
+
+@greatness  
+*  dt
+- sự to lớn
+- sự cao quý, sự cao cả, sự cao thượng
+- tính lớn lao, tính vĩ đại, tính quan trọng, tính trọng đại
+
+@great-power
+* dt
+- cường quốc
+ @great-russian
+* dt
+- adj
+- đại Nga
+ @greaves  
+*  dt số nhiều
+- sử phần giáp che ống chân, xà cạp
+- tóp mỡ
+
+@grebe  
+*  dt
+- (động vật học) chim lặn
+
+@grecian  
+*  tt
+- (thuộc) Hy-lạp; kiểu Hy-lạp ((thường) vẽ kiến trúc hoặc khuôn mặt)
+
++ a grecian nose: mũi thẳng dọc dừa (kiểu Hy-lạp)
+!a Grecian gilf
+- món quà phải coi chừng (có ý đồ đen tối ở trong)
+*  dt
+- nhà Hy-lạp học
+
+@grecism  
+*  dt
+- văn hoá Hy-lạp; tinh thần Hy-lạp; tư tưởng Hy-lạp
+- từ ngữ đặc Hy-lạp
+
+@grecize  
+*  dgt
+- Hy-lạp hoá
+
+@greco-latin
+* tt
+- Hy-La; Hy Lạp Latinh
+ @grecolatry
+* dt
+- sự sùng bái Hy Lạp
+ @greco-roman
+* tt
+- Hy-lạp-La Mã
+ @greed  
+*  dt
+- tính tham lam
+- tính tham ăn, thói háu ăn
+
+@greedily
+* dt
+- tham lam, thèm khát
+ @greediness  
+*  dt
+- thói tham ăn, thói háu ăn
+- thói tham lam
+- sự thèm khát, sự thiết tha
+
+@greedy  
+*  tt
+- tham ăn, háu ăn
+- tham lam, hám
+
++ greedy of honours: hám danh
+
++ greedy of gaint: hám lợi
+- thèm khát, thiết tha
+
++ to be greedy to do something: thèm khát được làm gì
+
+@greedy-guts
+* dt
+- người ăn nhiều
+ @greek  
+*  tt
+- (thuộc) Hy-lạp
+!on the Greek calends
+- (xem) calends
+*  dt
+- người Hy-lạp
+- tiếng Hy-lạp
+- kẻ bịp bợm, kẻ lừa đảo, quân bạc bịp
+!it's Greek to me
+- tôi không thể hiểu được điều đó
+!when Greek meets Greeks, then comes the tug of war
+- thật là kỳ phùng địch thủ; kẻ cắp bà già gặp nhau
+
+@greeking
+- Quá trình hiển thị một bảng mô phỏng của một trang trên màn hình, bằng các đường hoặc các dải ngang thay cho văn bản thực, sao cho toàn thể thiết kế mặt bằng trang được thể hiện rõ ràng
+ @green  
+*  tt
+- xanh lá cây, (màu) lục
+- xanh; tươi
+
++ green fruit: quả xanh
+
++ green timber: gỗ tươi
+
++ green hide: da sống
+- đầy sức sống; thanh xuân
+
++ green years: tuổi xanh, tuổi thanh xuân
+- chưa có kinh nghiệm, mới vào nghề; thơ ngây, cả tin
+
++ a green hand: thợ mới vào nghề
+
++ to be still green at one's job: mới làm việc còn bỡ ngỡ
+
++ to be not so green as to believe something: không ngây thơ đến nỗi tin một điều gì
+- tái xanh, tái ngắt (nước da)
+
++ to look green: tái xanh, tái mét
+
++ looking green with jealousy: tái đi vì ghen tức
+- (nghĩa bóng) ghen, ghen tức, ghen tị
+
++ a green eye: sự ghen tị
+- còn mới, chưa lành, chưa liền (vết thương)
+
++ a green wound: vết thương còn mới
+*  dt
+- màu xanh lá cây, màu xanh lục
+- quần áo màu lục
+
++ to be dressed in green: mặc quần áo màu lục
+- phẩm lục (để nhuộm)
+
++ Paris green: phẩm lục Pa-ri
+- cây cỏ
+- bãi cỏ xanh, thảm cỏ xanh
+- (số nhiều) rau
+- (nghĩa bóng) tuổi xanh, tuổi thanh xuân; sức sống, sức cường tráng
+
++ in the green: đang ở tuổi thanh xuân đầy nhựa sống
+- vẻ cả tin; vẻ ngây thơ non nớt
+
++ do you see any green in my eye?: anh trông tôi có vẻ gì ngây thơ non nớt không?
+*  ndgt
+- trở nên xanh lá cây, hoá thành màu lục
+*  ngdgt làm cho xanh; nhuộm lục
+- (từ lóng) bịp, lừa bịp
+
+@green belt
+* dt
+- khu vựcxanh tươi bao quanh thành phố, vành đai xanh
+ @green fingers  
+*  dt
+- (thông tục) tài trồng vườn
+
+@green fodder   (green_forage) @green food  
+*  dt
+- (như) green_fodder
+- rau
+
+@green forage   (green_forage) @green goods  
+*  dt số nhiều
+- rau tươi
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) giấy bạc giả
+
+@green light  
+*  dt
+- đèn xanh (tín hiệu giao thông)
+- (thông tục) sự cho phép (đi qua; làm việc gì)
+
++ to give the green_light to: đồng ý cho làm, cho phép làm (việc gì)
+
+@green linnet   (green_linnet) @green manure  
+*  dt
+- phân xanh
+
+@green meat  
+*  dt
+- rau cỏ
+
+@green phosphor display
+- (Tech) màn hình lân tinh mầu lục
+ @Green pound
+- (Econ) Đồng bảng xanh
+: Tỷ giá hối đoái của đồng bảng Sterling sử dụng để chuyển đổi giá cả nông nghiệp được chấp thuận bởi chính sách nông nghiệp chung tính theo đơn vị tiền tệ châu Âu thành giá cả ở nước Anh.
+ @green pound
+* dt
+- giá trị của đồng pao trong việc trao đổi nông sản trong Cộng đồng châu Âu
+ @Green revolution
+- (Econ) Cách mạng Xanh.
+: Một cụm thuật ngữ được sử dụng trong trường hợp có sự tăng mạnh trong năng suất nông nghiẹp ở các nước đang phát triển bằng cách đưa vào áp dụng các loại giống chống được bệnh tật, có năng suất cao.
+ @green salad
+* dt
+- món rau trộn
+ @green stall  
+*  dt
+- quầy bán rau quả
+
+@green tea  
+*  dt
+- chè xanh
+
+@greenback  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) giấy bạc
+
+@green-blind  
+*  tt
+- (y học) mắc chứng mù màu lục
+
+@green-blindness  
+*  dt
+- (y học) chứng mù màu lục
+
+@green-book  
+*  dt
+- (ngoại giao) sách xanh
+
+@greener  
+*  dt (từ lóng)
+- người chưa có kinh nghiệm, người mới vào nghề, lính mới
+- người nước ngoài mới đến đang tìm việc làm
+
+@greenery  
+*  dt
+- cây cỏ
+- (từ hiếm,nghĩa hiếm) nhà kính trồng cây
+
+@green-eyed  
+*  tt
+- ghen
+!green-eyed monster
+- sự ghen, sự ghen tị, sự ghen tuông
+
+@greenfinch   (green_linnet) @greenfly
+* dt
+- côn trùng phá hoại cây cối
+ @greengage  
+*  dt
+- (thực vật học) mận lục
+
+@greengrocer  
+*  dt
+- người bán rau quả
+
+@greengrocery  
+*  dt
+- nghề buôn bán rau quả
+- rau quả
+
+@greenhorn  
+*  dt
+- người mới vào nghề, lính mới; người chưa có kinh nghiệm
+- người ngu ngốc, người khờ dại, người dễ bị bịp
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người mới nhập cư
+
+@greenhouse  
+*  dt
+- nhà kính (trồng rau, hoa)
+
+@greenhouse effect
+* dt
+- hiệu ứng nhà kính
+ @greening  
+*  dt
+- (thực vật học) táo lục
+
+@greenish  
+*  tt
+- hơi lục
+
+@greenishness
+* dt
+- màu hơi lục
+ @greenland  
+*  dt
+- (địa lý,ddịa chất) đảo băng
+
+@greenleaved
+* tt
+- có lá lục
+ @greenlinnet
+* dt
+- (động vật) chim sẻ lục
+ @greenly
+- xem green
+ @greenness  
+*  dt
+- màu lục
+- màu xanh tươi) của cây cỏ
+- trạng thái còn xanh
+- sự non nớt, sự thiếu kinh nghiệm, sự khờ dại
+- vẻ tráng kiện quắc thước (của một ông già)
+
+@greenockite
+* dt
+- (khoáng chất) grinockit
+ @green-peak  
+*  dt
+- (động vật học) chim gõ kiến
+
+@green-room  
+*  dt
+- phòng nghỉ (của diễn viên ở các rạp hát)
+
+@greenroom
+* dt
+- phòng nghỉ (của diễn viên ở các rạp hát)
+ @greensand
+* dt
+- cát xanh
+ @greensick  
+*  dt
+- (y học) mắc bệnh xanh lướt
+
+@greensickness  
+*  dt
+- (y học) bệnh xanh lướt
+
+@greenstone  
+*  dt (khoáng chất)
+- Pocfia lục
+- Nefrit
+
+@greenstuff  
+*  dt
+- rau xanh
+- cây cỏ
+
+@greensward  
+*  dt
+- bãi cỏ, thảm cỏ
+
+@greenwich mean time
+* dt, viết tắt là gmt
+- giờ chuẩn căn cứ theo kinh tuyến Greenwich, giờ GMT
+ @Greenwich mean time (GMT)
+- (Tech) giờ Grinvic, giờ quốc tế GMT
+ @greenwood  
+*  dt
+- rừng xanh
+!to go to the greenwood
+- trốn lên rừng sống ngoài vòng pháp luật; làm nghề lục lâm
+
+@greeny  
+*  tt
+- hơi lục
+
+@greenyard  
+*  dt
+- bãi rào nhốt súc vật lạc
+
+@greet  
+*  ngdgt
+- chào, chào hỏi, đón chào
+
++ to greet somebody with a smile: mỉm cười chào ai
+- chào mừng, hoan hô
+
++ to greet somebody's victory: chào mừng thắng lợi của ai
+
++ to greet someone's speech with cheers: vỗ tay hoan hô bài nói của ai
+- bày ra (trước mắt); đập vào (mắt, tai); vang đến, vọng đến (tai)
+
++ a grand sight greeted our eyes: một cảnh hùng vĩ bày ra trước mắt như đón mừng chúng tôi
+
++ to greet the ear: rót vào tai
+*  ndgt
+- (Ê-cốt) khóc lóc, than khóc
+
+@greeter
+- xem greet
+ @greeting  
+*  dt
+- lời chào hỏi ai
+
++ to send one's greetings to somebody: gửi lời chào ai
+- lời chào mừng, lời chúc mừng
+
++ New Year's greetings: lời chúc tết
+
+@greeting-card  
+*  dt
+- thiếp chúc mừng (ngày sinh, ngày cưới, ngày lễ...)
+
+@gregarious  
+*  tt
+- sống thành đàn, sống thành bầy (súc vật); mọc thành cụm (cây cỏ); sống thành tập thể (người)
+- thích đàm đúm, thích giao du
+
+@gregariously
+* dt
+- theo bầy, theo cộng đồng
+ @gregariousness
+* dt
+- sự thích sống theo bầy (động vật)
+- tính thích giao du đàn đúm
+ @grege
+* dt
+- tơ sống
+ @gregorian calendar
+* dt
+- hệ thống lịch do Giáo hoàng Gregory XIII (1502 - 1585) đưa ra và cũng là hệ thống lịch mà thế giới ngày nay vẫn dùng
+ @gregorian chant
+* dt
+- loại nhạc đặt theo tên của giáo hoàng Gregory I (540 - 604)
+ @gremlin  
+*  dt (hàng không),  (từ lóng)
+- quỷ gây tai nạn máy bay
+
+@grenade  
+*  dt
+- (quân sự) lựu đạn
+
+@grenadier  
+*  dt
+- (quân sự) lính ném lựu đạn
+!the Grenadiers; the Grenadier Guards
+- trung đoàn vệ binh của vua Anh
+
+@grenadine  
+*  dt
+- món thịt bê rán vàng, món thịt gà rán vàng
+- xi rô lựu
+
+@Gresham's Law
+- (Econ) Luật Gresham.
+: Một quy luật do Huân tước Thomas Gresham (1591-1579), nhà kinh doanh và viên chức người Anh đưa ra.
+ @grew  
+*  ndgt grew; grown
+- mọc, mọc lên (cây cối); mọc mầm, đâm chồi nẩy nở
+
++ rice plants grow well: lúa mọc tồi
+
++ to be grown over with grass: cỏ mọc đầy lên
+- lớn, lớn lên (người)
+
++ to grow into a beautiful girl: lớn lên trở thành một cô gái đẹp
+
++ to find someone much grown: thấy ai chóng lớn quá
+- phát triển, tăng lên, lớn thêm
+
++ our national economy is growing: nền kinh tế quốc dân của ta đang phát triển
+
++ the crowd grows: đám đông tăng lên
+- dần dần trở thành, dần dần trở nên
+
++ it's growing gark: trời tối dần
+
++ to grow better: khá hơn lên
+
++ to grow worse: xấu đi
+
++ to grow old: già đi
+
++ to grow smaller: bé đi
+
++ to grow angry: nổi giận
+
++ to grow sleep: buồn ngủ
+
++ to grow weary of: chán ngấy (cái gì)
+
++ he grows to like painting: hắn đâm ra thích vẽ
+*  ngdgt
+- trồng (cây, hoa)
+- để (râu, tóc...) mọc dài
+!to grow down
+- mọc ngược, mọc đầu xuống dưới
+- giảm đi, bớt đi, kém đi, nhỏ đi
+!to grow downwards
+- giảm đi, bớt đi
+!to grow in
+- mọc vào trong
+- dính vào, cáu vào, khắc sâu vào
+- ăn sâu vào
+!to grow on (upon)
+- nhiễm sâu vào, thấm sâu vào; ngày càng ảnh hưởng đến
+
++ the new way of life grows upon him: lối sống mới đã thấm sâu vào anh ấy
+- ngày càng thích hơn
+
++ the piece of music grows upon me: càng nghe bản nhạc ấy tôi càng thấy thích
+!to grow out [of]
+- nảy sinh ra từ, phát sinh ra từ
+- bỏ (thói quen)
+
++ to grow out of a bad habit: bỏ một thói xấu
+- quá, vượt quá (khổ, cỡ)
+
++ to grow out of knowledge: lớn quá không nhận ra được nữa
+!to grow to
+- đạt tới, tới, lên tới
+
++ to grow to manhood: tới tuổi trưởng thành
+!to grow up
+- lớn lên, trưởng thành
+
++ to be grow up: đến tuổi trưởng thành, lớn lên
+- nảy sinh; lan rộng, trở thành phổ biến (phong tục, tập quán...)
+
+@grewsome
+* tt
+- xem gruesome
+ @grey   (gray) @grey eminence  
+*  dt
+- kẻ tâm phúc; mưu sĩ
+
+@grey matter  
+*  dt
+- (giải phẫu) chất xám (của võ não)
+- (thông tục) trí tuệ, trí thông minh
+
++ a boy without much grey_matter: đứa trẻ kém thông minh
+
+@greybeard  
+*  dt
+- ông già, ông lão
+- lọ sành, hũ sành (đựng rượu)
+
+@grey-blue
+* tt
+- lam xám
+ @greycing  
+*  dt
+- (thông tục) sự đi săn bằng chó
+
+@grey-coat  
+*  dt
+- (sử học) (từ Mỹ,nghĩa Mỹ) lính áo xám (của các bang miền Nam trong cuộc chiến tranh Nam-Bắc 1861 1865)
+
+@grey-haired
+* tt
+- như grey-headed
+* tt
+- như grey-headed
+ @grey-headed  
+*  tt
+- tóc hoa râm, già
+- (: in) già đời (trong nghề)
+- cũ kỹ, cổ kính
+
+@grey-hen  
+*  dt
+- gà gô mái
+
+@greyhound  
+*  dt
+- chó săn thỏ
+- tàu biển chạy nhanh ((cũng) ocean greyhound)
+- xe buýt chạy đường dài
+
+@greyish  
+*  tt
+- hơi xám, xam xám
+
+@greylag  
+*  dt
+- (từ lóng) ngỗng xám (một loại ngỗng trời)
+
+@greyness  
+*  dt
+- màu xám
+- vẻ u ám, vẻ buồn rầu ảm đạm
+
+@grid  
+*  dt
+- hệ thống đường dây (điện phân bố trong một khu vực)
+- đường kẻ ô (để vẽ bản đồ)
+- vỉ (nướng chả)
+- chấn song sắt
+- (raddiô) lưới điều khiển
+
+@grid
+- (Tech) lưới; mạng lưới; mạng lưới phát điện; cực lưới
+ @grid
+- mạng lưới
+ @grid bias detector
+- (Tech) bộ dò thiên về lưới
+ @grid bias voltage
+- (Tech) điện thế thiên về lưới
+ @grid blocking
+- (Tech) capacitor bộ điện dung chặn lưới
+ @grid capacitance
+- (Tech) điện dung lưới
+ @grid capacitor
+- (Tech) bộ điện dung ở lưới
+ @grid circuit
+- (Tech) mạch lưới
+ @grid conductance
+- (Tech) độ dẫn điện lưới
+ @grid current
+- (Tech) dòng lưới, cường - độ dòng lưới
+ @grid excitation
+- (Tech) sự kích thích lưới
+ @grid leak detector
+- (Tech) bộ dò rỉ lưới
+ @grid modulation
+- (Tech) sự biến điệu lưới
+ @grid neutralization
+- (Tech) sự trung hòa lưới
+ @grid pitch
+- (Tech) bước lưới
+ @grid plate transconductance
+- (Tech) độ xuyên dẫn bản cực lưới
+ @grid point
+- (Tech) điểm lưới
+ @grid potentiometer
+- (Tech) bộ phân áp lưới
+ @grid pulsing
+- (Tech) phát xung ở lưới
+ @grid rectification
+- (Tech) chỉnh lưu ở lưới
+ @grid resistance
+- (Tech) điện trở lưới
+ @grid return
+- (Tech) trở về lưới
+ @grid suppressor
+- (Tech) bộ triệt lưới
+ @grid voltage
+- (Tech) điện thế lưới
+ @grid winding
+- (Tech) cuộn dây lưới
+ @grid-anode characteristic
+- (Tech) đặc tính lưới dương cực
+ @grid-anode conductance
+- (Tech) độ dẫn điện lưới dương cực
+ @grid-cathode capacitance
+- (Tech) điện dung lưới âm cực
+ @grid-controlled
+* tt
+- được điều khiển trên mạng; được khống chế trên lưới
+ @gridded
+- xem grid
+ @gridder  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) cầu thủ bóng đá
+
+@griddle  
+*  dt
+- vỉ (nướng bánh)
+- (ngành mỏ) lưới sàng quặng
+*  ngdgt
+- sằng (quặng) bằng lưới
+
+@griddle cake  
+*  dt
+- bánh nướng bằng vỉ
+
+@gride  
+*  dt
+- tiếng ken két, tiếng kèn kẹt
+*  dgt
+- ((thường) : along,  through) cạo ken két, cạo kèn kẹt
+
+@grid-filament capacitance
+- (Tech) điện dung lưới-sợi nung
+ @gridiron  
+*  dt
+- vỉ (nướng chả)
+- (từ Mỹ,nghĩa Mỹ),  (thể dục,thể thao),  (thông tục) sân đá bóng (trong phạm vi đường biên)
+- (sân khấu) khung (để) kéo phông (trên tầng thượng sân khấu)
+- (hàng hải) giàn đỡ tàu (trong xưởng)
+!to be on the gridiron
+- bồn chồn như ngồi trên đống lửa
+
+@gridlock
+* dt
+- (từ Mỹ, nghĩa Mỹ) xem snarl-up
+ @grid-plate capacitance
+- (Tech) điện dung lưới-phiến
+ @grief  
+*  dt
+- nỗi đau buồn, nỗi sầu khổ, nỗi thương tiếc
+
++ to die of grief: chết vì đau buồn
+!to come to grief
+- gặp tai hoạ; thất bại
+
+@griefless
+* tt
+- không đau xót; không phiền muộn
+ @grief-stricken
+* tt
+- mòn mỏi vì buồn phiền, kiệt sức vì đau buồn
+ @grievance  
+*  dt
+- lời trách, lời phàn nàn, lời kêu ca; lời than phiền
+- mối bất bình
+
+@grieve  
+*  ngdgt
+- gây đau buồn, làm đau lòng
+
++ to grieve one's parents: làm cho cha mẹ đau lòng
+*  ndgt
+- đau buồn, đau lòng
+
++ to grieve at the death of: đau buồn vì cái chết của (ai)
+
++ to grieve about somebody's misfortunes: đau lòng vì những sự không may của ai
+
++ to grieve at sad news: đau khổ vì nhận được tin buồn
+
+@griever
+- xem grieve
+ @grievingly
+- xem grieve
+ @grievous  
+*  tt
+- đau, đau khổ
+- trầm trọng, nặng (vết thương, lỗi lầm); tai hại
+- đau đớn, đau thương (tiếng kêu, tin tức)
+- trắng trợn, ghê tởm (tội ác)
+
+@grievous bodily harm
+* dt, viết tắt là GBH
+- <pháp> sự tổn thương trầm trọng do một hành động xâm kích trái pháp luật
+ @grievously
+* dt
+- nghiêm trọng, trầm trọng
+ @grievousness
+- xem grievous
+ @griff  
+*  dt ((cũng) griffin) (Anh-Ỡn)
+- người Âu mới đến ở Ân-ddộ
+- người non nớt chưa có kinh nghiệm, người mới vào nghề
+
+@griffin  
+*  dt
+- quái vật sư tử đầu chim ((cũng) gryphon)
+- (như) grif
+
+@griffon  
+*  dt
+- quái vật sư tử đầu chim ((cũng) griffin)
+- giống chó grifông (lông dài, cứng)
+
+@grig  
+*  dt (động vật học)
+- cá chình con; lươn con
+- châu chấu; cào cào
+- con dê
+
+@grill  
+*  dt
+- (như) grille
+- vỉ (nướng chả)
+- món thịt nướng, chả
+- hiệu chả cá, quán chả nướng; phòng ăn thịt nướng (ở quán ăn) ((cũng) grill room)
+*  ngdgt
+- nướng, thiêu đốt (mặt trời)
+- (nghĩa bóng) hành hạ, tra tấn (bằng lửa, phơi nắng...)
+- (từ Mỹ,nghĩa Mỹ) tra hỏi
+
++ to grill a prisoner: tra hỏi người tù
+*  ndgt
+- bị nướng; bị thiêu đốt
+- (nghĩa bóng) bị hành hạ (tra tấn) (bằng lửa, phơi nắng...)
+
+@grillage  
+*  dt
+- (kiến trúc) đài cọc
+
+@grille  
+*  dt ((cũng) grill)
+- lưới sắt, phên sắt
+- khung ấp trứng cá
+
+@grilled  
+*  tt
+- có lưới sắt
+
+@griller
+- xem grill
+ @grill-room
+* dt
+- hiệu ăn; quán chả nướng
+ @grilse  
+*  dt
+- (động vật học) cá hồi nhỏ (lần đầu tiên ở biển về nước ngọt)
+
+@grim  
+*  tt
+- dữ tợn, tàn nhẫn, nhẫn tâm, ác nghiệt
+
++ a grim face: nét mặt dữ tợn đầy sát khí
+
++ a grim smile: nụ cười nham hiểm
+
++ a grim battle: cuộc chiến đấu ác liệt
+- không lay chuyển được
+
++ grim determination: quyết tâm không lay chuyển được
+
+@grimace  
+*  dt
+- sự nhăn mặt, sự cau mặt; vẻ nhăn nhó
+- vẻ làm bộ làm điệu, vẻ màu mè ỏng ẹo
+*  ndgt
+- nhăn mặt, nhăn nhó
+
+@grimacer   (grimacier) @grimacier   (grimacier) @grimalkin  
+*  dt
+- mèo cái già
+- mụ già nanh ác
+
+@grime  
+*  dt
+- bụi bẩn (đất, than, bồ hóng, nhọ nồi...); cáu ghét
+
++ a face covered with grime and sweat: mặt đầy ghét và mồ hôi
+*  ngdgt
+- làm cho bám đầy bụi bẩn; làm cho cáu ghét
+
+@grimily
+- xem grimy
+ @griminess  
+*  dt
+- tình trạng cáu bẩn, tình trạng cáu ghét
+- vẻ dữ tợn; tính tàn nhẫn, tính nhẫn tâm, tính ác nghiệt
+- tính ác liệt, tính quyết liệt
+- tính không lay chuyển được
+
+@grimly
+* dt
+- không lay chuyển được, dứt khoát
+ @grimness
+* dt
+- sự dứt khoát không gì lay chuyển được
+ @grimy  
+*  tt
+- đầy bụi bẩn; cáu ghét
+
++ grimy windows: những cửa sổ đầy bụi bẩn
+
++ grimy facea: những bộ mặt cáu ghét
+
+@grin  
+*  dt
+- cái nhăn mặt nhe cả răng ra
+- cái cười xếch đến mang tai; cái cười toe toét
+
++ to break into a broad grin: cười toe toét, toét miệng cười
+
++ to be always on the grin: lúc nào cũng cười toe toét, lúc nào cũng nhăn nhở
+*  dgt
+- nhe răng ra nhăn nhở
+- nhe răng ra cười, cười toe toét
+
++ to grin at somebody: cười nhe răng với ai; toét miệng ra cười với ai
+
++ to grin like a Cheshire cat: lúc nào cũng cười nhăn nhở
+
++ to grin from ear to ear: cười miệng toét đến mang tai
+
++ to grin and bear it: đành cười mà chịu vậy
+- cười ngạo
+
+@grind  
+*  dt
+- sự xay, sự tán, sự nghiền
+- sự mài
+- tiếng nghiến ken két
+- (nghĩa bóng) công việc cực nhọc đều đều
+
++ the daily grind: công việc hằng ngày
+- cuộc đi bộ để tập luyện
+- lớp học rút (để đi thi); lớp luyện thi
+- (từ lóng) cuộc đua ngựa nhảy rào
+- (từ Mỹ,nghĩa Mỹ) học sinh học gạo
+*  dgt ground
+- xay, tán, nghiền
+
++ to grind corn into flour: xay lúa mì thành bột
+- mài, giũa
+
++ to grind a knife: mài dao
+
++ to grind diamonds: mài kim cương
+- xát, nghiền
+
++ to grind one's teeth [together]: nghiến răng
+
++ the ship grinding on the rocks: tàu sạt vào những tảng đá
+
++ to grind one's heel into the ground: di di gót chân xuống đất
+- đàn áp, áp bức, đè nén
+
++ to grind the faces of the poor: áp bức người nghèo
+- quay cối xay cà phê
+
++ to grind music out of a hurdy-gurdy: quay đàn vien
+
++ to grind out some verses: nặn ra vài câu thơ
+- bắt (ai) làm việc cật lực
+- nhồi nhét
+
++ to grind for the exam: học nhồi để thi
+!to grind away
+- (: at) làm cật lực, làm tích cực
+- học tập cần cù; học gạo
+!to grind down
+- xay nhỏ, tán nhỏ, nghiền nhỏ, nghiền nát
+- hành hạ, áp bức
+!to grind in
+- (kỹ thuật) mài, nghiền, rà
+!to grind out
+- đè bẹp, giẫm nát, nghiền nát
+- nghiền, nạo ra
+
++ to grind out an oath: nghiến răng lại mà nguyền rủa
+!to grind up
+- nghiền nhỏ, tán nhỏ
+!to grind one's own axe
+- theo đuổi mục đích cá nhân
+!to have an axe to grind
+- có một mục đích cá nhân phải đạt
+
+@grindability
+* dt
+- khả năng mài được; tính dễ mài
+- tính dễ nghiền
+ @grinder  
+*  dt
+- cối xay (cà phê...) máy nghiền, máy xát, máy xay
+- thợ mài, thợ xay, thợ xát
+
++ an itinerant grinder: thợ mài dao kéo đi rong
+- (từ lóng) người kèm học thi
+- học sinh học gạo
+- răng hàm; (số nhiều) (đau) răng
+- (số nhiều) (raddiô) tiếng lục cục (khi vặn raddiô)
+
+@grindery  
+*  dt
+- đồ nghề thợ giày
+
+@grinding
+* tt
+- (nói về âm thanh) ken két, nghiến rít
+ @grindingly
+- xem grind
+ @grindstone  
+*  dt
+- đá mài (hình bánh, quay tròn); bánh mài
+!to hold (keep, put) someone's nose to the grindstone
+- bắt ai làm việc mửa mật; bắt ai làm việc không ngơi tay lúc nào
+
+@gringo  
+*  dt
+- (Mỹ La tinh) người nước ngoài ((thường) là người Anh, người Mỹ)
+
+@grinner
+- xem grin
+ @grinningly
+- xem grin
+ @grip  
+*  dt
+- rãnh nhỏ, mương nhỏ
+- sự cầm chặt, sự nắm chặt, sự ôm chặt, sự kẹp chặt; sự kìm kẹp
+
++ to keep a tigh grip on one's horse: kẹp chặt lấy mình ngựa
+
++ in the grip of poverty: trong sự o ép của cảnh nghèo
+- sự thu hút (sự chú ý)
+
++ to lose one's grip on one's audience: không thu hút được sự chú ý của người nghe nữa
+- sự hiểu thấu, sự nắm vững, sự am hiểu
+
++ to have a good grip of a problem: nắm vững vấn đề
+
++ to have a good grip of the situation: am hiểu tình hình
+- tay phanh (xe cộ), tay hãm (máy móc...)
+- báng (súng); chuôi, cán (đồ dùng)
+- kìm, kẹp
+- (từ Mỹ,nghĩa Mỹ) (như) gripsack
+!to be at grips
+- giáp lá cà; ở thế ghì chặt (quyền Anh)
+!to come to grips
+- đánh giáp lá cà; ghì chặt (quyền Anh)
+*  ngdgt
+- nắm chặt, ôm chặt, kẹp chặt
+
++ to grip something in a vice: kẹp chặt vật gì vào êtô
+- thu hút (sự chú ý)
+
++ the speaker grip ed the attention of his audience: diễn giả thu hút được sự chú ý của người nghe
+- nắm vững (kiến thức...)
+*  ndgt
+- kép chặt; ăn (phanh)
+
++ the brakes did not grip: phanh không ăn
+
+@grip-brake  
+*  dt
+- phanh tay
+
+@gripe  
+*  dt
+- sự nắm chặt, sự cầm chặt, sự kẹp chặt
+- ách kìm kẹp, nanh vuốt, sự áp bức
+
++ in the gripe of the landlords: trong nanh vuốt của bọn địa chủ
+- (số nhiều) chứng đau bụng quặn
+- báng (súng); chuôi, cán (đồ dùng)
+- (số nhiều) (hàng hải) dây cột thuyền
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lời kêu ca, lời phàn nàn
+
+@gripe-penny
+* dt
+- người biển lận; người bo bo giữ của
+ @griper
+- xem gripe
+ @gripe-water
+* dt
+- thuốc trị chứng đau bụng quặn
+ @grippe  
+*  dgt
+- nắm chặt, cầm chặt, kẹp chặt
+- áp bức, đè nén, kìm kẹp
+- làm cho đau bụng quặn
+- (hàng hải) cột (thuyền) lại
+- (hàng hải) trôi theo gió (thuyền)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm phiền, làm bực mình
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kêu ca, phàn nàn
+*  dt (thông tục)
+- bệnh cúm
+
+@gripper
+- xem grip
+ @gripping
+* tt
+- hấp dẫn, thú vị
+ @grippingly
+* dt
+- thú vị, hấp dẫn
+ @grippy  
+*  tt
+- (thông tục) bị cúm
+
+@gripsack  
+*  dt
+- túi du lịch
+
+@grip-vice  
+*  dt
+- (kỹ thuật) cái êtô
+
+@griqua
+* dt
+- người da trắng lai Nam Phi
+ @grisaille
+* dt
+- cách vẽ trang trí bằng sắc thái xám để tạo nên ấn tượng không gian ba chiều
+ @griseous  
+*  tt
+- xanh nhạt; xám
+
+@grisette  
+*  dt
+- cô công nhân Pháp, cô bán hàng người Pháp ((thường) mặc áo màu xám)
+
+@gris-gris
+* dt
+- gris-gris
+- cái bùa của người Phi-châu
+ @griskin  
+*  dt
+- thịt thăn lợn
+
+@grisliness
+- xem grisly
+ @grisly  
+*  tt
+- ghê tởm, ghê sợ, rùng rợn
+
+@grist  
+*  dt
+- lúa đưa xay
+- mạch nha (để làm rượu bia)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) lô, đàn, bầy
+
++ a grist of bees: một đàn ong
+!all is grist that comes to his mills
+- kiếm chác đủ thứ
+!to bring grist to someone's mill
+- có lợi cho ai
+*  dt
+- cỡ (của sợi dây)
+
+@gristle  
+*  dt
+- xương sụn
+!in the gristle
+- còn măng sữa, chưa cứng cáp (trẻ nhỏ)
+
+@gristliness
+- xem gristly
+ @gristly  
+*  tt
+- (thuộc) xương sụn, như xương sụn
+- có sụn
+
+@grist-mill  
+*  dt
+- cối xay bột
+
+@grit  
+*  dt
+- hạt cát, hạt sỏi, sạn cát, sạn sỏi
+- (kỹ thuật) hạt sạn (làm cho máy trục trặc)
+
++ there must be some grit in the machine: chắc hẳn có hạt sạn trong máy
+- mạt giũa (kim loại)
+- (thông tục) tính bạo dạn, tính gan góc, tính can đảm; tính chịu đựng bền bỉ
+- Grit đảng viên đảng Cấp tiến; đảng viên đảng Tự do (ở Ca-na-dda)
+!to put grit in the machine
+- thọc gậy bánh xe
+
+@grits  
+*  ngdgt
+- nghiến (răng)
+
++ to grits one's teeth: nghiến răng
+*  ndgt
+- kêu sào sạo, kêu ken két (như máy có hạt sạn)
+*  dt số nhiều
+- yến mạch lứt (chưa giã kỹ)
+- bột yến mạch thô
+
+@gritstone  
+*  dt
+- (địa lý,ddịa chất) cát kết hạt thô
+
+@grittily
+- xem gritty
+ @grittiness  
+*  dt
+- tình trạng có sạn
+- (từ Mỹ,nghĩa Mỹ) tính cứng cỏi, tính bạo dạn, tính gan góc
+
+@gritty  
+*  tt
+- có sạn
+- (từ Mỹ,nghĩa Mỹ) cứng cỏi, bạo dạn, gan góc
+
+@grizzle  
+*  ndgt
+- (thông tục) khóc ti tỉ, khóc sốt ruột lên (trẻ con)
+
+@grizzled  
+*  tt
+- hoa râm (tóc)
+
+@grizzly  
+*  tt
+- lốm đốm hoa râm (tóc)
+- xám
+
++ grizzly bear: gấu xám (Bắc-Mỹ)
+*  dt
+- gấu xám (Bắc-Mỹ)
+
+@groan  
+*  dt
+- sự rên rỉ; tiếng rên rỉ
+- tiếng lầm bầm (chê bai, phản đối...)
+
++ the groans o, disapproval: tiếng lầm bầm phản đối
+*  ndgt
+- rên rỉ, kêu rên (vì đau đớn thất vọng...)
+
++ to groan in pain: rên rỉ vì đau đớn
+
++ to groan under (beneath, with) the yoke of the exploiters: rên siết dưới ách của bọn bóc lột
+- trĩu xuống, võng xuống; kĩu kịt (vì chở nặng)
+
++ shelf groans with books: giá chất đầy sách nặng trĩu xuống
+
++ the cart groaned under the load: chiếc xe kĩu kịt vì chở nặng
+!to groan down
+- lầm bầm phản đối (ai...) bắt im đi
+
++ to groan down a speaker: lầm bầm phản đối một diễn giả không cho nói tiếp nữa
+!to groan for
+- mong mỏi, khao khát (cái gì)
+!to groan out
+- rên rỉ kể lể (điều gì)
+
+@groaner
+- xem groan
+ @groaning  
+*  tt
+- rên rỉ
+- lẩm bẩm
+
+@groaningly
+- xem groan
+ @groat  
+*  dt
+- (sử học) đồng bốn xu (bằng bạc)
+- số tiền nhỏ mọn
+
++ without a groat in one's pocket: không một xu dính túi
+!I don't care a groat
+- tớ cóc cần
+
+@groats  
+*  dt số nhiều
+- gạo lứt ((thường) yến mạch)
+
+@grobian
+* dt
+- chàng ngốc
+ @grocer  
+*  dt
+- người bán tạp phẩm (gia vị, chè, đường, cà phê, đồ hộp...)
+!grocer's itch
+- bệnh eczêma
+
+@groceries
+* dt số nhiều
+- hàng tạp phẩm
+ @grocery  
+*  dt
+- việc buôn bán tạp phẩm
+- cửa hàng tạp phẩm
+- (số nhiều) hàng tạp hoá và thực phẩm phụ
+
+@groceteria
+* dt
+- hiệu ăn tự mình phục vụ
+ @grog  
+*  dt
+- Grôc (rượu nặng pha nước)
+*  ndgt
+- uống grôc
+*  ngdgt
+- pha grôc
+- tráng (súc) (thùng rượu) bằng nước sôi (để lấy hết rượu)
+
+@grog-blossom  
+*  dt
+- mũi đỏ (vì uống nhiều rượu)
+
+@groggery   (groggery) @groggily
+* dt
+- chếnh choáng, lảo đảo
+ @grogginess  
+*  dt
+- tình trạng say lảo đảo
+- sự nghiêng ngả
+- sự chệnh choạng
+
+@groggy  
+*  tt
+- say lảo đảo
+- nghiêng ngả, không vững (đồ vật)
+- đứng không vững, chệnh choạng (vì mới đậy, vì thiếu ngủ...)
+- yếu đầu gối (ngựa)
+
+@grog-shop   (groggery) @groin  
+*  dt
+- háng
+- (kiến trúc) vòm nhọn
+*  ngdgt
+- (kiến trúc) xây vòm nhọn cho
+
+@groined
+* tt
+- thành vòm nhọn
+ @groining
+* dt
+- (kiến trúc) việc xây dựng vòm nhọn
+- lời than vãn, rên rỉ
+ @gromet  
+*  dt
+- (hàng hải) vòng dây (thừng, chão) ((từ Mỹ,nghĩa Mỹ) gromet,  grommet)
+
+@grommet  
+*  dt
+- (hàng hải) vòng dây (thừng, chão) ((từ Mỹ,nghĩa Mỹ) gromet,  grommet)
+
+@groom  
+*  dt
+- người giữ ngựa
+- quan hầu (trong hoàng gia Anh)
+- chú rể ((viết tắt) của bridegroom)
+*  ngdgt
+- chải lông (cho ngựa)
+- ((thường) động tt quá khứ) ăn mặc tề chỉnh chải chuốt
+
++ to be well groomed: ăn mặc tề chỉnh chải chuốt
+
++ to be badly groomed: ăn mặc lôi thôi nhếch nhác
+- (thông tục) chuẩn bị (cho người nào bước vào nghề gì)
+
++ to groom someone for stardom: chuẩn bị cho ai trở thành diễn viên điện ảnh
+
+@groomer
+- xem groom
+ @groomsman  
+*  dt
+- phù rể
+
+@groove  
+*  dt
+- đường xoi, đường rânh (đục trên tấm ván; trên đĩa hát...), đường rạch khía (trong nòng súng...)
+- nếp sông đều đều, thói quen, thói cũ, đường mòn
+
++ to get into a groove: sống theo nếp sống đều đều; theo thói cũ, theo vết xe cũ
+
++ to move (run) in a groove: chạy đều đều, cứ tiến hành đều đều theo con đường mòn không thay đổi
+!in the groove
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) trơn tru, thông đồng, bén gót
+*  ngdgt
+- xoi rãnh, khía cạnh
+
++ a mountain side grooved by the torrents: sườn núi bị những thác nước xói thành khe
+
++ to groove a board: bào xoi một tấm ván
+
+@grooveability
+* dt
+- (kỹ thuật) tính chịu gấp uốn
+ @grooved
+* tt
+- có dạng khe
+- được soi rãnh
+- có ngấn
+ @groove-fruited
+* tt
+- có quả khía rãnh
+ @groove-nerved
+* tt
+- có gân xẻ rãnh
+ @groover
+* dt
+- cái bào rãnh
+ @groove-toothed
+* tt
+- có răng khía rãnh
+ @grooviness
+- xem groovy
+ @grooving
+* dt
+- sự bào rãnh, soi rãnh, đào rãnh
+ @groovy
+* tt
+- hấp dẫn do cách ăn mặc hợp thời trang
+ @grope  
+*  dgt
+- (: for,  after) sờ soạng tìm
+- dò dẫm, mò mẫm
+
++ to grope one's way in the dark: dò dẫm đường trong đêm tối
+
+@groper   (groper) @gropingly  
+*  dt
+- sờ soạng, lần mò; dò dẫm, mò mẫm
+
+@gros
+- lớn, thô; toàn bộ, grôt
+- by the g. đại lượng
+- great g. grôt nhỏ
+- small g. grôt nhỏ|
+ @grosbeak  
+*  dt
+- (động vật học) chim mỏ to (họ chim sẻ)
+
+@grosgrain
+* dt
+- lụa sọc ngang; băng lụa sọc
+ @gross  
+*  dt,  số nhiều không đổi
+- mười hai tá, gốt ((cũng) small gross)
+
++ great gross: 144 tá
+!by the gross
+- gộp cả, tính tổng quát, nói chung
+*  tt
+- to béo, phì nộm, béo phị (người)
+
++ gross habit of body: thân hình to béo phì nộm
+- thô và béo ngậy (thức ăn)
+
++ a gross feeder: người thích những món ăn thô và béo ngậy; cây ăn tốn màu
+- nặng, kho ngửi (mùi)
+- thô tục, tục tĩu, bẩn tưởi, gớm guốc
+
++ gross language: lối ăn nói tục tĩu
+- thô bạo, trắng trợn; hiển nhiên, sờ sờ
+
++ a gross injustice: sự bất công thô bạo
+
++ a gross mistake: một lỗi lầm hiển nhiên
+- không tinh, không thính (giác quan...); không sành, thô thiển
+- rậm rạp, um tùm (cây cối)
+- toàn bộ, tổng
+
++ gross value: tổng giá trị
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) thu nhập tổng số
+
+@Gross barter terms of trade
+- (Econ) Tổng tỷ lệ hàng đổi hàng.
+: Xem TERMS OF TRADE.
+ @Gross domestic fixed capital formation
+- (Econ) Tổng tư bản cố định trong nước.
+: Xem GROSS INVESTMENT
+ @Gross domestic product deflator
+- (Econ) Chỉ số khử lạm phát cho tổng sản phẩm quốc nội.
+: Một chỉ số giá được sử dụng để điều chỉnh giá trị bằng tiền của tất cả hàng hoá và dịch vụ tham gia vào tổng sản phẩm quốc nội khi giá cả thay đổi.
+ @Gross domestic product (GDP)
+- (Econ) Tổng sản phẩm quốc nội.
+: Xem NATIONAL INCOME.
+ @Gross investment
+- (Econ) Tổng đầu tư.
+: Tổng đầu tư nảy sinh trong nền kinh tế trong một khoảng thời gian nhất định.
+ @Gross margin
+- (Econ) Mức chênh giá gộp.
+: Mức chênh lệch giữa giá trả cho người bán buôn cung cấp và giá nhận được của người bán lẻ.
+ @Gross national income
+- (Econ) Tổng thu nhập quốc dân.
+: Xem NATIONAL INCOME.
+ @Gross profit
+- (Econ) Tổng lợi nhuận
+: Xem PROFIT.
+ @Gross trading profit
+- (Econ) Tổng lợi nhuận thương mại.
+: Lợi nhuận kiếm được từ những nghiệp vụ trước khi trừ đi KHẤU HAO và lãi đối với tài chính nợ và mức tăng giá cổ phần.
+ @grosser
+- xem gross
+ @grossly  
+*  dt
+- thô tục, tục tĩu, thô bỉ, thô thiển
+- cực kỳ, hết sức, vô cùng
+- theo lối bán buôn
+
+@grossness  
+*  dt
+- tính thô bạo, tính trắng trợn; tính hiển nhiên (bất công, sai lầm...)
+- tính thô tục, tính tục tĩu (lời nói...), tính thô bỉ, tính thô thiển
+
+@grossularite
+* dt
+- cũng grosular
+- (khoáng chất) groxularit
+ @grot  
+*  dt
+- (thơ ca) hang, động
+
+@grotesque  
+*  tt
+- lố bịch, kỳ cục
+
++ grotesque manners: thái độ lố bịch kỳ cục
+*  dt
+- bức tranh kỳ cục, bức tượng kỳ cục
+
+@grotesquely
+* dt
+- lố bịch, kỳ cục, kệch cỡm
+ @grotesqueness  
+*  dt
+- tính lố bịch, tính kỳ cục
+
+@grotesquerie
+* dt
+- cũng grotesquery
+- xem grotesque chỉ cái, phong cách, sự
+ @grottiness
+- xem grotty
+ @grotto  
+*  dt,  số nhiều grottos,  grottoes
+- hang động
+
+@grottoes  
+*  dt,  số nhiều grottos,  grottoes
+- hang động
+
+@grotty
+* tt
+- khó chịu, cáu gắt
+ @grouch  
+*  dt (từ Mỹ,nghĩa Mỹ),  (thông tục)
+- tính bẳn, tính cáu kỉnh, tính gắt gỏng
+- người hay dỗi; người bẳn tính, người hay càu nhàu gắt gỏng
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) gắt gỏng, càu nhàu, cằn nhằn
+
+@grouchily
+- xem grouchy
+ @grouchiness
+- xem grouchy
+ @grouchy  
+*  tt
+- hay dỗi; bẳn tính, cáu kỉnh
+
+@ground  
+*  thời quá khứ & động tt quá khứ của grind
+*  dt
+- mặt đất, đất
+
++ to sit on the ground: ngồi trên (mặt) đất
+
++ to cut a tree to the ground: đốn cây sát góc (đất)
+
++ below ground: đã chết và chôn rồi
+
++ to break fresh ground: khai khẩn đất mới; khai hoang, vỡ hoang; (nghĩa bóng) làm ra cái gì mới; tiếp xúc (vấn đề gì) lần đầu tiên
+- bâi đất, khu đất; ruộng đất (của ai)
+
++ a volleyball ground: bãi bóng chuyền
+- (số nhiều) đất đai vườn tược
+
++ an old mansion with extensive grounds: một toà lâu đài cổ với đất đai vườn tược rộng rãi
+- vị trí; khu đất; khoảng cách (trên mặt đất)
+
++ to keep one's ground: giữ vững vị trí; giữ vững lập trường lý lẽ
+
++ to give (lose) ground: rút lui, thoái lui; mất vị trí; suy sụp
+- đáy (biển, hồ...)
+
++ to touch ground: sát đất (đáy biển); (nghĩa bóng) đạt tới một cái gì chắc chắn (sau khi bàn bạc lan man...)
+- nền
+
++ a design of pink roses on a white ground: mẫu trang trí hoa hồng trên nền tảng
+- (số nhiều) cặn bã
+- ((thường) số nhiều) lý lẽ, lý do, căn cứ, cớ
+
++ to have good ground(s) for the believing something: có đủ lý do để tin một điều gì
+
++ on what grounds do you suspect him?: vì cớ gì anh nghi kỵ anh ta?
+- (điện học) sự tiếp đất
+!common ground
+- (xem) common
+!to cover much ground
+- đi được đường dài
+- đề cập nhiều vấn đề (bản báo cáo, bài tường thuật...)
+!to cut the ground from under somebody's feet
+- năm trước ý đồ của ai mà làm cho tâng hẫng
+!down to the ground
+- (xem) down
+!forbidden ground
+- (nghĩa bóng) vấn đề cần nói đến
+!to gain ground
+- (xem) gain
+!hope are dashed to the ground
+- hy vọng tan vỡ
+!plan falls to the ground
+- kế hoạch thất bại
+!to run to ground
+- đuổi đến tận hang
+- truy nguyên đến tận gốc
+!to shift one's ground
+- (xem) shift
+*  ngdgt
+- (: on) dựa vào, căn cứ vào, đặt vào
+
++ to ground one's hopes on: đặt hy vọng vào
+- (: in) truyền thụ (cho ai) những kiến thức vững vàng
+
++ the teacher grounded his pupils in arithmetic: thầy giáo truyền thu cho học sinh những kiến thức vững vàng về số học
+- đặt nền (cho một bức hoạ, bức thêu...)
+- đặt xuống đất
+
++ ground arms!: (quân sự) đặt súng xuống!
+- (hàng hải) làm cho (tàu) mắc cạn
+- (hàng không) làm cho (máy bay) không cất cánh; bắn rơi, làm rơi xuống đất
+
++ fog grounds all aircraft at N: sương mù làm cho tất cả máy bay ở sân N không cất cánh được
+- (điện học) tiếp đất
+*  ndgt
+- (hàng hải) mắc cạn
+- (hàng không) hạ cánh
+
+@ground
+- cơ sở, lý do, nguyên nhân; đất |
+ @ground bus
+- (Tech) mẫu tuyến đất
+ @ground cable
+- (Tech) cáp chôn dưới đất
+ @ground circuit
+- (Tech) mạch đất
+ @ground control  
+*  dt
+- (raddiô) sự điều khiển từ mặt đất
+
+@ground crew   (ground_crew) @ground floor  
+*  dt
+- tầng dưới cùng
+!to get in on the ground_floor
+- (thông tục) được kết nạp làm cổ đông cùng với những điều kiện như người sáng lập
+
+@ground forces  
+*  dt số nhiều
+- (quân sự) lục quân
+
+@ground game  
+*  dt
+- thú (săn) mặt đất (như thỏ, lợn rừng...)
+
+@ground glass  
+*  dt
+- kính mờ
+
+@ground (GND)
+- (Tech) đất, nền, đáy, cơ sở; nối đất, nối âm (đ)
+ @ground landlord  
+*  dt
+- chủ cho thuê đất để xây dựng
+
+@ground line
+- (Tech) dây đất
+ @ground plan  
+*  dt
+- (kiến trúc) sơ đồ mặt bằng
+- đề cương ((cũng) ground_plot)
+
+@ground plane antenna
+- (Tech) ăngten mặt đất, ăngten địa diện
+ @ground plot  
+*  dt
+- mảnh đất để cất nhà
+- đề cương ((cũng) ground_plan)
+
+@ground potential
+- (Tech) thế năng đất
+ @ground return circuit
+- (Tech) mạch về đất
+ @ground return coupling
+- (Tech) ghép về đất
+ @ground rod
+- (Tech) thanh @ground rule
+* dt
+- nguyên lý làm nền tảng, nguyên lý cơ bản
+ @ground speed  
+*  dt
+- (hàng không) tốc độ trên đường băng (của máy bay)
+
+@ground staff   (ground_crew) @ground swell  
+*  dt
+- sông đáy
+
+@ground terminal
+- (Tech) đầu nối đất
+ @ground torpedo  
+*  dt
+- ngư lôi đây
+
+@ground wire
+- (Tech) dây đất
+ @ground zero
+- (Tech) điểm zêrô, điểm gốc, khởi điểm
+ @groundage
+* dt
+- (hàng hải) phí lưu cảng
+ @ground-bailiff
+* dt
+- người quản lý mỏ
+ @ground-bait  
+*  dt
+- mồi câu chìm (vứt xuống đáy hồ...)
+
+@ground-colour  
+*  dt
+- màu nền (trên một bức tranh)
+
+@grounded
+- (Tech) được nối với đất
+ @grounded circuit
+- (Tech) mạch nối đất
+ @grounded emitter
+- (Tech) cực phát nối đất
+ @grounded-base configuration
+- (Tech) cấu hình gốc nối đất
+ @grounded-emitter amplifier
+- (Tech) bộ khuếch đại cực phát nối đất
+ @grounded-emmiter configuration
+- (Tech) cấu hình cực phát nối đất
+ @groundedly
+* dt
+- có cơ sở vững chắc
+ @ground-fish  
+*  dt
+- cá tầng đáy
+
+@ground-fishing  
+*  dt
+- sự câu chim
+
+@ground-gru
+* dt
+- cũng ground-ice
+- băng ở đáy nước
+ @ground-hog  
+*  dt
+- (động vật học) con macmôt Mỹ
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) con chuột chũi
+
+@ground-ice  
+*  dt
+- băng đáy
+
+@grounding  
+*  dt
+- sự mắc cạn (tàu thuỷ)
+- sự hạ cánh (máy bay); sự bắn rơi (máy bay)
+- sự truyền thụ kiến thức vững vàng
+- sự đặt nền (cho một bức hoạ, bức thêu)
+- (điện học) sự tiếp đất
+
+@groundless  
+*  tt
+- không căn cứ, không duyên cớ (tin đồn, mối lo ngại...)
+
++ groundless fear: những mối lo sợ không căn cứ
+
++ groundless rumours: những tin đồn đại không căn cứ
+
+@groundlessly
+* dt
+- không căn cứ, vô cớ
+ @groundlessness  
+*  dt
+- sự không căn cứ, sự không duyên cớ
+
+@groundling  
+*  dt
+- (động vật học) cá tầng đáy
+- cây bò (trên mặt đất); cây lùa
+- khán giả ở khu vực trước sân khấu (ở Anh xưa)
+- khán giả dễ tính; độc giả dễ tính
+
+@groundloop
+* dt
+- (hàng không) vòng lượn khi hạ cánh hay cất cánh
+ @ground-man   (groundsman) @ground-nut  
+*  dt
+- lạc
+
+@groundoak
+* dt
+- (thực vật) cây sồi lùn
+ @ground-pine
+* dt
+- (thực vật) bạc hà Âu châu
+ @ground-plane
+* dt
+- mặt đáy
+ @ground-reflected wave
+- (Tech) sóng phản xạ đất
+ @ground-rent  
+*  dt
+- tô đất, địa tô
+
+@groundsel
+* dt
+- cây cúc bạc
+ @groundsheet
+* dt
+- tấm vải lót làm chỗ nằm trên mặt đất
+ @groundsman   (groundsman) @ground-squirrel  
+*  dt
+- (động vật học) con sóc đất
+
+@ground-to-air communication
+- (Tech) truyền thông địa không (truyền thông từ mặt đất lên không trung)
+ @ground-water
+* dt
+- nước ngầm
+ @ground-wire  
+*  dt
+- (điện học) dây đất
+
+@groundwork  
+*  dt
+- nền
+- (ngành đường sắt) nền đường
+- chất nền (chất liệu chính để pha trộn...)
+- (nghĩa bóng) căn cứ, cơ sở
+
+@group  
+*  dt
+- nhóm
+
++ to lean in groups: học nhóm
+
++ to from a group: họp lại thành nhóm
+
++ atomic group: (vật lý) nhóm nguyên tử
+
++ group of algebras: (toán học) nhóm các đại số
+
++ blood group: (y học) nhóm máu
+- (hoá học) nhóm, gốc
+*  dgt
+- hợp thành nhóm; tập hợp lại
+
++ people grouped [themselves] round the speaker: mọi người tập họp lại xung quanh diễn giả
+- phân loại, phân loại, phân hạng, phân phối theo nhóm
+- (nghệ thuật) tạo nên sự hoà hợp màu sắc
+
+@group
+- nhóm   nhóm lại
+- g. of algebras nhóm các đại số 
+- g. of classes nhóm các lớp
+- g. of collineations nhóm các phép cộng tuyến
+- g. of exténion nhóm các phép mở rộng
+- g. of isotropy (hình học) nhóm đẳng hướng
+- g. of motión nhóm các chuyển động
+- g. of transformations nhóm các phép biến đổi
+- Abelian g. nhóm Aben, nhóm giao hoán
+- additive g. nhóm afin
+- affine g. nhóm cộng tính
+- algebraically Abelian g. nhóm Aben đại số
+- algebraically closed Abelian g. nhóm Aben đóng đại số
+- alternating g. nhóm thay phiên
+- Archimedian g. nhóm Acsimet
+- aperiodic g. nhóm không tuần hoàn
+- automorphism g. nhóm các tự đẳng cấu, nhóm các phép nguyên hình
+- binary projective g. nhóm xạ ảnh nhị nguyên
+- buonded g. (đại số) nhóm bị chặn
+- characterr g. nhóm đặc trưng
+- circle g. nhóm quay tròn
+- class g. nhóm lớp
+- cobordism g. nhóm đồng điều trong
+- coherent topological g. nhóm tôpô dính
+- cohomology g. nhóm đối đồng đều
+- collineation g. nhóm cộng tuyến
+- commutator g. nhóm hoán tử
+- compact g. (đại số) nhóm compac
+- complete g. nhóm đầy đủ 
+- completely reducible g. nhóm hoàn toàn khả quy
+- composite g. (đại số) nhóm đa hợp
+- congruence g. (đại số) nhóm đồng dư
+- continuous g. nhóm liên tục, nhóm tôpô 
+- continuous linear g. nhóm tuyến tính liên tục
+- convering g. nhóm phủ
+- crystallographic g. (đại số) nhóm tinh thể
+- cyclic g. nhóm xilic
+- decompostition g. (đại số) nhóm phân tích
+- defect g. (đại số) nhóm khuyết
+- derived g. nhóm dẫn xuất
+- differential g. nhóm vi phân
+- dihedral g. (tô pô) nhóm nhị diện
+- dihomology g. nhóm lưỡng đồng điều
+- direct g. nhóm có hướng
+- discontinuous g. nhóm rời rạc
+- discontinuous infinite g. nhóm vô hạn rời rạc
+- discrete g. nhóm rời rạc
+- dispersible g. (đại số) nhóm phân tán được
+- divisible g. nhóm đường gấp khúc
+- edge path g. nhóm đường gấp khúc
+- einstufig g. nhóm một bậc
+- equianharmonic g. nhóm đẳng phi điều
+- equiform g. (đại số) nhóm đẳng dạng
+- exceotinal g. nhóm ngoại lệ
+- exponential g. (đại số) nhóm mũ
+- extended orthonal g. nhóm trực giao mở rộng
+- factor g. (đại số) nhóm thương
+- finite g. (đại số) nhóm hữu hạn
+- formal Lie g. nhóm Li hình thức
+- fractional linear g. nhóm tuyến tính đầy đủ
+- full unimodular g. nhóm đơn môđula đầy đủ
+- general linear g. nhóm đơn tuyến tính tổng quát
+- generalized quaternion g. nhóm quatênion suy rộng
+- graded g. nhóm phân bậc
+- Hamiltonian g. (đại số) nhóm Hamintôn
+- harmonic g. nhóm điều hoà
+- homonomy g. nhóm hôlônôm
+- homology g. nhóm đồng điều
+- homotopy g. nhóm đồng luân
+- hyperabelian g. nhóm siêu Aben
+- hyperexponential g. nhóm siêu mũ
+- hyperfuchsian g. nhóm siêu Fuc
+- hypermetric topological g. nhóm tôpô siêu metric
+- hyperorthogonal g. nhóm siêu trực giao
+- icosaheral g. nhóm hai mươi mặt 
+- identity g. nhóm đơn vị
+- imprimitive. nhóm phi nguyên thuỷ
+- infinite g. nhóm vô hạn
+- infinitesimal g. nhóm vi phân
+- integrable g. (đại số) nhóm giải được
+- intransitive g. nhóm không bắc cầu
+- irreducible g. nhóm không khả qui
+- k- step metabelian g. (đại số) nhóm mêta Aben bước K
+- lattice ordered g.,I- group. nhóm sắp theo đàn 
+- linear g. nhóm tuyến tính
+- linear fractinal g. (đại số) nhóm phân tuyến tính
+- local g. nhóm địa phương
+- local Lie g. nhóm Li địa phương
+- locally compact g. (đại số) nhóm compact địa phương
+- locally solvable g. (đại số) nhóm giải được địa phương
+- loose g. nhóm không trù mật
+- lower basic g. (đại số) nhóm cơ bản dưới
+- loxodrome cyclic g. nhóm tà hành xilic
+- metabelian g. nhóm mêtan Aben
+- metacyclic g. nhóm nêta xiclic
+- mixed g. (đại số) nhóm hỗn tạp
+- modular g. nhóm môđunla
+- monodromic g. nhóm đơn đạo
+- nilpotent g. nhóm luỹ linh
+- non-commutative g. (đại số) nhóm không giao hoán 
+- non-special g. nhóm không đặc biệt
+- nuclear g. nhóm hạch
+- octahedral g. nhóm tám mặt
+- one-headed g. nhóm một đầu, nhóm có ước cực đại
+- one-parameter g. (đại số) nhóm một tham số
+- ordered g. nhóm được sắp
+- orthogonal g. nhóm trực giao
+- pairwise transitive g.(hình học) nhóm bắc cấu từng cặp điểm
+- parabolic metric g. nhóm mêtric parabolic
+- paraconvex g. nhóm para lồi
+- perfect g.s nhóm hoàn toàn
+- periodic g. (đại số) nhóm tuần hoàn
+- permutation g. (đại số) nhóm hoán vị
+- polycyclic g. nhóm đa xilic
+- polyhedron g. nhóm đa diện
+- primary g. nhóm nguyên sơ
+- primary cyclic g. nhóm xilic nguyên xơ 
+- primitive g. nhóm nguyên thuỷ
+- product g. of modules tích nhóm các môđun
+- quasi-cyclic g. nhóm tựa xilic
+- quotient g. nhóm thương
+- radical g. nhóm căn
+- real orthogonal g. nhóm trực giao thực
+- reflection g. (đại số) nhóm phản xạ
+- relative cohomology g. (đại số) nhóm đối đồng đều tương đối
+- ralative homology g. nhóm đồng đều tương đối
+- rotation g. (đại số) nhóm quay
+- semi-metacyclic g. nhóm nửa mêta xilic
+- semi-simple g. (đại số) nhóm nửa đơn giản
+- separable g. (đại số) nhóm tách được
+- similarity g. nhóm đồng dạng
+- simple g. (đại số) nhóm đơn giản
+- simply transitive g. nhóm bắc cầu đơn
+- slender g. (đại số) nhóm hẹp
+- solennoidal g. (đại số) nhóm sôlenoit
+- solvable g.(đại số) nhóm giải được
+- special g. nhóm đặc biệt
+- special projective g. nhóm xạ ảnh đặc biệt
+- spinor g. nhóm spinơ
+- substitution g. nhóm các phép thế
+- symmetric g. từng đôi ngẫu đối
+- tetrahedral g. đs nhóm tứ diện
+- topological g. nhóm tôpô
+- topologically solvable g. (đại số) nhóm giải được tôpô
+- toroid g. nhóm phỏng tuyến
+- torsion g. đs nhóm xoắn, nhóm tuần hoàn
+- torsion free g. (đại số) nhóm không xoắn
+- track g. (tô pô) nhóm đường
+- transforrmation g. (đại số) nhóm các phép biến đổi
+- translation g.(hình học) nhóm các phép tịnh tiến
+- unicoherent topological g. (đại số) nhóm tôpô đính đều
+- unimodular g. nhóm đơn môđula
+- unitary g. nhóm đơn nguyên
+- wave g. nhóm sóng|
+@group attribute
+- (Tech) thuộc tính nhóm
+ @group captain
+* dt
+- đại tá không quân hoàng gia Anh
+ @group delay
+- (Tech) trì hoãn nhóm
+ @group distribution frame
+- (Tech) khung phân bố nhóm
+ @group frequency
+- (Tech) tần số nhóm
+ @group icon
+- (Tech) hình tượng nhóm
+ @group item
+- (Tech) mục nhóm
+ @Group of Nhóm 77.
+- (Econ) Một liên minh lỏng lẻo của hơn 100 nước chủ yếu là đang phát triển, lúc đầu là do 77 nước thành lập tại HỘI NGHỊ LIÊN HỢP QUỐC THƯƠNG MẠI VÀ PHÁT TRIỂN vào năm 1964 để biểu thị hơn nữa mối quan tâm tập thể của họ về sự phát triển thể chế của hệ thống kinh tế thế giới.
+ @Group of Seven
+- (Econ) Nhóm G7.
+: Bẩy nước công nghiệp chủ yếu (Canada, Pháp, Đức, Italia, Nhật, Anh và Mỹ), những người đứng đầu chính phủ các bộ trưởng kinh tế của những nước này thương xuyên gặp nhau nhằm phối hợp chính sách kinh tế vĩ mô, đặc biệt là về tỷ giá hối đoái phù hợp giữa các nước. Hiện nay đã có thêm Nga gia nhập thành các nước G8.
+ @Group of Ten
+- (Econ) Nhóm G10.
+: Xem INTERNATIONAL MONETARY FUND.
+ @group practice
+* dt
+- một nhóm bác sự cùng chuyên khoa với nhau
+ @group separator (GS)
+- (Tech) dấu tách nhóm dữ liệu
+ @group therapy
+* dt
+- phương thức trị liệu theo nhóm tâm lý
+ @group-averaged
+* tt
+- quy trung bình theo nhóm
+ @grouped
+- đã nhóm lại |
+ @grouper   (groper) @groupie
+* dt
+- cô gái đi theo cổ động các băng nhạc
+ @grouping  
+*  dt
+- sự họp thành nhóm
+- nhóm, tổ, đội
+
+@grouping
+- sự nhóm lại
+- homogeneous g. (thống kê) sự nhóm lại thuần nhất |
+ @group-like
+- tựa nhóm, giống nhóm |
+ @groupment  
+*  dt
+- nhóm, tổ, đội
+
+@groupoid
+- (đại số) phỏng nhóm
+- metric g. (đại số) phỏng nhóm mêtric|
+ @group-transfer
+* dt
+- (y học) nhóm máu truyền
+ @groupware
+- phần mềm nhóm
+ @groupware (software for workgroups)
+- (Tech) nhu liệu điều hành nhóm
+ @grouse  
+*  dt,  số nhiều không đổi
+- gà gô trắng
+
++ white grouse: gà gô trắng
+
++ wood grouse: gà rừng
+*  dt
+- (từ lóng) sự càu nhàu, sự cằn nhằn
+*  ndgt
+- (từ lóng) càu nhàu, cằn nhằn
+
+@grouser  
+*  dt
+- (từ lóng) người hay càu nhàu, người hay cằn nhằn
+- (kỹ thuật) tấm vấu dây xích (máy kéo)
+
+@grout  
+*  dt
+- (kiến trúc) vữa lỏng (để trát kẽ hở ở tường)
+*  ngdgt
+- trát (kẽ hở ở tường) bằng vữa lỏng
+*  dgt
+- ủi (đất) bằng mồm (lợn)
+
+@grouter
+- xem grout
+ @grouty  
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) hay nổi nóng, hay cáu
+
+@grove  
+*  dt
+- lùm cây, khu rừng nhỏ
+
+@grovel  
+*  ndgt
+- nằm phục xuống đất; bò; đầm
+
++ to grovel in the mud: đầm trong bùn
+- (nghĩa bóng) quỳ gối, uốn gối, khom lưng uốn gối
+
++ to grovel to (before) somebody: khom lưng uốn gối trước mặt ai
+
+@groveler
+- xem grovel
+ @grovelingly
+- xem grovel
+ @groveller  
+*  dt
+- kẻ khom lưng uốn gối, kẻ liếm gót
+
+@grovelling  
+*  tt
+- khom lưng uốn gối, liếm gót, quy nạp
+
+@grow  
+*  ndgt grew; grown
+- mọc, mọc lên (cây cối); mọc mầm, đâm chồi nẩy nở
+
++ rice plants grow well: lúa mọc tồi
+
++ to be grown over with grass: cỏ mọc đầy lên
+- lớn, lớn lên (người)
+
++ to grow into a beautiful girl: lớn lên trở thành một cô gái đẹp
+
++ to find someone much grown: thấy ai chóng lớn quá
+- phát triển, tăng lên, lớn thêm
+
++ our national economy is growing: nền kinh tế quốc dân của ta đang phát triển
+
++ the crowd grows: đám đông tăng lên
+- dần dần trở thành, dần dần trở nên
+
++ it's growing gark: trời tối dần
+
++ to grow better: khá hơn lên
+
++ to grow worse: xấu đi
+
++ to grow old: già đi
+
++ to grow smaller: bé đi
+
++ to grow angry: nổi giận
+
++ to grow sleep: buồn ngủ
+
++ to grow weary of: chán ngấy (cái gì)
+
++ he grows to like painting: hắn đâm ra thích vẽ
+*  ngdgt
+- trồng (cây, hoa)
+- để (râu, tóc...) mọc dài
+!to grow down
+- mọc ngược, mọc đầu xuống dưới
+- giảm đi, bớt đi, kém đi, nhỏ đi
+!to grow downwards
+- giảm đi, bớt đi
+!to grow in
+- mọc vào trong
+- dính vào, cáu vào, khắc sâu vào
+- ăn sâu vào
+!to grow on (upon)
+- nhiễm sâu vào, thấm sâu vào; ngày càng ảnh hưởng đến
+
++ the new way of life grows upon him: lối sống mới đã thấm sâu vào anh ấy
+- ngày càng thích hơn
+
++ the piece of music grows upon me: càng nghe bản nhạc ấy tôi càng thấy thích
+!to grow out [of]
+- nảy sinh ra từ, phát sinh ra từ
+- bỏ (thói quen)
+
++ to grow out of a bad habit: bỏ một thói xấu
+- quá, vượt quá (khổ, cỡ)
+
++ to grow out of knowledge: lớn quá không nhận ra được nữa
+!to grow to
+- đạt tới, tới, lên tới
+
++ to grow to manhood: tới tuổi trưởng thành
+!to grow up
+- lớn lên, trưởng thành
+
++ to be grow up: đến tuổi trưởng thành, lớn lên
+- nảy sinh; lan rộng, trở thành phổ biến (phong tục, tập quán...)
+
+@grow
+- tăng, phát triển |
+ @grower  
+*  dt
+- người trồng
+- cây trồng
+
++ a rapid grower: cây lớn nhanh
+
++ a slow grower: cây mọc chậm
+
+@growing  
+*  dt
+- sự lớn lên
+- sự nuôi; sự trồng
+
++ the growing of bees: sự nuôi ong
+
++ the growing of grapes: sự trồng nho
+*  tt
+- đang lớn lên
+
++ growing pains: sốt đau đầu xương tuổi đang lớn, sốt vỡ da
+- (từ Mỹ,nghĩa Mỹ) những khó khăn mới (của kế hoạch mới, của sự phát triển mau chóng)
+- giúp cho sự lớn lên
+
++ growing weather: thời tiết thuận lợi cho cây cối lớn lên
+
+@growing process
+- (Tech) tiến trình tăng trưởng
+ @growingly
+- xem grow
+ @growl  
+*  dt
+- tiếng gầm, tiếng gầm gừ
+- tiếng càu nhàu, tiếng lẩm bẩm (giận dữ), tiếng làu bàu
+*  dgt
+- gầm, gầm gừ, rền (thú vật, sấm)
+
++ thunder is growling in the distance: sấm rền ở phía xa
+- (: at) càu nhàu, lẩm bẩm, làu bàu
+
++ to growl at someone: càu nhàu với ai
+
+@growler  
+*  dt
+- người hay càu nhàu
+- núi băng nhỏ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bình đựng bia
+- (từ cổ,nghĩa cổ) xe ngựa bốn bánh
+
+@growly
+- xem growl
+ @grown  
+*  động tt quá khứ của grow
+*  tt
+- lớn, trưởng thành
+
++ a grown man: một người đã trưởng thành
+
+@grown diffusion
+- (Tech) khuếch tán tăng
+ @grown junction
+- (Tech) tiếp giáp tăng
+ @grown-up  
+*  tt
+- đã lớn, đã trưởng thành
+*  dt
+- người lớn, người đã trưởng thành
+
+@growth  
+*  dt
+- sự lớn mạnh, sự phát triển
+- sự tăng tiến, sự tăng lên, sự khuếch trương
+
++ the growth of industry: sự lớn mạnh của nền công nghiệp
+- sự sinh trưởng
+
++ a rapid growth: sự mau lớn, sự sinh trưởng mau
+- sự trồng trọt, vụ mùa màng
+
++ a growth of rice: một mùa lúa
+
++ wine of the 1954 growth: rượu vang vụ nho 1954
+- cái đang sinh trưởng, khối đã mọc
+
++ a thick growth of weeds: khối cỏ dại mọc dày
+- (y học) khối u, u
+
+@growth
+- sự tăng, sự phát triển, cấp tăng
+- g. of an entire function cấp tăng của một hàm nguyên 
+ @Growth path
+- (Econ) Đường tăng trưởng.
+: Đây là một hình thái thay đổi của một biến theo thời gian.
+ @growth rate
+- (Tech) tốc độ tăng trưởng, suất tăng
+ @Growth rate
+- (Econ) Tốc độ tăng trưởng.
+ @Growth theories of the firm
+- (Econ) Các lý thuyết về sự tăng trưởng của hãng.
+: Nhờ công trình đi đầu của E.T. Penrose (lý thuyết tăng trưởng của hãng, Blackwell, Oxford,1959) và R.L.Marris (lý thuyết kinh tế của chủ nghĩa tư bản quản lý, Macmillan, London, 1964) các lý thuyết tăng trưởng trở thành một ngành của các lý thuyết về QUẢN LÝ HÃNG và được coi là phù hợp đối với một nền kinh tế hãng trong đó các nhà quản lý của các hãng có quyền tự do trong việc đề ra các mục tiêu mà họ muốn theo đuổi.
+ @Growth theory
+- (Econ) Lý thuyết tăng trưởng.
+: Các mô hình nảy sinh từ việc nghiên cứu nền kinh tế khi có sự thay đổi về lượng tư bản, quy mô dân số và kéo theo áp lực về số lượng và cơ cấu tuổi của lực lượng lao động và tiến bộ kỹ thuật. Có 2 nhóm lý thuyết chính: 1)Lý thuyết tăng trưởng tân cổ điển. 2)Lý thuyết tăng trưởng của Keynes (và Keynes mới).
+ @Growth-gap unemployment
+- (Econ) Thất nghiệp do chênh lệch về tăng trưởng.
+: Thất nghiệp do thiếu hụt cầu dài hạn.
+ @Growth-profitability function
+- (Econ) Hàm lợi nhuận - tăng trưởng.
+: Đề cập đến Tỷ suất lợi nhuận tối đa mà một hãng có thể duy trì được ở các tỷ lệ tăng trưởng khác nhau.
+ @Growth-stock paradox
+- (Econ) Nghịch lý cổ phần tăng trưởng.
+: Đề cập đến một tình huống trong đó do Tỷ lệ chiết khấu hiện hành nhỏ hơn tỷ lệ tăng trưởng của cổ tức hàng năm không đổi dự kiến của một hãng, giá trị cổ phần sẽ tiến đến vô hạn.
+ @Growth-valuation function
+- (Econ) Hàm giá trị - tăng trưởng.
+: Hàm này tạo ra TỶ SỐ GIÁ TRỊ cực đại mà một hãng có thể duy trì được tại các mức tỷ lệ tăng trưởng khác nhau và là một đặc điểm chung của các LÝ THUYẾT TĂNG TRƯỞNG CỦA HÃNG.
+ @groyne  
+*  dt
+- đê biển
+*  ngdgt
+- đắp đê (dọc theo bờ biển)
+
+@groyned
+* tt
+- có đê biển
+ @grub  
+*  dt
+- ấu trùng, con giòi
+- (từ lóng) thức ăn, đồ nhậu; bữa chén đẫy
+- văn sĩ, viết thuê
+- người ăn mặc lôi thôi lếch thếch; người bẩn thỉu dơ dáy
+- người lang thang kiếm ăn lần hồi; người phải làm việc lần hồi; người phải làm việc vất vả cực nhọc
+- (thể dục,thể thao) quả bóng ném sát đất (crikê)
+- (từ Mỹ,nghĩa Mỹ) học sinh học gạo
+*  dgt
+- xới đất, bới đất
+- xới bới (khoai...), nhổ (cổ)
+
++ to grub up potatoes: bới khoai
+
++ to grub up weeds: nhổ cỏ dại
+- (grub about) lục tím
+
++ to grub about in the library: lục tìm trong thư viện
+
++ pigs grub about among bushes: lợn rúc tìm ăn trong bờ bụi
+- (grub on,  along; away) vất vả, khó nhọc
+
++ to grub on (along): đi nặng nề khó nhọc; làm vất vả cực nhọc
+- (từ lóng) cho ăn cho uống, cho chén; ăn uống, nhậu nhẹt
+
+@grub-axe  
+*  dt
+- cuốc chim (để bới củ...)
+
+@grubber  
+*  dt
+- người xới, người bới
+- máy xới diệt cỏ
+- (từ lóng) người ăn ngấu nghiến
+- (từ Mỹ,nghĩa Mỹ) học sinh học gạo
+
+@grubbily
+- xem grubby
+ @grubbiness  
+*  dt
+- tình trạng bẩn thỉu, tình trạng bụi bậm; tình trạng lôi thôi lếch thếch; tình trạng dơ dáy
+- tình trạng có giòi
+
+@grubby  
+*  tt
+- bẩn thỉu, bụi bậm; lôi thôi lếch thếch; dơ dáy
+- có giòi
+
+@grub-hoe  
+*  dt
+- cuốc chim (để xới, bới củ, đánh gốc cây...)
+
+@grub-kick
+* dgt
+- đá quả bóng (bầu dục) chạy sát sân bãi
+ @grub-stake
+* dt
+- vốn cấp cho người thăm dò mỏ (để chia lợi nhuận)
+- sự giúp đỡ vật chất để tiến hành một công việc khó khăn
+ @grubstake
+* dt
+- tiền hay thiết bị cung cấp cho một doanh nghiệp để bù đắp một cổ phần đã sinh lợi
+ @grub-street  
+*  dt
+- phố Grúp (nơi có nhiều nhà văn viết thuê ở ngày xưa tại Luân-ddôn)
+
+@grudge  
+*  dt
+- mối ác cảm, mối hận thù
+
++ to bear (owe) somebody a grudge; to have (murse, keep) a grudge against someboby: có hằn thù ác cảm với ai; oán giận ai
+*  ngdgt
+- cho một cách miễn cưỡng, miễn cưỡng cho phép, bất đắc dĩ đồng ý
+- nhìn bằng con mắt xấu; tỏ vẻ không bằng lòng, tỏ vẻ không thích thú; có thái độ hằn học
+
+@grudger
+- xem grudge
+ @grudging  
+*  tt
+- ghen tức, hằn học
+- miễn cưỡng, bất đắc dĩ
+
+@grudgingly
+* dt
+- bất đắc dự, miễn cưỡng
+ @gruel  
+*  dt
+- cháo (cho người ốm); cháo suông
+!to have (get) one's gruel
+- (thông tục) bị phạt
+- bị đánh thua liểng xiểng
+- bị giết
+!to give somebody his gruel
+- đánh vùi, đánh đập ai, đánh ai nhừ đòn
+- giết ai đi
+
+@gruelling  
+*  dt
+- (thực vật học) trận roi đau, trận đòn nhừ tử
+*  tt
+- (từ Mỹ,nghĩa Mỹ) (như) gruesome
+- làm kiệt sức, làm mệt nhoài, làm mệt lử
+
++ a gruelling race: cuộc chạy mệt nhoài
+
+@gruesome  
+*  tt
+- ghê gớm, khủng khiếp
+- ghê tởm
+
+@gruesomely
+* dt
+- khủng khiếp, kinh khủng
+ @gruesomeness  
+*  dt
+- sự ghê gớm, sự khủng khiếp
+- sự ghê tởm
+
+@gruff   (gruffy) @gruffish  
+*  tt
+- hơi cộc lốc, hơi cộc cằn, hơi thô lỗ
+
+@gruffly
+* dt
+- thô lỗ, cộc cằn
+ @gruffness  
+*  tt
+- tính cộc cằn, tính thô lỗ
+
+@gruffy   (gruffy) @grumble  
+*  dt
+- sự càu nhàu, sự cằn nhằn; tiếng càu nhàu
+
++ he is full of grumbles: hắn lúc nào cũng càu nhàu
+- sự lầm bầm; tiếng lầm bầm
+*  dgt
+- càu nhàu, cằn nhằn
+
++ to grumble at (over, about) something: càu nhàu về cái gì
+- lẩm bẩm, lầm bầm
+
++ to grumble (out) a reply: lẩm bẩm vặc lại
+- gầm lên (sấm)
+
++ thunder grumbling in the distance: sấm rền ở đằng xa
+
+@grumbler  
+*  dt
+- người hay càu nhàu, người hay cằn nhằn
+- người hay lẩm bẩm
+
+@grumblingly  
+*  dt
+- càu nhàu
+- cằn nhằn
+- lẩm bẩm
+
+@grumbly  
+*  tt
+- hay càu nhàu
+- hay cằn nhằn
+- hay lẩm bẩm
+
+@grume  
+*  dt
+- chất dính nhớt, chất lầy nhầy
+- (y học) cục máu đông
+
+@grummet  
+*  dt
+- (hàng hải) vòng dây (thừng, chão) ((từ Mỹ,nghĩa Mỹ) gromet,  grommet)
+
+@grumose
+* tt
+- đóng cục; kết cục (máu)
+ @grumous  
+*  tt
+- dính nhớt, lầy nhầy
+- (y học) đóng cục (máu)
+
+@grump
+* dt
+- người hay cau có
+- (số nhiều) trạng thái gắt gỏng
+- she got the grumps &
+- 652;ẵó
+ @grumpily
+* dt
+- gắt gỏng, cục cằn
+ @grumpiness  
+*  dt
+- tính hay gắt gỏng; tính cục cằn
+
+@grumpish   (grumpy) @grumpy   (grumpy) @grundyism
+* dt
+- thái độ câu nệ theo tập tục; chủ nghĩa thủ cựu
+ @grunt  
+*  dt
+- tiếng kêu ủn ỉn
+- tiếng càu nhàu
+- tiếng cằn nhằn
+- tiếng lẩm bẩm
+*  dgt
+- ủn ỉn (lợn...)
+- càu nhàu, cằn nhằn
+
++ to grunt [out] an answer: càu nhàu trả lời
+- lẩm bẩm
+
+@grunter  
+*  dt
+- con lợn
+- người hay càu nhàu, người hay cằn nhằn
+
+@grunting-cow  
+*  dt
+- (động vật học) bò rừng cái (Tây tạng)
+
+@gruntingly  
+*  dt
+- ủn ỉn (lợn)
+- càu nhàu, cằn nhằn
+- lẩm bẩm
+
+@grunting-ox  
+*  dt
+- (động vật học) bò rừng đực (Tây tạng)
+
+@gruntled
+* tt
+- (thông tục) hài lòng
+ @gruntling
+* dt
+- lợn con
+ @gruyère  
+*  dt
+- phó mát gruye
+
+@gryphon  
+*  dt
+- quái vật sư tử đầu chim ((cũng) gryphon)
+- (như) grif
+
+@grysbok  
+*  dt
+- (động vật học) linh dương xám (Nam phi)
+
+@

@@ -1,0 +1,85 @@
+@iodic  
+*  tt
+- (hoá học) Ioddic
+
++ iodic acid: axit ioddic
+
+@iodide  
+*  dt
+- (hoá học) Ioddua
+
+@iodine  
+*  dt
+- (hoá học) Iot
+
+@iodism  
+*  dt
+- (y học) sự nhiễm độc iôt
+
+@iodization  
+*  dt
+- sự bôi iôt
+
+@iodize  
+*  ngdgt
+- bôi iôt vào (vết thương)
+
+@iolite  
+*  dt
+- (khoáng chất) Iôlit
+
+@iom
+* (viết tắt)
+- đảo Man (Isle of Man)
+ @ion  
+*  dt
+- (vật lý) Ion
+
+@ion
+- (vật lí) iôn
+ @ionic  
+*  tt
+- (vật lý) (thuộc) ion
+
+@ionic
+- (vật lí) (thuộc) iôn
+ @ionisation
+* dt
+- <lý> sự ion hoá
+- độ ion hoá
+ @ionise   (ionise) @ionization  
+*  dt,  (vật lý)
+- sự ion hoá
+- độ ion hoá
+
+@ionization
+- (vật lí) sự iôn hoá
+ @ionize   (ionise) @ionizer
+- xem ionize
+ @ionophore
+* dt
+- thể mang ion
+ @ionosphere  
+*  dt
+- tầng điện ly
+
+@ionosphere
+- vl(đại số) tính bất thường mặt ngoài
+ @ionospheric  
+*  tt
+- (thuộc) tầng điện ly
+
+@iota  
+*  dt
+- lượng rất bé, tí ti, mảy may
+
++ there is not an iota of truth in his story: không có một mảy may sự thật nào trong câu chuyện của nó
+- Iôta (chữa cái Hy-lạp), i
+
+@iou  
+*  dt
+- (viết tắt) của I owe you, văn tự, giấy nợ
+
+@IOU money
+- (Econ) Tiền dựa theo nợ.
+ @

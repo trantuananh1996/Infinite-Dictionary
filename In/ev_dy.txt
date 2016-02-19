@@ -1,0 +1,390 @@
+@dyad  
+*  dt
+- số 2 (hai)
+- nhóm hai, bộ đôi, cặp
+- (hoá học) gốc hoá trị hai
+
+@dyad
+- điat
+ @dyadic  
+*  tt
+- gồm hai
+
+@dyadic
+- nhị nguyên, nhị thức
+ @dyadic Boolean operator
+- (Tech) toán tử Boole (Bun) nhị nguyên
+ @dyadic processor
+- (Tech) bộ xử lý nhị nguyên @dyarchy
+* dt
+- chính phủ quyền lực trao cho hai người hay hai bộ phận
+ @dye  
+*  dt
+- thuốc nhuộm
+- màu, màu sắc ((nghĩa đen) & (nghĩa bóng))
+
++ a deep dye: màu thẫm
+
++ a crime of the blackest dye: tội ác đen tối nhất
+*  dgt
+- nhuộn
+
++ to dye red: nhuộm đỏ
+
++ this stuff dows not dye well: loại vải len này nhuộm không ăn
+
+@dye vat  
+*  dt
+- thùng nhuộm
+
+@dyeable
+* tt
+- có thể nhuộm được
+ @dye-bath
+* dt
+- nước thuốc nhuộm
+ @dyed-in-the-wool  
+*  tt
+- được nhuộm từ lúc chưa xe thành sợi (vải)
+- (nghĩa bóng) thâm căn cố đế, ngoan cố
+
++ a dyed-in-the-wool reactionary: tên phản động ngoan cố
+
+@dye-house  
+*  dt
+- xưởng nhuộm
+
+@dyeing  
+*  dt
+- sự nhuộm
+
+@dye-in-the-wood
+* tt
+- thâm căn cố đế
+ @dyer  
+*  dt
+- thợ nhuộm
+
+@dyer's weed  
+*  dt
+- (thực vật học) cây nhọ nồi
+
+@dye-stuff  
+*  dt
+- thuốc nhuộm
+
+@dye-wood  
+*  dt
+- gỗ thuốc nhuộm
+
+@dye-works  
+*  dt
+- xưởng nhuộm
+
+@dying  
+*  dt
+- sự chết
+*  tt
+- chết; hấp hối
+
++ at one's dying hour: lúc chết
+- thốt ra lúc chết
+- sắp tàn
+
++ dying years: những năm tàn
+
+@dyke   (dyke) @dynamic  
+*  tt ((cũng) dynamical)
+- (thuộc) động lực
+- (thuộc) động lực học
+- năng động, năng nổ, sôi nổi
+- (y học) (thuộc) chức năng
+*  dt
+- động lực
+
+@dynamic address translation
+- (Tech) sự tính địa chỉ ngay lúc chạy
+ @dynamic allocation
+- (Tech) phân bố động
+ @dynamic allocation interface routine (DAIR)
+- (Tech) thường trình giao diện phân bố động
+ @dynamic data exchange (ĐE)
+- (Tech) sự hoán đổi dữ liệu năng động
+ @dynamic device reconfiguration
+- (Tech) tái cấu hình thiết bị động
+ @Dynamic economics
+- (Econ) Kinh tế học động.
+: Phân tích liên thời gian về hệ thống kinh tế. Nền kinh tế có thể đi từ một điểm cân bằng này sang điểm cân bằng khác (tức là hai điểm CÂN BẰNG TĨNH SO SÁNH) hoặc có thể liên tục không đạt đến điểm cân bằng tĩnh nào.
+ @dynamic element
+- (Tech) phần tử động
+ @Dynamic externalities
+- (Econ) Các ngoại hưởng động; Ngoại ứng động.
+ @dynamic link library (DLL)
+- (Tech) thư viện liên kết năng động
+ @dynamic load
+- (Tech) tải động
+ @dynamic memory
+- (Tech) bộ nhớ động
+ @dynamic memory allocation
+- (Tech) phân bố bộ nhớ động
+ @Dynamic model
+- (Econ) Mô hình kinh tế động.
+: Xem Dynamic economic.
+ @Dynamic peg
+- (Econ) Tỷ giá hối đoái neo động.
+: Xem EXCHANGE RATE.
+ @dynamic programming
+- (Tech) thảo chương động
+ @Dynamic programming
+- (Econ) Quy hoạch động.
+: Một tập hợp các kỹ thuật toán học để giải các loại bài toán chuỗi ra quyết định.
+ @dynamic range
+- (Tech) phạm vi động; phạm vi nghiên cứu động lực học
+ @dynamic register
+- (Tech) bộ ghi động
+ @dynamic relocation
+- (Tech) tái định vị động
+ @dynamic resistance
+- (Tech) điện trở động; trở kháng động
+ @dynamic scheduling
+- (Tech) định thời biểu động 
++  dynamic dispatching
+ @dynamic storage 
++  dynamic memory
+- (Tech) bộ nhớ động
+ @dynamic storage allocation 
++  dynamic memory allocation
+- (Tech)  phân bố bộ nhớ động
+ @Dynamic theories of comparative advantage.
+- (Econ) Các lý thuyết động về lợi thế so sánh.
+: Các lý thuyết mới về thương mại quốc tế, nhấn mạnh vai trò của tính rõ ràng và sự truyền bá thônh tin trong việc giải thích hình thái thương mại quốc tế và sản xuất.
+ @dynamical  
+*  tt
+- (như) dynamic
+- (triết học) (thuộc) thuyết động học
+
+@dynamic(al)
+- (thuộc) động lực
+ @dynamically
+* dt
+- năng nổ, sôi nổi
+ @dynamics  
+*  dt,  số nhiều dùng như số ít
+- động lực học
+
+@dynamics
+- động lực học
+- control-system d. động lực học hệ điều chỉnh
+- fluid d. động lực học chất lỏng
+- group d. động lực nhóm
+- magnetohydro d. (vật lí) từ thuỷ động lực học 
+ @dynamism  
+*  dt
+- (triết học) thuyết động lực
+
+@dynamist  
+*  dt
+- nhà động lực học
+- (triết học) người theo thuyết động lực
+
+@dynamite  
+*  dt
+- đinamit
+*  ngdgt
+- phá bằng đinamit
+- (từ Mỹ,nghĩa Mỹ) làm thất bại hoàn toàn, phá huỷ hoàn toàn
+
+@dynamiter  
+*  dt
+- người phá bằng đinamit
+
+@dynamitic  
+*  tt
+- (thuộc) đinamit
+
+@dynamiting
+* dt
+- cách sử dụng điamit
+ @dynamo  
+*  dt,  số nhiều dynamos
+- đinamô, máy phát điện
+
+@dynamo
+- (Tech) đinamô, máy phát điện một chiều
+ @dynamoelectric
+- (Tech) thuộc điện động học
+ @dynamometer  
+*  dt
+- cái đo lực
+
+@dynamometric  
+*  tt
+- (thuộc) cái đo lực; (thuộc) phép đo lực
+
+@dynamometry  
+*  dt
+- phép đo lực
+
+@dynamotor  
+*  dt
+- (điện học) đinamôtơ
+
+@dynamotor
+- (Tech) máy phát điện điện động, đinamoto
+ @dynast  
+*  dt
+- người trị vì vua (của một triều đại)
+
+@dynastic  
+*  tt
+- (thuộc) triều đại, (thuộc) triều vua
+
+@dynasty  
+*  dt
+- triều đại, triều vua
+
+@dynatron
+* dt
+- (rađiô) đinatron
+ @dynatron oscillator
+- (Tech) bộ dao động đèn trở âm @dyne  
+*  dt
+- (vật lý) đyn
+
+@dyne
+- (Tech) đin (đơn vị lực, 1 đin 
++  10 lũy thừa -5 Newton)
+ @dynode
+* dt
+- (rađiô) đinôt
+ @dyphycercal
+* tt
+- có vây đuôi nhọn
+ @dyphycercy
+* dt
+- (động vật) tính thùy vây đuôi nhọn; tính vây đuôi đôi xứng đều
+ @dyscrasia
+* dt
+- (y học) chứng loạn thể tạng; thể tạng kém
+ @dysenteric  
+*  tt
+- (y học) (thuộc) bệnh lỵ
+
+@dysentery  
+*  dt
+- (y học) bệnh lỵ
+
+@dysfunction
+* dt
+- cũng disfunction
+- (y học) sự hoạt động khác thường của một cơ quan trong cơ thể
+ @dysgenesis
+* dt
+- số nhiều dysgeneses
+- sự phát triển có bệnh của sinh thực khí; tính vô sinh
+ @dysgenic  
+*  tt
+- hại sinh (có hại cho nòi giống)
+
+@dysgenics
+* dt
+- khoa nghiên cứu thoái hoá giống
+ @dysharmonic
+* tt
+- (y học) loạn hài hoà; loạn hoà hợp
+ @dyslalia
+* dt
+- (y học) tật nói ngọng
+ @dyslexia
+* dt
+- sự đọc khó
+ @dyslexic
+* tt
+- mắc chứng khó đọc
+* dt
+- người mắc chứng khó đọc
+ @dyslogistic  
+*  tt
+- chê bai, bài xích
+
+@dysmenorrhoea
+* dt
+- sự đau bụng máu (về kinh nguyệt)
+ @dysmenorrhoeal
+* tt
+- (y học) đau khi có kinh
+* tt
+- (y học) đau khi có kinh
+ @dyspepsia  
+*  dt
+- (y học) chứng khó tiêu
+
+@dyspeptic  
+*  tt
+- (y học) mắc chứng khó tiêu
+*  dt
+- (y học) người mắc chứng khó tiêu
+
+@dysphagia
+* dt
+- (y học) chứng nuốt khó
+ @dysphagic
+* tt
+- xem dysphagia
+ @dysphasia
+* dt
+- (y học) chứng câm tiếng
+ @dysphasic
+* tt
+- xem dysphasic
+ @dysphonia
+* dt
+- (y học) chứng khó phát âm
+ @dysphonian
+* tt
+- xem dysphonia
+ @dysphonic
+* tt
+- (y học) xem dysphonic
+ @dysphoria
+* dt
+- (y học) tình trạng cảm thấy khó chịu, không sung sướng
+ @dysplasia
+* dt
+- (y học) chứng loạn sản
+ @dysplastic
+* tt
+- xem dysplasia
+ @dyspnea
+* dt
+- (y học) sự khó thở
+ @dyspneic
+* tt
+- (y học) bị khó thở
+ @dyspnoea  
+*  dt
+- (y học) sự khó thở
+
+@dyspnoeic  
+*  tt
+- (y học) bị khó thở
+
+@dysprosium  
+*  dt
+- (hoá học) đyprosi
+
+@dystopia
+* dt
+- sự lạc chỗ
+ @dystrophic
+* tt
+- thuộc sự loạn dưỡng
+ @dystrophy  
+*  dt
+- (y học) sự loạn đường
+
+@dysuria  
+*  dt
+- (y học) chứng khó đái
+
+@

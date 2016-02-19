@@ -1,0 +1,2091 @@
+@apa graphic
+- đồ hình ánh xạ bit
+ @apace  
+*  dt
+- nhanh, nhanh chóng, mau lẹ
+
++ ill news runs (flies) apace: tin dữ lan nhanh
+
+@apache  
+*  dt
+- tên côn đồ
+- người A-pa-sơ (một bộ lạc ở Bắc Mỹ)
+
+@apanage   (appanage) @aparejo
+* dt
+- số nhiều aparejos
+- yên thồ bằng da hay bằng vải bạt
+ @apart  
+*  dt
+- về một bên, qua một bên; riêng ra, xa ra
+
++ to hold oneself apart: đứng ra một bên
+
++ to put something apart: để riêng vật gì ra
+
++ to live apart from the word: sống xa mọi người
+
++ to stand with one's feet apart: đứng giạng háng, đứng giạng chân ra
+
++ to set something apart for someone: để riêng (để dành) vật gì cho ai
+- apart from ngoài... ra
+
++ apart from these reasons: ngoài những lẽ ấy ra
+
++ apart from the fact that...: trừ phi...
+!jesting (joking) apart
+- nói thật không nói đùa
+!to take apart
+- lấy rời ra từng phần; tháo rời ra từng phần
+
+@apartheid  
+*  dt
+- sự tách biệt chủng tộc Nam phi
+
+@apartment  
+*  dt
+- căn phòng, buồng
+- (số nhiều) (Mỹ số ít) dãy buồng ở một tầng (cho một gia đình)
+
++ walk-up apartment: nhà ở nhiều buồng không có thang máy
+
+@apartment block
+* dt
+- dãy nhà
+ @apartness
+- xem apart
+ @apatetic  
+*  tt
+- (sinh vật học) nguỵ trang
+
+@apathetic  
+*  tt
+- không tình cảm, lãnh đạm, thờ ơ, hờ hững
+
+@apathetically
+* dt
+- lãnh đạm, hờ hững, thờ ơ
+ @apathy  
+*  dt
+- tính không tình cảm, tính lãnh đạm, tính thờ ơ, sự hờ hững
+
+@apatite  
+*  dt
+- (khoáng chất) Apatit
+
+@ape  
+*  dt
+- khỉ không đuôi, khỉ hình người
+- người hay bắt chước
+
++ to play (act) the ape: bắt chước
+*  ngdgt
+- bắt chước, nhại
+
+@apeak  
+*  tt & dt
+- (hàng hải) thẳng xuống, thẳng đứng
+
++ oars apeak: mái chèo thẳng đứng
+
+@apec
+* (viết tắt)
+- Tổ chức Hợp tác kinh tế Châu á-Thái Bình Dương (Asia-Pacific Economic Co-operation)
+- viết tắt
+- Tổ chức Hợp tác kinh tế Châu á-Thái Bình Dương (Asia-Pacific Economic Co-operation)
+ @apedicellate
+* tt
+- không cuống
+ @ape-like  
+*  tt
+- giống khỉ, như khỉ (mặt)
+
+@apelike
+* tt
+- giống như khỉ
+ @ape-man
+* dt
+- khỉ nhân hình
+ @apepsia   (apepsy) @apepsy   (apepsy) @aper
+- xem ape
+ @apercu  
+*  dt
+- tổng quan, đại cương
+
+@aperient   (aperitive) @aperiodic
+- (Tech) không tuần hoàn, phi chu kỳ
+ @aperiodic
+- không tuần hoàn
+ @aperitif  
+*  dt
+- rượu khai vị
+
+@aperitive   (aperitive) @apertural
+- xem aperture
+ @aperture  
+*  dt
+- lỗ hổng, kẽ hở
+- lỗ ống kính (máy ảnh); độ mở
+
++ relative aperture: độ mở tỷ đối
+
+@aperture
+- (Tech) khẩu độ; góc mở; lỗ (cửa); cửa (sổ)
+ @aperture
+- khẩu độ, lỗ hổng
+ @apery  
+*  dt
+- sự bắt chước lố lăng
+- trò khỉ, trò bắt chước
+- chuồng khỉ
+
+@apetalous  
+*  tt
+- (thực vật học) không cánh (hoa)
+
+@apetaly
+- xem apetalous
+ @apex  
+*  dt,  số nhiều apexes,  apices
+- đỉnh ngọc, chỏm
+
++ the apex of a triangle: đỉnh của một tam giác
+- (thiên văn học) điểm apec
+
+@apex
+- (Tech) đỉnh, chóp, ngọn
+ @apex
+- đỉnh, chóp
+ @aphaeresis  
+*  dt
+- (ngôn ngữ học) hiện tượng mất âm đầu
+
+@aphaeretic
+- xem aphaeresis
+ @aphanipterous
+* tt
+- không cánh
+ @aphasia  
+*  dt
+- (y học) chứng mất ngôn ngữ
+
++ motor aphasia: chứng mất ngôn ngữ vận động
+
+@aphasiac  
+*  dt
+- (y học) người mắc chứng mất ngôn ngữ
+
+@aphasic  
+*  tt
+- (y học) (thuộc) chứng mất ngôn ngữ
+*  dt
+- (y học) (như) aphasiac
+
+@aphelia  
+*  dt,  số nhiều aphelia 
+@aphelion  
+*  dt,  số nhiều aphelia 
+@apheliotropic  
+*  tt
+- (thực vật học) hướng ngược mặt trời
+
+@apheliotropism  
+*  dt
+- (thực vật học) tính hướng ngược mặt trời
+
+@aphesis  
+*  dt
+- hiện tượng mất nguyên âm đầu (không phải trọng âm, ở một từ)
+
+@aphetic  
+*  tt
+- (thuộc) hiện tượng mất nguyên âm đầu (không phải trọng âm, ở một từ)
+
+@aphetically
+- xem aphesis
+ @aphetion
+- (thiên văn) điểm viễn nhật
+ @aphetize  
+*  ngdgt
+- làm mất nguyên âm đầu (không phải trọng âm, ở một từ)
+
+@aphides  
+*  dt,  số nhiều aphides
+- (động vật học) giống rệp vừng
+
+@aphidian  
+*  tt
+- (thuộc) giống rệp vừng
+
+@aphidicide
+* dt
+- thuốc trừ rệp rừng
+ @aphis  
+*  dt,  số nhiều aphides
+- (động vật học) giống rệp vừng
+
+@aphonia   (aphony) @aphonic   (aphonous) @aphonous   (aphonous) @aphony   (aphony) @aphorism  
+*  dt
+- cách ngôn
+
+@aphorismic   (aphoristic) @aphorist
+- xem aphorism
+ @aphoristic   (aphoristic) @aphoristically
+- xem aphorism
+ @aphotic
+* tt
+- thiếu ánh sáng
+
++  the aphotic regions of the ocean:những vùng thiếu ánh sáng của đại dương
+ @aphototropic
+* tt
+- hướng tối
+ @aphototropism
+* dt
+- tính hướng tối
+ @aphrodisiac  
+*  tt
+- kích thích tình dục
+*  dt
+- (y học) thuốc kích thích tình dục
+
+@aphrodisiacal
+- xem aphrodisiac
+ @aphtha  
+*  dt,  số nhiều aphthae 
+@aphthae  
+*  dt,  số nhiều aphthae 
+@aphyllous  
+*  tt
+- (thực vật học) không lá
+
+@aphylly
+- xem aphyllous
+ @api
+- (vt của Application Programming Interface)giao diện chương trình ứng dụng
+ @apian
+* tt
+- thuộc ong, giống như ong
+ @apiarian  
+*  tt
+- (thuộc) nghề nuôi ong
+
+@apiarist  
+*  dt
+- người nuôi ong
+
+@apiary  
+*  dt
+- chỗ nuôi ong, nhà nuôi ong; đỗ ong
+
+@apical  
+*  tt
+- (thuộc) đỉnh, (thuộc) ngọn
+- điểm apec
+- đặt ở ngọn, đặt ở đỉnh
+
+@apical
+- (thuộc) đỉnh
+ @apically
+- xem apical
+ @apices  
+*  dt,  số nhiều apexes,  apices
+- đỉnh ngọc, chỏm
+
++ the apex of a triangle: đỉnh của một tam giác
+- (thiên văn học) điểm apec
+
+@apiculate
+* tt
+- nhọn đột ngột (lá)
+ @apiculiform
+* tt
+- dạng đầu nhọn
+ @apicultural  
+*  tt
+- (thuộc) nghề nuôi ong
+
+@apiculture  
+*  dt
+- nghề nuôi ong
+
+@apiculturist  
+*  dt
+- người nuôi ong
+
+@apiculus
+* dt
+- đầu nhỏ; đỉnh nhỏ
+ @apiece  
+*  dt
+- mỗi một, mỗi người, mỗi vật, mỗi cái
+
++ to receive a gun apiece: lính mỗi người một súng
+
++ to cost 5đ apiece: giá mỗi cái năm đồng
+
+@apilary
+* tt
+- thiếu (teo) cánh môi trên
+ @apileate
+* tt
+- không mũ; không chóp
+ @apiologist  
+*  dt
+- nhà nghiên cứu về ong
+
+@apiology  
+*  dt
+- khoa nghiên cứu về ong
+
+@apish  
+*  tt
+- (thuộc) khỉ; giống khỉ; như khỉ; ngớ ngẩn như khỉ
+
++ apish trick: trò khỉ
+- hay bắt chước, hay nhại
+- (từ Mỹ,nghĩa Mỹ) điệu bộ, màu mè
+
+@apishly
+- xem apish
+ @apishness  
+*  dt
+- sự giống khỉ
+- tính hay bắt chước
+- (từ Mỹ,nghĩa Mỹ) sự điệu bộ, sự màu mè
+
+@apisination
+* dt
+- sự nhiễm độc nọc ong
+ @apitoxin
+* dt
+- nọc ong
+ @apivorous
+* tt
+- ăn ong
+ @apl
+- Ngôn ngữ Lập trình A
+ @aplacental
+* tt
+- (sinh học) không nhau, không giá noãn
+ @aplanat  
+*  dt
+- (vật lý) kính vật tương phản,  aplanat
+
+@aplanatic  
+*  tt
+- (vật lý) tương phản,  aplanatic
+
+@aplanatic lens
+- (Tech) thấu kính tương phẳng
+ @aplanatism  
+*  dt
+- (vật lý) tính tương phản, tính aplanatic
+
+@aplanetic
+* tt
+- không động, bất động
+ @aplanetism
+* dt
+- hiện tượng không động
+ @aplanogamete
+* dt
+- giao tử không động
+ @aplanospore
+* dt
+- giao tử bất động
+ @aplasia
+* dt (y học)
+- sự ngừng phát triển, sự không phát triển, sự không tạo hình
+ @aplenty
+* dt
+- <Mỹ> nhiều, dồi dào, phong phú
+ @aplerotic
+* tt
+- vơi, không đầy
+ @aplomb  
+*  dt
+- thế thẳng đứng
+- sự vững lòng, sự tự tin
+
+@apnoea  
+*  dt
+- (y học) sự ngừng thở
+
+@apobiosis
+* dt
+- sự sống hấp hối, sự chết sinh lý
+ @apobiotic
+* tt
+- sống hấp hối; chết sinh lý
+ @apocalypse  
+*  dt
+- (tôn giáo) sự khải huyền
+- sách khải huyền
+
+@apocalyptic   (apocalyptical) @apocalyptical   (apocalyptical) @apocalyptically
+* dt
+- theo sách Khải huyền, theo kinh Khải huyền
+ @apocarpous  
+*  tt
+- (thực vật học) có lá noãn rời
+
+@apocarpy
+- xem apocarpous
+ @apocentric
+* tt
+- rời tâm; ly tâm
+ @apochromat  
+*  dt
+- (vật lý) kính tiêu sắc phức, cái apôcrômat
+
+@apochromatic  
+*  tt
+- (vật lý) tiêu sắc phức,  apôcrômatic
+
+@apochromatic lens
+- (Tech) thấu kính tiêu sắc phức
+ @apochromatism  
+*  dt
+- (vật lý) tính tiêu sắc phức, tính apôcrômatic
+
+@apocope  
+*  dt
+- (ngôn ngữ học) hiện tượng mất âm chủ
+
+@apocrine
+* tt
+- tiết rụng đầu
+ @apocrypha  
+*  dt
+- (tôn giáo) kinh nguỵ tác
+
+@apocryphal  
+*  tt
+- (thuộc) kinh nguỵ tác
+- làm giả, giả mạo, nguỵ tác
+- không đích xác, không chính xác, chưa đáng tin, đáng ngờ
+
+@apocryphally
+- xem apocryphal
+ @apocynaceous  
+*  tt
+- (thực vật học) (thuộc) họ trúc đào
+
+@apocyte
+* dt
+- tế bào nhiều nhân, khối chất nguyên sinh nhiều nhân
+ @apod  
+*  dt,  số nhiều (apodes,  apods,  apoda)
+- loài không chân (bò sát)
+- loài không vây bụng (cá)
+
+@apoda  
+*  dt,  số nhiều (apodes,  apods,  apoda)
+- loài không chân (bò sát)
+- loài không vây bụng (cá)
+
+@apodal   (apodous) @apodeictic   (apodictical) @apodes
+* dt
+- loài không chân (bò sát)
+- loài không vây bụng (cá)
+ @apodictic   (apodictical) @apodictical   (apodictical) @apodictically
+- xem apodictic
+ @apodosis
+* dt
+- số nhiều apodoses
+- (ngôn ngữ) vế chính của một câu chỉ điều kiện
+ @apodous   (apodous) @apoenzyme
+* dt
+- (sinh học) Apoenzim (phần protein đặc hiệu của một enzim)
+ @apogamety
+* dt
+- tính vô giao tử
+ @apogamic  
+*  tt
+- (thực vật học) sinh sản vô giao
+
+@apogamy  
+*  dt
+- (thực vật học) sự sinh sản vô giao
+
+@apogean  
+*  tt
+- ở điển xa quả đất nhất
+- ở điển xa mặt trời nhất (quả đất)
+- xa nhất
+- tuyệt đỉnh, cực thịnh
+
+@apogee  
+*  dt
+- (thiên văn học) điển xa quả đất nhất
+- khoảng lớn nhất giữa mặt trời và quả đất (khi quả đất ở điểm cách xa mặt trời nhất)
+- chỗ xa nhất
+- tuyệt đỉnh, điểm cao nhất, thời cực thịnh
+
+@apogee
+- (Tech) viễn điểm
+ @apogee
+- (thiên văn) viễn điểm, viễn địa; tuyệt đích
+ @apogeny
+* dt
+- tính vô sinh, tính không sinh sản
+ @apogeotropic
+* tt
+- không hướng đất; hướng ngược đất
+ @apogyny
+* dt
+- (thực vật) tính nhụy thui
+ @apohomotypic
+* tt
+- không cùng kiểu
+ @apolar
+* tt
+- không cực
+ @apolar
+- liên hợp
+ @apolarity
+* dt
+- tính không cực
+ @apolaustic  
+*  tt
+- dễ bị thú vui cám dỗ, dễ bị khoái lạc cám dỗ, dễ tự buông thả
+
+@apolegamic
+* tt
+- giao phối chọn lọc
+ @apolegamy
+* dt
+- tính giao phối chọn lọc
+ @apolitical  
+*  tt
+- không chính trị
+- thờ ơ với chính trị
+
+@apolitically
+- xem apolitical
+ @apollinaris  
+*  dt
+- nước suối A-pô-li-na-rít (ở Ao)
+
+@apollo  
+*  dt,  số nhiều Apollos
+- thần A-pô-lông, thần mặt trời (thần thoại Hy lạp)
+- (thơ ca) mặt trời, người đẹp trai
+
+@apollonian
+* tt
+- hài hoà, nhịp nhàng, cân đối
+ @apollyon  
+*  dt
+- con quỷ
+
+@apologetic   (apologetical) @apologetical   (apologetical) @apologetically
+- xem apologetic
+ @apologetics  
+*  dt,  số nhiều dùng như số ít
+- sự biện giải cho tôn giáo
+
+@apologia  
+*  dt
+- lời biện hộ, lời biện giải
+
+@apologise   (apologise) @apologist  
+*  dt
+- người biện hộ, người biện giải cho tôn giáo
+
+@apologize   (apologise) @apologizer
+- xem apologize
+ @apologue  
+*  dt
+- chuyện ngụ ngôn, câu chuyện ngụ ý
+
+@apology  
+*  dt
+- lời biện bạch, lời biện giải
+- sự xin lỗi, sự tạ lỗi
+
++ to make (offer) an apology: tạ lỗi
+- (thông tục) cái tồi, vật tồi
+
++ a mere apology for a dinner: một bữa ăn tồi, thế mà cũng gọi là cơm
+
+@apolune
+* dt
+- điểm cách xa nhất của một vật thể quay quanh mặt trăng đến mặt trăng
+ @apomict
+* dt
+- (sinh học) kiểu sản sinh vô tính
+ @apomictic
+* tt
+- thuộc kiểu sản sinh vô tính
+ @apomixis
+* dt
+- số nhiều apomixes
+- sự tiếp hợp vô tính
+ @aponeuroses  
+*  dt,  số nhiều aponeuroses 
+@aponeurosis  
+*  dt,  số nhiều aponeuroses 
+@apopetalous
+* tt
+- có cánh tràng rời
+ @apophthegm   (apothegm) @apophthegmatic  
+*  tt
+- (thuộc) cách ngôn; có tính chất cách ngôn
+
+@apophysate
+- xem apophysis
+ @apophysis  
+*  dt
+- (giải phẫu) mỏm, mấu
+
+@apoplasmodial
+* tt
+- không hợp bào
+ @apoplastid
+* dt
+- hạt không màu, hạt trong
+ @apoplastidy
+* dt
+- tính hạt không màu
+ @apoplectic  
+*  tt
+- (y học) ngập máu
+
++ an apoplectic stroke (fit): cơn ngập máu
+
+@apoplectically
+- xem apoplectic
+ @apoplexy  
+*  dt
+- (y học) chứng ngập máu
+
++ to be seized with apoplexy: bị ngập máu
+
+@aport  
+*  dt
+- (hàng hải) ở phía bên trái tàu, về phía bên trái tàu
+
+@aposelene
+* dt
+- điểm trong vệ tinh của mặt trăng cách xa mặt trăng nhất
+ @aposematic
+* dt
+- (dgt) tín hiệu xua đuổi (chủ yếu bằng màu sắc)
+ @aposiopesis  
+*  dt
+- sự ngừng ở giữa câu, sự ngừng bất chợt (trong khi nói)
+
+@aposiopetic
+- xem aposiopesis
+ @aposome
+* dt
+- (sinh học) thể rời
+ @apospory
+* dt
+- tính sinh sản không bào tử
+ @apostasy  
+*  dt
+- sự bỏ đạo, sự bội giáo
+- sự bỏ đảng
+
+@apostate  
+*  dt
+- người bỏ đạo, người bội giáo
+- người bỏ đảng
+*  tt
+- bỏ đạo, bội giáo
+- bỏ đảng
+
+@apostatise   (apostatize) @apostatize   (apostatize) @apostaxis
+* dt
+- (sinh học) sự rỉ dịch không bình thường
+ @apostil  
+*  dt
+- lời ghi thêm bên lề (một văn kiện)
+
+@apostle  
+*  dt
+- tông đồ (của Giê-su)
+
++ apostle spoons: thìa có cán khắc hình các tông đồ
+- ông tổ truyền đạo (Thiên chúa)
+- người lãnh đạo cuộc cải cách, người đề xướng cuộc cải cách
+
++ apostle of temperance: người lãnh đạo phong trào đòi hạn chế (cấm rượu)
+
+@apostlehood
+- xem apostle
+ @apostleship  
+*  dt
+- chức tông đồ
+
+@apostolate  
+*  dt
+- chức tông đồ
+- sự lãnh đạo trong cuộc tuyên truyền vận động
+
+@apostolic   (apostolical) @apostolic succession
+* dt
+- sự chuyển giao quyền lực từ các tông đồ qua các giáo hoàng kế tiếp nhau và các giám mục
+ @apostolical   (apostolical) @apostolicity
+* dt
+- sự phù hợp với giáo lý các tông đồ
+ @apostrophe  
+*  dt
+- (ngôn ngữ học) hô ngữ
+- dấu lược
+
+@apostrophic  
+*  dt
+- dấu lược
+*  tt
+- (thuộc) dấu lược
+
+@apostrophize  
+*  dgt
+- dùng hô ngữ
+*  dgt
+- đánh dấu lược
+
+@apothecaries' weight
+* dt
+- những đơn vị cân đong thuốc trước đây
+ @apothecary  
+*  dt
+- (từ cổ,nghĩa cổ) người bào chế (thuốc)
+
++ apothecary's: nhà bán thuốc, phòng bào chế
+
+@apothecia  
+*  dt,  số nhiều apothecia 
+@apothecial
+- xem apothecium
+ @apothecium  
+*  dt,  số nhiều apothecia 
+@apothegm   (apothegm) @apothegmatic
+- xem apothegm
+ @apothegmatically
+- xem apothegm
+ @apothem  
+*  dt
+- (toán học) đường trung đoạn
+
++ apothem of a regular polygon: trung đoạn một hình nhiều góc đều
+
+@apothem
+- trung đoạn
+ @apotheoses  
+*  dt,  số nhiều apotheoses 
+@apotheosis  
+*  dt,  số nhiều apotheoses 
+@apotheosize  
+*  ngdgt
+- tôn làm thần
+- tôn sùng, sùng bái
+- ca ngợi tán dương, thần thánh hoá
+
+@apotropaic
+* tt
+- để tránh điều không may
+
++  an apotropaic ritual:nghi lễ giải nạn
+ @apotropic
+* tt
+- hướng gốc
+ @apotype
+* dt
+- kiểu gốc
+ @apotypic
+* tt
+- thuộc kiểu gốc
+ @appal  
+*  ngdgt
+- làm kinh hoảng, làm kinh sợ, làm thất kinh
+
+@appalling  
+*  tt
+- làm kinh hoảng, làm kinh sợ, làm kinh hãi, làm thất kinh; kinh khủng
+
+@appallingly  
+*  dt
+- làm kinh hoảng, làm kinh sợ, làm kinh hãi, làm thất kinh; kinh khủng
+
+@appanage   (appanage) @apparat
+* dt
+- tính chất hành chính quan liêu
+ @apparatchik
+* dt (số nhiều apparatchiks hoặc apparatchiki)
+- thành viên của ban lãnh đạo Đảng cộng sản
+- công chức
+ @apparatus  
+*  dt,  số nhiều apparatuses 
+@apparatus
+- (Tech) thiết bị, máy
+ @apparatus
+- máy móc, công cụ
+ @apparatus criticus  
+*  dt
+- chú thích dị bản (của một tác phẩm)
+
+@apparatus room
+- (Tech) phòng máy
+ @apparel  
+*  dt
+- đồ thêu trang trí trên áo thầy tu
+- (từ cổ,nghĩa cổ) quần áo, y phục
+- (từ cổ,nghĩa cổ) đồ trang sức, đồ trang điểm
+*  ngdgt
+- mặc quần áo (cho ai)
+- trang điểm (cho ai)
+
+@apparent  
+*  tt
+- rõ ràng, bày tỏ ra ngoài, thấy rõ ra ngoài
+
++ apparent to the maked eyes: mắt trần có thể nhìn rõ được
+- rõ rành rành, hiển nhiên, không thể chối cãi được
+- bề ngoài, có vẻ
+- (vật lý) hiện ngoài, biểu kiến
+!heir apparent
+- hoàng thái tử
+
+@apparent
+- (Tech) biểu kiến, bề ngoài
+ @apparent
+- bề ngoài
+ @apparently
+* dt
+- nhìn bên ngoài, hình như
+ @apparentness
+- xem apparent
+ @apparition  
+*  dt
+- sự hiện ra, sự xuất hiện
+- ma quỷ (hiện hình)
+
+@apparitional
+- xem apparition
+ @apparitor  
+*  dt
+- viên (thuộc) lại (của quan toà ở La mã xưa)
+- nhân viên toà án (dân sự hay giáo hội)
+- viên thừa lại
+
+@appeal  
+*  dt
+- sự kêu gọi; lời kêu gọi
+- lời thỉnh cầu, sự cầu khẩn
+
++ with a look of appeal: với vẻ cầu khẩn
+
++ to make an appeal to someone's generossity: cầu đến lòng rộng lượng của ai, kêu gọi lòng rộng lượng của ai
+- (pháp lý) sự chống án; quyền chống án
+
++ to lodge an appeal; to give notice of appeal: đưa đơn chống án
+!Court of Appeal
+- toà thượng thẩm
+- sức lôi cuốn, sức quyến rũ
+
++ to have appeal: có sức lôi cuốn, có sức quyến rũ
+!to appeal to the country
+- (xem) country
+
+@appealability
+- xem appeal
+ @appealable  
+*  tt
+- (pháp lý) có thể chống án được
+- có thể kêu gọi được, có thể cầu khẩn được
+
+@appealer
+- xem appeal
+ @appealing  
+*  tt
+- van lơn, cầu khẩn
+
++ with an appealing look: với vẻ cầu khẩn
+
++ an appealing gaze: cái nhìn cầu khẩn
+- cảm động, thương tâm, làm mủi lòng
+
++ an appealing voice: giọng nói thương tâm
+- lôi cuốn, quyến rũ
+
+@appealingly
+* dt
+- quyến rũ, hấp dẫn, gợi cảm
+ @appear  
+*  ndgt
+- xuất hiện, hiện ra, ló ra
+- trình diện; ra mắt
+
++ to appear before a court: ra hầu toà
+
++ to appear on the stage: ra sân khấu (diễn viên)
+- được xuất bản (sách)
+
++ the book will appear in a week: một tuần nữa cuốn sách sẽ được xuất bản
+- hình như, có vẻ
+
++ there appears to be a mistake: hình như có một sự lầm lẫn
+- biểu lộ, lộ ra
+
+@appearance  
+*  dt
+- sự xuất hiện, sự hiện ra sự ló ra
+
++ to make one's first appearance: mới xuất đầu lộ diện, mới ra mặt
+
++ to put in an appearance: có mặt, đến cho có mặt một lát (ở buổi lễ...)
+- (pháp lý) sự trình diện, sự ra hầu toà
+- sự xuất bản (sách)
+- diện mạo, dáng điệu, tướng mạo, phong thái
+
++ a man of good appearance: người có diện mạo tốt
+- bề ngoài, thể diện
+
++ one should not judge by appearances: không nên xét đoán theo bề ngoài
+
++ to save (keep up) appearances: giữ thể diện
+
++ to all appearance: theo biểu hiện bề ngoài
+
++ to assume (put on) the appearance of innocence: làm ra vẻ ngây thơ
+- ma quỷ
+
+@appearance potential
+- (Tech) điện thế xuất hiện
+ @appeasable  
+*  tt
+- có thể khuyên giải; có thể an ủi, có thể làm cho khuây, có thể làm cho nguôi
+- có thể làm cho dịu đi; có thể làm cho đỡ
+
+@appeasably
+- xem appease
+ @appease  
+*  ngdgt
+- khuyên giải; an ủi, làm cho khuây, làm cho nguôi; dỗ dành
+
++ to appease someone's anger: làm cho ai nguôi giận
+- làm dịu, làm đỡ (đói...)
+- nhân nhượng vô nguyên tắc, thoả hiệp vô nguyên tắc
+
++ to appease a potential enemy: nhân nhượng vô nguyên tắc một kẻ có thể trở thành thù
+
+@appeasement  
+*  dt
+- sự khuyên giải; sự an ủi, sự làm cho khuây, sự làm cho nguôi; sự dỗ dành
+- sự làm cho dịu đi; sự làm đỡ
+- sự nhân nhượng vô nguyên tắc, sự thoả hiệp vô nguyên tắc
+
+@appeaser
+- xem appease
+ @appellant  
+*  tt
+- (pháp lý) chống án
+- kêu gọi, kêu cứu
+*  dt
+- (pháp lý) người chống án
+
+@appellate  
+*  tt
+- (pháp lý) (thuộc) chống án
+
++ appellate jurisdiction: quyền chống án
+
++ appellate court: (từ Mỹ,nghĩa Mỹ) toà thượng thẩm
+
+@appellation  
+*  dt
+- tên, tên gọi, danh hiệu
+
+@appellative  
+*  tt
+- (ngôn ngữ học) chung (từ)
+
++ appellative noun: dt chung
+*  dt
+- (ngôn ngữ học) dt chung
+- tên, tên gọi
+
+@appellatively
+- xem appellative
+ @appellee  
+*  dt
+- (pháp lý) bên bị, người bị cáo
+
+@append  
+*  ngdgt
+- treo vào
+- cột vào, buộc vào, nối vào, chấp vào
+
++ to append something to another: chấp vật gì với vật khác
+- gắn vào; viết thêm vào; đóng (dấu), áp (triện...); ký tên
+
++ to append one's signature to a document: ký tên vào một văn kiện
+
++ to append a seal: đóng dấu
+
+@append
+- (Tech) phụ thêm, thêm; nối kết
+ @APPEND
+- (Tech) tìm tập tin thường (chỉ thị)
+ @appendage  
+*  dt
+- vật phụ thuộc, phần phụ thuộc
+- vật thêm vào, phần thêm vào
+- (giải phẫu) phần phụ
+
+@appendage
+- (Tech) thêm (d); vật phụ thêm; máy phụ thêm; phụ kiện
+ @appendant  
+*  tt
+- phụ thuộc vào
+- cột vào, buộc vào, nối vào, chấp vào
+
++ to appendant another: bị cột vào vật khác; phụ thuộc vào một người khác
+*  dt
+- vật phụ thuộc; người phụ thuộc
+
+@appendectomy  
+*  dt
+- (y học) thủ thuật cắt bỏ ruột thừa
+
+@appendical
+* tt
+- thuộc ruột thừa; phần phụ
+ @appendicectomy
+* dt
+- (y học) việc cắt ruột thừa
+ @appendices  
+*  dt,  số nhiều appendices 
+@appendicitis  
+*  dt
+- (y học) bệnh viêm ruột thừa
+
+@appendiculate  
+*  tt
+- (sinh vật học) có phần phụ
+
+@appendiculum
+* dt
+- phần phụ nhỏ
+ @appendix  
+*  dt,  số nhiều appendices 
+@appendix
+- (Tech) phụ lục
+ @apperceive  
+*  ngdgt
+- (tâm lý học) tổng giác
+
+@apperception  
+*  dt
+- (tâm lý học) tổng giác
+
+@apperceptive
+- xem apperception
+ @appertain  
+*  ndgt
+- (thuộc) về, của
+- có quan hệ với
+- thích hợp với
+
+@appetence   (appetency) @appetency   (appetency) @appetiser
+* dt
+- rượu khai vị
+- <Mỹ> món ăn khai vị
+- cái kích thích cho sự thèm ăn, cái làm cho ăn ngon miệng
+ @appetising
+* tt
+- làm cho ăn ngon miệng, làm cho khoái khẩu
+ @appetisingly
+* dt
+- ngon lành, hấp dẫn
+ @appetite  
+*  dt
+- sự ngon miệng, sự thèm ăn
+
++ to give an appetite: làm thèm ăn, làm cho ăn ngon miệng
+
++ to spoil (take away) someone's appetite: làm ai ăn mất ngon
+
++ to eat with appetite; to have a good appetite: ăn ngon miệng
+
++ to have a poor appetite: ăn không ngon miệng, không thấy thèm ăn
+- lòng thèm muốn, lòng ham muốn, sự khao khát
+
++ appetite for reading: sự ham đọc sách
+!appetite comes with eating
+- (tục ngữ) càng ăn càng thấy ngon miệng; càng có càng muốn thêm
+!sexual appetite
+- tình dục
+
+@appetitive  
+*  tt
+- làm cho thèm (ăn)
+
+@appetizer  
+*  dt
+- rượu khai vị
+- (từ Mỹ,nghĩa Mỹ) món ăn khai vị
+- cái kích thích cho sự thèm ăn, cái làm cho ăn ngon miệng
+
+@appetizing  
+*  tt
+- làm cho ăn ngon miệng
+- ngon lành
+
+@appetizingly
+* dt
+- ngon lành, hấp dẫn
+ @applanate
+* tt
+- phẳng; dẹt
+ @applanation
+* dt
+- sự dàn phẳng; sự cán; sự làm dẹt
+ @applaud  
+*  dgt
+- vỗ tay hoan nghênh, vỗ tay tán thưởng; khen ngợi
+
++ to applaud to the echo: vỗ tay vang lên
+
+@applaudable
+- xem applaud
+ @applaudably
+- xem applaud
+ @applauder  
+*  dt
+- người vỗ tay; người hay khen
+- người tán thành (một chính sách...)
+
+@applause  
+*  dt
+- tiếng vỗ tay khen ngợi; sự hoan nghênh, sự tán thưởng
+
++ to be greeted with applause: được chào bằng tràng vỗ tay
+
++ to win the applause of...: được... hoan nghênh
+- sự tán thành
+
+@apple  
+*  dt
+- quả táo
+!Adam's apple
+- (xem) Adam
+!apple of discord
+- mối bất hoà
+!apple of the eye
+- đồng tử, con ngươi
+- vật quí báu phải giữ gìn nhất
+!the apple of Sodom; Dead Sea apple
+- quả táo trông mã ngoài thì đẹp nhưng trong đã thối
+- (nghĩa bóng) thành tích bề ngoài, thành tích giả tạo
+!the rotten apple injures its neighbours
+- (tục ngữ) con sâu bỏ rầu nồi canh
+
+@apple-brandy  
+*  dt
+- rượu táo
+
+@apple-butter  
+*  dt
+- nước xốt táo, tương táo
+
+@apple-cart  
+*  dt
+- xe bò chở táo
+!to upset someone's apple-cart
+- làm hỏng kế hoạch của ai
+
+@applecart
+* dt
+- giống như upset
+ @apple-cheecked  
+*  tt
+- có má quả táo (tròn và ửng hồng)
+
+@apple-cheeked
+* tt
+- có má quả táo (tròn và ửng hồng)
+ @apple-cheese  
+*  dt
+- bã táo ép
+
+@apple-core  
+*  dt
+- hạch táo, lõi táo
+
+@apple-dumpling  
+*  dt
+- bánh bao nhân táo
+
+@apple-faced
+* dt
+- mặt hồng như quả táo chín, mặt tròn
+ @apple-fritter
+* dt
+- món táo tẩm bột rán
+ @apple-green  
+*  dt
+- màu lục nhạt (giống màu lục của táo)
+
+@apple-grub  
+*  dt
+- sâu táo
+
+@apple-jack  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) rượu táo
+
+@applejack
+* dt
+- rượu táo
+ @apple-john  
+*  dt
+- loại táo ăn héo (héo đi thì ăn ngon nhất)
+
+@apple-pie  
+*  dt
+- bánh táo
+!in apple-pie order
+- hết sức gọn gàng ngăn nắp, hoàn toàn có trật tự
+
+@apple-polish  
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) bợ đỡ, xu nịnh, liếm gót
+
+@apple-polisher  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) kẻ bợ đỡ, kẻ xu nịnh, kẻ liếm gót
+
+@apple-pomace  
+*  dt
+- bã táo
+
+@apple-sauce  
+*  dt
+- táo thắng nước đường
+- (từ Mỹ,nghĩa Mỹ), lóng sự nịnh hót, sự xiểm nịnh
+*  thán từ
+- vô lý! tào lao!
+
+@apple-scoop
+* dt
+- dao gọt vỏ táo
+ @appleshare
+- Tên một hệ điều hành mạng do hãng Apple Computer biên soạn để dùng cho máy tính Macintosh
+ @applet
+- vi mã (một chương trình ứng dụng nhỏ thực hiện một nhiệm vụ cụ thể)
+ @appletalk
+- Tên một tiêu chuẩn mạng cục bộ do hãng Apple Computer thành lập
+ @apple-tree  
+*  dt
+- (thực vật học) cây táo
+
+@apple-woman  
+*  dt
+- bà bán táo
+
+@appliance  
+*  dt
+- sự gắn vào, sự áp vào, sự ghép vào, sự đính vào, sự đắp vào, sự tra vào ((cũng) appliance) ((cũng) application)
+- đồ thiết bị, trang thiết bị, dụng cụ
+
++ appliances of war: dụng cụ chiến tranh
+
++ domestic electric appliances: dụng cụ điện dùng trong nhà
+- (số nhiều) đồ phụ tùng (của một cái máy)
+
+@appliance
+- (Tech) máy, thiết bị, phụ tùng
+ @applicability  
+*  dt
+- tính có thể dùng được, tính có thể áp dụng được, tính có thể ứng dụng được
+
+@applicable  
+*  tt
+- có thể dùng được, có thể áp dụng được, có thể ứng dụng được
+- xứng, thích hợp
+
++ to be applicable to something: thích hợp với cái gì
+
+@applicable
+- trải được, áp dụng được; thích dụng
+ @applicably
+- xem applicable
+ @applicant  
+*  dt
+- người xin việc; người thỉnh cầu
+- (pháp lý) nguyên cáo, người thưa kiện
+
+@application  
+*  dt
+- sự gắn vào, sự áp vào, sự ghép vào, sự đính vào, sự đắp vào, sự tra vào ((cũng) appliance)
+
++ the application of a plaster to a wound: sự đắp thuốc vào vết thương
+- vật gắn, vật áp, vật ghép, vật đính, vật đắp, vật tra
+- sự dùng, sự áp dụng, sự ứng dụng
+
++ medicine for external application: thuốc dùng ngoài da
+- sự chuyên cần, sự chuyên tâm
+
++ a man of close application: một người rất chuyên cần
+- lời xin, lời thỉnh cầu; đơn xin
+
++ application for a job: đơn xin việc làm
+
++ to make an application to someone for something: gửi đơn cho ai để xin việc gì
+
++ to put in an application: đệ đơn xin, gửi đơn xin
+
+@application
+- (Tech) ứng dụng; chương trình ứng dụng
+ @application
+- phép trải, sự ứng dụng
+ @application blank   (@application form   (@application language
+- (Tech) ngôn ngữ ứng dụng
+ @application object
+- (Tech) đối tượng ứng dụng
+ @application option
+- (Tech) tùy ý ứng dụng
+ @application package
+- (Tech) bộ chương trình ứng dụng (tiền chế)
+ @application program
+- (Tech) chương trình ứng dụng
+ @application programmer
+- (Tech) thảo chương viên ứng dụng
+ @application programming
+- (Tech) thảo chương ứng dụng
+ @application software
+- (Tech) nhu kiện ứng dụng
+ @application-oriented language
+- (Tech) ngôn ngữ hướng dụng
+ @applicator
+- (Tech) máy mạ bản; máy điểm dạng [TQ]
+ @applied  
+*  tt
+- ứng dụng
+
++ applied chemistry: hoá học ứng dụng
+
+@applied
+- được ứng dụng
+ @applied informatics
+- (Tech) tin học ứng dụng
+ @appliqué  
+*  dt
+- miếng đính (miếng cắt ra đính lên trên vật khác làm đồ trang sức, thường là ở quần áo)
+*  ngdgt
+- trang sức bằng miếng đính
+
+@apply  
+*  ngdgt
+- gắn vào, áp vào, ghép vào, đính vào, đắp vào, tra vào
+
++ to plaster to the wound: đắp thuốc vào vết thương
+
++ to apply one's ear to the wall: áp tai vào tường
+
++ to apply the brake: bóp nhanh; đạp nhanh
+- dùng ứng dụng, dùng áp dụng
+
++ to apply a new method: áp dụng một phương pháp mới
+
++ to apply pressure on: gây (dùng) sức ép đối với (ai...)
+- chăm chú, chuyên tâm
+
++ to apply oneself to a task: chuyên tâm vào nhiệm vụ; hết lòng hết sức làm nhiệm vụ
+
++ to apply one's mind to something: chú ý vào việc gì
+*  ndgt
+- xin, thỉnh cầu
+
++ to apply for a post: xin việc làm
+- có thể áp dụng vào, thích ứng với, hợp với
+
++ this applies to my case: việc này thích ứng với trường hợp của tôi
+- apply to,  at hỏi
+
++ you must apply to the secretary: anh phải hỏi người thư ký
+
++ apply at the ofice: anh hãy đến hỏi ở sở
+
+@apply
+- ứng dụng
+ @appoggiatura  
+*  dt
+- (âm nhạc) nốt dựa
+
+@appoint  
+*  ngdgt
+- bổ, bổ nhiệm; chỉ định, chọn; lập
+
++ to appoint someone [to be] director: bổ nhiệm ai làm giám đốc
+
++ to appoint someone to do something: chỉ định ai làm việc gì
+
++ to appoint a commitee: lập một uỷ ban
+- định, hẹn (ngày, giờ...)
+
++ to appoint a day to meet: định ngày gặp nhau
+- quy định
+
++ to appoint that it should be done: quy định sẽ phải làm xong việc ấy
+- (thường) dạng bị động trang bị, thiết bị
+
++ the troops were badly appointed: quân đội được trang bị tồi
+
+@appointed  
+*  tt
+- được bổ nhiệm, được chỉ định, được chọn
+
++ an ambassador appointed: một đại sứ được bổ nhiệm
+
++ one's appointed task: một công việc đã được chỉ định cho làm, một công việc đã được giao cho làm
+- định hạn
+
++ at the appointed time: vào giờ đã định
+- được trang bị, được thiết bị
+
++ a nicely appointed house: căn nhà được thiết bị đẹp đẽ
+
++ badly appointed: thiết bị tồi tàn, trang bị kém
+
+@appointee  
+*  dt
+- người được bổ nhiệm; người được chọn (để làm việc gì)
+
+@appointive  
+*  tt
+- được bổ nhiệm, bổ nhiệm
+
++ an appointive office: một chức vị được bổ nhiệm
+- có quyền bổ nhiệm
+
+@appointment  
+*  dt
+- được bổ nhiệm, chức vụ được bổ nhiệm
+
++ appointment of someone to a post: sự bổ nhiệm ai vào một chức vụ
+- sự hẹn gặp; giấy mời, giấy triệu tập
+
++ to make (fix) an appointment with someone: hẹn gặp ai
+
++ to break an appointment: thất hẹn, sai hẹn
+
++ to keep an appointment: đúng hẹn
+- chiếu chỉ; sắc lệnh
+
++ by the king's appointment: do chiếu chỉ của vua
+- (số nhiều) đồ đạc, đồ trang bị, đồ thiết bị
+- (số nhiều) (từ cổ,nghĩa cổ) tiền lương, lương bổng
+
+@apportion  
+*  ngdgt
+- chia ra từng phần, chia thành lô
+
+@apportionment  
+*  dt
+- sự chia ra từng phần, sự chia thành lô
+
+@appose
+* ngdgt
+- đặt một vật cạnh vật khác
+- (từ cổ) áp lên
+
++  to appose a seal to a document:áp triện vào một văn kiện
+ @apposite  
+*  tt
+- thích hợp, thích đáng, đúng lúc
+
++ an apposite remark: một lời nhận xét thích đáng
+
+@appositely
+* dt
+- thích hợp, đúng lúc
+ @appositeness
+* dt
+- sự thích hợp, sự thích đáng
+ @apposition  
+*  dt
+- sự đóng (dấu), sự áp (triện)
+- sự áp đặt vào; sự ghép vào
+- (ngôn ngữ học) phần chêm
+
++ in apposition to: là phần chêm của
+
+@appositional
+- xem apposition
+ @appositionally
+- xem apposition
+ @appositive
+* tt
+- làm đồng vị ngữ
+ @appraisable  
+*  tt
+- có thể đánh giá được; có thể định giá được
+
+@appraisal  
+*  dt
+- sự đánh giá; sự định giá
+
+@Appraisal
+- (Econ) Thẩm định.
+ @appraise  
+*  dt
+- đánh giá; định giá
+
+@appraisement  
+*  dt
+- sự đánh giá; sự định giá
+
+@appraiser  
+*  dt
+- người đánh giá; người định
+
+@appreciable  
+*  tt
+- có thể đánh giá được
+- thấy rõ được
+
+@appreciably
+* dt
+- đáng kể, thấy rõ
+ @appreciate  
+*  ngdgt
+- đánh giá
+- đánh giá đúng, đánh giá cao, hiểu rõ giá trị
+- (từ Mỹ,nghĩa Mỹ) thấy rõ, nhận thức; sâu sắc
+
++ to appreciate the value of...: đánh giá đúng giá trị của...
+
++ to appreciate the difficulties of the situation: thấy rõ hoàn cảnh khó khăn, đánh giá chung những khó khăn của tình hình
+
++ to appreciate the necessity: thấy rõ được sự cần thiết
+- biết thưởng thức, biết đánh giá
+- cảm kích
+
++ I greatly appreciate your kindness: tôi rất cảm kích lòng tốt của anh
+- nâng giá, tăng giá trị (của cái gì)
+*  ndgt
+- lên giá (hàng hoá...), tăng giá trị
+
+@appreciation  
+*  dt
+- sự đánh giá
+- sự đánh giá đúng, sự đánh giá cao, sự hiểu rõ giá trị
+- (từ Mỹ,nghĩa Mỹ) sự thấy rõ, sự nhân thức, sâu sắc
+- sự biết thưởng thức, sự biết đánh giá
+
++ to have an appreciation of music: biết thưởng thức âm nhạc
+- sự cảm kích
+- sự nâng giá trị
+- sự phê phán (một cuốn tiểu thuyết...)
+
+@Appreciation
+- (Econ) Sự tăng giá trị.
+: Tăng về giá trị của tài sản, đối lập lại là sự mất giá trị. Một tài sản có thể tăng giá trị bởi vì giá của nó (và do giá thị trường của nó) tăng do lạm phát hay thay đổi về cầu tài sản đó dẫn tới mức độ khan hiếm. (Xem MONEY APPRECIATION).
+ @Appreciation and depreciation
+- (Econ) Tăng giá và giảm giá trị.
+ @Appreciation (currency)
+- (Econ) Tăng giá.
+ @appreciative  
+*  tt
+- biết đánh giá, biết thưởng thức
+
++ to be appreciative of music: biết thưởng thức âm nhạc
+- khen ngợi, đánh giá cao, tán thưởng
+
+@appreciatively
+* dt
+- khen ngợi, tán dương, tán thưởng
+ @appreciator
+- xem appreciate
+ @appreciatory
+- xem appreciate
+ @apprehend  
+*  ngdgt
+- bắt, tóm, nắm lấy
+- hiểu rõ, thấy rõ, cảm thấy rõ
+
++ to apprehend something well: hiểu rõ một điều gì
+- sợ, e sợ
+
++ to apprehend death: sợ chết
+
++ to apprehend that...: e rằng...
+
+@apprehensibility  
+*  dt
+- tính hiểu rõ được, tính thấy rõ được, tính lĩnh hội được
+
+@apprehensible  
+*  tt
+- hiểu rõ được, tính thấy rõ được, tính lĩnh hội được, có thể nắm được
+
+@apprehensibly
+- xem apprehensible
+ @apprehension  
+*  dt
+- sự sợ, sự e sợ
+
++ apprehension of death: sự sợ chết
+
++ to entertain (have) some apprehensions for (of) something: sợ cái gì
+
++ to be under apprehension that...: e sợ rằng...
+- sự hiểu, sự lĩnh hội, sự tiếp thu, sự nắm được (ý nghĩa...)
+
++ to be quick of apprehension: tiếp thu nhanh
+
++ to be dull of apprehension: tiếp thu chậm
+- sự bắt, sự nắm lấy, sự tóm lấy
+
+@apprehensive  
+*  tt
+- sợ hãi, e sợ
+
++ to be apprehensive of danger: sợ nguy hiểm
+
++ to be apprehensive for someone's health: lo sợ cho tình hình sức khoẻ của ai
+- (thuộc) nhận thức, (thuộc) tri giác
+- thấy rõ, cảm thấy rõ
+- nhận thức nhanh, tiếp thu nhanh, thông minh
+
+@apprehensively
+* dt
+- lo lắng, bứt rứt
+ @apprehensiveness
+- xem apprehensive
+ @apprentice  
+*  dt
+- người học việc, người học nghề
+
++ to bind somebody apprentice: nhận cho ai học việc
+
++ to be bound apprentice to a tailor: học nghề ở nhà một ông thợ may
+- người mới vào nghề, người mới tập sự
+- (hàng hải) thuỷ thủ mới vào nghề; hoa tiêu mới tập sự
+*  ngdgt
+- cho học việc, cho học nghề
+
++ to apprentice somebody to a tailor: cho ai học việc ở nhà ông thợ may
+
+@apprenticeship   (prenticeship) @Apprenticeship
+- (Econ) Học việc.
+: Xem GENERAL TRAINING.
+ @appressed
+* tt
+- (thực vật) áp ép
+
++  leaves appressed to the stern:lá áp ép vào thân cây
+ @appriori
+- (Tech) tiên nghiệm
+ @apprise  
+*  ngdgt
+- cho biết, báo cho biết
+
++ to apprise somebody of something: báo cho ai biết cái gì
+
++ to be apprised of something: biết cái gì, có ý thức về cái gì
+
+@apprize  
+*  ngdgt
+- (từ cổ,nghĩa cổ) (như) appraise
+
+@appro  
+*  dt
+- (thương nghiệp),  (thông tục) (như) approval,  approbation
+!on appro
+- nếu không ưng ý xin trả về (hàng hoá gửi đi)
+
+@approach  
+*  dt
+- sự đến gần, sự lại gần
+
++ easy of approach: dễ đến (địa điểm); dễ gần (người)
+
++ difficult of approach: khó đến (địa điểm); khó gần (người)
+- sự gần như, sự gần giống như
+
++ some approach to truth: một cái gì gần như là chân lý
+- đường đi đến, lối vào
+
++ the approach to a city: lối vào thành phố
+- (số nhiều) (quân sự) đường để lọt vào trận tuyến địch; đường hào để đến gần vị trí địch
+- sự thăm dò ý kiến; sự tiếp xúc để đặt vấn đề
+- cách bắt đầu giải quyết, phương pháp bắt đầu giải quyết (một vấn đề)
+- (toán học) sự gần đúng; phép tính gần đúng
+
++ approach velocity: vận tốc gần đúng
+- sự gạ gẫm (đàn bà)
+*  dgt
+- đến gần, lại gần, tới gần
+
++ winter is approaching: mùa đông đang đến
+- gần như
+
++ his eccentricity approaches to madness: tính lập dị của anh ta gần như là điên
+- thăm dò ý kiến; tiếp xúc để đặt vấn đề
+
++ to approach someone on some matter: thăm dò ý kiến ai về vấn đề gì
+- bắt đầu giải quyết (một vấn đề)
+- gạ gẫm (đàn bà)
+
+@approach
+- (Tech) tính gần đúng, phép xấp xỉ; tiếp cận; phương pháp; đáp xuống (máy bay)
+ @approach
+- sự gần đúng, phép xấp xỉ, cách tiếp cận
+- radial a. gl. ghép xấp xỉ theo tia 
+ @approach control
+- (Tech) điều khiển tiếp cận (máy bay)
+ @approach signal
+- (Tech) tín hiệu tiếp cận
+ @approachability  
+*  dt
+- tính có thể đến gần
+
+@approachable  
+*  tt
+- có thể đến gần, tới gần được
+- có thể đến thăm dò ý kiến; có thể tiếp xúc để đặt vấn đề
+
+@approbate  
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) tán thành, đồng ý, chấp thuận
+- phê chuẩn
+
+@approbation  
+*  dt
+- sự tán thành, sự đồng ý, sự chấp thuận
+
++ to meet with someone's approbation: được sự tán thành của ai
+!on approbation
+- (thương nghiệp) (như) on appro ((xem) appro)
+- sự phê chuẩn
+
+@approbative
+- xem approbate
+ @approbatory  
+*  tt
+- tán thành, đồng ý, chấp thuận
+
+@appropriate  
+*  tt
+- (: to,  for) thích hợp, thích đáng
+*  ngdgt
+- chiếm hữu, chiếm đoạt (làm của riêng)
+- dành riêng (để dùng vào việc gì)
+
+@Appropriate products
+- (Econ) Các sản phẩm thích hợp.
+: Nói chung được dùng để chỉ những sản phẩm thích hợp cho sử dụng ở các nước đang phát triển.
+ @Appropriate technology
+- (Econ) Công nghệ thích hợp.
+: Việc ứng dụng một công nghệ thích hợp với yếu tố sẵn có. (Xem ALTERNATIVE TECHNOLOGY. INTERMEDIATE TECHNOLOGY, INTERMEDIATE TECHNOLOGY DEVELOPMENT GROUP).
+ @appropriately
+* dt
+- thích hợp, thích đáng
+ @appropriateness  
+*  dt
+- sự thích hợp, sự thích đáng
+
+@appropriation  
+*  dt
+- sự chiếm hữu, sự chiếm đoạt (làm của riêng)
+- sự dành riêng (để dùng vào việc gì)
+
+@Appropriation account
+- (Econ) Tài khoản phân phối lãi.
+: Các doanh nghiệp duy trì các tài khoản này cho thấy lợi nhuận sau khi trả thuế được phân phối hay sử dụng như thế nào. (Xem ALLOWANCES AND EXPENSES CORPORATION TAX, ALLOWANCES AND EXPENSES INCOME TAX, TAXABLE INCOME.
+ @appropriation-in-aid  
+*  dt
+- tiền trợ cấp
+
+@appropriative
+- xem appropriate
+ @appropriator  
+*  dt
+- người chiếm hữu, người chiếm đoạt làm của riêng
+
+@approvable
+- xem approve
+ @approval  
+*  dt
+- sự tán thành, sự đồng ý, sự chấp thuận
+
++ to nod in approval: gật đầu, đồng ý
+
++ to give one's approval to a plan: tán thành một kế hoạch
+
++ to meet with approval: được sự đồng ý, được chấp thuận
+
++ on approval: (thương nghiệp) (như) on appro ((xem) appro)
+- sự phê chuẩn
+
+@Approval voting
+- (Econ) Bỏ phiếu tán thành; bỏ phiếu phê chuẩn.
+: Một dạng ra quyết định trong đó mỗi cá nhân bỏ phiếu cho một nhóm phương án mà người đó tán thành. (Xem BORDA COUNT, CONDORCET CRITERION, SOCIAL DECISION RULE. SOCIAL WELFARE FUNCTION).
+ @approve  
+*  ngdgt
+- tán thành, đồng ý, bằng lòng, chấp thuận
+- xác nhận, phê chuẩn, chuẩn y
+- chứng tỏ, tỏ ra, chứng minh
+
++ to approve one's valour: chứng tỏ lòng can đảm
+
++ he approved himself to be a good pianist: anh ta tỏ ra là một người chơi pianô giỏi
+*  ndgt
+- approve of tán thành, đồng ý, bằng lòng, chấp thuận
+
++ to approve of the proposal: tán thành đề nghị
+
+@approved  
+*  tt
+- được tán thành, được đồng ý, được bằng lòng, được chấp thuận
+- được phê chuẩn, được chuẩn y
+!approved school
+- trường của nhà nước dành cho trẻ em phạm tội
+
+@approver  
+*  dt
+- người tán thành, người đồng ý, người chấp thuận
+- người phê chuẩn
+- người bị bắt thú tội và khai đồng bọn
+
+@approving  
+*  tt
+- tán thành, đồng ý, bằng lòng, chấp thuận
+
++ an approving nod: cái gật đầu đồng ý
+
+@approvingly
+* dt
+- ra vẻ hài lòng, đồng tình
+ @approx
+* dt
+- (viết tắt của approximately) gần khoảng
+ @approximability
+- tính xấp xỉ được
+ @approximate  
+*  tt
+- approximate to giống với, giống hệt với
+- xấp xỉ, gần đúng
+
++ approximate calculation: phép tính xấp xỉ
+
++ approximate value: giá trị xấp xỉ
+- rất gần nhau
+*  dgt
+- gắn với; làm cho gắn với
+- xấp xỉ với, gần đúng với; làm cho xấp xỉ với, làm cho gần đúng với
+
+@approximate
+- (Tech) gần đúng
+ @approximate
+- gần đúng, xấp xỉ
+ @approximate reasoning
+- (Tech) lập luận gần đúng
+ @approximate value
+- (Tech) trị gần đúng
+ @approximately
+* dt
+- khoảng chừng, độ chừng
+ @approximately
+- một cách xấp xỉ
+ @approximation  
+*  dt
+- sự gần
+- sự xấp xỉ, sự gần đúng
+- cái xấp xỉ, con số xấp xỉ; ý nghĩa gần đúng
+- (toán học) phép xấp xỉ
+
++ approximation of root: phép tính xấp xỉ một nghiệm
+
+@approximation
+- (Tech) phép tính gần đúng, phép tính sai số, phép tính xấp xỉ
+ @approximation
+- [sự; phép] xấp xỉ, tiệm cận
+- a. in the mean xấp xỉ trung bình best a. phép xấp xỉ [tối ưu, tốt nhất]
+- cellular a. xấp xỉ khối
+- closest rational a. phân số sát nhất, phép xấp xỉ bằng phân thức sát nhất
+- diagonal a. xấp xỉ chéo
+- fist a. phép xấp xr bước đầu
+- mean a. xấp xỉ trung bình
+- numerical a. [lượng xấp xỉ, phép xấp xỉ] bằng số
+- one-sided a. (giải tích) phép xấp xỉ một phía
+- polynomial a. (giải tích) phép xấp xỉ bằng đa thức
+- rational a. phép xấp xỉ bằng phân thức
+- second a. phép xấp xỉ bước hai
+- successive a. phép xấp xỉ liên tiếp
+- weighted a. (giải tích) phép xấp xỉ có trọng số 
+ @approximative  
+*  tt
+- xấp xỉ, gần đúng
+
+@approximatively
+- xem approximation
+ @appui  
+*  dt
+- (quân sự) chỗ dựa, điểm tựa
+
++ point of appui: điểm tựa
+
+@appurtenance  
+*  dt
+- vật phụ thuộc
+- (pháp lý) sự thuộc về
+- (số nhiều) đồ phụ tùng
+
+@appurtenant  
+*  tt
+- appurtenant to thuộc về
+- phụ thuộc vào
+
+@apr
+- (vt của April) tháng Tư
+ @apraxia
+* dt
+- (y học) chứng mất dùng động tác
+ @apricot  
+*  dt
+- quả mơ
+- cây mơ
+- màu mơ chim
+
+@april  
+*  dt
+- tháng tư
+!April fool
+- người bị cho ăn cá tháng tư (bị đùa nhả, đánh lừa)
+!April fish
+- cá tháng tư (trò đùa nhả, đánh lừa nhau vào ngày mồng 1 tháng 4)
+!April weather
+- trời sập sùi lúc nắng lúc mưa
+- (nghĩa bóng) khóc đấy rồi lại cười đấy, khóc khóc cười cười
+
+@april fool
+- nạn nhân của trò đùa nhả truyền thống nhân ngày 1 @april fools' day
+- ngày đùa nhả truyền thống 1 @april-fool-day  
+*  dt
+- (như)[All Fools' Day]
+
+@Apriori
+- (Econ) Tiên nghiệm.
+: Một cụm thuật ngữ miêu tả quá trình suy luận phán đoán từ giả thuyết ban đầu cho đến kết luận. Phương pháp này có thể đối lập với cách tiếp cận dựa trên những cứ liệu rút ra từ thực tế quan sát.
+ @apron  
+*  dt
+- cái tạp dề
+- tấm da phủ chân (ở những xe không mui)
+- (sân khấu) thềm sân khấu (để diễn những tiết mục phụ khi buông màn)
+- (hàng không) thềm đế máy bay (ở sân bay)
+- tường ngăn nước xói (ở đập nước)
+- (kỹ thuật) tấm chắn, tấm che (máy...)
+
+@apron-string  
+*  dt
+- dây tạp dề
+!to be tied (to be pinned) to one's wife's apron-strings
+- bám lấy gấu váy vợ, hoàn toàn lệ thuộc vào vợ
+!to be tied (to be pinned) to one's mother's apron-strings
+- theo mẹ như cái đuôi, lúc nào cũng bám lấy mẹ
+
+@apropos  
+*  tt
+- đúng lúc, thích hợp
+*  dt
+- đúng lúc, thích hợp
+- nhân thể, nhân tiện
+- về
+
++ apropos of this: về vấn đề này
+*  dt
+- việc đúng lúc, điều thích hợp
+
+@apse  
+*  dt
+- chỗ tụng niệm (ở giáo đường); hậu cung
+- (thiên văn học) (như) apsis
+
+@apse(apsis)
+- điểm xa nhất trên đường cong (trong toạ độ cực); (thiên văn) điểm cận
+- nhật và viễn nhật 
+ @apsidal  
+*  tt
+- (thuộc) chỗ tụng niệm (ở giáo đường); (thuộc) hậu cung
+- (thiên văn học) cùng điểm
+
+@apsidal
+- (thuộc) điểm xa nhất trên đường cong (trong toạ độ cực); (thiên văn) (thuộc)
+- cận nhật và viễn nhật 
+ @apsides  
+*  dt,  số nhiều apsides 
+@apsis  
+*  dt,  số nhiều apsides 
+@apt  
+*  tt
+- có khuynh hướng hay, dễ
+
++ apt to take fire: dễ bắt lửa
+
++ apt to promise apt to forget: dễ hứa thì lại hay quên
+- có khả năng, có thể
+
++ such a remark is apt to be misunderstood: một lời nhận xét như thế rất có thể bị hiểu lầm
+- có năng khiếu; có năng lực, tài, giỏi; nhanh trí, thông minh
+
++ an apt child: một đứa bé có năng khiếu
+
++ to be apt at mathematics: có năng khiếu về toán, giỏi toán
+- thích hợp, đúng
+
++ an apt quotation: một câu trích dẫn thích hợp
+
++ there is no apter word: không có từ nào đúng hơn
+
+@apterium
+* dt
+- số nhiều apteria
+- vùng trụi (chim)
+ @apterous  
+*  tt
+- (động vật học) không cánh
+
+@apterygial
+* tt
+- không cánh; không vây
+ @apterygote
+* dt
+- côn trùng không cánh
+ @apterygotous
+* tt
+- (thuộc) côn trùng không cánh
+ @apteryx
+* dt
+- chim Ki-uy (ở Niu Dilân)
+ @aptitude  
+*  dt (: for)
+- aptitude for khuynh hướng
+- năng khiếu; năng lực, khả năng
+
+@aptitude test
+* dt
+- cuộc trắc nghiệm khả năng của những người dự tuyển vào một công việc
+ @aptly  
+*  dt
+- thông minh, khéo léo, nhanh trí
+- thích hợp, thích đáng, đúng
+
+@aptness  
+*  dt
+- (như) aptitude
+- sự thích hợp, sự thích đáng, sự đúng lúc, sự đúng chỗ, sự đúng
+
+@apyrous  
+*  tt
+- chịu lửa, chịu được nhiệt độ cao
+
+@

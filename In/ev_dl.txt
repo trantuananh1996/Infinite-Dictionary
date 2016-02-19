@@ -1,0 +1,8 @@
+@DLE (data link escape)
+- (Tech) thoát liên kết dữ liệu
+ @DLE (Data Link Escape) character
+- (Tech) ký tự thoát liên kết dữ liệu
+ @dlitt
+* (viết tắt)
+- Tiến sự văn chương (Doctor of Letters)
+ @

@@ -1,0 +1,1900 @@
+@whack   (thwack) @whacked
+* tt
+- <thgt> hết sức mệt mỏi, kiệt sức (người)
+ @whacker  
+*  dt
+- (từ lóng) người to lớn đẫy đà, người to béo thô kệch; vật to lớn khác thường
+- điều quái gở, chuyện quái gở
+
+@whacking  
+*  dt
+- sự đánh đập
+*  tt
+- (từ lóng) to lớn khác thường
+- kỳ quái, khác thường (người, điều, chuyện, vật)
+
++ a whacking lie: lời nói dối kỳ quái
+*  dt
+- (từ lóng) rất, cực kỳ
+
+@whale  
+*  dt
+- (động vật học) cá voi
+- (thông tục) a whale of cái to lớn mênh mông; việc lạ lùng kỳ dị
+
++ a whale of a city: một thành phố mênh mông
+
++ we had a whale of a time: chúng ta đ  vui chi tho thích
+!a whale on (at, for) something
+- một tay cừ về cái gì; một người ham thích cái gì
+*  ndgt
+- đánh cá voi
+
++ to go whaling: đi đánh cá voi
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đánh, quất
+
+@whale-boat  
+*  dt
+- tàu đánh cá voi
+
+@whalebone  
+*  dt
+- (động vật học) lược cá voi (phiến sừng ở hàm trên cá voi)
+- vật bằng chất sừng cá voi
+
+@whale-fin  
+*  dt
+- (thưng nghiệp) (như) whalebone
+
+@whale-fisher
+* dt
+- người đánh cá voi
+ @whaleman  
+*  dt
+- người đánh cá voi
+
+@whale-oil  
+*  dt
+- dầu cá voi
+
+@whaler  
+*  dt
+- người đánh cá voi
+- tàu đánh cá voi
+
+@whaling  
+*  dt
+- sự đánh cá voi; nghề đánh cá voi
+
+@whaling-gun  
+*  dt
+- súng bắn cá voi
+
+@wham
+* dt
+- <thgt> tiếng động của một cú đánh mạnh, bất ngờ
+- interj
+- ầm, rầm (diễn tả sự đụng mạnh, bất ngờ)
+* ngdgt
+- <thgt> đánh mạnh ai @whang  
+*  dt
+- tiếng đập; tiến đôm đốp; tiếng kêu vang
+- (Ê-cốt) miếng lớn, khoanh lớn
+*  ngdgt
+- đánh, đập mạnh, đánh đôm đốp
+*  ndgt
+- kêu đôm đốp; vang lên, kêu vang (trống, mõ...)
+
+@wharf  
+*  dt,  số nhiều wharfs,  wharves
+- (hàng hi) bến tàu, cầu tàu
+*  ngdgt
+- (hàng hi) cho (hàng) vào kho ở bến
+- (hàng hi) buộc (tàu) vào bến
+
+@wharfage  
+*  dt
+- (hàng hi) thuế bến
+
+@wharfinger  
+*  dt
+- chủ bến tàu
+
+@Wharton model
+- (Econ) Mô hình Wharton.
+: Một mô hình gồm 76 phương trình về nền kinh tế Mỹ phát triển từ mô hình KLEIN-GOLDBERGER (K-G) nhưng có 4 điểm khác biệt: 1)Mô hình này sử dụng dữ liệu tính toán trên cơ sở quý, Mô hìn K-G tính trên cơ sở năm. 2)mô hình này được thiết kế chủ yếu được dùng để dự đoán hành vi kinh tế cụ thể là thu nhập quốc dân và mức việc làm. 3)Mô hình này được phân tán tới một mức độ lớn hơn nhiều và có một khu vực tiền tệ phát triển hơn nhiều. 4)Hàm sản xuất được thiết lập dựa trên các hàm kiểu COBB-DOUGLAS.
+ @wharves  
+*  dt,  số nhiều wharfs,  wharves
+- (hàng hi) bến tàu, cầu tàu
+*  ngdgt
+- (hàng hi) cho (hàng) vào kho ở bến
+- (hàng hi) buộc (tàu) vào bến
+
+@what  
+*  đại từ nghi vấn
+- gì, thế nào
+
++ what is he like?: nó như thế nào?
+
++ what's the matter?: cái gì thế?
+
++ what's your name?: tên anh là gì?
+- sao, vậy thì sao
+
++ so what?: như vậy thì làm cái gì?, như vậy thì nghĩ làm sao?
+
++ well, what of it?: ừ, thế thì đ  làm sao?
+!what about?
+- có tin tức gì về... không?
+- anh nghĩ sao?
+
++ what about a cup of tea?: làm chén nước trà nhé, anh nghĩ sao?
+!what...for?
+- (xem) for
+!what ever for?
+- nhưng tại sao chứ?
+!what if?
+- nếu... thì sao?
+
++ what if he refuses to answer?: nếu nó từ chối không tr lời thì sao?
+!what not?
+- gì? gì nữa?
+!what of?
+- ra sao?, thế nào?
+
++ what of that?: cái đó ra sao?
+!what then?
+- rồi sao?
+*  đại từ cm thán
+- biết bao!, làm sao!
+
++ what he has suffered!: nó đau khổ biết bao!
+*  đại từ quan hệ
+- cái mà, điều mà, người mà, cái gì
+
++ he obtained what he needed: nó được cái mà nó cần
+
++ what he did, he did well: nó đ  làm việc gì thì đều làm tốt
+
++ happen what may: dù xy ra cái gì, dù ở trong hoàn cnh nào đi nữa
+!and what have you
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) và tất c những cái gì khác cùng một loại như thế
+!and what not
+- và gì gì nữa; vân vân
+!but what
+- (thông tục) trừ cái mà, mà... không
+
++ there wasn't a day but what it rained: chẳng có ngày nào mà không mưa
+
++ he had no weapons but what he carried with him: nó không có một thứ vũ khí nào khác ngoài cái mà nó mang 
+theo
+!I know what
+- (thông tục) tôi có một ý kiến mới
+!I'll tell you what
+- tôi sẽ cho anh rõ sự thật; tôi sẽ chỉ cho anh nên làm thế nào
+!to know what's what
+- có trí suy xét, biết cái hay cái dở; biết rõ sự tình
+!not but what
+- (xem) but
+!what though
+- (xem) though
+!what with...and what with...
+- một là vì... hai là vì...; do một bên thì... một bên thì; phần thì... phần thì...
+*  tt
+- nào?, gì?
+
++ what new?: tin tức gì?
+
++ what books have you read?: anh đ  đọc những sách nào?
+- biết bao!, làm sao!
+
++ what an intelligent boy he is!: đứa bé mới thông minh làm sao!
+
++ what a queer idea!: ý kiến kỳ quặc làm sao!
+
++ what a beautiful view: cnh đẹp làm sao
+- nào, mà
+
++ I don't know by what train I shall go: tôi chưa biết sẽ đi xe lửa nào
+
++ I shall incur what expenses will be necessary: tôi sẽ gánh tất c những món tiêu cần thiết
+
+@whate'er  
+*  tt & đại từ
+- (th ca) (như) whatever
+
+@whatever  
+*  tt
+- nào
+
++ there did not remain any doubt whatever in my mind: trong đầu óc tôi không còn mối nghi ngờ nào nữa
+
++ take whatever measures you consider best: anh cứ dùng những biện pháp nào mà anh cho là tốt nhất
+- dù thế nào, dù gì
+
++ whatever difficulties you may encounter: dù anh có gặp những khó khăn gì chăng nữa
+*  dt
+- bất cứ cái gì mà; tất c cái gì mà
+
++ whatever you like: tất c cái gì (mà) anh thích
+- dù thế nào, dù gì
+
++ keep calm, whatever happens: dù có gì xy ra, h y cứ bình tĩnh
+
+@whatnot
+* dt
+- đồ linh tinh; thứ tầm thường (không ai để ý hoặc không có gì đặc biệt)
+- she'd put these whatnots in her hair as decoration
+- cô ấy gài những thứ linh tinh này lên tóc để trang điểm
+- tủ có kệ
+ @whatsoe'er  
+*  tt & dt
+- (th ca) (như) whatsoever
+
+@whatsoever  
+*  tt & dt
+- dạng nhấn mạnh của whatever
+
+@wheat  
+*  dt
+- (thực vật học) cây lúa mì
+- lúa mì
+
+@wheat germ
+* dt
+- mầm lúa mì (lõi của hạt lúa mì, được lấy ra trong khi xay, là nguồn chứa vitamin)
+ @wheat-bread
+* dt
+- bánh mì trắng
+ @wheatcake
+* dt
+- <Mỹ> bánh xếp làm hoàn toàn bằng bột mì
+ @wheatear  
+*  dt
+- (động vật học) chim bạc bụng
+
+@wheaten  
+*  tt
+- (thuộc) lúa mì
+
++ wheaten flour: bột mì
+
+@wheatmeal
+* dt
+- bột chưa rây làm từ lúa mì
+ @wheedle  
+*  ngdgt
+- phỉnh, dỗ ngon, dỗ ngọt, dỗ dành
+
++ to wheedle someone into doing something: dỗ dành ai làm việc gì
+- vòi khéo, tán tỉnh; đánh lừa
+
++ to wheedle something out of someone: tán tỉnh ai để lấy cái gì
+
++ to wheedle someone out of someonething: đánh lừa ai để lấy cái gì
+
+@wheedler  
+*  dt
+- người phỉnh, người dỗ ngon dỗ ngọt, người dỗ dành
+- người vòi khéo, người tán tỉnh
+
+@wheel  
+*  dt
+- bánh (xe) ((nghĩa đen) & (nghĩa bóng))
+
++ front wheel: bánh trước
+
++ back wheel: bánh sau
+
++ the wheel of history: bánh xe lịch sử
+- (số nhiều) hệ thống bánh xe (của máy...)
+- xe hình (để buộc tội nhân vào mà đánh)
+
++ to break on the wheel: xử xe hình
+- (kỹ thuật) bàn quay (của người làm đồ gốm)
+- bánh lái, tay lái
+
++ man of the wheel: người cầm lái, người lái tàu
+- sự quay tròn, sự xoay; (quân sự) sự quay
+
++ left wheel: sự quay sang trái
+- (nghĩa bóng) sự thăng trầm
+
++ the wheels of life: những thăng trầm của cuộc đời
+
++ fortune's wheel: sự thăng trầm của số phận
+- (nghĩa bóng) bộ máy
+
++ the wheel of government: bộ máy chính quyền
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) xe đạp
+!big wheels
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) bọn tai to mặt lớn, bọn quyền cao chức trọng
+!to go on wheels
+- chạy, trôi chy, tiến hành thuận lợi
+!wheels within wheels
+- máy móc phức tạp
+- (nghĩa bóng) tình hình rắc rối phức tạp
+- (nghĩa bóng) mưu đồ đen tối
+*  ngdgt
+- lăn, đẩy cho lăn
+
++ to wheel a barrow: đẩy (cho lăn) một xe cút kít
+- dắt (xe đạp)
+- làm quay tròn, xoay
+
++ to wheel one's chair: xoay cái ghế
+- chở trên một xe lăn
+
++ to wheel something in a barrow: chở vật gì bằng xe cút kít
+- xử tội xe hình; đánh nhừ tử
+- (quân sự) cho (hàng quân) quay
+*  ndgt
+- quay, xoay
+- lượn vòng
+
++ the sea-gulls wheeled over the sea: những con chim mòng biển lượn vòng trên mặt biển
+- (quân sự) quay
+
++ right wheel!: bên phi quay!
+- (từ Mỹ,nghĩa Mỹ) đi xe đạp
+!to wheel round (about)
+- quay lại, xoay trở lại
+
+@wheel arm  
+*  dt
+- (kỹ thuật) nan hoa
+
+@wheelbarrow  
+*  dt
+- xe cút kít
+
+@wheel-base  
+*  dt
+- (kỹ thuật) khong trục bánh xe (giữa trục bánh trước và trục bánh sau)
+
+@wheelbase
+* dt
+- (kỹ thuật) khoảng cách giữa trước với trục sau của xe gắn động cơ
+ @wheel-chair  
+*  dt
+- ghế đẩy (có bánh xe, cho người tàn tật)
+
+@wheelchair
+* dt
+- xe lăn (ghế tựa có bánh xe, trong đó ai không thể đi có thể tự di chuyển hoặc được đẩy đi; nhất là người tàn tật)
+ @wheeled  
+*  tt
+- có bánh xe
+
+@wheeler  
+*  dt
+- ngựa buộc gần bánh xe (trong một cỗ xe)
+- (kỹ thuật) thợ đóng xe
+
+@wheeler-dealer
+* dt
+- <Mỹ,thgt> người khéo mặc cả (thường là bất lương)
+ @wheel-horse  
+*  dt
+- ngựa buộc gần bánh xe (trong một cỗ xe)
+- (từ Mỹ,nghĩa Mỹ) người chăm làm, người chăm học, người cần cù
+
+@wheel-house  
+*  dt
+- phòng lái (ở tàu thuỷ)
+
+@wheelie
+* dt
+- sự đi một bánh (hành động đi xe đạp hoặc mô tô trên một bánh sau, bánh trước nhấc khỏi mặt đất)
+ @wheeling
+* dt
+- sự đi xe đạp
+- chỗ ngoặc
+- tình trạng đường xá
+
++  good wheeling:đường xá tốt
+ @wheelman  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người đi xe đạp
+
+@wheel-mounted
+* tt
+- đi xe
+ @wheel-rope  
+*  dt
+- (hàng hi) dây bánh lái
+
+@wheelsman
+* dt; số nhiều wheelsmen
+- người lái; người lái tàu thủy
+ @wheel-track  
+*  dt
+- dệt bánh xe
+
+@wheel-train  
+*  dt
+- hệ thống bánh xe
+
+@wheel-window  
+*  dt
+- (kiến trúc) cửa sổ hoa thị
+
+@wheel-work
+* dt
+- (kỹ thuật) hệ thống truyền lực bằng bánh xe răng cưa
+ @wheelwright  
+*  dt
+- thợ chữa bánh xe
+- thợ đóng xe
+
+@wheen
+* tt
+- (xcôtlân) vài, một vài
+ @wheeze  
+*  dt
+- (y học) sự thở khò khè
+- (sân khấu),  (từ lóng) câu chuyện pha trò (đệm giữa các tiết mục)
+- (từ lóng) khoé riêng, cách riêng; kế, mưu
+*  ndgt
+- (y học) thở khò khè
+- kêu vu vu, kêu vo vo
+
++ the organ is wheezing: chiếc đàn ống kêu vu vu
+*  ngdgt
+- to wheeze out nói khò khè
+
+@wheezing  
+*  dt
+- sự thở khò khè
+
+@wheezy  
+*  tt
+- (y học) khò khè
+
+@whelk  
+*  dt
+- (động vật học) ốc buxin
+
+@whelm  
+*  ngdgt
+- (th ca); (văn học) làm chìm, làm đắm, dìm xuống
+
+@whelp  
+*  dt
+- (động vật học) chó con; chó sói con; cọp con; sư tử con...
+- (nghĩa bóng) đứa bé mất dạy; đứa bé khó chịu
+*  dgt
+- đẻ con (chó, chó sói...); đẻ (một kế hoạch...)
+
+@when  
+*  dt
+- khi nào, hồi nào, lúc nào, bao giờ
+
++ when will you go?: khi nào anh sẽ đi?
+
++ he does not remember when he did it: nó không nhớ được nó làm cái đó hồi nào
+*  liên từ
+- khi, lúc, hồi
+
++ when I was a boy: khi tôi còn bé
+
++ when at school: hồi còn đi học
+- trong khi mà, một khi mà
+
++ he is playing when he should be studying: nó cứ nô đùa trong khi đáng lý ra nó phi học
+*  đại từ
+- khi (lúc, hồi) mà, mà
+
++ now is the time when you must work: bây giờ đ  đến lúc mà anh phi làm việc
+
++ do you remeber the day when I met you the first time?: anh có nhớ cái hôm mà tôi gặp anh lần đầu không?
+- khi đó, lúc đó, hồi đó; khi nào, hồi nào, bao giờ
+
++ till when?: cho đến bao giờ?
+*  dt
+- lúc, thời gian, ngày tháng
+
++ the when and the where: thời gian và địa điểm
+
+@whence  
+*  dt
+- (th ca); (văn học) từ đâu, do đâu
+
++ no one knows whence he came: chẳng ai biết anh ta từ đâu đến
+
++ whence all this confusion?: do đâu mà có sự lộn xộn này?
+*  đại từ
+- (th ca); (văn học) từ đâu, do đâu
+
++ from whence he is?: nó từ đâu đến?
+- từ đó, do đó
+
++ that was the circumstance [from] whence their misfortunes sprung: đó là cái hoàn cnh từ đó đ  ny sinh ra 
+tất c những điều bất hạnh của chúng
+*  dt
+- (th ca); (văn học) nguồn gốc
+
++ he knows neither his whence nor his whither: nó chẳng hề biết nó ở đâu đến mà cũng chẳng biết nó đi đâu
+
+@whencesoever  
+*  dt & liên từ
+- từ bất cứ ni nào, dù từ ni nào; do bất cứ nguyên nhân nào, dù là nguyên nhân nào
+
+@whene'er  
+*  dt & liên từ
+- (th ca) (như) whenever
+
+@whenever  
+*  dt & liên từ
+- bất cứ lúc nào; lúc nào
+
++ you may come whenever you like: anh có thể đến bất cứ lúc nào anh muốn
+- mỗi lần, mỗi khi, hễ khi nào
+
++ whenever I see it I think of you: mỗi lần thấy cái đó tôi lại nhớ đến anh
+
+@whenso
+- (từ cổ, nghĩa cổ) xem whenever
+ @whensoever  
+*  dt & liên từ
+- dạng nhấn mạnh của whenever
+
+@where  
+*  dt
+- đâu, ở đâu, ở ni nào, ở chỗ nào, ở phía nào, ở mặt nào
+
++ where are you going?: anh đi đâu đấy?
+
++ where are my gloves?: đôi găng của tôi đâu?
+
++ where am I wrong?: tôi sai ở chỗ nào?
+
++ I know where he is: tôi biết hắn ta ở đâu
+- như thế nào, ra làm sao
+
++ where will you be if you fail?: nếu anh thất bại thì rồi anh sẽ ra làm sao?
+*  đại từ
+- đâu, từ đâu; ở đâu
+
++ where do you come from?: anh từ đâu đến?
+
++ where are you going to?: anh đi đâu?
+- ni (mà), chỗ (mà), điểm (mà)
+
++ the house where I was born: căn nhà ni (mà) tôi sinh ra
+*  dt
+- ni chốn, địa điểm
+
++ I must have the wheres and whens: tôi cần có đầy đủ chi tiết về địa điểm và thời gian
+
+@where-about  
+*  dt
+- (từ hiếm,nghĩa hiếm) về việc ấy; nhân việc ấy
+
+@whereabouts  
+*  dt
+- ở đâu vậy, ở phía nào, ở ni nào
+
++ whereabouts did you put it?: anh để cái ấy ni nào vậy?
+
++ I wonder whereabouts he put it: tôi tự hỏi không biết nó để cái ấy ni nào
+*  dt
+- chỗ ở, ni ở (của người nào); ni có thể tìm thấy (cái gì)
+
++ his present whereabouts is unknown: người ta không biết chỗ ở hiện nay của anh ta
+
+@whereas  
+*  liên từ
+- nhưng trái lại, trong khi mà, còn
+
++ some people like meat with much fat in it whereas others hate it: nhiều người thích thịt mỡ trong khi mà nhiều 
+người khác lại ghét
+- (pháp lý) bởi vì, xét rằng
+
+@whereat  
+*  dt
+- vì việc gì, vì cớ gì, tại sao
+
++ whereat did he get so angry?: tại sao anh ta tức giận đến thế?
+- vì đó, do đó
+
+@whereby  
+*  dt
+- do cái gì, bằng cách gì
+
++ whereby shall we know him?: bằng cách nào mà chúng ta sẽ biết được nó?
+- nhờ đó, bởi đó
+
++ he devised a plan whereby he might escape: nó vạch một kế hoạch nhờ đó nó có thể thoát được
+
+@where'er  
+*  dt
+- (th ca) (như) wherever
+
+@wherefore  
+*  dt
+- (từ cổ,nghĩa cổ) tại sao, vì sao
+
++ wherefore do you laugh?: tại sao anh cười?
+*  liên từ
+- (từ cổ,nghĩa cổ) vì vậy, vì thế, do đó
+
++ he was angry wherefore I was afraid: ông ta nổi giận, vì thế tôi sợ
+*  dt
+- lý do, cớ
+
++ I don't want to hear the whys and the wherefores: tôi không muốn nghe nào những tại sao thế, nào những lý 
+do gì
+
+@wherein  
+*  dt
+- ở chỗ nào, ở điểm nào, về mặt nào
+
++ wherein am I mistaken?: tôi sai lầm chỗ nào?
+- từ ở trong ấy, ở ni ấy
+
+@whereof  
+*  dt
+- (từ cổ,nghĩa cổ) về cái gì, về ai
+- mà
+
+@whereon  
+*  dt
+- trên cái gì, về cái gì
+
++ whereon did you pin your hope?: anh đặt hy vọng trên cái gì?
+- trên cái đó, về cái đó
+
++ the rock whereon the house is built: tng đá trên đó căn nhà được xây lên
+
+@whereout
+* dt
+- (từ cổ) từ đó; từ đấy
+ @wheresoe'er  
+*  dt
+- (th ca) (như) wherever
+
+@wheresoever  
+*  dt
+- dạng nhấn mạnh của wherever
+
+@whereto   (whereunto) @whereunder
+* tt
+- (cổ) dưới đó
+
++  the tree whereunder the animals may find shelter:Lùm cây dưới đó các con vật có thể tìm nơi ẩn náu
+ @whereunto   (whereunto) @whereupon  
+*  dt
+- về cái đó
+- nhân đó, ngay lúc đó
+
++ whereupon he laughed heartily: ngay lúc đó anh ấy cười vui vẻ
+
+@wherever  
+*  dt
+- ở ni nào; đến ni nào; bất cứ ni nào
+
+@wherewith  
+*  dt
+- (từ cổ,nghĩa cổ) với cái đó, bằng cái đó
+
+@wherewithal  
+*  dt
+- (từ cổ,nghĩa cổ) (như) where-with
+*  dt
+- (thông tục) the wherewithal tiền cần thiết (cho một việc gì)
+
+@wherry  
+*  dt
+- (hàng hi) đò (chở khách trên sông)
+
+@wherryman  
+*  dt
+- người chở đò
+
+@whet  
+*  dt
+- sự mài (cho sắc)
+- miếng (thức ăn) khai vị
+- ngụm (rượu...)
+*  ngdgt
+- mài (cho sắc)
+- (nghĩa bóng) kích thích (sự ngon miệng, lòng ham muốn...); gợi
+
++ to whet one's appetite: kích thích sự ngon miệng, gợi thèm
+
+@whether  
+*  liên từ
+- có... không, có... chăng, không biết có... không
+
++ he asked whether it was true: ông ta hỏi không biết điều đó có đúng không
+!whether...or
+- dù... hay, hoặc... hoặc
+
++ whether he likes it or not: dù nó thích cái đó hay không
+
++ whether today or tomorrow: hoặc hôm nay hoặc ngày mai
+!whether or no
+- trong bất cứ trường hợp nào, bất cứ thế nào
+*  đại từ
+- (từ cổ,nghĩa cổ) một trong hai (vật gì)
+
+@whetstone  
+*  dt
+- đá mài
+- vật kích thích tinh thần
+
+@whew  
+*  thán từ
+- ôi!; ôi thôi!; úi chà!
+
+@whey  
+*  dt
+- nước sữa
+
+@which  
+*  tt
+- nào (ngụ ý chọn lựa)
+
++ which book do you prefer?: anh thích quyển sách nào?
+- bất cứ... nào
+
++ try which method you please: h y thử bất cứ phưng pháp nào (mà) anh thích
+- ấy, đó
+
++ he stayed here six months, during which time he helped me a great deal in my study: anh ta ở lại đây sáu 
+tháng, trong thời gian đó anh ta giúp đỡ tôi rất nhiều trong việc học tập
+
++ he announced a drought, which forecast comes true: anh ta nói là sẽ có hạn hán, lời tiên đoán ấy đ  thành sự 
+thực
+*  đại từ nghi vấn
+- gì, cái nào, người nào, ai (ngụ ý chọn lựa)
+
++ which do you prefer, tea or coffee?: anh thích dùng gì, trà hay cà phê?
+
++ which of you can answer my question?: trong đám các anh, người nào (ai) có thể tr lời câu hỏi của tôi?
+
++ I can't distinguish which is which: tôi không thể phân biệt nổi cái gì ra cái gì (ai ra ai)
+*  đại từ quan hệ
+- cái mà, mà
+
++ the book which is on the table is mine: quyển sách ở trên bàn là của tôi
+
++ the book which he was speaking of (of which he was speaking) was very interesting: quyển sách mà anh ta 
+đang nói tới là một quyển rất lý thú
+
++ the work to which she devoted all her time...: công việc mà cô ta đ  dành hết c thời gian vào đó...
+
++ the table one leg of which is broken...: cái bàn mà một chân đ  g y...
+- điều mà, cái mà; cái đó, điều đó, sự việc đó
+
++ he was dropped when he was a boy, which made him a permanent invalid: nó bị ng  khi còn nhỏ, điều đó đ  
+làm cho nó thành tàn tật suốt đời
+
++ if he comes, which is not likely, I'll tell him at once: nếu nó tới, điều mà không có gì là chắc chắn, tôi sẽ bo 
+nó ngay
+
++ he can speak, write, understand and read English, and all which with great ease: anh ta nói, viết, hiểu và đọc 
+được tiếng Anh, và làm tất c những cái đó rất dễ dàng
+
+@whichever  
+*  tt
+- nào, bất cứ... nào
+
++ not peace at whichever price: không phi hoà bình với bất cứ giá nào
+*  đại từ
+- bất cứ cái nào
+
++ whichever you like best: bất cứ cái nào anh thích nhất
+
+@whichsoever  
+*  tt & đại từ
+- dạng nhấn mạnh của whichever
+
+@whiff  
+*  dt
+- (động vật học) cá bn
+*  dt
+- luồng, hi
+
++ a whiff of air (smoke, wind): một luồng không khí (khói, gió)
+
++ he took up his pipe to have a few whiffs: anh ta cầm cái điếu lên để hút một vài hi
+- (hàng hi) xuồng nhẹ
+- (thông tục) điếu xì gà nhỏ
+*  dgt
+- phát ra từng luồng nhẹ, thổi nhẹ
+- to ra một mùi nhẹ
+
+@whiffet  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người vô dụng, người bất tài
+
+@whiffle  
+*  dgt
+- thổi nhẹ (gió)
+- vẩn v, rung rinh (ý nghĩ, ngọn lửa, lá...)
+- lái (tàu) đi nhiều hướng khác nhau
+
+@whig  
+*  dt
+- đng viên đng Uých (đng tiền thân của đng Tự do ở Anh)
+
+@whiggery   (whiggism) @whiggish  
+*  tt
+- (thuộc) đng Uých
+
+@whiggism   (whiggism) @while  
+*  dt
+- lúc, chốc, lát
+
++ after a while: một lát sau
+
++ a long while: một lúc lâu, một thời gian dài
+
++ in a little while: ngay
+
++ for a long while past: từ lâu
+
++ all the while: suốt thời gian
+
++ between whiles: giữa lúc đó
+
++ for a while: một lúc
+
++ the while: trong lúc đó, trong khi
+
++ once in a while: thỉnh thong, đôi khi
+!to be worth [one's] while
+- bõ công, đáng làm
+*  ngdgt
+- to while away l ng phí, làm mất, để trôi qua; giết (thì giờ)
+
++ to while away the time: để thì giờ trôi qua; giết thì giờ
+*  liên từ ((cũng) whilst)
+- trong lúc, trong khi, đang khi, đang lúc
+
++ while at school, he worked very hard: khi còn ở trường anh ta học tập rất chăm chỉ
+- chừng nào còn, còn
+
++ while there is life, there is hope: còn sống thì còn hy vọng; còn nước còn tát
+- còn, trong khi mà, mà
+
++ the hat is red, while the shoes are black: mũ thì đỏ mà giày thì lại đen
+
+@whilere
+* dt
+- (cổ) cách đây không lâu; mới đây
+ @whiles  
+*  liên từ
+- (từ cổ,nghĩa cổ) (như) while
+
+@whiling
+- xoáy
+ @whilom  
+*  tt & dt
+- (từ cổ,nghĩa cổ) trước đây, thuở xưa
+
++ this whilom friend of yours: người bạn thuở xưa của anh
+
+@whilst  
+*  liên từ
+- (như) while
+
+@whim  
+*  dt ((cũng) whimsy)
+- ý chợt ny ra; ý thích chợt ny ra
+- (kỹ thuật) máy trục quặng; máy tời
+
+@whimper  
+*  dt
+- tiếng khóc thút thít; giọng rên rỉ
+*  dgt
+- thút thít; vừa nói vừa khóc thút thít; rên rỉ
+
+@whimperer  
+*  dt
+- người khóc thút thít; người rên rỉ
+
+@whimpering  
+*  tt
+- khóc thút thít; rên rỉ
+
+
+@whimsey
+- xem whimsy
+ @whimsical  
+*  tt
+- bất thường, hay thay đổi
+
++ a whimsical mind: tính khí bất thường
+- kỳ quái, kỳ dị
+
++ a whimsical thing: một vật kỳ dị
+
+@whimsicality   (whimsicalness) @whimsicalness   (whimsicalness) @whimsy  
+*  dt
+- (như) whim
+- tính tình bất thường, tính đồng bóng
+- tính chất kỳ quái, tính chất kỳ dị
+
+@whin  
+*  dt
+- (thực vật học) cây kim tước
+
+@whine  
+*  dt
+- tiếng rên rỉ, tiếng than van; tiếng khóc nhai nhi
+*  ndgt
+- rên rỉ, than van; khóc nhai nhi (trẻ con)
+
++ to be always whining about something or other: luôn luôn than van về việc này hay việc nọ
+*  ngdgt
+- nói giọng rên rỉ, nói giọng than van
+
+@whining  
+*  tt
+- hay rên rỉ, hay than van; khóc nhai nhi
+
+@whinny  
+*  dt
+- tiếng hí (ngựa)
+*  ndgt
+- hí (ngựa)
+*  tt
+- lắm cây kim tước (khonh đất)
+
+@whip  
+*  dt
+- roi, roi da
+- người đánh xe ngựa
+- người phụ trách chó (khi đi săn) ((cũng) whipper-in)
+- nghị viên phụ trách tổ chức (của nhóm nghị sĩ của một đng trong nghị viện Anh); giấy báo của nghị viên phụ 
+trách tổ chức
+- cánh quạt máy xay gió
+- (hàng hi) cáp kéo
+*  ndgt
+- xông, lao, chạy vụt
+
++ to whip behind someone: chạy vụt tới sau một người
+
++ to whip down the stairs: lao nhanh xuống cầu thang
+- quất, đập mạnh vào
+
++ the rain whipped against the panes: mưa đập mạnh vào cửa kính
+*  ngdgt
+- đánh bằng roi, quất
+
++ to whip a horse: quất ngựa
+- khâu vắt
+
++ to whip a seam: khâu vắt một đường may
+- rút, giật, cởi phắt
+
++ to whip a knife out of one's pocket: rút nhanh con dao nhíp trong túi ra
+
++ to whip off one's coat: cởi phắt áo choàng ra
+- đánh (kem, trứng)
+- (hàng hi) quấn chặt (đầu sợi dây)
+- (từ lóng) đánh bại, thắng (một địch thủ)
+!to whip away
+- đánh, quất, đuổi (người nào)
+!to whip in
+- tập trung, lùa vào một ni (bằng roi)
+- (nghĩa bóng) triệu tập
+!to whip on
+- quất ngựa chạy tới
+!to whip out
+- rút nhanh; tuốt (kiếm)
+!to whip up
+- giục (ngựa) chạy tới
+- triệu tập gấp (hội viên, đng viên)
+!to whip creation
+- hn tất c
+
+@whip hand  
+*  dt
+- tay cầm roi, tay phi (của người đánh xe ngựa)
+- (nghĩa bóng) tay trên, phần hn
+
++ to have the whip_hand of someone: kiểm soát ai, khống chế được ai
+
+@whip-cord  
+*  dt
+- sợi bện roi
+
++ veins stand out like whip-cord: mạch máu nổi lằn lên
+
+@whiplash  
+*  dt
+- dây buộc đầu roi
+
+@whipper
+* dt
+- người cầm roi
+* dtgười hành hình
+- đao phủ
+ @whipper-in  
+*  dt
+- người phụ trách chó (khi đi săn) ((cũng) whip)
+
+@whipper-snapper  
+*  dt
+- (thông tục) nhóc con bắng nhắng, nhóc con hay quấy rầy
+
+@whippet  
+*  dt
+- chó đua
+- (quân sự) xe tăng nhẹ
+
+@whippiness  
+*  dt
+- tính mềm dẻo, tính dễ uốn cong
+
+@whipping  
+*  dt
+- trận roi, trận đòn; sự đánh đập, sự quất
+- mũi khâu vắt
+- sự vấn chỉ đầu dây (cho khỏi x)
+
+@whipping-boy  
+*  dt
+- (thông tục) người làm bung xung
+
+@whippoorwill  
+*  dt
+- (động vật học) chim đớp muỗi
+
+@whippy  
+*  tt
+- mềm dẻo, dễ uốn
+
+@whipray  
+*  dt
+- (động vật học) cá bn đuôi dài
+
+@whip-round  
+*  dt
+- sự quyên tiền
+
++ to have a whip-round for: quyên tiền để (cho)
+*  ndgt
+- quyên tiền
+
+@whip-saw  
+*  dt
+- (kỹ thuật) cưa khoét
+*  ngdgt
+- cưa khoét
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đánh bại (trong một cuộc đánh cá...)
+
+@Whipsawing
+- (Econ) Cưa kéo.
+: Một biện pháp mà một số các công đoàn sử dụng để dành được sự nhượng bộ của người sử dụng lao động bằng cách đe doạ sẽ bãi công trong khi các công ty địch thủ cạnh tranh khác vẫn tiếp tục hoạt động, và sau khi ông ta đã nhượng bộ sẽ cố gắng ép buộc sử dụng người lao động thứ hai đưa ra những điều khoản điều kiện tương tự hoặc thậm chí tốt hơn về việc làm nếu không sẽ đối mặt với một cuộc bãi công khác.
+ @whipstaff
+* dt
+- cán roi
+ @whipster  
+*  dt
+- đứa bé
+- người có tính lông bông (cần trị bằng roi)
+
+@whipstitch  
+*  dt
+- mũi khâu vắt
+
+@whir   (whirr) @whirl  
+*  dt
+- sự xoay tít, sư xoáy, sự quay lộn
+- gió cuốn, gió lốc
+
++ a whirl of dust: làn bụi cuốn
+- (nghĩa bóng) sự hoạt động quay cuồng
+
++ the whirl of modern life in a city: sự hoạt động quay cuồng của cuộc sống hiện đại trong một thành phố
+!to be in a whirl
+- quay cuồng (đầu óc)
+!to give something a whirl
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) thử một vật gì, đưa một vật gì ra thử
+*  ndgt
+- xoay tít, xoáy, quay lộn
+- lao đi, chạy nhanh như gió
+- quay cuồng (đầu óc); chóng mặt
+*  ngdgt
+- làm cho xoay tít, làm xoáy, làm quay lộn
+- cuốn đi
+!to whirl along
+- lao đi, cuốn đi, chạy nhanh như gió
+!to whirl down
+- xoáy cuộn rồi ri xuống
+
+@whirl
+- chuyển động xoáy
+ @whirligig  
+*  dt
+- con cù, con quay
+- vòng ngựa gỗ (ở các công viên cho trẻ con chi)
+- sự quay cuồng, sự xoay vần
+
++ the whirligig of time: sự xoay vần của thế sự
+
++ the whirligig of life: sự thăng trầm của cuộc đời; sự lên voi xuống chó
+
+@whirlpool  
+*  dt
+- xoáy nước
+
+@whirlwind  
+*  dt
+- cn gió cuốn, gió lốn
+!sow the wind and reap the whirlwind
+- (xem) sow
+
+@whirlybird
+* dt
+- (từ lóng) máy bay lên thẳng
+ @whirr   (whirr) @whish
+* dt
+- tiếng rít (đạn, gió)
+ @whisht  
+*  dt
+- (đánh bài) Uýt (một lối đánh bài)
+*  thán từ: (whisht) 
+@whisk  
+*  dt
+- sự cử động mau lẹ; cái lướt nhanh, động tác vút nhanh; cái vẫy nhẹ
+
++ a whisk of the tail: cái vẫy đuôi nhẹ
+- phất trần, chổi quét bụi; cái xua ruồi
+- cái đánh trứng, cái đánh kem
+*  ngdgt
+- vụt, đập vút vút
+
++ to whisk the air: đập vút vút vào không khí
+- vẫy (đuôi)
+- đánh (trứng, kem...)
+*  ndgt
+- lướt nhanh như gió
+!to whisk along
+- lôi nhanh đi
+!to whisk away
+- xua (ruồi)
+- lấy nhanh, đưa (mang) nhanh đi, lấy biến đi (cái gì)
+- gạt thầm, chùi vội (nước mắt)
+- đi vun vút
+!to whisk off
+- đưa (mang) nhanh ra khỏi; lấy biến đi
+
+@whiskered  
+*  tt
+- có tóc mai dài (người)
+- có râu, có ria (mèo, chuột...)
+
+@whiskers  
+*  dt số nhiều
+- tóc mai dài (người)
+- râu, ria (mèo, chuột)
+
+@whiskey
+* dt
+- rượu uytky
+ @whiskified
+* tt
+- sặc mùi rượu (người nghiện rượu)
+ @whisky   (whisky) @whisky-liver  
+*  dt
+- (y học) bệnh x gan vì rượu
+
+@whisley   (whisky) @whisper  
+*  dt
+- tiếng nói thầm, tiếng xì xào (của lá...); tiếng vi vu xào xạc (của gió...)
+
++ to talk in whispers (in a whisper): nói chuyện thì thầm
+- tin đồn kín, tiếng đồn kín; lời xì xào bàn tán nhỏ to
+- lời nhận xét rỉ tai
+- lời gợi ý bí mật
+*  dgt
+- nói thầm; xì xào (lá); xào xạc (gió)
+- xì xào bàn tán
+- bí mật phao lên
+
+@whisperer  
+*  dt
+- người hay nói thầm, người hay thì thầm
+
+@whispering  
+*  dt
+- tiếng nói thầm, tiếng thì thầm; tiếng xì xào, tiếng xào xạc
+- tiếng đồn bậy; lời xì xào bậy bạ
+
+@whist  
+*  dt
+- (đánh bài) Uýt (một lối đánh bài)
+*  thán từ: (whisht) 
+@whistle  
+*  dt
+- sự huýt sáo; sự huýt còi; sự thổi còi; tiếng huýt gió; tiếng còi
+- tiếng hót (chim); tiếng rít (gió); tiếng réo (đạn)
+- tiếng còi hiệu
+- cái còi
+- (thông tục) cổ, cuống họng
+*  ndgt
+- huýt sáo; huýt còi, thổi còi
+- hót (chim); rít (gió); réo (đạn)
+*  ngdgt
+- huýt sáo; huýt gió gọi
+
++ to whistle a song: huýt sáo một bài hát
+
++ to whistle a dog: huýt gió gọi chó
+!to whistle for
+- huýt gió để gọi
+!to whistle past
+- vèo qua (đạn)
+!to shistle someone down the wind
+- bỏ ri người nào
+!you can whistle for it
+- thôi không mong gì được đâu
+
+@whistler  
+*  dt
+- người hay huýt gió, người hay huýt sáo; chim hay hót
+- ngựa thở khò khè
+
+@whistle-stop  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) ga xép
+- sự dừng lại trên đường đi vận động bầu cử (để nói chuyện với cử tri)
+
+@whit  
+*  dt
+- not a whit; no whit chẳng tí nào, tuyệt đối không
+
++ there's not a whit of truth in the statement: trong lời tuyên bố không có tí sự thật nào
+
+@white  
+*  tt
+- trắng, bạch, bạc
+
++ white hair: tóc bạc
+- tái mét, xanh nhợt, trắng bệch
+
++ to turn (go) white: tái đi, nhợt nhạt
+
++ to bleed white: lấy máu làm cho (người bệnh) tái đi; (nghĩa bóng) bòn rút hết của, làm cho khánh kiệt
+
++ to be as white as a sheet: xanh như tàu lá
+- trong, không màu sắc (nước, không khí...)
+- (nghĩa bóng) ngây th, trong trắng; tinh, sạch, sạch sẽ; (nghĩa bóng) vô tội
+
++ to have white hands: có tay sạch; (nghĩa bóng) vô tội; lưng thiện
+- (chính trị) (thuộc) phái quân chủ; phn cách mạng, phn động
+!white elephant
+- voi trắng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) vật cồng kềnh đắt tiền mà không có ích gì lắm
+!to show the white feather
+- (xem) feather
+!white light
+- ánh sáng mặt trời
+- (nghĩa bóng) nhận xét khách quan
+!white war
+- chiến tranh không đổ máu, chiến tranh kinh tế
+!while witch
+- thầy phù thuỷ chỉ làm điều thiện
+*  dt
+- màu trắng
+- sắc tái, sự tái nhợt
+
++ her face was a deadly white: mặt cô ta tái nhợt di như thây ma
+- vi trắng, quần áo trắng, đồ trắng
+
++ to be dressed in white: mặc đồ trắng
+- lòng trắng (trứng); tròng trắng (mắt)
+
++ the white of an egg: lòng trắng trứng
+
++ the white of the eye: tròng trắng mắt
+- bột trắng (mì, đại mạch...)
+- người da trắng
+- (y học) khí hư
+
+@white
+- trắng
+ @white alloy   (white_alloy) @white bear  
+*  dt
+- (động vật học) gấu trắng
+
+@white coal  
+*  dt
+- than trắng, sức nước
+
+@white coffee  
+*  dt
+- cà phê sữa
+
+@white collar  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) công chức
+
+@white heat  
+*  dt
+- nhiệt độ nóng trắng
+- (nghĩa bóng) cn giận điên lên
+
+@white horses  
+*  dt số nhiều
+- sóng bạc đầu
+
+@white house  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) nhà trắng
+
+@white iron  
+*  dt
+- thiếc, sắt tây
+
+@white meat  
+*  dt
+- thịt trắng (gà, thỏ, bê, lợn)
+
+@white metal   (white_alloy) @White noise
+- (Econ) Nhiễu trắng.
+: Mô tả sự biến thiên hoàn toàn mang tính ngẫu nhiên và không có các phần tử mang tính hệ thống nào.
+ @white paper  
+*  dt
+- (chính trị) sách trắng (của chính phủ)
+
+@White plan
+- (Econ) Kế hoạch White.
+: Kế hoạch của Mỹ cho Quỹ ổn định quốc tế được đề xuất tại hội nghị tài chính và tiền tệ Liên hợp quốc tổ chức tại Bretton Woods, New Hampshire năm 1944.
+ @white rage  
+*  dt
+- cn giận điên lên, cn giận tái người
+
+@white satin
+* dt
+- <lóng> rượu gin
+ @white slave  
+*  dt
+- con gái bị lừa đưa ra nước ngoài làm đĩ
+
+@whitebait  
+*  dt
+- cá trắng nhỏ
+
+@white-bear
+* dt
+- (dgt) gấu trắng
+ @white-beard  
+*  dt
+- người già c
+
+@white-blooded
+* tt
+- thiếu máu
+ @white-book  
+*  dt
+- (ngoại giao) sách trắng
+
+@whitecap
+* dt
+- sóng bạc đầu
+ @white-caps  
+*  dt số nhiều
+- sóng bạc đầu
+
+@white-coal
+* dt
+- than trắng,  thủy năng
+ @white-collar
+* tt
+- (nói về công việc, người lao động...) không làm bằng chân tay; lao động trí óc
+
++  white-collar worker:nhân viên văn phòng
+ @White-collar worker
+- (Econ) Công nhân cổ trắng, bàn giấy.
+: Người lao động và người sử dụng lao đông không tham gia vào lao động chân tay và những người thực hiện những công việc mang chức năng lãnh đạo.
+ @whited
+* tt
+- (từ hiếm) trắng ra, hoá trắng
+
++  whited sepulchre:kẻ đạo đức giả
+ @whited sepulchre  
+*  dt
+- kẻ đạo đức gi
+
+@white-fish
+* dt
+- cá thịt trắng (như) cá hồi; cá moruy...
+- (động vật) cá hồi trắng, cá ngần
+ @whiteguard  
+*  dt
+- tên bạch vệ
+*  tt
+- (thuộc) bạch vệ
+
+@whitehall
+* dt
+- đường phố có nhiều cơ quan của chính phủ (ở Luân Đôn)
+- Rumours are circulating in Whitehall
+- có tin đồn đang lan truyền ở khu Whitehall
+- chính phủ Anh
+
++  Whitehall is @white-hot
+* tt
+- bị nung đỏ trắng
+- (nghĩa bóng) giận điên lên
+- (từ Mỹ,  (từ lóng)) bị truy nã vì trọng tội
+ @white-lipped  
+*  tt
+- môi tái đi (vì sợ h i)
+
+@white-livered  
+*  tt
+- nhát gan, nhút nhát
+
+@whiten  
+*  ngdgt
+- làm trắng; làm bạc (tóc)
+- sn trắng, quét vôi trắng (lên tường...)
+- mạ thiếc (kim loại)
+*  ndgt
+- hoá trắng, trắng ra
+- tái, tái nhợt đi, trắng bệch ra (mặt)
+
+@whiteness  
+*  dt
+- sắc trắng, màu bạc
+- sắc tái nhợt (mặt...)
+- (nghĩa bóng) sự ngây th, sự trong trắng
+
+@whitening  
+*  dt
+- sự chuội, sự tẩy trắng, sự làm cho trắng
+- (kỹ thuật) sự mạ thiếc (kim loại)
+- vôi bột trắng (để quét tường)
+
+@white-skin
+* dt
+- người da trắng (người)
+ @white-slave  
+*  tt
+- white-slave traffic nghề lừa con gái đưa ra nước ngoài làm đĩ
+
+@whitesmith  
+*  dt
+- thợ thiếc
+
+@whitethorn   (whitethorn) @white-throat  
+*  dt
+- (động vật học) chim chích cổ bạc
+
+@whitewash  
+*  dt
+- nước vôi (quét tường)
+- (nghĩa bóng) sự thanh minh; sự minh oan
+*  ngdgt
+- quét vôi trắng
+- (nghĩa bóng) thanh minh; minh oan
+
++ to whitewash the reputation of a person: thanh minh để giữ thanh danh cho ai
+- (dạng bị động) được toà án xử và được kinh doanh lại (người vỡ nợ)
+
+@whitewasher  
+*  dt
+- người quét vôi trắng
+- (nghĩa bóng) người thanh minh; người minh oan
+
+@whitewashing  
+*  dt
+- sự quét vôi trắng
+- (nghĩa bóng) sự thanh minh; sự minh oan
+
+@whitey
+* tt
+- trắng nhờ nhờ
+* dt
+- (từ Mỹ, khinh) tên da trắng (ngôn ngữ người da trắng)
+ @whither  
+*  dt
+- (từ cổ,nghĩa cổ) đâu, đến đâu, tới đâu
+
++ whither to you go?: anh đi đâu đấy?
+
++ let him go whither he will: để nó muốn đi đâu thì đi
+
++ whither the United States?: nước Mỹ sẽ đi tới đâu?
+- ni mà
+
++ he stopped at the place whither he had been directed: nó dừng lại ở ni mà người ta chỉ dẫn cho nó
+*  dt
+- (từ cổ,nghĩa cổ) ni đến
+
+@whithersoever  
+*  dt
+- (từ cổ,nghĩa cổ) đến bất kỳ ni nào, đến đâu cũng được
+
+@whitherto
+* dt
+- (cổ) đâu; đi đâu
+ @whiting  
+*  dt
+- vôi bột trắng (để quét tường)
+
+@whitish  
+*  tt
+- hi trắng
+
+@whitleather  
+*  dt
+- da crômê
+
+@whitlow  
+*  dt
+- (y học) chín mé
+
+@whitsun
+* dt
+- ngày chủ nhật lễ Hiện xuống và những ngày gần đó; tuần lễ Hiện xuống (cũng) Whit
+ @whittle  
+*  dt
+- (từ cổ,nghĩa cổ) dao bầu
+*  ngdgt
+- chuốt, gọt, vót; đẽo (bằng dao)
+!to whittle at
+- gọt
+!to whittle away (down)
+- gọt, đẽo
+- bớt dần, cắt xén dần, xén bớt
+
+@whittling  
+*  dt
+- mnh đẽo
+
+@whity
+* tt
+- trắng nhạt
+ @whiz   (whizz) @whiz-kid
+* dt
+- người thành đạt rất nhanh; người lên như diều
+
++  the new manager is a real whiz-kid:ông giám đốc mới quả là lên như diều gặp gió
+ @whizz
+* dt
+- tiếng rít, tiếng vèo (của đạn...)
+* ndgt
+- rít, vèo
+ @whizz kid  
+*  dt
+- thần đồng
+- người trẻ mà uy tín lớn
+
+@whizz-bang  
+*  dt
+- (quân sự),  (từ lóng) đạn đại bác cỡ nhỏ đi rất nhanh
+
+@whizzer
+* dt
+- cái gì rít (réo) trên không
+- máy sấy (quay nhanh phát ra tiếng réo)
+ @who  
+*  đại từ nghi vấn
+- ai, người nào, kẻ nào, người như thế nào
+
++ who came?: người nào đ  đến?
+
++ who is speaking?: ai đang nói đó?
+*  đại từ quan hệ
+- (những) người mà; hắn, họ
+
++ the witnesses were called, who declared...: những nhân chứng được gọi đến, đ  khai...
+
++ this is the man who wanted to see you: đây là người muốn gặp anh
+
+@whoa   (whoa) @whodunit   (whodunnit) @whodunnit   (whodunnit) @whoe'er  
+*  đại từ
+- (th ca) (như) whoever
+
+@whoever  
+*  đại từ
+- ai, người nào, bất cứ ai, bất cứ người nào, dù ai
+
++ to everybody whoever he may be: cho tất c mọi người dù là ai
+
++ whoever says that is wrong: bất cứ ai nói điều đó cũng là sai
+
++ whoever you are: dù anh là ai
+
+@whole  
+*  tt
+- bình an vô sự, không suy suyển, không hư hỏng
+
++ to escape with a whole skin: thoát khỏi mà bình an vô sự
+
++ to come back whole: trở về bình an vô sự
+- đầy đủ, nguyên vẹn, nguyên chất, trọn vẹn, toàn bộ
+
++ my whole energy: toàn bộ nghị lực của tôi
+
++ to swallow it whole: nuốt chửng
+
++ the whole country: toàn quốc
+
++ by three whole days: suốt c ba ngày
+- (từ cổ,nghĩa cổ) khoẻ mạnh
+!to do something with one's whole heart
+- toàn tâm toàn ý làm việc gì
+*  dt
+- toàn bộ, tất c, toàn thể
+
++ the whole of my money: tất c tiền của tôi
+
++ I cannot tell you the whole [of it]: tôi không thể kể cho anh biết tất c được
+
++ as a whole: toàn bộ, tất c, thành một khối; nói chung
+
++ upon (on) the whole: tổng cộng, tính hết mọi lẽ, tổng quát
+- (toán học) tổng
+
+@whole
+- toàn bộ, tất cả, nguyên
+ @whole meal  
+*  dt
+- bột chưa rây
+
+@whole note
+* dt
+- nốt tròn (nốt nhạc viết dài nhất được dùng phổ biến, độ dài bằng hai nốt trắng)
+ @whole number  
+*  dt
+- (toán học) số nguyên
+
+@whole-hearted  
+*  tt
+- toàn tâm, toàn ý, một lòng một dạ
+
+@wholehearted
+* tt
+- toàn tâm, toàn ý, một lòng một dạ
+ @wholeheartedly
+* dt
+- toàn tâm toàn ý; một lòng một dạ; hết lòng
+ @whole-heartedness  
+*  dt
+- sự toàn tâm toàn ý
+
+@wholeheartedness
+* dt
+- sự toàn tâm toàn ý
+ @whole-length  
+*  tt
+- toàn thân (bức chân dung)
+
+@wholeness  
+*  dt
+- sự đầy đủ, sự trọn vẹn, sự nguyên vẹn, sự nguyên chất
+
+@wholeness
+- tính [toàn bộ, nguyên]
+ @wholesale  
+*  dt
+- (thưng nghiệp) sự bán buôn, sự bán sỉ
+
++ to sell by wholesale: bán buôn
+
++ wholesale and retail: bán buôn và bán lẻ
+- (nghĩa bóng) c lô, c khối
+*  tt & dt
+- (thưng nghiệp) buôn, sỉ
+
++ wholesale trade: bán buôn
+
++ wholesale price: giá bán buôn
+- (nghĩa bóng) quy mô lớn; hàng loạt, hàng đống
+
++ wholesale slaughter: sự tàn sát hàng loạt
+
+@Wholesale
+- (Econ) Buôn bán, bán sỉ.
+: Giai đoạn trung gian trong quá trình phân phối sản phẩm
+ @wholesale
+- (toán kinh tế) (mua; bán) buôn
+ @Wholesale banking
+- (Econ) Dịch vụ ngân hàng bán buôn.
+: Các giao dịch quy mô lớn của các khoản tiền gửi chủ yếu tập trung vào nhóm các thị trường vốn có liên quan mật thiết với nhau và đã phát triển mạnh từ giữa những năm 60 - các thị trường liên ngân hàng, chính quyền địa phương, chứng chỉ tiền gửi và đồng tiền Châu Âu.
+ @wholesaler  
+*  dt
+- người bán buôn
+
+@wholesome  
+*  tt
+- lành, không độc
+
++ wholesome climate: khí hậu lành
+
++ wholesome food: thức ăn lành
+- khoẻ mạnh, tráng kiện
+
++ a wholesome person: một người khoẻ mạnh
+- (nghĩa bóng) bổ ích, lành mạnh
+
++ wholesome advice: lời khuyên bổ ích
+
++ a wholesome book: quyển sách lành mạnh
+
+@wholesomeness  
+*  dt
+- tính chất lành
+- sự khoẻ mạnh, sự tráng kiện
+- (nghĩa bóng) tính chất bổ ích, tính chất lành mạnh
+
+@wholly  
+*  dt
+- toàn bộ, hoàn toàn
+
++ I don't wholly agree: tôi không hoàn toàn đồng ý
+
++ few men are wholly bad: ít có ai lại hoàn toàn xấu
+
+@whom  
+*  đại từ nghi vấn
+- ai, người nào
+
++ whom did you see?: anh đ  gặp ai thế?
+
++ of whom are you seaking?: anh nói ai thế?
+*  đại từ quan hệ
+- (những) người mà
+
++ the man whom you saw: người mà anh thấy
+
++ the men about whom we were speaking: những người mà chúng ta nói tới
+
+@whomever  
+*  đại từ
+- ai, người nào; bất cứ ai, bất cứ người nào, dù ai
+
++ he took off his hat to whomever he met: gặp ai nó cũng bỏ mũ chào
+
+@whomsoever  
+*  đại từ
+- dạng nhấn mạnh của whomever
+
+@whoo
+- interj
+- ồ! à! ôi! (chỉ ngạc nhiên hoặc đau buồn)
+ @whoop  
+*  thán từ
+- húp! (tiếng thúc ngựa)
+*  dt
+- tiếng kêu, tiếng la lớn, tiếng reo, tiếng hò reo
+
++ whoops of joy: những tiếng reo mừng
+- tiếng ho khúc khắc
+*  ndgt
+- kêu, la, reo, hò reo
+- ho khúc khắc
+!to whoop for
+- hoan hô
+!to whoop it up for
+- (thông tục) vỗ tay hoan nghênh
+
+@whoop-de-do  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sự vui nhộn
+- sự tho luận sôi nổi
+- sự qung cáo rùm beng
+
+@whoopee  
+*  thán từ
+- hoan hô!['wupi:]
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sự vui nhộn
+
++ to make whoopee: vui nhộn
+
+@whooping-cough  
+*  dt
+- (y học) ho gà
+
+@whop  
+*  ngdgt
+- (từ lóng) đánh đập (người nào)
+- đánh bại, thắng (đội khác)
+- (từ Mỹ,nghĩa Mỹ) ng  đánh bịch một cái
+
+@whopper  
+*  dt
+- (từ lóng) cái to lớn khác thường
+- điều nói dối tr trẽn; điều nói láo không ngượng mồm
+
+@whopping  
+*  tt
+- (từ lóng) to lớn khác thường
+
++ a whopping lie: điều nói dối tr trẽn; điều nói láo không ngượng mồm
+
+@whore  
+*  dt
+- đĩ, gái điếm
+!to play the whore
+- ăn chi truỵ lạc
+*  ndgt
+- làm đĩ, m i dâm (đàn bà)
+- chi gái (đàn ông)
+
+@whoredom  
+*  dt
+- nghề làm đĩ, nghề m i dâm
+- sự truỵ lạc
+
+@whorehouse
+* dt
+- (từ cổ) nhà thổ; lầu xanh
+ @whore-master   (whore-monger) @whoremaster
+- Cách viết khác : whoremonger 
+ @whore-monger   (whore-monger) @whoremonger
+- xem whore-master
+ @whoreson  
+*  dt
+- con đẻ hoang
+
+@whorl  
+*  dt
+- (thực vật học) vòng (lá, cánh hoa...)
+- (động vật học) vòng xoắn
+
++ the whorl of a shell: vòng xoắn của vỏ ốc
+- (nghành dệt) con lăn cọc sợi
+
+@who's who  
+*  dt
+- danh sách và lược sử những người có tên tuổi
+
+@whose  
+*  đại từ sở hữu
+- của ai
+
++ whose book are you reading?: anh đọc cuốn sách của ai đấy?
+- của người mà, mà
+
++ this is the man whose house we have just passed: đây là người mà chúng ta vừa đi qua nhà
+
+@whoso  
+*  đại từ
+- (từ cổ,nghĩa cổ) (như) whoever
+
+@whosoe'er  
+*  dt
+- (th ca) (như) whoever
+
+@whosoever  
+*  đại từ
+- dạng nhấn mạnh của whoever
+
+@whuff
+* ndgt
+- thở phì phì; thở hồng hộc
+ @why  
+*  dt
+- tại sao, vì sao
+
++ why was he late?: sao anh ấy đến muộn?
+
++ why not?: tại sao không?
+
++ that's the reason why: đó là lý do vì sao
+
++ not to know why: không biết tại sao
+*  dt,  số nhiều whys
+- lý do, lý do tại sao
+*  thán từ
+- sao!, thế nào!
+
++ why, it's quite easy!: sao, thật là dễ!
+
+@whys
+* dt
+- lý do, lý do tại sao
+ @

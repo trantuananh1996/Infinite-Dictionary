@@ -1,0 +1,1501 @@
+@dual  
+*  tt
+- hai, lưỡng, kép, đôi; hai mặt; gấp đôi; tay đôi
+
++ dual ownership: quyền sở hữu tay đôi
+
++ dual control: sự điều khiển tay đôi
+- (ngôn ngữ học) đôi
+- (toán học) đối ngẫu
+
++ dual theorem: định lý đối ngẫu
+*  dt,  (ngôn ngữ học)
+- số đôi
+- từ thuộc số đôi
+
+@dual
+- đối ngẫu
+ @dual carriageway
+* dt
+- xa lộ hai chiều
+ @dual channel controller
+- (Tech) bộ điều khiển kênh kép (đọc-viết)
+ @Dual decision hypothesis
+- (Econ) Giả thuyết quyết định kép
+: Trong những phát triển hiện đại của KINH TẾ HỌC KEYNES có lập luận cho rằng hàm cung và cầu thông thường không cho thấy những tín hiệu xác đáng về điểm cân bằng trên thị trường.
+ @dual disk drive
+- (Tech) bộ quay đĩa đôi, bộ quay đĩa kép
+ @dual gate FET
+- (Tech) trănsito FET hai cổng
+ @Dual labour market hypothesis
+- (Econ) Giả thiết thị trường lao động hai cấp.
+: Giả thuyết cho rằng thị trường lao động được phân thành 2 cấp: Cấp một và cấp hai.Những công việc có lương cao, có triển vọng về đề bạt, an toàn và trợ cấp cao, tạo thành khu vực cấp một của một nền kinh tế lưỡng cấp. Trong khu vực cấp hai, tiền lương được hình thành do cạnh tranh, công việc đủ nhiều để có thể sử dụng hết tất cả công nhân, tuy nhiên những công việc này có lương thấp, không ổn định và nói chung là không hấp dẫn. Những công nhân trong khu vực cấp hai do đó phải chịu tình trạng hữu nghiệp phiếm dụng.
+ @dual processor
+- (Tech) bộ xử lý kép
+ @dual processor configuration
+- (Tech) cấu hình bộ xử lý kép
+ @dual standard TV receiver
+- (Tech) máy thu truyền hình hai tiêu chuẩn
+ @dual tone multifrequency (DTMF)
+- (Tech) đa tần số song âm
+ @dual trace oscilloscope
+- (Tech) máy đo sóng hai tia
+ @dual-control
+* tt
+- có hai bộ điều khiển liên hệ nhau, cho phép một trong hai người có thể điều khiển được; điều khiển tay đôi
+
++  a dual-control car:xe dùng để dạy lái (trong đó, người dạy có thể vận hành khớp ly hợp và phanh)
+ @dual-in-line package (DIP)
+- (Tech) bọc hai dẫy chân cắm
+ @dualism  
+*  dt
+- (triết học) thuyết nhị nguyên
+
+@Dualism, theory of
+- (Econ) Lý thuyết nhị nguyên
+: Thuyết này ban đầu do Mathus đề xướng, ông xem nền kinh tế gồm 2 khu vực chính: nông nghiệp và công nghiệp; chia nền kinh tế thành 2 khu vực và xem xét sự tác động qua lại giữa chúng được coi là làm tăng sự hiểu biết về quá trình phát triển.
+ @dualist  
+*  dt
+- người theo thuyết nhị nguyên
+
+@dualistic  
+*  tt
+- (triết học) nhị nguyên
+- (toán học) đối ngẫu
+
++ dualistic correspondence: sự tương ứng đối ngẫu
+
++ dualistic transformation: phép biến đổi đối ngẫu
+
+@duality  
+*  dt
+- tính hai mặt
+- (toán học) tính đối ngẫu
+
+@Duality
+- (Econ) Phương pháp đối ngẫu.
+: Phương phá dẫn xuất các hệ phương trình cầu phái sinh phù hợp với hành vi tối ưu hoá của người tiêu dùng hay sản xuất bằng cách đơn giản là vi phân hóa một hàm thay thế cho việc giải một bài toán tối ưu có ràng buộc.
+ @duality
+- tính đối ngẫu
+ @dualize  
+*  ngdgt
+- làm thành hai mặt
+- chia làm hai, chia đôi
+
+@dual-port memory
+- (Tech) bộ nhớ hai cửa
+ @dual-purpose
+* tt
+- nhằm vào hai mục đích
+ @duarchy
+* dt
+- nhị đầu chính trị
+ @dub  
+*  dt
+- vũng sâu (ở những dòng suối)
+- (từ lóng) vũng lầy; ao
+*  ngdgt
+- phong tước hiệp sĩ (cho ai, bằng cách lấy gươm gõ nhẹ vào vai)
+- phong cho cái tên; gán cho cái tên, đặt cho cái tên
+
++ to dub somebody quack: gán cho ai cái tên lang băm
+- bôi mỡ (vào da thuộc)
+- sang sửa (con ruồi giả làm mồi câu)
+*  ngdgt
+- (điện ảnh) lồng tiếng, lồng nhạc vào phim
+
+@dubbin  
+*  dt
+- mỡ (để bôi vào da thuộc)
+
+@dubbing  
+*  dt
+- sự phong tước hiệp sĩ (bằng cách lấy gươm gõ nhẹ vào vai)
+- sự phong tên cho; sự gán tên cho, sự đặt tên cho
+- sự bôi mỡ (vào da thuộc); mỡ (để bôi vào da thuộc)
+- sự sang sửa (ruồi giả làm mồi câu)
+*  dt
+- (điện ảnh) sự lồng tiếng, sự lồng nhạc
+
+@dubiety  
+*  dt
+- sự nghi ngờ, sự ngờ vực, sự hồ nghi
+- điều nghi ngờ
+
+@dubious  
+*  tt
+- lờ mờ, mơ hồ, minh bạch, không rõ ràng
+
++ a dubious light: ánh sáng lờ mờ
+
++ a dubious answer: câu trả lời lờ mờ
+- đáng ngờ, không đáng tin cậy; không chắc chắn, còn hồ nghi
+
++ a dubious transaction: việc giao dịch kinh doanh đáng ngờ
+
++ a dubious friend: một người bạn không đáng tin cậy
+
++ a dubious scheme: một kế hoạch không chắc chắn
+- nghi ngờ, ngờ vực; do dự, lưỡng lự
+
+@dubiously
+* dt
+- hồ nghi, ngờ vực
+ @dubiousness  
+*  dt
+- sự nghi ngờ, sự ngờ vực; sự hồ nghi
+- tính đáng ngờ, tính không đáng tin cậy
+
+@dubitable
+* tt
+- đáng ngờ; khả nghi; không chắc chắn
+ @dubitate
+* ndgt
+- (từ hiếm) hoài nghi; ngờ vực; lưỡng lự
+ @dubitation  
+*  dt
+- sự nghi ngờ, sự ngờ vực; sự hồ nghi, sự do dự, sự lưỡng lự
+
+@dubitative  
+*  tt
+- nghi ngờ, ngờ vực, hồ nghi, do dự, lưỡng lự
+
+@ducal  
+*  tt
+- (thuộc) công tước; như công tước
+- có tước công
+
+@ducat  
+*  dt
+- đồng đuca (tiền vàng xưa ở Châu âu)
+- (số nhiều) tiền
+
+@duchess  
+*  dt
+- vợ công tước; vợ goá của công tước
+- nữ công tước
+- bà bệ vệ
+- (từ lóng) vợ anh bán hàng rong (cá, hoa quả)
+
+@duchesse
+- công tước phu nhân
+- nữ công tước
+ @duchy  
+*  dt
+- đất công tước
+- tước công
+
+@duck  
+*  dt
+- con vịt, vịt cái
+- thịt vịt
+-(thân mật) người yêu quí; người thân mến
+- (thể dục,thể thao) ván trắng (crikê) ((cũng) duck's egg)
+!a lame ducks
+- người tàn tật, người què quặt
+- người vỡ nợ, người phá sản
+- người thất bại
+- (hàng không), lóng máy bay hỏng
+!like a duck in a thunderstorm
+- ngơ ngác thểu não như gà bị bão
+!like water off a duck's back
+- như nước đổ dầu vịt, như nước đổ lá khoai
+!it's a fine for young ducks
+- trời mưa
+!to make ducks and drakes
+- chơi ném thia lia
+!to play ducks and drakes with
+- phung phí
+!to take to something like a duck to water
+- đến chỗ nào (làm cái gì...) cảm thấy được tự do vùng vẫy như cá gặp nước
+!in two shakes of a duck's tall
+- một thoáng, một lát
+*  dt
+- vải bông dày (may buồm, áo ngoài của thuỷ thủ)
+- (số nhiều) quần vải bông dày
+*  dt
+- (quân sự), thục xe lội nước
+*  dt
+- sự ngụp lặn; động tác ngụp lặn
+- động tác cúi (đầu) nhanh, động tác cúi thình lình (để né tránh, để chào...)
+*  ndgt
+- lặn; ngụp lặn
+- cúi nhanh, cúi thình lình (để né tránh, để chào...)
+*  ngdgt
+- dìm (ai) xuống nước
+- cúi nhanh, cúi thình lình (đầu)
+
+@duckbill  
+*  dt
+- (động vật học) thú mỏ vịt
+
+@duckboard
+* dt
+- ván lát (khi di chuyển trên mặt bùn lầy, trên mái nhà)
+ @duck-boards  
+*  dt số nhiều
+- đường hẹp lát ván (trong hào giao thông hoặc trên mặt bùn...)
+
+@ducker  
+*  dt
+- người nuôi vịt
+*  dt,  (động vật học)
+- chim lặn
+- chim hét nước, chim xinclut
+
+@ducket  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thẻ nghiệp đoàn
+
+@duck-hawk  
+*  dt
+- (động vật học) chim bồ cắt đồng lầy
+
+@ducking  
+*  dt
+- sự săn vịt trời
+*  dt
+- sự ngụp lặn, sự dìm
+
+@ducking-stool  
+*  dt
+- ghế dìm (buộc ở đầu ngọn sào, bắt người có tội ngồi vào để dìm xuống nước)
+
+@duck-legged  
+*  tt
+- có chân ngắn (như chân vịt); đi lạch bạch (như vịt)
+
+@duckling  
+*  dt
+- vịt con
+
+@duck-out  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (quân sự),  (từ lóng) sự đào ngũ
+
+@ducks and drakes
+* dt
+- trò chơi ném cho đá nẩy trên mặt nước
+ @duck's egg  
+*  dt
+- (thể dục,thể thao) vân trắng (crikê)
+-(ngôn ngữ nhà trường), lóng điểm không, "trứng" 
+
+@duck's meat   (duck's_meat) @duck-shot  
+*  dt
+- đạn bắn vịt trời
+
+@duckweed   (duck's_meat) @ducky  
+*  tt
+- xinh xẻo, kháu, kháu khỉnh
+- tốt, hay hay
+*  dt
+- em yêu quý; con yêu quý
+
+@duct  
+*  dt
+- ống, ống dẫn
+
++ biliary duct: (giải phẫu) ống mật
+
+@duct
+- (vật lí) ống, đường ngầm; kênh
+ @ductile  
+*  tt
+- mềm, dễ uốn
+- dễ kéo sợi (kim loại)
+- dễ uốn nắn, dễ bảo (người)
+
+@ductile
+- (cơ học) dẻo, kéo thành sợi được
+ @ductility  
+*  dt
+- tính mềm, tính dễ uốn
+- tính dễ kéo sợi (kim loại)
+- tính dễ uốn nắn, tính dễ bảo
+
+@ductility
+- tính dẻo, tính kéo sợi được
+ @ducting
+* dt
+- hệ thống các ống
+ @ductless  
+*  tt
+- không ống, không ống dẫn
+!ductless glands
+- (giải phẫu) tuyến nội tiết
+
+@ductule
+* dt
+- ống nhỏ; tiểu quản
+ @ductus
+* dt
+- (giải phẩu) ống
+- ductus arteriosus
+- ống động mạch
+
++  ductus vaginalis:âm đạo
+ @dud  
+*  dt,  (từ lóng)
+- bù nhìn, người rơm (đuổi chim) ((cũng) dud man)
+- đạn thổi, bom không nổ
+- người vô dụng, người bỏ đi; kế hoạch vô dụng, kế hoạch bỏ đi
+- (số nhiều) quần áo; quần áo rách
+*  tt
+- giả mạo; vô dụng, bỏ đi
+
+@duddie
+* tt, cũng duddy
+- rách rưới; tả tơi
+ @duddish
+* tt
+- ăn diện; chỉ có cái mã bên ngoài
+ @dude  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) công tử bột, anh chàng ăn diện
+
+@dudeen   (dudheen) @dudgeon  
+*  dt
+- sự tức giận, sự phẫn nộ
+
++ in high (deep, great) dudgeon: hết sức phẫn nộ, hết sức tức giận
+
+@dudheen   (dudheen) @dudish  
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) công tử bột, ăn diện
+
+@due  
+*  dt
+- quyền được hưởng; cái được hưởng
+
++ to give somebody his due: cho ai cái mà người ta có quyền được hưởng
+- món nợ (cho ai vay; vay của ai), tiền nợ; cái phải trả
+
++ to pay one's dues: trả nợ; trả cái mình phải trả
+
++ to claim one's dues: đòi nợ
+- (số nhiều) thuế
+
++ harbour dues: thuế bến
+- (số nhiều) hội phí, đoàn phí
+
++ party dues: đảng phí
+!for a full due
+- (hàng hải) mãi mãi, hoàn toàn
+*  tt
+- đến kỳ đòi, đến kỳ, đến hạn, phải trả (nợ...)
+
++ bill due on May 1st: hối phiếu trả vào ngay mồng 1 tháng 5;
+
++ to fall (become) due: đến kỳ phải trả, đến hạn
+- đáng, xứng đáng, thích đáng, đáng, đúng với quyền được hưởng, đúng với cái được hưởng
+
++ with due attention: với sự chú ý thích đáng
+
++ in due from: theo đúng thể thức
+
++ in due time: đúng giờ
+
++ to have one's due reward: được phần thưởng xứng đáng
+
++ after due consideration: sau khi có sự cân nhắc thích đáng, sau khi suy nghĩ kỹ
+- vì, do bởi, tại, nhờ có
+
++ it is due to him: tại hắn ta
+
++ due to one's negligence: do cẩu thả, do lơ đễnh
+
++ due to fog the boat arrived late: tại sương mù tàu đến chậm
+
++ the discovery is due to Newton: nhờ có Niu-tơn mà có phát minh
+- phải đến, phải (theo kế hoạch, theo quy định...)
+
++ the train is due at two o'clock: xe lửa phải đến vào lúc hai giờ
+
++ the train is due and overdue: xe lửa đáng lẽ phải đến và phải đến từ lâu rồi
+
++ he is due to speak at the meeting tonight: anh ta phải nói ở buổi mít tinh đêm nay
+
++ I'm due to start early: tôi phải khởi hành sớm
+*  dt
+- đúng
+
++ to go due north: đi đúng hướng bắc
+
+@duebill
+* dt
+- (thương nghiệp) khoản tiền cho vay
+ @duel  
+*  dt
+- cuộc đọ kiếm tay đôi, cuộc đọ súng tay đôi (để thanh toán một mối bất hoà, một mối hận thù...)
+
++ an artillery duel: một cuộc đọ pháo
+- cuộc tranh chấp tay đôi (giữa hai người, hai đảng phái...)
+*  ndgt
+- đọ kiếm tay đôi, đọ súng tay đôi
+- tranh chấp tay đôi
+
+@duellist  
+*  dt
+- người (tham gia cuộc) đọ kiếm tay đôi, người (tham gia cuộc) đọ súng tay đôi
+
+@duenna  
+*  dt
+- bà đi kèm (các cô gái) (ở những gia đình quý tộc Tây ban nha)
+
+@duet
+* dt
+- <nhạc> bản nhạc cho bộ đôi, bản đuyê (hát hoặc đàn)
+- cặp đôi, bộ đôi
+- cuộc đàm thoại
+- cuộc đấu khẩu
+ @duett  
+*  dt
+- (âm nhạc) bản nhạc cho bộ đôi, bản đuyê (hát hoặc đàn)
+- cặp đôi, bộ đôi
+- cuộc đàm thoại
+- cuộc đấu khẩu
+
+@duettist  
+*  dt
+- (âm nhạc) người biểu diễn bản nhạc cho bộ đôi, người biểu diễn bản đuyê
+
+@duetto
+* dt
+- xem duet
+ @duff  
+*  dt
+- (tiếng địa phương) bột nhào
+- bánh putđinh nho khô ((thường) plum duff)
+*  ngdgt
+- (từ lóng) làm giả như mới, "sơn mạ lại" (đồ hàng...)
+- (Uc) ăn trộm và đổi dấu (vật nuôi)
+- (thể dục,thể thao) đánh lỗi, đánh trật (quả bóng gôn)
+
+@duffel   (duffle) @duffel coat   (duffle_coat) @duffer  
+*  dt
+- người bán đồ tập tàng làm giả như mới; người bán những hàng lừa bịp là hàng lậu
+- người bán hàng rong
+- tiền giả; bức tranh giả
+- mỏ không có than; mỏ không có quặng, người bỏ đi; người ngớ ngẩn, người xuẩn ngốc
+
+@duffle   (duffle) @duffle coat   (duffle_coat) @dug  
+*  thời quá khứ & động tt quá khứ của dig
+*  dt
+- vú, đầu vú, núm vú (của thú cái, không dùng cho đàn bà trừ khi ngụ ý khinh bỉ)
+
+@dugong  
+*  dt,  số nhiều không đổi
+- (động vật học) cá nược (loài thú thuộc bộ lợn biển)
+
+@dug-out  
+*  dt
+- thuyền độc mộc
+- hầm trú ẩn (trong đường hào)
+- (từ lóng) sĩ quan phục viên tái ngũ
+
+@dugout
+- thuyền độc mộc
+- hầm trú ẩn
+ @duiker  
+*  dt
+- (động vật học) linh đương Nam phi
+
+@duke  
+*  dt
+- công tước
+- (từ lóng) nắm tay, nắm đấm
+!to dine with Duke Humphrey
+- (xem) dine
+
+@dukedom  
+*  dt
+- đất công tước
+- tước công
+
+@dukeling
+* dt
+- tiểu công tước; con trai công tước
+ @dulcet  
+*  tt
+- dịu dàng, êm ái, êm dịu (âm thanh)
+
+@dulcification  
+*  dt
+- sự làm dịu, sự làm êm dịu
+
+@dulcify  
+*  ngdgt
+- làm dịu, làm êm dịu
+
+@dulcimer  
+*  dt
+- (âm nhạc) đàn ximbalum
+
+@dull  
+*  tt
+- chậm hiểu, tối dạ, ngu đần, đần độn
+- không tinh, mờ (mắt); không thính, nghễnh ngãng (tai)
+
++ to be dull of ear: nghễnh ngãng; tai nghe không thính
+- vô tri vô giác (vật)
+
++ dull stones: những hòn đá vô tri vô giác
+- cùn (dao...)
+- đục, mờ đục, xỉn, xám xịt
+
++ dull colour: màu xám, xám xịt lại
+
++ dull light: ánh sang mờ đục
+- cảm thấy lờ mờ, cảm thấy không rõ rệt, âm ỉ
+
++ dull pain: đau âm ỉ
+- thẫn thờ, uể oải, chậm chạp (người, vật)
+- ứ đọng, trì chậm, bán không chạy, ế
+
++ dull goods: hàng bán không chạy, hàng ế
+
++ dull trade: việc buôn bán trì chậm
+- đều đều, buồn tẻ, chán ngắt, tẻ ngắt, buồn nản
+
++ a dull life: cuộc sống buồn tẻ
+
++ a dull sermon: bài thuyết giáo chán ngắt
+
++ to feet dull: cảm thấy buồn nản
+- tối tăm, âm u, u ám, ảm đạm
+
++ dull weather: tiết trời u ám
+*  ngdgt
+- làm ngu đàn, làm đần dộn
+- làm cùn
+- làm mờ đi, làm mờ đục, làm xỉn
+- làm âm ỉ, làm đỡ nhức nhối, làm đỡ nhói (cơn đau)
+- làm buồn nản
+- làm tối tăm, làm u ám, làm ảm đạm
+*  ndgt
+- hoá ngu đần, đần độn
+- cùn đi
+- mờ đi, mờ đục, xỉn đi
+- âm ỉ, đỡ nhức nhối, đỡ đau (cơn đau)
+- tối sầm lại, thành u ám, thành ảm đạm
+
+@dullard  
+*  dt
+- người ngu đần, người đần độn
+
+@dullish  
+*  tt
+- hơi ngu đần, hơi đần độn
+- hơi mờ đục, hơi xỉn đi
+- khá buồn chán, khá buồn tẻ, khá chán
+- hơi tối tăm, hơi u ám, hơi ảm đạm
+
+@dullness   (dullness) @dullsighted
+* tt
+- thị lực kém
+ @dully  
+*  dt
+- ngu đần, đần độn
+- lờ mờ, không rõ rệt
+- đục; mờ đục, xỉn, xám ngoẹt
+- đều đều, buồn tẻ, chán ngắt
+
+@dulness   (dullness) @dulosis
+* dt
+- hiện tượng cộng sinh nô lệ (kiến)
+ @dulse
+* dt
+- (thực vật) tảo dun
+ @duly  
+*  dt
+- đúng dắn, thích đáng, chính đáng
+- đủ
+- đúng giờ, đúng lúc
+
+@duma  
+*  dt
+- (sử học) viện Đu-ma (Nga)
+
+@dumb  
+*  tt
+- câm, không nói
+
++ deaf and dumb: câm và điếc
+
++ dumb show: tuồng câm
+- câm, không kêu
+
++ this piano has several dumb notes: chiếc đàn pianô này có nhiều nốt câm
+- không biết nói; không có tiếng nói (trong chính phủ...)
+
++ dumb animals: những con vật không biết nói
+
++ the dumb millions: hàng triệu người không có tiếng nói trong chính phủ
+- lặng đi, không nói lên được
+
++ to strike someone dumb: làm cho ai lặng đi (vì sợ hãi...)
+- lầm lì, ít nói
+- (từ Mỹ,nghĩa Mỹ) ngu xuẩn, ngu ngốc, ngớ ngẩn
+*  ngdgt
+- (từ hiếm,nghĩa hiếm) làm câm, làm câm lặng đi
+
+@dumb piano  
+*  dt
+- đàn pianô câm (để luyện ngón tay)
+
+@dumb show
+- sự giao tiếp bằng điệu bộ
+ @dumb-bell  
+*  ndgt
+- tập tạ
+
+@dumbbell
+- quả tạ
+- người ngốc nghếch
+ @dumbell
+* dt
+- cái tạ (tập thể dục)
+- (từ Mỹ, nghĩa Mỹ) người đần
+* ndgt
+- tập tạ
+ @dumbeller
+* dt
+- người dạy tập tạ; người tập tạ
+ @dumbfound  
+*  ngdgt
+- làm chết lặng đi, làm không nói lên được nữa, làm điếng người
+
+@dumbhead
+* dt
+- người đần độn
+ @dumbly
+* dt
+- thin thít
+ @dumbness  
+*  dt
+- chứng câm
+- sự câm lặng đi (không nói)
+
+@dumbstruck  
+*  tt
+- chết lặng đi, điếng người (vì sợ hãi...)
+
+@dumb-waiter  
+*  dt
+- xe đưa đồ ăn; giá xoay đưa đồ ăn (dặt ngay trên bàn)
+- (từ Mỹ,nghĩa Mỹ) giá đưa đồ ăn (từ tầng dưới lên tầng trên...)
+
+@dumbwaiter
+- bàn xoay
+- thang máy chuyển thức ăn từ tầng này sang tầng khác
+ @dumdum  
+*  dt
+- đạm đumđum ((cũng) dumdum bullet)
+
+@dumfound
+- làm cho sửng sốt lặng đi
+ @dummy  
+*  dt
+- người nộm, người rơm, người bung xung, bù nhìn
+- người giả (hình người giả mặc quần áo, ở các tiệm may); hình nhân làm đích (tập bắn)
+- vật giả (cửa giả, gáy sách giả, gói giả...)
+- người ngốc nghếch, người đần độn
+- đầu vú cao su (cho trẻ con)
+- (thể dục,thể thao) động tác giả (giả vờ chuyền bóng lừa dối đối phương) (bóng bầu dục, bóng đá)
+- (đánh bài) chân phải hạ bài (đánh brit); số bài của chân phải hạ bài
+*  tt
+- giả
+
++ dummy window: cửa sổ giả
+
++ dummy cartridge: đạn giả
+
+@Dummy variable
+- (Econ) Biến giả.
+: Một biến nhị phân (có - không) được đưa ra để xem xét những dịch chuyển (dịch chuyển giả) hay thay đổi ngoại sinh của độ dốc (đọ đốc giả) trong mối quan hệ kinh tế lượng.
+ @Dummy Variable
+- (Econ) Biến số giả.
+ @dumortierite
+* dt
+- (khoáng chất) đumoctierit
+ @dump  
+*  dt
+- vật ngắn bè bè, người lùn bè bè
+- thẻ chì (dùng trong một số trò chơi)
+- đông đum (tiền Uc xưa); (từ lóng) đồng xu
+
++ not worth a dump: không đáng giá một xu
+- bu lông (đóng tàu)
+- ky (chơi ky)
+- kẹo đum
+- đống rác, nơi đổ rác; nơi rác rưởi bừa bãi
+- tiếng rơi bịch, tiếng đổ ầm, tiếng ném phịch xuống; cú đấm bịch
+- (quân sự) kho đạn tạm thời
+*  ngdgt
+- đổ thành đống (rác); vứt bỏ, gạt bỏ (ai...)
+
++ to dump the ribbish: đổ rác
+- đổ ầm xuống, ném phịch xuống
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đánh gục, đánh ngã
+- (thương nghiệp) bán hạ giá (những hàng thừa ế) ra thị trường nước ngoài (để tránh việc phải hạ giá hàng trong nước và đồng thời tranh thủ được thị trường mới)
+- đưa (dân đi trú thừa) ra nước ngoài
+*  ndgt
+- đổ rác
+- ngã phịch xuống, rơi phịch xuống
+
+@dump-car   (dump-truck) @dumper  
+*  dt
+- người đổ rác
+
+@dumpiness  
+*  dt
+- tính lùn bè bè, tính chắc mập; dáng lùn bè bè, dáng chắc mập
+
+@dumping  
+*  dt
+- sự đổ thành đống (rác...); sự vứt bỏ, gạt bỏ (ai...)
+- (thương nghiệp) Đumpinh, sự bán hạ hàng ế thừa ra thị trường nước ngoài
+
+@Dumping
+- (Econ) Bán phá giá.
+: Việc bán một hàng hoá ở nước ngoài ở mức giá thấp hơn so với mức giá ở thị trường trong nước.
+ @dumpish  
+*  tt
+- buồn, buồn bã, buồn nản, buồn chán
+
+@dumpling  
+*  dt
+- bánh bao; bánh hấp
+- bánh bao nhân táo ((cũng) apple dumpling)
+- (từ Mỹ,nghĩa Mỹ) người béo lùn; con vật béo lùn
+
+@dumps  
+*  dt số nhiều
+- sự buồn nản, sự buồn chán
+
++ to be in the dumps: buồn chán
+
+@dump-truck   (dump-truck) @dumpy  
+*  tt
+- buồn, buồn bã, buồn nản, buồn chán
+- lùn bè bè, chắc mập
+*  dt
+- giống gà lùn đumpi
+
+@dun  
+*  tt
+- nâu xám
+- (thơ ca) tối tăm, mờ tối
+*  dt
+- màu nâu xám
+- ngựa nâu xám
+- ruồi già (làm mồi câu)
+*  dt
+- người mắc nợ, người đòi nợ
+- sự mắc nợ, sự đòi nợ
+- ngdgt
+- thúc nợ (ai), đòi nợ (ai)
+- quấy rầy
+
+@dun-bird  
+*  dt
+- (động vật học) vịt đầu nâu
+
+@dunce  
+*  dt
+- người tối dạ, người ngu độn
+!dunce's cap
+- mũ lừa (bằng giấy đội vào đầu những học sinh học dốt)
+
+@dunce's cap
+- mũ lười (mũ giấy trước đây học sinh tối dạ phải đội trong lớp)
+ @dunderhead  
+*  dt
+- người ngốc nghếch, người xuẩn ngốc, người ngu độn
+
+@dunderheaded  
+*  tt
+- ngốc nghếch, xuẩn ngốc, ngu độn
+
+@dune  
+*  dt
+- cồn cát, đụn cát
+
+@duneland
+* dt
+- vùng lắm cồn cát
+ @dunelike
+* tt
+- giống cồn cát
+ @dung  
+*  dt
+- phân thú vật (ít khi nói về người)
+- phân bón
+- điều ô uế, điều nhơ bẩn
+*  ngdgt
+- bón phân
+*  thời quá khứ & động tt quá khứ của ding
+
+@dungaree  
+*  dt
+- vải trúc bâu thô Ân-độ
+- (số nhiều) quần áo bằng vải trúc bâu thô, quần áo lao động bằng vải trúc bâu thô
+
+@dungarees
+* dt số nhiều
+- bộ quần áo công nhân bằng vải trúc bâu ấn Độ
+ @dung-beetle  
+*  dt
+- bọ phân
+
+@dung-cart  
+*  dt
+- xe chở phân
+
+@dungeon  
+*  dt
+- (như) donjon
+- ngục tối, hầm tù
+*  ngdgt
+- nhốt vào ngục tối, giam vào hầm tù
+
+@dung-fly  
+*  dt
+- con nhặng
+
+@dung-fork  
+*  dt
+- chĩa dở phân
+
+@dung-heap
+* dt
+- đống phân
+ @dunghill  
+*  dt
+- đống phân
+!as pround as a cock on his dunghill
+- (xem) cock
+
+@dungy  
+*  tt
+- có phân; bẩn thỉu
+
+@dung-yard
+* dt
+- nơi để phân
+ @dunk  
+*  dgt
+- (từ Mỹ,nghĩa Mỹ) nhúng (bánh... vào xúp, sữa...)
+
+@dunnage  
+*  dt
+- (hàng hải) vật lót hàng (rơm bện, vỏ bào... cho hàng khỏi bị ẩm hoặc bị xây xát)
+
+@dunner
+* dt
+- người thôi thúc trả nợ
+ @dunniness
+* dt
+- tình trạng điếc
+ @dunnock  
+*  dt
+- (động vật học) chim chích bờ giậu
+
+@duo  
+*  dt
+- (âm nhạc) bộ đôi
+
+@duodecagon
+- hình mười hai cạnh
+ @duodecahedron
+- khối mười hai mặt
+ @duodecillion
+* dt
+- số bằng 10 ự 39 (Mỹ) hoặc bằng 10 ự 72 (Anh)
+ @duodecimal  
+*  tt
+- thập nhị phân, theo cơ số mười hai
+
+@duodecimal
+- thập nhị phân
+ @duodecimals  
+*  dt số nhiều
+- phép nhân thập nhị phân
+
+@duodecimo  
+*  dt
+- khổ sách mười hai; sách khổ mười hai
+- vật nhỏ xíu, người nhỏ xíu
+
+@duodenal  
+*  tt
+- (giải phẫu) (thuộc) ruột tá
+
++ duodenal ulcer: loét ruột tá
+
+@duodenary  
+*  tt
+- đếm theo mười hai, từng bộ mười hai
+
+@duodenitis  
+*  dt
+- (y học) viêm ruột tá
+
+@duodenum  
+*  dt
+- (giải phẫu) ruột tá
+
+@duologue
+* dt
+- cuộc nói chuyện tay đôi
+ @Duopoly
+- (Econ) Lưỡng độc quyền bán.
+: Một cơ cấu thị trường chỉ có 2 hãng. Các mô hình lý giải có ý giải thích sự xác định sản lượng và giá cả trên cơ cấu thị trường này đặt cơ sở phân tích của mình lên những giả định xem xét đến việc đưa ra quyết định trong đó có sự phụ thuộc lẫn nhau được thấy rõ.
+ @duopoly
+* dt
+- tình trạng thị trường do hai công ty độc quyền lũng đoạn
+ @Duopsony
+- (Econ) Lưỡng độc quyền mua.
+: Một thị trường chỉ có hai người mua cùng một loại sản phẩm hay dịch vụ đem trao đổi.
+ @duotone
+* dt
+- có hai màu
+ @dupability  
+*  dt
+- tính có thể bịp được, tính dễ bị bịp
+
+@dupable   (dupeable) @dupe  
+*  dt
+- người bị bịp
+*  ngdgt
+- bịp, lừa bịp
+
+@dupeable   (dupeable) @duper  
+*  dt
+- kẻ bịp, kẻ lừa bịp
+
+@dupery  
+*  dt
+- trò bịp, trò lừa bịp
+
+@dupion
+* dt
+- sồi gộc
+ @duple  
+*  tt
+- (từ hiếm,nghĩa hiếm) hai, đôi
+
++ duple ratio: tỷ lệ 2 qoành
+- (âm nhạc) đôi
+
++ duple time (rhythm): nhịp đôi
+
+@duplet
+- lưỡng cực; nhị tử
+ @duplex  
+*  tt
+- hai, kép đôi
+
++ a duplex lamp: đèn hai bấc
+
++ duplex telegrapghy: điện báo hai chiều
+
++ duplex appartment: (từ Mỹ,nghĩa Mỹ) buồng hai tầng
+*  dt
+- (từ Mỹ,nghĩa Mỹ) nhà cho hai hộ ở
+
+@duplex
+- ghép cặp
+ @duplex apartment
+- căn hộ 2 tầng
+ @duplex channel
+- (Tech) băng tần hai chiều, kênh hai chiều [TN]
+ @duplex communication
+- (Tech) sự truyền thông hai chiều
+ @duplex connection
+- (Tech) mạch liên lạc hai chiều
+ @duplex house
+- căn hộ đôi
+ @duplex repeater
+- (Tech) bộ chuyển tiếp hai chiều
+ @duplex system
+- (Tech) hệ thống truyền thông hai chiều
+ @duplex transmission
+- (Tech) sự truyền dẫn hai chiều
+ @duplexer
+- (Tech) bộ song công ăngten; bộ chuyển mạch thu phát
+ @duplicate  
+*  dt
+- bản sao
+- vật giống hệt, vật làm giống hệt (một vật khác)
+- từ đồng nghĩa
+- biên lai cầm đồ
+*  tt
+- gồm hai bộ phận đúng nhau; thành hai bản
+- giống hệt (một vật khác)
+- gấp hai, gấp đôi, to gấp đôi, nhiều gấp đôi
+*  ngdgt
+- sao lại, sao lục, làm thành hai bản
+- gấp đôi, nhân đôi
+
+@duplicate
+- bản sao || tăng đôi
+ @duplicate disk
+- (Tech) đĩa sao
+ @duplicated
+- lặp lại
+ @duplication  
+*  dt
+- sự sao lại, sự sao lục, sự làm thành hai bản
+- sự gấp đôi, sự nhân đôi
+
+@duplication
+- sự sao chép; sự tăng gấp đôi
+- d. of cube gấp đôi khối lập phương
+- tape d. băng sao lại
+ @duplicator  
+*  dt
+- máy sao chép; máy chữ đánh được nhiều bản
+
+@duplicator
+- (máy tính) dụng cụ sao chép, máy sao chép
+ @duplicature
+* dt
+- (sinh học) nếp vòng; nếp gấp
+ @duplicity  
+*  dt
+- trò hai mắt, trò hai mang; sự lừa dối, sự ăn ở hai lòng
+- tính nhị nguyên, tính đôi, tính kép
+
+@dura mater  
+*  dt
+- (giải phẫu) màng cứng (bọc ngoài não và tuỷ sống)
+
+@durability   (durableness) @durable  
+*  tt
+- bền, lâu bền
+
+@durableness   (durableness) @dural   (duralumin) @duralumin   (duralumin) @duraluminium   (duralumin) @duramen  
+*  dt
+- (thực vật học) lõi (cây)
+
+@durance  
+*  dt
+- (pháp lý) sự giam cầm, sự cầm tù
+
++ in durance vile: trong cảnh tù tội
+
+@duration  
+*  dt
+- thời gian, khoảng thời gian (tồn tại của một sự việc)
+
++ for the duration of the war: trong thời gian chiến tranh
+
+@duration
+- (Tech) thời khoảng, thời gian; trường độ
+ @duration
+- khoảng thời gian
+- d. of selection thời gian chọn
+- averge d. of life (thống kê) tuổi thọ trung bình
+- digit d. khoảng thời gian của một chữ số
+- pulse d. bề rộng của xung
+- reading d. thời gian đọc 
+ @duration of pulse
+- (Tech) độ rộng xung
+ @Duration of unemployment
+- (Econ) Thời gian thất nghiệp
+: Khoảng thời gian trung bình mà một cá nhân trải qua khi đăng ký thất nghiệp.
+ @durative
+* tt
+- (ngôn ngữ học) thể kéo dài
+ @durbar  
+*  dt
+- (Anh-Ân) (sử học) buổi tiếp kiến của phó vương Ân-độ
+
+@Durbin h - statistic
+- (Econ) Số thống kê Durbin - h
+: Số thống kê dự báo bài toán TƯƠNG QUAN CHUỖI hay các hệ số sai số trong phép hồi quy, bao gồm một biến nội sinh trễ hoãn trong trường hợp số thống kê Durbin - Watson-d thông dụng hơn không thể áp dụng được.
+ @Durbin- Watson
+- (Econ) Số thống kê (d hoặc D.W.).
+: Một số thống kê dự báo về bài toán TƯƠNG QUAN CHUỖI của các hệ số sai số trong phép hồi quy.
+ @duress   (duresse) @duresse   (duresse) @durian  
+*  dt,  (thực vật học)
+- quả sầu riêng
+- cây sầu riêng
+
+@during  
+*  dt
+- trải qua, trong lúc, trong thời gian
+
+@during
+- trong khi lúc
+ @durmast  
+*  dt
+- (thực vật học) cây sồi hoa không cuống
+
+@durn  
+*  ngdgt
+- (từ lóng) nguyền rủa, chửi rủa ((cũng) darn)
+
+@durometer
+* dt
+- cái đo độ cứng
+ @durra  
+*  dt
+- (thực vật học) cây kê Ân-độ
+
+@durrie   (dhurry) @dursn't
+- tức durst  not xem dare
+ @durst  
+*  dt
+- sự dám làm
+- sự thách thức
+
++ to take a dare: nhận lời thách
+*  ngdgt (dared,  durst; dared)
+- dám, dám đương đầu với
+
++ he did not dare to come; he dared not come: nó không dám đến
+
++ how dare you speak like this?: tại sao anh dám nói như vậy?
+
++ to dare any danger: dám đương đầu với bất cứ nguy hiểm nào
+- thách
+
++ I dare you to do it: tôi thách anh làm điều đó
+!I dare say
+- tôi dám chắc
+!I dare swear
+- tôi dám chắc là như vậy
+
+@durum
+* dt
+- cũng durum  wheat
+- (thực vật) lúa mì cứng
+ @Dushmann's equation
+- (Tech) phương trình Dushmann
+ @dusk  
+*  dt
+- bóng tối
+- lúc chạng vạng, lúc tối nhá nhem
+*  tt (thơ ca)
+- tối mờ mờ
+- tối màu
+*  ndgt (thơ ca)
+- tối lại, mờ tối lại; trông tối, trông mờ tối
+*  ngdgt (thơ ca)
+- làm tối, làm mờ tối
+
+@duskiness  
+*  dt
+- bóng tối, cảnh mờ tối
+- màn tối
+
+@duskish  
+*  tt
+- hơi tối, mờ mờ tối
+
+@dusky  
+*  tt
+- tối, mờ tối
+- tối màu
+
+@dust  
+*  dt
+- bụi
+
++ gold dust: bụi vàng
+
++ airborne dust: bụi quyển khí
+
++ cosmic dust: bụi vũ trụ
+- rác
+- (thực vật học) phấn hoa
+- (a dust) đám bụi mù
+
++ what a dust!: bụi ghê quá!
+- đất đen ((nghĩa bóng))
+
++ to trample in the dust: chà đạp xuống tận đất đen
+
++ to be humbled to (in) the dust: bị làm nhục, bị vùi dập đến tận đất đen
+- xương tàn, tro tàn (người chết); cơ thể con người, con người
+- (từ lóng) tiền mặt
+!to bite the dust
+- bite dust and heat
+- gánh nặng của cuộc đấu tranh
+
++ to bear the dust and heat of the war: gánh cái gánh năng của cuộc chiến tranh
+!to give the dust to somebody
+- (từ Mỹ,nghĩa Mỹ) cho ai hít bụi, vượt lên trước ai
+!in the dust
+- chết, về với cát bụi
+!to shake of the dust of one's feet
+- tức giận bỏ đi
+!to take somebody's dust
+- (từ Mỹ,nghĩa Mỹ) hít bụi của ai, chạy sau ai
+!to throw dust in somebody's eyes
+- loè ai
+*  ngdgt
+- rắc (bụi, phấn...)
+- quét bụi, phủi bụi
+- làm bụi
+*  ndgt
+- tắm đất, vầy đất (gà, chim...)
+- quét bụi bàn ghế, phủi bụi bàn ghế, lau chùi bàn ghế
+!to dust the eyes of
+- lừa bịp (ai)
+!to dust someone's jacket
+- (xem) jacket
+
+@dust
+- bụi
+- cosmic d. bụi vũ trụ 
+ @dust bowl
+* dt
+- vùng hạn hán kéo dài và có bão bụi
+ @dust core
+- (Tech) lõi bột ép
+ @dust core coil
+- (Tech) cuộn dây lõi mạt sắt (lõi ép)
+ @dust cover
+- nắp che bụi ở máy vi tính
+ @dust jacket
+- bìa bọc sách
+ @dustbin  
+*  dt
+- thùng rác
+
+@dust-bowl  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) vùng hạn hán kéo dài và có bão bụi
+
+@dust-brand  
+*  dt
+- (thực vật học) bệnh nấm than
+
+@dust-cart  
+*  dt
+- xe rác
+
+@dust-cloak   (dust-cloth) @dust-cloth   (dust-cloth) @dust-coat   (dust-cloth) @dust-collector  
+*  dt
+- máy hút bụi
+
+@dust-colour  
+*  dt
+- màu bụi, màu nâu nhạt xỉn
+
+@dust-cover   (dust-jacket) @dust-devil
+* dt
+- cơn gió xoáy mang bụi đến
+ @duster  
+*  dt
+- khăn lau bụi
+- người lau bụi; máy hút bụi
+- (từ Mỹ,nghĩa Mỹ),  (như) dust-cloak
+
+@dust-gown   (dust-cloth) @dust-guard  
+*  dt
+- cái chắn bụi (trong máy...)
+
+@dust-heap
+* dt
+- đống rác
+ @dust-hole  
+*  dt
+- hố rác
+
+@dustiness  
+*  dt
+- tình trạng bụi bặm; vẻ bụi bặm
+
+@dusting  
+*  dt
+- sự quét bụi, sự phủi bụi, sự lau bụi
+- (từ lóng) trận đòn
+
++ to give someone a dusting: nện cho ai một trận, sửa cho ai một trận
+- (từ lóng) sự tròng trành nghiêng ngả (trong bão tố ngoài biển)
+
+@dusting-powder
+* dt
+- (y học) bột thuốc phòng bệnh để rắc
+ @dust-jacket   (dust-jacket) @dustless  
+*  tt
+- không có bụi, sạch bụi
+
+@dustman  
+*  dt
+- người hốt rác
+- thần ngủ (làm các em nhỏ ngủ nhíp mắt lại)
+
+@dustpan  
+*  dt
+- cái hót rác
+
+@dust-proof   (dust-tight) @dust-sheet
+* dt
+- tấm phủ tránh bụi
+ @dust-shot  
+*  dt
+- viên đạn tấm (cỡ nhỏ nhất)
+
+@dust-storm
+* dt
+- cơn bão bụi
+ @dust-tight   (dust-tight) @dust-up
+* dt
+- (thông tục) cuộc xung đột; điều tai tiếng
+ @dustup
+- cuộc cãi lộn, cuộc đánh lộn
+ @dust-wrap   (dust-cloth) @dusty  
+*  tt
+- bụi rậm, đầy bụi
+- nhỏ tơi như bụi
+- khô như bụi
+- khô khan, vô vị, không có gì lý thú
+- mơ hồ, lờ mờ, không rõ rệt
+
++ a dusty answer: câu trả lời lờ mờ
+!not so duty
+- (từ lóng) kha khá, tàm tạm, không đến nỗi tồi
+
++ her singing is not so dusty: cô ta hát cũng không đến nỗi tồi
+
+@dutch  
+*  tt
+- (thuộc) Hà-lan
+
++ dutch cheese: phó mát Hà-Lan
+
++ dutch clock: đồng hồ Hà-Lan
+- (sử học) (thuộc) Đức
+!Dutch courage
+- (xem) courage
+!Dutch uncle lunch (supper, treat)
+- bữa chén người nào trả lấy phần của người ấy
+!to talk like a Dutch uncle
+- răn dạy (ai) nghiêm nghị nhưng vẫm hiền từ
+*  dt
+- (the dutch) người Hà-Lan; dân Hà-Lan
+- tiếng Hà-Lan
+- (sử học) tiếng Đức
+!that (it) beats the Dutch
+- cái đó trội hơn tất cả
+!double Dutch
+- lời nói khó hiểu, ngôn ngữ khó hiểu
+
++ to talk double dutch: nói khó hiểu
+
++ that's all double dutch to me!: nói tôi chẳng hiểu mô tê gì cả!
+*  dt
+- (từ lóng) vợ, "bà xã" 
+
++ my old dutch: "bà xã" nhà tôi, bà nhà tôi
+
+@dutch auction
+- kiểu bán đấu giá HALAN (giảm dần cho đến khi có người mua)
+ @dutch courage
+- lòng can đảm do rượu vào
+ @dutch oven  
+*  dt
+- lò quay
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) bếp dã chiến
+
+@dutch treat
+- bữa ăn phần ai nấy trả; cuộc vui phần ai nấy trả
+ @dutchman  
+*  dt
+- người Hà-Lan
+
++ Flying dutchman: tàu ma (trong tiểu thuyết hoang đường)
+!I'm a Dutchman if I do!
+- tôi mà làm thì xin cứ chặt đầu tôi đi!
+!I saw him or I'm a Dutchman
+- tôi có trông thấy hắn, nếu không thì cứ chặt đầu tôi đi
+
+@dutchwoman  
+*  dt
+- người đàn bà Hà-Lan
+
+@duteous
+* tt
+- biết vâng lời, biết nghe lời
+- biết tôn kính, biết kính trọng
+- có ý thức chấp hành nhiệm vụ; sẵn sàng chấp hành nhiệm vụ, sẵn sàng làm bổn phận
+ @duteousness   (duteousness) @dutiable  
+*  tt
+- phải nộp thuế phải đóng thuế
+
+@dutiful   (duteous) @dutifully
+* dt
+- nghiêm túc, đầy ý thức trách nhiệm
+ @dutifulness   (duteousness) @duty  
+*  dt
+- sự tôn kính, lòng kính trọng (người trên)
+
++ in duty to...: vì lòng tôn kính đối với...
+
++ to pay one's duty to...: để tỏ lòng tôn kính đối với...
+- bổn phận, nhiệm vụ, trách nhiệm
+
++ to do one's duty: làm nhiệm vụ, làm bổn phận
+
++ to make it a point of duty to; to think it a duty to...: coi như là một nhiệm vụ phải...
+- phận sự, chức vụ, công việc, phần việc làm; phiên làm, phiên trực nhật
+
++ to take up one's duties: bắt đầu đảm nhiệm công việc, bắt đầu nhận chức vụ
+
++ to be off duty: hết phiền, được nghỉ
+
++ to be on duty: đang làm việc, đang phiên làm việc, đang trực
+
++ to do duty for...: làm thay cho..., thay thế cho...
+- thuế (hải quan...)
+
++ goods liable to duty: hàng hoá phải đóng thuế
+
++ import duty: thuế nhập khẩu
+- (kỹ thuật) công suất (máy)
+
+@duty
+- nghĩa vụ, nhiệm vụ
+- ad valorem d. (thống kê) thuế phần trăm
+- continuos d. chế độ kéop dài
+- heavy d. (điều khiển học) chế độ nặng 
+- operating d. (điều khiển học) chế độ làm việc
+- periodie d. chế độ tuần hoàn
+- varying d. chế độ biến đổi; tải trọng chế độ
+ @duty cycle
+- (Tech) chu kỳ làm việc; hệ số đầy (xung)
+ @duty-bound
+* tt
+ @duty-free  
+*  tt & dt
+- không phải nộp thuế, được miễn thuế
+
+@duty-list
+* dt
+- danh sách trực nhật
+ @duty-paid  
+*  tt
+- đã nộp thuế
+
+@duumiri
+* dt
+- <sử> nhị hùng
+ @duumvir   (duumvirs) @duumvirate  
+*  dt
+- (sử học) chế độ nhị hùng
+
+@duumviri   (duumvirs) @duvet  
+*  dt
+- chăn lông vịt
+
+@dux  
+*  dt
+- (Ê-cốt) học sinh nhất lớp
+
+@

@@ -1,0 +1,26 @@
+@fm
+* (viết tắt)
+- thống chế, nguyên soái (Field  Marshal)
+- sự biến điệu tần số (frequency  modulation)
+- ký hiệu fermium
+ @FM (frequency modulation)
+- (Tech) sự biến điệu tần sô
+ @FM (frequency modulation) broadcasting
+- (Tech) phát thanh biến điệu tần số
+ @FM (frequency modulation) detector
+- (Tech) bộ kiểm sóng biến điệu tần số, bộ giải điều tần
+ @FM (frequency modulation) discriminator
+- (Tech) bộ tách sóng biến điệu tần số, bộ giải điều tần
+ @FM (frequency modulation) dopler
+- (Tech) đôple biến điệu tần số
+ @FM (frequency modulation) noise
+- (Tech) tiếng ồn biến điệu tần số
+ @FM (frequency modulation) oscillator
+- (Tech) bộ dao động biến điệu tần số
+ @FM (frequency modulation) receiver
+- (Tech) máy thu biến điệu tần số
+ @FM (frequency modulation) wave
+- (Tech) sóng biến điệu tần số
+ @FMP (Function Management Protocol)
+- (Tech) quy ước quản lý chức năng
+ @

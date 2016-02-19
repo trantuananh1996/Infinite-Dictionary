@@ -1,0 +1,301 @@
+@ega
+- card EGA
+ @EGA card
+- (Tech) thẻ EGA
+ @EGA (enhanced graphic adapter)
+- (Tech) EGA (bộ phối hợp đồ họa được tăng cường)
+ @EGA (enhanced graphic adapter) mode
+- (Tech) kiểu EGA, chế độ EGA [TN]
+ @egad  
+*  tt
+- bình quân chủ nghĩa
+
+@egalitarian  
+*  dt
+- người theo chủ nghĩa quân bình
+
+@egalitarianism  
+*  dt
+- chủ nghĩa quân bình
+
+@egest
+* ngdgt
+- (sinh học) bài tiết
+ @egesta
+* dt số nhiều
+- (sinh học) chất bài tiết
+ @egestion
+* dt
+- sự bài tiết
+ @egg  
+*  dt
+- trứng
+
++ an addle egg: trứng ung
+- (quân sự), lóng bom; mìn; ngư lôi
+
++ to lay eggs: đặt mìn
+!as full as an egg
+- chật ních, chật như nêm
+!as sure as eggs is eggs
+- (xem) sure
+!bad egg
+- người không làm được trò trống gì; kế hoạch không đi đến đâu
+!good egg
+- (từ lóng) người rất tốt, vật rất tốt
+!to have (put) all one's eggs in pne basket
+- (tục ngữ) một mất một còn, được ăn cả ngã về không
+!to the egg
+- khi còn trưng nước, trong giai đoạn phôi thai
+
++ to crash in the egg: bóp chết ngay khi còn trong trứng nước
+
++ to lay an egg: (từ Mỹ,nghĩa Mỹ),  (từ lóng) thất bại hoàn toàn (cuộc biểu diễn...)
+!teach your grandmother to suck eggs
+- trứng lại đòi khôn hơn vịt
+*  ngdgt
+- trộn trứng vào, đánh trứng vào
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) ném trứng vào
+- (: on) thúc giục
+
+@egg-and-spon race  
+*  dt
+- cuộc chạy thi cầm thìa đựng trứng
+
+@egg-and-spoon race
+* dt
+- cuộc chạy thi cầm thìa đựng trứng
+ @egg-bag
+* dt
+- noãn sào
+- trò quỷ thuật lấy trứng ra từ cái túi không
+ @egg-bald
+* tt
+- đầu trọc lóc
+ @egg-beater
+* dt
+- (từ Mỹ,  (từ lóng)) máy bay trực thăng
+- cái đánh trứng
+ @egg-case
+* dt
+- tấm màng che chở trứng côn trùng
+- vỏ trứng
+ @egg-cell  
+*  dt
+- (sinh vật học) tế bào trứng
+
+@egg-cup  
+*  dt
+- cái đựng trứng chần
+
+@eggcup
+- chén đựng trứng chần
+ @egg-dance  
+*  dt
+- điệu nhảy trứng (nhảy bịt mắt trên sàn có trứng)
+- (nghĩa bóng) công việc phức tạp, công việc hắc búa
+
+@egg-flip   (egg-nog) @egg-head  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nhà trí thức
+
+@egghead
+* dt
+- nhà trí thức xa rời thực tế
+ @eggless
+- xem egg
+ @egg-membrane
+* dt
+- màng trứng
+ @egg-nog   (egg-nog) @egg-plant  
+*  dt
+- (thực vật học) cây cà
+- quả cà
+
+@egg-pouch
+* dt
+- túi trứng
+ @egg-shape
+- hình trứng
+ @egg-shaped  
+*  tt
+- hình trứng
+
+@egg-shell  
+*  dt
+- vỏ trứng
+!to walk (tread) upon egg-shells
+- hành động một cách thận trọng dè dặt
+*  tt
+- mỏng mảnh như vỏ trứng
+
++ egg-shell china: đồ sứ vỏ trứng, đồ sứ mỏng manh
+- màu vỏ trứng
+
+@eggshell
+* dt
+- vỏ trứng
+ @eggshell paint
+- sơn dạng vỏ trứng
+ @egg-slice  
+*  dt
+- cái xúc trứng tráng
+
+@egg-spoon  
+*  dt
+- thìa ăn trứng (luộc chần...)
+
+@egg-tooth
+* dt
+- hạt gạo (ở mỏ chim mũi rắn để mổ vỡ trứng mà ra)
+ @egg-tube
+* dt
+- ống trứng
+ @egg-whisk  
+*  dt
+- que đánh trứng
+
+@eggy
+- xem egg
+ @egis
+* dt
+- xem aegis
+ @eglantine  
+*  dt
+- (thực vật học) cây tầm xuân
+
+@ego  
+*  dt
+- (triết học) cái tôi
+
+@egoaltruism
+* dt
+- thuyết ngã tha lưỡng lợi
+ @egoaltruistic
+* tt
+- theo thuyết ngã tha lưỡng lợi
+ @egocentric  
+*  tt
+- cho mình là trọng tâm
+- vị trí, ích kỷ
+
+@egocentrically
+- xem egocentric
+ @egocentricity
+* dt
+- tính vị kỷ quá đáng
+ @egocentrism  
+*  dt
+- thuyết (cho) mình là trung tâm
+
+@egohood
+* dt
+- nhân cách, cá tính
+ @egoideal
+* dt
+- (phân tâm) lý tưởng của bản ngã
+ @egoism  
+*  dt
+- tính ích kỷ, tính ngoan cố, tính cố chấp
+- chủ nghĩa vị kỷ, thuyết vị kỷ
+
+@egoist  
+*  dt
+- người ích kỷ, người cho mình là trên hết
+
+@egoistic   (egoistical) @egoistical   (egoistical) @egoistically
+* dt
+- ích kỷ, vị kỷ
+ @egomania
+* dt
+- tính chất hết sức ích kỷ
+ @egomaniac
+* dt
+- người cực kỳ ích kỷ
+ @egotism  
+*  dt
+- thuyết ta là nhất, thuyết ta là trên hết
+- tính tự cao tự đại
+- tính ích kỷ
+
+@egotist  
+*  dt
+- người theo thuyết ta là nhất, người theo thuyết ta là trên hết
+- người tự cao tự đại
+- người ích kỷ
+
+@egotistic   (egotistical) @egotistical   (egotistical) @egotistically
+* dt
+- ích kỷ
+ @egotize  
+*  ndgt
+- tự cho mình là nhất, tự cho mình là trên hết
+- tự đề cao
+
+@ego-trip
+* dt
+- sự ích kỷ, sự vị kỷ
+ @egotrip
+* ndgt
+- làm chỉ đề cao lòng tự trọng
+ @ego-tripper
+- xem ego-trip
+ @egregious  
+*  tt
+- quá xá, đại, chí
+
++ egregious blander: sai lầm quá xá
+
++ an egregious idiot: người chí ngu
+- (từ cổ,nghĩa cổ) tuyệt vời, xuất sắc
+
+@egregiously
+* dt
+- quá xá, quá đỗi
+ @egregiousness  
+*  dt
+- tính quá xá
+
+@egress  
+*  dt
+- sự ra
+- quyền ra vào
+- con đường ra ((nghĩa đen) & (nghĩa bóng))
+- (địa lý,địa chất) sự trồi ra trên mặt
+
++ kỹ egress of heat: sự toả nhiệt
+
+@egression  
+*  dt
+- sự đi ra
+
+@egressive
+* tt
+- ra ngoài; rút ra khỏi
+ @egret  
+*  dt
+- (động vật học) cò bạch
+- (thực vật học) mào lông
+
+@egyptian  
+*  tt
+- (thuộc) Ai-cập
+- dt
+- người Ai-cập
+- thuốc lá Ai-cập
+
+@egyptianize
+* ngdgt
+- Ai Cập hoá
+ @egyptologer
+* dt
+- nhà nghiên cứu cổ vật Ai Cập
+ @egyptologist  
+*  dt
+- nhà Ai-cập học (khảo cứu cổ học Ai-cập)
+
+@egyptology  
+*  dt
+- Ai-cập học (khoa khảo cứu cổ học Ai-cập)
+
+@

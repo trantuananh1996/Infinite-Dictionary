@@ -1,0 +1,4194 @@
+@la  
+*  dt
+- nhạc La
+
+@laager  
+*  dt
+- trại phòng ngự (có xe vây quanh)
+- (quân sự) bâi để xe bọc sắt
+*  ndgt
+- lập trại phòng ngự (có xe vây quanh)
+*  ngdgt
+- bố trí (xe...) thành trại phòng ngự
+- đưa vào trại phòng ngự
+
+@lab   (lab) @labarum
+* dt; số nhiều labara
+- cờ phò đạo Thiên chúa
+- quân kỳ hoàng đế La-mã
+ @labefaction  
+*  dt
+- sự suy yếu, sự sa sút, sự sụp đổ; sự suy đồi
+
+@label  
+*  dt
+- nhãn, nhãn hiệu
+- danh hiệu; chiêu bài
+
++ under the label of freedom and democracy: dưới chiêu bài tự do và dân chủ
+- (pháp lý) phân bổ chính (của một văn kiện)
+- (kiến trúc) mái hắt
+*  ngdgt
+- dán nhãn, ghi nhãn
+
++ language labelled Haiphong: hành lý gửi đi Hải phòng
+- (nghĩa bóng) liệt vào loại, gán cho là
+
++ any opponent is labelled a "communist" by the reactionary government: chính phủ phản động gán cho bất cứ ai chống lại là "cộng sản" 
+
+@label
+- nhãn   ký hiệu; đánh dấu
+@labeller  
+*  dt
+- người dán nhãn, máy dán nhãn
+
+@labellum
+* dt; số nhiều labella
+- cánh giữa của hoa phong lan
+- phần cuối của môi dưới (hoa)
+ @labia   (labia) @labial  
+*  tt
+- (thuộc) môi (phát âm ở) môi
+*  dt
+- (ngôn ngữ học) âm môi ((cũng) labial sound)
+
+@labialization  
+*  dt
+- sự môi hoá
+
+@labialize  
+*  ngdgt
+- môi hoá
+
+@labiate  
+*  tt ((cũng) lipped)
+- có môi
+- hình môi
+*  dt
+- (thực vật học) cây hoa môi
+
+@labile  
+*  tt
+- dễ rụng, dễ biến, dễ huỷ, dễ rơi
+- (vật lý),  (hoá học) không ổn định, không bền
+
+@labile
+- không ổn định, không bền
+ @lability  
+*  dt
+- tính dễ rụng, tính dễ biến, tính dễ huỷ, tính dễ rơi
+- (vật lý),  (hoá học) tính không ổn định, tính không bền
+
+@labiodental  
+*  tt
+- (ngôn ngữ học) môi răng (âm)
+*  dt
+- (ngôn ngữ học) âm môi răng
+
+@labionasal
+* tt
+- (phụ âm) môi - mũi
+ @labiovelar
+* tt
+- (phụ âm) môi - vòm mềm
+ @labium   (labia) @labor   (labor) @labor day  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) ngày lao động (ngày thứ hai đầu tiên của tháng chín)
+
+@laboratorial  
+*  tt
+- (thuộc) phòng thí nghiệm
+
+@laboratorian  
+*  dt
+- người làm việc ở phòng thí nghiệm
+
+@laboratory   (lab) @laboratory
+- phóng thí nghiệm, phòng thực nghiệm
+- computing l. (máy tính) phòng thực nghiệm tính toán 
+ @laboratory school  
+*  dt
+- trường thí nghiệm (để đào tạo giáo sinh)
+
+@laborious  
+*  tt
+- cần cù, siêng năng, chăm chỉ, chịu khó
+- khó nhọc, gian khổ
+
++ laborious task: một công việc khó nhọc
+- nặng nề, không thanh thoát (hành văn)
+
+@laboriously
+* dt
+- cần cù, siêng năng, chăm chỉ
+ @laboriousness
+* dt
+- sự siêng năng, sự chăm chỉ, sự cần cù
+ @labour   (labor) @Labour
+- (Econ) Lao động.
+: Toàn bộ nguồn nhân lực sẵn có trong xã hội để dùng vào quá trình sản xuất.
+ @labour
+- (toán kinh tế) lao động, làm việc
+- surplus l. lao động thặng dư 
+ @Labour - saving techniques
+- (Econ) Các kỹ thuật tiết kiệm lao động.
+: Các quy trình công nghệ  hay phương pháp sản xuất thiên về hướng có giới hoá và sử dụng ít lao động hơn.
+ @Labour augmenting technical progress
+- (Econ) Tiến bộ kỹ thuật làm tăng sức lao động.
+: Tiến bộ kỹ thuật làm tăng sản lượng giống như kiểu tăng sản lượng nhờ tăng LỰC LƯỢNG LAO ĐỘNG mà không có sự thay đổi thực sự nào về số lượng người trong lực lượng lao động tham gia thực hiện.
+ @Labour economics
+- (Econ) Kinh tế học lao động.
+: Sự  nghiên cứu bản chất và các yếu tố quyết định tiền lương và việc làm.
+ @labour exchange  
+*  dt
+- sở lao động
+
+@labour force  
+*  dt
+- lực lượng lao động (của một xí nghiệp, một vùng...)
+
+@Labour force
+- (Econ) Lực lượng lao động.
+: Lực lượng lao động bao gồm những người đang làm việc và đang tìm việc, nó bao gồm những người có việc làm và cả những người thất nghiệp.
+ @Labour force participation rate
+- (Econ) Tỷ lệ tham gia Lực lượng lao động.
+: Đối với toàn bộ dân số hay đối với một bộ phận của dân số tính theo tuổi tác, giới tính hay chủng tộc, tỷ lệ tham gia lao động được định nghĩa là tỷ lệ giữa số dân (có việc hay thất nghiệp) có khả năng hoạt động kinh tế so với tổng số dân cùng loại.
+ @Labour force schedule
+- (Econ) Biểu đồ về lực lượng lao động
+ @Labour hoarding
+- (Econ) Tích trữ lao động.
+: Khi các hãng đầu tư mạnh vào việc thuê và đào tạo một công nhân, họ sẽ không muốn sa thải người đó trong thời kỳ kinh tế suy thoái.
+ @Labour intensive
+- (Econ) Sử dụng nhiều lao động, thâm dụng nhiều lao động.
+ @labour leader  
+*  dt
+- lânh tụ công đoàn
+
+@Labour market
+- (Econ) Thị trường lao động.
+: Một thị trường lao động bao gồm các hoạt động thuê và cung ứng lao động nhất định để thực hiện những công việc nhất định, và là quá trình xác định sẽ trả bao nhiêu cho người làm việc.
+ @labour movement  
+*  dt
+- phong trào công đoàn
+
+@labour of love  
+*  dt
+- việc làm không vì lợi
+- việc làm thích thú
+- việc làm vì người mình yêu
+
+@labour party  
+*  dt
+- Công đảng (Anh)
+
+@Labour power
+- (Econ) Sức lao động.
+: Một cụm thuật ngữ được C.Mác dùng để miêu tả hàng hoá mà người công nhân bán cho các nhà tư bản.
+ @labour relations  
+*  dt số nhiều
+- quan hệ đối với công nhân
+
+@Labour standard
+- (Econ) Tiêu chuẩn lao động.
+: Một cụm thuật ngữ do J.H.HICKS phát triển để thể hiện cách giải thích đặc biệt của ông về cách thức mà tiền lương (và do vậy, giá cả) được ấn định.
+ @Labour supply
+- (Econ) Cung lao động.
+: Xem SUPPLT OF LABOUR.
+ @Labour surplus economy
+- (Econ) Nền kinh tế thừa lao động.
+: Xem LEWIS-FEI - RANIS MODEL
+ @Labour theory of value
+- (Econ) Lý thuyết lao động về giá trị.
+: Một học thuyết được CÁC NHÀ KINH TẾ HỌC CỔ ĐIỂN, như RICARDO và đặc biệt là C.Mác sử dụng để giải thích việc ấn định các giá cả tương đối trên cơ sở số lượng lao động, hiện tại và tích dồn, được bao hàm trong hàng hoá.
+ @Labour turnover
+- (Econ) Mức độ thay lao động.
+: Một cụm thuật ngữ áp dụng cho các doanh nghiệp để miêu tả số việc làm thay đổi, những người thôi làm việc và những người mới được thuê mướn.
+ @laboured  
+*  tt
+- nặng nhọc, khó khăn
+
++ laboured breathing: hơi thở nặng nhọc
+- không thanh thoát, cầu kỳ
+
++ a laboured style of writing: lối hành văn không thanh thoát, lối hành văn cầu k
+
+@labourer  
+*  dt
+- người lao động chân tay, lao công
+
+@labouring  
+*  tt
+- cần lao, lao động
+
++ the labouring people: nhân dân lao động
+
++ labouring man: người lao động, công nhân
+- cực nhọc
+
+@labourist   (labourite) @labourite   (labourite) @labour-market  
+*  dt
+- số lượng công nhân sãn có (để cung cấp cho yêu cầu của các xí nghiệp)
+
+@Labour's share
+- (Econ) Tỷ trọng của lao động.
+: Tỷ trọng tiền lương trong THU NHẬP QUỐC DÂN.
+ @labour-saving  
+*  tt
+- làm giảm nhẹ sức lao động, tiết kiệm sức lao động
+
+@labra   (labrum) @labrador
+* dt
+- loại chó tha mồi có lông đen hoặc vàng
+ @la-breaker  
+*  dt
+- kẻ phạm pháp
+
+@labret
+* dt
+- đồ trang sức (mảnh vỏ ốc, hến v v) đục lỗ đeo ở môi, đĩa môi
+ @labrid
+* dt
+- họ cá hăng chài
+ @labroid
+* dt
+- xem labrid
+ @labrum   (labrum) @laburnum  
+*  dt
+- (thực vật học) cây kim tước
+
+@labyrinth  
+*  dt
+- cung mê
+- đường rối
+- trạng thái rắc rối phức tạp
+- đường dẫn (nước và quặng trong hầm mỏ)
+- (giải phẫu) đường rối (tai trong); tai trong
+
+@labyrinth
+- mê lộ, đường rối
+ @labyrinthian   (labyrinthic) @labyrinthic   (labyrinthic) @labyrinthine   (labyrinthic) @labyrinthine
+- (điều khiển học) (thuộc) mê lộ, đường rối
+ @lac  
+*  dt
+- cánh kiến đỏ
+- sơn
+*  dt: (lakh) @laccolith
+* dt
+- (địa) thể nấm
+ @lace  
+*  dt
+- dây, buộc, dải buộc
+- ren, đăng ten
+*  ngdgt
+- thắt, buộc
+
++ to lace [up] one's shoes: thắt dây giày
+- viền, viền bằng ren, viền bằng đăng ten
+- pha thêm (rượu mạnh)
+
++ glass of milk laced with rhum: cố sữa pha rượu rum
+- chuộc khát quất
+*  ndgt
+- nịt chặt, buộc chặt
+- (: into) đánh, quất (ai)
+
+@lacebug
+* dt
+- (động vật) rệp cây
+ @laced
+* tt
+- có dây buộc
+ @laceless
+* tt
+- không có dây buộc
+ @lacelike
+* tt
+- giống sợi dây
+ @lace-making  
+*  dt
+- nghề làm ren; nghệ thuật làm ren
+
+@lacerable  
+*  tt
+- xé rách được
+
+@lacerate  
+*  ngdgt
+- xé, xé rách
+
++ a lacerated wound: một vết thương bị xé nứt ra
+- làm tan nát, làm đau (lòng)
+
++ to lacerate the hear: làm đau lòng
+
+@laceration  
+*  dt
+- sự xé rách
+- (y học) vết rách
+
+@lacertian
+* tt
+- xem lacertilian
+ @lacertilian
+* tt
+- thuộc hoặc giống con thằn lằn
+* dt
+- (động vật) bộ thằn lằn
+ @lace-up
+* dt
+- giày hoặc giày ống có dây buộc
+ @laceword
+* dt
+- đồ ren hoặc giống đồ ren
+ @laches  
+*  dt
+- (pháp lý) sự sao lãng, sự biếng trễ
+
+@lachrymal  
+*  tt
+- (thuộc) nước mắt
+
++ lachrymal duct: ống nước mắt
+
++ lachrymal gland: tuyến nước mắt
+
+@lachrymation
+* dt
+- cũng lacrimation
+- sự chảy nước mắt quá nhiều hoặc không bình thường
+ @lachrymator  
+*  dt
+- (hoá học) chất làm chảy nước mắt, hơi làm chảy nước mắt
+
+@lachrymatory  
+*  dt
+- bình lệ (bình tìm thấy ở mộ cổ La mâ, có giả thuyết là để đựng nước mắt của những người dự lễ tang))
+*  tt
+- làm chảy nước mắt
+
++ lachrymatory bomb: bom làm chảy nước mắt
+
+@lachrymose  
+*  tt
+- hay chảy nước mắt, khóc lóc
+- buồn rầu, sụt sùi, sướt mướt
+
+@lacing
+* dt
+- sự buộc
+- cái buộc
+- chút rượu bỏ vào thức ăn, đặc biệt là đồ uống (ví dụ cà phê) để thêm hương vị
+- lớp gạch xây thêm vào tường bằng đá để tăng sức chịu đựng
+- (thông tục) trận đòn đánh, quất bằng roi
+ @laciniate
+* tt
+- (lá) có khía
+ @laciniation
+* dt
+- (lá) tính chất có khía
+ @lack  
+*  dt
+- sự thiếu
+
++ the plant died for lack of water: cây chết vì thiếu nước
+*  ngdgt
+- thiếu, không có
+
++ I lack words to express my job: tôi không đủ lời để diễn tả hết niềm vui của tôi
+*  ndgt
+- thiếu, không có (chỉ động tt quá khứ)
+
++ water is no longer lacking thanks to irrigation works: nước không còn thiếu nữa nhờ có công trình thuỷ lợi
+
+@lack
+- sự thiếu, sự vắng mặt
+ @lackadaisical  
+*  tt
+- đa sầu, đa cảm; yếu đuối, uỷ mị, ẻo lả
+
+@lackadaisically
+* dt
+- ủy mị, đa sầu đa cảm, ẻo lả
+ @lackadaisicalness  
+*  dt
+- tính đa sầu, tính đa cảm; tính yếu đuối, tính uỷ mị (tâm hồn)
+
+@lackaday
+- interj
+- (từ cổ, nghĩa cổ) ôi (dùng để diễn tả sự buồn bã, tiếc hoặc không tán thành)
+ @lacker   (lacker) @lackey   (lacquey) @lacking
+* tt
+- ngu độn; ngây ngô
+ @lackland  
+*  tt
+- không có ruộng đất
+*  dt
+- người không có ruộng đất
+
+@lackluster   (lacklustre) @lacklustre   (lacklustre) @laconic   (laconical) @laconical   (laconical) @laconically
+* dt
+- ngắn gọn, vắn tắt
+ @laconicism   (laconism) @laconicum
+* dt; số nhiều laconica
+- buồng tắm nóng, phòng tắm hơi (từ cổ La Mã)
+ @laconism   (laconism) @lacquer   (lacker) @lacquered  
+*  tt
+- sơn, quét sơn
+- bóng nhoáng
+
+@lacquerer  
+*  dt
+- thợ sơn
+
+@lacquey   (lacquey) @lacrimal
+* tt, cũng lachrymal
+- thuộc nước mắt; thuộc tuyến nước mắt
+ @lacrosse
+* dt
+- môn thể thao dùng vợt để bắt và ném bóng
+ @lactase  
+*  dt
+- (sinh vật học) lactaza
+
+@lactasion  
+*  dt
+- sự sinh sữa, sự chảy sữa
+- sự cho b
+
+@lactasional  
+*  tt
+- (thuộc) sự sinh sữa, (thuộc) sự chảy sữa
+- (thuộc) sự cho b
+
+@lactate
+* dt
+- (hoá học) lactat
+* ndgt
+- tiết ra sữa; chảy sữa; sinh sữa
+ @lactation
+* dt
+- sự sinh sữa, sự chảy sữa
+- sự cho bú
+ @lactational
+* tt
+- (thuộc) sự sinh sữa, (thuộc) sự chảy sữa
+- (thuộc) sự cho bú
+ @lacteal  
+*  tt
+- (thuộc) sữa; như sữa
+- (giải phẫu) dẫn dịch dưỡng (ống)
+
+@lacteous  
+*  tt
+- (thuộc) sữa; như sữa
+
+@lactescence   (lactescency) @lactescency   (lactescency) @lactescent  
+*  tt
+- giống sữa, đục như sữa
+- tiết ra giống sữa
+
+@lactic  
+*  tt
+- (hoá học) Lactic
+
++ lactic acid: axit lactic
+
+@lactic acid
+- <hóa> axit lactic
+ @lactiferous  
+*  tt
+- tiết sữa; dẫn sữa
+
+@lactiferousness  
+*  dt
+- sự tiết sữa; sự dẫn sữa
+
+@lactobacillus
+* dt
+- khuẩn sữa
+ @lactogenic
+* tt
+- tiết ra sữa
+ @lactoglobulin
+* dt
+- lactoglobulin; globulin sữa
+ @lactometer  
+*  dt
+- cái đo sữa
+
+@lactose  
+*  dt
+- Lactoza, đường sữa
+
+@lacto-vegetarianism
+* dt
+- chế độ ăn chay cho phép ăn một số sản phẩm động vật (sữa, pho mát, và đôi khi cả trứng nữa)
+ @lacuna  
+*  dt,  số nhiều lacunae  @lacuna
+- lỗ hổng, chỗ khuyết
+ @lacunae  
+*  dt,  số nhiều lacunae  @lacunal   (lacunose) @lacunar  
+*  tt
+- (thuộc) kẽ hở, (thuộc) lỗ khuyết, (thuộc) lỗ hổng
+
+@lacunarity
+- tính có lỗ hổng
+ @lacunar(y)
+- hổng, khuyết
+ @lacunose   (lacunose) @lacunosity  
+*  dt
+- sự có kẽ hở, sự có lỗ khuyết, sự có lỗ hổng
+
+@lacustrine  
+*  tt
+- (thuộc) hồ
+
++ lacustrine vegetation: cây cối ở hồ
+
++ lacustrine age: thời đại sống ở trên h
+
+@lacy  
+*  tt
+- giống như ren
+- làm bằng ren, làm bằng dải thêu
+
+@lad  
+*  dt
+- chàng trai, chú bé
+- chú coi chuồng ngựa
+
+@ladanum
+* dt
+- thang
+- một cái gì giống như cái thang
+- bậc thang
+
++  the promotion ladanum:bậc thang danh vọng
+ @ladder  
+*  dt
+- thang ((nghĩa đen) & (nghĩa bóng))
+
++ folding ladder: thang gặp được
+
++ the ladder of fame: thang danh vọng
+!to kick down ladder
+- từ bỏ những người bạn đã giúp mình nên địa vị; từ bỏ nghề nghiệp đã giúp mình có địa vị
+
+@ladder company  
+*  dt
+- nhóm chữa cháy
+
+@ladder man  
+*  dt
+- người nhóm chữa cháy
+
+@ladder-back
+* dt
+- ghế có lưng gồm hai trụ nối bằng những thanh ngang
+ @laddie  
+*  dt
+- anh chàng trai trẻ, chú bé tí hon
+
+@laddish  
+*  tt
+- trai trẻ; bé bỏng, non nớt
+
+@lade  
+*  ngdgt laded; laded; laden
+- chất hàng (lên tàu)
+
++ to lade a ship with cargo: chất hàng lên tàu
+
+@laden  
+*  thời quá khứ của lade
+*  tt
+- chất đầy, nặng trĩu
+
++ a cart laden with goods: xe bò chất đầy hàng
+
++ a tree laden with fruit: cây trĩu quả
+
++ a mind laden with frief: tâm trí đầy đau buồn
+
+@la-di-da  
+*  dt
+- người màu mè, người kiểu cách
+
+@ladida
+* tt
+- (thực vật) điệu bộ; màu mè; kiểu cách; điệu đàng
+
++  a ladida accent:phát âm kiểu cách, màu mè
+ @ladies  
+*  dt số nhiều
+- nơi vệ sinh n
+
+@ladies' man   (lady's_man) @ladies' room  
+*  dt
+- phòng vệ sinh n
+
+@ladies-in-waiting   (maid-in-waiting) @ladin
+* dt
+- nhóm phương ngữ Thụy sỹ
+- người nói tiếng Rômansơ như ngôn ngữ mẹ đẻ của mình
+ @lading  
+*  dt
+- sự chất hàng (lên tàu)
+- hàng hoá (chở trong tàu)
+!bill of lading
+- (hàng hải) hoá đơn vận chuyển
+
+@ladino
+* dt; số nhiều ladinos
+- tiếng Lađinô (Tây Ban Nha pha Do Thái)
+- (thường) viết hoa người gốc pha tạp Tây Ban Nha - Mỹ
+ @ladle  
+*  dt
+- cái môi (để múc)
+*  ngdgt
+- múc bằng môi
+
++ to ladle out soup: múc súp bằng môi
+
+@ladleful  
+*  dt
+- môi (đầy)
+
+@ladrone  
+*  dt
+- kẻ cướp, kẻ cướp đường, cường đạo
+
+@lady  
+*  dt
+- vợ, phu nhân
+
++ Lady Bertrand Russell: phu nhân Béc-tơ-răng Rút-xen
+- nữ, đàn bà
+
++ ladys watch: đồng hồ nữ
+
++ lady doctor: nữ bác sĩ
+
++ ladies and gentlemen: thưa quý bà, quý ông
+- người yêu
+- bà chủ; người đàn bà nắm quyền binh trong tay
+
++ the lady of the manor: bà chủ trang viên
+!Our Lady
+- Đức Mẹ đồng trinh
+
+@lady bountiful  
+*  dt
+- bà hay làm phúc
+
+@lady chapel
+* dt
+- <tôn> điện thờ Đức mẹ đồng trinh
+ @lady day
+* dt
+- <tôn> Lễ truyền tin ngày 25 tháng 3
+ @ladybird
+* dt
+- con bọ rùa
+ @ladybug
+* dt
+- con bọ rùa
+ @ladyfinger  
+*  dt
+- bánh quy sâm banh
+
+@lady-in-waiting   (maid-in-waiting) @ladyish  
+*  tt
+- như bà lớn, có vẻ bà lớn
+
+@ladyishness  
+*  dt
+- tính như bà lớn, vẻ bà lớn
+
+@lady-killer  
+*  dt
+- (âm nhạc) anh chàng đào hoa, anh chàng nổi tiếng là đào hoa
+
+@ladylike  
+*  tt
+- có dáng quý phái (đàn bà)
+- uỷ mị như đàn bà
+
+@lady-love  
+*  dt
+- người yêu, người tình (đàn bà)
+
+@lady'maid  
+*  dt
+- cô hầu phòng
+
+@lady's man   (lady's_man) @ladyship  
+*  dt
+- thân thế quý tộc (của một người đàn bà)
+!her ladyship
+!Your ladyship
+- tâu lệnh bà
+
+@laevo
+* tt
+- xem laevorotatory
+ @laevodopa
+* dt
+- (hoá học) aminoaxit
+ @laevogyrate   (levogyrate) @laevorotation
+* dt
+- sự quay về phía trái; sự quay ngược chiều kim đồng hồ
+ @laevorotatory
+- Cách viết khác : laevorotary 
+ @laevulose   (levulose) @Laffer curve
+- (Econ) Đường Laffer.
+ @lag  
+*  dt,  (từ lóng)
+- người tù khổ sai
+- án tù khổ sai
+*  ngdgt
+- bắt giam
+- bắt đi tù khổ sai
+*  dt
+- (vật lý) sự trễ, sự chậm
+
++ magnetic lag: hiện tượng trễ từ
+
++ phase lag: sự trễ pha, sự chậm pha
+*  ndgt
+- đi chậm chạp; chậm trễ, tụt lại sau
+
++ to lag behind: tụt lại đằng sau
+*  dt
+- nắp không dẫn nhiệt (của nồi hơi...)
+*  ngdgt
+- nắp không dẫn nhiệt vào (nồi hơi...)
+
+@lag
+- sự trễ, sự chậm; sự chuyển dịch âm của pha
+- control l. [sự trễ, sự chậm] điều chỉnh 
+- controller l. sự chậm của [người, bộ phận] điều chỉnh
+- corrective l. sự trễ hiệu chính
+- instrument l. sự trễ dụng cụ, sự giảm tốc dụng cụ 
+- measurring l. (điều khiển học) sự trễ đo
+- phase l. sự trễ pha, sự dịch chuyển âm của pha
+- plant l. sự trễ trong đối tượng điều chỉnh 
+- process l. sự trễ trong quá trình 
+- response l. sự trễ phản ứng 
+- time l. (giải tích) sự trễ thời gian 
+ @lagan  
+*  dt
+- (pháp lý) xác tàu đắm; hàng hoá bị chìm dưới đáy biển
+
+@lagator  
+*  dt
+- người để lại di sản
+
+@lagend
+* dt
+- xem lagan
+ @lager   (lagerbeer) @lagerbeer   (lagerbeer) @laggard  
+*  dt
+- người chậm chạp; người đi chậm đằng sau
+- người lạc hậu
+*  tt
+- chậm chạp; chậm trễ
+- lạc hậu
+
+@laggardly
+* tt,  adv
+- chậm chạp; tụt hậu
+ @laggardness  
+*  dt
+- tính chậm chạp; tính chậm trễ
+- tính lạc hậu
+
+@Lagged relationship
+- (Econ) Quan hệ trễ.
+: Mối quan hệ giữa các biến mà trong đó giá trị hiện tại của BIẾN PHỤ THUỘC có quan hệ với các giá trị trước của một hay nhiều BIẾN ĐỘC LẬP.
+ @lagger  
+*  dt
+- người đi chậm đằng sau
+- người biếng nhác
+
+@lagging  
+*  dt
+- sự đi chậm đằng sau
+*  tt
+- đi chậm đằng sau
+
+@lagniappe
+* dt
+- (từ Mỹ, nghĩa Mỹ) quà tặng nhỏ của người bán tặng cho người mua
+ @lagomorph
+* dt
+- động vật gặm nhấm
+ @lagomorphic
+- Cách viết khác : lagomorphous 
+ @lagoon  
+*  dt
+- (địa lý,ddịa chất) phá
+
+@Lagrangean technique
+- (Econ) Phương pháp nhân tử Lagrange.
+: Một phương pháp giải quyết các bài toán tối ưu hoá có ràng buộc, trong đó các ràng buộc được viết thành HÀM ẨN gộp cùng với HÀM MỤC TIÊU để tạo ra phương trình gọi là phương trình Lagrange.
+ @laguna
+* dt
+- hồ nhỏ
+ @lah
+* dt
+- <nhạc> La
+* (viết tắt)
+- Los Angeles (tiểu bang California của Mỹ)
+ @lahnda
+* dt
+- ngôn ngữ ấn ở Tây Punjab
+ @laic  
+*  tt
+- không theo đạo thế tục, phi giáo hội
+*  dt
+- người không theo đạo, người thế tục
+
+@laicisation
+* dt
+- sự tách khỏi giáo hội, sự dứt quan hệ với giáo hội; sự làm trở thành phi giáo hội
+ @laicise   (laicise) @laicism  
+*  dt
+- tính thế tục; tình trạng phi giáo hội
+
+@laicization  
+*  dt
+- sự tách khỏi giáo hội, sự dứt quan hệ với giáo hội; sự làm trở thành phi giáo hội
+
+@laicize   (laicise) @laid  
+*  dt
+- bài thơ ngắn, bài vè ngắn
+- (thơ ca) bài hát, bài ca, bài thơ
+- (thơ ca) tiếng chim, hót
+- vị trí, phương hướng
+- đường nét (của bờ sông bờ biển)
+- (từ lóng) công việc
+
++ that doesn't belong to my lay: cái đó không phải việc của tôi
+*  ngdgt laid
+- xếp, để, đặt; sắp đặt, bố trí
+
++ to lay one's hand on someone's shouldder: để tay lên vai ai
+
++ to lay a child to sleep: đặt đứa bé nằm ngủ
+
++ to lay the foundation of socialism: đặt nền móng cho chủ nghĩa xã hội
+
++ to lay a plant: bố trí một kế hoạch
+
++ to lay a plot: sắp đặt một âm mưu
+- bày, bày biện
+
++ to lay the table for dinner: bày bàn ăn
+- làm xẹp xuống, làm lắng xuống, làm mất, làm hết
+
++ the rains has laid the dust: mưa làm lắng bụi xuống
+
++ to lay someone's doubts: làm ai hết nghi ngờ
+- làm rạp xuống (cây cối), phá hỏng
+
++ the storm laid the corps: bão là rạp cả hoa màu, bão phá hỏng hoa màu
+- đặt vào, dẫn đến, đưa đến (một hoàn cảnh, một tình trạng)
+
++ his bad behaviour lays me under the necessity of punishing him: cách xử sự xấu của hắn buộc tôi phải phạt hắn
+- trình bày, đưa ra
+
++ to lay the facts before the Commitee: trình bày sự việc trước uỷ ban
+- quy (tội), đỗ (lỗi)
+
++ to lay all the blame on someone: quy tất cả lỗi (trách nhiệm) vào ai
+- bắt phải chịu, đánh (thuế)
+
++ to lay heavy taxes on something: đánh thuế nặng vào cái gì
+- trải lên, phủ lên
+
++ to lay a floor with a carpet: trải thảm lên sàn
+- đánh, giáng (đòn)
+
++ to lay hard blows: giáng những đòn nặng nề
+- đánh cược
+
++ to lay that...: đánh cược răng...
+- hướng (đại bác) về phía
+- đẻ (chim)
+
++ hens lay eggs: gà mái đẻ trứng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ăn nằm với, giao hợp với
+*  ndgt
+- nằm
+- đánh cược
+- đẻ trứng (gà)
+!to lay aside
+- gác sang một bên, không nghĩ tới
+
++ to lay aside one's sorrow: gác nỗi buồn riêng sang một bên
+- dành dụm, để dành
+
++ to lay aside money for one's old age: dành dụm tiền cho đến lúc tuổi già
+- bỏ, bỏ đi
+
++ to lay aside one's old habits: bỏ những thói quen cũ đi
+!to lay away
+!to lay aside to lay before
+- trình bày, bày tỏ
+!to lay by
+!to lay aside to lay down
+- đặt nằm xuống, để xuống
+- cất (rượu) vào kho
+- hạ bỏ
+
++ to lay down one's arms: hạ vũ khí, đầu hàng
+- chuyển (một miếng đất) thành đồng cỏ (để chăn nuôi)
+
++ to lay down land in (to, under, with) grass: chuyển một miếng đất thành cánh đồng cỏ
+- hy sinh
+
++ to lay down one's life for the fatherland: hy sinh tính mệnh cho tổ quốc
+- đánh cược, cược
+
++ to lay down on the result of the race: đánh cược về kết quả cuộc chạy đua
+- sắp đặt, dự kiến, bắt đầu xây dựng
+
++ to lay down a railway: bắt đầu xây dựng một đường xe lửa
+- đề ra, tuyên bố; xác nhận, thừa
+
++ I lay it down that this is a very intricate question: tôi xác nhận đó là một vấn đề rất phức tạp
+!to lay for
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nằm đợi
+!to lay in
+- dự trữ, để dành
+- (thông tục) đánh, quai, đấm tới tấp
+!to lay off
+- (hàng hải) lái ra xa bờ, tránh
+!ngừng (làm việc)
+- (từ Mỹ,nghĩa Mỹ) thải, đuổi, giãn (thợ)
+!to lay on
+- đánh, giáng đòn
+
++ to lay on hard blows: giáng cho những đòn nặng nề
+- rải lên, phủ lên, quét lên
+
++ to lay on plaster: phủ một lượt vữa, phủ vữa lên
+- đặt ống (dẫn hơi, dẫn nước...); đặt đường dây (điện)
+!to lay out
+- sắp đặt, bố trí (theo sơ đồ)
+- trình bày, phơi bày, đưa ra
+- trải ra
+- liệm (người chết)
+- tiêu (tiền)
+- (từ lóng) giết
+- dốc sức làm
+
++ to lay oneself out: nổ lực, dốc hết sức làm (cái gì)
+!to lay over
+- trải lên, phủ lên
+!to lay up
+- trữ, để dành
+!to lay about one
+- đánh tứ phía
+!to lay bare
+- (xem) bare
+!to lay one's bones
+- gửi xương, gửi xác ở đâu
+!to lay somebody by the heels
+- (xem) heel
+!to lay captive
+- bắt giữ, cầm tù
+!to lay one's card on the table
+- (xem) card
+!to lay fast
+- nắm chặt, giữ chặt, không cho chạy thoát
+!to laythe fire
+- xếp củi để đốt
+!to lay great store upon (on) someone
+- đánh giá cao ai
+!to lay hands on
+- (xem) hand
+!to lay heads together
+- (xem) head
+!to lay hold of (on)
+- nắm chặt, giữ chặt, tóm, bắt
+- lợi dụng
+!to lay it on thick
+- (xem) thick
+!to lay an information agaisnt somebody
+- đệ đơn kiện ai
+!to lay one's hope on
+- đặt hy vọng vào
+!to lay open
+- tách vỏ ra
+!to lay siege to
+- bao vây
+!to lay under contribution
+- (xem) contribution
+!to lay stress on
+- nhấn mạnh
+!to lay something to heart
+- (xem) heart
+!to lay to rest (to sleep)
+- chôn
+!to lay under an obligation
+- làm cho (ai) phải chịu ơn
+!to lay under necessity
+- bắt buộc (ai) phải
+!to lay waste
+- tàu phá
+*  tt
+- không theo giáo hội, phi giáo hội, thế tục
+- không chuyên môn
+
++ lay opinion: ý kiến của người không chuyên môn
+*  thời quá khứ của lie
+
+@laid-back
+* tt
+- <kng> thư thái, ung dung
+ @lain  
+*  động tt quá khứ của lie
+
+@lair  
+*  dt
+- hang ổ thú rừng
+- trạm nhốt (nhốt súc vật trên đường đưa ra chợ)
+*  dgt
+- nằm (ở trong hang ổ) (thú)
+- đưa vào trạm nhốt, nhốt vào trạm nhốt
+
+@laird  
+*  dt
+- (Ê-cốt) địa ch
+
+@lairy
+* tt
+- (từ lóng) tinh ranh; xảo quyệt
+- loè loẹt; hoa hoè hoa sói; sặc sỡ; hào nhoáng
+ @laisser-aller
+* dt
+- tính phóng túng, tính không câu thúc, tính không gò bó
+- tính xuềnh xoàng, tính dễ dãi
+- tính cẩu thả
+ @laisser-faire  
+*  dt
+- chính sách để mặc tư nhận kinh doanh
+*  tt
+- (thuộc) chính sách để mặc tư nhận kinh doanh; dựa trên chính sách để mặc tư nhận kinh doanh
+
+@Laissez - faire
+- (Econ) Học thuyết về nền kinh tế tự vận hành.
+: Một học thuyết cho rằng các vấn đề kinh tế của xã hội được định hướng tốt nhất bởi quyết định của các cá nhân mà không có sự can thiệp của các cơ quan chính quyền.
+ @Laissez - faire economy
+- (Econ) Nền kinh tế tự vận hành (chính phủ ít can thiệp).
+ @laissez-aller  
+*  dt
+- tính phóng túng, tính không câu thúc, tính không gò bó
+- tính xuềnh xoàng, tính dễ dãi
+- tính cẩu thả
+
+@laissez-faire
+* dt
+- xem laisser-faire
+- dt
+ @laissez-passer
+* dt
+- giấy thông hành
+ @laitance
+* dt
+- xi măng hoà nước
+ @laity  
+*  dt
+- những người thế tục, những người không theo giáo hội
+- những người không cùng ngành nghề
+- tính chất là người thế tục
+
+@lake  
+*  dt
+- chất màu đỏ tía (chế từ sơn)
+*  dt
+- (địa lý,ddịa chất) h
+
+@lake district
+* dt
+- vùng có nhiều hồ ở miền Tây Bắc nước Anh
+ @lake poets  
+*  dt
+- ba nhà thơ vùng Hồ (ở Anh)
+
+@lake-dweller  
+*  dt
+- người sống trên hồ (xưa)
+
+@lake-dwelling  
+*  dt
+- nhà ở trên mặt hồ (xưa)
+
+@lakelet  
+*  dt
+- hồ nh
+
+@lakh  
+*  dt
+- cánh kiến đỏ
+- sơn
+*  dt: (lakh) @lallan
+* tt
+- thuộc miền đất thấp của Xcôtlân
+ @lallans
+* dt
+- tiếng địa phương miền đất thấp Xcôtlân
+ @lallation   (lambdacism) @lallygag  
+*  ndgt
+- tha thẩn, la cà
+- hôn hít, vuốt ve
+
+@lam  
+*  dgt
+- (từ lóng) đánh, quật, vụt (bằng gậy)
+
++ to lam [into] somebody: quật ai, đánh ai
+*  ndgt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) trốn tránh, chạy trốn, lẩn trốn
+
+@lama  
+*  dt
+- Lama thầy tu ở Tây-tạng
+!Grand (Dalai) Lama
+- Đalai lama
+*  dt
+- (như) hama
+
+@lamaism
+* dt
+- Lạt-ma giáo (Tây Tạng và Mông cổ)
+ @lamaist
+* dt
+- adj
+- (người) theo Lạt-ma giáo
+ @lamaistic
+* tt
+- Lạt-ma giáo
+ @lamarckian
+* tt,  n
+- (thuộc) học thuyết Lamac
+ @lamarckism
+* dt
+- (sinh học) học thuyết Lamac
+ @lamasery  
+*  dt
+- tu viện lama
+
+@lamb  
+*  dt
+- cừu con; cừu non
+- thịt cừu non
+- người ngây thơ; người yếu đuối
+- em nhỏ (tiếng gọi âu yếm)
+!as well be hanged for a sheep as for a lamb
+- đã trót thì phải trét
+!a fox (wolf) in lamb's skin
+- cáo (chó sói) đội lốt cừu, kẻ giả nhân giả nghĩa
+!The Lamb (of God)
+- Chúa Giê-xu
+!like a lamb
+- hiền lành ngoan ngoãn
+*  dgt
+- đẻ con (cừu)
+
+@lambaste  
+*  ngdgt
+- (tiếng địa phương) đánh quật, vật
+
+@lambda  
+*  dt
+- Lamdda (chữ cái Hy-lạp)
+
+@lambda
+- lamđa (&#955;)
+ @lambdacism   (lambdacism) @lambdagram
+- (thống kê) biểu đồ lamđa
+ @lambency  
+*  dt
+- sự lướt nhẹ, sự liếm nhẹ, sự nhuốm nhẹ (ánh sáng, ngọn lửa)
+- sự sáng dịu, sự óng ánh (trời, mắt)
+
+@lambent  
+*  tt
+- lướt nhẹ, liếm nhẹ, nhuốm nhẹ, sáng óng anh, sáng dịu (bầu trời, sao, mắt)
+
++ lambent eyes: mắt sáng dịu
+
++ lambent wit: tính dí dỏm, dịu dàng
+
+@lambert
+* dt
+-  o (vật lý) lambe (đơn vị độ sáng)
+ @lambkin  
+*  dt
+- cừu con; cừu non
+
+@lambrequin  
+*  dt
+- diềm (màn, trướng)
+
+@lambskin  
+*  dt
+- da cừu non
+
+@lamb's-wood  
+*  dt
+- len cừu non
+- hàng len cừu non
+
+@lamb's-wool
+* dt
+- len cừu non
+- hàng len cừu non
+ @lame  
+*  tt
+- què, khập khiễng
+
++ to be lame of (in) one leg: què một chân
+
++ to go lame; to walk lame: đi khập khiễng
+- không chỉnh, không thoả đáng; què quặt không ra đâu vào đâu
+
++ a lame argument: lý lẽ không thoả đáng
+
++ lame verses: câu thơ không chỉnh
+
++ a lame excuse: lời cáo lỗi không thoả đáng
+
++ a lame story: câu chuyện què quặt không ra đâu vào đâu
+*  ngdgt
+- làm cho què quặt, làm cho tàn tật
+*  dt
+- lá kim loại
+
+@lamebrain
+* dt
+- (từ Mỹ,  (thông tục)) ngu dốt; đần độn
+ @lamebrain(ed)
+* tt
+- ngu ngốc; ngu độn
+ @lamed
+* dt
+- chữ cái thứ 12 trong tự mẫu Hebrơ (Do Thái)
+ @lame-duck
+- vịt què <bóng>
+- người sắp hết nhiệm kỳ (tổng thống)
+ @lamella  
+*  dt,  số nhiều lamellae  @lamellae  
+*  dt,  số nhiều lamellae  @lamellarly
+* dt
+- do từng lá mỏng làm thành
+ @lamellation
+* dt
+- sự hình thành hoặc phân chia thành lá, tờ
+ @lamellibranch
+* dt; số nhiều lamellibranchs
+- (động vật) lớp mang tấm
+* tt
+- thuộc lớp mang tấm
+ @lamellibranchiate
+* tt
+- thuộc lớp mang tấm
+ @lamellicorn
+* tt
+- thuộc nhóm râu lá (sâu bọ cánh cứng)
+ @lamelliform
+* tt
+- có hình lá; có dạng tờ
+ @lamely
+* dt
+- què quặt, khập khiểng
+ @lameness  
+*  dt
+- sự què quặt, sự đi khập khiễng
+- tính không chỉnh, tính không thoả đáng (lý lẽ...)
+
+@lament  
+*  dt
+- lời than van, lời rên rỉ
+- bài ca ai oán, bài ca bi thảm
+*  ngdgt
+- thương xót, xót xa, than khóc
+*  ndgt
+- than van, rên rỉ, than khóc, kêu than
+
+@lamentable  
+*  tt
+- đáng thương, thảm thương, ai oán
+- đáng tiếc, thảm hại
+
++ a lamentable performance of a play: một buổi diễn kịch thảm hại
+
+@lamentableness  
+*  dt
+- tính đáng thương, tính thảm thương, tính ai oán
+- tính đáng tiếc, tính thảm hại
+
+@lamentably
+* dt
+- đáng thương, thảm thương
+ @lamentation  
+*  dt
+- sự than khóc
+- lời than van
+
+@lamented  
+*  tt
+- được thương xót, được thương tiếc, được than khóc
+
++ the lamented Mr X: ông X người đã quá cố được chúng ta thương tiếc
+
+@lamia  
+*  dt
+- (thần thoại,thần học) nữ yêu (ăn thịt người và hút máu trẻ con)
+
+@lamina  
+*  dt,  số nhiều laminae  @lamina
+- lớp mỏng, bản mỏng
+ @laminable  
+*  tt
+- cán mỏng được, dát mỏng được
+
+@laminae  
+*  dt,  số nhiều laminae  @laminal   (laminar) @laminar   (laminar) @laminar
+- thành lớp
+ @laminary   (laminar) @laminate  
+*  dgt
+- cán mỏng, dát mỏng
+
+@laminated  
+*  tt
+- thành phiến, thành lá, gồm những phiến, gồm những lá
+
+@laminating-machine
+* dt
+- máy dát kim loại
+* dt
+- máy dát kim loại
+ @lamination  
+*  dt
+- sự cán mỏng, sự dát mỏng
+
+@laminator
+* dthư laminating-machine
+- như laminating-machine
+ @lamington
+* dt
+- bánh ngọt úc (làm bằng sôcôla và dừa)
+ @laminitis
+* dt
+- bệnh viêm móng ngựa
+ @lammas  
+*  dt
+- ngày hội mùa (ngày 1 8)
+!latter Lammas
+- một ngày không bao giờ đến
+
+@lammastide
+* dt
+- thời gian gần ngày hội mùa
+ @lammergeier
+* dt
+- cũng lammergeyer
+- loại chim kền kền lớn (sống ở vùng núi từ Pirênê đến bắc Trung quốc)
+ @lamp  
+*  dt
+- đèn
+
++ electric lamp: đèn điện
+
++ oil lamp: đèn dầu
+
++ table lamp: đèn để bàn
+- mặt trời, mặt trăng, sao
+
++ lamp of Phoebus: (thơ ca) mặt trời
+
++ lamp of heaven: (thơ ca) mặt trăng
+- nguồn ánh sáng (tinh thần...), nguồn hy vọng
+!to pass (band) on the lamp
+- góp phần vào bước tiến (của khoa học, của một sự nghiệp...)
+!to smell of the lamp
+- tỏ ra công phu; phải thức đêm thức hôm để làm
+- nặng nề, không thanh thoát; cầu kỳ (văn)
+*  dgt
+- chiếu sáng, rọi sáng
+- treo đèn, chăng đèn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nhìn
+
+@lamp
+- đền
+- cold cathode i. đền âm cực lạnh
+- finish l. (máy tính) đền kết thúc quá trình tính 
+- gas-discharge l. (vật lí) đền phóng điện qua khí 
+- glow l. đền nóng sáng 
+- pilot l. (máy tính) đền hiệu, đền kiểm tra 
+ @lamp wick  
+*  dt
+- bấc đèn
+
+@lampas  
+*  dt
+- bệnh sưng hàm ếch (ngựa)
+
+@lampblack  
+*  dt
+- muội đèn
+- thuốc nhuộm chế bằng muội đèn
+
+@lamp-chimney  
+*  dt
+- thông phong, bóng đèn
+
+@lampern
+* dt
+- cá mút đá (ở sông châu Âu)
+ @lamp-holder   (lamp-socket) @lampion  
+*  dt
+- đèn chai, đèn cốc
+
+@lamplight  
+*  dt
+- ánh sáng đèn, ánh sáng nhân tạo
+
+@lamplighter  
+*  dt
+- người thắp đèn
+!like a lamplighter
+- rất nhanh
+
++ to run like a lamplighter: chạy cuống cuồng, chạy bán sống bán chết
+
+@lampoon  
+*  dt
+- bài văn đả kích
+
+@lampooner   (lampoonist) @lampoonery  
+*  dt
+- người chuyên viết văn đả kích
+*  dt
+- văn đả kích
+
+@lampoonist   (lampoonist) @lamppost  
+*  dt
+- cột đèn
+
+@lamp-post
+* dt
+- cột đèn
+ @lamprey  
+*  dt
+- (động vật học) cá mút đá
+
+@lamp-shade  
+*  dt
+- chụp đèn, chao đèn
+
+@lampshade
+* dt
+- chao đèn
+ @lampshell
+* dt
+- động vật tay cuộn
+ @lamp-socket   (lamp-socket) @lan
+- mạng cục bộ
+ @lanai
+* dt
+- hàng hiên dùng như phòng khách ngoài trời (trong mùa hè)
+ @lanate
+* tt
+- có len; có lông len
+ @lancashire
+* dt
+- pho mát Lancasơ
+ @lancastrian
+* dt
+- adj
+- người dân ở Lancasơ
+- (người) ủng hộ vương triều hoàng gia Anh của Lancaxtơ (trị vì từ năm 1399 đến 1461)
+ @lance  
+*  dt
+- giáo, thương, trường thương
+!to break a lance with someone
+- tranh luận với ai
+*  ngdgt
+- đâm bằng giáo, đâm bằng thương
+- (y học) mổ, trích (bằng lưỡi trích)
+
+@lance-corporal  
+*  dt
+- (quân sự) cai quyền (trong quân đội Anh)
+
+@lancelate  
+*  tt
+- hình ngọn giáo, hình mác
+
+@lancelet
+* dt
+- (động vật) con lưỡng tiêm (con vật giống (như) cá sống dưới nước)
+ @lancer  
+*  dt
+- kỵ binh đánh giáo, kỵ binh đánh thương
+- (số nhiều) điệu vũ bốn người (ở Anh); nhạc cho vũ điệu bốn người (ở Anh)
+
+@lance-sergeant  
+*  dt
+- (quân sự) đội quyền (trong quân đội Anh)
+
+@lancet  
+*  dt
+- (y học) lưỡi trích
+- vòm đỉnh nhọn ((cũng) lancet arch)
+- cửa sổ nhọn phía trên ((cũng) lancet windown)
+
+@lancewood
+* dt
+- cây có thân dẻo và dai (dùng để làm cần câu, cung v v)
+ @lancinating  
+*  tt
+- đau nhói
+
+@lancination
+* dt
+- sự đau nhói (như) bị dao đâm
+ @land  
+*  dt
+- đất; đất liền
+
++ to come insight of land: trông thấy đất liền
+
++ to go by land: đi đường bộ
+- đất, đất trồng, đất đai
+
++ barren land: đất cãn cỗi
+- vùng, xứ, địa phương
+
++ one's native land: quê hương xứ sở
+- đất đai, điền sản
+
++ to own houses and land: có nhà cửa và đất đai
+!Holy Land
+- đất thánh
+!the land of the leal
+- thiên đường
+!the land of the living
+- hiện tại trái đất này
+!land of milk and honey
+- nơi này đủ sung túc
+- lộc phúc của trời
+- nước Do-thái
+!land of Nod
+- giấc ngủ
+!to make the land
+- trông thấy đất liền (tàu biển)
+!to see how the land lies
+- xem sự thể ra sao
+*  ngdgt
+- đưa vào bờ; đổ bộ
+
++ to land troops: đổ bộ quân
+- dẫn đến, đưa đến, đẩy vào (một tình thế, một hoàn cảnh)
+
++ extravagance will land a man in debt: ăn tiêu hoang phí sẽ đưa người ta đến mang công mắc nợ
+- đạt được, giành được; bắt được
+
++ to land a prize: giành được giải thưởng
+- đưa đi, giáng, đánh
+
++ to land a blow in someone's eye: giáng một quả đấm vào mắt ai
+
++ to land a ball in the goal: rót bóng vào khung thành
+*  ndgt
+- ghé vào bờ (tàu); hạ cánh (máy bay); xuống đất, xuống xe (người); lên bờ (từ dưới tàu)
+
++ to land at Odessa: cặp bến ở Ô-ddét-xa
+
++ the plane landed safety: máy bay hạ cánh an toàn
+- rơi vào (tình trạng nào đó)
+
++ to land in a fix: rơi vào tình thế khó khăn
+!to land on
+- phê bình, mắng m
+
+@Land
+- (Econ) Đất đai.
+: Một thuật ngữ sử dụng trong kinh tế học để miêu tả không chỉ phần bề mặt trái đất không tính đến biến mà còn bao gồm toàn bộ tài nguyên thiên nhiên như rừng, khoáng sản, nguồn lực biển, độ màu của đất… có thể được sử dụng trong quá trình sản xuất.
+ @Land intensive
+- (Econ) Sử dụng nhiều đất.
+ @land mass
+* dt
+- khu vực đất đai rộng lớn
+ @land office  
+*  dt
+- sở quản lý ruộng đất
+!land_office business
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) công việc làm ăn phát đạt
+
+@land poor  
+*  tt
+- có đất mà vẫn túng (vì đất xấu, sưu cao thuế nặng...)
+
+@land power  
+*  dt
+- cường quốc lục địa
+
+@Land reform and tenure
+- (Econ) Bảo hộ và cải cách ruộng đất.
+: Một cụm thuật ngữ rộng thông thường ám chỉ các khả năng tăng sự phồn thịnh ở các vùng nông thôn (thường là các nước đang phát triển) thông qua các thay đổi về thể chế trong khu vực nông nghiệp.
+ @Land tax
+- (Econ) Thuế đất.
+: Một loại thuế đánh vào giá trị hoặc kích thước của mảnh đất.
+ @land waiter  
+*  dt
+- nhân viên hải quan (Anh)
+
+@land-agency  
+*  dt
+- sở quản lý ruộng đất
+- hâng buôn bán đất đai
+
+@land-agent  
+*  dt
+- người quản lý ruộng đất
+- người buôn bán đất đai
+
+@landau  
+*  dt
+- xe lenddô (xe bốn bánh hai mui)
+
+@landaulet
+* dt
+- xe lan-đô nhỏ
+ @land-bank  
+*  dt
+- ngân hàng địa ốc
+
+@land-breeze   (land-wind) @landed  
+*  tt
+- (thuộc) đất đai; có đất
+
++ landed property: điền sản
+
++ landed proprietor: địa chủ
+
++ landed gentry: tầng lớp quý tộc địa chủ nhỏ
+
++ the landed interest: bọn địa chủ (Anh)
+
+@landfall  
+*  dt
+- (hàng hải) sự trông thấy đất liền (từ một con tàu ở ngoài khơi)
+- (hàng hải) đất liền (trông thấy từ con tàu ở ngoài khơi)
+- (hàng hải) sự cập bến
+
++ to make a good landfall: cập bến đúng dự định
+- (hàng không) sự hạ cánh
+
+@land-force   (land-forces) @land-forces   (land-forces) @land-form
+* dt
+- (địa chất) địa mạo
+ @land-grabber  
+*  dt
+- kẻ cướp đất, kẻ cướp nước
+
+@landgrave  
+*  dt
+- (sử học) lãnh chúa (ở nước Đức xưa)
+
+@landholder  
+*  dt
+- người chiếm hữu đất đai, địa chủ; người cho thuê đất
+
+@landholding  
+*  dt
+- sự chiếm hữu đất
+- đất chiếm hữu
+
+@land-hunger  
+*  dt
+- sự khao khát ruộng đất
+
+@land-hungry  
+*  tt
+- khao khát ruộng đất
+
+@landing  
+*  dt
+- sự đổ bộ, sự ghé vào bờ (tàu biển, thuyền bè); sự hạ cánh (máy bay)
+- bến, nơi đổ
+- đầu cầu thang
+
+@landing craft  
+*  dt
+- tàu đổ bộ, xuồng đổ b
+
+@landing field
+* dt
+- bãi đáp, bãi hạ cánh
+ @landing force   (landing_force) @landing gear  
+*  dt
+- (hàng không) bộ phận hạ cánh (bánh xe, phao...)
+
+@landing ground  
+*  dt
+- bãi hạ cánh (máy bay)
+
+@landing net  
+*  dt
+- vợt hứng (cá khi câu được)
+
+@landing strip  
+*  dt
+- bãi hạ cánh; bãi hạ cánh ph
+
+@landing troops   (landing_force) @landing-place  
+*  dt
+- bến tàu
+- bãi hạ cánh (máy bay)
+
+@landing-stage  
+*  dt
+- bến tàu
+
+@land-jobber  
+*  dt
+- kể đầu cơ ruộng đất
+
+@landlady  
+*  dt
+- bà chủ nhà (nhà cho thuê)
+- bà chủ nhà trọ, bà chủ khách sạn
+- mụ địa ch
+
+@landless  
+*  tt
+- không có ruộng đất
+
++ poor and landless peasants: bần cố nông
+- mênh mông, không bờ bến (biển)
+
+@landlessness  
+*  dt
+- tình trạng không có ruộng đất
+
+@land-line
+* dt
+- viễn thông (dùng cáp xuyên đại dương không phải bằng điện đài)
+ @land-locked  
+*  tt
+- có đất liền bao quanh, ở giữa đất liền
+
+@landloper   (landlouper) @landlord  
+*  dt
+- chủ nhà (nhà cho thuê)
+- chủ quán trọ, chủ khách sạn
+- địa ch
+
+@landlordism  
+*  dt
+- chế độ địa chủ, chế độ chiếm hữu ruộng đất
+
+@landlouper   (landlouper) @landlubber  
+*  dt
+- người quen sống trên cạn
+- người không thạo nghề đi biển
+
+@land-lubbing  
+*  dt
+- sự quen sống trên cạn
+
+@landlubbing
+* dt
+- sự quen sống trên cạnn
+ @landmark  
+*  dt
+- mốc bờ (để dẫn đường cho các thuỷ thủ từ ngoài khơi hướng về đất liền)
+- mốc ranh giới, giới hạn
+- mốc, bước ngoặc
+
++ the October Revolution is a great landmark in the history of mankind: cuộc cách mạng tháng Mười là một bước ngoặc lớn trong lịch sử loài người
+
+@landmass
+* dt
+- vùng đất rộng
+ @landmine  
+*  dt
+- quả mìn (để trên mặt đất hoặc chôn dưới đất); mìn thả bằng d
+
+@landocracy  
+*  dt
+- quý tộc ruộng đất; giai cấp địa ch
+
+@landowner  
+*  dt
+- địa ch
+
+@landownership
+* dt
+- quyền sở hữu đất đai
+ @landowning
+* tt,  n
+- (tình trạng) có ruộng đất
+ @landrace
+* dt
+- giống lợn ở miền Bắc Châu Âu
+ @land-rover
+* dt
+- loại xe ô tô thường dùng ở các đồn điền hay trang trại
+ @landscape  
+*  dt
+- phong cảnh
+*  dgt
+- làm đẹp phong cảnh
+- làm nghề xây dựng vườn hoa và công viên
+
+@landscape architect  
+*  dt
+- nhà thiết kế vườn hoa và công viên
+
+@landscape architecture  
+*  dt
+- nghệ thuật thiết kế vườn hoa và công viên
+
+@landscape gardening
+- kiến trúc phong cảnh
+ @landscape-gardener  
+*  dt
+- người xây dựng vườn hoa và công viên
+
+@landscape-gardening  
+*  dt
+- nghệ thuật xây dựng vườn hoa và công viên
+
+@landscape-painter   (landscapist) @landscaper  
+*  dt
+- người xây dựng vườn hoa và công viên
+
+@landscapist   (landscapist) @land-shark
+* dt
+- cũng land-grabber
+- người chiếm đất
+ @landside
+* dt
+- mặt phẳng của lưỡi cày
+ @landslide  
+*  dt
+- sự lở đất
+- (chính trị) sự thắng phiếu lớn (của một đảng phái trong kỳ bầu cử)
+- (từ Mỹ,nghĩa Mỹ) thắng lợi long trời lở đất
+- (định ngữ) long trời lở đất ((thường) chỉ dùng trong tuyển cử)
+
++ a landslide victory: thắng lợi long trời lở đất
+*  ndgt
+- lở (như đá... trên núi xuống)
+- thắng phiếu lớn
+
+@landslip  
+*  dt
+- sự lở đất
+
+@landsman  
+*  dt
+- người vùng đất liền (sống và làm ăn trên đất liền)
+- người không quen đi biển
+
+@land-tax  
+*  dt
+- thuế ruộng đất
+
+@landward   (landwards) @landwards   (landwards) @land-wind   (land-wind) @lane  
+*  dt
+- đường nhỏ, đường làng
+- đường hẻm, ngõ hẻm (ở thành phố)
+- khoảng giữa hàng người
+- đường quy định cho tàu biển
+- đường dành riêng cho xe cộ đi hàng một
+!it is a long lane that has no turning
+- hết cơn bỉ cực đến tuần thái lai
+
+@laneway
+* dt
+- (từ Canađa, nghĩa Canađa) con đường nhỏ (giữa hoặc sau những ngôi nhà ngày nay (thường) dùng làm bãi đỗ xe)
+ @langbeineite
+* dt
+- (hoá học) hợp chất hoá học K 2 Mg 2 (S 04) 3 thường được dùng trong công nghiệp phân bón
+ @Lange, Oscar
+- (Econ) (1904-1965)
+: Nhà kinh tế người Balan dạy ở một vài trường đại học Mỹ và giữ vị trí cao trong trường đại học Chicago. Ông là một trong những nhà sáng lập kinh tế lượng và là người ủng hộ kinh tế học Keynes (Giá linh hoạt và toàn dụng công nhân, 1944), mặc dù vẫn coi kinh tế học Keynes là một trường hợp đặc biệt của Walras. Tuy ông có đóng góp đáng kể vào nhiều lĩnh vực nhưng ông được người ta nhớ đến nhiều nhất trong cuộc tranh luận trong những năm 1930 về vấn đề liệu rằng các tính toán kinh tế hợp lý có thể xảy ra trong nền KINH TẾ HOẠCH HOÁ hay không. Ông cho rằng điều này có thể xảy ra, vì giá cả cần để tính chỉ số khan hiếm có thể được tính toán bên ngoài HỆ THỐNG THỊ TRƯƠNG mà không cần bất kỳ hành động trao đổi nào, mặc dầu trong thực tế để có được hệ thống giá cả của mình, Lange đòi hỏi tạo ra một thể chế và thể chế này giống một thị trường. Tác phẩm Kinh tê chính trị của ông, mặc dù không hoàn chỉnh (bản dịch tiếng Anh năm 1963), nhưng là tổng hợp lớn đầu tiên về KINH TẾ HỌC MÁC XÍT.
+ @langlauf
+* dt
+- chạy việt dã hoặc trượt băng đường dài
+ @langobard
+* dt
+- người Langôba (xâm nhập nước ý ở (thế kỷ) thứ sáu)
+ @langobardic
+* tt
+- thuộc người Langôba
+ @langouste
+* dt
+- (động vật) tôm rồng
+ @langsyne  
+*  dt & dt
+- (Ê-cốt) ngày xưa, thuở xưa
+
+@language  
+*  dt
+- tiếng, ngôn ngữ
+
++ foreign languages: tiếng nước ngoài
+
++ the language of diplomacy: ngôn ngữ ngoại giao
+
++ dead language: từ ngữ
+
++ living language: sinh ngữ
+- lời nói
+
++ bad language: lời nói thô tục, lời nói thô bỉ
+- cách diễn đạt, cách ăn nói
+
+@language
+- nguôn ngữ
+- natural l. ngôn ngữ tự nhiên
+- number l. ngôn ngữ số, hệ thống đếm
+- pseudo-object l. (logic học) ngôn ngữ đối tượng giả 
+ @language arts  
+*  dt
+- các môn để luyện tiếng Anh (ở trường trung học, như chính tả, tập đọc, làm văn, tranh luận, đóng kịch)
+
+@language laboratory
+* dt
+- phòng luyện nghe của người học ngoại ngữ
+ @languet
+* dt
+- vật dạng như lưỡi
+ @languid  
+*  tt
+- uể oải, lừ đừ; yếu đuối, thiếu sinh động; chậm chạp
+
+@languidly
+* dt
+- uể oải, lừ đừ
+ @languidness  
+*  dt
+- sự uể oải, sự lừ đừ; sự yếu đuối, sự thiếu sinh động; sự chậm chạp
+
+@languish  
+*  ndgt
+- ốm yếu, tiều tuỵ
+- úa tàn, suy giảm, phai nhạt
+
++ the interest in that has languished: sự hứng thú với cái đó đã phai nhạt đi
+- mòn mỏi đợi chờ, héo hon đi vì mong mỏi
+
++ to languish for news from someone: mòn mỏi đợi chờ tin ai
+
+@languishing  
+*  tt
+- ốm mòn, tiều tuỵ
+- úa tàn, suy giảm, phai nhạt
+- lờ đờ, uể oải
+
++ a languishing look: cái nhìn lờ đờ; héo hon vì mong mỏi
+
+@languishment  
+*  dt
+- sự ốm mòn, sự tiều tuỵ
+- sự uể oải
+
+@languor  
+*  dt
+- tình trạng suy nhược (của cơ bản sau khi ốm dậy); tình trạng bạc nhược (về tâm hồn, tinh thần)
+- tình trạng thiếu hoạt động, tình trạng thiếu sinh khí
+- sự yên lặng nặng nề (trời, thời tiết)
+
+@languorous  
+*  tt
+- ẻo lả, yếu đuối
+- uể oải, lừ đừ
+- nặng nề, u ám (trời, thời tiết)
+
+@languorously
+* dt
+- uể oải, lừ đừ
+ @langur
+* dt
+- loại khỉ châu á
+ @laniard   (laniard) @laniary  
+*  tt
+- để xé (thức ăn)
+*  dt
+- răng nanh
+
+@laniferous   (lanigerous) @lanigerous   (lanigerous) @lank  
+*  tt
+- gầy, gầy gò; gầy và cao
+- thẳng và rũ xuống (tóc)
+
+@lankiness
+* dt
+- tình trạng gầy và cao lêu nghêu
+ @lanky  
+*  tt
+- gầy và cao lêu nghêu
+
+@lanner
+- Cách viết khác : lanneret 
+ @lanolin  
+*  dt
+- lanolin mỡ lông cừu
+
+@lanoline
+* dt
+- lanolin, mỡ lông cừu
+ @lansquenet  
+*  dt
+- lối chơi bài lencơnet (Đức)
+
+@lantana
+* dt
+- cây cứt lợn
+ @lantern  
+*  dt
+- đèn lồng, đèn xách
+- (kiến trúc) cửa trời (ở mái nhà)
+
+@lantern jaws
+* dt
+- cằm nhô
+ @lantern slide  
+*  dt
+- phim đèn chiếu
+
+@lantern-jawed
+* tt
+- có cằm nhô
+ @lanthanide
+* dt
+- (hoá học) bất cứ nguyên tố nào trong 15 nguyên tố thuộc các loại đất hiếm, có số lượng nguyên tử từ 57 (lanthanum) đến 71 (lutetium)
+ @lanthanum  
+*  dt
+- (hoá học) lantan
+
+@lanthorn
+* dt
+- (từ cổ, nghĩa cổ) xem lantern
+ @lanugo  
+*  dt
+- (sinh vật học) lông tơ
+
+@lanyard   (laniard) @lao
+* tt,  n; số nhiều laos,  lao
+- (thuộc) người Lào
+- (thuộc) tiếng Lào
+ @laodicean  
+*  dt
+- người thờ ơ (đối với chính trị, tôn giáo)
+
+@laotian
+* dt
+- adj
+- xem lao
+ @lap  
+*  dt
+- vạt áo, vạt váy
+- lòng
+
++ the baby sat on his mother's lap: đứa bé ngồi trong lòng mẹ
+- dái tai
+- thung (chỗ trũng giữa hai quả đồi)
+!to be in Fortune's lap
+- may mắn
+!in the lap of gods
+- có trời biết
+!in the lap of luxury
+- trong cảnh xa hoa
+*  dt
+- vật phủ (lên một vật khác)
+- vòng dây, vòng chỉ (quấn vào một cuộn)
+- (thể dục,thể thao) vòng chạy, vòng đua
+- (kỹ thuật) tấm nối (đường ray) ((cũng) half lap)
+*  ngdgt
+- phủ lên, chụp lên, bọc
+- quấn, cuộn; gói
+
++ to lap something round something: quấn vật gì chung quanh vật khác
+- vượt hơn một vòng (trong cuộc chạy đua)
+*  ndgt
+- phủ lên, chụp lên
+*  dt
+- (kỹ thuật) đá mài
+*  ngdgt
+- (kỹ thuật) mài bằng đá mài
+*  dt
+- cái liềm, cái tớp
+- thức ăn lỏng (cho chó...)
+- tiếng vỗ bập bềnh (sóng)
+*  dgt
+- liếm, tớp (bằng lưỡi)
+- nốc, uống ừng ực
+- vỗ bập bềnh (sóng)
+!to lap up everything one is told
+- ai nói gì cũng tin
+
+@lap link  
+*  dt
+- mắt xích nối
+
+@laparoscope
+* dt
+- (y học) dụng cụ để soi bụng
+ @laparoscopy
+* dt
+- sự soi bụng
+ @laparotomy  
+*  dt
+- (y học) thủ thuật mở bụng
+
+@lap-dog  
+*  dt
+- chó nhỏ, chó nuôi trong phòng
+
+@lapel  
+*  dt
+- ve áo
+
+@lapicide  
+*  dt
+- thợ khắc đá, thợ khắc bia đá
+
+@lapidary  
+*  tt
+- (thuộc) đá
+- (thuộc) nghệ thuật chạm trổ đá, (thuộc) nghệ thuật khắc ngọc
+- ngắn gọn (văn phong)
+*  dt
+- thợ mài, thợ khắc ngọc
+- (từ Mỹ,nghĩa Mỹ) thuật mài ngọc
+
+@lapidate  
+*  ngdgt
+- ném đá, ném đá cho chết
+
+@lapidify  
+*  ngdgt
+- làm hoá đá
+
+@lapidodendron  
+*  dt
+- (thực vật học) cây váy (hoá thạch)
+
+@lapilus
+* dt; số nhiều lapilli
+- mảnh nham thạch văng ra khi núi lửa phun
+ @lapin
+* dt
+- thỏ; da thỏ
+ @lapis lazuli  
+*  dt
+- đá da trời
+- màu xanh da trời
+
+@lap-joint  
+*  dt
+- sự ghép ráp (đường ray, văn...)
+
+@laplander
+* dt
+- người Láp (ở miền bắc Xcanđinavia,  Phân lan và bán đảo Kola ở Bắc Nga)
+- ngôn ngữ của người Láp
+ @lappet  
+*  dt
+- vạt áo, nếp áo
+- dái tai
+- yếm thịt (dưới cổ gà tây)
+
+@lapping
+* dt
+- sự vỗ nhẹ, tiếng vỗ nhẹ
+ @lappish
+* tt
+- thuộc người Láp
+- thuộc ngôn ngữ Láp
+ @lapsable  
+*  tt
+- có thể sa ngã
+- có thể mất hiệu lực; có thể rơi vào tay người khác
+
+@lapse  
+*  dt
+- sự lầm lẫn, sự sai sót
+
++ a lapse of memory: sự nhâng trí; sự nhớ lắm
+
++ a lapse of the tongue: sự lỡ lời, sự viết lẫn
+- sự sa ngâ, sự suy đồi, sự truỵ lạc
+
++ a lapse from virtue; moral lapse: sự sa ngã
+- khoảng, quãng, lát, hồi
+
++ a lapse of time: một khoảng thời gian
+- (pháp lý) sự mất hiệu lực; sự mất quyền lợi
+- (khí tượng) sự giảm độ nhiệt; sự giảm áp suất
+- dòng chảy nhẹ (nước)
+*  ndgt
+- sa vào, sa ngã
+
++ to lapse into sin: sa vào vòng tội lỗi
+- ((thường) : away) trôi đi, qua đi
+
++ time lapses away: thời gian trôi đi
+- (pháp lý) mất hiệu lực, mất quyền lợi, rơi vào tay người khác
+
++ rights may lapse if they are not made use of: quyền hạn có thể mất hiệu lực nếu không được sử dụng
+
+@lapse rate
+* dt
+- tỉ lệ giảm độ nhiệt, tỉ lệ giảm áp suất
+ @lapstrake
+* tt
+- có những tấm ván ghép chồng lên nhau
+* dt
+- thuyền có những tấm ván ghép chồng lên nhau
+ @lapstreak
+* tt,  n
+- xem lapstrake
+ @lapsus  
+*  dt
+- sự lầm lỡ, sự lầm lẫn
+
++ lapsus celami: sự viết lầm
+
++ lapsus linguae: sự nói lẫn
+
+@laptop
+- máy tính laptop, máy tính xách tay
+ @laputan
+* tt
+- (người hoặc ý nghĩ) lố bịch ngốc nghếch; ngớ ngẩn
+ @lapwing  
+*  dt
+- (động vật học) chim te te
+
+@lar
+* dt; số nhiều lares
+- thần giữ nhà (của người La Mã cổ)
+ @larboard  
+*  dt
+- (từ cổ,nghĩa cổ) mạn trái (của tàu, thuyền)
+*  tt
+- (từ cổ,nghĩa cổ) (thuộc) mạn trái (tàu, thuyền)
+
+@larcener  
+*  dt
+- kẻ ăn cắp
+
+@larcenous  
+*  tt
+- ăn cắp
+
+@larceny  
+*  dt
+- (pháp lý) sự ăn cắp
+
+@larch  
+*  dt,  (thực vật học)
+- cây thông rụng lá
+- gỗ thông rụng lá
+
+@lard  
+*  dt
+- mỡ lợn
+*  ngdgt
+- nhét mỡ vào thịt để rán
+- (nghĩa bóng) chêm vào, đệm vào (lời nói, văn viết)
+
++ to lard one's speech with technical terms: chêm thuật ngữ chuyên môn vào bài nói
+
+@lardaceous  
+*  tt
+- (y học) dạng m
+
+@larder  
+*  dt
+- chạn, tủ đựng thức ăn
+
+@lardon   (lardoon) @lardoon   (lardoon) @lardy  
+*  tt
+- nhiều m
+
+@lardy-cake
+* dt
+- bánh được làm bằng mỡ lợn và nho khô
+ @lardy-dardy  
+*  tt
+- (từ lóng) màu mè, kiểu cách
+
+@lares  
+*  dt số nhiều
+- ông táo, vua bếp ((từ cổ,nghĩa cổ) La mã)
+
+@lares and penates  
+*  dt số nhiều
+- ông táo, vua bếp ((từ cổ,nghĩa cổ) La mã)
+- của cải quý nhất trong nhà
+
+@large  
+*  tt
+- rộng, lớn, to
+
++ a large town: một thành phố lớn
+- rộng rãi
+
++ to give someone large powers: cho ai quyền hành rộng rãi
+- (từ cổ,nghĩa cổ) rộng lượng, hào phóng
+
++ a large heart: một tấm lòng rộng lượng, một tấm lòng hào phóng
+!as larges as life
+- to như vật thật
+*  dt
+- (: at) tự do, không bị giam cầm
+
++ to be at large: được tự do
+
++ gentleman at large: người không có nghề nhất định
+- đầy đủ chi tiết, dài dòng
+
++ to talk at large: nói chuyện dài dòng
+
++ to write at large: viết dài dòng
+
++ to scatter imputation at large: nói đổng
+- nói chung
+
++ the people at large: nhân dân nói chung
+
++ in large: trên quy mô lớn
+*  dt
+- rộng rãi
+- huênh hoang, khoác lác
+
++ to talk large: nói huênh hoang
+!by anf large
+- (xem) by
+!sail large
+- chạy xiên gió (tàu)
+
+@large
+- lớn, rộng in the l. nói chung, trong toàn cục 
+ @large scale  
+*  dt
+- phạm vi rộng lớn; quy mô lớn
+
++ on a large_scale: trên quy mô rộng lớn
+
+@large-handed  
+*  tt
+- có bàn tay to
+- hào phóng
+
+@large-hearted  
+*  tt
+- rộng rãi, rộng lượng, hào phóng
+- nhân từ, nhân hậu
+
+@large-heartedness  
+*  dt
+- tính rộng rãi, tính rộng lượng, tính hào phóng
+- tính nhân từ, tính nhân hậu
+
+@largely  
+*  dt
+- ở mức độ lớn
+
++ achievement is largely due to...: thành tích phần lớn là do...
+- phong phú
+- hào phóng
+- trên quy mô lớn; rộng rãi
+
+@large-minded  
+*  tt
+- nhìn xa thấy rộng
+- rộng lượng
+
+@large-mindedness  
+*  dt
+- sự nhìn xa thấy rộng
+- tính rộng lượng
+
+@largeness  
+*  dt
+- sự rộng, sự lớn, sự rộng lớn
+- tính rộng râi (quan điểm...)
+- (từ cổ,nghĩa cổ) tính rộng lượng, tính hào phóng
+
+@larger-than-life
+- thành ngữ large
+- larger-than-life
+- huênh hoang, khoác lác
+
++  a larger-than-life driver:anh tài xế khoác lác
+- thành ngữ large
+
++  larger-than-life:huênh hoang, khoác lác
+
++  a larger-than-life driver:anh tài xế khoác lác
+ @largess   (largesse) @largesse   (largesse) @largest
+- lớn nhất
+ @larghetto  
+*  tt & dt
+- (âm nhạc) rất chậm
+
+@largish
+* tt
+- hơi rộng, khá rộng
+ @largo  
+*  tt & dt
+- (âm nhạc) cực chậm
+
+@lariat  
+*  dt
+- dây thừng (để cột ngựa vào cọc)
+- dây thòng lọng (để bắt ngựa, bò...)
+*  ngdgt
+- bắt (ngựa, thú rừng) bằng dây thòng lọng
+
+@lark  
+*  dt ((thơ ca) laverock  @larkiness  
+*  dt
+- tính hay đùa nghịch, tính hay bông đùa
+
+@larkingly  
+*  dt
+- đùa nghịch, bông đùa
+
+@larkspur  
+*  dt
+- cây phi yến, cây la lết
+
+@larky  
+*  tt
+- hay đùa nghịch, hay bông đùa
+
+@larrikin  
+*  dt
+- thằng du côn, thằng vô lại, thằng lưu manh
+- thằng bé hay phá rối om sòm (ở đường phố)
+*  tt
+- ồn ào, om sòm
+- lỗ mãng, thô bỉ
+
+@larrikinism  
+*  dt
+- sự làm ồn ào, sự phá rối om sòm (ở đường phố)
+
+@larrup  
+*  ngdgt
+- (thông tục) đánh, đập, vụt
+
+@larum
+* dt
+- (từ cổ, nghĩa cổ) sự báo động
+ @larva   (larvae) @larvae   (larvae) @larval  
+*  tt
+- (thuộc) ấu trùng; giống hình ấu trùng
+- (y học) giả chứng
+
++ larval fever: sốt giả chứng
+!in the larval stage
+- trong giai đoạn phôi thai, lúc còn trứng nước
+
+@larvicide
+* dt
+- thuốc diệt các loại ấu trùng
+ @larviform  
+*  tt
+- hình ấu trùng
+
+@laryngeal  
+*  tt
+- (thuộc) thanh quản
+
+@laryngectomee
+* dt
+- người bị cắt thanh quản
+ @laryngectomy
+* dt
+- (y học) thủ thuật cắt thanh quản
+ @larynges   (larynges) @laryngitic
+* tt
+- thuộc viêm thanh quản
+ @laryngitis  
+*  dt
+- (y học) viêm thanh quản
+
+@laryngology  
+*  dt
+- (y học) khoa thanh quản
+
+@laryngoscope  
+*  dt
+- (y học) kính soi thanh quản
+
+@laryngoscopical
+* tt
+- thuộc kính soi thanh quản
+ @laryngoscopy
+* dt
+- thuật soi thanh quản
+ @laryngotomy  
+*  dt
+- (y học) thuật mở thanh quản
+
+@larynx   (larynges) @lasagne
+* dt
+- món bột với cà chua và nước xốt và phó mát hấp chung
+ @lascar  
+*  dt
+- thuỷ thủ người Ân
+
+@lascivious  
+*  tt
+- dâm dật, dâm đâng; khiêu dâm
+
+@lasciviously
+* dt
+- dâm dật, dâm dục, dâm đãng
+ @lasciviousness  
+*  dt
+- tính dâm dật, tính dâm đâng; tính khiêu dâm
+
+@lase
+* ndgt
+- hoạt động như laze
+ @lase-purchase  
+*  dt
+- chế độ thuê mua rẻ (nếu mua thì trừ tiền thuê vào giá)
+
+@laser
+* dt
+- <kỹ> la-de
+ @lash  
+*  dt
+- dây buộc ở đầu roi
+- cái roi
+- cái đánh, cái quất; sự đánh, sự quất bằng roi
+
++ to be sentencel to the lash: bị phạt roi, bị phạt đòn
+- lông mi ((cũng) eye lash)
+- sự mắng nhiếc, sự xỉ vả; sự chỉ trích, sự đả kích
+
++ to be under the lash: bị đả kích gay gắt
+*  dgt
+- đánh, quất
+
++ to lash a horse across the back with a whip: quất roi vào lưng ngựa
+
++ to lash its tail: quất đuôi vào hông (thú)
+
++ to lash against the windows: tạt mạnh vào cửa sổ (mưa)
+
++ to lash [against] the shore: đánh vào bờ, đập vào bờ (sóng)
+- kích thích, kích động
+
++ speaker lashes audience into a fury: diễn giả kích động những người nghe làm cho họ phẫn nộ
+- mắng nhiếc, xỉ vả; chỉ trích, đả kích
+- buộc, trôi
+
++ to lash two things together: buộc hai cái lại với nhau
+!to lash out
+- đá bất ngờ (ngựa)
+!to lash out at someone
+- chửi mắng như tát nước vào mặt ai
+!to lash out into strong language
+- chửi rủa một thôi một hồi
+
+@lasher  
+*  dt
+- người đánh, người vụt, người quất (bằng roi)
+- kè, đập
+
+@lashing  
+*  dt
+- sự đánh đập, sự quất bằng roi
+- sự mắng nhiếc, sự xỉ vả; sự chỉ trích, sự đả kích
+- dây buộc (thuyền)
+- (số nhiều) (từ lóng) rất nhiều
+
++ lashings of meat: rất nhiều thịt
+
+@lashings
+* dt
+- Nhiều; thừa mứa
+
++  lashings of domestic hot water:có rất nhiều nước nóng ở nhà
+ @lashkar  
+*  dt
+- doanh trại quân đội Ân
+- đạo quân của các bộ lạc Ân
+
+@lash-up
+* dt
+- Cái thay thế tạm thời; cái dùng tam thời
+* tt
+- tạm thời thay thế
+ @Laspeyres price index
+- (Econ) Chỉ số giá Laspeyres.
+: Một chỉ số bình quân gia quyền so với năm gốc.
+ @lass  
+*  dt
+- cô gái, thiếu nữ
+- người yêu (con gái)
+- (Ê-cốt) người hầu gái
+
+@lassie  
+*  dt
+-(thân mật) cô gái, thiếu nữ
+- em yêu quí
+
+@lassitude  
+*  dt
+- sự mệt nhọc, sự mệt mỏi, sự uể oải
+
+@lasso  
+*  dt
+- dây thòng lọng (dùng để bắt thú vật)
+*  ngdgt
+- bắt bằng dây thòng lọng
+
+@lassoer  
+*  dt
+- người bắt bằng dây thòng lọng
+
+@last  
+*  dt
+- khuôn giày, cốt giày
+!to stick to one's lát
+- không dính vào những chuyện mà mình không biết
+*  dt
+- lát (đơn vị đo trọng tải của tàu thuỷ, bằng 2000 kg)
+*  dt
+- người cuối cùng, người sau cùng
+
++ to be the last to come: là người đến sau cùng
+- lần cuối, lần sau cùng; giờ phút cuối cùng
+
++ to holf on to the last: giữ vững cho đến phút cuối cùng
+
++ as I said in my last, I should come on Monday: như tôi đã nói trong bức thư viết gần đây nhất, tôi sẽ tới vào thứ hai
+- lúc chết, lúc lâm chung
+
++ to be near one's last: sắp chết
+- sức chịu đựng, sức bền bỉ
+!at last
+!at long last
+- sau hết, sau cùng, rốt cuộc
+!to look one's last on something
+- nhìn vật gì lần sau cùng
+!to (till) the last
+- đén cùng, đến giờ chót, đến hơi thở cuối cùng
+
++ to fight to the last: chiến đấu đến hơi thở cuối cùng
+*  tt,  số nhiều của late
+- cuối cùng, sau chót, sau rốt
+
++ the last page of a book: trang cuối cùng của quyển sách
+- vừa qua, qua, trước
+
++ last night: đêm qua
+
++ last mouth: tháng trước
+
++ last week: tuần trước
+
++ last year: năm ngoái
+- gần đây nhất, mới nhất, cuối cùng
+
++ last news: tin tức mới nhất
+
++ the last word in science: thành tựu mới nhất của khoa học
+- vô cùng, cực kỳ, rất mực, tột bực
+
++ a question of the last importance: một vấn đề cực kỳ quan trọng
+- cuối cùng, rốt cùng, dứt khoát
+
++ I have said my last word on the matter: tôi đã nói dứt khoát về vấn đề đó
+- không thích hợp nhất, không thích nhất, không muốn nhất
+
++ that's the last thing I'll do: đó là cái điều mà tôi sẽ không bao giờ làm
+!last but not least
+- cuối cùng nhưng không kém phần quan trọng
+*  dt,  cấp cao nhất của late
+- cuối cùng, sau cùng, lần cuối
+
++ when did you see him last?: lần cuối cùng anh gặp hắn là khi nào?
+*  dgt
+- tồn tại, kéo dài; giữ lâu bền, để lâu; đủ cho dùng
+
++ to last out the night: kéo dài hết đêm; sống qua đêm (người bệnh)
+
++ these boots will not last: những đôi giày ống này sẽ không bền
+
++ this wine will not last: thứ rượu vang này không để lâu được
+
++ this sum will last me three weeks: số tiền này đủ cho tôi chi dùng trong ba tuần
+
+@last
+- cuối cùng   tiếp xúc, kéo dài at l. cuối cùng; l. but one, next to l.
+- giáp chót; to the l. đến cùng 
+@last mile  
+*  dt
+- dặm đường cuối cùng (của người bị kết án tử hình đi từ xà lim ra pháp trường)
+
+@last name
+* dt
+- họ (trong danh tánh của một người)
+ @last post
+* dt
+- <qsự> kèn thổi lúc tiễn đưa một người lính về nơi an nghỉ cuối cùng
+ @last rites
+* dt
+- nghi lễ dành cho người sắp chết, lễ cầu siêu
+ @last sleep  
+*  dt
+- giấc ngàn thu
+
++ the long last_sleep: giấc ngàn thu
+
+@last supper
+* dt
+- lần cuối cùng Chúa Giêxu dùng bữa với các tông đồ trước khi bị đóng đinh, bữa tiệc ly
+ @last-born
+* tt
+- sinh sau cùng; út
+* dt
+- con út
+ @last-ditch  
+*  tt
+- cuối cùng một mất một còn
+
++ a last-ditch effort: cố gắng cuối cùng
+
+@lasting  
+*  dt
+- vải latinh (một loại vải bán)
+*  tt
+- bền vững, lâu dài, trường cửu
+
++ lasting peace: nền hoà bình bền vững
+- chịu lâu, để được lâu, giữ được lâu
+
+@lastingness  
+*  dt
+- tính bền vững, tính lâu dài, tính trường cửu
+- sự chịu lâu, sự để được lâu, sự giữ được lâu
+
+@lastly  
+*  dt
+- cuối cùng, sau cùng, sau rốt
+
+@last-named  
+*  tt
+- kể trên, nối ở trên
+- kể đến cuối cùng, nói đến cuối cùng
+
+@lat
+* (viết tắt)
+- vĩ tuyến, vĩ độ (latitude)
+- viết tắt
+- vĩ tuyến, vĩ độ (latitude)
+ @latakia
+* dt
+- thuốc lá latakia (hương thơm ngát ở Xiri)
+ @latch  
+*  dt
+- chốt cửa, then cửa
+
++ the leave the door: đóng cửa bằng then
+- khoá rập ngoài
+*  ngdgt
+- đóng (cửa) bằng chốt, gài then
+
+@latchet  
+*  dt
+- (từ cổ,nghĩa cổ) dây giày (bằng da)
+
+@latchkey  
+*  dt
+- chìa khoá rập ngoài
+- (nghĩa bóng) biểu tượng của sự giải phóng
+
+@latchstring
+* dt
+- sợi dây buộc then cửa bên ngoài để nâng then lên
+ @late  
+*  tt latter,  latest,  last
+- muộn, chậm, trễ
+
++ to arrive too late: đến trễ quá
+
++ late at night: khuya lắm
+
++ late in the year: vào cuối năm
+
++ early or late; soon or late; sooner or late: không sớm thì muộn, chẳng chóng thì chầy
+- (thơ ca) mới rồi, gần đây
+
++ as late as yeaterday: mới hôm qua đây thôi
+!better late than never
+- (xem) better
+
+@late
+- chậm; cuối; sau; không lâu; thời gian gần đây
+ @late-comer  
+*  dt
+- người đến chậm
+
+@latecomer
+* dt
+- người đến trễ
+ @lateen  
+*  tt
+- lateen sail buồm tam giác
+
+@lately  
+*  dt
+- cách đây không lâu, mới gần đây
+
+@laten  
+*  ngdgt
+- làm cho chậm, làm cho muộn
+*  ndgt
+- chậm, muộn
+
+@latency  
+*  dt
+- sự ngấm ngầm, sự âm ỷ, sự tiềm tàng
+
+@latency period  
+*  dt
+- (tâm lý học) thời kỳ phát triển cá tính (từ lúc 4 5 tuổi đến lúc mới lớn lên)
+
+@lateness  
+*  dt
+- sự chậm trễ, sự muộn
+
+@latent  
+*  tt
+- ngầm, ngấm ngần, âm ỉ, ẩn, tiềm tàng
+
++ latent diseases: bệnh âm ỉ
+
++ latent heat: ẩn nhiệt
+
+@latent
+- ẩn, tiềm
+ @latent heat
+- ẩn nhiệt
+ @latent image
+* dt
+- ảnh ẩn
+ @latent period  
+*  dt
+- (y học) thời kỳ ủ bệnh
+
+@later
+- chậm hơn
+ @lateral  
+*  tt
+- ở bên
+*  dt
+- phần bên, bộ phận bên, vật bên
+
+@lateral
+- chung quanh, bên phụ
+ @lateral thinking
+* dt
+- lối suy nghĩ một chiều
+ @laterality  
+*  dt
+- sự dùng quen một tay
+- sự phát triển hơn hẳn một bên người
+
+@laterite  
+*  dt
+- Laterit, đá ong
+
+@lateritic  
+*  tt
+- (thuộc) laterit, (thuộc) đá ong
+
+@laterization
+* dt
+- quá trình đá ong hoá
+ @latest  
+*  tt,  cấp cao nhất của late
+- muộn nhất; mới nhất, gần đây nhất
+
++ the latest news: tin mới nhất
+
++ at the latest: muộn nhất
+
+@latest
+- cuối cùng, chậm nhất, muộn nhất
+ @latex  
+*  dt,  số nhiều latices  @lath  
+*  dt
+- lati, mèn, thanh gỗ mỏng (để lát trần nhà...)
+!as thin as a lath
+- gầy như cái que (người)
+*  ngdgt
+- lát bằng lati
+
+@lathe  
+*  dt
+- máy tiện ((cũng) turning lathe)
+*  ngdgt
+- tiện (vật gì)
+
+@lathee   (lathee) @lather  
+*  dt
+- bọt (xà phòng, nước)
+- mồ hôi (ngựa)
+
++ horse all in a lather: ngựa đẫm mồ hôi
+- (nghĩa bóng) trạng thái bị kích động, trạng thái sục sôi
+*  ngdgt
+- xoa xà phòng, xát xà phòng, làm cho sủi bọt
+- (từ lóng) đánh quật
+*  ndgt
+- sùi bọt, có bọt
+
++ soap does not lather well: xà phòng không bọt lắm
+- đổ mồ hôi (ngựa)
+
+@lathering
+* dt
+- sự đánh đập, sự mắng nhiết
+ @lathery  
+*  tt
+- có bọt (chất nước)
+- xoa xà phòng (để cạo râu)
+- đổ mồ hôi (ngựa)
+
+@lathi   (lathee) @lathing  
+*  dt
+- sự lợp bằng lati, sự lát bằng lati
+
+@lathy  
+*  tt
+- mỏng mảnh như thanh lati
+- làm bằng lati, làm bằng những thanh gỗ mỏng
+
+@lathyrism
+* dt
+- sự ngộ độc do ăn loại cây lathyrus gây ra liệt chân
+ @lathyritic
+* tt
+- gây bệnh liệt chân
+ @latices  
+*  dt,  số nhiều latices  @laticifer
+* dt
+- tế bào cây có nhựa mủ
+ @laticiferous  
+*  tt
+- có nhựa m
+
+@latifundia   (latifundia) @latifundium   (latifundia) @latin  
+*  dt
+- người La-tinh
+- tiếng La-tinh
+
++ classical latin: tiếng La-tinh cổ điển
+
++ modern latin: tiếng La-tinh hiện đại
+
++ thieves' latin: tiếng lóng của bọn ăn cắp
+*  tt
+- (thuộc) Rô-ma (xưa gọi là Latium)
+- (thuộc) La-tinh
+
++ the latin peoples: những dân tộc thuộc nền văn hoá La-tinh (như Pháp,  Tây-ban-nha,  Y,  Bồ-ddào-nha,  Ru-ma-ni)
+
++ latin America: Châu mỹ La-tinh
+
++ latin Quarter: xóm La-tinh (khu các trường đại học, có nhiều sinh viên ở Pa-ri)
+
+@latin
+- latin
+ @Latin American Economic System
+- (Econ) Hệ thống kinh tế Mỹ Latinh.
+: Một tổ chức liên chính phủ được thành Lập năm 1975 để khuyến khích hợp tác và hội nhập kinh tế trong khu vực Mỹ Latinh.
+ @Latin American Free Trade Association (LAFTA)
+- (Econ) Hiệp hội thương mại tự do Mỹ latinh.
+: Hiệp hội thương mại tự do được thành lập năm 1961 căn cứ vào sự chuẩn y của Hiệp ước Motevideo năm 1960, đánh dấu sự kết thúc hàng loạt cuộc hội thảo sơ bộ dưới sự bảo trợ của UỶ BAN KINH TẾ MỸ LATINH, LIÊN HỢP QUỐC.
+ @latin church
+* dt
+- Giáo hội thiên chúa La Mã
+ @latin cross
+* dt
+- chữ thập mà cánh dưới dài hơn ba cánh còn lại
+ @latin-american
+* tt
+- (thuộc) châu Mỹ La tinh
+* dt
+- người châu Mỹ la tinh
+ @latinate
+* tt
+- thuộc Latinh
+ @latinisation
+* dt
+- sự La-tinh hoá (chữ viết)
+- sự theo phong cách La-tinh (phong tục, tập quán...)
+- sự dùng từ ngữ đặc La-tinh, sự dùng đặc ngữ La tinh
+ @latinise   (latinise) @latinism  
+*  dt
+- (ngôn ngữ học) từ ngữ đặc La-tinh
+
+@latinist  
+*  dt
+- nhà nghiên cứu tiếng La-tinh
+
+@latinity  
+*  dt
+- phong cách ngôn ngữ La-tinh
+
+@latinization  
+*  dt
+- sự La-tinh hoá (chữ viết)
+- sự theo phong cách La-tinh (phong tục, tập quán...)
+- sự dùng từ ngữ đặc La-tinh
+
+@latinize   (latinise) @latinizer  
+*  dt
+- người La-tinh hoá (chữ viết)
+- người sinh tiếng La-tinh
+
+@latins  
+*  dt số nhiều
+- (từ Mỹ,nghĩa Mỹ) các nước Châu mỹ La-tinh
+
+@latish  
+*  tt
+- hơi chậm, chầm chậm
+
+@latitude  
+*  dt
+- độ vĩ; đường vĩ
+
++ in the latitude 40o N: ở độ vĩ 40 Bắc
+- ((thường) số nhiều) miền, vùng
+
++ high latitudes: vùng khí hậu ấm áp
+- bề rộng
+- phạm vi rộng, quyền rộng rãi
+
++ to allow the people great latitude in politics: cho nhân dân có quyền (hoạt động) rộng rãi về chính trị
+
++ to understand a problem in its proper latitude: hiểu vấn đề một cách đầy đủ toàn diện
+
+@latitude
+- (thiên văn) vĩ độ, vĩ tuyến
+- l. of a point on the earth's surface vĩ độ của một điểm trên bề mặt trái đất 
+- astronomical l. vĩ độ thiên văn 
+- celestial l. vĩ độ trời (trong hệ toạ độ xích đạo) 
+- ecliptic l. vĩ độ hoàng đạo 
+- geocentric l. vĩ độ địa tâm
+- geodetic l. vĩ độ trắc địa
+- geographical l. vĩ độ địa lý 
+- high l.s vĩ độ cao
+- low l.s vĩ độ thấp 
+- middle l.s vĩ độ trung bình 
+ @latitudinal  
+*  tt
+- (thuộc) độ vĩ, (thuộc) đường vĩ
+- (thuộc) bề rộng
+
+@latitudinarian  
+*  tt
+- trong một phạm vi rộng lớn, không bó hẹp
+- phóng túng, tự do
+*  dt
+- người tự do, người phóng túng
+
+@latitudinarianism  
+*  dt
+- chủ nghĩa tự do, chủ nghĩa phóng túng
+
+@latitudinous  
+*  tt
+- có phạm vi rộng lớn
+
+@latosol
+* dt
+- đất nhiệt đới màu đỏ và vàng
+ @latosolic
+* tt
+- thuộc đất nhiệt đới màu đỏ và vàng
+ @latrine  
+*  dt
+- nhà xí (ở doanh trại, bệnh viện, nhà tù)
+
+@latter  
+*  tt,  cấp so sánh của late
+- sau cùng, gần đây, mới đây
+
++ in these latter days: trong thời kỳ gần đây nhất, trong thời đại chúng ta
+- sau, thứ hai (đối lại với former)
+
++ the latter half of the century: nửa sau của thế kỷ
+- (the latter) cái sau; người sau (đối lại với former)
+
++ of these two men, the former is dead, the latter still alive: trong hai người đó, người trước đã chết, người sau còn sống
+!latter end
+- sự chấm dứt, sự chết
+
+@latter
+- không lâu; cuối cùng
+ @latter-day  
+*  tt
+- hiện đại, ngày nay
+
+@latterly  
+*  dt
+- về sau; về cuối (đời người, thời kỳ)
+- gần đây, mới đây
+
+@lattermost  
+*  tt
+- cuối cùng, mới nhất
+
+@lattice  
+*  dt
+- lưới, rèm; hàng rào mắt cáo
+
++ lattice window: cửa sổ mắt cáo
+
++ lattice bridge: cầu làm bằng những thanh sắt bắt chéo nhau
+
+@lattice
+- (đại số) dàn; (thống kê) mạng
+- atomic(al) l. (đại số) dàn nguyên tử
+- coarse l. (đại số) dàn thô
+- complemented (đại số) dàn có bổ sung
+- complete multiplicative l. (đại số) dàn nhân đầy đủ
+- cubic l. (thống kê) mạng lập phương
+- disjunction l. (đại số) dàn tách 
+- distributive l. (thống kê) mạng phân phối
+- gruoping l. (thống kê) mạng nhóm
+- integral l. (đại số) dàn nguyên
+- matroid l. M-dàn
+- metric l. (đại số) dàn mêtric
+- modular l. (đại số) dàn môđula
+- muliplication l. (đại số) dàn nhân
+- quasi-complemented l. (đại số) dàn được tựa bổ sung
+- relatively complemented (đại số) dàn được bổ sung tương đối
+- residuated l. (đại số) dàn có phép chia
+- semi-modular l. (đại số) dàn nửa môđula
+- skew l. (đại số) dàn lệch
+- soluble l. (đại số) dàn giải được
+- square l. (thống kê) mạng vuông
+- star l. dàn hình sao
+- three-deménional l. (thống kê) mạng ba chiều 
+ @latticed  
+*  tt
+- thành rào mắt cáo, thành lưới mắt cáo; có rào mắt cáo, có lưới mắt cáo
+
+@latticework
+* dt
+- xem lattice
+ @latvian
+* dt
+- adj
+- người Latvia
+- ngôn ngữ vùng Bantic của người Latvia
+ @lauan
+* dt
+- gỗ Phi-líp-pin
+ @laud  
+*  dt
+- lời tán dương, lời ca ngợi, lời khen ngợi
+- (số nhiều) (tôn giáo) tán ca
+*  ngdgt
+- tán dương, ca ngợi, khen ngợi
+
++ to laud someone to the skies: tâng ai lên tận mây xanh
+
+@laudability   (laudableness) @laudable  
+*  tt
+- đáng tán dương, đáng ca ngợi, đáng khen ngợi
+
+@laudableness   (laudableness) @laudably
+* dt
+- đáng khen, đáng ca ngợi
+ @laudanum  
+*  dt
+- Lauddanom, cồn thuốc phiện
+
+@laudation  
+*  dt
+- sự tán dương, sự ca ngợi, sự khen ngợi
+- lời tán dương, lời ca ngợi, lời khen ngợi
+
+@laudative  
+*  tt
+- tán dương, ca ngợi, khen
+
++ a laudative poem: một bài thơ ca ngợi
+
+@laudator   (lauder) @laudator temporis acti  
+*  dt
+- người thích ca ngợi đời xưa, người thích những kỷ niệm thời xưa (khi còn thơ ấu)
+
+@laudatory  
+*  tt
+- tán dương, ca ngợi, khen; hay tán dương, hay khen
+
+@lauder   (lauder) @laugh  
+*  dt
+- tiếng cười
+
++ to burst into a laugh: cười phá lên
+
++ to have a good laugh at somebody: được cười ai một trận thoả thích
+
++ to have (get) the laugh of (at, on) somebody; to have (get) the laugh on someone's side: cười lại ai (nghĩa bóng) quật lại thắng thế ai
+
++ to force a laugh: gượng cười
+*  dgt
+- cười, cười vui, cười cợt
+
++ to laugh oneself into fits (convulsions): cười đau cả bụng
+
++ to burst out laughing: cười phá lên
+
++ to laugh a bitter laugh: cười cái cười chua chát
+
++ to laugh oneself helpless: cười phát sặc lên, cười phát ho lên
+!to laugh at
+- cười, cười nhạo, cười coi thường
+!to laugh away
+- cười để xua đuổi, cười để gạt bỏ (cái gì)
+
++ to laugh away one's fears and anxiety: cười để xua đuổi những nỗi lo âu sợ hãi
+!to laugh down
+- cười át đi
+!to laugh off
+- cười mà tránh đi (khó khăn...), cười xoà
+!to laugh over
+- cười khi xem xét, cười khi thảo luận (vấn đề gì)
+!to laugh in someone's face
+- cười vào mặt ai, chế diễu ai, chế nhạo ai
+!to laugh in one's sleeve
+- cười thầm
+!to laugh on the other side (corner) of the mouth
+!to laugh on the wrong side of one's mouth (face)
+- đang vui trở nên buồn, đang cười lại mếu
+!to laugh somebody out of court
+- bêu rếu ai để mọi người cười làm cho toà không còn nghe được người người ấy khai nữa
+!to laugh somebody out of some habit
+- cười người nào để cho bỏ một thói gì đi
+!he laughs best who laughts last
+- (tục ngữ) cười người chớ khá cười lâu, cười người hôm trước hôm sau người cười
+
+@laughable  
+*  tt
+- tức cười, nực cười
+
+@laughableness  
+*  dt
+- tính chất tức cười, tính chất nực cười
+
+@laughably
+* dt
+- tức cười, nực cười
+ @laughing  
+*  dt
+- sự cười, sự cười đùa
+*  tt
+- vui cười, vui vẻ, tươi cười
+
++ a laughing face: bộ mặt tươi cười
+!it is no laughing matter
+- đây không phải là chuyện đùa
+
+@laughing gas
+* dt
+- khí tê (dùng khi chữa răng)
+ @laughing-gas  
+*  dt
+- (hoá học) khí tê (dùng khi chữa răng)
+
+@laughingly
+* dt
+- vui vẻ, tươi cười
+ @laughing-stock  
+*  dt
+- trò cười
+
++ to become the laughing-stock of all the town: trở thành trò cười cho khắp tỉnh
+
++ to male a laughing-stock of somebody: làm cho ai trở thành trò cười
+
+@laughter  
+*  dt
+- sự cười, tiếng cười
+
++ to burst (break) into laughter: cười phá lên
+
++ to split one's sider with laughter: cười vỡ bụng
+!peals of laughter
+- tràng cười rền
+
++ to be convulsed (shake, rock) with laughter: cười thắt ruột
+
+@launch  
+*  dt
+- xuồng lớn (lớn nhất trên một tàu chiến)
+- xuồng du lịch
+*  dt
+- sự hạ thuỷ (tàu)
+*  ngdgt
+- hạ thuỷ (tàu)
+- ném, phóng, quăng, liệng (tên lửa; lời đe doạ...); mở (cuộc tấn công); phát động (phong trào...); giáng (quả đấm...); ban bố (sắc lệnh...)
+- khởi đầu, khai trương
+
++ to launch a new enterprise: khai trương một tổ chức kinh doanh mới
+- đưa (ai) ta, giới thiệu (ai) ra (cho mọi người biết)
+*  ndgt
+- bắt đầu dấn vào, lao vào
+
++ to launch out on a long voyage: bắt đầu một cuộc hành trình dài
+
++ to launch out into extravagance: lao vào một cuộc sống phóng túng
+
++ to launch out into the sea of life: dấn thân vào đời
+!to laugh into abuse of someone
+- chửi rủa ai om sòm
+!to launch into eternity
+- chết, qua đời
+!to launch into strong language
+- chửi rủa một thôi một hồi
+
+@launch pad   (launching_ramp) @launcher  
+*  dt
+- người phóng, máy phóng (lựu đạn, tên lửa...)
+
+@launching pad   (launching_ramp) @launching ramp   (launching_ramp) @launching site  
+*  dt
+- căn cứ phóng (tên lửa...)
+
+@launching-tube  
+*  dt
+- ống phóng thuỷ lôi
+
+@launching-ways  
+*  dt
+- đường hạ thuỷ (của tàu)
+
+@launchpad
+* dt
+- bệ phóng (tên lửa)
+ @launder  
+*  ngdgt
+- giặt là
+*  ndgt
+- có thể giặt là được
+
+@launderette   (laundromat) @laundress  
+*  dt
+- chị thợ giặt
+
+@laundrette
+* dt
+- hiệu giặt tự động (chờ lấy ngay quần áo tại chỗ)
+ @laundromat   (laundromat) @laundry  
+*  dt
+- chỗ giặt là quần áo; hiệu giặt
+- quần áo đưa giặt; quần áo đã giặt là xong
+
+@laundryman  
+*  dt
+- thợ giặt
+
+@laundrywoman  
+*  dt
+- chị thợ giặt
+
+@laura
+* dt
+- tu viện ở nhà thờ chính giáo phương đông
+ @lauraceous  
+*  tt
+- (thực vật học) (thuộc) họ long não
+
+@laureate  
+*  tt
+- được giải thưởng
+*  dt
+- người trúng giải thưởng
+
+@laureateship
+* dt
+- địa vị được thưởng
+ @laurel  
+*  dt
+- cây nguyệt quế
+
++ laurel wreath: vòng nguyệt quế
+- (số nhiều) vinh dự, vinh hiển, quang vinh
+
++ to win (gain, reap) laurels: thắng trận; công thành danh toại
+
++ to look to one's laurels: lưu tâm bảo vệ vinh dự đã đạt được; phòng ngừa kẻ kinh địch
+
++ to rest on one's laurels: thoả mân với vinh dự đã đạt được
+*  ngdgt
+- đội vòng nguyệt quế cho (ai)
+
+@laurelled  
+*  tt
+- được vinh hiển, được vẻ vang
+
+@Lausanne School
+- (Econ) Trường phái Lausanne.
+: Một trường phái tư duy kinh tế có nguồn gốc tại trường Đại học Lausanne ở Thuỵ sĩ nhấn mạnh vào việc sử dụng các kỹ thuật toán học để thể hiện sự phụ thuộc lẫn nhau trong một thị trường.
+ @lav
+* dt
+- <thgt> nhà vệ sinh
+ @lava  
+*  dt
+- (địa lý,ddịa chất) Lava, dung nham
+
+@lavabo  
+*  dt
+- (tôn giáo) kinh rửa tay (đạo Thiên chúa); khăn lau tay (trong lễ rửa tay)
+- bàn rửa mặt; giá chậu rửa mặt
+- (số nhiều) nhà xí máy, nhà tiêu máy
+
+@lavage
+* dt
+- sự rửa; phương pháp trị liệu bằng cách rửa một bộ phận trong cơ thể
+ @lavation  
+*  dt
+- sự rửa
+
+@lavational  
+*  tt
+- (thuộc) sự rửa
+
+@lavatory  
+*  dt
+- phòng rửa mặt
+- nhà xí máy, nhà tiêu máy
+
+@lave  
+*  ngdgt,  (thơ ca)
+- tắm rửa
+- chảy qua, trôi qua (dòng nước)
+
+@lavement  
+*  dt
+- (y học) sự rửa, sự thụt
+
+@lavender  
+*  dt
+- cây oải hương, hoa oải hương ((cũng) spike)
+- màu hoa oải hương (xanh nhạt hơi pha đỏ)
+- (như) lavender-water
+!to be brought up in lavender
+- được nuông chiều
+!to lay [up] in lavender
+- ướp hoa oải hương
+- (thường),  (nghĩa bóng) xếp lại để dành
+*  ngdgt
+- xức nước oải hương, ướp hoa oải hương
+
+@lavender-water  
+*  dt
+- nước hoa oải hương
+
+@laver  
+*  dt
+- (từ cổ,nghĩa cổ) chậu (để rửa)
+- (tôn giáo) chậu rửa tội (đạo Do-thái)
+*  dt
+- táo tía (ăn được)
+
+@laverock  
+*  dt ((cũng) lark)
+- (thơ ca) chim chiền chiện
+
+@lavish  
+*  tt
+- xài phí, lãng phí, hoang toàng
+
++ to be lavish in spending one's money: ăn tiêu lãng phí hoang toàng
+
++ to live in lavish style: sống hoang toàng
+- nhiều, quá nhiều
+
++ to be lavish in (of) one's praise: khen ngợi quá nhiều lời
+*  ngdgt
+- tiêu xài hoang phí, lãng phí
+
++ to lavish money upon one's pleasures: xài tiền hoang phí vào những thú vui
+- cho nhiều, cho rộng rãi
+
++ to lavish care and affection on one's children: nuông chiều con cái
+
+@lavishly
+* dt
+- phung phí, hoang toàng
+ @lavishment  
+*  dt
+- sự xài phí, sự lãng phí
+
+@lavishness  
+*  dt
+- tính hay xài phí, tính hoang toàng
+
+@lavolta
+* dt
+- điểu nhảy lavôta trước đây của Pháp
+ @lavvie
+* dt
+- cũng lavvy
+- (uyển ngữ) nhà vệ sinh
+ @law  
+*  dt
+- phép, phép tắc, luật; quy luật, định luật; điều lệ
+
++ to submit to a law: tuân theo một phép tắc, tuân theo một điều lệ
+
++ the laws of gravity: những định luật về trọng lực
+
++ the laws of football: luật bóng đá
+
++ the laws of painting: quy tắc hội hoạ
+
++ economic laws: quy luật kinh tế
+
++ the law of supply and demand: luật cung cầu
+- pháp luật, luật
+
++ everybody is equal before the law: tất cả mọi người đều bình đẳng trước pháp luật
+
++ to settle a matter without going to law: hoà giải một công việc không cần đến pháp luật
+
++ to put the law into force; to carry out the law: phạm luật
+
++ to keep the law; to keep within the law: tuân giữ pháp luật
+
++ commercial law; law merchant: luật thương mại
+
++ maritime law: luật hàng hải
+
++ international law; the law of nations: luật quốc tế
+- luật học; nghề luật sư
+
++ to read (study) law: học luật
+
++ law student: học sinh đại học luật
+!Doctor of Laws
+- tiến sĩ luật khoa
+
++ to fellow the law; to practise the law; to go in for the law: làm nghề luật sư
+- toà án, việc kiện cáo
+
++ court of law: toà án
+
++ to be at law with somebody: kiện ai
+
++ to go law: ra toà án, nhờ đến pháp luật
+
++ to go to law with someone; to have the law of someone: kiện ai, đưa ai ra toà
+- giới luật gia
+- (thể dục,thể thao) sự chấp (thời gian, quâng đường...)
+!law and order
+- anh ninh trật tự
+!to be a law into oneself
+- làm theo đường lối của mình, bất chấp cả luật lệ
+!to give [the] law to somebody
+- bắt ai phải làm theo ý mình
+!to lay down the law
+- nói giọng oai quyền, ra oai
+!necessity (need) knows no law
+- tuỳ cơ ứng biến
+
+@law
+- luật, quy luật; định luật; nguyên lý; công thức; định lý
+- l. of action and reaction định luật tác dụng và phản tác dụng
+- l. of apparition of prime luật phân bố các số nguyên tố 
+- l. of association luật kết hợp
+- l. of commutation luật giao hoán
+- l. of conservation of energy định luật bảo toàn năng lượng
+- l. of contradiction (logic học) luật mâu thuẫn
+- l. of cosines định lý côsi
+- l. of distributive proportion luật tỷ lệ phân phối
+- l. of double logarithm luật lôga lặp
+- l. of errors luật sai số
+- l. of excluded middle luật bài trung
+- l. of experience (điều khiển học) luật kinh nghiệm
+- l. of friction định luật ma sát
+- l. of great numbers luật số lớn
+- l. of identity (logic học) luật đồng nhất
+- l. of indices luật chỉ số
+- l. of inertia định luật quán tính
+- l. of interated logarithm luật lôga lặp
+- l. of mutuality phases quy luật tương hỗ các pha
+- l. of nature quy luật tự nhiên
+- l. of reciprocity luật [thuận, nghịch, phản liên hồi dưỡng]
+- l. of requisite variety (điều khiển học) luật yêu cầu nhiều vẻ
+- l. of signs luật đấu
+- l. of sines (hình học) định lý sin
+- l. of small numbers (điều khiển học) luật số bé, phân phối Poatxông
+- l. of sufficient reason (logic học) luật đủ lý 
+- l. of supply and demand (toán kinh tế) quy luật cung và cầu
+- l. of tangents định lý tang
+- l. of the lever (cơ học) định luật đòn bẩy
+- l. of the mean (giải tích) định lý trung bình
+- l. of thought (logic học) luật tư duy
+- l. of universal gravitation định luật vạn vật hấp dẫn
+- l. of zero (thống kê) luật không
+- absorption l. (đại số) luật hút thu
+- cancellation l. luật giản ước
+- commutative l. luật giao hoán
+- complementarity l. (đại số) luật bù
+- composition l. luật hợp thành
+- conservation l. định luật bảo toàn
+- cosine l. định lý côsin
+- distribution l. luật phân phối
+- dualization l. luật đối ngẫu
+- elementary probability l. mật độ phân phối xác suất
+- error l. luật sai số, luật độ sai
+- exponential l. luật số mũ
+- gas l. (vật lí) phương trình của khí; sự cân bằng trạng thái khí
+- hydrostatic(al) pressures l. luật phân phối áp lực thuỷ tĩnh
+- index l.s luật chỉ số
+- inertia l. định luật quán tính, định luật Niutơn thứ nhất
+- non-commutative l. luật không giao hoán
+- normal l. of composition hh(đại số) luật hợp thành chuẩn tắc 
+- one- side distribuutive l. luật phân phối một phía 
+- parallelogram l. of forces quy tắc bình hành lực 
+- probability l. luật xác suất 
+- quasi-stable l. luật tựa ổn định 
+- reciprocity l. luật thuận nghịch 
+- reduced l. luật rút gọn
+- reflexive l. luật phản xạ
+- semi-stable l. luật nửa phân phối
+- strong l. of large numbers luật mạnh số lớn
+- transitive l. luật [bắc cầu, truyền ứng]
+- trichotomy l. (đại số) luật tam phân
+ @law lord
+* dt
+- <chtrị> thượng nghị sự đặc trách công tác pháp luật ở nghị viện
+ @Law of demand
+- (Econ) Quy luật của cầu.
+: Một quan điểm được công nhận rộng rãi, nếu mọi yếu tố khác không đổi thì hàng hoá sẽ được mua nhiều hơn nếu giá cả thấp hơn, và hàng hoá sẽ được mua ít hơn nếu giá cả tăng lên.
+ @Law of diminishing marginal utility
+- (Econ) Quy luật độ thoả dụng cận biên giảm dần.
+ @Law of diminishing returns
+- (Econ) Quy luật lợi tức giảm dần.
+: Khi số lượng ngày càng nhiều của một yếu tố khả biến được thêm vào số lượng cố định của một yếu tố nào khác, thì trước hts là lợi tức biên, và sau đó là lợi tức trung bình đối với yếu tố biến đổi sẽ, sau một điểm nào đó giảm dần…
+ @Law of one price
+- (Econ) Quy luật một giá.
+ @Law of variable proprerties
+- (Econ) Quy luật về các đặc tính biến đổi.
+: Xem Law of diminishing returns.
+ @law office  
+*  dt
+- phòng tư pháp
+
+@law-abiding  
+*  tt
+- tôn trọng luật pháp, tuân theo luật pháp
+
+@law-abidingness  
+*  dt
+- sự tôn trọng luật pháp, sự tuân theo luật pháp
+
+@law-breaker
+* dt
+- kẻ phạm pháp
+ @law-breaking  
+*  dt
+- sự phạm pháp
+
+@law-court  
+*  dt
+- toà án
+
+@lawcourt
+* dt
+- toà án, pháp đình
+ @lawful  
+*  tt
+- hợp pháp, đúng luật
+
++ to come of lawful age: đến tuổi công dân
+- chính thống
+
+@lawfully
+* dt
+- hợp pháp, đúng luật
+ @lawfulness  
+*  dt
+- sự hợp pháp, sự đúng luật
+- tính chính thống
+
+@lawgiver   (lawmaker) @law-hand
+* dt
+- lối chữ viết đặc biệt trong những văn kiện luật pháp (ở nước Anh)
+ @lawless  
+*  tt
+- không có pháp luật
+- không hợp pháp
+- lộn xộn, vô trật tự, hỗn loạn
+
+@lawlessly
+* dt
+- lộn xộn, vô trật tự
+ @lawlessness  
+*  dt
+- tình trạng không có pháp luật
+- tình trạng không hợp pháp
+- tình trạng lộn xộn, tình trạng vô trật tự, tình trạng hỗn loạn
+
+@lawmaker   (lawmaker) @lawmaking
+* dt
+- sự lập pháp
+ @lawman
+* dt
+- (từ Mỹ, nghĩa Mỹ) người thi hành luật; sĩ quan cảnh sát
+ @law-monger  
+*  dt
+- thầy cò, luật sư tồi
+
+@lawn  
+*  dt
+- vải batit (một thứ vải gai mịn)
+*  dt
+- bãi c
+
+@lawn mower
+* dt
+- máy xén cỏ
+ @lawn tennis  
+*  dt
+- (thể dục,thể thao) quần vợt sân c
+
+@lawn-mower  
+*  dt
+- máy xén c
+
+@lawn-sprinkler  
+*  dt
+- máy tưới c
+
+@lawny  
+*  tt
+- (thuộc) vải batit; như vải batit
+*  tt
+- có nhiều c
+
+@lawrencium
+* dt
+- lawrencium
+ @lawsuit  
+*  dt
+- việc kiện cáo, việc tố tụng
+
++ to enter (bring in) a lawsuit against somebody: đệ đơn kiện ai
+
+@law-term  
+*  dt
+- thuật ngữ luật
+- thời gian toà xét x
+
+@law-writer  
+*  dt
+- người viết về những vấn đề luật pháp
+
+@lawyer  
+*  dt
+- luật sư
+- luật gia
+
+@lax  
+*  dt
+- cá hồi (ở Na-uy,  Thuỵ-ddiển)
+*  tt
+- lỏng lẻo, không chặt chẽ; không nghiêm
+
++ lax discipline: kỷ luật lỏng lẻo
+
+@laxation
+* dt
+- xem lax chỉ tình trạng
+ @laxative  
+*  tt
+- nhuận tràng
+*  dt
+- (y học) thuốc nhuận tràng
+
+@laxity  
+*  dt
+- tình trạng lỏng lẻo, tình trạng không chặt chẽ (kỷ luật); tính không nghiêm (đạo đức, văn hoá)
+- sự sao lãng, sự biếng trễ (bổn phận của mình)
+- tính không sát, tính không rõ ràng, tính mập mờ (từ, thành ngữ)
+- tính uể oải, tính lờ phờ
+- tính không mềm, tình trạng nhâo, tình trạng không chắc (thịt...)
+- (y học) chứng yếu bụng (hay đi ỉa chảy)
+
+@laxly
+* dt
+- thiếu chặt chẽ, lỏng lẻo
+ @laxness  
+*  dt
+- tính lỏng lẻo, tính không chặt chẽ; tình trạng lỏng lẻo, tình trạng không chặt chẽ
+
+@lay  
+*  dt
+- bài thơ ngắn, bài vè ngắn
+- (thơ ca) bài hát, bài ca, bài thơ
+- (thơ ca) tiếng chim, hót
+- vị trí, phương hướng
+- đường nét (của bờ sông bờ biển)
+- (từ lóng) công việc
+
++ that doesn't belong to my lay: cái đó không phải việc của tôi
+*  ngdgt laid
+- xếp, để, đặt; sắp đặt, bố trí
+
++ to lay one's hand on someone's shouldder: để tay lên vai ai
+
++ to lay a child to sleep: đặt đứa bé nằm ngủ
+
++ to lay the foundation of socialism: đặt nền móng cho chủ nghĩa xã hội
+
++ to lay a plant: bố trí một kế hoạch
+
++ to lay a plot: sắp đặt một âm mưu
+- bày, bày biện
+
++ to lay the table for dinner: bày bàn ăn
+- làm xẹp xuống, làm lắng xuống, làm mất, làm hết
+
++ the rains has laid the dust: mưa làm lắng bụi xuống
+
++ to lay someone's doubts: làm ai hết nghi ngờ
+- làm rạp xuống (cây cối), phá hỏng
+
++ the storm laid the corps: bão là rạp cả hoa màu, bão phá hỏng hoa màu
+- đặt vào, dẫn đến, đưa đến (một hoàn cảnh, một tình trạng)
+
++ his bad behaviour lays me under the necessity of punishing him: cách xử sự xấu của hắn buộc tôi phải phạt hắn
+- trình bày, đưa ra
+
++ to lay the facts before the Commitee: trình bày sự việc trước uỷ ban
+- quy (tội), đỗ (lỗi)
+
++ to lay all the blame on someone: quy tất cả lỗi (trách nhiệm) vào ai
+- bắt phải chịu, đánh (thuế)
+
++ to lay heavy taxes on something: đánh thuế nặng vào cái gì
+- trải lên, phủ lên
+
++ to lay a floor with a carpet: trải thảm lên sàn
+- đánh, giáng (đòn)
+
++ to lay hard blows: giáng những đòn nặng nề
+- đánh cược
+
++ to lay that...: đánh cược răng...
+- hướng (đại bác) về phía
+- đẻ (chim)
+
++ hens lay eggs: gà mái đẻ trứng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ăn nằm với, giao hợp với
+*  ndgt
+- nằm
+- đánh cược
+- đẻ trứng (gà)
+!to lay aside
+- gác sang một bên, không nghĩ tới
+
++ to lay aside one's sorrow: gác nỗi buồn riêng sang một bên
+- dành dụm, để dành
+
++ to lay aside money for one's old age: dành dụm tiền cho đến lúc tuổi già
+- bỏ, bỏ đi
+
++ to lay aside one's old habits: bỏ những thói quen cũ đi
+!to lay away
+!to lay aside to lay before
+- trình bày, bày tỏ
+!to lay by
+!to lay aside to lay down
+- đặt nằm xuống, để xuống
+- cất (rượu) vào kho
+- hạ bỏ
+
++ to lay down one's arms: hạ vũ khí, đầu hàng
+- chuyển (một miếng đất) thành đồng cỏ (để chăn nuôi)
+
++ to lay down land in (to, under, with) grass: chuyển một miếng đất thành cánh đồng cỏ
+- hy sinh
+
++ to lay down one's life for the fatherland: hy sinh tính mệnh cho tổ quốc
+- đánh cược, cược
+
++ to lay down on the result of the race: đánh cược về kết quả cuộc chạy đua
+- sắp đặt, dự kiến, bắt đầu xây dựng
+
++ to lay down a railway: bắt đầu xây dựng một đường xe lửa
+- đề ra, tuyên bố; xác nhận, thừa
+
++ I lay it down that this is a very intricate question: tôi xác nhận đó là một vấn đề rất phức tạp
+!to lay for
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nằm đợi
+!to lay in
+- dự trữ, để dành
+- (thông tục) đánh, quai, đấm tới tấp
+!to lay off
+- (hàng hải) lái ra xa bờ, tránh
+!ngừng (làm việc)
+- (từ Mỹ,nghĩa Mỹ) thải, đuổi, giãn (thợ)
+!to lay on
+- đánh, giáng đòn
+
++ to lay on hard blows: giáng cho những đòn nặng nề
+- rải lên, phủ lên, quét lên
+
++ to lay on plaster: phủ một lượt vữa, phủ vữa lên
+- đặt ống (dẫn hơi, dẫn nước...); đặt đường dây (điện)
+!to lay out
+- sắp đặt, bố trí (theo sơ đồ)
+- trình bày, phơi bày, đưa ra
+- trải ra
+- liệm (người chết)
+- tiêu (tiền)
+- (từ lóng) giết
+- dốc sức làm
+
++ to lay oneself out: nổ lực, dốc hết sức làm (cái gì)
+!to lay over
+- trải lên, phủ lên
+!to lay up
+- trữ, để dành
+!to lay about one
+- đánh tứ phía
+!to lay bare
+- (xem) bare
+!to lay one's bones
+- gửi xương, gửi xác ở đâu
+!to lay somebody by the heels
+- (xem) heel
+!to lay captive
+- bắt giữ, cầm tù
+!to lay one's card on the table
+- (xem) card
+!to lay fast
+- nắm chặt, giữ chặt, không cho chạy thoát
+!to laythe fire
+- xếp củi để đốt
+!to lay great store upon (on) someone
+- đánh giá cao ai
+!to lay hands on
+- (xem) hand
+!to lay heads together
+- (xem) head
+!to lay hold of (on)
+- nắm chặt, giữ chặt, tóm, bắt
+- lợi dụng
+!to lay it on thick
+- (xem) thick
+!to lay an information agaisnt somebody
+- đệ đơn kiện ai
+!to lay one's hope on
+- đặt hy vọng vào
+!to lay open
+- tách vỏ ra
+!to lay siege to
+- bao vây
+!to lay under contribution
+- (xem) contribution
+!to lay stress on
+- nhấn mạnh
+!to lay something to heart
+- (xem) heart
+!to lay to rest (to sleep)
+- chôn
+!to lay under an obligation
+- làm cho (ai) phải chịu ơn
+!to lay under necessity
+- bắt buộc (ai) phải
+!to lay waste
+- tàu phá
+*  tt
+- không theo giáo hội, phi giáo hội, thế tục
+- không chuyên môn
+
++ lay opinion: ý kiến của người không chuyên môn
+*  thời quá khứ của lie
+
+@lay
+- xếp, đặt l. down the rule [phát biểu, thiết lập] quy tắc 
+ @lay figure  
+*  dt
+- người giả (thợ may dùng để mặc quần áo)
+- người không quan trọng, người không giá trị; bù nhìn
+- nhân vật hư cấu, nhân vật không có trong thực tế (tiểu thuyết)
+
+@lay reader
+- người đọc Kinh (làm nhiệm vụ đọc to một số đoạn Kinh khi làm lễ ở nhà thờ)
+ @layabout  
+*  dt
+- người đi lang thang, người vô công rồi nghề
+
+@lay-by  
+*  dt
+- góc (thụt vào để) đổ xe (ở đường phố...)
+
+@lay-days  
+*  dt số nhiều
+- (thương nghiệp) thời gian bốc dở (tàu biển)
+
+@layer  
+*  dt
+- người đặt, người gài (bẫy)
+- lớp
+
++ a layer of clay: lớp đất sét
+- (địa lý,ddịa chất) tầng đất, địa tầng
+- cành chiết
+- mái đẻ (trứng)
+
++ a good layer: mái đẻ (trứng) tốt
+- (số nhiều) dải lúa bị rạp
+- đầm nuôi trai
+*  ngdgt
+- sắp từng lớp, sắp từng tầng
+- chiết cành
+*  ndgt
+- ngả, ngả rạp xuống (lúa)
+
+@layer
+- lớp, tầng
+- l. of charge (vật lí) tầng tích điện, mặt phẳng tích điện
+- boundary l. lớp biên
+- contact l. tầng tiếp xúc 
+- double l. (vật lí) tầng kép
+- equipotential l. tầng đẳng thế
+- multiple l. (giải tích) tầng bội
+- turbulent buondary l. lớp biên rối loạn 
+ @layer cake
+* dt
+- bánh ngọt có nhiều lớp nhập lại
+ @layerage  
+*  dt
+- phương pháp chiết cành
+
+@layette  
+*  dt
+- tã lót
+
+@Layfield Report
+- (Econ) Báo cáo Layfield.
+: Một bản báo cáo của chính phủ Anh về thuế và chi tiêuu của các chính phủ địa phương ở Anh xuất bản năm 1976 (HMSO, Tài chiính chính quyền địa phương, báo cáo theo yêu cầu  Uỷ ban điều tra, London, 1976).
+ @laying  
+*  dt
+- sự đặt (mìn, đường ray, ống...)
+- sự đẻ trứng; thời kỳ đẻ trứng
+
+@layman  
+*  dt
+- thường dân; người thế tục
+- người không chuyên môn (về y, luật...)
+
+@lay-off  
+*  dt
+- sự ngừng sản xuất; sự giảm sản xuất
+- (từ Mỹ,nghĩa Mỹ) sự tạm giãn thợ (vì không có việc); thời gian tạm giãn thợ
+- thời kỳ nhàn rỗi (lúc giáp hạt...)
+
+@Layoffs
+- (Econ) Sa thải tạm thời
+: Xem TEMPORARY LAYOFFS.
+ @lay-out  
+*  dt
+- cách bố trí, cách trình bày; sự sắp đặt
+- sơ đồ bố trí, sơ đồ trình bày,  maket (một cuốn sách, một tờ báo, tranh quảng cáo...)
+- (từ Mỹ,nghĩa Mỹ) bộ dụng c
+
+@layout
+- bố trí, xếp đặt, layout
+ @layout
+- bảng, sơ đồ, cấu hình phân phối, sự xắp xếp
+- digit l. (máy tính) sắp xếp chữ số
+- wiring l. (máy tính) sơ đồ lắp ráp 
+ @lay-over  
+*  dt
+- khăn phủ (lên khăn trải bàn)
+- (từ Mỹ,nghĩa Mỹ) thời gian ngừng lại, thời gian nghỉ (trong lúc đi đường, trong khi làm việc)
+
+@laystall  
+*  dt
+- đống rác ùn lại
+
+@lay-up  
+*  dt
+- tình trạng ốm phải nằm giường
+- sự trữ, sự để dành
+- (hàng hải) sự cho nghỉ hoạt động (một chiếc tàu)
+
+@lazar  
+*  dt ((từ hiếm,nghĩa hiếm) lazar  @lazaret   (lazaretto) @lazaretto   (lazaretto) @lazar-house  
+*  dt
+- trại hủi, trại phong
+
+@lazarus  
+*  dt ((từ hiếm,nghĩa hiếm) lazar  @laze  
+*  dt
+- lúc vô công rỗi nghề
+*  dgt
+- (thông tục) lười biếng; sống vô công rỗi nghề, ăn không ngồi rồi
+
+@lazily
+* dt
+- uể oải, lờ đờ
+ @laziness  
+*  dt
+- sự lười biếng, sự biếng nhác
+
+@lazurite
+* dt
+- (khoáng chất) lazurit
+ @lazy  
+*  tt
+- lười biếng, biếng nhác
+
+@lazy susan  
+*  dt
+- khay tròn có nhiều ô
+
+@lazy-bones  
+*  dt
+- anh chàng lười ngay xương, anh chàng đại lãn
+
+@lazybones
+* dt
+- anh chàng đại lãn
+ @lazy-tongs  
+*  dt
+- kìm xếp
+
+@

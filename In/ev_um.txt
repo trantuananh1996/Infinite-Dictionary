@@ -1,0 +1,194 @@
+@um
+- interj
+- hừm (chỉ ý nghi ngờ; do dự)
+ @umbel  
+*  dt
+- (thực vật học) tán (kiểu cụm hoa)
+
+@umbella
+* dt (số nhiều umbellae)
+- xem umbel
+ @umbellae
+* dt số nhiều của umbella
+- xem umbella
+ @umbellar   (umbellate) @umbellate   (umbellate) @umbellated
+- xem umbellate
+ @umbellately
+- xem umbellate
+ @umbellifer
+* dt
+- cây thuộc học cà rốt
+ @umbelliferous  
+*  tt
+- (thực vật học) có hoa hình tán
+
+@umbelliform  
+*  tt
+- (thực vật học) hình tán
+
+@umber  
+*  dt
+- màu nâu đen
+*  tt
+- nâu đen; sẫm màu, tối màu
+*  dgt
+- tô nâu đen
+
+@umbilical  
+*  tt
+- (giải phẫu) (thuộc) rốn
+
++ umbilical cord: dây rốn
+- (thông tục) bên mẹ, bên ngoại
+
++ umbilical relationship: quan hệ bên mẹ, quan hệ bên ngoại
+- (nghĩa bóng) ở giữa, trung tâm
+
++ umbilical point: điểm trung tâm
+
+@umbilical
+- (thuộc) điểm rốn, đường rốn
+- totally u. điểm rốn toàn phần 
+ @umbilical cord
+* dt
+- <phẫu> dây rốn (mô mềm hình ống, nối rau thai với rốn của bào thai và đưa chất dinh dưỡng vào bào thai trước khi sinh)
+ @umbilically
+- xem umbilical
+ @umbilicate  
+*  tt
+- có rốn
+- hình rốn
+
+@umbilication
+- xem umbilicate
+ @umbilici
+- dt số nhiều của umbilicus
+ @umbilics
+- điểm rốn
+ @umbilicus  
+*  dt
+- rốn
+- (toán học) điểm rốn
+
+@umbiliform  
+*  tt
+- có hình rốn
+
+@umbo  
+*  dt,  số nhiều umbos,  umbones
+- núm khiên
+- (sinh vật học) u, bướu
+
+@umbonal
+- xem umbo
+ @umbones  
+*  dt,  số nhiều umbos,  umbones
+- núm khiên
+- (sinh vật học) u, bướu
+
+@umbra  
+*  dt,  số nhiều umbrae
+- bóng
+
+@umbra
+- (thiên văn) sự che khuất toàn phần
+ @umbrae  
+*  dt,  số nhiều umbrae
+- bóng
+
+@umbrage  
+*  dt
+- (thơ ca) bóng cây, bóng râm
+- cảm tưởng bị coi khinh, cảm tưởng bị làm nhục; sự mếch lòng
+
++ to take umbrage: mếch lòng
+
+@umbrageous  
+*  tt
+- có bóng cây, có bóng râm
+- mếch lòng
+
+@umbrageously
+- xem umbrageous
+ @umbrageousness
+- xem umbrageous
+ @umbral
+- xem umbra
+ @umbrella  
+*  dt
+- ô, dù; lọng
+
++ to put up one's umbrella: gương dù lên
+- (nghĩa bóng) cai ô bảo vệ (về mặt chính trị); sự bảo vệ
+- màn yểm hộ (bằng máy bay chiến đấu)
+- lưới đạn che (để chống máy bay địch)
+- (động vật học) dù (của con sửa)
+
+@umbrella-aerial
+* dt
+- ăng ten hình dù (như) umbrella antenna
+ @umbrellaless
+- xem umbrella
+ @umbrella-shaped  
+*  tt
+- hình dù; hình lọng
+
+@umbrella-stand  
+*  dt
+- giá để dù; giá cắm lọng
+
+@umbrella-tree  
+*  dt
+- (thực vật học) cây mộc lan hoa ba cánh
+
+@umbrian
+* dt
+- người tỉnh Umbria (Italia)
+- tiếng Umbria (ngôn ngữ Italia)
+ @umbriferous  
+*  tt
+- có bóng mát
+
+@umbundu
+* dt
+- tiếng Umbundu (ngôn ngữ miền trung Angola)
+ @umcomeliness  
+*  dt
+- tính chất không đẹp, tính chất vô duyên
+- (từ hiếm,nghĩa hiếm) tính không nhã nhặn; tính không đoan trang
+
+@umiak  
+*  dt
+- thuyền da (của người Et-ki-mô)
+
+@umlaut  
+*  dt
+- (ngôn ngữ học) Umlau, hiện tượng biến âm sắc
+
+@umpirage   (umpiring) @umpire  
+*  dt
+- người trọng tài, người phân xử
+*  dgt
+- làm trọng tài, phân xử
+
+@umpireship  
+*  dt
+- chức trọng tài
+
+@umpiring   (umpiring) @umpteen  
+*  tt
+- (thông tục) khối, vô kể
+
++ to have umpteen reasons for: có khối lý do để
+
+@umpteenth  
+*  tt
+- thứ không biết bao nhiêu
+
++ for the umpteenth time: không biết lần thứ bao nhiêu
+
+@umpty
+- xem umpteen
+ @umyak
+- xem umiak
+ @

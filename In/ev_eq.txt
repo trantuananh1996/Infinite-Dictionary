@@ -1,0 +1,770 @@
+@equability  
+*  dt
+- tính không thay đổi, tính đều
+- tính điềm đạm, tính điềm tĩnh
+
+@equable  
+*  tt
+- không thay đổi, đều
+
++ equable temperature: độ nhiệt đều (không thay đổi)
+- điềm đạm, điềm tĩnh (người)
+
+@equableness
+- xem equable
+ @equably
+* dt
+- điềm đạm, trầm tựnh
+ @equal  
+*  tt
+- ngang, bằng
+- ngang sức (cuộc đấu...)
+- đủ sức, đủ khả năng; đáp ứng được
+
++ to be equal to one's responsibility: có đủ khả năng làm tròn nhiệm vụ của mình
+
++ to be equal to the occasion: có đủ khả năng đối phó với tình hình
+
++ to be equal to someone's expectation: đáp ứng được sự mong đợi của ai
+- bình đẳng
+*  dt
+- người ngang hàng, người ngang tài ngang sức
+- (số nhiều) vật ngang nhau, vật bằng nhau
+*  ngdgt
+- bằng, ngang, sánh kịp, bì kịp
+
+@equal
+- bằng nhau, như nhau
+- identically e. đồng nhất bằng 
+ @Equal advantage
+- (Econ) Lợi thế bình đẳng, Lợi thế ngang bằng.
+: Xem COMPARATIVE ADVANTAGE.
+ @Equal Employment Opportunity Act of Đạo luật về cơ hội việc làm  ngang bằng năm 1972.
+- (Econ) Một đạo luật mở rộng vi phạm của mục VII của Đạo luật Quyền dân sự của Mỹ năm 1964 sang các chính quyền tiểu bang và địa phương và cho phép Uỷ ban cơ hội việc làm ngang nhau lập hồ sơ kiện tụng cho bản thân họ.
+@Equal Employment Opportunity Commision
+- (Econ) Uỷ ban Cơ hội việc làm bình đẳng @Equal pay
+- (Econ) Trả lương ngang nhau; trả lương  bình đẳng.
+: Sự công bằng giữa các giới về điều khoản và điều kiện việc làm: một khái niệm về trả lương ngang nhau cho công việc có giá trị ngang nhau, mặc dù định nghĩa về trả lương và công việc ngang nhau không giống nhau giữa các nước.
+ @Equal sacrifice theories
+- (Econ) Lý thuyết hy sinh ngang nhau; lý thuyết hy sinh bình đẳng.
+: Sự hy sinh cùng ĐỘ THOẢ DỤNG của những người trả thuế.
+ @equalise   (equalise) @equalitarian  
+*  tt
+- (chính trị) theo chủ nghĩa bình đẳng
+*  dt
+- (chính trị) người theo chủ nghĩa bình đẳng
+
+@equalitarianism  
+*  dt
+- (chính trị) chủ nghĩa bình đẳng
+
+@equality  
+*  dt
+- tính bằng, tính ngang bằng
+- sự bình đẳng
+
+@equality
+- đẳng thức
+- e. of two complex numbers đẳng thức của hai số phức
+- conditional e. đẳng thức có điều kiện
+- continued e. dãy các đẳng thức
+- substantial e. đẳng thức thực chất 
+ @equalization  
+*  dt
+- sự làm bằng nhau, sự làm ngang nhau
+- (thể dục,thể thao) sự gỡ hoà
+
+@equalization
+- (Tech) làm bằng (đ); quân bằng; bù; hiệu chỉnh
+ @equalization
+- sự làm cân bằng, sự đánh cân bằng
+- phase e. sự cân bằng pha 
+ @Equalization grants
+- (Econ) Các khoản trợ cấp để cân bằng.
+: Các quỹ do một chính phủ cấp cho các chính quyền địa phương với mục đích giảm mức độ không cân bằng trong thu nhập hay doanh thu do chính quyền địa phương thu được.
+ @equalize   (equalise) @equalize
+- làm cân bằng
+ @equalized
+- đượclàm cân bằng
+ @equalized delay line
+- (Tech) dây trễ bù
+ @equalizer  
+*  dt
+- người làm cho bằng nhau, người làm cho ngang nhau
+- (kỹ thuật) đòn cân bằng; bộ cân bằng
+
+@equalizer
+- (Tech) bộ quân bằng
+ @equalizer coefficients
+- (Tech) hệ số quân bình
+ @equalizer Least Mean Square (LMS)
+- (Tech) quân bình bằng phương trung bình nhân tối thiểu
+ @Equalizing differences, the theory of
+- (Econ) Lhuyết cân bằng chênh lệch
+: Xem NET ADVANTAGES.
+ @equalizing pulse interval
+- (Tech) khoảng cách xung làm bằng
+ @equally  
+*  dt
+- bằng nhau, ngang nhau, như nhau; đều
+
+@equanimity  
+*  dt
+- tính bình thản, tính trần tĩnh
+- sự thư thái, sự thanh thản
+
+@equanimous
+* tt
+- bình thản; trấn tĩnh; thản nhiên
+ @equate  
+*  ngdgt
+- làm cân bằng, san bằng
+- coi ngang, đặt ngang hàng
+- (toán học) đặt thành phương trình
+
+@equation  
+*  dt
+- sự làm cân bằng
+- lượng bù sai
+- (toán học) phương trình
+
+@equation
+- (Tech) phương trình (thức); đẳng phân
+ @equation
+- phương trình
+- in line coordinates phương trình theo toạ độ đường
+- e. in point coordinates phương trình theo toạ độ điểm
+- e. in plane coordinates phương trình theo toạ độ mặt
+- e. of compatibility phương trình tương thích
+- e. of dondition phương trình điều kiện
+- e. of continuity phương trình liên tục
+- e. of a curve phương trình đường cong
+- e. of dynamics phương trình động lực
+- e. of equilibrium phương trìnhcân bằng
+- e. of higher degree phương trình bậc cao
+- e. of motion phương trình chuyển động
+- e. of variation phương trình biến phân
+- e. of varied flow phương trình biến lưu
+- e. of time phương trình thời gian
+- accessory differential e.s phương trình vi phân phụ 
+- adjoint difference e. phương trình sai phân liên hợp
+- alegbraic(al) e. phương trình đại số
+- approximate e. phương trình xấp xỉ
+- associated integral e. phương trình tích phân liên đới 
+- auxiliary e. phương trình bổ trợ 
+- auxiliary differential e. phương trình vi phân bổ trợ
+- backward e. phương trình lùi
+- binomial e. phương trình nhị thức
+- biquadraitic e. phương trình trùng phương 
+- canonical differential e. phương trình vi phân chính tắc
+- characteristic partial differential e. phương trình vi phân riêng đặc trưng
+- class e. phương trìnhlớp
+- comparison e. (giải tích) phương trình so sánh
+- conditional e. phương trình có điều kiện
+- confluent hypergeometric e. phương trình siêu bội hợp lưu
+- cubic e. phương trình xiclic
+- cyclic e. phương trình bậc ba
+- defective e. phương trình hụt nghiệm
+- delay differential e. phương trình vi phân trễ
+- depressed e. phương trình hụt nghiệm
+- derived e. phương trình dẫn suất
+- determinantal e. phương trình chứa định thức
+- differenci e. (giải tích) phương trình sai phân
+- differential e. phương trình vi phân
+- differential-difference e. phương trình vi-sai phân
+- diffusion e. phương trìnhkhuyếch tán
+- dominating e. phương trình trội
+- elliptic(al) e. (giải tích) phương trình eliptic
+- eikonal e. phương trình êcơnan
+- equivalent e.s các phương trình tương đương
+- estimating e. phương trình ước lượng
+- exact differential e. phương trình với vi phân toàn phần
+- exponential e. phương trình mũ
+- fictitious e.s các phương trình ảo
+- first order integro-differential e. phương trình vi - tích phân cấp một
+- forward e. phương trình tiến
+- functional e. phương trình hàm
+- general e. phương trình tổng quát
+- generalized hypergeometric differential e. phương trình vi phân siêu
+- bội suy rộng
+- heat conduction e., heat e. phương trình truyền nhiệt
+- homogeneous differential e. phương trình vi phân thuần nhất
+- homogeneous linear e.s phương trình tuyến tính thuần nhất
+- phương trình đạo hàm riêng loại hypebon
+- hypergeometric e. phương trình siêu bội
+- hypergeometric differential e. phương trình vi phân siêu bội
+- incompatible e.s, inconsistent e.s (đại số) các phương trình không tương thích
+- indeterminate e. phương trình vô định
+- indicial e.(giải tích) phương trình xác định
+- integral e. of the first kind phương trình tích phân loại một
+- integro-differential e. phương trình vi-tích phân
+- intrinsic e.s of a space curve phương trình nội tại của đường cong ghềnh
+- irrational e. phương trình vô 
+- irreduccible e. tỷ phương trình không khả quy
+- linear e. (đại số) phương trình tuyến tính
+- linear difference e. phương trình sai phân tuyến tính
+- linear differential e. phương trình vi phân tuyến tính
+- linear homogeneous e. phương trình thuần nhất tuyến tính
+- linear integral e. (of the 1 , 2 , 3 kind) phương trình vi phân tích
+- phân tuyến tính (loại 1, 2, 3)
+- linear partial differential e. phương trình vi phân riêng tuyến tính
+- literal e. phương trình có hệ số bằng chữ
+- logarithmic e. phương trình lôga
+- matix e. phương trình ma trận
+- menbrane e. phương trình màng
+- minimal e. phương trình cực tiểu
+- modular e. phương trình môđula
+- momentum e. phương trình mômen
+- multigrade e. phương trình nhiều bậc
+- natural e. of a curve phương trình tự nhiên của đường cong
+- non-homogeoeous differential e. phương trình vi phân không thuần nhất
+- non-homogeoeous linear differential e phương trình vi phân tuyến tính
+- không thuần nhất
+- non-integrable e. phương trình không khả tích
+- non linear differential e. phương trình vi phân phi tuyến tính
+- normal e.s phương trình chuẩn tắc
+- normalized e. phương trình chuẩn hoá
+- numerical e. phương trình bằng số
+- ordinary differential e. phương trình vi phân thường
+- original e. phương trình xuất phát
+- parametric e.s phương trình tham số 
+- partial difference e. phương trình sai phân riêng
+- partial differential e. phương trình [vi phân riêng, đạo hàm riêng]
+- polar e. phương trình cực
+- polynomial e. phương trình đại số
+- quadratic e. phương trình bậc hai 
+- quartic e. phương trình bậc bốn
+- quasi linearr differential e. phương trình vi phân tựa tuyến tính
+- quintic e. phương trình bậc năm
+- reciprocal e. phương trình thuận nghịch
+- reciprocal differential e. phương trình vi phân thuận nghịch
+- reduced (characteristic) e. phương trình (đặc trưng ) rút gọn
+- reduced wave e. (vật lí) phương trình sóng rút gọn
+- reducible e. phương trình khả quy
+- redundant e. phương trình thừa nghiệm
+- resolvent e. phương trình giải thức
+- retrospective e. phương trình cho phân phối quá khứ
+- second order differential e. phương trìnhvi phân cấp hai
+- second order integro differential phương trình vi - tích phân cấp hai
+- second order linear differential e. phương trình vi tuyến tính cấp hai 
+- secular e. (đại số) phương trình [đặc trưng, thế kỷ]
+- phương trình vi phân tuyến tính tự liên hợp
+- simple e. phương trình tuyến tính
+- simultaneous e.s hệ phương trình, các phương trình xét đồng thời
+- standard e. (hình học) phương trình tiêu chuẩn
+- strain-optical e. phương trình biến dạng quang
+- symbolic e. phương trình ký hiệu
+- tangential e. phương trình tuyến
+- tangential e. of a net phương trình tuyến tính một lưới
+- telegraph e. (giải tích) phương trình điện báo
+- three moment e. phương trình ba mômen 
+- total e. phương trình vi phân toàn phần
+- total difference e. phương trình sai phân toàn phần
+- total differential e. phương trình vi phân toàn phần
+- phương trình vi phân loại hoàn toàn hipebon
+- transcendental e. phương trình siêu việt
+- trigonometric e. phương trình lượng giác
+- trinomial e. phương trình tam thức
+- unicursal e. phương trình đơn hoạch
+- universal resistance e. phương trình cản phổ dụng
+- universal velocity e. phương trình vận tốc phổ dụng
+- variation e. phương trình biến phân
+- wave e. phương trình sóng
+- wave differential e. phương trình vi phân sóng 
+ @Equation of exchange
+- (Econ) Phương trình trao đổi.
+: Xem QUANTITY THEORY OF MONEY.
+ @equation processor
+- (Tech) bộ xử lý phương trình
+ @equational  
+*  tt
+- làm cân bằng
+- bù sai
+- (toán học) (thuộc) phương trình
+
+@equationally
+- xem equation
+ @equationally
+- tương đương
+ @equator  
+*  dt
+- xích đạo
+- (như) equinoctial
+
+@equator
+- xích đạo
+- e. of an ellipsoid of revolution xích đạo của một elipxoit tròn xoay
+- celestial e. xích đạo trời
+- geographic e. xích đạo địa lý 
+ @equatorial  
+*  tt
+- (thuộc) xích đạo; gần xích đạo
+*  dt
+- (vật lý) kính xích đạo
+
+@equatorially
+- xem equatorial
+ @equerry  
+*  dt
+- viên coi ngựa, viên giám mã (trong cung vua hay nhà quyền quý)
+- quan hầu (trong cung vua Anh)
+
+@equestrian  
+*  tt
+- (thuộc) sự cưỡi ngựa
+
++ an equestrian statue: tượng người cưỡi ngựa
+*  dt
+- người cưỡi ngựa
+- người làm xiếc trên ngựa
+
+@equestrianism
+- xem equestrian
+ @equestrianship
+- xem equestrian
+ @equestrienne  
+*  dt
+- người đàn bà cưỡi ngựa
+- người đàn bà làm xiếc trên ngựa
+
+@equi continuous
+- liên tục đồng bậc
+ @equiaffine
+- đẳng afin
+ @equiangular  
+*  tt
+- (toán học) đều góc, đẳng giác
+
+@equiangular
+- đẳng giác, có góc bằng nhau; bảo giác
+ @equiangular antenna
+- (Tech) ăngten đẳng góc
+ @equiareal
+- có cùng diện tích; đẳng diện; bảo toàn diện tích
+ @equiaxial
+* tt
+- đẳng trục
+ @equibalance
+* ngdgt
+- cân bằng
+* dt
+- sự cân bằng
+ @equibiradiate
+* tt
+- (sinh học) hai tia đều
+ @equicenter
+- có cùng tâm, đẳng tâm
+ @equicharacteristic
+- (đại số) có đặc trưng như nhau
+ @equiconvergent
+- hội tụ đồng đẳng
+ @equidae  
+*  dt số nhiều
+- (động vật học) họ ngựa
+
+@equidistance
+- xem equidistant
+ @equidistant  
+*  tt
+- (toán học) cách đều
+
+@equidistant
+- cách đều
+ @equidistantly
+- xem equidistant
+ @equiffinity
+- phép biến đổi đẳng afin
+ @equifrequent
+* tt
+- đẳng tần
+ @equifrequent
+- đẳng tầm
+ @equifrom
+- đẳng dạng
+ @equigranular
+* tt
+- đều hạt
+ @equilateral  
+*  tt
+- (toán học) đều (cạnh)
+
++ an equilateral triangle: tam giác đều
+*  dt (toán học)
+- hình đều cạnh
+- cạnh đều (với cạnh khác)
+
+@equilateral
+- đều (có cạnh bằng nhau)
+ @equilaterally
+- xem equilateral
+ @equilibrant
+* dt
+- lực làm cân bằng
+ @equilibrate  
+*  ngdgt
+- làm cân bằng
+- cân bằng
+*  ndgt
+- cân bằng
+- làm đối trọng cho nhau
+
+@equilibrate
+- làm cân bằng
+ @equilibration  
+*  dt
+- sự làm cân bằng
+- sự cân bằng
+- sự làm đối trọng cho nhau
+
+@equilibration
+- sự cân bằng
+ @equilibratory  
+*  tt
+- để làm đối trọng
+
+@equilibrist  
+*  dt
+- người làm xiếc trên dây
+
+@equilibristic
+- xem equilibrist
+ @equilibrium  
+*  dt
+- sự thăng bằng
+- tính vô tư (trong nhận xét...)
+
+@equilibrium
+- (Tech) cân bằng
+ @Equilibrium
+- (Econ) Cân bằng
+: Một cụm thuật ngữ mượn từ môn vật lý để miêu tả tình huống, trong đó các tác nhân kinh tế hay tổng tác nhân kinh tế như thị trường, không có động lực gì để thay đổi hành vi kinh tế của mình.
+ @equilibrium
+- sự cân bằng
+- e. of forces sự cân bằng lực
+- e. of a particle [of a body] sự cân bằng của một vật thể
+- configuration e. cấu hình thăng bằng
+- dynamic e. cân bằng động lực
+- elastic e. cân bằng đàn hồi
+- indifferent e. cân bằng không phân biệt
+- labile e. (vật lí) cân bằng không ổn định
+- mobile e. (điều khiển học) cân bằng di động
+- neutral e. (cơ học) cân bằng không phân biệt
+- phase e. (vật lí) cân bằng pha
+- plastic e. cân bằng dẻo
+- relative e. cân bằng tương đối
+- semi-stable e. cân bằng nửa ổn định
+- stable e. cân bằng ổn định
+- trasient e. (điều khiển học) cân bằng động
+- unstable e. (vật lí) cân bằng không ổn định 
+ @Equilibrium aggregate output
+- (Econ) Tổng sản lượng cân bằng.
+ @Equilibrium error
+- (Econ) Sai số cân bằng
+: Khi một nhóm các biến số được liên kết với nhau trong một mô hình HỒI QUY là đồng liên kết (xem COINTEGRATION)  thì thành phần nhiễu được gọi là sai số cân bằng.
+ @Equilibrium level of national income
+- (Econ) Mức cân bằng của thu nhập quốc gia
+: Mức cân bằng của THU NHẬP QUỐC GIA không biểu hiện các xu hướng thay đổi.
+ @equilibrium potential
+- (Tech) thế cân bằng
+ @Equilibrium price
+- (Econ) Giá cân bằng
+: Giá tại đó THỊ TRƯỜNG ở trạng thái CÂN BẰNG.
+ @Equilibrium rate of inflation
+- (Econ) Tỷ lệ lạm phát cân bằng.
+: Tỷ lệ LẠM PHÁT được hoàn toàn dự báo trước. TỶ lệ lạm phát giá cả mà tại đó các kỳ vọng có thể trở thành hiện thực.
+ @Equilizing wage diffirentials
+- (Econ) Cân bằng các mức chênh lệch tiền công.
+ @equimolecular  
+*  tt
+- đẳng phân tử
+
+@equimuliple
+- cùng nhân tử, đồng nhân tử, các số đồng nhân tử
+ @equimultiple  
+*  dt,  (thường) số nhiều
+- (toán học) số đẳng bội
+
+@equinaharmonic
+- đẳng phi điều
+ @equine  
+*  tt
+- (thuộc) ngựa; như ngựa; có tính chất ngựa
+
+@equinoctial  
+*  tt
+- (thuộc) điểm phân
+*  dt: (equator) 
+@equinoctial
+- (thuộc) phân điểm
+ @equinox  
+*  dt
+- điểm phân
+
++ vernal equinox: xuân phân
+
++ autumnal equinox: thu phân
+- (số nhiều) điểm xuân phân; điểm thu phân
+
+@equinox
+- (thiên văn) phân điểm
+- autummal e. thu phân 
+- vernal e. xuân phân 
+ @equip  
+*  ngdgt
+- trang bị (cho ai... cái gì)
+
++ to equip an army with modren weapons: trang bị vũ khí hiện đại cho một quân đội
+
+@equipage  
+*  dt
+- đồ dùng cần thiết (cho một cuộc đi...)
+- cỗ xe (gồm cả xe, ngựa và người phục vụ)
+- (từ cổ,nghĩa cổ) đoàn tuỳ tùng (đi theo quan to...)
+
+@equipartition
+* dt
+- sự phân bố đều
+ @equipartition
+- phân hoạch đều
+ @equiphase
+- (Tech) đẳng vị tướng
+ @equipment  
+*  dt
+- sự trang bị
+- đồ trang bị, thiết bị, dụng cụ, đồ dùng cần thiết (cho một cuộc đi, cho một nhà máy...)
+
++ electrical equipment: thiết bị điện
+
++ control equipment: thiết bị điều khiển
+- (từ Mỹ,nghĩa Mỹ) những phương tiện vận tải để phân biệt với các loại tài sản khác trong ngành vận tải)
+
+@equipment
+- trang bị, dụng cụ, thiết bị, máy móc
+- audio e. thiết bị âm thanh
+- automatic control e. máy móc điều khiển tự động
+- dislay e. máy báo hiệu
+- electric e. trang bị điện
+- industrial e. trang bị công nghiệp
+- input e. thiết bị vào
+- interconnecting e. thiết bị nối
+- metering e. dụng cụ đo lường
+- peripheral e. thiết bị ngoài
+- production run e. trang bị sản xuất hàng loạt
+- punched card e. (máy tính) thiết bị để đục lỗ bìa 
+ @equipoise  
+*  dt
+- (thường) (nghĩa bóng)
+- sự thăng bằng, sự cân bằng
+- trọng lượng cân bằng, đối trọng
+*  ngdgt
+- làm cân bằng
+- làm đối trọng cho
+- làm hồi hộp; làm thấp thỏm
+
+@equipoise
+- sự cân bằng, vật cân bằng
+ @equipolarization
+- sự cùng phân cực, sự đẳng phân cực
+ @equipollence   (equipollency) @equipollency   (equipollency) @equipollent  
+*  tt
+- bằng sức, ngang sức; tương đương (về giá trị...)
+*  dt
+- vật bằng sức, vật ngang sức; vật tương đương (về giá trị...)
+
+@equipollent
+- bằng nhau (vectơ)
+ @equipollently
+- xem equipollent
+ @equiponderance   (equiponderance) @equiponderancy   (equiponderance) @equiponderant  
+*  tt
+- ((thường) : to,  with) làm đối trọng, cân bằng với
+*  dt
+- đối trọng
+
+@equiponderate  
+*  ngdgt
+- làm đối trọng cho, làm cân bằng với
+
+@equipontential  
+*  tt
+- (vật lý) đẳng thế
+
+@equipotent
+* tt
+- đẳng năng; đẳng thế
+- toàn năng
+- cân bằng thế năng
+- (sinh học) có khả năng thực hiện chức năng của bộ phận khác (cơ quan, tế bào)
+ @equipotent
+- cùng lực lượng
+ @equipotential
+* tt
+- <lý> đẳng thế
+ @equipotential
+- đẳng thế
+ @equipotential cathode
+- (Tech) âm cực đẳng thế
+ @equipotential surface
+- (Tech) bề mặt đẳng thế
+ @equiprobable
+* tt
+- có xác suất ngang nhau
+ @equiprojective
+- đẳng xạ ảnh
+ @equiresidual
+- cùng thặng dư, đồng thặng dư
+ @equisetacious
+* tt
+- (thuộc) cây tháp bút
+ @equisetic
+* tt
+- thuộc cây tháp bút
+ @equisetum  
+*  dt
+- (thực vật học) giống cây mộc tặc
+
+@equisignal radio range beacon
+- (Tech) pha vô tuyến cự li có tín hiệu quân bình
+ @equisummable
+- đẳng khả tổng
+ @equitable  
+*  tt
+- công bằng, vô tư
+- hợp tình hợp lý (yêu sách...)
+
+@equitableness  
+*  dt
+- tính công bằng, tính vô tư
+- tính hợp tình hợp lý
+
+@equitably
+* dt
+- công bằng, không thiên vị
+ @equitant  
+*  tt
+- (thực vật học) cưỡi (kiểu sắp xếp của lá)
+
+@equitation  
+*  dt
+- (thường)(đùa cợt) thuật cưỡi ngựa; tài cưỡi ngựa
+
+@equites
+* dt
+- (lịch sử) đoàn kỵ sĩ (từ cổ La-mã)
+ @Equities
+- (Econ) Cổ phần
+: Còn được gọi là cổ phiếu thường, là những cổ phiếu ở dạng vốn phát hành của một công ty.
+ @equitization
+* dt
+- sự cổ phần hoá
+* dt
+- sự cổ phần hoá
+ @equitize
+* dgt
+- cổ phần hoá
+ @equity  
+*  dt
+- tính công bằng, tính vô tư
+- tính hợp tình hợp lý
+- (từ Mỹ,nghĩa Mỹ) yêu sách hợp tình hợp lý; quyền lợi hợp tình hợp lý
+- (từ Mỹ,nghĩa Mỹ) luật công lý (hệ thống luật pháp tồn tại song song và bổ sung cho luật thành văn)
+- (Equity) công đoàn diễn viên
+- (số nhiều) có phần không có lãi cố định
+- giá trị tài sản bị cấm cố (sau khi trừ thuế má)
+
+@Equity
+- (Econ) Công bằng
+: Công lý hay lẽ phải.
+ @Equity
+- (Econ) Vốn cổ phần.
+ @Equity capital
+- (Econ) Vốn cổ phần
+: Xem EQUYTIES.
+ @Equivalance scale
+- (Econ) Thang  tỷ lệ@equivalence   (equivalency) @equivalence, (cy)
+- sự tương đương
+- e. of propositions tương đương của các mệnh đề
+- algebrai e. tương đương đại số 
+- analytic e. sự tương đương giải tích
+- cardinal e. tương đương bản số
+- natural e (đại số) tương đương tự nhiên
+- topological e. tương đương tôpô 
+ @equivalence element
+- (Tech) phần tử tương đương
+ @equivalency   (equivalency) @equivalent  
+*  tt
+- tương đương
+*  dt
+- vật tương đương, từ tương đương
+- (kỹ thuật) đương lượng
+
+@equivalent
+- tương đương
+- almost e. gần tương đương, hầu tương đương
+- conformally e. tương đương bảo giác 
+ @equivalent circuit
+- (Tech) mạch tương đương
+ @Equivalent commodity scale
+- (Econ) Thang  tỷ lệ@equivalent diode
+- (Tech) đèn hai cực tương đương
+ @Equivalent income scale
+- (Econ) Thang  tỷ lệ@equivalent inductance
+- (Tech) điện cảm tương đương
+ @equivalent load
+- (Tech) gánh tương đương
+ @equivalent network
+- (Tech) mạng tương đương
+ @equivalent noise level
+- (Tech) mức nhiễu âm tương đương
+ @equivalent parallel resistance
+- (Tech) điện trở song song tương đương
+ @equivalent resistance
+- (Tech) điện trở tương đương
+ @equivalent series resistance
+- (Tech) điện trở nối tiếp tương đương
+ @equivalent sine wave
+- (Tech) sóng hình sin tương đương
+ @Equivalent variation
+- (Econ) Mức biến động tương đương
+: Xem CONSUMER'S SURPLUS.
+ @equivalent voltage
+- (Tech) điện áp tương đương
+ @equivalently
+- xem equivalent
+ @equivalve
+* dt
+- (sinh học) hai mảnh vỏ đều
+ @equivariant
+- đẳng biến
+ @equivocal  
+*  tt
+- lập lờ, nước đôi, hai nghĩa
+
++ an equivocal reply: câu trả lời lập lờ, nước đôi
+- đáng nghi ngờ, khả nghi
+
++ an equivocal conduct: cách cư xử khả nghi
+- không rõ rệt, không chắc chắn, không quyết định
+
++ an equivocal outcome: kết quả không rõ rệt
+
+@equivocality   (equivocalness) @equivocally
+- xem equivocal
+ @equivocalness   (equivocalness) @equivocate  
+*  ndgt
+- nói lập lờ, nói nước đôi
+
+@equivocate
+- làm mập mờ, biểu thị nước đôi
+ @equivocation  
+*  dt
+- sự nói lập lờ, sự nói nước đôi
+- lời nói lập lờ, lời nói nước đôi, lời nói hai nghĩa
+
+@equivocation
+- sự mập mờ, sự biểu thị nước đôi
+ @equivocator  
+*  dt
+- người nói lập lờ, người nói nước đôi
+
+@equivoke   (equivoque) @equivoque   (equivoque) @

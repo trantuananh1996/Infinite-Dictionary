@@ -1,0 +1,484 @@
+@ic
+* (viết tắt)
+- mạch tổ hợp (International  Circuit)
+- viết tắt
+- mạch tổ hợp (International  Circuit)
+ @icao
+* (viết tắt)
+- Tổ chức hàng không dân dụng quốc tế (International  Civil  Aviation  Organization)
+- viết tắt
+- Tổ chức hàng không dân dụng quốc tế (International  Civil  Aviation  Organization)
+ @icbm
+* (viết tắt)
+- tên lửa đạn đạo liên lục địa (Inter-continental ballistic missile)
+ @ice  
+*  dt
+- băng nước đá
+- kem
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kim cương
+- (từ Mỹ,nghĩa Mỹ) thái độ trịnh trọng lạnh lùng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tiền đấm mõm cho cảnh sát (của bọn buôn lậu); tiền đút lót cho chủ rạp hát (để được phân phối nhiều vé hơn)
+!to break the ice
+- làm tan băng; (nghĩa bóng) bắt đầu làm quen với nhau; phá bỏ cái không khí ngượng ngập dè dặt ban đầu
+!to cut no ice
+- (xem) cut
+!on ice
+- có khả năng thành công
+- xếp lại, tạm gác lại, tạm ngừng hoạt động
+- vào tù, ở tù
+!on thin ice
+- (nghĩa bóng) trong hoàn cảnh nguy hiểm
+*  ngdgt
+- làm đóng băng, làm đông lại
+- phủ băng
+- ướp nước đá, ướp lạnh (rượu...)
+- phủ một lượt đường cô (mặt bánh)
+- (Ca-na-da) cho (một đội bóng gậy cong trên băng) ra đấu
+*  ndgt ((thường) : up)
+- đóng băng
+- bị phủ băng
+
+@ice
+- nước đá   đóng thành băng
+@ice cube  
+*  dt
+- cục đá ở tủ ướp lạnh
+
+@ice dancing
+* dt
+- nghệ thuật múa trên băng
+ @ice lolly
+* dt
+- kem que, kem cây
+ @ice water  
+*  dt
+- nước đá tan ra
+- nước pha nước đá, nước ướp lạnh
+
+@ice-age  
+*  dt
+- thời kỳ băng hà
+
+@ice-axe  
+*  dt
+- rìu phá băng (của người leo núi)
+
+@ice-bag  
+*  dt
+- (y học) túi chườm nước đá
+
+@iceberg  
+*  dt
+- núi băng trôi
+
+@iceblink  
+*  dt
+- ánh băng (phản chiếu ở chân trời)
+
+@ice-blue
+* tt
+- xanh nhợt nhạt
+ @ice-boat  
+*  dt
+- thuyền chạy trên băng
+- tàu phá băng
+
+@ice-bound  
+*  tt
+- bị kẹt băng (tàu)
+- bị đóng băng (con sông, bờ biển...)
+
+@ice-box  
+*  dt,  (từ Mỹ,nghĩa Mỹ)
+- tủ ướp lạnh
+- (từ lóng) xà lim
+
+@ice-breaker  
+*  dt
+- tàu phá băng
+
++ atomic ice-breaker: tàu phá băng nguyên tử
+- dụng cụ đập vụn nước đá
+
+@ice-cap  
+*  dt
+- chỏm băng (trên đỉnh núi)
+
+@ice-cold  
+*  tt
+- băng giá
+
+@ice-cream  
+*  dt
+- kem
+
+@ice-cream cone  
+*  dt
+- bao đựng kem (hình chóp thường bằng bột nướng giòn)
+
+@iced  
+*  tt
+- đóng băng
+- phủ băng
+- ướp nước đá, ướp lạnh, có nước đá
+
++ iced coffee: cà phê ướp lạnh cà phê đá
+- phủ một lượt đường cô (bánh...)
+
+@ice-drift  
+*  dt
+- dòng băng trôi
+
+@ice-fall  
+*  dt
+- thác băng
+
+@ice-field  
+*  dt
+- đồng băng, băng nguyên
+
+@ice-fishing  
+*  dt
+- sự câu cá dưới băng (bằng cách đục lỗ ở băng)
+
+@ice-floe  
+*  dt
+- tảng băng nổi
+
+@ice-free  
+*  tt
+- không có băng, không bị đóng băng; không bao giờ bị đóng băng
+
++ an ice-free harbour: một hải cảng không bao giờ bị đóng băng
+
+@ice-hockey  
+*  dt
+- (thể dục,thể thao) môn bóng gậy trên băng
+
+@ice-house  
+*  dt
+- hầm chứa nước đá, hầm lạnh
+- (từ Mỹ,nghĩa Mỹ) nhà máy nước đá
+
+@icelander  
+*  dt
+- người băng đảo
+
+@icelandic  
+*  tt
+- (thuộc) băng đảo
+*  dt
+- tiếng băng đảo
+
+@iceless
+- xem ice
+ @iceman  
+*  dt
+- người giỏi đi băng, người tài leo núi băng
+- (từ Mỹ,nghĩa Mỹ) người làm nước đá; người bán nước đá
+- người làm kem
+
+@ice-pack  
+*  dt
+- đám băng
+- túi đựng nước đá (để chườm chỗ đau...)
+
+@ice-pick  
+*  dt
+- rìu phá băng
+- dụng cụ đập vụn nước đá
+
+@ice-plant  
+*  dt
+- (thực vật học) cây giọt băng (có lá phủ đầy nốt nhỏ long lanh như giọt băng)
+
+@ice-pudding  
+*  dt
+- bánh puddinh ướp lạnh
+
+@ice-rain  
+*  dt
+- mưa tuyết, mưa băng
+
+@ice-rink
+* dt
+- sân trượt băng
+ @ice-run  
+*  dt
+- (thể dục,thể thao) đường băng nhân tạo (cho xe trượt tuyết)
+
+@ice-sheet  
+*  dt
+- dải băng
+
+@ice-show
+* dt
+- cuộc biểu diễn nghệ thuật trượt băng
+ @ice-skate  
+*  dgt
+- trượt băng, đi patanh trên băng
+
+@ice-skating
+* dt
+- thuật đi patanh trên băng
+ @ice-tray
+* dt
+- khay làm đá
+ @ice-wool  
+*  dt
+- len bóng
+
+@ice-yacht  
+*  dt
+- (thể dục,thể thao) Yat trượt băng
+
+@ICFC
+- (Econ) Công ty Tài chính Công nghiệp và Thương mại.
+: Xem INVESTOR OF INDUSTRIES.
+ @ichneumon  
+*  dt (động vật học)
+- cầy nâu
+- ong cự ((cũng) ichneumon fly)
+
+@ichneumon fly  
+*  dt (động vật học)
+- ong cự ((cũng) ichneumon)
+
+@ichnography  
+*  dt
+- phép vẽ sơ đồ (nhà cửa...) trên mặt bằng
+- sơ đồ tầng nhà
+
+@ichnolite  
+*  dt
+- dấu chân hoá thạch
+
+@ichnology  
+*  dt
+- khoa nghiên cứu dấu chân hoá thạch
+
+@ichor  
+*  dt
+- (thần thoại,thần học) máu thần thánh (thần thoại Hy-lạp)
+- (y học) nước vàng (ở vết thương...)
+
+@ichorous  
+*  tt,  (y học)
+- (thuộc) nước vàng
+- có nước vàng, chảy nước vàng
+
+@ichthyographer  
+*  dt
+- người viết về cá
+
+@ichthyography  
+*  dt
+- bản tài liệu nghiên cứu về cá
+- sự mô tả cá
+
+@ichthyoid  
+*  tt
+- như cá
+*  dt
+- động vật loại cá
+
+@ichthyolatry  
+*  dt
+- sự thờ thần cá
+
+@ichthyolite  
+*  dt
+- cá hoá thạch
+
+@ichthyologic   (ichthyological) @ichthyological   (ichthyological) @ichthyologist  
+*  dt
+- nhà nghiên cứu cá, nhà ngư học
+
+@ichthyology  
+*  dt
+- khoa (nghiên cứu) cá, ngư học
+- (số nhiều) bản tài liệu nghiên cứu về cá
+
+@ichthyophagist  
+*  dt
+- (động vật học) loài ăn cá
+
+@ichthyophagous  
+*  tt
+- ăn cá
+
+@ichthyophagy  
+*  dt
+- tập quán ăn cá
+
+@ichthyornis
+* dt
+- loại chim biển có răng (nay đã tuyệt chủng)
+ @ichthyosaur   (ichthyosaurus) @ichthyosaurian
+* dt
+- thằn lằn cá; ngư long (đã tuyệt chủng)
+* tt
+- thuộc thằn lằn cá; thuộc ngư long
+ @ichthyosaurus   (ichthyosaurus) @ichthyosis  
+*  dt
+- (y học) bệnh vẩy cá
+
+@ichthyotic  
+*  tt,  (y học)
+- (thuộc) bệnh vảy cá
+- mắc bệnh vảy cá
+
+@ichthys
+* dt
+- hình cá tượng trưng chúa Giê xu
+ @ici
+* (viết tắt)
+- Công ty kỹ nghệ hoá chất hoàng gia (Imperial Chemical Industries)
+ @icicle  
+*  dt
+- cột băng, trụ băng
+
+@icily  
+*  dt
+- băng giá, lạnh lẽo
+- (nghĩa bóng) lạnh lùng, lânh đạm
+
+@iciness  
+*  dt
+- sự băng giá, sự lạnh lẽo
+- (nghĩa bóng) sự lạnh lùng, sự lânh đạm
+
+@icing  
+*  dt
+- sự đóng băng
+- sự ướp nước đá, sự ướp lạnh
+- kem lòng trắng trứng; đường cô (để phủ trên mặt bánh ngọt)
+- (hàng không) sự đóng băng trên máy bay; lớp băng phủ trên máy bay
+
+@icing sugar
+* dt
+- đường dùng làm kem trứng
+ @ickiness
+- xem icky
+ @ickle  
+*  tt
+- nuây (ậm) khụp tí ti, nho nhỏ
+
+@icky  
+*  tt,  (từ lóng)
+- uỷ mị không chịu được
+- không thạo đời, hủ lậu
+- nhầy nhụa
+
+@iclinology
+* dt
+- khoa nghiên cứu dấu chân hoá thạch
+ @icon   (ikon) @iconic  
+*  tt
+- (thuộc) tượng, (thuộc) hình tượng; có tính chất tượng, có tính chất hình tượng
+- theo một quy ước mẫu mực (tượng nặn)
+
+@iconic
+- hình, tượng, chân dung; sự lặp lại đúng
+ @iconoclasm  
+*  dt
+- sự bài trừ thánh tượng; sự đập phá thánh tượng
+- (nghĩa bóng) sự đả phá những tín ngưỡng lâu đời (cho là sai lầm hoặc mê tín dị đoan)
+
+@iconoclast  
+*  dt
+- người bài trừ thánh tượng; người đập phá thánh tượng
+- (nghĩa bóng) người đả phá những tín ngưỡng lâu đời (cho là sai lầm hoặc mê tín dị đoan)
+
+@iconoclastic  
+*  tt
+- (thuộc) sự bài trừ thánh tượng
+- (nghĩa bóng) (thuộc) sự đả phá những tín ngưỡng lâu đời (coi là sai lầm hoặc mê tín dị đoan)
+
+@iconoclastically
+- xem iconoclast
+ @iconodule   (iconodulist) @iconodulist   (iconodulist) @iconoduly  
+*  dt
+- sự thờ thánh tượng, sự thờ thần tượng
+
+@iconographer
+- xem iconography
+ @iconographic   (iconographical) @iconographical   (iconographical) @iconography  
+*  dt
+- sự mô tả bằng tranh, sự mô tả bằng hình tượng
+
+@iconolater  
+*  dt
+- người thờ thánh tượng, người thờ thần tượng
+
+@iconolatric
+- xem iconolatry
+ @iconolatry  
+*  dt
+- sự thờ thánh tượng, sự thờ thần tượng
+
+@iconological  
+*  tt
+- (thuộc) khoa nghiên cứu tượng, (thuộc) khoa nghiên cứu hình tượng
+- (thuộc) tượng, (thuộc) hình tượng
+
+@iconologist  
+*  dt
+- người nghiên cứu tượng, người nghiên cứu hình tượng
+- người nghiên cứu thánh tượng
+
+@iconology  
+*  dt
+- khoa nghiên cứu tượng, khoa nghiên cứu hình tượng
+- khoa nghiên cứu thánh tượng
+- tượng hình (nói chung)
+- thánh tượng, thần tượng (nói chung)
+- sự tượng trưng, hình ảnh tượng trưng
+
+@iconomachy  
+*  dt
+- sự bài trừ thờ thánh tượng
+
+@iconometer  
+*  dt,  (vật lý)
+- cái định cỡ
+- cái định tầm xa
+
+@iconoscope   (ike) @ICOR
+- (Econ) Tỷ lệ biên tế giữa vốn và sản lượng.
+ @icosahedral  
+*  tt
+- (toán học) hai mươi mặt
+
+@icosahedral
+- (thuộc) khối hai mươi mặt
+ @icosahedron  
+*  dt
+- (toán học) khối hai mươi mặt
+
+@icosahedron
+- khối hai mươi mặt
+- regular i. khối hai mươi mặt đều 
+ @icteric  
+*  dt
+- (y học) thuốc chữa vàng da
+*  tt: (icterical) @icterical  
+*  dt
+- (y học) thuốc chữa vàng da
+*  tt: (icterical) @icterus  
+*  dt
+- (y học) chứng vàng da
+
+@ictus  
+*  dt
+- âm nhấn (theo nhịp điệu hoặc theo âm luật) (trong câu thơ)
+- (y học) cơn vật
+
+@icy  
+*  tt
+- đóng băng
+- phủ băng, có băng
+- băng giá, lạnh lẽo
+- (nghĩa bóng) lạnh lùng, lânh đạm (thái độ...)
+
+@

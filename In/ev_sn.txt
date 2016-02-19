@@ -1,0 +1,1416 @@
+@snack  
+*  dt
+- bữa ăn vội vàng, bữa ăn qua loa; bữa quà; chút thức ăn, chút rượu
+- phần, phần chia
+
++ to go snacks with someone in something: chia chung cái gì với ai
+
++ snacks!: ta chia nào!
+
+@snack-bar   (snack-counter) @snack-counter   (snack-counter) @snackette
+* dt
+- xem snack-bar
+ @snaf
+- Những băng rẻo giấy thải gây rác rưởi cho văn phòng do cắt ra từ hai mép của cuộn giấy máy tính
+ @snaffle  
+*  dt
+- cương ngựa không có dây cằm
+!to ride someone on the snaffle
+- gượng nhẹ người nào
+*  ngdgt
+- (từ lóng) nẫng, thủ, xoáy
+
+@snafu  
+*  tt
+- (quân sự),  (từ lóng) hỗn loạn, loạn xạ
+*  dt
+- (quân sự),  (từ lóng) sự hỗn loạn; sự hoang mang tột độ
+
+@snag  
+*  dt
+- chân răng gãy
+- gốc cây gãy ngang
+- đầu mấu cành cây gãy; đầu mấu thò ra (như của cành cây gãy...)
+- cừ (cọc gỗ, cọc đá cắm ở lòng sông, ở biển để ngăn tàu bè)
+- vết toạc, vết thủng (do móc phải đầu mấu cành cây gãy...)
+- (nghĩa bóng) sự khó khăn đột xuất, sự trở ngại bất ngờ
+*  ngdgt
+- va (tàu) vào cừ, đụng (tàu) vào cừ
+- nhổ hết cừ (ở một triền sông)
+- đánh gốc (cây)
+- phát hết các mấu cành gãy (trên thân cây)
+
+@snag-boat
+* dt
+- (từ Mỹ, nghĩa Mỹ) tàu để nhổ cây, cừ (trên sông)
+ @snagged   (snaggy) @snagged-tooth  
+*  dt
+- răng khểnh
+- răng gãy, răng sứt
+
+@snagging
+* dt
+- sự bạt mấu; đẽo mấu
+ @snaggle-tooth
+* dt
+- răng mọc chìa, răng khểnh
+- răng sứt
+ @snaggle-toothed  
+*  tt
+- có răng khểnh
+- có răng gãy, có răng sứt
+
+@snaggy   (snaggy) @snail  
+*  dt
+- con ốc sên, con sên
+
++ to go at the snail's pace (gallop): đi chậm như sên
+- người chậm như sên
+*  dgt
+- bắt ốc sên, khử ốc sên (ở vườn)
+
+@snail-cased
+* tt
+- chậm như sên
+ @snaillery
+* dt
+- nơi nuôi ốc sên
+ @snaillike  
+*  tt
+- giống như sên, chậm như sên
+
+@snail-pace
+* dt
+- bước đi chậm chạp
+ @snail-paced  
+*  tt
+- đi chậm như sên
+
+@snail-slow  
+*  tt
+- chậm như sên
+
+@snake  
+*  dt
+- con rắn
+- người nham hiểm nhẫn tâm
+!to see snakes
+- mê sảng rượu
+!Snakes!
+- ức quá!, cáu quá!
+!a snake in the grass
+- sự nguy hiểm ngầm; kẻ thù bí mật
+!to raise (wake) snakes
+- làm náo động; gây chuyện đánh nhau
+!to warm (cherish) a snake in one's bosom
+- nuôi ong tay áo
+*  ndgt
+- ngoằn ngoèo, quanh co, uốn khúc
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) kéo mạnh, giật
+
+@Snake
+- (Econ) Con rắn.
+: Xem EUROPEAN MONETARY SYSTEM.
+ @snake skin  
+*  dt
+- da rắn
+
+@snake-bird  
+*  dt
+- (động vật học) chim cổ rắn (họ bồ nông)
+
+@snake-bite
+* dt
+- vết rắn cắn
+ @snake-charmer  
+*  dt
+- người bắt rắn
+
+@snake-charming  
+*  dt
+- thuật bắt rắn
+
+@snake-dance
+* dt
+- điệu vũ nghi lễ treo mang rắn hay bắt chước rắn
+* ngdgt
+- khiêu vũ bắt chước rắn
+ @snake-fence  
+*  dt
+- hàng rào chữ chi (bằng thân cây đặt nằm đầu nọ gối vào đầu kia)
+
+@snake-head
+* dt
+- (động vật học) cá chuối
+ @snake-like
+* tt
+- như rắn
+ @snake-like
+- hình rắn
+ @snake-lizard  
+*  dt
+- (động vật học) thằn lằn rắn
+
+@snake-locked
+* tt
+- xoắn như rắn (tóc)
+ @snake-root   (snake-root) @snakeroot   (snake-root) @snakes!
+- thành ngữ snake
+- Snakes!
+- ức quá!, cáu quá!
+- thành ngữ snake
+- Snakes!
+- ức quá!, cáu quá!
+ @snakeskin
+* dt
+- da rắn
+* tt
+- (làm) bằng da rắn
+ @snake-weed  
+*  dt
+- (thực vật học) cây quyển sâm
+
+@snakiness  
+*  dt
+- sự độc ác, sự nanh ác, sự quỷ quyệt, sự thâm hiểm, sự nham hiểm; sự bất nhân
+
+@snaking
+* dt
+- sự lượn ngoằn ngoèo
+ @snakish
+* tt
+- như rắn
+- nham hiểm; giảo hoạt
+ @snaky  
+*  tt
+- nhiều rắn
+- hình rắn
+- độc ác, nanh ác, quỷ quyệt, thâm hiểm, nham hiểm; bất nhân
+
+@snap  
+*  dt
+- sự cắn (chó), sự táp, sự đớp
+- tiếng tách tách (bật ngón tay); tiếng vút (của roi); tiếng gãy răng rắc (của cạnh cây)
+- khoá (dây đồng hồ, vòng...)
+- bánh quy giòn
+- lối chơi bài xnap
+- đợt rét đột ngột ((thường) cold snap)
+- tính sinh động (văn); sự hăng hái, sự nhiệt tình
+
++ the performers seemed to have no snap: những người biểu diễn hầu như không có chút nhiệt tình nào
+- ảnh chụp nhanh
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) việc ngon ơ
+- (sân khấu) sự thuê mượn ngắn hạn (diễn viên)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người dễ bảo, người dễ sai khiến
+- (định ngữ) đột xuất, bất thần
+
++ snap debate: cuộc tranh luận đột xuất
+- (định ngữ) (từ Mỹ,nghĩa Mỹ),  (từ lóng) ngon ơ
+
++ a snap task: việc ngon ơ
+!not a snap
+- không một chút nào, không một tí nào
+*  ngdgt
+- táp (chó), đớp
+
++ the dog snapped a chop: con chó táp một cục sườn
+- bật tách tách (ngón tay); quất vun vút (roi); bẻ gãy tách; đóng tách
+
++ to snap one's fingers: bật ngón tay tách tách
+
++ to snap a stick: bẻ gãy cái gậy đánh tách một cái
+
++ to snap a clasp: đóng cái móc tách một cái
+
++ to snap one's teeth together: răng đập vào nhau cầm cập
+- thả, bò; bắn
+
++ to snap a spring: thả lò xo
+
++ to snap a pistol: bắt súng lục
+- chụp nhanh (ảnh)
+- nhặt vội, nắm lấy
+
++ to snap a bargain: nắm lấy một món hời, chộp lấy một cơ hội
+- ngắt lời
+
++ to snap a speaker: ngắt lời một diễn giả
+*  ndgt
+- cắn (chó), táp, đớp
+
++ to snap at someone: định cắn ai (chó)
+
++ the fish snapped at the bait: cá đớp mồi
+- nói cáu kỉnh, cắn cảu
+- gãy tách
+
++ stick snaps: gậy gãy tách
+- đóng tách
+
++ door snaps: cửa đóng tách một cái
+- nổ
+
++ pistol snaps: súng lục nổ
+- chộp lấy
+
++ to snap at a chance: chộp lấy một cơ hội
+!to snap off
+- táp, cắn (vật gì)
+- làm gãy
+- gãy đánh tách
+!to snap up
+- bắt lấy, chộp lấy
+- cắt ngang, ngắt lời
+!to snap one's fingers at
+- thách thức, bất chấp
+!to snap someone's nose off x nose snap into it!
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bắt đầu đi nhanh lên!
+!to snap out of it
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chừa một thói quen, bỏ một tính xấu
+*  dt
+- (từ Mỹ,nghĩa Mỹ) thình lình, tách một cái
+
+@snap fastener
+- khuy bấm (khuy nhỏ cho quần áo có hai mảnh ấn vào nhau)
+ @snap shot  
+*  dt
+- phát súng bắn không cần ngắm, phát súng bắn vảy
+
+@snapback  
+*  dt
+- (thể dục,thể thao) sự chuyền lùi, sự đá về (bóng đá)
+
+@snap-bolt   (snap-lock) @snap-division
+* dt
+- sự phân chia đột ngột để biểu quyết
+ @snapdragon  
+*  dt
+- (thực vật học) cây hoa mõm chó
+- trò chơi rồng táp (lấy nho khô trong rượu nóng bỏng ra mà ăn, vào dịp lễ Nô-en)
+
+@snap-fastener
+- Cách viết khác : press-stud 
+ @snap-hook   (snap-link) @snap-link   (snap-link) @snap-lock   (snap-lock) @snap-on
+* tt
+- để lắp vào
+
++  snap-on cuffs:cổ tay áo để lắp vào
+ @snapper
+* dt
+- cá chỉ vàng
+ @snapper-turtle
+* dt
+- (động vật học) rùa nước ngọt
+ @snapper-up  
+*  dt
+- người hay vơ vét
+- người tranh thủ thời cơ, người hay tranh thủ
+
+@snappily
+* dt
+- <thgt> dễ gắt gỏng; dễ cáu kỉnh; cắn cảu, đốp chát
+- <thgt> đẹp, rất mốt; hợp thời trang
+- <Mỹ><thgt> nhanh, mạnh mẽ, sống động
+- gọn gàng, thanh nhã
+- đầy hương vị
+ @snappiness
+* tt
+- <thgt> tính dễ gắt gỏng; tính dễ cáu kỉnh; tính cắn cảu, tính đốp chát
+- <thgt> sự đẹp, rất mốt; sự hợp thời trang
+- <Mỹ><thgt> sự nhanh, sự mạnh mẽ, sự sống động
+- sự gọn gàng, sự thanh nhã
+- tính chất đầy hương vị
+ @snappish  
+*  tt
+- gắt gỏng, cắn cảu (giọng)
+
+@snappishly
+* dt
+- xem snappish
+ @snappishness  
+*  dt
+- tính hay gắt gỏn, tính cắn cảu
+
+@snappy  
+*  tt
+- gắt gỏng, cắn cảu
+- (thông tục) gay gắt, đốp chát
+
++ a snappy reply: câu trả lời gay gắt, câu trả lời đốp chát
+- (thông tục) sinh động, đầy sinh khí (văn)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) nhanh nhẹn, mạnh mẽ
+
++ a snappy pace: bước đi nhanh nhẹn mạnh mẽ
+!make it snappy!
+- (thông tục) làm mau lên!
+
+@snap-roll  
+*  dt
+- (hàng không) động tác lộn vòng (quanh trục dọc của máy bay trong khi vẫn bay)
+
+@snapshot  
+*  dt
+- ảnh chụp nhanh
+*  ngdgt
+- chụp nhanh
+
+@snap-shot
+* dt
+- phát súng bắn không cần ngắm
+- ảnh chụp nhanh
+* ngdgt
+- chụp ảnh nhanh
+ @snap-vote
+* dt
+- cuộc bỏ phiếu bất ngờ
+ @snapweed
+* dt
+- (thực vật) cây bóng nước
+ @snare  
+*  dt
+- cái bẫy, cái lưới (bẫy chim)
+
++ to sit a snare: gài bẫy, giăng lưới
+- cạm bẫy, mưu, mưu chước
+
++ to be caught in a snare: bị mắc bẫy
+- điều cám dỗ
+- (số nhiều) dây mặt trống (buộc ngang mặt trống để tăng âm)
+*  ngdgt
+- đánh bẫy (chim), gài bẫy, đặt bẫy
+- bẫy
+
+@snarer  
+*  dt
+- người đánh bẫy, người đặt bẫy
+
+@snark  
+*  dt
+- quái vật
+
+@snarl  
+*  dt
+- tiếng gầm gừ (chó)
+- tiếng càu nhàu, tiếng cằn nhằn
+
++ to answer with a snarl: trả lời với giọng cằn nhằn
+*  dgt
+- gầm gừ (chó)
+- càu nhàu, cằn nhằn
+
++ to snarl out an answer: cằn nhằn mà trả lời
+
++ to snarl at somebody: cằn nhẳn cằn nhằn với ai
+*  dt
+- chỗ thắt nút, cái nút; chỗ nối
+
++ hair full of snarls: tóc rối kết lại
+- tình trạng lộn xộn; sự rối beng; mớ bòng bong
+!traffic snarl
+- tình trạng xe cộ ùn lại, sức tắc nghẽn giao thông
+*  ngdgt
+- làm rối, làm xoắn (chỉ)
+- chạm bằng cái đột
+*  ndgt
+- rối beng, rối mù
+
+@snarler  
+*  dt
+- người hay càu nhàu, người hay cằn nhằn
+
+@snarling  
+*  tt
+- gầm gừ
+- càu nhàu, cằn nhằn
+
+@snarl-up
+* dt
+- <thgt> sự ùn tắc; tình trạng rối ren, tình trạng mắc kẹt (nhất là về (giao thông))
+ @snarly  
+*  tt
+- gầm gừ
+- hay cằn nhằn, hay càu nhàu
+- rối, rối beng, rối mù
+
+@snatch  
+*  dt
+- cái nắm lấy, cái vồ lấy
+
++ to make a snatch at something: vồ lấy cái gì
+- (số nhiều) đoạn, khúc
+
++ to overhear snatches of conversation: nghe lỏm được nhiều đoạn của câu chuyện
+- thời gian ngắn, một lúc, một lát
+
++ a snatch of sleep: giấc ngủ chợp đi một lát
+
++ to work by snatches: làm việc bữa đực bữa cái; làm việc theo hứng (thích thì làm, không thích thì thôi)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự bắt cóc
+*  dgt
+- nắm lấy, giật lấy, vồ lấy, chộp lấy, bắt lấy, tranh thủ (làm gì)
+
++ to snatch an opportunity: nắm lấy thời cơ
+
++ to snatch a quick meal: tranh thủ ăn nhanh
+
++ to snatch victory out of defeat: dành lấy thắng lợi từ thế thất bại
+
++ to snatch at an offer: chộp lấy một lời đề nghị
+
++ to snatch something out of somebody's hand: giật lấy vật gì trên tay ai, nẫng tay trên ai
+
++ to snatch a half-hour's repose: tranh thủ nghỉ nửa tiếng
+
++ to snatch someone from the jaws of death: cứu thoát ai khỏi nhanh vuốt của tử thần
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bắt cóc
+
+@snatcher
+* dt
+- (trong từ ghép) người vồ lấy (rồi đem đi)
+ @snatchy  
+*  tt
+- đứt đoạn, từng khúc, không đều
+
+@snazzily
+* dt
+- <thgt> mốt; hợp thời trang (nhất là về quần áo)
+ @snazzy
+* tt
+- <thgt> mốt; hợp thời trang (nhất là về quần áo)
+ @sneak  
+*  dt
+- người hay vụng trộm, người hay lén lút, người hay ném đá giấu tay; người đáng khinh, người hẹn hạ
+-(ngôn ngữ nhà trường),  (từ lóng) đứa hớt lẻo, đức mách lẻo
+- (thể dục,thể thao) bóng đi sát mặt đất (crickê)
+*  ndgt
+- trốn, lén
+
++ to sneak off (away): trốn đi, lén đi
+
++ to sneak in: lẻn vào
+-(ngôn ngữ nhà trường),  (từ lóng) mách lẻo
+*  ngdgt
+-(ngôn ngữ nhà trường),  (từ lóng) ăn cắp, xoáy
+- mang lén, đưa lén
+!to sneak out of
+- lén lút lẩn tránh (công việc...)
+
+@sneak preview  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sự chiếu thử một bộ phim (để lấy ý kiến của một số người trước khi đem chiếu rộng rãi)
+
+@sneaker  
+*  dt
+- người lén lút vụng trộm
+- (số nhiều) giày đi êm (để đánh quần vợt...)
+
+@sneakers
+* dt & số nhiều
+- giày để chơi quần vợt
+ @sneakily
+* dt
+- <thgt> vụng trộm, lén lút, giấu giếm, thầm lén
+ @sneakiness
+* dt
+- <thgt> sự vụng trộm, sự lén lút, sự giấu giếm, sự thầm lén
+ @sneaking  
+*  tt
+- vụng trộm, lén lút, giấu giếm, thầm lén
+
++ to have a sneaking fondness for somebody: thầm mến ai
+
+@sneakingly
+* dt
+- xem sneaking
+ @sneak-thief  
+*  dt
+- kẻ cắp vặt (lấy đồ vật để gần cửa sổ, cửa ra vào), kẻ đánh cắp lén
+
+@sneaky  
+*  tt
+- vụng trộm, lén lút, giấu giếm, thầm lén
+
+@sneck  
+*  dt
+- (Ê-cốt) cái then cài, cái chốt cửa
+*  ngdgt
+- (Ê-cốt) đóng (cửa) bằng then
+
+@sneer  
+*  dt
+- cười khinh bỉ, cười chế nhạo
+- chế nhạo, nói những lời châm chọc
+
++ to sneer at someone: chế nhạo ai
+
++ to sneer at riches: coi khinh tiền bạc
+- nhạo báng làm tổn thương (danh dự)
+
++ to sneer away someone's reputation: nhạo báng làm mất thanh danh ai
+
+@sneerer  
+*  dt
+- người hay cười nhạo, người hay giễu
+
+@sneering  
+*  tt
+- giễu cợt, nhạo báng
+
+@sneeringly
+* dt
+- cười chế nhạo; miệt thị; chế riễu; cười khinh bỉ
+ @sneeze  
+*  dt
+- sự hắt hơi
+- cái hắt hơi
+*  ndgt
+- hắt hơi
+!to sneeze into a basket
+- (nói trại) bị chém đầu
+!that's not to be sneezed at
+- đó là điều không thể xem khinh được
+
+@sneezing
+* dt
+- xem sneeze
+ @sneezing gas  
+*  dt
+- (quân sự) hơi độc làm hắt hơi
+
+@snell  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) nhanh, hoạt động, hoạt bát
+- thông minh, nhanh trí; sắc sảo
+*  dt
+- sợi dây cước (để buộc lưỡi câu)
+
+@snib  
+*  dt
+- (Ê-cốt) then cửa, chốt cửa sổ
+*  ngdgt
+- (Ê-cốt) đóng then, cài then, cài chốt
+
+@snick  
+*  dt
+- vết khía, vết khứa
+- (thể dục,thể thao) cú đánh cúp (crickê)
+*  ngdgt
+- cắt, khía, khứa
+- (thể dục,thể thao) cúp nhẹ (bóng crickê)
+
+@snicker  
+*  dt
+- tiếng ngựa hí
+- tiếng cười khúc khích
+
+@snickerer
+* ngdgt
+- cười khúc khích
+* dt
+- người cười khúc khích
+ @snickersnee  
+*  dt
+-(đùa cợt) dao (dùng làm vũ khí)
+
+@snicket
+* dt
+- (Bắc Anh) đường hẹp hai bên là bụi cây
+ @snick-or-snee
+- xem snickersnee
+ @snide  
+*  tt
+- (từ lóng) giả, giả mạo
+- láu cá; ác ý
+
++ a snide remark: một nhận xét ác ý
+*  dt
+- (từ lóng) bạc đồng giả
+- đồ nữ trang giả
+
+@snidely
+* dt
+- <thgt> giả, giả mạo
+- <thgt> ác ý, cạnh khoé
+ @snideman
+* dt
+- người lưu hành bạc đồng giả
+ @snideness
+* dt
+- sự giả, sự giả mạo
+- sự ác ý, sự cạnh khoé
+ @snidesman  
+*  dt
+- người lưu hành bạc đồng giả
+
+@sniff  
+*  dt
+- sự hít; tiếng hít vào
+
++ to get a sniff of fresh air: hít không khí trong lành
+
++ to take a sniff at a rose: ngửi một bông hồng
+- lượng hít vào
+*  ndgt
+- ngửi, hít vào
+
++ to sniff at a flower: ngửi hoa
+
++ to sniff up fresh air: hít không khí mát mẻ
+
++ to sniff at someone's calves: hít bắp chân ai (chó)
+- hít, hít mạnh, ngửi ngửi, khụt khịt, khịt khịt (tỏ vẻ không thích, khó chịu, khinh bỉ...)
+
++ to sniff at a dish: ngửi ngửi một món ăn (tỏ vẻ không thích)
+*  ngdgt
+- đánh hơi, ngửi ngửi (đen & bóng)
+
++ to sniff danger in someone's manner: đánh hơi thấy có sự nguy hiểm trong thái độ của ai
+
+@sniffer
+* dt
+- người hít vào; người hít ma túy
+ @sniffily
+* dt
+- xem sniffy
+ @sniffiness
+* dt
+- xem sniffy
+ @sniffing  
+*  tt
+- khụt khịt, sổ mũi
+*  dt
+- sự khụt khịt
+- chứng sổ mũi
+
+@sniffish
+* tt
+- xem sniffy
+ @sniffishless
+* dt
+- xem sniffy
+ @sniffishly
+* dt
+- xem sniffy
+ @sniffle  
+*  dt
+- (số nhiều) sự sổ mũi
+- tiếng xỉ mũi
+*  ndgt
+- sổ mũi
+
+@sniffy  
+*  tt
+- (thông tục) khinh thường, khinh khỉnh
+- hơi nặng mùi, hơi có mùi
+
+@snifter  
+*  dt
+- cốc uống rượu hẹp miệng
+- (từ lóng) cốc rượu nhỏ, hớp rượu
+
+@snifting-valve  
+*  dt
+- (kỹ thuật) van xả
+
+@snig
+* dgt
+- kéo đi mà không dùng xe trượt
+ @snigger  
+*  dt
+- sự cười thầm; sự cười khẩy
+*  ndgt
+- cười khẩy
+
+@sniggerer
+* dt
+- người cười khẩy
+ @sniggle  
+*  ndgt
+- câu cá chình; câu lươn
+
+@snip  
+*  dt
+- sự cắt bằng kéo; vết cắt bằng kéo; miếng cắt ra
+- (số nhiều) kéo cắt tôn
+- (từ lóng) thợ may
+- (từ lóng) sự chắc thắng, sự ăn chắc (đua ngựa)
+
++ dead snip: sự ăn chắc trăm phần trăm
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người tầm thường, nhãi ranh
+*  dgt
+- cắt bằng kéo
+
++ to snip off the ends: cắt bớt những đầu (chỉ) lòng thòng
+
+@snipe  
+*  dt
+- (động vật học) chim dẽ giun
+- (quân sự) sự bắn tỉa; phát bắn tỉa
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đầu mẩu thuốc lá, đầu mẩu xì gà (hút còn thừa)
+*  ndgt
+- đi săn dẽ giun
+- (quân sự) bắn tỉa
+*  ngdgt
+- (quân sự) bắn tỉa (quân địch...)
+
+@sniper  
+*  dt
+- (quân sự) người bắn tỉa
+
+@sniper-scope
+* dt
+- ống ngắm (lắp vào súng) để bắn tỉa
+ @sniping
+* dt
+- sự bắn tỉa
+ @snipper
+* dt
+- người cắt, thợ cắt vải
+ @snippet  
+*  dt
+- miếng nhỏ cắt ra; mụn vải
+- (số nhiều) sự hiểu biết vụn vặt, kiến thức vụn vặt
+- (số nhiều) đoạn trích ngắn (trong bản tin, báo...); những thứ linh tinh; những thứ đầu thừa đuôi thẹo
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người tầm thường, nhãi ranh
+
+@snippety   (snippy) @snippiness  
+*  dt
+- tình trạng gồm toàn mẩu vụn; sự làm toàn bằng mẩu vụn
+- (thông tục) tính cộc cằn, tính thô lỗ, tính lấc cấc
+
+@snipping
+* dt
+- mảnh vụn (cắt ra từ mảnh to hơn)
+ @snippy   (snippy) @snip-snap-snorum  
+*  dt
+- lối chời bài nipnap
+
+@snipy  
+*  tt
+- có mõm dài và nhọn (cá...)
+
+@snit
+* dt
+- (từ Mỹ, nghĩa Mỹ) tâm trạng càu nhàu
+ @snitch  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kẻ cắp vặt
+- kẻ mách lẻo; kẻ chỉ điểm
+*  dt
+- ăn cắp vặt
+- mách lẻo; chỉ điểm
+
+@snivel  
+*  dt
+- nước mũi; mũi thò lò
+- sự khót sụt sùi, sự khóc rền rĩ
+- lời nói đạo đức giả, giọng giả nhân giả nghĩa
+*  ndgt
+- sổ mũi, thò lò mũi
+- chảy nước mắt nước mũi
+- sụt sùi
+- rên rỉ, than van (làm ra vẻ thương xót...)
+
+@sniveler
+- <Mỹ>
+ @sniveling
+- <Mỹ>
+ @sniveller
+* dt
+- người hay rên rự than vãn
+ @snivelling
+* tt
+- dễ rên rự và than vãn; yếu đuối
+ @snob  
+*  dt
+- trưởng giả học làm sang, người đua đòi
+- (từ Mỹ,nghĩa Mỹ) kẻ hợm mình
+- (từ cổ,nghĩa cổ) người xuất thân từ thành phần nghèo, người không có địa vị
+-(ngôn ngữ nhà trường); (từ cổ,nghĩa cổ) người thành thị
+
+@snob appeal
+* dt
+- sự hấp dẫn đua đòi (những phẩm chất lôi kéo sự màu mè, điệu bộ, hợm mình)
+ @Snob effect
+- (Econ) Hiệu ứng đua đòi.
+: Hiệu ứng xảy ra khi giá của một hàng hoá giảm xuống và một số bộ phận của cộng đồng tăng cầu về hàng hoá này, đồng thời một số bộ phận hoặc cá nhân khác thì giảm cầu nhằm mục đích tách biệt họ ra khỏi xu thế chung.
+ @snob value
+* dt
+- sự hấp dẫn đua đòi (những phẩm chất lôi kéo sự màu mè, điệu bộ, hợm mình)
+ @snobbery   (snobbery) @snobbish  
+*  tt
+- có tính chất trưởng giả học làm sang, đua đòi
+
+@snobbishly
+* dt
+- (thuộc) kẻ hợm mình, như một kẻ hợm mình; hợm hựnh
+- đua đòi, có thái độ trưởng giả học làm sang
+ @snobbishness   (snobbery) @snobocracy  
+*  dt
+- chính quyền trưởng giả
+
+@snobol
+* (viết tắt)
+- ngôn ngữ SNOBOL; ngôn ngữ lập trình (nhất là để xử lý các ký hiệu)  (string-oriented symbolic language)
+ @snog
+* ndgt
+- (:with)  <thgt> hôn hít; ôm ấp
+* dt
+- <thgt> sự hôn hít
+ @snogging
+* dt
+- <thgt> sự ôm ấp vuốt ve và hôn hít
+ @snood  
+*  dt
+- (Ê-cốt),  (văn học) lưới tóc (của con gái)
+- dây câu
+
+@snook  
+*  dt
+- (từ lóng) sự vẫy mũi
+
++ to cock (cut, make) a snook: vẫy mũi chế giễu
+!Snooks!
+- xì! (tỏ ý khinh bỉ)
+
+@snooker
+* dt
+- trò chơi bi-da
+- vị trí không đánh trực tiếp được
+* ngdgt
+- đưa (đối phương) vào một tình thế khó khăn khi chơi bi-da
+- <thgt> đặt (ai) vào một tình thế khó khăn; đánh lừa; đánh bại (ai)
+ @snookered  
+*  tt
+- bị chặn (quả bi a)
+- (nghĩa bóng) bị đẩy vào tình trạng khó khăn
+
+@snooks!
+- thành ngữ snook
+- Snooks!
+- xì! (tỏ ý khinh bỉ)
+- thành ngữ snook
+- Snooks!
+- xì! (tỏ ý khinh bỉ)
+ @snoop  
+*  dt: (snooper) 
+@snooper  
+*  dt: (snooper) 
+@snoot  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cái mũi
+- cái mặt
+- cái nhăn mặt
+
+@snootily
+* dt
+- <thgt> khinh khỉnh, kiêu kỳ
+- làm bộ làm tịch, học đòi
+ @snootiness  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) tính khinh khỉnh, tính kiêu kỳ, tính làm bộ làm tịch
+- tính học đòi làm sang
+
+@snooty  
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) khinh khỉnh, kiêu kỳ, làm bộ làm tịch
+- trưởng giả học làm sang, học đòi làm sang
+
+@snooze  
+*  dt
+- giấc ngủ ngắn (ban ngày)
+*  dgt
+- ngủ chợp đi một giấc ngắn; ngủ gà gật; ngủ ngày
+
++ to snooze time away: ngủ cho qua thời gian; đà đẫn cho qua giờ
+
+@snore  
+*  dt
+- tiếng ngáy
+*  dgt
+- ngáy
+
++ to snore oneself awake: thức dậy vì tiếng ngáy của mình
+
++ to snore oneself into a nightmare: vừa nằm mê vừa ngáy khò khò
+
++ to snore away the morning: ngủ hết buổi sáng
+
+@snorer  
+*  đại từ
+- người ngủ hay ngáy
+
+@snorkel   (schnorkel) @snort  
+*  dt
+- (như) snorkel
+- sự khịt; tiếng khịt khịt (của mũi; của máy...)
+- (từ Mỹ,nghĩa Mỹ) cốc rượu nhỏ, hớp rượu
+*  dgt
+- khịt khịt mũi
+- khịt khịt mũi tỏ vẻ
+
++ to snort defiance at somebody: khịt khịt mũi tỏ vẻ bất chấp người nào
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cười hô hố
+
+@snorter  
+*  dt
+- người hay khịt mũ
+- (từ lóng) gió ào ào
+
+@snorting
+* dt
+- tiếng gáy
+ @snot  
+*  dt
+- vuôi, mũi thò lò
+- (từ lóng) thằng chó đểu, thằng đáng khinh
+
+@snot-rag  
+*  dt
+- ghuộc sòn 9 mũi
+
+@snottiness  
+*  dt
+- sự thò lò mũi xanh
+- tính cáu kỉnh, tính gắt gỏng
+- (từ lóng) tính chó đểu, tính đáng khinh
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kiêu kỳ, làm bộ làm tịch; xấc xược
+
+@snotty  
+*  dt
+- (hàng hải),  (từ lóng) trung sĩ hải quân
+
+@snotty-nosed
+* tt
+- làm bộ làm tịch; khinh khỉnh, kiêu kỳ
+ @snout  
+*  dt
+- mũi, mõm (động vật)
+- (thông tục) mũi to (của người)
+- mũi (của tàu, thuyền...)
+
++ of battleship's ram: mũi nhọn tàu chiến (để đâm vào tàu địch)
+- đầu vòi (của ống)
+
+@snouted  
+*  tt
+- có đeo rọ (lợn)
+
+@snout-ring  
+*  dt
+- cái rọ (buộc vào mõm lợn)
+
+@snouty  
+*  tt
+- giống cái mũi, giống cái mõn
+- có mũi, có mõm dài
+- (thông tục) tự cao tự đại; khinh khỉnh
+
+@snow  
+*  dt
+- (hàng hải),  (sử học) thuyền xnau (thuyền buồm nhỏ)
+- tuyết
+- (số nhiều) đống tuyết rơi; lượng tuyết rơi
+- vật trắng như tuyết; (thơ) tóc bạc
+- (từ lóng) chất côcain
+*  ndgt
+- tuyết rơi
+
++ it snow s: tuyết rơi
+- rắc xuống như tuyết, rơi xuống như tuyết
+*  ngdgt
+- làm cho bạc như tuyết
+
++ the years have snowed his hair: năm tháng đã làm cho tóc ông ta bạc trắng như tuyết
+- làm nghẽn lại vì tuyết
+
++ to be snowed up (in): nghẽn lại vì tuyết (đường sá...)
+!to snow under
+- (từ Mỹ,nghĩa Mỹ) phủ tuyết kín (đen & bóng)
+- dạng bị động bị thua phiếu rất xa (người ứng cử)
+
+@snow bunting   (snow_bunting) @snow job
+* dt
+- <Mỹ>  <thgt> sự phỉnh phờ (ý định thuyết phục hoặc lừa dối bằng lời nói xảo trá, thường không thành thật)
+ @snow man  
+*  dt
+- người tuyết (trẻ con dựng lên để chơi)
+
+@snowball  
+*  dt
+- hòn tuyết, nắm tuyết (để ném nhau)
+- bánh putđinh táo
+*  dgt
+- ném (nhau) bằng hòn tuyết
+
+@snow-bear
+* dt
+- gấu trắng
+ @snowbell
+* dt
+- cây bồ đề
+ @snow-bird   (snow_bunting) @snow-blind  
+*  tt
+- bị chói tuyết (mắt), bị loá vì tuyết
+
+@snow-blindness  
+*  dt
+- sự bị chói tuyết (mắt), sự bị loá vì tuyết
+
+@snow-blink
+* dt
+- phản quang lên trời của tuyết, băng
+ @snow-blower
+* dt
+- <Mỹ> máy thổi tuyết (khỏi đường, lối đi )
+ @snow-boots  
+*  dt số nhiều
+- giày đi tuyết
+
+@snow-bound  
+*  tt
+- bị nghẽn vì tuyết, không chạy được vì tuyết
+
+@snow-break  
+*  dt
+- sự tan tuyết
+- cái chắn tuyết, cái gạt tuyết (trên đường sắt...)
+
+@snow-broth  
+*  dt
+- tuyến lẫn nước, tuyết tan
+- rượu ướp lạnh
+
+@snow-bunting
+* dt
+- xem snow-bird
+ @snow-cap  
+*  dt
+- (động vật học) chim ruồi mào trắng
+- mỏm phủ tuyết (núi)
+
+@snow-capped  
+*  tt
+- có phủ tuyết (ngọn núi)
+
+@snow-clad  
+*  tt
+- (thơ ca) có tuyết phủ
+
+@snow-covered
+* tt
+- phủ đầy tuyết, có nhiều tuyết
+ @snow-drift  
+*  dt
+- mảng tuyết gió cuốn đi
+
+@snowdrop  
+*  dt
+- (thực vật học) hoa giọt tuyết; cây giọt tuyết (họ thuỷ tiên)
+- cây bạch đầu ông
+
+@snow-fall  
+*  dt
+- mưa tuyết; cảnh tuyết rơi hằng năm (ở một địa phương)
+
+@snow-fence
+* dt
+- hàng rào chống tuyết
+ @snow-field  
+*  dt
+- bãi tuyết, đồng tuyết
+
+@snow-flake  
+*  dt
+- bông tuyết
+
+@snow-flood
+* dt
+- trận lụt do tuyết tan
+ @snow-gauge  
+*  dt
+- thước đo tuyết
+
+@snow-goggles  
+*  dt số nhiều
+- kính râm đi tuyết
+
+@snow-goose  
+*  dt
+- ngỗng trắng Bắc cực
+
+@snow-grouse  
+*  dt
+- (động vật học) gà gô trắng
+
+@snow-ice  
+*  dt
+- lớp băng tuyết
+
+@snowily
+* dt
+- xem snowy
+ @snowiness  
+*  dt
+- sự phủ đầy tuyết, sự có nhiều tuyết
+
+@snow-leopard
+* dt
+- con báo tuyết (loại mèo hoang to ở vùng núi Trung A, lông màu nâu nhạt hoặc xám và những vệt đen)
+ @snowless  
+*  dt
+- không có tuyết
+
+@snow-line  
+*  dt
+- đường băng vĩnh cữu
+
+@snow-loving
+* tt
+- ưa tuyết
+ @snow-making
+* dt
+- cách làm tuyết nhân tạo
+ @snowman  
+*  dt
+- người tuyết (người ta cho là sống ở miền núi cao trên dãy Chu-mu-lung-ma)
+
+@snowmen
+* dt
+- người tuyết (hình một người làm bằng tuyết; nhất là do trẻ con đắp lên để chơi)
+ @snow-mobile
+* dt
+- xe chạy bằng máy trên tuyết và băng
+ @snow-owl  
+*  dt
+- (động vật học) cú tuyết
+
+@snow-plough   (snow-plow) @snow-plow   (snow-plow) @snow-scape
+* dt
+- phong cảnh bị tuyết phủ
+ @snow-shed
+* dt
+- <Mỹ> mái che tuyết (để tránh cho quãng đường (ô tô, tàu hoả ) khỏi bị tuyết rơi xuống hoặc giạt vào làm tắc nghẽn)
+ @snow-shoe
+* dt
+- giày đi tuyết
+ @snow-shoes  
+*  dt số nhiều
+- liếp đi tuyết (đeo vào đế giày)
+
+@snow-shovel  
+*  dt
+- xẻng xúc tuyết
+
+@snow-slide   (snow-slide) @snow-slip   (snow-slide) @snow-spectacles
+* dt & số nhiều
+- kính râm đeo để đi tuyết
+ @snow-storm  
+*  dt
+- bão tuyết
+
+@snowstorm
+* dt
+- bão tuyết
+ @snow-sweeper
+* dt
+- máy quét tuyết
+ @snow-tyre
+* dt
+- lốp xe để đi trên băng tuyết
+ @snow-white  
+*  tt
+- trắng như tuyết
+
+@snowy  
+*  tt
+- đầy tuyết, phủ tuyết, nhiều tuyết
+
++ the snowy season: mùa tuyết rơi
+
++ snowy hair: tóc bạc như tuyết
+
+@snowy-owl
+* dt
+- xem snow-owl
+ @snp
+* (viết tắt)
+- Đảng Quốc gia Xcốtlen (Scottish  Nationalist  Party)
+ @snr
+* (viết tắt)
+- (Snr) Già, Bố (Sen)
+ @snub  
+*  tt
+- tẹt và hếch (mũi)
+*  dt
+- (từ hiếm,nghĩa hiếm) mũi tẹt và hếch
+- sự chỉnh, sự làm nhục, sự làm mất mặt
+
++ to suffer a snub: bị chỉnh; bị mất mặt
+*  ngdgt
+- chỉnh, làm nhục, làm mất mặt, làm cụt vòi
+- (hàng hải) cột (tàu) lại
+
+@snubbed
+* tt
+- xem snub
+ @snubber
+* dt
+- người đột nhiên cấm chỉ
+- bộ giảm sóc bằng ma sát
+ @snubbing  
+*  dt
+- sự chỉnh, sự làm nhục, sự làm mất mặt, sự làm cụt vòi
+
+@snubbingly  
+*  dt
+- với giọng chỉnh; làm nhục, làm mất mặt, làm cụt vòi
+
+@snubbing-post  
+*  dt
+- cọc buộc tàu thuyền
+
+@snub-nosed  
+*  tt
+- có mũi tẹt và hếch
+
+@snuff  
+*  dt
+- hoa đèn
+*  ngdgt
+- gạt bỏ hoa đèn, cắt hoa đèn (ở bấc đèn)
+!to snuff out
+- làm tắt (đèn, nến)
+- làm tiêu tan
+
++ hopes are snuffed out: hy vọng bị tiêu tan
+- (từ lóng) chết, ngoẻo
+!can snuff a candle with a pistol
+- có thể bắn bay hoa đèn ở cây nến mà không làm tắt nến; bắn tài
+*  dt
+- thuốc bột để hít
+- thuốc (lá) hít
+- sự hít thuốc (lá)
+- (từ Mỹ,nghĩa Mỹ) mùi
+!to be up to snuff
+- (từ lóng) không còn bé bỏng ngây thơ gì nữa
+!to give someone snuff
+- sửa cho ai một trận
+!to take something in snuff
+- (từ cổ,nghĩa cổ) phật ý về việc gì
+*  dgt
+- (như) sniff
+- hít thuốc (lá)
+
+@snuff-and-butter  
+*  tt
+- có da bánh mật
+
+@snuff-box  
+*  dt
+- hộp đựng thuốc (lá) hít
+
+@snuff-coloured  
+*  tt
+- có màu nâu vàng đậm
+
+@snuff-dish   (snuffer-tray) @snuffer  
+*  dt
+- người nghiện thuốc hít
+
+@snuffers  
+*  dt số nhiều
+- kéo cắt hoa đèn ((cũng) a pair of snuffers)
+
+@snuffer-tray   (snuffer-tray) @snuffiness  
+*  dt
+- tính chất giống thuốc hít
+- (từ lóng) sự khôn lớn
+
+@snuffingly  
+*  dt
+- với giọng mũi, bằng giọng mũi
+
+@snuffle  
+*  dt
+- sự khụt khịt; sự hít mạnh
+- (the snuffles) sự ngạt mũi
+- giọng ngạt mũi; câu chuyện nói giọng mũi
+- (từ hiếm,nghĩa hiếm) lời nói đạo đức giả
+*  dgt
+- khụt khịt; hít mạnh
+- nói giọng mũi
+- (từ hiếm,nghĩa hiếm) lời nói đạo đức
+
+@snuffler  
+*  dt
+- người nói giọng mũi
+- người bắt chước nói giọng mũi (một hình thức có tính chất tôn giáo của những người theo Thanh giáo)
+
+@snuff-mill  
+*  dt
+- cối nghiền thuốc hít
+
+@snuff-taker  
+*  dt
+- người hít thuốc
+
+@snuff-taking  
+*  dt
+- sự hít thuốc
+
+@snuffy  
+*  tt
+- giống thuốc hít
+- (từ lóng) đã khôn lớn, không còn ngờ nghệch
+- (từ Mỹ,nghĩa Mỹ) khó chịu, bực tức
+
+@snug  
+*  tt
+- kín gió; ấm áp, ấm cúng
+- gọn gàng xinh xắn, nhỏ nhưng ngăn nắp gọn gàng
+
++ a snug cottage: một túp nhà tranh gọn gàng xinh xắn
+- tiềm tiệm đủ (tiền thu nhập, bữa ăn...)
+- chật, hơi khít
+
++ is the coat too snug?: áo choàng có hơi chật quá không?
+- (từ Mỹ,nghĩa Mỹ) náu kín, giấu kín
+
++ he kept snug behind the door: hắn náu kín sau cánh cửa
+!as snug as a bug in a rug
+- (xem) rug
+*  ngdgt
+- làm cho ấm cúng
+- làm cho gọn gàng xinh xắn
+*  ndgt
+- dịch lại gần; rúc vào
+
+@snuggery  
+*  dt
+- chỗ ở ấm cúng, tổ ấm
+- phòng ngồi có quầy rượu (trong quán ăn)
+- phòng riêng, thư phòng
+
+@snuggle  
+*  ndgt
+- xê gần, dịch gần, xích gần; rúc vào
+
++ to snuggle up to someone: xích gần lại ai
+*  ngdgt
+- kéo (ai) lại gần; ôm ấp
+
++ she snuggled the child close to her: chị ta ôm em bé vào lòng
+
+@snugly
+* dt
+- một cách ấm cúng và thoải mái
+- gọn gàng và khít khao
+ @snugness  
+*  dt
+- tính ấm áp, tính ấm cúng
+- tính gọn gàng xinh xắn
+- tính tiềm tiệm đủ (đủ thu nhập...)
+
+@

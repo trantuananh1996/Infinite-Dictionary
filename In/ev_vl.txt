@@ -1,0 +1,5 @@
+@vl-bus
+- Một tiêu chuẩn quy định các đặc trưng về các mặt điện, logic, vật lý, cơ khí các loại local bus tốc độ cao (một loại bus mở rộng nối trực tiếp với bộ xử lý trung tâm của máy tính)  Tiêu chuẩn này được hiệp hội Video
+ @vlsi
+- độ tích hợp rất cao
+ @

@@ -1,0 +1,3777 @@
+@pl
+* dt
+- (Pl)  <vt> của Place (quảng trường; nhất là trên bản đồ)
+- (ngữ pháp) vt của plural <snh>
+ @pl @pla
+* dt
+- (tin học) viết tắt của Programmed Logic Array: ngôn ngữ lập trình
+ @placability  
+*  dt
+- tính dễ làm cho nguôi; tính dễ dãi; tính dễ tha th
+
+@placable  
+*  tt
+- dễ làm cho nguôi; dễ dãi; dễ tha th
+
+@placably
+- xem placable
+ @placard  
+*  dt
+- tranh cổ động, áp phích
+*  ngdgt
+- dán áp phích lên (tường), dán (áp phích) lên tường
+- dán áp phích làm quảng cáo (hàng)
+
+@placarder
+- xem placard
+ @placate  
+*  ngdgt
+- xoa dịu (ai); làm cho (ai) nguôi đi
+
+@placater
+- xem placate
+ @placation
+- xem placate
+ @placatory  
+*  tt
+- để xoa dịu, để làm nguôi
+
+@place  
+*  dt
+- nơi, chỗ, địa điểm, địa phương (thành phố, tỉnh, làng...)
+
++ in all places: ở khắp nơi
+
++ a native of the place: một người sinh trưởng ở địa phương ấy
+- nhà, nơi ở, nơi (dùng vào mục đích gì)
+
++ to have a nice little place in the country: có một ngôi nhà nhỏ xinh xinh ở nông thôn
+
++ can't you come to my place?: anh có thể đến chơi đằng nhà tôi được không?
+
++ places of amusement: những nơi vui chơi
+- chỗ, vị trí, địa vị; chỗ ngồi, chỗ đứng; chỗ thích đáng; chỗ thích hợp
+
++ everything in its place: vật nào chỗ ấy
+
++ a sore place on the wrist: chỗ đau ở cổ tay
+
++ to give place to someone: tránh chỗ cho ai đi, nhường chỗ cho ai
+
++ to change places with somebody: đổi chỗ cho ai
+
++ if I were in your place: nếu tôi ở địa vị anh
+
++ this is no place for children: đây không phải chỗ cho trẻ con
+
++ the remark is out of place: lời nhận xét không đúng chỗ (không đúng lúc, không thích hợp)
+- chỗ làm
+
++ to get a place in...: kiếm được một chỗ làm ở...
+- nhiệm vụ, cương vị
+
++ it is not my place to inquire into that: tôi không có nhiệm vụ tì hiểu việc ấy
+
++ to keep aomebody in his place: bắt ai phải giữ đúng cương vị, không để cho ai vượt quá cương vị
+- địa vị (xã hôi), cấp bậc, thứ bậc, hạng
+
++ to ottain a high place: đạt địa vị cao sang
+
++ to get the first place in the race: được xếp hạng nhất trong cuộc đua, về nhất trong cuộc đua
+- đoạn sách, đoạn bài nói
+
++ I've lost my place: tôi không tìm được đoạn tôi đã đọc
+- quảng trường, chỗ rộng ((thường) có tên riêng ở trước); đoạn phố
+- (quân sự) vị trí
+
++ the place can be defended: có thể bảo vệ được vị trí đó
+- (toán học) vị trí (của một con số trong một dãy số)
+
++ calculated to five places of decimals: được tính đến năm số lẻ
+- thứ tự
+
++ in the first place: thứ nhất, trước hết
+
++ in the second place: thứ nhì, kế đó
+
++ in the last place: cuối cùng
+!in place of
+- thay vì, thay cho, thay thế vào
+!to look out of place
+- có vẻ lúng túng
+!not quite in place
+- không đúng chỗ, không thích hợp
+
++ the proposal is not quite in place: đề nghị ấy không thích hợp
+!to take place
+- xảy ra, được cử hành được tổ chức
+*  ngdgt
+- để, đặt
+
++ to place everything in good order: để mọi thứ có thứ tự
+
++ the house is well placed: ngôi nhà được đặt ở một vị trí rất tốt
+
++ to place confidence in a leader: đặt tin tưởng ở một lãnh tụ
+- cứ làm, đưa vào làm, đặt vào (cương vị công tác)
+
++ to be placed in command of the regiment: được cử làm chỉ huy trung đoàn ấy
+- đầu tư (vốn)
+- đưa cho, giao cho
+
++ to place an order for goods with a firm: (đưa đơn) đặt mua hàng của một công ty
+
++ to place a book with a publisher: giao cho một nhà xuất bản in và phát hành một cuốn sách
+
++ to place a matter in someone's hands: giao một vấn đề cho ai giải quyết
+
++ to place a child under someone's care: giao một đứa bé cho ai chăm nom hộ
+- xếp hạng
+
++ to be placed third: được xếp hạng ba
+- bán
+
++ a commodity difficult to place: một mặt hàng khó bán
+- nhớ (tên, nơi gặp gỡ...)
+
++ I know his face but I can't place him: tôi biết mặt nó nhưng không nhớ tên nó tên gì và gặp ở đâu
+- đánh giá (ai, về tính tình, địa vị...)
+
++ he is a difficult man to place: khó đánh giá được anh ấy
+- (thể dục,thể thao) ghi (bàn thắng bóng đá) bằng cú đặt bóng sút
+
+@place
+- chỗ, vị trí; hàng   đặt để
+- decimal p. hàng chữ số thập phân 
+- tens' p. ở hàng chục
+- thousands' p. ở hàng nghìn 
+@placeability
+* dt
+- (xây dựng) độ dễ đổ (vữa,  bêtông)
+ @placeable
+- xem place
+ @place-bet
+* dt
+- đánh cuộc một con ngựa sẽ chiếm một trong ba con đầu tiên qua cột đích
+ @placebo  
+*  dt,  số nhiều placebos  @place-brick  
+*  dt
+- gạch nung còn sống (do bị xếp ở phía lò có gió tạt)
+
+@place-card  
+*  dt
+- thiếp ghi chỗ ngồi (trong những buổi chiêu đãi long trọng...)
+
+@place-holder
+* dt
+- người có địa vị; nhân viên nhà nước
+ @placeholder
+- giữ chỗ
+ @place-hunter  
+*  dt
+- kẻ mưu cầu danh vọng, kẻ mưu cầu địa vị
+
+@place-kick  
+*  dt
+- (thể dục,thể thao) cú đặt bóng sút (bóng đá)
+
+@placeman  
+*  dt,  (thường), quổi viên chức được quan liêu cất nhắc
+
+@place-mat
+* dt
+- miếng vải để lót đựa ở bàn ăn
+ @placement
+* dt
+- sắp đặt, sắp xếp việc làm
+ @place-name
+* dt
+- địa điểm, địa danh
+ @placenta  
+*  dt,  số nhiều placentae  @placentae  
+*  dt,  số nhiều placentae  @placental
+* tt
+- (thuộc) nhau, có nhau (thai)
+ @placentalia
+* dt
+- số nhiều
+- (động vật học) thú có nhau
+ @placentate
+* tt
+- có nhau; có giá noãn
+ @placentation
+* dt
+- kiểu bám nhau
+- kiểu đính noãn
+ @placentiferous
+* tt
+- xem placentate
+ @placentigerous
+* tt
+- xem placentate
+ @placentitis
+* dt
+- (y học) viêm thai
+ @placer  
+*  dt
+- lớp sỏi cát có vàng
+
+@placering
+* dt
+- sự khai thác sa khoáng
+ @placer-mining
+* dt
+- việc khai thác sỏi có vàng
+ @place-setting
+* dt
+- bày dao, đựa  cho một người ăn
+ @placet  
+*  dt
+- sự biểu quyết "đông y" 
+*  thán từ
+- đồng ý! (trong khi biểu quyết)
+
++ non placet!: không đồng ý!
+
+@placid  
+*  tt
+- điềm tĩnh
+
+@placidity  
+*  dt
+- tính bình tĩnh, tính trầm tĩnh, tính trầm lặng, tính bình thản, tính thanh thản, tính dịu dàng, tính nhẹ nhàng
+
+@placidly
+* dt
+- yên lặng, bình yên, không bị khuấy động (cảnh vật); điềm tựnh (người)
+ @Placing
+- (Econ) Nghiệp vụ bày bán.
+: Một phương pháp thực hiện một cuộc phát hành mới về CHỨNG KHÓAN, CỔ PHẦN HOẶC TRÁI PHIẾU CÔNG TY, bằng phương pháp này các chứng khoán đầu tiên được một nhà phát hành mua, sau đó được bán thông qua thoả thuận tư nhân, cho các thể chế, các chủ đầu tư tư nhân vàcũng cho những người buôn bán cổ phần ở sở giao dịch chứng khoán London.
+ @placket  
+*  dt
+- túi váy
+
+@placket-hole  
+*  dt
+- miệng túi váy
+
+@placoid  
+*  tt
+- (động vật học) hình tấm (vây)
+- có vây hình tấm (cá)
+
+@plafond  
+*  dt
+- trần nhà, trần nhà có trang trí những bức hoạ
+- bức hoạ ở trần nhà
+
+@plagal
+* tt
+- (âm nhạc) kết chéo
+ @plage  
+*  dt
+- bâi biển (nơi tắm)
+
+@plagi-
+- hình thái ghép có nghĩa là nghiêng
+
++  plagiotropism:tính hướng nghiêng
+ @plagiarise   (plagiarise) @plagiarism  
+*  dt ((cũng) plagiary)
+- sự ăn cắp, ý, sự ăn cắp văn
+- ý ăn cắp, văn ăn cắp
+
+@plagiarist  
+*  dt
+- kẻ ăn cắp ý, kẻ ăn cắp văn ((cũng) plagiary)
+
+@plagiaristic
+- xem plagiarism
+ @plagiarize   (plagiarise) @plagiarizer
+- xem plagiarize
+ @plagiary  
+*  dt
+- (như) plagiarism
+- (như) plagiarist
+
+@plagio-
+- xem plagi-
+ @plagioclase  
+*  dt
+- (khoáng chất) Plagiocla
+
+@plagioclimax
+* dt
+- (sinh vật học) cao đỉnh tác động nhân tạo; cao đỉnh phá hoang
+ @plagiosere
+* dt
+- (sinh vật học) diễn thế phá hoang
+ @plagiotropic
+* dt
+- (thực vật học) hướng nghiêng; ăn nghiêng (rễ)
+ @plagiotropism
+* dt
+- (thực vật học) tính hướng nghiêng
+ @plagiotropous
+* tt
+- (thực vật học) hướng nghiêng
+ @plague  
+*  dt
+- bệnh dịch
+
++ the plague: bệnh dịch hạch ((cũng) bubonic plague)
+- tai hoạ
+
++ a plague of flies: tai hoạ ruồi
+- điều tệ hại, điều phiền phức, điều khó chịu; người gây tai hại, vật gây tai hại
+
++ what a plague this child is!: thằng bé này thật là tai hại!
+!plague on him!
+- quan ôn bắt nó đi!, trời tru đất diệt nó đi!
+*  ngdgt
+- gây bệnh dịch cho
+- gây tai hoạ cho, gây tai hại cho, gây tệ hại cho
+- (thông tục) làm phiền, quấy rầy, làm khó chịu
+
++ to plague someone with questions: cứ hỏi quấy rầy ai
+
+@plaguer
+- xem plague
+ @plague-ridden
+* tt
+- bị nhiễm dịch bệnh
+- gặp tai hoạ
+ @plaguesome  
+*  tt
+- (thông tục) rầy ra, phiền phức, khó chịu, tệ hại
+
+@plague-spot  
+*  dt
+- nốt bệnh dịch
+- vùng bị bệnh dịch
+- (nghĩa bóng) nguồn gốc của sự sa đoạ hư hỏng; triệu chứng của sự sa đoạ hư hỏng
+
+@plague-stricken
+* tt
+- bị nhiễm dịch bệnh
+- gặp tai hoạ
+ @plaguily
+- xem plaguy
+ @plaguy  
+*  tt
+- (từ cổ,nghĩa cổ) rầy rà, phiền phức, tệ hại
+- quá lắm, ghê gớm
+*  dt
+- (từ cổ,nghĩa cổ) hết sức, vô cùng, rất đỗi
+
++ to be plaguy glad to get back again: rất đỗi vui sướng lại được trở về
+
+@plaice  
+*  dt
+- (động vật học) cá bơn sao
+
+@plaid  
+*  dt
+- khăn choàng len sọc vuông; áo choàng len sọc vuông (của người Ê-cốt)
+- hàng len sọc vuông (để làm khăn choàng, may áo choàng)
+
+@plain  
+*  dt
+- đồng bằng
+*  tt
+- rõ ràng, rõ rệt
+
++ [as] plain as a pikestaff; as plain as daylight: rõ rành rành, rõ như ban ngày
+
++ to make something plain to someone: làm cho ai hiểu rõ điều gì
+- đơn giản, dễ hiểu
+
++ plain words: lời lẽ đơn giản dễ hiểu
+
++ plain style: văn giản dị
+- không viết bằng mật mã (điện tín...)
+- giản dị, thường; đơn sơ
+
++ plain food: thức ăn giản dị (thường)
+
++ a plain cook: một người đầu bếp thường (chỉ làm được những bữa ăn thường)
+
++ plain living and high thingking: cuộc sống thanh bạch nhưng cao thượng
+
++ plain furniture: bàn ghế đơn sơ giản dị
+- mộc mạc, chất phác, ngay thẳng; thẳng thắn
+
++ a plain man: một người mộc mạc chất phác
+
++ to be plain in one's criticism: thẳng thắn trong cách phê bình
+
++ plain answer: câu trả lời thẳng thắn
+- trơn, một màu
+
++ a dress of plain material: một ái dài bằng vải trơn
+- xấu, thô (cô gái...)
+*  dt
+- rõ ràng
+
++ to speak (write) plain: nói (viết) rõ ràng
+*  ndgt
+- (từ cổ,nghĩa cổ),  (thơ ca) than khóc, than van
+
+@plain cards  
+*  dt
+- những quân bài thường (không phải hoa chủ)
+
+@plain clothes  
+*  dt
+- quần áo thường (không phải áo nhà binh)
+
+@plain dealing  
+*  dt
+- sự chân thực; sự thẳng thắn
+
+@plain flour
+* dt
+- bột mì không có bột nở
+ @plain sailing  
+*  dt
+- sự thuận buồm xuôi gió ((nghĩa đen) & (nghĩa bóng))
+
+@plainchant
+* dt
+- loại nhạc nhà thờ thời trung cổ cho một số giọng cùng hát (nhà thờ Anh giáo, Thiên chúa giáo La mã)
+ @plain-clothes man  
+*  dt
+- công an mật; mật thám mặc quần áo thường dân
+
+@plainclothesman
+* dt
+- công an mật; mật thám mặc thường phục
+ @plain-laid
+* tt
+- gồm ba sợi xoắn lại từ trái sang phải (dây thừng)
+ @plainly  
+*  dt
+- rõ ràng
+- giản dị, đơn giản, mộc mạc, chất phác
+
++ to dress plainly: ăn mặc giản dị
+- thẳng thắn, không quanh co, không úp mở
+
++ to speak plainly: nói thẳng
+
+@plainness  
+*  dt
+- sự rõ ràng
+- sự giản dị, sự mộc mạc, sự chất phác
+- sự thẳng thắn; tính không quanh co, tính không úp mở
+- vẻ xấu xí
+
+@plains
+* tt
+- thuộc người da đỏ Bắc Mỹ vùng Đồng bằng Lớn
+ @plainsman  
+*  dt
+- người đồng bằng, người miền xuôi
+
+@plainsmen
+* dt
+- người đồng bằng, người miền xuôi
+ @plain-song  
+*  dt
+- bài đồng ca (ở nhà thờ)
+
+@plainsong
+- Cách viết khác : plainchant  
+ @plain-spoken  
+*  tt
+- nói thẳng, thẳng thắn, không úp mở, không quanh co
+
+@plaint  
+*  dt
+- (pháp lý) sự kiện cáo; sự tố cáo
+- (thơ ca) sự than vãn
+
+@plaintext
+* dt
+- hình thức có thể hiểu được của một văn bản được mã hoá
+ @plaintiff  
+*  dt
+- (pháp lý) nguyên đơn, người đứng kiện
+
+@plaintive  
+*  tt
+- than vãn, buồn bã, rầu rĩ, não nùng
+
+@plaintively
+* dt
+- than vãn, ai oán; nghe buồn rầu, xót thương
+ @plaintiveness
+* dt
+- sự than vãn, ai oán; sự buồn rầu
+ @plait  
+*  dt
+- đường xếp nếp gấp (ở quần áo) ((cũng) pleat)
+- bím tóc, đuôi sam; dây tết, dây bện; con cúi (bằng rơm...) ((cũng) plat)
+*  ngdgt
+- xếp nếp (quần áo) ((cũng) pleat)
+- tết, bện ((cũng) plat)
+
+@plaiter
+- xem plait
+ @plan  
+*  dt
+- sơ đồ, đồ án (nhà...)
+
++ the plan of building: sơ đồ một toà nhà
+- bản đồ thành phố, bản đồ
+- mặt phẳng (luật xa gần)
+- dàn bài, dàn ý (bài luận văn...)
+- kế hoạch; dự kiến, dự định
+
++ a plan of campaign: kế hoạch tác chiến
+
++ to upset someone's plan: làm đảo lộn kế hoạch của ai
+
++ have you any plans for tomorrow?: anh đã có dự kiến gì cho ngày mai chưa?
+- cách tiến hành, cách làm
+
++ the best plan would be to...: cách tiến hành tốt nhất là...
+*  ngdgt
+- vẻ bản đồ của, vẽ sơ đồ của (một toà nhà...)
+- làm dàn bài, làm dàn ý (bản luận văn...)
+- đặt kế hoạch, trù tính, dự tính, dự kiến
+
++ to plan to do something: dự định làm gì
+
++ to plan an attack: đặt kế hoạch cho một cuộc tấn công, trù tính một cuộc tấn công
+*  ndgt
+- đặt kế hoạch, trù tính, dự tính, dự kiến
+
++ to plan for the future: đặt kế hoạch cho tương lai, trù tính cho tương lai
+
+@plan-
+- hình thái ghép chỉ vận động, có thể vận động
+- planospore
+- bào tử động
+- hình thái ghép có nghĩa là phẳng
+
++  plano-concave:phẳng - lồi
+- hình thái ghép chỉ vận động, có thể vận động
+- planospore
+- bào tử động
+- hình thái ghép có nghĩa là phẳng
+
++  plano-concave:phẳng - lồi
+ @planar
+* tt
+- có mặt phẳng
+- hai chiều
+ @planar
+- phép chiếu nằm ngang; kế hoạch, phương án
+ @planar
+- phẳng
+ @planation
+* dt
+- (sinh vật học) sự hoá giẹp
+ @planch  
+*  dt
+- phiến đá mỏng, phiến kim loại mỏng
+
+@planchet  
+*  dt
+- mảnh kim loại tròn (để rập thành đồng tiền)
+
+@plane  
+*  dt
+- (thực vật học) cây tiêu huyền ((cũng) plane-tree,  platan)
+- cái bào
+*  ngdgt
+- bào (gỗ, kim loại...)
+- (từ cổ,nghĩa cổ) làm bằng phẳng, san bằng
+
++ to plane the way: san bằng con đường
+!to plane away
+!to plane down
+- bào nhẵn
+*  dt
+- mặt, mặt bằng, mặt phẳng
+
++ inclinedn plane: mặt nghiêng
+- cánh máy bay; máy bay
+- mặt tinh thể
+- (ngành mỏ) đường chính
+- (nghĩa bóng) mức, trình độ
+
++ plane of thought: trình độ tư tưởng
+
++ plane of knowledge: trình độ hiểu biết
+
++ on the same as animals: ở cùng một mức như thú vật, không khác gì thú vật
+*  ndgt
+- đi du lịch bằng máy bay
+- (: down) lướt xuống (máy bay)
+*  tt
+- bằng, bằng phẳng
+- (toán học) phẳng
+
++ plane figure: hình phẳng
+
+@plane
+- mặt phẳng   phẳng
+- p. at infinity mặt phẳng ở vô tận
+- p. of bending mặt phẳng uốn
+- p. of homology mặt phẳng thấu xạ
+- p. of load mặt phẳng tải trọng
+- p. of perpectivity mặt phẳng phối cảnh
+- p. of polarization mặt phẳng phân cực
+- p. of reference mặt phẳng quy chiếu
+- p. of regression (thống kê) mặt phẳng hồi quy
+- p. of support mặt phẳng tựa
+- p. of symmetry mặt phẳng đối xứng
+- asymptotic p. mặt phẳng tiệm cận
+- basic p. mặt phẳng cơ sở
+- bitangent p. mặt phẳng song tiếp
+- central p. mặt phẳng qua tâm
+- collinear p.s những mặt phẳng cộng tuyến 
+- complex p. mặt phẳng phức
+- conjugate diametric(al) p.s các mặt phẳng ảo liên hợp
+- coordinate p. mặt phẳng toạ độ
+- cut p. mặt phẳng cắt; (cơ học) mặt cắt 
+- diametral p. mặt phẳng kính
+- elliptic p. mặt phẳng eliptic
+- equatorial p. mặt phẳng xích đạo
+- equiamplitude p. mặt phẳng đẳng biên độ
+- equiphase p. mặt phẳng đẳng pha
+- extended p. mặt phẳng suy rộng (của biên phức)
+- focal p. mặt phẳng tiêu
+- hodograph p. mặt phẳng tốc đồ
+- horizontal p. mặt phẳng nằm ngang
+- hyperbolic p. mặt phẳng hipebolic
+- ideal p. mặt phẳng lý tưởng
+- imaginary p. mặt phẳng lý tưởng 
+- inclined p. mặt phẳng nghiêng
+- invariable p. mặt phẳng không đổi
+- isocline p. mặt phẳng nghiêng đều
+- isotropic p. mặt phẳng đẳng hướng
+- meridian p. mặt phẳng kinh tuyến
+- minimal p. mặt phẳng cực tiểu
+- neutral p. (cơ học) mặt phẳng trung hoà
+- nodal p. mặt phẳng mút 
+- null p. (hình học) mặt phẳng không
+- osculating p. mặt phẳng mật tiếp
+- parabolic p. mặt phẳng parabolic
+- parallel p.s các mặt phẳng song song 
+- perpendicular p.s các mặt phẳng thẳng góc 
+- picture p. (hình học) mặt ảnh
+- polar p. (hình học) mặt phẳng cực 
+- principal p. mặt phẳng chính; (cơ học) mặt phẳng đối xứng
+- principal coordinate p. mặt phẳng toạ độ chính
+- profile p. mặt phẳng bên
+- projection p. (hình học) mặt phẳng chiếu
+- projective p. (hình học) mặt phẳng xạ ảnh
+- pseudo-parallel p.s mặt phẳng giả song song 
+- punetured p. mặt phẳng bị chấm thủng
+- real p. mặt phẳng thực
+- rectifying p. (hình học) mặt phẳng trực đạc
+- regression p. mặt phẳng hồi quy
+- semi-perpendicular p.s các mặt phẳng nửa trực giao
+- singular p. mặt phẳng kỳ dị
+- stationary p. mặt phẳng dừng
+- stationary osculating p. mặt phẳng mật tiếp dừng
+- supporting p. (hình học) mặt phẳng tựa
+- symmetry p. mặt phẳng đối xứng
+- tangent p. mặt phẳng tiếp xúc, tiếp diện
+- tritangent p. tiếp diện bội ba 
+- unit p. mặt phẳng đơn vị
+- vanishing p. mặt phẳng biến mất
+- vertical p. mặt phẳng thẳng đứng 
+@plane chart  
+*  dt
+- bình đồ, hải đồ phẳng
+
+@plane geometry  
+*  dt
+- (toán học) hình học phẳng
+
+@planeform
+* dt
+- hình thức một vật nhìn từ trên cao xuống
+ @plane-iron  
+*  dt
+- lưỡi bào
+
+@planeness
+- xem plane
+ @plane-parallel
+* tt
+- (kỹ thuật) song phẳng
+ @plane-polarized
+* tt
+- phân cực phẳng
+ @planer  
+*  dt
+- thợ bào
+- máy bào
+
+@plane-sailing
+* dt
+- phương pháp xác định vị trí con tàu (con tàu như đang trên một mặt phẳng chứ không phải mặt cong của quả đất)
+ @plane-stock  
+*  dt
+- cán bào
+
+@planet  
+*  dt
+- (thiên văn học) hành tinh
+- (tôn giáo) áo lễ
+
+@planet
+- (thiên văn) hành tinh
+- inferior p. (thiên văn) hành tinh dưới
+- inner p. (thiên văn) hành tinh trong
+- minor p.s (thiên văn) tiểu hành tinh 
+- outer p. (thiên văn) hành tinh ngoài
+- principal p. (thiên văn) hành tinh chính, hành đại tinh 
+- secondary p. vệ tinh (tự nhiên)
+- superior p. (thiên văn) hành tinh trên 
+ @plane-table
+* dt
+- trắc địa kế (gồm có một bàn tròn có thiết bị ngắm xoay quanh một trục của các nhà trắc địa dùng để vẽ sơ đồ tại thực địa)
+ @planetaria  
+*  dt,  số nhiều planetaria  @planetarium  
+*  dt,  số nhiều planetaria  @planetary  
+*  tt
+- (thuộc) hành tinh
+
++ planetary system: hệ thống hành tinh
+- ở thế gian này, trần tục
+- đồng bóng, lúc thế này, lúc thế khác
+
+@planetary
+- (thuộc) hành tinh
+ @planetism
+* dt
+- (sinh vật học) hiện tượng di động @planetoid  
+*  dt
+- hành tinh nh
+
+@planetoidal
+- xem planetoid
+ @plane-tree  
+*  dt
+- (thực vật học) cây tiêu huyền ((cũng) plane)
+
+@planet-stricken   (planet-struck) @planet-struck   (planet-struck) @plangency  
+*  dt
+- tính vang, tính ngân vang (của âm thanh)
+- tính thảm thiết; tính than van, tính nài nỉ
+
+@plangent  
+*  tt
+- vang lên, ngân vang (tiếng)
+- thảm thiết; than van, nài nỉ
+
+@plangently
+* dt
+- ngân vang (âm thanh)
+- thể hiện sự buồn rầu, thảm thiết; than vãn (âm thanh)
+ @planiform
+* tt
+- dạng giẹp; dạng mặt phẳng
+ @planigraphy
+* dt
+- (kỹ thuật) sự chiếu chụp phẳng
+ @planimeter  
+*  dt
+- cái đo diện tích (mặt bằng)
+
+@planimeter
+- (máy tính) máy tính tích phân, máy tính diện tích
+- square root p. máy tính căn bậc hai 
+ @planimetric   (planimetrical) @planimetric
+- (thuộc) đo diện tích
+ @planimetrical   (planimetrical) @planimetrically
+- xem planimeter
+ @planimetry  
+*  tt
+- phép đo diện tích (mặt bằng)
+
+@planimetry
+- phép đo diện tích
+ @planing
+* dt
+- sự bào
+ @planipetalous  
+*  tt
+- (thực vật học) có cánh giẹp (hoa)
+
+@planish  
+*  ngdgt
+- đập dẹt (sắt tấm); cán dẹt (kim loại đúc tiền)
+- đánh bóng (vật gì); làm bóng (ảnh)
+
+@planisher  
+*  dt
+- thợ cán
+- máy cán
+
+@planisphere  
+*  dt
+- bình đồ địa cầu
+
+@planispheric
+- xem planisphere
+ @planispiral
+* tt
+- (kỹ thuật) xoắn phẳng
+ @planissimo  
+*  dt
+- (âm nhạc) cực nhẹ
+*  dt
+- (âm nhạc) đoạn nhạc rất nhẹ
+
+@plank  
+*  dt
+- tấm ván (thường là loại dài, bề dày từ 5 cm đến 15 cm, bề ngang từ 23 cm trở lên)
+- (nghĩa bóng) mục (một cương lĩnh)
+!to walk the plank
+- (xem) walk
+*  ngdgt
+- lát ván (sàn...)
+- (thông tục) ((thường) : down) đặt mạnh xuống, trả ngay
+
++ to plank down money: trả tiền ngay
+- (từ Mỹ,nghĩa Mỹ) nướng (cá, thịt...) bằng cặp chả
+
+@plank bed  
+*  dt
+- giường phản
+
+@planking  
+*  dt
+- ván (lát sàn...)
+- sàn gỗ ván
+
+@plankton  
+*  dt
+- (sinh vật học) sinh vật trôi nổi
+
+@planktonic
+- xem plankton
+ @planless
+* tt
+- không có kế hoạch
+ @planned  
+*  tt
+- có kế hoạch
+
++ planned production: sản xuất có kế hoạch
+
+@Planned economy
+- (Econ) Nền kinh tế kế hoạch hoá.
+: Một nền kinh tế trong đó các quá trình kinh tế chủ yếu được quyết định ở một mức độ lớn không phải do các tác nhân thị trường, mà do một cơ quan kế hoạch hoá kinh tế, cơ quan này thực hiện các mục tiêu kinh tế chủ yếu của xã hội.
+ @planner  
+*  dt
+- người đặt kế hoạch
+
+@planning
+* dt
+- sự lập kế hoạch (cho cái gì)
+- sự quy hoạch thành phố
+ @planning permission
+* dt
+- giấy phép xây dựng
+ @Planning programming budgeting system (PPBS)
+- (Econ) Hệ thống lập ngân sách theo chương trình kế hoạch hoá.
+: Xem OUTPUT BUDGETING
+ @plano-
+- xem plan-
+ @planoconcave  
+*  tt
+- phẳng lõm (thấu kính)
+
+@plano-conical
+* tt
+- phẳng nón
+ @planoconidium
+* dt
+- (sinh vật học) hạt đỉnh động
+ @planoconvex  
+*  tt
+- phẳng lồi (thấu kính)
+
+@planographic
+* tt
+- thuộc planography
+ @planography
+* dt
+- quá trình in từ mặt phẳng
+ @Planometrics
+- (Econ) Kế hoạch lượng.
+: Một nghành kinh tế học đặc biệt quan tâm đến việc xây dựng các kế hoạch kinh tế vĩ mô tối ưu.
+ @plant  
+*  dt
+- thực vật, cây (nhỏ)
+- sự mọc
+
++ in plant: đang mọc lên
+
++ to lose plant: chết lụi
+
++ to miss plant: không nẩy mầm được
+- dáng đứng, thế đứng
+- máy móc, thiết bị (của một nhà máy); nhà máy ((thường) là công nghiệp nặng)
+- (từ lóng) người gài vào (một tổ chức nào để làm tay trong); vật gài bí mật (vào nơi nào như bom, máy ghi âm...)
+*  ngdgt
+- trồng, gieo
+
++ to plant a tree: trồng cây
+
++ to plant seeds: gieo hạt
+
++ to plant a field with rice: trồng lúa trên một mảnh ruộng
+- cắm, đóng chặt xuống (cọc...)
+- dgt phân thân to plant oneself đứng (ở một chỗ nào để quan sát, dò xét...)
+- thả (cá con... xuống ao cá)
+- di (dân) đến ở... đưa (người) đến ở...
+
++ to plant people in a districk; to plant a districk with people: di dân đến ở một vùng
+- thiết lập, thành lập, đặt (một thành phố, ngôi chùa...)
+- gài (người...) lại làm tay trong; đặt (lính gác...), gài (bom, máy ghi âm...)
+- gieo (ý nghĩ...)
+
++ to plant an idea in someone's mind: gieo một ý nghĩ vào đầu ai
+- bắn, giáng, ném, đâm...
+
++ to plant a bullet in the target: bắn một viên đạn vào bia
+
++ to plant a blow on...: giáng một đòn vào...
+- bỏ rơi
+
++ to find oneself planted on a desert island: thấy mình bị bỏ rơi trên một đảo hoang
+- chôn (ai)
+- (từ lóng) giấu, oa trữ (hàng ăn cắp...)
+- (từ lóng) bỏ (cát vàng, quặng khoáng chất...) vào mỏ (để đánh lừa người định mua là mỏ có trữ lượng cao)
+- (từ lóng) tính (mưu kế lừa đảo)
+!to plant out
+- cấy, chuyển (ở chậu...) xuống đất
+
++ to plant out rice seedling: cấy mạ
+!to plant oneself on someone
+- ở lì mãi nhà ai
+
+@Plant bargaining
+- (Econ) Sự thương lượng ở một nhà máy.
+: THƯƠNG LƯỢNG TẬP THỂ giữa người chủ của một nhà máy với các đại diện của công nhân viên để thiết lập các mức lương và điều kiện làm việc ở nhà máy đó.
+ @planta
+* dt
+- (giải phẫu) bàn chân
+- đốt bàn (côn trùng)
+ @plantable  
+*  tt
+- có thể trồng được
+
+@plantain  
+*  dt
+- (thực vật học) cây mã đề
+*  dt
+- (thực vật học) cây chuối lá
+- quả chuối lá
+
+@plantar  
+*  tt
+- (giải phẫu) (thuộc) bàn chân
+
+@plantation  
+*  dt
+- vườn ươm
+- đồn điền (bông, cà phê...)
+- (sử học) sự di dân sang thuộc địa
+- (sử học) thuộc địa
+
+@plant-eating
+* tt
+- (nói về động vật) ăn cỏ
+ @planter  
+*  dt
+- chủ đồn điền
+- người trồng trọt
+- máy trồng
+
+@plant-feeder
+* dt
+- động vật ăn cỏ
+ @plant-food
+* dt
+- thức ăn thực vật; phân bón
+ @plantigrade  
+*  tt
+- (động vật học) đi bằng gan bàn chân
+*  dt
+- (động vật học) thú vật đi bằng gan bàn chân
+
+@plantlet
+* dt
+- cây non
+ @plant-louse  
+*  dt
+- rệp cây
+
+@plant-tissue
+* dt
+- mô thực vật
+ @plantula
+* dt
+- đệm vuốt bám (côn trùng)
+ @planula
+* dt
+- số nhiều plantulae
+- (sinh vật học) ấu trùng planula
+ @planular
+* tt
+- thuộc planula
+ @planuloid
+* tt
+- dạng planula
+ @planum
+* dt
+- mặt phẳng; tấm phẳng
+ @plaque  
+*  dt
+- tấm, bản (bằng đồng, sứ...)
+- thẻ, bài (bằng ngà... ghi chức tước...)
+- (y học) mảng (phát ban...)
+
+@plash  
+*  dt
+- vũng lầy, vũng nước
+- tiếng vỗ bì bõm, tiếng đập bì bộp (sóng, mái chèo khua nước...), tiếng rơi tõm (xuống nước)
+- cái nhảy tõm, cái rơi tõm (xuống nước)
+- vết vấy (bùn, máu...)
+*  ngdgt
+- vỗ bì bõm, đập bì bộp (mặt nước)
+- vấy tung toé, làm bắn tung toé (nước, bùn...)
+*  ndgt
+- vấy tung toé, bắn tung toé
+- ((thường) : through,  into) lội bì bõm (trong vũng lấy); roi tõm xuống, nhảy tõm xuống (ao...)
+*  ngdgt
+- vít xuống và ken (cành cây nhỏ...) thành hàng rào
+- ken cành nhỏ làm (hàng rào)
+
+@plashy  
+*  tt
+- đầy những vũng lầy; lầy lội
+- nghe bì bõm
+
++ the plashy ploughman was heard in the muddy field: người ta nghe bác thợ cày lội bì bõm trong ruộng lầy
+
+@plasm  
+*  dt
+- (sinh vật học) sinh chất; chất nguyên sinh ((cũng) plasma)
+
+@plasma  
+*  dt
+- (sinh vật học) huyết tương
+- (khoáng chất) thạch anh lục
+- (như) plasm
+
+@plasma
+- (vật lí) platma
+ @plasmacytes
+* dt
+- số nhiều
+- (y học) bạch cầu
+ @plasmagene
+* dt
+- (sinh vật học) gen tế bào; gen sinh chất
+ @plasmalemma
+* dt
+- màng tế bào, màng sinh chất
+ @plasmapheresis
+* dt
+- (y học) việc tách hồng huyết cầu khỏi dịch tương
+ @plasmatic  
+*  tt
+- (thuộc) huyết tương
+
+@plasmatogamy
+* dt
+- (sinh vật học) tích hợp chất nguyên sinh
+ @plasmatoparous
+* tt
+- (sinh vật học) sản xuất chất nguyên sinh
+ @plasmocyte
+* dt
+- (y học) bạch cầu
+ @plasmodesm
+* dt
+- số nhiều plasmodesmata
+- (sinh vật học) sợi liên bào (sợi nối tế bào)
+- cầu sinh chất
+ @plasmodesmid
+* dt
+- (sinh vật học) sợi hạt liên bào
+ @plasmodial
+- xem plasmodium
+ @plasmodium  
+*  dt
+- (sinh vật học) hợp bào
+- trùng sốt rét
+
+@plasmogamy
+* dt
+- (sinh vật học) tích hợp chất nguyên sinh
+ @plasmogen
+* dt
+- (sinh vật học) chất nguyên sinh; chất sống
+ @plasmolyse
+* ndgt
+- (sinh vật học) bị sự co nguyên sinh
+ @plasmolysis  
+*  dt
+- vữa (trát tường)
+- thuốc cao, thuốc dán
+!plaster of Paris
+- thạch cao (để nặn tượng, bó xương)
+
+@plasmolytic
+* tt
+- xem plasmolysis
+ @plasmolytically
+- xem plasmolysis
+ @plasmometric
+* tt
+- (sinh vật học) định lượng sinh chất
+ @plasmon
+* dt
+- gen nguyên sinh
+ @plasmosome
+* dt
+- (sinh vật học) hạt; thể nhân
+ @plasmotomy
+* dt
+- (sinh vật học) sự phân hợp bào
+ @plasmotype
+* dt
+- (sinh vật học) dạng chất nguyên sinh
+ @plassom
+* dt
+- (sinh vật học) chất tạo tế bào
+ @plaster  
+*  ngdgt
+- trát vữa (tường...); trát thạch cao
+- phết đầy, dán đầy, bôi đầy, làm dính đầy
+
++ a trunk plastered with labels: hòn dán đầy nhãn
+
++ to plaster someone with praise: (nghĩa bóng) khen ai quá mức, tâng bốc ai
+- dán thuốc cao, đắp thuốc cao (một cái nhọt...); dán lên, đắp lên
+-(đùa cợt) bồi thường, đến (một vết thương...)
+- xử lý (rượu) bằng thạch cao (cho bớt chua)
+!to plaster up
+- trát kín (một kẽ hở...)
+
+@plaster cast
+* dt
+- khuông bó bột; khuôn (để làm tượng nhỏ) làm bằng thạch cao
+ @plasterboard
+* dt
+- tấm vữa
+ @plastered
+* tt
+- say rượu
+ @plasterer  
+*  dt
+- thợ trát vữa
+
+@plastering
+* dt
+- việc trát vữa
+- lớp vữa trát
+ @plaster-work
+* dt
+- xem plastering
+ @plastery
+- xem plaster
+ @plastic  
+*  dt
+- chất dẻo ((cũng) plastics)
+*  tt
+- dẻo, nặn được
+- tạo hình
+
++ plastic arts: nghệ thuật tạo hình
+
++ plastic surgery: phẫu thuật tạo hình
+- (nghĩa bóng) mềm dẻo, mềm mỏng, hay chiều đời; dễ uốn nắn
+
+@plastic
+- dẻo   chất dẻo
+@plastic bomb  
+*  dt
+- bom plattic
+
+@plastic clay  
+*  dt
+- đất sét thịt, đất sét nặn
+
+@plastic explosive
+* dt
+- chất nổ plastic
+ @plastic money
+* dt
+- <thgt> thẻ tín dụng làm bằng chất dẻo
+ @plastic surgery
+* dt
+- phẫu thuật tạo hình
+ @plastically  
+*  dt
+- dẻo, mềm dẻo
+
+@plasticine  
+*  dt
+- chất dẻo platixin (thay thế cho đất sét nặn)
+
+@plasticity  
+*  dt
+- tính dẻo, tính mềm
+- tính tạo hình
+
+@plasticity
+- (vật lí) tính dẻo
+ @plasticization
+- xem plasticize
+ @plasticize  
+*  ngdgt
+- làm dẻo, làm mềm dẻo
+
+@plasticizer  
+*  dt
+- chất làm dẻo, chất làm mềm dẻo
+
+@plastid
+* dt
+- (sinh vật học) thể hạt
+ @plastidal
+* tt
+- thuộc plastid
+ @plastidome
+* dt
+- (sinh vật học) bộ thể hạt
+ @plastidotype
+* dt
+- (sinh vật học) kiểu thể hạt
+ @plastidule
+* dt
+- (sinh vật học) thể hạt nhỏ
+ @plastin
+* dt
+- (sinh vật học) plaxtin; chất hạt
+ @plastochondria
+* dt
+- (sinh vật học) thể sợi hạt
+ @plastocont
+* dt
+- (sinh vật học) thể hạt dạng que
+ @plastocyte
+* dt
+- (sinh vật học) tấm máu
+ @plastodeme
+* dt
+- (sinh vật học) nhóm cá thể tạo hình
+ @plastodesma
+* dt
+- số nhiều plastodesmata
+- (sinh vật học) cầu tạo hình
+ @plastogamy
+* dt
+- (sinh vật học) tích hợp chất nguyên sinh
+ @plastogen
+* dt
+- (sinh vật học) gen hạt
+ @plastokont
+* dt
+- (sinh vật học) thể hạt dạng que
+ @plastolysis
+* dt
+- (sinh vật học) sự tiêu thể hạt
+ @plastomere
+* dt
+- (sinh vật học) mảnh hạt
+ @plastorhexis
+* dt
+- (sinh vật học) sự phá vỡ thể hạt
+ @plastosome
+* dt
+- (sinh vật học) thể hạt
+ @plastral
+- xem plastron
+ @plastron  
+*  dt
+- giáp che ngực (có bọc da, của người đánh kiếm)
+- yếm áo (đàn bà); ngực sơ mi (có hồ cứng)
+- yếm rùa
+
+@plat  
+*  dt
+- (từ cổ,nghĩa cổ) mảnh đất, miếng đất
+- (từ Mỹ,nghĩa Mỹ) sơ đồ, bản đồ (miếng đất, nhà, thành phố...)
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) vẽ sơ đồ, vẽ bản đồ (miếng đất, toà nhà, thành phố...)
+*  dt
+- bím tóc, đuôi sam; dây tết, dây bện; con cúi (bằng rơm...) ((cũng) plait)
+*  ngdgt
+- tết, bện ((cũng) plait)
+*  dt
+- đĩa thức ăn
+
+@platan  
+*  dt
+- (thực vật học) cây tiêu huyền ((cũng) plane)
+
+@plate  
+*  dt
+- bản, tấm phiếu, lá (kim loại)
+
++ battery plate: bản ắc quy
+- biển, bảng (bằng đồng...)
+
++ number plate: biển số xe (ô tô...)
+- bản khắc kẽm; tranh khắc kẽm, bản đồ khắc kẽm; khuôn in (bằng chì...)
+- tấm kính ảnh, tấm kẽm chụp ảnh (thay cho phim)
+- (kiến trúc) đòn ngang; thanh ngang
+
++ roof plate: đòn móc
+
++ window plate: thanh ngang khung cửa sổ
+- đĩa (để đựng thức ăn); đĩa thức ăn
+
++ a plate of beef: một đĩa thịt bò
+- (dt tập thể số ít) bát đĩa bằng vàng bạc
+- đĩa thu tiền quyên (ở nhà thờ)
+- cúp vàng, cúp bạc; cuộc đua tranh cúp vàng; cuộc đua ngựa tranh cúp vàng)
+- lợi giả (để cắm răng giả)
+- đường ray ((cũng) plate rail)
+- (ngành in) bát chữ
+*  ngdgt
+- bọc sắt, bọc kim loại
+
++ to plate a ship: bọc sắt một chiếc tàu
+- mạ
+
++ to plate something with gold (silver): mạ vàng (bạc) vật gì
+- (ngành in) sắp chữ thành bát
+
+@plate
+- bản, tấm
+- index p. (máy tính) mặt số
+- plane p. tấm phẳng, bản phẳng
+- quarter-wave p. (vật lí) bản phần tư sóng
+- rectangular p. bản hình chữ nhật
+- reiforced p. tấm được gia cố
+- semi-infinite p. bản nửa vô hạn 
+ @plateau  
+*  dt,  số nhiều plateaux  @plateaux  
+*  dt,  số nhiều plateaux  @plate-basket  
+*  dt
+- giỏ đựng thìa đĩa...
+
+@plated  
+*  tt
+- bọc sắt, bọc kim loại
+- mạ; mạ vàng, mạ bạc
+
++ plated ware: đồ mạ vàng, đồ mạ bạc
+
+@plateful  
+*  dt
+- đĩa (đầy)
+
+@plate-glass  
+*  dt
+- tấm kính day (tủ bày hàng...); tấm gương
+
+@platelayer  
+*  dt
+- công nhân đặt và sửa đường ray
+
+@platelaying
+* dt
+- sự đặt đường ray
+ @platelet
+* dt
+- <y> tiểu huyết cầu (chất nhỏ hình đựa ở trong máu giúp máu đóng cục)
+ @plate-maker
+* dt
+- máy để làm bản kẽm in
+ @plate-mark  
+*  dt
+- dấu bảo đảm tuổi vàng (bạc)
+- dấu in lan ra lề (tranh ảnh in bản kẽm)
+
+@platen  
+*  dt
+- (ngành in) tấm ấn giấy
+- trục (cuốn giấy ở máy chữ)
+
+@plate-powder  
+*  dt
+- bột đánh đồ bạc
+
+@plater  
+*  dt
+- thợ mạ
+- công nhân bọc vỏ tàu
+- ngựa đua loại kém
+
+@plate-rack  
+*  dt
+- chạn bát đĩa
+
+@platform  
+*  dt
+- nền, bục, bệ
+- sân ga
+- chỗ đứng ở hai đầu toa (xe lửa...)
+- chỗ đứng (xe khách...)
+
++ entrance platform of a bus: chỗ đứng ở cửa vào xe buýt
+- bục giảng, bục diễn thuyết, diễn đàn
+- (nghĩa bóng) (the platform) thuật nói, thuật diễn thuyết
+- (nghĩa bóng) cương lĩnh chính trị (của một đảng)
+*  ngdgt
+- đặt trên nền, đặt trên bục
+*  ndgt
+- nói trên bục, diễn thuyết trên diễn đàn
+
+@platformist
+* dt
+- người diễn thuyết trên diễn đàn
+ @plathelmintha
+* dt
+- số nhiều
+- (động vật học) giun dẹp
+ @platiculture
+* dt
+- (sinh vật học) sự cấy trên bản kính
+ @plating  
+*  dt
+- sự bọc sắt (một chiếc tàu)
+- lớp mạ; thuật mạ
+- cuộc đua lấy cúp vàng
+- (ngành in) sự sắp bát ch
+
+@platinic  
+*  tt
+- (hoá học) Platinic
+
++ platinic acid: axit platinic
+
+@platiniferous  
+*  tt
+- có chất platin
+
+@platinisation
+* dt
+- sự mạ platin
+ @platinise   (platinise) @platinite
+* dt
+- (kỹ thuật) platinit (hợp kim)
+ @platinization  
+*  dt
+- sự mạ platin
+
+@platinize   (platinise) @platinoid  
+*  dt
+- platinoit (hợp kim)
+
+@platinous  
+*  tt
+- (hoá học) (thuộc) platin
+
+@platinum  
+*  dt
+- platin, bạch kim
+
+@platinum black  
+*  dt
+- muội platin
+
+@platinum blonde  
+*  dt
+- (thực vật học) cô gái tóc vàng bạch kim
+
+@platinum foil  
+*  dt
+- lá platin
+
+@platinum metal  
+*  dt
+- kim loại có platin
+
+@platitude  
+*  dt
+- tính vô vị, tính tầm thường, tính nhàm
+- lời nói vô vị, lời nói tầm thường, lời nói nhàm
+
+@platitudinarian  
+*  dt
+- người nói những điều vô vị, người nói những điều tầm thường, người nói những điều nhàm
+*  tt
+- vô vị, tầm thường, nhàm
+
+@platitudinize  
+*  ndgt
+- nói những điều vô vị, nói những điều tầm thường, nói những điều nhàm
+
+@platitudinous  
+*  tt
+- vô vị, tầm thường, nhàm
+
+@platitudinously
+- xem platitude
+ @platly
+* dt
+- minh bạch; rõ ràng; thẳng thắn
+ @Plato
+- (Econ) (427-347BC)
+: Nhà triết học Hy Lạp đã phản ứng lại thời kỳ rối ren trước đay và ông cho rằng chính sự tăng trưởng kinh tế chịu một phần trách nhiệm về sự rối ren đó, nên ông đã đề xuất ý kiến rằng nhà nước lý tưởng phải là một nhà nước vững vàng dựa trên một hệ thống đẳng cấp và giai cấp thống trị thực hiện một cách sống mang tính cộng đồng. Thành tựu kinh tế của ông bao gồm sự phân tích sự phân công lao động và phân tích vai trò của tiền quy ứơc.
+ @platonic  
+*  tt
+- của Pla-ton, thuộc Pla-ton
+- lý tưởng thuần khiết
+
++ platonic love: tình yêu lý tưởng thuần khiết (đối lại với nhục dục)
+- (thông tục) lý thuyết, không thiết thực, suông
+
+@platonics  
+*  dt số nhiều
+- quan hệ yêu đương lý tưởng thuần khiết
+- chuyện trò yêu đương lý tưởng thuần khiết
+
+@platonise   (Platonise) @platonism  
+*  dt
+- (triết học) học thuyết Pla-ton
+
+@platonist  
+*  dt
+- người theo học thuyết Pla-ton
+
+@platonize   (Platonise) @platonum
+* dt
+- (hoá học) platin, bạch kim
+ @platoon  
+*  dt
+- (quân sự) trung đội (bộ binh)
+
+@platotude
+* dt
+- nhận xét, lời nói bình thường, nhàm (đặc biệt do một người trang trọng nói ra)
+ @platten
+* ngdgt
+- làm phẳng @platter  
+*  dt
+- (từ cổ,nghĩa cổ),  (từ Mỹ,nghĩa Mỹ) đĩa gỗ (đựng thức ăn)
+
+@platy
+* tt
+- dẹt (như) cái đĩa
+ @platycephalic
+* tt
+- (sinh vật học) thuộc đầu bẹt, thuộc sọ bẹt
+ @platydactyl
+* tt
+- có ngón dẹt
+ @platyhelminth
+* dt
+- (động vật học) sán lá
+ @platykurtic
+- (thống kê) có độ nhọn dưới chuẩn
+ @platypus  
+*  dt
+- (động vật học) thú mỏ vịt
+
+@platyrrhine
+* tt
+- có mũi tẹt
+ @platyrrhinian
+* tt
+- có mũi tẹt
+* dt
+- người mũi tẹt
+ @plaudit  
+*  dt,  (thường) số nhiều
+- tràng pháo tay hon hô
+- sự hoan hô nhiệt liệt
+
+@plauditory
+* tt
+- hoan hô; tán tụng
+ @plausibility  
+*  dt
+- sự có vẻ hợp lý, sự có vẻ đúng
+- sự có vẻ ngay thẳng, sự có vẻ đáng tin cậy
+
+@plausibility
+- tính có lý lẽ
+ @plausible  
+*  tt
+- có vẻ hợp lý, có vẻ đúng (lời nói, lý lẽ)
+
++ a plausible argument: một lý lẽ có vẻ hợp lý
+- nói có vẻ ngay thẳng; nói có vẻ đáng tin cậy (người)
+
+@plausible
+- có lý lẽ
+ @plausibleness
+- xem plausible
+ @plausibly
+* dt
+- hợp lý, đáng tin cậy
+- có miệng lưỡi khéo léo
+ @play  
+*  dt
+- sự vui chơi, sự nô đùa, sự đùa giỡn; trò chơi, trò đùa
+
++ to be at play: đang chơi, đang nô đùa
+
++ to say something in play: nói chơi (nói đùa) điều gì
+
++ out of mere play: chỉ là chơi, chỉ là đùa
+
++ a play of words: lối chơi chữ; tài dùng chữ
+
++ a play on words: lối chơi chữ, lối nói mập mờ
+
++ child's play: trò chơi trẻ con; (nghĩa bóng) trò hề, việc ngon ơ
+- (thể dục,thể thao) sự đấu, sự chơi; trận đấu; cách chơi, lối chơi
+
++ the play began at three o'clock: trận đấu bắt đầu lúc ba giờ
+
++ to win the match by good play: thắng trận đấu nhờ lối chơi hay
+- (nghĩa bóng) lối chơi, cách xử sự
+
++ fair play: lối chơi ngay thẳng; (nghĩa bóng) cách xử sự công bình, cách xử sự ngay thẳng
+- sự đánh bạc, trò cờ bạc
+
++ to be ruined by play: khánh kiệt vì cờ bạc
+
++ the play runs high: cờ bạc đánh to
+- kịch, vở kịch, vở tuồng
+
++ to go to the play: đi xem kịch
+
++  shakespeare's plays: những vở kịch của Sếch-xpia
+- sự giỡn, sự lung linh, sự lấp lánh, sự óng ánh, sự nhấp nhô, sự tung tăng
+
++ the play of moonlight on water: ánh trăng lấp lánh trên mặt nước
+
++ play of light: ánh sáng lung linh, ánh sáng lấp lánh
+
++ play of colour: màu sắc óng ánh
+
++ play of the waves: sóng nhấp nhô
+- sự hoạt động; phạm vi hoạt động; sự vận dụng, sự sử dụng
+
++ in full play: đang hoạt động mạnh
+
++ to come into play: bắt đầu hoạt động; bắt đầu có hiệu lực
+
++ to bring (call) into play: phát huy
+
++ to give full play to one's imagination: để cho tưởng tượng tự do phiêu diêu, thả hồn theo tưởng tượng
+- (kỹ thuật) sự chuyển vận, sự vận hành (của một bộ phận máy); sự xoay chuyển; phạm vi xoay chuyển; cách chạy
+
++ bolts should have a centimeter of play: chốt phải có một khoảng xê dịch một xentimet mới được
+- (kỹ thuật) sự jơ, sự long, sự xộc xệch; chỗ jơ, chỗ long, chỗ xộc xệch; khe hở, độ hở
+
++ a play in the wheel: chỗ long ở bánh xe, chỗ jơ ở bánh xe
+- sự nghỉ việc (của công nhân lúc đình công)
+*  ndgt
+- chơi, nô đùa, đùa giỡn
+
++ to play with children: nô đùa với trẻ con, chơi với trẻ con
+
++ to play with love: đùa với tình yêu
+- chơi, đánh (đàn...), thổi (sáo...)...
+
++ to play at cards: chơi bài, đánh bài
+
++ to play at chess: chơi cờ, đánh cờ
+
++ to play on the piano: chơi đàn pianô, đánh đàn pianô
+
++ to play upon words: chơi chi, nói lập lờ
+- (thể dục,thể thao) chơi, đánh, đá... (hay, dở...); chơi được (sân, bãi)
+
++ to play well: chơi hay, đánh hay, đá hay...
+
++ the ground plays well today: sân hôm nay chơi tốt
+- đánh bạc
+
++ to play high: đánh lớn; đánh những quân bài cao
+- đóng trong kịch, tuồng...); biểu diễn
+
++ to play in a film: đóng trong một phim
+
++ to play in Hamles: đóng trong vở Hăm-lét
+- nã vào (súng); phun vào (vòi cứu hoả)
+
++ guns begin to play on the walls: súng đạn lớn bắt đầu nã vào những bức tường thành
+
++ fire-engines play on the fire: xe chữa cháy phun vào đám cháy
+- giỡn, lung linh, lấp lánh, óng ánh, lóng lánh, chập chờn, nhấp nhô
+
++ smile plays about lips: nụ cười thoáng (giỡn) trên môi
+
++ moonlight plays on water: ánh trăng lấp lánh trên mặt nước
+- (nghĩa bóng) xử sự, ăn ở
+
++ to play foul: chơi xấu, chơi ăn gian; (nghĩa bóng) xử sự không ngay thẳng, gian lận
+- (kỹ thuật) chạy, chuyển vận, vận hành, xoay dễ dàng... (bộ phận máy)
+- nghỉ việc, không làm việc (công nhân đình công)
+*  ngdgt
+- (thể dục,thể thao) chơi, đánh, đá...
+
++ to play football: đá bóng chơi bóng đá
+
++ to play tennis: chơi quần vợt, đánh quần vợt
+
++ to play chess: đánh cờ
+- (âm nhạc) chơi, đánh, kéo, thổi...
+
++ to play the piano: chơi pianô, đánh pianô
+
++ to play the violon: kéo viôlông
+
++ to play the flute: thổi sáo
+- đánh (một quả bóng), đánh ra (một quân bài); đi (một quân cờ)
+
++ to play the ball into the net: đánh quả bóng vào lưới
+- (thể dục,thể thao) thi đấu với, đấu
+
++ to play the best team: đâu với đội hay nhất
+
++ to play a match: đâu một trận
+
++ to play somebody at chess: đánh cờ với ai
+- (thể dục,thể thao) chọn (ai) vào chơi...; cho (ai) vào chơi... (trong đội)
+
++ to play someone as goalkeeper: chọn ai làm người giữ gôn
+- đóng, đóng vai, diễn (kịch...), biểu diễn (bản nhạc...); giả làm (để đùa chơi)
+
++ to play Hamlet: đóng vai Hăm-lét
+
++ to play a tragedy: diễn một vở kịch
+
++ let's play that we are soldiers: chúng ta giả làm bộ đội chơi nào
+- xử sự như là
+
++ to play truant: trốn học
+- làm chơi, xỏ chơi (ai, một vố)
+
++ to play a trick upon somebody; to play somebody a trick: xỏ chơi ai một vố
+- nả (súng...), chiếu (đèn pha...), phun (nước)
+
++ to play guns on the walls: nã súng lớn vào những bức tường thành
+
++ to play water on the fire: phun nước vào đám cháy
+- giật, giật dây câu cho mệt (cá)
+
++ to play a fish: giật giật dây câu cho mệt cá
+!to play at
+- chơi (cờ, bóng đá, bài...)
+- giả làm, làm ra bộ (để đùa chơi)
+
++ to play at soldiers: giả làm bộ đội chơi
+- (nghĩa bóng) làm miễn cưỡng, làm tắc trách (việc gì)
+!to play in
+- cử nhạc đón (khách, khán giả...) vào
+!to play off
+- làm cho (ai) lộ rõ ở thế bất lợi, làm cho (ai) lộ rõ nhược điểm
+- kích (ai... chống lại ai)
+
++ to play off somebody against another: kích ai chống lại lại ai (để có lợi cho mình)
+- đánh tráo, đánh lộn sòng (cái gì...)
+
++ to play off something as something else: đánh tráo (đánh lộn sòng) cái gì với cái gì khác
+- (thể dục,thể thao) đấu lại để quyết định (một trận đấu hoà...)
+!to play on
+- lợi dụng
+
++ to play on someone's credulity: lợi dụng lòng cả tin của ai
+- (thể dục,thể thao) đánh bóng vào gôn bên mình (crickê)
+!to play out
+- cử nhạc tiễn đưa
+
++ the orchestra plays the audience out: ban nhạc cử nhạc tiễn đưa khán giả ra về
+!to play up
+- (: to) (sân khấu) đóng cốt để làm nổi bật diễn xuất (của một diễn viên khác)
+
++ to play up to someone: đóng cốt để làm nổi bật diễn xuất của ai
+- (nghĩa bóng) nịnh, tâng bốc
+- trêu chọc (chòng ghẹo) làm (ai) phát cáu
+- (từ Mỹ,nghĩa Mỹ) lợi dụng (cái gì)
+- (thể dục,thể thao) chơi tận tình
+!to play upon
+!to play on to play booty
+- (xem) booty
+!to play by ear
+- đánh đàn mò (nhớ lỏm, không biết nhạc)
+!to play one's cards well
+- (xem) card
+!to play the deuce (devil) with
+- phá hoại; làm hỏng bét cả; chơi xỏ một vố
+!to play ducks ans drakes with
+- (xem) duck
+!to play someone false
+- (xem) false
+!to play fast and loose
+- (xem) fast
+!to play first (second) fiddle
+- (xem) fiddle
+!to play the game
+- chơi đúng thể lệ quy định
+- (nghĩa bóng) chơi ngay thẳng, xử sự ngay thẳng
+!to play a good knife and fork
+- (xem) knife
+!to play bell (the mischief)
+- gieo tai hoạ, tàn phá, phá phách
+!to play one's hand for all it is worth
+- triệt để lợi dụng cơ hội; sử dụng mọi phương tiện, dùng đủ mọi cách
+!to play into the hands of somebody
+- làm lợi cho ai, làm cho ai hưởng, làm cỗ cho ai ăn
+!to play it on somebody
+!to play it low on somebody
+- (từ lóng) lợi dụng ai một cách ti tiện
+!to play the man
+- cư xử đúng phẩm cách con người
+!to play the market
+- (từ Mỹ,nghĩa Mỹ) đầu cơ chứng khoán
+!to play for time
+- chơi kéo dài thời gian, làm kế hoãn binh
+- cố tranh thủ thời gian
+
+@play
+- (lý thuyết trò chơi) trò chơi, cuộc đấu
+ @playability
+- xem play
+ @playable  
+*  tt
+- có thể chơi được (sân bóng...)
+
+@play-act  
+*  ndgt
+- giả dối, màu mè, vờ vịt, "đóng kịch" ((nghĩa bóng))
+
+@play-acting
+* dt
+- việc đóng kịch; sự giả vờ (nhất là vể tình cảm)
+ @play-actor  
+*  dt
+- (nghĩa xấu) kép hát
+- người giả dối, người không thành thật, người vờ vịt, người "đóng kịch" ((nghĩa bóng))
+
+@playback  
+*  dt
+- sự quay lại, sự phát lại (dây thu tiếng, đĩa hát...)
+- (kỹ thuật) bộ phận phát lại (tiếng thu...)
+- đĩa thu; cuộn dây thu (quay lại nghe lần đầu tiên)
+
+@play-back
+* dt
+- (kỹ thuật) bộ phận phát lại (của máy ghi âm); sự phát lại âm thanh đã thu (dây thu tiếng, đĩa hát...)
+- đĩa thu; cuộn dây thu (quay lại nghe lần đầu tiên)
+ @playbill  
+*  dt
+- áp phích quảng cáo, tuồng kịch
+- (từ Mỹ,nghĩa Mỹ) chương trình biểu diễn (tuồng kịch...)
+
+@playbook
+* dt
+- sách tiêu khiển, sách giải trí
+ @play-boy  
+*  dt
+- kẻ ham vui; người ăn chơi
+
+@playboy
+* dt
+- kẻ ăn chơi
+ @play-by-play  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) play-by-play story bài phóng sự trên đài phát thanh; bài tường thuật trên đài phát thanh
+
+@play-day  
+*  dt
+- ngày nghỉ học
+- ngày nghỉ (của công nhân trong tuần)
+
+@play-debt  
+*  dt
+- nợ cờ bạc
+
+@played-out  
+*  tt
+- mòn xơ ra
+- mệt lử, mệt phờ ra
+
+@player  
+*  dt
+- (thể dục,thể thao) cầu thủ, đấu thủ
+- nhạc sĩ (biểu diễn)
+- (sân khấu) diễn viên
+- cầu thủ nhà nghề (crickê, bóng chày)
+
++ Gentlemen versus Players: đội không chuyên đấu với đội nhà nghề
+- người đánh bạc
+
+@player
+- (lý thuyết trò chơi) người chơi, đấu thú
+- maximizing p. người chơi lấy cực đại
+- minimizing p. người chơi lấy cực tiểu 
+ @player-piano  
+*  dt
+- pianô tự động
+
+@playfellow   (playmate) @play-field   (play-field) @playful  
+*  tt
+- hay vui đùa, hay đùa, hay nghịch, hay khôi hài
+
+@playfully
+* dt
+- ham vui đùa, khôi hài
+- vừa làm vừa vui đùa; không nghiêm túc
+ @playfulness  
+*  dt
+- tính vui đùa, tính hay đùa, hay nghịch, tính hay khôi hài
+
+@playgame  
+*  dt
+- trò đùa, trò trẻ, chuyện không đáng kể
+
++ to be a playgame in comparison: đem so sánh thì chỉ là một trò đùa
+
+@play-girl  
+*  dt
+- cô gái ăn chơi
+
+@playgoer  
+*  dt
+- người hay đi xem hát
+
+@playgoing
+- xem playgoer
+ @playground  
+*  dt
+- sân chơi, sân thể thao (trường học)
+!the playground of Europe
+- nước Thuỵ sĩ
+
+@playgroup
+* dt
+- nhóm mẫu giáo (nhóm trẻ dưới tuổi đi học, gặp nhau đều đặn, chơi cùng nhau dưới sự giám sát của người lớn)
+ @playhouse  
+*  dt
+- nhà hát, rạp hát
+- (từ Mỹ,nghĩa Mỹ) nhà chơi của trẻ em
+
+@play-house
+* dt
+- nhà hát, rạp hát
+- <Mỹ> nhà chơi của trẻ em
+ @playing-card  
+*  dt
+- quân bài; bài (để chơi)
+
+@playing-field   (play-field) @playlet  
+*  dt
+- kịch ngắn
+
+@play-let
+* dt
+- vở kịch ngắn
+ @playlist
+* dt
+- danh sách các buổi trình diễn sẽ được thực hiện trong chương trình phát thanh
+ @playmate   (playmate) @play-off  
+*  dt
+- thể trận đấu lại (sau một trận đấu hoà)
+
+@play-pen
+* dt
+- xe cũi đẩy (cho em bé)
+ @play-room
+* dt
+- phòng (trong một căn nhà) cho trẻ em chơi
+ @playschool
+* dt
+- nhóm mẫu giáo (nhóm trẻ dưới tuổi đi học, gặp nhau đều đặn, chơi cùng nhau dưới sự giám sát của người lớn)
+ @playsuit
+* dt
+- quần áo mặc để chơi
+ @playtherapy  
+*  dt
+- phép chữa bệnh bằng trò chơi
+
+@plaything  
+*  dt
+- đồ chơi ((nghĩa đen) & (nghĩa bóng))
+
++ to be treated as a plaything: bị coi như một đồ chơi
+
+@playtime  
+*  dt
+- giờ ra chơi (ở trường học)
+
+@playwright  
+*  dt
+- nhà soạn kịch, nhà soạn tuồng hát
+
+@plaza  
+*  dt
+- quảng trường; nơi họp chợ (tại các thành phố ở Tây ban nha)
+
+@plc
+* dt(PLC)
+- vt của Public Limited Company (Công ty trách nhiệm hữu hạn)
+ @plea  
+*  dt
+- (pháp lý) lời tự bào chữa, lời tự biện hộ (của bị cáo); sự cãi, sự biện hộ (cho bị cáo)
+
++ to submit the plea that...: tự bào chữa (biện hộ) rằng...
+- sự yêu cầu, sự cầu xin
+
++ a plea for mercy: sự xin khoan dung
+- cớ
+
++ on the plea of: lấy cớ là
+- (sử học) việc kiện, sự tố tụng
+
+@pleach  
+*  ngdgt
+- bện lại, tết lại với nhau
+
+@plead  
+*  ndgt pleaded  @pleadable
+- xem plead
+ @pleader  
+*  dt
+- luật sư, người biện h
+
+@pleading  
+*  dt
+- sự biện hộ, sự bào chữa
+- (số nhiều) biên bản lời biện hộ (của hai bên)
+- sự cầu xin, sự nài xin
+
+@pleadingly  
+*  dt
+- bào chữa, biện hộ
+- với giọng cầu xin, với giọng nài xin
+
+@pleadings
+* dt, pl
+- (luật pháp) biên bản bào chữa
+ @pleasance  
+*  dt
+- (từ cổ,nghĩa cổ) nguồn vui; sự vui thú, điều vui thích
+- vườn dạo chơi (cạnh biệt thự; chủ yếu dùng trong tên địa điểm)
+
+@pleasant  
+*  tt
+- vui vẻ, dễ thương (người...)
+
++ a pleasant companion: người bạn vui vẻ dễ thương
+
++ pleasant manner: thái độ vui vẻ dễ thương
+- dễ chịu, thú vị, làm thích ý, vừa ý, đẹp hay, vui, êm đềm, dịu dàng
+
++ a pleasant evening: một buổi tối thú vị
+
++ a pleasant story: một câu chuyện thú vị; một câu chuyện hay
+
++ a pleasant voice: giọng nói dịu dàng
+
++ pleasant weather: tiết trời dễ chịu, tiết trời đẹp
+- (từ cổ,nghĩa cổ) hay vui đùa, hay pha trò, hay khôi hài
+
+@pleasantly
+* dt
+- vui vẻ, dễ thương
+- làm thích thú, thú vị, dễ chịu; dịu dàng, thân mật
+- (từ cổ, nghĩa cổ) hay pha trò, hay khôi hài
+ @pleasantness  
+*  dt
+- tính vui vẻ, tính dễ thương
+- sự dễ chịu, sự thú vị
+
+@pleasantry  
+*  dt
+- tính hay đùa cợt, tính hay pha trò, tính hay khôi hài
+- lời đùa cợt, lời pha trò
+
+@please  
+*  dgt
+- làm vui lòng, làm hài lòng, làm vừa lòng, làm vừa ý; làm thích, làm vui
+
++ to please the eye: làm vui mắt, làm thích mắt
+
++ to please one's parents: làm vui lòng cha mẹ
+
++ to be pleased with: hài lòng với, vui lòng với
+
++ to be pleased to do something: vui lòng làm gì
+- thích, muốn
+
++ please yourself: anh thích gì xin cứ làm, xin anh cứ làm theo ý muốn
+
++ take as many as you please: anh muốn bao nhiêu xin cứ lấy
+!if you please; please
+- mong ông (bà...) làm ơn (ngụ ý lễ phép, tôn kính)
+
++ please tell me: mong ông vui lòng cho tôi biết
+
++ please sit down: xin mời ngồi
+!now, if you please
+-(mỉa mai) anh thử nghĩ mà xem, anh thử tưởng tượng xem
+
++ and now, if you please, he expects me to pay for it!: anh thử tưởng tượng xem, hắn ta lại đợi tôi trả tiền cơ!
+!please God
+- lạy Chúa!, lạy trời!
+!please the pigs
+- (xem) pig
+![may it] please your honour
+- mong ngài vui lòng cho, mong ngài hạ cố cho, ngài rủ lòng cho
+
+@pleased
+* tt
+- hài lòng (thể hiện sự thoả mãn về ai @pleaser
+- xem please
+ @pleasing  
+*  tt
+- dễ chịu, thú vị, làm vui lòng, làm vừa ý
+
+@pleasingly
+* dt
+- mang lại niềm vui thích (cho ai @pleasingness
+- xem pleasing
+ @pleasurability
+- xem pleasurable
+ @pleasurable  
+*  tt
+- dễ chịu, thú vị, làm vui lòng, làm vừa ý
+
+@pleasurableness
+- xem pleasurable
+ @pleasurably
+* dt
+- mang lại niềm vui thích; thích thú
+ @pleasure  
+*  dt
+- niềm vui thích, điều thích thú, điều thú vị, điều vui thú, điều khoái trá
+
++ a day of pleasure: một ngày vui thú
+
++ it's a pleasure to...: thật là thú vị được...
+
++ to take pleasure in...: thích thú với...
+
++ with pleasure: xin vui lòng, rất hân hạnh
+- khoái lạc, hoan lạc; sự ăn chơi truỵ lạc
+
++ a life given up to pleasure: cuộc sống ăn chơi truỵ lạc
+
++ a man of pleasure: một người ưa khoái lạc, một người ăn chơi truỵ lạc
+- ý muốn, ý thích
+
++ what's your pleasure, sir?: (thương nghiệp) thưa ông muốn mua gì ạ?, thưa ông cần gì ạ?
+
++ I shall not consult his pleasure: tôi sẽ không hỏi ý muốn của hắn ta
+
++ at pleasure: tuỳ ý, tuỳ ý muốn, tuỳ ý thích
+
++ at someone's pleasure: tuỳ ý muốn của ai
+
++ that can be postponed during our pleasure: việc đó có thể để chậm lâu chừng nào tuỳ theo ý muốn của chúng ta
+*  ngdgt
+- làm vui lòng, làm vui thích, làm vừa ý (ai)
+*  ndgt
+- (: in) thích thú với, vui thích với, thú vị với
+
++ to pleasure in something: thích thú với cái gì
+
++ to pleasure in doing something: thích thú làm cái gì
+
+@pleasure-boat  
+*  dt
+- tàu du lịch, tàu đi chơi
+
+@pleasure-craft
+* dt
+- tàu chỉ dùng để đi chơi
+ @pleasure-garden
+* dt
+- vườn cảnh; vườn kiểng
+* dt
+- vườn cảnh; vườn kiểng
+ @pleasure-ground  
+*  dt
+- sân chơi
+- công viên; nơi dạo chơi
+
+@pleasure-house
+* dt
+- nhà nghỉ mát, nhà an dưỡng
+ @pleasure-lady
+* dt
+- gái làng chơi
+ @pleasureless
+- xem pleasure
+ @pleasure-seeking
+* tt
+- ham mê, khoái lạc
+ @pleasure-trip
+* dt
+- cuộc du ngoạn
+ @pleat  
+*  dt
+- đường xếp, nếp gấp (ở quần áo) ((cũng) plait)
+*  ngdgt
+- xếp nếp ((cũng) plait)
+
+@pleater
+- xem pleat
+ @pleb  
+*  dt
+- (từ lóng), ((viết tắt) của plebeian) người bình dân, người thuộc tầng lớp nghèo
+
+@plebe  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) học sinh năm thứ nhất trường lục quân; học sinh năm thứ nhất trường hải quân
+
+@plebeian  
+*  dt
+- người bình dân ((từ cổ,nghĩa cổ) La-mã)
+- người bình dân, người thuộc tầng lớp nghèo
+*  tt
+- bình dân, hạ lưu
+- tầm thường, thô lỗ, đê tiện
+
++ plebeian tastes: những sở thích tầm thường
+
+@plebeianise
+- Cách viết khác : plebeianize 
+ @plebeianism
+- xem plebeian
+ @plebeianize
+- xem plebeianise
+ @plebeianly
+- xem plebeian
+ @plebiscitary  
+*  tt
+- (thuộc) cuộc trưng cầu ý dân
+
+@plebiscite  
+*  dt
+- cuộc bỏ phiếu toàn dân
+
+@plebs
+* dt
+- số nhiều plebes
+- (sử học) bình dân La Mã
+ @plecopteran
+* dt
+- (động vật học) sâu bọ cánh úp
+* tt
+- (động vật học) thuộc sâu bọ cánh úp
+ @plectognath
+* dt
+- bộ cá nóc
+* tt
+- thuộc bộ cá nóc
+ @plectra   (plectra) @plectron
+* tt
+- (sinh vật học) dạng búa
+ @plectrum   (plectra) @pled  
+*  ndgt pleaded  @pledge  
+*  dt
+- của đợ, của tin, của thế nợ, vật cầm cố; sự cầm cố, tình trạng bị cầm cố
+
++ deposited as a pledge: để làm của tin
+
++ to put something in pledge: đem cầm cố cái gì
+
++ to take something out of pledge: chuộc cái gì ra
+- vật bảo đảm, việc bảo đảm, bằng chứng; (nghĩa bóng) đứa con (vật bảo đảm cho tình yêu của đôi vợ chồng)
+
++ a pledge of love: điều đảm bảo cho tình yêu
+- sự chuộc rượu mừng, sự nâng cốc mừng sức khoẻ
+- lời hứa, lời cam kết;, lời cam kết của rượu mạnh
+
++ under pledge of secrecy: hứa giữ bí mật
+
++ to take (sign, keep) the pledge: cam kết chừa rượu mạnh
+*  ngdgt
+- cầm cố, đợ, thế
+- hứa, cam kết, nguyện
+
++ to pledge one's word; to pledge one's honour: hứa cam kết
+
++ to pledge oneself to secrecy: hứa giữ bí mật
+
++ to pledge to remain all one's life faithful to...: nguyện suốt đời trung thành với...
+- uống mừng chúc sức khoẻ, nâng cốc chúc sức khoẻ (ai)
+
+@pledge
+- (toán kinh tế) cầm cố
+ @pledge-cup
+* dt
+- chén rượu chúc mừng
+ @pledgee  
+*  dt
+- người nhận đồ cầm cố, người nhận của đ
+
+@pledger  
+*  dt
+- người đi cầm, người đi thế n
+
+@pledget  
+*  dt
+- (y học) gạc, miếng gạc
+
+@pleiad  
+*  dt,  số nhiều Pleiades  @pleiades  
+*  dt,  số nhiều Pleiades  @pleinairist
+* dt
+- phái hoạ sĩ vẽ ngoài trời
+ @pleio-
+- hình thái ghép có nghĩa là nhiều
+- pleiocylic
+- có nhiều chu kỳ
+- pleogamy
+- tính thụ phấn nhiều đợt
+- hình thái ghép có nghĩa là nhiều
+- pleiocylic
+- có nhiều chu kỳ
+- pleogamy
+- tính thụ phấn nhiều đợt
+ @pleioblastic
+* tt
+- nhiều phôi bào; nhiều mầm
+ @pleiochasim
+* dt
+- (sinh vật học) xim nhiều ngả
+ @pleiocotyl
+* dt
+- (thực vật học) cây nhiều lá mầm
+ @pleiocotyledonary
+* tt
+- (thực vật học) nhiều lá mầm
+ @pleiocotyledony
+* dt
+- (thực vật học) tính nhiều lá mầm
+ @pleiocyclic
+* tt
+- (sinh vật học) nhiều chu kỳ; nhiều vụ
+ @pleiomerous
+* tt
+- (sinh vật học) nhiều mẫu số
+ @pleiomery
+* dt
+- (sinh vật học) tính nhiều mẫu số
+ @pleiomorphic
+* tt
+- nhiều hình; đa hình
+ @pleiomorphism
+* dt
+- hiện tượng pleiomorphic
+ @pleiomorphous
+* tt
+- xem pleiomorphic
+ @pleiopetalous
+* tt
+- (thực vật học) nhiều cánh tràng
+ @pleiophyllous
+* tt
+- (thực vật học) nhiều lá
+ @pleiosporous
+* tt
+- (thực vật học) nhiều bào tử
+ @pleiotaxis
+* dt
+- tính nhiều mẫu, tính nhiều vòng (lá, hoa)
+ @pleiotaxy
+* dt
+- xem pleiotaxis
+ @pleiotropic
+* tt
+- nhiều hướng, nhiều tính trạng, nhiều tác động
+ @pleiotropism
+* dt
+- tính nhiều hướng
+ @pleiotropy
+* dt
+- xem pleiotropic
+ @pleistocene  
+*  dt
+- (địa lý,địa chất) thế pleitoxen
+
+@pleistoseist
+* dt
+- khu vực tai hoạ địa chấn dữ dội nhất
+ @plenarily
+- xem plenary
+ @plenariness
+- xem plenary
+ @plenary  
+*  tt
+- đầy đủ, nguyên vẹn, hoàn toàn (không hạn chế)
+
++ plenary power: toàn quyền
+- toàn thể
+
++ plenary assembly: phiên họp toàn thể
+
+@plenilunar
+* tt
+- thuộc trăng tròn
+ @plenilunary
+* tt
+- xem plenilunar
+ @plenilune
+* dt
+- lúc trăng tròn
+ @plenipotentiary  
+*  tt
+- toàn quyền
+
++ ambassador extraordinary and plenipotentiary: đại sứ đặc mệnh toàn quyền
+- hoàn toàn, tuyệt đối (quyền hành...)
+
++ plenipotentiary power: toàn quyền
+*  dt
+- đại diện toàn quyền; đại sứ đặc mệnh toàn quyền
+
+@plenish
+* ngdgt
+- (Scotland) làm cho đầy
+- nuôi gia súc (ở nông trường)
+ @plenism
+* dt
+- thuyết cho không gian tràn đầy vật chất
+ @plenitude  
+*  dt
+- sự đầy đủ, sự sung túc, sự phong ph
+
+@plenitudinous
+- xem plenitude
+ @plenteous   (plenteous) @plenteously
+* dt
+- sung túc, phong phú, dồi dào; số lương lớn
+ @plenteousness  
+*  dt
+- sự sung túc, sự phong phú, sự dồi dào
+
+@plentiful   (plenteous) @plentifully
+* dt
+- sung túc, phong phú, dồi dào; số lương lớn
+ @plentifulness
+- xem plentiful
+ @plenty  
+*  dt
+- sự sung túc, sự phong phú, sự dồi dào, sự có nhiều
+
++ to have plenty of money: có nhiều tiền
+
++ we are in plenty of time: chúng ta còn có nhiều thì giờ
+
++ to live in plenty: sống sung túc
+
++ here is cake in plenty: có nhiều bánh ngọt, bánh ngọt dồi dào
+!horn of plenty
+- sừng dê kết hoa quả (tượng trưng cho sự phong phú)
+*  dt
+- (thông tục) hoàn toàn, rất lắm
+
++ it's plenty large enough: thế là to lắm rồi
+
+@plenum  
+*  dt
+- (vật lý) khoảng đầy (một chất gì, ngược với khoảng trống)
+- phiên họp toàn thể
+!plenum system
+- hệ thống thông gió vào
+
+@pleo-
+- xem pleio-
+ @pleochroic  
+*  tt
+- nhiều màu
+
+@pleochroism   (pleochromatism) @pleochromatic
+* tt
+- đổi màu theo môi trường, đổi màu theo sinh lý
+ @pleochromatism   (pleochromatism) @pleogamic
+* tt
+- thụ phấn nhiều đợt; thụ phấn bổ khuyết
+ @pleogamy
+* dt
+- xem pleogamic
+ @pleomastia
+* dt
+- (sinh vật học) tật nhiều vú
+ @pleometrotic
+* tt
+- (sinh vật học) tạo đàn nhiều mẹ, tạo đàn nhiều chúa; hình thành đàn nhiều mẹ, hình thành nhiều chúa
+ @pleomorphic  
+*  tt
+- (hoá học) nhiều hình (tinh thể)
+
+@pleomorphism  
+*  dt
+- (hoá học) tính nhiều hình (tinh thể)
+
+@pleon
+* dt
+- phần bụng (vỏ giáp)
+ @pleonasm  
+*  dt
+- (văn học) hiện tượng thừa từ, hiện tượng thừa lời
+
+@pleonastic  
+*  tt
+- (văn học) thừa từ, thừa lời
+
+@pleonastically
+- xem pleonasm
+ @pleophagous
+* tt
+- ăn tạp; ăn nhiều loại
+ @pleophyletic
+* tt
+- nhiều dạng tổ tiên; nhiều nguồn
+ @pleopod
+* dt
+- (động vật học) chân bơi
+- phần phụ bụng (vỏ giáp)
+ @pleotrophic
+* tt
+- xem pleophagous
+ @pleotrophy
+* dt
+- xem pleophagy
+ @plerocercoid
+* dt
+- ấu trùng kết nang vô tính
+ @plerocestoid
+* dt
+- xem plerocercoid
+ @plerome
+* dt
+- lõi phân sinh ngọn, mô phân sinh ngọn
+ @plerotic
+* tt
+- (sinh vật học) chứa căng; chứa đầy
+ @plesiobiosis
+* dt
+- đời sống chung; sự ở chung, sự cộng cư
+ @plesiobiotic
+* tt
+- sống chung; ở chung; cộng cư
+ @plesiomorphous
+* tt
+- (sinh vật học) có dạng chung
+ @plesiops
+* dt
+- (động vật học) cá đông
+ @plesiosauri  
+*  dt,  số nhiều plesiosaurus  @plesiosaurus  
+*  dt,  số nhiều plesiosaurus  @plesiotype
+* dt
+- kiểu gần giữa chính loài, kiểu liên quan chính loài
+ @plethora  
+*  dt
+- (y học) trạng thái quá thừa (máu...)
+- (nghĩa bóng) trạng thái quá thừa thãi
+
+@plethoric  
+*  tt
+- (y học) quá thừa (máu)
+- (nghĩa bóng) quá thừa thãi
+
+@plethorically
+- xem plethoric
+ @plethysmogram
+* dt
+- (sinh vật học) thể tích đồ; biểu đồ thể tích
+ @plethysmograph
+* dt
+- (sinh vật học) máy ghi thể tích
+* dt
+- (sinh vật học) máy ghi thể tích
+ @pleur-
+- hình thái ghép
+- màng phổi
+
++  pleuro-pneumonia:viêm phổi - màng phổi
+- bên cạnh
+- pleurodont
+- có răng cạnh
+- hình thái ghép
+- màng phổi
+
++  pleuro-pneumonia:viêm phổi - màng phổi
+- bên cạnh
+- pleurodont
+- có răng cạnh
+ @pleura  
+*  dt,  số nhiều pleurae  @pleurae  
+*  dt,  số nhiều pleurae  @pleural  
+*  tt
+- (giải phẫu) (thuộc) màng phổi
+
+@pleuralgia
+* dt
+- (y học) đau màng phổi
+ @pleuralia
+* dt
+- số nhiều
+- (động vật học) bộ gai bảo vệ
+ @pleuranthous
+* tt
+- (thực vật học) có cụm hoa bên
+ @pleurisy  
+*  dt
+- (y học) viêm màng phổi
+
+@pleurite
+* dt
+- mảnh cứng bên
+ @pleuritic  
+*  tt
+- (y học) (thuộc) viêm màng phổi
+
+@pleuro-
+- xem pleur-
+ @pleuroblastic
+* tt
+- (sinh vật học) thuộc chồi bên
+ @pleurobranchiae
+* dt
+- (động vật học) tấm mang bên
+ @pleurocarpic
+* tt
+- thuộc thể quả bên
+ @pleurocarpous
+* tt
+- có thể quả bên
+ @pleuroccipital
+* tt
+- (giải phẫu) bên chẩm
+ @pleurocentesis
+* dt
+- sự chọc dò màng phổi
+ @pleurocerebral
+* tt
+- thuộc hạch não bên
+ @pleurodynia  
+*  dt
+- (y học) chứng đau nhói ngực
+
+@pleurolith
+* dt
+- sỏi màng phổi
+ @pleuro-pneumonia  
+*  dt
+- (y học) viêm phổi màng phổi
+
+@pleuston
+* dt
+- thực vật trôi nổi tự do
+ @plexal
+* tt
+- thuộc búi, thuộc đám rối
+ @plexiform  
+*  tt
+- (giải phẫu) hình đám rối
+
+@plexiglass  
+*  dt
+- thuỷ tinh plêxi,  plêxiglat
+
+@pleximeter  
+*  dt
+- (y học) tấm gõ, tấm đệm gõ (để nghe bệnh) ((cũng) plextor)
+
+@pleximetric
+- xem pleximeter
+ @pleximetry
+- xem pleximeter
+ @plexor  
+*  dt
+- (y học) búa gõ (để gõ vào tấm gõ) ((xem) pleximeter)
+
+@plexus  
+*  dt
+- (giải phẫu) đám rối
+
++ pulmonary plexus: đám rối phổi
+
++ solar plexus: đám rối dương
+- mạng lưới chằng chịt; điều rắc rối, điều phức tạp
+
+@pliability   (pliancy) @pliable   (pliant) @pliableness
+- xem pliable
+ @pliably
+- xem pliable
+ @pliancy   (pliancy) @pliant   (pliant) @pliantly
+* dt
+- dễ uốn, nắn hình, dễ xoắn, mềm dẻo (da )
+- dễ uốn nắn, dễ bảo; dễ bị tác động, ảnh hưởng (người)
+ @pliantness
+- xem pliant
+ @plica  
+*  dt,  số nhiều plicae  @plicae  
+*  dt,  số nhiều plicae  @plical
+- xem plica
+ @plicate   (plicated) @plicated   (plicated) @plicately
+- xem plicate
+ @plicateness
+- xem plicate
+ @plication  
+*  dt
+- sự uốn nếp, trạng thái uốn nếp
+- (địa lý,địa chất) nếp uốn
+
+@pliers  
+*  dt số nhiều
+- cái kìm
+
+@plight  
+*  dt
+- hoàn cảnh, cảnh ngộ (khốn khổ, tuyệt vọng...)
+
++ to be in a sad (sorry) plight: ở trong hoàn cảnh đáng buồn
+
++ to be in a hopeless plight: ở trong hoàn cảnh tuyệt vọng
+- (văn học) lời hứa, lời cam kết, lời thề nguyền (giữa đôi trai gái...)
+*  ngdgt
+- văn hứa hẹn, cam kết, thề nguyền
+
++ to plight one's faith: hứa hẹn trung thành
+
++ plighted word: lời hứa hẹn, lời cam kết, lời thề nguyền
+*  dgt phân thân
+- hứa hôn
+
++ to plight oneself to someone: hứa hôn với ai
+
++ plighted lovers: những người hứa hôn với nhau
+
+@plighter
+- xem plight
+ @plim  
+*  ngdgt
+- (tiếng địa phương) làm phình ra, làm phồng ra, làm căng phồng
+*  ndgt
+- (tiếng địa phương) phình ra, phồng ra, căng phồng
+
+@plimsoll  
+*  dt
+- plimsoll line; plimsoll's mark (hàng hải) vạch Plim-xon (chỉ mức chở tối đa, vẽ quanh vỏ tàu)
+
+@plimsoll line
+* dt
+- vạch tải trọng (vạch đánh dấu trên vỏ tàu để đánh dấu mức tối đa mà nó có thể chìm xuống khi chất hàng hoá)
+ @plimsolls  
+*  dt số nhiều
+- giày vải đế cao su rẻ tiền
+
+@plink
+* dgt
+- làm kêu lanh canh
+* dt
+- tiếng kêu lanh canh
+ @plinth  
+*  dt
+- chân cột (hình vuông)
+- chân tường (nhô ra)
+
+@plinthite  
+*  dt
+- đất sét đ
+
+@plio-
+- xem pleio-
+ @pliocence  
+*  dt
+- (địa lý,địa chất) thế plioxen
+
+@pliosaurus
+* dt
+- (cổ-sinh vật học) thằn lằn gò
+ @plo
+* (viết tắt)
+- tổ chức giải phóng Palestine (Palestine  Liberation  Organization)
+ @plod  
+*  dt
+- bước đi nặng nề, bước đi khó nhọc
+- công việc khó nhọc
+*  ndgt
+- ((thường) : on,  along) đi nặng nề, lê bước khó nhọc
+- (: at) làm cần cù, làm cật lực, làm rán sức
+*  ngdgt
+- lê bước đi
+
++ to plod one's way: lê bước đi một quâng đường
+
+@plodder  
+*  dt
+- người đi nặng nề, người lê bước
+- người làm cần cù, người làm cật lực
+
+@plodding
+* tt
+- đi nặng nề khó nhọc, lê bước đi
+- cần cù, rán sức, cật lực
+ @ploddingly  
+*  dt
+- đi nặng nề khó nhọc, lê bước đi
+- cần cù, cật lực, rán sức
+
+@plonk  
+*  ngdgt
+- (từ lóng) ném, vứt, quẳng liệng
+*  dt
+- (Uc) (thông tục) rượu tồi, rượu rẻ tiền
+
+@plonkie
+* dt
+- (từ lóng) người nghiện rượu
+ @plop  
+*  dt
+- tiếng rơi tõm (xuống nước); cái rơi tõm (xuống nước)
+*  dt
+- tõm, rơi tõm một cái
+*  ngdgt
+- làm rơi tõm
+*  ndgt
+- rơi tõm
+
+@plosive  
+*  tt
+- (ngôn ngữ học) bật (âm)
+*  dt
+- (ngôn ngữ học) âm bật
+
+@plot  
+*  dt
+- mảnh đất nhỏ, miếng đất
+
++ a plot of vegetable: miếng đất trồng rau
+- tình tiết, cốt truyện (kịch, tiểu thuyết...)
+- (từ Mỹ,nghĩa Mỹ) sơ đồ, đồ thị, biểu đồ, đồ án
+- âm mưu, mưu đồ
+
++ to hatch a plot: ngấm ngầm bày mưu lập kế
+*  ngdgt
+- vẽ sơ đồ, vẽ đồ thị, vẽ biểu đồ, dựng đồ án (một công trình xây dựng...)
+- đánh dấu trên cơ sở, đánh dấu trên đồ án
+- âm mưu, mưu tính, bày mưu
+
++ to plot a crime: âm mưu tội ác
+*  ndgt
+- âm mưu, bày mưu
+
++ to plot against someone: âm mưu ám hại ai (chống lại ai)
+!to plot out
+- chia thành mảnh nh
+
+@plot
+- biểu đồ, đồ thị; (lý thuyết trò chơi) kế hoạch chơi
+ @plotless  
+*  tt
+- không tình tiết, không có cốt truyện (kịch, tiểu thuyết...)
+
+@plotlessness
+- xem plot
+ @plotomat
+- (máy tính) dụng cụ vẽ tự động các đường cong
+ @plotter  
+*  dt
+- kẻ âm mưu, kẻ bày mưu
+
+@plotter
+- (máy tính) cái vẽ đường cong; máy ghi toạ độ
+- digital point p. cái vẽ đường cong theo điểm
+- function p. (máy tính) cái vẽ đồ thị của hàm 
+- incremental p. cái vẽ đường cong theo điểm 
+ @plotting paper  
+*  dt
+- giấy vẽ đồ thị
+
+@plough   (plow) @ploughable
+- Cách viết khác : plowable 
+ @plough-beam  
+*  dt
+- bắp cày
+
+@plough-boy  
+*  dt
+- em nhỏ phụ cày (dẫn, ngựa cày)
+
+@plough-horse  
+*  dt
+- ngựa cày
+
+@plough-land  
+*  dt
+- đất cày được
+- (sử học) suất cày (diện tích cày hằng năm của một cỗ bò 8 con theo tục xưa ở Anh)
+
+@ploughman  
+*  dt
+- người cày, thợ cày
+
+@ploughman's lunch
+* dt
+- cơm thợ cày (gồm bánh mì, phó mát, rau giấm và bia)
+ @ploughpoint
+* dt
+- mũi cày
+ @ploughshare  
+*  dt
+- lưỡi cày
+
+@plough-tail  
+*  dt
+- cán cày
+- (nghĩa bóng) công việc cày bừa, công việc đồng áng
+
++ at the plough-tail: làm công việc đồng áng
+
+@ploughwise
+* dt
+- theo lối đường cày
+ @ploughwright
+* dt
+- thợ làm cày, thợ sửa cày
+ @plouter
+* ngdgt
+- làm tắc trách
+- lội bùn
+ @plover  
+*  dt
+- (động vật học) chim choi choi
+
+@plow   (plow) @plowable
+- xem ploughable
+ @plower
+- xem plow
+ @plowman
+* dt
+- người cày, thợ cày
+ @plowshare
+* dt
+- lưỡi cày
+ @ploy  
+*  dt
+- (Ê-cốt) chuyến đi
+- (Ê-cốt) công việc
+- (từ Mỹ,nghĩa Mỹ) trò giải trí; thích thú riêng
+- (từ Mỹ,nghĩa Mỹ) khoé, thủ đoạn
+
++ diplomate ploy: thủ đoạn ngoại giao
+
++ propaganda ploy: thủ đoạn tuyên truyền
+- cuộc trác tráng, cuộc truy hoan; trò nhậu nhẹt
+
+@pluck  
+*  dt
+- sự giật, sự kéo, cái giật, cái kéo
+
++ to give a pluck at someone's sleeve: giật tay áo ai một cái
+- sự nhổ (lông, tóc...), sự bức, sự hái (hoa, quả)
+- sự gảy (đàn), sự búng
+- bộ lòng (tim, gan, phổi của con vật làm thịt)
+- sự gan dạ, sự can trường
+
++ a man of pluck: người gan dạ, người can trường
+
++ to have plenty of pluck: rất gan dạ, rất can trường
+- sự đánh trượt, sự đánh hỏng (một thí sinh); sự thi hỏng, sự thi trượt
+*  ngdgt
+- nhổ, bức hái
+
++ to pluck weeds: nhổ cỏ dại
+
++ to pluck flowers: hái hoa
+- nhổ lông, vặt lông (chim)
+- gẩy, búng (đàn, dây đàn)
+- lừa đảo, lừa gạt; bóc lột của cải "vặt lông"  (nghĩa bóng)
+
++ to pluck a pigeon "vặt lông" một anh ngốc: đánh trượt, đánh hỏng (một thí sinh)
+- (từ cổ,nghĩa cổ) (: away) kéo, giật
+*  ndgt
+- ((thường) : at) kéo, giật
+!to pluck up one's heart (spirits, courage)
+- lấy hết can đảm
+
+@plucked  
+*  tt
+- gan dạ, can trường
+
+@plucker
+- xem pluck
+ @pluckily
+* dt
+- tỏ ra gan dạ, can trường
+ @pluckiness
+- xem plucky
+ @pluckless  
+*  tt
+- không gan dạ, không can trường
+
+@plucky  
+*  tt
+- gan dạ, can trường
+
+@plug  
+*  dt
+- nút (chậu sứ rửa mặt, bể nước...)
+- (kỹ thuật) chốt
+- (điện học) cái phít
+
++ three-pin plug: phít ba đầu, phít ba chạc
+
++ two-pin: phít hai đầu, phít hai chạc
+- đầu ống, đầu vòi (để bắt vòi nước vào lấy nước)
+- Buji
+- (địa lý,địa chất) đá nút (đá phun trào bít kín miệng núi lửa)
+- bánh thuốc lá, thuốc lá bánh; miếng thuốc lá nhai (cắt ở bánh thuốc lá)
+- (từ lóng) cú đấm, cú thoi
+- (từ lóng) sách không bán được
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ngựa tồi, ngựa xấu
+*  ngdgt
+- ((thường) : up) bít lại bằng nút; nút lại
+
++ to plug a hole: bít lỗ bằng nút
+- (từ lóng) thoi, thụi, đấm
+- (từ lóng) cho ăn đạn, cho ăn kẹo đồng
+- (thông tục) nhai nhải mâi để cố phổ biến (cái gì...)
+
++ to plug a song: hát nhai nhải mâi để cố phổ biến một bài hát
+*  ndgt
+- (: away at) (thông tục) rán sức, cần cù (làm một việc gì); học gạo, "cày" ((nghĩa bóng))
+!to plug in
+- (điện học) cắm phít
+
+@plug
+- (máy tính) cái phíc; cái phíc hai đầu, cái chốt
+ @plug-back
+* dt
+- sự trám, sự trát (khoan dò)
+ @plug-board
+* dt
+- (điện học) bảng phích cắm
+- bảng tổng đài
+ @plugboard
+- (máy tính) cái đảo mạch có phíc, bảng cắm (điện)
+ @plug-chain  
+*  dt
+- dây nút (ở chậu sứ rửa mặt, chậu tắm...); dây giật nước (nhà xí máy)
+
+@plugger
+- xem plug
+ @plugging
+* dt
+- sự nút, sự bịt kín
+ @plug-hole
+* dt
+- lỗ tháo nước <Mỹ>
+ @plug-ugly  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) du côn, lưu manh
+
+@plum  
+*  dt
+- quả mận
+- (thực vật học) cây mận ((cũng) plum tree)
+- nho khô (để làm bánh ngọt...)
+- (nghĩa bóng) vật chọn lọc, vật tốt nhất; món bở
+- (từ lóng) mười vạn bảng Anh
+
+@plum cake  
+*  dt
+- bánh ngọt nho khô
+
+@plum duff  
+*  dt
+- bánh putđinh nho khô
+
+@plumage  
+*  dt
+- bộ lông (chim gà vịt)
+
+@plumaged
+- xem plumage
+ @plumassier  
+*  dt
+- người bán lông chim
+- người làm lông chim (dể trang trí)
+
+@plumb  
+*  dt
+- quả dọi
+- dây dọi; dây dò nước
+- thế thẳng đứng, độ ngay (của tường...)
+
++ out of plumb: không thẳng đứng, không ngay, xiên
+*  tt
+- thẳng đứng, ngay
+
++ a plumb wall: bức tường thẳng đứng
+- (nghĩa bóng) hoàn toàn, đích thật
+
++ plumb nonsense: điều hoàn toàn vô lý
+*  dt
+- thẳng đứng, ngay
+- (nghĩa bóng) đúng, ngay
+
++ plumb in the centre: ngay ở giữa, đúng ở giữa
+- (từ lóng) hoàn toàn, thật đúng là
+
++ plumb crazy: hoàn toàn điên rồ, thật đúng là điên
+*  ngdgt
+- dò độ sâu (biển, sông...) bằng dây dò; đo (độ sâu) bằng dây dò
+- (nghĩa bóng) dò, thăm dò, dò xét
+
++ to plumb a mystery: dò xét một điều bí ẩn
+- làm thẳng đứng (bức tường...)
+*  ndgt
+- làm nghề hàn chì
+
+@plumb
+- quả dọi; dây dọi;   [đặt, vẽ] thẳng góc
+@plumbable
+- xem plumb
+ @plumbaginous  
+*  tt
+- có than chì
+
+@plumbago  
+*  dt
+- than chì,  grafit
+- (thực vật học) cây đuôi công
+
+@plumb-bob
+* dt
+- hòn chì của dây dọi
+ @plumbean
+* tt
+- thuộc chì; như chì
+- nặng như chì
+ @plumbeous  
+*  tt
+- (thuộc) chì; như chì; láng như chì
+
+@plumber  
+*  dt
+- thợ hàn chì
+
+@plumbery  
+*  dt
+- nghề hàn chì
+- xưởng hàn chì
+
+@plumbic  
+*  tt
+- (hoá học) (thuộc) chì plumbic
+- (y học) bị nhiễm độc chì
+
+@plumbiferous
+* tt
+- chứa chì
+ @plumbing  
+*  dt
+- nghề hàn chì; thuật hàn chì
+- đồ hàn chì (ống nước, bể chứa nước)
+- sự đo độ sâu (của biển...)
+
+@plumbism  
+*  dt
+- (y học) chứng nhiễm độc chì
+
+@plumb-joint
+* dt
+- chổ nối bằng chì
+ @plumbless  
+*  tt
+- rất sâu, sâu không dò được
+
+@plumb-line  
+*  dt
+- dây dọi, dây chì
+- (nghĩa bóng) tiêu chuẩn
+
+@plumbous
+* tt
+- chứa chì
+ @plumb-rule
+* dt
+- qui tắc dây dọi
+ @plume  
+*  dt
+- lông chim, lông vũ
+- chùm lông (để trang sức)
+- vật giống lông chim, vật nhẹ như lông chim; (động vật học) cấu tạo hình lông chim
+
++ a plume of smoke: chùm khói
+!in borrowed plumes
+- (nghĩa bóng) khoác bộ cánh đi mượn, sáo mượn lông công
+*  ngdgt
+- trang sức bằng lông chim; giắt lông chim, giắt chùm lông chim (lên mũ...)
+- rỉa (lông) (chim...)
+
++ pth to plume oneself: khoác bộ cánh đi mượn
+
++ pth to plume oneself: khoe mẽ, tự đắc, vây vo với
+
++ to plumeoneself on one's skill: khoe tài, vây vo với cái tài
+
+@plumed
+* tt
+- có lông vũ
+- trang điểm bằng lông chim
+ @plumelet  
+*  dt
+- lông con (lông chim)
+
+@plume-like
+* tt
+- dạng lông chim
+ @plumiped
+* tt
+- chân phủ lông (chim)
+ @plummer-block  
+*  dt
+- (kỹ thuật) ổ đỡ, ổ tì
+
+@plummet  
+*  dt
+- quả dọi
+- dây dọi; dây dò nước
+- hoá chì (dây câu)
+- (nghĩa bóng) sức nặng, sức cản
+*  ndgt
+- lao thẳng xuống, rơi thẳng xuống
+
+@plummy  
+*  tt
+- (thuộc) mận; có nhiều mậm
+- (thông tục) tốt, hảo, đáng mong ước, đáng thèm muốn
+
+@plumose  
+*  tt
+- có lông vũ
+- như lông chim
+
+@plumosely
+- xem plumose
+ @plumosity
+- xem plumose
+ @plump  
+*  tt
+- tròn trĩnh, phúng phính, mẫm
+
++ plump cheeks: má phính
+*  ngdgt
+- làm tròn trĩnh, làm phính ra, làm mẫm
+*  ndgt
+- ((thường) : out,  up) tròn trĩnh, phính ra, mẫm ra
+*  dt
+- (từ cổ,nghĩa cổ) đoàn, đội; bầy, nhóm, bọn
+- cái rơi phịch xuống, cái ngã ùm xuống, cái lao tùm xuống
+
++ to fall with a plump into the water: ngã ùm xuống nước
+*  ndgt
+- rơi phịch xuống, rơi ùm xuống, ngồi phịch xuống, lao ùm xuống
+
++ to plump down on the bench: ngồi phịch xuống ghế
+- (: for) bầu cho, dốc phiếu cho (một ứng cử viên trong khi có thể bầu cho hai); (nghĩa bóng) hoàn toàn tán thành, toàn tâm toàn ý theo (một trong hai giải pháp... được lực chọn)
+*  ngdgt
+- ((thường) : down,  upon) bỏ phịch xuống, vứt phịch xuống, làm rơi ùm xuống
+
++ to plump one's bag upon the table: vứt phịch cái túi xuống bàn
+
++ to plump someone down into the pound: đẩy ai ngã ùm xuống ao
+*  tt
+- thẳng, thẳng thừng, toạc móng heo, không quanh co, không úp mở
+
++ to answer with a plump "No": trả lời thẳng là "không" 
+*  dt
+- phịch xuống, ùm xuống
+
++ to fall plump into the river: ngã ùm xuống sông
+- thẳng, thẳng thừng, toạc móng heo, không quanh co, không úp mở
+
++ I told him plump: tôi đã bảo thẳng cho hắn ta biết
+
+@plumper  
+*  dt
+- cái độn má (cho vào mồm để làm cho má phồng ra)
+- người dốc hết phiếu bầu cho một ứng cử viên (trong khi có thể bầu hai)
+- (từ lóng) điều nói láo, lời nói dối trắng trợn
+
+@plumpish
+- xem plump
+ @plumply
+- xem plump
+ @plumpness  
+*  dt
+- sự tròn trĩnh, sự phúng phính; vẻ mụ mẫm
+
+@plum-pudding  
+*  dt
+- bánh putđinh nho khô
+
+@plumpy  
+*  tt
+- khá tròn trĩnh, khá mẫm
+
+@plum-tree  
+*  dt
+- (thực vật học) cây mận
+
+@plumula
+* dt
+- lông măng; lông tơ
+- vảy cánh (bướm đực)
+ @plumulaceous
+* tt
+- có lông măng; có lông tơ
+ @plumular  
+*  tt
+- (thực vật học) (thuộc) chồi mầm
+- có chồi mầm
+
+@plumule  
+*  dt
+- (thực vật học) chồi mầm
+- (động vật học) lông tơ (của chim)
+
+@plumulose
+- xem plumule
+ @plumy  
+*  tt
+- giống lông chim; mềm nhẹ như lông chim
+- có gài lông chim (mũ...)
+
+@plun
+* ngdgt
+- <lóng> đánh rơi (cái gì), đặt (cái gì) xuống một cách nặng nề với tiếng sầm
+* dt
+- (Uc)  <thgt> rượu vang rẻ tiền, chất lượng tồi
+- tiếng hụych (tiếng của cái gì rơi hơi nặng nề)
+* tt
+- với một tiếng sầm
+ @plunder  
+*  dt
+- sự cướp bóc; sự tước đoạt, sự cưỡng đoạt
+- của cướp bóc; của ăn cắp
+- (từ lóng) lời, của kiếm chác được
+*  ngdgt
+- cướp bóc; tước đoạt, cưỡng đoạt
+- ăn cắp, tham ô (hàng hoá...)
+
+@plunderable
+- xem plunder
+ @plunderage  
+*  dt
+- sự cướp bóc; sự tước đoạt, sự cưỡng đoạt
+- sự ăn cắp, sự tham ô
+- (pháp lý) sự ăn cắp hàng hoá trên tàu; hàng hoá ăn cắp trên tàu
+
+@plunderer  
+*  dt
+- kẻ cướp; kẻ tước đoạt, kẻ cưỡng đoạt
+
+@plunderous
+- xem plunder
+ @plunge  
+*  dt
+- sự lao mình xuống (nước); cái nhảy đâm đầu xuống (nước...)
+- (nghĩa bóng) bước liều, sự lao vào (khó khăn, nguy hiểm)
+
++ to take the plunge: liều
+*  ngdgt
+- nhúng, thọc
+
++ to plunge one's hand into hot water: nhúng tay vào nước nóng
+
++ to plunge one's hand into one's pocket: thọc tay vào túi
+- đâm sâu vào, đâm ngập vào
+
++ to plunge a dagger into...: đâm ngập con dao găm vào...
+- (nghĩa bóng) đẩy vào, làm chìm ngập vào, nhận chìm
+
++ to plunge a country into war: đẩy một nước vào tai hoạ chiến tranh
+
++ to plunge one's family into poverty: đẩy gia đình vào cảnh túng thiếu
+
++ plunged into darkness: bị chìm ngập trong bóng tối
+- chôn sâu, chôn ngập (một chậu cây...)
+*  ndgt
+- lao mình xuống, nhảy đâm đầu xuống (nước...)
+
++ to plunge into the river: lao mình xuống nước, nhảy đâm đầu xuống sông
+- lao vào, lao lên, lao xuống
+
++ to plunge into a difficulty: lao vào một công việc khó khăn
+
++ to plunge into the room: lao vào phòng
+
++ to plunge upstairs: lao lên gác
+
++ to plunge downstairs: lao xuống cầu thang
+- lao tới (ngựa)
+- chúi tới (tàu)
+- (từ lóng) cờ bạc liều, máu mê cờ bạc; mang công mắc n
+
+@plunge-bath  
+*  dt
+- bể bơi sâu (có thể nhào lặn được)
+
+@plunger  
+*  dt
+- người nhào lặn; (hàng hải) thợ lặn
+- Pittông (ống bơm...)
+- (từ lóng) con bạc máu mê, con bạc đánh liều
+- (từ lóng) kẻ đầu cơ
+
+@plunging
+* dt
+- sự chúi mũi (khi tàu lắc dọc)
+- sự nhúng chìm
+ @plunging fire  
+*  dt
+- (quân sự) hoả lực từ trên cao bắn xuống
+
+@plunging neckline  
+*  dt
+- cổ để hở sâu
+
+@plunk  
+*  dt
+- tiếng gảy đàn tưng tưng
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) cú trời giáng, cú mạnh
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đồng đô la
+*  ngdgt
+- ném phịch xuống, ném độp xuống
+- (từ Mỹ,nghĩa Mỹ) đánh trúng bất ngờ
+*  ndgt
+- rơi phịch xuống, ngã phịch xuống, rơi độp xuống
+- gảy đàn tưng tưng (dây đàn)
+
+@plunker
+- xem plunk
+ @plunky
+- xem plunk
+ @pluperfect  
+*  tt
+- (ngôn ngữ học) quá khứ xa (thời)
+*  tt
+- (ngôn ngữ học) thời quá khứ xa ((cũng) past perfect)
+
+@plural  
+*  tt
+- (ngôn ngữ học) ở số nhiều, (thuộc) số nhiều
+
++ a plural noun: dt số nhiều
+- nhiều
+!plural vote
+- sự bỏ phiếu của một cử tri ở nhiều khu vực bầu cử
+!plural voter
+- cử tri bỏ phiếu ở nhiều khu vực bầu cử
+*  dt
+- (ngôn ngữ học) số nhiều, dạng số nhiều (của một dt...)
+
++ in the plural: ở số nhiều
+- từ ở số nhiều
+
+@pluralise   (pluralise) @pluralism  
+*  dt
+- sự kiêm nhiều chức vị
+- (tôn giáo) sự có nhiều lộc thánh
+- (triết học) thuyết đa nguyên
+
+@pluralist  
+*  dt
+- người kiêm nhiều chức vị
+- (tôn giáo) giáo sĩ có nhiều lộc thánh
+- (triết học) người theo thuyết đa nguyên
+
+@pluralistic
+* tt
+- kiêm nhiều chức vụ
+- có nhiều lộc thánh
+- có tính đa nguyên
+ @pluralistically
+- xem pluralist
+ @plurality  
+*  dt
+- trạng thái nhiều
+- số lớn, phần đông, đa số (phiếu bầu...)
+- sự kiêm nhiều chức vị; chức vị kiêm nhiệm
+- (tôn giáo) sự có nhiều lộc thánh; lộc thánh thu được ở nhiều nguồn
+
+@Plurality
+- (Econ) Quy tắc đa số.
+: Một hệ thống giữa sự lựa chọn tập thể trong đó giải pháp được chọn là giải pháp xếp đầu tiên do có số người bỏ phiếu lớn nhất.
+ @pluralization
+- xem pluralize
+ @pluralize   (pluralise) @plurally
+- xem plural
+ @pluri-
+- hình thái ghép có nghĩa là nhiều
+- pluriaxial
+- nhiều trục
+- hình thái ghép có nghĩa là nhiều
+- pluriaxial
+- nhiều trục
+ @pluriaxial
+* tt
+- nhiều trục
+ @pluriform
+* tt
+- nhiều dạng; đa dạng
+ @plurigenus
+- đa giống
+ @pluriglandular
+* tt
+- (sinh vật học) nhiều tuyến
+ @pluriharmonic
+- (giải tích) đa điều hoà
+ @plurilocular
+* tt
+- (sinh vật học) nhiều ô
+ @plurinuclear
+* tt
+- (sinh vật học) nhiều nhân
+ @pluriparous
+* tt
+- nhiều lần, nhiều lứa đẻ; đẻ nhiều
+ @pluripartite
+* tt
+- (sinh vật học) xẻ nhiều phần
+ @pluripary
+* dt
+- (sinh học) tính đẻ nhiều
+ @pluripolar
+* tt
+- nhiều cực
+ @plurisegmental
+* tt
+- (sinh vật học) nhiều đốt
+ @plurisporous
+* tt
+- (thực vật học) nhiều bào tử
+ @plurisubharmonic
+- (giải tích) đa điều hoà dưới
+ @plurivalent
+* tt
+- đa trị; nhiều khả năng
+ @plurivorous
+* tt
+- ăn tạp; ăn nhiều loại
+ @plus  
+*  giới từ
+- cộng với
+
++ 3 plus 4: ba cộng với 4
+*  tt
+- cộng, thêm vào
+- (toán học); (vật lý) dương (số...)
+!on the plus side of the account
+- (thương nghiệp) ở bên có của tài khoản
+*  dt
+- dấu cộng
+- số thêm vào, lượng thêm vào
+- (toán học); (vật lý) số dương
+
+@plus
+- cộng, dấu cộng
+ @plus-fours  
+*  dt số nhiều
+- quần gôn (mặc để đánh gôn)
+
+@plush  
+*  dt
+- vải lông, nhung dài lông
+- (số nhiều) quần lễ phục của người hầu
+*  tt
+- bằng vải lông, bằng nhung dài lông
+- xa hoa, sang trọng, lộng lẫy
+
+@plushily
+- xem plushy
+ @plushiness
+* dt
+- sự sang trọng, lộng lẫy
+ @plushly
+- xem plush
+ @plushness
+- xem plush
+ @plushy  
+*  tt
+- dài lông, có lông (vải, nhung...)
+
+@plussage
+* dt
+- giá trị dương
+ @plutarchy   (plutarchy) @pluteus
+* dt
+- (sinh vật học) ấu trùng cầu gai
+ @pluto  
+*  dt
+- (thần thoại,thần học) Diêm vương
+- (thiên văn học) sao Diêm vương
+
+@plutocracy   (plutarchy) @plutocrat  
+*  dt
+- tên tài phiệt; kẻ quyền thế
+
+@plutocratic  
+*  tt
+- tài phiệt
+
+@plutocratical
+- xem plutocracy
+ @plutocratically
+- xem plutocracy
+ @plutolatry  
+*  dt
+- sự thờ thần tiên
+
+@plutology
+* dt
+- thuyết sùng bái đồng tiền
+ @plutonian  
+*  tt ((cũng) Plutonic)
+- (địa lý,địa chất) hoả thành; sâu
+
++ plutonian theory: thuyết hoả thành
+
++ plutonian rocks: đá sâu,  plutonit
+- (thần thoại,thần học) (thuộc) Diêm vương, (thuộc) âm ty, (thuộc) địa ngục
+- (thiên văn học) sao Diêm vương
+
+@plutonic  
+*  tt
+- (như) Plutonian
+*  dt
+- (địa lý,địa chất) đá sâu,  plutonit
+
+@plutonism  
+*  dt
+- (địa lý,địa chất) thuyết hoả thành
+
+@plutonist  
+*  dt
+- người theo thuyết hoả thành
+
+@plutonite
+* dt
+- (khoáng vật học) đá sâu; plutonit
+ @plutonium  
+*  dt
+- (hoá học) Plutoni
+
+@plutonomic  
+*  tt
+- (thuộc) môn kinh tế chính trị
+
+@plutonomist  
+*  dt
+- nhà kinh tế chính trị
+
+@plutonomy  
+*  dt
+- môn kinh tế chính trị, kinh tế học chính trị
+
+@plutus
+* dt
+- (cổ Hy lạp) vị thần tài
+ @pluvial  
+*  tt
+- (thuộc) mưa
+
++ pluvial season: mùa mưa
+- (địa lý,địa chất) do mưa (tạo thành)
+*  dt
+- (tôn giáo),  (sử học) áo lễ
+
+@pluviograph
+* dt
+- dụng cụ tự ghi lượng nước mưa
+ @pluviometer  
+*  dt
+- cái đo mưa
+
+@pluviometric   (pluviometrical) @pluviometrical   (pluviometrical) @pluviometrically
+- xem pluviometer
+ @pluviometry  
+*  dt
+- phép đo mưa
+
+@pluvioscope
+* dt
+- cái đo mưa
+ @pluviosity
+- xem pluvious
+ @pluvious  
+*  tt
+- có mưa; nhiều mưa
+
+@ply  
+*  dt
+- lớp (vải, dỗ dán...)
+- sợi tạo (len, thừng...)
+- (nghĩa bóng) khuynh hướng, nếp, thói quen
+
++ to take a ply: gây được cái nếp; tạo được một thói quen; nảy ra cái khuynh hướng
+*  ngdgt
+- ra sức vận dụng, ra sức làm, làm miệt mài, làm chăm chỉ
+
++ to ply an our: ra sức chèo
+
++ to ply the hammer: ra sức quai búa
+
++ to ply the needle: miệt mài kim chỉ vá may
+
++ to ply one's task: miệt mài với công việc
+- công kích dồn dập
+
++ to ply someone with questions: hỏi ai dồn dập
+
++ to ply someone with arguments: lấy lý lẽ mà công kích ai dồn dập
+- tiếp tế liên tục
+
++ to ply someone with food: tiếp mâi đồ ăn cho ai
+*  ndgt
+- ((thường) : between) chạy đường (tàu, xe khách)
+
++ ships plying between Haiphong and Odessa: những tàu chạy đường Hải phòng  Ô-đe-xa
+- ((thường) : at) đón khách tại (nơi nào) (người chèo đò, người đánh xe ngựa thuê, người khuân vác...)
+- (hàng hải) chạy vút (thuyền buồm)
+
+@ply
+- (máy tính) cho đi qua; (kỹ thuật) sử dụng
+ @plyer
+* dt
+- cái kềm gấp mép
+ @plywood  
+*  dt
+- gỗ dán
+
+@

@@ -1,0 +1,2036 @@
+@vac  
+*  dt
+- (thông tục) (viết tắt) của vacation
+- (viết tắt) của vacuum_cleaner
+
+@vaca
+* dt
+- Bò cái
+ @Vacancies
+- (Econ) Chỗ làm việc còn trống.
+: Nhu cầu của giới chủ cần thuê thêm lao động.
+ @vacancy  
+*  dt
+- tình trạng trống rỗng
+- khoảng không, khoảng trống
+
++ a vacancy on a page: một khoảng trống trên trang giấy
+- tình trạng bỏ không (nhà ở)
+- chỗ khuyết; chỗ trống
+
++ a vacancy in the government: một chỗ khuyết trong chính phủ
+- sự nhàn rỗi, sự rãnh rỗi
+- sự trống rỗng tâm hồn; tình trạng lơ đãng, tình trạng ngây dại
+
+@Vacancy
+- chỗ trống
+ @Vacancy rate
+- (Econ) Tỷ lệ chỗ làm việc còn trống.
+: Một chỉ số về cầu lao động tại mức tiền công hiện hành.
+ @vacant  
+*  tt
+- trống, rỗng
+
++ a vacant space: khoảng trống
+- bỏ không, trống
+
++ a vacant room: căn phòng bỏ không
+
++ a vacant seat: ghế trống
+- khuyết, thiếu
+
++ to apply for a vacant post: xin vào làm ở chỗ khuyết
+- rảnh rỗi (thì giờ)
+
++ vacant hours: những giờ rảnh rỗi
+- trống rỗng (óc); lơ đãng, ngây dại (cái nhìn)
+
++ the vacant mind: đầu óc trống rỗng
+
++ a vacant stare: cái nhìn lỡ đãng
+
+@vacantly
+* dt
+- lơ đãng; đờ đẫn
+
++  to stare, look, gaze vacantly into space:nhìn, trông, ngó lơ đãng vào khoảng không
+ @vacantness
+* dt
+- xem vacant
+ @vacate  
+*  ngdgt
+- bỏ trống, bỏ không
+
++ to vacate one's seat: bỏ nghề trống
+
++ to vacate a house: rời bỏ một ngôi nhà
+- bỏ, thôi, xin thôi
+
++ to vacate office: từ chức, xin thôi việc
+- (pháp lý) huỷ bỏ (hợp đồng...)
+
+@vacation  
+*  dt
+- sự bỏ trống, sự bỏ không
+- sự bỏ, sự thôi
+- kỳ nghỉ hè, kỳ nghỉ lễ
+
++ long vacation: nghỉ hè
+
++ Christmas vacation: nghỉ lễ Nô-en
+- (từ Mỹ,nghĩa Mỹ) thời gian nghỉ việc
+
++ on vacation: nghỉ việc
+- (pháp lý) kỳ hưu thẩm (của toà án)
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) (: in,  at) đi nghỉ
+
++ to go vacationing: đi nghỉ hè, đi nghỉ mát
+
+@vacational
+* tt
+- xem vacation
+ @vacationeer
+- xem vacation
+ @vacationer
+- xem vacation
+ @vacationist  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người đi nghỉ
+
+@vacationless
+- xem vacation
+ @vaccilation  
+*  dt
+- sự lắc lư, sự lảo đảo; sự chập chờn
+- sự do dự, sự dao động
+
+@vaccinal  
+*  tt
+- (thuộc) bệnh đậu mùa
+- (thuộc) tiêm chủng
+
+@vaccinate  
+*  ngdgt
+- (y học) chủng, tiêm chủng
+
+@vaccination  
+*  dt
+- sự chủng, sự tiêm chủng
+
+@vaccinationist
+- anh từ
+- xem vaccinator
+ @vaccinator  
+*  dt
+- (y học) người chủng, người tiêm chủng
+- ngòi chủng (mũi nhọn dùng để chủng)
+
+@vaccine  
+*  dt
+- (y học) vacxin
+
++ anticholeraic vaccine: vacxin tả
+
+@vaccinia  
+*  dt
+- (y học) bệnh đậu mùa
+
+@vaccinial
+- xem vaccinia
+ @vacillate  
+*  ndgt
+- lắc lư, lảo đảo; chập chờn
+- do dự, dao động
+
++ to vacillate between two courses of action: do dự giữa hai đường lối hành động
+
+@vacillating  
+*  tt
+- lắc lư; chập chờn
+
++ vacillating light: ngọn đèn chập chờn
+- do dự, dao động
+
+@vacillatingly
+- trạng từ
+- xem vacillate
+- nghiêng ngã, không vững chắc
+ @vacillation
+* dt
+- sự lắc lư, sự lảo đảo, sự chập chờn
+- sự do dự, sự dao động (giữa các ý kiến, giải pháp )
+ @vacillation
+- sự dao động
+ @vacillator
+- xem vacillate
+ @vacillatory  
+*  tt
+- lắc lư, lao đảo; chập chờn
+
++ vacillatory movement: chuyển động lắc lư
+- do dự, dao động
+
+@vacnant
+- trống, rỗng; tự do
+ @vacoular  
+*  tt
+- (sinh vật học) (thuộc) không bào
+
+@vacoulate   (vacoulated) @vacoulated   (vacoulated) @vacoule  
+*  dt
+- (sinh vật học) không bào
+
+@vacua  
+*  dt,  số nhiều vacuums,  vacua
+- (vật lý) chân không
+- (thông tục) (như) vacuum_cleaner
+
+@vacuity  
+*  dt
+- sự trống rỗng
+- chỗ trống, khoảng không
+- sự trống rỗng tâm hồn; sự ngây dại
+
+@vacuolar
+* tt
+- thuộc không bào, thuộc hốc nhỏ
+ @vacuolate
+* tt
+- có không bào, có hốc nhỏ
+ @vacuolated
+* tt
+- xem vacuolate
+ @vacuole
+* dt
+- không bào, hốc nhỏ
+ @vacuometer
+* dt
+- máy đo chân không
+ @vacuous  
+*  tt
+- rỗng, trống rỗng
+
++ a vacuous space: một khoảng trống
+- trống rỗng; ngớ ngẩn; ngây dại
+
++ vacuous remark: lời nhận xét ngớ ngẩn
+
++ a vacuous laugh: cái cười ngớ ngẩn
+
++ a vacuous look: vẻ ngây dại; cái nhìn ngây dại
+- rỗi, vô công rồi nghề
+
++ a selfish and vacuous life: một cuộc sống ích kỷ vô công rồi nghề
+
+@vacuous
+- rỗng
+ @vacuously
+* dt
+- rỗng, trống rỗng
+- trống rỗng; ngớ ngẩn; ngây dại, ngây ngô
+- rỗi, vô công rồi nghề
+ @vacuousness
+* dt
+- sự rỗng, sự trống rỗng
+- sự trống rỗng; sự ngớ ngẩn; sự ngây dại, sự ngây ngô
+- sự rỗi, sự vô công rồi nghề
+ @vacuum  
+*  dt,  số nhiều vacuums,  vacua
+- (vật lý) chân không
+- (thông tục) (như) vacuum_cleaner
+
+@vacuum
+- (vật lí) Chân không
+ @vacuum bottle   (vacuum_bottle) @vacuum brake  
+*  dt
+- (kỹ thuật) phanh hơi
+
+@vacuum cleaner  
+*  dt
+- máy hút bụi
+
+@vacuum desiccator  
+*  dt
+- (như) vacuum_drier
+- bình khô chân không
+
+@vacuum drier  
+*  dt
+- máy sấy chân không ((cũng) vacuum_desiccator)
+
+@vacuum fan  
+*  dt
+- (kỹ thuật) máy hút gió, quạt hút gió
+
+@vacuum filter  
+*  dt
+- cái lọc chân không
+
+@vacuum flask   (vacuum_bottle) @vacuum-brake
+* dt
+- (kỹ thuật) phanh hơi, thắng hơi
+ @vacuum-clean  
+*  ngdgt
+- quét sạch bằng máy hút bụi
+
+@vacuum-cleaning
+* dt
+- xem vacuum-clean
+ @vacuum-flask
+- Cách viết khác : vacuum bottle 
+ @vacuum-gauge  
+*  dt
+- (vật lý) cái đo chân không
+
+@vacuum-packed
+* tt
+- đóng gói chân không (những thực phẩm có thể bị ôi, thiu)
+ @vacuum-pump  
+*  dt
+- bơm chân không
+
+@vacuum-tube   (vacuum-valve) @vacuum-valve 
+ 
+*  dt
+- (rađiô) đèn chân không vade-mecum @vade-mecum
+* dt
+- sổ tay, sách tham khảo nhỏ, sách tóm tắt (dùng thường xuyên)
+- vật mang luôn theo mình
+ @vag
+* dt
+- viết tắt của vagrant
+- viết tắt của vagabond
+ @vagabond  
+*  tt
+- lang thang, lêu lổng, cầu bơ cầu bất
+
++ vagabond life: cuộc sống lang thang
+- (nghĩa bóng) vẩn vơ
+
++ vagabond thoughts: ý nghĩ vẩn vơ
+*  dt
+- người lang thang lêu lổng
+- (thông tục) tên du đãng
+*  ndgt
+- (thông tục) đi lang thang lêu lổng
+
+@vagabondage  
+*  dt
+- thói lang thang lêu lổng, thói du đãng; lối sống cầu bơ cầu bất
+
++ to live in vagabondage: sống lêu lổng cầu bơ cầu bất
+- tụi du đãng
+
+@vagabondish
+* tt
+- xem vagabond
+ @vagabondism  
+*  dt
+- thói lang thang lêu lổng, thói du đãng; lối sống cầu bơ cầu bất
+
+@vagabondize  
+*  ndgt
+- lang thang lêu lổng
+
+@vagabondry
+- xem vagabondage
+ @vagal
+* tt
+- mê tẩu, thần kinh mê tẩu
+ @vagarious  
+*  tt
+- bất thường, hay thay đổi (tính khí...)
+- (từ Mỹ,nghĩa Mỹ) lang thang
+
+@vagary  
+*  dt
+- tính bất thường, tính hay thay đổi; cử chỉ bất thường
+
++ the vagaries of fashion: những sự thay đổi bất thường của thời trang
+
++ the vagaries of the mind: những sự thay đổi ý kiến đột nghột; tính khí bất thường
+
+@vagi
+* dt
+- số nhiều của vagus
+ @vagina  
+*  dt,  số nhiều vaginae
+- bao, vỏ bọc
+- (giải phẫu) âm đạo
+- (thực vật học) bẹ (lá)
+
+@vaginae  
+*  dt,  số nhiều vaginae
+- bao, vỏ bọc
+- (giải phẫu) âm đạo
+- (thực vật học) bẹ (lá)
+
+@vaginal  
+*  tt
+- (thuộc) bao, (thuộc) vỏ bọc
+- (giải phẫu) (thuộc) âm đạo
+
+@vaginally
+- xem vaginal
+ @vaginate  
+*  tt
+- có bao, có vỏ bọc
+
+@vaginitis  
+*  dt
+- (y học) viêm âm đạo
+
+@vaginula
+* dt
+- bao nhỏ
+ @vagrancy  
+*  dt
+- sự lang thang; lối sống lang thang
+
+@vagrant  
+*  tt
+- lang thang; sống lang thang
+
++ to lead a vagrant life: sống một cuộc đời lêu lổng
+- (nghĩa bóng) vẩn vơ; vô định
+
++ a vagrant imagination: sự tưởng tượng vẩn vơ
+*  dt
+- kẻ lang thang nay đây mai đó
+
+@vagrantly
+- xem vagrant
+ @vagrom
+* tt
+- lang thang, phiêu lãng
+ @vague  
+*  tt
+- mơ hồ, lờ mờ, mập mờ
+
++ a vague idea: ý nghĩ mơ hồ
+
++ to have a vague idea of: có ý kiến mơ hồ; nhớ mang máng; biết mập mờ
+
++ to have not the vaguest notion of something: không biết một tí gì về cái gì
+
++ vague answers: những câu trả lời mập mờ
+- lơ đãng (cái nhìn...)
+
+@vague
+- mơ hồ, không rõ ràng
+ @vaguely
+* dt
+- ngờ ngợ (theo cách mà người ta không thể chỉ rõ)
+- ang áng, hơi, gần đúng, một cách phỏng chừng
+- vô tâm, lơ đãng, một cách không suy nghĩ
+ @vagueness  
+*  dt
+- tính chất mập mờ; tình trạng mơ hồ
+- vẻ lơ đãng
+
+@vagueness
+- tính mơ hồ, tính không rõ ràng
+ @vagus
+* dt
+- dây thần kinh mê tẩu
+- dây thần kinh phế vị
+ @vain  
+*  tt
+- vô hiệu, không có kết quả, vô ích
+
++ vain efforts: những cố gắng vô ích
+- hão, hão huyền
+
++ vain promises: những lời hứa hão huyền
+- rỗng, rỗng tuếch
+
++ vain words: những lời rỗng tuếch
+- phù phiếm
+
++ vain man: người phù phiếm
+- tự phụ, tự đắc
+
++ to be vain of: tự đắc về
+!as vain as a speacock
+- dương dương tự đắc
+!in vain
+- vô ích, không ăn thua gì, không hiệu quả
+
++ to protest in vain: phản kháng không hiệu quả
+- khinh thị, bất kính
+
++ to take someone's name in vain: nói về ai một cách khinh thị
+
+@vainglorious  
+*  tt
+- dương dương tự đắc
+
+@vaingloriously
+- xem vainglorious
+ @vaingloriousness   (vainglory) @vainglory   (vainglory) @vainly  
+*  dt
+- vô ích, không hiệu quả
+- hão, hão huyền
+- tự phụ, tự đắc
+
+@vainness  
+*  dt
+- tính vô ích, tính không hiệu quả
+- tính hão huyền
+- tính tự phụ, tính tự đắc
+
+@valance  
+*  dt
+- diềm (màn, trướng, khăn trải giường) ((cũng) valence)
+
+@valanced  
+*  tt
+- có diềm
+
+@vale  
+*  dt
+- (thơ ca) thung lũng
+- máng dẫn nước
+*  dt
+- sự từ giã, sự từ biệt
+
++ to say (take) one's vale: từ giã, từ biệt
+*  thán từ
+- xin từ biệt!, tạm biệt!
+
+@valediction  
+*  dt
+- sự từ biệt, sự tạm biệt
+- lời từ biệt, lời tạm biệt
+
+@valedictorian  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) đại biểu học sinh đọc diễn văn từ biệt (trong lễ tốt nghiệp)
+
+@valedictory  
+*  tt
+- từ biệt
+
++ a valedictory speech: một bài diễn văn từ biệt
+*  dt
+- (từ Mỹ,nghĩa Mỹ) diễn văn từ biệt (của đại biểu học sinh trong lễ tốt nghiệp)
+
+@valence   (valency) @valenciennes  
+*  dt
+- đăng ten valăngxiên
+
+@valency   (valency) @valentine
+* dt
+- thiệp chúc mừng (có tính tình cảm hoặc đùa vui gửi cho người khác giới mà mình yêu quý, thường không đề tên, vào ngày thánh Valentine 14  @valerian  
+*  dt
+- (thực vật học) cây nữ lang
+- rễ nữ lang (dùng làm thuốc)
+- (dược học) Valerian
+
+@valerianic   (valeric) @valeric   (valeric) @valet  
+*  dt
+- đầy tớ, người hầu phòng (phục vụ một người đàn ông)
+- người hấp tẩy quần áo (ở khách sạn)
+*  ngdgt
+- hầu, hầu hạ
+
+@valetaille
+* dt
+- lũ tôi tớ
+ @valet-de-chambre
+- anh từ
+- hầu phòng
+ @valet-de-place
+* dt
+- người dẫn đường
+ @valeting
+* dt
+- cơ sở dịch vụ làm complê nam
+ @valetry
+* dt
+- xem valetaille
+ @valetudinarian  
+*  tt
+- (y học) ốm yếu
+- đang dưỡng bệnh
+- quá lo lắng về sức khoẻ
+*  dt
+- người ốm yếu
+- người đang dưỡng bệnh
+- người quá lo lắng về sức khoẻ
+
+@valetudinarianism  
+*  dt
+- (y học) tình trạng hay đau ốm
+- thói quá lo lắng về sức khoẻ của mình
+
+@valetudinary
+* dt
+- xem valetudinarian
+ @valiance
+* dt
+- xem valiant
+- lòng dũng cảm, lòng can đảm
+ @valiancy  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) lòng dũng cảm, lòng can đảm
+- hành động dũng cảm
+
+@valiant  
+*  tt
+- dũng cảm, can đảm
+
+@valiantly
+* dt
+- dũng cảm, quả quyết, can đảm
+ @valiantness
+- xem valiant
+ @valid  
+*  tt
+- vững chắc, có căn cứ
+
++ a valid argument: một lý lẽ vững chắc
+- (pháp lý) có giá trị, có hiệu lực; hợp lệ
+
++ valid contract: hợp đồng có giá trị (về pháp lý)
+
++ valid passport: hộ chiếu hợp lệ
+
++ the ticket is no longer valid: vé không còn giá trị nữa
+
+@valid
+- có hiệu lực to be v. có hiệu lực 
+ @validate  
+*  ngdgt
+- làm cho có giá trị, làm cho có hiệu lực, làm cho hợp lệ; phê chuẩn
+
+@Validated inflation
+- (Econ) Lạm phát cho phép.
+: Lạm phát được cho phép tồn tại vì chính phủ cho phép cung tiền mở rộng với các tốc độ như lạm phát.
+ @validation  
+*  dt
+- sự làm cho có hiệu lực; sự phê chuẩn; sự công nhận có đủ giá trị
+
+@validation
+- (thống kê) sự thừa nhận (tính khách quan của mẫu)
+ @validity  
+*  dt
+- (pháp lý) giá trị pháp lý; hiệu lực; tính chất hợp lệ
+
++ the validity of a contract: giá trị pháp lý của một hợp đồng
+- giá trị
+
++ of poor validity: ít giá trị
+
+@validity
+- tính có hiệu lực
+ @validly
+- xem valid
+ @validness
+- xem valid
+ @valise  
+*  dt
+- va li nhỏ; túi du lịch
+- (quân sự) túi đựng quần áo, ba lô
+
+@valium
+* dt
+- (Valium) Valium (thuốc dùng để giảm căng thẳng thần kinh)
+- (Valium, Valiums)  <snh> viên thuốc Valium
+ @vallate
+* tt
+- có vành cung
+ @vallecula
+* dt
+- rãnh nhỏ, hốc nhỏ
+ @valleculae
+* dt
+- số nhiều của valacula
+ @vallecular
+* tt
+- thuộc rãnh nhỏ, hốc nhỏ
+ @valleculate
+* tt
+- có rãnh nhỏ, có hốc nhỏ
+ @valley  
+*  dt
+- thung lũng
+- (kiến trúc) khe mái
+!the valley of the shadow of death
+- thời kỳ vô cùng bi đát, thời kỳ gần kề cõi chết
+
+@valleyed
+- xem valley
+ @vallum  
+*  dt
+- (sử học) bờ luỹ, thành luỹ (cổ La mã)
+
+@valor  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) valour
+
+@valorise   (valorise) @valorization  
+*  dt
+- (thương nghiệp) sự bình ổn vật giá
+- biện pháp bình ổn vật giá (của chính phủ)
+
+@valorize   (valorise) @valorous  
+*  tt
+- (thơ ca) dũng cảm
+
+@valorously
+- xem valorous
+ @valorousness
+- xem valorous
+ @valour  
+*  dt
+- (văn học); (thơ ca);(đùa cợt) sự dũng cảm
+
+@valse
+* dt
+- điệu vanxơ
+ @valuable  
+*  tt
+- có giá trị lớn, quý giá
+
++ valuable assistance: sự giúp đỡ quý giá
+- có thể đánh giá được, có thể định giá được
+
++ a service not valuable in money: một sự giúp đỡ không thể lấy tiền mà đánh giá được
+*  dt
+- ((thường) số nhiều) đồ quý giá
+
+@valuableness
+- xem valuable
+ @valuables
+* dt, pl
+- đồ quý giá, vật có giá trị (đồ trang sức )
+ @valuably
+- xem valuable
+ @valuation  
+*  dt
+- sự định giá, sự đánh giá
+
++ to make a valuation of the goods: định giá hàng hoá
+
++ to set a high valuation of someone's abilities: đánh giá cao khả năng của ai
+- giá
+
++ to dispose of something at a low valuation: bán tống cái gì đi với một giá thấp
+- giá trị
+
+@valuation
+- ước lượng; (đại số) đánh giá; định giá; sự chuẩn hoá; mêtric hoá
+- discrete v. (đại số) sự định giá rời rạc
+- effective v. (đại số) đánh giá có hiệu quả 
+ @Valuation curve
+- (Econ) Đường đánh giá.
+: Xem GROWTH - VALUATION FUNCTION.
+ @Valuation ratio
+- (Econ) Tỷ số đánh giá.
+: Tỷ số giữa thị giá cổ phần của hãng, V, với giá trị sổ sách  tài sản của nó, K.
+ @valuational
+- xem valuation
+ @valuator  
+*  dt
+- người định giá
+
+@value  
+*  dt
+- giá trị
+
++ of a great value: có giá trị lớn, quý
+
++ of no value: không có giá trị
+
++ to be of value: có giá trị
+
++ to set a value on: đánh giá
+
++ to set a low value on something: coi rẻ vật gì
+
++ to set too much value on: đánh giá quá cao về
+- (thương nghiệp); (tài chính) giá cả, giá
+
++ to lose value: mất giá, giảm giá
+
++ fall in value: sự sụt giá
+
++ commercial value: giá thị trường
+
++ market value: thời giá, giá thị trường
+
++ exchange value: giá trị trao đổi
+
++ to get good value for one's money: mua được cái xứng với đồng tiền mình bỏ ra
+- (vật lý) năng suất
+
++ calorific value: năng suất toả nhiệt
+- (văn học) nghĩa, ý nghĩa
+
++ the poetic value of a word: ý nghĩa về mặt thơ của một từ
+- (sinh vật học) bậc phân loại
+- (số nhiều) tiêu chuẩn
+
++ moral values: tiêu chuẩn đạo đức
+*  ngdgt
+- (thương nghiệp) định giá
+
++ to value goods: định giá hàng hoá
+- đánh giá
+- trọng, chuộng, quý, coi trọng
+
++ to value one's reputation: coi trọng danh giá của mình
+- hãnh diện, vênh vang
+
++ to value oneself on one's knowledge: hãnh diện về kiến thức của mình
+
+@value
+- giá trị
+- v. of a game (lý thuyết trò chơi) Giá trị của trò chơi
+- v. of an insurance policy giá trị của chế độ bảo hiểm
+- v. of series giá trị của chuỗi
+- v. of variables giá trị của biến số
+- alsolute v. giá trị tuyệt đối
+- accumutated v. of an annuity giá trị của tích luỹ một năn 
+- algebraic v. giá trị đại số 
+- approximate v. giá trị xấp xỉ, giá trị gần đúng 
+- asymptotic(al) v. giá trị tiệm cận
+- average v. giá trị trung bình
+- boundary v. giá trị biên
+- Cauchy principal v. giá trị của chính Cauxi
+- characteristic v. giá trị đặc trưng
+- critical v. giá trị tới hạn
+- defective v. (giải tích) giá trị khuyết
+- end v. giá trị cuối
+- exchange v. giá trị trao đổi
+- expected v. (thống kê) kỳ vọng, giá trị kỳ vọng
+- face v. giá trị bề mặt
+- improved v. giá trị đã hiệu chỉnh
+- inaccessible v. giá trị không đạt được
+- isolated v. giá trị cô lập
+- market v. giá trị thường
+- maximal v. giá trị cực đại
+- mean v. giá trị trung bình
+- minimum v. giá trị cực tiểu
+- modal v. (thống kê) giá trị có tần suất cao nhất, giá trị mốt
+- numerical v. giá trị bằng số
+- observed v. giá trị quan sát
+- par v. giá trị pháp đỉnh
+- permissible v. giá trị cho phép
+- predicted v. giá trị tiên đoán
+- present v. giá trị hiện có
+- principal v. giá trị chính
+- provable v. giá trị có thể
+- proper v. giá trị riêng
+- reduced v. giá trị thu gọn
+- stationary v. giá trị dừng
+- surplus v. (toán kinh tế) giá trị thặng dư
+- true v. giá trị đúng
+- truth v. (logic học) giá trị chân lý 
+ @Value added
+- (Econ) Giá trị gia tăng.
+: Giá trị sản lượng của một hãng trừ đi giá trị đầu vào nó mua từ các hãng khác.
+ @value added tax
+* dt
+- <vt>  VAT thuế giá trị gia tăng (thuế đánh vào sự tăng giá trị của một sản phẩm ở mỗi giai đoạn sản xuất)
+ @Value judgement
+- (Econ) Đánh giá chủ quan.
+: Một nhận định mà nói chung có thể được tóm tắt là X là tốt (hay xấu). Cụm thuật ngữ chủ quan gây nhiều nhầm lẫn trong kinh tế học.
+ @value judgement
+* dt
+- sự đánh giá (giá trị đạo đức, <nghệ>
+ @Value marginal physical product
+- (Econ) Sản phẩm vật chất giá trị biên.
+: Xem MARGINAL REVENUE PRODUCT.
+ @Value, money, a standard of
+- (Econ) Tiêu chuẩn giá trị của tiền.
+: Một trong các chức năng của tiền là vai trò tiêu chuẩn giá trị. Nghĩa là nó tạo một hệ thống đơn vị kế toán mà qua đó giá cả được biểu hiện và các khoản trả chậm như nợ được xác định.
+ @Value, theory of
+- (Econ) Lý thuyết về giá trị.
+: Gía trị nội tại của một hàng hoá.
+ @Value-added tax
+- (Econ) Thuế Giá trị gia tăng.
+: Về mặt khái nịêm đây là loại thuế dựa trên giá trị gia tăng trong một quốc gia.
+ @valued  
+*  tt
+- quý, được chuộng, được quý trọng
+
+@valueless  
+*  tt
+- không có giá trị
+
+@valuelessness
+* dt
+- xem valueless
+ @valuer  
+*  dt
+- người định giá
+
+@valuta
+* dt
+- ngoại tệ, ngoại hối
+ @valvar   (valvate) @valvate   (valvate) @valve  
+*  dt
+- (kỹ thuật); (giải phẫu) van
+
++ the valve of a bicycle tyre: van săm xe đạp
+
++ the valves of the heart: các van tim
+- rađiô đèn điện tử
+- (thực vật học); (động vật học) mảnh vỏ (quả đậu, vỏ sò...)
+- (âm nhạc) cần bấm
+*  dgt
+- (kỹ thuật) lắp van
+- kiểm tra bằng van
+
+@valve set  
+*  dt
+- (rađiô) máy thu (đèn) điện tử
+
+@valve spring  
+*  dt
+- lò xo xupap
+
+@valve-cap  
+*  dt
+- mũ van (săm xe)
+
+@valved  
+*  tt
+- (kỹ thuật) có van
+- (thực vật học); (động vật học) có mảnh vỏ
+
+@valveless  
+*  tt
+- không có van
+- (thực vật học); (động vật học) không có mảnh vỏ
+
+@valvelet
+* dt
+- van nhỏ
+ @valve-shaped  
+*  tt
+- hình van
+
+@valviform  
+*  tt
+- hình van
+
+@valvula
+* dt
+- van nhỏ
+ @valvular  
+*  tt
+- (thuộc) van
+- có van
+
+@valvule  
+*  dt
+- (giải phẫu) van nhỏ, van
+- (thực vật học) mảnh vỏ nhỏ, mảnh vỏ
+
+@valvulitis
+* dt
+- (y học) chứng viêm van tim
+ @vamoos   (vamose) @vamoose   (vamose) @vamose   (vamose) @vamp  
+*  dt
+- mũi giày
+- miếng vá (để làm cho có vẻ mới)
+- (âm nhạc) phần đệm ứng tác
+*  ngdgt
+- làm lại mũi (giày), thay mũi mới (vào giày)
+- (âm nhạc) đệm nhạc ứng tác cho (ai)
+*  ndgt
+- (âm nhạc) đệm nhạc ứng tác
+!to vamp up
+- vá víu, chắp vá, sửa lại thành mới (giày dép)
+- cóp nhặt (thành một bài văn)
+*  dt
+- người đàn bà mồi chài đàn ông
+*  dgt
+- mồi chài, quyến rũ (đàn ông)
+
+@vamped
+* tt
+- được vá, được sửa chữa lại
+ @vamper  
+*  dt
+- người vá víu chắp vá
+- (âm nhạc) người đệm nhạc ứng tác
+
+@vampire  
+*  dt
+- ma hút máu, ma cà rồng
+- (nghĩa bóng) kẻ hút máu, kẻ bóc lột
+- (động vật học) dơi quỷ ((cũng) vampire bat)
+- (sân khấu) cửa sập (để diễn viên thình lình biến mất) ((cũng) vampire trap)
+- (từ Mỹ,nghĩa Mỹ) người đàn bà mồi chài đàn ông
+
+@vampire bat
+* dt
+- <động> dơi quỷ (một trong những loài dơi hút máu ở Trung và Nam Mỹ)
+ @vampire trap
+* dt
+- <skhấu> cửa sập (để diễn viên thình lình biến mất)
+ @vampiric
+- xem vampire
+ @vampirism  
+*  dt
+- sự mê tín ma cà rồng
+- sự hút máu ((nghĩa đen) & (nghĩa bóng))
+
+@vampish
+* tt
+- xem vamp
+- chuyên mồi chài, có sức quyến rũ đàn ông
+ @vampishly
+- xem vamp
+ @vampy
+- xem vamp
+ @van  
+*  dt
+- (quân sự) tiền đội, quân tiên phong
+- những người đi tiên phong, những người lãnh đạo (một phong trào); địa vị hàng đầu
+
++ men in the van of the movement: những người đi tiên phong trong phong trào
+
++ in the van of nations fighting for independence: ở hàng đầu trong các nước đang đấu tranh giành độc lập
+*  dt
+- xe hành lý, xe tải
+- (ngành đường sắt) toa hành lý, toa hàng ((cũng) luggage van)
+*  ngdgt
+- chuyên chở bằng xe tải
+*  dt
+- (từ cổ,nghĩa cổ) máy quạt thóc
+- (từ cổ,nghĩa cổ); (thơ ca) cánh chim
+*  ngdgt
+- đãi (quặng)
+
+@vanadate  
+*  dt
+- (hoá học) vanađat
+
+@vanadium  
+*  dt
+- (hoá học) vanađi
+
+@vanadous
+* tt
+- thuộc vanadi, chứa vanadi
+ @vandal  
+*  dt
+- người phá hoại những công trình văn hoá (với ác tâm hay vì ngu dốt)
+
+@vandalic
+* tt
+- xem vandal
+ @vandalise
+* ngdgt
+- có chủ ý phá hoại, có chủ ý làm hư hỏng (tài sản công cộng )
+ @vandalism  
+*  dt
+- tính hay phá hoại những công trình văn hoá (với ác tâm hay vì ngu dốt)
+
+@vandalistic
+- xem vandalism
+ @vandalization
+* dt
+- xem vandalize
+- dt
+ @vandalize
+* ngdgt
+- có chủ ý phá hoại, có chủ ý làm hư hỏng (tài sản công cộng )
+ @vandyke
+* dt riêng
+- Nâu vánđich
+- Van dích
+ @vandyke brown  
+*  dt
+- (hội họa) nâu vanđich
+
+@vane  
+*  dt
+- chong chóng gió (để xem chiều gió)
+- cánh, cánh quạt (của chân vịt, cối xay)
+- cánh đuôi (bom)
+
+@vanguard  
+*  dt
+- (quân sự) tiền đội, quân tiên phong
+- những người tiên phong (của một phong trào)
+
++ to be in the vanguard of a movement: là người tiên phong của một phong trào
+- (định ngữ) tiên phong
+
++ a vanguard artist: nghệ sĩ tiên phong
+
+@vanguardism
+- xem vanguard
+ @vanguardist
+- xem vanguard
+ @vanilla  
+*  dt
+- (thực vật học) cây vani
+- quả vani
+- vani
+
++ vanilla ice: kem vani
+
+@vanillin  
+*  dt
+- (hoá học) vanilin
+
+@vanish  
+*  ndgt
+- biến mất, lẩn mất, biến dần, tiêu tan ((nghĩa đen) & (nghĩa bóng))
+
++ to vanish from sight: biến mất
+
++ to vanish in the crowd: lẩn mất vào đám đông
+
++ hopes vanished like a bubble: hy vọng tiêu tan như mây khói
+- (toán học) triệt tiêu; biến mất
+*  dt
+- (ngôn ngữ học) âm lướt
+
+@vanish
+- triệt tiêu; biến mất
+ @vanished
+* tt
+- đã biến mất, không còn nữa
+ @vanisher
+- xem vanish
+ @vanishing  
+*  dt
+- sự biến mất, sự tiêu tan
+*  tt
+- biến mất, tiêu tan
+
+@vanishing
+- triệt tiêu; biến mất
+- identically v. đồng nhất triệt tiêu, đồng nhất bằng không 
+ @vanishing cream  
+*  dt
+- kem tan, kem nền (để xoa mặt) ((cũng) foundation cream)
+
+@vanishing-line  
+*  dt
+- (toán học) tuyến biến mất
+
+@vanishingly
+- xem vanish
+ @vanishing-point  
+*  dt
+- (toán học) điểm biến mất
+
+@vanishment
+- xem vanish
+ @vanitory
+* dt
+- bàn trang điểm gắn với chổ rửa mặt
+ @vanity  
+*  dt
+- tính hư ảo; cái hư ảo
+- chuyện phù hoa, hư danh
+
++ these things are vanity: những cái đó là những chuyện phù hoa
+- tính kiêu căng, lòng tự cao tự đại; sự hợm mình
+
++ to say without vanity: nói không kiêu căng
+
++ out of vanity: vì kiêu căng
+- (như) vanity_bag
+- (từ Mỹ,nghĩa Mỹ) bàn trang điểm
+
+@vanity bag   (vanity_box) @vanity box   (vanity_box) @vanity case   (vanity_box) @vanity-box
+- Cách viết khác : vanity bag 
+ @vanquish  
+*  ngdgt
+- thắng, đánh bại
+
++ to vanquish the enemy: đánh bại kẻ thù
+- chế ngự
+
++ to vanquish one's desires: chế ngự dục vọng
+
+@vanquishable  
+*  tt
+- có thể bị đánh bại, có thể chiến thắng
+- có thể chế ngự được
+
+@vanquished
+* tt
+- bị đánh bại, bị chế ngự
+ @vanquisher  
+*  dt
+- người chiến thắng
+- người chế ngự được (dục vọng của mình)
+
+@vanquishment
+- xem vanquish
+ @vantage  
+*  dt
+- sự thuận lợi, sự hơn thế
+
++ place (point) of vantage: vị trí thuận lợi
+
++ to have someone at vantage: chiếm ưu thế so với ai, thắng thế ai
+- (thể dục,thể thao) phần thắng
+
+@vantage-ground   (vantage-point) @vantage-point   (vantage-point) @vanward
+- trạng từ
+- hướng ra tuyền tuyến
+- tiến lên phía trước
+* tt
+- tiêm kích, tiên phong
+- thuộc tuyến đầu
+ @vapid  
+*  tt
+- nhạt, nhạt nhẽo
+
++ vapid beer: bia nhạt
+
++ a vapid conversation: cuộc nói chuyện nhạt nhẽo
+
+@vapidity  
+*  dt
+- tính chất nhạt nhẽo
+- (số nhiều) những lời nhận xét nhạt nhẽo
+
+@vapidly
+- trạng từ
+- xem vapid
+ @vapidness  
+*  dt
+- tính chất nhạt nhẽo ((cũng) vapidity)
+
+@vapor  
+*  dt & ndgt
+- (từ Mỹ,nghĩa Mỹ) (như) vapour
+
+@vaporable
+* tt
+- có thể biến thành hơi, có thể bốc hơi
+ @vaporarium   (vaporarium) @vaporer
+- xem vapor
+ @vaporescence
+* dt
+- sự tạo thành hơi, sự hình thành hơi
+ @vaporescent
+* tt
+- bốc hơi, thành hơi
+ @vaporific
+* tt
+- liên quan đến việc tạo thành hơi
+- tạo sự bốc hơi
+ @vaporimeter
+* dt
+- chưng khí biểu
+- đồng hồ đo hơi
+ @vaporisation
+* dt(như vaporizing
+- sự làm bốc hơi; sự biến thành hơi nước
+- sự xì, sự bơm (nước hoa )
+* dt
+- <y> phép chữa bằng hơi
+ @vaporise   (vaporise) @vaporizable  
+*  tt
+- có thể bốc hơi
+
+@vaporization  
+*  dt ((cũng) vaporizing)
+- sự bốc hơi
+- sự xì, sự bơm (nước hoa)
+*  dt
+- (y học) phép chữa bằng hơi
+
+@vaporization
+- (vật lí) sự bốc hơi, sự hoá hơi
+ @vaporize   (vaporise) @vaporizer  
+*  dt
+- bình xì, bình bơm
+- (kỹ thuật) bộ bay hơi; bộ phối khí
+
+@vaporizing  
+*  dt ((cũng) vaporization)
+- sự bốc hơi
+- sự xì, sự bơm (nước hoa)
+*  tt
+- bốc hơi
+
+@vaporosity
+- xem vaporous
+ @vaporous  
+*  tt
+- (thuộc) hơi nước; giống hơi nước; có tính chất của hơi nước
+- đầy hơi nước
+- hư ảo
+
+@vaporously
+- xem vaporous
+ @vaporware
+- chương trình sương mù (loại chương trình tiếp thị rất khó khăn, thậm chí đang còn trong giai đoạn hoàn thiện, không ai có thể biết các vấn đề cần hoàn chỉnh của nó sẽ giải quyết được hay không)
+ @vapour  
+*  dt
+- hơi, hơi nước
+- vật hư ảo; sự tưởng tượng hão huyền
+- (số nhiều) (từ cổ,nghĩa cổ) sự buồn rầu, sự chán nản, sự u uất
+*  ndgt
+- bốc hơi
+- (thông tục) nói khoác lác
+- (thông tục) nói chuyện tầm phào
+
+@vapour bath   (vaporarium) @vapour trail  
+*  dt
+- vệt hơi (phía sau máy bay)
+
+@vapourer  
+*  dt
+- (thông tục) người hay khoác lác
+- người hay nói chuyện tầm phào
+
+@vapouring
+* tt
+- khoa trương, bay bướm, cầu kỳ (lời văn)
+- tầm phào, trống trỗng (lời nói)
+- khoe khoang, khoác lác
+* dt
+- chuyện tầm phào
+- lời khoe khoang, lời khoác lác
+ @vapourish   (vapoury) @vapour-laden
+* tt
+- ẩm ướt (khí trời)
+- đầy hơi nước
+ @vapour-trail
+* dt
+- vệt hơi (phía sau máy bay)
+ @vapoury   (vapoury) @vappa
+* tt
+- rượu vang bị chua
+ @vaquero
+* dt
+- người chăn bò, cao bồi
+ @varacious  
+*  tt
+- chân thực
+
++ a varacious historian: một nhà viết sử chân thực
+- đúng sự thực
+
++ a varacious report: một báo cáo đúng sự thực
+
+@varan  
+*  dt
+- (động vật học) kỳ đà xám
+
+@varec   (varech) @varech   (varech) @variability   (variability) @Variability
+- (Econ) Độ biến thiên.
+ @variability
+- (thống kê) [tính, độ] biến đổi
+ @variable  
+*  tt
+- có thể thay đổi
+- hay thay đổi; thay đổi, biến thiên
+
++ variable length: chiều dài thay đổi
+
++ variable function: hàm số biến thiên
+
++ variable flow: dòng chảy biến thiên
+
++ variable wind: gió hay thay đổi
+- (từ Mỹ,nghĩa Mỹ),  (địa lý,địa chất) variable zone ôn đới
+*  dt
+- (toán học) biến số
+- (hàng hải) gió thay đổi
+- (số nhiều) (hàng hải) vùng (biển) không có gió thường xuyên
+
+@Variable
+- (Econ) Biến số.
+ @variable
+- biến (số)   biến thiên, biến đổi
+- additional v. biến thêm 
+- aleatory v. biến ngẫu nhiên 
+- apparent v. biến biểu kiến
+- aritificial v. biến giả tạo
+- auxiliary v. biến bổ trợ, biến phụ
+- bound v. biến buộc
+- chance v. biến ngẫu nhiên
+- complex v. biến phức
+- concomitant v. (thống kê) biến đồng hành 
+- constrained v. (thống kê) biến buộc
+- contibuous v. biến liên tục
+- contragradient v. biến phản bộ 
+- controlled v. biến bị điều khiển
+- dependent v. biến phụ thuộc
+- direction v. biến chỉ phương
+- dummy v. biến giả
+- effect v. (thống kê) biến phụ thuộc
+- esential v. biến cốt yếu
+- Eulerian v.s các biến Ơle
+- free v. biến tự do
+- hypercomplex v. biến siêu phức 
+- independent v. (giải tích) biến độc lập
+- individual v. (logic học) biến cá thể
+- indution v. biến quy nạp
+- input v. biến số vào
+- latent v. biến ẩn
+- leading v. biến số chính
+- main v. (điều khiển học) biến số chính
+- marker v. (thống kê) biến số lưỡng trị
+- missing v. (điều khiển học) biến thiếu
+- number v. (logic học) biến số
+- numerical v. biến số
+- object v. (logic học) biến đối tượng
+- orientation v.s các biến định hướng
+- predicate v. biến vị từ
+- process v. biến điều chỉnh
+- proposition v. biến mệnh đề
+- random v. (thống kê) biến ngẫu nhiên
+- real v. biến thực 
+- space v. (giải tích) biến không gian 
+- stochastic v. biến ngẫu nhiên
+- superfluous v.s (thống kê) các biến thừa
+- theoretiv(al) v. (thống kê) biến lý thuyết
+- unrestricted v. biến tự do 
+@Variable capital
+- (Econ) Vốn (tư bản) khả biến.
+: Trong học thuyết của C.Mác, vốn khả biến ám chỉ phần vốn, đại diện bởi sức lao động, mà làm thay đổi giá trị trong quá trình sản xuất.
+ @Variable cost
+- (Econ) Các chi phí khả biến.
+: Chi phí biến đổi với mức sản lượng, ví dụ chi phí lao động.
+ @Variable elasticity of substitution production function
+- (Econ) (VES production function) - Độ co giãn khả biến của hàm sản xuất thay thế.
+: Đây là dạng tổng quát của ĐỘ CO GIÃN KHÔNG ĐỔI CỦA HÀM SẢN XUẤT THAY THẾ cho phép co giãn của thay thế biến đổi với tỷ số yếu tố đầu vào.
+ @Variable factor
+- (Econ) Các yếu tố sản xuất thay đổi.
+ @Variable labour costs
+- (Econ) Các chi phí lao động khả biến.
+: Chi phí thuê mướn công nhân thay đổi tỷ lệ thuận hay hơn tỷ lệ thuận với số giờ làm việc.
+ @Variable parameter models
+- (Econ) Các mô hình thông số khả biến.
+: Các mô hình kinh tế lượng, trong đó các thông số về dân số cần được ước lượng, được giả định là biến số, không giống như trong phân tích hồi quy mà trong đó các thông số được coi là cố định.
+ @variableness   (variability) @variably
+- trạng từ
+- xem variable
+ @variance  
+*  dt
+- sự khác nhau, sự không đi đôi, sự không ăn khớp, sự mâu thuẫn
+
++ words are at variance with the facts: lời nói không đi đôi với việc làm
+- sự xích mích; mối bất hoà
+
++ to be at variance with someone: xích mích (mâu thuẫn) với ai
+- sự thay đổi (về thời tiết...)
+
+@Variance
+- (Econ) Phương sai
+: Một số đo được sử dụng phổ biến để đo mức độ mà một biến số ngẫu nhiên (hoặc một thống kê) phân tán xung quanh giá trị ttrung bình của nó.
+ @variance
+- (thống kê) phương sai
+- accidental v. phương sai ngẫu nhiên
+- external v. phương sai ngoài
+- generlized v. phương sai suy rộng
+- interclass v. phương sai giữa các lớp
+- internal v. phương sai trong
+- minimun v. phương sai nhỏ nhất
+- relative v. phương sai tương đối (bình phương của số biến thiên)
+- residual v. phương sai thặng dư
+- within-group v. phương sai trong nhóm 
+ @Variance-covariance matrix
+- (Econ) Ma trận phương sai - hiệp phương sai.
+: Ma trận phương sai và các hiệp phương sai. của một dãy các biến số ngẫu nhiên cùng phân phối, phương sai tạo nên đường chéo, trong khi hiệp phương sai là các côtọ và các dòng liên quan.
+ @variant  
+*  tt
+- khác nhau chút ít
+
++ variant reading: cách đọc khác nhau chút ít
+
++ variant form: dạng khác nhau chút ít
+- hay thay đổi, hay biến đổi
+*  dt
+- biến thế
+
++ variants of word: các biến thể của một từ
+
+@variant
+- biến thức, khác nhau
+ @variate
+- (thống kê) biến ngẫu nhiên; đại lượng ngẫu nhiên
+ @variation  
+*  dt
+- sự biến đổi, sự thay đổi
+
++ a variation in colour: sự biến đổi về màu sắc
+
++ variation in public opinion: sự thay đổi ý kiến trong dư luận
+- sự khác nhau, sự sai nhau
+
++ some variations of the sense: một vài sự khác nhau về nghĩa
+- biến dạng, biến thể
+- (toán học); (vật lý) sự biến thiên
+- (sinh vật học) biến dị
+- (âm nhạc) biến tấu
+
+@Variation
+- (Econ) Biến động.
+: Xem VARIANCE, ANALYSIS OF VARIANCE, SUM OF SQUARES.
+ @variation
+- sự biến thiên, biến phân
+- v. of a function biến phân của hàm
+- v. of parameters biến thiên tham số
+- v. of sign in a polynomial sự biến dấu trong một đa thức
+- admissible v. biến phân chấp nhận được
+- batch v. biến phân trong nhóm
+- bounded v. biến phân bị chặn
+- combined v. biến phân liên kết 
+- direct v. biến thiên trực tiếp
+- first v. biến phân thứ nhất
+- free v. biến phân tự do
+- inverse v. biến phân ngược
+- limited v. biến phân [bị cặn, giới nội]
+- negative v. biến phân âm
+- one-sided v. biến phân một phía
+- partial v. biến phân riêng
+- positive definite second v. biến thiên thứ hai xác định dương
+- second v. biến phân thứ hai
+- strong v. biến phân mạch
+- third v. biến phân thứ ba
+- total v. of a function biến phân toàn phần của một hàm
+- weak v. biến phân yếu
+ @variational
+* tt
+- xem variation
+ @variational
+- (thuộc) biến phân
+ @variator
+* dt
+- máy điều hoà tốc độ
+ @varicella  
+*  dt
+- (y học) bệnh thuỷ đậu
+
+@varicelloid
+- xem varicella
+ @varicellous  
+*  tt
+- mắc bệnh thuỷ đậu
+
+@varices  
+*  dt,  số nhiều varices (y học)
+- chứng giãn tĩnh mạch
+- tĩnh mạch bị giãn
+
+@varicolored   (varicoloured) @varicoloured   (varicoloured) @vari-coloured
+- Cách viết khác : varicolored 
+ @varicose  
+*  tt
+- (y học) (thuộc) chứng giãn tĩnh mạch; để chữa chứng giãn tĩnh mạch
+- bị giãn tĩnh mạch
+
+@varicosity  
+*  dt
+- (y học) tính trạng giãn tĩnh mạch
+- chỗ tĩnh mạch bị giãn
+
+@varied  
+*  tt
+- khác nhau; thay đổi, biến đổi
+
++ varied interests: những quyền lợi khác nhau
+
++ varied opinions: những ý kiến khác nhau
+
++ varied colours: nhiều màu khác nhau
+- lắm vẻ; đầy những đổi thay
+
+@variedly
+- xem varied
+ @variegate  
+*  ngdgt
+- điểm những đốm màu khác nhau, làm cho lẫn màu
+
+@variegated  
+*  tt
+- có đốm màu khác nhau, lẫn màu
+
+@variegation  
+*  dt
+- sự điểm những đốm màu khác nhau
+- tình trạng có nhiều đốm màu khác nhau
+
+@variegator
+- xem variegate
+ @varietal
+* tt
+- giống tốt
+ @variety  
+*  dt
+- trạng thái khác nhau, trạng thái muôn màu muôn vẻ; tính chất bất đồng
+
++ a life full of variety: cuộc đời muôn vẻ
+
++ variety in food: thức ăn khác nhau, thức ăn nhiều thứ
+
++ variety of opinion: ý kiến bất đồng
+- nhiều thứ; mớ
+
++ due to a variety of causes: do nhiều nguyên nhân
+- (sinh vật học) thứ
+- (như) variety_show
+
+@variety
+- hh; ds. đa tạp; tính đa dạng
+- Abelian v. đa tạp Abel
+- exceptional v. đa tạp ngoại lệ
+- group v. đa tạp nhóm
+- irreducible v. đa tạp không khả quy
+- jacobian v. đa tạp jacobi
+- minimal v. đa tạp tối thiểu, đa tạp cực tiểu
+- polarized v. đa tạp phân cực
+- pure v. đa tạp thuần tuý
+- reducible v. đa tạp khả quy
+- requisit v. (điều khiển học) tính đa dạng cần thiết
+- semi-pure v. đa tạp bán thuần tuý
+- solvable group v. đa tạp nhóm giải được
+- unirational v. đa tạp đơn hữu tỷ
+ @variety entertainment   (variety_entertainment) @variety show   (variety_entertainment) @variety store
+* dt
+- <Mỹ> tiệm tạp hoá
+ @variform  
+*  tt
+- có hình dạng khác nhau, nhiều dạng
+
+@variola  
+*  dt
+- (y học) bệnh đậu mùa
+
+@variolar  
+*  tt
+- (thuộc) bệnh đậu mùa
+- rỗ
+
+@variolate  
+*  ngdgt
+- (y học) chủng đậu
+
+@variolation  
+*  dt
+- (y học) sự chủng đậu
+
+@variole  
+*  dt
+- (động vật học) lỗ nốt đậu (giống như nốt đậu)
+
+@varioloid  
+*  tt
+- (y học) tựa bệnh đậu mùa
+*  dt
+- (y học) bệnh tiểu đậu
+
+@variolous  
+*  tt
+- (như) variolar
+- (động vật học) rỗ nốt đậu
+
+@variometer  
+*  dt
+- (vật lý) cái biến cảm
+
+@variorum  
+*  dt
+- sách có chú giải của nhiều nhà bình luận
+
++ variorum edition: bản in có chú giải của nhiều nhà bình luận
+
+@various  
+*  tt
+- khác nhau; nhiều thứ khác nhau
+
++ known under various names: được biết dưới nhiều tên khác nhau
+
++ to read various books: đọc nhiều sách khác nhau
+
++ for various reasons: vì nhiều lý do khác nhau
+
+@various
+- khác nhau
+ @variously
+* dt
+- khác nhau theo từng trường hợp, thời gian, nơi chốn  riêng
+ @variousness  
+*  dt
+- tính chất khác nhau
+
+@variplotter
+- (máy tính) máy dựng đường cong tự động
+ @varix  
+*  dt,  số nhiều varices (y học)
+- chứng giãn tĩnh mạch
+- tĩnh mạch bị giãn
+
+@varlet  
+*  dt
+- (sử học) người hầu hiệp sĩ
+- (từ cổ,nghĩa cổ) đồ lếu láo, đồ xỏ lá
+
+@varletry
+* dt
+- bọn lưu manh, đồ đê tiện
+- bọn dân ngu khu đen
+- lũ tiện dân
+ @varment
+* dt
+- xem varmint
+ @varmint  
+*  dt
+- (thông tục) người quái ác, người ác hiểm
+
++ young varmint: thằng bé tinh ranh quái ác
+- sâu mọt; vật hại
+- (săn bắn),  (từ lóng) con cáo
+
+@varnish  
+*  dt
+- véc ni, sơn dầu
+- mặt véc ni
+- nước bóng
+- men (đồ sành)
+- (nghĩa bóng) mã ngoài, lớp sơn bên ngoài
+*  ngdgt
+- đánh véc ni, quét sơn dầu
+- tráng men (đồ sành)
+- (nghĩa bóng) tô son điểm phấn
+
++ to varnish one's reputation: tô son điểm phấn cho cái danh tiếng bề ngoài
+
+@varnished
+* tt
+- được tô vẽ
+- được đánh vécni, được quét sơn dầu
+ @varnisher  
+*  dt
+- người đánh véc ni (bàn ghế)
+- người tráng men đồ sành
+
+@varnishing  
+*  dt
+- sự đánh véc ni, sự quang dầu
+- sự trang men
+- (nghĩa bóng) sự tô son điểm phấn
+
+@varnishing-day  
+*  dt
+- ngày sang sửa tranh (trước hôm khai mạc triển lãm mỹ thuật)
+
+@varnish-tree
+- anh từ
+- cây sơn
+ @varsal
+* tt
+- toàn bộ
+ @varsity  
+*  dt
+- (thông tục) (như) university
+
+@vary  
+*  ngdgt
+- làm cho khác nhau, thay đổi, biến đổi
+
++ to vary the diet: thay đổi chế độ ăn uống
+*  ndgt
+- thay đổi, biến đổi, đổi khác
+
++ to vary from day to day: thay đổi mỗi ngày một khác
+- khác nhau với, khác với
+
++ this edition varies a little from the first one: bản in này khác với bản in lần thứ nhất một chút
+- bất đồng
+
++ opinions vary on this point: ý kiến bất đồng ở điểm này
+- (toán học); (vật lý) biến thiên
+- (âm nhạc) biến tấu
+
+@vary
+- biến đổi, biến thiên
+- to v.directly biến đổi theo tỷ lệ thuận; to v. inversely biến đổi theo tỷ lệ
+- ngược 
+ @varying  
+*  tt
+- hay thay đổi, hay biến đổi
+- khác nhau
+
+@varyingly
+- xem vary
+ @vas  
+*  dt,  số nhiều vasa
+- (giải phẫu) mạch; ống
+
+@vasa  
+*  dt,  số nhiều vasa
+- (giải phẫu) mạch; ống
+
+@vasal
+* tt
+- thuộc mạch quản
+@vascula  
+*  dt,  số nhiều vascula
+- hộp sưu tập, hộp tiêu bản (của nhà thực vật học)
+- (giải phẫu) mạch máu nhỏ
+
+@vascular  
+*  tt
+- (giải phẫu) (thuộc) mạch (máu)
+
++ vascular system: hệ mạch (máu)
+- (thực vật học) có mạch
+
++ vascular plant: cây có mạch
+
+@vascularity  
+*  dt
+- tình trạng có mạch
+
+@vascularization
+* dt
+- sự phân bố mạch
+ @vasculum  
+*  dt,  số nhiều vascula
+- hộp sưu tập, hộp tiêu bản (của nhà thực vật học)
+- (giải phẫu) mạch máu nhỏ
+
+@vase  
+*  dt
+- bình, lọ
+
+@vasectomy
+* dt
+- phẫu thuật cắt ống dẫn tinh (nhất là một biện pháp sinh đẻ có kế hoạch)
+ @vaseline  
+*  dt
+- vazơlin
+
+@vasiform
+* tt
+- có hình lọ @vasoconstriction
+* dt
+- sự co mạch
+ @vasodepression
+* dt
+- sự giảm áp mạch
+ @vasoiner
+* tt
+- trơ mạch
+ @vasomotor  
+*  tt
+- (sinh vật học) vận mạch
+
++ vasomotor nerve: dây thần kinh vận mạch
+
+@vasopressive
+* tt
+- tăng áp mạch
+ @vassal  
+*  dt
+- chưa hầu; phong hầu
+- kẻ lệ thuộc
+*  tt
+- chư hầu
+
++ a vassal kingdom: một vương quốc chư hầu
+- lệ thuộc
+
+@vassalage  
+*  dt
+- thân phận chư hầu; nghĩa vụ của chư hầu
+- các chư hầu
+- sự lệ thuộc
+
+@vast  
+*  tt
+- rộng lớn, mênh mông, bao la; to lớn ((nghĩa đen) & (nghĩa bóng))
+
++ a vast expanse of water: một vùng nước mênh mông
+
++ a vast mountain: quả núi lớn
+
++ a vast sum: số tiền lớn
+
++ vast reading: sự hiểu biết rộng; sự đọc rộng
+*  dt
+- (thơ ca); (văn học) khoảng rộng bao la
+
++ the vast of ocean: đại dương rộng bao la
+
++ the vast of heaven: bầu trời rộng bao la
+
+@vast
+- rộng, to, lớn
+ @vastitude
+* dt
+- khoảng rộng
+- sự to lớn, sự rộng lớn
+ @vastity
+* dt
+- xem vastitude
+ @vastly  
+*  dt
+- rộng lớn, mênh mông, bao la
+- (thông tục) vô cùng, to
+
++ to be vastly amused: vô cùng vui thích
+
++ to be vastly mistaken: lầm to
+
+@vastness  
+*  dt
+- tính chất rộng lớn, tính chất mênh mông, tính chất bao la
+
+@vasty
+* tt
+- to lớn
+ @vat  
+*  dt
+- thùng to, bể, chum (để ủ rượu, muối cá...)
+*  ngdgt
+- bỏ vào bể, bỏ vào chum; ủ vào bể, ủ vào chum
+
+@vatful  
+*  dt
+- thùng (đầy), bể (đầy), chum (đầy)
+
+@vatic
+* tt
+- tiên đoán, tiên tri
+ @vatical
+* tt
+- xem vatic
+ @vatican  
+*  dt
+- toà thánh,  Va-ti-can
+
+@vaticide
+* dt
+- kẻ giết nhà tiên tri
+ @vaticinal
+* tt
+- có tính chất tiên đoán, có tính chất tiên tri
+ @vaticinate  
+*  ngdgt
+- tiên đoán
+
+@vaticination  
+*  dt
+- sự tiên đoán
+- lời tiên đoán
+
+@vaticinator  
+*  dt
+- người tiên đoán
+
+@vatted
+* tt
+- lâu năm (rượi)
+- để lâu
+- thuộc về thùng
+ @vaudeville  
+*  dt
+- kịch vui,  vôđơvin
+- cuộc biểu diễn nhiều môn
+- bài ca thời sự (Pháp)
+
+@vaudevillist  
+*  dt
+- nhà soạn kịch vui
+
+@vault  
+*  dt
+- (thể dục,thể thao) cái nhảy qua (hàng rào, ngựa gỗ...)
+*  ndgt
+- nhảy qua, nhảy tót lên; nhảy sào
+
++ to vault over a gate: nhảy qua cổng
+
++ to vault into the saddle: nhảy tót lên yên
+*  ngdgt
+- nhảy qua
+*  dt
+- vòm, mái vòm, khung vòm
+
++ the vault of the church: mái vòm của nhà thờ
+
++ the vault of heaven: vòm trời
+- hầm (để cất trữ rượu...)
+- hầm mộ
+
++ family vault: hầm mộ gia đình
+*  ngdgt
+- xây thành vòm, xây cuốn
+
++ to vault a passage: xây khung vòm một lối đi
+
++ a vaulted roof: mái vòm
+- che phủ bằng vòm
+
++ vaulted with fire: bị lửa phủ kín
+*  ndgt
+- cuốn thành vòm
+
+@vaulted  
+*  tt
+- uốn vòm, khom
+
+@vaulter  
+*  dt
+- (thể dục,thể thao) người nhảy, vận động viên nhảy sào
+- người nhào lộn (xiếc)
+
+@vaulting  
+*  dt
+- (thể dục,thể thao) sự nhảy ngựa gỗ, môn nhảy ngựa gỗ; sự nhảy sào, môn nhảy sào
+
+@vaulting-horse  
+*  dt
+- ngựa gỗ (để tập nhảy)
+
+@vaulting-pole  
+*  dt
+- sào nhảy
+
+@vaulty
+* tt
+- có hình dạng vòm
+ @vaunt  
+*  dt
+- thói khoe khoang khoác lác
+- lời khoe khoang khoác lác
+*  dgt
+- khoe, khoe khoang, khoác lác
+
+@vaunt-courier
+- anh từ
+- trinh sát viên, thám báo
+- người đưa tin
+ @vaunted
+* tt
+- được ca tụng, được tán dương
+ @vaunter  
+*  dt
+- người khoe khoang khoác lác
+
+@vauntful
+* tt
+- có tính chất khoe khoang
+ @vaunting  
+*  tt
+- khoe khoang, khoác lác
+
+@vauntingly
+- xem vaunt
+ @vavelet  
+*  dt
+- van nhỏ
+
+@

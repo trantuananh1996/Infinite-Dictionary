@@ -1,0 +1,4 @@
+@lcd
+* (viết tắt)
+- màn tinh thể lỏng (Liquid Crystal Display)
+ @

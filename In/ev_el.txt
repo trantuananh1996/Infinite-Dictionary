@@ -1,0 +1,2378 @@
+@el  
+*  dt
+- (như) ell
+- (từ Mỹ,nghĩa Mỹ) (viết tắt) của elevated railroad đường sắt (nền) cao
+
+@el dorado  
+*  dt
+- (El_Dorado) xứ En-đô-ra-đô (xứ tưởng tượng có nhiều vàng)
+
+@elaborate  
+*  tt
+- phức tạp
+
++ an elaborate machine-tool: một máy công cụ phức tạp
+- tỉ mỉ, kỹ lưỡng, công phu; trau chuốt, tinh vi
+
++ an elaborate investigation: một cuộc điều tra tỉ mỉ
+
++ elaborate style: văn trau chuốt
+
++ an elaborate work of art: một tác phẩm nghệ thuật tinh vi
+*  ngdgt
+- thảo tỉ mỉ, thảo kỹ lưỡng, sửa soạn công phu; làm công phu, trau chuốt (văn); dựng lên
+
++ to elaborate a theory: dựng lên một lý thuyết
+- (sinh vật học) chế tạo ra, sản ra
+*  ndgt
+- nói thêm, cho thêm chi tiết
+
++ to on a problem: nói thêm về một vấn đề, cho thêm chi tiết về một vấn đề
+- trở thành tỉ mỉ; trở thành tinh vi
+
+@elaborately  
+*  dt
+- tỉ mỉ, kỹ lưỡng, công phu; trau chuốt, tinh vi
+
+@elaborateness  
+*  dt
+- sự tỉ mỉ, sự kỹ lưỡng, sự công phu; sự trau chuốt, sự tinh vi
+
+@elaboration  
+*  dt
+- sự thảo tỉ mỉ, sự thảo kỹ lưỡng, sự sửa soạn công phu; sự làm công phu; sự dựng lên
+- (sinh vật học) sự chế tạo, sự sản ra
+
+@elaborative  
+*  tt
+- thảo tỉ mỉ, thảo kỹ lưỡng, sửa soạn công phu; làm công phu; dựng lên
+
+@elaborator
+- xem elaborate
+ @elaeoblast
+* dt
+- (sinh học) khối u
+ @elaeocyte
+* dt
+- (sinh học) tế bào đầu
+ @elaeometer  
+*  dt
+- cái đo dầu
+
+@elaeoplast
+* dt
+- (sinh học) hạt tạo đầu
+ @eland  
+*  dt
+- (động vật học) linh dương Châu phi
+
+@elapse  
+*  ndgt
+- trôi qua (thời gian)
+
+@elasmobranch
+* dt
+- số nhiều elasmobranchs
+- (động vật) bộ cá nhám
+* tt
+- thuộc bộ cá nhám
+ @elastic  
+*  tt
+- co giãn ((nghĩa đen) & (nghĩa bóng)), đàn hồi; mềm dẻo
+- nhún nhảy (bước đi...)
+- bồng bột, bốc đồng
+!elastic conscience
+- lương tâm để tự tha thứ
+*  dt
+- dây chun, dây cao su
+
+@elastic
+- đàn hồi, co giãn
+- partially e. đàn hồi không tuyệt đối 
+- perfectly e. đàn hồi tuyệt đối, đàn hồi hoàn toàn 
+ @Elastic and unit elastic demand
+- (Econ) Nhu cầu co giãn và co giãn một đơn vị.
+ @elastically
+- xem elastic
+ @elasticate
+* dgt
+- làm cho đàn hồi
+ @elasticated
+* tt
+- chế tạo có đưa chất đàn hồi vào
+ @elasticity  
+*  dt
+- tính co giãn ((nghĩa đen) & (nghĩa bóng)), tính đàn hồi; tính mềm dẻo
+- tính nhún nhẩy
+- tính bồng bột, tính bốc đồng
+- tính dễ tự tha thứ (lương tâm)
+
+@Elasticity
+- (Econ) Độ co giãn
+: Một thước đo tỷ lệ phần trăm thay đổi của một biến số đối với một tỷ lệ % thay đổi của một biến số khác. Xem PRICE ELASTICITY OF DEMAND.
+ @elasticity
+- tính đàn hồi, đàn hồi
+- cubical e. đàn hồi thể tích 
+ @Elasticity of demand
+- (Econ) Độ co giãn của cầu.
+: Thường dùng để chỉ ĐỘ CO GIÃN CỦA CẦU THEO GIÁ, nhưng cần phải xác định rõ độ ca giãn của cầu nào đang được đề cập đến.
+ @Elasticity of input substitution
+- (Econ) Độ co giãn của sự thay thế đầu vào.
+: Một thước đo sự phản ứng của sự kết hợp lao động TỐI ƯU đối với thay đổi giá tương đối của hai đầu vào này (hoặc để chỉ hai yếu tố đầu vào bất kỳ).
+ @elastic-sides  
+*  dt số nhiều
+- giày cao cổ có cạnh chun ((cũng) elastic-sides side boots)
+
+@elastomer
+* dt
+- chất đàn hồi
+ @elastomeric
+* tt
+- thuộc chất nhựa đàn hồi
+ @elastoplast
+* dt
+- băng dán vết thương
+ @elate  
+*  ngdgt
+- làm phấn chấn, làm phấn khởi, làm hân hoan
+- làm tự hào, làm hãnh diện
+*  tt
+- (từ cổ,nghĩa cổ) phấn chấn, phấn khởi, hân hoan, hoan hỉ
+- tự hào, hãnh diện
+
+@elated  
+*  tt
+- phấn chấn, phấn khởi, hân hoan, hoan hỉ
+- tự hào, hãnh diện
+
+@elatedly
+* dt
+- phấn khởi, hân hoan
+ @elatedness
+- xem elated
+ @elater
+* dt
+- sợi đàn hồi
+- (động vật) bọ bổ củi
+ @elation  
+*  dt
+- sự phấn chấn, sự phấn khởi, sự hân hoan, sự hoan hỉ; niềm vui
+- sự tự hào, sự hãnh diện
+
+@elbow  
+*  dt
+- khuỷu tay; khuỷu tay áo
+- góc, khuỷu (giống khuỷu tay)
+!at ssomeone's elbow
+- ở cạnh nách ai
+!to crock (lift) one's elbow
+- hay chè chén
+!out at elbows
+- sờn khuỷu, thủng khuỷu tay (áo)
+- nghèo xơ nghèo xác (người)
+!to rub elbows with someone
+- sát cánh với ai
+
++ to rub elbow with death: suýt chết
+!up to the elbows in work
+- bận rộn, tối tăm mặt mũi
+*  ngdgt
+- thúc (bằng) khuỷu tay, hích
+
++ to elbow someone aside: thúc ai ra một bên
+
++ to elbow one's way through the crowd: thúc khuỷu tay đi lách qua đám đông
+
++ to elbow someone off (out off) something: hích ai ra khỏi cái gì, loại ai ra khỏi cái gì
+*  ndgt
+- lượn khúc (đường đi, sông...)
+
+@elbow-cap
+* dt
+- xương bánh chè
+ @elbow-chair  
+*  dt
+- ghế bành, ghế có dựa tay
+
+@elbow-grease  
+*  dt
+- sự đánh bóng lộn lên
+- sự cố sức, sự rán sức; sự làm việc cần cù
+
+@elbow-joint
+* dt
+- khớp khủyu tay
+ @elbow-pipe
+* dt
+- ống nối có góc
+ @elbow-rest  
+*  dt
+- chỗ dựa khuỷu tay; gối dựa
+
+@elbow-room  
+*  dt
+- chỗ trở tay
+
+@elchee  
+*  dt
+- sứ thần, đại sứ
+
+@eld  
+*  dt (từ cổ,nghĩa cổ); (thơ ca)
+- tuổi da mồi tóc bạc
+- thời xưa, thuở xưa
+
+@elder  
+*  tt
+- nhiều tuổi hơn
+
++ elder brother: anh
+*  dt
+- người nhiều tuổi hơn
+- (số nhiều) bậc huynh trưởng
+*  dt
+- (thực vật học) cây cơm cháy
+
+@elderberry
+* dt
+- <thực> quả cây cơm cháy
+ @elderliness
+- xem elderly
+ @elderly  
+*  tt
+- sắp già
+
+@eldership
+- xem elder
+ @eldest  
+*  tt
+- cả (anh, chị), nhiều tuổi nhất
+
+@eldorado
+* dt (số nhiều eldorados)
+- xứ Eldorado - vùng đất tưởng tượng giàu có
+- nơi phong phú thịnh vượng hoặc may mắn (vùng đất lý tưởng)
+ @eldritch  
+*  tt
+- (Ê-cốt) kỳ quái, xấu như ma
+
+@eleaticism
+* dt
+- học thuyết Ê-lê
+ @elecampane  
+*  dt
+- (thực vật học) cây thổ mộc hương
+- kẹo thổ mộc hương
+
+@elect  
+*  tt
+- chọn lọc
+- đã được chọn, đã được bầu (nhưng chưa nhậm chức...)
+
++ preseident elect: tổng thống mới được bầu (chưa nhậm chức)
+!the elect
+- (tôn giáo) những người được Chúa chọn (lên thiên đường)
+*  ngdgt
+- chọn
+- bầu
+- quyết định
+
++ he elected to remain at home: nó quyết định ở lại nhà
+
+@electability
+* dt
+- khả năng được chọn, khả năng được bầu
+ @election  
+*  dt
+- sự chọn
+- sự bầu cử; cuộc tuyển cử
+
++ a general election: cuộc tổng tuyển cử
+- (tôn giáo) sự chọn lên thiên đường
+
+@electioneer  
+*  dt
+- người vận động bầu cử
+*  ndgt
+- vận động bầu cử
+
+@electioneerer
+- xem electioneer
+ @electioneering
+* dt
+- hoạt động nhằm tác động đến cử tri trong một cuộc bầu cử bằng cách vận động, đọc diễn văn...; cuộc vận động bầu cử
+ @elective  
+*  tt
+- do chọn lọc bằng bầu cử
+- có quyền bầu cử
+
++ hoá elective affinity: ái lực chọn lọc
+- (từ Mỹ,nghĩa Mỹ) có thể chọn lọc, không thể bắt buộc (môn học...)
+*  dt
+- (từ Mỹ,nghĩa Mỹ) môn có thể chọn lọc, môn không thể bắt buộc
+
+@electively
+- xem elective
+ @electiveness
+- xem elective
+ @elector  
+*  tt
+- cử tri, người bỏ phiếu
+- (sử học),  Đức tuyển hầu
+- (từ Mỹ,nghĩa Mỹ) người dự đại hội đại biểu cử tri (để bầu tổng thống)
+
+@electoral  
+*  tt
+- (thuộc) sự bầu cử; (thuộc) cử tri
+
++ electoral system: chế độ bầu cử
+
++ electoral law: luật bầu cử
+
++ electoral college: (từ Mỹ,nghĩa Mỹ) đại hội đại biểu cử tri (để bầu tổng thống)
+
+@electorally
+- xem electoral
+ @electorate  
+*  dt
+- toàn bộ cử tri
+- khu bầu cử
+- (sử học),  Đức địa vị tuyến hầu; thái ấp của tuyến hầu
+
+@electoress
+* dt
+- nữ cử tri
+- tuyển hầu phu nhân
+ @electorship  
+*  dt
+- tư cách cử tri
+
+@electress  
+*  dt
+- nữ cử tri
+
+@electric  
+*  tt
+- (thuộc) điện, có điện, phát điện
+
++ electric light: ánh sáng điện
+
++ an electric torch: đèn pin
+- làm náo động, làm sôi nổi
+
+@electric arc  
+*  dt
+- (vật lý) cung lửa điện, hồ quang điện
+
+@electric bell
+- (Tech) chuông điện
+ @electric blanket
+* dt
+- chăn điện
+ @electric breakdown
+- (Tech) sự cố hỏng điện
+ @electric carrier signal
+- (Tech) tín hiệu mang điện
+ @electric chair  
+*  dt
+- ghế điện (để xử tử)
+- sự xử tử bằng ghế điện
+
+@electric charge
+- (Tech) điện tích
+ @electric circuit
+- (Tech) mạch điện
+ @electric clock
+- (Tech) đồng hồ điện
+ @electric conductivity
+- (Tech) tính dẫn điện
+ @electric constant
+- (Tech) hằng số điện
+ @electric controller
+- (Tech) bộ điều khiển bằng điện
+ @electric coupling
+- (Tech) cái ghép điện
+ @electric current
+- (Tech) dòng điện
+ @electric discharge
+- (Tech) phóng điện
+ @electric eel  
+*  dt
+- (động vật học) cá điện (ở Nam mỹ)
+
+@electric eye  
+*  dt
+- mắt điện (để điều khiển một số bộ phận máy...)
+
+@electric eye button
+- (Tech) nút mắt điện
+ @electric field
+* dt
+- điện trường
+ @electric flux density
+- (Tech) mật độ điện thông
+ @electric furnace  
+*  dt
+- lò điện
+
+@electric generator
+- (Tech) máy phát điện
+ @electric guitar  
+*  dt
+- (âm nhạc) Ghita điện
+
+@electric industry
+- (Tech) công nghiệp điện
+ @electric intensity
+- (Tech) cường độ điện
+ @electric interference
+- (Tech) nhiễu điện
+ @electric lamp
+- (Tech) đèn điện
+ @electric lead
+- (Tech) dây dẫn điện
+ @electric light
+- (Tech) ánh sáng điện; đèn điện
+ @electric line
+- (Tech) đường dây điện
+ @electric motor
+- (Tech) động cơ điện
+ @electric needle  
+*  dt
+- (y học) kim điện
+
+@electric network
+- (Tech) mạng điện
+ @electric polarization
+- (Tech) sự phân cực bằng điện
+ @electric potential
+- (Tech) điện thế
+ @electric power supply
+- (Tech) nguồn cung cấp điện lực
+ @electric razor
+* dt
+- dụng cụ cạo râu chạy bằng điện
+ @electric resonance
+- (Tech) cộng hưởng điện
+ @electric shield
+- (Tech) vỏ chắn điện
+ @electric shock
+- (Tech) va chạm điện, điện giật
+ @electric soldering iron
+- (Tech) mỏ hàn điện
+ @electric steel  
+*  dt
+- thép lò điện
+
+@electric storm
+* dt
+- sự xáo trộn khí quyển làm phát sinh dòng điện
+ @electric tachometer
+- (Tech) chuyển tốc kế chạy điện
+ @electric transducer
+- (Tech) bộ biến hoán điện
+ @electric valve
+- (Tech) van điện
+ @electric wave filter
+- (Tech) bộ lọc sóng điện
+ @electrical  
+*  tt
+- (thuộc) điện
+
+@electric(al)
+- (vật lí) (thuộc) điện
+ @electrical energy
+- (Tech) năng lượng điện
+ @electrical engineering
+- (Tech) kỹ thuật điện
+ @electrical equipment
+- (Tech) thiết bị điện
+ @electrical ignition
+- (Tech) mồi điện
+ @electrical installation
+- (Tech) lắp điện; thiết bị điện
+ @electrical instrument
+- (Tech) dụng cụ điện
+ @electrical neutrality
+- (Tech) tính trung hòa điện
+ @electrical noise
+- (Tech) tiếng ồn điện, nhiễu điện
+ @electrical schematic
+- (Tech) sơ đồ điện
+ @electrical sheath
+- (Tech) vỏ bọc cách điện
+ @electrical specification
+- (Tech) quy định (về) điện
+ @electrically
+* dt
+ @electrically alterable read-only memory (EAROM)
+- (Tech) bộ nhớ chỉ đọc đổi điện được
+ @electrically erasable and programmable ROM (EEPROM)
+- (Tech) bộ nhớ chỉ đọc tẩy và thảo chương được (bằng điện)
+ @electrician  
+*  dt
+- thợ lắp điện; thợ điện
+
+@electricity  
+*  dt
+- điện, điện lực
+
++ static electricity: tĩnh điện
+
++ magnetic electricity: điện tử
+
++ positive electricity: điện dương
+
++ negastive electricity: điện âm
+- điện học
+
+@electricity
+- điện
+ @electricity meter
+- (Tech) đồng hồ đo điện
+ @electricute
+* ngdgt
+- dùng điện tử để xử tử
+ @electricution
+* dt
+- sự dùng điện để xử tử
+ @electrifiable
+- xem electrify
+ @electrification  
+*  dt
+- sự nhiễm điện
+- sự cho điện giật
+- sự điện khí hoá
+
+@electrifier
+- xem electrify
+ @electrify   (electrise) @electrify
+- nhiễm điện, điện khí hoá
+ @electrifyingly
+- xem electrify
+ @electrine
+* dt
+- hổ phách
+ @electrise   (electrise) @electrization  
+*  dt
+- sự nhiễm điện
+
+@electrization
+- sự nhiễm điện
+ @electrize   (electrise) @electro  
+*  (thông tục) (viết tắt) của electroplate
+*  (thông tục) (viết tắt) của electrotype
+
+@electroacoustic
+- (Tech) điện âm
+ @electroacoustic transducer
+- (Tech) bộ biến hoán điện âm
+ @electro-acoustics  
+*  dt,  số nhiều dùng như số ít
+- điện âm học
+
+@electro-analysis  
+*  dt
+- phép phân tích học
+
+@electro-biology  
+*  dt
+- điện sinh vật học, môn sinh vật điện
+
+@electro-cardiogram  
+*  dt
+- (y học) biểu đồ điện tim, điện tâm đồ
+
+@electrocardiogram
+* dt
+- (y học) biểu đồ điện tim, điện tâm đồ
+ @electro-cardiograph  
+*  dt
+- máy ghi điện tim
+
+@electrocardiograph
+* dt
+- máy ghi điện tim
+ @electro-chemical  
+*  tt
+- (thuộc) điện hoá học
+
+@electrochemical
+* tt
+- (thuộc) điện hoá học
+ @electrochemistry
+* dt
+- điện hoá học, môn hoá học điện
+ @electro-chemitry  
+*  dt
+- điện hoá học, môn hoá học điện
+
+@electroconductivity
+- (Tech) tính điện dẫn; sự dẫn điện
+ @electro-convulsive
+* tt
+- co giật do chạm điện
+ @electrocutaneous feedback
+- phản hồi dòng điện lên da
+ @electrocute  
+*  ngdgt
+- xử tử bằng điện
+- giật chết (điện)
+
+@electrocution  
+*  dt
+- sự xử tử bằng điện
+- sự bị điện giật chết
+
+@electrode  
+*  dt
+- cực, cực điện
+
+@electrode AC resistance
+- (Tech) điện trở dòng xoay chiều điện cực
+ @electrode potential
+- (Tech) thế điện cực
+ @electrodeposit  
+*  ngdgt
+- làm kết tủa bằng điện
+
+@electrodeposition  
+*  dt
+- sự kết tủa bằng điện
+
+@electrodialyse
+* ngdgt
+- thấm tách bằng điện
+ @electrodialysis
+* dt
+- sự thấm tách bằng điện
+ @electrodynamic
+- xem electrodynamics
+ @electrodynamic
+- điện động lực học
+ @electrodynamic ammeter
+- (Tech) ampe kế điện động lực
+ @electrodynamic instrument
+- (Tech) máy đo điện động lực
+ @electrodynamics  
+*  dt,  số nhiều dùng như số ít
+- điện động lực, môn động lực điện
+
+@electrodynamics
+- (Tech) điện động lực học
+ @electrodynamometer  
+*  dt
+- cái đo điện lực
+
+@electrodynamometer
+- (Tech) điện lực kế
+ @electroencephalogram
+* dt
+- điện não đồ
+* dt
+- điện não đồ
+ @electroencephalogram (EEG)
+- (Tech) não điện đồ, biểu đồ sóng não
+ @electroencephalograph
+* dt
+- máy ghi điện não
+ @electroencephalograph (EEG)
+- (Tech) não điện kế, máy ghi sóng não
+ @electroencephalographic
+- xem electroencephalograph
+ @electroencephalography
+- xem electroencephalograph
+ @electrofishing
+* dt
+- việc dùng dòng điện đánh cá
+ @electroform
+* ngdgt
+- tạo thành dáng kim loại kết tủa bằng điện
+ @electrogen
+- (Tech) phần tử quang điện
+ @electrogilding
+* dt
+- thuật mạ bằng điện
+ @electrogram
+* dt
+- điện đồ; biểu đồ dòng điện
+ @electrograph  
+*  dt
+- máy ghi điện
+
+@electrograph
+- (Tech) điện ký
+ @electrography
+* dt
+- thuật in, khắc bằng điện
+ @electrohydraulic
+* tt
+- thuộc thủy điện
+ @electro-induction
+- (Tech) hiện tượng cảm ứng điện; sự cảm ứng điện
+ @electrokinetic
+* dt
+- thuộc điện động học
+ @electro-kinetics  
+*  dt,  số nhiều dùng như số ít
+- điện động học, môn động học điện
+
+@electrokinetics
+- (Tech) điện động học
+ @electroless plating
+- (Tech) mạ vô điện
+ @electrolier  
+*  dt
+- chùm đèn điện
+
+@electrolity copper
+- (Tech) đồng điện phân
+ @electrology  
+*  dt
+- điện học
+
+@electroluminescence
+- (Tech) điện phát quang
+ @electroluminescent
+* tt
+- thuộc điện phát quang
+ @electrolysable  
+*  tt
+- có thể điện phân
+
+@electrolyse   (electrolyse) @electrolyser  
+*  dt
+- máy điện phân, bình điện phân
+
+@electrolysis  
+*  dt
+- sự điện phân; hiện tượng điện phân
+
+@electrolyte  
+*  dt
+- chất điện phân
+
+@electrolyte
+- (Tech) chất điện giải, dung dịch điện giải
+ @electrolytic  
+*  tt
+- (thuộc) điện phân
+
+@electrolytic capacitor
+- (Tech) bộ điện dung bằng điện giải
+ @electrolytic cathode
+- (Tech) âm cực điện giải
+ @electrolytic cell
+- (Tech) pin điện giải
+ @electrolytic conduction
+- (Tech) sự dẫn của điện giải
+ @electrolytic conductor
+- (Tech) chất dẫn điện giải
+ @electrolytic deposition
+- (Tech) lắng đọng điện giải
+ @electrolytic photocell
+- (Tech) pin quang điện bằng điện giải
+ @electrolytic plating
+- (Tech) mạ điện giải
+ @electrolytic polarization
+- (Tech) phân cực điện giải
+ @electrolytic polishing
+- (Tech) đánh bóng điện giải
+ @electrolytic rectifier
+- (Tech) bộ chỉnh lưu điện giải
+ @electrolytic separation
+- (Tech) phân ly điện giải
+ @electrolytically
+- xem electrolytic
+ @electrolyze   (electrolyse) @electromagnet  
+*  dt
+- (vật lý) nam châm điện
+
+@electromagnet
+- nam châm điện
+ @electromagnet winding
+- (Tech) cuộn điện từ
+ @electromagnetic  
+*  tt
+- điện tử
+
+@electromagnetic
+- điện từ
+ @electromagnetic coupling
+- (Tech) ghép điện từ
+ @electromagnetic deflection
+- (Tech) làm lệch địện từ
+ @electromagnetic delay line
+- (Tech) dây tạo trễ điện từ
+ @electromagnetic energy
+- (Tech) năng lượng điện từ
+ @electromagnetic field
+- (Tech) trường điện từ
+ @electromagnetic force
+- (Tech) lực điện từ
+ @electromagnetic generator
+- (Tech) máy phát điện từ
+ @electromagnetic induction
+- (Tech) cảm ứng điện từ
+ @electromagnetic interference (EMI)
+- (Tech) nhiễu xạ điện từ
+ @electromagnetic lens
+- (Tech) thấu kính điện từ
+ @electromagnetic loudspeaker
+- (Tech) loa điện từ
+ @electromagnetic microphone
+- (Tech) máy vi âm điện từ
+ @electromagnetic oscillation
+- (Tech) dao động điện từ
+ @electromagnetic pick-up
+- (Tech) đầu đọc điện từ
+ @electromagnetic quantum
+- (Tech) lượng tử điện từ
+ @electromagnetic radiation
+- (Tech) phóng xạ điện từ
+ @electromagnetic receiver
+- (Tech) ống nghe điện từ, bộ nhận điện từ
+ @electromagnetic rectifier
+- (Tech) bộ chỉnh lưu điện từ
+ @electromagnetic relay
+- (Tech) bộ kế điện điện từ, rờle điện từ
+ @electromagnetic scattering
+- (Tech) tán xạ điện từ
+ @electromagnetic screen
+- (Tech) màn hình điện từ
+ @electromagnetic spectrum
+- (Tech) phổ điện từ
+ @electromagnetic type electron microscope
+- (Tech) kính hiển vi điện tử loại điện từ
+ @electromagnetic unit
+- (Tech) đơn vị điện từ
+ @electromagnetic wave
+- (Tech) sóng điện từ
+ @electromagnetically
+- xem electromagnetic
+ @electromagnetics, electromagnetism
+- hiện tượng điện từ, điện từ học
+ @electromagnetism  
+*  dt
+- hiện tượng điện tử
+- điện tử học
+
+@electromechanic(al)
+- điện cơ
+ @electromechanical apparatus
+- (Tech) thiết bị điện cơ
+ @electromechanical automatic frequency control
+- (Tech) điều tần tự động bằng điện cơ
+ @electromechanical filter
+- (Tech) bộ lọc điện cơ
+ @electromechanical resonator
+- (Tech) bộ cộng hưởng điện cơ
+ @electromechanical transducer
+- (Tech) bộ biến hoán điện cơ
+ @electromechanics  
+*  dt,  số nhiều dùng như số ít
+- điện cơ học, môn cơ điện học
+
+@electromechanics
+- (Tech) điện cơ học
+ @electromechanics
+- điện cơ học
+ @electro-metallurgic  
+*  tt
+- điện luyện
+
+@electrometallurgical
+- xem electrometallurgy
+ @electrometallurgy  
+*  dt
+- điện luyện học
+- luyện kim điện
+
+@electrometer  
+*  dt
+- (vật lý) cái đo tính điện
+
+@electrometric  
+*  tt
+- (thuộc) phép đo tính điện; (thuộc) cái đo tính điện
+
+@electrometry  
+*  dt
+- phép đo tính điện
+
+@electromotive  
+*  tt
+- điện động
+
++ electromotive force: lực điện động
+
+@electromotive
+- điện động
+ @electromotor  
+*  dt
+- động cơ điện, mô tơ điện
+
+@electromotor
+- động cơ điện
+ @electromyogram
+* dt
+- (y học) điện đồ cơ
+ @electromyograph
+* dt
+- máy ghi điện đồ cơ
+ @electromyographic
+* tt
+- thuộc điện đồ cơ
+* tt
+- thuộc điện đồ cơ
+ @electromyography
+* dt
+- cách ghi điện đồ cơ
+ @electron  
+*  dt
+- Electron, điện tử
+
+@electron
+- (Tech) electron, (âm) điện tử
+ @electron
+- điện tử, êlêctron
+ @electron accelerator
+- (Tech) bộ gia tốc điện tử
+ @electron admittance
+- (Tech) dẫn nạp điện tử
+ @electron affinity
+- (Tech) ái lực điện tử
+ @electron alternating current
+- (Tech) dòng xoay chiều điện tử
+ @electron atmosphere
+- (Tech) khí quyển điện tử
+ @electron attached coefficient
+- (Tech) hệ số đính kèm điện tử
+ @electron avalanche
+- (Tech) thác điện tử
+ @electron beam
+- (Tech) tia điện tử
+ @electron beam counter tube
+- (Tech) ống đếm tia điện tử
+ @electron beam current
+- (Tech) dòng tia điện tử
+ @electron beam deflection system
+- (Tech) hệ thống làm lệch tia tia điện tử
+ @electron beam etching
+- (Tech) khắc bằng tia điện tử
+ @electron beam excitation
+- (Tech) sự kích thích bằng tia điện tử
+ @electron beam generator
+- (Tech) bộ tạo tia điện tử
+ @electron beam pumped laser
+- (Tech) bộ kích quang được bơm bằng tia điện tử
+ @electron beam tube
+- (Tech) ống tia điện tử
+ @electron beam writing
+- (Tech) viết bằng tia điện tử
+ @electron camera
+- (Tech) máy thu hình điện tử
+ @electron charge
+- (Tech) điện tích điện tử
+ @electron charge-to-mass ratio
+- (Tech) tỷ số điện tích-chất lượng của điện tử
+ @electron collision
+- (Tech) sự va chạm điện tử
+ @electron conduction
+- (Tech) sự truyền dẫn điện tử
+ @electron coupler
+- (Tech) bộ ghép điện tử
+ @electron coupling oscillating circuit
+- (Tech) mạch dao động ghép điện tử [ĐL]
+ @electron covalent bond
+- (Tech) liên kết đồng hóa trị điện tử
+ @electron current
+- (Tech) dòng điện tử
+ @electron deficiency
+- (Tech) sự thiếu hụt điện tử
+ @electron density
+- (Tech) mật độ điện tử
+ @electron diffraction
+- (Tech) nhiễu xạ điện tử
+ @electron diffraction apparatus
+- (Tech) thiết bị nhiễu xạ điện tử
+ @electron diffraction contrast effect
+- (Tech) hiệu ứng tương phản nhiễu xạ điện tử
+ @electron discharge tube
+- (Tech) ống phóng điện tử
+ @electron drift
+- (Tech) trôi dạt điện tử
+ @electron emission constant
+- (Tech) hằng số phát xạ điện tử
+ @electron emission decay
+- (Tech) sự thoái hóa phát xạ điện tử
+ @electron emission density
+- (Tech) mật độ phát xạ điện tử
+ @electron envelope
+- (Tech) tầng vỏ điện tử
+ @electron evaporation
+- (Tech) sự bốc hơi điện tử
+ @electron flow
+- (Tech) luồng điện tử
+ @electron geometrical optics
+- (Tech) quang hình học điện tử
+ @electron gun
+- (Tech) súng điện tử
+ @electron illuminating system
+- (Tech) hệ thống chiếu sáng điện tử
+ @electron image
+- (Tech) hình điện tử
+ @electron image tube
+- (Tech) ống hình điện tử
+ @electron indicator tube
+- (Tech) ống chỉ báo điện tử
+ @electron injection current
+- (Tech) dòng phun điện tử
+ @electron lattice theory
+- (Tech) lý thuyết điểm trận điện tử [ĐL]
+ @electron microprobe (EMP)
+- (Tech) vi đầu đọc điện tử, kim dò điện tử
+ @electron microscope  
+*  dt
+- kính hiển vi điện tử
+
+@electron microscope
+- (Tech) kính hiển vi điện tử
+ @electron migration
+- (Tech) di chuyển điện tử
+ @electron mobility
+- (Tech) tính di động điện tử
+ @electron multiplier phototube
+- (Tech) ống quang điện bội nhân điện tử, ống bội nhân quang điện
+ @electron optics  
+*  dt
+- quang học điện tử
+
+@electron optics
+- (Tech) quang học điện tử
+ @electron orbit
+- (Tech) quỹ đạo điện tử
+ @electron orbital
+- (Tech) vân đạo điện tử, quỹ hàm điện tử
+ @electron oscillation tube
+- (Tech) ống dao động điện tử
+ @electron oscillator
+- (Tech) bộ dao động điện tử
+ @electron pair bond
+- (Tech) liên kết cặp điện tử
+ @electron paramagnetic resonance
+- (Tech) cộng hưởng thuận từ điện tử 
++  electron spin resonance
+ @electron path
+- (Tech) đường điện tử
+ @electron pencil
+- (Tech) chùm điện tử
+ @electron pendulum oscillation
+- (Tech) dao động con lắc điện tử
+ @electron period
+- (Tech) chu kỳ điện tử
+ @electron plasma
+- (Tech) đẳng ly tử thể điện tử
+ @electron pole
+- (Tech) cực điện tử
+ @electron population
+- (Tech) quần thể điện tử
+ @electron primary photoelectric current
+- (Tech) dòng quang điện nguyên thủy điện tử
+ @electron ray tube
+- (Tech) ống tia điện tử
+ @electron recording (ER) tube
+- (Tech) ống ghi điện tử
+ @electron scanning
+- (Tech) quét điện tử
+ @electron scanning microscope
+- (Tech) kính hiển vi quét điện tử
+ @electron scattering
+- (Tech) tán xạ điện tử
+ @electron screening
+- (Tech) che điện tử
+ @electron sharing
+- (Tech) dùng chung điện tử
+ @electron sheath
+- (Tech) tầng điện tử
+ @electron shell
+- (Tech) tầng ngoài @electron spin resonance
+- (Tech) cộng hưởng tự quay điện tử 
++  electron paramagnetic resonance
+ @electron spin resonance spectroscopy
+- (Tech) phổ học về cộng hưởng tự quay điện tử
+ @electron stream transmission efficiency
+- (Tech) hiệu suất truyền dòng điện tử
+ @electron switch 
++  electronic switch
+- (Tech) công tắc điện tử
+ @electron synchrotron
+- (Tech) bộ gia tốc đồng bộ điện tử
+ @electron telescope
+- (Tech) viễn vọng kính điện tử, kính thiên văn điện tử
+ @electron theory
+- (Tech) lý thuyết điện tử, điện tử luận
+ @electron trajectory equation
+- (Tech) phương trình quỹ đạo điện tử
+ @electron transit angle
+- (Tech) góc vượt quãng điện tử
+ @electron transit time error
+- (Tech) sai số thời gian vượt quãng điện tử
+ @electron transition
+- (Tech) chuyển tiếp điện tử
+ @electron trap
+- (Tech) cái bẫy điện tử
+ @electron tube  
+*  dt
+- ống điện tử
+
+@electron tube instrument
+- (Tech) đồ đo kiểu đèn điện tử
+ @electron tube transducer
+- (Tech) bộ hoán năng đèn điện tử
+ @electron tunneling
+- (Tech) xuyên đường hầm của điện tử
+ @electron vacancy
+- (Tech) chỗ khuyết điện tử
+ @electron velocity analyzer
+- (Tech) bộ phân tích vận tốc điện tử
+ @electron voltaic effect
+- (Tech) hiệu ứng điện thế điện tử
+ @electron wave
+- (Tech) sóng điện tử
+ @electron wave tube
+- (Tech) đèn sóng điện tử
+ @electron wavelength
+- (Tech) độ dài sóng điện tử
+ @electron-beam device
+- (Tech) dụng cụ dùng tia điện tử
+ @electron-beam excitation
+- (Tech) sự kích thích tia điện tử
+ @electron-beam lithography
+- (Tech) phép in mặt bằng tia điện tử, phép quang khắc bằng tia điện tử
+ @electron-beam multiplier
+- (Tech) bộ bội nhân tia điện tử
+ @electron-capture process
+- (Tech) tiến trình thu nạp điện tử
+ @electron-capture transition
+- (Tech) sự chuyển tiếp thu nạp điện tử
+ @electron-coupled frequency converter
+- (Tech) bộ biến tần ghép điện tử [ĐL]
+ @electron-coupled oscillator
+- (Tech) bộ dao động ghép điện tử, bộ dao động dương cực hai lưới
+ @electronegative  
+*  tt
+- (thuộc) điện âm
+
+@electron-gun cathode
+- (Tech) âm cực súng điện tử
+ @electron-hole
+- (Tech) lỗ trống điện tử
+ @electron-hole collision
+- (Tech) sự va chạm lỗ trống điện tử
+ @electron-hole pair
+- (Tech) cặp lỗ trống điện tử
+ @electron-hole pair generation
+- (Tech) sự tạo cặp lỗ trống điện tử
+ @electron-hole recombination
+- (Tech) sự tái hợp lỗ trống điện tử
+ @electronic  
+*  tt
+- (thuộc) điện tử
+
++ electronic calculator: máy tính điện tử
+
+@electronic
+- (Tech) thuộc điện tử
+ @electronic
+- (thuộc) điện tử
+ @electronic admittance
+- (Tech) dẫn nạp điện tử
+ @electronic amplifier
+- (Tech) bộ khuếch đại điện tử
+ @electronic analog computer
+- (Tech) máy điện tóan dạng tương tự
+ @electronic apparatus
+- (Tech) thiết bị điện tử
+ @electronic automatic frequency control
+- (Tech) sự kiểm tra tần số tự động bằng điện tử
+ @electronic banking
+- (Tech) công tác ngân hàng điện tử
+ @electronic beam processing
+- (Tech) xử lí tia điện tử
+ @electronic brain  
+*  dt
+- bộ óc điện tử; máy tính điện tử
+
+@electronic bulletin board
+- (Tech) bảng công báo điện tử
+ @electronic calculator
+- (Tech) máy tính điện tử
+ @electronic camera
+- (Tech) máy chụp ảnh điện tử; máy thu hình điện tử
+ @electronic charge 
++  electron charge
+- (Tech) điện tích điện tử
+ @electronic circuit
+- (Tech) mạch điện tử
+ @electronic clock
+- (Tech) đồng hồ điện tử
+ @electronic coder
+- (Tech) bộ biên mã điện tử
+ @electronic commutation
+- (Tech) chuyển mạch điện tử
+ @electronic commutator
+- (Tech) bộ chuyển mạch điện tử
+ @electronic comparator
+- (Tech) bộ so sánh điện tử
+ @electronic computer
+- (Tech) máy điện toán điện tử
+ @electronic conductance
+- (Tech) điện dẫn điện tử
+ @electronic control
+- (Tech) điều khiển bằng điện tử, điều chỉnh bằng điện tử
+ @electronic correlator
+- (Tech) bộ tương quan điện tử
+ @electronic counter
+- (Tech) máy đếm điện tử
+ @electronic counter type frequency meter
+- (Tech) tần số kế loại đếm điện tử
+ @electronic countermeasure
+- (Tech) đối kháng điện tử
+ @electronic coupling
+- (Tech) ghép điện tử 
++  electron coupling
+ @electronic energy level
+- (Tech) mức năng lượng điện tử
+ @electronic energy-band spectrum
+- (Tech) phổ dải năng lượng điện tử
+ @electronic engineer
+- (Tech) kỹ sư điện tử
+ @electronic engineering
+- (Tech) kỹ thuật điện tử
+ @electronic eye
+- (Tech) mắt điện tử
+ @electronic file
+- (Tech) tập tin điện tử
+ @electronic filing
+- (Tech) lập tập tin điện tử
+ @electronic form
+- (Tech) dạng điện tử
+ @electronic frequency meter
+- (Tech) tần số kế loại điện tử
+ @electronic function generator
+- (Tech) bộ tạo hàm số loại điện tử
+ @electronic funds transfer
+- (Tech) chuyển ngân điện tử
+ @electronic game
+- (Tech) trò chơi điện tử
+ @electronic image pick-up device
+- (Tech) thiết bị thu hình điện tử
+ @electronic image reproducing device
+- (Tech) thiết bị tạo lại hình điện tử
+ @electronic image storage device
+- (Tech) thiết bị trữ hình điện tử
+ @electronic image tube
+- (Tech) ống hình điện tử
+ @electronic impedance
+- (Tech) trở kháng điện tử
+ @electronic instrumentation
+- (Tech) trang bị máy điện tử
+ @electronic keying
+- (Tech) đánh đóng-mở điện tử
+ @electronic line scanning
+- (Tech) quét dòng điện tử
+ @electronic magazine (E-MAG, ezine)
+- (Tech) tạp chí dạng điện tử
+ @electronic magnetometer
+- (Tech) từ lực kế điện tử
+ @electronic mail (E-mail, e-mail)
+- (Tech) thư điện tử
+ @electronic mailbox
+- (Tech) hộp thư điện tử
+ @electronic memory
+- (Tech) bộ nhớ điện tử
+ @electronic microphone
+- (Tech) máy vi âm điện tử
+ @electronic multimeter
+- (Tech) máy đo đa dụng điện tử
+ @electronic music instruments
+- (Tech) dụng cụ âm nhạc điện tử
+ @electronic news
+- (Tech) tin tức dạng điện tử
+ @Electronic Numerical Integrator And Computer (ENIAC)
+- (Tech) máy điện toán và tích hợp số dạng điện tử
+ @electronic oscillator 
++  electron oscillator
+- (Tech) bộ giao động điện tử
+ @electronic oscilloscope
+- (Tech) máy hiện sóng điện tử
+ @electronic pen
+- (Tech) bút điện tử
+ @electronic photometer
+- (Tech) quang độ kế điện tử
+ @electronic photo-voltaic cell
+- (Tech) pin điện áp sinh quang điện tử [ĐL]
+ @electronic picture
+- (Tech) hình điện tử
+ @electronic pointer
+- (Tech) con trỏ điện tử
+ @electronic potentiometer
+- (Tech) cái biến trở điện tử
+ @electronic processor
+- (Tech) bộ xử lý điện tử
+ @electronic publishing
+- (Tech) xuất bản điện tử
+ @electronic raster scanning
+- (Tech) quét mành điện tử
+ @electronic recording equipment
+- (Tech) thiết bị ghi điện tử
+ @electronic recording tube (ER tube)
+- (Tech) ống ghi điện tử
+ @electronic rectifier
+- (Tech) bộ chỉnh lưu điện tử
+ @electronic regulation
+- (Tech) ổn áp điện tử
+ @electronic regulator
+- (Tech) bộ ổn áp điện tử
+ @electronic relay
+- (Tech) bộ rờle điện tử
+ @electronic reverberation
+- (Tech) sự chấn dội điện tử
+ @electronic sampling switch
+- (Tech) công tắc lấy mẫu điện tử
+ @electronic scanner
+- (Tech) bộ quét điện tử
+ @electronic scanning 
++  electron scanning
+- (Tech) quét điện tử
+ @electronic scanning antenna
+- (Tech) ăngten quét điện tử
+ @electronic semiconductor
+- (Tech) chất bán dẫn điện tử
+ @electronic switching circuit
+- (Tech) mạch chuyển dòng điện tử
+ @electronic telegraph
+- (Tech) máy điện báo điện tử
+ @electronic teletype
+- (Tech) điện báo in chữ điện tử
+ @electronic television
+- (Tech) truyền hình điện tử
+ @electronic temperature recorder
+- (Tech) bộ ghi nhiệt độ điện tử
+ @electronic text
+- (Tech) văn bản điện tử
+ @electronic thermometer
+- (Tech) nhiệt kế điện tử
+ @electronic timer
+- (Tech) máy đếm thời gian điện tử
+ @electronic transcondutance
+- (Tech) độ hỗ dẫn điện tử
+ @electronic transducer tube
+- (Tech) ống chuyển đổi điện tử
+ @electronic tuning indicator
+- (Tech) bộ chỉ báo điều hưởng loại điện tử
+ @electronic TV recording equipment
+- (Tech) thiết bị ghi truyền hình điện tử
+ @electronic typesetting
+- (Tech) sắp chữ điện tử
+ @electronic typewriter
+- (Tech) máy đánh chữ điện tử
+ @electronic video recording system
+- (Tech) hệ thống ghi viddêo diện tử
+ @electronic wattmeter
+- (Tech) công suất kế điện tử
+ @electronic wave 
++  electron wave
+- (Tech) sóng điện tử
+ @electronically
+* dt
+ @electronics  
+*  dt,  số nhiều dùng như số ít
+- điện tử học
+
+@electronics
+- (Tech) điện tử học, môn điện tử; công trình điện tử [ĐL]
+ @electronics
+- điện tử học, kỹ thuật điện tử
+- transistor e. điện tử học, các thiết bị bán dẫn 
+ @electronics dictionary
+- (Tech) từ điển ngành điện tử
+ @Electronics Industry Association (EIA)
+- (Tech) Hiệp Hội Công Nghiệp Điện Tử
+ @electron-molecule collision
+- (Tech) sự va chạm điện tử-phân tử
+ @electron-multiplier section
+- (Tech) khâu bội nhân điện tử
+ @electron-optical aberration
+- (Tech) quang sai điện tử
+ @electron-optical cross-section
+- (Tech) mặt cắt quang điện tử
+ @electron-ray indicator tube
+- (Tech) đèn chỉ báo tia diện tử
+ @electron-volt  
+*  dt
+- Electron-vôn, điện tử vôn
+
+@electro-optic modulation
+- (Tech) biến điệu điện-quang
+ @electro-optic modulator
+- (Tech) bộ biến điệu điện-quang
+ @electrooptic Q-switch
+- (Tech) bộ chuyển phẩm chất điện quang
+ @electrooptic shutter
+- (Tech) cửa sập điện quang
+ @electrooptic(al)
+- (Tech) thuộc điện quang
+ @electrooptical device
+- (Tech) thiết bị điện quang
+ @electrooptical effect
+- (Tech) hiệu ứng điện quang
+ @electro-optical system
+- (Tech) hệ thống điện-quang
+ @electrooptical tube
+- (Tech) ống điện quang
+ @electropathic
+* tt
+- dùng điện chữa bệnh
+ @electropathy  
+*  dt
+- (y học) phép chữa bằng điện
+
+@electrophile
+* dt
+- chất có ái lực với điện tử
+ @electrophilic
+* tt
+- có ái lực với điện tử
+ @electrophore   (electrophorus) @electrophoresis  
+*  dt
+- hiện tượng điện chuyển
+
+@electrophoretic
+- xem electrophoresis
+ @electrophorus   (electrophorus) @electrophotography
+* dt
+- cách chụp ảnh điện
+ @electrophysiologist
+* dt
+- nhà điện sinh học
+ @electrophysiology
+* dt
+- điện sinh lý học
+ @electroplate  
+*  dt
+- vật mạ điện
+
+@electroplated transistor
+- (Tech) trănsito được mạ điện
+ @electroplating
+* dt
+- thuật mạ điện
+ @electropneumatic
+* tt
+- (kỹ thuật) dùng điện khí nén
+ @electropositive  
+*  tt
+- (thuộc) điện dương
+
+@electroretinogram
+* dt
+- (y học) điện đồ màng lưới; điện đồ võng mạc
+ @electroretinograph
+* dt
+- dụng cụ ghi điện đồ võng mạc
+ @electroretinography
+* dt
+- phép ghi điện đồ võng mạc
+ @electroscope  
+*  dt
+- cái nghiệm tĩnh điện
+
+@electroscopic  
+*  tt
+- nghiệm tĩnh điện
+
+@electroshock  
+*  dt
+- (y học) sốc điện
+
+@electrostatic
+- tĩnh điện
+ @electrostatic actuator
+- (Tech) bộ truyền động điện tĩnh
+ @electrostatic adhesion
+- (Tech) sự dính hút điện tĩnh
+ @electrostatic capacitance
+- (Tech) điện dung điện tĩnh
+ @electrostatic cathode ray tube
+- (Tech) ống tia âm cực điện tĩnh
+ @electrostatic charge
+- (Tech) điện tích điện tĩnh
+ @electrostatic charge-storage tube
+- (Tech) ống trữ điện tích điện tĩnh
+ @electrostatic copying
+- (Tech) sao chép dạng điện tĩnh
+ @electrostatic loudspeaker
+- (Tech) loa điện tĩnh
+ @electrostatic memory
+- (Tech) bộ nhớ điện tĩnh
+ @electrostatic microphone
+- (Tech) máy vi âm điện tĩnh
+ @electrostatic plotter
+- (Tech) máy vẽ loại điện tĩnh
+ @electrostatic potential
+- (Tech) hiệu thế điện tĩnh
+ @electrostatic printer
+- (Tech) máy in điện tĩnh
+ @electrostatic receiver
+- (Tech) ống nghe điện tĩnh
+ @electrostatic screen
+- (Tech) màn hình điện tĩnh
+ @electrostatic shield
+- (Tech) lá chắn điện tĩnh
+ @electrostatic storage
+- (Tech) bộ trữ điện tĩnh
+ @electrostatic unit (esu)
+- (Tech) đơn vị điện tĩnh
+ @electrostatically charged area
+- (Tech) khu vực mang điện tĩnh
+ @electrostatically focused klystron
+- (Tech) đèn tốc điều gom tụ điện tĩnh
+ @electrostatics  
+*  dt,  số nhiều dùng như số ít
+- tính điện học
+
+@electrostatics
+- tĩnh điện học
+ @electrosteel
+* dt
+- thép luyện điện
+ @electrosurgery  
+*  dt
+- (y học) phẫu thuật điện
+
+@electrosurgical
+- xem electrosurgery
+ @electrosurgically
+- xem electrosurgery
+ @electrotaxis
+* dt
+- (sinh học) tính theo điện
+ @electrotechnic
+* dt
+- kỹ thuật điện
+ @electrotechnics
+* dt
+- tính điện học
+ @electrotelegraphy
+* dt
+- điện tín học
+ @electrotherapeutics  
+*  dt,  số nhiều dùng như số ít
+- (như) electrotherapy
+
+@electrotherapy  
+*  dt
+- (y học) phép chữa bằng điện
+
+@electrothermal
+* tt
+- thuộc điện nhiệt
+ @electrothermal printer
+- (Tech) máy in điện nhiệt
+ @electrothermic instrument
+- (Tech) dụng cụ điện nhiệt
+ @electrothermy
+* dt
+- điện nhiệt học
+ @electrotonic
+* tt
+- thuộc trương lực điện
+ @electrotonus
+* dt
+- (sinh học) điện trương
+ @electrotopic
+* tt
+- hướng điện
+ @electrotopism
+* dt
+- tính hướng điện
+ @electrotype  
+*  dt
+- hình in mạ
+*  ngdgt
+- in mạ
+
+@electrotyper
+- xem electrotype
+ @electrotypic
+- xem electrotype
+ @electrotypy
+* dt
+- thuật in mạ
+* dt
+- thuật in mạ
+ @electrovalency
+* dt
+- (hoá học) hoá trị điện
+ @electrovalent
+* tt
+- thuộc hoá trị điện
+ @electrum  
+*  dt
+- hợp kim vàng bạc
+- Electrum (quặng vàng lẫn bạc)
+
+@electuary  
+*  dt
+- thuốc tê
+
+@eleemosynary  
+*  tt
+- (thuộc) sự bố thí; nhờ bào sự bố thí
+- bố thí, từ thiện
+- không mất tiền
+
+@elegance  
+*  dt
+- tính thanh lịch, tính tao nhã (người, cách ăn mặc, lối sống...); tính nhã (văn)
+
+@elegant  
+*  tt
+- thanh lịch, tao nhã (người, cách ăn mặc...); nhã (văn)
+- cùi lách hạng nhất, chiến, cừ
+*  dt
+- người thanh lịch, người tao nhã
+
+@elegantly
+* dt
+- thanh lịch, tao nhã
+ @elegiac  
+*  tt
+- bi thương; (thuộc) khúc bi thương
+
+@elegiacal
+- xem elegiac
+ @elegiacally
+- xem elegiac
+ @elegiacs  
+*  dt số nhiều
+- thơ bi thương
+
+@elegise   (elegise) @elegist  
+*  dt
+- nhà thơ bi thương
+
+@elegize   (elegise) @elegy  
+*  dt
+- khúc bi thương
+
+@elektron
+* dt
+- xem electron
+ @element  
+*  dt
+- yếu tố
+
++ element of comparison: yếu tố để so sánh
+- nguyên tố
+
++ the four elements: bốn nguyên tố (đất, nước, không khí, lửa)
+- (hoá học) nguyên tố
+- (điện học) pin
+- (toán học) yếu tố phân tử
+
++ elements of the integral: yếu tố của tích phân
+- hiện tượng khí tượng
+- (số nhiều) cơ sở, nguyên lý cơ bản (của một khoa học)
+- (số nhiều) sức mạnh thiên nhiên
+- (từ Mỹ,nghĩa Mỹ) đơn vị không quân
+- (nghĩa bóng) môi trường
+
++ to be in one's element: ở đúng trong môi trường của mình
+
+@element
+- (Tech) phần tử, bộ phận; pin; nguyên tố; yếu tố; chi tiết
+ @element
+- phần tử, yếu tố
+- leading e. in a determinant phần tử trên đường chéo chính của định thức
+- e. of an analytic function yếu tố của một hàm giải tích
+- e. of are yếu tố cung
+- e. of a cone đường sinh của mặt nón
+- e. of cylinder đường sinh của mặt trụ
+- E.s of Euclid sách “nguyên lý” của Ơclit
+- e. of integration biểu thức dưới dấu tích phân
+- e. of mass yếu tố khối lượng
+- e. of surface yếu tố diện tích
+- e. of volumn yếu tố thể tích
+- acentral e. phần tử không trung tâm
+- actual e. phần tử thực tại
+- adding e. phần tử cộng
+- algebraic e. phần tử đại số
+- associate e.s phần tử kết hợp
+- basis e. phần tử cơ sở
+- circuit e. chi tiết của sơ đồ
+- comparison e. (máy tính) bộ so sánh
+- complex e. phần tử phức
+- computing e. (máy tính) bloc tính toán
+- coupling e. phần tử ghép
+- cyclic e. phần tử xilic
+- decomposable e. phần tử phân tích được 
+- delay e. (máy tính) mắt trễ
+- detecting e. phần tử phát hiện
+- disjoint c.s (đại số) các phần tử rời nhau
+- divisible e. phần tử chia được
+- double e. (of an in volution) phần tử kép (của một phép đối hợp)
+- effaceable e. phần tử khử được
+- final e.(tô pô) phần tử cuối cùng
+- fixed e.(of a collineation) phần tử cố định (của một phép cộng tuyến),
+- phần tử kép
+- fluid e. yếu tố lỏng
+- function e. yếu tố hàm
+- generatinge. phần tử sinh
+- harmonic e. phần tử điều hoà
+- homogeneous e. phần tử thuần nhất
+- ideal e. phần tử lý tưởng
+- identical e. phần tử đồng nhất
+- identity e. (of a group) phần tử đơn vị (của một nhóm)
+- imaginary e. phần tử ảo
+- improper e. phần tử ghi chính
+- infinitesmal e. phần tử vô cùng nhỏ
+- input e. (máy tính) bộ vào
+- inverse e., inverting e. phần tử nghịch đảo
+- isolated e. phần tử cô lập
+- line e. (giải tích) phần tử tuyến tính
+- linear e. phần tử tuyến tính; (giải tích) vi phần cung
+- memory e. phần tử của bộ nhớ
+- negative e. phần tử âm
+- neutral e. phần tử trung hoà
+- nilpotent e. phần tử luỹ linh
+- non-central e. phần tử không trung tâm
+- non-comparable e.s các phần tử không so sánh được
+- null e. phần tử không 
+- passive e. phần tử bị đông
+- perspective e. (đại số) các phần tử phối cảnh
+- pivotal e. phần tử chủ chốt
+- primal e. phần tử nguyên thuỷ
+- primitive idempotent e. phần tử luỹ đẳng nguyên thuỷ
+- principal e. phần tử chính
+- probability e. phần tử xác suất 
+- self-conjigate e. phần tử tự liên hợp
+- self-corresponding e. phần tử tương ứng
+- gingular e. phần tử kỳ dị
+- stable e. (đại số) phần tử ổn định
+- superconpact e. phần tử siêu compact
+- surface e. phần tử diện tích
+- switching e. phần tử ngắt mạch
+- time e. phần tử thời gian, rơle thời gian
+- thermal computing e. (máy tính) phần tử tính dùng nhiệt
+- torsion e. (đại số) phần tử xoắn
+- transmiting e. (điều khiển học) phần tử truyền đạt 
+- unidirectional e. phần tử đơn hướng; phần tử có một bậc tự do
+- unipotent e. phần tử đơn luỹ
+- unit e., unty e. (đại số) phần tử đơn vị
+- universal e. (đại số) phần tử phổ dụng
+- zero e. of projective coordinate system phần tử không của hệ toạ độ xạ ảnh 
+ @elemental  
+*  tt
+- (thuộc) bốn nguyên tố; (thuộc) sức mạnh thiên nhiên
+- siêu phàm như sức mạnh thiên nhiên
+- (hoá học) (thuộc) nguyên tố; hợp thành
+- cốt yếu; cơ bản
+
+@elementally
+- xem elemental
+ @elementarily
+- xem elementary
+ @elementariness  
+*  dt
+- tính cơ bản, tính sơ yếu
+
+@elementary  
+*  dt
+- cơ bản, sơ yếu
+- (hoá học) không phân tách được
+!elementary school
+- trường cấp hai
+
+@elementwise
+- theo từng phần tử
+ @elemi  
+*  dt
+- dấu trám
+
+@elemntary
+- sơ cấp, cơ bản
+ @elench
+* dt
+- lập lận sai nhưng có vẻ là đúng; sự ngụy biện
+ @elenchi  
+*  dt,  số nhiều elenchi
+- (triết học) sự bác bỏ lôgic
+!Socratic elenchus
+- phương pháp hỏi gợi ý của Xô-crát
+
+@elenchus  
+*  dt,  số nhiều elenchi
+- (triết học) sự bác bỏ lôgic
+!Socratic elenchus
+- phương pháp hỏi gợi ý của Xô-crát
+
+@elenctic  
+*  tt
+- (thuộc) sự bác bỏ; (thuộc) sự hỏi vặn
+
+@elephant  
+*  dt
+- (động vật học) con voi
+- khổ giấy 70 cm x 57, 5 cm
+
++ double elephant: khổ giấy 1 m x 77 cm
+- (Elephant) (từ Mỹ,nghĩa Mỹ) đảng Cộng hoà
+- sắt vòm
+!to see the elephant
+!to get a look at the elephant
+- đi thăm những kỳ quan (của một thành phố...)
+- biết đời, biết thiên hạ
+!white elephant
+- (xem) white
+
+@elephantiasis  
+*  dt
+- (y học) chứng phù voi
+
+@elephantine  
+*  tt
+- (thuộc) voi
+- to kềnh, đồ sộ; kềnh càng
+
+@eleutheromania  
+*  dt
+- chứng cuồng thích tự do
+
+@eleutheropetalous  
+*  tt
+- (thực vật học) cánh rời (hoa)
+
+@eleutherophylous  
+*  tt
+- (thực vật học) lá rời
+
+@elevate  
+*  ngdgt
+- nâng lên, đưa lên, giương (súng...); ngẩng lên; ngước (mắt); cất cao (giọng nói)
+- nâng cao (phẩm giá)
+- (từ Mỹ,nghĩa Mỹ) làm phấn khởi, làm phấn chấn; làm hân hoan, làm hoan hỉ
+
+@elevate
+- đưa lên, nâng lên
+ @elevated  
+*  tt
+- cao; cao cả, cao thượng, cao nhã
+
++ an elevated position: địa vị cao
+
++ an elevated aim: mục đích cao cả
+
++ an elevated style: văn cao nhã
+- (từ Mỹ,nghĩa Mỹ) phấn khởi, phấn chấn; hân hoan, hoan hỉ
+- (thông tục) ngà ngà say, chếnh choáng hơi men
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đường sắt (nền) cao
+
+@elevating
+* dt
+- nâng cao (nhận thức, đạo đức)
+ @elevation  
+*  dt
+- sự nâng lên, sự đưa lên, sự giương lên; sự ngẩng lên; sự ngước lên
+- sự nâng cao (phẩm giá)
+- (quân sự) góc nâng (góc giữa nòng súng và đường nằm ngang)
+- độ cao (so với mặt biển)
+- (kỹ thuật) mặt; mặt chiếu
+- tính cao cả, tính cao thượng, tính cao nhã (văn)
+
+@elevation
+- sự đưa lên, sự nâng lên; độ; phép chiếu thẳng góc
+- front e. mặt trước
+- side e. mặt bên 
+ @elevation potentiometer
+- (Tech) bộ phân áp độ cao
+ @elevation selsyn
+- (Tech) máy tự đồng bộ góc nâng
+ @elevator  
+*  dt
+- máy nâng, máy trục
+- (từ Mỹ,nghĩa Mỹ) thang máy
+- (giải phẫu) cơ nâng
+- (hàng không) bánh lái độ cao
+
+@elevator-jockey   (elevator-jockey) @elevator-operator   (elevator-jockey) @elevatory
+* tt
+- (kỹ thuật) nâng
+ @eleven  
+*  tt
+- mười một
+
++ to be eleven: mười một tuổi
+*  dt
+- số mười một
+- đội mười một người
+
++ an eleven: một đội mười một người (bóng đá,  crikê...)
+- (the Eleven) mười một đồ đệ của Chúa Giê-xu (trừ Giu-đa)
+
+@eleven
+- số mười một (11)
+ @eleven-plus
+* dt
+- kỳ thi cho trẻ mười một tuổi lên bậc trung học
+ @elevens   (elevenses) @elevenses   (elevenses) @eleventh  
+*  tt
+- thứ mười một
+!at the eleventh hour
+- đến giờ chót, đến phút cuối cùng
+*  dt
+- một phần mười một
+- người thứ mười một; vật thứ mười một; ngày mười một
+
++ the eleventh of June: ngày mười một tháng sáu
+
+@eleventh
+- thứ mười một; một phần mười một
+ @elevon
+* dt
+- bộ phận cử động được của máy bay
+ @elf  
+*  dt,  số nhiều elves
+- yêu tinh
+- kẻ tinh nghịch
+- người lùn, người bé tí hon
+
+@elf-arrow   (elf-bolt) @elf-bolt   (elf-bolt) @elfin  
+*  tt
+- yêu tinh
+*  dt
+- (như) elf
+
+@elfish   (elvish) @elfishly
+- xem elfish
+ @elfishness
+- xem elfish
+ @elf-land
+* dt
+- nơi ở của yêu tinh
+ @elf-lock   (elf-locks) @elf-locks   (elf-locks) @elf-maid
+* dt
+- cũng elf  woman
+- nữ yêu tinh
+ @elicit  
+*  ngdgt
+- (thường),  (nghĩa bóng) khêu ra, gợi ra, moi
+
++ to elicit an answer: moi ra câu trả lời
+- suy ra, luận ra (sự thật)
+
+@elicitation
+- xem elicit
+ @elicitor
+- xem elicit
+ @elide  
+*  ngdgt
+- (ngôn ngữ học) đọc lược đi, đọc nuốt đi (một nguyên âm, hay cả một âm tiết)
+
+@eligibility  
+*  dt
+- tính đủ tư cách, tính thích hợp
+- tính có thể chọn được
+
+@eligible  
+*  tt
+- đủ tư cách, thích hợp
+
++ eligible for membership: đủ tư cách làm nột hội viên
+- có thể chọn được
+
++ an eligible youngman: một chàng thanh niên có thể lấy làm chồng được
+
+@Eligible asset ratio
+- (Econ) Tỷ số tài sản dự trữ.
+: Xem RESERVE ASSET RATIO.
+ @Eligible paper
+- (Econ) Giấy tờ đủ tiêu chuẩn chiết khấu.
+: Các TÀI SẢN tài chính mà NGÂN HÀNG TRUNG ƯƠNG sẵn sàng mua (tái chiết khấu) hay chấp nhận làm vật thế chấp cho các khoản vay, trong một số trường hợp đặc biệt, và thường là khi giao dịch với các cơ quan đã đựoc định rõ.
+ @eligibly
+- xem eligible
+ @eliminability
+- (logic học) tính khử được, tính bỏ được
+ @eliminable  
+*  tt
+- có thể loại ra, có thể loại trừ
+- (sinh vật học) có thể bài tiết ra
+- (toán học) có thể khử
+- có thể rút ra (yếu tố...)
+
+@eliminable
+- bỏ được, khử được
+ @eliminant
+* dt
+- cách loại trừ
+ @eliminant
+- kết thúc
+ @eliminate  
+*  ngdgt
+- loại ra, loại trừ
+- (sinh vật học) bài tiết
+- lờ đi (một phần của vấn đề)
+- (toán học) khử
+- rút ra (yếu tố...)
+
+@eliminate
+- khử bỏ, loại trừ
+ @elimination  
+*  dt
+- sự loại ra, sự loại trừ
+- (sinh vật học) sự bài tiết
+- sự lờ đi
+- (toán học) sự khử
+- sự rút ra (yếu tố...)
+- (thể dục,thể thao) cuộc đấu loại
+
+@elimination
+- [phép, sự] khử, sự bỏ, sự loại trừ
+- e. by addition or subtraction phép thử bằng cộng hạy trừ
+- e. by comparison khử bằng so sánh (các hệ số)
+- e. by substitution khử (ẩn số) bằng phép thế
+- e. of constants phép thử hằng số
+- Gaussian e. phép thử Gauxơ
+- succssive e. phép thử liên tiếp 
+ @eliminative
+- xem eliminate
+ @eliminator  
+*  dt (kỹ thuật)
+- thiết bị loại, thiết bị thải
+- thiết bị khử nước
+- máy đẩy, máy thúc
+
+@eliminator
+- (Tech) bộ loại trừ, bộ triệt; bộ lọc loại
+ @eliminatory  
+*  tt
+- loại, có tính chất loại ra, có tính chất loại trừ
+
+@elinvar
+* dt
+- elinva (hợp kim)
+ @eliquate
+* ngdgt
+- (kỹ thuật) tách lỏng
+ @eliquation
+* dt
+- (kỹ thuật) sự tách lỏng
+ @elision  
+*  dt
+- (ngôn ngữ học) sự đọc lược, sự đọc nuốt (nguyên âm, âm tiết)
+
+@elite
+- Một kiểu chữ, in được 12 ký tự trong mỗi inch
+ @elitism
+* dt
+- sự phát triển các tầng lớp ưu tú trong xã hội
+ @Elitist good
+- (Econ) Hàng xa xỉ
+: Xem Luxury
+ @elixir  
+*  dt
+- thuốc luyện đan
+- thuốc tiên
+
++ elixir of life: thuốc trường sinh bất lão
+- (dược học) cồn ngọt
+
+@elizabethan  
+*  tt
+- (thuộc) triều nữ hoàng Ê-li-gia-bét I
+*  dt
+- người thuộc triều nữ hoàng Ê-li-gia-bét I, nhà văn thuộc triều nữ hoàng Ê-li-gia-bét I
+
+@elk  
+*  dt
+- (động vật học) nai anxet, nai sừng tấm
+
+@ell  
+*  dt
+- En (đơn vị đo chiều dài bằng 113cm)
+- chái, hồi (của một căn nhà)
+
+@ellipse  
+*  dt
+- (toán học) Elip
+- (như) ellipsis
+
+@ellipse
+- (Tech) hình bầu dục, elip
+ @ellipse
+- elip
+- cubical e. elip cubic
+- forcal e. elip tiêu
+- geodesic e. elip trắc địa
+- imaginary e. elip ảo
+- minimum e. of a hyperboloid of one sheet elip thắt của một hipeboloit
+- một tầng
+- null e. elip điểm, elip không 
+ @ellipses  
+*  dt,  số nhiều ellipsis
+- (ngôn ngữ học) hiện tượng tĩnh dược
+
+@ellipsis  
+*  dt,  số nhiều ellipsis
+- (ngôn ngữ học) hiện tượng tĩnh dược
+
+@ellipsograph
+* dt
+- compa elip
+ @ellipsograph
+- thước vẽ elip
+ @ellipsoid  
+*  dt
+- (toán học) Elipxoit
+
+@ellipsoid
+- (Tech) mặt bầu dục, thể bầu dục
+ @ellipsoid
+- elipxoit
+- e. of revolution elipxoit tròn xoay
+- e. of stress elipxoit ứng lực
+- confocal e.s các elipxoit đồng tiêu
+- imaginary e. elipxoit ảo
+- null e., point e. elipxoit điểm
+- similar e.s elipxoit đồng dạng 
+ @ellipsoidal
+- xem ellipsoid
+ @ellipsoidal
+- elipxoidan
+ @elliptic  
+*  tt
+- (toán học) Eliptic
+
+@elliptic aperture
+- (Tech) lỗ bầu dục
+ @elliptic filter
+- (Tech) bộ lọc hình bầu dục
+ @elliptical  
+*  tt
+- (toán học) (như) elliptic
+- (ngôn ngữ học) tĩnh lược
+
+@elliptic(al)
+- eliptic
+- strongly e. (giải tích) eliptic mạnh 
+ @elliptical waveguide
+- (Tech) ống dẫn sóng hình bầu dục
+ @elliptically
+* dt
+- tỉnh lược, giản lược
+ @elliptically polarized light
+- (Tech) ánh sáng hướng cực dạng bầu dục
+ @elliptically polarized wave
+- (Tech) sóng hướng cực dạng bầu dục
+ @ellipticty
+- tính eliptic
+ @elliptoid
+* tt
+- gần giống Elip
+ @elm  
+*  dt
+- (thực vật học) cây đu
+
+@elocution  
+*  dt
+- cách nói, cách đọc, cách ngâm thơ; thuật nói, thuật đọc, thuật ngâm thơ (trước công chúng...)
+
+@elocutionary  
+*  tt
+- (thuộc) cách nói, (thuộc) cách đọc, (thuộc) cách ngâm thơ, (thuộc) thuật nói, (thuộc) thuật đọc, (thuộc) thuật ngâm thơ (khi diễn thuyết, diễn kịch, hát...)
+
++ elocutionary gifts: tài ăn nói, tài hùng biện
+
+@elocutionist  
+*  dt
+- người dạy cách nói, người dạy cách đọc, người dạy cách ngâm (trước công chúng...)
+- chuyên gia về thuật nói, chuyên gia về thuật đọc, chuyên gia về thuật ngâm
+- người nói, người đọc, người ngâm thơ (trước công chúng)
+
+@eloge
+* dt
+- lời ca ngợi, lời khen ngợi
+ @elogist
+* dt
+- người tán dương
+ @elogy
+* dt
+- bài ca tụng
+- văn bia ca ngợi người chết
+- lời tán dương
+ @eloign
+* ngdgt
+- (từ hiếm) lánh xa
+- dời đến nơi cách xa
+ @elongate  
+*  ngdgt
+- làm dài ra, kéo dài ra
+*  ndgt
+- (thực vật học) có hình thon dài
+*  tt
+- (thực vật học) thon dài
+
+@elongate
+- ly giác, ly nhật độ; kéo dài ra, giãn ra
+ @elongation  
+*  dt
+- sự làm dài ra, sự kéo dài ra
+- phần dài ra
+- (vật lý) độ giãn dài
+- (thiên văn học) góc lìa, ly giác
+
+@elongation
+- ly giác, ly độ; sự kéo dài, sự giãn
+- effective e. ly độ hữu hiệu; sự giãn hữu hiệu
+- unit e. ly độ đơn vị, sự kéo dài đơn vị 
+ @elope  
+*  ndgt
+- trốn đi theo trai
+- trốn đi
+
+@elopement  
+*  dt
+- sự trốn đi theo trai
+
+@eloper  
+*  dt
+- người trốn đi theo trai
+
++ the eloper s: cặp trai gái đem nhau đi trốn
+
+@eloquence  
+*  dt
+- tài hùng biện
+- (từ cổ,nghĩa cổ) môn tu từ
+
+@eloquent  
+*  tt
+- hùng biện, hùng hồn
+
+@eloquently
+* dt
+- hùng biện, hùng hồn
+ @eloquentness
+- xem eloquent
+ @else  
+*  dt
+- khác, nữa
+
++ anyone else?: người nào khác?
+
++ anything else?: cái gì khác?, cái gì nữa?
+- nếu không
+
++ run, [or] else you'll miss your train: chạy đi nếu không sẽ lỡ chuyến xe lửa
+
+@elsewhere  
+*  dt
+- ở một nơi nào khác
+
+@elt
+* (viết tắt)
+- sự giảng dạy tiếng Anh (English Language Teaching)
+ @elucidate  
+*  ngdgt
+- làm sáng tỏ; giải thích
+
+@elucidation  
+*  dt
+- sự làm sáng tỏ; sự giải thích
+
+@elucidative   (elucidative) @elucidator  
+*  dt
+- người làm sáng tỏ; người giải thích
+
+@elucidatory   (elucidative) @elucubrate
+* ngdgt
+- làm cặm cụi
+ @elucubration
+* dt
+- công trình cặm cụi
+ @elude  
+*  ngdgt
+- tránh, né, lảng tránh (cú đấm, sự khó khăn, sự quan sát...)
+- trốn tránh (luật pháp, trách nhiệm...)
+- vượt quá (sự hiểu biết...)
+
+@elude
+- tránh, thoát, tuột, sổng
+ @elusion  
+*  dt
+- lối tránh, lối lảng tránh, lối thoái thác
+
+@elusive   (elusory) @elusively
+- xem elusive
+ @elusiveness  
+*  dt
+- tính hay lảng tránh; tính chất lảng tránh
+
+@elusory   (elusory) @elute
+* ngdgt
+- tách rửa
+ @elution
+* dt
+- (hoá học) phép tách rửa
+ @elutriate
+* ngdgt
+- gạn sạch; rửa sạch
+ @elutriation
+* dt
+- sự gạn sạch, sự rửa sạch
+ @eluvial
+* tt
+- (địa chất) thuộc tàn tích, thuộc đá sót
+ @eluvium
+* dt
+- (địa chất) tàn tích của đá; đá sót
+ @elver  
+*  dt
+- (động vật học) con cá chình con, con lươn con
+
+@elves  
+*  dt,  số nhiều elves
+- yêu tinh
+- kẻ tinh nghịch
+- người lùn, người bé tí hon
+
+@elvish   (elvish) @elysian
+* tt
+ @elysium  
+*  dt
+- thiên đường, chốn thiên đường (thần thoại Hy-lạp)
+
+@elytra  
+*  dt,  số nhiều elytra 
+@elytroid
+- xem elytron
+ @elytron  
+*  dt,  số nhiều elytra 
+@elytrophore
+* dt
+- (động vật) gốc cánh cứng
+ @elytrum
+* dt
+- số nhiều elytra
+- cánh cứng
+ @elzevir  
+*  dt
+- sách enzêvia (do gia đình En-giê-via in ở Hà-lan, vào (thế kỷ) 16 17)
+- kiểu chữ enzêvia
+*  tt
+- Enzêvia (sách kiểu chữ)
+
+@

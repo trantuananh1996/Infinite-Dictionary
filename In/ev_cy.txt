@@ -1,0 +1,555 @@
+@cyan
+- (Tech) mầu xanh lá mạ
+ @cyanamide
+* dt
+- (hoá học) xianamit
+ @cyanate
+* dt
+- (hoá học) xianat
+ @cyanic  
+*  tt
+- xanh
+- (hoá học) xyanic
+
++ cyanic acid: axit xyanic
+
+@cyanide  
+*  dt
+- (hoá học) xyanua
+
+@cyanogen  
+*  dt
+- (hoá học) xyanogen
+
+@cyanogenesis
+* dt
+- (hoá học) sự sinh axit xianhidric
+ @cyanophyte
+* dt
+- (thực vật) tảo lam
+ @cyanosed
+* tt
+- bị chứng xanh tím
+ @cyanosis  
+*  dt
+- (y học) chứng xanh tím
+
+@cyanotic
+- xem cyanosis
+ @cybernated
+* tt
+- thuộc điều khiển học
+ @cybernation
+* dt
+- sự kiểm tra tự động hoạt động bằng máy tính
+ @cybernetic
+- (Tech) thuộc điều khiển học, xaibơnêtic
+ @cybernetic model
+- (Tech) mô hình điều khiển học
+ @cybernetically
+- xem cybernetics
+ @cybernetician
+- xem cybernetics
+ @cyberneticist
+- xem cybernetics
+ @cybernetics  
+*  dt,  số nhiều dùng như số ít
+- (vật lý) điều khiển học
+
+@cybernetics
+- (Tech) điều khiển học, xaibơnêtic
+ @cybernetics
+- điều khiển học, xibecnetic
+- engineering c. điều khiển học kỹ thuật
+ @cyberphober
+- chứng sợ máy tính
+ @cyberpunk
+- (Tech) dân chơi xaibơ
+ @cybersex
+- tính dục máy tính
+ @cyberspace
+- (Tech) không gian tự khiển, không gian xaibơ
+ @cyborg
+* dt
+- nhân vật trong tiểu thuyết viễn tưởng có tính cách nửa người nửa máy
+ @cycad  
+*  dt
+- (thực vật học) cây mè
+
+@cyclamate
+* dt
+- đường hoá học
+ @cyclamen  
+*  dt
+- (thực vật học) cây hoa anh thảo
+
+@cyclamin
+* dt
+- (hoá học) xiclamin
+ @cycle  
+*  dt
+- (vật lý) chu ký, chu trình
+
++ reversible cycle: chu trình thuận nghịch
+- (hoá học) vòng
+- tập thơ cùng chủ đề, tập bài hát cùng chủ đề
+- xe đạp
+*  ndgt
+- quay vòng tròn theo chu kỳ
+- đi xe đạp
+
+@cycle
+- (Tech) chu kỳ; chu trình (quá trình theo thứ tự nhất định), tuần hoàn
+ @cycle
+- sự tuần hoàn, chu trình, chu kỳ || làm theo chu trình
+- accumulation c. chu trình tích luỹ
+- effective c. (đại số) chu trình hữu hiệu
+- essential c. (tô pô) chu trình cốt yếu
+- fixed c. chu trình không đổi
+- forword-type c. chu trình chuyển động lên trước
+- ideal c. chu trình lý tưởng
+- limit c. (giải tích) chu trình giới hạn
+- magnetic c. (máy tính) chu trình từ hoá
+- major c. (máy tính) chu trình lớn
+- open c. chu trình mở
+- print c. (máy tính) chu trình in
+- pulse-repetition c. (máy tính) chu trình lặp lại các xung
+- rational c. chu trình hữu tỷ
+- relative c. chu trình tương đối
+- repetitive c. (máy tính) chu trình lặp
+- scanning c. chu trình quyét
+- storage c. chu trình dự trữ
+- timing c. (máy tính) chu trình định thời
+- variable c. chu trình biến thiên
+- virtual c. chu trình ảo 
+ @cycle per second
+- (Tech) chu kỳ mỗi giây, héc
+ @cycle stealing
+- (Tech) sự trộm chu kỳ
+ @cycle time
+- (Tech) thời gian chu kỳ
+ @cycle timer
+- (Tech) máy đếm chu kỳ
+ @cycle-car  
+*  dt
+- xe ô tô nhỏ ba bánh (chạy xích)
+
+@cycler  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) cyclist
+
+@cycler
+- (Tech) bộ điều khiển chu trình
+ @cycler
+- thiết bị điều khiển chu trình
+ @cycleway
+* dt
+- xem cycle track
+ @cyclic   (cyclical) @cyclic addressing
+- (Tech) địa chỉ hóa tuần hoàn
+ @cyclic carry
+- (Tech) số nhớ tuần hoàn
+ @cyclic check byte (CCB)
+- (Tech) bai kiểm tuần hoàn
+ @cyclic graph
+- (Tech) đồ thị tuần hoàn
+ @cyclic memory
+- (Tech) bộ nhớ tuần hoàn
+ @cyclic permutation
+- (Tech) hoán vị tuần hoàn
+ @cyclic redundancy check (CRC)
+- (Tech) kiểm tra tuần hoàn dư
+ @cyclic shift
+- (Tech) dịch chuyển tuần hoàn
+ @cyclical   (cyclical) @cyclic(al)
+- (Tech) thuộc chu kỳ @cyclic(al)
+- xiclic, tròn, tuần hoàn
+ @cyclical field
+- (Tech) trường tuần hoàn
+ @Cyclical unemployment
+- (Econ) Thất nghiệp chu kỳ.
+: Là loại thất nghiệp do THIẾU CẦU NGẮN HẠN.
+ @cyclicality
+- xem cyclic
+ @cyclically
+* dt
+- đều đặn, theo chu kỳ
+ @cyclically
+- một cách tuần hoàn
+ @cyclicity  
+*  dt
+- tính chất chu kỳ
+
+@cyclide
+- xilic
+- binodal c. xiclit hai nút
+- nodal c. xiclit có nút 
+ @cyclifying
+* tt
+- tạo thành hình tròn
+ @cycling  
+*  dt
+- sự đi xe đạp
+
+@cycling
+- (Tech) vận hành theo chu kỳ
+ @Cycling
+- (Econ) Chu kỳ.
+: Xem PARADOX OF VOTING.
+ @cycling
+- c. công có chu trình; sự dao động, sự chuyển xung lượng
+ @cyclist  
+*  dt
+- người đi xe đạp
+
+@cyclocross
+* dt
+- cuộc đua xe đạp việt dã
+ @cyclogenesis
+* dt
+- sự phát sinh khí xoáy tụ
+ @cyclogram
+- (Tech) đường đẳng khuynh (bộ dao động điện trở âm); biểu đồ chu trình; biểu đồ thị dã
+ @cyclogram
+- biểu đồ chu trình
+ @cyclograph
+- (Tech) ký đồ chu kỳ
+ @cyclograph
+- đồ thị chu trình
+ @cyclohexane
+* dt
+- (hoá học) ciklohexan
+ @cycloid  
+*  dt
+- (toán học) xycloit
+
+@cycloid
+- (Tech) dây quay, xiclôit
+ @cycloid
+- xicloit
+- curtate c. xicloit co
+- prolate c. xicloit duỗi 
+ @cycloidal
+- xem cycloid
+ @cyclometer  
+*  dt
+- đồng hồ đo đường (xe đạp, xe máy)
+
+@cyclometer
+- máy đo quãng đường, máy đo chu trình
+ @cyclometric
+- xem cyclometer
+ @cyclometry
+- xem cyclometer
+ @cyclone  
+*  dt
+- khi xoáy thuận, khi xoáy tụ
+
+@cyclonic
+* tt
+- thuộc về lốc, thuộc về gió xoáy
+ @cyclonoscope
+* dt
+- dụng cụ dự báo gió xoáy
+ @cyclopaedia   (encyclopaedia) @cyclopean  
+*  tt
+- (thuộc) người khổng lồ một mắt; giống người khổng lồ một mắt
+- khổng lồ, to lớn
+
+@cyclopedic
+* tt
+- thuộc từ điển bách khoa
+- có học vấn uyên bác
+
++  cyclopedic knowledge:tri thức uyên bác
+ @cyclopes  
+*  dt,  số nhiều Cyclopes
+- người khổng lồ một mắt (thần thoại Hy lạp)
+
+@cyclops  
+*  dt,  số nhiều Cyclopes
+- người khổng lồ một mắt (thần thoại Hy lạp)
+
+@cyclorama
+* dt
+- (sân khấu) màn vây
+ @cycloramic
+* tt
+- thuộc màn vây
+ @cyclosis
+* dt
+- sự vận động vòng
+ @cyclostomate
+* dt
+- (động vật) bộ miệng tròn
+ @cyclostyle  
+*  dt
+- máy in rônêô
+*  ngdgt
+- in rônêô
+
+@cyclosymmetry
+- sự đối xứng chu trình
+ @cyclosynchrotron
+- (Tech) bộ gia tốc đồng bộ tuần hoàn, xiclôxincrôtron
+ @cyclotomic
+- tròn, về việc chia vòng tròn
+ @cyclotron  
+*  dt
+- (vật lý) xyclôtron
+
+@cyclotron
+- (Tech) bộ gia tốc quay tròn, xiclôtron
+ @cyclotron
+- xiclôtron
+ @cyclotron frequency
+- (Tech) tần số bộ gia tốc quay tròn, tần số xiclôtron
+ @cyder   (cyder) @cyesis
+* dt
+- (y học) sự mang thai
+ @cygnet  
+*  dt
+- con thiên nga non
+
+@cygnus
+* dt
+- (động vật) thiên nga
+ @cylinder  
+*  dt
+- (toán học) trụ, hình trụ
+- (cơ khí) xylanh
+- (ngành in) trục lăn
+
+@cylinder
+- (Tech) trụ, hình trụ; mặt trụ; vật hình trụ; xilinddơ (vòng đồng tâm và đồng bán kính của bộ đĩa)
+ @cylinder
+- trụ, hình trụ, mặt trụ
+- algebraic c. mặt trụ đại số
+- circular c. hình trụ tròn
+- coaxial c. hình trụ đồng trục
+- compound c. hình trụ đa hợp
+- elliptic(al) c. mặt trụ eliptic
+- envoloping c. mặt trụ bao
+- hyperbolic c. mặt trụ hipebolic
+- imaginary elliptic c. mặt trụ eliptic ảo
+- obliqua c. hình trụ xiên
+- projecting c. trụ chiếu
+- right circular c. hình trụ tròn phẳng
+- rotating c. hình trụ tròn xoay 
+ @cylinder block
+- (cơ) hộp xilanh
+ @cylinder head
+- (cơ) nắp xilanh
+ @cylinder index
+- (Tech) chỉ số trụ
+ @cylindrical  
+*  tt
+- hình trụ
+
+@cylindric(al)
+- (Tech) thuộc hình trụ
+ @cylindrical
+- (thuộc) mặt trụ
+ @cylindrical boule
+- (Tech) trụ tinh thể, tinh khối hình trụ
+ @cylindrical convex lens
+- (Tech) thấu kính trụ lồi
+ @cylindrical domain memory
+- (Tech) bộ nhớ vùng trụ
+ @cylindrical lens
+- (Tech) thấu kính trụ
+ @cylindrical parabolic antenna
+- (Tech) ăngten trụ parabôn
+ @cylindrical reflector
+- (Tech) cái phản xạ trụ
+ @cylindrical wave
+- (Tech) sóng trụ
+ @cylindrical waveguide
+- (Tech) ống dẫn sóng hình trụ
+ @cylindrical winding
+- (Tech) kiểu quấn dây hình trụ
+ @cylindricality
+- xem cylindrical
+ @cylindrically
+- xem cylindrical
+ @cylindricity
+* dt
+- tính chất hình trụ
+ @cylindroid
+* tt
+- giống hình trụ
+ @cylindroid
+- phỏng trụ
+ @cymbal  
+*  dt
+- (âm nhạc) cái chũm choẹ
+
+@cymbaleer
+- xem cymbal
+ @cymbalist  
+*  dt
+- (âm nhạc) người đánh chũm choẹ
+
+@cymbiform
+* tt
+- (giải phẫu) dạng thuyền
+ @cymbium
+* dt
+- (giải phẫu) xương thuyền
+ @cyme  
+*  dt
+- (thực vật học) xim (kiểu cụm hoa)
+
+@cymiferous
+- xem cyme
+ @cymometer  
+*  dt
+- (rađiô) máy đo sóng
+
+@cymophane
+* dt
+- (khoáng chất) ximophan
+ @cynic  
+*  dt
+- (Cynic) (triết học) nhà khuyến nho
+- người hoài nghi, người yếm thế
+- người hay chỉ trích cay độc; người hay nhạo báng, người hay giễu cợt
+*  tt: (cynical) 
+@cynical  
+*  dt
+- (Cynic) (triết học) nhà khuyến nho
+- người hoài nghi, người yếm thế
+- người hay chỉ trích cay độc; người hay nhạo báng, người hay giễu cợt
+*  tt: (cynical) 
+@cynically
+* dt
+- bất cần đạo lý, bất nhẫn
+ @cynicalness
+- xem cynical
+ @cynicism  
+*  dt
+- cynicsm thuyết khuyến nho
+- tính hoài nghi, tính yếm thế
+- tính hay chỉ trích cay độc; tính hay nhạo báng, tính hay giễu cợt
+- lời nói chua cay; lòi nhạo báng, lời giễu cợt
+
+@cynosural
+- xem cynosure
+ @cynosure  
+*  dt
+- người làm cho mọi người chú ý, vật làm cho mọi người chú ý; trung tâm của sự chú ý
+
++ the cynosure of all eyes: cái mà mọi người phải chú ý nhìn, cái mà mọi con mắt đều đổ dồn vào.
+
+@cynthia
+* dt
+- (thơ ca) chị Hằng
+ @cypher
+- (Tech) số không; chữ số; mã
+ @cypher
+- số không, chữ số, mã D’Alembert
+- toán tử Alembect
+ @cypherpunks
+- (Tech) dân chơi mã dịch
+ @cypress  
+*  dt
+- (thực vật học) cây bách
+
+@cyprinid
+* dt
+- (động vật) họ chép
+ @cyprinodont
+* dt
+- (động vật) cá sóc
+ @cyrillic  
+*  tt
+- cyrillic alphabet chữ cái kirin
+
+@cyrix
+- Tên một hãng sản xuất các chip máy tính
+ @cyst  
+*  dt
+- (sinh vật học) túi bao, nang, bào xác
+- (y học) nang, u nang
+
+@cystic  
+*  tt
+- (thuộc) túi bao, (thuộc) nang, (thuộc) bào xác
+- (y học) (thuộc) nang, (thuộc) u nang
+
+@cysticercoid
+* tt
+- (động vật) dạng nang sán
+ @cysticercosis
+* dt
+- số nhiều cysticercoses
+- bệnh nang sán; bệnh gạo sán
+ @cystine  
+*  dt
+- (hoá học) xystin
+
+@cystinuria
+* dt
+- (y học) chứng đái xistin
+ @cystitis  
+*  dt
+- (y học) viêm bóng đái
+
+@cystocarp
+* dt
+- (thực vật) quả thể túi
+ @cystocopik
+* tt
+- thuộc ống soi bọng đái
+ @cystoid
+* tt
+- giống như túi; dạng bọng; dạng kén
+* dt
+- cấu trúc dạng túi, cấu trúc dạng kén
+ @cystolith
+* dt
+- sỏi bàng quang
+ @cystoscope
+* dt
+- ống soi bọng đái
+ @cytherean
+* tt
+- thuộc hành tinh Vê nút (sao kim)
+ @cytochemistry
+* dt
+- hoá học tế bào
+ @cytodifferentiation
+* dt
+- sự phân hoá tế bào
+ @cytogenetics
+* dt
+- di truyền học tế bào
+ @cytokinesis
+* dt
+- sự phân bào
+ @cytologic
+- xem cytology
+ @cytologist
+- xem cytology
+ @cytology  
+*  dt
+- (sinh vật học) tế bào học
+
+@cytolysin
+* dt
+- tiêu tế bào tố; hủy tế bào tố
+ @cytomembrane
+* dt
+- màng tế bào
+ @cyton
+* dt
+- xiton; thân tế bào thần kinh
+ @cytoplasm  
+*  dt
+- tế bào chất
+
+@cytoplasmic
+- xem cytoplasm
+ @cytoplasmically
+- xem cytoplasm
+ @

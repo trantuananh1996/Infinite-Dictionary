@@ -1,0 +1,331 @@
+@om
+* dt
+- vt của Order of Merit
+- Huân chương chiến công
+ @omadhaun
+* dt
+- (Irland) người ngốc
+ @omasum
+* dt
+- dạ lá sách (bò, cừu, ...)
+ @ombilic
+* tt
+- thuộc lổ gốc lông chim
+ @ombratropism
+* dt
+- tính hướng mưa
+ @ombre  
+*  dt
+- lối chơi bài ombơ (ở thế kỷ 17 và 18)
+
+@ombro-
+- hình thái ghép có nghĩa là mưa: ombrology :môn học về mưa
+ @ombrology  
+*  dt
+- khoa nghiên cứu mưa
+
+@ombrometer  
+*  dt
+- cái đo mưa
+
+@ombrophil
+* tt
+- ưa mưa
+ @ombrophile
+* dt
+- cây ưa mưa, cây chịu mưa
+ @ombrophobe
+* dt
+- cây kỵ mưa
+ @ombudsman  
+*  dt
+- nhân viên kiểm tra (những việc làm của cơ quan nhà nước vi phạm đến quyền lợi của cá nhân)
+
+@ombudsmen
+* dt
+- số nhiều
+- xem ombudsman
+ @omega  
+*  dt
+- Omega, o dài (chữ cái Hy-lạp)
+- cái cuối cùng; sự phát triển cuối cùng
+
+@omega
+- ômêga (&#969;)
+ @omega-completion
+- sự Ω-đầy đủ
+ @omega-consistency
+- (logic học) tính Ω-phi mâu thuẫn
+ @omelet   (omelette) @omelette   (omelette) @omen  
+*  dt
+- điềm
+
++ a good omen: điềm tốt
+
++ a bad omen: điềm xấu
+*  ngdgt
+- báo hiệu, chỉ điểm, là điểm
+
+@omened
+* tt
+- có điềm báo trước
+ @omenta  
+*  dt,  số nhiều omenta
+- (giải phẫu) màng nối, mạch nối
+
+@omental  
+*  tt
+- (giải phẫu) (thuộc) màng nối
+
+@omentum  
+*  dt,  số nhiều omenta
+- (giải phẫu) màng nối, mạch nối
+
+@omer
+* dt
+- đơn vị đo lường Do thái cổ bằng 3, 5 lít
+ @omicron  
+*  dt
+- o ngắn (chữ cái Hy-lạp)
+
+@omicron
+- omicrôn
+ @omikron
+- xem omicron
+ @ominous  
+*  tt
+- báo điềm (xấu, tốt)
+- gở, báo điềm xấu; xấu, đáng ngại
+
++ an ominous silence: sự yên lặng đáng ngại
+
+@omissible  
+*  tt
+- có thể bỏ sót, có thể bỏ quên, có thể bỏ đi (một từ...)
+
+@omission  
+*  dt
+- sự bỏ sót, sự bỏ quên, sự bỏ đi
+- điều bỏ sót, điều bỏ quên, điều bỏ đi
+- sự không làm tròn, sự chểnh mảng
+
+@omission
+- sự bỏ qua, sự bỏ đi
+ @omissive  
+*  tt
+- bỏ sót, bỏ quên
+
+@omit  
+*  ngdgt
+- bỏ sót, bỏ quên, bỏ đi (một từ...)
+- không làm tròn (công việc), chểnh mảng
+
+@omit
+- bỏ qua, bỏ đi
+ @omittance
+* dt
+- sự quên; sự lơ là
+ @omitted
+- bị bỏ qua không lấy
+ @ommachromes
+* dt
+- số nhiều
+- sắc tố mắt @ommateum
+* dt
+- (sinh vật) mắt kép
+ @ommatidial
+* tt
+- thuộc mắt con
+ @ommatidium
+* dt
+- (sinh vật) mắt con
+ @ommatophore
+* dt
+- cuống mắt
+ @ommatophorous
+* tt
+- thuộc cuống mắt
+ @omni-
+- hình thái ghép có nghĩa là tất cả
+- omnipotent
+- vạn năng
+- omnific
+- tạo ra tất cả
+ @omnibus  
+*  dt,  số nhiều omnibuses
+- xe ô tô hai tầng
+- xe buýt
+- (như) omnibus book
+*  tt
+- bao trùm, nhiều mục đích
+- nhiều nội dung, gồm nhiều vấn đề, gồm nhiều mục
+
++ omnibus bill: bản dự luật gồm nhiều mục
+
+@omnibus book  
+*  dt
+- tác phẩm (của cùng một tác giả) giá hạ (để ai cũng có thể mua được)
+
+@omnibuses  
+*  dt,  số nhiều omnibuses
+- xe ô tô hai tầng
+- xe buýt
+- (như) omnibus book
+*  tt
+- bao trùm, nhiều mục đích
+- nhiều nội dung, gồm nhiều vấn đề, gồm nhiều mục
+
++ omnibus bill: bản dự luật gồm nhiều mục
+
+@omnibus-train  
+*  dt
+- (ngành đường sắt) xe chợ (ga nào cũng ghé)
+
+@omnicompetence
+* dt
+- sự toàn quyền
+ @omnicompetent  
+*  tt
+- có quyền lực trong mọi trường hợp
+
+@omnidirectional
+* tt
+- mọi hướng; tác dụng theo mọi hướng
+ @omnifarious  
+*  tt
+- nhiều loại
+
+@omniferous  
+*  tt
+- sản xuất ra nhiều loại, tạo ra nhiều loại
+
+@omnific  
+*  tt
+- tạo ra tất cả, sinh ra tất cả
+
+@omnificent
+* tt
+- xem omnific
+ @omniform
+* tt
+- đủ mọi hình thức
+ @omniformity
+* dt
+- sự có đủ mọi hình thức
+ @omnigenous  
+*  tt
+- nhiều loại, nhiều thứ
+
+@omnipercipience
+* dt
+- thông hiểu muôn việc
+ @omnipotence  
+*  dt
+- quyền tuyệt đối, quyền vô hạn
+- (Omnipotence) Thượng đế,  Chúa
+
+@omnipotency
+* dt
+- xem omnipotence
+ @omnipotent  
+*  tt
+- có quyền tuyệt đối, có quyền vô hạn
+!the Omnipotence
+- Thượng đế,  Chúa
+
+@omnipresence  
+*  dt
+- sự có mặt ở khắp mọi nơi
+
+@omnipresent  
+*  tt
+- có mặt ở khắp nơi
+
+@omniscience  
+*  dt
+- sự thông suốt mọi sự, sự toàn trí toàn thức
+- (Omniscience) Thượng đế,  Chúa
+
+@omniscient  
+*  tt
+- thông suốt mọi sự, toàn trí toàn thức
+!the Omniscient
+- Thượng đế,  Chúa
+
+@omnium gatherum  
+*  dt
+- sự tập họp, linh tinh (người hoặc đồ vật)
+- buổi liên hoan rộng rãi (có mọi người dự)
+
+@omnivore  
+*  dt
+- động vật ăn tạp
+
+@omnivorous  
+*  tt
+- (động vật học) ăn tạp
+- (nghĩa bóng) đọc đủ loại sách, đọc linh tinh
+
++ an omnivorous reader: người đọc linh tinh đủ loại sách
+
+@omnivorousness  
+*  dt
+- (động vật học) tính ăn tạp
+- (nghĩa bóng) tính thích đọc đủ mọi loại sách, tính hay đọc linh tinh
+
+@omophagia  
+*  dt
+- sự ăn thịt sống
+
+@omophagic  
+*  tt
+- ăn thịt sống
+
+@omophagist  
+*  dt
+- người ăn thịt sống; thú ăn thịt sống
+
+@omophagous  
+*  tt
+- ăn thịt sống
+
+@omophalocele  
+*  dt
+- (y học) thoát vị rốn
+
+@omophalotomy  
+*  dt
+- (y học) sự cắt dây rốn
+
+@omoplate  
+*  dt
+- (giải phẫu) xương bả vai
+
+@omotocia
+* dt
+- (y học) tiểu sản
+ @omphalic
+* tt
+- thuộc rốn
+ @omphalocele
+* dt
+- (y học) thoát vị rốn
+ @omphalodium
+* dt
+- gốc rốn
+ @omphalogenesis
+* dt
+- sự phát triển túi dây rốn
+ @omphaloid
+* tt
+- có rốn
+ @omphaloidium
+* dt
+- gốc rốn
+ @omphalomesenteric
+* tt
+- thuộc dây rốn - màng treo ruột
+ @omphalotomy
+* dt
+- (y học) việc cắt rốn
+ @

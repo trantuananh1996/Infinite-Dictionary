@@ -1,0 +1,3327 @@
+@br
+* (viết tắt)
+- Hoả xa Anh quốc (British Rails)
+- thuộc về Anh quốc (British)
+- tín đồ theo cùng một đạo, Đạo hữu
+ @bra  
+*  dt
+- (thông tục) ((viết tắt) của brassière) cái nịt vú, cái yếm
+
+@braai
+* ngdgt, n
+- (từ Nam Phi) nướng, quay cả con
+ @braaivleis
+* dt
+- (từ Nam Phi) thịt nướng
+ @brace  
+*  dt
+- vật (để) nối
+- (kiến trúc) trụ chống, thanh giằng
+- đôi
+
++ a brace of pheasants: một đôi gà lôi
+- (số nhiều) dây đeo quần, dây brơten; dây căng trống
+- (kỹ thuật) cái khoan quay tay; cái vặn ốc quay tay ((cũng) brace and bit)
+- (ngành in) dấu ngoặc ôm
+- (hàng hải) dây lèo
+*  ngdgt
+- móc, chằng, nối cho vững; làm chắc thêm
+- (kiến trúc) chống bằng trụ chống, đóng thanh giằng
+- căng (trống)
+- kết đôi, cặp đôi
+- (ngành in) đặt trong dấu ngoặc ôm
+- (hàng hải) quay hướng (buồm) bằng dây lèo
+- gắng (hết sức mình), dốc (hết nghị lực...)
+
++ to brace oneself up; to brace one's energies: gắng hết sức mình, dốc hết sức mình, dốc hết nghị lực
+- làm mạnh thêm, làm cường tráng
+!to brace up
+- khuyến khích, khích lệ
+
+@brace
+- (Tech) thanh chống; chống (đ); gia cường (đ)
+ @bracelet  
+*  dt
+- vòng tay, xuyến
+- (số nhiều) (từ lóng) khoá tay
+
+@bracer  
+*  dt
+- cái bao cổ tay (để đấu gươm, bắn cung)
+- chất bổ, rượu bổ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chén rượu giải sầu; chén rượu làm cho lại sức
+
+@braces
+- (Tech) dấu ngoặc ôm
+ @brachial  
+*  tt
+- (giải phẫu) (thuộc) cánh tay; giống cánh tay
+
+@brachialis
+* dt
+- cơ cánh tay
+ @brachiate
+* tt
+- có chi; có nhánh
+* dgt
+- vận động bằng cánh tay
+ @brachiation
+* dt
+- sự vận động bằng cánh tay
+ @brachidia
+* dt số nhiều
+- (sinh học) bộ xương vôi (chân cuốn)
+ @brachiferous
+- Cách viết khác : brachigenous 
+ @brachiole
+* dt
+- mấu chân
+ @brachiopod  
+*  dt
+- (động vật học) động vật tay cuộn
+
+@brachiosaurus
+* dt
+- (động vật) thằn lằn tay (hoá thạch)
+ @brachistochrone
+- đường đoản thời
+ @brachium
+* dt
+- số nhiều brachia
+- tay; chi trước; chân trước; chân cuốn
+- cuốn tiểu não
+ @brachycephalic  
+*  tt
+- có đầu ngắn
+
+@brachycephaly
+- xem brachycephalic
+ @brachydactylous
+* tt
+- có ngón đặc biệt ngắn
+ @brachydactyly
+* dt
+- tính ngón ngắn
+ @brachylogy  
+*  dt
+- tính khúc chiết, tính cô đông lại (của lời nói)
+- lời diễn đạt khúc chiết
+- sự sai sót trong lời nói vì quá cô đọng
+
+@brachypterous
+* tt
+- có vây ngắn, có cánh ngắn
+ @brachyuran
+* dt
+- động vật có bụng ngắn gấp dưới ngực
+* tt
+- có đuôi ngắn
+ @brachyuric
+* tt
+- thuộc đuôi ngắn
+ @brachyurous
+* tt
+- có đuôi ngắn
+ @bracing  
+*  tt
+- làm cường tráng, làm khoẻ mạnh
+
++ bracing air: không khí làm khoẻ người
+
+@bracingly
+- xem bracing
+ @bracken   (brake) @bracket  
+*  dt
+- (kiến trúc) côngxon, rầm chia
+- dấu ngoặc đơn; dấu móc; dấu ngoặc ôm
+
++ to put between brackets: để trong ngoặc đơn; để trong móc; để trong dấu ngoặc ôm
+- (quân sự) giá đỡ nòng (súng đại bác)
+- (quân sự) khoảng cách giữa hai phát đạn trên và dưới (mục tiêu) để quan trắc
+!income bracket
+- (từ Mỹ,nghĩa Mỹ) nhóm người đóng thuế xếp theo thu hoạch
+*  ngdgt
+- gộp lại trong dấu ngoặc; đặt trong dấu ngoặc
+- xếp (hai hay nhiều người) đồng hạng
+
++ A and B were bracketed for the fierst prize: A và B đều được xếp vào giải nhất
+- (quân sự) bắn hai phát đạn trên và dưới (mục tiêu) để quan trắc
+
+@bracket
+- (Tech) dấu ngoặc; thanh chống
+ @bracket
+- dấu ngoặc
+- curly b. dấu ngoặc {}
+- round b. dấu ngoặc ( )
+- square b. dấu ngoặc [ ] 
+ @bracket standard
+- (Tech) tính vạn năng, tính kết hợp nhiều tiêu chuẩn [TV]
+ @brackish  
+*  tt
+- hơi mặn, mằn mặn (nước)
+
+@brackishness
+- xem brackish
+ @bract  
+*  dt
+- (thực vật học) lá bắc
+
+@bracteal  
+*  tt
+- (thực vật học) (thuộc) lá bắc
+
+@bracteate  
+*  tt
+- (thực vật học) có lá bắc
+
+@bracteole   (bractlet) @bractlet   (bractlet) @brad  
+*  dt
+- đinh nhỏ đầu (của thợ bọc ghế...)
+
+@bradawl  
+*  dt
+- cái giùi
+
+@brae  
+*  dt
+- bờ dốc (sông)
+- sườn đồi
+
+@brag  
+*  dt
+- sự khoe khoang khoác lác
+- (từ Mỹ,nghĩa Mỹ) người khoe khoang khoác lác ((cũng) braggadocio)
+*  dgt
+- khoe khoang khoác lác
+
+@braggadocio  
+*  dt
+- sự khoe khoang khoác lác; lời khoe khoang khoác lác
+- (từ Mỹ,nghĩa Mỹ) (như) brag
+
+@braggart  
+*  dt
+- người khoe khoang khoác lác
+
+@bragger
+- xem brag
+ @brahman   (brahman) @brahmanism   (brahmanism) @brahmin   (brahman) @brahminee  
+*  tt
+- (thuộc) đạo Bà la môn
+!brahminee ox
+- bò thần (không được giết thịt)
+
+@brahminical
+* tt
+- thuộc đạo Bà-la-môn
+ @brahminism   (brahmanism) @braid  
+*  dt
+- dải viền (trang sức quần áo)
+- dây tết (bằng lụa, vải)
+- bím tóc
+*  ngdgt
+- viền (quần áo) bằng dải viền
+- bện, tết (tóc...)
+- thắt nơ giữ (tóc)
+
+@braid
+- (Tech) tết, bện (đ)
+ @braid
+- (tô pô) bện, tết
+ @braided wire
+- (Tech) dây tết
+ @braider
+- xem braid
+ @brail  
+*  dt
+- (hàng hải) dây cuộn buồm
+*  ngdgt
+- (hàng hải) cuộn (buồm)
+
+@braille  
+*  dt
+- hệ thống chữ Bray (chữ nổi cho người mù)
+*  ngdgt
+- in bằng hệ thống chữ Bray (người mù)
+
+@braillewriter
+* dt
+- Máy viết chữ Bray
+ @brain  
+*  dt
+- óc, não
+- đầu óc, trí óc
+- (số nhiều) trí tuệ; trí lực; sự thông minh
+- (từ lóng) máy tính điện tử
+!to crack one's brains
+- dở điên, dở gàn
+!too have something on the brain
+- luôn luôn nghĩ ngợi về một điều gì; bị một điều gì ám ảnh
+!an idle brain is the devil's workshop
+- (tục ngữ) nhàn cư vi bất thiện
+!to make somebody's brain reel
+- làm cho ai choáng váng đầu óc
+!to pick (suck) somebody's brain
+- moi và dùng những ý kiến của ai
+!to rack cudgel, puzzle, beat, ransack) one's brains
+- nặn óc, vắt óc suy nghĩ
+!to turn somebody's brain
+- làm cho đầu óc ai hoa lên
+- làm cho ai đâm ra tự đắc lố bịch
+*  ngdgt
+- đánh vỡ óc, đánh vỡ đầu (ai)
+
+@brain
+- (Tech) bộ não; trí tuệ
+ @brain
+- bộ óc; trí tuệ; trí lực
+- artificial b. óc nhân tạo
+- electronic b. óc điện tử 
+ @Brain drain
+- (Econ) (Hiện tượng) chảy máu chất xám
+: Sự di cư của những nguời lao động có trình độ và tay nghề từ các nước nghèo sang các nước giàu hơn.
+ @brain fever
+* dt
+- <y> bệnh viêm não
+ @brain sauce  
+*  dt
+-(đùa cợt) trí thông minh
+
+@brain-child  
+*  dt
+- (thông tục) con đẻ của trí óc, sản phẩm của trí óc
+
+@brainchild
+* dt
+- (thông tục) ý kiến, sự phát minh, kế hoạch riêng của một người; con đẻ của trí tuệ; sản phẩm của trí óc
+
++  This amusement park is the brainchild of a well-known pediatrician:Khu vui chơi này là sản phẩm trí tuệ của một bác sĩ nhi khoa nổi tiếng
+ @brain-drain  
+*  dt
+- sự thu hút trí thức (hiện tượng trí thức các nước tư bản, dân tộc chu nghĩa bị các nước có mức sống cao thu hút)
+
+@brain-fag  
+*  dt
+- (y học) bệnh suy nhược thần kinh
+
+@brain-feves  
+*  dt
+- (y học) bệnh viêm não
+
+@brainily
+- xem brainy
+ @braininess
+- xem brainy
+ @brainish
+* tt
+- (từ cổ) hung hăng
+ @brainless  
+*  tt
+- ngu si, đần độn; không có đầu óc
+
+@brainlessly
+- xem brainless
+ @brainlessness
+- xem brainless
+ @brain-pan  
+*  dt
+- (thông tục) sọ
+
+@brainpower
+* dt
+- năng lực trí tuệ, trí thông minh
+ @brainracking
+* tt
+- dở hơi; tàng tàng
+ @brains trust  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) các chuyên gia cố vấn cho chính phủ
+- bộ óc, bộ tham mưu
+- nhóm người chuyên trả lời trên đài (trả lời câu hỏi của người nghe)
+
+@brain-sick  
+*  tt
+- điên, dở người
+
+@brain-storm  
+*  dt
+- sự xúc động
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) ý kiến hay bất chợt
+
+@brainstorm
+* dt
+- sự náo động tâm tư bất thần dữ dội; sự xúc động mãnh liệt
+- khoảnh khắc quẫn trí; khoảnh khắc rối trí
+
++  I must have had a brainstorm - I couldn't remember my own phone number for a moment:Chắc là tôi bị lú - trong phút chốc, tôi chẳng nhớ nổi số điện thoại của chính mình nữa
+- (từ Mỹ,nghĩa Mỹ) như brainwave
+* ndgt
+- vận dụng trí não để tìm hiểu hoặc giải quyết một vấn đề; động não
+ @brainstormer
+- xem brainstorm
+ @brainstorming
+- (Tech) động não, thảo luận góp ý
+ @brain-teaser
+* dt
+- vấn đề quá phức tạp (khiến phải suy nghĩ nát óc)
+ @brain-tunic  
+*  dt
+- vỏ não
+
+@brainwash
+* ngdgt
+- tẩy não
+ @brain-washing  
+*  dt
+- sự tẩy não (theo quan điểm tư sản)
+
+@brainwashing
+* dt
+- sự tẩy não (theo quan điểm tư sản)
+ @brain-wave  
+*  dt
+- (thông tục) nguồn cảm hứng thình lình; ý kiến hay bất chợt
+
+@brainwave
+* dt
+- (thông tục) nguồn cảm hứng thình lình; ý kiến hay bất chợt
+ @brain-work  
+*  dt
+- công việc trí óc
+
+@brainwork
+* dt
+- công việc trí óc; lao động trí óc
+ @brainworker
+* dt
+- người làm việc bằng trí óc nhiều hơn là bằng chân tay; người lao động trí óc
+ @brainy  
+*  tt
+- thông minh; có đầu óc
+
+@braird  
+*  dt
+- mầm non (cỏ, lúa)
+*  ndgt
+- đâm mầm non (cỏ, lúa)
+
+@braise  
+*  dt
+- thịt om
+*  ngdgt
+- om (thịt...)
+
+@brake  
+*  dt
+- bụi cây
+- (như) bracken
+*  dt ((cũng) break)
+- xe vực ngựa (tập cho ngựa kéo xe)
+- xe ngựa không mui
+*  dt
+- máy đập (lanh, gai dầu)
+- cái bừa to ((cũng) brake-harrow)
+*  ngdgt
+- đập (lanh, gai dầu)
+*  dt
+- cái hãm, cái phanh
+
++ to put on the brake: hãm phanh
+- (ngành đường sắt) toa phanh ((cũng) brake-van)
+*  dgt
+- hãm lại, phanh lại; hãm phanh
+
+@brake
+- (Tech) hãm, thắng, phanh
+ @brake fluid
+* dt
+- dầu phanh
+ @brake light
+* dt
+- đèn ở đuôi xe sáng lên khi đạp phanh, đèn stop
+ @brake-harrow  
+*  dt
+- cái bừa to ((cũng) brake)
+
+@brake-horsepower
+* dt
+- mã lực hãm
+ @brakeman   (brakesman) @brake-shoe
+* dt
+- guốc hãm phanh, má phanh
+ @brakesman   (brakesman) @brake-van  
+*  dt
+- (ngành đường sắt) toa phanh ((cũng) brake)
+
+@bramble  
+*  dt
+- bụi gai
+- bụi cây mâm xôi
+- quả mâm xôi ((cũng) bramble berry)
+
+@brambling  
+*  dt
+- (động vật học) chim xẻ núi
+
+@brambly  
+*  tt
+- nhiều bụi gai
+
+@bran  
+*  dt
+- cám
+
+@brancard  
+*  dt
+- xe băng ca, xe cáng tải thương
+
+@branch  
+*  dt
+- cành cây
+- nhánh (sông); ngả (đường)...
+
++ a branch of a river: một nhánh sông
+- chi (của một dòng họ...); chi nhánh (ngân hàng...); ngành (sản xuất; mậu dịch...)
+!root and branch
+- (xem) root
+*  ndgt
+- ((thường) : out,  forth) đâm cành, đâm nhánh
+- phân cành, chia ngã
+
++ the road branches here: ở chỗ này đường chia ra nhiều ngã
+!to branch off (away)
+- tách ra, phân nhánh
+!to branch out
+- bỏ nhiều vốn ra kinh doanh; mở rộng các chi nhánh
+
+@branch
+- (Tech) nhánh (rẽ), cành; ngành; đại lý; rẽ nhánh (đ)
+ @branch
+- nhánh, cành
+- b. of a curve nhánh của một đường cong
+- b. es of knownledge các ngành tri thức, các ngành khoa học
+- analytic b. nhánh giải tích 
+- linear b. nhánh tuyến tính
+- positive b. nhánh dương
+- principal b. nhánh chính 
+ @Branch banking
+- (Econ) Nhiệp vụ ngân hàng chi nhánh
+: Việc cung cấp các dịch vụ ngân hàng thông qua mạng lưới ngân hàng chi nhánh sở hữu bởi một công ty ngân hàng.
+ @branch-and-bound algorithm
+- (Tech) giải thuật phân nhánh và giới hạn
+ @branched
+* tt
+- phân cành; phân nhánh
+ @branched
+- được chia nhánh
+ @branchia   (branchiae) @branchiae   (branchiae) @branchial  
+*  tt
+- (thuộc) mang; như mang (cá)
+
+@branchiate  
+*  tt
+- có mang (cá)
+
+@branching
+- (Tech) rẽ nhánh
+ @branchiopod
+* dt
+- động vật chân mang
+* tt, như branchiopodan,  branchiopodous
+- có chân mang
+ @branchless  
+*  tt
+- không có cành
+- không có nhánh
+
+@branchlet
+* dt
+- cành nhỏ; nhánh nhỏ
+ @branchy  
+*  tt
+- nhiều cành
+- nhiều nhánh
+
+@brand  
+*  dt
+- nhãn (hàng hoá)
+- loại hàng
+- dấu sắt nung (đóng vào vai tội nhân); vết dấu sắt nung
+- vết nhơ, vết nhục
+- khúc củi đang cháy dở
+- (thơ ca) cây đuốc
+- (thơ ca) thanh gươm, thanh kiếm
+- bệnh gỉ (cây)
+!to much a brand from the burning
+- cứu ra khỏi tình trạng bị huỷ diệt
+*  ngdgt
+- đóng nhãn (hàng hoá)
+- đóng dấu bằng sắt nung (lên vai tội nhân); đốt bằng sắt nung
+- làm nhục, làm ô danh
+- khắc sâu (vào trí nhớ)
+- gọi (ai) là, quy (ai) là
+
++ he was branded as a war criminal: hắn bị quy là tội phạm chiến tranh
+
+@Brand loyalty
+- (Econ) Sự trung thành với nhãn hiệu
+: Sự trung thành về tâm lý đối với sự kết hợp biểu tượng của một sản phẩm có nhãn hiệu.
+ @brander
+- xem brand
+ @brandied
+* tt
+- giữ được hương vị của rượu brandi
+ @brandish  
+*  ngdgt
+- khua, vung gươm...)
+
+@brandisher
+- xem brandish
+ @brand-new   (bran-new) @brandy  
+*  dt
+- rượu branđi, rượu mạnh
+!brandy blossomed nose
+- mũi sùi đỏ (vì uống nhiều rượu)
+
+@brandy-snap
+- thành ngữ brandy
+- brandy-snap
+- bánh gừng nướng nhồi kem
+- thành ngữ brandy
+
++  brandy-snap:bánh gừng nướng nhồi kem
+ @brank-ursine  
+*  dt
+- (thực vật học) cây ô rô
+
+@bran-new   (bran-new) @branny
+- xem bran
+ @brant   (brent-goose) @brant-goose   (brent-goose) @bran-tub
+* dt
+- thùng đựng cám xen lẫn với quà biếu
+ @brash  
+*  dt
+- đống gạch đá vụn; đống mảnh vỡ
+- đống cành cây xén (hàng rào)
+*  tt
+- dễ vỡ, dễ gãy, giòn
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) hỗn láo, hỗn xược
+
+@brashly
+* dt
+- xấc xược, xấc láo
+ @brashness
+* dt
+- sự xấc xược, sự xấc láo
+ @brass  
+*  dt
+- đồng thau
+- đồ vật làm bằng đồng thau; bia đồng khắc ở mộ
+- (the brass) (âm nhạc) kèn đồng
+- (từ lóng) sự vô liêm sỉ, sự trơ tráo; sự hỗn xược
+- (từ lóng) tiền bạc
+- (kỹ thuật) cái lót trục, ống lót
+*  tt
+- bằng đồng thau
+!I don't care a brass farthing
+- (xem) care
+!to come (get) down to [the] brass tacks (nails)
+- (từ lóng) đi sâu vào bản chất của vấn đề
+- đi vào vấn đề cụ thể
+*  dgt
+- (từ lóng) thanh toán, trả hết
+
+@brass band
+* dt
+- ban nhạc chuyên dùng nhạc khí bằng đồng và bộ gõ
+ @brass hat  
+*  dt
+- (quân sự),  (từ lóng) sĩ quan cấp cao
+
+@brass plate  
+*  dt
+- biển đồng (ở cửa cơ quan, hãng buôn...)
+
+@brass rags  
+*  dt
+- (hàng hải),  (từ lóng) giẻ lau (của thuỷ thủ)
+!to part brass_rags with somebody
+- (xem) part
+
+@brass wire
+- (Tech) dây đồng thau
+ @brassage  
+*  dt
+- thuế đúc tiền
+
+@brassard  
+*  dt
+- băng tay
+
+@brasserie  
+*  dt
+- phòng uống bia (ở khách sạn); quán bia ngoài trời
+
+@brassica
+* dt
+- thực vật thuộc họ cải bắp
+ @brassie  
+*  tt
+- giống đồng thau; làm bằng đồng thau
+- lanh lảnh (giọng nói)
+- (từ lóng) vô liêm sỉ, trơ tráo; hỗn xược
+*  dt: (brassie) 
+@brassily
+* dt
+- <thực> cây vang
+ @brassiness
+- xem brassy
+ @brassière  
+*  dt
+- cái nịt vú, cái yếm
+
+@brass-rubbing
+* dt
+- sự đặt một mảnh giấy lên tấm bia đồng và xoa sáp (hoặc phấn) lên mặt giấy để mô phỏng tấm bia, Sự rập khuôn
+ @brass-works  
+*  dt
+- xưởng đúc đồ đồng
+
+@brassy  
+*  tt
+- giống đồng thau; làm bằng đồng thau
+- lanh lảnh (giọng nói)
+- (từ lóng) vô liêm sỉ, trơ tráo; hỗn xược
+*  dt: (brassie) 
+@brat  
+*  dt
+- (thường), giuồm ghiện ỗn['brætis]
+*  dt
+- (ngành mỏ) vách điều hoà gió
+
+@brattice  
+*  dt
+- (ngành mỏ) vách điều hoà gió
+
+@brattish
+- xem brat
+ @brattishness
+- xem brat
+ @bratwurst
+* dt
+- món xúc xích lợn để rán
+ @braun tube
+- (Tech) ống tia điện tử
+ @bravado  
+*  dt,  số nhiều bravados 
+@brave  
+*  dt
+- chiến sĩ da đỏ
+*  tt
+- gan dạ, can đảm, dũng cảm
+- (từ cổ,nghĩa cổ),  (văn học) đẹp lộng lẫy, sang trọng; hào hoa phong nhã
+*  ngdgt
+- bất chấp, không sợ, xem khinh; đương đầu với
+!to brave it out
+- bất chấp dị nghị, cóc cần
+
+@bravely
+* dt
+- dũng cảm, gan góc
+ @braveness
+- xem brave
+ @bravery  
+*  dt
+- tính gan dạ, tính can đảm, sự dũng cảm
+- sự lộng lẫy, sự ăn mặc sang trọng; vẻ hào hoa phong nhã
+
+@bravo  
+*  dt,  số nhiều bravos 
+@bravura
+* dt
+- <nhạc> sự biểu diễn xuất sắc
+ @brawl  
+*  dt
+- sự cãi lộn ầm ỹ
+- tiếng róc rách (suối)
+*  ndgt
+- cãi nhau ầm ỹ
+- kêu róc rách (suối)
+
+@brawler  
+*  dt
+- người hay cãi nhau
+
+@brawlingly
+- xem brawl
+ @brawn  
+*  dt
+- bắp thịt; sức mạnh của bắp thịt
+- thịt lợn ướp
+
+@brawnily
+- xem brawny
+ @brawniness  
+*  dt
+- sự khoẻ mạnh, sự rắn chắc, sự nở nang
+
+@brawny  
+*  tt
+- khoẻ mạnh, rắn chắc, nở nang
+
+@bray  
+*  dt
+- tiếng be be (lừa kêu)
+- tiếng inh tai
+*  ndgt
+- kêu be be (lừa)
+- kêu inh tai (kèn)
+!to bray out
+- nói giọng the thé
+*  dgt
+- giã, tán (bằng chày cối)
+
+@braze
+- (Tech) hàn gia nhiệt, hàn vẩy
+ @brazen  
+*  tt: (brazen-faced) 
+@brazen age  
+*  dt
+- thời kỳ trung niên
+
+@brazen-faced  
+*  tt: (brazen-faced) 
+@brazenly
+* dt
+- trơ trẽn, trâng tráo
+ @brazenness
+- xem brazen
+ @brazier  
+*  dt
+- lò than
+*  dt
+- người làm đồ đồng thau
+
+@brazil-wood  
+*  dt
+- (thực vật học) cây vang
+
+@breach  
+*  dt
+- lỗ đạn, lỗ thủng (ở tường, thành luỹ...)
+- mối bất hoà; sự tuyệt giao, sự chia lìa, sự tan vỡ
+- sự vi phạm, sự phạm
+
++ a breach of discipline: sự phạm kỷ luật
+
++ a breach of promise: sự không giữ lời hứa
+- cái nhảy ra khỏi mặt nước (của cá voi)
+- (hàng hải) sóng to tràn lên tàu
+
++ clear breach: sóng tràn nhẹ lên boong
+
++ clean breach: song tràn cuốn cả cột buồm và mọi thứ trên boong
+!breach of close
+- sự đi vào một nơi nào trài phép
+!breacg of the peace
+- (xem) peace
+!to stand in (throw oneself into) the breach
+- sẵn sàng chiến đáu
+- sẵn sàng gánh nhiệm vụ nặng nề nhất, đứng mũi chịu sào
+
+@breach of promise
+- (luật, cũ) sự bội hôn
+ @breach of the peace
+- (luật) phá rối trật tự công cộng
+ @bread  
+*  ngdgt
+- làm thủng
+- (quân sự) chọc thủng, phá vỡ (tuyến phòng thủ)
+*  ndgt
+- nhảy lên khỏi mặt nước (cá voi)
+*  dt
+- bánh mì
+
++ a loaf of bread: ổ bánh mì
+- (nghĩa bóng) miếng ăn, kế sinh nhai
+
++ daily bread: miếng ăn hàng ngày
+!bread and butter
+- bánh mì phết bơ
+- miếng ăn; kế sinh nhai
+!bread and cheese
+- miếng ăn; kế sinh nhai
+- cuộc sống thanh đạm
+!bread buttered on both sides
+- sự phong lưu, sự sung túc
+!to earn (make) one's bread
+- kiếm ăn, kiếm sống
+!to eat the bread of affiction
+- phiền não, sầu khổ, đau buồn
+!to eat the bread of idleness
+- nhàn rỗi, vô công rỗi nghề
+!to have one's bread buttered for life
+- suốt đời sống dư dật sung túc
+!to know which side one's bread is buttered
+- (xem) butter
+!to live on bread and chesse
+- sống đạm bạc
+!to quarrel with one's bread and butter
+- (xem) quarel
+!to take the bread out of someone's mouth
+- lấy mất kế sinh nhai của ai, cướp cơm chim của ai
+
+@bread and butter
+* dt
+- khoanh bánh mì phết bơ
+- kế kiếm sống
+* tt
+- thiết yếu cho đời sống
+- gửi để cảm tạ lòng hiếu khách của chủ nhà
+ @bread board
+- (Tech) bảng thử (mạch điện), mạch điện thí nghiệm
+ @bread-and-butter  
+*  tt
+- ít tuổi, còn trẻ, trẻ tuổi, niên thiếu
+
++ bread-and-butter miss: cô bé học sinh
+- hằng ngày, thường ngày, bình thường
+!bread-and-butter letter
+- thư cảm ơn chủ nhà về sự đón tiếp niềm nở, cho ăn uống hậu hỉ
+
+@bread-basket  
+*  dt
+- giỏ đựng bánh mì
+- (từ lóng) dạ dày
+
+@breadbin
+* dt
+- thùng đựng bánh mì
+ @bread-board
+* dt
+- thớt dùng để xắt bánh mì
+ @bread-crumb  
+*  dt
+- ruột bánh mì
+- mẩu bánh mì, bánh mì vụn
+
+@breaded
+* tt
+- (thịt và cá) có rắc bánh mì vụn vào
+ @bread-fruit
+* dt
+- một loại quả dầy cơm
+ @breadfruit
+* dt
+- cây mít bột, cây sa kê
+ @bread-line  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) hàng người thất nghiệp, chờ lĩnh chẩn
+
+@bread-stuffs  
+*  (bất qui tắc) dt số nhiều
+- hạt
+- bột (để làm bánh mì)
+
+@breadstuffs
+* dt
+- bột làm bánh mì
+ @breadth  
+*  dt
+- bề ngang, bề rộng
+- khổ (vải)
+- sự rông rãi, sự phóng khoáng (quan điểm, tư tưởng...)
+
++ of view: quan điểm rộng rãi
+!to a hair's breadth
+- đúng, chính xác
+
+@breadth
+- chiều rộng
+ @breadthways   (breadthwise) @breadthwise   (breadthwise) @bread-winer  
+*  dt
+- người trụ cột (kiếm ăn nuôi cả) gia đình; lao động chính
+- cần câu cơm
+
+@bread-winner
+* dt
+- người trụ cột nuôi cả gia đình; lao động chính
+- cần câu cơm <bóng>
+ @break  
+*  dt ((cũng) brake)
+- xe vực ngựa (tập cho ngựa kéo xe)
+- xe ngựa không mui
+*  dt
+- sự gãy, sự kéo, sự đứt, sự ngắt
+- chỗ vỡ, chỗ nứt, chỗ rạn
+- sự nghỉ, sự dừng lại, sự gián đoạn
+
++ without a break: không ngừng
+-(ngôn ngữ nhà trường) giờ nghỉ, giờ ra chơi, giờ giải lao
+- sự cắt đứt (quan hệ), sự tuyệt giao
+
++ to make a break with somebody: cắt đứt quan hệ với ai
+- sự lỡ lời; sự lầm lỗi
+- sự vỡ nợ, sự bị phá sản
+- sự thay đổi (thòi tiết)
+- (từ Mỹ,nghĩa Mỹ) sự thụt giá thình lình
+- (thông tục) dịp may, cơ hội
+
++ to get the breaks: gặp cơ hội thuận lợi, gặp may
+- (âm nhạc) sự đổi giọng; sự chuyển âm vực
+- mục xen (vào chương trình đang phát) (rađiô, truyền hình)
+!break in the clouds
+- tia hy vọng
+!break of day
+- bình minh, rạng đông
+*  (bất qui tắc) ngdgt broke; broken,  (từ cổ,nghĩa cổ) broke
+- làm gãy, bẻ gãy, làm đứt, làm vỡ, đập vỡ
+
++ to break one's arm: bị gãy tay
+
++ to break a cup: đập vỡ cái tách
+
++ to break clods: đập nhỏ những cục đất
+
++ to break ground: vỡ đất; bắt đầu một công việc, khởi công; bắt đầu bao vây
+- cắt, ngắt, làm gián đoạn, ngừng phá
+
++ to break a journey: ngừng cuộc hành trình
+
++ to the silence: phá tan sự yên lặng
+
++ to break the spell: giải mê, giải bùa
+
++ to break a sleep: làm mất giấc ngủ
+
++ to break the telephone communications: làm gián đoạn sự liên lạc bằng điện thoại
+
++ to break a records: phá kỷ lục
+- xua tan, làm tan tác
+
++ to break the ranks: phá bỏ hàng ngũ
+
++ to break the clouds: xua tan những đám mây
+
++ to bulk: bắt đầu giở hàng (trên tàu thuỷ)
+- phạm, phạm vi, xâm phạm
+
++ to break the law: phạm luật
+
++ to break one's promise (word); to break faith with someone: bội ước, không giữ lời hứa với ai
+
++ to the peace: làm rối trật tự chung
+- truyền đạt, báo (tin)
+
++ to break one's mind to...: truyền đạt ý kiến của mình cho...
+
++ to break news: báo tin
+- làm suy sụp, làm nhụt (ý chí...), làm mất hết
+
++ to break someone's health: làm ai mất sức, làm ai suy nhược
+
++ to break someone's courage: làm ai mất hết can đảm
+
++ to break someone's will: làm nhụt ý chí của ai
+
++ to break someone's heart: làm ai đau lòng
+
++ to break bank: ăn hết tiền của nhà cái
+
++ to break an officer: (quân sự) tước quân hàm (lột lon) một sĩ quan
+- ngăn đỡ, làm yếu đi, làm nhẹ đi
+
++ to break a current: ngăn dòng nước
+
++ to break [the force of] a blow: đỡ một miếng đòn
+
++ to break a fall: đỡ cho khỏi bị ngã
+- làm cho thuần thục; tập luyện
+
++ to break a hoser: tập ngựa
+- đập tan; đàn áp, trấn áp
+
++ to break a rebellion: đàn ạp một cuộc nổi loạn
+- sửa chữa
+
++ to break someone of a hanit: sửa chữa cho ai một thói quen
+- mở, mở tung ra, cạy tung ra
+
++ to a letter open: xé lá thư
+
++ to break a way: mở đường
+
++ to break gaol: vượt ngục
+*  ndgt
+- gãy, đứt, vỡ
+
++ the branch broke: cành cây gãy
+
++ the abscerss breaks: nhọt vỡ
+- chạy tán loạn, tan tác
+
++ enemy troops break: quân địch bỏ chạy tán loạn
+- ló ra, hé ra, hiện ra
+
++ day broke: trời bắt đầu hé sáng
+- thoát khỏi; sổ ra; ((thể dục,thể thao)) buông ra (quyền Anh)
+
++ to break from someone's bonds: thoát khỏi sự ràng buộc của ai
+
++ to break free (loose): trốn (chạy) thoát; sổ ra, sổ lồng
+- suy nhược, yếu đi; suy sụp, sa sút, phá sản
+
++ his health is breaking: sức khoẻ của anh ta sút đi
+
++ his heart breaks: anh ta đau lòng đứt ruột
+
++ a merchant breaks: một nhà buôn bị phá sản
+- thay đổi
+
++ the weather begins to break: thời tiết bắt đầu thay đổi
+- vỡ tiếng, nức nở, nghẹn ngào (tiếng nói)
+
++ his voice breaks: hắn ta vỡ tiếng; giọng nói của anh ta nghẹn ngào (vì xúc động)
+- đột nhiên làm; phá lên
+
++ to break into tears: khóc oà lên
+
++ to break into a gallop: đột nhiên chồm lên phi nước đại (ngựa)
+- cắt đứt quan hệ, tuyệt giao
+
++ to break with somebody: cắt đứt quan hệ với ai
+- phá mà vào, phá mà ra, xông vào nhà; phá cửa vào nhà, bẻ khoá vào nhà
+
++ to break out of prison: phá ngục mà ra; vượt ngục
+
++ to through obstacles: vượt qua mọi trở ngại
+
++ to break through the enemy's line: chọc thủng phòng tuyến của địch
+!to break away
+- trốn thoát, thoát khỏi
+- bẻ gãy, rời ra
+!to break down
+- đập vỡ, đạp tan, đạp đổ, xô đổ; sụp đổ, đổ vỡ tan tành
+
++ to break down a wall: đạp đổ bức tường
+
++ to break down the enemy's resistance: đập tan sự kháng cự của quân địch
+- suy nhược, kiệt sức; làm sa sút, làm suy nhược (sức khoẻ, tinh thần...)
+- vỡ nợ, phá sản, thất cơ lỡ vận
+- bị pan, bị hỏng (xe cộ)
+- phân ra từng món (chi tiêu...); (hoá) phân nhỏ, phân tích
+!to break forth
+- vỡ ra, nổ ra; vọt ra, bắn ra, tuôn ra
+!to break in
+- xông vào, phá mà vào (nhà...)
+- ngắt (lời); chặn (lời); cắt ngang (câu chuyện)
+- can thiệp vào
+- tập luyện (ngựa...); cho vào khuôn phép, dạy dỗ (trẻ con...)
+!to break off
+- rời ra, lìa ra, long ra, bị gãy rời ra
+- ngừng sững lại, đột nhiên ngừng lại, thôi
+- cắt đứt quan hệ, tuyệt giao
+
++ to break off with someone: cắt đứt quan hệ với ai, tuyệt giao với ai
+!to break out
+- bẻ ra, bẻ tung ra
+- nổ bùng, nổ ra
+
++ to war broke out: chiến tranh bùng nổ
+- nổi mụn, sùi đỏ lên (mặt)
+- trốn thoát, thoát khỏi, vượt (ngục...)
+- kêu to, phá lên (cười...)
+
++ to break out laughing: cười phá lên
+- (hàng hải) mở và bốc dỡ (kho hàng...)
+- kéo lên và mở tung ra (cờ)
+!to break up
+- chạy toán loạn, tan tác, tản ra; giải tán (hội nghị, đám đông, mây...)
+- chia lìa, chia ly, lìa nhau
+- nghỉ hè (trường học)
+- sụt lở; làm sụt lở (đường sá)
+- thay đổi (thời tiết)
+- suy yếu đi (người)
+- đập vụn, đập nát
+!to break bread with
+- ăn ở (nhà ai) được (ai) mời ăn
+!to break even
+- (xem) even
+!to break the ice
+- (xem) ice
+!to break a lance with someone
+- (xem) lance
+!to break the neck of
+- (xem) beck
+!to break Priscian's head
+- nói (viết) sai ngữ pháp
+!to break on the wheel
+- (xem) wheel
+
+@break
+- (Tech) cắt, ngắt, mở (d); công tắc; khe tối thiểu; mở mạch thình lình; cắt, ngắt, mở (đ)
+ @break
+- làm vỡ, đứt, dời ra
+- b. off ngắt 
+ @break contact
+- (Tech) tiếp điểm cắt, công tắc nghỉ
+ @breakable  
+*  tt
+- dễ vỡ, dễ gãy; có thể bẻ gãy, có thể đập vỡ
+
+@breakableness
+- xem breakable
+ @breakables  
+*  (bất qui tắc) dt số nhiều
+- đồ dễ vỡ (bát, đĩa...)
+
+@breakage  
+*  dt
+- chỗ nứt, đoạn nứt, đoạn vỡ
+- đồ vật bị vỡ
+- tiền bồi thường hàng bị vỡ
+- (nghành dệt) sự đứt sợi
+
+@breakaway
+* dt
+- <chtrị> sự ly khai
+ @break-dancing
+* dt
+- kiểu khiêu vũ cuồng nhiệt của người Mỹ da đen
+ @breakdown  
+*  dt
+- sự hỏng máy (ô tô, xe lửa)
+- sự sút sức, sự suy nhược
+
++ nervous breakdown: sự suy nhược thần kinh
+- sự tan vỡ, sự suy sụp, sự thất bại
+
++ the breakdown of the Roman Empire: sự tan vỡ của đế quốc La õi qoòng (điện học) sự đánh thủng
+
++ dielectric breakdown: sự đánh thủng điện môi
+- (quân sự) sự chọc thủng (trận tuyến)
+- sự phân ra, sự chia ra từng món (thi tiêu...)
+- (hoá học) sự phân nhỏ, sự phân tích
+- điệu múa bricđao (của người da đen)
+
+@breakdown
+- (Tech) đánh xuyên thủng (đ)
+@breaker  
+*  dt
+- người bẻ gãy, người đập vỡ
+- người vi phạm (luật pháp...)
+- người tập, người dạy (ngựa...)
+- sóng lớn vỗ bờ
+- (kỹ thuật) máy đập, máy nghiền, máy tán
+- (điện học) cái ngắt điện, cái công tắc
+- tàu phá băng
+*  dt
+- (hàng hải) thùng gỗ nhỏ
+
+@breaker
+- (Tech) cái cắt mạch, cầu dao, cái ngắt điện
+ @breakeven
+* tt
+- cân bằng giữa số tiền bỏ ra và số tiền thu vào; không lời không lỗ; hoà vốn
+
++  Breakeven point:Điểm hoà vốn
+
++  Breakeven price:Giá bán hoà vốn
+ @Break-even analysis
+- (Econ) Phân tích điểm hoà vốn
+: Chi phí để sản xuất một hàng hoá có thể chia thành hai phần chính: CHI PHÍ CỐ ĐỊNH và CHI PHÍ KHẢ BIẾN. từ quan điểm của người kế toán về chi phí, số lượng doanh thu tại điểm hoà vốn là số lượng đảm bảo rằng tất cả chi phí cố định và khả biến đều được trang trải ở mức giá bán cụ thể.
+ @Break-even level of income
+- (Econ) Mức hoà vốn của thu nhập
+: Một điểm tại đó chi tiêu cho tiêu dùng đúng bằng thu nhập như được minh hoạ tại điểm mà HÀM TIÊU DÙNG cắt đường 45 độ trong MÔ HÌNH THU NHẬP CHI TIÊU. (Xem CONSUMPTION FUNCTION)
+ @breakfall
+* dt
+- cái ngã sấp có thể nguy hiểm
+ @breakfast  
+*  dt
+- bữa ăn sáng, bữa điểm tâm
+*  dgt
+- ăn sáng, điểm tâm
+- mời (ai) ăn điểm tâm
+
+@breakfaster
+- xem breakfast
+ @breakfront
+* dt
+- một đồ gỗ có bộ phận giữa lồi ra
+ @break-in
+* dt
+- cuộc tấn công vào ngân hàng
+ @breaking
+- (Tech) cắt, ngắt (d)
+ @breaking
+- sự vỡ, sự đứt, sự rời ra
+- b. of waves sựvỡ sóng 
+ @breaking device
+- (Tech) thiết bị ngắt
+ @breakkable
+- [vỡ, đứt, rời] ra được
+ @breakneck  
+*  tt
+- nguy hiểm, dễ gây ra tai nạn
+
++ at a breakneck pace (speed): đi (chạy) với tốc độ quá nhanh (dễ gây tai nạn)
+
+@break-out
+* dt
+- cuộc vượt ngục có dùng cả bạo lực
+ @breakover point
+- (Tech) điểm vượt qua
+ @breakpoint
+- (Tech) điểm cắt, điểm dừng, điểm gián đoạn
+ @break-through  
+*  dt
+- (quân sự) sự chọc thủng (trận tuyến)
+
+@breakthrough
+* dt
+- (quân sự) sự chọc thủng phòng tuyến
+ @break-up  
+*  dt
+- sự tan ra (băng...), sự nứt vỡ
+- sự tan rã, sự suy sụp
+- sự giải tán (đám đông)
+- sự đóng cửa trường (nghỉ hè)
+
+@breakup
+- (Tech) vỡ (d)
+ @breakwater  
+*  dt
+- đê chắn sóng (ở hải cảng)
+
+@bream  
+*  dt
+- cá vền
+- cá tráp
+*  ngdgt
+- (hàng hải) lau, dọn, rửa (hầm tàu)
+
+@breast  
+*  dt
+- ngực
+- vú
+- (nghĩa bóng) lòng, tâm trạng, tình cảm
+
++ to have a troubled breast: (có tâm trạng) lo âu
+- (nghĩa bóng) nguồn nuôi sống
+- cái diệp (ở cái cày)
+- (ngành mỏ) gương lò
+!child at the breast
+- trẻ còn ẵm ngửa
+!to make a cleans breast of
+- thú nhận, thú lỗi, nhận tội; khai hết những việc đã làm
+*  ngdgt
+- lấy ngực để chống đỡ (cái gì); chống lại
+
+@breast-beating
+* dt
+- sự chống đối một cách ầm ĩ
+ @breastbone  
+*  dt
+- (giải phẫu) xương ức
+
+@breast-feed
+* dgt
+- nuôi bằng sữa mẹ
+ @breast-high  
+*  tt
+- cao đến ngực, đến tận ngực
+- ngập đến ngực
+
+@breast-pin  
+*  dt
+- kim gài ca vát
+
+@breastplate  
+*  dt
+- giáp che ngực
+- yếm (rùa...)
+- bản khắc ở quan tài
+
+@breast-pocket  
+*  dt
+- túi ngực (ở áo)
+
+@breast-stroke  
+*  dt
+- (thể dục,thể thao) kiểu bơi ếch
+
+@breastwork  
+*  dt
+- (quân sự) công sự nổi
+
+@breath  
+*  dt
+- hơi thở, hơi
+
++ to take a deep breath: hít một hơi dài
+
++ to hold (coatch) one's breath: nín hơi, nín thở
+
++ to lose one's breath: hết hơi
+
++ to recover one's breath: lấy lại hơi
+
++ to take breath: nghỉ lấy hơi
+
++ out of breath: hết hơi, đứt hơi
+
++ all in a breath; all in the same breath: một hơi, một mạch
+- cơn gió nhẹ; làn hương thoảng
+
++ there wasn't a breath of air: chẳng có tí gió nào
+- tiếng thì thào
+!breath of life (nostrils)
+- điều cần thiết, điều bắt buộc
+!to keep one's breath to cool one's porridge
+- (xem) porridge
+!to speak under one's breath
+- nói khẽ, nói thì thầm, nói thì thào
+!to take one's breath away
+- làm ngạc nhiên, làm kinh ngạc
+!to waste one's breath
+- hoài hơi, phí lời
+
+@breath test
+* dt
+- sự kiểm tra hơi thở của tài xế để biết anh ta uống rượu nhiều đến mức nào
+ @breathable
+- xem breathe
+ @breathalyse
+* dgt
+- kiểm tra về lượng rượu đã uống
+ @breathalyser
+* dt
+- dụng cụ kiểm tra lượng rượu trong hơi thở
+ @breathe  
+*  ngdgt
+- hít, thở
+- thốt ra, nói lộ ra
+
++ don't breathe a word of this: đừng nói lộ ra một lời nào về việc này
+- thở ra
+
++ to breathe a sigh: thở dài
+
++ to breathe one's last [breath]: trút hơi thở cuối cùng, chết
+- truyền thổi vào
+
++ to breathe new life into: truyền sức sống mới cho
+- biểu lộ, toát ra, tỏ ra
+
++ to breathe innocence: tỏ ra ngây thơ
+
++ to breathe simplicity: biểu lộ sự giản dị
+- để cho thở, để cho lấy hơi
+
++ to breathe a horse: để cho ngựa nghỉ lấy hơi
+- làm (ai) hết hơi, làm (ai) mệt đứt hơi
+*  ndgt
+- thở, hô hấp
+
++ to breathe in: thở vào, hít vào
+
++ to breathe out: thở ra
+
++ to breathe hard: thở hổn hển, thở gấp
+
++ to breathe again: lại thở được; hoàn hồn, hết sợ
+- sống, hình như còn sống
+- thổi nhẹ (gió)
+- nói nhỏ, nói thì thào
+- nói lên
+!to breath upon
+- làm mờ, làm lu mờ (tiếng tăm...)
+
+@breather  
+*  dt
+- sinh vật, người sống
+- bài tập thở
+- lúc nghỉ xả hơi
+- (kỹ thuật) ống thông hơi, ống thông gió
+- (y học) bình thở, máy thở
+
+@breathily
+- xem breathy
+ @breathiness
+- xem breathy
+ @breathing  
+*  dt
+- sự thở, sự hô hấp
+- hơi thở
+- hơi gió thoảng
+- (ngôn ngữ học) cách phát âm bật hơi
+*  tt
+- trông như sống, sinh động
+
++ a breathing statue: bức tượng trông như sống
+
+@breathing-space  
+*  dt
+- lúc nghỉ xả hơi
+
+@breathless  
+*  tt
+- hết hơi, hổn hển, không kịp thở
+
++ to be in a breathless hurry: vội không kịp thở
+- nín thở
+
++ with breathless attention: chú ý đến nín thở
+- chết, tắt thở (người)
+- lặng gió
+
+@breathlessly  
+*  dt
+- hết hơi, hổn hển, không kịp thở
+- nín thở
+
+@breathlessness
+- xem breathless
+ @breathtaking
+* tt
+- hấp dẫn, ngoạn mục
+ @breathtakingly
+* dt
+- ngoạn mục, hấp dẫn
+ @breathy
+* tt
+- nghe rõ cả tiếng thở
+ @brecciate
+* ngdgt
+- làm vỡ đá ra mảnh vụn
+ @brecciation
+* dt
+- việc làm vỡ đá ra mảnh vụn
+ @bred  
+*  dt
+- nòi, giống
+- dòng dõi
+*  (bất qui tắc) ngdgt bred 
+@bree
+* dt
+- (từ Xcôtlân) nước luộc thịt
+ @breech  
+*  dt
+- khoá nòng (súng)
+
+@breech birth
+* dt
+- sự đẻ ngược (chân hoặc mông đứa bé ra trước, chứ không phải đầu)
+ @breech-block
+* dt
+- tấm thép đóng khoá nòng súng
+ @breeches  
+*  (bất qui tắc) dt số nhiều
+- quần ống túm (túm lại ở dưới đầu gối)
+- (thực vật học) quần
+!breeches part
+- vai đàn ông do đàn bà đóng
+!to wear the breeches
+- bắt nạt chồng
+
+@breeches-buoy
+* dt
+- phao cấp cứu, phao cứu sinh
+ @breech-loader  
+*  dt
+- súng nạp ở khoá nòng
+
+@breech-loading  
+*  tt
+- nạp ở khoá nòng (súng)
+
+@breech-sight
+* dt
+- (quân sự) mục tiêu
+ @breed  
+*  dt
+- nòi, giống
+- dòng dõi
+*  (bất qui tắc) ngdgt bred 
+@breed
+- sinh, sinh ra, sinh sôi
+ @breeder  
+*  dt
+- người gây giống, người chăn nuôi (súc vật)
+- (vật lý) lò phản ứng tái sinh ((cũng) breeder reactor)
+
+@breeder-reactor  
+*  dt
+- (vật lý) lò phản ứng tái sinh ((cũng) breeder-reactor breeder)
+
+@breeding  
+*  dt
+- sự sinh sản
+
++ spring is the season of breeding for birds: mùa xuân là mùa sinh sản của chim
+- sự gây giống, sự chăn nuôi
+- sự giáo dục, phép lịch sự
+
++ a man of fine breeding: một người lịch sự
+
+@breeding-ground
+* dt
+- nơi thú hoang đến sinh đẻ
+- mầm mống phát sinh
+ @breeze  
+*  dt
+- ruồi trâu
+*  dt
+- than cám
+*  dt
+- gió nhẹ
+- (địa lý,địa chất) gió brizơ
+- (từ lóng) sự cãi cọ
+- (từ lóng) sự nổi cáu
+!to fan the breezes
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) làm một việc mất công vô ích, làm một việc thừa
+!to get (have) the breeze up
+- (thông tục) phát cáu, nối cáu
+- sợ hãi
+*  ndgt
+- thổi nhẹ
+- (từ lóng) đi lướt qua, chạy lướt qua (như gió)
+!to breeze up
+- thổi mạnh thêm (gió)
+
+@breeze-block
+* dt
+- gạch làm bằng than xỉ, cát và xi măng
+ @breezeway
+* dt
+- lối đi có mái che giữa hai toà nhà
+ @breezily
+* dt
+- hiu hiu
+- hớn hở, phấn khởi
+ @breeziness  
+*  dt
+- tình trạng có gió hiu hiu
+- sự thoáng gió
+- sự vui vẻ, sự hồ hởi, sự phơi phới
+- tính hoạt bát, tính nhanh nhẩu
+
+@breezy  
+*  tt
+- có gió hiu hiu
+- mát, thoáng gió (chỗ)
+- vui vẻ, hồ hởi, phơi phới
+- hoạt bát, nhanh nhẩu
+
+@bregma
+* dt
+- số nhiều bregmata
+- thóp (trên đầu)
+ @bregmatic
+* tt
+- có thóp
+ @brekker  
+*  dt
+-(ngôn ngữ nhà trường),  (từ lóng) bữa ăn sáng, bữa điểm tâm
+
+@bremsstrahlung
+- (Tech) bức xạ hãm
+ @bren   (bren_gun) @bren carrier  
+*  dt
+- (quân sự) xe xích sắt đạn bắn không thủng
+
+@bren gun   (bren_gun) @brent   (brent-goose) @brent-goose   (brent-goose) @brethren  
+*  (bất qui tắc) dt số nhiều
+- anh em đồng ngũ; anh em đồng nghiệp; đồng bào
+- (tôn giáo) thầy dòng cùng môn phái
+
+@Bretton Woods
+- (Econ) Khu du lịch New Hampshire ở Mỹ, tại đây Hôi nghị tài chính của Liên hợp quốc đã được tổ chức vào năm 1944 để thảo luận vấn đề thanh toán quốc tế sau chiến tranh.
+ @Bretton Woods system
+- (Econ) Hệ thống Bretton Woods.
+: Xem INTERNATIONAL MONETARY FUND.
+ @breve
+* dt
+- <nhạc> dấu ngân
+ @brevet  
+*  dt
+- (quân sự) hàm (thăng cấp nhưng không tăng lương)
+
++ brevet rank: cấp hàm
+
++ brevet major: hàm thiếu tá (nhưng vẫn ăn lương đại uý)
+*  ngdgt
+- (quân sự) phong hàm (cho một sĩ quan mà không tăng lương)
+
+@brevetcy
+- xem brevet
+ @breviary  
+*  dt
+- (tôn giáo) sách kinh
+
+@brevier  
+*  dt
+- (ngành in) chữ cỡ 8
+
+@brevity  
+*  dt
+- tính khúc chiết; sự vắn tắt, sự ngắn gọn
+- sự ngắn ngủi (cuộc sống)
+
+@brevity
+- tính ngắn gọn
+ @brew  
+*  dt
+- sự chế, sự ủ (rượu bia); sự pha (trà)
+- mẻ rượu bia
+- chất lượng rượu ủ; chất lượng trà pha
+
++ a good strong brew: rượu đậm và ngon
+*  ngdgt
+- chế, ủ (rượu bia); pha (trà)
+
++ to brew beer: chế rượu bia
+
++ to brew tea: pha trà
+- (nghĩa bóng) chuẩn bị, bày, trù tính, trù liệu ((thường) việc xấu)
+
++ to brew mischief: bày mưu làm điều ác
+*  ndgt
+- chế rượu; pha trà
+- (nghĩa bóng) đang tụ tập, đang kéo đến
+
++ a storm is brewing: cơn dông đang kéo đến
+- đang được chuẩn bị, đang được trù tính
+
++ a plot is brewing: một cuộc âm mưu đang được chuẩn bị
+!to drink as one has brewed
+- mình làm, mình chịu
+
+@brewage  
+*  dt
+- đồ uống pha chế
+- sự pha chế ((nghĩa đen) & (nghĩa bóng))
+
+@brewer  
+*  dt
+- người ủ rượu bia
+
+@brewery   (brew-house) @brew-house   (brew-house) @brewing
+* dt
+- việc làm rượu bia
+- mẻ rượu bia
+- (hàng hải) sự tích tụ mây đen báo bão
+ @briar   (briar) @bribability  
+*  dt
+- tính có thể hối lộ, tính có thể mua chuộc
+
+@bribable  
+*  tt
+- có thể đút lót, có thể hối lộ, có thể mua chuộc
+
+@bribe  
+*  dt
+- của đút lót, vật đút lót, vật hối lộ
+
++ to take bribe: ăn hối lộ
+*  ngdgt
+- đút lót, hối lộ, mua chuộc
+
+@bribee  
+*  dt
+- kẻ ăn đút lót, kẻ ăn hối lộ, kẻ bị mua chuộc
+
+@briber  
+*  dt
+- kẻ đút lót, kẻ hối lộ, kẻ mua chuộc
+
+@bribery  
+*  dt
+- sự đút lót, sự hối lộ, sự mua chuộc
+- sự ăn hối lộ
+
+@bribetaker
+* dt
+- người nhận hối lộ
+ @brick  
+*  dt
+- gạch
+
++ to make (burn) bricks: nung gạch
+- bánh, thỏi, cục (xà phòng, chè...)
+- (từ lóng) người chính trực, người trung hậu
+- (từ lóng) người rộng lượng, người hào hiệp
+!to drop a brick
+- (từ lóng) hớ, phạm sai lầm
+!to have a brick in one's hat
+- (từ lóng) say rượu
+!like a hundred of bricks
+- (thông tục) với tất cả sức mạnh có thể đè bẹp được
+!to make bricks without straw
+- (xem) straw
+*  tt
+- bằng gạch
+
++ a brick wall: bức tường gạch
+*  ngdgt
+- (: up) xây gạch bít đi
+
++ to brick up a window: xây gạch bít cửa sổ
+
+@brick-bat  
+*  dt
+- cục gạch, gạch củ đậu (để ném nhau)
+
+@brick-field   (brickyard) @brickie
+* dt
+- (thông tục)
+- thợ nề
+ @brick-kiln  
+*  dt
+- lò nung gạch
+
+@bricklayer  
+*  dt
+- thợ nề
+
+@bricklaying  
+*  dt
+- sự xây gạch, sự lát gạch
+- công trình xây bằng gạch
+
+@brick-red  
+*  dt
+- màu gạch
+
+@brickwork  
+*  dt
+- sự xây bằng gạch
+- công trình xây bằng gạch
+
+@bricky  
+*  tt
+- ngổn ngang đầy gạch
+- giống gạch, màu gạch
+
+@brickyard   (brickyard) @bric-à-brac  
+*  dt
+- đồ cổ; đồ chơi mỹ thuật lạ và hiếm
+
+@bridal  
+*  dt
+- đám cưới, tiệc cưới; liên hoan đám cưới
+*  tt
+- (thuộc) cô dâu; (thuộc) đám cưới
+
++ bridal party: họ nhà gái (ở đám cưới)
+
++ the bridal chamber: phòng cô dâu chú rể
+
+@bridal night  
+*  dt
+- đêm tân hôn
+
+@bride  
+*  dt
+- cô dâu
+
+@bridecake  
+*  dt
+- bánh cưới
+
+@bridegroom  
+*  dt
+- chú rể
+
+@bridesmaid  
+*  dt
+- cô phù dâu
+
+@bridesman  
+*  dt
+- người phù rể
+
+@bridewell  
+*  dt
+- trại cải tạo, nhà tù
+
+@bridge  
+*  dt
+- (đánh bài) brit
+*  dt
+- cái cầu
+- sống (mũi)
+- cái ngựa đàn (viôlông,  ghita...)
+- (vật lý) cầu
+
++ resistancy bridge: cầu tần cao
+- (hàng hải) đài chỉ huy của thuyền trưởng
+!bridge of gold; golden bridge
+- đường rút lui mở ra cho kẻ địch thua trận
+!to burn one's bridge
+- (xem) burn
+*  ngdgt
+- xây cầu qua (sông...)
+- vắt ngang
+
++ the rainbow bridges the sky: cầu vồng bắt ngang bầu trời
+- vượt qua, khắc phục
+
++ to bridge over the difficulties: vượt qua những khó khăn
+!to bridge the gap
+- lấp cái hố ngăn cách; nối lại quan hệ
+
+@bridge
+- (Tech) cầu; cầu đo; bắc @bridge
+- (kỹ thuật) cầu
+- suspension b. (kỹ thuật) cầu treo 
+ @bridge circuit
+- (Tech) mạch cầu
+ @bridge network
+- (Tech) mạng (hình) cầu
+ @bridge transformer
+- (Tech) bộ biến điện hình cầu
+ @bridgeable
+- xem bridge
+ @bridgehead
+* dt
+- khu vực chiếm được trên đất của địch, bên sông phía địch
+ @bridgeless
+* tt
+- không có cầu
+ @bridgeware
+- (Tech) chuyển kiện, chương trình bắc cầu
+ @bridging
+- (Tech) rẽ mạch; nối tắt
+ @bridging in addittion
+- phép nhớ trong phép cộng
+ @bridging loan
+* dt
+- sự cho vay trong thời kỳ giữa hai thương vụ
+ @bridle  
+*  dt
+- cương (ngựa)
+- (nghĩa bóng) sự kiềm chế
+
++ to put a bridle on one's desires: kiềm chế ham muốn
+- (hàng hải) dây cột thuyền
+- (giải phẫu) dây hãm
+!to give one's horse the bridle; to lay the bridle on the neck of one's horse
+- buông lỏng dây cương cho tự do
+*  ngdgt
+- thắng cương (cho ngựa)
+- (nghĩa bóng) kiềm chế
+
++ to bridle one's ambitions: kiềm chế tham vọng của mình
+*  ndgt
+- bridle : up hất đầu, vênh mặt (tỏ vẻ làm bộ, giận dữ, khinh bỉ)
+
++ to bridle up with anger: hất đầu bực tức
+
+@bridle-bridge  
+*  dt
+- cầu dành cho ngựa đi (xe cộ không qua được)
+
+@bridle-hand  
+*  dt
+- tay cầm cương (tay trái của người cưỡi ngựa)
+
+@bridle-path   (bridle-road) @bridler
+- xem bridle
+ @bridle-rein  
+*  dt
+- dây cương
+
+@bridle-road   (bridle-road) @bridoon
+* dt
+- bộ cương sơ sài
+ @bri'du:n
+* dt
+- bộ cương sơ sài
+ @brie
+* dt
+- phó mát mềm của Pháp
+ @brief  
+*  tt
+- ngắn, vắn tắt, gọn
+
++ a brief note: lời ghi chú vắn tắt
+*  dt
+- bản tóm tắt, bản toát yếu
+- (pháp lý) bản tóm tắt hồ sơ của luật sư bào chữa (một vụ kiện); ((nghĩa rộng)) việc kiện, việc tố tụng
+
++ to hold a brief for someone: biện hộ cho ai, cãi cho ai (luật sư)
+- lời chỉ dẫn cho phi công (trước khi đi oanh tạc)
+- (tôn giáo) chiếu thư (của giáo hoàng)
+!in brief
+- tóm lại
+*  ngdgt
+- tóm tắt lại
+- lập hồ sơ (một vụ kiện)
+- giao cho luật sư để biện hộ
+- chỉ dẫn cho phi công (trước khi đi oanh tạc)
+- chỉ dẫn tường tận
+
+@brief-bag   (brief-bag) @brief-case   (brief-bag) @briefcase
+- cái cặp để giấy tờ, tài liệu
+ @briefcase computer
+- (Tech) máy điện toán bỏ cặp
+ @briefer
+- xem brief
+ @briefing  
+*  dt
+- (quân sự) chỉ thị, lời chỉ dẫn (về chiến thuật...)
+- sự chỉ dẫn tường tận
+
+@briefing-room  
+*  dt
+- phòng chỉ dẫn cho phi công (trước khi đi oanh tạc)
+
+@briefless  
+*  tt
+- không có việc để biện hộ (luật sư)
+
++ a briefless barrister: luật sư không có việc để biện hộ; luật sư không có khách hàng
+
+@briefly  
+*  dt
+- ngắn gọn, vắn tắt, tóm tắt
+
+@briefness  
+*  dt
+- tính ngắn gọn, tính vắn tắt
+
+@briefs  
+*  dt
+- (thông tục) quần đùi; xì líp (đàn bà)
+
+@brier   (briar) @briery
+- xem brier
+ @brig  
+*  dt
+- (hàng hải) thuyền hai buồm
+- (từ Mỹ,nghĩa Mỹ) khoang giam tạm (giam những người bị bắt, trên tàu chiến)
+*  dt
+- (Ê-cốt) cầu
+
+@brigade  
+*  dt
+- (quân sự) lữ đoàn
+- đội tàu
+
++ a fire brigade: một đội cứu hoả
+*  ngdgt
+- tổ chức thành lữ đoàn
+
+@brigadier  
+*  dt
+- lữ đoàn trưởng; thiếu tướng
+
+@brigand  
+*  dt
+- kẻ cướp
+
+@brigandage  
+*  dt
+- sự cướp bóc
+
+@brigandine
+* dt
+- (sử học) áo giáp nhẹ
+ @brigandism
+* dt
+- trò cướp bóc
+ @brigantine
+* dt
+- một loại thuyền ít buồm hơn thuyền brig
+ @bright  
+*  tt
+- sáng, sáng chói
+
++ bright sunshine: mặt trời sáng chói
+- tươi
+
++ bright red: đỏ tươi
+- sáng sủa; rạng rỡ, sáng ngời; rực rỡ
+
++ a bright force: khuôn mặt sáng sủa
+
++ a bright smile: nụ cười rạng rỡ
+
++ bright eyes: cặp mắt sáng ngời
+
++ a future: tương lai rực rỡ
+- (thường), (mỉa mai) sáng dạ, thông minh, nhanh trí
+
++ a bright boy: một đứa bé sáng dạ
+- vui tươi
+- lanh lợi, hoạt bát, nhanh nhẹn
+!to look on the bright side of everything
+- (xem) side
+*  dt
+- sáng chói, sáng ngời
+
+@brighten  
+*  ngdgt
+- làm sáng sủa, làm tươi sáng, làm rạng rỡ, làm tươi tỉnh
+
++ these flowers brighten the room: những bông hoa này làm cho căn phòng rạng rỡ lên
+
++ to brighten someone's face: làm cho (ai) tươi tỉnh rạng rỡ lên
+- làm sung sướng, làm vui tươi
+
++ to brighten the life of the people: làm cho đời sống của nhân dân sung sướng
+- đánh bóng (đồ đồng)
+*  ndgt
+- bừng lên, hửng lên, rạng lên, sáng lên
+
++ to sky is brightening: trời đang hừng sáng
+- vui tươi lên, tươi tỉnh lên (người...)
+
+@brightener
+- xem brighten
+ @brightly  
+*  dt
+- sáng chói
+- tươi
+- sáng sủa; rạng rỡ, sáng ngời; rực rỡ
+
+@brightness  
+*  dt
+- sự sáng ngời; sự rực rỡ
+- sự sáng dạ, sự thông minh, sự nhanh trí
+
+@brightness
+- (Tech) độ chói; sáng
+ @brightness
+- (vật lí) sự sáng chói
+ @brightness contrast
+- (Tech) tương phản độ chói
+ @brightness control
+- (Tech) điều chỉnh độ chói, kiểm soát độ chói
+ @bright's disease  
+*  dt
+- (y học) bệnh Brai
+
+@brightwork
+* dt
+- tác phẩm bằng tấm kim loại đánh bóng
+ @brill  
+*  dt
+- (động vật học) cá bơn vỉ
+
+@brillance   (brilliancy) @brilliance
+- (Tech) chói (d); độ chói
+ @brilliancy   (brilliancy) @brilliant  
+*  tt
+- sáng chói, chói loà; rực rỡ
+
++ brilliant sunshine: ánh sáng mặt trời chói lọi
+
++ brilliant victories: chiến thắng rực rỡ
+- tài giỏi, lỗi lạc
+
++ a brilliant scientist: một nhà khoa học lỗi lạc
+
++ to be brilliant at languages: giỏi ngoại ngữ
+*  dt
+- hạt kim cương nhiều mặt
+
+@brilliantine  
+*  dt
+- bizăngtin, sáp chải tóc
+
+@brilliantly
+* dt
+- vẻ vang, sáng chói, rực rỡ
+ @brilliantness
+- xem brilliant
+ @brim  
+*  dt
+- miệng (bát, chén, cốc)
+- vành (mũ)
+!full to the brim
+- đầy ắp, đầy phè
+*  ngdgt
+- đồ đầy đến miệng, đổ đầy ắp (chén, bát...)
+*  ndgt
+- tràn ngập; đầy đến miệng, đổ đầy ắp
+!to brim over
+- tràn đầy
+
++ to brim over with joy: tràn đầy sung sướng
+
+@brimful  
+*  tt
+- đầy ắp, đầy đến miệng, tràn đầy, tràn trề
+
++ brimful of hope: tràn trề hy vọng
+
+@brimfull
+* tt
+- như brimful
+ @brimless
+* tt
+- không có vành
+ @brimmed
+* tt
+- (dùng trong tt ghép) có loại vành được nói rõ
+
++  a broad-brimmed, wide-brimmed, floppy-brimmed hat:mũ rộng vành, có vành mềm
+ @brimmer  
+*  dt
+- cốc đầy
+
+@brimstone  
+*  dt
+- lưu huỳnh
+
+@brindle   (brindled) @brindled   (brindled) @brine  
+*  dt
+- nước biển, nước mặn, nước muối
+- biển
+- (thơ ca) nước mắt
+*  ngdgt
+- ngâm vào nước muối; muối (cái gì)
+
+@brine pit  
+*  dt
+- ruộng muối
+
+@brine-pan  
+*  dt
+- chảo làm muối
+- ruộng làm muối
+
+@briner
+- xem brine
+ @bring  
+*  (bất qui tắc) ngdgt brought 
+@bring-and-buy sale
+* dt
+- cuộc mua bán có tính cách từ thiện (mua đồ của nhau)
+ @bringer
+- xem bring
+ @brininess
+- xem briny
+ @brink  
+*  dt
+- bờ miệng (vực)
+
++ on the brink of war: bên cạnh hố chiến tranh
+
++ on the brink of the grave: kề miệng lỗ
+
+@brinkmanship  
+*  dt
+- chính sách "bên miệng hố chiến tranh" 
+
+@briny  
+*  tt
+- mặn
+*  dt
+- the briny (từ lóng) biển
+
+@brio
+* dt
+- sự sôi nổi
+ @brioche
+* dt
+- bánh mì ngọt hình tròn
+ @briony   (briony) @briquette  
+*  dt
+- than bánh
+
+@brise-bise  
+*  dt
+- màn che cửa sổ (che nửa dưới)
+
+@brisk  
+*  tt
+- nhanh, nhanh nhẩu, nhanh nhẹn; lanh lợi
+
++ brisk pace: bước đi nhanh nhẹn
+- hoạt động, phát đạt
+
++ trade is brisk: buôn bán phát đạt
+- nổi bọt lóng lánh (rượu sâm banh); sủi bọt (bia)
+- trong lành, mát mẻ (không khí)
+- lồng lộng (gió)
+*  ngdgt
+- làm hoạt động lên, làm sôi nổi lên, làm phấn khởi lên, làm vui lên
+
++ to brisk someone up: làm cho ai phấn khởi (vui) lên
+*  ndgt
+- to brisk up phấn khởi lên, vui lên
+!to brisk up a fire
+- khêu ngọn lửa
+
+@brisket  
+*  dt
+- ức (thú vật)
+- thịt ức (thú vật)
+
+@briskly
+* dt
+- mạnh mẽ, lanh lợi
+ @briskness
+- xem brisk
+ @bristle  
+*  dt
+- lông cứng
+
++ hog's bristles: lông lợn
+- râu rễ tre (ngăn và cứng) (người)
+- (thực vật học) tơ cứng
+!to set up one's bristles
+- sẵn sàng đánh nhau
+- nổi giận
+!to set up someone's bristles
+- làm cho ai nổi giận
+*  ndgt
+- dựng đứng lên (lông...)
+
++ its hairs bristled: lông nó dựng đứng lên
+- sẵn sàng đánh nhau
+- nổi giận
+- đầy dẫy, tua tủa, lởm chởm
+
++ the harbour bristles with masts: hải cảng tua tủa những cột buồm
+
++ to bristle with difficulties: đầy khó khăn
+*  ngdgt
+- xù, dựng đứng (lông...)
+
+@bristletail
+* dt
+- (động vật) bọ dài đuôi
+ @bristly  
+*  tt
+- đầy lông cứng
+- như lông cứng, tua tủa, lởm chởm, dựng đứng
+
++ bristly hair: lông dựng đứng; tóc lởm chởm
+
++ a bristly unshaven chin: cằm chưa cạo râu lởm chởm
+
+@bristol board  
+*  dt
+- giấy cứng brittôn (để vẽ, để làm danh thiếp...)
+
+@britain
+- giống như Great Britain
+ @britannia  
+*  dt
+- (thơ ca) nước Anh (nhân cách hoá)
+
+@britannic  
+*  tt
+- (thuộc) nước Anh
+
++ his britannic Majesty: vua Anh
+
++ Her britannic Majesty: nữ hoàng Anh
+
+@briticism   (britishism) @british  
+*  tt
+- (thuộc) Anh
+!British warm
+- áo khoác ngắn của quân đội
+*  dt
+- the british người Anh
+
+@british isles
+- quần đảo Anh
+ @britisher  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người Anh
+
+@britishism
+???
+
+ @briton  
+*  dt
+- người Bri-tô (một dân tộc sống ở nước Anh thời La mã đô hộ, cách đây 2000 năm)
+- (thơ ca) người Anh
+- (thơ ca) đế quốc Anh
+
+@brittle  
+*  tt
+- giòn, dễ gãy, dễ vỡ
+!to have a brittle temper
+- dễ cáu, hay cáu
+
+@brittle program
+- (Tech) chương trình phụ thuộc máy
+ @brittlely
+- xem brittle
+ @brittleness  
+*  dt
+- tính giòn, tính dễ gãy, tính dễ vỡ
+
+@broach  
+*  dt
+- cái xiên (để nướng thịt)
+- chỏm nhọn nhà thờ
+- (kỹ thuật) mũi doa, dao doa, dao chuốt, dao khoét lỗ
+*  ngdgt
+- đục lỗ, khoan
+- mở (thùng để lấy rượu...), khui (một kiện bông, một hòm thực phẩm...)
+- bắt đầu (cuộc thảo luận...); đề cập (một vấn đề...)
+- (kỹ thuật) doa, chuốt
+- (ngành mỏ) bắt đầu khai
+- (hàng hải) quay (thuyền) về phía sóng và gió
+
+@broacher
+- xem broach
+ @broad  
+*  tt
+- rộng
+
++ a broad street: phố rộng
+- bao la, mênh mông
+
++ the broad ocean: đại dương bao la
+- rộng rãi, khoáng đạt, phóng khoáng
+
++ broad view: quan điểm rộng rãi
+- rõ, rõ ràng
+
++ broad facts: những sự kiện rõ ràng
+
++ in broad daylight: giữa ban ngày
+
++ broad him: lời ám chỉ khá lộ liễu
+- thô tục, tục tĩu
+
++ a broad joke: câu nói đùa thô tục
+
++ a broad story: câu chuyện tục tĩu
+- khái quát đại cương, chung, chính
+
++ to give one's view in broad outlines: trình bày quan điểm trên những nét đại cương
+- nặng (giọng nói)
+
++ to speak broad Scotch: nói tiếng Ê pom : giọng nặng
+!it is as broad an it is long
+- quanh quanh thì cũng vẫn vậy không có gì khác, trở đi trở lại thì cũng vẫn thế thôi
+*  dt
+- rộng, rộng rãi
+- hoàn toàn
+- nặng (giọng nói)
+*  dt
+- chỗ rộng, phần rộng (của cái gì)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đàn bà
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) gái đĩ, gái điếm
+
+@broad
+- (Tech) rộng
+ @broad
+- rộng
+ @broad bean  
+*  dt
+- (thực vật học) đậu tằm
+
+@broad jump
+- <thể> môn nhảy xa
+ @broadband
+- (Tech) dải sóng rộng
+ @broadbrim
+* dt
+- mũ rộng vành
+ @broadcast  
+*  tt
+- được tung ra khắp nơi; được gieo rắc (hạt giống...)
+- được truyền đi rộng rãi (tin tức...); qua đài phát thanh, được phát thanh
+
++ broadcast appeal: lời kêu gọi qua đài phát thanh
+
++ today's broadcast program: chương trình phát thanh hôm nay
+*  dt
+- tung ra khắp nơi
+*  dt: (broadcasting) 
+@broadcast
+- (Tech) phát thanh hoặc truyền hình, quảng bá
+ @broadcast band
+- (Tech) dải sóng quảng bá, băng tần quảng bá
+ @broadcast program
+- (Tech) chương trình quảng bá
+ @broadcaster  
+*  dt
+- người nói chuyện trên đài phát thanh, người hát trên đài phát thanh
+
+@broadcaster
+- (Tech) nhân viên quảng bá; người phát thanh hoặc truyền hình
+ @broadcasting  
+*  tt
+- được tung ra khắp nơi; được gieo rắc (hạt giống...)
+- được truyền đi rộng rãi (tin tức...); qua đài phát thanh, được phát thanh
+
++ broadcast appeal: lời kêu gọi qua đài phát thanh
+
++ today's broadcast program: chương trình phát thanh hôm nay
+*  dt
+- tung ra khắp nơi
+*  dt: (broadcasting) 
+@broadcasting
+- (Tech) quảng bá, phát thanh hoặc truyền hình
+ @broadcast(ing) station
+- (Tech) đài quảng bá @broadcloth  
+*  dt
+- hàng len đen mỏng khổ đôi
+- (từ Mỹ,nghĩa Mỹ) vải pôpơlin
+
+@broaden  
+*  ngdgt
+- mở rộng, nới rộng, làm rộng ra
+*  ndgt
+- rộng ra
+
+@broadener
+- xem broaden
+ @broadening
+- (Tech) mở rộng, nới rộng (d)
+ @broadish  
+*  tt
+- hơi rộng
+
+@broadjump
+* dt
+- (từ Mỹ, nghĩa Mỹ) nhảy xa
+ @broadleaf
+* dt
+- cây thuốc có lá rộng
+* tt
+- có lá rụng
+ @broadloom
+* dt
+- thảm dệt khổ rộng
+ @broadlum
+* dt
+- thảm dệt trên khung cửi rộng
+ @broadly  
+*  dt
+- rộng, rộng rãi
+- chung, đại khái, đại thể
+
++ broadly speaking: nói chung, nói đại thể
+
+@broadminded  
+*  tt
+- có tư tưởng rộng rãi, khoáng đạt
+
+@broad-minded
+* tt
+- có tư tưởng rộng rãi, khoáng đạt
+ @broad-mindedly
+- xem broad-minded
+ @broad-mindedness
+* dt
+- sự phóng khoáng, tư tưởng phóng khoáng
+ @broadness  
+*  dt
+- sự thô tục, sự tục tĩu (của lời nói, câu nói đùa...)
+
+@broadsheet   (broadside) @broadside  
+*  dt
+- (hàng hải) phần mạn tàu nổi trên mặt nước
+- (hàng hải) toàn bộ sung ống ở một bên mạn tàu; sự nổ đồng loạt ở một bên mạn tàu;
+- (nghĩa bóng) cuộc tấn công đồng loạt mãnh liệt; (từ Mỹ,nghĩa Mỹ) sự chửi rủa một thôi một hồi; sự tố cáo dồn dập
+
++ to give someone a broadside: tấn công đồng loạt mãnh liệt vào ai
+- (như) broadsheet
+!broadside on (to)
+- phô một bên mạn tàu ra
+
+@broadside
+- (Tech) bên hông @broadside radiation
+- (Tech) bức xạ ngang
+ @broadsword
+* dt
+- đao, mã tấu
+ @broadtail
+* dt
+- cừu caracun
+ @broadways   (broadwise) @broadwise   (broadwise) @brocade  
+*  dt
+- gấm thêu kim tuyến, vải thêu kim tuyến
+*  ngdgt
+- thêu kim tuyến
+
+@brocatelle
+* dt
+- vải cứng thêu nổi
+ @broccoli
+* dt
+- cây bông cải xanh
+ @broch
+* dt
+- (sử học) nhà đá hình tháp tròn (ở Xcôtlân)
+ @brochette
+* dt
+- que xiên nhỏ
+- cái ghim cài huân chương
+ @brochure  
+*  dt
+- cuốn sách mỏng
+
+@brock  
+*  dt
+- (động vật học) con lửng
+- người đáng khinh, người đê tiện
+
+@brocket  
+*  dt
+- hươu (nai) non mới có gạc
+
+@broderie anglaise
+* dt
+- kiểu thêu đăng ten
+ @brogue  
+*  dt
+- giày vò (bằng da không thuộc để đi núi...)
+*  dt
+- giọng địa phương Ai-len
+
+@broider   (broider) @broidery   (broidery) @broil  
+*  dt
+- thịt nướng
+*  dgt
+- nướng (thịt)
+
++ broiled chicken: thịt gà nướng
+- nóng như thiêu; thiêu đốt, hun nóng
+
++ a broiling hot day: một ngày nóng như thiêu như đốt
+
++ to broil with impatience: nóng lòng sốt ruột
+
+@broiler  
+*  dt
+- người hay gây sự, người hay gây gỗ
+*  dt
+- vỉ nướng thịt
+- gà giò (để nướng)
+- ngày nóng như thiêu như đốt
+
+@broke  
+*  thời quá khứ của break
+*  động tt quá khứ của break (từ cổ,nghĩa cổ)
+*  tt
+- khánh kiệt, túng quẫn, bần cùng
+
+@broken  
+*  động tt quá khứ của break
+*  tt
+- bị gãy, bị vỡ
+- vụn
+
++ broken bread: bánh mì vụn
+
++ broken meat: thịt vụn; thịt thừa
+
++ broken tea: chè vụn
+- đứt quãng, chập chờn, thất thường
+
++ broken words: lời nói đứt quãng
+
++ broken sleep: giấc ngủ chập chờn
+
++ broken weather: thời tiết thất thường
+- nhấp nhô, gập ghềnh
+
++ broken ground: đất nhấp nhô
+- suy nhược, ốm yếu, quỵ
+
++ broken health: sức khoẻ suy nhược
+- tuyệt vọng, đau khổ
+
++ broken man: người đau khổ tuyệt vọng
+
++ broken heart: lòng đau dớn; sự đau lòng
+
++ to die of a broken heart: chết vì đau buồn
+- nói sai
+
++ broken English: tiếng Anh nói sai
+- không được tôn trọng, không được thực hiện
+
++ broken promise: lời hứa không được tôn trọng
+
+@broken
+- (Tech) gẫy khúc, gấp khúc
+ @broken
+- bị [võ, gãy, gấp]
+ @broken circuit
+- (Tech) mạch hở, mạch đứt
+ @broken home
+* dt
+- gia đình tan nát vì bố mẹ ly dị nhau
+ @broken line
+- (Tech) đường gẫy
+ @broken reed
+* dt
+- kẻ vô tích sự, chẳng làm được trò trống gì
+ @broken wind  
+*  dt
+- bệnh thở hổn hển (ngựa)
+
+@broken-down  
+*  tt
+- hỏng, xộc xệch (máy móc)
+- suy nhược, ốm yếu, quỵ (người, ngựa...)
+
+@broken-hearted  
+*  tt
+- đau lòng, đau khổ
+
+@brokenly  
+*  dt
+- đứt quãng, không liên tục; giật giật
+
+@brokenness
+- xem broken
+ @broker  
+*  dt
+- người môi giới, người mối lái buôn bán
+- người bán đồ cũ
+- người được phép bán hàng tịch thu; người định giá hàng tịch thu
+
+@broker
+- (Tech) người môi giới
+ @brokerage  
+*  dt
+- sự môi giới
+- nghề môi giới
+
+@Brokerage
+- (Econ) Hoa hồng môi giới.
+: Một khoản tiền được yêu cầu bởi một người môi giới vì đã thực hiện việc mua bán thay mặt một khách hàng.
+ @broking  
+*  dt
+- nghề môi giới
+
+@brolga
+* dt
+- chim sếu lớn ở Ôxtrâylia
+ @brolly  
+*  dt
+- (từ lóng) ô, dù
+- (định ngữ) brolly hop sự nhảy dù
+
+@bromate  
+*  dt
+- (hoá học) bromat
+
+@bromeliaceous  
+*  tt
+- (thực vật học) thuộc họ dứa
+
+@bromeliad
+* dt
+- (thực vật) họ dứa
+ @bromic  
+*  tt
+- (hoá học) bromic
+
++ bromic acid: axit bromic
+
+@bromide  
+*  dt
+- (hoá học) bromua
+- (số nhiều) thuốc an thần
+- người vô vị, người hay nói sáo nhạt phèo
+- câu chuyện vô vị; lời nói sáo
+
+@bromidic
+- xem bromide
+ @brominate
+* ngdgt
+- xử lý với brom hay với một hợp chất brom
+ @bromine  
+*  dt
+- (hoá học) brom
+
+@bronchi   (bronchia) @bronchia   (bronchia) @bronchial  
+*  tt
+- (thuộc) cuống phổi
+
+@bronchially
+- xem bronchial
+ @bronchiole
+* dt
+- nhánh cuống phổi nhỏ
+ @bronchitic  
+*  tt
+- (y học) (thuộc) viêm cuống phổi, bị viêm cuống phổi
+
+@bronchitis  
+*  dt
+- (y học) bệnh viêm cuống phổi
+
+@broncho   (broncho) @broncho-buster   (broncho-buster) @bronchocele  
+*  dt
+- (y học) bướu giáp, bướu cổ
+
+@bronchogenic
+* tt
+- nảy sinh do không khí đi vào cuống phổi
+ @broncho-pneumonia  
+*  dt
+- (y học) viêm cuống phổi phổi, viêm phổi đốm
+
+@bronchopneumonia
+* dt
+- (y học) bệnh viêm cuống phổi; viêm phổi đốm
+ @bronchoscope
+* dt
+- (y học) ống soi phế quản
+ @bronchoscopic
+* tt
+- thuộc việc soi phế quản
+ @bronchoscopist
+* dt
+- người soi phế quản
+ @bronchoscopy
+* dt
+- phép soi phế quản
+ @bronchus
+* dt
+- số nhiều là bronchi
+- phế quản
+ @bronco   (broncho) @bronco-buster   (broncho-buster) @brontosaurus
+* dt
+- khủng long to ăn cây cối
+ @bronx cheer
+* dt
+- tiếng bựu môi châm chọc
+ @bronze  
+*  dt
+- đồng thiếc
+- đồ bằng đồng thiếc (tượng, lọ...)
+- màu đồng thiếc
+
++ the bronze age: thời kỳ đồng thiếc
+*  ngdgt
+- làm bóng như đồng thiếc; làm sạm màu đồng thiếc
+*  ndgt
+- sạm màu đồng thiếc
+
+@bronzer
+- xem bronze
+ @bronzy
+- xem bronze
+ @brooch  
+*  dt
+- trâm (gài đầu); ghim hoa (gài cổ áo)
+
+@brood  
+*  dt
+- lứa, ổ (gà con, chim con...)
+
++ a brood of chicken: một lứa ga con
+- đoàn, bầy, lũ (người, súc vật)
+- con cái, lũ con
+*  ndgt
+- ấp (gà)
+- suy nghĩ ủ ê, nghiền ngẫm
+
++ to brood over one's misfortunes: nghiên ngẫm về sự bất hạnh của mình
+- bao trùm, bao phủ (mây đen, màn đêm, bóng tối, sự yên lặng...)
+
+@brooder  
+*  dt
+- gà ấp
+- lò ấp trứng
+- người hay suy nghĩ ủ ê
+
+@brood-hen  
+*  dt
+- gà ấp
+
+@broodily
+* dt
+- ủ rũ, chán chường
+ @broodiness
+* dt
+- sự ủ rũ, sự chán chường
+ @broodingly
+- xem brood
+ @brood-mare  
+*  dt
+- ngựa cái giống
+
+@broody  
+*  tt
+- đòi ấp (gà mái)
+
+@brook  
+*  dt
+- suối
+*  ngdgt
+- chịu, chịu đựng; cho phép (dùng với ý phủ định)
+
++ he cannot brook being interfered with: anh ta không thể chịu được cái lối bị người ta can thiệp vào
+
++ the matter brooks no delay: việc không cho phép để chậm được
+
+@Brooker
+- (Econ) Người môi giới.
+: Ở một nghĩa hẹp là người trung gian chắp nối người bán và người mua với nhau, hoặc người đó hoạt động như một đại điện cho người này hay cho người kia, tiến hành một giao dịch mua bán và nhận tiền thù lao hoa hồng hay môi giới. Tuy nhiên, ở mộy số trường phái khái niệm này chỉ người mua hoặc người bán gốc, dù cách dùng này xuất phát từ giai đoạn ban đầu của người môi giới thực sự.
+ @Brookings model
+- (Econ) Mô hình Brookings
+: Mô hình này đã được sử dụng để phân tích cấu trúc của CHU KỲ KINH DOANH và cho đánh giá CHÍNH SÁCH TIỀN TỆ, TÀI CHÍNH  và TĂNG TRƯỞNG KINH TẾ. Mô hình đánh dấu một bước quan trọng trong việc thống nhất nhiều thành phần khác nhau của nền kinh tế thành một quy mô lớn nhưng quản lý được, đây là một cột mốc trong việc phát triển các mô hình kinh tế lượng.
+ @brooklet  
+*  dt
+- suối nhỏ
+
+@broom  
+*  dt
+- (thực vật học) cây đậu chổi
+- cái chổi
+!new broom
+- thủ trưởng mới (hăm hở muốn quét sạch ngay những thói lạm dụng của cơ quan)
+
+@broom-stick  
+*  dt
+- cán chổi
+
+@broomy
+- xem broom
+ @bros.  
+*  dt
+- (viết tắt) của brothers (thường) dùng ở tên các hãng buôn
+
+@bros
+* dt
+- vt của brothers (dùng ở tên các hãng buôn)
+ @broth  
+*  dt
+- nước luộc thịt, nước xuýt
+!broth of the boy
+- (Ai-len) anh chàng tốt bụng
+
+@brothel  
+*  dt
+- nhà chứa, nhà thổ
+
+@brother  
+*  dt,  số nhiều brothers 
+@brotherhood  
+*  dt
+- tình anh em
+- nhóm người cùng chí hướng; nhóm người cùng nghề
+- hội ái hữu
+- (từ Mỹ,nghĩa Mỹ) nghiệp đoàn
+
+@brother-in-law  
+*  (bất qui tắc) dt,  số nhiều brothers-in-law
+- anh (em) rể; anh (em) vợ
+
+@brotherless  
+*  tt
+- không có anh em
+
+@brotherlike  
+*  tt
+- như anh em
+
+@brotherliness  
+*  dt
+- tính chất anh em; tình anh em
+
+@brotherly  
+*  tt
+- anh em
+*  dt
+- như anh em, anh em
+
+@brothers-in-law  
+*  (bất qui tắc) dt,  số nhiều brothers-in-law
+- anh (em) rể; anh (em) vợ
+
+@brougham  
+*  dt
+- xe độc mã (hai hoặc bốn chỗ ngồi)
+
+@brought  
+*  (bất qui tắc) ngdgt brought 
+@brouhaha
+* dt
+- sự ồn ào hỗn độn
+ @brow  
+*  dt
+- mày, lông mày
+
++ to knit (bend) one's brows: cau mày
+- trán
+- bờ (dốc...); đỉnh (đồi...)
+*  dt
+- (hàng hải) cầu tàu
+
+@brow-ague  
+*  dt
+- (y học) chứng đau nửa đầu
+
+@browbeat  
+*  (bất qui tắc) ngdgt browbeat 
+@browbeaten  
+*  (bất qui tắc) ngdgt browbeat 
+@browbeater
+- xem browbeat
+ @brown  
+*  tt
+- nâu
+
++ brown paper: giấy nâu gói hàng
+- rám nắng (da)
+!to do brown
+- (từ lóng) bịp, đánh lừa
+*  dt
+- màu nâu
+- quần áo nâu
+- (từ lóng) đồng xu đồng
+
++ the brown: bầy chim đang bay
+
++ to fire into the brown: bắn vào bầy chim đang bay; (nghĩa rộng) bắn bừa bãi vào đám đông
+*  ngdgt
+- nhuộm nâu; quệt nâu, sơn nâu
+- rán vàng (thịt, cá); phi
+
++ to brown onions: phi hành
+- làm rám nắng
+
++ face browned by the sun: mặt rám nắng
+*  ndgt
+- hoá nâu, hoá sạm
+- chín vang (cá rán...)
+!I'm browned off with it
+- (từ lóng) tôi chán ngấy cái đó rồi
+
+@brown bread
+* dt
+- bánh mì đen
+ @brown coal  
+*  dt
+- than bùn
+
+@brown study  
+*  dt
+- sự mơ mộng, sự trầm ngâm
+
+@brown sugar  
+*  dt
+- đường nâu (chưa tinh chế hẳn)
+
+@brown ware  
+*  dt
+- đồ sành
+
+@browned-off
+* tt
+- chán ngấy
+
++  I'm browned-off with it:Tôi chán ngấy cái đó rồi
+ @brownie  
+*  dt
+- ma thiện, phúc thần
+- chim non (nữ hướng đạo từ 8 đến 11 tuổi)
+- máy ảnh nhỏ
+- (từ Mỹ,nghĩa Mỹ) bánh sôcôla hạnh nhân
+
+@browning  
+*  dt
+- (quân sự) súng braoninh
+
+@brownish  
+*  dt
+- hơi nâu, nâu nâu
+
+@brownness
+- xem brown
+ @brownout
+- (Tech) dùng điện hạn chế
+ @brown-shirt  
+*  dt
+- đảng viên đảng Quốc xã (Đức)
+
+@brownstone  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) đá cát kết nâu (xây nhà)
+!brownstone district
+- khu nhà ở của người giàu
+
+@brownware
+* dt
+- đồ sành
+ @browse  
+*  dt
+- cành non, chồi non
+- sự gặm (cành non, chồi non)
+*  ngdgt
+- cho (súc vật) gặm (cành non, chồi non)
+*  ndgt
+- gặm (cành non, chồi non)
+- (nghĩa bóng) đọc lướt qua, xem lướt qua, đọc bỏ quãng (một cuốn sách)
+
+@browse
+- (Tech) đọc lướt
+ @browser
+- <tin>bộ duyệt tìm
+ @brucellosis
+* dt
+- bệnh do vi khuẩn, đặc biệt gây ra cho trâu bò
+ @brucine
+* dt
+- (sinh học) bruxin
+ @brucite
+* dt
+- (khoáng chất) bruxit
+ @bruin  
+*  dt
+- chú gấu (nhân cách hoá)
+
+@bruise  
+*  dt
+- vết thâm tím (trên người), vết thâm (trên hoa quả)
+*  ngdgt
+- làm thâm tím (mình mẩy); làm cho thâm lại (hoa quả)
+- làm méo mó (đồ đồng...); làm sứt sẹo (gỗ)
+- tán, giã (vật gì)
+*  ndgt
+- thâm tím lại; thâm lại
+!to bruise along
+- chạy thục mạng
+
+@bruiser  
+*  dt
+- võ sĩ nhà nghề
+- (kỹ thuật) máy mài mắt kính
+
+@bruit  
+*  dt
+- (từ cổ,nghĩa cổ) tin đồn, tiếng đồn, dư luận
+*  ngdgt
+- (từ cổ,nghĩa cổ),  (từ Mỹ,nghĩa Mỹ) đồn đi, đồn lại
+
++ it is bruited about (abroad) that: người ta đồn rằng
+- làm nổi tiếng
+
+@brumal  
+*  tt
+- (thuộc) mùa đông
+
+@brumby  
+*  dt
+- úc,  (thông tục) ngựa chưa thuần
+
+@brume  
+*  dt
+- (thơ ca) sương mù
+
+@brummagem  
+*  dt
+- đồ rẻ tiền, đồ hào nhoáng rẻ tiền
+- đồ giả
+*  tt
+- rẻ tiền, hào nhoáng rẻ tiền
+- giả mạo
+
+@brumous  
+*  tt
+- mù sương
+
+@brunch  
+*  dt
+- (từ lóng) bữa nửa buổi (bữa sáng và bữa ăn trưa gộp làm một)
+
+@brunette  
+*  dt
+- người đàn bàn ngăm đen (thuộc nòi da trắng, nhưng tóc đen hoặc nâu, mắt đen và nước da ngăm đen)
+*  tt
+- ngăm đen (có tóc đen hoặc nâu, mắt đen và nước da ngăm đen)
+
+@brunt  
+*  dt
+- gánh năng chủ yếu, sức mạnh chính
+
++ to bear the brunt of an attack: chịu đựng mũi giùi của cuộc sống
+
+@brush  
+*  dt
+- bàn chải
+- sự chải
+
++ to give one's clothes a good brush: chải quần áo sạch sẽ
+- bút lông (vẽ)
+
++ the brush: nghệ thuật vẽ; nét bút của hoạ sĩ, hoạ sĩ
+- đuôi chồn
+- bụi cây
+- (từ Mỹ,nghĩa Mỹ) cành cây bó thành bó
+- (quân sự) cuộc chạm trán chớp nhoáng
+
++ a brush with the enemy: cuộc chạm trán chớp nhoáng với quân thù
+- (điện học) cái chổi
+
++ carbon brush: chổi than
+*  ngdgt
+- chải, quét
+
++ to brush one's hair: chải tóc
+- vẽ lên (giấy, lụa...)
+- chạm qua, lướt qua (vật gì)
+*  ndgt
+- chạm nhẹ phải, lướt phải
+
++ to brush against somebody: đi chạm nhẹ phải ai
+!to brush aside
+- (nghĩa bóng) bỏ qua, phớt qua (một vấn đề gì)
+!to brush away
+- phủi đi, phẩy đi, chải đi
+- (nghĩa bóng) (như) to brush aside
+!to brush off
+- gạt bỏ, khử bỏ, phủi sạch đi
+- chạy trốn thật nhanh
+!to brush over
+- chải, phủi (bụi) bằng bàn chải
+- quét (vôi, sơn...) lên
+- chạm nhẹ phải, lướt phải
+!to brush up
+- đánh bóng (bằng bàn chải)
+- ôn lại, xem lại
+
+@brush
+- (Tech) chổi; cây cọ
+ @brush angle
+- (Tech) góc chổi
+ @brush contact resistance
+- (Tech) điện trở tiếp xúc chổi (điện)
+ @brusher
+- xem brush
+ @brushfire war  
+*  dt
+- cuộc xung đột nhỏ ở biên giới
+
+@brushland
+* dt
+- vùng đầy các cây bụi
+ @brush-off  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sự từ chối, sự gạt bỏ, sự tống khứ
+- sự tán tỉnh khó chịu
+
+@brush-up
+* dt
+- việc làm cho trí nhớ được nhạy bén
+ @brushwood  
+*  dt
+- bụi cây
+
+@brushwork
+* dt
+- phong cách vẽ riêng của một nghệ sự
+ @brushy  
+*  tt
+- như bàn chải lởm chởm
+- có nhiều bụi cây, rậm rạp
+
+@brusque  
+*  tt
+- sống sượng, lỗ mãng, cộc cằn
+
+@brusquely
+- xem brusque
+ @brusqueness  
+*  dt
+- sự sống sượng, sự lỗ mãng, sự cộc cằn
+
+@Brussels conference
+- (Econ) Hội nghị Brussels.
+: Hội nghị tiền tệ quốc tế được tổ chức ở Brussel năm 1920 dưới sự bảo trợ của các nước đồng minh, nêu lên vấn đề ổn định ngoại hối. Xem GENEVA CONFERENCE.
+ @brussels sprouts  
+*  dt
+- (thực vật học) cải bruxen
+
+@Brussels Tariff Nomenclature
+- (Econ) Biểu thuế quan theo Hiệp định Brussels
+: Sự phân loại tiêu chuẩn hàng hoá, được chấp nhận bởi đa số các nước trên thế giới, vì những mục đích về thuế quan.
+ @Brussels, Treaty of
+- (Econ) Hiệp ước Brussels
+: Một hiệp ước hỗ trợ lẫn nhau giữa Anh, pháp và các nước Benelux ký năm 1948. Hiệp ước được xem như một bước tiến trong định hướng hội nhập của châu ÂU đi trước Hiệp định Roma (1957) và sự khởi đầu của CỘNG ĐỒNG KINH TẾ CHÂU ÂU (EEC), ngày nay là cộng đồng CHÂU ÂU (EC).
+ @Brussels, Treaty of
+- (Econ) Hiệp ước Brussels (được biết đến như hiệp ước Bổ sung)
+: Xem EUROPEAN ECONOMIC COMMUNITY
+ @brut  
+*  tt
+- nguyên, không pha ngọt (rượu)
+
+@brutal  
+*  tt
+- đầy thú tính; cục súc
+- hung ác, tàn bạo
+
+@brutalise   (brutalise) @brutality  
+*  dt
+- tính hung ác, tính tàn bạo
+- hành động hung ác
+
+@brutalization
+- xem brutalize
+ @brutalize   (brutalise) @brutally
+* dt
+- hung bạo, tàn nhẫn
+ @brute  
+*  dt
+- súc vật, thú vật
+- cục súc, kẻ vũ phu
+- thú tính (trong con người)
+*  tt
+- (thuộc) súc vật
+- cục súc, vũ phu
+
++ brute strength: sức mạnh vũ phu
+- hung ác, tàn bạo
+- (thuộc) xác thịt, nhục dục
+
+@brute-force technique
+- (Tech) kỹ thuật cưỡng chế
+ @brutify  
+*  ngdgt
+- làm cho đần độn, làm cho u mê
+
+@brutish  
+*  tt
+- có tính chất thú vật, vũ phu
+- hung ác, tàn bạo
+- ngu đần, đần độn
+
+@brutishly
+* dt
+- hung bạo
+- đần độn
+ @brutishness
+- xem brutish
+ @brutism
+- xem brute
+ @bruxism
+* dt
+- thói nghiến răng lúc ngủ
+ @bryological
+- xem bryology
+ @bryologist  
+*  dt
+- nhà nghiên cứu rêu
+
+@bryology  
+*  dt
+- môn nghiên cứu rêu
+
+@bryony   (briony) @bryophyte  
+*  dt
+- (thực vật học) rêu
+
+@bryophytic
+- xem bryophyte
+ @

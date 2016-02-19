@@ -1,0 +1,3410 @@
+@si  
+*  dt
+- (âm nhạc) xi
+
+@sial
+* dt
+- vỏ sial (vỏ ngoài cùng trái đất)
+ @sialogogic  
+*  tt
+- (y học) lợi nước bọt
+
+@sialogogue  
+*  dt
+- (y học) thuốc lợi nước bọt
+
+@sialoid
+* tt
+- dạng nước bọt
+ @siamang  
+*  dt
+- (động vật học) vượn mực (trong nhóm thấp nhất của khỉ dạng người)
+
+@siamese  
+*  tt
+- (thuộc) Thái lan
+*  dt,  số nhiều không đổi
+- người Thái lan
+- tiếng Thái lan
+
+@siamese cat
+* dt
+- mèo Xiêm, mèo Thái lan (loài mèo phương Đông có lông ngắn màu nhợt, có mặt, tai, đuôi và chân đen hơn)
+ @siamese twins
+* dt
+- anh em sinh đôi có cơ thể dính vào nhau cách này hay cách khác
+ @sib  
+*  tt
+- (Ê-cốt) có họ hàng với, có bà con với
+*  dt
+- (Ê-cốt) anh; chị; em
+
+@siberian  
+*  tt
+- (thuộc) Xi-bia (còn gọi là Xi-bê-ri)
+*  dt
+- người Xi-bia
+
+@sibilance   (sibilancy) @sibilancy   (sibilancy) @sibilant  
+*  tt
+- (ngôn ngữ học) xuýt (âm)
+*  dt
+- (ngôn ngữ học) âm xuýt
+
+@sibilate  
+*  dgt
+- (ngôn ngữ học) đọc thành âm xuýt
+
+@sibilation  
+*  dt
+- (ngôn ngữ học) sự đọc thành âm xuýt
+
+@sibling  
+*  dt
+- anh (chị, em) ruột
+
+@sibship  
+*  dt
+- anh chị em ruột
+
+@sibyl   (sybil) @sibylline  
+*  tt
+- (thuộc) sấm truyền; (thuộc) sự tiên tri thần bí
+
+@sic  
+*  dt
+- đúng như nguyên văn ((thường) viết trong ngoặc đơn bên một câu trích dẫn tuy có chứa đựng sai sót hoặc vô lý nhưng vẫn được sao đúng nguyên văn)
+
+@SIC
+- (Econ) Phân loại nghành chuẩn.
+: Xem STANDARD INDUSTRIAL CLASSIFICATION.
+ @siccative  
+*  dt
+- chất làm mau khô; mau khô
+
++ siccative oil: dầu mau khô
+*  dt
+- chất làm mau khô
+
+@sice  
+*  dt
+- mặt sáu, mặt lục (của con súc sắc)
+*  dt (Anh-Ỡn)
+- người giữ ngựa
+- xà ích
+
+@sice
+- (lý thuyết trò chơi) sáu điểm, mặt lục (súc sắc)
+ @sick  
+*  tt
+- ốm, đau; ốm yếu; (từ Mỹ,nghĩa Mỹ) khó ở, thấy kinh
+
++ a sick man: người ốm
+
++ to be sick of a fever: bị sốt
+
++ to be sick of love: ốm tương tư
+- buồn nôn
+
++ to feel (turn) sick: buồn nôn, thấy lợm giọng
+
++ to be sick: nôn
+- (hàng hải) cần sửa lại, cần chữa lại
+!sick [and tried] of
+!sick to death of
+- (thông tục) chán, ngán, ngấy
+
++ to be sick of doing the same work: chán ngấy vì cứ làm mãi một công việc
+!sick at (about)
+- (thông tục) đau khổ, ân hận
+
++ to be sick at failing to pass the examination: đau khổ vì thi trượt
+!sick for
+- nhớ
+
++ to be sick for home: nhớ nhà, nhớ quê hương
+*  ngdgt
+- xuýt (chó) ((thường), (mỉa mai) để ra lệnh cho chó săn)
+
++ sick him!: sục đi!
+
+@sick-bay  
+*  dt
+- bệnh xá trên tàu thuỷ
+
+@sick-bed  
+*  dt
+- giường bệnh
+- tình trạng ốm đau; tình trạng tàn phế
+
+@sick-benefit  
+*  dt
+- tiền trợ cấp ốm đau
+
+@sick-call  
+*  dt
+- (quân sự) hiệu kèn gọi lính ốm
+
+@sicken  
+*  dgt
+- cảm thấy ốm, có triệu chứng ốm
+
++ to be sickening for the flue: thấy người khó chịu muốn cúm
+- cảm tháy buồn nôn, kinh, tởm, ghê tởm, 
+- thấy mệt mỏi, thấy chán nản, thất vọng
+
+@sickening  
+*  tt
+- làm lợm giọng, kinh tởm, ghê tởm
+
++ a sickening sight: một cảnh tượng kinh tởm
+- làm chán nản, làm thất vọng
+
+@sicker
+* tt, adv
+- yên ổn; chắc chắn
+ @sick-flag  
+*  dt
+- cờ vàng (báo hiệu có bệnh dịch ở một khu vực, ở trên tàu thuỷ)
+
+@sickheadache
+* dt
+- chứng đau đầu nôn mửa
+ @sickish
+* tt
+- hơi ốm; hơi buồn nôn
+ @sickle  
+*  dt
+- cái liềm
+- (thiên văn học) (Sickle) chòm sao Sư tử
+
+@sickle cell
+* dt
+- hồng huyết cầu hình lưỡi liềm (nhất là thấy trong bệnh thiếu máu di truyền nặng)
+ @sick-leave  
+*  dt
+- phép nghỉ ốm
+- thời gian nghỉ ốm
+
+@sickle-feather  
+*  dt
+- (động vật học) lông seo (ở đuôi gà sống)
+
+@sickle-man
+* dt
+- người gặt hái
+ @sickliness  
+*  dt
+- tình trạng đau yếu, tình trạng bệnh hoạn
+- sự xanh xao
+- mùi tanh, mùi buồn nôn
+
+@sick-list  
+*  dt
+- (quân, hải...) danh sách người ốm
+
++ to be on the sick-list: bị ốm
+
+@sickly  
+*  tt
+- hay ốm, có vẻ ốm yếu, đau yếu; gầy yếu
+- xanh, xanh xao
+
++ sickly complexion: nước da xanh
+- độc; tanh, làm buồn nôn
+
++ sickly climate: khí hậu độc
+
++ sickly mell: mùi tanh làm buồn nôn
+- uỷ mị, ẻo lả, ốm yếu (tình cảm)
+*  ngdgt
+- bao phủ một màu bệnh hoạn; bao phủ một màu tang tóc
+- làm cho bệnh hoạn
+
+@sickness  
+*  dt
+- sự đau yếu; bệnh hoạn
+- bệnh
+
++ falling sickness: (từ cổ,nghĩa cổ) bệnh động kinh
+- sự buồn nôn; sự nôn mửa
+
+@sickness benefit
+* dt
+- trợ cấp ốm đau (do nhà nước trả)
+ @sick-out
+* dt
+- (Mỹ) cuộc đình công tập thể lấy cớ là ốm
+ @sick-pay
+* dt
+- tiền lương trả cho một nhân viên nghỉ ốm
+ @sick-room  
+*  dt
+- buồng bệnh
+
+@side  
+*  dt
+- mặt, bên
+
++ a cube has six sides: hình khối có sáu mặt
+
++ two sides of house: hai bên cạnh nhà
+
++ two sides of sheet of paper: hai mặt của tờ giấy
+
++ the right side of cloth: mặt phải của vải
+
++ the seamy side of life: mặt trái của cuộc đời
+- (toán học) bề, cạnh
+
++ opposite sides of a parallelogram: hai cạnh đối nhau của một hình bình hành
+- triền núi; bìa rừng
+- sườn, lườn
+
++ side of mutton: sườn cừu
+
++ to fight side by side: sát cánh chiến đấu
+- phía, bên
+
++ the right side: phía bên phải
+
++ the debit side: bên nợ
+
++ the credit side: bên có
+- phần bên cạnh, phần phụ
+
++ side of road: bên cạnh đường
+- khía cạnh
+
++ to study all sides of the question: nghiên cứu mọi khía cạnh của vấn đề
+- phe, phái, phía
+
++ to take sides with somebody; to take the sides of somebody: về phe với ai
+
++ justice is on our side: chúng ta có chính nghĩa
+
++ there is much to be said on both sides: cả hai phe đều có nhiều vấn đề cần nói
+
++ the winning side: phe thắng
+- bên (nội, ngoại)
+
++ on the maternal side: bên ngoại
+!born on the wrong side of the blanket
+- (xem) blanket
+!to be on the right side of forty
+- dưới bốn mươi tuổi
+!to be on the wrong side of forty
+- trên bốn mươi tuổi
+!to be on this side of grave
+- hãy còn sống
+!to be on the wrong side of the door
+- bị nhốt ở ngoài
+!to look on the bright side of everything
+- lạc quan
+!to put on side
+- lên mặt, làm bộ làm tịch
+!prices are on the high side
+- giá vẫn cao
+!to shake one's side
+- cười vỡ bụng
+*  ndgt
+- (: with) đứng về phe, đứng về phía; ủng hộ
+
+@side
+- cạnh, phía
+- on the left s. ở bên trái
+- s. opposite angle cạnh đối diện ở góc 
+- s. of a polygon cạnh của một đa giác 
+- adjacnet s. cạnh kề 
+- front s. chính diện
+- initial s. (of a angle) cạnh đầu (của một góc)
+- terminal s. (of an angle) cạnh cuối (của một góc) 
+ @side meate  
+*  dt
+- thịt sườn
+
+@side order
+* dt
+- <Mỹ> món ăn dọn cho một người thêm vào món ăn chính và trên một đựa riêng
+ @Side payments
+- (Econ) Các khoản trả thêm.
+: Những trao đổi giữa các cá nhân trong một nhóm nhằm mục đích khuyến khích thực hiện bổn phận cho một hoặc nhiều mục tiêu chung.
+ @side-arms  
+*  dt số nhiều
+- vũ khí đeo cạnh sườn (gươm, lưỡi lê, dao găm, súng lục...)
+
+@side-bet  
+*  dt
+- cược phụ, cược riêng
+
+@sideboard  
+*  dt
+- tủ búp phê, tủ đựng bát đĩa
+- ván cạnh, ván bên
+
++ the sideboards of a waggon: những tấm ván bên của toa xe
+- (số nhiều) (từ lóng) tóc mai dài
+
+@sidebone
+* dt
+- xương chậu
+ @sideburns  
+*  dt số nhiều
+- tóc mai dài
+
+@side-car   (jaunting-car) @side-chapel  
+*  dt
+- nhà thờ phụ; miếu thờ
+
+@sided
+* tt
+- (trong tt ghép) có một số hoặc loại cạnh được nói rõ
+ @side-dish  
+*  dt
+- món ăn thêm (thường là một món đặc biệt)
+
+@side-door
+* dt
+- cửa phụ
+ @side-dress
+* ngdgt
+- bón phân cạnh rễ cây
+* dt
+- bón phân cạnh rễ cây
+- cách bón phân cạnh rễ cây
+ @side-drum  
+*  dt
+- trống đeo (đeo cạnh sườn mà đánh)
+
+@side-effect
+* dt, pl
+- tác dụng, tác động thứ yếu (thường khó chịu hoặc không muốn có, của một thứ thuốc )
+ @side-glance
+* dt
+- cái nhìn nghiêng
+ @side-hill
+* dt
+- sườn đồi
+ @side-issue
+* dt
+- vấn đề phụ (vấn đề kém quan trọng hơn vấn đề chính)
+ @side-kick  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) bạn nối khố, bạn tri kỷ
+- người cộng tác, người đồng mưu
+
+@sidekick
+* dt
+- (từ Mỹ,nghĩa Mỹ) (thông tục) bạn nối khố; bạn tri kỷ; người cộng tác, người đồng mưu
+ @sidelight  
+*  dt
+- (sân khấu) ánh sáng bên, đèn bên (từ hai bên cánh gà trên sân khấu)
+- thí dụ phụ; sự minh hoạ phụ
+- (hàng hải) đèn hiệu (đèn đỏ ở bên trái hay đèn xanh ở bên phải tàu, để báo hiệu lúc đi đêm)
+
+@side-line  
+*  dt
+- (thể dục,thể thao) đường biên
+- (số nhiều) khu vực ngoài đường biên (cho khán giả ngồi)
+- đường phụ, đường nhánh (đường sắt, đường ống dẫn...)
+- nghề phụ, nghề tay trái
+
+@sideline  
+*  ngdgt
+- cho ra ngoài, cho ra ngoài lề (không được tham gia vào cuộc đấu...)
+
++ he was sidelined by his injury: anh ấy bị thương phải cho ra ngoài
+
+@sideling  
+*  tt
+- nghiêng, xiên về một bên
+- không thẳng thắn, lén lút
+
++ a sideling approach: sự lén lút đến gần
+
+@sidelong  
+*  tt
+- ở bên; xiên về phía bên
+- lé
+
++ to cast a sidelong glance at someone: lé nhìn người nào, liếc trộm người nào
+- cạnh khoé; bóng gió
+
++ a sidelong remark: lời nhận xét bóng gió, lời nói cạnh
+*  dt
+- ở bên, xiên về phía bên
+
++ to move sidelong: đi xiên
+
+@sideman
+* dt
+- người trong đoàn nhạc nhưng ở phía ngoài
+ @side-note  
+*  dt
+- lời chú giải ở lề
+
+@side-on
+* dt
+- sườn, hông; với bên cạnh của cái gì hướng về cái gì khác
+ @sidepiece
+* dt
+- bộ phận ở bên cạnh
+ @sider-
+- hình thái ghép
+- sắt
+
++  siderography:thuật khắc trên sắt
+ @sidereal  
+*  tt
+- (thuộc) sao
+- thiên văn
+
++ sidereal day: ngày thiên văn
+
++ sidereal year: năm thiên văn
+
+@sidereal
+- (thiên văn) vũ trụ; (thuộc) sao, tinh tú
+ @sidero-
+- xem sider-
+ @side-road
+* dt
+- đường phụ
+ @siderography  
+*  dt
+- thuật khắc (trên) sắt, thuật khắc (trên) thép
+
+@siderolite
+* dt
+- (khoáng vật học) vân thạch
+ @siderosis  
+*  dt
+- (y học) chứng nhiễm sắt
+
+@side-saddle  
+*  dt
+- yên ngồi nghiêng (cho đàn bà; ngồi cả hai chân về cùng bên mình ngựa)
+
+@side-show  
+*  dt
+- cuộc biểu diễn phụ
+- sự kiện phụ, sự kiện thứ yếu
+
+@side-slip  
+*  dt
+- sự trượt sang một bên
+- (hàng không) sự lượn nghiên
+- mầm cây
+- con hoang
+- (sân khấu) cánh gà sân khấu (nơi kéo phông, kéo màn...)
+*  ndgt
+- trượt sang một bên, dịch sang một bên
+
+@side-slitting  
+*  tt
+- làm cười vỡ bụng (chuyện...)
+
+@sidesman
+* dt
+- số nhiều sidesmen
+- phụ tá của hội đồng giáo xứ
+ @sidespin
+* dt
+- vận động quay tròn của quả bóng quanh trục
+ @side-splitter  
+*  dt
+- chuyện tức cười, chuyện làm cười vỡ bụng
+
+@side-splitting
+* tt
+- làm cho cười nắc nẻ
+ @side-step  
+*  dt
+- sự bước ngang, sự bước sang một bên; sự tránh sang bên
+- bậc xe (ở bên hông xe)
+*  ngdgt
+- tránh sang bên, né (đen & bóng)
+
++ to side-step a difficulty: tránh một sự khó khăn
+
+@side-strack  
+*  dt
+- đường tàu tránh
+!to get on to a side-track
+- ra ngoài đề, lạc đề
+*  ngdgt
+- cho (xe lửa) vào đường tránh; tránh
+- làm sai đi, làm lạc đi, làm trệch đi, đi trệch
+
++ to side-strack attention: đánh lại sự chú ý; làm lãng trí
+- hoãn lại không xét, hoãn lại không giải quyết
+
+@side-street
+* dt
+- con phố ngang (phố nhỏ bắt vào một phố lớn)
+ @side-stroke  
+*  dt
+- cú đánh vào mạng sườn
+- tai nạn bất ngờ
+- kiểu bơi nghiêng
+
+@side-swipe
+* dt
+- <Mỹ> đòn đánh gián tiếp bên cạnh cái gì
+- <Mỹ>  <thgt> sự nói cạnh
+ @side-track
+* ngdgt
+- đánh lạc hướng, đánh trống lảng, đi sai đường
+ @side-view  
+*  dt
+- hình trông nghiêng
+
+@sidewalk  
+*  dt
+- vỉa hè, lề đường
+
+@sideward  
+*  tt
+- về một bên; về một phía
+
++ sideward motion: sự di chuyển về một phía
+
+@sidewards  
+*  dt
+- về một bên; về một phía
+
++ to move sidewards: di chuyền về một phía
+
+@sideways   (sidewise) @side-wheeler  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) tàu guồng
+
+@side-whiskers  
+*  dt số nhiều
+- tóc mai dài
+
+@side-wind  
+*  dt
+- gió tạt ngang
+- ảnh hưởng gián tiếp, nguồn giáp tiếp
+
++ the announcement reached us by a side-wind: lời công bố đó đến tai chúng tôi do một nguồn gián tiếp
+
+@side-winder  
+*  dt
+- (động vật học) rắn chuông
+- (thông tục) cú đánh móc lên
+
+@sidewinpe
+- (Mỹ) cú đánh vào bên hông
+- (khẩu ngữ) lời nói cạnh
+ @sidewise   (sidewise) @siding  
+*  dt
+- đường tàu tránh
+- (từ Mỹ,nghĩa Mỹ) lớp ván gỗ ngoài giàn khung
+
+@sidle  
+*  ndgt
+- rụt rè đi chéo, khúm núm đi xiên, len lén đi xiên
+
+@sids
+* (viết tắt)
+- triệu chứng đột tử ở trẻ em (sudden  infant  death  syndrome)
+- viết tắt
+- triệu chứng đột tử ở trẻ em (sudden  infant  death  syndrome)
+ @sidy  
+*  tt
+- làm bộ, lên mặt, huênh hoang
+
+@siege  
+*  dt
+- sự bao vây, sự vây hãm
+
++ to lay siege to: bao vây
+
++ to stand a long siege: chịu đựng một cuộc vây hãm lâu ngày
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) thời kỳ khó khăn lâu dài, thời kỳ o bế lâu dài
+
++ a siege of illness: thời kỳ ốm đau lâu dài
+*  ngdgt
+- (từ cổ,nghĩa cổ) bao vây, vây hãm
+
+@siege-basket  
+*  dt
+- sọt đựng đất (để đắp luỹ)
+
+@siege-economy
+* dt
+- chế độ kinh tế tự túc (hạn chế nhập khẩu)
+ @siege-gun
+* dt
+- súng công thành
+ @siege-train  
+*  dt
+- (sử học) phương tiện vây hãm (pháo và các thứ vũ khí, dụng cụ khác dùng trong việc vây hãm)
+
+@siege-works  
+*  dt số nhiều
+- công sự vây hãm (của đội quân vây hãm)
+
+@siemens
+* dt
+- đơn vị đo độ dẫn điện (xi men)
+ @sienna  
+*  dt
+- đất xiena (loại đất màu hung đỏ để pha bột sơn, mực vẽ)
+- bột màu xiena
+- màu đất xiena, màu hung đỏ
+
+@sierra  
+*  dt
+- dãy núi lởm chởm
+- (động vật học) cá thu Tây ban nha
+
+@siesta  
+*  dt
+- giấc ngủ trưa
+
+@sieve  
+*  dt
+- cái giần, cái sàng, cái rây
+- người hay ba hoa; người hay hở chuyện
+*  ngdgt
+- giần, sàng, rây
+
+@sieve
+- sàng
+- s. of Eratoshenes sàng Eratoxten 
+ @sievebone
+* dt
+- xương sàng
+ @sift  
+*  dgt
+- giần, sàng, rây
+- rắc
+
++ to sift sugar over a cake: rắc đường lên bánh
+- xem xét, chọn lọc (sự kiện về mặt chính xác, thật hư); phân tích tính chất của
+- rơi lấm tấm như bột rây (mưa, tuyết)
+
+@sifter  
+*  dt
+- người sàng, người rây
+- máy sàng, máy rây
+
+@siftings  
+*  dt số nhiều
+- phần sảy ra (như sạn, trấu...)
+
+@sig
+- nhóm quan tâm đặc biệt
+ @sigh  
+*  dt
+- tiếng thở dài
+
++ a sigh of relief: tiếng thở dài nhẹ nhõm, tiếng thở dài khoan khoái
+*  dgt
+- thở dài
+- ước ao, khát khao
+
++ to sigh for something: khát khao cái gì
+
++ to sigh for somebody: luyến tiếc ai
+- rì rào
+
++ trees sighing in the wind: cây rì rào trong gió
+
+@sighing  
+*  tt
+- thở dài sườn sượt
+- rì rào
+
+@sight  
+*  dt
+- sự nhìn, thị lực
+
++ long sight: tật viễn thị
+
++ near sight: tật cận thị
+
++ loss of sight: sự mù, sự loà
+- sự nhìn, sự trông; cách nhìn
+
++ to catch sight of somebody: nhìn thấy ai
+
++ to translate at sight: nhìn và dịch ngay
+
++ do what is right in your own sight: hãy làm điều anh cho làm phải
+- tầm nhìn
+
++ victory out of sight: lẫn mất
+
++ to put something out of sight: giấu cất vật gì; lờ cái gì đi
+
++ out of my sight!: cút đi cho rãnh mắt!, cút đi cho khuất mắt!
+- cảnh, cảnh tượng, cảnh đẹp; cuộc biểu diễn; sự trưng bày
+
++ a soses are a sight to see: những bông hồng này trông thật đẹp mắt
+- (thông tục) số lượng nhiều
+
++ it will cost a sight of money: cái đó sẽ tốn khối tiền
+- sự ngắm; máy ngắm (ở súng...)
+
++ to take a careful sight before firing: ngắm cẩn thận trước khi bắn
+
++ line of sight: đường ngắm
+!to heave in sight
+- (xem) heave
+!to make a sight of oneself
+- ăn mặc lố lăng
+!out of sight out of mind
+- xa mặt cách lòng
+!a sight for sore eyes
+- (xem) sore
+!to take a sight at (of)
+- (từ lóng) vẫy mũi chế giễu
+*  ngdgt
+- thấy, trông thấy, nhìn thấy
+- quan sát, chiêm nghiệm, trắc nghiệm (hành tinh)
+- ngắm (súng)
+- lắp máy ngắm (vào súng...)
+
+@sight
+- sự nhìn, điểm nhìn
+ @Sight deposits
+- (Econ) Tiền gửi vô kỳ hạn.
+: Những khoản tiền gửi tại các ngân hàng và những thể chế nhận tiền gửi tương tự có thể chuyển đổi sang séc hoặc có thể rút bằng tiền mặt mà không cần báo trước.
+ @sight reading  
+*  dt
+- sự trông vào bản nhạc mà hát được ngay, sự trông vào bản nhạc mà biểu diễn được ngay; tài trông vào bản nhạc mà hát được ngay, tài trông vào bản nhạc mà biểu diễn được ngay
+
+@sight-axis
+* dt
+- trục ngắm; đường ngắm
+ @sight-bill
+* dt
+- hoá đơn trả ngay khi thấy
+ @sight-distance
+* dt
+- tầm ngắm
+ @sighted
+* tt
+- có thể nhìn thấy; không mù
+- (trong tt ghép) có loại thị lực như thế nào đó
+ @sight-glass
+* dt
+- kính ngắm
+ @sighthole  
+*  dt
+- lỗ ngắm, lỗ nhìn
+
+@sight-hole
+* dt
+- lỗ ngắm
+ @sighting
+* dt
+- sự trông thấy; sự bị trông thấy
+ @sighting shot  
+*  dt
+- phát bắn thử
+
+@sightless  
+*  tt
+- đui, mù, loà
+- (thơ ca) vô hình
+
+@sightliness  
+*  dt
+- vẻ đẹp, sắc đẹp; sự đẹp
+
+@sightly  
+*  tt
+- đẹp mắt, dễ trông; trông dễ thương
+
+@sight-read
+* ngdgt
+- chơi hoặc hát (một bản nhạc) mà không cần nghiên cứu hoặc học tập trước
+ @sight-screen
+* dt
+- bảng nhìn (cấu trúc trắng, to, có thể di chuyển được, đặt ở đầu hoặc cuối bãi chơi để giúp cho người cầm chày nhìn thấy quả bóng trong môn cricket)
+ @sightsee
+* ndgt
+- tham quan; du lãm
+ @sightseeing  
+*  dt
+- sự đi tham quan
+- cuộc tham quan
+
+@sightseer  
+*  dt
+- người đi tham quan
+
+@sight-unseen
+* dt
+- không hề xem trước
+
++  he bought the car sight-unseen:anh ta mua chiếc ô tô không hề xem trước
+ @sightworthy  
+*  tt
+- đáng xem, nên xem
+
+@sigil
+* dt
+- (từ cổ nghĩa cổ) con dấu
+ @sigillate  
+*  tt
+- có in hoa, có in hình (đồ gốm)
+- (thực vật học) có vết như đóng dấu, có ấn
+
+@sigillography
+* dt
+- ấn chương học
+ @sigma  
+*  dt
+- Xichma (chữ cái Hy lạp)
+
+@sigma
+- xicma (&#963;)
+ @sigma-additive &#963;
+- - cộng tính
+ @sigma-field &#963;
+- - trường
+ @sigma-function &#963;
+- - hàm
+ @sigmate  
+*  tt
+- hình xichma, hình S
+*  ngdgt
+- thêm xichma vào, thêm s vào
+
+@sigmation  
+*  dt
+- sự thêm xichma vào, sự thêm s vào
+
+@sigmoid  
+*  tt
+- (giải phẫu) hình xichma
+
+@sigmoid
+- đường xicmoit
+ @sign  
+*  dt
+- dấu, dấu hiệu, ký hiệu; mật hiệu
+
++ sign of the cross: dấu thánh giá
+
++ chemical sign: ký hiệu hoá học
+
++ to talk by signs: nói bằng hiệu
+
++ the signs and the countersigns: hiệu hỏi và hiệu đáp, mật hiệu (của một tổ chức)
+- dấu hiệu biểu hiện, biểu hiện, tượng trưng, điểm
+
++ signs of the times: dấu hiệu biểu hiện xu hướng của tình hình
+
++ violence is a signof weakness: bạo lực là biểu hiến sự yếu
+
++ to give a book in sign of friendship: tặng một quyển sách để thể hiện tình hữu nghị
+- (y học) triệu chứng
+- dấu vết (thú săn...)
+- biển hàng
+- ước hiệu
+
++ deaf-and-dumb signs: ước hiệu của người câm điếc
+!to do sings and wonders
+- gọi gió làm mưa, hô phong hoán vũ
+!to make no sign
+- đường như là chết
+- không phản ứng gì
+*  dgt
+- đánh dấu; (tôn giáo) làm dấu
+- ký tên, viết ký hiệu, viết dấu hiệu
+
++ to sign a contract: ký một hợp đồng
+
++ he signs au usual with a red star: anh ấy vẫn thường vẽ một ngôi sao đỏ làm ký hiệu
+- ra hiệu, làm hiệu
+
++ to sign assent: ra hiệu đồng ý
+
++ to sign to someone to do something: ra hiệu cho ai làm việc gì
+!to sign away
+- nhường (tài sản cho ai) bằng chứng thư
+!to sign on
+- ký giao kỳ làm gì (cho ai); đưa giao kèo cho (ai) ký nhận làm gì cho mình
+!to sign off
+- ngừng (phát thanh)
+- (thông tục) ngừng nói, thoi nói chuyện
+!to sign up (Mỹ)
+- (như) to sign on
+- đăng tên nhập ngũ
+
+@sign
+- dấu, dấu hiệu
+- s.s of aggregation các dấu kết hợp
+- s. of equality dẩu đẳng thức 
+- s.s of the zodiac (thiên văn) dấu hiệu hoàng đới
+- algebraic s. dấu đại số
+- cardinal s.s các dấu hiệu chính của hoàng đới
+- negative s. dấu âm
+- positive s. dấu dương
+- product s. dấu nhân
+- radical s. dấu căn
+- summation s. dấu tổng 
+ @signable
+* tt
+- có thể ký tên
+ @signal  
+*  dt
+- dấu hiệu, tín hiệu; hiệu lệnh
+
++ signals are made by day with flags and by night with lights: ban ngày tín hiệu đánh bằng cờ, ban đêm bằng đèn
+
++ to give the signal for advance: ra hiệu tiến lên
+
++ signalof distress: tính hiệu báo lâm nguy
+*  tt
+- đang kể, đáng chú ý, nổi tiếng; gương mẫu; nghiêm minh
+
++ signal virtue: đạo đức gương mẫu
+
++ signal punishment: sự trừng phạt nghiêm minh
+- dùng làm dấu hiệu, để ra hiệu
+*  ngdgt
+- ra hiệu, báo hiệu; chuyển (tin tức, lệnh) bằng tính hiệu
+
++ to signal to someone to stop: ra hiệu cho ai dừng lại
+
+@signal
+- tín hiệu
+- carry initiating s. tín hiệu chuyển ban đầu
+- coded s. tín hiệu mã hoá
+- correcting s. tín hiệu sửa chữa
+- cut-off s. tín hiệu tắt
+- delayed s. tín hiệu trễ
+- emergency s. tín hiệu hỏng
+- error s. tín hiệu sai
+- feedback s. tín hiệu liên hệ ngược
+- gating s. tín hiệu đảo mạch
+- incoming s. (điều khiển học) tín hiệu vào
+- inhibit s. (điều khiển học) tín hiệu cấm
+- interleaved s. tín hiệu đan nhau
+- modulating s. (điều khiển học) tín hiệu biến điệu
+- monitor s. (điều khiển học) tín hiệu kiểm tra 
+- pilot s. (điều khiển học) tín hiệu [điều khiển, kiểm tra]
+- quantized s. tín hiệu lượng tử hoá 
+ @signal corps  
+*  dt
+- (quân sự) binh chủng thông tin
+
+@signal-book  
+*  dt
+- (quân sự); (hàng hải) cẩm nang tín hiệu ((cũng) code of signals)
+
+@signal-box  
+*  dt
+- hộp đèn tín hiệu (trên đường xe lửa)
+
+@signalement  
+*  dt
+- dấu hiệu nhận dạng (người bị công an truy nã...)
+
+@signaler
+- người ra hiệu; người đánh tín hiệu (nhất là một quân nhân được huấn luyện đặc biệt cho mục đích đó)
+ @signal-fire
+* dt
+- lửa hiệu
+ @signal-flag
+* dt
+- cờ hiệu
+ @signal-gun  
+*  dt
+- (quân sự) tiếng súng hiệu
+
+@Signaling and screening
+- (Econ) Phát tín hiệu và sàng lọc.
+ @signalise   (signalize) @signalize
+* ngdgt
+- làm cho được chú ý, làm nổi bật; đề cao
+ @signalize
+- đánh tín hiệu
+ @signal-lamp
+* dt
+- đèn hiệu
+ @signaller  
+*  dt
+- người ra hiệu; người đánh tín hiệu
+
+@signalling
+- sự tín hiệu hoá, sự báo hiệu
+- remote s. sự báo hiệu từ xa 
+ @signally  
+*  dt
+- đáng kể, đáng chú ý; gương mẫu; nghiêm minh
+
+@signal-man  
+*  dt
+- người đánh tín hiệu
+
+@signalman
+* dt
+- số nhiều signalmen
+- người điều khiển tín hiệu trên một đường xe lửa; người đánh tín hiệu
+ @signal-men
+* dt
+- người điều khiển tính hiệu trên một đường xe lửa
+- người đánh tín hiệu
+ @signalmen
+* dt số nhiều của signalman
+- xem signalman
+ @signalment
+* dt
+- dấu hiệu nhận dạng (người bị công an truy nã...)
+ @signal-post
+* dt
+- cột tín hiệu
+ @signal-station  
+*  dt
+- đài tín hiệu
+
+@signatory  
+*  tt
+- đã ký hiệp ước (nước...)
+*  dt
+- bên ký kết, nước ký kết
+
++ the signatories to the Geneva Agreements: các nước ký hiệp định Giơ-ne-vơ
+
+@signature  
+*  dt
+- chữ ký
+
++ to put one's signature to a letter: kỹ tên vào một bức thư
+- (âm nhạc) chìa (khoá) ((thường) key signature)
+- (rađiô) (signature tune) điệu nhạc dạo đầu
+- (ngành in) ký hiệu trang (để đóng sách cho đúng số trang)
+- (từ cổ,nghĩa cổ) vẻ, dấu hiệu
+
++ the signature of intelligence: vẻ thông minh
+
+@signature
+- (đại số) ký số
+- s. of a quadratic form ký số của một dạng toàn phương 
+ @signature tune
+* dt
+- <nhạc> nhạc hiệu, nhạc dạo đầu
+ @signboard  
+*  dt
+- biển hàng, biển quảng cáo
+
+@signed
+- có dấu
+ @signer  
+*  dt
+- người ký kết, bên ký kết
+
+@signet  
+*  dt
+- ấn, dấu
+
+@signet ring
+* dt
+- nhẫn có khắc hình trên đó, xưa kia dùng làm ấn, dấu riêng
+ @significance  
+*  dt
+- ý nghĩa
+
++ a look of deep significance: cái nhìn đầy ý nghĩa
+- sự quan trọng, sự đáng chú ý
+
++ event of great significance: một sự kiện có tầm quan trọng lớn
+
++ to attach significance to something: coi trọng cái gì
+
+@significance
+- sự có nghĩa, ý nghĩa
+ @Significance of coefficients
+- (Econ) Mức độ có thống kê của hệ số.
+ @significant  
+*  tt
+- đầy ý nghĩa, có tính chất gợi ý
+- quan trọng, trọng đại, đáng chú ý
+
+@significant
+- có nghĩa, có ỹ nghĩa, đáng kể
+ @significantly
+* dt
+- theo một cách truyền đạt có ý nghĩa đặc biệt
+- đáng kể; tới một mức độ quan trọng, tới một mức độ to lớn
+ @signification  
+*  dt
+- nghĩa, ý nghĩa
+- (từ hiếm,nghĩa hiếm) sự biểu thị, sự biểu hiện
+- (từ hiếm,nghĩa hiếm) sự ra hiệu
+
+@signification
+- ý nghĩa
+ @significative  
+*  tt
+- có ý nghĩa; chứng tỏ
+
++ an attitude significative of willingness: thái độ chứng tỏ sự tự nguyện
+
+@signify  
+*  dgt
+- biểu thị, biểu hiện; báo hiệu
+- nghĩa là, có nghĩa
+- tuyên bố, báo cho biết
+
++ he signified his willingness to cooperate: anh ấy tuyên bố đồng ý hợp tác
+- có tầm quan trọng hệ trọng ((thường) phủ định)
+
++ it does not signify: chuyện ấy không quan trọng
+
+@signify
+- có nghĩa là
+ @signing
+* dt
+- việc dùng cử chỉ để nói với người điếc
+ @signiory
+* dt
+- xem seigneury
+ @sign-language  
+*  dt
+- ngôn ngữ ước hiệu
+
+@signle-fire  
+*  tt
+- bắn phát một (đạn)
+
+@signless
+- không có dấu
+ @signor  
+*  dt
+- ông, ngài (người Y)
+
+@signora  
+*  dt
+- bà, phu nhân (người Y)
+
+@signore
+* dt
+- số nhiều signori
+- dùng trong lời nói không dùng trong chữ viết để nói trực tiếp với đàn ông Italia
+ @signori
+* dt
+- xinho; ông, ngài (tiếng Y)
+ @signorina  
+*  dt
+- cô, tiểu thư (người Y)
+
+@sign-painter   (sign-writer) @signpost  
+*  dt
+- biển chỉ đường
+
+@signum
+- xicnum, dấu
+ @sign-writer   (sign-writer) @sikh
+* dt
+- người theo đạo Sikh <tôn> phát triển từ Ân độ giáo vào (thế kỷ) 16 và dựa trên tín ngưỡng chỉ một Thần
+ @sikhism
+* dt
+- người theo đạo Sikh <tôn> phát triển từ Ân độ giáo vào (thế kỷ) 16 và dựa trên tín ngưỡng chỉ một Thần
+ @silage   (silage) @silence  
+*  dt
+- sự lặng thinh, sự nín lặng
+
++ silence gives consent: làm thinh là tình đã thuận
+
++ to suffer in silence: chịu đau khổ âm thầm
+
++ to put somebody to silence: bắt ai nín thinh; bác bỏ lý lẻ của ai;
+
++ silence!: đề nghị yên lặng!
+- tính trầm lặng
+- sự im hơi lặng tiếng
+
++ after five years' silence: sau năm năm im hơi lặng tiếng
+- sự lãng quên
+
++ to pass into silence: bị lãng quên, bị bỏ qua
+- sự yên lặng, sự yên tĩnh, sự tĩnh mịch
+
++ the silence of the night: sự tĩnh mịch của đêm khuya
+*  ngdgt
+- bắt phải im, bắt phải câm họng
+
++ to silence the enemy's batteries: bắt pháo địch phải câm họng
+
++ to silence the best debaters: làm cho những vị tranh luận cừ khôi nhất cũng phải cứng họng
+
+@silencer  
+*  dt
+- (kỹ thuật) bộ giảm âm
+- (âm nhạc) cái chặn tiếng
+
+@silent  
+*  tt
+- không nói, ít nói, làm thinh
+
++ the report is silent on that point: bản báo cáo không nói gì về điểm đó
+
++ a silent man: người ít nói
+
++ to keep silent: cứ làm thinh
+- yên lặng, yên tĩnh, tĩnh mịch, thanh vắng
+
++ silent night: đêm thanh vắng
+- câm, không nói
+
++ silentletter: chữ câm
+
++ silent film: phim câm
+
+@silent film
+* dt
+- phim câm
+ @silent partner
+- người cộng tác đầu tư vào một công ty kinh doanh nhưng không làm việc thật sự ở đó
+ @silently  
+*  dt
+- yên lặng, âm thầm
+
+@silesia  
+*  dt
+- vải xilêzi (thứ vải mỏng để viền và làm màn cửa)
+
+@silex  
+*  dt
+- đá lửa
+
+@silhouette  
+*  dt
+- bóng, hình bóng
+*  ngdgt
+- in bóng, rọi bóng; vẽ hình bóng trông nghiêng, rọi bóng trông nghiêng
+
+@silica  
+*  dt
+- (hoá học) Silic đioxyt
+
+@silicate  
+*  dt
+- Silicat
+
+@silicated  
+*  tt
+- có silic đioxyt
+
+@siliceous   (silicic) @silicic   (silicic) @siliciferous   (silicic) @silicification  
+*  dt
+- sự thấm silic đioxyt
+- sự hoá thành silic đioxyt, sự hoá đá
+
+@silicify  
+*  dgt
+- thấm silic đioxyt
+- hoá thành silic đioxyt, hoá đá
+
+@silicious   (silicic) @silicle
+* dt
+- (thực vật học) quả cải
+ @silicon  
+*  dt
+- (hoá học) silic
+
+@silicon chip
+* dt
+- microchip làm bằng silic, dùng để chế tạo một tổ hợp vi mạch
+ @silicone  
+*  dt
+- (hoá học) silicon
+
+@silicosis  
+*  dt
+- (y học) bệnh nhiễm bụi silic
+
+@silicotic  
+*  tt
+- (y học) (thuộc) bệnh nhiễm bụi silic
+
+@silicula
+* dt
+- xem silicle
+ @silique  
+*  dt
+- (thực vật học) quả cải
+
+@siliquose   (siliquous) @siliquous   (siliquous) @silk  
+*  dt
+- tơ, chỉ tơ
+- tơ nhện
+- lụa
+- (số nhiều) quần áo lụa
+- (thông tục) luật sư hoàng gia (Anh)
+
++ to take silk: được phong làm luật sư hoàng gia
+- nước ngọc (độ óng ánh của ngọc)
+- (định ngữ) (bằng) tơ
+
++ silk stockings: bít tất tơ
+!to hit the silk
+- (từ Mỹ,nghĩa Mỹ),  (quân sự),  (từ lóng) nhảy dù ra khỏi máy bay
+!to make a silk purse out of a sow's ear
+- ít bột vẫn gột nên hồ
+
+@silkalene   (silkaline) @silkaline   (silkaline) @silk-cotton  
+*  dt
+- bông gòn (dùng để làm nệm, làm gối)
+
+@silk-cotton tree  
+*  dt
+- (thực vật học) cây bông gòn
+
+@silk-creen printing  
+*  dt
+- thuật in giấy nến
+
+@silken  
+*  tt
+- mặt quần áo lụa
+- mượt, óng ánh (như tơ)
+- ngọt xớt (lời nói...)
+- (từ cổ,nghĩa cổ),  (thơ ca) bằng lụa, bằng tơ
+
+@silkfish
+* dt
+- cá đao
+ @silk-fowl  
+*  tt
+- giống gà lụa (có lông mượt như tơ lụa)
+
+@silk-gland  
+*  dt
+- (động vật học) tuyến tơ (ở con tằm...)
+
+@silk-growing
+* dt
+- nghề nuôi tằm
+ @silkiness  
+*  dt
+- tính mượt, tính óng ánh (như tơ)
+- tính ngọt xớt (lời nói...)
+
+@silkman
+* dt
+- người bán tơ, lụa
+ @silk-mill  
+*  dt
+- nhà máy tơ
+
+@silkmoth
+* dt
+- con tằm
+ @silk-reel   (silk-winder) @silk-screen
+* dt
+- kỹ thuật in lụa
+* dgt
+- in bằng kỹ thuật in lụa
+ @silk-seed
+* dt
+- trứng tằm
+ @silk-stocking  
+*  tt (từ Mỹ,nghĩa Mỹ)
+- diện, ăn mặc lịch sự, ăn mặc đúng mốt
+- giàu sang; quý tộc
+*  dt
+- người thuộc tầng lớp giàu sang; người quý tộc
+
+@silk-winder   (silk-winder) @silkworm  
+*  dt
+- (động vật học) con tằm
+
+@silky  
+*  tt
+- mượt, óng ánh (như tơ)
+- ngọt xớt (lời nói...)
+
+@sill  
+*  dt
+- ngưỡng cửa
+
+@sillabub   (syllabub) @siller  
+*  dt
+- (Ê-cốt) bạc
+- tiền
+
+@sillily  
+*  dt
+- ngờ nghệch, ngớ ngẩn, khờ dại
+
+@silliness  
+*  dt
+- tính ngờ nghệch, tính ngớ ngẩn, tính khờ dại
+
+@silly  
+*  tt
+- ngờ nghệch, ngớ ngẩn, khờ dại
+
++ to say silly things: nói điều ngớ ngẩn
+- choáng váng, mê mẩn
+
++ to knock somebody silly: đánh ai choáng váng
+
++ to go silly over a woman: quá say mê một người đàn bà
+- (từ cổ,nghĩa cổ) ngây thơ; đơn giản, giản dị; yếu đuối
+!the silly season
+- mùa bàn chuyện dớ dẩn (vào tháng 8, tháng 9, lúc báo chí thiếu tin phải bàn chuyện dớ dẩn)
+*  dt
+- (thông tục) người ngờ nghệch, người ngớ ngẩn, người khờ dại
+
+@silly-billy
+* dt
+- người ngốc nghếch
+ @silo  
+*  dt
+- xilô (hầm ủ tươi thức ăn cho vật nuôi)
+*  ngdgt
+- ủ (vào) xilô (thức ăn cho vật nuôi)
+
+@silt  
+*  dt
+- bùn, phù sa (ở hải cảng, ở cửa sông...)
+*  ndgt
+- nghẽn bùn, đầy bùn
+
++ the passage has silted up: lối đi đã nghẽn bùn
+*  ngdgt
+- làm đầy bùn, làm ngẽn bùn
+
+@siltation
+* dt
+- sự lắng bùn, sự đọng bùn
+ @silted
+* tt
+- bị đọng bùn
+ @silting
+* dt
+- sự lắng bùn
+ @silty  
+*  tt
+- như bùn; đầy bùn, nghẽn bùn
+
+@silumin
+* dt
+- silumin; hợp kim nhôm-silic
+ @silurian  
+*  tt
+- (địa lý,địa chất) (thuộc) kỷ silua
+*  dt
+- kỷ silua
+
+@silva
+* dt
+- rừng; thảm rừng
+ @silvan   (sylvan) @silver  
+*  dt
+- bạc
+- đồng tiền
+- đồ dùng bằng bạc
+- muối bạc (dùng trong nghề ảnh)
+- màu bạc
+*  tt
+- bằng bạc
+
++ a silver spoon: cái thìa bằng bạc
+- loại nhì, loại tốt thứ nhì
+
++ speech is silver but silence is golden: im lặng tốt hơn là nói
+- trắng như bạc, óng ánh như bạc; trong như tiếng bạc (tiếng)
+
++ silver hair: tóc bạc
+
++ to have a silver tone: có giọng trong
+- hùng hồn, hùng biện
+
++ to have a silver tongue: có tài hùng biện
+!every cloud has a silver lining
+- trong sự rủi vẫn có điều may
+!the silver streak
+- (xem) streak
+*  ngdgt
+- mạ bạc; bịt bạc
+- tráng thuỷ (vào gương)
+- làm cho (tóc...) bạc; nhuốm bác
+*  ndgt
+- óng ánh như bạc (trăng, ánh sáng)
+- bạc đi (tóc)
+
+@silver birch
+* dt
+- cây bạch dương
+ @silver foil  
+*  dt
+- lá bạc
+
+@silver fox  
+*  dt
+- (động vật học) cáo xám bạc
+
+@silver gilt  
+*  tt
+- bằng bạc mạ vàng
+
+@silver jubilee
+* dt
+- lễ kỷ niệm lần thứ 25
+ @silver leaf  
+*  dt
+- lá bạc
+
+@silver paper  
+*  dt
+- giấy lụa trắng
+- (thông tục) giấy bạc (thực ra là giấy thiếc, để gói kẹo, thuốc lá...)
+
+@silver plate  
+*  dt
+- bộ đồ ăn bằng bạc (thìa, dao, nĩa...)
+
+@silver print  
+*  dt
+- (nhiếp ảnh) bản dương tráng muối bạc
+
+@silver sand  
+*  dt
+- cát mịn
+
+@silver screen  
+*  dt
+- màn bạc
+- the silver_screen phim xi-nê (nói chung)
+
+@silver solder  
+*  dt
+- hợp kim (để) hàn bạc
+
+@silver standard  
+*  dt
+- bản vị bạc (hệ thống tiền tệ)
+
+@silver wedding  
+*  dt
+- lễ ngân hôn (kỷ niệm hai mươi lăm năm ngày cưới)
+
+@silver-bath  
+*  dt
+- dung dịch bạc nitrat
+- khay đựng dung dịch bạc nitrat (dùng trong nghề ảnh)
+
+@silver-berry  
+*  dt
+- (thực vật học) cây nhót bạc
+
+@silver-fish
+* dt
+- con bọ bạc, con nhậy (loại côn trùng nhỏ có cánh trắng như bạc, ăn các mảnh thức ăn vụn, bìa sách )
+ @silver-grey  
+*  tt
+- xám bạc
+
+@silver-haired  
+*  tt
+- có tóc bạc, bạc đầu
+
+@silveriness  
+*  dt
+- tính chất bạc; tính óng ánh như bạc
+- tính trong như tiếng bạc (tiếng)
+
+@silverless
+* tt
+- không có tiền; nghèo khổ
+ @silverly
+* tt
+- như bạc; giọng trong trẻo
+ @silvern
+* tt
+- bằng bạc; giống bạc
+ @silver-paper
+* dt
+- <thgt> giấy bạc (giấy thiết hoặc nhôm rất mỏng, nhẹ; nhất là dùng để gió thuốc lá, sôcôla )
+- giấy lụa trắng
+ @silver-plate  
+*  ngdgt
+- mạ bạc; bịt bạc
+
+@silver-plated
+* tt
+- bằng bạc, được mạ bạc
+ @silverside  
+*  dt
+- phần ngon nhất của thăn bò
+
+@silver-sides
+* dt
+- cá suốt
+ @silversmith  
+*  dt
+- thợ bạc
+
+@silver-stick  
+*  dt
+- sĩ quan hộ vệ
+
+@silver-tongued  
+*  tt
+- hùng biện; hùng hồn
+
+@silverware
+* dt
+- đồ làm bằng bạc
+ @silver-work  
+*  dt
+- nghề làm đồ bạc
+
+@silvery  
+*  tt
+- bạc, như bạc, óng ánh như bạc
+- trong như tiếng bạc (tiếng)
+- phủ bạc; có bạc
+
+@silvicolous
+* tt
+* tt
+- sống ở rừng
+ @silvics
+* dt
+- số nhiều
+- lâm học
+ @silvicultural
+* tt
+- thuộc silviculture
+ @silviculture   (sylviculture) @silviculturist
+* dt
+- nhà lâm học
+ @sima
+* dt
+- (địa chất) quyển sima
+ @simian  
+*  tt
+- (động vật học) (thuộc) khỉ; như khỉ
+
+@similar  
+*  tt
+- giống nhau, như nhau, tương tự
+- (toán học) đồng dạng
+
++ similar triangles: tam giác đồng dạng
+*  dt
+- vật giống, vật tương tự
+- (số nhiều) những vật giống nhau
+
+@similar
+- đồng dạng
+- essentially s. (thống kê) đồng dạng cốt yếu 
+ @similarity  
+*  dt
+- sự giống nhau, sự tương tự
+- điểm giống nhau, điểm tương tự, nét giống nhau, nét tương tự
+- (toán học) sự đồng dạng
+
+@similarity
+- sự đồng dạng
+ @similarly  
+*  dt
+- cũng như thế, cũng như vậy, tương tự
+
+@similarly
+- đồng dạng
+ @simile  
+*  dt
+- (văn học) sự so sánh, lối so sánh
+
+@similise   (similise) @similitude  
+*  dt
+- sự giống, trạng thái giống
+- sự so sánh
+- (từ hiếm,nghĩa hiếm) bản sao, bản chép; vật giống, người giống
+
+@similitude
+- (hình học) phép biến đổi đồng dạng
+ @similize   (similise) @simitar
+* dt
+- thanh kiếm cong
+ @simm
+- mô đun nhớ một hàng chân
+ @simmel-cake  
+*  dt
+- bánh ximnen (loại bánh ngọt làm vào dịp lễ Phục sinh,  Nô-en)
+
+@simmer  
+*  dt
+- trạng thái sắp sôi, trạng thái sủi
+- (nghĩa bóng) trạng thái bị kiềm chế, trạng thái bị nén lại (cơn giận, cơn cười...)
+
++ at a simmer; on the simmer: bị kìm lại, bị nén lại
+*  dgt
+- sắp sôi, sủi
+- làm cho sủi; ninh nhỏ lửa
+- (nghĩa bóng) đang cố nén (giận), đang cố nín (cười)
+
+@simoleon  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đồng đô la
+
+@Simon, Herbert A.
+- (Econ) (1916-)
+: Là nhà kinh tế học người Mỹ, đạt giải Nobel kinh tế 1978 do công trình nghiên cứu đi tiên phonng trong quá trình tạo ra quyết định tại những tổ chức về kinh tê và hãng nói riêng.Lý luận của Simon và những quan sát về việc ra quyết định tại các tổ chức phù hợp với thực tế và tạo nên nền tảng  hữu ích cho việc nghiên cứu thực nghiệm.
+ @simoniac  
+*  dt
+- người phạm tội buôn thần bán thánh, người phạm tội buôn bán các chức vụ nhà thờ
+
+@simoniacal  
+*  tt
+- (thuộc) tội buôn thần bán thánh; phạm tội buôn bán các chức vụ nhà thờ
+
+@simony  
+*  dt
+- sự buôn thần bán thánh, sự buôn bán các chức vụ nhà thờ
+
+@simoom   (simoon) @simoon   (simoon) @simp  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) anh ngốc, anh thộn
+
+@simper  
+*  dt
+- nụ cười điệu, nụ cười màu mè
+*  ndgt
+- cười ngờ nghệch
+*  ngdgt
+- tỏ (sự đồng ý...) bằng nụ cười điệu
+
+@simperer
+* dt
+- người cười giả tạo
+ @simple  
+*  tt
+- đơn, đơn giản
+
++ simpleleaf: lá đơn
+
++ simple surface: mặt đơn giản
+- giản dị, mộc mạc, xuềnh xoàng, bình dị, hồn nhiên
+
++ the simple life: đời sống giản dị; sự muốn trở lại cuộc sống cổ sơ
+
++ in simple beauty: trong vẻ đẹp mộc mạc
+
++ a simple man: một người giản dị
+
++ a simple meal: một bữa cơm xuềnh xoàng
+- dễ hiểu, dễ làm
+
++ the problem is very simple: vấn đề đó rất dễ hiểu
+- tuyệt đối là, chỉ là, không khác gì
+
++ to say so is simple madness: nói như thế thì không khác gì là điên
+- đơn sơ, nghèo hèn; nhỏ mọn, không đáng kể
+- ngu dại; dốt nát; thiếu kinh nghiệm
+*  dt
+- người ngu dại; người dốt nát
+- cây thuốc
+- thuốc lá (chữa bệnh)
+!to be cut for the simples
+- phải mổ để chữa bệnh điên
+
+@simple
+- đơn giản, đơn
+ @simple fraction
+- phân số đơn giản (phân số được biểu diễn bằng những số nằm trên và dưới một vạch; 5   8 )
+@simple interest
+* dt
+- lãi đơn (lãi trả cho tiền vốn thôi, không tính cả lãi cộng vào vốn)
+ @simple machine
+* dt
+- dụng cụ đơn giản dùng làm (một bộ phận của) máy (cái bánh xe, đòn bẩy )
+ @simple simon  
+*  dt
+- chàng ngốc (trong bài hát trẻ con)
+
+@simple-hearted  
+*  tt
+- thật thà, ngay thẳng; hồn nhiên
+
+@simple-heartedness  
+*  dt
+- tính thật thà, tính ngay thẳng; tính hồn nhiên
+
+@simple-minded  
+*  tt
+- chân thật, chất phác, hồn nhiên
+
+@simple-mindedness  
+*  dt
+- tính chân thật, tính chất phác, tính hồn nhiên
+
+@simpleness  
+*  dt (từ hiếm,nghĩa hiếm)
+- tính đơn giản; sự mộc mạc
+- tính chân thật, tính ngay thẳng, tính hồn nhiên
+
+@simpleton  
+*  dt
+- anh ngốc, anh thộn, anh quỷnh
+
+@simplex
+* dt
+- (vô tuyến) hệ đơn công
+- (toán học) đơn hình
+ @simplex
+- (tô pô) đơn hình
+- closed s. đơn hình đóng
+- degenerate s. đơn hình suy biến
+- geometric s. đơn hình hình học
+- open s. đơn hình mở
+- regular s. đơn hình đều 
+- topological s. đơn hình tôpô 
+ @Simplex alglorithm
+- (Econ) Thuật toán đơn hình.
+: Xem LINEAR PROGRAMMING.
+ @simplex-method
+- phương pháp đơn hình
+ @simplicial
+- (thuộc) đơn hình
+ @simpliciter  
+*  dt
+- tuyệt đối; phổ biến
+
+@simplicity  
+*  dt
+- tính đơn giản
+- tính mộc mạc, tính xuềnh xoàng; tính hồn nhiên
+- tính dễ hiểu, tính dễ làm
+- tính ngu dại, tính ngốc nghếch, tính ngu xuẩn
+
+@simplicity
+- tính đơn giản
+- s. of group tính đơn giản của một nhóm 
+ @simplification  
+*  dt
+- sự đơn giản hoá
+- sự làm dễ hiểu, sự làm cho dễ làm
+
+@simplification
+- sự đơn giản, sự rút gọn
+ @simplified
+- đã rút gọn, đã được đơn giản
+ @simplifier  
+*  dt
+- người làm đơn giản, cái làm cho đơn giản
+
+@simplify  
+*  ngdgt
+- làm đơn giản, đơn giản hoá
+
+@simplify
+- rút gọn, đơn giản
+ @simplism  
+*  dt
+- sự làm ra vẻ giản dị, sự làm ra vẻ mộc mạc; sự làm ra vẻ hồn nhiên
+
+@simplist
+* dt
+- người chữa bệnh bằng thuốc lá
+ @simplistic
+* tt
+- giản dị thái quá
+ @simply  
+*  dt
+- chỉ là; thường là
+- đơn giản
+- mộc mạc; hồn nhiên
+
+@simula
+- Tên ngôn ngữ được phát triển dành cho các ứng dụng có tính chất mô phỏng trên máy tính Simula 67 là một cột mốc quan trọng trong sự phát triển của ngôn ngữ lập trình vù nó chứa việc tổng quát hóa quan trọng cho khái niệm khối, được gọi là lớp Simula là ngôn ngữ đầu tiên mở ra một dòng ngôn ngữ mới: ngôn ngữ lập trình hướng đối tượng
+ @simulacra  
+*  dt,  số nhiều simulacra
+- hình bóng, hình ảnh
+- vật thay thế giả tạo
+- sự vờ vịt
+
+@simulacrum  
+*  dt,  số nhiều simulacra
+- hình bóng, hình ảnh
+- vật thay thế giả tạo
+- sự vờ vịt
+
+@simulant  
+*  tt
+- (sinh vật học) giống, có dạng như
+
++ stamens simulant of petals: nhị có dạng cánh hoa
+
+@simulate  
+*  ngdgt
+- giả vờ, giả cách
+
++ to simulate indignation: giả vờ căm phẫn
+- đóng vai
+
++ actor simulates king: diễn viên đóng vai vua
+- đội lốt; bắt chước; dựa theo
+
+@simulate
+- mô hình hoá, phỏng theo
+ @simulation  
+*  dt
+- sự giả vờ, sự giả cách
+- sự đóng vai, sự thủ vai
+- sự bắt chước; sự dựa theo
+
+@Simulation
+- (Econ) Sự mô phỏng.
+: Một hình thức dự đoán đưa ra một tập hợp những phương án dự đoán dựa trên những giả thiết khác nhau về các tình huống tương lai, cụ thể là để trả lời câu hỏi cái gì sẽ xảy ra nếu?, thay vì câu hỏi cái gì sẽ xảy ra?.
+ @simulation
+- (máy tính) sự mô hình hoá, sự phỏng theo
+- analogue s. mô hình hoá tương tự 
+ @simulative  
+*  tt
+- giả vờ, giả cách, vờ vịt
+
+@simulative
+- mô hình hoá, phỏng theo
+ @simulator  
+*  dt
+- người giả vờ, người giả cách, người vờ vịt
+
+@simulator
+- (máy tính) thiết bị mô hình hoá
+- target s. mục tiêu giả 
+ @simulcast  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) chương trình đồng thời truyền đi qua đài phát thanh và đài truyền hình
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) đồng thời truyền đi (một chương trình...) qua đài phát thanh và đài truyền hình
+
+@simultaneity   (simultaneousness) @simultaneous  
+*  tt
+- đồng thời, cùng một lúc
+
++ simultaneous translation: sự dịch đuổi
+
+@simultaneous
+- đồng thời; tương thích
+ @Simultaneous equation bias
+- (Econ) Độ lệch do phương trình đồng thời.
+: Độ lệch trong những ước lượng bằng phương pháp bình phương nhỏ nhất thông thường là kết qủa của những tác động phản hồi giữa các phương trìnhkhi mô hình được dự đoán bao gồm một tập hợp những PHƯƠNG TRÌNH ĐỒNG THỜI.
+ @Simultaneous equations
+- (Econ) Các phương trình đồng thời.
+: Một tập hợp gồm hai hay nhiều hơn các phương trình có chung những biến số mà giá trị của các biến số này phải đồng thời thoả mãn tất cả các phương trình.
+ @simultaneously
+* dt
+- đồng thời, xảy ra cùng một lúc, làm cùng một lúc
+ @simultaneousness   (simultaneousness) @simurg  
+*  dt
+- chim khổng lồ (trong thần thoại Ba tư)
+
+@sin  
+*  dt
+- tội lỗi, tội ác; sự phạm (luân thường đạo lý, thẩm mỹ...)
+!it is no sin for a man to labour in his vocation
+- nghề gì cũng vinh quang
+!like sin
+- (từ lóng) kịch liệt, mãnh liệt
+*  dgt
+- phạm tội, mắc tội; gây tội
+- phạm đến, phạm vào
+!to be more sinned against than sinning
+- đáng thương hơn là đáng trách
+!to sin one's mercies
+- được phúc mà bạc bẽo vô ơn
+
+@sinanthropus
+* dt
+- vượn người Bắc kinh
+ @sinapism  
+*  dt
+- (y học) thuốc cao bột cải cay
+
+@since  
+*  dt
+- từ lâu; từ đó
+
++ I have not seen him since: từ lâu tôi không gặp anh ta
+
++ I have been his friend ever since: suốt từ ngày đó tôi vẫn là bạn của anh ta
+- trước đây
+
++ I saw him not long since: tôi mới gặp anh ta mấy hôm trước đây thôi
+
++ this happened many years since: việc này xảy ra trước đây nhiều năm
+*  giới từ
+- từ, từ khi
+
++ he has been working here since 1967: anh ấy công tác ở đây từ năm 1967
+*  liên từ
+- từ khi, từ lúc
+
++ we have not seen him since he married: từ khi nó đi ở riêng, chúng tôi không gặp nó
+- vì, vì lẽ rằng, bởi chưng
+
++ since there is no more to be said, the meeting ends: vì không còn gì nói nữa, cuộc họp bế mạc
+
++ a more serious, since deliberate, offence: một tội càng nghiêm trọng vì cố ý
+
+@since
+- từ đó
+ @sincere  
+*  tt
+- thành thật, thật thà, ngay thật, chân thành, thành khẩn
+
+@sincerely  
+*  dt
+- thành thật, thật thà, ngay thật, chân thành, thành khẩn
+!Yours sincerely
+- (xem) yours
+
+@sincerity  
+*  dt
+- tính thành thật, tính thật thà, tính ngay thật, tính chân thành, tính thành khẩn
+
++ in all sincerity: với tất cả sự thành thật, rất thật tình
+
+@sincipital  
+*  tt
+- (thuộc) đỉnh đầu
+
+@sinciput  
+*  dt
+- (giải phẫu) đỉnh đầu
+
+@sine  
+*  dt
+- (toán học) sin['saini]
+*  giới từ
+- vô, không
+
++ sine die: vô thời hạn
+
++ sine prole: không có con
+
+@sine
+- sin
+- versed s. of an angle sin ngược của góc &#945; (vers &#945; 
++  1 - cos &#945;)
+- arc s. arcsin
+- coversed s., coversine hàm covers x 
++  1 - sinx
+- hyperbolic s. sin hipebolic
+- inverse s. acsin
+- logarithmic s. lôga của sin
+- natural s. sin tự nhiên 
+ @sine die
+* tt
+- <pháp> không định rõ ngày; vô thời hạn
+ @sine qua non
+* dt
+- điều kiện thiết yếu; cái tuyệt đối cần thiết
+ @sin-eater  
+*  dt
+- người ăn mà chịu tội thay (người được thuê ăn đồ cúng bày trên quan tài để gánh tội hộ người chết)
+
+@sinecure  
+*  dt
+- chức ngồi không ăn lương, chức ngồi không hưởng danh vọng
+
+@sinecurism  
+*  dt
+- chế độ ngồi không ăn lương, chế độ ngồi không hưởng danh vọng
+
+@sinecurist  
+*  dt
+- người ngồi không ăn lương, người ngồi không hưởng danh vọng
+
+@sine-shaped
+* tt
+- có hình sin
+ @sinew  
+*  dt
+- (giải phẫu) gân
+- (số nhiều) bắp thịt; sức khoẻ
+
++ a man of sinew: người khoẻ
+- (nghĩa bóng) sức lực, sức mạnh, nguồn tiếp sức, rường cột; tài lực vật lực
+
++ the sinews of war: nguồn tiếp sức chiến tranh, tài lực vật lực nuôi chiến tranh
+*  ngdgt
+- (thơ ca) tiếp sức cho, làm rường cột cho
+
+@sinewiness  
+*  dt
+- sự nổi gân, sự gân guốc, sự mạnh mẽ
+
+@sinewless  
+*  tt
+- không có gân
+- yếu, nhu nhược
+
+@sinewy  
+*  tt
+- (thuộc) gân; như gân; nhiều gân
+- nổi gân, gân guốc, mạnh mẽ
+
+@sinfonia  
+*  dt
+- sự mở đầu
+- màn mở đầu (ca kịch cổ của Y)
+
+@sinfonietta
+* dt
+- dàn nhạc giao hưởng nhỏ (chơi nhạc dây)
+ @sinful  
+*  tt
+- có tội, mắc tội, phạm tội; đầy tội lỗi
+
+@sinfully
+* dt
+- sai trái; đầy tội lỗi; ác độc
+ @sinfulness  
+*  dt
+- sự có tội, sự phạm tội
+
+@sing  
+*  ngdgt sang,  sung
+- hát, ca hát
+
++ to sing a song: hát một bài hát
+
++ to sing someone to sleep: hát ru ngủ ai
+- ca ngợi
+
++ to sing someone's praises: ca ngợi ai, tán dương ai
+*  ndgt
+- hát, hót
+
++ birds are singing: chim đang hót
+- reo (nước sôi...); thồi vù vù (gió)
+
++ the water sings in the kettle: nước trong ấm reo (sắp sôi)
+- ù (tai)
+!to sing out
+- gọi to, kêu lớn
+!to sing another song; to sing small
+- cụp đuôi, cụt vòi
+!to sing the New Year in
+- hát đón mừng năm mới
+!to sing the New Year out
+- hát tiễn đưa năm cũ
+*  dt
+- tiếng reo; tiếng vù vù
+!the sing of arrows overhead
+- tiếng tên bay vù vù trên đầu
+- (thông tục) sự hát đồng ca
+
+@singable  
+*  tt
+- có thể hát được, dễ hát
+
+@singe  
+*  dt (từ hiếm,nghĩa hiếm)
+- sự cháy sém
+- chỗ cháy sém
+*  ngdgt
+- làm cháy sém (ngoài mặt), đốt sém (mặt ngoài), thui
+
++ to singe a pig: thui lợn
+- làm tổn thương, làm tổn hại
+
++ his reputation is a little singed: danh tiếng của anh ta hơi bị tổn thương
+*  ndgt
+- cháy sém
+!to singe one's feathers (wings)
+- bị tổn thất, bị tổn thương, bị sứt mẻ
+
+@singer  
+*  dt
+- người hát, ca sĩ
+- chim hót (loài chim hay hót)
+- nhà thơ, thi sĩ
+
+@singeress
+* dt
+- nữ ca sĩ
+ @singing
+* dt
+- nghệ thuật của ca sự
+- sự hát, hành động hát; tiếng hát
+ @singing-man  
+*  dt
+- ca sĩ
+
+@singing-master  
+*  dt
+- giáo viên dạy hát
+
+@singing-voice  
+*  dt
+- giọng hát
+
+@single  
+*  tt
+- đơn, đơn độc, một mình, chỉ một
+
++ single flower: hoa đơn; hoa đơn độc
+
++ single game: (thể dục,thể thao) trận đánh đơn
+
++ single bed: giường một
+
++ a multitude inspired with a single purpose: muôn người cùng chung mục đích
+- đơn độc, cô đơn, không vợ, không chồng, ở vậy
+
++ single life: cuộc sống đơn độc
+
++ single state: sự ở vậy, tình trạng ở vậy
+
++ single man: người chưa có vợ
+*  phủ định
+- một, dù là một
+
++ I did not see a single person: tôi không trông thấy một người nào cả
+- chân thật, thành thật; kiên định
+
++ a single heart: một tấm lòng thành thật
+
++ with a single eyes: chỉ nhằm một mục đích, quyết tâm, toàn tâm toàn ý
+*  dt
+- người không vợ, người không chồng, người độc thân; vật đơn
+- (thể dục,thể thao) trận đánh đơn
+
++ men's singles: đánh đơn nam
+- vé chỉ đi một lần
+- (số nhiều) chọn ra, lựa ra
+
+@single
+- đơn, cá biệt
+ @single combat
+* dt
+- cuộc đánh nhau thường có vũ khí giữa hai người; trận quyết đấu tay đôi
+ @single cream
+* dt
+- kem có tương đối ít chất béo
+ @single entry  
+*  dt
+- (thương nghiệp) kế toán đơn
+
+@Single European Atc (SEA)
+- (Econ) Đạo luật châu Âu.
+: Bản thoả thuận này thuộc phạm vi hệ thống CỘNG ĐỒNG CHÂU ÂU (EC), bắt đầu có hiệu lực từ 1 1987. SEA dự định rằng cho tới cuối 1992, sự phát triển trong chính sách nội bộ EC cần đặt ra mục tiêu cho một thị trường duy nhất, với sự di chuyển tự do của vốn, lao động, dịch vụ và hàng hoá thay thế cho những thoả thuận không mang tính phối hợp đã từng tồn tại đến năm 1987.
+@single file  
+*  dt
+- hàng một
+
+@Single market
+- (Econ) Thị trường đơn nhất.
+ @single parent
+* dt
+- bố hoặc mẹ tự mình nuôi con
+ @single-acting  
+*  tt
+- (kỹ thuật) một chiều
+
+@single-address
+- (máy tính) một địa chỉ
+ @single-band  
+*  tt
+- một băng
+
+@single-barrelled  
+*  tt
+- một nòng (súng)
+
+@single-breasted  
+*  tt
+- một hàng khuy (áo)
+
+@single-celled
+* tt
+- đơn bào
+ @single-circuit  
+*  tt
+- (điện học) một mạch
+
+@single-coloured
+* tt
+- một màu; đơn sắc
+ @single-core
+* tt
+- một lõi
+ @single-crystal
+* tt
+- tinh thể đơn
+ @single-cycle
+* dt
+- một chu kỳ; chu kỳ đơn
+ @single-cylinder
+* dt
+- một xi lanh
+ @single-deck
+* dt
+- một boong; một sàn
+ @single-decker
+* dt
+- xe búyt chỉ có một tầng
+ @single-digit
+- một hàng
+ @single-drum
+* tt
+- một trống quay; một tang tời
+ @single-entry
+* dt
+- (thương nghiệp) kế toán đơn
+ @single-eyed  
+*  tt
+- một mắt
+- quyết tâm, toàn tâm toàn ý, chỉ nhằm một mục đích
+
+@single-file
+* dt
+- hàng một
+* dt
+- hàng một
+ @single-fire
+* tt
+- bắn một phát (đạn)
+ @single-flowered
+* tt
+- có hoa đơn
+ @single-frequency
+* tt
+- một tần số
+ @single-fruited
+* tt
+- có quả đơn
+ @single-funnel
+* tt
+- phễu đơn; một phễu
+ @single-groove
+* tt
+- một rãnh; rãnh đơn
+ @single-handed  
+*  tt
+- một mình, đơn thương độc mã
+
++ single-handed efforts: những cố gắng của riêng bản thân
+*  dt
+- một mình, đơn thương độc mã
+
++ this cannot be done single-handed: việc này không thể làm một mình được
+- một tay
+
++ to play single-handed: đánh một tay
+
+@single-hearded  
+*  tt
+- chân thật, ngay thẳng ((cũng) single-minded)
+
+@single-hearted
+* tt
+- chân thật, ngay thẳng
+ @single-loader  
+*  dt
+- súng nạp phát một
+
+@single-minded  
+*  tt
+- (như) single-hearded
+- chỉ có một mục đích, chỉ theo đuổi một mục đích duy nhất
+
+@single-mindedly
+- (to work single-mindedly at something) chuyên tâm vào cái gì mà làm việc
+ @singlemindedness
+* dt
+- sự tập trung vào một mục đích; sự chuyên tâm
+* dt
+- sự tập trung vào một mục đích; sự chuyên tâm
+ @singleness  
+*  dt
+- tính duy nhất
+- tình trạng đơn độc, tình trạng cô đơn, tình trạng độc thân
+!with singleness of purpose
+- chỉ nhằm một mục đích
+
+@Single-peaked preferences
+- (Econ) Các sở thích hội tụ; Những điều muốn lựa chọn có chung.
+ @single-phase  
+*  tt
+- (điện học) một pha
+
+@single-place
+* dt
+- một chổ ngồi
+ @single-pole
+* tt
+- một cực
+ @single-purpose
+* tt
+- một mục đích; chuyên dùng
+ @single-range
+* tt
+- một dãy
+ @single-ray
+* tt
+- một đường ray
+ @single-row
+* tt
+- một hàng; một dãi
+ @singles
+* dt
+- trò chơi (quần vợt...) mỗi bên chỉ một người
+ @single-screw
+* tt
+- một chong chóng (máy bay)
+- một chân vịt (tàu)
+ @single-seater  
+*  dt
+- ô tô một chỗ ngồi; máy bay một chỗ ngồi
+
+@single-shaft
+* tt
+- một trục
+ @single-stage
+- một bước, một giai đoạn
+ @singlestick  
+*  dt
+- gậy đánh côn
+- môn đánh côn
+
+@singlesticker  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thuyền một buồm
+
+@singlet  
+*  dt
+- áo lót mình, áo may ô; áo vệ sinh
+
+@single-taxer
+* dt
+- người chủ trương chỉ thu một thứ thuế
+ @single-taxism
+* dt
+- thuyết chỉ thu một thứ thuế
+ @singleton  
+*  dt
+- vật duy nhất, vật đơn
+- con một
+- (đánh bài) con bài độc nhất (của một hoa nào đó)
+
+@single-ton
+* dt
+- (đánh bài) con bài độc nhất (trong một loại)
+* dtgười chống lại một nhóm
+- con một; vật duy nhất
+ @single-track  
+*  tt
+- có một đường ray
+
++ a single-track railroad: đường xe lửa chỉ có một đường ray
+- hẹp hòi, thiển cận
+
++ a single-track mind: trí óc thiển cận
+
+@single-tree  
+*  dt
+- gióng ngang (ở xe ngựa để mắc nối vào dây cương)
+
+@single-valued
+* tt
+- đơn trị
+ @single-valued
+- đơn trị
+ @single-valved
+* tt
+- một van; một đèn điện tử
+ @single-way
+* tt
+- đường đơn; đường một chiều
+ @singly  
+*  dt
+- đơn độc, một mình, đơn thương độc mã
+- lẻ, từng người một, từng cái một
+
+@singsong  
+*  dt
+- giọng đều đều, giọng ê a; nhịp đều đều
+- buổi hoà nhạc không chuyên; buổi ca hát tập thể
+*  tt
+- đều đều, ê a (giọng)
+
++ in a singsong voice: với giọng đều đều, với giọng ê a
+*  dgt
+- ngâm ê a; hát ê a; nói với giọng đều đều, nói ê a
+
+@singular  
+*  tt
+- (ngôn ngữ học) ở số ít
+- một mình, cá nhân
+
++ all and singular: tất cả
+- đặc biệt, kỳ dị, phi thường
+
++ singular courage: sự can đảm phi thường
+- lập di
+- (từ hiếm,nghĩa hiếm) duy nhất, độc nhất
+*  dt (ngôn ngữ học)
+- số ít
+- từ ở số ít
+
+@singular
+- kỳ dị; suy biến
+ @Singular matrix
+- (Econ) Ma trận đơn.
+: Một ma trận mà định thức của nó bằng 0, do tính phụ thuộc tuyến tính giữa một số hàng hoặc cột của nó, có nghĩa là một ma trận mà hạng của nó không bằng kích thước của nó.
+ @singularise   (singularise) @singularism
+* dt
+- (triết học) đơn nguyên luận
+ @singularity  
+*  dt
+- tính đặc biệt, tính kỳ dị, tính phi thường; cái kỳ dị
+- tính lập dị; nét kỳ quặc
+- (từ hiếm,nghĩa hiếm) tính duy nhất, tính độc nhất
+
+@singularity
+- tính kỳ dị; điểm kỳ dị s. at infinity điển kỳ dị ở vô tận
+- s. of a curve [điểm; tính] kỳ dị của một đường cong 
+- abnormal s. [tính; điểm] kỳ dị bất thường 
+- accessible s. điểm kỳ dị đạt được
+- accidnetal s. điểm kỳ dị ngẫu nhiên
+- apparent s. điểm kỳ dị bề ngoài
+- essential s. điểm kỳ dị cốt yếu
+- finite s. điển kỳ dị hữu hạn
+- isolated s. (giải tích) điểm kỳ dị cô lập
+- real s. điểm kỳ dị thực
+- removable s. điểm kỳ dị bỏ được
+- unessential s. điểm kỳ dị không cốt yếu 
+ @singularize   (singularise) @singularly
+* tt
+- khác thường, kỳ quặc
+- rất, đáng chú ý, phi thường
+ @sinic
+* tt
+- thuộc Trung Quốc, thuộc người Trung Quốc
+ @sinister  
+*  tt
+- gở, mang điểm xấu
+- ác, độc ác, hung hãn, nham hiểm; đầy sát khí (vẻ mặt)
+
++ a sinister design: một kế hoạch nham hiểm
+- (từ Mỹ,nghĩa Mỹ) (: to) tai hoạ cho, tai hại cho
+-(đùa cợt) trái, tả
+
+@sinistral  
+*  tt
+- xoắn trái (vỏ ốc)
+- (từ hiếm,nghĩa hiếm) ở bên trái, về bên trái
+
+@sinistrocerebral  
+*  tt
+- (thuộc) bán cầu đại não
+
+@sinistrorsal   (sinistrorse) @sinistrorse   (sinistrorse) @sinistrorse
+- xoắn trái
+ @sink  
+*  dt
+- thùng rửa bát, chậu rửa bát
+- ((thường) (nghĩa bóng)) vũng nước bẩn, vũng lầy; ổ
+
++ a sink of vices: một ổ truỵ lạc
+- đầm lầy
+- khe kéo phông (trên sân khấu)
+*  ndgt sank; sunk
+- chìm
+
++ ship sinks: tàu chìm
+- hạ thấp, xuống thấp, cụt, mất dần, lắng xuống, lún xuống
+
++ voice sinks: giọng hạ thấp
+
++ river sinks: nước sông xuống
+
++ prices sink: giá sụt xuống
+
++ the sun is sinking: mặt trời đang lặn
+
++ to sink in someone's estimation: mất uy tín đối với ai
+
++ cart sinks into mud: xe bò lún xuống bùn
+- hõm vào, hoắm vào (má...)
+
++ his eyes have sunk in: mắt anh ta hõm vào
+- xuyên vào, ăn sâu vào, ngập sâu vào; thấm vào
+
++ bayonet sinks in to the hilt: lưỡi lê ngập sâu vào đến tận cán
+
++ impression sinks into mind: ấn tượng thấm sâu vào óc
+
++ dye sinks in: thuốc nhuộm ăn vào
+- (nghĩa bóng) chìm, chìm đắm
+
++ to sink into degradation: chìm sâu vào sự đê hèn
+*  ngdgt
+- làm chìm, đánh đắm
+
++ to sink a ship: đánh chìm tàu
+- hạ xuống, làm thấp xuống
+
++ drought sinks stream: hạn hán làm mực nước suối thấp xuống
+- để ngả xuống, để rủ xuống
+- đào, khoan, khắc
+
++ to sink a well: đào giếng
+
++ to sink a die: khắc con súc sắc
+- giấu
+
++ to sink one's name: giấu tên tuổi
+
++ to sink a fact: giấu một sự việc
+!to sink oneself; to sink one's own interests
+- quên mình
+!to sink one's knees
+- quỳ sụp xuống
+!to sink money
+- đầu tư vốn vào một việc kinh doanh mà khó rút ra; mất vốn bị mắc kẹt trong một việc kinh doanh
+!to sink or swim
+- một mất một còn
+!his heart sank at the sad news
+- được tin buồn lòng anh ta se lại
+
+@sinkable  
+*  tt
+- có thể chìm được
+
+@sinker  
+*  dt
+- người làm chìm, người đánh chìm
+- người đào giếng; thợ đào giếng mỏ
+- chì (cục chì buộc ở dây câu, ở lưới...)
+- (kỹ thuật) thanh ấn (dệt)
+!hook, line and sinker
+- (nghĩa bóng) tất cả, cả chì lẫn chài
+
++ to lose hook, line and sinker: mất cả chì lẫn chài
+
+@sinkhead
+* dt
+- đậu ngót
+ @sinkhole
+* dt
+- (địa chất) chổ hấp thu; phễu tiêu nước
+- hố sụt; chổ đất sụt
+- hào nước bẩn, rãnh nước bẩn
+ @sinking  
+*  dt
+- sự chìm; sự đánh chìm
+- sự hạ xuống, sự tụt xuống, sự lún xuống; sự sa lầy
+- sự đào giếng
+- sự đầu tư
+- sự nôn nao (vì đói, sợ...)
+
+@Sinking fund
+- (Econ) Quỹ dự phòng hoàn trả.
+: Phần quỹ thường xuyên để riêng nhằm mục đích để trả nợ, hoặc để khấu hao phần vốn nằm trong thiết bị.
+ @sinking-fund  
+*  dt
+- vốn chìm (để trả nợ); quỹ thanh toán (nợ)
+!to raid the sinking-fund
+- sử dụng tiền bội thu (vào các mục đích khác)
+
+@sinless  
+*  tt
+- vô tội
+
+@sinlessness  
+*  dt
+- sự vô tội
+
+@sinn fein  
+*  dt
+- đảng Sin-Phen (đảng yêu nước ở Ai-len đòi khôi phục lại tiếng dân tộc và quyền độc lập chính trị năm 1905)
+- phong trào yêu nước Sin-Phen (ở Ai-len)
+
+@sinner  
+*  dt
+- người có tội, người phạm tội
+!as I am a sinner
+- thì tôi gọi là cứ mắc tội tày đình (mội lối thề)
+
+@sinnet   (sinnet) @sino-
+- hình thái ghép có nghĩa là Trung Quốc; Hán
+- sinology
+- Hán học
+- hình thái ghép có nghĩa là Trung Quốc; Hán
+- sinology
+- Hán học
+ @sin-offering  
+*  dt
+- lễ giải tội
+
+@sino-japanese
+* tt
+- Trung - Nhật
+ @sinologist   (sinologue) @sinologue   (sinologue) @sinology  
+*  dt
+- khoa Hán học
+
+@sinophile
+* tt
+- thân Trung Quốc; thích Trung Quốc
+* dt
+- người thân Trung Quốc, người thích Trung Quốc
+ @sinophilism
+* dt
+- chủ nghĩa thân Trung Quốc, thuyết thân Trung Quốc
+ @sino-tibetan
+* tt
+- Hán - Tạng
+* dt
+- tiếng Hán - Tạng
+ @sinsyne
+* dt
+- (scotland) từ lúc ấy
+ @sinter  
+*  dt
+- (địa lý,địa chất) đá túp
+
+@sintered
+* tt
+- được thiêu kết, được nung kết
+ @sinuate  
+*  tt
+- ngoằn ngoèo
+- (thông tục) lượn, lượn sóng (lá)
+
+@sinuation  
+*  dt
+- sự làm cho ngoằn ngoèo
+
+@sinuatrial
+* tt
+- thuộc xoang tâm nhĩ
+ @sinuosity  
+*  dt
+- sự ngoằn ngoèo, sự khúc khuỷu, sự quanh co (của đường đi)
+- chỗ rẽ ngoặt, chỗ quành, chỗ uốn khúc (của sông, đường...)
+
+@sinuous  
+*  tt
+- ngoằn ngoèo, khúc khuỷu, quanh co, uốn khúc
+- (thực vật học) lượn, lượn sóng (lá)
+
+@sinuous
+- có dạng hình sin, có dạng hình sóng
+ @sinus  
+*  dt,  số nhiều sinuses,  sinus
+- (giải phẫu) xoang
+- (y học) rò
+- (thực vật học) lõm gian thuỳ
+
+@sinusitis  
+*  dt
+- (y học) viêm xoang
+
+@sinusoid
+* dt
+- đường hình sin
+ @sinusoid
+- đường hình sin
+ @sinusoidal  
+*  tt
+- (toán học) sin
+
++ sinusoidal function: hàm sin
+
+@sinusoidal
+- có hình sin
+ @sip  
+*  dt
+- hớp, nhắp, ít
+
++ a sip of brandy: một nhắp rượu mạnh
+*  dgt
+- uống từng hớp, nhắp (rượu)
+
+@siphon   (syphon) @siphon
+- (ống) xiphông
+ @siphon bottle  
+*  dt
+- chai hơi xì
+
+@siphonage  
+*  dt
+- sự dẫn (nước) bằng xifông; sự hút nước bằng xifông
+
+@siphonal   (siphonic) @siphonic   (siphonic) @siphuncle  
+*  dt
+- (động vật học) ống thờ, vòi hút ((cũng) siphon)
+
+@sippet  
+*  dt
+- mẫu bánh mì (để cho vào xúp)
+- mẫu bánh mì rán
+- mẫu, miếng nhỏ
+
+@sir  
+*  dt
+- (tiếng tôn xưng) thưa ông, thưa ngài, thưa tiên sinh; (quân sự) thưa thủ trưởng
+- ngài, đức (đặt trước tên một công tước hay hầu tước, thường là trước tên thánh)
+
++ Sir Walter Scolt; (thân) Sir Walter: ngài Oan-tơ-Xcốt
+*  ngdgt
+- gọi bằng ông, gọi bằng ngài, gọi bằng tiên sinh
+
++ don't sir me: xin đừng gọi tôi bằng ngài
+
+@sircar   (sirkar) @sirdar  
+*  dt
+- người chỉ huy, người lãnh đạo (An độ)
+- tổng tư lệnh (Ai cập)
+
+@sire  
+*  dt
+- đực giống
+- hoàng thượng, bệ hạ (tiếng xưng với vua)
+- (thơ ca) cha, cha ông
+*  ngdgt
+- sinh sản, đẻ ra (ngựa giống)
+
+@siree   (sirree) @siren   (syren) @sirenian  
+*  tt
+- (động vật học) (thuộc) bộ lợn biển
+*  dt
+- (động vật học) lợn biển
+
+@sirgang  
+*  dt
+- (động vật học) loài quạ xanh (lông màu lục)
+
+@siriasis  
+*  dt
+- sự say nắng
+- sự tắm nắng (để chữa bệnh)
+
+@sirius  
+*  dt
+- (thiên văn học) sao Thiên lang
+
+@sirkar   (sirkar) @sirloin  
+*  dt
+- thịt thăn bò ((từ cổ,nghĩa cổ) (cũng) surloin)
+
+@sirocco   (scirroco) @sirrah   (sirree) @sirree   (sirree) @sirup   (syrup) @sirupy  
+*  tt
+- như xi-rô; ngọt như xi-rô; đặc sánh như xi-rô
+
+@sis  
+*  dt
+- (thông tục) ((viết tắt) của sister) chị, em gái
+
+@sisal  
+*  dt
+- (thực vật học) cây xizan (thuộc loại thùa)
+- sợi xizan (lấy ở lá cây xizan, dùng bệnh thừng)
+
+@siskin  
+*  dt
+- (động vật học) chim hoàng yến
+
+@Sismondi, Jean
+- (Econ) (1773-1842)
+: Một nhà nhà kinh tế học người Thuỵ Sĩ. Trong tác phẩm đầu tiên của ông, ông đã thể hiện mình là người kế tục của Adam Smith, nhấn mạnh tới sự kết hợp hài hoà về lợi ích, sự cần thiết cuat QUAN ĐIỂM TỰ DO KINH TẾ và tính vô lý của sự can thiệp của chính phủ. 16 năm sau, trong cuốn Những nguyên lý mới của Kinh tế chính trị học (1819), ông thất vọng với quan điểm tự do kinh tế vì ông đã nhần mạnh về những tệ nạn ra đời từ sự cạnh tranh không giới hạn, đặc biệt là sản xuất thừa hàng hoá và dịch vụ mà ông coi đây trực tiếp là hậu quả của SỰ PHÂN CÔNG LAO ĐỘNG và sản xuất quy mô lớn. Ông cho rằng khi làm việc cho bản thân mình, cong người biết khi nào đã sản xuất dủ, còn khi làm việc cho người khác anh ta lại không biết. Tự do kinh tế dẫn tới sự chịu đựng cho nên phải có sự can thiệp của chính phủ để chỉ đạo và điều hoà những bước theo đuổi sự giầu có. Sismondi phản bác những sáng chế hất bỏ những quá trình sản xuất đang tồn tại và chỉ ủng hộ những sáng chế phục vụ cho những nhu cầu đang mở rộng. Lý luận của ông đã thể hiện một tiếng nói phản kháng hơn là một học thuyết và đã gây ảnh hưởng tới những nhà văn xã hội chủ nnghĩa sau này.
+ @sissoo  
+*  dt
+- gỗ xixu (một loại gỗ quý của Ân độ)
+
+@sissy   (sissy) @sissyish  
+*  tt
+- ẻo lả; õng ẹo
+
+@sister  
+*  dt
+- chị, em gái
+
++ sister german: chị (em) ruột
+- bạn gái thân (coi như chị em gái)
+- nữ tu sĩ, ni cô
+
++ sister of mercy: bà phước
+- chị y tá; chị y tá trưởng
+- bà chị, cô em (vật được nhân cách hoá coi như chị em gần gũi)
+
++ prose, younger sister of verse: văn xuôi, cô em của văn vần
+
+@sisterd-in-law  
+*  dt,  số nhiều sisters-in-law
+- chị dâu, cô em dâu; chị vợ, cô em vợ
+
+@sisterhood  
+*  dt
+- tình chị em
+- hội phụ nữ từ thiện
+- tổ chức tôn giáo của phụ nữ
+
+@sister-in-law  
+*  dt,  số nhiều sisters-in-law
+- chị dâu, cô em dâu; chị vợ, cô em vợ
+
+@sisterless  
+*  tt
+- không có chị, không có em gái
+
+@sisterliness  
+*  dt
+- tình thân thiết, tình ruột thịt (như chị em)
+
+@sisterly  
+*  tt
+- của chị em; về chị em; như chị em; thân thiết, ruột thịt (như chị em)
+
+@sisyphean  
+*  tt
+- như Xi-xi-phút (người bị Thượng đế bắt đẩy đá lên núi, hễ đá trôi xuống lại phải đẩy lên)
+- (nghĩa bóng) cần cù, kiên nhẫn
+- (nghĩa bóng) nặng nhọc và không bao giờ hết (công việc...)
+
+@sit  
+*  ndgt sat
+- ngồi
+
++ to sit round the fire: ngồi xung quanh lửa
+
++ to sit still: ngồi yên
+
++ to sit in state: ngồi chễm chệ, ngồi oai vệ
+
++ to sit tight: (thông tục) ngồi lỳ; không lay chuyển, không nhượng bộ; nghiến răng rán sức
+
++ to sit for an examination: đi thi
+- đậu (chim)
+- ấp (gà mái)
+
++ sitting hen: gà đang ấp
+
++ the hen wants to sit: gà muốn ấp
+- họp, nhóm họp
+
++ Parliament is sitting: quốc hội đang họp
+- vừa, hợp (quần áo)
+
++ dress sits well: quần áo vừa vặn
+*  ngdgt
+- ngồi, cưỡi
+
++ to sit a horse well: ngồi vững trên lưng ngựa
+- đặt (đứa trẻ) ngồi
+
++ to sit a child on the table: đặt đứa bé ngồi lên bàn
+!to sit down
+- ngồi xuống
+!to sit for
+- đại diện cho
+
++ to sit for Hanoi: đại diện cho Hà nội (quốc hội)
+- ngồi làm mẫu (cho hoạ sĩ vẽ)
+!to sit in
+- tham gia, dự vào
+- (thông tục) trông trẻ
+- biểu tình ngồi
+!to sit on (upon)
+- ngồi họp bàn về
+!to sit on (upon)
+- (từ lóng) trấn áp, đàn áp
+!to sit out
+- không tham gia (nhảy...)
+- ngồi cho đến hết buổi (thuyết trình...)
+!to sit over
+- (đánh bài) ngồi tay trên
+- ở thế lợi
+!to sit under
+- ngồi nghe giảng đạo
+!to sit up
+- ngồi dậy
+- đứng lên hai chân sau (chó)
+- (thông tục) giật mình, ngạc nhiên
+!to sit at home
+- ngồi nhà; ăn không ngồi rồi
+!to sit down hard on a plan
+- cương quyết chống một kế hoạch
+!to sit down under a abuse
+- cúi đầu chịu nhục; ngậm bồ hòn làm ngọt
+!to sit somebody out
+- ngồi lâu hơn ai
+!to sit up late
+- thức khuya
+!to make somebody sit up
+- (thông tục) bắt ai làm việc vất vả; làm cho ai đau; làm ai phải ngạc nhiên
+!to sit up and take notice
+- (thông tục) đột nhiên có cái gì làm cho mình phải chú ý
+!to sit well
+- ngồi đúng tư thế (trên mình ngựa)
+!food sits heavily on the stomach
+- thức ăn lâu tiêu
+!his principles sit loosely on him
+- anh ta không theo đúng những nguyên tắc của mình
+!sits the wind there?
+- có phải ở đấy không?
+- có phải tình hình như thế không?
+
+@sitar
+* dt
+- đàn xita (đàn dây Ân độ giống ghi-ta, có cần đàn dài)
+ @sitcome
+- hài kịch tình thế (hài kịch, thường trong một chương trình truyền hình hay truyền thanh, dựa trên một tập hợp những tính cách ở một tình thế riêng biệt nào đó)
+ @sit-down  
+*  dt
+- cuộc đình công ngồi, cuộc đình công chiếm xưởng ((cũng) sit-down strike)
+
+@sit-down strike
+* dt
+- cuộc đình công ngồi chiếm xưởng
+- bữa ăn ngồi
+ @site  
+*  dt
+- nơi, chỗ, vị trí
+
++ a good site for a picnic: một nơi đi chơi cắm trại tốt
+- đất xây dựng
+
++ construction site: công trường
+
++ building site: đất để cất nhà
+*  ngdgt
+- đặt, để, định vị trí
+
++ well sited school: trường xây ở chỗ tốt
+
+@sitfast  
+*  dt
+- chỗ chai yên (trên lưng ngựa)
+
+@sith  
+*  liên từ
+- (từ cổ,nghĩa cổ); (kinh thánh) từ, từ khi, từ lúc
+
+@sit-in  
+*  dt
+- cuộc biểu tình ngồi
+
+@siting
+* dt
+- sự chọn địa điểm
+ @sitiology  
+*  dt
+- khoa thực phẩm
+
+@sitology
+* dt
+- dinh dưỡng học
+ @sitter  
+*  dt
+- người ngồi
+- người mẫu (để vẽ)
+- gà ấp
+- (từ lóng) việc dễ làm, công việc ngon ăn, món bở
+- buồng tiếp khách
+- (như) baby-sitter
+
+@sitter-in  
+*  dt
+- người biểu tình ngồi
+- (như) baby-sitter
+
+@sitting  
+*  dt
+- sự ngồi; sự đặt ngồi
+- buổi họp
+- lần, lúc, lượt (ngồi)
+
++ room where 200 people can be served at a sitting: phòng có thể phục vụ được 200 người một lần
+- sự ngồi làm mẫu vẽ; buổi ngồi làm mẫu vẽ
+- ghế dành riêng (trong nhà thờ)
+- ổ trứng, lứa trứng
+
+@sitting duck  
+*  dt
+- (thông tục) người có thế dễ bị công kích, người ở thế dễ bị tổn thương
+- mục tiêu dễ trúng
+
+@sitting member
+* dt
+- ứng cử viên ở một cuộc tổng tuyển cử mà nếu trúng cử sẽ được giữ ghế cho đến cuộc bầu cử sau
+ @sitting tenant
+* dt
+- người đang ở, người đang thuê, người hiện đang sống (trong một căn hộ )
+ @sitting-room  
+*  dt
+- phòng ngồi chơi, phòng khách
+
+@situate  
+*  ngdgt (từ Mỹ,nghĩa Mỹ)
+- đặt ở vị trí, đặt chỗ cho
+- đặt vào hoàn cảnh
+
+@situated  
+*  tt
+- ở
+
++ situated on the top of the hill: ở trên đỉnh đồi
+- ở vào một tình thế, ở vào một hoàn cảnh
+
++ awkwardly situated: ở vào một tình thế khó xử
+
+@situation  
+*  dt
+- vị trí, địa thế
+
++ unrivalled for situation: địa thế đẹp không đâu bằng
+- tình thế, tình cảnh, hoàn cảnh, trạng thái
+
++ an embarrassing situation: tình thế lúng túng
+- chỗ làm, việc làm
+
++ to find a situation: tìm được việc làm
+- điểm nút (của kịch)
+
+@situation comedy
+* dt
+- hài kịch tình thế (hài kịch, thường trong một chương trình truyền hình hay truyền thanh, dựa trên một tập hợp những tính cách ở một tình thế riêng biệt nào đó)
+ @Situation utility possibility frontier
+- (Econ) Đường giới hạn khả năng thoả dụng tình thế.
+: Đường bao của một tập hợp những ĐƯỜNG BAO KHẢ NĂNG THOẢ DỤNG.
+ @sit-up
+* dt
+- (thể dục thể thao) cách nằm xuống rồi ngồi dậy lưng thẳng, chân duỗi thẳng (để tập thể dục)
+ @situs
+- analysis s. tôpô học 
+ @sitz-bath  
+*  dt
+- (y học) sự tắm ngồi; bồn tắm ngồi
+- sự ngâm đít; bồn ngâm đít
+
+@sivaism  
+*  dt
+- đạo Xi-va
+
+@sivaistic  
+*  tt
+- (thuộc) đạo Xi-va
+
+@sivaite  
+*  dt
+- người theo đạo Xi-va
+
+@six  
+*  tt
+- sáu
+
++ six o'clock: sáu giờ
+
++ to be six: lên sáu (tuổi)
+*  dt
+- số sáu
+
++ twice six is twelve: hai lần sáu là mười hai
+- (số nhiều) nếu số sáu (cứ 6 cây được một pao)
+- (đánh bài) con sáu; mặt sáu (súc sắc)
+!at sixes and sevens
+- lung tung, hỗn loạn
+- bất hoà
+!it is six of one and half a dozen of the other
+- bên tám lạng, bên nửa cân
+
+@six
+- sáu
+ @sixain  
+*  dt
+- bài thơ sáu câu
+
+@sixfold  
+*  tt & dt
+- gấp sáu lần
+
+@six-footer  
+*  dt
+- (thông tục) người cao sáu phút (hơn 1 m80)
+
+@six-pack
+* dt
+- <Mỹ> hộp chứa sáu lon hay chai (nhất là bia)
+ @sixpence  
+*  dt
+- sáu xu; đồng sáu xu (tiền Anh)
+
+@sixpenny
+* tt
+- giá sáu penni
+ @six-shooter  
+*  dt
+- súng sáu, súng lục
+
+@sixte  
+*  dt
+- (thể dục,thể thao) thế kiếm thứ sáu
+
+@sixteen  
+*  tt
+- mười sáu
+*  dt
+- số mười sáu
+
++ twice sixteen is thirty two: hai lần mười sáu là ba mươi hai
+
+@sixteen
+- mười sáu
+ @sixteenmo   (sixteenmo) @sixteenth  
+*  tt
+- thứ mười sáu
+*  dt
+- một phần mười sáu
+- người thứ mười sáu; vật thứ mười sáu; người mười sáu
+
++ January the sixteenth: 16 tháng giêng
+- (âm nhạc) nốt móc đôi
+
+@sixteenth
+- thứ mười sáu; một phần mười sáu
+ @sixteenth note
+- <nhạc> nốt móc đôi
+ @sixth  
+*  tt
+- thứ sáu
+*  dt
+- một phần sáu
+- người thứ sáu; vật thứ sáu; ngày mồng sáu
+
++ March the sixth: mồng 6 tháng 3
+- lớp sáu
+- (âm nhạc) quãng sáu; âm sáu
+
+@sixth
+- thứ sáu; một phần sáu
+ @sixth form
+* dt
+- lớp sáu (trong trường trung học)
+ @sixth former
+* dt
+- học sinh lớp sáu
+ @sixthly  
+*  dt
+- sáu là
+
+@sixties
+* dt
+- số nhiều
+- những năm sáu mươi
+ @sixtieth  
+*  tt
+- thứ sáu mươi
+*  dt
+- một phần sáu mươi
+- người thứ sáu mươi; vật thứ sáu mươi
+
+@sixtieth
+- thứ sáu mươi; một phần sau mươi
+ @sixty  
+*  tt
+- sáu mươi
+
++ to be sixty: sáu mươi tuổi
+*  dt
+- số sáu mươi
+- (số nhiều) (the sixties) những năm sáu mươi (từ 60 đến 69 của (thế kỷ)); những năm tuổi thọ trên sáu mươi (từ 60 đến 69)
+
++ to be not far off sixty: gần sáu mươi (tuổi)
+
+@sixty
+- sáu mươi (60)
+ @sizable   (sizeable) @sizar  
+*  dt
+- học sinh được giảm học phí (ở đại học Căm-brít)
+
+@sizarship  
+*  dt
+- học bổng (của học sinh đại học Căm-brít)
+
+@size  
+*  dt
+- kích thước, độ lớn
+
++ to take the size of something: đo kích thước vật gì
+
++ size matters less than quality: to nhỏ không quan trọng bằng chất lượng
+
++ to be the size of an egg: lớn bằng quả trứng
+
++ what's your size?: anh cao bao nhiêu?
+- cỡ, khổ, số
+
++ to be made in several sizes: được sản xuất theo nhiều cỡ
+
++ of a size: cùng một cỡ
+
++ to take size 40 in shoes: đi giày số 40
+- dụng cụ (để) đo ngọc
+- suất ăn, khẩu phần (ở đại học Căm-brít) ((cũng) sizing)
+- (sử học) chuẩn mực cân đo
+!that's about the size of it
+- (thông tục) đầu đuôi câu chuyện đúng là như thế
+*  ngdgt
+- sắp xếp theo cỡ to nhỏ
+*  ndgt
+- đặt suất ăn, đặt khẩu phần (ở đại học Căm-brít)
+!to size up
+- ước lượng cỡ của
+- (thông tục) đánh giá
+*  dt
+- hồ (để dán, để hồ vải...)
+*  ngdgt
+- phết hồ; hồ (quần áo)
+
+@size
+- cỡ, kích thước
+- s. of a region (thống kê) mức ý nghĩa
+- lot s. cỡ lô
+- mesh s. bước lưới; (máy tính) cỡ ô
+- sample s. cỡ mẫu 
+ @Size distribution of firms
+- (Econ) Phân phối theo quy mô về hãng.
+: Phân phối tần xuất mà trong đó các hãng thuộc một ngành hay một khu vực kinh tế được phân chia theo quy mô.
+ @sizeable   (sizeable) @sized
+* tt
+- (trong từ ghép) có quy mô như thế nào đó
+ @sizer  
+*  dt
+- người sắp xếp (vật dụng) theo cỡ to nhỏ
+- máy tuyển quặng
+
+@size-stick  
+*  dt
+- thước đo chân (của thợ giày)
+
+@sizing
+* dt
+- suất ăn, khẩu phần (ở đại học Căm-brít)
+ @sizy  
+*  tt
+- như hồ, dính như hồ
+
+@sizzle  
+*  dt
+- (thông tục) tiếng xèo xèo
+*  ndgt
+- xèo xèo
+
++ fat sizzles in the pan: mỡ xèo xèo trong chảo
+
+@sizzler
+* dt
+- <thgt> ngày rất nóng nực
+ @

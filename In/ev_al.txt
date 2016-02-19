@@ -1,0 +1,2767 @@
+@alabaster  
+*  dt
+- (khoáng chất) thạch cao tuyết hoa
+
+@alack   (alackaday) @alackaday   (alackaday) @alacritous
+- xem alacrity
+ @alacrity  
+*  dt
+- sự sốt sắng
+- sự hoạt bát, sự nhanh nhẩu
+
+@alalia
+* dt
+- (y học) chứng mất khả năng nói
+ @alanine
+* dt
+- (hoá học) Alanin
+ @alar  
+*  tt
+- (thuộc) cánh; giống cánh; hình cánh
+
+@alarm  
+*  dt
+- sự báo động, sự báo nguy
+
++ air-raid alarm: báo động phòng không
+- còi báo động, kẻng báo động, trống mõ báo động, chuông báo động; cái còi báo động; cái kẻng để báo động, cái chuông để báo động
+
++ to give the alarm: báo động
+
++ to sound (ring) the alarm: kéo còi báo động, đánh trống (mõ) báo động, rung chuông báo động
+- đồng hồ báo thức ((cũng) alarm clock)
+- sự sợ hãi, sự lo sợ, sự hoảng hốt, sự hoảng sợ
+
++ to take the alarm: được báo động; lo âu, sợ hãi
+
+@alarm clock
+* dt
+- đồng hồ báo thức
+ @alarm module
+- (Tech) tổ kiện báo động
+ @alarm-clock  
+*  dt
+- đồng hồ báo thức
+
+@alarming  
+*  tt
+- làm lo sợ, làm sợ hãi, làm hốt hoảng, làm hoảng sợ
+
+@alarmingly
+* dt
+- đáng lo ngại
+ @alarmism
+- xem alarmist
+ @alarmist  
+*  dt
+- người hay gieo hoang mang sợ hãi
+- (định ngữ) gieo hoang mang sợ hãi
+
++ alarmist rumours: tin đồn giao hoang mang sợ hãi
+
+@alarm-post  
+*  dt
+- (quân sự) nơi tập trung quân đội khi có báo động
+
+@alarum  
+*  dt
+- (thơ ca) sự báo động, sự báo nguy ((cũng) alarm)
+- chuông đồng hồ báo thức ((cũng) alarum clock)
+
++ alarums and excursions:(đùa cợt) sự ồn ào náo nhiệt và bận rộn rối rít
+
+@alas  
+*  thán từ
+- chao ôi!, than ôi!, trời ơi!, ôi!
+
+@alate
+* tt
+- (động vật) có cánh; có môi rộng (thân mềm)
+ @alb  
+*  dt
+- áo dài trắng (của thầy tu, của vua được phong thánh)
+
+@albacore  
+*  dt
+- (động vật học) cá ngừ
+
+@albanian  
+*  tt
+- (thuộc) An-ba-ni
+- (sử học) (thuộc) Ê-cốt
+*  dt
+- người An-ba-ni
+- tiếng An-ba-ni
+- (sử học) người Ê-cốt
+
+@albata  
+*  dt
+- hợp kim mayso
+
+@albatross  
+*  dt
+- chim hải âu lớn
+
+@albedo
+* dt
+- (vật lý) anbeđô, suất phân chiếu
+ @albedo
+- suất phản chiếu, anbeđô
+ @albeit  
+*  liên từ
+- (từ cổ,nghĩa cổ) mặc dù, dù, dẫu
+
++ he tried albeit without success: anh ta vẫn cố gắng mặc dù không thành công
+
+@albert  
+*  dt
+- dây đồng hồ anbe ((cũng)[Albert chain]) (lấy tên của ông hoàng An-be, chồng nữ hoàng Vich-to-ri-a)
+
+@albescent  
+*  tt hoá trắng, trở nên trắng
+
+@albiness
+* dt
+- cô gái sinh ra tóc trắng
+ @albinism  
+*  dt
+- (y học) chứng bạch tạng
+
+@albinistic
+- xem albinism
+ @albino  
+*  dt,  số nhiều albinos
+- người bạch tạng
+- thú bạch tạng, cây bạch tạng
+
+@albion  
+*  dt
+- (thơ ca) nước Anh
+
+@albite  
+*  dt
+- (khoáng chất) Fenspat trắng
+
+@albitic
+- xem albite
+ @albuginia
+* dt
+- (giải phẫu) học màng trắng
+ @albugo  
+*  dt
+- (y học) chứng vảy cá (ở mắt)
+
+@album  
+*  dt
+- tập ảnh, quyển anbom
+
+@albumen  
+*  dt
+- lòng trắng, trứng
+- (hoá học) Anbumin
+- (thực vật học) phôi nhũ, nội nhũ
+
+@albumenize  
+*  ngdgt
+- phết một lớp anbumin (giấy ảnh)
+
++ albumenized paper: giấy abumin
+
+@albumin  
+*  dt
+- (hoá học) Anbumin
+
+@albuminoid  
+*  dt
+- (hoá học) Anbuminoit
+*  tt
+- dạng anbumin
+
+@albuminous  
+*  tt
+- (thuộc) anbumin; có anbumin
+
+@albuminuria  
+*  dt
+- (y học) chứng đái anbumin
+
+@albuminuric
+- xem albuminuria
+ @alburnum  
+*  dt
+- dác (gỗ)
+
+@alcaic
+* dt
+- (thơ) thể thơ ancaic (mười bốn câu, mỗi câu bốn bộ)
+ @alcalde
+* dt
+- Pháp quan (Tây Ban Nha)
+ @alcazar
+* dt
+- thành lũy (Tây Ban Nha), cung điện (Tây-ban-nha)
+ @alchemic   (alchemical) @alchemical   (alchemical) @alchemise   (alchemise) @alchemist  
+*  dt
+- nhà giả kim
+
+@alchemistic
+- xem alchemist
+ @alchemistical
+- xem alchemist
+ @alchemize   (alchemise) @alchemy  
+*  dt
+- thuật giả kim
+
+@alcohol  
+*  dt
+- rượu cồn
+- (định ngữ) (thuộc) cồn
+
+@alcoholic  
+*  tt
+- (thuộc) rượu; có chất rượu; gây nên bởi rượu
+
++ alcoholic drinks: đồ uống có rượu
+
++ alcoholic solution: dung dịch rượu
+*  dt
+- người nghiện rượu
+
+@alcoholisation
+* dt
+- sự cho chịu tác dụng của rượu
+- sự cho bão hoà rượu
+ @alcoholise   (alcoholise) @alcoholism  
+*  dt
+- tác hại của rượu (đối với cơ thể)
+- (y học) chứng nghiện rượu
+
+@alcoholization  
+*  dt
+- sự cho chịu tác dụng của rượu
+- sự cho bão hoà rượu
+
+@alcoholize   (alcoholise) @alcoholometer  
+*  dt
+- ống đo rượu
+
+@alcoholometry  
+*  dt
+- phép đo rượu
+
+@alcoran  
+*  dt
+- kinh Co-ran (đạo Hồi)
+
+@alcove  
+*  dt
+- góc phòng thụt vào (để đặt giường...)
+- góc hóng mát (có lùm cây, trong vườn)
+- hốc tường (để đặt tượng)
+
+@alcyon
+- động vật
+- chim thanh bình; chim trả
+ @alcyonarian
+* dt
+- san hô
+ @aldehyde  
+*  dt
+- (hoá học) Anđehyt
+
+@alder  
+*  dt
+- (thực vật học) cây tổng quán sủi
+
+@alderman  
+*  dt
+- uỷ viên hội đồng thành phố, uỷ viên hội đồng khu ở Anh
+
+@aldermancy
+- xem alderman
+ @aldermanic
+* tt
+- thuộc về ủy viên hội đồng khu ở Anh
+ @aldermanry  
+*  dt
+- quận có uỷ viên trong hội đồng thành phố
+- (như) aldermanship
+
+@aldermanship  
+*  dt
+- chức uỷ viên hội đồng thành phố, chức uỷ viên hội đồng khu
+
+@aldol
+* dt
+- (hoá học) Anđola
+ @ale  
+*  dt
+- rượu bia
+- cuộc vui liên hoan uống bia
+!Adam's ale
+- (xem) Adam
+
+@aleak  
+*  tt
+- có lỗ rò, rỉ nước
+
+@aleatory  
+*  tt
+- may rủi, không chắc, bấp bênh
+
+@aleatory
+- ngẫu nhiên
+ @alecithal
+- Cách viết khác : alecithic 
+ @alee  
+*  dt & tt
+- (hàng hải) dưới gió, phía dưới gió
+
+@alegar  
+*  dt
+- rượu bia chua
+- giấm rượu bia
+
+@ale-house  
+*  dt
+- quán bia
+
+@alembic  
+*  dt
+- nồi chưng, nồi cất ((cũng) limbec)
+
++ throught the elembic of fancy: qua cái lăng kính của trí tưởng tượng
+
+@aleph, alef
+- alep
+ @aleph-null, aleph-zero
+- alep không
+ @alepidote
+* tt
+- không vẩy
+ @alert  
+*  tt
+- tỉnh táo, cảnh giác
+- linh lợi, nhanh nhẹn, nhanh nhẫu, hoạt bát
+*  dt
+- sự báo động, sự báo nguy
+
++ to put on the alert: đặt trong tình trạng báo động
+- sự báo động phòng không; thời gian báo động phòng không
+- sự cảnh giác, sự đề phòng
+
++ to be on the alert: cảnh giác đề phòng
+
+@alert
+- (Tech) báo động (d @alert broacasting
+- (Tech) quảng bá báo động
+ @alertly
+* dt
+- cảnh giác, lanh lợi
+ @alertness  
+*  dt
+- sự tỉnh táo, sự cảnh giác
+- tính lanh lợi, tính nhanh nhẹn, tính nhanh nhẩu, tính hoạt bát
+
+@aleuron   (aleurone) @aleurone   (aleurone) @aleuronic
+- xem aleurone
+ @alevin
+* dt
+- (động vật) cá bột
+ @ale-wife  
+*  dt
+- bà chủ quán bia
+- (động vật học) cá trích (từ Mỹ,nghĩa Mỹ)
+
+@alexandrine  
+*  dt
+- thể thơ alexanđrin (mỗi câu có mười hai âm tiết)
+*  tt
+- (thuộc) thể thơ alexanđrin
+
+@alexia
+* dt
+- (y học) bệnh mất khả năng đọc hoàn toàn hay một phần
+ @alexin  
+*  dt
+- (y học) chất alexin
+
+@alexipharmic  
+*  tt
+- giải độc
+*  dt
+- thuốc giải độc
+
+@alexipyretic
+* dt
+- thuốc giải nhiệt
+ @alfa
+* dt
+- (ngôn) chữ cái đầu tiên trong bảng chữ cái Hy lạp
+- khởi thủy, cái đầu tiên
+ @alfalfa  
+*  dt
+- (thực vật học) cỏ linh lăng
+
+@alfaliresistance
+* dt
+- sự chịu kiềm
+ @alfresco  
+*  dt & tt
+- ở ngoài trời
+
++ to live alfresco: sống ở ngoài trời
+
++ an alfresco meal: bữa cơm ăn ở ngoài trời
+
+@alga  
+*  dt,  số nhiều algae 
+@algae  
+*  dt,  số nhiều algae 
+@alga-eating
+* tt
+- ăn tảo
+ @algal
+- xem alga
+ @algebra  
+*  dt
+- đại số học
+
+@algebra
+- (Tech) đại số
+ @algebra
+- đại số học, đại số
+- a. of classesđại số các lớp
+- a. of finite order đại số có cấp hữu hạn
+- a. of logic đại số lôgic
+- abstract a. đại số trừu tượng
+- algebraic a. đại số đại số 
+- associative a. đại số kết hợp
+- Boolean a. đại số Bun
+- cardinal a. đại số bản số
+- central a. đại số trung tâm
+- closure a. đại số đóng
+- complete Boolean a. đại số Bun đầu đủ
+- complete matrix a. đại số toàn bộ ma trận
+- convolution a. đại số nhân chập
+- derived a. đại số dẫn xuất
+- diagonal a. đại số chéo
+- differential a. đại số vi phân
+- division a. đại số (có phép) chia
+- elementary a. đại số sơ cấp
+- enveloping a. đại số bao
+- exterior a. đại số ngoài
+- formal a. đại số hình thức
+- free a. đại số tự do
+- graded a. đại số phân bậc
+- graphic (al) a. đại số đồ thị
+- group a. đại số nhóm
+- homological a. đại số đồng đều
+- involutory a. đại số đối hợp
+- linear a. đại số tuyến tính
+- linearly comphact a. đại số compăc tuyến tính
+- linearly topological a. top, đạo số tôpô tuyến tính
+- logical a. đại số lôgíc
+- matrix a. đại số ma trận
+- modern a. đại số hiện đại
+- non-commutative a. đại số không giao hoán
+- polynomial a. đại số đa thức
+- power-associative a. đại số có luỹ thừa kết hợp
+- propositional a. đại số mệnh đề
+- quaternion a. đại số các quatenion
+- quotient a. đại số thương
+- rational division a. đại số (có phép) chia hữu tỷ
+- relation a. đại sốcác quan hệ
+- right alternative a. đại sốthay phiên phải
+- separable a. đại số tách được
+- simple a. đại số đơn
+- supplemented a. đại số phụ
+- symmetric(al) a. đại số đối xứng
+- tensor a. đại số tenxơ
+- universal a. đại số phổ dụng
+- vector a. đại số véctơ
+- zero a. đại số không 
+ @algebraic   (algebraical) @algebraic code
+- (Tech) mã đại số
+ @algebraic equation
+- (Tech) phương trình đại số
+ @algebraic expression
+- (Tech) biểu thức đại số
+ @algebraic value
+- (Tech) trị đại số
+ @algebraical   (algebraical) @algebraic(al)
+- (thuộc) đại số
+ @algebraically
+* dt
+- về phương diện đại số, theo phương pháp đại số
+ @algebraically
+- một cách đại số
+ @algebraist  
+*  dt
+- nhà đại số học
+
+@algebroid
+- phòng đại số
+ @algerian   (Algerine) @algerine   (Algerine) @algicid
+* dt
+- (hoá học) chất diệt tảo
+ @algid  
+*  tt
+- lạnh giá, cảm hàm
+
+@algidity  
+*  dt
+- sự lạnh giá, sự cảm hàn
+
+@algobrithm
+- thuật toán, angôrit
+- division a. thuật toán 
+- Euclid’s a. thuật toán Ơclít 
+ @algol
+- (vt của ALGOrithmic Language) tên một ngôn ngữ lập trình
+ @ALGOL (algebraic oriented language)
+- (Tech) ngôn ngữ hướng đại số
+ @ALGOL (algorithmic language)
+- (Tech) ngôn ngữ thuật toán
+ @ALGOL (algorithmic oriented language)
+- (Tech) ngôn ngữ hướng thuật toán
+ @algolagmia
+* dt
+- (y học) việc tìm hứng thú vui trong việc tự gây đau khổ cho mình hay cho mình hay cho người khác
+ @algological
+- xem algology
+ @algologically
+- xem algology
+ @algologist  
+*  dt
+- nhà nghiên cứu tảo
+
+@algology  
+*  dt
+- khoa nghiên cứu tảo
+
+@algometer
+* dt
+- dụng cụ đo áp lực nhỏ nhất gây đau đớn
+ @algometry
+* dt
+- khoa đo đau đớn
+ @algophagous
+* tt
+- ăn tảo
+ @algophobia
+* dt
+- (y học) chứng sợ đau
+ @algor
+* dt
+- cảm giác lạnh cóng
+ @algorism   (algorithm) @algorithm  
+*  dt
+- thuật toán
+
+@algorithm
+- (Tech) thuật toán, giải thuật
+ @algorithmic
+- xem algorithm
+ @algorithmical
+- (thuộc) thuật toán, angôrit
+ @alias  
+*  dt
+- bí danh, tên hiệu, biệt hiệu
+
++ he went under many aliases: nó có nhiều bí danh
+*  dt
+- tức là; bí danh là; biệt hiệu là
+
++  Smith alias John: Xmít tức Giôn
+
+@alias
+- (Tech) biệt hiệu, biệt danh
+ @aliasing
+- (Tech) rối loạn
+ @alibi  
+*  dt
+- (pháp lý) chứng cớ vắng mặt (để chứng tỏ rằng khi sự việc xảy ra thì mình ở nơi khác)
+
++ to set up an alibi: dựng lên một chứng cớ vắng mặt
+- (thông tục) cớ để cáo lỗi
+
+@alicyclic
+* tt
+- <hóa> (thuộc) vòng no
+ @alicylic  
+*  tt
+- (hoá học) (thuộc) vòng no
+
+@alidad   (alidade) @alidade   (alidad) @alien  
+*  tt
+- (thuộc) nước ngoài, (thuộc) chủng tộc khác
+
++ alien customs: những phong tục nước ngoài
+- alien from,  to lạ, xa lạ, khác biệt; không có quan hệ gì với; không phải của mình
+
++ their way of thingking is alien from ours: cách suy nghĩ của họ khác với suy nghĩ của chúng ta
+
++ that question is alien to our subject: câu hỏi đó không có quan hệ gì với vấn đề của chúng ta
+- alien to trái với, ngược với
+
++ it's alien to my throughts: cái đó trái với những ý nghĩ của tôi
+*  dt
+- người xa lạ; người không cùng chủng tộc, người khác họ
+- người nước ngoài, ngoại kiều
+- người bị thải ra khỏi..., người bị khai trừ ra khỏi...
+*  ngdgt
+- (thơ ca) làm cho giận ghét; làm cho xa lánh ra
+
++ to alien someone from his friends: làm cho bạn bè xa lánh ai
+- (pháp lý) chuyển nhượng (tài sản...)
+
+@alienability  
+*  dt
+- (pháp lý) tính có thể chuyển nhượng được, khả năng nhường lại được
+
+@alienable  
+*  tt
+- (pháp lý) có thể chuyển nhượng được, có thể năng nhường lại được (tài sản)
+
+@alienate  
+*  ngdgt
+- làm cho giận ghét; làm cho xa lánh
+
++ to be alienated from...: bị xa lánh...
+- (pháp lý) chuyển nhượng (tài sản...)
+
+@alienated
+* tt
+- bị bệnh tâm thần
+ @alienation  
+*  dt
+- sự làm cho giận, sự làm cho ghét, sự làm cho xa lánh; sự xa lìa, sự ghét bỏ, sự chán ghét; mối bất hoà
+
++ after his alienation from his relatives: sau cái chuyện bất hoà giữa anh ta và bà con họ hàng; sau khi anh ta bị bà con họ hàng ghét bỏ
+- (pháp lý) sự chuyển nhượng (tài sản...)
+- (y học) bệnh tinh thần ((cũng) mental alienation)
+
+@Alienation
+- (Econ) Sự tha hoá
+: Thuật ngữ được C.MÁC sử dụng để miêu tả tình trạng tinh thần của công nhân trong một xã hôi tư bản.
+ @alienator  
+*  dt
+- (pháp lý) người chuyển nhượng (tài sản...)
+
+@alienee  
+*  dt
+- (pháp lý) người được chuyển nhượng
+
+@alienism  
+*  dt
+- tính cách ngoại kiều
+- (y học) khoa
+
+@alienist  
+*  dt
+- (y học) người bị bệnh tinh thần
+
+@alienor
+* dthư aliener
+- người chuyển nhượng
+ @aliform  
+*  tt
+- hình cánh
+
+@alight  
+*  tt
+- cháy, bùng cháy, bốc cháy
+
++ to set something alight: đốt cháy cái gì
+
++ to keep the fire alight: giữ cho ngọc lửa cháy
+- bừng lên, sáng lên, rạng lên, ngời lên
+
++ faces alight with delight: mặt ngời lên niềm hân hoan
+*  ndgt
+- xuống, bước cuống (ngựa,  ôtô, xe lửa...)
+- hạ xuống, đậu xuống, đỗ xuống (từ trên không) (máy bay, chim...)
+!to light on ones's feet
+- đặt chân xuống đất trước (khi ngã hay nhảy)
+- (nghĩa bóng) tránh được tổn thất, tránh được tai hại
+
+@align   (aline) @align
+- (Tech) điều chỉnh, hiệu chính; đồng chỉnh, xếp hàng; đóng khung (đ)
+ @align
+- sắp hàng, làm cho bằng nhau
+ @aligned
+- (Tech) được đồng chỉnh
+ @aligned
+- được sắp hàng
+ @aligner
+- xem align
+ @aligning
+- (Tech) điều chỉnh, hiệu chỉnh; đồng chỉnh, xếp hàng
+ @alignment   (alinement) @alignment
+- (Tech) điều chỉnh, hiệu chỉnh; đồng chỉnh; chỉnh hàng; định tuyến [TQ]; tuần tự; đóng khung (d); đóng khung
+ @alignment
+- sự sắp hàng
+ @alike  
+*  tt
+- giống, tương tự
+*  dt
+- giống nhau, như nhau, đều nhau
+
++ to be dressed alike: ăn mặc giống nhau
+
++ share and share alike: chia đều
+
+@alikeness
+- xem alike
+ @alima
+* dt
+- ấu trùng alima
+ @aliment  
+*  dt
+- đồ ăn
+- sự cấp dưỡng; sự giúp đỡ về vật chất và tinh thần
+*  ngdgt
+- cho ăn, nuôi dưỡng
+- cấp dưỡng; giúp đỡ về vật chất và tinh thần
+
+@alimental  
+*  tt
+- dùng làm đồ ăn; nuôi dưỡng
+- bổ
+
+@alimentally
+- xem aliment
+ @alimentary  
+*  tt
+- (thuộc) đồ ăn; nuôi dưỡng, dinh dưỡng
+
++ alimentary products: thực phẩm
+
++ alimentary tract: đường tiêu hoá
+- bổ, có chất bổ
+- cấp dưỡng
+
++ alimentary endowment: tiền cấp dưỡng
+
+@alimentation  
+*  dt
+- sự nuôi cho ăn, sự nuôi dưỡng
+- sự cấp dưỡng
+
+@alimentative
+- xem alimentation
+ @alimony  
+*  dt
+- sự nuôi cho ăn, sự nuôi dưỡng
+- sự cấp dưỡng
+- (pháp lý) tiền cấp dưỡng cho vợ (sau khi vợ chồng đã cách ly vì một lý do gì)
+
+@aline   (align) @alined
+- được sắp hàng
+ @alinement   (alinement) @aliped  
+*  tt
+- (động vật học) có chân cánh
+*  dt
+- động vật chân cánh (như con dơi)
+
+@aliphatic  
+*  tt
+- (hoá học) béo
+
++ aliphatic compound: hợp chất béo
+
+@aliquant
+* tt
+- không thể chia hết
+
++  4 is an aliquant part of 9:4 không thể chia hết cho 9
+ @aliquot
+- ước số
+ @aliquote  
+*  dt
+- (toán học) ước số
+
+@alish
+* tt
+- giống như rượu bia
+ @alisphenoid
+* dt
+- (sinh học) xương cánh bướm
+ @alitrunk
+* dt
+- phần ngực-cánh (côn trùng)
+ @alive  
+*  tt
+- sống, còn sống, đang sống
+
++ to burn alive: thiêu sống
+- vẫn còn, còn tồn tại, còn có hiệu lực, còn giá trị
+
++ these train tickets are still alive: những vé xe lửa này vẫn còn có giá trị
+- nhan nhản, nhung nhúc, lúc nhúc
+
++ river alive with boats: dòng sông nhan nhản những thuyền bè
+- nhanh nhảu, nhanh nhẹn, sinh động, hoạt động
+
++ look alive!: nhanh lên!, quàng lên!
+- hiểu rõ, nhận thức được, giác ngộ
+
++ more and more people are alive to socialism: ngày càng có nhiều người hiểu rõ chủ nghĩa xã hội
+
++ to be alive and kicking: (đùa) còn sống và rất khoẻ mạnh, tràn đầy sức sống
+
++ any man alive: bất cứ người nào, bất cứ ai
+
++ man alive!: trời ơi! (thán từ diễn tả sự ngạc nhiên, giận dỗi...)
+
++ man alive what are you doing?: trời ơi! anh làm cái gì thế?
+
+@aliveness
+- xem alive
+ @alizarin   (alizarine) @alizarine   (alizarin) @alkalescence  
+*  dt
+- (hoá học) độ kiềm nhẹ
+
+@alkalescency
+- xem alkalescent
+ @alkalescent  
+*  tt
+- (hoá học) có độ kiềm nhẹ
+
+@alkali  
+*  dt
+- (hoá học) chất kiềm
+- (từ Mỹ,nghĩa Mỹ) đất muối
+- (thương nghiệp) xút bồ tạt, chất kiềm
+- (định ngữ) có chất kiềm
+
++ alkali earth: đất kiềm
+
+@alkalifiable  
+*  tt
+- (hoá học) có thể kiềm hoá
+
+@alkalify  
+*  dgt
+- (hoá học) kiềm hoá
+
+@alkalimeter  
+*  dt
+- (hoá học) cái đo kiềm
+
+@alkalimetric  
+*  tt
+- (hoá học) (thuộc) phép đo kiềm
+
+@alkalimetry  
+*  dt
+- (hoá học) phép đo kiềm
+
+@alkaline  
+*  tt
+- (hoá học) kiềm
+
+@alkaline battery
+- (Tech) bình điện kiềm
+ @alkalinity
+* dt
+- <hóa> tính kiềm
+ @alkaliphilic
+* tt
+- ưa kiềm
+ @alkaliphobic
+* tt
+- kỵ kiềm
+ @alkaliresistance
+* dt
+- sự chịu kiềm
+ @alkalitropic
+* tt
+- hướng kiềm
+ @alkalization  
+*  dt
+- (hoá học) sự kiềm hoá
+
+@alkalize  
+*  ngdgt
+- (hoá học) kiềm hoá
+
+@alkaloid  
+*  dt
+- (hoá học) Ancaloit
+
+@alkaloidal
+- xem alkaloid
+ @alkane
+* dt
+- (hoá học) ancan
+ @all  
+*  tt
+- tất cả, hết thảy, toàn bộ, suốt trọn, mọi
+
++ all my life: suốt đời tôi, trọn đời tôi
+
++ all day: suốt ngày
+
++ with all speed: hết tốc độ
+
++ for all that: mặc dù tất cả những cái đó
+
++ all Vietnam: toàn nước Việt Nam
+
++ in all respects: về mọi phương diện
+*  dt
+- tất cả, tất thảy, hết thảy, toàn thể, toàn bộ
+
++ all of us: tất cả chúng tôi; tất cả chúng ta
+
++ all is over!: thế là xong tất cả!
+
++ all are unanimous to vote: tất cả đều nhất trí bầu
+
++ that's all I know: đó là tất cả những điều tôi biết
+
++ all but he: tất cả trừ nó ra
+!above all
+- (xem) above
+!after all
+- (xem) after
+!all but
+- gần như, hầu như, suýt
+
++ all but impossible: gần như không thể làm được
+
++ he was all but drowned: hắn suýt chết đuối
+!all and sundry
+- toàn thể và từng người một, tất cả và từng cái một
+!all one
+- cũng vây thôi
+
++ it's all one to me: đối với tôi thì cái đó cũng vậy thôi
+
++ at all: chút nào, chút nào chăng
+
++ I don't know him at all: tôi không biết hắn ta một chút nào
+
++ in all: tổng cộng, tất cả, cả thảy
+!not at all
+- không đâu, không chút nào
+- không dám (lời đáp khi ai cảm ơn mình)
+!nothing at all
+- không một chút nào, không một tí gì
+!once for all
+- (xem) once
+!one and all
+- tất cả không trừ một ai; tất cả không trừ một cái gì
+*  dt
+- hoàn toàn, toàn bộ, tất cả, trọn vẹn
+
++ to be dressed all in white: mặc toàn trắng
+
++ that's all wrong: cái đó sai cả rồi
+!all alone
+- một mình, đơn độc
+- không ai giúp đỡ, tự làm lấy
+!all at once
+- cùng một lúc
+- thình lình, đột nhiên
+!all in
+- mệt rã rời, kiệt sức
+!all over
+- khắp cả
+
++ all over the world: khắp thế giới
+
++ to be covered all over with mud: bùn bẩn khắp người
+- xong, hết, chấm dứt
+
++ it's all over: thế là xong, thế là hết
+- hoàn toàn đúng là, y như hệt
+
++ she is her mother all over: cô ta y hệt như bà mẹ
+!all there
+- (thông tục) trí óc sáng suốt lành mạnh, không mất trí, không điên
+
++ he is not quite all there: anh ta mất trí rồi; trí óc anh ta không còn sáng suốt nữa rồi
+!all the same
+- cũng thế thôi, cũng vậy thôi, không có gì khác
+
++ it was all the same to him: cái đó đối với hắn thì cũng vậy thôi
+
++ if it's all the same to you: nếu đối với anh không phiền gì, nếu không phiền gì anh
+- mặc dù thế nào, dù sao đi nữa
+
++ he was punished all the same: mặc dù thế nào hắn cũng cứ bị phạt
+
++ all the same I ought to have stayed: dù sao chăng nữa tôi phải ở lại thì phải
+
++ thank you all the same: tuy vậy tôi vẫn xin cám ơn anh (chị...)
+!all the better
+- càng hay, càng tốt
+!all the more
+- càng
+!all the worse
+- mặc kệ
+!to be all attention
+- rất chăm chú
+!to be all ears
+- (xem) ear
+!to be all eyes
+- (xem) eye
+!to be all smimles
+- luôn luôn tươi cười
+!to be all legs
+- (xem) leg
+!graps all, lose all
+- (xem) grasp
+!it's all up with him
+!it's all over with him
+!it's all U.P. with him
+- (từ lóng) thế là nó tong rồi, thế là nó tiêu ma rồi thế là nó đi đời rồi
+!that's all there's to it
+- (thông tục) đấy chỉ có thế thôi, không có gỉ phải nói thêm nữa
+!it's (that's) all very well but...
+- (xem) well
+
+@all
+- toàn bộ, tất cả
+ @all clear
+* dt
+- (thường số ít) hiệu báo an
+ @all fools' day   (April-fool-dat) @all purpose electronic computer
+- (Tech) máy tính điện tử vạn năng, máy tính điện tử thông dụng
+ @all right  
+*  tt
+- bình yên vô sự; khoẻ mạnh
+- tốt, được, ổn
+
++ everything is all_right: mọi việc đều ổn cả
+
++ he is all_right: thằng ấy được đấy; nó khoẻ mạnh
+*  dt
+- tốt, hoàn toàn, hoàn hảo; đúng như ý muốn
+*  thán từ
+- được!, tốt!, được rồi!
+
+@all saints' day  
+*  dt
+- (tôn giáo) ngày lễ các thánh
+
+@all solid-state
+- (Tech) mạch rắn toàn bộ
+ @all souls' day  
+*  dt
+- (tôn giáo) ngày lễ vong hồn
+
+@allah  
+*  dt
+- (tôn giáo) thánh A-la, đức A-la
+
+@Allais Maurice (1911)
+- (Econ) Nhà kinh tế học người Pháp đã được nhận giải thưởng Nobel về kinh tế học năm 1988. Allais là một kỹ sư, bằng cách tự học về kinh tế chủ yếu trong thời kỳ Đức xâm chiếm Pháp suốt Chiến tranh thế giới thứ 2, khi đó ông ít được tiếp cận với các ấn phẩm nước ngoài. Mặc dù vậy, ông đã thành công trong việc tự xây dựng được những nền tảng to lớn về lý thuyết CÂN BẰNG TỔNG THỂ HIỆN ĐẠI và KINH TẾ HỌC PHÚC LỢI. Ông được coi là người cha đẻ và người dẫn đầu trí tuệ của trường phái biên học ở Pháp, đã sản sinh ra nhiều nhà kinh tế học nổi tiếng như Debreu. Mặc cho xu hướng thiên về lý thuyết mạnh mẽ, Allais vẫn cho rằng các mô hình lý thuyết được xây dựng để trả lời những câu hỏi thực tiễn và nên được kiểm nghiệm qua thực tế. Thành tích của ông được nhận giải Nobel chủ yếu là thành tựu nghiên cứu sơ bản về kinh tế học và đóng góp cơ bản của ông là các công thức toán học vĩ đại về cân bằng thị trường và tính chất hiệu quả của các thị trường. Nghiên cứu của ông về phân tích động thái vĩ mô tiền tệ và lý thuyết rủi ro cũng rất nổi bật. Mãi đến khi kiểm tra thực nghiệm về học thuyết độ thoả dụng kỳ vọng của VON NEUMANN-MORGENSTERN ông mới được nổi tiếng, thực nghiệm đó có tiêu đề là nghịch lý Allais. Ông đã chỉ ra rằng sự lựa chọn của các cá nhân khi được yêu cầu sắp xếp một cặp dự án rủi ro đều sắp xếp một cách hệ thống và lặp lại (như các nghiên cứu khác đã lựa chọn) mâu thuẫn với dự đoán tối đa hoá độ thoả dụng dự kiến. Các công trình của ông là Nghiên cứu về nguyên lý Kinh tế -1943 (sau còn được tái bản với tiêu đề Xử lý Kinh tế đơn thuần-1952) và Kinh tế và lợi nhuận(1947).
+ @all-american
+* tt
+- có những đức tính mà người Mỹ hâm mộ, đặc kiểu Mỹ
+ @allanto-chorion
+* dt
+- (sinh học) màng đệm túi niệu
+ @allantoic
+* tt
+- thuộc túi niệu
+ @allantoid
+* tt
+- dạng xúc xích; dạng khúc dồi
+ @allantois
+* dt
+- túi niệu (niệu nang)
+ @allantospore
+* dt
+- bào tử dạng xúc xích
+ @allargando
+* tt,  adv
+- nhạc chậm dần
+ @all-around  
+*  tt
+- (thể dục,thể thao) toàn diện, giỏi nhiều môn
+
+@allay  
+*  ngdgt
+- làm giảm, làm bớt, làm cho đỡ, làm cho nguôi (lo lắng, cơn đau, giận dữ)
+- làm dịu đi, làm lắng xuống (nỗi xúc động, nỗi buồn...)
+
+@allayer
+- xem allay
+ @all-bountiful
+* tt
+- hết sức dồi dào
+ @all-clear  
+*  dt
+- còi báo an (lúc báo động phòng không)
+
+@allegation  
+*  dt
+- sự viện lý, sự viện lẽ
+- luận điệu; lý để vin vào, cớ để vin vào (thường không đúng sự thật)
+
+@allege  
+*  ngdgt
+- cho là, khẳng định
+- viện lý, dẫn chứng, viện ra, vin vào; đưa ra luận điệu rằng
+
++ to allege illiness as a reason for not going to work: viện lý lẽ ốm để khỏi phải đi làm việc
+
+@allegeable
+- xem allege
+ @alleged  
+*  tt
+- được cho là, bị cho là
+
++ the alleged thief: người bị cho là kẻ trộm
+- được viện ra, được dẫm ra, được vin vào
+
++ the alleged reason: lý do được vin vào
+
+@allegedly
+* dt
+ @alleger
+- xem allege
+ @allegiance  
+*  dt
+- lòng trung thành (nghĩa đen) & (nghĩa bóng))
+
++ to pledge full allegiance to the country: nguyện hoàn toàn trung thành với tổ quốc
+
++ to take the oath of allegiance: nguyện trung thành
+- bổn phận đối với vua, bổn phận đối với chính phủ (của người dân)
+
+@allegiant
+- xem allegiance
+ @allegoric   (allegorical) @allegorical 
+- xem allegoric
+
+ @allegorically
+* dt
+- <văn> bóng bẩy, theo phép phúng dụ
+ @allegorise 
+- xem allegorize
+
+ @allegorist  
+*  dt
+- nhà ngụ ngôn, nhà phúng dụ
+
+@allegorization
+- xem allegorize
+ @allegorize   (allegorise) @allegorizer
+- xem allegorize
+ @allegory  
+*  dt
+- phúng dụ, lời nói bóng
+- chuyện ngụ ngôn
+- biểu tượng
+
+@allegretto  
+*  dt
+- (âm nhạc) hơi nhanh
+*  dt
+- (âm nhạc) nhịp hơi nhanh
+
+@allegro  
+*  dt & tt
+- (âm nhạc) nhanh
+*  dt
+- (âm nhạc) nhịp nhanh
+
+@allele
+* dt
+- (sinh học) Alen (gen đẳng vị), gen tương ứng
+ @allelism
+* dt
+- quan hệ alen
+ @allelobrachial
+* tt
+- thuộc nhánh tương ứng (thể nhiễm sắc)
+ @allelocatalysis
+* dt
+- sự xúc tác qua lại
+ @allelogene
+* dt
+- gen tương ứng
+ @allelogenesis
+* dt
+- sự phát sinh xen kẽ thế hệ
+ @allelomorph
+* dt
+- (sinh học) Alen (gen đẳng vị); gen tương ứng
+ @allelomorphism
+* dt
+- quan hệ alen
+ @allelopathy
+* dt
+- sự cảm nhiễm qua lại
+ @allelosomal
+* tt
+- thuộc thể tương ứng
+ @allelotaxis
+- Cách viết khác : allelotaxy 
+ @allelotype
+* dt
+- kiểu tương ứng
+ @alleluia   (halleluiah) @allemande  
+*  dt
+- điệu múa dân gian Đức
+- điệu nhảy múa thôn quê
+
+@all-embracing  
+*  tt
+- bao gồm tất cả
+
+@Allen , Sir roy George Douglas(1906-1983)
+- (Econ) 1906-Ông dạy ở trường kinh tế London từ năm 1928, làm việc ở bộ Tài Chính Anh và năm 1944 được phong là giáo sư thống kê học tại trường Đại học London. Các ấn phẩm chủ yếu của ông bao gồm: Phân tích toán học cho các nhà kinh tế học(1938); Thống kê học cho các nhà kinh tế học(1949); Kinh tế học thuộc toán (1956); Học thuyết kinh tế vĩ mô - Xử lý bằng toán học (1967). Năm 1934 ông có đóng góp to lớn cho học thuyết người tiêu dùng khi ông cho xuất bản một bài báo cùng với J.R.HICKS, bằng cách sử dụng các đường bàng quan, bài báo chỉ ra rằng để giải thích sự dốc xuống dưới của đường cầu sẽ là việc giả định đầy đủ rằng hàng hoá có thể được phân loại theo thứ tự.
+ @allergen
+* dt
+- chất gây dị ứng; dị ứng nguyên
+ @allergenicity
+* dt
+- tính chất gây dị ứng
+ @allergic  
+*  tt
+- (y học) dị ứng
+- (thông tục) dễ có ác cảm
+
+@allergy  
+*  dt
+- (y học) dị ứng
+- (thông tục) sự ác cảm
+
+@allethrin
+* dt
+- (hoá học) Alethrin
+ @alleviate  
+*  ngdgt
+- làm nhẹ bớt, làm giảm bớt, làm đỡ, làm dịu, làm khuây (sự đau, nỗi đau khổ, nỗi phiền muộn)
+
+@alleviate
+- (Tech) giảm khinh (đ)
+ @alleviation  
+*  dt
+- sự làm nhẹ bớt, sự làm giảm bớt, sự làm đỡ, sự làm dịu, sự làm khuây (sự đau, nỗi đau khổ, nỗi phiền muộn)
+
+@alleviative   (alleviatory) @alleviator  
+*  dt
+- người an ủi, nguồn an ủi
+- (y học) thuốc giảm đau
+
+@alleviatory 
+- xem alleviative
+
+ @alley  
+*  dt: (alleyway) 
+@alleyway
+- xem alley
+
+ @all-fired  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) vô cùng, hết sức, cùng cực
+
+@all-hail
+- interj
+- vạn tuế! hoan nghênh
+ @allhallowmas
+* dt
+- như All Saints' Day
+ @all-hallows  
+*  dt
+- các thánh
+
++ all-hallows Day: ngày lễ các thánh
+
+@allhallows
+* dt
+- như All Saints' Day
+ @all-honoured
+* tt
+- được mọi người kính trọng
+ @alliaceous  
+*  tt
+- (thực vật học) (thuộc) loại hành tỏi
+- có mùi hành tỏi
+
+@alliance  
+*  dt
+- sự liên minh, khối liên minh khối đồng minh
+
++ to enterinto alliance with; to form an alliance with: liên minh với, thành lập khối đồng minh với
+- sự thông gia
+- quan hệ họ hàng; sự cùng chung một tính chất, sự cùng chung những đức tính
+
+@allied  
+*  tt
+- liên minh, đồng minh
+
++ the allied powers: các cường quốc đồng minh
+- thông gia
+- cùng giống, cùng họ, có quan hệ thân thuộc với nhau; cùng tính chất
+
++ the dog and the wolf are allied animals: chó nhà và chó sói là hai loài có quan hệ thân thuộc
+
++ allied sciences: những bộ môn khoa học tiếp cận nhau
+
+@alligator  
+*  dt
+- cá sấu Mỹ
+- da cá sấu
+- (kỹ thuật) máy nghiền đá
+- (từ Mỹ,nghĩa Mỹ) người mê nhạc xuynh (một thứ nhạc ja)
+
+@alligator clip
+- (Tech) cái kẹp cá sấu
+ @alligator pear  
+*  dt
+- (thực vật học) lê tàu
+
+@all-in  
+*  tt
+- bao gồm tất cả
+
+@all-in-all  
+*  dt
+- tất cả (cho ai), tất cả sự trìu mến
+*  tt
+- vô cùng cần thiết, hết sức quan trọng
+*  dt
+- hoàn toàn, trọn vẹn
+- nói chung, nhìn chung
+
+@all-in-wrestling  
+*  dt
+- (thể dục,thể thao) môn vật tự do
+
+@alliterate  
+*  ndgt
+- lặp lại âm đầu
+
+@alliteration  
+*  dt
+- sự lặp lại âm đầu
+
+@alliterative  
+*  tt
+- lặp âm đầu
+
+@alliteratively
+* dt
+- theo cách lặp lại âm đầu
+ @alliterativeness
+- xem alliterative
+ @all-night
+* tt
+- thâu đêm suốt sáng, suốt đêm
+ @allobiosis
+* dt
+- đời sống theo môi trường; tính phản ứng theo môi trường
+ @allocable
+- xem allocate
+ @allocarp
+* dt
+- quả lai giống
+ @allocarpic
+* dt
+- tính tạo quả lai giống
+ @allocate  
+*  ngdgt
+- chỉ định; dùng (số tiền vào việc gì)
+- cấp cho (ai cái gì)
+- phân phối, phân phát; chia phần
+- định rõ vị trí
+
+@allocate
+- (Tech) cấp, phân định (đ)
+ @Allocate
+- (Econ) Phân bổ, ấn định
+ @allocate
+- sắp xếp, phân bố
+ @allocated band
+- (Tech) dải tần được phân định
+ @allocated block
+- (Tech) khối được phân định
+ @allocated main memory
+- (Tech) bộ nhớ chính dược phân định
+ @allocation  
+*  dt
+- sự chỉ định; sự dùng (một số tiền vào việc gì)
+- sự cấp cho
+- sự phân phối, sự phân phát; sự chia phần; phần được chia, phần được phân phối, phần được cấp
+- sự định rõ vị trí
+
+@allocation
+- (Tech) sự cấp phát, sự phân định
+ @allocation
+- sự sắp xếp, sự phân bố
+- optimum a. tk sự phân bố tối ưu (các đối tượng trong mẫu) 
+ @Allocation funtion
+- (Econ) Chức năng phân bổ
+: Mật bộ phận của chính sách chi tiêu và thuế của chính phủ liên quan tới việc chi phối cung cấp hàng hoá và dịch trong một nền kinh tế.
+ @allocation map
+- (Tech) bảng phân định
+ @allocation space
+- (Tech) không gian phân định
+ @Allocative efficiency
+- (Econ) Hiệu quả phân bổ.
+: Việ sản xuất ra tổ hợp sản phẩm tốt nhất hay tối ưu các sản phẩm bằng các kết hợp hiệu qủa nhất các đầu vào.
+ @allocator
+- (Tech) bộ phân định
+ @allochroic
+* tt
+- thay đổi màu
+ @allocution  
+*  dt
+- bài nói ngắn (để hô hào...)
+
+@allodium  
+*  dt
+- thái ấp, thái ấp không phải nộp thuế (thời phong kiến)
+
+@allogamy  
+*  dt
+- (thực vật học) sự giao phấn, sự thụ tinh khác hoa
+
+@allogeneic
+* tt
+- dị sinh; thuộc alen lặn (gen đẳng vị lặn)
+ @allogenetic
+* tt
+- dị phát sinh
+ @allograft
+* dt
+- việc ghép mô gồm hai thành viên khác nhau nhưng cùng loại
+ @allograph
+* dt
+- (ngôn ngữ) biến thể của chữ cái
+ @allokurtic
+- (thống kê) có độ nhọn khác nhau
+ @allomeric   (allomerous) @allomerism  
+*  dt
+- tính chất khác
+
+@allomerous
+- xem allomeric
+
+ @allometry
+* dt
+- (sinh học) môn tương quan sinh trưởng
+ @allomorph
+* dt
+- (ngôn ngữ học) tha hình
+ @allomorphism
+* dt
+- (sinh học) hiện tượng dị hình
+- (ngôn ngữ) tính chất tha hình vị, hiện tượng tha hình vị
+ @allopath   (allopathist) @allopathic  
+*  tt
+- (y học) (thuộc) phép chữa đối chứng
+
+@allopathically
+- xem allopathy
+ @allopathist
+- xem allopath
+
+ @allopathy  
+*  dt
+- (y học) phép chữa đối chứng
+
+@allophane
+* dt
+- (khoáng chất) Alophan
+ @allophone
+* dt
+- (ngôn ngữ) tha âm vị
+ @allopolyploid
+* dt
+- thể đa bội khác loài
+ @allorhizal
+* tt
+- có bộ rễ đối ngọn
+ @all-or-none
+- tất cả hoặc không cái nào hết
+ @all-or-nothing
+- hoặc được cả hoặc mất hết
+
++  playing an all-or-nothing game:đánh bạc hoặc được cả hoặc mất hết
+- không mảy may thoả hiệp
+ @allosematic
+* tt
+- thuộc màu báo hiệu
+ @allosomal
+* tt
+- thuộc thể nhiễm sắc giới tính
+ @allot  
+*  ngdgt
+- phân công, giao (phân việc cho ai); định dùng (một số tiền vào việc gì)
+- chia phần, phân phối, định phần
+- (quân sự) phiên chế
+- (quân sự) chuyển (một phần lương cho gia đình)
+
+@allot
+- (thống kê) phân bố, phân phối
+ @allotment  
+*  dt
+- sự phân công, sự giao việc (phần việc); sự định dùng (một số tiền vào việc gì)
+- sự chia phần, sự phân phối; sự định phần
+- phần được chia, phần được phân phối
+- mảnh đất được phân phối để cày cấy
+- (quân sự) sự phiên chế
+- (quân sự) sự chuyển (một phần lương) cho gia đình
+
+@allotropic  
+*  tt
+- khác hình
+
+@allotropically
+- xem allotropy
+ @allotropism   (allotropy) @allotropy   (allotropy) @allottee  
+*  dt
+- người được nhận phần chia
+
+@allotter
+- xem allot
+ @all-out  
+*  tt & dt
+- dốc hết sức, dốc toàn lực
+
++ an all-out attack: một cuộc tấn công dốc toàn lực
+- toàn, hoàn toàn
+
+@all-outer
+* dt
+- (từ Mỹ) người hết lòng bênh vực
+ @all-overish  
+*  tt
+- (thông tục) cảm thấy khó ở; cảm thấy đau mỏi khắp người
+
+@all-overishness  
+*  dt
+- sự khó ở; sự đau mỏi khắp người
+
+@allow  
+*  ngdgt
+- cho phép để cho
+
++ allow me to help you: cho phép tôi được giúp anh một tay
+
++ smoking is not allowed here: không được hút thuốc lá ở đây
+
++ to allow oneself: tự cho phép mình
+
++ I'll not allow you to be ill-treated: tôi sẽ không để cho anh bị ngược đãi đâu
+- thừa nhận, công nhận, chấp nhận
+
++ to allow something to be true: công nhận cái gì là đúng sự thật
+
++ I allow that I am wrong: tôi nhận là tôi sai
+
++ to allow a request: chấp đơn
+- cho, cấp cho, trợ cấp, cấp phát
+
++ to be allowed 300đ a year: mỗi năm được trợ cấp 300đ
+- (thương nghiệp); (tài chính) trừ bớt; thêm
+
++ to allow 5 per cent for breakage: trừ 5 rò (tài chính) nủm nạnh 8; thêm 5 rò (tài chính) nủm nạnh 8
+*  ndgt
+- (: for) kể đến, tính đến; chiếu cố đến, chú ý đến
+
++ allow to for the delays coused by bad weather: tính đến sự chậm trễ do thời tiết xấu gây ra
+
++ after allowing for...: sau khi đã tính đến...
+- (: of) cho phép; chịu được, dung thứ được, chấp nhận
+
++ the question allows of no dispute: vấn đề không cho phép bàn cãi gì cả
+
++ I can't allow of this noise going on: tôi không thể chịu được cái tiếng ầm ỹ ấy cứ kéo dài mãi
+
+@allowable  
+*  tt
+- có thể cho phép được
+- có thể thừa nhận, có thể công nhận, có thể chấp nhận
+
+@allowable
+- thừa nhận được
+ @allowable limit
+- (Tech) giới hạn được phép
+ @allowably
+- xem allow
+ @allowance  
+*  dt
+- sự cho phép
+- sự thừa nhận, sự công nhận, sự thú nhận
+
++ by his own allowance: do chính anh ta thừa nhận
+- tiền trợ cấp; tiền cấp phát; tiền bỏ túi, tiền tiêu vặt
+
++ to get a very small allowance from home every month: hàng tháng nhận được của gia đình gửi cho một số tiền nhỏ
+
++ family allowance fund: quỹ trợ cấp gia đình đông con
+- phần tiền, khẩu phần, phần ăn
+
++ to put the men on half allowance: (quân sự) cho quân lính ăn nửa khẩu phần
+
++ to be on short allowance: bị hạn chế khẩu phần
+
++ at no allowance: không hạn chế
+
++ to reduce the allowance of water: giảm khẩu phần nước
+
++ do not take more than your usual allowance: không được ăn quá khẩu phần thường lệ
+- sự kể đến, sự tính đến, sự chiếu cố đến, sự dung thứ
+
++ to make allowances for the difference of age: kể đến (chiếu cố đến) sự khác nhau về tuổi
+
++ to make allowance for youth: chiếu cố đến tuổi trẻ, dung thứ cho tuổi trẻ
+- sự trừ, sự bớt
+
++ to make allowance for the tare: trừ bì
+- (kỹ thuật); (vật lý) hạn định cho phép
+*  ngdgt
+- chia phần ăn cho
+- cấp một số tiền cho (ai), trợ cấp
+
+@Allowance
+- (Econ) Phần tiền trợ cấp.
+ @allowance
+- (máy tính) cho vay tiếp; (toán kinh tế) tiền trợ cấp; tiền hoa hồng
+ @Allowances and expences for corporation tax
+- (Econ) Khấu trừ và chi phí đôí với thuế công ty.
+: Những chi phí cho phép nhất định khi được khấu trừ từ doanh thu của công ty là phần thu nhập bị đánh thuế.
+ @Allowances and expencess for income tax
+- (Econ) Khấu trừ và chi phí đôí với thuế thu nhập.
+: Hệ thống thuế thu nhập bao gồm hệ thống các khoản khấu trừ và chi phí. Chúng được trừ từ tổng thu nhập để xác định chịu thuế.
+ @allowed band
+- (Tech) dải tần cho phép
+ @allowed sequence
+- (Tech) trình tự cho phép
+ @allowedly  
+*  dt
+- được cho phép
+- được mọi người công nhận
+
+@alloy  
+*  dt
+- hợp kim
+- tuổi (kim loại quý như vàng bạc)
+- chất hỗn hợp; sự pha trộn
+
++ happiness without alloy: niềm hạnh phúc hoàn toàn không có gì làm vằn gợn
+*  ngdgt
+- nấu thành hợp kim
+- trộn vào, pha trộn
+- làm xấu đi, làm giảm giá trị đi
+
+@alloy
+- (Tech) hợp kim
+ @alloy semiconductor
+- (Tech) chất bán dẫn hợp kim
+ @alloy transistor
+- (Tech) đèn tinh thể hợp kim, trăng-xít-to hợp kim
+ @all-powerful  
+*  tt
+- nắm hết quyền lực; có mọi quyền lực
+
+@all-purpose  
+*  tt
+- nhiều mặt, mọi mặt; nhiều mục đích; vạn năng
+
+@all-purpose computer
+- (Tech) máy điện toán vạn năng @all-round  
+*  tt
+- toàn diện, toàn năng
+
++ all-round development: sự phát triển toàn diện
+
++ an all-round man: người toàn năng
+
+@all-rounder  
+*  dt
+- người toàn diện, người toàn năng
+
+@allseed  
+*  dt
+- (thực vật học) cây lắm hạt
+
+@allsome
+* dt
+- thể nhiễm sắc giới tính
+ @allspice  
+*  dt
+- hạt tiêu Gia-mai-ca (hạt của một cây thuộc họ sim)
+
+@all-star
+* tt
+- gồm toàn những diễn viên ngôi sao
+ @all-steel  
+*  tt
+- toàn bằng thép
+
+@all-time
+* tt
+- lớn nhất từ trước đến nay, nổi tiếng nhất từ trước đến nay
+ @allude  
+*  ndgt
+- nói bóng gió, ám chỉ
+
++ to allude to something: nói bóng gió một việc gì
+
+@all-up  
+*  dt
+- (hàng không) tổng trọng lượng bay (gồm máy bay, nhân viên, hành khách, hàng hoá...)
+
+@allure  
+*  dt
+- sức quyến rũ, sức lôi cuốn, sức cám dỗ; duyên
+*  ngdgt
+- quyến rũ, lôi cuốn, cám dỗ; làm say mê, làm xiêu lòng
+
+@allurement  
+*  dt
+- sự quyến rũ, sự lôi cuốn, sự cám dỗ
+- cái quyến rũ, cái làm say mê
+
+@allurer
+- xem allure
+ @alluring  
+*  tt
+- quyến rũ, lôi cuốn, cám dỗ; có duyên, duyên dáng; làm say mê, làm xiêu lòng
+
+@alluringly
+- xem allure
+ @alluringness  
+*  dt
+- sức quyến rũ, sức lôi cuốn, sức cám dỗ, vẻ duyên dáng; khả năng làm say mê, khả năng làm xiêu lòng
+
+@allusion  
+*  dt
+- sự nói bóng gió, sự ám chỉ
+
++ to make an allusion to: nói bóng gió, ám chỉ, nói đến
+- lời ám chỉ
+
+@allusive  
+*  tt
+- có ý nói bóng gió, có ý ám chỉ, nhiều ý bóng gió, nhiều lời ám chỉ
+- có tính chất tượng trưng, có tính chất biểu tượng
+
++ allusive arms: phù hiệu có tính chất tượng trưng, phù hiệu nhắc đến tên người đeo
+
+@allusively
+- xem allusive
+ @allusiveness  
+*  dt
+- tính chất bóng gió, tính chất ám chỉ
+- tính tượng trưng, tính biểu tượng
+
+@alluvia  
+*  dt,  số nhiều alluvia,  alluviums
+- bồi tích, đất bồi, đất phù sa
+
++ alluvium period: (địa lý,địa chất) kỷ thứ tư
+
+@alluvial  
+*  tt
+- (thuộc) bồi tích, (thuộc) đất bồi, (thuộc) phù sa
+
++ alluvial soil: đất phù sa, đất bồi
+*  dt
+- đất phù sa, đất bồi
+
+@alluvion  
+*  dt
+- sự bồi đất (lên bãi biển, bờ sông...)
+- nước lụt
+- bồi tích, đất bồi, phù sa
+
+@alluvium  
+*  dt,  số nhiều alluvia,  alluviums
+- bồi tích, đất bồi, đất phù sa
+
++ alluvium period: (địa lý,địa chất) kỷ thứ tư
+
+@all-weather
+* tt
+- dùng cho mọi thời tiết
+ @all-white
+* tt
+- trắng toát, hoàn toàn màu trắng
+
++  all-white school:trường học chỉ dành cho người da trắng
+ @all-wool  
+*  tt
+- toàn bằng len
+
+@ally  
+*  dt
+- hòn bi (bằng đá thạch cao)
+*  dt
+- nước đồng minh, nước liên minh; bạn đồng minh
+*  ngdgt
+- liên kết, liên minh
+- kết thông gia
+
++ allied to: gắn với, có quan hệ họ hàng với
+
+@alma   (almah) @alma mater  
+*  dt
+- trường học, học đường, học hiệu
+
+@almacantar
+- (thiên văn) vĩ tuyến thiên văn
+ @almagest  
+*  dt
+- sách thiên văn (của Ptô-lê-mi); sách chiêm tinh; sách luyện giả kim
+
+@almah   (almah) @almanac   (almanack) @almanack   (almanack) @almandine
+* dt
+- (hoá học) Anmanđin
+ @almightily  
+*  dt
+- toàn năng, có quyền tối cao, có mọi quyền lực
+
+@almightiness  
+*  dt
+- tính toàn năng, quyền tối cao; sự có mọi quyền lực
+
+@almighty  
+*  tt
+- toàn năng, có, quyền tối cao, có mọi quyền lực
+
++ Almighty God: thượng đế
+- (từ lóng) hết sức lớn, vô cùng, đại
+
++ an almighty fool: một thằng đại ngốc
+*  dt
+- (từ lóng) hết sức, vô cùng
+*  dt
+- thượng đế
+
+@Almon lag
+- (Econ) Độ trễ Almon.
+: Một kiểu trễ phân phối trong đó trọng số các giá trị liên tục của biến số trễ theo sau một do một đa thức gây ra.
+ @almond  
+*  dt
+- quả hạnh
+
++ sweet almond: hạnh ngọt
+
++ bitter almond: hạnh đắng
+- (giải phẫu) hạch hạnh
+- vật hình quả hạnh
+
+@almond paste
+* dt
+- bột làm từ nhân hạnh đào nghiền nhỏ
+ @almond tree  
+*  dt
+- (thực vật học) cây hạnh
+
+@almond-eyed
+* tt
+- có đôi mắt hình trái hạnh đào
+ @almond-shaped  
+*  tt
+- dạng quả hạnh
+
+@almoner  
+*  dt
+- người phát chẩn
+
+@almonry  
+*  dt
+- nơi phát chẩn
+
+@almost  
+*  dt
+- hầu (như), gần (như), suýt nữa, tí nữa
+
+@almost
+- hầu như, gần như
+ @almost-metric
+- giả mêtric
+ @alms  
+*  dt
+- (thường) dùng như số ít của bố thí
+
++ to ask for alms: xin của bố thí
+
+@alms-deed  
+*  dt
+- việc từ thiện
+
+@alms-giver  
+*  dt
+- người bố thí
+
+@alms-house  
+*  dt
+- nhà tế bần
+
+@almsman  
+*  dt
+- người được cứu tế, người sống bằng của bố thí
+
+@almswoman  
+*  dt
+- người đàn bà được cứu tế, người đàn bà sống bằng của bố thí
+
+@almucantar
+- (thiên văn) vĩ tuyến thiên văn
+ @alnico
+- (Tech) hợp kim alnico
+ @aloe  
+*  dt
+- (thực vật học) cây lô hội
+- (số nhiều) dầu tẩy lô hội
+
+@aloetic
+- xem aloe
+ @aloft  
+*  tt
+- cao, ở trên cao
+- (hàng hải) trên cột buồm
+*  dt
+- cao, ở trên cao
+
++ to hold aloft the banner of Marxism-Leninnism: giương cao ngọn cờ của chủ nghĩa Mác-Lênin
+!to go aloft
+- (thông tục) chầu trời, chết
+
+@aloha
+- interj
+- xin chào!
+ @alone  
+*  dt & tt
+- một mình, trơ trọi, cô độc, đơn độc
+
++ alone to sit alone: ngồi một mình
+
++ to live all alone: sống trơ trọi một mình
+- riêng, chỉ có
+
++ I'm not alone in this opinion: không phải chỉ riêng tôi có ý kiến này
+!to leave alone
+- (xem) leave
+!to let alone
+- (xem) let
+!let alone
+- không kể đến, chưa nói đến, không tính đến, chưa tính đến
+
+@aloneness  
+*  dt
+- tình trạng cô độc, tình trạng đơn độc
+
+@along  
+*  dt
+- theo chiều dài, suốt theo
+
++ to lie along: nằm dài ra
+- tiến lên, về phía trước
+
++ come along: đi nào, đi lên, tiến lên đi
+
++ how are you getting along?: thế nào dạo này công việc làm ăn của anh tiến tới ra sao?
+
++ all along: suốt, suốt từ đầu đến đuôi; ngay từ đầu
+
++ I knew it all along: tôi biết câu chuyện đó ngay từ đầu; tôi biết suốt từ đầu đến đuôi câu chuyện đó
+![all] along of
+- (thông tục) vì, do bởi
+
++ it happened all along of your carelessness: câu chuyện xảy ra là do sự thiếu thận trọng của anh
+!along with
+- theo cùng với, song song với
+
++ come along with me: hãy đi với tôi
+!right along
+- (từ Mỹ,nghĩa Mỹ) luôn luôn, bao giờ cũng
+*  giới từ
+- dọc theo, theo
+
++ to walk along the road: đi dọc theo con đường
+
++ along the river: dọc theo con sông
+
+@along-shore  
+*  dt
+- dọc theo bờ biển, dài theo bờ biển
+
+@alongside  
+*  dt & giới từ
+- sát cạnh, kế bên, dọc theo, dọc
+
++ alongside the river: dọc theo con sông
+
++ the cars stopped alongside [of] the kerb: các xe ô tô đỗ dọc theo lề đường
+- (hàng hải) sát mạn tàu, dọc theo mạn tàu
+
++ the ship lay alongside [of] each other: các con tàu đó đỗ sát cạnh nhau
+
++ to come alongside: cặp bến, ghé vào bờ
+- (nghĩa bóng) song song với, cùng, đồng thời
+
+@aloof  
+*  tt & dt
+- ở xa, tách xa
+- (nghĩa bóng) xa rời, tách rời
+- xa rời, lánh xa, cách biệt
+
++ to stand (keep, hold) aloof: đứng tách rời, lánh xa; không dính vào, đứng ngoài vòng, bàng quan
+
++ to live aloof from tile world: sống xa lánh mọi người
+- (hàng hải) ở ngoài khơi lộng gió
+
+@aloofly
+- xem aloof
+ @aloofness  
+*  dt
+- sự tách ra
+- thái độ tách rời, thái độ xa lánh, thái độ cách biệt
+
+@alopecia  
+*  dt
+- (y học) tình trạng hói, sự rụng tóc
+
+@alopecic
+- xem alopecia
+ @aloud  
+*  dt
+- lớn tiếng to
+
++ to read aloud: đọc to
+- oang oang, inh lên, ầm ầm
+- (thông tục) thấy rõ, rõ rành rành
+
++ it reeks aloud: thối ai cũng ngửi thấy, thối inh lên
+
+@alow  
+*  dt
+- (hàng hải) ở dưới, ở đáy
+
+@alp  
+*  dt
+- ngọn núi
+- cánh đồng cỏ trên sườn núi (ở Thụy sĩ)
+
+@alpaca  
+*  dt
+- (động vật học) Anpaca (động vật thuộc loại lạc đà không bướu ở Nam Mỹ)
+- lông len anpaca
+- vải anpaca (làm bằng lông len anpaca)
+
+@alpenglow
+* dt
+- ánh sáng hồng trên đỉnh núi (lúc mặt trời mọc hay lặn)
+ @alpenhorn
+* dt
+- tù và mục đồng trên núi
+ @alpenstock  
+*  dt
+- (thể dục,thể thao) gậy leo núi (đầu bọc sắt)
+
+@alpenstrine
+* tt
+- (thực vật) ở núi cao
+ @alpha  
+*  dt
+- chữ anfa
+
++ Alpha and Omega: anfa và omega đầu và cuối cái chính, cái cơ bản
+
++ alpha plus: hết sức tốt
+
+@alpha
+- (Tech) anfa; hệ số khuếch đại anfa (đèn tinh thể); chữ cái đầu tiên trong mẫu tự Hy Lạp
+ @alpha
+- anpha (α); (thiên văn) sao anpha (trong một chòm sao)
+ @alpha bombardment
+- (Tech) bắn phá bằng tia anfa
+ @alpha character 
++  alphabetic character
+ @alpha code 
++  alphabetic code
+ @Alpha coeficient
+- (Econ) Hệ số Alpha
+: Xem CAPITAL ASSET PRINCING MODEL.
+ @alpha current factor
+- (Tech) hệ số dòng anfa
+ @alpha cut-off frequency
+- (Tech) tần số cắt anfa, tần số giới hạn anfa
+ @alpha display
+- (Tech) hiển thị chữ cái, hiển thị văn tự
+ @alpha expression
+- (Tech) biểu thức chữ cái, văn tự thức [NB]
+ @alpha format
+- (Tech) khuôn dạng chữ cái
+ @alpha geometric
+- (Tech) thuộc hình học anfa
+ @alpha mosaic
+- (Tech) nạm anfa
+ @alpha particle
+- (Tech) hạt anfa
+ @alpha particles
+* dt
+- các hạt mang cực dương phát ra trong năng lượng phóng xạ hay các phản ứng hạt nhân khác
+ @alpha photographic
+- (Tech) thuộc chụp ảnh anfa
+ @alpha radiation
+* dt
+- sự phát ra các tia alpha
+ @alpha ray
+- (Tech) tia anfa
+ @alpha rays  
+*  dt
+- (vật lý) tia anfa
+
+@alpha standard procedure
+- (Tech) thủ tục tiêu chuẩn văn tự [NB]
+ @alpha test
+- (Tech) thử anfa
+ @alpha testing
+- (Tech) thử anfa
+ @alpha type 
++  alphabetic type
+ @alpha value 
++  alphabetic value
+ @alpha version
+- (Tech) phiên bản anfa, phiên bản đầu tiên
+ @alphabet  
+*  dt
+- bảng chữ cái, hệ thống chữ cái
+- (nghĩa bóng) điều cơ bản, bước đầu
+
+@alphabet
+- (Tech) bộ chữ cái, bộ mẫu tự, bảng chữ; bộ ký tự
+ @alphabet
+- bằng chữ cái, bằng chữ
+ @alpha-beta method
+- (Tech) phương pháp anfa-bêta
+ @alphabetic   (alphabetical) @alphabetic area
+- (Tech) khu vực chữ cái
+ @alphabetic character
+- (Tech) ký tự chữ cái
+ @alphabetic code
+- (Tech) mã chữ cái
+ @alphabetic coding
+- (Tech) biên mã bằng chữ cái
+ @alphabetic data
+- (Tech) dữ kiện chữ cái
+ @alphabetic data code
+- (Tech) mã dữ kiện chữ cái
+ @alphabetic escape sequence
+- (Tech) trình tự thoát bằng chữ cái
+ @alphabetic order
+- (Tech) thứ tự chữ cái
+ @alphabetic position
+- (Tech) vị trí chữ cái
+ @alphabetic record
+- (Tech) bản ghi chữ cái
+ @alphabetic string
+- (Tech) chuỗi chữ cái, chuỗi ký tự
+ @alphabetic type
+- (Tech) loại chữ cái
+ @alphabetic value
+- (Tech) trị số thuộc chữ cái
+ @alphabetic word
+- (Tech) chữ cái
+ @alphabetical 
+-xem alphabetic
+
+ @alphabetical
+- (Tech) thuộc chữ cái; có tính cách ký tự, thuộc ký tự
+ @alphabetical order 
++  alphabetic order
+ @alphabetically  
+*  dt
+- theo thứ tự abc
+
+@alphabetically
+- theo thứ tự
+ @alphabetise   (alphabetize) @alphabetization
+- xem alphabetize
+ @alphabetize   (alphabetize) @alphabetizer
+- xem alphabetize
+ @alphameric 
++  alphanumeric
+ @alphameric character 
++  alphanumeric character
+ @alphameric character set 
++  alphanumeric character set
+ @alphameric code 
++  alphanumeric code
+ @alphameric data 
++  alphanumeric data
+ @alphameric data code 
++  alphanumeric data code
+ @alphameric field 
++  alphanumeric field
+ @alphameric keyboard 
++  alphanumeric keyboard
+ @alphameric literal 
++  alphanumeric literal
+ @alphameric optical reader 
++  alphanumeric optical reader
+ @alphanumeric
+- (Tech) chữ-số, mẫu tự-số tự
+ @alphanumeric area
+- (Tech) khu vực chữ-số
+ @alphanumeric character
+- (Tech) ký tự chữ-số
+ @alphanumeric character set
+- (Tech) bộ ký tự chữ-số
+ @alphanumeric code
+- (Tech) mã chữ-số
+ @alphanumeric data
+- (Tech) dữ kiện chữ-số
+ @alphanumeric data code
+- (Tech) mã dữ kiện chữ-số
+ @alphanumeric data item
+- (Tech) điều khoản dữ kiện chữ-số
+ @alphanumeric display
+- (Tech) hiển thị bằng chữ-số
+ @alphanumeric display device
+- (Tech) thiết bị hiển thị bằng chữ-số
+ @alphanumeric edited
+- (Tech) biên soạn chữ-số
+ @alphanumeric edited character
+- (Tech) ký tự biện soạn chữ-số
+ @alphanumeric edited item
+- (Tech) điều khoản biện soạn chữ-số
+ @alphanumeric field
+- (Tech) lĩnh vực chữ-số
+ @alphanumeric indicator
+- (Tech) bộ chỉ báo chữ-số
+ @alphanumeric information
+- (Tech) thông tin chữ-số
+ @alphanumeric instruction
+- (Tech) chỉ thị chữ-số
+ @alphanumeric item
+- (Tech) điều khoản chữ-số
+ @alphanumeric keyboard
+- (Tech) bàn phím chữ-số
+ @alphanumeric line
+- (Tech) dòng chữ-số
+ @alphanumeric literal
+- (Tech) thuộc văn tự chữ-số
+ @alphanumeric mask
+- (Tech) màn che chữ-số
+ @alphanumeric optical reader
+- (Tech) bộ đọc chữ-số bằng quang
+ @alphanumeric position
+- (Tech) vị trí chữ-số
+ @alphanumeric record
+- (Tech) bản ghi chữ-số
+ @alphanumeric sort
+- (Tech) xếp thứ tự chữ-số
+ @alphanumeric string
+- (Tech) chuỗi chữ-số
+ @alphanumeric tabulator
+- (Tech) máy lập bảng chữ-số
+ @alphanumeric type
+- (Tech) loại chữ-số
+ @alphanumeric value
+- (Tech) trị chữ-số
+ @alphanumerical
+- chữ - chữ số
+ @alphanumeric-pager
+- (Tech) máy nhắn tin dùng chữ-số
+ @alphorn
+* dt
+- một loại kèn bằng len dài (ở Thụy Sĩ) dùng để gọi gia súc về nhà
+ @alpine  
+*  tt
+- (thuộc) dãy An-pơ, ở dãy An-pơ
+- (thuộc) núi cao, ở núi cao
+
+@alpingenous
+* tt
+- có nguồn gốc núi cao
+ @alpinism
+- xem alpinist
+ @alpinist  
+*  dt
+- người leo núi
+
+@already  
+*  dt
+- đã, rồi; đã... rồi
+
+@alright
+* dt
+- <khngu> dùng như all right
+ @alsace
+* dt
+- rượu nho vùng An-dát (Pháp)
+ @alsatian
+* dt
+- chó An sát, chó bec giê Đức
+ @also  
+*  dt
+- cũng, cũng vậy, cũng thế
+- (đặt ở đầu câu) hơn nữa, ngoài ra
+
++ also, I must add...: hơn nữa, tôi phải nói thêm rằng...
+
++ not only... but also: không những... mà lại còn
+
+@also-ran  
+*  dt
+- (thông tục) ngựa thì không được xếp hạng ba con về đầu (trong cuộc đua)
+- vận động viên không được xếp hạng (trong cuộc đua)
+- (thông tục) người không có thành tích gì
+
+@alt  
+*  dt
+- (âm nhạc) nốt cao
+
++ in alt: nốt cao trên quãng tám của thang âm; (nghĩa bóng) vô cùng cao hứng
+
+@Alt (alternate) key
+- (Tech) phím đổi; phím lệnh thay đổi (thường dùng chung với phím khác và tùy qui định)
+ @altar  
+*  dt
+- bàn thờ, bệ thờ, án thờ
+!to lead a woman to the altar
+- (xem) lead
+
+@altar-boy  
+*  dt
+- lễ sinh (trong giáo đường)
+
+@altar-cloth  
+*  dt
+- khăn trải bàn thờ
+
+@altar-piece  
+*  dt
+- bức trang trí sau bàn thờ
+
+@alter  
+*  ndgt
+- thay đổi, biến đổi, đổi
+
++ to alter for the better: đổi tính, đổi nết trở nên tốt hơn
+*  ngdgt
+- thay đổi; sửa đổi, sửa lại
+
++ to one's way of living: thay đổi lối sống
+
++ to alter one's mind: thay đổi ý kiến, thay đổi ý định
+
++ to have a shirt altered: đem sửa một cái áo sơ mi
+- (Mỹ,  Uc) thiến, hoạn (súc vật)
+
+@alter
+- (Tech) thay đổi; hiệu chỉnh
+ @alter ego
+* dt
+- (tiếng Latinh) bạn chí cốt
+ @alterability   (alterableness) @alterable  
+*  tt
+- có thể thay đổi, có thể sửa đổi, có thể biến đổi
+
+@alterable read-only storage
+- (Tech) bộ trữ chỉ đọc đổi được
+ @alterableness   (alterableness) @alterably
+- xem alterable
+ @alteration  
+*  dt
+- sự thay đổi, sự đổi; sự sửa đổi, sự sửa lại, sự biến đổi
+
+@alteration switch
+- (Tech) công tắc chuyển đổi
+ @alterative  
+*  tt
+- làm thay đổi, làm biến đổi
+*  dt
+- (y học) thuốc làm thay đổi sự dinh dưỡng
+- phép điều trị làm thay đổi sự dinh dưỡng
+
+@altercate  
+*  ndgt
+- cãi nhau, cãi lộn, đôi co, đấu khẩu
+
++ to altercate with someone about a trifle: cãi nhau với ai về một chuyện vớ vẩn không đâu
+
+@altercation  
+*  dt
+- cuộc cãi nhau
+- cuộc cãi lộn, cuộc đấu khẩu
+
+@alternant  
+*  tt
+- (địa lý,địa chất) xen kẽ
+
++ alternant layers: các lớp xen kẽ
+
+@alternate  
+*  tt
+- xen kẽ, xen nhau, luân phiên nhau, thay phiên
+
++ to serve alternate shifts: làm luân phiên, làm theo ca kíp
+
++ on days: cứ hai ngày một lần, cứ cách ngày một lần
+
++ alternate function: (toán học) hàm thay phiên
+- (toán học) so le
+
++ alternate angle: góc so le
+
++ alternate exterior (interior) angle: góc so le ngoài (trong)
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người thay phiên, người thay thế, người dự khuyết
+*  dgt
+- để xen nhau, xen kẽ, xen nhau; luân phiên, lần lượt kế tiếp nhau
+
++ to alternate between laughter and tears: khóc khóc cười cười
+
+@alternate
+- (Tech) luân phiên, thay phiên; thay thế; xoay chiều
+ @alternate
+- so le; luân phiên; đan dấu
+ @alternate angle
+- (toán) góc sole
+ @alternate current signaling
+- (Tech) phương thức tín hiệu giao lưu [NB]
+ @alternate data set
+- (Tech) tập dữ kiện luân phiên
+ @alternate key 
++  Alt key
+ @alternate line scanning
+- (Tech) quét dòng xen kẽ
+ @alternate map
+- (Tech) bảng đối ứng thay thế [điện toán] [NB]
+ @alternate map register
+- (Tech) bộ ghi bảng đối ứng thay thế [điện toán] [NB]
+ @alternate map register set
+- (Tech) tập hợp bộ ghi bảng đối ứng thay thế [điện toán] [NB]
+ @alternate path
+- (Tech) đường thay thế, đường vòng
+ @alternate route
+- (Tech) đường vòng [NB]
+ @alternate routing
+- (Tech) chọn đường thay thế, trung kế vòng [ĐL], trung kế bổ trợ [ĐL]
+ @alternately
+* dt
+- lần lượt nhau, luân phiên nhau
+ @alternateness
+- xem alternate
+ @alternating  
+*  tt
+- xen kẽ, xen nhau; thay phiên nhau, luân phiên nhau
+- (điện học) xoay chiều
+
++ alternating current: dòng điện xoay chiều
+- (kỹ thuật) qua lại
+
++ alternating motion: sự chuyển động qua lại
+
+@alternating acknowledge
+- (Tech) báo nhận xen kẽ
+ @alternating current
+- dòng điện xoay chiều
+ @alternating current 
++  ac, AC
+ @alternating current bias
+- (Tech) thiên áp dòng xoay chiều 
++  magnetic bias
+ @alternating current bridge
+- (Tech) cầu dòng xoay chiều
+ @alternating current generator
+- (Tech) máy phát điện dòng xoay chiều
+ @alternating current hum
+- (Tech) tiếng ù dòng xoay chiều
+ @alternating field
+- (Tech) trường xoay chiều
+ @alternating flux
+- (Tech) thông lượng xoay chiều
+ @alternating group
+- (Tech) nhóm giao nhau [NB]
+ @alternating load
+- (Tech) tải xoay chiều
+ @alternating routing
+- (Tech) xếp nối thay thế
+ @alternating voltage
+- (Tech) điện áp biến đổi @alternation  
+*  dt
+- sự xen nhau; sự xen kẽ, sự thay phiên, sự luân phiên
+
+@alternation
+- (Tech) luân phiên, thay phiên
+ @alternation
+- sự so le; sự luân phiên; sự đan dấu
+ @alternative  
+*  tt
+- xen nhau; thay đổi nhau, thay phiên nhau
+- lựa chọn (một trong hai); hoặc cái này hoặc cái kia (trong hai cái); loại trừ lẫn nhau (hai cái)
+
++ these two plans are necessarily alternative: hai kế hoạch này không nhất thiết phải loại trừ lẫn nhau
+
++ alternative hypothesis: giả thuyết để lựa chọn
+*  dt
+- sự lựa chon (một trong hai)
+- con đường, chước cách
+
++ there is no other alternative: không có cách (con đường) nào khác
+
++ that's the only alternative: đó là cách độc nhất
+
+@alternative
+- (Tech) luân phiên; thay thế; xoay chiều; chọn một
+ @alternative
+- (khả năng) loại trừ nhau (giả thiết)
+ @alternative command
+- (Tech) lệnh thay thế
+ @alternative current (AC) receptacle
+- (Tech) ổ cắm điện xoay chiều
+ @alternative current (AC) socket
+- (Tech) lỗ cắm điện xoay chiều
+ @alternative hypothesis
+- (Tech) giả thuyết đối lập [NB]
+ @alternative protocol
+- (Tech) nghi thức thay thế
+ @Alternative technology
+- (Econ) Công nghệ thay thế.
+: Thuật ngữ dùng để chỉ kiểu công nghệ có một vài hoặc tất cả thuộc tính sau: sử dụng tối thiểu tài nguyên không tái tạo được, gây ô nhiễm thấp nhất đối với môi trường, tự cấp tự túc theo vùng hoặc theo địa phương không có sự bóc lột hoặc cô lập các cá nhân. (Xem INTERMEDIATE TECHNOLOGY, APPROPIATE TECHNOLOGY, INTERMEDIATE TECHNOLOGY DEVELOPMENT GROUP).
+ @alternatively
+* dt
+- như một sự lựa chọn
+ @alternativity  
+*  dt
+- khả năng chọn lựa (một trong hai)
+
+@alternator  
+*  dt
+- (điện học) máy dao điện
+
+@alternator
+- (Tech) máy phát điện xoay chiều
+ @alterne
+* dt
+- thực bì luân phiên
+ @alternion
+- anteniôn
+ @alternipetalous
+* tt
+- có cánh tràng so le
+ @alterniphyllous
+* tt
+- có lá so le, có lá mọc cách
+ @althaea
+* dt
+- cũng althea
+- (thực vật) cây thục quỳ
+ @altho
+- Cách viết khác : although 
+ @although  
+*  liên từ
+- dẫu cho, mặc dù
+
+@altigraph  
+*  dt
+- (hàng không) máy ghi độ cao
+
+@altimeter  
+*  dt
+- cái đo độ cao
+
++ reflection altimeter: cái đo độ cao phản xạ
+
+@altimeter
+- (Tech) máy đo độ cao, cao kế
+ @altimetric
+- xem altimeter
+ @altimetry
+- xem altimeter
+ @altisonant
+* tt
+- hét to; khoa trương
+ @altitude  
+*  dt
+- độ cao ((thường) so với mặt biển)
+- (số nhiều) nơi cao, chỗ cao, đỉnh cao
+- địa vị cao
+- (toán học) độ cao, đường cao
+
++ altitude flight: sự bay ở độ cao
+
++ altitude gauge (measurer): máy đo độ cao
+!to lose altitude
+- (hàng không) không bay được lên cao
+- hạ thấp xuống
+
+@altitude
+- (Tech) độ cao, cao độ
+ @altitude
+- chiều cao, độ cao
+- a. of a cone chiều cao hình nón
+- a. of a triangle chiều cao của tam giác 
+ @altitude error
+- (Tech) sai số độ cao
+ @altitude indicator
+- (Tech) bộ chỉ báo độ cao, đồng hồ đo cao
+ @altitudinal
+- xem altitude
+ @alto  
+*  dt
+- (âm nhạc) giọng nữ trầm; giọng nam cao
+- người hát giọng nữ trầm; người hát giọng nam cao
+- bè antô
+- bè hai
+- đàn antô
+- kèn antô
+
+@alto-cumulus  
+*  dt
+- (khí tượng) mây dung tích
+
+@altogether  
+*  dt
+- hoàn toàn, hầu
+- nhìn chung, nói chung; nhìn toàn bộ
+
++ taken altogether: nhìn chung, đại thể
+- cả thảy, tất cả
+
++ How much altogether?: bao nhiểu cả thảy?
+*  dt
+- (an altogether) toàn thể, toàn bộ
+- (the altogether) (thông tục) người mẫu khoả thân (để vẽ...); người trần truồng
+
++ in the altogether: để trần truồng (làm mẫu vẽ, nặn...)
+
+@altogetherness  
+*  dt
+- tính chất toàn thể, tính chất toàn bộ
+- tính chất chung
+
+@alto-relievo  
+*  dt,  số nhiều alto-relievos
+- (nghệ thuật) đắp nổi cao, khắc nổi cao, chạm nổi cao
+
+@alto-stratus  
+*  dt
+- (khí tượng) mây trung tầng
+
+@altricial
+* tt
+- thuộc chim non yếu; không tự kiếm mồi sớm
+ @altricially
+* dt
+- [một cách] vị tha
+ @altruically
+* dt
+- vị tha
+ @altruism  
+*  dt
+- chủ nghĩa vị tha
+- lòng vị tha, hành động vị tha
+
+@Altruism
+- (Econ) Lòng vị tha.
+: Sự quan tâm tới phúc lợi của người khác.
+ @altruist  
+*  dt
+- người theo chủ nghĩa vị tha, người vị tha
+
+@altruistic  
+*  tt
+- (thuộc) chủ nghĩa vị tha
+- vị tha, có lòng vị tha
+
+@altruistically
+- xem altruism
+ @alu
+- đơn vị số học-logic
+ @alula
+* dt
+- số nhiều alulae
+- (dgt) thùy cánh; vảy gốc cánh (côn trùng), cánh giả (chim)
+ @alum  
+*  dt
+- phèn
+- (định ngữ) (thuộc) phèn; có phèn
+
++ alum earth: đất phèn
+
++ alum works: nhà máy phèn
+
+@alumina  
+*  dt
+- Alumin
+
+@alumina
+- (Tech) ôxít nhôm, alumin
+ @aluminiferous
+* tt
+- có phèn; có aluminat
+ @aluminium  
+*  dt
+- nhôm
+
+@aluminous  
+*  tt
+- (thuộc) phèn; có phèn
+- (thuộc) alumin; có alumin
+
+@aluminum  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) aluminium
+
+@aluminum 
++  aluminium
+- (Tech) nhôm
+ @aluminum cable
+- (Tech) cáp nhôm
+ @aluminum conductor
+- (Tech) dây dẫn nhôm
+ @alumna  
+*  dt,  số nhiều alumnae 
+@alumnae  
+*  dt,  số nhiều alumnae 
+@alumni  
+*  dt,  số nhiều alumni 
+@alumnus  
+*  dt,  số nhiều alumni 
+@alunite
+- (khoáng chất) alunit
+ @alutaceous
+* tt
+- có màu nâu-vàng nhạt
+ @alveated
+* tt
+- kết dạng lỗ tổ ong
+ @alveolar  
+*  tt
+- (thuộc) túi phôi
+- (thuộc) ổ răng
+- như lỗ tổ ong
+
+@alveolate  
+*  tt
+- có lỗ như tổ ong
+
+@alveolation
+- xem alveolate
+ @alveoli  
+*  dt,  số nhiều alveoli 
+@alveolitis
+* dt
+- chứng viêm túi phổi; chứng viêm phế nang
+ @alveolus  
+*  dt,  số nhiều alveoli 
+@always  
+*  dt
+- luôn luôn, lúc nào cũng, bao giờ cũng, mãi mãi, hoài
+!not always
+- đôi khi, đôi lúc, thỉnh thoảng
+
+@alyssum
+* dt
+- (thực vật) cây cải gió
+ @

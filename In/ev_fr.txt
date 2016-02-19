@@ -1,0 +1,3080 @@
+@fra
+* dt
+- người anh; tên hiệu chỉ tu sĩ Italia
+ @fracas  
+*  dt,  số nhiều fracas
+- cuộc câi lộn ầm ĩ, cuộc ẩu đã ầm ĩ
+
+@fractal
+- (Tech) phân dạng; phép toán tạo hình phân dạng
+ @fractile
+- (thống kê) điểm phân vị
+ @fractinal
+- (thuộc) phân số, bộ phận
+ @fraction  
+*  dt
+- (toán học) phân số
+- phần nhỏ, miếng nhỏ
+- (tôn giáo) sự chia bánh thánh
+
+@fraction
+- phân số; một phần
+- f. in its lowest terms phân số tối giản
+- ascendant continued f. liên phân số tăng
+- binary f. phân số nhị nguyên
+- comon f. phân số thông thường (tử và mẫu đều là số nguyên) 
+- complex f. phân số bốn tầng
+- continued f. liên phân số
+- convergent continued f. liên phân số hội tụ
+- decimal f. phân số thập phân
+- descending continued f. liên phân số giảm
+- improper f. phân số không thực sự
+- non-terminating continued f. liên phân số vô hạn
+- parial f. (giải tích) phân thức đơn giản
+- periodic continued f. liên phân số tuần hoàn
+- periodical f. phân số tuần hoàn
+- proper f. phân số thực sự
+- rational f. phân thức hữu tỷ
+- rational algebraic f. phân thức đại số hữu tỷ
+- recurrent continued f. liên phân số tuần hoàn
+- sampling f. (thống kê) tỷ suất lấy mẫu
+- similar f.s các phân số đồng dạng
+- simple f. phân số thông thường
+- simplified f. phân số tối giản
+- terminating contunued f. (giải tích) liên phân số hữu hạn
+- unit f. phân số có tử số đơn vị
+- unlike f. s các phân số không đồng dạng
+- vulgar f. phân số thông thường 
+ @fractional  
+*  tt
+- (thuộc) phân số
+- (hoá học) phân đoạn
+
++ fractional distillation: sự cắt phân đoạn
+- (thông tục) rất nhỏ bé, bé li ti
+
+@fractional
+- (Tech) thuộc phân số, một phần
+ @fractional dimension
+- (Tech) chiếu từng phần
+ @fractional part
+- (Tech) phần số lẻ, phần phân số
+ @Fractional reserve banking
+- (Econ) Hoạt động ngân hàng bằng cách dự trữ theo tỷ lệ.
+: Hoạt động mà các ngân hàng THƯƠNG MẠI thực hiện duy trì dự trữ các tài sản có khả năng chuyển hoán cao ở một mức nào đó, thường là mức thấp nhất trong tổng danh mục tài sản của họ.
+ @Fractional reserve system
+- (Econ) Hệ thống dự trữ một phần.
+ @fractionary  
+*  tt
+- (thuộc) phân số
+- gồm những phần nh
+
+@fractionary
+- phân số; bộ phận
+ @fractionate  
+*  ngdgt
+- (hoá học) cắt phân đoạn
+
+@fractionator
+* dt
+- bộ cắt phân đoạn
+ @fractionise   (fractionize) @fractionize   (fractionize) @fractious  
+*  tt
+- cứng đầu, cứng cổ, bướng
+
++ a fractious boy: thằng bé cứng đầu cứng cổ
+- cau có, quàu quạu; hay phát khùng
+
+@fractiousness  
+*  dt
+- tính cứng đầu cứng cổ, tính bướng bỉnh
+- sự cau có; tính hay phát khùng
+
+@fracture  
+*  dt
+- (y học) sự gãy; chỗ gãy (xương)
+- khe nứt
+- (địa lý,ddịa chất) nết đứt gãy
+*  ngdgt
+- bẻ gây, làm gây, làm đứt đoạn
+*  ndgt
+- gãy, rạn, nứt
+
+@fraenulum
+* dt
+- cũng franulum; số nhiều fraenula,  frenula
+- (giải phẫu) mép; quai móc; dây hãm
+ @fraenum
+* dt
+- cũng frenum; số nhiều fraena,  frena
+- xem fraenulum
+ @frag
+* ngdgt
+- cố tình giết bằng lựu đạn
+ @frag bomb   (frag_bomb) @fragile  
+*  tt
+- dễ vỡ, dễ gây, dễ hỏng; mỏng mảnh, mỏng manh ((nghĩa đen) & (nghĩa bóng))
+
++ fragile happiness: hạnh phúc mỏng manh
+- yếu ớt, mảnh dẻ
+
++ fragile health: sức khoẻ yếu ớt
+
+@fragileness
+* dt
+- tính dẽ vỡ, dễ gãy, giòn
+ @fragility  
+*  dt
+- tính dễ vỡ, tính dễ gãy, tính dễ hỏng; tính mỏng mảnh, tính mỏng manh
+- sự yếu ớt, sự mảnh dẻ
+
+@fragment  
+*  dt
+- mảnh, mảnh vỡ
+
++ to be smashed to fragments: bị đập vụn thành mảnh
+
++ the fragments of a meal: thức ăn thừa
+- khúc, đoạn, mấu (của cái gì không liên tục hay chưa hoàn thành)
+
++ fragments of conversation: những đoạn (không mạch lạc) của câu chuyện
+- tác phẩm chưa hoàn thành
+
+@fragmentary  
+*  tt
+- gồm những mảnh nhỏ, rời từng mảnh, rời từng đoạn
+- chắp vá, rời rạc
+
++ a fragmentary report: bản báo cáo chấp vá
+
+@fragmentation  
+*  dt
+- sự vỡ ra từng mảnh
+
+@fragmentation
+- (Tech) sự tế phân, chia nhỏ; sự phân mảnh
+ @fragmentation bomb   (frag_bomb) @fragrance   (fragrancy) @fragrancy   (fragrancy) @fragrant  
+*  tt
+- thơm phưng phức, thơm ngát
+
+@frail  
+*  tt
+- dễ vỡ; mỏng mảnh
+- yếu đuối, ẻo lả
+- nhu nhược, bạc nhược, dễ bị cám dỗ
+- tạm bợ, mỏng manh
+
++ a frail life: cuộc sống tạm bợ
+
++ frail happiness: hạnh phúc mỏng manh
+- không trinh tiết
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đàn bà, con gái
+*  dt
+- làn (đựng nho...)
+
+@frailty  
+*  dt
+- tình trạng dễ vỡ; tính mỏng mảnh
+- tình trạng yếu đuối, tình trạng ẻo lả
+- tính nhu nhược, tính bạc nhược, tính dễ bị cám dỗ
+- điểm yếu, nhược điểm
+
+@fraise  
+*  dt
+- sườn thoai thoải (ở ụ đất công sự)
+*  dt
+- (kỹ thuật) dao phay
+
+@framboesia
+* dt
+- cũng frambesia
+- (y học) ghẻ cóc
+ @framboise
+* dt
+- rượu cất bằng quả ngấy dâu
+ @frame  
+*  dt
+- cấu trúc, cơ cấu; hệ thống, thứ tự
+
++ the frame of society: cơ cấu xã hội; thứ tự xã hội
+
++ the frame of government: cơ cấu chính phủ
+- trạng thái
+
++ frame of mind: tâm trạng
+- khung (ảnh, cửa, xe...), sườn (tàu, nhà...)
+- thân hình, tầm vóc
+
++ a man of gigantic frame: người tầm vóc to lớn
+- ảnh (trong một loại ảnh truyền hình)
+- lồng kính (che cây cho ấm)
+- (ngành mỏ) khung rửa quặng
+- (raddiô) khung
+*  ngdgt
+- dàn xếp, bố trí, bố cục, dựng lên
+
++ to frame a plan: dựng một kế hoạch
+- điều chỉnh, làm cho hợp
+- lắp, chắp
+- hư cấu (một truyện), tưởng tượng, nghĩ ra
+- trình bày (một lý thuyết)
+- phát âm (từng từ một)
+- đặt vào khung; lên khung, dựng khung
+
++ to frame a roof: lên khung mái nhà
+*  ndgt
+- đầy triển vọng ((thường) to frame well)
+!to frame up
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) mưu hại (ai)
+- bịa, làm giả, gian lận (kết quả một cuộc tuyển cử...)
+
+@frame
+- (Tech) sườn, khung, khuôn; mành @frame
+- dàn, khung; hệ quy chiếu, hệ toạ độ   dựng
+- f. of reference hệ quy chiếu thiên văn
+- astronomical f. of reference (thiên văn) hệ quy chiếu thiên văn
+- rigid f. (cơ học) dàn cứng 
+@frame blanking
+- (Tech) xóa mành
+ @frame buffer
+- (Tech) bộ nhớ đệm mành
+ @frame check sequence
+- (Tech) trình tự kiểm mành
+ @Frame Relay
+- (Tech) quy ước truyền thông tiếp mành
+ @frame synchronize
+- (Tech) đồng bộ hoá mành
+ @frame timebase
+- (Tech) chu kỳ quét mành
+ @frame tracking 
+- (Tech) truy mành [TV]
+ @frame transfer device
+- (Tech) thiết bị truyền mành [TV]
+ @frame-house  
+*  dt
+- nhà toàn bằng gỗ (sườn bằng gỗ, lợp bằng ván)
+
+@frameless
+* tt
+- không khung; không sườn; không giàn
+ @frame-level
+* dt
+- dụng cụ dùng nước để tính độ ngang bằng
+ @frame-saw  
+*  dt
+- (kỹ thuật) cưa giàn
+
+@frame-up  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) vụ mưu hại
+
+@framework  
+*  dt
+- sườn (nhà, tàu...); khung (máy)
+- khung ảnh, khung tranh (nói chung)
+- cốt truyện
+
++ framework of a novel: cốt truyện của một cuốn tiểu thuyết
+- lớp đá lát thành giếng, sườn đê
+- (nghĩa bóng) cơ cấu tổ chức, khuôn khổ
+
++ the framework of society: cơ cấu xã hội
+!to return into the framework
+- hợp nhất, thống nhất
+
+@framework
+- (Tech) sườn, khung, lõi
+ @framework
+- hệ dàn
+ @framing
+* dt
+- sự làm khung; sự đựng khung
+- sự lên khung; sự chỉnh cho vừa khung (trên màn hình)
+- bộ khung; bộ sườn
+
++  deck framing:khung boong (tàu)
+ @framing bit
+- (Tech) bít định mành
+ @framing control
+- (Tech) sự kiểm mành
+ @framing error
+- (Tech) lỗi mành
+ @franc  
+*  dt
+- đồng frăng (tiền Pháp,  Bỉ,  Thuỵ sĩ)
+
+@franc tireur  
+*  dt,  số nhiều francs tireurs
+- bộ binh không chính quy
+- du kích
+
+@franchise  
+*  dt
+- quyền bầu cử
+- tư cách hội viên
+- quyền công dân
+- (từ Mỹ,nghĩa Mỹ); (sử học) đặc quyền
+
+@franciscan  
+*  tt
+- thuộc dòng thánh Fran-xít
+*  dt
+- thầy tu dòng Fran-xít
+
+@francium  
+*  dt
+- (hoá học) Franxi
+
+@franco-american
+* dt
+- người gốc Pháp ở Mỹ
+* tt
+- thuộc người gốc Pháp ở Mỹ
+ @francolin  
+*  dt
+- (động vật học) gà gô, đa đa
+
+@francophone
+* tt
+- nói tiếng Pháp
+* dt
+- người nói tiếng Pháp
+ @francs tireurs  
+*  dt,  số nhiều francs tireurs
+- bộ binh không chính quy
+- du kích
+
+@frangibility  
+*  dt
+- tính dễ gãy, tính dễ vỡ
+
+@frangible  
+*  tt
+- dễ gãy, dễ vỡ
+
+@frangipane   (frangipani) @frangipani   (frangipani) @franglais  
+*  dt
+- từ ngữ Anh,  Mỹ trong tiếng Pháp
+
+@frank  
+*  ngdgt
+- miễn cước; đóng dấu miễn cước
+- (sử học) ký miễn cước
+- (sử học) cấp giấy thông hành
+*  dt (sử học)
+- chữ ký miễn cước
+- bì có chữ ký miễn cước
+*  tt
+- ngay thật, thẳng thắn, bộc trực
+
++ to be quite frank with someone: ngay thật đối với ai; đối xử thẳng thắn với ai
+
+@Franked investment income
+- (Econ) Thu nhập đầu tư được miễn thuế.
+: Nhìn chung là để chỉ thu nhập đã chịu thuế công ty và vì vậy không là đối tượng để tính thuế công ty nữa, thu nhập này là thuộc về công ty nhận nó.
+ @frankfurt   (frankfurter) @frankfurter   (frankfurter) @frank-hearted
+* dt
+- bụng dạ thành thực, bộc trực
+ @frank-heartedness
+* tt
+- tính bộc trực, tính thẳng thắn
+ @frankincense  
+*  dt
+- hương trầm (của Châu phi, chế bằng nhựa một cây họ trám)
+
+@franking-machine
+* dt
+- thiết bị tự động đóng dấu vào các lá thư... và tính bưu phí; máy in dấu tem
+ @frankish
+* dt
+- tiếng Frăng
+* tt
+- thuộc tiếng Frăng
+ @franklin  
+*  dt
+- (sử học) địa chủ (không thuộc giai cấp quý tộc, ở thế kỷ 14 và 15)
+
+@franklin
+- (Tech) franklin (Fr, đơn vị điện tích 
++  3,336 x 10 lũy thừa -10 coulomb)
+ @Franklin antenna
+- (Tech) ăngten Franklin, ăngten cộng tuyến, ăngten đẳng vị tướng
+ @franklinite
+* dt
+- (khoáng chất) franclinit
+ @frankly
+* dt
+- thẳng thắn, trung thực
+
++  tell me frankly what's wrong:hãy nói thật cho tôi biết cái gì đang trục trặc
+
++  frankly, I couldn't care less:thành thật mà nói, tôi không thể quan tâm ít hơn
+
++  quite frankly, I'm not surprised:hết sức chân thành mà nói, tôi chẳng ngạc nhiên đâu
+ @frankness  
+*  dt
+- tính ngay thật, tính thẳng thắn, tính bộc trực
+
+@frankpledge  
+*  dt
+- (sử học) sự trách nhiệm liên đới (giữa mười hộ một)
+- (nghĩa bóng),  (từ hiếm,nghĩa hiếm) trách nhiệm liên đới (giữa các thành viên trong một chính phủ)
+
+@frantic  
+*  tt
+- điên cuồng, điên rồ
+
++ to be frantic with pain: đau phát cuồng, đau phát điên
+
+@frantically
+* dt
+- điên cuồng, điên rồ
+ @frap  
+*  ngdgt
+- (hàng hải) buộc chặt
+
+@frappé  
+*  tt
+- ướp lạnh (rượu)
+
+@frass  
+*  dt
+- cứt ấu trùng, cứt mọt
+
+@frate  
+*  dt,  số nhiều frati
+- (như) friar
+
+@frater   (frater) @fraternal  
+*  tt
+- (thuộc) anh em
+
++ fraternal love: tình (yêu) anh em
+
++ fraternal friendship: tình hữu nghị anh em
+!fraternal order (society, association)
+- (từ Mỹ,nghĩa Mỹ) hội kín
+
+@fraternalism
+* dt
+- tình anh em
+- công ích luận
+- thuyết công ích luận
+ @fraternally
+* dt
+- thân thiện, thân thiết
+ @fraternise   (fraternise) @fraternity  
+*  dt
+- tình anh em
+- phường hội
+- (từ Mỹ,nghĩa Mỹ) hội học sinh đại học
+
+@fraternization  
+*  dt
+- sự thân thiện
+- sự làm thân, sự kết thân như anh em
+
+@fraternize   (fraternise) @frati  
+*  dt,  số nhiều frati
+- (như) friar
+
+@fratricidal  
+*  tt
+- giết anh, giết chị, giết em
+
+@fratricide  
+*  dt
+- sự giết anh, sự giết chị, sự giết em
+- người giết anh, người giết chị, người giết em
+
+@fraud  
+*  dt
+- sự gian lận, sự gian trá; sự lừa lọc, sự lừa gạt
+
++ to get money by fraud: kiếm tiền bằng cách lừa gạt
+- âm mưu lừa gạt, mưu gian
+- cái không đúng như sự mong đợi, cái không đúng như sự mưu tả
+- (từ hiếm,nghĩa hiếm) tính chất lừa lọc
+!in fraud; to the fraud of
+- (pháp lý) để lừa gạt
+!a pious fraud
+- (xem) pious
+
+@fraudulence  
+*  dt
+- tội gian lận, tội lừa lọc
+- ý đồ gian lận, ý đồ lừa lọc; tính chất gian lận, tính chất lừa lọc
+
+@fraudulent  
+*  tt
+- mắc tội gian lận; mắc tội lừa lọc
+- có ý gian lận, có ý lừa lọc
+- do gian lận, do lừa lọc; đi lừa được
+
++ fraudulent gains: những của đi lừa được
+
+@fraudulently
+* dt
+- gian lận, lậu
+ @fraught  
+*  tt
+- đầy
+
++ fraught with danger: đầy nguy hiểm
+- (thơ ca) (: with) xếp đầy, trang bị đầy
+
+@fraulein
+* dt
+- cô gái (chưa chồng, người Đức)
+ @Fraunhofer diffraction
+- (Tech) nhiễu xạ Fraunhofer
+ @Fraunhofer (diffraction) hologram
+- (Tech) ảnh toàn ký Fraunhofer
+ @Fraunhofer holography
+- (Tech) môn ảnh toàn ký Fraunhofer
+ @fraxinella  
+*  dt
+- (thực vật học) cây bạch tiễn
+
+@fray  
+*  dt
+- cuộc cãi lộn; cuộc ẩu đả, cuộc đánh nhau, cuộc xung đột
+
++ eager for the fray: hăm hở xuất trận ((nghĩa đen) & (nghĩa bóng))
+*  ndgt
+- bị cọ sờn, bị cọ xơ
+
+@fraying
+* dt
+- sự tước
+ @fraze
+* dt
+- rìa xờm
+* ngdgt
+- gọt rìa xờm
+ @frazil  
+*  dt
+- (Ca-na-dda),  (từ Mỹ,nghĩa Mỹ) tảng băng (ở sông, suối)
+
+@frazzle  
+*  dt (từ Mỹ,nghĩa Mỹ)
+- sự mệt rã rời, sự kiệt quệ
+- mảnh còn lại, mảnh vụn, mảnh tả tơi
+
++ beaten to a frazzle: bị đánh bại không còn mảnh giáp, bị đánh bại tả tơi
+*  ngdgt
+- làm cho mệt rã rời, làm kiệt sức
+- làm rách tả tơi
+*  ndgt
+- mệt rã rời, kiệt sức
+- rách tả tơi
+
+@freak  
+*  dt
+- tính đồng bóng, tính hay thay đổi
+
++ out of mere freak: chỉ vì tính đồng bóng
+- quái vật; điều kỳ dị
+
++ a freak of nature: một quái vật
+*  ngdgt
+- làm lốm đốm, làm có vệt
+
+@freak out  
+*  ndgt,  (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- cảm thấy đê mê, đi mây về gió, phiêu diêu bay bổng (như lúc hút thuốc phiện...)
+- trở thành một híp-pi, ăn mặc hành động như một híp-pi ((xem) hippie); ăn mặc lập dị, hành động lập dị
+
+@freaked  
+*  tt
+- có đốm, lốm đốm, làm có vệt
+
+@freakish  
+*  tt
+- đồng bóng, hay thay đổi
+- quái đản, kỳ cục
+
+@freakishly
+* dt
+- quái đản, kỳ cục
+ @freakishness  
+*  dt
+- tính đồng bóng, tính hay thay đổi
+- tính quái đản, tính kỳ cục
+
+@freak-out  
+*  dt,  (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- trạng thái đê mê, sự đi mây về gió, sự phiêu diêu bay bổng (như lúc hút thuốc phiện...)
+- sự trở thành một híp-pi, sự ăn mặc hành động như một híp-pi; sự ăn mặc lập dị, hành động lập dị
+
+@freaky
+* tt
+- xem freakish
+ @freckle  
+*  dt
+- tàn nhang (trên da)
+- số nhiều chỗ da bị cháy nắng
+*  ngdgt
+- làm cho (da) có tàn nhang
+*  ndgt
+- có tàn nhang (da)
+
+@freckled
+* tt
+- bị tàn nhang
+ @freckly  
+*  tt
+- có tàn nhang (da mặt...)
+
+@free  
+*  tt
+- tự do
+
++ a free country: một nước tự do
+
++ free hydrogen: (hoá học),  hyddro tự do
+
++ a free translation: bản dịch tự do, bản dịch thoát ý
+
++ free verse: thơ tự do (không luật)
+
++ free love: tình yêu tự do (không cần cưới xin)
+- không mất tiền, không phải trả tiền; được miễn
+
++ free admission: vào cửa không mất tiền
+
++ free of duty: được miễn thuế
+
++ free imports: các loại hàng nhập được miễn thuế
+- (: from) không bị, khỏi phải, thoát được
+
++ free from care: không phải lo lắng
+
++ free from pain: không bị đau đớn
+
++ free from dampness: không bị ẩm
+- rảnh, không có người ở, không có người giữ chỗ
+
++ to have very little free time: có rất ít thì giờ rảnh
+
++ there are three rooms free at this hotel: ở khách sạn có ba phòng chưa có ai ở
+- lỏng, không bọ ràng buộc
+
++ to leave one end of the rope free: thả lỏng một dây thừng
+- suồng sã; xấc láo; tục
+
++ to be too free in one's behaviour: có thái độ suồng sã
+
++ a free story: một chuyện tục
+- thanh thoát, uyển chuyển, mềm mại; dễ dàng
+
++ a free style of writing: văn phòng thanh thoát, văn phòng uyển chuyển
+
++ free lines and curves: những đường thẳng và nét cong thanh thoát uyển chuyển
+
++ free gestures: những cử chỉ mềm mại uyển chuyển
+- rộng rãi, hào phóng; phong phú, nhiều
+
++ to spend money with a free hand: tiêu tiền hào phóng
+
++ to be free with one's praise: khen ngợi không tiếc lời
+- thông, thông suốt (không bị ngăn cản)
+
++ a free road: con đường thông suốt
+- tự nguyện, tự ý
+
++ to be free to confess: tự nguyện thú
+- được đặc quyền (ở một thành phố); được quyền sử dụng và ra vào (một toà nhà...)
+!free motion
+- xọc xạch; jơ (máy)
+!to give somebody a free hand
+- để cho ai toàn quyền hành động
+!to have one's hands free
+- rảnh tay, không phải lo lắng điều gì
+!to make free use of something
+- tuỳ thích sử dụng cái gì
+*  dt
+- tự do
+- không phải trả tiền
+- (hàng hải) xiên gió
+*  ngdgt
+- thả, phóng thích, giải phóng, trả tự do
+- gỡ ra khỏi; giải thoát; mở thông (một con đường)
+
+@free
+- tự do
+ @free agent
+* dt
+- người không bị ràng buộc khi hành động
+ @free association
+* dt
+- (tâm lý) sự tự do liên hệ ý tưởng
+ @free charge
+- (Tech) điện tích tự do
+ @free church  
+*  dt
+- nhà thờ độc lập (đối với nhà nước)
+
+@free electron
+- (Tech) điện tử tự do
+ @free enterprise  
+*  dt
+- sự tự do kinh doanh
+
+@Free exchange rates
+- (Econ) Tỷ giá hối đoái tự do
+: Xem EXCHANGE RATES.
+ @free fall
+* dt
+- <lý> sự rơi tự do
+ @free form
+- (Tech) hình thức tự do, thể tự do
+ @free house
+* dt
+- tiệm bán nhiều loại bia của nhiều hãng (không thuộc độc quyền của hãng nào)
+ @free kick
+* dt
+- <thể> cú đá phạt trực tiếp
+ @free labour  
+*  dt
+- lao động tự do (của những người không trong nghiệp đoàn)
+- (sử học) lao động tự do (của những người không phải là nô lệ)
+
+@free lance  
+*  dt
+- nhà báo tự do (không viết riêng cho tờ báo nào)
+- nhà chính trị độc lập (không thuộc về đảng phái nào)
+- (sử học) lính đánh thuê (thời Trung cổ)
+*  ndgt
+- làm nghề viết báo tự do
+
+@free liver  
+*  dt
+- người ăn chơi phóng túng, người chè chén lu bù
+
+@free living  
+*  dt
+- lối sống ăn chơi phóng túng, sự chè chén lu bù
+
+@free love
+* dt
+- tình yêu tự do
+ @Free market
+- (Econ) Thị trường tự do.
+: Thị trường không có sự can thiệp của chính phủ và tại đó các tác nhân cung và cầu được phép hoạt động tự do.
+ @Free market economy
+- (Econ) Nền kinh tế thị trường tự do.
+: Xem MARKET ECONOMY.
+ @free on board  
+*  dt
+- giao hàng tận bến ((viết tắt) f.o.b,  F.O.B)
+
+@Free on board
+- (Econ) Giao hàng tại bến.
+: Xem FOB.
+ @free pass  
+*  dt
+- giấy vào cửa không mất tiền
+
+@free port  
+*  dt
+- cảng tự do (không có thuế quan)
+
+@free quarters  
+*  dt số nhiều
+- sự ăn ở không mất tiền
+- sự chiêu đãi
+
+@free range
+* tt
+- (nói về gà) không phải do gà nuôi trong chuồng đẻ ra, mà do gà nuôi trong điều kiện tự nhiên đẻ ra
+ @Free reserves
+- (Econ) Dự trữ tự do.
+: Tổng dụ trữ pháp định tại một thể chế nhận tiền gửi trừ đi lượng dự trữ yêu cầu và trừ đi lượng dự trữ vay được từ Quỹ Dự trữ Liên bang.
+ @Free rider
+- (Econ) Người xài chùa; người ăn không.
+: Một hiện tượng nảy sinh từ đặc điểm của HÀNG HOÁ CÔNG CỘNG.
+ @free running counter
+- (Tech) máy đếm chạu tự do
+ @free running frequency
+- (Tech) tần số dao động tự do
+ @free running mode
+- (Tech) kiểu dao động tự do
+ @free soil  
+*  dt
+- miền không có chế độ nô lệ
+
+@free space field intensity
+- (Tech) cường độ trường không gian tự do
+ @free trade  
+*  dt
+- sự buôn bán tự do, mậu dịch tự do
+- (từ cổ,nghĩa cổ) sự buôn lậu
+
+@Free trade
+- (Econ) Thương mại tự do.
+: Chính sách không can thiệp của chính phủ trong thương mại giữa các nước ở những nước mà thương mại diễn ra theo PHÂN CÔNG LAO ĐỘNG quốc tế và lý thuyết LỢI THẾ SO SÁNH.
+ @Free trade area
+- (Econ) Khu vực thương mại tự do.
+: Một sự phân nhóm không chặt chẽ giữa các nước đã loại bỏ THUẾ QUAN và các hàng rào thương mại khác.
+ @free vote
+* dt
+- sự bỏ phiếu tự do
+ @free will  
+*  dt
+- sự tự ý, sự tự nguyện
+
++ to do something of one's own free_will: tự nguyện làm gì
+*  tt
+- tự ý, tự nguyện
+
+@free-and-easy  
+*  tt
+- tự do thoải mái, không nghi thức gò bó
+*  dt
+- cuộc hoà nhạc thoải mái (người nghe có thể hút thuốc lá...); cuộc hội họp thoải mái (giữa các anh em bạn thân)
+
+@freebie
+* dt
+- quà biếu, quà tặng
+ @free-board  
+*  dt
+- (hàng hải) phần nổi (phần tàu từ mặt nước đến boong)
+
+@freeboot  
+*  ndgt
+- ăn cướp
+
+@freebooter  
+*  dt
+- kẻ cướp, lục lâm
+
+@freebooting  
+*  dt
+- sự ăn cướp
+*  tt
+- ăn cướp
+
+@free-born  
+*  tt
+- (sử học) được kế thừa quyền công dân, được kế thừa quyền tự do (trong chế độ nô lệ)
+
+@freecode
+- Nhóm phần mềm Việt nam đã tạo ra chương trình phần mềm mà bạn đang sử dụng đây
+ @free-cutting
+* tt
+- (chế tạo máy) có khả năng cắt cao; có tính công nghệ tốt
+ @Freed good
+- (Econ) Hàng miễn phí; Hàng không phải trả tiền
+: Một hàng hoá mà cung của nó ít nhất là bằng cầu tại mức giá bằng không.
+ @freedman  
+*  dt
+- người nô lệ được giải phóng
+
+@freedom  
+*  dt
+- sự tự do; nền tự do
+
++ to fight for freedom: đấu tranh giành tự do
+
++ freedom of speech: tự do ngôn luận
+- quyền tự do (ra vào, sử dụng)
+
++ to give a friend the freedom of one's housw: cho một người bạn quyền tự do sử dụng nhà mình
+- quyền tự quyết
+- sự miễn, sự khỏi phải, sự không có (khuyết điểm...)
+
++ freedom from tax: sự miễn thuế
+
++ freedom from wants: sự không bị thiếu thốn
+- sự thoải mái; sự xuề xoà, sự suồng sã
+
++ to take freedoms with somebody: quá suồng sã với ai
+- đặc quyền (của một thành phố, một tổ chức...)
+- (vật lý) khả năng chuyển dộng
+
+@freedom
+- sự tự do
+ @freedom fighter
+* dt
+- chiến sự đấu tranh cho tự do
+ @Freedom of entry
+- (Econ) Tụ do nhập ngành.
+: Khả năng của một công ty mới gia nhập một thị trường hàng hoá và dịch vụ. Nếu hoàn toàn không có các HÀNG RÀO GIA NHẬP thì việc gia nhập là tự do.
+ @freedom ride  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) cuộc đi vậm động chống phân biệt chủng tộc (bằng xe buýt, về miền Nam)
+
+@free-floating
+* tt
+- bấp bênh; lừng chừng
+
++  a free-floating intellectual:người trí thức lừng chừng
+ @free-flow
+* dt
+- (kỹ thuật) dòng chảy tự do
+ @freefone
+* dt
+- chế độ điện đàm miễn phí đối với người gọi
+ @free-for-all  
+*  tt
+- mở ra cho tất cả cho mọi người, dành tất cả cho mọi người
+*  dt
+- cuộc loạn đả
+- cuộc đấu ai muốn tham dự cũng được
+
+@free-hand  
+*  tt
+- (hội họa) bằng tay, không dụng cụ
+
++ a free-hand sketch: bức phác hoạ vẽ bằng tay không dùng dụng cụ
+
+@free-handed  
+*  tt
+- rộng rãi, hào phóng
+
+@free-hearted  
+*  tt
+- thành thật, thẳng thắn, bộc trực, cởi mở
+- rộng lượng
+
+@freehold  
+*  dt
+- thái ấp được toàn quyền sử dụng
+
+@freeholder  
+*  dt
+- chủ thái ấp được toàn quyền sử dụng
+
+@freeing
+* dt
+- sự giải phóng
+- (kỹ thuật) sự khử
+ @freelance
+* dgt
+- làm nghề tự do
+* dt
+- nghệ sĩ, nhà văn... độc lập, kiếm sống bằng cách bán tác phẩm của mình cho nhiều chủ...
+* tt
+- làm nghề tự do
+ @freelancer
+* dt
+- người làm nghề tự do (không làm cho chủ nào cả)
+ @free-list  
+*  dt
+- danh sách những người được vào cửa không mất tiền
+- danh sánh hàng hoá không bị đánh thuế
+
+@free-load
+* ndgt
+- ăn chực, ăn bám
+ @freeload
+* ndgt
+- ăn chực, ăn bám
+ @free-loader
+* dt
+- kẻ ăn bám, người ăn chực
+ @freeloader
+* dt
+- kẻ ăn bám, người ăn chực
+ @freely  
+*  dt
+- tự do, tuỳ thích, không gò bó, thoải mái
+- rộng rãi, hào phóng
+
+@freely
+- một cách tự do
+ @freeman  
+*  dt
+- người tự do (không phải là nô lệ)
+- người được đặc quyền (cửa một thành phố, một tổ chức...)
+
+@freemartin  
+*  dt
+- bò cái bất toàn (đẻ sinh đôi cùng một con bò đực, thường là không có khả năng sinh sản)
+
+@freemason  
+*  dt
+- hội viên hội Tam điểm
+
+@freemasonry  
+*  dt
+- hội Tam điểm
+- những nguyên tắc điều lệ của hội Tam điểm
+- sự thông cảm tự nhiên giữa những người cùng cảnh ngộ
+
+@free-minded
+* tt
+- an tâm; đầu óc thoải mái
+ @freenet
+- mạng miễn phí
+ @freepost
+* dt
+- bưu phí do người nhận chịu
+ @Free-rider problem
+- (Econ) Vấn đề người xài chùa.
+ @freerunning
+* tt
+- (kỹ thuật) chạy không
+ @freesia
+* dt
+- <thực> lan Nam Phi
+ @free-spoken  
+*  tt
+- nói thẳng, nói toạc ra
+
+@free-spokeness
+* dt
+- việc nói toạc ra; việc nói không úp mở
+ @free-standing
+* tt
+- không có giá đỡ
+ @freestone
+* dt
+- đá để đẽo (để đặt vào chỗ khuyết khi xây)
+ @free-style
+* dt
+- sự bơi tự do, sự đấu vật tự do
+ @freestyle
+* dt
+- sự bơi tự do, sự đấu vật tự do
+ @free-thinker  
+*  dt
+- người độc lập tư tưởng
+
+@free-thinking  
+*  dt
+- sự độc lập tư tưởng (không theo tôn giáo, các quan niệm, các thuyết... hiện hành)
+*  tt
+- độc lập tư tưởng (không theo tôn giáo, các quan niệm, các thuyết... hiện hành)
+
+@free-trader  
+*  dt
+- người chủ trương mậu dịch tự do
+
+@freeware
+- (Tech) hàng miễn phí, nhu liệu cho không
+ @freeway
+- như motorway
+ @free-wheel  
+*  dt
+- cái líp (xe đạp)
+*  ndgt
+- thả xe đạp cho chạy líp (như khi xuống dốc)
+
+@freewheel
+* dt
+- cái líp (xe đạp)
+* ndgt
+- thả xe đạp cho chạy líp (như) khi xuống dốc
+ @freeza
+- ngừng phát triển
+ @freezable
+* tt
+- có thể đóng băng
+ @freeze  
+*  dt
+- sự đông vì lạnh, sự giá lạnh; tình trạng đông vì lạnh
+- tiết đông giá
+- sự ổn định; sự hạn định (giá cả, tiền lương...)
+*  ndgt froze,  frozen
+- đóng băng
+- đông lại (vì lạnh), lạnh cứng
+- thấy lạnh, thấy giá
+- thấy ớn lạnh, thấy ghê ghê (vì sợ)
+*  ngdgt
+- làm đóng băng
+- làm đông, làm lạnh cứng
+
++ to freeze someone to death: làm ai chết cóng
+- ướp lạnh (thức ăn)
+- làm (ai) ớn lạnh
+- làm lạnh nhạt (tình cảm)
+- làm tê liệt (khả năng...)
+- ngăn cản, cản trở (sự thực hiện)
+- ổn định; hạn định (giá cả, tiền lương...)
+!to freeze on
+- (từ lóng) nắm chặt lấy, giữ chặt lấy
+!to freeze out
+- cho (ai) ra rìa
+!to freeze over
+- phủ đầy băng; bị phủ đầy băng
+!to freeze someone's blood
+- làm ai sợ hết hồn
+!frozen limit
+- (thông tục) mức chịu đựng cao nhất
+
+@freeze
+- (Tech) làm đông đặc; làm định tĩnh
+ @freeze-dry  
+*  ngdgt
+- (từ Mỹ,nghĩa Mỹ) ướp lạnh và làm khô (thức ăn để dự trữ)
+
+@freezer  
+*  dt
+- máy ướp lạnh
+- máy làm kem
+
+@freezing  
+*  tt
+- giá lạnh, băng giá, rét lắm
+- lạnh nhạt, lạnh lùng, xa cách (thái độ)
+
+@freezing-mixture  
+*  dt
+- (hoá học) hỗn hợp làm đông
+
+@freezing-point  
+*  dt
+- (vật lý) điểm đông
+
+@freight  
+*  dt
+- việc chuyên chở hàng bằng đường thuỷ; (từ Mỹ,nghĩa Mỹ) việc chuyên chở hàng hoá (cả bằng đường bộ)
+- tiền cước chuyên chở
+- sự thuê tàu chuyên chở
+*  ngdgt
+- chất hàng xuống (tàu)
+- thuê (tàu) chuyên chở
+
+@freight car   (freight_train) @freight house  
+*  dt
+- kho để hàng hoá chuyên chở
+
+@freight train   (freight_train) @freightage  
+*  dt
+- sự thuê tàu chuyên chở
+- chuyên chở hàng bằng đường thuỷ
+- chuyên chở hàng hoá
+
+@freight-agent
+* dt
+- nhân viên lo chuyên chở
+ @freighter  
+*  dt
+- người chất hàng (lên tàu)
+- người gửi hàng chở bằng đường bộ
+- người thuê tàu chuyên chở
+- người nhận chuyên chở hàng
+- tàu chuyên chở; máy bay chuyên chở
+
+@freightliner
+* dt
+- xe lửa tốc hành chuyên chở hàng hoá
+ @french  
+*  tt
+- (thuộc) Pháp
+!to take French leave
+- đánh bài chuồn
+*  dt
+- tiếng Pháp
+- (the French) nhân dân Pháp
+
+@french bean  
+*  dt
+- (thực vật học) đậu tây
+
+@french bread  
+*  dt
+- bánh mì nướng già (hình thoi như của người Pháp)
+
+@french chalk
+* dt
+- bột mịn dùng để đánh dấu
+ @french dressing
+* dt
+- xà lách trộn giấm và gia vị
+ @french letter  
+*  dt
+- bao chống thụ thai
+
+@french polish  
+*  dt
+- dầu đánh véc ni
+*  ngdgt
+- đánh véc ni
+
+@french polisher  
+*  dt
+- người đánh véc ni
+
+@french seam
+* dt
+- đường may có mép không viền lộn xuống và khâu xuống phía dưới
+ @french window
+* dt
+- <ktrúc> cửa kính ở ban công
+ @french-canadian
+* dt
+- người Canađa nói tiếng Pháp; người Canađa gốc Pháp
+ @frenchification  
+*  dt
+- sự pháp hoá
+
+@frenchify  
+*  tt
+- pháp hoá
+
+@frenchism
+* dt
+- phong tục Pháp
+- đặc điểm Pháp
+ @frenchless  
+*  tt
+- không biết tiếng Pháp
+
+@frenchman  
+*  dt
+- người Pháp (đàn ông)
+- người nói tiếng Pháp (giỏi, kém...)
+- tàu thuỷ Pháp
+
+@frenchness  
+*  dt
+- tính chất Pháp
+
+@french-polish
+* dgt
+- đánh véc ni
+ @frenchwoman  
+*  dt
+- người đàn bà Pháp
+
+@frenchy  
+*  tt
+- (thuộc) Pháp; theo kiểu Pháp
+
+@frenetic  
+*  tt
+- điên lên, cuồng lên; điên cuồng
+- cuồng tín
+
+@frenetically
+* dt
+- cuống cuồng, điên cuồng
+ @frenezied  
+*  tt
+- điên cuồng
+
++ frenezied efforts: những cố gắng điên cuồng
+
+@frenulum
+* dt
+- số nhiều frenums,  frena
+- (sinh học) mép; quai móc; dây hãm
+ @frenum
+* dt
+- số nhiều frenums,  frena
+- (giải phẫu) dây hãm
+ @frenzied
+* tt
+- điên cuồng
+ @frenziedly
+* dt
+- cuống cuồng, điên cuồng
+ @frenzy  
+*  dt
+- sự điên cuồng
+
++ a frenzy of despair: sự thất vọng đến điên cuồng
+- (từ hiếm,nghĩa hiếm) sự mê loạn
+*  ngdgt
+- làm điên cuồng, làm giận điên lên
+
+@freon
+* dt
+- freon (chất làm lạnh, dùng trong các thiết bị làm lạnh)
+ @frequence   (frequency) @frequency
+- (Tech) tần số
+ @frequency
+- (vật lí) tần số
+- angular f. tần số góc
+- audio f. tần số âm (thanh)
+- base f. tần số cơ sở
+- beat f. tần số phách
+- carrier f. tần số mang
+- cell f. tần số nhóm
+- circular f. tần số vòng
+- class f. tần số lớp
+- collision f. tần số va chạm
+- commercial f. (thống kê) tần số công nghiệp; tần số thương mại
+- conversion f. tần số biển đổi
+- critical f. tần số tới hạn
+- cut-off f. tần số cắt, tần số tới hạn
+- cyclic f. tần số vòng
+- driving f. tần số kích thích
+- marginal f. (thống kê) tần số biên duyên
+- master f. (máy tính) tần số chính
+- natural f. tần số riêng
+- non-dimensional f. tần số không thứ nguyên
+- pulse f. tần số lặp các xung
+- pulse-recurrence f. (máy tính) tần số lặp các xung
+- relative f. tần số tương đối
+- resonance f. tần số cộng hưởng
+- scan f. tần số quét
+- signal f. tần số tín hiệu
+- signal-carrier f. tần số mang tín hiệu
+- spacing f. tần số nghỉ
+- theoretical f. (thống kê) tần số lý thuyết, xác suất
+- transition f.(điều khiển học) tần số chuyển tiếp
+ @frequency agility
+- (Tech) tính linh động tần số
+ @frequency band
+- (Tech) dải tần số
+ @frequency bridge
+- (Tech) cầu tần số
+ @frequency channel
+- (Tech) kênh tần số
+ @frequency control
+- (Tech) sự điều tần, điều chỉnh tần số
+ @frequency conversion
+- (Tech) sự chuyển đổi tần
+ @frequency demodulation
+- (Tech) sự hoàn điệu tần số
+ @frequency demultiplier
+- (Tech) bộ giảm tần, bộ phân tích tần
+ @frequency detection
+- (Tech) sự phát hiện tần số
+ @frequency deviation
+- (Tech) độ lệch tần số; độ di tần
+ @frequency discriminator
+- (Tech) bộ phân biệt tần số, bộ tách sóng biến điệu tần số
+ @frequency distortion transmission impairment
+- (Tech) sự giảm chất lượng truyền dẫn do biến dạng tần số
+ @Frequency distribution
+- (Econ) Phân bố theo tần suất.
+: Thể hiện tóm tắt thường là dưới dạng bảng số hoặc BIỂU ĐỒ TẦN SUẤT, thể hiện số lần mà một BIẾN NGẪU NHIÊN nhận một giá trị nhất định hay khoảng giá trị trong một mẫu quan sát.
+ @frequency divider
+- (Tech) bộ phân tần số
+ @frequency division multiplexing (FDM) 
+- (Tech) bộ đa kênh phân tần số
+ @frequency domain synthesis
+- (Tech) sự tổng hợp vùng tần số
+ @frequency doubler
+- (Tech) bộ nhân đôi tần số
+ @frequency drift
+- (Tech) sự chuyển dời tần số
+ @frequency filtering
+- (Tech) lọc tần số
+ @frequency function
+- (Tech) hàm tần số
+ @frequency hopped (FH) spread spectrum signals
+- (Tech) tín hiệu phổ rộng với tần số thay đổi
+ @frequency indicator
+- (Tech) bộ chỉ báo tần số
+ @frequency interference
+- (Tech) giao thoa tần số
+ @frequency inverse
+- (Tech) sự ngịch đảo tần số
+ @frequency meter
+- (Tech) tần số kế, máy đo tần số
+ @frequency modulated magnetron
+- (Tech) đèn từ khống biến điệu tần số
+ @frequency modulation  
+*  dt
+- (raddiô) sự điều biến tần
+
+@frequency modulation
+- (Tech) sự biến điệu tần số, điều tần
+ @frequency modulator
+- (Tech) bộ biến điệu tần số
+ @frequency monitor
+- (Tech) bộ kiểm tra tần số
+ @frequency multiplier
+- (Tech) bộ nhân tần số
+ @frequency multiplier klystron
+- (Tech) đèn tốc điều nhân tần
+ @frequency pulling
+- (Tech) kéo tần số
+ @frequency pushing
+- (Tech) đẩy tần số
+ @frequency regulator
+- (Tech) bộ ổn tần
+ @frequency response curve
+- (Tech) đáp tuyến tần số
+ @frequency response equalization
+- (Tech) hiệu chỉnh đáp tuyến tần số
+ @frequency sampling system
+- (Tech) hệ thống lấy mẫu tần số
+ @frequency scanner
+- (Tech) bộ quét tần số
+ @frequency selectivity
+- (Tech) độ chọn lọc tần số
+ @frequency sensitive load
+- (Tech) gtải nhạy tần
+ @frequency separator
+- (Tech) bộ phân tách tần số
+ @frequency shift
+- (Tech) dịch chuyển tần số
+ @frequency shift keying (FSK)
+- (Tech) gõ di tần
+ @frequency spectrum
+- (Tech) phổ tần số
+ @frequency stability
+- (Tech) độ ổn định tần số
+ @frequency swing
+- (Tech) dao động tần số
+ @frequency synthesizer
+- (Tech) bộ tổng hợp tần số
+ @frequency translation
+- (Tech) sự chuyển dịch tần
+ @frequency tripler
+- (Tech) bộ nhân ba tần số
+ @frequency-division multiplex(ing)
+- (Tech) đa hợp phân tần
+ @frequency-modulated cyclotron
+- (Tech) bộ gia tốc quay tròn biến điệu tần số
+ @frequency-response characteristic
+- (Tech) đặc tính hưởng ứng tần số
+ @frequency-to-number converter
+- (Tech) bộ đổi tần ra số
+ @frequent  
+*  tt
+- thường xuyên, hay xảy ra, có luôn
+
++ a frequent visitor: người khách hay đến chơi
+- nhanh (mạch đập)[fri'kwent]
+*  ndgt
+- hay lui tới; hay ở
+
++ to frequent the theatre: hay lui tới rạp hát, hay đi xem hát
+
+@frequent
+- thường xuyên
+ @frequentable
+* tt
+- có thể lui tới luôn
+ @frequentation  
+*  dt
+- sự hay lui tới (nơi nào); sự năng đi lại giao du (với ai)
+
+@frequentative  
+*  tt
+- (ngôn ngữ học) nhiều lần, xảy ra nhiều lần
+
+@frequenter  
+*  dt
+- người hay lui tới (nơi nào); người năng đi lại giao du (với ai)
+
+@frequently
+* dt
+- thường xuyên
+ @frequentness
+* dt
+- sự thường xảy ra
+ @fresco  
+*  dt,  số nhiều frescos,  frescoes
+- lối vẽ trên tường
+- tranh nề, tranh tường
+*  ndgt
+- vẽ tranh tường
+
+@frescoer
+* dt
+- người vẽ bích hoạ
+ @frescoes  
+*  dt,  số nhiều frescos,  frescoes
+- lối vẽ trên tường
+- tranh nề, tranh tường
+*  ndgt
+- vẽ tranh tường
+
+@fresco-painter
+* dt
+- xem frescoer
+ @fresco-secco
+* dt
+- nghệ thuật vẽ bích hoạ
+ @fresh  
+*  tt
+- tươi (hoa, trứng, sữa, cá, thịt...)
+- tươi tắn, mơn mởn
+
++ fresh paint: sơn còn ướt
+- còn rõ rệt, chưa phai mờ
+
++ fresh memories: những kỷ niệm chưa phai mờ
+- trong sạch, tươi mát, mát mẻ (không khí...)
+
++ first fresh dreams: những giấc mơ đầu tươi mát
+- mới
+
++ to begin a fresh chapter: bắt đầu một chương mới
+
++ fresh news: tin mới
+- vừa mới tới, vừa mới ra; non nớt, ít kinh nghiệm
+
++ a fresh hand: một anh chàng thiếu kinh nghiệm
+- không mặn, không chát (bơ...); ngọt (nước)
+
++ fresh water: nước ngọt
+- khoẻ khắn, sảng khoái, khoẻ mạnh, lanh lợi
+
++ as fresh as paint: rất khoẻ
+
++ to feel fresh after six sets of ping-pong: cảm thấy khoẻ khoắn sau khi chơi sáu ván bóng bàn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) hỗn xược, xấc láo, sỗ sàng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ngà ngà say, chếnh choáng
+- (từ Mỹ,nghĩa Mỹ) vừa mới có sữa (bò cái sau khi đẻ)
+*  dt
+- mới
+
++ fresh from school: vừa mới tốt nghiệp ở trường ra
+*  dt
+- lúc tươi mát, lúc mát mẻ
+
++ in the fresh of the morning: vào lúc tươi mát của buổi sáng
+- dòng nước trong mát
+
+@fresh-blown
+* tt
+- vừa mới nở hoa
+ @fresh-coloured
+* tt
+- có vẻ hoạt bát, tráng kiện
+ @fresh-comer
+* dt
+- người mới đến
+ @freshen  
+*  ngdgt
+- làm tươi
+- làm mát mẻ, làm trong sạch
+- làm mới
+- làm ngọt (nước...)
+*  ndgt
+- tươi mát, mát ra
+- (từ Mỹ,nghĩa Mỹ) mới đẻ con, lên sữa (bò cái)
+- ((từ Mỹ,nghĩa Mỹ),  (thường) : up) tắm rửa thay quần áo
+
++ to freshen up after a long trip: tắm rửa thay quần áo sau một cuộc đi dài
+
+@freshener
+* dt
+- chất làm thơm mát
+ @fresher  
+*  dt
+- học sinh đại học năm thứ nhất ((cũng) freshman)
+
+@freshet
+* dt
+- dòng nước ngọt
+- nước dâng lên đột ngột (vì mưa hay băng tan)
+ @freshly  
+*  dt
+- ((thường) : động tt quá khứ) mới mẻ, vừa mới
+
++ bread freshly baked: bánh mì vừa mới nướng
+- có vẻ tươi, tươi mát
+- khoẻ khắn, sảng khoái
+- (từ hiếm,nghĩa hiếm) lại, lại bắt đầu lại
+
+@freshman  
+*  dt
+- học sinh đại học năm thứ nhất ((cũng) fresher)
+- người mới bắt đầu, người mới vào nghề
+*  định ngữ
+- (thuộc) học sinh đại học năm thứ nhất; cho học sinh đại học năm thứ nhất
+
++ the freshman curriculum: chương trình cho học sinh đại học năm thứ nhất
+
+@freshness  
+*  dt
+- sự tươi (hoa...)
+- sự tươi mát, sự mát mẻ (không khí...)
+- tính chất mới (tin tức...)
+- sự khoẻ khắn, sảng khoái
+
+@freshrun
+* dt
+- con cá từ biển mới vào sông
+ @freshwater  
+*  tt
+- (thuộc) nước ngọt; ở nước ngọt
+
++ freshwater fish: cá nước ngọt
+- quen đi sông hồ (không quen đi biển)
+
++ a freshwater sailor: thuỷ thủ đường sông
+- (từ Mỹ,nghĩa Mỹ) non nớt, ít kinh nghiệm
+- (từ Mỹ,nghĩa Mỹ) có tính chất tỉnh nhỏ, ít người biết tới...
+
++ a freshwater college: trường đại học tỉnh nhỏ
+
+@fresnel
+- (Tech) fresnen, têtrahec (10 lũy thừa 12 Hz)
+ @Fresnel diffraction
+- (Tech) nhiễu xạ Fresnel
+ @fresno
+* dt
+- (kỹ thuật) máy cạp đường
+ @fret  
+*  dt
+- phím đàn
+*  dt
+- hình trang trí chữ triện, hoa văn chữ triện
+*  ngdgt
+- trang trí (trần nhà) bằng hoa văn chữ triện
+*  dt
+- sự bực dọc, sự cáu kỉnh, sự khó chịu
+
++ to be in a fret: bực dọc, cáu kỉnh
+- sự gặm mòn, sự ăn mòn
+*  ngdgt
+- quấy rầy, làm phiền, làm bực bội
+- (: away) buồn phiền làm hao tổn
+
++ to fret away one's health: buồn phiền làm hao tốn sức khoẻ
+- gặm, nhấm, ăn mòn
+
++ rust has fretted the iron away: gỉ ăn mòn hết sắt
+- làm lăn tăn, làm gợn (mặt nước)
+*  ndgt
+- phiền muộn, buồn phiền, bực dọc, băn khoăn, bứt rứt
+- bị gặm, bị nhấm, bị ăn mòn
+- lăn tăn, gợn, dập dờn (mặt nước)
+!to fret and fume
+- bực dọc, sốt ruột
+
+@fretful  
+*  tt
+- bực bội, cáu kỉnh
+
++ a fretful baby: chú bé hay quấy
+
+@fretfully
+* dt
+- bực bội, cáu kỉnh
+ @fretfulness  
+*  dt
+- tính hay bực bội, tính hay cáu kỉnh
+
+@fret-saw  
+*  dt
+- (kỹ thuật) cưa lượn
+
+@frettage
+* dt
+- sự gặm nhấm
+ @fretted  
+*  tt
+- có phím
+
+@fretwork  
+*  dt
+- công trình chạm trổ những hình trang trí chữ triện
+- đồ gỗ khoét bằng cưa lượn
+
+@freudian  
+*  tt
+- (triết học) (thuộc) Frớt
+*  dt
+- người theo học thuyết Frớt
+
+@freudianism
+* dt
+- học thuyết Frớt
+ @fri
+* (viết tắt)
+- thứ Sáu (Friday)
+- viết tắt
+- thứ Sáu (Friday)
+ @friability   (friableness) @friable  
+*  tt
+- bở, dễ vụn
+
+@friableness   (friableness) @friar   (frate) @friarly
+* tt
+- (thuộc) thầy dòng; (thuộc) chủng viện
+ @friary  
+*  tt
+- (thuộc) thầy dòng
+*  dt
+- tu viện (dòng tu khổ hạnh)
+
+@fribble  
+*  dt
+- người hay làm việc vớ vẩn, vô ích
+- việc làm vớ vẩn; ý nghĩ vớ vẩn
+*  ndgt
+- làm những chuyện vớ vẩn, vô ích
+
+@fricandeau  
+*  dt,  số nhiều fricandeaux
+- thịt bê hầm, thịt bê rán; miếng thịt bê hầm, miếng thịt bê rán
+
+@fricandeaux  
+*  ngdgt
+- làm thành món thịt hầm, làm thành món thịt rán
+*  dt
+- số nhiều của fricandeau
+
+@fricassee  
+*  dt
+- món thịt thái miếng hầm; món ragu chim
+*  ngdgt
+- thái miếng nhỏ hầm; nấu ragu
+
+@fricative  
+*  tt
+- (ngôn ngữ học) xát (phụ âm)
+*  dt
+- (ngôn ngữ học) phụ âm xát
+
+@friction  
+*  dt
+- (kỹ thuật) sự mài xát, sự ma xát
+- sự xoa bóp; sự chà xát
+- sự va chạm, sự xích mích (vì không cùng ý kiến...)
+
+@friction
+- (vật lí) ma sát
+- internal f. ma sát trong
+- linear f. ma sát tuyến tính
+- rolling f. ma sát lăn
+- skin f. (cơ học) ma sát mặt ngoài
+- static and kenetic f. ma sát tĩnh và động 
+ @frictional  
+*  tt
+- (kỹ thuật) mài xát, ma xát
+
+@Frictional and structural unemployment
+- (Econ) Thất nghiệp do  chờ chuyển nghề và do chờ chuyển nghề.
+ @frictional electricity
+- (Tech) điện ma sát
+ @Frictional unemployment
+- (Econ) Thất nghiệp do chờ chuyển nghề
+: Thường được hiểu là THẤT NGHIỆP TÌM KIẾM, nghĩa là số lượng thất nghiệp tương ứng với chỗ khuyết việc làm trên cùng một loại việc làm và THỊ TRƯỜNG LAO ĐỘNG ĐỊA PHƯƠNG.
+ @friction-ball  
+*  dt
+- (kỹ thuật) bị giảm ma xát
+
+@friction-band
+* dt
+- (kỹ thuật) má phanh (bánh lái)
+ @friction-bearing
+* dt
+- (kỹ thuật) ổ trượt; ổ ma sát trượt
+ @friction-brake
+* dt
+- (kỹ thuật) phanh ma sát
+ @friction-clutch
+* dt
+- (kỹ thuật) khớp ly hợp ma sát
+ @friction-cone  
+*  dt
+- (kỹ thuật) côn ma xát
+
+@friction-disk
+* dt
+- (kỹ thuật) đĩa ma sát
+ @friction-drive
+* dt
+- (kỹ thuật) truyền động ma sát
+ @friction-gearing  
+*  dt
+- (kỹ thuật) sự truyền động ma xát
+
+@frictionless  
+*  tt
+- (kỹ thuật) không có ma xát
+
+@friction-proof
+* tt
+- chống ma sát
+ @friday  
+*  dt
+- ngày thứ sáu
+
+@fridge   (fridge) @Friedman, Milton (1912-)
+- (Econ) Được phong là giáo sư kinh tế tại trường Đại học Chicago năm 1948 và là người lãnh đạo của TRƯỜNG PHÁI CHICAGO.Ông được tặng giả Nobel kinh tế năm 1976. Các tác phẩm chủ yếu của ông về kinh tế họ gồm: Đánh thuế để phòng ngừa lạm phát (1953), Lý thuyết về yếu tố tiêu dùng (1957), Lý thuyết về giá cả (1962), Lịch sử tiền tệ của Mỹ 1867-1960, Những nguyên nhân và hậu quả của lạm phát (1963). Friedman là người đi tiên phong trong việc phát triển tư tưởng về VỐN NHÂN LỰC và công trình của ông về hàm tiêu dùng đã đưa đến việc hình thành GIẢ THIẾT THU NHẬP SUỐT ĐỜI. Lập trường phương pháp luận KINH TẾ HỌC THỰC CHỨNG, hệ tư tưởng tự do và việc xây dựng nên TỶ LỆ THẤT NGHIỆP TỰ NHIÊN của ông đã góp phần chỉ ra các hạn chế của các chính sách ỔN ĐỊNH HOÁ của trường phái Keynes. Cùng với Anna Schwartz, ông đã viết nên một lịch sử tiền tệ đồ sộ của Mỹ góp phần cung cấp cơ sở cho việc phát triển LÝ THUYẾT ĐỊNH LƯỢNG TIỀN TỆ và làm sống lại sự tin tưởng vào các học thuyết trước Keynes vào sự ổn định tự động của hệ thống kinh tế. Ông đã mở rộng PHƯƠNG TRÌNH FISHER để bao hàm các biến như của cải, lãi suất và tỷ lệ lạm phát, giá cả dự kiến và điều này đã dẫn đến sự phát triển của văn chương theo chủ nghĩa trọng tiền về kinh tế học vĩ mô.
+ @friend  
+*  dt
+- người bạn
+- người quen sơ, ông bạn
+- người ủng hộ, người giúp đỡ
+- cái giúp ích
+
++ self-reliance is one's best friend: dựa vào sức mình là điều tốt nhất
+- (số nhiều) bà con thân thuộc
+- (Friend) tín đồ Quây-cơ
+!to be friends with
+!to keep friends with
+- thân với
+!to make friend in need is a friend indeed
+- bạn trong lúc khó khăn hoạn nạn mới thật là bạn
+*  ngdgt
+- (thơ ca) giúp đỡ
+
+@friendless  
+*  tt
+- không có bạn
+
+@friendlessness  
+*  dt
+- tình trạng không có bạn
+
+@friendliness  
+*  dt
+- sự thân mật, sự thân thiết, sự thân thiện
+
+@friendly  
+*  tt
+- thân mật, thân thiết, thân thiện
+
++ a friendly smile: một nụ cười thân mật
+
++ to have friendly relations with one's neighbours: có quan hệ thân mật với láng giềng của mình
+
++ Friendly Society: hội ái hữu
+
++ a friendly match: cuộc đấu giao hữu
+- thuận lợi, tiện lợi
+- (tôn giáo) (Friend) thuộc phái Quây-cơ
+!friendly lead
+- cuộc giải trí có quyên tiền (để giúp người nghèo ở Luân-ddôn)
+
+@friendship  
+*  dt
+- tình bạn, tình hữu nghị
+
+@frier  
+*  dt
+- chảo rán (cá...)
+- người rán (cá...)
+- (từ Mỹ,nghĩa Mỹ) thức ăn để rán; gà giò để rán
+
+@frieze  
+*  dt
+- vải len tuyết xoăn
+*  dt
+- (kiến trúc) trụ ngạch
+
+@frig   (fridge) @frigate  
+*  dt
+- tàu khu trục nhỏ
+- (động vật học) chim chiến, chim frêgat ((cũng) frigate-bird)
+- (sử học) tàu chiến, thuyền chiến
+
+@frigate-bird   (hurricane-bird) @frige   (fridge) @frigging
+* tt
+ @fright  
+*  dt
+- sự hoảng sợ
+- (thông tục) người xấu xí kinh khủng; quỷ dạ xoa; người ăn mặc xấu xí; vật xấu xí kinh khủng
+*  ngdgt
+- (thơ ca) (như) frighten
+
+@frighten  
+*  ngdgt
+- làm hoảng sợ, làm sợ
+
++ to frighten somebody into during something: làm cho ai sợ mà phải làm việc gì
+
++ to frighten somebody out of doing something: làm cho ai sợ mà thôi không làm việc gì
+
++ to frighten somebody into submission: làm cho ai sợ mà phải quy phục
+
+@frightened  
+*  tt
+- hoảng sợ, khiếp đảm
+
+@frightening
+* tt
+- kinh khủng, khủng khiếp
+ @frightful  
+*  tt
+- ghê sợ, khủng khiếp, kinh khủng
+- (thông tục) xấu kinh khủng, to kinh khủng
+
+@frightfully
+* dt
+- ghê sợ, ghê khiếp, khủng khiếp
+- <thgt> ghê gớm, vô cùng, hết sức, cực kỳ
+ @frightfulness  
+*  dt
+- tính chất ghê sợ, tính chất khủng khiếp, tính chất kinh khủng
+
+@frightfuly  
+*  dt
+- ghê sợ, ghê khiếp, khủng khiếp
+- (thông tục) ghê gớm, vô cùng, hết sức, cực kỳ
+
+@frigid  
+*  tt
+- giá lạnh, lạnh lẽo, băng giá
+- lạnh nhạt, nhạt nhẽo
+
++ a frigid welcome: cuộc tiếp đón lạnh nhạt
+- (y học) không nứng được, lânh đạm nữ dục
+
+@frigidaire  
+*  dt
+- tủ ướp lạnh
+
+@frigidarium
+* dt
+- số nhiều frigidaria
+- phòng tắm nước lạnh (nhà tắm La-mã cổ đại)
+ @frigidity  
+*  dt
+- sự giá lạnh, sự lạnh lẽo, sự băng giá
+- sự lạnh nhạt, sự nhạt nhẽo
+- (y học) sự không nứng được, sự lânh đạm nữ dục
+
+@frigidly
+* dt
+- thờ ơ, lạnh nhạt, lãnh đạm
+ @frigorific
+* tt, cũng frigorifical
+- để làm lạnh; sinh hàn
+ @frill  
+*  dt
+- diềm xếp nếp (ở áo phụ nữ)
+- diềm (lông chim)
+- hoa giấy xếp (trang trí đùi lợn muối)
+- (số nhiều) điệu bộ, kiểu cách; những cái tô điểm rườm rà
+
++ to put on frills: làm bộ, làm điệu
+- màng treo ruột (thú vật)
+- (nhiếp ảnh) nếp nhăn (rìa mặt có thuốc ở phim)
+*  dgt
+- diềm bằng vải xếp nếp, diềm đăng ten
+- (nhiếp ảnh) nhăn (rìa mặt phim có thuốc)
+
+@frilled  
+*  tt
+- có diềm bằng vải xếp nếp
+- (nhiếp ảnh) có mép nhăn
+
+@frillery  
+*  dt
+- sự làm diềm bằng vải xếp nếp
+
+@frillies  
+*  dt số nhiều
+- (thông tục) váy lót xếp nếp
+
+@frilling  
+*  dt
+- sự làm diềm bằng vải xếp nếp
+- vải xếp nếp làm diềm
+
+@frimaire
+* dt
+- tháng giá (tháng từ 21 - 3 đến 22 - 4 trong lịch ccách mạng Pháp)
+ @fringe  
+*  dt
+- tua (khăn quàng cổ, thảm)
+- tóc cắt ngang trán (đàn bà)
+- ven rìa (rừng...); mép
+- (vật lý) vân
+
++ interference fringe: vân giao thoa
+!Newgate fringe
+- râu chòm (dưới cằm)
+*  ndgt
+- đính tua vào
+- viền, diềm quanh
+
+@fringe
+- vành, đường viền
+- interference f. vành gia thoa 
+ @fringe antenna
+- (Tech) ăngten biên
+ @fringe area
+- (Tech) khu vực biên
+ @Fringe benefit
+- (Econ) Phúc lợi phi tiền tệ.
+: Tất cả các yếu tố phi tiền công hay tiền lương trong tổng lợi ích bằng tiền mà một người đi làm nhận được từ công việc của mình.
+ @fringe effect
+- (Tech) hiệu ứng biên 
++  edge effect
+ @fringe radiation
+- (Tech) bức xạ biên
+ @fringe-benefit  
+*  dt
+- phúc lợi phụ; phụ cấp ngoài
+
+@fringeless  
+*  tt
+- không có tua
+
+@fringing  
+*  dt
+- sự đính tua
+- sự viền, sự diềm
+
+@fringy  
+*  tt
+- có tua
+- như tua
+
+@frippery  
+*  dt
+- đồ trang trí loè loẹt rẻ tiền (ở quần áo)
+- câu văn sáo, câu văn rỗng tuếch
+- (số nhiều) những vật linh tinh rẻ tiền
+
+@frisbee
+* dt
+- dựa nhựa nhẹ dùng trong trò chơi
+ @Frisch, Ragnar
+- (Econ) (1895-1973)
+: Nhà kinh tế học người Na uy và là người chung giải Nobel kinh tế lần đầu tiên vào năm 1969 cùng với Jan Tinbergen nhờ những kết quả của ông trong việc diễn tả Lý thuyết kinh tế chính xác hơn về toán học và đưa ra dạng thể hiện của nó tạo khả năng nghiên cứu thực nghiệm bằng số lượng và tiến hành kiểm định thống kê. Vào đầu những năm 1930, Frisch đã đi đầu trong nghiên cứu sự hình thành dạng động các chu kỳ thương mại, trong đó ông đã chứng minh một hệ thống động với một số đặc tính toán học đã tạo ra một biến động có tính chu kỳ tắt dần với chiều dài bước sóng là 4 đến 8 năm. Khi hệ thống này gặp phải những cú sốcngẫu nhiên thì những dao động hình sóng trở thành hiện thực và lâu dài. Các thành tựu của Frisch là ở chỗ ông là người đầ tiên đưa ra các phương pháp kiểm định các giả thuyết thống kê. Trong lĩnh vực chính sách kinh tế, ông đã đưa ra hệ thống hạch toán quốc gia rất có ích cho các chính sách ổn định hoá và kế hoạch hoá kinh tế, giới thiệu các phương pháp quy hoạch toán học sử dụng trong các kỹ thuật máy tính điện tử hiện đại. Những công trình chủ yếu của ông là Phân tích hợp lưu thống kê bằng các hệ thống hồi quy hoàn chỉnh (1943), Cực đại và cực tiểu (1966), Lý thuyết về sản xuất (1965).
+ @frisco
+* dt
+- (thông tục) thành phố San-fran-xit-xcô (viết tắt)
+ @frisette  
+*  dt
+- tóc quăn ngang trán
+
+@friseur  
+*  dt
+- thợ uốn tóc
+
+@frisk  
+*  dt
+- sự nhảy cỡn, sự nô đùa
+*  ndgt
+- nhảy cỡn, nô đùa
+*  ngdgt
+- vẫy (đuôi...) (chó)
+- (từ lóng) lần (người) để đi tìm khí giới
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lần (ai) để xoáy
+
+@frisker
+* dt
+- người nhảy múa
+ @frisket
+* dt
+- cách in bằng cách che những chỗ cần để trống
+ @friskily
+* dt
+- nghịch ngợm
+ @friskiness  
+*  dt
+- tính nghịch ngợm; tính hay nô đùa
+
+@frisky  
+*  tt
+- nghịch ngợm; hay nô đùa
+
+@frisson
+* dt
+- sự rùng mình ớn lạnh
+ @frit  
+*  dt
+- (kỹ thuật) nguyên liệu thuỷ tinh
+*  ngdgt
+- nấu (thuỷ tinh)
+- nấu chảy một phần
+
+@frit-fly  
+*  dt
+- (động vật học) ruồi lúa mì, ruối frít
+
+@frith   (frith) @fritillary  
+*  dt
+- (thực vật học) cây bồi mẫu
+- (động vật học) bướm đốm, bướm acginit
+
+@fritter  
+*  dt
+- món rán
+- (số nhiều) (như) fenks
+*  ngdgt
+- chia nhỏ ra
+- phung phí (thì giờ, tiền của...)
+
++ to fritter away one's time on useless things: lãng phí thì giờ vào những việc vô ích
+
+@fritz  
+*  dt
+- to be on the fritz (từ Mỹ,nghĩa Mỹ),  (từ lóng) hỏng, cần phải sửa chữa
+- (Fritz) (từ lóng) người Đức
+
+@frivol  
+*  ngdgt
+- lãng phí (thời giờ, tiền của...)
+*  ndgt
+- chơi phiếm, làm những chuyện vớ vẩn vô ích
+
+@frivolity   (frivolness) @frivolness   (frivolness) @frivolous  
+*  tt
+- phù phiếm, nhẹ dạ, bông lông
+- không đáng kể, nhỏ mọn; vô tích sự
+
+@frivolously
+* dt
+- nhẹ dạ, nông nổi
+ @friz   (frizz) @frizzle  
+*  dt
+- tóc quăn, tóc uốn
+*  ngdgt
+- uốn (tóc) thành búp
+*  ndgt
+- uốn thành búp (tóc)
+*  dgt
+- rán xèo xèo
+
+@frizzly   (frizzy) @frizzy
+* tt
+- uốn quăn, uốn thành búp (tóc)
+ @fro  
+*  dt
+- to and fro đi đi lại lại
+
+@frock  
+*  dt
+- áo thầy tu, áo cà sa
+
++ to wear the frock: đi tu
+- áo săngdday (của thuỷ thủ)
+- váy yếm (của trẻ con mặc trong nhà)
+- áo dài (đàn bà)
+- áo choàng (của lính)
+
+@frock-coat  
+*  dt
+- áo choàng, áo dài (đàn ông)
+
+@froe  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) cái rìu
+
+@froebelism  
+*  dt
+- phương pháp Frê-ben (phương pháp giáo dục trẻ nhỏ ở vườn trẻ)
+
+@frof-spawn  
+*  tt
+- (động vật học) trứng ếch
+- (thực vật học) tảo trứng ếch
+
+@frog  
+*  dt
+- (động vật học) con ếch, con ngoé
+*  dt
+- (động vật học) đế guốc (chân ngựa)
+*  dt
+- quai đeo kiếm, quai đeo lưỡi lê
+- khuy khuyết thùa (áo nhà binh)
+*  dt
+- (ngành đường sắt) đường ghi
+
+@frogbit
+* dt
+- (thực vật) cây lá sắn
+ @frog-fish  
+*  dt
+- (động vật học) cá vây chân
+
+@frogged  
+*  tt
+- có khuy khuyết thùa (áo nhà binh)
+
+@froggery
+* dt
+- nơi nhiều ếch
+ @frogging
+* dt
+- (động vật) ếch con
+ @froggy  
+*  tt
+- (thuộc) ếch nhái; như ếch nhái
+- có nhiều ếch nhái
+
+@froghopper
+* dt
+- (động vật) sâu bọ thuộc họ ve sầu nhảy (ấu trùng sản sinh bọt)
+ @frog-in-the-throat  
+*  dt
+- sự khản tiếng, sự khản cổ
+
+@frogling  
+*  dt
+- (động vật học) ếch con; ngoé con
+
+@frogman  
+*  dt
+- người nhái
+
+@frog-march   (frog's-march) @frogskin
+* dt
+- (từ Mỹ, nghĩa Mỹ) (từ lóng) tờ đô-la giấy
+ @frog's-march   (frog's-march) @frog-spawn
+* tt
+- <động> trứng ếch
+- <thực> tảo trứng ếch
+ @frogsuit
+* dt
+- (kỹ thuật) quần áo chống nhiễm xạ
+ @frolic  
+*  tt
+- (từ cổ,nghĩa cổ) vui vẻ, vui nhộn, hay nô đùa
+*  dt
+- cuộc vui nhộn
+- sự vui đùa, sự nô đùa, sự đùa giỡn
+*  ndgt
+- vui đùa, nô đùa, đùa giỡn
+
+@frolickness
+* dt
+- tính vui nhộn; tính hay nô đùa
+ @frolicky   (frolicsome) @frolicsome   (frolicsome) @frolicsomeness  
+*  dt
+- tính vui nhộn, tính hay nô đùa
+
+@from  
+*  giới từ
+- từ
+
++ to start from Hanoi: bắt đầu đi từ Hà-nội
+
++ to know someone from a child: biết một người nào từ tấm bé
+
++ to count from one to ten: đếm từ một đến mười
+
++ from morning till night: từ sáng đến tối
+
++ from place to place: từ nơi này sang nơi khác
+
++ a letter from home: một bức thư (từ) nhà (gửi đến)
+- dựa vào, theo, do từ, xuất phát từ
+
++ to judge from appearances: dựa vào (theo) bề ngoài mà xét đoán
+- khỏi, đừng; tách khỏi, rời xa, cách
+
++ to save a thing from damage: giữ gìn một vật khỏi bị hư hỏng
+
++ to go [away] from house: đi (xa) khỏi nhà
+- vì, do, do bởi
+
++ to tremble from fear: run lên vì sợ hãi
+- với
+
++ to differ from others: khác với những người khác; khác với những cái khác
+- bằng
+
++ wine is made from grapes: rượu vang làm bằng nho
+- của (ai... cho, gửi, tặng, đưa)
+
++ gilfs from friends: quà của bạn bè (gửi tặng)
+!from of old
+- ngày xưa, ngày trước, thuở xưa, lâu rồi
+
++ I know it from of old: tôi biết việc ấy đã lâu rồi
+
+@frond  
+*  dt
+- (thực vật học) lá lược (của cây dương xỉ)
+- (động vật học) u hình lá
+
+@frondage  
+*  dt
+- (thực vật học) bộ lá lược (của cây dương xỉ)
+
+@frondescence
+* dt
+- (thực vật) sự ra lá; sự ra lá lược
+ @frondiferous
+* tt
+- mang lá; mang lá lược
+ @frondose  
+*  tt,  (thực vật học)
+- hình lá lược
+- có lá lược
+
+@frons
+* dt; số nhiều frontes
+- trán
+ @front  
+*  dt
+- (thơ ca) cái trán
+- cái mặt
+
++ front: mặt đối mặt
+- đằng trước, phía trước; mặt trước (nhà...); (thông tục) bình phong ((nghĩa bóng))
+
++ in front of: ở phía trước
+- vạt ngực (hồ cứng, ở sơ mi đàn ông)
+- (quân sự); (chính trị) mặt trận
+
++ to go the front: ra mặt trận
+
++ the liberation front: mặt trận giải phóng
+
++ the popular front: mặt trận bình dân
+
++ production front: mặt trận sản xuất
+- sự trơ tráo, sự trơ trẽn
+
++ to have the front to do something: dám trơ trẽn làm một việc gì
+
++ to show a bold front: dám giơ cái mặt mo ra
+- đường đi chơi dọc bờ biển (ở nơi nghỉ mát)
+- mớ tóc giả
+- (khí tượng) Frông
+!to come to the front
+- nổi bật
+*  tt
+- đằng trước, về phía trước, ở phía trước
+- (ngôn ngữ học) front vowel nguyên âm lưỡi trước
+*  dt
+- về phía trước, thẳng
+
++ eyes front!: (quân sự) nhìn đằng trước, thẳng!
+*  ngdgt
+- xây mặt trước (bằng đá...)
+
++ a house fronted with stone: nhà mặt trước xây bằng đá
+- quay mặt về phía; đối diện với
+
++ your house fronts mine: nhà anh đối diện với nhà tôi
+- đương đầu, chống cự
+
++ to front danger: đương đầu với nguy hiểm
+*  ndgt ((thường) : to,  towards,  on,  upon)
+- quay mặt về phía; đối diện với
+
++ the hotel fronts on the sea: khách sạn quay mặt ra biển
+
+@front
+- (vật lí) tuyến, mặt trước; mặt đầu tròn
+- cold f. (vật lí) mặt đầu lạnh, tuyến lạnh
+- oblique shock f. tuyến kích động xiên
+- reaction f. tuyến phản lực
+- reflected shock f. tuyến kích động phản xạ
+- shock f. tuyến kích động
+- spherical shock f. tuyến kích động cầu
+- stationary shock f. tuyến kích động dừng
+- warm f. tuyến ấm
+- wave f. mặt sóng, đầu sóng 
+ @front bench  
+*  dt
+- hàng ghế trước (dành cho bộ trưởng, cựu bộ trưởng, lânh tụ đảng đối lập, ở nghị viện Anh)
+
+@front end
+- (Tech) đầu trước, phần tiếp ngoại vi
+ @front money  
+*  dt
+- tiền hoa hồng ứng trước
+
+@front page  
+*  dt
+- trang đầu (tờ báo)
+- (định ngữ) (thuộc) trang đầu, ở trang đầu, trên trang đầu
+
++ front_page news: tin tức in trên trang đầu
+*  ngdgt
+- đăng (tin) ở trang đầu tờ báo
+
+@front panel
+- (Tech) bảng mặt trước
+ @frontage  
+*  dt
+- khoảng đất trước nhà (giữa mặt trước nhà và đường phố)
+- mặt (trước) nhà
+- hướng
+- (quân sự) khu vực đóng quân
+- (quân sự) khu vực duyệt binh
+
+@frontal  
+*  tt
+- (thuộc) trán
+
++ frontal bone: xương trán
+- đằng trước mặt
+
++ a frontal attack: một cuộc tấn công đằng trước mặt
+*  dt
+- cái che mặt trước bàn thờ
+- mặt trước (nhà)
+
+@frontal
+- chính diện; (thuộc) tuyến, biên
+ @frontality
+* dt
+- hình vẽ điêu khắc theo mặt trước
+ @front-bench
+* dt
+- hàng ghế đầu trong quốc hội dành cho những người cầm đầu chính phủ và các đảng đối lập
+ @front-bencher  
+*  dt
+- đại biểu ngồi hàng ghế trước (bộ trưởng, cựu bộ trưởng, lânh tụ đảng đối lập, ở nghị viện Anh)
+
+@front-box
+* dt
+- (sân khấu) lô trước mặt sân khấu
+ @front-court
+* dt
+- sân trước
+ @front-door
+* dt
+- cửa trước ra vào
+ @fronted
+* tt
+- có mặt trước; bày thành một hàng ở phía trước
+ @front-end
+* dt
+- (tin học) đầu; lối vào; ngoại vi
+- front-end computer
+- máy tính ngoại vi
+
++  front-end processing:xử lý trước, xử lý ngoại vi
+ @front-end computer
+- (Tech)máy điện toán đầu trước
+ @front-end interface
+- (Tech) giao diện đầu trước
+ @front-end processing
+- (Tech) xử lý tiếp ngoại vi
+ @front-end processor (FEP)
+- (Tech) bộ xử lý đầu trước; chương trình xử lý đầu trước, chương trình tiền xử lý
+ @front-end system
+- (Tech) hệ thống tiếp ngoại vi, hệ đầu trước
+ @front-gate
+* dt
+- cửa trước
+- cổng trước
+ @frontier  
+*  dt
+- biên giới
+- giới hạn (của văn minh)
+- (định ngữ) ở biên giới
+
++ a frontier post: đồn biên phòng
+
+@frontier
+- biên giới
+ @frontiersman  
+*  dt
+- người dân ở vùng biên giới
+
+@frontispiece  
+*  dt
+- (ngành in) tranh đầu sách
+- (kiến trúc) mặt trước (nhà), chính diện
+- cửa ra vào có trang hoàng
+*  ngdgt
+- in tranh đầu sách vào
+
+@frontless  
+*  tt
+- không có mặt trước
+- (quân sự) không có mặt trận
+- (từ hiếm,nghĩa hiếm) trơ tráo, trơ trẽn
+
+@frontlet  
+*  dt
+- mảnh vải bịt ngang trán
+- trán (thú vật)
+- màn che trước bàn thờ
+
+@front-man
+* dt
+- người giới thiệu chương trình vô tuyến
+- người chỉ đạo một nhóm âm nhạc
+ @front-of-house
+* dt
+- phần nhà hát công chúng vào được
+ @frontogenesis
+* dt
+- (khí tượng) sự phát sinh fron
+ @frontolysis
+* dt
+- (khí tượng) sự tiêu fron
+ @frontomalar
+* dt
+- thuộc trán-gò má
+ @fronton  
+*  dt
+- (kiến trúc) tán tường
+
+@frontonasal
+* tt
+- thuộc trán-mũi
+ @front-pager  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) tin quan trọng
+
+@front-runner
+* dt
+- người có triển vọng thành công
+ @front-view
+* dt
+- cách nhìn chính diện
+ @frontward  
+*  tt & dt
+- về phía trước
+
+@frontwards  
+*  tt & dt
+- về phía trước
+
+@frontways
+- Cách viết khác : frontwise 
+ @frore  
+*  tt
+- (thơ ca) băng giá
+
+@frosh  
+*  dt,  (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- học sinh đại học năm thứ nhất
+- người mới vào nghề
+
+@frost  
+*  dt
+- sự đông giá
+- sương giá
+- sự lạnh nhạt
+- (từ lóng) sự thất bại
+*  ngdgt
+- làm chết cóng (vì sương giá) (cây, mùa màng...)
+- phủ sương giá
+
++ frosted window-panes: những ô kính cửa sổ phủ sương giá
+- rắc đường lên
+
++ to frost a cake: rắc đường lên cái bánh
+- làm (mặt gương) lấm tấm (như có phủ sương giá)
+- làm (tóc) bạc
+- đóng đinh (vào sắt móng ngựa để chống trượt)
+
+@frost-bite  
+*  dt
+- chỗ thui chột vì sương giá
+- (y học) chỗ phát cước
+*  ngdgt
+- làm tê cóng; làm chết cóng; làm thui chột vì sương giá
+
+@frost-bitten  
+*  tt
+- tê cóng; chết cóng vì sương giá; thui chột vì sương giá
+- (y học) phát cước
+
+@frostbound
+* tt
+- (nói về đất) cứng lại vì sương tuyết
+ @frost-cleft
+* tt
+- nứt nẻ vì giá lạnh
+ @frosted
+* tt
+- bị băng giá
+- bị mờ (kính)
+ @frostily
+* dt
+- lạnh nhạt, thờ ơ, lãnh đạm
+ @frostiness  
+*  dt
+- sự băng giá, sự giá rét
+- tính lạnh nhạt, tính lânh đạm
+
+@frosting  
+*  dt
+- lượt phủ (kem, đường... trên bánh ngọt)
+- sự rắc đường lên bánh
+- mặt bóng (trên kính, kim loại...)
+
+@frostless  
+*  tt
+- không có sương giá
+
+@frost-proof
+* tt
+- chịu sương giá
+ @frost-sensitive
+* tt
+- dễ cảm sương gió
+ @frost-work  
+*  dt
+- bông sương giá đọng trên cửa kính
+- hình trang trí giống sương giá (trên thuỷ tinh...)
+
+@frosty  
+*  tt
+- băng giá, giá rét; phủ đầy sương giá
+- (nghĩa bóng) lạnh nhạt, lânh đạm
+
++ a frosty nature: tính lânh đạm
+
+@froth  
+*  dt
+- bọt (rượu bia...)
+- bọt mép
+
++ to be on the froth: giận sùi bọt mép
+- váng bẩn
+- điều vô ích; chuyện vô ích
+- chuyện phiếm
+*  ngdgt
+- làm (bia...) nổi bọt, làm sủi bọt
+*  ndgt
+- nổi bọt, sủi bọt
+
+@froth-blower  
+*  dt
+-(đùa cợt) người uống bia
+
+@frother
+* dt
+- (kỹ thuật) chất tạo váng (để tuyển quặng)
+ @frothiness  
+*  dt
+- sự có bọt, sự sủi bọt
+- tính chất rỗng tuếch, tính chất phù phiếm, tính chất vô tích sự
+
+@frothing
+* dt
+- sự tạo bọt
+* ngdgt
+- tạo bọt
+* ndgt
+- sủi bọt
+ @froth-over
+* dt
+- sự hớt bọt
+* ngdgt
+- hớt bọt
+ @frothy  
+*  tt
+- có bọt, nổi bọt, sủi bọt
+- như bọt
+- rỗng tuếch, phù phiếm, vô tích sự
+
+@frou-frou  
+*  dt
+- tiếng sột soạt (của quần áo)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sự làm dáng quá đáng, sự màu mè kiểu cách
+
+@frounce
+* ngdgt
+- tạo nếp nhăn
+* ndgt
+- cau mày
+ @frow  
+*  dt
+- người đàn bà Hà-Lan
+- (như) froe
+
+@froward  
+*  tt
+- (từ cổ,nghĩa cổ) ương ngạnh, ngoan cố
+
+@frowardness  
+*  dt
+- (từ cổ,nghĩa cổ) tính ương ngạnh, tính ngoan cố
+
+@frown  
+*  dt
+- sự cau mày, nét cau mày
+- vẻ nghiêm nghị; vẻ tư lự
+- vẻ khó chịu; vẻ không tán thành
+- sự khắc nghiệt
+
++ the frowns of fortune: những sự khắc nghiệt của số mệnh
+*  ndgt
+- cau mày, nhăn mặt
+
++ to frown at somebody: cau mày với ai, nhăn mặt với ai
+- không bằng lòng, không đồng ý, không tán thành
+
++ to frown at (on, upon) something: không bằng lòng việc gì
+- có vẻ buồn thảm (sự vật)
+*  ngdgt
+- cau mày
+
++ to frown defiance: cau mày tỏ vẻ bất chấp
+
++ to frown somebody [down] into silence: cau mày nhìn ai bắt phải im
+
+@frowningly  
+*  dt
+- với vẻ mặt cau có
+
+@frowst  
+*  dt
+- (thông tục) uế khí, mùi hôi nồng nặc; mùi ẩm mốc
+*  ndgt
+- sống ở nơi đầy uế khí, sống ở nơi hôi hám; thích uế khí, thích nơi hôi hám
+
+@frowsty  
+*  tt
+- nồng nặc uế khí, hôi hám; có mùi ẩm mốc
+
+@frowsy   (frowsy) @frowziness  
+*  dt
+- sự hôi hám
+- tính bẩn tưởi, tính nhếch nhác
+
+@frowzy   (frowsy) @froze  
+*  dt
+- sự đông vì lạnh, sự giá lạnh; tình trạng đông vì lạnh
+- tiết đông giá
+- sự ổn định; sự hạn định (giá cả, tiền lương...)
+*  ndgt froze,  frozen
+- đóng băng
+- đông lại (vì lạnh), lạnh cứng
+- thấy lạnh, thấy giá
+- thấy ớn lạnh, thấy ghê ghê (vì sợ)
+*  ngdgt
+- làm đóng băng
+- làm đông, làm lạnh cứng
+
++ to freeze someone to death: làm ai chết cóng
+- ướp lạnh (thức ăn)
+- làm (ai) ớn lạnh
+- làm lạnh nhạt (tình cảm)
+- làm tê liệt (khả năng...)
+- ngăn cản, cản trở (sự thực hiện)
+- ổn định; hạn định (giá cả, tiền lương...)
+!to freeze on
+- (từ lóng) nắm chặt lấy, giữ chặt lấy
+!to freeze out
+- cho (ai) ra rìa
+!to freeze over
+- phủ đầy băng; bị phủ đầy băng
+!to freeze someone's blood
+- làm ai sợ hết hồn
+!frozen limit
+- (thông tục) mức chịu đựng cao nhất
+
+@frozen  
+*  dt
+- sự đông vì lạnh, sự giá lạnh; tình trạng đông vì lạnh
+- tiết đông giá
+- sự ổn định; sự hạn định (giá cả, tiền lương...)
+*  ndgt froze,  frozen
+- đóng băng
+- đông lại (vì lạnh), lạnh cứng
+- thấy lạnh, thấy giá
+- thấy ớn lạnh, thấy ghê ghê (vì sợ)
+*  ngdgt
+- làm đóng băng
+- làm đông, làm lạnh cứng
+
++ to freeze someone to death: làm ai chết cóng
+- ướp lạnh (thức ăn)
+- làm (ai) ớn lạnh
+- làm lạnh nhạt (tình cảm)
+- làm tê liệt (khả năng...)
+- ngăn cản, cản trở (sự thực hiện)
+- ổn định; hạn định (giá cả, tiền lương...)
+!to freeze on
+- (từ lóng) nắm chặt lấy, giữ chặt lấy
+!to freeze out
+- cho (ai) ra rìa
+!to freeze over
+- phủ đầy băng; bị phủ đầy băng
+!to freeze someone's blood
+- làm ai sợ hết hồn
+!frozen limit
+- (thông tục) mức chịu đựng cao nhất
+
+@frozen state
+- (Tech) trạng thái đông đặc @frs
+* (viết tắt)
+- thành viên của Hội Hoàng gia (Fellow of the Royal Society)
+ @fructidor
+* dt
+- tháng quả (tháng 12 lịch cách mạng Pháp, từ 18 - 8 đến 16 - 9)
+ @fructiferous  
+*  tt
+- mang quả, có quả
+
+@fructification  
+*  dt,  (thực vật học)
+- sự ra quả
+- bộ phận sinh sản (của dương xỉ và rêu)
+
+@fructify  
+*  ndgt
+- ra quả
+*  ngdgt
+- làm cho ra quả
+- làm cho có kết quả
+
+@fructivorous
+* tt
+- (động vật) ăn quả
+ @fructose  
+*  dt
+- (hoá học) Fructoza
+
+@fructuous  
+*  tt
+- sinh quả; có nhiều quả
+
+@frugal  
+*  tt
+- căn cơ; tiết kiệm
+
++ to be frugal of one's time: tiết kiệm thì giờ
+- thanh đạm
+
++ a frugal meal: bữa cơm thanh đạm
+
+@frugality  
+*  dt
+- tính căn cơ; tính tiết kiệm
+- tính chất thanh đạm
+
+@frugally
+* dt
+- thanh đạm, đạm bạc
+ @frugivorous  
+*  tt
+- (động vật học) ăn quả
+
+@fruit  
+*  dt
+- quả, trái cây
+- thành quả, kết quả
+- (số nhiều) thu hoạch, lợi tức
+- (kinh thánh) con cái
+
++ fruit of the womb: con cái
+*  ngdgt
+- làm cho ra quả
+
+@fruit clipper  
+*  dt
+- tàu thuỷ chở hoa quả
+
+@fruit salad  
+*  dt
+- món nộm hoa quả (thường trộn kem)
+
+@fruitage  
+*  dt
+- hoa quả (nói chung)
+
+@fruitarian  
+*  dt
+- người chỉ ăn trái cây
+
+@fruit-bearing
+* tt
+- mang quả; ra quả
+ @fruit-body
+* dt
+- thể quả
+ @fruit-cake  
+*  dt
+- bánh trái cây
+
+@fruiter  
+*  dt
+- người trồng cây ăn quả
+- cây ăn quả
+- tàu thuỷ chở hoa quả
+
+@fruiterer  
+*  dt
+- người bán hoa quả
+- (từ Mỹ,nghĩa Mỹ) tàu thuỷ chở hoa quả
+
+@fruit-fly
+* dt
+- ruồi giấm
+ @fruitful  
+*  tt
+- ra nhiều quả, có nhiều quả, sai quả
+
++ a fruitful tree: cây có nhiều quả
+- tốt, màu mỡ
+
++ fruitful soil: đất màu mỡ
+- sinh sản nhiều
+- có kết quả, thành công
+- có lợi, mang lợi
+
+@fruitfully  
+*  dt
+- có kết quả
+- có lợi
+
+@fruitfulness  
+*  dt
+- sự có nhiều quả
+- sự sinh sản nhiều
+- sự có kết quả
+- sự có lợi
+
+@fruit-grower  
+*  dt
+- người trồng cây ăn quả
+
+@fruitgrowing  
+*  dt
+- sự trồng cây ăn quả
+
+@fruit-growing
+* dt
+- việc trồng cây ăn quả
+ @fruitiness  
+*  dt
+- mùi trái cây, mùi nho (của rượu)
+
+@fruition  
+*  dt
+- sự hưởng (cái mong muốn); sự thực hiện (nguyện vọng...)
+- (từ Mỹ,nghĩa Mỹ) sự khai hoa kết trái
+
+@fruit-knife  
+*  dt
+- dao cắt quả (lưỡi bằng bạc... cho khỏi gỉ)
+
+@fruitless  
+*  tt
+- không ra quả, không có quả
+- không có kết quả, thất bại; vô ích
+
++ fruitless efforts: những cố gắng vô ích
+
+@fruitlessly
+* dt
+- thất bại, vô ích
+ @fruitlessness  
+*  dt
+- sự không có quả
+- sự không có kết quả; sự vô ích
+
+@fruitlet  
+*  dt
+- (thực vật học) quả con (trong một quả phức)
+
+@fruit-machine
+* dt
+- máy đánh bạc có những biểu tượng hình trái cây
+ @fruit-piece  
+*  dt
+- tranh vẽ hoa quả
+
+@fruit-salad
+* dt
+- món tráng miệng làm từ nhiều loại hoa quả trộn nhau
+ @fruit-sugar  
+*  dt
+- (hoá học) Fructoza
+
+@fruit-tree  
+*  dt
+- cây ăn quả
+
+@fruity  
+*  tt
+- (thuộc) quả, (thuộc) trái cây
+- có mùi trái cây, có mùi nho (rượu)
+- ngọt lự, ngọt xớt
+- (thông tục) khêu gợi, chớt nhã
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) điên
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) yêu người cùng tính
+
+@frumenty   (furmety) @frump  
+*  dt
+- người đàn bà ăn mặc lôi thôi lếch thếch
+
+@frumpish   (frumpy) @frumpy   (frumpy) @frusta  
+*  dt,  số nhiều frusta,  frustums
+- hình cụt
+
++ frustum of a cone: hình nón cụt
+
++ frustum of a pyramind: chóp cụt
+
+@frustrate  
+*  ngdgt
+- làm thất bại, làm hỏng
+
++ to be frustrate in one's plan: bị thất bại trong kế hoạch
+- chống lại, làm cho mất tác dụng; làm cho vô hiệu quả
+
++ to frustrate the effects of poison: làm mất tác dụng của chất độc
+- làm thất vọng, làm vỡ mộng
+
+@frustrated
+* tt
+- nản lòng, nản chí
+ @frustrating
+* tt
+- làm nản lòng, gây sự bực dọc
+ @frustration  
+*  dt
+- sự làm thất bại, sự làm hỏng
+- sự làm mất tác dụng
+- sự làm thất vọng, sự làm vỡ mộng; tâm trạng thất vọng, tâm trạng vỡ mộng
+
+@frustule  
+*  dt
+- (thực vật học) vỏ tảo cát
+
+@frustum  
+*  dt,  số nhiều frusta,  frustums
+- hình cụt
+
++ frustum of a cone: hình nón cụt
+
++ frustum of a pyramind: chóp cụt
+
+@frustum
+- hình cụt
+- f. of a cone hình nón cụt
+- f. of a pyramud hình chót cụt 
+ @frutescent  
+*  tt
+- (thực vật học) (thuộc) loại cây bụi
+
+@frutex  
+*  dt,  số nhiều frutices
+- (thực vật học) cây bụi
+
+@frutices  
+*  dt,  số nhiều frutices
+- (thực vật học) cây bụi
+
+@fruticose  
+*  tt
+- (thực vật học) có nhiều cây bụi
+- (khoáng chất) hình cây bụi
+
+@fruticulose
+* tt
+- có nhiều cây bụi nhỏ
+ @fruticulum
+* dt
+- (thực vật) cây bụi nhỏ
+ @fry  
+*  dt
+- cá mới nở, cá bột
+- cá hồi hai năm
+*  dt
+- thịt rán
+*  dgt
+- rán, chiên
+!to have other fish to fry
+- fish
+
+@fryer  
+*  dt
+- chảo rán (cá...)
+- người rán (cá...)
+- (từ Mỹ,nghĩa Mỹ) thức ăn để rán; gà giò để rán
+
+@frying-pan  
+*  dt
+- cái chảo, chảo rán
+!out of the frying-pan into the fire
+- (xem) fire
+
+@fry-up
+* dt
+- đựa thức ăn rán
+ @frÃulein  
+*  dt
+- cô
+- cô gái già Đức
+- cô giữ trẻ người Đức
+
+@

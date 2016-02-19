@@ -1,0 +1,143 @@
+@aqua
+* dt
+- số nhiều aquas
+- nước
+ @aqua regia  
+*  dt
+- (hoá học) nước cường
+
+@aquaculture
+- như aquiculture
+ @aquadag
+- (Tech) lớp than chì (trong ống tia điện tử)
+ @aquaeductus
+* dt
+- ống dẫn nước; mương, máng
+ @aquafortis  
+*  dt
+- nước khắc đồng
+
+@aquafortist  
+*  dt
+- thợ khắc đồng (bằng nước axit)
+
+@aqualung
+* dt
+- thiết bị được thợ lặn mang theo để thở dưới nước, Đồ lặn
+ @aquamarine  
+*  dt
+- ngọc xanh biển aquamarin
+- màu ngọc xanh biển
+
+@aquaplane  
+*  dt
+- (thể dục,thể thao) ván trượt nước
+*  ndgt
+- (thể dục,thể thao) đi ván trượt nước (sau xuồng máy)
+
+@aquarelle  
+*  dt
+- (nghệ thuật) tranh màu nước
+
+@aquarellist  
+*  dt
+- hoạ sĩ chuyên màu nước
+
+@aquaria  
+*  dt,  số nhiều aquariums 
+@aquarist  
+*  dt
+- người trông nom nơi trưng bày bể nuôi cá (cá, loài thuỷ sinh)
+
+@aquarium  
+*  dt,  số nhiều aquariums 
+@aquarius  
+*  dt
+- (thiên văn học) cung Bảo bình (ở hoàng đạo)
+- chòm sao Bảo bình
+
+@aquatic  
+*  tt
+- sống ở nước, mọc ở nước
+- (thể dục,thể thao) chơi ở dưới nước (ví dụ bóng nước...)
+
+@aquatically
+- xem aquatic
+ @aquatics  
+*  dt số nhiều
+- (thể dục,thể thao) những môn thể thao dưới nước (bơi lội, bóng nước...)
+
+@aquatint  
+*  dt
+- thuật khắc axit
+- bản khắc xit
+
+@aquatinter
+- xem aquatint
+ @aquatintist
+- xem aquatint
+ @aquation  
+*  dt
+- (hoá học) sự hyđrat hoá
+
+@aquativeness
+* dt
+- tính thích nước
+ @aqua-vitae  
+*  dt
+- rượu mạnh (lấy ở nước cốt đầu tiên)
+
+@aqueduct  
+*  dt
+- cống nước
+- (giải phẫu) cống
+
+@aqueous  
+*  tt
+- (thuộc) nước; có nước
+
++ aqueous solution: (hoá học) dung dịch nước
+- (địa lý,địa chất) do nước (tạo thành)
+
++ aqueous rock: đá do nước tạo thành
+
+@aquicolous
+* tt
+- sống ở nước; thủy sinh
+ @aquiculture
+- Cách viết khác : aquaculture 
+ @aquifer  
+*  dt
+- (địa lý,địa chất) lớp ngậm nước, tầng ngậm nước
+
+@aquiferous
+- xem aquifer
+ @aquilegia
+* dt
+- (thực vật) cây họ mao lương
+ @aquiline  
+*  tt
+- (thuộc) chim ưng; giống chim ưng
+- khoằm
+
++ aquiline nose: mũi khoằm
+
+@aquilinity
+- xem aquiline
+ @Aquinas St Thomas
+- (Econ) (1225-1274)
+: Một học giả người Ý, ông là người có đóng góp chính vào tư tưởng kinh tế của hàn lâm viện. Xét về kinh tế học, ông thừa nhận phần lớn học thuyết của Aristotle, bao gồm khái niệm về giá công bằng. Ông cũng phân biệt GIÁ CẢ và GIÁ TRỊ, đối tượng của rất nhiêù cách diễn giải khác nhau. Ý tưởng về giá trị hay giá công bằng không khác hơn giá thông thường (cạnh tranh) vốn có ở một mặt hàng và giá được đưa ra vượt quá mức giá này là sự vi phạm quy tắc đạo đức. Thương mại vốn xấu xa nhưng được bào chữa bởi HÀNG HÓA CÔNG CỘNG. Tương tự, của cải tài sản và hành động của chính phủ được biện hộ bởi hàng hoá công cộng. Cho vay nặng lãi bị chỉ trích là khoản thu cho việc sử dụng tiền mà không có giá trị sử dụng. Những đóng góp chủ yếu của ông đối với lịch sử tư tưởng kinh tế được bao quát trong cuốn SUMMA THEOLOGICA của ông.
+ @aquiprata
+* dt
+- quần lạc thực vật nước ngầm
+ @aquiver
+* tt
+- run lẩy bẩy
+ @aquolysis
+* dt
+- sự thủy phân
+ @aquosity  
+*  dt
+- tính chất có nước
+
+@

@@ -1,0 +1,2157 @@
+@we  
+*  dt
+- chúng tôi, chúng ta
+
+@wea
+* (viết tắt)
+- Hiệp hội Giáo dục Công nhân (Workers'  Educational  Assocition)
+ @weak  
+*  tt
+- yếu, yếu ớt
+
++ to grow weak: yếu đi
+- thiếu nghị lực, yếu đuối, mềm yếu, nhu nhược
+
++ a weak moment: một phút yếu đuối
+
++ weak character: tính tình nhu nhược mềm yếu
+- kém, non; thiếu quá
+
++ weak in algebra: kém về đại số
+
++ weak memory: trí nhớ kém
+
++ weak sight and hearing: mắt kém tai nghễnh ngãng
+
++ a weak team of volleyball players: một đội bóng chuyền kém
+
++ a weak staff: biên chế thiếu quá
+- loãng, nhạt
+
++ weak tea: trà loãng
+
+@weak
+- yếu
+ @weaken  
+*  ngdgt
+- làm yếu đi, làm nhụt
+*  ndgt
+- yếu đi, nhụt đi
+
++ never let our enthusiasm weaken because of difficulties: không bao giờ để cho nhiệt tình của chúng ta nhụt đi vì khó khăn
+
+@weakening  
+*  dt
+- sự làm yếu; sự suy yếu, sự suy nhược, sự nhụt đi
+
+@weak-eyed  
+*  tt
+- mắt kém
+
+@weak-headed   (weak-minded) @weak-hearted
+* tt
+- nhút nhát
+- tốt bụng; nhân hậu; dễ mềm lòng
+ @weakish  
+*  tt
+- (thông tục) hơi yếu, hơi kém, hơi non
+
+@weak-kneed  
+*  tt ((thường) bóng)
+- không thể đứng vững
+- thiếu quyết tâm
+
+@weak-kness  
+*  dt ((thường) bóng)
+- tình trạng không thể đứng vững
+- tình trạng thiếu quyết tâm
+
+@weakliness
+* dt
+- tính chất ốm yếu
+ @weakling  
+*  dt
+- người yếu ớt, người ốm yếu
+- người nhu nhược
+
+@weakly  
+*  tt
+- yếu, yếu ớt, ốm yếu
+*  dt
+- yếu ớt
+- hơi, hơi hơi
+
+@weakly
+- yếu
+ @Weakly stationary
+- (Econ) Không chuyển động hàng tuần.
+: Xem STATIONARITY.
+ @weak-minded   (weak-minded) @weak-mindedly
+* dt
+- thiếu quyết tâm, thiếu óc phán đoán
+- kém thông minh, đần
+ @weak-mindedness
+* dt
+- sự thiếu quyết tâm, sự thiếu óc phán đoán
+- sự kém thông minh, sự đần
+ @weakness  
+*  dt
+- tính chất yếu, tính yếu đuối, tính yếu ớt; sự ốm yếu
+- tính nhu nhược, tính mềm yếu (tính tình)
+- tính chất non kém (trí nhớ, trình độ)
+- điểm yếu, nhược điểm
+- tính ưa chuộng, tính thích, tính nghiện
+
++ a weakness for Chinese tea: tính nghiện trà Trung quốc
+
+@weak-sighted
+- xem weak-headed
+ @weak-spirited  
+*  tt
+- mềm yếu, thiếu can đảm
+
+@weal  
+*  dt
+- hạnh phúc, cảnh sung sướng
+
++ general weal: hạnh phúc chung
+
++ in weal or woe: dù sung sướng hay khổ sở, dù trong hoàn cảnh nào
+*  dt
+- lằn roi ((cũng) welt)
+*  ngdgt
+- quất, vụt ((cũng) welt)
+
+@wealth  
+*  dt
+- sự giàu có, sự giàu sang
+
++ a man of wealth: người giàu có
+
++ to achieve wealth: làm giàu
+- tính chất có nhiều, sự phong phú
+
++ a painting with a wealth of details: một bức hoạ phong phú về chi tiết
+- của cải
+
++ the wealth of the oceans: của cải của cái đại dương
+- (từ cổ,nghĩa cổ) sự thịnh vượng; hạnh phúc
+
+@wealthily
+* dt
+- giàu, giàu có
+- phong phú
+ @wealthiness  
+*  dt
+- tính chất giàu có
+- tính chất phong phú
+
+@wealthy  
+*  tt
+- giàu, giàu có
+- phong phú
+*  dt
+- the wealthy những người giàu có
+
+@wean  
+*  ngdgt
+- thôi cho bú, cai sữa
+- làm cho bỏ, làm cho dứt bỏ
+
++ to wean someone from his bad habits: làm cho người nào dứt bỏ những thói quen xấu
+
+@weaning  
+*  dt
+- sự thôi cho bú, sự cai sữa
+
+@weanling  
+*  dt
+- đứa bé mới cai sữa; thú nhỏ mới thôi bú
+
+@weapon  
+*  dt
+- vũ khí ((nghĩa đen) & (nghĩa bóng))
+
++ weapon of defence: vũ khí tự vệ
+
++ armed with the weapon of Marxism-Leninism: vũ trang bằng lý luận Mác-Lênin
+
+@weaponed  
+*  tt
+- có vũ khí, mang vũ khí, vũ trang
+
+@weaponeer
+* dt (quân sự)
+- chuyên gia về võ khí
+- kỹ sư mồi bom nguyên tử (chuẩn bị để ném)
+ @weaponization
+* dt
+- (quân sự) sự trang bị vũ khí; sự vũ trang
+ @weaponless  
+*  tt
+- không có vũ khí
+
+@weaponry
+* dt
+- các vũ khí
+ @wear  
+*  dt
+- sự mang; sự dùng; sự mặc
+
++ for autumn wear: để mặc mùa thu
+
++ the shirt I have in wear: cái so mi tôi đang mặc
+- quần áo; giầy dép
+
++ evening wear: quần áo mặt tối
+
++ men's wear: quần áo đàn ông
+- sự chịu mòn, sự mặc được, sự dùng được
+
++ of never-ending wear: không bao giờ mòn rách
+
++ there is a lot of wear left in my dress: cái áo của tôi còn mặc được chán
+- sự hao mòn, sự mòn; (pháp lý) sự hư hỏng (nhà cửa)
+
++ one-sided wear: mòn một bên
+
++ wear and tear: sự hao mòn và hư hỏng
+- (kỹ thuật) sự mòn
+- (tài chính) sự giảm trọng lượng (tiền vàng hay bạc, vì mòn)
+*  ngdgt wore; worn
+- mang, đeo; mặc; để (râu, tóc); đội (mũ)
+
++ to wear glasses: đeo kính
+
++ to wear a sword: mang gươm
+
++ to wear black: mặc đồ đen
+
++ to wear a moustache: để một bộ ria
+
++ to wear one's hair long: để tóc dài
+
++ to wear a hat: đội mũ
+- dùng mòn, dùng cũ, dùng hỏng; làm cho tiều tuỵ; làm cho hao mòn, phá hoại dần ((nghĩa đen) & (nghĩa bóng))
+
++ to wear one's coat to rags: mặc áo cho đến rách tả tơi
+
++ to wear one's coat threadbare: mặc áo cho đến sờn cả chỉ
+
++ to wear a hole in: mặc (đi, dùng) cho đến thủng (rách) ra
+
++ to be worn with care: (nghĩa bóng) tiều tuỵ đi vì lo âu
+- dùng mãi cho quen, dùng mãi cho vừa, dùng mãi cho khớp
+
++ to wear a pair of shoes comfortable: đi mã đôi giầy cho quen (vừa) chân
+- có (vẻ), tỏ (vẻ), tỏ ra, có, mang
+
++ to wear a troubled look: có vẻ bối rối
+
++ to wear a famous name: có tiếng, lừng danh
+*  ndgt
+- mòn đi, bị mòn; bị dùng hỏng, cũ đi
+- dần dần quen, dần dần vừa
+
++ my new shoes are wearing to my feet: đôi giày mới của tôi dần dần đi vừa chân
+- dùng, dùng được
+
++ good leather will wear for year: da tốt dùng được lâu năm
+- (nghĩa bóng) dần dần trở nên
+
++ enthusiasm wears thin: nhiệt tình dần dần trở nên sút kém
+!to wear away
+- làm mòn dần, làm mất dần
+- cũ dần, hỏng dần, mòn đi; yếu dần, suy nhược đi (sức khoẻ, tinh thần, cuộc sống); nguôi dần (nỗi đau khổ)
+- chậm chạp trôi qua (thời gian)
+!to waer down
+- làm mòn (đế giày, dụng cụ)
+- làm kiệt sức dần, tiêu hao dần (lực lượng địch)
+!to wear off
+- làm mòn mất; mòn mất
+- qua đi, mất đi
+!to wear on
+- tiếp tục, tiếp diễn, vẫn còn kéo dài (cuộc thảo luận)
+- trôi qua (thời gian)
+!to wear out
+- làm cho mòn hẳn; làm rách hết (quần áo...); mòn, hao mòn
+- làm mệt lử, làm kiệt sức; kiệt đi
+
++ to wear oneself out: kiệt sức
+
++ patience wears out: không thể kiên nhẫn được nữa
+- kéo dài, chậm chạp trôi qua (thời gian)
+
++ don't wear your youth out in trifles: đừng để cho tuổi thanh xuân trôi qua vì những việc vụn vặt
+
++ to wear out one's welcome: ở chơi lâu đến nỗi người ta không muốn tiếp nữa
+!to wear well
+- dùng bền, bền
+
++ woollen clothes wear well: quần áo len mặc bền
+
++ their friendship has worn well: (nghĩa bóng) tình bạn của họ bền lâu
+!to wear one's years well
+- trẻ lâu, trông còn trẻ
+
+@Wear and tear
+- (Econ) Khấu hao.
+: Xem DEPRECIATION.
+ @wearable  
+*  tt
+- có thể mặc được, có thể bận được (quần áo); có thể đi (mang) được (giày dép...); có thể đội được (mũ)
+
+@wearer  
+*  dt
+- người mang, người đeo; người mặc; người đội
+
+@wearied  
+*  tt
+- mệt, mệt mỏi, mệt nhọc
+- chán, chán ngắt
+
+@weariedness  
+*  dt
+- sự mệt mỏi, sự mệt nhọc
+- sự chán, sự chán ngắt
+
+@wearies
+* dt
+- (thông tục) nỗi buồn; nỗi sầu muộn
+
++  I am getting the evening wearies:chiều về, tôi thấy buồn rười rượi
+ @weariful
+* tt
+- mệt nhọc; buồn chán; tẻ nhạt
+- mệt mỏi; chán ngán
+ @weariless  
+*  tt
+- không mệt mỏi, không biết mệt
+
+@wearily
+* dt
+- rất mệt, mệt lử, kiệt sức (nhất là do cố gắng hoặc chịu đựng)
+- không còn quan tâm đến, không còn hứng thú về cái gì; chán cái gì
+- gây ra mệt mỏi, gây ra buồn chán
+- tỏ ra mệt mỏi
+ @weariness  
+*  tt
+- sự mệt mỏi, sự mệt nhọc
+
++ the weariness of the brain: sự mệt óc
+- sự chán ngắt
+
+@wearing
+* tt
+- làm cho mệt mỏi
+ @wearisome  
+*  tt
+- mệt, mệt nhọc, làm mệt
+
++ a wearisome job: một công việc mệt nhọc
+- chán ngắt; tẻ nhạt
+
+@wearisomeness  
+*  dt
+- tính chất mệt nhọc, tính chất làm mệt
+- tính chất chán ngắt; tính chất tẻ nhạt
+
+@wear-proof
+* tt
+- bền; khó mòn; khó rách
+ @weary  
+*  tt
+- mệt, mệt mỏi, rã rời, mệt lử
+
++ weary in body and mind: mệt mỏi cả thể xác lẫn tinh thần
+- chán, ngấy, chán ngắt
+
++ to be weary of someone's complaints: chán về những lời than phiền của người nào
+*  ngdgt
+- làm cho mỏi mệt
+- làm cho chán ngắt
+*  ndgt
+- trở nên mệt, mệt
+!to weary for
+- mong mỏi
+
++ to weary for love: tương tư
+!to weary of
+- chán
+
++ to weary of doing something: chán không muốn làm gì
+
+@wearying
+* tt
+- mệt mỏi; buồn chán
+ @weasand  
+*  dt
+- khí quản thực quản
+- họng, cổ họng, cuống họng
+- (số nhiều) vỏ xúc xích làm bằng cổ họng bò
+
+@weasel  
+*  dt
+- (động vật học) con chồn
+
+@weasel word
+* dt
+- <Mỹ,thgt> từ, thành ngữ làm giảm bớt sức mạnh của điều đang nói, được dùng khi muốn tránh cam kết một tuyên bố dứt khoát
+ @weasel-faced
+* tt
+- mặt chồn (có nét ranh mãnh khó ưa)
+ @Weath
+- (Econ) Của cải.
+: Bất kể cái gì có giá trị thị trường và có thể đổi lấy tiền hoặc hàng hoá đều có thể coi là của cải.
+ @Weath effect
+- (Econ) Hiệu ứng của cải.
+: Sự gia tăng trong tổng chi tiêu do mức giá cả hoặc lãi xuất giảm xuống. Người ta cho rằng, bất cứ một sự giảm xuống của tổng cầu sẽ được đảo ngược lại do các tác động gây ra khi mức giá cả hoặc lãi suất giảm xuống.
+ @Weath tax
+- (Econ) Thuế của cải.
+: Thuế đánh vào giá trị của cải ròng. Nó thường đánh vào những thời kỳ đều đặn - thường là một năm trên những tài sản ròng của các cá nhân, mặc dù ở một số nước như Nauy thuế này cũng được do công ty trả.
+ @weather  
+*  dt
+- thời tiết, tiết trời
+
++ bad weather: thời tiết xấu, trời xấu
+
++ heavy weather: (hàng hải) trời bão
+- bản thông báo thời tiết (đăng trên báo)
+!to keep one's weather eye open
+- cảnh giác đề phòng
+!to make heavy weather of
+- khổ vì, điêu đứng vì
+!under the weather
+- khó ở, hơi mệt['weðə]
+*  ngdgt
+- dầm mưa dãi gió; để nắng mưa làm hỏng; phơi nắng phơi sương
+
++ rocks weathered by mind and water: đá bị gió mưa làm mòn
+- (hàng hải) thừa gió vượt qua, căng buồm vượt qua (một mũi đất); vượt qua (cơn bão)
+- (nghĩa bóng) vượt qua, chiến thắng
+
++ to weather one's difficulties: khắc phục (vượt) khó khăn
+- (thương nghiệp) làm giả sắc cũ, làm giả nước cũ
+
++ to weather a bronzed statue: làm giả sắc cũ một bức tượng đồng
+*  ndgt
+- mòn, rã ra, đổi màu (vì gió mưa)
+!to weather through
+- thoát khỏi, khắc phục được, vượt được
+
+@weather-beaten  
+*  tt
+- lộng gió (bờ biển)
+- sạm nắng (da); dày dạn phong sương (người)
+- hỏng nát vì mưa gió
+
+@weather-board
+* dt
+- ván nghiêng để ngăn không cho mưa gió lọt vào (nhất là ván đóng ở chân cửa)
+ @weather-boarding
+* dt
+- ván lá sách (loạt ván nghiêng, cái nọ trùm lên một phần cái bên dưới, gắn ở bên ngoài tường nhà để bảo vệ tường)
+ @weather-bound  
+*  tt
+- bị thời tiết xấu ngăn trở
+
+@weather-brained
+- xem weather-headed
+ @weather-bureau  
+*  dt
+- sở khí tượng
+
+@weather-chart
+* dt
+- bản đồ thời tiết
+ @weathercock  
+*  dt
+- chong chóng (chỉ chiều) gió ((cũng) weather-vane)
+- (nghĩa bóng) người hay thay đổi ý kiến, người hay xoay chiều
+
+@weatherd
+* tt
+- chịu được gió bão (tàu thuyền)
+- (nghĩa bóng) được tôi luyện; từng trải (người)
+- dãi dầu sương gió
+ @weather-eye
+* dt
+- khả năng dự đoán thời tiết
+- tính cẩn thận, thận trọng
+ @weather-forecast  
+*  dt
+- sự báo thời tiết
+
+@weather-gage
+- xem weather-gauge
+ @weather-gauge
+- xem weather-glass
+ @weather-glass  
+*  dt
+- phong vũ biểu
+
+@weather-headed
+* tt
+- (từ cổ, nghĩa cổ) nhẹ dạ; xốc nổi
+ @weathering  
+*  dt
+- thời tiết, nắng mưa, gió mưa, tuyết sương
+- sự mòn, sự vụn, sự rã ra, sự đổi màu (vì nắng mưa), sự dãi nắng dầm mưa
+- (địa lý,địa chất) sự phong hoá
+
+@weatherman  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) nhà khí tượng học
+
+@weather-map
+* dt
+- bản đồ thời tiết
+ @weather-proof  
+*  tt
+- chịu được nắng mưa
+
+@weatherproof
+* tt
+- có thể chịu được (mưa, gió, tuyết ); có thể ngăn được (mưa, gió, tuyết )
+ @weather-service
+* dt
+- cục thời tiết; nha khí tượng
+ @weather-stained  
+*  tt
+- phai bạc vì nắng mưa
+
+@weather-station  
+*  dt
+- trạm khí tượng
+
+@weather-vane  
+*  dt
+- chong chóng chỉ chiều gió ((cũng) weathercock)
+
+@weather-wise  
+*  tt
+- giỏi đoán thời tiết
+- (từ Mỹ,nghĩa Mỹ),  (nghĩa bóng) tài dự đoán những phản ứng và thay đổi của dư luận
+
+@weather-worn  
+*  tt
+- dãi dầu mưa nắng
+
+@weave  
+*  dt
+- kiểu, dệt
+*  ngdgt wove; woven
+- dệt
+
++ to weave thread into cloth: dệt sợi thành vải
+- đan, kết lại
+
++ to weave baskets: đan rổ
+
++ to weave flowers: kết hoa
+- (nghĩa bóng) kết lại; thêu dệt, bày ra
+
++ to weave facts into a story: lấy sự việc kết lại thành một câu chuyện
+
++ to weave a plot: bày ra một âm mưu
+*  ndgt
+- dệt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đi len lỏi, đi quanh co
+
++ the road weaves through the plain: con đường đi quanh co qua cánh đồng
+- lắc lư, đua đưa
+- (quân sự),  (hàng không) bay tránh
+!to weave one's way
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đi lách, len lỏi qua
+
+@weaver  
+*  dt
+- người dệt vải, thợ dệt
+
+@weaver-bird
+* dt
+- chim sâu (chim vùng nhiệt đới, đan kết lá cây, cỏ, cành con  làm tổ)
+ @weaving  
+*  dt
+- sự dệt
+
+@weazen   (wizened) @weazened   (wizened) @web  
+*  dt
+- vi dệt; tấm vi
+- súc giấy, cuộn giấy lớn
+
++ web paper: giấy súc (chưa cắt ra từng tờ)
+- (động vật học) mạng
+
++ spider's web: mạng nhện
+- (động vật học) t (lông chim)
+- (động vật học) màng da (ở chân vịt...)
+- (kiến trúc) thân (thanh rầm)
+- (kỹ thuật) đĩa (bánh xe), mỏ (chìa khoá); lưỡi (cưa); thân (của thanh ray)
+!a web of lies
+- một mớ chuyện dối trá
+!the web of life
+- cuộc đời; số phận con người
+
+@web
+- lưới
+- w. of curver lưới các đường cong 
+ @webbed  
+*  tt
+- (động vật học) có màng chân
+
+@webbing  
+*  dt
+- vi làm đai
+- nịt, đai
+
+@webby
+* tt
+- thuộc mạng nhện; giống mạng nhện
+- (động vật) có màng; có màng bơi
+ @Weberian location theory
+- (Econ) Lý thuyết Weber về vị trí .
+: Xem LOCATION THEORY.
+ @web-footed  
+*  tt
+- (động vật học) có chân màng (như con vịt)
+
+@webster
+* dt
+- (từ cổ, nghĩa cổ) thợ dệt
+ @web-toed
+* tt
+- <động> có chân màng (như con vịt)
+ @web-wheel
+* dt
+- lưỡi cưa đĩa
+ @web-winged  
+*  tt
+- (động vật học) có cánh màng (như con di)
+
+@web-worm
+* dt
+- sâu kéo màng
+ @we'd  
+*  (viết tắt) của we had,  we would,  we should
+
+@wed  
+*  ngdgt
+- g chồng, cưới vợ cho; kết hôn với; làm lễ cưới cho
+- kết hợp, hoà hợp
+
++ to wed simplicity to (with) beauty: kết hợp tính đn gin với vẻ đẹp
+*  ndgt
+- lấy nhau, cưới nhau, kết hôn
+
+@wedded  
+*  tt
+- (thuộc) vợ chồng; có vợ, có chồng
+
++ the wedded pair: cặp vợ chồng
+
++ wedded bliss: hạnh phúc vợ chồng
+- (nghĩa bóng) kết hợp, hoà hợp
+!wedded to
+- trung thành với, ràng buộc chặt chẽ, gắn bó với
+
+@wedding  
+*  dt
+- lễ cưới
+
+@wedding breakfast
+* dt
+- tiệc cưới (bữa ăn đặc biệt cho cô dâu chú rể cùng với họ hàng, bạn bè  sau lễ cưới)
+ @wedding-cake  
+*  dt
+- bánh chia phần cưới
+
+@wedding-card
+* dt
+- thiếp mời đám cưới
+ @wedding-day  
+*  dt
+- ngày cưới; ngày kỷ niệm ngày cưới
+
+@wedding-dress  
+*  dt
+- áo cưới
+
+@wedding-favour  
+*  dt
+- n hoa cưới
+
+@wedding-feast
+* dt
+- tiệc cưới
+ @wedding-guest  
+*  dt
+- khách dự lễ cưới
+
+@wedding-present  
+*  dt
+- quà mừng đám cưới
+
+@wedding-ring  
+*  dt
+- nhẫn cưới
+
+@wedding-tour   (wedding-trip) @wedding-trip   (wedding-trip) @wedge  
+*  dt
+- cái nêm
+- vật hình nêm
+- (quân sự) mũi nhọn
+
++ to drive a wedge into: thọc một mũi vào; (nghĩa bóng) chia rẽ
+*  ngdgt
+- nêm, chêm
+- (nghĩa bóng) chen vào, dấn vào
+- (từ hiếm,nghĩa hiếm) bửa bằng nêm, chẻ bằng nêm
+!to wedge away (off)
+- bửa ra, tách ra, chẻ ra
+!to wedge oneself in
+- chen vào, dấn vào
+
+@wedge
+- cái chền, cái chêm
+- elliptic w. cái chêm eliptic
+- spherical w. cái chêm cầu 
+ @wedge writing  
+*  dt
+- chữ hình góc
+
+@wedge-shaped  
+*  tt
+- hình nêm, hình V
+
+@wedgewise
+* dt
+- theo kiểu hình nêm
+ @wedgwood  
+*  dt
+- đồ gốm men xanh trong
+- (định ngữ) màu xanh trong
+
+@wedgy
+* tt
+- (từ hiếm) hình nêm
+ @wedlock  
+*  dt
+- (pháp lý) sự kết hôn, tình trạng kết hôn
+!born in lawful wedlock
+- do cha mẹ có cưới hỏi sinh ra, hợp pháp (đứa con)
+!born out of wedlock
+- riêng, đẻ hoang (đứa con)
+
+@wednesday  
+*  dt
+- Wednesday ngày thứ tư (trong tuần lễ)
+
+@weds
+* (viết tắt)
+- thứ Tư (Wednesday)
+- viết tắt
+- thứ Tư (Wednesday)
+ @wee  
+*  tt
+- rất nhỏ, nhỏ xíu
+!a wee bit
+- hi, hi hi
+
+@weed  
+*  dt
+- (thực vật học) cỏ dại
+- (the weed) thuốc lá
+- ngựa còm; người gầy yếu mnh khnh
+*  ngdgt
+- giẫy cỏ, nhổ cỏ
+!to weed out
+- loại bỏ, loại trừ (những cái xấu, kém phẩm chất)
+
++ to weed out the herd: loại bỏ những con xấu trong đàn vật nuôi
+
+@weed-end  
+*  dt
+- cuối tuần (chiều thứ by và ngày chủ nhật)
+*  ndgt
+- nghỉ cuối tuần, đi chi cuối tuần
+
++ to weed-end at Tamdao: nghỉ cuối tuần ở Tam đo
+
+@weeder  
+*  dt
+- người giẫy cỏ, người nhổ cỏ
+
+@weedery
+* dt
+- cỏ dại (nghĩa chung)
+- ruộng đầy cỏ dại
+ @weedgrown
+* tt
+- mọc đầy cỏ dại
+ @weedhead
+* dt
+- (từ Mỹ,  (từ lóng)) người nghiện thuốc phiện, ma túy; dân làng bẹp
+ @weeding
+* dt
+- sự nhổ cỏ; sự giẫy cỏ; sự làm cỏ
+- sự loại bỏ
+- (từ Mỹ,  (từ lóng)) sự ăn cắp vặt
+ @weed-killer  
+*  dt
+- thuốc diệt cỏ dại
+
+@weedkiller
+* dt
+- chất diệt cỏ dại
+ @weedless
+* tt
+- sạch (không còn) cỏ dại
+ @weeds  
+*  dt số nhiều
+- quần áo đại tang (của người đàn bà goá) ((thường) widow's weeds)
+
+@weedy  
+*  tt
+- lắm cỏ dại, cỏ mọc um tùm
+- (nghĩa bóng) ốm yếu, còm, gầy gi xưng (người)
+
+@week  
+*  dt
+- tuần lễ, tuần
+
++ what day of the week is it?: hôm nay là ngày thứ mấy trong tuần?
+
++ yesterday week: tám hôm trước
+
++ tomorrow week: tám hôm nữa
+
++ Monday week: thứ hai là được một tuần; by hôm nữa kể từ thứ hai
+- những ngày làm việc trong tuần
+!a week of Sundays; a week of weeks
+- by tuần, bốn mưi chín ngày
+- (thông tục) thời gian dài
+!week in, week out
+- tuần này tiếp đến tuần khác
+
+@week-day  
+*  dt
+- ngày thường trong tuần (không phi chủ nhật)
+
+@weekday
+* dt
+- ngày thường trong tuần (bất cứ ngày nào trừ ngày chủ nhật)
+ @weekend
+* dt
+- cuối tuần (thứ bảy và chủ nhật)
+* dgt
+- đi nghỉ cuối tuần, đi thăm cuối tuần
+ @week-ender  
+*  dt
+- người đi chi vào dịp cuối tuần
+
+@weekender
+* dt
+- người đi nghỉ cuối tuần xa nhà
+- người đến thăm cuối tuần
+ @week-long
+* tt
+- suốt một tuần; trong thời hạn một tuần
+
++  week-long holiday:kỳ nghỉ phép 1 tuần lễ
+ @weekly  
+*  tt & dt
+- kéo dài một tuần
+- hằng tuần
+
++ weekly wage: tiền lưng hằng tuần
+
++ a weekly magazine: báo hằng tuần
+*  dt
+- báo hằng tuần
+
+@week-old
+* tt
+- một tuần nay; đã được một tuần; tuần trước
+
++  a week-old child:đứa bé sinh được một tuần
+
++  week-old news:tin tuần trước
+ @ween  
+*  ngdgt
+- (th ca) tưởng, tưởng tượng
+
+@weeny
+* tt
+- <thgt> nhỏ xíu
+ @weep  
+*  ndgt wept
+- khóc
+
++ to weep bitterly: khóc thm thiết
+
++ to weep for joy: khóc vì vui sướng, sướng phát khóc
+- có cành rủ xuống (cây)
+- chy nước, ứa nước
+
++ the sore is weeping: vết đau chy nước
+
++ the rock is weeping: đá đổ mồ hôi
+*  ngdgt
+- khóc về, khóc than về, khóc cho
+
++ to weep one's sad fate: khóc cho số phận hẩm hiu của mình
+
++ to weep out a farewell: nghẹn ngào thốt ra lời tạm biệt
+
++ to weep away the time: lúc nào cũng khóc lóc
+
++ to weep the night away: khóc suốt đêm
+
++ to weep one's heart out: khóc lóc thm thiết
+
++ to weep oneself out: khóc hết nước mắt
+- rỉ ra, ứa ra
+
+@weeper  
+*  dt
+- người khóc, người hay khóc
+- người khóc mướn (đám ma)
+- băng tang; mạng lưới tang (đàn bà goá)
+- (số nhiều) cổ tay áo màu trắng (đàn bà goá)
+
+@weeping  
+*  tt
+- đang khóc, khóc lóc (người)
+- chy nước, rỉ nước
+
++ weeping rock: đá rỉ nước, đá đổ mồ hôi
+- (y học) chy nước (vết đau)
+- (thực vật học) rủ cành
+
++ weeping willow: cây liễu rủ cành
+
+@weeping-gas
+* dt
+- hơi cay; hơi làm chảy nước mắt
+ @weepingly
+* dt
+- có nước mắt; qua nước mắt
+ @weeping-ripe
+* tt
+- sắp oà khóc; rớm nước mắt
+ @weepy
+* tt
+- muốn khóc
+- đẫm nước
+- làm người ta khóc, gây xúc cảm (bộ phim câu chuyện )
+ @weevil  
+*  dt
+- (động vật học) mọt ngũ cốc
+
+@weevilled   (weevilly) @weevilly   (weevilly) @wee-wee
+* dt
+- <thgt> nước đái; việc đái (dùng để nói với trẻ con hoặc do trẻ con dùng)
+* dgt
+- <thgt> đái
+ @wef
+- có hiệu lực từ (văn bản )  (with effect from)
+ @weft  
+*  dt
+- sợi khổ, sợi ngang (trong tấm vi)
+- vi
+
+@wefted
+* tt
+- (dệt) dệt
+ @weges-fund
+- quỹ tiền lương
+ @wei
+* dt
+- (lịch sử TrungHoa) Nhà Nguỵ (220 - 265 sau Công nguyên và 386 - 556 sau Công nguyên)
+* dt
+- (lịch sử TrungHoa) Nhà Nguỵ (220 - 265 sau Công nguyên và 386 - 556 sau Công nguyên)
+ @weigh  
+*  dt
+- (hàng hi) under weigh đang đi, dọc đường
+*  ngdgt
+- cân
+
++ to weigh a parcel: cân một cái gói
+- cầm, nhấc xem nặng nhẹ
+
++ to weigh a stone in the hand: cầm hòn đá trong tay xem nặng nhẹ
+- cân nhấc, đắn đo
+
++ to weigh one's words: đắn đo lời nói
+
++ to weigh the pros and cons: cân nhắc lợi hại
+
++ to weigh anchor: nhổ neo
+*  ndgt
+- cân nặng, nặng
+
++ to weigh light: cân nhẹ
+
++ to weigh five tons: nặng năm tấn
+- cân, được cân
+
++ many chemicals weigh on precision scales: nhiều chất hoá học được cân trên cân tiểu ly
+- có trọng lượng, có tác dụng, có nh hưởng; có tầm quan trọng lớn
+
++ an accusation without evidence does not weigh much: lời buộc tội không có chứng cớ thì không có tác dụng
+- đè nặng, ám nh, day dứt
+
++ these worries weighed upon his mind: những nỗi lo nghĩ này đè nặng lên tâm trí hắn
+!to weigh down
+- đè nặng lên (qu..., lên cành cây); làm nghiêng, làm lệch (cán cân); nặng hn (một vật khác)
+- đập tan (lập luận); đè bẹp, áp đo (kẻ thù)
+- làm cho mệt nhọc; làm cho bối rối, làm cho lo âu
+
++ weighed down with sorrow: lòng đầy phiền muộn
+!to weigh in
+- (thể dục,thể thao) được cân trước khi đua (dô kề)
+!to weigh in with
+- viện ra một cách đắc thắng (lý lẽ, sự kiện...)
+!to weigh out
+- cân (từng tí một)
+
++ to weigh out butter, sugar for a cake: cân b, đường để làm bánh
+- (thể dục,thể thao) được cân sau khi đua (dô kề)
+
+@weigh
+- cân
+ @weighable  
+*  tt
+- có thể cân được
+
+@weighage  
+*  dt
+- cước cân, thuế cân
+
+@weigh-beam
+* dt
+- đòn cân
+ @weighbridge
+* dt
+- cân cầu đường (máy để cân có bệ gắn vào lòng đường, các xe cộ qua lại đỗ trên bệ đó để cân trọng lượng)
+ @weigh-clock
+* dt
+- đồng hồ quả lắc
+ @weigh-house
+* dt
+- trạm cân đong hàng hoá
+ @weigh-in
+* dt
+- cuộc kiểm tra trọng lượng của một võ sự quyền Anh, dô kề  ngay trước cuộc đấu, cuộc đua 
+ @weighing-machine
+* dt
+- máy để cân người [vật] quá nặng không thể cân bằng cân thường được
+ @weighing-scale
+* dt
+- cái cân đựa
+ @weight  
+*  dt
+- trọng lượng, sức nặng
+
++ he is twice my weight: anh ấy nặng bằng hai tôi
+
++ to try the weight of: nhấc lên xem nặng nhẹ
+
++ to lose weight: sụt cân
+
++ to gain (put on) weight: lên cân, béo ra
+- cái chặn (giấy...)
+- qu cân
+
++ set of weights: một bộ qu cân
+
++ weights and measures: đo lường, cân đo
+- qu lắc (đồng hồ)
+- (thưng nghiệp) cân
+
++ to be sold by weight: bán theo cân
+
++ to give good (short) weight: cân già (non)
+- (thể dục,thể thao) hạng (võ sĩ); tạ
+
++ to put the weight: ném tạ
+- (y học) sự nặng (đầu); sự đầy, sự nặng (bụng)
+- (kiến trúc); (kỹ thuật) ti trọng, sức nặng
+
++ to support the weight of the roof: chịu ti ti trọng của mái nhà
+- (vật lý) trọng lực; trọng lượng riêng
+- (nghĩa bóng) tầm quan trọng, sức thuyết phục; trọng lượng, tác dụng, nh hưởng
+
++ an argument of great weight: một lý lẽ có sức thuyết phục lớn (có trọng lượng)
+
++ to have no (little, great) weight with somebody: không có (có ít, có nhiều) uy tín (nh hưởng) đối với ai
+
++ man of weight: người quan trọng, người có nh hưởng lớn
+
++ to carry weight: có thế; có tầm quan trọng; có nh hưởng lớn
+!to pull one's weight
+- hết sức, nỗ lực; đm đưng phần việc của mình, chịu phần trách nhiệm của mình
+*  ngdgt
+- buộc thêm vật nặng, làm nặng thêm
+
++ to weight a net: buộc chì vào lưới
+- đè nặng lên, chất nặng ((nghĩa đen) & (nghĩa bóng))
+- (kỹ thuật) xử lý cho chắc thêm (vi)
+
+@weight
+- trọng lượng
+- balnce w. đối trọng
+- gross w. trọng lượng cả bì
+- moving w.s cân trượt 
+ @weight control  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (y học) sự hạn chế lên cân
+
+@weighted
+- có trọng lượng
+ @Weighted average
+- (Econ) Bình quân gia quyền.
+: Bình quân trong đó mỗi hạng được nhân với một hệ số trước khi tính toán và tổn các hệ số này là một đơn vị.
+ @Weighted least squares
+- (Econ) Bình phương gia quyền nhỏ nhất.
+: Một phiên bản của bình phương thông thường nhỏ nhất trong đó mọi biến số được nhân với một hệ số nào đó, có thể là một hàm của một trong những biến số trong phương trình.
+ @Weighted mean
+- (Econ) Trung bình gia quyền.
+: Xem WEIGHTED AVERAGE.
+ @weightily
+* dt
+- rất nặng
+- đè nặng, nặng nề, chồng chất (lo âu )
+- cân nhắc, đòi hỏi phải suy nghĩ cẩn thận
+- quan trọng, có ảnh hưởng lớn, có uy thế lớn (người, việc )
+- vững, có sức thuyết phục, đanh thép (lý lẽ, lập luận...)
+- mạnh, chắc <văn>
+ @weightiness  
+*  dt
+- sức nặng, trọng lượng
+- tầm quan trọng, tính chất trọng yếu
+
+@weighting  
+*  dt
+- tiền lưng thêm đặc biệt, tiền phụ cấp đặc biệt
+
+@weighting
+- sự cân   có trọng lượng
+@weightless  
+*  tt
+- không nặng, không có trọng lượng
+- không quan trọng
+
+@weightlessness
+* dt
+- tình trạng phi trọng lượng
+- tìng trạng phi trọng lực
+ @weight-lifter
+* dt
+- <thể> người cử tạ
+ @weight-lifting  
+*  dt
+- (thể dục,thể thao) môn cử tạ
+
+@weight-plate
+* dt
+- đĩa cân
+ @weighty  
+*  tt
+- nặng
+- vững, có sức thuyết phục, đanh thép (lý lẽ, lập luận...)
+- quan trọng, có uy thế lớn, có nh hưởng lớn (người, việc)
+- mạnh, chắc (văn học)
+- nặng nề, chồng chất (lo âu...)
+
+@weir  
+*  dt
+- đập nước
+- đăng cá
+
+@weird  
+*  dt
+- số phận, số mệnh
+*  tt
+- (thuộc) số phận, (thuộc) số mệnh
+- siêu tự nhiên, phi thường
+- (thông tục) kỳ quặc, kỳ dị, khó hiểu
+
++ weird hats: những cái mũ kỳ quặc
+
+@weirdie
+* dt
+- <thgt> người lập dị; người cư xử (ăn mặc ) lập dị, không bình thường
+ @weirdly
+* dt
+- không tự nhiên, huyền bí, kỳ lạ
+- <thgt> không bình thường, khác thường, kỳ lạ, khó hiểu
+ @weirdness  
+*  dt
+- tính chất siêu tự nhiên, tính chất phi thường
+- tính kỳ quặc, tính kỳ dị, tính khó hiểu
+
+@weirdo
+* dt
+- <thgt> người lập dị; người cư xử (ăn mặc ) lập dị, không bình thường
+ @weirdy
+* dt (từ Mỹ; (từ lóng))
+- người kì quặc; người gàn, dở hơi
+- sự việc kỳ lạ, ky dị
+ @weitek
+- Tên một bộ đồng xử lý số được chế tạo cho các máy tính dùng vi xử lý Intel 803386 và 80486 Các bộ đồng xử lý này có khả năng hoạt động nhanh hơn so với Intel 80387 và 80487 SX Bộ đồng xử lý Weitek 4167 có thể thực hiện phép tính số học dấu phẩu động với tốc độ nhanh gấp ba đến năm lần so với 486 đơn độc
+ @welch   (welch) @welcome  
+*  tt
+- được tiếp đ i ân cần, được hoan nghênh
+
++ a welcome guest: một người khách được tiếp đ i ân cần
+
++ to make someone welcome: đón tiếp ai ân cần; làm cho ai thấy mình là khách được hoan nghênh
+
++ to be welcome: cứ tự nhiên, cứ việc dùng, được tự do
+
++ you are welcome to my bicycle: anh cứ việc dùng xe đạp của tôi
+
++ you are welcome to go with them or to stay at home: anh muốn đi với họ hay ở nhà cũng được, xin cứ tự 
+nhiên
+- hay, dễ chịu, thú vị
+
++ a welcome change: sự thay đổi dễ chịu
+
++ welcome news: tin hay, tin vui
+
++ to be most welcome: đến đúng lúc
+!you are welcome
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) không dám, có gì đâu (nói để đáp lại lời cm n)
+*  thán từ
+- hoan nghênh!
+
++ Welcome to Vietnam!: hoanh nghênh các bạn đến thăm Việt nam!
+*  dt
+- sự được tiếp đ i ân cần, sự đón tiếp ân cần; sự hoan nghênh
+
++ to receive a warm welcome: được đón tiếp niềm nở
+
++ to meet with a cold welcome: được đón tiếp một cách lạnh nhạt
+
++ to wear out (outstay) one's welcome: ở chi lâu đến nỗi người ta không muốn tiếp nữa
+
++ to bid someone welcome: chào mừng ai
+*  ngdgt
+- đón tiếp ân cần; hoan nghênh
+
++ to welcome a friend home: đón tiếp ân cần một người bạn ở nhà mình, hoan nghênh một người bạn đi xa mới 
+về nước
+
++ to welcome a suggestion: hoan nghênh một lời gợi ý
+
+@welcomer  
+*  dt
+- người đón tiếp
+
+@weld  
+*  dt
+- (kỹ thuật) mối hàn
+*  ngdgt
+- (kỹ thuật) hàn
+
++ to weld a boiler: hàn một nồi hi
+- (nghĩa bóng) gắn chặt, cố kết
+
++ arguments closely welded: những lý lẽ gắn bó với nhau
+*  ndgt
+- (kỹ thuật) chịu hàn, hàn
+
++ brass welds with difficulty: đồng khó hàn
+
+@weldability  
+*  dt
+- tính hàn được (của kim loại)
+
+@weldable  
+*  tt
+- có thể hàn được
+
+@welder
+* dt
+- thợ hàn
+ @welding  
+*  dt
+- sự hàn; kỹ thuật hàn
+
++ electric welding: sự hàn điện
+
+@weldless
+* tt
+- (kỹ thuật) không có mối hàn
+ @welfare  
+*  dt
+- hạnh phúc; phúc lợi
+
++ to work for the welfare of the nation: làm việc cho hạnh phúc của dân tộc
+
++ public welfare: phúc lợi công cộng
+
++ welfare work: công tác ci thiện đời sống (công nhân viên chức...)
+- (y học) sự bo vệ, sự chăm sóc
+
++ child welfare centre: c quan bo vệ thiếu nhi
+
++ infant welfare centre: phòng khám sức khoẻ nhi đồng
+
+@Welfare economics
+- (Econ) Kinh tế học phúc lợi.
+: Cụm thuật ngữ chung để chỉ khía cạnh chuẩn tắc của kinh tế học. Những giả định cơ bản của kinh tế phúc lợi là các đánh giá chủ quan mà bất kỳ một  nhà kinh tế học nào cũng có thể chấp nhận hoặc bác bỏ.
+ @Welfare function
+- (Econ) Hàm phúc lợi.
+: Đối với một cá nhân, là mối quan hệ giữa tình trạng khoẻ mạnh, hạnh phúc. Phúc lợi hoặc độ thoả dụng và những yếu tố góp phần tạo nên những điều đó.
+ @Welfare state
+- (Econ) Nhà nước phúc lợi.
+: Thường được hiểu là một quốc gia có chính phủ đóng một vai trò tích cực trong việc chú trọng phát triển phúc lợi xã hội.
+ @welfare state
+* dt
+- (the Welfare State) hệ thống phúc lợi xã hội (hệ thống đảm bảo phúc lợi cho công dân bằng các phương tiện dịch vụ xã hội do nhà nước cung cấp; lương hưu, phụ cấp gia đình, chăm sóc y tế miễn phí )
+ @welfare work
+* dt
+- công cuộc phúc lợi (các nỗ lực có tổ chức để đảm bảo phúc lợi của một nhóm người; người làm công trong một nhà máy, người nghèo, tàn tật )
+- <Mỹ> công tác xã hội
+ @welfare worker
+* dt
+- người làm công tác xã hội
+ @welkin  
+*  dt
+- (th ca) bầu trời, vòm trời
+
++ to make the welkin ring: làm rung chuyển bầu trời
+
+@we'll  
+*  (viết tắt) của we shall,  we will
+
+@well  
+*  ndgt
+- (: up,  out,  forth) phun ra, vọt ra, tuôn ra (nước, nước mắt, máu)
+
++ tears welled from he eyes; tears welled up in her eyes: nước mắt cô ta tuôn ra
+*  dt better; best
+- tốt, giỏi, hay
+
++ to work well: làm việc giỏi
+
++ to sing well: hát hay
+
++ to sleep well: ngủ tốt (ngon)
+
++ very well: tốt lắm, hay lắm, giỏi lắm, được lắm
+
++ to treat someone well: đối xử tốt với ai
+
++ to think well of someone: nghĩ tốt về ai
+
++ to speak well of someone: nói tốt về ai
+
++ to stand well with someone: được ai quý mến
+
++ well done!: hay lắm! hoan hô!
+
++ well met!: ồ may quá, đang muốn gặp anh đấy!
+- phong lưu, sung túc
+
++ to live well in...: sống sung túc (phong lưu) ở...
+
++ to do well: làm ăn khấm khá phát đạt
+
++ to be well off: phong lưu, sung túc
+- hợp lý, chính đáng, phi, đúng
+
++ you may well say so: anh có thể nói như thế được lắm
+
++ he did well to return it: nó đem tr lại cái đó là phi lắm
+- nhiều
+
++ to stir well: xáo động nhiều
+
++ to be well on in life: không còn trẻ nữa, đ  luống tuổi rồi
+- kỹ, rõ, sâu sắc
+
++ to know someone well: biết rõ ai
+
++ rub it well: h y cọ thật kỹ cái đó
+
++ the aggressors ought to be well beaten before they give up their scheme: phi đánh cho bọn xâm lược một 
+trận nên thân trước khi chúng từ bỏ âm mưu
+!as well
+- cũng, cũng được, không hại gì
+
++ you can take him as well: anh có thể đưa nó đi với
+
++ you may as well begin at once: anh có thể bắt đầu ngay cũng được
+!as well as
+- như, cũng như, chẳng khác gì
+
++ by day as well as by night: ngày cũng như đêm
+- và còn thêm
+
++ we gave him money as well as food: chúng tôi cho nó tiền và còn thêm cái ăn nữa
+!pretty well
+- hầu như
+*  tt better; best
+- tốt; tốt lành
+
++ things are well with you: anh được mọi sự tốt lành; mọi việc của anh đều ổn c
+- tốt, hay, đúng lúc, hợp thời, nên, cần
+
++ it's well that you have come: anh đến thật là tốt
+
++ it would be well to start early: có lẽ nên ra đi sớm
+- khoẻ, mạnh khoẻ, mạnh giỏi
+
++ to feel quite well: cm thấy rất khoẻ
+
++ to get well: đ  khỏi (người ốm)
+- may, may mắn
+
++ it was well for him that nobody saw him: may mà không ai thấy nó
+!it's (that's) all very well but...
+-(mỉa mai) hay đấy, nhưng...
+*  thán từ
+- quái, lạ quá
+
++ well, who would have thought it would happen?: quái!, ai nào có tưởng là việc ấy có thể xy ra được?
+- đấy, thế đấy
+
++ well, here we are at last: đấy, cuối cùng chúng ta đ  đến đây
+- thế nào, sao
+
++ well what about it?: thế nào, về điểm ấy thì nghĩ sao?
+
++ well then?: rồi sao?
+- thôi, thôi được, thôi nào; nào nào; thôi thế là
+
++ well, such is life!: thôi, đời là thế well
+
++ wellm it may be true!: thôi được, điều đó có thể đúng!
+
++ well, well!, don't cry!: thôi nào đừng khóc nữa!
+- được, ừ
+
++ very well!: được!, ừ!, tốt quá!
+- vậy, vậy thì
+
++ well, as I was saying...: vậy, như tôi vừa nói, ...
+*  dt
+- điều tốt, điều hay, điều lành, điều thiện
+
++ to wish someone well: chúc ai gặp điều tốt lành
+!to let well alone
+- đ  tốt rồi không phi xen vào nữa; đừng có chữa lợn lành thành lợn què
+*  dt
+- giếng (nước, dầu...)
+
++ to bore a well: khoan giếng
+
++ to sink a well: đào giếng
+- (nghĩa bóng) nguồn (cm hứng, hạnh phúc)
+- (kiến trúc) lồng cầu thang
+- lọ (mực)
+- (hàng hi) khoang cá (trong thuyền đánh cá); buồng máy bm (trên tàu)
+- chỗ ngồi của các luật sư (toà án)
+- (hàng không) chỗ phi công ngồi
+- (địa lý,địa chất) nguồn nước, suối nước
+- (ngành mỏ) hầm, lò
+
+@well-acquainted
+* tt
+- (: with) quen thân (với nhau)
+- thông thạo (về gì đó)
+ @welladay  
+*  thán từ
+- (từ cổ,nghĩa cổ) (như) wellaway
+
+@well-advised  
+*  tt
+- khôn, khôn ngoan (người)
+- cẩn thận, thận trọng (hành động)
+
+@well-affected
+* tt
+- có thiện cảm; tốt bụng hảo tâm
+- trung thành; đáng tin cậy
+- giả tạo; vờ vĩnh
+ @well-appointed  
+*  tt
+- trang bị đầy đủ
+
+@well-armed
+* tt
+- được vũ trang đầy đủ
+ @wellaway  
+*  thán từ
+- (từ cổ,nghĩa cổ) ôi!, than ôi!, chao ôi!
+
+@well-balanced  
+*  tt
+- đúng mực, biết điều
+
+@well-becoming
+* tt
+- thích hợp; ăn khớp
+ @well-behaved  
+*  tt
+- có hạnh kiểm tốt, có giáo dục
+
+@Well-behaved
+- (Econ) Có hành vi tốt.
+: Một thuộc tính của hàm sản xuất và độ thoả dụng. Nó đòi hỏi sản xuất (độ thoả dụng) bằng 0 nếu một trong những đầu vào (hàng hoá) bằng 0 và nó cũng đòi hỏi sản phẩm biên (độ thoả dụng luôn luôn dương nhưng giảm dần khi những lượng của một yếu tố sản xuất (hàng hoá) đã cho nào đó tăng dần.
+ @well-being  
+*  dt
+- hạnh phúc; phúc lợi
+
+@well-boring  
+*  dt
+- sự khoan giếng
+
+@well-born  
+*  tt
+- sinh trong một gia đình tốt
+
+@well-bred  
+*  tt
+- có giáo dục (người)
+- nòi, tốt giống (ngựa)
+
+@well-built  
+*  tt
+- chắc nịch, vạm vỡ (người)
+
+@well-conditioned  
+*  tt
+- có tính tình tốt (người)
+- đang lành (vết thưng)
+
+@well-conducted
+* tt
+- có giáo dục; đoan chính; đoan trang; tế nhị; lịch thiệp
+- được điều hành (quản lý) tốt
+ @well-connected
+* tt
+- có giao du với giới thượng lưu, có quan hệ với những người giàu có
+ @well-cooked
+* tt
+- nấu ngon (về thức ăn)
+
++  well-cooked dinner:bữa ăn ngon
+- nướng (quay) chín
+ @well-defined
+* tt
+- rành mạch; rạch ròi; hoàn toàn xác định
+ @well-disposed   (well-minded) @well-doer  
+*  dt
+- người làm điều phi
+
+@well-doing  
+*  dt
+- việc phi, điều tốt
+
+@well-done  
+*  tt
+- làm tốt
+- thật chín (thức ăn)
+
+@well-dress
+* tt
+- ăn mặc đẹp đẽ; ăn diện dỏm dáng; thanh lịch; trang nhã
+ @well-earned  
+*  tt
+- đáng, xứng đáng
+
+@well-educated  
+*  tt
+- gia giáo
+
+@well-established
+* tt
+- đứng vững, tồn tại trong một thời gian dài
+ @well-favoured  
+*  tt
+- duyên dáng, xinh xắn
+
+@well-fed  
+*  tt
+- được ăn uống đầy đủ
+
+@well-formation
+* dt
+- (logich; ngôn ngữ) tính đúng đắn, tính chính xác
+ @well-formed
+* tt
+- (logich; ngôn ngữ) đúng; đúng đắn; chính xác
+- (ngôn ngữ) đúng ngữ pháp; được đánh dấu
+
++  well-formed sentence:câu được đánh dấu, câu đúng ngữ pháp
+ @well-found  
+*  tt
+- được trang bị đầy đủ
+
+@well-founded   (well-founded) @well-graced  
+*  tt
+- có nhiều đức tính dễ thưng
+
+@well-groomed  
+*  tt
+- ăn mặc đẹp
+
+@well-grounded   (well-founded) @well-grown
+* tt
+- cao to; phát triển
+ @well-head   (well-spring) @well-heeled
+* tt
+- <thgt> giàu có
+ @wellies
+* dt số nhiều
+- ủng cao su cao đến đầu gối
+ @well-informed  
+*  tt
+- có đủ tài liệu, biết rõ; thạo tin
+
+@wellington
+* dt
+- giày ủng bằng cao su không thấm nước, thường cao tới gần đầu gối
+ @wellington boot
+* dt
+- giày ủng bằng cao su không thấm nước, thường cao tới gần đầu gối
+ @wellingtonia
+* dt
+- (thực vật) cây cù tùng
+ @wellingtons  
+*  dt số nhiều
+- ủng, bốt ((cũng) Wellington boots)
+
+@well-intentioned   (well-meant) @well-judged  
+*  tt
+- xét đoán đúng, nhận xét đúng
+
+@well-knit   (well-set) @well-known  
+*  tt
+- nổi tiếng, ai cũng biết
+
+@well-looking  
+*  tt
+- duyên dáng, xinh xắn
+
+@well-made  
+*  tt
+- phát triển cân đối (người)
+
+@well-mannered  
+*  tt
+- lịch sự
+
+@well-marked  
+*  tt
+- rõ ràng, hiển nhiên
+
+@well-meaning  
+*  tt
+- có thiện chí
+
+@well-meant   (well-meant) @well-minded   (well-minded) @well-natured
+* tt
+- hiền lành; tốt bụng
+ @well-nigh  
+*  dt
+- gần, hầu, suýt
+
+@well-off  
+*  tt
+- phong lưu, sung túc
+- may mắn
+
+@well-oiled  
+*  tt
+- khen ngợi (lời nói)
+
+@well-ordered  
+*  tt
+- ngăn nắp
+
+@well-ordered
+- được sắp tốt
+ @well-paid  
+*  tt
+- được tr lưng hậu
+
+@well-please
+* tt
+- rất vừa lòng, rất hài lòng
+ @well-preserved
+* tt
+- không thể hiện các dấu hiệu của tuổi già, trông còn trẻ (người già)
+- ở trạng thái tốt (các vật cũ)
+ @well-proportioned  
+*  tt
+- cân đối
+
+@well-read  
+*  tt
+- có học, có học thức (người)
+
+@well-regulated  
+*  tt
+- có kỷ luật
+- được kiểm soát chặt chẽ
+
+@well-reputed  
+*  tt
+- có tiếng tốt
+
+@well-room  
+*  dt
+- phòng uống nước (ở suối chữa bệnh)
+- hầm chứa nước (trong tàu)
+
+@well-rounded
+* tt
+- tròn trịa, tròn trựnh một cách dễ thương (cơ thể con người)
+- rộng và đa dạng
+ @well-seeming  
+*  tt
+- có vẻ tốt
+
+@well-set   (well-set) @well-sifted  
+*  tt
+- được chọn lọc (sự kiện, chứng cớ)
+
+@well-spent  
+*  tt
+- dùng hợp lý (thì giờ, sức lực...)
+
+@well-spoken  
+*  tt
+- với lời lẽ chi chuốt
+
+@well-spring   (well-spring) @well-thought-of  
+*  tt
+- được tiếng tốt; được quý trọng
+
+@well-thought-out
+* tt
+- được cân nhắc kỹ; có cơ sở (kế hoạch...)
+ @well-thumbed
+* tt
+- có nhiều trang bị đánh dấu, có nhiều trang bị sờn (vì cuốn sách  được đọc quá thường xuyên)
+ @well-timed  
+*  tt
+- đúng lúc, đúng dịp
+
+@well-to-do  
+*  tt
+- khá gi, sung túc
+
+@well-tried  
+*  tt
+- được thử thách có kết qu
+
+@well-trodden  
+*  tt
+- có nhiều người lui tới
+
+@well-turned  
+*  tt
+- khéo léo (lời khen, câu nói)
+
+@well-up  
+*  tt
+- (thông tục) cừ, giỏi
+
+@well-versed
+* tt
+- (:in something) từng trải, biết nhiều
+ @well-water  
+*  dt
+- nước giếng
+
+@well-wisher  
+*  dt
+- người chỉ mong những điều tốt lành cho người khác, người có thiện chí
+
+@well-worn  
+*  tt
+- sờn rách
+- (nghĩa bóng) cũ rích, lặp đi lặp lại hoài
+
+@welly
+* dt
+- giày ủng bằng cao su không thấm nước, thường cao tới gần đầu gối
+ @welsh   (welch) @welsh dresser
+* dt
+- (Welsh dresser) loại tủ có các ngăn tủ và ngăn kéo ở phần dưới và các giá đựng ở phần trên
+ @welsh rabbit
+* dt
+- món phó mát nóng chảy quết bánh mì nướng
+ @welsh rarebit
+* dt
+- món phó mát nóng chảy quết bánh mì nướng
+ @welsher  
+*  dt
+- người cầm cái chạy làng (đánh cá ngựa...)
+
+@welshman
+* dt
+- người bản xứ của xứ Wales
+ @welshwoman
+* dt
+- người phụ nữ bản xứ của xứ Wales
+ @welt  
+*  dt
+- đường viền (găng tay, túi áo)
+- diềm (ở mép đế giày dép)
+- lằn roi ((cũng) weal)
+*  dgt
+- viền (găng tay, túi áo)
+- khâu diềm (vào mép đế giày dép)
+- quất, vụt ((cũng) weal)
+
+@welter  
+*  dt
+- đòn nặng
+- người to lớn; vật to lớn
+*  dt
+- sự rối loạn, tình trạng rối loạn, mớ hỗn độn; cuộc xung đột vu v
+
++ the welter of the waves: sóng cuồn cuộn hung dữ
+*  ndgt
+- đắm mình trong bùn
+- (nghĩa bóng) (: in) nhúng trong, tắm trong (máu...)
+- (động vật học), nổi sóng (biển)
+
+@welter-weight  
+*  dt
+- (thể dục,thể thao) võ sĩ hạng bán trung
+
+@welterweight
+* dt
+- <thể> võ sự hạng bán trung (cân nặng trong khoảng từ 61 đến 66, 6 kg)
+ @wen  
+*  dt
+- (y học) bướu giáp
+- (y học) u mỡ
+- (thông tục) thành phố quá đông đúc
+!the great wen
+- Luân đôn
+
+@wench  
+*  dt
+- thiếu nữ, cô gái; thôn nữ
+- (từ cổ,nghĩa cổ) đĩ, gái điếm
+*  ndgt
+- tán gái
+- đi nhà thổ (đàn ông); làm đĩ (đàn bà)
+
+@wend  
+*  dgt
+- hướng (bước đi) về phía
+
++ to wend one's way home: đi về nhà
+- (từ cổ,nghĩa cổ) đi
+
+
+@went  
+* xem go
+
+@wept  
+*  ndgt wept
+- khóc
+
++ to weep bitterly: khóc thm thiết
+
++ to weep for joy: khóc vì vui sướng, sướng phát khóc
+- có cành rủ xuống (cây)
+- chy nước, ứa nước
+
++ the sore is weeping: vết đau chy nước
+
++ the rock is weeping: đá đổ mồ hôi
+*  ngdgt
+- khóc về, khóc than về, khóc cho
+
++ to weep one's sad fate: khóc cho số phận hẩm hiu của mình
+
++ to weep out a farewell: nghẹn ngào thốt ra lời tạm biệt
+
++ to weep away the time: lúc nào cũng khóc lóc
+
++ to weep the night away: khóc suốt đêm
+
++ to weep one's heart out: khóc lóc thm thiết
+
++ to weep oneself out: khóc hết nước mắt
+- rỉ ra, ứa ra
+
+@we're  
+*  (viết tắt) của were are
+
+@were  
+*  (bất qui tắc) ndgt & trợ dgt (số ít was,  số nhiều were,  been)
+- thì, là
+
++ the earth is round: qu đất (thì) tròn
+
++ he is a teacher: anh ta là giáo viên
+- có, tồn tại, ở, sống
+
++ there is a concert today: hôm nay có một buổi hoà nhạc
+
++ are you often in town?: anh thường có ở tỉnh không
+
++ to be or not to be, that is the question: sống hay là chết đây, đó là vấn đề
+- trở nên, trở thành
+
++ they'll be linguists in some years time: vài năm nữa họ sẽ trở thành những nhà ngôn ngữ học
+- xy ra, diễn ra
+
++ when is the wedding to be: bao giờ đám cưới sẽ cử hành
+- giá
+
++ this book is five pence: cuốn sách này giá năm xu
+- be to phi, định, sẽ
+
++ what time am I to come?: mấy giờ tôi phi đến
+
++ he is to leave for Hanoi tomorrow: ngày mai nó sẽ đi Hà nội
+- (: động tt hiện tại) đang
+
++ they are doing their work: họ đang làm việc của họ
+- (: động tt quá khứ) bị, được
+
++ the boy is scolded by his mother: đứa bé bị mẹ mắng
+
++ the house is being built: ngôi nhà đang được xây
+!to have been
+- đ  đi, đ  đến
+
++ I've been to Peking once: tôi đ  đi Bắc kinh một lần
+
++ has anyone been during my absence?: trong khi tôi đi vắng có ai đến không?
+
++ he's been and took my books: (thông tục) cái thằng ấy đ  đến lấy mất sách của mình
+!to be against
+- chống lại
+!to be for
+- tán thành, đứng về phía
+
+@weren't  
+*  (viết tắt) của were not
+
+@werewolf   (werewolf) @werewolves
+* dt
+- ma sói (người biến thành hoặc có khả năng biến hoá thành con chó sói, nhất là vào lúc trăng tròn trong các câu chuyện)
+ @wert  
+*  (từ cổ,nghĩa cổ) thouwert (như) you were
+
+@werwolf   (werewolf) @wesleyan
+* dt
+- thành viên của nhà thờ hội Giám lý do John Wesley sáng lập
+* tt
+- (thuộc) nhà thờ hội Giám lý; (thuộc) thành viên của nhà thờ hội Giám lý do John Wesley sáng lập
+ @west  
+*  dt
+- hướng tây, phưng tây, phía tây
+- miền tây
+- (the West) phưng tây, các nước phưng tây; miền tây nước Mỹ; miền tây nước Anh; xứ Ê-cốt, xứ Ai-len
+- gió tây
+*  tt
+- tây
+
++ west longitude: độ kinh tây
+
++ a west wind: gió tây
+*  dt
+- về hướng tây; ở phía tây
+
++ to sail west: chạy về hướng tây (tàu)
+!to go west
+- (xem) go
+
+@west central
+* dt
+- (viết tắt:  WC) Trung Tâm Tây
+ @west country
+* dt
+- khu vực tây nam của nước Anh
+ @west end  
+*  dt
+- khu tây Luân đôn (khu nhà ở sang trọng ở Luân đôn)
+
+@westbound
+* tt
+- đi về phía tây, hướng về phía tây
+ @west-ender  
+*  dt
+- người dân khu tây Luân đôn
+
+@westenize  
+*  ngdgt
+- tây phưng hoá
+
+@wester  
+*  ndgt
+- xoay về tây, quay về tây, đi về phưng tây
+
++ the wind is westering: gió xoay về phía tây
+
+@westerlies
+* dt số nhiều
+- (hải) gió tây
+ @westerly  
+*  tt
+- tây
+
++ westerly direction: hướng tây
+
++ westerly wind: gió tây
+*  dt
+- về hướng tây; từ hướng tây
+
+@western  
+*  tt
+- (thuộc) phía tây; của phưng tây
+
++ western city: thành phố phía tây
+
++ Western powers: các cường quốc phưng tây
+*  dt
+- người miền tây
+- phim (truyện) về đời sống những người chăn bò (cao bồi) ở miền tây nước Mỹ
+
+@westerner  
+*  dt
+- người phưng tây
+- (từ Mỹ,nghĩa Mỹ) người miền tây nước Mỹ
+
+@westernisation
+* dt
+- sự Tây phương hoá, sự Âu hoá (nhất là về cách sống, tư duy, thể chế  của một nước, người  ở phương đông)
+ @westernise
+* ngdgt
+- Tây phương hoá, Âu hoá (nhất là về cách sống, tư duy, thể chế  của một nước, người  ở phương đông)
+ @westernization
+* dt
+- sự Tây phương hoá, sự Âu hoá (nhất là về cách sống, tư duy, thể chế  của một nước, người  ở phương đông)
+ @westernize
+* ngdgt
+- Tây phương hoá, Âu hoá (nhất là về cách sống, tư duy, thể chế  của một nước, người  ở phương đông)
+ @westernmost  
+*  tt
+- cực tây
+
+@westing  
+*  dt
+- (hàng hi) chặng đường đi về phía tây
+- hướng tây
+
+@westland
+* dt
+- đất miền tây
+ @westward  
+*  dt
+- hướng tây
+*  tt & dt
+- về phía tây
+
++ in a westward direction: theo hướng tây
+
++ to go westward: đi về phía tây
+
+@westwards  
+*  dt
+- (như) westward
+
+@wet  
+*  tt
+- ẩm; ướt, thấm nước, đẫm nước, đầm đìa
+
++ wet as a drowned rat: ướt như chuột lột
+
++ to be wet to the skin; to be wet through: ướt đẫm, ướt sạch
+
++ cheeeks are wet with tears: má đầm đìa nước mắt
+- có mưa
+
++ wet season: mùa mưa
+
++ it is going to be wet: trời sắp mưa
+- (hội họa) chưa khô, còn ướt
+- (thông tục) say bí tỉ
+- (từ lóng) uỷ mị, ướt át, sướt mướt (tính tình, người)
+- (từ Mỹ,nghĩa Mỹ) không cấm bán rượu, không chủ trưng cấm rượu (người, thành phố, bang)
+!wet bargain
+- (xem) bargain
+!wet blanket
+- (xem) blanket
+*  dt
+- tình trạng ẩm ướt
+- mưa, trời mưa
+
++ come in out of the wet: h y đi vào cho khỏi mưa
+- (từ lóng) ngụm nước nhấp giọng; cốc rượu
+
++ to have a wet: uống cốc rượu
+- (từ Mỹ,nghĩa Mỹ) người phn đối sự cấm rượu
+*  ngdgt
+- làm ướt, thấm nước, dấp nước
+- đái vào, đái lên (trẻ con, chó...)
+
++ the baby has wetted its bed again: đứa bé lại đái ướt giường rồi
+- uống rượu mừng
+
++ to wet a bargain: uống rượu mừng một sự tho thuận mua bán
+!to wet one's whistle
+- (từ lóng) uống
+
+@wet dock
+* dt
+- vũng tàu đậu (vũng được bơm đầy nước để con tàu có thể nổi trong đó)
+ @wet dream
+* dt
+- mộng tinh (giấc mơ về tình dục gây ra xuất tinh)
+ @wet fish
+* dt
+- cá tươi
+ @wet suit
+* dt
+- bộ đồ lặn, quần áo lặn
+ @wether  
+*  dt
+- cừu thiến
+
+@wetlands
+* dt, pl
+- khu vực đầm lầy
+ @wetness  
+*  dt
+- tình trạng ẩm ướt; tình trạng ướt
+
+@wet-nurse  
+*  dt
+- vú em, vú nuôi
+*  ngdgt
+- làm vú nuôi cho (em bé)
+
+@wet-time
+* dt
+- (từ lóng) thời gian bị trở ngại vì thời tiết xấu (trong xây dựng)
+ @wetting  
+*  dt
+- sự làm ướt, sự thấm nước, sự dấp nước
+
++ to get a wetting: bị ướt sạch
+
+@wettish  
+*  tt
+- hi ẩm; hi ướt
+
+@we've  
+*  (viết tắt) của we have
+
+@

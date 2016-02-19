@@ -1,0 +1,61 @@
+@ejaculate  
+*  ngdgt
+- thốt ra, văng ra (lời...)
+- (sinh vật học) phóng (tinh dịch...)
+
+@ejaculation  
+*  số từ
+- sự thốt ra, sự văng ra, lời thốt ra, lời văng ra
+- (sinh vật học) sự phóng (tinh dịch...)
+
+@ejaculator
+- xem ejaculate
+ @ejaculatory  
+*  tt
+- (sinh vật học) phóng, để phóng
+
+@eject  
+*  ngdgt
+- tống ra, làm vọt ra (tia nước, tia hơi...)
+- phụt ra, phát ra (khói...)
+- đuổi khỏi (nơi nào), đuổi ra
+*  dt
+- (tâm lý học) điều suy nghĩ, điều luận ra
+
+@eject
+- (Tech) ném, bỏ; bật ra, đẩy ra
+ @eject
+- (vật lí) ném bỏ
+ @ejecta  
+*  dt số nhiều
+- (địa lý,địa chất) vật phóng (của núi lửa...)
+- (y học) chất bài tiết
+
+@ejectable
+- xem eject
+ @ejection  
+*  dt
+- sự tống ra, sự làm vọt ra
+- sự phụt ra, sự phát ra
+- sự đuổi khỏi, sự đuổi ra
+
+@ejection
+- (máy tính) sự ném, sự bỏ
+- automatic e. (máy tính) sự ném tự động, bìa đục lỗ
+ @ejective  
+*  tt
+- để tống ra, để đuổi ra
+- (tâm lý học) (thuộc) điều suy ra, (thuộc) điều luận ra
+
+@ejectment  
+*  dt
+- (pháp lý) sự đuổi ra (khỏi một mảnh đất, khỏi nhà...)
+
+@ejector  
+*  dt
+- người tống ra, người đuổi ra
+- (kỹ thuật) bơm phụt
+
+@ejector
+- (kỹ thuật) [bơm, vòi, súng máy] phun
+ @

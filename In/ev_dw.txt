@@ -1,0 +1,79 @@
+@dwale  
+*  dt
+- (thực vật học) cây belađon, cây cà dược
+
+@dwarf  
+*  tt
+- lùn, lùn tịt; nhỏ xíu; còi cọc
+*  dt
+- người lùn, con vật lùn, cây lùn
+- (thần thoại,thần học) chú lùn (trong thần thoại các nước Bắc-âu)
+*  ngdgt
+- làm lùn tịt; làm cọc lại, làm còi cọc
+- làm có vẻ nhỏ lại
+
++ the little cottage is dwarfed by the surrounding trees: những cây bao quanh làm cho túp lều nhỏ bé trông càng có vẻ nhỏ hơn
+
+@dwarfish  
+*  tt
+- lùn, lùn tịt; nhỏ xíu; còi cọc
+
+@dwarfism
+* dt
+- điều kiện trở thành nhỏ bé; còi cọc
+ @dwell  
+*  ndgt dwelt
+- ((thường) : in,  at,  near,  on) ở, ngụ, ở
+
++ to dwell in the country: ở nông thôn
+- (: on,  upon) dừng lại ở, chăm chú vào, nhấn lâu vào, day đi day lại
+
++ to dwell on a note: nhìn lâu vào một nốt
+
++ to dwell on someone's mistake: day đi day lại mãi một lỗi của ai
+- đứng chững lại (trước khi vượt rào) (ngựa)
+*  dt
+- (kỹ thuật) sự ngừng lại đều đặn (của máy)
+
+@dweller  
+*  dt
+- người ở
+- ngựa đứng chững lại (trước khi vượt rào)
+
+@dwelling  
+*  dt
+- sự ở, sự ngụ ở; chỗ ở, nhà ở
+- sự dừng lại (ở...), sự chăm chú (vào...); sự nhấn lâu (vào...), sự day đi day lại (một vấn đề gì...)
+- sự đứng chững lại (trước khi vượt rào) (ngựa...)
+
+@dwelling-house  
+*  dt
+- nhà ở (không phải là nơi làm việc, cửa hàng...)
+
+@dwelling-place  
+*  dt
+- chỗ ở, nơi ở
+
+@dwelt  
+*  ndgt dwelt
+- ((thường) : in,  at,  near,  on) ở, ngụ, ở
+
++ to dwell in the country: ở nông thôn
+- (: on,  upon) dừng lại ở, chăm chú vào, nhấn lâu vào, day đi day lại
+
++ to dwell on a note: nhìn lâu vào một nốt
+
++ to dwell on someone's mistake: day đi day lại mãi một lỗi của ai
+- đứng chững lại (trước khi vượt rào) (ngựa)
+*  dt
+- (kỹ thuật) sự ngừng lại đều đặn (của máy)
+
+@dwindle  
+*  ndgt
+- nhỏ lại, thu nhỏ lại, teo đi, co lại
+- thoái hoá, suy đi
+!to dwindle away
+- nhỏ dần đi
+- suy yếu dần, hao mòn dần
+
+@

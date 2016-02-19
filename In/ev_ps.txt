@@ -1,0 +1,699 @@
+@ps
+* dt
+- (vt của postscript) tái bút
+* dt
+- (PS)(vt của police sergeant) hạ sự cảnh sát
+ @psalm
+* dt
+- bài thánh ca, bài thánh thi (nhất là của Kinh Cựu ước)
+- <snh> sách thánh ca, sách thánh thi
+* ngdgt
+- <Mỹ> ca tụng bằng thánh ca, ca tụng bằng thánh thi
+ @psalm-book
+* dt
+- sách thánh ca
+ @psalmist
+* dt
+- người soạn thánh ca, người soạn thánh thi
+ @psalmodic
+* tt
+- (thuộc) thuật hát thánh ca
+ @psalmodist
+* dt
+- người hát thánh ca
+ @psalmodize
+* ndgt
+- hát thánh ca
+ @psalmody
+* dt
+- sự hát thánh ca, thuật hát thánh ca
+- thánh ca, thánh thi (nói chung)
+- sự chuyên biên những bài thánh ca (để hát)
+ @psalter
+* dt
+- sách thánh ca, sách thánh thi
+ @psalterium
+* dt
+- dạ lá sách (động vật nhai lại)
+ @psaltery
+* dt
+- <nhạc> đàn xante (một loại đàn cổ)
+ @psammon
+* dt
+- số nhiều psammona
+- sinh vật ở cát
+ @psammona
+* dt
+- số nhiều
+- xem psammon
+ @psammophilous
+* tt
+- (động vật học) ưa cát; thích cát
+ @psammophyte
+* dt
+- (thực vật học) thực vật ưa cát
+ @psammosere
+* dt
+- diễn thể thực vật ở cát
+ @psellism
+* dt
+- tật nói lắp
+ @psellismus
+* dt
+- xem psellism
+ @psephite
+* dt
+- (khoáng vật học) xêphit
+ @psephological
+* tt
+- (thuộc) khoa nghiên cứu bầu cử
+ @psephologist
+* dt
+- nhà nghiên cứu về bầu cử, chuyên gia về bầu cử
+ @psephology
+* dt
+- khoa nghiên cứu về bầu cử
+ @pseud
+* dt
+- người huênh hoang, người hay tỏ ra hiểu biết (hơn thực tế anh ta có)
+ @pseud-
+- hình thái ghép có nghĩa là giả, giống như: pseudocarp quả giả
+ @pseudaxis
+* dt
+- (thực vật học) trục giả
+ @pseudepigrapha
+* dt
+- số nhiều
+- văn tự giả tạo
+ @pseudepigraphy
+* dt
+- sự gán những tác giả không phải cho tác phẩm
+ @pseudepisematic
+* tt
+- (sinh vật học) báo hiệu giả; thuộc màu lừa giả
+ @pseudo
+* tt
+- giả, giả tạo, không chân thật, giả mạo, không thành thật
+ @pseudo-
+- xem pseud-
+ @pseudoallele
+* dt
+- (sinh vật học) Alen giả
+ @pseudoallelic
+* tt
+- thuộc alen giả
+ @pseudoallelism
+* dt
+- hiện tượng alen giả
+ @pseudoalveolar
+* tt
+- (sinh vật học) có ổ giả, có hốc giả
+ @pseudoamitosis
+* dt
+- (sinh vật học) sự trực phân giả
+ @pseudoanalytic
+- giả giải tích
+ @pseudoangiocarpic
+* tt
+- (thực vật học) thuộc quả kín giả
+ @pseudoaposematic
+* tt
+- (sinh vật học) ngụy trang giả; thuộc màu ngụy trang giả
+ @pseudoaquatic
+* tt
+- ở đất ẩm, ưa đất ẩm
+ @pseudoaxile
+* tt
+- thuộc trục giả
+ @pseudobasidum
+* dt
+- (sinh vật học) đảm vách giày; đảm giả
+ @pseudobivalent
+* tt
+- (sinh vật học) lưỡng trị giả
+ @pseudobrachium
+* dt
+- (động vật học) vây ngực giả, vây chi trước giả
+ @pseudobranch
+* dt
+- (động vật học) mang phụ giả
+ @pseudobulbous
+* tt
+- có bọng giả; có túi chứa nước
+ @pseudobuld
+* dt
+- (thực vật học) bọng giả; túi chứa nước
+ @pseudocapsule
+* dt
+- túi giả
+ @pseudocardia
+* dt
+- (sinh vật học) chuỗi tim giả
+ @pseudocarp
+* dt
+- <thực> quả giả
+ @pseudocarpous
+- xem pseudocarp
+ @pseudo-catenary
+- đường giả dây xích
+ @pseudocellular
+* tt
+- thuộc tế bào phụ
+ @pseudocellus
+* dt
+- (côn trùng) mắt đơn giả
+ @pseudo-christianity
+* dt
+- thiên chúa giả hiệu
+ @pseudochrysalis
+* dt
+- (động vật học) nhộng giả
+ @pseudo-cirele
+- giả vòng
+ @pseudo-classis
+* tt
+- kinh điển giả hiệu
+ @pseudocoel
+* dt
+- (côn trùng) khoang giả; khoang máu (chân khớp)
+ @pseudocoelomate
+* tt
+- có khoang giả; khoang máu
+* dt
+- động vật có khoang giả; khoang máu
+ @pseudocolumella
+* dt
+- (sinh vật học) trụ giả
+ @pseudo-complement
+- giả bù
+ @pseudocomplex
+- giả phức
+ @pseudoconch
+* dt
+- vỏ giả
+ @pseudocone
+* dt
+- nón giả
+ @pseudoconformal
+- giả bảo giác
+ @pseudoconidium
+* dt
+- (sinh vật học) bào tử đính giả
+ @pseudoconjugation
+* dt
+- sự tiếp hợp giả
+ @pseudo-convergent
+- giả hội tụ
+ @pseudo-cycloid
+- giả xicloit
+ @pseudocycloidal
+- (thuộc) giả xicloit
+ @pseudocyesis
+* dt
+- sự thụ thai giả
+ @pseudocyst
+* dt
+- kén giả
+ @Pseudo-demand schedule
+- (Econ) Biểu cầu-giả.
+: Mối quan hệ hàm số  cho biết số tiền một cá nhân muốn thanh toán cho một loạt các đơn vị kế tiếp của một hàng hoá công cộng hoặc cho các đơn vị tiêu dùng kế tiếp của hàng hoá đó bởi các cá nhân khác (như kết quả sự tồn tại của một ngoại ứng có lợi).
+ @pseudoderm
+* dt
+- da giả; bì giả
+ @pseudodominance
+* dt
+- tính trội, tính ưu thế giả
+ @pseudodonorm
+- (giải tích) giả chuẩn
+ @pseudodont
+* tt
+- có răng giả, có răng sừng
+ @pseudoepiphyte
+* dt
+- thực vật biểu sinh giả
+ @pseudogamic
+* tt
+- giao phối giả
+ @pseudogaster
+* dt
+- dạ dày giả
+ @pseudogastreula
+* dt
+- phôi dạ giả
+ @pseudograph
+* dt
+- tác phẩm văn học giả mạo
+ @pseudologer
+* dt
+- <đùa> kẻ nói dối có hệ thống
+ @pseudomanifold
+- (tô pô) giả đa tạp
+ @pseudomembrane
+* dt
+- màng giả
+ @pseudo-metric
+- giả mêtric
+ @pseudo-metrisable
+- giả mêtric hoá được
+ @pseudomitosis
+* dt
+- sự gián phân giả; sự chia dọc một lần
+ @pseudomixis
+* dt
+- sự giao phối giả
+ @pseudomorph
+* dt
+- dạng giả
+ @pseudomorphism
+* dt
+- <khoáng> hiện tượng giả đồng hình
+ @pseudomorphous
+* tt
+- giả hình
+ @pseudo-normal
+- giả pháp tuyến
+ @pseudonym
+* dt
+- biệt hiệu, bút danh
+ @pseudonymity
+* dt
+- sự ký biệt hiệu, sự ký bút danh (ở một tác phẩm)
+- tính chất biệt hiệu, tính chất bút danh
+ @pseudonymous
+* tt
+- ký biệt hiệu, ký bút danh (tác phẩm)
+ @pseudonymously
+- xem pseudonym
+ @pseudonymousness
+- xem pseudonym
+ @pseudo-order
+- (máy tính) giả lệnh
+ @pseudoperiodic
+* tt
+- giả tuần hoàn
+ @pseudoperiodic
+- (giải tích) giả tuần hoàn
+ @pseudopod
+* dt
+- chân giả; cuống giả
+ @pseudopregnancy
+* dt
+- (y học) tính thụ thai giả
+ @pseudoprime
+- giả nguyên tố
+ @pseudorandom
+- giả ngẫu nhiên
+ @pseudorumination
+* dt
+- sự nhai lại giả
+ @pseudoscalar
+- lượng giả vô hướng
+ @pseudo-sentence
+- (logic học) giả câu
+ @pseudosperm
+* dt
+- (thực vật học) hạt giả; lá noãn giả
+ @pseudosphere
+* dt
+- (toán học) giả mặt cầu
+ @pseudo-sphere
+- giả mặt cầu
+ @pseudospherical
+- giả xoắn ốc
+ @pseudotangent
+- giả tiếp xúc, giả tiếp tuyến
+ @pseudo-tractrix
+- giả tractric
+ @pseudottensor
+- giả tenxơ
+ @pseudovaluation
+- (đại số) giả giá, giả mêtric
+ @pseudovector
+- (hình học) giả vectơ
+ @pshaw
+- interj
+- xì!  (tỏ ý khinh bỉ); chào ôi!  (tỏ ý sốt ruột)
+* dt
+- tiếng kêu "xì" (tỏ ý khinh bỉ); tiếng kêu chào ôi!  (tỏ ý sốt ruột)
+* ndgt
+- nói xì!  (tỏ ý khinh bỉ); nói chào ôi!  (tỏ ý sốt ruột)
+ @psi
+* dt
+- vt của per square inch (số pao (áp suất) trên một insơ vuông; lốp xe )
+ @psi
+- psi (&#968;)
+ @psi-function
+- (giải tích) hàm psi
+ @psilanthropism   (psilanthropy) @psilanthropist  
+*  dt
+- người theo thuyết cho Chúa Giê-xu chỉ là người
+
+@psilanthropy   (psilanthropy) @psilosis  
+*  dt
+- (y học) bệnh trụi lông, bệnh trụi tóc
+- (y học) bệnh viêm ruột loét miệng ((cũng) sprue)
+
+@psittacine  
+*  tt
+- (thuộc) vẹt; như vẹt
+
+@psittacosis  
+*  dt
+- (y học) bệnh virut vẹt
+
+@psittacotic
+- xem psittacosis
+ @psittacus
+* dt
+- (động vật học) vẹt xám
+ @psoas  
+*  dt
+- (giải phẫu) cơ thắt lưng
+
+@psora  
+*  dt,  (y học)
+- bệnh vảy nến ((cũng) psoriasis)
+- bệnh mụn ngứa, bệnh ghẻ
+
+@psoriasis  
+*  dt
+- (y học) bệnh vảy nến
+
+@psoriatic
+- xem psoriasis
+ @psoric
+* tt
+- thuộc bệnh ngứa
+ @psst
+- interj
+- xụyt (làm cho ai chú ý một cách bí mật, thầm lén)
+ @pst
+* dt(PST)
+- <Mỹ> vt của Pacific Standard Time giờ chuẩn ở Thái Bình Dương
+ @psv
+* (viết tắt)
+- phương tiện vận tải công cộng (public service vehicle)
+ @psych
+* ngdgt
+- <thgt> làm rối trí, làm bực dọc, làm (ai) kém tự tin (bằng các thủ đoạn tâm lý )
+- (:somebody @psych-
+- hình thái ghép
+- tâm lý
+- psychology
+- tâm lý học
+- tinh thần
+
++  psychometry:khoa đo nghiệm tinh thần
+- thần kinh; bộ não
+- psychiatry
+- bệnh học tinh thần
+ @psychaesthenia
+* dt
+- (y học) sự suy nhược tâm thần
+ @psychaesthenic
+* tt
+- suy nhược tâm thần
+ @psychanalysis
+* dt
+- sự phân tích tâm lý
+- phân tâm học
+ @psyche  
+*  dt
+- linh hồn, tinh thần, tâm thần
+- (động vật học) bướm lông
+
+@psychedelic  
+*  tt
+- ở trạng thái lâng lâng, ở trạng thái phiêu phiêu (do thuốc phiện...)
+- (thuộc) ma tuý
+*  dt
+- ma tuý
+
+@psychedelically
+* dt
+- ở trạng thái lâng lâng, ở trạng thái phiêu phiêu (do thuốc phiện...)
+- tạo ảo giác (màu sắc, âm thanh )
+ @psychiatric   (psychiatrical) @psychiatrical   (psychiatrical) @psychiatrically
+- xem psychiatry
+ @psychiatrist  
+*  dt
+- (y học) thầy thuốc bệnh tinh thần, thầy thuốc bệnh tâm thần
+
+@psychiatry  
+*  dt
+- (y học) bệnh học tinh thần, bệnh học tâm thần
+
+@psychic  
+*  dt
+- bà đồng; ông đồng
+
+@psychical  
+*  tt
+- (thuộc) tinh thần, (thuộc) tâm thần, (thuộc) linh hồn, (thuộc) tâm linh
+
+@psychically
+- xem psychic
+ @psychicism  
+*  dt
+- tâm linh học
+
+@psychics  
+*  dt,  số nhiều dùng như số ít
+- tâm lý học
+- tâm linh học
+
+@psycho  
+*  tt
+- (thông tục) bị bệnh tinh thần
+*  dt
+- (thông tục) người bị bệnh tinh thần
+
+@psychoactive
+* tt
+- tác động đến trí tuệ, hành vi (thuốc)
+ @psycho-analisis  
+*  dt
+- sự phân tích tâm lý
+
+@psycho-analyse  
+*  ngdgt
+- phân tích tâm lý
+
+@psychoanalyse
+* ngdgt
+- chữa bệnh bằng phân tâm học
+ @psychoanalysis
+* dt
+- phân tâm học, sự phân tích tâm lý
+ @psycho-analyst  
+*  dt
+- nhà phân tích tâm lý
+
+@psychoanalyst
+* dt
+- nhà phân tâm học, nhà phân tích tâm lý
+ @psycho-analytic   (psycho-analytical) @psychoanalytic
+* tt
+- (thuộc) phân tâm học
+ @psycho-analytical   (psycho-analytical) @psychoanalytical
+* tt
+- (thuộc) phân tâm học
+ @psychoanalytically
+* dt
+- (thuộc) phân tâm học
+ @psychoanalyze
+* ngdgt
+- chữa bệnh bằng phân tâm học
+ @psycho-biography
+* dt
+- tiểu sử phát triển tâm lý (của người)
+ @psycho-biological
+* tt
+- thuộc tâm sinh học
+ @psycho-biologist
+* dt
+- nhà tâm sinh học
+ @psycho-biology
+* dt
+- môn tâm sinh học
+ @psycho-dynamics
+* dt
+- tâm lý - động học
+ @psycho-genesis
+* dt
+- sự nghiên cứu quá trình phát sinh tinh thần
+ @psychogenic
+* tt
+- bắt nguồn từ tâm lý
+ @psychokinesis
+* dt
+- hành động trong trạng thái xuất thần
+ @psycholinguist
+* dt
+- nhà ngôn ngữ tâm lý
+ @psycholinguistic
+* tt
+- thuộc ngôn ngữ tâm lý
+ @psycholinguistics
+* dt
+- ngôn ngữ tâm lý học
+ @psychological  
+*  tt
+- (thuộc) tâm lý
+
++ psychological war: chiến tranh tâm lý
+!at the psychological
+- vào lúc thích hợp về tâm lý;(đùa cợt) vào lúc thuận lợi nhất
+
+@psychological
+- (thuộc) tâm lý học
+ @psychological warfare
+* dt
+- chiến tranh tâm lý
+ @psychologically
+* dt
+- (thuộc) tâm lý
+- (thuộc) tâm lý học
+ @psychologise   (psychologise) @psychologism
+* dt
+- thuyết tâm lý luận
+ @psychologist  
+*  dt
+- nhà tâm lý học
+
+@psychologize   (psychologise) @psychology  
+*  dt
+- tâm lý
+- tâm lý học
+- khái luận về tâm lý; hệ tâm lý
+
+@psychology
+- tâm lý học
+ @psychomancy
+* dt
+- thuật gọi hồn
+ @psychometric   (psychometrical) @psychometrical   (psychometrical) @psychometrics
+- tâm lý lượng học
+ @psychometry  
+*  dt
+- khoa đo nghiệm tinh thần
+
+@psychoneuroses
+* dt
+- <y> bệnh loạn thần kinh chức năng
+ @psychoneurosis  
+*  dt
+- (y học) bệnh loạn thần kinh chức năng
+
+@psychoneurotic  
+*  tt
+- (y học) loạn thần kinh chức năng
+*  dt
+- (y học) người bị loạn thần kinh chức năng
+
+@psychopath  
+*  dt
+- (y học) người bị loạn thần kinh nhân cách
+
+@psychopathic  
+*  tt
+- (y học) (thuộc) bệnh thái nhân cách
+
+@psychopathically
+- xem psychopathic
+ @psychopathological
+- xem psychopathology
+ @psychopathologist
+- xem psychopathology
+ @psychopathology  
+*  dt
+- (y học) bệnh học tâm lý, bệnh học tinh thần
+
+@psychopathy  
+*  dt
+- (y học) bệnh thái nhân cách
+
+@psycho-physical
+* tt
+- thuộc tâm-vật lý
+ @psychophysiologist
+* dt
+- nhà tâm sinh lý
+ @psychophysiology
+* dt
+- tâm sinh lý học (cũng) physiological psychology
+ @psychoses  
+*  dt,  số nhiều psychoses  @psychosexual
+* tt
+- tâm sinh dục
+ @psychosexuality
+* dt
+- tâm sinh dục
+ @psychosis  
+*  dt,  số nhiều psychoses  @psychosocial
+* tt
+- tâm lý xã hội
+ @psychosomatic  
+*  tt
+- (thuộc) tinh thần cơ thể
+
+@psychosomatically
+* dt
+- (thuộc) bệnh căng thẳng thần kinh
+- (thuộc) thần kinh (của cơ thể)
+ @psychotherapeutic
+- xem psychotherapy
+ @psychotherapeutically
+- xem psychotherapy
+ @psychotherapist
+* dt
+- người chữa bệnh bằng liệu pháp tâm lý
+ @psychotherapy  
+*  dt
+- (y học) phép chữa bằng tâm lý
+
+@psychotic  
+*  tt
+- loạn tinh thần
+
+@psychotically
+- xem psychotic
+ @psychotogen
+* dt
+- (Mỹ) thuốc gây rối loạn tâm lý
+ @psychotomimetic
+* tt
+- làm hành vi, nhân cách như bị loạn tâm thần (thuốc)
+* dt
+- thuốc làm hành vi, nhân cách như bị loạn tâm thần
+ @psychotropic
+* tt
+- tác động đến tâm thần (thuốc)
+ @psychphysiologist  
+*  dt
+- nhà sinh lý tâm lý
+
+@psychro-
+- hình thái ghép có nghĩa là lạnh : psychrophilic : ưa lạnh
+ @psychrometer  
+*  dt
+- (vật lý) cái đo ẩm
+
+@psychrophilic
+* tt
+- ưa lạnh; ưa nhiệt độ dưới 20 độ C
+ @psycophysiologist
+* dt
+- nhà sinh lý tâm lý
+ @psycophysiology  
+*  dt
+- khoa sinh lý tâm lý
+
+@psylla
+* dt
+- (thực vật học) cây mã đề bọ chét
+ @psy-war  
+*  dt
+- (thông tục),  (viết tắt) của psychological war chiến tranh tâm lý
+
+@

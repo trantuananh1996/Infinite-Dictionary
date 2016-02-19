@@ -1,0 +1,9 @@
+@cm
+- đơn vị đo độ dài (centimet)
+ @cmdr
+- trung úy hải quân anh (như cdr)
+ @cmos
+- chip CMOS
+ @CMOS (complementary metal-oxid-semiconductor)
+- (Tech) CMOS (mạch bán dẫn ôxit kim loại đối nghịch)
+ @

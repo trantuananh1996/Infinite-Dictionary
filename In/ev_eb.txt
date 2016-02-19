@@ -1,0 +1,96 @@
+@ebb  
+*  dt
+- triều xuống ((cũng) ebb-tide)
+
++ ebb and flow: nước triều xuống và nước triều lên
+- thời kỳ tàn tạ, thời kỳ suy sụp
+!to be at an ebb; to be at a low ebb
+- ở trong tình hình khó khăn
+- ở trong tình trạng sút kém, đang trong thời kỳ suy sụp
+*  ndgt
+- rút, xuống (triều)
+- tàn tạ, suy sụp
+
+@ebb tide
+- triều xuống
+ @ebb-tide  
+*  dt
+- triều xuống ((cũng) ebb)
+
+@ebcdic
+- Một nguyên tắc mã hoá tập ký tự máy tính
+ @EBCDIC (Extended Binary Code Decimal Interchange Code)
+- (Tech) EBCDIC [épxiddích], Bộ Mã Hoán Chuyển Mã Thập Phân Và Nhị Phân Được Nối Dài, Bộ mã 5-bit của IBM
+ @ebon  
+*  tt
+- (thơ ca) (như) ebony
+
+@ebonite  
+*  dt
+- Ebonit
+
+@ebonize  
+*  ngdgt
+- làm đen như gỗ mun
+
+@ebony  
+*  dt
+- gỗ mun
+*  tt
+- bằng gỗ mun
+- đen như gỗ mun
+
+@ebony-tree  
+*  dt
+- (thực vật học) cây mun
+
+@eboulement  
+*  dt
+- (địa lý,địa chất) sự sụt lở
+- đất sụt
+
+@ebracteate
+* tt
+- không lá bắc
+ @ebriety  
+*  dt
+- (từ hiếm,nghĩa hiếm) sự say
+
+@ebriosity
+* dt
+- tình trạng thường say
+ @ebrious  
+*  tt
+- (từ hiếm,nghĩa hiếm) say; thích say sưa
+
+@ebullience   (ebulliency) @ebulliency   (ebulliency) @ebullient  
+*  tt
+- sôi, đang sôi
+- sôi nổi, bồng bột
+
+@ebulliently
+* dt
+- sôi nổi, hăm hở
+ @ebullioscope
+* dt
+- dụng cụ nghiệm sôi
+ @ebullioscopy  
+*  dt
+- (hoá học) phép nghiệm sôi
+
+@ebullition  
+*  dt
+- sự sôi, sự sủi
+- (nghĩa bóng) sự sục sôi, sự bùng nổ (chiến tranh...)
+
+@eburine
+* dt
+- ngà giả
+ @eburnated
+* tt
+- cứng như ngà voi
+ @eburnation  
+*  dt
+- (y học) sự hoá giá
+
+@

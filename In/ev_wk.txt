@@ -1,0 +1,5 @@
+@wk
+* dt
+- tuần lễ (week)
+- công việc (work)
+ @

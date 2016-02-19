@@ -1,0 +1,23 @@
+@ewe  
+*  dt
+- (động vật học) cừu cái
+!one's eve lamb
+- cái quí nhất của mình
+
+@ewe-cheese
+* dt
+- pho mát sữa cừu
+ @ewe-lamb
+* dt
+- vật quí nhất
+ @ewe-necked  
+*  tt
+- có cổ ngẳng (ngựa)
+
+@ewer  
+*  dt
+- bình đựng nước
+
+@eworld
+- Một dịch vụ máy tính trực tuyến do hãng Apple Corporation thiết kế đặc biệt để dùng cho các máy Macintosh
+ @

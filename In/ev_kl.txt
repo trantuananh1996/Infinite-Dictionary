@@ -1,0 +1,48 @@
+@klan
+* dt
+- xem kuklux  klan
+ @klansman   (klansman) @klaxon  
+*  dt
+- còi điện (xe ô tô)
+
+@kleenex
+* dt
+- khăn giấy
+ @Klein Goldberger model
+- (Econ) Mô hình Klein Goldberger.
+: Một mô hình KINH TẾ LƯỢNG cỡ vừa của nền kinh tế Mỹ cho giai đoạn 1929-1952 (không kể cả giai đoạn 1942-1945) đã có ảnh hưởng rất quan trọng đối với việc xây mô hình kinh tế lượng từ thời gian xuất bản năm 1955 đến nay.
+ @Klein, Lawrence R.
+- (Econ) (1920-)
+: Nhà kinh tế học người Mỹ và là giáo sư kinh tế tại trường Đại học Pennsylvania; được tặng giải thưởng Nobel về kinh tế năm 1980 về tác phẩm tiên phong của mình trong việc phát triển các mô hình dự báo kinh tế định lượng, có thể được dùng để dự báo các biến số như tổng sản phẩm quốc dân, xuất khẩu, đầu tư… và các tác động của các biện pháp trong các chính sách đối với các biến số này. Trong số nhiều mô hình có liên quan đến tên này thì mô hình thành công và nổi tiếng nhất là mô hình Dự báo Kinh tế Lượng Wharton đối với nền kinh tế Mỹ, đưa ra tại trường đại học Pennsylvania. Klein đã quan tâm nhiều đến việc áp dụng các phát triển lý thuyết trong kinh tế lượng vào công việc ứng dụng hơn là việc đưa ra thuyết kinh tế định lượng. Sự nghiệp của ông đã góp phần phát triển lĩnh vực này và ảnh hưởng tới việc xây dựng mô hình trên quy mô toàn thế giới. Thành tựu có một không hai của Klein nói chung là việc dịch chuyển mô hình Keynes sang lĩnh vực thống kê. Hai cuốn sách nổi tiếng nhất của ông là Cuộc cách mạng Keynes (1947) và Sách giáo khoa về Kinh tế lượng (1953).
+ @klepht
+* dt
+- (thường) viết hoa đội viên du kích Hy Lạp của Thỗ Nhĩ Kỳ thế kỷ 15)
+ @kleptomania  
+*  dt
+- thói ăn cắp vặt, thói tắt mắt
+
+@kleptomaniac  
+*  dt
+- người ăn cắp vặt, người tắt mắt
+
+@kleptomaniacal
+- xem kleptomania
+ @klipspringer  
+*  dt
+- (động vật học) linh dương Nam phi
+
+@kloof  
+*  dt
+- hẽm núi; thung lũng (ở Nam phi)
+
+@kludge
+- Một lời giải nhanh, thiếu trang nhã về mặt kỹ thuật của một bài toán, thường do một hệ máy tính được lắp bằng những linh kiện không phù hợp sinh ra
+ @kluxer   (klansman) @klystron  
+*  dt
+- (vật lý) klytron
+
++ reflex klystron: klytron phản xạ
+
+@klystron
+- (vật lí) klitroon (đền điện tử)
+ @

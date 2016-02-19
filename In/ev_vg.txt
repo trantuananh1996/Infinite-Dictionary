@@ -1,0 +1,5 @@
+@vg
+* (viết tắt)
+- rất tốt (nhất là trên các chữ viết đã được chỉnh lại)  (very good)
+ @vga
+- Một tiêu chuẩn hiển thị đồ họa màu ánh xạ bit, được IBM giới thiệu vào năm 1987 cùng với loạt máy tính PS @

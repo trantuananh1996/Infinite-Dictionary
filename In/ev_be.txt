@@ -1,0 +1,3567 @@
+@be  
+*  (bất qui tắc) ndgt & trợ dgt (số ít was,  số nhiều were,  been)
+- thì, là
+
++ the earth is round: quả đất (thì) tròn
+
++ he is a teacher: anh ta là giáo viên
+- có, tồn tại, ở, sống
+
++ there is a concert today: hôm nay có một buổi hoà nhạc
+
++ are you often in town?: anh thường có ở tỉnh không
+
++ to be or not to be, that is the question: sống hay là chết đây, đó là vấn đề
+- trở nên, trở thành
+
++ they'll be linguists in some years time: vài năm nữa họ sẽ trở thành những nhà ngôn ngữ học
+- xảy ra, diễn ra
+
++ when is the wedding to be: bao giờ đám cưới sẽ cử hành
+- giá
+
++ this book is five pence: cuốn sách này giá năm xu
+- be to phải, định, sẽ
+
++ what time am I to come?: mấy giờ tôi phải đến
+
++ he is to leave for Hanoi tomorrow: ngày mai nó sẽ đi Hà nội
+- (: động tt hiện tại) đang
+
++ they are doing their work: họ đang làm việc của họ
+- (: động tt quá khứ) bị, được
+
++ the boy is scolded by his mother: đứa bé bị mẹ mắng
+
++ the house is being built: ngôi nhà đang được xây
+!to have been
+- đã đi, đã đến
+
++ I've been to Peking once: tôi đã đi Bắc kinh một lần
+
++ has anyone been during my absence?: trong khi tôi đi vắng có ai đến không?
+
++ he's been and took my books: (thông tục) cái thằng ấy đã đến lấy mất sách của mình
+!to be against
+- chống lại
+!to be for
+- tán thành, đứng về phía
+
+@beach  
+*  dt
+- sỏi cát (ở bãi biển)
+- bãi biển
+*  ngdgt
+- cho (tàu thuyền) lên cạn
+
+@beach buggy
+* dt
+- xe nhỏ có động cơ dùng để đua ở các bờ biển, đất hoang  
+ @beach umbrella  
+*  dt
+- dù che ở bãi biển
+
+@beach-ball
+* dt
+- quả bóng nhẹ, được thổi căng để làm trò chơi trên biển
+ @beach-comber  
+*  dt
+- người sống trên những đảo ở Thái bình dương; người sống lang thang trên bờ biển
+- đợt sóng tràn vào bờ
+
+@beach-head  
+*  dt
+- (quân sự) vị trí đổ bộ, vị trí đầu cầu
+
+@beachhead
+* dt
+- vị trí đổ bộ, đầu cầu đổ bộ
+ @beach-la-mar  
+*  dt
+- tiếng Anh địa phương ở miền tây Thái bình dương
+
+@beach-master  
+*  dt
+- (quân sự) sĩ quan chỉ huy cuộc đổ bộ
+
+@beach-rest  
+*  dt
+- cái tựa lưng (dùng ở bãi biển)
+
+@beachwear
+* dt
+- quần áo mặc để tắm biển
+ @beacon  
+*  dt
+- đèn hiệu
+- (hàng hải) mốc hiệu; cột mốc (dẫn đường)
+- ngọc đồi cao (làm mốc dẫn đường, dùng trong tên địa điểm)
+- sự báo trước, sự cảnh cáo trước
+- người dẫn đường, người hướng dẫn
+*  ngdgt
+- đặt đèn hiệu
+- soi sáng, dẫn đường
+
+@beacon
+- (Tech) máy tín tiêu hiệu, cái pha vô tuyến; tín tiêu@beacon fire   (beacon_light) @beacon light   (beacon_light) @bead  
+*  dt
+- hạt hột (của chuỗi hạt)
+
++ a string of beads: một chuỗi hạt
+
++ to tell one's beads: lần tràng hạt
+- giọt, hạt
+
++ beads of dew: giọt sương
+
++ beads of perspiration: giọt mồ hôi
+- bọt (rượu...)
+- (quân sự) đầu ruồi (súng)
+- (kiến trúc) đường gân nổi hình chuỗi hạt
+!to draw a bead on
+- (quân sự) nhắm bắn
+*  ngdgt
+- xâu thành chuỗi
+*  ndgt
+- lấm tấm vài giọt
+
++ the sweat beaded on his brows: trán nó lấm tấm mồ hôi
+
+@bead
+- (Tech) viên, chuỗi hạt
+ @bead capacitor
+- (Tech) bộ điện dung hình chuỗi
+ @bead transistor
+- (Tech) đèn tinh thể hạt
+ @beading  
+*  dt
+- sự xâu thành chuỗi
+- sự đọng lại thành giọt
+- miếng gỗ dài trên có những hạt tròn; hoa văn hình hạt tròn, đường chạm nổi hình chuỗi hạt
+
+@beadle   (bumble) @beadledom  
+*  dt
+- thói hình thức ngu xuẩn, thói quan liêu giấy tờ
+
+@beady  
+*  tt
+- nhỏ như hạt, tròn nhỏ và sáng
+
++ beady eyes: mắt tròn và sáng
+- lấm tấm những giọt (mồ hôi), phủ đầy giọt
+
+@beagle  
+*  dt
+- chó săn thỏ
+- mật thám; gián điệp
+
+@beagling  
+*  dt
+- môn săn thỏ bằng chó
+
+@beak  
+*  dt
+- mỏ (chim)
+- vật hình mỏ
+- mũi khoằm
+- mũi đe (đầu nhọn của cái đe)
+- vòi ấm
+- (thông tục) thẩm phán, quan toà
+- (từ lóng) giáo viên; hiệu trưởng
+
+@beaked  
+*  tt
+- có mỏ
+- khoằm (mũi)
+- nhô ra (tảng đá, mũi đất)
+
+@beaker  
+*  dt
+- cái cốc vại, cái chén tống
+- (hoá học) cốc đứng thành, cốc bêse
+
+@beam  
+*  dt
+- (kiến trúc) xà, rầm
+- đòn, cán (cân); bắp (cây); trục cuốn chỉ (máy dệt); gạc chính (sừng hươu)
+- (kỹ thuật) đòn cân bằng; con lắc
+- (hàng hải) sườn ngang của sàn tàu; sống neo
+- tín hiệu rađiô (cho máy bay)
+- tầm xa (của loa phóng thanh)
+- tia; chùm (ánh sáng)
+
++ electron beam: chùm electron
+
++ sun beam: tia mặt trời, tia nắng
+- (nghĩa bóng) vẻ tươi cười rạng rỡ
+!to kick the beam
+- nhẹ hơn, nhẹ bỗng lên (cán cân)
+- bị thua
+!on the port beam
+- (hàng hải) bên trái tàu
+!on the starboard beam
+- (hàng hải) bên phải tàu
+*  dgt
+- chiếu rọi (tia sáng)
+- rạng rỡ, tươi cười
+- xác định của vị trí máy bay qua hệ thống rađa
+- rađiô phát đi (buổi phát thanh...)
+
+@beam
+- (Tech) chùm; chùm sáng, tia
+ @beam
+- dầm; tia (sáng) chùm (sáng)
+- b. on elastic foundation dần trên nền đàn hồi
+- b. on elastic support dần trên gối đàn hồi
+- compuond b. dầm ghép
+- conjugate b. dầm liên hợp
+- continuos b. dầm nhiều nhịp, dầmliên tục
+- electron b. tia điện tử, chùm electron
+- fixed b. dầm cố định
+- floor b. dầm ngang
+- hinged b. dầm tiết hợp
+- lattice b. dầm mạng, dầm thành phần
+- narrow b. (máy tính) chùm hẹp
+- scanning b. tia quét 
+ @beam angle
+- (Tech) góc chỉ hướng, góc chùm
+ @beam-ends  
+*  dt số nhiều,  to be on one's qong (hàng hải) nghiêng đi (tàu)
+- hết phương, hết cách; lâm vào thế bí, lúng túng
+
+@beamwidth
+- (Tech) độ rộng chùm
+ @beamy  
+*  tt
+- to, rộng (tàu thuỷ)
+- (thơ ca) to lớn; nặng nề
+
++ a beamy spear: ngọn giáo nặng nề
+- (thơ ca),  (từ hiếm,nghĩa hiếm) sáng ngời, rạng rỡ
+
+@bean  
+*  dt
+- đậu
+- hột (cà phê)
+- (từ lóng) cái đầu
+- (từ lóng) tiền đồng
+
++ not to have a bean: không một xu dính túi
+
++ not worth a bean: không đáng một trinh
+!to be full of beans
+- hăng hái, sôi nổi, phấn chấn
+!every bean has its black
+- (tục ngữ) nhân vô thập toàn, người ta ai mà chẳng có khuyết điểm
+!to get beans
+- (thông tục) bị trừng phạt, bị mắng mỏ, bị đánh đập
+!to give somebody beans
+- (từ lóng) trừng phạt ai, mắng mỏ ai
+!like beans
+- hết sức nhanh, mở hết tốc độ
+!a hill of beans
+- (từ Mỹ,nghĩa Mỹ) toàn những vật mọn; toàn những chuyện lặt vặt không đáng kể
+!to know beans; to know how many beans make five
+- láu, biết xoay xở
+!old bean
+- (từ lóng) bạn thân, bạn tri kỷ
+!to spill the beans
+- (xem) spill
+
+@bean pole  
+*  dt
+- cọc cho đậu leo
+- (thông tục) người gầy cà khẳng cà kheo, người cao và gầy
+
+@beanery  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) quán ăn (rẻ tiền)
+
+@bean-feast  
+*  dt
+- bữa thết hàng năm (chủ thết công nhân)
+- buổi liên hoan
+- thời gian vui nhộn
+
+@bean-fed  
+*  tt
+- hăng hái, sôi nổi, phấn chấn
+
+@beano  
+*  dt
+- (từ lóng) (như) bean-feast
+
+@bean-pod  
+*  dt
+- vỏ đậu
+
+@bean-shooter  
+*  dt
+- ống xì đồng
+
+@bean-sprouts  
+*  dt
+- giá (đậu tương...)
+
+@bear  
+*  (bất qui tắc) ngdgt (bore; borne,  born)
+- mang, cầm, vác, đội, đeo, ôm
+
++ to bear a message: mang một bức thư
+
++ to bear traces of a bombardment: mang dấu vết một cuộc ném bom
+
++ the document bears no date: tài liệu không đề ngày
+
++ to bear in mind: ghi nhớ; nhớ không quên
+- chịu, chịu đựng
+
++ to bear a part of the expenses: chịu một phần các khoản chi
+
++ I can't bear that fellow: tôi không chịu được cái thằng cha ấy
+- sinh, sinh sản, sinh lợi
+
++ to fruit: ra quả, sinh quả
+
++ to bear interest: sinh lãi, có lãi
+
++ to bear a child: sinh con
+
++ to be born in 1940: sinh năm 1940
+
++ to bear oneself: cư xử, xử sự
+*  ndgt
+- chịu, chịu đựng
+
++ to grin and bear: cười mà chịu đứng
+- chống đỡ, đỡ
+
++ this beam can't bear: cái xà này không chống đỡ nổi
+- có hiệu lực, ăn thua
+
++ this argument did not bear: lý lẽ đó chẳng ăn thua gì; lý lẽ đó không có hiệu lực
+- rẽ, quay, hướng về
+
++ to bear to the right: rẽ sang phải
+- ở vào (vị trí nào...)
+
++ this island bears N.E. of the harbour: đảo đó ở về phía đông bắc hải cảng
+- sinh, sinh sản, sinh lợi
+
++ all these pear-trees bear very well: những cây lê này sinh rất nhiều quả, những cây lê này rất sai quả
+!to bear away
+- mang đi, cuốn đi, lôi đi
+
++ to bear away the prize: giật giải, đoạt giải, chiếm giải
+
++ to be borne away by one's enthusiasm: để cho nhiệt tình lôi cuốn đi
+- đi xa, đi sang hướng khác
+
++ to bear down: đánh quỵ, đánh gục
+
++ to bear down an enemy: đánh quỵ kẻ thù
+
++ to bear down upon: sà xuống, xông vào, chồm tới
+
++ to bear down upon the enemy: xông vào kẻ thù
+
++ to bear in: (hàng hải) đi về phía
+
++ they were bearing in with the harbour: họ đang đi về phía cảng
+!to bear of
+- tách ra xa không cho tới gần
+- mang đi, cuốn đi, lôi đi, đoạt
+
++ to bear off the prize: đoạt giải, giật giải, chiếm giải
+- (hàng hải) rời bến xa thuyền (thuyền, tàu)
+!to bear on (upon)
+- có liên quan tới, quy vào
+
++ all the evidence bears on the same point: tất cả chứng cớ đều quy vào một điểm
+- tì mạnh vào, chống mạnh vào; ấn mạnh xuống
+
++ if you bear too hard on the point of you pencil, it may break: nếu anh ấn đầu bút chì, nó có thể gãy
+!to bear out
+- xác nhận, xác minh
+
++ statements is borne out by these documents: lời tuyên bố đã được những tài liệu này xác minh
+!to bear up
+- chống đỡ (vật gì)
+- ủng hộ (ai)
+- có nghị lực, không để cho quỵ; không thất vọng
+
++ to be the man to bear up against misfortunes: là người có đủ nghị lực chịu đựng được những nỗi bất hạnh
+- (hàng hải) tránh (gió ngược)
+
++ to bear up for: đổi hướng để tránh gió
+!to bear comparison with
+- (xem) comparison
+!to bear a hand
+- (xem) hand
+!to bear hard upon somebody
+- đè nặng lên ai; đè nén ai
+!to bear a part
+- chịu một phần
+!to bear a resemblance to
+- (xem) resemblance
+!to bear with somebody
+- khoan thứ ai, chịu đựng ai
+!to bear testimony to
+- (xem) testimony
+!to bear witness to
+- (xem) witness
+!it is now borne in upon me that...
+- bây giờ tôi hoàn toàn tin tưởng rằng...
+*  dt
+- con gấu
+- người thô lỗ, người thô tục
+- (thiên văn học) chòm sao gấu
+
++ the Great Bear: chòm sao Gấu lớn, chòm sao Đại hùng
+!to be a bear for punishment
+- chịu đựng được sự trừng phạt hành hạ, chịu đựng ngoan cường sự trừng phạt hành hạ
+!to sell the bear's skin before one has caught the bear
+- bán da gấu trước khi bắt được gấu; chưa đẻ đã đặt tên
+!surly (sulky, cross) as a bear
+- cau có, nhăn nhó, gắt như mắm tôm
+!to take a bear by the tooth
+- liều vô ích; tự dấn thân vào chỗ nguy hiểm một cách không cần thiết
+*  dt
+- sự đầu cơ giá hạ (chứng khoán); sự làm cho sụt giá (chứng khoán)
+- người đầu cơ giá hạ (chứng khoán)
+*  dgt
+- đầu cơ giá hạ (chứng khoán)
+- làm cho sụt giá (chứng khoán)
+
+@bearable  
+*  tt
+- có thể chịu đựng được; có thể khoan thứ được
+
+@bear-baiting  
+*  dt
+- trò trêu gấu (thả chó săn cho trêu chọc một con gấu bị xích)
+
+@beard  
+*  dt
+- râu (người); (thực vật học) râu hạt thóc...
+- ngạnh (mũi tên, lưỡi câu)
+!to laught in one's beard
+- cười thầm
+!to laugh at somebody's beard
+- cười vào mặt ai
+- tìm cách lừa gạt ai; toan lừa bịp ai
+!to pluck (take) by the beard
+- quyết xông vào, quyết xả vào chiếm lấy
+!to speak in one's beard
+- nói lúng búng
+*  ngdgt
+- đương đầu với, chống cư
+!to beard the lion in his den
+- vào hang hùm bắt cọp con
+
+@bearded  
+*  tt
+- có râu
+- có ngạnh
+
+@beardless  
+*  tt
+- không có râu
+- không có ngạnh
+
+@beardlessness  
+*  dt
+- tình trạng không râu
+- tình trạng không ngạnh
+
+@bearer  
+*  dt
+- người đem, người mang, người cầm (thư, điện...); người khiêng, người vác, người tải
+
++ bearer company: đơn vị tải thương (tại trận địa)
+- vật sinh lợi nhiều
+
++ a good bearer: cây sai quả, cây nhiều hoa
+- (vật lý) vật đỡ, cái giá, cái trụ
+
+@bearer
+- (Tech) người đưa tin; bộ tuyền tin, bộ đưa tin (giữa hai thiết bị thông tin); vật chống đỡ
+ @Bearer bonds
+- (Econ) Trái khoán không ghi tên.
+: Một loại trái khoán không yêu cầu có chứng thư chuyển nhượng vì người giữ có quyền sở hữu hợp pháp.
+ @bearer capability
+- (Tech) khả năng bộ truyền tin
+ @bearer service
+- (Tech) dịch vụ bộ truyền tin
+ @beargarden  
+*  dt
+- cảnh ồn ào hỗn độn
+
+@bear-hug
+* dt
+- sự ôm hôn khắn khít
+ @bearing  
+*  dt
+- sự mang
+- sự chịu đựng
+
++ his conceit it past (beyond all) bearing: không ai chịu được cái tính tự cao tự đại của nó
+- sự sinh nở, sự sinh đẻ
+
++ child bearing: sự sinh con
+
++ to be in full bearing: đang trong thời kỳ sinh nở (đàn bà); đang ra quả (cây);
+
++ to be past bearing quá thời kỳ sinh nở: thái độ, dáng điệu, bộ dạng, tác phong
+
++ modest bearing: thái độ khiêm tốn
+- phương diện, mặt (của một vấn đề)
+
++ to examine a question in all its bearings: xem xét một vấn đề trên mọi phương diện
+- sự liên quan, mối quan hệ
+
++ this remark has no bearing on the question: lời nhận xết ấy không có liên quan gì tới vấn đề
+- ý nghĩa, nghĩa
+
++ the precise bearing of the word: nghĩa chính xác của từ đó
+- (kỹ thuật) cái giá, cái trụ, cái đệm,  cuxinê
+
++ ball bearings: vòng bi, ổ bi (xe đạp...)
+- (hàng hải); (hàng không) quân... vị trí phương hướng
+
++ to take one's bearings: xác định vị trí, định rõ phương hướng (nghĩa đen) & (nghĩa bóng)
+
++ to lose one's bearings: lạc mất phương hướng không biết mình ở đâu (nghĩa đen) & (nghĩa bóng)
+- (số nhiều) hình vẽ và chữ đề (trên quốc huy, huy hiệu...)
+
+@bearing
+- (Tech) góc phương vị; định hướng; quan hệ; ổ trục
+ @bearing
+- chỗ tựa, điểm tựa; góc phương vị
+- compass b. góc phương vị địa bàn
+- radial b. ổ trục hướng tâm 
+ @bearish  
+*  tt
+- xấu tính, hay gắt, hay cau có; thô lỗ, cục cằn
+
+@bearishness  
+*  dt
+- tính hay gắt, tính hay cau; tính thô lỗ, tính cục cằn
+
+@bearleader  
+*  dt
+- người dạy gấu
+- người làm xiếc gấu
+
+@Bears
+- (Econ) Người đầu cơ giá xuống.
+: Những cá nhân tin rằng giá chứng khoán hoặc trái khoán sẽ giảm và do đó bán những chứng khoán hy vọng rằng có thể mua lại ở mức giá thấp hơn.
+ @bear's cub   (bear's_whelp) @bear's foot  
+*  dt
+- cây trị điên
+
+@bear's whelp   (bear's_whelp) @bearskin  
+*  dt
+- da gấu
+
+@beast  
+*  dt
+- thú vật, súc vật
+
++ beast of prey: thú săn mồi
+- (số nhiều không đổi) thú nuôi, gia súc
+- người hung bạo
+- người mình ghét
+!the Beast
+- kẻ thù của Chúa
+!the beast
+- thú tính (trong con người)
+
+@beastliness  
+*  dt
+- sự tham ăn, tham uống; sự say sưa bét nhè
+- sự dâm ô, sự tục tĩu
+- thức ăn kinh tởm
+
+@beastly  
+*  tt
+- như súc vật, thô lỗ, cục cằn; hung bạo
+- bần, đáng tởm, chỉ đáng cho súc vật
+
++ beastly food: đồ ăn bẩn chỉ đáng cho súc vật
+- (thông tục) xấu, khó chịu
+
++ beastly weather: thời tiết khó chịu
+*  dt
+- (từ lóng) quá lắm, cực kỳ, rất (thường) xấu
+
++ beastly drunk: say bét nhè
+
++ beastly wet: ướt sũng ra
+
++ it is raining beastly hard: mưa thối đất, thối cát
+
+@beat  
+*  dt
+- sự đập; tiếng đập
+
++ the beat of a drum: tiếng trống
+
++ heart beats: trống ngực
+- khu vực đi tuần (của cảnh sát); sự đi tuần
+
++ to be on the beat: đang đi tuần
+
++ to be off (out to) one's beat: ngoài phạm vi đi tuần của mình; ngoài phạm vi giải quyết của mình
+- (thông tục) cái trội hơn hẳn, cái vượt hơn hẳn
+
++ I've never seen his beat: tớ chưa thấy ai trôi hơn nó
+- (âm nhạc) nhịp, nhịp đánh (của người chỉ huy dàn nhạc)
+- (vật lý) phách
+- (săn bắn) khu vực săn đuổi, cuộc săn đuổi
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tin đăng đầu tiên (trước các báo cáo)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người thất nghiệp; người sống lang thang đầu đường xó chợ
+*  (bất qui tắc) dgt beat; beaten,  beat
+- đánh đập, nện, đấm
+
++ to beat black and blue: đánh cho thâm tím mình mẩy
+
++ to beat at the door: đập cửa
+
++ to beat one's breast: tự đấm ngực
+- vỗ (cánh); gõ, đánh (nhịp)
+
++ to beat the wings: vỗ cánh (chim)
+
++ to beat time: (âm nhạc) gõ nhịp, đánh nhịp
+
++ his pulse began to beat quicker: mạch của nó bắt đầu đập nhanh hơn
+- thắng, đánh bại, vượt
+
++ to beat somebody ever heard: cái đó vượt xa tất cả những cái mà tôi từng được nghe thấy
+- đánh trống để ra lệnh, ra hiệu bệnh bằng trống
+
++ to beat a charge: đánh trống ra lệnh tấn công
+
++ to beat a retreat: đánh trống ra lệnh rút lui
+
++ to beat a parley: đánh trống đề nghị thương lượng
+- (săn bắn) khua (bụi rậm... để lùa những con thú ra)
+
++ to beat the bushes: khua bụi
+!to beat about
+- khua (bụi...), khuấy (nước...) (để lùa ra)
+- (hàng hải) đi vát
+!to beat down
+- đánh trống, hạ
+
++ to beat down prices: đánh hạ giá; mặc cả được hạ giá
+- làm thất vọng, làm chán nản
+
++ he was thoroughly beaten down: nó hoàn toàn thất vọng, nó chán nản rã rời
+!to beat in
+- đánh thủng; đánh vỡ
+!to beat out
+- đập bẹt ra, nện mỏng ra (kim loại...)
+- dập tắt (ngọn lửa...)
+!to beat up
+- đánh (trứng, kem...)
+- đi khắp (một vùng...)
+- truy lùng, theo dõi (ai...)
+- (quân sự) bắt, mộ (lính)
+
++ to beat up recruits: mộ lính
+- (hàng hải) đi vát, chạy giạt vào bờ
+- khua (bụi...), khuấy (nước...) (để lùa ra)
+!to beat about the bush
+- nói quanh
+!to beat it
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chạy trốn cho nhanh
+
++ beat it!: (từ Mỹ,nghĩa Mỹ) cút đi!, cút ngay!, xéo ngay!
+!to beat one's brains
+- (xem) brain
+!to beat somebody hollow (all to prices, to nothing, to ribbands, to smithereens to stricks)
+- hoàn toàn đánh bại ai; đánh ai tơi bời
+!to beat up the quarters of somebody
+- (xem) quarter
+
+@beat
+- (Tech) phách
+ @beat
+- phách
+ @beat amplitude
+- (Tech) biên độ phách
+ @beaten  
+*  động tt quá khứ của beat
+*  tt
+- đập, nện (nền đường...)
+- gò, đập, thành hình
+
++ ornaments are sometimes made of beaten silver and beaten gold: những đồ trang sức đôi khi làm bằng bạc, vàng gò thành hình
+- quỵ, nản chí
+!the beaten track
+- đường mòn
+- môn sở trường
+
++ history is his beaten track: lịch sử là môn sở trường của anh ấy
+
+@beater  
+*  dt
+- người đánh, người đập
+- que, gậy, đòn, chày (để đập đánh)
+
++ a carpet beater: gậy đập thảm
+
++ an egg beater: que đánh trứng
+- (săn bắn) người xua dã thú (đẻ cho người ta săn bắn)
+- (nông nghiệp) đòn đập lúa; máy đập
+
+@beatific  
+*  tt
+- ban phúc lành; làm sung sướng, làm hạnh phúc
+- hạnh phúc, sung sướng
+
++ a beatific smile: nụ cười sung sướng
+
+@beatification  
+*  dt
+- sự ban phúc lành; sự làm sung sướng, 
+- sự hưởng hạnh phúc
+- (tôn giáo) sự tuyên phúc (cho người chết được lên thiên đàng)
+
+@beatify  
+*  ngdgt
+- ban phúc lành; làm sung sướng, cho hạnh phúc
+- (tôn giáo) tuyên phúc (cho người chết được lên thiên đàng)
+
+@beating  
+*  dt
+- sự đánh, sự đập, sự nện
+- sự vỗ (cánh)
+- sự trừng phạt
+- sự thất bại
+
++ to get a good beating: bị thua nặng
+- sự khua (bụi rậm để lùa thúa săn...)
+
+@beating oscillator
+- (Tech) bộ dao động phách
+ @beatitude  
+*  dt
+- phúc lớn
+!the Beatitudes
+- những điều phúc lớn (ghi trong kinh thánh)
+
+@beatnik   (hippy) @beau  
+*  (bất qui tắc) dt,  số nhiều beaux
+- người đàn ông ăn diện
+- người hay tán gái; anh chàng nịnh đầm
+- người theo đuổi (một người con gái)
+
+@beau ideal  
+*  dt
+- cái đẹp lý tưởng; khuôn vàng thước ngọc
+
+@beaufort scale
+* dt
+- thang đo tốc độ gió từ 0 (tựnh lặng) đến 12 (bão)
+ @beaujolais
+* dt
+- rượu vang nhẹ ở vùng Beaujolais của Pháp
+ @beauteous  
+*  tt
+- (thơ ca) đẹp
+
+@beautician  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người chủ mỹ viện
+
+@beautifier  
+*  dt
+- người làm đẹp, người tô điểm
+
+@beautifier
+- (Tech) bộ viết rõ, bộ viết đúng
+ @beautiful  
+*  tt
+- đẹp; hay
+- tốt, tốt đẹp
+
+@beautifully
+* dt
+- tốt đẹp, đáng hài lòng
+ @beautify  
+*  ngdgt
+- làm đẹp, tô điểm
+
+@beauty  
+*  dt
+- vẻ đẹp, sắc đẹp, nhan sắc
+- cái đẹp, cái hay
+
++ the beauty of the story: cái hay của câu chuyện
+- người đẹp, vật đẹp
+
++ look at this rose, isn't it a beauty!: nhìn bông hoa hồng này mà xem, thật là đẹp!
+!beauty is but skin deep
+- nhan sắc chỉ là bề ngoài
+
+@beauty contest  
+*  dt
+- cuộc thi sắc đẹp
+
+@beauty queen
+* dt
+- hoa hậu
+ @beauty salon
+* dt
+- thẩm Mỹ viện
+ @beauty spot
+- cảnh đẹp, thắng cảnh
+- nốt ruồi (ở trên mặt phụ nữ)
+ @beauty-parlour  
+*  dt
+- mỹ viện
+
+@beauty-sleep  
+*  dt
+- giấc ngủ sớm (trước nửa đêm)
+
+@beauty-spot  
+*  dt
+- nốt ruồi (ở mặt)
+- thắng cảnh, cảnh đẹp
+
+@beaux  
+*  (bất qui tắc) dt,  số nhiều beaux
+- người đàn ông ăn diện
+- người hay tán gái; anh chàng nịnh đầm
+- người theo đuổi (một người con gái)
+
+@beaver  
+*  dt
+- (động vật học) con hải ly
+- bộ lông hải ly
+- mũ làm bằng lông hải ly
+*  dt
+- lưỡi trai (mũ sắt); (sử học) vành cằm (mũ sắt)
+- (từ lóng) bộ râu quai nón
+- (từ lóng) người râu xồm
+
+@beavertail antenna
+- (Tech) ăngten hình đuôi hải ly, ăngten (sóng) bình diện
+ @bebop  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) nhạc bibôp (một loại nhạc ja)
+
+@becalm  
+*  ngdgt
+- làm yên, làm yên lặng, làm cho êm, làm cho dịu
+- (hàng hải) làn cho (thuyền buồm) đứng yên vì thiếu gió
+
+@became  
+*  (bất qui tắc) ndgt,  became; become
+- trở nên, trở thành
+
++ it has become much warmer: trời trở nên ấm hơn nhiều
+*  ngdgt
+- vừa, hợp, thích hợp, xứng
+
++ this dress becomes you well: cái áo này anh mặc vừa quá; cái áo này anh mặc hợp quá
+
++ it does not become you to curse: chửi rủa là không xứng với anh, chửi rủa là điều anh không nên làm
+!to become of
+- xảy đến
+
++ he has not turned up yet, I wonder what has become of him: anh ấy bây giờ vẫn chưa tới, tôi tự hỏi không hiểu cái gì đã xảy đến với anh ta
+
+@because  
+*  liên từ
+- vì, bởi vì
+!because of
+- vì, do bởi
+
+@bechamel  
+*  dt
+- nước xốt bêsamen
+
+@beck  
+*  dt
+- suối (ở núi)
+*  dt
+- sự vẫy tay, sự gật đầu (ra hiệu)
+!to be at someone's beck and call
+- hoàn toàn chịu sự sai khiến của ai; ngoan ngoãn phục tùng ai
+*  dgt
+- vẫy tay ra hiệu, gật đầu ra hiệu
+
+@beckon  
+*  dgt
+- vẫy tay ra hiệu, gật đầu ra hiệu
+
++ to beckon someone to come nearer: vẫy tay (gật đầu) ra hiệu cho ai đến gần
+
+@becloud  
+*  ngdgt
+- che mây; che, án
+
+@become  
+*  (bất qui tắc) ndgt,  became; become
+- trở nên, trở thành
+
++ it has become much warmer: trời trở nên ấm hơn nhiều
+*  ngdgt
+- vừa, hợp, thích hợp, xứng
+
++ this dress becomes you well: cái áo này anh mặc vừa quá; cái áo này anh mặc hợp quá
+
++ it does not become you to curse: chửi rủa là không xứng với anh, chửi rủa là điều anh không nên làm
+!to become of
+- xảy đến
+
++ he has not turned up yet, I wonder what has become of him: anh ấy bây giờ vẫn chưa tới, tôi tự hỏi không hiểu cái gì đã xảy đến với anh ta
+
+@become
+- trở nên
+ @becoming  
+*  tt
+- vừa, hợp, thích hợp, xứng
+
++ cursing is not becoming to a lady: cái lối chửi rủa là không thích hợp (không xứng) với một người đàn bà tử tế
+
++ a very becoming hat: một cái mũ đội rất vừa
+
+@becquerel
+* dt
+- đơn vị đo phóng xạ trong hệ thống đo lường quốc tế
+ @bed  
+*  dt
+- cái giường
+
++ a single bed: giường một (người)
+
++ a double bed: giường đôi
+- nền
+
++ the machine rests on a bed of concrete: cái máy được đặt trên một nền bê tông
+- lòng (sông...)
+- lớp
+
++ a bed of clay: một lớp đất sét
+- (thơ ca) nấm mồ
+
++ the bed of honour: nấm mồ liệt sĩ
+- (pháp lý) hôn nhân; vợ chồng
+
++ a child of the second bed: đứa con của người vợ (chồng) sau
+!as you make your bed so you must lie upon it
+- (tục ngữ) mình làm mình chịu
+!bed and board
+- sự tiếp đãi
+- quan hệ vợ chồng
+!a bed of roses (down, flowers)
+- luống hoa hồng
+- đời sống sung túc dễ dàng
+!bed of sickness
+- tình trạng bệnh hoạn tàn tật
+!bed of thorns
+- luống gai
+- hoàn cảnh khó khăn; bước đường đầy chông gai
+!to be brought to bed
+- sinh
+
++ she was brought to bed of a son: bà ta sinh một cháu trai
+!to die in one's bed
+- chết bệnh, chết già
+!to get out of bed on the wrong side
+- càu nhàu, bực dọc, cáu kỉnh, không vui
+!go to bed!
+- (từ lóng) thôi đừng nói nữa!, im cái mồm đi!, thôi đi!
+!to go to bed in one's boots
+- đuộc suỳ 5, say không biết trời đất gì cả
+!to go to bed with the lamb and rise with the lark
+- đi ngủ sớm, trở dậy sớm; đi ngủ từ lúc gà lên chuồng; trở dậy từ lúc gà gáy
+!to keep (take to) one's bed
+- bị ốm nằm liệt giường
+!the narrow bed
+- (xem) narrow
+*  ngdgt
+- xây vào, đặt vào, gắn vào, vùi vào, chôn vào
+
++ bricks are bed ded in mortar: gạch xây lẫn vào trong vữa
+
++ the bullet bedded itself in the wall: viên đạn gắn ngập vào trong tường
+- (thường) : out trồng (cây con, cây ươm)
+
++ to bed out some young cabbage plants: trồng mấy cây cải con
+- (thường) : down rải ổ cho ngựa nằm
+- (thơ ca); (từ cổ,nghĩa cổ) đặt vào giường, cho đi ngủ
+*  ndgt
+- (địa lý,địa chất) thành tầng, thành lớp
+- chìm ngập, bị sa lầy
+- (từ cổ,nghĩa cổ) đi ngủ
+
+@bedable  
+*  ngdgt
+- làm bẩn, vấy bẩn
+
+@bedaub  
+*  ngdgt
+- vấy sơn, vấy bẩn, làm lem luốc
+- tô son điểm phấn loè loẹt
+
+@bed-bug  
+*  dt
+- con rệp
+
+@bed-clothes  
+*  dt số nhiều
+- bộ đồ giường (chăn, gối, nệm, khăn trải giường)
+
++ to turn down the bed-clothes: giũ giường
+
+@bedder  
+*  dt
+- người đánh luống
+- cây thích hợp với cách trồng ở luống
+- (từ lóng) buồng ngủ
+
+@bedding  
+*  dt
+- bộ đồ giường (chăn, gối, nệm, khăn trải giường)
+- ổ rơm (cho súc vật)
+- nền, lớp dưới cùng
+- (địa lý,địa chất) sự xếp thành tầng, sự xếp thành lớp
+
+@bedeck  
+*  ngdgt
+- trang hoàng, trang trí; trang điểm
+
++ stress bedecked with flags: phố xá trang hoàng cờ xí
+
+@bedel   (bedell) @bedell   (bedell) @bedevil  
+*  ngdgt
+- hành hạ, làm điêu đứng,áo ngủ (của nữ)
+
+@bedevilment
+* dt
+- sự bị thu mất hồn vía, sự bị ma trêu quỷ ám; sự mất hồn vía
+- sự làm hư, sự làm hỏng; sự làm rối loạn, sự làm bối rối
+ @bedew
+* ngdgt
+- làm ướt đẫm
+ @bedfellow
+* dt
+- bạn cùng giường; người cùng phe
+ @bedgown
+* dt
+- áo ngủ của nữ
+ @bedim  
+*  ngdgt
+- làm cho loà, làm cho mờ (mất trí thông minh)
+
++ eyes bedimmed with tears: mắt mờ lệ
+
+@bedizen  
+*  ngdgt
+- tô son điểm phấn loè loẹt, cho ăn mặc loè loẹt
+
+@bedlam  
+*  dt
+- bệnh viện tinh thần, nhà thương điên
+- cảnh hỗn loạn ồn ào
+
+@bedlamite  
+*  dt
+- người điên
+*  tt
+- điên
+
+@bed-linen
+* dt
+- khăn trải giừơng và áo gối
+ @bedouin  
+*  dt
+- người A-rập du cư
+- người du cư
+
+@bedpan  
+*  dt
+- bô (đi ỉa, đi đái của người ốm)
+
+@bedpost  
+*  dt
+- cột giường
+!berween you and me and the bedpost
+- chỉ có hai ta biết với nhau thôi (chuyện riêng)
+
+@bedrabbled  
+*  tt
+- vấy bùn
+
+@bedraggle  
+*  ngdgt
+- kéo lê làm bẩn (áo, quần...)
+
+@bedrail  
+*  dt
+- thành giường
+
+@bedridden  
+*  tt
+- nằm liệt giường (vì ốm hay tàn tật)
+
+@bed-rock  
+*  dt
+- nền đá; đá gốc, đá móng
+- nền tảng
+!to get down to bed-rock
+- tìm hiểu đến căn nguyên của sự việc
+
+@bedroll  
+*  dt
+- giường xếp
+
+@bedroom  
+*  dt
+- buồng ngủ
+
+@bedside  
+*  dt
+- cạnh giường
+!to sit (watch) at (by) someone's bedside
+- trông nom chăm sóc ai bên giường bệnh
+!to have a good bedside manner
+- ân cần khéo léo đối với người bệnh (y tá, bác sĩ)
+
+@bed-sitter   (bed-sitting-room) @bed-sitting-room   (bed-sitting-room) @bedsore  
+*  dt
+- (y học) chứng thối loét vì nằm liệt giường
+
+@bedspread  
+*  dt
+- khăn trải giường
+
+@bedstead  
+*  dt
+- khung giường
+
+@bedtick  
+*  dt
+- chăn lông phủ giường
+
+@bedtime  
+*  dt
+- giờ đi ngủ
+
+@bed-wetting
+* dt
+- chứng đái dầm
+ @bee  
+*  dt
+- (động vật học) con ong
+
++ to keep bees: nuôi ong
+- nhà thơ
+- người bận nhiều việc
+- (từ Mỹ,nghĩa Mỹ) buổi vui chơi tập thể, buổi lao động tập thể
+!busy as a bee
+- hết sức bận
+!to have a bee in one's bonnet
+- nung nấu trong óc một ý nghĩ gì; có một cái gì ám ảnh trong đầu
+!to have one's head full of bees; to have been in the hesd (brains)
+- ấp ủ trong lòng những mộng tưởng viễn vông
+!to put the bee on
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nài xin, xin lải nhải
+
+@beeb
+* dt
+- Công ty phát thanh Anh quốc (BBC)
+ @beech  
+*  dt
+- (thực vật học) cây sồi
+- gỗ sồi
+
+@beechen  
+*  tt
+- (thuộc) cây sồi
+
+@bee-eater  
+*  dt
+- (động vật học) chim trảu
+
+@beef  
+*  (bất qui tắc) dt,  số nhiều beeves
+- thịt bò
+- (thường) số nhiều bò thịt (để giết ăn thịt)
+- sức mạnh, thể lực; bắp thịt (người)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lời phàn nàn, lời than vãn
+*  dgt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) phàn nàn, than vãn
+- to beef up (từ Mỹ,nghĩa Mỹ),  (quân sự) tăng cường (về quân sự)
+
+@beef cattle  
+*  dt
+- trâu bò vỗ béo (để ăn thịt)
+
+@beef tea  
+*  dt
+- nước thịt bò hầm
+
+@beefburger
+* dt
+- thịt bò băm viên
+ @beefeater  
+*  dt
+- người thích ăn thịt bò
+- người canh gác tháp Luân đôn
+- (từ Mỹ,nghĩa Mỹ) người to béo lực lưỡng
+
+@beefiness  
+*  dt
+- vẻ lực lưỡng, sự có bắp thịt rắn chắc
+
+@beefsteak  
+*  dt
+- thịt bít tết
+
+@beef-witted  
+*  tt
+- ngu đần, ngu như bò
+
+@beefy  
+*  tt
+- lực lưỡng, có bắp thịt rắn chắc
+
+@beehive  
+*  dt
+- tổ ong
+
+@bee-keeper
+* dt
+- người nuôi ong
+ @bee-keeping  
+*  dt
+- sự nuôi ong
+
+@bee-line  
+*  dt
+- đường chim bay
+
+@bee-master  
+*  dt
+- người nuôi ong
+
+@bee-mistress  
+*  dt
+- chị nuôi ong
+
+@been  
+*  (bất qui tắc) ndgt & trợ dgt (số ít was,  số nhiều were,  been)
+- thì, là
+
++ the earth is round: quả đất (thì) tròn
+
++ he is a teacher: anh ta là giáo viên
+- có, tồn tại, ở, sống
+
++ there is a concert today: hôm nay có một buổi hoà nhạc
+
++ are you often in town?: anh thường có ở tỉnh không
+
++ to be or not to be, that is the question: sống hay là chết đây, đó là vấn đề
+- trở nên, trở thành
+
++ they'll be linguists in some years time: vài năm nữa họ sẽ trở thành những nhà ngôn ngữ học
+- xảy ra, diễn ra
+
++ when is the wedding to be: bao giờ đám cưới sẽ cử hành
+- giá
+
++ this book is five pence: cuốn sách này giá năm xu
+- be to phải, định, sẽ
+
++ what time am I to come?: mấy giờ tôi phải đến
+
++ he is to leave for Hanoi tomorrow: ngày mai nó sẽ đi Hà nội
+- (: động tt hiện tại) đang
+
++ they are doing their work: họ đang làm việc của họ
+- (: động tt quá khứ) bị, được
+
++ the boy is scolded by his mother: đứa bé bị mẹ mắng
+
++ the house is being built: ngôi nhà đang được xây
+!to have been
+- đã đi, đã đến
+
++ I've been to Peking once: tôi đã đi Bắc kinh một lần
+
++ has anyone been during my absence?: trong khi tôi đi vắng có ai đến không?
+
++ he's been and took my books: (thông tục) cái thằng ấy đã đến lấy mất sách của mình
+!to be against
+- chống lại
+!to be for
+- tán thành, đứng về phía
+
+@beep
+- (Tech) tiếng bíp (phát từ máy)
+ @beeper
+- (Tech) máy bíp, máy điện liên (liên lạc báo có điện thoại) 
++  pager
+ @beeper box
+- (Tech) máy bíp, điện liên
+ @beer  
+*  dt
+- rượu bia
+!to be in beer
+- ngà ngà say
+!beer and skittles
+- những cái thú vị, những trò giải trí vui chơi
+
++ life is not all beer and skittles: đời không phải lúc nào cũng chỉ giải trí vui chơi
+
+@beer-engine  
+*  dt
+- vòi bia (hơi)
+
+@beer-garden  
+*  dt
+- quán bia giữa trời
+
+@beerhouse  
+*  dt
+- quán bia
+
+@beer-mat
+* dt
+- miếng bìa cứng để lót cốc bia
+ @beery  
+*  tt
+- (thuộc) bia; giống bia
+- sặc mùi bia; chếnh choáng hơi bia
+
++ beery voice: giọng sặc mùi bia
+
+@beestings  
+*  dt số nhiều
+- sữa non của bò mới đẻ
+
+@beeswax  
+*  dt
+- sáp ong ((cũng) wax)
+*  ngdgt
+- đánh sáp (sàn nhà...)
+
+@beeswing  
+*  dt
+- cặn rượu để lâu năm
+- rượu lâu năm
+
+@beet  
+*  dt
+- (thực vật học) cây củ cải đường
+
+@beetle  
+*  dt
+- cái chày
+!between the beetle and the block
+- trên đe dưới búa
+*  ngdgt
+- giã bằng chày, đập bằng chày
+*  dt
+- (động vật học) bọ cánh cứng
+- (thông tục) con gián ((cũng) black beetle)
+- người cận thị
+!blind as beetle; beetle blind
+- mù hoàn toàn
+*  ndgt
+- (từ lóng) đi vội vã, đi tất tưởi ((cũng) beetle along)
+- đi ra, đi chơi ((cũng) beetle off,  away)
+*  ndgt
+- cheo leo, nhô ra (tảng đá)
+- treo trên sợi tóc (số phận)
+*  tt
+- cheo leo, nhô ra (tảng đá)
+- cau lại có vẻ đe doạ (trán, lông mày)
+- rậm như sâu róm (lông mày)
+
+@beetle-brain  
+*  dt
+- người ngu đần, người đần độn
+
+@beetle-browed  
+*  tt
+- cau lông mày lại có vẻ đe doạ
+- có lông mày sâu róm
+
+@beetle-crusher  
+*  dt
+-(đùa cợt) đôi giày to gộc
+- chân bàn cuốc
+
+@beetle-eyed  
+*  tt
+- cận thị
+
+@beetling  
+*  tt
+- cheo leo, nhô ra
+
++ beetling cliffs: vách đá cheo leo
+
+@beetroot
+* dt
+- củ cải đường
+ @beeves  
+*  (bất qui tắc) dt,  số nhiều beeves
+- thịt bò
+- (thường) số nhiều bò thịt (để giết ăn thịt)
+- sức mạnh, thể lực; bắp thịt (người)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) lời phàn nàn, lời than vãn
+*  dgt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) phàn nàn, than vãn
+- to beef up (từ Mỹ,nghĩa Mỹ),  (quân sự) tăng cường (về quân sự)
+
+@beezer  
+*  dt
+- (từ lóng) cái mũi
+
+@befall  
+*  (bất qui tắc) dgt befell; befallen
+- xảy đến, xảy ra
+
++ whatever may befall: dù đã có xảy ra cái gì
+
+@befallen  
+*  (bất qui tắc) dgt befell; befallen
+- xảy đến, xảy ra
+
++ whatever may befall: dù đã có xảy ra cái gì
+
+@befell  
+*  (bất qui tắc) dgt befell; befallen
+- xảy đến, xảy ra
+
++ whatever may befall: dù đã có xảy ra cái gì
+
+@befit  
+*  ngdgt
+- thích hợp, hợp với
+- là nhiệm vụ của
+
+@befitting  
+*  tt
+- thích hợp, hợp với
+- là nhiệm vụ của
+
+@befittingly
+* dt
+- thích hợp, hợp cách
+ @befog  
+*  ngdgt
+- phủ sương mù
+- làm mờ
+
+@before  
+*  dt
+- trước, đằng trước
+
++ to go before: đi trước
+
++ before and behind: đằng trước và đằng sau
+- trước đây, ngày trước
+
++ I have seen this before: trước đây tôi đã thấy cái này rồi
+
++ long before: trước đây đã lâu
+
++ before now: trước đây
+!before long
+- ngay bây giờ, chẳng bao lâu nữa
+
++ I'll be back before long: tôi sẽ trở về ngay bây giờ
+*  giới từ
+- trước, trước mắt, trước mặt
+
++ before Christ: trước công lịch
+
++ the question before us is a very difficult one: vấn đề trước mắt chúng ta là một vấn đề rất khó
+- hơn (về chức vị, khả năng...)
+
++ he is before the other boys in his class: nó khá hơn các học sinh khác trong lớp
+- thà... còn hơn...;
+
++ death before dishonour: thà chết còn hơn chịu nhục
+!to carry all before one
+- (xem) carry
+!to have a whole life before one
+- đời còn dài
+!to sail before the mast
+- (xem) mast
+*  liên từ
+- trước khi
+
++ I must funish my work before I go home: tôi phải làm xong việc trước khi về nhà
+- thà... chứ không...
+
++ he said he would die before he would betray the Party: anh ấy nói thà chết chứ không phản bội đảng
+
+@beforehand  
+*  dt
+- sẵn sàng trước
+
++ to make preparations beforehand: chuẩn bị trước
+!to be beforehand with
+- làm trước, đoán trước, biết trước
+!to be beforehand with the world
+- sẵn tiền
+
+@before-mentioned  
+*  tt
+- đã kể ở trên, đã nói ở trên
+
+@befoul  
+*  ngdgt
+- làm nhơ bẩn, làm nhơ nhuốc (nghĩa đen) & (nghĩa bóng)
+
+@befriend  
+*  ngdgt
+- đối xử tốt, đối xử như bạn; giúp đỡ
+
+@beft
+- đới đai
+- confidence b. đới tin cậy 
+ @befuddle  
+*  ngdgt
+- làm ngớ ngẩn, làm đần độn, làm mụ đi
+
+@beg  
+*  dgt
+- ăn xin, xin
+
++ to beg a meal: xin một bữa ăn
+- cầu xin; đề nghi thiết tha, khẩn cầu
+- xin trân trọng (trong thư giao dịch)
+
++ I beg to inform you: tôi xin trân trọng báo tin để ngài rõ
+
++ I beg to differ: xin phép cho tôi có ý kiến khác
+- đứng lên hai chân sau (chó chầu ăn)
+!to beg a favour of
+- đề nghị (ai) giúp đỡ
+!to beg leave to
+- xin phép
+!to beg off for something
+- xin miễn cho cái gì
+!to beg pardon
+- xin lỗi
+!to beg the question
+- (xem) question
+!to beg somebody off
+- xin ai tha thứ, xin ai miễn thứ
+!to go begging
+- (xem) go
+
+@begad  
+*  thán từ
+- trời ơi! trời đất ơi!
+
+@began  
+*  (bất qui tắc) dgt began 
+@beget  
+*  (bất qui tắc) ngdgt begot; begot,  begotten
+- sinh ra, gây ra
+
++ imperialism begets wars: chủ nghĩa đế quốc sinh ra chiến tranh
+
+@begetter  
+*  dt
+- người gây ra, người sinh ra
+- điều gây ra, điều sinh ra
+
+@beggar  
+*  dt
+- người ăn mày, người ăn xin
+- (thông tục) gã, thằng, thằng cha
+
++ you little beggar!: a, thằng ranh con
+!beggars must (should) be no choosers
+- ăn mày còn đòi xôi gấc
+!to know something as well as a beggar knows his bag
+- (xem) know
+*  ngdgt
+- làm nghèo đi, làm khánh kiệt
+- (nghĩa bóng) vượt xa; làm cho thành bất lực
+!to beggar description
+- (xem) description
+
+@beggardom  
+*  dt
+- giới ăn mày, những người ăn mày
+- cảnh ăn mày, tình trạng ăn mày
+
+@beggarliness  
+*  dt
+- tình trạng nghèo nàn cơ cực
+- sự dốt nát thảm hại
+- sự ti tiện, sự đê tiện
+
+@beggarly  
+*  tt & dt
+- nghèo nàn, cơ cực; ăn mày, ăn xin
+
++ beggarly wages: đồng lương chết đói
+- dốt nát thảm hại (trí óc)
+- ti tiện, đê tiện
+
+@Beggar-my neighbour policies
+- (Econ) Chính sách làm nghèo nước láng giềng
+: Những biện pháp kinh tế mà một nước thực hiện nhằm cải thiện tình hình trong nước, thường là giảm thất nghiệp và có những tác động bất lợi với các nền kinh tế khác.
+ @beggary  
+*  dt
+- cảnh nghèo khó xác xơ; cảnh ăn mày, cảnh ăn xin
+
+@begin  
+*  (bất qui tắc) dgt began 
+@begin block
+- (Tech) khối bắt đầu
+ @begin column
+- (Tech) cột bắt đầu
+ @begin window
+- (Tech) bắt đầu cửa xổ [NB]
+ @beginner  
+*  dt
+- người bắt đầu; người mới học; người mới ra đời; người mới vào nghề
+
+@beginning  
+*  dt
+- phần đầu; lúc bắt đầu, lúc khởi đầu
+
++ from beginning to end: từ đầu đến cuối
+- căn nguyên, nguyên do
+
++ we missed the train and that was the beginning of all our troubles: chúng tôi nhỡ chuyến xe lửa và đó là nguyên do của tất cả những sự khó khăn rầy rà của chúng tôi
+!to good beginning is half the battle
+- (xem) battle
+!a good beginning makes a good ending
+- (tục ngữ) đầu xuôi đuôi lọt
+!the beginning of the end
+- bắt đầu của sự kết thúc
+
+@begird  
+*  (bất qui tắc) ngdgt begirt 
+@begirt  
+*  (bất qui tắc) ngdgt begirt 
+@begone  
+*  thán từ
+- đi!, xéo!, cút!
+
+@begonia  
+*  dt
+- (thực vật học) cây thu hải đường
+
+@begorra
+- interj
+- có Chúa chứng giám!
+ @begot  
+*  (bất qui tắc) ngdgt begot; begot,  begotten
+- sinh ra, gây ra
+
++ imperialism begets wars: chủ nghĩa đế quốc sinh ra chiến tranh
+
+@begotten  
+*  (bất qui tắc) ngdgt begot; begot,  begotten
+- sinh ra, gây ra
+
++ imperialism begets wars: chủ nghĩa đế quốc sinh ra chiến tranh
+
+@begrime  
+*  ngdgt
+- làm nhọ nhem
+
+@begrudge  
+*  ngdgt
+- ghen tị
+- bất đắc dĩ phải, miễn cưỡng phải (làm cái gì, cho cái gì)
+
++ to begrudge doing something: bất đắc dĩ phải làm cái gì
+
+@begrudgingly
+* dt
+- ghen tị, thèm muốn
+ @beguile  
+*  ngdgt
+- làm tiêu khiển, làm khuây đi, làm cho qua đi (thời gian, một cuộc hành trình...)
+
++ they beguiled the tedious evening with music: họ nghe nhạc cho khuây cái buổi tối buồn tẻ
+- đánh lừa, lừa dối
+
++ to beguile someone [out] of something: đánh lừa ai để lấy cái gì
+
++ to beguile something into doing something: lừa ai làm gì
+
+@beguilement  
+*  dt
+- sự tiêu khiển, sự làm khuây đi, sự làm cho qua đi (thời gian...)
+- sự đánh lừa, sự lừa dối
+
+@beguiling
+* tt
+- lý thú, hấp dẫn
+ @beguilingly
+* dt
+- lý thú, hấp dẫn
+ @begum
+* dt
+- người đàn bà Hồi giáo thuộc đẳng cấp thượng lưu
+ @begun  
+*  (bất qui tắc) dgt began 
+@behalf  
+*  dt
+- on (in) behalf of thay mặt cho, nhân danh
+
++ on behalf of my friends: thay mặt cho các bạn tôi, nhân danh cho các bạn tôi
+
++ on my behalf: nhân danh cá nhân tôi
+
+@behave  
+*  dgt
+- ăn ở, đối xử, cư xử
+
++ to behave kindly towards someone: đối xử tốt với ai
+!to behave oneself
+- cư xử (ăn ở) cho phải phép
+
++ he does not know how to behave himself: nó không biết cách ăn ở (cho phải phép)
+- chạy (máy móc...)
+
++ how is new watch behaving?: cái đồng hồ đeo tay mới của anh chạy như thế nào?
+
+@behave
+- (Tech) chạy, vận hành (máy) 
++  run
+ @behavior
+- (Tech) cách xử lý, chế độ; hành vi, trạng thái
+ @behaviour  
+*  dt
+- thái độ, cách đối xử; cách cư xử, cách ăn ở; tư cách đạo đức
+
++ good behaviour: tư cách đạo đức tốt
+- cách chạy (máy móc); tác động (chất...)
+!to be one's good (best) behaviour
+- gắng có thái độ tốt, gắng đối xử tốt; hết sức thận trọng giữ gìn trong cách đối xử sao cho đúng đắn
+!to put someone on his best behaviour
+- tạo điều kiện cho ai có thể tu tỉnh lại
+
+@behaviour
+- dáng điệu; cách xử lý, chế độ
+- asymptoic(al) b.(giải tích) dáng điệu tiệm cận 
+- boundary b. dáng điệu ở biên
+- expectation b. (xác suất) dáng điệu trung bình
+- goal-seeking b.(điều khiển học) dáng điệu hướng đích 
+- linear b. dáng điệu tuyến tính
+- transient b. chế độ chuyển tiếp 
+ @behavioural
+* tt
+- thuộc về cách cư xử
+ @behavioural
+- (thuộc) dáng điệu
+ @Behavioural equation
+- (Econ) Phương trình về hành vi
+: Một mối quan hệ toán học trong một mô hình kinh tế hay kinh tế lượng, phản ánh sự phản ứng của một cá nhân hay một tập hợp các cá nhân đối với các khuyến khích kinh tế (ví dụ HÀM TIÊU DÙNG).
+ @Behavioural expectations
+- (Econ) Kỳ vọng dựa trên hành vi.
+: Một quan điểm về sự hình thành các kỳ vọng dựa trên các yếu tố tâm lý và xã hội.
+ @Behavioural theories of the firm
+- (Econ) Các lý thuyết dựa trên hành vi về hãng; lý thuyết về hãng dựa trên hành vi.
+: Một nhóm các lý thuyết coi hãng như một liên minh của các phân nhóm mà mục đích của chúng vốn dĩ mâu thuẫn nhau. Xem XEFFICIENCY.
+ @behaviourism  
+*  dt
+- (triết học) chủ nghĩa hành vi
+
+@behead  
+*  ngdgt
+- chặt đầu, chém đầu
+
+@beheld  
+*  (bất qui tắc) ngdgt beheld 
+@behemoth  
+*  dt
+- con vật kếch xù
+
+@behest  
+*  dt
+- (thơ ca) chỉ thị, mệnh lệnh ((từ cổ,nghĩa cổ) (cũng) hest)
+
+@behind  
+*  dt
+- sau, ở đằng sau
+
++ to stay behind: ở lại đằng sau
+
++ to fall behind: rớt lại đằng sau
+
++ to look behind: nhìn lại đằng sau
+- chậm, trễ
+
++ to be behind with (in) one's work: chậm trễ trong công việc
+
++ to be behind with (in) one's payments: thanh toán chậm
+*  giới từ
+- sau, ở đằng sau
+
++ behind the door: đằng sau cửa
+
++ to do something behind someone's back: làm cái gì sau lưng ai
+
++ behind the scenes: (nghĩa bóng) ở hậu trường, kín, bí mật
+
++ behind time: chậm giờ, muộn, trễ
+- kém
+
++ he is behind other boys of his class: nó kém những trẻ khác cùng lớp
+!behind the times
+- cũ rích, cổ lỗ
+!to go behind someone's words
+- tìm hiểu động cơ của ai, tìm hiểu ẩn ý của ai
+*  dt
+- (thông tục) mông đít
+
+@behindhand  
+*  tt & dt
+- muộn, chậm; sau những người khác
+
++ to be behindhand with his payments: chậm trễ trong việc thanh toán
+- thiếu; kém
+
++ not to be behindhand with anybody in enhusiasm: nhiệt tình không thua kém ai
+
+@behold  
+*  (bất qui tắc) ngdgt beheld 
+@beholden  
+*  tt
+- chịu ơn
+
++ I am much beholden to you for your kind help: tôi chịu ơn anh nhiều về sự giúp đỡ của anh
+
+@beholder  
+*  dt
+- người xem, người ngắm; khán giả
+- người chứng kiến, người được mục kích
+
+@behoof  
+*  dt
+- (từ cổ,nghĩa cổ) on (for,  to) someone's vì lợi ích của ai, cho ai sử dụng
+
+@behoove   (behove) @behove   (behove) @beige  
+*  dt
+- vải len mộc
+- màu be
+
+@be-in
+* dt
+- giải trí có đi dạo
+- cuộc họp (thường) là của phái hip-pi
+ @being  
+*  dt
+- sinh vật; con người
+
++ human being: con người
+- sự tồn tại; sự sống
+
++ in being: tồn tại; sống
+- bản chất; thể chất (con người)
+!to come into being
+- (xem) come
+!the Supreme Being
+- đấng chí tôn Thượng đế
+*  tt
+- hiện tại, hiện nay, này
+
++ for the time being: trong thời gian hiện nay, trong thời gian này
+
+@bejewelled
+* tt
+- được trang trí hoặc tô điểm bằng đồ châu báu
+ @bel
+- (Tech) ben (đơn vị tỉ lệ công suất theo thang đồi số)
+ @BEL
+- (Tech) ký tự tiếng chuông
+ @belabour  
+*  ngdgt
+- đánh nhừ tử, nện một trận nên thân (nghĩa đen) & bóng
+
+@belaid  
+*  (bất qui tắc) ngdgt belayed,  belaid
+- cột (thuyền) lại; cắm (thuyền) lại
+
++ belaying pin: cọc (để) cắm thuyền
+*  thán từ
+- (hàng hải) (từ lóng) đứng lại!; được rồi
+
+@belated  
+*  tt
+- đến muộn, đến chậm
+- bị tối bất chợt (khách đi đường...)
+
+@belatedly
+* dt
+- chậm, muộn
+ @belaud  
+*  ngdgt
+- hết lời ca ngợi, hết lời tán dương
+
+@belay  
+*  (bất qui tắc) ngdgt belayed,  belaid
+- cột (thuyền) lại; cắm (thuyền) lại
+
++ belaying pin: cọc (để) cắm thuyền
+*  thán từ
+- (hàng hải) (từ lóng) đứng lại!; được rồi
+
+@belch  
+*  dt
+- sự ợ
+- sự phun lửa, sự bùng lửa
+- tiếng súng; tiếng núi lửa phun
+*  dgt
+- ợ
+- phun ra (khói, lửa, đạn, lời chửi rủa, lời nói tục...)
+
++ a volcano belches smoke and ashes: núi lửa phun khói và tro
+
+@belcher  
+*  dt
+- khăn quàng hai màu
+
+@beldam   (beldame) @beldame   (beldame) @beleaguer  
+*  ngdgt
+- vây, bao vây
+
+@belemnite  
+*  dt
+- (địa lý,địa chất) con tên đá (động vật hoá thạch)
+
+@belfry  
+*  dt
+- tháp chuông
+!to have bays in one's belfry
+- (xem) bat
+
+@belgian  
+*  tt
+- (thuộc) Bỉ
+*  dt
+- người Bỉ
+
+@belie  
+*  ngdgt
+- gây một ấn tượng sai lầm; làm cho nhầm
+
++ his manners belie his true character: thái độ cử chỉ của anh ta làm cho người ta có một ấn tượng sai lầm về tính tình thực của anh
+- không làm đúng với (lời hứa...), không giữ (lời hứa)
+
++ to belie one's promise: không giữ lời hứa
+- nói ngược lại, làm trái lai; chứng tỏ là sai
+
++ acts belie words: lời nói và việc làm trái nhau, lời nói và việc làm không đi đôi với nhau
+- không thực hiện được (hy vọng...)
+
+@belief  
+*  dt
+- lòng tin, đức tin; sự tin tưởng
+
++ to have belief in something: tin tưởng ở cái gì
+
++ to have belief in somebody: tin tưởng ở ai
+- tin tưởng
+
++ freedom of belief: tự do tín ngưỡng
+!to be beyond (past) belief
+- không thể tin được
+!to the best of my belief
+- theo sự hiểu biết chắc chắn của tôi, theo chỗ tôi biết một cách chính xác
+!it stahherst belief
+- khó mà tin được
+
+@belief revision
+- (Tech) duyệt lại tín nhiệm (trí năng nhân tạo)
+ @believable  
+*  tt
+- có thể tin được
+
+@believably
+* dt
+- đáng tin
+ @believe  
+*  dgt
+- tin, tin tưởng
+
++ to believe in something: tin tưởng ở ai
+- cho rằng, nghĩ rằng
+
++ I believe him to be sincere: tôi cho rằng nó thành thật
+!to make believe
+- làm ra vẻ, giả vờ
+
+@believer  
+*  dt
+- người tin, tín đồ
+
+@belike  
+*  dt
+- (từ cổ,nghĩa cổ) có lẽ, không chừng
+
+@belisha beacon
+* dt
+- cột có ánh sáng màu da cam nháy sáng ở đỉnh, đánh dấu chỗ vượt qua đường của người đi bộ
+ @belittle  
+*  ngdgt
+- làm bé đi, thu nhỏ lại
+- làm giảm giá trị
+- coi nhẹ, xem thường
+
+@belittlement
+* dt
+- sự xem nhẹ, sự xem thường
+ @belittling
+* tt
+- làm giảm uy tín, làm giảm giá trị
+ @bell  
+*  dt
+- cái chuông; nhạc (ở cổ ngựa...)
+- tiếng chuông
+- (thực vật học) tràng hoa
+- (địa lý,địa chất) thể vòm
+!to bear the bell
+- giữ vai trò phụ trách, giữ vai trò lãnh đạo, ở địa vị hàng đầu
+!to bear (carry) away the bell
+- chiếm giải nhất trong cuộc thi
+!to lose the bell
+- thất bại trong cuộc thi
+!to ring the bell
+- rung chuông
+- (thực vật học) tiến bộ, đạt được những kết quả tốt
+!to ring one's own bell
+- tự mình làm quảng cáo cho mình, tự mình khua chuông gõ mõ cho mình
+*  ngdgt
+- buộc chuông vào, treo chuông vào
+!to bell the cat
+- đứng mũi chịu sào; giơ đầu chịu báng
+*  dt
+- tiếng kêu động đực (hươu nai)
+*  ndgt
+- kêu, rống (hươu nai động đực)
+
+@bell
+- (Tech) chuông
+ @bell captain
+* dt
+- người trực tầng ở khách sạn, câu lạc bộ (để khuân hành lý, mở cửa...)
+ @belladonna  
+*  dt
+- (thực vật học) cây benlađôn, cây cà dược
+
+@bell-bottomed
+* tt
+- (nói về quần) ống loe
+ @bell-bottoms
+* dt
+- quần ống loe
+ @bell-bouy  
+*  dt
+- (hàng hải) phao chuông
+
+@bell-boy   (call-boy) @bell-buoy
+* dt
+- <hải> phao chuông
+ @belle  
+*  dt
+- người đàn bà đẹp nhất, hoa khôi
+
+@belles-lettres  
+*  dt số nhiều
+- văn chương
+
+@belletrist  
+*  dt
+- nhà văn; nhà văn học
+
+@belletristic  
+*  tt
+- (thuộc) văn chương
+
+@bell-flower  
+*  dt
+- (thực vật học) giống cây hoa chuông
+
+@bell-glass  
+*  dt
+- chuông thuỷ tinh (để chụp cây thí nghiệm...)
+
+@bell-hop  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) (như) bell-boy
+
+@bellicose  
+*  tt
+- hiếu chiến, thích đánh nhau, hay gây gỗ
+
+@bellicosity  
+*  dt
+- tính hiếu chiến, tính thích đánh nhau, tính hay gây gỗ
+
+@bellied
+* tt
+ @belligerence   (belligerency) @belligerency   (belligerency) @belligerent  
+*  tt
+- tham chiến
+
++ belligerent powers: các cường quốc tham chiến
+*  dt
+- nước tham chiến; người tham chiến; phía tham chiến
+
+@bell-mouthed  
+*  tt
+- loe miệng
+
+@bellow  
+*  dt
+- tiếng bò rống; tiếng kêu rống lên (vì đau đớn...)
+- tiếng gầm vang (sấm, súng)
+
+@bellows  
+*  dgt
+- kêu; rống (như bò)
+- gầm vang (sấm, súng)
+*  dt số nhiều
+- ống bể, ống thổi
+
++ a pair of bellows: bễ (lò rèn)
+- ống gió (đàn đạp hơi)
+- phần xếp (của máy ảnh)
+- phổi
+
+@bell-pull  
+*  dt
+- dây chuông
+
+@bell-push  
+*  dt
+- nút chuông (chuông điện)
+
+@bell-ringer  
+*  dt
+- người kéo chuông (ở nhà thờ)
+
+@bell-ringing
+* dt
+- sự kéo chuông nhà thờ
+ @bell-shaped  
+*  tt
+- hình chuông
+
+@bell-shaped
+- hình quả chuông
+ @bell-tent
+* dt
+- lều có cọc đỡ ở giữa và có hình quả chuông
+ @bell-wether  
+*  dt
+- cừu đầu đàn có đeo chuông
+- đấu bò
+
+@belly  
+*  dt
+- bụng; dạ dày
+
++ with an empty belly: bụng đói
+
++ to be belly pinched: kiến bò bụng, đói
+- bầu (bình, lọ); chỗ khum lên (mặt đàn viôlông), chỗ phồng ra (buồm)
+!a hungry belly has no ears
+- (tục ngữ) bụng đói thì tai điếc
+*  dgt
+- (thường) : out phồng ra (cánh buồm...)
+
+@belly-ache  
+*  dt
+- (thông tục) bệnh đau bụng
+*  ndgt
+- (từ lóng) rên rỉ, than van
+
+@bellyache
+* dt
+- <thgt> bệnh đau bụng
+* ndgt
+- <lóng> rên rỉ, than van
+ @belly-band  
+*  dt
+- đai buộc bụng (ngựa)
+
+@belly-button
+* dt
+- cái rốn
+ @bellybutton
+* dt
+- <khngu> [lỗ] rốn (ở bụng)
+ @belly-dance
+* dt
+- điệu múa bụng
+ @belly-dancer
+* dt
+- người múa bụng
+ @belly-flop
+* dt
+- cú nhảy xuống nước một cách vụng về, bụng đập lên mặt nước gần như nằm ngang
+ @bellyful  
+*  dt
+- bụng (đầy)
+- sự chán ngấy
+
++ to have one's bellyful of...: chán ngấy...
+
+@belly-laugh
+* dt
+- tiếng cười to
+ @belly-timber  
+*  dt
+- thức ăn
+
+@belly-worship  
+*  dt
+- sự tham ăn, sự thờ thần khẩu
+
+@belong  
+*  ndgt
+- thuộc về, của, thuộc quyền sở hữu
+
++ the power belongs to the people: chính quyền thuộc về tay nhân dân
+- thuộc vào (chỗ nào), ở (chỗ nào)
+
++ where do these things belong?: những thứ này để vào chỗ nào?
+
++ where it belongs: đúng chỗ
+
++ to belong in: (từ Mỹ,nghĩa Mỹ) ở chỗ nào
+
++ to belong here: là người; ở đây; ở đúng ngay dưới đầu đề này
+- thuộc về bổn phận của, là việc của; có liên quan tới
+
++ it belongs to you investigate the matter: bổn phận của anh là phải điều tra vấn đề
+- thuộc vào loại
+
++ whales belong among the mammals: cá voi thuộc loài có vú
+- là hội viên của
+!to belong together
+- ăn ý nhau, hợp tính hợp tình với nhau
+!to belong with
+- có quan hệ với, liên quan với
+
+@belong
+- thuộc về
+ @belongings  
+*  (bất qui tắc) dt số nhiều
+- của cải; đồ dùng; đồ đạc, hành lý (của ai)
+- bà con họ hàng (của ai)
+- những cái đó liên quan (tới một vấn đề gì)
+
+@beloved  
+*  tt
+- được yêu mến, được yêu quý
+
++ beloved of all: được mọi người yêu mến
+*  dt
+- người yêu dấu; người yêu quý
+
++ my beloved: người yêu dấu của tôi
+
+@below  
+*  dt
+- ở dưới, ở bên dưới, ở dưới thấp, ở phía dưới
+
++ as it will be said below: như sẽ nói ở dưới đây
+
++ the court below: toà án dưới
+*  giới từ
+- dưới, ở dưới, thấp hơn
+
++ ten degrees below 0: mười độ dưới 0
+
++ the average: dưới trung bình
+
++ the horizon: dưới chân trời
+- không xứng đáng; không đáng phải quan tâm
+
++ to be below someone's hope: không xứng đáng với sự mong đợi của ai
+!below the mark
+- (xem) mark
+!belong par
+- (xem) par
+
+@below
+- dưới
+ @belt  
+*  dt
+- dây lưng, thắt lưng
+- dây đai (đeo gươm...)
+- dây curoa
+- vành đai
+!to hit below the belt
+- (xem) hit
+!to tighten one's belt
+- (xem) tighten
+*  ngdgt
+- đeo thắt lưng; buộc chặt bằng dây lưng
+- quật bằng dây lưng
+- đeo vào dây đai (gươm...)
+- đánh dấu (cừu...) bằng đai màu
+
+@belt
+- (Tech) vòng đai, thắt lưng
+ @beltane  
+*  dt
+- (sử học) ngày hội mồng 1 tháng 5 (theo kiểu cổ)
+
+@belting
+* dt
+- trận đòn
+ @belt-line  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) đường xe điện vành đai (vòng quanh thành phố)
+
+@belvedere  
+*  dt
+- tháp lầu
+
+@bemire  
+*  dgt
+- bôi bùn; vấy bùn
+- bị sa lầy
+
+@bemoan  
+*  ngdgt
+- than khóc, nhớ tiếc (ai, cái gì)
+
+@bemuse  
+*  ngdgt
+- làm sửng sốt, làm kinh ngạc; làm điếng người
+
+@ben
+* dt
+- đỉnh núi
+ @bench  
+*  dt
+- ghế dài
+
++ park benches: ghế ở công viên
+- bàn (của thợ mộc, thợ đóng giày)
+- ghế ngồi của quan toà; toà án
+
++ to be raised to the bench: được bổ nhiệm làm quan toà; được phong làm giám mục
+
++ to be on the bench: làm quan toà; làm giám mục
+
++ the bench and the bar: quan toà và luật sư
+- ghế ngồi ở nghị viện Anh (của từng nhóm)
+
++ bishops' bench: ghế ngồi của các giám mục (trong nghị viện Anh)
+*  dt
+- cuộc trưng bày, cuộc triển lãm (chó)
+*  ngdgt
+- trưng bày, triển lãm (chó)
+
+@bench dog  
+*  dt
+- chó trưng bày, chó triển lãm
+
+@benchmark
+- (Tech) tiêu chuẩn, cơ chuẩn; điểm chuẩn, điểm mốc; kiểm chuẩn
+ @benchmark program
+- (Tech) chương trình kiểm chuẩn
+ @benchmark test
+- (Tech) thử chuẩn, kiểm chuẩn
+ @bend  
+*  dt
+- chỗ uốn, chỗ cong; chỗ rẽ
+
++ a bend in the road: chỗ đường cong
+- khuỷ (tay, chân)
+- (hàng hải) chỗ nối (hai đầu dây); chỗ thắt nút
+- the bends (thông tục) bệnh khí ép, bệnh thợ lặn
+*  dgt
+- cúi xuống; cong xuống; uốn cong, làm cong
+
++ to bend the knees: cong đầu gối
+
++ to be bent with age: còng lưng vì tuổi gia
+- rẽ, hướng; hướng về, dồn về
+
++ the road bends to the left here: ở chỗ này con đường rẽ về tay trái
+
++ to bend one's steps towards home: hướng bước về nhà
+
++ to bend all one's energies to that one aim: hướng (dồn) tất cả nghị lực cho mục đích duy nhất ấy
+- khuất phục, bắt phải theo
+
++ to bend someone's to one's will: bắt ai phải theo ý muốn của mình
+!to be bent on
+- nhất quyết
+
+@bend
+- (Tech) khuỷu; chỗ uốn; độ uốn; uốn (d)
+ @bend
+- uốn cong
+ @bender  
+*  dt
+- (từ lóng) bữa chén linh đình, bữa chén say sưa
+
++ to go on a bender: chè chén linh đình, ăn uống say sưa
+
++ to go on a bender: say sưa
+- đồng sáu xu (nửa silinh)
+
+@bending
+- sự uốn
+- pure b. sự uốn thuần tuý (của dầm) 
+ @bendy
+* tt
+- (nói về đường sá) quanh co khúc khủyu
+- mềm dẻo, dễ uốn
+ @beneath  
+*  dt
+- ở dưới thấp, ở dưới
+*  giới từ
+- ở dưới; kém, thấp kém
+
++ the tress: dưới hàng cây
+
++ beneath our eyes: dưới con mắt chúng ta
+
++ as a musician, he is far beneath his brother: là nhạc sĩ thì nó kém anh xa
+- không đáng, không xứng
+
++ beneath notice: không đáng chú ý
+
++ beneath contempt: không đáng để cho người ta khinh, khinh cũng không đáng
+
+@benedick  
+*  dt
+- người mới cưới vợ
+
+@benedictine  
+*  dt
+- thầy tu theo dòng thánh Bê-nê-đích
+- rượu ngọt bênêđictin
+
+@benediction  
+*  dt
+- lễ giáng phúc
+- lộc trời, ơn trời
+- câu kinh tụng trước bữa ăn
+
+@benedictory  
+*  tt
+- (thuộc) sự giáng phúc
+
+@benefaction  
+*  dt
+- việc thiện, việc nghĩa
+- vật cúng vào việc thiện
+
+@benefactor  
+*  dt
+- người làm ơn; ân nhân
+- người làm việc thiện
+
+@benefactress  
+*  dt
+- người làm ơn; ân nhân (đàn bà)
+- người làm việc thiện (đàn bà)
+
+@benefice  
+*  dt
+- (tôn giáo) tiền thu nhập
+- tài sản (của các cha cố)
+
+@beneficence  
+*  dt
+- tt thiện, từ tâm; tính hay thương người
+- việc thiện, việc làm phúc
+
+@beneficent  
+*  tt
+- hay làm phúc, hay làm việc thiện, từ thiện, từ tâm, thương người
+- tốt; có lợi
+
++ a beneficent influence: ảnh hưởng tốt
+
+@beneficently  
+*  dt
+- hay làm phúc, từ thiện, từ tâm, thương người
+
+@beneficial  
+*  tt
+- có ích; có lợi; tốt
+- (pháp lý) sinh hoa lợi (tài sản)
+
+@beneficially
+* dt
+- hữu ích, ích lợi
+ @beneficiary  
+*  dt
+- người hưởng hoa lợi; cha cố giữ tài sản của nhà chung
+
+@benefit  
+*  dt
+- lợi, lợi ích
+
++ for special benefit of: vì lợi ích riêng của;
+
++ the book is of much benefit to me: quyển sách giúp ích tôi rất nhiều
+- buổi biểu diễn; trận đấu (lấy tiền ủng hộ, tương tế) ((cũng) benifit night; benifit match)
+- tiền trợ cấp, tiền tuất
+
++ death benefit: tiền trợ cấp ma chay
+
++ matermity benefit: tiền trợ cấp sinh đẻ
+- phúc lợi
+
++ medical benefit: phúc lợi về y tế
+- (pháp lý) đặc quyền tài phán (không bị toà án thường xử, đối với cha cố...)
+!to give somebody the benefit of the doubt
+- vì còn nghi ngờ nên không buộc tội cho ai
+*  ngdgt
+- giúp ích cho, làm lợi cho
+*  ndgt
+- được lợi, lợi dụng
+
++ to benefit by something: lợi dụng cái gì
+
+@Benefit principle
+- (Econ) Nguyên tắc đánh thuế theo lợi ích.
+: Một lý thuyết truyền thống về ĐÁNH THUẾ cho rằng gánh nặng về thuế nên được phân bổ giữa những người trả thuế theo lợi ích mà họ nhận được từ việc cung cấp hàng hoá công cộng.
+ @benefit-club   (benefit-club) @Benefit-cost analysis
+- (Econ) Phân tích lợi ích chi phí.
+: Xem COST-BENEFIT ANALYSIS.
+ @Benefit-cost ratio
+- (Econ) Tỷ số chi phí-lợi ích.
+: Xem COST-BENEFIT ANALYSIS.
+ @benefit-society   (benefit-club) @Benelux Economic Union
+- (Econ) Liên minh kinh tế Benelux.
+: Một liên minh về hải quan ban đầu được thiết lập do công ước vào năm 1932 giữa chính phủ BỈ,Luých Xăm Bua và Hà Lan. Tổ chức hiện tại được thành lập theo hiệp định liên minh kinh tế  Benelux vào năm 1958.
+ @benevolence  
+*  dt
+- lòng nhân từ, lòng nhân đức, lòng từ thiện
+- tính rộng lượng
+
+@benevolent  
+*  tt
+- nhân từ, nhân đức, từ thiện, thương người
+- rộng lượng
+
+@benevolently
+* dt
+- nhân hậu, nhân từ
+ @bengal  
+*  tt
+- (thuộc) Băng-gan
+
+@bengal light  
+*  dt
+- pháo hoa; pháo hiệu
+
+@bengalee  
+*  tt
+- (thuộc) Băng-gan
+*  dt
+- người Băng bõi qữa tiếng Băng bõi ửa[bi'naitid]
+*  tt
+- bị lỡ độ đường (vì đêm tối)
+- (nghĩa bóng) bị giam hãm trong vòng đen tối; dốt nát
+
+@benifit
+- quyền lợi, lợi ích; (toán kinh tế) lãi
+- insurance b. kt (tiền) trợ cấp bảo hiểm 
+ @benighted  
+*  tt
+- bị lỡ độ đường (vì đêm tối)
+- (nghĩa bóng) bị giam hãm trong vòng đen tối; dốt nát
+
+@benign   (benignant) @benignancy   (benignancy) @benignant   (benignant) @benignity   (benignancy) @benignly
+* dt
+- nhân từ, nhân hậu, tử tế
+ @benison  
+*  dt
+- (từ cổ,nghĩa cổ) sự ban ơn, sự ban phúc
+
+@benjamin  
+*  dt
+- (như) benzoin
+- con bé, con út
+- đứa bé kháu khỉnh
+!benjamin's mess
+- phần chia hậu hĩ (cho con út)
+
+@bent  
+*  dt
+- khiếu, sở thích; xu hướng, khuynh hướng
+
++ to have a natural bent for foreign languages: có khiếu về ngoại ngữ
+!to follow one's bent
+- theo những năng khiếu của mình
+!to the top of one's bent
+- thoả chí, thoả thích
+*  dt
+- (thực vật học) cỏ ống
+- (thực vật học) cỏ mần trầu
+- bãi cỏ
+*  thời quá khứ & động tt quá khứ của bend
+
+@benthamism  
+*  dt
+- thuyết Ben-tam, thuyết vị lợi
+
+@benthamite  
+*  dt
+- người vị lợi
+
+@Bentham,Jeremy
+- (Econ) 1748-Một nhà khoa học xã hội người anh
+ @benthos  
+*  dt
+- (sinh vật học) sinh vật đáy
+
+@benumb  
+*  ngdgt
+- làm cho cóng
+
++ his hands were benumbed with (by) cold: tay anh ấy bị rét cóng
+- làm cho mụ (trí óc); làm tê liệt (sự hoạt động)
+
+@benzedrine  
+*  dt
+- (y học) Benzêđrin
+
+@benzene  
+*  dt
+- (hoá học) Benzen ((cũng) benzol)
+- (thương nghiệp) (như) benzine
+
+@benzine  
+*  dt: (benzoline) 
+@benzoate  
+*  dt
+- (hoá học) benzoat
+
+@benzoic  
+*  tt
+- (hoá học) benzoic
+
++ benzoic acid: axit benzoic
+
+@benzoin  
+*  dt
+- cánh kiến trắng, an tức hương
+
+@benzol  
+*  dt
+- (hoá học) Benzen ((cũng) benzene)
+
+@benzoline  
+*  dt: (benzoline) 
+@bequeath  
+*  ngdgt
+- để lại (bằng chúc thư)
+- truyền lại (cho đời sau)
+
+@bequest  
+*  dt
+- sự để lại (bằng chúc thư)
+- vật để lại (bằng chúc thư)
+
+@berate  
+*  ngdgt
+- mắng mỏ, nhiếc móc
+
+@berberis   (barberry) @bere  
+*  dt
+- (thực vật học) lúa mạch
+
+@bereave  
+*  (bất qui tắc) ngdgt bereaved 
+@bereaved
+* dt
+- gia quyến của người quá cố, tang quyến
+ @bereavement  
+*  dt
+- sự mất, sự tổn thất (khi bà con hay bạn bè mất đi)
+
+@bereft  
+*  (bất qui tắc) ngdgt bereaved 
+@beret  
+*  dt
+- núi băng
+
+@berg  
+*  dt
+- (Nam phi) núi, đồi
+
+@bergamot  
+*  dt
+- cam becgamôt
+- lê becgamôt
+- rau thơm becgamôt
+- dầu thơm becgamôt
+
+@Bergsonnian Social Walfare Funtion
+- (Econ) Hàm phúc lợi xã hội Bergson
+: HÀM PHÚC LỢI XÃ HỘI Bergson là một hàm giá trị thực mà biến số của nó bao gồm các đại lượng thể hiện các mặt khác nhau của tình trạng xã hội, thường là đo độ thoả dụng của mỗi cá nhân hay mỗi hộ gia đình.
+ @berhyme  
+*  ngdgt
+- đặt thành vấn đề, đặt thành thơ
+- châm biếm
+
+@beriberi  
+*  dt
+- (y học) bệnh tê phù, bệnh bêribêri
+
+@bernicle goose   (bernicle_goose) @Bernoulli Hypothesis
+- (Econ) Giả thuyết Bernoulli.
+: Daniel Bernoulli là một nhà toán học thế kỷ XIX đã đưa ra một lời giải cho một  nghịch lý được ca ngợi. Bài toán này là một trong số các bài toán giải thích tại sao các cá nhân sẽ không trả một khoản cực lớn để chơi trò chơi xấp ngửa của một đồng xu.
+ @berried  
+*  tt
+- (thực vật học) có quả mọng
+- có trứng (tôm)
+
+@berry  
+*  dt
+- (thực vật học) quả mọng
+- hột (cà phê...)
+- trứng cá, trứng tôm
+
++ hen-lobster in berry: con tôm hùm có trứng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đồng đô la
+*  ndgt
+- có quả mọng
+- hái quả mọng
+
+@berserk
+* tt
+- nổi quạu, cáu tiết
+ @berth  
+*  dt
+- giường ngủ (trên tàu thuỷ hoặc xe lửa)
+- chỗ tàu có thể bỏ neo, chỗ tàu đậu ở bến
+- (thực vật học) địa vị, việc làm
+!to fall into a good (nice) berth
+- tìm được công ăn việc làm tốt
+!to give a wide berth to
+- (hàng hải) cho (tàu) tránh rộng ra
+- (từ lóng) tránh xa (ai)
+*  ngdgt
+- bỏ neo; buộc, cột (tàu)
+- sắp xếp chỗ ngủ (cho ai ở trên tàu)
+
+@Bertrand's duopoly Model
+- (Econ) Mô hình lưỡng quyền của Bertrand.
+: Mô hình về một thị trường có hai hãng do J.Bertrand đưa ra năm 1883.
+ @beryl  
+*  dt
+- (khoáng chất) berin
+
+@beryllium  
+*  dt
+- (hoá học) berili
+
+@beryllium oxide (BeO)
+- (Tech) ôxit berili(um)
+ @beseech  
+*  (bất qui tắc) ngdgt besought 
+@beseeching  
+*  tt
+- cầu khẩn, van nài (giọng, vẻ)
+
+@beseechingly
+* dt
+- cầu khẩn, van nài
+ @beseem  
+*  dgt không ngôi
+- phải, đúng; thích hợp, hợp lẽ
+
++ it ill beseems you to refuse: anh cứ từ chối là không đúng
+
+@beset  
+*  (bất qui tắc) ngdgt beset 
+@besetting  
+*  tt
+- ám ảnh, nhằng nhẵng
+
++ besetting sin: tội lỗi ám ảnh; nết xấu khó chừa
+
+@beside  
+*  giới từ
+- bên, bên cạnh
+- so với
+
++ my work is poor beside yours: bài của tôi so với của anh thì kém hơn
+- xa, ngoài, ở ngoài
+
++ beside the mark (point, question): xa đích; không có liên quan gì đến vấn đề, ngoài vấn đề
+!to be beside oneself
+- không tự kiềm chế được, không tự chủ được; quýnh lên (vì cáu, giận, vui, mừng...)
+
++ to be beside soneself with joy: mừng quýnh lên
+
+@besides  
+*  dt
+- ngoài ra, hơn nữa, vả lại, vả chăng
+
++ and several others besides: và ngoài ra còn nhiều người khác nữa
+*  giới từ
+- ngoài... ra
+
++ and many more besides them: và ngoài chúng ra còn nhiều người khác nữa
+
++ he is very good at games besides being a scholar: ngoài việc học giỏi ra, nó còn giỏi cả các môn thể thao
+
+@besiege  
+*  ngdgt
+- (quân sự) bao vây, vây hãm
+- xúm quanh
+- (nghĩa bóng) quây lấy, nhâu nhâu vào (hỏi, xin)
+
++ to be besieged with questions: bị chất vấn dồn dập
+
+@besieger  
+*  dt
+- người bao vây
+
+@beslaver  
+*  ngdgt
+- làm dính đầy nhớt dãi
+- bợ đỡ, liếm gót
+
+@beslobber  
+*  ngdgt
+- làm dính đầy nhớt dãi
+- hôn chùn chụt, hôn lấy hôn để
+
+@beslubber   (beslubber) @besmear   (beslubber) @besmirch  
+*  ngdgt
+- bôi bẩn, làm lem luốc
+- (nghĩa bóng) bôi nhọ, nói xấu, dèm pha
+
+@besom  
+*  dt
+- chổi sể
+- (Ê-cốt) con mụ phải gió, con mụ chết tiệt (ngụ ý chửi)
+!to jump the besom
+- lấy vợ mà không cưới xin gì
+*  ngdgt
+- quét bằng chổi sể
+
+@besot  
+*  ngdgt
+- làm mụ người, làm đần độn
+
+@besought  
+*  (bất qui tắc) ngdgt besought 
+@bespangle  
+*  ngdgt
+- dát trang kim
+
+@bespatter  
+*  ngdgt
+- rắc, vảy, làm bắn tung toé
+- nịnh nọt rối rít
+- chửi tới tấp
+
+@bespeak  
+*  (bất qui tắc) ngdgt bespoke 
+@bespectacled  
+*  tt
+- đeo kính
+
+@bespoke  
+*  (bất qui tắc) ngdgt bespoke 
+@bespoken  
+*  (bất qui tắc) ngdgt bespoke 
+@besprent  
+*  tt
+- (thơ ca) rải rác
+
++ besprent with flowers: rải rác hoa (cánh đồng)
+
+@besprinkle  
+*  ngdgt
+- vảy, rắc, rải
+
+@best  
+*  (bất qui tắc) tt,  số nhiều của good
+- tốt nhất, hay nhất, đẹp nhất, giỏi nhất
+
++ the best thing to do: việc làm tốt nhất, việc làm có kết quả nhất
+
++ to put on one's best clothes: thắng bộ đẹp nhất
+!the best part
+- đại bộ phận
+
++ the best part of the year: phần lớn thời gian trong năm
+!to put one's best leg (foot) foremost
+- đi thật nhanh, đi ba chân bốn cẳng
+- (nghĩa bóng) làm công việc mình thành thạo nhất
+*  dt,  số nhiều của well
+- tốt nhất, hay nhất; hơn nhất
+
++ he work best in the morning: anh ấy làm việc tốt nhất vào buổi sáng
+
++ the dressed woman: người đàn bà ăn mặc đẹp nhất
+!gad best
+- tốt nhất là, khôn hơn hết là
+
++ we had best go home now: tốt nhất là bây giờ chúng ta về nhà
+
++ the best abused: (thông tục) bị chửi nhiều nhất (người, vật...)
+*  dt
+- cái tốt nhất, cái hay nhất, cái đẹp nhất
+- cố gắng lớn nhất
+- quần áo đẹp nhất
+!at [the] best
+- trong điều kiện tốt nhất, trong hoàn cảnh tốt nhất
+!bad is the best
+- không có triển vọng gì hay, không hy vọng gì có chuyện tốt đẹp xảy ra
+!to be at one's best
+- lúc đẹp nhất, lúc tốt nhất, lúc sung sức nhất, lúc rực rỡ nhất
+!the best is the enemy of the good
+- (tục ngữ) cầu toàn thường khi lại hỏng việc
+!to be one's best
+- làm hết sức mình
+!to get (have) the best of it
+- thắng thế (trong khi tranh luận...)
+!to get the best of someone
+- (thể dục,thể thao) thắng ai
+!if you cannot have the best, make the best of what you have
+- (tục ngữ) không có cá thì lấy rau má làm ngon
+!Sunday best
+- (xem) Sunday
+!to make the best of it (of a bad bargain, of a bad business, of a bad job)
+- mặc dầu có khó khăn vẫn vui vẻ cố gắng; không nản lòng trong lúc khó khăn
+!to make the best of something
+- tận dụng cái hay, cái tốt đẹp của việc gì
+- chịu đựng cái gì
+!to make the best of one's time
+- tranh thủ thời gian
+!to make the best of one's way
+- đi thật nhanh
+!to send one's best
+- gửi lời chào, gửi lời chúc mừng
+!to the best of one's knowledge
+- với tất cả sự hiểu biết của mình
+!to the best of one's power (ability)
+- với tất cả khả năng của mình
+!with the best
+- như bất cứ ai
+
++ although he is nearly sixty, he can still carry 40 kg on his shoulder with the best: mặc dù đã gần sáu mươi tuổi, cụ ấy vẫn gánh được 40 kg như những người khác
+*  ngdgt
+- hơn, thắng (ai); ranh ma hơn, láu cá hơn (ai)
+
+@best
+- tốt nhất, tối ưu
+ @best approximation
+- (Tech) ứớc lượng gần đúng nhất
+ @best girl  
+*  dt
+- (thông tục) người yêu, người tình
+
+@Best Linear Unbiased Estimator
+- (Econ) (BLUE)-Đoán số trùng tuyến tính đẹp nhất; (Ước lượng tuyến tính không chệch tốt nhất)
+: ĐOÁN SỐ (ƯỚC LƯỢNG SỐ) này có PHƯƠNG SAI nhỏ nhất trong tất cả các ước lượng TUYẾN TÍNH và cũng không chệch (nghĩa là giá trị kỳ vọng của nó bằng với giá trị tham số thực). Xem GAUSS-MARKOV THEOREM, ORDINARY LEAST SQUARES.
+ @best looker  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) chàng đẹp trai
+
+@best man  
+*  dt
+- người phù rể
+
+@best seller  
+*  dt
+- cuốn sách bán chạy nhất; đĩa hát bán chạy nhất
+- tác giả cuốn sách bán chạy nhất
+
+@bestead  
+*  (bất qui tắc) dgt besteaded 
+@bested  
+*  (bất qui tắc) dgt besteaded 
+@best-fit method
+- (Tech) phương pháp lắp vừa nhất
+ @bestial  
+*  tt
+- (thuộc) súc vật, có tính súc vật
+- cục súc, độc ác, dã man, đầy thú tính
+- dâm đãng, đồi truỵ
+
+@bestiality  
+*  dt
+- thú tính
+- hành động thú tính
+
+@bestialize  
+*  ngdgt
+- làm thành cục súc, làm thành độc ác, làm cho dã man, làm cho có đầy thú tính
+
+@bestially
+* dt
+- thô lỗ, cộc cằn, hung tợn
+ @bestir  
+*  ngdgt
+- khuấy động
+!to bestir oneself
+- cựa quây, vùng vẫy
+- hoạt động lên
+
+@bestow  
+*  ngdgt
+- bestow on,  upon tặng cho, ban cho, dành cho
+- để, đặt
+
++ to bestow the luggage on the rack: để hành lý lên giá
+- cho trọ; tìm chỗ ở cho
+
++ to bestow someone for the night: cho ai ngủ trọ lại ban đêm
+
+@bestowal  
+*  dt
+- sự tặng, sự cho
+
+@bestrew  
+*  (bất qui tắc) ngdgt bestrewed; bestrewed; bestrewn
+- rắc, rải, vãi
+
++ a path bestrewn with flowers: con đường rắc đầy hoa
+
+@bestrewn  
+*  (bất qui tắc) ngdgt bestrewed; bestrewed; bestrewn
+- rắc, rải, vãi
+
++ a path bestrewn with flowers: con đường rắc đầy hoa
+
+@bestrid  
+*  (bất qui tắc) ngdgt bestrode,  bestriden,  bestrid
+- ngồi giạng chân trên, đứng giạng hai chân trên; cưỡi; bắc qua, bắc ngang
+
++ to bestride a horse: cưỡi ngựa
+
+@bestridden  
+*  (bất qui tắc) ngdgt bestrode,  bestriden,  bestrid
+- ngồi giạng chân trên, đứng giạng hai chân trên; cưỡi; bắc qua, bắc ngang
+
++ to bestride a horse: cưỡi ngựa
+
+@bestride  
+*  (bất qui tắc) ngdgt bestrode,  bestriden,  bestrid
+- ngồi giạng chân trên, đứng giạng hai chân trên; cưỡi; bắc qua, bắc ngang
+
++ to bestride a horse: cưỡi ngựa
+
+@bestrode  
+*  (bất qui tắc) ngdgt bestrode,  bestriden,  bestrid
+- ngồi giạng chân trên, đứng giạng hai chân trên; cưỡi; bắc qua, bắc ngang
+
++ to bestride a horse: cưỡi ngựa
+
+@best-seller
+* dt
+- cuốn sách bán chạy nhất
+ @best-selling
+* tt
+- bán được nhiều, bán chạy, rất được ưa chuộng
+ @bet  
+*  dt
+- sự đánh cuộc
+
++ to lay (make) a bet: đánh cuộc
+
++ to lose a bet: thua cuộc
+
++ to win a bet: thắng cuộc
+- tiền đánh cuộc
+*  (bất qui tắc) dgt bet,  betted
+- đánh cuộc, đánh cá
+
++ to bet an someone's winning: đánh cuộc ai thắng
+
++ to bet against someone's winning: đánh cuộc ai thua
+!to bet on a certainty
+- chắc ăn rồi mới đánh cuộc; đánh cuộc nắm chắc phần thắng
+!to bet one's shirt
+- bán cả khố đi mà đánh cuộc
+!you bet
+- anh có thể coi cái đó là một điều chắc chắn
+
+@bet
+- (lý thuyết trò chơi) đánh cuộc
+ @beta  
+*  dt
+- Bêta (chữ cái Hy lạp)
+!beta plus
+- hơn loại hai một ít
+!beta minus
+- kém loại hai một ít
+
+@beta
+- (Tech) bêta, hệ số khuếch dòng đèn tinh thể
+ @Beta
+- (Econ) Chỉ số Beta
+: Chỉ số tính sự biến động lợi tức của một cổ phiếu cùng với sự biến động lợi tức của toàn bộ thị trường chứng khoán.
+ @Beta
+- (Econ) Chỉ số tính sự biến động lợi tức của một cổ phiếu cùng với sự biến động lợi tức của toàn bộ thị trường chứng khoán.
+ @beta
+- bêta (β); sao bêta của một chòm sao
+ @beta rays  
+*  dt
+- (vật lý) tia bêta
+
+@beta site
+- vị trí B-kiểm
+ @beta software
+- phần mềm Beta
+ @beta test
+- B-kiểm, thứ kiểm
+ @betake  
+*  (bất qui tắc) ngdgt (betook,  betaken) to song) m p kh q đi, rời đi
+- dấn thân vào, mắc vào, đam mê
+
++ to betake oneself to drink: đam mê rượu chè
+!to betake oneself to one's heels
+- chạy đi
+
+@betaken  
+*  (bất qui tắc) ngdgt (betook,  betaken) to song) m p kh q đi, rời đi
+- dấn thân vào, mắc vào, đam mê
+
++ to betake oneself to drink: đam mê rượu chè
+!to betake oneself to one's heels
+- chạy đi
+
+@betatron  
+*  dt
+- (vật lý) bêtatron
+
+@betel  
+*  dt
+- (thực vật học) cây trầu không
+
+@betel-nut  
+*  dt
+- quả cau
+
+@bethel  
+*  dt
+- nhà thờ của những người không theo quốc giáo
+- nhà thờ của thuỷ thủ
+
+@bethink  
+*  (bất qui tắc) ngdgt bethought
+- nhớ ra, nghĩ ra
+
++ I bethought myself that I ought to write some letters: tôi nhớ ra là tôi phải viết mấy bức thư
+
+@bethought  
+*  (bất qui tắc) ngdgt bethought
+- nhớ ra, nghĩ ra
+
++ I bethought myself that I ought to write some letters: tôi nhớ ra là tôi phải viết mấy bức thư
+
+@betid  
+*  (bất qui tắc) dgt betid
+- xảy đến, xảy ra
+
++ whatever [may] betide: dù có việc gì xảy ra
+
+@betide  
+*  (bất qui tắc) dgt betid
+- xảy đến, xảy ra
+
++ whatever [may] betide: dù có việc gì xảy ra
+
+@betimes  
+*  dt
+- sớm
+- kịp thời, đúng lúc
+
+@betoken  
+*  ngdgt
+- báo hiệu, chỉ rõ
+
+@beton  
+*  dt
+- bê tông
+
+@betony  
+*  dt
+- (thực vật học) cây hoắc hương
+
+@betook  
+*  (bất qui tắc) ngdgt (betook,  betaken) to song) m p kh q đi, rời đi
+- dấn thân vào, mắc vào, đam mê
+
++ to betake oneself to drink: đam mê rượu chè
+!to betake oneself to one's heels
+- chạy đi
+
+@betray  
+*  ngdgt
+- bội phản đem nộp cho, bội phản đem giao cho
+
++ to be betrayed to the enemy: bị bội phản đem nộp cho địch
+- phản bội; phụ bạc
+
++ to betray one's country: phản bội đất nước
+- tiết lộ, để lộ ra
+
++ to betray a secret: lộ bí mật
+
++ to betray one's ignorance: lòi dốt ra
+
++ to betray oneself: để lộ chân tướng
+- lừa dối; phụ (lòng tin)
+- dẫn vào (con đường lầm lạc, đến chỗ nguy hiểm...)
+
++ to betray someone into errors: dẫn ai đến chỗ sai lầm
+
+@betrayal  
+*  dt
+- sự phản bội
+
+@betrayer  
+*  dt
+- kẻ phản bội
+
++ a betrayer of his country: kẻ phản bội tổ quốc
+- kẻ phụ bạc
+- kẻ tiết lộ (bí mật)
+
+@betroth  
+*  ngdgt
+- hứa hôn, đính hôn
+
++ to be betrothed to someone: hứa hôn với ai
+
+@betrothal  
+*  dt
+- sự hứa hôn
+- lời hứa hôn
+
+@betrothed  
+*  dt
+- người hứa hôn, chồng chưa cưới, vợ chưa cưới
+
+@better  
+*  tt
+- cấp so sánh của good
+- hơn, tốt hơn, khá hơn, hay hơn, đẹp hơn
+
++ you can't find a better man: anh không thể tìm thấy một người nào tốt hơn
+- khoẻ hơn, dễ chịu hơn, đã đỡ (người ốm...)
+
++ he is not well yet: anh ấy cảm thấy dễ chịu hơn, nhưng chưa thật khoẻ
+!to be better off
+- khấm khá hơn, phong lưu hơn
+!to be better than one's words
+- hứa ít làm nhiều
+!the better part
+- phần lớn, đa số
+!no better than
+- không hơn gì
+!to have seen better days
+- đã có thời kỳ khấm khá
+!one's better half
+- (xem) half
+
++ she is no better than she should be: ả ta là đứa lẳng lơ đĩ thoã
+*  dt
+- cấp so sánh của well
+- hơn, tốt hơn, hay hơn
+
++ to think better of somebody: đánh giá ai cao hơn, có quan niệm tốt hơn về ai
+!better late than never
+- muộn còn hơn không
+!had better
+- nên, tốt hơn là
+
++ you had better go now: anh nên đi bây giờ thì hơn
+!to know better
+- không tin (lời ai nói)
+- không dại gì mà làm (một việc gì)
+!to think better of it
+- thay đổi ý kiến
+*  ngdgt
+- làm cho tốt hơn, cải tiến, cải thiện
+
++ to better the living conditions of the people: cải thiện đời sống của nhân dân
+
++ to better a record: lập kỷ lục cao hơn
+- vượt, hơn
+!to better oneself
+- đặt địa vị cao hơn, được ăn lương cao hơn
+*  dt
+- người trên, người hơn (tuổi, địa vị, tài năng)
+
++ to respect one's betters: kính trọng những người hơn mình
+- thế lợi hơn
+
++ to get the better of: thắng, thắng thế
+!change for worse
+- dù sau này tốt xấu ra sao (câu này dùng trong khi làm lễ cưới ở nhà thờ)
+*  dt: (bettor) 
+@betterment  
+*  dt
+- sự làm tốt hơn, sự cải tiến, sự cải thiện
+- giá trị (bất động sản) được tăng lên vì điều kiện địa phương
+
+@betting
+- sự đánh cuộc
+ @betting-shop
+* dt
+- văn phòng của người đánh cá ngựa
+ @bettor  
+*  tt
+- cấp so sánh của good
+- hơn, tốt hơn, khá hơn, hay hơn, đẹp hơn
+
++ you can't find a better man: anh không thể tìm thấy một người nào tốt hơn
+- khoẻ hơn, dễ chịu hơn, đã đỡ (người ốm...)
+
++ he is not well yet: anh ấy cảm thấy dễ chịu hơn, nhưng chưa thật khoẻ
+!to be better off
+- khấm khá hơn, phong lưu hơn
+!to be better than one's words
+- hứa ít làm nhiều
+!the better part
+- phần lớn, đa số
+!no better than
+- không hơn gì
+!to have seen better days
+- đã có thời kỳ khấm khá
+!one's better half
+- (xem) half
+
++ she is no better than she should be: ả ta là đứa lẳng lơ đĩ thoã
+*  dt
+- cấp so sánh của well
+- hơn, tốt hơn, hay hơn
+
++ to think better of somebody: đánh giá ai cao hơn, có quan niệm tốt hơn về ai
+!better late than never
+- muộn còn hơn không
+!had better
+- nên, tốt hơn là
+
++ you had better go now: anh nên đi bây giờ thì hơn
+!to know better
+- không tin (lời ai nói)
+- không dại gì mà làm (một việc gì)
+!to think better of it
+- thay đổi ý kiến
+*  ngdgt
+- làm cho tốt hơn, cải tiến, cải thiện
+
++ to better the living conditions of the people: cải thiện đời sống của nhân dân
+
++ to better a record: lập kỷ lục cao hơn
+- vượt, hơn
+!to better oneself
+- đặt địa vị cao hơn, được ăn lương cao hơn
+*  dt
+- người trên, người hơn (tuổi, địa vị, tài năng)
+
++ to respect one's betters: kính trọng những người hơn mình
+- thế lợi hơn
+
++ to get the better of: thắng, thắng thế
+!change for worse
+- dù sau này tốt xấu ra sao (câu này dùng trong khi làm lễ cưới ở nhà thờ)
+*  dt: (bettor) 
+@between  
+*  giới từ
+- giữa, ở giữa
+
++ between Hanoi and Pekin: giữa Hà nội và Bắc kinh
+
++ a treaty was concluded between the two nations: một hiệp ước được ký kết giữa hai nước
+
++ between you and me; between ourselves: nói riêng giữa chúng ta với nhau
+- trong khoảng
+
++ between five and six kilometres: trong khoảng năm, sáu kilômét
+
++ between this and the this month: trong khoảng thời gian từ nay đến cuối tháng
+- nửa... nửa; vừa... vừa
+
++ what a strange piece of furniturel it's something between an armchair and a sofa: đồ đạc gì mà trông lạ thế này! nửa ra là ghế bành, nửa ra là trường kỷ
+!between the devil and the deep sea
+- lâm vào hoàn cảnh bế tắc không có lối thoát; tiến lên mắc núi, lùi lại mắc sông
+!between the cup and the lip a morsel may slip
+- (xem) cup
+
++ between Scylla and Charybdis: tiến lên mắc núi, lùi lại mắc sông
+!between wind and water
+- ở đầu sóng ngọn gió
+*  dt
+- ở giữa
+
++ to stand between: đứng giữa; xen vào, can thiệp vào (để điều đình, hoà giải...)
+!far between
+- ở cách xa nhau, thưa thớt
+
++ visits are far between: những cuộc đến thăm rất thưa thớt
+
+@between
+- giữa
+ @between girl  
+*  dt
+- cô hầu phụ
+
+@between-girl
+* dt
+- cô hầu phụ
+ @between-maid  
+*  dt
+- cô hầu phụ
+
+@betwixt  
+*  giới từ & dt
+- (từ cổ,nghĩa cổ) (như) between
+!betwixt and between
+- nửa nọ nửa kia
+
+@bevel  
+*  dt
+- góc xiên, cạnh xiên
+- cái đặt góc (của thợ mộc, thợ nề)
+*  ngdgt
+- làm cho xiên góc
+
+@bevel
+- nghiêng; góc nghiêng
+ @bevel gear
+- (cơ) bánh răng nón
+ @bevel pinion  
+*  dt
+- (kỹ thuật) bánh răng nón
+
+@bevel-gear  
+*  dt
+- (kỹ thuật) sự truyền động bằng bánh răng nón
+
+@beverage  
+*  dt
+- đồ uống
+
+@Beveridge Report
+- (Econ) Báo cáo Beveridge.
+: Bản báo cáo về chính sách xã hội của Anh có nhan đề Bảo hiểm xã hội và các dịch vụ liên kết do Huân tước William Beveridge chuẩn bị cho chính quyền liên minh thời chiến năm 1942.
+ @bevy  
+*  dt
+- nhóm, đoàn, bầy (đàn bà, con gái); đàn (chim)
+
+@bewail  
+*  dgt
+- than phiền, than vãn, khóc than, thương tiếc
+
+@beware  
+*  dgt
+- cẩn thận, chú ý; đề phòng
+
++ beware of the dog!: cẩn thận, có chó đấy!
+
+@bewilder  
+*  ngdgt
+- làm bối rối, làm hoang mang, làm lúng túng; làm ngơ ngác
+
+@bewildering
+* tt
+- gây bối rối, khiến hoang mang
+ @bewilderment  
+*  dt
+- sự bối rôi, sự hoang mang
+
+@bewitch  
+*  ngdgt
+- bỏ bùa mê
+- làm say mê, làm mê mẩn, làm say đắm
+- làm cho vô cùng thích thú
+
+@bewitching  
+*  tt
+- làm say mê, làm mê mẩn, làm say đắm; quyến rũ, mê hồn (sắc đẹp)
+
+@bewitchment  
+*  dt
+- sự bỏ bùa mê
+- sự làm say mê, sự làm mê mẩn, sự làm say đắm
+
+@bewithchingly
+* dt
+- quyến rũ, hấp dẫn
+ @bewray  
+*  ngdgt
+- (từ cổ,nghĩa cổ) vô tình mà tiết lộ
+
+@bey  
+*  dt
+- bây (thống đốc ở Thổ nhĩ kỳ)
+- Bây, vua Tuy-ni-di
+
+@beyond  
+*  dt
+- ở xa, ở phía bên kia
+*  giới từ
+- ở bên kia
+
++ the sea is beyond the hill: biển ở bên kia đồi
+- quá, vượt xa hơn
+
++ don't stay out beyond nine o'clock: đừng đi quá chín giờ
+
++ the book is beyond me: quyển sách này đối với tôi khó quá
+
++ he has grown beyond his brother: nó lớn hơn anh nó
+- ngoài... ra, trừ...
+
++ do you know of any means beyond this?: ngoài cách này ra anh có biết còn cách nào khác không?
+!beyond compare
+- (xem) compare
+!beyond control
+- (xem) control
+!beyond one's depth beyond hope
+- (xem) hope
+!beyond measure
+- bao la, bát ngát
+!beyond reason
+- vô lý, phi lý
+!to live beyond one's income
+- (xem) income
+*  dt
+- the beyond kiếp sau, thế giới bên kia
+!the back of beyond
+- nơi xa xôi khuất nẻo nhất, nơi đáy biển chân trời
+
+@bezel  
+*  dt
+- mép vát (kéo)
+- mặt vát (ngọc, kim cương)
+- gờ (để) lắp mặt kính (đồng hồ)
+
+@bezier curve
+- đường cong Bézier
+ @bezique
+* dt
+- môn chơi bài dành cho hai người, và dùng cỗ bài đúp (64 lá)
+ @

@@ -1,0 +1,855 @@
+@afar  
+*  dt
+- xa, ở xa, cách xa
+
++ from afar: từ xa
+
++ to stand afar off: đứng cách xa
+
+@afaul
+* dt
+- chạm vào; xung đột với
+
++  to run afaul of:húc vào
+ @afe
+- (Apple File Exchange) Một tiện ích cung cấp kèm theo từng máy tính Macintosh để làm cho các máy Mac, loại có trang bị ổ đựa thích hợp, có thể trao đổi dữ liệu với các máy tính tương thích IBM PC
+ @afebrile
+* tt
+- hết cơn sốt
+ @affability   (affableness) @affable  
+*  tt
+- lịch sự, nhã nhặn, hoà nhã; niềm nở, ân cần
+
+@affableness   (affableness) @affably
+* dt
+- lịch sự, niềm nở, ân cần
+ @affair  
+*  dt
+- việc
+
++ it's my affair: đây là việc (riêng) của tôi
+
++ mind your own affair: hãy lo lấy việc của anh
+- (số nhiều) công việc, việc làm, sự vụ
+
++ internal affair of a country: công việc nội bộ của một nước
+
++ Department of Home affair: bộ nội vụ
+
++ Department of Foreign affairs: bộ ngoại giao
+- chuyện tình, chuyện yêu đương
+- chuyện vấn đề
+
++ affair of honour: vấn đề danh dự; cuộc đọ kiếm
+- việc buôn bán; việc giao thiệp
+
++ a profitable affair: việc buôn bán có lời
+
++ to have an affair with somebody: có việc giao thiệp với ai
+- (thông tục) cái, thứ, vật, đồ, món, chuyện
+
++ this motor-cycle is a very complicated affair: cái mô tô này thật là một món phức tạp quá
+- (quân sự) trận đánh nhỏ
+
+@affect  
+*  ngdgt
+- làm ảnh hưởng đến, làm tác động đến; chạm đến
+
++ the frequent changes of weather affect his health: thời tiết thay đổi luôn làm ảnh hưởng đến sức khoẻ của anh ấy
+
++ to affect someone's interests: chạm đến quyền lợi của ai
+- làm xúc động, làm cảm động, làm mủi lòng
+
++ the news affected him deeply: tin đó làm anh ta rất xúc động
+- làm nhiễm phải, làm mắc (bệnh)
+
++ to be affected by influenza: bị bệnh cúm
+
++ to be affected by cold: bị cảm lạnh
+- (từ cổ,nghĩa cổ) (thường) dạng bị động
+- bổ nhiệm
+
++ to be affected to a services: được bổ nhiệm làm một công việc gì
+*  ngdgt
+- giả vờ, giả bộ, làm ra vẻ
+
++ to affect ignorance: giả bộ dốt
+
++ to affect the connoisseur: làm ra vẻ sành sỏi
+- có hình dạng, thành hình
+
++ crystals affect geometrical shapes: tinh thể kết tinh lại thành những hình tinh học
+- dùng, ưa dùng, thích
+!to flashy clothes
+- thích ăn mặc quần áo hào nhoáng
+- (từ cổ,nghĩa cổ) yêu dấu, âu yếm
+*  dt
+- (tâm lý học) sự xúc động
+
+@affectation  
+*  dt
+- sự điệu bộ, sự màu mè, sự không tự nhiên
+- sự giả vờ, sự giả bô, sự làm ra vẻ
+- (từ hiếm,nghĩa hiếm) sự bổ nhiệm, sự sử dụng (vào một việc gì)
+
++ all ship whatever their affectation: tất cả các tàu, bất cứ sử dụng vào việc gì
+
+@affected  
+*  tt
+- (: to,  towards) có ý (tốt, xấu... đối với ai)
+
++ to be well affected towards someone: có ý tốt đối với ai
+- xúc động
+- bị mắc, bị nhiễm (bệnh...)
+
++ to be affected with (by) a disease: bị mắc bệnh
+*  tt
+- giả tạo, điệu bộ, màu mè, không tự nhiên
+
++ to be very affected in one's manners: điệu bô quá
+
++ affected laugh: tiếng cười giả tạo
+
+@affectedly  
+*  dt
+- giả tạo, điệu bộ, màu mè, không tự nhiên
+
+@affectedness
+- xem affected
+ @affecter
+- xem affect
+ @affecting  
+*  tt
+- làm xúc động, làm cảm động, làm mủi lòng
+
++ an affecting scence: cảnh làm mủi lòng
+
++ the story is very affecting: câu chuyện rất xúc động
+
+@affectingly
+* dt
+- khiến xúc động, khiến mủi lòng
+ @affection  
+*  dt
+- sự làm ảnh hưởng đến, sự làm tác động đến
+- tình cảm, cảm xúc
+
++ hope is one of the most pewerful affections of man: hy vọng là một trong những tình cảm mạnh mẽ nhất của con người
+- ((thường) : towards,  for) lòng yêu thương, sự yêu mến, tình cảm, thiện ý
+
++ to have an affection for children: yêu trẻ
+
++ to win someone's affection: được ai thương yêu
+- bệnh tật, bệnh hoạn
+- affection towards khuynh hướng, thiện ý về
+- tính chất, thuộc tính
+
++ figure and weight are affections of bodies: hình dạng và trọng lượng là thuộc tính của vật thể
+- trạng thái cơ thể (do bị một cái gì tác động vào...)
+- lối sống
+
+@affectional
+- xem affection
+ @affectionally
+- xem affection
+ @affectionate  
+*  tt
+- thương yêu, yêu mến, âu yếm; trìu mến
+
+@affectionately
+* dt
+- âu yếm, trìu mến
+ @affectionateness  
+*  dt
+- tính hay thương yêu, tính thương mến; tính trìu mến
+
+@affective  
+*  tt
+- xúc động, dễ xúc động
+
+@affectively
+- xem affective
+ @affectivity  
+*  dt
+- tính dễ xúc động
+
+@afferent  
+*  tt
+- (sinh vật học) hướng vào, dẫn vào, hướng tâm
+
++ afferent nerves: dây thần kinh hướng tâm
+
+@afferently
+- xem afferent
+ @affettuoso  
+*  dt
+- (âm nhạc) âu yếm
+
+@affiance  
+*  dt
+- (: in,  on) sự tin, sự tín nhiệm
+- lễ ăn hỏi, lễ đính hôn
+*  ngdgt
+- (thường) dạng bị động đính hôn, hứa hôn
+
++ to be affianced do someone: đã hứa hôn với ai
+
+@affidavit  
+*  dt
+- (pháp lý) bản khai có tuyên thệ
+
++ to swear (make) an affidavit: làm một bản khai có tuyên thệ trước toà
+
++ to take an affidavit: nhận một bản khai có tuyên thệ (quan toà)
+- (thông tục) làm một bản khai có tuyên thệ
+
+@affiliate   (filiate) @affiliation  
+*  dt
+- sự nhập hội, sự nhập đoàn
+- sự sáp nhập, sự nhập vào, sự liên kết
+- (pháp lý) sự xác định tư cách làm bố (một đứa con hoang để có trách nhiệm nuôi)
+- sự xác định tư cách tác giả (của một tác phẩm)
+- sự tìm nguồn gốc (ngôn ngữ)
+
+@affiliation order
+* dt
+- phán quyết của toà buộc người cha phải cấp dưỡng con ngoài giá thú của mình
+ @affinage  
+*  dt
+- (kỹ thuật) sự tinh luyện, sự tinh chế
+
+@affine
+- afin
+ @affined  
+*  tt
+- có quan hệ họ hàng
+
+@affinity  
+*  dt
+- mối quan hệ, sự giống nhau về cấu trúc (giữa các loài vật, cây cỏ, ngôn ngữ)
+- sự giống nhau về tính tình
+- quan hệ thân thuộc với họ nhà vợ, quan hệ thân thuộc với họ nhà chồng
+- sự thu hút, sự hấp dẫn, sự lôi cuốn; sự đồng cảm
+- sự ham thích
+
++ to have an affinity for something: ham thích ham thích cái gì
+- (hoá học) ái lực
+
++ chemical affinity: ái lực hoá học
+
+@affinity
+- phép biến đổi afin
+ @affinor
+- afinơ, toán tử biến đối tuyến tính
+ @affirm  
+*  dgt
+- khẳng định, xác nhận; quả quyết
+- (pháp lý) xác nhân, phê chuẩn
+
+@affirm
+- khẳng định
+ @affirmable
+- xem affirm
+ @affirmably
+- xem affirm
+ @affirmant
+- xem affirm
+ @affirmation  
+*  dt
+- sự khẳng định, sự xác nhận; sự quả quyết
+- lời khẳng định, lời xác nhận; lời quả quyết
+- (pháp lý) sự xác nhận; sự phê chuẩn
+
+@affirmation
+- (Tech) khẳng định (d)
+ @affirmation
+- sự khẳng định, điều khẳng định
+ @affirmative  
+*  tt
+- khẳng định; quả quyết
+
++ an affirmative answer: câu trả lời khẳng định
+*  dt
+- lời khẳng định; lời nói "ừ" , lời nói "được" 
+
++ to answer in the affirmative: trả lời ừ, trả lời được
+
+@affirmative
+- khẳng định
+ @affirmative acknowledge 
++  affirmative response
+ @affirmative response
+- (Tech) trả lời khẳng định
+ @affirmatively
+* dt
+- khẳng định, quả quyết
+ @affirmer
+- xem affirm
+ @affix  
+*  dt
+- sự thêm vào; phần thêm vào
+- (ngôn ngữ học) phụ tổ
+*  ngdgt
+- affix to,  on,  upon) đóng chặt vào, gắn vào, đính vào
+- đóng (dấu); dán (tem); ký (tên...)
+
++ to affix a seal: đóng dấu
+
++ to affix stamp: dán tem
+
++ to affix one's signature to a documents: ký tên vào nhãn hiệu
+
+@affixable
+- xem affix
+ @affixe
+- toạ vi
+ @affixer
+- xem affix
+ @affixture  
+*  dt
+- sự đóng chặt vào, sự gắn vào, sự đính vào
+
+@afflatus  
+*  dt
+- cảm hứng
+- linh cảm
+
+@afflict  
+*  ngdgt
+- làm đau đớn, làm đau buồn, làm ưu phiền, làm khổ sở
+
++ to be afflicted by...: đau buồn vì...
+
+@afflicter
+- xem afflict
+ @affliction  
+*  dt
+- nỗi đau đớn, nỗi đau buồn, nỗi ưu phiền, nỗi khổ sở
+- tai ách, tai hoạ, hoạn nạn
+
+@afflictive  
+*  tt
+- làm đau đớn, làm đau buồn, làm ưu phiền, làm khổ sở
+- mang tai hoạ, mang hoạn nạn
+
+@afflictively
+- xem afflict
+ @affluence  
+*  dt
+- sự tụ họp đông (người)
+- sự giàu có, sự sung túc, sự phong phú, sự dồi dào
+
++ to live in affluence: sống phong lưu, giàu sang
+
+@affluent  
+*  tt
+- nhiều, dồi dào, phong phú
+- giàu có
+*  dt
+- sông nhánh
+
+@affluently
+- xem affluent
+ @afflux  
+*  dt
+- sự đổ dồn (về một nơi); sự chảy dồn, sự chảy tụ lại
+
++ afflux of blood: sự chảy dồn máu
+
+@afforce
+* ngdgt
+- tăng thêm sức lực
+ @afford  
+*  ngdgt
+- có thể, có đủ sức, có đủ khả năng, có đủ điều kiện (để làm gì)
+
++ I can't afford to lose a minute: tôi không thể để mất một phút nào
+- cho, tạo cho, cấp cho, ban cho
+
++ reading affords us pleasure: đọc sách cho ta niềm vui thú
+
++ the fields afford enough fodder for the cattle: cánh đồng cung cấp đủ cỏ khô cho trâu bò
+
+@afforest  
+*  ngdgt
+- trồng cây gây rừng; biến thành rừng
+- (sử học) biến thành khu vực săn bắn
+
+@afforestation   (afforestment) @afforestment   (afforestment) @affranchise  
+*  ngdgt
+- giải phóng
+
+@affranchisement  
+*  dt
+- sự giải phóng
+
+@affray  
+*  dt
+- sự huyên náo; cuộc ẩu đả, cuộc cãi lộn (ở nơi công cộng)
+
+@affreightment  
+*  dt
+- (hàng hải) sự thuê tàu, chở hàng
+
++ contract of affreightment: giao kèo thuê tàu chở hàng
+
+@affricate  
+*  dt
+- (ngôn ngữ học) âm tắc xát
+
+@affright  
+*  dt
+- (thơ ca); (từ cổ,nghĩa cổ) sự khiếp sợ, sự hoảng sợ, sự khiếp đảm
+- nỗi kinh hãi
+*  ngdgt
+- (thơ ca); (từ cổ,nghĩa cổ) làm khiếp sợ, làm hoảng sợ, làm khiếp đảm
+
+@affrightment
+- xem affright
+ @affront  
+*  dt
+- sự lăng mạ, sự lăng nhục, sự sỉ nhục
+
++ to put an affront upon somebody; to offer an affront to somebody: lăng mạ ai, sỉ nhục ai
+
++ to pocket an affront without a word: thầm lặng mà nuốt nhục
+*  ngdgt
+- lăng mạ, lăng nhục, sỉ nhục
+- làm nhục, làm xấu hổ, làm mất thể diện
+- đương đầu
+
++ to affront the danger: đương đầu với sự hiểm nguy
+
+@affrontive
+* tt
+- vô lễ
+- gây xúc phạm
+ @affuse
+* ngdgt
+- rảy nước để rửa tội hay để chữa bệnh
+ @affusion  
+*  dt
+- sự rảy nước, sự giội nước (khắp người để làm lễ rửa tội)
+- (y học) sự giội nước (cho người sốt); phép chữa giội nước
+
+@afghan  
+*  dt
+- người Ap-ga-ni-xtăng
+- tiếng Ap-ga-ni-xtăng
+- afghan (từ Mỹ,nghĩa Mỹ) khăn phủ giường bằng len đan
+
+@afghan hound
+* dt
+- chó săn Afgan
+ @aficionado
+* dt
+- người cuồng nhiệt
+ @afield  
+*  dt
+- ở ngoài đồng, ở ngoài ruộng; ra đồng, ra ruộng
+
++ to lead cattle afield: dắt trâu bò ra đồng
+- xa; ở xa
+- xa nhà ((thường) far afield)
+
++ to go far afield: đi xa
+- (quân sự) ở ngoài mặt trận
+
++ to be afield: ở ngoài mặt trận
+
+@afire  
+*  tt & dt
+- cháy, bừng bừng, rực cháy (nghĩa đen) & (nghĩa bóng)
+
++ to set something afire: đốt cháy vật gì
+
++ to be afire with the desire to do something: nóng lòng muốn làm điều gì
+
+@aflagellar
+* tt
+- không lông roi
+ @aflame  
+*  tt & dt
+- cháy, rực cháy, rực lửa ((nghĩa đen) & (nghĩa bóng)), bốc lửa
+
++ to set something aflame: đốt cháy một vật gì
+
++ his heart is aflame with indignation: sự phẫn nộ rực cháy trong tim anh ta
+
+@aflat
+* dt
+- ngang bằng
+ @aflatoxin
+* dt
+- độc tố
+ @AFL-CIO
+- (Econ) Xem AMERICAN FEDERATION OF LABOR.
+ @afl-cio
+* (viết tắt)
+- Liên hiệp lao động và Đại hôi các tổ chức kỹ nghệ Hoa Kỳ (American Federation of Labor and Congress of Industrial Organizations)
+ @afloat  
+*  tt & dt
+- nổi lênh đênh (trên mặt nước), lơ lửng (trên) không)
+- trên biển, trên tàu thuỷ
+
++ life afloat: cuộc sống trên biển
+- ngập nước
+
++ the ship sank slowly until the decks were afloat: con tàu chìm dần cho tới khi ngập nước
+- lan truyền đi (tin đồn)
+
++ there is a rumour afloat that: có tin đồn rằng
+- thịnh vượng, hoạt động sôi nổi
+
++ concern is now fairly afloat: công việc kinh doanh hiện nay rất thịnh vượng
+- hết nợ, sạch mợ, không mắc nợ ai
+- đang lưu hành
+- không ổn định, trôi nổi
+
+@aflutter
+* tt
+- đang vẫy, đang vỗ (cánh)
+- run rẩy vì bị kích động
+- rung rinh
+ @afocal resonator
+- (Tech) cái cộng hưởng không đồng tiêu
+ @afoot  
+*  tt & dt
+- đi bộ, đi chân
+
++ to go afoot throught the forest: đi bộ xuyên qua rừng
+- đang tiến hành, đang làm
+- trở dậy; hoạt động
+
++ to be early afoot: trở dậy sớm
+
+@afore  
+*  giới từ & dt
+- (hàng hải) ở phía trước, ở đằng trước
+
++ afore the mast: ở phía trước cột buồm
+- (từ cổ,nghĩa cổ) trước đây, trước kia
+
+@aforecited  
+*  tt
+- đã dẫn
+
+@aforegoing  
+*  tt
+- xảy ra trước đây
+
+@aforehand
+* dt
+- từ trước
+ @aforementioned  
+*  tt
+- đã kể ở trên, đã nói trên, đã kể trước đây
+
+@aforenamed  
+*  tt
+- đã kể ở trên, đã kể trước đây
+
+@aforesaid  
+*  tt
+- đã nói ở trên, đã nói đến trước đây
+
+@aforethought  
+*  tt
+- cố ý, có định trước, có suy tính trước
+
+@aforetime  
+*  dt
+- trước đây, trước kia, ngày trước, ngày xưa
+
+@afoul  
+*  dt
+- chạm vào, húc vào, đâm vào
+
++ to run afoul of: húc vào, đâm bổ vào
+
+@afraid  
+*  tt
+- sợ, hãi, hoảng, hoảng sợ
+
++ we are not afraid of dificulties: chúng ta không sợ khó khăn
+
++ to be afraid of someone: sợ ai; ngại lấy làm tiếc
+
++ I am afraid I cannot lend you the book: tôi lấy làm tiếc không cho anh mượn quyển sách đó được
+
++ I'm afraid [that] it will happen: tôi e rằng việc đó sẽ xảy ra
+
+@afreet   (afrit) @afresh  
+*  dt
+- lại lần nữa
+
++ to start afresh: bắt đầu lại từ đầu
+
+@african  
+*  tt
+- thuộc Châu phi
+*  dt
+- người Châu phi
+
+@africana
+* dt số nhiều
+- bộ sưu tập các tài liệu về châu Phi
+ @africaness
+* dt
+- đàn bà châu Phi
+ @afrikaans  
+*  dt
+- người Nam phi; người Hà lan ở Kếp
+
+@afrikaner  
+*  dt
+- người Nam phi gốc Âu (đặc biệt là Hà lan)
+
+@afrikanist  
+*  dt
+- nhà nghiên cứu văn hoá Châu phi
+
+@afrit   (afrit) @afrite   (afrit) @afro
+* tt
+- (nói về kiểu tóc) quăn và dài như tóc dân da đen
+ @afro-american  
+*  tt
+- thuộc người Mỹ da đen; người Mỹ nguồn gốc Châu phi
+*  dt
+- người Mỹ da đen; người Mỹ nguồn gốc Châu phi
+
+@aft  
+*  tt & dt
+- ở cuối tàu, ở đuôi tàu
+
++ for and aft: từ đầu đến đuôi tàu, từ đằng mũi đến đằng lái tàu
+
+@after  
+*  dt
+- sau, đằng sau
+
++ three days after: ba ngày sau
+
++ soon after: ngay sau đó
+
++ to follow after: theo sau
+*  giới từ
+- sau, sau khi
+
++ after dinner: sau bữa cơm
+- ở đằng sau, phía sau, đứng sau, liền sau
+
++ Summer comes after Srping: mùa hạ đến liền sau mùa xuân
+- theo sau, theo đuổi (diễn tả ý tìm kiếm, sự mong muốn, sự trông nom săn sóc)
+
++ to be after something: đuổi theo cái gì, tìm kiếm cái gì
+
++ to thirst after knowledge: khao khát sự hiểu biết
+
++ to look after somebody: trông nom săn sóc ai
+- phỏng theo, theo
+
++ a pictures after Rubens: một bức tranh theo kiểu Ruben
+
++ after the Russian fashion: theo mốt Nga
+- với, do, vì
+
++ after a cool reception: với một sự tiếp đãi lạnh nhạt
+- mặc dù, bất chấp
+
++ after all the threats: bất chấp tất cả những sự doạ nạt
+!after all
+- cuối cùng, sau hết, rốt cuộc, xét cho cùng
+!after one's heart
+- (xem) heart
+!after a manner (fashion)
+- tàm tạm, tạm được
+!after that
+- (xem) that
+!after you!
+- xin mời đi trước!
+!after you with
+- sau anh thì đến lượt tôi đấy nhé
+!day after day
+- (xem) day
+!the day after
+- ngày hôm sau
+!time after time
+- (xem) time
+*  liên từ
+- sau khi
+
++ I went immediately after I had received the information: sau khi nhận được tin tôi đi ngay
+*  tt
+- sau này, sau đây, tiếp sau
+
++ in after years: trong những năm sau này; trong tương lai
+- (hàng hải) ở đằng sau, ở phía sau
+
++ the after part of the ship: phía sau tàu
+
+@after effect
+- hậu quả
+ @afteraction
+* dt
+- tác động thứ sinh
+ @afterbirth  
+*  dt
+- nhau (đàn bà đẻ)
+
+@afterbrain
+* dt
+- não sau
+ @afterbreast
+* dt
+- ngực sau
+ @afterburner  
+*  dt
+- (hàng không) thùng chất đốt phụ (máy bay phản lực)
+
+@after-care  
+*  dt
+- sự trông nom chăm sóc sau thời gian điều trị
+
+@aftercare
+* dt
+- sự chăm sóc sau khi điều trị, sự chame sóc sau hạn tù
+ @afterclap  
+*  dt
+- việc hậu phát
+
+@aftercrop   (aftergrowth) @afterdamp  
+*  dt
+- (ngành mỏ) hơi bốc sau (bốc lên ở hầm mỏ sau khi khí độc nổ)
+
+@after-effect  
+*  dt
+- hậu quả
+- (y học) kết quả về sau (của thuốc...)
+
+@aftereffect
+* dt
+- (y) di chứng
+ @after-fermentation
+* dt
+- sự lên men tiếp; sự lên men thêm
+ @aftergame
+* dt
+- dự định về sau
+ @afterglow  
+*  dt
+- ánh hồng ban chiếu (ở chân trời sau khi mặt trời lặn)
+
+@afterglow
+- (Tech) lưu ảnh, dư huy [TQ], ánh sáng tàn
+ @afterglow screen
+- (Tech) màn hình lưu ảnh
+ @afterglow tube
+- (Tech) đèn lưu ảnh
+ @after-grass  
+*  dt
+- cỏ mọc lại, cọ tái sinh
+
+@after-growing
+* dt
+- sự lớn tiếp; sự lớn thêm
+ @aftergrowth   (aftergrowth) @after-hours
+* tt,  adv
+- làm sau thời gian kết thúc
+ @afterimage  
+*  dt
+- dư ảnh
+
+@after-life  
+*  dt
+- kiếp sau, đời sau
+- lúc cuối đời
+
+@afterlife
+* dt
+- kiếp sau
+ @afterlight  
+*  dt
+- (sân khấu) ánh sáng phía sau
+- cái mãi về sau mới được sáng tỏ
+
+@aftermath  
+*  dt
+- (như) after-grass
+- hậu quả, kết quả (thường là tai hại)
+
++ The aftermath of war: hậu quả của chiến tranh
+
+@aftermost  
+*  tt
+- (hàng hải) ở đuôi tàu, gần đuôi tàu nhất
+- sau cùng, sau rốt, cuối cùng
+
+@afternoon  
+*  dt
+- buổi chiều
+
++ in the afternoon of one's life: lúc về già
+
++ afternoon farmer: người lười biếng
+
+@afternoons
+* dt
+- vào các buổi chiều (như là một thói quen)
+ @after-pains  
+*  dt
+- (y học) chứng đau bóp tử cung sau hậu sản
+
+@afterpiece  
+*  dt
+- (sân khấu) tiết mục đuôi (tiết mục phụ thường là khôi hài, sau khi diễn xong vở chính); tiết mục hạ màn
+
+@after-ripeing
+* dt
+- sự chín tiếp; sự chín thêm
+ @afters  
+*  dt
+- (thông tục) món phụ sau (món ăn phụ, sau món ăn chính ở bữa cơm trưa)
+
+@aftersale
+* tt
+- sau khi bán hàng
+ @after-sales
+* tt
+- sau khi bán hàng
+
++  After-sales service:Dịch vụ sau khi bán hàng; dịch vụ hậu mãi
+ @after-sensation
+* dt
+- cảm giác tiếp tục, dự cảm
+ @after-shaft
+* dt
+- túm lông cuối; túm lông phụ
+ @aftershave
+* dt
+- nước thơm dùng sau khi cạo râu
+ @aftershock  
+*  dt
+- (địa lý,địa chất) dư chấn
+
+@aftertaste  
+*  dt
+- dư vị
+
+@aftertax
+* dt
+- thuế phụ thu
+ @afterthought  
+*  dt
+- sự suy nghĩ sau khi hành động; ý nghĩ nảy ra quá muộn (sau khi việc đã làm xong mất rồi)
+- các giải quyết đến sau, lời giải thích đến sau
+
+@afterward   (afterward) @afterwards   (afterward) @afterword  
+*  dt
+- lời bạt (cuối sách)
+
+@afterworld  
+*  dt
+- kiếp sau, thế giới bên kia
+
+@

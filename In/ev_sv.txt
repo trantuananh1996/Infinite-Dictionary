@@ -1,0 +1,20 @@
+@svarabhakti
+* dt
+- (ngôn ngữ) sự chêm một nguyên âm giữa (r) hay (l) với một phụ âm : thí dụ film đọc thành (fil&
+- 601;m)
+ @svedberg
+* dt
+- Xvetbéc (đơn vị bằng 10 ự 13 giây)
+ @svelte  
+*  tt
+- mảnh khảnh, mảnh dẻ (người)
+
+@sveltely
+* dt
+- xem svelte
+ @svelteness
+* dt
+- sự mảnh dẻ; thanh mảnh (người)
+ @svid
+- Một loại tiêu chuẩn đối với các hệ điều hành UNIX, do AT & T Bell Laboratories xây dựng theo đặt hàng của tập thể các khách mua, dựa trên cơ sở UNIX Version 5
+ @

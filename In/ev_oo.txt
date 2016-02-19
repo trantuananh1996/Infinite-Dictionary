@@ -1,0 +1,212 @@
+@oocarp
+* dt
+- (sinh vật) quả noãn (tế bào trứng thụ tinh hợp tử)
+ @oocentre
+* dt
+- tâm noãn
+ @oocinet
+* dt
+- sự phân cắt trứng
+ @oocyst
+* dt
+- kén hợp tử; kén trứng thụ tinh
+ @oocyte  
+*  dt
+- (sinh vật học) noãn bào
+
+@oodles  
+*  dt số nhiều
+- (thông tục) sự quá nhiều, sự vô vàn; muôn vàn
+
++ oodles of love: muôn vàn tình yêu
+
++ oodles of money: ối tiền
+
+@ooecia
+* dt
+- số nhiều
+- xem ooecium
+ @ooecium
+* dt
+- số nhiều : ooecia
+- (sinh vật) túi ấp
+ @oof  
+*  dt
+- (từ lóng) tiền, của, ngân
+
+@oof-bird  
+*  dt
+- (từ lóng) người giàu xụ, người lắm tiền
+- nguồn tiền, mỏ bạc ((từ lóng))
+
+@oofy  
+*  tt
+- (từ lóng) lắm tiền, nhiều của, giàu xụ
+
+@oogamete
+* dt
+- (sinh vật) noãn cầu, giao tử cái
+ @oogamous  
+*  dt
+- (sinh vật học) noãn giao
+
+@oogenesis  
+*  dt
+- (sinh vật học) sự sinh trứng, sự tạo trứng
+
+@oogenetic
+* tt
+- thuộc sự sinh trứng
+ @oogonial
+* tt
+- (sinh vật) thuộc túi noãn
+ @oogonium
+* dt
+- (sinh vật học) túi noãn
+ @ooid
+* tt
+- dạng trứng
+ @ookinesis
+* dt
+- (sinh vật học) sự phân cắt trứng
+ @oolite  
+*  dt
+- (địa lý,địa chất) Oolite đá trứng cá
+
+@oolith
+* dt
+- sỏi dạng trứng
+ @oolitic  
+*  tt
+- (địa lý,địa chất) (thuộc) đá trứng cá
+
+@oological  
+*  tt
+- (thuộc) khoa nghiên cứu trứng chim
+
+@oologist  
+*  dt
+- nhà nghiên cứu trứng chim
+
+@oology  
+*  dt
+- khoa nghiên cứu trứng chim
+
+@oolong  
+*  dt
+- chè ô long
+
+@oomph  
+*  dt (từ Mỹ,nghĩa Mỹ),  (từ lóng)
+- sự gợi tình
+- sức mạnh, sự cường tráng
+- nghị lực
+
+@oont  
+*  dt
+- (Anh-Ân) con lạc đà
+
+@oophore
+* dt
+- (sinh vật học) buồng trứng; noãn sào
+- thể giao tử
+- noãn thực vật
+ @oophorectomy  
+*  dt
+- (y học) thủ thuật cắt buồng trứng
+
+@oophoridium
+* dt
+- (sinh vật học) túi bào tử cái
+ @oophoritis  
+*  dt
+- (y học) viêm buồng trứng
+
+@oophoron
+* dt
+- (sinh vật học) buồng trứng
+ @oophyte
+* dt
+- (sinh vật học) thể  @oophytic
+* tt
+- xem oophyte, thuộc về thể giao tử; thuộc về noãn thực vật
+ @ooplasm
+* dt
+- (sinh vật học) chất tế bào trứng
+ @ooplasmic
+* tt
+- xem ooplasm, thuộc về chất tế bào trứng
+ @ooplast
+* dt
+- (sinh vật học) noãn cầu; trứng
+ @oops
+- Viết tắt của object-oriented programming system (hệ lập trình hướng đối tượng)
+ @oosperm  
+*  dt
+- (sinh vật học) trứng thụ tinh
+
+@oosphere  
+*  dt
+- (sinh vật học) noãn cầu
+
+@oosporangium
+* dt
+- túi noãn; ổ noãn
+ @oospore  
+*  dt
+- (sinh vật học) noãn bào tử
+
+@ootheca
+* dt
+- số nhiều : oothecae
+- vỏ trứng (côn trùng); túi bào tử
+ @oothecae
+* dt
+- số nhiều
+- xem ootheca
+ @oothecal
+* tt
+- xem ootheca, thuộc vỏ trứng (côn trùng); thuộc túi bào tử
+ @ootocoid
+* tt
+- đẻ thai trứng
+ @ootocous
+* tt
+- đẻ trứng
+ @ootype
+* dt
+- Ootip
+ @ooze  
+*  dt
+- bùn sông, bùn cửa biển
+- nước vỏ sồi (để thuộc da)
+- sự rỉ nước
+- nước rỉ ra
+*  ngdgt
+- rỉ ra (ẩm)
+- đưa ra, phát ra (tin tức)
+*  ndgt
+- rỉ ra
+- (nghĩa bóng) (: out,  away) tiết lộ, lộ ra
+
++ secret oozed out: sự bí mật bị lộ
+- (: out,  away) biến dần mất, tiêu tan dần
+
++ his courage is oozing away: lòng can đảm của hắn biến dần mất
+
+@ooziness  
+*  dt
+- sự ri rỉ, sự rỉ nước
+
+@oozoite
+* dt
+- thể bố mẹ vô tính
+ @oozooid
+* dt
+- (sinh vật học) cá thể noãn sinh
+ @oozy  
+*  tt
+- có bùn, đầy bùn
+- ri rỉ, rỉ nước
+
+@

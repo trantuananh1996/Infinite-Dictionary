@@ -1,0 +1,142 @@
+@igloo  
+*  dt
+- lều tuyết (của người Et-ki-mô)
+
+@igneous  
+*  tt
+- (thuộc) lửa; có tính chất lửa; có lửa
+- do lửa tạo thành
+
++ igneous rock: đá hoá thành
+
+@ignescent
+* tt
+- có thể phát ra tia lửa
+ @ignis fatuus  
+*  dt
+- ma trơi
+- hy vọng hão huyền, ảo tưởng
+
+@ignitability
+* dt
+- tình trạng có thể bắt lửa; tình trạng cháy bùng lên
+ @ignitable   (ignitible) @ignite  
+*  ngdgt
+- đốt cháy, nhóm lửa vào
+- làm nóng chảy
+- (nghĩa bóng) kích thích, kích động, làm bừng bừng
+
++ his speech ignited the crowd: bài nói của anh ta kích động đám đông
+*  ndgt
+- bắt lửa, bốc cháy
+
+@ignite
+- (vật lí) bốc cháy
+ @igniter  
+*  dt
+- người nhóm lửa, người đốt cháy
+- mồi lửa; bộ phận đánh lửa (trong máy)
+- ngòi nổ, kíp nổ
+
+@ignitible   (ignitible) @ignition  
+*  dt
+- sự đốt cháy, sự bốc cháy
+- sự mồi lửa, sự đánh lửa
+
++ battery ignition: sự mồi lửa bằng ắc quy
+
++ spark ignition: sự mồi bằng tia lửa
+- bộ phận mồi lửa, bộ phận đánh lửa (trong máy) ((viết tắt) ign)
+
+@ignition
+- sự bốc cháy
+ @ignitor
+- xem ignite
+ @ignobility   (ignobility) @ignoble  
+*  tt
+- đê tiện, ti tiện
+
++ an ignoble action: một hành động đê tiện
+- ô nhục, nhục nhã
+
++ an ignoble capitulation: sự đầu hàng nhục nhã
+- (từ hiếm,nghĩa hiếm) ở địa vị hèn mọn, ở địa vị thấp hèn, (thuộc) tầng lớp hạ lưu
+
+@ignobleness   (ignobility) @ignobly
+* dt
+- đê tiện, nhục nhã
+ @ignominious  
+*  tt
+- xấu xa, đê tiện, đáng khinh
+
++ an ignominious hehaviour: một hành vi đê tiện
+- nhục nhã, ô nhục
+
++ an ignominious defeat: một sự thất bại nhục nhã
+
+@ignominiously
+* dt
+- nhục nhã, đê tiện
+ @ignominiousness
+- xem ignominious
+ @ignominy  
+*  dt
+- tính xấu xa, tính đê tiện, tính đáng khinh
+- tư cách đê tiện, tư cách đáng khinh; hành động đê tiện; hành động đáng khinh
+- sự nhục nhã, sự ô nhục
+
+@ignorable  
+*  tt
+- có thể lờ đi, có thể phớt lờ đi
+- (pháp lý) có thể bác bỏ (bản cáo trạng, vì không đủ chứng cớ)
+
+@ignorable
+- không biết được
+ @ignoramus  
+*  dt
+- người ngu dốt
+
+@ignorance   (ignoranctness) @ignorance
+- (logic học) sự không biết
+- final i. sự không biết cuối cùng
+- initial i. sự không biết ban đầu
+- prior i. sự không biết tiên nghiệm 
+ @ignorant  
+*  tt
+- ngu dốt, dốt nát
+- không biết
+
++ to be ignorant of (in)...: không biết gì về...
+
+@ignorantism  
+*  dt
+- chủ nghĩa ngu đần
+
+@ignorantly
+* dt
+- ngu dốt, dốt nát
+ @ignorantness   (ignoranctness) @ignore  
+*  ngdgt
+- lờ đi, phớt đi, làm ra vẻ không biết đến
+
++ to ignore someone: lờ ai đi
+- (pháp lý) bác bỏ (một bản cáo trạng vì không đủ chứng cớ)
+
+@ignore
+- không biết
+ @ignorer  
+*  dt
+- người lờ đi, người phớt đi, người làm ra vẻ không biết đến
+
+@iguana  
+*  dt
+- (động vật học) con giông mào, con cự đà
+
+@iguanid
+* dt
+- loại thằn lằn Mỹ nhiệt đới
+ @iguanodon  
+*  dt
+- thằn lằn răng giông (hoá thạch)
+
+@

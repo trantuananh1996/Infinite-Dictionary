@@ -1,0 +1,120 @@
+@azalea  
+*  dt
+- (thực vật học) cây khô (họ đỗ quyên)
+
+@azerbaijanese
+* dt
+- người Agiecbaigiăng
+- tiếng Agiecbaigiăng
+ @azilian  
+*  tt
+- (thuộc) thời kỳ azin (thời kỳ chuyển tiếp giữa thời kỳ đồ đá cũ và thời kỹ đồ đá mới)
+
+@azimith
+- góc cực; (thiên văn) độ phương vị
+ @azimuth  
+*  dt
+- góc phương vị
+
++ magnette azimuth: góc phương vị tư
+
+@azimuth
+- (Tech) độ phương vị, góc phương [TN]; góc cực
+ @azimuth beam
+- (Tech) góc phương vị
+ @azimuth coverage
+- (Tech) phạm vi @azimuth drive
+- (Tech) truyền động phương vị
+ @azimuth potentiometer
+- (Tech) máy điện thế phương vị, bộ biến trở phương vị
+ @azimuth rate
+- (Tech) tốc độ thay đổi phương vị
+ @azimuth resolution
+- (Tech) độ phân giải phương vị
+ @azimuth selsyn
+- (Tech) máy tự đồng bộ phương vị
+ @azimuth sweep
+- (Tech) quét phương vị
+ @azimuthal  
+*  tt
+- (thuộc) góc phương vị
+
+@azimuthal
+- (thuộc) góc cực; độ phương vị
+ @azimuthal component
+- (Tech) thành phần phương vị
+ @azimuthally
+- xem azimuth
+ @azin
+* dt
+- (hoá học) Azin
+ @azoic  
+*  tt
+- vô sinh
+- (địa lý,địa chất) không có tàn tích hữu cơ
+
+@azole
+* dt
+- (hoá học) Nitơ
+ @azolla  
+*  dt
+- (thực vật học) bèo dâu, bèo hoa dâu
+
+@azonal
+* tt
+- (địa lý) phi địa đới
+ @azotaemia
+* dt
+- (y học) hứng tăng urê huyết
+ @azote  
+*  dt
+- (hoá học) nitơ
+
+@azoth
+* dt
+- thủy ngân
+- kim đan
+ @azotic  
+*  tt
+- (hoá học) nitric
+
++ azotic acid: axit nitric
+
+@azotobacter
+* dt
+- (sinh học) đạm khuẩn
+ @azotobacterin
+* dt
+- phân azotobacterin
+ @azoturia
+* dt
+- (y học) chứng đái nitơ
+ @aztec
+* dt
+- người Axtec (ở Mêc-xich,  Bắc Mỹ)
+- tiếng Axtec
+ @azure  
+*  tt
+- xanh da trời, trong xanh
+*  dt
+- màu xanh da trời
+- bầu trời xanh ngắt; bầu trời trong xanh
+- đá da trời
+*  ngdgt
+- nhuộm màu xanh da trời
+
+@azurit  
+*  dt
+- (khoáng chất) azurit
+
+@azygous  
+*  tt
+- (sinh vật học) đơn (tĩnh mạch, động mạch)
+
+@azymic
+* tt
+- không lên men
+ @azymous
+* tt
+- không men
+ @

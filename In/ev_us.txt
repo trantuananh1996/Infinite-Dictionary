@@ -1,0 +1,274 @@
+@us  
+*  đại từ
+- chúng tôi, chúng ta, chúng mình
+
+@usa
+* (viết tắt)
+- nước Mỹ; Hiệp chủng quốc Hoa Kỳ (United States of America)
+- quân đội Mỹ, quân đội Hoa Kỳ (United States Army)
+ @usability
+- xem usable
+ @usable  
+*  tt
+- có thể dùng được, sử dụng được
+
+@usableness
+- xem usable
+ @usably
+- xem usable
+ @usaf
+* (viết tắt)
+- không lực Mỹ (United  States  of  America)
+ @usage  
+*  dt
+- cách dùng, cách sử dụng
+- (ngôn ngữ học) cách dùng thông thường
+- cách đối xử, cách đối đ i
+
++ to meet with hard usage: bị bạc đ i bị hành hạ
+- thói quen, tập quán, tục lệ, lệ thường
+
++ social usage(s): tập quán x  hội
+
++ the usages and customs of a country: phong tục tập quán của một nước
+
+@usage
+- sự sử dụng
+ @usance  
+*  dt
+- (thưng nghiệp) thời hạn tr hối phiếu
+
+@usd
+* (viết tắt)
+- đô la Mỹ; Mỹ kim (United States Dollar)
+- viết tắt
+- đô la Mỹ; Mỹ kim (United States Dollar)
+ @use  
+*  dt
+- sự dùng; cách dùng
+
++ to put to use: đưa ra dùng
+
++ in common use: thường dùng
+
++ in use: được dùng, thông dụng
+
++ out of use: không dùng nữa
+- quyền dùng, quyền sử dụng
+
++ to have the use of something: được quyền dùng cái gì
+- năng lực sử dụng
+
++ to lose the use of one's eyes: mất năng lực sử dụng con mắt
+- thói quen, tập quán
+
++ in these cases use is the best guide: trong những trường hợp này theo thói quen là tốt nhất
+- sự có ích; ích lợi
+
++ to be of use for: có ích cho, dùng được cho
+
++ to have no further use for: không dùng làm gì nữa, không cần đến nữa
+- (tôn giáo) lễ nghi
+- (pháp lý) quyền hoa lợi
+*  ngdgt
+- dùng, sử dụng
+
++ to use something: dùng vật gì
+
++ to be used for: được dùng để
+- dùng, áp dụng, lợi dụng
+
++ to use every means: dùng đủ mọi cách
+
++ to use one's opportunities: lợi dụng c hội
+
++ to use someone: lợi dụng ai
+- tiêu dùng, tiêu thụ
+
++ to use up all one's provisions: dùng hết lưng ăn để dành
+- đối xử, đối đ i, ăn ở
+
++ use others as you would have them use you: h y đối xử người khác như mình muốn họ đối xử với mình
+- (chỉ thời quá khứ) trước kia có thói quen, trước kia hay
+
++ it used to be said that: trước kia người ta thường nói rằng
+
++ there used to be a house here: trước kia ở đây có một ngôi nhà
+
++ he usedn't to drink; (mỹ) he didn't use to drink: trước kia nó không quen uống rượu
+!to use up
+- dùng cho đến hết tiệt
+- tận dụng (những cái còn thừa)
+- dùng cho đến kiệt sức (người, ngựa)
+
+@use
+- dùng
+ @Use value and exchange value
+- (Econ) Giá trị sử dụng và giá trị trao đổi.
+: Một sự phân biệt, mà làm chủ đề thảo luận từ thời AISTOTLE đến C.Mác, giữa độ thoả dụng có được từ hàng hóa và giá cả của nó.
+ @used  
+*  tt
+- thường dùng, đang dùng
+- cũ, đ  dùng rồi (đồ vật)
+
++ used clothes: áo quần cũ
+- quen
+
++ used to danger: quen với nguy hiểm
+
+@useful  
+*  tt
+- có ích, dùng được
+- (từ lóng) làm ăn được, cừ
+
++ a useful footballer: một cầu thủ bóng đá cừ
+- (từ lóng) thạo dùng
+
++ to be pretty useful with one's fists: thạo dùng qu đấm của mình
+
+@useful
+- có ích
+ @usefully
+* dt
+- hữu ích, có ích, giúp ích; có thể được dùng cho một mục đích thực tế nào đó
+- <thgt> thạo, có năng lực, cừ
+ @usefulness  
+*  dt
+- sự ích lợi; tính chất có ích
+- (từ lóng) kh năng
+- (từ lóng) sự thành thạo
+
+@useless  
+*  tt
+- vô ích, vô dụng; không dùng được
+
++ useless efforts: những cố gắng vô ích
+- (từ lóng) không khoẻ; không phấn khởi; vứt đi
+
+@useless
+- vô ích
+ @uselessly
+* dt
+- vô ích, vô dụng; không đem lại kết quả tốt, không phục vụ cho một mục đích hữu ích nào
+- <thgt> kém, yếu, không thạo
+ @uselessness  
+*  dt
+- tính chất vô ích, tính chất vô dụng
+- (từ lóng) tình trạng không khoẻ; tình trạng không phấn khởi; tình trạng đáng vứt đi
+
+@usenet
+- Một hệ thống bảng bulletin phân phối thông tin
+ @user  
+*  dt
+- người dùng, người hay dùng
+
++ telephone user: người dùng dây nói
+
+@User  cost of capital
+- (Econ) Chi phí sử dụng vốn.
+: Giá trị thuê dịch vụ vốn, hay giá mà một hãng phải trả cho việc sử dụng dung lượng vốn mà nó sở hữu hay xem xét để mua.
+ @user-friendliness
+- xem user-friendly
+ @user-friendly
+* tt
+- dễ sử dụng cho những người không chuyên môn; không khó, không gây e ngại (nhất là về máy tính, phần mềm của nó )
+ @usergroup
+- Một tập hợp tự nguyện của những người sử dụng cùng một loại chương trình hoặc một loại máy tính cụ thể, họ thường xuyên gặp nhau để trao đổi về các bí quyết và các phương pháp sử dụng, nghe các chuyên gia máy tính giới thiệu và các phần mềm công cộng như các phần mềm cổ đông
+ @usher  
+*  dt
+- người chỉ chỗ ngồi (trong rạp hát, rạp chiếu bóng)
+- chưởng toà
+- (nghĩa xấu) trợ giáo
+*  ngdgt
+- đưa, dẫn
+
++ to usher into: dẫn vào, đưa vào
+- báo hiệu, mở ra
+
++ to usher in a new period of prosperity: mở ra một thời kỳ thịnh vượng mới
+
+@usherette  
+*  dt
+- người đàn bà chỉ chỗ ngồi (trong rạp hát, rạp chiếu bóng...)
+
+@usn
+* (viết tắt)
+- Hải quân Hoa Kỳ (United States Navy)
+ @usquebaugh  
+*  dt
+- rượu uytky
+
+@uss
+* (viết tắt)
+- chiến hạm Hoa Kỳ (United States Ship)
+
++  USS Oklahoma:Chiến hạm Oklahoma của Hoa Kỳ
+ @ussr
+* (viết tắt)
+- Liên bang Xô viết (Union of Soviet Socialist  Republics)
+ @usual  
+*  tt
+- thường, thông thường, thường lệ, thường dùng, dùng quen
+
++ usual clothes: quần áo thường mặc hằng ngày
+
++ to arrive later than usual: đến muộn hn thường ngày
+
++ as usual: như thường lệ
+
+@usual
+- thường, thông dụng
+ @usually  
+*  dt
+- thường thường, thường lệ
+
+@usualness
+- xem usual
+ @usufruct  
+*  dt
+- (pháp lý) quyền hoa lợi
+
+@usufructuary  
+*  tt
+- (thuộc) quyền hoa lợi
+*  dt
+- người hưởng quyền hoa lợi
+
+@usurer  
+*  dt
+- người cho vay nặng l i
+
+@usurious  
+*  tt
+- nặng l i
+
+@usuriously
+- xem usurious
+ @usuriousness
+- xem usurious
+ @usurp  
+*  ngdgt
+- lấn chiếm, chiếm đoạt; cướp, cướp đoạt
+
++ to usurp the throne: cướp ngôi
+
+@usurpation  
+*  dt
+- sự lấn chiếm, sự chiếm đoạt, sự cướp đoạt
+
+@usurper  
+*  dt
+- người chiếm đoạt; người cướp ngôi
+
+@usurpingly  
+*  dt
+- bằng cách chiếm đoạt, bằng cách cướp đoạt
+
+@usury  
+*  dt
+- sự cho vay nặng l i
+- l i nặng ((thường) nghĩa bóng)
+
++ a service repaid with usury: sự giúp đỡ được đền đáp lại gấp bội
+
+@

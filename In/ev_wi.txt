@@ -1,0 +1,2529 @@
+@wick  
+*  dt
+- bấc (đèn)
+- (y học) bấc
+
+@wicked  
+*  tt
+- xấu, hư, tệ, đồi bại, tội lỗi
+- ác, độc ác
+- nguy hại
+- tinh quái
+- dữ (thú)
+- độc
+
++ wicked climate: khí hậu độc
+
+@wickedness  
+*  dt
+- tính chất đồi bại
+- tính chất độc ác
+- tính chất nguy hại
+- tính tinh quái
+- tính độc hại
+
+@wicker  
+*  dt
+- (thực vật học) liễu gai
+- đồ đan bằng liễu gai
+
+@wickered  
+*  tt
+- đan bằng liễu gai; bọc bằng liễu gai
+
++ wickered chair: ghế đan bằng liễu gai
+
++ wickered bottle: chai bọc bằng liễu gai
+
+@wicker-work  
+*  dt
+- đồ làm bằng liễu gai
+
+@wicket  
+*  dt
+- cửa nhỏ, cửa xép (bên cạnh cửa lớn...)
+- cửa xoay
+- cửa chắn (chỉ mở ở phía trên, phía dưới để chặn gà, súc vật...)
+- cửa bán vé
+!to be on a good wicket
+- ở thế lợi
+!to be on a sticky wicket
+- ở thế không lợi
+
+@wicking
+* dt
+- chất bấc; vật liệu làm bấc đèn
+ @Wicksell effects
+- (Econ) Các hiệu ứng của Wicksell.
+: Các hiệu ứng của Wicksell chỉ ra rằng ngược lại với thuyết hiệu suất biên của vốn, lãi suất thực tế trong nền kinh tế có thể khác với tổng sản phẩm biên của vốn.
+ @Wicksell, Knut
+- (Econ) (1851-1926)
+: Một nhà kinh tế học người Thuỵ Điển. Wicksell học toán và triết học, là chủ nhiệm bộ môn kinh tế trường đại học Lund năm 1904. Tác phẩm của ông đã giải thích, tổng hợp và phát triển thuyết tân cổ điển về sản xuất và phân phối. Ông đã bàn luận về lợi tức của vốn và mối quan hệ của nó với lãi suất. Ngược lại với học thuyết đương thời, ông đã chỉ ra rằng trong cân bằng, trông giá trị của sản phẩm xã hội biên của vốn thấp hơn lãi xuất. Điều này có thể đúng do tổng hiệu ứng của lần bổ sung riêng biệt vào Dung lượng vốn có thể làm tăng giá trị của tổng dung lượng vốn và do đó làm giảm giá trị của phần tăng thêm. Điêu này được gọi là hiệu ứng Wicksell. Wicksell đã giải thích sự tồn tại của lãi suất cao trong những giai đoạn lạm phát bằng việc phân tích các yếu tố quyết định cung tiền tại nhiều thể chế tiền tệ khác nhau. Quá tình luỹ tích lạm phát có nhiều điểm chung với chênh lệch lạm phát của Keynes. Thực tế, G.Myrdal và Lindahl , kế tục thuyết của ông đã phát triển sự khác biệt giữa đầu tư kế hoạch và đầu tư thực tiễn được ngầm thể hiện trong sự phân biệt của Wicksell giữa thời hạn đầu tư và tiết kiệm.
+ @widder
+* dt
+- (thông tục) xem widow
+ @wide  
+*  tt
+- rộng, rộng lớn
+
++ a wide river: con sông rộng
+
++ wide plain: cánh đồng rộng
+- mở rộng, mở to
+
++ with wide eyes: với đôi mắt mở to
+- (nghĩa bóng) rộng, uyên bác (học vấn)
+
++ a man of wide culture: một người học rộng
+
++ wide views: quan điểm rộng r i
+- (nghĩa bóng) rộng r i, phóng khoáng, không có thành kiến (tư tưởng)
+- xa, cách xa
+
++ to be wide of the target (mark): xa mục tiêu, xa đích
+
++ wide of the truth: xa sự thật
+- xo trá
+
++ a wide boy: một đứa bé xo trá
+*  dt
+- rộng, rộng r i, rộng khắp
+
++ to spread far and wide: lan rộng khắp, tri rộng ra
+- xa, trệch xa
+
++ wide apart: cách xa
+
++ the blow went wide: cú đánh trệch xa đích
+
++ the ball went wide of the goal: qu bóng bay chệch xa khung thành
+*  dt
+- (thể dục,thể thao) qu bóng cách xa đích (crickê)
+- (the wide) vũ trụ bao la
+!to be broken to the wide
+- (từ lóng) không một xu dính túi, kiết lõ đít
+
+@wide
+- rộng, rộng rãi
+ @wide awake  
+*  tt
+- thức, tỉnh hẳn
+- (nghĩa bóng) tỉnh táo, hiểu biết, thận trọng
+
+@wide-awake  
+*  dt
+- mũ dạ mềm rộng vành
+
+@widely  
+*  dt
+- nhiều, xa
+
++ widely separated: cách xa nhau nhiều
+
++ to differ widely in opinions: ý kiến khác nhau nhiều
+- rộng r i, khắp ni
+
++ it is widely known that...: khắp ni người ta đều biết rằng..., đâu đâu người ta cũng biết rằng...
+- thưa, thưa thớt
+
+@widen  
+*  ngdgt
+- làm cho rộng ra, nới rộng ra, mở rộng
+- (nghĩa bóng) làm lan rộng, khuếch trưng
+*  ndgt
+- rộng ra, mở ra
+- (nghĩa bóng) lan rộng
+
+@widening  
+*  dt
+- sự làm rộng, sự nới rộng, sự mở rộng
+- (nghĩa bóng) sự làm lan rộng, sự khuếch trưng
+
+@wide-open  
+*  tt
+- mở rộng
+- trống, trống tri
+- (từ Mỹ,nghĩa Mỹ) không hạn chế chi bời rượu chè (thành phố)
+
+@widespread  
+*  tt
+- lan rộng, phổ biến
+
+@widgeon   (wigeon) @widish  
+*  tt
+- hi rộng
+
+@widow  
+*  dt
+- người đàn bà goá, qu phụ
+*  ngdgt
+- giết chồng, giết vợ (ai); làm cho goá (chồng, vợ); cướp mất chồng, cướp mất vợ (ai)
+- (th ca) cướp mất (bạn...)
+- (từ Mỹ,nghĩa Mỹ),  (từ hiếm,nghĩa hiếm) là vợ goá của (ai)
+
+@widowed  
+*  tt
+- goá (chồng, vợ)
+- (th ca) (: of) bị mất, bị cướp mất; không có
+
+@widower  
+*  dt
+- người goá vợ
+
+@widowerhood
+* dt
+- cảnh goá vợ; thời gian goá vợ
+* dt
+- cảnh goá vợ; thời gian goá vợ
+ @widowhood  
+*  dt
+- cnh goá bụa
+- thời gian ở goá
+
+@width  
+*  dt
+- tính chất rộng
+
++ a road of great width: con đường rộng
+- bề rộng, bề ngang
+
++ 10 metres in width: rộng 10 mét
+- khổ (vi)
+
++ double width: khổ dôi
+
++ to join two widths of cloth: nối hai khổ vi
+- (nghĩa bóng) tính chất rộng r i
+
++ width of mind: óc rộng r i
+
++ width of views: quan điểm rộng r i
+
+@width
+- chiều rộng; vĩ độ
+- reduced w. độ rộng rút gọn 
+ @wield  
+*  ngdgt
+- nắm và sử dụng (vũ khí)
+- dùng, cầm (một dụng cụ)
+
++ to wield the pen: viết
+- (nghĩa bóng) sử dụng, vận dụng, thi hành
+
++ to wield power: sử dụng quyền lực (quyền hành)
+
++ to wield influence: có nh hưởng, có thế lực
+
+@wieldy  
+*  tt
+- dễ cầm, dễ dùng, dễ sử dụng (dụng cụ)
+
+@Wieser, Friederich von
+- (Econ) (1851-1926)
+: Là một nhà kinh tế học, một chính trị gia và một thành viên của trường phái ÁO. Ông đã hoàn thiện hơn học thuyết ĐỘ THOẢ DỤNG BIÊN do Menger khởi xướng nhưng đóng góp chính của ông nằm trong học thuyết quy giá trị hoặc gán giá trị.Wieser cũng là người đầu tiên nhận thấy rằng logic  chung của hành vi kinh tế nhằm tối đa hoá lợi ích, tối thiểu hoá chi phí và chú ý tới tỷ suất biên đã sinh ra thuyết kinh tế Xã hội chủ nghĩa.
+ @wife  
+*  dt,  số nhiều wives
+- vợ
+
++ to take to wife: (từ cổ,nghĩa cổ) lấy làm vợ, cưới làm vợ
+- (từ cổ,nghĩa cổ) người đàn bà; bà già
+
+@wifehood  
+*  dt
+- cnh làm vợ, cưng vị làm vợ
+
+@wifeless  
+*  tt
+- không có vợ
+
++ to remain wifeless: ở độc thân, không lấy vợ
+
+@wifelike   (wifely) @wifely   (wifely) @wig  
+*  dt
+- bộ tóc gi
+*  ngdgt
+- (thông tục) chửi mắng thậm tệ
+
+@wigeon   (wigeon) @wigged  
+*  tt
+- mang tóc gi
+
+@wigging  
+*  dt
+- (thông tục) sự chửi mắng thậm tệ
+
++ to give someone a good wigging: chửi mắng ai thậm tệ
+
+@wiggle  
+*  dt
+- sự lắc lư; sự ngọ nguậy
+*  dgt
+- (thông tục) lắc lư; ngọ nguậy
+
++ to wiggle one's toes: ngọ nguậy ngón chân
+
++ keep still! don't wiggle!: đứng yên, không được ngọ nguậy!
+
+@wiggly
+* tt
+- (thông tục) lượn sóng (đường kẻ)
+ @wight  
+*  dt
+- (từ cổ,nghĩa cổ) người, kẻ
+
+@wigman  
+*  dt
+- lều (của người da đỏ ở Mỹ)
+
+@wigwag  
+*  dt
+- (quân sự),  (hàng hi) sự đánh tín hiệu bằng cờ
+*  dgt
+- (quân sự),  (hàng hi) đánh tín hiệu bằng cờ
+
+@wig-wag
+* dgt
+- (quân sự) (hàng hải) đánh tín hiệu bằng cờ
+* dt
+- sự đánh tín hiệu bằng cờ
+ @wigwam
+* dt
+- lều (của người da đỏ ở Mỹ)
+ @wild  
+*  tt
+- dại, hoang (ở) rừng
+
++ wild grass: cỏ dại
+
++ to grow wild: mọc hoang (cây)
+
++ wild beasts: d  thú, thú rừng
+
++ wild bird: chim rừng
+- chưa thuần; chưa dạn người (thú, chim)
+- man rợ, man di, chưa văn minh
+
++ wild tribes: bộ lạc man rợ
+- hoang vu, không người ở
+
++ wild country: xứ hoang vu
+- dữ dội, b o táp
+
++ wild wind: gió dữ dội
+
++ wild day: ngày b o táp
+- rối, lộn xộn, lung tung
+
++ wild hair: tóc rối, tóc bù xù
+
++ wild confusion: sự rối loạn lung tung
+- điên, điên cuồng, nhiệt liệt
+
++ wild with anger: tức điên
+
++ to drive someone wild: chọc tức ai
+
++ wild laughter: cái cười như điên
+
++ to be wild to do something: điên lên muốn làm việc gì
+- ngông cuồng, rồ dại, liều mạng, thiếu đắn đo suy nghĩ, bừa b i
+
++ wild opinions: những ý kiến ngông cuồng rồ dại
+- tự do, bừa b i, phóng túng, lêu lổng
+
++ a wild life: cuộc đời phóng túng; lối sống phóng đ ng
+*  dt
+- vu v, bừa b i, lung tung
+
++ to shoot wild: bắn lung tung
+
++ to talk wild: nói lung tung bừa b i
+*  dt
+- vùng hoang vu
+
+@wildcat  
+*  tt
+- liều, liều lĩnh
+
++ a wildcat scheme: một kết hoạch liều lĩnh; một mưu đồ liều lĩnh
+
+@Wildcat strike
+- (Econ) Bãi công không chính thức
+: Là cuộc bãi công do các nhóm thành viên công đoàn địa phương tổ chức, về mặt hình thức không có sự cho phép chính thức của ban lãnh đạo công đoàn và trái với những nguyên tắc đã định.
+ @wilderness  
+*  dt
+- vùng hoang vu, vùng hoang d 
+- phần bỏ hoang (trong khu vườn)
+- ni vắng vẻ tiêu điều, ni hoang tàn
+
++ a wilderness of streets: những d y phố hoang tàn
+- vô vàn, vô số
+!a voice in the wilderness
+- tiếng kêu trong sa mạc (nghĩa bóng)
+!wandering in the wilderness
+- (chính trị) không nắm chính quyền (đng)
+
+@wildfire  
+*  dt
+- chất cháy (người Hy lạp xưa dùng để đốt tàu địch)
+!to spread like wildfire
+- lan rất nhanh (tin đồn)
+
+@wildfowl  
+*  dt
+- chim săn bắn
+
+@wild-goose chase  
+*  dt
+- việc làm ngôn cuồng; sự đeo đuổi viển vông
+
+@wilding  
+*  dt
+- (thực vật học) cây dại; cây tự mọc
+- qu của cây dại
+
+@wildlife
+* dt
+- (từ Mỹ) những thú vật, chim muông... hoang dã
+- wildlife conservation
+- sự bảo tồn những loài thú, chim rừng
+
++  wildlife sanctuary:khu bảo tồn động vật hoang dã
+ @wildness  
+*  dt
+- tình trạng hoang d 
+- tính chất man rợ
+- tình trạng hoang vu (miền)
+- sự dữ dội
+- sự cuồng nhiệt, sự điên cuồng
+- tính chất phóng đ ng, tính chất bừa b i (trong cuộc sống)
+
+@wile  
+*  dt
+- mưu mẹo, mưu chước
+
++ the wiles of the devil: mưu ma chước quỷ
+*  ngdgt
+- lừa, dụ, dụ dỗ
+
++ to wile into: dụ vào
+!to wile away the time
+- giết thì giờ
+
+@wilful  
+*  tt ((từ Mỹ,nghĩa Mỹ) willful)
+- cố ý, chủ tâm
+
++ wilful murder: tội cố sát
+- cứng cổ, bướng, ngang ngạnh, ngoan cố
+
++ a wilful child: một đứa trẻ bướng bỉnh
+
+@wilfulness  
+*  dt
+- sự cố ý
+- tính bướng bỉnh, tính ưng ngạnh, tính ngoan cố
+
+@wiliness  
+*  dt
+- tính xo trá, tính quỷ quyệt
+
+@will  
+*  dt
+- ý chí, chí, ý định, lòng
+
++ will can conquer habit: ý chí có thể chế ngự thói quen
+
++ strong will: ý chí mạnh mẽ
+
++ lack of will: sự thiếu ý chí
+
++ free will: tự do ý chí
+
++ it is my will that...: ý tôi muốn rằng...
+
++ where there's a will there's a way: (tục ngữ) có chí thì nên
+- sự hăng say; sự quyết chí, sự quyết tâm
+
++ to work with a will: làm việc hăng say
+
++ a will that overcomes all difficulties: quyết tâm khắc phục mọi khó khăn
+- nguyện vọng, ý muốn; ý thích
+
++ against one's will: trái ý mình
+
++ at one's will and pleasure: tuỳ ý mình
+
++ of one's free will: hoàn toàn do ý muốn của mình
+
++ at will: theo ý muốn, tuỳ ý
+
++ to have one's will: đạt ý muốn, toại nguyện
+- (pháp lý) tờ di chúc, chúc thư
+
++ to make one's will: làm chúc thư
+
++ last will and testament: di mệnh, di chúc
+*  ngdgt willed
+- tỏ ý chí; có quyết chí
+- định
+
++ Heaven willed it: trời đ  định như thế
+- buộc, bắt buộc
+
++ to will oneself: tự buộc phi
+- (pháp lý) để lại bằng chức thư
+*  dgt would
+- muốn
+
++ do as you will: anh cứ làm theo như ý anh muốn
+- thuận, bằng lòng
+
++ I hope you will sing: tôi hy vọng rằng anh sẽ bằng lòng hát
+- thường vẫn
+
++ he would go for a walk every morning: nó thường vẫn dạo chi mỗi sáng
+- nếu, giá mà, ước rằng
+
++ would I were in good health: giá mà tôi khoẻ
+- phi, tất nhiên; ắt là, hẳn là, chắc là
+
++ boys will be boys: con trai thì tất nhiên vẫn là con trai
+
++ and that will be his son with him: hẳn là con ông ta đang đi với ông ta
+- nhất định sẽ
+
++ accident will happen: tai nạn nhất định sẽ xy ra
+- sẽ (tưng lai)
+
++ I know he will change his mind: tôi biết rằng nó sẽ thay đổi ý kiến
+- có thể
+
++ the next stop will be Haiduong, I suppose: tôi cho rằng ga sắp đến có thể là Hi dưng
+
+@willet  
+*  dt
+- (động vật học) chim dẽ Bắc Mỹ
+
+@willful  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) (như) wilful
+
+@willies  
+*  dt số nhiều
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sự sợ h i, sự sợ sệt
+
+@willing  
+*  tt
+- bằng lòng, vui lòng; muốn
+
++ to be willing to do: muốn làm
+- sẵn sàng, quyết tâm
+
++ to be quite willing to: rất sẵn sàng
+
++ willing to help: sẵn sàng giúp đỡ
+
++ a willing worker: một công nhân quyết tâm
+- có thiện ý, hay giúp đỡ, sẵn lòng
+- tự nguyện
+
++ a willing help: sự giúp đỡ tự nguyện
+
+@willingly  
+*  dt
+- sẵn lòng, vui lòng
+- tự ý, tự nguyện
+
+@willingness  
+*  dt
+- sự bằng lòng, sự vui lòng
+- sự sẵn sàng, sự sốt sắng
+- sự tự nguyện
+- thiện ý
+
+@Willingness to pay
+- (Econ) Mức sẵn sàng trả.
+: Việc định giá của một cá nhân đối với một hàng hoá hoặc một dịch vụ bằng tiền.
+ @will-o'-the-wisp  
+*  dt
+- ma tri ((nghĩa đen) & (nghĩa bóng))
+
+@willow  
+*  dt
+- (thực vật học) cây liễu
+- (thể dục,thể thao) gậy đánh crickê ((thường) làm bằng gỗ liễu)
+- (nghành dệt) máy tước x
+!to wear the willow
+!to sing willow
+- thưng tiếc người thân đ  chết; nhớ nhung người thân vắng mặt
+
+@willowed
+* tt
+- trồng liễu; có nhiều liễu
+ @willow-green  
+*  tt
+- xanh màu lá liễu
+
+@willow-pattern  
+*  dt
+- hình vẽ men xanh (trên đồ sứ)
+
+@willowy  
+*  tt
+- có nhiều liễu
+- yểu điệu, thướt tha
+
+@willy-nilly  
+*  dt
+- dù muốn dù không, muốn hay không muốn
+
+@Wilson Committee
+- (Econ) Uỷ ban Wilson.
+: Uỷ ban đán giá hoạt động của các thể chế tài chính được nội các công đảng thành lập năm 1977, dưới sự chỉ đạo của Huân tước Harold Wilson, cựu thủ tướng nhằm xem xét vai trò và chức năng của các thể chế tài chính Anh và việc cung ứng vốn cho Công nghiệp và thương mại,  đề xuất những thay đổi cần thiết để giám sát các thể chế này.
+ @wilt  
+*  (từ cổ,nghĩa cổ) ngôi 2 số ít thời hiện tại của will
+*  ngdgt
+- làm héo
+- làm rủ xuống
+*  ndgt
+- tàn héo
+- rủ xuống
+- suy yếu, hao mòn, tiều tuỵ (người)
+- (thông tục) nn lòng, nn chí
+
+@wily  
+*  tt
+- xo trá, quỷ quyệt, lắm mưu
+
+@wimble  
+*  dt
+- (kỹ thuật) cái khoan; cái khoan tay
+
+@wimp
+* dt
+- <thgt> người yếu đuối, người nhút nhát (nhất là đàn ông)
+ @wimpish
+* tt
+- <thgt> ứng xử như một người nhút nhát
+ @wimple  
+*  dt
+- khăn trùm
+- chỗ cong, chỗ lượn (của đường, sông)
+- làn sóng
+*  ngdgt
+- trùm khăn cho (ai)
+*  ndgt
+- chy ngoằn ngoèo, lượn, uốn khúc
+- gợn sóng lăn tăn
+
+@win  
+*  dt
+- sự thắng cuộc
+
++ our team has had three wins this season: mùa này đội chúng tôi đ  thắng ba trận
+*  ngdgt won
+- chiếm, đoạt, thu được, nhận được, kiếm được, có được
+
++ to win a prize: đoạt gii
+
++ to win money: kiếm được tiền
+
++ to win one's bread: làm ăn sinh sống
+
++ to win glory: đạt được vinh quang
+- thắng cuộc; thắng
+
++ to win a race: thắng cuộc đua
+
++ to win a battle: thắng trận
+
++ to win the war: chiến thắng
+
++ to win the day; to win the field: thắng
+- thu phục, tranh thủ, lôi kéo
+
++ to win all hearts: thu phục được lòng mọi người
+
++ to win someone's confidence: tranh thủ được lòng tin cậy của ai
+- đạt đến, đến
+
++ to win the summit: đạt tới đỉnh
+
++ to win the shore: tới bờ, cập bến
+*  ndgt
+- thắng cuộc, thắng trận
+
++ which side won?: bên nào thắng?
+
++ to win hands down: thắng dễ dàng
+- (: upon) càng ngày càng lôi kéo; thuyết phục được
+
++  Marxism-Leninism is winning upon millions of people: chủ nghĩa Mác Lê-nin ngày càng lôi kéo được 
+hàng triệu người
+!to win back
+- lấy lại, chiếm lại
+!to win out
+- (từ Mỹ,nghĩa Mỹ) thắng cuộc, thắng trận
+!to win over
+- lôi kéo về
+!to win through
+- khắc phục, chiến thắng (khó khăn)
+
+@wince  
+*  dt
+- sự co rúm lại, sự rụt lại (vì đau đớn, sợ h i...)
+
++ without a wince: không rụt lại, thn nhiên
+*  ndgt
+- co rúm lại, rụt lại (vì đau đớn, sợ h i...)
+
++ without wincing: không rụt lại, thn nhiên
+
+@wincey  
+*  dt
+- vi pha len (để may s mi...)
+
+@winceyette
+* dt
+- vải mềm (làm bằng sợi bông, hoặc bông pha len, dùng để may bộ đồ ngủ, áo ngủ...)
+ @winch  
+*  dt
+- (kỹ thuật) tời
+- (thể dục,thể thao) ống cuộn dây câu
+*  ngdgt
+- kéo bằng tời
+
+@wind  
+*  dt (th ca)
+- gió
+
++ north wind: gió bấc
+
++ south wind: gió nam
+
++ to run like the wind: chạy nhanh như gió
+
++ the wind rises: trời nổi gió, gió thổi mạnh hn
+- phưng gió, phía gió thổi
+
++ down the wind: xuôi gió
+
++ in the teeth of wind; up the wind: ngược gió
+
++ into the wind: về phía gió thổi
+
++ off the wind: chéo gió
+
++ to sail before (on) the wind: căng buồm chạy xuôi gió
+- (số nhiều) các phưng trời
+
++ the four winds of heaven: bốn phưng trời
+- (thể dục,thể thao) hi
+
++ to lose one's wind: hết hi
+
++ to recover one's wind: lấy lại hi
+
++ to get one's second wind: thở theo nhịp điệu thường (sau khi thở dốc trong cuộc đua)
+
++ sound in wind and limb: có thể lực tốt
+- (săn bắn) hi, mùi; (nghĩa bóng) tin phong thanh
+
++ to get windof the hunter: đánh hi người đi săn
+
++ to get wind of a plot: nghe phong thanh có một âm mưu
+- (y học) hi (trong ruột)
+
++ to break wind: đánh rắm
+
++ to be troubled wind wind: đầy hi
+- (gii phẫu) ức
+
++ to hit in the wind: đánh vào ức
+- lời rỗng tuếch; chuyện rỗng tuếch
+
++ merely wind: chỉ là chuyện rỗng tuếch
+- (the wind) (âm nhạc) nhạc khí thổi (kèn, sáo...); tiếng kèn sáo
+!to cast (fling, throw) something to the winds
+- coi nhẹ cái gì, không để tâm gìn giữ cái gì
+!to get (have) the wind up
+- (từ lóng) sợ h i
+!to put the wind up somebody
+- làm ai sợi h i
+!to raise the wind
+- (xem) raise
+!to sail close to (near) the wind
+- chạy gần như ngược chiều gió
+- (nghĩa bóng) làm việc gì hầu như không đoan chính lưng thiện lắm
+!to see how the wind blows (lies)
+!to see which way the wind is blowing
+- xem dư luận ra sao; xem thời thế sẽ ra sao
+!to take the wind out of someone's sails
+- nói chặn trước ai; làm chặn trước ai
+- phỗng mất quyền lợi của ai
+!there is something in the wind
+- có chuyện gì sẽ xy ra đây, có chuyện gì đang được bí mật chuẩn bị đây
+*  ngdgt winded
+- đánh hi
+
++ the hounds winded the fox: những con chó săn đánh hi thấy con cáo
+- làm thở hổn hển, làm thở mạnh, làm thở hết hi, làm mệt đứt hi
+
++ to be winded by the long run: mệt đứt hi vì chạy quá xa
+- để cho nghỉ lấy hi, để cho thở
+
++ to wind one's horse: cho ngựa nghỉ lấy hi
+*  ngdgt winded,  wound
+- thổi
+
++ to wind a horn: thổi tù và
+*  dt
+- vòng (dây)
+- khúc uốn, khúc lượn (của con sông)
+*  ngdgt wound
+- cuộn, quấn
+
++ to wind itself: cuộn mình lại (con rắn)
+
++ to wind [up] wool into a ball: quấn len thành một cuộn
+
++ to wind thread on a reel: quấn chỉ vào ống
+- lợn, uốn
+
++ the river winds its way to the sea: con sông lượn khúc chy ra biển
+
++ to wind oneself (one's way) into someone's affection: khéo léo được lòng ai
+- bọc, choàng
+
++ to wind a baby in a shawl: bọc đứa bé trong một chiếc khăn choàng
+- (kỹ thuật) quay; trục lên bằng cách quay
+- lên dây (đồng hồ)
+- (điện học) quấn dây
+
++ to wind a transformer: quấn dây một biến thế
+*  ndgt
+- quấn lại, cuộn lại (con rắn...)
+- quanh co, uốn khúc
+
++ the river winds in and out: con sông quanh co uốn khúc
+- (kỹ thuật) vênh (tấm ván)
+!to wind off
+- tháo (sợi) ra (khỏi cuộn); li ra, tung ra
+!to wind on
+- quấn (chỉ) vào (ống chỉ)
+!to wind up
+- lên dây (đồng hồ, đàn)
+- quấn (một sợi dây)
+- gii quyết, thanh toán (công việc...
+- kết thúc (cuộc tranh luận); bế mạc (cuộc họp)
+!to be wound up to a high pitch
+- bị đẩy lên một mức cao (cn giận)
+!to be wound up to a white rage
+- bị kích động đến mức giận điên lên
+!to wind someone round one's little finger
+- xỏ dây vào mũi ai (nghĩa bóng)
+!to wind oneself up for an effort
+- rán sức (làm việc gì)
+
+@wind breaker  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) wind-cheater
+
+@windage  
+*  dt
+- sự bay chệch vì gió thổi (qu bóng, viên đạn...)
+- (quân sự) độ hở nòng
+- (kỹ thuật) độ hở, khe hở
+
+@windbag  
+*  dt
+- (thông tục) người hay nói ba hoa rỗng tuếch
+
+@wind-bound  
+*  tt
+- (hàng hi) bị gió ngược chặn lại, bị gió làm chậm lại
+
+@wind-break  
+*  dt
+- hàng rào chắn gió; hàng cây chắn gió
+
+@wind-breaker
+* dt
+- như wind-cheater
+ @wind-broken  
+*  tt
+- thở hổn hển, đứt hi (ngựa)
+
+@wind-cheater  
+*  dt
+- áo chống gió (bằng da, bằng len dày, thắt ngang lưng) ((từ Mỹ,nghĩa Mỹ) wind_breaker)
+
+@winded  
+*  tt
+- hết hi; đứt hi, không thở được nữa
+- đ  lấy lại hi
+
+@wind-egg  
+*  dt
+- trứng không có trống
+
+@winder  
+*  dt
+- người cuốn chỉ (sợi); máy cuốn chỉ (sợi)
+- cây quấn
+- nút lên dây (đồng hồ)
+
+@windfall  
+*  dt
+- qu rụng
+- (nghĩa bóng) của trời cho; điều may mắn bất ngờ
+
+@Windfall gain
+- (Econ) Thu nhập bất thường.
+: Một khoản thu nhập thêm không lường trước được.
+ @Windfall loss
+- (Econ) Lỗ bất thường.
+: Một khoản suy giảm không lường trước được của thu nhập.
+ @wind-fertilization
+* dt
+- (thực vật) sự thụ phấn nhờ gió
+ @wind-firm
+* tt
+- chịu gió
+ @wind-flower  
+*  dt
+- (thực vật học) cỏ chân ngỗng
+
+@wind-gage   (wind-gauge) @wind-gauge   (wind-gauge) @wind-gun
+* dt
+- súng hơi
+ @windhover  
+*  dt
+- (động vật học) chim cắt
+
+@windily
+* dt
+- lộng gió, có nhiều gió; gây ra bởi gió
+- gió lộng, phơi ra trước gió (nhất là gió mạnh)
+- <y> đầy hơi
+- <thgt> dài dòng, trống rỗng, huênh hoang; ba hoa
+- <thgt> sợ hãi, lo lắng
+ @windiness  
+*  dt
+- ni lắm gió, ni lộng gió
+- trời giông b o
+- (y học) sự đầy hi
+- (thông tục) sự dài dòng
+
+@winding  
+*  dt
+- khúc lượn, khúc quanh
+- sự cuộn, sự cuốn; guồng (t, chỉ, sợi)
+- (ngành mỏ) sự khai thác
+- sự lên dây (đồng hồ)
+- (kỹ thuật) sự vênh
+*  tt
+- uốn khúc, quanh co (sông, đường)
+- xoáy trôn ốc, xoắn ốc, cuộn lại, cuốn
+
+@winding
+- [vòng, sự] quay; sự uốn
+ @Winding up
+- (Econ) Sự phát mại.
+ @winding-engine
+* dt
+- (mỏ) máy nâng; máy trục
+ @winding-frame  
+*  dt
+- (nghành dệt) máy cuộn chỉ
+
+@winding-key  
+*  dt
+- nút lên dây (đồng hồ)
+
+@winding-off  
+*  dt
+- sự tháo (dây, chỉ, sợi)
+
+@winding-on  
+*  dt
+- sự cuộn (dây, chỉ, sợi)
+
+@winding-sheet  
+*  dt
+- vi liệm
+
+@winding-up  
+*  dt
+- sự lên dây (đồng hồ)
+- sự thanh toán
+- sự kết thúc (câu chuyện)
+
+@wind-instrument  
+*  dt
+- (âm nhạc) nhạc khí thổi
+
+@wind-jammer  
+*  dt
+- (thông tục) tàu buôn chạy buồm
+
+@windlass  
+*  dt
+- (kỹ thuật) tời
+*  ngdgt
+- kéo bằng tời
+
+@windless  
+*  tt
+- không có gió, lặng gió
+
+@windlestraw  
+*  dt
+- cọng rạ khô, cọng cỏ khô
+
+@windmill  
+*  dt
+- cối xay gió; máy xay gió
+!to fight (tilt at) windmills
+- đánh nhau với kẻ địch tưởng tượng (như Đông-ky-sốt)
+
+@window  
+*  dt
+- cửa sổ
+
++ French window: cửa sổ sát mặt đất
+
++ blank (blind, false) window: cửa sổ gi
+- cửa kính (ô tô, xe lửa)
+
++ to lower (open) the window: hạ kính xuống
+
++ to raise (close) the window: nâng kính lên
+
++ rear window: kính hậu
+- (thưng nghiệp) tủ kính bày hàng
+
++ in the window: bày ở tủ kính
+- (quân sự),  (hàng không) vật th xuống để nhiễu xạ
+!to have all one's goods in the window
+- tỏ ra hời hợt nông cạn
+
+@Window dressing
+- (Econ) Sự làm đẹp báo cáo tài chính.
+: Một thông lệ ở Anh đã bị xoá bỏ năm 1946, mà theo đó các ngân hàng thanh toán bù trừ London lấy tiền vay từ những thị trường chiết khấu vào những ngày mà họ phải làm đẹp báo cáo tài chính tuần (hoặc tháng từ sau những năm 1939) nhằm mục đích thể hiện trạng thái tiền mặt cao hơn hệ số bình quân mà chúng thực giữ.
+ @window envelope  
+*  dt
+- phong bì có cửa sổ giấy bóng (qua đó đọc được địa chỉ ở phía trong)
+
+@window-box
+* dt
+- bồn hoa cửa sổ (ngăn hẹp dài ghép bên ngoài cửa sổ để trồng cây)
+ @window-case  
+*  dt
+- tủ kính bày hàng
+
+@window-dressing  
+*  dt
+- nghệ thuật bày hàng ở tủ kính
+- (thông tục) bề ngoài loè loẹt gi dối
+
+@window-frame  
+*  dt
+- khung cửa sổ
+
+@window-glass  
+*  dt
+- kính cửa sổ
+
+@window-guide  
+*  dt
+- thanh trượt kính (ở xe ô tô)
+
+@window-ledge
+* dt
+- bậu cửa sổ (ngưỡng cửa sổ ở mép dưới cửa sổ, ở bên trong hoặc ở bên ngoài)
+ @windowlight
+* dt
+- (từ Mỹ,  (từ lóng)) con mắt
+ @window-pane  
+*  dt
+- ô kính cửa sổ
+
+@window-shop
+* ndgt
+- (thông tục) nhìn hàng trong tủ kính (không có ý định mua)
+ @window-shopping
+* dt
+- sự xem hàng bày ô kính (nhìn hàng hoá bày trong ô kính nhà hàng mà thường không có ý định mua gì)
+ @window-sill  
+*  dt
+- ngưỡng cửa sổ
+
+@windpipe  
+*  dt
+- (gii phẫu) khí qun
+
+@wind-pollinated
+* tt
+- (thực vật) thụ phấn nhờ gió
+ @windproof
+* tt
+- chịu gió
+ @wind-pump
+* dt
+- bơm chạy bằng động cơ gió
+ @wind-row  
+*  dt
+- (nông nghiệp) mở cỏ giẫy một loạt
+- rm rạ t i ra để phi khô
+
+@wind-screen  
+*  dt
+- kính che gió (ô tô) ((từ Mỹ,nghĩa Mỹ) wind-shield)
+
+@windscreen
+* dt
+- kính chắn gió xe hơi
+ @windscreen wiper
+* dt
+- cần gạt nước (để chùi sạch nước mưa, tuyết...ở kính chắn gió của xe hơi)
+ @wind-shaken  
+*  tt
+- x xác đi vì gió
+
+@wind-shield  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) wind-screen
+- (định ngữ) wind-shield wiper cái gạt nước (ở kính xe ô tô)
+
+@windshield
+* dt
+- <Mỹ> kính chắn gió xe hơi
+- kính chắn gió xe máy
+ @windshield wiper
+* dt
+- cần gạt nước (để chùi sạch nước mưa, tuyết...ở kính chắn gió của xe hơi)
+ @wind-sleeve
+* dt
+- ống gió (ống vải bạt, hở ở hai đầu, phất phới ở trên đỉnh một cây sào để chỉ hướng gió; tại phi trường...)
+ @wind-sock
+* dt
+- ống gió (ống vải bạt, hở ở hai đầu, phất phới ở trên đỉnh một cây sào để chỉ hướng gió; tại phi trường...)
+ @windstorm  
+*  dt
+- b o
+
+@windsurf
+* ndgt
+- lướt trên ván buồm (thường go windsurfing)
+ @windsurfer
+* dt
+- ván buồm (tấm ván, tựa như ván lướt có một cánh buồm)
+- người chơi ván buồm
+ @windsurfing
+* dt
+- <thể> môn lướt ván buồm
+ @wind-swept  
+*  tt
+- lộng gió
+
+@wind-tight  
+*  tt
+- kín gió
+
+@wind-up  
+*  dt
+- sự kết thúc; sự bế mạc
+
+@windward  
+*  tt & dt
+- về phía gió
+
++ the windward side: phía có gió
+*  dt
+- phía có gió
+
+@windway
+* dt
+- (ngành mỏ) lò thông gió
+ @wind-wept
+* tt
+- lộng gió
+- rối bù (tóc)
+ @windy  
+*  tt
+- có gió, lắm gió, lộng gió
+- mưa gió, gió b o
+- (y học) đầy hi
+- (thông tục) dài dòng, trống rỗng, huênh hoang
+
++ windy talk: chuyện dài dòng
+- (từ lóng) hong sợ, khiếp sợ
+
+@wine  
+*  dt
+- rượu vang; rượu
+
++ to be in wine: say rượu
+
++ to take wine with: chạm cốc với
+- rượu thuốc
+
++ quinine wine: rượu canh ki na
+- tiệc rượu sau bữa ăn (ở các trường đại học)
+- màu rượu vang, màu đỏ sẫm
+!good wine needs no bush
+- (xem) bush
+!new wine in old bottle
+- bình cũ rượu mới
+*  dgt (thông tục)
+- uống rượu
+- đ i rượu (ai)
+
+@wine bar
+* dt
+- quán rượu
+ @winebag  
+*  dt
+- (như) wineskin
+- người nghiện rượu
+
+@winebibber  
+*  dt
+- người nghiện rượu
+
+@wine-biscuit
+* dt
+- bánh qui sấy (để uống rượu)
+ @wine-butler
+* dt
+- người bán căn tin
+ @wine-cellar  
+*  dt
+- hầm rượu
+
+@wine-coloured  
+*  tt
+- có màu rượu vang
+
+@wine-cooler  
+*  dt
+- thùng ướp lạnh rượu
+
+@wineglass  
+*  dt
+- cốc uống rượu
+- (y học) cốc (đn vị đong thuốc nước bằng bốn thìa xúp) ((cũng) wineglassful)
+
+@wineglassful  
+*  dt
+- cốc (đầy)
+- (y học) cốc (đn vị đong thuốc nước bằng bốn thìa xúp) ((cũng) wineglass)
+
+@wine-grower  
+*  dt
+- người trồng nho
+
+@wine-house
+* dt
+- cửa hàng bàn rượu
+- (từ cổ) quán rượu
+ @winepress  
+*  dt
+- máy ép nho
+
+@winery  
+*  dt
+- nhà máy rượu vang
+
+@wineskin  
+*  dt
+- túi da đựng rượu
+
+@wine-stone  
+*  dt
+- cáu rượu (ở đáy thùng)
+
+@wine-taster
+* dt
+- người nếm rượu
+ @wine-vault  
+*  dt
+- hầm rượu
+
+@wing  
+*  dt
+- (động vật học); (thực vật học) cánh (chim, sâu bọ; qu, hạt)
+
++ to lend (add) wing to: chắp cánh cho, làm cho chạy mau
+- sự bay, sự cất cánh; (nghĩa bóng) sự bay bổng
+
++ on the wing: đang bay
+
++ to take wing: cất cánh bay, bay đi
+- (kiến trúc) cánh, chái (nhà)
+
++ the east wing of a building: chái phía đông của toà nhà
+- cánh (máy bay, quạt)
+- (hàng hi) mạn (tàu)
+- (số nhiều) (sân khấu) cánh gà
+- (quân sự) cánh
+
++ right wing: cánh hữu
+
++ left wing: cánh t
+- phi đội (không quân Anh); (số nhiều) phù hiệu phi công
+- (thể dục,thể thao) biên
+
++ right wing: hữu biên
+
++ left wing: t biên
+-(đùa cợt) cánh tay (bị thưng)
+- (thông tục) sự che chở, sự bo trợ
+
++ under the wing of someone: được người nào che chở
+
++ to take someone under one's wing: bo trợ ai
+!to clip someone's wings
+- hạn chế sự cử động (tham vọng, sự tiêu pha) của ai; chặt đôi cánh của ai (nghĩa bóng)
+!to come on the wings of the wind
+- đến nhanh như gió
+*  ngdgt
+- lắp lông vào (mũi tên)
+- thêm cánh, chắp cánh; làm cho nhanh hn
+
++ fear winged his steps: sự sợ h i làm cho nó chạy nhanh như bay
+
++ to wing one's words: nói liến thoắng
+- bay, bay qua
+
++ to wing one's way: bay
+- bắn ra
+
++ to wing an arrow: bắn mũi tên ra
+- bắn trúng cánh (con chim); (thông tục) bắn trúng cánh tay
+- (kiến trúc) làm thêm chái
+
++ to wing a hospital: làm thêm chái cho một bệnh viện
+- (quân sự) bố phòng ở cánh bên
+
+@wing
+- (cơ học) cánh
+- cantiliver w. cánh mạng tự do
+- swept w. (cơ học) cánh hình mũi tên 
+ @wing flap  
+*  dt
+- (hàng không) cánh con (của máy bay)
+
+@wing-bearing
+* tt
+- có cánh (côn trùng)
+ @wing-beat   (wing-stroke) @wing-case   (wing-sheath) @wing-chair
+* dt
+- ghế bành có lưng tựa cao hai bên có hai trụ nhô lên
+ @wing-commander  
+*  dt
+- trung uý không quân (Anh)
+
+@wingding
+* dt
+- <Mỹ,thgt> bữa tiệc vui vẻ cuồng nhiệt
+ @winged  
+*  tt
+- có cánh (chim)
+- được chắp cánh; nhanh
+
+@winger  
+*  dt
+- (thể dục,thể thao) cầu thủ chạy biên (bóng đá)
+
+@wing-footed  
+*  tt
+- (th ca) nhanh, mau lẹ
+
+@wingless  
+*  tt
+- không cánh
+
+@winglet  
+*  dt
+- (động vật học) cánh nhỏ
+
+@wingman
+* dt; số nhiều wingmen
+- máy bay yểm trợ, máy bay kèm sau, máy bay số
+- phi công yểm trợ, phi công số
+ @wing-nut
+* dt
+- ốc tai hồng (đai ốc có hai cánh để có thể vặn bằng ngón tay cái và một ngón tay vào đinh ốc hoặc bu lông)
+ @wing-over  
+*  dt
+- (hàng không) sự nhào lộn trên không
+
+@wing-sheath   (wing-sheath) @wing-span   (wing-spread) @wing-spread   (wing-spread) @wing-stroke   (wing-stroke) @wing-weary
+* tt
+- mỏi cánh (chim)
+- (bóng) mệt mỏi (trong chuyến du lịch); mỏi chân
+ @wingy
+* tt
+- (thơ) có cánh; được chắp cánh
+ @wink  
+*  dt
+- sự nháy mắt
+
++ to give the wink to: nháy mắt với, ra hiệu cho
+
++ to tip someone the wink: (từ lóng) ra hiệu cho ai
+- nháy mắt, khonh khắc
+
++ in a wink: trong nháy mắt, trong khonh khắc
+
++ not to get a wink of sleep; not to sleep a wink: không chợp mắt được tí nào
+!forty winks
+- giấc ngủ ngắn (ban ngày)
+*  ndgt
+- nháy mắt, nháy mắt ra hiệu
+
++ to wink at someone: nháy mắt ra hiệu cho người nào
+- lấy lánh, nhấp nháy (ngọn đèn, sao)
+*  ngdgt
+- nháy, chớp, nhấp nháy
+
++ to wink one's eyes: nháy mắt
+- biểu lộ bằng cái nháy mắt
+
++ to wink assent: nháy mắt đồng ý
+!to wink at
+- nhắm mắt làm ng
+
++ to wink at someone's error: nhắm mắt làm ng trước sai lầm của ai
+
+@winker  
+*  dt
+- (thông tục) con mắt
+- lông mi
+- miếng che mắt (ngựa)
+- (số nhiều) kính đeo mắt
+
+@winking  
+*  dt
+- sự nháy (mắt)
+- sự lấp lánh, sự nhấp nháy (sao...)
+!like winking
+- (thông tục) trong khonh khắc, trong nháy mắt
+*  tt
+- nhấp nháy, lấp lánh
+
+@winkle  
+*  dt
+- (động vật học) ốc hưng
+*  ngdgt
+- (quân sự) kéo từng bộ phận nhỏ của địch ra mà tiêu diệt
+!to winkle out
+- nhể ra, lôi ra (như nhể ốc)
+
+@winkle-picker
+* dt
+- (thường snh) giày có mũi dài nhọn
+ @winner  
+*  dt
+- người được cuộc, người thắng; con vật thắng trong cuộc đua (ngựa...)
+
+@winning  
+*  dt
+- sự thắng cuộc, sự thắng; sự chiến thắng
+- (số nhiều) tiền (đồ vật) được cuộc, tiền được bạc
+- (kỹ thuật) sự khai thác
+
++ ore winning: sự khai thác quặng
+*  tt
+- được cuộc, thắng cuộc
+
++ the winning horse: con ngựa thắng cuộc
+- quyết định, dứt khoát
+
++ a winning stroke: cú quyết định
+- hấp dẫn, lôi cuốn, quyến rũ
+
++ a winning smile: nụ cười quyến rũ
+
+@winning
+- được cuộc, thắng cuộc
+ @winningly  
+*  tt
+- hấp dẫn, lôi cuốn, quyến rũ
+
+@winning-over  
+*  dt
+- sự lôi kéo
+
+@winning-post  
+*  dt
+- (thể dục,thể thao) cột đích
+
+@winnings
+* dt, pl
+- tiền được cuộc, được bạc  
+ @winnow  
+*  ngdgt
+- quạt, sy (thóc)
+- sàng lọc, chọn lựa; phân biệt
+
++ to winnow truth from falsehood: phân biệt thật hư
+- (th ca) đập, vỗ
+
++ to winnow wings: vỗ cánh
+
+@winnower  
+*  dt
+- người quạt, người sy (thóc)
+- máy quạt thóc
+
+@winnowing  
+*  dt
+- sự quạt, sự sy (thóc)
+- sự sàng lọc, sự chọn lựa
+
+@winnowing-machine  
+*  dt
+- máy quạt thóc
+
+@wino
+* dt
+- <thgt> người nghiện rượu, kẻ nghiện rượu (đặc biệt là rượu rẻ tiền)
+ @winsome  
+*  tt
+- hấp dẫn, quyến rũ, lôi cuốn
+
++ a winsome smile: nụ cười quyến rũ
+- vui vẻ, tưi tỉnh, rạng rỡ
+
+@winter  
+*  dt
+- mùa đông
+
++ in winter: về mùa đông
+- (th ca) năm, tuổi
+
++ a man of sixty winters: một người sáu mưi tuổi
+- (th ca) lúc tuổi già
+
++ to stand on winter's verge: sắp về già
+*  tt
+- (thuộc) mùa đông
+
++ winter season: mùa đông
+
++ winter life: cuộc sống về mùa đông
+
++ winter quarters: ni đóng quân mùa đông
+
++ winter sleep: sự ngủ đông
+*  ndgt
+- trú đông, tránh rét
+
++ to winter in the south: tránh rét ở miền nam
+- qua đông (cây cỏ...)
+*  ngdgt
+- đưa đi trú đông; đưa đi ăn cỏ để tránh rét
+
++ to winter the cattle: đưa vật nuôi đi tránh rét
+
+@winter sports
+* dt
+- thể thao mùa đông (những môn thể thao trên tuyết hoặc trên băng; trượt tuyết, trượt băng )
+ @winter-bud
+* dt
+- chồi mùa đông
+ @winter-green  
+*  dt
+- (thực vật học) cây lộc đề
+
+@wintering  
+*  dt
+- sự trú đông, sự đưa đi tránh rét
+- sự qua đông
+
+@winterise
+* ngdgt
+- <Mỹ> chuẩn bị (lương thực, rơm rạ, nhà cửa...) cho mùa đông
+ @winterize  
+*  ngdgt
+- chuẩn bị (lưng thực, rm rạ...) cho mùa đông
+
++ to winterize the straw for the cattle: chuẩn bị rm rạ cho vật nuôi ăn mùa đông
+
+@winterkill  
+*  dgt
+- (từ Mỹ,nghĩa Mỹ) chết vì lạnh giá mùa đông (cây cối)
+
+@winterly  
+*  tt
+- (thuộc) mùa đông; lạnh giá
+
++ a winterly sky: trời đông
+- (nghĩa bóng) lạnh nhạt, lạnh lùng ((cũng) wintery,  wintry)
+
++ a winterly smile: một nụ cười lạnh nhạt
+
++ winterly reception: sự đón tiếp lạnh lùng
+
+@winter-time
+* dt
+- mùa đông; thời kỳ mùa đông
+ @wintertime
+* dt
+- mùa đông; thời kỳ mùa đông
+
++  the days are shorter in the wintertime:về mùa đông, ngày trở nên ngắn hơn
+ @wintery   (wintry) @wintrily
+* dt
+- lạnh
+ @wintry   (wintry) @winy  
+*  tt
+- nồng, có mùi rượu, sặc mùi rượu
+
+@wipe  
+*  dt
+- sự lau, sự chùi
+- (từ lóng) cái tát, cái quật
+- (từ lóng) khăn tay
+*  ngdgt
+- lau, chùi
+
++ to wipe one's face: lau mặt
+
++ to wipe something dry: lau khô một vật gì
+
++ to wipe one's eyes: lau nước mắt, thôi khóc
+!to wipe at
+- (từ lóng) quật, tống cho một qu; giáng cho một đòn
+!to wipe away
+- tẩy (vết bẩn); lau sạch (nước mắt)
+!to wipe off
+- lau đi, lau sạch, tẩy đi
+- làm tắt (một nụ cười)
+- thanh toán, tr hết, giũ sạch (nợ cũ)
+- quên đi, xoá sạch (mối bất hoà cũ...)
+!to wipe out
+- lau chùi, lau sạch, chùi, tẩy (vết bẩn)
+- tiêu diệt (quân đội); triệt hạ (thành phố)
+- thanh toán, tr hết (nợ); rửa (nhục)
+!to wipe up
+- lau sạch, chùi sạch
+!to wipe someone's eye
+- (từ lóng) phỗng tay trên ai, đi nước trước ai
+!to wipe the floor with someone lóng
+- (từ lóng) đánh bại ai hoàn toàn (trong cuộc tranh luận)
+- (từ lóng) hạ ai đo ván (trong cuộc đấu võ); đánh bại nhục nh 
+
+@wiper  
+*  dt
+- người lau chùi
+- khau lau, giẻ lau; khăn lau tay
+
+@wipo
+* dt
+- Tổ chức quốc tế về quyền sở hữu trí tuệ (World Intellectual Property Organization)
+* dt
+- Tổ chức quốc tế về quyền sở hữu trí tuệ (World Intellectual Property Organization)
+ @wire  
+*  dt
+- dây (kim loại)
+
++ silver wire: dây bạc
+
++ iron wire: dây thép
+
++ barbed wire: dây thép gai
+
++ to pull the wires: giật dây (nghĩa bóng)
+- bức điện báo
+
++ by wire: bằng điện báo
+
++ to send off a wire: đánh một bức điện
+
++ let me know by wire: h y báo cho tôi biết bằng điện
+!live wire
+- (xem) live
+*  ngdgt
+- bọc bằng dây sắt
+- buộc bằng dây sắt
+- chăng lưới thép (cửa sổ)
+- xỏ vào dây thép
+- bẫy (thỏ, chim...) bằng dây thép
+- đánh điện
+- (điện học) mắc (dây) điện, bắt điện
+
++ to wire a house for electricity: mắc điện cho một ngôi nhà
+*  ndgt
+- đánh điện
+
++ to wire to someone: đánh điện cho ai
+
++ to wire for someone: đánh điện mời ai đến
+!to wire in
+- (từ lóng) rán hết sức làm (một việc gì)
+!to wire off
+- rào dây thép để tách ra
+!to wire into somebody
+- đấm ai một cú thật mạnh, dùng hết sức giáng cho ai một đòn
+
+@wire wool
+* dt
+- tấm bùi nhùi bằng dây sắt
+ @wire-brush  
+*  dt
+- bàn chi sắt
+
+@wire-cloth  
+*  dt
+- lưới thép
+
+@wire-cutter  
+*  dt
+- kìm cắt dây thép
+
+@wire-dancer  
+*  dt
+- người đi trên dây
+
+@wire-dancing  
+*  dt
+- nghệ thuật đi trên dây
+
+@wiredraw  
+*  ngdgt wiredrew; wiredrawn
+- (kỹ thuật) kéo (kim loại) thành sợi
+- (nghĩa bóng) gọt giũa quá tỉ mỉ (văn chưng, nghị luận); chẻ sợi tóc làm tư
+
+@wiredrawer  
+*  dt
+- (kỹ thuật) người kéo sợi (kim loại); máy kéo sợi (kim loại)
+
+@wiredrawing  
+*  dt
+- (kỹ thuật) sự kéo sợi (kim loại)
+- (nghĩa bóng) sự gọt giũa quá tỉ mỉ (văn chưng, nghị luận) sự chẻ sợi tóc làm tư
+
+@wiredrawn  
+*  ngdgt wiredrew; wiredrawn
+- (kỹ thuật) kéo (kim loại) thành sợi
+- (nghĩa bóng) gọt giũa quá tỉ mỉ (văn chưng, nghị luận); chẻ sợi tóc làm tư
+
+@wiredrew  
+*  ngdgt wiredrew; wiredrawn
+- (kỹ thuật) kéo (kim loại) thành sợi
+- (nghĩa bóng) gọt giũa quá tỉ mỉ (văn chưng, nghị luận); chẻ sợi tóc làm tư
+
+@wire-glass
+* dt
+- kính cốt thép
+ @wire-haired  
+*  tt
+- có lông cứng (chó...)
+
+@wireless  
+*  tt
+- không dây,  rađiô
+
++ wireless set: máy thu thanh,  rađiô, đài
+*  dt
+- rađiô
+
++ to send a message by wireless: gửi một bức điện bằng rađiô
+
++ to give a talk on the wireless: nói chuyện trên đài rađiô
+*  dgt
+- đánh điện bằng rađiô
+
++ to wireless a meassage: đánh một bức điện bằng rađiô
+
+@wire-maker  
+*  dt
+- người kéo (kim loại) thành sợi
+
+@wireman
+* dt
+- số nhiều wiremen
+- thợ bắt đường dây
+ @wire-mat  
+*  dt
+- cái thm chùi chân bằng lưới sắt
+
+@wire-netting  
+*  dt
+- lưới sắt, lưới thép
+
+@wirephoto  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) điện báo truyền nh
+
+@wirepuller  
+*  dt
+- (chính trị) người giật dây
+
+@wire-stitch
+* ngdgt
+- cột chặt bằng dây thép
+ @wire-tap  
+*  ndgt
+- nghe trộm dây nói (bằng cách mắc ống nghe vào đường dây)
+
+@wire-tapping  
+*  dt
+- sự nghe trộm dây nói (bằng cách mắc ống nghe vào đường dây)
+
+@wire-walker
+* dt
+- diễn viên (xiếc) đi trên dây
+ @wirework  
+*  dt
+- kỹ thuật kéo sợi (kim loại)
+- lưới sắt
+
+@wire-worm
+* dt
+- sâu ăn lá
+ @wire-wove  
+*  tt
+- có vết bóng nòng khuôn (giấy)
+
+@wiriness  
+*  dt
+- tính chất cứng (của tóc)
+- tính lanh lnh, tính sang sng (của tiếng nói)
+- (y học) tình trạng yếu ớt (của mạch)
+- tính dẻo bền
+- (nghĩa bóng) tính dẻo dai, tính chất gầy nhưng đanh người
+
+@wiring  
+*  dt
+- (rađiô) sự lắp ráp
+- (kỹ thuật) sự chằng lưới sắt
+- (điện học) sự đặt đường dây; hệ thống dây điện
+
+@wiry  
+*  tt
+- cứng (tóc)
+- lanh lnh, sang sng (tiếng nói)
+- (y học) hình chỉ, chỉ (mạch)
+- dẻo bền
+- dẻo dai, gầy nhưng đanh người
+
++ a wiry person: người dẻo dai
+
+@wisdom  
+*  dt
+- tính khôn ngoan
+- sự từng tri, sự lịch duyệt
+- kiến thức, học thức, sự hiểu biết, sự thông thái
+
+@wisdom-tooth  
+*  dt
+- răng khôn
+
+@wise  
+*  tt
+- khôn, khôn ngoan
+- có kinh nghiệm, từng tri, hiểu biết, lịch duyệt
+
++ to grow wiser: có nhiều kinh nghiệm hn
+
++ with a wise wink of the eye: với cái nháy mắt hiểu biết
+
++ to get wise to: hiểu, nhận thức được
+
++ he came away none the wiser (as wise as he went): no cũng chẳng biết gì hn trước
+- thông thạo
+
++ to look wise: có vẻ thông thạo
+- uyên bác
+
++ a wise man: một người uyên bán
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) láu, ma lanh, tài xoay
+
++ wise guy: người tài xoay
+!to put wise
+- (xem) put
+!where ignorance is bliss, 'tis folly to be wise
+- (xem) ignorance
+!wise after the event
+- khôn ra thì chậm mất rồi
+*  ndgt
+- (: up) (từ Mỹ,nghĩa Mỹ),  (từ lóng) bạo dạn hn, mạnh dạn hn
+- tỉnh ngộ, biết lầm, khôn ra hn
+*  dt
+- (từ cổ,nghĩa cổ) cách, lối
+
++ in solemn wise: một cách long trọng
+
++ in any wise: dù bằng cách nào
+
++ in no wise: không có cách nào
+
+@wise guy
+* dt
+- <thgt> kẻ hợm đời (kẻ nói hoặc cư xử làm như anh ta biết nhiều hơn người khác)
+ @wise woman  
+*  dt (từ cổ,nghĩa cổ)
+- mụ phù thuỷ
+- mụ thầy tướng
+- bà đỡ, bà mụ
+
+@wiseacre  
+*  dt
+- người ngu mà hợm mình, người ngu mà hay lên mặt dạy đời
+
+@wisecrack  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) lời châm biếm tế nhị; nói dí dỏm
+
+@wisehead
+* dt
+- (mỉa) làm bộ thông minh, kẻ tự cho mình hơn người
+ @wisewoman
+* dt
+- mụ phù thủy; bà cốt
+- bà lang; bà đỡ; bà mụ
+ @wish  
+*  dt
+- lòng mong muốn, lòng ao ước; lòng thèm muốn
+
++ to express a wish: tỏ lòng mong ước
+
++ to have a great wish to: ước ao được
+- ý muốn; lệnh
+
++ in obedience to your wishes: theo lệnh của ông
+- điều mong ước, nguyện vọng
+
++ to have one's wish: ước gì được nấy
+- (số nhiều) lời chúc
+
++ with best wishes: với những lời chúc mừng tốt đẹp nhất
+*  ngdgt
+- muốn, mong, hy vọng
+
++ I wish to say: tôi muốn nói
+
++ it is to be wished that...: mong rằng...
+- chúc
+
++ to wish someone well: chúc cho ai gặp điều tốt lành
+
++ to wish happiness to: chúc hạnh phúc cho
+*  ndgt
+- mong ước, ước ao; thèm muốn
+
++ to wish for: ước ao
+!to wish something upon somebody
+- (thông tục) gán cho ai cái gì
+
+@wishbone
+* dt
+- chạc xương đòn (xương chạc nằm khoảng giữa cổ và ngực của gia cầm)
+ @wisher  
+*  dt
+- người mong muốn, người ao ước (điều gì)
+- người cầu chúc
+
+@wishful  
+*  tt
+- thèm muốn ao ước; ước mong, mong muốn
+
++ wishful look: con mắt thèm muốn
+!that's a piece of wishful thinking
+- (thông tục) đó chỉ là lấy ước m làm sự thật
+
+@wishing  
+*  dt
+- sự mong muốn, sự ao ước
+- sự chúc mừng; lời chúc tụng
+
+@wishing-bone  
+*  dt
+- chạc xưng đòn (của chim)
+
+@wish-wash  
+*  dt
+- đồ uống nhạt (rượu, trà, cà phê lo ng)
+- câu chuyện nhạt phèo
+
+@wishy-washy  
+*  tt
+- nhạt, lo ng (rượu, cà phê...)
+- nhạt phèo (câu chuyện)
+
+@wisp  
+*  dt
+- nắm, mớ, búi
+
++ a wisp of hair: nắm tóc
+
++ a wisp of straw: mớ rm
+- (nghĩa bóng) làn (khói)
+
++ a wisp of smoke: làn khói
+- (động vật học) bầy chim bay
+
++ a wisp of snipe: bầy chim dẽ giun
+!little (mere) wisp of a man
+- (thông tục) oắt con, đồ nh i nhép; người lùn tịt
+
+@wispy
+* tt
+- như làn, như dải, thành làn, thành dải; mỏng manh, lưa thưa
+ @wistaria  
+*  dt
+- (thực vật học) cây đậu tía
+
+@wisteria
+* dt
+- <thực> cây đậu tía (một trong nhiều loại cây leo có thân gỗ và hoa chùm dài rũ xuống màu trắng hoặc tím nhạt)
+ @wistful  
+*  tt
+- có vẻ thèm muốn, có vẻ khao khát
+
++ a wistful expression: vẻ thèm muốn khao khát
+- có vẻ ngẫm nghĩ, có vẻ đăm chiêu
+
++ wistful eyes: mắt đăm chiêu
+
+@wistfully
+* dt
+- bâng khuâng, đăm chiêu; nuối tiếc, buồn bã
+- có vẻ thèm muốn, có vẻ khao khát
+ @wistfulness
+* dt
+- sự bâng khuâng, sự đăm chiêu; sự nuối tiếc, sự buồn bã
+- sự có vẻ thèm muốn, sự có vẻ khao khát
+ @wit  
+*  dt
+- trí, trí thông minh, trí sáng suốt, trí tuệ, trí khôn
+
++ not to have the wit(s) to: không đủ trí thông minh để
+
++ at one's wit's end: hết lý, hết phưng, hoàn toàn không biết nghĩ thế nào
+
++ out of one's wits: điên, mất trí khôn; thần hồn nát thần tính, quá sợ
+
++ to collect one's wits: bình tĩnh lại, trấn tĩnh lại
+
++ to keep (have) one's wits about one: tinh mắt, sáng suốt; kịp thời
+- (số nhiều) mưu kế
+
++ to live by one's wits: dùng tài xoay để sống, xoay xở để sống từng bữa
+- sự hóm hỉnh, sự dí dỏm
+- người hóm hỉnh, người dí dỏm
+*  dgt
+- (từ cổ,nghĩa cổ) biết
+!to wit
+- nghĩa là, tức là
+
+@witch  
+*  dt
+- mụ phù thuỷ
+- mụ già xấu xí
+- người đàn bà quyến rũ
+*  ngdgt
+- mê hoặc, làm mê hồn
+- quyến rũ, làm say đắm
+
+@witch-broom  
+*  dt
+- chổi phép (của mụ phù thuỷ)
+
+@witchcraft  
+*  dt
+- ma thuật, phép phù thuỷ
+- sức mê hoặc, sức quyến rũ (của nụ cười, sắc đẹp...)
+
+@witch-doctor  
+*  dt
+- phù thuỷ lang băm, thầy mo
+
+@witchery  
+*  dt
+- ma thuật, phép phù thuỷ
+- sự mê hoặc, sự quyến rũ; sức quyến rũ
+
+@witch-hazel
+* dt
+- <thực> cây phỉ (loại cây ở châu A hoặc ở Bắc Mỹ có hoa vàng)
+- chất nước chiếc từ vỏ cây phỉ (dùng để chữa các chỗ bầm tím hoặc chỗ sưng tấy trên da)
+ @witch-hunt
+* dt
+- sự lùng tìm và diệt những người nghi là phù thủy
+- <bóng> cuộc điều tra để khủng bố những người không theo chính phái, cuộc điều tra để khủng bố những người có quan điểm không phổ biến
+ @witch-hunting  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự khủng bố những đối thủ chính trị (chủ yếu là những người cộng sn)
+
+@witching  
+*  tt
+- (thuộc) ma thuật, (thuộc) phép phù thuỷ
+
++ the witching time (hour) of night: canh khuya (lúc mà các mụ phù thuỷ dở thuật tà ma)
+- có sức quyến rũ, làm say mê
+
+@wite
+- viết
+ @with  
+*  giới từ
+- với, cùng, cùng với
+
++ to argue with someone: c i lý với ai
+
++ a kettle with a lid: một cái ấm với một cái vung
+
++ to be with someone on a point: đồng ý với người nào về một điểm
+
++ to rise with the sun: dậy sớm
+- có
+
++ the man with the long beard: người (có) râu dài
+
++ with young: có chửa (thú)
+
++ with child: có mang (người)
+- ở, ở ni
+
++ it's a habit with him: ở anh ta đấy là một thói quen
+
++ he lives with us: nó ở nhà chúng tôi, nó ở với chúng tôi
+- bằng
+
++ to welcome with smiles: đón tiếp bằng những nụ cười
+
++ with all my might: bằng (với) tất c sức lực của tôi
+
++ killed with a bayonet: bị giết bằng lưỡi lê
+- về, về phần
+
++ the decision rests with you: quyết định là về phần anh
+
++ to be pleased with: bằng lòng về
+- vì
+
++ sick with love: ốm (vì) tưng tư
+- đối với
+
++ with him, money is not important: đối với anh ta, tiền bạc không quan trọng
+- mặc dầu
+
++ with all his weaknesses I like him: mặc dầu tất c những nhược điểm của anh ta, tôi vẫn thích anh ta
+- cũng như
+
++ to think with someone: cũng nghĩ như ai
+- nay mà, lúc mà, trong khi
+
++ what is to become him with both his parents gone: nay cha mẹ nó đ  mất c rồi, thì nó sẽ ra sao
+!away with it!
+- (xem) away
+!to be with it
+- tài xoay, giỏi xoay
+!out with
+- (xem) out
+
+@withal  
+*  dt
+- (từ cổ,nghĩa cổ) cũng, đồng thời, hn nữa, v lại
+*  giới từ
+- (từ cổ,nghĩa cổ) với, lấy
+
++ what shall he fill his belly withal?: nó sẽ lấy gì bỏ vào bụng?
+
+@withdraw  
+*  ngdgt withdrew; withdrawn
+- rút, rút khỏi
+
++ to withdraw the hand from the pocket: rút tay ra khỏi túi
+- rút, rút lui
+
++ to withdraw troops from a position: rút quân khỏi một vị trí
+
++ to withdraw a sum of money: rút một số tiền ra
+
++ to withdraw a child from school: cho một đứa bé thôi học
+- rút, rút lại
+
++ to withdraw an accusation: rút một lời tố cáo
+- (pháp lý) sự huỷ bỏ; sự thu hồi
+
++ to withdraw an order: huỷ bỏ một lệnh; huỷ bỏ một đn đặt hàng
+- kéo (màn)
+*  ndgt
+- rút lui (khỏi một ni)
+
++ after dinner they withdrew: sau bữa com họ rút lui
+- (quân sự) rút quân
+- ra, rút ra
+
++ to withdraw from a society: rút ra khỏi một hội
+
+@withdrawal  
+*  dt
+- sự rút khỏi
+- sự rút ra
+- sự rút quân
+- sự rút lui (ý kiến)
+- (pháp lý) sự rút (đn kiện...)
+- (pháp lý) sự huỷ bỏ; sự thu hồi (sắc lệnh...)
+
+@Withdrawals
+- (Econ) Các con số tận rút.
+: Cũng có thể được biết đến như là các sự dò rỉ. Bất kỳ một khoản thu nhập nào, không được đi tiếp trong vòng luân chuyển thu nhập và do đó không được dùng để chi phí cho những hàng hoá và dịch vụ hiện đang sản xuất.
+ @withdrawn  
+*  ngdgt withdrew; withdrawn
+- rút, rút khỏi
+
++ to withdraw the hand from the pocket: rút tay ra khỏi túi
+- rút, rút lui
+
++ to withdraw troops from a position: rút quân khỏi một vị trí
+
++ to withdraw a sum of money: rút một số tiền ra
+
++ to withdraw a child from school: cho một đứa bé thôi học
+- rút, rút lại
+
++ to withdraw an accusation: rút một lời tố cáo
+- (pháp lý) sự huỷ bỏ; sự thu hồi
+
++ to withdraw an order: huỷ bỏ một lệnh; huỷ bỏ một đn đặt hàng
+- kéo (màn)
+*  ndgt
+- rút lui (khỏi một ni)
+
++ after dinner they withdrew: sau bữa com họ rút lui
+- (quân sự) rút quân
+- ra, rút ra
+
++ to withdraw from a society: rút ra khỏi một hội
+
+@withdrew  
+*  ngdgt withdrew; withdrawn
+- rút, rút khỏi
+
++ to withdraw the hand from the pocket: rút tay ra khỏi túi
+- rút, rút lui
+
++ to withdraw troops from a position: rút quân khỏi một vị trí
+
++ to withdraw a sum of money: rút một số tiền ra
+
++ to withdraw a child from school: cho một đứa bé thôi học
+- rút, rút lại
+
++ to withdraw an accusation: rút một lời tố cáo
+- (pháp lý) sự huỷ bỏ; sự thu hồi
+
++ to withdraw an order: huỷ bỏ một lệnh; huỷ bỏ một đn đặt hàng
+- kéo (màn)
+*  ndgt
+- rút lui (khỏi một ni)
+
++ after dinner they withdrew: sau bữa com họ rút lui
+- (quân sự) rút quân
+- ra, rút ra
+
++ to withdraw from a society: rút ra khỏi một hội
+
+@withe  
+*  dt,  số nhiều withes,  withs
+- (như) withy
+
+@wither  
+*  ngdgt
+- làm héo, làm tàn úa; làm teo
+
++ a withered arm: cánh tay bị teo
+- làm khô héo, làm cho héo hắt đi
+
++ grief has withered his heart: những nỗi sầu muộn làm khô héo tâm can anh ta
+- làm cho bối rối
+
++ to wither someone with a look: nhìn ai làm cho người ta bối rối
+*  ndgt
+- héo, tàn, úa (cây cối, hoa)
+- héo mòn, tiều tuỵ (người); tàn tạ (sắc đẹp); tiêu tan (hy vọng...)
+
+@withering  
+*  tt
+- héo, tàn úa (cây cỏ, hoa lá...)
+- làm khô héo, làm héo hắt
+- làm bối rối
+
++ a withering look: một cái nhìn làm bối rối
+
+@withers  
+*  dt số nhiều
+- u vai (ngựa)
+!my withers are unwrung
+- tôi không hề nao núng, tôi vẫn thn nhiên (mặc dù lời buộc tội...)
+
+@withershins  
+*  dt
+- (Ê-cốt) ngược chiềm kim đồng hồ
+
+@withheld  
+*  ngdgt withheld
+- từ chối không làm; từ chối không cho
+
++ to withhold a document: từ chối không cho một tài liệu
+
++ to withhold one's help from someone: từ chối không giúp đỡ ai
+
++ to withhold one's hand: không chịu ra tay (làm việc gì)
+- giấu
+
++ to withhold the truth from a friend: giấu sự thật với người bạn
+- ngăn cn, giữ lại
+
++ to withhold someone from drinking: ngăn ai không cho uống rượu
+- (pháp lý) chiếm giữ
+
++ to withhold property: chiếm giữ tài sn
+
+@withhold  
+*  ngdgt withheld
+- từ chối không làm; từ chối không cho
+
++ to withhold a document: từ chối không cho một tài liệu
+
++ to withhold one's help from someone: từ chối không giúp đỡ ai
+
++ to withhold one's hand: không chịu ra tay (làm việc gì)
+- giấu
+
++ to withhold the truth from a friend: giấu sự thật với người bạn
+- ngăn cn, giữ lại
+
++ to withhold someone from drinking: ngăn ai không cho uống rượu
+- (pháp lý) chiếm giữ
+
++ to withhold property: chiếm giữ tài sn
+
+@withholden
+- quá khứ phân từ (cổ) của withhold
+ @withholding  
+*  dt
+- sự từ chối không làm; sự từ chối không cho
+- sự giấu giếm (sự thật...)
+- sự ngăn cn
+- (pháp lý) sự chiếm giữ (tài sn)
+
+@Withholding tax
+- (Econ) Thuế chuyển lợi nhuận về nước.
+: Thông thường là thứ thuế đánh vào cổ tức và tiền lãi do một công ty trả ra nước ngoài.
+ @within  
+*  giới từ
+- ở trong, phía trong, bên trong, trong
+
++ within the castle: bên trong lâu đài
+
++ within doors: trong nhà; ở nhà
+
++ within four walls: trong (giữa) bốn bức tường
+- trong vòng, trong khong
+
++ within three months: trong vòng ba tháng
+
++ within the next week: trong khong tuần tới
+
++ within an hour: trong vòng một giờ
+
++ within three miles: không quá ba dặm
+- trong phạm vi
+
++ within one's power: trong phạm vi quyền hạn của mình
+
++ within the four corners of the law: trong phạm vi pháp luật
+
++ to do something within oneself: làm việc gì không bỏ hết sức mình ra
+
++ within hearing: ở gần có thể nghe được, ở gần có thể bị nghe thấy
+*  dt
+- (từ cổ,nghĩa cổ) ở trong, bên trong, ở phía trong
+
++ to decorate the house within and without: trang hoàng ngôi nhà c trong lẫn ngoài
+
++ to go within: đi vào nhà, đi vào phòng
+
++ is Mr. William within?: ông Uy-li-am có (ở) nhà không?
+- (nghĩa bóng) trong lưng tâm, trong thâm tâm, trong tâm hồn
+
++ such thoughts make one pure within: những ý nghĩ như vậy làm cho tâm hồn người ta trong sạch
+*  dt
+- phía trong, bên trong
+
++ from within: từ bên trong
+
+@without  
+*  giới từ
+- không, không có
+
++ to without travel without a ticket: đi xe không (có) vé
+
++ rumour without foundation: tin đồn không căn cứ
+
++ without end: không bao giờ hết
+
++ without number: không thể đếm được, hằng hà sa số
+
++ to speak English without making mistakes: nói tiếng Anh không lỗi
+- (từ cổ,nghĩa cổ) ngoài; khỏi
+
++ without this place: ngoài chỗ này; khỏi chỗ này
+*  dt
+- (từ cổ,nghĩa cổ) bên ngoài, phía ngoài, ở ngoài, ngoài
+
++ to stay without: ở ngoài
+*  liên từ
+- (từ cổ,nghĩa cổ) trừ phi
+*  dt
+- phía ngoài, bên ngoài
+
++ from without: từ ngoài vào
+
+@withs  
+*  dt,  số nhiều withes,  withs
+- (như) withy
+
+@withstand  
+*  dgt withstood
+- chống lại, chống cự; chịu đựng
+
++ to withstand a siege: chống lại một cuộc bao vây
+
++ to withstand hard wear: chịu được mòn
+
+@withstanding  
+*  dt
+- sự chống cự; sự chịu đựng
+
+@withstood
+* ngdgt(withstood):giữ vững, trụ lại, cưỡng lại, chịu đựng, chống lại
+ @withstool  
+*  dgt withstood
+- chống lại, chống cự; chịu đựng
+
++ to withstand a siege: chống lại một cuộc bao vây
+
++ to withstand hard wear: chịu được mòn
+
+@withy  
+*  dt
+- cành liễu gai (để đan lát)
+
+@witless  
+*  tt
+- ngu đần, đần độn
+
+@witness  
+*  dt
+- sự làm chứng
+
++ to call someone to witness: gọi người nào ra làm chứng
+- bằng chứng, chứng cớ, bằng cớ; vật làm chứng; lời khai làm chứng
+
++ to bear witness to: làm bằng chứng cho
+
++ in witness of: để làm bằng cho
+- người chứng kiến ((thường) eyes witness)
+
++ the witness of an accident: người chứng kiến một tai nạn
+- (pháp lý) nhân chứng, người làm chứng
+
++ witness for the defence: nhân chứng cho bên bị
+- người chứng nhận, người làm chứng (trong đn từ, tờ khai)
+*  ngdgt
+- chứng kiến
+
++ to witness an accident: chứng kiến một tai nạn
+- chứng tỏ, để lộ ra, nói lên
+
++ her place face witnessed her agitation: sắc mặt tái mét chứng tỏ cô ta bối rói
+- (pháp lý) làm chứng cho
+
++ to witness the good intention of: làm chứng cho ý định tốt của
+- ký chứng nhận
+
++ to witness a will: ký chứng nhận một tờ di chúc
+*  ndgt
+- làm chứng
+
++ to witness for an accused person: làm chứng gỡ tội cho một người bị cáo
+- chứng thực
+
+@witness-box  
+*  dt
+- ghế nhân chứng (trong toà án)
+
+@witness-stand  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) witness-box
+
+@witted  
+*  tt
+- thông minh; khôn
+- có trí óc (dùng trong từ ghép)
+
++ quick witted: nhanh trí, ứng đối nhanh
+
+@witter
+* ndgt
+- <thgt> lải nhải, nói hoài (một chuyện không quan trọng)
+ @witticism  
+*  dt
+- lời nói dí dỏm, lời nhận xét tế nhị
+
+@wittiness  
+*  dt
+- tính chất dí dỏm, tính chất tế nhị (của lời nói, nhận xét...)
+
+@wittingly  
+*  dt
+- có ý thức, tự giác, có suy nghĩ
+
+@witty  
+*  tt
+- dí dỏm, tế nhị
+
++ a witty answer: câu tr lời dí dỏm
+
++ a witty person: người dí dỏm
+
+@wive  
+*  ndgt
+- (từ hiếm,nghĩa hiếm) lấy làm vợ, cưới vợ
+
++ to wive with someone: lấy người nào làm vợ
+*  ngdgt
+- (từ hiếm,nghĩa hiếm) lấy (làm vợ), cưới
+- cưới vợ (cho người nào)
+
+@wivern   (wyvern) @wives  
+*  dt,  số nhiều wives
+- vợ
+
++ to take to wife: (từ cổ,nghĩa cổ) lấy làm vợ, cưới làm vợ
+- (từ cổ,nghĩa cổ) người đàn bà; bà già
+
+@wizard  
+*  dt
+- thầy phù thuỷ
+- người có tài lạ
+
++ I am no wizard: tôi có tài cán gì đâu
+*  tt
+-(ngôn ngữ nhà trường),  (từ lóng) kỳ lạ
+
+@wizardry  
+*  dt
+- ma thuật, quỷ thật
+
+@wizen   (wizened) @wizened   (wizened) @wizier   (vizier) @

@@ -1,0 +1,481 @@
+@py-
+- hình thái ghép có nghĩa là mủ: pyaemia : chứng mủ huyết
+- hình thái ghép có nghĩa là mủ: pyaemia : chứng mủ huyết
+ @pyaemia   (pyaemia) @pyaemic   (pyaemic) @pycnial
+* tt
+- (thực vật học) thuộc phấn; túi bào tử phấn
+ @pycnic
+* tt
+- cổ to chân ngắn
+* dt
+- người cổ to chân ngắn
+ @pycnid
+* dt
+- (thực vật học) túi bào tử phấn
+ @pycnidia
+* dt
+- số nhiều
+- xem pycnidium
+ @pycnidial
+* tt
+- thuộc pycnid
+ @pycnidium
+* dt
+- số nhiều pycnidia
+- (thực vật học) túi bào tử phấn
+ @pycnomater
+* dt
+- tỷ trọng kế
+ @pycnostyle
+* dt
+- (kiến trúc) hàng cột sít nhau
+ @pycnotic
+* tt
+- thoái hoá tế bào
+ @pycnoxylic
+* tt
+- thuộc gỗ cứng, thuộc gỗ chắc
+ @pyebald
+* dt
+- xem piebald
+ @pyedog   (pi-dog) @pyelitis
+* dt
+- (y học) viêm bể thận
+ @pyelogram
+* dt
+- (y học) ảnh chụp tia X quang bể thận
+ @pyelographic
+- xem pyelography
+ @pyelography  
+*  dt
+- (y học) phép chụp tia X bế thận
+
+@pyemia   (pyaemia) @pyemic   (pyaemic) @pygal
+* tt
+- (động vật học) thuộc đốt hậu môn, thuộc mảnh cuối bụng
+ @pygidium
+* dt
+- số nhiều pygidia
+- (động vật học) đốt hậu môn; mảnh cuối bụng
+ @pygmaean   (pygmaean) @pygmean   (pygmaean) @pygmy   (pigmy) @pygmyism
+* dt
+- điều kiện bị lùn
+ @pygophore
+* dt
+- cuống sinh dục
+ @pygostyle
+* dt
+- (động vật học) xương bánh lái, xương lưỡi cày
+ @pyjamas   (pajamas) @pyknic  
+*  dt
+- (nhân chủng học) có cổ to bụng to chân ngắn
+*  dt
+- (nhân chủng học) người có cổ to bụng to chân ngắn
+
+@pylon  
+*  dt
+- cửa tháp, tháp môn (cung điện Ai-cập)
+- cột tháp (để mắc dây tải điện cao thế)
+
+@pylorectomy
+* dt
+- (y học) thuật cắt môn vị
+ @pyloric  
+*  tt
+- (giải phẫu) (thuộc) môn vị
+
+@pylorrhea
+* dt
+- viêm lợi chảy mủ; nha chu viêm
+ @pylorrhoea
+* dt
+- viêm lợi chảy mủ; nha chu viêm
+ @pylorus  
+*  dt
+- (giải phẫu) môn vị
+
+@pyo-
+- xem py-
+ @pyoderma
+* dt
+- (y học) viêm mủ da
+ @pyodermic
+* tt
+- thuộc viêm mủ da
+ @pyogenesis  
+*  dt
+- (y học) sự sinh mủ
+
+@pyogenic  
+*  tt
+- (y học) sinh mủ
+
+@pyoid  
+*  tt
+- (y học) (thuộc) mủ, giống mủ
+
+@pyometra  
+*  dt
+- (y học) bọc mủ tử cung
+
+@pyonephritis  
+*  dt
+- (y học) viêm mủ thận
+
+@pyorrhoea  
+*  dt
+- (y học) sự chảy mủ
+
+@pyosis  
+*  dt
+- (y học) sự mưng mủ
+
+@pyr-
+- hình thái ghép co nghĩa là
+- lửa, nhiệt
+
++  pyrochemistry:hoá học cao nhiệt
+- pyrogenous
+- do lửa
+- tạo nên bởi lửa
+- pyrography
+- thuật khắc nung
+- hình thái ghép co nghĩa là
+- lửa, nhiệt
+
++  pyrochemistry:hoá học cao nhiệt
+- pyrogenous
+- do lửa
+- tạo nên bởi lửa
+- pyrography
+- thuật khắc nung
+ @pyralidae
+* dt
+- họ bướm ống
+ @pyramid  
+*  dt
+- (toán học) hình chóp
+- tháp chóp, kim tự tháp (Ai-cập)
+- đống hình chóp
+- bài thơ hình chóp (câu ngày càng dài ra hoặc càng ngắn đi)
+- cây hình chóp
+
+@pyramid selling
+* dt
+- chuyển nhượng hợp đồng (trong kinh doanh)
+ @pyramidal  
+*  tt
+- (thuộc) hình chóp; có hình chóp
+
+@pyramidal
+- (thuộc) hình chóp
+ @pyramidalism
+* dt
+- lý thuyết về kim tự tháp ở Ai cập và các di vật ở đấy
+ @pyramidally
+- xem pyramid
+ @pyramidia
+* dt
+- số nhiều
+- xem pyramidion
+ @Pyramiding
+- (Econ) Sự tháp hoá; Sự chóp hoá; Việc hình thành hình chóp.
+: Xem HOLDING COMPANY.
+ @pyramidion
+* dt
+- số nhiều pyramidia
+- (kiến trúc) chóp tháp
+ @pyramidise
+* ngdgt
+- làm thành hình tháp
+ @pyramidist  
+*  dt
+- nhà nghiên cứu kim tự tháp (Ai-cập)
+
+@pyranometer
+* dt
+- (vật lý) học nhật xạ kế
+ @pyre  
+*  dt
+- giàn thiêu (để thiêu xác)
+
+@pyrene
+* dt
+- (thực vật học) hạch; hạt cứng (quả)
+ @pyrenocarp
+* dt
+- quả nạc có hạt cứng, quả nạc có hạch
+ @pyrenoid
+* dt
+- hạt tạo tinh bột
+* tt
+- dạng nhân
+ @pyrenophore
+* dt
+- (sinh vật học) phần chứa nhân (tế bào)
+ @pyrethrum  
+*  dt
+- (thực vật học) cây cúc trừ sâu
+
+@pyretic  
+*  tt
+- (thuộc) bệnh sốt; gây sốt
+- để chữa sốt
+
+@pyrex
+* dt
+- (Pyrex) loại thủy tinh chịu nhiệt tốt (dùng để nấu ăn, đựng thức ăn)
+ @pyrexia  
+*  dt
+- (y học) sốt
+
+@pyrexial   (pyrexic) @pyrexic   (pyrexic) @pyrgeometer
+* dt
+- bức xạ kế mặt đất
+ @pyrheliometer
+* dt
+- trực xạ kế (dụng cụ đo bức xạ trực tiếp của mặt trời)
+ @pyriform  
+*  tt
+- hình quả lê
+
+@pyrites  
+*  dt
+- (khoáng chất) Pyrit
+
+@pyritic   (pyritical) @pyritical   (pyritical) @pyritiferous  
+*  tt
+- có pyrit
+
+@pyro-
+- xem pyr-
+ @pyrochemical  
+*  tt
+- (thuộc) hoá học cao nhiệt
+
+@pyrochemically
+- xem pyrochemical
+ @pyrochemistry  
+*  dt
+- hoá học cao nhiệt
+
+@pyroclastic
+* tt
+- do nham tầng núi lửa tạo thành
+ @pyroconductivity  
+*  dt
+- tính dẫn hoả điện
+
+@pyroelectric  
+*  tt
+- hoả điện
+
+@pyroelectricity  
+*  dt
+- hiện tượng hoả điện
+- hoả điện học
+
+@pyrogenetic   (pyrogenic) @pyrogenic
+
+ @pyrogenicity
+- xem pyrogenic
+ @pyrogenous  
+*  tt
+- (địa lý,địa chất) hoả sinh, do lửa
+
+@pyrograph
+- xem pyrography
+ @pyrographer  
+*  dt
+- thợ khắc nung
+
+@pyrographic  
+*  tt
+- (thuộc) thuật khắc nung
+
+@pyrography  
+*  dt
+- thuật khắc nung
+
+@pyrogravure
+* dt
+- thuật khắc nung
+- tranh khắc nung
+ @pyrolator
+* dt
+- (tôn giáo) người bái hoả giáo
+ @pyrolatry  
+*  dt
+- sự nhiệt phân
+
+@pyroleter
+* dt
+- dụng cụ diệt lửa
+ @pyroligneous
+* tt
+- do phân giải gỗ bằng nhiệt
+ @pyrology
+* dt
+- nhiệt hoá học; nhiệt học
+ @pyrolysis  
+*  dt
+- sự nhiệt phân
+
+@pyrolytic  
+*  tt
+- nhiệt phân
+
+@pyrolytically
+- xem pyrolysis
+ @pyromagnetic  
+*  tt
+- (thuộc) hoả từ
+
+@pyromagnetism  
+*  dt
+- tính hoả từ
+
+@pyromancy  
+*  dt
+- thuật bói lửa
+
+@pyromania  
+*  dt
+- chứng cuồng phóng hoả
+
+@pyromaniac  
+*  dt
+- người mắc chứng cuồng phóng hoả
+
+@pyromaniacal  
+*  tt
+- chứng cuồng phóng hoả
+
+@pyromantic
+- xem pyromancy
+ @pyrometallurgical
+* tt
+- thuộc hoả luyện kim học
+ @pyrometer  
+*  dt
+- cái đo nhiệt cao
+
+@pyrometric   (pyrometrical) @pyrometrical   (pyrometrical) @pyrometrically
+- xem pyrometer
+ @pyrometry  
+*  dt
+- phép đo nhiệt cao
+
+@pyromotor
+* dt
+- máy phát động nhiệt khí
+ @pyrope  
+*  dt
+- (khoáng chất) Pirop
+
+@pyrophoric
+* tt
+- tự cháy; dẫn lửa
+ @pyrophorus
+* dt
+- chất tự cháy, vật tự cháy
+ @pyrophosphoric
+* tt
+- tự cháy
+ @pyroscope
+* dt
+- cái hoả nghiệm
+ @pyrosis  
+*  dt
+- (y học) chứng ợ nóng
+
+@pyrosphere  
+*  dt
+- (địa lý,địa chất) quyển lửa
+
+@pyrotechnic   (pyrotechnical) @pyrotechnical   (pyrotechnical) @pyrotechnically
+- xem pyrotechnic
+ @pyrotechnics   (pyrotechny) @pyrotechnist  
+*  dt
+- thợ làm pháo hoa
+
+@pyrotechny   (pyrotechny) @pyroxene  
+*  dt
+- (khoáng chất) Piroxen
+
+@pyroxenic
+- xem pyroxene
+ @pyroxilin
+* dt
+- thuốc nổ bông
+ @pyrrhic  
+*  tt
+- pyrrhic victory chiến thắng phải trả bằng một giá đắt
+
+@pyrrhic victory
+* dt
+- chiến thắng phải trả giá đắt (bị tổn thất nhiều về người và của)
+ @pyrrhonism  
+*  dt
+- (triết học) chủ nghĩa hoài nghi của Pi-rô; sự hoài nghi triết học
+
+@pyrrhonist  
+*  dt
+- (triết học) người theo chủ nghĩa hoài nghi của Pi-rô
+
+@pythagorean  
+*  tt
+- (thuộc) Pi-ta-go
+
++ pythagorean proposition: (toán học) định lý Pi-ta-go
+*  dt
+- môn đồ của Pi-ta-go
+
+@Pythagorean
+- (thuộc) Pitago
+- Q
+ @pythagoreanism
+* dt
+- học thuyết Pitago
+ @pythiad
+* dt
+- thời kỳ 4 năm giữa hai đại hội thể thao (cổ Hy lạp)
+ @pythian
+* tt
+- (cổ Hy lạp) thuộc điện thờ ở Đenphơ
+- thuộc vị tiên tri ở điện thờ Đenphơ
+- thuộc đại hội thể thao tổ chức 4 năm một lần cho toàn Hy Lạp
+ @python  
+*  dt
+- (thần thoại,thần học) mãng xà (thần thoại Hy lạp)
+- (động vật học) con trăn
+*  dt
+- ma, hồn ma
+- người bị hồn ma ám ảnh
+
+@pythoness  
+*  dt
+- bà đồng, bà cốt, cô hồn
+
+@pythonism
+* dt
+- thuật nói ý định thần linh
+ @pyuria
+* dt
+- mủ trong nước tiểu; chứng đái ra mủ
+ @pyx  
+*  dt
+- (tôn giáo) hộp đựng bánh thánh
+- hộp đựng tiền vàng mẫu để thử (ở xưởng đúc tiền của nhà vua Anh)
+*  ngdgt
+- để (tiền vàng mẫu) vào hộp đựng tiền mẫu để thử
+- thử (tiền vàng)
+
+@pyxidate
+* tt
+- có quả hộp
+ @pyxides  
+*  dt,  số nhiều pyxides  @pyxidia  
+*  dt,  số nhiều pyxidia  @pyxidium  
+*  dt,  số nhiều pyxidia  @pyxis  
+*  dt,  số nhiều pyxides  @

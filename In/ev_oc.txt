@@ -1,0 +1,779 @@
+@oc
+* (viết tắt)
+- sĩ quan chỉ huy (Officer  Commanding)
+ @ocarina  
+*  dt
+- (âm nhạc) kèn ocarina
+
+@occasion  
+*  dt
+- dịp, cơ hội
+
++ to profit by the occasion: nắm lấy cơ hội, nhân dịp
+- duyên cớ, lý do trực tiếp, lý do ngẫu nhiên
+
++ you have no occasion to be angry: anh chẳng có duyên cớ gì để cáu giận cả
+- (từ cổ,nghĩa cổ) công việc, công chuyện
+!to rise to the occasion
+- tỏ ra có khả năng ứng đối với tình hình
+!to take an occasion to do something
+- nhân một cơ hội làm một việc gì
+!to take occasion by the forelock
+- (xem) forelock
+*  ngdgt
+- gây ra, sinh ra, là nguyên cớ
+- xui, xui khiến
+
++ to occasion someone to do something: xui ai làm việc gì
+
+@occasion
+- dịp
+ @occasional  
+*  tt
+- thỉnh thoảng, từng thời kỳ; phụ động
+
++ an occasional worker: công nhân phụ động
+
++ an occasional visitor: người khách thỉnh thoảng mới đến
+- (thuộc) cơ hội, (thuộc) dịp đặc biệt; vào dịp đặc biệt; theo biến cố, theo sự kiện
+!occasional cause
+- lý do phụ, lý do bề ngoài
+
+@occasional table
+* dt
+- bàn nhỏ để dùng khi cần đến
+ @occasionalism  
+*  dt
+- (triết học) thuyết ngẫu nhiên
+
+@occasionalist  
+*  dt
+- (triết học) người theo thuyết ngẫu nhiên
+
+@occasionality  
+*  dt
+- sự thỉnh thoảng (mới xảy ra), sự xảy ra từng thời kỳ
+
+@occasionally  
+*  dt
+- thỉnh thoảng, thảng hoặc; từng thời kỳ
+
+@occasionally
+- ngẫu nhiên
+ @occident  
+*  dt
+- phương tây; tây âu; Châu Âu; Âu Mỹ; Châu Mỹ
+- văn minh Âu tây
+
+@occidental  
+*  tt
+- (thuộc) phương Tây; (thuộc) Tây Âu; (thuộc) Âu Mỹ
+*  dt
+- người phương Tây
+
+@occidentalise
+* ngdgt
+- xem occidentalize
+ @occidentalism  
+*  dt
+- văn minh phương Tây, văn minh Âu tây
+- đặc tính Tây; đặc tính Âu Tây
+
+@occidentalist  
+*  dt
+- người theo văn minh phương tây
+
+@occidentality
+* dt
+- đặc tính phương Tây, châu Âu,  Âu Mỹ
+ @occidentalization
+* dt
+- sự Tây phương hoá,  Âu hoá,  Âu Tây hoá
+ @occidentalize  
+*  ngdgt
+- tây phương hoá,  Âu tây hoá
+
+@occipital  
+*  tt
+- (giải phẫu) (thuộc) chẩm
+
++ occipital bone: xương chẩm
+
+@occiput  
+*  dt
+- (giải phẫu) chẩm, chỏm đầu
+
+@occlude  
+*  ngdgt
+- đút nút, bít (lỗ chân lông, lỗ hổng...)
+- (hoá học) hút giữ
+
+@occludent
+* tt
+- bị bít lại, bị bế tắt
+ @occlusion  
+*  dt
+- sự đút nút, sự bít; tình trạng bị đút nút, tình trạng bị bít
+- (hoá học) sự hút giữ
+- (y học) sự tắc (ruột...)
+
+@occlusive  
+*  tt
+- để đút nút, để bít
+- (hoá học) hút giữ
+*  dt
+- (ngôn ngữ học) âm tắc
+
+@occlusor
+* dt
+- (giải phẩu) cơ bịt
+ @occult  
+*  tt
+- sâu kín, huyền bí
+!the occult
+- điều huyền bí
+*  ngdgt
+- che khuất, che lấp
+*  ndgt
+- bị che khuất, bị che lấp
+
+@occultation  
+*  dt
+- sự che khuất, sự che lấp
+
+@occulting light  
+*  dt
+- (hàng hải) đèn lấp ló (đèn biển lúc bật lúc tắt)
+
+@occultism  
+*  dt
+- thuyết huyền bí
+
+@occultist  
+*  dt
+- nhà huyền bí
+
+@occultistic
+* tt
+- thuộc lý thuyết huyền bí
+ @occultly
+* tt
+- xem occult (tt)
+ @occultness  
+*  dt
+- tính huyền bí
+
+@occulty
+* dt
+- sự thần bí, sự huyền bí
+ @occupancy  
+*  dt
+- sự chiếm đóng, sự chiếm giữ
+- thời gian chiếm đóng
+
+@occupancy
+- (xác suất) sự chiếm chỗ
+ @occupant  
+*  dt
+- người chiếm giữ, kẻ chiếm đóng
+- người ở (trong một ngôi nhà) người thuê (nhà)
+- hành khách (trong xe, tàu...)
+
+@occupation  
+*  dt
+- sự chiếm, sự giữ, sự chiếm giữ, sự chiếm đóng
+
++ the occupation of the city: sự chiếm đóng thành phố
+- sự ở (một ngôi nhà)
+- thời hạn thuê
+- nghề nghiệp; công việc, việc làm
+
++ to look for an occupation: tìm việc làm
+
++ what is your occupation?: anh làm nghề gì?
+
+@occupational  
+*  tt
+- (thuộc) nghề nghiệp
+
++ occupational disease: bệnh nghề nghiệp
+
+@occupational hazard  
+*  dt
+- sự nguy hiểm nghề nghiệp
+
+@Occupational licensing
+- (Econ) Cấp bằng hành nghề.
+: Là một sự thoả thuận trong đó những người hành nghề thuộc một lĩnh vực nghề nghiệp nào đó cấp bằng hành nghề  trong lĩnh vực nói trên bằng cách quy định về tiêu chuẩn gia nhập và quyền hạn.
+ @occupational therapy  
+*  dt
+- (y học) phép chữa bằng lao dộng
+
+@Occupational wages differentials
+- (Econ) Những chênh lệch về mức lương theo nghề nghiệp.
+: Là chênh lệch trong tiền lương trung bình của các nhóm công nhân được phân loại theo nghề nghiệp mà họ đang làm.
+ @Occupational wages structure
+- (Econ) Cơ cấu lương theo nghề nghiệp.
+: Là việc phân hạng những mức lương trung bình trả cho các nhóm công nhân khác nhau được phân loại theo nghề nghiệp mà họ làm.
+ @occupied
+* tt
+- đang sử dụng
+- đầy (người)
+- có dính líu, bận rộn
+ @occupier  
+*  dt
+- người chiếm giữ, người chiếm cứ, người chiếm lĩnh
+
+@occupy  
+*  ngdgt
+- chiếm, chiếm giữ
+- chiếm, chiếm đóng
+- giữ
+
++ to occupy an important pasition in the government: giữ một địa vị quan trọng trong chính phủ
+- choán, chiếm cứ
+
++ many worries occupy his mind: nhiều nỗi lo lắng choán cả đầu óc hắn
+- ở
+
++ to occupy a house: ở một căn nhà
+- bận rộn với
+
++ to occupy ineself with something: bận rộn với việc gì
+
+@occur  
+*  ndgt
+- xảy ra, xảy đên
+- nảy ra (ý nghĩ)
+
++ it occurs to me that: tôi chợt nảy ra ý nghĩ là
+- xuất hiện, tìm thấy
+
++ several misprints occur on the first page: nhiều lỗi in sai tìm thấy ở trang nhất
+
+@occur
+- xuất hiện, xảy ra
+ @occurence  
+*  dt
+- việc xảy ra, sự cố
+
++ an everyday occurence: việc xảy ra hằng ngày
+- sự xảy ra; sự nẩy ra, sự loé lên (ý nghĩ, ý muốn)
+
++ to be of frequentsn occurence: thường xảy ra luôn
+
+@occurence
+- (xác suất) sự xuất hiện; (logic học) sự thâm nhập
+- bound o. sự thâm nhập liên hệ 
+- explicit o. (logic học) sự thâm nhập hiện, vị trí hiện 
+- free o. sự thâm nhập tự do
+- random o. sx. sự xuất hiện ngẫu nhiên 
+ @occurrence
+* dt
+- sự kiện, sự cố, chuyện xảy ra
+- an everyday occurrence
+- chuyện xảy ra hằng ngày
+- sự xảy ra; sự nẩy ra, sự loé lên (ý nghĩ, ý muốn)
+
++  an occurrence idea:một ý nghĩ vừa loé lên
+
++  to be of frequent rare occurrence:thường, hiếm xảy ra (hoặc diễn ra)
+
++  riots are of frequent occurrence in this province:những vụ náo loạn thường xảy ra ở tỉnh này
+@ocean  
+*  dt
+- đại dương, biển
+- (thông tục) vô vàn, vô khối, vô thiên lủng ((thường) oceans of)
+- khoảng mênh mông (cỏ...)
+
++ oceans of money: vô vàn tiền
+
+@ocean greyhound  
+*  dt
+- tàu thuỷ tốc hành (chở khách)
+
+@ocean lane  
+*  dt
+- đường tàu biển
+
+@ocean liner  
+*  dt
+- tàu biển chở khách
+
+@ocean tramp  
+*  dt
+- tàu biển chở hàng lẻ
+
+@oceanaria
+* dt
+- số nhiều
+- xem oceanarium
+ @oceanarium
+* dt
+- bể cá biển lớn
+ @oceanariums
+- Cách viết khác : oceanaria 
+ @ocean-going  
+*  tt
+- đi biển (tàu bè)
+
+@oceangoing
+* tt
+- (nói về tàu thuyền) (được đóng) để đi biển khơi (chứ không phải để chạy ven bờ hoặc trên sông)
+ @oceania
+* dt
+- châu Đại Dương
+ @oceanian  
+*  tt
+- (thuộc) châu Đại dương
+*  dt
+- người châu Đại dương
+
+@oceanic  
+*  tt
+- (thuộc) đại dương, (thuộc) biển; như đại dương; như biển
+- (thuộc) châu Đại dương
+
+@oceanid  
+*  dt
+- (thần thoại,thần học) Hải tinh
+
+@oceano graphy
+* dt
+- hải dương học
+* tt
+- (thuộc) hải dương học
+ @oceanographer  
+*  dt
+- nhà hải dương học
+
+@oceanographic   (oceanographical) @oceanographical   (oceanographical) @oceanographically
+- trạng từ
+- xem oceanographic
+ @oceanography  
+*  dt
+- hải dương học
+
+@oceanophilous
+* tt
+- (thực vật) sinh ở đại dưong
+ @oceanward   (oceanwards) @oceanwards   (oceanwards) @ocellar
+* tt
+- thuộc mắt đơn
+ @ocellate   (ocellated) @ocellated   (ocellated) @ocellation
+* dt
+- sự hình thành mắt đơn
+ @ocelli  
+*  dt,  số nhiều ocelli
+- (động vật học) mắt đơn (sâu bọ)
+- diện (ở mắt kép của sâu bọ)
+- điểm cầu vồng (trên mình sâu bọ)
+
+@ocelliferous
+* tt
+- có mắt đơn
+ @ocelligerous
+* tt
+- xem ocelliferous
+ @ocellus  
+*  dt,  số nhiều ocelli
+- (động vật học) mắt đơn (sâu bọ)
+- diện (ở mắt kép của sâu bọ)
+- điểm cầu vồng (trên mình sâu bọ)
+
+@ocelot
+* dt
+- mèo rừng Nam Mỹ
+ @och
+- interj
+- (Irland,  Scotland) ôi chao (chỉ sự ngạc nhiên)
+ @oche
+* dt
+- con đường trên sàn mà người chơi phải đứng phía sau để phóng tên vào mục tiêu
+ @ocher
+* dt
+- xem ochre
+ @ocherous
+* tt
+- xem ochraceous
+ @ochery
+* tt
+- xem ochraceous
+ @ochlesis
+* dt
+- (y học) bệnh nảy sinh do tụ tập cùng một phòng
+ @ochlocracy  
+*  dt
+- chính quyền quần chúng
+
+@ochlocrat  
+*  dt
+- người tán thành chính quyền quần chúng
+
+@ochlocratic  
+*  tt
+- (thuộc) chính quyền quần chúng; như chính quyền quần chúng
+
+@ochlocratical
+* tt
+- xem ochlocratic
+ @ochone
+- interj
+- (Irland,  Scotland) than ôi!
+ @ochraceous  
+*  tt
+- có đất son, giống đất son
+
+@ochre  
+*  dt
+- đất son
+- màu đất son
+
+@ochrea
+* dt
+- bẹ chìa
+ @ochreate
+* tt
+- có bẹ chìa, bọc bẹ
+ @ochreish  
+*  tt
+- có màu đất son
+
+@ochreous   (ochrous) @ochroid
+* tt
+- màu đất son
+ @ochrous   (ochrous) @ochry   (ochrous) @ock
+- hậu tố tạo thành dt có nghĩa là nhỏ
+- hillock
+- cái đồi nhỏ
+- bullock
+- con bò nhỏ
+ @ocr
+- nhận biết ký tự bằng quang học, nhận dạng ký tự
+ @ocrea
+* dt
+- số nhiều ocreae
+- xem ochrea
+ @ocreaceous
+* tt
+- dạng bẹ chìa
+ @ocreae
+* dt
+- số nhiều
+- xem ocrea
+ @ocrea-laik
+* tt
+- xem ocreaceous
+ @ocreate
+* tt
+- xem ochreate
+ @oct
+* dt
+- vt của October
+- tháng mười
+- khổ tám
+ @octa
+- (tương tự octo,  oct) hình thái ghép có nghĩa là tám
+- octahedral
+- tám mặt
+
++  octosyllable:từ tám âm tiết
+ @octachord  
+*  tt
+- (âm nhạc) có tám dây (đàn)
+*  dt
+- (âm nhạc) đàn tám dây
+- hệ thống tám nốt
+
+@octachordal  
+*  tt
+- (âm nhạc) (thuộc) đàn tám dây
+- (thuộc) hệ thống tám nốt
+
+@octactinal
+* tt
+- có gai tám tia
+ @octad  
+*  dt
+- nhóm tám, bộ tám
+
+@octagon  
+*  dt: (octangle) @octagon
+- hình tán cạnh
+ @octagonal   (octangular) @octagonal
+- (thuộc) hình tán cạnh
+ @octagonally
+- trạng từ
+- xem octagonal
+ @octagynous
+* tt
+- (thực vật) tám nhụy
+ @octahedral  
+*  tt
+- (toán học) tám mặt
+
+@octahedron  
+*  tt
+- (toán học) hình tám mặt
+
+@octahedron
+- khối tám mặt
+- regular o. khối tám mặt đều 
+ @octal
+* tt
+- thuộc hệ thống lấy số 8 làm cơ sở
+ @octal
+- bát phân; cơ sở tám
+ @octamerous  
+*  dt
+- (thực vật học) mẫu 8 (con số các bộ phận trong hoa)
+
+@octameter
+* dt
+- câu thơ tám bộ
+ @octandrous
+* tt
+- có tám nhị (hoa)
+ @octane  
+*  dt
+- (hoá học) Octan
+
+@octane number
+* dt
+- tỷ lệ octan
+ @octangle  
+*  dt: (octangle) @octangular   (octangular) @octangular
+- hình tám góc
+ @octant  
+*  dt
+- Octan (một phần tám của vòng tròn); góc 45 độ, cung 45 độ (trên vòng tròn)
+- cái Octan (dụng cụ hình một phần tám hình tròn, dùng để đo độ trong thiên văn và hàng hải)
+- (thiên văn học) vị trí Octan (vị trí của một hành tinh cách một điểm đã định 45 o trong sự di động biểu kiến của hành tinh ấy)
+
+@octant
+- một phần tám đường tròn
+ @octaploid
+* tt
+- xem octoploid
+ @octarch
+* tt
+- (sinh vật) tám bó mạch
+ @octarchy  
+*  dt
+- sự liên minh tay tám (của tám tiểu vương quốc)
+- nền thống trị tay tám (của tám người)
+
+@octaroon   (octaroon) @octastyle  
+*  tt
+- có tám cột (cửa vòm nhà...)
+*  dt
+- cửa vòm tám cột; nhà tám cột
+
+@octateuch  
+*  dt
+- tám tập đầu (của kinh Cựu ước)
+
+@octavalent
+* tt
+- (hoá) hoá trị tám
+ @octave  
+*  dt
+- (âm nhạc) quãng tám; tổ quãng tám
+- đoạn thơ tám câu; thơ tám câu
+- ngày thứ tám (kể từ ngày hội)
+- nhóm tám
+- (thể dục,thể thao) thế tám (một thế đánh gươm)
+- thùng octa (thùng đựng rượu khoảng 60 lít)
+
+@octave
+- (vật lí) bát độ
+ @octave-flute  
+*  dt
+- (âm nhạc) Picôliô
+
+@octavo  
+*  dt
+- (ngành in) khổ tám
+
+@octennial  
+*  tt
+- lâu tám năm, kéo dài tám năm
+- tám năm một lần
+
+@octennially
+- trạng từ
+- xem octennial
+ @octet   (octette) @octette   (octette) @octillion  
+*  dt,  (toán học)
+- (Anh-Đức) một triệu luỹ thừa 8
+- (Mỹ-Pháp) một nghìn luỹ thừa 9
+
+@octillion
+- 10 48 (Anh); 10 27 (Mỹ ) 
+ @octingentenary   (octocentenary) @october  
+*  dt
+- tháng mười
+- (định ngữ) (thuộc) tháng mười
+
++ the october Socialist Revolution: cuộc cách mạng xã hội chủ nghĩa tháng mười (Nga)
+
+@octobrist  
+*  tt
+- (thuộc) phái tháng mười (Nga)
+*  dt
+- người thuộc phái tháng mười (Nga)
+
+@octocentenary   (octocentenary) @octocentennial   (octocentenary) @octode
+* dt
+- đèn tám cực
+ @octodecimo  
+*  dt ((viết tắt) 18 mo)
+- khổ mười tám (giấy)
+- sách in khổ mười tám
+
+@octogenarian  
+*  tt
+- thọ tám mươi tuổi
+*  dt
+- người thọ tám mươi tuổi
+
+@octogynous
+* tt
+- (thực vật) tám nhụy
+ @octolateral
+* tt
+- có tám bên
+ @octonal  
+*  tt
+- cứ tám một (tiền, hệ thống số đếm)
+
+@octonarian  
+*  tt
+- có tám âm tiết (câu thơ)
+*  dt
+- câu thơ tám âm tiết
+
+@octonary  
+*  tt
+- (như) octnal
+*  dt
+- nhóm tám
+- đoạn thơ tám câu
+
+@octonocular
+* tt
+- có tám con mắt
+ @octoped
+- Cách viết khác : octopede 
+ @octopede
+- xem octoped
+ @octopetalous
+* tt
+- (thực vật) có tám cánh tràng
+ @octoploid
+- Cách viết khác : octaploid 
+ @octopod
+* dt
+- số nhiều octopoda
+- loài tám chân
+* tt, cách viết khác octopodous
+- có tám chân
+ @octopoda
+* dt
+- số nhiều
+- xem octopod
+ @octopodous
+* tt
+- xem octopod
+ @octopus  
+*  dt
+- (động vật học) con tuộc, con mực phủ
+
+@octoradiate
+* tt
+- có tám tia
+ @octoroon   (octaroon) @octosepalous
+* tt
+- (thực vật) tám lá dài
+ @octosporous
+* tt
+- có tám bào tử
+ @octostyle
+* dt
+- xem octastyle
+ @octosyllabic  
+*  tt
+- tám âm tiết (câu thơ)
+*  dt
+- câu thơ tám ân tiết
+
+@octosyllable  
+*  dt
+- câu thơ tám ân tiết
+- từ tám âm tiết
+
+@octroi  
+*  dt
+- thuế nhập thị (đánh vào các hàng mang vào thành phố)
+- nơi thu thuế nhập thị
+- nhân viên thu thuế nhập thị
+
+@octuple  
+*  tt
+- gấp tám lần
+*  dt
+- số gấp tám
+*  ngdgt
+- nhân lên tám lần
+
+@ocul
+- Cách viết khác : oculo 
+ @ocular  
+*  tt
+- (thuộc) mắt; cho mắt, bằng mắt; đập vào mắt
+
++ ocular demonstration: lối chứng minh đập vào mắt tôi
+*  dt
+- (vật lý) kính mắt thị kính
+
+@ocular
+- (vật lí) thị kính; mắt   trực quan
+@ocularist  
+*  dt
+- người làm mắt giả
+
+@ocularly
+- trạng từ
+- xem ocular (tt)
+ @oculat   (ocellated) @oculated   (ocellated) @oculi
+* dt
+- số nhiều
+- xem oculus
+ @oculiferous
+* tt
+- có mắt
+ @oculiform
+* tt
+- hình con mắt
+ @oculist  
+*  dt
+- (y học) thầy thuốc khoa mắt; chuyên gia về mắt
+
+@oculistic  
+*  tt
+- (y học) (thuộc) khoa mắt
+
+@oculo
+- xem ocul
+ @oculomotor
+* tt
+- làm mắt vận động
+- thuộc thần kinh làm mắt vận động
+ @oculo-nasal
+* tt
+- thuộc mắt-mũi
+ @oculus
+* dt
+- số nhiều oculi
+- mắt, mắt đơn (côn trùng)
+ @

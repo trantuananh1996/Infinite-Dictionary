@@ -1,0 +1,274 @@
+@zodiac  
+*  dt
+- (thiên văn học) hoàng đạo
+
+@zodiac
+- (thiên văn) hoàng đạo
+ @zodiacal  
+*  tt
+- (thuộc) hoàng đạo
+
++ zodiacal light: ánh sáng hoàng đạo
+
+@zodiacal
+- (vật lí) (thuộc) hoàng đạo
+ @zoic  
+*  tt
+- (địa lý,địa chất) có hoá thạch (đá, đất)
+
+@zoid
+* dt
+- bào tử động
+ @zoidiophilous
+* tt
+- (thực) ưa bào tử động
+ @zollverein  
+*  dt
+- liên minh thuế quan
+
+@zombie
+* dt
+- thây ma sống lại nhờ phù phép
+- người dở sống dở chết
+ @zomorphic
+* tt
+- thuộc biến thái động vật
+- có biến thái động vật
+ @zona
+* dt; số nhiều zonae
+- (y học) đới; đai; vùng; vành
+
++  zona ciliaris:vành lông rung
+ @zonae
+- dt số nhiều của zona
+ @zonal  
+*  tt
+- (thuộc) đới; (thuộc) khu vực
+- chia thành đới
+
+@zonal
+- (thuộc) đới, theo đới
+ @zonate  
+*  tt
+- (thực vật học); (động vật học) có khoang, có khoanh màu
+
+@zone  
+*  dt
+- (địa lý,địa chất) đới
+
++ the torrid zone: đới nóng, nhiệt đới
+
++ the temperate zone: đới ôn hoà, ôn đới
+
++ the frigid zone: đới lạnh, hàn đới
+- khu vực, miền; vùng
+
++ within the zone of submarine activity: trong khu vực hoạt động của tàu ngầm
+
++ the zone of influence: khu vực ảnh hưởng
+
++ the zone of operations: khu vực tác chiến
+- (từ cổ,nghĩa cổ),  (thơ ca) dây nịt, dây dưng
+*  ngdgt
+- chia thành đới, chia thành khu vực, quy vùng
+
++ to zone a district for industry: quy vùng một khu để xây dựng công nghiệp
+
+@zone
+- đới, miền, vùng
+- z. of plow đới của dòng
+- z. of infection vùng ảnh hưởng
+- z. of one base chỏm cầu 
+- z. of preference (toán kinh tế) vùng quyết định cuối cùng 
+- z. of a sphere đới cầu 
+- communication z. vùng liên lạc
+- dead z. (điều khiển học) vùng chết 
+- determinate z. miền quyết định
+- inert z. vùng không nhạy
+- neutralizing z. vùng trung lập
+- spherical z. đới cầu 
+ @zoneless  
+*  tt
+- không có khu vực
+
+@zoning  
+*  dt
+- sự chia thành đới, sự chia thành khu vực, sự quy vùng
+
+@zonked
+* tt
+- mệt nhoài, đuối sức
+ @zoo  
+*  dt
+- (thông tục) ((viết tắt) của zoological garden) vườn bách thú, vườn thú
+
+@zoobiological  
+*  tt
+- (thuộc) sinh học động vật
+
+@zoobiology  
+*  dt
+- sinh học động vật
+
+@zoochemical  
+*  tt
+- (thuộc) hoá học động vật
+
+@zoochemistry  
+*  dt
+- hoá học động vật
+
+@zoogenic
+- Cách viết khác : zoogenous 
+ @zoogeographical  
+*  tt
+- (thuộc) địa lý động vật
+
+@zoogeography  
+*  dt
+- địa lý động vật
+
+@zoographer  
+*  dt
+- nhà động vật học miêu tả
+
+@zoography  
+*  dt
+- động vật học miêu tả
+
+@zoo-keeper
+* dt
+- người trông nom vườn thú
+ @zoolite  
+*  dt
+- (địa lý,địa chất) đá động vật,  zoolit
+
+@zoological  
+*  tt
+- (thuộc) động vật học
+
++ zoological garden: vườn bách thú
+
+@zoologically
+* dt
+- về phương diện động vật học
+ @zoologist  
+*  dt
+- nhà động vật học
+
+@zoology  
+*  dt
+- động vật học
+
+@zoom  
+*  dt
+- tiếng kêu vù vu (của máy bay...)
+- sự làm cho bay vọt lên; sự bay vọt lên
+*  ndgt
+- kêu vù vù
+- bay vọt lên (máy bay)
+
+@zoom lens
+* dt
+- ống kính máy ảnh có khả năng phóng to, thu nhỏ đối tượng thu hình
+ @zoomorphic  
+*  tt
+- (thuộc) biến thái động vật
+- có biến thái động vật
+
+@zoomorphism  
+*  dt
+- sự biến thái động vật
+
+@zoonomorphic
+* tt
+- (thuộc) biến thái động vật
+- có biến thái động vật
+ @zoonomorphism
+* dt
+- sự biến thái động vật
+ @zoonomy  
+*  dt
+- sinh lý học động vật
+
+@zoonosis
+* dt
+- số nhiều là zoonoses
+- bất cứ căn bệnh nào có thể lây từ thú sang người
+ @zoophaga  
+*  dt số nhiều
+- vật ăn thịt động vật
+
+@zoophagan   (zoophagous) @zoophagous   (zoophagous) @zoophilous
+* tt
+- (văn) ham thích động vật
+- (thực) ưa động vật
+ @zoophyte  
+*  dt
+- động vật hình cây
+
+@zoopsychologic  
+*  tt
+- (thuộc) tâm lý học động vật
+
+@zoopsychologist  
+*  dt
+- nhà tâm lý học động vật
+
+@zoopsychology  
+*  dt
+- tâm lý học động vật
+
+@zoospore  
+*  dt
+- (động vật học); (thực vật học) động bào tử
+
+@zoot suit  
+*  dt
+- bộ quần áo dút (áo dài đến đầu gối, quần hẹp)
+
+@zootechnic  
+*  tt
+- (thuộc) phép nuôi động vật, (thuộc) chăn nuôi
+
+@zootechnician
+* dt
+- kỹ sư chăn nuôi
+ @zootechnics
+* dt
+- kỹ thuật chăn nuôi
+ @zootherapy  
+*  dt
+- thuật trị bệnh động vật
+
+@zootomic  
+*  tt
+- (thuộc) giải phẫu động vật
+
+@zootomist  
+*  dt
+- nhà giải phẫu động vật
+
+@zootomy  
+*  dt
+- khoa giải phẫu động vật
+
+@zoroastrian  
+*  tt
+- (tôn giáo) Zoroastrian thờ lửa
+*  dt
+- (tôn giáo) Zoroastrian tín đồ đạo thờ lửa
+
+@zoroastrianism  
+*  dt
+- Zoroastrianism đạo thờ lửa
+
+@zouave  
+*  dt
+- (sử học) lính zuavơ (lính bộ binh ở An-giê-ri)
+
+@zounds  
+*  thán từ
+- (từ cổ,nghĩa cổ) ối!, ủa!, ôi chao!
+
+@

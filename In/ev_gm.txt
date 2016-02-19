@@ -1,0 +1,9 @@
+@gm
+* (viết tắt)
+- Huy chương George (George medal)
+ @gmt
+* (viết tắt)
+- giờ chuẩn căn cứ theo kinh tuyến Greenwich (Greenwich Mean Time)
+ @GMT(Greenwich Mean Time)
+- (Tech) giờ Grinvic, giờ quốc tế GMT
+ @

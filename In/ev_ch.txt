@@ -1,0 +1,5655 @@
+@ch
+* (viết tắt)
+- hội viên danh dự (Companion  of  Honour)
+ @cha
+* dt
+- nước trà; trà
+ @chabazite
+* dt
+- (khoáng chất) chabaxit
+ @chablis
+* dt
+- rượu vang nguyên chất ở miền Đông nước Pháp
+ @chace  
+*  dt
+- khu vực săn bắn ((cũng) chase)
+
+@cha-cha-cha
+* dt
+- điệu nhảy chachacha
+ @chad
+- (Tech) giấy bướm; giấy vụn, mẩu vụn
+ @chadless
+- (Tech) không mẩu vụn
+ @chadless perforation
+- (Tech) đục lỗ không thủng
+ @chadless tape
+- (Tech) băng đột lỗ một phần (không thủng)
+ @chaeta
+* dt
+- số nhiều chaetae
+- (sinh học) lông cứng
+ @chafe  
+*  dt
+- sự chà xát
+- chỗ trầy da, chỗ phồng giộp lên (ở da)
+- chỗ xơ ra (sợi dây)
+- sự chọc tức, sự trêu tức; sự nổi cáu, sự nổi giận
+
++ to be in a chafe: nổi cáu, nổi giận
+*  ngdgt
+- chà xát, xoa (tay cho nóng)
+- làm trầy, làm phồng (da)
+- cọ cho xơ ra (sợi dây)
+- làm tức mình, làm bực dọc; chọc tức, trêu tức
+*  ndgt
+- chà xát cọ
+- trầy, phồng lên (da)
+- xơ ra (dây)
+- bực mình, cáu tiết, phát cáu, nổi giận
+
+@chafer  
+*  dt
+- (như) cockchafer
+
+@chaff  
+*  dt
+- trấu, vỏ (hột)
+- rơm ra, bằm nhỏ (cho súc vật ăn)
+- (nghĩa bóng) cái rơm rác, vật vô giá trị
+- (hàng không) mảnh (kim loại thả xuống để) nhiễu xạ
+!to be caught with chaff
+- bị lừa bịp một cách dễ dàng
+!to catch with chaff
+- đánh lừa một cách dễ dàng
+!a grain of wheat in a bushel of chaff
+- cố gắng mà kết quả chẳng ra sao, công dã tràng
+*  ngdgt
+- băm (rơm rạ)
+*  dt
+- lời nói đùa, lời nói giỡn, lời bỡn cợt, lời chế giễu, lời giễu cợt
+*  ngdgt
+- nói đùa, nói giỡn, bỡn cợt, chế giễu, giễu cợt
+
+@chaff-cutter  
+*  dt
+- máy băm thức ăn (cho súc vật)
+
+@chaffer  
+*  dt
+- người hay nói đùa, người hay bỡn cợt, người hay chế giễu, người hay giễu cợt
+*  dt
+- sự cò kè, sự mặc cả
+*  dgt
+- cò kè, mặc cả
+- (: away) bán lỗ
+- đấu khẩu
+- chuyện trò huyên thiên, nói chuyện huyên thiên
+!to chaffer away one's time
+- cò kè mất thì giờ
+
+@chafferer  
+*  dt
+- người hay mặc cả
+
+@chaffinch  
+*  dt
+- (động vật học) chim mai hoa
+
+@chaffy  
+*  tt
+- nhiều trấu, giống như trấu
+- vô giá trị, như rơm rác
+
+@chafing dish
+* dt
+- lò hâm (để ở bàn ăn)
+* dt
+- đoàn tù bị xích vào với nhau
+- đòan tù dây
+ @chafing-dish  
+*  dt
+- lò hâm (để ở bàn ăn)
+
+@chagrin  
+*  dt
+- sự chán nản, sự buồn nản; sự thất vọng; sự tủi nhục
+*  ngdgt
+- làm phiền muộn; làm thất vọng; làm tủi nhục
+
+@chain  
+*  dt
+- dây, xích
+- dãy, chuỗi, loạt
+
++ a chain of mountains: một dãy núi
+
++ a chain of events: một loạt các sự kiện
+- thước dây (để đo chiều dài); dây (chiều dài của thước dây, bằng 20m115)
+- dây chuyền (làm việc...)
+
++ to form a chain: làm thành dây chuyền, đứng thành dây chuyền
+- (số nhiều) xiềng xích
+
++ to break the chains: phá xiềng xích
+*  ngdgt
+- xích lại, trói buộc, buộc chặt ((nghĩa đen) & (nghĩa bóng))
+- ngáng dây (qua đường phố...)
+- đo bằng thước dây
+
+@chain
+- (Tech) chuỗi, dây chuyền, dây xích; nối kết ký lục; chuỗi vận hành; lần lượt (tt)
+ @chain
+- dây xích, dây chuyền chuỗi
+- c. of syzygies (đại số) xích [hội xung, xiziji] 
+- atternating c. dây xích đan, dây chuyền đan
+- finite c. (xác suất) xích hữu hạn
+- Marcop (xác suất) xích Maccốp
+- normal c. dây chuyền chuẩn tắc
+- reducible c. (đại số) dây chuyền khả quy
+- smallest c. (tô pô) dây chuyền nhỏ nhất 
+ @chain broadcasting  
+*  dt
+- (rađiô) sự phát thanh dây chuyền
+
+@chain code
+- (Tech) mã chuỗi
+ @chain command
+- (Tech) lệnh chuỗi
+ @chain coupling  
+*  dt
+- (ngành đường sắt) sự nối các toa bằng dây xích (để tăng an toàn)
+- (số nhiều) dây xích nối toa
+
+@chain inference
+- (Tech) phép nội suy chuỗi
+ @chain letter  
+*  dt
+- thư dây chuyền (mỗi người nhận phải chép ra nhiều bản rồi gửi cho người khác)
+
+@chain reaction  
+*  dt
+- (vật lý),  (hoá học) phản ứng dây chuyền
+
+@Chain rule
+- (Econ) Quy tắc dây chuyền. (Quy tắc hàm của hàm).
+: Một quy tắc để xác định đạo hàm của một hàm với một biến số, trong đó hàm là hàm của một biến số.
+ @chain-armour
+* dt
+- áo giáp lưới sắt
+ @chain-bridge  
+*  dt
+- cầu dây xích (cầu treo bằng dây xích)
+
+@chain-broadcasting
+* dt
+- (rađiô) sự phát thanh dây chuyền
+ @chain-coupling
+* dt
+- (đường sắt) sự nối các toa bằng dây xích (để tăng an toàn)
+ @chained access
+- (Tech) truy cập nối kết
+ @chained addressing
+- (Tech) định địa chỉ nối kết
+ @chain-gang  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) đoàn tù bị xích vào với nhau, đoàn tù đày
+
+@chaining
+- (Tech) móc xích, móc nối, nối kết, chuỗi
+ @chainlet  
+*  dt
+- dây xích nhỏ
+
+@chain-mail
+* dt
+- áo giáp hợp bởi những vòng kim loại xâu vào nhau
+ @chain-saw
+* dt
+- cưa xích
+ @chain-smoke  
+*  dgt
+- hút (thuốc lá) hết điếu nọ đến điếu kia, hút liên tục
+
+@chain-smoker  
+*  dt
+- người hút thuốc lá liên tục
+
+@chain-stitch  
+*  dt
+- đường khâu (theo kiểu) mắt xích; đường thêu mắt xích
+
+@chain-store
+* dt
+- (từ Mỹ,nghĩa Mỹ) một trong một loạt cửa hàng giống nhau thuộc sở hữu của cùng mộtcông ty
+ @chain-stores  
+*  dt số nhiều
+- (từ Mỹ,nghĩa Mỹ) cửa hàng dây xích (trong một hệ thống cửa hàng bán cùng loại hàng, thuộc cùng một hãng)
+
+@chain-wale
+* dt
+- (hàng hải) chân dây neo
+ @chair  
+*  dt
+- ghế
+
++ to take a chair: ngồi xuống ghế
+- chức giáo sư đại học
+- chức thị trưởng
+
++ past (above) the chair: trước đã làm thị trưởng
+
++ below the chair: chưa làm thị trưởng bao giờ
+- ghế chủ toạ, ghế chủ tịch (buổi họp); (từ Mỹ,nghĩa Mỹ) chủ tịch (buổi họp)
+
++ to address the chair: nói với chủ tịch buổi họp
+
++ to take the chair: làm chủ toạ buổi họp; khai mạc buổi họp
+
++ to sit (be) in the chair: điều khiển cuộc họp
+
++ to leave the chair: bế mạc cuộc họp
+- (từ Mỹ,nghĩa Mỹ) ghế điện
+
++ to go to the chair: bị lên ghế điện
+- (từ Mỹ,nghĩa Mỹ) chỗ ngồi của nhân chứng (ở toà án)
+- (ngành đường sắt) gối đường ray
+!chair! chair!
+- trật tự! trật tự!
+*  ngdgt
+- cử làm chủ tịch, chọn làm chủ tịch
+- đặt lên kiệu rước, đặt vào ghế rồi khiêng bổng (người thắng cuộc trong cuộc đấu hoặc được bầu trong một cuộc tuyển cử)
+- làm chủ toạ (buổi họp)
+
+@chair car
+* dt
+- toa xe dành riêng
+ @chair warmer  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) anh chàng lười biếng, anh chàng vô công rỗi nghề
+
+@chair-car  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (ngành đường sắt) toa xe dành riêng
+
+@chair-lift
+* dt
+- ghế treo trên dây cáp, và lên xuống để chở người
+ @chairman  
+*  dt
+- chủ tịch; người chủ toạ (buổi họp)
+- người cho thuê ghế lăn; người đẩy ghế lăn
+- (từ cổ,nghĩa cổ) người khiêng kiệu
+
+@chairmanship  
+*  dt
+- chức chủ tịch
+
+@chairperson
+* dt
+- chủ tịch
+ @chair-warmer
+* dt
+- (từ Mỹ,  (từ lóng)) anh chàng lười biếng, anh chàng vô công rồi nghề
+ @chairwoman  
+*  dt
+- nữ chủ tịch
+
+@chaise  
+*  dt (từ cổ,nghĩa cổ)
+
+@chaise longue
+* dt
+- ghế dài
+ @chalaza
+* dt
+- số nhiều chalazae,  chalazas
+- dây treo, điểm hợp
+ @chalcedonic
+- xem chalcedony
+ @chalcedony  
+*  dt
+- (khoáng chất) chanxeđon
+
+@chalcocite
+* dt
+- (khoáng chất) chancoxit
+ @chalcography  
+*  dt
+- thuật khắc đồng
+
+@chalcopyrite
+* dt
+- (khoáng chất) chancopirit
+ @chaldron  
+*  dt
+- sanđron (đơn vị đo than bằng 1,  66m3)
+
+@chalet  
+*  dt
+- nhà ván, nhà gỗ (ở miền núi Thuỵ sĩ)
+- biệt thự nhỏ (làm theo kiểu nhà gỗ ở miền núi Thuỵ sĩ)
+- nhà vệ sinh công cộng
+
+@chalice  
+*  dt
+- cốc, ly (để uống rượu)
+- (tôn giáo) cốc rượu lễ
+- (thơ ca) đài hoa
+
+@chalk  
+*  dt
+- đá phấn
+- phấn (viết)
+
++ a piece of chalk: một viên phấn (viết)
+- điểm ghi bằng phấn (trong một trò chơi)
+- (từ lóng) vết sẹo, vết xước
+!as like as chalk and cheese
+- căn bản khác nhau
+!to believe that chalk is cheese
+- trông gà hoá cuốc
+!chalks away; by a long chalk; by long chalks
+- hơn nhiều, bỏ xa
+
++ he is the better man by a long chalk: nó bỏ xa đối phương, nó hơn đối phương nhiều
+!not to know chalk from cheese
+- không biết gì cả, không hiểu gì cả
+!to walk the chalk
+- đi đúng giữa hai vạch phấn (để tỏ là minh không say rượu khi bị đưa đến cảnh sát...)
+- (nghĩa bóng) xử, sự mực thước đứng đắn
+!to walk (stump) one's chalk
+- (từ lóng) chuồn, tẩu, chạy trốn
+*  ngdgt
+- viết bằng phấn, vẽ bằng phấn, ghi bằng phấn
+- bôi phấn
+!to chalk out
+- đề ra, vạc (kế hoạch để thực hiện)
+!to chalk up
+- (thương nghiệp) ghi (một món tiền vào sổ nợ)
+!to chalk up a victory
+- ghi được một thắng lợi, giành được một thắng lợi
+
+@chalk line  
+*  dt
+- dây bật phấn
+
+@chalk talk  
+*  dt
+- buổi nói chuyện có minh hoạ trên bảng đen
+
+@chalkboard
+* dt
+- bảng viết phấn, bảng đen
+ @chalkiness
+* dt
+- tính cách trắng như phấn
+- sự xanh xao trắng bệch
+ @chalky  
+*  tt
+- có đá phấn (đất)
+- trắng như phấn
+- xanh xao, trắng bệch (da mặt)
+
+@challenge  
+*  dt
+- (quân sự) tiếng hô "đứng lại" (của lính đứng gác)
+- sự thách thức
+
++ to issue (send) a challenge: thách, thách thức
+
++ to take up (accept) a challenge: nhận lời thách thức
+- (pháp lý) sự không thừa nhận
+- hiệu lệnh (cho tàu thuỷ, máy bay) bắt trưng bày dấu hiệu
+*  ngdgt
+- (quân sự) hô "đứng lại" (lính đứng gác)
+- thách, thách thức
+
++ to challenge someone to a duel: thách ai đấu kiếm
+- không thừa nhận
+- đòi hỏi, yêu cầu
+
++ to challenge attention: đòi hỏi sự chú ý
+
+@challengeable  
+*  tt
+- (quân sự) có thể bị hô "đứng lại" 
+- có thể không thừa nhận
+- có thể đòi, có thể yêu cầu
+
+@challenger  
+*  dt
+- người thách
+- (pháp lý) người có quyền không thừa nhận, người không thừa nhận
+- người đòi hỏi, người yêu cầu
+
+@challenging
+* tt
+- đề ra những vấn đề thử thách năng lực của ai; kích thích
+
++  a challenging job, test, assignment:một công việc, sự thử thách, sự phân công kích thích
+ @challis
+* dt
+- vải nhẹ, mềm bằng vải, len, sợi hoá học
+ @chalone
+* dt
+- (sinh học) chalon, chất ức chế nội tiết
+ @chalumeau
+* dt
+- số nhiều chalumeaux
+- (âm nhạc) ống sáo
+ @chalybeate  
+*  tt
+- có chất sắt (nước suối...)
+
+@cham  
+*  dt
+- Great cham chúa tể (nói về bác sĩ Giôn-xơn, chúa tể các nhà phê bình văn học thời trước)
+
+@chamade  
+*  dt
+- (quân sự) hiệu kèn rút lui, hiệu trống rút lui
+
+@chamaephyte
+* dt
+- (thực vật) chồi cây trên đất (có chồi ngủ trên đất)
+ @chamber  
+*  dt
+- buồng, phòng; buồng ngủ
+- (số nhiều) nhà có sẵn đồ đạc cho đàn ông chưa vợ
+- (số nhiều) phòng luật sư; phòng làm việc của thẩm phán, phòng làm việc của quan toà
+- (Chamber) phòng, viện
+!chamber of commerce
+- phòng thương mại
+!the chamber of deputies
+- hạ nghị viện
+- khoang (trong máy...); hốc (mắt); ổ đạn (súng lục)
+- chậu đái đêm, cái bô ((cũng) chamber pot)
+*  ngdgt
+- bỏ vào phòng, nhốt vào phòng
+- (kỹ thuật) khoan rỗng, khoét thành hốc
+
+@chamber
+- (Tech) buồng, phòng, hộp
+ @chamber concert  
+*  dt
+- buổi hoà nhạc trong phòng
+
+@chamber counsel  
+*  dt
+- luật sư cố vấn
+
+@chamber music  
+*  dt
+- nhạc phòng (cho dàn nhạc nhỏ, chơi trong phòng)
+
+@chamber of horrors  
+*  dt
+- nơi trưng bày những vật khủng khiếp (dụng cụ tra tấn...)
+- mớ những cái kinh khủng
+
+@chamber orchestra  
+*  dt
+- dàn nhạc phòng (dàn nhạc nhỏ, chỉ chơi trong phòng)
+
+@chamber pot
+* dt
+- chậu đái đêm
+- cái bô
+ @chambered
+* tt
+- có phòng riêng
+ @chamberlain  
+*  dt
+- viên thị trấn
+
+@Chamberlin, Edward
+- (Econ) (1899-1967)
+: Một nhà kinh tế người Mỹ nổi tiếng với Lý thuyết cạnh tranh độc quyền (1933). Trong lý thuyết này, ông đã phân tích tình hình thị trường giữa cạnh tranh HOÀN HẢO và ĐỘC QUYỀN độc lập với công trình ở Anh của Joaobinson. Ông cho rằng các hãng cạnh tranh với nhau vì cầu nối với sản phẩm của họ bị tác động bởi sự tồn tại của các hãng khác, nhưng mỗi hãng lại có mức độ độc quyền nào đó vì chúng có các sản phẩm riêng mình. Cạnh tranh có thể dưới dạng cạnh tranh sản phẩm, trong đó quảng cáo rất quan trọng cũng như đối với cạnh tranh bằng giá vậy. Chanberlin nhấn mạnh tính biến dị sản phẩm đối lập với sự không hoàn hảo của thị trường, bao gồm yếu tố như tên nhãn mác, chất lượng đặc biệt, mẫu, bao bì và dịch vụ bán hàng. Một trong những kết luận nổi lên từ sự phân tích của ông là cạnh tranh độc quyền có thể có đặc trưng thừa năng lực, một kết quả bị thách thức vì nó có vẻ phụ thuộc vào giả định rằng tất cả thành viên của một nhóm hoạt động dưới những điều kiện chi phí giống nhau.
+ @chamber-maid  
+*  dt
+- cô hầu phòng
+- (từ Mỹ,nghĩa Mỹ) người ở gái
+
+@chambermaid
+* dt
+- nữ phục vụ phòng
+- (Mỹ) người tớ gái
+ @chamber-pot
+* dt
+- chậu đựng nước tiểu trong phòng
+ @chambray
+* dt
+- vải
+ @chameleon  
+*  dt
+- (động vật học) tắc kè hoa
+- người hay thay đổi ý kiến, người không kiên định
+
+@chameleonic  
+*  tt
+- luôn luôn biến sắc
+- hay thay đổi, không kiên định
+
+@chameleon-like  
+*  tt
+- luôn luôn biến sắc
+
+@chamfer  
+*  dt
+- mặt vạt cạnh (gỗ, đá)
+- đường xoi (cột)
+*  ngdgt
+- vạt cạnh (gỗ đá)
+- xoi đường (cột)
+
+@chamois  
+*  dt
+- (động vật học) con sơn dương
+- da sơn dương; da cừu; da dê (da thuộc)
+
+@chamois-leather  
+*  dt
+- (như) chamois
+
+@champ  
+*  dt (thông tục)
+- (như) champion
+*  dt
+- sự gặm, sự nhai
+*  dgt
+- gặm, nhai rào rạo (cỏ); nhay, nghiến
+
++ to champ the bit: nhay hàm thiếc (ngựa)
+- bực tức không chịu nổi; tức tối mà phải chịu, nghiến răng mà chịu
+- nóng ruột, sốt ruột, nôn nóng
+
++ the boys were champing to start: các em nóng ruột muốn xuất phát
+
+@champagne  
+*  dt
+- rượu sâm banh
+
+@champaign  
+*  dt
+- đồng bằng; cánh đồng trống
+
+@champer-pot  
+*  dt
+- chậu đái đêm, cái bô
+
+@champion  
+*  dt
+- người vô địch, nhà quán quân
+
++ world chess champion: người vô địch cờ quốc tế
+- (định ngữ) được giải nhất; vô địch, quán quân
+
++ a champion horse: con ngựa được giải nhất
+
++ a champion cabbage: bắp cải được giải nhất (trong cuộc thi triển lãm rau)
+
++ a champion boxer: võ sĩ quyền Anh vô địch
+- chiến sĩ
+
++ a peace champion: chiến sĩ hoà bình
+*  ngdgt
+- bảo vệ, bênh vực, đấu tranh cho
+
++ to champion the right of women: đấu tranh cho quyền lợi của phụ nữ
+*  tt & dt
+- cừ, tuyệt
+
++ that's champion: thật là tuyệt
+
+@championship  
+*  dt
+- chức vô địch; danh hiệu quán quân
+
++ to win a world swimming championship: đoạt chức vô địch bơi lội thế giới
+- sự bảo vệ, sự bênh vực, sự đấu tranh cho
+
+@champleve
+* dt
+- men khảm
+ @chance  
+*  dt
+- sự may rủi, sự tình cờ
+
++ by chance: tình cờ, ngẫu nhiên
+- sự có thể, sự có khả năng, khả năng có thể
+
++ the chances are against such an attempt: có khả năng là sự cố gắng ấy sẽ không thành công
+
++ he has a chance of winning the prize: anh ta có thể đoạt giải
+- cơ hội
+
++ the chance of a lifetime: cơ hội nghìn năm có một
+
++ to stand a good chance: được cơ hội thuận tiện
+
++ to lose a chance: bỏ lỡ cơ hội
+- số phận
+
++ to take one's chance: phó mặc số phận, đành liều xem sao
+!on the chance
+- may ra có thể
+
++ I'll call at his house on the chance of seeing him before he leaves home: tôi sẽ lại nhà hắn may ra có thể gặp hắn trước khi hắn đi
+!the main chance
+- cơ hội làm giàu, cơ hội để phất
+
++ the capitalist always has an eye to the main chance: nhà tư bản luôn luôn tìm cơ hội để phất
+*  tt
+- tình cờ, ngẫu nhiên
+
++ there is a chance likeness between the two boys, but thay are not brothers: hai đứa trẻ tình cờ giống nhau nhưng chúng không phải là anh em
+*  dgt
+- tình cờ, ngẫu nhiên, may mà
+
++ to chance to meet someone: tình cờ gặp lại ai
+
++ it chanced that my friend was at home when I came: may mà bạn tôi lại có nhà lúc tôi đến
+- (thông tục) liều, đánh liều
+
++ let us chance it: chúng ta cứ liều
+!to chance upon
+- tình cờ mà tìm thấy, tình cờ mà gặp
+!to chance one's arm
+- (thông tục) liều làm mà thành công
+!to chance one's luck
+- cầu may
+
+@chance
+- trường hợp ngẫu nhiên, khả năng có thể; cơ hội
+- by c. ngẫu nhiên
+- c. of acceptance xác suất thu nhận 
+ @chancel  
+*  dt
+- (tôn giáo) thánh đường
+
+@chancellery  
+*  dt
+- chức thủ tướng (áo,  Đức); phủ thủ tướng (áo,  Đức)
+- văn phòng đại sứ, văn phòng lãnh sự
+
+@chancellor  
+*  dt
+- đại pháp quan; quan chưởng ấn
+
++ the Lord Chancellor of England; the Lord High Chancellor: đại pháp quan Anh
+- thủ tướng (áo,  Đức)
+- hiệu trưởng danh dự trường đại học
+
+@chancellorship
+- xem chancellor
+ @chancellory  
+*  dt
+- (như) chancellery
+
+@chance-medley  
+*  dt
+- (pháp lý) tội ngộ sát
+- sự vô ý, sự bất cẩn
+
+@chancer
+* dt
+- người cơ hội; người không có nguyên tắc đạo đức
+ @chancery  
+*  dt
+- toà đại pháp Anh
+- (từ Mỹ,nghĩa Mỹ) toà công lý
+!in chancery
+- (pháp lý) đang thưa kiện (ở toà đại pháp)
+- (thể dục,thể thao) ở vào thế đầu rúc vào cánh tay đối phương và bị đấm liên hồi không chống đỡ được (quyền Anh)
+- ở tình trạng khó khăn, lúng túng
+
+@chancily
+* dt
+- bấp bênh, không chắc chắn
+ @chanciness
+- xem chancy
+ @chancre  
+*  dt
+- (y học) săng
+
+@chancroid  
+*  dt
+- hạ cam
+
+@chancroidal
+- xem chancroid
+ @chancrous
+- xem chancre
+ @chancy  
+*  tt
+- (thông tục) may rủi, bấp bênh
+- gặp may, vận đỏ
+
+@chandelier  
+*  dt
+- đèn treo nhiều ngọn, chúc đài treo
+
+@chandelle
+* ngdgt
+- bay lao vút lên
+ @chandler  
+*  dt
+- người làm nến, người bán nến
+- người bán hàng tạp hoá (dầu, xà bông, hương liệu...)
+
+@chandlery  
+*  dt
+- hàng nến, hàng tạp hoá
+
+@change  
+*  dt
+- sự đổi, sự thay đổi, sự biến đổi
+
++ to undergo a complete change: thay đổi hoàn toàn
+
++ just for a change: để thay đổi một chút
+
++ change for the better: sự thay đổi tốt hơn
+
++ change for the worse: sự thay đổi xấu đi
+
++ a change of air: sự thay đổi không khí, sự thay đổi môi trường
+
++ the changes of life: những nỗi thăng trầm của cuộc sống
+
++ change of mind (heart): sự thay đổi ý kiến, sự thay đổi ý định; sự thay đổi kế hoạch
+- trăng non
+- bộ quần áo sạch (để dự phòng) ((cũng) a change of clothes)
+- tiền đổi, tiền lẻ
+- tiền phụ lại (cho khách hàng)
+- nơi đổi tàu xe
+- sự giao dịch chứng khoán; thị trường chứng khoán (ở Luân-đôn) ((cũng) Change,  (viết tắt) của Exchange)
+- (số nhiều) trật tự rung chuông
+!change of life
+- (y học) thời kỳ mãn kinh
+!to get no change out of somebody
+- không địch lại được ai (trong cuộc tranh luận); không cạnh tranh nổi ai (trong việc buôn bán)
+- (thông tục) không móc được của ai cái gì
+!to ring the changes on a subject
+- lặp đi lặp lại một vấn đề dưới hình thức khác nhau, nhai đi nhai lại một vấn đề dưới những hình thức khác nhau
+!to take one's (the) change out of somebody
+- (thông tục) trả thù ai
+*  ngdgt
+- đổi, thay, thay đổi
+
++ to change one's coat: thay áo
+- đổi, đổi chác
+
++ to change something for something: đổi lấy cái gì
+
++ to change places with somebody: đổi chỗ cho ai
+
++ thing changes hands: vật thay tay đổi chủ
+- (: to,  into,  from) biến đổi, đổi thành
+- đổi ra tiền lẻ
+
++ to change a bank-note: đổi tờ giấy bạc ra tiền lẻ
+*  ndgt
+- thay đổi, biến đổi
+
++ all things change: mọi vật đều thay đổi
+- sang tuần trăng mới, sang tuần trăng non (trăng)
+
++ when does the moon change?: khi nào sang tuần trăng mới, khi nào có trăng non?
+- thay quần áo
+
++ I'll change and come down at once: tôi sẽ thay quần áo và xuống ngay
+- đổi tàu xe
+
++ we must change at the next station: đến ga sau chúng ta sẽ phải đổi tàu
+!to change about
+- trở mặt
+!to change down
+- trả số, xuống số (ô tô)
+!to change colour
+- (xem) colour
+!to change one's condition
+- (xem) condition
+!to change front
+- đổi chiều đổi hướng (trong cuộc tranh luận...)
+- (thông tục) thay giày
+- đổi chân nhịp (khi diễu hành theo nhịp trống)
+
+@change
+- (Tech) đổi, thay đổi
+ @change
+- sự thay đổi, sự biến đổi   thay đổi, biến đối
+- the signs changesthay đổi dấu
+- c. of base (basis) đổi cơ sở; đổi cơ số
+- secular c. sự thay đổi trường kỳ 
+@change of life
+- thời kỳ mãn kinh
+ @changeability  
+*  dt
+- tính dễ thay đổi, tính hay thay đổi
+
+@changeable  
+*  tt
+- dễ thay đổi, hay thay đổi
+
++ a changeable person: con người dễ thay đổi
+
++ changeable weather: thời tiết hay thay đổi
+- có thể thay đổi
+
+@changeableness  
+*  dt
+- (như) changeability
+
+@changeably
+- xem changeable
+ @changeful  
+*  tt
+- luôn luôn thay đổi, không ngừng biến chuyển; bất thường
+
+@changefully
+- xem changeful
+ @changefulness
+- xem changeful
+ @change-gear  
+*  dt
+- hộp số (xe ô tô)
+
+@changeless  
+*  tt
+- không thay đổi, bất di bất dịch
+
+@changelessness  
+*  dt
+- tính không thay đổi, tính bất di bất dịch
+
+@changeling  
+*  dt
+- (thần thoại,thần học) đứa trẻ thay thế (cho đứa trẻ các bà tiên bắt trộm đem đi)
+- (từ cổ,nghĩa cổ) người hay đổi tính
+
+@change-over  
+*  dt
+- sự thay đổi thiết bị; sự thay đổi nhân viên; sự thay đổi hệ thống làm việc
+- sự thay đổi ý kiến
+- sự thay đổi tình thế
+- (vật lý) sự đối chiếu
+
+@changeover time
+- (Tech) thời gian chuyển sang
+ @changer
+- (Tech) máy đổi
+ @change-ringing
+* dt
+- cách rung chuông tạo được hoà âm
+ @change-room
+* dt
+- phòng thay quần áo (trong thể thao)
+ @changing  
+*  tt
+- hay thay đổi, hay biến đổi
+
+@channel  
+*  dt
+- eo biển
+- lòng sông, lòng suối
+- kênh mương, lạch; ống dẫn (nước dầu...)
+- (nghĩa bóng) đường; nguồn (tin tức, ý nghĩ, tư tưởng...)
+
++ secret channels of information: những nguồn tin mật
+
++ throught the usual channels: qua những nguồn thường lệ
+
++ telegraphic channel: đường điện báo
+
++ diplomatic channel: đường dây ngoại giao
+- (rađiô) kênh
+- (kiến trúc) đường xoi
+- (kỹ thuật) máng, rãnh
+!the Channel
+- biển Măng sơ
+*  ngdgt
+- đào rãnh, đào mương
+- chảy xói (đất) thành khe rãnh (nước mưa)
+- chuyển
+
++ to channel inmformation to: chuyển tin tức cho
+- hướng vào (cái gì), xoáy vào (cái gì)
+- (kiến trúc) bào đường xoi
+
+@channel
+- (Tech) kênh, băng tần; đường; cống
+ @channel
+- ống kênh
+- binary c. kênh nhị nguyên, kênh nhị phân
+- communication c. kênh thông tin
+- correction c. kênh hiệu đính, kênh sửa sai
+- frequency c. kênh tần số
+- noiseless c. ống không có nhiễu âm, kênh không ồn
+- open c. kênh nhớ
+- recording c. ống ghi giữ 
+- signal c. ống tín hiệu
+- transmission c. kênh truyền tin
+- undellayed c. kênh không trễ
+- wrong c. (điều khiển học) kênh sai 
+ @channeler
+- xem channel
+ @channeling
+- (Tech) mở kênh, truyền qua kênh
+ @channelizing
+- (Tech) phân kênh @chanson
+* dt
+- bài hát
+- bài hát ở quán rượu bằng tiếng Pháp
+ @chansonnier
+* dt
+- người viết hay hát những bài hát
+- người hát ở quán rượu
+ @chant  
+*  dt
+- (tôn giáo) thánh ca
+- bài hát nhịp điệu đều đều
+- giọng trầm bổng (như hát)
+*  dgt
+- hát
+- cầu kinh; tụng kinh
+!to chant horses
+- (từ lóng) giấu tật xấu của ngựa để bán cho dễ, bán ngựa một cách gian ngoan
+!to chant slogans
+- hô khẩu hiệu
+!to chant someone's praises
+- luôn luôn ca tụng ai
+
+@chanter  
+*  dt
+- người hát ở nhà thờ
+- lái ngựa gian ngoan (giấu tật xấu của ngựa) ((cũng) horse chanter)
+
+@chanterelle  
+*  dt
+- nấm mồng gà
+
+@chanteuse
+* dt
+- số nhiều chanteuses
+- nữ ca sĩ chủ yếu ở các quán rượu
+ @chantey  
+*  dt
+- bài hò (của thuỷ thủ)
+
+@chanticleer  
+*  dt
+- gà trống
+
+@chantingly
+- xem chant
+ @chantry
+* dt
+- (kiến trúc) nơi hát lễ trong nhà thờ
+- tiền trợ cấp để hát lễ
+ @chanty  
+*  dt (như) chantey
+
+@chaos  
+*  dt
+- thời đại hỗn nguyên, thời đại hỗn mang
+- sự hỗn độn, sự hỗn loạn, sự lộn xộn
+
+@chaos
+- (Tech) hỗn độn, lộn xộn (d)
+ @chaotic  
+*  tt
+- hỗn độn, hỗn loạn, lộn xộn
+
+@chaotically
+* dt
+- hỗn độn, hỗn loạn
+ @chap  
+*  dt
+- (thông tục) thằng, thằng cha
+
++ a funny chap: thằng cha buồn cười
+- người bán hàng rong ((cũng) chap man)
+!hullo! old chap!
+- chào ông tướng!
+*  dt ((cũng) chop)
+- (số nhiều) hàm (súc vật); má
+- hàm dưới; má lợn (làm đồ ăn)
+- (số nhiều) hàm ê tô, hàm kìm
+!to lick one's chaps
+- nhép miệng thèm thuồng; nhép miệng ngon lành
+*  dt
+- ((thường) số nhiều) chỗ nứt nẻ
+*  dgt
+- làm nứt nẻ, nứt nẻ, nẻ
+
++ drought chaps the field: hạn hán làm ruộng nứt nẻ
+
++ feet chap: chân bị nẻ
+
+@chap book
+* dt
+- sách văn học dân gian(về thơ ca) bán rong
+ @chap fallen
+* tt
+- có má xị
+- chán nản, thất vọng, buồn nản
+ @chaparajos  
+*  dt số nhiều
+- (từ Mỹ,nghĩa Mỹ) quần (bằng) da (của người chăn bò)
+
+@chap-book  
+*  dt
+- sách văn học dân gian (vè, thơ ca...) bán rong
+
+@chape  
+*  dt
+- miếng lót đáy bao gươm
+- núm đầu gươm
+- vòng (thắt lưng)
+
+@chapel  
+*  dt
+- nhà thờ nhỏ (ở nhà tù, ở trại lính...); buổi lễ ở nhà thờ nhỏ
+- Anh nhà thờ không theo quốc giáo
+- (ngành in) nhà in; tập thể thợ in; cuộc họp của thợ in
+
++ to call a chapel: triệu tập một cuộc họp của thợ in
+!to keep a chapel
+- có mặt (ở trường đại hoạc)
+
+@chaperon  
+*  dt
+- bà đi kèm (đi kèm các cô gái ở cuộc dạ hội)
+*  ngdgt
+- đi kèm (các cô gái)
+
+@chaperonage  
+*  dt
+- sự đi kèm (các cô gái)
+
+@chap-fallen  
+*  tt
+- có má xị
+
++ a chap-fallen person: người có má xị
+- chán nản, thất vọng, buồn rầu
+
+@chapiter  
+*  dt
+- (kiến trúc) đầu cột
+
+@chaplain  
+*  dt
+- giáo sĩ (trong nhà thờ nhỏ của trường học, bệnh viện, nhà tù, trại lính)
+
+@chaplaincy
+* dt
+- chức giáo sự tuyên úy
+ @chaplainship
+- xem chaplain
+ @chaplet  
+*  dt
+- vòng hoa đội đầu
+- chuỗi hạt, tràng hạt
+- chuỗi trứng cóc
+
+@chapleted
+- xem chaplet
+ @chapman  
+*  dt
+- người bán hàng rong
+
+@chappie  
+*  dt
+- (thông tục) công tử bột ((cũng) chappy)
+
+@chappy  
+*  dt: (chappie) 
+@chaps  
+*  dt số nhiều
+- (viết tắt) của chaparajo
+
+@chapter  
+*  dt
+- chương (sách)
+- đề tài, vấn đề
+- (tôn giáo) tăng hội
+!chapter of accidents
+- (xem) accident
+!to the end of the chapter
+- đến cùng; mãi mãi
+!to cite (give, have) chapter and verse
+- nói có sách, mách có chứng
+
+@chapter
+- chương (sách)   chia thành chương
+@chapter file
+- (Tech) tập tin chương tiết
+ @char  
+*  dt
+- (động vật học) giống cá hồi chấm hồng
+*  dt & ndgt
+- (như) chare
+*  dgt
+- đốt thành than, hoá thành than
+
++ to char wood: đốt củi thành than
+*  dt
+- (từ lóng) trà
+
+@charabanc
+* dt
+- xe buýt [có] ghế dài đi chơi
+ @character  
+*  dt
+- tính nết, tính cách; cá tính
+- đặc tính, đặc điểm; nét đặc sắc
+
++ work that locks character: tác phẩm không có gì đặc sắc
+- chí khí, nghị lực
+
++ a man of character: người có chí khí
+- nhân vật
+
++ the characters in a novel: những nhân vật trong một quyển tiểu thuyết
+
++ a public character: nhân vật nổi tiếng
+- người lập dị
+
++ character actor: diễn viên chuyên đóng vai lập dị
+- tên tuổi, danh tiếng, tiếng
+
++ to have an excellent character for honesty: nổi tiếng về chân thật
+- giấy chứng nhận (về năng lực, đạo đức...)
+
++ a good character: giấy chứng nhận tốt
+- chữ; nét chữ (của ai)
+
++ books in chinese character: sách chữ Trung quốc
+!in (out of) character
+- hợp (không hợp) với tính chất của diễn viên (vai kịch); hợp (không hợp) với đặc tính của ai
+
+@character
+- (Tech) tính chất; ký tự (chữ-số-dấu), mẫu tự; tổ hợp điện mã
+ @character
+- (đại số) đặc trưng, đặc tính; đặc số; (máy tính) dấu chữ
+- conjugate c. (đại số) đặc trưng liên hợp
+- group c. đặc trưng nhóm
+- irreducible c. tính chất không khả quy
+- non-principal c. tính không chính
+- perforator c. số và dấu hiệu trên phím máy đục lỗ
+- principal c. đặc trưng chính 
+ @character code
+- (Tech) mã ký tự
+ @character crowding 
++  character packing
+- (Tech)
+ @character map
+- (Tech) bản đồ ký tự
+ @character packing
+- (Tech) dồn ký tự, nén ký tự
+ @character recognition
+- (Tech) nhận dạng ký tự
+ @character recognition scanner
+- (Tech) bộ quét nhận dạng ký tự
+ @character set
+- (Tech) bộ ký tự, bộ mẫu tự
+ @character signal
+- (Tech) tín hiệu ký tự
+ @character string
+- (Tech) chuỗi ký tự
+ @characterise   (characterise) @characteristic  
+*  tt
+- riêng, riêng biệt, đặc thù, đặc trưng
+*  dt
+- đặc tính, đặc điểm
+
++ the characteristic of a society: đặc điểm của một xã hội
+
+@characteristic
+- (Tech) đặc tuyến, đường (cong); đặc trưng; đặc tính; tham số @characteristic
+- đặc tính, đặc trưng; đặc tuyến
+- c. of a complex đặc tuyến của một mớ (đường thẳng)
+- c. of correspondence đặc trưng của một phép tương ứng
+- c. of a developable đặc tuyến của một mặt trải được
+- c. of a family of surfaces đặc tuyến của một họ mặt
+- c. of a field đặc số của một trường
+- c. of logarithm phần đặc tính của lôga
+- complementary c. đặc tính bù
+- control c. đặc trưng điều chỉnh, đặc trưng điều khiển
+- decibellog frequency c. đặc trưng biên tần lôga
+- delay c. đặc trưng trễ
+- drive c. đặc trưng biến điệu
+- dynamic(al) c. đặc trưng động
+- Euler c. đặc trưng Ơle
+- exterrnal c. (điều khiển học) đặc trưng ngoài 
+- feed back c. đặc trưng liên hệ ngược
+- hysteresis c. đặc trưng hiện tượng trễ
+- idealized c. xib đặc trưng được lý tưởng hoá
+- impedance c. đặc trưng tổng trở
+- lumped c. đặc trưng chung
+- noise c. đặc trưng tiếng ồn
+- no-load c. (điều khiển học) đặc trưng không tải
+- operating c. xib đặc trưng sử dụng; (thống kê) đường đặc trưng
+- overload c. đặc trưng quá tải
+- performance c. đặc trưng sử dụng
+- phase c. đặc trưng pha
+- recovery c. đặc trưng quá trình chuyển tiế, đường hồi phục
+- resonance c. đường cộng hưởng
+- response c. (điều khiển học) đặc trưng tần số
+- rising c. xib đặc trưng tăng (thêm)
+- saturation c. đặc trưng bão hoà
+- selectivuty c. đặc trưng tuyển lựa
+- square-law c. (điều khiển học) đặc trưng bình phương
+- static(al) c. (điều khiển học) đặc trưng tĩnh
+- steady-state c. (điều khiển học) đặc trưng của chế độ ổn định
+- steep-sided c. đặc trưng có nhát cắt dựng đứng
+- surge c. (điều khiển học) đặc trưng chuyển tiếp
+- target c. đặc trưng mục đích
+- through c. đặc trưng xuyên qua
+- total c. (điều khiển học) đặc trưng chung
+- transmission c. đặc trưng truyền đạt 
+ @characteristic constant
+- (Tech) hằng số đặc trưng; hằng số mũ
+ @characteristic curve
+- (Tech) đường cong đặc trưng
+ @characteristically
+* dt
+- theo tính cách đặc trưng
+ @characteristically
+- một cách đặc trưng
+ @Characteristics theory
+- (Econ) Lý thuyết về đặc tính sản phẩm.
+: Lý thuyết này liên quan tới lý thuyết cầu tiêu dùng và công trình của K.lancaster.Ý tưởng chính là những người tiêu dùng không yêu cầu sản phẩm mà là đặc tính của sản phẩm. Xem HEDONIC PRICES.
+ @characterization  
+*  dt
+- sự biểu thị đặc điểm, sự mô tả đặc điểm
+- sự truyền đặc tính cho (ai)
+- sự xây dựng thành công nhân vật (trong một tiểu thuyết...)
+
+@characterize   (characterise) @characterizer
+- xem characterize
+ @characterless  
+*  tt
+- tầm thường, không có bản sắt
+- không có giấy chứng nhận
+
+@charactron
+- (Tech) charactron, ống tia điện tử hiện chữ
+ @charade  
+*  dt
+- trò chơi đố chữ
+
+@charbon
+* dt
+- (y học) bệnh than (của súc vật)
+ @charcoal  
+*  dt
+- than (củi)
+
++ animal charcoal: than xương
+- chì than (để vẽ)
+- bức vẽ bằng chì than
+*  ngdgt
+- bôi than; viết bằng chì than, vẽ bằng than
+
+@charcoal-burner  
+*  dt
+- người đốt than
+- lò đốt than
+
+@charcuterie
+* dt
+- thịt lợn ướp
+ @chard
+* dt
+- một loại củ cải ăn giống như rau
+ @chare  
+*  dt ((cũng) char)
+- việc lặt vặt trong nhà
+- (thông tục) (như) charwoman
+*  ndgt ((cũng) char)
+- làm giúp việc lặt vặt trong gia đình (theo giờ hoặc công nhật)
+
+@charge  
+*  dt
+- vật mang, vật chở, vật gánh; gánh nặng ((nghĩa đen) & (nghĩa bóng))
+
++ to be a charge on someone: là gánh nặng cho ai, để cho ai phải nuôi nấng
+- số đạn nạp, số thuốc nạp (vào súng); điện tích (nạp vào ắc quy); sự nạp điện, sự tích điện
+- tiền phải trả, giá tiền, tiền công, tiền thù lao
+
++ free of charge: không phải trả tiền
+
++ no charge for admission: vào cửa không mất tiền
+
++ list of charges: bảng giá (tiền)
+- sự gánh vác (một khoản phí tổn, mọi sự chi phí)
+
++ to do something at one's own charge: làm việc gì phải gánh vác lấy mọi khoản chi phí
+- nhiệm vụ, bổn phận, trách nhiệm
+- sự trông nom, sự coi sóc
+
++ to be in charge of somebody: phải trông nom ai
+- người được giao cho trông nom, vật được giao cho trông nom
+- (tôn giáo) những con chiên của cha cố
+
++ to take charge of something; to take something in charge: chịu trách nhiệm trông nom cái gì
+
++ to give somebody charge over: giao phó cho ai trông nom (cái gì); giao trách nhiệm cho ai
+- mệnh lệnh, huấn thị, chỉ thị
+
++ parting charge: những lời huấn thị cuối cùng
+- lời buộc tội; sự buộc tội
+
++ to bring (lay) a charge against somebody: buộc tội ai
+- cuộc tấn công dữ dội, cuộc đột kích ồ ạt
+
++ bayonet charge: cuộc tấn công bằng lưỡi lê
+- (quân sự) hiệu lệnh đột kích
+!in charge
+- phụ trách, trưởng, đứng đầu; thường trực, trực
+
++ the officer in charge: sĩ quan chỉ huy, sĩ quan thường trực
+!to give someone in charge
+- (quân sự) lại tấn công
+- lại tranh luận
+!to take charge
+- đảm đương, chịu trách nhiệm
+- bị buông lơi, bị buông lỏng, không ai điều khiển
+
++ streering-wheel takes charge: tay lái bị buông lỏng không ai cầm
+!to take in charge
+- bắt, bắt giam
+*  ngdgt
+- nạp đạn, nạp thuốc (vào súng); nạp điện
+- (nghĩa bóng) tọng vào, nhồi nhét
+
++ to charge a gun: nạp đạn vào súng
+
++ to charge a battery: nạp điện ắc quy
+
++ to charge one's memory with figures: nhồi nhét vào trí nhớ toàn những con số
+- tính giá, đòi trả
+
++ how much do you charge for mending this pair of shoes?: vá đôi giày này ông tính bao nhiêu?
+- tính vào, bắt phải chịu phí tổn, bắt phải gánh vác; ghi sổ (nợ)
+
++ please charge these goods to me: làm ơn ghi sổ những món hàng này cho tôi
+- giao nhiệm vụ, giao việc
+
++ to be charged with an important mission: được giao một sứ mệnh quan trọng
+- buộc tội
+
++ to be charged with murder: bị buộc tội giết người
+- tấn công, đột kích
+
++ to charge the enemy: tấn công quân địch
+- bắc (súng...) đặt ngang (ngọn giáo...)
+- tấn công
+
++ our guerillas charged again and again: du kích của chúng ta tấn công liên tục
+!to charge down upon
+- đâm bổ vào, nhảy xổ vào
+
+@charge
+- (Tech) điện tích; gánh; phụ tải; vật mang điện; tiền trả; nhiệm vụ; nạp xung, nạp điện, sạc; gánh (đ); tính tiền (đ)
+ @charge
+- sự nạp điện; giá cả; sự chi tiêu; trọng tài
+- maintainance c.s (toán kinh tế) chi phí sử dụng
+ @Charge account
+- (Econ) Tài khoản tín dụng.
+: Một phương tiện tín dụng người bán lẻ dành cho khách hàng.
+ @charge account
+* dt
+- thẻ tín dụng
+ @charge carrier
+- (Tech) hạt mang điện tích
+ @charge coupled device (CCD)
+- (Tech) bộ ghép điện tích
+ @charge sheet
+* dt
+- hồ sơ tội trạng (ở đồn cảnh sát)
+ @chargeability   (chargeableness) @chargeable  
+*  tt
+- lấy vào, ăn vào, tính vào
+
++ sum chargeable to a reserve: món tiền lấy vào khoảng dự trữ
+
++ this is chargeable to the account of...: món này tính vào khoản...
+- phải chịu, phải chịu phí tổn; phải nuôi nấng
+
++ repairs chargeable on the owner: tiền sửa do chủ phải chịu
+- bắt phải chịu (một thứ thuế)
+- có thể bắt tội, có thể buộc tội; có thể tố cáo được
+
+@chargeable
+- (Tech) được tính tiền @chargeable cell
+- (Tech) pin nạp được
+ @chargeable time
+- (Tech) thời gian phải trả tiền
+ @chargeable word
+- (Tech) chữ phải trả tiền
+ @chargeableness   (chargeableness) @charged area
+- (Tech) khu vực mang điện tích
+ @chargehand
+* dt
+- người đốc công
+ @charger  
+*  dt
+- ngựa của sĩ quan; ngựa chiến
+- ổ nạp đạn
+- (điện học) bộ nạp điện
+
+@charger
+- (Tech) bộ nạp điện, máy sạc điện
+ @charge-sheet  
+*  dt
+- danh sách những trường hợp vi cảnh (ở đồn công an)
+
+@charging
+- (Tech) nạp; tính tiền
+ @charging by distance
+- (Tech) tính tiền theo khoảng cách
+ @charging by time
+- (Tech) tính tiền theo thời gian
+ @charging capacitor
+- (Tech) bộ điện dung nạp
+ @charging time
+- (Tech) thời gian nạp
+ @chargé d'affaires  
+*  dt,  số nhiều chargés d'affaires
+- (ngoại giao) đại biện
+
++ chargé_d'affairesad interim: đại biện lâm thời
+
+@charily
+- xem chary
+ @chariness  
+*  dt
+- sự thận trọng, sự cẩn thận
+- sự dè dặt (lời nói, lời khen...)
+
+@chariot  
+*  dt
+- (sử học) xe ngựa (dùng để đánh trận hay chạy đua)
+*  ngdgt
+- chở bằng xe ngựa
+
+@charioteer  
+*  dt
+- người đánh xe ngựa
+- (thiên văn học) chòm sao Ngũ xa
+
+@charism  
+*  dt
+- uy tín; đức tính gây được lòng tin; sức thu hút của quần chúng (của lãnh tụ)
+
+@charisma
+* dt
+- uy tín; đức tính gây được lòng tin; sức thu hút của lãnh tụ (đối với quần chúng)
+ @charismatic
+* tt
+- thuyết phục, lôi cuốn
+ @charismatically
+* dt
+- thuyết phục, lôi cuốn
+ @charist
+* dt
+- (cỗ) xe ngwạ hai bánh(để đánh trận hay chạy đua)
+ @charitable  
+*  tt
+- nhân đức, từ thiện; có lòng thảo
+- khoan dung, độ lượng
+!charitable instution
+- nhà tế bần
+
+@charitableness  
+*  dt
+- lòng nhân đức, lòng từ thiện; lòng thảo
+- tính khoan dung, tính độ lượng
+
+@charitably
+* dt
+- nhân từ, độ lượng
+ @charity  
+*  dt
+- lòng nhân đức, lòng từ thiện; lòng thảo
+- lòng khoan dung
+- hội từ thiện; tổ chức cứu tế
+
++ board of charity: sở cứu tế
+- việc thiện; sự bố thí, sự cứu tế
+
++ charity fund: quỹ cứu tế
+- (số nhiều) của bố thí, của cứu tế
+!charity begins at home
+- trước khi thương người hãy thương lấy người nhà mình
+!sister of charity
+- bà phước
+
+@charity-boy  
+*  dt
+- học sinh trường trẻ em mồ côi; đứa bé ở viện trẻ mồ côi
+
+@charity-school  
+*  dt
+- trường trẻ em mồ côi; viện trẻ mồ côi
+
+@charivari  
+*  dt
+- tiếng om sòm, tiếng la hét om sòm; tiếng kèn tiếng trống om sòm
+
+@charlady
+* dt
+- người đàn bà giúp việc gia đình (theo giờ hoặc công nhật)
+ @charlatan  
+*  dt
+- lang băm
+- kẻ bất tài mà hay loè bịp
+*  tt
+- có tinh chất lang băm
+- loè bịp, bịp bợm
+
+@charlatanic
+- xem charlatan
+ @charlatanism   (charlatanry) @charlatanry   (charlatanry) @charles's wain  
+*  dt
+- (thiên văn học) chòm sao Gấu lớn, chòm sao Đại hùng
+
+@charleston  
+*  dt
+- điệu nhảy sanxtơn
+
+@charlie
+* dt
+- kẻ ngốc nghếch, kẻ dại khờ
+ @charlock  
+*  dt
+- (thực vật học) bạch giới ruộng
+
+@charlote
+* dt
+- bữa điểm tâm có quả với thịt; món sác-lốt
+ @charm  
+*  dt
+- sức mê hoặc
+- bùa mê, bùa yêu, ngải; phép yêu ma
+- nhan sắc, sắc đẹp, duyên
+- sức hấp dẫn, sức quyến rũ
+!under a charm
+- bị mê hoặc; bị bỏ bùa
+*  ngdgt
+- làm mê hoặc, dụ
+
++ to charm a secret out of somebody: dụ ai để bắt thổ lộ điều bí mật
+- bỏ bùa, phù phép
+- quyến rũ, làm say mê; làm vui thích, làm vui sướng
+
++ to be charmed with: bị quyến rũ vì, say mê vì
+
++ I shall be charmed to: nủm luần bâu charm vui sướng được
+!to bear a charmed life
+- sống dường như có phép màu phù hộ
+
+@charmer  
+*  dt
+- người làm phép mê, người bỏ bùa, người dụ
+- người làm cho say mê; người làm cho vui thích, người làm cho vui sướng
+- (từ cổ,nghĩa cổ);(đùa cợt) người đàn bà đẹp chim sa cá lặn
+
+@charmeuse  
+*  dt
+- xa tanh sacmơ
+
+@charming  
+*  tt
+- đẹp, duyên dáng, yêu kiều; có sức quyến rũ, làm say mê, làm mê mẩn
+
++ a charming smile: nụ cười duyên dáng
+
+@charmingly
+* dt
+- thú vị, hấp dẫn
+ @charmless  
+*  tt
+- không đẹp, vô duyên
+
+@charnel-house  
+*  dt
+- nhà mồ, nhà xác, nhà để hài cốt
+
+@charon  
+*  dt
+- (thần thoại Hy lạp) người lái đò bến Mê (đưa linh hồn người chết)
+
+@charqui
+* dt
+- thịt bò phơi nắng
+ @charr
+* dt
+- số nhiều charrs
+- (động vật) cá hồi chấm hồng
+ @charring
+* dt
+- sự hoá than, đốt thành than
+ @chart  
+*  dt
+- (hàng hải) bản đồ đi biển, hải đồ
+- bản đồ
+- đồ thị, biểu đồ
+
++ a weather chart: đồ thị thời tiết
+*  ngdgt
+- vẽ hải đồ; ghi vào hải đồ
+- vẽ đồ thị, lập biểu đồ
+
+@chart
+- (Tech) biểu đồ, đồ thị
+ @chart
+- biểu (đồ)
+- arithmetics c. biểu đồ những thay đổi số lượng
+- circular c. biểu đồ vuông
+- control c. phiếu kiểm tra
+- dot c. biểu đò điểm
+- double logarithmic c. bản đồ có tỷ lệ xích lôga ở hai trục
+- efficiency c. biểu đồ hiệu suất, hiệu suất biểu đồ
+- impedance c. đồ thị tổng trở
+- logarithmic c. (thống kê) biểu đồ lôga
+- percentile c. (thống kê) đường phân phối
+- recorder c. bảng ghi, biểu đồ ghi
+ @chart recording
+- (Tech) ghi đồ thị
+ @charter  
+*  dt
+- hiến chương
+
++ International Educators' Charter: hiến chương nhà giáo quốc tế
+
++ the Great Charter: đại hiến chương nước Anh (15 6 1215)
+- đặc quyền
+- sự thuê tàu; hợp đồng thuê tàu
+- giấy nhượng đất
+*  ngdgt
+- ban đặc quyền
+- thuê mướn (tàu biển); (thông tục) xe cộ
+
++ to charter a ship: thuê tàu
+
++ to charter a bus: thuê xe buýt
+
+@charter flight
+* dt
+- chuyến bay thuê
+* dt
+- hợp đồng thuê tầu
+ @chartered
+* tt
+- có đủ tư cách phù hợp với các quy tắc của một hội nghề nghiệp được công nhận trong một hiến chương hoàng gia
+
++  a chartered engineer, librarian, surveyor:kỹ sư, thủ thư, viên thanh tra đủ tư cách hành nghề
+- chartered accountant  (cũng certified public accountant)
+- nhân viên kế toán được đào tạo toàn diện và đủ tư cách hành nghề
+ @charterer  
+*  dt
+- (hàng hải) người thuê tàu (bằng hợp đồng)
+
+@charterhouse  
+*  dt
+- nhà tế bần nuôi người già (ở Luân-đôn)
+
+@chartermember  
+*  dt
+- uỷ viên sáng lập (một tổ chức)
+
+@charter-party  
+*  dt
+- hợp đồng thuê tàu
+
+@chartism  
+*  dt
+- (sử học) phong trào hiến chương (ở Anh 1837 1848)
+
+@chartist
+* dt
+- người tham gia phong trào hiến chương (ở anh vào những năm 1830)
+ @chartreuse  
+*  dt chartreuse
+- tu viện (của) dòng thánh Bru-nô
+- rượu sactơrơ
+- màu lục nhạt
+
+@charwoman  
+*  dt
+- người đàn bà giúp việc gia đình (theo giờ hoặc công nhật)
+
+@chary  
+*  tt
+- thận trọng, cẩn thận
+
++ to be chary of catching cold: cẩn thận kẻo bị lạnh
+- dè dặt, hà tiện (lời nói, lời khen...)
+
++ chary of praise: dè dặt lời khen
+
+@charybdis
+* dt
+- xem Scylla
+ @char-à-banc   (char-à-bancs) @char-à-bancs   (char-à-bancs) @chase  
+*  dt
+- sự theo đuổi, sự đuổi theo, sự săn đuổi
+
++ in chase of: theo đuổi
+
++ to give chase: đuổi theo
+- the chase sự săn bắn
+
++ a keen follower of the chase: người thích đi săn bắn
+- khu vực săn bắn ((cũng) chace)
+- thú bị săn đuổi; tàu bị đuổi bắt
+*  ngdgt
+- săn, săn đuổi
+- đuổi, xua đuổi
+
++ to chase all fears: xua đuổi hết mọi sợ hãi
+!to chase oneself
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chuồn, tẩu thoát
+
++ go chase yourself!: hãy chuồn cho mau!
+*  dt
+- (ngành in) khuôn
+*  dt
+- rãnh (để đặt ống dẫn nước)
+- phần đầu đại bác (bao gồm nòng súng)
+*  ngdgt
+- chạm, trổ, khắc (kim loại)
+- gắn, đính
+
++ to chase a diamond in gold: gắn hột kim cương vào vàng
+- tiện, ren (răng, đinh ốc)
+
+@chase
+- theo dõi
+ @chase-grace
+* dt
+- tên vô lại
+ @chase-gun  
+*  dt
+- (hàng hải) đại bác ở mũi tàu; đại bác ở đuôi tàu
+
+@chaser  
+*  dt
+- người đuổi theo, người đánh đuổi
+- người đi săn
+- (hàng hải) tàu khu trục
+- (hàng hải) súng đại bác ở mũi (đuôi) tàu
+- (thông tục) ly rượu uống sau khi dùng cà phê; ly nước uống sau khi dùng rượu mạnh
+*  dt
+- người chạm, người trổ, người khắc
+- bàn ren, dao ren
+
+@chasing
+* dt
+- sự cắt ren (bằng dao)
+- sự khấu quặng theo phương mạch
+ @chasing
+- sự theo dõi
+- diagram c. sự theo dõi trên biểu đồ 
+ @chasm  
+*  dt
+- kẽ nứt sâu, lỗ nẻ sâu
+- vực thẳm; (nghĩa bóng) sự ngăn cách lớn, sự cách biệt lớn (về quan điểm, tư tưởng, quyền lợi...)
+
++ there is a chasm between them: giữa họ có vực thẳm ngăn cách
+- lỗ hổng lớn, chỗ trũng lớn
+
+@chasmal
+- xem chasm
+ @chasmogamic
+- Cách viết khác : chasmogamous 
+ @chasmogamy
+* dt
+- (thực vật) tính thụ phấn mở
+ @chasmy  
+*  tt
+- (thơ ca) đầy hang sâu vực thẳm
+
+@chasse  
+*  dt
+- (thông tục) ly rượu uống sau khi dùng cà phê
+
+@chassepot
+* dt
+- súng saxơpo
+ @chasseur
+* dt
+- kỵ binh
+ @chassis  
+*  dt,  số nhiều chassis
+- khung gầm (ô tô, máy bay...)
+
+@chassis
+- (Tech) khung, dàn, sátxi
+ @chassé  
+*  dt
+- bước lướt (khiêu vũ)
+*  ndgt
+- bước lướt (khiêu vũ)
+
++ to chassé to the right: bước lướt sang phải
+
+@chaste  
+*  tt
+- trong sạch, trong trắng, minh bạch
+- giản dị, mộc mạc, không cầu kỳ (văn)
+- tao nhã, lịch sự (lời nói)
+
+@chastely
+- xem chaste
+ @chasten  
+*  ngdgt
+- uốn nắn; trừng phạt, trừng trị
+- gọt giũa (văn)
+- (thường) dạng bị động chế ngự, kiềm chế
+
+@chastener
+- xem chasten
+ @chasteness
+- xem chaste
+ @chastily
+* dt
+- trong sạch, trong trắng
+ @chastisable
+- xem chastise
+ @chastise  
+*  ngdgt
+- trừng phạt, trừng trị
+- đánh đập
+
+@chastisement  
+*  dt
+- sự trừng phạt, sự trừng trị
+- sự đánh đập
+
+@chastiser  
+*  dt
+- người trừng phạt, người trừng trị
+- người đánh đập
+
+@chastity  
+*  dt
+- sự trong trắng, lòng trinh bạch; sự trinh tiết, chữ trinh
+- sự giản dị, sự mộc mạc (văn)
+
+@chasuble  
+*  dt
+- (tôn giáo) áo lễ
+
+@chat  
+*  dt
+- chuyện phiếm, chuyện gẫu; chuyện thân thuộc
+*  ndgt
+- nói chuyện phiếm, tán gẫu
+
+@chat show
+* dt
+- chương trình phỏng vấn trên tivi
+- chương trình phỏng vấn trên đài
+ @chateau
+* dt
+- lâu đài
+ @chateaubriand
+* dt
+- món bít tết dày
+ @chatelaine  
+*  dt
+- dây đeo chìa khoá; dây đeo đồng hồ; xà tích
+- bà chủ phong lưu ở nông thôn
+- bà chủ (tiếp khách)
+
+@chaton
+* dt
+- mặt nhẫn
+ @chatoyant
+* tt
+- óng ánh nhiều màu
+* dt
+- viên ngọc óng ánh nhiều màu
+ @chattel  
+*  dt,  (thường) số nhiều
+- động sản
+
++ chattel mortgage: (từ Mỹ,nghĩa Mỹ) sự cám đồ, sự cược đồ (động sản)
+!to be the chatttel of
+- là vật sở hữu của (nói về người nô lệ)
+!chattel slavery system
+- chế đọ chiếm hữu nô lệ
+!to go away with all one's goods and chattels
+- tếch đi với tất cả đồ tế nhuyễn của riêng tây
+
+@chatter  
+*  dt
+- tiếng hót líu lo, tiếng ríu rít (chim); tiếng róc rách (suối)
+- sự nói huyên thiên, sự nói luôn mồm (người)
+- tiếng lập cập (răng)
+- tiếng lạch cạch (của máy bị xọc xạch, bị jơ)
+*  ndgt
+- hót líu lo, hót ríu rít (chim); róc rách (suối)
+- nói huyên thiên, nói luôn mồm
+- lập cập (răng đập vào nhau)
+- kêu lạch cạch (máy bị xọc xạch, bị jơ)
+!to chatter like a magpie
+- nói như khướu
+
+@chatterbox  
+*  dt
+- đứa bé nói líu lo
+- người ba hoa, người hay nói huyên thiên
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) súng liên thanh
+
+@chatterer  
+*  dt
+- người ba hoa, người hay nói huyên thiên
+
+@chatter-resistant
+* tt
+- chống rung
+ @chattily
+* dt
+- dông dài, huyên thuyên
+ @chattiness
+* dt
+- sự ăn nói huyên thuyên, sự ăn nói ba hoa
+ @chatty  
+*  tt
+- thích nói chuyện phiếm, thích tán gẫu, hay chuyện trò
+- (quân sự),  (từ lóng) bẩn, tởm, nhếch nhác
+
+@chauffer  
+*  dt
+- lò than nhỏ, lồng ấp
+
+@chauffeur  
+*  dt
+- người lái xe
+
+@chaulmoogra  
+*  dt
+- (thực vật học) cây chùm bao, cây đại phong tử
+
++ chaulmoogra oil: dầu đại phong tử (để chữa bệnh hủi)
+
+@chauvinism  
+*  dt
+- chủ nghĩa sô vanh
+
+@chauvinist  
+*  tt
+- sô vanh chủ nghĩa, sô vanh
+*  dt
+- người theo chủ nghĩa sô vanh
+
+@chauvinistic  
+*  dt
+- người theo chủ nghĩa sô vanh
+*  tt
+- có tính chất sô vanh
+
+@chauvinistically
+* dt
+- có tính cách bá quyền, hống hách
+ @chaw  
+*  dt
+- (thông tục) sự nhai
+- mồi thuốc lá nhai
+*  ngdgt
+- uộc) qĩu (từ Mỹ,nghĩa Mỹ) đánh nhừ tử
+
+@chaw-bacon  
+*  dt
+- người thô kệch; người ngờ nghệch
+
+@chayka
+* dt
+- xem cheka
+ @chayote
+* dt
+- (thực vật) cây su su
+ @chb
+* (viết tắt)
+- Cử nhân chuyên ngành phẫu thuật (Bachelor of Surgery)
+ @cheap  
+*  tt
+- rẻ, rẻ tiền; đi tàu xe hạng ít tiền
+
++ cheap seats: chỗ ngồi rẻ tiền
+
++ cheap music: âm nhạc rẻ tiền
+
++ a cheap jest: trò đùa rẻ tiền
+
++ cheap trip: cuộc đi chơi bằng tàu xe hạng ít tiền
+
++ cheap tripper: người đi chơi bằng tàu xe hạng ít tiền
+- ít giá trị, xấu
+- hời hợt không thành thật
+
++ cheap flattery: sự tâng bốc không thành thật
+!cheapest is the dearest
+- (tục ngữ) của rẻ là của ôi
+!to feel cheap
+- (từ lóng) thấy khó chịu, thấy khó ở
+!to hold someone cheap
+- khinh ai, coi thường ai
+!to make oneself cheap
+- ăn ở không ra gì để cho người ta khinh
+*  dt
+- rẻ, rẻ mạt; hạ, hạ giá
+
++ to get (buy) something cheap: mua vật gì rẻ
+
++ to sell something cheap: bán vật gì rẻ
+*  dt
+- on the cheap rẻ, rẻ tiền
+
+@cheap jack  
+*  dt
+- người bán rong
+
+@Cheap money
+- (Econ) Tiền rẻ.
+: Chỉ một giai đoạn trong đó các khoản vay sẵn có ở lãi suất thấp hay một chính sách tạo nên tình huống này.
+ @cheapen  
+*  dt
+- hạ giá; làm giảm giá; làm sụt giá; làm giảm giá trị
+
+@cheapener
+- xem cheapen
+ @cheapish  
+*  tt
+- hơi rẻ, hơi hạ
+
+@cheapjack
+* dt
+- người bán rong
+* tt
+- vô giá trị, chẳng ra gì
+ @cheaply
+* dt
+- rẻ, rẻ tiền
+ @cheapness  
+*  dt
+- sự rẻ, sự rẻ tiền ((nghĩa đen) & (nghĩa bóng))
+
+@cheap-skate
+* dt
+- kẻ bần tiện
+ @cheapskate
+* dt
+- <Mỹ> người keo kiệt
+ @cheat  
+*  dt
+- trò lừa đảo, trò lừa bịp; trò gian lận, ngón gian
+- người lừa đảo, kẻ gian lận; tên cờ bạc bịp, tên cờ bạc gian lận
+!topping cheat
+- (từ lóng) cái giá treo cổ
+*  ngdgt
+- lừa, lừa đảo (ai)
+
++ to cheat someone [out] of something: lừa ai để lấy vật gì
+- tiêu, làm tiêu tan (thì giờ, mệt nhọc, bằng cách đi chơi...)
+*  ndgt
+- gian lận; đánh bạc bịp
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) có ngoại tình; ((thường) : on) không chung thuỷ
+
+@cheatable
+* tt
+- có thể lừa bịp được
+ @cheater  
+*  dt
+- người lừa đảo, người gian lận; tên cờ bạc bịp
+
+@cheatingly
+- xem cheat
+ @cheattee
+* dt
+- kẻ lừa bịp
+ @check  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) cheque
+*  dt
+- sự cản trở, sự ngăn cản; sự kìm hãm; sự hạn chế; sự chặn lại; người chống cự, người ngăn cản, vật cản
+
++ to put a check on something: cản trở việc gì; kìm hãm việc gì; hạn chế việc gì
+
++ to keep a check on; to keep in check: hạn chế; kìm hãm
+
++ to hold someone in check: cản ai tiến lên, chặn đứng lại
+- (săn bắn) sự mất vết, sự mất hơi
+
++ to come to a check: mất vết, mất hơi
+- sự dừng lại, sự ngừng lại
+- (quân sự) sự thua nhẹ
+
++ to meet with a check: bị thua nhẹ
+- sự kiểm tra, sự kiểm soát, sự kiểm lại; dấu ghi đã kiểm tra (đã kiểm soát)
+- hoá đơn, giấy ghi tiền (khách hàng phải trả ở khách sạn)
+- (từ Mỹ,nghĩa Mỹ),  (đánh bài) thẻ
+- kiểu kẻ ô vuông, kiểu ca rô; vải kẻ ô vuông, vải ca rô
+- (đánh cờ) sự chiếu tướng
+
++ check!: chiếu tướng!
+!to pass in (cash, hand in) one's check
+- chết
+*  ngdgt
+- cản, cản trở; chăn, ngăn chặn; kìm, kiềm chế, nén, dằn (lòng)
+
++ he couldn't check his anger: hắn không kìm được tức giận
+
++ we must check the bloody hand of imperialism: chúng ta phải chặn bàn tay đẫm máu của chủ nghĩa đế quốc
+- kiểm tra, kiểm soát; kiểm lại; đánh dấu đã kiểm soát
+
++ please, check these figures: làm ơn soát lại những con số này
+- quở trách, trách mắng
+- (từ Mỹ,nghĩa Mỹ) gửi, ký gửi
+
++ have you checked all you luggage?: anh đã gửi hết hành lý chưa?
+- (đánh cờ) chiếu (tướng)
+*  ndgt
+- ngập ngừng, do dự
+- dừng lại, đứng lại (chó săn; vì lạc vết, hoặc để đánh hơi)
+!to check in
+- ghi tên khi đến
+- (từ Mỹ,nghĩa Mỹ) ghi tên lấy phòng ở khách sạn
+!to check out
+- ghi tên khi ra về (sau ngày làm việc)
+- (từ Mỹ,nghĩa Mỹ) trả buồng khách sạn
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) chết ngoẻo
+!to check up
+- kiểm tra, soát lại; chữa (bài)
+
+@check
+- (Tech) kiểm tra (d @check bit
+- (Tech) bit kiểm
+ @check box
+- (Tech) hộp kiểm
+ @check character
+- (Tech) ký tự kiểm
+ @check code
+- (Tech) mã kiểm
+ @check digit
+- (Tech) số kiểm
+ @Check off
+- (Econ) Trừ công đoàn phí trực tiếp.
+: Việc chủ thuê trừ trực tiếp phí công đoàn từ lương nhân viên. Phí này sau đó được trả cho công đoàn.
+ @check sum
+- (Tech) tổng số kiểm
+ @check up
+* dt
+- sự kiểm tra toàn diện (thường là về sức khỏe)
+ @checkable
+- xem check
+ @check-analysis
+* dt
+- sự phân tích đối chiếu để kiểm tra
+ @checkbook
+- như cheque-book
+ @checked  
+*  tt
+- kẻ ô vuông, kẻ ca rô
+
+@checker  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) người tính tiền, người thu tiền (ở cửa hàng tự phục vụ...)
+*  dt & ngdgt (như) chequer
+
+@checker
+- (Tech) bộ kiểm
+ @checker
+- thiết bị thử; người kiểm tra
+ @checkerboard  
+*  dt
+- bàn cờ
+
+@checkered
+- như chequered
+ @checkers
+* dt
+- cờ đam (gồm 24 quân cờ cho hai người chơi)
+ @check-experiment  
+*  dt
+- thí nghiệm kiểm tra
+
+@checkflight
+* dt
+- (hàng không) cuộc bay kiểm nghiệm
+ @check-in
+* dt
+- sự đăng ký ở khách sạn, sự đăng ký đi máy bay
+ @checking
+- (Tech) kiểm tra (d)
+ @checking procedure
+- (Tech) thủ tục kiểm
+ @checklist
+- (Tech) danh sách kiểm
+ @checkmate  
+*  dt
+- (đánh cờ) sự chiếu tướng; nước cờ chiếu hết
+- sự thua, sự thất bại
+!to play checkmate with somebody
+- (đánh cờ) chiếu tướng vì bắt ai phải thua
+- đánh bại ai, đánh gục ai; phá vỡ kế hoạch của ai
+*  ngdgt
+- (đánh cờ) chiếu hết
+- làm thất bại, đánh bại (người, kế hoạch)
+
+@check-nut  
+*  dt
+- (kỹ thuật) đai ốc hãm
+
+@check-out
+* dt
+- sự thanh toán tiền khách sạn
+- quầy thu tiền
+ @checkpoint
+- (Tech) điểm kiểm tra, điểm đánh dấu
+ @check-point
+* dt
+- trạm kiểm soát
+ @check-room  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) phòng gửi đồ đạc
+- nơi gửi áo mũ (ở rạp hát...)
+
+@checkroom
+* dt
+- phòng gửi áo mũ
+- phòng giữ hành lý
+ @checkrow
+* dt
+- dải đất, ô đất
+- thửa ruộng
+ @check-string  
+*  dt
+- dây báo hãm (ở toa xe)
+
+@check-stub  
+*  dt
+- cuống séc
+
+@checksum
+- tổng kiểm tra, đặc số kiểm tra
+ @check-taker  
+*  dt
+- người thu vé
+
+@check-up  
+*  dt
+- sự kiểm tra, sự kiểm soát; sự kiểm lại; sự kiểm tra toàn bộ (sức khoẻ...)
+
+@check-weigher
+* dt
+- người kiểm tra trọng lượng sản phẩm
+ @checquered  
+*  tt
+- kẻ ô vuông; kẻ ca rô
+- (nghĩa bóng) chìm nổi, ba đào, sóng gió
+
++ a checquered life: cuộc đời ba chìm bảy nổi
+
+@cheddar
+* dt
+- một loại phó mát dầy
+ @cheek  
+*  dt
+- má
+
++ a rosy cheek: má hồng
+- sự táo tợn, sự cả gan; thói trơ tráo, tính không biết xấu hổ
+
++ to have a cheek to do something: táo tợn làm việc gì, mặt dạn mày dày làm việc gì
+
++ what cheek!: đồ không biết xấu hổ!
+- lời nói láo xược, lời nói vô lễ
+
++ no more of your cheek!: im ngay cái lối ăn nói láo xược ấy đi!; hỗn vừa chứ!
+- thanh má, thanh đứng (của khung cửa)
+- (số nhiều) má (kìm, ròng rọc,  êtô)
+!cheek by jowl
+- vai kề vai; thân thiết với nhau, tớ tớ mình mình, mày mày tao tao
+!to one's own cheek
+- cho riêng mình không chia xẻ với ai cả
+!to speak with (to have) one's tongue in one's cheek
+- không thành thật, giả dối
+- chế nhạo, nhạo báng
+*  ngdgt
+- láo xược với (ai), hỗn xược với (ai)
+
+@cheek
+- kiểm tra c. on accuracy kiểm tra độ chính xác
+- cyele c. kiểm tra chu trình
+- digit c. kiểm tra chữ số
+- even-parity c. kiểm tra tính chẵn
+- odd-even c. (máy tính) kiểm tra tính chẵn - lẻ
+- parity c. kiểm tra tính chẵn lẻ 
+ @cheek-bone  
+*  dt
+- xương gò má
+
+@cheekily
+* dt
+- láo xược, xấc xược
+ @cheekiness  
+*  dt
+- sự táo tợn, sự cả gan, sự mặt dạn mày dày, sự trơ tráo, sự không biết xấu hổ
+- sự vô lễ, sự hỗn xược
+
+@cheeking
+- sự kiểm tra
+- c. by resubstitution kiểm tra bằng cách thế (vào phương trình lúc đầu) 
+ @cheek-tooth  
+*  dt
+- răng hàm
+
+@cheeky  
+*  tt
+- táo tợn, cả gan, mặt dạn mày dày, trơ tráo, không biết xấu hổ
+- vô lễ, hỗn xược
+
+@cheep  
+*  dt
+- tiếng chim chiếp (tiếng chim non)
+*  ndgt
+- chim chiếp (tiếng chim non)
+
+@cheeper
+- xem cheep
+ @cheer  
+*  dt
+- sự vui vẻ, sự khoái trá
+- sự cổ vũ, sự khuyến khích
+
++ words of cheer: những lời khuyến khích
+- sự hoan hô; tiêng hoan hô
+
++ to give three cheers for: hoan hô (ai) ba lần
+- đồ ăn ngon, món ăn thịnh soạn
+
++ to make good cheer: ăn món ăn thịnh soạn, ăn uống linh đình
+- khí sắc; thể trạng
+
++ what cheer this morning?: sáng nay anh thấy thể trạng thế nào?, sáng nay anh cảm thấy trong người thế nào?
+!to be good cheer!
+- cố gắng lên!; đừng nản, hãy can đảm lên!
+!to be of good cheer
+- đầy dũng cảm; đầy hy vọng
+!the fewer the better cheer
+- càng ít người càng được ăn nhiều
+*  ngdgt
+- làm vui mừng, làm phấn khởi; làm hớn hở ((cũng) cheer up)
+- (: on) khích lệ, cổ vũ
+
++ to cheer someone on: khích lệ ai, cổ vũ ai
+- hoan hô, tung hô
+
++ speaker was cheered loudly: diễn giả được hoan hô nhiệt liệt
+*  ndgt
+- vui, mừng, khoái, thích
+- (: up) phấn khởi, phấn chấn, hớn hở, vui vẻ lên, hăng hái lên
+
++ cheer up, boys!: vui vẻ lên, hăng hái lên nào các cậu!
+- hoan hô, vỗ tay hoan hô
+
+@cheerer
+- xem cheer
+ @cheerful  
+*  tt
+- vui mừng, phấn khởi; hớn hở, tươi cười
+
++ a cheerful face: bộ mặt hớn hở
+- vui mắt; vui vẻ
+
++ a cheerful room: căn phòng vui mắt
+
++ a cheerful conversation: câu chuyện vui vẻ
+- vui lòng, sẵn lòng, không miễn cưỡng (việc làm)
+
+@cheerfully
+* dt
+- vui vẻ, phấn khởi
+ @cheerfulness  
+*  dt
+- sự hoan hỉ, sự hân hoan, sự vui mừng, sự phấn khởi
+- sự vui mắt, sự vui vẻ
+- sự vui lòng, sự sẵn lòng, sự không miễn cưỡng
+
+@cheerily
+* dt
+- vui vẻ, phấn khởi
+ @cheeriness
+* dt
+- sự vui vẻ, sự phấn khởi
+ @cheering  
+*  dt
+- tiếng hoan hô
+- tiếng cổ vũ khuyến khích
+*  tt
+- làm vui vẻ; làm phấn khởi
+- khuyến khích, cổ vũ
+
+@cheeringly
+- xem cheer
+ @cheerio  
+*  thán từ
+- (từ lóng) chào anh!, chào cậu!, chào đồng chí!; chào bạn!
+- chúc sức khoẻ anh!, chúc sức khoẻ chị! (khi uống rượu)
+
+@cheerless  
+*  tt
+- buồn ủ rũ, ỉu xìu; âm u, ảm đạm
+
++ a damp cheerless room: căn phòng ẩm ướt ảm đạm
+- không vui vẻ, miễn cưỡng, bất đắc dĩ (việc làm)
+
+@cheerlessly
+* dt
+- ủ rũ, buồn bã
+ @cheerlessness  
+*  dt
+- sự buồn ủ rũ, sự ỉu xìu; sự âm u, sự ảm đạm
+- sự không vui vẻ, sự miễn cưỡng, sự bất đắc dĩ
+
+@cheers!
+- thành ngữ cheer
+- cheers!
+- chúc sức khoẻ! (trong bàn tiệc)
+- chào! (khi chia tay)
+- thành ngữ cheer
+- cheers!
+- chúc sức khoẻ! (trong bàn tiệc)
+- chào! (khi chia tay)
+ @cheery  
+*  tt
+- vui vẻ, hân hoan
+
+@cheese  
+*  dt
+- phó mát, bánh phó mát
+- vật đóng bánh (như phó mát)
+- sữa trớ ra (trẻ con)
+!big cheese
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) quan to, chóp bu, nhân vật quan trọng
+!to get the cheese
+- nếm mùi thất bại
+- bị bịp
+!hard cheese
+- (thông tục) sự không may, sự thất bại; hoàn toàn đáng buồn
+*  ndgt
+- trớ ra (trẻ con)
+*  dt (thông tục)
+- the cheese thứ thượng hảo hạng, bậc nhất
+
++ these cigars are the real cheese: xì gà này là loại thượng hảo hạng; xì gà này mới thực là xì gà
+
++ he thinks he is quite the cheese: nó cứ tưởng nó là (bậc) nhất
+*  ngdgt (từ lóng)
+- cheese it! cút đi! cẩn thận!, chú ý!
+- thôi, ngừng
+
+@cheese antenna
+- (Tech) ăngten parabôn trụ dẹt
+ @cheese-board
+* dt
+- thớt dùng để cắt phó mát
+ @cheeseburger
+* dt
+- thịt băm có lẫn phó mát
+ @cheese-cake  
+*  dt
+- bánh kem
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ảnh đàn bà cởi truồng, ảnh đàn bà ăn mặc loã lồ ((cũng) leg_art)
+
+@cheesecake
+* dt
+- bánh kem phó mát
+- ảnh phụ nữ đẹp dùng trong quảng cáo
+ @cheese-cloth
+* dt
+- vải thưa
+ @cheesecloth
+* dt
+- vải thưa bọc phó mát
+ @cheese-drainer
+* dt
+- khuôn ráo (đan thưa để bỏ pho-mát vào cho rỉ nước đi)
+ @cheesemonger  
+*  dt
+- người bán phó mát
+
+@cheese-off
+* tt, cũng cheesed
+- (thông tục) chán ngấy
+ @cheese-paring  
+*  dt
+- bì phó mát; vụn phó mát
+- tính hà tiện, tính bủn xỉn
+- (số nhiều) đồ ăn thừa; đồ bỏ đi
+
+@cheeseparing
+* dt
+- sự chi li trong chi tiêu
+- tính bủn xỉn
+ @cheese-rennet
+* dt
+- men dịch vị
+ @cheesiness  
+*  dt
+- chất phó mát; mùi phó mát
+- sự đúng mốt; vẻ sang, vẻ bảnh
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự tồi; hạng bét
+
+@cheesy  
+*  tt
+- có chất phó mát; có mùi phó mát
+- đúng mốt; sang, bảnh
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tồi; hạng bét
+
+@cheetah  
+*  dt
+- (động vật học) loài báo gêpa
+
+@chef  
+*  dt
+- đầu bếp
+
+@chef-d'oeuvre  
+*  dt,  số nhiều chefs-d'oeuvre
+- kiệt tác, tác phẩm lớn
+
+@chefs-d'oeuvre  
+*  dt,  số nhiều chefs-d'oeuvre
+- kiệt tác, tác phẩm lớn
+
+@cheiromancy   (cheiromancy) @cheiropteran  
+*  dt
+- (động vật học) loài dơi
+
+@cheiropterous  
+*  tt
+- (động vật học) (thuộc) bộ dơi
+
+@chela  
+*  dt,  số nhiều chelae
+- chú tiểu
+- (động vật học) cái càng, cái kẹp (cua, bọ cạp...)
+
+@chelae  
+*  dt,  số nhiều chelae
+- chú tiểu
+- (động vật học) cái càng, cái kẹp (cua, bọ cạp...)
+
+@chelate
+* tt
+- có kìm; có càng có kẹp
+ @chelate laser
+- (Tech) bộ kích quang hợp chất đất hiếm @chelicera
+* dt
+- số nhiều chelicerae
+- chân có kìm
+ @chellean  
+*  tt
+- (địa lý,địa chất) thuộc thời kỳ selơ (kỷ thứ tư)
+
+@chelonian  
+*  tt
+- thuộc lớp phụ rùa
+*  dt
+- động vật loại rùa
+
+@chelsea  
+*  dt
+- khu vực nghệ sĩ (ở Luân-đôn)
+!chelsea bun
+- bánh bao nhân hoa quả
+!chelsea pensionner
+- lính già ở bệnh viện Hoàng gia (Anh)
+
+@chemic
+* tt
+- thuộc hoá học
+- (từ cổ, nghĩa cổ) thuộc thuật luyện kim
+ @chemical  
+*  tt
+- (thuộc) hoá học
+
++ chemical warfare: chiến tranh hoá học
+
+@chemically
+* dt
+- về phương diện hoá học
+ @chemicals  
+*  dt số nhiều
+- hoá chất, chất hoá học
+
+@chemico-physical  
+*  tt
+- (thuộc) lý hoá
+
+@chemiluminescence
+- (Tech) phát quang hóa học
+ @chemise  
+*  dt
+- áo lót phụ nữ
+
+@chemisette  
+*  dt
+- áo lá (mặc trong, không tay)
+- vạt ngực (trang trí ngực và cổ áo bằng ren hay vải mịn)
+
+@chemist  
+*  dt
+- nhà hoá học
+- (Anh) người bán dược phẩm
+
+@chemistry  
+*  dt
+- ngành hoá học; môn hoá học, hoá học
+
++ analytic chemistry: hoá phân tích
+
++ synthetic chemistry: hoá tổng hợp
+
++ organic chemistry: hoá hữu cơ
+
++ inorgamic (mineral) chemistry: hoá vô cơ
+
++ pharmaceutical chemistry: hoá dược
+
+@chemoautotrophy
+* dt
+- (sinh học) sự tự dưỡng hoá học
+ @chemoprophylactic
+* tt
+- thuộc cách phòng bệnh bằng thuốc
+ @chemoprophylaxis
+* dt
+- cách phòng bệnh bằng thuốc
+ @chemosphere
+* dt
+- (khí tượng) quyển nhiệt
+ @chemosterillant
+* dt
+- thuốc gây vô sinh; thuốc tuyệt dục; thuốc cai đẻ
+ @chemosynthesis
+* dt
+- sự hoá tổng hợp
+ @chemosynthetic
+* tt
+- hoá tổng hợp
+ @chemotactic
+* tt
+- theo hoá chất
+ @chemotaxis
+* dt
+- (sinh học) tính theo hoá chất
+ @chemotherapeutic
+- xem chemotherapy
+ @chemotherapeutically
+- xem chemotherapy
+ @chemotherapist
+- xem chemotherapy
+ @chemotherapy  
+*  dt
+- (y học) phép chữa hoá học
+
+@chemotropic
+- xem chemotropism
+ @chemotropism  
+*  dt
+- (sinh vật học) tính hướng hoá chất
+
+@chenille  
+*  dt
+- dây viền (quần áo)
+
+@chenopodiaceous  
+*  tt
+- (thực vật học) (thuộc) họ rau muối
+
+@chenopodiacesus
+* tt
+- thuộc họ rau muống
+ @cheongsam
+* dt
+- áo dài (phụ nữ Trung Quốc)
+ @cheque  
+*  dt
+- séc
+
++ to cash a cheque: lĩnh tiền bằng séc
+
++ to draw a cheque: viết séc (để lấy tiền)
+*  ndgt
+- to cheque out lĩnh séc
+
+@Cheque
+- (Econ) Séc
+: Một loại chứng từ thường được cấp dưới dạng in sẵn bởi một ngân hàng, yêu cầu ngân hàng chuyển từ tài khoản VÃNG LAI của người  rút sang người định danh được trả.
+ @Cheque card
+- (Econ) Thẻ séc.
+: Thẻ do các ngân hàng cấp cho các khách hàng có TÀI KHOẢN vãng lai để đảm bảo việc thanh toán séc đựơc rút bởi các khách hàng này theo những giới hạn nhất định.
+ @cheque card
+* dt
+- thẻ séc
+ @cheque-book  
+*  dt
+- sổ séc
+
+@chequer  
+*  dt số nhiều
+- biển hàng hình bàn cờ (ở cửa hiệu ăn)
+- ((thường) số nhiều) hình vẽ kẻ ô vuông; vải kẻ ca rô
+- (từ Mỹ,nghĩa Mỹ) cờ đam
+*  ngdgt
+- kẻ ô vuông; kẻ ca rô
+- tô màu sặc sỡ; tô nhiều màu
+- làm cho đỡ tẻ, làm cho mất tính đơn điệu
+
+@chequered
+- Cách viết khác : checkered 
+ @chequers
+- (lý thuyết trò chơi) trò chơi cờ (tây)
+ @cherish  
+*  ngdgt
+- yêu mến, yêu thương, yêu dấu
+
++ to cherish one's children: thương yêu con cái
+- (nghĩa bóng) giữ trong lòng, nuôi ấp ủ
+
++ to cherish hopes: nuôi hy vọng
+
+@cherishable
+- xem cherish
+ @cherisher
+- xem cherish
+ @cherishingly
+- xem cherish
+ @chernozem
+* dt
+- đất đen nhiều bùn
+ @cheroot  
+*  dt
+- xì gà xén tày hai đầu
+
+@cherry  
+*  tt
+- đỏ màu anh đào
+
++ cherry lips: môi màu đỏ anh đào
+
+@cherry-blomssom  
+*  dt
+- hoa anh đào
+
+@cherry-blossom
+* dt
+- hoa anh đào
+ @cherry-brandy
+* dt
+- rượu anh đào
+ @chersonese
+* dt
+- (thơ ca) bán đảo
+ @chert
+* dt
+- đá phiến xilic
+ @cherub  
+*  dt,  số nhiều cherubim
+- (số nhiều cherubim) tiểu thiên sứ
+- cherubs đứa bé dễ thương, đứa trẻ ngây thơ
+- (nghệ thuật) (số nhiều cherubs) đứa bé có cánh
+
+@cherubic  
+*  tt
+- có vẻ dịu dàng hiên hậu
+- có mắt tròn trĩnh
+
+@cherubically
+- xem cherub
+ @cherubim  
+*  dt,  số nhiều cherubim
+- (số nhiều cherubim) tiểu thiên sứ
+- cherubs đứa bé dễ thương, đứa trẻ ngây thơ
+- (nghệ thuật) (số nhiều cherubs) đứa bé có cánh
+
+@cherublike
+* tt
+- giống thiên thần
+ @chervil
+* dt
+- rau mùi, ngò
+ @chervile
+* dt
+- (thực vật) rau xếp phôi
+ @cheshire cat  
+*  dt
+- người lúc nào cũng nhăn nhở
+
+@chesil
+* dt
+- sỏi
+ @chess  
+*  dt
+- cờ
+
++ to play [at] chess: đánh cờ
+
+@chess
+- trch cờ
+ @chess-board  
+*  dt
+- bàn cờ
+
+@chessboard
+* dt
+- bàn cờ
+ @chessel
+* dt
+- thùng để làm pho-mát
+ @chess-man  
+*  dt
+- quân cờ
+
+@chessman
+* dt
+- quân cờ
+ @chess-player  
+*  dt
+- người đánh cờ
+
+@chest  
+*  dt
+- rương, hòm, tủ, két
+
++ a medicine chest: tủ thuốc
+
++ a carpenter's chest: hòm đồ thợ mộc
+- tủ com mốt ((cũng) chest of drawers)
+- ngực
+!to get something off one's chest
+- nói hết điều gì ra không để bụng
+
+@chest of drawers
+* dt
+- tủ com - mốt
+ @chested
+- (tạo thành tt ghép) có kiểu ngực được nói rõ
+
++  broad-chested:có ngực nở
+
++  bare-chested:ngực trần
+
++  she's flat-chested:cô ấy ngực lép
+- (tạo thành tt ghép) có kiểu ngực được nói rõ
+
++  broad-chested:có ngực nở
+
++  bare-chested:ngực trần
+
++  she's flat-chested:cô ấy ngực lép
+ @chestersfield  
+*  dt
+- ghế trường kỷ
+- áo choàng, áo bành tô
+
+@chestily  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) hay ưỡn ngực làm bộ, vênh váo; tự phụ
+
+@chestiness  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) sự có ngực nở
+- (từ Mỹ,nghĩa Mỹ) tính hay ưỡn ngực làm bộ, tính vênh váo; tính tự phụ
+
+@chest-note  
+*  dt
+- giọng yếu ớt, giọng ngực (hát, nói)
+
+@chestnut  
+*  dt
+- (thực vật học) cây hạt dẻ
+- hạt dẻ
+- màu nâu hạt dẻ
+- ngựa màu hạt dẻ
+- chuyện cũ rích
+
++ that's a chestnut: chuyện cũ rích rồi; người ta biết tỏng cái đó rồi
+!to pull someone's chestnut out of the fire
+- (tục ngữ) bị ai xúi dại ăn cứt gà
+*  tt
+- (có) màu nâu hạt dẻ
+
+@chest-protector  
+*  dt
+- tấm giáp che ngực, cái che ngực
+
+@chest-trouble  
+*  dt
+- bệnh phổi mạn
+
+@chest-voice  
+*  dt
+- tiếng nói yếu ớt, tiếng ngực
+
+@chesty  
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) có ngực nở
+- (từ Mỹ,nghĩa Mỹ) hay ưỡn ngực làm bộ, vênh váo; tự phụ
+- (thông tục) dễ mắc bệnh phổi, có triệu chứng bệnh phổi
+
+@cheval-de-frise
+* dt
+- chướng ngại vật làm bằng dây kẽm gai hoặc hợp bởi nhiều cọc cắm vào một khung gỗ, giăng ở chỗ tối để gạt ngã ngựa của đối phương; dây cản ngựa
+ @cheval-glass  
+*  dt
+- gương đứng ngả được (ngả ra trước hoặc sau được)
+
+@chevalier  
+*  dt
+- kỵ sĩ, hiệp sĩ
+!chevalier d'industrie; chevalier of industry
+- kẻ gian hùng, kẻ bịp bợm
+
+@cheverel
+* dt
+- da mềm (làm găng tay)
+ @cheviot  
+*  dt
+- hàng len soviôt
+
+@chevron  
+*  dt
+- lon, quân hàm hình V (ở ống tay áo)
+
+@chevy   (chivvy) @chew  
+*  dt
+- sự nhai
+
++ to have a chew at something: nhai vật gì
+- sự nhai thuốc lá; mồi thuốc lá (để) nhai
+*  dgt
+- nhai
+- ngẫm nghĩ, nghiền ngẫm nghĩ tới nghĩ lui
+
++ to chew upon (over) something: ngẫm nghĩ cái gì
+!to bite off more than one can chew
+- (xem) bite
+!to chew the cud
+- (xem) cud
+!to chew the rag (the fat)
+- (từ lóng) lải nhải ca cẩm, làu nhàu
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) nói chuyện phiếm, tán dóc
+
+@chewable
+- xem chew
+ @chewer  
+*  dt
+- người nhai thuốc lá
+
+@chewiness
+- xem chewy
+ @chewing gum
+* dt
+- kẹo cao su
+ @chewing-gum  
+*  dt
+- kẹo cao su, kẹo nhai
+
+@chewy  
+*  tt
+- phải nhai nhiều
+
++ chewy candy: kẹo phải nhai nhiều
+
+@chez
+* giới từ
+- ở nhà, về nhà
+ @chianti
+* dt
+- rượu vang ở miền Trung nước Y
+ @chiaroscurist
+- xem chiaroscuro
+ @chiaroscuro  
+*  dt
+- (hội họa) sự phối hợp màu sáng tối
+- (văn học) sự sử dụng thuật tương phản
+
+@chiasma  
+*  dt,  số nhiều chiasmata
+- sự giao thoa, sự bắt chéo
+
+@chiasmal
+- xem chiasma
+ @chiasmata  
+*  dt,  số nhiều chiasmata
+- sự giao thoa, sự bắt chéo
+
+@chiasmatic
+- xem chiasma
+ @chiasmatypy
+* dt
+- (sinh học) kiểu trao đổi tréo
+ @chiasmic
+- xem chiasma
+ @chiasmus
+* dt
+- (văn học) cách đảo đổi
+* tt
+- thuộc cách đảo đổi
+ @chibcha
+* dt
+- số nhiều chibchas
+- người Sipsa (người da đỏ Nam Mỹ)
+- tiếng Sipsa
+ @chibouk   (chibouque) @chibouque   (chibouque) @chic  
+*  dt
+- sự sang trọng, sự lịch sự
+*  tt
+- bảnh, diện sang trọng, lịch sự
+
+@Chicago School
+- (Econ) Trường phái (kinh tế) Chicago.
+: Tên để chỉ các nhà kinh tế học có chung 4 niềm tin cơ bản sau. Thứ nhât, họ tin rằng kinh tế học là (hoặc có thể là ) không giá trị theo cách tương tự như các ngành khoa học vật lý. Thứ hai, hị tin rằng lý thuyết giá cả Tân cổ điển là một lý giải chính xác về cách thức hoạt động của các hệ thống kinh tế. Thứ ba, họ tin rằng sự hoạt động của thị trường cạnh tranh, tự do là giải pháp khả dĩ nhất cho vấn đề phân bổ các nguồn lực. Cuối cùng, họ là những người trung thành vững vàng với CHỦ NGHĨA TRỌNG TIỀN. Tất cả những điều này đưa họ đến chỗ ủng hộ sự can thiệp hạn chế của chính phủ vào hệ tống kinh tế. Tên gọi này bắt nguồn từ thực tế là nhiều thành viên nổi bật của trường phái này (ví dụ FRIEDMAN, KNIGHT, SCHULTZ và STIGLER) đã gắn bó với trường đại học Chicago.
+ @chicane  
+*  dt
+- mánh khoé (để) kiện tụng, mánh khoé của thầy kiện; sự nguỵ biện
+- (đánh bài) sắp bài không có bài chủ (bài brit)
+*  ndgt
+- dùng mánh khoé để kiện tụng
+*  ngdgt
+- lừa, lừa gạt
+
++ to chicane someone into doing something: lừa ai làm việc gì
+
++ to chicane someone out of something: lừa ai lấy vật gì
+- cãi vặt về (chi tiết...)
+
+@chicaner
+- xem chicane
+ @chicanery  
+*  dt
+- sự kiện nhau, sự cãi nhau, sự tranh nhau, sự gây gỗ
+- mánh khoé (để) kiện tụng; mánh khoé của thầy kiện; sự nguỵ biện
+
+@chick  
+*  dt
+- gà con; chim con
+- trẻ nhỏ
+
++ the chicks: con cái trong nhà
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người đàn bà trẻ; cô gái
+!to have neither chick nor child
+- không có con
+!one chick keeps a hen busy
+- (tục ngữ) hai vợ chồng son thêm một con thành bốn
+
+@chickabiddy  
+*  dt
+- bé yêu (tiếng âu yếm)
+
+@chicken  
+*  dt
+- gà con; gà giò
+- thịt gà giò
+- (nghĩa bóng) trẻ nhỏ, bé con
+
++ he is no chicken: nó không còn là trẻ nhỏ nữa
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) người đàn bà trẻ ngây thơ; cô gái ngây thơ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) máy bay khu trục
+!to count one's chickens before they are hatched
+- (tục ngữ) chưa đẻ đã đặt tên
+!mother carey's chicken
+- chim hải âu nhỏ
+!that's their chicken
+- đó là công việc của họ
+
+@chicken pox
+* dt
+- bệnh thủy đậu
+ @chicken shit  
+*  dt
+- (từ Mỹ,nghĩa Mỹ), cụi duây;
+- chi tiết vụn vặt; việc linh tinh
+
+@chicken-breasted  
+*  tt
+- (giải phẫu) có ngực gà, có ngực lòng tàu
+
+@chicken-feed  
+*  dt (từ Mỹ,nghĩa Mỹ)
+- thức ăn cho gà vịt
+- vật tầm thường
+- (từ lóng) món tiền nhỏ mọn
+- tin vịt cố ý để lộ (cho đặc vụ để đánh lừa)
+
+@chicken-hearted  
+*  tt
+- nhút nhát, nhát gan
+
+@chickenheartedness
+- xem chicken-hearted
+ @chicken-livered  
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) nhút nhát, nhát gan
+
+@chicken-pox  
+*  dt
+- (y học) bệnh thuỷ đậu
+
+@chicken-prairie
+* dt
+- (động vật) gà gô đồng
+ @chicken-run
+* dt
+- sân nuôi gà vịt
+ @chicken-shit
+* dt
+- (từ Mỹ,  (thông tục)) chuyện vụn vặt; chuyện linh tinh
+ @chicken-snake
+* dt
+- (động vật) rắn bắt gà con; rắn ăn trứng
+ @chicken-wire
+* dt
+- lưới thép mỏng
+ @chickling  
+*  dt
+- (thực vật học) cây đậu tằm
+
+@chick-pea
+* dt
+- cây đậu xanh
+ @chick-weed
+* dt
+- cỏ có hoa nhỏ màu trắng
+ @chickweed
+* dt
+- cây tràng sao
+ @chicle
+* dt
+- chất đặc biệt dùng để làm kẹo cao su
+ @chiclet keyboard
+- bàn phím Chiclet
+ @chicly
+- xem chic
+ @chicness
+- xem chic
+ @chicory   (succory) @chid  
+*  dgt chid,  chide; chid,  chidden,  chided
+- la rầy, mắng mỏ; quở trách, khiển trách
+
+@chidden  
+*  dgt chid,  chide; chid,  chidden,  chided
+- la rầy, mắng mỏ; quở trách, khiển trách
+
+@chide  
+*  dgt chid,  chide; chid,  chidden,  chided
+- la rầy, mắng mỏ; quở trách, khiển trách
+
+@chider
+- xem chide
+ @chidingly
+- xem chide
+ @chief  
+*  dt
+- thủ lĩnh, lãnh tụ
+- người đứng đầu; trưởng
+
++ Chief of Staff: tham mưu trưởng
+- (thông tục) ông sếp, ông chủ
+!in chief
+- nhất là, đặc biệt là
+*  tt
+- đứng đầu, trưởng
+- trọng yếu, chủ yếu, chính
+!chief town
+- thủ phủ
+
+@chief
+- chính, cơ bản
+ @chief executive  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) tổng thống; thủ tướng
+
+@chief operator
+- (Tech) điều hành trưởng
+ @chief programmer
+- (Tech) thảo chương trưởng, lập trình trưởng
+ @chiefdom   (chiefship) @chiefless
+* tt
+- không có người cầm đầu
+ @chiefly  
+*  tt
+- (từ hiếm,nghĩa hiếm) (thuộc) người đứng đầu; hợp với thủ lĩnh
+*  dt
+- trước nhất, nhất là
+- chủ yếu là
+
+@chiefship   (chiefship) @chieftain  
+*  dt
+- thủ lĩnh, đầu đảng; đầu sỏ
+- tù trưởng
+
+@chieftaincy   (chieftainship) @chieftainship   (chieftainship) @chiffon  
+*  dt
+- sa, the, lượt
+- (số nhiều) đồ (để) trang trí quần áo (phụ nữ)
+
+@chiffonier  
+*  dt
+- tủ nhiều ngăn (đựng đồ vật)
+- (từ Mỹ,nghĩa Mỹ) tủ com mốt
+
+@chignon  
+*  dt
+- búi tóc
+
+@chigoe
+* dt
+- (động vật) rệp kẽ ngón tay (luồn dưới da để hút máu)
+ @chihuahua
+* dt
+- chó nhỏ có lông mượt
+ @chilblain  
+*  dt
+- cước (ở chân tay, vì bị rét)
+
+@chilblained
+- xem chilblain
+ @child  
+*  dt,  số nhiều children
+- đứa bé, đứa trẻ
+- đứa con
+- (nghĩa bóng) kết quả, hậu quả, sản phẩm
+
++ sin is often the child of idleness: tội lỗi thường là do vô công rỗi nghề mà sinh ra
+- người lớn mà tính như trẻ con
+!to be far gone with child
+- có mang sắp đến tháng đẻ
+!burnt child dreads the fire
+- (xem) fire
+!this child
+- (từ lóng) bõ già này
+!from a child
+- từ lúc còn thơ
+
+@child
+- (Tech) con
+ @Child allowance
+- (Econ) Trợ cấp trẻ em.
+: Trong hầu hết các hệ thống THUẾ THU NHẬP đều trợ cấp cho trẻ em ăn theo.Ý tưởng này là giảm nhẹ gánh nặng chi phí nuôi dạy con cái mà gia đình phải gánh chịu.
+ @child benefit
+* dt
+- trợ cấp nuôi con
+ @child segment
+- (Tech) đoạn con
+ @child-bearing  
+*  dt
+- sự sinh đẻ
+
++ to be past child-bearing: quá thời kỳ sinh đẻ
+
+@childbearing
+* dt
+- sự sinh đẻ
+ @childbed  
+*  dt
+- giường đẻ
+
++ to die in childbed: chết trên giường đẻ, chết lúc sinh đẻ
+
+@childbirth  
+*  dt
+- sự sinh đẻ
+
+@childermas
+* dt
+- (tôn giáo) ngày lễ kỷ niệm trẻ em bị giết (trong (kinh thánh)), ngày 28 - 12
+ @childhood  
+*  dt
+- tuổi thơ ấu, thời thơ ấu
+!to be in one's second childhood
+- trở lại thời kỳ như trẻ con; lẩm cẩm (người già)
+
+@childish  
+*  tt
+- của trẻ con; như trẻ con, hợp với trẻ con
+
++ childish games: trò chơi trẻ con
+
++ a childish idea: ý nghĩ trẻ con
+- ngây ngô, trẻ con
+
++ dont's be so childish: đừng trẻ con thế
+
+@childishly
+* dt
+- như trẻ con
+ @childishness  
+*  dt
+- trò trẻ con, chuyện trẻ con
+- tính trẻ con
+
+@childless  
+*  tt
+- không có con
+
+@childlessness
+- xem child
+ @childlike  
+*  tt
+- như trẻ con; ngây thơ, thật thà (như trẻ con)
+
+@childly  
+*  tt & dt
+- (thơ ca) như trẻ con; thơ ngây
+
+@child-minder
+* dt
+- người giữ trẻ
+ @childminder
+* dt
+- người trông nom trẻ em (khi cha mẹ đi làm việc)
+ @childminding
+* dt
+- việc chăm sóc trông nom trẻ em
+ @child-proof
+* tt
+- ngăn ngừa trẻ phá
+ @children  
+*  dt,  số nhiều children
+- đứa bé, đứa trẻ
+- đứa con
+- (nghĩa bóng) kết quả, hậu quả, sản phẩm
+
++ sin is often the child of idleness: tội lỗi thường là do vô công rỗi nghề mà sinh ra
+- người lớn mà tính như trẻ con
+!to be far gone with child
+- có mang sắp đến tháng đẻ
+!burnt child dreads the fire
+- (xem) fire
+!this child
+- (từ lóng) bõ già này
+!from a child
+- từ lúc còn thơ
+
+@child's play  
+*  dt
+- việc dễ làm
+
+@chiliad  
+*  dt
+- nghìn
+- nghìn năm
+
+@chiliasm
+* dt
+- thuyết nghìn năm thái bình sau khi Giê-xu cai trị thế giới
+ @chiliferous  
+*  tt
+- (sinh vật học) có dịch dưỡng
+
+@chilify
+* dgt
+- hoá thành dịch dưỡng
+ @chill  
+*  dt
+- sự ớn lạnh, sự rùng mình (vì lạnh)
+
++ to catch a chill: bị cảm lạnh
+- sự lạnh lẽo, sự giá lạnh
+
++ to take the chill off: làm tan giá, làm ấm lên
+- sự lạnh lùng, sự lạnh nhạt
+- sự làm nhụt (nhuệ khí, nhiệt tình...); gáo nước lạnh (bóng)
+
++ to cast a chill over...: làm nhụt..., giội gáo nước lạnh lên...
+- (kỹ thuật) sự tôi
+*  tt
+- lạnh, lạnh lẽo, giá lạnh
+- cảm thấy lạnh, ớn lạnh
+- lạnh lùng, lạnh nhạt
+- (kỹ thuật) đã tôi
+*  ngdgt
+- làm ớn lạnh
+- làm nhụt (nhuệ khí, nhiệt tình...); giội gáo nước lạnh (bóng)
+- làm chết cóng (cây)
+- (thông tục) làm tan giá, làm ấm lên
+- (kỹ thuật) tôi
+*  ndgt
+- ớn lạnh; bị cảm lạnh
+
+@chilli  
+*  dt
+- ớt khô
+
+@chillily
+- xem chilly
+ @chilliness  
+*  dt
+- sự lạnh
+- sự ớn lạnh, sự rùng mình (vì lạnh)
+- sự lạnh lùng, sự lạnh nhạt, sự lãnh đạm
+
+@chilling  
+*  tt
+- lạnh, làm ớn lạnh
+- làm nhụt (nhuệ khí, nhiệt tình...)
+
+@chillingly
+- xem chill
+ @chillness
+- xem chill
+ @chill-proof
+* dt
+- không chịu ảnh hưởng khí lạnh
+ @chilly  
+*  tt
+- lạnh, lạnh lẽo, giá lạnh
+
++ a chilly room: căn buồng lạnh lẽo
+- ớn lạnh, rùng mình (vì lạnh)
+- lạnh lùng, lạnh nhạt
+
++ chilly manners: cử chỉ lạnh nhạt
+*  dt
+- (như) chilli
+
+@chilly con carne
+* dt
+- thịt bò hầm đậu kèm ớt khô
+ @chimaera
+* dt
+- quái vật đuôi rắn mình dê đầu sư tử
+- ảo tưởng
+ @chime  
+*  dt
+- chuông hoà âm, chuông chùm
+- (số nhiều) tiếng chuông hoà âm, tiếng chuông chùm
+- hoà âm, hợp âm
+- (nghĩa bóng) sự hoà hợp, sự phù hợp, sự khớp
+*  ngdgt
+- đánh (chuông), rung (chuông)
+- gõ (giờ), đánh (giờ) (đồng hồ)
+
++ to chime the hour: đánh giờ
+- nói lặp đi lặp lại một cách máy móc
+*  ndgt
+- rung, kêu vang (chuông)
+- (: in) xen vào; phụ hoạ theo
+
++ to chime in a conversation: xen vào câu chuyện
+- (: in,  with) phù hợp, khớp với
+
++ your plan chimes in with mine: kế hoạch của anh ăn khớp với kế hoạch của tôi
+- cùng vần với
+
+@chimer
+- xem chime
+ @chimera  
+*  dt
+- (thần thoại Hy-lạp) quái vật đuôi rắn mình dê đầu sư tử
+- ngáo ộp
+- điều hão huyền, điều ảo tưởng
+
+@chimere
+* dt
+- (tôn giáo) áo choàng (của giám mục Anh)
+ @chimerical  
+*  tt
+- hão huyền, ảo tưởng
+
++ a chimerical idea: ý nghĩ hão huyền
+
+@chimerically
+- xem chimerical
+ @chimney  
+*  dt
+- ống khói
+- lò sưởi
+- thông phong đèn, bóng đèn
+- miệng (núi lửa)
+- khe núi, hẽm (núi)
+
+@chimney breast
+* dt
+- tường bao lof sưởi và đáy ống khói (xây nhô ra ở trong phòng)
+ @chimney sweep
+* dt
+- thợ cạo ống khói
+ @chimney-breast
+* dt
+- khoảng tường bao lấy đáy ống khói và lò sưởi
+ @chimney-cap   (chimney-pot) @chimney-corner  
+*  dt
+- chỗ ngồi bên lò sưởi
+
+@chimney-piece  
+*  dt
+- mặt lò sưởi
+
+@chimney-pot   (chimney-pot) @chimney-pot-hat  
+*  dt
+- mũ chóp cao
+
+@chimney-stack  
+*  dt
+- dãy ống khói (nhà máy)
+
+@chimney-sweep  
+*  dt
+- người quét bồ hóng, người cạo ống khói
+
+@chimney-sweeper  
+*  dt
+- người quét bồ hóng, người cạo ống khói
+- chổi quét bồ hóng
+
+@chimp
+* dt
+- (động) tinh tinh
+ @chimpanzee  
+*  dt
+- (động vật học) con tinh tinh (vượn)
+
+@chin  
+*  dt
+- cằm
+
++ to be up to the chin: nước lên tới cằm
+!chins were wagging
+- (xem) wag
+!to hold up by the chin
+- ủng hộ, giúp đỡ
+!keep your chin up!
+- (thông tục) không được nản chí! không được thất vọng!
+!to take it on the chin
+- (từ lóng) thất bại
+- chịu khổ; chịu đau; chịu sự trừng phạt
+!to wag one's chin
+- nói huyên thiên, nói luôn mồm
+
+@ch'in
+* dt
+- như Qin
+* dt
+- như Qin
+ @china  
+*  dt
+- sứ
+- đồ sứ
+!to break china
+- làm rối loạn, làm hỗn loạn, làm náo động
+*  tt
+- bằng sứ
+
++ a china cup: tách sứ
+- (thuộc) đồ sứ
+
++ china shop: cửa hàng bán đồ sứ
+
+@china-clay  
+*  dt
+- caolin
+
+@china-closet
+* dt
+- tủ kính bày hàng
+ @china-ink
+* dt
+- mực tàu
+ @chinaman  
+*  dt
+- người bán đồ sứ
+- (thông tục) người Trung-quốc
+!chinaman's chance
+- (từ Mỹ,nghĩa Mỹ) triển vọng mong manh nhất, khả năng ít nhất
+
+@chinatown  
+*  dt
+- khu Hoa-kiều (ở một số thành phố)
+
+@china-tree  
+*  dt
+- (thực vật học) cây xoan
+
+@china-ware  
+*  dt
+- đồ sứ
+
+@chinch  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) con rệp
+
+@chinchilla  
+*  dt
+- (động vật học) sóc sinsin (ở Nam-Mỹ)
+- bộ da lông sóc sinsin
+
+@chin-chin  
+*  thán từ
+- (thông tục) chào! (khi gặp nhau hay khi chia tay)
+*  dt
+- lời nói xã giao
+- chuyện tầm phào
+
+@chin-cough  
+*  dt
+- (y học) bệnh ho gà
+
+@chine  
+*  dt
+- (địa lý,địa chất) hẻm
+- (giải phẫu) xương sống, sống lưng
+- thịt thăn
+- đỉnh (núi)
+
+@chinee  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) người Trung quốc
+
+@chineet
+* dt
+- (từ Mỹ,  (từ lóng)) người Hoa
+ @chinese  
+*  tt
+- (thuộc) Trung quốc
+*  dt
+- người Trung quốc
+- (the chinese) nhân dân Trung quốc
+
+@chinese lantern  
+*  dt
+- đèn xếp
+
+@ch'ing
+* dt
+- như Qing
+* dt
+- như Qing
+ @chink  
+*  dt
+- khe, kẽ hở, kẽ nứt; chỗ mở hé (cửa)
+- tiếng loảng xoảng, tiếng xủng xẻng
+- (từ lóng) tiền, tiền đồng
+*  ngdgt
+- làm kêu loảng xoảng, làm kêu xủng xẻng
+- kêu loảng xoảng, kêu xủng xẻng
+
+@chinkapin
+* dt
+- cũng chinquapin
+- (thực vật) cây lật
+ @chinkic
+* dt
+- cũng chinky
+- (thông tục) hiệu ăn Trung Quốc có thể mang thức ăn về
+ @chinless  
+*  tt
+- lẹm cằm
+
+@chinoiserie
+* dt
+- sự bắt chước phong cách Trung quốc trong tranh vẽ và trang trí
+- đồ vật theo kiểu cách Trung Quốc
+ @chinook
+* dt
+- tiếng Si-núc (một ngôn ngữ Anh-Pháp lẫn lộn ở Bắc mỹ)
+* dtgười Si-núc
+- gió ấm ở tây nam nước Mỹ
+ @chinook-jargon
+* dt
+- (ngôn ngữ) biệt ngữ Si-núc
+ @chin-strap
+* dt
+- quai nón, quai mũ
+ @chinstrap
+* dt
+- dây buộc mũ qua dưới cằm
+ @chintz  
+*  dt
+- vải hoa sặc sỡ (dùng bọc ghế, làm rèm cửa)
+
+@chintzy
+* dt
+- trang trí bằng vải hoa
+- rẻ tiền
+- hà tiện
+ @chin-wag  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) sự trò chuyện huyên thiên
+
++ to have a chin-wag with someone: trò chuyện huyên thiên với ai
+
+@chinwag
+* dt
+- cuộc nói chuyện phiếm
+ @chip  
+*  dt
+- vỏ bào, vỏ tiện, mạt giũa
+- chỗ sức, chỗ mẻ
+- mảnh vỡ
+- khoanh mỏng, lát mỏng (quả, khoai tây...)
+- (số nhiều) (thông tục) khoai tây rán
+- (từ lóng) tiền
+
++ the chips: tiền đồng
+- (đánh bài) thẻ (để đánh bạc)
+- nan (để đan rổ, đan mũ)
+!a chip of the old block
+- (xem) block
+!I don't care a chip
+- (xem) care
+!dry as a chip
+- nhạt như nước ốc
+!to hand (pass in) one's chips
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) thanh toán
+- chết
+!to have (carry, wear, go about with) a chip on one's shoulder
+- (từ Mỹ,nghĩa Mỹ) sẵn sàng đánh nhau, sẵn sàng gây chuyện cãi nhau
+- dễ bật lò xo
+!in the chip
+- (từ lóng) giàu có, nhiều tiền
+!little chips light great fires
+- vỏ bào nhỏ có thể gây nên những đám cháy lớn; cái sảy nảy cái ung
+*  ngdgt
+- đẽo, bào
+- làm sứt, làm mẻ
+
++ to chip the edge of the glass: làm sứt mép gương
+- đập vỡ ra từng mảnh, đập vỡ toang
+- mổ vỡ (vỏ trứng) (gà con)
+- đục, khắc (tên vào đâu)
+- xắt, thái thành lát mỏng
+
++ to chip potatoes: xắt khoai
+- (thông tục) chế giễu, chế nhạo
+
++ to chip [at] someone: chế nhạo ai
+*  ndgt
+- sứt, mẻ
+
++ china chips easily: đồ sứ dễ mẻ
+- mổ vỡ vỏ trứng (gà con)
+- chip : off tróc, tróc từng mảng (sơn)
+- (thông tục) chip : in nói xen vào
+- (từ Mỹ,nghĩa Mỹ) (: in) góp tiền đánh bạc); góp vốn
+*  dt
+- (thể dục,thể thao) miếng khoèo, miếng ngáng chân (đấu vật)
+*  ngdgt
+- khoèo, ngáng chân
+
+@chip
+- (Tech) chíp, phiến tinh thể, miếng (đơn kết tinh); tinh thể; đơn thể
+ @chip transistor
+- (Tech) đèn tinh thể dạng phiến, trăngsito chíp
+ @chip-basket
+* dt
+- giỏ đan bằng gỗ hay dây thép
+ @chipboard
+* dt
+- vỏ bào ép với nhựa dính làm vật liệu xây dựng
+ @chipmuck   (chipmunk) @chipmunk   (chipmunk) @chipolata
+* dt
+- một loại xúc xích ở Anh
+ @chippendale  
+*  dt
+- kiểu sipenđan (một kiểu đồ gỗ (thế kỷ) 18 ở Anh)
+
+@chipper  
+*  tt
+- (từ Mỹ,nghĩa Mỹ) vui vẻ, hoạt bát
+*  ndgt
+- (như) chirp
+- (từ Mỹ,nghĩa Mỹ) (to chipper up) hăng hái lên, vui vẻ lên
+
+@chippiness  
+*  dt
+- (từ lóng) tính khô khan, sự vô vị
+- sự váng đầu (sau khi say rượu)
+- tính hay gắt gỏng, tính hay cáu, tính quàu quạu
+
+@chippings
+* dt
+- đá nhỏ rải trên mặt đường
+ @chippy  
+*  tt
+- (từ lóng) khô khan, vô vị
+- váng đầu (sau khi say rượu)
+
++ to feel chippy: váng đầu
+- hay gắt gỏng, hay cáu, quàu quạu
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) gái điếm, gái đĩ; người đàn bà lẳng lơ đĩ thoã
+
+@chirk  
+*  tt
+- vui vẻ
+*  dgt
+- (từ Mỹ,nghĩa Mỹ) (: up) vui vẻ; làm cho vui vẻ
+
+@chirm  
+*  dt
+- tiếng hót líu lo, tiêng ríu rít (chim)
+
+@chirograph  
+*  dt
+- văn kiện chính thức (viết tay hoặc có chữ ký)
+
+@chirographic
+* tt
+- viết tay
+ @chirographist
+* dt
+- người viết tay thuê
+- người làm khế ước
+ @chirography
+* dt
+- chữ viết tay; việc viết tay
+ @chiromancer  
+*  dt
+- người xem tướng tay
+
+@chiromancy   (cheiromancy) @chiropodist  
+*  dt
+- người chuyên chữa bệnh chân ((cũng) pedicure)
+
+@chiropody  
+*  dt
+- thuật chữa bệnh chân ((cũng) pedicure)
+
+@chiropractic
+* dt
+- sự chữa bệnh bằng phương pháp nắn khớp xương
+ @chiropractor
+* dt
+- người chữa bệnh bằng phương pháp nắn khớp xương
+ @chiropter
+* dt
+- (động vật) loài dơi
+ @chiroptera  
+*  dt số nhiều
+- (động vật học) bộ dơi
+
+@chirp  
+*  dt
+- tiếng kêu chiêm chiếp; tiếng hót líu lo (chim); tiếng kêu, tiếng rúc (sâu bọ); tiếng nói líu lo (trẻ con)
+- tiếng nói nhỏ nhẻ, tiếng nói thỏ thẻ
+*  dgt
+- kêu chiêm chiếp; hót líu lo (chim); kêu, rúc (sâu bọ); nói líu lo (trẻ con)
+- nói nhỏ nhẻ, nói thỏ thẻ
+- (: up) vui vẻ lên; làm cho vui vẻ
+
+@chirp pulse
+- (Tech) xung biến điệu tần số tuyến tính
+ @chirpiness  
+*  dt
+- tính vui vẻ, tính hoạt bát
+
+@chirpy  
+*  tt
+- vui tính, hoạt bát
+
+@chirr  
+*  dt
+- tiếng dế kêu
+*  ndgt
+- kêu (dế)
+
+@chirrup  
+*  ndgt
+- kêu ríu rít, líu tíu; rúc liên hồi
+- bật lưỡi
+- (từ lóng) vỗ tay thuê (ở rạp hát)
+
+@chirruper  
+*  dt
+- (từ lóng) người vỗ tay thuê (ở rạp hát)
+
+@chirstmas-box  
+*  dt
+- tiền thưởng Nô-en (cho người đưa thư...)
+
+@chirurgeon
+* dt
+- (từ cổ) nhà phẩu thuật
+ @chisel  
+*  dt
+- cái đục, cái chàng
+- (the chisel) nghệ thuật điêu khắc
+- (từ lóng) sự lừa đảo
+*  ngdgt
+- đục; chạm trổ
+- (từ lóng) lừa đảo
+
+@chiseler
+- xem chisel
+ @chiselled
+* tt, cũng chiseled
+- được chạm, trổ
+- nổi bậc rõ ràng
+ @chiseller
+* dt
+- kẻ lừa bịp
+ @chi-square distribution
+- (Tech) phân bố x bình phương
+ @Chi-square distribution
+- (Econ) Phân phốI Kai bình phương (Phân phối khi bình phương)
+: Một phân bố xác suất với tham số n bậc tự do của tham số. Xem CONTINGENCY TABLES.
+ @chit  
+*  dt
+- đứa bé, đứa trẻ, trẻ con
+- người đàn bà nhỏ bé, người đàn bàn mảnh dẻ
+!a chit of a girl
+- con ranh con, con oắt con
+*  dt
+- mầm, manh nha
+*  dt: (chitty) 
+@chit-book
+* dt
+- sổ thu nhập
+ @chit-chat  
+*  dt
+- câu chuyện phiếm; cuộc tán gẫu
+- đề tài câu chuyện phiếm, đề tài tán gẫu
+
+@chitchat
+* dt
+- chuyện phiếm, chuyện gẫu
+ @chitin  
+*  dt
+- (động vật học) chất kitin
+
+@chitinized
+* tt
+- hoá kitin
+ @chitinous
+- xem chitin
+ @chiton
+* dt
+- (động vật) ốc song kinh
+- áo mặc trong (từ cổ Hy-lạp)
+ @chitter  
+*  dt
+- (động vật học) kêu ríu rít (chim)
+
+@chitter-chatter  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) (như) chit-chat
+
+@chitterling  
+*  dt,  (thường) số nhiều
+- ruột non (lợn...)
+
+@chitty  
+*  dt
+- đứa bé, đứa trẻ, trẻ con
+- người đàn bà nhỏ bé, người đàn bàn mảnh dẻ
+!a chit of a girl
+- con ranh con, con oắt con
+*  dt
+- mầm, manh nha
+*  dt: (chitty) 
+@chivalrous  
+*  tt
+- (thơ ca) có vẻ hiệp sĩ, có phong cách hiệp sĩ; nghĩa hiệp, hào hiệp
+
+@chivalrously
+* dt
+- hào hoa, hào hiệp
+ @chivalrousness  
+*  dt
+- tính chất hiệp sĩ; tính nghĩa hiệp, tính hào hiệp
+
+@chivalry  
+*  dt
+- phong cách hiệp sĩ
+- tinh thần thượng võ
+- những hiệp sĩ; những người hào hoa phong nhã
+- tác phong lịch sự đối với phụ nữ
+
+@chive
+* dt
+- một loại lá thơm dùng làm gia vị
+ @chivvy   (chivvy) @chivy   (chivvy) @chloe  
+*  dt
+- Strephon and Chloe đôi uyên ương
+
+@chloral
+* dt
+- aldehyde chứa Clo
+- (đầy đủ chlord hydrate) dược HCL
+ @chloralose
+* dt
+- (hoá học) chloraloza
+ @chloramine
+* dt
+- (hoá học) chloramin
+ @chloramphenicol
+* dt
+- (dược) cloramfenikon
+ @chlorate  
+*  dt
+- (hoá học) clorat
+
+@chlorella
+* dt
+- (sinh học) rong tiểu câu
+ @chlorenchyma
+* dt
+- (thực vật) mô giậu; mô diệp lục
+ @chloric  
+*  tt
+- cloric
+
++ chloric acid: axit cloric
+
+@chloride  
+*  dt
+- (hoá học) clorua
+
++ chloride of lime: vôi clorua
+
+@chloridic
+- xem chloride
+ @chlorinate
+* dgt
+- khử trùng bằng clo
+ @chlorination
+* dt
+- sự khử trùng bằng clo
+ @chlorinator
+- xem chlorinate
+ @chlorine  
+*  dt
+- (hoá học) clo
+
+@chlorobenzene method
+- (Tech) phương pháp clo-benzen
+ @chloroform  
+*  dt
+- cloroform
+!to give chloroform to someone; to put someone under chloroform
+- gây mê cho người nào
+*  ngdgt
+- gây mê
+- tẩm clorofom, ngâm clorofom
+
+@chloroformist  
+*  dt
+- người gây mê
+
+@chloromycetin  
+*  dt
+- (dược học) cloromixetin
+
+@chlorophyceae  
+*  dt số nhiều
+- (thực vật học) táo lục
+
+@chlorophyll  
+*  dt
+- (thực vật học) chất diệp lục
+
+@chloropicrin
+* dt
+- (hoá học) cloropicrin
+ @chloroplast  
+*  dt
+- (thực vật học) lạp lục
+
+@chlorosis  
+*  dt
+- (thực vật học) bệnh úa vàng
+- (y học) bệnh xanh lướt (con gái)
+
+@chlorotic
+- xem chlorosis
+ @chlorotically
+- xem chlorosis
+ @chlorous  
+*  tt
+- (hoá học) clorơ
+
++ chlorous acid: axit clorơ
+
+@chm
+* (viết tắt)
+- Cao học phẫu thuật (Master of Surgery)
+
++  to have a ChM:có bằng cao học phẫu thuật
+ @choc
+* dt
+- sôcôla
+ @choc-ice
+* dt
+- kem cây phủ sô-cô-la
+ @chock  
+*  dt
+- vật chèn, con chèn, vật chêm, đòn kê; đòn chống (thuyền hay tàu ở trên cạn)
+- (kỹ thuật) nệm, gối; cái lót trục
+*  ngdgt
+- (: up) chèn, chêm, kê (cho khối lăn, cho chặt); chống (cho khỏi đổ)
+- bày ngổn ngang, bày bừa bãi
+
++ a room chocked [up] with furniture: căn phòng bày đồ đạc bừa bãi
+
+@chock-a-block  
+*  tt
+- (: with) đầy chật, chật cứng, chật như nêm
+
+@chock-full  
+*  tt
+- đầy, đầy chật, đầy ngập, đầy tràn, đông nghịt
+
++ room chock-full of spectators: căn phòng đông nghịt khán giả
+
+@chocolate  
+*  dt
+- sôcôla
+- kẹo sôcôla
+- nước sôcôla
+- màu sôcôla
+*  tt
+- có màu sôcôla
+
+@chocolate soldier  
+*  dt
+- lính cậu, lính không làm nhiệm vụ chiến đấu
+
+@chocolate-box
+* tt
+- xinh đẹp hay đa cảm một cách hời hợt
+ @chocolate-soldier
+* dt
+- lính cậu; lính chữ thọ
+ @choice  
+*  dt
+- sự lựa, sự chọn, sự lựa chọn
+
++ choice of words: sự chọn từ
+
++ to make one's choice of: chọn, lựa chọn
+
++ to take one's choice: quyết định chọn một trong nhiều khả năng
+
++ at choice: tuỳ thích
+
++ by (for) choice: nếu được chọn; bằng cách chọn
+- quyền chọn; khả năng lựa chọn
+- người được chọn, vật được chọn
+- các thứ để chọn
+
++ a large choice of hats: nhiều mũ để chọn
+- tinh hoa, phần tử ưu tú
+
++ the choice of our youth: những phần tử ưu tú trong thanh niên của chúng ta
+!to have no choice but...
+- không còn có cách nào khác ngoài...
+!hobson's choice
+- sự lựa chọn bắt buộc
+
+@choice
+- (Tech) chọn lựa (d)
+ @Choice of production technique
+- (Econ) Sự lựa chọn kỹ thuật sản xuất.
+ @Choice of technology
+- (Econ) Sự lựa chọn công nghệ.
+: Xem TECHNOLOGY, CHOICE OF.
+ @Choice variable
+- (Econ) Biến lựa chọn.
+: Một biến trong bài toán tối ưu mà giá trị của biến được chọn để tối ưu hoá giá trị của HÀM MỤC TIÊU. Các biến lựa chọn thường là biến độc lập của hàm mục tiêu.
+ @choicely  
+*  dt
+- có chọn lọc kỹ lưỡng
+
+@choiceness  
+*  dt
+- tính chất chọn lọc
+- hạng tốt nhất
+
+@choir  
+*  dt
+- đội hợp xướng, đội hợp ca (của nhà thờ)
+- chỗ ngồi của đội hợp xướng trong nhà thờ
+- đội đồng ca
+- bầy chim; bầy thiên thần
+*  dgt
+- hợp xướng, đồng ca
+
+@choir school
+* dt
+- trường dành cho lễ sinh
+ @choir-boy  
+-boy@choirboy
+* dt
+- lễ sinh (hát ở giáo đường)
+ @choir-girl  
+*  dt
+- có lễ sinh
+
+@choir-master  
+*  dt
+- người chỉ huy hợp xướng
+
+@choirmaster
+* dt
+- người chỉ huy đội hát thờ
+ @choir-stall
+* dt
+- ghế ngồi hát đồng ca
+ @choise
+- sự chọn
+ @choke  
+*  dt
+- lõi rau atisô
+- sự làm nghẹt, sự làm kẹt, sự tắc lại
+- sự làm ngột, sự làm tắt (tức) thở
+- chỗ thắt lại, chỗ co lại, chỗ bóp lại
+- (điện học) cuộn cảm kháng ((cũng) choker)
+
++ high-frequency choke: cuộn cảm kháng cao tần
+- (kỹ thuật) van điều tiết không khí; bướm gió
+*  ngdgt
+- làm nghẹt, làm tắc (tức) thở
+
++ to choke to death: làm cho nghẹt thở; bóp cổ chết
+- làm chết ngạt
+
++ to choke a plant: làm cho cây bị chết ngạt
+- (: up) bít lại, bịt lại
+
++ to choke [up] pipe: bịt ống lại
+- nén, nuốt (giận, nước mắt)
+*  ndgt
+- nghẹt thở, ngạt thở, tắc (tức) thở
+
++ to choke with laughter: tức thở vì cười, cười ngất
+- uất, uất lên
+
++ to choke with anger: tức uất lên
+- tắc, nghẹt (ống dẫn...)
+!to choke back
+- cầm, nuốt (nước mắt)
+
++ to choke back one's tears: cầm nước mắt
+!to choke down
+- nuốt, nén
+
++ to choke down one's anger: nuốt giận
+!to choke in
+- (từ Mỹ,nghĩa Mỹ) lặng thinh, nín lặng
+!to choke off
+- bóp cổ
+- can gián, khuyên can
+- đuổi đi
+
++ to choke someone off: đuổi ai đi
+!to choke up
+- bịt, bít chặt
+- làm nghẹt (tiếng)
+- (từ Mỹ,nghĩa Mỹ) lặng thinh, nín lặng
+
+@choke
+- (Tech) cuộn cản; bộ hút hơi [cơ khí]
+ @chokeberry
+* dt
+- (thực vật) quả anh đào dại
+ @choke-bore  
+*  dt
+- họng súng
+- đoạn kênh mương bị đất đá lấp đi
+
+@choke-collar
+* dt
+- vòng đai ở cổ chó để điều khiển nó
+ @choked
+* tt
+- (choked about something) (thông tục) tức tối; chán nản
+ @choke-damp  
+*  dt
+- khí mỏ (chủ yếu gồm khí cacbonic, không nổ)
+
+@choke-full  
+*  tt
+- đầy chật, chật như nêm
+- tắc nghẹt
+
+@choke-input filter
+- (Tech) bộ lọc sóng điện @choke-pear  
+*  dt
+- lời trách làm cho nghẹn ngào; sự việc làm cho nghẹn ngào
+
+@choker  
+*  dt
+- người bóp cổ; cái làm nghẹt, cái làm tắc
+- (thông tục) cổ cồn, cổ đứng (áo thầy tu...)
+- (điện học) cuộn cảm kháng ((như) choke)
+
+@chokra  
+*  dt
+- Anh-An bồi, người ở
+
+@choky  
+*  dt
+- sở cảnh sát
+- phòng thuế
+- (từ lóng) nhà giam
+*  tt
+- bị nghẹt, bị tắc; khó thở, ngột ngạt; nghẹn ngào
+
++ choky atmosphere: không khí ngột ngạt
+
++ choky voice: tiếng nói nghẹn ngào
+
+@cholangiography
+* dt
+- (y học) phép chụp tia X đường mật
+ @cholecalciferol
+* dt
+- vitamin D 2
+ @cholecystectomy
+* dt
+- số nhiều cholecystectomies
+- (y học) thủ thuật cắt bỏ túi mật
+ @cholecystitis
+* dt
+- (y học) viêm túi mật
+ @cholelithiasis
+* dt
+- (y học) bệnh sỏi mật
+ @choler  
+*  dt
+- (từ cổ,nghĩa cổ) nước mắt
+- (từ cổ,nghĩa cổ),  (thơ ca) sự tức giận, tính hay cáu
+
+@cholera  
+*  dt
+- (y học) bệnh dịch tả, bệnh tả
+
+@choleraic  
+*  tt
+- (thuộc) dịch tả
+
+@choleric  
+*  tt
+- hay cáu, nóng tính
+
+@cholerically
+- xem choleric
+ @cholericly
+- xem choleric
+ @choleroid
+- xem cholera
+ @cholesterol
+* dt
+- chất béo gây xơ cứng động mạch, Colextêrôn
+ @cholic
+* tt
+- thuộc mật
+ @choline
+* dt
+- (hoá học) colin
+ @cholinergic
+* tt
+- tác động kiểu colin
+ @cholinesterase
+* dt
+- cholinexteraza
+ @chomp
+* dgt
+- nhai rào rạo
+* dt
+- sự nhai rào rạo
+ @chondrioblast
+* dt
+- (sinh học) tế bào tạo sụn
+ @chondriosome
+* dt
+- (sinh học) bộ thể hạt
+ @chondrocranium
+* dt
+- (sinh học) sọ mụn
+ @chondrocyte
+* dt
+- tế bào sụn
+ @chondroma
+* dt
+- (y học) bướu sụn
+ @choose  
+*  dgt chose; chosen
+- chọn, lựa chọn, kén chọn
+
++ choose for yourself: anh cứ việc chọn, anh cứ chọn lấy
+- thách muốn
+
++ do just as you choose: anh thích gì thì anh cứ làm
+!cannot choose but
+- (từ cổ,nghĩa cổ) không còn cách nào khác hơn là
+
++ he cannot choose but go: anh ta không còn cách nào khác hơn là đi
+
++ nothing (not much, little) to choose between them: chúng như nhau cả thôi
+
++ to pick and choose: kén cá chọn canh
+
+@choose
+- (Tech) chọn (lựa) (đ)
+ @choose
+- lựa chọn
+ @chooser  
+*  dt
+- người chọn, người lựa chọn, người kén chọn
+!beggars should be no choosers
+- (xem) beggar
+
+@choosey   (choosey) @choosiness
+* dt
+- tính hay kén chọn
+ @choosy   (choosey) @chop  
+*  dt
+- (như) chap
+!down in the chops
+- ỉu xìu, chán nản, thất vọng
+*  dt
+- vật bổ ra, miếng chặt ra
+- nhát chặt, nhát bổ (búa chày)
+- (thể dục,thể thao) sự cúp bóng (quần vợt)
+- miếng thịt sườn (lợn, cừu)
+- rơm băm nhỏ
+- mặt nước gợn sóng (vì gió ngược với thuỷ triều)
+*  ngdgt
+- chặt, đốn, bổ, chẻ
+
++ to chop wood: bổ củi
+
++ to chop off someone's head: chặt đầu ai
+
++ to chop one's way through: đốn cây để lấy đường đi, phát quang để lấy đường đi qua
+- (nghĩa bóng) nói đứt đoạn, nói nhát gừng
+- (: up) chặt nhỏ, băm nhỏ
+*  ndgt
+- bổ, chặt
+
++ to chop away: chặt đốn
+!to chop back
+- thình lình trở lại
+!to chop down
+- chặt ngã, đốn ngã
+!to chop in
+- (thông tục) nói chen vào
+!to chop off
+- chặt đứt, đốn cụt
+!to chop out
+- trồi lên trên mặt (địa táng)
+!to chop up
+- chặt nhỏ, băm nhỏ
+- (như) to chop out
+*  dt
+- gió trở thình lình
+- sóng vỗ bập bềnh
+- (địa lý,địa chất) phay
+!chops and changes
+- những sự đổi thay
+*  dgt
+- thay đổi luôn luôn, dao động, không kiến định
+
++ to chop and change: thay thay đổi đổi
+- (: round,  about) đổi chiều thình lình, trở thình lình (gió)
+- vỗ bập bềnh (sóng biển)
+!to chop logic with someone
+- cãi vã với ai
+*  dt
+- giấy phép, giấy đăng ký, giấy chứng nhận; giây thông hành, giấy hộ chiếu (An-độ,  Trung-quốc)
+- Anh-Ân,  (thông tục) of the first chop hạng nhất
+
++ of the second chop: hạng nhì
+
+@chop
+- (Tech) cắt đoạn, cắt rời (đ)
+ @chop-chop  
+*  dt
+- (từ lóng) nhanh
+*  thán từ
+- nhanh lên!
+
+@chopfallen
+* tt
+- chán nản
+ @chop-house  
+*  dt
+- quán ăn rẻ tiền
+
+@chopped impulse voltage
+- (Tech) điện áp xung gián đoạn
+ @chopper  
+*  dt
+- người chặt, người đốn, người bổ, người chẻ (củi...)
+- dao pha, dao bầu
+- (từ Mỹ,nghĩa Mỹ) người soát vé, người bấm vé
+- (điện học) cái ngắt điện
+- (từ lóng) răng
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) máy bay lên thẳng
+
+@chopper
+- (Tech) bộ đổi điện loại rung; bộ ngắt quãng
+ @chopper modulation
+- (Tech) biến điệu ngắt quãng
+ @choppily
+- xem choppy
+ @choppiness
+* dt
+- sự vỗ bập bềnh (sóng)
+- sự trở chiều (gió)
+ @chopping
+* tt
+- thay đổi nhanh
+- sóng gió
+- quật cường
+* dt
+- sự thái, băm, cắt
+
++  chopping block:cái thớt
+
++  chopping knife:dao thái
+ @choppy  
+*  tt
+- trở chiều luôn (gió)
+- sóng vỗ bập bềnh, động (biển)
+- (từ cổ,nghĩa cổ) nứt nẻ (da)
+
+@chops
+* dt
+- hàm (động vật)
+- mép
+
++  The dog licked his chops:con chó liếm mép
+- miệng
+ @chopsticks  
+*  dt số nhiều
+- đũa (để và thức ăn)
+
+@chop-suey  
+*  dt
+- món ăn thập cẩm
+
+@choragus
+* dt
+- cũng choregus
+- người cầm đầu ban đồng ca (từ ổ Hy-Lạp)
+- người cầm đầu một phong trào
+ @choral  
+*  dt: (chorale) 
+@chorale  
+*  dt: (chorale) 
+@choralist
+* dt
+- người viết hợp xướng
+- người hát hợp xướng
+ @chorally
+- xem choral
+ @chord  
+*  dt
+- (thơ ca) dây (đàn hạc)
+- (toán học) dây cung
+- (giải phẫu) dây, thừng
+
++ vocal chords: dây thanh âm
+!to strike (touch) a deep chord in the heart of somebody
+- đánh đúng vào tình cảm của ai
+!to touch the right chord
+- gãi đúng vào chỗ ngứa; chạm đúng nọc
+*  dt
+- (âm nhạc) hợp âm
+- (hội họa) sự điều hợp (màu sắc)
+
+@chord
+- dây cung, dây trương
+- c. of contact dãy tiếp xúc
+- bifocal c. of a quadric dây song tiêu của một quadric
+- focal c. dây tiêu
+- upplemental c.s dây cung bù 
+ @chordal
+* tt
+- có hình sợi dây
+- (giải phẩu học) thuộc dây sống
+- có sự hài hoà âm thanh
+ @chordata  
+*  dt số nhiều
+- (động vật học) nghành dây sống
+
+@chordate
+* tt
+- (sinh học) có dây sống
+ @chore  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) việc vặt, việc mọn
+- (số nhiều) công việc vặt trong nhà
+
+@chorea  
+*  dt
+- (y học) chứng múa giật
+
+@choreagraph  
+*  dt
+- nhà bố trí điệu múa ba-lê
+
+@choreagraphic  
+*  tt
+- (thuộc) nghệ thuật bố trí điệu múa ba-lê
+
+@choreagraphy  
+*  dt
+- nghệ thuật bố trí điệu múa ba-lê
+
+@choreic  
+*  tt
+- (y học) (thuộc) chứng múa giật
+- mắc chứng múa giật
+
+@choreograph
+* dgt
+- sáng tác và dàn dựng điệu múa balê
+ @choreographer
+* dt
+- biên đạo múa
+* dt
+- biên đạo múa
+ @choreographic
+* tt
+- (thuộc) nghệ thuật bố trí điệu múa ba-lê
+ @choreography
+* dt
+- nghệ thuật bố trí điệu múa ba-lê
+ @chorial
+* tt
+- (sinh học) thuộc màng đệm
+ @choriamb  
+*  dt
+- (thơ ca) thơ côriam
+
+@choriambic
+- xem choriamb
+ @choric
+* tt
+- theo phong cách đồng ca cổ Hy Lạp
+ @chorioallantois
+* dt
+- (giải phẩu) màng đệm túi niệu
+ @choriocarcinoma
+* dt
+- ung thư dạ con
+ @chorion  
+*  dt
+- (giải phẫu) màng đệm
+
+@chorionic
+- xem chorion
+ @chorister  
+*  dt
+- người hát ở đội hợp xướng (nhà thờ)
+- (từ Mỹ,nghĩa Mỹ) người điều khiển đội hợp xướng (nhà thờ)
+
+@chorizo
+* dt
+- số nhiều chorizos
+- xúc xích cay (Tây Ban Nha)
+ @chorogamic
+* tt
+- ngẫu giao
+ @chorogamy
+* dt
+- tính ngẫu giao
+ @chorographer
+- xem chorography
+ @chorographic  
+*  tt
+- (thuộc) địa chí
+
+@chorographically
+- xem chorography
+ @chorography  
+*  dt
+- địa chí
+
+@choroid  
+*  dt
+- (giải phẫu) màng trạch
+
+@choroidial
+* tt
+- thuộc màng mạch
+ @chorology  
+*  dt
+- phân bố học, khoa phân bố loài (sinh vật)
+
+@choronomic
+* tt
+- bên ngoài, ngoại lai
+ @chorotype
+* dt
+- kiểu địa phương
+ @chortle  
+*  dt
+- tiếng cười giòn như nắc nẻ
+- đội hợp xướng
+- bài hát hợp xướng
+- đoạn điệp xô (mọi người nghe đề tham gia); đoạn đồng ca (trong bài hát)
+- tiếng đồng thanh, tiếng nói nhất loạt
+
++ in chortle: đồng thanh, nhất loạt
+
++ to answers a question in chortle: đồng thanh trả lời câu hỏi
+
+@chortler
+- xem chortle
+ @chorus  
+*  ndgt
+- hợp xướng, đồng ca
+- cùng nói
+
+@chorus-girl
+* dt
+- cô gái trong đội đồng ca
+ @chose  
+*  dgt chose; chosen
+- chọn, lựa chọn, kén chọn
+
++ choose for yourself: anh cứ việc chọn, anh cứ chọn lấy
+- thách muốn
+
++ do just as you choose: anh thích gì thì anh cứ làm
+!cannot choose but
+- (từ cổ,nghĩa cổ) không còn cách nào khác hơn là
+
++ he cannot choose but go: anh ta không còn cách nào khác hơn là đi
+
++ nothing (not much, little) to choose between them: chúng như nhau cả thôi
+
++ to pick and choose: kén cá chọn canh
+
+@chosen  
+*  dgt chose; chosen
+- chọn, lựa chọn, kén chọn
+
++ choose for yourself: anh cứ việc chọn, anh cứ chọn lấy
+- thách muốn
+
++ do just as you choose: anh thích gì thì anh cứ làm
+!cannot choose but
+- (từ cổ,nghĩa cổ) không còn cách nào khác hơn là
+
++ he cannot choose but go: anh ta không còn cách nào khác hơn là đi
+
++ nothing (not much, little) to choose between them: chúng như nhau cả thôi
+
++ to pick and choose: kén cá chọn canh
+
+@chou  
+*  dt
+- cái nơ (trang sức mũ, áo phụ nữ)
+
+@chough  
+*  dt
+- (động vật học) quạ chân dỏ
+
+@chouse  
+*  dt
+- (thông tục) sự lừa đảo
+- ngón lừa, trò bịp
+*  ngdgt
+- đánh lừa, lừa đảo, lừa gạt
+
++ to chouse someone [out] of something: lừa gạt ai lấy cái gì
+
+@chow  
+*  dt
+- giống chó su (Trung quốc)
+- (từ lóng) thức ăn
+
+@chow mein
+* dt
+- món mì xào
+ @chow-chow  
+*  dt
+- mứt hổ lốn (vỏ cam, gừng...)
+
+@chowder  
+*  dt
+- món sôđơ (cá hay trai hầm với hành, thịt muối...)
+
+@chrestomathic
+- xem chrestomathy
+ @chrestomathy  
+*  dt
+- tuyển tập văn
+
+@chrislike  
+*  tt
+- như Chúa Giê-su
+
+@chrism  
+*  dt
+- (tôn giáo) dầu thánh (để làm phép)
+
+@chrismal
+- xem chrism
+ @chrisom  
+*  dt
+- (sử học) áo rửa tội của trẻ em (mặc cho trẻ em khi rửa tội, dùng để liệm nếu đứa trẻ chết trước một tháng) ((cũng) chrisom cloth,  chrisom robe)
+!chrisom child
+- em bé trong vòng một tháng tuổi
+
+@christ  
+*  dt
+- Chúa Giê-su,  Chúa cứu thế
+
+@christ-cross
+* dt
+- dấu thánh giá; dấu thập ác
+ @christen  
+*  ngdgt
+- rửa tội; làm lễ rửa tội
+- đặt tên thánh (trong lễ rửa tội)
+
++ the child was christened Mary: đứa bé được đặt tên thánh là Ma-ri
+
+@christendom  
+*  dt
+- những người theo đạo Cơ-đốc, dân theo đạo Cơ-đốc
+- nước theo đạo Cơ-đốc
+
+@christening  
+*  dt
+- lễ rửa tội (cho trẻ con)
+- lễ đặt tên (cho tàu thuỷ, chuông...)
+
+@christhood
+* dt
+- địa vị chúa Cơ-đốc
+ @christiad
+* dt
+- sử thi về chúa Cơ-đốc
+ @christian  
+*  tt
+- (thuộc) đạo Cơ-đốc; tin vào Cơ-đốc
+- (thuộc) thánh
+- (thuộc) người văn minh
+!Christian burial
+- lễ chôn cất theo đúng thủ tục của nhà thờ
+!Christian name
+- tên thánh
+*  dt
+- người theo đạo Cơ-đốc
+- người văn minh (đối với người dã man như thú vật)
+
+@christianise   (christianise) @christianity  
+*  dt
+- đạo Cơ-đốc
+- giáo lý Cơ-đốc
+- sự theo đạo Cơ-đốc
+- tính chất Cơ-đốc
+
+@christianization
+* dt
+- việc theo đạo thiên chúa
+ @christianize   (christianise) @christlike
+* tt
+- như Chúa Giê-su
+ @christmas   (Xmas) @christmas tree
+* dt
+- cây Nô-el
+ @christmas-card  
+*  dt
+- thiếp mừng Nô-en
+
+@christmas-day  
+*  dt
+- ngày lễ Nô-en (25 12)
+
+@christmas-eve  
+*  dt
+- đêm Nô-en (24 12)
+
+@christmas-present  
+*  dt
+- quà Nô-en
+
+@christmassy
+* tt
+- có không khí lễ Nô-en
+ @christmas-tide  
+*  dt
+- tuần Nô-en
+
+@christmastide
+* dt
+- tuần Nô-el
+ @christmastime
+* dt
+- tuần Nô-el
+ @christmas-tree  
+*  dt
+- cây Nô-en
+
+@christmasy  
+*  tt
+- có không khí lễ Nô-en
+
++ the whole street has a christmasy appearance: phố phường có không khí lễ Nô-en
+
+@christogram
+* dt
+- biểu tượng chỉ chúa Cơ-đốc bằng chữ viết
+ @christology
+* dt
+- Cơ-đốc học
+ @chrlotte
+* dt
+- bánh pútdinh nhân trái cây
+ @chroma
+- (Tech) mầu sắc, sắc độ
+ @chroma band
+- (Tech) dải màu sắc
+ @chromacoder
+- (Tech) bộ mã màu
+ @chromaffin
+* tt
+- (sinh học) nhuộm crôm (tế bào)
+ @chromaffinity
+* tt
+- (sinh học) tính nhuộm crôm (tế bào)
+ @chromagate
+- (Tech) cổng màu
+ @chromakey
+- (Tech) khóa màu
+ @chromaphil
+* tt
+- ưa nhuộm crôm
+ @chromate  
+*  dt
+- (hoá học) cromat
+
+@chromatic  
+*  tt
+- (thuộc) màu
+
++ chromatic printing: in màu
+- (âm nhạc) nửa cung
+
++ chromatic scale: gam nửa cung
+
+@chromatic
+- (Tech) thuộc có màu
+ @chromatic
+- sắc sai
+ @chromatic aberration
+- (Tech) quang sai sắc, sắc sai
+ @chromatically
+- xem chromatic
+ @chromaticism
+- xem chromatic
+ @chromaticity
+- (Tech) sắc độ [ĐL]
+ @chromatics  
+*  dt,  số nhiều dùng như số ít
+- khoa học về màu sắc
+
+@chromatid
+* dt
+- (sinh học) thanh nhiễm sắc
+ @chromatin  
+*  dt
+- (sinh vật học) chất nhiễm sắc,  crômatin
+
+@chromatinic
+- xem chromatin
+ @chromation
+- tính sắc sai
+ @chromatist
+- xem chromatics
+ @chromatoblast
+* dt
+- tế bào tạo sắc tố
+ @chromatogram  
+*  dt
+- sắc phổ
+
++ paper chromatogram: sắc phổ trên giấy
+
+@chromatograph  
+*  dt
+- sắc phổ
+
+@chromatographer
+- xem chromatography
+ @chromatographic  
+*  tt
+- ghi sắc, (thuộc) phép ghi sắc
+
+@chromatographically
+- xem chromatograph
+ @chromatography  
+*  dt
+- phép ghi sắc
+
++ ion-exchange chromatography: phép ghi sắc trao đổi ion
+
+@chromatolysis
+* dt
+- (sinh học) sự phân hủy màu; sự tiêu sắc
+ @chromatophil
+* tt
+- dễ nhuộm màu
+ @chromatron
+- (Tech) ống sắc tiêu [ĐL], crômatron (ống thu hình mầu)
+ @chrome  
+*  dt
+- (hoá học) crom
+- thuốc màu vàng
+
+@chrome yellow
+* dt
+- màu vàng tươi
+ @chromic  
+*  tt
+- cromic
+
++ chromic acid: axit cromic
+
+@chrominance
+- (Tech) độ mầu, tính có mầu
+ @chrominance elimination
+- (Tech) khử màu sắc
+ @chrominance synchronization
+- (Tech) đồng bộ màu sắc
+ @chroming
+- (Tech) mạ crom (Cr) (d)
+ @chrominian
+* dt
+- (hoá học) crom
+ @chromite
+* dt
+- (hoá học) cromit
+ @chromium  
+*  dt
+- (hoá học) crom
+
+@chromo
+* dt; số nhiều chromos
+- xem chromolithograph
+ @chromogen
+* dt
+- chất tạo sắc
+- thể nhiễm sắc
+ @chromograph  
+*  dt
+- máy in thạch
+
+@chromolithograph  
+*  ngdgt
+- bản in đá nhiều màu
+
+@chromolithographer  
+*  dt
+- thợ in đá nhiều màu
+
+@chromolithographic  
+*  tt
+- (thuộc) thuật in đá nhiều màu
+
+@chromolithography  
+*  dt
+- thuật in đá nhiều màu
+
+@chromomere
+* dt
+- (sinh học) đoạn ( @chromomeric
+* tt
+- thuộc đoạn nhiễm sắc thể
+ @chromoneme
+* dt
+- số nhiều chromonemata
+- sợi nhiễm sắc
+ @chromoplast  
+*  dt
+- (thực vật học) lạp sắc
+
+@chromoprotein
+* dt
+- (sinh học) protein sắc tố
+ @chromoscope 
++  chromatron
+ @chromosomal
+- xem chromosome
+ @chromosomally
+- xem chromosome
+ @chromosome  
+*  dt
+- (sinh vật học) nhiễm thể, thể nhiễm sắc
+
+@chromosphere  
+*  dt
+- quyển sắc
+
+@chromospheric
+- xem chromosphere
+ @chronic  
+*  tt
+- (y học) mạn, kinh niên
+
++ a chronic disease: bệnh mạn
+- ăn sâu, bám chặt, thâm căn cố đế; thành thói quen
+
++ chronic doubts: những mối nghi ngờ đã ăn sâu
+
++ to be getting chronic: trở thành thói quen
+- thường xuyên, lắp đi lắp lại
+- (thông tục) rất khó chịu, rất xấu
+
+@chronicaliy  
+*  dt
+- (y học) mạn, kinh niên
+- thường xuyên, lắp đi lắp lại
+
+@chronically
+- xem chronic
+ @chronicity  
+*  dt
+- (y học) tính mạn, tính kinh niên
+- tính ăn sâu, tính thâm căn cố đế
+- tính thường xuyên; sự lắp đi lắp lại
+
+@chronicle  
+*  dt
+- sử biên niên; ký sự niên đại
+- mục tin hằng ngày, mục tin thời sự (báo chí)
+!small-beer chronicle
+- sự kiện lặt vặt; tin vặt (báo chí)
+*  ngdgt
+- ghi vào sử biên niên
+- ghi chép (những sự kiện...)
+!to chronicle small beer
+- (xem) small_beer
+
+@chronicle-play
+* dt
+- kịch biên niên; kịch lịch sử
+ @chronicler  
+*  dt
+- người ghi chép sử biên niên
+- người viết thời sự; phóng viên thời sự (báo chí)
+
+@chronogram
+* dt
+- cách dùng chữ cái hoa để ghi năm
+ @chronograph  
+*  dt
+- máy ghi thời gian
+
+@chronograph
+- (Tech) máy ghi thời gian
+ @chronographic
+- xem chronograph
+ @chronographically
+- xem chronograph
+ @chronography
+* dt
+- phép đo một khoảng thời gian rất ngắn
+ @chronologic   (chronological) @chronological   (chronological) @chronologically
+* dt
+- theo niên đại, theo thứ tự thời gian
+ @chronologist  
+*  dt
+- nhà niên đại học, người nghiên cứu niên đại
+
+@chronology  
+*  dt
+- niên đại học, khoa nghiên cứu niên đại
+- sự sắp xếp theo niên đại
+- bảng niên đại
+
+@chronometer  
+*  dt
+- (thể dục,thể thao) đồng hồ bấm giờ,  crônômet
+- (âm nhạc) máy nhịp
+
+@chronometric   (chronometrical) @chronometrical   (chronometrical) @chronometrically
+- xem chronometer
+ @chronometry  
+*  dt
+- phép đo thời gian
+- (thể dục,thể thao) phép bấm giờ
+
+@chronoscope  
+*  dt
+- máy đo tốc độ tên đạn
+
+@chronoscope
+- (Tech) máy hiện thời gian
+ @chronoscopic
+- xem chronoscope
+ @chronotron
+- (Tech) máy đo thời gian
+ @chrysalides  
+*  dt,  số nhiều chrysalises
+- con nhộng
+
+@chrysalis  
+*  dt,  số nhiều chrysalises
+- con nhộng
+
+@chrysalises
+* dt
+- con nhộng
+ @chrysanthemum  
+*  dt
+- (thực vật học) cây hoa cúc
+- hoa cúc
+
++ land of the chrysanthemum: nước Nhật bản
+
+@chryselephantine
+* tt
+- bằng ngà và vàng
+ @chrysoberyl
+* dt
+- (khoáng chất) Crizoberin
+ @chrysolite
+* dt
+- hoàng ngọc
+ @chthonic
+- Cách viết khác : chtonian 
+ @chub
+* dt
+- cá bống
+ @chubbily
+- xem chubby
+ @chubbiness  
+*  dt
+- sự mũm mĩm, sự mập mạp; sự phinh phính
+
+@chubby  
+*  tt
+- mũm mĩm, mập mạp, phinh phính (má)
+
++ chubby hands: tay mũm mĩm
+
++ chubby cheeks: má phinh phính
+
+@chuck  
+*  dt
+- tiếng cục cục (gà mái gọi con)
+- tiếng tặc lưỡi, tiếng chặc lưỡi (người)
+*  ndgt
+- cục cục (gà mái)
+- tặc lưỡi, chặc lưỡi (người)
+*  dt
+- (kỹ thuật) mâm cặp, bàn cặp, ngàm
+*  ngdgt
+- (kỹ thuật) đặt vào bàn cặp
+- đặt vào ngàm
+*  dt
+- (từ lóng) đồ ăn, thức ăn
+
++ hard chuck: (hàng hải) thức ăn khô, lương khô, bánh quy
+*  dt
+- sự day day, sự lắc nhẹ (cằm)
+- sự ném, sự liệng, sự quăng
+- (thông tục) sứ đuổi ra, sự thải ra; sự bỏ rơi
+
++ to give someone the chuck: đuổi ai, thải ai; bỏ rơi ai
+- (số nhiều) trò chơi đáo lỗ
+
++ to play at chucks: chơi đáo lỗ
+*  ngdgt
+- day day (cằm); vỗ nhẹ, lắc nhẹ (dưới cằm)
+
++ to chuck someone under the chin: day day nhẹ cằm người nào
+- ném, liệng, quăng, vứt
+
++ chuck me that box of matches: ném cho tôi xin bao diêm kia
+!to chuck away
+- bỏ phí, lãng phí
+
++ to chuck one's money away: phung phí tiền bạc, xài phí tiền của
+!to chuck out
+- tống cổ ra khỏi cửa, đuổi ra (những kẻ làm mất trật tự, quấy phá trong quán rượu, rạp hát)
+!to chuck up
+- bỏ, thôi
+
++ to chuck up one's job: bỏ việc
+
++ to chuck up the sponge: bỏ cuộc đấu, bỏ việc đang cố làm
+!chuck it!
+- (từ lóng) thôi đi!, thế là đủ!
+!to chuck one's hand in
+- (xem) hand
+!to chuck one's weight about
+- vênh vênh, váo váo, ngạo mạn, kiêu căng
+
+@chuck
+- (Tech) bàn kẹp; đầu kẹp
+ @chucker-out  
+*  dt
+- người giữ trật tự (ở quán rượu, rạp hát... để tống cổ những anh chàng phá quấy ra ngoài)
+
+@chuck-farthing  
+*  dt
+- trò chơi đáo; trò chơi sấp ngửa
+
+@chuckhole
+* dt
+- (từ Mỹ, nghĩa Mỹ) rãnh ngang ở đường để tháo nước
+ @chuckle  
+*  dt
+- tiếng cười khúc khích; nụ cười thầm
+- sự khoái trá ra mặt
+- tiếng cục cục (gà)
+*  ndgt
+- cười khúc khích
+- (: over) khoái trá
+
++ to chuckle over someone's defeat: khoái trá trước sự thất bại của ai
+- kêu cục cục (gà mái)
+
+@chuckle-head  
+*  dt
+- người ngu ngốc, người đần độn
+
+@chuckle-headed  
+*  tt
+- ngu ngốc, đần độn
+
+@chuckler
+- xem chuckle
+ @chucklesome
+- xem chuckle
+ @chucklingly
+- xem chuckle
+ @chuddar  
+*  dt
+- Anh-Ân khăn trùm, khăn quàng
+
+@chuff
+* ndgt
+- kêu phì phì như tiếng máy hơi nước
+* dt
+- tiếng động kêu phì phì như tiếng máy hơi nước
+- người quê mùa
+* tt
+- quê mùa; thô lỗ
+ @chuffed
+* tt
+- vui mừng, hớn hở
+ @chug  
+*  dt
+- tiếng bình bịch (của máy nổ)
+*  ndgt
+- phát ra tiếng bình bịch
+
+@chugger
+- xem chug
+ @chukka
+* dt (cũng) chukker
+- khoảng thời gian chơi trong môn pôlô
+ @chum  
+*  dt
+- bạn thân
+- người ở chung phòng
+
++ new chum: (Uc) người mới đến, kiều dân mới đến
+*  ndgt
+- ở chung phòng
+
++ to chum together: ở chung một phòng
+
++ to chum with someone: ở chung một phòng với ai
+- thân mật, thân thiết với (ai); làm thân với (ai)
+
++ to chum up with someone: làm thân với ai
+
+@chummage
+* dt
+- chỗ ở hai hay nhiều người chung phòng
+* dthà ở chung; nhà tù
+- bữa ăn các tù nhân cũ đãi các tù nhân mới vào phòng
+ @chummery  
+*  dt
+- nơi ở chung, phòng ở chung
+
+@chummily
+* dt
+- thân mật, thân thiết
+ @chumminess  
+*  dt
+- sự gần gụi, sự thân mật, sự thân thiết
+
+@chummy  
+*  tt
+- gần gụi, thân mật, thân thiết
+
+@chump  
+*  dt
+- khúc gỗ
+- tảng thịt
+- (thông tục) cái đầu
+- (từ lóng) người ngốc nghếch, người ngu đần
+!to be (go) off one's chump
+- (từ lóng) phát điên phát cuồng lên, mất trí
+
+@chump-chop
+* dt
+- sườn cừu
+ @chunder
+* ndgt
+- nôn oẹ
+* dt
+- sự nôn oẹ
+ @chunk  
+*  dt
+- (thông tục) khúc (gỗ), khoanh (bánh, phó mát...)
+- (từ Mỹ,nghĩa Mỹ) người lùn và chắc mập; ngựa lùn và chắc mập
+!to bite off a big chunk
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) vớ phải một việc hắc búa, phải giải quyết một việc khó khăn
+
+@chunk
+- (Tech) mảng, khối, miếng
+ @chunkily
+* dt
+ @chunkiness
+* dt
+- sự vừa lùn vừa mập
+ @chunking
+* tt
+- lớn; vụng về
+
++  a chunking piece of beef:một miếng thịt bò to tướng
+* dt
+- tiếng động của máy lớn khi chuyển động
+ @chunky  
+*  tt
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) lùn và chắc mập
+
+@chunnel
+* dt
+- cái hầm đang đào nối liền Anh và Pháp
+ @chunter
+* dgt
+- (thông tục) phàn nàn, kêu ca
+ @church  
+*  dt
+- nhà thờ
+- buổi lễ (ở nhà thờ)
+
++ what time does church begin?: buổi lễ bắt đầu lúc nào?
+- Church giáo hội; giáo phái
+!the Catholic Church
+- giáo phái Thiên chúa
+!as poor as a church mouse
+- nghèo xơ nghèo xác
+!to go into the church
+- đi tu
+!to go to church
+- đi nhà thờ, đi lễ (nhà thờ)
+- lấy vợ, lấy chồng
+*  ngdgt
+- đưa (người đàn bà) đến nhà thờ chịu lễ giải cữ
+
+@church service  
+*  dt
+- buổi lễ nhà thờ
+
+@church-goer  
+*  dt
+- người thường đi lễ nhà thờ
+
+@churchianity
+* dt
+- thái độ theo nhà thờ một cách hình thức
+ @churchiness  
+*  dt
+- tính quá sùng đạo
+
+@churchman  
+*  dt
+- người trong giáo hội
+- giáo sĩ
+- người theo giáo phái Anh
+
+@churchmanly
+- xem churchman
+ @churchmanship
+- xem churchman
+ @church-rate
+* dt
+- thuế nộp cho nhà thờ
+ @churchwarden  
+*  dt
+- uỷ viên quản lý tài sản của giáo hội
+- ống điếu dài bằng đất sét ((cũng) churchwarden's pipe)
+
+@churchy  
+*  tt
+- quá sùng đạo (làm mê muội)
+
+@churchyard  
+*  dt
+- khu đất nhà thờ (khoảng đất rào trong có nhà thờ)
+- nghĩa địa
+!churchyard cough
+- cơn ho thấy chết, cơn ho gần chết
+!far churchyard
+- nhiều người chết
+
+@churinga
+* dt
+- rùa bằng đá thiêng liêng thổ dân Oxtrâylia đeo
+ @churl  
+*  dt
+- (sử học) người hạ đẳng, tiện dân
+- người vô học thức; người thô tục, người lỗ mãng
+- người cáu kỉnh
+- người keo cú, người bủn xỉn
+
+@churlish  
+*  tt
+- (thuộc) người hạ đẳng, (thuộc) tiện dân
+- thô tục, thô bỉ, mất dạy
+- cáu kỉnh
+- keo cú, bủn xỉn
+- (từ Mỹ,nghĩa Mỹ) khó cày
+
++ churlish soil: đất khó cày
+
+@churlishly
+* dt
+- thô lỗ, xấc xược
+ @churlishness  
+*  dt
+- tính chất người hạ đẳng, tính chất tiện dân
+- tính thô tục, tính thô bỉ, tính mất dạy
+- tính cáu kỉnh
+- tính keo cú, tính bủn xỉn
+
+@churn  
+*  dt
+- thùng đánh kem (để làm bơ)
+- thùng đựng sữa
+*  ngdgt
+- đánh (sữa để lấy bơ)
+- khuấy tung lên
+
++ the ship's propellers churned the waves to foam: cánh quạt tàu thuỷ đánh tung sóng thành bọt
+
++ the ground was churned up by heavy boombs: khoảng đất bị bom đánh tung lên, khoảng đất bị bom cày nát ra
+*  ndgt
+- đánh sữa (lấy bơ)
+- nổi sóng (biển...)
+
+@churn-dasher   (churn-staff) @churner
+- xem churn
+ @churn-staff   (churn-staff) @churr
+* ndgt
+- kêu vù vù (côn trùng bay)
+* dt
+- tiếng vù vù
+ @churrigueresque
+* tt
+- theo phong cách ba-rôc Tây Ban Nha có trang trí công phu
+ @chute  
+*  dt
+- cầu trượt, đường trượt; dốc lao, đường lao
+- (từ Mỹ,nghĩa Mỹ) thác (nước)
+
++ to shoot the chutes: lao xuống thác
+- máng đổ rác
+*  dt,  (viết tắt) của parachute
+- (quân sự),  (thông tục) dù
+
+@chute-the-chute
+- máng trượt nước, đường trượt nước
+ @chutnee   (chutney) @chutney   (chutney) @chutzpah
+* dt
+- (tiếng lóng) sự cả gan trơ tráo
+ @chylaceous
+- xem chyle
+ @chyle  
+*  dt
+- (sinh vật học) dịch dưỡng, dưỡng trấp
+
+@chylifaction   (chylification) @chyliferous
+* tt
+- (sinh học) mang dịch dưỡng
+ @chylification   (chylification) @chyme  
+*  dt
+- (sinh vật học) dịch sữa, nhũ trấp
+
+@chymification  
+*  dt
+- sự hoá thành dịch sữa
+
+@chymify
+* dgt
+- hoá thành dưỡng trấp @chymous
+- xem chyme
+ @château  
+*  dt
+- người thô kệch; người ngờ nghệch
+
+@châteaux  
+*  dt
+- người thô kệch; người ngờ nghệch
+
+@

@@ -1,0 +1,549 @@
+@old  
+*  tt
+- già
+
++ an old man: một ông già
+
++ my old man: (thông tục) bà nhà tôi
+
++ an old woman: bà già; người nhút nhát; người hay làm rối lên, người nhặng xị
+
++ an old maid: gái già; bà cô, người kỹ tính và hay lo lắng
+- già giặn, có kinh nghiệm, lão luyện
+
++ old head on young shoulders: ít tuổi nhưng già giặn
+
++ old in diplomacy: có kinh nghiệm về ngoại giao
+
++ an old bird: cáo già
+
++ an old hand: tay lão luyện
+- lên... tuổi, thọ
+
++ he is ten years old: nó lên mười (tuổi)
+- cũ, nát, rách, cổ
+
++ old clothes: quần áo cũ
+
++ old friends: những bạn cũ
+
++ old as the hills: cổ như những trái đồi
+- thân mến (để gọi)
+
++ look here, old man!: này!, ông bạn thân mến!
+- xưa, ngày xưa
+
++ old Hanoi: Hà nội ngày xưa
+!the Old World
+- đông bán cầu
+
++ the good old times: thời oanh liệt xưa, thời đẹp đẽ xưa, thời huy hoàng xưa
+!old man of the sea
+- người bám như đỉa
+!any old thing
+- (từ lóng) bất cứ cái gì
+!to have a good (fine, high) old time
+- (từ lóng) nghỉ rất thoải mái
+!my old bones
+- (xem) bone
+!the old man
+- cái thân này, cái thân già này
+*  dt
+- of old xưa, ngày xưa
+
++ the men of old: người xưa
+
++ I have heard it of old: tôi nghe thấy vấn đề đó từ lâu rồi
+
+@old age
+* dt
+- tuổi già
+ @old boy
+* dt
+- học trò cũ; cựu học sinh
+- người già
+ @old english
+- như angolo-saxon
+ @old fashioned
+* tt
+- cũ, không hợp thời trang
+- nệ cổ, hủ lậu, lạc hậu
+ @old folks'home
+* dt
+- nhà dưỡng lão
+ @old girl
+* dt
+- học trò cũ; cựu học sinh
+- người già
+ @old glory  
+*  dt
+- (từ Mỹ,nghĩa Mỹ) quốc kỳ Mỹ
+
+@old gold  
+*  dt
+- màu vàng úa
+
+@old harry   (Old_Nick) @old hat  
+*  tt
+- (từ lóng) cổ lỗ sĩ, không hợp thời trang
+
+@old lady
+* dt
+- bà nhà tôi, bà già tôi
+ @old master  
+*  dt
+- nhà hoạ sĩ lớn thời trước (của Châu âu trước (thế kỷ) 18)
+- bức hoạ của một hoạ sĩ lớn thời trước
+
+@old moon  
+*  dt
+- trăng hạ tuần
+
+@old nick   (Old_Nick) @old salt
+* dt
+- <thgt> thuỷ thủ lão luyện, thủy thủ có kinh nghiệm như salt
+ @old-clothesman  
+*  dt
+- người bán quần áo cũ
+
+@olden  
+*  tt
+- (từ cổ,nghĩa cổ),  (văn học) xưa, ngày xưa, thuở xưa
+
++ in olden day: ngày xửa ngày xưa
+*  ngdgt
+- làm cho già, làm cho yếu
+*  ndgt
+- già đi, yếu đi
+
+@old-established  
+*  tt
+- xưa, cũ, có từ lâu, lâu đời
+
+@old-fashioned  
+*  tt
+- cũ, không hợp thời trang
+- nệ cổ, lạc hậu, hủ lậu (người)
+
+@old-fashionedness  
+*  dt
+- sự không hợp thời trang
+- tính chất nệ cổ, tính chất lạc hậu
+
+@old-fogey   (old-fogy) @old-fogeyish   (old-fogyish) @old-fogy   (old-fogy) @old-fogyish   (old-fogyish) @oldie
+* dt
+- người già hoặc vật việc cũ
+ @oldish  
+*  tt
+- hơi già
+- hơi cũ
+
+@oldishness  
+*  dt
+- (từ hiếm,nghĩa hiếm) tính chất hơi già
+- tính chất hơi cũ
+
+@old-lag
+* dt
+- người đã bị tù nhiều lần
+ @old-maid
+* dt
+- bà cô, gái già
+ @old-maidish  
+*  tt
+- (thuộc) gái già, (thuộc) bà cô; có vẻ gái già, có vẻ bà cô
+
+@old-man
+* dt
+- ông nhà tôi, ông già tôi
+ @old-man's beard
+* dt
+- cây ông lão
+ @old-school
+* dt
+- trường truyền thống
+ @old-school tie
+* dt
+- cà vạt truyền thống
+ @oldsquaw
+* dt
+- (Mỹ) vịt đuôi dài
+ @old-stager
+* dt
+- người kỳ cựu
+ @oldster  
+*  dt
+- người già, người không còn trẻ trung gì nữa
+
+@old-sweat
+* dt
+- người từng trải
+ @old-time  
+*  tt
+- cổ, thuộc thời xưa
+
+@old-timer  
+*  dt
+- (thông tục) dân kỳ cựu (ở nơi nào, tổ chức nào...)
+- người cổ lỗ sĩ
+
+@old-wife  
+*  dt
+- bà già
+
+@oldwife
+* dt
+- như oldsquaw
+* dt
+- như oldsquaw
+ @old-wives' tale  
+*  dt
+- chuyện bà già (chuyện lẩm cẩm mê tín của các bà già)
+
+@old-woman
+* dt
+- bà già
+- người đàn ông kiểu cách, nhút nhát
+ @old-womanish   (old-womanly) @old-womanishness   (old-womanliness) @old-womanliness   (old-womanliness) @old-womanly   (old-womanly) @old-world
+* tt
+- thời xa xưa
+ @ole
+- liên kết và nhúng đối tượng (Object Linking and Embedding)
+ @olea
+* dt
+- (thực vật) cây ô liu
+ @oleacae
+* dt
+- (thực vật) họ nhài
+ @oleaginous  
+*  tt
+- nhờn
+- có dầu, cho dầu
+
+@oleaginously
+* dt
+- a dua; xu nịnh
+ @oleander  
+*  dt
+- (thực vật học) cây trúc đào
+
+@oleaster  
+*  dt
+- (thực vật học) cây nhót đắng
+
+@oleate
+* dt
+- (hoá học) Oliat
+
++  calcium oliate:canxi oliat
+ @olecranal
+* tt
+- xem olecranon, thuộc về mỏm khủyu, mấu khủyu
+ @olecranon
+* dt
+- mỏm khủyu; mấu khủyu
+ @olefiant
+* tt
+- tạo dầu
+ @olefin(e)
+* dt
+- Olefin
+ @oleic  
+*  tt
+- (hoá học) oleic acid axit oleicz
+
+@oleiferous
+* tt
+- cho dầu; chứa dầu
+ @olein  
+*  dt
+- (hoá học) Olein
+
+@oleo   (oleo) @oleograph  
+*  dt
+- tranh in dầu
+
+@oleographic  
+*  tt
+- (thuộc) thuật in tranh dầu; như tranh in dầu
+
+@oleography  
+*  dt
+- thuật in tranh dầu
+
+@oleomargarine   (oleo) @oleometer  
+*  dt
+- cái đo tỷ trọng dầu
+
+@oleophilic
+* tt
+- ưa dầu
+ @oleoresin  
+*  dt
+- nhựa dầu (của cây)
+
+@oleoresinous
+* tt
+- xem oleoresin, thuộc về nhựa dầu
+ @oleosaccharum
+* dt
+- đường dầu
+ @oleose
+- xem oleous
+ @oleous
+- Cách viết khác : oleose 
+ @oleum
+* dt
+- Oleum axit sunfuaric bốc khói
+ @olevel
+* dt
+- như O level
+- kỳ thi cấp cơ sở lấy chứng chỉ giáo dục phổ thông (ở Anh trước đây)
+ @olfaction  
+*  dt
+- sự ngửi
+- khứu giác
+
+@olfactive
+* tt
+- thuộc về khứu giác
+ @olfactometer
+* dt
+- khứu giác kế
+ @olfactory  
+*  tt
+- (thuộc) sự ngửi
+- (thuộc) khứu giác
+
++ olfactory nerves: thần kinh khứu giác
+*  dt,  (thường) số nhiều
+- cơ quan khứu giác
+
+@olibanum
+* dt
+- nhựa hương
+ @olid  
+*  tt
+- thối, thum thủm
+
+@oligacanthous
+* tt
+- ít gai; thưa gai
+ @oligandrous
+* tt
+- ít nhị; thưa nhị
+ @oligarch  
+*  dt
+- đầu sỏ chính trị
+
+@oligarchic   (oligarchical) @oligarchical   (oligarchical) @oligarchist
+* dt
+- xem oligarchy, người tán thành chế độ có ít người cầm đầu
+ @oligarchy  
+*  dt
+- chính trị đầu xỏ
+- nước có nền chính trị đầu xỏ
+- tập đoàn đầu sỏ chính trị
+
+@oligocardia
+* dt
+- nhịp tim chậm
+ @oligocarpous  
+*  tt
+- ít quả (cây)
+
+@oligocene  
+*  dt
+- (địa lý,địa chất) thể oligoxen
+
+@oligochaete
+* dt
+- (động vật) giun ít tơ
+ @oligochaetous
+* tt
+- xem oligochaete, thuộc giun ít tơ
+ @oligoclase
+* dt
+- (khoáng vật học) oligocla
+ @oligodynamic
+* tt
+- ít biến động
+ @oligogalactia
+* dt
+- (y học) chứng thiếu sữa
+ @oligogene
+* dt
+- gien chất lượng; thể đột biến chính
+ @oligogenic
+* tt
+- xem oligogene, (thuộc) gen chất lượng; thế đột biến chính
+ @oligoglia
+* dt
+- tế bào thần kinh đệm ít nhánh
+ @oligolectic
+* tt
+- ít chọn lọc
+ @oligomer
+* dt
+- (hoá học) Oligome
+ @oligomeric
+* tt
+- thuộc Oligome
+ @oligomerous
+* tt
+- thưa số, thưa mẫu
+ @oligomonorrhea
+* dt
+- (y học) chứng thưa kinh nguyệt
+ @oligonervous
+* tt
+- ít ( @oligophagous
+* tt
+- ăn ít loại thức ăn
+ @oligophagy
+* dt
+- xem oligophagous, tính ăn ít loại thức ăn
+ @oligophiletic
+* tt
+- ít dạng tổ tiên
+ @oligophyllous
+* tt
+- ít lá, thưa lá
+ @oligopod
+* tt
+- (động vật) ít chân
+ @Oligopolistic
+- (Econ) Hành vi độc quyền nhóm bán
+: Là hành vi của các doanh nghiệp được đặc trưng bởi sự phụ thuộc lẫn nhau trong việc ra quyết định về những linh vực chính sách lớn, chẳng hạn như định giá, quảng cáo và đầu tư.
+ @Oligopoly
+- (Econ) (Thị trường) độc quyền nhóm bán
+: Là một cơ cấu thị trường trong đó các doanh nghiệp đều ý thức được sự phụ thuộc lẫn nhau trong các kế hoạch bán hàng, sản xuất , đầu tư và quảng cáo.
+ @oligopoly
+* dt
+- thị trường trong đó có một vài hàng hoá có ảnh hưởng nhưng đều không làm chủ được thị trường
+ @Oligopsony
+- (Econ) (Thị trường) độc quyền nhóm mua.
+: Là một thị trường mà tại đó có ít người mua trong khi có rất nhiều người bán.
+ @oligopyrene
+* tt
+- ít hạch (ít nhiễm sắc thể)
+ @oligosomal
+* tt
+- ít nhiễm sắc thể
+ @oligospermatism
+* dt
+- tính ít tinh trùng
+ @oligospermous
+* tt
+- ít hạt; ít tinh trùng
+ @oligosporous
+* tt
+- ít  @oligothermic
+* tt
+- chịu nhiệt độ thấp
+ @oligotrophic
+* tt
+- thiếu  @oliguresis
+* dt
+- (y học) chứng tiểu ít
+ @olio   (olla_podrida) @oliva
+* dt
+- thể trám
+ @olivaceous  
+*  tt
+- có màu ôliu, lục vàng
+
+@olivacious
+* tt
+- có màu ôliu, lục vàng
+
++  olivaceous hat:cái nón màu ôliu
+ @olivary  
+*  tt
+- (giải phẫu) hình quả ôliu, hình bầu dục
+
+@olive  
+*  dt
+- (thực vật học) cây ôliu
+- quả ôliu
+- gỗ ôliu
+- màu ôliu
+- (như) olive-branch
+- khuy áo hình quả ôliu
+- (số nhiều) thịt hầm cuốn
+
++ beef olive: bò hầm cuốn
+!crow (wreath) of wild olive
+- vòng hoa chiến thắng
+
+@olive crown  
+*  dt
+- vòng hoa chiến thắng
+
+@olive drab  
+*  dt
+- (từ Mỹ,nghĩa Mỹ),  (quân sự) màu lục vàng
+- vải màu lục vàng
+- (số nhiều) binh phục màu lục vàng
+
+@olive oil  
+*  dt
+- dầu ôliu
+
+@olive-branch  
+*  dt
+- cành ôliu (tượng trưng cho hoà bình)
+!to hold out the olive-branch
+- hội nghị hoà bình, nghị hoà
+
+@olive-green  
+*  tt
+- có màu ôliu, lục vàng
+
+@olivenit
+* dt
+- (khoáng vật học) Olivenit
+ @olive-oil
+* dt
+- dầu ôliu
+ @olivet   (olivette) @olivette   (olivette) @olivine  
+*  dt
+- (khoáng chất) olivin
+
+@olivinic
+* tt
+- thuộc olivin
+ @olla
+* dt
+- nồi đất
+- nồi đất đựng nước
+ @olla podrida   (olla_podrida) @ology
+* dt
+- ngành nghiên cứu; ngành học
+ @olympiad  
+*  dt
+- thời kỳ bốn năm (giữa hai đại hội thể thao Ô-lim-pích, cổ Hy-lạp)
+- đại hội thể thao quốc tế Ô-lim-pích
+
+@olympian  
+*  tt
+- (thuộc) núi Ô-lim-pi
+- (thuộc) trời; như thần Ô-lim-pi, như thiên thần
+- kể cả bề trên (thái độ)
+- (nghĩa bóng) oai vệ, đường bệ
+*  dt
+- thần Ô-lim-pi
+- người điềm đạm, người bình tĩnh
+
+@olympic  
+*  tt
+- Ô-lim-pích
+!Olympic games
+- đại hội thể thao Ô-lim-pích (cổ Hy-lạp); đại hội thể thao quốc tế Ô-lim-pích
+
+@olympus  
+*  dt
+- núi Ô-lim-pi
+- nhà trời, thiên tướng
+
+@

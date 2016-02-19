@@ -1,0 +1,10 @@
+@cw (continuous wave) magnetron
+- (Tech) đèn từ khống sóng liên tục
+ @cw (continuous wave) mode
+- (Tech) chế độ sóng liên tục
+ @cwm
+* dt
+- thung lũng tròn
+ @cwt
+- (vt của tiếng latinh centum : tiếng anh weight) tạ (đơn vị đo trọng
+ @
